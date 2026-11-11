@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 17:46 UTC by the scrape workflow._
+_Updated 2026-11-11 18:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 17:46 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 3,708 | 2026-11-11T17:45 |
-| elve | 1 | 784 | 2026-11-11T17:46 |
+| amvgg | 1 | 4,029 | 2026-11-11T18:00 |
+| elve | 1 | 862 | 2026-11-11T18:01 |
 
-## AMVGG completed trades: 909 total
+## AMVGG completed trades: 967 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 909 |
+| 2026-11-11 | 967 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **woliver83**: Count Slothula (M) | **gTheGamerProYTg**: Unicorn (MFR) |
-| 17:45 | **trade_toshadow02**: Copycat (N), Sushi Penguin (R) | **laxwyxl**: Cow |
-| 17:45 | **beatsvic**: Cupid Dragon (MFR), Ram (MFR), Silly Duck (MFR), Spring Bunny Hood | **vpzqik**: Cow (MFR) |
-| 17:45 | **you35o**: Owl (FR) | **XxxSasha_aaaXxx**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (NFR) |
-| 17:45 | **woofwizz**: Honey Badger (MFR), Husky (MFR), Tiny Wings | **GrusFavMinion76**: African Wild Dog (FR) |
-| 17:45 | **Chcd_baby**: Praying Mantis (N) | **O4Xxe**: Raccoon (N) |
-| 17:45 | **mintyplays89**: Bunny Swirl (M), Elasmosaurus (MFR), Shrew (FR), Shark (NR), Lava Dragon (FR), Great Pyrenees (N) | **Roman012_sl**: Goose (FR) |
-| 17:45 | **Catzini_1**: Arctic Reindeer (MFR), Frost Dragon (FR), Parrot (FR) | **ANDY_245780**: Bat Dragon (FR) |
-| 17:45 | **gul3n3hs**: Angus Cow (N) ×2 | **BlackGigi2**: Snowball Pug |
-| 17:45 | **Lola242532**: Copycat (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **4532Piggy**: Jester Dragon, Copycat |
-| 17:45 | **plansrik**: Cow (FR), Turtle (FR), Fly-A-Pet Potion | **Lola242532**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:45 | **etherealstarblaze**: Highland Cow (N) | **Yoonie_Alisha**: Fly-A-Pet Potion |
-| 17:45 | **camcc255**: Peach Owl | **Ivyswrld1**: Yeti |
-| 17:45 | **mzylovie**: Chihuahua (NFR), King Bee (R), Muskrat (M), Pangolin (N), Blue Butterfly (N), St Bernard, Unicorn, Gemstone Egg, Electric Hornet, Thunderfisher, Angus Bull, Nebula Snake | **pluraIsoul**: Canadian Goose (M) |
-| 17:45 | **dinklass**: Stitches (M) | **itzz_Keys**: Fly-A-Pet Potion |
+| 18:00 | **makaka3901**: Balloon Stroller, Chihuahua | **nikavi6**: Ride-A-Pet Potion |
+| 18:00 | **jam0khurt**: Ride-A-Pet Potion ×9, Albino Bat | **AseesCr7GoesBoom**: Sea Slug |
+| 18:00 | **makaka3901**: Chihuahua ×2 | **ale_45874**: Ride-A-Pet Potion |
+| 18:00 | **makaka3901**: Ride-A-Pet Potion | **Tromdew**: Chihuahua ×3 |
+| 18:00 | **corbin374**: Frost Dragon (FR) | **cazzy123abc**: S'mores Raccoon (M), Owlbear (NFR), Snowball Pug (MFR), Arctic Dusk Dragon (R), Pretty Pony (MFR), Moon Rabbit (MR), Panda (MFR), Frost Fury (MFR), Munchkin Cat (FR), French Bulldog (MFR), Chocolate Dutch Guinea Pig (MFR), Chocolate Dutch Guinea Pig (MR), Dire Wolf (MFR), Dragonfruit Fox (NR), Tiny Wings |
+| 18:00 | **vxzzz632**: Paint Sealer ×9 | **Zane_TheFrog**: Bready Necklace |
+| 18:00 | **l3gavaya**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5 | **MR_HAIS556**: Munchkin Cat (FR) |
+| 18:00 | **jefx045**: Ancient Dragon, Dragonfly, Blue Whale, Diamond Griffin, Diamond Mahi Mahi ×2, Golden Griffin, Huntsman Robin ×2, Alicorn | **aoqweza**: Ride-A-Pet Potion |
+| 18:00 | **Papa_Ghost94**: Pet Handler Pro Certificate ×3, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **king_white84**: Candicorn (FR) |
+| 18:00 | **Aggr0berlin**: Cryptid (R), Fairy Bat Dragon (FR), Rose Dragon (FR), Ride-A-Pet Potion, Tuxedo Cat | **marchthenewest**: Blazing Lion (FR) |
+| 18:00 | **caticaaa**: Copycat ×3, Ice Golem (FR), Choco Penguin (M), German Shepherd (N), Kitty Bat (N), Sushi Penguin, Pig, Gemstone Egg, Black Macaque | **makarzilla225**: Albino Monkey (NFR) |
+| 18:00 | **marchthenewest**: Cow (FR), Fly-A-Pet Potion ×2 | **caxarok_ponosik52**: Mini Pig |
+| 18:00 | **is_Hector**: Ride-A-Pet Potion ×6 | **LunaLuve_Good**: Jester Dragon |
+| 18:00 | **Special_Foxi**: Alley Cat (N) | **rxyxza**: Fly-A-Pet Potion ×6 |
+| 18:00 | **personal_stalker69**: Cow (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **7pctuxx**: Mini Pig (FR) |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
