@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 16:01 UTC by the scrape workflow._
+_Updated 2026-11-11 16:04 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 16:01 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 882 | 2026-11-11T16:00 |
-| elve | 1 | 248 | 2026-11-11T16:01 |
+| amvgg | 1 | 1,262 | 2026-11-11T16:03 |
+| elve | 1 | 303 | 2026-11-11T16:04 |
 
-## AMVGG completed trades: 371 total
+## AMVGG completed trades: 472 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 371 |
+| 2026-11-11 | 472 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:45 | **KittyWikiPolska**: Goose (FR), Siamese Cat (FR) | **bri5hellokitty**: Chocolate Chip Bat Dragon (FR) |
-| 15:45 | **Aesth1cBliss23**: Pain au Chat (MR) | **hihihihihihihahahah2**: Pain au Chat (M), Pain au Chat |
-| 15:45 | **Youssefandissa**: Arctic Fox (R) | **Nel_13415**: Sakura Spirit (R) |
-| 15:45 | **Xyzxelle**: Candicorn (R) | **KlennXP**: Tiny Wings, Ride-A-Pet Potion ×6, Classic Trade Stand |
-| 15:45 | **purrpawz666**: Copycat ×2 | **Starry_Gazin**: Munchkin Cat (R), Tiny Wings |
-| 15:45 | **milk_rbx1001**: Kangaroo (R), Ride-A-Pet Potion ×3 | **kyronatka77**: Siamese Cat (R) |
-| 15:45 | **ChristinaClaraAva**: Werewolf (FR), Phantom Dragon (NFR), Phantom Dragon, Lion | **bwbwbub**: Rainbow Maker |
-| 15:45 | **jade_loxy**: Ride-A-Pet Potion ×7, Polar Bear | **w0onlll**: Jellyfish |
-| 15:45 | **fallawwi**: Red Fox (NFR) | **viltpool**: Chocolate Dutch Guinea Pig |
-| 15:45 | **myxxmi**: Unicorn Horn ×2, 2022 Birthday Cake, 2022 Birthday Party Hat, 2022 Birthday Party Horn, Tiny Wings, Ice Cream Cone Hat, Spring Bunny Hood, Winged Tiger (FR), Ram (NR), Ice Cream Hermit Crab, Ride-A-Pet Potion | **Bikunom**: Balloon Unicorn (FR) |
-| 15:45 | **rus_sn0**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR), Fairy Bat Dragon (NFR), Alpaca (FR), Sugar Glider (FR), Chipmunk (N) | **ItsRose_COMET97**: Frost Dragon (FR) |
-| 15:45 | **xxxxproxxxx5500**: Water Moon Bear (N) ×4, Zombie Chick (N) ×4 | **meg_playzrblx48**: Copycat, Corn Doggo |
-| 15:45 | **xaoichaanx**: Unicorn Horn | **nikitatak3**: Siamese Cat |
-| 15:45 | **xx_sunny2003**: Cryptid (FR), Strawberry Shortcake Bat Dragon (FR), Albino Monkey (FR), Kangaroo (FR) | **Briana_Boubi**: Owl (FR) |
-| 15:45 | **Straykidsforever1011**: Kangaroo (FR), Frost Fury (NFR), Christmas Pudding Pup | **KSYUSHA67667**: Meerkat (NFR), Polar Bear (NFR) |
+| 16:03 | **fox_11q1**: Sunrise Duckling (R) | **roninbeautfort**: Ride-A-Pet Potion |
+| 16:03 | **arseniylolol**: Matcha Cat (FR) | **tw1nkle3788**: Jester Dragon (FR) |
+| 16:03 | **Moon_Cloud609859**: Munchkin Cat | **Leyyiannn**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
+| 16:03 | **1UVK1ARA**: Ballet Swan | **Wofpiecake**: Fly-A-Pet Potion ×2 |
+| 16:03 | **Makkertjesfilmpies**: Kangaroo (NFR), Chocolate Chip Bat Dragon (FR), Monkey King (FR), Werewolf (FR), Munchkin Cat, Unicorn (NFR), Alley Cat, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Australian Kelpie (NR) | **Arinagrande_cute**: Parrot (R) |
+| 16:03 | **sillyjuju247**: Christmas Pudding Pup (MFR), Candicorn | **trythisrye8**: Strawberry Shortcake Bat Dragon (NFR) |
+| 16:03 | **opialisticx**: Sea Slug (NFR), Ride-A-Pet Potion ×2 | **HELENA_GUEMER12494**: Dragonfruit Fox (MFR) |
+| 16:03 | **KeineAhnungvonnix1**: Latte Kitsune (MFR), Jousting Horse (MFR) | **6un2z**: Copycat (MFR) |
+| 16:03 | **cpenk3211**: Munchkin Cat, Ring-Tailed Lemur | **nafee_xx**: Crocodile |
+| 16:03 | **PANDA9994440**: Ballet Swan (M), Moonbeam Peacock (FR), Frost Phoenix (NFR), Vampire Dragon (FR), Pig ×2, Silly Duck (NFR), Drake (MR), Squid (MFR) | **leruval**: Parrot (FR) |
+| 16:03 | **anekalubitnaruto**: Frost Dragon (FR) | **LxvinqLevi**: Dalmatian (NFR), Husky (MR), Ride-A-Pet Potion ×2, Hare, Sugar Glider (FR) |
+| 16:03 | **Uliana000334**: Fly-A-Pet Potion | **NastyaMillkk**: Ride-A-Pet Potion ×2 |
+| 16:03 | **EGOATHENOOB**: Crimson Cape (M) | **NNuWiIxxX_14**: Ride-A-Pet Potion |
+| 16:03 | **vvaryaa58AaS**: Mochi Meow ×2 | **CNYLA_ADOPTMe2**: Royal Palace |
+| 16:03 | **fatzhiiiiii**: Chocolate Dutch Guinea Pig (NR), Mexican Wolf (M), Fire Foal (M) | **millka11111111**: Chihuahua (M) |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
