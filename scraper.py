@@ -344,7 +344,7 @@ def auto():
     last = last_values_time()
     if last is None or now() - last >= VALUES_EVERY:
         snapshot_values()
-        # sync_elve_updates(limit=30)  # re-enable once the local full backfill is pushed (avoids two writers)
+        sync_elve_updates(limit=30)
         sync_amvgg_updates()
     write_stats()
 
