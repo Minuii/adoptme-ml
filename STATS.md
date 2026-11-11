@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 23:31 UTC by the scrape workflow._
+_Updated 2026-11-11 23:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 23:31 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 10,286 | 2026-11-11T23:30 |
-| elve | 1 | 2,168 | 2026-11-11T23:31 |
+| amvgg | 1 | 10,591 | 2026-11-11T23:45 |
+| elve | 1 | 2,227 | 2026-11-11T23:46 |
 
-## AMVGG completed trades: 2,055 total
+## AMVGG completed trades: 2,091 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 2,055 |
+| 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:30 | **kathlike82210**: Giant Panda (NFR), Cryptid (NFR), Unicorn Horn, Rain Cloud Hat | **xiakusu**: Hedgehog (MFR) |
-| 23:30 | **dan_agn120**: Koi Carp | **melchipo**: Endangered Egg ×9 |
-| 23:30 | **draxqulla**: Ride-A-Pet Potion ×4 | **GLanceGXxx**: Spring Bunny Hood |
-| 23:30 | **Maxi_papucho1**: Scarebear (MFR), Glacier Moth, Chocolate Dutch Guinea Pig, Flaming Fox (R) | **charsuperdude**: Shark Puppy (NFR) |
-| 23:30 | **Onyx_ctr**: Retired Egg ×18 | **MillieIsAmazingLol**: Albino Bat |
-| 23:30 | **iris2012septiembre1**: Science Hat, Retired Egg ×14 | **MillieIsAmazingLol**: Cotton Candy Hat |
-| 23:30 | **l3gavaya**: Candicorn (FR), Ride-A-Pet Potion | **vaporeonxD300**: Kangaroo (FR) |
-| 23:30 | **Urfavorite1225**: Turtle (NFR), Cow (NFR), Fairy Bat Dragon (FR), Crocodile (FR), Arctic Dusk Dragon (FR), Highland Cow (NR) | **xKashaf**: Parrot (FR) |
-| 23:30 | **Lilsx10x**: Dragonfruit Fox (MFR), Polar Bear (MFR), Husky (MFR) | **roblox_user_8676283275**: Strawberry Penguin (MFR) |
-| 23:30 | **AndresPatato**: Shih Tzu (M) ×3 | **raeshiia**: Ride-A-Pet Potion |
-| 23:30 | **MatiXD12306**: Blue Cat Ear Headphones | **Puppyofskz**: Volcanic Boots, Cheese Hat |
-| 23:30 | **cuutiesvvgift**: Dragonfruit Fox (MFR), Binturong (MFR) | **roblox_user_8676283275**: Polar Bear (MFR) |
-| 23:30 | **zerotocupiddragon**: Fairy Bat Dragon, Jester Dragon | **CaracasanaUuU**: Jester Dragon (NFR) |
-| 23:30 | **FaIesi**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Soffi_nas7**: Copycat |
-| 23:30 | **AnnDemon_12**: Icy Porcupine (NR), Fairytale Egg ×5 | **Zuminkikiki**: Kitty Biscuit |
+| 23:45 | **piano29th**: Glormy Leo (NFR), Snowball Pet (R) | **VanillaxxFrappy**: Candicorn (FR) |
+| 23:45 | **MillieIsAmazingLol**: Unicorn (NFR), Unicorn (NR), Unicorn (N), Golden Unicorn (NR) ×2, Mochi Meow (NR), Ballet Swan (R), Stray Cat Dragon (M) | **AMINO4KA7U**: Turtle (R) |
+| 23:45 | **Irisxbunnyy**: Puffin (R), Christmas Pudding Pup (R) | **Mooheismoo**: Frostbite Cub (M), Mighty Haetyphoon Animated Sticker |
+| 23:45 | **Angelbatista_me2**: Queen Bee (MFR), Polar Bear (NFR), S'mores Raccoon (N) | **EdiotBake**: Strawberry Shortcake Bat Dragon (FR) |
+| 23:45 | **VivelexEdits**: Christmas Egg, Golden Gift, Turtle, Kangaroo (FR), Matcha Cat, Ice Golem (FR), Ice Golem (R), Koala (MR), Gumball Caterpillar (MFR), Ride-A-Pet Potion ×3 | **orchidbutterfliess**: Evil Unicorn (FR) |
+| 23:45 | **sleepy_s0ren**: Christmas Pudding Pup (R), Puffin (R), Shark Puppy, Ride-A-Pet Potion ×2 | **Irisxbunnyy**: 2022 Birthday Party Hat |
+| 23:45 | **AMINO4KA7U**: Turtle (FR) | **qlltm**: Polar Bear (R), Hyena (R), Swan (FR), Shiver Wolf (NR), Ginger Cat (MR), Glormy Dolphin (NR), Sasquatch (NR), Ladybug (NFR), Golden Penguin (R), Alicorn (NR), Golden Dragon (NR), Diamond Dragon (NF) |
+| 23:45 | **Hannah_MI989**: Undead Jousting Horse (N), Sushi Penguin (N) | **StankFart_Jr**: Silverback Gorilla (M) |
+| 23:45 | **baibai_nainai00**: Tuxedo Cat (NFR), Tuxedo Cat (NR), Burger Bear (MFR) | **MrRambul**: Tuxedo Cat (MFR) |
+| 23:45 | **XxSunshine_SunsetsxX**: Stitches (N) | **Hearts4Jay108**: Skelicorn ×4 |
+| 23:45 | **livwlove**: Copycat ×2, Ride-A-Pet Potion, Fly-A-Pet Potion | **FaIesi**: Candicorn |
+| 23:45 | **xXrainbowXx1425**: Cow (FR), Cow (R) | **xMioqw**: Arctic Reindeer (FR) |
+| 23:45 | **XxZaedxxs**: Peppermint Penguin (R), Kitty Bat (MFR) | **0bvsmavi**: Flaming Fox (MFR) |
+| 23:45 | **Soffi_nas7**: Jester Dragon (R) | **Leviodas**: Fly-A-Pet Potion ×3 |
+| 23:45 | **AndresPatato**: Orangutan (M), Zebra (M), Muskrat (M) | **Kamila_33309**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
