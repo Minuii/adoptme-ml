@@ -2,7 +2,7 @@
 
     python build_site.py   # then open site/index.html through a local server: python -m http.server -d site
 """
-import gzip, json
+import gzip, json, unicodedata
 from pathlib import Path
 
 from scraper import DATA, lines
@@ -16,11 +16,12 @@ GG_SNAP = {"r-fr": "regularValue", "n-fr": "neonValue", "m-fr": "megaValue",
            "r-np": "npRegularValue", "n-np": "npNeonValue", "m-np": "npMegaValue",
            "r-r": "rValue", "r-f": "fValue", "n-r": "nrValue", "n-f": "nfValue", "m-r": "mrValue", "m-f": "mfValue"}
 ELVE_LABEL = {"default": "r", "neon": "n", "mega": "m", "no potion": "np", "fly ride": "fr"}
-GG_CAT = {"PetWear": "pet wear", "Vehicles": "vehicles", "Houses": "other"}
+GG_KIND = {"petwear": "pet wear", "houses": "other"}  # AMVGG /values/<kind> -> Elvebredd's category names
 
 
-def key(name):
-    return " ".join(str(name).lower().replace("’", "'").split())
+def key(name):  # join key across lists: case, accents ("Tió" vs "Tio"), curly quotes and spacing don't matter
+    s = unicodedata.normalize("NFKD", str(name).lower().replace("’", "'"))
+    return " ".join("".join(c for c in s if not unicodedata.combining(c)).split())
 
 
 def num(v):
@@ -38,7 +39,6 @@ def latest(source):
 elve, elve_at = latest("elve")
 gg, gg_at = latest("amvgg")
 gg_upd = lines("amvgg_updates")
-gg_cat = {key(c["itemName"]): c.get("itemCategory") for c in gg_upd}
 catalog = {key(i["name"]): i for i in json.loads((DATA / "catalog.json").read_text(encoding="utf-8"))} \
     if (DATA / "catalog.json").exists() else {}
 
@@ -51,12 +51,15 @@ for i in elve:
     items[key(i["name"])] = {"name": i["name"], "cat": i.get("type") or "other", "rarity": (i.get("rarity") or "").replace("none", ""),
                              "E": {k: v for k, v in vals.items() if v}, "A": {}, "img": "https://elvebredd.com" + i["image"] if i.get("image") else ""}
 for i in gg:
-    it = items.setdefault(key(i["name"]), {"name": i["name"], "cat": GG_CAT.get(gg_cat.get(key(i["name"])), str(gg_cat.get(key(i["name"])) or "other").lower()),
-                                           "rarity": "", "E": {}, "A": {}, "img": ""})
-    pet = it["cat"] == "pets"
-    vals = {v: num(i.get(f)) for v, f in GG_SNAP.items()} if pet else {"v": num(i.get("regularValue"))}
+    kind = i.get("kind", "pets")  # snapshots before 2026-11-11 came from the calculator: pets only
+    it = items.setdefault(key(i["name"]), {"name": i["name"], "cat": GG_KIND.get(kind, kind), "rarity": "", "E": {}, "A": {}, "img": ""})
+    if kind == "pets":
+        vals = {v: num(i.get(f)) for v, f in GG_SNAP.items()}
+        it["demand"] = {v: i.get(f"{n}Demand") for v, n in (("r", "regular"), ("n", "neon"), ("m", "mega")) if i.get(f"{n}Demand")}
+    else:
+        vals = {"v": num(i.get("value"))}
+        it["demand"] = {"r": i["demand"]} if i.get("demand") else {}
     it["A"] = {k: v for k, v in vals.items() if v}
-    it["demand"] = {v: i.get(f"{n}Demand") for v, n in (("r", "regular"), ("n", "neon"), ("m", "mega")) if i.get(f"{n}Demand")}
 for k, it in items.items():
     c = catalog.get(k)
     if c:

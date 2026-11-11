@@ -110,11 +110,18 @@ def ts(t):
     return t.strftime("%Y-%m-%dT%H%MZ")  # no colons: valid filename on Windows
 
 
+# AMVGG's calculator only has pets (r/n/m fly ride). /values/pets has all 12 pet variants, and every other
+# category (eggs, toys, ...) is only on its own /values/<kind> page, under "items" with one value + demand.
+AMVGG_KINDS = ["pets", "eggs", "food", "gifts", "houses", "petwear", "stickers", "strollers", "toys", "vehicles"]
+
+
 def snapshot_values():
-    # ponytail: whole list per snapshot (~100KB gz). Diff-only storage if the repo ever gets big.
-    for source, url, key in [("elve", "https://elvebredd.com/adopt-me-calculator", "initialPets"),
-                             ("amvgg", "https://amvgg.com/calculator", "pets")]:
-        items = find_list(fetch(url), key)
+    # ponytail: whole list per snapshot (~150KB gz). Diff-only storage if the repo ever gets big.
+    lists = {"elve": find_list(fetch("https://elvebredd.com/adopt-me-calculator"), "initialPets"), "amvgg": []}
+    for kind in AMVGG_KINDS:
+        lists["amvgg"] += [dict(i, kind=kind) for i in find_list(fetch(f"https://amvgg.com/values/{kind}"),
+                                                                 "pets" if kind == "pets" else "items")]
+    for source, items in lists.items():
         out = DATA / "values" / source / f"{ts(now())}.json.gz"
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_bytes(gzip.compress(json.dumps(items).encode()))

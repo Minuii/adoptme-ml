@@ -7,273 +7,217 @@
 <meta name="description" content="AMVGG and Elvebredd Adopt Me values side by side, with full value history.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <style>
 :root {
-  --bg: #1f1f1f; --bg-2: #252525; --card: #2b2b2b; --card-hi: #333; --line: rgba(255,255,255,.08); --line-2: rgba(255,255,255,.16);
-  --text: #f4f4f5; --muted: rgba(255,255,255,.66); --faint: rgba(255,255,255,.42);
-  --amvgg: #2cbfec; --amvgg-bg: rgba(44,191,236,.12);
-  --elve: #ff4d94; --elve-bg: rgba(232,31,118,.14);
-  --up: #4ade80; --down: #f87171;
-  --common: #b4bcc8; --uncommon: #6abf4b; --rare: #2fb2ef; --ultra: #b07cf0; --legendary: #f6e948;
-  --r-sm: 8px; --r: 12px; --r-lg: 16px;
+  --bg: #faf9f7; --panel: #ffffff; --fg: #1f1e1c; --muted: #6b6862; --faint: #9a968f; --line: #e6e3dd; --hover: #f3f1ed;
+  --elve: #d03a74; --amvgg: #1b8fc0; --up: #2f8a4e; --down: #c4442f; --grid: #eeebe6; --axis: #cfcbc4;
+  --tip-bg: #ffffff; --shadow: 0 4px 16px rgba(0,0,0,.08);
+  --common: #8f97a3; --uncommon: #4f9b34; --rare: #1d93cf; --ultra: #8a55d6; --legendary: #c9a800;
+  --serif: "Source Serif 4", Georgia, serif; --sans: Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --r: 10px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1a1918; --panel: #232220; --fg: #ecebe8; --muted: #a8a49d; --faint: #7a766f; --line: #34322f; --hover: #2b2a27;
+    --elve: #f0709f; --amvgg: #4cc0ee; --up: #5cc47e; --down: #ef7a66; --grid: #2d2b29; --axis: #4a4744;
+    --tip-bg: #2b2a27; --shadow: 0 4px 16px rgba(0,0,0,.4);
+    --common: #aab2bd; --uncommon: #7cc463; --rare: #4cb5ea; --ultra: #b38af0; --legendary: #e8cf3a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #1a1918; --panel: #232220; --fg: #ecebe8; --muted: #a8a49d; --faint: #7a766f; --line: #34322f; --hover: #2b2a27;
+  --elve: #f0709f; --amvgg: #4cc0ee; --up: #5cc47e; --down: #ef7a66; --grid: #2d2b29; --axis: #4a4744;
+  --tip-bg: #2b2a27; --shadow: 0 4px 16px rgba(0,0,0,.4);
+  --common: #aab2bd; --uncommon: #7cc463; --rare: #4cb5ea; --ultra: #b38af0; --legendary: #e8cf3a;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
-body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 Montserrat, system-ui, sans-serif;
-  background-image: radial-gradient(1200px 500px at 85% -10%, rgba(44,191,236,.10), transparent 60%),
-                    radial-gradient(900px 420px at 0% 0%, rgba(232,31,118,.10), transparent 60%);
-  background-attachment: fixed; min-height: 100vh; }
-h1, h2, h3, .display { font-family: "Baloo 2", Montserrat, sans-serif; letter-spacing: .2px; margin: 0; line-height: 1.1; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.5 var(--sans); -webkit-text-size-adjust: 100%; }
 button, input, select { font: inherit; color: inherit; }
-:focus-visible { outline: 2px solid var(--amvgg); outline-offset: 2px; }
-.wrap { max-width: 1280px; margin: 0 auto; padding: 0 16px; }
+:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 32px 16px 48px; display: flex; flex-direction: column; gap: 28px; }
+h1 { font: 400 clamp(28px, 4vw, 38px)/1.15 var(--serif); margin: 0; text-wrap: balance; }
+h2 { font-size: 17px; font-weight: 600; margin: 0; }
+.lede { margin: 8px 0 0; color: var(--muted); max-width: 72ch; }
+.lede b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
+.note { font-size: 13px; color: var(--muted); margin: 0; max-width: 75ch; line-height: 1.45; }
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); overflow-x: auto; }
+.tab { background: none; border: 0; border-bottom: 2px solid transparent; padding: 8px 12px; margin-bottom: -1px; color: var(--muted); cursor: pointer; white-space: nowrap; }
+.tab:hover { color: var(--fg); }
+.tab[aria-selected=true] { color: var(--fg); border-bottom-color: var(--fg); font-weight: 600; }
+.page { display: flex; flex-direction: column; gap: 24px; min-width: 0; }
+.section { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--r); padding: 16px; display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.label { font-size: 12px; color: var(--muted); letter-spacing: .02em; }
+.big { font: 400 30px/1.1 var(--serif); font-variant-numeric: tabular-nums; }
+.sub { font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.two { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 28px; }
 
-/* header */
-header.top { position: sticky; top: 0; z-index: 20; background: rgba(31,31,31,.86); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
-header.top .wrap { display: flex; align-items: center; gap: 16px; height: 60px; }
-.brand { display: flex; align-items: center; gap: 10px; font-family: "Baloo 2"; font-weight: 800; font-size: 22px; white-space: nowrap; }
-.brand .logo { width: 30px; height: 30px; border-radius: 9px; display: grid; place-items: center;
-  background: linear-gradient(135deg, var(--elve), var(--amvgg)); box-shadow: 0 4px 14px rgba(44,191,236,.35); }
-.brand b { background: linear-gradient(90deg, var(--elve), var(--amvgg)); -webkit-background-clip: text; background-clip: text; color: transparent; }
-nav.tabs { display: flex; gap: 4px; margin-left: auto; }
-nav.tabs button { background: none; border: 0; padding: 8px 14px; border-radius: 999px; color: var(--muted); font-weight: 600; cursor: pointer; min-height: 40px; transition: background .15s, color .15s; }
-nav.tabs button:hover { color: var(--text); background: rgba(255,255,255,.05); }
-nav.tabs button[aria-selected=true] { color: #0b1a20; background: var(--amvgg); }
+/* controls */
+.controls { display: flex; flex-wrap: wrap; gap: 12px 16px; align-items: flex-end; }
+.field { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.input, select { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; min-height: 38px; }
+.input { width: min(260px, 100%); }
+.field.grow { flex: 1 1 200px; } .field.grow .input { width: 100%; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--panel); }
+.seg button { border: 0; background: none; padding: 7px 12px; min-height: 36px; color: var(--muted); cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed=true] { background: var(--hover); color: var(--fg); font-weight: 600; }
+[aria-disabled=true] { opacity: .4; pointer-events: none; }
+/* F / R / N / M, colors from elvebredd.com */
+.frnm { display: flex; gap: 6px; }
+.tog { width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--line); background: var(--panel); color: var(--muted); font-weight: 800; cursor: pointer; padding: 0; }
+.tog:hover { color: var(--fg); }
+.tog[aria-pressed=true], .bdg { color: #fff; border-color: transparent; text-shadow: 0 1px 1px rgba(0,0,0,.35); }
+.tog-f[aria-pressed=true], .bdg.f { background: linear-gradient(135deg, #8ecae8, #2f98cc 50%, #0086c8); }
+.tog-r[aria-pressed=true], .bdg.r { background: linear-gradient(135deg, #ffc5dc, #ed2c79 50%, #ff0065); }
+.tog-n[aria-pressed=true], .bdg.n { background: linear-gradient(135deg, #c1ff6e, #8cc63f 50%, #13720b); }
+.tog-m[aria-pressed=true], .bdg.m { background: linear-gradient(135deg, #bb50fd, #4503c6 50%, #511cb6); }
+.badges { display: inline-flex; gap: 4px; vertical-align: middle; }
+.bdg { display: inline-grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; font-size: 12px; font-weight: 800; }
 
-/* hero */
-.hero { padding-top: 28px; padding-bottom: 8px; display: grid; gap: 18px; }
-.hero h1 { font-size: clamp(30px, 5vw, 46px); font-weight: 800; }
-.hero h1 span.a { color: var(--amvgg); } .hero h1 span.e { color: var(--elve); }
-.hero p { margin: 0; color: var(--muted); max-width: 640px; }
-.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
-.stat { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; }
-.stat .n { font-family: "Baloo 2"; font-weight: 800; font-size: 26px; line-height: 1; }
-.stat .l { color: var(--faint); font-size: 12px; text-transform: uppercase; letter-spacing: .6px; margin-top: 4px; }
-
-/* filters */
-.filters { position: sticky; top: 60px; z-index: 15; background: rgba(31,31,31,.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); margin-top: 16px; }
-.filters .wrap { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; padding-top: 12px; padding-bottom: 12px; }
-.search { flex: 1 1 220px; position: relative; }
-.search input { width: 100%; height: 42px; border-radius: 999px; border: 1px solid var(--line-2); background: var(--bg-2); padding: 0 16px 0 40px; outline: none; }
-.search input:focus { border-color: var(--amvgg); }
-.search svg { position: absolute; left: 14px; top: 12px; opacity: .55; }
-.seg { display: inline-flex; background: var(--bg-2); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
-.seg button { border: 0; background: none; padding: 6px 12px; border-radius: 999px; color: var(--muted); font-weight: 600; font-size: 13px; cursor: pointer; min-height: 34px; white-space: nowrap; transition: background .15s, color .15s; }
-.seg button:hover { color: var(--text); }
-.seg button[aria-pressed=true] { background: var(--card-hi); color: var(--text); box-shadow: inset 0 0 0 1px var(--line-2); }
-.seg.src button[data-v=A][aria-pressed=true] { background: var(--amvgg); color: #07222b; }
-.seg.src button[data-v=E][aria-pressed=true] { background: var(--elve); color: #2a0414; }
-.seg.src button[data-v=both][aria-pressed=true] { background: linear-gradient(90deg, var(--elve), var(--amvgg)); color: #111; }
-.seg[aria-disabled=true] { opacity: .4; pointer-events: none; }
-.group { display: flex; flex-direction: column; gap: 4px; }
-.group > label, .group > span { font-size: 11px; color: var(--faint); text-transform: uppercase; letter-spacing: .6px; padding-left: 6px; }
-select { height: 40px; border-radius: 999px; border: 1px solid var(--line-2); background: var(--bg-2); padding: 0 34px 0 14px; appearance: none; cursor: pointer;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='white' stroke-opacity='.6' stroke-width='3'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
-  background-repeat: no-repeat; background-position: right 12px center; }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; }
-.chip { border: 1px solid var(--line-2); background: transparent; border-radius: 999px; padding: 5px 12px; font-size: 12px; font-weight: 700; cursor: pointer; min-height: 32px; text-transform: capitalize; color: var(--muted); transition: all .15s; }
-.chip[aria-pressed=true] { color: #111; border-color: transparent; background: var(--c); }
-.chip:not([aria-pressed=true]):hover { border-color: var(--c); color: var(--c); }
-.more-filters { display: contents; }
-.toggle-filters { display: none; }
-
-.bar { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 16px 0 10px; color: var(--muted); font-size: 13px; flex-wrap: wrap; }
-.legend { display: flex; gap: 14px; flex-wrap: wrap; }
-.dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 6px; vertical-align: 0; }
-
-/* grid */
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(178px, 1fr)); gap: 12px; padding-bottom: 20px; }
-.card { position: relative; background: var(--card); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 12px; cursor: pointer; text-align: left;
-  display: flex; flex-direction: column; gap: 8px; transition: transform .18s ease, border-color .18s, box-shadow .18s; overflow: hidden; }
-.card::before { content: ""; position: absolute; inset: 0 0 auto; height: 3px; background: var(--rc, var(--line-2)); }
-.card:hover { transform: translateY(-2px); border-color: var(--line-2); box-shadow: 0 10px 24px rgba(0,0,0,.35); }
-.thumb { height: 104px; display: grid; place-items: center; border-radius: var(--r); position: relative;
-  background: radial-gradient(circle at 50% 60%, color-mix(in srgb, var(--rc, #888) 22%, transparent), transparent 70%); }
-.thumb img { width: 88px; height: 88px; object-fit: contain; }
-/* F / R / N / M, colors from elvebredd.com's --fly / --ride / --neon / --mega */
-.frnm { display: inline-flex; gap: 6px; }
-.frnm[aria-disabled=true] { opacity: .4; pointer-events: none; }
-.tog { width: 36px; height: 36px; padding: 0; border-radius: 50%; border: 1px solid var(--line-2); background: var(--bg-2); color: var(--muted);
-  font-family: "Baloo 2", Montserrat, sans-serif; font-weight: 800; font-size: 16px; line-height: 1; cursor: pointer; display: grid; place-items: center; transition: background .15s, color .15s; }
-.tog:hover { color: var(--text); border-color: rgba(255,255,255,.3); }
-.tog[aria-pressed=true], .bdg { color: #fff; border-color: transparent; text-shadow: 0 1px 1px rgba(0,0,0,.4); }
-.tog-f[aria-pressed=true], .bdg.f { background: linear-gradient(135deg, #8ecae8 0%, #2f98cc 50%, #0086c8 100%); }
-.tog-r[aria-pressed=true], .bdg.r { background: linear-gradient(135deg, #ffc5dc 0%, #ed2c79 50%, #ff0065 100%); }
-.tog-n[aria-pressed=true], .bdg.n { background: linear-gradient(135deg, #c1ff6e 0%, #8cc63f 50%, #13720b 100%); }
-.tog-m[aria-pressed=true], .bdg.m { background: linear-gradient(135deg, #bb50fd 0%, #4503c6 50%, #511cb6 100%); }
-.badges { position: absolute; top: 4px; right: 4px; display: flex; gap: 3px; }
-.bdg { width: 19px; height: 19px; border-radius: 50%; display: grid; place-items: center; font: 800 11px/1 "Baloo 2", Montserrat, sans-serif; }
-
-/* stats tab */
-.statspage { display: grid; gap: 14px; padding-top: 16px; padding-bottom: 40px; }
-.statspage .panel .sub { margin-top: 8px; }
-.statspage table.vt td:first-child { color: var(--text); }
-.legend2 { display: flex; gap: 14px; font-size: 12px; color: var(--muted); margin-top: 6px; }
-.chart .ax { fill: rgba(255,255,255,.45); font-size: 11px; }
-.card h3 { font-size: 17px; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.meta { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; font-size: 11px; }
-.rar { color: var(--rc); font-weight: 700; text-transform: capitalize; }
-.cat { color: var(--faint); text-transform: capitalize; }
-.dem { margin-left: auto; padding: 1px 8px; border-radius: 999px; background: var(--amvgg-bg); color: var(--amvgg); font-weight: 700; }
-.vals { display: grid; gap: 5px; margin-top: auto; }
-.val { display: flex; align-items: center; gap: 8px; border-radius: var(--r-sm); padding: 5px 8px; font-variant-numeric: tabular-nums; }
-.val.A { background: var(--amvgg-bg); } .val.E { background: var(--elve-bg); }
-.val .s { font-size: 10px; font-weight: 800; letter-spacing: .5px; width: 40px; }
-.val.A .s { color: var(--amvgg); } .val.E .s { color: var(--elve); }
-.val .x { font-family: "Baloo 2"; font-weight: 700; font-size: 17px; line-height: 1.1; }
-.val .d { margin-left: auto; font-size: 11px; font-weight: 700; }
-.val.none .x { color: var(--faint); font-size: 13px; font-family: Montserrat; font-weight: 500; }
+/* tables */
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; }
+th { text-align: left; font-weight: 500; font-size: 12px; color: var(--muted); padding: 6px 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+td { padding: 6px 8px; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; vertical-align: middle; }
+.num { text-align: right; }
+tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 .up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--faint); }
-.loadmore { display: block; margin: 8px auto 40px; background: var(--card); border: 1px solid var(--line-2); border-radius: 999px; padding: 10px 26px; font-weight: 700; cursor: pointer; min-height: 44px; }
-.loadmore:hover { border-color: var(--amvgg); color: var(--amvgg); }
-.empty { padding: 60px 0; text-align: center; color: var(--muted); }
-.skeleton { height: 230px; border-radius: var(--r-lg); background: linear-gradient(90deg, var(--card) 25%, var(--card-hi) 50%, var(--card) 75%); background-size: 200% 100%; animation: sk 1.2s infinite; }
-@keyframes sk { to { background-position: -200% 0; } }
+.ico { width: 36px; height: 36px; object-fit: contain; display: block; }
+.icocell { width: 44px; padding-right: 0; }
+.nm { font-weight: 500; }
+.rar { font-size: 12px; text-transform: capitalize; color: var(--rc, var(--muted)); }
+.dim { color: var(--faint); font-size: 12px; text-transform: capitalize; }
+.pill { font-size: 12px; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--line); white-space: nowrap; }
+.pill.A { color: var(--amvgg); } .pill.E { color: var(--elve); }
+.bar { display: inline-block; height: 6px; border-radius: 3px; vertical-align: middle; margin-left: 8px; opacity: .8; }
+.chg { font-size: 12px; margin-left: 6px; }
+.status { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 12px; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 14px; height: 3px; border-radius: 2px; display: inline-block; }
+.more { align-self: center; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 8px 22px; cursor: pointer; min-height: 40px; }
+.more:hover { background: var(--hover); }
+.empty { color: var(--muted); font-size: 13px; padding: 16px 0; margin: 0; }
 
-/* updates feed */
-.feed { display: grid; gap: 8px; padding-bottom: 40px; }
-.row { display: grid; grid-template-columns: 44px 1fr auto; gap: 12px; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 8px 12px; cursor: pointer; transition: border-color .15s; text-align: left; width: 100%; }
-.row:hover { border-color: var(--line-2); }
-.row img { width: 44px; height: 44px; object-fit: contain; }
-.row .thumb .badges { top: -2px; right: -4px; } .row .thumb .bdg { width: 15px; height: 15px; font-size: 9px; }
-.row .t { font-size: 12px; color: var(--faint); }
-.row .nm { font-weight: 700; }
-.tag { font-size: 10px; font-weight: 800; padding: 2px 7px; border-radius: 999px; margin-right: 6px; letter-spacing: .4px; }
-.tag.A { background: var(--amvgg-bg); color: var(--amvgg); } .tag.E { background: var(--elve-bg); color: var(--elve); }
-.row .chg { text-align: right; font-variant-numeric: tabular-nums; }
-.row .chg .x { font-family: "Baloo 2"; font-weight: 700; font-size: 17px; }
+/* charts */
+.chart { position: relative; min-height: 200px; }
+.chart svg { display: block; overflow: visible; }
+.chart text { fill: var(--muted); font-size: 11px; font-family: var(--sans); }
+.chart .domain { stroke: var(--axis); }
+.chart .grid line { stroke: var(--grid); }
+.tip { position: absolute; pointer-events: none; background: var(--tip-bg); border: 1px solid var(--line); box-shadow: var(--shadow); border-radius: 8px; padding: 6px 10px; font-size: 12px; white-space: nowrap; font-variant-numeric: tabular-nums; z-index: 2; }
 
-/* detail dialog */
-dialog { border: 1px solid var(--line-2); border-radius: 20px; background: var(--bg-2); color: var(--text); padding: 0; width: min(920px, calc(100vw - 24px)); max-height: calc(100vh - 32px); }
-dialog::backdrop { background: rgba(0,0,0,.6); backdrop-filter: blur(4px); }
-dialog[open] { animation: pop .2s ease-out; }
-@keyframes pop { from { opacity: 0; transform: translateY(10px) scale(.98); } }
-.dlg-head { display: flex; gap: 18px; align-items: center; padding: 20px; border-bottom: 1px solid var(--line); position: relative; }
-.dlg-head .thumb { width: 120px; height: 120px; flex: none; }
-.dlg-head .thumb img { width: 108px; height: 108px; }
-.dlg-head h2 { font-size: 30px; font-weight: 800; }
-.dlg-head .origin { color: var(--muted); font-size: 13px; margin-top: 4px; }
-.close { position: absolute; top: 12px; right: 12px; width: 40px; height: 40px; border-radius: 50%; border: 0; background: rgba(255,255,255,.06); cursor: pointer; font-size: 20px; }
-.close:hover { background: rgba(255,255,255,.12); }
-.dlg-body { padding: 16px 20px 22px; display: grid; gap: 18px; }
-.dlg-ctrls { display: flex; gap: 10px; flex-wrap: wrap; }
-.panels { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; }
-.panel { background: var(--card); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 14px; min-width: 0; }
-.panel h3 { font-size: 18px; display: flex; align-items: center; gap: 8px; }
-.panel.A h3 { color: var(--amvgg); } .panel.E h3 { color: var(--elve); }
-.panel .big { font-family: "Baloo 2"; font-size: 32px; font-weight: 800; line-height: 1.1; margin-top: 6px; }
-.panel .sub { color: var(--muted); font-size: 12px; }
-table.vt { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 10px; font-variant-numeric: tabular-nums; }
-table.vt th, table.vt td { padding: 5px 6px; text-align: right; border-bottom: 1px solid var(--line); }
-table.vt th:first-child, table.vt td:first-child { text-align: left; color: var(--muted); }
-table.vt th { color: var(--faint); font-weight: 600; font-size: 11px; text-transform: uppercase; }
-table.vt td.on { color: var(--text); font-weight: 700; background: rgba(255,255,255,.05); border-radius: 6px; }
-.chart { position: relative; margin-top: 12px; }
-.chart svg { display: block; width: 100%; overflow: visible; }
-.chart .tip { position: absolute; pointer-events: none; background: #111; border: 1px solid var(--line-2); border-radius: 8px; padding: 4px 8px; font-size: 12px; white-space: nowrap; transform: translate(-50%, -120%); opacity: 0; transition: opacity .1s; }
-.nodata { color: var(--faint); font-size: 13px; padding: 20px 0; }
-footer { color: var(--faint); font-size: 12px; padding: 30px 0 40px; border-top: 1px solid var(--line); }
+/* item page */
+.back { align-self: flex-start; background: none; border: 0; color: var(--muted); cursor: pointer; padding: 4px 0; }
+.back:hover { color: var(--fg); }
+.itemcard { display: flex; flex-wrap: wrap; gap: 20px; align-items: center; background: var(--panel); border: 1px solid var(--line); border-radius: var(--r); padding: 16px; }
+.itemimg { width: 112px; height: 112px; display: grid; place-items: center; flex: none; color: var(--faint); font-size: 12px; }
+.itemimg img { max-width: 100px; max-height: 100px; }
+.iteminfo { display: flex; flex-direction: column; gap: 8px; min-width: 0; flex: 1; }
+.itemname { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.itemname h2 { font: 400 26px/1.15 var(--serif); }
+.vals { display: flex; flex-wrap: wrap; gap: 28px; }
+.vals > div { display: flex; flex-direction: column; gap: 2px; }
+.vals .big { font-size: 26px; }
+.vt { font-size: 13px; }
+.vt td.on { font-weight: 600; background: var(--hover); }
+details { font-size: 13px; color: var(--muted); line-height: 1.5; }
+details ul { margin: 8px 0 0; padding-left: 18px; }
+footer { font-size: 12px; color: var(--faint); }
 footer a { color: var(--muted); }
 
-@media (max-width: 760px) {
-  header.top .wrap { height: 54px; }
-  .brand { font-size: 18px; gap: 8px; } .brand .logo { width: 26px; height: 26px; }
-  nav.tabs button { padding: 6px 10px; font-size: 13px; white-space: nowrap; min-height: 36px; }
-  .brand .am { display: none; }
-  .hero { padding-top: 18px; } .stats { grid-template-columns: repeat(2, 1fr); } .stat .n { font-size: 22px; }
-  .filters { position: static; }
-  .toggle-filters { display: inline-flex; align-items: center; gap: 6px; height: 42px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--line-2); background: var(--bg-2); font-weight: 700; cursor: pointer; }
-  .more-filters { display: none; }
-  .filters.open .more-filters { display: flex; flex-wrap: wrap; gap: 10px; width: 100%; }
-  .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
-  .card { padding: 9px; }
-  .thumb { height: 84px; } .thumb img { width: 72px; height: 72px; }
-  .val .s { width: auto; } .val .x { font-size: 15px; }
-  .dlg-head .thumb { width: 84px; height: 84px; } .dlg-head .thumb img { width: 76px; height: 76px; }
-  .dlg-head h2 { font-size: 24px; }
-  .panels { grid-template-columns: 1fr; }
+@media (max-width: 640px) {
+  .wrap { padding-top: 20px; gap: 22px; }
+  .hide-sm { display: none; }
+  .big { font-size: 24px; }
+  .itemimg { width: 80px; height: 80px; } .itemimg img { max-width: 72px; max-height: 72px; }
 }
-@media (prefers-reduced-motion: reduce) { *, *::before { animation: none !important; transition: none !important; } }
 </style>
 </head>
 <body>
-<header class="top"><div class="wrap">
-  <div class="brand"><span class="logo" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><circle cx="6" cy="9" r="2.4"/><circle cx="10" cy="5" r="2.4"/><circle cx="14" cy="5" r="2.4"/><circle cx="18" cy="9" r="2.4"/><path d="M12 10c-3.5 0-6.5 4-6.5 7 0 2 1.6 3 3.3 3 1.3 0 2-.6 3.2-.6s1.9.6 3.2.6c1.7 0 3.3-1 3.3-3 0-3-3-7-6.5-7z"/></svg></span><span class="am">Adopt Me</span> <b>Values</b></div>
-  <nav class="tabs" role="tablist">
-    <button role="tab" data-tab="list" aria-selected="true">Value List</button>
-    <button role="tab" data-tab="updates" aria-selected="false">Value Updates</button>
-    <button role="tab" data-tab="stats" aria-selected="false">Stats</button>
+<div class="wrap">
+  <header>
+    <h1>Adopt Me value tracker</h1>
+    <p class="lede" id="lede">AMVGG and Elvebredd values side by side, with every logged value change.</p>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Pages">
+    <button class="tab" role="tab" data-tab="list">Values</button>
+    <button class="tab" role="tab" data-tab="updates">Value changes</button>
+    <button class="tab" role="tab" data-tab="stats">Stats</button>
   </nav>
-</div></header>
 
-<main>
-  <section class="wrap hero">
-    <div>
-      <h1><span class="a">AMVGG</span> &amp; <span class="e">Elvebredd</span>, side by side</h1>
-      <p>Every Adopt Me item on both value lists, every variant and potion, with value history going back to 2023. Pick a source and a variant to compare.</p>
-    </div>
-    <div class="stats" id="stats"></div>
-  </section>
-
-  <div class="filters" id="filters"><div class="wrap">
-    <div class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-      <input id="q" type="search" placeholder="Search items…" aria-label="Search items" autocomplete="off"></div>
-    <div class="group"><span>Source</span><div class="seg src" data-key="src" role="group" aria-label="Source">
-      <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
-    <button class="toggle-filters" id="toggleFilters" aria-expanded="false" aria-controls="moreFilters">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>Filters</button>
-    <div class="more-filters" id="moreFilters">
-      <div class="group"><span>Fly · Ride · Neon · Mega</span><div id="frnmSlot"></div></div>
-      <div class="group"><label for="cat">Category</label><select id="cat"></select></div>
-      <div class="group"><label for="dem">AMVGG demand</label><select id="dem"><option value="">Any</option><option>High</option><option>Medium</option><option>Low</option></select></div>
-      <div class="group list-only"><label for="sort">Sort</label><select id="sort">
+  <!-- values + value changes share the filters -->
+  <section class="page" id="browse">
+    <div class="controls" id="filters">
+      <label class="field grow"><span class="label">Search</span><input id="q" class="input" type="search" placeholder="Item name" autocomplete="off"></label>
+      <div class="field"><span class="label">List</span><div class="seg" data-key="src" role="group" aria-label="List">
+        <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
+      <div class="field pet-only"><span class="label">Fly, Ride, Neon, Mega</span><div id="frnmSlot"></div></div>
+      <label class="field"><span class="label">Category</span><select id="cat"></select></label>
+      <label class="field"><span class="label">Rarity</span><select id="rar"><option value="">Any</option><option>common</option><option>uncommon</option><option>rare</option><option>ultra rare</option><option>legendary</option></select></label>
+      <label class="field"><span class="label">AMVGG demand</span><select id="dem"><option value="">Any</option><option>High</option><option>Medium</option><option>Low</option></select></label>
+      <label class="field list-only"><span class="label">Sort</span><select id="sort">
         <option value="val">Highest value</option><option value="low">Lowest value</option>
         <option value="rise">Biggest rise (30 days)</option><option value="drop">Biggest drop (30 days)</option>
-        <option value="gap">Biggest AMVGG vs Elve gap</option><option value="az">A to Z</option></select></div>
-      <div class="group"><span>Rarity</span><div class="chips" id="rarity"></div></div>
+        <option value="gap">AMVGG vs Elve gap</option><option value="az">A to Z</option></select></label>
     </div>
-  </div></div>
-
-  <section class="wrap">
-    <div class="bar"><span id="count" aria-live="polite"></span>
-      <span class="legend"><span><span class="dot" style="background:var(--amvgg)"></span>AMVGG</span><span><span class="dot" style="background:var(--elve)"></span>Elvebredd</span><span id="when"></span></span></div>
-    <div id="list" class="grid" aria-busy="true"></div>
-    <div id="updates" class="feed" hidden></div>
-    <button id="more" class="loadmore" hidden>Show more</button>
+    <div class="status"><span id="count" aria-live="polite">Loading…</span><span id="when"></span></div>
+    <div class="tablewrap"><table id="tbl"></table></div>
+    <button class="more" id="more" hidden>Show more</button>
   </section>
 
-  <section class="wrap statspage" id="statsPage" hidden>
-    <div class="stats" id="statTotals"></div>
-    <div class="panel"><h3>Value changes per month</h3>
-      <div class="legend2"><span><span class="dot" style="background:var(--elve)"></span>Elvebredd</span><span><span class="dot" style="background:var(--amvgg)"></span>AMVGG</span></div>
-      <div id="monthlyChart"></div>
-      <p class="sub">One change is one variant of one item moving (for example Frost Dragon, neon fly ride). Elvebredd's history starts in September 2023, AMVGG's in June 2026.</p></div>
-    <div class="panel"><h3>Completed trades collected per hour (last 3 days)</h3>
-      <div id="hourlyChart"></div>
-      <p class="sub">The collector checks AMVGG's completed trades every 15 minutes. The page only shows the last ~30 minutes of trades, so a missed run leaves a dip.</p></div>
-    <div class="panels">
-      <div class="panel"><h3>Most traded, last 7 days</h3><table class="vt" id="tradedTbl"></table><p class="sub">Completed AMVGG trades with the item on either side.</p></div>
-      <div class="panel"><h3>Most revalued, last 90 days</h3><table class="vt" id="busyTbl"></table><p class="sub">Number of value changes per list.</p></div>
+  <section class="page" id="item" hidden></section>
+
+  <section class="page" id="stats" hidden>
+    <div class="kpis" id="kpis"></div>
+    <section class="section">
+      <h2>Value changes per month</h2>
+      <div class="legend"><span><i style="background:var(--elve)"></i>Elvebredd</span><span><i style="background:var(--amvgg)"></i>AMVGG</span></div>
+      <div class="chart" id="monthly"></div>
+      <p class="note">One change is one variant of one item moving (for example Frost Dragon, neon fly ride). Elvebredd's history goes back to September 2023; AMVGG's starts in June 2026.</p>
+    </section>
+    <section class="section">
+      <h2>Completed trades collected per hour</h2>
+      <div class="chart" id="hourly"></div>
+      <p class="note">The collector checks AMVGG's completed trades every 15 minutes. The page only holds the last 15–30 minutes of trades, so a missed run leaves a dip.</p>
+    </section>
+    <div class="two">
+      <section class="section"><h2>Most often revalued, last 90 days</h2><div class="tablewrap"><table id="busy"></table></div></section>
+      <section class="section"><h2>Most traded, last 7 days</h2><div class="tablewrap"><table id="traded"></table></div>
+        <p class="note">Completed AMVGG trades with the item on either side.</p></section>
     </div>
   </section>
-</main>
 
-<footer><div class="wrap">Values are collected from <a href="https://amvgg.com" rel="noopener">AMVGG</a> and <a href="https://elvebredd.com" rel="noopener">Elvebredd</a> every 15 minutes; images from the official <a href="https://www.playadopt.me/discover" rel="noopener">Adopt Me wiki</a>. The two lists use different scales, so compare an item's value within one source. Not affiliated with Adopt Me, Uplift Games, AMVGG or Elvebredd.</div></footer>
-
-<dialog id="dlg" aria-labelledby="dlgTitle"></dialog>
+  <details>
+    <summary>Where this data comes from</summary>
+    <ul>
+      <li>Elvebredd: the full value list, and every change on elvebredd.com/value-updates since September 2023.</li>
+      <li>AMVGG: the full value list (pets and every other category), and its value-updates feed since 2 June 2026.</li>
+      <li>Completed trades: amvgg.com/trades/completed, checked every 15 minutes.</li>
+      <li>The two lists use different scales, so compare an item's value within one list.</li>
+    </ul>
+  </details>
+  <footer>Values from <a href="https://amvgg.com" rel="noopener">AMVGG</a> and <a href="https://elvebredd.com" rel="noopener">Elvebredd</a>; pictures from the official <a href="https://www.playadopt.me/discover" rel="noopener">Adopt Me wiki</a>. Not affiliated with Adopt Me, Uplift Games, AMVGG or Elvebredd.</footer>
+</div>
 
 <script>
-const RAR = [["common","--common"],["uncommon","--uncommon"],["rare","--rare"],["ultra rare","--ultra"],["legendary","--legendary"]];
-const RC = Object.fromEntries(RAR.map(([r, c]) => [r, `var(${c})`]));
-const SRC = { A: "AMVGG", E: "Elvebredd" };
+const RC = { common: "var(--common)", uncommon: "var(--uncommon)", rare: "var(--rare)", "ultra rare": "var(--ultra)", legendary: "var(--legendary)" };
+const SRC = { A: "AMVGG", E: "Elvebredd" }, COL = { A: "var(--amvgg)", E: "var(--elve)" };
 const VAR = { r: "Normal", n: "Neon", m: "Mega" }, POT = { fr: "Fly Ride", f: "Fly", r: "Ride", np: "No Potion" };
-const PAGE = 96, DAY = 864e5;
+const PAGE = 100, DAY = 864e5;
 const $ = s => document.querySelector(s);
 
-// state <-> URL hash, so a filtered view can be shared
-const S = Object.assign({ tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "" },
+// state <-> URL hash, so a view can be shared
+const S = Object.assign({ tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "", item: "" },
   Object.fromEntries(new URLSearchParams(location.hash.slice(1))));
 const save = () => history.replaceState(null, "", "#" + new URLSearchParams(Object.entries(S).filter(([, v]) => v !== "")));
 
@@ -287,15 +231,17 @@ function h(tag, attrs = {}, ...kids) {
   for (const k of kids.flat()) if (k != null && k !== false) e.append(k instanceof Node ? k : String(k));
   return e;
 }
-const fmt = v => v == null ? "—" : v >= 1000 ? Math.round(v).toLocaleString() : (+v.toPrecision(4)).toLocaleString(undefined, { maximumFractionDigits: 4 });
-const pctTxt = p => p == null ? "" : (p > 0 ? "▲ " : p < 0 ? "▼ " : "") + Math.abs(p).toFixed(Math.abs(p) < 10 ? 1 : 0) + "%";
+const fmt = v => v == null ? "—" : v >= 1000 ? Math.round(v).toLocaleString() : (+(+v).toPrecision(4)).toLocaleString(undefined, { maximumFractionDigits: 4 });
+const pctTxt = p => p == null ? "" : (p > 0 ? "+" : p < 0 ? "−" : "") + Math.abs(p).toFixed(Math.abs(p) < 10 ? 1 : 0) + "%";
 const pctCls = p => p == null || Math.abs(p) < .05 ? "flat" : p > 0 ? "up" : "down";
 const ts = t => Date.parse(t + "Z");
-const dateTxt = t => new Date(ts(t)).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
+const dateTxt = t => new Date(typeof t === "number" ? t : ts(t)).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
 
-let DATA, NOW, START = {};
+let DATA, NOW, START = {}, BYNAME = new Map();
 const vkey = it => it.cat === "pets" ? `${S.var}-${S.pot}` : "v";
 const value = (it, s, k = vkey(it)) => it[s][k] ?? null;
+// a variant's change log can stop (Elve stopped logging some variants in 2023): only trust it if it ends at today's value
+const complete = (hst, now) => hst && hst.length && now != null && Math.abs(hst.at(-1)[1] - now) <= now * .005;
 function change(it, s, days = 30, k = vkey(it)) {
   const hst = it.hist[s][k], now = value(it, s, k);
   if (!complete(hst, now)) return null;
@@ -305,18 +251,28 @@ function change(it, s, days = 30, k = vkey(it)) {
   for (const [t, v] of hst) { if (ts(t) <= cut) then = v; else break; }
   return then ? (now - then) / then * 100 : null;
 }
-// a variant's change log can stop (Elve stopped logging some variants in 2023): only trust it if it ends at today's value
-const complete = (hst, now) => hst && hst.length && now != null && Math.abs(hst.at(-1)[1] - now) <= now * .005;
 const sources = () => S.src === "both" ? ["A", "E"] : [S.src];
+const demandOf = it => (it.demand || {})[it.cat === "pets" ? S.var : "r"];
+const matches = it => (S.cat === "all" || it.cat === S.cat) && (!S.q.trim() || it.name.toLowerCase().includes(S.q.trim().toLowerCase())) &&
+  (!S.rar || it.rarity === S.rar) && (!S.dem || demandOf(it) === S.dem);
 
+// how far apart the two lists rank an item: difference of its percentile within each list (same category + variant)
+let rankCache = {};
+function gap(it) {
+  const k = it.cat + vkey(it);
+  if (!rankCache[k]) {
+    rankCache[k] = {};
+    for (const s of ["A", "E"]) {
+      const xs = DATA.items.filter(i => i.cat === it.cat && value(i, s) != null).sort((a, b) => value(a, s) - value(b, s));
+      rankCache[k][s] = new Map(xs.map((i, n) => [i, n / Math.max(1, xs.length - 1)]));
+    }
+  }
+  const a = rankCache[k].A.get(it), e = rankCache[k].E.get(it);
+  return a == null || e == null ? -1 : Math.abs(a - e);
+}
 function filtered() {
-  const q = S.q.trim().toLowerCase(), rar = S.rar ? S.rar.split(",") : [];
   const srcs = sources(), main = srcs[0];
-  let xs = DATA.items.filter(it =>
-    (S.cat === "all" || it.cat === S.cat) && (!q || it.name.toLowerCase().includes(q)) &&
-    (!rar.length || rar.includes(it.rarity)) &&
-    (!S.dem || (it.demand || {})[it.cat === "pets" ? S.var : "r"] === S.dem) &&
-    srcs.some(s => value(it, s) != null));
+  const xs = DATA.items.filter(it => matches(it) && srcs.some(s => value(it, s) != null));
   const key = {
     val: it => -(value(it, main) ?? value(it, srcs[1]) ?? -1),
     low: it => value(it, main) ?? value(it, srcs[1]) ?? 1e12,
@@ -328,81 +284,11 @@ function filtered() {
   const ks = new Map(xs.map(it => [it, key(it)]));
   return xs.sort((a, b) => ks.get(a) - ks.get(b) || a.name.localeCompare(b.name));
 }
-// how far apart the two lists rank an item: difference of its percentile within each list (same category + variant)
-let rankCache = {};
-function gap(it) {
-  const k = S.cat + vkey(it);
-  if (!rankCache[k]) {
-    rankCache[k] = {};
-    for (const s of ["A", "E"]) {
-      const xs = DATA.items.filter(i => i.cat === it.cat && value(i, s) != null).sort((a, b) => value(a, s) - value(b, s));
-      rankCache[k][s] = new Map(xs.map((i, n) => [i, n / Math.max(1, xs.length - 1)]));
-    }
-  }
-  const a = rankCache[k].A.get(it), e = rankCache[k].E.get(it);
-  return a == null || e == null ? -1 : Math.abs(a - e);
-}
-
-// which of F/R/N/M are on for the current variant; potion codes: fr fly ride, f fly, r ride, np none
-const fly = () => S.pot === "fr" || S.pot === "f", ride = () => S.pot === "fr" || S.pot === "r";
-const potOf = (f, r) => f && r ? "fr" : f ? "f" : r ? "r" : "np";
-function badges(it) {
-  if (it.cat !== "pets") return null;
-  const on = [S.var !== "r" && S.var, fly() && "f", ride() && "r"].filter(Boolean);
-  return on.length ? h("div", { class: "badges", "aria-hidden": "true" }, on.map(k => h("span", { class: "bdg " + k }, k.toUpperCase()))) : null;
-}
-function frnm(after) {
-  const b = (k, label, on, set) => h("button", { class: "tog tog-" + k, "aria-pressed": String(on), title: label, "aria-label": label,
-    onclick: () => { set(); rankCache = {}; syncSegs(); render(); after?.(); } }, k.toUpperCase());
-  return h("div", { class: "frnm pet-only", role: "group", "aria-label": "Fly, ride, neon, mega" },
-    b("f", "Fly", fly(), () => S.pot = potOf(!fly(), ride())),
-    b("r", "Ride", ride(), () => S.pot = potOf(fly(), !ride())),
-    b("n", "Neon", S.var === "n", () => S.var = S.var === "n" ? "r" : "n"),  // N and M exclude each other; click again for normal
-    b("m", "Mega", S.var === "m", () => S.var = S.var === "m" ? "r" : "m"));
-}
-function thumb(it, cls = "") {
-  return h("div", { class: `thumb ${cls}` }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", onerror: e => e.target.remove(), width: 88, height: 88 }) : null, badges(it));
-}
-function valRow(it, s) {
-  const v = value(it, s), p = change(it, s);
-  return h("div", { class: `val ${s} ${v == null ? "none" : ""}` }, h("span", { class: "s" }, s === "A" ? "AMVGG" : "ELVE"),
-    h("span", { class: "x" }, v == null ? "not listed" : fmt(v)), v != null && p != null ? h("span", { class: "d " + pctCls(p), title: "30-day change" }, pctTxt(p)) : null);
-}
-function card(it) {
-  const d = (it.demand || {})[it.cat === "pets" ? S.var : "r"];
-  return h("button", { class: "card", style: `--rc:${RC[it.rarity] || "var(--line-2)"}`, onclick: () => openItem(it), "aria-label": it.name },
-    thumb(it), h("h3", {}, it.name),
-    h("div", { class: "meta" }, h("span", { class: "rar" }, it.rarity || "—"), S.cat !== "all" ? null : h("span", { class: "cat" }, it.cat),
-      d && S.src !== "E" ? h("span", { class: "dem", title: "AMVGG demand" }, d) : null),
-    h("div", { class: "vals" }, sources().map(s => valRow(it, s))));
-}
-
-let shown = 0, current = [];
-function render(reset = true) {
-  save();
-  const stats = S.tab === "stats";
-  $("#statsPage").hidden = !stats;
-  for (const id of ["#filters", ".bar", "#more"]) $(id).style.display = stats ? "none" : "";
-  if (stats) { $("#list").hidden = $("#updates").hidden = true; drawStats(); return; }
-  document.querySelectorAll(".pet-only").forEach(e => e.setAttribute("aria-disabled", !["all", "pets"].includes(S.cat)));
-  document.querySelectorAll(".list-only").forEach(e => e.style.display = S.tab === "list" ? "" : "none");
-  $("#list").hidden = S.tab !== "list"; $("#updates").hidden = S.tab !== "updates";
-  if (reset) { shown = 0; current = S.tab === "list" ? filtered() : feed(); $(S.tab === "list" ? "#list" : "#updates").replaceChildren(); }
-  const box = S.tab === "list" ? $("#list") : $("#updates");
-  const next = current.slice(shown, shown + PAGE);
-  box.append(...next.map(S.tab === "list" ? card : feedRow));
-  shown += next.length;
-  $("#more").hidden = shown >= current.length;
-  $("#count").textContent = current.length ? `${current.length.toLocaleString()} ${S.tab === "list" ? "items" : "value changes"}` : "";
-  if (!current.length) box.replaceChildren(h("div", { class: "empty" }, "Nothing matches these filters."));
-}
-
-// Value Updates: every recorded change for the chosen source/variant, newest first
+// Value changes: every recorded change for the chosen list/variant, newest first
 function feed() {
-  const q = S.q.trim().toLowerCase(), rar = S.rar ? S.rar.split(",") : [], out = [];
+  const out = [];
   for (const it of DATA.items) {
-    if ((S.cat !== "all" && it.cat !== S.cat) || (q && !it.name.toLowerCase().includes(q)) || (rar.length && !rar.includes(it.rarity))) continue;
-    if (S.dem && (it.demand || {})[it.cat === "pets" ? S.var : "r"] !== S.dem) continue;
+    if (!matches(it)) continue;
     for (const s of sources()) {
       const hst = it.hist[s][vkey(it)] || [];
       for (let i = 1; i < hst.length; i++) if (hst[i][1] !== hst[i - 1][1]) out.push([hst[i][0], it, s, hst[i - 1][1], hst[i][1]]);
@@ -410,180 +296,272 @@ function feed() {
   }
   return out.sort((a, b) => a[0] < b[0] ? 1 : -1);
 }
+
+// F / R / N / M: fly and ride combine freely, N and M exclude each other, click again for normal
+const fly = () => S.pot === "fr" || S.pot === "f", ride = () => S.pot === "fr" || S.pot === "r";
+const potOf = (f, r) => f && r ? "fr" : f ? "f" : r ? "r" : "np";
+function frnm() {
+  const b = (k, label, on, set) => h("button", { class: "tog tog-" + k, "aria-pressed": String(on), title: label, "aria-label": label,
+    onclick: () => { set(); rankCache = {}; sync(); render(); } }, k.toUpperCase());
+  return h("div", { class: "frnm", role: "group", "aria-label": "Fly, ride, neon, mega" },
+    b("f", "Fly", fly(), () => S.pot = potOf(!fly(), ride())),
+    b("r", "Ride", ride(), () => S.pot = potOf(fly(), !ride())),
+    b("n", "Neon", S.var === "n", () => S.var = S.var === "n" ? "r" : "n"),
+    b("m", "Mega", S.var === "m", () => S.var = S.var === "m" ? "r" : "m"));
+}
+function badges(it) {
+  if (it.cat !== "pets") return null;
+  const on = [S.var !== "r" && S.var, fly() && "f", ride() && "r"].filter(Boolean);
+  return h("span", { class: "badges" }, on.map(k => h("span", { class: "bdg " + k, title: { n: "Neon", m: "Mega", f: "Fly", r: "Ride" }[k] }, k.toUpperCase())));
+}
+const icon = it => it.img ? h("img", { class: "ico", src: it.img, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", onerror: e => e.target.remove() }) : null;
+const variantTxt = it => it.cat === "pets" ? `${VAR[S.var]} ${POT[S.pot]}` : it.cat;
+
+// ---- Values table ----
+function listHead() {
+  const srcs = sources();
+  return h("thead", {}, h("tr", {}, h("th", { class: "icocell" }), h("th", {}, "Item"),
+    srcs.map(s => h("th", { class: "num" }, SRC[s], h("span", { class: "dim hide-sm" }, " · 30d"))),
+    S.src !== "E" ? h("th", { class: "hide-sm" }, "Demand") : null));
+}
+function listRow(it) {
+  const d = demandOf(it);
+  return h("tr", { class: "click", onclick: () => openItem(it), tabindex: 0, onkeydown: e => e.key === "Enter" && openItem(it) },
+    h("td", { class: "icocell" }, icon(it)),
+    h("td", {}, h("div", { class: "nm" }, it.name),
+      h("div", {}, h("span", { class: "rar", style: `--rc:${RC[it.rarity] || "var(--muted)"}` }, it.rarity || ""),
+        S.cat === "all" ? h("span", { class: "dim" }, (it.rarity ? " · " : "") + it.cat) : null)),
+    sources().map(s => {
+      const v = value(it, s), p = change(it, s);
+      return h("td", { class: "num" }, v == null ? h("span", { class: "dim", style: "text-transform:none" }, "not listed") : fmt(v),
+        v != null && p != null ? h("span", { class: "chg hide-sm " + pctCls(p) }, pctTxt(p)) : null);
+    }),
+    S.src !== "E" ? h("td", { class: "hide-sm" }, d || "") : null);
+}
+// ---- Value changes table ----
+function feedHead() {
+  return h("thead", {}, h("tr", {}, h("th", {}, "When (UTC)"), h("th", {}, "List"), h("th", { class: "icocell hide-sm" }), h("th", {}, "Item"),
+    h("th", { class: "num hide-sm" }, "Old"), h("th", { class: "num" }, "New"), h("th", { class: "num" }, "Change")));
+}
 function feedRow([t, it, s, old, now]) {
   const p = (now - old) / old * 100;
-  return h("button", { class: "row", onclick: () => openItem(it) },
-    h("div", { class: "thumb", style: "height:44px;background:none" }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", referrerpolicy: "no-referrer", onerror: e => e.target.remove() }) : null, badges(it)),
-    h("div", {}, h("div", { class: "nm" }, h("span", { class: "tag " + s }, s === "A" ? "AMVGG" : "ELVE"), it.name),
-      h("div", { class: "t" }, `${dateTxt(t)} · ${it.cat === "pets" ? VAR[S.var] + " " + POT[S.pot] : it.cat}`)),
-    h("div", { class: "chg" }, h("div", { class: "x" }, `${fmt(old)} → ${fmt(now)}`), h("div", { class: "d " + pctCls(p), style: "font-size:12px;font-weight:700" }, pctTxt(p))));
+  return h("tr", { class: "click", onclick: () => openItem(it) },
+    h("td", { style: "white-space:nowrap" }, t.slice(0, 10), h("span", { class: "dim hide-sm" }, " " + t.slice(11, 16))),
+    h("td", {}, h("span", { class: "pill " + s }, SRC[s])),
+    h("td", { class: "icocell hide-sm" }, icon(it)),
+    h("td", {}, h("div", { class: "nm" }, it.name), h("div", { class: "dim" }, variantTxt(it))),
+    h("td", { class: "num hide-sm" }, fmt(old)), h("td", { class: "num" }, fmt(now)),
+    h("td", { class: "num " + pctCls(p) }, pctTxt(p)));
 }
 
-// detail dialog
-let open = null;
-function openItem(it) { open = it; drawDialog(); if (!$("#dlg").open) $("#dlg").showModal(); }
-function drawDialog() {
-  const it = open, pet = it.cat === "pets", dlg = $("#dlg");
-  const panel = s => {
-    const v = value(it, s), p = change(it, s), p365 = change(it, s, 365);
-    const hasAny = Object.keys(it[s]).length;
-    return h("div", { class: "panel " + s },
-      h("h3", {}, h("span", { class: "dot", style: `background:var(--${s === "A" ? "amvgg" : "elve"})` }), SRC[s]),
-      !hasAny ? h("div", { class: "nodata" }, `Not on the ${SRC[s]} list.`) : [
-        h("div", { class: "big" }, fmt(v)),
-        h("div", { class: "sub" }, pet ? `${VAR[S.var]} · ${POT[S.pot]}` : "Value",
-          p != null ? h("span", { class: pctCls(p) }, `  ·  30d ${pctTxt(p)}`) : null,
-          p365 != null ? h("span", { class: pctCls(p365) }, `  ·  1y ${pctTxt(p365)}`) : null,
-          s === "A" && it.demand?.[pet ? S.var : "r"] ? `  ·  demand ${it.demand[pet ? S.var : "r"]}` : null),
-        chart(it.hist[s][vkey(it)], v, s),
-        pet ? h("table", { class: "vt" }, h("tr", {}, h("th", {}, ""), Object.values(POT).map(l => h("th", {}, l))),
-          Object.entries(VAR).map(([vk, vl]) => h("tr", {}, h("td", {}, vl),
-            Object.keys(POT).map(pk => h("td", { class: vk === S.var && pk === S.pot ? "on" : "" }, fmt(it[s][`${vk}-${pk}`])))))) : null,
-      ]);
+let shown = 0, current = [];
+function render(reset = true) {
+  save();
+  for (const b of document.querySelectorAll(".tab")) b.setAttribute("aria-selected", String(!S.item && S.tab === b.dataset.tab));
+  $("#browse").hidden = !!S.item || S.tab === "stats";
+  $("#stats").hidden = !!S.item || S.tab !== "stats";
+  $("#item").hidden = !S.item;
+  if (!DATA) return;
+  if (S.item) return drawItem();
+  if (S.tab === "stats") return drawStats();
+  document.querySelectorAll(".pet-only").forEach(e => e.setAttribute("aria-disabled", String(!["all", "pets"].includes(S.cat))));
+  document.querySelectorAll(".list-only").forEach(e => e.style.display = S.tab === "list" ? "" : "none");
+  const list = S.tab === "list", tbl = $("#tbl");
+  if (reset) { shown = 0; current = list ? filtered() : feed(); tbl.replaceChildren(list ? listHead() : feedHead(), h("tbody")); }
+  const next = current.slice(shown, shown + PAGE);
+  tbl.tBodies[0].append(...next.map(list ? listRow : feedRow));
+  shown += next.length;
+  $("#more").hidden = shown >= current.length;
+  $("#count").textContent = current.length ? `${current.length.toLocaleString()} ${list ? "items" : "value changes"}` : "Nothing matches these filters.";
+}
+
+// ---- item page: picture, current values, both value histories ----
+function openItem(it) { S.item = it.name; scrollTo(0, 0); render(); }
+function drawItem() {
+  const it = BYNAME.get(S.item);
+  const box = $("#item");
+  if (!it) { box.replaceChildren(h("button", { class: "back", onclick: closeItem }, "← Back"), h("p", { class: "empty" }, "Item not found.")); return; }
+  const pet = it.cat === "pets";
+  const nowCell = s => {
+    const v = value(it, s), p = change(it, s), p365 = change(it, s, 365), d = s === "A" ? demandOf(it) : null;
+    return h("div", {}, h("span", { class: "label" }, `${SRC[s]} value now`),
+      h("span", { class: "big", style: `color:${COL[s]}` }, Object.keys(it[s]).length ? fmt(v) : "—"),
+      h("span", { class: "sub" }, !Object.keys(it[s]).length ? "not on this list" : v == null ? "not listed for this variant"
+        : [p != null ? `30d ${pctTxt(p)}` : "", p365 != null ? `1y ${pctTxt(p365)}` : "", d ? `demand ${d}` : ""].filter(Boolean).join(" · ") || " "));
   };
-  dlg.replaceChildren(
-    h("div", { class: "dlg-head", style: `--rc:${RC[it.rarity] || "#888"}` }, thumb(it),
-      h("div", {}, h("h2", { id: "dlgTitle" }, it.name),
-        h("div", { class: "meta", style: "margin-top:6px;font-size:13px" }, h("span", { class: "rar" }, it.rarity), h("span", { class: "cat" }, "· " + it.cat)),
-        it.origin ? h("div", { class: "origin" }, it.origin) : null),
-      h("button", { class: "close", "aria-label": "Close", onclick: () => dlg.close() }, "×")),
-    h("div", { class: "dlg-body" },
-      pet ? h("div", { class: "dlg-ctrls" }, frnm(drawDialog)) : null,
-      h("div", { class: "panels" }, sources().map(panel))));
+  const table = s => !pet || !Object.keys(it[s]).length ? null : h("div", { class: "tablewrap" }, h("table", { class: "vt" },
+    h("thead", {}, h("tr", {}, h("th", {}, SRC[s]), Object.values(POT).map(l => h("th", { class: "num" }, l)))),
+    h("tbody", {}, Object.entries(VAR).map(([vk, vl]) => h("tr", {}, h("td", {}, vl),
+      Object.keys(POT).map(pk => h("td", { class: "num" + (vk === S.var && pk === S.pot ? " on" : "") }, fmt(it[s][`${vk}-${pk}`]))))))));
+  const charts = ["E", "A"].map(s => {
+    const el = h("div", { class: "chart" });
+    return [h("section", { class: "section" }, h("h2", {}, `${SRC[s]} value history`), el, table(s)), () => historyChart(el, it, s)];
+  });
+  box.replaceChildren(
+    h("button", { class: "back", onclick: closeItem }, "← Back to the list"),
+    h("div", { class: "itemcard" },
+      h("div", { class: "itemimg" }, it.img ? h("img", { src: it.img, alt: it.name, referrerpolicy: "no-referrer", onerror: e => e.target.replaceWith("No picture") }) : "No picture"),
+      h("div", { class: "iteminfo" },
+        h("div", { class: "itemname" }, h("h2", {}, (pet && S.var !== "r" ? VAR[S.var] + " " : "") + it.name), badges(it)),
+        h("span", { class: "sub" }, [it.rarity && it.rarity[0].toUpperCase() + it.rarity.slice(1), it.cat !== "pets" && it.cat, it.origin, pet && POT[S.pot]].filter(Boolean).join(" · ")),
+        pet ? frnm() : null,
+        h("div", { class: "vals" }, nowCell("E"), nowCell("A")))),
+    ...charts.map(c => c[0]),
+    h("p", { class: "note" }, "The two lists use different scales, so compare an item with other items on the same list. Elvebredd's log starts in September 2023 and AMVGG's in June 2026; a few variants were changed without being logged, so their chart is hidden."));
+  charts.forEach(c => c[1]());
 }
+function closeItem() { S.item = ""; render(); }
 
-function chart(hst, now, s) {
-  if (!complete(hst, now)) return h("div", { class: "nodata" }, hst?.length
-    ? `History for this variant stops on ${dateTxt(hst.at(-1)[0])}, so there is no chart.` : "No recorded changes for this variant yet.");
-  const pts = hst.map(([t, v]) => [ts(t), v]);
-  pts.push([NOW, now]);
-  const W = 560, H = 170, P = { l: 6, r: 6, t: 10, b: 22 };
-  const x0 = pts[0][0], x1 = Math.max(pts.at(-1)[0], x0 + DAY);
-  const vs = pts.map(p => p[1]), lo = Math.min(...vs), hi = Math.max(...vs), pad = (hi - lo || hi || 1) * .12;
-  const X = t => P.l + (t - x0) / (x1 - x0) * (W - P.l - P.r), Y = v => P.t + (1 - (v - lo + pad) / (hi - lo + 2 * pad)) * (H - P.t - P.b);
-  let d = `M${X(pts[0][0])},${Y(pts[0][1])}`;
-  for (let i = 1; i < pts.length; i++) d += `H${X(pts[i][0])}V${Y(pts[i][1])}`;
-  const col = `var(--${s === "A" ? "amvgg" : "elve"})`, id = "g" + s;
-  const svg = `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" style="height:${H}px" role="img" aria-label="${SRC[s]} value history">
-    <defs><linearGradient id="${id}" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="${s === "A" ? "#2cbfec" : "#ff4d94"}" stop-opacity=".28"/><stop offset="1" stop-color="${s === "A" ? "#2cbfec" : "#ff4d94"}" stop-opacity="0"/></linearGradient></defs>
-    <path d="${d}V${H - P.b}H${X(pts[0][0])}Z" fill="url(#${id})"/>
-    <path d="${d}" fill="none" stroke="${col}" stroke-width="2" vector-effect="non-scaling-stroke"/>
-    <line class="cur" y1="${P.t}" y2="${H - P.b}" stroke="rgba(255,255,255,.35)" stroke-dasharray="3 3" vector-effect="non-scaling-stroke" style="display:none"/>
-    <text x="${P.l}" y="${H - 4}" fill="rgba(255,255,255,.45)" font-size="11">${new Date(x0).toLocaleDateString(undefined, { month: "short", year: "numeric" })}</text>
-    <text x="${W - P.r}" y="${H - 4}" fill="rgba(255,255,255,.45)" font-size="11" text-anchor="end">now</text></svg>`;
-  const tip = h("div", { class: "tip" }), box = h("div", { class: "chart" }, tip);
-  box.insertAdjacentHTML("afterbegin", svg); // only numbers and fixed strings in here, no item text
-  const el = box.querySelector("svg"), cur = el.querySelector(".cur");
-  const move = e => {
-    const r = el.getBoundingClientRect(), tx = x0 + ((e.clientX - r.left) / r.width * W - P.l) / (W - P.l - P.r) * (x1 - x0);
-    let i = 0; while (i + 1 < pts.length && pts[i + 1][0] <= tx) i++;
-    const [t, v] = pts[i], px = Math.min(Math.max(e.clientX - r.left, 0), r.width);
-    cur.setAttribute("x1", px / r.width * W); cur.setAttribute("x2", px / r.width * W); cur.style.display = "";
-    tip.textContent = `${fmt(v)} · ${new Date(Math.max(t, Math.min(tx, NOW))).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" })}`;
-    tip.style.left = px + "px"; tip.style.top = Y(v) / H * r.height + "px"; tip.style.opacity = 1;
+// ---- charts (d3) ----
+function tipper(el) {
+  const tip = h("div", { class: "tip", hidden: true });
+  el.append(tip);
+  return (x, y, lines) => {
+    if (!lines) { tip.hidden = true; return; }
+    tip.replaceChildren(...lines.map(t => h("div", {}, t)));
+    tip.hidden = false;
+    tip.style.left = Math.max(0, Math.min(x + 12, el.clientWidth - tip.offsetWidth)) + "px";
+    tip.style.top = Math.max(0, y - 44) + "px";
   };
-  el.addEventListener("pointermove", move); el.addEventListener("pointerdown", move);
-  el.addEventListener("pointerleave", () => { tip.style.opacity = 0; cur.style.display = "none"; });
-  return box;
+}
+// shared frame: y axis sized to its labels, light grid, bottom time axis
+function frame(el, H, yDomain, xDomain, yFmt, xFmt) {
+  el.replaceChildren();
+  const W = el.clientWidth || 600, m = { t: 10, r: 12, b: 26, l: 10 };
+  const y = d3.scaleLinear().domain(yDomain).nice().range([H - m.b, m.t]);
+  const svg = d3.select(el).append("svg").attr("width", W).attr("height", H);
+  const ya = svg.append("g").call(d3.axisLeft(y).ticks(5).tickSize(0).tickFormat(yFmt));
+  let lw = 0; ya.selectAll("text").each(function () { lw = Math.max(lw, this.getComputedTextLength()); });
+  m.l = lw + 10;
+  ya.attr("transform", `translate(${m.l},0)`).select(".domain").remove();
+  const x = d3.scaleUtc().domain(xDomain).range([m.l, W - m.r]);
+  svg.append("g").attr("class", "grid").attr("transform", `translate(${m.l},0)`)
+    .call(d3.axisLeft(y).ticks(5).tickSize(-(W - m.l - m.r)).tickFormat("")).call(g => g.select(".domain").remove());
+  svg.append("g").attr("transform", `translate(0,${H - m.b})`)
+    .call(d3.axisBottom(x).ticks(Math.max(2, Math.floor((W - m.l) / 120))).tickFormat(xFmt).tickSizeOuter(0));
+  return { svg, x, y, W, H, m, show: tipper(el) };
+}
+function historyChart(el, it, s) {
+  const k = vkey(it), hst = it.hist[s][k], now = value(it, s, k);
+  if (!complete(hst, now)) {
+    el.style.minHeight = "0";
+    el.replaceChildren(h("p", { class: "empty" }, !Object.keys(it[s]).length ? `Not on the ${SRC[s]} list.`
+      : hst?.length ? `The log for this variant stops on ${dateTxt(hst.at(-1)[0])} and doesn't match today's value, so there is no chart.`
+      : s === "A" && it.cat === "pets" && S.pot !== "fr" ? "AMVGG only logs fly ride value changes. The current value is shown above."
+      : "No value changes recorded for this variant yet."));
+    return;
+  }
+  el.style.minHeight = "";
+  const pts = hst.map(([t, v]) => ({ t: new Date(ts(t)), v }));
+  pts.push({ t: new Date(Math.max(NOW, +pts.at(-1).t)), v: now, now: true });
+  let lo = d3.min(pts, p => p.v), hi = d3.max(pts, p => p.v);
+  if (lo === hi) { lo *= .9; hi = hi * 1.1 || 1; }
+  const span = pts.at(-1).t - pts[0].t;
+  const { svg, x, y, H, m, show } = frame(el, 240, [lo, hi], d3.extent(pts, p => p.t), d3.format("~s"),
+    d3.utcFormat(span > 300 * DAY ? "%b %Y" : span > 2 * DAY ? "%-d %b" : "%H:%M"));
+  svg.append("path").datum(pts).attr("fill", "none").style("stroke", COL[s]).attr("stroke-width", 2)
+    .attr("d", d3.line().curve(d3.curveStepAfter).x(p => x(p.t)).y(p => y(p.v)));
+  svg.append("g").selectAll("circle").data(pts.filter(p => !p.now)).join("circle")
+    .attr("cx", p => x(p.t)).attr("cy", p => y(p.v)).attr("r", 2.5).style("fill", COL[s]);
+  const guide = svg.append("line").attr("y1", m.t).attr("y2", H - m.b).style("stroke", "var(--axis)").attr("visibility", "hidden");
+  svg.append("rect").attr("x", m.l).attr("y", m.t).attr("width", x.range()[1] - m.l).attr("height", H - m.t - m.b).attr("fill", "transparent")
+    .on("pointermove pointerdown", e => {
+      const [px, py] = d3.pointer(e, el);
+      const i = Math.max(0, d3.bisector(p => p.t).right(pts, x.invert(px)) - 1), p = pts[i], prev = pts[i - 1];
+      guide.attr("x1", px).attr("x2", px).attr("visibility", "visible");
+      const pc = prev && !p.now && prev.v ? (p.v - prev.v) / prev.v * 100 : null;
+      show(px, py, [p.now ? "Now" : d3.utcFormat("%-d %b %Y, %H:%M UTC")(p.t), `Value: ${fmt(p.v)}${pc != null ? `  (${pctTxt(pc)})` : ""}`]);
+    })
+    .on("pointerleave", () => { guide.attr("visibility", "hidden"); show(); });
 }
 
-// Stats tab (site/stats.json, built with data.json)
+// ---- Stats tab (site/stats.json) ----
 let STATS;
 async function drawStats() {
   if (!STATS) {
     try { STATS = await fetch("stats.json").then(r => r.json()); }
-    catch { $("#statTotals").replaceChildren(h("div", { class: "empty" }, "Couldn't load the stats. Try refreshing.")); return; }
+    catch { $("#kpis").replaceChildren(h("p", { class: "empty" }, "Couldn't load the stats. Try refreshing.")); return; }
   }
-  const T = STATS.totals, n = v => v.toLocaleString(), day = s => s ? dateTxt(s + "T00:00") : "—";
-  $("#statTotals").replaceChildren(...[
-    [T.elve_changes, `Elvebredd value changes since ${day(T.elve_first)}`], [T.amvgg_changes, `AMVGG value changes since ${day(T.amvgg_first)}`],
-    [T.amvgg_demand, "AMVGG demand changes"], [T.trades, `completed trades since ${day(T.trades_first)}`],
-    [T.trades_24h, "trades in the last 24h"], [T.snapshots, "value list snapshots"],
-  ].map(([v, l]) => h("div", { class: "stat" }, h("div", { class: "n" }, n(v)), h("div", { class: "l" }, l))));
-  const M = STATS.monthly, firstA = M.findIndex(r => r[2] > 0);
-  $("#monthlyChart").replaceChildren(svgChart(M.map(r => r[0]), [
-    { name: "Elvebredd", col: "#ff4d94", ys: M.map(r => r[1]) },
-    { name: "AMVGG", col: "#2cbfec", ys: M.map((r, i) => firstA >= 0 && i >= firstA ? r[2] : null) }],
-    m => new Date(m + "-01T00:00Z").toLocaleDateString(undefined, { month: "short", year: "numeric", timeZone: "UTC" })));
-  const H = STATS.hourly;
-  $("#hourlyChart").replaceChildren(H.length ? svgChart(H.map(r => r[0]), [{ name: "Trades", col: "#2cbfec", ys: H.map(r => r[1]), bars: true }],
-    hr => new Date(hr + ":00Z").toLocaleString(undefined, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" })) : h("div", { class: "nodata" }, "No trades collected yet."));
-  $("#tradedTbl").replaceChildren(h("tr", {}, h("th", {}, "Item"), h("th", {}, "Trades")), ...STATS.traded_7d.map(([nm, c]) => h("tr", {}, h("td", {}, nm), h("td", {}, n(c)))));
-  $("#busyTbl").replaceChildren(h("tr", {}, h("th", {}, "Item"), h("th", {}, "Elvebredd"), h("th", {}, "AMVGG")),
-    ...STATS.busy_90d.map(([nm, e, a]) => h("tr", {}, h("td", {}, nm), h("td", {}, n(e)), h("td", {}, n(a)))));
-}
-// small line/bar chart; only numbers and fixed strings go into the SVG markup
-function svgChart(xs, series, label) {
-  const W = 900, Hh = 220, P = { l: 44, r: 10, t: 10, b: 24 }, nX = xs.length;
-  const max = Math.max(1, ...series.flatMap(s => s.ys.filter(v => v != null)));
-  const top = Math.pow(10, Math.floor(Math.log10(max))) * Math.ceil(max / Math.pow(10, Math.floor(Math.log10(max))));
-  const X = i => P.l + (nX === 1 ? .5 : i / (nX - 1)) * (W - P.l - P.r), Y = v => P.t + (1 - v / top) * (Hh - P.t - P.b);
-  const bw = Math.max(2, (W - P.l - P.r) / Math.max(nX, 1) - 2);
-  let g = "";
-  for (let k = 0; k <= 4; k++) { const v = top * k / 4; g += `<line x1="${P.l}" x2="${W - P.r}" y1="${Y(v)}" y2="${Y(v)}" stroke="rgba(255,255,255,.07)"/><text class="ax" x="${P.l - 6}" y="${Y(v) + 4}" text-anchor="end">${Math.round(v).toLocaleString()}</text>`; }
-  for (const s of series) {
-    if (s.bars) s.ys.forEach((v, i) => { g += `<rect x="${X(i) - bw / 2}" y="${Y(v)}" width="${bw}" height="${Y(0) - Y(v)}" fill="${s.col}" rx="2"/>`; });
-    else {
-      let d = "", pen = false;
-      s.ys.forEach((v, i) => { if (v == null) { pen = false; return; } d += `${pen ? "L" : "M"}${X(i)},${Y(v)}`; pen = true; });
-      g += `<path d="${d}" fill="none" stroke="${s.col}" stroke-width="2.2" stroke-linejoin="round"/>`;
-    }
-  }
-  const step = Math.max(1, Math.ceil(nX / 7));
-  for (let i = 0; i < nX; i += step) g += `<text class="ax" x="${X(i)}" y="${Hh - 6}" text-anchor="middle">${label(xs[i])}</text>`;
-  const tip = h("div", { class: "tip" }), box = h("div", { class: "chart" }, tip);
-  box.insertAdjacentHTML("afterbegin", `<svg viewBox="0 0 ${W} ${Hh}" style="height:${Hh}px" role="img" aria-label="${series.map(s => s.name).join(" and ")} chart">${g}<line class="cur" y1="${P.t}" y2="${Hh - P.b}" stroke="rgba(255,255,255,.35)" stroke-dasharray="3 3" style="display:none"/></svg>`);
-  const el = box.querySelector("svg"), cur = el.querySelector(".cur");
-  const move = e => {
-    const r = el.getBoundingClientRect(), vx = (e.clientX - r.left) / r.width * W;
-    const i = Math.min(nX - 1, Math.max(0, Math.round((vx - P.l) / (W - P.l - P.r) * (nX - 1))));
-    cur.setAttribute("x1", X(i)); cur.setAttribute("x2", X(i)); cur.style.display = "";
-    tip.textContent = label(xs[i]) + " · " + series.map(s => `${s.name} ${s.ys[i] == null ? "—" : s.ys[i].toLocaleString()}`).join(" · ");
-    tip.style.left = X(i) / W * r.width + "px"; tip.style.top = "40px"; tip.style.opacity = 1;
+  const T = STATS.totals, n = v => (v ?? 0).toLocaleString(), day = s => s ? dateTxt(s + "T00:00") : "—";
+  $("#kpis").replaceChildren(...[
+    ["Elvebredd value changes", T.elve_changes, `since ${day(T.elve_first)}`], ["AMVGG value changes", T.amvgg_changes, `since ${day(T.amvgg_first)}`],
+    ["AMVGG demand changes", T.amvgg_demand, `since ${day(T.amvgg_first)}`], ["Completed trades collected", T.trades, `since ${day(T.trades_first)}`],
+    ["Trades, last 24 hours", T.trades_24h, ""], ["Value list snapshots", T.snapshots, "Elvebredd + AMVGG"],
+  ].map(([l, v, s]) => h("div", { class: "card" }, h("span", { class: "label" }, l), h("span", { class: "big" }, n(v)), h("span", { class: "sub" }, s || " "))));
+  monthlyChart($("#monthly"));
+  hourlyChart($("#hourly"));
+  const bars = (rows, cols, heads, barCol) => {
+    const max = d3.max(rows, r => r[barCol]) || 1;
+    return [h("thead", {}, h("tr", {}, heads.map((t, i) => h("th", { class: i ? "num" : "" }, t)))),
+      h("tbody", {}, rows.map(r => h("tr", { class: BYNAME.has(r[0]) ? "click" : "", onclick: () => BYNAME.has(r[0]) && openItem(BYNAME.get(r[0])) },
+        cols.map(c => h("td", { class: c ? "num" : "" }, c ? n(r[c]) : r[0],
+          c === barCol ? h("span", { class: "bar", style: `width:${Math.round(50 * r[c] / max)}px;background:var(--amvgg)` }) : null)))))];
   };
-  el.addEventListener("pointermove", move); el.addEventListener("pointerdown", move);
-  el.addEventListener("pointerleave", () => { tip.style.opacity = 0; cur.style.display = "none"; });
-  return box;
+  $("#busy").replaceChildren(...bars(STATS.busy_90d.map(([nm, e, a]) => [nm, e, a, e + a]), [0, 1, 2, 3], ["Item", "Elvebredd", "AMVGG", "Total"], 3));
+  $("#traded").replaceChildren(...bars(STATS.traded_7d, [0, 1], ["Item", "Trades"], 1));
+}
+function monthlyChart(el) {
+  const parse = d3.utcParse("%Y-%m"), M = STATS.monthly;
+  const firstA = M.find(r => r[2] > 0)?.[0];
+  const pts = M.map(([mo, e, a]) => ({ t: parse(mo), mo, E: e, A: firstA && mo >= firstA ? a : null }));
+  const { svg, x, y, H, m, show } = frame(el, 240, [0, d3.max(pts, p => Math.max(p.E, p.A ?? 0))], d3.extent(pts, p => p.t), d3.format("~s"), d3.utcFormat("%b %y"));
+  for (const s of ["E", "A"]) {
+    svg.append("path").datum(pts).attr("fill", "none").style("stroke", COL[s]).attr("stroke-width", 2)
+      .attr("d", d3.line().defined(p => p[s] != null).x(p => x(p.t)).y(p => y(p[s])));
+    svg.append("g").selectAll("circle").data(pts.filter(p => p[s] != null)).join("circle")
+      .attr("cx", p => x(p.t)).attr("cy", p => y(p[s])).attr("r", 2.5).style("fill", COL[s]);
+  }
+  const guide = svg.append("line").attr("y1", m.t).attr("y2", H - m.b).style("stroke", "var(--axis)").attr("visibility", "hidden");
+  svg.append("rect").attr("x", m.l).attr("y", m.t).attr("width", x.range()[1] - m.l).attr("height", H - m.t - m.b).attr("fill", "transparent")
+    .on("pointermove pointerdown", e => {
+      const [px, py] = d3.pointer(e, el), p = pts[d3.leastIndex(pts, q => Math.abs(x(q.t) - px))];
+      guide.attr("x1", x(p.t)).attr("x2", x(p.t)).attr("visibility", "visible");
+      show(px, py, [d3.utcFormat("%B %Y")(p.t), `Elvebredd: ${fmt(p.E)}`, `AMVGG: ${p.A == null ? "no log yet" : fmt(p.A)}`]);
+    })
+    .on("pointerleave", () => { guide.attr("visibility", "hidden"); show(); });
+}
+function hourlyChart(el) {
+  if (!STATS.hourly.length) { el.replaceChildren(h("p", { class: "empty" }, "No trades collected yet.")); return; }
+  const pts = STATS.hourly.map(([hr, c]) => ({ t: new Date(hr + ":00:00Z"), c }));
+  const lo = d3.min(pts, p => p.t), hi = d3.utcHour.offset(d3.max(pts, p => p.t), 1);
+  const { svg, x, y, show } = frame(el, 200, [0, d3.max(pts, p => p.c)], [lo, d3.max([hi, d3.utcHour.offset(lo, 24)])], d3.format("~s"), d3.utcFormat("%-d %b %H:%M"));
+  const bw = Math.max(2, x(d3.utcHour.offset(lo, 1)) - x(lo) - 1);
+  svg.append("g").selectAll("rect").data(pts).join("rect")
+    .attr("x", p => x(p.t)).attr("width", bw).attr("y", p => y(p.c)).attr("height", p => y(0) - y(p.c)).attr("rx", 1).style("fill", "var(--amvgg)")
+    .on("pointermove pointerdown", (e, p) => { const [px, py] = d3.pointer(e, el); show(px, py, [d3.utcFormat("%-d %b, %H:00 UTC")(p.t), `${p.c.toLocaleString()} trades`]); })
+    .on("pointerleave", () => show());
 }
 
-// controls
-function syncSegs() {
-  document.querySelectorAll(".filters .seg").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", S[g.dataset.key] === b.dataset.v)));
-  document.querySelectorAll("nav.tabs button").forEach(b => b.setAttribute("aria-selected", S.tab === b.dataset.tab));
-  const rar = S.rar ? S.rar.split(",") : [];
-  document.querySelectorAll("#rarity .chip").forEach(c => c.setAttribute("aria-pressed", rar.includes(c.dataset.v)));
+// ---- controls ----
+function sync() {
+  document.querySelectorAll(".seg").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(S[g.dataset.key] === b.dataset.v))));
   $("#frnmSlot").replaceChildren(frnm());
-  $("#q").value = S.q; $("#cat").value = S.cat; $("#dem").value = S.dem; $("#sort").value = S.sort;
+  $("#q").value = S.q; $("#cat").value = S.cat; $("#dem").value = S.dem; $("#sort").value = S.sort; $("#rar").value = S.rar;
 }
-document.querySelectorAll(".filters .seg").forEach(g => g.addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return; S[g.dataset.key] = b.dataset.v; rankCache = {}; syncSegs(); render();
+document.querySelectorAll(".seg").forEach(g => g.addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return; S[g.dataset.key] = b.dataset.v; rankCache = {}; sync(); render();
 }));
-document.querySelectorAll("nav.tabs button").forEach(b => b.addEventListener("click", () => { S.tab = b.dataset.tab; syncSegs(); render(); }));
+document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => { S.tab = b.dataset.tab; S.item = ""; render(); }));
 let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.q = e.target.value; render(); }, 150); });
-for (const id of ["cat", "dem", "sort"]) $("#" + id).addEventListener("change", e => { S[id] = e.target.value; rankCache = {}; render(); });
+for (const id of ["cat", "dem", "sort", "rar"]) $("#" + id).addEventListener("change", e => { S[id] = e.target.value; rankCache = {}; render(); });
 $("#more").addEventListener("click", () => render(false));
-$("#toggleFilters").addEventListener("click", e => { const o = $("#filters").classList.toggle("open"); e.currentTarget.setAttribute("aria-expanded", o); });
-$("#rarity").append(...RAR.map(([r, c]) => h("button", { class: "chip", "data-v": r, style: `--c:var(${c})`, onclick: () => {
-  const set = new Set(S.rar ? S.rar.split(",") : []); set.has(r) ? set.delete(r) : set.add(r); S.rar = [...set].join(","); syncSegs(); render();
-} }, r)));
+let rt, lastW = innerWidth;
+addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { if (innerWidth !== lastW) { lastW = innerWidth; if (S.item || S.tab === "stats") render(); } }, 150); });
 
-syncSegs();
-$("#list").hidden = S.tab !== "list"; $("#updates").hidden = S.tab !== "updates";
-if (S.tab === "stats") render();
-else $(S.tab === "list" ? "#list" : "#updates").append(...Array.from({ length: 12 }, () => h("div", { class: "skeleton" })));
+sync(); render();
 fetch("data.json").then(r => r.json()).then(d => {
   DATA = d; NOW = Math.max(ts(d.elve_at.replace(/T(\d\d)(\d\d)Z?$/, "T$1:$2")), ts(d.amvgg_at.replace(/T(\d\d)(\d\d)Z?$/, "T$1:$2")));
   for (const s of ["A", "E"]) START[s] = Math.min(...d.items.flatMap(i => Object.values(i.hist[s]).map(h => ts(h[0][0]))));
+  BYNAME = new Map(d.items.map(i => [i.name, i]));
   const cats = [...new Set(d.items.map(i => i.cat))].sort((a, b) => (a !== "pets") - (b !== "pets") || a.localeCompare(b));
   $("#cat").append(h("option", { value: "all" }, "All categories"), ...cats.map(c => h("option", { value: c }, c[0].toUpperCase() + c.slice(1))));
-  const changes = d.items.reduce((n, i) => n + Object.values(i.hist.A).concat(Object.values(i.hist.E)).reduce((m, h) => m + h.length, 0), 0);
-  $("#stats").append(...[[d.items.length, "items tracked"], [d.items.filter(i => Object.keys(i.A).length).length, "on AMVGG"],
-    [d.items.filter(i => Object.keys(i.E).length).length, "on Elvebredd"], [changes, "history points"]]
-    .map(([n, l]) => h("div", { class: "stat" }, h("div", { class: "n" }, n.toLocaleString()), h("div", { class: "l" }, l))));
-  $("#when").textContent = "updated " + new Date(NOW).toLocaleString(undefined, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
-  $("#list").removeAttribute("aria-busy");
-  syncSegs(); render();
-}).catch(() => $("#list").replaceChildren(h("div", { class: "empty" }, "Couldn't load the value data. Try refreshing.")));
+  const nA = d.items.filter(i => Object.keys(i.A).length).length, nE = d.items.filter(i => Object.keys(i.E).length).length;
+  const nH = d.items.reduce((n, i) => n + Object.values(i.hist.A).concat(Object.values(i.hist.E)).reduce((m, x) => m + x.length, 0), 0);
+  $("#lede").replaceChildren("Tracking ", h("b", {}, d.items.length.toLocaleString()), " items: ", h("b", {}, nA.toLocaleString()), " on AMVGG and ",
+    h("b", {}, nE.toLocaleString()), " on Elvebredd, with ", h("b", {}, nH.toLocaleString()), " logged values going back to September 2023.");
+  $("#when").textContent = "Updated " + new Date(NOW).toLocaleString(undefined, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+  sync(); render();
+}).catch(() => { $("#count").textContent = "Couldn't load the value data. Try refreshing."; });
 </script>
 </body>
 </html>
