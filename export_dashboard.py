@@ -115,13 +115,17 @@ write("most_changed.csv", rows[:20], ["item", "elve", "amvgg", "total"])
 print("elve batches stored:", len(elve_batches), "| 90-day window from", cut)
 
 # ---- Pet explorer -------------------------------------------------------------------------
-# Variant codes: r/n/m = normal/neon/mega, fr/np = fly ride/no potion. AMVGG's headline values are fly ride.
+# Variant codes: r/n/m = normal/neon/mega; np/f/r/fr = no potion/fly/ride/fly ride. AMVGG's headline values are fly ride.
+# Both sites only log *changes* for np and fr; fly-only and ride-only exist as current values.
 ELVE_LABELS = {"default no potion": "r-np", "default fly ride": "r-fr", "neon no potion": "n-np",
                "neon fly ride": "n-fr", "mega no potion": "m-np", "mega fly ride": "m-fr"}
-ELVE_SNAP = {"r-np": "rvalue - nopotion", "r-fr": "rvalue - fly&ride", "n-np": "nvalue - nopotion",
-             "n-fr": "nvalue - fly&ride", "m-np": "mvalue - nopotion", "m-fr": "mvalue - fly&ride"}
-GG_SNAP = {"r-fr": "regularValue", "n-fr": "neonValue", "m-fr": "megaValue",
-           "r-np": "npRegularValue", "n-np": "npNeonValue", "m-np": "npMegaValue"}
+ELVE_SNAP = {f"{v}-{p}": f"{v}value - {f}" for v in "rnm"
+             for p, f in {"np": "nopotion", "f": "fly", "r": "ride", "fr": "fly&ride"}.items()}
+_GG = {"r": {"np": "npRegular", "f": "f", "r": "r", "fr": "regular"},
+       "n": {"np": "npNeon", "f": "nf", "r": "nr", "fr": "neon"},
+       "m": {"np": "npMega", "f": "mf", "r": "mr", "fr": "mega"}}
+GG_SNAP = {f"{v}-{p}": f"{s}Value" for v, ps in _GG.items() for p, s in ps.items()}
+GG_DEMAND = {f"{v}-{p}": f"{s}Demand" for v, ps in _GG.items() for p, s in ps.items()}
 GG_UPD = {"Regular": "r-fr", "Neon": "n-fr", "Mega": "m-fr"}
 TILE = 96
 
@@ -167,7 +171,8 @@ for p in pets:
         r[f"elve_{v}"] = p.get(f, "")
     for v, f in GG_SNAP.items():
         r[f"amvgg_{v}"] = g.get(f, "")
-    r["amvgg_demand"] = g.get("regularDemand", "")
+    for v, f in GG_DEMAND.items():
+        r[f"demand_{v}"] = g.get(f, "")
     rows.append(r)
 write("pets.csv", rows, list(rows[0]))
 
