@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 21:16 UTC by the scrape workflow._
+_Updated 2026-11-11 21:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 21:16 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 7,530 | 2026-11-11T21:15 |
-| elve | 1 | 1,627 | 2026-11-11T21:16 |
+| amvgg | 1 | 7,847 | 2026-11-11T21:30 |
+| elve | 1 | 1,709 | 2026-11-11T21:31 |
 
-## AMVGG completed trades: 1,598 total
+## AMVGG completed trades: 1,686 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 1,598 |
+| 2026-11-11 | 1,686 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:15 | **Itx_Cloudyy**: Strawberry Shortcake Bat Dragon (R), Zombie Buffalo (FR), Ride-A-Pet Potion, Snow Monkey (NR), Golden Jaguar (MR), Ice Cream Cone Hat | **ProsstoFilya**: Frostbite Bear (NFR) |
-| 21:15 | **Yumi_Rose8**: Cow (FR) | **altfornewgen**: Kangaroo (FR), Phantom Dragon (FR), Jester Dragon, Swan (F) |
-| 21:15 | **superrcricchio**: Swan, 2D Doggy | **VerMora_PLUS**: Hare |
-| 21:15 | **i_slaybruh**: Mrs. Whiskerpips (N) | **Rachel_2patate**: Pain au Chat |
-| 21:15 | **iaMatthieu1**: Jester Dragon (R) | **Sofiaeftychiou**: Pirate Ghost Capuchin Monkey |
-| 21:15 | **fallenangel6076**: Mini Schnauzer (MFR), Seabed Creeper (MR), Propeller Hat, Halloween White Mummy Cat (N), Frankenfeline (N), Paint Sealer | **gatita_garrita0**: Jekyll Hydra (FR) |
-| 21:15 | **maxwertaq**: Balloon Unicorn | **unknow_nentity**: Chocolate Chip Bat Dragon (NFR) |
-| 21:15 | **CoLoReD_BeAr10**: Owl (FR), Parrot (FR), Evil Unicorn (FR) | **xKashaf**: Blazing Lion (NFR) |
-| 21:15 | **plansrik**: Frost Fury (FR), Christmas Pudding Pup, Tri-horned Treehopper, Yule Log Dog (R), Unicorn (N), Ghost Bunny (FR), Glormy Dolphin (NR), Turtle Doves (NF) | **Sprinxgle1**: Mermicorn (FR) |
-| 21:15 | **chaddanek**: Tegu (M) | **Rysan1234567**: Black Tiger (NR) |
-| 21:15 | **itssuu_k**: Tiny Wings | **Starfireesa**: Jellyfish (R) |
-| 21:15 | **Valeria_134422**: Ride-A-Pet Potion | **nnsmq12**: Zombie Wolf |
-| 21:00 | **Jdjdnx269**: Crow (NFR) ×2, Chocolate Dutch Guinea Pig (NR) | **GrumpDummy**: Hedgehog (FR) ×2, Dalmatian (FR) ×4, Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR) ×2, Cow (FR) |
-| 21:00 | **XxxAriana_Xxx4**: Fairy Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pain au Chat, Samoyed (N) | **mdz_1219**: Peppermint Penguin (FR) |
-| 21:00 | **Itz_irchik2**: Jekyll Hydra (FR), Jekyll Hydra (R) ×3, Kangaroo (R), Fly-A-Pet Potion | **7e_uz**: Parrot (FR) |
+| 21:30 | **foramvgg8**: Balloon Unicorn (MFR), Arctic Dusk Dragon (MFR) | **Potato_potatoes100**: Balloon Unicorn (M) |
+| 21:30 | **Leen124577**: Balloon Unicorn (NFR) | **Ella116Gisela**: Mini Pig (MFR), Mini Pig, Cabbit, Siamese Cat, 2022 Birthday Cake, Angel Wings |
+| 21:30 | **Karolechek30**: Pink Heart Glasses | **Mary_202401**: Kakapo (M) |
+| 21:30 | **Fluffystar25719**: Phantom Dragon (FR), Cupid Dragon (FR), Rose Dragon (FR), Arctic Dusk Dragon, Dancing Dragon, Aestus (R), Lava Dragon (FR) | **himybaconxD**: Goose |
+| 21:30 | **mzrxxq**: Pancake Stack | **AX7_bianquinha5**: Hare (R) |
+| 21:30 | **Pix3lat3dOm3gaSonic5**: Cow (FR) | **chikibamboniill**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 |
+| 21:30 | **Pix3lat3dOm3gaSonic5**: Cow (FR) | **nfrmikey1**: Copycat ×2, Ice Cream Cone Hat, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
+| 21:30 | **Kainys_urlove**: Fly-A-Pet Potion, Ride-A-Pet Potion, Pet Handler Pro Certificate | **Pix3lat3dOm3gaSonic5**: Cute-A-Cabra (MFR) |
+| 21:30 | **wonderunicorn2019**: Pet Handler Pro Certificate | **Leahisnotfound**: Dragonfruit Fox |
+| 21:30 | **badbIinkup**: Parrot (FR), Irish Water Spaniel (NFR), Irish Water Spaniel, Fly-A-Pet Potion, Pet Handler Pro Certificate | **DiverseCYT**: Owl (FR) |
+| 21:30 | **otonite7**: Husky (MFR), Rain Hat | **lgfyfev**: Turtle (NFR) |
+| 21:30 | **alwaysgooddays00**: Halo | **Ihatetextingback**: Jellyfish (NFR) |
+| 21:30 | **lina200r**: Shadow Dragon (FR), Frost Dragon (FR) | **VibingMelly**: Bat Dragon (FR) |
+| 21:30 | **xlorkaa7**: Goth Shoes | **blake_shortie**: Ride-A-Pet Potion ×3 |
+| 21:30 | **Vvrqxz**: Flash Weasel | **copyvoting**: Candicorn |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
