@@ -2,7 +2,9 @@
 
     python scraper.py values   # Elvebredd + AMVGG value lists -> data/values/<source>/<time>.json.gz
     python scraper.py trades   # AMVGG completed trades (page only shows the last ~100) -> data/trades/<day>.jsonl
-    python scraper.py auto     # trades, plus values + new Elve value updates if the last snapshot is older than VALUES_EVERY
+    python scraper.py amvgg-ads  # AMVGG trade ads posted since the newest stored one -> data/ads/amvgg/<day>.jsonl
+    python scraper.py elve-ads   # sample of Elvebredd's newest trade listings -> data/ads/elve/<day>.jsonl
+    python scraper.py auto     # trades + both ad feeds, plus values + new Elve value updates if the last snapshot is older than VALUES_EVERY
     python scraper.py amvgg-updates # AMVGG's change log (since 2026-06-02) -> data/amvgg_updates/<month>.jsonl
     python scraper.py stats         # rewrite STATS.md
     python scraper.py elve-updates  # Elvebredd's change log (old -> new value per variant, since 2023-09) -> data/elve_updates/<month>.jsonl
@@ -224,6 +226,11 @@ def write_stats():
     out = [f"# Collected data\n\n_Updated {now():%Y-%m-%d %H:%M} UTC by the scrape workflow._\n",
            "## Value snapshots\n", "| Source | Snapshots | First | Latest |", "|---|---|---|---|"]
     out += [f"| {s} | {len(f)} | {f[0].name[:16] if f else '-'} | {f[-1].name[:16] if f else '-'} |" for s, f in snaps.items()]
+    out += ["\n## Trade ads collected by the bot\n", "| Source | Days | Ads today + yesterday | Newest ad |", "|---|---|---|---|"]
+    for src in ("amvgg", "elve"):
+        days = [d for d in (DATA / "ads" / src).glob("20*") if d.is_dir()]
+        recent = recent_ads(src)
+        out.append(f"| {src} | {len(days)} | {len(recent):,} | {max((a['t'][:16] for a in recent), default='-')} |")
     out += [f"\n## AMVGG completed trades: {len(trades):,} total\n", "| Day (UTC) | Trades |", "|---|---|"]
     out += [f"| {d} | {n:,} |" for d, n in sorted(per_day.items(), reverse=True)[:14]]
     out += ["\n### Latest 15\n", "| Seen (UTC) | Side A | Side B |", "|---|---|---|"]
@@ -248,8 +255,92 @@ def write_stats():
     (DATA.parent / "STATS.md").write_text("\n".join(out) + "\n", encoding="utf-8")
 
 
+# ---- trade ads ("I give X, I want Y" listings) ----
+# AMVGG: /api/trades pages backwards in time with a cursor, so every ad can be collected (owner approved).
+# Elvebredd: /api/recent-listings. Page 0 = the 50 most recently posted or auto-renewed listings (~5 per second),
+#   deeper offsets = archive sorted by last update, oldest first. Only sampling is feasible. robots.txt disallows /api;
+#   use approved by David (head value manager) on 2026-11-11.
+AMVGG_ADS = "https://amvgg.com/api/trades?limit=100"
+ELVE_ADS = "https://elvebredd.com/api/recent-listings?limit=50&offset={}&game=Adopt+Me"
+
+
+def amvgg_ad(a):
+    def item(i):  # signs ("Add", "Upgrade", ...) have no name, only an image path
+        name = i.get("name") or "#" + (i.get("sign") or "?").rsplit("/", 1)[-1].split(".")[0]
+        return f"{name}|{(i.get('type') or '').upper()}"
+    return {"id": a["id"], "t": a["publishedAt"], "owner": a.get("authorRobloxId"),
+            "give": [item(i) for i in a.get("offering") or []], "get": [item(i) for i in a.get("lookingFor") or []]}
+
+
+def elve_ad(x):
+    def item(i):
+        a = i.get("attributes") or {}
+        code = ("M" if a.get("mega") else "N" if a.get("neon") else "") + ("F" if a.get("fly") else "") + ("R" if a.get("ride") else "")
+        return f"{i['name']}|{code}" + (f"|{i['mutation']}" if i.get("mutation") else "")
+    return {"id": x["id"], "created": x["timeCreated"], "t": x["timeUpdated"], "owner": x.get("ownerRobloxID"),
+            "diff": x.get("difference"), "give": [item(i) for i in x.get("ownerGive") or []],
+            "get": [item(i) for i in x.get("ownerGet") or []]}
+
+
+def save_ads(source, ads, key):
+    """New ads -> data/ads/<source>/<day of t>/<run time>.jsonl.gz. One small gzip per run: git stores each ad once,
+    compressed, instead of a growing text file per commit. Skips keys already stored today or yesterday."""
+    folder = DATA / "ads" / source
+    seen = {key(a) for a in recent_ads(source)}
+    new = list({key(a): a for a in ads if key(a) not in seen}.values())
+    by_day = {}
+    for a in sorted(new, key=lambda a: a["t"]):
+        by_day.setdefault(a["t"][:10], []).append(a)
+    for day, rows in by_day.items():
+        (folder / day).mkdir(parents=True, exist_ok=True)
+        out = folder / day / f"{ts(now())}.jsonl.gz"
+        old = gzip.decompress(out.read_bytes()).decode() if out.exists() else ""
+        out.write_bytes(gzip.compress((old + "".join(json.dumps(a) + "\n" for a in rows)).encode()))
+    return len(new)
+
+
+def recent_ads(source):
+    """Ads the bot stored today and yesterday."""
+    t = now()
+    return [json.loads(l) for d in (t - timedelta(days=1), t)
+            for f in sorted((DATA / "ads" / source / f"{d:%Y-%m-%d}").glob("*.jsonl.gz"))
+            for l in gzip.decompress(f.read_bytes()).decode().splitlines()]
+
+
+def sync_amvgg_ads(max_pages=4):
+    """AMVGG ads posted since the newest one stored, at most max_pages x 100. At peak ~100 ads/min are posted,
+    so daytime runs keep a sample (the newest ~400 per 15 min) and quiet hours are complete."""
+    last = max((a["t"] for a in recent_ads("amvgg")), default=None)
+    ads, cursor = [], None
+    for p in range(max_pages):
+        d = json.loads(fetch(AMVGG_ADS + (f"&cursor={cursor}" if cursor else "")))
+        ads += [amvgg_ad(a) for a in d["trades"]]
+        cursor = d["pagination"].get("nextCursor")
+        if last is None or not d["trades"] or d["trades"][-1]["publishedAt"] <= last or not cursor:
+            break
+        time.sleep(6)
+    n = save_ads("amvgg", [a for a in ads if last is None or a["t"] > last], key=lambda a: a["id"])
+    print(f"amvgg ads: {n} new")
+
+
+def sync_elve_ads(samples=3, gap=10):
+    """Sample Elve's newest 50 listings a few times; a listing counts again when it is renewed (new t)."""
+    ads = []
+    for i in range(samples):
+        if i:
+            time.sleep(gap)
+        ads += [elve_ad(x) for x in json.loads(fetch(ELVE_ADS.format(0)))["listings"] if x.get("game") == "Adopt Me"]
+    n = save_ads("elve", ads, key=lambda a: (a["id"], a["t"]))
+    print(f"elve ads: {n} new")
+
+
 def auto():
     snapshot_trades()
+    for job in (sync_amvgg_ads, sync_elve_ads):
+        try:  # ads are a side signal: never let them break trade/value collection
+            job()
+        except Exception as e:
+            print(f"{job.__name__} failed: {e!r}")
     last = last_values_time()
     if last is None or now() - last >= VALUES_EVERY:
         snapshot_values()
@@ -296,6 +387,17 @@ def load_amvgg_updates():
     return df.sort_values("updatedAt").reset_index(drop=True)
 
 
+def load_ads(source):
+    """Trade ads from the bot (data/ads/<source>/*.jsonl) and the sampled backfill (backfill/*.jsonl.gz), one row per ad
+    sighting. Elve listings repeat when renewed: dedupe on (id, t) here, or on id for unique listings."""
+    import pandas as pd
+    folder = DATA / "ads" / source
+    rows = [json.loads(l) for f in sorted(folder.glob("*/*.jsonl.gz")) for l in gzip.open(f, "rt", encoding="utf-8")]
+    df = pd.DataFrame(rows).drop_duplicates(subset=["id", "t"])
+    df["t"] = pd.to_datetime(df["t"], utc=True, format="ISO8601")
+    return df.sort_values("t").reset_index(drop=True)
+
+
 def load_trades():
     import pandas as pd
     return pd.DataFrame([json.loads(line) for f in sorted((DATA / "trades").glob("*.jsonl"))
@@ -303,4 +405,5 @@ def load_trades():
 
 
 if __name__ == "__main__":
-    {"values": snapshot_values, "trades": snapshot_trades, "auto": auto, "elve-updates": sync_elve_updates, "amvgg-updates": sync_amvgg_updates, "stats": write_stats}[sys.argv[1]]()
+    {"values": snapshot_values, "trades": snapshot_trades, "auto": auto,
+     "amvgg-ads": sync_amvgg_ads, "elve-ads": sync_elve_ads, "elve-updates": sync_elve_updates, "amvgg-updates": sync_amvgg_updates, "stats": write_stats}[sys.argv[1]]()

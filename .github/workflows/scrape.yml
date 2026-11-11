@@ -19,7 +19,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8  # trades + ads (~1 min); values/updates runs take longer
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
