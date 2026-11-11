@@ -131,6 +131,34 @@ tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 .vt td.on { font-weight: 600; background: var(--hover); }
 details { font-size: 13px; color: var(--muted); line-height: 1.5; }
 details ul { margin: 8px 0 0; padding-left: 18px; }
+/* compare */
+.sides { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); gap: 16px; }
+.side { gap: 10px; }
+.side h2 { display: flex; justify-content: space-between; align-items: baseline; }
+.side .input { width: 100%; }
+.frnm.sm { gap: 4px; margin-top: 2px; } .frnm.sm .tog { width: 24px; height: 24px; font-size: 11px; }
+.x { background: none; border: 0; color: var(--faint); cursor: pointer; font-size: 18px; line-height: 1; padding: 4px 6px; min-height: 32px; }
+.x:hover { color: var(--down); }
+tr.tot td { font-weight: 600; border-bottom: 0; }
+.verdict { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 12px; }
+.verdict .big { font-size: 22px; }
+.cmpadd { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.btn { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 6px 12px; min-height: 36px; cursor: pointer; }
+.btn:hover { background: var(--hover); }
+/* trade ads */
+.adlist { display: flex; flex-direction: column; gap: 10px; }
+.ad { background: var(--panel); border: 1px solid var(--line); border-radius: var(--r); padding: 12px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.adhead, .adfoot { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 12px; color: var(--muted); }
+.trade { display: grid; grid-template-columns: 1fr auto 1fr; gap: 10px; align-items: start; }
+.arrow { color: var(--faint); padding-top: 22px; }
+.sidelbl { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); border-radius: 8px; padding: 3px 8px 3px 4px; background: var(--bg); font-size: 13px; max-width: 100%; }
+.chip.click { cursor: pointer; } .chip.click:hover { border-color: var(--faint); }
+.chip img { width: 28px; height: 28px; object-fit: contain; }
+.chip .bdg { width: 18px; height: 18px; font-size: 10px; }
+.chip.ph { font-style: italic; color: var(--muted); padding-left: 8px; }
+.chip mark { background: none; color: inherit; font-weight: 600; }
 footer { font-size: 12px; color: var(--faint); }
 footer a { color: var(--muted); }
 
@@ -138,6 +166,7 @@ footer a { color: var(--muted); }
   .wrap { padding-top: 20px; gap: 22px; }
   .hide-sm { display: none; }
   .big { font-size: 24px; }
+  .trade { grid-template-columns: 1fr; gap: 6px; } .arrow { padding: 0; transform: rotate(90deg); justify-self: start; }
   .itemimg { width: 80px; height: 80px; } .itemimg img { max-width: 72px; max-height: 72px; }
 }
 </style>
@@ -152,6 +181,8 @@ footer a { color: var(--muted); }
   <nav class="tabs" role="tablist" aria-label="Pages">
     <button class="tab" role="tab" data-tab="list">Values</button>
     <button class="tab" role="tab" data-tab="updates">Value changes</button>
+    <button class="tab" role="tab" data-tab="compare">Compare</button>
+    <button class="tab" role="tab" data-tab="ads">Trade ads</button>
     <button class="tab" role="tab" data-tab="stats">Stats</button>
   </nav>
 
@@ -176,6 +207,33 @@ footer a { color: var(--muted); }
   </section>
 
   <section class="page" id="item" hidden></section>
+
+  <section class="page" id="compare" hidden>
+    <p class="note">Add items to each side to compare them on both lists. Use the F / R / N / M buttons on a row to change that pet's variant. Each list is totalled on its own scale.</p>
+    <div class="sides" id="sides"></div>
+    <div class="verdict" id="verdict"></div>
+    <section class="section" id="cmpHist"></section>
+  </section>
+  <datalist id="names"></datalist>
+
+  <section class="page" id="ads" hidden>
+    <div class="controls">
+      <label class="field grow"><span class="label">Item</span><input id="aq" class="input" type="search" placeholder="Item name, e.g. Shadow Dragon" autocomplete="off"></label>
+      <div class="field"><span class="label">Item is</span><div class="seg" data-key="aw" role="group" aria-label="Item is">
+        <button data-v="any">Either side</button><button data-v="give">Offered</button><button data-v="get">Wanted</button></div></div>
+      <div class="field"><span class="label">Site</span><div class="seg" data-key="as" role="group" aria-label="Site">
+        <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
+      <label class="field"><span class="label">Variant</span><select id="av"><option value="">Any</option><option value="r">Normal</option><option value="n">Neon</option><option value="m">Mega</option></select></label>
+      <label class="field"><span class="label">Potion</span><select id="ap"><option value="">Any</option><option value="fr">Fly Ride</option><option value="f">Fly</option><option value="r">Ride</option><option value="np">No Potion</option></select></label>
+      <div class="field"><span class="label">Value with</span><div class="seg" data-key="al" role="group" aria-label="Value with">
+        <button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
+      <label class="field"><span class="label">Sort</span><select id="asort"><option value="new">Newest</option><option value="over">Poster offers the most extra</option><option value="ask">Poster asks the most extra</option></select></label>
+    </div>
+    <div class="status"><span id="adcount" aria-live="polite">Loading…</span><span id="adwhen"></span></div>
+    <div class="adlist" id="adlist"></div>
+    <button class="more" id="admore" hidden>Show more</button>
+    <p class="note">The newest ads from the AMVGG and Elvebredd trade centres. They're collected every 15 minutes, and this page refreshes every 3 hours. Trader names are left out. "Offering" is what the poster gives; "Wants" is what they ask for. Values come from the list you pick. If that list doesn't carry an item, or the ad asks for something like "Add", the ad can't be valued.</p>
+  </section>
 
   <section class="page" id="stats" hidden>
     <div class="kpis" id="kpis"></div>
@@ -217,7 +275,8 @@ const PAGE = 100, DAY = 864e5;
 const $ = s => document.querySelector(s);
 
 // state <-> URL hash, so a view can be shared
-const S = Object.assign({ tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "", item: "" },
+const S = Object.assign({ tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "", item: "",
+  ca: "", cb: "", aq: "", aw: "any", as: "both", av: "", ap: "", al: "A", asort: "new" },
   Object.fromEntries(new URLSearchParams(location.hash.slice(1))));
 const save = () => history.replaceState(null, "", "#" + new URLSearchParams(Object.entries(S).filter(([, v]) => v !== "")));
 
@@ -237,7 +296,7 @@ const pctCls = p => p == null || Math.abs(p) < .05 ? "flat" : p > 0 ? "up" : "do
 const ts = t => Date.parse(t + "Z");
 const dateTxt = t => new Date(typeof t === "number" ? t : ts(t)).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
 
-let DATA, NOW, START = {}, BYNAME = new Map();
+let DATA, NOW, START = {}, BYNAME = new Map(), BYLOWER = new Map();
 const vkey = it => it.cat === "pets" ? `${S.var}-${S.pot}` : "v";
 const value = (it, s, k = vkey(it)) => it[s][k] ?? null;
 // a variant's change log can stop (Elve stopped logging some variants in 2023): only trust it if it ends at today's value
@@ -252,7 +311,7 @@ function change(it, s, days = 30, k = vkey(it)) {
   return then ? (now - then) / then * 100 : null;
 }
 const sources = () => S.src === "both" ? ["A", "E"] : [S.src];
-const demandOf = it => (it.demand || {})[it.cat === "pets" ? S.var : "r"];
+const demandOf = (it, k = vkey(it)) => (it.demand || {})[k];
 const matches = it => (S.cat === "all" || it.cat === S.cat) && (!S.q.trim() || it.name.toLowerCase().includes(S.q.trim().toLowerCase())) &&
   (!S.rar || it.rarity === S.rar) && (!S.dem || demandOf(it) === S.dem);
 
@@ -300,19 +359,20 @@ function feed() {
 // F / R / N / M: fly and ride combine freely, N and M exclude each other, click again for normal
 const fly = () => S.pot === "fr" || S.pot === "f", ride = () => S.pot === "fr" || S.pot === "r";
 const potOf = (f, r) => f && r ? "fr" : f ? "f" : r ? "r" : "np";
-function frnm() {
-  const b = (k, label, on, set) => h("button", { class: "tog tog-" + k, "aria-pressed": String(on), title: label, "aria-label": label,
-    onclick: () => { set(); rankCache = {}; sync(); render(); } }, k.toUpperCase());
-  return h("div", { class: "frnm", role: "group", "aria-label": "Fly, ride, neon, mega" },
-    b("f", "Fly", fly(), () => S.pot = potOf(!fly(), ride())),
-    b("r", "Ride", ride(), () => S.pot = potOf(fly(), !ride())),
-    b("n", "Neon", S.var === "n", () => S.var = S.var === "n" ? "r" : "n"),
-    b("m", "Mega", S.var === "m", () => S.var = S.var === "m" ? "r" : "m"));
+// toggles for one variant key "<r|n|m>-<potion>"; onSet gets the new key
+function frnmFor(k, onSet, small = false) {
+  const [v, p] = k.split("-"), f = p === "fr" || p === "f", r = p === "fr" || p === "r";
+  const b = (c, label, on, nk) => h("button", { class: "tog tog-" + c, "aria-pressed": String(on), title: label, "aria-label": label, onclick: () => onSet(nk) }, c.toUpperCase());
+  return h("div", { class: "frnm" + (small ? " sm" : ""), role: "group", "aria-label": "Fly, ride, neon, mega" },
+    b("f", "Fly", f, `${v}-${potOf(!f, r)}`), b("r", "Ride", r, `${v}-${potOf(f, !r)}`),
+    b("n", "Neon", v === "n", `${v === "n" ? "r" : "n"}-${p}`), b("m", "Mega", v === "m", `${v === "m" ? "r" : "m"}-${p}`));
 }
+const frnm = () => frnmFor(`${S.var}-${S.pot}`, nk => { [S.var, S.pot] = nk.split("-"); rankCache = {}; sync(); render(); });
+const badgeTags = k => { const [v, p] = k.split("-"); return [v !== "r" && v, (p === "fr" || p === "f") && "f", (p === "fr" || p === "r") && "r"].filter(Boolean); };
+const bdgs = tags => h("span", { class: "badges" }, tags.map(t => h("span", { class: "bdg " + t, title: { n: "Neon", m: "Mega", f: "Fly", r: "Ride" }[t] }, t.toUpperCase())));
 function badges(it) {
   if (it.cat !== "pets") return null;
-  const on = [S.var !== "r" && S.var, fly() && "f", ride() && "r"].filter(Boolean);
-  return h("span", { class: "badges" }, on.map(k => h("span", { class: "bdg " + k, title: { n: "Neon", m: "Mega", f: "Fly", r: "Ride" }[k] }, k.toUpperCase())));
+  return bdgs(badgeTags(`${S.var}-${S.pot}`));
 }
 const icon = it => it.img ? h("img", { class: "ico", src: it.img, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", onerror: e => e.target.remove() }) : null;
 const variantTxt = it => it.cat === "pets" ? `${VAR[S.var]} ${POT[S.pot]}` : it.cat;
@@ -358,12 +418,13 @@ let shown = 0, current = [];
 function render(reset = true) {
   save();
   for (const b of document.querySelectorAll(".tab")) b.setAttribute("aria-selected", String(!S.item && S.tab === b.dataset.tab));
-  $("#browse").hidden = !!S.item || S.tab === "stats";
-  $("#stats").hidden = !!S.item || S.tab !== "stats";
-  $("#item").hidden = !S.item;
+  const pg = S.item ? "item" : ["stats", "compare", "ads"].includes(S.tab) ? S.tab : "browse";
+  for (const id of ["browse", "item", "stats", "compare", "ads"]) $("#" + id).hidden = id !== pg;
   if (!DATA) return;
   if (S.item) return drawItem();
   if (S.tab === "stats") return drawStats();
+  if (S.tab === "compare") return drawCompare();
+  if (S.tab === "ads") return drawAds(reset);
   document.querySelectorAll(".pet-only").forEach(e => e.setAttribute("aria-disabled", String(!["all", "pets"].includes(S.cat))));
   document.querySelectorAll(".list-only").forEach(e => e.style.display = S.tab === "list" ? "" : "none");
   const list = S.tab === "list", tbl = $("#tbl");
@@ -405,7 +466,10 @@ function drawItem() {
         h("div", { class: "itemname" }, h("h2", {}, (pet && S.var !== "r" ? VAR[S.var] + " " : "") + it.name), badges(it)),
         h("span", { class: "sub" }, [it.rarity && it.rarity[0].toUpperCase() + it.rarity.slice(1), it.cat !== "pets" && it.cat, it.origin, pet && POT[S.pot]].filter(Boolean).join(" · ")),
         pet ? frnm() : null,
-        h("div", { class: "vals" }, nowCell("E"), nowCell("A")))),
+        h("div", { class: "vals" }, nowCell("E"), nowCell("A")),
+        h("div", { class: "cmpadd" }, h("span", { class: "label" }, "Compare:"),
+          ["ca", "cb"].map((sd, n) => h("button", { class: "btn", onclick: () => { addTo(sd, it, pet ? `${S.var}-${S.pot}` : "v"); S.item = ""; S.tab = "compare"; scrollTo(0, 0); render(); } },
+            `Add to side ${"AB"[n]}`))))),
     ...charts.map(c => c[0]),
     h("p", { class: "note" }, "The two lists use different scales, so compare an item with other items on the same list. Elvebredd's log starts in September 2023 and AMVGG's in June 2026; a few variants were changed without being logged, so their chart is hidden."));
   charts.forEach(c => c[1]());
@@ -425,10 +489,11 @@ function tipper(el) {
   };
 }
 // shared frame: y axis sized to its labels, light grid, bottom time axis
-function frame(el, H, yDomain, xDomain, yFmt, xFmt) {
+function frame(el, H, yDomain, xDomain, yFmt, xFmt, log = false) {
   el.replaceChildren();
   const W = el.clientWidth || 600, m = { t: 10, r: 12, b: 26, l: 10 };
-  const y = d3.scaleLinear().domain(yDomain).nice().range([H - m.b, m.t]);
+  const y = (log ? d3.scaleLog() : d3.scaleLinear()).domain(yDomain).nice().range([H - m.b, m.t]);
+  if (log) yFmt = y.tickFormat(5, "~s");
   const svg = d3.select(el).append("svg").attr("width", W).attr("height", H);
   const ya = svg.append("g").call(d3.axisLeft(y).ticks(5).tickSize(0).tickFormat(yFmt));
   let lw = 0; ya.selectAll("text").each(function () { lw = Math.max(lw, this.getComputedTextLength()); });
@@ -532,27 +597,200 @@ function hourlyChart(el) {
     .on("pointerleave", () => show());
 }
 
+// ---- Compare tab: two sides of items, each priced on both lists ----
+const sideOf = sd => (S[sd] || "").split(";").filter(Boolean).map(x => { const [n, k] = x.split("~"); return { it: BYNAME.get(n), k: k || "v" }; }).filter(e => e.it);
+const setSide = (sd, list) => { S[sd] = list.map(e => `${e.it.name}~${e.k}`).join(";"); };
+function addTo(sd, it, k) { setSide(sd, [...sideOf(sd), { it, k: it.cat === "pets" ? (k === "v" ? "r-fr" : k) : "v" }]); }
+const total = (list, s) => list.reduce((a, e) => { const v = e.it[s][e.k]; return v == null ? { ...a, miss: a.miss + 1 } : { ...a, sum: a.sum + v }; }, { sum: 0, miss: 0 });
+const keyTxt = (it, k) => it.cat === "pets" ? `${VAR[k[0]]} ${POT[k.slice(2)]}` : it.cat;
+const PALETTE = ["#4e79a7", "#f28e2b", "#59a14f", "#e15759", "#76b7b2", "#edc948", "#b07aa1", "#ff9da7", "#9c755f", "#bab0ac"];
+function drawCompare() {
+  const sides = { ca: sideOf("ca"), cb: sideOf("cb") };
+  const sideCard = (sd, n) => {
+    const list = sides[sd];
+    const inp = h("input", { class: "input", list: "names", placeholder: "Add an item…", "aria-label": `Add an item to side ${"AB"[n]}`, autocomplete: "off" });
+    const tryAdd = () => { const it = BYLOWER.get(inp.value.trim().toLowerCase()); if (it) { addTo(sd, it, `${S.var}-${S.pot}`); render(); } };
+    inp.addEventListener("input", e => { if (!e.inputType || e.inputType === "insertReplacementText") tryAdd(); });
+    inp.addEventListener("keydown", e => { if (e.key === "Enter") tryAdd(); });
+    const rows = list.map((e, i) => h("tr", {},
+      h("td", { class: "icocell" }, icon(e.it)),
+      h("td", {}, h("div", { class: "nm", style: "cursor:pointer", onclick: () => { if (e.it.cat === "pets") [S.var, S.pot] = e.k.split("-"); openItem(e.it); } }, e.it.name),
+        e.it.cat === "pets" ? frnmFor(e.k, nk => { list[i].k = nk; setSide(sd, list); render(); }, true) : h("div", { class: "dim" }, e.it.cat)),
+      ["A", "E"].map(s => h("td", { class: "num" }, e.it[s][e.k] == null ? h("span", { class: "dim", style: "text-transform:none" }, "—") : fmt(e.it[s][e.k]))),
+      h("td", {}, h("button", { class: "x", title: "Remove", "aria-label": `Remove ${e.it.name}`, onclick: () => { list.splice(i, 1); setSide(sd, list); render(); } }, "×"))));
+    const tot = ["A", "E"].map(s => total(list, s));
+    return h("div", { class: "card side" },
+      h("h2", {}, `Side ${"AB"[n]}`, list.length ? h("button", { class: "x", style: "font-size:13px", onclick: () => { S[sd] = ""; render(); } }, "Clear") : null),
+      inp,
+      list.length ? h("div", { class: "tablewrap" }, h("table", {},
+        h("thead", {}, h("tr", {}, h("th", { class: "icocell" }), h("th", {}, "Item"), h("th", { class: "num" }, "AMVGG"), h("th", { class: "num" }, "Elvebredd"), h("th"))),
+        h("tbody", {}, rows, h("tr", { class: "tot" }, h("td"), h("td", {}, "Total"),
+          tot.map(t => h("td", { class: "num" }, fmt(t.sum), t.miss ? h("div", { class: "dim", style: "text-transform:none;font-weight:400" }, `${t.miss} not listed`) : null)), h("td")))))
+        : h("p", { class: "empty" }, "No items yet. Search above, or open an item and use “Add to side”."));
+  };
+  $("#sides").replaceChildren(sideCard("ca", 0), sideCard("cb", 1));
+  // verdict per list
+  const both = sides.ca.length && sides.cb.length;
+  $("#verdict").replaceChildren(...(!both ? [] : ["A", "E"].map(s => {
+    const a = total(sides.ca, s), b = total(sides.cb, s), miss = a.miss + b.miss;
+    const d = a.sum && b.sum ? (b.sum - a.sum) / a.sum * 100 : null;
+    const txt = d == null ? "Can't compare" : Math.abs(d) < 5 ? "About even"
+      : d > 0 ? `Side B is worth ${pctTxt(d).slice(1)} more` : `Side A is worth ${pctTxt((a.sum - b.sum) / b.sum * 100).slice(1)} more`;
+    return h("div", { class: "card" }, h("span", { class: "label" }, `On ${SRC[s]}`),
+      h("span", { class: "big", style: `color:${COL[s]}` }, txt),
+      h("span", { class: "sub" }, `${fmt(a.sum)} vs ${fmt(b.sum)}` + (miss ? ` · ${miss} item${miss > 1 ? "s" : ""} not on this list, left out` : "")));
+  })));
+  // overlaid history, one chart per list
+  const all = [...sides.ca.map(e => ({ ...e, side: "A" })), ...sides.cb.map(e => ({ ...e, side: "B" }))];
+  const box = $("#cmpHist");
+  if (!all.length) { box.replaceChildren(); return; }
+  all.forEach((e, i) => e.col = PALETTE[i % PALETTE.length]);
+  box.replaceChildren(h("h2", {}, "Value history"),
+    h("div", { class: "legend" }, all.map(e => h("span", {},
+      h("i", { style: e.side === "B" ? `background:none;border-top:2px dashed ${e.col}` : `background:${e.col}` }),
+      `${e.it.name}${e.it.cat === "pets" ? " · " + keyTxt(e.it, e.k) : ""} (side ${e.side})`))));
+  const draws = [];
+  for (const s of ["E", "A"]) {
+    const el = h("div", { class: "chart" });
+    box.append(h("h2", { style: "font-weight:500;font-size:14px;margin-top:8px" }, SRC[s]), el);
+    draws.push(() => cmpChart(el, all, s));
+  }
+  draws.forEach(f => f());
+}
+function cmpChart(el, all, s) {
+  const series = all.filter(e => complete(e.it.hist[s][e.k], e.it[s][e.k])).map(e => {
+    const pts = e.it.hist[s][e.k].map(([t, v]) => ({ t: new Date(ts(t)), v }));
+    pts.push({ t: new Date(Math.max(NOW, +pts.at(-1).t)), v: e.it[s][e.k], now: true });
+    return { ...e, pts };
+  });
+  if (!series.length) {
+    el.style.minHeight = "0";
+    el.replaceChildren(h("p", { class: "empty" }, `No usable ${SRC[s]} history for these items and variants` + (s === "A" ? " (AMVGG only logs fly ride changes)." : ".")));
+    return;
+  }
+  el.style.minHeight = "";
+  const vs = series.flatMap(x => x.pts.map(p => p.v)).filter(v => v > 0);
+  let lo = d3.min(vs), hi = d3.max(vs);
+  if (lo === hi) { lo *= .9; hi *= 1.1; }
+  const log = hi / lo > 20, xs = series.flatMap(x => x.pts.map(p => p.t)), span = d3.max(xs) - d3.min(xs);
+  const { svg, x, y, H, m, show } = frame(el, 260, [lo, hi], d3.extent(xs), d3.format("~s"),
+    d3.utcFormat(span > 300 * DAY ? "%b %Y" : span > 2 * DAY ? "%-d %b" : "%H:%M"), log);
+  for (const sr of series)
+    svg.append("path").datum(sr.pts.filter(p => p.v > 0)).attr("fill", "none").style("stroke", sr.col).attr("stroke-width", 2)
+      .attr("stroke-dasharray", sr.side === "B" ? "5 3" : null).attr("d", d3.line().curve(d3.curveStepAfter).x(p => x(p.t)).y(p => y(p.v)));
+  const guide = svg.append("line").attr("y1", m.t).attr("y2", H - m.b).style("stroke", "var(--axis)").attr("visibility", "hidden");
+  svg.append("rect").attr("x", m.l).attr("y", m.t).attr("width", x.range()[1] - m.l).attr("height", H - m.t - m.b).attr("fill", "transparent")
+    .on("pointermove pointerdown", e => {
+      const [px, py] = d3.pointer(e, el), t = x.invert(px);
+      guide.attr("x1", px).attr("x2", px).attr("visibility", "visible");
+      show(px, py, [d3.utcFormat("%-d %b %Y")(t), ...series.map(sr => {
+        const p = sr.pts[Math.max(0, d3.bisector(q => q.t).right(sr.pts, t) - 1)];
+        return `${sr.it.name}: ${p.t > t ? "—" : fmt(p.v)}`;
+      })]);
+    })
+    .on("pointerleave", () => { guide.attr("visibility", "hidden"); show(); });
+}
+
+// ---- Trade ads tab (site/ads.json) ----
+let ADS, adShown = 0, adCurrent = [];
+const tagKey = b => `${b.includes("M") ? "m" : b.includes("N") ? "n" : "r"}-${potOf(b.includes("F"), b.includes("R"))}`;
+function tokInfo(i) {
+  const [name, badge, known] = ADS.tokens[i], it = known ? BYNAME.get(name) : null;
+  return { name, badge, it, k: it && it.cat === "pets" ? tagKey(badge) : "v" };
+}
+// full value of one side, or null if any item can't be valued; part() also keeps the partial sum and what's missing
+function adPart(ids, s) {
+  let sum = 0, extra = [];
+  for (const i of ids) { const t = tokInfo(i), v = t.it ? t.it[s][t.k] : null; if (v == null) extra.push(t.name); else sum += v; }
+  return { sum, extra };
+}
+function adSideValue(ids, s) { const p = adPart(ids, s); return ids.length && !p.extra.length ? p.sum : null; }
+const partTxt = p => !p.extra.length ? fmt(p.sum) : (p.sum ? fmt(p.sum) + " + " : "") + p.extra.join(" + ");
+function adMatches(ad) {
+  if (S.as !== "both" && ad[0] !== S.as) return false;
+  const q = S.aq.trim().toLowerCase();
+  if (!q && !S.av && !S.ap) return true;
+  const ids = S.aw === "give" ? ad[2] : S.aw === "get" ? ad[3] : ad[2].concat(ad[3]);
+  return ids.some(i => {
+    const t = tokInfo(i);
+    if (q && !t.name.toLowerCase().includes(q)) return false;
+    if (!S.av && !S.ap) return true;
+    if (!t.it || t.it.cat !== "pets") return false;
+    const [v, p] = t.k.split("-");
+    return (!S.av || v === S.av) && (!S.ap || p === S.ap);
+  });
+}
+function adList() {
+  const xs = ADS.ads.filter(adMatches);
+  if (S.asort === "new") return xs;
+  const r = ad => { const g = adSideValue(ad[2], S.al), w = adSideValue(ad[3], S.al); return g && w ? g / w : null; };
+  return xs.map(a => [a, r(a)]).filter(x => x[1] != null).sort((a, b) => S.asort === "over" ? b[1] - a[1] : a[1] - b[1]).map(x => x[0]);
+}
+const ago = t => { const m = Math.max(0, Math.round((Date.now() - ts(t)) / 6e4)); return m < 60 ? `${m} min ago` : m < 48 * 60 ? `${Math.round(m / 60)} h ago` : `${Math.round(m / 1440)} days ago`; };
+function chip(i) {
+  const t = tokInfo(i), q = S.aq.trim().toLowerCase(), hit = q && t.name.toLowerCase().includes(q);
+  if (!t.it) return h("span", { class: "chip ph" }, t.name);
+  const pet = t.it.cat === "pets";
+  return h("span", { class: "chip click", title: `${t.name}${pet ? " · " + keyTxt(t.it, t.k) : ""}`, role: "link", tabindex: 0,
+    onclick: () => { if (pet) [S.var, S.pot] = t.k.split("-"); openItem(t.it); } },
+    icon(t.it), hit ? h("mark", {}, t.name) : t.name, pet ? bdgs(badgeTags(t.k)) : null);
+}
+function adCard(ad) {
+  const [src, t, give, get] = ad, s = S.al;
+  const g = adSideValue(give, s), w = adSideValue(get, s);
+  const d = g && w ? (g - w) / w * 100 : null;
+  const verdict = d == null ? h("span", {}, `Can't value on ${SRC[s]}`)
+    : h("span", { class: Math.abs(d) < 5 ? "flat" : d > 0 ? "up" : "down" },
+      Math.abs(d) < 5 ? "Fair (within 5%)" : d > 0 ? `Poster offers ${pctTxt(d).slice(1)} more than they ask` : `Poster asks ${pctTxt((w - g) / g * 100).slice(1)} more than they offer`);
+  return h("article", { class: "ad" },
+    h("div", { class: "adhead" }, h("span", { class: "pill " + src }, SRC[src]), h("span", { title: t.replace("T", " ") + " UTC" }, ago(t))),
+    h("div", { class: "trade" },
+      h("div", {}, h("div", { class: "sidelbl" }, "Offering"), h("div", { class: "chips" }, give.length ? give.map(chip) : h("span", { class: "dim" }, "nothing listed"))),
+      h("div", { class: "arrow", "aria-hidden": "true" }, "→"),
+      h("div", {}, h("div", { class: "sidelbl" }, "Wants"), h("div", { class: "chips" }, get.length ? get.map(chip) : h("span", { class: "dim" }, "offers")))),
+    h("div", { class: "adfoot" }, h("span", {}, `${SRC[s]}: ${give.length ? partTxt(adPart(give, s)) : "—"} offered for ${get.length ? partTxt(adPart(get, s)) : "—"}`), verdict));
+}
+async function drawAds(reset = true) {
+  if (!ADS) {
+    try { ADS = await fetch("ads.json").then(r => r.json()); }
+    catch { $("#adcount").textContent = "Couldn't load the trade ads. Try refreshing."; return; }
+    if (S.tab !== "ads" || S.item) return;
+  }
+  if (reset) { adShown = 0; adCurrent = adList(); $("#adlist").replaceChildren(); }
+  const next = adCurrent.slice(adShown, adShown + 50);
+  $("#adlist").append(...next.map(adCard));
+  adShown += next.length;
+  $("#admore").hidden = adShown >= adCurrent.length;
+  $("#adcount").textContent = adCurrent.length ? `${adCurrent.length.toLocaleString()} ads` + (S.asort !== "new" ? ` that can be valued on ${SRC[S.al]}` : "") : "No ads match these filters.";
+  $("#adwhen").textContent = ADS.ads.length ? `Newest ad ${ago(ADS.ads[0][1])} · ${ADS.ads.length.toLocaleString()} ads loaded` : "";
+}
+
 // ---- controls ----
 function sync() {
   document.querySelectorAll(".seg").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(S[g.dataset.key] === b.dataset.v))));
   $("#frnmSlot").replaceChildren(frnm());
   $("#q").value = S.q; $("#cat").value = S.cat; $("#dem").value = S.dem; $("#sort").value = S.sort; $("#rar").value = S.rar;
+  $("#aq").value = S.aq; $("#av").value = S.av; $("#ap").value = S.ap; $("#asort").value = S.asort;
 }
 document.querySelectorAll(".seg").forEach(g => g.addEventListener("click", e => {
   const b = e.target.closest("button"); if (!b) return; S[g.dataset.key] = b.dataset.v; rankCache = {}; sync(); render();
 }));
 document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => { S.tab = b.dataset.tab; S.item = ""; render(); }));
 let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.q = e.target.value; render(); }, 150); });
-for (const id of ["cat", "dem", "sort", "rar"]) $("#" + id).addEventListener("change", e => { S[id] = e.target.value; rankCache = {}; render(); });
+let aqt; $("#aq").addEventListener("input", e => { clearTimeout(aqt); aqt = setTimeout(() => { S.aq = e.target.value; render(); }, 200); });
+$("#admore").addEventListener("click", () => render(false));
+for (const id of ["cat", "dem", "sort", "rar", "av", "ap", "asort"]) $("#" + id).addEventListener("change", e => { S[id] = e.target.value; rankCache = {}; render(); });
 $("#more").addEventListener("click", () => render(false));
 let rt, lastW = innerWidth;
-addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { if (innerWidth !== lastW) { lastW = innerWidth; if (S.item || S.tab === "stats") render(); } }, 150); });
+addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { if (innerWidth !== lastW) { lastW = innerWidth; if (S.item || ["stats", "compare"].includes(S.tab)) render(); } }, 150); });
 
 sync(); render();
 fetch("data.json").then(r => r.json()).then(d => {
   DATA = d; NOW = Math.max(ts(d.elve_at.replace(/T(\d\d)(\d\d)Z?$/, "T$1:$2")), ts(d.amvgg_at.replace(/T(\d\d)(\d\d)Z?$/, "T$1:$2")));
   for (const s of ["A", "E"]) START[s] = Math.min(...d.items.flatMap(i => Object.values(i.hist[s]).map(h => ts(h[0][0]))));
   BYNAME = new Map(d.items.map(i => [i.name, i]));
+  BYLOWER = new Map(d.items.map(i => [i.name.toLowerCase(), i]));
+  $("#names").replaceChildren(...[...BYNAME.keys()].sort().map(n => h("option", { value: n })));
   const cats = [...new Set(d.items.map(i => i.cat))].sort((a, b) => (a !== "pets") - (b !== "pets") || a.localeCompare(b));
   $("#cat").append(h("option", { value: "all" }, "All categories"), ...cats.map(c => h("option", { value: c }, c[0].toUpperCase() + c.slice(1))));
   const nA = d.items.filter(i => Object.keys(i.A).length).length, nE = d.items.filter(i => Object.keys(i.E).length).length;

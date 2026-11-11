@@ -2,10 +2,10 @@
 
     python build_site.py   # then open site/index.html through a local server: python -m http.server -d site
 """
-import gzip, json, unicodedata
+import gzip, json
 from pathlib import Path
 
-from scraper import DATA, lines
+from scraper import DATA, amvgg_variants, elve_canonical, item_key as key, lines
 
 SITE = Path(__file__).parent / "site"
 
@@ -17,11 +17,6 @@ GG_SNAP = {"r-fr": "regularValue", "n-fr": "neonValue", "m-fr": "megaValue",
            "r-r": "rValue", "r-f": "fValue", "n-r": "nrValue", "n-f": "nfValue", "m-r": "mrValue", "m-f": "mfValue"}
 ELVE_LABEL = {"default": "r", "neon": "n", "mega": "m", "no potion": "np", "fly ride": "fr"}
 GG_KIND = {"petwear": "pet wear", "houses": "other"}  # AMVGG /values/<kind> -> Elvebredd's category names
-
-
-def key(name):  # join key across lists: case, accents ("Tió" vs "Tio"), curly quotes and spacing don't matter
-    s = unicodedata.normalize("NFKD", str(name).lower().replace("’", "'"))
-    return " ".join("".join(c for c in s if not unicodedata.combining(c)).split())
 
 
 def num(v):
@@ -39,26 +34,29 @@ def latest(source):
 elve, elve_at = latest("elve")
 gg, gg_at = latest("amvgg")
 gg_upd = lines("amvgg_updates")
+gg_coef = json.loads((DATA / "amvgg_coefficients.json").read_text(encoding="utf-8")) if (DATA / "amvgg_coefficients.json").exists() else {}
+elve_upd = [c for c in lines("elve_updates") if "newValue" in c]
+elve_items = elve_canonical(elve, elve_upd)  # one entry per name; Elvebredd lists some items twice
+elve_id = {i["id"]: k for k, i in elve_items.items()}
 catalog = {key(i["name"]): i for i in json.loads((DATA / "catalog.json").read_text(encoding="utf-8"))} \
     if (DATA / "catalog.json").exists() else {}
 
 items = {}
-for i in elve:
-    if not i.get("name"):
-        continue
+for k, i in elve_items.items():
     pet = i.get("type") == "pets"
     vals = {v: num(i.get(f)) for v, f in ELVE_SNAP.items()} if pet else {"v": num(i.get("value") or i.get("rvalue"))}
-    items[key(i["name"])] = {"name": i["name"], "cat": i.get("type") or "other", "rarity": (i.get("rarity") or "").replace("none", ""),
+    items[k] = {"name": i["name"], "cat": i.get("type") or "other", "rarity": (i.get("rarity") or "").replace("none", ""),
                              "E": {k: v for k, v in vals.items() if v}, "A": {}, "img": "https://elvebredd.com" + i["image"] if i.get("image") else ""}
 for i in gg:
     kind = i.get("kind", "pets")  # snapshots before 2026-11-11 came from the calculator: pets only
     it = items.setdefault(key(i["name"]), {"name": i["name"], "cat": GG_KIND.get(kind, kind), "rarity": "", "E": {}, "A": {}, "img": ""})
     if kind == "pets":
-        vals = {v: num(i.get(f)) for v, f in GG_SNAP.items()}
-        it["demand"] = {v: i.get(f"{n}Demand") for v, n in (("r", "regular"), ("n", "neon"), ("m", "mega")) if i.get(f"{n}Demand")}
+        vals = {v: num(x) for v, x in amvgg_variants(i, gg_coef).items()}  # ride/fly/no potion: derived like amvgg.com does
+        dem = {v: i.get(f[:-5] + "Demand") for v, f in GG_SNAP.items()}  # potion demand is only set for a few pets:
+        it["demand"] = {v: d or dem[v[0] + "-fr"] for v, d in dem.items() if d or dem[v[0] + "-fr"]}  # else the fly ride one
     else:
         vals = {"v": num(i.get("value"))}
-        it["demand"] = {"r": i["demand"]} if i.get("demand") else {}
+        it["demand"] = {"v": i["demand"]} if i.get("demand") else {}
     it["A"] = {k: v for k, v in vals.items() if v}
 for k, it in items.items():
     c = catalog.get(k)
@@ -79,8 +77,8 @@ def add(k, src, v, t, old, new):
     h.append([t, new])
 
 
-for c in sorted((c for c in lines("elve_updates") if "newValue" in c), key=lambda c: c["effectiveAt"]):
-    k = key(c["name"])
+for c in sorted(elve_upd, key=lambda c: c["effectiveAt"]):
+    k = elve_id.get(c.get("petId"))  # by id: the log follows one of an item's duplicate entries
     if k not in items:
         continue
     v = "-".join(ELVE_LABEL.get(p, p) for p in c["label"].split(" ", 1)) if items[k]["cat"] == "pets" else "v"
@@ -104,7 +102,7 @@ print(len(out), "items,", sum(bool(i["A"]) for i in out), "on AMVGG,", sum(bool(
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone
 
-elve_ch = [c for c in lines("elve_updates") if "newValue" in c]
+elve_ch = elve_upd
 gg_ch = [(c["updatedAt"], c["itemName"], v) for c in gg_upd for v in ("Regular", "Neon", "Mega", "Item") if c.get(f"new{v}Value") is not None]
 gg_dem = sum(1 for c in gg_upd for v in ("Regular", "Neon", "Mega", "Item") if c.get(f"new{v}Demand") is not None)
 trades = lines("trades")
@@ -142,6 +140,39 @@ stats = {
 }
 (SITE / "stats.json").write_text(json.dumps(stats, separators=(",", ":")), encoding="utf-8")
 print("stats:", stats["totals"])
+
+# ---- Trade ads tab: the newest ads from both sites, items only (owner ids never leave the repo) ----
+ADS_KEEP = {"amvgg": 3000, "elve": 1500}  # AMVGG gets ~2,000 ads an hour at peak, Elvebredd ~500
+
+
+def recent_ads(source):
+    files = sorted((DATA / "ads" / source).glob("20*/*.jsonl.gz"))[-60:]
+    latest = {}
+    for f in files:
+        for line in gzip.open(f, "rt", encoding="utf-8"):
+            a = json.loads(line)
+            if a["id"] not in latest or a["t"] > latest[a["id"]]["t"]:  # Elve listings reappear when renewed
+                latest[a["id"]] = a
+    return sorted(latest.values(), key=lambda a: a["t"])[-ADS_KEEP[source]:]
+
+
+tokens, tok_id, ads = [], {}, []
+def tok(raw):  # "Name|BADGES" -> index into tokens: [site item name or raw name, badges, on the site?]
+    if raw not in tok_id:
+        name, _, badge = raw.partition("|")
+        it = None if name.startswith("#") else items.get(key(name))
+        tok_id[raw] = len(tokens)
+        tokens.append([it["name"] if it else name.lstrip("#"), badge, 1 if it else 0])
+    return tok_id[raw]
+
+
+for src, code in (("amvgg", "A"), ("elve", "E")):
+    for a in recent_ads(src):
+        ads.append([code, a["t"][:16], [tok(x) for x in a["give"]], [tok(x) for x in a["get"]]])
+ads.sort(key=lambda a: a[1], reverse=True)
+(SITE / "ads.json").write_text(json.dumps({"built": now.isoformat(timespec="minutes"), "tokens": tokens, "ads": ads},
+                                          separators=(",", ":")), encoding="utf-8")
+print(len(ads), "ads,", len(tokens), "item tokens,", round((SITE / "ads.json").stat().st_size / 1e6, 2), "MB")
 
 if __name__ == "__main__":  # smoke check: a well-known pet joins across both lists with history
     sd = items[key("Shadow Dragon")]

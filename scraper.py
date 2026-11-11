@@ -115,12 +115,59 @@ def ts(t):
 AMVGG_KINDS = ["pets", "eggs", "food", "gifts", "houses", "petwear", "stickers", "strollers", "toys", "vehicles"]
 
 
+def save_amvgg_coefficients(pets_html):
+    """AMVGG stores ride / fly / no-potion values for only ~29 pets (category 13). For every other pet its site
+    multiplies the fly ride value by a per-category coefficient table that ships inside the pets page's JS chunk.
+    Saved to data/amvgg_coefficients.json; amvgg_variants() applies it."""
+    chunk = re.search(r'/_next/static/chunks/[^"\ ]*/pets/page-[^"\ ]+\.js', pets_html).group(0)
+    table = json.loads(re.search(r"""JSON\.parse\('(\{"0":\{"NP".*?\}\})'\)""", fetch("https://amvgg.com" + chunk)).group(1))
+    assert len(table) > 10 and all({"NP", "R", "F", "NNP", "NR", "NF", "MNP", "MR", "MF"} <= set(v) for v in table.values())
+    (DATA / "amvgg_coefficients.json").write_text(json.dumps(table, indent=0), encoding="utf-8")
+
+
+def amvgg_variants(pet, table):
+    """A pet's 12 AMVGG values by variant code (r|n|m)-(fr|f|r|np), the way amvgg.com's pets page shows them
+    (logic copied from its page chunk, 2026-11-11). Category 13 pets carry explicit values; the rest are derived."""
+    from decimal import Decimal, ROUND_HALF_UP
+    num = lambda v: float(v) if v not in (None, "") else 0.0
+    t, a, r = num(pet.get("regularValue")), num(pet.get("neonValue")), num(pet.get("megaValue"))
+    out = {"r-fr": t, "n-fr": a, "m-fr": r}
+    cat = pet.get("category")
+    if cat == 13 or cat is None:
+        out.update({"r-r": num(pet.get("rValue")), "r-f": num(pet.get("fValue")), "r-np": num(pet.get("npRegularValue")),
+                    "n-r": num(pet.get("nrValue")), "n-f": num(pet.get("nfValue")), "n-np": num(pet.get("npNeonValue")),
+                    "m-r": num(pet.get("mrValue")), "m-f": num(pet.get("mfValue")), "m-np": num(pet.get("npMegaValue"))})
+        return out
+    c = table.get(str(cat))
+    if not c:  # the site shows the fly ride value for every potion in this case
+        return {f"{v}-{p}": out[f"{v}-fr"] for v in "rnm" for p in ("fr", "f", "r", "np")}
+
+    def rnd(x, places):  # site: decimal.js round to min(places, 4) decimals (5 when |x| < 0.001)
+        places = min(places, 5 if x and abs(x) < .001 else 4)
+        return float(Decimal(str(x)).quantize(Decimal(1).scaleb(-places), rounding=ROUND_HALF_UP))
+    d0 = 3 if t >= .0175 else 5
+    if cat == 11 and t > .08:
+        out.update({"r-np": rnd(.95 * t, d0), "r-r": rnd(.975 * t, d0), "r-f": rnd(.975 * t, d0),
+                    "n-r": a if a > .2 else rnd(a * c["NR"], 5), "n-f": a if a > .2 else rnd(a * c["NF"], 5),
+                    "m-r": r if r > .9 else rnd(r * c["MR"], 5), "m-f": r if r > .9 else rnd(r * c["MF"], 5)})
+    else:
+        out.update({"r-np": rnd(t * c["NP"], d0), "r-r": rnd(t * c["R"], d0), "r-f": rnd(t * c["F"], d0),
+                    "n-r": rnd(a * c["NR"], 5), "n-f": rnd(a * c["NF"], 5), "m-r": rnd(r * c["MR"], 5), "m-f": rnd(r * c["MF"], 5)})
+    out.update({"n-np": rnd(a * c["NNP"], 5), "m-np": rnd(r * c["MNP"], 5)})
+    return out
+
+
 def snapshot_values():
     # ponytail: whole list per snapshot (~150KB gz). Diff-only storage if the repo ever gets big.
     lists = {"elve": find_list(fetch("https://elvebredd.com/adopt-me-calculator"), "initialPets"), "amvgg": []}
     for kind in AMVGG_KINDS:
-        lists["amvgg"] += [dict(i, kind=kind) for i in find_list(fetch(f"https://amvgg.com/values/{kind}"),
-                                                                 "pets" if kind == "pets" else "items")]
+        html = fetch(f"https://amvgg.com/values/{kind}")
+        lists["amvgg"] += [dict(i, kind=kind) for i in find_list(html, "pets" if kind == "pets" else "items")]
+        if kind == "pets":
+            try:  # a side file: never let it break the snapshot
+                save_amvgg_coefficients(html)
+            except Exception as e:
+                print(f"amvgg coefficients not refreshed: {e!r}")
     for source, items in lists.items():
         out = DATA / "values" / source / f"{ts(now())}.json.gz"
         out.parent.mkdir(parents=True, exist_ok=True)
@@ -213,6 +260,39 @@ def sync_amvgg_updates():
 def lines(folder, pattern="*.jsonl"):
     return [json.loads(line) for f in sorted((DATA / folder).glob(pattern))
             for line in f.read_text(encoding="utf-8").splitlines()]
+
+
+# ---- item names: one join key for Elvebredd, AMVGG, trades, ads and the wiki catalog ----
+# Spellings differ only in case, accents, punctuation and a leading "The" ("Mr. Whiskerpips" / "Mr Whiskerpips",
+# "Tió" / "Tio", "The Black Dog" / "Black Dog"), plus a few typos, mapped here to Elvebredd's spelling. Checked by hand
+# 2026-11-11; unsure pairs (Copter Hat/Cap, Fly-A-Pet Potion/... Forever) are left unmatched.
+NAME_ALIASES = {"magpie wings": "mapgie wings", "eco brown earth wizard hat": "eco brown eath wizard hat",
+                "velvet fuchsia mega neon paint": "velvet fuschia mega neon paint", "ruddy duck waddler": "ruddy ducky waddler",
+                "chihuaha": "chihuahua"}
+
+
+def item_key(name):
+    import unicodedata
+    s = unicodedata.normalize("NFKD", str(name).lower().replace("’", "'"))
+    s = re.sub(r"[^a-z0-9 ]+", " ", "".join(c for c in s if not unicodedata.combining(c)).replace("'", ""))
+    s = re.sub(r"^the ", "", " ".join(s.split()))
+    return NAME_ALIASES.get(s, s)
+
+
+def elve_canonical(items, updates):
+    """Elvebredd lists some items twice (case variants, old copies), sometimes with different values. Keep, per
+    item_key, the id its change log actually follows (most logged changes), then the higher `score`."""
+    logged = {}
+    for c in updates:
+        logged[c.get("petId")] = logged.get(c.get("petId"), 0) + 1
+    best = {}
+    for i in items:
+        if not i.get("name") or str(i["name"]).lower() == "nan":
+            continue
+        k, rank = item_key(i["name"]), (logged.get(i.get("id"), 0), i.get("score") or 0)
+        if k not in best or rank > best[k][0]:
+            best[k] = (rank, i)
+    return {k: i for k, (_, i) in best.items()}
 
 
 def num(v):

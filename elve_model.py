@@ -49,6 +49,10 @@ def daily_values(log):
     """Wide matrix: rows = days, columns = (pet, variant), value at end of day. NaN before a pet's release."""
     snap = scraper.load_values("elve")
     snap = snap[(snap.scraped_at == snap.scraped_at.max()) & (snap.type == "pets")]
+    # Elvebredd lists some pets twice (e.g. "Skele-Rex" / "Skele-rex"); keep the entry the log follows, under one name
+    canon = {i["id"]: i["name"] for i in scraper.elve_canonical(snap.to_dict("records"), log.to_dict("records")).values()}
+    snap = snap[snap.id.isin(canon)]
+    log = log.assign(name=log.petId.map(canon).fillna(log.name))
     today = snap[["name"] + list(LABELS.values())].melt(id_vars=["name"], value_vars=list(LABELS.values()), var_name="col", value_name="val")
     today["label"] = today.col.map({v: k for k, v in LABELS.items()})
     rarity = dict(zip(snap.name, snap.rarity))
