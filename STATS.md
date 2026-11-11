@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 16:04 UTC by the scrape workflow._
+_Updated 2026-11-11 16:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 16:04 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 1,262 | 2026-11-11T16:03 |
-| elve | 1 | 303 | 2026-11-11T16:04 |
+| amvgg | 1 | 1,621 | 2026-11-11T16:15 |
+| elve | 1 | 373 | 2026-11-11T16:16 |
 
-## AMVGG completed trades: 472 total
+## AMVGG completed trades: 573 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 472 |
+| 2026-11-11 | 573 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:03 | **fox_11q1**: Sunrise Duckling (R) | **roninbeautfort**: Ride-A-Pet Potion |
-| 16:03 | **arseniylolol**: Matcha Cat (FR) | **tw1nkle3788**: Jester Dragon (FR) |
-| 16:03 | **Moon_Cloud609859**: Munchkin Cat | **Leyyiannn**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
-| 16:03 | **1UVK1ARA**: Ballet Swan | **Wofpiecake**: Fly-A-Pet Potion ×2 |
-| 16:03 | **Makkertjesfilmpies**: Kangaroo (NFR), Chocolate Chip Bat Dragon (FR), Monkey King (FR), Werewolf (FR), Munchkin Cat, Unicorn (NFR), Alley Cat, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Australian Kelpie (NR) | **Arinagrande_cute**: Parrot (R) |
-| 16:03 | **sillyjuju247**: Christmas Pudding Pup (MFR), Candicorn | **trythisrye8**: Strawberry Shortcake Bat Dragon (NFR) |
-| 16:03 | **opialisticx**: Sea Slug (NFR), Ride-A-Pet Potion ×2 | **HELENA_GUEMER12494**: Dragonfruit Fox (MFR) |
-| 16:03 | **KeineAhnungvonnix1**: Latte Kitsune (MFR), Jousting Horse (MFR) | **6un2z**: Copycat (MFR) |
-| 16:03 | **cpenk3211**: Munchkin Cat, Ring-Tailed Lemur | **nafee_xx**: Crocodile |
-| 16:03 | **PANDA9994440**: Ballet Swan (M), Moonbeam Peacock (FR), Frost Phoenix (NFR), Vampire Dragon (FR), Pig ×2, Silly Duck (NFR), Drake (MR), Squid (MFR) | **leruval**: Parrot (FR) |
-| 16:03 | **anekalubitnaruto**: Frost Dragon (FR) | **LxvinqLevi**: Dalmatian (NFR), Husky (MR), Ride-A-Pet Potion ×2, Hare, Sugar Glider (FR) |
-| 16:03 | **Uliana000334**: Fly-A-Pet Potion | **NastyaMillkk**: Ride-A-Pet Potion ×2 |
-| 16:03 | **EGOATHENOOB**: Crimson Cape (M) | **NNuWiIxxX_14**: Ride-A-Pet Potion |
-| 16:03 | **vvaryaa58AaS**: Mochi Meow ×2 | **CNYLA_ADOPTMe2**: Royal Palace |
-| 16:03 | **fatzhiiiiii**: Chocolate Dutch Guinea Pig (NR), Mexican Wolf (M), Fire Foal (M) | **millka11111111**: Chihuahua (M) |
+| 16:15 | **poly0950**: Bubblegeist ×12 | **aoqweza**: Ride-A-Pet Potion ×2 |
+| 16:15 | **MinhLovesFurriess**: Arctic Fox (FR), Diamond Dragon, Golden Unicorn, Purrowl | **refeesv**: Arctic Fox (R), Ride-A-Pet Potion |
+| 16:15 | **Elionoria228**: Blazing Lion (FR) | **Ava1_1yo**: Chocolate Chip Bat Dragon (NFR) |
+| 16:15 | **Rubyko13**: Mighty Haetyphoon Animated Sticker, Slothula Transformation Animated Sticker | **BXNNIELoVE**: Ride-A-Pet Potion |
+| 16:15 | **xv1oh**: Caterpillar (R), Vanilla Penguin | **Xcmzi_z**: Lion Cub (FR), Red Dutch Guinea Pig, Pupcake (NFR) |
+| 16:15 | **blakipl114**: Kangaroo (FR), Alley Cat, Christmas Spirit (R), Copycat, Vampire Dragon (R), Mochi Meow (M) | **hexyzbagoc31**: Kangaroo (NFR) |
+| 16:15 | **lili_cupid**: Munchkin Cat (N) | **plushdandere**: Moose Calf (R), Candicorn (R), Caterpillar (R), Groundhog |
+| 16:15 | **belK0T**: Copycat (R) | **Sugar_Viktoria**: Arctic Fox (R) |
+| 16:15 | **Cutepatate088**: Parrot (FR) ×2, Evil Unicorn (FR) ×2, Orchid Butterfly, Cow (FR), Cow, Goose, Corn Doggo (MR), Unicorn Horn ×2, Tombstone Ghostify, Mechapup (R) | **orchidbutterfliess**: Bat Dragon (FR) |
+| 16:15 | **nice2306_alt**: Stray Cat Dragon ×17 | **Dad_TheGamer528**: Ride-A-Pet Potion ×2 |
+| 16:15 | **William_17735**: Shark Puppy (MFR) | **its_saminaaaa**: Arctic Dusk Dragon (MFR), Fleur De Ice (MFR), Ice Moth Dragon (MFR), Ermine (M), Arctic Hare (M) |
+| 16:15 | **younost101001**: Shadow Dragon Ducky (NFR), Sloth (NFR) | **Kylaaurgirl**: Frost Fury (FR) |
+| 16:15 | **MOhamedkmsll**: Mini Pig (FR), Cow (FR) ×2, Turtle (FR) | **WHIMSYWANDERS**: Copycat (MFR) |
+| 16:15 | **me1ody_13**: Pig (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **tufvfffdjdg**: Crocodile (FR) |
+| 16:15 | **Bruniepie**: Fly-A-Pet Potion ×3 | **syxnonym**: Ride-A-Pet Potion ×5 |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
