@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 17:16 UTC by the scrape workflow._
+_Updated 2026-11-11 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 17:16 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 3,044 | 2026-11-11T17:15 |
-| elve | 1 | 681 | 2026-11-11T17:16 |
+| amvgg | 1 | 3,368 | 2026-11-11T17:30 |
+| elve | 1 | 727 | 2026-11-11T17:31 |
 
-## AMVGG completed trades: 803 total
+## AMVGG completed trades: 848 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 803 |
+| 2026-11-11 | 848 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:15 | **tttttttttpo328**: Frostbite Bear (FR), Frostbite Bear ×3, Solaris (FR) ×2, Aestus (NFR), Fly-A-Pet Potion ×2 | **gelinateh315**: Blazing Lion (FR) |
-| 17:15 | **Homealone6061A**: Albino Monkey (FR) | **vicram210**: Cozy Mistletroll (M), Happy Duckling (N), Sunrise Duckling (N), Mrs. Whiskerpips (M), Black Springer Spaniel, Tarsier (N), Gemstone Egg, Kitty Bat, Binturong |
-| 17:15 | **Angelbatista_me2**: Candicorn (MFR) ×4 | **Shadx_1553**: Giant Panda (NFR) |
-| 17:15 | **XxLovelyEvanxX**: Leopard Shark | **Alice_peachcow**: Slime |
-| 17:15 | **Frozter_F1re**: Aestus (NFR), Ride-A-Pet Potion | **Loveflowers871**: Frostbite Cub (MFR) |
-| 17:15 | **Culimundimulo**: Shark Puppy (FR), Shark Puppy, Ride-A-Pet Potion ×2 | **rafael32087**: Turtle (FR) |
-| 17:15 | **kimjennieti34**: Turtle (FR), Shark (NFR), Unicorn (N), Panda (R) | **rafael32087**: Goose (FR) |
-| 17:15 | **EarlyMagicalunicorn**: Candicorn (NFR), Catte (NR) | **HoliviaGold**: Siamese Cat (NFR) |
-| 17:15 | **ivanoooo10**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion ×2 | **XxEzraArrowHunterxX2**: Alpaca |
-| 17:15 | **1UVK1ARA**: Cupid Dragon (MFR) | **Moe_Meow**: Irish Water Spaniel (MFR) |
-| 17:15 | **ADVENT1235678**: Arctic Dusk Dragon (FR) | **sxgarrXO**: Christmas Pudding Pup |
-| 17:15 | **ySolzitax**: Black-Footed Ferret (N) ×2, Bobageist (N), Corgi (N), Badger (N), Gold Mahi Mahi (N), Gold Mahi Mahi ×2 | **Olivier_20141**: Ride-A-Pet Potion |
-| 17:15 | **luvyerh**: Cow (FR) | **coldgoodbyes**: Elephant (FR), Arctic Fox (R), Arctic Fox (FR) |
-| 17:15 | **FlatEaredPanda**: Jiggly Jerboa (M), Ocelot (N) ×2 | **vnessiia**: Unicorn Ducky (M) |
-| 17:15 | **razarvale2z**: Pain au Chat ×3 | **CursedWitigo**: Ride-A-Pet Potion |
+| 17:30 | **Soso4ka004**: Parrot (R), Ride-A-Pet Potion | **Tickyiiii**: Dalmatian (R), Kangaroo (NFR), Turtle (FR), Tortuga de la Isla (NR), Spring Bunny Hood, Frost Fury (FR), Dodo (FR), Black Panther |
+| 17:30 | **dimaBog26**: Phantom Dragon (F) | **catsr0dina**: Christmas Pudding Pup |
+| 17:30 | **2coldhvearts**: Puffer Fish | **LaraIphone16e**: Canadian Goose ×2 |
+| 17:30 | **keman_r**: Corgi (N), Ginger Cat (N), Gold Mahi Mahi (N), Robot (N) ×2, Toucan (N) | **amica7wh**: Ride-A-Pet Potion |
+| 17:30 | **adoptmegrind222929**: Munchkin Cat (MFR), Unicorn Backpack | **baconloverxxx12**: Peppermint Penguin (NFR) |
+| 17:30 | **gffdjddd23_4**: Fly-A-Pet Potion | **XxxSachaxxX1**: Santa's Bow, Mule Baskets, Candy Cane (Pet Wear), Unfortunate Eyelashes, Festive Antlers, Silly Duck Hat, Festive Stocking Shoes, Marshmallow Friend, Snow Cloud Wings |
+| 17:30 | **t1mskyy**: Snowball Pet (MR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ni1zuua**: Reindeer (MFR) |
+| 17:30 | **awrriah**: Giant Panda (NFR), Cryptid (MFR), Strawberry Shortcake Bat Dragon (FR) | **Cinzsins**: Haetae (MFR) |
+| 17:30 | **Kit_tblmamymav1**: Ride-A-Pet Potion ×10 | **NotSunsetPlaysRoblox**: Dragonfruit Fox (NR) |
+| 17:30 | **GAV_6066**: Copycat (R) | **RGAKL10**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 |
+| 17:30 | **aneliqxs**: White Amazon (NR) | **Thaly_vz**: Ride-A-Pet Potion ×3 |
+| 17:30 | **alejaooo6**: Fairy Bat Dragon (R), Siamese Cat (FR), Shark (NFR), Emu (NR), Ride-A-Pet Potion ×2 | **sigmaizzmailovvvv2**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:30 | **Mirila_Kalila**: Dire Wolf (M), Mochi Meow (M), Jiggly Jerboa (M), Glyptodon Ducky (M) | **melinaftu**: Frost Fury (FR), Thunderfisher |
+| 17:30 | **LuminaCinth**: Unicorn (NFR), Dragonfruit Fox, Ice Cream Hermit Crab, Fly-A-Pet Potion | **yeagsr**: Munchkin Cat (FR) |
+| 17:30 | **Meowkittiikat**: Tiny Wings, Alley Cat (MR) | **those_airliness**: Amami Rabbit (MR), 2022 Birthday Cake, Cabbit (FR) |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
