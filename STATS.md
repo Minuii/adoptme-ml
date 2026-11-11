@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 21:01 UTC by the scrape workflow._
+_Updated 2026-11-11 21:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 21:01 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 7,221 | 2026-11-11T21:00 |
-| elve | 1 | 1,567 | 2026-11-11T21:01 |
+| amvgg | 1 | 7,530 | 2026-11-11T21:15 |
+| elve | 1 | 1,627 | 2026-11-11T21:16 |
 
-## AMVGG completed trades: 1,586 total
+## AMVGG completed trades: 1,598 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 1,586 |
+| 2026-11-11 | 1,598 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:15 | **Itx_Cloudyy**: Strawberry Shortcake Bat Dragon (R), Zombie Buffalo (FR), Ride-A-Pet Potion, Snow Monkey (NR), Golden Jaguar (MR), Ice Cream Cone Hat | **ProsstoFilya**: Frostbite Bear (NFR) |
+| 21:15 | **Yumi_Rose8**: Cow (FR) | **altfornewgen**: Kangaroo (FR), Phantom Dragon (FR), Jester Dragon, Swan (F) |
+| 21:15 | **superrcricchio**: Swan, 2D Doggy | **VerMora_PLUS**: Hare |
+| 21:15 | **i_slaybruh**: Mrs. Whiskerpips (N) | **Rachel_2patate**: Pain au Chat |
+| 21:15 | **iaMatthieu1**: Jester Dragon (R) | **Sofiaeftychiou**: Pirate Ghost Capuchin Monkey |
+| 21:15 | **fallenangel6076**: Mini Schnauzer (MFR), Seabed Creeper (MR), Propeller Hat, Halloween White Mummy Cat (N), Frankenfeline (N), Paint Sealer | **gatita_garrita0**: Jekyll Hydra (FR) |
+| 21:15 | **maxwertaq**: Balloon Unicorn | **unknow_nentity**: Chocolate Chip Bat Dragon (NFR) |
+| 21:15 | **CoLoReD_BeAr10**: Owl (FR), Parrot (FR), Evil Unicorn (FR) | **xKashaf**: Blazing Lion (NFR) |
+| 21:15 | **plansrik**: Frost Fury (FR), Christmas Pudding Pup, Tri-horned Treehopper, Yule Log Dog (R), Unicorn (N), Ghost Bunny (FR), Glormy Dolphin (NR), Turtle Doves (NF) | **Sprinxgle1**: Mermicorn (FR) |
+| 21:15 | **chaddanek**: Tegu (M) | **Rysan1234567**: Black Tiger (NR) |
+| 21:15 | **itssuu_k**: Tiny Wings | **Starfireesa**: Jellyfish (R) |
+| 21:15 | **Valeria_134422**: Ride-A-Pet Potion | **nnsmq12**: Zombie Wolf |
 | 21:00 | **Jdjdnx269**: Crow (NFR) ×2, Chocolate Dutch Guinea Pig (NR) | **GrumpDummy**: Hedgehog (FR) ×2, Dalmatian (FR) ×4, Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR) ×2, Cow (FR) |
 | 21:00 | **XxxAriana_Xxx4**: Fairy Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pain au Chat, Samoyed (N) | **mdz_1219**: Peppermint Penguin (FR) |
 | 21:00 | **Itz_irchik2**: Jekyll Hydra (FR), Jekyll Hydra (R) ×3, Kangaroo (R), Fly-A-Pet Potion | **7e_uz**: Parrot (FR) |
-| 21:00 | **emi28na**: Polar Bear (NR) | **2illiberal**: Lava Wolf (NR), Yule Log Dog (R), Turkey (R), Ride-A-Pet Potion, Sloth, St Bernard, Albino Bat |
-| 21:00 | **xTrxstedCodee**: Arctic Reindeer (NFR) | **bbylolabunny**: Goose, Munchkin Cat (NR), Fairy Bat Dragon (FR), Peppermint Penguin (R), Binturong (N) |
-| 21:00 | **coocof6**: Munchkin Cat (MFR), Rainbow Maker, Cow (FR) | **regalarmealgo12**: Owl (FR) |
-| 21:00 | **quVare_PDF**: Tanuki (FR) | **Aslie_17**: Ride-A-Pet Potion |
-| 21:00 | **qwerx0we**: Pig, Ninja Monkey (R) | **AvaNari2010**: Munchkin Cat |
-| 21:00 | **X0MADD1E**: Icy Porcupine ×4, Rooster | **nonas2009**: Icy Porcupine (N) |
-| 21:00 | **hellofriendnicetome**: Red Dutch Guinea Pig (MFR), Golden Chow-Chow (MFR), Corn Doggo (MFR) | **Msmsmsmsjmsmsm8**: Cupid Dragon (MFR) |
-| 21:00 | **giantpandaloverx**: Border Collie (MFR) | **Yomi040605**: Owl (FR) |
-| 21:00 | **DiEsE_Lei129**: Alley Cat (NR) | **kobii_x**: Coyote (M) ×2, Amami Rabbit (N) |
-| 21:00 | **Kerimverse**: Pig (R) ×2, Cow (FR) | **soska423mua**: Siamese Cat (NFR) |
-| 21:00 | **roblox_user_2861745679**: Strawberry Tortle, Fairy Bat Dragon (FR), Arctic Dusk Dragon (FR), Christmas Pudding Pup (R), RGB Monster Truck, Dragonfruit Fox | **Tsuki_n0ko**: Dalmatian (FR) |
-| 21:00 | **brudiii00**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **kwertyxx5**: Fallow Deer (FR) |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
