@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Adopt Me Value Tracker</title>
+<meta name="description" content="AMVGG and Elvebredd Adopt Me values side by side, with full value history.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #1f1f1f; --bg-2: #252525; --card: #2b2b2b; --card-hi: #333; --line: rgba(255,255,255,.08); --line-2: rgba(255,255,255,.16);
+  --text: #f4f4f5; --muted: rgba(255,255,255,.66); --faint: rgba(255,255,255,.42);
+  --amvgg: #2cbfec; --amvgg-bg: rgba(44,191,236,.12);
+  --elve: #ff4d94; --elve-bg: rgba(232,31,118,.14);
+  --up: #4ade80; --down: #f87171;
+  --common: #b4bcc8; --uncommon: #6abf4b; --rare: #2fb2ef; --ultra: #b07cf0; --legendary: #f6e948;
+  --r-sm: 8px; --r: 12px; --r-lg: 16px;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 Montserrat, system-ui, sans-serif;
+  background-image: radial-gradient(1200px 500px at 85% -10%, rgba(44,191,236,.10), transparent 60%),
+                    radial-gradient(900px 420px at 0% 0%, rgba(232,31,118,.10), transparent 60%);
+  background-attachment: fixed; min-height: 100vh; }
+h1, h2, h3, .display { font-family: "Baloo 2", Montserrat, sans-serif; letter-spacing: .2px; margin: 0; line-height: 1.1; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--amvgg); outline-offset: 2px; }
+.wrap { max-width: 1280px; margin: 0 auto; padding: 0 16px; }
+
+/* header */
+header.top { position: sticky; top: 0; z-index: 20; background: rgba(31,31,31,.86); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
+header.top .wrap { display: flex; align-items: center; gap: 16px; height: 60px; }
+.brand { display: flex; align-items: center; gap: 10px; font-family: "Baloo 2"; font-weight: 800; font-size: 22px; white-space: nowrap; }
+.brand .logo { width: 30px; height: 30px; border-radius: 9px; display: grid; place-items: center;
+  background: linear-gradient(135deg, var(--elve), var(--amvgg)); box-shadow: 0 4px 14px rgba(44,191,236,.35); }
+.brand b { background: linear-gradient(90deg, var(--elve), var(--amvgg)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+nav.tabs { display: flex; gap: 4px; margin-left: auto; }
+nav.tabs button { background: none; border: 0; padding: 8px 14px; border-radius: 999px; color: var(--muted); font-weight: 600; cursor: pointer; min-height: 40px; transition: background .15s, color .15s; }
+nav.tabs button:hover { color: var(--text); background: rgba(255,255,255,.05); }
+nav.tabs button[aria-selected=true] { color: #0b1a20; background: var(--amvgg); }
+
+/* hero */
+.hero { padding-top: 28px; padding-bottom: 8px; display: grid; gap: 18px; }
+.hero h1 { font-size: clamp(30px, 5vw, 46px); font-weight: 800; }
+.hero h1 span.a { color: var(--amvgg); } .hero h1 span.e { color: var(--elve); }
+.hero p { margin: 0; color: var(--muted); max-width: 640px; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+.stat { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; }
+.stat .n { font-family: "Baloo 2"; font-weight: 800; font-size: 26px; line-height: 1; }
+.stat .l { color: var(--faint); font-size: 12px; text-transform: uppercase; letter-spacing: .6px; margin-top: 4px; }
+
+/* filters */
+.filters { position: sticky; top: 60px; z-index: 15; background: rgba(31,31,31,.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); margin-top: 16px; }
+.filters .wrap { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; padding-top: 12px; padding-bottom: 12px; }
+.search { flex: 1 1 220px; position: relative; }
+.search input { width: 100%; height: 42px; border-radius: 999px; border: 1px solid var(--line-2); background: var(--bg-2); padding: 0 16px 0 40px; outline: none; }
+.search input:focus { border-color: var(--amvgg); }
+.search svg { position: absolute; left: 14px; top: 12px; opacity: .55; }
+.seg { display: inline-flex; background: var(--bg-2); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+.seg button { border: 0; background: none; padding: 6px 12px; border-radius: 999px; color: var(--muted); font-weight: 600; font-size: 13px; cursor: pointer; min-height: 34px; white-space: nowrap; transition: background .15s, color .15s; }
+.seg button:hover { color: var(--text); }
+.seg button[aria-pressed=true] { background: var(--card-hi); color: var(--text); box-shadow: inset 0 0 0 1px var(--line-2); }
+.seg.src button[data-v=A][aria-pressed=true] { background: var(--amvgg); color: #07222b; }
+.seg.src button[data-v=E][aria-pressed=true] { background: var(--elve); color: #2a0414; }
+.seg.src button[data-v=both][aria-pressed=true] { background: linear-gradient(90deg, var(--elve), var(--amvgg)); color: #111; }
+.seg[aria-disabled=true] { opacity: .4; pointer-events: none; }
+.group { display: flex; flex-direction: column; gap: 4px; }
+.group > label, .group > span { font-size: 11px; color: var(--faint); text-transform: uppercase; letter-spacing: .6px; padding-left: 6px; }
+select { height: 40px; border-radius: 999px; border: 1px solid var(--line-2); background: var(--bg-2); padding: 0 34px 0 14px; appearance: none; cursor: pointer;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='white' stroke-opacity='.6' stroke-width='3'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 12px center; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { border: 1px solid var(--line-2); background: transparent; border-radius: 999px; padding: 5px 12px; font-size: 12px; font-weight: 700; cursor: pointer; min-height: 32px; text-transform: capitalize; color: var(--muted); transition: all .15s; }
+.chip[aria-pressed=true] { color: #111; border-color: transparent; background: var(--c); }
+.chip:not([aria-pressed=true]):hover { border-color: var(--c); color: var(--c); }
+.more-filters { display: contents; }
+.toggle-filters { display: none; }
+
+.bar { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 16px 0 10px; color: var(--muted); font-size: 13px; flex-wrap: wrap; }
+.legend { display: flex; gap: 14px; flex-wrap: wrap; }
+.dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 6px; vertical-align: 0; }
+
+/* grid */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(178px, 1fr)); gap: 12px; padding-bottom: 20px; }
+.card { position: relative; background: var(--card); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 12px; cursor: pointer; text-align: left;
+  display: flex; flex-direction: column; gap: 8px; transition: transform .18s ease, border-color .18s, box-shadow .18s; overflow: hidden; }
+.card::before { content: ""; position: absolute; inset: 0 0 auto; height: 3px; background: var(--rc, var(--line-2)); }
+.card:hover { transform: translateY(-2px); border-color: var(--line-2); box-shadow: 0 10px 24px rgba(0,0,0,.35); }
+.thumb { height: 104px; display: grid; place-items: center; border-radius: var(--r); position: relative;
+  background: radial-gradient(circle at 50% 60%, color-mix(in srgb, var(--rc, #888) 22%, transparent), transparent 70%); }
+.thumb img { width: 88px; height: 88px; object-fit: contain; }
+.v-n img { filter: drop-shadow(0 0 5px #3dffa8) drop-shadow(0 0 2px #3dffa8); }
+.v-m img { animation: mega 3s linear infinite; filter: drop-shadow(0 0 5px #ff5ff1) drop-shadow(0 0 2px #7cf); }
+@keyframes mega { to { filter: hue-rotate(360deg) drop-shadow(0 0 5px #ff5ff1) drop-shadow(0 0 2px #7cf); } }
+.card h3 { font-size: 17px; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.meta { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; font-size: 11px; }
+.rar { color: var(--rc); font-weight: 700; text-transform: capitalize; }
+.cat { color: var(--faint); text-transform: capitalize; }
+.dem { margin-left: auto; padding: 1px 8px; border-radius: 999px; background: var(--amvgg-bg); color: var(--amvgg); font-weight: 700; }
+.vals { display: grid; gap: 5px; margin-top: auto; }
+.val { display: flex; align-items: center; gap: 8px; border-radius: var(--r-sm); padding: 5px 8px; font-variant-numeric: tabular-nums; }
+.val.A { background: var(--amvgg-bg); } .val.E { background: var(--elve-bg); }
+.val .s { font-size: 10px; font-weight: 800; letter-spacing: .5px; width: 40px; }
+.val.A .s { color: var(--amvgg); } .val.E .s { color: var(--elve); }
+.val .x { font-family: "Baloo 2"; font-weight: 700; font-size: 17px; line-height: 1.1; }
+.val .d { margin-left: auto; font-size: 11px; font-weight: 700; }
+.val.none .x { color: var(--faint); font-size: 13px; font-family: Montserrat; font-weight: 500; }
+.up { color: var(--up); } .down { color: var(--down); } .flat { color: var(--faint); }
+.loadmore { display: block; margin: 8px auto 40px; background: var(--card); border: 1px solid var(--line-2); border-radius: 999px; padding: 10px 26px; font-weight: 700; cursor: pointer; min-height: 44px; }
+.loadmore:hover { border-color: var(--amvgg); color: var(--amvgg); }
+.empty { padding: 60px 0; text-align: center; color: var(--muted); }
+.skeleton { height: 230px; border-radius: var(--r-lg); background: linear-gradient(90deg, var(--card) 25%, var(--card-hi) 50%, var(--card) 75%); background-size: 200% 100%; animation: sk 1.2s infinite; }
+@keyframes sk { to { background-position: -200% 0; } }
+
+/* updates feed */
+.feed { display: grid; gap: 8px; padding-bottom: 40px; }
+.row { display: grid; grid-template-columns: 44px 1fr auto; gap: 12px; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 8px 12px; cursor: pointer; transition: border-color .15s; text-align: left; width: 100%; }
+.row:hover { border-color: var(--line-2); }
+.row img { width: 44px; height: 44px; object-fit: contain; }
+.row .t { font-size: 12px; color: var(--faint); }
+.row .nm { font-weight: 700; }
+.tag { font-size: 10px; font-weight: 800; padding: 2px 7px; border-radius: 999px; margin-right: 6px; letter-spacing: .4px; }
+.tag.A { background: var(--amvgg-bg); color: var(--amvgg); } .tag.E { background: var(--elve-bg); color: var(--elve); }
+.row .chg { text-align: right; font-variant-numeric: tabular-nums; }
+.row .chg .x { font-family: "Baloo 2"; font-weight: 700; font-size: 17px; }
+
+/* detail dialog */
+dialog { border: 1px solid var(--line-2); border-radius: 20px; background: var(--bg-2); color: var(--text); padding: 0; width: min(920px, calc(100vw - 24px)); max-height: calc(100vh - 32px); }
+dialog::backdrop { background: rgba(0,0,0,.6); backdrop-filter: blur(4px); }
+dialog[open] { animation: pop .2s ease-out; }
+@keyframes pop { from { opacity: 0; transform: translateY(10px) scale(.98); } }
+.dlg-head { display: flex; gap: 18px; align-items: center; padding: 20px; border-bottom: 1px solid var(--line); position: relative; }
+.dlg-head .thumb { width: 120px; height: 120px; flex: none; }
+.dlg-head .thumb img { width: 108px; height: 108px; }
+.dlg-head h2 { font-size: 30px; font-weight: 800; }
+.dlg-head .origin { color: var(--muted); font-size: 13px; margin-top: 4px; }
+.close { position: absolute; top: 12px; right: 12px; width: 40px; height: 40px; border-radius: 50%; border: 0; background: rgba(255,255,255,.06); cursor: pointer; font-size: 20px; }
+.close:hover { background: rgba(255,255,255,.12); }
+.dlg-body { padding: 16px 20px 22px; display: grid; gap: 18px; }
+.dlg-ctrls { display: flex; gap: 10px; flex-wrap: wrap; }
+.panels { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; }
+.panel { background: var(--card); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 14px; min-width: 0; }
+.panel h3 { font-size: 18px; display: flex; align-items: center; gap: 8px; }
+.panel.A h3 { color: var(--amvgg); } .panel.E h3 { color: var(--elve); }
+.panel .big { font-family: "Baloo 2"; font-size: 32px; font-weight: 800; line-height: 1.1; margin-top: 6px; }
+.panel .sub { color: var(--muted); font-size: 12px; }
+table.vt { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 10px; font-variant-numeric: tabular-nums; }
+table.vt th, table.vt td { padding: 5px 6px; text-align: right; border-bottom: 1px solid var(--line); }
+table.vt th:first-child, table.vt td:first-child { text-align: left; color: var(--muted); }
+table.vt th { color: var(--faint); font-weight: 600; font-size: 11px; text-transform: uppercase; }
+table.vt td.on { color: var(--text); font-weight: 700; background: rgba(255,255,255,.05); border-radius: 6px; }
+.chart { position: relative; margin-top: 12px; }
+.chart svg { display: block; width: 100%; overflow: visible; }
+.chart .tip { position: absolute; pointer-events: none; background: #111; border: 1px solid var(--line-2); border-radius: 8px; padding: 4px 8px; font-size: 12px; white-space: nowrap; transform: translate(-50%, -120%); opacity: 0; transition: opacity .1s; }
+.nodata { color: var(--faint); font-size: 13px; padding: 20px 0; }
+footer { color: var(--faint); font-size: 12px; padding: 30px 0 40px; border-top: 1px solid var(--line); }
+footer a { color: var(--muted); }
+
+@media (max-width: 760px) {
+  header.top .wrap { height: 54px; }
+  .brand { font-size: 18px; gap: 8px; } .brand .logo { width: 26px; height: 26px; }
+  nav.tabs button { padding: 6px 10px; font-size: 13px; white-space: nowrap; min-height: 36px; }
+  .brand .am { display: none; }
+  .hero { padding-top: 18px; } .stats { grid-template-columns: repeat(2, 1fr); } .stat .n { font-size: 22px; }
+  .filters { position: static; }
+  .toggle-filters { display: inline-flex; align-items: center; gap: 6px; height: 42px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--line-2); background: var(--bg-2); font-weight: 700; cursor: pointer; }
+  .more-filters { display: none; }
+  .filters.open .more-filters { display: flex; flex-wrap: wrap; gap: 10px; width: 100%; }
+  .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .card { padding: 9px; }
+  .thumb { height: 84px; } .thumb img { width: 72px; height: 72px; }
+  .val .s { width: auto; } .val .x { font-size: 15px; }
+  .dlg-head .thumb { width: 84px; height: 84px; } .dlg-head .thumb img { width: 76px; height: 76px; }
+  .dlg-head h2 { font-size: 24px; }
+  .panels { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) { *, *::before { animation: none !important; transition: none !important; } }
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="brand"><span class="logo" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><circle cx="6" cy="9" r="2.4"/><circle cx="10" cy="5" r="2.4"/><circle cx="14" cy="5" r="2.4"/><circle cx="18" cy="9" r="2.4"/><path d="M12 10c-3.5 0-6.5 4-6.5 7 0 2 1.6 3 3.3 3 1.3 0 2-.6 3.2-.6s1.9.6 3.2.6c1.7 0 3.3-1 3.3-3 0-3-3-7-6.5-7z"/></svg></span><span class="am">Adopt Me</span> <b>Values</b></div>
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="list" aria-selected="true">Value List</button>
+    <button role="tab" data-tab="updates" aria-selected="false">Value Updates</button>
+  </nav>
+</div></header>
+
+<main>
+  <section class="wrap hero">
+    <div>
+      <h1><span class="a">AMVGG</span> &amp; <span class="e">Elvebredd</span>, side by side</h1>
+      <p>Every Adopt Me item on both value lists, every variant and potion, with value history going back to 2023. Pick a source and a variant to compare.</p>
+    </div>
+    <div class="stats" id="stats"></div>
+  </section>
+
+  <div class="filters" id="filters"><div class="wrap">
+    <div class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search items…" aria-label="Search items" autocomplete="off"></div>
+    <div class="group"><span>Source</span><div class="seg src" data-key="src" role="group" aria-label="Source">
+      <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
+    <button class="toggle-filters" id="toggleFilters" aria-expanded="false" aria-controls="moreFilters">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>Filters</button>
+    <div class="more-filters" id="moreFilters">
+      <div class="group"><span>Variant</span><div class="seg pet-only" data-key="var" role="group" aria-label="Variant">
+        <button data-v="r">Normal</button><button data-v="n">Neon</button><button data-v="m">Mega</button></div></div>
+      <div class="group"><span>Potion</span><div class="seg pet-only" data-key="pot" role="group" aria-label="Potion">
+        <button data-v="fr">Fly Ride</button><button data-v="f">Fly</button><button data-v="r">Ride</button><button data-v="np">No Potion</button></div></div>
+      <div class="group"><label for="cat">Category</label><select id="cat"></select></div>
+      <div class="group"><label for="dem">AMVGG demand</label><select id="dem"><option value="">Any</option><option>High</option><option>Medium</option><option>Low</option></select></div>
+      <div class="group list-only"><label for="sort">Sort</label><select id="sort">
+        <option value="val">Highest value</option><option value="low">Lowest value</option>
+        <option value="rise">Biggest rise (30 days)</option><option value="drop">Biggest drop (30 days)</option>
+        <option value="gap">Biggest AMVGG vs Elve gap</option><option value="az">A to Z</option></select></div>
+      <div class="group"><span>Rarity</span><div class="chips" id="rarity"></div></div>
+    </div>
+  </div></div>
+
+  <section class="wrap">
+    <div class="bar"><span id="count" aria-live="polite"></span>
+      <span class="legend"><span><span class="dot" style="background:var(--amvgg)"></span>AMVGG</span><span><span class="dot" style="background:var(--elve)"></span>Elvebredd</span><span id="when"></span></span></div>
+    <div id="list" class="grid" aria-busy="true"></div>
+    <div id="updates" class="feed" hidden></div>
+    <button id="more" class="loadmore" hidden>Show more</button>
+  </section>
+</main>
+
+<footer><div class="wrap">Values are collected from <a href="https://amvgg.com" rel="noopener">AMVGG</a> and <a href="https://elvebredd.com" rel="noopener">Elvebredd</a> every 15 minutes; images from the official <a href="https://www.playadopt.me/discover" rel="noopener">Adopt Me wiki</a>. The two lists use different scales, so compare an item's value within one source. Not affiliated with Adopt Me, Uplift Games, AMVGG or Elvebredd.</div></footer>
+
+<dialog id="dlg" aria-labelledby="dlgTitle"></dialog>
+
+<script>
+const RAR = [["common","--common"],["uncommon","--uncommon"],["rare","--rare"],["ultra rare","--ultra"],["legendary","--legendary"]];
+const RC = Object.fromEntries(RAR.map(([r, c]) => [r, `var(${c})`]));
+const SRC = { A: "AMVGG", E: "Elvebredd" };
+const VAR = { r: "Normal", n: "Neon", m: "Mega" }, POT = { fr: "Fly Ride", f: "Fly", r: "Ride", np: "No Potion" };
+const PAGE = 96, DAY = 864e5;
+const $ = s => document.querySelector(s);
+
+// state <-> URL hash, so a filtered view can be shared
+const S = Object.assign({ tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "" },
+  Object.fromEntries(new URLSearchParams(location.hash.slice(1))));
+const save = () => history.replaceState(null, "", "#" + new URLSearchParams(Object.entries(S).filter(([, v]) => v !== "")));
+
+function h(tag, attrs = {}, ...kids) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (v == null || v === false) continue;
+    if (k === "class") e.className = v; else if (k === "style") e.style.cssText = v;
+    else if (k.startsWith("on")) e.addEventListener(k.slice(2), v); else e.setAttribute(k, v === true ? "" : v);
+  }
+  for (const k of kids.flat()) if (k != null && k !== false) e.append(k instanceof Node ? k : String(k));
+  return e;
+}
+const fmt = v => v == null ? "—" : v >= 1000 ? Math.round(v).toLocaleString() : (+v.toPrecision(4)).toLocaleString(undefined, { maximumFractionDigits: 4 });
+const pctTxt = p => p == null ? "" : (p > 0 ? "▲ " : p < 0 ? "▼ " : "") + Math.abs(p).toFixed(Math.abs(p) < 10 ? 1 : 0) + "%";
+const pctCls = p => p == null || Math.abs(p) < .05 ? "flat" : p > 0 ? "up" : "down";
+const ts = t => Date.parse(t + "Z");
+const dateTxt = t => new Date(ts(t)).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
+
+let DATA, NOW, START = {};
+const vkey = it => it.cat === "pets" ? `${S.var}-${S.pot}` : "v";
+const value = (it, s, k = vkey(it)) => it[s][k] ?? null;
+function change(it, s, days = 30, k = vkey(it)) {
+  const hst = it.hist[s][k], now = value(it, s, k);
+  if (!complete(hst, now)) return null;
+  const cut = NOW - days * DAY;
+  if (cut < START[s]) return null; // window reaches back before this source's change log begins
+  let then = hst[0][1]; // the first entry is the value before the first logged change
+  for (const [t, v] of hst) { if (ts(t) <= cut) then = v; else break; }
+  return then ? (now - then) / then * 100 : null;
+}
+// a variant's change log can stop (Elve stopped logging some variants in 2023): only trust it if it ends at today's value
+const complete = (hst, now) => hst && hst.length && now != null && Math.abs(hst.at(-1)[1] - now) <= now * .005;
+const sources = () => S.src === "both" ? ["A", "E"] : [S.src];
+
+function filtered() {
+  const q = S.q.trim().toLowerCase(), rar = S.rar ? S.rar.split(",") : [];
+  const srcs = sources(), main = srcs[0];
+  let xs = DATA.items.filter(it =>
+    (S.cat === "all" || it.cat === S.cat) && (!q || it.name.toLowerCase().includes(q)) &&
+    (!rar.length || rar.includes(it.rarity)) &&
+    (!S.dem || (it.demand || {})[it.cat === "pets" ? S.var : "r"] === S.dem) &&
+    srcs.some(s => value(it, s) != null));
+  const key = {
+    val: it => -(value(it, main) ?? value(it, srcs[1]) ?? -1),
+    low: it => value(it, main) ?? value(it, srcs[1]) ?? 1e12,
+    rise: it => -(Math.max(...srcs.map(s => change(it, s) ?? -1e9))),
+    drop: it => Math.min(...srcs.map(s => change(it, s) ?? 1e9)),
+    gap: it => -gap(it),
+    az: () => 0,
+  }[S.sort] || (() => 0);
+  const ks = new Map(xs.map(it => [it, key(it)]));
+  return xs.sort((a, b) => ks.get(a) - ks.get(b) || a.name.localeCompare(b.name));
+}
+// how far apart the two lists rank an item: difference of its percentile within each list (same category + variant)
+let rankCache = {};
+function gap(it) {
+  const k = S.cat + vkey(it);
+  if (!rankCache[k]) {
+    rankCache[k] = {};
+    for (const s of ["A", "E"]) {
+      const xs = DATA.items.filter(i => i.cat === it.cat && value(i, s) != null).sort((a, b) => value(a, s) - value(b, s));
+      rankCache[k][s] = new Map(xs.map((i, n) => [i, n / Math.max(1, xs.length - 1)]));
+    }
+  }
+  const a = rankCache[k].A.get(it), e = rankCache[k].E.get(it);
+  return a == null || e == null ? -1 : Math.abs(a - e);
+}
+
+function thumb(it, cls = "") {
+  const v = it.cat === "pets" ? "v-" + S.var : "";
+  return h("div", { class: `thumb ${v} ${cls}` }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", width: 88, height: 88 }) : null);
+}
+function valRow(it, s) {
+  const v = value(it, s), p = change(it, s);
+  return h("div", { class: `val ${s} ${v == null ? "none" : ""}` }, h("span", { class: "s" }, s === "A" ? "AMVGG" : "ELVE"),
+    h("span", { class: "x" }, v == null ? "not listed" : fmt(v)), v != null && p != null ? h("span", { class: "d " + pctCls(p), title: "30-day change" }, pctTxt(p)) : null);
+}
+function card(it) {
+  const d = (it.demand || {})[it.cat === "pets" ? S.var : "r"];
+  return h("button", { class: "card", style: `--rc:${RC[it.rarity] || "var(--line-2)"}`, onclick: () => openItem(it), "aria-label": it.name },
+    thumb(it), h("h3", {}, it.name),
+    h("div", { class: "meta" }, h("span", { class: "rar" }, it.rarity || "—"), S.cat !== "all" ? null : h("span", { class: "cat" }, it.cat),
+      d && S.src !== "E" ? h("span", { class: "dem", title: "AMVGG demand" }, d) : null),
+    h("div", { class: "vals" }, sources().map(s => valRow(it, s))));
+}
+
+let shown = 0, current = [];
+function render(reset = true) {
+  save();
+  document.querySelectorAll(".pet-only").forEach(e => e.setAttribute("aria-disabled", !["all", "pets"].includes(S.cat)));
+  document.querySelectorAll(".list-only").forEach(e => e.style.display = S.tab === "list" ? "" : "none");
+  $("#list").hidden = S.tab !== "list"; $("#updates").hidden = S.tab !== "updates";
+  if (reset) { shown = 0; current = S.tab === "list" ? filtered() : feed(); $(S.tab === "list" ? "#list" : "#updates").replaceChildren(); }
+  const box = S.tab === "list" ? $("#list") : $("#updates");
+  const next = current.slice(shown, shown + PAGE);
+  box.append(...next.map(S.tab === "list" ? card : feedRow));
+  shown += next.length;
+  $("#more").hidden = shown >= current.length;
+  $("#count").textContent = current.length ? `${current.length.toLocaleString()} ${S.tab === "list" ? "items" : "value changes"}` : "";
+  if (!current.length) box.replaceChildren(h("div", { class: "empty" }, "Nothing matches these filters."));
+}
+
+// Value Updates: every recorded change for the chosen source/variant, newest first
+function feed() {
+  const q = S.q.trim().toLowerCase(), rar = S.rar ? S.rar.split(",") : [], out = [];
+  for (const it of DATA.items) {
+    if ((S.cat !== "all" && it.cat !== S.cat) || (q && !it.name.toLowerCase().includes(q)) || (rar.length && !rar.includes(it.rarity))) continue;
+    if (S.dem && (it.demand || {})[it.cat === "pets" ? S.var : "r"] !== S.dem) continue;
+    for (const s of sources()) {
+      const hst = it.hist[s][vkey(it)] || [];
+      for (let i = 1; i < hst.length; i++) if (hst[i][1] !== hst[i - 1][1]) out.push([hst[i][0], it, s, hst[i - 1][1], hst[i][1]]);
+    }
+  }
+  return out.sort((a, b) => a[0] < b[0] ? 1 : -1);
+}
+function feedRow([t, it, s, old, now]) {
+  const p = (now - old) / old * 100;
+  return h("button", { class: "row", onclick: () => openItem(it) },
+    h("div", { class: `thumb ${it.cat === "pets" ? "v-" + S.var : ""}`, style: "height:44px;background:none" }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", referrerpolicy: "no-referrer" }) : null),
+    h("div", {}, h("div", { class: "nm" }, h("span", { class: "tag " + s }, s === "A" ? "AMVGG" : "ELVE"), it.name),
+      h("div", { class: "t" }, `${dateTxt(t)} · ${it.cat === "pets" ? VAR[S.var] + " " + POT[S.pot] : it.cat}`)),
+    h("div", { class: "chg" }, h("div", { class: "x" }, `${fmt(old)} → ${fmt(now)}`), h("div", { class: "d " + pctCls(p), style: "font-size:12px;font-weight:700" }, pctTxt(p))));
+}
+
+// detail dialog
+let open = null;
+function openItem(it) { open = it; drawDialog(); if (!$("#dlg").open) $("#dlg").showModal(); }
+function drawDialog() {
+  const it = open, pet = it.cat === "pets", dlg = $("#dlg");
+  const seg = (key, opts) => h("div", { class: "seg", role: "group" }, Object.entries(opts).map(([v, l]) =>
+    h("button", { "aria-pressed": S[key] === v, onclick: () => { S[key] = v; syncSegs(); render(); drawDialog(); } }, l)));
+  const panel = s => {
+    const v = value(it, s), p = change(it, s), p365 = change(it, s, 365);
+    const hasAny = Object.keys(it[s]).length;
+    return h("div", { class: "panel " + s },
+      h("h3", {}, h("span", { class: "dot", style: `background:var(--${s === "A" ? "amvgg" : "elve"})` }), SRC[s]),
+      !hasAny ? h("div", { class: "nodata" }, `Not on the ${SRC[s]} list.`) : [
+        h("div", { class: "big" }, fmt(v)),
+        h("div", { class: "sub" }, pet ? `${VAR[S.var]} · ${POT[S.pot]}` : "Value",
+          p != null ? h("span", { class: pctCls(p) }, `  ·  30d ${pctTxt(p)}`) : null,
+          p365 != null ? h("span", { class: pctCls(p365) }, `  ·  1y ${pctTxt(p365)}`) : null,
+          s === "A" && it.demand?.[pet ? S.var : "r"] ? `  ·  demand ${it.demand[pet ? S.var : "r"]}` : null),
+        chart(it.hist[s][vkey(it)], v, s),
+        pet ? h("table", { class: "vt" }, h("tr", {}, h("th", {}, ""), Object.values(POT).map(l => h("th", {}, l))),
+          Object.entries(VAR).map(([vk, vl]) => h("tr", {}, h("td", {}, vl),
+            Object.keys(POT).map(pk => h("td", { class: vk === S.var && pk === S.pot ? "on" : "" }, fmt(it[s][`${vk}-${pk}`])))))) : null,
+      ]);
+  };
+  dlg.replaceChildren(
+    h("div", { class: "dlg-head", style: `--rc:${RC[it.rarity] || "#888"}` }, thumb(it),
+      h("div", {}, h("h2", { id: "dlgTitle" }, it.name),
+        h("div", { class: "meta", style: "margin-top:6px;font-size:13px" }, h("span", { class: "rar" }, it.rarity), h("span", { class: "cat" }, "· " + it.cat)),
+        it.origin ? h("div", { class: "origin" }, it.origin) : null),
+      h("button", { class: "close", "aria-label": "Close", onclick: () => dlg.close() }, "×")),
+    h("div", { class: "dlg-body" },
+      pet ? h("div", { class: "dlg-ctrls" }, seg("var", VAR), seg("pot", POT)) : null,
+      h("div", { class: "panels" }, sources().map(panel))));
+}
+
+function chart(hst, now, s) {
+  if (!complete(hst, now)) return h("div", { class: "nodata" }, hst?.length
+    ? `History for this variant stops on ${dateTxt(hst.at(-1)[0])}, so there is no chart.` : "No recorded changes for this variant yet.");
+  const pts = hst.map(([t, v]) => [ts(t), v]);
+  pts.push([NOW, now]);
+  const W = 560, H = 170, P = { l: 6, r: 6, t: 10, b: 22 };
+  const x0 = pts[0][0], x1 = Math.max(pts.at(-1)[0], x0 + DAY);
+  const vs = pts.map(p => p[1]), lo = Math.min(...vs), hi = Math.max(...vs), pad = (hi - lo || hi || 1) * .12;
+  const X = t => P.l + (t - x0) / (x1 - x0) * (W - P.l - P.r), Y = v => P.t + (1 - (v - lo + pad) / (hi - lo + 2 * pad)) * (H - P.t - P.b);
+  let d = `M${X(pts[0][0])},${Y(pts[0][1])}`;
+  for (let i = 1; i < pts.length; i++) d += `H${X(pts[i][0])}V${Y(pts[i][1])}`;
+  const col = `var(--${s === "A" ? "amvgg" : "elve"})`, id = "g" + s;
+  const svg = `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" style="height:${H}px" role="img" aria-label="${SRC[s]} value history">
+    <defs><linearGradient id="${id}" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="${s === "A" ? "#2cbfec" : "#ff4d94"}" stop-opacity=".28"/><stop offset="1" stop-color="${s === "A" ? "#2cbfec" : "#ff4d94"}" stop-opacity="0"/></linearGradient></defs>
+    <path d="${d}V${H - P.b}H${X(pts[0][0])}Z" fill="url(#${id})"/>
+    <path d="${d}" fill="none" stroke="${col}" stroke-width="2" vector-effect="non-scaling-stroke"/>
+    <line class="cur" y1="${P.t}" y2="${H - P.b}" stroke="rgba(255,255,255,.35)" stroke-dasharray="3 3" vector-effect="non-scaling-stroke" style="display:none"/>
+    <text x="${P.l}" y="${H - 4}" fill="rgba(255,255,255,.45)" font-size="11">${new Date(x0).toLocaleDateString(undefined, { month: "short", year: "numeric" })}</text>
+    <text x="${W - P.r}" y="${H - 4}" fill="rgba(255,255,255,.45)" font-size="11" text-anchor="end">now</text></svg>`;
+  const tip = h("div", { class: "tip" }), box = h("div", { class: "chart" }, tip);
+  box.insertAdjacentHTML("afterbegin", svg); // only numbers and fixed strings in here, no item text
+  const el = box.querySelector("svg"), cur = el.querySelector(".cur");
+  const move = e => {
+    const r = el.getBoundingClientRect(), tx = x0 + ((e.clientX - r.left) / r.width * W - P.l) / (W - P.l - P.r) * (x1 - x0);
+    let i = 0; while (i + 1 < pts.length && pts[i + 1][0] <= tx) i++;
+    const [t, v] = pts[i], px = Math.min(Math.max(e.clientX - r.left, 0), r.width);
+    cur.setAttribute("x1", px / r.width * W); cur.setAttribute("x2", px / r.width * W); cur.style.display = "";
+    tip.textContent = `${fmt(v)} · ${new Date(Math.max(t, Math.min(tx, NOW))).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" })}`;
+    tip.style.left = px + "px"; tip.style.top = Y(v) / H * r.height + "px"; tip.style.opacity = 1;
+  };
+  el.addEventListener("pointermove", move); el.addEventListener("pointerdown", move);
+  el.addEventListener("pointerleave", () => { tip.style.opacity = 0; cur.style.display = "none"; });
+  return box;
+}
+
+// controls
+function syncSegs() {
+  document.querySelectorAll(".filters .seg").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", S[g.dataset.key] === b.dataset.v)));
+  document.querySelectorAll("nav.tabs button").forEach(b => b.setAttribute("aria-selected", S.tab === b.dataset.tab));
+  const rar = S.rar ? S.rar.split(",") : [];
+  document.querySelectorAll("#rarity .chip").forEach(c => c.setAttribute("aria-pressed", rar.includes(c.dataset.v)));
+  $("#q").value = S.q; $("#cat").value = S.cat; $("#dem").value = S.dem; $("#sort").value = S.sort;
+}
+document.querySelectorAll(".filters .seg").forEach(g => g.addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return; S[g.dataset.key] = b.dataset.v; rankCache = {}; syncSegs(); render();
+}));
+document.querySelectorAll("nav.tabs button").forEach(b => b.addEventListener("click", () => { S.tab = b.dataset.tab; syncSegs(); render(); }));
+let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.q = e.target.value; render(); }, 150); });
+for (const id of ["cat", "dem", "sort"]) $("#" + id).addEventListener("change", e => { S[id] = e.target.value; rankCache = {}; render(); });
+$("#more").addEventListener("click", () => render(false));
+$("#toggleFilters").addEventListener("click", e => { const o = $("#filters").classList.toggle("open"); e.currentTarget.setAttribute("aria-expanded", o); });
+$("#rarity").append(...RAR.map(([r, c]) => h("button", { class: "chip", "data-v": r, style: `--c:var(${c})`, onclick: () => {
+  const set = new Set(S.rar ? S.rar.split(",") : []); set.has(r) ? set.delete(r) : set.add(r); S.rar = [...set].join(","); syncSegs(); render();
+} }, r)));
+
+syncSegs();
+$("#list").hidden = S.tab !== "list"; $("#updates").hidden = S.tab === "list";
+$(S.tab === "list" ? "#list" : "#updates").append(...Array.from({ length: 12 }, () => h("div", { class: "skeleton" })));
+fetch("data.json").then(r => r.json()).then(d => {
+  DATA = d; NOW = Math.max(ts(d.elve_at.replace(/T(\d\d)(\d\d)Z?$/, "T$1:$2")), ts(d.amvgg_at.replace(/T(\d\d)(\d\d)Z?$/, "T$1:$2")));
+  for (const s of ["A", "E"]) START[s] = Math.min(...d.items.flatMap(i => Object.values(i.hist[s]).map(h => ts(h[0][0]))));
+  const cats = [...new Set(d.items.map(i => i.cat))].sort((a, b) => (a !== "pets") - (b !== "pets") || a.localeCompare(b));
+  $("#cat").append(h("option", { value: "all" }, "All categories"), ...cats.map(c => h("option", { value: c }, c[0].toUpperCase() + c.slice(1))));
+  const changes = d.items.reduce((n, i) => n + Object.values(i.hist.A).concat(Object.values(i.hist.E)).reduce((m, h) => m + h.length, 0), 0);
+  $("#stats").append(...[[d.items.length, "items tracked"], [d.items.filter(i => Object.keys(i.A).length).length, "on AMVGG"],
+    [d.items.filter(i => Object.keys(i.E).length).length, "on Elvebredd"], [changes, "history points"]]
+    .map(([n, l]) => h("div", { class: "stat" }, h("div", { class: "n" }, n.toLocaleString()), h("div", { class: "l" }, l))));
+  $("#when").textContent = "updated " + new Date(NOW).toLocaleString(undefined, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+  $("#list").removeAttribute("aria-busy");
+  syncSegs(); render();
+}).catch(() => $("#list").replaceChildren(h("div", { class: "empty" }, "Couldn't load the value data. Try refreshing.")));
+</script>
+</body>
+</html>

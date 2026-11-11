@@ -1,3 +1,4 @@
 .env
 __pycache__/
 dashboard_data/
+site/data.json
