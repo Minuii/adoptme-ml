@@ -1,0 +1,2 @@
+# Bot and local runs both append to these logs; union merge keeps both sides instead of conflicting.
+data/**/*.jsonl merge=union

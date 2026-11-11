@@ -61,14 +61,17 @@ def amvgg():
 def elve():
     def get(off):
         return [x for x in json.loads(scraper.fetch(scraper.ELVE_ADS.format(off)))["listings"] if x.get("game") == "Adopt Me"]
-    # archive end: grows over time and pages near offset 0-1000 are odd, so search from 1M upward
+    # archive end: past it the API falls back to the newest listings instead of an empty page, so "past the end" =
+    # page updated within the last hour. Pages near offset 0-1000 are odd, so search from 1M upward.
+    cutoff = (scraper.now() - timedelta(hours=1)).isoformat()[:19]
+    real = lambda off: any(x["timeUpdated"][:19] < cutoff for x in get(off))
     lo, hi = 1_000_000, 2_000_000
-    while get(hi):
+    while real(hi):
         lo, hi = hi, hi * 2
         time.sleep(1)
     while hi - lo > 10_000:
         mid = (lo + hi) // 2
-        lo, hi = (mid, hi) if get(mid) else (lo, mid)
+        lo, hi = (mid, hi) if real(mid) else (lo, mid)
         time.sleep(1)
     step = lo // ELVE_PAGES
     print(f"elve archive ends near offset {lo:,}; sampling every {step:,}", flush=True)
