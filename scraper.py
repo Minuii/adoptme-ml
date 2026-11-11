@@ -98,9 +98,11 @@ def completed_trades(html):
     trades, all_trees, seen = {}, rsc_trees(html), set()
     for tree in all_trees.values():
         for n in walk(tree, all_trees, seen):
-            # card = ["$", "div", "<trade id>", {...}]
+            # card = ["$", "div", "<trade id>", {...}]; item tiles can also have all-digit keys, but they have no traders
             if isinstance(n, list) and len(n) == 4 and n[:2] == ["$", "div"] and str(n[2]).isdigit():
-                trades[n[2]] = parse_trade(n[3], all_trees)
+                sides = parse_trade(n[3], all_trees)
+                if sides:
+                    trades[n[2]] = sides
     return trades
 
 
@@ -124,7 +126,9 @@ def trade_file(day):
 
 
 def snapshot_trades():
-    trades = completed_trades(fetch("https://amvgg.com/trades/completed"))
+    # The plain URL is a Next.js cached page that can be up to 5 min stale (s-maxage=300); a throwaway
+    # query string gets a fresh render. At peak (~6 trades/min) the page only spans ~17 min.
+    trades = completed_trades(fetch(f"https://amvgg.com/trades/completed?t={int(time.time())}"))
     if not trades:
         raise RuntimeError("no trades parsed; page layout changed?")
     t = now()
