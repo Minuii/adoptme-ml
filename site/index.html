@@ -314,7 +314,7 @@ function gap(it) {
 
 function thumb(it, cls = "") {
   const v = it.cat === "pets" ? "v-" + S.var : "";
-  return h("div", { class: `thumb ${v} ${cls}` }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", width: 88, height: 88 }) : null);
+  return h("div", { class: `thumb ${v} ${cls}` }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", onerror: e => e.target.remove(), width: 88, height: 88 }) : null);
 }
 function valRow(it, s) {
   const v = value(it, s), p = change(it, s);
@@ -362,7 +362,7 @@ function feed() {
 function feedRow([t, it, s, old, now]) {
   const p = (now - old) / old * 100;
   return h("button", { class: "row", onclick: () => openItem(it) },
-    h("div", { class: `thumb ${it.cat === "pets" ? "v-" + S.var : ""}`, style: "height:44px;background:none" }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", referrerpolicy: "no-referrer" }) : null),
+    h("div", { class: `thumb ${it.cat === "pets" ? "v-" + S.var : ""}`, style: "height:44px;background:none" }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", referrerpolicy: "no-referrer", onerror: e => e.target.remove() }) : null),
     h("div", {}, h("div", { class: "nm" }, h("span", { class: "tag " + s }, s === "A" ? "AMVGG" : "ELVE"), it.name),
       h("div", { class: "t" }, `${dateTxt(t)} · ${it.cat === "pets" ? VAR[S.var] + " " + POT[S.pot] : it.cat}`)),
     h("div", { class: "chg" }, h("div", { class: "x" }, `${fmt(old)} → ${fmt(now)}`), h("div", { class: "d " + pctCls(p), style: "font-size:12px;font-weight:700" }, pctTxt(p))));
