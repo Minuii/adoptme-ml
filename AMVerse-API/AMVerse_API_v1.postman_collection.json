@@ -1,0 +1,261 @@
+{
+  "info": {
+    "name": "AMVerse API v1",
+    "description": "Public API for AMVerse — compare Adopt Me pet values from Elvebredd and AMVGG.\n \nSet the `api_key` collection variable to your key before sending requests.\n\n**Rate limit:** 60 requests per minute per API key.\n\n**Authentication:** Pass your key via the `Authorization: Bearer <key>` header (set automatically via collection auth) or `X-API-Key: <key>`.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "auth": {
+    "type": "bearer",
+    "bearer": [
+      {
+        "key": "token",
+        "value": "{{api_key}}",
+        "type": "string"
+      }
+    ]
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "https://amverse.co",
+      "type": "string",
+      "description": "Base URL of the AMVerse API. Change to http://localhost:3000 for local development."
+    },
+    {
+      "key": "api_key",
+      "value": "amv_your_key_here",
+      "type": "string",
+      "description": "Your API key from the AMVerse admin panel. Starts with amv_"
+    }
+  ],
+  "item": [
+    {
+      "name": "Pets",
+      "item": [
+        {
+          "name": "List Pets",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/v1/pets?page=1&limit=20",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "pets"],
+              "query": [
+                {
+                  "key": "page",
+                  "value": "1",
+                  "description": "Page number (1-based). Default: 1"
+                },
+                {
+                  "key": "limit",
+                  "value": "20",
+                  "description": "Results per page. Max: 50. Default: 20"
+                },
+                {
+                  "key": "rarity",
+                  "value": "Legendary",
+                  "description": "Filter by exact rarity (e.g. Common, Uncommon, Rare, Ultra-Rare, Legendary)",
+                  "disabled": true
+                },
+                {
+                  "key": "category",
+                  "value": "pets",
+                  "description": "Filter by category (e.g. pets, eggs, vehicles, petwear)",
+                  "disabled": true
+                },
+                {
+                  "key": "name",
+                  "value": "dragon",
+                  "description": "Partial name search (case-insensitive)",
+                  "disabled": true
+                }
+              ]
+            },
+            "description": "Returns a paginated list of all pets with their latest Elvebredd and AMVGG values.\n\n**Query parameters:**\n- `page` — page number (default: 1)\n- `limit` — results per page, max 50 (default: 20)\n- `rarity` — exact rarity filter (e.g. `Legendary`)\n- `category` — exact category filter (e.g. `pets`, `eggs`)\n- `name` — partial name search, case-insensitive"
+          },
+          "response": [
+            {
+              "name": "200 OK — Page 1",
+              "originalRequest": {
+                "method": "GET",
+                "url": {
+                  "raw": "{{base_url}}/api/v1/pets?page=1&limit=2",
+                  "host": ["{{base_url}}"],
+                  "path": ["api", "v1", "pets"],
+                  "query": [
+                    {"key": "page", "value": "1"},
+                    {"key": "limit", "value": "2"}
+                  ]
+                }
+              },
+              "status": "OK",
+              "code": 200,
+              "_postman_previewlanguage": "json",
+              "body": "{\n  \"data\": [\n    {\n      \"petId\": 1,\n      \"name\": \"Albino Bat\",\n      \"rarity\": \"Legendary\",\n      \"category\": \"pets\",\n      \"flyRide\": true,\n      \"imageUrl\": \"https://images.amverse.co/albino-bat.png\",\n      \"elve\": {\n        \"rvalue\": 2800,\n        \"nvalue\": 8400,\n        \"mvalue\": 16800,\n        \"rvalueRide\": null,\n        \"rvalueFly\": null,\n        \"rvalueFlyRide\": null,\n        \"nvalueRide\": null,\n        \"nvalueFly\": null,\n        \"nvalueFlyRide\": null,\n        \"mvalueRide\": null,\n        \"mvalueFly\": null,\n        \"mvalueFlyRide\": null,\n        \"scrapedAt\": \"2026-04-23T10:00:00.000Z\"\n      },\n      \"amvgg\": {\n        \"regularValue\": 2750,\n        \"neonValue\": 8200,\n        \"megaValue\": 16400,\n        \"npRegularValue\": null,\n        \"npNeonValue\": null,\n        \"npMegaValue\": null,\n        \"rValue\": null,\n        \"fValue\": null,\n        \"nrValue\": null,\n        \"nfValue\": null,\n        \"mrValue\": null,\n        \"mfValue\": null,\n        \"regularDemand\": \"High\",\n        \"neonDemand\": \"Medium\",\n        \"megaDemand\": \"Medium\",\n        \"rDemand\": null,\n        \"fDemand\": null,\n        \"nrDemand\": null,\n        \"nfDemand\": null,\n        \"mrDemand\": null,\n        \"mfDemand\": null,\n        \"scrapedAt\": \"2026-04-23T10:00:00.000Z\"\n      }\n    }\n  ],\n  \"meta\": {\n    \"page\": 1,\n    \"limit\": 2,\n    \"total\": 487\n  }\n}"
+            },
+            {
+              "name": "401 Unauthorized — Missing key",
+              "originalRequest": {
+                "method": "GET",
+                "url": {
+                  "raw": "{{base_url}}/api/v1/pets",
+                  "host": ["{{base_url}}"],
+                  "path": ["api", "v1", "pets"]
+                }
+              },
+              "status": "Unauthorized",
+              "code": 401,
+              "_postman_previewlanguage": "json",
+              "body": "{\n  \"error\": \"API key required. Pass via Authorization: Bearer <key> or X-API-Key header.\"\n}"
+            },
+            {
+              "name": "429 Too Many Requests",
+              "originalRequest": {
+                "method": "GET",
+                "url": {
+                  "raw": "{{base_url}}/api/v1/pets",
+                  "host": ["{{base_url}}"],
+                  "path": ["api", "v1", "pets"]
+                }
+              },
+              "status": "Too Many Requests",
+              "code": 429,
+              "_postman_previewlanguage": "json",
+              "body": "{\n  \"error\": \"Rate limit exceeded. Max 60 requests per minute per API key.\"\n}"
+            }
+          ]
+        },
+        {
+          "name": "Get Pet by ID",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/v1/pets/1",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "pets", "1"]
+            },
+            "description": "Returns a single pet by its numeric `petId` with full Elvebredd and AMVGG values including all fly/ride variants and demand ratings.\n\nReplace `1` in the URL with the target pet's ID."
+          },
+          "response": [
+            {
+              "name": "200 OK",
+              "originalRequest": {
+                "method": "GET",
+                "url": {
+                  "raw": "{{base_url}}/api/v1/pets/1",
+                  "host": ["{{base_url}}"],
+                  "path": ["api", "v1", "pets", "1"]
+                }
+              },
+              "status": "OK",
+              "code": 200,
+              "_postman_previewlanguage": "json",
+              "body": "{\n  \"data\": {\n    \"petId\": 1,\n    \"name\": \"Albino Bat\",\n    \"rarity\": \"Legendary\",\n    \"category\": \"pets\",\n    \"flyRide\": true,\n    \"imageUrl\": \"https://images.amverse.co/albino-bat.png\",\n    \"elve\": {\n      \"rvalue\": 2800,\n      \"nvalue\": 8400,\n      \"mvalue\": 16800,\n      \"rvalueRide\": 3200,\n      \"rvalueFly\": 3500,\n      \"rvalueFlyRide\": 4000,\n      \"nvalueRide\": 9600,\n      \"nvalueFly\": 10500,\n      \"nvalueFlyRide\": 12000,\n      \"mvalueRide\": 19200,\n      \"mvalueFly\": 21000,\n      \"mvalueFlyRide\": 24000,\n      \"scrapedAt\": \"2026-04-23T10:00:00.000Z\"\n    },\n    \"amvgg\": {\n      \"regularValue\": 2750,\n      \"neonValue\": 8200,\n      \"megaValue\": 16400,\n      \"npRegularValue\": 2500,\n      \"npNeonValue\": 7500,\n      \"npMegaValue\": 15000,\n      \"rValue\": 3100,\n      \"fValue\": 3400,\n      \"nrValue\": 9300,\n      \"nfValue\": 10200,\n      \"mrValue\": 18600,\n      \"mfValue\": 20400,\n      \"regularDemand\": \"High\",\n      \"neonDemand\": \"Medium\",\n      \"megaDemand\": \"Medium\",\n      \"rDemand\": \"Medium\",\n      \"fDemand\": \"Medium\",\n      \"nrDemand\": \"Low\",\n      \"nfDemand\": \"Low\",\n      \"mrDemand\": \"Low\",\n      \"mfDemand\": \"Low\",\n      \"scrapedAt\": \"2026-04-23T10:00:00.000Z\"\n    }\n  }\n}"
+            },
+            {
+              "name": "404 Not Found",
+              "originalRequest": {
+                "method": "GET",
+                "url": {
+                  "raw": "{{base_url}}/api/v1/pets/99999",
+                  "host": ["{{base_url}}"],
+                  "path": ["api", "v1", "pets", "99999"]
+                }
+              },
+              "status": "Not Found",
+              "code": 404,
+              "_postman_previewlanguage": "json",
+              "body": "{\n  \"error\": \"Pet not found.\"\n}"
+            },
+            {
+              "name": "400 Bad Request — Invalid ID",
+              "originalRequest": {
+                "method": "GET",
+                "url": {
+                  "raw": "{{base_url}}/api/v1/pets/abc",
+                  "host": ["{{base_url}}"],
+                  "path": ["api", "v1", "pets", "abc"]
+                }
+              },
+              "status": "Bad Request",
+              "code": 400,
+              "_postman_previewlanguage": "json",
+              "body": "{\n  \"error\": \"petId must be a positive integer.\"\n}"
+            }
+          ]
+        },
+        {
+          "name": "Batch Pet Values",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/v1/pets/values?ids=1,2,3",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "pets", "values"],
+              "query": [
+                {
+                  "key": "ids",
+                  "value": "1,2,3",
+                  "description": "Comma-separated list of petIds. Maximum 36 IDs per request."
+                }
+              ]
+            },
+            "description": "Fetch values for up to 36 pets in a single request. Pass a comma-separated list of numeric pet IDs in the `ids` query parameter.\n\nUseful for building comparison tables or populating a watchlist."
+          },
+          "response": [
+            {
+              "name": "200 OK",
+              "originalRequest": {
+                "method": "GET",
+                "url": {
+                  "raw": "{{base_url}}/api/v1/pets/values?ids=1,2,3",
+                  "host": ["{{base_url}}"],
+                  "path": ["api", "v1", "pets", "values"],
+                  "query": [{"key": "ids", "value": "1,2,3"}]
+                }
+              },
+              "status": "OK",
+              "code": 200,
+              "_postman_previewlanguage": "json",
+              "body": "{\n  \"data\": [\n    {\n      \"petId\": 1,\n      \"name\": \"Albino Bat\",\n      \"rarity\": \"Legendary\",\n      \"category\": \"pets\",\n      \"flyRide\": true,\n      \"imageUrl\": \"https://images.amverse.co/albino-bat.png\",\n      \"elve\": { \"rvalue\": 2800, \"nvalue\": 8400, \"mvalue\": 16800, \"scrapedAt\": \"2026-04-23T10:00:00.000Z\" },\n      \"amvgg\": { \"regularValue\": 2750, \"neonValue\": 8200, \"megaValue\": 16400, \"regularDemand\": \"High\", \"scrapedAt\": \"2026-04-23T10:00:00.000Z\" }\n    },\n    {\n      \"petId\": 2,\n      \"name\": \"Bee\",\n      \"rarity\": \"Legendary\",\n      \"category\": \"pets\",\n      \"flyRide\": false,\n      \"imageUrl\": \"https://images.amverse.co/bee.png\",\n      \"elve\": { \"rvalue\": 1200, \"nvalue\": 3600, \"mvalue\": 7200, \"scrapedAt\": \"2026-04-23T10:00:00.000Z\" },\n      \"amvgg\": { \"regularValue\": 1150, \"neonValue\": 3450, \"megaValue\": 6900, \"regularDemand\": \"Medium\", \"scrapedAt\": \"2026-04-23T10:00:00.000Z\" }\n    }\n  ]\n}"
+            },
+            {
+              "name": "400 Bad Request — Too many IDs",
+              "originalRequest": {
+                "method": "GET",
+                "url": {
+                  "raw": "{{base_url}}/api/v1/pets/values?ids=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37",
+                  "host": ["{{base_url}}"],
+                  "path": ["api", "v1", "pets", "values"],
+                  "query": [{"key": "ids", "value": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37"}]
+                }
+              },
+              "status": "Bad Request",
+              "code": 400,
+              "_postman_previewlanguage": "json",
+              "body": "{\n  \"error\": \"Maximum 36 pet IDs per request.\"\n}"
+            },
+            {
+              "name": "400 Bad Request — Missing ids",
+              "originalRequest": {
+                "method": "GET",
+                "url": {
+                  "raw": "{{base_url}}/api/v1/pets/values",
+                  "host": ["{{base_url}}"],
+                  "path": ["api", "v1", "pets", "values"]
+                }
+              },
+              "status": "Bad Request",
+              "code": 400,
+              "_postman_previewlanguage": "json",
+              "body": "{\n  \"error\": \"ids query parameter is required (comma-separated petIds).\"\n}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
