@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 17:31 UTC by the scrape workflow._
+_Updated 2026-11-11 17:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 17:31 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 3,368 | 2026-11-11T17:30 |
-| elve | 1 | 727 | 2026-11-11T17:31 |
+| amvgg | 1 | 3,708 | 2026-11-11T17:45 |
+| elve | 1 | 784 | 2026-11-11T17:46 |
 
-## AMVGG completed trades: 848 total
+## AMVGG completed trades: 909 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 848 |
+| 2026-11-11 | 909 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:30 | **Soso4ka004**: Parrot (R), Ride-A-Pet Potion | **Tickyiiii**: Dalmatian (R), Kangaroo (NFR), Turtle (FR), Tortuga de la Isla (NR), Spring Bunny Hood, Frost Fury (FR), Dodo (FR), Black Panther |
-| 17:30 | **dimaBog26**: Phantom Dragon (F) | **catsr0dina**: Christmas Pudding Pup |
-| 17:30 | **2coldhvearts**: Puffer Fish | **LaraIphone16e**: Canadian Goose ×2 |
-| 17:30 | **keman_r**: Corgi (N), Ginger Cat (N), Gold Mahi Mahi (N), Robot (N) ×2, Toucan (N) | **amica7wh**: Ride-A-Pet Potion |
-| 17:30 | **adoptmegrind222929**: Munchkin Cat (MFR), Unicorn Backpack | **baconloverxxx12**: Peppermint Penguin (NFR) |
-| 17:30 | **gffdjddd23_4**: Fly-A-Pet Potion | **XxxSachaxxX1**: Santa's Bow, Mule Baskets, Candy Cane (Pet Wear), Unfortunate Eyelashes, Festive Antlers, Silly Duck Hat, Festive Stocking Shoes, Marshmallow Friend, Snow Cloud Wings |
-| 17:30 | **t1mskyy**: Snowball Pet (MR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ni1zuua**: Reindeer (MFR) |
-| 17:30 | **awrriah**: Giant Panda (NFR), Cryptid (MFR), Strawberry Shortcake Bat Dragon (FR) | **Cinzsins**: Haetae (MFR) |
-| 17:30 | **Kit_tblmamymav1**: Ride-A-Pet Potion ×10 | **NotSunsetPlaysRoblox**: Dragonfruit Fox (NR) |
-| 17:30 | **GAV_6066**: Copycat (R) | **RGAKL10**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 |
-| 17:30 | **aneliqxs**: White Amazon (NR) | **Thaly_vz**: Ride-A-Pet Potion ×3 |
-| 17:30 | **alejaooo6**: Fairy Bat Dragon (R), Siamese Cat (FR), Shark (NFR), Emu (NR), Ride-A-Pet Potion ×2 | **sigmaizzmailovvvv2**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:30 | **Mirila_Kalila**: Dire Wolf (M), Mochi Meow (M), Jiggly Jerboa (M), Glyptodon Ducky (M) | **melinaftu**: Frost Fury (FR), Thunderfisher |
-| 17:30 | **LuminaCinth**: Unicorn (NFR), Dragonfruit Fox, Ice Cream Hermit Crab, Fly-A-Pet Potion | **yeagsr**: Munchkin Cat (FR) |
-| 17:30 | **Meowkittiikat**: Tiny Wings, Alley Cat (MR) | **those_airliness**: Amami Rabbit (MR), 2022 Birthday Cake, Cabbit (FR) |
+| 17:45 | **woliver83**: Count Slothula (M) | **gTheGamerProYTg**: Unicorn (MFR) |
+| 17:45 | **trade_toshadow02**: Copycat (N), Sushi Penguin (R) | **laxwyxl**: Cow |
+| 17:45 | **beatsvic**: Cupid Dragon (MFR), Ram (MFR), Silly Duck (MFR), Spring Bunny Hood | **vpzqik**: Cow (MFR) |
+| 17:45 | **you35o**: Owl (FR) | **XxxSasha_aaaXxx**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (NFR) |
+| 17:45 | **woofwizz**: Honey Badger (MFR), Husky (MFR), Tiny Wings | **GrusFavMinion76**: African Wild Dog (FR) |
+| 17:45 | **Chcd_baby**: Praying Mantis (N) | **O4Xxe**: Raccoon (N) |
+| 17:45 | **mintyplays89**: Bunny Swirl (M), Elasmosaurus (MFR), Shrew (FR), Shark (NR), Lava Dragon (FR), Great Pyrenees (N) | **Roman012_sl**: Goose (FR) |
+| 17:45 | **Catzini_1**: Arctic Reindeer (MFR), Frost Dragon (FR), Parrot (FR) | **ANDY_245780**: Bat Dragon (FR) |
+| 17:45 | **gul3n3hs**: Angus Cow (N) ×2 | **BlackGigi2**: Snowball Pug |
+| 17:45 | **Lola242532**: Copycat (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **4532Piggy**: Jester Dragon, Copycat |
+| 17:45 | **plansrik**: Cow (FR), Turtle (FR), Fly-A-Pet Potion | **Lola242532**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:45 | **etherealstarblaze**: Highland Cow (N) | **Yoonie_Alisha**: Fly-A-Pet Potion |
+| 17:45 | **camcc255**: Peach Owl | **Ivyswrld1**: Yeti |
+| 17:45 | **mzylovie**: Chihuahua (NFR), King Bee (R), Muskrat (M), Pangolin (N), Blue Butterfly (N), St Bernard, Unicorn, Gemstone Egg, Electric Hornet, Thunderfisher, Angus Bull, Nebula Snake | **pluraIsoul**: Canadian Goose (M) |
+| 17:45 | **dinklass**: Stitches (M) | **itzz_Keys**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
