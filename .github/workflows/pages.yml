@@ -1,8 +1,7 @@
 name: pages
 
 on:
-  schedule:
-    - cron: "45 * * * *"  # hourly; the scrape commits every 15 min, the site doesn't need to be that fresh
+  # Rebuilt every 3 hours by the scrape workflow (GitHub's own `schedule:` never fires for this repo), on site edits, or by hand.
   push:
     branches: [main]
     paths: [site/**, build_site.py]

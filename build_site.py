@@ -97,6 +97,49 @@ SITE.mkdir(exist_ok=True)
 print(len(out), "items,", sum(bool(i["A"]) for i in out), "on AMVGG,", sum(bool(i["E"]) for i in out), "on Elvebredd,",
       round((SITE / "data.json").stat().st_size / 1e6, 2), "MB")
 
+# ---- Stats tab: what has been collected so far (aggregates only; no trader names leave the repo) ----
+from collections import Counter, defaultdict
+from datetime import datetime, timedelta, timezone
+
+elve_ch = [c for c in lines("elve_updates") if "newValue" in c]
+gg_ch = [(c["updatedAt"], c["itemName"], v) for c in gg_upd for v in ("Regular", "Neon", "Mega", "Item") if c.get(f"new{v}Value") is not None]
+gg_dem = sum(1 for c in gg_upd for v in ("Regular", "Neon", "Mega", "Item") if c.get(f"new{v}Demand") is not None)
+trades = lines("trades")
+now = datetime.now(timezone.utc)
+ago = lambda days: (now - timedelta(days=days)).isoformat()[:16]
+
+monthly = defaultdict(lambda: [0, 0])
+for c in elve_ch:
+    monthly[c["effectiveAt"][:7]][0] += 1
+for t, _, _ in gg_ch:
+    monthly[t[:7]][1] += 1
+busy = defaultdict(lambda: [0, 0])
+for c in elve_ch:
+    if c["effectiveAt"][:16] >= ago(90):
+        busy[c["name"]][0] += 1
+for t, name, _ in gg_ch:
+    if t[:16] >= ago(90):
+        busy[name][1] += 1
+week = [t for t in trades if t["first_seen"][:16] >= ago(7)]
+traded = Counter(n for t in week for s in t["sides"] for n in {i["name"] for i in s["items"]})
+hourly = Counter(t["first_seen"][:13] for t in trades if t["first_seen"][:16] >= ago(3))
+snaps = {s: sorted((DATA / "values" / s).glob("*.json.gz")) for s in ("elve", "amvgg")}
+
+stats = {
+    "built": now.isoformat(timespec="minutes"),
+    "totals": {"elve_changes": len(elve_ch), "elve_first": min(c["effectiveAt"] for c in elve_ch)[:10],
+               "amvgg_changes": len(gg_ch), "amvgg_first": min(t for t, _, _ in gg_ch)[:10], "amvgg_demand": gg_dem,
+               "trades": len(trades), "trades_first": min((t["first_seen"] for t in trades), default="")[:10],
+               "trades_24h": sum(t["first_seen"][:16] >= ago(1) for t in trades),
+               "snapshots": len(snaps["elve"]) + len(snaps["amvgg"])},
+    "monthly": [[m, e, a] for m, (e, a) in sorted(monthly.items())],
+    "hourly": sorted(hourly.items()),
+    "traded_7d": traded.most_common(20),
+    "busy_90d": sorted(([n, e, a] for n, (e, a) in busy.items()), key=lambda r: -(r[1] + r[2]))[:20],
+}
+(SITE / "stats.json").write_text(json.dumps(stats, separators=(",", ":")), encoding="utf-8")
+print("stats:", stats["totals"])
+
 if __name__ == "__main__":  # smoke check: a well-known pet joins across both lists with history
     sd = items[key("Shadow Dragon")]
     assert sd["E"].get("m-fr") and sd["A"].get("m-fr") and sd["hist"]["A"].get("m-fr"), sd

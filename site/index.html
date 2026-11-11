@@ -92,9 +92,26 @@ select { height: 40px; border-radius: 999px; border: 1px solid var(--line-2); ba
 .thumb { height: 104px; display: grid; place-items: center; border-radius: var(--r); position: relative;
   background: radial-gradient(circle at 50% 60%, color-mix(in srgb, var(--rc, #888) 22%, transparent), transparent 70%); }
 .thumb img { width: 88px; height: 88px; object-fit: contain; }
-.v-n img { filter: drop-shadow(0 0 5px #3dffa8) drop-shadow(0 0 2px #3dffa8); }
-.v-m img { animation: mega 3s linear infinite; filter: drop-shadow(0 0 5px #ff5ff1) drop-shadow(0 0 2px #7cf); }
-@keyframes mega { to { filter: hue-rotate(360deg) drop-shadow(0 0 5px #ff5ff1) drop-shadow(0 0 2px #7cf); } }
+/* F / R / N / M, colors from elvebredd.com's --fly / --ride / --neon / --mega */
+.frnm { display: inline-flex; gap: 6px; }
+.frnm[aria-disabled=true] { opacity: .4; pointer-events: none; }
+.tog { width: 36px; height: 36px; padding: 0; border-radius: 50%; border: 1px solid var(--line-2); background: var(--bg-2); color: var(--muted);
+  font-family: "Baloo 2", Montserrat, sans-serif; font-weight: 800; font-size: 16px; line-height: 1; cursor: pointer; display: grid; place-items: center; transition: background .15s, color .15s; }
+.tog:hover { color: var(--text); border-color: rgba(255,255,255,.3); }
+.tog[aria-pressed=true], .bdg { color: #fff; border-color: transparent; text-shadow: 0 1px 1px rgba(0,0,0,.4); }
+.tog-f[aria-pressed=true], .bdg.f { background: linear-gradient(135deg, #8ecae8 0%, #2f98cc 50%, #0086c8 100%); }
+.tog-r[aria-pressed=true], .bdg.r { background: linear-gradient(135deg, #ffc5dc 0%, #ed2c79 50%, #ff0065 100%); }
+.tog-n[aria-pressed=true], .bdg.n { background: linear-gradient(135deg, #c1ff6e 0%, #8cc63f 50%, #13720b 100%); }
+.tog-m[aria-pressed=true], .bdg.m { background: linear-gradient(135deg, #bb50fd 0%, #4503c6 50%, #511cb6 100%); }
+.badges { position: absolute; top: 4px; right: 4px; display: flex; gap: 3px; }
+.bdg { width: 19px; height: 19px; border-radius: 50%; display: grid; place-items: center; font: 800 11px/1 "Baloo 2", Montserrat, sans-serif; }
+
+/* stats tab */
+.statspage { display: grid; gap: 14px; padding-top: 16px; padding-bottom: 40px; }
+.statspage .panel .sub { margin-top: 8px; }
+.statspage table.vt td:first-child { color: var(--text); }
+.legend2 { display: flex; gap: 14px; font-size: 12px; color: var(--muted); margin-top: 6px; }
+.chart .ax { fill: rgba(255,255,255,.45); font-size: 11px; }
 .card h3 { font-size: 17px; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .meta { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; font-size: 11px; }
 .rar { color: var(--rc); font-weight: 700; text-transform: capitalize; }
@@ -120,6 +137,7 @@ select { height: 40px; border-radius: 999px; border: 1px solid var(--line-2); ba
 .row { display: grid; grid-template-columns: 44px 1fr auto; gap: 12px; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 8px 12px; cursor: pointer; transition: border-color .15s; text-align: left; width: 100%; }
 .row:hover { border-color: var(--line-2); }
 .row img { width: 44px; height: 44px; object-fit: contain; }
+.row .thumb .badges { top: -2px; right: -4px; } .row .thumb .bdg { width: 15px; height: 15px; font-size: 9px; }
 .row .t { font-size: 12px; color: var(--faint); }
 .row .nm { font-weight: 700; }
 .tag { font-size: 10px; font-weight: 800; padding: 2px 7px; border-radius: 999px; margin-right: 6px; letter-spacing: .4px; }
@@ -186,6 +204,7 @@ footer a { color: var(--muted); }
   <nav class="tabs" role="tablist">
     <button role="tab" data-tab="list" aria-selected="true">Value List</button>
     <button role="tab" data-tab="updates" aria-selected="false">Value Updates</button>
+    <button role="tab" data-tab="stats" aria-selected="false">Stats</button>
   </nav>
 </div></header>
 
@@ -206,10 +225,7 @@ footer a { color: var(--muted); }
     <button class="toggle-filters" id="toggleFilters" aria-expanded="false" aria-controls="moreFilters">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>Filters</button>
     <div class="more-filters" id="moreFilters">
-      <div class="group"><span>Variant</span><div class="seg pet-only" data-key="var" role="group" aria-label="Variant">
-        <button data-v="r">Normal</button><button data-v="n">Neon</button><button data-v="m">Mega</button></div></div>
-      <div class="group"><span>Potion</span><div class="seg pet-only" data-key="pot" role="group" aria-label="Potion">
-        <button data-v="fr">Fly Ride</button><button data-v="f">Fly</button><button data-v="r">Ride</button><button data-v="np">No Potion</button></div></div>
+      <div class="group"><span>Fly · Ride · Neon · Mega</span><div id="frnmSlot"></div></div>
       <div class="group"><label for="cat">Category</label><select id="cat"></select></div>
       <div class="group"><label for="dem">AMVGG demand</label><select id="dem"><option value="">Any</option><option>High</option><option>Medium</option><option>Low</option></select></div>
       <div class="group list-only"><label for="sort">Sort</label><select id="sort">
@@ -226,6 +242,21 @@ footer a { color: var(--muted); }
     <div id="list" class="grid" aria-busy="true"></div>
     <div id="updates" class="feed" hidden></div>
     <button id="more" class="loadmore" hidden>Show more</button>
+  </section>
+
+  <section class="wrap statspage" id="statsPage" hidden>
+    <div class="stats" id="statTotals"></div>
+    <div class="panel"><h3>Value changes per month</h3>
+      <div class="legend2"><span><span class="dot" style="background:var(--elve)"></span>Elvebredd</span><span><span class="dot" style="background:var(--amvgg)"></span>AMVGG</span></div>
+      <div id="monthlyChart"></div>
+      <p class="sub">One change is one variant of one item moving (for example Frost Dragon, neon fly ride). Elvebredd's history starts in September 2023, AMVGG's in June 2026.</p></div>
+    <div class="panel"><h3>Completed trades collected per hour (last 3 days)</h3>
+      <div id="hourlyChart"></div>
+      <p class="sub">The collector checks AMVGG's completed trades every 15 minutes. The page only shows the last ~30 minutes of trades, so a missed run leaves a dip.</p></div>
+    <div class="panels">
+      <div class="panel"><h3>Most traded, last 7 days</h3><table class="vt" id="tradedTbl"></table><p class="sub">Completed AMVGG trades with the item on either side.</p></div>
+      <div class="panel"><h3>Most revalued, last 90 days</h3><table class="vt" id="busyTbl"></table><p class="sub">Number of value changes per list.</p></div>
+    </div>
   </section>
 </main>
 
@@ -312,9 +343,25 @@ function gap(it) {
   return a == null || e == null ? -1 : Math.abs(a - e);
 }
 
+// which of F/R/N/M are on for the current variant; potion codes: fr fly ride, f fly, r ride, np none
+const fly = () => S.pot === "fr" || S.pot === "f", ride = () => S.pot === "fr" || S.pot === "r";
+const potOf = (f, r) => f && r ? "fr" : f ? "f" : r ? "r" : "np";
+function badges(it) {
+  if (it.cat !== "pets") return null;
+  const on = [S.var !== "r" && S.var, fly() && "f", ride() && "r"].filter(Boolean);
+  return on.length ? h("div", { class: "badges", "aria-hidden": "true" }, on.map(k => h("span", { class: "bdg " + k }, k.toUpperCase()))) : null;
+}
+function frnm(after) {
+  const b = (k, label, on, set) => h("button", { class: "tog tog-" + k, "aria-pressed": String(on), title: label, "aria-label": label,
+    onclick: () => { set(); rankCache = {}; syncSegs(); render(); after?.(); } }, k.toUpperCase());
+  return h("div", { class: "frnm pet-only", role: "group", "aria-label": "Fly, ride, neon, mega" },
+    b("f", "Fly", fly(), () => S.pot = potOf(!fly(), ride())),
+    b("r", "Ride", ride(), () => S.pot = potOf(fly(), !ride())),
+    b("n", "Neon", S.var === "n", () => S.var = S.var === "n" ? "r" : "n"),  // N and M exclude each other; click again for normal
+    b("m", "Mega", S.var === "m", () => S.var = S.var === "m" ? "r" : "m"));
+}
 function thumb(it, cls = "") {
-  const v = it.cat === "pets" ? "v-" + S.var : "";
-  return h("div", { class: `thumb ${v} ${cls}` }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", onerror: e => e.target.remove(), width: 88, height: 88 }) : null);
+  return h("div", { class: `thumb ${cls}` }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", onerror: e => e.target.remove(), width: 88, height: 88 }) : null, badges(it));
 }
 function valRow(it, s) {
   const v = value(it, s), p = change(it, s);
@@ -333,6 +380,10 @@ function card(it) {
 let shown = 0, current = [];
 function render(reset = true) {
   save();
+  const stats = S.tab === "stats";
+  $("#statsPage").hidden = !stats;
+  for (const id of ["#filters", ".bar", "#more"]) $(id).style.display = stats ? "none" : "";
+  if (stats) { $("#list").hidden = $("#updates").hidden = true; drawStats(); return; }
   document.querySelectorAll(".pet-only").forEach(e => e.setAttribute("aria-disabled", !["all", "pets"].includes(S.cat)));
   document.querySelectorAll(".list-only").forEach(e => e.style.display = S.tab === "list" ? "" : "none");
   $("#list").hidden = S.tab !== "list"; $("#updates").hidden = S.tab !== "updates";
@@ -362,7 +413,7 @@ function feed() {
 function feedRow([t, it, s, old, now]) {
   const p = (now - old) / old * 100;
   return h("button", { class: "row", onclick: () => openItem(it) },
-    h("div", { class: `thumb ${it.cat === "pets" ? "v-" + S.var : ""}`, style: "height:44px;background:none" }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", referrerpolicy: "no-referrer", onerror: e => e.target.remove() }) : null),
+    h("div", { class: "thumb", style: "height:44px;background:none" }, it.img ? h("img", { src: it.img, alt: "", loading: "lazy", referrerpolicy: "no-referrer", onerror: e => e.target.remove() }) : null, badges(it)),
     h("div", {}, h("div", { class: "nm" }, h("span", { class: "tag " + s }, s === "A" ? "AMVGG" : "ELVE"), it.name),
       h("div", { class: "t" }, `${dateTxt(t)} · ${it.cat === "pets" ? VAR[S.var] + " " + POT[S.pot] : it.cat}`)),
     h("div", { class: "chg" }, h("div", { class: "x" }, `${fmt(old)} → ${fmt(now)}`), h("div", { class: "d " + pctCls(p), style: "font-size:12px;font-weight:700" }, pctTxt(p))));
@@ -373,8 +424,6 @@ let open = null;
 function openItem(it) { open = it; drawDialog(); if (!$("#dlg").open) $("#dlg").showModal(); }
 function drawDialog() {
   const it = open, pet = it.cat === "pets", dlg = $("#dlg");
-  const seg = (key, opts) => h("div", { class: "seg", role: "group" }, Object.entries(opts).map(([v, l]) =>
-    h("button", { "aria-pressed": S[key] === v, onclick: () => { S[key] = v; syncSegs(); render(); drawDialog(); } }, l)));
   const panel = s => {
     const v = value(it, s), p = change(it, s), p365 = change(it, s, 365);
     const hasAny = Object.keys(it[s]).length;
@@ -399,7 +448,7 @@ function drawDialog() {
         it.origin ? h("div", { class: "origin" }, it.origin) : null),
       h("button", { class: "close", "aria-label": "Close", onclick: () => dlg.close() }, "×")),
     h("div", { class: "dlg-body" },
-      pet ? h("div", { class: "dlg-ctrls" }, seg("var", VAR), seg("pot", POT)) : null,
+      pet ? h("div", { class: "dlg-ctrls" }, frnm(drawDialog)) : null,
       h("div", { class: "panels" }, sources().map(panel))));
 }
 
@@ -438,12 +487,72 @@ function chart(hst, now, s) {
   return box;
 }
 
+// Stats tab (site/stats.json, built with data.json)
+let STATS;
+async function drawStats() {
+  if (!STATS) {
+    try { STATS = await fetch("stats.json").then(r => r.json()); }
+    catch { $("#statTotals").replaceChildren(h("div", { class: "empty" }, "Couldn't load the stats. Try refreshing.")); return; }
+  }
+  const T = STATS.totals, n = v => v.toLocaleString(), day = s => s ? dateTxt(s + "T00:00") : "—";
+  $("#statTotals").replaceChildren(...[
+    [T.elve_changes, `Elvebredd value changes since ${day(T.elve_first)}`], [T.amvgg_changes, `AMVGG value changes since ${day(T.amvgg_first)}`],
+    [T.amvgg_demand, "AMVGG demand changes"], [T.trades, `completed trades since ${day(T.trades_first)}`],
+    [T.trades_24h, "trades in the last 24h"], [T.snapshots, "value list snapshots"],
+  ].map(([v, l]) => h("div", { class: "stat" }, h("div", { class: "n" }, n(v)), h("div", { class: "l" }, l))));
+  const M = STATS.monthly, firstA = M.findIndex(r => r[2] > 0);
+  $("#monthlyChart").replaceChildren(svgChart(M.map(r => r[0]), [
+    { name: "Elvebredd", col: "#ff4d94", ys: M.map(r => r[1]) },
+    { name: "AMVGG", col: "#2cbfec", ys: M.map((r, i) => firstA >= 0 && i >= firstA ? r[2] : null) }],
+    m => new Date(m + "-01T00:00Z").toLocaleDateString(undefined, { month: "short", year: "numeric", timeZone: "UTC" })));
+  const H = STATS.hourly;
+  $("#hourlyChart").replaceChildren(H.length ? svgChart(H.map(r => r[0]), [{ name: "Trades", col: "#2cbfec", ys: H.map(r => r[1]), bars: true }],
+    hr => new Date(hr + ":00Z").toLocaleString(undefined, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" })) : h("div", { class: "nodata" }, "No trades collected yet."));
+  $("#tradedTbl").replaceChildren(h("tr", {}, h("th", {}, "Item"), h("th", {}, "Trades")), ...STATS.traded_7d.map(([nm, c]) => h("tr", {}, h("td", {}, nm), h("td", {}, n(c)))));
+  $("#busyTbl").replaceChildren(h("tr", {}, h("th", {}, "Item"), h("th", {}, "Elvebredd"), h("th", {}, "AMVGG")),
+    ...STATS.busy_90d.map(([nm, e, a]) => h("tr", {}, h("td", {}, nm), h("td", {}, n(e)), h("td", {}, n(a)))));
+}
+// small line/bar chart; only numbers and fixed strings go into the SVG markup
+function svgChart(xs, series, label) {
+  const W = 900, Hh = 220, P = { l: 44, r: 10, t: 10, b: 24 }, nX = xs.length;
+  const max = Math.max(1, ...series.flatMap(s => s.ys.filter(v => v != null)));
+  const top = Math.pow(10, Math.floor(Math.log10(max))) * Math.ceil(max / Math.pow(10, Math.floor(Math.log10(max))));
+  const X = i => P.l + (nX === 1 ? .5 : i / (nX - 1)) * (W - P.l - P.r), Y = v => P.t + (1 - v / top) * (Hh - P.t - P.b);
+  const bw = Math.max(2, (W - P.l - P.r) / Math.max(nX, 1) - 2);
+  let g = "";
+  for (let k = 0; k <= 4; k++) { const v = top * k / 4; g += `<line x1="${P.l}" x2="${W - P.r}" y1="${Y(v)}" y2="${Y(v)}" stroke="rgba(255,255,255,.07)"/><text class="ax" x="${P.l - 6}" y="${Y(v) + 4}" text-anchor="end">${Math.round(v).toLocaleString()}</text>`; }
+  for (const s of series) {
+    if (s.bars) s.ys.forEach((v, i) => { g += `<rect x="${X(i) - bw / 2}" y="${Y(v)}" width="${bw}" height="${Y(0) - Y(v)}" fill="${s.col}" rx="2"/>`; });
+    else {
+      let d = "", pen = false;
+      s.ys.forEach((v, i) => { if (v == null) { pen = false; return; } d += `${pen ? "L" : "M"}${X(i)},${Y(v)}`; pen = true; });
+      g += `<path d="${d}" fill="none" stroke="${s.col}" stroke-width="2.2" stroke-linejoin="round"/>`;
+    }
+  }
+  const step = Math.max(1, Math.ceil(nX / 7));
+  for (let i = 0; i < nX; i += step) g += `<text class="ax" x="${X(i)}" y="${Hh - 6}" text-anchor="middle">${label(xs[i])}</text>`;
+  const tip = h("div", { class: "tip" }), box = h("div", { class: "chart" }, tip);
+  box.insertAdjacentHTML("afterbegin", `<svg viewBox="0 0 ${W} ${Hh}" style="height:${Hh}px" role="img" aria-label="${series.map(s => s.name).join(" and ")} chart">${g}<line class="cur" y1="${P.t}" y2="${Hh - P.b}" stroke="rgba(255,255,255,.35)" stroke-dasharray="3 3" style="display:none"/></svg>`);
+  const el = box.querySelector("svg"), cur = el.querySelector(".cur");
+  const move = e => {
+    const r = el.getBoundingClientRect(), vx = (e.clientX - r.left) / r.width * W;
+    const i = Math.min(nX - 1, Math.max(0, Math.round((vx - P.l) / (W - P.l - P.r) * (nX - 1))));
+    cur.setAttribute("x1", X(i)); cur.setAttribute("x2", X(i)); cur.style.display = "";
+    tip.textContent = label(xs[i]) + " · " + series.map(s => `${s.name} ${s.ys[i] == null ? "—" : s.ys[i].toLocaleString()}`).join(" · ");
+    tip.style.left = X(i) / W * r.width + "px"; tip.style.top = "40px"; tip.style.opacity = 1;
+  };
+  el.addEventListener("pointermove", move); el.addEventListener("pointerdown", move);
+  el.addEventListener("pointerleave", () => { tip.style.opacity = 0; cur.style.display = "none"; });
+  return box;
+}
+
 // controls
 function syncSegs() {
   document.querySelectorAll(".filters .seg").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", S[g.dataset.key] === b.dataset.v)));
   document.querySelectorAll("nav.tabs button").forEach(b => b.setAttribute("aria-selected", S.tab === b.dataset.tab));
   const rar = S.rar ? S.rar.split(",") : [];
   document.querySelectorAll("#rarity .chip").forEach(c => c.setAttribute("aria-pressed", rar.includes(c.dataset.v)));
+  $("#frnmSlot").replaceChildren(frnm());
   $("#q").value = S.q; $("#cat").value = S.cat; $("#dem").value = S.dem; $("#sort").value = S.sort;
 }
 document.querySelectorAll(".filters .seg").forEach(g => g.addEventListener("click", e => {
@@ -459,8 +568,9 @@ $("#rarity").append(...RAR.map(([r, c]) => h("button", { class: "chip", "data-v"
 } }, r)));
 
 syncSegs();
-$("#list").hidden = S.tab !== "list"; $("#updates").hidden = S.tab === "list";
-$(S.tab === "list" ? "#list" : "#updates").append(...Array.from({ length: 12 }, () => h("div", { class: "skeleton" })));
+$("#list").hidden = S.tab !== "list"; $("#updates").hidden = S.tab !== "updates";
+if (S.tab === "stats") render();
+else $(S.tab === "list" ? "#list" : "#updates").append(...Array.from({ length: 12 }, () => h("div", { class: "skeleton" })));
 fetch("data.json").then(r => r.json()).then(d => {
   DATA = d; NOW = Math.max(ts(d.elve_at.replace(/T(\d\d)(\d\d)Z?$/, "T$1:$2")), ts(d.amvgg_at.replace(/T(\d\d)(\d\d)Z?$/, "T$1:$2")));
   for (const s of ["A", "E"]) START[s] = Math.min(...d.items.flatMap(i => Object.values(i.hist[s]).map(h => ts(h[0][0]))));

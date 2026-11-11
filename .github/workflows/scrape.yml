@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  actions: write  # to start the pages workflow (see last step)
 
 concurrency:
   group: scrape
@@ -22,10 +23,8 @@ jobs:
     timeout-minutes: 8  # trades + ads (~1 min); values/updates runs take longer
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: python scraper.py ${{ inputs.job || 'auto' }}
+      # stdlib only, so the runner's own python3 does; skipping setup-python keeps runs under the 1-minute billing step
+      - run: python3 scraper.py ${{ inputs.job || 'auto' }}
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
@@ -39,6 +38,15 @@ jobs:
             git pull -q --rebase && git push -q && exit 0
             git rebase --abort 2>/dev/null || true
             git fetch -q && git reset -q --hard origin/main
-            python scraper.py ${{ inputs.job || 'auto' }}
+            python3 scraper.py ${{ inputs.job || 'auto' }}
           done
           exit 1
+      # The live site (pages.yml) rebuilds from the committed data. Pushes made with the workflow token don't start
+      # other workflows, but a dispatch does. Every 3 hours (the :00 run) keeps Actions minutes inside the Pro allowance.
+      - name: Rebuild the live site every 3 hours
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ $(( 10#$(date -u +%H) % 3 )) -eq 0 ] && [ $(( 10#$(date -u +%M) )) -lt 15 ]; then
+            gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
+          fi
