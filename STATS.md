@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 18:46 UTC by the scrape workflow._
+_Updated 2026-11-11 19:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 18:46 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 5,007 | 2026-11-11T18:45 |
-| elve | 1 | 1,083 | 2026-11-11T18:46 |
+| amvgg | 1 | 5,323 | 2026-11-11T19:00 |
+| elve | 1 | 1,149 | 2026-11-11T19:01 |
 
-## AMVGG completed trades: 1,109 total
+## AMVGG completed trades: 1,186 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 1,109 |
+| 2026-11-11 | 1,186 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:45 | **Tal_Kazman**: Fairy Bat Dragon | **Youalreadyknowme803**: Kangaroo (FR), Shadow Dragon Ducky (MFR), Drake (R) |
-| 18:45 | **KlennXP**: Dragon | **Andy_kj8**: Retired Egg ×9 |
-| 18:45 | **nikitatak3**: Werewolf, Unicorn Horn | **Tal_Kazman**: Mini Pig (FR) |
-| 18:45 | **obsidianMoon87**: Arctic Reindeer (NFR), Mini Pig (R), Jekyll Hydra (R), Pig (FR) | **OnlyMeNinik**: Owl (FR) |
-| 18:45 | **HACTR_te2**: Hot Doggo (FR) | **xxpiratekillxx**: Copycat (NFR), Ride-A-Pet Potion |
-| 18:45 | **caxarok_ponosik52**: 2022 Birthday Party Horn, Pomeranian (M), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Chicken (R), Zombie Wolf, Black Dog (NR), Catte ×2, Chihuahua ×2, Gorilla (R) | **SyndromGG**: Turtle (FR) |
-| 18:45 | **Crazez5**: Pancake Stack | **serafima271120**: Tasmanian Devil (N) |
-| 18:45 | **Amvgg_2357**: Snow Monkey, Dango Penguins, Dragonfruit Fox, Monkey (M), Flaming Fox, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, 2D Doggy | **gffdjddd23_4**: Mini Schnauzer (MR) |
-| 18:45 | **Aggr0berlin**: Evil Chickatrice, Choco Penguin (N), Christmas Spirit | **ARCA_DIUM**: Mule |
-| 18:45 | **Laksjsjsns_1233847**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 | **Niklon4ik**: Turtle (FR) |
-| 18:45 | **yomoiki**: Shrew (NFR), Unicorn Horn, Arctic Fox (FR) | **Mrs_tomat1**: Chocolate Chip Bat Dragon (R) |
-| 18:45 | **unilums**: Ride-A-Pet Potion | **kotya112735**: Tuxedo Cat |
-| 18:45 | **Ghostkittyin**: Moon Rabbit (MR), Spring Bunny Hood, Pancake Stack | **wistfulheartsclub**: Ghost Bunny (MFR) |
-| 18:45 | **Biscvidi29**: Kangaroo (FR) | **prosema56897**: Ride-A-Pet Potion ×17 |
-| 18:45 | **dolletqtie**: Bloodhound (MR), Ride-A-Pet Potion | **0MGSARAY**: Guardian Lion (NFR) |
+| 19:00 | **Maryha0243**: Jester Dragon (NFR), Ride-A-Pet Potion, Alicorn | **namerb11**: Cow (R) |
+| 19:00 | **Ryuchoaa**: Peppermint Penguin (MFR), Pancake Stack | **amvggholder**: Aurora Fox (MFR), Chocolate Chip Bat Dragon (NFR), Rainbow Maker, Jester Dragon (NFR), Fairy Bat Dragon (FR), Border Collie (R) |
+| 19:00 | **xoika112**: Siamese Cat (R), Unicorn ×2, Ride-A-Pet Potion ×2, Pain au Chat, Chihuahua, Kitsune | **Tal_Kazman**: Cabbit (R) |
+| 19:00 | **mk1qez**: Ride-A-Pet Potion ×7 | **fleurotic**: Cozy Cabin |
+| 19:00 | **userthe2222**: Parrot (FR) | **ucifjdj**:  |
+| 19:00 | **247Andrey666**: Turtle (FR) | **7pctuxx**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×2 |
+| 19:00 | **KyrysW**: Lamb (MFR), Puffer Fish (MFR), Panda (MFR), Hare (MFR), Binturong (MFR), Sloth (MFR) | **Xavit_860**: Sakura Spirit (MFR) |
+| 19:00 | **awx_mili**: Unicorn Horn, Cherry Blossom Hang Glider, Ride-A-Pet Potion, Paint Sealer | **Tal_Kazman**: Sugar Glider (FR) |
+| 19:00 | **SoShark1**: Black Widow | **NightVoidRealm**: Ride-A-Pet Potion |
+| 19:00 | **Z4txn666**: Skelicorn (M), Cattuccino (N) | **adalnie**: Heart Potion |
+| 19:00 | **rainbown758**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×6 | **qlltm**: Albino Monkey (FR), Mistletroll (N) |
+| 19:00 | **TryTank730**: Turtle (NFR), Kangaroo (NFR), Mini Pig (R), Cow (FR) ×2, Goose (R), Cabbit (R), Turtle (FR), Siamese Cat (R), Kangaroo (R), Kangaroo (FR), Albino Monkey (R), Polar Bear (NR), Blue Dog (R), Pet Handler Pro Certificate, Fly-A-Pet Potion, Ride-A-Pet Potion, Werewolf (FR) | **Tal_Kazman**: Giraffe (FR) |
+| 19:00 | **walmartbosslol**: Halloween 2024 Sticker Pack ×2 | **roselion_steven**: Toy Poodle |
+| 19:00 | **Meow_kiti01**: Pet Handler Pro Certificate ×2 | **ni1zuua**: Ride-A-Pet Potion ×4 |
+| 19:00 | **tmdirr**: Ride-A-Pet Potion ×5 | **SESELALA33**: Silverback Gorilla |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
