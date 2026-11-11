@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 20:01 UTC by the scrape workflow._
+_Updated 2026-11-11 20:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 20:01 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 6,579 | 2026-11-11T20:00 |
-| elve | 1 | 1,414 | 2026-11-11T20:01 |
+| amvgg | 1 | 6,886 | 2026-11-11T20:15 |
+| elve | 1 | 1,487 | 2026-11-11T20:16 |
 
-## AMVGG completed trades: 1,451 total
+## AMVGG completed trades: 1,485 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 1,451 |
+| 2026-11-11 | 1,485 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:00 | **Alisjdfhh**: Orchid Butterfly (FR), Mule (MFR), Werewolf, Fairy Bat Dragon (FR) | **racatelas2000**: Werewolf (MFR) |
-| 20:00 | **awrriah**: Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (FR), Chocolate Chip Bat Dragon (R), Goose (R), Unicorn Horn | **ALTACCOUNT1333475**: Cabbit (MFR) |
-| 20:00 | **zwhkyx**: Mighty Haetyphoon Animated Sticker | **Lola_ant34**: Pink Cat Ear Headphones |
-| 20:00 | **puppy_2011owo**: Shetland Pony Light Brown (NR) | **nessapawz**: Ride-A-Pet Potion ×3 |
-| 20:00 | **Antolaly**: Stitches, Bloodhound, Granny Wolf, Merhorse, Orangutan, Pandaguin Glooptodog ×3, Rat, Sasquatch, Scarecrow Horse ×3, Tarantula, Zebra (N) | **Poor_2rich20267**: Ride-A-Pet Potion |
-| 20:00 | **Kipperlekangaroo**: Puffer Fish (MFR) ×3, Fly-A-Pet Potion | **Tal_Kazman**: Cow (NFR) |
-| 20:00 | **alternativepuppyy**: Parrot (FR), Matcha Cat | **thyum_56**: Giant Panda (FR) |
-| 20:00 | **jiigu0**: Toy Monkey (MFR), Penguin (R), Gemstone Egg, Amethyst Skies Mega Neon Paint | **cutesyyxvi**: Turtle (FR) |
-| 20:00 | **lisalixzahablueback**: Moose Calf, Ram, Capybara | **prittiEmEm**: Meerkat |
-| 20:00 | **BlizzardvwQuantumO13**: Nessie (MFR), Cow (NFR) | **werlianess**: Balloon Unicorn (FR) |
-| 20:00 | **EchoXBZTigerZZSparkl**: Velocirooster (MFR) | **stqrfallz**: Sheeeeep (MFR) |
-| 20:00 | **Mikis_oll**: Sugar Glider (R), Pig (R), Dalmatian (FR), Cow (FR), Cow (R), Sugar Glider (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **shotvzn**: Owl (FR) |
-| 20:00 | **suwuteh**: Goldhorn (MR), Space Whale (MFR), Cattuccino (MF), Dire Wolf (MR), Elf Hat | **itwas_f4te**: Cheetah (MFR) |
-| 20:00 | **Biscvidi29**: Kangaroo (FR) | **qPizza_0**: Ride-A-Pet Potion ×17 |
-| 20:00 | **gamingwithabby8787**: Strawberry Shortcake Bat Dragon (MFR), Mini Pig, Cabbit, Garden Egg, Goose, Albino Monkey (R), Dimorphodon | **AseesCr7GoesBoom**: Strawberry Tortle (MFR) |
+| 20:15 | **Hkder09**: Frost Dragon (NFR), Frostbite Bear (R), Grim Dragon (F), Grim Dragon (R), Zombie Buffalo (NFR), Queen Bee (MFR) | **Angelbatista_me2**: Giant Panda (NFR) |
+| 20:15 | **Maryha0243**: Kangaroo (R) | **fotm_dio**:  |
+| 20:15 | **jusyourlocalanimefan**: Candicorn, Kitty Bat (MFR), Sea Angel (M), Starhopper (M), Maine Coon (MR), Narwhal (MR), Cozy Mistletroll (M), Firefighter Gibbon (M), Scarecrow Horse (M), Lionfish (M), Ghost Wolf (MR), Mochi Meow (M), Chocolate Dutch Guinea Pig (R), Strawberry Shortcake Ducky (N), Tiny Wings, Harp Seal, German Shepherd, Officer Gibbon (M) | **xXDreamqcloudsXx**: Latte Kitsune (MFR) |
+| 20:15 | **tokyozxvi**: Arctic Reindeer, Spring Bunny Nose | **lina200r**: Halo, Angel Wings |
+| 20:15 | **koichichip**: Ice Cream Hermit Crab (N) | **carterdelaney1**: Ride-A-Pet Potion ×9 |
+| 20:15 | **Riikka_Takanashiii**: Alicorn (MFR) | **xaviergu0**: Ride-A-Pet Potion ×5 |
+| 20:15 | **mindflaree**: Glormy Dolphin (NR) | **xaviergu0**: Ride-A-Pet Potion ×3 |
+| 20:15 | **FunkyBrodie**: Velocirooster (MFR), Ram (MFR) | **beatsvic**: Cupid Dragon (MFR) |
+| 20:15 | **backsiz**: Candicorn (R) | **meyok_56**: Kangaroo (R) |
+| 20:15 | **juni43259**: Chocolate Chip Bat Dragon (NFR), Fly-A-Pet Potion | **unknow_nentity**: Balloon Unicorn (FR) |
+| 20:15 | **jonerhaver**: Great Pyrenees | **bryanna_yaaa**: Ride-A-Pet Potion |
+| 20:15 | **profrog117**: Chocolate Chow-Chow (N) ×2, Fly-A-Pet Potion, Chocolate Chow-Chow ×6 | **StanleyHayden5**: Copycat |
+| 20:15 | **missy_Artz**: Giant Anteater, Kangaroo (FR) | **rafael32087**: Turtle (FR) |
+| 20:15 | **Megan_megab**: German Shepherd (MR), English Sheepdog (MR), Bunny Swirl (MFR), Hamster (M), Cake Friend (M) ×2 | **MERCEDESE300COUPE**: Cabbit (NFR) |
+| 20:15 | **HelloNoDm**: Cryptid (NR), Cow (R), Candicorn (R), Bunny Swirl (MR), Many Mackerel, Cotton Candy Hat, Hero Mask, Ferris Wheel Hat, Chick Backpack, Pink Butterfly Wings, City Hat, Galaxy Explorer Helmet, Pink Hightops, Cheesecake Hat ×2, Bone Wings, Gold Circle Glasses, Human Feet Shoes | **8mezxlo8**: Frostbite Bear (M) |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
