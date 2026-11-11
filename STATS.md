@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-11 23:16 UTC by the scrape workflow._
+_Updated 2026-11-11 23:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,34 +13,34 @@ _Updated 2026-11-11 23:16 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 1 | 9,992 | 2026-11-11T23:15 |
-| elve | 1 | 2,128 | 2026-11-11T23:16 |
+| amvgg | 1 | 10,286 | 2026-11-11T23:30 |
+| elve | 1 | 2,168 | 2026-11-11T23:31 |
 
-## AMVGG completed trades: 2,018 total
+## AMVGG completed trades: 2,055 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-11 | 2,018 |
+| 2026-11-11 | 2,055 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **luvvr4him**: Candicorn (MFR) ×2 | **obv1kylxx**: Shark Puppy (MFR), Copycat (MFR), 2021 Uplift Butterfly (MFR), Water Moon Bear (M), Candy Cane Snail (MFR) |
-| 23:15 | **wofkgdkdodk**: Copycat (MFR), Munchkin Cat (MR), Shark Puppy (NFR) | **XxxSachaxxX1**: Goose (MFR) |
-| 23:15 | **q_culvs**: Strawberry Shortcake Bat Dragon (NFR), Pink Betta Fish (M) | **cwutemais**: Fairy Bat Dragon (NFR), Chocolate Dutch Guinea Pig (MFR), Ram (MFR) |
-| 23:15 | **sjskbdbsnsks**: Latte Kitsune (R) | **isavi2021**: Ride-A-Pet Potion ×4 |
-| 23:15 | **iLuuvAshie**: Candicorn (R), Cow (FR), Criosphinx (MFR), Bunny Swirl (MFR), Toasty Red Panda (MFR), Panda (MFR), Water Rabbit (MFR) | **sweetn6thing**: Cryptid (FR) |
-| 23:15 | **EmmaShad0wRider4737**: Ride-A-Pet Potion | **realuseris_sh191125**: Crystal Egg ×17 |
-| 23:15 | **cnn1b1lsm**: Fairy Bat Dragon (F), Glacier Kitsune (R), Hare | **Angela019291**: Goose (FR) |
-| 23:15 | **NOBIIIEEE11**: Midnight Dragon (MFR), 2022 Birthday Cake, Toaster Hat | **GraysonFrostHawk89**: Candicorn (MFR) |
-| 23:15 | **jam0khurt**: Mr. Whiskerpips, Leopard Cat | **CuentaFake_84**: Ride-A-Pet Potion |
-| 23:15 | **1UVK1ARA**: Binturong, Brown Springer Spaniel, Black Macaque, Blue Ringed Octopus, Burning Bunny, Giant Blue Scarab, Flower Power Duckling, Golden Jaguar, Highland Cow, Red Squirrel, Puptune, Bauble Buddies, Royal Palace Spaniel, Space Whale, Hamster, Vermilion Butterfly, Sprout Snail, Toasty Red Panda | **prittiEmEm**: Unicorn Horn |
-| 23:15 | **M7M310DYY**: Ride-A-Pet Potion | **madoukvn**: Stitches (M) |
-| 23:15 | **candygirllover73**: Strawberry Penguin (MFR), Matcha Cat ×2 | **roblox_user_8676283275**: Matcha Cat (MFR) |
-| 23:15 | **7ckyy**: Copycat (NR) | **yMMSy**: Flamingo (R), Frost Fury (FR), Fallow Deer (R), Blue Whale (MR), Dango Penguins, Purrowl, Kitsune (R), Golden Rat (R), Metal Ox |
-| 23:15 | **miicxza**: Rain Cloud Hat | **wofkgdkdodk**: Latte Kitsune (NFR) |
-| 23:15 | **xxemmi_0**: Groundhog (MFR), Vanilla Penguin (MFR), Koala (MFR), Spring Bunny Hood | **jellycatmar**: Goat (MFR) |
+| 23:30 | **kathlike82210**: Giant Panda (NFR), Cryptid (NFR), Unicorn Horn, Rain Cloud Hat | **xiakusu**: Hedgehog (MFR) |
+| 23:30 | **dan_agn120**: Koi Carp | **melchipo**: Endangered Egg ×9 |
+| 23:30 | **draxqulla**: Ride-A-Pet Potion ×4 | **GLanceGXxx**: Spring Bunny Hood |
+| 23:30 | **Maxi_papucho1**: Scarebear (MFR), Glacier Moth, Chocolate Dutch Guinea Pig, Flaming Fox (R) | **charsuperdude**: Shark Puppy (NFR) |
+| 23:30 | **Onyx_ctr**: Retired Egg ×18 | **MillieIsAmazingLol**: Albino Bat |
+| 23:30 | **iris2012septiembre1**: Science Hat, Retired Egg ×14 | **MillieIsAmazingLol**: Cotton Candy Hat |
+| 23:30 | **l3gavaya**: Candicorn (FR), Ride-A-Pet Potion | **vaporeonxD300**: Kangaroo (FR) |
+| 23:30 | **Urfavorite1225**: Turtle (NFR), Cow (NFR), Fairy Bat Dragon (FR), Crocodile (FR), Arctic Dusk Dragon (FR), Highland Cow (NR) | **xKashaf**: Parrot (FR) |
+| 23:30 | **Lilsx10x**: Dragonfruit Fox (MFR), Polar Bear (MFR), Husky (MFR) | **roblox_user_8676283275**: Strawberry Penguin (MFR) |
+| 23:30 | **AndresPatato**: Shih Tzu (M) ×3 | **raeshiia**: Ride-A-Pet Potion |
+| 23:30 | **MatiXD12306**: Blue Cat Ear Headphones | **Puppyofskz**: Volcanic Boots, Cheese Hat |
+| 23:30 | **cuutiesvvgift**: Dragonfruit Fox (MFR), Binturong (MFR) | **roblox_user_8676283275**: Polar Bear (MFR) |
+| 23:30 | **zerotocupiddragon**: Fairy Bat Dragon, Jester Dragon | **CaracasanaUuU**: Jester Dragon (NFR) |
+| 23:30 | **FaIesi**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Soffi_nas7**: Copycat |
+| 23:30 | **AnnDemon_12**: Icy Porcupine (NR), Fairytale Egg ×5 | **Zuminkikiki**: Kitty Biscuit |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
