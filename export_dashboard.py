@@ -113,3 +113,83 @@ for c in gg:
 rows = sorted(({"item": k, **v, "total": v["elve"] + v["amvgg"]} for k, v in busy.items()), key=lambda r: -r["total"])
 write("most_changed.csv", rows[:20], ["item", "elve", "amvgg", "total"])
 print("elve batches stored:", len(elve_batches), "| 90-day window from", cut)
+
+# ---- Pet explorer -------------------------------------------------------------------------
+# Variant codes: r/n/m = normal/neon/mega, fr/np = fly ride/no potion. AMVGG's headline values are fly ride.
+ELVE_LABELS = {"default no potion": "r-np", "default fly ride": "r-fr", "neon no potion": "n-np",
+               "neon fly ride": "n-fr", "mega no potion": "m-np", "mega fly ride": "m-fr"}
+ELVE_SNAP = {"r-np": "rvalue - nopotion", "r-fr": "rvalue - fly&ride", "n-np": "nvalue - nopotion",
+             "n-fr": "nvalue - fly&ride", "m-np": "mvalue - nopotion", "m-fr": "mvalue - fly&ride"}
+GG_SNAP = {"r-fr": "regularValue", "n-fr": "neonValue", "m-fr": "megaValue",
+           "r-np": "npRegularValue", "n-np": "npNeonValue", "m-np": "npMegaValue"}
+GG_UPD = {"Regular": "r-fr", "Neon": "n-fr", "Mega": "m-fr"}
+TILE = 96
+
+
+def key(name):
+    return " ".join(str(name).lower().replace("’", "'").split())
+
+
+def latest_snapshot(source):
+    f = snaps[source][-1]
+    return json.loads(gzip.decompress(f.read_bytes())), f.name[:16]
+
+
+elve_snap, elve_at = latest_snapshot("elve")
+gg_snap, gg_at = latest_snapshot("amvgg")
+gg_by = {key(i["name"]): i for i in gg_snap}
+wiki = {key(i["name"]): i for i in json.loads((DATA / "catalog.json").read_text(encoding="utf-8")) if i["category"] == "pets"} \
+    if (DATA / "catalog.json").exists() else {}
+
+pets = sorted((i for i in elve_snap if i.get("type") == "pets" and i.get("name")), key=lambda i: i["name"])
+
+# each pet's wiki image as a small base64 WebP (the dashboard only shows data: images; no comma, so CSV-safe)
+import base64, io
+from PIL import Image
+imgs = []
+for p in pets:
+    w = wiki.get(key(p["name"]))
+    f = DATA / "images" / "pets" / f"{w['kind']}.png" if w else None
+    if f and f.exists():
+        im = Image.open(f).convert("RGBA")
+        im.thumbnail((TILE, TILE))
+        buf = io.BytesIO()
+        im.save(buf, "WEBP", quality=85, method=6)
+        imgs.append({"pet": p["name"], "b64": base64.b64encode(buf.getvalue()).decode()})
+write("pet_images.csv", imgs, ["pet", "b64"])
+
+rows = []
+for p in pets:
+    g, w = gg_by.get(key(p["name"]), {}), wiki.get(key(p["name"]), {})
+    r = {"pet": p["name"], "rarity": p.get("rarity", ""), "origin": w.get("origin", ""),
+         "elve_at": elve_at, "amvgg_at": gg_at if g else ""}
+    for v, f in ELVE_SNAP.items():
+        r[f"elve_{v}"] = p.get(f, "")
+    for v, f in GG_SNAP.items():
+        r[f"amvgg_{v}"] = g.get(f, "")
+    r["amvgg_demand"] = g.get("regularDemand", "")
+    rows.append(r)
+write("pets.csv", rows, list(rows[0]))
+
+pet_names = {key(p["name"]): p["name"] for p in pets}
+hist = []
+first = set()
+for c in sorted(elve, key=lambda c: c["effectiveAt"]):
+    v, name = ELVE_LABELS.get(c["label"]), pet_names.get(key(c["name"]))
+    if not (v and name):
+        continue
+    if (name, "E", v) not in first and c["previousValue"] is not None:  # starting value before the first change
+        first.add((name, "E", v))
+        hist.append({"pet": name, "src": "E", "v": v, "t": c["effectiveAt"][:16], "value": float(c["previousValue"])})
+    hist.append({"pet": name, "src": "E", "v": v, "t": c["effectiveAt"][:16], "value": float(c["newValue"])})
+for c in sorted(gg_raw, key=lambda c: c["updatedAt"]):
+    name = pet_names.get(key(c["itemName"]))
+    for col, v in GG_UPD.items():
+        if not name or c.get(f"new{col}Value") is None:
+            continue
+        if (name, "A", v) not in first and c.get(f"previous{col}Value") is not None:
+            first.add((name, "A", v))
+            hist.append({"pet": name, "src": "A", "v": v, "t": c["updatedAt"][:16], "value": float(c[f"previous{col}Value"])})
+        hist.append({"pet": name, "src": "A", "v": v, "t": c["updatedAt"][:16], "value": float(c[f"new{col}Value"])})
+write("pet_history.csv", hist, ["pet", "src", "v", "t", "value"])
+print("matched to AMVGG:", sum(1 for p in pets if key(p["name"]) in gg_by), "/ with image:", len(imgs), "of", len(pets), "pets")
