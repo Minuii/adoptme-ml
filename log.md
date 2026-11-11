@@ -77,3 +77,7 @@ The old Google Sheet (`amvgg_trades_completed`, ~20k trades, May 20 to June 9, 2
 - **History found.** Elvebredd's `/value-updates/<n>` pages embed every change since 2023-09-16 (2,387 batches), so the Phase 0 history check passes. AMVGG's `/api/value-updates` goes back to 2026-06-02 (~7,500 updates). Backfilled both locally.
 - First Elve backfill attempt died on a DNS blip, and probing AMVGG too fast got a 429. Added retry with backoff to `fetch` and a 6 s delay between AMVGG pages.
 - Added `STATS.md`, rewritten every run, to watch data accumulate on GitHub. A Google Sheet mirror is planned next.
+- AMVGG backfill done: 7,499 changes (2026-06-02 → 2026-11-10). About 1,170 of them are **demand changes** (e.g. Neon Medium → High) or single-value non-pet items, and `load_amvgg_updates()` keeps both. Demand shifts may lead value changes, so they're worth testing as a feature.
+- The Elve backfill was too slow oldest-first (~14 s/batch, 1.9 MB pages; est. 4–9 h total). Switched to **newest first** so recent months land first, and restarted. 184 batches (Sep 2023 to Mar 2024) were already pushed.
+- **Elve sync is commented out of `auto`** until the local backfill is pushed, so the bot and the local run don't both write `data/elve_updates/`. Re-enable it afterwards.
+- No scheduled GitHub run has fired yet (only the two manual runs at 10:39/10:40 UTC). GitHub often delays a new repo's first cron runs. Check again later.
