@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 20:25 UTC by the scrape workflow._
+_Updated 2026-11-12 20:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 20:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 30,179 | 2026-11-12T20:15 |
-| elve | 2 | 6,146 | 2026-11-12T20:16 |
+| amvgg | 2 | 30,456 | 2026-11-12T20:30 |
+| elve | 2 | 6,195 | 2026-11-12T20:31 |
 
-## AMVGG completed trades: 5,239 total
+## AMVGG completed trades: 5,253 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,148 |
+| 2026-11-12 | 3,162 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:30 | **miraahuntrix**: Goose (FR), Fly-A-Pet Potion ×9, Pet Handler Pro Certificate, Ride-A-Pet Potion ×4 | **Ak246868**: Strawberry Shortcake Bat Dragon (FR) |
+| 20:30 | **AnnDemon_12**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×8 | **linksss12401**: Sugar Glider (FR) |
+| 20:30 | **Mymm2only**: Alicorn, Billy Goat, Stitches (N) | **girlbyegirl12**: Ride-A-Pet Potion |
+| 20:30 | **NotCookie810**: Pet Handler Pro Certificate | **pinkwolfpz_lolo**:  |
+| 20:30 | **butterflies4yuob**: Chocolate Chip Bat Dragon (FR), Sugar Glider (FR), Cow (FR), Goose (FR), Albino Monkey (FR) | **PuhonaBeri**: Parrot (FR) |
+| 20:30 | **schilan225**: Dalmatian (R), Aurora Fox (FR), Polar Bear (R) | **Abvisse**: Goose (NFR) |
+| 20:30 | **cami160313**: Rain Boots | **blake_shortie**: Fly-A-Pet Potion |
+| 20:30 | **Suhovi_Andre**: Rain Cloud Hat, Copycat ×2, Jester Dragon (N) | **BREEZY_LOVER1**: Strawberry Shortcake Bat Dragon |
+| 20:30 | **celedkaOwO**: Fly-A-Pet Potion ×3, Golden Lettuce, Ride-A-Pet Potion ×2 | **ThatMossyLog**: Sugar Axolotl (FR) |
+| 20:30 | **Sunnyvice**: Caterpillar (FR), Unicorn Horn | **VanillaChxry**: Cow (FR) |
+| 20:30 | **daanz2**: Turtle (FR) ×2, Kangaroo (R), Elephant (R) | **gffdjddd23_4**: Cow (R), Goose, Pig, Meerkat (FR), Fly-A-Pet Potion ×2 |
+| 20:30 | **Pupppy457**: Strawberry Tortle (N) | **realuseris_sh191125**: Strawberry Tortle (R), Cow (R) ×2, Flamingo (R), Bush Elephant (R) |
+| 20:30 | **kkaatEEe2**: Ride-A-Pet Potion | **STAZ638**: Boohoo (M) |
+| 20:30 | **StarShoppingxxpeep**: Binturong (NR) | **NYANINV**: Tuxedo Cat (N) |
 | 20:25 | **Adduser_rruinedsoul**: Frost Dragon (FR), Copycat ×3, Dark Choccybunny (M) | **Nazar_5555589**: Candicorn (MFR), Candicorn (M) |
-| 20:25 | **Dusha010101**: Strawberry Tortle ×2, Fly-A-Pet Potion, Ride-A-Pet Potion, Pancake Stack | **snyyyp**: Latte Kitsune (MFR) |
-| 20:25 | **wolfssenpai**: Drake (M), T-Rex (NFR) | **Angi_2oo7**: Nessie (NFR) |
-| 20:25 | **KsuKsuVzlomali**: Copycat (R) | **Biabr105**: Bready Necklace, Cotton Candy Hat, Strawberry Clip, Strawberry Shortcake Bow, Llamalush Purse Pet, Pink Butterfly Wings, Picnic Basket, Eaten Donut, Bee Hive, Pink Hightops, Alley Cat |
-| 20:25 | **cxbvnniz**: Tiny Wings, Snow Owl (MFR) | **ykitz_mazz**: Count Slothula (M) |
-| 20:25 | **MiaxLia_preppy**: Munchkin Cat, German Shepherd (NR), Samoyed (MFR), Skelicorn (M), Onza (M), Thunderfisher (N) | **orchidbutterfliess**: Siamese Cat |
-| 20:25 | **ScxsBlood**: Pupcake (MR) | **orchidbutterfliess**: Arctic Fox (R) |
-| 20:25 | **jobma228**: Hedgehog, Dalmatian (FR), Crocodile | **laila53749**: Parrot (FR) |
-| 20:25 | **jobma228**: Pig (FR), Clownfish, Patchy Bear (N) | **luvyerh**: Ride-A-Pet Potion ×10 |
-| 20:25 | **albbays**: Arctic Dusk Dragon (R) | **0ali_ice0**: Dango Penguins, Ginger Cat (MR), Tuxedo Cat |
-| 20:25 | **Maxi_papucho1**: Shark Puppy (NFR) | **hensij3n**: Alpaca (R), Albino Monkey (FR), Chocolate Dutch Guinea Pig (F), Chocolate Dutch Guinea Pig, Kitty Biscuit |
-| 20:25 | **vjhjskh456**: Aztec Egg ×18 | **cat_meyaw**: Ride-A-Pet Potion |
-| 20:25 | **zow_98alt**: Frost Unicorn (FR) | **angeIicue**: Cerberus (MFR) |
-| 20:25 | **mommy_vka123**: Goose, Kookaburra (FR) | **ammadOwO2**: Elephant (R), Crocodile (R), Irish Water Spaniel (R) |
-| 20:25 | **Panda39643**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **mommy_vka123**: Copycat |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
