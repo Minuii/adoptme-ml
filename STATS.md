@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 09:31 UTC by the scrape workflow._
+_Updated 2026-11-12 09:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 09:31 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 20,000 | 2026-11-12T09:30 |
-| elve | 2 | 4,011 | 2026-11-12T09:31 |
+| amvgg | 2 | 20,232 | 2026-11-12T09:45 |
+| elve | 2 | 4,042 | 2026-11-12T09:45 |
 
-## AMVGG completed trades: 3,216 total
+## AMVGG completed trades: 3,263 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,125 |
+| 2026-11-12 | 1,172 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:30 | **yeahimswagyeah**: Strawberry Shortcake Bat Dragon (FR) ×2, Hedgehog (FR), Goose (R) ×2, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3, Cattuccino (N) | **VurAlAbi**: Frost Dragon (FR) |
-| 09:30 | **lina200r**: Goose (NFR), Strawberry Shortcake Bat Dragon (FR), Hare (NFR), Cupid Dragon (FR), Chocolate Dutch Guinea Pig | **Abvisse**: Parrot (FR) |
-| 09:30 | **putridiecro**: Kangaroo (NFR) | **kittyrocksi**: Sakura Spirit (NFR) |
-| 09:30 | **Kit_tblmamymav1**: Dragonfruit Fox (NR) | **1con1c_wowow**: Munchkin Cat (R) |
-| 09:30 | **gonewiththesln**: Skelicorn (M), Bolt (M) | **sealbup**: Cattuccino (M) |
-| 09:30 | **Mitsuri_Chan0w**: Frost Dragon (FR), Bat Dragon (FR), Unicorn Horn ×2 | **kiaraaalol1**: Shadow Dragon (NFR) |
-| 09:30 | **x4N07a**: Mummy Spider (M), Patchy Bear (M), Zebra (M) | **sooming09**: Ride-A-Pet Potion ×2 |
-| 09:30 | **ratatyu345gg**: Goat (R), Field Mouse, Matcha Cat (FR), Sheeeeep (R), Flaming Fox (N), Ride-A-Pet Potion, Shrew (R) | **sakotfzg**: Mini Pig (FR) |
-| 09:30 | **cya_adoptmechallange**: Fairy Bat Dragon (MFR), Unicorn (R) | **mm2onlytrading**: Blazing Lion (FR), Evil Unicorn |
-| 09:30 | **sweetbwunnii**: Skunk (MFR) | **viltpool**: Angus Bull (MR), Cattuccino (N) |
-| 09:30 | **hannahsfaeriixo**: Retired Egg ×3 | **NastyaMillkk**: Mochi Meow |
-| 09:30 | **kkaatEEe2**: Peachick ×2, Flower Aura | **sooming09**: Ride-A-Pet Potion |
-| 09:30 | **sofiadindang**: Pig (R) | **layla_132542**: Harp Seal (NR), Ride-A-Pet Potion, Blue Cat Ear Headphones, Chihuahua ×2 |
-| 09:30 | **littlestofcilla**: Kitsune (FR), Pinkypillar (N) | **themudwizard**: Ride-A-Pet Potion |
-| 09:30 | **rikaproxyzz**: Phoenix (N), Magma Snail | **Tamara_dieloste2010**: Sushi Penguin (NR) |
+| 09:45 | **myBestiVlad2380**: Pancake Stack, Lemonade Stand | **rover243ro**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 09:45 | **Diro1489**: Velocirooster, Count Slothula (N), Moose Calf | **Tal_Kazman**: Mechapup (FR) |
+| 09:45 | **miko_nyaw01**: Ice Cream Cone Hat, Spring Bunny Nose, Propeller Hat, Spring Bunny Feet, Goth Shoes ×3, Ride-A-Pet Potion ×2 | **Tal_Kazman**: 2022 Birthday Party Hat |
+| 09:45 | **aydachan200311**: Giant Panda (FR), Giant Panda, Blazing Lion (FR), Strawberry Shortcake Bat Dragon (FR), Tiny Wings, 2022 Birthday Party Hat, Fly-A-Pet Potion ×2 | **Looey20072**: Shadow Dragon (FR) |
+| 09:45 | **zeejnaa**: Candicorn (NFR), Candicorn (NR), Turtle (FR), Kangaroo | **Tal_Kazman**: Shark Puppy (MFR) |
+| 09:45 | **EVGPOP90**: Brachiosaurus (NFR), Thunderfisher | **Jdhsoand**: Harp Seal |
+| 09:45 | **Raachiohoot**: Gold Mahi Mahi (N), Parakeet (N) ×2, Zebra (N), Donkey (N) ×2, Mahi Mahi (N) ×2, Mouse (N) ×2 | **waykner**: Ride-A-Pet Potion |
+| 09:45 | **ahojkakacahoj**: Dolphin (NR), King Bee (FR) | **lashasha_123**: Happy Duckling (N) |
+| 09:45 | **adoreaysh**: Balloon Unicorn (MFR) | **XxAshleighGamingxX**: Bat Dragon (FR), Balloon Unicorn (NFR) |
+| 09:45 | **0qwc0**: Pet Handler Pro Certificate, Chihuahua | **AJEstoGaming**: Alley Cat |
+| 09:45 | **0qwc0**: Tortuga de la Isla (FR), Ride-A-Pet Potion | **Stxrrynight0303**: Chocolate Dutch Guinea Pig (NR) |
+| 09:45 | **SaltnPepperStuff**: Shih Tzu (M), Hopbop (M), Ghost Wolf (N), Happy Duckling | **flwryeaa**: Ride-A-Pet Potion ×2 |
+| 09:45 | **sprinklelove159**: Aestus (FR), Swan (R) | **CKIRLI_CKIRLI012**: Ballet Swan (R) |
+| 09:45 | **z3rodayer**: Cerberus (FR) | **sursyrzytxurzutzutz**: Kitty Bat ×2 |
+| 09:45 | **Kaonimy**: Jacobin Pigeon (M) | **Legion_Army15**: Ginger Cat (N) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
