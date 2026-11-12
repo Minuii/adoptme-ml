@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 17:40 UTC by the scrape workflow._
+_Updated 2026-11-12 17:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,20 +13,26 @@ _Updated 2026-11-12 17:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 27,504 | 2026-11-12T17:30 |
-| elve | 2 | 5,555 | 2026-11-12T17:31 |
+| amvgg | 2 | 27,765 | 2026-11-12T17:45 |
+| elve | 2 | 5,584 | 2026-11-12T17:45 |
 
-## AMVGG completed trades: 4,682 total
+## AMVGG completed trades: 4,688 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 2,591 |
+| 2026-11-12 | 2,597 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 17:45 | **BARENIK_229**: Pandaguin Glooptodog (M) | **safir_va**: Fly-A-Pet Potion |
+| 17:45 | **Anya_Nuta**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6, Scorching Kaijunior, Shiver Wolf (NR) | **Militaryi_CorTak**: Ballet Swan ×4 |
+| 17:45 | **Altnummber_28**: Frost Dragon (FR), Bat Dragon, 2022 Birthday Party Horn | **Insano_V48**: Shadow Dragon (NFR) |
+| 17:45 | **kaibodydump**: Undead Jousting Horse (R) ×2, Undead Jousting Horse | **rixen5353**: Cryptid (FR) |
+| 17:45 | **daanz2**: Binturong (MFR), Glormy Dolphin (M), Jester Dragon, Dire Wolf (MR), Blue Boohoo Mega Neon Paint, Tropical Surge Mega Neon Paint | **Jakaraz1981**: Cow (FR) |
+| 17:45 | **You_kwin666**: Little Lamb (NR), Quetzalcoatl (R) | **AndresPatato**: Ride-A-Pet Potion |
 | 17:40 | **jam0khurt**: Leopard Cat, Gingerbread Mouse, Trapdoor Snail | **kath10890**: Ride-A-Pet Potion |
 | 17:40 | **Lyrr40**: 2022 Birthday Cake, Yeti | **adam12345c10**: Tiny Wings ×2, Pancake Stack |
 | 17:40 | **sunFoxoxx**: Cow (FR), 2022 Birthday Cake | **Lyrr40**: Chocolate Chip Bat Dragon |
@@ -36,12 +42,6 @@ _Updated 2026-11-12 17:40 UTC by the scrape workflow._
 | 17:40 | **CatsAreCute_eh**: Magic House Door | **TaisiaRas**: Netzooka, Ice Cream Plush |
 | 17:40 | **Belen7267**: Catte (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Alex_ShatUp**: Turtle (FR) |
 | 17:40 | **pawthetiic**: Milk Choccybunny (M), Sabertooth ×5 | **une_portuguese**: Ride-A-Pet Potion |
-| 17:40 | **edi84456**: Unicorn Horn | **ekitten9934**: Flamingo (FR) |
-| 17:40 | **cxltwaste**: Owl (FR), Rain Cloud Hat, Angel Wings, Sakura Spirit (FR) ×2 | **Makie0104**: Frost Dragon (FR) |
-| 17:40 | **salman_SAD123**: Glormy Dolphin (MR), Shark (NFR), Scarebear (NR), Ghostly Cat (MR), Dire Wolf (MR), Dragonfruit Fox (R), Ninja Monkey (FR), Black Panther | **l4ylur**: Hot Doggo (FR) |
-| 17:40 | **zoommbbeee**: Sushi Penguin (FR) | **poortoorich147**: Ride-A-Pet Potion |
-| 17:40 | **WhinyBuny**: Crow (FR), Crocodile (FR), Ride-A-Pet Potion | **MatWhereTheCatSat**: Cryptid (R), Strawberry Shortcake Bat Dragon (FR) |
-| 17:40 | **jam0khurt**: Space Whale, Kelp Raider ×2 | **catgirl718**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
