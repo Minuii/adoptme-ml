@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 22:45 UTC by the scrape workflow._
+_Updated 2026-11-12 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,32 +16,32 @@ _Updated 2026-11-12 22:45 UTC by the scrape workflow._
 | amvgg | 2 | 32,570 | 2026-11-12T22:45 |
 | elve | 2 | 6,599 | 2026-11-12T22:45 |
 
-## AMVGG completed trades: 5,611 total
+## AMVGG completed trades: 5,677 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,520 |
+| 2026-11-12 | 3,586 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **bastiANIT01**: Copycat, Sakura Spirit (F), Ride-A-Pet Potion | **MHE_noXyN78**: Candicorn |
-| 22:45 | **ch0colatadafresca**: Jester Dragon (FR) | **NotSunsetPlaysRoblox**: Ride-A-Pet Potion ×7 |
-| 22:36 | **Kelssakura**: Cryptid (NFR), Werewolf (NFR), Unicorn Horn, Werewolf (R) ×3, Tiny Wings, Alpaca | **ysuidkwkwksjd**: Mini Pig (MFR) |
-| 22:30 | **Dessertsandfoods**: Mr. Whiskerpips (MR), Ride-A-Pet Potion, Gemstone Egg, White Chef Hat | **thebadbiotcsh**: Mr. Whiskerpips (MFR) |
-| 22:30 | **SharkuKy_Trades**: Shark (NFR) | **Piggyrocket09**: Frost Fury (FR) |
-| 22:30 | **kroko182**: Kangaroo (NR), Gibbon (MR), Humbug (MFR), Campfire Stories Mega Neon Paint | **xqunovax**: Flaming Fox (MFR) |
-| 22:30 | **pawsxmilli**: Flaming Fox (MFR), Cabbit (R), Panda (MFR), Tuxedo Cat (MFR), 2022 Birthday Cupcake Shoes, Spring Bunny Hood, Spring Bunny Nose, Spring Bunny Feet, Chocolate Dutch Guinea Pig (NR), Shetland Pony Dark Brown (MFR) | **xqunovax**: Balloon Unicorn (FR) |
-| 22:25 | **WeirdKage**: Shadow Dragon (FR), Frost Dragon (FR) | **ADOPTME_TRADE596**: Bat Dragon (FR) |
-| 22:25 | **lovegames20000**: African Wild Dog (FR) | **suun_202**: Rainbow Maker, 2022 Birthday Cupcake Shoes, Elephant (FR), Lion Cub (NFR), Goldhorn (NR), Catte (N) |
-| 22:25 | **getouthewayy**: Frost Dragon (NFR), Pet Handler Pro Certificate, Ride-A-Pet Potion ×3, Pain au Chat | **REyC0131**: Owl (FR), Frost Dragon (FR) |
-| 22:25 | **hello_oliya**: Giraffe (FR), Strawberry Shortcake Bat Dragon (R), Unicorn Horn, Werewolf, Border Collie | **mikanchip**: Owl (NFR) |
-| 22:25 | **loommugg**: Blue Boohoo Mega Neon Paint | **manuaxolotyorignl**: Ride-A-Pet Potion |
-| 22:25 | **lox_pon003**: Ancient Dragon, Golden Dragon, Stray Cat Dragon, Dragon, Purrowl, Alicorn, Diamond Griffin, Rosy Maple Moth, Huntsman Robin, Rubber Ducky (N) | **heladitoooUnU**: Ride-A-Pet Potion |
-| 22:25 | **RBstela**: Fossil Egg | **xo1qn**: Cherry Blossom Flower Sticker ×18 |
-| 22:25 | **The1AndOnlyClyde**: 2022 Birthday Party Hat, Unicorn Horn, Tiny Wings ×2 | **Gabriele143love**: Rainbow Maker |
+| 22:55 | **Jeansppk**: Moped | **Max_C0r3**: Ride-A-Pet Potion |
+| 22:55 | **Krismasterdang**: African Wild Dog (FR), Evil Unicorn (FR), Cow (FR), Ride-A-Pet Potion | **Frdvhev**: Frost Dragon (FR) |
+| 22:55 | **jazminvera112**: Butter Knife, Blue Cat Ear Headphones, Burger Boots | **blake_shortie**: Spring Bunny Nose |
+| 22:55 | **yanaramadhan**: Chocolate Chip Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (FR), Cow (FR), Ride-A-Pet Potion | **Rbd_JP**: Phantom Dragon (MFR), Candicorn (MFR), Sea Slug (MFR), Shark Puppy (MFR), Tiny Wings, Ice Cream Cone Hat, Ketchup and Mustard Jetpack |
+| 22:55 | **fox_100l**: Copycat (N), Lion Cub, Ride-A-Pet Potion ×2 | **itsmeh_shinraa**: Mini Pig (FR) |
+| 22:55 | **jmarie813**: Mini Pig (FR) ×2, Jester Dragon (N), Spring Bunny Hood | **itsmeh_shinraa**: Cryptid (F) |
+| 22:55 | **razarvale2z**: Turtle (FR) | **TANSKlN**: Arctic Fox (NFR) |
+| 22:55 | **camskyyVICTORY**: Siamese Cat (FR), 2022 Birthday Party Horn | **Yakkuji**: Cow (R), Ride-A-Pet Potion |
+| 22:55 | **aavqaii**: Dango Penguins | **OJC_Star45**: Count Slothula ×3 |
+| 22:55 | **landenc9970i**: Aestus ×2, Solaris | **kkaatEEe2**: Ride-A-Pet Potion ×5 |
+| 22:55 | **xmikaeq**: German Shepherd (MR), Rain Boots | **closestIovetoheaven**: Sushi Penguin (MFR) |
+| 22:55 | **lamasprodetufeavida0**: Chicken (NFR), Turkey (R) | **BudakBaran7**: Copycat |
+| 22:55 | **ELASTICHXRT**: Aurora Fox (MFR) | **Ineffa08**: Copycat (MFR) |
+| 22:55 | **cyptiaI**: Unfortunate Eyelashes | **no_xwifi1**: Ride-A-Pet Potion |
+| 22:55 | **Ane4k_amane4ka**: Criosphinx, Electric Hornet, Rosy Maple Moth | **Lxdyxx**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
