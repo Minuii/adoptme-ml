@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 23:45 UTC by the scrape workflow._
+_Updated 2026-11-12 23:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,32 +16,32 @@ _Updated 2026-11-12 23:45 UTC by the scrape workflow._
 | amvgg | 2 | 33,492 | 2026-11-12T23:45 |
 | elve | 2 | 6,782 | 2026-11-12T23:45 |
 
-## AMVGG completed trades: 5,786 total
+## AMVGG completed trades: 5,833 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,695 |
+| 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:45 | **Keith_goned**: Stray Cat Dragon ×4, Starfish (N), Tealwood Monster | **noki123good**: Count Slothula |
-| 23:45 | **IshAshtly**: Gemstone Egg, Crystal Egg ×3, Admin Abuse Egg, Alicorn, Quetzalcoatl | **frrisstaill**: Ride-A-Pet Potion |
-| 23:45 | **Ally808101**: Arctic Fox (MFR), Brown Springer Spaniel (MFR), Halo, Tiny Wings | **No_R3gretz**: Sakura Spirit (MFR) |
-| 23:30 | **PhoenixForever09**: Flamingo (NFR), Mini Pig (FR), Kangaroo (NFR), Albino Monkey (FR), Hot Doggo (R), Unicorn Horn, Shiba Inu | **gogoyurio**: Owl (FR) |
-| 23:30 | **1sabxllaa**: Dogmobile | **bryanna_yaaa**: Fly-A-Pet Potion |
-| 23:30 | **iLuuvAshie**: Dragonfruit Fox (MR), German Shepherd (MFR), English Sheepdog (MFR), Zombie Wolf (MFR), Dire Wolf (MFR), Waffle Wyrm (MR) | **Svdanurrr**: Cryptid (FR) |
-| 23:30 | **Auds191102**: Shrew (MFR) | **Alexa183199**: Rainbow Maker, Unicorn Horn, 2022 Birthday Party Hat |
-| 23:30 | **chrxmaxc**: Copycat (R), Strawberry Penguin, Snow Owl (R), Golden Penguin (FR), Cobra (FR), Dango Penguins, Sushi Penguin, Puffer Fish, Pet Handler Pro Certificate, French Bulldog | **oneloveus**: Turtle (FR) |
-| 23:30 | **landenc9970i**: Cattuccino (N) ×2, Leopard Cat (NR) | **ch0colatadafresca**: Ride-A-Pet Potion ×3 |
-| 23:30 | **headaddisonraestan**: Bat Dragon (FR) | **Monkeyand930**: Safari Egg, Candy Cannon, Cryptid (FR) ×2, Flying Broomstick, Diamond Butterfly (R), Tombstone Ghostify, Tio De Nadal |
-| 23:30 | **Vansderrl**: Hedgehog (FR), Arctic Reindeer (FR) ×4, Arctic Reindeer (R), Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR), Cow (NFR), Monkey King (FR) ×2, Brown Bear (N) | **MERCEDESE300COUPE**: Bat Dragon (FR) |
-| 23:30 | **e1ivr**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) ×5, Chocolate Chip Bat Dragon (R) | **MrToy40**: Frost Dragon (NFR) |
-| 23:30 | **razarvale2z**: Turtle (FR) | **Lilypupper42**: Arctic Fox (NFR) |
-| 23:30 | **luvyerh**: Arctic Fox (R), Fly-A-Pet Potion | **llhgululu**: Pig (FR) |
-| 23:30 | **luvyerh**: Crocodile, Fly-A-Pet Potion | **22veils**: Crocodile (FR) |
+| 23:55 | **kobetheadmin**: Glyptodon (M) | **MaxxieThePuppy**: Caelum Cervi |
+| 23:55 | **Pinkypeacelove**: Brown Bear | **Leviodas**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 23:55 | **luvyerh**: Elephant (FR) | **adriel_24k**: Crocodile (FR), Ride-A-Pet Potion ×2 |
+| 23:55 | **z3k0_abz**: Panda (NFR) | **Officalyuichi**: German Shepherd (N) |
+| 23:55 | **bellada1frr**: Unicorn Horn | **Kvammletitraketa**: Alley Cat (N), Cattuccino (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion, Gemstone Egg |
+| 23:55 | **Alyssaok_2000**: Bolt (M), Black Rhino (M) ×2 | **XzMonolds**: Pet Handler Pro Certificate |
+| 23:55 | **Isaticas**: Rainbow Maker, Ride-A-Pet Potion | **KobyPlayyz**: Arctic Reindeer (FR) |
+| 23:55 | **noki123good**: Pupcake (MFR) | **danieljuegavip**: Munchkin Cat |
+| 23:55 | **starrykniightt**: Giraffe (FR), Owl (FR), Haetae (NFR), Mini Pig (NFR), Strawberry Shortcake Bat Dragon (NFR) ×2, Evil Unicorn (FR), Goose (NFR), Cow (NFR), Seabed Creeper (M), Strawberry Shortcake Bat Dragon (FR) ×2, Cow (FR) | **wherearewenow5**: African Wild Dog (MFR), Fairy Bat Dragon (FR) |
+| 23:55 | **smudgepuffs**: Web Stroller | **xhoneypot_x**: Ride-A-Pet Potion |
+| 23:55 | **ThePandaix**: Parrot (NFR), Kangaroo (NFR), Cow (FR), Unicorn (MFR) | **trythisrye8**: Giraffe (FR), Alpaca (R) |
+| 23:55 | **bakedkole**: Ride-A-Pet Potion | **linds24k**: Toy Monkey |
+| 23:55 | **GTXZR9_z**: Fly-A-Pet Potion ×11, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **Zyrox_13aa**: Sugar Glider (FR) |
+| 23:55 | **xXCyber_GodsXx**: Haetyphoon | **knifeandfork_99**: Cozy Cabin |
+| 23:55 | **Queendarcie17**: Arctic Fox (NFR) | **momhatemeuwu**: Candicorn (NFR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
