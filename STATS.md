@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 06:16 UTC by the scrape workflow._
+_Updated 2026-11-12 06:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 06:16 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 17,033 | 2026-11-12T06:15 |
-| elve | 2 | 3,462 | 2026-11-12T06:16 |
+| amvgg | 2 | 17,263 | 2026-11-12T06:30 |
+| elve | 2 | 3,493 | 2026-11-12T06:31 |
 
-## AMVGG completed trades: 2,881 total
+## AMVGG completed trades: 2,905 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 790 |
+| 2026-11-12 | 814 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:15 | **0MGSARAY**: Evil Unicorn (FR) ×2, Wolpertinger (M), Black Marlin (M) | **babyspider002**: Owl (FR) |
-| 06:15 | **pawispiwis**: Jester Dragon (FR) | **queenmaya773**: Copycat |
-| 06:15 | **lightskinbaddie4560**: Dragonfruit Fox, Llama (R), Yellow Butterfly (N), Sabertooth (N) | **RESTRlCTI0N**: Llama (NR) |
-| 06:15 | **anekalubitnaruto**: Red Dutch Guinea Pig (MFR), Ride-A-Pet Potion | **obv1kylxx**: 2022 Birthday Party Hat ×2, Unicorn Horn |
-| 06:15 | **RESTRlCTI0N**: Hamster (MFR) | **heladitoooUnU**: Ride-A-Pet Potion ×4 |
-| 06:15 | **vcloss**: Sheeeeep ×4 | **Jellybeans_8789**: Flash Weasel |
-| 06:15 | **rawrvampy**: Dalmatian, Goose, Alley Cat, Alpaca (R) | **not_bot555**: Christmas Pudding Pup (NR) ×4, Christmas Pudding Pup ×2, Ride-A-Pet Potion, Irish Elk (N) |
-| 06:15 | **izek2tuff**: Fly-A-Pet Potion ×18 | **odading12318**: Mini Pig |
-| 06:15 | **cabbitfann1**: Candicorn (NFR), Toaster Hat | **Ishabns01**: Chocolate Chip Bat Dragon (FR) |
-| 06:15 | **2creme1sucre**: Water Rabbit, Red Panda (N) | **Redpyid**: Ride-A-Pet Potion |
-| 06:15 | **SKTRealker**: River, Happy Duckling | **Redpyid**: Ride-A-Pet Potion |
-| 06:15 | **LoriDreamy123**: Black Macaque (MFR), Momma Moose (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Stunaief**: Kangaroo (FR) |
-| 06:15 | **kwuddles**: Cryptid | **Rylo122414**: Rainbow Maker, Halo, Binturong (MFR) |
-| 06:00 | **lilylikespiee**: Copycat (MFR) | **austin_1230003**: Strawberry Shortcake Bat Dragon (NFR) |
-| 06:00 | **pupfantasy**: Mighty Haetyphoon Animated Sticker | **bnnysiie**: Ride-A-Pet Potion |
+| 06:30 | **Pipotatini568**: Frostbite Bear (FR) ×2, Frostbite Bear (R) | **aitorguay_12**: Cryptid (FR) |
+| 06:30 | **darksmasher_hi**: Cryptid (FR), Copycat | **Pipotatini568**: Frostbite Bear ×3 |
+| 06:30 | **HELL0J0SEPH**: Fly-A-Pet Potion ×3 | **yeahimcairo**: Strawberry Penguin |
+| 06:30 | **kaylamicmi**: Balloon Unicorn (NFR), Alpaca (NFR), Panda Pal, Mochi Meow Tumble Animated Sticker | **Lov34lif3**: Alpaca (MFR), Goose (MFR) |
+| 06:30 | **Strawberry_Swirls0**: Arctic Dusk Dragon (MFR), Ghost Dog (MR), Monkey (MFR), Gumball Caterpillar (MFR), Ginger Cat (MR) | **kittencute_gamerXD**: Jester Dragon (MFR) |
+| 06:30 | **princesakarii**: Princess Capuchin Monkey | **lolmaster_girl7**: White Choccybunny (M) |
+| 06:30 | **Yumi_Rose8**: Fly-A-Pet Potion | **jvvide**: Llama (R) |
+| 06:30 | **Flaptzyy_16**: Silverback Gorilla (FR) ×2 | **skyeeeeeeeee_999**: Haetyphoon |
+| 06:30 | **Qu33nDQCrimsonO19932**: Chihuahua ×7 | **Thatscute18**: Ride-A-Pet Potion ×3 |
+| 06:30 | **PracticalChive5077**: Husky (MFR), Nessie (N), Jester Dragon (NFR), Great Pyrenees (MR), Bunny Swirl (MR) | **Siraj6118**: Cryptid (FR) |
+| 06:30 | **cloud_kmm**: Spring Bunny Nose | **Xz_NeongtPrismctDark**: Pancake Stack |
+| 06:30 | **RESTRlCTI0N**: Giant Anteater (R) | **themudwizard**: Ride-A-Pet Potion ×5 |
+| 06:30 | **tipak368**: Hedgehog (FR), Kangaroo (FR), Copycat, Ride-A-Pet Potion | **odading12318**: Cryptid (FR) |
+| 06:30 | **Str3amN0va2024**: Turtle (FR) ×4, Cow, Ride-A-Pet Potion | **splashJuggernaut**: Silverback Gorilla (MFR) |
+| 06:30 | **Niruch_Bearly**: Arctic Reindeer (FR) | **fox_100l**: Hot Doggo (FR), Fairy Bat Dragon (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
