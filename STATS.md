@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 23:40 UTC by the scrape workflow._
+_Updated 2026-11-12 23:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,20 +13,23 @@ _Updated 2026-11-12 23:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 33,273 | 2026-11-12T23:30 |
-| elve | 2 | 6,756 | 2026-11-12T23:31 |
+| amvgg | 2 | 33,492 | 2026-11-12T23:45 |
+| elve | 2 | 6,782 | 2026-11-12T23:45 |
 
-## AMVGG completed trades: 5,783 total
+## AMVGG completed trades: 5,786 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,692 |
+| 2026-11-12 | 3,695 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:45 | **Keith_goned**: Stray Cat Dragon ×4, Starfish (N), Tealwood Monster | **noki123good**: Count Slothula |
+| 23:45 | **IshAshtly**: Gemstone Egg, Crystal Egg ×3, Admin Abuse Egg, Alicorn, Quetzalcoatl | **frrisstaill**: Ride-A-Pet Potion |
+| 23:45 | **Ally808101**: Arctic Fox (MFR), Brown Springer Spaniel (MFR), Halo, Tiny Wings | **No_R3gretz**: Sakura Spirit (MFR) |
 | 23:30 | **PhoenixForever09**: Flamingo (NFR), Mini Pig (FR), Kangaroo (NFR), Albino Monkey (FR), Hot Doggo (R), Unicorn Horn, Shiba Inu | **gogoyurio**: Owl (FR) |
 | 23:30 | **1sabxllaa**: Dogmobile | **bryanna_yaaa**: Fly-A-Pet Potion |
 | 23:30 | **iLuuvAshie**: Dragonfruit Fox (MR), German Shepherd (MFR), English Sheepdog (MFR), Zombie Wolf (MFR), Dire Wolf (MFR), Waffle Wyrm (MR) | **Svdanurrr**: Cryptid (FR) |
@@ -39,9 +42,6 @@ _Updated 2026-11-12 23:40 UTC by the scrape workflow._
 | 23:30 | **razarvale2z**: Turtle (FR) | **Lilypupper42**: Arctic Fox (NFR) |
 | 23:30 | **luvyerh**: Arctic Fox (R), Fly-A-Pet Potion | **llhgululu**: Pig (FR) |
 | 23:30 | **luvyerh**: Crocodile, Fly-A-Pet Potion | **22veils**: Crocodile (FR) |
-| 23:30 | **disneyloverreee**: Chocolate Chip Bat Dragon (NFR), Cryptid (FR), Tiny Wings | **Zyylxkes**: Frost Dragon (FR) |
-| 23:30 | **jux_iess1**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×4 | **Tyatya03**: Crocodile (FR) |
-| 23:30 | **daanz2**: Peppermint Penguin (FR), Alpaca | **kotek_bla**: Cabbit (FR), Sugar Glider (R), Black Tiger (N), California Condor (N), Otter (N) ×2 |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
