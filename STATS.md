@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 22:25 UTC by the scrape workflow._
+_Updated 2026-11-12 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,20 +13,24 @@ _Updated 2026-11-12 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 32,135 | 2026-11-12T22:15 |
-| elve | 2 | 6,532 | 2026-11-12T22:16 |
+| amvgg | 2 | 32,360 | 2026-11-12T22:30 |
+| elve | 2 | 6,581 | 2026-11-12T22:31 |
 
-## AMVGG completed trades: 5,604 total
+## AMVGG completed trades: 5,608 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,513 |
+| 2026-11-12 | 3,517 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:30 | **Dessertsandfoods**: Mr. Whiskerpips (MR), Ride-A-Pet Potion, Gemstone Egg, White Chef Hat | **thebadbiotcsh**: Mr. Whiskerpips (MFR) |
+| 22:30 | **SharkuKy_Trades**: Shark (NFR) | **Piggyrocket09**: Frost Fury (FR) |
+| 22:30 | **kroko182**: Kangaroo (NR), Gibbon (MR), Humbug (MFR), Campfire Stories Mega Neon Paint | **xqunovax**: Flaming Fox (MFR) |
+| 22:30 | **pawsxmilli**: Flaming Fox (MFR), Cabbit (R), Panda (MFR), Tuxedo Cat (MFR), 2022 Birthday Cupcake Shoes, Spring Bunny Hood, Spring Bunny Nose, Spring Bunny Feet, Chocolate Dutch Guinea Pig (NR), Shetland Pony Dark Brown (MFR) | **xqunovax**: Balloon Unicorn (FR) |
 | 22:25 | **WeirdKage**: Shadow Dragon (FR), Frost Dragon (FR) | **ADOPTME_TRADE596**: Bat Dragon (FR) |
 | 22:25 | **lovegames20000**: African Wild Dog (FR) | **suun_202**: Rainbow Maker, 2022 Birthday Cupcake Shoes, Elephant (FR), Lion Cub (NFR), Goldhorn (NR), Catte (N) |
 | 22:25 | **getouthewayy**: Frost Dragon (NFR), Pet Handler Pro Certificate, Ride-A-Pet Potion ×3, Pain au Chat | **REyC0131**: Owl (FR), Frost Dragon (FR) |
@@ -38,10 +42,6 @@ _Updated 2026-11-12 22:25 UTC by the scrape workflow._
 | 22:25 | **tatianachan1713**: Amami Rabbit ×4 | **hzmimii**: Ride-A-Pet Potion ×2 |
 | 22:25 | **giraffe3815**: Strawberry Penguin (NFR), Ride-A-Pet Potion | **Mytradeaccountforme**: Matcha Cat (NFR) |
 | 22:25 | **princess_pizzanice**: Fly-A-Pet Potion ×8, Pet Handler Pro Certificate, Ride-A-Pet Potion ×4 | **foovva**: Grim Dragon (FR) |
-| 22:25 | **Xwixx1obv**: Ride-A-Pet Potion, Subzero Scorpion (N) | **i_slaybruh**: Pain au Chat (N) |
-| 22:25 | **adoptmeamvggacc**: Sweetheart Rat | **assapickle**: Christmas Pudding House |
-| 22:25 | **happyfluffy510**: Fly-A-Pet Potion | **assapickle**: Corn Doggo |
-| 22:25 | **cuthbertbean**: Cupid Dragon (MFR), Candicorn (MFR), Werewolf (NFR), Ice Wolf (MFR), Mechapup, Ice Cream Cone Hat, Blue Betta Fish (NFR), Pancake Stack, Mule, Endangered Egg | **Kiandra13kiandra**: Giraffe (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
