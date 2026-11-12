@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 18:45 UTC by the scrape workflow._
+_Updated 2026-11-12 18:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,32 +16,32 @@ _Updated 2026-11-12 18:45 UTC by the scrape workflow._
 | amvgg | 2 | 28,758 | 2026-11-12T18:45 |
 | elve | 2 | 5,779 | 2026-11-12T18:45 |
 
-## AMVGG completed trades: 4,875 total
+## AMVGG completed trades: 4,953 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 2,784 |
+| 2026-11-12 | 2,862 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:45 | **doraatje122**: Frost Dragon (FR), Albino Monkey (FR), Crocodile | **PON_TAMPO2010**: Frostbite Bear (MFR), Frost Fury (FR) |
-| 18:40 | **pogigelo31**: Arctic Reindeer, Chocolate Chip Bat Dragon (FR) ×7, Strawberry Shortcake Bat Dragon (FR) ×6 | **Yomi040605**: Bat Dragon (FR) |
-| 18:40 | **aleeyah51092**: Emberlight | **6767mellstroy67**: Retired Egg ×18 |
-| 18:40 | **Sonyaandcrina**: Fly-A-Pet Potion | **fygramvgg**: Mochi Meow (M) |
-| 18:40 | **riler0982**: Guardian Lion (NFR) | **luli46wt**: Ride-A-Pet Potion ×4 |
-| 18:40 | **XxBlossomxGirllxX**: Owl (NFR), Unicorn Horn, Spring Bunny Hood | **AseesCr7GoesBoom**: Strawberry Tortle (MFR) |
-| 18:40 | **jam0khurt**: Toasty Red Panda, Puptune, Purrowl | **Adore_IvaXx**: Ride-A-Pet Potion |
-| 18:40 | **ZuzaOnlyMy**: Peppermint Penguin, Cow (FR) | **Ak246868**: Arctic Reindeer (FR) |
-| 18:40 | **ElliePelliePu**: Kangaroo (FR) | **littlefelonies**: Albino Bat (N), Tortuga de la Isla, Dango Penguins, Dragonfruit Fox, Red Dutch Guinea Pig ×2 |
-| 18:40 | **Kylaaurgirl**: Sloth (NFR), Shadow Dragon Ducky (NFR) | **hoops0308**: Snow Owl (NFR), Snow Cat |
-| 18:40 | **ximenapanfa**: Ride-A-Pet Potion ×5, Unicorn, Flower Power Duckling (R), Boohoo (N), Emperor Shrimp (N), Jumpscare (N), Count Slothula, Pupcake, Mummy Spider (NR), Mummy Spider (N), Temple Friend | **getsdar**: Copycat (R) |
-| 18:40 | **jdze6h85hr7f**: Goldhorn (R), Maneki-Neko ×2 | **Rita_ggh**: Ride-A-Pet Potion ×2 |
-| 18:40 | **XxRobellalightxX**: Cerberus (NR), Albino Bat (NR), Sea Turtle (FR), Frostbite Cub, Kiwi Kiwi | **AnneFabrel2005**: Cake Friend (M) |
-| 18:40 | **XxRobellalightxX**: Grim Dragon (FR) | **xf4wnskull**: Turtle (FR) |
-| 18:40 | **niceplayeruwu**: Count Slothula | **themudwizard**: Gemstone Egg ×2 |
+| 18:55 | **002002002LE0**: Crow (FR), Ice Wolf (MFR), Golden Albatross (MR) | **KnifeonKeys**: Sheeeeep (MFR), Fallow Deer (MFR), French Bulldog (MFR) |
+| 18:55 | **s0larzxxxx**: Castle Hermit Crab (M) | **xXNarynaryXx**: Ride-A-Pet Potion ×7 |
+| 18:55 | **Anya_Plaay**: Sushi Penguin (NR), Pet Handler Pro Certificate, Unicorn | **Robloxian613444997**: Jester Dragon (FR) |
+| 18:55 | **addmain3000**: Haetyphoon (MFR) | **ajmybsf**: Goose (MFR) |
+| 18:55 | **Kitty09_Lays**: Pelican | **Mason_lol424**: Strawberry Tortle (FR) |
+| 18:55 | **princess_pizzanice**: Crocodile (FR) ×2, Albino Monkey (FR), Giraffe (FR), Frost Dragon (FR), Fairy Bat Dragon (NFR), Cow (FR), Kangaroo (FR), Fly-A-Pet Potion ×3 | **kamiqwees**: Bat Dragon (FR) |
+| 18:55 | **T3bas1**: Latte Kitsune (MFR), 2022 Birthday Cake | **ALTAMERANO10**: Haetyphoon (NFR) |
+| 18:55 | **mkzwql**: Strawberry Shortcake Bat Dragon (FR) ×2, Cheetah, Ride-A-Pet Potion ×2, Brown Springer Spaniel, Cake Friend | **72kxdreamz**: Haetae |
+| 18:55 | **j4sp3r101**: Parrot, Haetae (FR), Munchkin Cat | **altgenaratordhc31**: Goose (MFR) |
+| 18:55 | **Vitek_228666**: Turtle (FR) | **zqwuhl**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×7 |
+| 18:55 | **cherry_blast2**: Blue Boohoo Mega Neon Paint | **jasirhal**: Bunny Swirl |
+| 18:55 | **aianame_rey**: Turtle (FR) | **Pandalovedogss**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
+| 18:55 | **DrinklngMilk**: Partridge, Shadow Dragon Ducky, Pine Marten, Komodo Dragon, Pterodactyl, Nebula Snake | **fishymiss_y**: Ride-A-Pet Potion |
+| 18:55 | **cwursedletter**: Haetyphoon | **ri0txh**: Unicorn Horn |
+| 18:55 | **guiderno1234**: Copycat ×2, Velocirooster | **Akaza_onesas1**: Rain Cloud Hat |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
