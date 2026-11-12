@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 15:01 UTC by the scrape workflow._
+_Updated 2026-11-12 15:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 15:01 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 25,040 | 2026-11-12T15:00 |
-| elve | 2 | 5,056 | 2026-11-12T15:01 |
+| amvgg | 2 | 25,293 | 2026-11-12T15:15 |
+| elve | 2 | 5,110 | 2026-11-12T15:16 |
 
-## AMVGG completed trades: 4,067 total
+## AMVGG completed trades: 4,104 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,976 |
+| 2026-11-12 | 2,013 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:00 | **Elenaasooo**: Cryptid (NFR) | **human4691236**: Parrot (R), Chocolate Chip Bat Dragon (FR), Burger Bear (N), Siamese Cat (R), Pet Handler Pro Certificate |
-| 15:00 | **5kHxll**: Pink Cat (R) | **jakii_030**: Christmas Pudding Pup (R) |
-| 15:00 | **abrakadabra2035**: Kangaroo (FR) ×2, Kangaroo (R), Red Dutch Guinea Pig, Ride-A-Pet Potion ×2, Llama | **LoriDreamy123**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:00 | **roblox_user_8676283275**: Candicorn (R) | **Pusteblume_204**: Fly-A-Pet Potion, Rose Dragon (NR) |
-| 15:00 | **theropywasted**: White Amazon (N) | **pawthetiic**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 15:00 | **darksouls_258**: Haetyphoon, 2022 Birthday Confetti Drape | **Alina_02445**: Spring Bunny Hood, Tiny Wings, Spring Bunny Nose, Spring Bunny Feet |
-| 15:00 | **Inganta07**: Ride-A-Pet Potion | **Thaly_vz**: Rhino |
-| 15:00 | **Crystallclllear**: Ride-A-Pet Potion ×3 | **aderogt_0**: Biodome Home |
-| 15:00 | **InloveWh1mm**: Crow (MFR), Owl, Rainbow Maker | **XxkfirxbushxX**: Frost Dragon (MFR) |
-| 15:00 | **lizziqyy**: Crystal Egg ×13 | **0kaleigh**: Ride-A-Pet Potion |
-| 15:00 | **Tree092109**: Unicorn ×2 | **Thaly_vz**: Ride-A-Pet Potion ×2 |
-| 15:00 | **jackinthebox7307**: Sugar Glider (NFR), Siamese Cat (NFR), Munchkin Cat (NFR), Alley Cat (NFR), Giant Anteater (NFR) | **9Lil_f1q**: Dalmatian (NFR) |
-| 15:00 | **Edwinisme4th**: Vampire Dragon (NFR), Snow Owl (FR), 2021 Uplift Butterfly (NR) | **AfroditTaa45**: Cow (FR) |
-| 15:00 | **ykitz_mazz**: Pet Handler Pro Certificate, Shetland Pony Dark Brown (NR), Velociraptor (R) | **Its_rbx522**: Biodome Home |
-| 15:00 | **pawthetiic**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **zncxxq**: Vanilla Penguin (N) |
+| 15:15 | **xTrxstedCodee**: Arctic Reindeer (NFR), Fairy Bat Dragon (FR), Turtle (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **akoyhatdog2**: Owl (FR) |
+| 15:15 | **wxhappy**: Bubblegeist ×4 | **unke_ungrrrr**: Bauble Buddies |
+| 15:15 | **XiaoFaye1433**: Elephant (R) | **Zuminkikiki**: Haetyphoon |
+| 15:15 | **briannakitty55**: Jester Dragon (FR) ×2, Jester Dragon (R) ×2, Jester Dragon ×4 | **jijicraft_005**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:15 | **Maryha0243**: Scarebear (R), Drake | **cwursedletter**: Ride-A-Pet Potion ×2 |
+| 15:15 | **itmeaaa2321**: Brown Bear (MFR), Albino Monkey (FR), Blue Cat Ear Headphones | **Dancemom7228**: Kangaroo (NFR) ×2 |
+| 15:15 | **xXcraziXx2**: Arctic Fox (FR), Dragonfruit Fox (NFR) | **axiokowi**: Kangaroo (FR) |
+| 15:15 | **XiaoFaye1433**: Kangaroo (FR) | **Alina_02445**: Haetyphoon |
+| 15:15 | **Gamerqueen1255**: Gemstone Egg | **xAvosty**: Retired Egg ×18 |
+| 15:15 | **jArYnAa**: Owl (FR) | **dimsolstice**: Crow (FR), Turtle (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion, Spring Bunny Hood |
+| 15:15 | **Special_Foxi**: Ride-A-Pet Potion | **Thaly_vz**: Harp Seal |
+| 15:15 | **Lerochka_5457**: Sea Slug, Candicorn (FR) | **gag_gaag**: Sugar Glider (FR) |
+| 15:15 | **disapp6ar**: Jester Dragon (NFR) | **aitorguay_12**: Strawberry Tortle |
+| 15:15 | **Slim3_Inf3rno583**: Haetyphoon (NFR), Haetyphoon (N) ×2 | **aitorguay_12**:  |
+| 15:15 | **sleepy_s0ren**: Christmas Pudding Pup (MFR), Chocolate Chip Bat Dragon (F) | **marreeeere**: Giant Panda (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
