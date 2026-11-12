@@ -2,6 +2,11 @@
 using only Elvebredd's own change log (no AMVGG, no trades yet).
 
     python elve_model.py            # build the panel, run the walk-forward test, write results/elve_model.md
+    python elve_model.py ads        # same test on the months that have trade ads, with and without the ad features
+                                    # (ad_features.py) -> results/ads_model.md
+    python elve_model.py ads 3      # only the last 3 test months (quick check)
+
+Only pets that AMVGG also lists (802) are modelled; AMVGG's own values and trades are not features yet.
 
 Steps:
   1. Daily value of every pet variant (6 per pet: default/neon/mega x no potion/fly ride), rebuilt from the change log.
@@ -10,6 +15,8 @@ Steps:
   3. Target: log change from end of day t to end of day t+H, as down / flat / up (|change| < FLAT counts as flat).
   4. Walk-forward by month: train on everything that ends before the test month (gap of H days), test on that month.
 """
+import gzip
+import json
 import sys
 from pathlib import Path
 
@@ -45,12 +52,20 @@ def contiguous_log():
     return df, first
 
 
+def amvgg_pet_keys():
+    """item_key of every pet on AMVGG's list: the model's universe (the same 802 pets on both sites)."""
+    f = sorted((scraper.DATA / "values" / "amvgg").glob("*.json.gz"))[-1]
+    return {scraper.item_key(i["name"]) for i in json.loads(gzip.decompress(f.read_bytes())) if i.get("kind", "pets") == "pets"}
+
+
 def daily_values(log):
     """Wide matrix: rows = days, columns = (pet, variant), value at end of day. NaN before a pet's release."""
     snap = scraper.load_values("elve")
     snap = snap[(snap.scraped_at == snap.scraped_at.max()) & (snap.type == "pets")]
     # Elvebredd lists some pets twice (e.g. "Skele-Rex" / "Skele-rex"); keep the entry the log follows, under one name
-    canon = {i["id"]: i["name"] for i in scraper.elve_canonical(snap.to_dict("records"), log.to_dict("records")).values()}
+    keep = amvgg_pet_keys()
+    canon = {i["id"]: i["name"] for k, i in scraper.elve_canonical(snap.to_dict("records"), log.to_dict("records")).items() if k in keep}
+    log = log[log.petId.isin(canon)]
     snap = snap[snap.id.isin(canon)]
     log = log.assign(name=log.petId.map(canon).fillna(log.name))
     today = snap[["name"] + list(LABELS.values())].melt(id_vars=["name"], value_vars=list(LABELS.values()), var_name="col", value_name="val")
@@ -158,34 +173,53 @@ def scores(y, P, test):
     return out
 
 
-def walk_forward(df):
+NOT_FEATURES = ("day", "name", "label", "target", "y", "rarity", "kind")
+
+
+def walk_forward(df, feature_sets=None, last=None):
+    """feature_sets: {suffix: feature columns}; every set gets a logistic regression and a gradient boosting model,
+    all tested on the same rows. last: only the newest N test months."""
     from sklearn.ensemble import HistGradientBoostingClassifier
     from sklearn.linear_model import LogisticRegression
     from sklearn.pipeline import make_pipeline
     from sklearn.preprocessing import StandardScaler
 
-    feats = [c for c in df.columns if c not in ("day", "name", "label", "target", "y", "rarity", "kind")]
+    def boosting():  # on a machine with an NVIDIA GPU and xgboost (Kaggle), train there; same shape of model either way
+        import shutil
+        if shutil.which("nvidia-smi"):
+            try:
+                from xgboost import XGBClassifier
+                return XGBClassifier(device="cuda", tree_method="hist", n_estimators=300, learning_rate=0.05, max_leaves=31,
+                                     grow_policy="lossguide", reg_lambda=1.0, random_state=0)
+            except ImportError:
+                pass
+        return HistGradientBoostingClassifier(max_iter=300, learning_rate=0.05, max_leaf_nodes=31, l2_regularization=1.0, random_state=0)
+    print("gradient boosting:", type(boosting()).__name__, flush=True)
+
+    feature_sets = feature_sets or {"": [c for c in df.columns if c not in NOT_FEATURES]}
     data = df[df.y >= 0]
     months = sorted(data.day.dt.to_period("M").unique())
     test_months = [m for m in months if (data.day.dt.to_period("M") < m).sum() > 0][2:]  # at least ~3 months of training
     rows, imp = [], None
-    for m in test_months:
+    for m in test_months[-last:] if last else test_months:
         test = data[data.day.dt.to_period("M") == m]
         train = data[data.day < test.day.min() - pd.Timedelta(days=H)]
-        Xtr, Xte = train[feats].fillna(0).values, test[feats].fillna(0).values
-        models = {
-            "logistic regression": make_pipeline(StandardScaler(), LogisticRegression(max_iter=300, C=0.5)),
-            "gradient boosting": HistGradientBoostingClassifier(max_iter=300, learning_rate=0.05, max_leaf_nodes=31,
-                                                                l2_regularization=1.0, random_state=0),
-        }
         preds = baselines(test)
-        for name, mdl in models.items():
-            mdl.fit(Xtr, train.y.values)
-            preds[name] = mdl.predict_proba(Xte)
+        for suffix, feats in feature_sets.items():
+            Xtr, Xte = train[feats], test[feats]
+            models = {
+                # the linear model can't take gaps (ad features are empty before a site's ads begin): 0 = "average"
+                "logistic regression": (make_pipeline(StandardScaler(), LogisticRegression(max_iter=300, C=0.5)), True),
+                # boosting handles missing values itself, so "no ad data" stays distinct from "zero demand"
+                "gradient boosting": (boosting(), False),
+            }
+            for name, (mdl, fill) in models.items():
+                mdl.fit(Xtr.fillna(0).values if fill else Xtr.values, train.y.values)
+                preds[name + suffix] = mdl.predict_proba(Xte.fillna(0).values if fill else Xte.values)
+            imp = (models["logistic regression"][0][-1].coef_, feats)
         for name, P in preds.items():
             rows.append(dict(month=str(m), model=name, n_test=len(test), **scores(test.y.values, P, test)))
         print(f"{m}: train {len(train):,} rows, test {len(test):,}", flush=True)
-        imp = (models["logistic regression"][-1].coef_, feats)
     return pd.DataFrame(rows), imp
 
 
@@ -196,13 +230,28 @@ def main():
     lab = df[df.y >= 0].y.value_counts(normalize=True).sort_index()
     print(f"window {V.index[0].date()} -> {V.index[-1].date()} (batches {first_batch}+), {V.shape[1]} pet variants, "
           f"{len(df):,} rows; down/flat/up = {lab.round(3).tolist()}", flush=True)
-    res, (coef, feats) = walk_forward(df)
+    ads, out, title = len(sys.argv) > 1 and sys.argv[1] == "ads", "elve_model", "Elve-only model"
+    last = int(sys.argv[2]) if len(sys.argv) > 2 else None
+    if ads:
+        from ad_features import ad_features
+        base = [c for c in df.columns if c not in NOT_FEATURES]
+        A = ad_features(V.index, sorted(set(V.columns.get_level_values("name"))))
+        ad_cols = [c for c in A.columns if c not in ("day", "name", "kind")]
+        df = df.merge(A, on=["day", "name", "kind"], how="left")
+        start = A.loc[A[ad_cols].notna().any(axis=1), "day"].min()  # first day any ad feature exists
+        df = df[df.day >= start]
+        print(f"ad features from {start.date()}: {len(df):,} rows, coverage "
+              + ", ".join(f"{c} {df[c].notna().mean():.0%}" for c in ad_cols), flush=True)
+        res, (coef, feats) = walk_forward(df, {"": base, " + ads": base + ad_cols}, last)
+        out, title = "ads_model", "Elve model with trade-ad features"
+    else:
+        res, (coef, feats) = walk_forward(df, last=last)
 
     OUT.mkdir(exist_ok=True)
-    res.to_csv(OUT / "elve_model_folds.csv", index=False)
+    res.to_csv(OUT / f"{out}_folds.csv", index=False)
     summ = res.drop(columns=["month", "n_test"]).groupby("model", sort=False).mean()
     upcoef = pd.Series(coef[2] - coef[0], index=feats).sort_values()
-    md = [f"# Elve-only model: {H}-day up/flat/down\n",
+    md = [f"# {title}: {H}-day up/flat/down\n",
           f"_Window {V.index[0].date()} to {V.index[-1].date()}, {V.shape[1]:,} pet variants, {len(df):,} rows. "
           f"Flat = move under {np.expm1(FLAT):.0%}. Class shares down/flat/up: {', '.join(f'{x:.1%}' for x in lab)}._\n",
           f"Walk-forward by month ({res.month.nunique()} test months), averages:\n",
@@ -210,7 +259,7 @@ def main():
           res.pivot(index="month", columns="model", values="macro F1").to_markdown(floatfmt=".3f"),
           "\n\n## Logistic regression: features pushing toward up (+) or down (-), last fold\n",
           pd.concat([upcoef.head(8), upcoef.tail(8)]).to_frame("up minus down coef").to_markdown(floatfmt=".3f")]
-    (OUT / "elve_model.md").write_text("\n".join(md), encoding="utf-8")
+    (OUT / f"{out}.md").write_text("\n".join(md), encoding="utf-8")
     print(summ.round(3).to_string())
 
 
