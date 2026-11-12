@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 10:31 UTC by the scrape workflow._
+_Updated 2026-11-12 10:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 10:31 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 20,889 | 2026-11-12T10:30 |
-| elve | 2 | 4,172 | 2026-11-12T10:31 |
+| amvgg | 2 | 21,104 | 2026-11-12T10:45 |
+| elve | 2 | 4,210 | 2026-11-12T10:45 |
 
-## AMVGG completed trades: 3,337 total
+## AMVGG completed trades: 3,353 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,246 |
+| 2026-11-12 | 1,262 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:30 | **Bits_rbx**: Pink Cat (R), 2021 Uplift Butterfly (MR), Polar Bear (R), Husky, Ram, Pancake Stack, Ride-A-Pet Potion | **Lerunhi**: Kangaroo (FR) |
-| 10:30 | **FlyToTheSaturn**: Polar Bear, Capybara, Silly Duck, Chicken, Harp Seal, Drake, Reindeer, Shrew | **kaizennnstorrr**: Fly-A-Pet Potion ×8 |
-| 10:30 | **icysnow150**: Jacobin Pigeon (M) ×2 | **KENMMA_1016**: Ride-A-Pet Potion |
-| 10:30 | **SyndromGG**: Ride-A-Pet Potion ×3 | **cwursedletter**: Glormy Leo (R) |
-| 10:30 | **Reveknalt1**: Caelum Cervi (FR), Winged Tiger, Mechapup | **therighteousss**: Goat (NFR) |
-| 10:30 | **deprssdgirls**: Alpaca (R), Spring Bunny Hood, Vol. 2 Pets Plus Sticker Pack | **wldnsdlrnldudna**: Mermicorn (FR) |
-| 10:30 | **darya21111**: Matcha Cat (FR) | **Wikitos5**: Christmas Pudding Pup (R) |
-| 10:30 | **MegaPoslaTV**: Fly-A-Pet Potion ×15 | **Tal_Kazman**: 2022 Birthday Party Hat, Bready Necklace, Rain Boots, Pink Heart Glasses |
-| 10:30 | **Slivka_olivkas**: Fly-A-Pet Potion | **FlyToTheSaturn**: Mermaid Mansion |
-| 10:30 | **Mochirosx**: Fly-A-Pet Potion ×2 | **nice2306_alt**: Pet Handler Pro Certificate ×2 |
-| 10:30 | **clalouetciedh**: Cow (FR) | **nice2306_alt**: Fly-A-Pet Potion ×16 |
-| 10:30 | **Vitalina2384**: Count Slothula | **nice2306_alt**: Stray Cat Dragon ×6 |
-| 10:30 | **Callumtradess**: Strawberry Shortcake Bat Dragon (FR), Turtle (NFR), Albino Monkey (NFR) | **Elfik1k**: Silverback Gorilla (MFR) |
-| 10:30 | **ialokp**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Biscvidi29**: Woolly Mammoth (MFR) |
-| 10:30 | **Ttsglw**: Corgi (N), Black-Footed Ferret (N), Ginger Cat (N), Sneak Weasel (N) | **califxrmula**: Ride-A-Pet Potion |
+| 10:45 | **wi0qwi**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Bauble Buddies | **Lavonvezis**: Irish Water Spaniel |
+| 10:45 | **elitro44**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **Galaxywolfie72**: Copycat |
+| 10:45 | **kity607AltAccount**: Grinder Hat, Ferris Wheel Hat | **Nanamobilegend08**: Alien Eyes Hat |
+| 10:45 | **sww_tea**: Cow (FR), Fairy Bat Dragon (FR), Border Collie, Sugar Glider (R) | **Im_mda12**: Evil Unicorn (FR) |
+| 10:45 | **ubnnyz**: Halo, Angel Wings, Cattuccino (N), Cattuccino ×15 | **skkur6s**: Latte Kitsune (M) |
+| 10:45 | **skkur6s**: Rainbow Maker, Unicorn Horn, Rain Cloud Hat, Tiny Wings, Spring Bunny Hood, Spring Bunny Nose, Spring Bunny Feet, Dragonfruit Fox | **Miauuu0167**: Cryptid (FR) |
+| 10:45 | **0MGZOZ0**: Snowball Pet (MFR), Red Sand Dollar (MFR), Pupcake (MFR), Gecko (MFR), Red Fox (MFR), Koi Carp (MFR), Clover Cow (MFR), Water Rabbit (MFR), Moon Rabbit (MFR) | **Tal_Kazman**: Tortuga de la Isla (MFR) |
+| 10:45 | **eventHorizonas**: Alley Cat (NFR) | **hannixbunnii**: Copycat ×2 |
+| 10:45 | **e2kk_121003**: Latte Kitsune (R), Rose Dragon, Puffer Fish | **LilyLOLMaster1211**: Cupid Dragon (R) |
+| 10:45 | **Rynngrye**: Cabbit (MFR), Lava Wolf (MFR), Spring Bunny Feet | **TT_0qwerty45**: Alpaca (MFR) |
+| 10:45 | **FlyToTheSaturn**: Droplet Stroller, Double Stroller ×3, Car Stroller, Rocket Ship Stroller, High Heel Stroller, Hatched Egg Stroller, Dog House Stroller, Crate Stroller ×3, Triple Stroller ×6 | **cowlol898**: Fly-A-Pet Potion |
+| 10:45 | **sleepydolly99**: Gingerbread Mouse (N), Purrowl ×2 | **thedonutgirl098**: Ride-A-Pet Potion |
+| 10:45 | **KotMonster7**: Arctic Reindeer (FR) | **Lerixiss**: Peppermint Penguin (R), Kangaroo (FR), Copycat (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
+| 10:45 | **SyndromGG**: Albino Bat (R), Gorilla (R), Chihuahua | **6lre128**: Fly-A-Pet Potion |
+| 10:45 | **noelleroan234**: Arctic Dusk Dragon (MFR), Rain Cloud Hat, Spring Bunny Hood ×2, Propeller Hat | **WillowpillowpiggyWL**: Matcha Cat (MFR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
