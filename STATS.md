@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 14:45 UTC by the scrape workflow._
+_Updated 2026-11-12 15:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 14:45 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 24,790 | 2026-11-12T14:45 |
-| elve | 2 | 4,991 | 2026-11-12T14:45 |
+| amvgg | 2 | 25,040 | 2026-11-12T15:00 |
+| elve | 2 | 5,056 | 2026-11-12T15:01 |
 
-## AMVGG completed trades: 4,023 total
+## AMVGG completed trades: 4,067 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,932 |
+| 2026-11-12 | 1,976 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:45 | **Inganta07**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **goodkeithgirl61**: Copycat |
-| 14:45 | **Hellobyeheyhihello**: Copycat (N), Ride-A-Pet Potion ×2 | **monkeycutebow**: Cow (FR) |
-| 14:45 | **hijodefrutaXdd9**: Kraken Sticker | **fatlotto**: Retired Egg ×4 |
-| 14:45 | **w0onlll**: Unicorn (NFR) | **prensesecya**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 14:45 | **bakedkole**: Strawberry Penguin (FR) | **0kaleigh**: Ride-A-Pet Potion ×7 |
-| 14:45 | **black5786t**: Pig (FR) | **XzCraftpuLavaGzX1534**: Munchkin Cat (R) |
-| 14:45 | **marreeeere**: Kangaroo (NFR), Cow (FR), Fairy Bat Dragon (FR), Siamese Cat (FR), Candicorn (FR), Caterpillar (R), Cupid Dragon (FR), Christmas Pudding Pup (R) | **thyrrone1**: Giant Panda (FR) |
-| 14:45 | **Waq1uxx**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **odading12318**: Sea Slug |
-| 14:45 | **5kHxll**: Cuddly Candle (FR), Tuxedo Cat (FR) | **EAILABCD**: Dragonfruit Fox |
-| 14:45 | **amvggbunni_won**: Shrew, Pig | **Shapka1000_2**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7 |
-| 14:45 | **Addmymainaccpls88**: Kangaroo (NFR) | **Puresksxz**: Strawberry Tortle (FR), Fly-A-Pet Potion |
-| 14:45 | **AppleAndMel0n**: Munchkin Cat (R), Arctic Fox (R), Stray Cat Dragon (N) | **AmberChiChii**: Kangaroo (FR) |
-| 14:45 | **1LYLUN4A**: Sushi Penguin (M), Rock Pigeon (M) | **thyrrone1**: Siamese Cat (FR) |
-| 14:45 | **faikubjotch**: Brown Springer Spaniel (MR), Burger Bear (N), Rose Dragon (NR) | **thyrrone1**: Cow (FR) |
-| 14:45 | **PhoenixEpic85**: Chihuahua ×11 | **Thaly_vz**: Ride-A-Pet Potion ×4 |
+| 15:00 | **Elenaasooo**: Cryptid (NFR) | **human4691236**: Parrot (R), Chocolate Chip Bat Dragon (FR), Burger Bear (N), Siamese Cat (R), Pet Handler Pro Certificate |
+| 15:00 | **5kHxll**: Pink Cat (R) | **jakii_030**: Christmas Pudding Pup (R) |
+| 15:00 | **abrakadabra2035**: Kangaroo (FR) ×2, Kangaroo (R), Red Dutch Guinea Pig, Ride-A-Pet Potion ×2, Llama | **LoriDreamy123**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:00 | **roblox_user_8676283275**: Candicorn (R) | **Pusteblume_204**: Fly-A-Pet Potion, Rose Dragon (NR) |
+| 15:00 | **theropywasted**: White Amazon (N) | **pawthetiic**: Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 15:00 | **darksouls_258**: Haetyphoon, 2022 Birthday Confetti Drape | **Alina_02445**: Spring Bunny Hood, Tiny Wings, Spring Bunny Nose, Spring Bunny Feet |
+| 15:00 | **Inganta07**: Ride-A-Pet Potion | **Thaly_vz**: Rhino |
+| 15:00 | **Crystallclllear**: Ride-A-Pet Potion ×3 | **aderogt_0**: Biodome Home |
+| 15:00 | **InloveWh1mm**: Crow (MFR), Owl, Rainbow Maker | **XxkfirxbushxX**: Frost Dragon (MFR) |
+| 15:00 | **lizziqyy**: Crystal Egg ×13 | **0kaleigh**: Ride-A-Pet Potion |
+| 15:00 | **Tree092109**: Unicorn ×2 | **Thaly_vz**: Ride-A-Pet Potion ×2 |
+| 15:00 | **jackinthebox7307**: Sugar Glider (NFR), Siamese Cat (NFR), Munchkin Cat (NFR), Alley Cat (NFR), Giant Anteater (NFR) | **9Lil_f1q**: Dalmatian (NFR) |
+| 15:00 | **Edwinisme4th**: Vampire Dragon (NFR), Snow Owl (FR), 2021 Uplift Butterfly (NR) | **AfroditTaa45**: Cow (FR) |
+| 15:00 | **ykitz_mazz**: Pet Handler Pro Certificate, Shetland Pony Dark Brown (NR), Velociraptor (R) | **Its_rbx522**: Biodome Home |
+| 15:00 | **pawthetiic**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **zncxxq**: Vanilla Penguin (N) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
