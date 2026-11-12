@@ -63,7 +63,7 @@ The old Google Sheet (`amvgg_trades_completed`, ~20k trades, May 20 to June 9, 2
 - [ ] Watch the first days of scheduled runs: GitHub delays, minutes used, gaps in trades
 - [x] Map item names between Elve and AMVGG (and trade items) for joining (`scraper.item_key`, 2026-11-11)
 - [x] Rebuild daily Elve values per pet/variant by walking the change log back from today's snapshot (`elve_model.daily_values`)
-- [x] Event features from playadopt.me/news (`event_features.py`, 2026-11-12); test result pending
+- [x] Event features from playadopt.me/news (`event_features.py`, 2026-11-12); local 7-day test: small gain, mostly down recall
 - [ ] Google Sheet that mirrors trades as they come in (needs a Google service account key as a repo secret)
 
 ## Timeline
@@ -157,4 +157,5 @@ The old Google Sheet (`amvgg_trades_completed`, ~20k trades, May 20 to June 9, 2
     - market: `ev_days_since_post` (capped at 14), `ev_leaving_7`, `ev_new_pets_7`
     - per pet: `ev_mention_7` / `_30`, `ev_leaving_14`, `ev_returning_14`, `ev_age` (log days since first named; empty for pets older than the news)
   - `python elve_model.py events [N]` runs the with/without test (shares the code path with `ads`) → `results/events_model.md`.
+  - **Result (local, 7-day, 6 test months 2026-06 → 11):** a small, consistent gain, mostly on drops. Gradient boosting: macro F1 0.511 → 0.517, down recall 0.197 → 0.234, down precision 0.548 → 0.542, up precision 0.496 → 0.485, log loss 0.314 → 0.316, top-20 mean 7d change 6.2% → 6.3%. Logistic regression: macro F1 0.516 → 0.522, down recall 0.262 → 0.290. Boosting + events wins 5 of 6 months on macro F1 (loses 2026-11, a 9.6k-row partial month). In the logistic model `ev_mention_30` leans down (a pet in the news is new and its value settles lower) and `ev_age` leans up. Worth keeping, not a breakthrough; the Kaggle full-history 7/30/90-day runs will say whether it holds. (The first local run died silently after 2 months; a re-run with `-X faulthandler` finished with exit 0, so it was probably a one-off memory spike.)
 - **Horizon setting.** `elve_model.py` reads `H` (days ahead, default 7) and `FLAT` from the environment: `H=30 python elve_model.py events`. The flat band widens with the horizon (2% / 5% / 10% at 7 / 30 / 90 days) so "flat" stays a sensible class; results go to `results/<mode>_model_<H>d.md`. Quick check on the rebuilt panel (2024-01 → 2026-11): pets that rose over 7 / 30 / 60 / 90 days were 3.4% / 9.7% / 14.5% / 17.9%, and "repeat the last H-day move" was right 29% / 42% / 46% / 48% of the time, so longer horizons give higher precision but a smaller edge over chance (8.4x → 2.7x). The 7 / 30 / 90-day news runs moved to Kaggle (GPU), full history.
