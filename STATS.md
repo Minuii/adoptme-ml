@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 20:31 UTC by the scrape workflow._
+_Updated 2026-11-12 20:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,32 +16,32 @@ _Updated 2026-11-12 20:31 UTC by the scrape workflow._
 | amvgg | 2 | 30,456 | 2026-11-12T20:30 |
 | elve | 2 | 6,195 | 2026-11-12T20:31 |
 
-## AMVGG completed trades: 5,253 total
+## AMVGG completed trades: 5,293 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,162 |
+| 2026-11-12 | 3,202 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:30 | **miraahuntrix**: Goose (FR), Fly-A-Pet Potion ×9, Pet Handler Pro Certificate, Ride-A-Pet Potion ×4 | **Ak246868**: Strawberry Shortcake Bat Dragon (FR) |
-| 20:30 | **AnnDemon_12**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×8 | **linksss12401**: Sugar Glider (FR) |
-| 20:30 | **Mymm2only**: Alicorn, Billy Goat, Stitches (N) | **girlbyegirl12**: Ride-A-Pet Potion |
-| 20:30 | **NotCookie810**: Pet Handler Pro Certificate | **pinkwolfpz_lolo**:  |
-| 20:30 | **butterflies4yuob**: Chocolate Chip Bat Dragon (FR), Sugar Glider (FR), Cow (FR), Goose (FR), Albino Monkey (FR) | **PuhonaBeri**: Parrot (FR) |
-| 20:30 | **schilan225**: Dalmatian (R), Aurora Fox (FR), Polar Bear (R) | **Abvisse**: Goose (NFR) |
-| 20:30 | **cami160313**: Rain Boots | **blake_shortie**: Fly-A-Pet Potion |
-| 20:30 | **Suhovi_Andre**: Rain Cloud Hat, Copycat ×2, Jester Dragon (N) | **BREEZY_LOVER1**: Strawberry Shortcake Bat Dragon |
-| 20:30 | **celedkaOwO**: Fly-A-Pet Potion ×3, Golden Lettuce, Ride-A-Pet Potion ×2 | **ThatMossyLog**: Sugar Axolotl (FR) |
-| 20:30 | **Sunnyvice**: Caterpillar (FR), Unicorn Horn | **VanillaChxry**: Cow (FR) |
-| 20:30 | **daanz2**: Turtle (FR) ×2, Kangaroo (R), Elephant (R) | **gffdjddd23_4**: Cow (R), Goose, Pig, Meerkat (FR), Fly-A-Pet Potion ×2 |
-| 20:30 | **Pupppy457**: Strawberry Tortle (N) | **realuseris_sh191125**: Strawberry Tortle (R), Cow (R) ×2, Flamingo (R), Bush Elephant (R) |
-| 20:30 | **kkaatEEe2**: Ride-A-Pet Potion | **STAZ638**: Boohoo (M) |
-| 20:30 | **StarShoppingxxpeep**: Binturong (NR) | **NYANINV**: Tuxedo Cat (N) |
-| 20:25 | **Adduser_rruinedsoul**: Frost Dragon (FR), Copycat ×3, Dark Choccybunny (M) | **Nazar_5555589**: Candicorn (MFR), Candicorn (M) |
+| 20:36 | **Mytradeaccountforme**: Christmas Pudding Pup (NFR), Pink Heart Glasses | **Lofile456**: Matcha Cat (NFR) |
+| 20:36 | **dacha_123561**: Mini Pig | **Cocicka272**: Crocodile (FR), Munchkin Cat, Happy Clam (NR), Red Fox, Cute-A-Cabra |
+| 20:36 | **lindaberdo**: Boohoo (M) | **xromosa2**: Winter Fawn (NR) |
+| 20:36 | **cannotaffordme**: Egg Stroller, Cupid Dragon (NFR), Cow (R), Lava Wolf (MFR), Moonbeam Butterfly (MFR) ×2, Swan (MFR), Irish Water Spaniel (FR), Mule (NR), Goat (FR), Rose Dragon (FR), Harp Seal (NFR), Yeti (N), Golden Chow-Chow, Candyfloss Chick (R), Tiny Wings, Dogmobile, Cannon Stroller | **Shhdhehdneirjndnd**: Frostbite Bear (MFR) |
+| 20:36 | **pwupi_spwinkl**: Lamb (MFR), Kitsune (F), Clumpty (N), Easter Bunny, Golden Dragon, Frozen Penguin, Black-Footed Ferret ×2, Royal Palace, Jimothy, Little Lamb, Grinmoire, Mummy Spider ×2, Pinkypillar, Princess Mare ×2 | **Alex_ShatUp**: Hot Doggo (FR) |
+| 20:36 | **Vansderrl**: Goose ×2, Dragonfruit Fox (NFR) | **lacesakura**: Water Rabbit (MR), Moon Rabbit (MR), Amami Rabbit (M), Rice Cake Rabbit (MR), Burning Bunny (MR), Ghost Bunny (MFR), Bunny Swirl (MR), Hare |
+| 20:36 | **zoommbbeee**: Unicorn, Strawberry Shortcake Ducky | **HOCOKKU**: Ride-A-Pet Potion |
+| 20:36 | **omcherubxx**: 2022 Birthday Party Horn, Spring Bunny Hood, Red Dutch Guinea Pig, Water Rabbit | **HOCOKKU**: 2022 Birthday Cake |
+| 20:36 | **tillywilliamson89**: Latte Kitsune (R), Glormy Leo (N) | **Alex_ShatUp**: Kangaroo (FR) |
+| 20:36 | **vjhjskh456**: Aztec Egg ×18 | **HOCOKKU**: Ride-A-Pet Potion |
+| 20:36 | **miraahuntrix**: Golden Penguin (R) | **don2p**: Fly-A-Pet Potion |
+| 20:36 | **kkaatEEe2**: Orca (M) | **petal_54321**: Fly-A-Pet Potion |
+| 20:36 | **tonysciela**: Amami Rabbit ×5 | **nazzanown10**: Snow Monkey |
+| 20:36 | **K4n4ato10**: Golden Dragon, Golden Griffin, Gemstone Egg, Diamond Unicorn, Golden Unicorn | **avneetkool**: Ride-A-Pet Potion |
+| 20:36 | **T_T10604**: Zombie Buffalo (R), Zombie Buffalo, Toaster Hat, Ride-A-Pet Potion | **ni1zuua**: 2022 Birthday Cake |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
