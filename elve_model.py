@@ -5,6 +5,8 @@ using only Elvebredd's own change log (no AMVGG, no trades yet).
     python elve_model.py ads        # same test on the months that have trade ads, with and without the ad features
                                     # (ad_features.py) -> results/ads_model.md
     python elve_model.py ads 3      # only the last 3 test months (quick check)
+    python elve_model.py events [N] # same, with and without game-update features from playadopt.me/news
+                                    # (event_features.py) -> results/events_model.md
 
 Only pets that AMVGG also lists (802) are modelled; AMVGG's own values and trades are not features yet.
 
@@ -230,20 +232,26 @@ def main():
     lab = df[df.y >= 0].y.value_counts(normalize=True).sort_index()
     print(f"window {V.index[0].date()} -> {V.index[-1].date()} (batches {first_batch}+), {V.shape[1]} pet variants, "
           f"{len(df):,} rows; down/flat/up = {lab.round(3).tolist()}", flush=True)
-    ads, out, title = len(sys.argv) > 1 and sys.argv[1] == "ads", "elve_model", "Elve-only model"
+    mode = sys.argv[1] if len(sys.argv) > 1 else ""
+    out, title = "elve_model", "Elve-only model"
     last = int(sys.argv[2]) if len(sys.argv) > 2 else None
-    if ads:
-        from ad_features import ad_features
+    if mode in ("ads", "events"):  # same test with and without one extra feature group
+        pets = sorted(set(V.columns.get_level_values("name")))
         base = [c for c in df.columns if c not in NOT_FEATURES]
-        A = ad_features(V.index, sorted(set(V.columns.get_level_values("name"))))
-        ad_cols = [c for c in A.columns if c not in ("day", "name", "kind")]
-        df = df.merge(A, on=["day", "name", "kind"], how="left")
-        start = A.loc[A[ad_cols].notna().any(axis=1), "day"].min()  # first day any ad feature exists
+        if mode == "ads":
+            from ad_features import ad_features
+            X, on, label = ad_features(V.index, pets), ["day", "name", "kind"], "trade-ad"
+        else:
+            from event_features import event_features
+            X, on, label = event_features(V.index, pets), ["day", "name"], "game-update (news)"
+        cols = [c for c in X.columns if c not in ("day", "name", "kind")]
+        df = df.merge(X, on=on, how="left")
+        start = X.loc[X[cols].notna().any(axis=1), "day"].min()  # first day any of the features exists
         df = df[df.day >= start]
-        print(f"ad features from {start.date()}: {len(df):,} rows, coverage "
-              + ", ".join(f"{c} {df[c].notna().mean():.0%}" for c in ad_cols), flush=True)
-        res, (coef, feats) = walk_forward(df, {"": base, " + ads": base + ad_cols}, last)
-        out, title = "ads_model", "Elve model with trade-ad features"
+        print(f"{mode} features from {start.date()}: {len(df):,} rows, coverage "
+              + ", ".join(f"{c} {df[c].notna().mean():.0%}" for c in cols), flush=True)
+        res, (coef, feats) = walk_forward(df, {"": base, f" + {mode}": base + cols}, last)
+        out, title = f"{mode}_model", f"Elve model with {label} features"
     else:
         res, (coef, feats) = walk_forward(df, last=last)
 

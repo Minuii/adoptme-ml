@@ -7,6 +7,7 @@
     python scraper.py auto     # trades + both ad feeds, plus values + new Elve value updates if the last snapshot is older than VALUES_EVERY
     python scraper.py amvgg-updates # AMVGG's change log (since 2026-06-02) -> data/amvgg_updates/<month>.jsonl
     python scraper.py stats         # rewrite STATS.md
+    python scraper.py news          # new playadopt.me/news posts (update notes since 2020) -> data/news.jsonl
     python scraper.py elve-updates  # Elvebredd's change log (old -> new value per variant, since 2023-09) -> data/elve_updates/<month>.jsonl
 """
 import gzip, json, re, sys, time, urllib.request
@@ -431,6 +432,60 @@ def sync_elve_ads(samples=3, gap=10):
     print(f"elve ads: {n} new")
 
 
+# ---- playadopt.me/news: one post per game update (weekly, usually Friday 15:00-16:00 UTC), back to 2020 ----
+NEWS = DATA / "news.jsonl"
+
+
+def parse_news(html, slug):
+    """Title, exact publish time (the <time dateTime>; the sitemap's lastmod is a bulk-import date for older posts)
+    and the post's visible text, including image alt texts, which name the new pets."""
+    trees, parts, published = rsc_trees(html), [], None
+    for tree in trees.values():
+        for n in walk(tree, trees, set()):
+            if not isinstance(n, dict):
+                continue
+            if published is None and isinstance(n.get("dateTime"), str):
+                published = n["dateTime"]
+            kids = n.get("children")
+            kids = [kids] if isinstance(kids, str) else kids if isinstance(kids, list) else []
+            parts += [k.strip() for k in kids if isinstance(k, str) and k.strip() and not k.startswith("$")]
+            if isinstance(n.get("alt"), str):
+                parts.append(n["alt"].strip())
+    text = "\n".join(parts)
+    title = re.search(r"<title>([^<]*)", html)
+    title = title[1].replace(" - Adopt Me!", "").replace("&#x27;", "'").replace("&amp;", "&") if title else slug
+    start = text.find(title)
+    end = text.find("Play Adopt Me Now!", start)
+    return {"slug": slug, "title": title, "published": published,
+            "text": text[start if start >= 0 else 0:end if end > 0 else None]}
+
+
+def sync_news():
+    seen = {json.loads(l)["slug"] for l in NEWS.read_text(encoding="utf-8").splitlines()} if NEWS.exists() else set()
+    slugs = re.findall(r"/news/([^<\s]+)</loc>", fetch("https://www.playadopt.me/sitemap.xml"))
+    new = [s for s in dict.fromkeys(slugs) if s not in seen]
+    n = 0
+    with NEWS.open("a", encoding="utf-8") as f:
+        for slug in new:  # each post is written as soon as it's read, so an interrupted run resumes where it stopped
+            try:
+                post = parse_news(fetch(f"https://www.playadopt.me/news/{slug}"), slug)
+            except urllib.error.HTTPError as e:  # the sitemap lists at least one dead post (404); try again next run
+                print(f"news: {slug} -> HTTP {e.code}")
+                continue
+            f.write(json.dumps(post, ensure_ascii=False) + "\n")
+            f.flush()
+            n += 1
+            time.sleep(1)
+    print(f"news: {n} new posts")
+
+
+def load_news():
+    import pandas as pd
+    df = pd.DataFrame(lines("", "news.jsonl")).drop_duplicates("slug")
+    df["published"] = pd.to_datetime(df["published"], utc=True, format="ISO8601")
+    return df.dropna(subset=["published"]).sort_values("published").reset_index(drop=True)
+
+
 def auto():
     snapshot_trades()
     last = last_values_time()
@@ -445,6 +500,10 @@ def auto():
         snapshot_values()
         sync_elve_updates(limit=30)
         sync_amvgg_updates()
+        try:  # update notes are a side signal too
+            sync_news()
+        except Exception as e:
+            print(f"news job failed: {e!r}")
     write_stats()
 
 
@@ -505,4 +564,4 @@ def load_trades():
 
 if __name__ == "__main__":
     {"values": snapshot_values, "trades": snapshot_trades, "auto": auto,
-     "amvgg-ads": sync_amvgg_ads, "elve-ads": sync_elve_ads, "elve-updates": sync_elve_updates, "amvgg-updates": sync_amvgg_updates, "stats": write_stats}[sys.argv[1]]()
+     "amvgg-ads": sync_amvgg_ads, "elve-ads": sync_elve_ads, "elve-updates": sync_elve_updates, "amvgg-updates": sync_amvgg_updates, "news": sync_news, "stats": write_stats}[sys.argv[1]]()

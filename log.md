@@ -63,7 +63,7 @@ The old Google Sheet (`amvgg_trades_completed`, ~20k trades, May 20 to June 9, 2
 - [ ] Watch the first days of scheduled runs: GitHub delays, minutes used, gaps in trades
 - [x] Map item names between Elve and AMVGG (and trade items) for joining (`scraper.item_key`, 2026-11-11)
 - [x] Rebuild daily Elve values per pet/variant by walking the change log back from today's snapshot (`elve_model.daily_values`)
-- [ ] Event features from playadopt.me/news (see 2026-11-12 entry)
+- [x] Event features from playadopt.me/news (`event_features.py`, 2026-11-12); test result pending
 - [ ] Google Sheet that mirrors trades as they come in (needs a Google service account key as a repo secret)
 
 ## Timeline
@@ -151,3 +151,9 @@ The old Google Sheet (`amvgg_trades_completed`, ~20k trades, May 20 to June 9, 2
 - **Event source check: playadopt.me/news.** robots.txt allows everything. The sitemap lists 222 posts (2020-03 → now). Each post page carries its exact publish time (its sitemap `lastmod` is a bulk-import date for older posts, so don't use that). Since 2023 there is a post almost every week (42 / 46 / 49 / 45 per year for 2023–2026), almost always on Friday at 15:00–16:00 UTC, the moment the update goes live. That covers the whole Elve log window.
   - **Same-day posting is not a leakage problem.** Elvebredd reacts after the post: for Cat Cafe (posted 2026-09-18 15:00) Elve added the new pets at 18:00; for Lightning Dimension (2026-11-06 16:00) at 00:00 the next day, with a fix on 11-08, then its usual daily batches (~22:00–00:00 UTC). A day's features just have to use posts timestamped before that day's cutoff.
   - **Plan for features:** a post timestamp table (slug, title, time) plus hand tags (new egg / new pets / event start / event end / pets leaving), days since and until the last and next update, and per pet whether its origin event (from `catalog.json`) is running or just ended. Probably the most useful signal is "pet becomes unobtainable" (event or egg ends), which Elve's log only shows afterwards. A post's text can also name the pets, so pets can be tagged by slug without an LLM.
+- **News collector + event features.** `python scraper.py news` reads the sitemap and stores each new post as {slug, title, published, text} in `data/news.jsonl`. `published` is the post's own `<time dateTime>`. The text is the visible post text plus image alt texts, which name the new pets. It runs on the hourly values run (failures don't break the run) and writes each post as it goes. One sitemap post returns 404 and is skipped (retried next run). Backfill: 221 posts, 2020-03-27 → 2026-11-06.
+  - `event_features.py` tags each post with no LLM. Pets: a line that is exactly a pet's name, or, for names of 8+ characters or 2+ words, the name inside a sentence, so "Cat" or "Owl" don't match ordinary words. Leaving: "leaving / last chance / retire / no longer available / final week…". Returning: "returns / is back…". 81% of posts name at least one pet; 36 are tagged leaving and 30 returning. Spot check: Cat Cafe → Catte, Cattuccino, Matcha Cat, Pain au Chat + Blue Cat, Pink Dog (Throwback Egg); the October Halloween posts are tagged leaving; the "Returns" posts are tagged returning.
+  - Features per day (posts published up to the end of day t, same cutoff as values and ads):
+    - market: `ev_days_since_post` (capped at 14), `ev_leaving_7`, `ev_new_pets_7`
+    - per pet: `ev_mention_7` / `_30`, `ev_leaving_14`, `ev_returning_14`, `ev_age` (log days since first named; empty for pets older than the news)
+  - `python elve_model.py events [N]` runs the with/without test (shares the code path with `ads`) → `results/events_model.md`.
