@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 12:31 UTC by the scrape workflow._
+_Updated 2026-11-12 12:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 12:31 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 22,667 | 2026-11-12T12:30 |
-| elve | 2 | 4,576 | 2026-11-12T12:31 |
+| amvgg | 2 | 22,921 | 2026-11-12T12:45 |
+| elve | 2 | 4,592 | 2026-11-12T12:45 |
 
-## AMVGG completed trades: 3,643 total
+## AMVGG completed trades: 3,678 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,552 |
+| 2026-11-12 | 1,587 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:30 | **soul1nquestion**: Ride-A-Pet Potion ×2, Pain au Chat | **Aodpwsnwo**: Dango Penguins |
-| 12:30 | **yeagsr**: Alley Cat (R) | **rinconbrandon2012**: Dango Penguins (R) |
-| 12:30 | **Ruperto_1297**: Cow (FR) | **prensesecya**: Fly-A-Pet Potion ×16 |
-| 12:30 | **iconic_eb**: Sea Skeleton Panda (M) | **xXCry_b4bysXx**: Skelicorn (M) |
-| 12:30 | **cxltwaste**: Halo, Dragonfruit Fox (MFR) | **Llululinda2312**: Alpaca (NFR) |
-| 12:30 | **Blasecific**: Arctic Dusk Dragon (NR), Fly-A-Pet Potion, Count Slothula | **5ek20o**: Fairy Bat Dragon (R) |
-| 12:30 | **LilyLikesCooki3_YT**: Ride-A-Pet Potion ×6 | **gojosleftshoe01**: Giant Anteater |
-| 12:30 | **AsherHawkBlast2015**: Crow (MFR), Parrot (MFR), Naughty Mistletroll (MFR) ×2, Flaming Fox (MFR), Aurora Fox (MFR), Glacier Kitsune (MFR) | **method611491**: Giant Panda (MFR) |
-| 12:30 | **alaponaka**: Munchkin Cat (M), Corn Doggo (MFR) | **oreoo_vibez**: Balloon Unicorn (FR) |
-| 12:30 | **cwursedletter**: Alpaca (R) | **M1dnight_moons**: Honey Badger (N) |
-| 12:30 | **xDUSTINZx**: Koala (NR), Ginger Cat (NR) | **Lullabeans**: Dragonfruit Fox |
-| 12:30 | **qxynaee**: Ermine (N) | **Mimismila8**: Tutu |
-| 12:30 | **elitro44**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **itzLogansXroblox**: Jester Dragon |
-| 12:30 | **aleks2u**: Latte Kitsune (NR), Jester Dragon, Ride-A-Pet Potion | **Meh1234547**: Turtle (FR) |
-| 12:30 | **Starlightstarzz**: Hawk, Cuddly Candle, Blue Betta Fish, Rosy Maple Moth, Tealwood Monster, Alicorn ×5, Golden Dragon, Easter Bunny, Strawberry Shortcake Ducky, Sunglider, Sunglider (R), Dracula Parrot, Dragonfly, Purrowl | **maxwertaq**: Ride-A-Pet Potion ×4 |
+| 12:45 | **KaiSaboAceCC**: Cabbit (FR) | **Jorge4985**: Kangaroo (FR), Arctic Fox (FR) |
+| 12:45 | **larisochka_gudeeva98**: Snow Owl (R) | **liza_ok353**: Mochi Meow (NFR) |
+| 12:45 | **repeatingmylies**: Great Pyrenees | **VBBVZVM**: Burger Bear |
+| 12:45 | **Judecuts**: Peahen, Pudding Cat, Bauble Buddies | **toxica990066**: Harp Seal |
+| 12:45 | **CIU2004**: Sheeeeep (NFR), Siamese Cat (FR), Copycat (FR), Fly-A-Pet Potion ×2 | **Cookieiscotton**: Chocolate Chip Bat Dragon (FR) |
+| 12:45 | **iiLxy_MoonStxr**: Frost Fury (NFR), Aestus (NFR), Golden Penguin (NFR), Chocolate Dutch Guinea Pig (N), Great Pyrenees (MFR), Winter Buck (MFR), Happy Duckling (MR), Waffle Wyrm (MFR), Count Slothula (N), Frozen Penguin (M), Bobageist (MR), Lunar Ox (MR), Quetzalcoatl (M), Poodle (MR), Badger (M), Jacobin Pigeon (M), Caramelgeist (M), Ocelot (M) | **MERCEDESE300COUPE**: Evil Unicorn (FR) |
+| 12:45 | **Niruch_Bearly**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Shark Puppy, Pancake Stack, Spring Bunny Hood, Fly-A-Pet Potion | **Chris_1998years**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:45 | **Firefrtho12**: Bat Dragon (FR), Giraffe (NFR), Crow (NFR), Parrot (NFR) | **method611491**: Giant Panda (MFR) |
+| 12:45 | **gffdjddd23_4**: Cotton Candy Hat, Butter Knife | **Lychelys**: Fly-A-Pet Potion |
+| 12:45 | **RESTRlCTI0N**: Latte Kitsune (N) | **Lychelys**: Ride-A-Pet Potion ×12 |
+| 12:45 | **poly0950**: Bubblegeist ×6 | **Lychelys**: Ride-A-Pet Potion |
+| 12:45 | **califxrmula**: Ride-A-Pet Potion | **littlestofcilla**: Partridge (NR) |
+| 12:45 | **SKTRealker**: Crystal Egg ×17 | **llioed30**: Ride-A-Pet Potion |
+| 12:45 | **tolk949**: Lava Dragon (R) | **2nvkl**: Dango Penguins |
+| 12:45 | **frratee**: Frostbite Bear, Hot Doggo (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Sora_fromcam**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
