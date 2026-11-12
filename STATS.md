@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 20:45 UTC by the scrape workflow._
+_Updated 2026-11-12 20:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,32 +16,32 @@ _Updated 2026-11-12 20:45 UTC by the scrape workflow._
 | amvgg | 2 | 30,683 | 2026-11-12T20:45 |
 | elve | 2 | 6,219 | 2026-11-12T20:45 |
 
-## AMVGG completed trades: 5,294 total
+## AMVGG completed trades: 5,346 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,203 |
+| 2026-11-12 | 3,255 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:45 | **ri0txh**: Giant Anteater (NFR), Sandwich Hat | **zow_98alt**: Cerberus (MFR) |
-| 20:36 | **Mytradeaccountforme**: Christmas Pudding Pup (NFR), Pink Heart Glasses | **Lofile456**: Matcha Cat (NFR) |
-| 20:36 | **dacha_123561**: Mini Pig | **Cocicka272**: Crocodile (FR), Munchkin Cat, Happy Clam (NR), Red Fox, Cute-A-Cabra |
-| 20:36 | **lindaberdo**: Boohoo (M) | **xromosa2**: Winter Fawn (NR) |
-| 20:36 | **cannotaffordme**: Egg Stroller, Cupid Dragon (NFR), Cow (R), Lava Wolf (MFR), Moonbeam Butterfly (MFR) ×2, Swan (MFR), Irish Water Spaniel (FR), Mule (NR), Goat (FR), Rose Dragon (FR), Harp Seal (NFR), Yeti (N), Golden Chow-Chow, Candyfloss Chick (R), Tiny Wings, Dogmobile, Cannon Stroller | **Shhdhehdneirjndnd**: Frostbite Bear (MFR) |
-| 20:36 | **pwupi_spwinkl**: Lamb (MFR), Kitsune (F), Clumpty (N), Easter Bunny, Golden Dragon, Frozen Penguin, Black-Footed Ferret ×2, Royal Palace, Jimothy, Little Lamb, Grinmoire, Mummy Spider ×2, Pinkypillar, Princess Mare ×2 | **Alex_ShatUp**: Hot Doggo (FR) |
-| 20:36 | **Vansderrl**: Goose ×2, Dragonfruit Fox (NFR) | **lacesakura**: Water Rabbit (MR), Moon Rabbit (MR), Amami Rabbit (M), Rice Cake Rabbit (MR), Burning Bunny (MR), Ghost Bunny (MFR), Bunny Swirl (MR), Hare |
-| 20:36 | **zoommbbeee**: Unicorn, Strawberry Shortcake Ducky | **HOCOKKU**: Ride-A-Pet Potion |
-| 20:36 | **omcherubxx**: 2022 Birthday Party Horn, Spring Bunny Hood, Red Dutch Guinea Pig, Water Rabbit | **HOCOKKU**: 2022 Birthday Cake |
-| 20:36 | **tillywilliamson89**: Latte Kitsune (R), Glormy Leo (N) | **Alex_ShatUp**: Kangaroo (FR) |
-| 20:36 | **vjhjskh456**: Aztec Egg ×18 | **HOCOKKU**: Ride-A-Pet Potion |
-| 20:36 | **miraahuntrix**: Golden Penguin (R) | **don2p**: Fly-A-Pet Potion |
-| 20:36 | **kkaatEEe2**: Orca (M) | **petal_54321**: Fly-A-Pet Potion |
-| 20:36 | **tonysciela**: Amami Rabbit ×5 | **nazzanown10**: Snow Monkey |
-| 20:36 | **K4n4ato10**: Golden Dragon, Golden Griffin, Gemstone Egg, Diamond Unicorn, Golden Unicorn | **avneetkool**: Ride-A-Pet Potion |
+| 20:55 | **Kira_Django123**: Chocolate Dutch Guinea Pig (R), Chocolate Dutch Guinea Pig ×3 | **catgirl718**: Ride-A-Pet Potion ×6 |
+| 20:55 | **miklel13**: Sheeeeep, Gemstone Egg | **Venus_pl4n3t**: Sheeeeep (R) |
+| 20:55 | **AKI10PLAY**: Jester Dragon (FR) | **ch0colatadafresca**: Copycat (R) |
+| 20:55 | **diagreste**: Tuxedo Cat ×2, Puffer Fish, S'mores Raccoon | **exorc6ist**: Ride-A-Pet Potion ×4 |
+| 20:55 | **Leah_newaccnt**: 2022 Birthday Party Horn, Fly-A-Pet Potion, Spring Bunny Nose | **firstdayxs**: 2022 Birthday Confetti Cannon, Unicorn Backpack |
+| 20:55 | **kdkejwjsjd**: Copycat (MFR) | **calio_nwn**: Shark Puppy (MFR), Head Chef, Tea Party Chair |
+| 20:55 | **eevelinka_09**: Diamond Butterfly (MFR), African Wild Dog (NFR), Frost Dragon (FR), Owl (FR) | **guillemoran**: Balloon Unicorn (MFR) |
+| 20:55 | **On3gtive**: Ride-A-Pet Potion ×2 | **fishymiss_y**: Bat Backpack, Ghost Kitty Backpack, Glamicorn Purse Pet, Bear Hood, Cheesecake Hat, Gold Tiara, Strawberry Shortcake Bow |
+| 20:55 | **proplayer110408**: Owl (FR) | **mert3967**: Grim Dragon (MFR) |
+| 20:55 | **swatter1inc**: River Otter (MFR), Fly-A-Pet Potion | **XxArmy_UvUxX**: Stitches (MFR) |
+| 20:55 | **prezervativkotika**: Unicorn Horn, Rain Cloud Hat | **Iwokale**: Mini Pig |
+| 20:55 | **testingthingsidunno**: Sushi Penguin (MFR) | **bigbaddie6867**: 2022 Birthday Party Hat |
+| 20:55 | **schilan225**: Chocolate Dutch Guinea Pig (N), Ride-A-Pet Potion ×2 | **ichbinsehhhr**: Cheetah (NFR) |
+| 20:55 | **YourBirthdayCharm**: Frost Phoenix (NFR), King Bee (NFR) | **AmandaPandaKawaii123**: Evil Rock (M) |
+| 20:55 | **Anonymous_6999**: Undead Jousting Horse (R) | **mik_82j**: Frostbite Bear (FR), Aviator Hat, Butter Knife, Ride-A-Pet Potion ×5, Fly-A-Pet Potion, Cow Calf (R), Angus Bull |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
