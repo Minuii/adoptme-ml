@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 23:16 UTC by the scrape workflow._
+_Updated 2026-11-12 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,32 +16,32 @@ _Updated 2026-11-12 23:16 UTC by the scrape workflow._
 | amvgg | 2 | 33,032 | 2026-11-12T23:15 |
 | elve | 2 | 6,707 | 2026-11-12T23:16 |
 
-## AMVGG completed trades: 5,735 total
+## AMVGG completed trades: 5,765 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,644 |
+| 2026-11-12 | 3,674 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **Sadhappy303**: Turtle (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **op_con0**: Cow (FR) |
-| 23:15 | **ihamoda**: Glacier Moth (MFR) ×2, Evil Unicorn (FR) | **teetehejej**: Frost Dragon (FR) |
-| 23:15 | **DirectorRobby**: Propeller Hat ×2, Chef Hat, Burger Boots, Chicken Hat, Bat Backpack ×4, Bewitched Hat, Strawberry Clip, Rain Hat ×5, Dumpling Friend Hat, 2022 Birthday 5 Badge | **fideosconatunnom**: Rain Cloud Hat |
-| 23:15 | **miaxadoptme4**: Cow (R) | **Cynor0x**: Fairy Bat Dragon (R), Fly-A-Pet Potion ×2 |
-| 23:15 | **XiuLi1234**: Fly-A-Pet Potion, Ride-A-Pet Potion | **KsuKsuVzlomali**: Alley Cat (R), Eaten Donut |
-| 23:15 | **alex2299292_gamer**: Albino Monkey (FR) | **BendyWendy_SIKE**: Fly-A-Pet Potion ×8 |
-| 23:15 | **thalitafeliz113**: Slime (N), Red Dutch Guinea Pig, Musk Ox | **apple_juice99lovr**: Shark Puppy |
-| 23:15 | **t8aelyss**: Retired Egg ×2 | **v4mp_f1r**: Black Rhino ×3 |
-| 23:15 | **RESTRlCTI0N**: Spring Bunny Nose ×2 | **wldnsdlrnldudna**: Ride-A-Pet Potion ×4 |
-| 23:15 | **X0MADD1E**: Strawberry Shortcake Bat Dragon (MFR) | **129x956**: Red Dutch Guinea Pig (MFR), Alpaca (MFR), Nutcracker Squirrel (M) |
-| 23:10 | **Alisjdfhh**: Cabbit (NFR), Ride-A-Pet Potion | **KitKat_435**: Dalmatian (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion |
-| 23:10 | **hotta_whp**: Giant Panda (R), Frostbite Bear (FR), Chocolate Dutch Guinea Pig (MFR) | **Cinzsins**: Bush Elephant (MFR) |
-| 23:10 | **lil2fad3d**: Three Blind Mice ×2 | **its_kiki104**: Ghost |
-| 23:10 | **vertaocsi**: Coyote (N) | **blake_shortie**: Ride-A-Pet Potion |
-| 23:10 | **rungji0421**: Gummy Guana (M) | **Andy_kj8**: Poltergeist Box ×18 |
+| 23:25 | **starneverlandsAlt**: Banana Hat | **rawrvampy**: Ride-A-Pet Potion |
+| 23:25 | **K1MM007**: Pelican (FR), Turtle, Ride-A-Pet Potion | **metanight3d**: Goose (FR), Volcanic Rhino (N), Winged Tiger |
+| 23:25 | **frompoortoacandicorn**: Thunderfisher | **igrok6_6**: Choco Penguin |
+| 23:25 | **Kamila_33309**: Zebra (M), Orangutan (M) | **Nugget_Courtnee**: Ride-A-Pet Potion |
+| 23:25 | **DarlingSmiling**: Gumball Caterpillar ×11, Orca ×5 | **frompoortoacandicorn**: Burger Bear |
+| 23:25 | **cutexqimike**: Hot Doggo (MFR), Cow (FR), Siamese Cat (R) | **Lingling111206**: Giant Anteater (MFR) ×3 |
+| 23:25 | **ang3licbwnni**: Kitty Bat (MR), Glacier Kitsune, Copycat, French Bulldog (N), English Sheepdog (N) | **DxxxDemon_WolfxxxD**: Copycat (N) |
+| 23:25 | **blackkitty446**: Alicorn | **Lola_lover980**: Arctic Hare |
+| 23:25 | **vvaryaa58AaS**: Modern Mansion | **Marjorievirgo**: Fly-A-Pet Potion |
+| 23:25 | **Leo5622123**: Cryptid (FR), Jekyll Hydra (FR), Indian Flying Fox (M) | **g1na_02**: Parrot (FR) |
+| 23:25 | **Nyxie_OwO**: Frost Dragon (NFR), Hive Backpack | **zacmat123456**: Strawberry Tortle (MFR) |
+| 23:25 | **itss0ph1a03**: Pain au Chat, Chihuahua | **Moondolllescent7**: Ride-A-Pet Potion |
+| 23:25 | **reaper_pickles**: Halloween Slime Mega Neon Paint, Electric Tide Mega Neon Paint | **Riikka_Takanashiii**: Ride-A-Pet Potion |
+| 23:25 | **meownie_u**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **FufuFluffyFlowi**: Zombie Buffalo (FR) |
+| 23:25 | **Cocovunix**: Skelicorn (MR) | **shaIlowseas**: Cozy Mistletroll (MR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
