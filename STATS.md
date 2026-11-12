@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 09:45 UTC by the scrape workflow._
+_Updated 2026-11-12 10:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 09:45 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 20,232 | 2026-11-12T09:45 |
-| elve | 2 | 4,042 | 2026-11-12T09:45 |
+| amvgg | 2 | 20,465 | 2026-11-12T10:00 |
+| elve | 2 | 4,078 | 2026-11-12T10:01 |
 
-## AMVGG completed trades: 3,263 total
+## AMVGG completed trades: 3,276 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,172 |
+| 2026-11-12 | 1,185 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:00 | **ui13ya**: Fly-A-Pet Potion, Ride-A-Pet Potion, Pig (R) | **personal_stalker69**: Crocodile |
+| 10:00 | **FlyToTheSaturn**: Discosplosion, Magic House Door, Hotdog Stand, Lemonade Stand, Cotton Candy Stand, Snow Cone Stand, Caticorn Rattle, Axe Rattle, Marsh Plush, Octopus Plush, Skeleton Pogo Stick, Balloons, Creepy Balloon, Banana Pogo, Turkey Plush, Cookie Dough Plush, Reindeer Plush, Heart Plushie | **MegaPoslaTV**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 10:00 | **FlyToTheSaturn**: Droplet Stroller, Double Stroller ×3, Car Stroller, Rocket Ship Stroller, Hatched Egg Stroller, Crate Stroller ×5, Triple Stroller ×6 | **MegaPoslaTV**: Fly-A-Pet Potion |
+| 10:00 | **Zhackpogi**: Winged Horse (FR) | **Pumkin3588**: Feesh, Classic Teapot |
+| 10:00 | **vivvlly**: Catte, Tuxedo Cat, Kitty Bat, Bubblegeist, Electric Hornet, Thunderfisher ×2, Caramelgeist (N) | **Leviodas**: Fly-A-Pet Potion |
+| 10:00 | **k_sybom**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Lozi_loz**: Copycat |
+| 10:00 | **itzLogansXroblox**: Jester Dragon (R), Ride-A-Pet Potion | **kkaatEEe2**: Copycat (R) |
+| 10:00 | **Starlightstarzz**: Swan ×2, Cow Calf | **Itsjustthevibez**: Ride-A-Pet Potion ×3 |
+| 10:00 | **OfficialBrunette**: Pet Handler Pro Certificate, Alien Eyes Hat | **twojstarydzikitygrys**: Spring Bunny Nose |
+| 10:00 | **FlyToTheSaturn**: Sock Chew Toy, Gift Throw Toy, Candle ×2, Sleigh Bells Rattle ×3, Marsh Balloon, Kangaroo Pogo, Dragon Balloon ×2, Heart Balloon, Cookie Dough Plush ×3 | **cowlol898**: Fly-A-Pet Potion |
+| 10:00 | **Ninimari89**: Chihuahua ×2, Ermine | **xxxtentacion12639**: Ride-A-Pet Potion |
+| 10:00 | **P1nkteeth**: Fallow Deer (NFR), Ice Cream Hermit Crab (N), Burger Bear (N) | **sacrificingmyself19**: Lion Cub (NFR) |
+| 10:00 | **cute_01814**: Ride-A-Pet Potion | **Leviodas**: White Choccybunny (M), Milk Choccybunny (M) |
 | 09:45 | **myBestiVlad2380**: Pancake Stack, Lemonade Stand | **rover243ro**: Fly-A-Pet Potion, Ride-A-Pet Potion |
 | 09:45 | **Diro1489**: Velocirooster, Count Slothula (N), Moose Calf | **Tal_Kazman**: Mechapup (FR) |
-| 09:45 | **miko_nyaw01**: Ice Cream Cone Hat, Spring Bunny Nose, Propeller Hat, Spring Bunny Feet, Goth Shoes ×3, Ride-A-Pet Potion ×2 | **Tal_Kazman**: 2022 Birthday Party Hat |
-| 09:45 | **aydachan200311**: Giant Panda (FR), Giant Panda, Blazing Lion (FR), Strawberry Shortcake Bat Dragon (FR), Tiny Wings, 2022 Birthday Party Hat, Fly-A-Pet Potion ×2 | **Looey20072**: Shadow Dragon (FR) |
-| 09:45 | **zeejnaa**: Candicorn (NFR), Candicorn (NR), Turtle (FR), Kangaroo | **Tal_Kazman**: Shark Puppy (MFR) |
-| 09:45 | **EVGPOP90**: Brachiosaurus (NFR), Thunderfisher | **Jdhsoand**: Harp Seal |
-| 09:45 | **Raachiohoot**: Gold Mahi Mahi (N), Parakeet (N) ×2, Zebra (N), Donkey (N) ×2, Mahi Mahi (N) ×2, Mouse (N) ×2 | **waykner**: Ride-A-Pet Potion |
-| 09:45 | **ahojkakacahoj**: Dolphin (NR), King Bee (FR) | **lashasha_123**: Happy Duckling (N) |
-| 09:45 | **adoreaysh**: Balloon Unicorn (MFR) | **XxAshleighGamingxX**: Bat Dragon (FR), Balloon Unicorn (NFR) |
-| 09:45 | **0qwc0**: Pet Handler Pro Certificate, Chihuahua | **AJEstoGaming**: Alley Cat |
-| 09:45 | **0qwc0**: Tortuga de la Isla (FR), Ride-A-Pet Potion | **Stxrrynight0303**: Chocolate Dutch Guinea Pig (NR) |
-| 09:45 | **SaltnPepperStuff**: Shih Tzu (M), Hopbop (M), Ghost Wolf (N), Happy Duckling | **flwryeaa**: Ride-A-Pet Potion ×2 |
-| 09:45 | **sprinklelove159**: Aestus (FR), Swan (R) | **CKIRLI_CKIRLI012**: Ballet Swan (R) |
-| 09:45 | **z3rodayer**: Cerberus (FR) | **sursyrzytxurzutzutz**: Kitty Bat ×2 |
-| 09:45 | **Kaonimy**: Jacobin Pigeon (M) | **Legion_Army15**: Ginger Cat (N) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
