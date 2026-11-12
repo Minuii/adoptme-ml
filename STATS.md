@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 01:16 UTC by the scrape workflow._
+_Updated 2026-11-12 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 01:16 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 12,228 | 2026-11-12T01:15 |
-| elve | 2 | 2,525 | 2026-11-12T01:16 |
+| amvgg | 2 | 12,496 | 2026-11-12T01:30 |
+| elve | 2 | 2,589 | 2026-11-12T01:31 |
 
-## AMVGG completed trades: 2,302 total
+## AMVGG completed trades: 2,343 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 211 |
+| 2026-11-12 | 252 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:15 | **bruh567565**: Goat (MFR) | **D8RYY**: Ice Golem (MFR), Snow Monkey (MFR), Pet Handler Pro Certificate |
-| 01:15 | **Ava_livey2**: Flamingo (R) | **Mattzilla330**: Candicorn (FR) |
-| 01:15 | **nevaehthefirst10**: Huntsman Robin, Mexican Wolf | **Uecinth**: Admin Abuse Egg ×6 |
-| 01:15 | **Robloxiana_xxx2011**: Yule Log Dog (R) | **qwelxzz**: Ride-A-Pet Potion ×2 |
-| 01:15 | **Hannah_MI989**: Ride-A-Pet Potion ×2 | **DaWsHa120**: Dragonfruit Fox |
-| 01:15 | **trezehel**: Winged Tiger (MFR), Rain Cloud Hat | **i8tadori**: Cryptid (NFR) |
-| 01:15 | **Xx_mochax1X**: Sloth (R), Gecko Ducky (M) | **raeshiia**: Ride-A-Pet Potion |
-| 01:15 | **deeplishpou**: Rain Cloud Hat, Bunny Swirl (MFR) | **skullteast**: 2022 Birthday Party Hat |
-| 01:15 | **Shadx_1553**: Cryptid (MFR), Elephant (FR), Elephant (R) | **cwupidbrae**: Parrot (MFR), Silverback Gorilla (MFR) |
-| 01:15 | **Sentikaza_pikachu**: Caterpillar (FR), Caterpillar ×3, Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **Shadx_1553**: Siamese Cat (MFR) |
-| 01:15 | **Adoptmememe_77**: Owl (FR), Cow (FR), Turtle (FR), Fly-A-Pet Potion | **Vickykun123lo**: Frost Dragon (FR) |
-| 01:15 | **kxc1el31gh**: Dragonfruit Fox (MFR) | **DeoKyleSonic**: Turtle (FR), Kangaroo (FR) |
-| 01:15 | **Cherridoll76**: Kangaroo (FR) | **Vicloqe**: Halloween Evil Dachshund (MFR), Rat (MFR), Fly-A-Pet Potion ×2 |
-| 01:15 | **Hhto123**: Candicorn (NFR), Candicorn (FR), Ride-A-Pet Potion | **Oldffcdf**: Arctic Reindeer (FR) |
-| 01:15 | **donnotinteract**: Sugar Glider (R), Ride-A-Pet Potion | **96uwuarroZ**: 2022 Birthday Cake, Fly-A-Pet Potion ×2 |
+| 01:30 | **Lemonxnwn**: Alicorn (MFR), Count Slothula (NR) | **AMINO4KA7U**: Leopard Shark (NFR) |
+| 01:30 | **cachorris_XD**: Great Pyrenees, Punk Pony (N), 2026 Birthday Butterfly (N), Hydra (R), Classic Trade Stand, Mexican Wolf (N) | **k_sybom**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 01:30 | **pinkxmascookie**: Siamese Cat (MFR), Fallow Deer (MFR), Hare (MFR), Lion Cub (MFR), Ice Cream Hermit Crab (MFR) | **orchidbutterfliess**: Peppermint Penguin (MFR) |
+| 01:30 | **DEV4STATINGLY**: Alley Cat (MFR), French Bulldog (MFR), Ghost Dog (MFR), Slime (MFR), Werewolf (FR), Munchkin Cat, Jester Dragon, Phantom Dragon, Spring Bunny Hood, Fly-A-Pet Potion, Golden Lettuce | **orchidbutterfliess**: Siamese Cat (MFR) |
+| 01:30 | **V_Thingzz**: Golden Penguin (MFR) | **Chasegamertv2667**: Frostbite Bear |
+| 01:30 | **Kui_Yeager**: Cryptid (NR) | **deimisaa**: Cryptid (FR), Orchid Butterfly, Candicorn (NR) |
+| 01:30 | **mango_robloxx101**: Cryptid (FR), Tiny Wings, Aussie Egg, Pink Cat Ear Headphones, Chocolate Chip Bat Dragon Backpack, Lightbulb Hat, Duck Floatie | **DJSkrimblo**: Copycat (MFR) |
+| 01:30 | **kaibodydump**: Flaming Fox (MFR), Many Mackerel (R), Spring Bunny Hood | **Froggyblossom90**: Blue Dog (NFR) |
+| 01:30 | **ttttfrrf530**: Copycat (MFR), Pig (R) | **Siren_AriaBlaze**: Aurora Fox (MFR) |
+| 01:30 | **cawaaaiii11**: Capuchin Monkey (NFR) | **itsmeeumee17**: Ride-A-Pet Potion |
+| 01:30 | **deeplishpou**: 2022 Birthday Party Hat | **kittyarchivies**: Unicorn Horn, Pet Handler Pro Certificate |
+| 01:30 | **Larisa_DiecooleSocke**: Frost Dragon (FR), Balloon Unicorn (FR), Rainbow Maker | **jasIineee**: Frost Dragon (NFR) |
+| 01:30 | **meowieboogie**: Fly-A-Pet Potion | **HoliviaGold**: Pet Handler Pro Certificate |
+| 01:30 | **bakedkole**: Balloon Unicorn (FR), Peppermint Penguin (NFR) | **sshsuisjs**: Frost Dragon (FR) |
+| 01:30 | **luvnxt**: Koi Carp (M), Patchy Bear (MR) | **Circus_Aeria**: S'mores Raccoon (NFR) |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
