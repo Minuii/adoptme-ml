@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 22:11 UTC by the scrape workflow._
+_Updated 2026-11-12 22:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 22:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 31,899 | 2026-11-12T22:00 |
-| elve | 2 | 6,485 | 2026-11-12T22:01 |
+| amvgg | 2 | 32,135 | 2026-11-12T22:15 |
+| elve | 2 | 6,532 | 2026-11-12T22:16 |
 
-## AMVGG completed trades: 5,552 total
+## AMVGG completed trades: 5,564 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,461 |
+| 2026-11-12 | 3,473 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:15 | **SprayzXDD1**: Alicorn (MFR) | **xilawn2023**: Ride-A-Pet Potion ×4 |
+| 22:15 | **cbmelissa**: Butter Knife, Fly-A-Pet Potion, Ride-A-Pet Potion, Yeti | **apples_oopp1**: Spring Bunny Hood |
+| 22:15 | **Quenhuhg**: Silverback Gorilla (MFR), Candicorn (MFR), Pig (FR), Bunny Swirl (MFR), Copycat (R), Winged Tiger (MFR), 2022 Birthday Confetti Cannon, Winged Tiger (R) | **SkaterPlayzQueen2016**: Crow (NFR), Owl (FR) |
+| 22:15 | **K0TIIX**: Cryptid (FR) | **Leon_BSLEO**: Chocolate Chip Bat Dragon (FR), Peppermint Penguin (FR) |
+| 22:15 | **t8aelyss**: Retired Egg ×5 | **v4mp_f1r**: Black Rhino (N) |
+| 22:15 | **CC_CreepyClown11**: Malaysian Tapir (N), Retired Egg ×5 | **crastfast**: Ride-A-Pet Potion |
+| 22:15 | **EricCasper**: Parrot (FR), Pirate Ghost Capuchin Monkey (MFR), Balloon Unicorn (FR), Puffin (MFR), Dalmatian (FR), Jousting Horse (MFR), Strawberry Shortcake Bat Dragon (FR), Border Collie (NR), Turtle (FR), Candicorn, Rose Dragon (NFR), Rainbow Dragon (NFR), Pumpkin, Giant Cheetah Mount, Dango Penguins (NR), Christmas Gift, Happy Duckling, Leopard Cat | **copyvoting**: Hedgehog (MFR) |
+| 22:15 | **ssundylan**: Candicorn (MFR), Cupid Dragon (MFR) | **cuthbertbean**: Moose Calf (MFR), Sheeeeep (MFR), Rain Cloud Hat, 2022 Birthday Confetti Cannon ×2, Yule Log Dog (MFR) |
+| 22:15 | **Tena_IsPeakfr**: Mini Pig (FR) | **Teach_baby**: Ice Cream Cone Hat, Spring Bunny Hood, Ram (NR), Polar Bear, Pet Handler Pro Certificate, Sheeeeep (FR), Munchkin Cat, Thinking Hat, Ride-A-Pet Potion |
+| 22:15 | **Elf_Deme**: Cobra (FR) | **xilawn2023**: Ride-A-Pet Potion |
+| 22:15 | **xilawn2023**: Ride-A-Pet Potion | **iimarai3**: Black-Footed Ferret (NFR) |
+| 22:15 | **oliverelease**: Munchkin Cat, Zombie Buffalo (FR), Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×4 | **FufuFluffyFlowi**: Cow (FR) |
 | 22:11 | **MOEW13K15**: Cow (FR) | **stqrfallz**: Chocolate Dutch Guinea Pig (MFR), Fly-A-Pet Potion |
 | 22:11 | **Amy_lee1239**: Happy Duckling | **Rachel_2patate**: Shiver Wolf |
 | 22:11 | **cuthbertbean**: Glacier Moth (MFR), Polar Bear (MFR) ×2, Husky (MFR) ×2, Yule Log Dog (MFR) ×3, Golden Chow-Chow (MFR) | **cannotaffordme**: Frost Dragon (FR), Caterpillar (MFR) |
-| 22:11 | **yeetimaheadout7**: Kitty Bat (M), Ride-A-Pet Potion ×2 | **AmvggPi0n41K**: 2022 Birthday Party Horn |
-| 22:11 | **bakedkole**: Fly-A-Pet Potion ×12 | **Xx80Lily08xX**: Turtle (FR) |
-| 22:11 | **IDFeelAnything**: Christmas Pudding Pup (MFR), Ride-A-Pet Potion | **dvmbliz**: Cabbit (NFR), Cow Calf (MFR), Ermine (MR), 2022 Birthday Party Hat, Pancake Stack |
-| 22:11 | **Elf_Deme**: Wyvern (FR) | **xilawn2023**: Ride-A-Pet Potion |
-| 22:11 | **Mfrstellaa**: Polar Bear (NFR), Tiny Wings | **ImInKissland**: Mermicorn (FR) |
-| 22:11 | **UnicornpowerAZAalt**: Little Lamb (N), Bunny (N), Bat (N), Black Rhino (N), Retired Egg | **Tonks_83**: Ride-A-Pet Potion |
-| 22:11 | **gdhjsbdhhsbs**: Kangaroo (NFR), Flamingo (NFR), Mini Pig (FR), Hot Doggo (R) | **PhoenixForever09**: Pirate Ghost Capuchin Monkey (MFR) |
-| 22:11 | **nuxabo**: Cow (NFR), Cow (FR), Polar Bear (NR), Sweetheart Rat (MR), Ride-A-Pet Potion | **Kiandra13kiandra**: Haetae (FR) |
-| 22:11 | **wivvyxly**: Stygian Owl (M), Boohoo (N) | **littlefelonies**: Pomeranian ×13 |
-| 22:11 | **Leslieh527**: Halo, Peppermint Penguin (FR), Siamese Cat, Pink Cat (R), Arctic Fox (FR) | **cutiiepwup**: Cryptid (FR) |
-| 22:11 | **tatianachan1713**: Robin (N), Fleur De Ice | **themudwizard**: Ride-A-Pet Potion |
-| 22:11 | **slushyseis**: Silverback Gorilla (MFR) | **dloxasteq2**: Christmas Pudding Pup (MFR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
