@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 12:45 UTC by the scrape workflow._
+_Updated 2026-11-12 13:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 12:45 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 22,921 | 2026-11-12T12:45 |
-| elve | 2 | 4,592 | 2026-11-12T12:45 |
+| amvgg | 2 | 23,143 | 2026-11-12T13:00 |
+| elve | 2 | 4,638 | 2026-11-12T13:01 |
 
-## AMVGG completed trades: 3,678 total
+## AMVGG completed trades: 3,715 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,587 |
+| 2026-11-12 | 1,624 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:45 | **KaiSaboAceCC**: Cabbit (FR) | **Jorge4985**: Kangaroo (FR), Arctic Fox (FR) |
-| 12:45 | **larisochka_gudeeva98**: Snow Owl (R) | **liza_ok353**: Mochi Meow (NFR) |
-| 12:45 | **repeatingmylies**: Great Pyrenees | **VBBVZVM**: Burger Bear |
-| 12:45 | **Judecuts**: Peahen, Pudding Cat, Bauble Buddies | **toxica990066**: Harp Seal |
-| 12:45 | **CIU2004**: Sheeeeep (NFR), Siamese Cat (FR), Copycat (FR), Fly-A-Pet Potion ×2 | **Cookieiscotton**: Chocolate Chip Bat Dragon (FR) |
-| 12:45 | **iiLxy_MoonStxr**: Frost Fury (NFR), Aestus (NFR), Golden Penguin (NFR), Chocolate Dutch Guinea Pig (N), Great Pyrenees (MFR), Winter Buck (MFR), Happy Duckling (MR), Waffle Wyrm (MFR), Count Slothula (N), Frozen Penguin (M), Bobageist (MR), Lunar Ox (MR), Quetzalcoatl (M), Poodle (MR), Badger (M), Jacobin Pigeon (M), Caramelgeist (M), Ocelot (M) | **MERCEDESE300COUPE**: Evil Unicorn (FR) |
-| 12:45 | **Niruch_Bearly**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Shark Puppy, Pancake Stack, Spring Bunny Hood, Fly-A-Pet Potion | **Chris_1998years**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:45 | **Firefrtho12**: Bat Dragon (FR), Giraffe (NFR), Crow (NFR), Parrot (NFR) | **method611491**: Giant Panda (MFR) |
-| 12:45 | **gffdjddd23_4**: Cotton Candy Hat, Butter Knife | **Lychelys**: Fly-A-Pet Potion |
-| 12:45 | **RESTRlCTI0N**: Latte Kitsune (N) | **Lychelys**: Ride-A-Pet Potion ×12 |
-| 12:45 | **poly0950**: Bubblegeist ×6 | **Lychelys**: Ride-A-Pet Potion |
-| 12:45 | **califxrmula**: Ride-A-Pet Potion | **littlestofcilla**: Partridge (NR) |
-| 12:45 | **SKTRealker**: Crystal Egg ×17 | **llioed30**: Ride-A-Pet Potion |
-| 12:45 | **tolk949**: Lava Dragon (R) | **2nvkl**: Dango Penguins |
-| 12:45 | **frratee**: Frostbite Bear, Hot Doggo (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Sora_fromcam**: Dalmatian (FR) |
+| 13:00 | **altfortrades222**: Fly-A-Pet Potion ×6 | **Panda_23782**: Blue Dog |
+| 13:00 | **idk_oofy1377**: Mexican Wolf (N), Orca (N), White Choccybunny (N), Liger (N) | **califxrmula**: Ride-A-Pet Potion |
+| 13:00 | **disapp6ar**: Hare (MFR), Irish Water Spaniel (MFR), Sugar Axolotl (MFR) | **obv1kylxx**: Shark Puppy (MFR), Candicorn (MFR), Violet Butterfly (MFR), Angel Wings |
+| 13:00 | **anihao17**: Cow (FR), Turtle (FR) | **Niruch_Bearly**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:00 | **Lollypop_2211**: Brown Bear (NR) | **LumDayy**: Hare (NR), Merry Mistletroll (N) |
+| 13:00 | **ghvstvex**: Pineapple Owl (MFR), Pancake Stack | **m4rshalI**: Hare (MFR) |
+| 13:00 | **Stony_PlayzYT**: Frost Dragon (FR), Turtle (NFR), Ride-A-Pet Potion | **Zxuxzrt**: Frost Dragon (FR), Alley Cat (MR) |
+| 13:00 | **Zxuxzrt**: Haetyphoon (R) | **furiousjumperfan52**: Turtle (FR) |
+| 13:00 | **Yolo_trol07**: Stray Cat Dragon (M), Skelicorn (M), Pretty Pony, Strawberry Shortcake Bat Dragon Backpack, Gold Crown, Shadow Wings, Pink Heart Glasses ×2, Pink Cat Ear Headphones, Burger Boots, Pain au Chat ×2 | **katya_dura781**: Haetyphoon |
+| 13:00 | **Jiminzo4**: Vampire Dragon (MFR) | **xluvvmel**: Jester Dragon (MFR) |
+| 13:00 | **TheGodx555**: Ride-A-Pet Potion ×2 | **ded_55250000**: Dragonfruit Fox |
+| 13:00 | **yshimeia**: Ride-A-Pet Potion ×8 | **LunaAqua5849**: Unicorn Backpack ×2 |
+| 13:00 | **Lerkooo_111**: Christmas Pudding Pup (FR), Great Pyrenees (N) | **twojstarydzikitygrys**: Jellyfish (R) |
+| 13:00 | **Kftftykrfykf**: Turtle (FR) ×2, Tortuga de la Isla (FR), Tortuga de la Isla | **niyashimo**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:00 | **califxrmula**: Ride-A-Pet Potion | **lxnxlyXfrxvxr**: Penguin (R), Toucan (N), Mexican Wolf (N), Poodle (N) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
