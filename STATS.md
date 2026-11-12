@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 04:16 UTC by the scrape workflow._
+_Updated 2026-11-12 04:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 04:16 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 15,168 | 2026-11-12T04:15 |
-| elve | 2 | 3,124 | 2026-11-12T04:16 |
+| amvgg | 2 | 15,396 | 2026-11-12T04:30 |
+| elve | 2 | 3,193 | 2026-11-12T04:31 |
 
-## AMVGG completed trades: 2,646 total
+## AMVGG completed trades: 2,694 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 555 |
+| 2026-11-12 | 603 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:15 | **TsukiKito**: Ride-A-Pet Potion ×2 | **ALUCARD_5810**: Cerberus (FR) |
-| 04:15 | **lemechant3**: Cow (FR), Sugar Glider (FR) | **Miranda020720**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:15 | **SyndromGG**: Pomeranian (M) | **magicalxmoon**: Fly-A-Pet Potion |
-| 04:15 | **123joleighbukkems123**: Lion Cub (R) | **Ash453_new**: Copycat |
-| 04:15 | **123joleighbukkems123**: Dragonfruit Fox (N), Dragonfruit Fox | **Omar2002548**: Shark Puppy |
-| 04:15 | **Danielmulticuenta123**: Silverback Gorilla (NR) | **Gaming123ojggfcrhd**: Hot Doggo (R) |
-| 04:15 | **Strawberryhoney101**: Stygian Hang Glider | **lopez1235666666666**: Sour Glider |
-| 04:15 | **losrudos049**: Candicorn (NFR), Rainbow Maker, Summer Walrus (M) | **4evxer**: Shrew (MFR) |
-| 04:15 | **Antonnyalexander2009**: Caterpillar (MFR), Cow (MFR) | **kennybear2009**: Mini Pig (MFR) |
-| 04:15 | **wiirex12o2**: Kangaroo (NFR), Astronaut Gorilla (N), Lava Wolf, Lava Dragon, Puffin (FR), Jousting Horse, Ice Cream Hermit Crab ×2, Fly-A-Pet Potion, Ice Moth Dragon (N), Ride-A-Pet Potion ×2 | **Polysill**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:15 | **Ji_rie**: Royal Palace Spaniel, Pupcake | **dnei30fast**: Ride-A-Pet Potion |
-| 04:15 | **krishold3r**: Pet Handler Pro Certificate ×2 | **MoMtobias**: Moose Calf |
-| 04:15 | **unicornio1205i**: Pet Handler Pro Certificate | **Vansderrl**: Fly-A-Pet Potion |
-| 04:15 | **Keona_Zoy**: Ride-A-Pet Potion ×4 | **ALUCARD_5810**: Dragonfruit Fox (FR) |
-| 04:15 | **myd666vil**: S'mores Raccoon, Australian Kelpie | **Bumble_Lou**: Ride-A-Pet Potion |
+| 04:30 | **Rint0ru**: Bush Elephant (FR) ×2, Kitty Bat (MR), Cake Friend (M), Frostbite Cub (M), Ride-A-Pet Potion ×2 | **Joelzoz**: Glormy Leo (MR) |
+| 04:30 | **GL4MX0JAS**: Cabbit (MFR), Field Mouse (MFR), 2022 Birthday Party Hat, Spring Bunny Hood ×2 | **beatsvic**: Haetae (NFR) |
+| 04:30 | **incursura**: Dragon ×2, 2D Kitty (R), Classic Trade Stand | **XzMonolds**: Pet Handler Pro Certificate |
+| 04:30 | **dvmbliz**: Ride-A-Pet Potion, Ocelot (M), Unfortunate Eyelashes | **XzMonolds**: Fly-A-Pet Potion |
+| 04:30 | **uhfj809**: Tri-horned Treehopper (NFR) | **ETM_TOPG**: Kangaroo (FR) |
+| 04:30 | **Jahazi_Roblox**: Slime (MFR), Harp Seal (MFR), Elephant (R), Sugar Glider (NFR), Rain Cloud Hat, Spring Bunny Feet, Bat Wings, Butter Knife, Husky, Polar Bear (R), Brown Bear | **Siraj6118**: Giant Panda (FR) |
+| 04:30 | **lemechant3**: Dodo (NFR) | **xElizabeth_RUSx**: Fly-A-Pet Potion ×3 |
+| 04:30 | **Zavodnoy_Apelsin25**: Siamese Cat (R), Fairy Bat Dragon (FR), Shark Puppy | **rilakkumagaming2105**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:30 | **kyufrhg**: Frost Dragon (FR), Turtle (FR), Candicorn (NR), Polar Bear (NFR), Alley Cat (NFR), Hare, Unicorn (MFR), Unicorn (N), Bready Necklace ×2, Butter Knife, Lion Cub (FR) | **xKashaf**: Giraffe (FR) |
+| 04:30 | **lupoouu2**: Turtle (FR), Candyfloss Chick (R), Jellyfish (NFR), Many Mackerel (R) | **Jessica_westry**: Fairy Bat Dragon (NFR) |
+| 04:30 | **MochiMetalHead**: Koala | **herfaklo**: Indian Flying Fox |
+| 04:30 | **RESTRlCTI0N**: Dire Wolf (M) | **ixslzz**: Fly-A-Pet Potion |
+| 04:30 | **ThiagoYtHS**: Candicorn (FR) | **asfaltoukladchik21**: Pet Handler Pro Certificate ×3, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6 |
+| 04:30 | **Heart_01205**: Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **kittieqwo**: Harp Seal (MFR) |
+| 04:30 | **LoletitaYT**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pet Handler Pro Certificate, Cow Calf (MFR), Hamster (MFR) | **EriOnSuMa**: Unicorn Horn |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
