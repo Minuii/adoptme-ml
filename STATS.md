@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 15:46 UTC by the scrape workflow._
+_Updated 2026-11-12 16:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 15:46 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 25,781 | 2026-11-12T15:45 |
-| elve | 2 | 5,195 | 2026-11-12T15:45 |
+| amvgg | 2 | 26,031 | 2026-11-12T16:00 |
+| elve | 2 | 5,245 | 2026-11-12T16:01 |
 
-## AMVGG completed trades: 4,232 total
+## AMVGG completed trades: 4,267 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 2,141 |
+| 2026-11-12 | 2,176 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:45 | **deathbaconhello11**: Copycat (R), Classic Trade Stand, Stray Cat Dragon, Ice Cube, Black-Footed Ferret ×3, Kaijunior, Toucan | **JystLlght**: Silverback Gorilla |
-| 15:45 | **Michae_demiurgos**: Crocodile (R) | **TwistedK1tty**: Frost Fury (NFR) |
-| 15:45 | **Hobart143**: Unicorn Horn | **B1nnie2**: Alpaca (R) |
-| 15:45 | **Cassian_057**: Cactus Friend, Gemstone Egg | **Bleustar36746**: Little Lamb (M) |
-| 15:45 | **BlizzardvwQuantumO13**: Bat Dragon (FR), Giraffe (FR), Haetae (NFR), Cow (FR), Turtle (FR) | **1dayto100dayrich09**: Balloon Unicorn (MFR) |
-| 15:45 | **kittykyo77**: Princess Mare (M), Ride-A-Pet Potion | **mambysx**: Ehecatl (M) |
-| 15:45 | **Kereeska_1**: Shadow Dragon (FR), Rainbow Maker, Mini Pig (FR), Cow (FR), Cow (R), Fairy Bat Dragon (FR), Kangaroo (FR), Fly-A-Pet Potion ×2 | **odading12318**: Owl (NFR), Evil Unicorn (NFR), Evil Unicorn (FR) |
-| 15:45 | **Panda39643**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **odading12318**: Copycat |
-| 15:45 | **Kiritto1415**: Ride-A-Pet Potion ×11, Fly-A-Pet Potion ×3 | **GEMYU900**: Unicorn Horn |
-| 15:45 | **adoptme12ap**: Ride-A-Pet Potion ×3 | **pinkbear11133**: Biodome Home |
-| 15:45 | **Elf_Deme**: Gaelic Fae | **Adore_IvaXx**: Fly-A-Pet Potion |
-| 15:45 | **LA1M1KY**: Ride-A-Pet Potion ×2 | **wowohaha17**: Pet Handler Pro Certificate |
-| 15:45 | **0FF_L1MIT**: Bat Dragon (FR), Fly-A-Pet Potion | **Snoxs545**: Giraffe (FR), Parrot (NFR), Strawberry Shortcake Bat Dragon (R), Cow (FR), Pelican (FR) |
-| 15:45 | **BlizzardVenomZero201**: Strawberry Tortle (NR) | **higuysitskobe**: Puffin (MFR), Ballet Swan, Shark Puppy, Amami Rabbit (M) |
-| 15:45 | **minotauros7**: Arctic Dusk Dragon (FR), Ride-A-Pet Potion | **Sato_lol2**: Aurora Fox |
+| 16:00 | **5kHxll**: Arctic Fox | **rxy3e**: Christmas Pudding Pup |
+| 16:00 | **5kHxll**: Munchkin Cat | **Veronika9414**: Fallow Deer, Latte Kitsune |
+| 16:00 | **nezvk0_chqn**: Puptune (MR) | **toxica990066**: Scarebear (NR) |
+| 16:00 | **Altforvincent37**: Shiver Wolf (MFR) | **3BDAl3ziz3**: Tiny Wings |
+| 16:00 | **elitro44**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **odading12318**: Copycat |
+| 16:00 | **Vexvzr**: Ride-A-Pet Potion | **DrinklngMilk**: Mrs. Whiskerpips (N), Mr. Whiskerpips, Shoebill (N) |
+| 16:00 | **Car1os_xd**: Drake | **Bunniimelu**: Ride-A-Pet Potion ×2 |
+| 16:00 | **theyoutugeegg**: Berry Cool Cube, Unicorn Ducky (N), Bobageist ×2 | **Kir4kaaa**: Ride-A-Pet Potion |
+| 16:00 | **AL1C3W0RLDD**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×7 | **odading12318**: Siamese Cat (FR) |
+| 16:00 | **ulysqw**: Dalmatian (FR) ×2, Strawberry Shortcake Bat Dragon (FR) ×6, Chocolate Chip Bat Dragon (FR) ×5, Chocolate Chip Bat Dragon (R) | **Ak246868**: Bat Dragon (FR) |
+| 16:00 | **wistfulheartsclub**: Spring Bunny Hood | **yunni3y**: Mochi Meow (MFR) |
+| 16:00 | **dearlylisbon**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **odading12318**: Cow (FR) |
+| 16:00 | **SaltnPepperStuff**: Yellow Butterfly (N), Nutcracker Squirrel (N), Ghost (N), Black Chow-Chow | **Shehatesme420**: Ride-A-Pet Potion ×2 |
+| 16:00 | **heltobrex**: Dalmatian, Peppermint Penguin (R), Tiny Wings | **999Luzy**: Goat (MFR) |
+| 16:00 | **jasminesep16**: Shark Puppy (R), Shark Puppy ×2 | **soylucianamjtkl**: Cow (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
