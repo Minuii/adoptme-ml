@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 19:55 UTC by the scrape workflow._
+_Updated 2026-11-12 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 29,708 | 2026-11-12T19:45 |
-| elve | 2 | 6,004 | 2026-11-12T19:45 |
+| amvgg | 2 | 29,950 | 2026-11-12T20:00 |
+| elve | 2 | 6,089 | 2026-11-12T20:01 |
 
-## AMVGG completed trades: 5,156 total
+## AMVGG completed trades: 5,177 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,065 |
+| 2026-11-12 | 3,086 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:55 | **Fuflipik**: Candicorn (R), Ride-A-Pet Potion, Chihuahua | **iaMatthieu1**: Kangaroo (FR) |
-| 19:55 | **Kir4kaaa**: Berry Cool Cube | **Nastya2345981**: Ride-A-Pet Potion |
-| 19:55 | **Psycho_Slytherin007**: Retired Egg ×9 | **arisakagunz8**: Tanuki |
-| 19:55 | **Flaptzyy_16**: Jester Dragon (NFR) | **alessandro13086**: Strawberry Tortle |
-| 19:55 | **daanz2**: Cow (FR), Cow (R), Kangaroo (FR) | **Krismasterdang**: Turtle (FR) ×2, Alpaca, Elephant (R), Alley Cat (R) |
-| 19:55 | **Shadx_1553**: Bat Dragon (FR) ×3, Owl (FR), Peppermint Penguin (FR) | **Leonszss**: Shadow Dragon (MFR) |
-| 19:50 | **wjahsv**: Emberlight, Diamond Dragon, Diamond Griffin, Royal Fairytale Egg | **Djwatermelon1**: Sushi Penguin |
-| 19:50 | **Samqui2010**: White Amazon | **fatalitysai**: Boohoo (N), Jumpscare (N) ×2 |
-| 19:50 | **Teach_baby**: Turtle (FR), Fly-A-Pet Potion ×4, Pet Handler Pro Certificate, Forest Sprite (N), Knitted Pumpkin Hat, Elf Plush | **Klik_Kuromi**: Goose (FR) |
-| 19:50 | **Alex_ShatUp**: Ride-A-Pet Potion | **Mariam_123xd123**: 2D Doggy |
-| 19:50 | **fr1kizx**: Chihuahua ×8 | **melinaftu**: Australian Kelpie (M) |
-| 19:50 | **YourBirthdayCharm**: Southeast Asia Egg ×4 | **Ariiscraxy**: Catte (N) |
-| 19:50 | **Ddwkfmr**: Fly-A-Pet Potion, Purrowl, Diamond Dragon | **AKI10PLAY**: Ride-A-Pet Potion ×2 |
-| 19:50 | **cam_ushek**: Unicorn Ducky (NR), Bubblegeist, Oakee Wizard, Gemstone Egg | **Drakosha_PloXoiyy**: Ride-A-Pet Potion |
-| 19:50 | **BALLERINA_EMI**: Alley Cat (MFR), Snow Monkey (MFR), Chocolate Dutch Guinea Pig (MFR), Unicorn (MFR), Munchkin Cat (N), Candyfloss Chick (R), Caterpillar, Spring Bunny Hood | **orchidbutterfliess**: Owl (FR) |
+| 20:00 | **Klik_Kuromi**: Angel Wings | **sleepy_s0ren**: Turtle (FR), Ride-A-Pet Potion ×5 |
+| 20:00 | **Itsjustthevibez**: Ride-A-Pet Potion ×2, Cow Calf | **nastya_lera7**: Alley Cat |
+| 20:00 | **Maryha0243**: Fly-A-Pet Potion ×5 | **gffdjddd23_4**: Mecha Meow (MR) |
+| 20:00 | **OJC_Star45**: Ride-A-Pet Potion ×2 | **shn_nq1**: Stray Cat Dragon ×18 |
+| 20:00 | **Blue_PinkPL**: Arctic Reindeer (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **MacarronCheese**: Strawberry Shortcake Bat Dragon (NFR) |
+| 20:00 | **xf4wnskull**: Spring Bunny Hood, Cotton Candy Hat | **swatter1inc**: Clover Cow (M) |
+| 20:00 | **Loveflowers871**: Balloon Unicorn (FR), African Wild Dog, Toaster Hat | **cuu**: Sugar Glider (MFR) |
+| 20:00 | **malena323050**: Thunderfisher ×4 | **Unicorn_lovers966**: Count Slothula |
+| 20:00 | **luna2028192**: Panda (MFR), Dango Penguins | **mommy_vka123**: Unicorn Horn |
+| 20:00 | **jaljoha**: Capricorn (FR) | **12qwertyuiopppp12**: Tree Kangaroo |
+| 20:00 | **bnnysiie**: Ride-A-Pet Potion ×4, Ancient Dragon (NR) | **Zenx7zz**: Kappakid (M) |
+| 20:00 | **Amberx_20150**: Unicorn (MFR) | **daanz2**: Bunny Swirl (MFR), Fly-A-Pet Potion ×2 |
+| 20:00 | **Joelzoz**: Jester Dragon (FR) | **flears_brai**: Stray Cat Dragon (M) ×3 |
+| 20:00 | **Yomi040605**: Siamese Cat (R) | **Jok_a2**: Kangaroo (FR) |
+| 20:00 | **aleks2u**: Polar Bear (NR), Frost Fury (FR), Narwhal (MR) | **girlbyegirl12**: Turtle (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
