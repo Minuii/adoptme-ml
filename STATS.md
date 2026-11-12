@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 06:31 UTC by the scrape workflow._
+_Updated 2026-11-12 06:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 06:31 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 17,263 | 2026-11-12T06:30 |
-| elve | 2 | 3,493 | 2026-11-12T06:31 |
+| amvgg | 2 | 17,517 | 2026-11-12T06:45 |
+| elve | 2 | 3,513 | 2026-11-12T06:45 |
 
-## AMVGG completed trades: 2,905 total
+## AMVGG completed trades: 2,947 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 814 |
+| 2026-11-12 | 856 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:30 | **Pipotatini568**: Frostbite Bear (FR) ×2, Frostbite Bear (R) | **aitorguay_12**: Cryptid (FR) |
-| 06:30 | **darksmasher_hi**: Cryptid (FR), Copycat | **Pipotatini568**: Frostbite Bear ×3 |
-| 06:30 | **HELL0J0SEPH**: Fly-A-Pet Potion ×3 | **yeahimcairo**: Strawberry Penguin |
-| 06:30 | **kaylamicmi**: Balloon Unicorn (NFR), Alpaca (NFR), Panda Pal, Mochi Meow Tumble Animated Sticker | **Lov34lif3**: Alpaca (MFR), Goose (MFR) |
-| 06:30 | **Strawberry_Swirls0**: Arctic Dusk Dragon (MFR), Ghost Dog (MR), Monkey (MFR), Gumball Caterpillar (MFR), Ginger Cat (MR) | **kittencute_gamerXD**: Jester Dragon (MFR) |
-| 06:30 | **princesakarii**: Princess Capuchin Monkey | **lolmaster_girl7**: White Choccybunny (M) |
-| 06:30 | **Yumi_Rose8**: Fly-A-Pet Potion | **jvvide**: Llama (R) |
-| 06:30 | **Flaptzyy_16**: Silverback Gorilla (FR) ×2 | **skyeeeeeeeee_999**: Haetyphoon |
-| 06:30 | **Qu33nDQCrimsonO19932**: Chihuahua ×7 | **Thatscute18**: Ride-A-Pet Potion ×3 |
-| 06:30 | **PracticalChive5077**: Husky (MFR), Nessie (N), Jester Dragon (NFR), Great Pyrenees (MR), Bunny Swirl (MR) | **Siraj6118**: Cryptid (FR) |
-| 06:30 | **cloud_kmm**: Spring Bunny Nose | **Xz_NeongtPrismctDark**: Pancake Stack |
-| 06:30 | **RESTRlCTI0N**: Giant Anteater (R) | **themudwizard**: Ride-A-Pet Potion ×5 |
-| 06:30 | **tipak368**: Hedgehog (FR), Kangaroo (FR), Copycat, Ride-A-Pet Potion | **odading12318**: Cryptid (FR) |
-| 06:30 | **Str3amN0va2024**: Turtle (FR) ×4, Cow, Ride-A-Pet Potion | **splashJuggernaut**: Silverback Gorilla (MFR) |
-| 06:30 | **Niruch_Bearly**: Arctic Reindeer (FR) | **fox_100l**: Hot Doggo (FR), Fairy Bat Dragon (FR) |
+| 06:45 | **ademmwaoi**: Frost Fury (FR), Solaris | **Spiritrayne12**: Jester Dragon |
+| 06:45 | **Leviodas**: Fly-A-Pet Potion ×2 | **RESTRlCTI0N**: Clover Cow (M) |
+| 06:45 | **kakashka_lol35**: Munchkin Cat (FR), Cerberus (NFR), Tuxedo Cat, Pain au Chat (N), Frost Fury (FR), Cattuccino (N), Unicorn (R), Chihuahua, Fly-A-Pet Potion | **BudakBaran7**: Cow (FR) |
+| 06:45 | **RESTRlCTI0N**: Australian Kelpie (NFR) | **Aslie_17**: Ride-A-Pet Potion |
+| 06:45 | **sleewipyy**: Jester Dragon (MFR), Jester Dragon (MR) | **Evxlutionary**: Fairy Bat Dragon (MFR) |
+| 06:45 | **Tylertylertyler425**: Tarsier (MR) | **Evxlutionary**: Gilded Snake, Golden Griffin, Golden Tortoise Beetle, Firefly, Ancient Dragon, Frostclaw ×3, Winter Buck ×3, Tuxedo Cat, Red Fox, Lunar Gold Tiger, Sunglider |
+| 06:45 | **hestabbedme**: Bat Dragon (FR) ×2, Parrot (NFR), Parrot (FR), Evil Unicorn (NFR), Rainbow Maker | **Iasttwords**: Giraffe (MFR) |
+| 06:45 | **HenloHaiEllo123**: Goose (NFR), 2022 Birthday Cake, Quokka (MFR), Flamingo (R), Spring Bunny Hood, Mule, Elf Hat, Pancake Stack, Bready Necklace | **comeonhappiy**: Balloon Unicorn (FR) |
+| 06:45 | **Yizukixx**: Fairy Bat Dragon (FR), Turtle (FR) ×2 | **coolguy192459**: Dalmatian (FR), Bat (MFR) |
+| 06:45 | **totobello80**: Parrot (NFR), Goose (R) | **AseesCr7GoesBoom**: Haetyphoon (MFR) |
+| 06:45 | **Abdulazizm_2011**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **lacesakura**: Jester Dragon (FR) |
+| 06:45 | **qrzein**: Gemstone Egg ×2 | **r4d14nt_lov3**: Ride-A-Pet Potion |
+| 06:45 | **Doshi_Wtapkax**: Strawberry Shortcake Bat Dragon (FR) | **ILoveCupcakes33123**: Christmas Pudding Pup (R) ×2, Christmas Pudding Pup, Arctic Fox (R) ×3, Arctic Fox, Polar Bear |
+| 06:45 | **cabbitfann1**: Hedgehog (FR), Turtle (NFR) | **TANSKlN**: Strawberry Shortcake Bat Dragon (NFR) |
+| 06:45 | **1LYELLAAXO**: Burger Bear, Choco Penguin, Peachick | **aabeeyg**: Cherry Blossom Tree Sticker ×9, Cherry Blossom Flower Sticker ×9 |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
