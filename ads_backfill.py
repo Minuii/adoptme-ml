@@ -30,6 +30,17 @@ def flush(source, ads):
             f.writelines(json.dumps(a) + "\n" for a in rows)
 
 
+def patient(fn, *args):
+    """Retry through network drops (PC sleep, Wi-Fi blips): wait up to ~2 h before giving up."""
+    for wait in [30] * 10 + [300] * 24:
+        try:
+            return fn(*args)
+        except OSError as e:  # URLError, timeouts, connection resets
+            print(f"network error ({e}); retrying in {wait}s", flush=True)
+            time.sleep(wait)
+    return fn(*args)
+
+
 def run(source, points, fetch_point, delay):
     progress = out_dir(source) / "progress.txt"
     done = set(progress.read_text().split()) if progress.exists() else set()
@@ -37,7 +48,7 @@ def run(source, points, fetch_point, delay):
     print(f"{source}: {len(todo)} of {len(points)} sample points left", flush=True)
     buf, finished = [], []
     for i, p in enumerate(todo):
-        buf += fetch_point(p)
+        buf += patient(fetch_point, p)
         finished.append(str(p))
         if len(finished) >= 20 or i == len(todo) - 1:  # write data first, then mark points done
             flush(source, buf)
@@ -64,7 +75,7 @@ def elve():
     # archive end: past it the API falls back to the newest listings instead of an empty page, so "past the end" =
     # page updated within the last hour. Pages near offset 0-1000 are odd, so search from 1M upward.
     cutoff = (scraper.now() - timedelta(hours=1)).isoformat()[:19]
-    real = lambda off: any(x["timeUpdated"][:19] < cutoff for x in get(off))
+    real = lambda off: any(x["timeUpdated"][:19] < cutoff for x in patient(get, off))
     lo, hi = 1_000_000, 2_000_000
     while real(hi):
         lo, hi = hi, hi * 2
