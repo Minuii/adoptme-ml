@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 22:31 UTC by the scrape workflow._
+_Updated 2026-11-12 22:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,17 +16,18 @@ _Updated 2026-11-12 22:31 UTC by the scrape workflow._
 | amvgg | 2 | 32,360 | 2026-11-12T22:30 |
 | elve | 2 | 6,581 | 2026-11-12T22:31 |
 
-## AMVGG completed trades: 5,608 total
+## AMVGG completed trades: 5,609 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,517 |
+| 2026-11-12 | 3,518 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:36 | **Kelssakura**: Cryptid (NFR), Werewolf (NFR), Unicorn Horn, Werewolf (R) ×3, Tiny Wings, Alpaca | **ysuidkwkwksjd**: Mini Pig (MFR) |
 | 22:30 | **Dessertsandfoods**: Mr. Whiskerpips (MR), Ride-A-Pet Potion, Gemstone Egg, White Chef Hat | **thebadbiotcsh**: Mr. Whiskerpips (MFR) |
 | 22:30 | **SharkuKy_Trades**: Shark (NFR) | **Piggyrocket09**: Frost Fury (FR) |
 | 22:30 | **kroko182**: Kangaroo (NR), Gibbon (MR), Humbug (MFR), Campfire Stories Mega Neon Paint | **xqunovax**: Flaming Fox (MFR) |
@@ -41,7 +42,6 @@ _Updated 2026-11-12 22:31 UTC by the scrape workflow._
 | 22:25 | **The1AndOnlyClyde**: 2022 Birthday Party Hat, Unicorn Horn, Tiny Wings ×2 | **Gabriele143love**: Rainbow Maker |
 | 22:25 | **tatianachan1713**: Amami Rabbit ×4 | **hzmimii**: Ride-A-Pet Potion ×2 |
 | 22:25 | **giraffe3815**: Strawberry Penguin (NFR), Ride-A-Pet Potion | **Mytradeaccountforme**: Matcha Cat (NFR) |
-| 22:25 | **princess_pizzanice**: Fly-A-Pet Potion ×8, Pet Handler Pro Certificate, Ride-A-Pet Potion ×4 | **foovva**: Grim Dragon (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
