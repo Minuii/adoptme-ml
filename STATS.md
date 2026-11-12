@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 03:31 UTC by the scrape workflow._
+_Updated 2026-11-12 03:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 03:31 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 14,463 | 2026-11-12T03:30 |
-| elve | 2 | 2,980 | 2026-11-12T03:31 |
+| amvgg | 2 | 14,718 | 2026-11-12T03:45 |
+| elve | 2 | 3,014 | 2026-11-12T03:45 |
 
-## AMVGG completed trades: 2,561 total
+## AMVGG completed trades: 2,590 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 470 |
+| 2026-11-12 | 499 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:30 | **clavio000**: Munchkin Cat (NFR), Siamese Cat (FR), Ride-A-Pet Potion, Pet Handler Pro Certificate ×2 | **LittleHeartPlays**: Strawberry Shortcake Bat Dragon (FR) |
-| 03:30 | **Thebossoflaughter**: Bush Elephant (R) | **nad1neAlt**: Candicorn (R) |
-| 03:30 | **nad1neAlt**: Ride-A-Pet Potion ×2 | **tatianachan1713**: Moon Rabbit ×3 |
-| 03:30 | **probably_ems**: Tasmanian Devil (M) | **AzamatR11**: Glormy Dolphin (MFR) |
-| 03:30 | **alanwallkerj11**: Fairy Bat Dragon (FR), Fairy Bat Dragon (R) | **AvaNari2010**: Strawberry Tortle (FR), Turtle (FR) |
-| 03:30 | **He_odtam**: Unicorn | **recitedtones**: Ride-A-Pet Potion |
-| 03:30 | **Charlotte61299**: Strawberry Shortcake Ducky (FR), Mummy Spider ×4, Zebra ×4 | **Adore_Pandaz**: Ride-A-Pet Potion |
-| 03:30 | **milkwars**: Grim Dragon (R), Fairy Bat Dragon (FR), Mini Pig (FR) ×2, Kangaroo (FR), Blue Whale (MFR), Kraken, Chilling Spider (N), Scarlet Butterfly (R), Stray Cat Dragon ×2 | **queenmaya773**: Crow (FR) |
-| 03:30 | **PracticalChive5077**: Fairy Bat Dragon (R), Matcha Cat (NR) | **copyvoting**: Husky (MFR), Candicorn (FR) |
-| 03:30 | **thyum_56**: Cupid Dragon (NFR) ×2, Cupid Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×7 | **Lindaunicornio30990**: Hedgehog (FR) |
-| 03:30 | **Eddensss**: Pumpkin Friend (MFR), Albino Bat (MFR), Kitty Bat (MFR), Shetland Pony Light Brown (MFR), Panda (MFR), Brown Springer Spaniel (MFR), Axolotl (MFR), Tuxedo Cat (MFR), Firefly (MFR), White Sand Dollar (MFR), Gingerbread Hare (MR), Peahen (M), Mrs. Whiskerpips (MR) | **cazzyabc123**: Grim Dragon (MFR) |
-| 03:30 | **is_Hector**: Evil Unicorn (FR), Frostbite Cub (M), Royal Corgi | **hatsholi**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon |
-| 03:30 | **ubnnyz**: Dalmatian, Goose, Alpaca, Alley Cat, Blue Boohoo Mega Neon Paint | **rawrvampy**: Matcha Cat (M) |
-| 03:30 | **warpiir**: Binturong (MFR), French Bulldog ×2 | **cutesyaeris**: French Bulldog (MFR) |
-| 03:30 | **Mitsuri_Chan0w**: Peppermint Penguin (MFR), Shadow Dragon (FR), Dragonfruit Fox (MFR), Flaming Fox (MFR), Rainbow Maker | **dawg1723**: Bat Dragon (FR), Frost Dragon (FR) |
+| 03:45 | **lotiedoll**: Bat Dragon (FR) ×2, Giraffe (NFR), Giraffe (FR), Shadow Dragon (FR) ×2, Frost Dragon (FR), Parrot (FR), African Wild Dog, Peppermint Penguin (NFR), Albino Monkey (MFR), Jellyfish (MFR) ×3, Bush Elephant (MFR), Black Springer Spaniel (MFR), Jester Dragon (FR), 2022 Birthday Cupcake Shoes | **l7y**: Bat Dragon (MFR) |
+| 03:45 | **briana_ja**: Arctic Fox (R), Lion Cub, Frost Phoenix | **is_Hector**: Elephant |
+| 03:45 | **aydachan200311**: Unicorn (NFR) | **recitedtones**: Ride-A-Pet Potion ×6 |
+| 03:45 | **y0urquican**: Crow (FR), Candicorn (FR) | **CookieBawn**: Parrot (FR) |
+| 03:45 | **TradibgChallenges**: Arctic Dusk Dragon (NFR) | **REALjaylarp**: Sugar Glider |
+| 03:45 | **AvaNari2010**: Swan | **zwombiixz**: Fly-A-Pet Potion |
+| 03:45 | **ALTAMERANO10**: Pretty Pony (N) ×2, Ram | **TOASTER_17362**: Copycat |
+| 03:45 | **blackcupkakeuwu**: Fairy Bat Dragon (NFR) ×2, Fairy Bat Dragon (FR), Goose (NF), Siamese Cat (R), Rain Cloud Hat, Flower Power Duckling | **chaxvznn**: Alpaca (MFR) |
+| 03:45 | **RalphPatel5735**: Owl (FR) | **Kirajadee**: Cow (MFR) |
+| 03:45 | **Charlotte61299**: Ride-A-Pet Potion, Paint Sealer | **RiordanFan19**: Candy Cane Snail (N) |
+| 03:45 | **Hungry_Sleppy**: Black-Chested Pheasant, Jester Dragon, Aestus (FR) | **said1244566**: Haetyphoon (R) |
+| 03:45 | **FindingStars**: Crystal Egg ×17 | **hellokittyjosi**: Ride-A-Pet Potion |
+| 03:45 | **aiiwasabi**: Shadow Dragon (FR), Spring Bunny Hood, Fly-A-Pet Potion, Pet Handler Pro Certificate, Alley Cat | **Katseye_Fanlaraaaaa**: Giant Panda (NFR) |
+| 03:45 | **kyufrhg**: Space Whale (MFR), Pain au Chat (N), Cattuccino (N), Eggnog Dog (N) | **stellalovessyou**: Unicorn (MFR) |
+| 03:45 | **Cross_adp**: Winged Tiger (MFR), Silverback Gorilla (MFR), Dancing Dragon (MFR), French Bulldog (MFR), White Amazon (MFR) | **eltilin_913**: Jekyll Hydra (MFR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
