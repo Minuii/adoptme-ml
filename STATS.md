@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 13:45 UTC by the scrape workflow._
+_Updated 2026-11-12 14:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 13:45 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 23,870 | 2026-11-12T13:45 |
-| elve | 2 | 4,809 | 2026-11-12T13:45 |
+| amvgg | 2 | 24,104 | 2026-11-12T14:00 |
+| elve | 2 | 4,860 | 2026-11-12T14:01 |
 
-## AMVGG completed trades: 3,839 total
+## AMVGG completed trades: 3,867 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,748 |
+| 2026-11-12 | 1,776 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:45 | **MARJ_altacc**: Ride-A-Pet Potion ×7 | **bakedkole**: Lamb (NFR) |
-| 13:45 | **francapita**: Frost Fury (FR) | **flopps227den**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 13:45 | **Katiebloxgaming2026**: Ruddy Duck (MR) | **califxrmula**: Ride-A-Pet Potion |
-| 13:45 | **Katiebloxgaming2026**: Black-Footed Ferret (M) | **califxrmula**: Ride-A-Pet Potion |
-| 13:45 | **Lizzzazaaaaaaa**: Pain au Chat | **Kitty_1b**: Snowball Pug |
-| 13:45 | **BudakBaran7**: Mini Pig (R) | **veroNIKA_star016**: Alpaca (FR), Shrew (R), Fly-A-Pet Potion ×2, Bakeneko (M), Chicken (R), Tanuki (N), Dilophosaurus (NR), Ride-A-Pet Potion ×2, Glormy Backpack, Leaf Hat |
-| 13:45 | **sleepydolly99**: Pupcake, Malaysian Tapir, Seafoam Butterfly | **Fox_13920**: Ride-A-Pet Potion |
-| 13:45 | **snyyyp**: Cow (FR), Purple Heart Glasses | **princesz_sof1e**: Strawberry Tortle, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 13:45 | **ad0pttrading**: Ring-Tailed Lemur (MFR) | **ylyzacanete**: Dalmatian (FR) |
-| 13:45 | **kotik666064**: Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Hat | **itz_grigoriy**: Dalmatian (FR), Ride-A-Pet Potion ×3 |
-| 13:45 | **AlphaTaToxicv1047**: Copycat | **sequerre**: Christmas Pudding Pup (R) |
-| 13:45 | **Alt_aslan6**: Candicorn (MFR), Propeller Hat | **KeineAhnungvonnix1**: Jester Dragon (MFR), Harp Seal (MFR) |
-| 13:45 | **chipsyZdupy183**: 2022 Birthday Party Horn | **jonnielxd**: Alley Cat (N) |
-| 13:45 | **kxrinavsp**: Tree Kangaroo (NR), Golden Egg, Glormy Dolphin, Easter Bunny | **Biancaant1**: Majestic Pony (NR) |
-| 13:45 | **Militaryi_CorTak**: Cow (FR), Cattuccino (N) | **CuteCouchPotato2009**: Goose (FR) |
+| 14:00 | **AlphaTaToxicv1047**: Copycat | **Blooddyzsggunsz**: Christmas Pudding Pup (R) |
+| 14:00 | **Eva_EvaKBAC**: Evil Unicorn, Kangaroo (NFR) ×2, Cow (R), Fly-A-Pet Potion | **odading12318**: Owl (FR) |
+| 14:00 | **afissamuzfirah**: Ride-A-Pet Potion ×3 | **D_avidOrbit**: Halloween Black Axe Guitar Accessory, Tutu ×2 |
+| 14:00 | **TANSKlN**: Shrew (MFR), Chocolate Chip Bat Dragon (NFR), Fairy Bat Dragon (NFR), Shrew (NFR), Shrew (NR), Mini Pig (R) | **Sasha_6813**: Giraffe (FR), Cabbit (FR) |
+| 14:00 | **quVare_PDF**: Phantom Dragon (R), Pandaguin Glooptodog (M) | **kobii_x**: Golden Tortoise Beetle (M), Fly-A-Pet Potion |
+| 14:00 | **Sasha_6813**: Christmas Pudding Pup (MFR) ×2, Chocolate Chip Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) | **Exotic_Collector27**: Giraffe (FR), Cabbit (FR) |
+| 14:00 | **hania70707**: Retired Egg ×6 | **varvara67te**: Choco Penguin |
+| 14:00 | **mattblehh**: Alpaca (MFR), Tiny Wings | **disapp6ar**: Goose (MFR), Chocolate Dutch Guinea Pig (MFR) |
+| 14:00 | **califxrmula**: Ride-A-Pet Potion | **Nevaeh_sxfte**: Puptune, Pomeranian, Angus Calf, Ginger Cat, Blue Jay, Sneak Weasel, Black Moon Bear, Orca ×4, Water Opossum (N) |
+| 14:00 | **qwirtiksss**: Copycat, Dolphin (N) | **Happiness_happen**: Arctic Fox (R) |
+| 14:00 | **KiaXias**: Royal Mistletroll (MFR), Kangaroo (R) | **fhis64**: Hot Doggo (NFR), Evil Unicorn (FR), Ballet Swan (MFR), Chocolate Chip Bat Dragon (FR), Cow (FR), Candyfloss Chick (FR) |
+| 14:00 | **VikaRBX87uwu**: Zombie Buffalo (R), Fly-A-Pet Potion, Ice Cream Hermit Crab, Ride-A-Pet Potion | **ALTUSHKA_80**: Pig (FR) |
+| 14:00 | **lisathefunnypig**: Count Slothula | **12emanuel07**: Sushi Penguin |
+| 14:00 | **PARAZITKA14888**: Fly-A-Pet Potion | **mashca_kakashka**: Purrowl (M) |
+| 14:00 | **LilyLikesCooki3_YT**: Golden Lettuce, Ride-A-Pet Potion, Rain Hat | **ALTUSHKA_80**: Nessie |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
