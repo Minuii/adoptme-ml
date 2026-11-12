@@ -19,6 +19,7 @@ Steps:
 """
 import gzip
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -27,8 +28,10 @@ import pandas as pd
 
 import scraper
 
-H = 7               # horizon in days
-FLAT = np.log(1.02)  # moves under 2% count as flat
+H = int(os.environ.get("H", 7))  # horizon in days; H=30 python elve_model.py events -> results/events_model_30d.md
+# moves under this count as flat; wider for longer horizons (2% / 5% / 10% at 7 / 30 / 90 days), override with FLAT=0.03
+FLAT = np.log1p(float(os.environ.get("FLAT", 0.02 if H <= 7 else 0.05 if H <= 30 else 0.10)))
+SUFFIX = "" if H == 7 else f"_{H}d"
 WARMUP = 30          # days of history needed before a row is used
 TOP_K = 20           # picks per day in the trading simulation
 LABELS = {"default no potion": "rvalue - nopotion", "default fly ride": "rvalue - fly&ride",
@@ -255,6 +258,7 @@ def main():
     else:
         res, (coef, feats) = walk_forward(df, last=last)
 
+    out += SUFFIX
     OUT.mkdir(exist_ok=True)
     res.to_csv(OUT / f"{out}_folds.csv", index=False)
     summ = res.drop(columns=["month", "n_test"]).groupby("model", sort=False).mean()
