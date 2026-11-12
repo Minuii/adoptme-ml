@@ -23,7 +23,7 @@ jobs:
     timeout-minutes: 8  # trades + ads (~1 min); values/updates runs take longer
     steps:
       - uses: actions/checkout@v4
-      # stdlib only, so the runner's own python3 does; skipping setup-python keeps runs under the 1-minute billing step
+      # stdlib only, so the runner's own python3 does (no setup-python needed)
       - run: python3 scraper.py ${{ inputs.job || 'auto' }}
       - name: Commit data
         run: |
