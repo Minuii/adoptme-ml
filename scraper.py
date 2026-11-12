@@ -14,7 +14,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 DATA = Path(__file__).parent / "data"
-VALUES_EVERY = timedelta(hours=4, minutes=45)  # ~5 snapshots/day
+VALUES_EVERY = timedelta(minutes=55)  # checked hourly (the :00 run); a snapshot file is only written when a list changed
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"}
 PUSH = re.compile(r'self\.__next_f\.push\(\[1,"((?:[^"\\]|\\.)*)"\]\)')
 BADGES = {"N", "M", "F", "R"}
@@ -168,11 +168,17 @@ def snapshot_values():
                 save_amvgg_coefficients(html)
             except Exception as e:
                 print(f"amvgg coefficients not refreshed: {e!r}")
+    stamp = ts(now())
     for source, items in lists.items():
-        out = DATA / "values" / source / f"{ts(now())}.json.gz"
-        out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_bytes(gzip.compress(json.dumps(items).encode()))
+        folder = DATA / "values" / source
+        folder.mkdir(parents=True, exist_ok=True)
+        old = sorted(folder.glob("*.json.gz"))
+        if old and json.loads(gzip.decompress(old[-1].read_bytes())) == items:
+            print(source, len(items), "items, unchanged since", old[-1].name[:16])
+            continue  # hourly checks mostly find nothing new: a file per change keeps the repo small
+        (folder / f"{stamp}.json.gz").write_bytes(gzip.compress(json.dumps(items).encode()))
         print(source, len(items), "items")
+    (DATA / "values" / "checked.txt").write_text(stamp, encoding="utf-8")  # when both lists were last read
 
 
 def trade_file(day):
@@ -200,10 +206,10 @@ def snapshot_trades():
 
 
 def last_values_time():
+    checked = DATA / "values" / "checked.txt"
     files = sorted((DATA / "values" / "elve").glob("*.json.gz"))
-    if not files:
-        return None
-    return datetime.strptime(files[-1].name[:16], "%Y-%m-%dT%H%MZ").replace(tzinfo=timezone.utc)
+    stamp = checked.read_text(encoding="utf-8").strip() if checked.exists() else files[-1].name[:16] if files else None
+    return datetime.strptime(stamp, "%Y-%m-%dT%H%MZ").replace(tzinfo=timezone.utc) if stamp else None
 
 
 def elve_update_batch(n):
@@ -427,13 +433,15 @@ def sync_elve_ads(samples=3, gap=10):
 
 def auto():
     snapshot_trades()
-    for job in (sync_amvgg_ads, sync_elve_ads):
+    last = last_values_time()
+    due = last is None or now() - last >= VALUES_EVERY
+    # on the hourly values run, take one Elve ad sample instead of three (saves 20 s of waiting, keeps the run short)
+    for job in (sync_amvgg_ads, (lambda: sync_elve_ads(samples=1)) if due else sync_elve_ads):
         try:  # ads are a side signal: never let them break trade/value collection
             job()
         except Exception as e:
-            print(f"{job.__name__} failed: {e!r}")
-    last = last_values_time()
-    if last is None or now() - last >= VALUES_EVERY:
+            print(f"ads job failed: {e!r}")
+    if due:
         snapshot_values()
         sync_elve_updates(limit=30)
         sync_amvgg_updates()

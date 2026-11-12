@@ -28,7 +28,8 @@ def num(v):
 
 def latest(source):
     f = sorted((DATA / "values" / source).glob("*.json.gz"))[-1]
-    return json.loads(gzip.decompress(f.read_bytes())), f.name[:16]
+    checked = DATA / "values" / "checked.txt"  # lists are read hourly; a file is only written when one changed
+    return json.loads(gzip.decompress(f.read_bytes())), max(f.name[:16], checked.read_text(encoding="utf-8").strip() if checked.exists() else "")
 
 
 elve, elve_at = latest("elve")

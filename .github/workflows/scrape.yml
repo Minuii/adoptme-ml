@@ -42,11 +42,11 @@ jobs:
           done
           exit 1
       # The live site (pages.yml) rebuilds from the committed data. Pushes made with the workflow token don't start
-      # other workflows, but a dispatch does. Every 3 hours (the :00 run) keeps Actions minutes inside the Pro allowance.
-      - name: Rebuild the live site every 3 hours
+      # other workflows, but a dispatch does. Hourly, on the :00 run, right after the hourly values check.
+      - name: Rebuild the live site every hour
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [ $(( 10#$(date -u +%H) % 3 )) -eq 0 ] && [ $(( 10#$(date -u +%M) )) -lt 15 ]; then
+          if [ $(( 10#$(date -u +%M) )) -lt 15 ]; then
             gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
           fi
