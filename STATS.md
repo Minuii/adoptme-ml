@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 20:55 UTC by the scrape workflow._
+_Updated 2026-11-12 21:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,20 +13,25 @@ _Updated 2026-11-12 20:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 30,683 | 2026-11-12T20:45 |
-| elve | 2 | 6,219 | 2026-11-12T20:45 |
+| amvgg | 2 | 30,918 | 2026-11-12T21:00 |
+| elve | 2 | 6,274 | 2026-11-12T21:01 |
 
-## AMVGG completed trades: 5,346 total
+## AMVGG completed trades: 5,351 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,255 |
+| 2026-11-12 | 3,260 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:00 | **toxic_nona**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×10, Polar Bear (FR) | **carlkilling**: Turtle (R) |
+| 21:00 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **Lollypop_2211**: Swan (R) |
+| 21:00 | **Chadreedpalmares07**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **arseniylolol**: Jester Dragon (R) |
+| 21:00 | **1nxsii**: Balloon Unicorn (FR) | **UltraCircuit506**: Dalmatian (FR), Werewolf (FR), Meerkat (NFR), Elephant (R), Brown Bear (NR), Aberdeen Angus Box, Choccybunny Box ×2, Paint Sealer ×2 |
+| 21:00 | **ushsysk**: Pig (FR), Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Sweetheart Rat (NR), Winter Fawn (M), Kaijunior (N) | **hojujuonabeat**: Flamingo (FR) |
 | 20:55 | **Kira_Django123**: Chocolate Dutch Guinea Pig (R), Chocolate Dutch Guinea Pig ×3 | **catgirl718**: Ride-A-Pet Potion ×6 |
 | 20:55 | **miklel13**: Sheeeeep, Gemstone Egg | **Venus_pl4n3t**: Sheeeeep (R) |
 | 20:55 | **AKI10PLAY**: Jester Dragon (FR) | **ch0colatadafresca**: Copycat (R) |
@@ -37,11 +42,6 @@ _Updated 2026-11-12 20:55 UTC by the scrape workflow._
 | 20:55 | **On3gtive**: Ride-A-Pet Potion ×2 | **fishymiss_y**: Bat Backpack, Ghost Kitty Backpack, Glamicorn Purse Pet, Bear Hood, Cheesecake Hat, Gold Tiara, Strawberry Shortcake Bow |
 | 20:55 | **proplayer110408**: Owl (FR) | **mert3967**: Grim Dragon (MFR) |
 | 20:55 | **swatter1inc**: River Otter (MFR), Fly-A-Pet Potion | **XxArmy_UvUxX**: Stitches (MFR) |
-| 20:55 | **prezervativkotika**: Unicorn Horn, Rain Cloud Hat | **Iwokale**: Mini Pig |
-| 20:55 | **testingthingsidunno**: Sushi Penguin (MFR) | **bigbaddie6867**: 2022 Birthday Party Hat |
-| 20:55 | **schilan225**: Chocolate Dutch Guinea Pig (N), Ride-A-Pet Potion ×2 | **ichbinsehhhr**: Cheetah (NFR) |
-| 20:55 | **YourBirthdayCharm**: Frost Phoenix (NFR), King Bee (NFR) | **AmandaPandaKawaii123**: Evil Rock (M) |
-| 20:55 | **Anonymous_6999**: Undead Jousting Horse (R) | **mik_82j**: Frostbite Bear (FR), Aviator Hat, Butter Knife, Ride-A-Pet Potion ×5, Fly-A-Pet Potion, Cow Calf (R), Angus Bull |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
