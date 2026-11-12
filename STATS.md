@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 16:01 UTC by the scrape workflow._
+_Updated 2026-11-12 16:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 16:01 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 26,031 | 2026-11-12T16:00 |
-| elve | 2 | 5,245 | 2026-11-12T16:01 |
+| amvgg | 2 | 26,275 | 2026-11-12T16:15 |
+| elve | 2 | 5,298 | 2026-11-12T16:16 |
 
-## AMVGG completed trades: 4,267 total
+## AMVGG completed trades: 4,296 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 2,176 |
+| 2026-11-12 | 2,205 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:00 | **5kHxll**: Arctic Fox | **rxy3e**: Christmas Pudding Pup |
-| 16:00 | **5kHxll**: Munchkin Cat | **Veronika9414**: Fallow Deer, Latte Kitsune |
-| 16:00 | **nezvk0_chqn**: Puptune (MR) | **toxica990066**: Scarebear (NR) |
-| 16:00 | **Altforvincent37**: Shiver Wolf (MFR) | **3BDAl3ziz3**: Tiny Wings |
-| 16:00 | **elitro44**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **odading12318**: Copycat |
-| 16:00 | **Vexvzr**: Ride-A-Pet Potion | **DrinklngMilk**: Mrs. Whiskerpips (N), Mr. Whiskerpips, Shoebill (N) |
-| 16:00 | **Car1os_xd**: Drake | **Bunniimelu**: Ride-A-Pet Potion ×2 |
-| 16:00 | **theyoutugeegg**: Berry Cool Cube, Unicorn Ducky (N), Bobageist ×2 | **Kir4kaaa**: Ride-A-Pet Potion |
-| 16:00 | **AL1C3W0RLDD**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×7 | **odading12318**: Siamese Cat (FR) |
-| 16:00 | **ulysqw**: Dalmatian (FR) ×2, Strawberry Shortcake Bat Dragon (FR) ×6, Chocolate Chip Bat Dragon (FR) ×5, Chocolate Chip Bat Dragon (R) | **Ak246868**: Bat Dragon (FR) |
-| 16:00 | **wistfulheartsclub**: Spring Bunny Hood | **yunni3y**: Mochi Meow (MFR) |
-| 16:00 | **dearlylisbon**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **odading12318**: Cow (FR) |
-| 16:00 | **SaltnPepperStuff**: Yellow Butterfly (N), Nutcracker Squirrel (N), Ghost (N), Black Chow-Chow | **Shehatesme420**: Ride-A-Pet Potion ×2 |
-| 16:00 | **heltobrex**: Dalmatian, Peppermint Penguin (R), Tiny Wings | **999Luzy**: Goat (MFR) |
-| 16:00 | **jasminesep16**: Shark Puppy (R), Shark Puppy ×2 | **soylucianamjtkl**: Cow (FR) |
+| 16:15 | **woahh_avaaa**: Border Collie (NFR), Arctic Reindeer (NFR), Siamese Cat (NFR) | **Elliehehe16**: Chocolate Chip Bat Dragon (NFR), Fairy Bat Dragon (NFR) |
+| 16:15 | **imdante259**: Hare (FR) | **lounaa_sbst**: Santa Hat |
+| 16:15 | **fox_100l**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Count Slothula | **ulysqw**: Hot Doggo (FR), Fairy Bat Dragon (FR) |
+| 16:15 | **Youdi_off**: Fly-A-Pet Potion ×6 | **FiresMiress**: Frost Fury (FR) ×2 |
+| 16:15 | **pjpjash**: Turtle (FR), Frost Fury (FR), Ride-A-Pet Potion, Panda (R), Cotton Candy Hat, Ghost (FR), Strawberry Clip | **docedelets**: Cow (FR) |
+| 16:15 | **Hobart143**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Ballet Swan (N), Aussie Egg | **Militaryi_CorTak**: Cow |
+| 16:15 | **H08ni**: Vanilla Penguin (MR), Elephant (FR) ×2, Nautilus (MR), Panda (MFR), Mr. Whiskerpips (MR), Koi Carp (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion, White Amazon (N) | **VivelexEdits**: Evil Unicorn (FR) |
+| 16:15 | **zee55510**: Puffer Fish, Sweetheart Rat, Sea Angel ×2, Thunderfisher ×2, Electric Hornet | **Shehatesme420**: Ride-A-Pet Potion ×2 |
+| 16:15 | **anastasia010girl**: Strawberry Shortcake Bat Dragon (FR), Grim Dragon (FR) | **rkdwlgh0104**: Dalmatian (FR), Arctic Dusk Dragon (FR), Swan (R) |
+| 16:15 | **Ruperto_1297**: Cow (FR) | **tufvfffdjdg**: Fly-A-Pet Potion ×16 |
+| 16:15 | **cat_fela1**: Siamese Cat, Ride-A-Pet Potion ×2 | **Zeyqvz**: Turtle (FR) |
+| 16:15 | **nahjweoqqqq**: Haetae (FR), Octopus (MFR) | **TwistedK1tty**: Blazing Lion (FR), Fly-A-Pet Potion ×2 |
+| 16:15 | **obvszoey**: Hedgehog (R), Golden Penguin | **MargoRobit3**: Frostbite Bear (FR), Kangaroo (FR), Elephant (FR), Crocodile (FR), Crocodile (R) |
+| 16:15 | **sleepy_s0ren**: Giant Panda (FR), Kangaroo (NFR) | **Horse_LoveKsk**: Owl (FR) |
+| 16:15 | **Hrts4Keira0**: Crow (FR) | **Siren_AriaBlaze**: African Wild Dog (FR), Kangaroo |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
