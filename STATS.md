@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 22:55 UTC by the scrape workflow._
+_Updated 2026-11-12 23:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,20 +13,26 @@ _Updated 2026-11-12 22:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 32,570 | 2026-11-12T22:45 |
-| elve | 2 | 6,599 | 2026-11-12T22:45 |
+| amvgg | 2 | 32,796 | 2026-11-12T23:00 |
+| elve | 2 | 6,657 | 2026-11-12T23:01 |
 
-## AMVGG completed trades: 5,677 total
+## AMVGG completed trades: 5,683 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,586 |
+| 2026-11-12 | 3,592 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:00 | **giraffe3815**: Ram | **Fidelia2131415**: Chihuahua ×3 |
+| 23:00 | **777pawzz**: Cryptid (FR), Caterpillar | **KanskjeMatilde**: Arctic Reindeer (FR), Mini Pig (FR), 2022 Birthday Cupcake Shoes |
+| 23:00 | **Dollsgr**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5, Spring Bunny Feet | **KsuKsuVzlomali**: Spring Bunny Hood, Bready Necklace, Spring Bunny Nose, Cotton Candy Hat |
+| 23:00 | **PinkEverlush**: Malaysian Tapir (N) | **Aslie_17**: Ride-A-Pet Potion |
+| 23:00 | **la_gameuse654**: Border Collie, Balloon Unicorn (FR), Fairy Bat Dragon (NFR), Influencer Gibbon, Turtle (FR), Copycat, Ancient Dragon (N) | **Fairy_Klaudusia**: Frost Dragon (FR) |
+| 23:00 | **xaoichaanx**: Bunch Of Balloons ×2, Elf Bandana | **riv6n**: Chihuahua |
 | 22:55 | **Jeansppk**: Moped | **Max_C0r3**: Ride-A-Pet Potion |
 | 22:55 | **Krismasterdang**: African Wild Dog (FR), Evil Unicorn (FR), Cow (FR), Ride-A-Pet Potion | **Frdvhev**: Frost Dragon (FR) |
 | 22:55 | **jazminvera112**: Butter Knife, Blue Cat Ear Headphones, Burger Boots | **blake_shortie**: Spring Bunny Nose |
@@ -36,12 +42,6 @@ _Updated 2026-11-12 22:55 UTC by the scrape workflow._
 | 22:55 | **razarvale2z**: Turtle (FR) | **TANSKlN**: Arctic Fox (NFR) |
 | 22:55 | **camskyyVICTORY**: Siamese Cat (FR), 2022 Birthday Party Horn | **Yakkuji**: Cow (R), Ride-A-Pet Potion |
 | 22:55 | **aavqaii**: Dango Penguins | **OJC_Star45**: Count Slothula ×3 |
-| 22:55 | **landenc9970i**: Aestus ×2, Solaris | **kkaatEEe2**: Ride-A-Pet Potion ×5 |
-| 22:55 | **xmikaeq**: German Shepherd (MR), Rain Boots | **closestIovetoheaven**: Sushi Penguin (MFR) |
-| 22:55 | **lamasprodetufeavida0**: Chicken (NFR), Turkey (R) | **BudakBaran7**: Copycat |
-| 22:55 | **ELASTICHXRT**: Aurora Fox (MFR) | **Ineffa08**: Copycat (MFR) |
-| 22:55 | **cyptiaI**: Unfortunate Eyelashes | **no_xwifi1**: Ride-A-Pet Potion |
-| 22:55 | **Ane4k_amane4ka**: Criosphinx, Electric Hornet, Rosy Maple Moth | **Lxdyxx**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
