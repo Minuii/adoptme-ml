@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 11:01 UTC by the scrape workflow._
+_Updated 2026-11-12 11:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 11:01 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 21,310 | 2026-11-12T11:00 |
-| elve | 2 | 4,267 | 2026-11-12T11:01 |
+| amvgg | 2 | 21,531 | 2026-11-12T11:15 |
+| elve | 2 | 4,319 | 2026-11-12T11:16 |
 
-## AMVGG completed trades: 3,408 total
+## AMVGG completed trades: 3,454 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,317 |
+| 2026-11-12 | 1,363 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:00 | **noxenii**: Alley Cat, Pet Handler Pro Certificate, Ride-A-Pet Potion, Ghost Bunny | **matyzik67**: Snowball Pug (MR) |
-| 11:00 | **PuhonaBeri**: Owl (FR) ×4 | **kiaraaalol1**: Bat Dragon (FR) |
-| 11:00 | **skywxIkerr**: Strawberry Shortcake Bat Dragon (NFR), Papa Moose ×2, Ram (NR), Mighty Haetyphoon Animated Sticker | **cat86u**: Chocolate Chip Bat Dragon (NFR) |
-| 11:00 | **nfrhectirchis**: 2D Kitty (MR) | **therookiefan_22**: Caterpillar |
-| 11:00 | **Im_mda12**: Sugar Glider (R), Border Collie | **LoriDreamy123**: Kangaroo (FR) ×2 |
-| 11:00 | **riskyactss**: Alpaca (R), Chocolate Dutch Guinea Pig, Wood Pigeon | **bunniepawsss**: Owlbear (NR), German Shepherd (NFR) |
-| 11:00 | **RalphPatel5735**: Cow (FR), Arctic Fox (FR) | **lona262**: Ice Cream Hermit Crab (MFR) |
-| 11:00 | **prensesecya**: Ride-A-Pet Potion, Chocolate Chow-Chow | **floralplum**: Capricorn (R) |
-| 11:00 | **FlyToTheSaturn**: Ancient Dragon, Desert Egg ×2, Fossil Egg, Golden Egg ×2, Mythic Egg, Moon Egg ×2, Ocean Egg, Urban Egg, Skelicorn (M), Kitsune, Purrowl ×2, Quetzalcoatl, Leopard Cat, Husky (R) | **MR_BlizzardX**: Fly-A-Pet Potion ×4 |
-| 11:00 | **FlyToTheSaturn**: Modern Mansion | **stasplay9074**: Ride-A-Pet Potion |
-| 11:00 | **Siraj6118**: Owl (FR) | **RuthJavxn**: Sea Slug (N), Strawberry Tortle (FR), Zombie Wolf (MFR), Latte Kitsune (NFR), Cherry Blossom Hang Glider, Vampire Dragon, Frost Phoenix (NFR), Golden Gift ×2, Unicorn (MFR), French Bulldog (N) |
-| 11:00 | **Eslemyfjjjg**: Border Collie | **xxNegarr**: Vanilla Penguin (N), Groundhog, Hare, Harp Seal |
-| 11:00 | **GuineaPigGirl2987**: Ride-A-Pet Potion ×17 | **Manggo_Pie40**: Kangaroo (FR) |
-| 11:00 | **nastaxyilox**: Mermicorn (R) | **Artemis63747**: Turtle (FR), Thunderfisher ×3 |
-| 11:00 | **Sylestver1st**: Siamese Cat (FR), Fairy Bat Dragon (NFR) | **Jadameigo**: Evil Unicorn (FR) |
+| 11:15 | **cn0704_1**: Pet Handler Pro Certificate | **lona262**: Spring Bunny Feet, Elf Shoes |
+| 11:15 | **LoriDreamy123**: Turtle (FR) ×2, Turtle (R), Pancake Stack | **svasafasefsa**: Dalmatian (FR) |
+| 11:15 | **akbasakit**: Ride-A-Pet Potion ×5, Great Pyrenees (NR), Strawberry Shortcake Bow, Bready Necklace | **WowOvOOooo**: Tiny Wings |
+| 11:15 | **TTZombeymaudado**: Swan, Pet Handler Pro Certificate | **rainbow72679**: Owlbear |
+| 11:15 | **SonicNet14**: Ride-A-Pet Potion | **lopez1235666666666**: Festive Scarf |
+| 11:15 | **Doshi_Wtapkax**: Munchkin Cat, 2021 Uplift Butterfly (NFR), Purple Butterfly, Birthday Butterfly 2024 (N) | **Shushu_pushin**: Christmas Pudding Pup ×2 |
+| 11:15 | **Crystal_34530**: Copycat (R) | **Galaxywolfie72**: Fly-A-Pet Potion ×4 |
+| 11:15 | **Red_Spider228**: Black Springer Spaniel (MFR) | **Piggwwy_C10**: Mr. Whiskerpips (M), Maine Coon (M), Dire Wolf (M), Samoyed (M), Pupcake (N) |
+| 11:15 | **cbmelissa**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×10 | **cya_adoptmechallange**: Candicorn (R) |
+| 11:15 | **RealVeronnisaa**: Happy Duckling ×2 | **HOCOKKU**: Ride-A-Pet Potion |
+| 11:15 | **000_M4TI4S**: Frostbite Cub (NR) | **thedonutgirl098**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 11:15 | **EVGPOP90**: Fly-A-Pet Potion ×3 | **LoriDreamy123**: Christmas Pudding Pup |
+| 11:15 | **Milk_147017**: Reindeer, Diamond Dragon (F) | **XzB3arL3Synth7zX1088**: Ride-A-Pet Potion |
+| 11:15 | **hdjsxllsk**: Sugar Glider (FR), Fly-A-Pet Potion | **KotMonster7**: Cabbit (FR) |
+| 11:15 | **lolghwy3**: Pig (MFR), Pig (NFR), Siamese Cat, Sakura Spirit (FR), Munchkin Cat, Giant Anteater (R), Rainbow Dragon (FR) | **Michae_demiurgos**: Jellyfish (MFR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
