@@ -1,47 +1,47 @@
 # Collected data
 
-_Updated 2026-11-12 01:46 UTC by the scrape workflow._
+_Updated 2026-11-12 02:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 5 | 2026-11-11T1036Z | 2026-11-11T2146Z |
-| amvgg | 5 | 2026-11-11T1036Z | 2026-11-11T2146Z |
+| elve | 6 | 2026-11-11T1036Z | 2026-11-12T0145Z |
+| amvgg | 6 | 2026-11-11T1036Z | 2026-11-12T0145Z |
 
 ## Trade ads collected by the bot
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 12,761 | 2026-11-12T01:45 |
-| elve | 2 | 2,634 | 2026-11-12T01:46 |
+| amvgg | 2 | 13,007 | 2026-11-12T02:00 |
+| elve | 2 | 2,703 | 2026-11-12T02:01 |
 
-## AMVGG completed trades: 2,369 total
+## AMVGG completed trades: 2,409 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 278 |
+| 2026-11-12 | 318 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:45 | **Xoxbunny_cutiexoX**: Royal Corgi (MR), Thunderfisher (N) ×4 | **Rbd_JP**: Husky (NR), Pig, Cerberus (NFR), Burger Bear (M) |
-| 01:45 | **xlorkaa7**: Spring Bunny Hood | **Neoglimmer**: Ride-A-Pet Potion ×4 |
-| 01:45 | **naomiloots**: Ride-A-Pet Potion ×5 | **emptydiaries**: Woodland Egg ×3, Southeast Asia Egg ×2, Danger Egg ×2, Urban Egg |
-| 01:45 | **lolaaItacc**: Turtle (FR) ×2, Husky | **isabelleadoptme10**: Shark Puppy (NFR), Flaming Fox (NFR) |
-| 01:45 | **Jojolionzzz**: Merhorse (MR), Clownfish ×2 | **Boo_kittykitty**: Ranger Beaver (N), Swan |
-| 01:45 | **fa_yp**: Pink Cat Ear Headphones | **Riikka_Takanashiii**: Ride-A-Pet Potion |
-| 01:45 | **Desired_Nightmare**: Paint Sealer ×13 | **dollmiun**: Ride-A-Pet Potion |
-| 01:45 | **RealVeronnisaa**: Kiwi Kiwi ×3, Long Ermine Sticker | **DwWsHZ_2003**: Ride-A-Pet Potion ×2 |
-| 01:45 | **Stxriiko**: Chocolate Chip Bat Dragon (NFR) | **theherohi**: Jungle Egg, Farm Egg |
-| 01:45 | **mariehaley12**: Parrot (FR), Crow (FR) | **sweetn6thing**: Giant Anteater (MFR), Alpaca (NFR), Honey Badger (MFR), Grim Dragon (FR) |
-| 01:45 | **wa0yss**: Hedgehog (FR), Ride-A-Pet Potion | **aspenuko**: Dalmatian (FR), Arctic Fox (R), Shrew |
-| 01:45 | **jhgfghjkjytfcv**: Diamond Amazon (MFR), Ballet Swan (MFR), Glacier Moth (MFR), Candyfloss Chick (R), Flamingo (FR) | **Daguirs41**: Frostbite Bear (MFR) |
-| 01:45 | **sweetang4ll**: Giant Panda (FR) | **MsAmarylIis**: Balloon Unicorn (FR), Cabbit (FR), Unfortunate Eyelashes ×2 |
-| 01:45 | **DrakeisProYesYes**: Monkey King Crown, Harp Seal | **dnei30fast**: Ride-A-Pet Potion ×2 |
-| 01:45 | **Killua_kun02**: Crystal Egg ×14 | **Terranese**: Ride-A-Pet Potion |
+| 02:00 | **Meown_ii**: Balloon Unicorn (FR), Cryptid (FR), Chihuahua (M) | **Lewraynzz**: Frost Dragon (FR) |
+| 02:00 | **des19876**: Giant Panda (FR), Rainbow Maker, Lamb (MR) | **wtvIes**: Cryptid (NFR) |
+| 02:00 | **ROSSEANYELYm**: Cherry-On-Top, Latte Kitsune | **suwuteh**: Copycat (N) |
+| 02:00 | **Bumble_Lou**: Skelicorn (M) | **XxBaeeeexxx**: Australian Kelpie (M), Dire Wolf (N) |
+| 02:00 | **Euphoria_72**: Strawberry Shortcake Bat Dragon (FR), Shark Puppy (R), Ride-A-Pet Potion ×4 | **Bwxunnii**: Dalmatian (FR) |
+| 02:00 | **AlejandraGL7**: Chocolate Dutch Guinea Pig, Peahen | **VerMora_PLUS**: Dragonfruit Fox |
+| 02:00 | **Beeshrxxms**: Triceratops (MR), Dire Wolf (NR), Count Slothula | **paulo3318**: Tealwood Monster (M), Electric Hornet (N), Electric Hornet ×2, Thunderfisher ×2 |
+| 02:00 | **inicio1994**: Polar Bear (R) | **Yaret_1424**: Spring Bunny Hood |
+| 02:00 | **itsvaleriaotz**: Solaris (R), Candyfloss Chick Sticker | **Yumi_Rose8**: Ride-A-Pet Potion ×2 |
+| 02:00 | **splashJuggernaut**: Nessie (R) | **cinammoroll_bun**: Santa Hat |
+| 02:00 | **liofe1**: Clover Cow, Alien Eyes Hat | **zwombiixz**: Ride-A-Pet Potion |
+| 02:00 | **hwlloaghaj**: Lion Cub (R), Spring Bunny Nose, Midnight Dragon (FR), Jacobin Pigeon (N) | **orbit_veil**: Elephant (FR) |
+| 02:00 | **pumpknIatte**: Peppermint Penguin (NFR), Rain Cloud Hat | **CloudyFalconpro4**: Strawberry Shortcake Bat Dragon (NFR) |
+| 02:00 | **Zoskiloc**: Evil Unicorn (FR), Undead Jousting Horse (FR), Lion (NFR), Goose (FR), Cow (R), Munchkin Cat (NFR), Turtle (FR), Kangaroo (FR) ×3, Ice Cream Cone Hat, Copycat, Midnight Dragon (R), Toaster Hat | **xKashaf**: Giraffe (FR) |
+| 02:00 | **himariiwooosh**: Alien Eyes Hat, Picnic Basket | **Vernite_chat0**: Aviator Hat |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
