@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 18:40 UTC by the scrape workflow._
+_Updated 2026-11-12 18:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,20 +13,21 @@ _Updated 2026-11-12 18:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 28,503 | 2026-11-12T18:30 |
-| elve | 2 | 5,759 | 2026-11-12T18:31 |
+| amvgg | 2 | 28,758 | 2026-11-12T18:45 |
+| elve | 2 | 5,779 | 2026-11-12T18:45 |
 
-## AMVGG completed trades: 4,874 total
+## AMVGG completed trades: 4,875 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 2,783 |
+| 2026-11-12 | 2,784 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 18:45 | **doraatje122**: Frost Dragon (FR), Albino Monkey (FR), Crocodile | **PON_TAMPO2010**: Frostbite Bear (MFR), Frost Fury (FR) |
 | 18:40 | **pogigelo31**: Arctic Reindeer, Chocolate Chip Bat Dragon (FR) ×7, Strawberry Shortcake Bat Dragon (FR) ×6 | **Yomi040605**: Bat Dragon (FR) |
 | 18:40 | **aleeyah51092**: Emberlight | **6767mellstroy67**: Retired Egg ×18 |
 | 18:40 | **Sonyaandcrina**: Fly-A-Pet Potion | **fygramvgg**: Mochi Meow (M) |
@@ -41,7 +42,6 @@ _Updated 2026-11-12 18:40 UTC by the scrape workflow._
 | 18:40 | **XxRobellalightxX**: Cerberus (NR), Albino Bat (NR), Sea Turtle (FR), Frostbite Cub, Kiwi Kiwi | **AnneFabrel2005**: Cake Friend (M) |
 | 18:40 | **XxRobellalightxX**: Grim Dragon (FR) | **xf4wnskull**: Turtle (FR) |
 | 18:40 | **niceplayeruwu**: Count Slothula | **themudwizard**: Gemstone Egg ×2 |
-| 18:40 | **sofcheke**: Gingerbread Hare (R), Chihuahua (R), Glormy Dolphin (R) | **Teach_baby**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
