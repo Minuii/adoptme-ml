@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 13:01 UTC by the scrape workflow._
+_Updated 2026-11-12 13:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 13:01 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 23,143 | 2026-11-12T13:00 |
-| elve | 2 | 4,638 | 2026-11-12T13:01 |
+| amvgg | 2 | 23,358 | 2026-11-12T13:15 |
+| elve | 2 | 4,717 | 2026-11-12T13:16 |
 
-## AMVGG completed trades: 3,715 total
+## AMVGG completed trades: 3,754 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,624 |
+| 2026-11-12 | 1,663 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:00 | **altfortrades222**: Fly-A-Pet Potion ×6 | **Panda_23782**: Blue Dog |
-| 13:00 | **idk_oofy1377**: Mexican Wolf (N), Orca (N), White Choccybunny (N), Liger (N) | **califxrmula**: Ride-A-Pet Potion |
-| 13:00 | **disapp6ar**: Hare (MFR), Irish Water Spaniel (MFR), Sugar Axolotl (MFR) | **obv1kylxx**: Shark Puppy (MFR), Candicorn (MFR), Violet Butterfly (MFR), Angel Wings |
-| 13:00 | **anihao17**: Cow (FR), Turtle (FR) | **Niruch_Bearly**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:00 | **Lollypop_2211**: Brown Bear (NR) | **LumDayy**: Hare (NR), Merry Mistletroll (N) |
-| 13:00 | **ghvstvex**: Pineapple Owl (MFR), Pancake Stack | **m4rshalI**: Hare (MFR) |
-| 13:00 | **Stony_PlayzYT**: Frost Dragon (FR), Turtle (NFR), Ride-A-Pet Potion | **Zxuxzrt**: Frost Dragon (FR), Alley Cat (MR) |
-| 13:00 | **Zxuxzrt**: Haetyphoon (R) | **furiousjumperfan52**: Turtle (FR) |
-| 13:00 | **Yolo_trol07**: Stray Cat Dragon (M), Skelicorn (M), Pretty Pony, Strawberry Shortcake Bat Dragon Backpack, Gold Crown, Shadow Wings, Pink Heart Glasses ×2, Pink Cat Ear Headphones, Burger Boots, Pain au Chat ×2 | **katya_dura781**: Haetyphoon |
-| 13:00 | **Jiminzo4**: Vampire Dragon (MFR) | **xluvvmel**: Jester Dragon (MFR) |
-| 13:00 | **TheGodx555**: Ride-A-Pet Potion ×2 | **ded_55250000**: Dragonfruit Fox |
-| 13:00 | **yshimeia**: Ride-A-Pet Potion ×8 | **LunaAqua5849**: Unicorn Backpack ×2 |
-| 13:00 | **Lerkooo_111**: Christmas Pudding Pup (FR), Great Pyrenees (N) | **twojstarydzikitygrys**: Jellyfish (R) |
-| 13:00 | **Kftftykrfykf**: Turtle (FR) ×2, Tortuga de la Isla (FR), Tortuga de la Isla | **niyashimo**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:00 | **califxrmula**: Ride-A-Pet Potion | **lxnxlyXfrxvxr**: Penguin (R), Toucan (N), Mexican Wolf (N), Poodle (N) |
+| 13:15 | **Inganta07**: Ride-A-Pet Potion | **belensauria123**: Chicken |
+| 13:15 | **STAZ638**: Mexican Wolf (M), Ms. Muffet (M), Eggnog Dog | **MlodyMultiAlterntor**: Ride-A-Pet Potion |
+| 13:15 | **Rainbow_kitty5050**: Slime (N) | **jiigu0**: Harp Seal (NR) |
+| 13:15 | **belensauria123**: Frost Fury (FR), Polar Bear (R), Ride-A-Pet Potion ×2 | **OnlyMeNinik**: Majestic Pony, Tiny Wings |
+| 13:15 | **TheGodx555**: Unicorn ×2 | **Baki_bns8**: Ride-A-Pet Potion ×2 |
+| 13:15 | **Bushra_Rocket8678**: Glider | **sp4rklepinkcupcake**: Fly-A-Pet Potion |
+| 13:15 | **Inganta07**: Ride-A-Pet Potion | **hharrietq**: Chicken |
+| 13:15 | **kanyusha5**: Undead Jousting Horse (FR) | **natfrmct**: Copycat (N), Indian Flying Fox (MFR), Amami Rabbit (N) |
+| 13:15 | **strawqbwerie**: Crocodile, Meerkat (R), Jousting Horse (NR), Ride-A-Pet Potion | **AmvggPi0n41K**: Copycat (N) |
+| 13:15 | **Manggo_Pie40**: Fairy Bat Dragon (FR) | **Edinorog_510**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×12 |
+| 13:15 | **beni_yy0**: Unicorn (N) ×4 | **chaeegirlff**: Kangaroo (FR) |
+| 13:15 | **GrindAccount_N1**: Frostbite Bear (NR), Frostbite Bear ×3 | **UwUvU1234**: Parrot (FR) |
+| 13:15 | **elitro44**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **megasupper_profi**: Copycat |
+| 13:15 | **sclilxq**: Copycat (R), Copycat, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Chihuahua (N), Pomeranian (N) | **Adoptmestocks3000**: Siamese Cat (R) |
+| 13:15 | **MARIALIKEPRO**: Strawberry Shortcake Bat Dragon (FR), Frost Fury (FR) | **itsmyalt_heh**: Arctic Reindeer (R) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
