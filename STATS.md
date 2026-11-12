@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 23:25 UTC by the scrape workflow._
+_Updated 2026-11-12 23:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 23:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 33,032 | 2026-11-12T23:15 |
-| elve | 2 | 6,707 | 2026-11-12T23:16 |
+| amvgg | 2 | 33,273 | 2026-11-12T23:30 |
+| elve | 2 | 6,756 | 2026-11-12T23:31 |
 
-## AMVGG completed trades: 5,765 total
+## AMVGG completed trades: 5,783 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,674 |
+| 2026-11-12 | 3,692 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:25 | **starneverlandsAlt**: Banana Hat | **rawrvampy**: Ride-A-Pet Potion |
-| 23:25 | **K1MM007**: Pelican (FR), Turtle, Ride-A-Pet Potion | **metanight3d**: Goose (FR), Volcanic Rhino (N), Winged Tiger |
-| 23:25 | **frompoortoacandicorn**: Thunderfisher | **igrok6_6**: Choco Penguin |
-| 23:25 | **Kamila_33309**: Zebra (M), Orangutan (M) | **Nugget_Courtnee**: Ride-A-Pet Potion |
-| 23:25 | **DarlingSmiling**: Gumball Caterpillar ×11, Orca ×5 | **frompoortoacandicorn**: Burger Bear |
-| 23:25 | **cutexqimike**: Hot Doggo (MFR), Cow (FR), Siamese Cat (R) | **Lingling111206**: Giant Anteater (MFR) ×3 |
-| 23:25 | **ang3licbwnni**: Kitty Bat (MR), Glacier Kitsune, Copycat, French Bulldog (N), English Sheepdog (N) | **DxxxDemon_WolfxxxD**: Copycat (N) |
-| 23:25 | **blackkitty446**: Alicorn | **Lola_lover980**: Arctic Hare |
-| 23:25 | **vvaryaa58AaS**: Modern Mansion | **Marjorievirgo**: Fly-A-Pet Potion |
-| 23:25 | **Leo5622123**: Cryptid (FR), Jekyll Hydra (FR), Indian Flying Fox (M) | **g1na_02**: Parrot (FR) |
-| 23:25 | **Nyxie_OwO**: Frost Dragon (NFR), Hive Backpack | **zacmat123456**: Strawberry Tortle (MFR) |
-| 23:25 | **itss0ph1a03**: Pain au Chat, Chihuahua | **Moondolllescent7**: Ride-A-Pet Potion |
-| 23:25 | **reaper_pickles**: Halloween Slime Mega Neon Paint, Electric Tide Mega Neon Paint | **Riikka_Takanashiii**: Ride-A-Pet Potion |
-| 23:25 | **meownie_u**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **FufuFluffyFlowi**: Zombie Buffalo (FR) |
-| 23:25 | **Cocovunix**: Skelicorn (MR) | **shaIlowseas**: Cozy Mistletroll (MR) |
+| 23:30 | **PhoenixForever09**: Flamingo (NFR), Mini Pig (FR), Kangaroo (NFR), Albino Monkey (FR), Hot Doggo (R), Unicorn Horn, Shiba Inu | **gogoyurio**: Owl (FR) |
+| 23:30 | **1sabxllaa**: Dogmobile | **bryanna_yaaa**: Fly-A-Pet Potion |
+| 23:30 | **iLuuvAshie**: Dragonfruit Fox (MR), German Shepherd (MFR), English Sheepdog (MFR), Zombie Wolf (MFR), Dire Wolf (MFR), Waffle Wyrm (MR) | **Svdanurrr**: Cryptid (FR) |
+| 23:30 | **Auds191102**: Shrew (MFR) | **Alexa183199**: Rainbow Maker, Unicorn Horn, 2022 Birthday Party Hat |
+| 23:30 | **chrxmaxc**: Copycat (R), Strawberry Penguin, Snow Owl (R), Golden Penguin (FR), Cobra (FR), Dango Penguins, Sushi Penguin, Puffer Fish, Pet Handler Pro Certificate, French Bulldog | **oneloveus**: Turtle (FR) |
+| 23:30 | **landenc9970i**: Cattuccino (N) ×2, Leopard Cat (NR) | **ch0colatadafresca**: Ride-A-Pet Potion ×3 |
+| 23:30 | **headaddisonraestan**: Bat Dragon (FR) | **Monkeyand930**: Safari Egg, Candy Cannon, Cryptid (FR) ×2, Flying Broomstick, Diamond Butterfly (R), Tombstone Ghostify, Tio De Nadal |
+| 23:30 | **Vansderrl**: Hedgehog (FR), Arctic Reindeer (FR) ×4, Arctic Reindeer (R), Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR), Cow (NFR), Monkey King (FR) ×2, Brown Bear (N) | **MERCEDESE300COUPE**: Bat Dragon (FR) |
+| 23:30 | **e1ivr**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) ×5, Chocolate Chip Bat Dragon (R) | **MrToy40**: Frost Dragon (NFR) |
+| 23:30 | **razarvale2z**: Turtle (FR) | **Lilypupper42**: Arctic Fox (NFR) |
+| 23:30 | **luvyerh**: Arctic Fox (R), Fly-A-Pet Potion | **llhgululu**: Pig (FR) |
+| 23:30 | **luvyerh**: Crocodile, Fly-A-Pet Potion | **22veils**: Crocodile (FR) |
+| 23:30 | **disneyloverreee**: Chocolate Chip Bat Dragon (NFR), Cryptid (FR), Tiny Wings | **Zyylxkes**: Frost Dragon (FR) |
+| 23:30 | **jux_iess1**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×4 | **Tyatya03**: Crocodile (FR) |
+| 23:30 | **daanz2**: Peppermint Penguin (FR), Alpaca | **kotek_bla**: Cabbit (FR), Sugar Glider (R), Black Tiger (N), California Condor (N), Otter (N) ×2 |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
