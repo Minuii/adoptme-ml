@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 06:45 UTC by the scrape workflow._
+_Updated 2026-11-12 07:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 06:45 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 17,517 | 2026-11-12T06:45 |
-| elve | 2 | 3,513 | 2026-11-12T06:45 |
+| amvgg | 2 | 17,764 | 2026-11-12T07:00 |
+| elve | 2 | 3,566 | 2026-11-12T07:01 |
 
-## AMVGG completed trades: 2,947 total
+## AMVGG completed trades: 2,975 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 856 |
+| 2026-11-12 | 884 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:45 | **ademmwaoi**: Frost Fury (FR), Solaris | **Spiritrayne12**: Jester Dragon |
-| 06:45 | **Leviodas**: Fly-A-Pet Potion ×2 | **RESTRlCTI0N**: Clover Cow (M) |
-| 06:45 | **kakashka_lol35**: Munchkin Cat (FR), Cerberus (NFR), Tuxedo Cat, Pain au Chat (N), Frost Fury (FR), Cattuccino (N), Unicorn (R), Chihuahua, Fly-A-Pet Potion | **BudakBaran7**: Cow (FR) |
-| 06:45 | **RESTRlCTI0N**: Australian Kelpie (NFR) | **Aslie_17**: Ride-A-Pet Potion |
-| 06:45 | **sleewipyy**: Jester Dragon (MFR), Jester Dragon (MR) | **Evxlutionary**: Fairy Bat Dragon (MFR) |
-| 06:45 | **Tylertylertyler425**: Tarsier (MR) | **Evxlutionary**: Gilded Snake, Golden Griffin, Golden Tortoise Beetle, Firefly, Ancient Dragon, Frostclaw ×3, Winter Buck ×3, Tuxedo Cat, Red Fox, Lunar Gold Tiger, Sunglider |
-| 06:45 | **hestabbedme**: Bat Dragon (FR) ×2, Parrot (NFR), Parrot (FR), Evil Unicorn (NFR), Rainbow Maker | **Iasttwords**: Giraffe (MFR) |
-| 06:45 | **HenloHaiEllo123**: Goose (NFR), 2022 Birthday Cake, Quokka (MFR), Flamingo (R), Spring Bunny Hood, Mule, Elf Hat, Pancake Stack, Bready Necklace | **comeonhappiy**: Balloon Unicorn (FR) |
-| 06:45 | **Yizukixx**: Fairy Bat Dragon (FR), Turtle (FR) ×2 | **coolguy192459**: Dalmatian (FR), Bat (MFR) |
-| 06:45 | **totobello80**: Parrot (NFR), Goose (R) | **AseesCr7GoesBoom**: Haetyphoon (MFR) |
-| 06:45 | **Abdulazizm_2011**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **lacesakura**: Jester Dragon (FR) |
-| 06:45 | **qrzein**: Gemstone Egg ×2 | **r4d14nt_lov3**: Ride-A-Pet Potion |
-| 06:45 | **Doshi_Wtapkax**: Strawberry Shortcake Bat Dragon (FR) | **ILoveCupcakes33123**: Christmas Pudding Pup (R) ×2, Christmas Pudding Pup, Arctic Fox (R) ×3, Arctic Fox, Polar Bear |
-| 06:45 | **cabbitfann1**: Hedgehog (FR), Turtle (NFR) | **TANSKlN**: Strawberry Shortcake Bat Dragon (NFR) |
-| 06:45 | **1LYELLAAXO**: Burger Bear, Choco Penguin, Peachick | **aabeeyg**: Cherry Blossom Tree Sticker ×9, Cherry Blossom Flower Sticker ×9 |
+| 07:00 | **ZockerCelina_20**: Turtle (FR) | **YourPhysicaltest**: Border Collie (FR), Cupid Dragon (R), Skele-Rex (R) |
+| 07:00 | **ffffff246500**: Shrew | **RON234I**: Ride-A-Pet Potion, Rose Dragon (R), Cotton Candy Hat |
+| 07:00 | **carolzinhac2009**: Fairy Bat Dragon (FR) | **Milkis23706**: Copycat, Elephant (R) |
+| 07:00 | **FlyToTheSaturn**: Happy Duckling, Lynx, Harp Seal, Leopard Cat, Leopard Shark, Monkey (N), Rat (N), Quokka, Tanuki, Therapy Dog, Wolf (N), Tarsier, Ladybug ×2, Halloween White Skeleton Dog ×2, Deinonychus (R), Wolf | **0UwUCuteGirlUwU0**: Fly-A-Pet Potion ×4 |
+| 07:00 | **Rryiiaaaoo**: Ghost Bunny (MFR) | **Hearts4hxnnahhh**: Harp Seal (MFR) |
+| 07:00 | **FlyToTheSaturn**: Goth Shoes, Santa Hat, Elf Hat, Pirate Hat & Friend, Firey Aura, Bewitched Hat, White Chef Hat, Eyepatch, Respectful Mustache, Ruff, Rubber Ducks, Bat Wings, Festive Scarf, Bear Hood, Ghost Hat, Chick Hat, White Designer Backpack, Yellow Designer Backpack | **orchidbutterfliess**: Fly-A-Pet Potion ×5 |
+| 07:00 | **v6mpireeee**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **Scphiaaxbxdcr**: Arctic Fox (R) |
+| 07:00 | **heavsns**: Goat (M) | **m4rshalI**: Goat (MFR) |
+| 07:00 | **ZuzaOnlyMy**: Flamingo, Shark Puppy, Ride-A-Pet Potion ×2 | **Hamishdogecool**: Peppermint Penguin |
+| 07:00 | **Addmymainaccpls88**: Aviator Hat, Cattuccino ×3 | **catgirl718**: Ride-A-Pet Potion |
+| 07:00 | **Pulseq3Void63Echo174**: Frostclaw ×3 | **Addmymainaccpls88**: Fly-A-Pet Potion |
+| 07:00 | **Black_pencil0818**: Ride-A-Pet Potion | **T_T10604**: Respectful Mustache |
+| 07:00 | **Baddiegurlieeee**: Chihuahua, Thunderfisher | **ffraillove**: Pain au Chat |
+| 07:00 | **poorbunii**: Rain Cloud Hat | **ashplayingrobloxwith**: Shark Puppy |
+| 07:00 | **R_20009**: Goose (FR) | **Pidilypops2nd**: Munchkin Cat (NFR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
