@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 02:01 UTC by the scrape workflow._
+_Updated 2026-11-12 02:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 02:01 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 13,007 | 2026-11-12T02:00 |
-| elve | 2 | 2,703 | 2026-11-12T02:01 |
+| amvgg | 2 | 13,260 | 2026-11-12T02:15 |
+| elve | 2 | 2,754 | 2026-11-12T02:16 |
 
-## AMVGG completed trades: 2,409 total
+## AMVGG completed trades: 2,435 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 318 |
+| 2026-11-12 | 344 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:00 | **Meown_ii**: Balloon Unicorn (FR), Cryptid (FR), Chihuahua (M) | **Lewraynzz**: Frost Dragon (FR) |
-| 02:00 | **des19876**: Giant Panda (FR), Rainbow Maker, Lamb (MR) | **wtvIes**: Cryptid (NFR) |
-| 02:00 | **ROSSEANYELYm**: Cherry-On-Top, Latte Kitsune | **suwuteh**: Copycat (N) |
-| 02:00 | **Bumble_Lou**: Skelicorn (M) | **XxBaeeeexxx**: Australian Kelpie (M), Dire Wolf (N) |
-| 02:00 | **Euphoria_72**: Strawberry Shortcake Bat Dragon (FR), Shark Puppy (R), Ride-A-Pet Potion ×4 | **Bwxunnii**: Dalmatian (FR) |
-| 02:00 | **AlejandraGL7**: Chocolate Dutch Guinea Pig, Peahen | **VerMora_PLUS**: Dragonfruit Fox |
-| 02:00 | **Beeshrxxms**: Triceratops (MR), Dire Wolf (NR), Count Slothula | **paulo3318**: Tealwood Monster (M), Electric Hornet (N), Electric Hornet ×2, Thunderfisher ×2 |
-| 02:00 | **inicio1994**: Polar Bear (R) | **Yaret_1424**: Spring Bunny Hood |
-| 02:00 | **itsvaleriaotz**: Solaris (R), Candyfloss Chick Sticker | **Yumi_Rose8**: Ride-A-Pet Potion ×2 |
-| 02:00 | **splashJuggernaut**: Nessie (R) | **cinammoroll_bun**: Santa Hat |
-| 02:00 | **liofe1**: Clover Cow, Alien Eyes Hat | **zwombiixz**: Ride-A-Pet Potion |
-| 02:00 | **hwlloaghaj**: Lion Cub (R), Spring Bunny Nose, Midnight Dragon (FR), Jacobin Pigeon (N) | **orbit_veil**: Elephant (FR) |
-| 02:00 | **pumpknIatte**: Peppermint Penguin (NFR), Rain Cloud Hat | **CloudyFalconpro4**: Strawberry Shortcake Bat Dragon (NFR) |
-| 02:00 | **Zoskiloc**: Evil Unicorn (FR), Undead Jousting Horse (FR), Lion (NFR), Goose (FR), Cow (R), Munchkin Cat (NFR), Turtle (FR), Kangaroo (FR) ×3, Ice Cream Cone Hat, Copycat, Midnight Dragon (R), Toaster Hat | **xKashaf**: Giraffe (FR) |
-| 02:00 | **himariiwooosh**: Alien Eyes Hat, Picnic Basket | **Vernite_chat0**: Aviator Hat |
+| 02:15 | **emxrqq**: Dango Penguins (R) | **Elissa232323**: Snow Monkey |
+| 02:15 | **Aownzis**: Rain Cloud Hat | **Official_Itscandy**: Fly-A-Pet Potion ×8 |
+| 02:15 | **P1nkteeth**: Ride-A-Pet Potion ×2 | **PIasticTree**: Fly-A-Pet Potion |
+| 02:15 | **Machaddkkj**: Highland Cow (N), Thunderfisher ×2 | **ang3lz_ab0v3**: Fly-A-Pet Potion |
+| 02:15 | **choco_nutella05**: Pain au Chat (M) | **ang3lz_ab0v3**: Chihuahua (M) |
+| 02:15 | **0kayFranny**: Arctic Reindeer (MFR), Sugar Glider (NFR), Turtle (FR) | **quotedscars**: Undead Jousting Horse (MFR) |
+| 02:15 | **maybe_daphne**: Cherry Blossom Hang Glider | **Bwxunnii**: Ride-A-Pet Potion ×5 |
+| 02:15 | **raeshiia**: Sloth (R), Koi Carp, Stingray, Admin Abuse Egg, Rubber Ducky | **valentinaemmz**: Ride-A-Pet Potion |
+| 02:15 | **gdhjsbdhhsbs**: Glormy Leo (MFR), Glormy Hound (MFR) | **soy_anonim6**: Field Mouse (MFR) |
+| 02:15 | **Memory3425**: Sushi Penguin | **dahoody2k3**: Ride-A-Pet Potion |
+| 02:15 | **sillynido**: Fly-A-Pet Potion, Ride-A-Pet Potion | **jetedispas212**: Moon Rabbit (N) |
+| 02:15 | **Reedeemed**: Cherry-On-Top, Puffin (NR), Tortoiseshell Guinea Pig, Pancake Stack, Ride-A-Pet Potion ×2 | **XGiveMeUrFoodX**: Cow (NFR) |
+| 02:15 | **mommy_vka123**: Crocodile (R), Arctic Fox (R), Pig, Fly-A-Pet Potion, Ride-A-Pet Potion | **luvyerh**: Goose |
+| 02:15 | **Gaming123ojggfcrhd**: Velocirooster, Burning Bunny (N) | **L_person21**: Bald Eagle |
+| 02:15 | **incursura**: Goose (FR) | **Iuvsxc**: Peppermint Penguin (FR) |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
