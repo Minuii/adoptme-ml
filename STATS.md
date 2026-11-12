@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 20:40 UTC by the scrape workflow._
+_Updated 2026-11-12 20:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,20 +13,21 @@ _Updated 2026-11-12 20:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 30,456 | 2026-11-12T20:30 |
-| elve | 2 | 6,195 | 2026-11-12T20:31 |
+| amvgg | 2 | 30,683 | 2026-11-12T20:45 |
+| elve | 2 | 6,219 | 2026-11-12T20:45 |
 
-## AMVGG completed trades: 5,293 total
+## AMVGG completed trades: 5,294 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,202 |
+| 2026-11-12 | 3,203 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:45 | **ri0txh**: Giant Anteater (NFR), Sandwich Hat | **zow_98alt**: Cerberus (MFR) |
 | 20:36 | **Mytradeaccountforme**: Christmas Pudding Pup (NFR), Pink Heart Glasses | **Lofile456**: Matcha Cat (NFR) |
 | 20:36 | **dacha_123561**: Mini Pig | **Cocicka272**: Crocodile (FR), Munchkin Cat, Happy Clam (NR), Red Fox, Cute-A-Cabra |
 | 20:36 | **lindaberdo**: Boohoo (M) | **xromosa2**: Winter Fawn (NR) |
@@ -41,7 +42,6 @@ _Updated 2026-11-12 20:40 UTC by the scrape workflow._
 | 20:36 | **kkaatEEe2**: Orca (M) | **petal_54321**: Fly-A-Pet Potion |
 | 20:36 | **tonysciela**: Amami Rabbit ×5 | **nazzanown10**: Snow Monkey |
 | 20:36 | **K4n4ato10**: Golden Dragon, Golden Griffin, Gemstone Egg, Diamond Unicorn, Golden Unicorn | **avneetkool**: Ride-A-Pet Potion |
-| 20:36 | **T_T10604**: Zombie Buffalo (R), Zombie Buffalo, Toaster Hat, Ride-A-Pet Potion | **ni1zuua**: 2022 Birthday Cake |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
