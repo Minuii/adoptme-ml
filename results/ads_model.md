@@ -1,19 +1,61 @@
 # Elve model with offer features: 7-day up/flat/down
 
-_Run on Kaggle (GPU, XGBoost) on 2026-11-12 from commit 6cb8632, with the Elvebredd offer backfill about 60% complete.
-Summary table pasted from the notebook output; the per-month file was not downloaded. Rerun `python elve_model.py ads`
-after the backfill finishes to replace this._
+_Run on Kaggle (GPU, XGBoost) on 2026-11-12 from commit 6fe5ce7, with both offer backfills complete. Window 2023-10-01 to 2026-11-11, 4,812 pet variants, 1,504,574 rows. Flat = move under 2%. Class shares down/flat/up: 3.4%, 93.4%, 3.3%._
 
-_Window with offer features: 2025-02-24 to 2026-11-11, 802 pets, 1,504,574 rows. Flat = move under 2%.
-Offer feature coverage: Elvebredd 95–99% of rows, AMVGG 11–12% (its offers start 2026-08-20)._
+Walk-forward by month (19 test months), averages:
 
-Walk-forward by month (19 test months, 2025-05 to 2026-11), averages:
+| model                        |   accuracy |   macro F1 |   up precision |   up recall |   down precision |   down recall |   log loss |   top-20 mean 7d change |   universe mean change |
+|:-----------------------------|-----------:|-----------:|---------------:|------------:|-----------------:|--------------:|-----------:|------------------------:|-----------------------:|
+| always flat                  |      0.900 |      0.316 |          0.000 |       0.000 |            0.000 |         0.000 |      0.693 |                  -0.001 |                 -0.000 |
+| repeat last change (30d)     |      0.724 |      0.456 |          0.181 |       0.570 |            0.191 |         0.533 |      1.909 |                   0.019 |                 -0.000 |
+| logistic regression          |      0.899 |      0.457 |          0.404 |       0.158 |            0.443 |         0.154 |      0.353 |                   0.034 |                 -0.000 |
+| gradient boosting            |      0.902 |      0.440 |          0.459 |       0.146 |            0.538 |         0.113 |      0.330 |                   0.045 |                 -0.000 |
+| logistic regression + offers |      0.899 |      0.460 |          0.414 |       0.163 |            0.460 |         0.151 |      0.342 |                   0.038 |                 -0.000 |
+| gradient boosting + offers   |      0.903 |      0.445 |          0.479 |       0.151 |            0.552 |         0.117 |      0.325 |                   0.055 |                 -0.000 |
 
-| model                     | accuracy | macro F1 | up precision | up recall | down precision | down recall | log loss | top-20 mean 7d change | universe mean change |
-|:--------------------------|---------:|---------:|-------------:|----------:|---------------:|------------:|---------:|----------------------:|---------------------:|
-| always flat               |    0.900 |    0.316 |        0.000 |     0.000 |          0.000 |       0.000 |    0.693 |                -0.001 |                 -0.0 |
-| repeat last change (30d)  |    0.724 |    0.456 |        0.181 |     0.570 |          0.191 |       0.533 |    1.910 |                 0.019 |                 -0.0 |
-| logistic regression       |    0.899 |    0.457 |        0.404 |     0.158 |          0.443 |       0.154 |    0.353 |                 0.034 |                 -0.0 |
-| gradient boosting         |    0.902 |    0.439 |        0.458 |     0.145 |          0.537 |       0.113 |    0.330 |                 0.045 |                 -0.0 |
-| logistic regression + offers |    0.899 |    0.458 |        0.414 |     0.161 |          0.457 |       0.149 |    0.346 |                 0.039 |                 -0.0 |
-| gradient boosting + offers   |    0.903 |    0.440 |        0.479 |     0.143 |          0.544 |       0.113 |    0.326 |                 0.055 |                 -0.0 |
+
+## Per month (macro F1)
+
+| month   |   always flat |   gradient boosting |   gradient boosting + offers |   logistic regression |   logistic regression + offers |   repeat last change (30d) |
+|:--------|--------------:|--------------------:|-----------------------------:|----------------------:|-------------------------------:|---------------------------:|
+| 2025-05 |         0.323 |               0.397 |                        0.384 |                 0.363 |                          0.394 |                      0.463 |
+| 2025-06 |         0.324 |               0.363 |                        0.375 |                 0.345 |                          0.354 |                      0.410 |
+| 2025-07 |         0.320 |               0.348 |                        0.345 |                 0.381 |                          0.377 |                      0.445 |
+| 2025-08 |         0.325 |               0.397 |                        0.395 |                 0.428 |                          0.409 |                      0.419 |
+| 2025-09 |         0.324 |               0.395 |                        0.364 |                 0.481 |                          0.469 |                      0.491 |
+| 2025-10 |         0.320 |               0.429 |                        0.417 |                 0.479 |                          0.474 |                      0.529 |
+| 2025-11 |         0.320 |               0.453 |                        0.474 |                 0.459 |                          0.460 |                      0.465 |
+| 2025-12 |         0.316 |               0.356 |                        0.384 |                 0.468 |                          0.472 |                      0.465 |
+| 2026-01 |         0.317 |               0.510 |                        0.524 |                 0.473 |                          0.478 |                      0.441 |
+| 2026-02 |         0.324 |               0.470 |                        0.489 |                 0.477 |                          0.489 |                      0.450 |
+| 2026-03 |         0.308 |               0.352 |                        0.377 |                 0.407 |                          0.413 |                      0.500 |
+| 2026-04 |         0.288 |               0.432 |                        0.436 |                 0.409 |                          0.412 |                      0.436 |
+| 2026-05 |         0.299 |               0.406 |                        0.420 |                 0.431 |                          0.437 |                      0.268 |
+| 2026-06 |         0.310 |               0.458 |                        0.443 |                 0.508 |                          0.509 |                      0.453 |
+| 2026-07 |         0.313 |               0.499 |                        0.514 |                 0.521 |                          0.524 |                      0.479 |
+| 2026-08 |         0.313 |               0.489 |                        0.495 |                 0.496 |                          0.505 |                      0.466 |
+| 2026-09 |         0.318 |               0.504 |                        0.502 |                 0.488 |                          0.499 |                      0.441 |
+| 2026-10 |         0.318 |               0.557 |                        0.553 |                 0.594 |                          0.583 |                      0.509 |
+| 2026-11 |         0.316 |               0.541 |                        0.570 |                 0.483 |                          0.490 |                      0.524 |
+
+
+## Logistic regression: features pushing toward up (+) or down (-), last fold
+
+|                     |   up minus down coef |
+|:--------------------|---------------------:|
+| elve_demand_chg     |               -0.331 |
+| pet_dn_14           |               -0.222 |
+| rarity_up_share_7   |               -0.173 |
+| n_dn_30             |               -0.156 |
+| rarity_legendary    |               -0.151 |
+| age_days            |               -0.111 |
+| pet_dn_3            |               -0.091 |
+| log_value           |               -0.071 |
+| mkt_up_share_7      |                0.136 |
+| rarity_up_share_30  |                0.171 |
+| n_up_30             |                0.180 |
+| pet_up_3            |                0.183 |
+| elve_kind_demand_14 |                0.244 |
+| days_since_change   |                0.272 |
+| last_change         |                0.369 |
+| elve_demand_7       |                0.733 |
