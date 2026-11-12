@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 10:01 UTC by the scrape workflow._
+_Updated 2026-11-12 10:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 10:01 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 20,465 | 2026-11-12T10:00 |
-| elve | 2 | 4,078 | 2026-11-12T10:01 |
+| amvgg | 2 | 20,684 | 2026-11-12T10:15 |
+| elve | 2 | 4,117 | 2026-11-12T10:16 |
 
-## AMVGG completed trades: 3,276 total
+## AMVGG completed trades: 3,306 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,185 |
+| 2026-11-12 | 1,215 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:00 | **ui13ya**: Fly-A-Pet Potion, Ride-A-Pet Potion, Pig (R) | **personal_stalker69**: Crocodile |
-| 10:00 | **FlyToTheSaturn**: Discosplosion, Magic House Door, Hotdog Stand, Lemonade Stand, Cotton Candy Stand, Snow Cone Stand, Caticorn Rattle, Axe Rattle, Marsh Plush, Octopus Plush, Skeleton Pogo Stick, Balloons, Creepy Balloon, Banana Pogo, Turkey Plush, Cookie Dough Plush, Reindeer Plush, Heart Plushie | **MegaPoslaTV**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 10:00 | **FlyToTheSaturn**: Droplet Stroller, Double Stroller ×3, Car Stroller, Rocket Ship Stroller, Hatched Egg Stroller, Crate Stroller ×5, Triple Stroller ×6 | **MegaPoslaTV**: Fly-A-Pet Potion |
-| 10:00 | **Zhackpogi**: Winged Horse (FR) | **Pumkin3588**: Feesh, Classic Teapot |
-| 10:00 | **vivvlly**: Catte, Tuxedo Cat, Kitty Bat, Bubblegeist, Electric Hornet, Thunderfisher ×2, Caramelgeist (N) | **Leviodas**: Fly-A-Pet Potion |
-| 10:00 | **k_sybom**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Lozi_loz**: Copycat |
-| 10:00 | **itzLogansXroblox**: Jester Dragon (R), Ride-A-Pet Potion | **kkaatEEe2**: Copycat (R) |
-| 10:00 | **Starlightstarzz**: Swan ×2, Cow Calf | **Itsjustthevibez**: Ride-A-Pet Potion ×3 |
-| 10:00 | **OfficialBrunette**: Pet Handler Pro Certificate, Alien Eyes Hat | **twojstarydzikitygrys**: Spring Bunny Nose |
-| 10:00 | **FlyToTheSaturn**: Sock Chew Toy, Gift Throw Toy, Candle ×2, Sleigh Bells Rattle ×3, Marsh Balloon, Kangaroo Pogo, Dragon Balloon ×2, Heart Balloon, Cookie Dough Plush ×3 | **cowlol898**: Fly-A-Pet Potion |
-| 10:00 | **Ninimari89**: Chihuahua ×2, Ermine | **xxxtentacion12639**: Ride-A-Pet Potion |
-| 10:00 | **P1nkteeth**: Fallow Deer (NFR), Ice Cream Hermit Crab (N), Burger Bear (N) | **sacrificingmyself19**: Lion Cub (NFR) |
-| 10:00 | **cute_01814**: Ride-A-Pet Potion | **Leviodas**: White Choccybunny (M), Milk Choccybunny (M) |
-| 09:45 | **myBestiVlad2380**: Pancake Stack, Lemonade Stand | **rover243ro**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 09:45 | **Diro1489**: Velocirooster, Count Slothula (N), Moose Calf | **Tal_Kazman**: Mechapup (FR) |
+| 10:15 | **sakotfzg**: Munchkin Cat (R), Glyptodon (N), Dodo (R) | **kakashka_lol35**: Crocodile (R) |
+| 10:15 | **safiqa99**: Arctic Fox (R) | **v6mpireeee**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
+| 10:15 | **SashaaXD0**: Little Lamb (N), Pomeranian (N), Orca (N) | **califxrmula**: Ride-A-Pet Potion |
+| 10:15 | **seolgi8**: Cow (FR) | **ashplayingrobloxwith**: Copycat (NFR) |
+| 10:15 | **personal_stalker69**: Cow (FR) | **Heybolloboom**: Cerberus (MFR), Snow Owl (NFR), Ride-A-Pet Potion |
+| 10:15 | **MyMain_Looking4Done**: Evil Unicorn (FR), Kangaroo (FR) | **Qyukot21**: Christmas Pudding Pup (MFR) |
+| 10:15 | **AlinaAtRoblox**: Arctic Dusk Dragon (NFR), Arctic Dusk Dragon (MFR), Bunny Swirl (M) | **LZ_hack1r**: Parrot (FR) |
+| 10:15 | **Lunaflower2020**: Golden Lettuce | **Reyeyerafifp**: Fly-A-Pet Potion |
+| 10:15 | **Kstskydkydkyskgz**: Candicorn (FR), Ride-A-Pet Potion ×2, Golden Lettuce, Pet Handler Pro Certificate | **Say_274**: Turtle (FR) |
+| 10:15 | **quVare_PDF**: Nebula Snake (R), Dragon (R) | **0428qaz**: Ride-A-Pet Potion |
+| 10:15 | **Angel_020601**: Snow Leopard, Raccoon, Electric Hornet, Skelicorn | **Merci0811**: Strawberry Shortcake Bow |
+| 10:15 | **fox_100l**: Goose (FR), Turtle (FR) | **iiiiioooooo666666**: Strawberry Shortcake Bat Dragon (FR) |
+| 10:15 | **esterrsz**: Hare (NR), King Bee (NFR), Drake (R), Tan Chow-Chow (N), Merry Mistletroll (N), Ride-A-Pet Potion | **LumDayy**: Pig (NFR) |
+| 10:15 | **kagurasgl0w**: Fly-A-Pet Potion | **Ranitaisback**: Ride-A-Pet Potion ×2 |
+| 10:15 | **Babimian1**: Dragonfruit Fox (R) | **Inganta07**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
