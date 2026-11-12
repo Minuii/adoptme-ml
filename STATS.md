@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 22:41 UTC by the scrape workflow._
+_Updated 2026-11-12 22:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,20 +13,22 @@ _Updated 2026-11-12 22:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 32,360 | 2026-11-12T22:30 |
-| elve | 2 | 6,581 | 2026-11-12T22:31 |
+| amvgg | 2 | 32,570 | 2026-11-12T22:45 |
+| elve | 2 | 6,599 | 2026-11-12T22:45 |
 
-## AMVGG completed trades: 5,609 total
+## AMVGG completed trades: 5,611 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,518 |
+| 2026-11-12 | 3,520 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:45 | **bastiANIT01**: Copycat, Sakura Spirit (F), Ride-A-Pet Potion | **MHE_noXyN78**: Candicorn |
+| 22:45 | **ch0colatadafresca**: Jester Dragon (FR) | **NotSunsetPlaysRoblox**: Ride-A-Pet Potion ×7 |
 | 22:36 | **Kelssakura**: Cryptid (NFR), Werewolf (NFR), Unicorn Horn, Werewolf (R) ×3, Tiny Wings, Alpaca | **ysuidkwkwksjd**: Mini Pig (MFR) |
 | 22:30 | **Dessertsandfoods**: Mr. Whiskerpips (MR), Ride-A-Pet Potion, Gemstone Egg, White Chef Hat | **thebadbiotcsh**: Mr. Whiskerpips (MFR) |
 | 22:30 | **SharkuKy_Trades**: Shark (NFR) | **Piggyrocket09**: Frost Fury (FR) |
@@ -40,8 +42,6 @@ _Updated 2026-11-12 22:41 UTC by the scrape workflow._
 | 22:25 | **lox_pon003**: Ancient Dragon, Golden Dragon, Stray Cat Dragon, Dragon, Purrowl, Alicorn, Diamond Griffin, Rosy Maple Moth, Huntsman Robin, Rubber Ducky (N) | **heladitoooUnU**: Ride-A-Pet Potion |
 | 22:25 | **RBstela**: Fossil Egg | **xo1qn**: Cherry Blossom Flower Sticker ×18 |
 | 22:25 | **The1AndOnlyClyde**: 2022 Birthday Party Hat, Unicorn Horn, Tiny Wings ×2 | **Gabriele143love**: Rainbow Maker |
-| 22:25 | **tatianachan1713**: Amami Rabbit ×4 | **hzmimii**: Ride-A-Pet Potion ×2 |
-| 22:25 | **giraffe3815**: Strawberry Penguin (NFR), Ride-A-Pet Potion | **Mytradeaccountforme**: Matcha Cat (NFR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
