@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 00:31 UTC by the scrape workflow._
+_Updated 2026-11-12 00:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 00:31 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 11,451 | 2026-11-12T00:30 |
-| elve | 2 | 2,344 | 2026-11-12T00:31 |
+| amvgg | 2 | 11,714 | 2026-11-12T00:45 |
+| elve | 2 | 2,407 | 2026-11-12T00:46 |
 
-## AMVGG completed trades: 2,228 total
+## AMVGG completed trades: 2,241 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 137 |
+| 2026-11-12 | 150 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:45 | **WierdoVanilla**: Dragonfruit Fox | **Bow_WR**: Drone Stroller, Landsailer, Trireme, Kangaroo Pogo, Sleigh Bells Rattle, Santa Rattle, Sock Chew Toy, Rotating Periscope, Panda Sticker ×3, Dog Backpack ×2, Snowball Launcher, Candyfloss Chick Sticker, Soulfire Animated Sticker, Ornament Throw Toy |
+| 00:45 | **quVare_PDF**: Lava Dragon (FR), Ride-A-Pet Potion | **NotCookie810**: Glormy Leo (FR) |
+| 00:45 | **OL1YSGL4M**: Shark Puppy (MFR), Matcha Cat, Christmas Pudding Pup (R) | **obv1kylxx**: Candicorn (MFR) |
+| 00:45 | **wjahsv**: Three Blind Mice, Velvet Fuchsia Mega Neon Paint | **kxtenshi**: Retired Egg ×18 |
+| 00:45 | **Thelovehart7**: Polar Bear (FR) | **itzz_Keys**: Dango Penguins, Bunny Swirl, Ride-A-Pet Potion, Gingerbread Reindeer |
+| 00:45 | **Layyla1427**: Munchkin Cat, Toy Poodle (NFR) | **nfrhectirchis**: Shark Puppy (R) |
+| 00:45 | **Agro_Shkolnik3**: Ride-A-Pet Potion ×4, Kangaroo (FR) | **dimon221221332**: Turtle (FR) |
+| 00:45 | **ggummyblair**: Snow Cat, Puma ×2, Poodle ×2, Mexican Wolf, Bunny, Corgi, Shiba Inu, Bali Starling, Snorgle, Shetland Pony Dark Brown, Woodpecker, Pink Dog (N), Yellow Butterfly, Ox (N), Fairytale Egg | **PerritoBobu**: Ride-A-Pet Potion |
+| 00:45 | **ChillerTyr**: Goldhorn | **Adore_IvaXx**: Ride-A-Pet Potion |
+| 00:45 | **Hellokittypricess92**: Cattuccino, Toucan | **iiam_nikiii**: Skelicorn |
+| 00:45 | **L0LB1T_1983XD**: Candicorn | **PeppaOMG2**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×7 |
+| 00:45 | **FroztedCook31**: Cow (FR), Fly-A-Pet Potion | **sursyrzytxurzutzutz**: Border Collie (FR), Hare (N), Pain au Chat (M) |
+| 00:45 | **H3NN5**: Strawberry Shortcake Bat Dragon (FR), Husky (MFR), Brown Bear (MFR) | **copyvoting**: Balloon Unicorn (FR) |
 | 00:30 | **quesidella**: Dalmatian (FR), Cow (FR), Munchkin Cat (R) | **ZafiY_hay**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
 | 00:30 | **Katseye_Fanlaraaaaa**: Chocolate Dutch Guinea Pig ×2 | **Miner_Beast34**: Pet Handler Pro Certificate |
-| 00:30 | **jazminvera112**: Pupcake (MFR), Ice Cream Cone Hat, Toaster Hat | **noki123good**: Field Mouse (NFR) |
-| 00:30 | **Lexi_31825**: Lynx (MR) | **sysstemofadownn**: Candy Hare (NR), Ghost Bunny (R), Harp Seal, Little Lamb (MR), Spring Bunny Feet, Round Fallow Deer Sticker |
-| 00:30 | **blake_shortie**: Mochi Meow Tumble Animated Sticker, Tree Decorating Animated Sticker, Dinner Discourse Cat Sticker | **Lola_ant34**: Fleur De Ice (N) |
-| 00:30 | **x_whips0**: Tiny Wings, Spring Bunny Hood, Ride-A-Pet Potion | **aabeeyg**: Rain Cloud Hat |
-| 00:30 | **lilmlp**: Caterpillar (MFR), Ice Cream Cone Hat, Toaster Hat | **Certifiedbwunnii**: African Wild Dog (R), Rainbow Maker |
-| 00:30 | **QJennyXlv**: Ride-A-Pet Potion ×4 | **valentinaajuwu**: Spring Bunny Hood |
-| 00:30 | **34kbia**: Flamingo (FR), Flamingo (R) | **ekitten9934**: Mini Pig (R) |
-| 00:30 | **Quean_33**: Flamingo (R), Snowball Pug (MR), Fly-A-Pet Potion, Ride-A-Pet Potion | **MERCEDESE300COUPE**: Sugar Glider (FR) |
-| 00:30 | **kxc1el31gh**: Kangaroo (FR), Pig (FR) | **xXfayridreamXx**: Turtle (FR), Dragonfruit Fox (R) |
-| 00:30 | **Jorfan90**: Cheetah (MFR), Dango Penguins (MFR), Ice Cream Hermit Crab (MFR), German Shepherd (MFR), Puffer Fish (MFR), Mule (MFR), Santa Hat | **cinammoroll_bun**: Owl (FR) |
-| 00:30 | **princess_pizzanice**: Mini Pig (R) | **WeirdKage**: Cow (FR), Tortuga de la Isla (R) |
-| 00:30 | **etherealstarblaze**: Water Moon Bear (N) | **plssnomore**: Ride-A-Pet Potion |
-| 00:30 | **etherealstarblaze**: Choco Penguin (N) ×2 | **LoletitaYT**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
