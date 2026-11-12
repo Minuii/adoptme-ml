@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 01:01 UTC by the scrape workflow._
+_Updated 2026-11-12 01:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 01:01 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 11,964 | 2026-11-12T01:00 |
-| elve | 2 | 2,468 | 2026-11-12T01:01 |
+| amvgg | 2 | 12,228 | 2026-11-12T01:15 |
+| elve | 2 | 2,525 | 2026-11-12T01:16 |
 
-## AMVGG completed trades: 2,275 total
+## AMVGG completed trades: 2,302 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 184 |
+| 2026-11-12 | 211 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:00 | **Shebby7771**: Ride-A-Pet Potion ×3, Goth Shoes | **Equdxzi**: Candy Hare (N) |
-| 01:00 | **xyriui3**: Pet Handler Pro Certificate | **tokiplayz_omila**: Harp Seal ×2 |
-| 01:00 | **Den_826uhwk**: Arctic Reindeer (FR) ×2 | **Angelbatista_me2**: Arctic Reindeer (NFR) |
-| 01:00 | **kroko182**: Llama (MFR), Owlbear (MFR), Brown Bear (MFR) | **Angelbatista_me2**: Silverback Gorilla (MFR) |
-| 01:00 | **vcloss**: Tuxedo Cat (N), Groundhog ×5 | **Jellybeans_8789**: Haetyphoon |
-| 01:00 | **fwthaclout**: Mini Pig (NFR), Cupid Dragon (FR), Ice Cream Cone Hat, Turtle (FR) | **realLevi_pixel138**: Balloon Unicorn (FR) |
-| 01:00 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **ItsUnicornCat_Plays**: Swan (R) |
-| 01:00 | **cabbitfann1**: Cow (R) | **diamondfashionheart**: Peppermint Penguin (FR) |
-| 01:00 | **FishandChipsQwQ**: Candy Hare (MFR), Majestic Pony (MFR), Tree Kangaroo (MFR), Phoenix (MFR), Ice Wolf (NFR), Ride-A-Pet Potion | **leruval**: Crow (FR) |
-| 01:00 | **Memory3425**: Ride-A-Pet Potion | **AlejandraGL7**: Axolotl |
-| 01:00 | **WierdoVanilla**: Dugong (MR), Bready Necklace | **kotek_bla**: Millionaire Mansion |
-| 01:00 | **ComWhil**: Cryptid (FR), Dalmatian (R), Arctic Reindeer (FR), Cow (FR), Fairy Bat Dragon (FR), Candicorn (R), Fly-A-Pet Potion ×2, Chocolate Dutch Guinea Pig ×2 | **regalarmealgo12**: Parrot (NFR) |
-| 01:00 | **vcloss**: Copycat ×3, Brown Bear | **yumstarf**: Flash Weasel |
-| 01:00 | **unicorn829229011**: Albino Monkey (FR), Ride-A-Pet Potion, Pancake Stack, Pet Handler Pro Certificate, Unicorn | **tuffpose**: Copycat ×3 |
-| 01:00 | **ichimeru**: Cow (FR), Flamingo (FR), Elephant (FR), Happy Duckling (MFR), Royal Palace Spaniel (MFR), Cerberus (NFR), Frog (MFR), Phoenix (NFR), Sasquatch (MFR), Australian Kelpie (MFR), Winged Horse (NFR), Ribbon Seal (MFR), Tortuga de la Isla (R) | **xXNarynaryXx**: Strawberry Shortcake Bat Dragon (NFR) |
+| 01:15 | **bruh567565**: Goat (MFR) | **D8RYY**: Ice Golem (MFR), Snow Monkey (MFR), Pet Handler Pro Certificate |
+| 01:15 | **Ava_livey2**: Flamingo (R) | **Mattzilla330**: Candicorn (FR) |
+| 01:15 | **nevaehthefirst10**: Huntsman Robin, Mexican Wolf | **Uecinth**: Admin Abuse Egg ×6 |
+| 01:15 | **Robloxiana_xxx2011**: Yule Log Dog (R) | **qwelxzz**: Ride-A-Pet Potion ×2 |
+| 01:15 | **Hannah_MI989**: Ride-A-Pet Potion ×2 | **DaWsHa120**: Dragonfruit Fox |
+| 01:15 | **trezehel**: Winged Tiger (MFR), Rain Cloud Hat | **i8tadori**: Cryptid (NFR) |
+| 01:15 | **Xx_mochax1X**: Sloth (R), Gecko Ducky (M) | **raeshiia**: Ride-A-Pet Potion |
+| 01:15 | **deeplishpou**: Rain Cloud Hat, Bunny Swirl (MFR) | **skullteast**: 2022 Birthday Party Hat |
+| 01:15 | **Shadx_1553**: Cryptid (MFR), Elephant (FR), Elephant (R) | **cwupidbrae**: Parrot (MFR), Silverback Gorilla (MFR) |
+| 01:15 | **Sentikaza_pikachu**: Caterpillar (FR), Caterpillar ×3, Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **Shadx_1553**: Siamese Cat (MFR) |
+| 01:15 | **Adoptmememe_77**: Owl (FR), Cow (FR), Turtle (FR), Fly-A-Pet Potion | **Vickykun123lo**: Frost Dragon (FR) |
+| 01:15 | **kxc1el31gh**: Dragonfruit Fox (MFR) | **DeoKyleSonic**: Turtle (FR), Kangaroo (FR) |
+| 01:15 | **Cherridoll76**: Kangaroo (FR) | **Vicloqe**: Halloween Evil Dachshund (MFR), Rat (MFR), Fly-A-Pet Potion ×2 |
+| 01:15 | **Hhto123**: Candicorn (NFR), Candicorn (FR), Ride-A-Pet Potion | **Oldffcdf**: Arctic Reindeer (FR) |
+| 01:15 | **donnotinteract**: Sugar Glider (R), Ride-A-Pet Potion | **96uwuarroZ**: 2022 Birthday Cake, Fly-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
