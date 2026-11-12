@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 00:16 UTC by the scrape workflow._
+_Updated 2026-11-12 00:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 00:16 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 11,162 | 2026-11-12T00:15 |
-| elve | 2 | 2,299 | 2026-11-12T00:16 |
+| amvgg | 2 | 11,451 | 2026-11-12T00:30 |
+| elve | 2 | 2,344 | 2026-11-12T00:31 |
 
-## AMVGG completed trades: 2,161 total
+## AMVGG completed trades: 2,228 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 70 |
+| 2026-11-12 | 137 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:15 | **mattblehh**: Haetae (R), Alpaca (NFR), Halo, Angel Wings, Unicorn Horn, 2022 Birthday Cake | **gogoyurio**: Alpaca (MFR) |
-| 00:15 | **kkaatEEe2**: Ride-A-Pet Potion | **meowchkai**: Abyssinian Cat (M), Peachick ×2, Puptune |
-| 00:15 | **wistfulheartsclub**: Ride-A-Pet Potion | **LULLABYSAM**: Spring Bunny Feet |
-| 00:15 | **Matblox56**: Ride-A-Pet Potion ×4 | **Terranese**: Kiwi (N) |
-| 00:15 | **J4YASPL4NET**: Candicorn (NFR) ×2, Giant Anteater (N), Jellyfish (R) | **lxcidvst**: Shark Puppy (MFR) |
-| 00:15 | **pxrczl**: Fly-A-Pet Potion ×3 | **Lxdyxx**: Snowball Pug (MR) |
-| 00:15 | **Vansderrl**: Mini Pig (NFR), Munchkin Cat, Werewolf | **6arixia**: Strawberry Shortcake Bat Dragon (FR), Dango Penguins (NFR), Rainbow Maker |
-| 00:15 | **hayopanima**: Copycat | **ydenarohka10**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 00:15 | **hayopanima**: Cow | **Goodnews2013**: Fly-A-Pet Potion ×15 |
-| 00:15 | **y0ur_fellowplayer**: Love Bird (MR) | **quxzqrio**: Love Bird (NFR), Evil Chickatrice (N), Unicorn Ducky (N), King Bee (FR), Peacock (R) |
-| 00:15 | **SkaterPlayzQueen2016**: Winged Tiger (MFR), Winged Tiger (FR), Cow (NFR), Caterpillar | **joeyharri12**: Crow (NFR) |
-| 00:15 | **q0whil**: Wren, Arctic Hare, Kirin (N), Galapagos Sea Lion (M), Golden Egg, Admin Abuse Egg, Tan Chow-Chow, Orca (N), Banded Palm Civet | **sursyrzytxurzutzutz**: Ride-A-Pet Potion |
-| 00:15 | **Machaddkkj**: Highland Cow, Retired Egg | **Mimie_Cool**: Elf Shoes |
-| 00:15 | **6smng**: Silverback Gorilla (MFR) ×2, Hedgehog (FR) | **mariawoiksi**: Giraffe (FR) |
-| 00:15 | **Minnieql**: Copycat, Ride-A-Pet Potion, Stitches (N) | **hayopanima**: Copycat (FR) |
+| 00:30 | **quesidella**: Dalmatian (FR), Cow (FR), Munchkin Cat (R) | **ZafiY_hay**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 00:30 | **Katseye_Fanlaraaaaa**: Chocolate Dutch Guinea Pig ×2 | **Miner_Beast34**: Pet Handler Pro Certificate |
+| 00:30 | **jazminvera112**: Pupcake (MFR), Ice Cream Cone Hat, Toaster Hat | **noki123good**: Field Mouse (NFR) |
+| 00:30 | **Lexi_31825**: Lynx (MR) | **sysstemofadownn**: Candy Hare (NR), Ghost Bunny (R), Harp Seal, Little Lamb (MR), Spring Bunny Feet, Round Fallow Deer Sticker |
+| 00:30 | **blake_shortie**: Mochi Meow Tumble Animated Sticker, Tree Decorating Animated Sticker, Dinner Discourse Cat Sticker | **Lola_ant34**: Fleur De Ice (N) |
+| 00:30 | **x_whips0**: Tiny Wings, Spring Bunny Hood, Ride-A-Pet Potion | **aabeeyg**: Rain Cloud Hat |
+| 00:30 | **lilmlp**: Caterpillar (MFR), Ice Cream Cone Hat, Toaster Hat | **Certifiedbwunnii**: African Wild Dog (R), Rainbow Maker |
+| 00:30 | **QJennyXlv**: Ride-A-Pet Potion ×4 | **valentinaajuwu**: Spring Bunny Hood |
+| 00:30 | **34kbia**: Flamingo (FR), Flamingo (R) | **ekitten9934**: Mini Pig (R) |
+| 00:30 | **Quean_33**: Flamingo (R), Snowball Pug (MR), Fly-A-Pet Potion, Ride-A-Pet Potion | **MERCEDESE300COUPE**: Sugar Glider (FR) |
+| 00:30 | **kxc1el31gh**: Kangaroo (FR), Pig (FR) | **xXfayridreamXx**: Turtle (FR), Dragonfruit Fox (R) |
+| 00:30 | **Jorfan90**: Cheetah (MFR), Dango Penguins (MFR), Ice Cream Hermit Crab (MFR), German Shepherd (MFR), Puffer Fish (MFR), Mule (MFR), Santa Hat | **cinammoroll_bun**: Owl (FR) |
+| 00:30 | **princess_pizzanice**: Mini Pig (R) | **WeirdKage**: Cow (FR), Tortuga de la Isla (R) |
+| 00:30 | **etherealstarblaze**: Water Moon Bear (N) | **plssnomore**: Ride-A-Pet Potion |
+| 00:30 | **etherealstarblaze**: Choco Penguin (N) ×2 | **LoletitaYT**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
