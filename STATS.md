@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 13:31 UTC by the scrape workflow._
+_Updated 2026-11-12 13:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 13:31 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 23,627 | 2026-11-12T13:30 |
-| elve | 2 | 4,783 | 2026-11-12T13:31 |
+| amvgg | 2 | 23,870 | 2026-11-12T13:45 |
+| elve | 2 | 4,809 | 2026-11-12T13:45 |
 
-## AMVGG completed trades: 3,813 total
+## AMVGG completed trades: 3,839 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,722 |
+| 2026-11-12 | 1,748 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:30 | **carolzinhac2009**: Kangaroo (FR) | **asteryynn**: Unicorn ×17 |
-| 13:30 | **sewwyxu**: Fly-A-Pet Potion ×17, King Bee (FR) | **yasukie7u7**: Goose (FR) |
-| 13:30 | **itskayeeee**: Pet Handler Pro Certificate, Robot (N) | **chip40060**: Ride-A-Pet Potion ×2 |
-| 13:30 | **ArianaGrandeFan1464**: Candicorn (NFR), Candicorn, Spring Bunny Hood, Unicorn Backpack, Ride-A-Pet Potion ×6 | **yasukie7u7**: Frost Unicorn (NFR) |
-| 13:30 | **chip40060**: Haetyphoon (R) | **abrei2**: Ride-A-Pet Potion ×16, Fly-A-Pet Potion |
-| 13:30 | **yasukie7u7**: Polar Bear (NR), Polar Bear (R) | **kho1_blossom**: Kangaroo (FR), Sushi Penguin |
-| 13:30 | **fluses_sss**: Criosphinx (NR) | **gh4ghufi8**: Fly-A-Pet Potion |
-| 13:30 | **RealVeronnisaa**: Sushi Penguin | **Edinorog_510**: Ride-A-Pet Potion |
-| 13:30 | **3JlOU_XJlEBUIIlEK**: Kangaroo (FR) | **vare4ka_2828**: Ride-A-Pet Potion ×17 |
-| 13:30 | **CutieMelon131**: Retired Egg ×4 | **anisa_armyxx**: Cattuccino |
-| 13:30 | **iskil1ad**: Strawberry Shortcake Bat Dragon (FR), Border Collie (R), Jester Dragon (R), Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **Sonic_678899**: Hedgehog (FR), Copycat (FR) |
-| 13:30 | **FabulousFelix**: Frost Unicorn (MFR) | **gh4ghufi8**: Frost Dragon (FR) |
-| 13:30 | **TheGodx555**: Unicorn ×5 | **afissamuzfirah**: Ride-A-Pet Potion ×5 |
-| 13:30 | **jw0xii**: Huntsman Robin, Purrowl, Diamond Griffin, Bobageist (N), Merhorse, Bolt (N), Clumpty (N), Budgie Witch (N), California Condor (N) | **Balqis_BM182**: Ride-A-Pet Potion |
-| 13:30 | **OBVADDISONN0**: Polar Bear (NFR) | **ALKASHKA_pon0**: Frost Fury, Pancake Stack, Dire Wolf (MR), Ride-A-Pet Potion ×4, Muskrat (NR), Mighty Haetyphoon Animated Sticker |
+| 13:45 | **MARJ_altacc**: Ride-A-Pet Potion ×7 | **bakedkole**: Lamb (NFR) |
+| 13:45 | **francapita**: Frost Fury (FR) | **flopps227den**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 13:45 | **Katiebloxgaming2026**: Ruddy Duck (MR) | **califxrmula**: Ride-A-Pet Potion |
+| 13:45 | **Katiebloxgaming2026**: Black-Footed Ferret (M) | **califxrmula**: Ride-A-Pet Potion |
+| 13:45 | **Lizzzazaaaaaaa**: Pain au Chat | **Kitty_1b**: Snowball Pug |
+| 13:45 | **BudakBaran7**: Mini Pig (R) | **veroNIKA_star016**: Alpaca (FR), Shrew (R), Fly-A-Pet Potion ×2, Bakeneko (M), Chicken (R), Tanuki (N), Dilophosaurus (NR), Ride-A-Pet Potion ×2, Glormy Backpack, Leaf Hat |
+| 13:45 | **sleepydolly99**: Pupcake, Malaysian Tapir, Seafoam Butterfly | **Fox_13920**: Ride-A-Pet Potion |
+| 13:45 | **snyyyp**: Cow (FR), Purple Heart Glasses | **princesz_sof1e**: Strawberry Tortle, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 13:45 | **ad0pttrading**: Ring-Tailed Lemur (MFR) | **ylyzacanete**: Dalmatian (FR) |
+| 13:45 | **kotik666064**: Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Hat | **itz_grigoriy**: Dalmatian (FR), Ride-A-Pet Potion ×3 |
+| 13:45 | **AlphaTaToxicv1047**: Copycat | **sequerre**: Christmas Pudding Pup (R) |
+| 13:45 | **Alt_aslan6**: Candicorn (MFR), Propeller Hat | **KeineAhnungvonnix1**: Jester Dragon (MFR), Harp Seal (MFR) |
+| 13:45 | **chipsyZdupy183**: 2022 Birthday Party Horn | **jonnielxd**: Alley Cat (N) |
+| 13:45 | **kxrinavsp**: Tree Kangaroo (NR), Golden Egg, Glormy Dolphin, Easter Bunny | **Biancaant1**: Majestic Pony (NR) |
+| 13:45 | **Militaryi_CorTak**: Cow (FR), Cattuccino (N) | **CuteCouchPotato2009**: Goose (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
