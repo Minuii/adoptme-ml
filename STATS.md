@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 14:01 UTC by the scrape workflow._
+_Updated 2026-11-12 14:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 14:01 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 24,104 | 2026-11-12T14:00 |
-| elve | 2 | 4,860 | 2026-11-12T14:01 |
+| amvgg | 2 | 24,327 | 2026-11-12T14:15 |
+| elve | 2 | 4,916 | 2026-11-12T14:16 |
 
-## AMVGG completed trades: 3,867 total
+## AMVGG completed trades: 3,950 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,776 |
+| 2026-11-12 | 1,859 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:00 | **AlphaTaToxicv1047**: Copycat | **Blooddyzsggunsz**: Christmas Pudding Pup (R) |
-| 14:00 | **Eva_EvaKBAC**: Evil Unicorn, Kangaroo (NFR) ×2, Cow (R), Fly-A-Pet Potion | **odading12318**: Owl (FR) |
-| 14:00 | **afissamuzfirah**: Ride-A-Pet Potion ×3 | **D_avidOrbit**: Halloween Black Axe Guitar Accessory, Tutu ×2 |
-| 14:00 | **TANSKlN**: Shrew (MFR), Chocolate Chip Bat Dragon (NFR), Fairy Bat Dragon (NFR), Shrew (NFR), Shrew (NR), Mini Pig (R) | **Sasha_6813**: Giraffe (FR), Cabbit (FR) |
-| 14:00 | **quVare_PDF**: Phantom Dragon (R), Pandaguin Glooptodog (M) | **kobii_x**: Golden Tortoise Beetle (M), Fly-A-Pet Potion |
-| 14:00 | **Sasha_6813**: Christmas Pudding Pup (MFR) ×2, Chocolate Chip Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) | **Exotic_Collector27**: Giraffe (FR), Cabbit (FR) |
-| 14:00 | **hania70707**: Retired Egg ×6 | **varvara67te**: Choco Penguin |
-| 14:00 | **mattblehh**: Alpaca (MFR), Tiny Wings | **disapp6ar**: Goose (MFR), Chocolate Dutch Guinea Pig (MFR) |
-| 14:00 | **califxrmula**: Ride-A-Pet Potion | **Nevaeh_sxfte**: Puptune, Pomeranian, Angus Calf, Ginger Cat, Blue Jay, Sneak Weasel, Black Moon Bear, Orca ×4, Water Opossum (N) |
-| 14:00 | **qwirtiksss**: Copycat, Dolphin (N) | **Happiness_happen**: Arctic Fox (R) |
-| 14:00 | **KiaXias**: Royal Mistletroll (MFR), Kangaroo (R) | **fhis64**: Hot Doggo (NFR), Evil Unicorn (FR), Ballet Swan (MFR), Chocolate Chip Bat Dragon (FR), Cow (FR), Candyfloss Chick (FR) |
-| 14:00 | **VikaRBX87uwu**: Zombie Buffalo (R), Fly-A-Pet Potion, Ice Cream Hermit Crab, Ride-A-Pet Potion | **ALTUSHKA_80**: Pig (FR) |
-| 14:00 | **lisathefunnypig**: Count Slothula | **12emanuel07**: Sushi Penguin |
-| 14:00 | **PARAZITKA14888**: Fly-A-Pet Potion | **mashca_kakashka**: Purrowl (M) |
-| 14:00 | **LilyLikesCooki3_YT**: Golden Lettuce, Ride-A-Pet Potion, Rain Hat | **ALTUSHKA_80**: Nessie |
+| 14:15 | **Rbd_JP**: Candicorn (MFR), Yule Log Dog (MFR) | **njkosd**: Strawberry Penguin (MFR), Hare (MFR), Glormy Leo (NFR) |
+| 14:15 | **probnotartoria**: Mistletroll | **adorable_rhian**: Leopard Cat |
+| 14:15 | **Shyoshii**: Ride-A-Pet Potion | **Lollypop_2211**: S'mores Raccoon |
+| 14:15 | **gloorm22**: Jousting Horse (MFR), Lava Dragon (FR) | **scrossgirl**: Candyfloss Chick (NFR) |
+| 14:15 | **sofiadindang**: Ride-A-Pet Potion ×6 | **bnuuuiii**:  |
+| 14:15 | **kuromi_BRD**: Strawberry Shortcake Bat Dragon (NFR), Spring Bunny Feet, Moon Rabbit | **lauraloute15**: Owlbear (MFR), Strawberry Shortcake Bat Dragon (FR) |
+| 14:15 | **miamyp4ik**: Hedgehog (FR), Dalmatian (FR), Goat (R), Fly-A-Pet Potion | **Kamila_mil11**: Giant Panda (FR) |
+| 14:15 | **zoommbbeee**: Starfish (M) | **STAZ638**: Ride-A-Pet Potion |
+| 14:15 | **IAMNOTO_KEZ**: Chick (F), Dog (NR) | **GYUGYUBINIM**: Ride-A-Pet Potion |
+| 14:15 | **sufferingtogether**: Golden Penguin (MFR), Purrowl (N) ×4, Campfire Stories Mega Neon Paint, Candyfloss Mega Neon Paint, Amethyst Skies Mega Neon Paint, Velvet Fuchsia Mega Neon Paint, Rose Quartz Glow Mega Neon Paint, Tropical Surge Mega Neon Paint, White Chef Hat, Pain au Chat | **Mytradeaccountforme**: Glormy Hound (MFR) |
+| 14:15 | **TD_Juanjo89**: Ride-A-Pet Potion ×2 | **Bismuth234**: Pet Handler Pro Certificate |
+| 14:15 | **AlphaTaToxicv1047**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Bismuth234**: Christmas Pudding Pup |
+| 14:15 | **nAtiLiAoh**: Candyfloss Chick (NFR), Ring-Tailed Lemur (NFR), Jellyfish (NFR), Alpaca ×2, Cabbit (FR), Tiny Wings ×2, Spring Bunny Hood | **laceylovesmaccies**: Owl (FR) |
+| 14:15 | **xxXmya_uselessXxx**: Strawberry Tortle (R), Matcha Cat | **Bismuth234**: Cow (FR) |
+| 14:15 | **Shynisocool**: Cabbit (R) | **ETM_TOPG**: Pet Handler Pro Certificate ×12 |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
