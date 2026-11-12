@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 07:01 UTC by the scrape workflow._
+_Updated 2026-11-12 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 07:01 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 17,764 | 2026-11-12T07:00 |
-| elve | 2 | 3,566 | 2026-11-12T07:01 |
+| amvgg | 2 | 17,974 | 2026-11-12T07:15 |
+| elve | 2 | 3,603 | 2026-11-12T07:16 |
 
-## AMVGG completed trades: 2,975 total
+## AMVGG completed trades: 2,997 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 884 |
+| 2026-11-12 | 906 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:00 | **ZockerCelina_20**: Turtle (FR) | **YourPhysicaltest**: Border Collie (FR), Cupid Dragon (R), Skele-Rex (R) |
-| 07:00 | **ffffff246500**: Shrew | **RON234I**: Ride-A-Pet Potion, Rose Dragon (R), Cotton Candy Hat |
-| 07:00 | **carolzinhac2009**: Fairy Bat Dragon (FR) | **Milkis23706**: Copycat, Elephant (R) |
-| 07:00 | **FlyToTheSaturn**: Happy Duckling, Lynx, Harp Seal, Leopard Cat, Leopard Shark, Monkey (N), Rat (N), Quokka, Tanuki, Therapy Dog, Wolf (N), Tarsier, Ladybug ×2, Halloween White Skeleton Dog ×2, Deinonychus (R), Wolf | **0UwUCuteGirlUwU0**: Fly-A-Pet Potion ×4 |
-| 07:00 | **Rryiiaaaoo**: Ghost Bunny (MFR) | **Hearts4hxnnahhh**: Harp Seal (MFR) |
-| 07:00 | **FlyToTheSaturn**: Goth Shoes, Santa Hat, Elf Hat, Pirate Hat & Friend, Firey Aura, Bewitched Hat, White Chef Hat, Eyepatch, Respectful Mustache, Ruff, Rubber Ducks, Bat Wings, Festive Scarf, Bear Hood, Ghost Hat, Chick Hat, White Designer Backpack, Yellow Designer Backpack | **orchidbutterfliess**: Fly-A-Pet Potion ×5 |
-| 07:00 | **v6mpireeee**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **Scphiaaxbxdcr**: Arctic Fox (R) |
-| 07:00 | **heavsns**: Goat (M) | **m4rshalI**: Goat (MFR) |
-| 07:00 | **ZuzaOnlyMy**: Flamingo, Shark Puppy, Ride-A-Pet Potion ×2 | **Hamishdogecool**: Peppermint Penguin |
-| 07:00 | **Addmymainaccpls88**: Aviator Hat, Cattuccino ×3 | **catgirl718**: Ride-A-Pet Potion |
-| 07:00 | **Pulseq3Void63Echo174**: Frostclaw ×3 | **Addmymainaccpls88**: Fly-A-Pet Potion |
-| 07:00 | **Black_pencil0818**: Ride-A-Pet Potion | **T_T10604**: Respectful Mustache |
-| 07:00 | **Baddiegurlieeee**: Chihuahua, Thunderfisher | **ffraillove**: Pain au Chat |
-| 07:00 | **poorbunii**: Rain Cloud Hat | **ashplayingrobloxwith**: Shark Puppy |
-| 07:00 | **R_20009**: Goose (FR) | **Pidilypops2nd**: Munchkin Cat (NFR) |
+| 07:15 | **Daniel11122255**: Pet Handler Pro Certificate | **starneverlandsAlt**: Ride-A-Pet Potion ×2 |
+| 07:15 | **pooepieface**: Stitches (N) ×2 | **bbyk1ttypawz**: Ride-A-Pet Potion |
+| 07:15 | **1264Foxs**: Candyfloss Chick (NFR) | **BarbieDaisy6**: Border Collie (NFR), Hare (N) |
+| 07:15 | **bakedkole**: Chocolate Chip Bat Dragon (NFR), Jester Dragon | **natixezq**: Crow (FR) |
+| 07:15 | **Vonuchui_Nosok**: Ride-A-Pet Potion ×7, Fly-A-Pet Potion | **Neoglimmer**: Munchkin Cat |
+| 07:15 | **Shutupame**: Dalmatian (MFR), Arctic Reindeer (NFR), Siamese Cat (MFR), Munchkin Cat (MFR), Owlbear (MFR) | **headaddisonraestan**: Giant Panda (NFR), Shadow Dragon (FR), Rain Cloud Hat |
+| 07:15 | **yuri_dragon32**: Evil Unicorn (R), Chick (N) | **prorabik_krytou**: Phantom Dragon (MFR), Munchkin Cat |
+| 07:15 | **Kui_Yeager**: Ride-A-Pet Potion ×16 | **chaeegirlff**: Siamese Cat |
+| 07:15 | **bloody_unicorn1516**: Mini Pig (R), Rain Cloud Hat, Christmas Pudding Pup | **paulcantrizz**: Bush Elephant (NFR) |
+| 07:15 | **adorxlxo**: Chocolate Chip Bat Dragon (FR), Cabbit (R), Alpaca (NFR), Alpaca, Bush Elephant (MFR), Royal Palace Spaniel (MFR) | **m4rshalI**: Giraffe (FR) |
+| 07:15 | **ithinkwemaybe**: Mini Pig (MFR), Caterpillar (MFR), Siamese Cat (MFR), Pirate Ghost Capuchin Monkey (M), Christmas Pudding Pup (MFR), Munchkin Cat (MFR), Shrew (MFR), Goat (MFR), Arctic Fox (MFR), Dalmatian, Slime (MFR), Cow, White Amazon (MFR) | **m4rshalI**: Haetae (MFR) |
+| 07:15 | **Laurabearsxo**: Flash Weasel | **m4rshalI**: Snowball Pet (MFR) |
+| 07:15 | **q_culvs**: Unicorn (MFR) ×3, Tiny Wings, Pain au Chat (M), Chocolate Dutch Guinea Pig (MFR), Black Springer Spaniel (MFR) | **monewoo99**: Goat (MFR) |
+| 07:15 | **AltAcount630Brook**: Zombie Wolf (R) | **herfaklo**: Ride-A-Pet Potion |
+| 07:15 | **Gwen0m8**: Cryptid | **Tal_Kazman**: Dalmatian (FR), Cow (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
