@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 15:16 UTC by the scrape workflow._
+_Updated 2026-11-12 15:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 15:16 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 25,293 | 2026-11-12T15:15 |
-| elve | 2 | 5,110 | 2026-11-12T15:16 |
+| amvgg | 2 | 25,534 | 2026-11-12T15:30 |
+| elve | 2 | 5,175 | 2026-11-12T15:31 |
 
-## AMVGG completed trades: 4,104 total
+## AMVGG completed trades: 4,169 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 2,013 |
+| 2026-11-12 | 2,078 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:15 | **xTrxstedCodee**: Arctic Reindeer (NFR), Fairy Bat Dragon (FR), Turtle (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **akoyhatdog2**: Owl (FR) |
-| 15:15 | **wxhappy**: Bubblegeist ×4 | **unke_ungrrrr**: Bauble Buddies |
-| 15:15 | **XiaoFaye1433**: Elephant (R) | **Zuminkikiki**: Haetyphoon |
-| 15:15 | **briannakitty55**: Jester Dragon (FR) ×2, Jester Dragon (R) ×2, Jester Dragon ×4 | **jijicraft_005**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:15 | **Maryha0243**: Scarebear (R), Drake | **cwursedletter**: Ride-A-Pet Potion ×2 |
-| 15:15 | **itmeaaa2321**: Brown Bear (MFR), Albino Monkey (FR), Blue Cat Ear Headphones | **Dancemom7228**: Kangaroo (NFR) ×2 |
-| 15:15 | **xXcraziXx2**: Arctic Fox (FR), Dragonfruit Fox (NFR) | **axiokowi**: Kangaroo (FR) |
-| 15:15 | **XiaoFaye1433**: Kangaroo (FR) | **Alina_02445**: Haetyphoon |
-| 15:15 | **Gamerqueen1255**: Gemstone Egg | **xAvosty**: Retired Egg ×18 |
-| 15:15 | **jArYnAa**: Owl (FR) | **dimsolstice**: Crow (FR), Turtle (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion, Spring Bunny Hood |
-| 15:15 | **Special_Foxi**: Ride-A-Pet Potion | **Thaly_vz**: Harp Seal |
-| 15:15 | **Lerochka_5457**: Sea Slug, Candicorn (FR) | **gag_gaag**: Sugar Glider (FR) |
-| 15:15 | **disapp6ar**: Jester Dragon (NFR) | **aitorguay_12**: Strawberry Tortle |
-| 15:15 | **Slim3_Inf3rno583**: Haetyphoon (NFR), Haetyphoon (N) ×2 | **aitorguay_12**:  |
-| 15:15 | **sleepy_s0ren**: Christmas Pudding Pup (MFR), Chocolate Chip Bat Dragon (F) | **marreeeere**: Giant Panda (FR) |
+| 15:30 | **ugishow195**: Cryptid, Rock (M) | **rachel1707vp**: Copycat, Husky (R), Evil Unicorn (FR), Kitsune (R), Snowman (R) |
+| 15:30 | **SandSavannah2003**: Elephant (FR), Ride-A-Pet Potion ×2 | **getsdar**: Kangaroo (FR) |
+| 15:30 | **ja8sjxjjs**: Sakura Spirit (FR), Cupid Dragon ×3, Goat (NFR), Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×4 | **odading12318**: Cabbit (NFR) |
+| 15:30 | **CookieBawn**: Elephant (NFR), Ride-A-Pet Potion | **Callebbuchila**: Jester Dragon (N), Polar Bear (NFR) |
+| 15:30 | **sleepy_s0ren**: Panda (MFR), Nessie (FR), Ride-A-Pet Potion | **Dinis30157**: Turtle (FR) |
+| 15:30 | **katerina_ishchak**: Blue Betta Fish (NR), Lunar Gold Tiger (N), Cerberus, Robo Dog (FR), Unicorn, Shih Tzu (M), Quetzalcoatl (N), Sea Turtle (N), Kraken, Villain Gibbon ×2, Dracula Parrot ×2, Bubblegeist | **Klaysi_flayra**: Pig (FR) |
+| 15:30 | **Evakoroleva1145**: Punk Pony (N), Dracula Fish (N), Orange Betta Fish (N), Crimson Cape (N), Little Lamb (N), Granny Wolf (N), Caramelgeist (N), Cherub Chipmunk (N), Angus Cow (N), Ride-A-Pet Potion | **Bumble_Lou**: Pet Handler Pro Certificate ×2 |
+| 15:30 | **cwursedletter**: Drake | **roblox_user_9682674184**: Cotton Candy Hat |
+| 15:30 | **faikubjotch**: Undead Jousting Horse (FR), Crocodile (NFR), Vampire Dragon (NFR), Jester Dragon (NFR), Giant Anteater (N) | **leruval**: Parrot (FR) |
+| 15:30 | **Hirohitoh3**: Golden Albatross (MFR), Hydra (MR), Merhorse (MF) | **Lerunhi**: Kangaroo (FR) |
+| 15:30 | **Realzholuiq13**: Strawberry Shortcake Bat Dragon, Dragonfly (N), Electric Hornet ×2, Thunderfisher, Purrowl ×2, Samoyed, Icy Porcupine, Pomeranian, Starfish ×2, Toucan ×2, Grinmoire | **JUBGEEEEEE**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:30 | **AuILiYo**: Pig (FR), Jester Dragon (FR), Seahorse (MR), Sloth (FR), Robo Dog (FR) | **Klaysi_flayra**: Turtle (FR) |
+| 15:30 | **TheGodx555**: Ride-A-Pet Potion ×2 | **Starfireesa**: Dragonfruit Fox |
+| 15:30 | **cowboylikesoff13**: Ride-A-Pet Potion ×17 | **TheGodx555**: Kangaroo (R) |
+| 15:30 | **qq0xxx6**: Crow (FR), Turtle (FR) ×2, Diamond Amazon (R), Fly-A-Pet Potion | **bruv_whoisyou**: Owl (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
