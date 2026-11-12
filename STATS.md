@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 19:25 UTC by the scrape workflow._
+_Updated 2026-11-12 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 29,237 | 2026-11-12T19:15 |
-| elve | 2 | 5,934 | 2026-11-12T19:16 |
+| amvgg | 2 | 29,476 | 2026-11-12T19:30 |
+| elve | 2 | 5,986 | 2026-11-12T19:31 |
 
-## AMVGG completed trades: 5,029 total
+## AMVGG completed trades: 5,088 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 2,938 |
+| 2026-11-12 | 2,997 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:20 | **cowlol898**: Stray Cat Dragon ×10, Retired Egg ×6 | **amogus_228q**: Ride-A-Pet Potion |
-| 19:20 | **ySolzitax**: Ladybug (N), Ginger Cat (N) | **skvirtik7tx**: Ride-A-Pet Potion |
-| 19:20 | **ySolzitax**: Stray Cat Dragon (N), Persian Cat (N), Pangolin (N) | **skvirtik7tx**: Ride-A-Pet Potion |
-| 19:20 | **KATISTRAWBZ**: Vanilla Penguin (N) | **MyStarPets1**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 19:20 | **MissxMoee**: Peppermint Penguin (MFR) | **orchidbutterfliess**: Giraffe (FR), Ice Cream Cone Hat |
-| 19:20 | **Alana2K201**: Crow, Giant Anteater (N), Unicorn Horn, Zombie Wolf (N), Harp Seal (N), Panda (FR) | **orchidbutterfliess**: Border Collie (MFR) |
-| 19:20 | **beatsvic**: Sakura Spirit (MFR) ×2, Shark Puppy (MFR), Cuddly Candle (MFR), Stray Cat Dragon (MFR) | **orchidbutterfliess**: Strawberry Shortcake Bat Dragon (MFR) |
-| 19:20 | **Itz_Yashka**: Mini Pig (MFR), Brown Springer Spaniel (MFR), Spring Bunny Feet, Pink Heart Glasses | **GrAnDpA_74**: Strawberry Shortcake Bat Dragon (MFR) |
-| 19:20 | **BaHuJIbKA2112**: Jester Dragon (NFR), Aestus | **Flaptzyy_16**: Cow (R) |
-| 19:20 | **k_sybom**: Royal Aztec Egg, Cattuccino (N), Metal Ox | **WeirdKage**: Fly-A-Pet Potion |
-| 19:20 | **NICKNAYF009**: Munchkin Cat (MFR), Happy Clam (NR) | **sweetang4ll**: Strawberry Shortcake Bat Dragon (FR), Cow (NFR) |
-| 19:20 | **kraket127**: Unicorn | **altaccount02037**: Ride-A-Pet Potion |
-| 19:20 | **Squid_GamerS11**: Aurora Fox (MFR), Naughty Mistletroll (MFR) | **ffrr11222**: Owl (FR) |
-| 19:20 | **Gummyy_3**: Ermine (MFR) | **kristina1234tina**: Kitty Bat (N) ×2 |
-| 19:20 | **Makkertjesfilmpies**: Arctic Reindeer (FR) ×2, Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Tortoiseshell Guinea Pig, Frost Unicorn (FR), Bunny Swirl (MFR), Sunrise Duckling (NR) | **ElFanan_Asser**: Frost Dragon (FR) |
+| 19:30 | **GioLin67**: Hedgehog (FR), Arctic Reindeer (FR), Shark Puppy, Strawberry Penguin, Cobra (FR) | **chrxmaxc**: Parrot (FR) |
+| 19:30 | **AnneGamingYT0**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **aydachan200311**: Unicorn (NFR) |
+| 19:30 | **soy_prohalc**: Arctic Dusk Dragon (NFR), Pupcake (N) | **12anastasiya2008**: Werewolf, Lion Cub (R) |
+| 19:30 | **tyti_fryti1888**: Strawberry Shortcake Bat Dragon (FR), Frostbite Bear (R), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 | **Kakashonec2**: Evil Unicorn (R) |
+| 19:30 | **cyberparasites**: Ride-A-Pet Potion | **adoptmehelp147**: Candyfloss Mega Neon Paint |
+| 19:30 | **UmmBakrAlCali**: Ride-A-Pet Potion | **AndresPatato**: Paint Sealer ×12 |
+| 19:30 | **Limaklimonchik**: Ride-A-Pet Potion | **yasmin_2012o**: Thinking Hat |
+| 19:30 | **JUST_TAMCA**: Peppermint Penguin (MFR), Albino Bat (MFR) | **CallMehMigz**: Strawberry Shortcake Bat Dragon (MFR) |
+| 19:30 | **Wildflower_461**: Sunflower Friend (MR) | **pinkytedslovie**: Ride-A-Pet Potion |
+| 19:30 | **kourabies31415**: Jekyll Hydra (FR), Hot Doggo (FR), Goose (FR), Ride-A-Pet Potion ×6, Kiwi Kiwi | **Klik_Kuromi**: Cryptid (FR) |
+| 19:30 | **bleedinglory**: Pink Cat Ear Headphones | **skywxIkerr**: Mighty Haetyphoon Animated Sticker |
+| 19:30 | **nqxcll**: Evil Unicorn (NFR) | **vwxsmv**: Siamese Cat (MFR), Unicorn Horn |
+| 19:30 | **luvyerh**: Arctic Fox, Fly-A-Pet Potion | **ytka68886**: Pig (R) |
+| 19:30 | **012e0122**: Frost Dragon (FR) | **TANSKlN**: Parrot (FR), Evil Unicorn (FR) |
+| 19:30 | **Ak246868**: Strawberry Shortcake Bat Dragon (FR), Sloth (N) | **Anastasiadenk**: Cow (FR), Sugar Glider (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
