@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 00:01 UTC by the scrape workflow._
+_Updated 2026-11-12 00:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 00:01 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 10,880 | 2026-11-12T00:00 |
-| elve | 2 | 2,268 | 2026-11-12T00:01 |
+| amvgg | 2 | 11,162 | 2026-11-12T00:15 |
+| elve | 2 | 2,299 | 2026-11-12T00:16 |
 
-## AMVGG completed trades: 2,136 total
+## AMVGG completed trades: 2,161 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 45 |
+| 2026-11-12 | 70 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:00 | **eri_chan6ck**: Mr. Whiskerpips | **goodvibez_forlife**: Therapy Dog |
-| 00:00 | **VICTOR_AV01**: Turtle (FR), Halloween White Ghost Dragon (FR), Lava Dragon (FR), Owlbear (R), Dragonfruit Fox | **ThatOneUnpaid_Intern**: Crocodile (NFR) |
-| 00:00 | **Isaic12335**: Retired Egg ×18 | **alllalalala03**: Amami Rabbit |
-| 00:00 | **ambervgils**: Ermine (MFR), Albino Bat (M), Praying Mantis (MR), Goldhorn (MFR), Dingo (MFR) | **MERCEDESE300COUPE**: Dragonfruit Fox (MFR) |
-| 00:00 | **Az_Kenzy**: Dragonfruit Fox (MFR), Great Pyrenees (MR) | **MERCEDESE300COUPE**: Strawberry Shortcake Bat Dragon (FR) |
-| 00:00 | **sprinkklesthecat**: Cabbit (FR) | **sweetn6thing**: Caelum Cervi (NFR) |
-| 00:00 | **YTstaro**: Giraffe (NR), Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×5 | **kozm_s**: Bat Dragon (FR) |
-| 00:00 | **Myobap**: Munchkin Cat (R), Ride-A-Pet Potion ×2, Black Springer Spaniel | **kalge925392**: Firefly (N), Copycat (R) |
-| 00:00 | **lauriqa13**: Hummingbird (N), Count Slothula | **KaRma78Gurl112**: Therapy Dog (NR) |
-| 00:00 | **NNuWiIxxX_14**: Arctic Dusk Dragon (R), Ride-A-Pet Potion | **w1shingw3llI**: Matcha Cat (R) |
-| 00:00 | **NIKA647374**: Albino Monkey (R), Ring-Tailed Lemur (NR), Kangaroo (FR), Pig | **princess_pizzanice**: Chocolate Chip Bat Dragon (FR) |
-| 00:00 | **0MGITSADD1E**: Gecko (MFR), Rain Cloud Hat | **Bikunom**: Sushi Penguin (MFR) |
-| 00:00 | **tacomischief**: Pain au Chat ×5, Thunderfisher | **tzuyuu214**: Pet Handler Pro Certificate |
-| 00:00 | **Eva_JenYAsha11**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR), Candicorn, Silverback Gorilla, Copycat ×4, Jester Dragon, Lion Cub (NR), Latte Kitsune (NFR), Alley Cat (NFR), Pretty Pony (MFR), Hummingbird (MFR), Robin (MFR), Border Collie, Munchkin Cat (R), Ballet Swan (R) | **xKashaf**: Giraffe (FR) |
-| 00:00 | **xXfayridreamXx**: 2022 Birthday Party Hat, Border Collie (N) | **athena_cheka**: Hedgehog (R) |
+| 00:15 | **mattblehh**: Haetae (R), Alpaca (NFR), Halo, Angel Wings, Unicorn Horn, 2022 Birthday Cake | **gogoyurio**: Alpaca (MFR) |
+| 00:15 | **kkaatEEe2**: Ride-A-Pet Potion | **meowchkai**: Abyssinian Cat (M), Peachick ×2, Puptune |
+| 00:15 | **wistfulheartsclub**: Ride-A-Pet Potion | **LULLABYSAM**: Spring Bunny Feet |
+| 00:15 | **Matblox56**: Ride-A-Pet Potion ×4 | **Terranese**: Kiwi (N) |
+| 00:15 | **J4YASPL4NET**: Candicorn (NFR) ×2, Giant Anteater (N), Jellyfish (R) | **lxcidvst**: Shark Puppy (MFR) |
+| 00:15 | **pxrczl**: Fly-A-Pet Potion ×3 | **Lxdyxx**: Snowball Pug (MR) |
+| 00:15 | **Vansderrl**: Mini Pig (NFR), Munchkin Cat, Werewolf | **6arixia**: Strawberry Shortcake Bat Dragon (FR), Dango Penguins (NFR), Rainbow Maker |
+| 00:15 | **hayopanima**: Copycat | **ydenarohka10**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 00:15 | **hayopanima**: Cow | **Goodnews2013**: Fly-A-Pet Potion ×15 |
+| 00:15 | **y0ur_fellowplayer**: Love Bird (MR) | **quxzqrio**: Love Bird (NFR), Evil Chickatrice (N), Unicorn Ducky (N), King Bee (FR), Peacock (R) |
+| 00:15 | **SkaterPlayzQueen2016**: Winged Tiger (MFR), Winged Tiger (FR), Cow (NFR), Caterpillar | **joeyharri12**: Crow (NFR) |
+| 00:15 | **q0whil**: Wren, Arctic Hare, Kirin (N), Galapagos Sea Lion (M), Golden Egg, Admin Abuse Egg, Tan Chow-Chow, Orca (N), Banded Palm Civet | **sursyrzytxurzutzutz**: Ride-A-Pet Potion |
+| 00:15 | **Machaddkkj**: Highland Cow, Retired Egg | **Mimie_Cool**: Elf Shoes |
+| 00:15 | **6smng**: Silverback Gorilla (MFR) ×2, Hedgehog (FR) | **mariawoiksi**: Giraffe (FR) |
+| 00:15 | **Minnieql**: Copycat, Ride-A-Pet Potion, Stitches (N) | **hayopanima**: Copycat (FR) |
 
 ## Elvebredd value changes: 61,403 since 2023-09-16
 
