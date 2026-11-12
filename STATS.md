@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 08:45 UTC by the scrape workflow._
+_Updated 2026-11-12 09:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 08:45 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 19,328 | 2026-11-12T08:45 |
-| elve | 2 | 3,850 | 2026-11-12T08:45 |
+| amvgg | 2 | 19,560 | 2026-11-12T09:00 |
+| elve | 2 | 3,883 | 2026-11-12T09:01 |
 
-## AMVGG completed trades: 3,144 total
+## AMVGG completed trades: 3,170 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,053 |
+| 2026-11-12 | 1,079 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:45 | **clalouetciedh**: Chocolate Dutch Guinea Pig (MFR), Ride-A-Pet Potion | **OmegaRider_D4**: Cow (FR) |
-| 08:45 | **DontBEEtheONEE**: Count Slothula (R) | **Beluga_cat184**: Cake Friend (R), Bubblegeist |
-| 08:45 | **pinkycherry37**: Matcha Cat, Fly-A-Pet Potion | **Reyeyerafifp**: Jester Dragon (FR) |
-| 08:45 | **myxxmi**: Ring-Tailed Lemur | **it_isMushu**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 |
-| 08:45 | **Boypizza132**: Copycat, Alley Cat | **kittykyo77**: Majestic Pony (NR) |
-| 08:45 | **moonlightnovax**: Sushi Penguin (M) | **alexgameminecraft**: Flash Weasel |
-| 08:45 | **a0inxx**: Unicorn, Cat (MFR) | **XzMonolds**: Pet Handler Pro Certificate |
-| 08:45 | **Svdanurrr**: Haetyphoon, Peachick (M), Diamond Ladybug (R) | **dimon221221332**: Turtle (FR) |
-| 08:45 | **lalagirlhehe8**: Skelicorn ×16 | **carlodeuse**: Ride-A-Pet Potion ×2 |
-| 08:45 | **mycatnamesia**: Jousting Horse (NR), Copycat, Spring Bunny Hood | **mybestisunicorn**: Ballet Swan (N) |
-| 08:45 | **elywellyyy_724**: Polar Bear (R), Ride-A-Pet Potion | **spyxfamilyrawr**: Unicorn (NFR) |
-| 08:45 | **zeejnaa**: Cow (MFR), Shark Puppy (MFR), Candicorn (NFR), Tiny Wings | **stolencanessauces**: Mini Pig (MFR) |
-| 08:45 | **thescriptofficials**: Jester Dragon (NFR) | **ProPro2021**: Strawberry Tortle (FR) |
-| 08:45 | **ItsSunMan**: Turtle (MFR), Kangaroo (FR), Kitty Bat (MR), Sunglider (MFR), Peacock (MFR), Deinonychus (MR), Fire Foal (M), Kitty Bat (NR), Sunrise Duckling (NR), Three Blind Mice (M) | **Tal_Kazman**: Parrot (FR) |
-| 08:45 | **1xii1z**: Parrot (FR), Ride-A-Pet Potion ×5 | **catalin72299**: Giant Panda (R) |
+| 09:00 | **Killua_kun02**: Crystal Egg ×14 | **Adore_IvaXx**: Ride-A-Pet Potion |
+| 09:00 | **UniversePaladin**: Count Slothula, Chihuahua | **themudwizard**: Ride-A-Pet Potion |
+| 09:00 | **24kPrincessLeonor**: Evil Unicorn (FR) | **realmp10007**: Turtle (NFR), Kangaroo (NFR), Candicorn (FR) |
+| 09:00 | **Borysek123374**: Bloodhound | **koroleBa223**: Christmas Pudding House |
+| 09:00 | **JulianKHV**: Rose Quartz Glow Mega Neon Paint | **lpsaie**: Ride-A-Pet Potion |
+| 09:00 | **lemon_pizza1**: Banana Hat | **JulianKHV**: Pudding Cat (N) |
+| 09:00 | **Sofi02575**: Cupid Dragon (MFR), Jellyfish (MFR), Strawberry Penguin (MFR), Goat (MFR), Sheeeeep (MFR), Ice Cream Hermit Crab (MFR), Majestic Pony (MFR), Harp Seal (MFR) | **scenemodel**: Dalmatian (MFR) |
+| 09:00 | **sofiadindang**: Munchkin Cat (R) | **sakotfzg**: Sheeeeep (R), Brown Bear (R), Momma Moose (N) |
+| 09:00 | **RoxieFoxie123r**: Lamb (R), Ride-A-Pet Potion ×2 | **sofiadindang**: Polar Bear, Momma Moose (N) |
+| 09:00 | **Snip3rjkPrismAkZ3ro1**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×2 | **jakii_030**: Snowman (MFR) |
+| 09:00 | **XiaoFaye1433**: Fly-A-Pet Potion ×9 | **Triviatta9**: Haetyphoon |
+| 09:00 | **Neoglimmer**: Nessie (MFR), Golden Penguin (MFR), Werewolf (R) | **orchidbutterfliess**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 09:00 | **Quantum30Cooki3Q0Ic3**: Propeller Hat, Respectful Mustache, Back Taco | **Alisjdfhh**: Unicorn Backpack |
+| 09:00 | **BlexxyBackup**: Moose Calf (FR), Ride-A-Pet Potion, Moose Calf | **sassukkii**: Groundhog (R), Pet Handler Pro Certificate |
+| 09:00 | **Nola1234512345**: Copycat (N), Strawberry Tortle, Ride-A-Pet Potion ×3 | **princesz_sof1e**: Unicorn Horn ×2, Chipmunk (N) ×2, Butter Knife, Malaysian Tapir (N), Leopard Cat (N) ×3, Canadian Goose (N) ×2, Great Pyrenees (N), Tarsier (N), Toy Poodle (N), Koi Carp (N), Toasty Red Panda (N), St Bernard (N), Nutcracker Squirrel (N) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
