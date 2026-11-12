@@ -58,10 +58,18 @@ Adopt Me (Roblox) pet-value tracking and prediction.
 - **A failed scrape run usually means `health` found a stale collector** (GitHub emails the owner). Open the run's last step: it lists each collector with the age of its newest data. Data is committed before that step, so nothing is lost by the failure itself.
 - **Reading the results tables:** the headline "top-20 mean" counts overlapping daily picks. Trust the *new picks every H days* column and the month-resampled range more; *value >= 0.25* shows whether penny pets carry the result. Results made before 2026-11-12's scoring change (`elve_model.md`, `events_model*.md`, `ads_model.md`) don't have these columns, and they used the old uncapped `age_days`, so new runs won't match them exactly.
 - **scikit-learn quirk:** histogram boosting crashes on columns that are constant in training. `varying()` drops them per fold.
-- **Kaggle:** notebook `minii23/notebook6bbaa04ff7` (GPU T4). It clones the repo, so **push before running**. Use *Save Version → Save & Run All* for long runs (drafts die when the tab sleeps). The output includes the whole clone; the useful bits are in the **Logs** tab (the result tables are printed there) and `results/`. On a GPU the boosting model is XGBoost, locally it's scikit-learn, so numbers differ slightly. The Kaggle API from this PC times out often; the browser is more reliable.
+- **Kaggle:** notebook `minii23/notebook6bbaa04ff7` (GPU T4). It clones the repo (`--depth 1`), so **push before running**. Easiest from this PC with the Kaggle CLI: `kaggle kernels pull minii23/notebook6bbaa04ff7 -p <dir> -m`, edit the cells in the `.ipynb`, `kaggle kernels push -p <dir>` (starts a full background run, like *Save & Run All*), `kaggle kernels status ...`, then `kaggle kernels output minii23/notebook6bbaa04ff7 -p <dir>`. The notebook copies `results/` to its output and deletes the clone, so the download is small. The CLI sometimes times out; the browser works too (drafts die when the tab sleeps, so use *Save Version*). On a GPU the boosting model is XGBoost, locally it's scikit-learn, so numbers differ slightly. The last full run (4 jobs: 30-day both / size / news, 7-day size) took ~1.5 h.
 - A full local model run takes ~1 h+ and ~4 GB RAM. Use `python elve_model.py <mode> 1` (last month only) for smoke tests, and don't commit the results files those produce.
 
 ## Model results so far (gradient boosting, Kaggle, full history)
+
+**Current numbers, stricter scoring (2026-11-12, 30 days):** gradient boosting's top-20, new picks every 30 days, gains
+**+13.9% a month** (90% range over months +11.2 to +17.0%), against +0.5% for all pets and +5.5% for repeat-last-change;
+it beats the average pet in 31 of 33 months, and the gain holds without penny pets and for each kind (default / neon /
+mega +13.9 / +11.1 / +10.1%). News adds nothing to the picks at 30 days (it helps down calls only). On the offer months
+(2025-06 on) offers lift the overlapping picks from +11.0% to +13.2%, but non-overlapping both are ~+14%: a small gain.
+Details in `log.md` and `results/events_model_30d.md`, `both_model_30d.md`, `size_model_30d.md`. The older table below
+used the looser scoring:
 
 | Horizon | Up precision | Down precision | Top-20 picks' mean change | All pets | Notes |
 |---|---|---|---|---|---|
@@ -79,16 +87,13 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 - **Site (2026-11-12):** item pages show trading activity for the last 7 days (completed AMVGG trades in total and for the chosen variant, wanted vs offered on each site, the 5 latest trades as item chips, no trader names) from `site/activity.json`, which `build_site.py` writes. Every value also shows "≈ X Frost Dragons (FR)": Frost Dragon fly ride is the yardstick that makes the two lists' scales comparable, also used for the Compare totals. AMVGG values it only calculates from fly ride (773 pets, the `Ad` list in `data.json`) are dotted with a tooltip. Blank 30-day changes show "–" with the reason, offer cards say why they can't be valued, and the Stats tab shows offers collected in the last 24 h. History charts have a soft gradient fill under the step line.
 - **Scoring was tightened (2026-11-12, see log.md):** per-kind and no-penny-pet picks, non-overlapping picks, a month-resampled range, average precision and precision at 30% recall; `age_days` is capped. All earlier Kaggle numbers in the table above predate this.
 - **AMVGG test (local, `results/amvgg_model*.md`):** the plain rule "AMVGG moved, so Elve will follow" is worse than repeat-last-change. As model features AMVGG's moves helped a lot at 7 days, but on 3 test months only, and gave no clear answer at 30 days (1 test month). Promising, not proven.
-- **New, not yet run on Kaggle (full history):**
-  - `both` mode: base vs + offers vs + news vs + both, on the offer months (2025-02 on).
-  - `size` mode: predicts **how much**, not just which way. A two-part model: classifier P(up / down / flat) × regressors for the typical size of a rise and of a drop → expected % change; plus quantile regressors for a 10–90% range. Scored against "no change" and "repeat last change" on MAE, rank IC (daily Spearman), top-20, and range coverage (should be ~80%). It also writes `results/forecast_<H>d.csv`: today's prediction per pet variant (value, P(up/down), expected %, range, predicted value).
-  - Only 1-month local smoke tests of these exist (`results/both_model_30d*`, `size_model_30d*`, `forecast_30d.csv`: untracked, don't commit).
+- **Full-history Kaggle results with the stricter scoring are in (2026-11-12, see the summary above and log.md).** The 30-day classifier's gain survives every check. The **size model does not** clear the bar for showing amounts: its rank IC (0.35 for the median, 0.33 for the two-part) is barely above repeat-last-change (0.33), and its 10–90% range covers 82% of all outcomes but only 29% of real moves (it is a narrow band around "no change"). At 7 days half its ranges have zero width. Today's forecast is in `results/forecast_30d.csv`.
 
 ## Next steps
 
-1. Kaggle: `H=30 python elve_model.py both`, then `H=30 python elve_model.py size` (and `H=7 ... size`), and `H=30 python elve_model.py events` again so the 30-day headline has the new columns. Clone with `git clone --depth 1` in the notebook (the history is already ~45 MB). Copy the tables into `results/` and `log.md`.
-2. Judge the 30-day model on the stricter columns: is the gain still there with new picks every 30 days, and does the month-resampled range stay above the all-pets average?
-3. If size predictions hold up (rank IC clearly above repeat-last-change, range coverage near 80%), show the forecast on the site's item pages as "likely up / down" with the range and the backtest beside it, not as an exact predicted value.
+1. **Decide what the site shows.** The direction probabilities are what holds up: an item page could show "likely up / likely down over 30 days" from P(up) / P(down) of `forecast_30d.csv`, with the backtest (hit rate, +13.9% / month for the top 20) beside it. Don't show an expected % or a value range yet (see Current state). The bot doesn't run the model, so a forecast would need its own schedule (e.g. a weekly Kaggle run that commits `forecast_30d.csv`).
+2. Size model, if it's worth another try: train the range on movers separately (the range is now dominated by the ~85% flat rows), or show only P(up/down) and the typical size of a past rise / drop per pet.
+3. Use the 30-day offers + news model (`both`) as the forecast model: same picks as base, better down calls (down average precision 0.35 → 0.39).
 4. Rerun `python elve_model.py amvgg` (7 and 30 days) every month or so; it runs locally in ~10 minutes. Add AMVGG features to the main model once they have helped over 6+ test months.
 5. Later: trade-volume features once trades have a few months of history (started 2026-11-11; complete only since the 5-minute polling of 2026-11-12).
 6. After a week, check the trades for full-page runs again (a poll that finds 90+ new trades): if any are left, poll more often.

@@ -1,20 +1,105 @@
 # Elve model with game-update (news) features: 30-day up/flat/down
 
-_Kaggle (GPU, XGBoost), 2026-11-12, commit c27b66e. Pasted from the notebook log. This run also tested 2024-01, which
-had only one month of training data; the fixed split (from commit after c27b66e) starts 30-day tests at 2024-02._
-
 _Window 2023-10-01 to 2026-11-11, 4,812 pet variants, 2,657,808 rows. Flat = move under 5%. Class shares down/flat/up: 7.8%, 84.9%, 7.4%._
 
-Walk-forward by month (34 test months, 2024-01 → 2026-10), averages:
+Walk-forward by month (33 test months), averages:
 
-| model                        | accuracy | macro F1 | up precision | up recall | down precision | down recall | log loss | top-20 mean 30d change | universe mean change |
-|:-----------------------------|---------:|---------:|-------------:|----------:|---------------:|------------:|---------:|-----------------------:|---------------------:|
-| always flat                  |    0.843 |    0.303 |        0.000 |     0.000 |          0.000 |       0.000 |    1.088 |                  0.004 |                0.005 |
-| repeat last change (30d)     |    0.777 |    0.499 |        0.309 |     0.420 |          0.273 |       0.361 |    1.546 |                  0.078 |                0.005 |
-| logistic regression          |    0.810 |    0.433 |        0.403 |     0.232 |          0.433 |       0.138 |    0.590 |                  0.074 |                0.005 |
-| gradient boosting            |    0.827 |    0.447 |        0.398 |     0.199 |          0.490 |       0.181 |    0.483 |                  0.114 |                0.005 |
-| logistic regression + events |    0.806 |    0.442 |        0.406 |     0.239 |          0.440 |       0.168 |    0.619 |                  0.078 |                0.005 |
-| gradient boosting + events   |    0.829 |    0.458 |        0.403 |     0.197 |          0.519 |       0.208 |    0.478 |                  0.129 |                0.005 |
+| model                        |   accuracy |   macro F1 |   up precision |   up recall |   down precision |   down recall |   log loss |   up avg precision |   up precision @30% recall |   down avg precision |   down precision @30% recall |   top-20 mean 30d change |
+|:-----------------------------|-----------:|-----------:|---------------:|------------:|-----------------:|--------------:|-----------:|-------------------:|---------------------------:|---------------------:|-----------------------------:|-------------------------:|
+| always flat                  |      0.839 |      0.302 |          0.000 |       0.000 |            0.000 |         0.000 |      1.112 |              0.078 |                      0.078 |                0.083 |                        0.083 |                  nan     |
+| repeat last change (30d)     |      0.773 |      0.502 |          0.316 |       0.427 |            0.278 |         0.366 |      1.569 |              0.184 |                      0.291 |                0.158 |                        0.247 |                    0.080 |
+| logistic regression          |      0.832 |      0.431 |          0.413 |       0.183 |            0.451 |         0.119 |      0.524 |              0.264 |                      0.354 |                0.249 |                        0.308 |                    0.077 |
+| gradient boosting            |      0.841 |      0.445 |          0.476 |       0.180 |            0.503 |         0.130 |      0.479 |              0.314 |                      0.401 |                0.299 |                        0.364 |                    0.131 |
+| logistic regression + events |      0.831 |      0.441 |          0.417 |       0.188 |            0.442 |         0.139 |      0.517 |              0.269 |                      0.360 |                0.269 |                        0.345 |                    0.080 |
+| gradient boosting + events   |      0.841 |      0.453 |          0.454 |       0.171 |            0.534 |         0.158 |      0.477 |              0.305 |                      0.388 |                0.332 |                        0.416 |                    0.127 |
 
-Gradient boosting + events beats gradient boosting on macro F1 in 25 of 34 months (1 tie). In the last fold's logistic model,
-`ev_mention_30` pushes toward down (pets in recent update posts are new and settle lower).
+
+## Top-20 picks: how solid is the gain
+
+Mean 30-day change of the picks. *new picks every 30d* counts each bet once (daily picks are held 30 days and overlap); *value >= 0.25* leaves out penny pets, where one step of the list is a huge % move.
+
+| model                        |   top-20 mean 30d change |   top-20 median |   top-20, new picks every 30d |   top-20, value >= 0.25 |   top-20, default only |   top-20, neon only |   top-20, mega only |   universe mean change |
+|:-----------------------------|-------------------------:|----------------:|------------------------------:|------------------------:|-----------------------:|--------------------:|--------------------:|-----------------------:|
+| always flat                  |                  nan     |         nan     |                       nan     |                 nan     |                nan     |             nan     |             nan     |                  0.005 |
+| repeat last change (30d)     |                    0.080 |           0.015 |                         0.055 |                   0.078 |                  0.114 |               0.074 |               0.062 |                  0.005 |
+| logistic regression          |                    0.077 |           0.049 |                         0.077 |                   0.076 |                  0.101 |               0.091 |               0.078 |                  0.005 |
+| gradient boosting            |                    0.131 |           0.069 |                         0.139 |                   0.131 |                  0.139 |               0.111 |               0.101 |                  0.005 |
+| logistic regression + events |                    0.080 |           0.053 |                         0.085 |                   0.080 |                  0.103 |               0.095 |               0.083 |                  0.005 |
+| gradient boosting + events   |                    0.127 |           0.067 |                         0.128 |                   0.129 |                  0.131 |               0.106 |               0.100 |                  0.005 |
+
+
+### Range over months (90%, months resampled 2,000 times)
+
+| model                        | picks                       |   months |   mean |    5% |   95% |   months beating all pets |
+|:-----------------------------|:----------------------------|---------:|-------:|------:|------:|--------------------------:|
+| repeat last change (30d)     | top-20 mean 30d change      |       33 |  0.080 | 0.065 | 0.096 |                     1.000 |
+| repeat last change (30d)     | top-20, new picks every 30d |       33 |  0.055 | 0.042 | 0.068 |                     0.939 |
+| logistic regression          | top-20 mean 30d change      |       33 |  0.077 | 0.056 | 0.098 |                     0.818 |
+| logistic regression          | top-20, new picks every 30d |       33 |  0.077 | 0.054 | 0.103 |                     0.848 |
+| gradient boosting            | top-20 mean 30d change      |       33 |  0.131 | 0.107 | 0.157 |                     1.000 |
+| gradient boosting            | top-20, new picks every 30d |       33 |  0.139 | 0.112 | 0.170 |                     0.939 |
+| logistic regression + events | top-20 mean 30d change      |       33 |  0.080 | 0.059 | 0.103 |                     0.818 |
+| logistic regression + events | top-20, new picks every 30d |       33 |  0.085 | 0.062 | 0.111 |                     0.879 |
+| gradient boosting + events   | top-20 mean 30d change      |       33 |  0.127 | 0.103 | 0.151 |                     1.000 |
+| gradient boosting + events   | top-20, new picks every 30d |       33 |  0.128 | 0.102 | 0.154 |                     0.939 |
+
+
+## Per month: macro F1
+
+| month   |   always flat |   gradient boosting |   gradient boosting + events |   logistic regression |   logistic regression + events |   repeat last change (30d) |
+|:--------|--------------:|--------------------:|-----------------------------:|----------------------:|-------------------------------:|---------------------------:|
+| 2024-02 |         0.325 |               0.452 |                        0.445 |                 0.365 |                          0.378 |                      0.442 |
+| 2024-03 |         0.327 |               0.378 |                        0.408 |                 0.380 |                          0.400 |                      0.429 |
+| 2024-04 |         0.323 |               0.396 |                        0.400 |                 0.354 |                          0.386 |                      0.483 |
+| 2024-05 |         0.323 |               0.370 |                        0.390 |                 0.358 |                          0.357 |                      0.488 |
+| 2024-06 |         0.313 |               0.444 |                        0.426 |                 0.414 |                          0.433 |                      0.516 |
+| 2024-07 |         0.319 |               0.468 |                        0.470 |                 0.458 |                          0.463 |                      0.519 |
+| 2024-08 |         0.318 |               0.468 |                        0.451 |                 0.412 |                          0.409 |                      0.496 |
+| 2024-09 |         0.322 |               0.393 |                        0.391 |                 0.356 |                          0.366 |                      0.412 |
+| 2024-10 |         0.315 |               0.401 |                        0.420 |                 0.406 |                          0.422 |                      0.482 |
+| 2024-11 |         0.316 |               0.413 |                        0.413 |                 0.440 |                          0.467 |                      0.567 |
+| 2024-12 |         0.318 |               0.487 |                        0.507 |                 0.443 |                          0.481 |                      0.564 |
+| 2025-01 |         0.315 |               0.517 |                        0.527 |                 0.479 |                          0.499 |                      0.542 |
+| 2025-02 |         0.315 |               0.539 |                        0.570 |                 0.500 |                          0.514 |                      0.583 |
+| 2025-03 |         0.314 |               0.562 |                        0.586 |                 0.481 |                          0.492 |                      0.590 |
+| 2025-04 |         0.310 |               0.469 |                        0.483 |                 0.411 |                          0.422 |                      0.561 |
+| 2025-05 |         0.304 |               0.418 |                        0.437 |                 0.353 |                          0.387 |                      0.525 |
+| 2025-06 |         0.303 |               0.413 |                        0.427 |                 0.353 |                          0.373 |                      0.494 |
+| 2025-07 |         0.298 |               0.450 |                        0.457 |                 0.370 |                          0.389 |                      0.514 |
+| 2025-08 |         0.310 |               0.461 |                        0.473 |                 0.436 |                          0.440 |                      0.498 |
+| 2025-09 |         0.312 |               0.456 |                        0.436 |                 0.475 |                          0.472 |                      0.538 |
+| 2025-10 |         0.298 |               0.413 |                        0.413 |                 0.437 |                          0.445 |                      0.521 |
+| 2025-11 |         0.300 |               0.439 |                        0.432 |                 0.449 |                          0.449 |                      0.498 |
+| 2025-12 |         0.285 |               0.379 |                        0.387 |                 0.435 |                          0.436 |                      0.513 |
+| 2026-01 |         0.305 |               0.457 |                        0.469 |                 0.512 |                          0.508 |                      0.492 |
+| 2026-02 |         0.295 |               0.434 |                        0.440 |                 0.450 |                          0.442 |                      0.499 |
+| 2026-03 |         0.264 |               0.365 |                        0.375 |                 0.415 |                          0.420 |                      0.505 |
+| 2026-04 |         0.159 |               0.228 |                        0.227 |                 0.268 |                          0.260 |                      0.411 |
+| 2026-05 |         0.276 |               0.481 |                        0.464 |                 0.446 |                          0.446 |                      0.339 |
+| 2026-06 |         0.289 |               0.508 |                        0.499 |                 0.551 |                          0.545 |                      0.521 |
+| 2026-07 |         0.296 |               0.496 |                        0.526 |                 0.527 |                          0.535 |                      0.537 |
+| 2026-08 |         0.297 |               0.517 |                        0.542 |                 0.500 |                          0.511 |                      0.494 |
+| 2026-09 |         0.307 |               0.499 |                        0.522 |                 0.488 |                          0.504 |                      0.486 |
+| 2026-10 |         0.308 |               0.528 |                        0.526 |                 0.491 |                          0.504 |                      0.495 |
+
+
+## Logistic regression: features pushing toward up (+) or down (-), last fold
+
+|                   |   up minus down coef |
+|:------------------|---------------------:|
+| rarity_legendary  |               -0.283 |
+| pet_dn_14         |               -0.220 |
+| n_dn_30           |               -0.187 |
+| kind_mega         |               -0.174 |
+| ev_mention_30     |               -0.147 |
+| rarity_up_share_7 |               -0.110 |
+| mkt_moves_7       |               -0.083 |
+| pet_dn_3          |               -0.068 |
+| ret_90            |                0.152 |
+| rarity_rare       |                0.153 |
+| ev_age            |                0.155 |
+| rarity_uncommon   |                0.210 |
+| days_since_change |                0.248 |
+| age_days          |                0.338 |
+| last_change       |                0.377 |
+| log_value         |                0.490 |
