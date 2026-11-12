@@ -7,6 +7,7 @@
     python scraper.py auto     # trades + both ad feeds, plus values + new Elve value updates if the last snapshot is older than VALUES_EVERY
     python scraper.py amvgg-updates # AMVGG's change log (since 2026-06-02) -> data/amvgg_updates/<month>.jsonl
     python scraper.py stats         # rewrite STATS.md
+    python scraper.py health        # exit 1 if a collector has gone quiet (the bot's last step: a failed run = an email)
     python scraper.py news          # new playadopt.me/news posts (update notes since 2020) -> data/news.jsonl
     python scraper.py elve-updates  # Elvebredd's change log (old -> new value per variant, since 2023-09) -> data/elve_updates/<month>.jsonl
 """
@@ -215,11 +216,16 @@ def last_values_time():
 
 def elve_update_batch(n):
     """Changes in Elvebredd value update #n: dicts with name, label (variant), previousValue, newValue, effectiveAt."""
-    trees, seen, best = rsc_trees(fetch(f"https://elvebredd.com/value-updates/{n}")), set(), []
+    html = fetch(f"https://elvebredd.com/value-updates/{n}")
+    trees, seen, best = rsc_trees(html), set(), []
     for t in trees.values():
         for x in walk(t, trees, seen):
             if isinstance(x, list) and x and isinstance(x[0], dict) and "previousValue" in x[0] and len(x) > len(best):
                 best = x
+    # A batch with no changes is a small page (~120 KB) that never mentions previousValue; a real one is ~2 MB.
+    # Finding nothing on a big page means the parser is out of date, not that the batch is empty.
+    if not best and ("previousValue" in html or len(html) > 500_000):
+        raise RuntimeError(f"value update #{n}: the page has changes but none were parsed; page layout changed?")
     return best
 
 
@@ -232,7 +238,11 @@ def sync_elve_updates(limit=None):
     latest = max(int(x) for x in re.findall(r"/value-updates/(\d+)", fetch("https://elvebredd.com/")))
     todo = [n for n in range(latest, 0, -1) if n not in done][:limit]  # newest first: recent history matters most
     for i, n in enumerate(todo):
-        rows = elve_update_batch(n)
+        try:
+            rows = elve_update_batch(n)
+        except RuntimeError as e:  # not stored, so it is fetched again next run instead of being filed as empty for good
+            print(e)
+            continue
         out = folder / (rows[0]["effectiveAt"][:7] + ".jsonl" if rows else "empty.jsonl")
         with out.open("a", encoding="utf-8") as f:
             for r in rows or [{}]:
@@ -262,6 +272,36 @@ def sync_amvgg_updates():
         with (folder / f"{c['updatedAt'][:7]}.jsonl").open("a", encoding="utf-8") as f:
             f.write(json.dumps(c) + "\n")
     print(f"amvgg updates: {len(new)} new")
+
+
+def health():
+    """Exit 1 if a collector has gone quiet. Offer and news failures are only printed (they must not block trades and
+    values), and a page-layout change can leave a collector running but finding nothing; this is what notices."""
+    def hours(stamp):  # hours since an ISO time, None if there is none
+        return None if not stamp else (now() - datetime.fromisoformat(str(stamp).replace("Z", "+00:00"))).total_seconds() / 3600
+
+    def newest(folder, field):  # newest value of a field in a folder's two latest monthly files
+        files = sorted(f for f in (DATA / folder).glob("20*.jsonl"))[-2:]
+        return max((json.loads(l)[field] for f in files for l in f.read_text(encoding="utf-8").splitlines()), default=None)
+
+    t = now()
+    trades = [json.loads(l)["first_seen"] for f in (trade_file(t), trade_file(t - timedelta(days=1))) if f.exists()
+              for l in f.read_text(encoding="utf-8").splitlines()]
+    last_values = last_values_time()
+    news = [json.loads(l).get("published") for l in NEWS.read_text(encoding="utf-8").splitlines()] if NEWS.exists() else []
+    checks = [("completed trades", hours(max(trades, default=None)), 3),
+              ("AMVGG offers", hours(max((a["t"] for a in recent_ads("amvgg")), default=None)), 6),
+              ("Elvebredd offers", hours(max((a["t"] for a in recent_ads("elve")), default=None)), 6),
+              ("value lists check", hours(last_values and last_values.isoformat()), 3),
+              ("Elvebredd value changes", hours(newest("elve_updates", "effectiveAt")), 5 * 24),
+              ("AMVGG value changes", hours(newest("amvgg_updates", "updatedAt")), 7 * 24),
+              ("news posts", hours(max((n for n in news if n), default=None)), 21 * 24)]
+    late = [(name, age, limit) for name, age, limit in checks if age is None or age > limit]
+    for name, age, limit in checks:
+        print(f"{'LATE' if (name, age, limit) in late else 'ok  '} {name}: newest is "
+              f"{'missing' if age is None else f'{age:.1f} h old'} (limit {limit} h)")
+    if late:
+        sys.exit(1)
 
 
 def lines(folder, pattern="*.jsonl"):
@@ -546,8 +586,8 @@ def load_amvgg_updates():
 
 
 def load_ads(source):
-    """Trade ads from the bot (data/ads/<source>/*.jsonl) and the sampled backfill (backfill/*.jsonl.gz), one row per ad
-    sighting. Elve listings repeat when renewed: dedupe on (id, t) here, or on id for unique listings."""
+    """Trade ads from the bot (data/ads/<source>/<day>/*.jsonl.gz) and the sampled backfill (backfill/*.jsonl.gz), one row
+    per ad sighting. Elve listings repeat when renewed: dedupe on (id, t) here, or on id for unique listings."""
     import pandas as pd
     folder = DATA / "ads" / source
     rows = [json.loads(l) for f in sorted(folder.glob("*/*.jsonl.gz")) for l in gzip.open(f, "rt", encoding="utf-8")]
@@ -564,4 +604,4 @@ def load_trades():
 
 if __name__ == "__main__":
     {"values": snapshot_values, "trades": snapshot_trades, "auto": auto,
-     "amvgg-ads": sync_amvgg_ads, "elve-ads": sync_elve_ads, "elve-updates": sync_elve_updates, "amvgg-updates": sync_amvgg_updates, "news": sync_news, "stats": write_stats}[sys.argv[1]]()
+     "amvgg-ads": sync_amvgg_ads, "elve-ads": sync_elve_ads, "elve-updates": sync_elve_updates, "amvgg-updates": sync_amvgg_updates, "news": sync_news, "stats": write_stats, "health": health}[sys.argv[1]]()

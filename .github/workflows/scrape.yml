@@ -11,36 +11,25 @@ on:
 
 permissions:
   contents: write
-  actions: write  # to start the pages workflow (see last step)
+  actions: write  # to start the pages workflow (see below)
 
 concurrency:
   group: scrape
   cancel-in-progress: false
 
+env:
+  JOB: ${{ inputs.job || 'auto' }}
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 8  # trades + ads (~1 min); values/updates runs take longer
+    timeout-minutes: 14  # ~1-2 min of collecting, then two more trade polls 5 min apart; the next run starts at +15
     steps:
       - uses: actions/checkout@v4
       # stdlib only, so the runner's own python3 does (no setup-python needed)
-      - run: python3 scraper.py ${{ inputs.job || 'auto' }}
+      - run: python3 scraper.py "$JOB"
       - name: Commit data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Two overlapping runs both append to the same day's trades file, so a plain rebase can conflict.
-          # On conflict: drop our commit, take the newest data, scrape again on top of it (dedupes), retry.
-          for attempt in 1 2 3; do
-            git add data STATS.md
-            git diff --cached --quiet && exit 0
-            git commit -q -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull -q --rebase && git push -q && exit 0
-            git rebase --abort 2>/dev/null || true
-            git fetch -q && git reset -q --hard origin/main
-            python3 scraper.py ${{ inputs.job || 'auto' }}
-          done
-          exit 1
+        run: bash .github/commit_data.sh "$JOB"
       # The live site (pages.yml) rebuilds from the committed data. Pushes made with the workflow token don't start
       # other workflows, but a dispatch does. Hourly, on the :00 run, right after the hourly values check.
       - name: Rebuild the live site every hour
@@ -50,3 +39,17 @@ jobs:
           if [ $(( 10#$(date -u +%M) )) -lt 15 ]; then
             gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
           fi
+      # AMVGG's completed-trades page holds ~100 trades: about 17 minutes at peak, so one poll per 15-minute run lost
+      # trades (7 of the first 90 runs found the whole page new). Two more polls make it one every 5 minutes.
+      - name: Two more trade polls, 5 minutes apart
+        if: env.JOB == 'auto'
+        run: |
+          for i in 1 2; do
+            sleep 285
+            python3 scraper.py trades || echo "trade poll $i failed"
+          done
+          python3 scraper.py stats
+          bash .github/commit_data.sh trades
+      # Last, so data is always committed first: fails the run (GitHub emails the owner) if a collector has gone quiet.
+      - name: Check every collector is still bringing data
+        run: python3 scraper.py health

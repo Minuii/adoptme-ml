@@ -53,6 +53,7 @@ for i in gg:
     it = items.setdefault(key(i["name"]), {"name": i["name"], "cat": GG_KIND.get(kind, kind), "rarity": "", "E": {}, "A": {}, "img": ""})
     if kind == "pets":
         vals = {v: num(x) for v, x in amvgg_variants(i, gg_coef).items()}  # ride/fly/no potion: derived like amvgg.com does
+        it["Ad"] = sorted(v for v, x in vals.items() if x and num(i.get(GG_SNAP.get(v))) is None)  # calculated, not listed
         dem = {v: i.get(f[:-5] + "Demand") for v, f in GG_SNAP.items()}  # potion demand is only set for a few pets:
         it["demand"] = {v: d or dem[v[0] + "-fr"] for v, d in dem.items() if d or dem[v[0] + "-fr"]}  # else the fly ride one
     else:
@@ -127,13 +128,30 @@ traded = Counter(n for t in week for s in t["sides"] for n in {i["name"] for i i
 hourly = Counter(t["first_seen"][:13] for t in trades if t["first_seen"][:16] >= ago(3))
 snaps = {s: sorted((DATA / "values" / s).glob("*.json.gz")) for s in ("elve", "amvgg")}
 
+
+def bot_ads(source, days):
+    """Offers the bot collected in the last `days` days, one per listing id (Elvebredd listings reappear when renewed)."""
+    cut, seen = ago(days), {}
+    for d in sorted((DATA / "ads" / source).glob("20*")):
+        if d.name < cut[:10]:
+            continue
+        for f in sorted(d.glob("*.jsonl.gz")):
+            for line in gzip.open(f, "rt", encoding="utf-8"):
+                a = json.loads(line)
+                if a["t"][:16] >= cut:
+                    seen[a["id"]] = a
+    return list(seen.values())
+
+
+ads_24h = sum(len(bot_ads(s, 1)) for s in ("amvgg", "elve"))
+
 stats = {
     "built": now.isoformat(timespec="minutes"),
     "totals": {"elve_changes": len(elve_ch), "elve_first": min(c["effectiveAt"] for c in elve_ch)[:10],
                "amvgg_changes": len(gg_ch), "amvgg_first": min(t for t, _, _ in gg_ch)[:10], "amvgg_demand": gg_dem,
                "trades": len(trades), "trades_first": min((t["first_seen"] for t in trades), default="")[:10],
                "trades_24h": sum(t["first_seen"][:16] >= ago(1) for t in trades),
-               "snapshots": len(snaps["elve"]) + len(snaps["amvgg"])},
+               "snapshots": len(snaps["elve"]) + len(snaps["amvgg"]), "ads_24h": ads_24h},
     "monthly": [[m, e, a] for m, (e, a) in sorted(monthly.items())],
     "hourly": sorted(hourly.items()),
     "traded_7d": traded.most_common(20),
@@ -174,6 +192,56 @@ ads.sort(key=lambda a: a[1], reverse=True)
 (SITE / "ads.json").write_text(json.dumps({"built": now.isoformat(timespec="minutes"), "tokens": tokens, "ads": ads},
                                           separators=(",", ":")), encoding="utf-8")
 print(len(ads), "ads,", len(tokens), "item tokens,", round((SITE / "ads.json").stat().st_size / 1e6, 2), "MB")
+
+# ---- Item pages: trade activity per item, last 7 days (items only; no trader names or ids) ----
+ACT_DAYS, RECENT = 7, 5
+
+
+def vk(name, badges):
+    """Item key + variant code ("r-fr", "n-np", ..., or "v" for non-pets) from a trade/offer item."""
+    k = key(name)
+    it = items.get(k)
+    if not it:
+        return k, None
+    if it["cat"] != "pets":
+        return k, "v"
+    b = badges or ""
+    return k, f"{'m' if 'M' in b else 'n' if 'N' in b else 'r'}-" + {(1, 1): "fr", (1, 0): "f", (0, 1): "r", (0, 0): "np"}[("F" in b, "R" in b)]
+
+
+act = defaultdict(lambda: {"t": Counter(), "o": {"A": defaultdict(lambda: [0, 0]), "E": defaultdict(lambda: [0, 0])}, "r": []})
+week_trades = sorted((t for t in trades if t["first_seen"][:16] >= ago(ACT_DAYS) and len(t.get("sides", [])) == 2),
+                     key=lambda t: t["first_seen"], reverse=True)
+seen_ids = set()
+for t in week_trades:
+    if t["trade_id"] in seen_ids:  # union merges can repeat a line
+        continue
+    seen_ids.add(t["trade_id"])
+    sides = [Counter((i["name"], i.get("badges", "")) for i in s["items"]) for s in t["sides"]]
+    short = [[[items[key(n)]["name"] if key(n) in items else n, b, c] for (n, b), c in s.items()] for s in sides]
+    for k in {vk(n, b) for s in sides for (n, b) in s}:
+        if k[1] is None:
+            continue
+        a = act[k[0]]
+        a["t"][k[1]] += 1
+        if len(a["r"]) < RECENT:
+            a["r"].append([t["first_seen"][:16], *short])
+ads_n = {}
+for src, code in (("amvgg", "A"), ("elve", "E")):
+    xs = bot_ads(src, ACT_DAYS)
+    ads_n[code] = len(xs)
+    for a in xs:
+        for side, slot in (("give", 0), ("get", 1)):
+            for k in {vk(*x.split("|", 1)) for x in a[side] if not x.startswith("#")}:
+                if k[1] is not None:
+                    act[k[0]]["o"][code][k[1]][slot] += 1
+activity = {items[k]["name"]: {"t": dict(a["t"]), "o": {s: dict(v) for s, v in a["o"].items() if v}, "r": a["r"]}
+            for k, a in act.items()}
+(SITE / "activity.json").write_text(json.dumps({"built": now.isoformat(timespec="minutes"), "days": ACT_DAYS,
+                                                "trades": len(seen_ids), "ads": ads_n, "items": activity},
+                                               separators=(",", ":")), encoding="utf-8")
+print(len(activity), "items with activity,", len(seen_ids), "trades,", ads_n, "offers,",
+      round((SITE / "activity.json").stat().st_size / 1e6, 2), "MB")
 
 if __name__ == "__main__":  # smoke check: a well-known pet joins across both lists with history
     sd = items[key("Shadow Dragon")]

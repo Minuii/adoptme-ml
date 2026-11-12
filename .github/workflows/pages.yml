@@ -1,7 +1,7 @@
 name: pages
 
 on:
-  # Rebuilt every 3 hours by the scrape workflow (GitHub's own `schedule:` never fires for this repo), on site edits, or by hand.
+  # Rebuilt every hour by the scrape workflow's :00 run (GitHub's own `schedule:` never fires for this repo), on site edits, or by hand.
   push:
     branches: [main]
     paths: [site/**, build_site.py]

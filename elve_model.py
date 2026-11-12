@@ -7,8 +7,15 @@ using only Elvebredd's own change log (no AMVGG, no trades yet).
     python elve_model.py ads 3      # only the last 3 test months (quick check)
     python elve_model.py events [N] # same, with and without game-update features from playadopt.me/news
                                     # (event_features.py) -> results/events_model.md
+    python elve_model.py both [N]   # offer months only: base, + offers, + events, + both -> results/both_model.md
+                                    # (H=30 python elve_model.py both -> results/both_model_30d.md)
+    python elve_model.py amvgg [N]  # months with AMVGG's own change log (2026-07 on): base vs + AMVGG value moves
+                                    # (amvgg_features.py), plus the "AMVGG moved first" rule as a baseline -> results/amvgg_model.md
+    python elve_model.py size [N]   # how much, not just which way: expected % change + 10-90% range (offers + news),
+                                    # tested walk-forward -> results/size_model.md, plus results/forecast.csv for today
 
-Only pets that AMVGG also lists (802) are modelled; AMVGG's own values and trades are not features yet.
+Only pets that AMVGG also lists (802) are modelled. AMVGG's value moves are tested in `amvgg` mode only (short history);
+trades are not features yet.
 
 Steps:
   1. Daily value of every pet variant (6 per pet: default/neon/mega x no potion/fly ride), rebuilt from the change log.
@@ -34,6 +41,11 @@ FLAT = np.log1p(float(os.environ.get("FLAT", 0.02 if H <= 7 else 0.05 if H <= 30
 SUFFIX = "" if H == 7 else f"_{H}d"
 WARMUP = 30          # days of history needed before a row is used
 TOP_K = 20           # picks per day in the trading simulation
+AGE_CAP = 365        # age_days stops counting here; pets older than the window start at the cap (their real age is unknown)
+# A quarter of default no-potion values are under 0.1, where one step of Elve's list is a 25%+ move. The picks are also
+# scored on pets worth at least this much, so a result can't rest on penny pets alone. Override with VALUE_FLOOR=1.
+VALUE_FLOOR = float(os.environ.get("VALUE_FLOOR", 0.25))
+RECALL_AT = 0.30     # "precision at 30% recall": how often the model is right when asked to catch 3 in 10 moves
 LABELS = {"default no potion": "rvalue - nopotion", "default fly ride": "rvalue - fly&ride",
           "neon no potion": "nvalue - nopotion", "neon fly ride": "nvalue - fly&ride",
           "mega no potion": "mvalue - nopotion", "mega fly ride": "mvalue - fly&ride"}
@@ -104,7 +116,10 @@ def features(V, nchg, rarity):
 
     idx = np.arange(len(V))[:, None] * np.ones(V.shape[1])
     last = pd.DataFrame(np.where(changed, idx, np.nan), index=V.index, columns=V.columns).ffill()
-    born = V.notna().cumsum()
+    # Days since the pet first had a value, capped. Pets that already existed on the window's first day would otherwise
+    # all count up from that day together (a calendar clock the trees can read the period from), so they sit at the cap.
+    born = V.notna().cumsum().clip(upper=AGE_CAP)
+    born.loc[:, V.iloc[0].notna().values] = AGE_CAP
     lastchg = r1.where(changed).ffill()
 
     pet = V.columns.get_level_values("name")
@@ -144,7 +159,7 @@ def features(V, nchg, rarity):
     df["rarity"] = df.name.map(rarity).fillna("unknown")
     df["kind"] = df.label.str.split().str[0]
     df["no_potion"] = df.label.str.endswith("no potion").astype(int)
-    df["dow"] = df.day.dt.dayofweek
+    df["dow"] = df.day.dt.day_of_week
     for c in ("rarity", "kind"):
         df = pd.concat([df, pd.get_dummies(df[c], prefix=c, dtype=float)], axis=1)
     df = df[df.log_value.notna() & (df.day >= V.index[0] + pd.Timedelta(days=WARMUP)) & df.label.isin(MAIN)]
@@ -157,11 +172,35 @@ def baselines(test):
     flat = np.tile([0, 1, 0], (len(test), 1)).astype(float)
     # repeat the last change's direction if it happened in the last 30 days, else flat
     rep = np.where(test.days_since_change <= 30, np.sign(test.last_change.fillna(0)) + 1, 1).astype(int)
-    return {"always flat": flat, "repeat last change (30d)": np.eye(3)[rep]}
+    out = {"always flat": flat, "repeat last change (30d)": np.eye(3)[rep]}
+    if "gg_lead_30" in test:  # the project's first idea: AMVGG moves first, Elvebredd follows
+        lead = test.gg_lead_30.fillna(0).values
+        out["AMVGG moved first (30d gap)"] = np.eye(3)[np.select([lead > FLAT, lead < -FLAT], [2, 0], 1)]
+    return out
+
+
+def pick_stats(test, score, jitter=1e-9):
+    """Trading sim: each day hold the TOP_K variants with the highest score (only scores above 0); result = their H-day
+    change. Besides the plain mean: the median, the same on pets worth at least VALUE_FLOOR, one kind at a time, and with
+    new picks only every H days (counted from the test month's first day). Daily picks are held H days, so they overlap and one good call is counted up to H times;
+    the every-H-days version counts each bet once."""
+    score = np.asarray(score, dtype=float)
+    # the jitter only breaks ties between real picks: a score of exactly 0 ("flat") must never become a random pick
+    t = test.assign(s=score + jitter * np.random.default_rng(0).random(len(test)))[score > 0]
+
+    def top(d):
+        return np.expm1(d.sort_values("s", ascending=False).groupby("day").head(TOP_K).target)
+    picks = top(t)
+    out = {f"top-{TOP_K} mean {H}d change": picks.mean(), f"top-{TOP_K} median": picks.median(),
+           f"top-{TOP_K}, new picks every {H}d": top(t[(t.day - test.day.min()).dt.days % H == 0]).mean(),
+           f"top-{TOP_K}, value >= {VALUE_FLOOR:g}": top(t[t.log_value >= np.log(VALUE_FLOOR)]).mean()}
+    for kind in ("default", "neon", "mega"):
+        out[f"top-{TOP_K}, {kind} only"] = top(t[t.kind == kind]).mean()
+    return out
 
 
 def scores(y, P, test):
-    from sklearn.metrics import f1_score, log_loss
+    from sklearn.metrics import average_precision_score, f1_score, log_loss, precision_recall_curve
     pred = P.argmax(1)
     out = {"accuracy": (pred == y).mean(), "macro F1": f1_score(y, pred, average="macro"),
            "up precision": ((pred == 2) & (y == 2)).sum() / max((pred == 2).sum(), 1),
@@ -170,15 +209,62 @@ def scores(y, P, test):
            "down recall": ((pred == 0) & (y == 0)).sum() / max((y == 0).sum(), 1)}
     soft = np.clip(P, 1e-3, 1)
     out["log loss"] = log_loss(y, soft / soft.sum(1, keepdims=True), labels=[0, 1, 2])
-    # trading sim: each day hold the TOP_K variants with the highest P(up) - P(down); score = their mean H-day change
-    t = test.assign(s=P[:, 2] - P[:, 0] + 1e-6 * np.random.default_rng(0).random(len(test)))
-    picks = t[t.s > 0].sort_values("s", ascending=False).groupby("day").head(TOP_K)
-    out[f"top-{TOP_K} mean {H}d change"] = np.expm1(picks.target).mean() if len(picks) else np.nan
+    # The numbers above take the likeliest class, and most rows are flat, so few moves get called. These two don't
+    # depend on that cut-off: they rank rows by P(up) / P(down).
+    for side, cls in (("up", 2), ("down", 0)):
+        pos = y == cls
+        ap = prec = np.nan
+        if pos.any() and not pos.all():
+            ap = average_precision_score(pos, P[:, cls])
+            pr, rc, _ = precision_recall_curve(pos, P[:, cls])
+            prec = pr[rc >= RECALL_AT].max()
+        out[f"{side} avg precision"], out[f"{side} precision @{RECALL_AT:.0%} recall"] = ap, prec
+    out.update(pick_stats(test, P[:, 2] - P[:, 0], 1e-6))
     out["universe mean change"] = np.expm1(test.target).mean()
     return out
 
 
+def boot_table(res, cols, n=2000):
+    """Mean over test months with a 90% range from resampling the months (each month is one draw), and the share of
+    months in which the picks beat the average pet."""
+    rng, rows = np.random.default_rng(0), []
+    for model, g in res.groupby("model", sort=False):
+        for c in cols:
+            ok = g[c].notna()
+            x = g.loc[ok, c].values
+            if len(x) < 2:
+                continue
+            m = rng.choice(x, (n, len(x))).mean(1)
+            row = {"model": model, "picks": c, "months": len(x), "mean": x.mean(), "5%": np.quantile(m, .05), "95%": np.quantile(m, .95)}
+            if "universe mean change" in g:
+                row["months beating all pets"] = (x > g.loc[ok, "universe mean change"].values).mean()
+            rows.append(row)
+    return pd.DataFrame(rows)
+
+
+def tables(res, summ):
+    """Markdown for a results file: the picks table (each row = one model) and the month-resampled ranges."""
+    pick_cols = [c for c in summ.columns if c.startswith("top-")]
+    md = ["\n\n## Top-20 picks: how solid is the gain\n",
+          f"Mean {H}-day change of the picks. *new picks every {H}d* counts each bet once (daily picks are held {H} days and "
+          f"overlap); *value >= {VALUE_FLOOR:g}* leaves out penny pets, where one step of the list is a huge % move.\n",
+          summ[pick_cols + [c for c in ("universe mean change",) if c in summ]].to_markdown(floatfmt=".3f")]
+    boot = boot_table(res, pick_cols[:1] + [c for c in pick_cols if "new picks" in c])
+    if len(boot):
+        md += ["\n\n### Range over months (90%, months resampled 2,000 times)\n", boot.to_markdown(index=False, floatfmt=".3f")]
+    return md, pick_cols
+
+
 NOT_FEATURES = ("day", "name", "label", "target", "y", "rarity", "kind")
+
+
+def varying(train, feats):
+    """Drop columns with under 2 distinct values in the training rows: they carry nothing, and scikit-learn's
+    histogram boosting crashes on them ("window shape cannot be larger than input array shape")."""
+    keep = [c for c in feats if train[c].nunique() > 1]
+    if len(keep) < len(feats):
+        print("  constant in training, dropped:", ", ".join(c for c in feats if c not in keep), flush=True)
+    return keep
 
 
 def walk_forward(df, feature_sets=None, last=None):
@@ -189,16 +275,7 @@ def walk_forward(df, feature_sets=None, last=None):
     from sklearn.pipeline import make_pipeline
     from sklearn.preprocessing import StandardScaler
 
-    def boosting():  # on a machine with an NVIDIA GPU and xgboost (Kaggle), train there; same shape of model either way
-        import shutil
-        if shutil.which("nvidia-smi"):
-            try:
-                from xgboost import XGBClassifier
-                return XGBClassifier(device="cuda", tree_method="hist", n_estimators=300, learning_rate=0.05, max_leaves=31,
-                                     grow_policy="lossguide", reg_lambda=1.0, random_state=0)
-            except ImportError:
-                pass
-        return HistGradientBoostingClassifier(max_iter=300, learning_rate=0.05, max_leaf_nodes=31, l2_regularization=1.0, random_state=0)
+    boosting = _classifier  # XGBoost on a GPU machine (Kaggle), scikit-learn otherwise; same shape of model
     print("gradient boosting:", type(boosting()).__name__, flush=True)
 
     feature_sets = feature_sets or {"": [c for c in df.columns if c not in NOT_FEATURES]}
@@ -213,6 +290,7 @@ def walk_forward(df, feature_sets=None, last=None):
         train = data[data.day < test.day.min() - pd.Timedelta(days=H)]
         preds = baselines(test)
         for suffix, feats in feature_sets.items():
+            feats = varying(train, feats)
             Xtr, Xte = train[feats], test[feats]
             models = {
                 # the linear model can't take gaps (offer features are empty before a site's offers begin): 0 = "average"
@@ -230,6 +308,167 @@ def walk_forward(df, feature_sets=None, last=None):
     return pd.DataFrame(rows), imp
 
 
+def add_groups(df, V, groups):
+    """Merge extra feature groups ("offers", "events") and keep only days where every group exists."""
+    pets = sorted(set(V.columns.get_level_values("name")))
+    cols, start = {}, df.day.min()
+    for g in groups:
+        if g == "offers":
+            from ad_features import ad_features
+            X, on = ad_features(V.index, pets), ["day", "name", "kind"]
+        elif g == "amvgg":
+            from amvgg_features import amvgg_features
+            X, on = amvgg_features(V.index, pets), ["day", "name", "kind"]
+        else:
+            from event_features import event_features
+            X, on = event_features(V.index, pets), ["day", "name"]
+        cols[g] = [c for c in X.columns if c not in ("day", "name", "kind")]
+        df = df.merge(X, on=on, how="left")
+        start = max(start, X.loc[X[cols[g]].notna().any(axis=1), "day"].min())  # first day this group exists
+        if g == "amvgg":  # how far AMVGG has moved ahead of Elvebredd: above 0 = AMVGG rose more (or fell less)
+            df["gg_lead_7"], df["gg_lead_30"] = df.gg_ret_7 - df.ret_7, df.gg_ret_30 - df.ret_30
+            cols[g] += ["gg_lead_7", "gg_lead_30"]
+    df = df[df.day >= start]
+    print(f"{'+'.join(groups)} features from {start.date()}: {len(df):,} rows, coverage "
+          + ", ".join(f"{c} {df[c].notna().mean():.0%}" for cs in cols.values() for c in cs), flush=True)
+    return df, cols
+
+
+# ---- size model: how much, not just which way -------------------------------------------------------------------
+QUANTILES = (0.1, 0.5, 0.9)  # the range shown is the 10%-90% band: about 8 in 10 outcomes should land inside it
+
+
+def _gpu():
+    import shutil
+    if not shutil.which("nvidia-smi"):
+        return False
+    try:
+        import xgboost  # noqa: F401
+        return True
+    except ImportError:
+        return False
+
+
+def _classifier():
+    if _gpu():
+        from xgboost import XGBClassifier
+        return XGBClassifier(device="cuda", tree_method="hist", n_estimators=300, learning_rate=0.05, max_leaves=31,
+                             grow_policy="lossguide", reg_lambda=1.0, random_state=0)
+    from sklearn.ensemble import HistGradientBoostingClassifier
+    return HistGradientBoostingClassifier(max_iter=300, learning_rate=0.05, max_leaf_nodes=31, l2_regularization=1.0, random_state=0)
+
+
+def _regressor(loss="squared_error", q=None):
+    """Boosted regressor on the log change; loss "quantile" with q = the quantile."""
+    if _gpu():
+        from xgboost import XGBRegressor
+        kw = dict(objective="reg:quantileerror", quantile_alpha=q) if loss == "quantile" else dict(objective="reg:squarederror")
+        return XGBRegressor(device="cuda", tree_method="hist", n_estimators=300, learning_rate=0.05, max_leaves=31,
+                            grow_policy="lossguide", reg_lambda=1.0, random_state=0, **kw)
+    from sklearn.ensemble import HistGradientBoostingRegressor
+    kw = dict(loss="quantile", quantile=q) if loss == "quantile" else dict(loss="squared_error")
+    return HistGradientBoostingRegressor(max_iter=300, learning_rate=0.05, max_leaf_nodes=31, l2_regularization=1.0,
+                                         random_state=0, **kw)
+
+
+def fit_size(train, feats):
+    """Two-part model. 1) classifier: P(down / flat / up). 2) regressors trained only on rows that moved: typical size of
+    a rise and of a drop. Expected change = P(up) x rise + P(down) x drop + P(flat) x (mean flat drift), in % terms.
+    Also quantile regressors on the raw log change for the 10/50/90% range."""
+    X, y, t = train[feats].values, train.y.values, train.target.values
+    m = {"clf": _classifier().fit(X, y)}
+    for k, cls in (("up", 2), ("down", 0)):
+        sel = y == cls
+        m[k] = _regressor().fit(X[sel], t[sel])
+    m["flat"] = float(np.expm1(t[y == 1]).mean())
+    m["direct"] = _regressor().fit(X, t)  # one regressor on everything, to show why the two-part model is needed
+    m["q"] = [_regressor("quantile", q).fit(X, t) for q in QUANTILES]
+    return m
+
+
+def predict_size(m, test, feats):
+    X = test[feats].values
+    P = m["clf"].predict_proba(X)
+    up = np.maximum(np.expm1(m["up"].predict(X)), np.expm1(FLAT))    # a rise is at least the flat band
+    dn = np.minimum(np.expm1(m["down"].predict(X)), np.expm1(-FLAT))
+    q = np.sort(np.column_stack([np.expm1(r.predict(X)) for r in m["q"]]), axis=1)  # sorted, so the band never crosses
+    return pd.DataFrame({"p_down": P[:, 0], "p_flat": P[:, 1], "p_up": P[:, 2], "rise_if_up": up, "drop_if_down": dn,
+                         "expected": P[:, 2] * up + P[:, 0] * dn + P[:, 1] * m["flat"],
+                         "direct": np.expm1(m["direct"].predict(X)),
+                         **{f"q{int(a * 100)}": q[:, i] for i, a in enumerate(QUANTILES)}}, index=test.index)
+
+
+def size_scores(test, pred):
+    """Errors in % points of value change; rank IC = mean daily Spearman correlation between predicted and real change."""
+    actual = np.expm1(test.target)
+    moved = test.y != 1
+    rep = np.where(test.days_since_change <= 30, np.expm1(test.last_change.fillna(0)), 0.0)
+    rows = []
+    for name, p in {"no change": np.zeros(len(test)), "repeat last change (30d)": rep,
+                    "direct regression": pred.direct.values, "two-part (expected)": pred.expected.values,
+                    "median (q50)": pred.q50.values}.items():
+        p = pd.Series(p, index=test.index)
+        ic = pd.DataFrame({"d": test.day, "p": p, "a": actual}).groupby("d").apply(
+            lambda g: g.p.corr(g.a, method="spearman") if g.p.nunique() > 1 and g.a.nunique() > 1 else np.nan)
+        rows.append({"model": name, "MAE (pp)": 100 * (p - actual).abs().mean(),
+                     "MAE on movers (pp)": 100 * (p - actual)[moved].abs().mean(),
+                     "direction right on movers": (np.sign(p[moved]) == np.sign(actual[moved])).mean(),
+                     "rank IC": ic.mean(), **pick_stats(test, p), "universe mean change": actual.mean()})
+    inside = (actual >= pred.q10) & (actual <= pred.q90)
+    band = {"model": "10-90% range", "coverage": inside.mean(), "coverage on movers": inside[moved].mean(),
+            "mean width (pp)": 100 * (pred.q90 - pred.q10).mean(), "share of zero-width ranges": ((pred.q90 - pred.q10) < 1e-4).mean()}
+    return rows, band
+
+
+def size_main(df, feats, V, lab, last):
+    data = df[df.y >= 0]
+    months = sorted(data.day.dt.to_period("M").unique())
+    test_months = [m for m in months if m.start_time - pd.Timedelta(days=H) - data.day.min() >= pd.Timedelta(days=50)]
+    rows, bands = [], []
+    for mo in test_months[-last:] if last else test_months:
+        test = data[data.day.dt.to_period("M") == mo]
+        train = data[data.day < test.day.min() - pd.Timedelta(days=H)]
+        f = varying(train, feats)
+        r, b = size_scores(test, predict_size(fit_size(train, f), test, f))
+        rows += [dict(month=str(mo), **x) for x in r]
+        bands.append(dict(month=str(mo), **b))
+        print(f"{mo}: train {len(train):,} rows, test {len(test):,}", flush=True)
+    res, band = pd.DataFrame(rows), pd.DataFrame(bands)
+
+    # forecast for the newest day: train on every row whose outcome is known, predict the newest day
+    newest = df.day.max()
+    now = df[df.day == newest]
+    f = varying(data, feats)
+    p = predict_size(fit_size(data, f), now, f)
+    fc = now[["name", "label"]].assign(value=np.exp(now.log_value)).join(p)
+    for c in ("expected", "q10", "q50", "q90"):
+        fc[f"value_{c}"] = fc.value * (1 + fc[c])
+    fc = fc.sort_values("expected", ascending=False)
+
+    out = f"size_model{SUFFIX}"
+    OUT.mkdir(exist_ok=True)
+    res.to_csv(OUT / f"{out}_folds.csv", index=False)
+    fc.round(4).to_csv(OUT / f"forecast{SUFFIX}.csv", index=False)
+    summ = res.drop(columns="month").groupby("model", sort=False).mean()
+    pick_md, pick_cols = tables(res, summ)
+    bsum = band.drop(columns=["month", "model"]).mean().to_frame("10-90% range")
+    show = ["name", "label", "value", "p_up", "p_down", "expected", "q10", "q90"]
+    md = [f"# Elve size model (offers + news): expected % change over {H} days, with a 10-90% range\n",
+          f"_Window {V.index[0].date()} to {V.index[-1].date()}, {len(df):,} rows (offer months only). "
+          f"Flat = move under {np.expm1(FLAT):.0%}. Class shares down/flat/up: {', '.join(f'{x:.1%}' for x in lab)}._\n",
+          f"Walk-forward by month ({res.month.nunique()} test months), averages. pp = percentage points of value change.\n",
+          summ.drop(columns=pick_cols[1:] + ["universe mean change"]).to_markdown(floatfmt=".3f"), *pick_md,
+          "\n\n## Range (10%-90% quantiles)\n",
+          "Coverage should be about 0.80. A zero-width range means the model expects no change at all.\n",
+          bsum.to_markdown(floatfmt=".3f"), "\n\n## Per month: rank IC\n",
+          res.pivot(index="month", columns="model", values="rank IC").to_markdown(floatfmt=".3f"),
+          f"\n\n## Forecast from {newest.date()}: top 15 expected rises and drops (full list in forecast{SUFFIX}.csv)\n",
+          pd.concat([fc.head(15), fc.tail(15)])[show].to_markdown(index=False, floatfmt=".3f")]
+    (OUT / f"{out}.md").write_text("\n".join(md), encoding="utf-8")
+    print(summ.round(3).to_string())
+    print(bsum.round(3).to_string())
+
+
 def main():
     log, first_batch = contiguous_log()
     V, nchg, rarity = daily_values(log)
@@ -240,22 +479,21 @@ def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else ""
     out, title = "elve_model", "Elve-only model"
     last = int(sys.argv[2]) if len(sys.argv) > 2 else None
-    if mode in ("ads", "events"):  # same test with and without one extra feature group
-        pets = sorted(set(V.columns.get_level_values("name")))
+    if mode == "size":
         base = [c for c in df.columns if c not in NOT_FEATURES]
-        if mode == "ads":
-            from ad_features import ad_features
-            X, on, label = ad_features(V.index, pets), ["day", "name", "kind"], "offer"
-        else:
-            from event_features import event_features
-            X, on, label = event_features(V.index, pets), ["day", "name"], "game-update (news)"
-        cols = [c for c in X.columns if c not in ("day", "name", "kind")]
-        df = df.merge(X, on=on, how="left")
-        start = X.loc[X[cols].notna().any(axis=1), "day"].min()  # first day any of the features exists
-        df = df[df.day >= start]
-        print(f"{mode} features from {start.date()}: {len(df):,} rows, coverage "
-              + ", ".join(f"{c} {df[c].notna().mean():.0%}" for c in cols), flush=True)
-        res, (coef, feats) = walk_forward(df, {"": base, " + " + {"ads": "offers"}.get(mode, mode): base + cols}, last)
+        df, cols = add_groups(df, V, ("offers", "events"))
+        size_main(df, base + [c for cs in cols.values() for c in cs], V, lab, last)
+        return
+    if mode in ("ads", "events", "both", "amvgg"):  # same test with and without extra feature groups
+        base = [c for c in df.columns if c not in NOT_FEATURES]
+        groups = {"ads": ("offers",), "events": ("events",), "both": ("offers", "events"), "amvgg": ("amvgg",)}[mode]
+        df, cols = add_groups(df, V, groups)
+        sets = {"": base, **{f" + {g}": base + cs for g, cs in cols.items()}}
+        if len(cols) > 1:
+            sets[" + offers + events"] = base + [c for cs in cols.values() for c in cs]
+        res, (coef, feats) = walk_forward(df, sets, last)
+        label = {"ads": "offer", "events": "game-update (news)", "both": "offer and game-update (news)",
+                 "amvgg": "AMVGG value-move"}[mode]
         out, title = f"{mode}_model", f"Elve model with {label} features"
     else:
         res, (coef, feats) = walk_forward(df, last=last)
@@ -264,12 +502,14 @@ def main():
     OUT.mkdir(exist_ok=True)
     res.to_csv(OUT / f"{out}_folds.csv", index=False)
     summ = res.drop(columns=["month", "n_test"]).groupby("model", sort=False).mean()
+    pick_md, pick_cols = tables(res, summ)
     upcoef = pd.Series(coef[2] - coef[0], index=feats).sort_values()
     md = [f"# {title}: {H}-day up/flat/down\n",
           f"_Window {V.index[0].date()} to {V.index[-1].date()}, {V.shape[1]:,} pet variants, {len(df):,} rows. "
           f"Flat = move under {np.expm1(FLAT):.0%}. Class shares down/flat/up: {', '.join(f'{x:.1%}' for x in lab)}._\n",
           f"Walk-forward by month ({res.month.nunique()} test months), averages:\n",
-          summ.to_markdown(floatfmt=".3f"), "\n\n## Per month\n",
+          summ.drop(columns=pick_cols[1:] + ["universe mean change"]).to_markdown(floatfmt=".3f"), *pick_md,
+          "\n\n## Per month: macro F1\n",
           res.pivot(index="month", columns="model", values="macro F1").to_markdown(floatfmt=".3f"),
           "\n\n## Logistic regression: features pushing toward up (+) or down (-), last fold\n",
           pd.concat([upcoef.head(8), upcoef.tail(8)]).to_frame("up minus down coef").to_markdown(floatfmt=".3f")]

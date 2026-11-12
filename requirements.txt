@@ -1,0 +1,7 @@
+# Only the model (elve_model.py and the *_features.py files) needs these.
+# scraper.py, build_site.py and the bot use the standard library only.
+numpy
+pandas>=2.1
+scikit-learn>=1.4
+tabulate          # DataFrame.to_markdown, for the results files
+# xgboost         # optional: used instead of scikit-learn's boosting when an NVIDIA GPU is present (Kaggle has it)

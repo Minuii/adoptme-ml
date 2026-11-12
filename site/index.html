@@ -46,7 +46,8 @@ h2 { font-size: 17px; font-weight: 600; margin: 0; }
 .lede { margin: 8px 0 0; color: var(--muted); max-width: 72ch; }
 .lede b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
 .note { font-size: 13px; color: var(--muted); margin: 0; max-width: 75ch; line-height: 1.45; }
-.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); overflow-x: auto; }
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); overflow-x: auto; overflow-y: hidden; scrollbar-width: none; }
+.tabs::-webkit-scrollbar { display: none; }
 .tab { background: none; border: 0; border-bottom: 2px solid transparent; padding: 8px 12px; margin-bottom: -1px; color: var(--muted); cursor: pointer; white-space: nowrap; }
 .tab:hover { color: var(--fg); }
 .tab[aria-selected=true] { color: var(--fg); border-bottom-color: var(--fg); font-weight: 600; }
@@ -129,6 +130,15 @@ tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 .vals .big { font-size: 26px; }
 .vt { font-size: 13px; }
 .vt td.on { font-weight: 600; background: var(--hover); }
+.der { color: var(--muted); text-decoration: underline dotted var(--faint); text-underline-offset: 3px; cursor: help; }
+.ref { font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.acts .big { font-size: 22px; }
+.acts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); gap: 12px; }
+.meter { display: flex; height: 6px; border-radius: 3px; overflow: hidden; background: var(--grid); margin-top: 6px; }
+.meter i { display: block; }
+.rtrade { display: grid; grid-template-columns: 1fr auto 1fr; gap: 10px; align-items: start; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.rtrade:last-child { border-bottom: 0; }
+.rtrade .when { grid-column: 1 / -1; font-size: 12px; color: var(--muted); }
 details { font-size: 13px; color: var(--muted); line-height: 1.5; }
 details ul { margin: 8px 0 0; padding-left: 18px; }
 /* compare */
@@ -166,7 +176,7 @@ footer a { color: var(--muted); }
   .wrap { padding-top: 20px; gap: 22px; }
   .hide-sm { display: none; }
   .big { font-size: 24px; }
-  .trade { grid-template-columns: 1fr; gap: 6px; } .arrow { padding: 0; transform: rotate(90deg); justify-self: start; }
+  .trade, .rtrade { grid-template-columns: 1fr; gap: 6px; } .arrow { padding: 0; transform: rotate(90deg); justify-self: start; }
   .itemimg { width: 80px; height: 80px; } .itemimg img { max-width: 72px; max-height: 72px; }
 }
 </style>
@@ -310,6 +320,21 @@ function change(it, s, days = 30, k = vkey(it)) {
   for (const [t, v] of hst) { if (ts(t) <= cut) then = v; else break; }
   return then ? (now - then) / then * 100 : null;
 }
+// why an item has no 30-day change, for the tooltip
+function noChangeWhy(it, s, k = vkey(it)) {
+  if (!complete(it.hist[s][k], value(it, s, k))) return s === "A" && it.cat === "pets" && !k.endsWith("-fr")
+    ? "AMVGG only logs fly ride changes, so there is no change history for this variant."
+    : `${SRC[s]}'s change log for this variant doesn't end at today's value (some changes weren't logged), so the 30-day change is unknown.`;
+  return `${SRC[s]}'s change log doesn't reach back 30 days yet.`;
+}
+// Frost Dragon (fly ride) as a common unit: the two lists use different scales, but "how many Frost Dragons" compares across both
+const REF_NAME = "Frost Dragon", REF_K = "r-fr";
+const refVal = s => { const r = BYNAME.get(REF_NAME); return r ? value(r, s, REF_K) : null; };
+const inRef = (v, s) => { const r = refVal(s); return v != null && r ? v / r : null; };
+const refTxt = x => { if (x == null) return ""; const n = x >= 10 ? Math.round(x) : +x.toPrecision(2); return `≈ ${n.toLocaleString()} Frost Dragon${n === 1 ? "" : "s"} (FR)`; };
+// AMVGG lists ride / fly / no-potion values for only a few pets; the rest are calculated from the fly ride value
+const derived = (it, s, k = vkey(it)) => s === "A" && (it.Ad || []).includes(k);
+const DERIVED_TIP = "Calculated, not listed: AMVGG works this out from the fly ride value with its potion multipliers.";
 const sources = () => S.src === "both" ? ["A", "E"] : [S.src];
 const demandOf = (it, k = vkey(it)) => (it.demand || {})[k];
 const matches = it => (S.cat === "all" || it.cat === S.cat) && (!S.q.trim() || it.name.toLowerCase().includes(S.q.trim().toLowerCase())) &&
@@ -393,8 +418,10 @@ function listRow(it) {
         S.cat === "all" ? h("span", { class: "dim" }, (it.rarity ? " · " : "") + it.cat) : null)),
     sources().map(s => {
       const v = value(it, s), p = change(it, s);
-      return h("td", { class: "num" }, v == null ? h("span", { class: "dim", style: "text-transform:none" }, "not listed") : fmt(v),
-        v != null && p != null ? h("span", { class: "chg hide-sm " + pctCls(p) }, pctTxt(p)) : null);
+      return h("td", { class: "num" }, v == null ? h("span", { class: "dim", style: "text-transform:none" }, "not listed")
+        : derived(it, s) ? h("span", { class: "der", title: DERIVED_TIP }, fmt(v)) : fmt(v),
+        v == null ? null : p != null ? h("span", { class: "chg hide-sm " + pctCls(p) }, pctTxt(p))
+          : h("span", { class: "chg hide-sm flat", title: noChangeWhy(it, s), style: "cursor:help" }, "–"));
     }),
     S.src !== "E" ? h("td", { class: "hide-sm" }, d || "") : null);
 }
@@ -445,15 +472,26 @@ function drawItem() {
   const pet = it.cat === "pets";
   const nowCell = s => {
     const v = value(it, s), p = change(it, s), p365 = change(it, s, 365), d = s === "A" ? demandOf(it) : null;
+    const isRef = it.name === REF_NAME && vkey(it) === REF_K;
     return h("div", {}, h("span", { class: "label" }, `${SRC[s]} value now`),
-      h("span", { class: "big", style: `color:${COL[s]}` }, Object.keys(it[s]).length ? fmt(v) : "—"),
+      h("span", { class: "big", style: `color:${COL[s]}` }, Object.keys(it[s]).length ? fmt(v) : "—",
+        v != null && derived(it, s) ? h("span", { class: "der", title: DERIVED_TIP, style: "font-size:13px;margin-left:6px;font-family:var(--sans)" }, "calculated") : null),
       h("span", { class: "sub" }, !Object.keys(it[s]).length ? "not on this list" : v == null ? "not listed for this variant"
-        : [p != null ? `30d ${pctTxt(p)}` : "", p365 != null ? `1y ${pctTxt(p365)}` : "", d ? `demand ${d}` : ""].filter(Boolean).join(" · ") || " "));
+        : [p != null ? `30d ${pctTxt(p)}` : "30d –", p365 != null ? `1y ${pctTxt(p365)}` : "", d ? `demand ${d}` : ""].filter(Boolean).join(" · ")),
+      v != null ? h("span", { class: "ref", title: "Frost Dragon (fly ride) is the yardstick: it compares across both lists, which use different scales." },
+        isRef ? "The yardstick: 1 Frost Dragon (FR)" : refTxt(inRef(v, s))) : null);
   };
   const table = s => !pet || !Object.keys(it[s]).length ? null : h("div", { class: "tablewrap" }, h("table", { class: "vt" },
     h("thead", {}, h("tr", {}, h("th", {}, SRC[s]), Object.values(POT).map(l => h("th", { class: "num" }, l)))),
     h("tbody", {}, Object.entries(VAR).map(([vk, vl]) => h("tr", {}, h("td", {}, vl),
-      Object.keys(POT).map(pk => h("td", { class: "num" + (vk === S.var && pk === S.pot ? " on" : "") }, fmt(it[s][`${vk}-${pk}`]))))))));
+      Object.keys(POT).map(pk => {
+        const k = `${vk}-${pk}`, der = derived(it, s, k) && it[s][k] != null;
+        return h("td", { class: "num" + (vk === S.var && pk === S.pot ? " on" : "") },
+          der ? h("span", { class: "der", title: DERIVED_TIP }, fmt(it[s][k])) : fmt(it[s][k]));
+      })))),
+    s === "A" && (it.Ad || []).length ? h("caption", { class: "note", style: "caption-side:bottom;text-align:left;padding-top:6px" },
+      "Dotted values are calculated by AMVGG from the fly ride value, not listed separately.") : null));
+  const activity = h("section", { class: "section" }, h("h2", {}, "Trading activity"), h("p", { class: "empty" }, "Loading…"));
   const charts = ["E", "A"].map(s => {
     const el = h("div", { class: "chart" });
     return [h("section", { class: "section" }, h("h2", {}, `${SRC[s]} value history`), el, table(s)), () => historyChart(el, it, s)];
@@ -470,11 +508,56 @@ function drawItem() {
         h("div", { class: "cmpadd" }, h("span", { class: "label" }, "Compare:"),
           ["ca", "cb"].map((sd, n) => h("button", { class: "btn", onclick: () => { addTo(sd, it, pet ? `${S.var}-${S.pot}` : "v"); S.item = ""; S.tab = "compare"; scrollTo(0, 0); render(); } },
             `Add to side ${"AB"[n]}`))))),
+    activity,
     ...charts.map(c => c[0]),
     h("p", { class: "note" }, "The two lists use different scales, so compare an item with other items on the same list. Elvebredd's log starts in September 2023 and AMVGG's in June 2026; a few variants were changed without being logged, so their chart is hidden."));
   charts.forEach(c => c[1]());
+  drawActivity(activity, it);
 }
 function closeItem() { S.item = ""; render(); }
+
+// ---- item page: trading activity (site/activity.json, last 7 days) ----
+let ACT;
+const nameChip = ([name, badge, n]) => {
+  const it = BYNAME.get(name), pet = it && it.cat === "pets", k = pet ? tagKey(badge) : "v";
+  const label = (n > 1 ? `${n}× ` : "") + name;
+  if (!it) return h("span", { class: "chip ph" }, label);
+  return h("span", { class: "chip click", title: `${name}${pet ? " · " + keyTxt(it, k) : ""}`, role: "link", tabindex: 0,
+    onclick: () => { if (pet) [S.var, S.pot] = k.split("-"); openItem(it); } }, icon(it), label, pet ? bdgs(badgeTags(k)) : null);
+};
+async function drawActivity(box, it) {
+  if (!ACT) {
+    try { ACT = await fetch("activity.json").then(r => r.json()); }
+    catch { box.replaceChildren(h("h2", {}, "Trading activity"), h("p", { class: "empty" }, "Couldn't load trading activity.")); return; }
+    if (S.item !== it.name) return;
+  }
+  const a = ACT.items[it.name] || { t: {}, o: {}, r: [] }, k = vkey(it), pet = it.cat === "pets";
+  const sum = o => Object.values(o || {}).reduce((x, y) => x + y, 0);
+  const vname = pet ? `${VAR[S.var].toLowerCase()} ${POT[S.pot].toLowerCase()}` : "";
+  const tTot = sum(a.t), tVar = a.t[k] || 0;
+  const cards = [h("div", { class: "card" }, h("span", { class: "label" }, `Completed AMVGG trades, last ${ACT.days} days`),
+    h("span", { class: "big" }, tTot.toLocaleString()),
+    h("span", { class: "sub" }, pet ? `${tVar.toLocaleString()} as ${vname}` : " ",
+      ` · of ${ACT.trades.toLocaleString()} trades collected`))];
+  for (const s of ["A", "E"]) {
+    const o = (a.o || {})[s] || {}, off = sum(Object.values(o).map(x => x[0])), want = sum(Object.values(o).map(x => x[1]));
+    const [vo, vw] = o[k] || [0, 0], tot = off + want;
+    const lean = tot < 10 ? "Too few offers to tell" : want > off * 1.3 ? "More people want it than offer it"
+      : off > want * 1.3 ? "Offered more often than wanted" : "Wanted about as often as offered";
+    cards.push(h("div", { class: "card" }, h("span", { class: "label" }, `${SRC[s]} offers, last ${ACT.days} days`),
+      h("span", { class: "big" }, `${want.toLocaleString()} wanted · ${off.toLocaleString()} offered`),
+      tot ? h("div", { class: "meter", title: `${want} wanted, ${off} offered` },
+        h("i", { style: `width:${100 * want / tot}%;background:var(--up)` }), h("i", { style: `width:${100 * off / tot}%;background:${COL[s]}` })) : null,
+      h("span", { class: "sub" }, lean + (pet && tot ? ` · ${vname}: ${vw} wanted, ${vo} offered` : "")),
+      h("span", { class: "sub" }, `out of ${(ACT.ads[s] || 0).toLocaleString()} offers sampled`)));
+  }
+  const recent = a.r.length ? h("div", { class: "card", style: "gap:0" }, h("span", { class: "label" }, "Latest trades with this item"),
+    a.r.map(([t, x, y]) => h("div", { class: "rtrade" }, h("span", { class: "when" }, `${ago(t)} · ${t.replace("T", " ")} UTC`),
+      h("div", { class: "chips" }, x.map(nameChip)), h("div", { class: "arrow", "aria-hidden": "true" }, "⇄"), h("div", { class: "chips" }, y.map(nameChip)))))
+    : h("p", { class: "empty" }, `No completed AMVGG trades with this item in the last ${ACT.days} days.`);
+  box.replaceChildren(h("h2", {}, "Trading activity"), h("div", { class: "acts" }, cards), recent,
+    h("p", { class: "note" }, "Completed trades come from AMVGG's trade page, checked every few minutes; a busy hour can slip through. Offers are sampled from both sites' trade centres, so compare wanted against offered rather than the raw counts. Trader names are left out."));
+}
 
 // ---- charts (d3) ----
 function tipper(el) {
@@ -524,6 +607,12 @@ function historyChart(el, it, s) {
   const span = pts.at(-1).t - pts[0].t;
   const { svg, x, y, H, m, show } = frame(el, 240, [lo, hi], d3.extent(pts, p => p.t), d3.format("~s"),
     d3.utcFormat(span > 300 * DAY ? "%b %Y" : span > 2 * DAY ? "%-d %b" : "%H:%M"));
+  // soft fill under the steps: line colour fading to transparent toward the bottom of the plot
+  const gid = `fill-${s}`, grad = svg.append("defs").append("linearGradient").attr("id", gid).attr("x1", 0).attr("x2", 0).attr("y1", 0).attr("y2", 1);
+  grad.append("stop").attr("offset", "0%").style("stop-color", COL[s]).style("stop-opacity", .28);
+  grad.append("stop").attr("offset", "100%").style("stop-color", COL[s]).style("stop-opacity", 0);
+  svg.append("path").datum(pts).attr("fill", `url(#${gid})`)
+    .attr("d", d3.area().curve(d3.curveStepAfter).x(p => x(p.t)).y0(H - m.b).y1(p => y(p.v)));
   svg.append("path").datum(pts).attr("fill", "none").style("stroke", COL[s]).attr("stroke-width", 2)
     .attr("d", d3.line().curve(d3.curveStepAfter).x(p => x(p.t)).y(p => y(p.v)));
   svg.append("g").selectAll("circle").data(pts.filter(p => !p.now)).join("circle")
@@ -551,7 +640,7 @@ async function drawStats() {
   $("#kpis").replaceChildren(...[
     ["Elvebredd value changes", T.elve_changes, `since ${day(T.elve_first)}`], ["AMVGG value changes", T.amvgg_changes, `since ${day(T.amvgg_first)}`],
     ["AMVGG demand changes", T.amvgg_demand, `since ${day(T.amvgg_first)}`], ["Completed trades collected", T.trades, `since ${day(T.trades_first)}`],
-    ["Trades, last 24 hours", T.trades_24h, ""], ["Value list snapshots", T.snapshots, "Elvebredd + AMVGG"],
+    ["Trades, last 24 hours", T.trades_24h, ""], ["Offers collected, last 24 hours", T.ads_24h, "AMVGG + Elvebredd trade centres"],
   ].map(([l, v, s]) => h("div", { class: "card" }, h("span", { class: "label" }, l), h("span", { class: "big" }, n(v)), h("span", { class: "sub" }, s || " "))));
   monthlyChart($("#monthly"));
   hourlyChart($("#hourly"));
@@ -638,7 +727,8 @@ function drawCompare() {
       : d > 0 ? `Side B is worth ${pctTxt(d).slice(1)} more` : `Side A is worth ${pctTxt((a.sum - b.sum) / b.sum * 100).slice(1)} more`;
     return h("div", { class: "card" }, h("span", { class: "label" }, `On ${SRC[s]}`),
       h("span", { class: "big", style: `color:${COL[s]}` }, txt),
-      h("span", { class: "sub" }, `${fmt(a.sum)} vs ${fmt(b.sum)}` + (miss ? ` · ${miss} item${miss > 1 ? "s" : ""} not on this list, left out` : "")));
+      h("span", { class: "sub" }, `${fmt(a.sum)} vs ${fmt(b.sum)}` + (miss ? ` · ${miss} item${miss > 1 ? "s" : ""} not on this list, left out` : "")),
+      refVal(s) ? h("span", { class: "ref" }, `In Frost Dragons (FR): ${refTxt(inRef(a.sum, s)).slice(2).replace(/ Frost Dragons? \(FR\)/, "")} vs ${refTxt(inRef(b.sum, s)).slice(2).replace(/ Frost Dragons? \(FR\)/, "")}`) : null);
   })));
   // overlaid history, one chart per list
   const all = [...sides.ca.map(e => ({ ...e, side: "A" })), ...sides.cb.map(e => ({ ...e, side: "B" }))];
@@ -739,7 +829,16 @@ function adCard(ad) {
   const [src, t, give, get] = ad, s = S.al;
   const g = adSideValue(give, s), w = adSideValue(get, s);
   const d = g && w ? (g - w) / w * 100 : null;
-  const verdict = d == null ? h("span", {}, `Can't value on ${SRC[s]}`)
+  // say why an offer can't be valued: a placeholder like "Add", or an item this list doesn't carry
+  const why = () => {
+    const ts = give.concat(get).map(tokInfo), ph = [...new Set(ts.filter(t => !t.it).map(t => `“${t.name}”`))];
+    const miss = [...new Set(ts.filter(t => t.it && t.it[s][t.k] == null).map(t => t.name))];
+    if (!give.length || !get.length) return "One side is empty, so it can't be valued";
+    if (ph.length) return `Includes ${ph.join(", ")}, so it can't be valued`;
+    if (miss.length) return `${miss.slice(0, 2).join(", ")}${miss.length > 2 ? "…" : ""} ${miss.length > 1 ? "have" : "has"} no ${SRC[s]} value, so it can't be valued`;
+    return `Can't value on ${SRC[s]}`;
+  };
+  const verdict = d == null ? h("span", { class: "flat" }, why())
     : h("span", { class: Math.abs(d) < 5 ? "flat" : d > 0 ? "up" : "down" },
       Math.abs(d) < 5 ? "Fair (within 5%)" : d > 0 ? `Poster offers ${pctTxt(d).slice(1)} more than they ask` : `Poster asks ${pctTxt((w - g) / g * 100).slice(1)} more than they offer`);
   return h("article", { class: "ad" },
@@ -748,7 +847,7 @@ function adCard(ad) {
       h("div", {}, h("div", { class: "sidelbl" }, "Offering"), h("div", { class: "chips" }, give.length ? give.map(chip) : h("span", { class: "dim" }, "nothing listed"))),
       h("div", { class: "arrow", "aria-hidden": "true" }, "→"),
       h("div", {}, h("div", { class: "sidelbl" }, "Wants"), h("div", { class: "chips" }, get.length ? get.map(chip) : h("span", { class: "dim" }, "offers")))),
-    h("div", { class: "adfoot" }, h("span", {}, `${SRC[s]}: ${give.length ? partTxt(adPart(give, s)) : "—"} offered for ${get.length ? partTxt(adPart(get, s)) : "—"}`), verdict));
+    h("div", { class: "adfoot" }, d == null ? null : h("span", {}, `${SRC[s]}: ${fmt(g)} offered for ${fmt(w)}`), verdict));
 }
 async function drawAds(reset = true) {
   if (!ADS) {
