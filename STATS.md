@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 11:45 UTC by the scrape workflow._
+_Updated 2026-11-12 12:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -9,39 +9,39 @@ _Updated 2026-11-12 11:45 UTC by the scrape workflow._
 | elve | 6 | 2026-11-11T1036Z | 2026-11-12T0145Z |
 | amvgg | 6 | 2026-11-11T1036Z | 2026-11-12T0145Z |
 
-## Trade ads collected by the bot
+## Offers (trade listings) collected by the bot
 
-| Source | Days | Ads today + yesterday | Newest ad |
+| Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 21,983 | 2026-11-12T11:45 |
-| elve | 2 | 4,398 | 2026-11-12T11:45 |
+| amvgg | 2 | 22,194 | 2026-11-12T12:00 |
+| elve | 2 | 4,452 | 2026-11-12T12:01 |
 
-## AMVGG completed trades: 3,521 total
+## AMVGG completed trades: 3,551 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 1,430 |
+| 2026-11-12 | 1,460 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:45 | **0MGSARAY**: Fly-A-Pet Potion ×9, Pet Handler Pro Certificate ×7, Ride-A-Pet Potion ×2 | **Lancelott008**: Kangaroo (NFR) |
-| 11:45 | **Grin900**: 2022 Birthday Party Hat, Moped ×2 | **Jeansppk**: Shark (MFR) |
-| 11:45 | **Trixcaughtlackin**: Copycat (N) | **Svnset_st4r2Xx**: Cow (R) |
-| 11:45 | **w4nd3ringG0d**: Count Slothula (MR) ×2 | **Kristyjunio_r**: Lion (NFR) |
-| 11:45 | **ggandori0916**: Crocodile (R), Ride-A-Pet Potion, Kitty Biscuit, Royal Fairytale Egg | **qwuckl**: Elephant |
-| 11:45 | **6smng**: Cat | **Cherryblossom_01580**: Dog |
-| 11:45 | **lba_fofe**: Blue Dog (FR), Arctic Fox (FR), Shrew (R), Brown Bear (FR), Munchkin Cat, Pig (R), Pink Cat (NFR) | **yanchik0067**: Turtle (FR), Kangaroo (FR), Cow (FR), Pet Handler Pro Certificate |
-| 11:45 | **arseniylolol**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **CallmeAimanYT**: Pig (R) |
-| 11:45 | **Nicckie_Min42**: Ride-A-Pet Potion | **teamindonesiamu**: Unicorn |
-| 11:45 | **Lotusnaceae**: Velociraptor (M), Bat (M) | **Autumn1000_rat**: Lobster (M) |
-| 11:45 | **AndresitoUKR**: Candicorn (R), Gecko (M) | **kingyaya1480**: Berry Cool Cube (MFR), Mr. Whiskerpips (MFR), Rainbow Dragon, Zombie Wolf (R) |
-| 11:45 | **0MGSARAY**: Evil Unicorn (FR), Kangaroo (NFR) ×2, Cow (R), Fly-A-Pet Potion | **Eva_EvaKBAC**: Owl (FR) |
-| 11:45 | **wixxoql**: Ride-A-Pet Potion ×15 | **unice_unicoo**: Kangaroo (FR) |
-| 11:45 | **Stxriiko**: Candy Cannon, Rocket Sled, Water Walking Potion, Pumpkin, Glass Snowboard | **FM_604**: Frost Dragon (FR) |
-| 11:45 | **idk_oofy1377**: Wolpertinger (MFR) | **Frs1357959**: Ride-A-Pet Potion ×2 |
+| 12:00 | **sllwexx**: Thunderfisher ×2, Amami Rabbit, Steppe Lion | **HOCOKKU**: Ride-A-Pet Potion |
+| 12:00 | **Paifrennnn**: Pig, Lavender Dragon | **itz_anyaaa2010**: Arctic Fox (R) |
+| 12:00 | **kashemiro**: Munchkin Cat | **caxarberdok**: Gaelic Fae (NFR) |
+| 12:00 | **AMINO4KA7U**: T-Rex (NFR) | **Hey_Dant123**: Ride-A-Pet Potion ×5 |
+| 12:00 | **AMINO4KA7U**: Unicorn (NR) | **DontBEEtheONEE**: Lavender Dragon (FR), Axolotl (R) |
+| 12:00 | **aydachan200311**: Ride-A-Pet Potion ×7 | **lkmsdfw**: Fly-A-Pet Potion ×4 |
+| 12:00 | **Rose_Camillia**: Fairy Bat Dragon (FR), Winged Horse (MFR), Pretty Pony (MR), Merhorse (M) | **josuecres16**: Chocolate Chip Bat Dragon (FR) |
+| 12:00 | **ubnnyz**: Sugar Glider, Merhorse (MFR) | **jusyourlocalanimefan**: Sushi Penguin (M), Icy Porcupine (M), Snowy Mammoth (M), Kirin (M), Merhorse (M) |
+| 12:00 | **Ttsglw**: Cupcake Scooter, Glass Skateboard, Blue Scooter, Fossil Paw Helicopter | **UltimateLionMantis**: Fly-A-Pet Potion |
+| 12:00 | **BulbyUnder**: Ride-A-Pet Potion | **lapit228**: Phoenix |
+| 12:00 | **Suboxow**: Frost Unicorn (FR) | **Cutie_wolfie20**: Tio De Nadal (FR) |
+| 12:00 | **KIDS_501**: Bobageist ×2, Corgi, Crimson Cape | **PolinaPlayMini**: Temple Friend |
+| 12:00 | **nyavisala**: 2022 Birthday Cake | **HOCOKKU**: Shark Puppy (R), Caterpillar (R) |
+| 12:00 | **34Kotenok9**: Sushi Penguin, Admin Abuse Egg ×2 | **feral1w**: Ride-A-Pet Potion |
+| 12:00 | **Hobart143**: Hare (MFR), French Bulldog (MR) | **Auds191102**: Cabbit (NFR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
