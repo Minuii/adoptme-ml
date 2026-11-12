@@ -204,7 +204,9 @@ def walk_forward(df, feature_sets=None, last=None):
     feature_sets = feature_sets or {"": [c for c in df.columns if c not in NOT_FEATURES]}
     data = df[df.y >= 0]
     months = sorted(data.day.dt.to_period("M").unique())
-    test_months = [m for m in months if (data.day.dt.to_period("M") < m).sum() > 0][2:]  # at least ~3 months of training
+    # a month is tested only if its training rows (everything up to H days before it) span at least ~2 months;
+    # for H=7 that is the same months as before, for H=90 the first ~4 months are skipped instead of training on nothing
+    test_months = [m for m in months if m.start_time - pd.Timedelta(days=H) - data.day.min() >= pd.Timedelta(days=50)]
     rows, imp = [], None
     for m in test_months[-last:] if last else test_months:
         test = data[data.day.dt.to_period("M") == m]
