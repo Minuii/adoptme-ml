@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 07:31 UTC by the scrape workflow._
+_Updated 2026-11-12 07:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 07:31 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 18,201 | 2026-11-12T07:30 |
-| elve | 2 | 3,653 | 2026-11-12T07:31 |
+| amvgg | 2 | 18,412 | 2026-11-12T07:45 |
+| elve | 2 | 3,664 | 2026-11-12T07:45 |
 
-## AMVGG completed trades: 3,021 total
+## AMVGG completed trades: 3,045 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 930 |
+| 2026-11-12 | 954 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:30 | **comeonhappiy**: Goose (NFR), Bready Necklace | **isains12**: Unicorn Horn ×2, 2022 Birthday Party Hat, Toaster Hat, Tiny Wings |
-| 07:30 | **Alyssaok_2000**: Halloween Evil Dachshund (MR) | **Evxlutionary**: Jester Dragon |
-| 07:30 | **hood_11uwu**: Snow Monkey ×2, Husky, Majestic Pony, Chocolate Dutch Guinea Pig, Moon Rabbit, Tuxedo Cat | **gthstnr**: Crocodile |
-| 07:30 | **FlyToTheSaturn**: Sock Chew Toy, Reindeer Plush, Polar Bear Plush, Marsh Plush, Horse Plush, Heart Balloon, Gift Throw Toy, Elf Plush, Cookie Dough Plush ×3, Candle | **lkmsdfw**: Fly-A-Pet Potion |
-| 07:30 | **gattitakawaii16**: Latte Kitsune (R), Scarebear (R), Chihuahua (N), Ice Cream Hermit Crab, Clementine Owl (N) | **pysugwysu**: Munchkin Cat |
-| 07:30 | **Ghostkittyin**: Chocolate Dutch Guinea Pig | **ChillerTyr**: White Chef Hat |
-| 07:30 | **xBellaCupcakex**: Peppermint Penguin (FR), Ice Cream Cone Hat | **jiggle_wiggle132**: Mini Pig (FR) |
-| 07:30 | **ridereaglerogueyt**: Dragonfly ×14 | **Kxxxkx782**: Ride-A-Pet Potion |
-| 07:30 | **Ffaa_bom**: Unicorn Horn ×2, Ring-Tailed Lemur | **Mitsuri_Chan0w**: Dango Penguins (MFR) |
-| 07:30 | **Z1NCHES**: Arctic Reindeer (FR), Ride-A-Pet Potion ×9 | **Yizukixx**: Dalmatian (FR) |
-| 07:30 | **LoriDreamy123**: Phoenix (NR) | **MAHDAPNH405**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 |
-| 07:30 | **ophyns**: Copycat (R), Copycat, Dango Penguins | **yeagsr**: Kangaroo (FR) |
-| 07:30 | **Starlightstarzz**: Candyfloss Chick (FR), Slime (MFR), Unicorn (MFR), Shrew (R), Giant Anteater, Brown Bear (NFR), Pig (R) | **Tal_Kazman**: Evil Unicorn (FR) |
-| 07:30 | **qkrbed**: Parrot (NFR) | **exotic_plot**: Parrot (FR), Giant Panda (FR) |
-| 07:30 | **Certifiedbwunnii**: 2022 Birthday Cupcake Shoes, Ice Cream Cone Hat | **Tal_Kazman**: 2022 Birthday Party Hat |
+| 07:45 | **exotic_plot**: Giant Panda, Evil Unicorn | **meowxik1**: Frost Dragon (FR) |
+| 07:45 | **RohanXianCreates_YT**: Ride-A-Pet Potion ×4, Golden Hamster (R) | **LiptonP13**: Glormy Leo (FR) |
+| 07:45 | **willowupg**: Turtle (FR), Jester Dragon (R), Jester Dragon, Copycat, Green Amazon (MFR), Polar Bear (R), Jester Dragon (FR) | **BurningFlameWrath**: Strawberry Shortcake Bat Dragon (FR) |
+| 07:45 | **LoriDreamy123**: Pig (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Tal_Kazman**: Turtle (FR) |
+| 07:45 | **w1ngedchwrryel**: Christmas Pudding Pup, Christmas Pudding Pup (R) | **PotterHarry1507**: Elephant (FR) |
+| 07:45 | **Kagem1_rbx**: Crow (FR), Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) ×4, Dalmatian (FR) ×2, Arctic Reindeer (FR), Hedgehog (FR), Fly-A-Pet Potion | **L_person21**: Bat Dragon (FR) |
+| 07:45 | **ribcageprincezz**: Moon Rabbit (M), Burger Bear | **Letizia00000000**: Chihuahua (M), Ride-A-Pet Potion ×2, Moose Calf |
+| 07:45 | **pawispiwis**: Ancient Dragon (NFR) | **Tromdew**: Ride-A-Pet Potion |
+| 07:45 | **TrapsForFlys**: Arctic Reindeer (NFR), Turtle (NFR) | **xTrxstedCodee**: Giant Panda (FR) |
+| 07:45 | **Donutser2**: Water Rabbit (MFR), Tiny Wings, Spring Bunny Hood, Harp Seal (NR), Skelicorn (N), Waffle Wyrm (N), Cattuccino | **Tal_Kazman**: Mini Pig (R) |
+| 07:45 | **ihamoda**: Rainbow Maker ×2, Unicorn Horn | **Diamondprinces32**: Balloon Unicorn (FR) |
+| 07:45 | **ybiosajoshua**: Hedgehog (FR), Fly-A-Pet Potion | **princess0088123**: Mini Pig (R), Cow (FR), Elephant (FR) |
+| 07:45 | **sunFoxoxx**: 2022 Birthday Cupcake Shoes, Toaster Hat | **Niruch_Bearly**: Fairy Bat Dragon (FR) |
+| 07:45 | **rzsxveq**: Frost Dragon | **Annsjdnsnjs**: Balloon Unicorn (R) ×2 |
+| 07:45 | **octopus321cyech**: Vol. 2 Pets Plus Sticker Pack | **iamsoslay67frfr**: Mighty Haetyphoon Animated Sticker |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
