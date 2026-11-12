@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 17:55 UTC by the scrape workflow._
+_Updated 2026-11-12 18:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 17:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 27,765 | 2026-11-12T17:45 |
-| elve | 2 | 5,584 | 2026-11-12T17:45 |
+| amvgg | 2 | 28,016 | 2026-11-12T18:00 |
+| elve | 2 | 5,651 | 2026-11-12T18:01 |
 
-## AMVGG completed trades: 4,728 total
+## AMVGG completed trades: 4,742 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 2,637 |
+| 2026-11-12 | 2,651 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 18:00 | **yumanera**: Chocolate Chip Bat Dragon (FR), Cow (FR) ×2, Alpaca (R) | **natixezq**: Chocolate Chip Bat Dragon (NFR) |
+| 18:00 | **Varenik_zabivnoi**: Diamond Egg, Golden Egg | **Amy_LazyMaybe**: Kitty Biscuit |
+| 18:00 | **yose333333**: Goose (FR) | **KotMonster7**: Fly-A-Pet Potion ×12, Matcha Cat, Ride-A-Pet Potion ×4 |
+| 18:00 | **16y97**: Ride-A-Pet Potion | **nastysa14888**: Vanilla Penguin |
+| 18:00 | **xluvvmel**: Tree Kangaroo (MFR), Puffer Fish (MFR), Sushi Penguin (MFR), White Amazon (MFR), Frostbite Cub (MR) | **Inphluens**: Glormy Leo (MFR), Glormy Hound (MFR) |
+| 18:00 | **xlorkaa7**: Dracula Parrot (N) | **layla_Marie456**: Ride-A-Pet Potion |
+| 18:00 | **xMateoX2009XproX**: Candicorn (MFR) | **EricCasper**: Balloon Unicorn (FR) |
+| 18:00 | **yanchik0067**: Owl (FR) | **youngestxd**: Candyfloss Chick (FR) ×2, Siamese Cat, Lion Cub (R), Goat (R), Turtle (NFR), Cow (FR) ×2, Cupid Dragon (FR), Munchkin Cat (FR), Ride-A-Pet Potion |
+| 18:00 | **elitro44**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **Kikidiyu**: Copycat |
+| 18:00 | **klelopokjh**: Chocolate Dutch Guinea Pig (N), Husky (FR), Dango Penguins, Harp Seal (N) | **Hasiiiiiiiiiiiii**: Elephant (FR), Clumpty (M) |
+| 18:00 | **littlefelonies**: Ride-A-Pet Potion ×2 | **xMoon_289**: Llamalush Purse Pet, Chick Backpack, Burger Bun Hat, Eaten Donut, Flying Fairy, Cheesecake Hat, Love Letter, Gold Tiara, Gold Circle Glasses, Bunch Of Balloons |
+| 18:00 | **zoommbbeee**: Toucan (M) | **Flordecampo91**: Ride-A-Pet Potion |
+| 18:00 | **lisa_80517**: Cherry Blossom Flower Sticker ×3, Cherry Blossom Tree Sticker ×14 | **YuroMiyuk1**: Jacobin Pigeon (M) |
+| 18:00 | **iaMatthieu1**: Goose | **rainbown758**: Candicorn, Fly-A-Pet Potion, Crocodile (FR) |
 | 17:55 | **iaMatthieu1**: Cow (FR), Ride-A-Pet Potion | **Taseli934**: Candicorn (FR), Candicorn |
-| 17:55 | **cya_adoptmechallange**: Pink Cat (R) | **obriganhik_l**: Fly-A-Pet Potion ×4 |
-| 17:55 | **elitro44**: Fly-A-Pet Potion ×3 | **odading12318**: Arctic Dusk Dragon |
-| 17:55 | **AbstrackDarck**: Fairy Bat Dragon (FR) | **juegolucer033**: Ballet Swan (R), Latte Kitsune (R), Hare (R), Alley Cat (R), Kookaburra (R), Majestic Pony, Copycat (FR) |
-| 17:55 | **justunujede123**: Sandwich Hat, Bready Necklace | **M1cahsWRLD**: Ride-A-Pet Potion ×2 |
-| 17:55 | **ABOBUS_CATME**: Cupid Dragon (NFR) | **Alex_ShatUp**: Cow (FR) |
-| 17:55 | **Haiifromamvgg**: Spring Bunny Feet, Banana Hat, Bready Necklace, Invisible Wings, Australian Kelpie (M), Slug (M), Show Pony (MR) | **zKxUcZzYxAc**: Chimera (MFR) |
-| 17:55 | **Rqs1ee**: Balloon Unicorn (FR), Pig (NFR), Happy Duckling (MFR), Rain Cloud Hat, Tiny Wings | **ezgizemfan23**: Cow (MFR) |
-| 17:55 | **proY74633**: Copycat (R) | **inome_l**: Arctic Fox (R) |
-| 17:55 | **SnowChannel_yt**: Halo | **ChristinaClaraAva**: 2022 Birthday Confetti Cannon, Alpaca |
-| 17:55 | **xxpiratekillxx**: Hot Doggo (FR), Jester Dragon (NFR), 2022 Birthday Cupcake Shoes | **KanskjeMatilde**: Fairy Bat Dragon (NFR) |
-| 17:55 | **gondown29096**: Fly-A-Pet Potion ×11 | **foovva**: Turtle (FR) |
-| 17:55 | **Kiandra13kiandra**: Bat Dragon (FR) | **pinponkgoku2**: Copycat (MFR) ×4, Giant Panda (FR), Jester Dragon (M), Hammerhead Shark (M), Cotton Candy Hat |
-| 17:55 | **4E2104**: Red Dutch Guinea Pig | **littlefelonies**: Koi Carp (N), Water Moon Bear (N), Black Moon Bear (N) |
-| 17:55 | **brookxx44**: Balloon Unicorn (FR) | **6isHUNGRY**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Jester Dragon (NFR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
