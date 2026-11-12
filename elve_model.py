@@ -2,7 +2,7 @@
 using only Elvebredd's own change log (no AMVGG, no trades yet).
 
     python elve_model.py            # build the panel, run the walk-forward test, write results/elve_model.md
-    python elve_model.py ads        # same test on the months that have trade ads, with and without the ad features
+    python elve_model.py ads        # same test on the months that have offers (trade listings), with and without the offer features
                                     # (ad_features.py) -> results/ads_model.md
     python elve_model.py ads 3      # only the last 3 test months (quick check)
     python elve_model.py events [N] # same, with and without game-update features from playadopt.me/news
@@ -213,7 +213,7 @@ def walk_forward(df, feature_sets=None, last=None):
         for suffix, feats in feature_sets.items():
             Xtr, Xte = train[feats], test[feats]
             models = {
-                # the linear model can't take gaps (ad features are empty before a site's ads begin): 0 = "average"
+                # the linear model can't take gaps (offer features are empty before a site's offers begin): 0 = "average"
                 "logistic regression": (make_pipeline(StandardScaler(), LogisticRegression(max_iter=300, C=0.5)), True),
                 # boosting handles missing values itself, so "no ad data" stays distinct from "zero demand"
                 "gradient boosting": (boosting(), False),
@@ -243,7 +243,7 @@ def main():
         base = [c for c in df.columns if c not in NOT_FEATURES]
         if mode == "ads":
             from ad_features import ad_features
-            X, on, label = ad_features(V.index, pets), ["day", "name", "kind"], "trade-ad"
+            X, on, label = ad_features(V.index, pets), ["day", "name", "kind"], "offer"
         else:
             from event_features import event_features
             X, on, label = event_features(V.index, pets), ["day", "name"], "game-update (news)"
@@ -253,7 +253,7 @@ def main():
         df = df[df.day >= start]
         print(f"{mode} features from {start.date()}: {len(df):,} rows, coverage "
               + ", ".join(f"{c} {df[c].notna().mean():.0%}" for c in cols), flush=True)
-        res, (coef, feats) = walk_forward(df, {"": base, f" + {mode}": base + cols}, last)
+        res, (coef, feats) = walk_forward(df, {"": base, " + " + {"ads": "offers"}.get(mode, mode): base + cols}, last)
         out, title = f"{mode}_model", f"Elve model with {label} features"
     else:
         res, (coef, feats) = walk_forward(df, last=last)

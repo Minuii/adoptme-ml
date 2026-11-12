@@ -145,7 +145,7 @@ tr.tot td { font-weight: 600; border-bottom: 0; }
 .cmpadd { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 .btn { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 6px 12px; min-height: 36px; cursor: pointer; }
 .btn:hover { background: var(--hover); }
-/* trade ads */
+/* offers */
 .adlist { display: flex; flex-direction: column; gap: 10px; }
 .ad { background: var(--panel); border: 1px solid var(--line); border-radius: var(--r); padding: 12px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
 .adhead, .adfoot { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 12px; color: var(--muted); }
@@ -182,7 +182,7 @@ footer a { color: var(--muted); }
     <button class="tab" role="tab" data-tab="list">Values</button>
     <button class="tab" role="tab" data-tab="updates">Value changes</button>
     <button class="tab" role="tab" data-tab="compare">Compare</button>
-    <button class="tab" role="tab" data-tab="ads">Trade ads</button>
+    <button class="tab" role="tab" data-tab="ads">Offers</button>
     <button class="tab" role="tab" data-tab="stats">Stats</button>
   </nav>
 
@@ -232,7 +232,7 @@ footer a { color: var(--muted); }
     <div class="status"><span id="adcount" aria-live="polite">Loading…</span><span id="adwhen"></span></div>
     <div class="adlist" id="adlist"></div>
     <button class="more" id="admore" hidden>Show more</button>
-    <p class="note">The newest ads from the AMVGG and Elvebredd trade centres. They're collected every 15 minutes, and this page refreshes every hour. Trader names are left out. "Offering" is what the poster gives; "Wants" is what they ask for. Values come from the list you pick. If that list doesn't carry an item, or the ad asks for something like "Add", the ad can't be valued.</p>
+    <p class="note">The newest offers (trade listings) from the AMVGG and Elvebredd trade centres. They're collected every 15 minutes, and this page refreshes every hour. Trader names are left out. "Offering" is what the poster gives; "Wants" is what they ask for. Values come from the list you pick. If that list doesn't carry an item, or the offer asks for something like "Add", the offer can't be valued.</p>
   </section>
 
   <section class="page" id="stats" hidden>
@@ -691,7 +691,7 @@ function cmpChart(el, all, s) {
     .on("pointerleave", () => { guide.attr("visibility", "hidden"); show(); });
 }
 
-// ---- Trade ads tab (site/ads.json) ----
+// ---- Offers tab (site/ads.json) ----
 let ADS, adShown = 0, adCurrent = [];
 const tagKey = b => `${b.includes("M") ? "m" : b.includes("N") ? "n" : "r"}-${potOf(b.includes("F"), b.includes("R"))}`;
 function tokInfo(i) {
@@ -753,7 +753,7 @@ function adCard(ad) {
 async function drawAds(reset = true) {
   if (!ADS) {
     try { ADS = await fetch("ads.json").then(r => r.json()); }
-    catch { $("#adcount").textContent = "Couldn't load the trade ads. Try refreshing."; return; }
+    catch { $("#adcount").textContent = "Couldn't load the offers. Try refreshing."; return; }
     if (S.tab !== "ads" || S.item) return;
   }
   if (reset) { adShown = 0; adCurrent = adList(); $("#adlist").replaceChildren(); }
@@ -761,8 +761,8 @@ async function drawAds(reset = true) {
   $("#adlist").append(...next.map(adCard));
   adShown += next.length;
   $("#admore").hidden = adShown >= adCurrent.length;
-  $("#adcount").textContent = adCurrent.length ? `${adCurrent.length.toLocaleString()} ads` + (S.asort !== "new" ? ` that can be valued on ${SRC[S.al]}` : "") : "No ads match these filters.";
-  $("#adwhen").textContent = ADS.ads.length ? `Newest ad ${ago(ADS.ads[0][1])} · ${ADS.ads.length.toLocaleString()} ads loaded` : "";
+  $("#adcount").textContent = adCurrent.length ? `${adCurrent.length.toLocaleString()} offers` + (S.asort !== "new" ? ` that can be valued on ${SRC[S.al]}` : "") : "No offers match these filters.";
+  $("#adwhen").textContent = ADS.ads.length ? `Newest offer ${ago(ADS.ads[0][1])} · ${ADS.ads.length.toLocaleString()} offers loaded` : "";
 }
 
 // ---- controls ----

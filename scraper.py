@@ -324,7 +324,7 @@ def write_stats():
     out = [f"# Collected data\n\n_Updated {now():%Y-%m-%d %H:%M} UTC by the scrape workflow._\n",
            "## Value snapshots\n", "| Source | Snapshots | First | Latest |", "|---|---|---|---|"]
     out += [f"| {s} | {len(f)} | {f[0].name[:16] if f else '-'} | {f[-1].name[:16] if f else '-'} |" for s, f in snaps.items()]
-    out += ["\n## Trade ads collected by the bot\n", "| Source | Days | Ads today + yesterday | Newest ad |", "|---|---|---|---|"]
+    out += ["\n## Offers (trade listings) collected by the bot\n", "| Source | Days | Offers today + yesterday | Newest offer |", "|---|---|---|---|"]
     for src in ("amvgg", "elve"):
         days = [d for d in (DATA / "ads" / src).glob("20*") if d.is_dir()]
         recent = recent_ads(src)
