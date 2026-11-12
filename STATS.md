@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 20:01 UTC by the scrape workflow._
+_Updated 2026-11-12 20:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,32 +16,32 @@ _Updated 2026-11-12 20:01 UTC by the scrape workflow._
 | amvgg | 2 | 29,950 | 2026-11-12T20:00 |
 | elve | 2 | 6,089 | 2026-11-12T20:01 |
 
-## AMVGG completed trades: 5,177 total
+## AMVGG completed trades: 5,209 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,086 |
+| 2026-11-12 | 3,118 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:00 | **Klik_Kuromi**: Angel Wings | **sleepy_s0ren**: Turtle (FR), Ride-A-Pet Potion ×5 |
-| 20:00 | **Itsjustthevibez**: Ride-A-Pet Potion ×2, Cow Calf | **nastya_lera7**: Alley Cat |
-| 20:00 | **Maryha0243**: Fly-A-Pet Potion ×5 | **gffdjddd23_4**: Mecha Meow (MR) |
-| 20:00 | **OJC_Star45**: Ride-A-Pet Potion ×2 | **shn_nq1**: Stray Cat Dragon ×18 |
-| 20:00 | **Blue_PinkPL**: Arctic Reindeer (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **MacarronCheese**: Strawberry Shortcake Bat Dragon (NFR) |
-| 20:00 | **xf4wnskull**: Spring Bunny Hood, Cotton Candy Hat | **swatter1inc**: Clover Cow (M) |
-| 20:00 | **Loveflowers871**: Balloon Unicorn (FR), African Wild Dog, Toaster Hat | **cuu**: Sugar Glider (MFR) |
-| 20:00 | **malena323050**: Thunderfisher ×4 | **Unicorn_lovers966**: Count Slothula |
-| 20:00 | **luna2028192**: Panda (MFR), Dango Penguins | **mommy_vka123**: Unicorn Horn |
-| 20:00 | **jaljoha**: Capricorn (FR) | **12qwertyuiopppp12**: Tree Kangaroo |
-| 20:00 | **bnnysiie**: Ride-A-Pet Potion ×4, Ancient Dragon (NR) | **Zenx7zz**: Kappakid (M) |
-| 20:00 | **Amberx_20150**: Unicorn (MFR) | **daanz2**: Bunny Swirl (MFR), Fly-A-Pet Potion ×2 |
-| 20:00 | **Joelzoz**: Jester Dragon (FR) | **flears_brai**: Stray Cat Dragon (M) ×3 |
-| 20:00 | **Yomi040605**: Siamese Cat (R) | **Jok_a2**: Kangaroo (FR) |
-| 20:00 | **aleks2u**: Polar Bear (NR), Frost Fury (FR), Narwhal (MR) | **girlbyegirl12**: Turtle (FR) |
+| 20:10 | **stef070700**: Cherry-On-Top, Matcha Cat | **ItsNickk310**: Kangaroo (NFR) |
+| 20:10 | **21canyoudosfm**: Arctic Dusk Dragon, Frankenfeline (M) | **flears_brai**: Stitches (M) ×3 |
+| 20:10 | **Ds_MUVE**: Stitches (N), Popsicle Stroller, Electric Hornet | **Alaska_rdx**: Ride-A-Pet Potion, Ant (M) |
+| 20:10 | **1TSSEF**: Rainbow Stroller, King Bee (NFR), Pink Heart Glasses, Cattuccino (N), Pain au Chat, White Chef Hat, Halloween White Skull Hat | **illycecy**: Pig |
+| 20:10 | **stefkazzz**: Water Rabbit (MFR), Ride-A-Pet Potion, Corgi (N) | **1LYLUN4A**: Kangaroo (FR) |
+| 20:10 | **RawRaw_666**: Fairytale Egg ×18 | **KaliElza123**: Diamond Unicorn |
+| 20:10 | **C4rla_WasTaken**: Count Slothula | **cowlol898**: Stray Cat Dragon ×6 |
+| 20:10 | **givinguponroblox**: Eggnog Dog (N), Thunderfisher ×2, Poodle (N) ×2 | **Nugget_Courtnee**: Sunrise Hang Glider |
+| 20:10 | **D8RYY**: Balloon Unicorn (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **b4bym0nst3r_b4by**: Crow (FR) |
+| 20:10 | **Add_yummygummi12**: Christmas Pudding Pup | **iMaL_S3R**: Happy Duckling (MFR) |
+| 20:10 | **evidencz**: Leviathan (NFR), Count Slothula (N), Burger Bear (N), Latte Kitsune (FR) | **Millka666000**: Haetyphoon |
+| 20:10 | **fluses_sss**: Kiwi Kiwi, Alicorn ×3, Quetzalcoatl, Chihuahua, Golden Dragon | **Kimyeonii**: Ride-A-Pet Potion |
+| 20:10 | **Junoawq**: Dango Penguins (MFR), Ride-A-Pet Potion | **qtxbunni**: Candicorn (NFR) |
+| 20:10 | **Brainrot_rebird**: Winged Tiger (MFR), Cherry-On-Top | **zeejnaa**: Frost Dragon (FR) |
+| 20:10 | **Vitek_228666**: Sakura Spirit (R) | **gffdjddd23_4**: Fly-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
