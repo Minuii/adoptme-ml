@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 21:11 UTC by the scrape workflow._
+_Updated 2026-11-12 21:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 21:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 2 | 30,918 | 2026-11-12T21:00 |
-| elve | 2 | 6,274 | 2026-11-12T21:01 |
+| amvgg | 2 | 31,162 | 2026-11-12T21:15 |
+| elve | 2 | 6,336 | 2026-11-12T21:16 |
 
-## AMVGG completed trades: 5,373 total
+## AMVGG completed trades: 5,385 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 3,282 |
+| 2026-11-12 | 3,294 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:15 | **ALOXHAXE11AX0**: Burger Bear (M) | **ki_ra201345**: Cerberus (NFR), Chocolate Dutch Guinea Pig |
+| 21:15 | **nikaking89**: Frost Fury (FR) | **Piggyrocket09**: Jester Dragon |
+| 21:15 | **Furryinreallaif**: Crow (FR) | **icaro_off99999**: Siamese Cat (MFR) |
+| 21:15 | **vanillybunni**: Frost Dragon (FR) | **candi1222255**: Cow (MFR), Dalmatian (FR) |
+| 21:15 | **Bunnibunnibunni_11**: Sugar Glider (R), Arctic Fox (R), Scarebear, Bat (MR) | **sona6839**: Goose (R) |
+| 21:15 | **cute_bunny123456p**: Toasty Red Panda (MFR), 2022 Birthday Cupcake Shoes, Black Panther (MFR), Tuxedo Cat (MFR) | **Idkwho_amIrll**: Wood Pigeon (MFR), Silly Duck (MFR) |
+| 21:15 | **AKI10PLAY**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **alina25_9**: Copycat |
+| 21:15 | **XMiss_MusicX**: Latte Kitsune (N), Dragonfruit Fox (NR), Snow Owl (R) | **xf4wnskull**: Clover Cow (M) ×2, Octopus (NR), Rosy Maple Moth (NFR), Bubblegeist (N), Icy Porcupine (N), Ice Cream Cone Hat |
+| 21:15 | **aina_najwa1223**: Kangaroo (R) | **AmvggPi0n41K**: Haetyphoon |
+| 21:15 | **xilqqx**: Ride-A-Pet Potion ×5 | **1149218432174291381**: Ermine (MFR) |
+| 21:15 | **i8tadori**: Rain Cloud Hat | **blake_shortie**: Seagull Yell Animated Sticker |
+| 21:15 | **SYAS12056iop**: Biodome Home | **l1kos4ks**: Ride-A-Pet Potion ×4 |
 | 21:06 | **xf4wnskull**: Strawberry Shortcake Bat Dragon (NFR), Grim Dragon (FR) | **Supermazitom**: Sakura Spirit (MFR) |
 | 21:06 | **luvyerh**: Chocolate Chip Bat Dragon (FR), Ancient Dragon (FR) | **mommy_vka123**: Elephant (FR), Elephant (R), Crocodile (FR), Crocodile (R) |
 | 21:06 | **AmvggPi0n41K**: Tri-horned Treehopper (FR), Irish Water Spaniel (R), Many Mackerel | **holixd489632**: Haetyphoon |
-| 21:06 | **OBDYL011**: Pink Cat (NFR), Ghost Dog (M) | **Swan_Couture**: Peppermint Penguin (FR), Spring Bunny Hood, Spring Bunny Feet |
-| 21:06 | **jilucie2010**: Unicorn (N), Lava Dragon (FR), Mighty Haetyphoon Animated Sticker, General Sheepdog | **Omar2002548**: Bunny Swirl (M) |
-| 21:06 | **AccountMadeIn20242**: Owl (FR), Hedgehog (FR), Glacier Kitsune (MFR) | **HateToSeeYouComming**: Mini Pig (MFR) |
-| 21:06 | **Ranitaisback**: Ride-A-Pet Potion ×2, Cattuccino (N) | **oxoglockz**: Alley Cat |
-| 21:06 | **Wxndxrxt**: Ride-A-Pet Potion, Golden Unicorn | **Beeshrxxms**: Crystal Egg ×18 |
-| 21:06 | **Alisjdfhh**: Fairy Bat Dragon (FR) | **heyimpetra**: Werewolf (FR), Halloween Black Axe Guitar Accessory, Ride-A-Pet Potion, Rain Boots, Banana Hat, Golden Penguin (FR) |
-| 21:06 | **prettvlie**: Polar Bear (NFR) | **Maryha0243**: Mecha Meow (MR), Clover Cow (NR), Fly-A-Pet Potion |
-| 21:06 | **Schnuppelchen_24**: Siamese Cat, Winged Tiger (FR), Zombie Wolf (NR), Reindeer (R), Unicorn (NFR), Chihuahua (M), Quokka (NR), Dugong (MR), Happy Duckling (NFR), Pretty Pony (NR), Spring Bunny Nose, Spring Bunny Hood, Harp Seal (MFR), Shrew (R), Red Fox (NR), Gorilla (MR), Cattuccino (M), Dire Wolf (MFR) | **orchidbutterfliess**: Cryptid |
-| 21:06 | **kittiecandisoph**: Fly-A-Pet Potion ×5 | **CIU2004**: Ride-A-Pet Potion ×9 |
-| 21:06 | **Helper_dod**: Frost Fury (FR) | **KTO_KAKBPO**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 21:06 | **monewoo99**: Hedgehog (R) | **tiliribanani**: Copycat (NFR), Copycat (NR), Jester Dragon (FR), Burger Bear (MFR) |
-| 21:06 | **tiliribanani**: Strawberry Tortle (FR), Copycat | **9_v51**: Copycat (NFR), Jester Dragon (FR) |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
