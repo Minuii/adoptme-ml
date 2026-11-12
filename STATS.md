@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-12 07:16 UTC by the scrape workflow._
+_Updated 2026-11-12 07:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,35 +13,35 @@ _Updated 2026-11-12 07:16 UTC by the scrape workflow._
 
 | Source | Days | Ads today + yesterday | Newest ad |
 |---|---|---|---|
-| amvgg | 2 | 17,974 | 2026-11-12T07:15 |
-| elve | 2 | 3,603 | 2026-11-12T07:16 |
+| amvgg | 2 | 18,201 | 2026-11-12T07:30 |
+| elve | 2 | 3,653 | 2026-11-12T07:31 |
 
-## AMVGG completed trades: 2,997 total
+## AMVGG completed trades: 3,021 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-12 | 906 |
+| 2026-11-12 | 930 |
 | 2026-11-11 | 2,091 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:15 | **Daniel11122255**: Pet Handler Pro Certificate | **starneverlandsAlt**: Ride-A-Pet Potion ×2 |
-| 07:15 | **pooepieface**: Stitches (N) ×2 | **bbyk1ttypawz**: Ride-A-Pet Potion |
-| 07:15 | **1264Foxs**: Candyfloss Chick (NFR) | **BarbieDaisy6**: Border Collie (NFR), Hare (N) |
-| 07:15 | **bakedkole**: Chocolate Chip Bat Dragon (NFR), Jester Dragon | **natixezq**: Crow (FR) |
-| 07:15 | **Vonuchui_Nosok**: Ride-A-Pet Potion ×7, Fly-A-Pet Potion | **Neoglimmer**: Munchkin Cat |
-| 07:15 | **Shutupame**: Dalmatian (MFR), Arctic Reindeer (NFR), Siamese Cat (MFR), Munchkin Cat (MFR), Owlbear (MFR) | **headaddisonraestan**: Giant Panda (NFR), Shadow Dragon (FR), Rain Cloud Hat |
-| 07:15 | **yuri_dragon32**: Evil Unicorn (R), Chick (N) | **prorabik_krytou**: Phantom Dragon (MFR), Munchkin Cat |
-| 07:15 | **Kui_Yeager**: Ride-A-Pet Potion ×16 | **chaeegirlff**: Siamese Cat |
-| 07:15 | **bloody_unicorn1516**: Mini Pig (R), Rain Cloud Hat, Christmas Pudding Pup | **paulcantrizz**: Bush Elephant (NFR) |
-| 07:15 | **adorxlxo**: Chocolate Chip Bat Dragon (FR), Cabbit (R), Alpaca (NFR), Alpaca, Bush Elephant (MFR), Royal Palace Spaniel (MFR) | **m4rshalI**: Giraffe (FR) |
-| 07:15 | **ithinkwemaybe**: Mini Pig (MFR), Caterpillar (MFR), Siamese Cat (MFR), Pirate Ghost Capuchin Monkey (M), Christmas Pudding Pup (MFR), Munchkin Cat (MFR), Shrew (MFR), Goat (MFR), Arctic Fox (MFR), Dalmatian, Slime (MFR), Cow, White Amazon (MFR) | **m4rshalI**: Haetae (MFR) |
-| 07:15 | **Laurabearsxo**: Flash Weasel | **m4rshalI**: Snowball Pet (MFR) |
-| 07:15 | **q_culvs**: Unicorn (MFR) ×3, Tiny Wings, Pain au Chat (M), Chocolate Dutch Guinea Pig (MFR), Black Springer Spaniel (MFR) | **monewoo99**: Goat (MFR) |
-| 07:15 | **AltAcount630Brook**: Zombie Wolf (R) | **herfaklo**: Ride-A-Pet Potion |
-| 07:15 | **Gwen0m8**: Cryptid | **Tal_Kazman**: Dalmatian (FR), Cow (FR) |
+| 07:30 | **comeonhappiy**: Goose (NFR), Bready Necklace | **isains12**: Unicorn Horn ×2, 2022 Birthday Party Hat, Toaster Hat, Tiny Wings |
+| 07:30 | **Alyssaok_2000**: Halloween Evil Dachshund (MR) | **Evxlutionary**: Jester Dragon |
+| 07:30 | **hood_11uwu**: Snow Monkey ×2, Husky, Majestic Pony, Chocolate Dutch Guinea Pig, Moon Rabbit, Tuxedo Cat | **gthstnr**: Crocodile |
+| 07:30 | **FlyToTheSaturn**: Sock Chew Toy, Reindeer Plush, Polar Bear Plush, Marsh Plush, Horse Plush, Heart Balloon, Gift Throw Toy, Elf Plush, Cookie Dough Plush ×3, Candle | **lkmsdfw**: Fly-A-Pet Potion |
+| 07:30 | **gattitakawaii16**: Latte Kitsune (R), Scarebear (R), Chihuahua (N), Ice Cream Hermit Crab, Clementine Owl (N) | **pysugwysu**: Munchkin Cat |
+| 07:30 | **Ghostkittyin**: Chocolate Dutch Guinea Pig | **ChillerTyr**: White Chef Hat |
+| 07:30 | **xBellaCupcakex**: Peppermint Penguin (FR), Ice Cream Cone Hat | **jiggle_wiggle132**: Mini Pig (FR) |
+| 07:30 | **ridereaglerogueyt**: Dragonfly ×14 | **Kxxxkx782**: Ride-A-Pet Potion |
+| 07:30 | **Ffaa_bom**: Unicorn Horn ×2, Ring-Tailed Lemur | **Mitsuri_Chan0w**: Dango Penguins (MFR) |
+| 07:30 | **Z1NCHES**: Arctic Reindeer (FR), Ride-A-Pet Potion ×9 | **Yizukixx**: Dalmatian (FR) |
+| 07:30 | **LoriDreamy123**: Phoenix (NR) | **MAHDAPNH405**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 |
+| 07:30 | **ophyns**: Copycat (R), Copycat, Dango Penguins | **yeagsr**: Kangaroo (FR) |
+| 07:30 | **Starlightstarzz**: Candyfloss Chick (FR), Slime (MFR), Unicorn (MFR), Shrew (R), Giant Anteater, Brown Bear (NFR), Pig (R) | **Tal_Kazman**: Evil Unicorn (FR) |
+| 07:30 | **qkrbed**: Parrot (NFR) | **exotic_plot**: Parrot (FR), Giant Panda (FR) |
+| 07:30 | **Certifiedbwunnii**: 2022 Birthday Cupcake Shoes, Ice Cream Cone Hat | **Tal_Kazman**: 2022 Birthday Party Hat |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
