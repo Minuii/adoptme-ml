@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 03:25 UTC by the scrape workflow._
+_Updated 2026-11-13 03:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 03:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 26,044 | 2026-11-13T03:15 |
-| elve | 3 | 5,265 | 2026-11-13T03:16 |
+| amvgg | 3 | 26,258 | 2026-11-13T03:30 |
+| elve | 3 | 5,323 | 2026-11-13T03:31 |
 
-## AMVGG completed trades: 6,238 total
+## AMVGG completed trades: 6,249 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 405 |
+| 2026-11-13 | 416 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 03:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:30 | **mxrgan66**: Dango Penguins, Dragonfruit Fox | **Duanny4576**: Ballet Swan |
+| 03:30 | **landenc9970i**: Black Springer Spaniel ×3, Great Pyrenees, Gecko, Robin (FR) | **mxrgan66**: Ride-A-Pet Potion ×4 |
+| 03:30 | **Alshxh21**: Evil Unicorn (R), Siamese Cat (NR), Spring Bunny Feet ×2 | **GxmerOfficial**: Crow (FR) |
+| 03:30 | **Giodg2006**: Owlbear (NFR) | **liddysadm**: Owlbear (N) |
+| 03:30 | **RxchelPlxyz**: Mini Pig (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Shooting Star Board | **Seiyakung_TV**: Turtle (NFR) |
+| 03:30 | **donnotinteract**: Copycat (NR), Tiny Wings, Ride-A-Pet Potion | **mygrandpasleftoe**: Chocolate Dutch Guinea Pig (MFR), Hare (N) |
+| 03:30 | **thnkabtkent**: Frostbite Bear (R) | **Sove_1111**: Flash Weasel |
+| 03:30 | **b_cwx**: Peppermint Penguin (FR), Polar Bear (NFR), German Shepherd (MFR) | **gthstnr**: Jousting Horse (MFR) |
+| 03:30 | **cutekitty82467**: Giant Panda, Unicorn Horn, Mini Pig (FR), Cow (NFR), Spring Bunny Hood, Shark Puppy (N), Turtle (FR), Mermicorn, Hare (NR) | **CadenChallenges**: Giraffe (FR) |
+| 03:30 | **Floppybunny_4662**: Strawberry Shortcake Bat Dragon (FR), Copycat | **carolzinhac2009**: Arctic Reindeer (FR), Unicorn |
+| 03:30 | **Lpoopbxhe**: Werewolf (NFR), Crocodile (NFR), Sugar Axolotl (FR) | **ThatOneUnpaid_Intern**: Arctic Fox (MFR) |
 | 03:25 | **Mitsuri_Chan0w**: Frost Dragon (FR), Cow (FR) | **nokia23pop**: Cabbit (MFR) |
 | 03:25 | **Kingfam90**: Sakura Spirit (FR) | **theking_56yt**: Pink Cat (FR) |
 | 03:25 | **AutoTradeCommission**: Cow (FR), Fly-A-Pet Potion | **xTvnee**: Wood Pigeon (MFR) |
 | 03:25 | **corbin374**: Rain Cloud Hat, Spring Bunny Hood, Tiny Wings ×2 | **violencesoul**: Candy Cane Snail (MFR), Snowball Pug (MFR), Raccoon (MFR), Raccoon (MR), Latte Kitsune, Ballet Swan |
-| 03:25 | **CUP1DSFRI3ND**: Pet Handler Pro Certificate ×5 | **ajoloteflac1900**: Black Macaque (M) |
-| 03:25 | **Cat_mono**: Fly-A-Pet Potion | **UnU_Darina1**: Paint Sealer ×10 |
-| 03:25 | **corbin374**: Fly-A-Pet Potion | **NariMarryMee**: Red Cardinal (NFR) |
-| 03:21 | **violencesoul**: Water Rabbit (MR), Albino Bat (MR), Ride-A-Pet Potion | **Ems090311**: Unicorn Horn, Black Kite (M), Tealwood Monster (M) |
-| 03:21 | **evxniicsvv**: Rose Dragon (MFR), Majestic Pony (MFR), Giant Gold Scarab (NFR), Tuxedo Cat (N) | **Andres_agent**: Cheetah (MFR), Green Butterfly (MFR), Husky (MR), Spinosaurus (M) |
-| 03:15 | **Redpyid**: Ride-A-Pet Potion | **enchantedxmira**: Stitches ×9 |
-| 03:15 | **ContentOtter9075**: 2022 Birthday Party Hat, Ice Cream Cone Hat | **ajoloteflac1900**: Fairy Bat Dragon (FR) |
-| 03:15 | **waterfalldani2**: Strawberry Shortcake Bat Dragon (FR), Alley Cat (MFR), Ice Cream Heels, Magic House Door, Pink Hightops, Pancake Stack, Amethyst Skies Mega Neon Paint | **Luxuriousnights**: Cryptid (FR) |
-| 03:15 | **gthstnr**: Pet Handler Pro Certificate | **The_JuJubee13**: Ice Cream Hermit Crab |
-| 03:15 | **OBVIXALIX**: Monkey King (NFR) | **disapp6ar**: Jester Dragon (MFR) |
-| 03:15 | **lkmsdfw**: Fly-A-Pet Potion | **Jimmyfish350**: Diamond Unicorn, Rock (N) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
