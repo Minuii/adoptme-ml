@@ -93,9 +93,65 @@ for c in sorted(gg_upd, key=lambda c: c["updatedAt"]):
         if v and c.get(f"new{col}Value") is not None:
             add(k, "A", v, c["updatedAt"][:16], num(c.get(f"previous{col}Value")), num(c[f"new{col}Value"]))
 
+
+
+# ---- Own observations: value history from this site's own snapshots of both lists (since 2026-11-11) ----
+# The change logs miss a lot: Elvebredd never logs fly-only / ride-only values and logs no-potion unreliably; AMVGG only
+# logs fly ride, and its log starts 2026-06-02. Where a variant's logged history doesn't end at today's value (the site's
+# own test, 0.5%), the item page charts what the snapshots saw instead: a first point at the first snapshot, then a point
+# at every snapshot where the value changed. Snapshots are only written when a list changes, so this is complete.
+def complete(h, now):
+    return bool(h) and now is not None and abs(h[-1][1] - now) <= now * .005
+
+
+def snapshot_values(source):
+    """[(time "YYYY-MM-DDTHH:MM", {item key: {variant: value}})] for every snapshot file, oldest first."""
+    out_ = []
+    for f in sorted((DATA / "values" / source).glob("*.json.gz")):
+        t = f"{f.name[:13]}:{f.name[13:15]}"
+        vals = {}
+        for i in json.loads(gzip.decompress(f.read_bytes())):
+            if source == "elve":
+                k = elve_id.get(i.get("id"))
+                if k is None:
+                    continue
+                v = {x: num(i.get(c)) for x, c in ELVE_SNAP.items()} if i.get("type") == "pets" else {"v": num(i.get("value") or i.get("rvalue"))}
+            else:
+                k = key(i["name"])
+                pet = i.get("kind", "pets") == "pets"
+                v = {x: num(y) for x, y in amvgg_variants(i, gg_coef).items()} if pet else {"v": num(i.get("value"))}
+            vals[k] = {x: y for x, y in v.items() if y}
+        out_.append((t, vals))
+    return out_
+
+
+n_obs = 0
+for src, source in (("E", "elve"), ("A", "amvgg")):
+    for t, vals in snapshot_values(source):
+        for k, v in vals.items():
+            it = items.get(k)
+            if not it:
+                continue
+            obs = it.setdefault("obs", {}).setdefault(src, {})
+            for var, val in v.items():
+                h = obs.setdefault(var, [])
+                if not h or h[-1][1] != val:
+                    h.append([t, val])
+for it in items.values():  # keep observations only where the logs fall short
+    for src, obs in list(it.get("obs", {}).items()):
+        for var in [v for v in obs if complete(it["hist"][src].get(v), it[src].get(v)) or it[src].get(v) is None]:
+            del obs[var]
+        if not obs:
+            del it["obs"][src]
+        n_obs += len(obs)
+    if not it.get("obs"):
+        it.pop("obs", None)
+first_obs = min((h[0][0] for it in items.values() for o in it.get("obs", {}).values() for h in o.values()), default="")
+print(n_obs, "item variants charted from own snapshots (first", first_obs + ")")
+
 out = [it for it in items.values() if it["E"] or it["A"]]
 SITE.mkdir(exist_ok=True)
-(SITE / "data.json").write_text(json.dumps({"elve_at": elve_at, "amvgg_at": gg_at, "items": out},
+(SITE / "data.json").write_text(json.dumps({"elve_at": elve_at, "amvgg_at": gg_at, "obs_from": first_obs, "items": out},
                                            separators=(",", ":")), encoding="utf-8")
 print(len(out), "items,", sum(bool(i["A"]) for i in out), "on AMVGG,", sum(bool(i["E"]) for i in out), "on Elvebredd,",
       round((SITE / "data.json").stat().st_size / 1e6, 2), "MB")

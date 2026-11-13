@@ -695,7 +695,9 @@ function frame(el, H, yDomain, xDomain, yFmt, xFmt, log = false) {
   return { svg, x, y, W, H, m, show: tipper(el) };
 }
 function historyChart(el, it, s) {
-  const k = vkey(it), hst = it.hist[s][k], now = value(it, s, k);
+  const k = vkey(it), now = value(it, s, k), logged = it.hist[s][k];
+  // the change log falls short for this variant: chart what this site's own snapshots saw instead (build_site.py)
+  const own = !complete(logged, now) && (it.obs?.[s]?.[k] || []).length > 0, hst = own ? it.obs[s][k] : logged;
   if (!complete(hst, now)) {
     el.style.minHeight = "0";
     el.replaceChildren(h("p", { class: "empty" }, !Object.keys(it[s]).length ? `Not on the ${SRC[s]} list.`
@@ -732,6 +734,12 @@ function historyChart(el, it, s) {
       show(px, py, [p.now ? "Now" : d3.utcFormat("%-d %b %Y, %H:%M UTC")(p.t), `Value: ${fmt(p.v)}${pc != null ? `  (${pctTxt(pc)})` : ""}`]);
     })
     .on("pointerleave", () => { guide.attr("visibility", "hidden"); show(); });
+  if (own) el.append(h("p", { class: "note", style: "margin-top:6px" },
+    `From this site's own checks of the ${SRC[s]} list since ${dateTxt(hst[0][0])}: ` +
+    (s === "E" ? (logged?.length ? "Elvebredd's change log stopped matching this variant's value." : "Elvebredd's change log doesn't record this variant.")
+      : k === "v" || k.endsWith("-fr") ? (logged?.length ? "AMVGG's change log stopped matching this value." : "AMVGG's change log (since June 2026) has no changes for it.")
+      : "AMVGG's change log only covers fly ride values.") +
+    " It gets longer every day."));
 }
 
 // ---- Stats tab (site/stats.json) ----
