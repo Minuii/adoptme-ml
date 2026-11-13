@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 08:31 UTC by the scrape workflow._
+_Updated 2026-11-13 08:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 08:31 UTC by the scrape workflow._
 | amvgg | 3 | 30,699 | 2026-11-13T08:30 |
 | elve | 3 | 6,143 | 2026-11-13T08:31 |
 
-## AMVGG completed trades: 6,839 total
+## AMVGG completed trades: 6,868 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,006 |
+| 2026-11-13 | 1,035 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:30 | **0mgxsunnyyy**: Fly-A-Pet Potion | **jaljoha**: Tree Kangaroo |
-| 08:30 | **liofe1**: Frost Fury (FR) | **st4rrdrexmo**: Ride-A-Pet Potion ×5 |
-| 08:30 | **RiordanFan19**: Angelfish (M) | **kkaatEEe2**: Ride-A-Pet Potion |
-| 08:30 | **abdoosaad**: Fairy Bat Dragon (FR), Ride-A-Pet Potion | **vanyagames_yt**: Frostbite Cub (M), Musk Ox (M), Puptune (MR), Oakee Wizard (MFR) |
-| 08:25 | **SOFIA_GORLH**: Siamese Cat (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **odading12318**: Fairy Bat Dragon (FR) |
-| 08:25 | **liofe1**: Kangaroo (R) | **Baddie_iam**: Frost Fury (FR) ×2, Shetland Pony Dark Brown (NR), Flaming Zebra (R), Green Amazon (FR), Robin (NFR), Possum (NR), Golden Albatross, Stray Cat Dragon (N), Purrowl |
-| 08:25 | **nornomm**: Fly-A-Pet Potion, Rain Boots | **ryz2e**: Pterodactyl (MFR) |
-| 08:25 | **sjionnsch**: Munchkin Cat, Copycat, Ice Cream Hermit Crab, Lamb, Harp Seal, Tuxedo Cat, Chihuahua | **BudakBaran7**: Grim Dragon (FR) |
-| 08:25 | **Mor0rojenka**: Unicorn Horn, Spring Bunny Hood, Pink Betta Fish (M), Ram (MFR), Goth Shoes | **Gu1neaP1g_3**: Strawberry Shortcake Bat Dragon (FR) |
-| 08:25 | **egg_eggy1234**: Ride-A-Pet Potion | **tolk949**:  |
-| 08:21 | **Ilovebordercollie129**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **FlyToTheSaturn**: Pumpkin Carriage, Glass Scooter, Melon Skateboard, Wood Skateboard ×3, Black Scooter, Black Skateboard, Black Snowboard, Glass Snowboard, Pink Skateboard, White Snowboard |
-| 08:21 | **Honeymochi_oo**: Bat Dragon (NFR) | **Jay_basealters**: Owl (MFR), Vampire Dragon (MFR), Arctic Fox (MFR), Golden Ladybug (MFR), Caterpillar (R), Blue Dog, Castle Hermit Crab (MFR), 2022 Birthday Party Horn, African Wild Dog, Aurora Fox (R) |
-| 08:21 | **JHOAN123871**: Siamese Cat (R) | **leki_meow**: Candicorn (R), Cattuccino (M), Dirty Ducky (M) |
-| 08:21 | **mitskiixmywakix**: Kangaroo (FR) | **Militaryi_CorTak**: Ride-A-Pet Potion ×16 |
-| 08:21 | **galaxygurl123yay**: Unicorn (MFR), Pig (NFR) | **orchidbutterfliess**: Cow (FR) |
+| 08:40 | **Zuminkikiki**: Werewolf (R) | **AshieTheFriendly**: Candicorn (R), Golden Jaguar (N) |
+| 08:40 | **Flaptzyy_16**: Haetyphoon | **aneliqxs**: Silverback Gorilla ×2 |
+| 08:40 | **xiparo**: Munchkin Cat, Dango Penguins | **zanika_1234**: Haetyphoon |
+| 08:40 | **24681012141618202213**: Rainbow Maker, Rain Cloud Hat | **1Tinker2**: Red Dutch Guinea Pig (MFR), Ice Cream Cone Hat |
+| 08:40 | **juegolucer033**: Ride-A-Pet Potion ×3 | **Stvrlene**: Millionaire Mansion |
+| 08:40 | **valya45667iy553445**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Candyfloss Chick (FR), Albino Monkey (FR), Ride-A-Pet Potion ×9, Fly-A-Pet Potion | **abdoosaad**: Strawberry Shortcake Bat Dragon (NFR) |
+| 08:40 | **awsrrex**: Latte Kitsune | **UltimateLionMantis**: Ride-A-Pet Potion ×3 |
+| 08:40 | **Sugar_Viktoria**: Winged Tiger (FR), Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×5, Kitty Biscuit | **odading12318**: Mini Pig (FR) |
+| 08:40 | **lhfshkg**: Turtle (R), Latte Kitsune (N), Ride-A-Pet Potion ×2 | **Ilovebordercollie129**: Undead Jousting Horse (FR) |
+| 08:40 | **erditiri03**: Fly-A-Pet Potion | **unice_unicoo**: Frostclaw (NR) |
+| 08:40 | **awsrrex**: Lion (FR), Elephant (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **luvyerh**: Cow (FR) |
+| 08:40 | **dumbbboy1234**: Ox (M) | **liofe1**: Ride-A-Pet Potion |
+| 08:40 | **liofe1**: Vanilla Penguin (N) | **RealVeronnisaa**: Ride-A-Pet Potion ×4 |
+| 08:40 | **HolderHoshiKenshi**: Werewolf (FR) | **mindflaree**: Ride-A-Pet Potion ×18 |
+| 08:40 | **odading12318**: Elephant (R) | **ryz2e**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7, Rain Boots, Red Squirrel (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
