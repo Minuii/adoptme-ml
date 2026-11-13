@@ -114,6 +114,12 @@ tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 .chart text { fill: var(--muted); font-size: 11px; font-family: var(--sans); }
 .chart .domain { stroke: var(--axis); }
 .chart .grid line { stroke: var(--grid); }
+.chart svg { touch-action: pan-y; }  /* sideways drags zoom, vertical ones still scroll */
+.chart .sel { fill: var(--fg); fill-opacity: .08; stroke: var(--faint); stroke-dasharray: 3 3; }
+.section.hrbar { display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px 14px; align-items: flex-end; justify-content: flex-start; }
+.hrbar .seg button { padding: 6px 11px; }
+.hrbar input[type=date] { width: 150px; }
+.hrsum { font-size: 13px; color: var(--muted); margin: -4px 0 6px; font-variant-numeric: tabular-nums; }
 .tip { position: absolute; pointer-events: none; background: var(--tip-bg); border: 1px solid var(--line); box-shadow: var(--shadow); border-radius: 8px; padding: 6px 10px; font-size: 12px; white-space: nowrap; font-variant-numeric: tabular-nums; z-index: 2; }
 
 /* item page */
@@ -394,7 +400,7 @@ const $ = s => document.querySelector(s);
 const slug = n => n.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const DEF = { tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "", item: "",
   ca: "", cb: "", ag: "", ak: "", as: "both", av: "", ap: "", al: "A", adeal: "", amin: "", asort: "new",
-  wq: "", ws: "both", wc: "pets", wv: "", wp: "", wsort: "want" };
+  wq: "", ws: "both", wc: "pets", wv: "", wp: "", wsort: "want", hr: "" };  // hr: value-history range ("3m", "1y", "2026-01-01_2026-03-31")
 const TABS = ["list", "updates", "compare", "ads", "wanted", "stats"];
 const S = {};
 function load() {
@@ -407,7 +413,7 @@ function load() {
 }
 load();
 // the keys each view uses (other tabs' filters stay in memory, just not in the link)
-const VIEW_KEYS = { item: ["var", "pot", "src"], list: ["q", "src", "var", "pot", "cat", "rar", "dem", "sort"],
+const VIEW_KEYS = { item: ["var", "pot", "src", "hr"], list: ["q", "src", "var", "pot", "cat", "rar", "dem", "sort"],
   updates: ["q", "src", "var", "pot", "cat", "rar", "dem"], compare: ["ca", "cb"], stats: [],
   ads: ["ag", "ak", "as", "av", "ap", "al", "adeal", "amin", "asort"], wanted: ["wq", "ws", "wc", "wv", "wp", "wsort"] };
 function save() {
@@ -681,9 +687,11 @@ function drawItem() {
   const latest = h("section", { class: "section" });  // order: trading activity, value histories, then the latest trades
   const outlook = pet ? h("section", { class: "section" }) : null;
   const charts = ["E", "A"].map(s => {
-    const el = h("div", { class: "chart" });
-    return [h("section", { class: "section" }, h("h2", {}, `${SRC[s]} value history`), el, table(s)), () => historyChart(el, it, s)];
+    const el = h("div", { class: "chart" }), sum = h("div", { class: "hrsum" });
+    return [h("section", { class: "section" }, h("h2", {}, `${SRC[s]} value history`), sum, el, table(s)), () => historyChart(el, it, s, sum)];
   });
+  const rangeBar = h("section", { class: "section hrbar", "aria-label": "Value history range" });
+  const redraw = hrRedraw = () => { save(); drawRangeBar(rangeBar, redraw); charts.forEach(c => c[1]()); };
   box.replaceChildren(
     h("button", { class: "back", onclick: closeItem }, "← Back to the list"),
     h("div", { class: "itemcard" },
@@ -698,9 +706,11 @@ function drawItem() {
             `Add to side ${"AB"[n]}`))))),
     outlook,
     activity,
+    rangeBar,
     ...charts.map(c => c[0]),
     latest,
-    h("p", { class: "note" }, "The two lists use different scales, so compare an item with other items on the same list. Elvebredd's log starts in September 2023 and AMVGG's in June 2026; a few variants were changed without being logged, so their chart is hidden."));
+    h("p", { class: "note" }, "Drag across a chart to zoom in on those dates; double-click it to zoom back out. The two lists use different scales, so compare an item with other items on the same list. Elvebredd's log starts in September 2023 and AMVGG's in June 2026; a few variants were changed without being logged, so their chart is hidden."));
+  drawRangeBar(rangeBar, redraw);
   charts.forEach(c => c[1]());
   drawActivity(activity, it, latest);
   if (outlook) drawForecast(outlook, it);
@@ -880,7 +890,33 @@ function frame(el, H, yDomain, xDomain, yFmt, xFmt, log = false) {
     .call(d3.axisBottom(x).ticks(Math.max(2, Math.floor((W - m.l) / 120))).tickFormat(xFmt).tickSizeOuter(0));
   return { svg, x, y, W, H, m, show: tipper(el) };
 }
-function historyChart(el, it, s) {
+// ---- value-history range (S.hr), shared by both charts on an item page ----
+let hrRedraw = () => render();  // set by drawItem: redraws both charts and the range bar
+const HR = { "1m": 30, "3m": 91, "6m": 182, "1y": 365 };
+const isoDay = t => new Date(t).toISOString().slice(0, 10);
+const utcDay = t => new Date(t).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });  // ranges are whole UTC days
+function histRange() {  // [from, to] in ms, or null for the whole history
+  if (HR[S.hr]) return [NOW - HR[S.hr] * DAY, NOW];
+  const [a, b] = (S.hr || "").split("_"), ta = Date.parse(a + "T00:00Z"), tb = Date.parse(b + "T00:00Z") + DAY - 1;
+  return ta < tb ? [ta, Math.min(tb, NOW)] : null;
+}
+function drawRangeBar(box, redraw) {
+  const r = histRange(), set = v => { S.hr = v; redraw(); };
+  const btn = (v, label) => h("button", { "aria-pressed": String((S.hr || "all") === v), onclick: () => set(v === "all" ? "" : v) }, label);
+  const date = (lbl, i) => h("label", { class: "field" }, h("span", { class: "label" }, lbl), h("input", { class: "input", type: "date", max: isoDay(NOW),
+    value: r ? isoDay(r[i]) : "", onchange: e => {
+      if (!e.target.value) return;
+      const cur = histRange() || [START.E, NOW], v = [isoDay(cur[0]), isoDay(cur[1])];
+      v[i] = e.target.value;
+      if (v[0] > v[1]) v[1 - i] = v[i];
+      set(v.join("_"));
+    } }));
+  box.replaceChildren(h("div", { class: "field" }, h("span", { class: "label" }, "Value history range"),
+    h("div", { class: "seg", role: "group", "aria-label": "Range" }, btn("1m", "1M"), btn("3m", "3M"), btn("6m", "6M"), btn("1y", "1Y"), btn("all", "All"))),
+    date("From", 0), date("To", 1),
+    ...(S.hr && !HR[S.hr] ? [h("button", { class: "btn", onclick: () => set("") }, "Reset zoom")] : []));
+}
+function historyChart(el, it, s, sumEl) {
   const k = vkey(it), now = value(it, s, k), logged = it.hist[s][k];
   // the change log falls short for this variant: chart what this site's own snapshots saw instead (build_site.py)
   const own = !complete(logged, now) && (it.obs?.[s]?.[k] || []).length > 0, hst = own ? it.obs[s][k] : logged;
@@ -893,8 +929,22 @@ function historyChart(el, it, s) {
     return;
   }
   el.style.minHeight = "";
-  const pts = hst.map(([t, v]) => ({ t: new Date(ts(t)), v }));
+  let pts = hst.map(([t, v]) => ({ t: new Date(ts(t)), v }));
   pts.push({ t: new Date(Math.max(NOW, +pts.at(-1).t)), v: now, now: true });
+  // the chosen range: the value at its start is the last logged value before it (the line is a step)
+  const r = histRange();
+  if (r && r[1] > +pts[0].t) {
+    const [a, b] = [Math.max(r[0], +pts[0].t), r[1]], before = pts.filter(p => +p.t <= a).at(-1) || pts[0];
+    const inside = pts.filter(p => +p.t > a && +p.t <= b), end = pts.filter(p => +p.t <= b).at(-1);
+    pts = [{ t: new Date(a), v: before.v, edge: true }, ...inside];
+    if (+pts.at(-1).t < b) pts.push({ t: new Date(b), v: end.v, edge: true, now: b >= NOW });
+  }
+  if (sumEl) {
+    const first = pts[0].v, last = pts.at(-1).v, n = pts.filter(p => !p.edge && !p.now).length, pc = first ? (last - first) / first * 100 : null;
+    sumEl.replaceChildren(r ? `${utcDay(+pts[0].t)} – ${utcDay(+pts.at(-1).t)}: ` : `Since ${utcDay(+pts[0].t)}: `,
+      h("b", { class: pctCls(pc) }, pc == null ? "–" : pctTxt(pc)),
+      ` (${fmt(first)} → ${fmt(last)}) · ${n} change${n === 1 ? "" : "s"} in view`);
+  }
   let lo = d3.min(pts, p => p.v), hi = d3.max(pts, p => p.v);
   if (lo === hi) { lo *= .9; hi = hi * 1.1 || 1; }
   const span = pts.at(-1).t - pts[0].t;
@@ -908,12 +958,32 @@ function historyChart(el, it, s) {
     .attr("d", d3.area().curve(d3.curveStepAfter).x(p => x(p.t)).y0(H - m.b).y1(p => y(p.v)));
   svg.append("path").datum(pts).attr("fill", "none").style("stroke", COL[s]).attr("stroke-width", 2)
     .attr("d", d3.line().curve(d3.curveStepAfter).x(p => x(p.t)).y(p => y(p.v)));
-  svg.append("g").selectAll("circle").data(pts.filter(p => !p.now)).join("circle")
+  svg.append("g").selectAll("circle").data(pts.filter(p => !p.now && !p.edge)).join("circle")
     .attr("cx", p => x(p.t)).attr("cy", p => y(p.v)).attr("r", 2.5).style("fill", COL[s]);
   const guide = svg.append("line").attr("y1", m.t).attr("y2", H - m.b).style("stroke", "var(--axis)").attr("visibility", "hidden");
+  // drag sideways to zoom into those dates; double-click to see the whole history again
+  const sel = svg.append("rect").attr("class", "sel").attr("y", m.t).attr("height", H - m.t - m.b).attr("visibility", "hidden");
+  let drag0 = null;
+  const zoomTo = (x0, x1) => {
+    const [a, b] = [x.invert(Math.min(x0, x1)), x.invert(Math.max(x0, x1))];
+    if (b - a < DAY) return;  // a day is the smallest range
+    S.hr = `${isoDay(a)}_${isoDay(b)}`; hrRedraw();
+  };
   svg.append("rect").attr("x", m.l).attr("y", m.t).attr("width", x.range()[1] - m.l).attr("height", H - m.t - m.b).attr("fill", "transparent")
+    .style("cursor", "crosshair")
+    .on("pointerdown.zoom", e => { if (e.button === 0) { drag0 = d3.pointer(e, el)[0]; e.currentTarget.setPointerCapture(e.pointerId); } })
+    .on("pointerup", e => {
+      const px = d3.pointer(e, el)[0];
+      if (drag0 != null && Math.abs(px - drag0) > 8) zoomTo(drag0, px);
+      drag0 = null; sel.attr("visibility", "hidden");
+    })
+    .on("dblclick", () => { if (S.hr) { S.hr = ""; hrRedraw(); } })
     .on("pointermove pointerdown", e => {
       const [px, py] = d3.pointer(e, el);
+      if (drag0 != null && Math.abs(px - drag0) > 8) {
+        const lo = Math.max(m.l, Math.min(px, drag0)), hi = Math.min(x.range()[1], Math.max(px, drag0));
+        sel.attr("x", lo).attr("width", hi - lo).attr("visibility", "visible");
+      }
       const i = Math.max(0, d3.bisector(p => p.t).right(pts, x.invert(px)) - 1), p = pts[i], prev = pts[i - 1];
       guide.attr("x1", px).attr("x2", px).attr("visibility", "visible");
       const pc = prev && !p.now && prev.v ? (p.v - prev.v) / prev.v * 100 : null;
