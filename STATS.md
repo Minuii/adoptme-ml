@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 08:25 UTC by the scrape workflow._
+_Updated 2026-11-13 08:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 08:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 30,468 | 2026-11-13T08:15 |
-| elve | 3 | 6,091 | 2026-11-13T08:16 |
+| amvgg | 3 | 30,699 | 2026-11-13T08:30 |
+| elve | 3 | 6,143 | 2026-11-13T08:31 |
 
-## AMVGG completed trades: 6,835 total
+## AMVGG completed trades: 6,839 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,002 |
+| 2026-11-13 | 1,006 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,10 @@ _Updated 2026-11-13 08:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:30 | **0mgxsunnyyy**: Fly-A-Pet Potion | **jaljoha**: Tree Kangaroo |
+| 08:30 | **liofe1**: Frost Fury (FR) | **st4rrdrexmo**: Ride-A-Pet Potion ×5 |
+| 08:30 | **RiordanFan19**: Angelfish (M) | **kkaatEEe2**: Ride-A-Pet Potion |
+| 08:30 | **abdoosaad**: Fairy Bat Dragon (FR), Ride-A-Pet Potion | **vanyagames_yt**: Frostbite Cub (M), Musk Ox (M), Puptune (MR), Oakee Wizard (MFR) |
 | 08:25 | **SOFIA_GORLH**: Siamese Cat (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **odading12318**: Fairy Bat Dragon (FR) |
 | 08:25 | **liofe1**: Kangaroo (R) | **Baddie_iam**: Frost Fury (FR) ×2, Shetland Pony Dark Brown (NR), Flaming Zebra (R), Green Amazon (FR), Robin (NFR), Possum (NR), Golden Albatross, Stray Cat Dragon (N), Purrowl |
 | 08:25 | **nornomm**: Fly-A-Pet Potion, Rain Boots | **ryz2e**: Pterodactyl (MFR) |
@@ -39,10 +43,6 @@ _Updated 2026-11-13 08:25 UTC by the scrape workflow._
 | 08:21 | **JHOAN123871**: Siamese Cat (R) | **leki_meow**: Candicorn (R), Cattuccino (M), Dirty Ducky (M) |
 | 08:21 | **mitskiixmywakix**: Kangaroo (FR) | **Militaryi_CorTak**: Ride-A-Pet Potion ×16 |
 | 08:21 | **galaxygurl123yay**: Unicorn (MFR), Pig (NFR) | **orchidbutterfliess**: Cow (FR) |
-| 08:21 | **xlux_latte**: Zombie Wolf, Ancient Dragon | **Kir4kaaa**: Unicorn |
-| 08:21 | **sun_drench**: Matcha Cat (NFR), Ride-A-Pet Potion ×3, Kitty Biscuit ×2 | **orchidbutterfliess**: Goose (R) |
-| 08:21 | **1220birth1005100**: Rubber Ducky (M) | **Kir4kaaa**: Dog (N), Cat (N) |
-| 08:21 | **cakilla28**: Diamond Hamster (MFR) | **yuri_dragon32**: Cow (R), Black Springer Spaniel (NR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
