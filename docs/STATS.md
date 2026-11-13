@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 15:25 UTC by the scrape workflow._
+_Updated 2026-11-13 15:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 15:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 36,817 | 2026-11-13T15:15 |
-| elve | 3 | 7,572 | 2026-11-13T15:16 |
+| amvgg | 3 | 37,062 | 2026-11-13T15:30 |
+| elve | 3 | 7,627 | 2026-11-13T15:31 |
 
-## AMVGG completed trades: 8,041 total
+## AMVGG completed trades: 8,048 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,208 |
+| 2026-11-13 | 2,215 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,13 @@ _Updated 2026-11-13 15:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 15:30 | **kittyarchivies**: Tarsier (MFR), Rain Cloud Hat | **kreker0900**: 2022 Birthday Party Hat |
+| 15:30 | **birdbo00**: Giant Anteater, Silly Duck (R) | **KOMOVI9990**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×2 |
+| 15:30 | **YOKOZ303**: Urban Egg, Mythic Egg | **kamalafannumber1**: Fly-A-Pet Potion |
+| 15:30 | **Xx_lxmwXx**: Unicorn, Hopbop (N) ×3 | **Kartofanochka2208**: Hopbop (M) |
+| 15:30 | **Fairy_Demon190**: Endangered Egg ×3 | **ASZTETIKPASZTECIKDD**: Skelicorn |
+| 15:30 | **flears_brai**: Stitches (M) ×10 | **jayden_4nniversary**: Haetyphoon |
+| 15:30 | **Koala_ql**: Clover Cow (MR), Ride-A-Pet Potion ×2, Pandaguin Glooptodog (N) | **Princess_Kourtney900**: Royal Palace Spaniel (MR) |
 | 15:21 | **fallawwi**: Ride-A-Pet Potion | **Catas_350**: Horse (R) |
 | 15:21 | **zoommbbeee**: Heart Bow, Tutu | **blushiibuns**: Ride-A-Pet Potion |
 | 15:21 | **509preppy_girl**: Parrot (FR), Arctic Hare (N), Burger Bear | **ansatasiiaa**: Parrot |
@@ -36,13 +43,6 @@ _Updated 2026-11-13 15:25 UTC by the scrape workflow._
 | 15:21 | **yshikza**: Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **summerclxrk**: Unicorn Backpack |
 | 15:21 | **Aliska4666**: Cabbit (FR) | **kallmekat1e**: Alpaca (FR), Spring Bunny Hood, Spring Bunny Feet |
 | 15:21 | **Milk_147017**: Mr. Whiskerpips (NR), Mrs. Whiskerpips (MFR), Count Slothula (N), Purrowl (N) | **cowlol898**: Pig (FR) |
-| 15:21 | **plasfreerb**: Bat Dragon (NF) | **Geigekbsoh**: Frost Dragon (MFR), Owl (FR), Balloon Unicorn (FR) ×2, Hedgehog (FR), Cow (FR) ×2, Rainbow Maker |
-| 15:21 | **killerben3224**: S'mores Raccoon (N), Burger Bear ×10, Burger Bear (R) | **dtOvsq**: Dango Penguins (N) |
-| 15:21 | **gffdjddd23_4**: Pink Heart Glasses, Banana Hat, Crescent Moon Car | **tumblelina_123**: Ice Cream Cone Hat |
-| 15:21 | **Callme_Mary45**: Fly-A-Pet Potion | **cccccccc394**: Sushi Penguin ×2 |
-| 15:21 | **fiasmail**: Cupid Dragon (FR), Clover Cow (MFR) | **K1MM007**: Winged Tiger |
-| 15:21 | **AxinaplayzYt**: Unicorn Horn, Unicorn Stroller, Spring Bunny Feet | **AMELIESFABXO**: 2022 Birthday Party Hat |
-| 15:21 | **clewley1234**: Jester Dragon (NFR), Kappakid (MR), French Bulldog ×3 | **pollito_conalioli222**: Undead Jousting Horse (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
