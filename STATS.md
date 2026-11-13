@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 11:40 UTC by the scrape workflow._
+_Updated 2026-11-13 11:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 11:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 33,242 | 2026-11-13T11:30 |
-| elve | 3 | 6,731 | 2026-11-13T11:31 |
+| amvgg | 3 | 33,485 | 2026-11-13T11:45 |
+| elve | 3 | 6,750 | 2026-11-13T11:45 |
 
-## AMVGG completed trades: 7,236 total
+## AMVGG completed trades: 7,238 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,403 |
+| 2026-11-13 | 1,405 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,8 @@ _Updated 2026-11-13 11:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:45 | **aianame_rey**: Turtle (FR) | **erditiri03**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
+| 11:45 | **MakiraLive**: Halloween Slime Mega Neon Paint | **beatsvic**: Hot Cocoa Stand |
 | 11:40 | **nehaplayz_yt4**: Latte Kitsune (MFR), Polar Bear (MFR), French Bulldog (MFR) | **Gottalovemeobvi**: Sakura Spirit (MFR) |
 | 11:40 | **AdoptMe_noob087**: Golden Dragon (MR), Ancient Dragon (NFR), Sabertooth (NR) | **younost101001**: Frost Fury (FR) |
 | 11:36 | **xXsiimplyblxoomxX**: Munchkin Cat, Pig (R), Great Pyrenees | **SyndromGG**: 2022 Birthday Cupcake Shoes |
@@ -41,8 +43,6 @@ _Updated 2026-11-13 11:40 UTC by the scrape workflow._
 | 11:36 | **ZOliverTurboz**: Frost Dragon (FR), Bat Dragon (NFR), Shadow Dragon (FR) | **RhodesyMate16**: Shadow Dragon (MFR) |
 | 11:36 | **zcqlv**: Sweetheart Rat (MFR) | **Lararaposinha**: Lion Cub (FR) |
 | 11:36 | **KinaToons**: Winged Tiger (NFR), Cherry-On-Top, 2022 Birthday Cake, Fly-A-Pet Potion | **SerenaWolfWarrior**: Munchkin Cat (MFR) |
-| 11:36 | **aydachan200311**: Pet Handler Pro Certificate ×9 | **Niruch_Bearly**: Ride-A-Pet Potion ×18 |
-| 11:36 | **biq_at222**: Lava Dragon (R), Papa Moose | **r3R3to2hk4**: Pink Betta Fish (MFR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
