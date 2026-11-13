@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 06:55 UTC by the scrape workflow._
+_Updated 2026-11-13 07:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 06:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 29,165 | 2026-11-13T06:45 |
-| elve | 3 | 5,842 | 2026-11-13T06:45 |
+| amvgg | 3 | 29,405 | 2026-11-13T07:00 |
+| elve | 3 | 5,893 | 2026-11-13T07:01 |
 
-## AMVGG completed trades: 6,662 total
+## AMVGG completed trades: 6,666 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 829 |
+| 2026-11-13 | 833 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,10 @@ _Updated 2026-11-13 06:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:00 | **AndresPatato**: Paint Sealer ×13 | **Snoopyyvaal**: Ride-A-Pet Potion |
+| 07:00 | **Ectetik3898**: Turtle (FR), Munchkin Cat (R) | **carlkilling**: Cow (FR) |
+| 07:00 | **tutritam174**: Ride-A-Pet Potion ×2 | **FlyToTheSaturn**: Patterns Egg ×3, Stripes Egg ×3, Stars Egg ×3 |
+| 07:00 | **FlyToTheSaturn**: Grinmoire ×2, Gumball Caterpillar, Hydra, Lunar Ox ×2, Mrs. Whiskerpips, Onza, Persian Cat ×4, Red Panda ×2, Salamander, Shiba Inu ×3 | **tutritam174**: Fly-A-Pet Potion |
 | 06:55 | **elitro44**: Fly-A-Pet Potion ×3 | **tspmoinc**: Arctic Dusk Dragon |
 | 06:55 | **Yeoya_O**: Turtle (FR) | **nornomm**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×11 |
 | 06:55 | **neori94**: Copycat (NFR), Copycat ×8 | **kwittenist**: Evil Unicorn (FR) |
@@ -39,10 +43,6 @@ _Updated 2026-11-13 06:55 UTC by the scrape workflow._
 | 06:55 | **hisforeverndalways**: Giant Panda (FR) | **VanillaChxry**: Goose (FR), Peppermint Penguin (R), Mini Pig, Unicorn Horn, Alpaca (R), Rain Cloud Hat, Spring Bunny Hood, Spring Bunny Feet, Pancake Stack |
 | 06:55 | **m0rbid_cat**: Waffle Wyrm (MFR) | **afissamuzfirah**: Ride-A-Pet Potion ×3 |
 | 06:55 | **kworixx**: Frostbite Bear, Sugar Glider (FR), Peppermint Penguin (FR), Peppermint Penguin, Winged Tiger (R), Dragonfruit Fox (NFR), Arctic Fox (F), Snow Monkey (NR), Blue Dog | **XxxSachaxxX1**: Giant Panda (FR) |
-| 06:55 | **Car1os_xd**: Fly-A-Pet Potion | **savva_agent1**: Ride-A-Pet Potion ×2 |
-| 06:55 | **Addmymainaccpls88**: Alpaca (NFR), Hot Doggo (NFR), Frost Fury (NFR), Tiny Wings, Ride-A-Pet Potion ×2 | **Sonya73p**: Owl (FR) |
-| 06:55 | **unice_unicoo**: Warthog (M), Rainbow Trout (M) | **Leviodas**: Ride-A-Pet Potion ×3 |
-| 06:55 | **AnneFabrel2005**: Dango Penguins (R) | **Mochistarx1**: Alley Cat |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
