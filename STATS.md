@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 09:25 UTC by the scrape workflow._
+_Updated 2026-11-13 09:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 09:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 31,311 | 2026-11-13T09:15 |
-| elve | 3 | 6,283 | 2026-11-13T09:16 |
+| amvgg | 3 | 31,500 | 2026-11-13T09:30 |
+| elve | 3 | 6,337 | 2026-11-13T09:31 |
 
-## AMVGG completed trades: 6,940 total
+## AMVGG completed trades: 6,944 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,107 |
+| 2026-11-13 | 1,111 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,10 @@ _Updated 2026-11-13 09:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:30 | **ADDIEISCHEAP**: Crow (FR), Sheeeeep (R) | **Klik_Kuromi**: Turtle (FR) ×4, Fairy Bat Dragon (FR), Hot Doggo (FR) |
+| 09:30 | **Pebble_llShelly**: Crow (FR) | **Tal_Kazman**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR) |
+| 09:30 | **sclilxq**: Jester Dragon (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Alpaca (FR), Unicorn, Stray Cat Dragon ×3 | **Tal_Kazman**: Goose (R) |
+| 09:30 | **gffdjddd23_4**: Monkey (M) | **HugsForHobi**: Fly-A-Pet Potion, Ride-A-Pet Potion |
 | 09:25 | **isabelle757683**: Pink Cat (FR) | **KiraChalaya**: Glacier Kitsune (FR), Ghost Bunny, Baku, Dracula Parrot |
 | 09:25 | **hqtle**: 2022 Birthday Party Hat ×2, 2022 Birthday Party Horn | **Altforvincent37**: Rainbow Maker |
 | 09:25 | **kashemiro**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×6 | **odading12318**: Kangaroo (R) |
@@ -39,10 +43,6 @@ _Updated 2026-11-13 09:25 UTC by the scrape workflow._
 | 09:25 | **STEKLO_FOREST**: Ice Cream Cone Hat, Ride-A-Pet Potion ×2, Snowball Pug (M), Fly-A-Pet Potion | **ni1zuua**: Binturong (M) |
 | 09:25 | **Jasmineast081**: Chocolate Dutch Guinea Pig ×2 | **artem_rbz18**: Alley Cat |
 | 09:25 | **L_person21**: Chocolate Chip Bat Dragon (FR) ×2, Tiny Wings, Pancake Stack, Fly-A-Pet Potion | **karamelka486**: African Wild Dog (FR) |
-| 09:21 | **dethxhellgrl**: Turtle (FR), Siamese Cat (FR), Candyfloss Chick (FR) | **AAL1R4H**: Arctic Reindeer (FR) |
-| 09:21 | **Belle_love888**: Cow (R), Pig (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **as_ishere**: Turtle (FR), Siamese Cat (R) |
-| 09:21 | **Sq77k**: Reindeer | **Yiju0225**: Ride-A-Pet Potion |
-| 09:21 | **MegalozavrWarface**: Kangaroo (MFR) | **firefly_rainbowlett**: Glacier Moth (MFR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
