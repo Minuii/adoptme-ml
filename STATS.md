@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 05:45 UTC by the scrape workflow._
+_Updated 2026-11-13 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 05:45 UTC by the scrape workflow._
 | amvgg | 3 | 28,302 | 2026-11-13T05:45 |
 | elve | 3 | 5,643 | 2026-11-13T05:45 |
 
-## AMVGG completed trades: 6,494 total
+## AMVGG completed trades: 6,516 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 661 |
+| 2026-11-13 | 683 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 05:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:40 | **lookmyprofile61**: Copycat | **yourmyrara**: Ride-A-Pet Potion ×7 |
-| 05:40 | **miaow42**: Angus Cow (M), Jacobin Pigeon (M) | **mindflaree**: Ride-A-Pet Potion |
-| 05:40 | **xiakusu**: Pet Handler Pro Certificate | **lider9809**: Elf Hat |
-| 05:40 | **BulbyUnder**: Elephant (FR) | **getsdar**: Ride-A-Pet Potion ×15 |
-| 05:40 | **olddeathcore**: Fairy Bat Dragon (FR) | **xTvnee**: Leopard Shark (MFR) |
-| 05:40 | **getsdar**: Kangaroo (FR) | **niyashimo**: Copycat, Arctic Fox (R), Unicorn, Dragonfruit Fox, Badger (N) |
-| 05:40 | **kayla_melod**: Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer, Vampire Dragon (FR), Fly-A-Pet Potion | **mamawibi6772**: Strawberry Shortcake Bat Dragon (NFR) |
-| 05:40 | **melinaftu**: Owl (FR) | **heartsformeimeiii**: Munchkin Cat (MR), Chocolate Dutch Guinea Pig (MFR), Great Pyrenees (MFR), Royal Palace Spaniel (MFR), Goose (FR) |
-| 05:40 | **svrodrii2**: Mini Pig | **megumi_isambitious**: Fly-A-Pet Potion ×18 |
-| 05:40 | **BloodMenCloud**: Cabbit (FR) | **feikmad**: Copycat ×4 |
-| 05:40 | **Bumble_Lou**: Ride-A-Pet Potion ×4 | **SaltnPepperStuff**: Sea Turtle (M), Dire Wolf (M) |
-| 05:40 | **6Noob_Noob6pup**: Budgie Witch ×6 | **Sleepaaholic**: Shoebill |
-| 05:40 | **shawnkenneth1**: Jester Dragon (NFR), Choo Choo Train | **H3ART5SS**: Cow (FR) |
-| 05:40 | **Lunaflower2020**: Halloween White Skeleton Dog (M) | **Leviodas**: Ride-A-Pet Potion ×4 |
-| 05:40 | **chaddanek**: Unicorn, Retired Egg, California Condor (N) | **Halaaa7397**: Ride-A-Pet Potion |
+| 05:55 | **BulbyUnder**: Ride-A-Pet Potion | **FunnyAnaminegirl**: Frosty Glow Mega Neon Paint |
+| 05:55 | **Chokolatka1109**: Mule, Chocolate Chow-Chow, Clubtail Dragonfly (M) | **Nezuko_thefirs**: Fly-A-Pet Potion |
+| 05:55 | **Milca_Demon1**: Strawberry Clip | **Shynisocool**: Crystal Egg ×10 |
+| 05:55 | **briannakitty55**: Frost Fury (FR) | **chinonoob55**: Ride-A-Pet Potion ×5 |
+| 05:55 | **xXsiimplyblxoomxX**: Tortoiseshell Guinea Pig (FR), 2022 Birthday Cupcake Shoes, Spring Bunny Hood | **Mafers_890**: Goose (FR) |
+| 05:55 | **niyashimo**: Copycat ×3, Jester Dragon ×2, Jester Dragon (R), Latte Kitsune (R), Kookaburra | **XxRainbowDasher**: Turtle (NFR) |
+| 05:55 | **baakanaruto1196**: Winter Fawn (N), Winter Doe (N), Arctic Hare (N), Squid, Black Tiger (N) ×3, Blue Butterfly (N) | **Shehatesme420**: Ride-A-Pet Potion ×3 |
+| 05:55 | **XD_alexa1749**: Turtle (FR), Albino Monkey (FR), Kangaroo (FR) ×2, Cow (FR) ×3, Mini Pig (FR), Flamingo (FR), Peppermint Penguin (FR), Mermicorn (FR), Hot Doggo (R), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Arctic Reindeer, Dragonfruit Fox | **odading12318**: Owl (NFR) |
+| 05:55 | **cjdnshdjaxn**: Copycat | **leesoyul11111111**: Ride-A-Pet Potion ×7 |
+| 05:55 | **YesidT_T**: Monkey King (NFR) ×3, Monkey King (FR), Matcha Cat | **PrismaticRio**: Peppermint Penguin (MFR) |
+| 05:55 | **Lem0n_org**: Fairy Bat Dragon (FR) | **CookieBawn**: Jester Dragon (N), Ride-A-Pet Potion ×2 |
+| 05:55 | **Fidelia2131415**: Moon Rabbit | **umi12345678910111213**: Cake Friend |
+| 05:50 | **Officalyuichi**: Ride-A-Pet Potion ×2 | **Rose1616160**: Fly-A-Pet Potion |
+| 05:50 | **PowersMia2955**: Jester Dragon (MFR) ×2, Border Collie (MFR), Cow, 2022 Birthday Party Hat | **Kenny_thealien**: Balloon Unicorn (NFR) |
+| 05:50 | **blue_dabadidabadi0**: Crocodile (FR), Birthday Butterfly 2024 (MR) | **Snoopyyvaal**: Elephant (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
