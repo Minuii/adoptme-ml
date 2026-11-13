@@ -495,8 +495,7 @@ def forecast_main(df, feats, V):
     log_dir = OUT / "forecast_log" / f"{H}d"
     log_dir.mkdir(parents=True, exist_ok=True)
     fc[["name", "label", "value", "p_down", "p_flat", "p_up", "call"]].to_csv(
-        log_dir / f"{newest.date()}.csv.gz", index=False, lineterminator="
-", compression={"method": "gzip", "mtime": 0})
+        log_dir / f"{newest.date()}.csv.gz", index=False, lineterminator="\n", compression={"method": "gzip", "mtime": 0})
     print(f"{path}: {len(fc)} pet variants as of {newest.date()}; calls:", fc.call.value_counts().to_dict())
 
 
