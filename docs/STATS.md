@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 19:31 UTC by the scrape workflow._
+_Updated 2026-11-13 19:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 19:31 UTC by the scrape workflow._
 | amvgg | 3 | 41,128 | 2026-11-13T19:30 |
 | elve | 3 | 8,483 | 2026-11-13T19:31 |
 
-## AMVGG completed trades: 9,200 total
+## AMVGG completed trades: 9,215 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,367 |
+| 2026-11-13 | 3,382 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 19:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:30 | **rini_nya1**: Mighty Haetyphoon Animated Sticker | **uBolra0**: Ride-A-Pet Potion |
-| 19:30 | **nrea_zv06**: Ride-A-Pet Potion ×6 | **Olkilylaa0**: Pupcicle ×6 |
-| 19:30 | **pisapopakakashecki**: Coyote (M) | **adopt_mecheck13**: Ride-A-Pet Potion ×4 |
-| 19:30 | **chipsyZdupy183**: Pain au Chat (M) | **mikepower240508**: Pupcake (M) |
-| 19:30 | **Game_Girlssx**: Moose Calf (NR) | **pugq33n23**: Pet Handler Pro Certificate ×6 |
-| 19:30 | **Wrjttenletters**: Matcha Cat (FR), Copycat ×2, Coyote (MFR) | **lolppp0vld**: Pupcicle (M) |
-| 19:30 | **cutesyghali**: Cow (FR) | **Maria_lutskia**: Unicorn Horn, 2022 Birthday Confetti Cannon |
-| 19:30 | **kivi201458**: Sandbox Island | **yumikiii3**: Unicorn (R), Ride-A-Pet Potion |
-| 19:30 | **NoName_Crystal**: Tuxedo Cat | **TC_VENJAMIN**: Capricorn |
-| 19:30 | **U_uogty**: Ride-A-Pet Potion, Three Blind Mice, Huntsman Robin ×2, Retired Egg, Cracked Egg, Ms. Muffet, Granny Wolf, Fairytale Egg | **Dodgemyhooks**: Dango Penguins |
-| 19:30 | **cutiipuppi**: Chocolate Dutch Guinea Pig (N), Silverback Gorilla (FR), Ride-A-Pet Potion ×14 | **soulnesy**: Cerberus (MFR) |
-| 19:30 | **shimotheseal**: Sakura Spirit (NFR) | **zkliam12**: Glacier Kitsune (NFR), Choco Penguin (MR) |
-| 19:30 | **mamochka_vasha0**: Pupcicle, Peach Owl | **qwqwwqwqwe**: Fly-A-Pet Potion |
-| 19:30 | **Ackosender**: Glyptodon Ducky (N) ×8 | **Oreo_Sofija**: Hermit Crab (N) |
-| 19:30 | **Penutbutter1567**: Dragon, Stitches (N), Bunny (N), Mexican Wolf (N), Black-Footed Ferret (N), Dolphin Cruiser | **xxc0ffeeplsxx**: Pupcicle |
+| 19:40 | **sarahang3la**: Cabbit (MFR) | **aliyah_v2**: Cryptid (NFR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Spring Bunny Hood |
+| 19:40 | **Delia_dontknow**: Cabbit (NFR), Siamese Cat (NFR) | **V4ETH**: Giant Panda (FR) |
+| 19:40 | **wolllll11**: Naughty Mistletroll Sticker | **Delia_dontknow**: Retired Egg ×2 |
+| 19:40 | **kogaaxrt**: Sugar Glider (FR) | **PossiblyBilled369**: Pupcicle (MFR) |
+| 19:40 | **swyttbakees**: Pupcicle | **Meekaqw**:  |
+| 19:40 | **PastryPuffTreat**: Pupcicle ×3, Pet Handler Pro Certificate | **Not_ShamerBunny**: Unicorn Backpack |
+| 19:40 | **T0LMU**: Pupcicle (N), Spring Bunny Feet, Butter Knife | **AmberCrystalPlayz**: S'mores Raccoon (N) ×2 |
+| 19:40 | **magetearsx**: Peppermint Penguin, Cherry Blossom Hang Glider | **nwwxxtt0**: Flash Weasel, Candicorn (FR) |
+| 19:40 | **ALTUSHKA_80**: Copycat, Chihuahua (R) | **Cutsy_BunnyXD**: Pupcicle (N), Dragonfruit Fox |
+| 19:40 | **cheesewondercrisps**: Haetae (FR), Cryptid (FR), Hyena (NFR), Werewolf (FR), Goat (R), Rhino (NR), Fly-A-Pet Potion, Chocolate Chip Bat Dragon Backpack, Alien Eyes Hat | **pogigelo31**: Frost Dragon (FR) |
+| 19:40 | **pbjmorelikebluej**: Kangaroo (R), Fly-A-Pet Potion, Unicorn | **Tamya4love**: Flamingo (FR) |
+| 19:36 | **mariagmia**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×6 | **wskdaks**: Cow (FR) |
+| 19:36 | **ii_quq**: Pupcicle | **enhy12345678**: Mighty Haetyphoon Animated Sticker |
+| 19:36 | **juandxmm2**: Unicorn (MFR), Goldhorn (NFR) | **Itz_w1sker**: Panda (MFR) |
+| 19:36 | **likoadopt**: Princess Capuchin Monkey (N) | **Adoptmestocks3000**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
