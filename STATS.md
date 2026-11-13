@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 12:25 UTC by the scrape workflow._
+_Updated 2026-11-13 12:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 12:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 33,950 | 2026-11-13T12:15 |
-| elve | 3 | 6,891 | 2026-11-13T12:16 |
+| amvgg | 3 | 34,176 | 2026-11-13T12:30 |
+| elve | 3 | 6,945 | 2026-11-13T12:31 |
 
-## AMVGG completed trades: 7,349 total
+## AMVGG completed trades: 7,391 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,516 |
+| 2026-11-13 | 1,558 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 12:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:25 | **Jeremysaltaccounts3**: Werewolf (R), Halloween White Ghost Dragon (MFR), Kangaroo (FR), Ride-A-Pet Potion ×6 | **4qvssz**: Shrew (MFR) |
-| 12:25 | **elionadinda**: Ribbon Seal, Mummy Spider, Frozen Penguin, Bobageist ×2 | **LIAXMLV**: Mochi Meow |
-| 12:25 | **12M060**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×2 | **ElNoobEstaAqu1**: Candicorn (FR) |
-| 12:21 | **katyanlox**: Bunny Swirl (NFR), German Shepherd | **Julka_Polska157**: Quokka (NR), Drake, Arctic Hare (N) |
-| 12:21 | **004FAscend004**: Frost Dragon (FR), Siamese Cat (MFR), Candicorn (MFR), Candicorn (M), Latte Kitsune (MFR), Dragonfruit Fox (MR), 2022 Birthday Cupcake Shoes | **Kiandra13kiandra**: Bat Dragon (FR) |
-| 12:21 | **littlerainbowwaffle**: Halloween Black Mummy Cat (M), Crab (N) | **rasediva**: Pet Handler Pro Certificate |
-| 12:21 | **Angelbatista_me2**: Sugar Axolotl (R) | **vtugse**: Fly-A-Pet Potion ×4 |
-| 12:21 | **liofe1**: Frost Fury (FR) | **Danila121219**: Ride-A-Pet Potion ×5 |
-| 12:21 | **Little_mau08**: Dragonfruit Fox (MFR), Lava Dragon (NFR), Stray Cat Dragon (M), Skelicorn (MFR) | **Tal_Kazman**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:21 | **Redpyid**: Ride-A-Pet Potion | **xxxtentacion12639**: Chimera ×2 |
-| 12:21 | **candyuser2008**: Strawberry Shortcake Bat Dragon (FR) ×2 | **tipak368**: Cryptid (FR), Fly-A-Pet Potion ×2 |
-| 12:21 | **savvi027**: Elephant | **KoTuKu_HRWKu1**: Crocodile (FR) |
-| 12:21 | **abbyissocool_lol**: Crystal Egg ×5 | **Insxfferabl3**: Frog |
-| 12:21 | **snezzhook**: Pet Handler Pro Certificate | **caxap_rumi**: Ride-A-Pet Potion ×2 |
-| 12:21 | **JxsYBe**: Frostbite Bear | **Jtamz096**: Turtle (FR) |
+| 12:30 | **4zuuk1**: Cryptid (FR), Rain Cloud Hat, Toaster Hat, Tiny Wings, Dire Wolf (M), Ride-A-Pet Potion | **Lem0n_org**: Chocolate Chip Bat Dragon (NFR) |
+| 12:30 | **4zuuk1**: Raccoon (NR), Eggnog Hare (N) | **ceryy_love**: Pet Handler Pro Certificate |
+| 12:30 | **itsmemolly1524**: Retired Egg ×5 | **paigeypops1231**: Gingerbread Mouse |
+| 12:30 | **dariaskrin_unu**: Fly-A-Pet Potion ×8 | **Justin2Play**: Rain Cloud Hat |
+| 12:30 | **iaMatthieu1**: Cow, Cow (R) | **SebasMendesLoL**: Candicorn (NFR), Candicorn (FR) |
+| 12:30 | **Kitti_59350**: Glormy Dolphin (M) | **ABCDEFDHIJF**: Jester Dragon (R) |
+| 12:30 | **roblox_user_8676283275**: Owl (FR) | **TMDung20**: Evil Unicorn (NFR), Unicorn Horn |
+| 12:30 | **TMDung20**: Ride-A-Pet Potion ×4 | **amyzondelivery**: Arctic Dusk Dragon |
+| 12:30 | **sinskin99**: Turtle (FR), Mini Schnauzer (NR), Shoebill (M) | **sedrasabah**: Strawberry Tortle |
+| 12:30 | **elliy5792**: Goose (R) | **Theonly_Naomi89**: Ride-A-Pet Potion ×4, Toy Monkey (MFR), Ice Cream Cone Hat |
+| 12:30 | **anutik_awesome**: Kangaroo (FR) ×3, Matcha Cat (FR), Mini Pig | **sedrasabah**: Evil Unicorn |
+| 12:30 | **zS9Ou**: Border Collie (R), Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×5 | **odading12318**: Sugar Glider (FR) |
+| 12:30 | **UltimateLionMantis**: Ride-A-Pet Potion, Milk Choccybunny (M) | **Caxarok_228006228**: Drake (R) |
+| 12:30 | **Frenchisec**: Fairy Bat Dragon (MFR) | **CuentaFake_84**: Sugar Axolotl (MFR), Chocolate Chip Bat Dragon (R), Werewolf (FR), Candicorn (R), Lion (FR) |
+| 12:30 | **luvyerh**: Owl (FR) | **Sillyseal_026**: Cow (FR) ×6 |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
