@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-13 09:40 UTC by the scrape workflow._
+_Updated 2026-11-13 09:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 7 | 2026-11-11T1036Z | 2026-11-13T0045Z |
-| amvgg | 9 | 2026-11-11T1036Z | 2026-11-12T1945Z |
+| amvgg | 10 | 2026-11-11T1036Z | 2026-11-13T0945Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 31,500 | 2026-11-13T09:30 |
-| elve | 3 | 6,337 | 2026-11-13T09:31 |
+| amvgg | 3 | 31,726 | 2026-11-13T09:45 |
+| elve | 3 | 6,376 | 2026-11-13T09:45 |
 
-## AMVGG completed trades: 6,991 total
+## AMVGG completed trades: 6,992 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,158 |
+| 2026-11-13 | 1,159 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,7 @@ _Updated 2026-11-13 09:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:45 | **nickknackks**: African Wild Dog (FR), Crow (FR), Fairy Bat Dragon (FR) | **leidydamelike**: Mermicorn (MFR) |
 | 09:40 | **xheartzpearlx**: Elephant (FR) | **Tal_Kazman**: Slime (NFR), Slime (N) |
 | 09:40 | **Krismasterdang**: Arctic Reindeer (FR), Dalmatian (FR), Peppermint Penguin (FR), Turtle (FR), Fairy Bat Dragon (FR), Albino Monkey (FR), Puffin, Bunny Swirl (MR), Candyfloss Chick (R) | **IconsChew**: Frost Dragon (FR) |
 | 09:40 | **Niruch_Bearly**: Toaster Hat, Rain Cloud Hat, Fly-A-Pet Potion ×16 | **Tal_Kazman**: Chocolate Chip Bat Dragon (FR) |
@@ -42,7 +43,6 @@ _Updated 2026-11-13 09:40 UTC by the scrape workflow._
 | 09:40 | **gffdjddd23_4**: Mistletroll (MR) | **derka_love**: Dragonfruit Fox |
 | 09:40 | **eeliasxcx**: Ride-A-Pet Potion, Love Letter | **hexyzbagoc31**: Jacobin Pigeon (M) ×2 |
 | 09:40 | **NINJ4YT2**: Strawberry Shortcake Bat Dragon (MFR), Turtle (FR) ×2, Unicorn Horn, Wolf (MFR) | **mk1qez**: African Wild Dog (NFR) |
-| 09:40 | **Lerkooo_111**: Frost Dragon (FR), Cryptid (FR), Jellyfish (R) | **haram0909071**: Giraffe (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
