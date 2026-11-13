@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 04:55 UTC by the scrape workflow._
+_Updated 2026-11-13 05:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 04:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 27,383 | 2026-11-13T04:45 |
-| elve | 3 | 5,490 | 2026-11-13T04:45 |
+| amvgg | 3 | 27,606 | 2026-11-13T05:00 |
+| elve | 3 | 5,562 | 2026-11-13T05:01 |
 
-## AMVGG completed trades: 6,419 total
+## AMVGG completed trades: 6,421 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 586 |
+| 2026-11-13 | 588 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,8 @@ _Updated 2026-11-13 04:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:00 | **AutoTradeCommission**: Polar Bear (MFR), Velocirooster ×2, Ride-A-Pet Potion | **Kristinabillottii**: Stray Cat Dragon (M), Temple Friend (M), Pain au Chat (M), Chihuahua (M), Naga Dragon (N), Golden King Penguin (NFR), Emberlight (N), Yule Log Dog (N), Officer Gibbon (M), Nightmare Owl (MR), T-Rex (N), Capybara (N), Hero Gibbon, Waffle Wyrm (M), Alicorn (NR), Mummy Spider (M), Ice Cube (M), Tree Sasquatch (M) |
+| 05:00 | **iloveslappers2**: Turtle (FR), Pig (FR) | **meowieboogie**: Cow (FR) |
 | 04:55 | **BREEZY_LOVER1**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **wintersbiohazard**: Rainbow Maker |
 | 04:55 | **1_TASTEANDY0ULLBMINE**: Corgi (N), Pangolin (N), Red Panda (N), Beaver (N), Cattuccino | **boonjour_amies**: Ride-A-Pet Potion |
 | 04:55 | **Mstefcoo1**: Frost Dragon (FR), Parrot (FR), Albino Monkey (NFR) | **xxjohnjokexx**: Frost Dragon (NFR) |
@@ -41,8 +43,6 @@ _Updated 2026-11-13 04:55 UTC by the scrape workflow._
 | 04:55 | **neori94**: Copycat (MR) ×2 | **HairazaxLA**: Frost Dragon (FR), Candicorn |
 | 04:55 | **editor16**: Ballet Swan, Fly-A-Pet Potion | **L_person21**: Jester Dragon |
 | 04:55 | **ALTAMERANO10**: Parrot (FR) | **ELVEAMVGGTRADER890**: Munchkin Cat (MFR), Caterpillar, Cow (R), Water Moon Bear (M), French Bulldog (N) |
-| 04:55 | **realgeibot**: Goose (FR), Happy Duckling (MR) | **xxxAubreexxx123**: Candicorn (NFR) |
-| 04:50 | **Angel_020601**: Werewolf (FR) | **LinaIsGone**: Frost Unicorn (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
