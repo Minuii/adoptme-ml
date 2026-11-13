@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 21:16 UTC by the scrape workflow._
+_Updated 2026-11-13 21:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 21:16 UTC by the scrape workflow._
 | amvgg | 3 | 42,884 | 2026-11-13T21:15 |
 | elve | 3 | 8,852 | 2026-11-13T21:16 |
 
-## AMVGG completed trades: 9,687 total
+## AMVGG completed trades: 9,727 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,854 |
+| 2026-11-13 | 3,894 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 21:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:15 | **summerdounut123**: Giant Blue Scarab (M) | **YUMIIMOTHZZ**: Pudding Cat (MR) |
-| 21:15 | **MM2jug**: Fly-A-Pet Potion, Ride-A-Pet Potion | **giovvanna7423**: Kitty Bat (NR), Bubblegeist |
-| 21:15 | **Kyza_222222223**: Mongoose (M) | **Koala_ql**: Ride-A-Pet Potion ×2, Mr. Whiskerpips, Pain au Chat |
-| 21:15 | **cutesyhollye**: Strawberry Shortcake Bat Dragon (MFR), Toy Monkey (MFR), Pretty Pony (MFR), Chocolate Chow-Chow (MFR), Chihuahua (MFR), 2022 Birthday Cake, Mini Pig (MFR), Unicorn Horn | **ysuidkwkwksjd**: Hedgehog (MFR) |
-| 21:15 | **Kenia_pgg1**: Frost Dragon (FR), Strawberry Tortle, Ride-A-Pet Potion | **solariise**: Winged Tiger (MFR), Latte Kitsune (MFR) |
-| 21:15 | **N0ugatt**: Jester Dragon (NFR), Dalmatian (R) | **Makkertjesfilmpies**: Evil Unicorn (FR) |
-| 21:15 | **12anastasiya2008**: Seagull, Spider Crab, Firefighter Gibbon, Indian Leopard, Alicorn, Vulture, Ocelot (N) | **makehimemo**: Ride-A-Pet Potion |
-| 21:15 | **pk_startsnew**: Rose Dragon (F) | **IWantBGSPets1234**: Ride-A-Pet Potion ×3 |
-| 21:15 | **OBV_095**: Dalmatian (R), Peppermint Penguin (R), Fairy Bat Dragon (FR), Cabbit (FR), Pig (NFR), Elephant (FR), Ghostly Cat (M), Golden Lettuce, Fly-A-Pet Potion | **gffdjddd23_4**: Owl (FR) |
-| 21:15 | **andrea16355**: Chihuahua (N), Ride-A-Pet Potion | **Pillkysilk**: Cattuccino (M) |
-| 21:15 | **iammaggietoo**: Lamb (MFR) | **obv1kylxx**: Brown Springer Spaniel (MFR), Christmas Pudding Pup (R), Matcha Cat |
-| 21:11 | **elproXD_7v7**: Stray Cat Dragon (N) ×2 | **Burnin_Nick**: Ride-A-Pet Potion |
-| 21:11 | **pskijydy**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **kiff_shik**: Fallow Deer (FR) |
-| 21:11 | **Noyniya**: Ride-A-Pet Potion ×6 | **mxrgan66**: Ice Cream Cone Hat |
-| 21:11 | **xaoichaanx**: Chihuahua, Pupcake | **youyou670**: Pupcicle |
+| 21:25 | **Kali_girl790**: Sushi Penguin, Fly-A-Pet Potion, Castle Hermit Crab, Praying Mantis ×2 | **elys_qn**: Unicorn (N) |
+| 21:25 | **Polinamasha123**: Catte, Scarlet Butterfly | **Hasen_queen5**: Ride-A-Pet Potion |
+| 21:25 | **Heybolloboom**: Fly-A-Pet Potion ×5 | **sillysweetgirl2011**: Chihuahua (MFR) |
+| 21:25 | **LOBYBABY512**: Copycat (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×10, Angus Calf (R) | **Maryha0243**: Turtle (FR) |
+| 21:25 | **genesisgameryt504**: Fairy Bat Dragon (R) | **AsawaNi_Tsukii**: Pupcicle (MFR) |
+| 21:25 | **sleepy_s0ren**: Parrot (FR), Goose (FR), Pet Handler Pro Certificate | **Lupaeis**: Siamese Cat (NFR), Crow (FR), Magma Snail (M) |
+| 21:25 | **Yasmimriby**: Chocolate Chip Bat Dragon (R), Peppermint Penguin (R), Siamese Cat (FR), Munchkin Cat (N), Banana Hat | **Samu_7685**: Balloon Unicorn (FR) |
+| 21:25 | **rilaxlly**: Siamese Cat (R) | **tsmovrol**: Crocodile (FR), Lion Cub, Ride-A-Pet Potion ×2 |
+| 21:25 | **belltiny**: Shark Puppy | **Yasmimriby**: Alley Cat (N) |
+| 21:25 | **1Biahsz_altx**: Ride-A-Pet Potion | **grijfe8r**: Little Lamb (M) |
+| 21:25 | **fideosconatunnom**: French Bulldog (MR) | **SirMaxAce21Sage**: Moon Rabbit (MR), Mochi Meow (MR), Golden Lettuce, Ride-A-Pet Potion |
+| 21:25 | **k_sybom**: Dragonfruit Fox | **melynagamer3**: Ride-A-Pet Potion ×2 |
+| 21:25 | **MegaJady**: Velociraptor (N), Triceratops (N), Magpie (N), Jumping Spider (N) | **Amirdl**: Ride-A-Pet Potion |
+| 21:25 | **SweetVqniIIa**: Albino Monkey | **Surgical_emergency**: Unicorn (MFR) |
+| 21:25 | **tshdk19**: Pirate Hat & Friend | **Vicmat36**: Lava Racer |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
