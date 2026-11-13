@@ -265,7 +265,20 @@ def vk(name, badges):
     return k, f"{'m' if 'M' in b else 'n' if 'N' in b else 'r'}-" + {(1, 1): "fr", (1, 0): "f", (0, 1): "r", (0, 0): "np"}[("F" in b, "R" in b)]
 
 
-act = defaultdict(lambda: {"t": Counter(), "o": {"A": defaultdict(lambda: [0, 0]), "E": defaultdict(lambda: [0, 0])}, "r": []})
+def side_value(side, src):
+    """Total value of one trade side on one list (current values), or None if any item on it has no value there."""
+    total = 0.0
+    for (n, b), c in side.items():
+        k, v = vk(n, b)
+        x = (items.get(k) or {}).get(src, {}).get(v) if v else None
+        if not x:
+            return None
+        total += c * x
+    return total
+
+
+act = defaultdict(lambda: {"t": Counter(), "o": {"A": defaultdict(lambda: [0, 0]), "E": defaultdict(lambda: [0, 0])}, "r": [],
+                           "p": {"A": defaultdict(list), "E": defaultdict(list)}})
 week_trades = sorted((t for t in trades if t["first_seen"][:16] >= ago(ACT_DAYS) and len(t.get("sides", [])) == 2),
                      key=lambda t: t["first_seen"], reverse=True)
 seen_ids = set()
@@ -275,13 +288,27 @@ for t in week_trades:
     seen_ids.add(t["trade_id"])
     sides = [Counter((i["name"], i.get("badges", "")) for i in s["items"]) for s in t["sides"]]
     short = [[[items[key(n)]["name"] if key(n) in items else n, b, c] for (n, b), c in s.items()] for s in sides]
+    worth = {src: [side_value(s, src) for s in sides] for src in ("A", "E")}
     for k in {vk(n, b) for s in sides for (n, b) in s}:
         if k[1] is None:
             continue
         a = act[k[0]]
         a["t"][k[1]] += 1
         if len(a["r"]) < RECENT:
-            a["r"].append([t["first_seen"][:16], *short])
+            a["r"].append([t["first_seen"][:16], *short, {src: [round(x, 3) if x else None for x in w] for src, w in worth.items()}])
+    # "how it trades vs its value": trades where one side is only this item (one variant, any count). The other side's
+    # value divided by this side's value = what the other trader paid, as a multiple of the list value (1 = exactly).
+    for i, s in enumerate(sides):
+        ks = {vk(n, b) for (n, b) in s}
+        if len(ks) != 1:
+            continue
+        (k, v), = ks
+        if v is None:
+            continue
+        for src, (w0, w1) in worth.items():
+            own, other = (w0, w1) if i == 0 else (w1, w0)
+            if own and other:
+                act[k]["p"][src][v].append(other / own)
 ads_n = {}
 for src, code in (("amvgg", "A"), ("elve", "E")):
     xs = bot_ads(src, ACT_DAYS)
@@ -291,7 +318,15 @@ for src, code in (("amvgg", "A"), ("elve", "E")):
             for k in {vk(*x.split("|", 1)) for x in a[side] if not x.startswith("#")}:
                 if k[1] is not None:
                     act[k[0]]["o"][code][k[1]][slot] += 1
-activity = {items[k]["name"]: {"t": dict(a["t"]), "o": {s: dict(v) for s, v in a["o"].items() if v}, "r": a["r"]}
+def pay_summary(ratios):
+    """[number of trades, median paid / value, how many paid 5%+ over, how many 5%+ under]"""
+    r = sorted(ratios)
+    med = r[len(r) // 2] if len(r) % 2 else (r[len(r) // 2 - 1] + r[len(r) // 2]) / 2
+    return [len(r), round(med, 3), sum(x > 1.05 for x in r), sum(x < 0.95 for x in r)]
+
+
+activity = {items[k]["name"]: {"t": dict(a["t"]), "o": {s: dict(v) for s, v in a["o"].items() if v}, "r": a["r"],
+                               "p": {s: {v: pay_summary(x) for v, x in d.items()} for s, d in a["p"].items() if d}}
             for k, a in act.items()}
 (SITE / "activity.json").write_text(json.dumps({"built": now.isoformat(timespec="minutes"), "days": ACT_DAYS,
                                                 "trades": len(seen_ids), "ads": ads_n, "items": activity},

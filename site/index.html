@@ -152,6 +152,9 @@ tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 .rise .bar { height: 3px; border-radius: 2px; background: var(--grid); grid-column: 3 / 5; margin-top: -2px; }
 .rise .bar i { display: block; height: 100%; border-radius: 2px; background: var(--up); }
 .rise .more { align-self: stretch; }
+.oc { font-size: 11px; font-weight: 600; margin-left: 8px; padding: 1px 6px; border-radius: 6px; background: var(--hover); vertical-align: 1px; white-space: nowrap; }
+.stale { background: #fff4d6; color: #6b4e00; border: 1px solid #f0d58a; border-radius: var(--r); padding: 10px 14px; font-size: 14px; margin: 12px 0 0; }
+@media (prefers-color-scheme: dark) { .stale { background: #3a2f12; color: #f3d98b; border-color: #6b5520; } }
 .rise .rtoggles { display: flex; flex-wrap: wrap; gap: 8px; }
 .rise .seg button { padding: 6px 10px; min-height: 32px; }
 @media (max-width: 900px) {
@@ -439,11 +442,20 @@ function listHead() {
     srcs.map(s => h("th", { class: "num" }, SRC[s], h("span", { class: "dim hide-sm" }, " · 30d"))),
     S.src !== "E" ? h("th", { class: "hide-sm" }, "Demand") : null));
 }
+// the 30-day call as a small chip next to the name (only "likely up" / "likely down"). The model predicts one variant
+// per kind (normal no potion, neon fly ride, mega fly ride), so the list shows the one of the kind being viewed.
+function outlookChip(it) {
+  const k = { r: "r-np", n: "n-fr", m: "m-fr" }[S.var], f = FC && (FC.items || {})[it.name], c = f && f[k];
+  if (!c || c[2] === "flat") return null;
+  const up = c[2] === "up", p = up ? c[0] : c[1];
+  return h("span", { class: "oc " + (up ? "up" : "down"), title: `30-day model, ${FC_KEYS[k]}: ${pc(p)} chance of a 5%+ ${up ? "rise" : "drop"} on Elvebredd (as of ${FC.asof})` },
+    `${up ? "▲" : "▼"} ${pc(p)}`);
+}
 function listRow(it) {
   const d = demandOf(it);
   return h("tr", { class: "click", onclick: () => openItem(it), tabindex: 0, onkeydown: e => e.key === "Enter" && openItem(it) },
     h("td", { class: "icocell" }, icon(it)),
-    h("td", {}, h("div", { class: "nm" }, it.name),
+    h("td", {}, h("div", { class: "nm" }, it.name, outlookChip(it)),
       h("div", {}, h("span", { class: "rar", style: `--rc:${RC[it.rarity] || "var(--muted)"}` }, it.rarity || ""),
         S.cat === "all" ? h("span", { class: "dim" }, (it.rarity ? " · " : "") + it.cat) : null)),
     sources().map(s => {
@@ -622,13 +634,14 @@ async function drawForecast(box, it) {
     h("h2", {}, `Next ${days} days: model outlook`),
     h("div", { class: "acts" }, keys.map(card)),
     h("p", { class: "note" }, (f[k] ? "" : `The model only calls ${keys.map(x => FC_KEYS[x]).join(", ")}; tap one to switch. `) +
-      `A guess about Elvebredd's value as of ${FC.asof}, from its value history, trade offers and game news. ` +
+      `A model's guess about Elvebredd's value, as of ${FC.asof}. Not a promise: values are set by people and can jump on news.`),
+    h("details", { class: "note" }, h("summary", {}, "How reliable is this?"),
+      `It uses the pet's Elvebredd value history, how often it is wanted vs offered in trade ads, and game news. ` +
       (bt.months ? `In a test over ${months}, its "likely up" calls rose 5%+ within ${days} days ${pc(bt.up_precision)} of the time ` +
         `and its "likely down" calls dropped 5%+ ${pc(bt.down_precision)} of the time; most values don't move in a month. ` +
         `Its 20 strongest up calls each month gained ${pctTxt(100 * bt.top20)} on average, against ${pctTxt(100 * bt.all_pets)} for all pets` +
         (bt.months_beating != null ? `, and did better in ${Math.round(bt.months_beating * bt.months)} of ${bt.months} months. ` : ". ") : "") +
-      "Not a promise: values are set by people and can jump on news. ",
-      h("a", { href: "#", onclick: e => { e.preventDefault(); S.item = ""; S.tab = "stats"; scrollTo(0, 0); render(); } }, "See the live track record.")));
+      "", h("a", { href: "#", onclick: e => { e.preventDefault(); S.item = ""; S.tab = "stats"; scrollTo(0, 0); render(); } }, "See the live track record.")));
 }
 function closeItem() { S.item = ""; render(); }
 
@@ -667,8 +680,24 @@ async function drawActivity(box, it) {
       h("span", { class: "sub" }, lean + (pet && tot ? ` · ${vname}: ${vw} wanted, ${vo} offered` : "")),
       h("span", { class: "sub" }, `out of ${(ACT.ads[s] || 0).toLocaleString()} offers sampled`)));
   }
+  // how it trades against its value: trades where one side was only this item (this variant)
+  const payLine = s => {
+    const q = ((a.p || {})[s] || {})[k];
+    if (!q || q[0] < 3) return h("span", { class: "sub" }, `${SRC[s]}: ${q ? q[0] : 0} such trade${q && q[0] === 1 ? "" : "s"}, too few to tell`);
+    const [n, med, over, under] = q, pcv = Math.round((med - 1) * 100);
+    return h("span", { class: "sub" }, h("b", { class: pcv >= 5 ? "up" : pcv <= -5 ? "down" : "" },
+      `${SRC[s]}: ${pcv === 0 ? "at value" : pcv > 0 ? `${pcv}% over value` : `${-pcv}% under value`}`),
+      ` · median of ${n} trades · ${over} over by 5%+, ${under} under by 5%+, ${n - over - under} within 5%`);
+  };
+  cards.push(h("div", { class: "card" }, h("span", { class: "label" }, `Traded vs its value, last ${ACT.days} days${pet ? " · " + vname : ""}`),
+    h("span", { class: "sub", style: "margin-bottom:4px" }, "Completed trades where one side was only this item: what the other side was worth, by each list's values now."),
+    payLine("A"), payLine("E")));
+  const worthLine = w => !w ? null : h("span", { class: "when" }, ["A", "E"].filter(s => w[s] && w[s][0] && w[s][1]).map(s => {
+    const [x, y] = w[s], d = Math.round((y / x - 1) * 100);
+    return `${SRC[s]} ${fmt(x)} ⇄ ${fmt(y)}${Math.abs(d) < 5 ? " (fair)" : ` (${d > 0 ? "first" : "second"} side got ${Math.abs(d)}% more)`}`;
+  }).join(" · ") || "Not every item has a value on either list");
   const recent = a.r.length ? h("div", { class: "card", style: "gap:0" }, h("span", { class: "label" }, "Latest trades with this item"),
-    a.r.map(([t, x, y]) => h("div", { class: "rtrade" }, h("span", { class: "when" }, `${ago(t)} · ${t.replace("T", " ")} UTC`),
+    a.r.map(([t, x, y, w]) => h("div", { class: "rtrade" }, h("span", { class: "when" }, `${ago(t)} · ${t.replace("T", " ")} UTC`), worthLine(w),
       h("div", { class: "chips" }, x.map(nameChip)), h("div", { class: "arrow", "aria-hidden": "true" }, "⇄"), h("div", { class: "chips" }, y.map(nameChip)))))
     : h("p", { class: "empty" }, `No completed AMVGG trades with this item in the last ${ACT.days} days.`);
   box.replaceChildren(h("h2", {}, "Trading activity"), h("div", { class: "acts" }, cards), recent,
@@ -1058,6 +1087,11 @@ fetch("data.json").then(r => r.json()).then(d => {
     h("b", {}, nE.toLocaleString()), " on Elvebredd, with ", h("b", {}, nH.toLocaleString()), " logged values going back to September 2023.");
   $("#when").textContent = "Updated " + new Date(NOW).toLocaleString(undefined, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
   sync(); render();
+  loadFC().then(() => { if (S.tab === "list" && !S.item) render(); });  // adds the outlook chips to the list
+  const hrs = (Date.now() - NOW) / 3600e3;
+  if (hrs > 3) $("header").append(h("p", { class: "stale", role: "status" },
+    `Heads up: the value lists were last checked ${hrs > 48 ? Math.round(hrs / 24) + " days" : Math.round(hrs) + " hours"} ago (normally every hour). ` +
+    "The collector may be stuck, so values and forecasts here can be out of date."));
 }).catch(() => { $("#count").textContent = "Couldn't load the value data. Try refreshing."; });
 </script>
 </body>

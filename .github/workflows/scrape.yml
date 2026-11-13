@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 14  # ~1-2 min of collecting, then two more trade polls 5 min apart; the next run starts at +15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       # stdlib only, so the runner's own python3 does (no setup-python needed)
       - run: python3 scraper.py "$JOB"
       - name: Commit data
