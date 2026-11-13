@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 05:16 UTC by the scrape workflow._
+_Updated 2026-11-13 05:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 05:16 UTC by the scrape workflow._
 | amvgg | 3 | 27,835 | 2026-11-13T05:15 |
 | elve | 3 | 5,591 | 2026-11-13T05:16 |
 
-## AMVGG completed trades: 6,443 total
+## AMVGG completed trades: 6,470 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 610 |
+| 2026-11-13 | 637 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 05:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:11 | **vupxric**: Owl (FR), Evil Unicorn (FR), Peppermint Penguin (FR) ×2, Cow (R), Copycat (R), Fly-A-Pet Potion | **kaylamicmi**: Peppermint Penguin (MFR) |
-| 05:11 | **sxftBlossomBR**: Cherry Blossom Hang Glider, Copycat (R), Copycat | **kobii_x**: Skeleton Winged Glider, Cat Plush, Alley Cat (NR), Panda Pal, Fly-A-Pet Potion |
-| 05:11 | **Pandalovedogss**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×15, Pet Handler Pro Certificate | **Yeoya_O**: Turtle (FR) |
-| 05:11 | **Yeoya_O**: Turtle (FR) | **ProPro2021**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
-| 05:11 | **ohinam**: Turtle (FR) ×10, Turtle (R) | **Yeoya_O**: Frost Dragon (FR) |
-| 05:11 | **Reveknalt1**: Admin Abuse Egg ×18 | **Kiizn**: Ride-A-Pet Potion |
-| 05:11 | **lxcieex**: Shark Puppy (NR) | **xxRemialt2**: Egg Stroller |
-| 05:11 | **Fruit_Kittie**: Ride-A-Pet Potion | **resplentend**: Bunny Swirl |
-| 05:11 | **dadjio6alt**: Ride-A-Pet Potion ×2 | **zjnxhdn**: Skelicorn (M) |
-| 05:11 | **SpriingDior**: Pomeranian (M), Princess Mare (M) | **stzrena**: Chihuahua (N) |
-| 05:11 | **TriggerAimbotJimmy**: Pig (FR), Stray Cat Dragon | **usernamemeeemr**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3 |
-| 05:11 | **reaper_pickles**: Ride-A-Pet Potion | **REALjaylarp**: Paint Sealer ×13 |
-| 05:11 | **CalsoyTerminal**: Alpaca (R) | **Bear_crunch201122**: Blue Neon Snowboard, Green Neon Snowboard, Orange Neon Snowboard, Sunrise Hang Glider, Skeleton Winged Glider, Toxic Barrel, Yellow Taxi Cab, Ice Plane |
-| 05:06 | **human4691236**: Cryptid (NFR), Ice Cream Cone Hat ×2, Spring Bunny Hood | **Lololoshka53793**: Giant Panda, Munchkin Cat (M) |
-| 05:06 | **FlyToTheSaturn**: Double Stroller ×3, Rocket Ship Stroller, High Heel Stroller, Hatched Egg Stroller, Froggy Stroller, Dog House Stroller, Crystal Ball Stroller, Crate Stroller ×5, Triple Stroller ×4 | **ToberRain**: Fly-A-Pet Potion |
+| 05:25 | **Special_Foxi**: Spring Bunny Feet, Pink Butterfly Wings | **Wockillzzz2**: Fly-A-Pet Potion |
+| 05:25 | **BARENIK_229**: Fly-A-Pet Potion | **averyykki**: Chocolate Dutch Guinea Pig |
+| 05:25 | **Kattyloni**: Scarecrow (N), Icy Porcupine (N), Gold Tiara | **themudwizard**: Ride-A-Pet Potion |
+| 05:25 | **hzmimii**: Ride-A-Pet Potion | **Halaaa7397**: Black Springer Spaniel |
+| 05:25 | **mykonoooo08**: Hot Doggo (FR), Ride-A-Pet Potion | **LoriDreamy123**: 2022 Birthday Party Hat, 2022 Birthday Party Horn |
+| 05:25 | **Ilovetosleeppp4**: Copycat ×2, Spring Bunny Hood | **CrossyJop**: Flamingo (FR) |
+| 05:25 | **lkmsdfw**: Fly-A-Pet Potion | **gamereldark_YT**: Rock (N), Flying Fish (NR) |
+| 05:25 | **NerVhana**: Gecko (MFR) | **d9intyy**: Tiny Wings |
+| 05:25 | **R3n3_khlo3**: Chihuahua ×2 | **Isaticas**: Ride-A-Pet Potion |
+| 05:20 | **JPrincipeS09**: Ride-A-Pet Potion | **1weektoeviluni0**: Crystal Egg ×16 |
+| 05:20 | **RoyaleWanderer**: Giraffe (FR), Cryptid (FR) | **kiaraaalol1**: Owl (NFR) |
+| 05:20 | **crizz_pr0**: Hot Doggo (NFR), Spring Bunny Hood, Goth Shoes | **TsukiakariShirayuki**: Christmas Pudding Pup (MFR) |
+| 05:20 | **kulveqq**: Arctic Dusk Dragon (M), Ice Cream Cone Hat | **stvrestial**: Evil Unicorn (FR) |
+| 05:20 | **iaMatthieu1**: Cow (FR) | **llanprolol1**: Candicorn (FR), Shark Puppy (FR), Fly-A-Pet Potion ×2 |
+| 05:20 | **Cynor0x**: Evil Unicorn (FR), Angel Wings | **as_ishere**: Strawberry Shortcake Bat Dragon (NFR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
