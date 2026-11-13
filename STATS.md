@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 05:01 UTC by the scrape workflow._
+_Updated 2026-11-13 05:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 05:01 UTC by the scrape workflow._
 | amvgg | 3 | 27,606 | 2026-11-13T05:00 |
 | elve | 3 | 5,562 | 2026-11-13T05:01 |
 
-## AMVGG completed trades: 6,421 total
+## AMVGG completed trades: 6,443 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 588 |
+| 2026-11-13 | 610 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 05:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:00 | **AutoTradeCommission**: Polar Bear (MFR), Velocirooster ×2, Ride-A-Pet Potion | **Kristinabillottii**: Stray Cat Dragon (M), Temple Friend (M), Pain au Chat (M), Chihuahua (M), Naga Dragon (N), Golden King Penguin (NFR), Emberlight (N), Yule Log Dog (N), Officer Gibbon (M), Nightmare Owl (MR), T-Rex (N), Capybara (N), Hero Gibbon, Waffle Wyrm (M), Alicorn (NR), Mummy Spider (M), Ice Cube (M), Tree Sasquatch (M) |
-| 05:00 | **iloveslappers2**: Turtle (FR), Pig (FR) | **meowieboogie**: Cow (FR) |
-| 04:55 | **BREEZY_LOVER1**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **wintersbiohazard**: Rainbow Maker |
-| 04:55 | **1_TASTEANDY0ULLBMINE**: Corgi (N), Pangolin (N), Red Panda (N), Beaver (N), Cattuccino | **boonjour_amies**: Ride-A-Pet Potion |
-| 04:55 | **Mstefcoo1**: Frost Dragon (FR), Parrot (FR), Albino Monkey (NFR) | **xxjohnjokexx**: Frost Dragon (NFR) |
-| 04:55 | **javvyvt**: Bandicoot (N), Crab (N), Chestnut Glyptodon (N), Amber Butterfly (N), Cocoadile (N) | **boonjour_amies**: Ride-A-Pet Potion |
-| 04:55 | **Officalyuichi**: Dragonfruit Fox, Pupcake (MR), Ride-A-Pet Potion ×4 | **TsukiKito**: Munchkin Cat (FR) |
-| 04:55 | **Preppygur5**: Parrot (NFR) | **xavspup**: African Wild Dog, Haetae, Alpaca, 2022 Birthday Party Hat, Unicorn Horn, 2022 Birthday Party Horn |
-| 04:55 | **s1iilyy**: Gaelic Fae (F) | **Wockillzzz2**: Ride-A-Pet Potion ×2 |
-| 04:55 | **Adoptmetradingalt82**: Lamb (MFR) | **Cynor0x**: Angel Wings |
-| 04:55 | **theropywasted**: Burger Bear (N) | **MlodyMultiAlterntor**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 04:55 | **MorpekoMuncher**: Fly-A-Pet Potion ×16 | **Fox7Art**: Cow (FR) |
-| 04:55 | **neori94**: Copycat (MR) ×2 | **HairazaxLA**: Frost Dragon (FR), Candicorn |
-| 04:55 | **editor16**: Ballet Swan, Fly-A-Pet Potion | **L_person21**: Jester Dragon |
-| 04:55 | **ALTAMERANO10**: Parrot (FR) | **ELVEAMVGGTRADER890**: Munchkin Cat (MFR), Caterpillar, Cow (R), Water Moon Bear (M), French Bulldog (N) |
+| 05:11 | **vupxric**: Owl (FR), Evil Unicorn (FR), Peppermint Penguin (FR) ×2, Cow (R), Copycat (R), Fly-A-Pet Potion | **kaylamicmi**: Peppermint Penguin (MFR) |
+| 05:11 | **sxftBlossomBR**: Cherry Blossom Hang Glider, Copycat (R), Copycat | **kobii_x**: Skeleton Winged Glider, Cat Plush, Alley Cat (NR), Panda Pal, Fly-A-Pet Potion |
+| 05:11 | **Pandalovedogss**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×15, Pet Handler Pro Certificate | **Yeoya_O**: Turtle (FR) |
+| 05:11 | **Yeoya_O**: Turtle (FR) | **ProPro2021**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
+| 05:11 | **ohinam**: Turtle (FR) ×10, Turtle (R) | **Yeoya_O**: Frost Dragon (FR) |
+| 05:11 | **Reveknalt1**: Admin Abuse Egg ×18 | **Kiizn**: Ride-A-Pet Potion |
+| 05:11 | **lxcieex**: Shark Puppy (NR) | **xxRemialt2**: Egg Stroller |
+| 05:11 | **Fruit_Kittie**: Ride-A-Pet Potion | **resplentend**: Bunny Swirl |
+| 05:11 | **dadjio6alt**: Ride-A-Pet Potion ×2 | **zjnxhdn**: Skelicorn (M) |
+| 05:11 | **SpriingDior**: Pomeranian (M), Princess Mare (M) | **stzrena**: Chihuahua (N) |
+| 05:11 | **TriggerAimbotJimmy**: Pig (FR), Stray Cat Dragon | **usernamemeeemr**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3 |
+| 05:11 | **reaper_pickles**: Ride-A-Pet Potion | **REALjaylarp**: Paint Sealer ×13 |
+| 05:11 | **CalsoyTerminal**: Alpaca (R) | **Bear_crunch201122**: Blue Neon Snowboard, Green Neon Snowboard, Orange Neon Snowboard, Sunrise Hang Glider, Skeleton Winged Glider, Toxic Barrel, Yellow Taxi Cab, Ice Plane |
+| 05:06 | **human4691236**: Cryptid (NFR), Ice Cream Cone Hat ×2, Spring Bunny Hood | **Lololoshka53793**: Giant Panda, Munchkin Cat (M) |
+| 05:06 | **FlyToTheSaturn**: Double Stroller ×3, Rocket Ship Stroller, High Heel Stroller, Hatched Egg Stroller, Froggy Stroller, Dog House Stroller, Crystal Ball Stroller, Crate Stroller ×5, Triple Stroller ×4 | **ToberRain**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
