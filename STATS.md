@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 06:16 UTC by the scrape workflow._
+_Updated 2026-11-13 06:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 06:16 UTC by the scrape workflow._
 | amvgg | 3 | 28,744 | 2026-11-13T06:15 |
 | elve | 3 | 5,757 | 2026-11-13T06:16 |
 
-## AMVGG completed trades: 6,555 total
+## AMVGG completed trades: 6,570 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 722 |
+| 2026-11-13 | 737 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 06:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:15 | **cutie_friends4**: Admin Abuse Egg ×2, Crystal Egg ×2 | **Tradingonly369**: Chick |
-| 06:15 | **Fruit_Kittie**: Ride-A-Pet Potion | **Kir4kaaa**: Bunny Swirl |
-| 06:15 | **sclilxq**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×7 | **odading12318**: Alpaca (FR) |
-| 06:15 | **AAL1R4H**: African Wild Dog (R) | **Lovely_Dana891**: Cow (FR), Arctic Reindeer (FR), Candyfloss Chick (FR), Alpaca (R) |
-| 06:15 | **sclilxq**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×7 | **odading12318**: Alpaca |
-| 06:15 | **Qu33nDQCrimsonO19932**: Chihuahua ×4 | **Hamishdogecool**: Ride-A-Pet Potion ×2 |
-| 06:15 | **DUCKOOOOOO_2**: Paint Sealer | **RyunJinLeoNin**: Stray Cat Dragon |
-| 06:15 | **dethxhellgrl**: Ride-A-Pet Potion | **123Itz_Charlotte**: Retired Egg ×18 |
-| 06:15 | **TheCrazyYTGamer**: Dire Wolf (N), Endangered Egg ×5 | **TempeBuriq**: Dire Wolf (N) |
-| 06:15 | **xxXchange_Vibe**: Orchid Butterfly (R), Cabbit (NR), Ice Cream Cone Hat | **notorir**: Sea Slug (MFR) |
-| 06:15 | **w0onlll**: Bunny Swirl (N), Ride-A-Pet Potion | **pecrylover123**: Pet Handler Pro Certificate ×2 |
-| 06:15 | **Csennyke**: Unicorn Horn, Tiny Wings, Border Collie (NFR) | **pecrylover123**: Ghost Bunny (NFR), Ghost Wolf (MFR), Amami Rabbit (MFR), Moon Rabbit (MFR), Candy Hare (NFR), Bunny Swirl (MFR) |
-| 06:15 | **pecrylover123**: Frost Dragon (FR), Turtle (FR), Mermicorn (R), Candicorn (R) | **Puresksxz**: Arctic Reindeer (NFR), Owl (FR) |
-| 06:15 | **FlyToTheSaturn**: Shiba Inu, Starfish ×5, Swordfish ×4, Toucan ×4, White Choccybunny, Ocelot (N), Monkey (R), Amber Butterfly | **iDontKnowYou89844**: Fly-A-Pet Potion |
-| 06:15 | **pogigelo31**: Giraffe (FR), Crow (FR), Parrot (FR), Chocolate Chip Bat Dragon, Cabbit (FR), Werewolf (R), Candyfloss Chick (FR), Zombie Buffalo, Polar Bear (FR), Rhino (N) | **Itssss_cincoo**: Bat Dragon (FR) |
+| 06:25 | **dollie_vx**: Turtle (NFR) | **AsianIceCold**: Arctic Dusk Dragon (NFR), Turtle (FR), Boohoo (N) |
+| 06:25 | **Erickztt16**: Cabbit | **SanAndres404**: Field Mouse (NFR) |
+| 06:25 | **RiordanFan19**: Shetland Pony Dark Brown (MR) | **tiffyyyyee**: Ride-A-Pet Potion ×2 |
+| 06:25 | **Malinamyn**: Chihuahua, Winter Fawn (N), Golden Dragon | **Alexp12308**: Ride-A-Pet Potion |
+| 06:25 | **odading12318**: Lion Cub (NR) | **IIuvbr**: Lion Cub (FR), Lion Cub, Fly-A-Pet Potion ×3, Spring Bunny Hood |
+| 06:25 | **Rita_ggh**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 | **Niruch_Bearly**: Midnight Dragon (FR) |
+| 06:20 | **Yamajyjopyvazelinov1**: Angus Cow (NFR) | **Aslie_17**: Ride-A-Pet Potion |
+| 06:20 | **Lemonz_Die**: Ice Cream Heels, Macaw Wings | **cattymimi100**: Gemstone Egg ×2 |
+| 06:20 | **prezervativkotika**: Mini Pig | **JaideLuvs**: Copycat (NFR), Copycat |
+| 06:20 | **Lunaflower2020**: Ride-A-Pet Potion ×4 | **BambooIThink**: Fly-A-Pet Potion ×2 |
+| 06:20 | **Evo4ka_Devo4kaMI**: Summer Walrus Sunhat, Elf Shoes, Bone Wings, Rotating Periscope, Marshmallow Friend, Buttoned Ushanka | **pmpjmg1**: Ride-A-Pet Potion |
+| 06:20 | **dollie_vx**: Chocolate Chip Bat Dragon Backpack | **kyufrhg**: Kitty Biscuit |
+| 06:20 | **Lola242532**: Mistletroll (M) | **Kingfam90**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 06:20 | **tootmoonfish**: Crow (FR), Blazing Lion (FR) | **xuanshenzen**: Frost Dragon (FR), Tiny Wings |
+| 06:20 | **AfroditTaa45**: Ballet Swan (NFR) | **re_eee0**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
