@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 19:16 UTC by the scrape workflow._
+_Updated 2026-11-13 19:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 19:16 UTC by the scrape workflow._
 | amvgg | 3 | 40,894 | 2026-11-13T19:15 |
 | elve | 3 | 8,419 | 2026-11-13T19:16 |
 
-## AMVGG completed trades: 9,127 total
+## AMVGG completed trades: 9,151 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,294 |
+| 2026-11-13 | 3,318 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 19:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:15 | **L_person21**: Candicorn (NR) | **Mira32733**: Pig (FR), Dragonfruit Fox (N) ×2, Dragonfruit Fox ×5, Pupcicle ×4 |
-| 19:15 | **meowmew_51**: Pig (FR) | **Mira32733**: Pupcicle (NFR), Pupcicle ×4 |
-| 19:15 | **iii_Chloepvpiii**: Dodo (NR), Owlbear (R), Happy Clam (R), Happy Duckling (NR), Ghost Bunny (FR), Zombie Wolf | **csg8f**: Haetyphoon (FR) |
-| 19:15 | **Naya446678**: Pupcicle ×4, Ride-A-Pet Potion ×2, Ocelot (MR), Stygian Owl (M), Pink Cat Ear Headphones | **baby_demonakakj**: Pig (R) |
-| 19:15 | **vlados_krash**: Turtle (R) | **looperhole2**: Arctic Fox (R) ×2, Jester Dragon (R), Count Slothula (N) |
-| 19:15 | **reserbadong2**: Parrot (NFR) | **looperhole2**: Parrot (FR), Giant Panda (FR) |
-| 19:15 | **Stefanie_est**: Candicorn (FR) ×2, Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3 | **iaMatthieu1**: Candicorn (NFR) |
-| 19:15 | **lera5132**: Arctic Fox (R) | **Butterfly99036**: Ride-A-Pet Potion ×9 |
-| 19:15 | **w00xtxs**: Pupcicle | **IAmInternetAngel**: Ride-A-Pet Potion |
-| 19:15 | **Alana_enna22**: Cattuccino (M) | **batata_72537**: Fly-A-Pet Potion |
-| 19:15 | **adivertirte**: Cattuccino | **noemihgvgv**: Retired Egg ×9 |
-| 19:15 | **WeirdKage**: Copycat, Brown Bear (NF) | **VirKa_SUPER2**: Kangaroo (FR) |
-| 19:15 | **Alana_enna22**: Mongoose (N), Ladybug (N) | **irishazu_2014**: Ride-A-Pet Potion |
-| 19:15 | **anst688**: Lion Cub | **pugq33n23**: Ride-A-Pet Potion ×6 |
-| 19:15 | **dimon221221332**: Pupcicle ×18 | **StreamPlayz508**: Pupcicle (M) |
+| 19:25 | **C0PHYAK**: Kangaroo (FR), Husky (NFR), Great Pyrenees (NR), Fly-A-Pet Potion ×2 | **kauwixz**: Cow (FR) |
+| 19:25 | **elfania_3**: Snow Cat (M), Bubblegeist | **Frijolera09**: Classic Trade Stand |
+| 19:25 | **fluffyunicorns_932**: Dalmatian (FR), Cow (FR) | **heltobrex**: Goat (MFR) |
+| 19:25 | **k6vvall**: Clownfish (N), Toasty Red Panda (MFR), Ostrich (MFR), Crystal Egg | **Mylittlecrushfrom**: Kangaroo (R) |
+| 19:21 | **Computerdude127**: Fly-A-Pet Potion | **roximeuwu**: Chicken |
+| 19:21 | **MegaJady**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×14, Red Dutch Guinea Pig | **elfania_3**: Turtle (FR) |
+| 19:21 | **simbalove310**: Kitsune, Green-Chested Pheasant, Purrowl (N) | **snqwqrw**: Pupcicle |
+| 19:21 | **Fishlett1**: Praying Mantis ×2 | **Myobap**: Nautilus |
+| 19:21 | **Ruperto_1297**: Ride-A-Pet Potion | **pinkrush56**: Pupcicle |
+| 19:21 | **xmikaeq**: Aurora Fox (MFR) | **mia817700**: Shark Puppy (MFR) |
+| 19:21 | **local_waffIe**: Albatross (M), Super Saru, Mr. Whiskerpips | **Potatolover123yay**: Ghost Bunny (NFR) |
+| 19:21 | **Cutsy_BunnyXD**: Moose Calf, Dragonfruit Fox | **Elpepeexd2134**: Pupcicle (N) |
+| 19:21 | **pinksanriopIushy**: Christmas Pudding Pup (N), Toaster Hat | **ri0txh**: 2022 Birthday Cupcake Shoes ×2 |
+| 19:21 | **Mm2_aha74**: Ocelot (NR), Parakeet (NF), Cake Friend (R), Frostclaw (FR), Kiwi Kiwi, Bullfrog (FR) | **Pandora_xsx2**: Fly-A-Pet Potion ×2 |
+| 19:21 | **Computerdude127**: Fly-A-Pet Potion | **inputw**: Chicken |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
