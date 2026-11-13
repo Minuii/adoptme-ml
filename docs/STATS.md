@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 20:55 UTC by the scrape workflow._
+_Updated 2026-11-13 21:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 20:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 42,388 | 2026-11-13T20:45 |
-| elve | 3 | 8,718 | 2026-11-13T20:45 |
+| amvgg | 3 | 42,632 | 2026-11-13T21:00 |
+| elve | 3 | 8,797 | 2026-11-13T21:01 |
 
-## AMVGG completed trades: 9,599 total
+## AMVGG completed trades: 9,616 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,766 |
+| 2026-11-13 | 3,783 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 20:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:55 | **gigAntiC_annA**: Pirate Hermit Crab, Cattuccino | **themudwizard**: Ride-A-Pet Potion |
-| 20:55 | **MegaJady**: Clementine Owl, Classic Trade Stand, Chimera | **themudwizard**: Ride-A-Pet Potion |
-| 20:55 | **14pawz**: Border Collie (MFR) | **mikepower240508**: Elephant (MFR), Elephant (N) |
-| 20:55 | **kennybear2009**: Balloon Unicorn (FR), Turtle (FR), Red Dutch Guinea Pig (NR) | **Sarah72042**: Emperor Gorilla (MFR) |
-| 20:55 | **k_sybom**: Pupcicle | **Abigail_Inferno237**: Fly-A-Pet Potion |
-| 20:55 | **king_93071**: Tarsier (MR), Turtle (FR) | **Xxskibidy67**: Cow (FR) |
-| 20:55 | **ADDIEISCHEAP**: Parrot (F), Hot Doggo (R), Peppermint Penguin (FR), Cow (FR) | **ADOPTME_TRADE596**: Frost Dragon (FR) |
-| 20:55 | **XxbobaloverXx565**: Copycat, Choco Penguin | **LoletitaYT**: Copycat |
-| 20:55 | **Petsimrestart_1**: Mermicorn (R) ×2, Crocodile, DJ Snooze (MR) | **likadbsv1**: Strawberry Shortcake Bat Dragon (FR) |
-| 20:55 | **123martin123456798**: Hippogriff (MFR) | **Kit1yyzzz**: Pupcicle ×8 |
-| 20:55 | **XXXbrokenXD**: Pupcicle (N), Pupcicle ×2, Chihuahua, Bunny Ear Tiara | **wskdaks**: Chihuahua (M) |
-| 20:55 | **Mitribuyyo**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, 1000 Bucks Silk Bag | **TeddyBear_3938**: Pupcicle ×4 |
-| 20:55 | **jArYnAa**: Copycat (MFR) | **Kristyjunio_r**: Cryptid (FR) |
-| 20:55 | **MegaJady**: Dilophosaurus (N), Ibis (N) | **Shehatesme420**: Ride-A-Pet Potion |
-| 20:55 | **Shehatesme420**: Fly-A-Pet Potion ×2 | **leyley_purple**: Sloth (N), Mule, Black Tiger (M), Catte, Therapy Dog, Electric Hornet |
+| 21:00 | **youngestxd**: Ride-A-Pet Potion | **minimal_juasjuas**: Pupcicle |
+| 21:00 | **JEROMENPI_1**: Grim Dragon (FR), Sea Angel (M) | **poorbunii**: Cabbit (FR) |
+| 21:00 | **Haisinberge**: Retired Egg ×4 | **Dash35813**: Easter Bunny |
+| 21:00 | **OlaPL5432151**: African Wild Dog (FR), African Wild Dog (R) | **ADDIEISCHEAP**: Frost Dragon (FR) |
+| 21:00 | **Lucie_Dreemurr2**: Arctic Dusk Dragon (MFR), Spring Bunny Feet, Puptune (NR), Vanilla Penguin, Tuxedo Cat, Rock Pigeon (N) | **LaZy_PoPtArTs**: Evil Unicorn (R) |
+| 21:00 | **Mousepiggyofc**: Glormy Crab, Blue Whale, Golden Egg | **UnU_Darina1**: Slothula Transformation Animated Sticker |
+| 21:00 | **Sasukepro800**: Alpaca (R) | **Ush_8044**: Pupcicle ×16 |
+| 21:00 | **ellasweetcakelove**: Candicorn (NFR), Strawberry Penguin (R), Dango Penguins (FR), Chocolate Dutch Guinea Pig, Flaming Fox | **XxSaibelxX**: Strawberry Shortcake Bat Dragon |
+| 21:00 | **Fairy_Demon190**: Retired Egg ×3 | **Dash35813**: Skelicorn |
+| 21:00 | **JustCallMe_Sendy**: Frostbite Bear | **Gilbertissoawesome3**: Turtle (FR) |
+| 21:00 | **Hamigail**: Pupcicle | **Abigail_Inferno237**: Chocolate Dutch Guinea Pig |
+| 21:00 | **unice_unicoo**: Ride-A-Pet Potion | **candygirllover73**: Gemstone Egg ×3 |
+| 21:00 | **rainthatxx**: Elephant | **Hasiiiiiiiiiiiii**: Pupcicle ×14 |
+| 21:00 | **KemmasRoblox**: Ride-A-Pet Potion | **jilucie2010**: Pupcicle |
+| 21:00 | **akatsiiii**: Ride-A-Pet Potion | **Aesthetic_Mexico**: Pupcicle |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
