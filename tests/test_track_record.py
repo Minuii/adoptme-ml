@@ -1,6 +1,6 @@
 """Checks for track_record.py with made-up forecasts and snapshots. No network.
 
-    python test_track_record.py      # or: pytest test_track_record.py
+    python tests/test_track_record.py      # or: pytest tests
 """
 import csv
 import gzip
@@ -8,6 +8,9 @@ import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # the project folder: scraper.py and friends
 from track_record import record, score_day, value_at
 
 UTC = timezone.utc

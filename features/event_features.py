@@ -1,6 +1,6 @@
 """Game-update features from playadopt.me/news (data/news.jsonl, one post per update, back to 2020).
 
-    from event_features import event_features
+    from features.event_features import event_features
     E = event_features(days, names)   # long table: day, name + feature columns, to merge into the model panel
 
 A post goes live with the update (usually Friday 15:00-16:00 UTC) and Elvebredd reacts hours later, so a feature for

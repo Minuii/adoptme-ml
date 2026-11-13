@@ -6,7 +6,7 @@
     python scraper.py elve-ads   # sample of Elvebredd's newest trade listings -> data/ads/elve/<day>.jsonl
     python scraper.py auto     # trades + both ad feeds, plus values + new Elve value updates if the last snapshot is older than VALUES_EVERY
     python scraper.py amvgg-updates # AMVGG's change log (since 2026-06-02) -> data/amvgg_updates/<month>.jsonl
-    python scraper.py stats         # rewrite STATS.md
+    python scraper.py stats         # rewrite docs/STATS.md
     python scraper.py health        # exit 1 if a collector has gone quiet (the bot's last step: a failed run = an email)
     python scraper.py news          # new playadopt.me/news posts (update notes since 2020) -> data/news.jsonl
     python scraper.py elve-updates  # Elvebredd's change log (old -> new value per variant, since 2023-09) -> data/elve_updates/<month>.jsonl
@@ -353,7 +353,7 @@ def num(v):
 
 
 def write_stats():
-    """STATS.md at the repo root: a human-readable view of what has been collected so far."""
+    """docs/STATS.md: a human-readable view of what has been collected so far."""
     def side(s):
         names = [i["name"] + (f" ({i['badges']})" if i["badges"] else "") for i in s["items"]]
         items = ", ".join(n + (f" ×{names.count(n)}" if names.count(n) > 1 else "") for n in dict.fromkeys(names))
@@ -396,7 +396,7 @@ def write_stats():
         out += [f"\n## AMVGG value changes: {len(gg):,} since {gg[0]['updatedAt'][:10]}\n",
                 "| When (UTC) | Item | Changes |", "|---|---|---|"]
         out += [f"| {c['updatedAt'][:16].replace('T', ' ')} | {c['itemName']} | {moves(c)} |" for c in gg[-15:][::-1]]
-    (DATA.parent / "STATS.md").write_text("\n".join(out) + "\n", encoding="utf-8")
+    (DATA.parent / "docs" / "STATS.md").write_text("\n".join(out) + "\n", encoding="utf-8")
 
 
 # ---- trade ads ("I give X, I want Y" listings) ----

@@ -3,14 +3,14 @@ using only Elvebredd's own change log (no AMVGG, no trades yet).
 
     python elve_model.py            # build the panel, run the walk-forward test, write results/elve_model.md
     python elve_model.py ads        # same test on the months that have offers (trade listings), with and without the offer features
-                                    # (ad_features.py) -> results/ads_model.md
+                                    # (features/ad_features.py) -> results/ads_model.md
     python elve_model.py ads 3      # only the last 3 test months (quick check)
     python elve_model.py events [N] # same, with and without game-update features from playadopt.me/news
-                                    # (event_features.py) -> results/events_model.md
+                                    # (features/event_features.py) -> results/events_model.md
     python elve_model.py both [N]   # offer months only: base, + offers, + events, + both -> results/both_model.md
                                     # (H=30 python elve_model.py both -> results/both_model_30d.md)
     python elve_model.py amvgg [N]  # months with AMVGG's own change log (2026-07 on): base vs + AMVGG value moves
-                                    # (amvgg_features.py), plus the "AMVGG moved first" rule as a baseline -> results/amvgg_model.md
+                                    # (features/amvgg_features.py), plus the "AMVGG moved first" rule as a baseline -> results/amvgg_model.md
     python elve_model.py size [N]   # how much, not just which way: expected % change + 10-90% range (offers + news),
                                     # tested walk-forward -> results/size_model.md, plus results/forecast.csv for today
     python elve_model.py forecast   # no test: train the offers + news classifier on every row with a known outcome and call
@@ -321,13 +321,13 @@ def add_groups(df, V, groups, optional=()):
     cols, start = {}, df.day.min()
     for g in groups:
         if g == "offers":
-            from ad_features import ad_features
+            from features.ad_features import ad_features
             X, on = ad_features(V.index, pets), ["day", "name", "kind"]
         elif g == "amvgg":
-            from amvgg_features import amvgg_features
+            from features.amvgg_features import amvgg_features
             X, on = amvgg_features(V.index, pets), ["day", "name", "kind"]
         else:
-            from event_features import event_features
+            from features.event_features import event_features
             X, on = event_features(V.index, pets), ["day", "name"]
         cols[g] = [c for c in X.columns if c not in ("day", "name", "kind")]
         df = df.merge(X, on=on, how="left")

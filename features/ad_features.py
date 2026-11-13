@@ -1,6 +1,6 @@
 """Trade-ad demand features: how much a pet is wanted vs offered in AMVGG and Elvebredd trade ads.
 
-    from ad_features import ad_features
+    from features.ad_features import ad_features
     A = ad_features(days, names)   # long table: day, name, kind + feature columns, to merge into the model panel
 
 The two sites were sampled at very different rates (bot: every ad it sees; backfills: 1 page per hour on AMVGG,

@@ -16,26 +16,29 @@ Adopt Me (Roblox) pet-value tracking and prediction.
 
 ## Files
 
+Top level: the four programs the bot, the site build and Kaggle run by name (`scraper.py`, `build_site.py`, `elve_model.py`, `track_record.py`), the docs agents read first, and `data/`, `results/`, `site/`, `checks/`. Everything else sits in `features/` (model inputs), `tests/`, `scripts/` (one-off tools) and `docs/`. Run everything from the project folder.
+
 | File | What it does |
 |---|---|
 | `scraper.py` | All collectors. `python scraper.py auto` is what the bot runs; `health` exits 1 if any collector has gone quiet. The docstring at the top lists every subcommand. Also has the shared helpers `item_key()` (name matching across sites), `elve_canonical()` (Elve's duplicate entries), `load_*()` loaders. |
-| `ads_backfill.py` | One-off, resumable offer-history backfill (AMVGG + Elve). **Done**; don't rerun. |
-| `ad_features.py` | Per-pet daily offer features (wanted vs offered shares). |
-| `event_features.py` | Per-pet and market features from playadopt.me news posts (new pets, leaving, returning). |
-| `amvgg_features.py` | Per-pet daily features from AMVGG's own change log (has AMVGG already moved?). Only from 2026-07 on. |
+| `scripts/ads_backfill.py` | One-off, resumable offer-history backfill (AMVGG + Elve). **Done**; don't rerun. |
+| `features/ad_features.py` | Per-pet daily offer features (wanted vs offered shares). Run alone: `python -m features.ad_features`. |
+| `features/event_features.py` | Per-pet and market features from playadopt.me news posts (new pets, leaving, returning). |
+| `features/amvgg_features.py` | Per-pet daily features from AMVGG's own change log (has AMVGG already moved?). Only from 2026-07 on. |
 | `elve_model.py` | Builds the daily value panel and features, and runs walk-forward tests. Modes are listed in its docstring: (none), `ads`, `events`, `both`, `amvgg`, `size`. Env vars: `H` = horizon in days (default 7), `FLAT` = flat band, `VALUE_FLOOR` = smallest value counted in the "no penny pets" picks (default 0.25). |
-| `test_scraper.py` | Checks for name matching and the page parser, no network: `python test_scraper.py`. Run it after touching `scraper.py`. |
+| `tests/` | `python tests/test_scraper.py` (name matching and the page parser, no network; run it after touching `scraper.py`) and `python tests/test_track_record.py`. |
 | `requirements.txt` | What the model needs (the collectors and the site use the standard library only). |
 | `build_site.py` | Builds `site/data.json`, `stats.json`, `ads.json`, `activity.json`, `forecast.json` and `journal.json` (Journal facts + news mentions) from `data/` and `results/`. |
 | `site/index.html` | The website (single page, d3). Run locally: `python -m http.server 8767 -d site`. |
-| `track_record.py` | Scores the saved daily 30-day forecasts once their 30 days are over (stdlib; used by `build_site.py`). Tests: `python test_track_record.py`. |
-| `fetch_images.py` | Official wiki catalog → `data/catalog.json` (rarity, origin event, images). |
+| `track_record.py` | Scores the saved daily 30-day forecasts once their 30 days are over (stdlib; used by `build_site.py`). Tests: `python tests/test_track_record.py`. |
+| `scripts/fetch_images.py` | Official item catalog from playadopt.me → `data/catalog.json` (rarity, origin event, images). |
 | `results/` | Model results (`*_model*.md` summaries, `*_folds.csv` per month, `forecast*.csv`). |
-| `STATS.md` | Auto-written data summary (bot). |
+| `docs/STATS.md` | Auto-written data summary (bot). |
 | `.github/workflows/scrape.yml` | Bot. Triggered by workflow_dispatch from an external cron (GitHub's own cron barely fires). Its :00 run also checks values hourly, collects news, and dispatches `pages.yml`. Each run then polls trades twice more, 5 minutes apart, and ends with `scraper.py health`. Commits go through `.github/commit_data.sh`. |
 | `.github/workflows/forecast.yml` | Daily (dispatched by the scrape workflow's 01:00 UTC run): `H=30 python elve_model.py forecast` → commits `results/direction_30d.csv`, then rebuilds the site. ~10 min on GitHub. |
 | `.github/workflows/pages.yml` | Builds and deploys the site. |
-| `AMVerse-API/` | A Postman collection, unrelated to the pipeline. |
+| `docs/AMVerse-API/` | A Postman collection for amvgg's API, unrelated to the pipeline. |
+| `checks/` | One-off check sheets (the 20 Nov scheduled task fills `top20_rise_7d_2026-11-12.xlsx`). Keep the path. |
 
 ## Data (`data/`)
 

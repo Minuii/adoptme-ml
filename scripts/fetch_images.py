@@ -1,10 +1,13 @@
 """Official item catalog + thumbnails from playadopt.me (/discover, the game's own item pages).
 
-    python fetch_images.py   # -> data/catalog.json, data/images/<category>/<kind>.png (skips files it already has)
+    python scripts/fetch_images.py   # -> data/catalog.json, data/images/<category>/<kind>.png (skips files it already has)
 """
 import json, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # the project folder: scraper.py and friends
 from scraper import DATA, UA, fetch, find_list
 
 CATEGORIES = ["pets", "accessories", "transport", "strollers", "food", "toys", "gifts"]

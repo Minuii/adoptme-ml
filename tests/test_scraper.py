@@ -1,9 +1,12 @@
 """Checks for the fragile parts of scraper.py: name matching and the Next.js page parser. No network.
 
-    python test_scraper.py      # or: pytest test_scraper.py
+    python tests/test_scraper.py      # or: pytest tests
 """
 import json
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # the project folder: scraper.py and friends
 import scraper
 
 

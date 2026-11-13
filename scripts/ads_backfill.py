@@ -1,7 +1,7 @@
 """One-off, resumable, sampled backfill of trade-ad history. Run locally (slow); the bot only collects new ads.
 
-    python ads_backfill.py amvgg   # 1 page (100 ads, ~10 min) per hour of history since late Aug 2026, ~6 s per request
-    python ads_backfill.py elve    # 1 page (50 listings) every STEP offsets of Elve's archive (Feb 2025 ->), ~1.5 s per request
+    python scripts/ads_backfill.py amvgg   # 1 page (100 ads, ~10 min) per hour of history since late Aug 2026, ~6 s per request
+    python scripts/ads_backfill.py elve    # 1 page (50 listings) every STEP offsets of Elve's archive (Feb 2025 ->), ~1.5 s per request
 
 Writes data/ads/<source>/backfill/<month>.jsonl.gz (gzip members appended in chunks) and a progress file of finished
 sample points, so it can be stopped and restarted. Kept apart from the bot's data/ads/<source>/<day>.jsonl files.
@@ -9,6 +9,9 @@ sample points, so it can be stopped and restarted. Kept apart from the bot's dat
 import gzip, json, sys, time
 from datetime import datetime, timedelta, timezone
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # the project folder: scraper.py and friends
 import scraper
 
 AMVGG_FROM = datetime(2026, 8, 20, tzinfo=timezone.utc)  # earliest ads found are ~Aug 25; empty pages before are cheap

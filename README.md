@@ -83,7 +83,7 @@ python -m http.server 8767 -d site
 pip install -r requirements.txt   # for the model
 H=30 python elve_model.py forecast   # today's 30-day calls (about 10 minutes, ~5 GB RAM)
 H=30 python elve_model.py both       # walk-forward test; slow (1 h+), faster on a GPU with xgboost
-python test_scraper.py && python test_track_record.py
+python tests/test_scraper.py && python tests/test_track_record.py
 ```
 
 `HANDOFF.md` describes every file, the rules (name matching, no leakage, git workflow with the bot) and the current state.

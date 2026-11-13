@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
-# Commit data/ and STATS.md and push. Usage: bash .github/commit_data.sh <scraper job to rerun after a conflict>
+# Commit data/ and docs/STATS.md and push. Usage: bash .github/commit_data.sh <scraper job to rerun after a conflict>
 # Two overlapping runs can both append to the same day's trades file, so a plain rebase can conflict.
 # On conflict: drop our commit, take the newest data, scrape again on top of it (dedupes), retry.
 git config user.name "github-actions[bot]"
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 for attempt in 1 2 3; do
-  git add data STATS.md
+  git add data docs/STATS.md
   git diff --cached --quiet && exit 0
   git commit -q -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
   git pull -q --rebase && git push -q && exit 0

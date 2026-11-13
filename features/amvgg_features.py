@@ -1,6 +1,6 @@
 """AMVGG value moves as features: has AMVGG already repriced a pet that Elvebredd hasn't moved yet?
 
-    from amvgg_features import amvgg_features
+    from features.amvgg_features import amvgg_features
     G = amvgg_features(days, names)   # long table: day, name, kind + feature columns, to merge into the model panel
 
 AMVGG's change log starts 2026-06-02 and only covers fly ride values (Regular / Neon / Mega). Those map to the model's
