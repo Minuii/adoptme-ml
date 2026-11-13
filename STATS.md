@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 09:11 UTC by the scrape workflow._
+_Updated 2026-11-13 09:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 09:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 31,118 | 2026-11-13T09:00 |
-| elve | 3 | 6,235 | 2026-11-13T09:01 |
+| amvgg | 3 | 31,311 | 2026-11-13T09:15 |
+| elve | 3 | 6,283 | 2026-11-13T09:16 |
 
-## AMVGG completed trades: 6,909 total
+## AMVGG completed trades: 6,919 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,076 |
+| 2026-11-13 | 1,086 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 09:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:15 | **Its_lipwwixx**: Sugar Glider (FR), Pig (FR) | **pinkven0mrockst4r**: Peppermint Penguin (FR) |
+| 09:15 | **Meowkittiikat**: Amami Rabbit (MR) | **littlehwrtz1**: Tan Chow-Chow (MR), Skunk (M), Ghost Wolf (M) |
+| 09:15 | **anekalubitnaruto**: Arctic Dusk Dragon, Fly-A-Pet Potion | **Obla4hk01**: Toaster Hat |
+| 09:15 | **YourPhysicaltest**: Strawberry Shortcake Bat Dragon (FR), Cow (FR) ×2, Vampire Dragon (NFR) | **anekalubitnaruto**: Crow (FR) |
+| 09:15 | **Letizia00000000**: Catte, Flower Power Duckling, Ride-A-Pet Potion, Fly-A-Pet Potion, Golden Walrus, Raccoon (N), Goldhorn (R), 2D Kitty, Golden Walrus (R) | **DijaBint2**: Tiny Wings |
+| 09:15 | **wherearewenow5**: Cryptid (NFR) | **anni_Dragin**: Kangaroo (FR) ×3, Candicorn (R), Turtle (FR) ×2, Ice Cream Cone Hat, Great Pyrenees (M), Sprout Snail (M), Happy Clam, Copycat, Bunny Swirl (MFR), Fairy Bat Dragon (NFR), Pig |
+| 09:15 | **jobma228**: Parrot (FR), Shrew, Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **mommy_vka123**: Evil Unicorn (FR), Crocodile (FR), Turtle (FR), Kangaroo (FR), Alpaca |
+| 09:15 | **Lextus_3**: Strawberry Shortcake Bat Dragon (FR), Mini Pig (FR), Shark Puppy (R), Pet Handler Pro Certificate | **No1Yuusha**: Cryptid (FR) |
+| 09:15 | **araunicornku**: Mini Pig | **7H3ST**: Goose (FR) |
+| 09:15 | **Babielily1**: Rain Cloud Hat | **notmain12_q**: Haetyphoon |
 | 09:11 | **emi28na**: Ride-A-Pet Potion ×2 | **Mobprodo1**: Turkey, Humbug (N), Pinkypillar (N), Toxic Kaijunior |
 | 09:11 | **fanndeMARINA**: Moose Calf | **prensesecya**: Ride-A-Pet Potion ×2 |
 | 09:11 | **kworixx**: Mini Pig (FR), Cow (FR), Siamese Cat (FR), Elephant, Fly-A-Pet Potion, Scarebear, Candicorn (FR), Cloud Car, Bunny Carriage | **leruval**: Parrot (FR) |
 | 09:11 | **Rita_ggh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **odading12318**: Arctic Fox (R) |
 | 09:11 | **fox09649**: Munchkin Cat (R), Pig (R), Arctic Fox (FR), Ride-A-Pet Potion, Bready Necklace, Gemstone Egg, Badger (NR), Eggnog Dog, Otter (F), Glamicorn Purse Pet, Bee Hive, Festive Antlers, Gold Tiara, Picnic Basket, Gold Circle Glasses, Dugong, Mistletroll, Gingerbread Mouse | **catgirl718**: Cow (FR) |
-| 09:06 | **Bumble_Lou**: Hoverboard | **inicio1994**: Well, Actually Walrus Sticker |
-| 09:06 | **inicio1994**: Kangaroo (R), Stitches ×2 | **Joelzoz**: Bush Elephant (FR) |
-| 09:06 | **Inganta07**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **BunnyDaOnee**: Unicorn (NFR) |
-| 09:06 | **sanartes**: Chocolate Dutch Guinea Pig | **hella_wick**: Burger Bear (R), Burger Bear |
-| 09:06 | **m4r4se**: Strawberry Shortcake Bat Dragon (FR), Goose (R), Jester Dragon | **AdamBawaaneh6**: Evil Unicorn (FR) |
-| 09:06 | **1111mato**: Fairy Bat Dragon (FR), Turtle (FR), Winged Tiger (R) | **m4r4se**: Arctic Reindeer (FR), Fly-A-Pet Potion |
-| 09:06 | **frt5rtfr**: Frostbite Bear (FR), Ride-A-Pet Potion ×2 | **m4r4se**: Chocolate Chip Bat Dragon (FR) |
-| 09:06 | **addmysecondaccount**: Jekyll Hydra (FR), Mrs. Whiskerpips | **FufuFluffyFlowi**: Goose (FR) |
-| 09:06 | **daanz2**: Jester Dragon (NFR), Strawberry Tortle (FR) | **Meho1234565**: Cow (R), Candyfloss Chick (FR), Ice Cream Cone Hat, Burger Bear (N) |
-| 09:06 | **realmarkayy**: Velocirooster (R) ×2, Ride-A-Pet Potion ×2 | **GreenCC12**: Giant Cheetah Mount |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
