@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 21:25 UTC by the scrape workflow._
+_Updated 2026-11-13 21:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 21:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 42,884 | 2026-11-13T21:15 |
-| elve | 3 | 8,852 | 2026-11-13T21:16 |
+| amvgg | 3 | 43,156 | 2026-11-13T21:30 |
+| elve | 3 | 8,922 | 2026-11-13T21:31 |
 
-## AMVGG completed trades: 9,727 total
+## AMVGG completed trades: 9,750 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,894 |
+| 2026-11-13 | 3,917 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 21:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:25 | **Kali_girl790**: Sushi Penguin, Fly-A-Pet Potion, Castle Hermit Crab, Praying Mantis ×2 | **elys_qn**: Unicorn (N) |
-| 21:25 | **Polinamasha123**: Catte, Scarlet Butterfly | **Hasen_queen5**: Ride-A-Pet Potion |
-| 21:25 | **Heybolloboom**: Fly-A-Pet Potion ×5 | **sillysweetgirl2011**: Chihuahua (MFR) |
-| 21:25 | **LOBYBABY512**: Copycat (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×10, Angus Calf (R) | **Maryha0243**: Turtle (FR) |
-| 21:25 | **genesisgameryt504**: Fairy Bat Dragon (R) | **AsawaNi_Tsukii**: Pupcicle (MFR) |
-| 21:25 | **sleepy_s0ren**: Parrot (FR), Goose (FR), Pet Handler Pro Certificate | **Lupaeis**: Siamese Cat (NFR), Crow (FR), Magma Snail (M) |
-| 21:25 | **Yasmimriby**: Chocolate Chip Bat Dragon (R), Peppermint Penguin (R), Siamese Cat (FR), Munchkin Cat (N), Banana Hat | **Samu_7685**: Balloon Unicorn (FR) |
-| 21:25 | **rilaxlly**: Siamese Cat (R) | **tsmovrol**: Crocodile (FR), Lion Cub, Ride-A-Pet Potion ×2 |
-| 21:25 | **belltiny**: Shark Puppy | **Yasmimriby**: Alley Cat (N) |
-| 21:25 | **1Biahsz_altx**: Ride-A-Pet Potion | **grijfe8r**: Little Lamb (M) |
-| 21:25 | **fideosconatunnom**: French Bulldog (MR) | **SirMaxAce21Sage**: Moon Rabbit (MR), Mochi Meow (MR), Golden Lettuce, Ride-A-Pet Potion |
-| 21:25 | **k_sybom**: Dragonfruit Fox | **melynagamer3**: Ride-A-Pet Potion ×2 |
-| 21:25 | **MegaJady**: Velociraptor (N), Triceratops (N), Magpie (N), Jumping Spider (N) | **Amirdl**: Ride-A-Pet Potion |
-| 21:25 | **SweetVqniIIa**: Albino Monkey | **Surgical_emergency**: Unicorn (MFR) |
-| 21:25 | **tshdk19**: Pirate Hat & Friend | **Vicmat36**: Lava Racer |
+| 21:30 | **cottoncandybike**: Jellyfish (FR), Copycat, Count Slothula (N) | **Astr0_0wlB0y**: Siamese Cat (R) |
+| 21:30 | **kroko182**: Alpaca (R) ×2, Candyfloss Chick (FR), Candyfloss Chick (R), Ride-A-Pet Potion ×2 | **makehimemo**: Alpaca (NFR) |
+| 21:30 | **kittygirl28311**: Phoenix, Stray Cat Dragon, Clownfish | **XBTayAshely**: Goldhorn (R) |
+| 21:30 | **Glormymormy**: Ride-A-Pet Potion ×6 | **meowieboogie**: Jester Dragon |
+| 21:30 | **pisapopakakashecki**: Ride-A-Pet Potion ×7 | **xXOmq_Ellen123xX**: Copycat |
+| 21:30 | **ExpertChipmunkPro**: Rainbow Maker, Strawberry Tortle, Copycat, Jester Dragon, Dango Penguins (R) | **reserbadong2**: Evil Unicorn |
+| 21:30 | **foovva**: Turtle (FR) | **mommy_vka123**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 |
+| 21:30 | **mommy_vka123**: Ride-A-Pet Potion ×13, Fly-A-Pet Potion ×2 | **foovva**: Candyfloss Chick (R) |
+| 21:30 | **qeenofwolf101**: Ice Cube (M), Cotton Candy Hat | **elys_qn**: Fly-A-Pet Potion ×2 |
+| 21:30 | **qeenofwolf101**: Spring Bunny Hood, Blue Boohoo Mega Neon Paint | **hisd3sires**: Ankylosaurus (MR) |
+| 21:30 | **Umbrella_koroleva**: Jacobin Pigeon (M), Ginger Cat (N) | **dasha88881**: Ride-A-Pet Potion |
+| 21:30 | **qeenofwolf101**: Peachick (MFR) | **0MGITSADD1E**: Spring Bunny Hood |
+| 21:30 | **egoklled**: Kitty Biscuit ×4 | **max901818**: Water Rabbit (N) |
+| 21:30 | **Chicken_Drumsticksss**: Kangaroo (FR) | **MegaJady**: Ride-A-Pet Potion ×18 |
+| 21:30 | **Honeymoney522**: Fly-A-Pet Potion | **xXOmq_Ellen123xX**: Crystal Egg ×18 |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
