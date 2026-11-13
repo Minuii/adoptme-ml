@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 23:16 UTC by the scrape workflow._
+_Updated 2026-11-13 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 23:16 UTC by the scrape workflow._
 | amvgg | 3 | 44,826 | 2026-11-13T23:15 |
 | elve | 3 | 9,287 | 2026-11-13T23:16 |
 
-## AMVGG completed trades: 10,131 total
+## AMVGG completed trades: 10,154 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 4,298 |
+| 2026-11-13 | 4,321 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 23:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **missy_Artz**: Arctic Reindeer (FR), Spring Bunny Hood | **Mx1shu**: Cow (NFR) |
-| 23:15 | **Ally808101**: Snow Monkey (MFR), Rose Dragon (MFR), Ballet Swan (MFR), Tiny Wings ×2 | **ilovestarpetadmx**: Border Collie (MFR) |
-| 23:15 | **flozzabozza07**: Anna Rattle | **Fedepatoxx**: Hot Doggo Sticker ×2 |
-| 23:15 | **fluffyunicorns_932**: Bat Dragon (FR) | **qsnmnn**: Cow (MFR), Nessie (MFR), Goose (NFR), Ice Golem (MFR), Frost Fury (MFR), Ice Cream Hermit Crab (MR), Wooly Rhino (MFR), Green Butterfly (MFR), Kangaroo (NFR), Pink Cat (NFR), Sea Slug (NFR), Frost Phoenix (MFR) ×2, Volcanic Rhino (MFR), Black Springer Spaniel (MR), Panda (MFR), Frostbite Cub (MFR), Zombie Wolf (M) |
-| 23:15 | **AndresPatato**: Paint Sealer ×13 | **Emma_pop57**: Ride-A-Pet Potion |
-| 23:15 | **anytell**: Cerberus (NFR), Ballet Swan, Lion Cub (R), Polar Bear | **axmeliealt**: Kangaroo (FR), Glormy Dolphin (NR) |
-| 23:15 | **milasblush2**: Hippo, Snow Cloud Wings | **littlefelonies**: Heart Lock Necklace |
-| 23:15 | **quietlyangel**: 2022 Birthday Party Hat | **100PercentWinRateHax**: Pupcicle ×16 |
-| 23:15 | **Cqttage_Dollface**: Pet Handler Pro Certificate, Fly-A-Pet Potion, Ride-A-Pet Potion, Nautilus, Kiwi Kiwi, Elasmosaurus | **smartfartparty**: Harp Seal (N) |
-| 23:15 | **aleks2u**: Fly-A-Pet Potion ×9 | **Shehatesme420**: Kangaroo (FR) |
-| 23:15 | **Quean_33**: Pupcicle, Ginger Cat (N), Clover Cow, Gold Circle Glasses, Green Amazon (R) | **ItzMackenzieLol910**: Pet Handler Pro Certificate |
-| 23:15 | **eulien_37**: Dragonfruit Fox, Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion | **hihihihihihihahahah2**: Jester Dragon (FR) |
-| 23:15 | **iuvzjules**: Dango Penguins, Unicorn, Vanilla Penguin (R), Ride-A-Pet Potion | **0XBONNIEX0**: Pupcicle (N) |
-| 23:15 | **bunniswn**: Hare (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Thesheeeeesh_god**: Chocolate Chip Bat Dragon (FR) |
-| 23:15 | **Ruperto_1297**: Fly-A-Pet Potion ×3 | **sleepy_s0ren**: Pupcicle (N) |
+| 23:25 | **7nillvhatessoren**: Cold Cube | **jilljaz**: Christmas Pudding House |
+| 23:25 | **megapolymorph**: Owl (FR), Cow (FR) | **Kerem_Kaka**: Monkey King (N) |
+| 23:25 | **fluffyunicorns_932**: Icy Porcupine (M) | **teddycutie7**: Nightmare Owl, Winged Horse, Chihuahua |
+| 23:25 | **Hiraimomoling1**: Griffin (NFR) | **ABCDEFDHIJF**: Moose Calf |
+| 23:25 | **JJJA_81112**: Ride-A-Pet Potion, Stray Cat Dragon (N) | **Katarinamartino**: Kiwi Kiwi, Octopus |
+| 23:25 | **kittybataholic**: Giant Anteater (MFR), Tiny Wings | **cutexqimike**: Jellyfish (MFR) |
+| 23:25 | **internetv4mpiress**: Balloon Unicorn (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **KanskjeMatilde**: Cryptid (FR), Kangaroo (FR), Elephant (FR) |
+| 23:25 | **Envasik**: Black Panther (NFR), Happy Duckling (N) | **qaavin**: Christmas Pudding Pup |
+| 23:25 | **DEV4STATINGLY**: Pupcicle ×16 | **cupidx_skyz**: Pupcicle ×7, Burger Bear (MFR) |
+| 23:25 | **SCARE_SPOOKW**: Moose Calf (R), Panda (R) | **egoklled**: Pupcicle ×3 |
+| 23:20 | **Cocoxmistyyt**: Pupcicle | **SEBASTIAN_030513**: Shark |
+| 23:20 | **donnotinteract**: Chocolate Dutch Guinea Pig (MFR), Tiny Wings, Fly-A-Pet Potion | **starletopia**: Sheeeeep (NR), Sheeeeep (N) |
+| 23:20 | **q4ietsoul**: Mochi Meow (M) | **Kyza_222222223**: Great Pyrenees, Puppeteer Hand, Sakura Scythe, Pink Hightops, Pain au Chat |
+| 23:20 | **simbalove310**: Pupcicle ×4, Count Slothula, Sea Turtle, Red Panda, Thunderfisher | **Loveflowers871**: Pupcicle (N) |
+| 23:20 | **Catsfordayzqwe**: Leopard Cat (M), Lynx (NR), Reindeer (NFR), Fly-A-Pet Potion | **ixkIsaa**: Lynx (MR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
