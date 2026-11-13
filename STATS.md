@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 01:16 UTC by the scrape workflow._
+_Updated 2026-11-13 01:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 01:16 UTC by the scrape workflow._
 | amvgg | 3 | 24,158 | 2026-11-13T01:15 |
 | elve | 3 | 4,887 | 2026-11-13T01:16 |
 
-## AMVGG completed trades: 5,984 total
+## AMVGG completed trades: 5,989 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 151 |
+| 2026-11-13 | 156 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,11 @@ _Updated 2026-11-13 01:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:25 | **AlwaysMuggle**: Frost Fury (R), Ice Golem (FR), Ice Golem (R), Arctic Dusk Dragon (R), Glormy Hound (R), Capricorn (R), Dancing Dragon (R), Fallow Deer (R), Naughty Mistletroll, Golden Rat (R), Phoenix (FR), Snow Owl (R) | **wjredmind**: Cow (FR) |
+| 01:25 | **RxchelPlxyz**: Undead Jousting Horse (FR), Fly-A-Pet Potion, Ride-A-Pet Potion, Pet Handler Pro Certificate | **xiivra**: Mini Pig (FR) |
+| 01:21 | **SweetCocountPL22**: Golden Griffin, Alicorn, Purrowl ×2, Golden Egg, Muskrat (N), Camel (N), Sloth (NR), Winter Doe (NR), Horse (NR), Ram (R), Lamb (R), Dire Wolf (N), Badger, Fire Foal | **komochegg**: Royal Palace Spaniel (MFR) |
+| 01:21 | **Anabellasilva2**: Pig (R) | **Marmuladu_cute**:  |
+| 01:21 | **iaMatthieu1**: Harp Seal (MR), Mini Pig (FR) | **areezyss**: Arctic Reindeer (R) |
 | 01:10 | **9mkii**: Chihuahua (N) | **Austa_675**: Dragonfruit Fox |
 | 01:10 | **carlkilling**: Fly-A-Pet Potion | **avneetkool**: Ride-A-Pet Potion ×2 |
 | 01:10 | **jam0khurt**: Maine Coon ×3 | **Terranese**: Ride-A-Pet Potion |
@@ -38,11 +43,6 @@ _Updated 2026-11-13 01:16 UTC by the scrape workflow._
 | 01:10 | **w0onlll**: Leopard Cat ×3 | **kaykayrules2012**: Ride-A-Pet Potion |
 | 01:10 | **D_avidOrbit**: Tutu ×2, Puddleducks Hood | **kaykayrules2012**: Ride-A-Pet Potion ×2 |
 | 01:10 | **corbin374**: Cow (FR) ×4 | **MYB505**: Kitsune (MFR), Malaysian Tapir (M), Leopard Cat (M), Pudding Cat (MR), Eggnog Dog (M), Cattuccino (M), Mochi Meow (M), Maine Coon (MR), Lynx (MFR), Catte (M), Snow Leopard (MR), Cherry Blossom Hang Glider, Ermine (M), Dire Wolf (MR), Liger (M) |
-| 01:10 | **Desired_Nightmare**: Paint Sealer ×13 | **omeIody**: Ride-A-Pet Potion |
-| 01:06 | **landenc9970i**: Snowball Pet (NFR) | **batton0955**: Ride-A-Pet Potion ×3 |
-| 01:06 | **Pato_Randoom**: Candicorn (R) | **Boo_kittykitty**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×8 |
-| 01:06 | **XZ_Snip3rsAAlphaGARa**: Spring Bunny Hood | **chip40060**: Santa Hat |
-| 01:06 | **AutoTradeCommission**: Turtle (R) | **vlados_krash**: Chihuahua (M), Snowball Pug (M), Pain au Chat (M) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
