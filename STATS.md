@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 12:16 UTC by the scrape workflow._
+_Updated 2026-11-13 12:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 12:16 UTC by the scrape workflow._
 | amvgg | 3 | 33,950 | 2026-11-13T12:15 |
 | elve | 3 | 6,891 | 2026-11-13T12:16 |
 
-## AMVGG completed trades: 7,332 total
+## AMVGG completed trades: 7,349 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,499 |
+| 2026-11-13 | 1,516 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 12:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:15 | **afissamuzfirah**: Fly-A-Pet Potion | **laokratia**: DJ Snooze (NR), Rock (NFR) |
-| 12:15 | **yshimeia**: Ride-A-Pet Potion ×4 | **Gamerqueen1255**: Unicorn Backpack |
-| 12:15 | **Yourgrandadpullsfr**: Ermine (NR), Ermine (N), Snowman (N) | **UmeiiYemmy**: Pancake Stack |
-| 12:15 | **KnifeonKeys**: Ice Wolf (MFR), Hare (MFR), Fly-A-Pet Potion | **Angeli120917625**: Goat (MFR) |
-| 12:15 | **DeiMoszxX**: Ride-A-Pet Potion, Cattuccino (N) | **Melia_2acc**: Fly-A-Pet Potion |
-| 12:15 | **aoodg0**: Red Dutch Guinea Pig (R), Australian Kelpie (R) | **KaiSaboAceCC**: Royal Palace Spaniel (R), Black-Footed Ferret (N), Blue Butterfly (N), Amber Butterfly (M), Shih Tzu (N), Muskrat (N), Jacobin Pigeon (N), Gemstone Egg, Endangered Egg |
-| 12:15 | **margini_mini**: Kangaroo (NFR), Ride-A-Pet Potion ×2 | **MathildeFX924**: Shark Puppy (NR) |
-| 12:15 | **D1v1ne_Muse**: Capybara (NFR), Canadian Goose (MFR), Shiver Wolf (MR), Bullfrog (M) | **payaccandmau**: Cabbit (FR) |
-| 12:15 | **ytter10**: Dragonfruit Fox (N) | **haerin_1024**: Fly-A-Pet Potion ×6 |
-| 12:15 | **zS9Ou**: Dingo (NFR), Thunderfisher (M) | **XxRay_Playz2xX**: Fly-A-Pet Potion ×2 |
-| 12:15 | **trulyyoliv**: Halo | **caroesel**: Cow (FR) |
-| 12:15 | **Khmerangel4130**: Halloween White Ghost Dragon (MFR), Jousting Horse (MFR), Ghost Dog (MFR) | **KeineAhnungvonnix1**: Copycat (MFR) |
-| 12:15 | **Hyhhuuuu7778y666**: Cow (FR), Fairy Bat Dragon (FR) | **SPIKI77228**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 12:15 | **U9l9y**: Lava Dragon (NFR), Nutcracker Squirrel (N) | **unice_unicoo**: Ride-A-Pet Potion ×13 |
-| 12:15 | **svrodrii2**: Fly-A-Pet Potion ×4 | **odading12318**: Pet Handler Pro Certificate ×4 |
+| 12:25 | **Jeremysaltaccounts3**: Werewolf (R), Halloween White Ghost Dragon (MFR), Kangaroo (FR), Ride-A-Pet Potion ×6 | **4qvssz**: Shrew (MFR) |
+| 12:25 | **elionadinda**: Ribbon Seal, Mummy Spider, Frozen Penguin, Bobageist ×2 | **LIAXMLV**: Mochi Meow |
+| 12:25 | **12M060**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×2 | **ElNoobEstaAqu1**: Candicorn (FR) |
+| 12:21 | **katyanlox**: Bunny Swirl (NFR), German Shepherd | **Julka_Polska157**: Quokka (NR), Drake, Arctic Hare (N) |
+| 12:21 | **004FAscend004**: Frost Dragon (FR), Siamese Cat (MFR), Candicorn (MFR), Candicorn (M), Latte Kitsune (MFR), Dragonfruit Fox (MR), 2022 Birthday Cupcake Shoes | **Kiandra13kiandra**: Bat Dragon (FR) |
+| 12:21 | **littlerainbowwaffle**: Halloween Black Mummy Cat (M), Crab (N) | **rasediva**: Pet Handler Pro Certificate |
+| 12:21 | **Angelbatista_me2**: Sugar Axolotl (R) | **vtugse**: Fly-A-Pet Potion ×4 |
+| 12:21 | **liofe1**: Frost Fury (FR) | **Danila121219**: Ride-A-Pet Potion ×5 |
+| 12:21 | **Little_mau08**: Dragonfruit Fox (MFR), Lava Dragon (NFR), Stray Cat Dragon (M), Skelicorn (MFR) | **Tal_Kazman**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:21 | **Redpyid**: Ride-A-Pet Potion | **xxxtentacion12639**: Chimera ×2 |
+| 12:21 | **candyuser2008**: Strawberry Shortcake Bat Dragon (FR) ×2 | **tipak368**: Cryptid (FR), Fly-A-Pet Potion ×2 |
+| 12:21 | **savvi027**: Elephant | **KoTuKu_HRWKu1**: Crocodile (FR) |
+| 12:21 | **abbyissocool_lol**: Crystal Egg ×5 | **Insxfferabl3**: Frog |
+| 12:21 | **snezzhook**: Pet Handler Pro Certificate | **caxap_rumi**: Ride-A-Pet Potion ×2 |
+| 12:21 | **JxsYBe**: Frostbite Bear | **Jtamz096**: Turtle (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
