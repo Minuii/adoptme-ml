@@ -4,7 +4,7 @@ For any AI (or person) picking this project up. It tells you what exists, what s
 The full history of every decision and finding is in `log.md` (newest at the bottom). **Add to `log.md` whenever you decide
 or find something**, and update the "Current state" and "Next steps" sections here when they change.
 
-_Last updated: 2026-11-12._
+_Last updated: 2026-11-13._
 
 ## What this project is
 
@@ -91,6 +91,7 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 - **AMVGG test (local, `results/amvgg_model*.md`):** the plain rule "AMVGG moved, so Elve will follow" is worse than repeat-last-change. As model features AMVGG's moves helped a lot at 7 days, but on 3 test months only, and gave no clear answer at 30 days (1 test month). Promising, not proven.
 - **Side panel and horizons (2026-11-13):** the Values tab's panel lists the 20 pets most likely to rise or drop, for 7 / 30 / 90 days (thresholds 2 / 5 / 10%), each with its own backtest (7 d: up calls right 51%, top 20 +6%/week; 30 d: 44%, +14%/month; 90 d: logistic regression, 52%, +25%/90 days, only 13 test months). `forecast.yml` makes all three daily.
 - **Item pages for value managers (2026-11-13):** "Traded vs its value" (median of completed trades where one side was only this item, by each list's values) and each latest trade's side totals. Values list rows show ▲/▼ 30-day chips. A yellow banner appears if the lists haven't been checked for 3+ hours.
+- **Most wanted tab (2026-11-13):** items / pet variants ranked by how often offers asked for them in the last 7 days vs offered, with search and filters; built in the browser from `activity.json`. Failed AMVGG trades are left out on purpose (the completed-trades page doesn't list them; see log.md).
 - **Offer features count a pet once per poster per day** (spam / repeat filter, 2026-11-13): no harm in the test, slightly better ranking.
 - **Site forecast (2026-11-13):** `elve_model.py forecast` trains the offers + news classifier on all rows with a known 30-day outcome and calls the newest day; `build_site.py` turns `results/direction_30d.csv` into `site/forecast.json`; item pages show it. Runs daily on GitHub (scikit-learn); the calls agree with Kaggle's XGBoost (correlation 0.95 on P(up) and P(down)). Most calls are "no clear move" (2,245 of 2,406), ~130 down, ~30 up.
 - **Full-history Kaggle results with the stricter scoring are in (2026-11-12, see the summary above and log.md).** The 30-day classifier's gain survives every check. The **size model does not** clear the bar for showing amounts: its rank IC (0.35 for the median, 0.33 for the two-part) is barely above repeat-last-change (0.33), and its 10–90% range covers 82% of all outcomes but only 29% of real moves (it is a narrow band around "no change"). At 7 days half its ranges have zero width. Today's forecast is in `results/forecast_30d.csv`.

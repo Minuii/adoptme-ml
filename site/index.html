@@ -257,6 +257,7 @@ footer a { color: var(--muted); }
     <button class="tab" role="tab" data-tab="updates">Value changes</button>
     <button class="tab" role="tab" data-tab="compare">Compare</button>
     <button class="tab" role="tab" data-tab="ads">Offers</button>
+    <button class="tab" role="tab" data-tab="wanted">Most wanted</button>
     <button class="tab" role="tab" data-tab="stats">Stats</button>
   </nav>
 
@@ -320,6 +321,22 @@ footer a { color: var(--muted); }
     <p class="note">The newest offers (trade listings) from the AMVGG and Elvebredd trade centres. They're collected every 15 minutes, and this page refreshes every hour. Trader names are left out. "Offering" is what the poster gives; "Wants" is what they ask for. Values come from the list you pick. If that list doesn't carry an item, or the offer asks for something like "Add", the offer can't be valued.</p>
   </section>
 
+  <section class="page" id="wanted" hidden>
+    <div class="controls">
+      <label class="field grow"><span class="label">Search</span><input id="wq" class="input" type="search" list="names" placeholder="Item name" autocomplete="off"></label>
+      <div class="field"><span class="label">Site</span><div class="seg" data-key="ws" role="group" aria-label="Site">
+        <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
+      <label class="field"><span class="label">Category</span><select id="wc"></select></label>
+      <label class="field"><span class="label">Variant</span><select id="wv"><option value="">Any</option><option value="r">Normal</option><option value="n">Neon</option><option value="m">Mega</option></select></label>
+      <label class="field"><span class="label">Potion</span><select id="wp"><option value="">Any</option><option value="fr">Fly Ride</option><option value="f">Fly</option><option value="r">Ride</option><option value="np">No Potion</option></select></label>
+      <label class="field"><span class="label">Sort</span><select id="wsort"><option value="want">Most wanted</option><option value="ratio">Wanted more than offered</option><option value="off">Most offered</option></select></label>
+    </div>
+    <div class="status"><span id="wcount" aria-live="polite">Loading…</span><span id="wwhen"></span></div>
+    <div class="tablewrap"><table id="wtbl"></table></div>
+    <button class="more" id="wmore" hidden>Show more</button>
+    <p class="note">How often each item (each pet variant on its own row) was asked for in trade offers on AMVGG and Elvebredd over the last 7 days, against how often it was offered. A pet is counted once per offer. The two sites are sampled at different rates, so with "Both" the ranking uses each site's share (mentions per 1,000 offers collected there), averaged. "Wanted more than offered" only ranks items with at least 10 mentions.</p>
+  </section>
+
   <section class="page" id="stats" hidden>
     <section class="section" id="record"></section>
     <div class="kpis" id="kpis"></div>
@@ -362,7 +379,8 @@ const $ = s => document.querySelector(s);
 
 // state <-> URL hash, so a view can be shared
 const S = Object.assign({ tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "", item: "",
-  ca: "", cb: "", ag: "", ak: "", as: "both", av: "", ap: "", al: "A", adeal: "", amin: "", asort: "new" },
+  ca: "", cb: "", ag: "", ak: "", as: "both", av: "", ap: "", al: "A", adeal: "", amin: "", asort: "new",
+  wq: "", ws: "both", wc: "pets", wv: "", wp: "", wsort: "want" },
   Object.fromEntries(new URLSearchParams(location.hash.slice(1))));
 const save = () => history.replaceState(null, "", "#" + new URLSearchParams(Object.entries(S).filter(([, v]) => v !== "")));
 
@@ -530,10 +548,11 @@ let shown = 0, current = [];
 function render(reset = true) {
   save();
   for (const b of document.querySelectorAll(".tab")) b.setAttribute("aria-selected", String(!S.item && S.tab === b.dataset.tab));
-  const pg = S.item ? "item" : ["stats", "compare", "ads"].includes(S.tab) ? S.tab : "browse";
-  for (const id of ["browse", "item", "stats", "compare", "ads"]) $("#" + id).hidden = id !== pg;
+  const pg = S.item ? "item" : ["stats", "compare", "ads", "wanted"].includes(S.tab) ? S.tab : "browse";
+  for (const id of ["browse", "item", "stats", "compare", "ads", "wanted"]) $("#" + id).hidden = id !== pg;
   if (!DATA) return;
   if (S.item) return drawItem();
+  if (S.tab === "wanted") return drawWanted(reset);
   if (S.tab === "stats") return drawStats();
   if (S.tab === "compare") return drawCompare();
   if (S.tab === "ads") return drawAds(reset);
@@ -1134,6 +1153,62 @@ async function drawAds(reset = true) {
   $("#adwhen").textContent = ADS.ads.length ? `Newest offer ${ago(ADS.ads[0][1])} · ${ADS.ads.length.toLocaleString()} offers loaded` : "";
 }
 
+// ---- Most wanted tab (site/activity.json: per item and variant, offers that ask for it vs offer it, last 7 days) ----
+let wShown = 0, wCurrent = [];
+const loadAct = () => ACT ? Promise.resolve(ACT) : fetch("activity.json").then(r => r.json()).then(d => ACT = d);
+function wantedRows() {
+  const srcs = S.ws === "both" ? ["A", "E"] : [S.ws], q = S.wq.trim().toLowerCase(), rows = [];
+  const per = s => 1000 / Math.max(1, ACT.ads[s] || 0);  // mentions per 1,000 offers collected on that site
+  for (const [name, a] of Object.entries(ACT.items)) {
+    const it = BYNAME.get(name);
+    if (!it || (q && !name.toLowerCase().includes(q)) || (S.wc !== "all" && it.cat !== S.wc)) continue;
+    const pet = it.cat === "pets";
+    if (!pet && (S.wv || S.wp)) continue;
+    const ks = new Set(srcs.flatMap(s => Object.keys((a.o || {})[s] || {})));
+    for (const k of ks) {
+      if (pet && ((S.wv && k[0] !== S.wv) || (S.wp && k.slice(2) !== S.wp))) continue;
+      const by = Object.fromEntries(srcs.map(s => [s, ((a.o || {})[s] || {})[k] || [0, 0]]));
+      const want = srcs.reduce((n, s) => n + by[s][1], 0), off = srcs.reduce((n, s) => n + by[s][0], 0);
+      if (!want && !off) continue;
+      const share = i => srcs.reduce((n, s) => n + by[s][i] * per(s), 0) / srcs.length;
+      rows.push({ it, k, by, want, off, wS: share(1), oS: share(0) });
+    }
+  }
+  const key = { want: r => -r.wS, off: r => -r.oS, ratio: r => r.want + r.off < 10 ? 1e9 : -(r.wS + 1e-9) / (r.oS + r.wS) }[S.wsort] || (r => -r.wS);
+  return rows.filter(r => S.wsort !== "ratio" || r.want + r.off >= 10).sort((x, y) => key(x) - key(y) || y.want - x.want || x.it.name.localeCompare(y.it.name));
+}
+function wantedRow(r, i) {
+  const pet = r.it.cat === "pets", srcs = Object.keys(r.by), tot = r.wS + r.oS;
+  return h("tr", { class: "click", tabindex: 0, onclick: () => { if (pet) [S.var, S.pot] = r.k.split("-"); openItem(r.it); },
+    onkeydown: e => { if (e.key === "Enter") { if (pet) [S.var, S.pot] = r.k.split("-"); openItem(r.it); } } },
+    h("td", { class: "num dim" }, i + 1),
+    h("td", { class: "icocell" }, icon(r.it)),
+    h("td", {}, h("div", { class: "nm" }, r.it.name, pet ? bdgs(badgeTags(r.k)) : null),
+      h("div", { class: "dim" }, pet ? keyTxt(r.it, r.k) : r.it.cat)),
+    srcs.map(s => h("td", { class: "num" }, h("b", {}, r.by[s][1].toLocaleString()), h("span", { class: "dim" }, " / " + r.by[s][0].toLocaleString()))),
+    h("td", { class: "hide-sm", style: "min-width:120px" }, tot ? h("div", { class: "meter", title: `${r.want} wanted, ${r.off} offered` },
+      h("i", { style: `width:${100 * r.wS / tot}%;background:var(--up)` }), h("i", { style: `width:${100 * r.oS / tot}%;background:var(--muted)` })) : null));
+}
+async function drawWanted(reset = true) {
+  if (!ACT) {
+    try { await loadAct(); } catch { $("#wcount").textContent = "Couldn't load the offer data. Try refreshing."; return; }
+    if (S.tab !== "wanted" || S.item) return;
+  }
+  const srcs = S.ws === "both" ? ["A", "E"] : [S.ws];
+  if (reset) {
+    wShown = 0; wCurrent = wantedRows();
+    $("#wtbl").replaceChildren(h("thead", {}, h("tr", {}, h("th", { class: "num" }, "#"), h("th", { class: "icocell" }), h("th", {}, "Item"),
+      srcs.map(s => h("th", { class: "num" }, SRC[s], h("span", { class: "dim" }, " wanted / offered"))),
+      h("th", { class: "hide-sm" }, "Wanted vs offered"))), h("tbody"));
+  }
+  const next = wCurrent.slice(wShown, wShown + PAGE);
+  $("#wtbl").tBodies[0].append(...next.map((r, i) => wantedRow(r, wShown + i)));
+  wShown += next.length;
+  $("#wmore").hidden = wShown >= wCurrent.length;
+  $("#wcount").textContent = wCurrent.length ? `${wCurrent.length.toLocaleString()} item${wCurrent.length === 1 ? "" : "s"}` : "Nothing matches these filters.";
+  $("#wwhen").textContent = `Last ${ACT.days} days · ${srcs.map(s => `${(ACT.ads[s] || 0).toLocaleString()} ${SRC[s]} offers`).join(", ")} · built ${ago(ACT.built.slice(0, 16))}`;
+}
+
 // ---- controls ----
 function sync() {
   document.querySelectorAll(".seg[data-key]").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(S[g.dataset.key] === b.dataset.v))));
@@ -1141,6 +1216,7 @@ function sync() {
   $("#q").value = S.q; $("#cat").value = S.cat; $("#dem").value = S.dem; $("#sort").value = S.sort; $("#rar").value = S.rar;
   $("#ag").value = S.ag; $("#ak").value = S.ak; $("#av").value = S.av; $("#ap").value = S.ap; $("#asort").value = S.asort;
   $("#adeal").value = S.adeal; $("#amin").value = S.amin;
+  $("#wq").value = S.wq; $("#wc").value = S.wc; $("#wv").value = S.wv; $("#wp").value = S.wp; $("#wsort").value = S.wsort;
 }
 document.querySelectorAll(".seg[data-key]").forEach(g => g.addEventListener("click", e => {
   const b = e.target.closest("button"); if (!b) return; S[g.dataset.key] = b.dataset.v; rankCache = {}; sync(); render();
@@ -1148,9 +1224,10 @@ document.querySelectorAll(".seg[data-key]").forEach(g => g.addEventListener("cli
 document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => { S.tab = b.dataset.tab; S.item = ""; render(); }));
 let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.q = e.target.value; render(); }, 150); });
 let aqt;
-for (const id of ["ag", "ak", "amin"]) $("#" + id).addEventListener("input", e => { clearTimeout(aqt); aqt = setTimeout(() => { S[id] = e.target.value; render(); }, 200); });
+for (const id of ["ag", "ak", "amin", "wq"]) $("#" + id).addEventListener("input", e => { clearTimeout(aqt); aqt = setTimeout(() => { S[id] = e.target.value; render(); }, 200); });
 $("#admore").addEventListener("click", () => render(false));
-for (const id of ["cat", "dem", "sort", "rar", "av", "ap", "asort", "adeal"]) $("#" + id).addEventListener("change", e => { S[id] = e.target.value; rankCache = {}; render(); });
+$("#wmore").addEventListener("click", () => render(false));
+for (const id of ["cat", "dem", "sort", "rar", "av", "ap", "asort", "adeal", "wc", "wv", "wp", "wsort"]) $("#" + id).addEventListener("change", e => { S[id] = e.target.value; rankCache = {}; render(); });
 $("#more").addEventListener("click", () => render(false));
 let rt, lastW = innerWidth;
 addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { if (innerWidth !== lastW) { lastW = innerWidth; if (S.item || ["stats", "compare"].includes(S.tab)) render(); } }, 150); });
@@ -1163,7 +1240,7 @@ fetch("data.json").then(r => r.json()).then(d => {
   BYLOWER = new Map(d.items.map(i => [i.name.toLowerCase(), i]));
   $("#names").replaceChildren(...[...BYNAME.keys()].sort().map(n => h("option", { value: n })));
   const cats = [...new Set(d.items.map(i => i.cat))].sort((a, b) => (a !== "pets") - (b !== "pets") || a.localeCompare(b));
-  $("#cat").append(h("option", { value: "all" }, "All categories"), ...cats.map(c => h("option", { value: c }, c[0].toUpperCase() + c.slice(1))));
+  for (const id of ["#cat", "#wc"]) $(id).append(h("option", { value: "all" }, "All categories"), ...cats.map(c => h("option", { value: c }, c[0].toUpperCase() + c.slice(1))));
   const nA = d.items.filter(i => Object.keys(i.A).length).length, nE = d.items.filter(i => Object.keys(i.E).length).length;
   const nH = d.items.reduce((n, i) => n + Object.values(i.hist.A).concat(Object.values(i.hist.E)).reduce((m, x) => m + x.length, 0), 0);
   $("#lede").replaceChildren("Tracking ", h("b", {}, d.items.length.toLocaleString()), " items: ", h("b", {}, nA.toLocaleString()), " on AMVGG and ",
