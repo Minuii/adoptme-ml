@@ -7,7 +7,7 @@
 <meta name="description" content="AMVGG and Elvebredd Adopt Me values side by side, with full value history.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:wght@600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <style>
 :root {
@@ -184,6 +184,41 @@ tr.tot td { font-weight: 600; border-bottom: 0; }
 .btn:hover { background: var(--hover); }
 /* offers */
 .adlist { display: flex; flex-direction: column; gap: 10px; }
+.agwrap { --ag-bg: #1d1e21; --ag-row: #26282c; --ag-line: #33363b; --ag-tile: #30333a; --ag-fg: #f2f2f2; --ag-mute: #a3a7ad; --ag-cyan: #33c3f0;
+  background: var(--ag-bg); color: var(--ag-fg); border-radius: 14px; padding: 12px; font-family: Montserrat, var(--sans); }
+.agwrap .adlist { gap: 8px; }
+.ag-head { display: grid; grid-template-columns: 1fr 1fr 150px 110px; gap: 16px; padding: 6px 14px 10px; font-weight: 700; font-size: 15px; color: #fff; }
+.ag-row { display: grid; grid-template-columns: 1fr 1fr 150px 110px; gap: 16px; align-items: center; background: var(--ag-row); border: 1px solid var(--ag-line); border-radius: 12px; padding: 12px 14px; }
+.ag-col { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.ag-lbl { display: none; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--ag-mute); }
+.ag-tiles { display: flex; flex-wrap: wrap; gap: 6px; }
+.ag-tile { position: relative; width: 58px; height: 58px; border-radius: 10px; background: var(--ag-tile); border: 1px solid transparent; display: grid; place-items: center; padding: 0; cursor: pointer; color: var(--ag-fg); font: inherit; }
+.ag-tile:hover, .ag-tile:focus-visible { border-color: var(--ag-cyan); outline: none; }
+.ag-tile.hit { border-color: var(--ag-cyan); box-shadow: 0 0 0 1px var(--ag-cyan); }
+.ag-tile img { max-width: 46px; max-height: 46px; object-fit: contain; }
+.ag-tile.ph { cursor: default; width: auto; min-width: 58px; padding: 0 8px; }
+.ag-nm { font-size: 10px; font-weight: 600; line-height: 1.15; text-align: center; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }
+.ag-n { position: absolute; top: 2px; left: 4px; font-size: 11px; font-weight: 700; text-shadow: 0 1px 2px #000; }
+.ag-bdg { position: absolute; right: -3px; bottom: -3px; display: flex; gap: 1px; }
+.ag-bdg .bdg { width: 16px; height: 16px; font-size: 9px; box-shadow: 0 0 0 1.5px var(--ag-row); }
+.ag-none { font-size: 13px; color: var(--ag-mute); font-style: italic; }
+.ag-sum { font-size: 12px; color: var(--ag-mute); font-variant-numeric: tabular-nums; }
+.ag-deal { display: flex; flex-direction: column; gap: 2px; font-size: 12px; color: var(--ag-mute); font-variant-numeric: tabular-nums; }
+.ag-deal b { font-size: 15px; font-weight: 700; color: var(--ag-fg); }
+.ag-bait { color: #ffcf5c; font-weight: 600; cursor: help; }
+.ag-deal.over b { color: #5fd38a; } .ag-deal.under b { color: #ff7f6e; } .ag-deal.fair b { color: var(--ag-cyan); } .ag-deal.na b { color: var(--ag-mute); font-size: 13px; }
+.ag-when { display: flex; flex-direction: column; gap: 4px; align-items: flex-start; font-size: 12px; font-weight: 600; color: var(--ag-fg); }
+.ag-src { font-size: 11px; font-weight: 700; padding: 1px 8px; border-radius: 999px; }
+.ag-src.A { background: var(--ag-cyan); color: #06222c; } .ag-src.E { background: #e2457f; color: #fff; }
+#admore { background: var(--ag-cyan); color: #06222c; border: 0; font-weight: 700; font-family: Montserrat, var(--sans); }
+@media (max-width: 760px) {
+  .ag-head { display: none; }
+  .ag-row { grid-template-columns: 1fr 1fr; gap: 10px 12px; }
+  .ag-lbl { display: block; }
+  .ag-deal { flex-direction: row; align-items: baseline; gap: 8px; }
+  .ag-when { flex-direction: row; align-items: center; justify-content: flex-end; }
+  .ag-tile { width: 50px; height: 50px; } .ag-tile img { max-width: 40px; max-height: 40px; }
+}
 .ad { background: var(--panel); border: 1px solid var(--line); border-radius: var(--r); padding: 12px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
 .adhead, .adfoot { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 12px; color: var(--muted); }
 .trade { display: grid; grid-template-columns: 1fr auto 1fr; gap: 10px; align-items: start; }
@@ -260,19 +295,25 @@ footer a { color: var(--muted); }
 
   <section class="page" id="ads" hidden>
     <div class="controls">
-      <label class="field grow"><span class="label">Item</span><input id="aq" class="input" type="search" placeholder="Item name, e.g. Shadow Dragon" autocomplete="off"></label>
-      <div class="field"><span class="label">Item is</span><div class="seg" data-key="aw" role="group" aria-label="Item is">
-        <button data-v="any">Either side</button><button data-v="give">Offered</button><button data-v="get">Wanted</button></div></div>
+      <label class="field grow"><span class="label">Offering (they give)</span><input id="ag" class="input" type="search" list="names" placeholder="e.g. Frost Dragon" autocomplete="off"></label>
+      <label class="field grow"><span class="label">Looking for (they want)</span><input id="ak" class="input" type="search" list="names" placeholder="e.g. Shadow Dragon" autocomplete="off"></label>
       <div class="field"><span class="label">Site</span><div class="seg" data-key="as" role="group" aria-label="Site">
         <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
       <label class="field"><span class="label">Variant</span><select id="av"><option value="">Any</option><option value="r">Normal</option><option value="n">Neon</option><option value="m">Mega</option></select></label>
       <label class="field"><span class="label">Potion</span><select id="ap"><option value="">Any</option><option value="fr">Fly Ride</option><option value="f">Fly</option><option value="r">Ride</option><option value="np">No Potion</option></select></label>
       <div class="field"><span class="label">Value with</span><div class="seg" data-key="al" role="group" aria-label="Value with">
         <button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
-      <label class="field"><span class="label">Sort</span><select id="asort"><option value="new">Newest</option><option value="over">Poster offers the most extra</option><option value="ask">Poster asks the most extra</option></select></label>
+      <label class="field"><span class="label">Deal</span><select id="adeal"><option value="">Any</option><option value="over">Overpays 5%+</option><option value="real">Overpays 5–100% (hide bait)</option>
+        <option value="fair">Fair (within 5%)</option><option value="under">Asks for 5%+ more</option><option value="valued">Can be valued</option></select></label>
+      <label class="field"><span class="label">Offer worth at least</span><input id="amin" class="input" type="number" min="0" step="any" inputmode="decimal" placeholder="Any" style="width:120px"></label>
+      <label class="field"><span class="label">Sort</span><select id="asort"><option value="new">Newest</option><option value="over">Biggest overpay (%)</option>
+        <option value="overv">Biggest overpay (value)</option><option value="ask">Asks the most extra (%)</option><option value="big">Biggest offers</option></select></label>
     </div>
     <div class="status"><span id="adcount" aria-live="polite">Loading…</span><span id="adwhen"></span></div>
-    <div class="adlist" id="adlist"></div>
+    <div class="agwrap">
+      <div class="ag-head" aria-hidden="true"><span>Looking for</span><span>Offering</span><span>Deal</span><span>Posted</span></div>
+      <div class="adlist" id="adlist"></div>
+    </div>
     <button class="more" id="admore" hidden>Show more</button>
     <p class="note">The newest offers (trade listings) from the AMVGG and Elvebredd trade centres. They're collected every 15 minutes, and this page refreshes every hour. Trader names are left out. "Offering" is what the poster gives; "Wants" is what they ask for. Values come from the list you pick. If that list doesn't carry an item, or the offer asks for something like "Add", the offer can't be valued.</p>
   </section>
@@ -319,7 +360,7 @@ const $ = s => document.querySelector(s);
 
 // state <-> URL hash, so a view can be shared
 const S = Object.assign({ tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "", item: "",
-  ca: "", cb: "", aq: "", aw: "any", as: "both", av: "", ap: "", al: "A", asort: "new" },
+  ca: "", cb: "", ag: "", ak: "", as: "both", av: "", ap: "", al: "A", adeal: "", amin: "", asort: "new" },
   Object.fromEntries(new URLSearchParams(location.hash.slice(1))));
 const save = () => history.replaceState(null, "", "#" + new URLSearchParams(Object.entries(S).filter(([, v]) => v !== "")));
 
@@ -990,58 +1031,89 @@ function adPart(ids, s) {
 }
 function adSideValue(ids, s) { const p = adPart(ids, s); return ids.length && !p.extra.length ? p.sum : null; }
 const partTxt = p => !p.extra.length ? fmt(p.sum) : (p.sum ? fmt(p.sum) + " + " : "") + p.extra.join(" + ");
+const BAIT = 1;  // offering 2x+ what they ask is usually bait (a scam lure) or a typo
+// value of each side on the chosen list (cached per ad), and the deal: how much more the poster offers than they ask
+const adVal = new Map();
+function adDeal(ad) {
+  const key = S.al + ad[1] + ad[2].join() + ">" + ad[3].join();
+  if (!adVal.has(key)) {
+    const g = adSideValue(ad[2], S.al), w = adSideValue(ad[3], S.al);
+    adVal.set(key, { g, w, d: g && w ? g / w - 1 : null });
+  }
+  return adVal.get(key);
+}
+// a token matches a typed name (if any) and the variant / potion filters (pets only)
+function tokOk(i, q) {
+  const t = tokInfo(i);
+  if (q && !t.name.toLowerCase().includes(q)) return false;
+  if (!S.av && !S.ap) return true;
+  if (!t.it || t.it.cat !== "pets") return false;
+  const [v, p] = t.k.split("-");
+  return (!S.av || v === S.av) && (!S.ap || p === S.ap);
+}
 function adMatches(ad) {
   if (S.as !== "both" && ad[0] !== S.as) return false;
-  const q = S.aq.trim().toLowerCase();
-  if (!q && !S.av && !S.ap) return true;
-  const ids = S.aw === "give" ? ad[2] : S.aw === "get" ? ad[3] : ad[2].concat(ad[3]);
-  return ids.some(i => {
-    const t = tokInfo(i);
-    if (q && !t.name.toLowerCase().includes(q)) return false;
-    if (!S.av && !S.ap) return true;
-    if (!t.it || t.it.cat !== "pets") return false;
-    const [v, p] = t.k.split("-");
-    return (!S.av || v === S.av) && (!S.ap || p === S.ap);
-  });
+  const gq = S.ag.trim().toLowerCase(), kq = S.ak.trim().toLowerCase();
+  if (gq && !ad[2].some(i => tokOk(i, gq))) return false;
+  if (kq && !ad[3].some(i => tokOk(i, kq))) return false;
+  if (!gq && !kq && (S.av || S.ap) && !ad[2].concat(ad[3]).some(i => tokOk(i, ""))) return false;
+  const min = parseFloat(S.amin);
+  if (!S.adeal && !(min > 0)) return true;
+  const { g, d } = adDeal(ad);
+  if (min > 0 && !(g >= min)) return false;
+  if (S.adeal === "valued") return d != null;
+  if (S.adeal === "over") return d != null && d >= .05;
+  if (S.adeal === "real") return d != null && d >= .05 && d < BAIT;
+  if (S.adeal === "fair") return d != null && Math.abs(d) < .05;
+  if (S.adeal === "under") return d != null && 1 / (1 + d) - 1 >= .05;
+  return true;
 }
 function adList() {
   const xs = ADS.ads.filter(adMatches);
   if (S.asort === "new") return xs;
-  const r = ad => { const g = adSideValue(ad[2], S.al), w = adSideValue(ad[3], S.al); return g && w ? g / w : null; };
-  return xs.map(a => [a, r(a)]).filter(x => x[1] != null).sort((a, b) => S.asort === "over" ? b[1] - a[1] : a[1] - b[1]).map(x => x[0]);
+  const by = { over: x => x.d, overv: x => x.g - x.w, ask: x => 1 / (1 + x.d) - 1, big: x => x.g }[S.asort];
+  return xs.map(a => [a, adDeal(a)]).filter(([, x]) => x.d != null).map(([a, x]) => [a, by(x)]).sort((p, q) => q[1] - p[1]).map(x => x[0]);
 }
 const ago = t => { const m = Math.max(0, Math.round((Date.now() - ts(t)) / 6e4)); return m < 60 ? `${m} min ago` : m < 48 * 60 ? `${Math.round(m / 60)} h ago` : `${Math.round(m / 1440)} days ago`; };
-function chip(i) {
-  const t = tokInfo(i), q = S.aq.trim().toLowerCase(), hit = q && t.name.toLowerCase().includes(q);
-  if (!t.it) return h("span", { class: "chip ph" }, t.name);
-  const pet = t.it.cat === "pets";
-  return h("span", { class: "chip click", title: `${t.name}${pet ? " · " + keyTxt(t.it, t.k) : ""}`, role: "link", tabindex: 0,
-    onclick: () => { if (pet) [S.var, S.pot] = t.k.split("-"); openItem(t.it); } },
-    icon(t.it), hit ? h("mark", {}, t.name) : t.name, pet ? bdgs(badgeTags(t.k)) : null);
+// AMVGG-style item tiles: the picture with its variant badges in the corner; repeats are grouped as "×3"
+function tiles(ids, q) {
+  const groups = new Map();
+  for (const i of ids) groups.set(i, (groups.get(i) || 0) + 1);
+  return [...groups].map(([i, n]) => {
+    const t = tokInfo(i), hit = q && t.name.toLowerCase().includes(q);
+    const pet = t.it && t.it.cat === "pets", label = `${n > 1 ? n + "× " : ""}${t.name}${pet ? " · " + keyTxt(t.it, t.k) : ""}`;
+    const v = t.it ? t.it[S.al][t.k] : null;
+    return h(t.it ? "button" : "span", { class: "ag-tile" + (t.it ? "" : " ph") + (hit ? " hit" : ""), title: label + (v != null ? ` · ${SRC[S.al]} ${fmt(v)}` : ""),
+      "aria-label": label, onclick: t.it ? () => { if (pet) [S.var, S.pot] = t.k.split("-"); openItem(t.it); } : null },
+      t.it && t.it.img ? h("img", { src: t.it.img, alt: "", loading: "lazy", referrerpolicy: "no-referrer", onerror: e => e.target.replaceWith(h("span", { class: "ag-nm" }, t.name)) })
+        : h("span", { class: "ag-nm" }, t.name),
+      n > 1 ? h("span", { class: "ag-n" }, `×${n}`) : null,
+      pet ? h("span", { class: "ag-bdg" }, badgeTags(t.k).map(x => h("span", { class: "bdg " + x }, x.toUpperCase()))) : null);
+  });
 }
 function adCard(ad) {
-  const [src, t, give, get] = ad, s = S.al;
-  const g = adSideValue(give, s), w = adSideValue(get, s);
-  const d = g && w ? (g - w) / w * 100 : null;
-  // say why an offer can't be valued: a placeholder like "Add", or an item this list doesn't carry
+  const [src, t, give, get] = ad, s = S.al, { g, w, d } = adDeal(ad);
   const why = () => {
     const ts = give.concat(get).map(tokInfo), ph = [...new Set(ts.filter(t => !t.it).map(t => `“${t.name}”`))];
     const miss = [...new Set(ts.filter(t => t.it && t.it[s][t.k] == null).map(t => t.name))];
-    if (!give.length || !get.length) return "One side is empty, so it can't be valued";
-    if (ph.length) return `Includes ${ph.join(", ")}, so it can't be valued`;
-    if (miss.length) return `${miss.slice(0, 2).join(", ")}${miss.length > 2 ? "…" : ""} ${miss.length > 1 ? "have" : "has"} no ${SRC[s]} value, so it can't be valued`;
-    return `Can't value on ${SRC[s]}`;
+    if (!give.length || !get.length) return "one side is empty";
+    if (ph.length) return `includes ${ph.join(", ")}`;
+    if (miss.length) return `${miss.slice(0, 2).join(", ")}${miss.length > 2 ? "…" : ""}: no ${SRC[s]} value`;
+    return `no ${SRC[s]} value`;
   };
-  const verdict = d == null ? h("span", { class: "flat" }, why())
-    : h("span", { class: Math.abs(d) < 5 ? "flat" : d > 0 ? "up" : "down" },
-      Math.abs(d) < 5 ? "Fair (within 5%)" : d > 0 ? `Poster offers ${pctTxt(d).slice(1)} more than they ask` : `Poster asks ${pctTxt((w - g) / g * 100).slice(1)} more than they offer`);
-  return h("article", { class: "ad" },
-    h("div", { class: "adhead" }, h("span", { class: "pill " + src }, SRC[src]), h("span", { title: t.replace("T", " ") + " UTC" }, ago(t))),
-    h("div", { class: "trade" },
-      h("div", {}, h("div", { class: "sidelbl" }, "Offering"), h("div", { class: "chips" }, give.length ? give.map(chip) : h("span", { class: "dim" }, "nothing listed"))),
-      h("div", { class: "arrow", "aria-hidden": "true" }, "→"),
-      h("div", {}, h("div", { class: "sidelbl" }, "Wants"), h("div", { class: "chips" }, get.length ? get.map(chip) : h("span", { class: "dim" }, "offers")))),
-    h("div", { class: "adfoot" }, d == null ? null : h("span", {}, `${SRC[s]}: ${fmt(g)} offered for ${fmt(w)}`), verdict));
+  const deal = d == null ? h("div", { class: "ag-deal na" }, h("b", {}, "Can't value"), h("span", {}, why()))
+    : Math.abs(d) < .05 ? h("div", { class: "ag-deal fair" }, h("b", {}, "Fair"), h("span", {}, `${fmt(g)} for ${fmt(w)}`))
+    : d > 0 ? h("div", { class: "ag-deal over" }, h("b", {}, `+${Math.round(d * 100)}% overpay`), h("span", {}, `${fmt(g)} for ${fmt(w)}`),
+        d >= BAIT ? h("span", { class: "ag-bait", title: "Offers worth twice what they ask or more are usually scam bait or a typo." }, "⚠ too good to be true?") : null)
+    : h("div", { class: "ag-deal under" }, h("b", {}, `asks +${Math.round((1 / (1 + d) - 1) * 100)}%`), h("span", {}, `${fmt(g)} for ${fmt(w)}`));
+  const sum = (ids, x) => h("span", { class: "ag-sum" }, x != null ? `${SRC[s]} ${fmt(x)}` : "");
+  return h("article", { class: "ag-row" },
+    h("div", { class: "ag-col" }, h("span", { class: "ag-lbl" }, "Looking for"),
+      h("div", { class: "ag-tiles" }, get.length ? tiles(get, S.ak.trim().toLowerCase()) : h("span", { class: "ag-none" }, "Offers")), sum(get, w)),
+    h("div", { class: "ag-col" }, h("span", { class: "ag-lbl" }, "Offering"),
+      h("div", { class: "ag-tiles" }, give.length ? tiles(give, S.ag.trim().toLowerCase()) : h("span", { class: "ag-none" }, "Nothing listed")), sum(give, g)),
+    deal,
+    h("div", { class: "ag-when" }, h("span", { class: "ag-src " + src }, SRC[src]), h("span", { title: t.replace("T", " ") + " UTC" }, ago(t))));
 }
 async function drawAds(reset = true) {
   if (!ADS) {
@@ -1054,7 +1126,7 @@ async function drawAds(reset = true) {
   $("#adlist").append(...next.map(adCard));
   adShown += next.length;
   $("#admore").hidden = adShown >= adCurrent.length;
-  $("#adcount").textContent = adCurrent.length ? `${adCurrent.length.toLocaleString()} offers` + (S.asort !== "new" ? ` that can be valued on ${SRC[S.al]}` : "") : "No offers match these filters.";
+  $("#adcount").textContent = adCurrent.length ? `${adCurrent.length.toLocaleString()} offer${adCurrent.length === 1 ? "" : "s"}` + (S.asort !== "new" || S.adeal || parseFloat(S.amin) > 0 ? `, valued on ${SRC[S.al]}` : "") : "No offers match these filters.";
   $("#adwhen").textContent = ADS.ads.length ? `Newest offer ${ago(ADS.ads[0][1])} · ${ADS.ads.length.toLocaleString()} offers loaded` : "";
 }
 
@@ -1063,16 +1135,18 @@ function sync() {
   document.querySelectorAll(".seg[data-key]").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(S[g.dataset.key] === b.dataset.v))));
   $("#frnmSlot").replaceChildren(frnm());
   $("#q").value = S.q; $("#cat").value = S.cat; $("#dem").value = S.dem; $("#sort").value = S.sort; $("#rar").value = S.rar;
-  $("#aq").value = S.aq; $("#av").value = S.av; $("#ap").value = S.ap; $("#asort").value = S.asort;
+  $("#ag").value = S.ag; $("#ak").value = S.ak; $("#av").value = S.av; $("#ap").value = S.ap; $("#asort").value = S.asort;
+  $("#adeal").value = S.adeal; $("#amin").value = S.amin;
 }
 document.querySelectorAll(".seg[data-key]").forEach(g => g.addEventListener("click", e => {
   const b = e.target.closest("button"); if (!b) return; S[g.dataset.key] = b.dataset.v; rankCache = {}; sync(); render();
 }));
 document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => { S.tab = b.dataset.tab; S.item = ""; render(); }));
 let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.q = e.target.value; render(); }, 150); });
-let aqt; $("#aq").addEventListener("input", e => { clearTimeout(aqt); aqt = setTimeout(() => { S.aq = e.target.value; render(); }, 200); });
+let aqt;
+for (const id of ["ag", "ak", "amin"]) $("#" + id).addEventListener("input", e => { clearTimeout(aqt); aqt = setTimeout(() => { S[id] = e.target.value; render(); }, 200); });
 $("#admore").addEventListener("click", () => render(false));
-for (const id of ["cat", "dem", "sort", "rar", "av", "ap", "asort"]) $("#" + id).addEventListener("change", e => { S[id] = e.target.value; rankCache = {}; render(); });
+for (const id of ["cat", "dem", "sort", "rar", "av", "ap", "asort", "adeal"]) $("#" + id).addEventListener("change", e => { S[id] = e.target.value; rankCache = {}; render(); });
 $("#more").addEventListener("click", () => render(false));
 let rt, lastW = innerWidth;
 addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { if (innerWidth !== lastW) { lastW = innerWidth; if (S.item || ["stats", "compare"].includes(S.tab)) render(); } }, 150); });
