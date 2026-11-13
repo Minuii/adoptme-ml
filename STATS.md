@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 11:25 UTC by the scrape workflow._
+_Updated 2026-11-13 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 33,033 | 2026-11-13T11:15 |
-| elve | 3 | 6,682 | 2026-11-13T11:16 |
+| amvgg | 3 | 33,242 | 2026-11-13T11:30 |
+| elve | 3 | 6,731 | 2026-11-13T11:31 |
 
-## AMVGG completed trades: 7,201 total
+## AMVGG completed trades: 7,220 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,368 |
+| 2026-11-13 | 1,387 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:25 | **xXHope_notxX**: Ride-A-Pet Potion | **teamindonesiamu**: Unicorn |
-| 11:25 | **Yaroslava_12345**: Polar Bear (NR), Fly-A-Pet Potion | **IIIJavixIII**: Kangaroo (FR) |
-| 11:25 | **gonewiththesln**: S'mores Raccoon (NR), Ghostly Cat (MR) | **aya8a123**: Highland Cow (MR) |
-| 11:25 | **MohamedAfj1**: Moon Rabbit (MFR) | **leftmyhoodie**: Scarecrow Crow (MFR), Malaysian Tapir (M) |
-| 11:25 | **alinnkes**: Ride-A-Pet Potion ×4 | **odading12318**: Polar Bear (FR) |
-| 11:25 | **hokoZoZ**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **wovyin**: Unicorn ×2, Sushi Penguin ×2, Metal Ox (NR), Shiba Inu (NR) |
-| 11:25 | **rowdync**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×2 | **odading12318**: Cabbit (R) |
-| 11:25 | **bbylolabunny**: Goose (FR), Cupid Dragon (NFR) | **Floppybunny_4662**: Arctic Reindeer (FR) |
-| 11:25 | **Str3amN0va2024**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **RILEYxXcutegamer**: Silverback Gorilla |
-| 11:25 | **UWUWUWUWUUWUUWUWUW1**: Kitty Bat (R) | **r1ikq**: Pupcake |
-| 11:25 | **nastaxyilox**: Turtle (NFR), Ride-A-Pet Potion ×4 | **ilovehamster2040**: Candicorn (NFR), Aurora Fox (R) |
-| 11:25 | **Sofi_sp117**: Ride-A-Pet Potion ×9, Dragonfruit Fox, Gemstone Egg, Catte | **Minimalama0**: Crocodile (R) |
-| 11:21 | **Milk90345**: Alley Cat (MFR), Zombie Wolf (MFR), Chocolate Dutch Guinea Pig (MFR) ×2, Count Slothula (M), Propeller Hat | **sp4rklepinkcupcake**: Siamese Cat (MFR) |
-| 11:21 | **TrapsForFlys**: Balloon Unicorn (R) | **Robloxiscool_921**: Haetae (FR), Tiny Wings, Ice Cream Cone Hat, Cotton Candy Hat |
-| 11:21 | **5ek20o**: Count Slothula, Cat Plush | **teadan0**: Chocolate Chip Bat Dragon Backpack, Butter Knife |
+| 11:30 | **Maryha0243**: Zombie Buffalo | **sofochk_aa**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 11:30 | **Justforamvgg_0**: Sheeeeep (R), Cotton Candy Hat | **Kvammletitraketa**: Kelp Crewmate (M), Bready Necklace, Zodiac Minion Chick ×2, Mighty Haetyphoon Animated Sticker |
+| 11:30 | **gTheGamerProYTg**: Dolphin (MF), Ride-A-Pet Potion | **you_no099**: Black Chow-Chow (NR), Fly-A-Pet Potion |
+| 11:30 | **Laktozik1**: Siamese Cat (FR), Spring Bunny Nose | **Vintage_cloudxx**: Mermicorn (FR) |
+| 11:30 | **opkvbdw**: Dire Stag | **UltimateLionMantis**: Ride-A-Pet Potion |
+| 11:30 | **ArtemShakur228**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×4, Pet Handler Pro Certificate, Pancake Stack | **odading12318**: Cow (FR) |
+| 11:30 | **vanillybunni**: Dalmatian (FR), Rainbow Maker, Bush Elephant (FR) | **Sasha_6813**: Chocolate Chip Bat Dragon (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 11:30 | **nonooo1717**: Arctic Hare (M) | **ZunTze**: Celebrity Mansion |
+| 11:30 | **HenloHaiEllo123**: Balloon Unicorn (FR), French Bulldog (MFR) | **xXL0TTY**: Crow (FR), Canadian Goose (MFR), Honey Badger, Ring-Tailed Lemur |
+| 11:30 | **hm_pom**: Chocolate Dutch Guinea Pig (NR) | **bwbwbub**: Copycat |
+| 11:30 | **x3mzv**: Haetae (NFR), African Wild Dog, Ride-A-Pet Potion ×2 | **0Jasmine_Melody0**: Cryptid (NFR), Siamese Cat (MFR), Arctic Dusk Dragon (M), Rainbow Maker |
+| 11:30 | **Ttsglw**: Mummy Spider (M), Jacobin Pigeon (M), Caramelgeist (M) | **spezi4lifee**: Fly-A-Pet Potion |
+| 11:30 | **larisochka_gudeeva98**: Stray Cat Dragon (M) | **dadjio6alt**: Ride-A-Pet Potion ×2 |
+| 11:30 | **admtradeonly**: Ride-A-Pet Potion ×2 | **CEMEH_HOCKOB**: Fly-A-Pet Potion |
+| 11:30 | **crazyems09**: Ride-A-Pet Potion, Harp Seal (R) | **admtradeonly**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
