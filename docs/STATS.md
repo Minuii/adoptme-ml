@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 19:25 UTC by the scrape workflow._
+_Updated 2026-11-13 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 40,894 | 2026-11-13T19:15 |
-| elve | 3 | 8,419 | 2026-11-13T19:16 |
+| amvgg | 3 | 41,128 | 2026-11-13T19:30 |
+| elve | 3 | 8,483 | 2026-11-13T19:31 |
 
-## AMVGG completed trades: 9,151 total
+## AMVGG completed trades: 9,200 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,318 |
+| 2026-11-13 | 3,367 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 19:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:25 | **C0PHYAK**: Kangaroo (FR), Husky (NFR), Great Pyrenees (NR), Fly-A-Pet Potion ×2 | **kauwixz**: Cow (FR) |
-| 19:25 | **elfania_3**: Snow Cat (M), Bubblegeist | **Frijolera09**: Classic Trade Stand |
-| 19:25 | **fluffyunicorns_932**: Dalmatian (FR), Cow (FR) | **heltobrex**: Goat (MFR) |
-| 19:25 | **k6vvall**: Clownfish (N), Toasty Red Panda (MFR), Ostrich (MFR), Crystal Egg | **Mylittlecrushfrom**: Kangaroo (R) |
-| 19:21 | **Computerdude127**: Fly-A-Pet Potion | **roximeuwu**: Chicken |
-| 19:21 | **MegaJady**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×14, Red Dutch Guinea Pig | **elfania_3**: Turtle (FR) |
-| 19:21 | **simbalove310**: Kitsune, Green-Chested Pheasant, Purrowl (N) | **snqwqrw**: Pupcicle |
-| 19:21 | **Fishlett1**: Praying Mantis ×2 | **Myobap**: Nautilus |
-| 19:21 | **Ruperto_1297**: Ride-A-Pet Potion | **pinkrush56**: Pupcicle |
-| 19:21 | **xmikaeq**: Aurora Fox (MFR) | **mia817700**: Shark Puppy (MFR) |
-| 19:21 | **local_waffIe**: Albatross (M), Super Saru, Mr. Whiskerpips | **Potatolover123yay**: Ghost Bunny (NFR) |
-| 19:21 | **Cutsy_BunnyXD**: Moose Calf, Dragonfruit Fox | **Elpepeexd2134**: Pupcicle (N) |
-| 19:21 | **pinksanriopIushy**: Christmas Pudding Pup (N), Toaster Hat | **ri0txh**: 2022 Birthday Cupcake Shoes ×2 |
-| 19:21 | **Mm2_aha74**: Ocelot (NR), Parakeet (NF), Cake Friend (R), Frostclaw (FR), Kiwi Kiwi, Bullfrog (FR) | **Pandora_xsx2**: Fly-A-Pet Potion ×2 |
-| 19:21 | **Computerdude127**: Fly-A-Pet Potion | **inputw**: Chicken |
+| 19:30 | **rini_nya1**: Mighty Haetyphoon Animated Sticker | **uBolra0**: Ride-A-Pet Potion |
+| 19:30 | **nrea_zv06**: Ride-A-Pet Potion ×6 | **Olkilylaa0**: Pupcicle ×6 |
+| 19:30 | **pisapopakakashecki**: Coyote (M) | **adopt_mecheck13**: Ride-A-Pet Potion ×4 |
+| 19:30 | **chipsyZdupy183**: Pain au Chat (M) | **mikepower240508**: Pupcake (M) |
+| 19:30 | **Game_Girlssx**: Moose Calf (NR) | **pugq33n23**: Pet Handler Pro Certificate ×6 |
+| 19:30 | **Wrjttenletters**: Matcha Cat (FR), Copycat ×2, Coyote (MFR) | **lolppp0vld**: Pupcicle (M) |
+| 19:30 | **cutesyghali**: Cow (FR) | **Maria_lutskia**: Unicorn Horn, 2022 Birthday Confetti Cannon |
+| 19:30 | **kivi201458**: Sandbox Island | **yumikiii3**: Unicorn (R), Ride-A-Pet Potion |
+| 19:30 | **NoName_Crystal**: Tuxedo Cat | **TC_VENJAMIN**: Capricorn |
+| 19:30 | **U_uogty**: Ride-A-Pet Potion, Three Blind Mice, Huntsman Robin ×2, Retired Egg, Cracked Egg, Ms. Muffet, Granny Wolf, Fairytale Egg | **Dodgemyhooks**: Dango Penguins |
+| 19:30 | **cutiipuppi**: Chocolate Dutch Guinea Pig (N), Silverback Gorilla (FR), Ride-A-Pet Potion ×14 | **soulnesy**: Cerberus (MFR) |
+| 19:30 | **shimotheseal**: Sakura Spirit (NFR) | **zkliam12**: Glacier Kitsune (NFR), Choco Penguin (MR) |
+| 19:30 | **mamochka_vasha0**: Pupcicle, Peach Owl | **qwqwwqwqwe**: Fly-A-Pet Potion |
+| 19:30 | **Ackosender**: Glyptodon Ducky (N) ×8 | **Oreo_Sofija**: Hermit Crab (N) |
+| 19:30 | **Penutbutter1567**: Dragon, Stitches (N), Bunny (N), Mexican Wolf (N), Black-Footed Ferret (N), Dolphin Cruiser | **xxc0ffeeplsxx**: Pupcicle |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
