@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 04:10 UTC by the scrape workflow._
+_Updated 2026-11-13 04:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 04:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 26,710 | 2026-11-13T04:00 |
-| elve | 3 | 5,369 | 2026-11-13T04:01 |
+| amvgg | 3 | 26,942 | 2026-11-13T04:15 |
+| elve | 3 | 5,423 | 2026-11-13T04:16 |
 
-## AMVGG completed trades: 6,319 total
+## AMVGG completed trades: 6,324 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 486 |
+| 2026-11-13 | 491 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,11 @@ _Updated 2026-11-13 04:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:15 | **amaekii**: Ride-A-Pet Potion | **Lera_Topxic**: Chihuahua (N) |
+| 04:15 | **GlibBlobBlob**: Halloween White Ghost Dragon | **themudwizard**: Ride-A-Pet Potion ×3 |
+| 04:15 | **AsherHawkBlast2015**: Crow (MFR), Parrot (MFR), Naughty Mistletroll (MFR) ×2, Aurora Fox (MFR), Glacier Kitsune (MFR), Flaming Fox (MFR) | **method611491**: Giant Panda (MFR) |
+| 04:15 | **Lexi_31825**: Jester Dragon (FR), Alley Cat (R) | **zachhh8988**: Chihuahua (M) |
+| 04:15 | **Legaspi_Jhonrey**: Owl (FR) | **yesterboni0**: Monkey King (R), Turtle (FR), Kangaroo (FR) ×2, Goose (R), Undead Jousting Horse (FR), Kangaroo (NFR), Chocolate Dutch Guinea Pig (NR) |
 | 04:10 | **GoodMemories2020**: Halloween Slime Mega Neon Paint | **WowOvOOooo**: Ride-A-Pet Potion |
 | 04:06 | **Fidelia2131415**: Stray Cat Dragon (N), Water Moon Bear (R) | **themudwizard**: Ride-A-Pet Potion |
 | 04:06 | **rbwax**: Green-Chested Pheasant, Golden Dragon (R) | **themudwizard**: Ride-A-Pet Potion |
@@ -38,11 +43,6 @@ _Updated 2026-11-13 04:10 UTC by the scrape workflow._
 | 04:06 | **Testsubject0_217**: Strawberry Shortcake Bat Dragon (FR) | **Alejandro_KLD**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
 | 04:06 | **joincupcakie**: Alpaca (MFR) | **Leah_newaccnt**: Rainbow Maker, Angel Wings, 2022 Birthday Party Hat, 2022 Birthday Cake ×3, Unicorn Horn ×5, Rain Cloud Hat ×2, Unicorn Backpack |
 | 04:06 | **Huge_Soda**: Ride-A-Pet Potion ×2 | **yhanie144**: Skelicorn (M) |
-| 04:06 | **Barbieandsken**: Goose (FR), Kangaroo (FR), Spring Bunny Hood | **chaeegirlff**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:06 | **Manggo_Pie40**: Kangaroo (FR) | **mamabirdkiller**: Ride-A-Pet Potion ×17 |
-| 04:06 | **bettingattack**: Pet Handler Pro Certificate | **frogie_948**: Aviator Hat, Thinking Hat |
-| 04:06 | **AceFoxRBX4**: Siamese Cat (MFR), Harp Seal | **kaylamicmi**: Alpaca (NFR), Rainbow Maker |
-| 04:06 | **TheGamerNoob555Xd**: Turtle (FR), Flamingo (FR), Alpaca (R), Kangaroo (FR), Kangaroo (R), Tiny Wings | **Kittycatlll49**: Mini Pig (NFR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
