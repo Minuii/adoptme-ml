@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 11:10 UTC by the scrape workflow._
+_Updated 2026-11-13 11:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 11:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 32,829 | 2026-11-13T11:00 |
-| elve | 3 | 6,630 | 2026-11-13T11:01 |
+| amvgg | 3 | 33,033 | 2026-11-13T11:15 |
+| elve | 3 | 6,682 | 2026-11-13T11:16 |
 
-## AMVGG completed trades: 7,162 total
+## AMVGG completed trades: 7,167 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,329 |
+| 2026-11-13 | 1,334 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,11 @@ _Updated 2026-11-13 11:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:15 | **KFCBIRD_5**: Ride-A-Pet Potion ×2 | **Kaiisxe**: Fly-A-Pet Potion |
+| 11:15 | **molo_kgo**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **afissamuzfirah**: Arctic Fox |
+| 11:15 | **Kui_Yeager**: Candicorn, Fly-A-Pet Potion, Unicorn | **xXHope_notxX**: Unicorn Horn |
+| 11:15 | **batton0955**: Ride-A-Pet Potion ×2 | **buang2oo**: Bunny Swirl (NR) |
+| 11:15 | **mesike200910**: Chimera (NR), Tarsier (N), Australian Kelpie (N), Dracula Fish (N), Fly-A-Pet Potion, Zombie Chick (N), Thunderfisher (N), Hammerhead Shark (N), Chipmunk | **Leviodas**: Aurora Fox (R) |
 | 11:10 | **kinnnaata**: Seahorse (MR), Angus Calf (MR), Mr. Whiskerpips (NR) | **Milk_147017**: Frost Fury (R), Lamb, Goldhorn (R), Royal Palace Spaniel (R) |
 | 11:10 | **margini_mini**: Alpaca, Ride-A-Pet Potion ×6 | **odading12318**: Sugar Glider (FR) |
 | 11:10 | **crystal_star151**: Balloon Unicorn (FR) | **Hobart143**: Cabbit (NFR), Cow, Border Collie (R), Alpaca (FR) |
@@ -38,11 +43,6 @@ _Updated 2026-11-13 11:10 UTC by the scrape workflow._
 | 11:10 | **XzJellyjHCryptizX197**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **QiQi6060**: Fallow Deer |
 | 11:10 | **bleedinglory**: Owl (FR) | **omniprese_nt**: Bush Elephant (MFR) |
 | 11:06 | **Niruch_Bearly**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×3 | **NotSweatyOnion**: Cabbit (FR) |
-| 11:06 | **fygramvgg**: Mochi Meow (M) | **Niruch_Bearly**: Fly-A-Pet Potion |
-| 11:06 | **Fidelia2131415**: Swan | **Kimyeonii**: Harp Seal |
-| 11:06 | **Kimyeonii**: Ice Cream Cone Hat | **LaLas_2009**: Glyptodon (N), Fossa (N), Budgie Witch (N), Borhyaena Gigantica (N), Black Marlin (N), Arctic Hare (N), 2025 Birthday Butterfly (N), Turtle Doves (N), Tree Sasquatch (N), Singularity Beetle (N), Seahorse (N), Ruddy Duck (N), Seagull (N), DJ Snooze (N), Ghost Wolf (N), Black Moon Bear (N), Amber Butterfly (N), Abyssinian Cat (N) |
-| 11:06 | **hearts4him01211**: Thinking Hat | **Kimyeonii**: Bready Necklace |
-| 11:06 | **daanz2**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×7 | **safiqa99**: Turtle (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
