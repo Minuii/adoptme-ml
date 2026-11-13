@@ -243,7 +243,8 @@ def tok(raw):  # "Name|BADGES" -> index into tokens: [site item name or raw name
 
 for src, code in (("amvgg", "A"), ("elve", "E")):
     for a in recent_ads(src):
-        ads.append([code, a["t"][:16], [tok(x) for x in a["give"]], [tok(x) for x in a["get"]]])
+        # AMVGG offers keep their offer id, for a link to amvgg.com/trade/<id> (AMVGG's own page; still no trader names here)
+        ads.append([code, a["t"][:16], [tok(x) for x in a["give"]], [tok(x) for x in a["get"]]] + ([a["id"]] if code == "A" else []))
 ads.sort(key=lambda a: a[1], reverse=True)
 (SITE / "ads.json").write_text(json.dumps({"built": now.isoformat(timespec="minutes"), "tokens": tokens, "ads": ads},
                                           separators=(",", ":")), encoding="utf-8")

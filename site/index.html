@@ -208,6 +208,8 @@ tr.tot td { font-weight: 600; border-bottom: 0; }
 .ag-bait { color: #ffcf5c; font-weight: 600; cursor: help; }
 .ag-deal.over b { color: #5fd38a; } .ag-deal.under b { color: #ff7f6e; } .ag-deal.fair b { color: var(--ag-cyan); } .ag-deal.na b { color: var(--ag-mute); font-size: 13px; }
 .ag-when { display: flex; flex-direction: column; gap: 4px; align-items: flex-start; font-size: 12px; font-weight: 600; color: var(--ag-fg); }
+.ag-link { color: var(--ag-cyan); font-size: 12px; font-weight: 700; text-decoration: none; white-space: nowrap; }
+.ag-link:hover { text-decoration: underline; }
 .ag-src { font-size: 11px; font-weight: 700; padding: 1px 8px; border-radius: 999px; }
 .ag-src.A { background: var(--ag-cyan); color: #06222c; } .ag-src.E { background: #e2457f; color: #fff; }
 #admore { background: var(--ag-cyan); color: #06222c; border: 0; font-weight: 700; font-family: Montserrat, var(--sans); }
@@ -1113,7 +1115,9 @@ function adCard(ad) {
     h("div", { class: "ag-col" }, h("span", { class: "ag-lbl" }, "Offering"),
       h("div", { class: "ag-tiles" }, give.length ? tiles(give, S.ag.trim().toLowerCase()) : h("span", { class: "ag-none" }, "Nothing listed")), sum(give, g)),
     deal,
-    h("div", { class: "ag-when" }, h("span", { class: "ag-src " + src }, SRC[src]), h("span", { title: t.replace("T", " ") + " UTC" }, ago(t))));
+    h("div", { class: "ag-when" }, h("span", { class: "ag-src " + src }, SRC[src]), h("span", { title: t.replace("T", " ") + " UTC" }, ago(t)),
+      src === "A" && ad[4] ? h("a", { class: "ag-link", href: `https://amvgg.com/trade/${encodeURIComponent(ad[4])}`, target: "_blank", rel: "noopener",
+        title: "Open this offer on AMVGG (it may be gone if it was accepted or deleted)" }, "View on AMVGG ↗") : null));
 }
 async function drawAds(reset = true) {
   if (!ADS) {
