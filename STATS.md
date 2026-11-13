@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 04:45 UTC by the scrape workflow._
+_Updated 2026-11-13 04:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 04:45 UTC by the scrape workflow._
 | amvgg | 3 | 27,383 | 2026-11-13T04:45 |
 | elve | 3 | 5,490 | 2026-11-13T04:45 |
 
-## AMVGG completed trades: 6,403 total
+## AMVGG completed trades: 6,419 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 570 |
+| 2026-11-13 | 586 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 04:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:45 | **koeinaway1**: Fly-A-Pet Potion ×2 | **Pandalovedogss**: Pet Handler Pro Certificate ×2 |
-| 04:45 | **Zombie_8803**: Retired Egg ×18 | **wovyin**: Burger Bear |
-| 04:45 | **MM_Cloud**: Stray Cat Dragon ×11 | **PeppaOMG2**: Ride-A-Pet Potion |
-| 04:45 | **Salyymoon**: Cow (FR), Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Kitsune (NFR) | **Yumi_Rose8**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:45 | **Leah_newaccnt**: Cherry-On-Top, Unicorn Horn, Rain Cloud Hat ×3, 2022 Birthday Confetti Cannon ×2, 2022 Birthday Party Horn, Owlbear (MFR), Toaster Hat ×2, Tiny Wings | **Tickyiiii**: Winged Tiger (MFR) |
-| 04:45 | **Bear_crunch201122**: Fly-A-Pet Potion, Unicorn Horn, Toaster Hat, Ride-A-Pet Potion | **mamadkunem3**: Cow (FR) |
-| 04:45 | **SrDinosaurio135**: Christmas Pudding Pup (MFR), Fairy Bat Dragon (FR) | **yearnforme456**: Arctic Reindeer (NFR) |
-| 04:45 | **Darkgamerzvx**: Copycat (NR), Frost Fury (NFR), Phantom Dragon (NFR), Arctic Fox (NFR), T-Rex (NFR), Criosphinx (NFR), Snow Owl (NFR), Candicorn (R) | **Lololoska1258**: Cryptid (R) |
-| 04:45 | **LuisitoShin**: Crystal Egg ×18 | **Lvpix**: Ride-A-Pet Potion |
-| 04:45 | **anasarubio**: Alpaca (NFR), Goat (FR) | **ScrumptiousJamDonut**: Goose (NFR), Ride-A-Pet Potion ×2 |
-| 04:45 | **It3not_ay1ah**: Snow Monkey (MFR), Flamingo, Snow Monkey (NR), Ice Cream Cone Hat | **iv2yec**: Cabbit (NR) |
-| 04:45 | **Prinssxlq**: Mr. Whiskerpips | **okt_24102011**: Mrs. Whiskerpips |
-| 04:45 | **LupTea_furro**: Copycat (NR), Ride-A-Pet Potion | **SanAndres404**: Strawberry Tortle (FR) |
-| 04:45 | **bri5hellokitty**: Munchkin Cat | **Yoseniri_38**: Arctic Fox (FR), Ride-A-Pet Potion |
-| 04:45 | **rlysaturn**: Parrot (FR), Mini Pig (NFR) | **jypit0410j**: Frost Dragon (FR) |
+| 04:55 | **BREEZY_LOVER1**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **wintersbiohazard**: Rainbow Maker |
+| 04:55 | **1_TASTEANDY0ULLBMINE**: Corgi (N), Pangolin (N), Red Panda (N), Beaver (N), Cattuccino | **boonjour_amies**: Ride-A-Pet Potion |
+| 04:55 | **Mstefcoo1**: Frost Dragon (FR), Parrot (FR), Albino Monkey (NFR) | **xxjohnjokexx**: Frost Dragon (NFR) |
+| 04:55 | **javvyvt**: Bandicoot (N), Crab (N), Chestnut Glyptodon (N), Amber Butterfly (N), Cocoadile (N) | **boonjour_amies**: Ride-A-Pet Potion |
+| 04:55 | **Officalyuichi**: Dragonfruit Fox, Pupcake (MR), Ride-A-Pet Potion ×4 | **TsukiKito**: Munchkin Cat (FR) |
+| 04:55 | **Preppygur5**: Parrot (NFR) | **xavspup**: African Wild Dog, Haetae, Alpaca, 2022 Birthday Party Hat, Unicorn Horn, 2022 Birthday Party Horn |
+| 04:55 | **s1iilyy**: Gaelic Fae (F) | **Wockillzzz2**: Ride-A-Pet Potion ×2 |
+| 04:55 | **Adoptmetradingalt82**: Lamb (MFR) | **Cynor0x**: Angel Wings |
+| 04:55 | **theropywasted**: Burger Bear (N) | **MlodyMultiAlterntor**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 04:55 | **MorpekoMuncher**: Fly-A-Pet Potion ×16 | **Fox7Art**: Cow (FR) |
+| 04:55 | **neori94**: Copycat (MR) ×2 | **HairazaxLA**: Frost Dragon (FR), Candicorn |
+| 04:55 | **editor16**: Ballet Swan, Fly-A-Pet Potion | **L_person21**: Jester Dragon |
+| 04:55 | **ALTAMERANO10**: Parrot (FR) | **ELVEAMVGGTRADER890**: Munchkin Cat (MFR), Caterpillar, Cow (R), Water Moon Bear (M), French Bulldog (N) |
+| 04:55 | **realgeibot**: Goose (FR), Happy Duckling (MR) | **xxxAubreexxx123**: Candicorn (NFR) |
+| 04:50 | **Angel_020601**: Werewolf (FR) | **LinaIsGone**: Frost Unicorn (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
