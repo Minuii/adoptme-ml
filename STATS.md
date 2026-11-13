@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 06:31 UTC by the scrape workflow._
+_Updated 2026-11-13 06:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 06:31 UTC by the scrape workflow._
 | amvgg | 3 | 28,954 | 2026-11-13T06:30 |
 | elve | 3 | 5,813 | 2026-11-13T06:31 |
 
-## AMVGG completed trades: 6,587 total
+## AMVGG completed trades: 6,613 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 754 |
+| 2026-11-13 | 780 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 06:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:30 | **fleshsprinklesz**: Tuxedo Cat | **onigiri_eli**: Chihuahua |
-| 06:30 | **abdoosaad**: Giraffe (FR), Pig (FR) | **SH3LLSH3L**: Frost Dragon (FR), Cryptid (R), Fairy Bat Dragon (FR) |
-| 06:30 | **jellofox2009**: Gemstone Egg, Penguin, Halloween White Skeleton Dog, Paint Sealer ×4 | **endcup1d**: Ride-A-Pet Potion |
-| 06:30 | **cjdnshdjaxn**: Ride-A-Pet Potion ×6 | **flex0mp**: Copycat |
-| 06:30 | **Omar2002548**: Ride-A-Pet Potion | **endcup1d**: Mighty Haetyphoon Animated Sticker |
-| 06:30 | **Kir4kaaa**: Ride-A-Pet Potion | **hamurasha**: River Otter (M) |
-| 06:30 | **1Tinker2**: Happy Clam (MFR), Albino Monkey (FR) | **T3bas1**: Haetyphoon (NFR) |
-| 06:30 | **jhvghvtc**: Ride-A-Pet Potion ×7 | **carlkilling**: Copycat |
-| 06:30 | **kenopxiaa**: Turtle (NFR), Alpaca (R), Cotton Candy Hat, Butter Knife | **LoriDreamy123**: Cow (FR), Hot Doggo (FR) |
-| 06:30 | **chefsavvka**: Golden Tortoise Beetle (M), Fly-A-Pet Potion, Winter Fawn, Pain au Chat | **Fayba42123**: Toasty Red Panda (M) |
-| 06:30 | **Qu33nDQCrimsonO19932**: Unicorn | **afissamuzfirah**: Ride-A-Pet Potion |
-| 06:30 | **pushicupcake**: Balloon Unicorn (FR), Strawberry Shortcake Bat Dragon (FR), Ice Cream Cone Hat | **Vansderrl**: Owl (FR) |
-| 06:30 | **nemapro123kitty**: Tortoiseshell Guinea Pig, Owlbear (R), Pirate Hermit Crab | **niyashimo**: Kangaroo (FR) |
-| 06:30 | **eliijahnextdoor**: Mini Pig (FR) | **Estrellitagamer108**: Shrew (FR), Cow (FR) |
-| 06:30 | **micaelakdkdn**: Rainbow Maker, Christmas Pudding Pup (MFR) | **BTRAlice133**: Giant Panda (FR) |
+| 06:36 | **ELASTICHXRT**: Albino Monkey (MFR), Dango Penguins (MFR), Chocolate Dutch Guinea Pig (MFR), Munchkin Cat (R) | **Sonya73p**: Winged Tiger (MFR) |
+| 06:36 | **Pinkmalinky123**: Bakeneko (M) | **natfrmct**: Raccoon (N), Rabbit (N) |
+| 06:36 | **selinaakhii**: Strawberry Shortcake Bat Dragon (MFR) | **kaylamicmi**: Goat (MFR) ×2, Hare (MFR), Irish Water Spaniel (MFR) |
+| 06:36 | **FlyToTheSaturn**: Modern Mansion | **vvaryaa58AaS**: Ride-A-Pet Potion |
+| 06:36 | **Atsushi1_BSD**: Spring Bunny Feet, Back Taco | **Niruch_Bearly**: Ride-A-Pet Potion ×2 |
+| 06:36 | **chickchickboom101**: Koala (R) | **herfaklo**: Black Moon Bear (N) |
+| 06:36 | **SaltnPepperStuff**: Ride-A-Pet Potion ×8 | **Sirswagalishsus**: Cerberus (NFR) |
+| 06:36 | **JollyFantasticlauren**: Head Chef | **TwT555_77**: Pet Handler Pro Certificate, Spring Bunny Nose |
+| 06:36 | **Nanax_8907**: Santa Hat, Elf Hat | **LOV66lk**: Jester Dragon (R) |
+| 06:36 | **unice_unicoo**: Puffer Fish, Golden Jaguar, Flower Power Duckling, Nurse Shark (N), Thunderfisher | **Leviodas**: Ride-A-Pet Potion ×2 |
+| 06:36 | **melissaalt02**: English Sheepdog (MFR), Goat (NFR), Kid Goat (MFR) | **axiokowi**: Candicorn (NFR) |
+| 06:36 | **ohinam**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **odading12318**: Blue Dog (FR) |
+| 06:36 | **milkshakedeer**: Milk Choccybunny (M) | **leen_yyyus**: Leopard Cat |
+| 06:36 | **Marjorievirgo**: Chihuahua ×3 | **milkcat14344**: Mighty Haetyphoon Animated Sticker |
+| 06:36 | **kath10890**: Eggnog Dog ×4, Ghost Wolf | **leen_yyyus**: Eggnog Dog (N) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
