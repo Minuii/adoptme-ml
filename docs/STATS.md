@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 18:16 UTC by the scrape workflow._
+_Updated 2026-11-13 18:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 18:16 UTC by the scrape workflow._
 | amvgg | 3 | 39,882 | 2026-11-13T18:15 |
 | elve | 3 | 8,227 | 2026-11-13T18:16 |
 
-## AMVGG completed trades: 8,821 total
+## AMVGG completed trades: 8,868 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,988 |
+| 2026-11-13 | 3,035 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 18:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:15 | **waruKosh**: Fly-A-Pet Potion | **JEOGXT**: Pupcicle ×2 |
-| 18:15 | **cxltwaste**: Balloon Unicorn (FR), Goat (MFR), Sakura Spirit (FR), Back Taco ×2, Thinking Hat | **Addmymainamv**: Chocolate Chip Bat Dragon (FR) ×3, Strawberry Shortcake Bat Dragon (FR), Cabbit (R) |
-| 18:15 | **j456k**: Frostbite Bear (R), Brown Bear (FR) | **lolppp0vld**: Pupcicle (MFR) |
-| 18:15 | **Mharkie162**: Chihuahua ×5 | **puppyxtara**: Fly-A-Pet Potion |
-| 18:15 | **Alana_enna22**: Hippo, Pain au Chat ×2 | **Lxdyxx**: Ride-A-Pet Potion |
-| 18:15 | **fishymiss_y**: Ride-A-Pet Potion, Retired Egg ×4 | **wi0qwi**: Pupcicle |
-| 18:15 | **Omar2002548**: Ride-A-Pet Potion | **Mariam_123xd123**: Pupcicle |
-| 18:15 | **Kaamyxa**: Purrowl | **PeppaOMG2**: Moon Egg |
-| 18:15 | **Quean_33**: Cotton Candy Hat, Thunderfisher (N) | **epvshka**: Pupcicle |
-| 18:15 | **nessty_m**: Happy Duckling, Cheesecake Hat, Lava Racer | **Fox_13920**: Ride-A-Pet Potion |
-| 18:15 | **Smookgans**: Jester Dragon, Copycat, Fly-A-Pet Potion, Ride-A-Pet Potion, Hyena (R) | **ALEXANDRAAXAXA**: Kangaroo (FR) |
-| 18:15 | **f1nqo**: Pupcicle (MFR) | **Dancemom7228**: Copycat (NFR) |
-| 18:15 | **f1nqo**: Mummy Spider (M), Caramelgeist (M) | **eeliasxcx**: Ride-A-Pet Potion |
-| 18:15 | **kraket127**: Unicorn | **xXHope_notxX**: Ride-A-Pet Potion |
-| 18:15 | **Koala_ql**: Ghost (MR), Pomeranian (M), Capricorn, Storm Condor (FR), Chihuahua | **lemonadexx1**: Clover Cow (MR) |
+| 18:25 | **alilaloutre200828**: Giraffe (FR), Puffin (MFR), Frostbite Cub (MR), Husky, Frostclaw (N) | **Shhdhehdneirjndnd**: Balloon Unicorn (NFR) |
+| 18:25 | **Eatemtoes101**: Toaster Hat | **Elf_Deme**: Shadow Dragon Ducky (MFR), Pet Handler Pro Certificate |
+| 18:25 | **marioxd_1252**: Arctic Fox | **animatownermile3**: Pupcicle ×7 |
+| 18:25 | **1flymiamibro22**: Turtle (NFR), Kangaroo (FR), Siamese Cat (NFR), Cow (R), Elephant (FR), Island Tarsier (MR) | **Summerwave2011**: Parrot (FR) |
+| 18:25 | **apple_juice99lovr**: Fly-A-Pet Potion, Ride-A-Pet Potion | **xxlKometalxx**: Happy Clam |
+| 18:25 | **Julka_Polska157**: Copycat | **Haru15919**: Pupcicle ×7 |
+| 18:25 | **puuuurrrraaawww**: Copycat | **Haru15919**: Pupcicle ×6 |
+| 18:25 | **s0larzxxxx**: Toaster Hat | **sleepy_s0ren**: Ride-A-Pet Potion ×9 |
+| 18:25 | **zqwuhl**: Fly-A-Pet Potion | **mister_junior3**: Steppe Lion ×2, Summer Walrus, Starhopper, Singularity Pisces, Thorny Devil ×3, Weevil ×6, Water Opossum ×4 |
+| 18:25 | **XxCiasto_xX**: Ice Cube (NR), Bobageist ×2, Caramelgeist ×2, Pangolin ×2, Orca ×2, Gummy Guana, Crimson Cape (N), Capuchin Monkey, Electric Hornet | **Chiki_cou**: Pupcicle |
+| 18:25 | **metanight3d**: Pupcicle ×2, Cracked Egg | **Lxdyxx**: Fly-A-Pet Potion |
+| 18:25 | **nmilovax**: Ride-A-Pet Potion, Raccoon | **Chiki_cou**: Pupcicle |
+| 18:25 | **Abaddon_Kisser666**: Arctic Fox (NR), Unicorn Horn, Ice Cream Cone Hat | **sigmaizzmailovvvv2**: Turtle (NFR) |
+| 18:25 | **M1lena126**: Ladybug (MFR), Space Whale (NFR) | **winterclaus1354alt**: Pupcake (MR) |
+| 18:21 | **Blasecific**: Owl (FR), Diamond Unicorn (MFR), Munchkin Cat (R), Pink Cat (R), Ice Cream Cone Hat, Harp Seal (NR), Spring Bunny Hood, Black Panther (NR), Halloween White Ghost Dragon (FR), Spring Bunny Nose, Fly-A-Pet Potion, Toucan (NFR), Badger (M) ×2, Magic House Door, Classic Trade Stand, Temple Friend ×2 | **sigmaizzmailovvvv2**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
