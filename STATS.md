@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 06:45 UTC by the scrape workflow._
+_Updated 2026-11-13 06:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 06:45 UTC by the scrape workflow._
 | amvgg | 3 | 29,165 | 2026-11-13T06:45 |
 | elve | 3 | 5,842 | 2026-11-13T06:45 |
 
-## AMVGG completed trades: 6,624 total
+## AMVGG completed trades: 6,662 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 791 |
+| 2026-11-13 | 829 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 06:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:45 | **elitro44**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **LoriDreamy123**: Jester Dragon |
-| 06:45 | **liliyruze**: Frostbite Bear (R), Frostbite Bear | **awhbubblessss**: Albino Monkey (NFR) |
-| 06:45 | **serspect**: Giant Anteater | **Lvpix**: Ride-A-Pet Potion ×6 |
-| 06:45 | **abdoosaad**: Fairy Bat Dragon (FR) | **LoriDreamy123**: Chihuahua (MR), Glormy Leo (R), Unicorn (FR), Munchkin Cat (R), Hyena |
-| 06:45 | **Cherridoll76**: Corn Doggo (MFR), Copycat (N) | **sleepy_fredih**: Winged Tiger (NFR) |
-| 06:45 | **kyle_A1T**: Tiny Wings, Happy Duckling (MR) | **luna2028192**: Unicorn Horn |
-| 06:45 | **FlyToTheSaturn**: Stars Egg ×7, Patterns Egg, Stripes Egg ×2 | **MaleAakarshMale**: Fly-A-Pet Potion |
-| 06:45 | **AUTOINPUT**: Haetyphoon, Glormy Dolphin (MR) | **LEMONSTAYINMARS**: Turtle (FR), Ghost Dog |
-| 06:45 | **xezviii**: Burger Bear (M) | **Kvammletitraketa**: Chocolate, Pet Handler Pro Certificate, Baby Basket Stroller, Spring Bunny Feet |
-| 06:45 | **Inganta07**: Pet Handler Pro Certificate | **BudakBaran7**: Ride-A-Pet Potion ×2 |
-| 06:45 | **onigiri_eli**: Turtle Doves (MR) | **AndresPatato**: Ride-A-Pet Potion ×2 |
-| 06:36 | **ELASTICHXRT**: Albino Monkey (MFR), Dango Penguins (MFR), Chocolate Dutch Guinea Pig (MFR), Munchkin Cat (R) | **Sonya73p**: Winged Tiger (MFR) |
-| 06:36 | **Pinkmalinky123**: Bakeneko (M) | **natfrmct**: Raccoon (N), Rabbit (N) |
-| 06:36 | **selinaakhii**: Strawberry Shortcake Bat Dragon (MFR) | **kaylamicmi**: Goat (MFR) ×2, Hare (MFR), Irish Water Spaniel (MFR) |
-| 06:36 | **FlyToTheSaturn**: Modern Mansion | **vvaryaa58AaS**: Ride-A-Pet Potion |
+| 06:55 | **elitro44**: Fly-A-Pet Potion ×3 | **tspmoinc**: Arctic Dusk Dragon |
+| 06:55 | **Yeoya_O**: Turtle (FR) | **nornomm**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×11 |
+| 06:55 | **neori94**: Copycat (NFR), Copycat ×8 | **kwittenist**: Evil Unicorn (FR) |
+| 06:55 | **amica7wh**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Fossil Egg, Cotton Candy Stand, Lemonade Stand | **m4tt_skatez**: Copycat |
+| 06:55 | **MEL1TTIN**: Munchkin Cat (R), Ride-A-Pet Potion, Fly-A-Pet Potion | **clanekevin2022**: Lion (FR) |
+| 06:55 | **Alecsandra3107**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **Puddingxcutoy**: Lion Cub (FR) |
+| 06:55 | **abdoosaad**: Munchkin Cat (FR) | **Alliexxzc**: Royal Palace Spaniel (MFR), Dire Wolf (M) |
+| 06:55 | **Yeoya_O**: Turtle (FR) | **LoriDreamy123**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 |
+| 06:55 | **hisforeverndalways**: Giant Panda (FR) | **VanillaChxry**: Goose (FR), Peppermint Penguin (R), Mini Pig, Unicorn Horn, Alpaca (R), Rain Cloud Hat, Spring Bunny Hood, Spring Bunny Feet, Pancake Stack |
+| 06:55 | **m0rbid_cat**: Waffle Wyrm (MFR) | **afissamuzfirah**: Ride-A-Pet Potion ×3 |
+| 06:55 | **kworixx**: Frostbite Bear, Sugar Glider (FR), Peppermint Penguin (FR), Peppermint Penguin, Winged Tiger (R), Dragonfruit Fox (NFR), Arctic Fox (F), Snow Monkey (NR), Blue Dog | **XxxSachaxxX1**: Giant Panda (FR) |
+| 06:55 | **Car1os_xd**: Fly-A-Pet Potion | **savva_agent1**: Ride-A-Pet Potion ×2 |
+| 06:55 | **Addmymainaccpls88**: Alpaca (NFR), Hot Doggo (NFR), Frost Fury (NFR), Tiny Wings, Ride-A-Pet Potion ×2 | **Sonya73p**: Owl (FR) |
+| 06:55 | **unice_unicoo**: Warthog (M), Rainbow Trout (M) | **Leviodas**: Ride-A-Pet Potion ×3 |
+| 06:55 | **AnneFabrel2005**: Dango Penguins (R) | **Mochistarx1**: Alley Cat |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
