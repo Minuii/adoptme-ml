@@ -331,7 +331,7 @@ function h(tag, attrs = {}, ...kids) {
   return e;
 }
 const fmt = v => v == null ? "—" : v >= 1000 ? Math.round(v).toLocaleString() : (+(+v).toPrecision(4)).toLocaleString(undefined, { maximumFractionDigits: 4 });
-const pctTxt = p => p == null ? "" : (p > 0 ? "+" : p < 0 ? "−" : "") + Math.abs(p).toFixed(Math.abs(p) < 10 ? 1 : 0) + "%";
+const pctTxt = p => p == null ? "" : (p = Math.abs(p) < .05 ? 0 : p, (p > 0 ? "+" : p < 0 ? "−" : "") + Math.abs(p).toFixed(Math.abs(p) < 10 ? 1 : 0) + "%");
 const pctCls = p => p == null || Math.abs(p) < .05 ? "flat" : p > 0 ? "up" : "down";
 const ts = t => Date.parse(t + "Z");
 const dateTxt = t => new Date(typeof t === "number" ? t : ts(t)).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
@@ -589,7 +589,7 @@ async function drawRise() {
           `${pctTxt(100 * bt.top20)} per ${days} days on average (all pets ${pctTxt(100 * bt.all_pets)}). `
         : `In tests over ${bt.months} months, "likely down" calls dropped ${flat}%+ ${pc(bt.down_precision)} of the time; most values don't move. `)
         : `This ${days}-day model hasn't been fully tested yet; treat it with more caution than the 30-day one. `) +
-      (days === 90 ? `Over 90 days the model barely beat "repeat the last change" in earlier tests. ` : "") +
+      (days === 90 && bt.months ? `The 90-day test covers fewer months than the others, so it is less certain. ` : "") +
       "A model's guess, not a promise."));
 }
 

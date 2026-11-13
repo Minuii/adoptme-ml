@@ -474,14 +474,24 @@ def size_main(df, feats, V, lab, last):
 
 
 def forecast_main(df, feats, V):
-    """Today's direction call per pet variant, for the site. Same model as "gradient boosting + offers + events" in
-    both mode (whose walk-forward results are the backtest the site quotes), trained on every row whose H-day outcome is
-    already known, i.e. up to H days before the newest day."""
+    """Today's direction call per pet variant, for the site. Same model as in both mode (whose walk-forward results are
+    the backtest the site quotes): "gradient boosting + offers + events", except at 90 days, where "logistic regression +
+    offers + events" tested clearly better (2026-11-13: up precision 52% vs 37%, top 20 +25% vs +18% per 90 days).
+    Trained on every row whose H-day outcome is already known, i.e. up to H days before the newest day."""
     data = df[df.y >= 0]
     newest = df.day.max()
     now = df[df.day == newest]
     f = varying(data, feats)
-    P = _classifier().fit(data[f].values, data.y.values).predict_proba(now[f].values)
+    if H >= 90:  # the linear model can't take gaps: 0 = "average", as in walk_forward
+        from sklearn.linear_model import LogisticRegression
+        from sklearn.pipeline import make_pipeline
+        from sklearn.preprocessing import StandardScaler
+        mdl = make_pipeline(StandardScaler(), LogisticRegression(max_iter=300, C=0.5))
+        P = mdl.fit(data[f].fillna(0).values, data.y.values).predict_proba(now[f].fillna(0).values)
+        name = "LogisticRegression"
+    else:
+        P = _classifier().fit(data[f].values, data.y.values).predict_proba(now[f].values)
+        name = type(_classifier()).__name__
     fc = now[["name", "label"]].assign(value=np.exp(now.log_value).round(4), p_down=P[:, 0], p_flat=P[:, 1], p_up=P[:, 2])
     fc["call"] = np.array(["down", "flat", "up"])[P.argmax(1)]
     fc = fc.sort_values("p_up", ascending=False).round(4)
@@ -489,7 +499,7 @@ def forecast_main(df, feats, V):
     path = OUT / f"direction_{H}d.csv"
     with path.open("w", encoding="utf-8", newline="") as fh:
         fh.write(f"# as of {newest.date()} (end of day UTC), {H} days ahead, trained on {data.day.min().date()} to "
-                 f"{data.day.max().date()}, {len(data):,} rows, {type(_classifier()).__name__}\n")
+                 f"{data.day.max().date()}, {len(data):,} rows, {name}\n")
         fc.to_csv(fh, index=False, lineterminator="\n")
     # keep every day's calls, so they can be scored once their outcome is known (track_record.py, the site's Stats tab)
     log_dir = OUT / "forecast_log" / f"{H}d"

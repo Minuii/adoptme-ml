@@ -326,7 +326,8 @@ def horizon_block(h):
         it, k = items.get(key(r["name"])), FC_LABEL.get(r["label"])
         if it and k:
             fc_items.setdefault(it["name"], {})[k] = [round(float(r["p_up"]), 3), round(float(r["p_down"]), 3), r["call"]]
-    folds = [r for r in csv.DictReader(bt_file.open(encoding="utf-8")) if r["model"] == BACKTEST_MODEL] if bt_file.exists() else []
+    model = "logistic regression + offers + events" if h >= 90 else BACKTEST_MODEL  # as elve_model.forecast_main uses
+    folds = [r for r in csv.DictReader(bt_file.open(encoding="utf-8")) if r["model"] == model] if bt_file.exists() else []
     every = f"top-20, new picks every {h}d"
     backtest = {"months": len(folds), "first": min((r["month"] for r in folds), default=""), "last": max((r["month"] for r in folds), default=""),
                 "up_precision": mean(r["up precision"] for r in folds), "down_precision": mean(r["down precision"] for r in folds),

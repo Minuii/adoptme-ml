@@ -9,6 +9,7 @@ A feature for day t only uses ads posted up to the end of day t (UTC).
 """
 import gzip
 import json
+import os
 from collections import Counter
 
 import numpy as np
@@ -19,6 +20,10 @@ import scraper
 SOURCES = ("elve", "amvgg")  # Elvebredd ads go back to 2025-02, AMVGG's to 2026-08-20
 MIN_MENTIONS = 300           # pet mentions needed in a window before its shares mean anything
 SMOOTH = 0.5                 # added to every count, so a pet with no ads gets a small share instead of log(0)
+# One person reposting the same pet all day (bots, spam, scam bait) shouldn't outweigh many people posting it once:
+# a pet counts once per poster per day per side. 40% of Elvebredd's and 26% of AMVGG's pet mentions are such repeats.
+# OFFER_DEDUPE=0 counts every ad again (the old behaviour, for comparison).
+DEDUPE = os.environ.get("OFFER_DEDUPE", "1") != "0"
 
 
 def kind_of(badges):
@@ -27,8 +32,9 @@ def kind_of(badges):
 
 def mentions(names):
     """Ad counts per (source, day, side, pet name, kind). `names` maps item_key -> the model's pet name; anything else
-    (toys, potions, "Add" requests, pets outside the model) is ignored. A pet counts once per ad side."""
-    counts = Counter()
+    (toys, potions, "Add" requests, pets outside the model) is ignored. A pet counts once per ad side, and (DEDUPE) once
+    per poster per day per side."""
+    counts, posted = Counter(), set()
     for src in SOURCES:
         seen = set()
         for f in sorted((scraper.DATA / "ads" / src).glob("*/*.jsonl.gz")):
@@ -42,8 +48,14 @@ def mentions(names):
                         for side in ("give", "get"):
                             for name, kind in {(names.get(scraper.item_key(x.partition("|")[0])), kind_of(x.partition("|")[2]))
                                                for x in a[side]}:
-                                if name:
-                                    counts[src, a["t"][:10], side, name, kind] += 1
+                                if not name:
+                                    continue
+                                if DEDUPE:
+                                    who = (src, a.get("owner") or ("ad", a["id"]), a["t"][:10], side, name, kind)
+                                    if who in posted:
+                                        continue
+                                    posted.add(who)
+                                counts[src, a["t"][:10], side, name, kind] += 1
             except (EOFError, OSError, json.JSONDecodeError):
                 pass  # a backfill file that is still being written: keep the lines read so far
     df = pd.DataFrame([(*k, n) for k, n in counts.items()], columns=["src", "day", "side", "name", "kind", "n"])
