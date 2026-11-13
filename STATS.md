@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 02:01 UTC by the scrape workflow._
+_Updated 2026-11-13 02:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 02:01 UTC by the scrape workflow._
 | amvgg | 3 | 24,915 | 2026-11-13T02:00 |
 | elve | 3 | 5,033 | 2026-11-13T02:01 |
 
-## AMVGG completed trades: 6,075 total
+## AMVGG completed trades: 6,103 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 242 |
+| 2026-11-13 | 270 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 02:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:00 | **flower_1851**: Ride-A-Pet Potion ×14 | **YTstaro**: Fly-A-Pet Potion ×8 |
-| 02:00 | **imsocutehahaokay**: Cabbit (NR), Volcanic Rhino (MFR) | **teetehejej**: Glacier Moth (MFR) |
-| 02:00 | **pigizak**: Goat (MFR) | **littlelizard_7**: Diamond Hamster (MFR), Kookaburra (MFR), Golden Rat (MFR) |
-| 02:00 | **LiamSWC**: Candicorn (NFR), Candicorn (FR), Thunderfisher, Pandaguin Glooptodog ×3, Flying Fairy, Gemstone Egg | **iaMatthieu1**: Arctic Reindeer (R) |
-| 02:00 | **Sleepw4lk_0**: Phantom Dragon (FR) | **pssixotrop**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 02:00 | **AMOANICOLE78**: Frost Dragon (FR), Dalmatian (FR), Elephant (R), Turtle (FR), Ice Golem (FR), Happy Clam | **Vansderrl**: Giraffe (FR) |
-| 02:00 | **JAGER_GT7**: Copycat (NFR) | **ICholestrol**: Peppermint Penguin (FR) |
-| 02:00 | **anisa_armyxx**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (NFR), Fly-A-Pet Potion ×3, Aussie Egg | **tiliribanani**: Evil Unicorn (FR) |
-| 02:00 | **Icecrymmxm**: Ketchup and Mustard Jetpack | **booseoks0on**: Ride-A-Pet Potion |
-| 01:50 | **corbin374**: Strawberry Shortcake Bat Dragon (NFR) | **PIasticTree**: Ice Cream Hermit Crab (NFR) ×2, Hare (NFR), Happy Clam (NFR), Ring-Tailed Lemur (NFR), Honey Badger (NFR), Cheetah (NR), Robin (MFR), Toy Poodle (MR), Mirai Moth (M), Chipmunk (M) |
-| 01:50 | **PookiePlayzADM**: Alpaca (R), Monkey (FR), Skelicorn | **inicio1994**: Siamese Cat (R) |
-| 01:50 | **Lynn_n77**: Panda (MFR) | **EriOnSuMa**: Rain Cloud Hat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 01:50 | **HardinScott854**: Bolt ×2 | **r3nvsax**: Caramelgeist, Frozen Penguin |
-| 01:50 | **llIRichie**: Blazing Lion (NFR), Christmas Pudding Pup ×2, Christmas Pudding Pup (R) | **pupgenderr**: Frost Dragon (NFR) |
-| 01:50 | **KatsuTatsuya**: Hedgehog (FR), Flamingo (FR), Goose (R), Alpaca (R), Lion Cub (R), Kiwi (NFR) | **waykner**: Parrot (FR) |
+| 02:11 | **M4r1_4nn**: Alpaca (R), Ride-A-Pet Potion | **loveturtlencow**: Munchkin Cat (R), Munchkin Cat, Lavender Dragon |
+| 02:11 | **corbin374**: Turtle (FR), Ride-A-Pet Potion | **Tralaleritos7654321**: Vanilla Penguin (MFR) |
+| 02:11 | **BABYCRAC120**: Tiny Wings, Unicorn Horn | **HenloHaiEllo123**: Angel Wings |
+| 02:11 | **Mcdonaldsofaustralia**: Balloon Unicorn (FR), Ride-A-Pet Potion ×8 | **HenloHaiEllo123**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR) |
+| 02:11 | **mochaberryss**: Fly-A-Pet Potion ×3 | **pupgenderr**: Christmas Pudding Pup |
+| 02:11 | **serspect**: Icy Porcupine (M), Snow Puma (M) | **kristina1234tina**: Happy Duckling (N) |
+| 02:11 | **Grin900**: Pain au Chat ×18 | **serspect**: Toaster Hat |
+| 02:11 | **XzSniperqRBacon2zX20**: Shark Puppy (R) | **chicaraxyx**: Ride-A-Pet Potion ×10 |
+| 02:11 | **m4rshalI**: Undead Jousting Horse (MFR) ×2, Evil Unicorn (MFR), Cryptid (NFR), Fairy Bat Dragon (MFR), Evil Unicorn (NFR) | **terrylonsoyjerry**: Giant Panda (MFR) |
+| 02:11 | **honiipi**: Cow (FR), Owlbear (NFR), Moon Rabbit, Sheeeeep (NR) | **Leahlovesyou4ever**: Owlbear (MFR) |
+| 02:11 | **XDKotonoja2001XD**: Rainbow Maker | **SebasMendesLoL**: Polar Bear (MFR) |
+| 02:11 | **Inganta07**: Fly-A-Pet Potion | **xqvuri**: Cerberus (R) |
+| 02:11 | **sclilxq**: Shark Puppy | **jose26022602**: Jester Dragon (R), Ride-A-Pet Potion ×2, Fly-A-Pet Potion |
+| 02:11 | **q_culvs**: Cupid Dragon (NFR) | **visceralXD**: Chocolate Dutch Guinea Pig (MFR) |
+| 02:11 | **tonyyy133378**: Mini Pig (FR), Hot Doggo (FR), Goose (FR), Cow (R), Fairy Bat Dragon (R), Mermicorn (FR), Werewolf (R), Alpaca (R) | **Pidilypops2nd**: Cryptid (NFR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
