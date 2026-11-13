@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 06:40 UTC by the scrape workflow._
+_Updated 2026-11-13 06:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 06:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 28,954 | 2026-11-13T06:30 |
-| elve | 3 | 5,813 | 2026-11-13T06:31 |
+| amvgg | 3 | 29,165 | 2026-11-13T06:45 |
+| elve | 3 | 5,842 | 2026-11-13T06:45 |
 
-## AMVGG completed trades: 6,613 total
+## AMVGG completed trades: 6,624 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 780 |
+| 2026-11-13 | 791 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 06:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:45 | **elitro44**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **LoriDreamy123**: Jester Dragon |
+| 06:45 | **liliyruze**: Frostbite Bear (R), Frostbite Bear | **awhbubblessss**: Albino Monkey (NFR) |
+| 06:45 | **serspect**: Giant Anteater | **Lvpix**: Ride-A-Pet Potion ×6 |
+| 06:45 | **abdoosaad**: Fairy Bat Dragon (FR) | **LoriDreamy123**: Chihuahua (MR), Glormy Leo (R), Unicorn (FR), Munchkin Cat (R), Hyena |
+| 06:45 | **Cherridoll76**: Corn Doggo (MFR), Copycat (N) | **sleepy_fredih**: Winged Tiger (NFR) |
+| 06:45 | **kyle_A1T**: Tiny Wings, Happy Duckling (MR) | **luna2028192**: Unicorn Horn |
+| 06:45 | **FlyToTheSaturn**: Stars Egg ×7, Patterns Egg, Stripes Egg ×2 | **MaleAakarshMale**: Fly-A-Pet Potion |
+| 06:45 | **AUTOINPUT**: Haetyphoon, Glormy Dolphin (MR) | **LEMONSTAYINMARS**: Turtle (FR), Ghost Dog |
+| 06:45 | **xezviii**: Burger Bear (M) | **Kvammletitraketa**: Chocolate, Pet Handler Pro Certificate, Baby Basket Stroller, Spring Bunny Feet |
+| 06:45 | **Inganta07**: Pet Handler Pro Certificate | **BudakBaran7**: Ride-A-Pet Potion ×2 |
+| 06:45 | **onigiri_eli**: Turtle Doves (MR) | **AndresPatato**: Ride-A-Pet Potion ×2 |
 | 06:36 | **ELASTICHXRT**: Albino Monkey (MFR), Dango Penguins (MFR), Chocolate Dutch Guinea Pig (MFR), Munchkin Cat (R) | **Sonya73p**: Winged Tiger (MFR) |
 | 06:36 | **Pinkmalinky123**: Bakeneko (M) | **natfrmct**: Raccoon (N), Rabbit (N) |
 | 06:36 | **selinaakhii**: Strawberry Shortcake Bat Dragon (MFR) | **kaylamicmi**: Goat (MFR) ×2, Hare (MFR), Irish Water Spaniel (MFR) |
 | 06:36 | **FlyToTheSaturn**: Modern Mansion | **vvaryaa58AaS**: Ride-A-Pet Potion |
-| 06:36 | **Atsushi1_BSD**: Spring Bunny Feet, Back Taco | **Niruch_Bearly**: Ride-A-Pet Potion ×2 |
-| 06:36 | **chickchickboom101**: Koala (R) | **herfaklo**: Black Moon Bear (N) |
-| 06:36 | **SaltnPepperStuff**: Ride-A-Pet Potion ×8 | **Sirswagalishsus**: Cerberus (NFR) |
-| 06:36 | **JollyFantasticlauren**: Head Chef | **TwT555_77**: Pet Handler Pro Certificate, Spring Bunny Nose |
-| 06:36 | **Nanax_8907**: Santa Hat, Elf Hat | **LOV66lk**: Jester Dragon (R) |
-| 06:36 | **unice_unicoo**: Puffer Fish, Golden Jaguar, Flower Power Duckling, Nurse Shark (N), Thunderfisher | **Leviodas**: Ride-A-Pet Potion ×2 |
-| 06:36 | **melissaalt02**: English Sheepdog (MFR), Goat (NFR), Kid Goat (MFR) | **axiokowi**: Candicorn (NFR) |
-| 06:36 | **ohinam**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **odading12318**: Blue Dog (FR) |
-| 06:36 | **milkshakedeer**: Milk Choccybunny (M) | **leen_yyyus**: Leopard Cat |
-| 06:36 | **Marjorievirgo**: Chihuahua ×3 | **milkcat14344**: Mighty Haetyphoon Animated Sticker |
-| 06:36 | **kath10890**: Eggnog Dog ×4, Ghost Wolf | **leen_yyyus**: Eggnog Dog (N) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
