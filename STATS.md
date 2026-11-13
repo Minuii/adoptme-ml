@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 12:41 UTC by the scrape workflow._
+_Updated 2026-11-13 12:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 12:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 34,176 | 2026-11-13T12:30 |
-| elve | 3 | 6,945 | 2026-11-13T12:31 |
+| amvgg | 3 | 34,404 | 2026-11-13T12:45 |
+| elve | 3 | 6,973 | 2026-11-13T12:45 |
 
-## AMVGG completed trades: 7,407 total
+## AMVGG completed trades: 7,429 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,574 |
+| 2026-11-13 | 1,596 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 12:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:41 | **dianirish**: Clover Cow (MFR) | **amvggaltaccount8**: Ride-A-Pet Potion ×5 |
-| 12:41 | **Malinamyn**: Fire Stallion (M) | **msxnr**: Ride-A-Pet Potion ×2 |
-| 12:41 | **nuggets0162**: Unicorn, Ms. Muffet (N), Mouse (N) | **Kir4kaaa**: Ride-A-Pet Potion |
-| 12:41 | **Dragonlegend2130**: Evil Unicorn (FR), Bee (MR), Propeller Hat | **Sasha_6813**: Cryptid (FR) |
-| 12:41 | **ywh_01**: Arctic Dusk Dragon (NR) ×2, Frostbite Bear, Grim Dragon (FR), Candicorn, Spring Bunny Hood ×3, Silverback Gorilla (R) | **joker7_77**: Haetae (FR) |
-| 12:41 | **66mint_99**: Cow (NFR), Siamese Cat (N), Candicorn | **TMDung20**: Arctic Reindeer (NFR) |
-| 12:41 | **Cinzsins**: Frost Dragon (FR) | **starofthe555**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR), Cow, Fairy Bat Dragon, Candyfloss Chick (R), Lion, Ride-A-Pet Potion ×2 |
-| 12:41 | **DES1R333333**: Jester Dragon | **kilopertq**: Fly-A-Pet Potion ×3 |
-| 12:41 | **shinobu02119**: Astronaut Gorilla | **cvusstie**: Ride-A-Pet Potion |
-| 12:41 | **haram0909071**: Cryptid (FR), Jellyfish (R) | **jaupaui2**: Jester Dragon (MFR) |
-| 12:41 | **ShxlyyXR**: Golden Jaguar (MFR) | **ComWhil**: Chihuahua (MFR) |
-| 12:41 | **KittyShay33**: Black Dog (NR), Black Dog (N), Hare | **LIAXMLV**: Latte Kitsune, Ride-A-Pet Potion |
-| 12:36 | **mindflaree**: Robin, Warthog, Bee, Evil Chickatrice, Cattuccino, Gorilla, Thunderfisher, Clubtail Dragonfly | **lera5132**: Ride-A-Pet Potion |
-| 12:36 | **mindflaree**: Elasmosaurus, Electric Hornet, Gumball Caterpillar, Sabertooth, Emu, Merhorse, Ibis | **Lxdyxx**: Ride-A-Pet Potion |
-| 12:36 | **PinkGuinea10**: Mr. Whiskerpips | **dazkiq**: Mrs. Whiskerpips (N) |
+| 12:45 | **Gu1neaP1g_3**: Hyena (NFR), 2022 Birthday Cake, Tiny Wings, Spring Bunny Feet | **ni1zuua**: Snowball Pug (M), Kitty Bat (MFR), Great Pyrenees (MFR), Toaster Hat, Ice Cream Cone Hat |
+| 12:45 | **Jilliantbh**: Siamese Cat (MFR), Fly-A-Pet Potion, Spring Bunny Hood | **Sentikaza_pikachu**: Giant Panda (FR) |
+| 12:45 | **Puddingxcutoy**: Kangaroo (FR) ×2 | **Bismuth234**: Cow (FR), Ride-A-Pet Potion ×2 |
+| 12:45 | **Lilsx10x**: Purple Butterfly (MFR) | **KFCBIRD_5**: Chocolate Dutch Guinea Pig (MFR), S'mores Raccoon (MFR) |
+| 12:45 | **elpapoydeastro**: Great Pyrenees, Rice Cake Rabbit | **KFCBIRD_5**: Christmas Pudding House |
+| 12:45 | **Not_CupcakeCrystal**: Copycat (NFR), Vampire Dragon (R) | **Coolbaby10100**: Arctic Dusk Dragon (NR), Lion (FR), Ride-A-Pet Potion ×3 |
+| 12:45 | **rottedpaw**: Ride-A-Pet Potion | **QueenT9BeastL**: Chocolate Dutch Guinea Pig |
+| 12:45 | **Lem0n_org**: Chocolate Chip Bat Dragon (R), Copycat | **guiderno1234**: Copycat (N) ×2 |
+| 12:45 | **Alishie262**: Red Squirrel (N) | **bella_lingx17**: Fly-A-Pet Potion |
+| 12:45 | **slveqr**: Turtle (NFR), Mini Pig, Cupid Dragon (NR) | **yyscalp**: Cryptid (FR), Fly-A-Pet Potion |
+| 12:45 | **isabelle757683**: Ghost Bunny | **milk59012**: Ride-A-Pet Potion |
+| 12:45 | **JxsYBe**: Ride-A-Pet Potion | **KPOLIK86**: Elf Bandana ×2 |
+| 12:45 | **floralplum**: Ride-A-Pet Potion ×6, Brown Springer Spaniel | **isabelle757683**: Glacier Kitsune (FR) |
+| 12:45 | **Wwalwal_2**: Ice Cream Truck | **afissamuzfirah**: Ride-A-Pet Potion |
+| 12:45 | **zeejnaa**: Ice Wolf (MFR), Ice Cream Cone Hat | **6un2z**: Latte Kitsune (MFR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
