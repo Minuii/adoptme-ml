@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 11:01 UTC by the scrape workflow._
+_Updated 2026-11-13 11:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 11:01 UTC by the scrape workflow._
 | amvgg | 3 | 32,829 | 2026-11-13T11:00 |
 | elve | 3 | 6,630 | 2026-11-13T11:01 |
 
-## AMVGG completed trades: 7,142 total
+## AMVGG completed trades: 7,162 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,309 |
+| 2026-11-13 | 1,329 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 11:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:00 | **superrcricchio**: Cake Friend (N), Red Dutch Guinea Pig | **cwutemais**: Harp Seal (NFR) |
-| 11:00 | **zombak_ha01**: Parrot (FR), Evil Unicorn (FR), Frost Fury (FR) | **Nazar_5555589**: Frost Dragon (FR) |
-| 11:00 | **Amvggtr4d3s**: 2022 Birthday Party Hat, Ice Cream Cone Hat | **Yourgrandadpullsfr**: Angel Wings |
-| 11:00 | **Sashok_566**: Rose Dragon (NR), Kitty Bat (MFR), Field Mouse | **momhatemeuwu**: Peppermint Penguin |
-| 11:00 | **warneriks**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3 | **24kPrincessLeonor**: Pig (FR) |
-| 10:55 | **rawrvampy**: Candicorn (MFR) | **T4CT1C4L_D1V1N3**: Candicorn (MR) |
-| 10:55 | **aliwcorn**: Burger Bear (MR), Burger Bear, Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig, Winter Fawn ×2, Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **amazon_duckhead**: Ghost Bunny (MFR) |
-| 10:55 | **callme_star13**: Mermicorn (R), Bat, Mistletroll, Gemstone Egg | **LIAXMLV**: Grim Dragon (FR) |
-| 10:55 | **jstforgrindx**: Crow (FR), Owl (FR), Slime (M), Canadian Goose (MFR) | **xXL0TTY**: Giraffe (FR) |
-| 10:55 | **LUISMATEO3112**: Ride-A-Pet Potion | **arukcha_0**: Kitty Bat, Slothula Transformation Animated Sticker |
-| 10:55 | **LUISMATEO3112**: Ride-A-Pet Potion | **CAXAPOK_PX8**: Kitty Bat, Bubblegeist, Huntsman Robin |
-| 10:55 | **TMDung20**: Owl (FR), Evil Unicorn (FR) | **JustMeYito**: Mermicorn (MFR) |
-| 10:50 | **mewkaiso**: Golden Hamster (NR) | **xWolfGirl1112x**: Fly-A-Pet Potion ×2 |
-| 10:50 | **PrisonLifePro106**: Albino Bat (NR) | **afissamuzfirah**: Ride-A-Pet Potion ×2 |
-| 10:50 | **bluedolphinnx**: Leopard Cat (N) | **Preppygur5**: Dumpling Friend Hat |
+| 11:10 | **kinnnaata**: Seahorse (MR), Angus Calf (MR), Mr. Whiskerpips (NR) | **Milk_147017**: Frost Fury (R), Lamb, Goldhorn (R), Royal Palace Spaniel (R) |
+| 11:10 | **margini_mini**: Alpaca, Ride-A-Pet Potion ×6 | **odading12318**: Sugar Glider (FR) |
+| 11:10 | **crystal_star151**: Balloon Unicorn (FR) | **Hobart143**: Cabbit (NFR), Cow, Border Collie (R), Alpaca (FR) |
+| 11:10 | **ALL1SS44**: Strawberry Shortcake Bat Dragon (NFR), Siamese Cat (R), Winged Tiger | **Caua08_Games**: Siamese Cat (MFR) |
+| 11:10 | **Cloudyxxvibezzz545**: Siamese Cat (MFR), Spring Bunny Hood, Fly-A-Pet Potion | **Jilliantbh**: Parrot (FR) |
+| 11:10 | **AnnekeStevens**: Alley Cat (NR) | **Iluvhotcocox**: Alley Cat (N) |
+| 11:10 | **bellada1frr**: Jellyfish | **Itz_Ir1na**: Matcha Cat (FR) |
+| 11:10 | **XzJellyjHCryptizX197**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **QiQi6060**: Fallow Deer |
+| 11:10 | **bleedinglory**: Owl (FR) | **omniprese_nt**: Bush Elephant (MFR) |
+| 11:06 | **Niruch_Bearly**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×3 | **NotSweatyOnion**: Cabbit (FR) |
+| 11:06 | **fygramvgg**: Mochi Meow (M) | **Niruch_Bearly**: Fly-A-Pet Potion |
+| 11:06 | **Fidelia2131415**: Swan | **Kimyeonii**: Harp Seal |
+| 11:06 | **Kimyeonii**: Ice Cream Cone Hat | **LaLas_2009**: Glyptodon (N), Fossa (N), Budgie Witch (N), Borhyaena Gigantica (N), Black Marlin (N), Arctic Hare (N), 2025 Birthday Butterfly (N), Turtle Doves (N), Tree Sasquatch (N), Singularity Beetle (N), Seahorse (N), Ruddy Duck (N), Seagull (N), DJ Snooze (N), Ghost Wolf (N), Black Moon Bear (N), Amber Butterfly (N), Abyssinian Cat (N) |
+| 11:06 | **hearts4him01211**: Thinking Hat | **Kimyeonii**: Bready Necklace |
+| 11:06 | **daanz2**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×7 | **safiqa99**: Turtle (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
