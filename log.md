@@ -270,3 +270,4 @@ The old Google Sheet (`amvgg_trades_completed`, ~20k trades, May 20 to June 9, 2
   - **Wording:** "amvgg" in lowercase everywhere on the site (user preference); the footer credits playadopt.me instead of "the official Adopt Me wiki".
   - Checked at 1366 px and phone width, no console errors.
 - **Mahi Spinning Rod** moved from Toys to Food (user request; `CAT_FIX` in `build_site.py`).
+- **Sidebar:** removed the "AM" logo square (user request); the brand is just the name now.
