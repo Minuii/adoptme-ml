@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 20:45 UTC by the scrape workflow._
+_Updated 2026-11-13 20:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 20:45 UTC by the scrape workflow._
 | amvgg | 3 | 42,388 | 2026-11-13T20:45 |
 | elve | 3 | 8,718 | 2026-11-13T20:45 |
 
-## AMVGG completed trades: 9,543 total
+## AMVGG completed trades: 9,599 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,710 |
+| 2026-11-13 | 3,766 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 20:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:45 | **Fairy_Demon190**: Endangered Egg ×3 | **Dash35813**: Skelicorn |
-| 20:45 | **MegaJady**: Green Amazon (N), Stitches (N) | **Shehatesme420**: Ride-A-Pet Potion |
-| 20:45 | **Ggyyuhhhj**: Ride-A-Pet Potion, Gumball Caterpillar (N), Alicorn (N) | **yReehxz**: Rabbit Helicopter |
-| 20:45 | **melynagamer3**: Ride-A-Pet Potion ×6 | **corbin374**: Dragonfruit Fox ×3 |
-| 20:45 | **looter_love**: Jester Dragon ×2, Ride-A-Pet Potion | **Kotenok_Vitalina**: Sea Slug |
-| 20:45 | **EMSCH4RM**: Mini Pig (NFR), Munchkin Cat (R) | **shockwav_v**: Munchkin Cat (MFR) |
-| 20:45 | **partypusheen12**: Gemstone Egg, Jacobin Pigeon (M), Boohoo (N), Ghost Kitty Backpack | **Its_YukiOnline**: Pupcicle |
-| 20:45 | **pisapopakakashecki**: Pupcicle | **adorable_rhian**: Ride-A-Pet Potion |
-| 20:45 | **corbin374**: Chocolate Chip Bat Dragon (FR), Arctic Reindeer (FR), Dragonfruit Fox | **fluffyunicorns_932**: Reindeer (MFR), Lynx (MFR), Yeti (MFR), Sushi Penguin (MFR), Pretty Pony (MFR), Brown Springer Spaniel (MFR) |
-| 20:45 | **carolzaothecreator**: Amethyst Skies Mega Neon Paint | **C0C0_loco01**: Rose Quartz Glow Mega Neon Paint |
-| 20:45 | **Lina_posix**: Retired Egg ×15 | **danialmandoz07142**: Musk Ox |
-| 20:45 | **magetearsx**: Chihuahua (MFR), Spring Bunny Hood, Spring Bunny Feet | **Katya_1922**: Flash Weasel |
-| 20:45 | **phonky_phonkacc2**: Red Squirrel (FR) | **Eclipse_Soul051**: Pupcicle |
-| 20:45 | **Riverness6_7**: Gemstone Egg, Copycat (NR), Stray Cat Dragon (MR), Jester Dragon (NFR), Purrowl | **iiadorxmia**: Strawberry Shortcake Bat Dragon (FR) |
-| 20:45 | **kitty_kit924**: Haetyphoon (R), Clover Cow (M), Swan (NFR) | **lolppp0vld**: Pupcicle (M) |
+| 20:55 | **gigAntiC_annA**: Pirate Hermit Crab, Cattuccino | **themudwizard**: Ride-A-Pet Potion |
+| 20:55 | **MegaJady**: Clementine Owl, Classic Trade Stand, Chimera | **themudwizard**: Ride-A-Pet Potion |
+| 20:55 | **14pawz**: Border Collie (MFR) | **mikepower240508**: Elephant (MFR), Elephant (N) |
+| 20:55 | **kennybear2009**: Balloon Unicorn (FR), Turtle (FR), Red Dutch Guinea Pig (NR) | **Sarah72042**: Emperor Gorilla (MFR) |
+| 20:55 | **k_sybom**: Pupcicle | **Abigail_Inferno237**: Fly-A-Pet Potion |
+| 20:55 | **king_93071**: Tarsier (MR), Turtle (FR) | **Xxskibidy67**: Cow (FR) |
+| 20:55 | **ADDIEISCHEAP**: Parrot (F), Hot Doggo (R), Peppermint Penguin (FR), Cow (FR) | **ADOPTME_TRADE596**: Frost Dragon (FR) |
+| 20:55 | **XxbobaloverXx565**: Copycat, Choco Penguin | **LoletitaYT**: Copycat |
+| 20:55 | **Petsimrestart_1**: Mermicorn (R) ×2, Crocodile, DJ Snooze (MR) | **likadbsv1**: Strawberry Shortcake Bat Dragon (FR) |
+| 20:55 | **123martin123456798**: Hippogriff (MFR) | **Kit1yyzzz**: Pupcicle ×8 |
+| 20:55 | **XXXbrokenXD**: Pupcicle (N), Pupcicle ×2, Chihuahua, Bunny Ear Tiara | **wskdaks**: Chihuahua (M) |
+| 20:55 | **Mitribuyyo**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, 1000 Bucks Silk Bag | **TeddyBear_3938**: Pupcicle ×4 |
+| 20:55 | **jArYnAa**: Copycat (MFR) | **Kristyjunio_r**: Cryptid (FR) |
+| 20:55 | **MegaJady**: Dilophosaurus (N), Ibis (N) | **Shehatesme420**: Ride-A-Pet Potion |
+| 20:55 | **Shehatesme420**: Fly-A-Pet Potion ×2 | **leyley_purple**: Sloth (N), Mule, Black Tiger (M), Catte, Therapy Dog, Electric Hornet |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
