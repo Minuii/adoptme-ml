@@ -143,15 +143,16 @@ def complete(h, now):
     return bool(h) and now is not None and abs(h[-1][1] - now) <= now * .005
 
 
-def snapshot_values(source):
-    """[(time "YYYY-MM-DDTHH:MM", {item key: {variant: value}})] for every snapshot file, oldest first."""
+def snapshot_values(source, folder=None):
+    """[(time "YYYY-MM-DDTHH:MM", {item key: {variant: value}})] for every snapshot file, oldest first.
+    folder: another folder of whole-list copies in the same format (data/elve_archive: archived copies, named by capture time)."""
     out_ = []
-    for f in sorted((DATA / "values" / source).glob("*.json.gz")):
-        t = f"{f.name[:13]}:{f.name[13:15]}"
+    for f in sorted((folder or DATA / "values" / source).glob("*.json.gz")):
+        t = f"{f.name[:13]}:{f.name[13:15]}" if not folder else f"{f.name[:4]}-{f.name[4:6]}-{f.name[6:8]}T{f.name[8:10]}:{f.name[10:12]}"
         vals = {}
         for i in json.loads(gzip.decompress(f.read_bytes())):
             if source == "elve":
-                k = elve_id.get(i.get("id"))
+                k = elve_id.get(i.get("id"))  # Elvebredd's ids are stable, archived copies included
                 if k is None:
                     continue
                 v = {x: num(i.get(c)) for x, c in ELVE_SNAP.items()} if i.get("type") == "pets" else {"v": num(i.get("value") or i.get("rvalue"))}
@@ -165,8 +166,12 @@ def snapshot_values(source):
 
 
 n_obs = 0
-for src, source in (("E", "elve"), ("A", "amvgg")):
-    for t, vals in snapshot_values(source):
+OWN_FROM = min((f"{f.name[:13]}:{f.name[13:15]}" for s_ in ("elve", "amvgg") for f in (DATA / "values" / s_).glob("*.json.gz")), default="")
+# Elvebredd before this site's own checks: archived copies of its calculator (scripts/elve_archive.py, web.archive.org,
+# since mid 2025), for the variants its change log doesn't keep. Only the copies' dates are known.
+for src, source, snaps in (("E", "elve", snapshot_values("elve", DATA / "elve_archive") + snapshot_values("elve")),
+                           ("A", "amvgg", snapshot_values("amvgg"))):
+    for t, vals in snaps:
         for k, v in vals.items():
             it = items.get(k)
             if not it:
@@ -185,8 +190,9 @@ for it in items.values():  # keep observations only where the logs fall short
         n_obs += len(obs)
     if not it.get("obs"):
         it.pop("obs", None)
-first_obs = min((h[0][0] for it in items.values() for o in it.get("obs", {}).values() for h in o.values()), default="")
-print(n_obs, "item variants charted from own snapshots (first", first_obs + ")")
+first_obs = OWN_FROM  # where this site's own checks begin; obs points before it come from archived copies
+n_arch_e = sum(1 for it in items.values() for h in it.get("obs", {}).get("E", {}).values() if h[0][0] < OWN_FROM)
+print(n_obs, "item variants charted from own snapshots (own checks from", first_obs + ";", n_arch_e, "Elvebredd ones reach back via archived copies)")
 
 out = [it for it in items.values() if it["E"] or it["A"]]
 SITE.mkdir(exist_ok=True)

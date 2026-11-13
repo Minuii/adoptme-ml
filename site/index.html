@@ -997,8 +997,12 @@ function frame(el, H, yDomain, xDomain, yFmt, xFmt, log = false) {
   const x = d3.scaleUtc().domain(xDomain).range([m.l, W - m.r]);
   svg.append("g").attr("class", "grid").attr("transform", `translate(${m.l},0)`)
     .call(d3.axisLeft(y).ticks(5).tickSize(-(W - m.l - m.r)).tickFormat("")).call(g => g.select(".domain").remove());
-  svg.append("g").attr("transform", `translate(0,${H - m.b})`)
-    .call(d3.axisBottom(x).ticks(Math.max(2, Math.floor((W - m.l) / 120))).tickFormat(xFmt).tickSizeOuter(0));
+  // short ranges labelled by date: one tick per whole day (or every few days), never the same date twice
+  const nT = Math.max(2, Math.floor((W - m.l) / 120)), days = (xDomain[1] - xDomain[0]) / DAY;
+  const xa = svg.append("g").attr("transform", `translate(0,${H - m.b})`)
+    .call(d3.axisBottom(x).ticks(days > 2 && days <= 90 ? d3.utcDay.every(Math.max(1, Math.ceil(days / nT))) : nT).tickFormat(xFmt).tickSizeOuter(0));
+  let lastLbl = null;
+  xa.selectAll(".tick text").each(function () { if (this.textContent === lastLbl) this.textContent = ""; else lastLbl = this.textContent; });
   return { svg, x, y, W, H, m, show: tipper(el) };
 }
 // ---- value-history range (S.hr), shared by both charts on an item page ----
@@ -1070,7 +1074,10 @@ function historyChart(el, it, s, sumEl) {
   svg.append("path").datum(pts).attr("fill", "none").style("stroke", COL[s]).attr("stroke-width", 2)
     .attr("d", d3.line().curve(d3.curveStepAfter).x(p => x(p.t)).y(p => y(p.v)));
   // amvgg before its change log: values on the dates archive.org saved its pages (hollow points; changes fall in between)
-  const ggFrom = s === "A" && DATA.gg_log_from ? ts(DATA.gg_log_from) : 0, arch = p => +p.t < ggFrom;
+  // hollow points: values from archived copies (web.archive.org), where only the copy's date is known. For amvgg's logged
+  // history that's before its change log (June 2026); for a chart from this site's own checks, before those began.
+  const ownFrom = DATA.obs_from ? ts(DATA.obs_from) : 0;
+  const ggFrom = own ? ownFrom : s === "A" && DATA.gg_log_from ? ts(DATA.gg_log_from) : 0, arch = p => +p.t < ggFrom;
   svg.append("g").selectAll("circle").data(pts.filter(p => !p.now && !p.edge)).join("circle")
     .attr("cx", p => x(p.t)).attr("cy", p => y(p.v)).attr("r", p => arch(p) ? 3 : 2.5)
     .style("fill", p => arch(p) ? "var(--panel)" : COL[s]).style("stroke", COL[s]).attr("stroke-width", 1.5);
@@ -1102,17 +1109,20 @@ function historyChart(el, it, s, sumEl) {
       guide.attr("x1", px).attr("x2", px).attr("visibility", "visible");
       const pc = prev && !p.now && prev.v ? (p.v - prev.v) / prev.v * 100 : null;
       show(px, py, [p.now ? "Now" : d3.utcFormat("%-d %b %Y, %H:%M UTC")(p.t), `Value: ${fmt(p.v)}${pc != null ? `  (${pctTxt(pc)})` : ""}`,
-        ...(arch(p) ? ["From an archived copy of amvgg (web.archive.org)"] : [])]);
+        ...(arch(p) ? [`From an archived copy of ${SRC[s]} (web.archive.org)`] : [])]);
     })
     .on("pointerleave", () => { guide.attr("visibility", "hidden"); show(); });
   if (ggFrom && !own && +pts[0].t < ggFrom) el.append(h("p", { class: "note", style: "margin-top:6px" },
     "Hollow points, before June 2026: amvgg's values on the days web.archive.org saved a copy of its pages (amvgg's own change log starts on 2 June 2026). A change between two hollow points happened some time in between."));
+  const archived = own && +ts(hst[0][0]) < ownFrom;
   if (own) el.append(h("p", { class: "note", style: "margin-top:6px" },
-    `From this site's own checks of the ${SRC[s]} list since ${dateTxt(hst[0][0])}: ` +
-    (s === "E" ? (logged?.length ? "Elvebredd's change log stopped matching this variant's value." : "Elvebredd's change log doesn't record this variant.")
+    (archived ? `Hollow points: ${SRC[s]}'s values on the days web.archive.org saved a copy of its calculator (a change between two of them happened some time in between). ` +
+      `Filled points: this site's own checks since ${dateTxt(DATA.obs_from)}. `
+      : `From this site's own checks of the ${SRC[s]} list since ${dateTxt(hst[0][0])}: `) +
+    (s === "E" ? (logged?.length > 2 ? "Elvebredd's change log stopped matching this variant's value." : "Elvebredd's change log doesn't record this variant.")
       : k === "v" || k.endsWith("-fr") ? (logged?.length ? "amvgg's change log stopped matching this value." : "amvgg's change log (since June 2026) has no changes for it.")
       : "amvgg's change log only covers fly ride values.") +
-    " It gets longer every day."));
+    (archived ? "" : " It gets longer every day.")));
 }
 
 // ---- Stats tab (site/stats.json) ----
