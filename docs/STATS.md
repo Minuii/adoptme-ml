@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-13 20:40 UTC by the scrape workflow._
+_Updated 2026-11-13 20:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 9 | 2026-11-11T1036Z | 2026-11-13T1945Z |
-| amvgg | 14 | 2026-11-11T1036Z | 2026-11-13T1945Z |
+| amvgg | 15 | 2026-11-11T1036Z | 2026-11-13T2045Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 42,166 | 2026-11-13T20:30 |
-| elve | 3 | 8,707 | 2026-11-13T20:31 |
+| amvgg | 3 | 42,388 | 2026-11-13T20:45 |
+| elve | 3 | 8,718 | 2026-11-13T20:45 |
 
-## AMVGG completed trades: 9,514 total
+## AMVGG completed trades: 9,543 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,681 |
+| 2026-11-13 | 3,710 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 20:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:40 | **shainikss**: Ride-A-Pet Potion | **Kira9975335**: Pupcicle |
-| 20:40 | **shainikss**: Ride-A-Pet Potion, Hippo | **TheBerryxD**: Pupcicle |
-| 20:40 | **allybae300**: Pupcicle (N) | **lowerbunny**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 20:40 | **Moommybirh**: Cattuccino, Pain au Chat, Little Lamb (N), Cold Cube, Stygian Owl (N), Emu | **Amnada202199**: Ride-A-Pet Potion |
-| 20:40 | **MegaJady**: General Sheepdog, Hippo, Nutcracker Squirrel, Chestnut Glyptodon (N), Pangolin (N), Cattuccino | **Shehatesme420**: Ride-A-Pet Potion |
-| 20:40 | **MegaJady**: Halloween Blue Scorpion (N), Irish Setter (N), Rattlesnake (N), Sunflower Friend (N), Gummy Guana (N), Tegu (N) | **Shehatesme420**: Ride-A-Pet Potion |
-| 20:40 | **PrincessCadyBoo**: Strawberry Shortcake Bat Dragon (NFR), Cow (FR), Ride-A-Pet Potion, 2022 Birthday Confetti Drape | **Dora_MS1**: Parrot (FR) |
-| 20:40 | **bakedkole**: Fly-A-Pet Potion ×12 | **SadiSadie3**: Turtle (FR) |
-| 20:40 | **zoommbbeee**: Diamond Unicorn ×3 | **6evesvokhaha**: Ride-A-Pet Potion |
-| 20:40 | **Typay604**: Fairy Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) | **fairylih**: Hedgehog (FR) |
-| 20:40 | **l_i8ra7**: Ride-A-Pet Potion | **bearryxleafy**: Peacock (R) |
-| 20:40 | **w4nd3ringG0d**: Aviator Hat, Thunderfisher | **Eslemyfjjjg**: Ride-A-Pet Potion |
-| 20:40 | **lux_15234958**: Pupcicle | **Abigail_Inferno237**: Chocolate Dutch Guinea Pig |
-| 20:40 | **daria7581659**: Werewolf (FR) | **r0773n_fl0w3r**: Pupcicle ×16 |
-| 20:40 | **ExpertChipmunkPro**: Copycat | **fitt04_08**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
+| 20:45 | **Fairy_Demon190**: Endangered Egg ×3 | **Dash35813**: Skelicorn |
+| 20:45 | **MegaJady**: Green Amazon (N), Stitches (N) | **Shehatesme420**: Ride-A-Pet Potion |
+| 20:45 | **Ggyyuhhhj**: Ride-A-Pet Potion, Gumball Caterpillar (N), Alicorn (N) | **yReehxz**: Rabbit Helicopter |
+| 20:45 | **melynagamer3**: Ride-A-Pet Potion ×6 | **corbin374**: Dragonfruit Fox ×3 |
+| 20:45 | **looter_love**: Jester Dragon ×2, Ride-A-Pet Potion | **Kotenok_Vitalina**: Sea Slug |
+| 20:45 | **EMSCH4RM**: Mini Pig (NFR), Munchkin Cat (R) | **shockwav_v**: Munchkin Cat (MFR) |
+| 20:45 | **partypusheen12**: Gemstone Egg, Jacobin Pigeon (M), Boohoo (N), Ghost Kitty Backpack | **Its_YukiOnline**: Pupcicle |
+| 20:45 | **pisapopakakashecki**: Pupcicle | **adorable_rhian**: Ride-A-Pet Potion |
+| 20:45 | **corbin374**: Chocolate Chip Bat Dragon (FR), Arctic Reindeer (FR), Dragonfruit Fox | **fluffyunicorns_932**: Reindeer (MFR), Lynx (MFR), Yeti (MFR), Sushi Penguin (MFR), Pretty Pony (MFR), Brown Springer Spaniel (MFR) |
+| 20:45 | **carolzaothecreator**: Amethyst Skies Mega Neon Paint | **C0C0_loco01**: Rose Quartz Glow Mega Neon Paint |
+| 20:45 | **Lina_posix**: Retired Egg ×15 | **danialmandoz07142**: Musk Ox |
+| 20:45 | **magetearsx**: Chihuahua (MFR), Spring Bunny Hood, Spring Bunny Feet | **Katya_1922**: Flash Weasel |
+| 20:45 | **phonky_phonkacc2**: Red Squirrel (FR) | **Eclipse_Soul051**: Pupcicle |
+| 20:45 | **Riverness6_7**: Gemstone Egg, Copycat (NR), Stray Cat Dragon (MR), Jester Dragon (NFR), Purrowl | **iiadorxmia**: Strawberry Shortcake Bat Dragon (FR) |
+| 20:45 | **kitty_kit924**: Haetyphoon (R), Clover Cow (M), Swan (NFR) | **lolppp0vld**: Pupcicle (M) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
