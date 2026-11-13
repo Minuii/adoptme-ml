@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 05:55 UTC by the scrape workflow._
+_Updated 2026-11-13 06:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 05:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 28,302 | 2026-11-13T05:45 |
-| elve | 3 | 5,643 | 2026-11-13T05:45 |
+| amvgg | 3 | 28,520 | 2026-11-13T06:00 |
+| elve | 3 | 5,714 | 2026-11-13T06:01 |
 
-## AMVGG completed trades: 6,516 total
+## AMVGG completed trades: 6,520 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 683 |
+| 2026-11-13 | 687 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,10 @@ _Updated 2026-11-13 05:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:00 | **kittykyo77**: Tiny Wings, General Sheepdog (MFR), Clementine Owl (M), Zombie Chick (M), Rose Dragon (FR), Dirty Ducky (M), Sloth (NR), Hopbop (M) | **orchidbutterfliess**: Cow (FR) |
+| 06:00 | **Daisymae5114**: Strawberry Shortcake Bat Dragon (NFR), Dango Penguins, Latte Kitsune, Latte Kitsune (FR) | **iiskye_0**: Strawberry Shortcake Bat Dragon (FR), Cabbit (NR), Water Rabbit (MFR) |
+| 06:00 | **FlyToTheSaturn**: Lunar Moon Bear, Mochi Meow, Zodiac Minion Chick ×3, Red Panda (FR), Bee ×2, Black-Footed Ferret ×2, Bobageist ×4, Red Panda ×4 | **Popa67742**: Fly-A-Pet Potion |
+| 06:00 | **MARJ_altacc**: Blue Boohoo Mega Neon Paint | **lpsaie**: Ride-A-Pet Potion |
 | 05:55 | **BulbyUnder**: Ride-A-Pet Potion | **FunnyAnaminegirl**: Frosty Glow Mega Neon Paint |
 | 05:55 | **Chokolatka1109**: Mule, Chocolate Chow-Chow, Clubtail Dragonfly (M) | **Nezuko_thefirs**: Fly-A-Pet Potion |
 | 05:55 | **Milca_Demon1**: Strawberry Clip | **Shynisocool**: Crystal Egg ×10 |
@@ -39,10 +43,6 @@ _Updated 2026-11-13 05:55 UTC by the scrape workflow._
 | 05:55 | **cjdnshdjaxn**: Copycat | **leesoyul11111111**: Ride-A-Pet Potion ×7 |
 | 05:55 | **YesidT_T**: Monkey King (NFR) ×3, Monkey King (FR), Matcha Cat | **PrismaticRio**: Peppermint Penguin (MFR) |
 | 05:55 | **Lem0n_org**: Fairy Bat Dragon (FR) | **CookieBawn**: Jester Dragon (N), Ride-A-Pet Potion ×2 |
-| 05:55 | **Fidelia2131415**: Moon Rabbit | **umi12345678910111213**: Cake Friend |
-| 05:50 | **Officalyuichi**: Ride-A-Pet Potion ×2 | **Rose1616160**: Fly-A-Pet Potion |
-| 05:50 | **PowersMia2955**: Jester Dragon (MFR) ×2, Border Collie (MFR), Cow, 2022 Birthday Party Hat | **Kenny_thealien**: Balloon Unicorn (NFR) |
-| 05:50 | **blue_dabadidabadi0**: Crocodile (FR), Birthday Butterfly 2024 (MR) | **Snoopyyvaal**: Elephant (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
