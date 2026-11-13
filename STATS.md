@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 01:31 UTC by the scrape workflow._
+_Updated 2026-11-13 01:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 01:31 UTC by the scrape workflow._
 | amvgg | 3 | 24,428 | 2026-11-13T01:30 |
 | elve | 3 | 4,972 | 2026-11-13T01:31 |
 
-## AMVGG completed trades: 6,009 total
+## AMVGG completed trades: 6,040 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 176 |
+| 2026-11-13 | 207 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 01:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:30 | **miyuki0_5**: Winged Horse | **cbmelissa**: Pretty Pony |
-| 01:30 | **xGracie_1234x**: Albino Monkey (FR) | **KawaiiGauges**: Groundhog (N) |
-| 01:30 | **italia123mexico**: Flamingo | **marchthenewest**: Flash Weasel, Ride-A-Pet Potion |
-| 01:30 | **gonewiththesln**: Candicorn (MFR) | **papita_cocida123XD**: Cryptid (FR), Cupid Dragon (N) |
-| 01:30 | **JuniorGok**: Pirate Ghost Capuchin Monkey | **wonderunicorn2019**: Cerberus (NFR) |
-| 01:30 | **RandyES233**: Haetyphoon (NFR) | **azeerchi**: Flash Weasel, Scarebear (NR) |
-| 01:30 | **hisevermore**: Bat Dragon (NFR), Tiny Wings, Chihuahua | **Addmymainaccpls88**: Bat Dragon (FR), Giraffe (FR) ×2, Owl, Rainbow Maker, Strawberry Shortcake Bat Dragon (R) |
-| 01:30 | **Lvpix**: Glacier Kitsune (R) | **TheGodx555**: Ride-A-Pet Potion ×5 |
-| 01:30 | **lucasprz7**: Pig (R) | **TheGodx555**: Ride-A-Pet Potion ×8 |
-| 01:30 | **supernova_cloud**: Cuddly Candle, Jacobin Pigeon (M), Blue Ringed Octopus, Burger Bun Hat, Bobageist (N), Mummy Spider (N), Caramelgeist (N), Sunflower Friend (N), Violet Friend (N), Dragon, Dragonfly | **adoptmejourney83**: Pancake Stack |
-| 01:30 | **Machaddkkj**: Ride-A-Pet Potion, Fly-A-Pet Potion, Heart Bow | **Lxdyxx**: Aestus (FR) |
-| 01:30 | **sinskin99**: Unicorn Horn, 2022 Birthday Party Hat | **0sit0legendari0**: Majestic Pony (MFR) |
-| 01:30 | **TsukiKito**: Ride-A-Pet Potion ×3 | **GabrielXx548**: Santa Hat |
-| 01:30 | **MatiXD12306**: Blazing Lion (R) | **io7_xc**: Haetae (FR), Burger Boots, Propeller Hat, Elf Hat, Pancake Stack, Cotton Candy Hat, Sandwich Hat |
-| 01:30 | **MiniDog_Cutie**: Jester Dragon (NR), Tortuga de la Isla (FR) | **user9461037**: Kangaroo (NFR) |
+| 01:40 | **areezyss**: Mini Pig (FR) | **Dustypantalones**: Diamond Unicorn (M), Frozen Penguin (M), Icy Porcupine (M), Snowy Mammoth (M), Pain au Chat (M), Mochi Meow (M), Kitty Bat (M) |
+| 01:40 | **Desired_Us3rn4m3**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7 | **mxrgan66**: Tiny Wings |
+| 01:40 | **L_person21**: Crow (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion | **VampirinaGirl18**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR), Lion (FR) |
+| 01:40 | **iaMatthieu1**: Sugar Glider (FR) | **moonlight201125**: Copycat (R), Candicorn (FR) |
+| 01:40 | **Flordecampo91**: Alley Cat (R) | **Venus_pl4n3t**: Flaming Fox (R) |
+| 01:40 | **brivqhn**: Cow (FR), Turtle (FR), Elephant | **carlkilling**: Dalmatian (R) |
+| 01:40 | **uu2i3iy**: Jester Dragon | **RGAKL10**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
+| 01:40 | **Miles_prowwer5**: Peahen (M), Kitty Bat (MFR), Alicorn (MR) | **mmmaattthhheeeooo**: Lava Wolf (MFR) |
+| 01:40 | **fhis64**: Royal Mistletroll (MFR) | **Cinzsins**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) ×3, Ice Cream Cone Hat |
+| 01:40 | **jimenita7896321**: Strawberry Shortcake Bat Dragon (R) | **Officalyuichi**: Cabbit (R), Siamese Cat (FR), Munchkin Cat (FR) |
+| 01:40 | **vivvlly**: Catte, Chihuahua, Electric Hornet, Thunderfisher ×4, Golden Griffin | **monte_mt3OwO**: Ride-A-Pet Potion |
+| 01:40 | **wjahsv**: Pet Handler Pro Certificate | **Teddyklao**: Ride-A-Pet Potion ×2 |
+| 01:40 | **E1IN37852**: Snow Monkey (MFR) | **Emoji_girlgamer2021**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:40 | **awepolarbear**: Strawberry Shortcake Bat Dragon (NFR), Harp Seal (M), Ride-A-Pet Potion | **Yasmimriby**: Balloon Unicorn (FR), Border Collie (R) |
+| 01:40 | **memorialbells**: Munchkin Cat (MFR), Cow (FR), Caterpillar, Black Springer Spaniel (NR), Ride-A-Pet Potion ×3 | **cupcake_wavy929**: Parrot (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
