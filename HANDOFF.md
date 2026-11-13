@@ -52,6 +52,7 @@ Adopt Me (Roblox) pet-value tracking and prediction.
 - **Git:** the bot commits `data:` every 15 minutes. Always `git pull --rebase origin main` before you push (plain `git pull --rebase` fails here: "Cannot rebase onto multiple branches"). Other AI sessions may be working in the repo at the same time, so check `git log origin/main` before adding a log entry. `data/**/*.jsonl` uses `merge=union`, so dedupe on id when loading.
 - **Commit identity:** the repo uses the GitHub no-reply email. Don't commit with a personal email.
 - **Permissions:** Elvebredd's robots.txt disallows `/api`. Its head value manager approved using the trade listings. Don't add new Elve `/api` collectors without asking. AMVGG and playadopt.me are fine.
+- **Wording:** write "amvgg" in lowercase in everything people read (site, README); the user prefers it. Code names and these notes can stay as they are.
 - **Site privacy:** the site shows aggregates and items only. No trader names or ids on the site (raw data in the repo is public, which the user accepted).
 - **Name matching:** always go through `scraper.item_key()` and `elve_canonical()`. Sites differ in case, accents, "The", and typos (`NAME_ALIASES`).
 - **Model universe:** only the 802 pets AMVGG also lists. Only 3 variants are predicted (default no potion, neon fly ride, mega fly ride), because Elve logs the other three unreliably.
