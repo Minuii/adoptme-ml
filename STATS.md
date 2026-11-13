@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 12:55 UTC by the scrape workflow._
+_Updated 2026-11-13 13:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 12:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 34,404 | 2026-11-13T12:45 |
-| elve | 3 | 6,973 | 2026-11-13T12:45 |
+| amvgg | 3 | 34,633 | 2026-11-13T13:00 |
+| elve | 3 | 7,029 | 2026-11-13T13:01 |
 
-## AMVGG completed trades: 7,451 total
+## AMVGG completed trades: 7,496 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,618 |
+| 2026-11-13 | 1,663 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 12:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:50 | **yTka2937_2akk**: Goose (R), Fly-A-Pet Potion | **jux_iess1**: Crocodile (FR), Elephant (R), Sheeeeep, Fly-A-Pet Potion |
-| 12:50 | **Mitskibidi_279**: Pain au Chat, Retired Egg ×8 | **sp4rklepinkcupcake**: Pupcake |
-| 12:50 | **xluvvmel**: Pig (NFR) | **re_eee0**: Ballet Swan (NFR) |
-| 12:50 | **ben_nontawat**: Frost Dragon (FR), Turtle (FR), Shark Puppy (NFR), 2022 Birthday Cake ×4 | **Iasttwords**: Neon Black Scooter |
-| 12:50 | **klaythomp08**: Arctic Reindeer (NFR), Candicorn (R), Siamese Cat (R) | **Lerixiss**: Parrot (FR) |
-| 12:50 | **ggggg113323**: African Wild Dog (FR) | **Myseriousrevolver**: Blazing Lion (FR) |
-| 12:50 | **Kainys_urlove**: Cattuccino ×6, Heart Bow | **Kitagava_Marin5**: Catte |
-| 12:50 | **Caua08_Games**: Siamese Cat (R), Kangaroo (FR) | **20me29**: Mini Pig (FR) |
-| 12:50 | **katyshka406**: Shark Puppy (R), Fly-A-Pet Potion, Tutu | **itsmyalt_heh**: Crocodile (FR) |
-| 12:50 | **beatsvic**: Cow (MFR) | **a1ienbobb**: Red Squirrel (MFR), Firefly (MFR), Diamond Ladybug (MFR), Karate Gorilla (MFR), Moose Calf (MFR), Burger Bear (MFR), Binturong (MFR), Leopard Shark (MFR), Fleur De Ice (MFR) |
-| 12:50 | **SirCartier410**: Hawk (MFR), Emu (MFR), Kirin (MFR), Lunar Ox (M), Blue Jay (MF) | **orchidbutterfliess**: Turtle (FR) |
-| 12:50 | **straaloogje**: Fly-A-Pet Potion, Gingerbread Hare | **girl_220220**: Ride-A-Pet Potion ×2 |
-| 12:50 | **henrissy0**: Stray Cat Dragon ×10 | **fahtvc_orna**: Ride-A-Pet Potion |
-| 12:50 | **henrissy0**: Stray Cat Dragon ×9 | **Elisav928**: Ride-A-Pet Potion |
-| 12:50 | **Ez50**: Dango Penguins (R), Dragonfruit Fox, Ram (NR), Christmas Pudding Pup (FR), Slime (NR) | **fayesweet13**: Turtle (FR) |
+| 13:00 | **lolghwy3**: Biodome Home | **so_funnylike**: Purrowl (M) |
+| 13:00 | **ilusixnary**: Fairy Bat Dragon (MFR), Cow (FR), Bush Elephant | **Cinzsins**: Chocolate Chip Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (FR) ×2, Fairy Bat Dragon (FR) |
+| 13:00 | **XxxAriana_Xxx4**: Munchkin Cat (R) | **Alllllkos**: Many Mackerel ×2, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 13:00 | **Disurvz**: Ride-A-Pet Potion ×4 | **pastyysp**: Golden Lettuce ×2 |
+| 13:00 | **Real_Dream90z**: Mushroom Friend (MFR) | **killerlaura2010**: Unicorn (MFR) |
+| 13:00 | **frogan55**: Candicorn (MFR), Elephant (FR), Crocodile (FR) | **6d7d6d66**: Giant Panda (FR) |
+| 13:00 | **AdrianRomeroS**: Frost Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Chihuahua (MFR) | **ComWhil**: Parrot (NFR) |
+| 13:00 | **Kir4kaaa**: Ride-A-Pet Potion | **AmmoPlay1**: Thunderfisher ×16 |
+| 13:00 | **yzbeek980**: Dango Penguins (FR), Gumball Caterpillar (N), Golden Unicorn, Fennec Fox (N), Pink Butterfly Wings, Pink Hightops, Gold Tiara, Bunny Ear Tiara | **SyndromGG**: Ride-A-Pet Potion ×3 |
+| 13:00 | **Aphmau_Cool09**: Peppermint Penguin | **YerlyDiSar45**: Unicorn Horn, Tiny Wings |
+| 13:00 | **odading12318**: Border Collie (R) | **rr11nSk**: Fly-A-Pet Potion ×7 |
+| 13:00 | **AcuteRasberry**: Admin Abuse Box ×3 | **Ksu0qww**: Purrowl |
+| 13:00 | **Great_Peachy**: Tiny Wings, Turtle (R), Ride-A-Pet Potion | **Ananananmeme**: Cow (FR) |
+| 13:00 | **catwsie**: Spring Bunny Hood, Banana Hat, Clover Cow (N), Dog (MFR), Bready Necklace, Zombie Wolf, Puddleducks Hood, Pink Cat Ear Headphones, Harp Seal | **4saulius66**: Tiny Wings |
+| 13:00 | **itsmyalt_heh**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **odading12318**: Munchkin Cat |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
