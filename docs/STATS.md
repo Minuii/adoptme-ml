@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 22:45 UTC by the scrape workflow._
+_Updated 2026-11-13 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 22:45 UTC by the scrape workflow._
 | amvgg | 3 | 44,367 | 2026-11-13T22:45 |
 | elve | 3 | 9,151 | 2026-11-13T22:45 |
 
-## AMVGG completed trades: 9,998 total
+## AMVGG completed trades: 10,033 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 4,165 |
+| 2026-11-13 | 4,200 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 22:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **toybeau772**: Zombie Buffalo | **Mwlexxs**: Pupcicle ×4 |
-| 22:45 | **shodidodi**: Ride-A-Pet Potion ×8, Golden Lettuce | **Tena_IsPeakfr**: Munchkin Cat |
-| 22:45 | **Marjorievirgo**: Snow Leopard (M) | **wickyley**: Mongoose (M) |
-| 22:45 | **luusky29glow**: Ice Wolf (FR) | **Cocoxmistyyt**: Pupcicle ×3 |
-| 22:45 | **minismudgepanda**: Snowball Pet (NFR) | **itssebplays**: Groundhog |
-| 22:45 | **monte_mt3OwO**: Sasquatch (NR) | **bonnitasarita**: Easter Bunny ×2, Kirin ×4, Tasmanian Tiger ×2, Sneak Weasel ×4, Cherub Chipmunk ×2, Rattlesnake ×2, Oakee (M), Eaten Donut |
-| 22:45 | **bonnitasarita**: Thunderfisher ×9, Ocelot ×4, Blue Butterfly | **Bado_oChild**: Ride-A-Pet Potion |
-| 22:45 | **Afkkziyad**: Shadow Dragon (FR), Peppermint Penguin (MFR), Amethyst Penguin (FR), Turtle (FR), Haetyphoon (FR), Pupcicle (R), Pupcicle ×3 | **Kiandra13kiandra**: Shadow Dragon (NFR) |
-| 22:45 | **xXcraziXx2**: Kangaroo (FR), S'mores Raccoon (R), Fallow Deer, Shadow Dragon Ducky | **KnifeonKeys**: Siamese Cat (FR) |
-| 22:45 | **pccpie**: Pet Handler Pro Certificate ×2 | **viixtrx**: Winter Fawn (MFR) |
-| 22:45 | **Lucyswxrldx**: Peppermint Penguin (MFR) | **AbsorbmyHatred_heh**: Hot Doggo (MFR) |
-| 22:45 | **BaileyXDL**: Glacier Moth (MFR), Water Rabbit (MR), Pain au Chat (N) ×4 | **AbsorbmyHatred_heh**: Cryptid (FR) |
-| 22:45 | **99P0LINKA99**: Moon Rabbit (MR), Jester Dragon (R) | **AbsorbmyHatred_heh**: Siamese Cat |
-| 22:45 | **ni1zuua**: 2022 Birthday Cake, Capybara (N) | **m4tt_skatez**: Spring Bunny Hood ×2, Black Springer Spaniel (M) |
-| 22:45 | **kittyyypawssz**: Liger (N), Mr. Whiskerpips (N) | **idk_oofy1377**: Pupcake, Harp Seal |
+| 22:55 | **Broncurrydurant1234**: Gecko (MR) | **xo1qn**: Chinese Lantern |
+| 22:55 | **OXxLunitaxX0**: Copycat, Tortoiseshell Guinea Pig | **kubetalyn**: Haetyphoon (R) |
+| 22:55 | **fr9aks**: Great Pyrenees (MFR) | **puppypaws_Arthur**: Snowball Pet (MFR) |
+| 22:55 | **d1orkira**: Crystal Egg ×4 | **Thesavage15679**: Golden Dragon |
+| 22:55 | **timefulsorrow**: Kappakid (M) | **antx_evp**: Pupcicle ×4 |
+| 22:55 | **ddolls1nss**: Cherry-On-Top | **kaibodydump**: Pupcicle (MFR) |
+| 22:55 | **0_1Kittens**: Amami Rabbit (MR) | **glorxiiea**: Blue Ringed Octopus (MR), Chihuahua (N) |
+| 22:55 | **kelixnz**: Choco Penguin | **diecoole10976**: Fairytale Egg ×18 |
+| 22:55 | **diecoole10976**: Black Springer Spaniel | **idk_oofy1377**: Lynx |
+| 22:55 | **4qvssz**: Matcha Cat (MFR) | **jumpnowsoren1**: Chef Gorilla (MFR), Fallow Deer (MFR), Angel Wings |
+| 22:55 | **4qvssz**: Hot Doggo (NFR) | **j2v73r**: Owlbear (NFR), Ballet Swan (NFR), Cow (FR), Cabbit, Glormy Hound (NR) |
+| 22:55 | **Noyniya**: Alpaca, Ice Cream Cone Hat, Ride-A-Pet Potion ×3, Thunderfisher | **ExpertChipmunkPro**: Strawberry Tortle |
+| 22:55 | **amvggbunni_won**: Aye Aye (N) | **0MGSARAY**: Aye Aye ×4 |
+| 22:55 | **TwistedK1tty**: Scarecrow Crow (NR) | **Yumi_Rose8**: Fly-A-Pet Potion |
+| 22:55 | **invalid1970**: Mule (NR) | **ani6835**: Shrew (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
