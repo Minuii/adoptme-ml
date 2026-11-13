@@ -31,6 +31,7 @@ Top level: the four programs the bot, the site build and Kaggle run by name (`sc
 | `build_site.py` | Builds `site/data.json`, `stats.json`, `ads.json`, `activity.json`, `forecast.json` and `journal.json` (Journal facts + news mentions) from `data/` and `results/`. |
 | `site/index.html` | The website (single page, d3). Run locally: `python -m http.server 8767 -d site`. |
 | `track_record.py` | Scores the saved daily 30-day forecasts once their 30 days are over (stdlib; used by `build_site.py`). Tests: `python tests/test_track_record.py`. |
+| `scripts/amvgg_archive.py` | amvgg pet values from before its change log (2026-06-02), from archived copies of its pages on web.archive.org → `data/amvgg_archive/`. Ran once (10 copies, Sep 2025 to May 2026); rerun only if archive.org gains older copies. Site charts only, not used by the model. |
 | `scripts/fetch_images.py` | Official item catalog from playadopt.me → `data/catalog.json` (rarity, origin event, images). |
 | `results/` | Model results (`*_model*.md` summaries, `*_folds.csv` per month, `forecast*.csv`). |
 | `docs/STATS.md` | Auto-written data summary (bot). |
@@ -44,7 +45,8 @@ Top level: the four programs the bot, the site build and Kaggle run by name (`sc
 
 - `values/<source>/*.json.gz`: full value lists (snapshot written only when the list changed; `checked.txt` = last check).
 - `elve_updates/`: Elvebredd's change log since 2023-09 (old → new value per variant). **This is the model's training data.**
-- `amvgg_updates/`: AMVGG's change log (only since 2026-06-02, fly ride only).
+- `amvgg_updates/`: AMVGG's change log (only since 2026-06-02, fly ride only; nothing older exists on amvgg: its feed, API search and pet pages all stop there).
+- `amvgg_archive/`: amvgg's pet list (normal / neon / mega fly ride) from 10 archived copies of its pages, Sep 2025 to May 2026. Only the copies' dates are known.
 - `trades/<day>.jsonl`: AMVGG completed trades (since 2026-11-11; only ~100 visible at a time, so polling must keep up).
 - `ads/<source>/...`: trade offers (bot files + `backfill/`). Elve back to 2025-02, AMVGG back to 2026-08-20.
 - `news.jsonl`: playadopt.me/news posts since 2020.

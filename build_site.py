@@ -101,6 +101,37 @@ for c in sorted(gg_upd, key=lambda c: c["updatedAt"]):
         if v and c.get(f"new{col}Value") is not None:
             add(k, "A", v, c["updatedAt"][:16], num(c.get(f"previous{col}Value")), num(c[f"new{col}Value"]))
 
+# AMVGG before its change log (2026-06-02): pet values from archived copies of its pages (scripts/amvgg_archive.py,
+# web.archive.org, Sep 2025 to May 2026). Only the copies' dates are known, so a change between two of them shows at the
+# later one. Added in front of the logged history; a pet with no logged change since then gets today's value at the log
+# start (its log is empty because nothing changed).
+GG_LOG_FROM = "2026-06-02T00:00"
+archive = []
+for f in sorted((DATA / "amvgg_archive").glob("*.json.gz")):
+    t = f"{f.name[:4]}-{f.name[4:6]}-{f.name[6:8]}T{f.name[8:10]}:{f.name[10:12]}"
+    archive.append((t, {key(p["name"]): p for p in json.loads(gzip.decompress(f.read_bytes()))}))
+n_arch = 0
+for k, it in items.items():
+    if it["cat"] != "pets":
+        continue
+    for col, v in (("regularValue", "r-fr"), ("neonValue", "n-fr"), ("megaValue", "m-fr")):
+        pts = []
+        for t, pets in archive:
+            x = num((pets.get(k) or {}).get(col))
+            if x and (not pts or pts[-1][1] != x):
+                pts.append([t, x])
+        if not pts:
+            continue
+        h = it["hist"]["A"].get(v) or ([[GG_LOG_FROM, it["A"][v]]] if it["A"].get(v) else [])
+        if h and pts[-1][1] == h[0][1]:
+            pts.pop()  # same value as where the log picks up: no step there
+        elif pts and h and h[0][0] > GG_LOG_FROM:
+            pts.append([GG_LOG_FROM, h[0][1]])  # the log's first "before" value already held when the log began
+        if pts and h:
+            it["hist"]["A"][v] = pts + h
+            n_arch += 1
+print(len(archive), "archived amvgg copies:", n_arch, "pet variants get history from before", GG_LOG_FROM[:10])
+
 
 
 # ---- Own observations: value history from this site's own snapshots of both lists (since 2026-11-11) ----
@@ -159,7 +190,7 @@ print(n_obs, "item variants charted from own snapshots (first", first_obs + ")")
 
 out = [it for it in items.values() if it["E"] or it["A"]]
 SITE.mkdir(exist_ok=True)
-(SITE / "data.json").write_text(json.dumps({"elve_at": elve_at, "amvgg_at": gg_at, "obs_from": first_obs, "items": out},
+(SITE / "data.json").write_text(json.dumps({"elve_at": elve_at, "amvgg_at": gg_at, "obs_from": first_obs, "gg_log_from": GG_LOG_FROM, "items": out},
                                            separators=(",", ":")), encoding="utf-8")
 print(len(out), "items,", sum(bool(i["A"]) for i in out), "on AMVGG,", sum(bool(i["E"]) for i in out), "on Elvebredd,",
       round((SITE / "data.json").stat().st_size / 1e6, 2), "MB")

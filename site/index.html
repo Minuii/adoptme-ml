@@ -766,7 +766,7 @@ function render(reset = true) {
 function openItem(it) { S.item = it.name; scrollTo(0, 0); render(); }
 function drawItem() {
   const it = BYNAME.get(S.item) || BYSLUG.get(slug(S.item));
-  if (it) S.item = it.name;  // a "#frost-dragon" link: from here on, the real name
+  if (it) { S.item = it.name; document.title = it.name + " · Adopt Me Values"; }  // a "#frost-dragon" link: from here on, the real name
   const box = $("#item");
   if (!it) { box.replaceChildren(h("button", { class: "back", onclick: closeItem }, "← Back"), h("p", { class: "empty" }, "Item not found.")); return; }
   const pet = it.cat === "pets";
@@ -982,11 +982,13 @@ function tipper(el) {
   };
 }
 // shared frame: y axis sized to its labels, light grid, bottom time axis
+// value axis labels: plain decimals (0.025, not "25m"), thousands as 1k
+const valFmt = v => v >= 1000 ? d3.format("~s")(v) : d3.format("~g")(+v.toPrecision(4));
 function frame(el, H, yDomain, xDomain, yFmt, xFmt, log = false) {
   el.replaceChildren();
   const W = el.clientWidth || 600, m = { t: 10, r: 12, b: 26, l: 10 };
   const y = (log ? d3.scaleLog() : d3.scaleLinear()).domain(yDomain).nice().range([H - m.b, m.t]);
-  if (log) yFmt = y.tickFormat(5, "~s");
+  if (log) { const keep = y.tickFormat(5); yFmt = v => keep(v) ? valFmt(v) : ""; }
   const svg = d3.select(el).append("svg").attr("width", W).attr("height", H);
   const ya = svg.append("g").call(d3.axisLeft(y).ticks(5).tickSize(0).tickFormat(yFmt));
   let lw = 0; ya.selectAll("text").each(function () { lw = Math.max(lw, this.getComputedTextLength()); });
@@ -1057,7 +1059,7 @@ function historyChart(el, it, s, sumEl) {
   let lo = d3.min(pts, p => p.v), hi = d3.max(pts, p => p.v);
   if (lo === hi) { lo *= .9; hi = hi * 1.1 || 1; }
   const span = pts.at(-1).t - pts[0].t;
-  const { svg, x, y, H, m, show } = frame(el, 240, [lo, hi], d3.extent(pts, p => p.t), d3.format("~s"),
+  const { svg, x, y, H, m, show } = frame(el, 240, [lo, hi], d3.extent(pts, p => p.t), valFmt,
     d3.utcFormat(span > 300 * DAY ? "%b %Y" : span > 2 * DAY ? "%-d %b" : "%H:%M"));
   // soft fill under the steps: line colour fading to transparent toward the bottom of the plot
   const gid = `fill-${s}`, grad = svg.append("defs").append("linearGradient").attr("id", gid).attr("x1", 0).attr("x2", 0).attr("y1", 0).attr("y2", 1);
@@ -1067,8 +1069,11 @@ function historyChart(el, it, s, sumEl) {
     .attr("d", d3.area().curve(d3.curveStepAfter).x(p => x(p.t)).y0(H - m.b).y1(p => y(p.v)));
   svg.append("path").datum(pts).attr("fill", "none").style("stroke", COL[s]).attr("stroke-width", 2)
     .attr("d", d3.line().curve(d3.curveStepAfter).x(p => x(p.t)).y(p => y(p.v)));
+  // amvgg before its change log: values on the dates archive.org saved its pages (hollow points; changes fall in between)
+  const ggFrom = s === "A" && DATA.gg_log_from ? ts(DATA.gg_log_from) : 0, arch = p => +p.t < ggFrom;
   svg.append("g").selectAll("circle").data(pts.filter(p => !p.now && !p.edge)).join("circle")
-    .attr("cx", p => x(p.t)).attr("cy", p => y(p.v)).attr("r", 2.5).style("fill", COL[s]);
+    .attr("cx", p => x(p.t)).attr("cy", p => y(p.v)).attr("r", p => arch(p) ? 3 : 2.5)
+    .style("fill", p => arch(p) ? "var(--panel)" : COL[s]).style("stroke", COL[s]).attr("stroke-width", 1.5);
   const guide = svg.append("line").attr("y1", m.t).attr("y2", H - m.b).style("stroke", "var(--axis)").attr("visibility", "hidden");
   // drag sideways to zoom into those dates; double-click to see the whole history again
   const sel = svg.append("rect").attr("class", "sel").attr("y", m.t).attr("height", H - m.t - m.b).attr("visibility", "hidden");
@@ -1096,9 +1101,12 @@ function historyChart(el, it, s, sumEl) {
       const i = Math.max(0, d3.bisector(p => p.t).right(pts, x.invert(px)) - 1), p = pts[i], prev = pts[i - 1];
       guide.attr("x1", px).attr("x2", px).attr("visibility", "visible");
       const pc = prev && !p.now && prev.v ? (p.v - prev.v) / prev.v * 100 : null;
-      show(px, py, [p.now ? "Now" : d3.utcFormat("%-d %b %Y, %H:%M UTC")(p.t), `Value: ${fmt(p.v)}${pc != null ? `  (${pctTxt(pc)})` : ""}`]);
+      show(px, py, [p.now ? "Now" : d3.utcFormat("%-d %b %Y, %H:%M UTC")(p.t), `Value: ${fmt(p.v)}${pc != null ? `  (${pctTxt(pc)})` : ""}`,
+        ...(arch(p) ? ["From an archived copy of amvgg (web.archive.org)"] : [])]);
     })
     .on("pointerleave", () => { guide.attr("visibility", "hidden"); show(); });
+  if (ggFrom && !own && +pts[0].t < ggFrom) el.append(h("p", { class: "note", style: "margin-top:6px" },
+    "Hollow points, before June 2026: amvgg's values on the days web.archive.org saved a copy of its pages (amvgg's own change log starts on 2 June 2026). A change between two hollow points happened some time in between."));
   if (own) el.append(h("p", { class: "note", style: "margin-top:6px" },
     `From this site's own checks of the ${SRC[s]} list since ${dateTxt(hst[0][0])}: ` +
     (s === "E" ? (logged?.length ? "Elvebredd's change log stopped matching this variant's value." : "Elvebredd's change log doesn't record this variant.")
@@ -1295,7 +1303,7 @@ function cmpChart(el, all, s) {
   let lo = d3.min(vs), hi = d3.max(vs);
   if (lo === hi) { lo *= .9; hi *= 1.1; }
   const log = hi / lo > 20, xs = series.flatMap(x => x.pts.map(p => p.t)), span = d3.max(xs) - d3.min(xs);
-  const { svg, x, y, H, m, show } = frame(el, 260, [lo, hi], d3.extent(xs), d3.format("~s"),
+  const { svg, x, y, H, m, show } = frame(el, 260, [lo, hi], d3.extent(xs), valFmt,
     d3.utcFormat(span > 300 * DAY ? "%b %Y" : span > 2 * DAY ? "%-d %b" : "%H:%M"), log);
   for (const sr of series)
     svg.append("path").datum(sr.pts.filter(p => p.v > 0)).attr("fill", "none").style("stroke", sr.col).attr("stroke-width", 2)
