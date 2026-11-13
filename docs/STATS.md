@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 22:25 UTC by the scrape workflow._
+_Updated 2026-11-13 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 43,889 | 2026-11-13T22:15 |
-| elve | 3 | 9,092 | 2026-11-13T22:16 |
+| amvgg | 3 | 44,122 | 2026-11-13T22:30 |
+| elve | 3 | 9,133 | 2026-11-13T22:31 |
 
-## AMVGG completed trades: 9,933 total
+## AMVGG completed trades: 9,949 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 4,100 |
+| 2026-11-13 | 4,116 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:25 | **miartws**: Goose (FR) ×2, Albino Monkey (FR), Lamb (NFR), Moose Calf, Owlbear, Ride-A-Pet Potion, Kitty Biscuit, Choco Penguin (M) | **princess_pizzanice**: Evil Unicorn (FR) |
-| 22:25 | **100PercentWinRateHax**: Evil Chick (M), Ghost Chick (M), Kage Crow (M) | **lyydhjd**: Haetyphoon |
-| 22:25 | **sofialan152**: Arctic Fox (NR) | **ddff_j**: Toaster Hat, Wolf (MFR), Ring-Tailed Lemur (R) |
-| 22:25 | **purrpawz666**: Copycat ×2, Flaming Fox (N) | **Kiandra13kiandra**: Turtle (FR) |
-| 22:25 | **Hirobloxtt0**: Retired Egg ×6 | **AdorxJuliiq**: Shetland Pony White |
-| 22:25 | **Caua08_Games**: Ride-A-Pet Potion ×16 | **LalayS2z**: Kangaroo (FR) |
-| 22:25 | **rainthatxx**: Monkey King (FR) | **KazzuhaaAzz**: Pupcicle ×4, Pupcicle (MFR) |
-| 22:25 | **trvstlusts**: Balloon Unicorn (FR) | **Eldiablodelalluvia_1**: Lion Cub (MFR), Mermicorn (FR), Unicorn (M) |
-| 22:25 | **chocolatechips1974**: Bunny Swirl (M), Bush Elephant (R), Midnight Dragon, Unicorn | **3mis_alttt**: Copycat (N) |
-| 22:25 | **Jvhihid55**: Great Pyrenees (MR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **Panconkeso7004**: Albino Monkey (FR) |
-| 22:25 | **GorgosaSaurus**: Strawberry Shortcake Bat Dragon (R), Jester Dragon (NR), Cow (FR) ×2, Lion (FR) | **mayangel_67**: Parrot (FR) |
-| 22:20 | **Gem2755**: Pupcicle | **Pasq_nl**: Ride-A-Pet Potion |
-| 22:20 | **goodvibez_forlife**: Candy Hare (NFR), Bunny Swirl (MR), Capybara (N), St Bernard (MFR) | **ni1zuua**: Toy Monkey (MFR), Spring Bunny Feet |
-| 22:20 | **svrodrii2**: Siamese Cat (R) | **eaglekakoo**: Pupcicle ×18 |
-| 22:20 | **100PercentWinRateHax**: Pupcicle ×6 | **DarkGriffin9635**: Copycat |
+| 22:30 | **0artOlover**: Cryptid (FR), Candicorn | **ii_ant4x20c**: Undead Jousting Horse (NFR), Ride-A-Pet Potion, Pet Handler Pro Certificate |
+| 22:30 | **Nastya356536**: Unicorn, Thunderfisher ×2 | **Spongebobgivingbirth**: Pupcicle |
+| 22:30 | **oliverelease**: Golden Chow-Chow | **DijaBint2**: Ride-A-Pet Potion |
+| 22:30 | **azeerchi**: Unicorn (MFR), Candy Hare (NR), Water Moon Bear (NR), Yeti | **ouDesertNeglect**: Turtle (FR) |
+| 22:30 | **raindrops3656**: Husky ×2 | **Mariavxbess**: Groundhog |
+| 22:30 | **lovingly_stars**: Strawberry Shortcake Bat Dragon (NFR) | **XxllT3ll3zLx**: Haetae (FR) |
+| 22:30 | **fwaiza**: Ride-A-Pet Potion ×11 | **XLIVER_P00L**: Copycat, Christmas Pudding Pup |
+| 22:30 | **Maryha0243**: Unicorn | **bakedkole**: Ride-A-Pet Potion |
+| 22:30 | **kaxuu_u**: Thunderfisher (N), Thunderfisher ×2, Purrowl ×2, Paint Sealer ×2 | **xXAshleys_HereXx**: Pupcicle |
+| 22:30 | **Mahdirn9**: Latte Kitsune (NR) | **Your_girly23**: Polar Bear (NFR) |
+| 22:30 | **AndresPatato**: Swordfish (M), Muskrat (M) | **lera5132**: Ride-A-Pet Potion |
+| 22:30 | **Katilka565**: Husky | **lera5132**: Ride-A-Pet Potion |
+| 22:30 | **Alana2K201**: Pupcicle (MFR), Lava Dragon (FR), Ride-A-Pet Potion, S'mores Raccoon | **InfinityLuckx**: Hot Doggo |
+| 22:30 | **Ruperto_1297**: Fly-A-Pet Potion ×3 | **popadastr000**: Pupcicle (N) |
+| 22:30 | **foundinhissoul7**: Princess Capuchin Monkey | **2nvkl**: Cherry Blossom Flower Sticker ×9, Cherry Blossom Tree Sticker ×9 |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
