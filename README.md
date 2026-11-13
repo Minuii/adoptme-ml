@@ -90,7 +90,6 @@ python test_scraper.py && python test_track_record.py
 
 ## Data and permissions
 
-All data is in `data/` and public. Elvebredd's value change pages and amvgg's pages are public; Elvebredd's trade
-listings are used with the permission of its head value manager, and amvgg's owner approved collecting from amvgg.
+All data is in `data/` and public. Elvebredd's value change pages and amvgg's pages are public.
 The site shows items and aggregates only: no trader names or ids. Pictures and item facts come from playadopt.me
 (houses from amvgg).
