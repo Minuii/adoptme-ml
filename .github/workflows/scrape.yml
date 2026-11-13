@@ -31,13 +31,14 @@ jobs:
       - name: Commit data
         run: bash .github/commit_data.sh "$JOB"
       # The live site (pages.yml) rebuilds from the committed data. Pushes made with the workflow token don't start
-      # other workflows, but a dispatch does. Hourly, on the :00 run, right after the hourly values check.
-      - name: Rebuild the live site every hour
+      # other workflows, but a dispatch does. Every run (every 15 minutes), so offers and trades on the site are at most
+      # ~20 minutes old; the values themselves are only checked hourly, on the :00 run.
+      - name: Rebuild the live site
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
           if [ $(( 10#$(date -u +%M) )) -lt 15 ]; then
-            gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
             # once a day, after Elvebredd's evening updates: refresh the 30-day forecast (forecast.yml rebuilds the site after)
             if [ "$(date -u +%H)" = "01" ]; then
               gh workflow run forecast.yml --ref main --repo "$GITHUB_REPOSITORY"

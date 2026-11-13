@@ -36,7 +36,7 @@ Top level: the four programs the bot, the site build and Kaggle run by name (`sc
 | `scripts/fetch_images.py` | Official item catalog from playadopt.me → `data/catalog.json` (rarity, origin event, images). |
 | `results/` | Model results (`*_model*.md` summaries, `*_folds.csv` per month, `forecast*.csv`). |
 | `docs/STATS.md` | Auto-written data summary (bot). |
-| `.github/workflows/scrape.yml` | Bot. Triggered by workflow_dispatch from an external cron (GitHub's own cron barely fires). Its :00 run also checks values hourly, collects news, and dispatches `pages.yml`. Each run then polls trades twice more, 5 minutes apart, and ends with `scraper.py health`. Commits go through `.github/commit_data.sh`. |
+| `.github/workflows/scrape.yml` | Bot. Triggered by workflow_dispatch from an external cron (GitHub's own cron barely fires). Every run dispatches `pages.yml` (site rebuilt every 15 minutes); its :00 run also checks values hourly and collects news. Each run then polls trades twice more, 5 minutes apart, and ends with `scraper.py health`. Commits go through `.github/commit_data.sh`. |
 | `.github/workflows/forecast.yml` | Daily (dispatched by the scrape workflow's 01:00 UTC run): `H=30 python elve_model.py forecast` → commits `results/direction_30d.csv`, then rebuilds the site. ~10 min on GitHub. |
 | `.github/workflows/pages.yml` | Builds and deploys the site. |
 | `docs/AMVerse-API/` | A Postman collection for amvgg's API, unrelated to the pipeline. |

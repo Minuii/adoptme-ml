@@ -28,7 +28,7 @@ Not affiliated with Adopt Me, Uplift Games, Elvebredd or amvgg.
 ```
 scraper.py (every 15 min, GitHub Actions)  ->  data/          value lists, change logs, completed trades, offers, news
 elve_model.py forecast (daily)             ->  results/       30 / 7 / 90-day calls, plus a saved copy of each day's calls
-build_site.py (hourly)                     ->  site/*.json    -> GitHub Pages
+build_site.py (every 15 min)              ->  site/*.json    -> GitHub Pages
 track_record.py                            ->  scores each saved day's calls once its 7 / 30 / 90 days are over
 ```
 

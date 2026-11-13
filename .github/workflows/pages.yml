@@ -1,7 +1,7 @@
 name: pages
 
 on:
-  # Rebuilt every hour by the scrape workflow's :00 run (GitHub's own `schedule:` never fires for this repo), on site edits, or by hand.
+  # Rebuilt after every scrape run (every 15 minutes; GitHub's own `schedule:` never fires for this repo), on site edits, or by hand.
   push:
     branches: [main]
     paths: [site/**, build_site.py, track_record.py]  # forecast.yml dispatches a rebuild after each daily forecast
