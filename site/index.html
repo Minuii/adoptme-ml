@@ -152,6 +152,7 @@ tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 .rise .bar { height: 3px; border-radius: 2px; background: var(--grid); grid-column: 3 / 5; margin-top: -2px; }
 .rise .bar i { display: block; height: 100%; border-radius: 2px; background: var(--up); }
 .rise .more { align-self: stretch; }
+.rise .seg { align-self: flex-start; }
 @media (max-width: 900px) {
   .browse-grid { grid-template-columns: minmax(0, 1fr); }
   .rise { position: static; order: -1; }
@@ -546,35 +547,39 @@ function drawItem() {
   if (outlook) drawForecast(outlook, it);
 }
 
-// ---- Values tab: the 20 pets most likely to rise over 30 days (one row per pet: its likeliest variant) ----
+// ---- Values tab: the 20 pets most likely to rise, or to drop, over 30 days (one row per pet: its likeliest variant) ----
 const RISE_N = 20, RISE_SHORT = 5;
-let riseOpen = false;
+let riseOpen = false, riseMode = "up";
 async function drawRise() {
   const box = $("#rise");
   await loadFC();
+  const up = riseMode === "up", slot = up ? 0 : 1;  // forecast.json: [P(up), P(down), call]
   const rows = Object.entries(FC.items || {}).map(([name, f]) => {
-    const [k, v] = Object.entries(f).sort((a, b) => b[1][0] - a[1][0])[0];
-    return { it: BYNAME.get(name), k, up: v[0] };
-  }).filter(r => r.it).sort((a, b) => b.up - a.up).slice(0, RISE_N);
+    const [k, v] = Object.entries(f).sort((a, b) => b[1][slot] - a[1][slot])[0];
+    return { it: BYNAME.get(name), k, p: v[slot] };
+  }).filter(r => r.it).sort((a, b) => b.p - a.p).slice(0, RISE_N);
   box.hidden = S.tab !== "list" || !rows.length;
   if (box.hidden) return;
   const narrow = matchMedia("(max-width: 900px)").matches, show = narrow && !riseOpen ? rows.slice(0, RISE_SHORT) : rows;
-  const bt = FC.backtest || {}, days = FC.days || 30;
+  const bt = FC.backtest || {}, days = FC.days || 30, word = up ? "rise" : "drop", col = up ? "var(--up)" : "var(--down)";
   const go = r => { [S.var, S.pot] = r.k.split("-"); openItem(r.it); };
+  const mode = (m, label) => h("button", { "aria-pressed": String(riseMode === m), onclick: () => { riseMode = m; drawRise(); } }, label);
   box.replaceChildren(
-    h("h2", {}, "Most likely to rise"),
-    h("span", { class: "sub" }, `Chance of a 5%+ rise on Elvebredd in the next ${days} days · as of ${FC.asof}`),
-    h("ol", {}, show.map((r, i) => h("li", { tabindex: 0, role: "link", title: `${r.it.name} · ${keyTxt(r.it, r.k)}: ${pc(r.up)} chance of rising 5%+`,
+    h("h2", {}, up ? "Most likely to rise" : "Most likely to drop"),
+    h("div", { class: "seg", role: "group", "aria-label": "Rise or drop" }, mode("up", "Rise"), mode("down", "Drop")),
+    h("span", { class: "sub" }, `Chance of a 5%+ ${word} on Elvebredd in the next ${days} days · as of ${FC.asof}`),
+    h("ol", {}, show.map((r, i) => h("li", { tabindex: 0, role: "link", title: `${r.it.name} · ${keyTxt(r.it, r.k)}: ${pc(r.p)} chance of a 5%+ ${word}`,
         onclick: () => go(r), onkeydown: e => { if (e.key === "Enter") go(r); } },
       h("span", { class: "rk" }, i + 1), icon(r.it) || h("span"),
       h("span", { class: "nm" }, h("b", {}, r.it.name), h("span", { class: "sub" }, r.k === "r-np" ? "No potion" : bdgs(badgeTags(r.k)),
         r.it.E[r.k] != null ? ` · value ${fmt(r.it.E[r.k])}` : "")),
-      h("span", { class: "pct" }, pc(r.up)),
-      h("span", { class: "bar" }, h("i", { style: `width:${100 * r.up}%` }))))),
+      h("span", { class: "pct", style: `color:${col}` }, pc(r.p)),
+      h("span", { class: "bar" }, h("i", { style: `width:${100 * r.p}%;background:${col}` }))))),
     narrow && rows.length > RISE_SHORT ? h("button", { class: "more", onclick: () => { riseOpen = !riseOpen; drawRise(); } },
       riseOpen ? "Show fewer" : `Show all ${rows.length}`) : null,
     h("p", { class: "note" }, `One row per pet, its likeliest variant. ` +
-      (bt.months ? `In tests, "likely up" calls rose 5%+ ${pc(bt.up_precision)} of the time, and the top 20 gained ${pctTxt(100 * bt.top20)} a month on average (all pets ${pctTxt(100 * bt.all_pets)}). ` : "") +
+      (bt.months ? (up ? `In tests, "likely up" calls rose 5%+ ${pc(bt.up_precision)} of the time, and the top 20 gained ${pctTxt(100 * bt.top20)} a month on average (all pets ${pctTxt(100 * bt.all_pets)}). `
+        : `In tests, "likely down" calls dropped 5%+ ${pc(bt.down_precision)} of the time; most values don't move in a month. `) : "") +
       "A model's guess, not a promise."));
 }
 
@@ -966,12 +971,12 @@ async function drawAds(reset = true) {
 
 // ---- controls ----
 function sync() {
-  document.querySelectorAll(".seg").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(S[g.dataset.key] === b.dataset.v))));
+  document.querySelectorAll(".seg[data-key]").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(S[g.dataset.key] === b.dataset.v))));
   $("#frnmSlot").replaceChildren(frnm());
   $("#q").value = S.q; $("#cat").value = S.cat; $("#dem").value = S.dem; $("#sort").value = S.sort; $("#rar").value = S.rar;
   $("#aq").value = S.aq; $("#av").value = S.av; $("#ap").value = S.ap; $("#asort").value = S.asort;
 }
-document.querySelectorAll(".seg").forEach(g => g.addEventListener("click", e => {
+document.querySelectorAll(".seg[data-key]").forEach(g => g.addEventListener("click", e => {
   const b = e.target.closest("button"); if (!b) return; S[g.dataset.key] = b.dataset.v; rankCache = {}; sync(); render();
 }));
 document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => { S.tab = b.dataset.tab; S.item = ""; render(); }));
