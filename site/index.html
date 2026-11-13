@@ -378,8 +378,9 @@ const PAGE = 100, DAY = 864e5;
 const $ = s => document.querySelector(s);
 
 // state <-> URL hash, so a view can be shared. Only what differs from the defaults goes in it, tab first:
-// "#wanted&wq=shadow", "#item=Frost+Dragon&var=n", or nothing at all on the default Values view.
-// Old links ("#tab=wanted&src=both&...") still open the same view.
+// "#wanted&wq=shadow", "#frost-dragon&var=n" (an item page, by its name), or nothing at all on the default Values view.
+// Old links ("#tab=wanted&src=both&...", "#item=Frost+Dragon") still open the same view.
+const slug = n => n.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const DEF = { tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "", item: "",
   ca: "", cb: "", ag: "", ak: "", as: "both", av: "", ap: "", al: "A", adeal: "", amin: "", asort: "new",
   wq: "", ws: "both", wc: "pets", wv: "", wp: "", wsort: "want" };
@@ -389,18 +390,19 @@ function load() {
   Object.assign(S, DEF);
   for (const [k, v] of new URLSearchParams(location.hash.slice(1))) {
     if (!v && TABS.includes(k)) S.tab = k;  // "#wanted"
+    else if (!v && !(k in DEF)) S.item = k;  // "#frost-dragon": drawItem finds the item by its slug
     else if (k in DEF) S[k] = v;
   }
 }
 load();
 // the keys each view uses (other tabs' filters stay in memory, just not in the link)
-const VIEW_KEYS = { item: ["item", "var", "pot", "src"], list: ["q", "src", "var", "pot", "cat", "rar", "dem", "sort"],
+const VIEW_KEYS = { item: ["var", "pot", "src"], list: ["q", "src", "var", "pot", "cat", "rar", "dem", "sort"],
   updates: ["q", "src", "var", "pot", "cat", "rar", "dem"], compare: ["ca", "cb"], stats: [],
   ads: ["ag", "ak", "as", "av", "ap", "al", "adeal", "amin", "asort"], wanted: ["wq", "ws", "wc", "wv", "wp", "wsort"] };
 function save() {
   const keys = VIEW_KEYS[S.item ? "item" : S.tab] || [];
   const rest = new URLSearchParams(keys.filter(k => S[k] !== DEF[k]).map(k => [k, S[k]])).toString();
-  const hash = [!S.item && S.tab !== "list" ? S.tab : "", rest].filter(Boolean).join("&");
+  const hash = [S.item ? slug(S.item) : S.tab !== "list" ? S.tab : "", rest].filter(Boolean).join("&");
   if (hash !== location.hash.slice(1)) history.replaceState(null, "", hash ? "#" + hash : location.pathname + location.search);
 }
 
@@ -420,7 +422,7 @@ const pctCls = p => p == null || Math.abs(p) < .05 ? "flat" : p > 0 ? "up" : "do
 const ts = t => Date.parse(t + "Z");
 const dateTxt = t => new Date(typeof t === "number" ? t : ts(t)).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
 
-let DATA, NOW, START = {}, BYNAME = new Map(), BYLOWER = new Map();
+let DATA, NOW, START = {}, BYNAME = new Map(), BYLOWER = new Map(), BYSLUG = new Map();
 const vkey = it => it.cat === "pets" ? `${S.var}-${S.pot}` : "v";
 const value = (it, s, k = vkey(it)) => it[s][k] ?? null;
 // a variant's change log can stop (Elve stopped logging some variants in 2023): only trust it if it ends at today's value
@@ -591,7 +593,8 @@ function render(reset = true) {
 // ---- item page: picture, current values, both value histories ----
 function openItem(it) { S.item = it.name; scrollTo(0, 0); render(); }
 function drawItem() {
-  const it = BYNAME.get(S.item);
+  const it = BYNAME.get(S.item) || BYSLUG.get(slug(S.item));
+  if (it) S.item = it.name;  // a "#frost-dragon" link: from here on, the real name
   const box = $("#item");
   if (!it) { box.replaceChildren(h("button", { class: "back", onclick: closeItem }, "← Back"), h("p", { class: "empty" }, "Item not found.")); return; }
   const pet = it.cat === "pets";
@@ -1260,6 +1263,7 @@ fetch("data.json").then(r => r.json()).then(d => {
   for (const s of ["A", "E"]) START[s] = Math.min(...d.items.flatMap(i => Object.values(i.hist[s]).map(h => ts(h[0][0]))));
   BYNAME = new Map(d.items.map(i => [i.name, i]));
   BYLOWER = new Map(d.items.map(i => [i.name.toLowerCase(), i]));
+  BYSLUG = new Map(d.items.map(i => [slug(i.name), i]));
   $("#names").replaceChildren(...[...BYNAME.keys()].sort().map(n => h("option", { value: n })));
   const cats = [...new Set(d.items.map(i => i.cat))].sort((a, b) => (a !== "pets") - (b !== "pets") || a.localeCompare(b));
   for (const id of ["#cat", "#wc"]) $(id).append(h("option", { value: "all" }, "All categories"), ...cats.map(c => h("option", { value: c }, c[0].toUpperCase() + c.slice(1))));
