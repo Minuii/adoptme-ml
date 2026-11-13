@@ -18,7 +18,7 @@ GG_SNAP = {"r-fr": "regularValue", "n-fr": "neonValue", "m-fr": "megaValue",
            "r-r": "rValue", "r-f": "fValue", "n-r": "nrValue", "n-f": "nfValue", "m-r": "mrValue", "m-f": "mfValue"}
 ELVE_LABEL = {"default": "r", "neon": "n", "mega": "m", "no potion": "np", "fly ride": "fr"}
 GG_KIND = {"petwear": "pet wear"}  # AMVGG /values/<kind> -> Elvebredd's category names ("houses" stays: its own category)
-CAT_FIX = {"mahi spinning rod": "toys"}  # Elvebredd files it under "other"
+CAT_FIX = {"mahi spinning rod": "food"}  # Elvebredd files it under "other"; the user wants it with food
 
 
 def num(v):

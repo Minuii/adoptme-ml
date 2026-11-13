@@ -269,3 +269,4 @@ The old Google Sheet (`amvgg_trades_completed`, ~20k trades, May 20 to June 9, 2
   - **Categories:** potions are Food now (Elvebredd filed them under "other"), AMVGG's houses are their own "Houses" category (they were "other"), and "Mahi Spinning Rod" is a toy. This applies site-wide (Values category filter and Journal). The Journal's last tile is Houses. Houses had no pictures: they now use amvgg's own (`amvgg.com/items/<name>.webp`, apostrophes dropped); all 45 such links load, including 8 other items that had none.
   - **Wording:** "amvgg" in lowercase everywhere on the site (user preference); the footer credits playadopt.me instead of "the official Adopt Me wiki".
   - Checked at 1366 px and phone width, no console errors.
+- **Mahi Spinning Rod** moved from Toys to Food (user request; `CAT_FIX` in `build_site.py`).
