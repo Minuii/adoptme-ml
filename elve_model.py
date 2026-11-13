@@ -15,7 +15,8 @@ using only Elvebredd's own change log (no AMVGG, no trades yet).
                                     # tested walk-forward -> results/size_model.md, plus results/forecast.csv for today
     python elve_model.py forecast   # no test: train the offers + news classifier on every row with a known outcome and call
                                     # the newest day up / flat / down -> results/direction_<H>d.csv (the site shows it;
-                                    # the weekly forecast workflow runs H=30). ~10 min, ~5 GB RAM.
+                                    # the daily forecast workflow runs H=30), and keeps a copy in results/forecast_log/<H>d/<day>.csv.gz
+                                    # for the live track record (track_record.py). ~10 min, ~5 GB RAM.
 
 Only pets that AMVGG also lists (802) are modelled. AMVGG's value moves are tested in `amvgg` mode only (short history);
 trades are not features yet.
@@ -490,6 +491,12 @@ def forecast_main(df, feats, V):
         fh.write(f"# as of {newest.date()} (end of day UTC), {H} days ahead, trained on {data.day.min().date()} to "
                  f"{data.day.max().date()}, {len(data):,} rows, {type(_classifier()).__name__}\n")
         fc.to_csv(fh, index=False, lineterminator="\n")
+    # keep every day's calls, so they can be scored once their outcome is known (track_record.py, the site's Stats tab)
+    log_dir = OUT / "forecast_log" / f"{H}d"
+    log_dir.mkdir(parents=True, exist_ok=True)
+    fc[["name", "label", "value", "p_down", "p_flat", "p_up", "call"]].to_csv(
+        log_dir / f"{newest.date()}.csv.gz", index=False, lineterminator="
+", compression={"method": "gzip", "mtime": 0})
     print(f"{path}: {len(fc)} pet variants as of {newest.date()}; calls:", fc.call.value_counts().to_dict())
 
 

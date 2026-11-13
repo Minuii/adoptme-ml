@@ -274,6 +274,7 @@ footer a { color: var(--muted); }
   </section>
 
   <section class="page" id="stats" hidden>
+    <section class="section" id="record"></section>
     <div class="kpis" id="kpis"></div>
     <section class="section">
       <h2>Value changes per month</h2>
@@ -617,7 +618,8 @@ async function drawForecast(box, it) {
         `and its "likely down" calls dropped 5%+ ${pc(bt.down_precision)} of the time; most values don't move in a month. ` +
         `Its 20 strongest up calls each month gained ${pctTxt(100 * bt.top20)} on average, against ${pctTxt(100 * bt.all_pets)} for all pets` +
         (bt.months_beating != null ? `, and did better in ${Math.round(bt.months_beating * bt.months)} of ${bt.months} months. ` : ". ") : "") +
-      "Not a promise: values are set by people and can jump on news."));
+      "Not a promise: values are set by people and can jump on news. ",
+      h("a", { href: "#", onclick: e => { e.preventDefault(); S.item = ""; S.tab = "stats"; scrollTo(0, 0); render(); } }, "See the live track record.")));
 }
 function closeItem() { S.item = ""; render(); }
 
@@ -757,6 +759,7 @@ async function drawStats() {
   ].map(([l, v, s]) => h("div", { class: "card" }, h("span", { class: "label" }, l), h("span", { class: "big" }, n(v)), h("span", { class: "sub" }, s || " "))));
   monthlyChart($("#monthly"));
   hourlyChart($("#hourly"));
+  drawRecord();
   const bars = (rows, cols, heads, barCol) => {
     const max = d3.max(rows, r => r[barCol]) || 1;
     return [h("thead", {}, h("tr", {}, heads.map((t, i) => h("th", { class: i ? "num" : "" }, t)))),
@@ -766,6 +769,41 @@ async function drawStats() {
   };
   $("#busy").replaceChildren(...bars(STATS.busy_90d.map(([nm, e, a]) => [nm, e, a, e + a]), [0, 1, 2, 3], ["Item", "Elvebredd", "AMVGG", "Total"], 3));
   $("#traded").replaceChildren(...bars(STATS.traded_7d, [0, 1], ["Item", "Trades"], 1));
+}
+// ---- Stats tab: live track record of the daily 30-day forecast (forecast.json "record", track_record.py) ----
+async function drawRecord() {
+  const box = $("#record");
+  await loadFC();
+  const R = FC.record, bt = FC.backtest || {};
+  if (!R || !R.days_logged) { box.replaceChildren(); return; }
+  const d = s => s ? dateTxt(s + "T00:00") : "—";
+  const vs = (live, test) => test == null ? "" : `test: ${typeof test === "number" && Math.abs(test) < 1.5 ? pc(test) : test}`;
+  const card = (label, big, sub, cls = "") => h("div", { class: "card" }, h("span", { class: "label" }, label),
+    h("span", { class: "big " + cls }, big), h("span", { class: "sub" }, sub || " "));
+  const head = [h("h2", {}, "Forecast track record (live)"),
+    h("p", { class: "note" }, `Every day the model calls each pet's Elvebredd value for the next ${R.horizon} days. Each day's calls are saved, and ` +
+      `${R.horizon} days later they are checked against Elvebredd's actual value. These are real calls made before the outcome, ` +
+      `unlike the test figures, which come from replaying the past.`)];
+  if (!R.days_scored) {
+    box.replaceChildren(...head, h("div", { class: "acts" },
+      card("Daily forecasts saved", R.days_logged.toLocaleString(), `since ${d(R.first)}`),
+      card("First results", d(R.next_result), `when the first forecast's ${R.horizon} days are over`),
+      card("To beat (from tests)", `${pc(bt.up_precision)} · ${pc(bt.down_precision)}`, `"likely up" calls that rose 5%+ · "likely down" calls that dropped 5%+`)));
+    return;
+  }
+  const pct = x => x == null ? "–" : pctTxt(100 * x);
+  box.replaceChildren(...head, h("div", { class: "acts" },
+      card(`"Likely up" calls that rose 5%+`, pc(R.up_rate), `${R.up_hits.toLocaleString()} of ${R.up_calls.toLocaleString()} · ${vs(R.up_rate, bt.up_precision)}`, "up"),
+      card(`"Likely down" calls that dropped 5%+`, pc(R.down_rate), `${R.down_hits.toLocaleString()} of ${R.down_calls.toLocaleString()} · ${vs(R.down_rate, bt.down_precision)}`, "down"),
+      card(`Top 20 picks, ${R.horizon}-day change`, pct(R.top20), `all pets ${pct(R.all)} · test: ${pct(bt.top20)}`),
+      card("Days checked", R.days_scored.toLocaleString(), `${R.days_waiting} still running · next ${d(R.next_result)}`)),
+    h("div", { class: "tablewrap" }, h("table", {},
+      h("thead", {}, h("tr", {}, ["Forecast of", "Checked", "Up calls right", "Down calls right", "Top 20 change", "All pets"].map((t, i) => h("th", { class: i > 1 ? "num" : "" }, t)))),
+      h("tbody", {}, R.days.slice().reverse().map(x => h("tr", {}, h("td", {}, d(x.asof)), h("td", {}, d(x.scored_on)),
+        h("td", { class: "num" }, x.up_calls ? `${x.up_hits} / ${x.up_calls}` : "–"), h("td", { class: "num" }, x.down_calls ? `${x.down_hits} / ${x.down_calls}` : "–"),
+        h("td", { class: "num" }, pct(x.top20)), h("td", { class: "num" }, pct(x.all))))))),
+    h("p", { class: "note" }, `Daily forecasts overlap (each covers ${R.horizon} days), so neighbouring days share most of their outcome; ` +
+      "judge the record over months, not days. Values come from this site's own checks of Elvebredd's list."));
 }
 function monthlyChart(el) {
   const parse = d3.utcParse("%Y-%m"), M = STATS.monthly;

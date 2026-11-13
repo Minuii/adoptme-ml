@@ -28,6 +28,7 @@ Adopt Me (Roblox) pet-value tracking and prediction.
 | `requirements.txt` | What the model needs (the collectors and the site use the standard library only). |
 | `build_site.py` | Builds `site/data.json`, `site/stats.json`, `site/ads.json` from `data/`. |
 | `site/index.html` | The website (single page, d3). Run locally: `python -m http.server 8767 -d site`. |
+| `track_record.py` | Scores the saved daily 30-day forecasts once their 30 days are over (stdlib; used by `build_site.py`). Tests: `python test_track_record.py`. |
 | `fetch_images.py` | Official wiki catalog → `data/catalog.json` (rarity, origin event, images). |
 | `results/` | Model results (`*_model*.md` summaries, `*_folds.csv` per month, `forecast*.csv`). |
 | `STATS.md` | Auto-written data summary (bot). |
@@ -94,7 +95,7 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 ## Next steps
 
 1. **14 Nov:** check that the first automatic `forecast.yml` run (dispatched by the 01:00 UTC scrape run) succeeded and the site's "as of" date moved.
-2. **Live accuracy record for the 30-day forecast.** `results/direction_30d.csv` is overwritten daily (git history keeps the old ones). Score each day's calls 30 days later against Elvebredd's values and show the running hit rate on the site, next to the backtest. This is the real test of whether the model works; it first has results ~13 Dec.
+2. **Live track record: built (2026-11-13), first results 13 Dec.** `forecast.yml` saves each day's calls to `results/forecast_log/30d/<day>.csv.gz` (~33 KB a day); `track_record.py` scores a day once its 30 days are over, from the site's own Elvebredd snapshots, with the backtest's definitions; the Stats tab shows it ("Forecast track record (live)"). Check on 13 Dec that the first day scores, then judge it over months against the test (44% up / 53% down / top 20 +14%).
 3. **20 Nov:** the scheduled local task `adoptme-check-7day-top20` fills `checks/top20_rise_7d_2026-11-12.xlsx` and logs the result (one week, 20 pets: a small sample).
 4. **A README** for the public repo (what it is, the live site, how the model is tested, the honest results incl. what failed: AMVGG-first rule, size model, 90 days). The original plan's Phase 5.
 5. **~20 Nov:** check the trades for full-page polls (a poll that finds 90+ new trades); on 13 Nov the page turned over in ~8 minutes at peak, so 5-minute polling has little margin. If needed, 4 polls per run.

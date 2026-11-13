@@ -328,6 +328,13 @@ if fc_file.exists():
                 "months_beating": mean(float(r[every]) > float(r["universe mean change"]) for r in folds
                                        if r.get(every) not in (None, "", "nan"))} if folds else {}
     forecast = {"asof": head.removeprefix("# as of ")[:10], "note": head.lstrip("# "), "days": 30, "backtest": backtest, "items": fc_items}
+# live track record: each logged day's calls scored against Elvebredd's value 30 days later (track_record.py)
+from track_record import record
+elve_snaps = [(datetime.strptime(t, "%Y-%m-%dT%H:%M").replace(tzinfo=timezone.utc), v) for t, v in snapshot_values("elve")]
+checked_txt = (DATA / "values" / "checked.txt").read_text(encoding="utf-8").strip()
+checked_at = datetime.strptime(checked_txt, "%Y-%m-%dT%H%MZ").replace(tzinfo=timezone.utc)
+forecast["record"] = record(DATA.parent / "results" / "forecast_log" / "30d", elve_snaps, checked_at, key)
+print("track record:", {k: v for k, v in forecast["record"].items() if k != "days"})
 (SITE / "forecast.json").write_text(json.dumps(forecast, separators=(",", ":")), encoding="utf-8")
 print(len(forecast.get("items", {})), "pets with a 30-day direction call, as of", forecast.get("asof", "-"))
 

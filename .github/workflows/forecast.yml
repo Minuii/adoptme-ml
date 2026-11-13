@@ -29,15 +29,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          cp results/direction_30d.csv "$RUNNER_TEMP/direction_30d.csv"
+          cp results/direction_30d.csv "$RUNNER_TEMP/direction_30d.csv" && cp -r results/forecast_log "$RUNNER_TEMP/forecast_log"
           for attempt in 1 2 3; do
-            git add results/direction_30d.csv
+            git add results/direction_30d.csv results/forecast_log
             git diff --cached --quiet && exit 0
             git commit -q -m "forecast: as of $(head -1 results/direction_30d.csv | cut -d' ' -f4)"
             git pull -q --rebase && git push -q && exit 0
             git rebase --abort 2>/dev/null || true
             git fetch -q && git reset -q --hard origin/main
-            cp "$RUNNER_TEMP/direction_30d.csv" results/direction_30d.csv
+            cp "$RUNNER_TEMP/direction_30d.csv" results/direction_30d.csv && cp -r "$RUNNER_TEMP/forecast_log/." results/forecast_log/
           done
           exit 1
       - name: Rebuild the site
