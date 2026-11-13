@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 04:16 UTC by the scrape workflow._
+_Updated 2026-11-13 04:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 04:16 UTC by the scrape workflow._
 | amvgg | 3 | 26,942 | 2026-11-13T04:15 |
 | elve | 3 | 5,423 | 2026-11-13T04:16 |
 
-## AMVGG completed trades: 6,324 total
+## AMVGG completed trades: 6,353 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 491 |
+| 2026-11-13 | 520 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 04:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:15 | **amaekii**: Ride-A-Pet Potion | **Lera_Topxic**: Chihuahua (N) |
-| 04:15 | **GlibBlobBlob**: Halloween White Ghost Dragon | **themudwizard**: Ride-A-Pet Potion ×3 |
-| 04:15 | **AsherHawkBlast2015**: Crow (MFR), Parrot (MFR), Naughty Mistletroll (MFR) ×2, Aurora Fox (MFR), Glacier Kitsune (MFR), Flaming Fox (MFR) | **method611491**: Giant Panda (MFR) |
-| 04:15 | **Lexi_31825**: Jester Dragon (FR), Alley Cat (R) | **zachhh8988**: Chihuahua (M) |
-| 04:15 | **Legaspi_Jhonrey**: Owl (FR) | **yesterboni0**: Monkey King (R), Turtle (FR), Kangaroo (FR) ×2, Goose (R), Undead Jousting Horse (FR), Kangaroo (NFR), Chocolate Dutch Guinea Pig (NR) |
-| 04:10 | **GoodMemories2020**: Halloween Slime Mega Neon Paint | **WowOvOOooo**: Ride-A-Pet Potion |
-| 04:06 | **Fidelia2131415**: Stray Cat Dragon (N), Water Moon Bear (R) | **themudwizard**: Ride-A-Pet Potion |
-| 04:06 | **rbwax**: Green-Chested Pheasant, Golden Dragon (R) | **themudwizard**: Ride-A-Pet Potion |
-| 04:06 | **D_avidOrbit**: Goose (FR) | **AvokadoJFKfanat**: Fly-A-Pet Potion ×15, Spring Bunny Hood |
-| 04:06 | **Scarrscarrscar**: General Sheepdog (MFR) | **kittykyo77**: Chihuahua (M) |
-| 04:06 | **qwertyy_xx01**: Chihuahua ×2, Electric Hornet | **auixiss**: Ride-A-Pet Potion |
-| 04:06 | **xHelen_Martax**: Crimson Cape (NR), Ride-A-Pet Potion | **VovchikO123**: Samoyed (M) |
-| 04:06 | **Testsubject0_217**: Strawberry Shortcake Bat Dragon (FR) | **Alejandro_KLD**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
-| 04:06 | **joincupcakie**: Alpaca (MFR) | **Leah_newaccnt**: Rainbow Maker, Angel Wings, 2022 Birthday Party Hat, 2022 Birthday Cake ×3, Unicorn Horn ×5, Rain Cloud Hat ×2, Unicorn Backpack |
-| 04:06 | **Huge_Soda**: Ride-A-Pet Potion ×2 | **yhanie144**: Skelicorn (M) |
+| 04:25 | **Exotic_Collector27**: Mini Pig (NFR), Border Collie (NR), Strawberry Tortle (FR), Pelican (FR), Candyfloss Chick (FR) | **SantyGamer_4592**: Giant Panda (FR), Fairy Bat Dragon (NFR) |
+| 04:25 | **Brixer_Holder**: Many Mackerel | **syxnonym**: Ride-A-Pet Potion ×4 |
+| 04:25 | **KAKAEM_YPA11**: Waffle Wyrm (R), Parakeet (M), Bullfrog (R) | **minimal_juasjuas**: Ermine (N) |
+| 04:25 | **RiordanFan19**: Burger Bear (N) | **theropywasted**: Ride-A-Pet Potion ×2 |
+| 04:25 | **rufamayg**: Turtle (FR), Albino Monkey (FR), Crocodile (FR), Panda (NFR), Ride-A-Pet Potion ×2 | **Ak246868**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:25 | **Lolllllsima**: African Wild Dog (R), Ride-A-Pet Potion ×2 | **ItsRomelYT2010**: Fairy Bat Dragon (R), Cryptid (FR) |
+| 04:25 | **AnnaBanana22311**: Unicorn (NFR), Shrew | **lolo_gils**: Arctic Fox (FR) |
+| 04:25 | **TuffTuffTuff_Sahur67**: Siamese Cat (MFR), Lion | **blogssz**: Parrot (FR) |
+| 04:21 | **Banquitogamer025**: Latte Kitsune (R), Sloth (NR), Mushroom Friend (NR), Coconut Friend (N), Kitsune (R), Kiwi Kiwi, Brown Bear, Alley Cat, Hare | **WowOvOOooo**: Ride-A-Pet Potion ×18 |
+| 04:21 | **itsme_claire000**: Shark Puppy (R) | **Siyunmeow**: Dango Penguins (NFR), Pet Handler Pro Certificate |
+| 04:21 | **yesterboni0**: Shark Puppy (FR), Alpaca (R), Candicorn (NR), Caelum Cervi (FR), Jester Dragon, Copycat (R), Velocirooster (R), Ride-A-Pet Potion | **L_person21**: Evil Unicorn (FR) |
+| 04:21 | **Qiqi_n**: Hyena, Ride-A-Pet Potion ×4 | **leoncitoUwU12345**: Arctic Fox |
+| 04:21 | **riskyactss**: Copycat, Dragonfruit Fox (R), Emberlight (N) | **100PercentWinRateHax**: Seabed Creeper (M) |
+| 04:21 | **briannakitty55**: Lionfish (M) | **b_cwx**: Ride-A-Pet Potion ×2 |
+| 04:21 | **briannakitty55**: Latte Kitsune (R) | **arrozconleche1234648**: Ride-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
