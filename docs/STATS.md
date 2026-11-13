@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 16:01 UTC by the scrape workflow._
+_Updated 2026-11-13 16:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 16:01 UTC by the scrape workflow._
 | amvgg | 3 | 37,552 | 2026-11-13T16:00 |
 | elve | 3 | 7,724 | 2026-11-13T16:01 |
 
-## AMVGG completed trades: 8,131 total
+## AMVGG completed trades: 8,195 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,298 |
+| 2026-11-13 | 2,362 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 16:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:51 | **sakotfzg**: Goat (R), Ghost Bunny | **camiilita_7w7**: Jester Dragon (R) |
-| 15:51 | **ivybrown_idk**: Glormy Hound | **Laktozik1**: Fly-A-Pet Potion |
-| 15:51 | **Cat_mono**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **evsiia**: Cryptid (FR), Cupid Dragon (R), Lion (R) |
-| 15:51 | **alesa_ee**: Peppermint Penguin (R), Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Penguin (NR), Red Fox, Love Bird | **Tena_IsPeakfr**: Mini Pig (FR) |
-| 15:51 | **snezzhook**: Pet Handler Pro Certificate | **santi57974**: Ride-A-Pet Potion ×2 |
-| 15:51 | **prezervativkotika**: Fallow Deer (NFR), Rain Cloud Hat, Stray Cat Dragon (N) | **squ_evder**: Goose (FR) |
-| 15:51 | **Lerunhi**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion | **Vitek_228666**: Turtle (FR) |
-| 15:51 | **Sq77k**: Lion Cub (FR), Cow (NFR) | **Flowershinelight**: Kangaroo (MFR) |
-| 15:51 | **tamaramillka097**: Ride-A-Pet Potion ×11, Water Moon Bear | **Vitek_228666**: Fly-A-Pet Potion ×6 |
-| 15:51 | **Kira_Django123**: Ice Moth Dragon | **clxudyxlovelq**: Choccybunny Box ×18 |
-| 15:51 | **Esikiiomuru**: Frostbite Bear (R), Frostbite Bear and Cub Animated Sticker | **Dawnisiiaa**: Sushi Penguin (MR), Chihuahua (M) |
-| 15:51 | **UitronDiem2007**: Blazing Lion (FR), Frostbite Bear, Fly-A-Pet Potion, Ride-A-Pet Potion | **OnlyMeNinik**: Giant Panda (FR) |
-| 15:51 | **nagumo2226**: Blazing Lion (FR) ×2 | **UitronDiem2007**: Frost Dragon (FR) |
-| 15:51 | **mitsI_194**: Drake ×2 | **Xxxxashhhh**: Ride-A-Pet Potion ×2 |
-| 15:51 | **Kartofanochka2208**: Unicorn | **Xxxxashhhh**: Ride-A-Pet Potion |
+| 16:10 | **acc3m_400**: Cactus Friend (FR), Cobra (FR), Guardian Lion (FR), Moonbeam Butterfly (FR), Albino Gorilla (R), Dodo (R), Shark (R), Kitsune (R), Phoenix (F), Slimingo (R), Danger Egg, Fossil Egg, Ocean Egg, Royal Aztec Egg, Lavender Dragon, Tree Kangaroo, Pupcake (N), Royal Palace Spaniel (N) | **etherealstarblaze**: Fly-A-Pet Potion ×11 |
+| 16:10 | **SyndromGG**: Happy Duckling (MF), Chihuahua (M) | **1149218432174291381**: Unicorn Horn |
+| 16:10 | **Sp1nd_sh**: Chick (M) | **RileyforSure28**: Raccoon (M) |
+| 16:10 | **flears_brai**: Stitches (M) ×10 | **varmitrof**: Flash Weasel |
+| 16:10 | **Zues_Potter**: Candicorn (R), Ride-A-Pet Potion | **Sofxg4**: Candicorn (FR) |
+| 16:10 | **twixyetwix**: Pet Handler Pro Certificate, General Sheepdog | **Bunny_189659**: Ride-A-Pet Potion ×2 |
+| 16:10 | **marchthenewest**: Ride-A-Pet Potion ×3 | **Koala_ql**: Red Dutch Guinea Pig |
+| 16:10 | **KFC_C0nya**: Panda, Mouse (N), Ant (N), Princess Mare | **Kir4kaaa**: Ride-A-Pet Potion |
+| 16:10 | **21ssaappcc**: Cow (FR) ×2, Flamingo (FR), Kiwi (MFR), Ride-A-Pet Potion ×2, Spring Bunny Feet | **Lapiseroch2**: Field Mouse (MFR) |
+| 16:10 | **ANT4Gon1ST_1**: Ghost Bunny (MFR), Cupid Dragon (FR), Fly-A-Pet Potion, Snow Cat (MFR) | **xEpiphxnny**: Cow (R) |
+| 16:10 | **C0PHYAK**: Strawberry Shortcake Bat Dragon (FR) ×2, Fly-A-Pet Potion ×9, Pet Handler Pro Certificate ×3, Ride-A-Pet Potion ×4 | **KotMonster7**: Balloon Unicorn (FR) |
+| 16:10 | **dtOvsq**: Rice Cake Rabbit, Lunar Gold Tiger, Burger Bear | **Fidelia2131415**: Ride-A-Pet Potion |
+| 16:10 | **Samira_pro10**: Cat Backpack | **MoonlightMomma**: Dog Backpack |
+| 16:10 | **good_vibesgirl09**: Unicorn Horn | **kylibyakaaa0**: Ride-A-Pet Potion ×17 |
+| 16:10 | **Sofiapasazzz**: Fly-A-Pet Potion ×4, Koi Carp (N) | **Player2012_Kapa**: Pig (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
