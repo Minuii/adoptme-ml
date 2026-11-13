@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 18:25 UTC by the scrape workflow._
+_Updated 2026-11-13 18:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 18:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 39,882 | 2026-11-13T18:15 |
-| elve | 3 | 8,227 | 2026-11-13T18:16 |
+| amvgg | 3 | 40,136 | 2026-11-13T18:30 |
+| elve | 3 | 8,270 | 2026-11-13T18:31 |
 
-## AMVGG completed trades: 8,868 total
+## AMVGG completed trades: 8,889 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,035 |
+| 2026-11-13 | 3,056 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 18:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:25 | **alilaloutre200828**: Giraffe (FR), Puffin (MFR), Frostbite Cub (MR), Husky, Frostclaw (N) | **Shhdhehdneirjndnd**: Balloon Unicorn (NFR) |
-| 18:25 | **Eatemtoes101**: Toaster Hat | **Elf_Deme**: Shadow Dragon Ducky (MFR), Pet Handler Pro Certificate |
-| 18:25 | **marioxd_1252**: Arctic Fox | **animatownermile3**: Pupcicle ×7 |
-| 18:25 | **1flymiamibro22**: Turtle (NFR), Kangaroo (FR), Siamese Cat (NFR), Cow (R), Elephant (FR), Island Tarsier (MR) | **Summerwave2011**: Parrot (FR) |
-| 18:25 | **apple_juice99lovr**: Fly-A-Pet Potion, Ride-A-Pet Potion | **xxlKometalxx**: Happy Clam |
-| 18:25 | **Julka_Polska157**: Copycat | **Haru15919**: Pupcicle ×7 |
-| 18:25 | **puuuurrrraaawww**: Copycat | **Haru15919**: Pupcicle ×6 |
-| 18:25 | **s0larzxxxx**: Toaster Hat | **sleepy_s0ren**: Ride-A-Pet Potion ×9 |
-| 18:25 | **zqwuhl**: Fly-A-Pet Potion | **mister_junior3**: Steppe Lion ×2, Summer Walrus, Starhopper, Singularity Pisces, Thorny Devil ×3, Weevil ×6, Water Opossum ×4 |
-| 18:25 | **XxCiasto_xX**: Ice Cube (NR), Bobageist ×2, Caramelgeist ×2, Pangolin ×2, Orca ×2, Gummy Guana, Crimson Cape (N), Capuchin Monkey, Electric Hornet | **Chiki_cou**: Pupcicle |
-| 18:25 | **metanight3d**: Pupcicle ×2, Cracked Egg | **Lxdyxx**: Fly-A-Pet Potion |
-| 18:25 | **nmilovax**: Ride-A-Pet Potion, Raccoon | **Chiki_cou**: Pupcicle |
-| 18:25 | **Abaddon_Kisser666**: Arctic Fox (NR), Unicorn Horn, Ice Cream Cone Hat | **sigmaizzmailovvvv2**: Turtle (NFR) |
-| 18:25 | **M1lena126**: Ladybug (MFR), Space Whale (NFR) | **winterclaus1354alt**: Pupcake (MR) |
-| 18:21 | **Blasecific**: Owl (FR), Diamond Unicorn (MFR), Munchkin Cat (R), Pink Cat (R), Ice Cream Cone Hat, Harp Seal (NR), Spring Bunny Hood, Black Panther (NR), Halloween White Ghost Dragon (FR), Spring Bunny Nose, Fly-A-Pet Potion, Toucan (NFR), Badger (M) ×2, Magic House Door, Classic Trade Stand, Temple Friend ×2 | **sigmaizzmailovvvv2**: Frost Dragon (FR) |
+| 18:30 | **awhbubblessss**: Christmas Pudding Pup (R), Aurora Fox (R), Brown Bear (NR) | **amaekii**: Chihuahua (MR), Bunny Swirl (MR) |
+| 18:30 | **aitana_20091**: Stray Cat Dragon (N) ×3, Purrowl (N), Fly-A-Pet Potion, Great Pyrenees | **PandaYTXBoba**: Pupcicle (N) |
+| 18:30 | **Alana_enna22**: Koi Carp (N), Flying Fish (N) | **fishymiss_y**: Ride-A-Pet Potion |
+| 18:30 | **jaysmidtiers**: Tree Kangaroo (MFR), Ice Cream Hermit Crab (MFR), Pretty Pony (MFR), Puffer Fish (MFR), Queen Bee (MFR), Apple Owl (MFR), Pirate Hermit Crab (MFR) ×2, Scorching Kaijunior (MFR), Meerkat (FR) | **orchidbutterfliess**: Frost Dragon (FR) |
+| 18:30 | **vdlad9875**: Copycat (R) | **alt_hru**: Ride-A-Pet Potion ×7 |
+| 18:30 | **poooooooyuh**: Arctic Fox (NFR), Blue Dog (NFR), Ride-A-Pet Potion | **kartoshka_spogriba**: Cow (NFR) |
+| 18:30 | **ivmaho**: Purrowl, Royal Egg | **fffaso10**: Red Panda Ducky ×2 |
+| 18:30 | **irishazu_2014**: Strawberry Shortcake Ducky (M), Australian Kelpie (MR) | **KidzPlayzYT20**: Copycat |
+| 18:30 | **Supermen0157**: Shadow Dragon Ducky (R) | **lololoska11230**: Fly-A-Pet Potion |
+| 18:30 | **Cherriidew**: Fallow Deer (MFR), Pink Cat Ear Headphones ×2 | **joee123514**: Cow (FR), Mini Pig (R) |
+| 18:30 | **mango_robloxx101**: Copycat (MFR), Ice Cream Hermit Crab (MFR), Water Rabbit (M) | **CFESG8557777**: Evil Unicorn (NFR), Pancake Stack |
+| 18:30 | **boundedmoney**: Balloon Unicorn (FR) ×2, Cow (FR), Hot Doggo (FR), Turtle (FR) | **CFESG8557777**: Hot Doggo (MFR) |
+| 18:30 | **onesmollpoop**: Flaming Fox (N), Amami Rabbit | **Jdhsoand**: Highland Cow (MFR) |
+| 18:30 | **lavamanos88**: Fly-A-Pet Potion | **Ake_hack**: Pupcicle ×2 |
+| 18:30 | **iuliandia**: Happy Duckling (N) | **M1ssd3ath_x**: Frostbite Cub (N) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
