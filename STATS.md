@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 13:31 UTC by the scrape workflow._
+_Updated 2026-11-13 13:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 13:31 UTC by the scrape workflow._
 | amvgg | 3 | 35,119 | 2026-11-13T13:30 |
 | elve | 3 | 7,155 | 2026-11-13T13:31 |
 
-## AMVGG completed trades: 7,607 total
+## AMVGG completed trades: 7,645 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,774 |
+| 2026-11-13 | 1,812 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:30 | **kobii_x**: Phantom Dragon (R), Pandaguin Glooptodog (M) | **Akieqt9**: Pig (R) |
-| 13:30 | **Slender202404**: Copycat (R), Ride-A-Pet Potion ×2 | **pon_280874**: Sakura Spirit (FR) |
-| 13:30 | **Shynisocool**: Crystal Egg ×8 | **florence_23111**: Cow Loves This Sticker |
-| 13:30 | **Crazez5**: Lynx (MFR) | **Cookie_nom9**: Alpaca |
-| 13:30 | **iLuuvAshie**: Tuxedo Cat (MFR), Catte (MFR), Ghost Wolf (MFR), Mochi Meow (MFR), Sea Turtle (MFR), Maine Coon (MFR), Brown Bear (NFR), Rat (MFR) | **corbin374**: Fairy Bat Dragon (NFR) |
-| 13:30 | **trichedwasteerss**: Arctic Dusk Dragon (MFR), Nessie (MFR), Pig (NR), Glormy Hound (MFR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Dimash_bash**: Frost Dragon (FR) |
-| 13:30 | **SanAndres404**: Snowball Pug (M) | **flears_brai**: Stitches (M) ×4 |
-| 13:30 | **ElishaJade12341**: Strawberry Shortcake Bow ×2 | **bnnysiie**: Ride-A-Pet Potion |
-| 13:30 | **yxnnixb**: Purrowl (N) ×3 | **mjieoso**: Fly-A-Pet Potion |
-| 13:30 | **Kurocuash**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Peacock (R), Diamond Unicorn | **odading12318**: Sakura Spirit (FR) |
-| 13:30 | **princess_pizzanice**: Peppermint Penguin (R) | **Asya_foxii**: Amami Rabbit (MR), Halloween Black Mummy Cat (MFR), Sweetheart Rat (MR), Chihuahua (MR), Puptune (NR), Unicorn, Granny Wolf (M), Black Rhino (M), Chick (R), Mexican Wolf (M), Aye Aye (MR) |
-| 13:30 | **corbin374**: Crow (FR) | **cazzy123abc**: Diamond Unicorn (MFR), Coyote (MFR), Bunny Swirl (MR), Hippo (MFR), Glormy Leo (NR), Panda (MFR), English Sheepdog (MFR), Puffer Fish (MR), Catte (MR), Brown Springer Spaniel (MFR), Cockroach (MR) |
-| 13:30 | **sgtdcdtf**: Elephant (R), Frost Fury (FR), Snow Owl (NR) | **Aminapro111222**: Turtle (FR) |
-| 13:30 | **odading12318**: Owl (FR) | **bebra56348**: Dalmatian (R), Siamese Cat (R), Siamese Cat, Mini Pig (FR), Goose, Pig (FR), Copycat, Fly-A-Pet Potion ×4 |
-| 13:30 | **xluvvmel**: Papa Moose (R) | **Mxstygon**: Matcha Cat |
+| 13:36 | **rainbow_shiny152**: Rain Cloud Hat ×2 | **ChristinaClaraAva**: Angel Wings |
+| 13:36 | **Hasiiiiiiiiiiiii**: Hippo (MFR), Ride-A-Pet Potion | **24xwitchyz**: Majestic Pony (NFR) |
+| 13:36 | **closestIovetoheaven**: Goat (FR), Rain Boots, Fly-A-Pet Potion | **Sonya73p**: Tiny Wings |
+| 13:36 | **Lili_euphoria**: Ride-A-Pet Potion ×2 | **M1cahsWRLD**: Dire Wolf (M) |
+| 13:36 | **Sonya73p**: Halo, Spring Bunny Hood, Rain Cloud Hat ×2 | **rainbow_shiny152**: Sheeeeep (NR), Owlbear (NR), Toaster Hat, Tiny Wings ×2 |
+| 13:36 | **HuGe_123cAt**: Zombie Chick (M), Catte | **Shynisocool**: Cozy Mistletroll (M) |
+| 13:36 | **Arina_010145**: Flamingo (R), Fly-A-Pet Potion | **Aminapro111222**: Frost Unicorn (R) |
+| 13:36 | **hollyyy25x**: Unicorn (MFR), Pupcake (MFR) | **xluvvmel**: Space Whale (MFR), Albino Bat (MFR) |
+| 13:36 | **kamalafannumber1**: Alpaca (R) | **illegalfartss**: S'mores Raccoon (MR), Dango Penguins |
+| 13:36 | **wafy_3mk**: Highland Cow (M), St Bernard (MR), Shark (NFR), Goldhorn (NR), Brown Springer Spaniel (NR), Black Springer Spaniel (N) | **corbin374**: Cow (FR) |
+| 13:36 | **lunicorncookies**: Golden Lettuce, Vol. 2 Pets Plus Sticker Pack | **Kavai_Summer3**: Ride-A-Pet Potion ×3 |
+| 13:36 | **Ciccine10**: Clownfish (N) | **Kavai_Summer3**: Ride-A-Pet Potion |
+| 13:36 | **yReehxz**: Banana Hat | **Kavai_Summer3**: Ride-A-Pet Potion |
+| 13:36 | **twoMammy8**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×13 | **DragonjJDusta107130**: Turtle |
+| 13:36 | **Adopacount**: Bat Dragon | **Cinzsins**: Fairy Bat Dragon (MFR), Peppermint Penguin (MFR), Cryptid (FR), Fairy Bat Dragon (NFR), Pancake Stack, Fly-A-Pet Potion, Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
