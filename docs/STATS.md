@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 20:11 UTC by the scrape workflow._
+_Updated 2026-11-13 20:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 20:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 41,638 | 2026-11-13T20:00 |
-| elve | 3 | 8,566 | 2026-11-13T20:01 |
+| amvgg | 3 | 41,906 | 2026-11-13T20:15 |
+| elve | 3 | 8,648 | 2026-11-13T20:16 |
 
-## AMVGG completed trades: 9,369 total
+## AMVGG completed trades: 9,379 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,536 |
+| 2026-11-13 | 3,546 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 20:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:15 | **acidrotslo**: Grim Dragon (MFR), Mochi Meow (MR) | **sacrificingmyself19**: Owl (FR) |
+| 20:15 | **Ivryluvv**: 2022 Birthday Cake | **not_bot555**: Pupcicle ×15 |
+| 20:15 | **Idkk_0426**: Cryptid (NFR), Fairy Bat Dragon ×2, Alpaca (FR) | **OTAOtes5**: Parrot (NFR) |
+| 20:15 | **frrooggit**: Clownfish, Hydra, Deathstalker Scorpion, Raccoon, Seagull, Lammergeier, Wildfire Hawk, Cattuccino, Ladybug | **NastikXo**: Ride-A-Pet Potion |
+| 20:15 | **mariuema**: Thunderfisher, Tarantula, Boohoo, Grinmoire ×2, Purrowl, Crimson Cape, Pomeranian, Ancient Dragon, Badger | **tommylikeroblox2009**: Retired Egg ×18 |
+| 20:15 | **sxgarrXO**: Tiny Wings, Momma Moose (N) ×2, Momma Moose (NR) | **rikixbisco7**: 2022 Birthday Party Horn |
+| 20:15 | **parameter900**: Arctic Reindeer (R), Chocolate Chip Bat Dragon (NFR) | **PhoenixForever09**: Owl (FR) |
+| 20:15 | **MegaJady**: Badger (N), Badger ×9, Badger (F) | **caxopoklol0**: Ride-A-Pet Potion |
+| 20:15 | **Accusxed**: Arctic Dusk Dragon (MFR), Chick (MR) | **Sara707852**: Mermicorn (NFR), Pig (NFR) |
+| 20:15 | **v3xxyyy**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **caxopoklol0**: Toaster Hat |
 | 20:10 | **scarIitta**: Ice Golem (FR) ×2 | **Austrian_Capybara1**: Snow Monkey ×2 |
 | 20:10 | **Seyrina24**: Fairy Bat Dragon (FR) | **Justformoneybrolol**: Harp Seal (MFR) |
 | 20:10 | **gigAntiC_annA**: English Sheepdog, Ibex, Hippo, Lynx, Rice Cake Rabbit (N), Dolphin (NR), Cattuccino (N), Goldfish | **jauzyp**: Pupcicle ×4 |
 | 20:10 | **ALTUSHKA_80**: Pupcicle (N) | **sal1ssu**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
 | 20:10 | **Lost_inTheCl0uds**: Arctic Dusk Dragon (R) | **mxrgan66**: Pupcicle (N) |
-| 20:10 | **mxrgan66**: Fly-A-Pet Potion, Ride-A-Pet Potion, Dango Penguins, Chihuahua ×15 | **Alex109876541**: Dragonfruit Fox (NFR) |
-| 20:10 | **rainthatxx**: Turtle (FR) | **mama77515**: Ghost Bunny (MFR), Ride-A-Pet Potion |
-| 20:10 | **merock56798**: Pupcicle ×2 | **limohq**: Stray Cat Dragon ×15 |
-| 20:10 | **mariasnezinka**: Ride-A-Pet Potion | **xzuwehxd**: Pupcicle |
-| 20:10 | **christoqherrr**: Cryptid (FR), Fairy Bat Dragon (FR) ×2, Siamese Cat (MFR), Kangaroo (R), Violet Butterfly (M), Unicorn Horn ×2, 2022 Birthday Party Horn, Ice Cream Cone Hat | **xTrxstedCodee**: Evil Unicorn (N), Owl (FR) |
-| 20:10 | **Candy_100OO**: Ram (MFR) | **nicsbtst**: Merhorse (MFR), Skunk (MFR), Birthday Butterfly 2024 (MFR), Clover Cow (MFR), Winged Horse, Chocolate Chip Bat Dragon Backpack |
-| 20:10 | **cat_fela1**: Paint Sealer ×3 | **Candy_100OO**: Crystal Egg ×4 |
-| 20:10 | **mommy_vka123**: Haetae (FR), Border Collie (NFR), Turtle (FR), Spring Bunny Hood | **N0ugatt**: Owl (FR) |
-| 20:10 | **Angela019291**: Dalmatian (FR), Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **wskdaks**: Evil Unicorn (FR) |
-| 20:10 | **AnneFabrel2005**: Cow | **Hahahahaha123885**: Golden Jaguar (MFR), Siamese Cat (R) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
