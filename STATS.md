@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 00:45 UTC by the scrape workflow._
+_Updated 2026-11-13 00:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 00:45 UTC by the scrape workflow._
 | amvgg | 3 | 23,671 | 2026-11-13T00:45 |
 | elve | 3 | 4,781 | 2026-11-13T00:45 |
 
-## AMVGG completed trades: 5,914 total
+## AMVGG completed trades: 5,941 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 81 |
+| 2026-11-13 | 108 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 00:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:45 | **vicram210**: Albino Monkey (FR), Gingerbread Reindeer (N), Burger Boots, Cattuccino, Llamalush Purse Pet | **lolppp0vld**: Kangaroo (FR) |
-| 00:45 | **unstableloves**: Fairy Bat Dragon (FR) ×2, Fairy Bat Dragon (R) ×2, Fairy Bat Dragon, Turtle (FR), Turtle (R), Siamese Cat (FR), Siamese Cat ×2, Arctic Fox (R), Fly-A-Pet Potion ×7 | **moctada444j**: Frost Dragon (FR) |
-| 00:45 | **Lxdyxx**: Arctic Dusk Dragon (FR) | **Kaonimy**: Zombie Buffalo (FR), Ride-A-Pet Potion |
-| 00:45 | **hisevermore**: Scarebear (NR) | **AmvggPi0n41K**: Ride-A-Pet Potion ×3 |
-| 00:45 | **Addmymainaccpls88**: Peppermint Penguin (MFR), Strawberry Tortle (NFR), Frost Dragon (FR), Hot Doggo (FR) | **leidydamelike**: Bat Dragon (FR) |
-| 00:45 | **xlxnaxoi**: Chicken (NFR) | **bLanK1026**: Mochi Meow (MFR) |
-| 00:45 | **shin_XD911**: Crystal Egg ×18 | **MlodyMultiAlterntor**: Ride-A-Pet Potion ×2 |
-| 00:45 | **Inganta07**: Fly-A-Pet Potion | **feliyammr**: Cerberus (R) |
-| 00:45 | **TimeOceanheart**: Arctic Reindeer (FR), Swan (NFR) | **urpuppix_x**: Grim Dragon (FR), Cow (FR), Werewolf (R) |
-| 00:45 | **xXCyber_GodsXx**: Cryptid | **TimeOceanheart**: Haetyphoon, Flash Weasel |
-| 00:45 | **johanjosef123**: Mini Pig (FR), Cow (FR) ×2, Dalmatian (R), Siamese Cat (R), Fly-A-Pet Potion | **PedroElescamoso766**: Owl (FR) |
-| 00:45 | **iaMatthieu1**: Flamingo (FR) | **FunkyBrodie**: Candicorn (R), Ride-A-Pet Potion ×2 |
-| 00:45 | **Got_moves57**: Unicorn Horn, Ride-A-Pet Potion ×2 | **chip40060**: 2022 Birthday Cake |
-| 00:45 | **xMoon_289**: Bone Wings, Love Letter ×2, Culinary Wizard Hat, Rotating Periscope, Rainbow Dragon Hat, Gold Circle Glasses, Yellow Designer Backpack | **Julieta_pika**: Ride-A-Pet Potion |
-| 00:45 | **candelina299**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5, Unicorn, Malaysian Tapir (N), Black Rhino (M) | **kariisshha**: Pig (R) |
+| 00:50 | **aangelss11**: Moose Calf (MFR), 2022 Birthday Confetti Cannon | **L_person21**: Groundhog, Firefly (N), Jester Dragon, Lion Cub (R), Caelum Cervi (FR), Jester Dragon (R), Cupid Dragon (FR), Burning Bunny (N), Sunrise Duckling, Giant Anteater, Moose Calf, Solaris (NFR) |
+| 00:50 | **YTstaro**: Fly-A-Pet Potion ×9 | **NotSweatyOnion**: Kangaroo (FR) |
+| 00:50 | **mia123alic**: Mummy Spider ×4, Crimson Cape ×2 | **CLAW_OJ**: Mummy Spider (N) |
+| 00:50 | **Eugenia873**: Copycat | **Serpents_Wreck**: Meerkat (FR), Stitches (M) |
+| 00:50 | **bunnycup1d**: Giraffe (FR), Hare (MFR), Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion | **wildf1r**: Frost Dragon (NFR) |
+| 00:50 | **bluedolphinnx**: Owlbear (NFR) | **lovegames20000**: 2022 Birthday Cupcake Shoes |
+| 00:50 | **Kandiedbybr3n**: Crow (FR), Copycat | **xXNarynaryXx**: Turtle (MFR), Kangaroo (FR), Cow (FR) |
+| 00:50 | **kennybear2009**: 2022 Birthday Cupcake Shoes | **orchidbutterfliess**: Unicorn (MFR) |
+| 00:50 | **Superfish_71**: Arctic Fox (R) | **Kandiedbybr3n**: Arctic Dusk Dragon (FR) |
+| 00:50 | **bunniedollzz**: Alley Cat (MFR), Burger Bear (MFR), Frostbite Cub (MFR) | **ssolaraax**: Fallow Deer (MFR) |
+| 00:50 | **D8RYY**: Ice Wolf (MFR) | **tink3rb3lld7**: Pineapple Owl (MFR) |
+| 00:50 | **Angela019291**: Fly-A-Pet Potion ×12 | **NotSweatyOnion**: Turtle (FR) |
+| 00:50 | **sunFoxoxx**: Egg Rattle | **RileyforSure28**: Marsh Plush |
+| 00:50 | **xf4wnskull**: Dragonfruit Fox (NR), Grim Dragon (FR) | **l0v3ly_XDD**: Slime (MFR) |
+| 00:50 | **Niruch_Bearly**: Ride-A-Pet Potion ×2, Zombie Wolf | **Aproplayer558**: Pancake Stack |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
