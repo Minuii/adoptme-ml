@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 11:55 UTC by the scrape workflow._
+_Updated 2026-11-13 12:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 11:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 33,485 | 2026-11-13T11:45 |
-| elve | 3 | 6,750 | 2026-11-13T11:45 |
+| amvgg | 3 | 33,722 | 2026-11-13T12:00 |
+| elve | 3 | 6,819 | 2026-11-13T12:01 |
 
-## AMVGG completed trades: 7,257 total
+## AMVGG completed trades: 7,281 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,424 |
+| 2026-11-13 | 1,448 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 11:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:50 | **meg_playzrblx48**: Aurora Fox (R), Fly-A-Pet Potion, Alley Cat | **Fox_micro9311**: Amami Rabbit (MFR) |
-| 11:50 | **queenalwaysslayxx**: Cow, Fairy Bat Dragon (FR), Tiny Wings, Harp Seal | **raraa_cute61**: Cow (NFR) |
-| 11:50 | **UWUWUWUWUUWUUWUWUW1**: Pupcake | **Ksu0qww**: Ride-A-Pet Potion |
-| 11:50 | **nmfj**: Fairy Bat Dragon (FR), Ram (MFR), 2022 Birthday Cupcake Shoes, Glacier Moth | **GG_CROWS2**: Groundhog (MFR) |
-| 11:50 | **12kyanni12k**: Border Collie (MFR) | **lovel1446**: Goat (MFR), Golden Chow-Chow (MFR), Jousting Horse (MFR), Spring Bunny Hood |
-| 11:50 | **zKxUcZzYxAc**: Show Pony (MR) | **uu2i3iy**: Fly-A-Pet Potion |
-| 11:50 | **Krismasterdang**: Rain Cloud Hat | **pktyce**: Crocodile (FR) |
-| 11:50 | **QiQi6060**: Unicorn | **afissamuzfirah**: Ride-A-Pet Potion |
-| 11:50 | **thescriptofficials**: Unicorn ×2 | **afissamuzfirah**: Ride-A-Pet Potion ×2 |
-| 11:50 | **iiAesthxticPxmpkinii**: Frostbite Bear, Snow Monkey (MFR), Leopard Cat (MFR), Mule (MFR), Frostbite Bear (FR) | **atracttion**: Goat (MFR) |
-| 11:50 | **sorrowclings**: 2022 Birthday Party Hat ×2, 2022 Birthday Cake, Angel Wings, 2022 Birthday Party Horn | **Leahlovesyou4ever**: Cryptid |
-| 11:50 | **Xx_lxmwXx**: Fly-A-Pet Potion, Unfortunate Eyelashes, Count Slothula | **zarmeowz**: Spring Bunny Nose |
-| 11:50 | **feliyammr**: Milk Choccybunny (N), Lunar Gold Tiger (R) | **Pawwzzed**: Ride-A-Pet Potion |
-| 11:50 | **laokratia**: Golden Rat (R), Beluga Whale (NR) | **girlbyegirl12**: Pet Handler Pro Certificate |
-| 11:50 | **Vanthoria**: Moon Rabbit (MFR) | **3BDAl3ziz3**: Shiver Wolf (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 12:00 | **Bumble_Lou**: Count Slothula (M), Snow Leopard (MR), Matcha Cat, Volcanic Rhino (N), Dire Wolf (M) | **Kvammletitraketa**: Volcanic Rhino (MFR), Burger Bear (M) |
+| 12:00 | **Silverjamminni**: Cryptid (FR), Halloween White Ghost Dragon (R) | **daanz2**: Cow (R), Goose, Candyfloss Chick (FR), Cabbit (FR) |
+| 12:00 | **Pupppy457**: Blazing Lion (FR) | **omniprese_nt**: Sakura Spirit (MFR) |
+| 12:00 | **Galaxywolfie72**: Copycat (R), Tuxedo Cat (R), Ride-A-Pet Potion | **OnlyRock07y2kPlays**: Solaris (NFR) |
+| 12:00 | **atracttion**: Owlbear (NFR), Giant Anteater (FR), Ride-A-Pet Potion | **Reveknalt1**: Goat (NFR) |
+| 12:00 | **Kitti_59350**: Ride-A-Pet Potion, Magpie (M), Jacobin Pigeon (N), Gecko Ducky (N), Classic Teapot, Aye Aye, Shih Tzu, Puma ×2, Camel | **rasediva**: Fly-A-Pet Potion |
+| 12:00 | **Risefromdark**: Flamingo (FR), Fly-A-Pet Potion ×5 | **odading12318**: Fairy Bat Dragon (FR), Ride-A-Pet Potion |
+| 12:00 | **Fran_UwwO**: Chicken (NR), Purrowl (N) | **amyggvaI**: Ride-A-Pet Potion ×6 |
+| 12:00 | **afissamuzfirah**: Ride-A-Pet Potion ×4 | **larisochka_gudeeva98**: Unicorn ×4 |
+| 12:00 | **loy6**: Cow (FR), Cabbit (R) | **odading12318**: Rainbow Maker |
+| 12:00 | **flears_brai**: Stitches (M) ×10 | **veryyronny**: Unicorn Horn |
+| 12:00 | **ADOPTME_tr4dingAlt**: Siamese Cat (MFR) | **Frroya**: Cryptid (FR), Kangaroo (FR) |
+| 12:00 | **milks_1931**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×2, Mighty Haetyphoon Animated Sticker | **A13N4XX**: Cow (R) |
+| 12:00 | **adpetstrademe**: Mermicorn (R) | **soy_peludito**: Unicorn Horn, Jester Dragon |
+| 12:00 | **Sonya73p**: Cow (FR) | **arina_kir2**: 2022 Birthday Cake, Tiny Wings, Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
