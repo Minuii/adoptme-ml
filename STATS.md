@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 02:45 UTC by the scrape workflow._
+_Updated 2026-11-13 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 02:45 UTC by the scrape workflow._
 | amvgg | 3 | 25,624 | 2026-11-13T02:45 |
 | elve | 3 | 5,168 | 2026-11-13T02:45 |
 
-## AMVGG completed trades: 6,179 total
+## AMVGG completed trades: 6,187 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 346 |
+| 2026-11-13 | 354 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,14 @@ _Updated 2026-11-13 02:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:50 | **jam0khurt**: Ride-A-Pet Potion ×11, Pet Handler Pro Certificate | **Ami_Mixed**: Border Collie (R) |
+| 02:50 | **Loveflowers871**: Blazing Lion (R), Arctic Reindeer (NFR), Ice Cream Cone Hat, Latte Kitsune | **violencesoul**: Frost Unicorn (MFR) |
+| 02:50 | **santii_css**: Bush Elephant (MFR) | **NathanPlayz83**: Sugar Axolotl (MFR), Aestus (MFR), Golden Walrus (MFR), Ring-Tailed Lemur |
+| 02:50 | **Justin2Play**: Rain Cloud Hat | **midightgalaxywolf**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×2, Baku, Muskrat (N) |
+| 02:50 | **lotusIiil**: Warthog (M), Ginger Cat (M) | **qielul**: Giant Black Scarab (MFR) |
+| 02:50 | **xiakusu**: Cherry-On-Top | **baconloverxxx12**: 2022 Birthday Party Hat, Unicorn Backpack |
+| 02:50 | **michaellynch2002**: Golden Bone, Ice Cream Truck | **themudwizard**: Ride-A-Pet Potion |
+| 02:50 | **dodonsndnds**: Golden King Penguin (MFR), Unicorn (NR), Sunrise Duckling (NR), Bee (MR) | **anayrp**: Golden Rat (MFR) |
 | 02:45 | **katccafe**: Unicorn Horn, Propeller Hat | **zmbi3boyy**: 2022 Birthday Cake |
 | 02:45 | **ChocolatinaYToficial**: Retired Egg ×5 | **littlefelonies**: Ibex |
 | 02:45 | **OBVADDISONN0**: Ride-A-Pet Potion ×3 | **mintyplays89**: Water Opossum (M), Mummy Spider (M), Icy Porcupine (N), Onza (N) |
@@ -35,14 +43,6 @@ _Updated 2026-11-13 02:45 UTC by the scrape workflow._
 | 02:45 | **jiggle_wiggle132**: Fly-A-Pet Potion ×3 | **FufuFluffyFlowi**: Ride-A-Pet Potion ×6 |
 | 02:45 | **stayter213**: 2022 Birthday Confetti Cannon, Santa Hat, Sandwich Hat | **zachhh8988**: Unicorn (MFR) |
 | 02:45 | **yeetimaheadout7**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Unicorn Horn, Tiny Wings, Angel Wings, Cherry-On-Top | **13kdiino**: Shark Puppy (MFR) |
-| 02:45 | **JennaTV1**: Paint Sealer ×7 | **CC_CreepyClown11**: Ice Cream Heels |
-| 02:45 | **slawtator**: Ride-A-Pet Potion ×2 | **Kisheky**: Skeleton Winged Glider |
-| 02:45 | **corbin374**: Field Mouse (MFR), Ride-A-Pet Potion ×2 | **DtiHelper8**: Yeti (MFR), Swan (MFR), Capricorn (MFR), Axolotl (MFR), Sunglider (MR) |
-| 02:45 | **HGJohnson13**: Fairy Bat Dragon (FR), Flamingo (FR), Candicorn (FR), Elephant (FR), Albino Monkey (FR), Fly-A-Pet Potion, Pink Cat Ear Headphones, Science Hat, Bunny Ear Tiara | **iaMatthieu1**: Evil Unicorn (FR) |
-| 02:40 | **liofe1**: Ride-A-Pet Potion ×2 | **iixomaisiebrookoxii**: Pet Handler Pro Certificate |
-| 02:36 | **LEODAGOATT710**: Blue Boohoo Mega Neon Paint, Velvet Fuchsia Mega Neon Paint | **littlefelonies**: Amethyst Skies Mega Neon Paint, Electric Tide Mega Neon Paint |
-| 02:36 | **violencesoul**: Candicorn (MFR), Goose (FR), Sugar Glider (FR), 2022 Birthday Cake, French Bulldog (M), Puffer Fish, Rainbow Trout (M), Star Sunglasses | **Green_cocoa1**: Frost Unicorn (MFR) |
-| 02:36 | **vasamgw**: Pandaguin Glooptodog (N), Boohoo (N), Jumpscare (N), Golden Egg, Princess Mare (N), Muskrat (N) | **Bunny_189659**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
