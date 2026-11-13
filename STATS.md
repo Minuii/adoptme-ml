@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 14:16 UTC by the scrape workflow._
+_Updated 2026-11-13 14:26 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 14:16 UTC by the scrape workflow._
 | amvgg | 3 | 35,814 | 2026-11-13T14:15 |
 | elve | 3 | 7,295 | 2026-11-13T14:16 |
 
-## AMVGG completed trades: 7,749 total
+## AMVGG completed trades: 7,805 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,916 |
+| 2026-11-13 | 1,972 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 14:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:11 | **vanyagames_yt**: Sakura Spirit (MFR) ×2, Dragonfruit Fox, Leprechaun Hat | **atr1xry**: Frost Dragon (FR) |
-| 14:11 | **theodorprivat**: Octopus (FR), Princess Capuchin Monkey, Bauble Buddies (N) | **CreamyGalaxyz**: Happy Clam |
-| 14:11 | **Kubikrubik_163**: Fly-A-Pet Potion, Ride-A-Pet Potion ×14 | **upergameoman23**: Kangaroo (R) |
-| 14:11 | **k_sybom**: Hippogriff (FR) | **DASHA0099414**: Ride-A-Pet Potion |
-| 14:11 | **CrystalGlow2400**: Great Pyrenees (M), Dire Wolf (N), Black Moon Bear (N), Ghost Wolf (N), Shetland Pony Dark Brown (N), Icy Porcupine (N), Cherub Chipmunk (N), Mexican Wolf (N), Ocelot (N), Chocolate Labrador (NR), Tegu (M), Dingo (N), Dog (MR), Black-Footed Ferret (N), Poodle (N) ×2, Pandaguin Glooptodog (N), Ratatoskr (N) | **jjuicyz**: Candicorn |
-| 14:11 | **Anorra42**: Ride-A-Pet Potion ×17 | **upergameoman23**: Kangaroo (FR) |
-| 14:11 | **Sq77k**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **Anna_Flora1**: Lion Cub (FR) |
-| 14:11 | **beebodooo**: Phantom Dragon (R), Silly Duck (R), Capybara, Candy Hare, Chocolate Dutch Guinea Pig | **KTO_TU28**: Tortoiseshell Guinea Pig |
-| 14:11 | **Maja82805**: Burger Bear (NFR) | **chmokkino**: Snow Owl (NFR) |
-| 14:11 | **Maja82805**: Black Panther (NFR) | **taigo77**: Ballet Swan (FR) |
-| 14:11 | **Inganta07**: Ride-A-Pet Potion | **Koala_ql**: Dog (MFR) |
-| 14:11 | **Ghostkittyin**: Christmas Pudding Pup (MFR), Siamese Cat (NFR) | **CheeseThePug2**: Siamese Cat (MFR) |
-| 14:11 | **elifanaekinci**: Peachick (N) | **Tireddxox**: English Sheepdog, Jumpscare (N), Hamster |
-| 14:11 | **Madelinnbby**: Sea Slug (NR), Mini Pig (FR) | **HJKGVNib**: Meerkat (MFR) |
-| 14:11 | **Tyyyyy_tyy1**: Burger Bun Hat | **cat_anna2003**: Retired Egg ×9 |
+| 14:26 | **weshle008**: Diamond Ladybug (MFR) | **iipicklette**: Panda (MFR), Horse (MFR) |
+| 14:26 | **hihihihihihihahahah2**: Alpaca (FR) ×2, Alpaca (R), Copycat (FR) ×2 | **djamilafan200**: Alpaca (NFR) |
+| 14:26 | **Inganta07**: Fly-A-Pet Potion ×3 | **odading12318**: Frost Fury (FR) |
+| 14:26 | **FoolishOwl1199**: Copycat, Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **YY0ZU**: Shark Puppy (R) |
+| 14:26 | **COBRA_GAMER26M**: Haetyphoon ×10 | **ilove_demi123**: Owl (FR) |
+| 14:26 | **women_7031**: Stray Cat Dragon (N), Skelicorn ×2 | **Kara_Mcdonalt7685**: Ride-A-Pet Potion |
+| 14:26 | **booktrovert_she**: Alpaca (R), Matcha Cat, Ride-A-Pet Potion | **iuliandia**: Cabbit (FR) |
+| 14:26 | **atracttion**: Chocolate Dutch Guinea Pig (MFR), Chocolate Dutch Guinea Pig | **lrzzii**: Ballet Swan (NFR), Fallow Deer (R), 2022 Birthday Party Horn |
+| 14:26 | **Vinni_love3**: Frost Phoenix | **Xxxxashhhh**: Fly-A-Pet Potion |
+| 14:26 | **1irxms9**: Moon Rabbit (MFR), Fly-A-Pet Potion ×3 | **hiyuki_404**: Shark Puppy (FR), Flaming Fox (N) |
+| 14:26 | **ahmad_ali19**: Cow (MFR), Monkey (MR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Eva_EvaKBAC**: Owl (FR) |
+| 14:26 | **hmmhh8**: Shadow Dragon (FR), Owl (FR), Hedgehog (FR), Cabbit (NFR), Shark Puppy (NFR), Christmas Pudding Pup (N), Cherry-On-Top, Red Dutch Guinea Pig | **wx8zqxx**: Crow (MFR) |
+| 14:26 | **Extraalt_forval**: Christmas Pudding Pup | **7memorys**: Spring Bunny Nose, Propeller Hat |
+| 14:26 | **mavissx_0**: Pupcake (M) | **johnpatricktasunci16**: Count Slothula ×9 |
+| 14:26 | **snezzhook**: Fly-A-Pet Potion | **Alisa_12478**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
