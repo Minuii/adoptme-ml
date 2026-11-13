@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 17:31 UTC by the scrape workflow._
+_Updated 2026-11-13 17:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 17:31 UTC by the scrape workflow._
 | amvgg | 3 | 39,100 | 2026-11-13T17:30 |
 | elve | 3 | 8,079 | 2026-11-13T17:31 |
 
-## AMVGG completed trades: 8,573 total
+## AMVGG completed trades: 8,645 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,740 |
+| 2026-11-13 | 2,812 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 17:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:30 | **rachel1707vp**: Latte Kitsune | **kittyarchivies**: Ride-A-Pet Potion ×3 |
-| 17:30 | **Daniel11122255**: Ride-A-Pet Potion | **Eatemtoes101**: Unicorn |
-| 17:30 | **Xx_juliexn**: Chocolate Dutch Guinea Pig (N), Burger Bun Hat | **22medaa**: Copycat |
-| 17:30 | **22medaa**: Burger Bear | **Kir4kaaa**: Stray Cat Dragon ×6 |
-| 17:30 | **shainikss**: Ride-A-Pet Potion | **marsyasha11**: Pupcicle |
-| 17:30 | **marishka3832**: Evil Unicorn (FR), Flamingo (FR), Kangaroo (R), Crocodile (R), Swan (NFR), Toy Monkey (NFR), Polar Bear (R), Ancient Dragon (MFR), Zombie Wolf (NR) | **SEBY6105**: Parrot (FR) |
-| 17:30 | **uqxiyeol**: Fly-A-Pet Potion | **Lylyputikmummy9**: Sushi Penguin ×2 |
-| 17:30 | **GorobetsZP**: Rose Dragon, Ermine (N) | **OJC_Star45**: Bunny Swirl (N) ×2 |
-| 17:30 | **good_vibesgirl09**: Ride-A-Pet Potion ×3 | **AbstrackDarck**: Pupcicle ×3 |
-| 17:30 | **blobxxfish**: Pupcicle | **michifuBv18462**: Harp Seal |
-| 17:30 | **splashJuggernaut**: Copycat (R) | **JeanineMasudi87**: Santa Hat, Pancake Stack |
-| 17:30 | **Angel_cute1339**: Elephant (FR) | **laur3star**: Arctic Dusk Dragon (NFR) |
-| 17:30 | **Lunaknagg**: Pupcicle | **Fruit_Kittie**: Ride-A-Pet Potion |
-| 17:30 | **irishazu_2014**: Ride-A-Pet Potion | **carolzaothecreator**: Pupcicle |
-| 17:30 | **caxarberdok**: Octopus (NFR), Ride-A-Pet Potion | **janluvxne**: Many Mackerel (R) |
+| 17:40 | **XAxelX88**: Copycat (NR) | **garinha_500**: Pupcicle (MFR) |
+| 17:40 | **Binahardee**: Dango Penguins (NFR), Harp Seal (N) ×2, Catte | **LunaLuve_Good**: Harp Seal (M) |
+| 17:40 | **brainrotrizzfr**: Mermicorn (FR), 2022 Birthday Cake, Tiny Wings, Unicorn Horn | **blackcupkakeuwu**: Mermicorn (NFR) |
+| 17:40 | **Not_thedevilUwU**: Ride-A-Pet Potion | **vahnpot**: Jumpscare (M) |
+| 17:40 | **good_vibesgirl09**: Ride-A-Pet Potion ×5 | **xplr_165**: Pupcicle (N) |
+| 17:40 | **Quean_33**: Ride-A-Pet Potion | **DreamWalker_47**: Pupcicle |
+| 17:40 | **amaialolwonder**: Pupcicle (MR) | **Rin_ttv**: 2022 Birthday Party Hat, Moose Calf |
+| 17:40 | **ZuzaOnlyMy**: Haetyphoon (FR), Copycat, Ride-A-Pet Potion | **Krofna125**: Fairy Bat Dragon (FR) |
+| 17:40 | **22_jaydenx**: Copycat, Scarecrow Horse (NR) | **bYtSeNb**: Pupcicle ×7 |
+| 17:40 | **cuutiesvvgift**: Moose Calf | **MrsOverTh1nkerrr**: Dango Penguins |
+| 17:40 | **carrotccakie**: Sakura Spirit (MFR), Octopus (NR), Rosy Maple Moth (NFR), Ice Cream Cone Hat, Spring Bunny Hood, Clover Cow (M) | **xf4wnskull**: Giant Panda (F) |
+| 17:40 | **tom2mcg**: Sakura Spirit (MFR) ×2, Candicorn (MFR) | **carrotccakie**: Strawberry Shortcake Bat Dragon (MFR) |
+| 17:40 | **skylinzoe**: Ride-A-Pet Potion | **6ixbitez**: Pupcicle |
+| 17:40 | **black5786t**: Candy Hare (R) | **Fidelia2131415**: Fly-A-Pet Potion |
+| 17:40 | **ur_localstarstrxck**: Midnight Dragon (FR) | **Keith_goned**: Pupcicle (NR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
