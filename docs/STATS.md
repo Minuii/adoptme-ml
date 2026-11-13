@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-13 19:40 UTC by the scrape workflow._
+_Updated 2026-11-13 19:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 8 | 2026-11-11T1036Z | 2026-11-13T1745Z |
-| amvgg | 13 | 2026-11-11T1036Z | 2026-11-13T1645Z |
+| elve | 9 | 2026-11-11T1036Z | 2026-11-13T1945Z |
+| amvgg | 14 | 2026-11-11T1036Z | 2026-11-13T1945Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 41,128 | 2026-11-13T19:30 |
-| elve | 3 | 8,483 | 2026-11-13T19:31 |
+| amvgg | 3 | 41,370 | 2026-11-13T19:45 |
+| elve | 3 | 8,510 | 2026-11-13T19:45 |
 
-## AMVGG completed trades: 9,215 total
+## AMVGG completed trades: 9,256 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,382 |
+| 2026-11-13 | 3,423 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 19:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:40 | **sarahang3la**: Cabbit (MFR) | **aliyah_v2**: Cryptid (NFR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Spring Bunny Hood |
-| 19:40 | **Delia_dontknow**: Cabbit (NFR), Siamese Cat (NFR) | **V4ETH**: Giant Panda (FR) |
-| 19:40 | **wolllll11**: Naughty Mistletroll Sticker | **Delia_dontknow**: Retired Egg ×2 |
-| 19:40 | **kogaaxrt**: Sugar Glider (FR) | **PossiblyBilled369**: Pupcicle (MFR) |
-| 19:40 | **swyttbakees**: Pupcicle | **Meekaqw**:  |
-| 19:40 | **PastryPuffTreat**: Pupcicle ×3, Pet Handler Pro Certificate | **Not_ShamerBunny**: Unicorn Backpack |
-| 19:40 | **T0LMU**: Pupcicle (N), Spring Bunny Feet, Butter Knife | **AmberCrystalPlayz**: S'mores Raccoon (N) ×2 |
-| 19:40 | **magetearsx**: Peppermint Penguin, Cherry Blossom Hang Glider | **nwwxxtt0**: Flash Weasel, Candicorn (FR) |
-| 19:40 | **ALTUSHKA_80**: Copycat, Chihuahua (R) | **Cutsy_BunnyXD**: Pupcicle (N), Dragonfruit Fox |
-| 19:40 | **cheesewondercrisps**: Haetae (FR), Cryptid (FR), Hyena (NFR), Werewolf (FR), Goat (R), Rhino (NR), Fly-A-Pet Potion, Chocolate Chip Bat Dragon Backpack, Alien Eyes Hat | **pogigelo31**: Frost Dragon (FR) |
-| 19:40 | **pbjmorelikebluej**: Kangaroo (R), Fly-A-Pet Potion, Unicorn | **Tamya4love**: Flamingo (FR) |
-| 19:36 | **mariagmia**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×6 | **wskdaks**: Cow (FR) |
-| 19:36 | **ii_quq**: Pupcicle | **enhy12345678**: Mighty Haetyphoon Animated Sticker |
-| 19:36 | **juandxmm2**: Unicorn (MFR), Goldhorn (NFR) | **Itz_w1sker**: Panda (MFR) |
-| 19:36 | **likoadopt**: Princess Capuchin Monkey (N) | **Adoptmestocks3000**: Fly-A-Pet Potion |
+| 19:45 | **StreamPlayz508**: Ride-A-Pet Potion | **enhy12345678**: Pupcicle |
+| 19:45 | **Arabik_XD228**: Penguin (R), Water Moon Bear (R), Griffin (R) | **LYIZA_1976**: Fly-A-Pet Potion |
+| 19:45 | **jauzyp**: Pupcicle | **grijfe8r**: Pupcake |
+| 19:45 | **patrimg119**: Latte Kitsune | **daria_buzok**: Ride-A-Pet Potion ×3 |
+| 19:45 | **airiska_iriska3**: Show Pony (M) | **Aslie_17**: Ride-A-Pet Potion |
+| 19:45 | **sakotfzg**: Pupcicle (N), Ride-A-Pet Potion | **doiii_yen**: Midnight Dragon (FR) |
+| 19:45 | **Vikakelera**: Fly-A-Pet Potion | **mamochka_vasha0**: Pupcicle ×2 |
+| 19:45 | **purrriito**: Dragonfruit Fox (N), Alley Cat (FR), Ice Cream Cone Hat, Pancake Stack | **SyndromGG**: Unicorn Horn |
+| 19:45 | **razarvale2z**: Copycat (NFR), Ride-A-Pet Potion | **wskdaks**: Cow (FR) |
+| 19:45 | **MNSATO_CAH**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Bunny Swirl | **Lozi_loz**: Copycat |
+| 19:45 | **tufvfffdjdg**: Matcha Cat, Ice Cream Hermit Crab (R), Dragonfruit Fox, Chocolate Dutch Guinea Pig, Unicorn ×3 | **yRafah_Bloxinha**: Elephant (FR) |
+| 19:45 | **Ruperto_1297**: Goose (FR) | **marishka3832**: Fly-A-Pet Potion ×17 |
+| 19:45 | **Lercheg_nukto**: Shetland Pony Dark Brown (M) | **Chignug17**: Fly-A-Pet Potion |
+| 19:45 | **RandumbCookies**: Bat Dragon (FR), Dango Penguins (MFR), Turtle (NFR) | **Gxlhsp80**: Cryptid (MFR) |
+| 19:45 | **ates_yurek**: Crow (NFR) | **lipgloss**: Alpaca (MFR), Cake Friend (M) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
@@ -64,10 +64,11 @@ _Updated 2026-11-13 19:40 UTC by the scrape workflow._
 | 2026-11-13 00:00 | Jester Dragon | neon fly ride | 36 | 34 |
 | 2026-11-13 00:00 | Jester Dragon | default no potion | 8.5 | 8 |
 
-## AMVGG value changes: 7,652 since 2026-06-02
+## AMVGG value changes: 7,653 since 2026-06-02
 
 | When (UTC) | Item | Changes |
 |---|---|---|
+| 2026-11-13 18:56 | Mighty Haetyphoon Animated Sticker | Item 0.007 → 0.0065 |
 | 2026-11-13 15:53 | Field Mouse | Regular 0.038 → 0.0405, Neon 0.1525 → 0.1625, Mega 0.63 → 0.67 |
 | 2026-11-13 15:52 | Siamese Cat | Mega 1.05 → 1.025 |
 | 2026-11-13 15:49 | Amethyst Penguin | Regular 0.775 → 0.76, Neon 3.2 → 3.125, Mega 13 → 12.7 |
@@ -82,4 +83,3 @@ _Updated 2026-11-13 19:40 UTC by the scrape workflow._
 | 2026-11-13 15:30 | Giant Panda | Regular 1.11 → 1.08, Neon 3.85 → 3.775, Mega 15.35 → 15 |
 | 2026-11-13 15:27 | Frost Dragon | Mega 8.35 → 8.5 |
 | 2026-11-13 15:27 | Candicorn | Mega 0.94 → 0.92, Neon demand High → Medium |
-| 2026-11-13 15:26 | Glacier Moth | Regular 0.0365 → 0.0355, Neon 0.1475 → 0.1425, Mega 0.61 → 0.59 |
