@@ -232,6 +232,18 @@ tr.tot td { font-weight: 600; border-bottom: 0; }
 .chip img { width: 28px; height: 28px; object-fit: contain; }
 .chip .bdg { width: 18px; height: 18px; font-size: 10px; }
 .chip.ph { font-style: italic; color: var(--muted); padding-left: 8px; }
+/* item search dropdown (suggest()) */
+.sugwrap { position: relative; display: block; width: 100%; }
+.sug { position: absolute; z-index: 20; top: calc(100% + 4px); left: 0; width: max(100%, 280px); max-width: calc(100vw - 32px); max-height: 360px; overflow-y: auto;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 10px; box-shadow: var(--shadow); padding: 4px; margin: 0; list-style: none; }
+.sug li { display: flex; align-items: center; gap: 10px; padding: 6px 8px; border-radius: 7px; cursor: pointer; min-height: 44px; }
+.sug li[aria-selected=true], .sug li:hover { background: var(--hover); }
+.sug img, .sug .noimg { width: 32px; height: 32px; object-fit: contain; flex: none; }
+.sug .noimg { border-radius: 6px; background: var(--hover); }
+.sug .t { display: flex; flex-direction: column; min-width: 0; }
+.sug .t b { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sug .t span { font-size: 12px; color: var(--muted); text-transform: capitalize; }
+.sug mark { background: none; color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 .chip mark { background: none; color: inherit; font-weight: 600; }
 footer { font-size: 12px; color: var(--faint); }
 footer a { color: var(--muted); }
@@ -294,12 +306,11 @@ footer a { color: var(--muted); }
     <div class="verdict" id="verdict"></div>
     <section class="section" id="cmpHist"></section>
   </section>
-  <datalist id="names"></datalist>
 
   <section class="page" id="ads" hidden>
     <div class="controls">
-      <label class="field grow"><span class="label">Offering (they give)</span><input id="ag" class="input" type="search" list="names" placeholder="e.g. Frost Dragon" autocomplete="off"></label>
-      <label class="field grow"><span class="label">Looking for (they want)</span><input id="ak" class="input" type="search" list="names" placeholder="e.g. Shadow Dragon" autocomplete="off"></label>
+      <label class="field grow"><span class="label">Offering (they give)</span><input id="ag" class="input" type="search" placeholder="e.g. Frost Dragon" autocomplete="off"></label>
+      <label class="field grow"><span class="label">Looking for (they want)</span><input id="ak" class="input" type="search" placeholder="e.g. Shadow Dragon" autocomplete="off"></label>
       <div class="field"><span class="label">Site</span><div class="seg" data-key="as" role="group" aria-label="Site">
         <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
       <label class="field"><span class="label">Variant</span><select id="av"><option value="">Any</option><option value="r">Normal</option><option value="n">Neon</option><option value="m">Mega</option></select></label>
@@ -323,7 +334,7 @@ footer a { color: var(--muted); }
 
   <section class="page" id="wanted" hidden>
     <div class="controls">
-      <label class="field grow"><span class="label">Search</span><input id="wq" class="input" type="search" list="names" placeholder="Item name" autocomplete="off"></label>
+      <label class="field grow"><span class="label">Search</span><input id="wq" class="input" type="search" placeholder="Item name" autocomplete="off"></label>
       <div class="field"><span class="label">Site</span><div class="seg" data-key="ws" role="group" aria-label="Site">
         <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
       <label class="field"><span class="label">Category</span><select id="wc"></select></label>
@@ -516,6 +527,53 @@ function badges(it) {
   return bdgs(badgeTags(`${S.var}-${S.pot}`));
 }
 const icon = it => it.img ? h("img", { class: "ico", src: it.img, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer", onerror: e => e.target.remove() }) : null;
+
+// item search dropdown with pictures, for any text box: suggest(input, it => ...) calls back with the picked item
+let sugN = 0;
+function suggest(inp, onPick) {
+  const id = "sug" + ++sugN, list = h("ul", { class: "sug", id, role: "listbox", hidden: true });
+  const wrap = h("span", { class: "sugwrap" });
+  if (inp.parentNode) inp.replaceWith(wrap);
+  wrap.append(inp, list);
+  inp.setAttribute("role", "combobox"); inp.setAttribute("aria-controls", id); inp.setAttribute("aria-expanded", "false"); inp.autocomplete = "off";
+  let hits = [], at = -1, picked = null;
+  const close = () => { list.hidden = true; inp.setAttribute("aria-expanded", "false"); at = -1; };
+  const mark = (name, q) => { const i = name.toLowerCase().indexOf(q); return i < 0 ? name : [name.slice(0, i), h("mark", {}, name.slice(i, i + q.length)), name.slice(i + q.length)]; };
+  const pick = it => { close(); picked = it.name; onPick(it); };
+  const show = () => {
+    const q = inp.value.trim().toLowerCase();
+    if (!DATA || !q || inp.value === picked) return close();  // just picked: don't reopen on the filled-in name
+    const rank = n => n.startsWith(q) ? 0 : n.includes(" " + q) ? 1 : n.includes(q) ? 2 : 9;
+    hits = DATA.items.map(it => [rank(it.name.toLowerCase()), it]).filter(([r]) => r < 9)
+      .sort((a, b) => a[0] - b[0] || (a[1].cat !== "pets") - (b[1].cat !== "pets") || a[1].name.length - b[1].name.length || a[1].name.localeCompare(b[1].name))
+      .slice(0, 8).map(x => x[1]);
+    at = hits.length ? 0 : -1;
+    list.replaceChildren(...(hits.length ? hits.map((it, i) => h("li", { role: "option", id: `${id}-${i}`, "aria-selected": String(i === at),
+      onmousedown: e => e.preventDefault(), onclick: () => pick(it) },
+      it.img ? h("img", { src: it.img, alt: "", referrerpolicy: "no-referrer", onerror: e => e.target.replaceWith(h("span", { class: "noimg" })) }) : h("span", { class: "noimg" }),
+      h("span", { class: "t" }, h("b", {}, mark(it.name, q)), h("span", {}, [it.rarity, it.cat].filter(Boolean).join(" · ")))))
+      : [h("li", { "aria-disabled": "true", style: "cursor:default;color:var(--muted)" }, "No item with that name")]));
+    list.hidden = false; inp.setAttribute("aria-expanded", "true");
+  };
+  const move = d => {
+    if (list.hidden || !hits.length) return;
+    at = (at + d + hits.length) % hits.length;
+    list.querySelectorAll("li").forEach((li, i) => li.setAttribute("aria-selected", String(i === at)));
+    list.children[at].scrollIntoView({ block: "nearest" }); inp.setAttribute("aria-activedescendant", `${id}-${at}`);
+  };
+  inp.addEventListener("input", show);
+  inp.addEventListener("focus", show);
+  inp.addEventListener("blur", close);
+  inp.addEventListener("keydown", e => {
+    if (e.key === "ArrowDown") { e.preventDefault(); list.hidden ? show() : move(1); }
+    else if (e.key === "ArrowUp") { e.preventDefault(); move(-1); }
+    else if (e.key === "Enter" && !list.hidden && at >= 0) { e.preventDefault(); e.stopImmediatePropagation(); pick(hits[at]); }
+    else if (e.key === "Escape") close();
+  });
+  return wrap;
+}
+// a filter box: picking fills in the full name and filters as if it was typed
+const suggestFill = inp => suggest(inp, it => { inp.value = it.name; inp.dispatchEvent(new Event("input")); });
 const variantTxt = it => it.cat === "pets" ? `${VAR[S.var]} ${POT[S.pot]}` : it.cat;
 
 // ---- Values table ----
@@ -620,6 +678,7 @@ function drawItem() {
     s === "A" && (it.Ad || []).length ? h("caption", { class: "note", style: "caption-side:bottom;text-align:left;padding-top:6px" },
       "Dotted values are calculated by AMVGG from the fly ride value, not listed separately.") : null));
   const activity = h("section", { class: "section" }, h("h2", {}, "Trading activity"), h("p", { class: "empty" }, "Loading…"));
+  const latest = h("section", { class: "section" });  // order: trading activity, value histories, then the latest trades
   const outlook = pet ? h("section", { class: "section" }) : null;
   const charts = ["E", "A"].map(s => {
     const el = h("div", { class: "chart" });
@@ -640,9 +699,10 @@ function drawItem() {
     outlook,
     activity,
     ...charts.map(c => c[0]),
+    latest,
     h("p", { class: "note" }, "The two lists use different scales, so compare an item with other items on the same list. Elvebredd's log starts in September 2023 and AMVGG's in June 2026; a few variants were changed without being logged, so their chart is hidden."));
   charts.forEach(c => c[1]());
-  drawActivity(activity, it);
+  drawActivity(activity, it, latest);
   if (outlook) drawForecast(outlook, it);
 }
 
@@ -739,7 +799,7 @@ const nameChip = ([name, badge, n]) => {
   return h("span", { class: "chip click", title: `${name}${pet ? " · " + keyTxt(it, k) : ""}`, role: "link", tabindex: 0,
     onclick: () => { if (pet) [S.var, S.pot] = k.split("-"); openItem(it); } }, icon(it), label, pet ? bdgs(badgeTags(k)) : null);
 };
-async function drawActivity(box, it) {
+async function drawActivity(box, it, latestBox) {
   if (!ACT) {
     try { ACT = await fetch("activity.json").then(r => r.json()); }
     catch { box.replaceChildren(h("h2", {}, "Trading activity"), h("p", { class: "empty" }, "Couldn't load trading activity.")); return; }
@@ -781,11 +841,12 @@ async function drawActivity(box, it) {
     const [x, y] = w[s], d = Math.round((y / x - 1) * 100);
     return `${SRC[s]} ${fmt(x)} ⇄ ${fmt(y)}${Math.abs(d) < 5 ? " (fair)" : ` (${d > 0 ? "first" : "second"} side got ${Math.abs(d)}% more)`}`;
   }).join(" · ") || "Not every item has a value on either list");
-  const recent = a.r.length ? h("div", { class: "card", style: "gap:0" }, h("span", { class: "label" }, "Latest trades with this item"),
+  const recent = a.r.length ? h("div", { class: "card", style: "gap:0" },
     a.r.map(([t, x, y, w]) => h("div", { class: "rtrade" }, h("span", { class: "when" }, `${ago(t)} · ${t.replace("T", " ")} UTC`), worthLine(w),
       h("div", { class: "chips" }, x.map(nameChip)), h("div", { class: "arrow", "aria-hidden": "true" }, "⇄"), h("div", { class: "chips" }, y.map(nameChip)))))
     : h("p", { class: "empty" }, `No completed AMVGG trades with this item in the last ${ACT.days} days.`);
-  box.replaceChildren(h("h2", {}, "Trading activity"), h("div", { class: "acts" }, cards), recent,
+  latestBox.replaceChildren(h("h2", {}, "Latest trades"), recent);
+  box.replaceChildren(h("h2", {}, "Trading activity"), h("div", { class: "acts" }, cards),
     h("p", { class: "note" }, "Completed trades come from AMVGG's trade page, checked every few minutes; a busy hour can slip through. Offers are sampled from both sites' trade centres, so compare wanted against offered rather than the raw counts. Trader names are left out."));
 }
 
@@ -912,14 +973,27 @@ async function drawRecord() {
     h("p", { class: "note" }, `Every day the model calls each pet's Elvebredd value for the next ${R.horizon} days. Each day's calls are saved, and ` +
       `${R.horizon} days later they are checked against Elvebredd's actual value. These are real calls made before the outcome, ` +
       `unlike the test figures, which come from replaying the past.`)];
+  const pct = x => x == null ? "–" : pctTxt(100 * x);
+  // live trial: the same model plus AMVGG's value moves, scored on the same days as the real one (build_site.py "trial")
+  const T = blk(recH).trial, trial = !T || !T.amvgg.days_logged ? null : h("div", { class: "card", style: "margin-top:12px" },
+    h("span", { class: "label" }, "Trial: the same model plus AMVGG's value moves"),
+    !T.amvgg.days_scored
+      ? h("span", { class: "sub" }, `${T.amvgg.days_logged} daily forecast${T.amvgg.days_logged === 1 ? "" : "s"} saved since ${d(T.amvgg.first)}; first results ${d(T.amvgg.next_result)}.`)
+      : h("div", { class: "tablewrap" }, h("table", {},
+        h("thead", {}, h("tr", {}, ["", "Up calls right", "Down calls right", "Top 20 change", "Days"].map((t, i) => h("th", { class: i ? "num" : "" }, t)))),
+        h("tbody", {}, [["Real forecast", T.real], ["With AMVGG", T.amvgg]].map(([n, X]) => h("tr", {}, h("td", {}, n),
+          h("td", { class: "num" }, X.up_calls ? `${pc(X.up_rate)} (${X.up_hits}/${X.up_calls})` : "–"),
+          h("td", { class: "num" }, X.down_calls ? `${pc(X.down_rate)} (${X.down_hits}/${X.down_calls})` : "–"),
+          h("td", { class: "num" }, pct(X.top20)), h("td", { class: "num" }, X.days_scored)))))),
+    h("span", { class: "sub" }, "AMVGG's change log only starts in June 2026, too short to prove in a backtest, so this version runs live alongside " +
+      "the real one and isn't shown anywhere else. If it keeps doing better over a few months, it becomes the real forecast."));
   if (!R.days_scored) {
     box.replaceChildren(...head, h("div", { class: "acts" },
       card("Daily forecasts saved", R.days_logged.toLocaleString(), `since ${d(R.first)}`),
       card("First results", d(R.next_result), `when the first forecast's ${R.horizon} days are over`),
-      card("To beat (from tests)", `${pc(bt.up_precision)} · ${pc(bt.down_precision)}`, `"likely up" calls that rose ${fp}%+ · "likely down" calls that dropped ${fp}%+`)));
+      card("To beat (from tests)", `${pc(bt.up_precision)} · ${pc(bt.down_precision)}`, `"likely up" calls that rose ${fp}%+ · "likely down" calls that dropped ${fp}%+`)), trial);
     return;
   }
-  const pct = x => x == null ? "–" : pctTxt(100 * x);
   box.replaceChildren(...head, h("div", { class: "acts" },
       card(`"Likely up" calls that rose ${fp}%+`, pc(R.up_rate), `${R.up_hits.toLocaleString()} of ${R.up_calls.toLocaleString()} · ${vs(R.up_rate, bt.up_precision)}`, "up"),
       card(`"Likely down" calls that dropped ${fp}%+`, pc(R.down_rate), `${R.down_hits.toLocaleString()} of ${R.down_calls.toLocaleString()} · ${vs(R.down_rate, bt.down_precision)}`, "down"),
@@ -931,7 +1005,7 @@ async function drawRecord() {
         h("td", { class: "num" }, x.up_calls ? `${x.up_hits} / ${x.up_calls}` : "–"), h("td", { class: "num" }, x.down_calls ? `${x.down_hits} / ${x.down_calls}` : "–"),
         h("td", { class: "num" }, pct(x.top20)), h("td", { class: "num" }, pct(x.all))))))),
     h("p", { class: "note" }, `Daily forecasts overlap (each covers ${R.horizon} days), so neighbouring days share most of their outcome; ` +
-      "judge the record over months, not days. Values come from this site's own checks of Elvebredd's list."));
+      "judge the record over months, not days. Values come from this site's own checks of Elvebredd's list."), trial);
 }
 function monthlyChart(el) {
   const parse = d3.utcParse("%Y-%m"), M = STATS.monthly;
@@ -978,8 +1052,8 @@ function drawCompare() {
     const list = sides[sd];
     const inp = h("input", { class: "input", list: "names", placeholder: "Add an item…", "aria-label": `Add an item to side ${"AB"[n]}`, autocomplete: "off" });
     const tryAdd = () => { const it = BYLOWER.get(inp.value.trim().toLowerCase()); if (it) { addTo(sd, it, `${S.var}-${S.pot}`); render(); } };
-    inp.addEventListener("input", e => { if (!e.inputType || e.inputType === "insertReplacementText") tryAdd(); });
-    inp.addEventListener("keydown", e => { if (e.key === "Enter") tryAdd(); });
+    const box = suggest(inp, it => { addTo(sd, it, `${S.var}-${S.pot}`); render(); });  // before tryAdd's Enter, so a picked suggestion wins
+        inp.addEventListener("keydown", e => { if (e.key === "Enter") tryAdd(); });
     const rows = list.map((e, i) => h("tr", {},
       h("td", { class: "icocell" }, icon(e.it)),
       h("td", {}, h("div", { class: "nm", style: "cursor:pointer", onclick: () => { if (e.it.cat === "pets") [S.var, S.pot] = e.k.split("-"); openItem(e.it); } }, e.it.name),
@@ -989,7 +1063,7 @@ function drawCompare() {
     const tot = ["A", "E"].map(s => total(list, s));
     return h("div", { class: "card side" },
       h("h2", {}, `Side ${"AB"[n]}`, list.length ? h("button", { class: "x", style: "font-size:13px", onclick: () => { S[sd] = ""; render(); } }, "Clear") : null),
-      inp,
+      box,
       list.length ? h("div", { class: "tablewrap" }, h("table", {},
         h("thead", {}, h("tr", {}, h("th", { class: "icocell" }), h("th", {}, "Item"), h("th", { class: "num" }, "AMVGG"), h("th", { class: "num" }, "Elvebredd"), h("th"))),
         h("tbody", {}, rows, h("tr", { class: "tot" }, h("td"), h("td", {}, "Total"),
@@ -1247,6 +1321,7 @@ document.querySelectorAll(".seg[data-key]").forEach(g => g.addEventListener("cli
 document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => { S.tab = b.dataset.tab; S.item = ""; render(); }));
 let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.q = e.target.value; render(); }, 150); });
 let aqt;
+for (const id of ["ag", "ak", "wq"]) suggestFill($("#" + id));
 for (const id of ["ag", "ak", "amin", "wq"]) $("#" + id).addEventListener("input", e => { clearTimeout(aqt); aqt = setTimeout(() => { S[id] = e.target.value; render(); }, 200); });
 $("#admore").addEventListener("click", () => render(false));
 $("#wmore").addEventListener("click", () => render(false));
@@ -1264,7 +1339,6 @@ fetch("data.json").then(r => r.json()).then(d => {
   BYNAME = new Map(d.items.map(i => [i.name, i]));
   BYLOWER = new Map(d.items.map(i => [i.name.toLowerCase(), i]));
   BYSLUG = new Map(d.items.map(i => [slug(i.name), i]));
-  $("#names").replaceChildren(...[...BYNAME.keys()].sort().map(n => h("option", { value: n })));
   const cats = [...new Set(d.items.map(i => i.cat))].sort((a, b) => (a !== "pets") - (b !== "pets") || a.localeCompare(b));
   for (const id of ["#cat", "#wc"]) $(id).append(h("option", { value: "all" }, "All categories"), ...cats.map(c => h("option", { value: c }, c[0].toUpperCase() + c.slice(1))));
   const nA = d.items.filter(i => Object.keys(i.A).length).length, nE = d.items.filter(i => Object.keys(i.E).length).length;

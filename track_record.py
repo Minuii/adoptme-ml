@@ -65,10 +65,13 @@ def score_day(rows, base, after, key, flat=0.05):
             "top20": mean(top), "all": mean([m for _, m in moves])}
 
 
-def record(log_folder, snapshots, checked_at, key, horizon=HORIZON):
+def record(log_folder, snapshots, checked_at, key, horizon=HORIZON, only_days=None):
+    """Scored days, days still waiting, and pooled totals. checked_at: when the bot last read the lists (datetime UTC).
+    only_days: score just these as-of days (to compare two models on the same days)."""
     flat = FLAT_PCT.get(horizon, 0.05)
-    """Scored days, days still waiting, and pooled totals. checked_at: when the bot last read the lists (datetime UTC)."""
     log = load_log(log_folder)
+    if only_days is not None:
+        log = {d: rows for d, rows in log.items() if d in only_days}
     scored, waiting = [], []
     for d, rows in sorted(log.items()):
         start = datetime(d.year, d.month, d.day, tzinfo=timezone.utc) + timedelta(days=1)  # end of the as-of day

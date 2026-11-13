@@ -315,7 +315,10 @@ def lines(folder, pattern="*.jsonl"):
 # 2026-11-11; unsure pairs (Copter Hat/Cap, Fly-A-Pet Potion/... Forever) are left unmatched.
 NAME_ALIASES = {"magpie wings": "mapgie wings", "eco brown earth wizard hat": "eco brown eath wizard hat",
                 "velvet fuchsia mega neon paint": "velvet fuschia mega neon paint", "ruddy duck waddler": "ruddy ducky waddler",
-                "chihuaha": "chihuahua"}
+                "chihuaha": "chihuahua",
+                # Elvebredd's names for AMVGG's "Fly-A-Pet Potion" / "Ride-A-Pet Potion" (same item: the two lists'
+                # values differ by the ~170x scale gap every other potion shows)
+                "fly a pet potion forever": "fly a pet potion", "ride a pet potion forever": "ride a pet potion"}
 
 
 def item_key(name):

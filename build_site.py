@@ -384,6 +384,15 @@ checked_at = datetime.strptime(checked_txt, "%Y-%m-%dT%H%MZ").replace(tzinfo=tim
 forecast["record"] = record(DATA.parent / "results" / "forecast_log" / "30d", elve_snaps, checked_at, key)
 for h, block in forecast["h"].items():  # 7 and 90 days: their own records (7 days gives results weekly)
     block["record"] = record(DATA.parent / "results" / "forecast_log" / f"{h}d", elve_snaps, checked_at, key, int(h))
+# live trial: the same model plus AMVGG's value moves (elve_model.py forecast amvgg), scored on the days it has, next to
+# the real model scored on those same days. Never shown as a forecast.
+from track_record import load_log
+for h, block in (("30", forecast), *forecast["h"].items()):
+    tdir = DATA.parent / "results" / "forecast_log" / f"{h}d_amvgg"
+    if tdir.exists() and "record" in block:
+        days = set(load_log(tdir))
+        block["trial"] = {"amvgg": record(tdir, elve_snaps, checked_at, key, int(h)),
+                          "real": record(DATA.parent / "results" / "forecast_log" / f"{h}d", elve_snaps, checked_at, key, int(h), days)}
 print("track record:", {k: v for k, v in forecast["record"].items() if k != "days"})
 (SITE / "forecast.json").write_text(json.dumps(forecast, separators=(",", ":")), encoding="utf-8")
 print(len(forecast.get("items", {})), "pets with a 30-day direction call, as of", forecast.get("asof", "-"), "| other horizons:",

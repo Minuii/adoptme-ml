@@ -17,6 +17,8 @@ using only Elvebredd's own change log (no AMVGG, no trades yet).
                                     # the newest day up / flat / down -> results/direction_<H>d.csv (the site shows it;
                                     # the daily forecast workflow runs H=30), and keeps a copy in results/forecast_log/<H>d/<day>.csv.gz
                                     # for the live track record (track_record.py). ~10 min, ~5 GB RAM.
+    python elve_model.py forecast amvgg  # live trial: the same plus AMVGG's value moves -> direction_<H>d_amvgg.csv and
+                                    # forecast_log/<H>d_amvgg/ (not shown as a forecast; the Stats tab scores it against the real one)
 
 Only pets that AMVGG also lists (802) are modelled. AMVGG's value moves are tested in `amvgg` mode only (short history);
 trades are not features yet.
@@ -312,8 +314,9 @@ def walk_forward(df, feature_sets=None, last=None):
     return pd.DataFrame(rows), imp
 
 
-def add_groups(df, V, groups):
-    """Merge extra feature groups ("offers", "events") and keep only days where every group exists."""
+def add_groups(df, V, groups, optional=()):
+    """Merge extra feature groups ("offers", "events", "amvgg") and keep only days where every group exists, except the
+    groups in `optional`: those are left blank (NaN) before they start, and the rows are kept."""
     pets = sorted(set(V.columns.get_level_values("name")))
     cols, start = {}, df.day.min()
     for g in groups:
@@ -328,7 +331,8 @@ def add_groups(df, V, groups):
             X, on = event_features(V.index, pets), ["day", "name"]
         cols[g] = [c for c in X.columns if c not in ("day", "name", "kind")]
         df = df.merge(X, on=on, how="left")
-        start = max(start, X.loc[X[cols[g]].notna().any(axis=1), "day"].min())  # first day this group exists
+        if g not in optional:
+            start = max(start, X.loc[X[cols[g]].notna().any(axis=1), "day"].min())  # first day this group exists
         if g == "amvgg":  # how far AMVGG has moved ahead of Elvebredd: above 0 = AMVGG rose more (or fell less)
             df["gg_lead_7"], df["gg_lead_30"] = df.gg_ret_7 - df.ret_7, df.gg_ret_30 - df.ret_30
             cols[g] += ["gg_lead_7", "gg_lead_30"]
@@ -473,7 +477,7 @@ def size_main(df, feats, V, lab, last):
     print(bsum.round(3).to_string())
 
 
-def forecast_main(df, feats, V):
+def forecast_main(df, feats, V, tag=""):
     """Today's direction call per pet variant, for the site. Same model as in both mode (whose walk-forward results are
     the backtest the site quotes): "gradient boosting + offers + events", except at 90 days, where "logistic regression +
     offers + events" tested clearly better (2026-11-13: up precision 52% vs 37%, top 20 +25% vs +18% per 90 days).
@@ -496,13 +500,13 @@ def forecast_main(df, feats, V):
     fc["call"] = np.array(["down", "flat", "up"])[P.argmax(1)]
     fc = fc.sort_values("p_up", ascending=False).round(4)
     OUT.mkdir(exist_ok=True)
-    path = OUT / f"direction_{H}d.csv"
+    path = OUT / f"direction_{H}d{tag}.csv"
     with path.open("w", encoding="utf-8", newline="") as fh:
         fh.write(f"# as of {newest.date()} (end of day UTC), {H} days ahead, trained on {data.day.min().date()} to "
                  f"{data.day.max().date()}, {len(data):,} rows, {name}\n")
         fc.to_csv(fh, index=False, lineterminator="\n")
     # keep every day's calls, so they can be scored once their outcome is known (track_record.py, the site's Stats tab)
-    log_dir = OUT / "forecast_log" / f"{H}d"
+    log_dir = OUT / "forecast_log" / f"{H}d{tag}"
     log_dir.mkdir(parents=True, exist_ok=True)
     fc[["name", "label", "value", "p_down", "p_flat", "p_up", "call"]].to_csv(
         log_dir / f"{newest.date()}.csv.gz", index=False, lineterminator="\n", compression={"method": "gzip", "mtime": 0})
@@ -518,11 +522,14 @@ def main():
           f"{len(df):,} rows; down/flat/up = {lab.round(3).tolist()}", flush=True)
     mode = sys.argv[1] if len(sys.argv) > 1 else ""
     out, title = "elve_model", "Elve-only model"
-    last = int(sys.argv[2]) if len(sys.argv) > 2 else None
+    last = int(sys.argv[2]) if len(sys.argv) > 2 and sys.argv[2].isdigit() else None
     if mode == "forecast":
         base = [c for c in df.columns if c not in NOT_FEATURES]
-        df, cols = add_groups(df, V, ("offers", "events"))
-        forecast_main(df, base + [c for cs in cols.values() for c in cs], V)
+        # "forecast amvgg": the live trial. Same model and rows as the real forecast, plus AMVGG's value moves (blank
+        # before 2026-07, when AMVGG's log starts). Saved apart and scored against the real one (track_record.py).
+        trial = "amvgg" in sys.argv[2:]
+        df, cols = add_groups(df, V, ("offers", "events") + (("amvgg",) if trial else ()), optional=("amvgg",))
+        forecast_main(df, base + [c for cs in cols.values() for c in cs], V, "_amvgg" if trial else "")
         return
     if mode == "size":
         base = [c for c in df.columns if c not in NOT_FEATURES]

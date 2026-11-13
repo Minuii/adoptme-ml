@@ -17,7 +17,7 @@ concurrency:
 jobs:
   forecast:
     runs-on: ubuntu-latest
-    timeout-minutes: 90  # ~10-15 min per horizon: features, one boosting fit on ~1.4M rows
+    timeout-minutes: 150  # ~10-15 min per run: features, one boosting fit on ~1.4M rows (3 real + 2 trial runs)
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
@@ -28,13 +28,17 @@ jobs:
       - run: |
           H=30 python elve_model.py forecast  # item pages and the track record need this one
           for h in 7 90; do H=$h python elve_model.py forecast || echo "::warning::the $h-day forecast failed; the panel keeps the last one"; done
+      - name: Live trial with AMVGG features (scored on the Stats tab; never blocks the real forecast)
+        continue-on-error: true
+        run: |
+          for h in 7 30; do H=$h python elve_model.py forecast amvgg || echo "::warning::the $h-day AMVGG trial failed"; done
       - name: Commit the forecast
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p "$RUNNER_TEMP/keep" && cp results/direction_*d.csv "$RUNNER_TEMP/keep/" && cp -r results/forecast_log "$RUNNER_TEMP/forecast_log"
+          mkdir -p "$RUNNER_TEMP/keep" && cp results/direction_*.csv "$RUNNER_TEMP/keep/" && cp -r results/forecast_log "$RUNNER_TEMP/forecast_log"
           for attempt in 1 2 3; do
-            git add results/direction_*d.csv results/forecast_log
+            git add results/direction_*.csv results/forecast_log
             git diff --cached --quiet && exit 0
             git commit -q -m "forecast: as of $(head -1 results/direction_30d.csv | cut -d' ' -f4)"
             git pull -q --rebase && git push -q && exit 0
