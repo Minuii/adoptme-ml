@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 19:55 UTC by the scrape workflow._
+_Updated 2026-11-13 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 41,370 | 2026-11-13T19:45 |
-| elve | 3 | 8,510 | 2026-11-13T19:45 |
+| amvgg | 3 | 41,638 | 2026-11-13T20:00 |
+| elve | 3 | 8,566 | 2026-11-13T20:01 |
 
-## AMVGG completed trades: 9,300 total
+## AMVGG completed trades: 9,342 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,467 |
+| 2026-11-13 | 3,509 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:55 | **kroko182**: Rabbit (MFR), Jumpscare | **Frs1357959**: Ride-A-Pet Potion |
-| 19:55 | **Henni153**: Matcha Cat (M), Jellyfish (NR), Cake Friend (M) | **SkaterPlayzQueen2016**: Parrot |
-| 19:55 | **pandita11029**: Pupcicle ×4, Purrowl, Toasty Red Panda, Huntsman Robin | **BentheBessy**: Pupcicle (N) |
-| 19:55 | **Hany_YT10**: Chocolate Chow-Chow (R), Thunderfisher, Huntsman Robin | **Hearts4taylor48**: Pupcicle |
-| 19:55 | **fa_yp**: Bush Elephant (R), Count Slothula (N), Pancake Stack, Ride-A-Pet Potion ×3, Cattuccino (N) | **ClxudsandRxin**: Goat (NFR) |
-| 19:55 | **kimm1honey**: Stygian Owl (N), Winter Doe (R), Ghost (N), Gecko Ducky (N), Milk Choccybunny (N), Poodle (N) | **Hearts4taylor48**: Pupcicle |
-| 19:55 | **xd_xd3493**: Royal Mistletroll (FR) | **queenmaya773**: Turtle (FR) |
-| 19:55 | **iqtxlia**: Unicorn (MFR), Frost Fury (FR), Cheetah (R), Ride-A-Pet Potion ×2 | **wskdaks**: Turtle (FR) |
-| 19:55 | **larisochka_gudeeva98**: Count Slothula, Angus Bull | **xchainsawz**: Ride-A-Pet Potion |
-| 19:55 | **robloxer_3614**: Hedgehog (R), Ride-A-Pet Potion | **rilaxlly**: Hedgehog (FR) |
-| 19:55 | **flameruby3**: Caelum Cervi (R), Tiny Wings | **manuaxolotyorignl**: Albino Monkey (FR) |
-| 19:50 | **Quean_33**: Pupcicle (N) | **LovelyGirl23033**: Ride-A-Pet Potion ×5 |
-| 19:50 | **BananaSzymonKing**: Kangaroo (NFR), Turtle (FR) | **xnaeroad**: Chocolate Chip Bat Dragon (FR) |
-| 19:50 | **Alice2014afimina**: Sushi Penguin, Thunderfisher ×3 | **KittyShay33**: Count Slothula, Winter Fawn, Cattuccino ×2, Bolt |
-| 19:50 | **picucurt123456**: Evil Unicorn (FR) | **36kliar**: Cow (FR) ×3 |
+| 20:00 | **thomaspeter1**: Jester Dragon (R) | **Sonch_pikmee**: Water Moon Bear (NR), Musk Ox (NR), Metal Ox (N), Ocelot (M), Chihuahua, Garden Egg, Aztec Egg ×2, Desert Egg |
+| 20:00 | **pisapopakakashecki**: Ride-A-Pet Potion ×6, Bat Backpack | **cjdnshdjaxn**: Copycat |
+| 20:00 | **Aidanspencer10**: Ride-A-Pet Potion ×10 | **K1MM007**: Chihuahua (MFR) |
+| 20:00 | **Biscvidi29**: Ride-A-Pet Potion ×6 | **yomoiki**: Gingerbread Reindeer (MR) |
+| 20:00 | **itsmeRa3lyn**: Siamese Cat (MFR) | **Adorellex1**: Munchkin Cat (M), Great Pyrenees (MFR) |
+| 20:00 | **gyjdqevjaex**: Lava Racer | **Vicmat36**: Axel |
+| 20:00 | **NLin_126**: Gecko Ducky (N), Purrowl, Hopbop (N), Thunderfisher ×3 | **Hearts4taylor48**: Ride-A-Pet Potion |
+| 20:00 | **pushenn112**: Spring Bunny Nose, Propeller Hat, Thunderfisher ×2 | **B1nnie2**: Spring Bunny Hood |
+| 20:00 | **Gxlhsp80**: Cryptid (MFR) | **Cinzsins**: Giraffe (FR), Crow, Lion Cub (MFR), Strawberry Shortcake Bat Dragon (R), Turtle (NFR), Goose (FR), Flamingo (FR), 2022 Birthday Party Horn, Flamingo (NFR), Cabbit (FR), Fairy Bat Dragon (FR) |
+| 20:00 | **Yo_k4wai**: Cow (NFR), Chick (MFR) | **74xTruthss**: Peppermint Penguin (FR), Candicorn (NFR) |
+| 20:00 | **daria7581659**: Werewolf (FR), Evil Unicorn Sticker | **NastiGora**: Pupcicle ×14 |
+| 20:00 | **Flashbook6**: Parrot (NFR) | **autumn09200**: Cryptid (NFR), Cow (NFR), Clover Cow (MR) |
+| 20:00 | **Slender202404**: Pupcicle ×7 | **bloomysweetea**: Munchkin Cat |
+| 20:00 | **n0fxxl1ngs**: Jumping Spider (M) | **jauzyp**: Pupcicle |
+| 20:00 | **8_lsr**: Tiny Wings, Spring Bunny Hood, Bready Necklace | **Laryxn00**: Rain Cloud Hat |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
