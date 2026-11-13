@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 08:55 UTC by the scrape workflow._
+_Updated 2026-11-13 09:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 08:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 30,925 | 2026-11-13T08:45 |
-| elve | 3 | 6,163 | 2026-11-13T08:45 |
+| amvgg | 3 | 31,118 | 2026-11-13T09:00 |
+| elve | 3 | 6,235 | 2026-11-13T09:01 |
 
-## AMVGG completed trades: 6,879 total
+## AMVGG completed trades: 6,884 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,046 |
+| 2026-11-13 | 1,051 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,11 @@ _Updated 2026-11-13 08:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:00 | **dadjio6alt**: Ride-A-Pet Potion ×2 | **archi_chozza**: Purrowl (M) |
+| 09:00 | **Zydac1**: Gecko, Cow Calf, Toy Poodle | **mxrgan66**: Ride-A-Pet Potion |
+| 09:00 | **pobl_liza200910**: Ride-A-Pet Potion ×8 | **Abvisse**: Aurora Fox (FR) |
+| 09:00 | **OBVHAILE**: Well, Actually Walrus Sticker, Love Letter | **chicaraxyx**: Magic House Door |
+| 09:00 | **NICKNAYF009**: Giraffe (FR), Turtle (FR), Siamese Cat (F), Candyfloss Chick (R) ×2, Kangaroo (R), Crocodile | **odading12318**: Owl (NFR) |
 | 08:55 | **SashaaXD0**: Kaijunior (N), Mole (N), Mummy Spider (N) | **Shehatesme420**: Ride-A-Pet Potion |
 | 08:55 | **addmymain62**: Latte Kitsune (MFR), Ride-A-Pet Potion ×5 | **Xian1730j**: Rainbow Maker, Unicorn Horn |
 | 08:55 | **clearlythorn**: Huntsman Robin ×11 | **liofe1**: Ride-A-Pet Potion |
@@ -38,11 +43,6 @@ _Updated 2026-11-13 08:55 UTC by the scrape workflow._
 | 08:50 | **ThunderLegend680**: Stray Cat Dragon ×7 | **Adrija_05**: Ride-A-Pet Potion |
 | 08:50 | **awsrrex**: Snow Cat (N), Pandaguin Glooptodog (N), Alicorn, Thunderfisher, Black Tiger ×3, Corgi, Skelicorn, Pangolin, Kakapo, Budgie Witch, Princess Mare, Ms. Muffet ×2, Clumpty, Little Lamb ×2 | **liofe1**: Ride-A-Pet Potion |
 | 08:50 | **0qwc0**: Ride-A-Pet Potion ×2, Garden Egg ×5 | **llya3348**: Pain au Chat ×6 |
-| 08:50 | **Dazzzle_1**: Shih Tzu (N), Mouse (N), Dog (N), Rubber Ducky (N), Thunderfisher (N), Sheepdog Ducky | **liofe1**: Ride-A-Pet Potion |
-| 08:40 | **Zuminkikiki**: Werewolf (R) | **AshieTheFriendly**: Candicorn (R), Golden Jaguar (N) |
-| 08:40 | **Flaptzyy_16**: Haetyphoon | **aneliqxs**: Silverback Gorilla ×2 |
-| 08:40 | **xiparo**: Munchkin Cat, Dango Penguins | **zanika_1234**: Haetyphoon |
-| 08:40 | **24681012141618202213**: Rainbow Maker, Rain Cloud Hat | **1Tinker2**: Red Dutch Guinea Pig (MFR), Ice Cream Cone Hat |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
