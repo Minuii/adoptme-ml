@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 14:01 UTC by the scrape workflow._
+_Updated 2026-11-13 14:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 14:01 UTC by the scrape workflow._
 | amvgg | 3 | 35,589 | 2026-11-13T14:00 |
 | elve | 3 | 7,241 | 2026-11-13T14:01 |
 
-## AMVGG completed trades: 7,708 total
+## AMVGG completed trades: 7,749 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,875 |
+| 2026-11-13 | 1,916 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:56 | **fox_100l**: Mini Pig (FR), Siamese Cat (R) | **You_cat84**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:56 | **blindforIove**: Bat Dragon (FR), Candicorn (NR) | **DiamondHunter77777**: Frost Dragon (FR), Owl (FR), Crow (FR), Balloon Unicorn (FR), Jester Dragon (MFR) |
-| 13:56 | **DiamondHunter77777**: Goose (NFR), Fairy Bat Dragon (NFR), Candicorn (NFR), Kangaroo (NFR), Strawberry Shortcake Bat Dragon (FR) ×2, Mini Pig (FR), Peppermint Penguin, Sugar Glider (R), Christmas Pudding Pup (MFR) | **akzoad**: Shadow Dragon (FR) |
-| 13:56 | **DDDDDDDDDDDDD444423**: Copycat (R) | **KPOLIK86**: Pig (R) |
-| 13:56 | **Amy_baum0nice3**: Zodiac Minion Chick (MR) | **ABCDEFDHIJF**: Pet Handler Pro Certificate ×3 |
-| 13:56 | **GrilledCheesee6**: Christmas Pudding Pup (NFR) | **6767mellstroy67**: Haetyphoon, Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3, Emberlight |
-| 13:56 | **xiparo**: Dango Penguins (NR), Ride-A-Pet Potion ×3, 2021 Uplift Butterfly (NR), Ice Cream Cone Hat | **peachmango_41**: Siamese Cat (FR) |
-| 13:56 | **zxl0106**: Albino Monkey (FR) | **Irinavo2010**: Haetyphoon |
-| 13:56 | **Pao_ComRequeijaokkj**: Pet Handler Pro Certificate | **kobii_x**: Halloween Black Axe Guitar Accessory |
-| 13:56 | **Liliaa_Chan**: Otter, Ms. Muffet (N), Red Panda Ducky (N), Gecko Ducky (M), Gecko Ducky (N), Princess Mare (N), Black Tiger (N), Snow Cat (N), Galapagos Sea Lion (N) | **ArtemSer2008**: Ride-A-Pet Potion |
-| 13:56 | **puuuurrrraaawww**: Pancake Stack | **QWERTYUIOP_ASDFG4HJK**: Biodome Home |
-| 13:56 | **puuuurrrraaawww**: Pancake Stack | **QWERTYUIOP_ASDFG4HJK**: Biodome Home |
-| 13:56 | **flears_brai**: Stray Cat Dragon (M) ×5 | **XxRay_Playz2xX**: Fly-A-Pet Potion ×6 |
-| 13:56 | **yshikza**: Ride-A-Pet Potion ×6, Ancient Dragon | **yReehxz**: Christmas Pudding Pup |
-| 13:56 | **altmityanitsa**: Arctic Reindeer (FR) | **cosa_azul**: Frostbite Bear ×3 |
+| 14:11 | **vanyagames_yt**: Sakura Spirit (MFR) ×2, Dragonfruit Fox, Leprechaun Hat | **atr1xry**: Frost Dragon (FR) |
+| 14:11 | **theodorprivat**: Octopus (FR), Princess Capuchin Monkey, Bauble Buddies (N) | **CreamyGalaxyz**: Happy Clam |
+| 14:11 | **Kubikrubik_163**: Fly-A-Pet Potion, Ride-A-Pet Potion ×14 | **upergameoman23**: Kangaroo (R) |
+| 14:11 | **k_sybom**: Hippogriff (FR) | **DASHA0099414**: Ride-A-Pet Potion |
+| 14:11 | **CrystalGlow2400**: Great Pyrenees (M), Dire Wolf (N), Black Moon Bear (N), Ghost Wolf (N), Shetland Pony Dark Brown (N), Icy Porcupine (N), Cherub Chipmunk (N), Mexican Wolf (N), Ocelot (N), Chocolate Labrador (NR), Tegu (M), Dingo (N), Dog (MR), Black-Footed Ferret (N), Poodle (N) ×2, Pandaguin Glooptodog (N), Ratatoskr (N) | **jjuicyz**: Candicorn |
+| 14:11 | **Anorra42**: Ride-A-Pet Potion ×17 | **upergameoman23**: Kangaroo (FR) |
+| 14:11 | **Sq77k**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **Anna_Flora1**: Lion Cub (FR) |
+| 14:11 | **beebodooo**: Phantom Dragon (R), Silly Duck (R), Capybara, Candy Hare, Chocolate Dutch Guinea Pig | **KTO_TU28**: Tortoiseshell Guinea Pig |
+| 14:11 | **Maja82805**: Burger Bear (NFR) | **chmokkino**: Snow Owl (NFR) |
+| 14:11 | **Maja82805**: Black Panther (NFR) | **taigo77**: Ballet Swan (FR) |
+| 14:11 | **Inganta07**: Ride-A-Pet Potion | **Koala_ql**: Dog (MFR) |
+| 14:11 | **Ghostkittyin**: Christmas Pudding Pup (MFR), Siamese Cat (NFR) | **CheeseThePug2**: Siamese Cat (MFR) |
+| 14:11 | **elifanaekinci**: Peachick (N) | **Tireddxox**: English Sheepdog, Jumpscare (N), Hamster |
+| 14:11 | **Madelinnbby**: Sea Slug (NR), Mini Pig (FR) | **HJKGVNib**: Meerkat (MFR) |
+| 14:11 | **Tyyyyy_tyy1**: Burger Bun Hat | **cat_anna2003**: Retired Egg ×9 |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
