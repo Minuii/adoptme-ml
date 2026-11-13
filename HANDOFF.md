@@ -98,9 +98,9 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 ## Next steps
 
 1. **14 Nov:** check that the first automatic `forecast.yml` run (dispatched by the 01:00 UTC scrape run) succeeded and the site's "as of" date moved.
-2. **Live track record: built (2026-11-13), first results 13 Dec.** `forecast.yml` saves each day's calls to `results/forecast_log/30d/<day>.csv.gz` (~33 KB a day); `track_record.py` scores a day once its 30 days are over, from the site's own Elvebredd snapshots, with the backtest's definitions; the Stats tab shows it ("Forecast track record (live)"). Check on 13 Dec that the first day scores, then judge it over months against the test (44% up / 53% down / top 20 +14%).
+2. **Live track record: built (2026-11-13) for 7 / 30 / 90 days; first results 20 Nov (7 d), 13 Dec (30 d), 11 Feb (90 d).** `forecast.yml` saves each day's calls to `results/forecast_log/30d/<day>.csv.gz` (~33 KB a day); `track_record.py` scores a day once its 30 days are over, from the site's own Elvebredd snapshots, with the backtest's definitions; the Stats tab shows it ("Forecast track record (live)"). Check on 13 Dec that the first day scores, then judge it over months against the test (44% up / 53% down / top 20 +14%).
 3. **20 Nov:** the scheduled local task `adoptme-check-7day-top20` fills `checks/top20_rise_7d_2026-11-12.xlsx` and logs the result (one week, 20 pets: a small sample).
-4. **A README** for the public repo (what it is, the live site, how the model is tested, the honest results incl. what failed: AMVGG-first rule, size model, 90 days). The original plan's Phase 5.
+4. README: done (2026-11-13). Keep its results table in step with new tests and the live track record.
 5. **~20 Nov:** check the trades for full-page polls (a poll that finds 90+ new trades); on 13 Nov the page turned over in ~8 minutes at peak, so 5-minute polling has little margin. If needed, 4 polls per run.
 6. **Size and growth:** the git pack is ~53 MB after 3 days (mostly offer files) and `site/data.json` is 3.9 MB. Merge each finished day's offer files into one, and trim own-snapshot history in `data.json` once the logs cover it.
 7. Rerun `python elve_model.py amvgg` (7 and 30 days) monthly; add AMVGG features to the forecast once they've helped over 6+ test months.

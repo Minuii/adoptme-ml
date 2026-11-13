@@ -38,6 +38,13 @@ def test_score_day():
     assert abs(r["all"] - (0.06 + 0.04 - 0.10 + 0) / 4) < 1e-9
 
 
+def test_threshold_follows_the_horizon():
+    base, after = {"cat": {"r-np": 10}}, {"cat": {"r-np": 10.3}}  # +3%: a hit at 7 days (2%), a miss at 30 days (5%)
+    r = rows(("Cat", "default no potion", .7, .1, "up"))
+    assert score_day(r, base, after, key, flat=0.02)["up_hits"] == 1
+    assert score_day(r, base, after, key, flat=0.05)["up_hits"] == 0
+
+
 def test_record_waits_for_the_outcome():
     with tempfile.TemporaryDirectory() as d:
         with gzip.open(Path(d) / "2026-01-01.csv.gz", "wt", encoding="utf-8", newline="") as fh:

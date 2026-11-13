@@ -381,6 +381,8 @@ elve_snaps = [(datetime.strptime(t, "%Y-%m-%dT%H:%M").replace(tzinfo=timezone.ut
 checked_txt = (DATA / "values" / "checked.txt").read_text(encoding="utf-8").strip()
 checked_at = datetime.strptime(checked_txt, "%Y-%m-%dT%H%MZ").replace(tzinfo=timezone.utc)
 forecast["record"] = record(DATA.parent / "results" / "forecast_log" / "30d", elve_snaps, checked_at, key)
+for h, block in forecast["h"].items():  # 7 and 90 days: their own records (7 days gives results weekly)
+    block["record"] = record(DATA.parent / "results" / "forecast_log" / f"{h}d", elve_snaps, checked_at, key, int(h))
 print("track record:", {k: v for k, v in forecast["record"].items() if k != "days"})
 (SITE / "forecast.json").write_text(json.dumps(forecast, separators=(",", ":")), encoding="utf-8")
 print(len(forecast.get("items", {})), "pets with a 30-day direction call, as of", forecast.get("asof", "-"), "| other horizons:",
