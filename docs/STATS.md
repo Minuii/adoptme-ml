@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 17:25 UTC by the scrape workflow._
+_Updated 2026-11-13 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 17:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 38,853 | 2026-11-13T17:15 |
-| elve | 3 | 8,008 | 2026-11-13T17:16 |
+| amvgg | 3 | 39,100 | 2026-11-13T17:30 |
+| elve | 3 | 8,079 | 2026-11-13T17:31 |
 
-## AMVGG completed trades: 8,528 total
+## AMVGG completed trades: 8,573 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,695 |
+| 2026-11-13 | 2,740 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 17:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:21 | **yanaunicorn_23**: Dodo (R), Kitsune (FR) | **aleks2u**: Pupcicle (R), Pupcicle |
-| 17:21 | **internetprincess10**: Giraffe Hat | **liaxcz0**: Pupcicle (MFR) |
-| 17:21 | **gifjdjchxfffjf**: Celebrity Mansion | **KEKS1TOP**: Pupcicle |
-| 17:21 | **MyRealAccIScjh98718**: Rainbow Maker, Pink Cat Ear Headphones, Pink Heart Glasses, Blue Cat Ear Headphones | **T3bas1**: Happy Clam (MFR) |
-| 17:21 | **BudakBaran7**: Ride-A-Pet Potion ×9 | **batspyv**: Pupcicle ×9 |
-| 17:21 | **BananaSzymonKing**: Cow (FR), Turtle (FR), Kangaroo (FR) | **yeetimaheadout7**: Dalmatian (FR) |
-| 17:21 | **AZALEEKA40_TOP123**: Copycat (FR) | **BestAnGeLPop**: Arctic Fox (R) |
-| 17:21 | **QueenBeeFuzzyAlt**: Cabbit (R) | **Ins0mnia4life**: Pupcicle (MFR) |
-| 17:21 | **giovvanna7423**: 2026 Birthday Butterfly (M) | **obsxrvez**: Retired Egg ×18 |
-| 17:21 | **EpicR0cketLi0n**: Sheeeeep (MFR), Dragonfruit Fox (MFR) | **lolghwy3**: Jellyfish (MFR) |
-| 17:21 | **Minnieql**: Fairy Bat Dragon (NFR), Jester Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Hey_itsCloveer**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat (NFR) |
-| 17:21 | **odading12318**: Munchkin Cat (R) | **xXsiimplyblxoomxX**: Fly-A-Pet Potion ×5 |
-| 17:21 | **xXsiimplyblxoomxX**: Crocodile (FR), Fly-A-Pet Potion | **Tyatya03**: Jester Dragon (FR), Copycat (FR) |
-| 17:21 | **xXsiimplyblxoomxX**: Leopard Shark (MR), Ride-A-Pet Potion | **madebybr3e**: Kangaroo (FR), Crocodile (FR) |
-| 17:21 | **235_polinaa**: River Otter (N), Kaijunior (N), Ghost Wolf (N), Gumball Caterpillar (N), Nurse Shark (N), Bolt (N) | **Milalola45alt**: Pupcicle |
+| 17:30 | **rachel1707vp**: Latte Kitsune | **kittyarchivies**: Ride-A-Pet Potion ×3 |
+| 17:30 | **Daniel11122255**: Ride-A-Pet Potion | **Eatemtoes101**: Unicorn |
+| 17:30 | **Xx_juliexn**: Chocolate Dutch Guinea Pig (N), Burger Bun Hat | **22medaa**: Copycat |
+| 17:30 | **22medaa**: Burger Bear | **Kir4kaaa**: Stray Cat Dragon ×6 |
+| 17:30 | **shainikss**: Ride-A-Pet Potion | **marsyasha11**: Pupcicle |
+| 17:30 | **marishka3832**: Evil Unicorn (FR), Flamingo (FR), Kangaroo (R), Crocodile (R), Swan (NFR), Toy Monkey (NFR), Polar Bear (R), Ancient Dragon (MFR), Zombie Wolf (NR) | **SEBY6105**: Parrot (FR) |
+| 17:30 | **uqxiyeol**: Fly-A-Pet Potion | **Lylyputikmummy9**: Sushi Penguin ×2 |
+| 17:30 | **GorobetsZP**: Rose Dragon, Ermine (N) | **OJC_Star45**: Bunny Swirl (N) ×2 |
+| 17:30 | **good_vibesgirl09**: Ride-A-Pet Potion ×3 | **AbstrackDarck**: Pupcicle ×3 |
+| 17:30 | **blobxxfish**: Pupcicle | **michifuBv18462**: Harp Seal |
+| 17:30 | **splashJuggernaut**: Copycat (R) | **JeanineMasudi87**: Santa Hat, Pancake Stack |
+| 17:30 | **Angel_cute1339**: Elephant (FR) | **laur3star**: Arctic Dusk Dragon (NFR) |
+| 17:30 | **Lunaknagg**: Pupcicle | **Fruit_Kittie**: Ride-A-Pet Potion |
+| 17:30 | **irishazu_2014**: Ride-A-Pet Potion | **carolzaothecreator**: Pupcicle |
+| 17:30 | **caxarberdok**: Octopus (NFR), Ride-A-Pet Potion | **janluvxne**: Many Mackerel (R) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
