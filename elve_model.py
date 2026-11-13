@@ -13,6 +13,9 @@ using only Elvebredd's own change log (no AMVGG, no trades yet).
                                     # (amvgg_features.py), plus the "AMVGG moved first" rule as a baseline -> results/amvgg_model.md
     python elve_model.py size [N]   # how much, not just which way: expected % change + 10-90% range (offers + news),
                                     # tested walk-forward -> results/size_model.md, plus results/forecast.csv for today
+    python elve_model.py forecast   # no test: train the offers + news classifier on every row with a known outcome and call
+                                    # the newest day up / flat / down -> results/direction_<H>d.csv (the site shows it;
+                                    # the weekly forecast workflow runs H=30). ~10 min, ~5 GB RAM.
 
 Only pets that AMVGG also lists (802) are modelled. AMVGG's value moves are tested in `amvgg` mode only (short history);
 trades are not features yet.
@@ -469,6 +472,27 @@ def size_main(df, feats, V, lab, last):
     print(bsum.round(3).to_string())
 
 
+def forecast_main(df, feats, V):
+    """Today's direction call per pet variant, for the site. Same model as "gradient boosting + offers + events" in
+    both mode (whose walk-forward results are the backtest the site quotes), trained on every row whose H-day outcome is
+    already known, i.e. up to H days before the newest day."""
+    data = df[df.y >= 0]
+    newest = df.day.max()
+    now = df[df.day == newest]
+    f = varying(data, feats)
+    P = _classifier().fit(data[f].values, data.y.values).predict_proba(now[f].values)
+    fc = now[["name", "label"]].assign(value=np.exp(now.log_value).round(4), p_down=P[:, 0], p_flat=P[:, 1], p_up=P[:, 2])
+    fc["call"] = np.array(["down", "flat", "up"])[P.argmax(1)]
+    fc = fc.sort_values("p_up", ascending=False).round(4)
+    OUT.mkdir(exist_ok=True)
+    path = OUT / f"direction_{H}d.csv"
+    with path.open("w", encoding="utf-8", newline="") as fh:
+        fh.write(f"# as of {newest.date()} (end of day UTC), {H} days ahead, trained on {data.day.min().date()} to "
+                 f"{data.day.max().date()}, {len(data):,} rows, {type(_classifier()).__name__}\n")
+        fc.to_csv(fh, index=False, lineterminator="\n")
+    print(f"{path}: {len(fc)} pet variants as of {newest.date()}; calls:", fc.call.value_counts().to_dict())
+
+
 def main():
     log, first_batch = contiguous_log()
     V, nchg, rarity = daily_values(log)
@@ -479,6 +503,11 @@ def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else ""
     out, title = "elve_model", "Elve-only model"
     last = int(sys.argv[2]) if len(sys.argv) > 2 else None
+    if mode == "forecast":
+        base = [c for c in df.columns if c not in NOT_FEATURES]
+        df, cols = add_groups(df, V, ("offers", "events"))
+        forecast_main(df, base + [c for cs in cols.values() for c in cs], V)
+        return
     if mode == "size":
         base = [c for c in df.columns if c not in NOT_FEATURES]
         df, cols = add_groups(df, V, ("offers", "events"))

@@ -4,7 +4,7 @@ on:
   # Rebuilt every hour by the scrape workflow's :00 run (GitHub's own `schedule:` never fires for this repo), on site edits, or by hand.
   push:
     branches: [main]
-    paths: [site/**, build_site.py]
+    paths: [site/**, build_site.py]  # forecast.yml dispatches a rebuild after each daily forecast
   workflow_dispatch:
 
 permissions:

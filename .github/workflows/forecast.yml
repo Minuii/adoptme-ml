@@ -1,0 +1,46 @@
+name: forecast
+
+on:
+  # Started once a day by the scrape workflow's 01:00 UTC run (after Elvebredd's evening value updates), or by hand.
+  # Trains the 30-day direction model on all data and writes results/direction_30d.csv, which the site's item pages show.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write  # to rebuild the site afterwards
+
+concurrency:
+  group: forecast
+  cancel-in-progress: false
+
+jobs:
+  forecast:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45  # ~10-20 min: features, one boosting fit on ~1.4M rows
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - run: H=30 python elve_model.py forecast
+      - name: Commit the forecast
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp results/direction_30d.csv "$RUNNER_TEMP/direction_30d.csv"
+          for attempt in 1 2 3; do
+            git add results/direction_30d.csv
+            git diff --cached --quiet && exit 0
+            git commit -q -m "forecast: $(head -1 results/direction_30d.csv | cut -c3-22)"
+            git pull -q --rebase && git push -q && exit 0
+            git rebase --abort 2>/dev/null || true
+            git fetch -q && git reset -q --hard origin/main
+            cp "$RUNNER_TEMP/direction_30d.csv" results/direction_30d.csv
+          done
+          exit 1
+      - name: Rebuild the site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"

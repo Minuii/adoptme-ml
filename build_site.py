@@ -243,6 +243,38 @@ activity = {items[k]["name"]: {"t": dict(a["t"]), "o": {s: dict(v) for s, v in a
 print(len(activity), "items with activity,", len(seen_ids), "trades,", ads_n, "offers,",
       round((SITE / "activity.json").stat().st_size / 1e6, 2), "MB")
 
+# ---- Item pages: the model's 30-day direction call (results/direction_30d.csv, written weekly by forecast.yml) ----
+import csv
+
+FC_LABEL = {"default no potion": "r-np", "neon fly ride": "n-fr", "mega fly ride": "m-fr"}  # the 3 predicted variants
+BACKTEST_MODEL = "gradient boosting + offers + events"  # the same model in elve_model.py's both mode (walk-forward test)
+
+
+def mean(xs):
+    xs = [float(x) for x in xs if x not in ("", "nan")]
+    return sum(xs) / len(xs) if xs else None
+
+
+fc_file, bt_file = DATA.parent / "results" / "direction_30d.csv", DATA.parent / "results" / "both_model_30d_folds.csv"
+forecast = {}
+if fc_file.exists():
+    head, *rows = fc_file.read_text(encoding="utf-8").splitlines()
+    fc_items = {}
+    for r in csv.DictReader(rows):
+        it, k = items.get(key(r["name"])), FC_LABEL.get(r["label"])
+        if it and k:
+            fc_items.setdefault(it["name"], {})[k] = [round(float(r["p_up"]), 3), round(float(r["p_down"]), 3), r["call"]]
+    folds = [r for r in csv.DictReader(bt_file.open(encoding="utf-8")) if r["model"] == BACKTEST_MODEL] if bt_file.exists() else []
+    every = "top-20, new picks every 30d"
+    backtest = {"months": len(folds), "first": min((r["month"] for r in folds), default=""), "last": max((r["month"] for r in folds), default=""),
+                "up_precision": mean(r["up precision"] for r in folds), "down_precision": mean(r["down precision"] for r in folds),
+                "top20": mean(r.get(every, "") for r in folds), "all_pets": mean(r["universe mean change"] for r in folds),
+                "months_beating": mean(float(r[every]) > float(r["universe mean change"]) for r in folds
+                                       if r.get(every) not in (None, "", "nan"))} if folds else {}
+    forecast = {"asof": head.removeprefix("# as of ")[:10], "note": head.lstrip("# "), "days": 30, "backtest": backtest, "items": fc_items}
+(SITE / "forecast.json").write_text(json.dumps(forecast, separators=(",", ":")), encoding="utf-8")
+print(len(forecast.get("items", {})), "pets with a 30-day direction call, as of", forecast.get("asof", "-"))
+
 if __name__ == "__main__":  # smoke check: a well-known pet joins across both lists with history
     sd = items[key("Shadow Dragon")]
     assert sd["E"].get("m-fr") and sd["A"].get("m-fr") and sd["hist"]["A"].get("m-fr"), sd

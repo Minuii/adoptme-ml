@@ -136,6 +136,8 @@ tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 .acts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); gap: 12px; }
 .meter { display: flex; height: 6px; border-radius: 3px; overflow: hidden; background: var(--grid); margin-top: 6px; }
 .meter i { display: block; }
+.card[role=button] { cursor: pointer; } .card[role=button]:hover { border-color: var(--faint); }
+.card.fcon { border-color: var(--fg); }
 .rtrade { display: grid; grid-template-columns: 1fr auto 1fr; gap: 10px; align-items: start; padding: 10px 0; border-bottom: 1px solid var(--line); }
 .rtrade:last-child { border-bottom: 0; }
 .rtrade .when { grid-column: 1 / -1; font-size: 12px; color: var(--muted); }
@@ -492,6 +494,7 @@ function drawItem() {
     s === "A" && (it.Ad || []).length ? h("caption", { class: "note", style: "caption-side:bottom;text-align:left;padding-top:6px" },
       "Dotted values are calculated by AMVGG from the fly ride value, not listed separately.") : null));
   const activity = h("section", { class: "section" }, h("h2", {}, "Trading activity"), h("p", { class: "empty" }, "Loading…"));
+  const outlook = pet ? h("section", { class: "section" }) : null;
   const charts = ["E", "A"].map(s => {
     const el = h("div", { class: "chart" });
     return [h("section", { class: "section" }, h("h2", {}, `${SRC[s]} value history`), el, table(s)), () => historyChart(el, it, s)];
@@ -508,11 +511,52 @@ function drawItem() {
         h("div", { class: "cmpadd" }, h("span", { class: "label" }, "Compare:"),
           ["ca", "cb"].map((sd, n) => h("button", { class: "btn", onclick: () => { addTo(sd, it, pet ? `${S.var}-${S.pot}` : "v"); S.item = ""; S.tab = "compare"; scrollTo(0, 0); render(); } },
             `Add to side ${"AB"[n]}`))))),
+    outlook,
     activity,
     ...charts.map(c => c[0]),
     h("p", { class: "note" }, "The two lists use different scales, so compare an item with other items on the same list. Elvebredd's log starts in September 2023 and AMVGG's in June 2026; a few variants were changed without being logged, so their chart is hidden."));
   charts.forEach(c => c[1]());
   drawActivity(activity, it);
+  if (outlook) drawForecast(outlook, it);
+}
+
+// ---- item page: the model's 30-day direction call (site/forecast.json, refreshed weekly) ----
+let FC;
+const FC_KEYS = { "r-np": "Normal No Potion", "n-fr": "Neon Fly Ride", "m-fr": "Mega Fly Ride" };
+const CALL = { up: ["Likely up", "up"], down: ["Likely down", "down"], flat: ["No clear move", "flat"] };
+const pc = x => x == null ? "–" : Math.round(100 * x) + "%";
+async function drawForecast(box, it) {
+  if (!FC) {
+    try { FC = await fetch("forecast.json").then(r => r.json()); } catch { FC = {}; }
+    if (S.item !== it.name) return;
+  }
+  const f = (FC.items || {})[it.name];
+  if (!f) { box.replaceChildren(); return; }  // no call for this pet (not on both lists, or too new)
+  const k = vkey(it), bt = FC.backtest || {}, days = FC.days || 30;
+  const card = key => {
+    const [up, dn, call] = f[key], [txt, cls] = CALL[call], flat = Math.max(0, 1 - up - dn);
+    return h("div", { class: "card" + (key === k ? " fcon" : ""), role: key === k ? null : "button", tabindex: key === k ? null : 0,
+      title: key === k ? null : `Show ${FC_KEYS[key]}`,
+      onclick: key === k ? null : () => { [S.var, S.pot] = key.split("-"); render(); } },
+      h("span", { class: "label" }, FC_KEYS[key] + (key === k ? " · shown above" : "")),
+      h("span", { class: "big " + cls }, txt),
+      h("div", { class: "meter", title: `rise ${pc(up)}, no clear move ${pc(flat)}, drop ${pc(dn)}` },
+        h("i", { style: `width:${100 * up}%;background:var(--up)` }), h("i", { style: `width:${100 * flat}%;background:var(--grid)` }),
+        h("i", { style: `width:${100 * dn}%;background:var(--down)` })),
+      h("span", { class: "sub" }, `rise of 5%+: ${pc(up)} · drop of 5%+: ${pc(dn)}`));
+  };
+  const keys = Object.keys(FC_KEYS).filter(x => f[x]);
+  const months = bt.months ? `${bt.months} months (${bt.first} to ${bt.last})` : "";
+  box.replaceChildren(
+    h("h2", {}, `Next ${days} days: model outlook`),
+    h("div", { class: "acts" }, keys.map(card)),
+    h("p", { class: "note" }, (f[k] ? "" : `The model only calls ${keys.map(x => FC_KEYS[x]).join(", ")}; tap one to switch. `) +
+      `A guess about Elvebredd's value as of ${FC.asof}, from its value history, trade offers and game news. ` +
+      (bt.months ? `In a test over ${months}, its "likely up" calls rose 5%+ within ${days} days ${pc(bt.up_precision)} of the time ` +
+        `and its "likely down" calls dropped 5%+ ${pc(bt.down_precision)} of the time; most values don't move in a month. ` +
+        `Its 20 strongest up calls each month gained ${pctTxt(100 * bt.top20)} on average, against ${pctTxt(100 * bt.all_pets)} for all pets` +
+        (bt.months_beating != null ? `, and did better in ${Math.round(bt.months_beating * bt.months)} of ${bt.months} months. ` : ". ") : "") +
+      "Not a promise: values are set by people and can jump on news."));
 }
 function closeItem() { S.item = ""; render(); }
 

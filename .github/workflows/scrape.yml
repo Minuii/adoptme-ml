@@ -38,6 +38,10 @@ jobs:
         run: |
           if [ $(( 10#$(date -u +%M) )) -lt 15 ]; then
             gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
+            # once a day, after Elvebredd's evening updates: refresh the 30-day forecast (forecast.yml rebuilds the site after)
+            if [ "$(date -u +%H)" = "01" ]; then
+              gh workflow run forecast.yml --ref main --repo "$GITHUB_REPOSITORY"
+            fi
           fi
       # AMVGG's completed-trades page holds ~100 trades: about 17 minutes at peak, so one poll per 15-minute run lost
       # trades (7 of the first 90 runs found the whole page new). Two more polls make it one every 5 minutes.
