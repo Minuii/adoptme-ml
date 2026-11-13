@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 19:46 UTC by the scrape workflow._
+_Updated 2026-11-13 19:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 19:46 UTC by the scrape workflow._
 | amvgg | 3 | 41,370 | 2026-11-13T19:45 |
 | elve | 3 | 8,510 | 2026-11-13T19:45 |
 
-## AMVGG completed trades: 9,256 total
+## AMVGG completed trades: 9,300 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,423 |
+| 2026-11-13 | 3,467 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 19:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:45 | **StreamPlayz508**: Ride-A-Pet Potion | **enhy12345678**: Pupcicle |
-| 19:45 | **Arabik_XD228**: Penguin (R), Water Moon Bear (R), Griffin (R) | **LYIZA_1976**: Fly-A-Pet Potion |
-| 19:45 | **jauzyp**: Pupcicle | **grijfe8r**: Pupcake |
-| 19:45 | **patrimg119**: Latte Kitsune | **daria_buzok**: Ride-A-Pet Potion ×3 |
-| 19:45 | **airiska_iriska3**: Show Pony (M) | **Aslie_17**: Ride-A-Pet Potion |
-| 19:45 | **sakotfzg**: Pupcicle (N), Ride-A-Pet Potion | **doiii_yen**: Midnight Dragon (FR) |
-| 19:45 | **Vikakelera**: Fly-A-Pet Potion | **mamochka_vasha0**: Pupcicle ×2 |
-| 19:45 | **purrriito**: Dragonfruit Fox (N), Alley Cat (FR), Ice Cream Cone Hat, Pancake Stack | **SyndromGG**: Unicorn Horn |
-| 19:45 | **razarvale2z**: Copycat (NFR), Ride-A-Pet Potion | **wskdaks**: Cow (FR) |
-| 19:45 | **MNSATO_CAH**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Bunny Swirl | **Lozi_loz**: Copycat |
-| 19:45 | **tufvfffdjdg**: Matcha Cat, Ice Cream Hermit Crab (R), Dragonfruit Fox, Chocolate Dutch Guinea Pig, Unicorn ×3 | **yRafah_Bloxinha**: Elephant (FR) |
-| 19:45 | **Ruperto_1297**: Goose (FR) | **marishka3832**: Fly-A-Pet Potion ×17 |
-| 19:45 | **Lercheg_nukto**: Shetland Pony Dark Brown (M) | **Chignug17**: Fly-A-Pet Potion |
-| 19:45 | **RandumbCookies**: Bat Dragon (FR), Dango Penguins (MFR), Turtle (NFR) | **Gxlhsp80**: Cryptid (MFR) |
-| 19:45 | **ates_yurek**: Crow (NFR) | **lipgloss**: Alpaca (MFR), Cake Friend (M) |
+| 19:55 | **kroko182**: Rabbit (MFR), Jumpscare | **Frs1357959**: Ride-A-Pet Potion |
+| 19:55 | **Henni153**: Matcha Cat (M), Jellyfish (NR), Cake Friend (M) | **SkaterPlayzQueen2016**: Parrot |
+| 19:55 | **pandita11029**: Pupcicle ×4, Purrowl, Toasty Red Panda, Huntsman Robin | **BentheBessy**: Pupcicle (N) |
+| 19:55 | **Hany_YT10**: Chocolate Chow-Chow (R), Thunderfisher, Huntsman Robin | **Hearts4taylor48**: Pupcicle |
+| 19:55 | **fa_yp**: Bush Elephant (R), Count Slothula (N), Pancake Stack, Ride-A-Pet Potion ×3, Cattuccino (N) | **ClxudsandRxin**: Goat (NFR) |
+| 19:55 | **kimm1honey**: Stygian Owl (N), Winter Doe (R), Ghost (N), Gecko Ducky (N), Milk Choccybunny (N), Poodle (N) | **Hearts4taylor48**: Pupcicle |
+| 19:55 | **xd_xd3493**: Royal Mistletroll (FR) | **queenmaya773**: Turtle (FR) |
+| 19:55 | **iqtxlia**: Unicorn (MFR), Frost Fury (FR), Cheetah (R), Ride-A-Pet Potion ×2 | **wskdaks**: Turtle (FR) |
+| 19:55 | **larisochka_gudeeva98**: Count Slothula, Angus Bull | **xchainsawz**: Ride-A-Pet Potion |
+| 19:55 | **robloxer_3614**: Hedgehog (R), Ride-A-Pet Potion | **rilaxlly**: Hedgehog (FR) |
+| 19:55 | **flameruby3**: Caelum Cervi (R), Tiny Wings | **manuaxolotyorignl**: Albino Monkey (FR) |
+| 19:50 | **Quean_33**: Pupcicle (N) | **LovelyGirl23033**: Ride-A-Pet Potion ×5 |
+| 19:50 | **BananaSzymonKing**: Kangaroo (NFR), Turtle (FR) | **xnaeroad**: Chocolate Chip Bat Dragon (FR) |
+| 19:50 | **Alice2014afimina**: Sushi Penguin, Thunderfisher ×3 | **KittyShay33**: Count Slothula, Winter Fawn, Cattuccino ×2, Bolt |
+| 19:50 | **picucurt123456**: Evil Unicorn (FR) | **36kliar**: Cow (FR) ×3 |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
