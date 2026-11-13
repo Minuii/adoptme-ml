@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 07:16 UTC by the scrape workflow._
+_Updated 2026-11-13 07:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 07:16 UTC by the scrape workflow._
 | amvgg | 3 | 29,635 | 2026-11-13T07:15 |
 | elve | 3 | 5,941 | 2026-11-13T07:16 |
 
-## AMVGG completed trades: 6,710 total
+## AMVGG completed trades: 6,730 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 877 |
+| 2026-11-13 | 897 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 07:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:15 | **Skibiditoiletd797**: Border Collie (NR), Munchkin Cat (N) | **lowerbunny**: Christmas Pudding Pup (N) ×2, Christmas Pudding Pup (NR), Christmas Pudding Pup |
-| 07:15 | **cute_bunny123456p**: Cow (MFR), Silly Duck (MFR), Tanuki (M) | **xiakusu**: Vanilla Penguin (MFR), Mini Pig (NFR), Cow (NFR), Rain Cloud Hat, Mule (MFR), Rose Dragon (N) |
-| 07:15 | **Stxriiko**: Farm Egg, Neon Blue Skateboard | **codey_623**: Dalmatian (FR) |
-| 07:15 | **sangogo8**: Arctic Fox (FR) | **kyle_A1T**: Sakura Spirit (R) |
-| 07:15 | **leras3008976**: Drake, Koala, Sloth, Choco Penguin, Bee, Easter Bunny, Donkey (N), Abyssinian Cat (N), 2026 Birthday Butterfly (N), Ms. Muffet (N), Caramelgeist (N) | **z3rodayer**: Dragonfruit Fox |
-| 07:15 | **valya45667iy553445**: Strawberry Shortcake Bow, Bear Hood, Winter Bow Wings | **q4ietsoul**: Sloth (NFR) |
-| 07:15 | **KsuKsuVzlomali**: Alley Cat | **catgirl718**: Ride-A-Pet Potion ×3 |
-| 07:15 | **meguoiie**: Copycat (NFR) | **ANNrocks15**: Angel Wings |
-| 07:15 | **leesoyul11111111**: Frost Fury (R) | **Sara_WOLF18**: Ride-A-Pet Potion ×5 |
-| 07:15 | **BroccoliCurry**: Hippogriff | **Kir4kaaa**: Skelicorn (N) |
-| 07:15 | **7unziia**: Parrot (NFR), Balloon Unicorn (FR), Kangaroo (FR) ×2 | **TheRoyaleBoys**: Balloon Unicorn (NFR) |
-| 07:15 | **3JlOU_XJlEBUIIlEK**: Hot Doggo | **welove_deborah**: Cow (FR) |
-| 07:15 | **choijis_u**: Ride-A-Pet Potion ×14, Dragon (MFR) | **lildaminii**: Kangaroo (FR) |
-| 07:15 | **afissamuzfirah**: Ride-A-Pet Potion | **sofiadindang**: Unicorn |
-| 07:15 | **electrolytia**: Christmas Pudding Pup (MFR), Cabbit (R) | **peachieskiwi**: African Wild Dog (FR) |
+| 07:25 | **TwistedK1tty**: Parrot (FR), Haetae (FR), Royal Mistletroll (N), Dalmatian (FR) ×2, Glormy Leo (MFR), Candicorn (NFR), Peppermint Penguin (FR), Vampire Dragon (NFR), Strawberry Tortle, Hot Doggo (R), Chocolate Chip Bat Dragon (FR) | **shortkayq**: Bat Dragon (FR) |
+| 07:25 | **shortkayq**: 2022 Birthday Confetti Cannon, Lion Cub | **AndreiVany**: Polar Bear (NFR) |
+| 07:25 | **Leviodas**: Bat (MR) | **sugarsaltacc2_0**: Toasty Red Panda (N), Hydra (NR), Cattuccino (N), Ginger Cat (N), Starfish (N) |
+| 07:25 | **L_person21**: Spring Bunny Hood, Ride-A-Pet Potion ×5 | **CASSIEGL4MSXO**: Tiny Wings |
+| 07:25 | **ShakeRetired**: Stray Cat Dragon (N) ×3 | **xDxvil777**: Fly-A-Pet Potion |
+| 07:25 | **prolugot**: Ride-A-Pet Potion | **CMETANKA30708**: Garden Egg ×10 |
+| 07:25 | **Addmymainaccpls88**: Balloon Unicorn (FR), Cryptid (FR), Giant Panda (FR) ×3, Blazing Lion (FR) ×2, Blazing Lion, Haetae (FR) ×3, Orchid Butterfly (FR), Orchid Butterfly, Haetae (R), Dalmatian (FR) | **dopikop_jo**: Bat Dragon (NFR) |
+| 07:25 | **gthstnr**: German Shepherd (MFR) | **vanyagames_yt**: Yeti (MFR), Purrowl (M) ×2 |
+| 07:25 | **DefonotMariaXOX**: Elephant (NR), Mini Pig (R), Mini Pig, Goose (FR), Cherry-On-Top, Turtle (FR), Siamese Cat (R), Candyfloss Chick (R), Ride-A-Pet Potion, Shrew (R), Elephant, Bee (N) | **Hamishdogecool**: Frost Dragon (FR) |
+| 07:25 | **VanillaChxry**: Giant Panda (FR) | **avervuu**: Balloon Unicorn (FR) |
+| 07:25 | **Inganta07**: Ride-A-Pet Potion | **exorc6ist**: Ram |
+| 07:20 | **elini54321**: Dingo (N), Japan Egg, Lunar Tiger (N) | **themudwizard**: Ride-A-Pet Potion |
+| 07:20 | **Hii_meow13ue**: Toy Monkey (R) | **UltimateLionMantis**: Ride-A-Pet Potion |
+| 07:20 | **luvyerh**: Cow (FR) | **Red_Spider228**: Crocodile (R), Munchkin Cat (R), Pig (R), Ride-A-Pet Potion ×2 |
+| 07:20 | **PuhonaBeri**: Turtle (NFR) ×3, Turtle (FR) ×5 | **xKashaf**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
