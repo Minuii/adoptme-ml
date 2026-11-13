@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 22:55 UTC by the scrape workflow._
+_Updated 2026-11-13 23:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 22:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 44,367 | 2026-11-13T22:45 |
-| elve | 3 | 9,151 | 2026-11-13T22:45 |
+| amvgg | 3 | 44,595 | 2026-11-13T23:00 |
+| elve | 3 | 9,224 | 2026-11-13T23:01 |
 
-## AMVGG completed trades: 10,033 total
+## AMVGG completed trades: 10,080 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 4,200 |
+| 2026-11-13 | 4,247 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 22:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:55 | **Broncurrydurant1234**: Gecko (MR) | **xo1qn**: Chinese Lantern |
-| 22:55 | **OXxLunitaxX0**: Copycat, Tortoiseshell Guinea Pig | **kubetalyn**: Haetyphoon (R) |
-| 22:55 | **fr9aks**: Great Pyrenees (MFR) | **puppypaws_Arthur**: Snowball Pet (MFR) |
-| 22:55 | **d1orkira**: Crystal Egg ×4 | **Thesavage15679**: Golden Dragon |
-| 22:55 | **timefulsorrow**: Kappakid (M) | **antx_evp**: Pupcicle ×4 |
-| 22:55 | **ddolls1nss**: Cherry-On-Top | **kaibodydump**: Pupcicle (MFR) |
-| 22:55 | **0_1Kittens**: Amami Rabbit (MR) | **glorxiiea**: Blue Ringed Octopus (MR), Chihuahua (N) |
-| 22:55 | **kelixnz**: Choco Penguin | **diecoole10976**: Fairytale Egg ×18 |
-| 22:55 | **diecoole10976**: Black Springer Spaniel | **idk_oofy1377**: Lynx |
-| 22:55 | **4qvssz**: Matcha Cat (MFR) | **jumpnowsoren1**: Chef Gorilla (MFR), Fallow Deer (MFR), Angel Wings |
-| 22:55 | **4qvssz**: Hot Doggo (NFR) | **j2v73r**: Owlbear (NFR), Ballet Swan (NFR), Cow (FR), Cabbit, Glormy Hound (NR) |
-| 22:55 | **Noyniya**: Alpaca, Ice Cream Cone Hat, Ride-A-Pet Potion ×3, Thunderfisher | **ExpertChipmunkPro**: Strawberry Tortle |
-| 22:55 | **amvggbunni_won**: Aye Aye (N) | **0MGSARAY**: Aye Aye ×4 |
-| 22:55 | **TwistedK1tty**: Scarecrow Crow (NR) | **Yumi_Rose8**: Fly-A-Pet Potion |
-| 22:55 | **invalid1970**: Mule (NR) | **ani6835**: Shrew (FR) |
+| 23:00 | **Witchperson98**: Christmas Pudding Pup (N), Pig (F), Ride-A-Pet Potion, Tropical Surge Mega Neon Paint | **JoeyPlaysYt19**: Glormy Hound (MFR) |
+| 23:00 | **CrazyDasha910**: Pupcicle | **Quean_33**: Santa's Bow, St Bernard, Maine Coon |
+| 23:00 | **GamerJazmin_Sofi123**: Dragonfruit Fox, Shiver Cone Bait, Scarecrow Box | **Girlieisagirlnow**: Hare |
+| 23:00 | **kaidobson12**: Dalmatian (MFR) ×3, Hedgehog (MFR) ×2, Caterpillar (MFR), Hedgehog (NFR), Black Springer Spaniel (MFR), Chef Gorilla (MFR), Pretty Pony (MFR), Dalmatian (NFR), Amami Rabbit (MFR) | **cannotaffordme**: Bat Dragon (NFR) ×2, Giraffe (NFR) |
+| 23:00 | **6arixia**: Bush Elephant (R), Goat (N), Groundhog | **L_person21**: Candicorn (NFR) |
+| 23:00 | **Xz_CodeOLDriftdLBliz**: Pupcicle (N) | **kitvez**: Pupcicle ×5 |
+| 23:00 | **OwO_5002**: Unicorn (NFR), Ride-A-Pet Potion | **xXNarynaryXx**: Tortuga de la Isla (R) |
+| 23:00 | **Julka_Polska157**: Copycat, Drake, Tan Chow-Chow (N) | **B1nnie2**: Flower Power Duckling (MFR) |
+| 23:00 | **7nillvhatessoren**: Thunderfisher ×3 | **mia123alic**: Christmas Pudding House |
+| 23:00 | **TMDung20**: Ride-A-Pet Potion ×4 | **Mariavxbess**: Puffin |
+| 23:00 | **timefulsorrow**: Unicorn, Toxic Kaijunior | **antx_evp**: Pupcicle |
+| 23:00 | **MYALTACC126618**: Bat Dragon (FR) ×2, Shadow Dragon (FR), Giraffe (FR), Cryptid (FR), Tortoiseshell Guinea Pig | **faizanbhai1**: Shadow Dragon (MFR) |
+| 23:00 | **quietlyangel**: Frostbite Cub (MFR) | **Miss_Akashaii**: Space Whale, Mini Schnauzer, Merry Mistletroll, Chocolate Chow-Chow |
+| 23:00 | **internetv4mpiress**: Cow (FR), Cow (R), Turtle (FR) ×3, Shrew (R), Ride-A-Pet Potion | **TMDung20**: Balloon Unicorn (FR) |
+| 23:00 | **Shadow177755**: Crow (FR), Strawberry Shortcake Bat Dragon (FR), Candicorn (FR), Kangaroo (NFR), Pig (FR), Cupid Dragon (FR) | **sleepy_s0ren**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
