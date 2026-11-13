@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 03:55 UTC by the scrape workflow._
+_Updated 2026-11-13 04:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 03:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 26,491 | 2026-11-13T03:45 |
-| elve | 3 | 5,344 | 2026-11-13T03:45 |
+| amvgg | 3 | 26,710 | 2026-11-13T04:00 |
+| elve | 3 | 5,369 | 2026-11-13T04:01 |
 
-## AMVGG completed trades: 6,291 total
+## AMVGG completed trades: 6,295 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 458 |
+| 2026-11-13 | 462 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,10 @@ _Updated 2026-11-13 03:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:00 | **LunaPlaysYOO**: Spring Bunny Hood | **chickchickboom101**: Leopard Shark, Hamster (FR), Lynx, Chihuahua, Ermine, Maine Coon, Cotton Candy Hat, Ibex |
+| 04:00 | **LunaPlaysYOO**: Reindeer (NR) | **Vyseful**: Red Squirrel (NR), Hamster (NR) |
+| 04:00 | **MM_Cloud**: Stray Cat Dragon ×11 | **deiaziinha**: Ride-A-Pet Potion |
+| 04:00 | **huyichan9130**: Oakee Wizard (M) | **Huge_Soda**: Ride-A-Pet Potion ×2 |
 | 03:50 | **YUUHGETINTOITYUUH**: Magma Moose ×7, Ride-A-Pet Potion ×4 | **Colossious**: Magma Moose (M) |
 | 03:50 | **YUUHGETINTOITYUUH**: Sunglider (MFR) | **Colossious**: Chocolate Dutch Guinea Pig (N), Chocolate Dutch Guinea Pig (R) |
 | 03:50 | **asdfazfe**: Zombie Buffalo (R) | **leoncitoUwU12345**: Jester Dragon |
@@ -39,10 +43,6 @@ _Updated 2026-11-13 03:55 UTC by the scrape workflow._
 | 03:50 | **EpKaneIntenseMonkeys**: Zodiac Minion Chick | **1234noemisuper**: Christmas Pudding House |
 | 03:50 | **BABYCRAC120**: Cockroach (MFR), Pancake Stack | **2M1K0**: Ice Cream Cone Hat |
 | 03:50 | **Blasecific**: Ride-A-Pet Potion ×9, Hopbop (N) | **tufvfffdjdg**: Pig (FR) |
-| 03:45 | **rbwax**: Ornate Horned Frog (N) | **zwombiixz**: Ride-A-Pet Potion |
-| 03:45 | **Lexi_31825**: Candy Hare (NR) | **xXNarynaryXx**: Copycat |
-| 03:45 | **Uwuuuuuuuuu82**: S'mores Raccoon | **etherealstarblaze**: Highland Cow ×2 |
-| 03:45 | **zzzzzzzzzzzimtired**: Kangaroo (FR), Ride-A-Pet Potion ×4 | **kohvhvv**: Siamese Cat (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
