@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 15:01 UTC by the scrape workflow._
+_Updated 2026-11-13 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 15:01 UTC by the scrape workflow._
 | amvgg | 3 | 36,557 | 2026-11-13T15:00 |
 | elve | 3 | 7,483 | 2026-11-13T15:01 |
 
-## AMVGG completed trades: 7,956 total
+## AMVGG completed trades: 7,996 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,123 |
+| 2026-11-13 | 2,163 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:00 | **yReehxz**: Unicorn Horn ×2, Toaster Hat, Pancake Stack, Sushi Skateboard, Banana Hat, Jeff's Nametag | **llivingdreamz**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:00 | **unwravelll**: Alley Cat (MFR), Mule (MFR) | **Lxdyxx**: Dalmatian (FR) |
-| 15:00 | **Fairy_Demon190**: Gold Circle Glasses | **jilljaz**: White Chef Hat |
-| 15:00 | **x3DTON**: Spring Bunny Hood | **Wockillzzz2**: Ride-A-Pet Potion ×4 |
-| 15:00 | **Queeniojah**: 2022 Birthday Party Hat, Spring Bunny Hood, Haetae (R), Fleur De Ice (NR), Phantom Dragon, Copycat | **Reeka_Gorea**: Giant Panda |
-| 15:00 | **larrvqx**: Munchkin Cat (FR), Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×2, Liger (N) | **re_eee0**: Pig (NFR) |
-| 15:00 | **hanb3ki**: Giraffe (FR), Shrew (MFR), Christmas Pudding Pup | **luhv_kvrr**: Owl (NFR) |
-| 15:00 | **afitomear**: Candicorn (R) ×2, Cat (NR) | **xertsaz3465**: Cow (FR) |
-| 15:00 | **C0PHYAK**: Munchkin Cat | **Kitsune102096**: Pig (R) |
-| 15:00 | **Cinzsins**: Bat Dragon (FR) | **dawg1723**: Peppermint Penguin (MFR), Bush Elephant (MFR), Christmas Pudding Pup (MFR), Goose (FR) ×2, Candicorn (NFR), Tiny Wings |
-| 15:00 | **unlimited_food**: Cow (NFR), Werewolf (R), Siamese Cat (FR), Alpaca (FR), Tiny Wings | **sweet7n**: Chocolate Chip Bat Dragon (NFR) |
-| 15:00 | **zoommbbeee**: Burger Boots, White Chef Hat | **KFCBIRD_5**: Ride-A-Pet Potion |
-| 14:55 | **kulveqq**: Munchkin Cat (NR), Munchkin Cat (N), Halloween Evil Dachshund (MFR) | **Hokky_q**: Arctic Reindeer (FR) |
-| 14:55 | **ChannChaa0**: Rain Cloud Hat, Werewolf (R) | **qlltm**: Skeleton Winged Glider, Clementine Owl (N), Cabbit (FR) |
-| 14:55 | **Kir4kaaa**: Maine Coon (M) | **flears_brai**: Stitches (M) ×3 |
+| 15:11 | **mimi_rr01**: Arctic Dusk Dragon (FR) ×2 | **squ_evder**: Winged Tiger (FR) |
+| 15:11 | **AseesCr7GoesBoom**: Strawberry Tortle (M) | **RXL_017**: Owl (NFR) |
+| 15:11 | **love_sry0**: Cow (R) | **WUWWUW_0**: Cabbit (R), Great Pyrenees (NR), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion ×2, Flower Power Duckling (R), Ant (MR) |
+| 15:11 | **alhida040**: Orca | **Lizzzazaaaaaaa**: Retired Egg ×2 |
+| 15:11 | **henrissy0**: Cow (FR) | **NotSweatyOnion**: Fly-A-Pet Potion ×16 |
+| 15:11 | **santiagoxdeleon**: Balloon Unicorn (FR), Mochi Meow (MR) | **MERCEDESE300COUPE**: Chocolate Chip Bat Dragon (NFR) |
+| 15:11 | **sp4rklepinkcupcake**: Chocolate Dutch Guinea Pig (MFR), Count Slothula (M) | **ethereayume**: Chihuahua (MFR), Strawberry Penguin (NFR) |
+| 15:11 | **Qu33nDQCrimsonO19932**: Fossil Egg, Admin Abuse Egg ×5 | **AvaNari2010**: Ride-A-Pet Potion |
+| 15:11 | **NotSweatyOnion**: Cow (FR) | **kittykyo77**: Turtle (FR), Kitsune (NFR), Volcanic Rhino (N), Latte Kitsune (F) |
+| 15:11 | **hj6t_6547**: Strawberry Penguin (R), Cerberus (NFR) | **canta150**: Crocodile (FR) |
+| 15:11 | **rastafarismo10**: Moose Calf (MFR), Dango Penguins (M), Golden Chow-Chow (M), Werewolf (FR) | **Lapiseroch2**: Lion (MFR) |
+| 15:11 | **OfficialBrunette**: Ice Cream Cone Hat, Pet Handler Pro Certificate ×4, Ride-A-Pet Potion ×3 | **helisabet_fabi20**: Kangaroo (FR) |
+| 15:11 | **xilawn2023**: Ride-A-Pet Potion | **laokratia**: Giant Blue Scarab (FR) |
+| 15:11 | **EVGPOP90**: Peacock, Mushroom Friend (R), Diamond Egg | **adam12345c10**: Snow Monkey |
+| 15:11 | **alhida040**: Magpie | **Lizzzazaaaaaaa**: Retired Egg ×2 |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
