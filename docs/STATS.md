@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 16:55 UTC by the scrape workflow._
+_Updated 2026-11-13 17:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 16:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 38,307 | 2026-11-13T16:45 |
-| elve | 3 | 7,879 | 2026-11-13T16:45 |
+| amvgg | 3 | 38,563 | 2026-11-13T17:00 |
+| elve | 3 | 7,953 | 2026-11-13T17:01 |
 
-## AMVGG completed trades: 8,356 total
+## AMVGG completed trades: 8,431 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,523 |
+| 2026-11-13 | 2,598 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 16:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:50 | **celedkaOwO**: Jester Dragon (R) | **RukkaaStore**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Skelicorn ×5 |
-| 16:50 | **ssundylan**: Rain Cloud Hat ×3, 2022 Birthday Confetti Cannon | **cheeskake13**: Turkey (MFR), 2022 Birthday Party Hat |
-| 16:50 | **enchxntedwhispers**: Winter Buck, Bubblegeist, Kraken (R) | **16y97**: Ride-A-Pet Potion |
-| 16:50 | **mariee20_03**: Pupcicle ×2 | **Akieqt9**: Toy Poodle (M) |
-| 16:50 | **noachka_kiss**: Latte Kitsune (R), Sakura Spirit (R) | **Jliana48**: Munchkin Cat (R) |
-| 16:50 | **Dropawer**: Fly-A-Pet Potion ×18 | **julyis456**: Snow Monkey (MFR) |
-| 16:50 | **misu0326S2**: Kitty Bat (NR) | **Anna48941**: Pain au Chat (NR) |
-| 16:50 | **GlitterGremlin_1**: Giraffe (FR), Cow (NFR), Dango Penguins (MFR), Cherry-On-Top, 2022 Birthday Party Hat, Ice Cream Cone Hat, Clover Cow (M), Ground Sloth (MR), Dragon (NFR), Ride-A-Pet Potion ×2 | **PuhonaBeri**: Shadow Dragon (FR) |
-| 16:50 | **Leen124577**: Mini Pig (MFR), Cryptid (MFR), Cryptid (FR) | **6smng**: Shadow Dragon (NFR), Balloon Unicorn, African Wild Dog (FR), Goose (R), Fly-A-Pet Potion |
-| 16:50 | **H4ppy_147**: Cattuccino | **KiraCat_2009**: Oakee ×2 |
-| 16:50 | **yyauigui**: Chickatrice (M) | **iiomqItzUrGurl_Meh11**: Pupcicle ×2 |
-| 16:50 | **molo_kgo**: Fly-A-Pet Potion ×3 | **holacausaanthony123**: Arctic Dusk Dragon (FR) |
-| 16:50 | **Cute_CocoMouse**: 2022 Birthday Party Hat ×3, Unicorn Horn, Rain Cloud Hat, Monkey King (FR), Pancake Stack | **Brais33**: Sakura Spirit (MFR) |
-| 16:50 | **vu7ee**: Mexican Wolf (M), Black Rhino (M), Milk Choccybunny (M) | **DrakeisProYesYes**: Pupcicle |
-| 16:50 | **marishka3832**: Arctic Reindeer (FR), Turtle (R), Elephant (FR), Wolf (NR) | **Ishbalalala1**: Evil Unicorn (FR) |
+| 17:00 | **1an4hn**: Reindeer (R) | **Adoptmestocks3000**: Zombie Wolf |
+| 17:00 | **Lunaknagg**: Unicorn | **yTka2937_2akk**: Pupcicle |
+| 17:00 | **mimiiyxx**: Siamese Cat (R) | **KBNHKA1246**: Unicorn Horn |
+| 17:00 | **Seach3l_1**: Pupcicle | **DVSeyb**: Ride-A-Pet Potion |
+| 17:00 | **lawerrty0**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion | **V4mp_1respitt**: Munchkin Cat (R) |
+| 17:00 | **AwuitadeUva100**: Majestic Pony (N), Pretty Pony (N), Pet Handler Pro Certificate | **Hasiiiiiiiiiiiii**: Border Collie |
+| 17:00 | **Hasiiiiiiiiiiiii**: Pretty Please Snowball Sticker, Mighty Haetyphoon Animated Sticker | **SleepySxturnn**: Pupcicle |
+| 17:00 | **iaMatthieu1**: Candicorn (NFR) ×3 | **gyrex111**: Haetae (FR), Ride-A-Pet Potion ×8, Fly-A-Pet Potion |
+| 17:00 | **simbalove310**: Bubblegeist ×2, Angus Bull ×2 | **Caxapok_Polinka67**: Cat (M), Kirin, Ant (N), Little Lamb ×2, Swordfish ×2, Robot, Zebra |
+| 17:00 | **foovva**: Cow (FR) | **RENZSOMERA**: Turtle (FR), Ride-A-Pet Potion ×8 |
+| 17:00 | **conik12234**: Copycat (F) | **L0VE_SPELLS**: Fly-A-Pet Potion ×4 |
+| 17:00 | **janette640**: Black-Footed Ferret (M) ×2, Liger (MR), Pangolin (M), Oakee Knight (M) ×2, Mexican Wolf (M), Snow Puma (M), Poodle (M), Shih Tzu (M), Princess Mare (M), Frankenfeline (M), Gecko Ducky (M), Red Panda Ducky (M), Rubber Ducky (M), Ride-A-Pet Potion, Pomeranian (N), Water Moon Bear (NR) | **xLavend3rXDr3amsx**: Unicorn (MFR) |
+| 17:00 | **ayunoh10**: Owlbear (NR) | **hella_wick**: Haetyphoon |
+| 17:00 | **3JlOU_XJlEBUIIlEK**: Kangaroo (FR) | **zqwuhl**: Ride-A-Pet Potion ×16 |
+| 17:00 | **6767rizzlerskibidoh**: African Wild Dog (R), Catte | **is_Hector**: Strawberry Shortcake Bat Dragon (NFR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
