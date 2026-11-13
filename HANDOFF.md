@@ -93,9 +93,13 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 
 ## Next steps
 
-1. **Forecast on the site: done (2026-11-13).** Item pages show "Next 30 days: model outlook" for the 3 predicted variants (likely up / likely down / no clear move, with P(rise of 5%+) and P(drop of 5%+)) and the backtest from `results/both_model_30d_folds.csv`. Check after a few days that `forecast.yml` runs daily, and every month or two compare old calls with what happened (the backtest is the promise the page makes).
-2. Size model, if it's worth another try: train the range on movers separately (the range is now dominated by the ~85% flat rows), or show only P(up/down) and the typical size of a past rise / drop per pet.
-3. Use the 30-day offers + news model (`both`) as the forecast model: same picks as base, better down calls (down average precision 0.35 → 0.39).
-4. Rerun `python elve_model.py amvgg` (7 and 30 days) every month or so; it runs locally in ~10 minutes. Add AMVGG features to the main model once they have helped over 6+ test months.
-5. Later: trade-volume features once trades have a few months of history (started 2026-11-11; complete only since the 5-minute polling of 2026-11-12).
-6. After a week, check the trades for full-page runs again (a poll that finds 90+ new trades): if any are left, poll more often.
+1. **14 Nov:** check that the first automatic `forecast.yml` run (dispatched by the 01:00 UTC scrape run) succeeded and the site's "as of" date moved.
+2. **Live accuracy record for the 30-day forecast.** `results/direction_30d.csv` is overwritten daily (git history keeps the old ones). Score each day's calls 30 days later against Elvebredd's values and show the running hit rate on the site, next to the backtest. This is the real test of whether the model works; it first has results ~13 Dec.
+3. **20 Nov:** the scheduled local task `adoptme-check-7day-top20` fills `checks/top20_rise_7d_2026-11-12.xlsx` and logs the result (one week, 20 pets: a small sample).
+4. **A README** for the public repo (what it is, the live site, how the model is tested, the honest results incl. what failed: AMVGG-first rule, size model, 90 days). The original plan's Phase 5.
+5. **~20 Nov:** check the trades for full-page polls (a poll that finds 90+ new trades); on 13 Nov the page turned over in ~8 minutes at peak, so 5-minute polling has little margin. If needed, 4 polls per run.
+6. **Size and growth:** the git pack is ~53 MB after 3 days (mostly offer files) and `site/data.json` is 3.9 MB. Merge each finished day's offer files into one, and trim own-snapshot history in `data.json` once the logs cover it.
+7. Rerun `python elve_model.py amvgg` (7 and 30 days) monthly; add AMVGG features to the forecast once they've helped over 6+ test months.
+8. Later: trade-volume features once trades have a few months of history (complete since 2026-11-12).
+9. Optional: size model retry (train the range on movers only), or show the typical past rise / drop size per pet instead.
+10. Housekeeping: `git stash list` shows "leftovers from failed pull 2026-11-12" from another session; check it and drop it if nothing in it is needed.
