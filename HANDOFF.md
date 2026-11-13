@@ -109,4 +109,3 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 7. Rerun `python elve_model.py amvgg` (7 and 30 days) monthly, and watch the live AMVGG trial on the Stats tab (from ~21 Nov). Promote it to the real forecast (drop `amvgg` from the trial runs, add the group to the real one) once it beats the real model over a few months or the backtest reaches 6+ test months.
 8. Later: trade-volume features once trades have a few months of history (complete since 2026-11-12).
 9. Optional: size model retry (train the range on movers only), or show the typical past rise / drop size per pet instead.
-10. Housekeeping: `git stash list` shows "leftovers from failed pull 2026-11-12" from another session; check it and drop it if nothing in it is needed.
