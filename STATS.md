@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 06:10 UTC by the scrape workflow._
+_Updated 2026-11-13 06:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 06:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 28,520 | 2026-11-13T06:00 |
-| elve | 3 | 5,714 | 2026-11-13T06:01 |
+| amvgg | 3 | 28,744 | 2026-11-13T06:15 |
+| elve | 3 | 5,757 | 2026-11-13T06:16 |
 
-## AMVGG completed trades: 6,538 total
+## AMVGG completed trades: 6,555 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 705 |
+| 2026-11-13 | 722 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 06:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:10 | **xtrwln**: Skelicorn (NR) | **solitudeandsilence**: Ride-A-Pet Potion |
-| 06:10 | **SKTRealker**: Crocodile, Spring Bunny Hood, Ride-A-Pet Potion ×2 | **LoriDreamy123**: Kangaroo (FR) |
-| 06:10 | **sweetie_pi48**: Ride-A-Pet Potion ×2, Pancake Stack | **black5786t**: French Bulldog (N) |
-| 06:10 | **luvyerh**: Elephant (R) | **LoriDreamy123**: Crocodile (FR), Fly-A-Pet Potion |
-| 06:10 | **tonyyy133378**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Candicorn (NFR), Shark Puppy (NR), Wood Pigeon (FR) | **sequo1_a**: Owl (FR) |
-| 06:10 | **dosh1kk_dasha**: Butter Knife, Caramelgeist (M) | **s_niaax**: Chocolate Chip Bat Dragon Backpack |
-| 06:10 | **TheRealSamySam**: Bat Dragon (FR), Munchkin Cat (M), Strawberry Shortcake Bat Dragon (FR), Christmas Pudding Pup, Clover Cow (M) | **orchidbutterfliess**: Balloon Unicorn (NFR), Owl (NFR) |
-| 06:10 | **OBV1Tropiical**: Bunny Swirl (N) | **sofvi71**: Chocolate Dutch Guinea Pig ×2 |
-| 06:10 | **waykner**: Alpaca (R), Lion Cub (R) | **macncheez_playz**: Cabbit (FR) |
-| 06:10 | **Inganta07**: Pet Handler Pro Certificate | **DrinklngMilk**: Ride-A-Pet Potion ×2 |
-| 06:10 | **AmAmHardi**: DJ Snooze (M), Sandfish (M) | **macncheez_playz**: Ride-A-Pet Potion ×4 |
-| 06:10 | **Manggo_Pie40**: Kangaroo (FR) | **Yizukixx**: Ride-A-Pet Potion ×17 |
-| 06:10 | **XxOmgItsFrankie**: Munchkin Cat (MR) | **kvnzziee**: Cryptid (R) |
-| 06:10 | **FlyToTheSaturn**: Millionaire Mansion | **Sugarfly502**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 06:10 | **kariisshha**: Little Lamb (N), Dylan, Pink Betta Fish, Red Squirrel | **Raee356**: Ride-A-Pet Potion |
+| 06:15 | **cutie_friends4**: Admin Abuse Egg ×2, Crystal Egg ×2 | **Tradingonly369**: Chick |
+| 06:15 | **Fruit_Kittie**: Ride-A-Pet Potion | **Kir4kaaa**: Bunny Swirl |
+| 06:15 | **sclilxq**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×7 | **odading12318**: Alpaca (FR) |
+| 06:15 | **AAL1R4H**: African Wild Dog (R) | **Lovely_Dana891**: Cow (FR), Arctic Reindeer (FR), Candyfloss Chick (FR), Alpaca (R) |
+| 06:15 | **sclilxq**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×7 | **odading12318**: Alpaca |
+| 06:15 | **Qu33nDQCrimsonO19932**: Chihuahua ×4 | **Hamishdogecool**: Ride-A-Pet Potion ×2 |
+| 06:15 | **DUCKOOOOOO_2**: Paint Sealer | **RyunJinLeoNin**: Stray Cat Dragon |
+| 06:15 | **dethxhellgrl**: Ride-A-Pet Potion | **123Itz_Charlotte**: Retired Egg ×18 |
+| 06:15 | **TheCrazyYTGamer**: Dire Wolf (N), Endangered Egg ×5 | **TempeBuriq**: Dire Wolf (N) |
+| 06:15 | **xxXchange_Vibe**: Orchid Butterfly (R), Cabbit (NR), Ice Cream Cone Hat | **notorir**: Sea Slug (MFR) |
+| 06:15 | **w0onlll**: Bunny Swirl (N), Ride-A-Pet Potion | **pecrylover123**: Pet Handler Pro Certificate ×2 |
+| 06:15 | **Csennyke**: Unicorn Horn, Tiny Wings, Border Collie (NFR) | **pecrylover123**: Ghost Bunny (NFR), Ghost Wolf (MFR), Amami Rabbit (MFR), Moon Rabbit (MFR), Candy Hare (NFR), Bunny Swirl (MFR) |
+| 06:15 | **pecrylover123**: Frost Dragon (FR), Turtle (FR), Mermicorn (R), Candicorn (R) | **Puresksxz**: Arctic Reindeer (NFR), Owl (FR) |
+| 06:15 | **FlyToTheSaturn**: Shiba Inu, Starfish ×5, Swordfish ×4, Toucan ×4, White Choccybunny, Ocelot (N), Monkey (R), Amber Butterfly | **iDontKnowYou89844**: Fly-A-Pet Potion |
+| 06:15 | **pogigelo31**: Giraffe (FR), Crow (FR), Parrot (FR), Chocolate Chip Bat Dragon, Cabbit (FR), Werewolf (R), Candyfloss Chick (FR), Zombie Buffalo, Polar Bear (FR), Rhino (N) | **Itssss_cincoo**: Bat Dragon (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
