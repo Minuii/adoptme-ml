@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 23:45 UTC by the scrape workflow._
+_Updated 2026-11-13 23:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 23:45 UTC by the scrape workflow._
 | amvgg | 3 | 45,287 | 2026-11-13T23:45 |
 | elve | 3 | 9,374 | 2026-11-13T23:45 |
 
-## AMVGG completed trades: 10,207 total
+## AMVGG completed trades: 10,245 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 4,374 |
+| 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 23:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:45 | **yukiwrldd**: Frost Dragon (FR) | **isabella68078**: Balloon Unicorn (FR), Munchkin Cat (MFR), Munchkin Cat, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 23:45 | **women_7031**: Frankenfeline (NFR) | **xilawn2023**: Ride-A-Pet Potion |
-| 23:45 | **sxmplycutecorex**: Fly-A-Pet Potion, Electric Hornet | **AvokadoJFKfanat**: Ride-A-Pet Potion ×2 |
-| 23:45 | **tsmovrol**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Vqntaii**: Cow (FR) |
-| 23:45 | **hatsholi**: Werewolf (R), Unicorn (NFR), Spring Bunny Feet | **PrettyEmilia16**: Turtle (FR) |
-| 23:45 | **012e0122**: Chocolate Chip Bat Dragon (FR), Candicorn (NFR) | **yeetimaheadout7**: Evil Unicorn (FR) |
-| 23:45 | **yuag12345**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Cow (FR), Pig (FR), Elephant (R), Flamingo (R), Meerkat (R) | **kitty_itz2012**: Parrot (FR) |
-| 23:45 | **yuag12345**: Chocolate Chip Bat Dragon (NFR), Munchkin Cat (MFR), Munchkin Cat | **isabella68078**: Frost Dragon (FR) |
-| 23:45 | **sqsonya**: Haetae (R), Cabbit (FR) | **BreadPlayz20**: Crow (FR) |
-| 23:45 | **Cinzsins**: Owl (NFR) | **ThePandaix**: Giraffe (FR), Albino Monkey (NFR), Frost Phoenix (NFR), Kookaburra (NF), Werewolf (FR), Fly-A-Pet Potion, Alpaca, Cupid Dragon (F), Waffle Wyrm (MFR) |
-| 23:40 | **reserbadong2**: Cow (R), Ride-A-Pet Potion | **bacon_lless**: Fallow Deer (R), Copycat (N) |
-| 23:40 | **no_xwifi1**: Crystal Egg ×15 | **prensesecya**: Shetland Pony Light Brown |
-| 23:40 | **sun_drench**: Fairy Bat Dragon (FR), Dodo (NR), Goose (R), Caelum Cervi (FR), Nessie (FR) | **adoptmetrding14431**: Mermicorn (NFR) |
-| 23:40 | **pinksugarcookiesruu**: 2022 Birthday Cake, Unicorn Horn, Pink Cat | **Hheby789**: Siamese Cat (NFR) |
-| 23:40 | **urielelpro909**: Owl (R), Monkey King (FR), Jester Dragon (NFR), Latte Kitsune (R) | **xsf_o**: Frost Dragon (FR) |
+| 23:55 | **urielelpro909**: Balloon Unicorn (R), Evil Unicorn (FR), Cabbit | **xsf_o**: Frost Dragon (FR) |
+| 23:55 | **uqqoov**: Mini Pig (FR), Ghost (MFR) | **Pinkypeacelove**: Dragonfruit Fox (MFR) |
+| 23:55 | **PookiePlayzADM**: Slime (R) | **camiilita_7w7**: Swan |
+| 23:55 | **AlastorDanger**: Ride-A-Pet Potion, Glormy Crab | **Kir4kaaa**: Pupcicle |
+| 23:55 | **soyelmas_capito132**: Panda | **ivmaho**: Catte |
+| 23:55 | **TsukiakariShirayuki**: Cow (MFR), Spring Bunny Hood, Goth Shoes | **zeejnaa**: Owl (FR) |
+| 23:55 | **sr_o97**: Cupid Dragon (R), Werewolf (R), Happy Duckling (MR) | **FemboyMaxer**: Goose (FR) |
+| 23:55 | **Dancemom7228**: Hedgehog (FR), Arctic Reindeer (FR), Cow (FR), Sugar Glider (FR) | **starofthe555**: Owl (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 23:55 | **Bonnieyyl**: Unicorn Horn, Groundhog, Silly Duck, Butter Knife | **Luluy236810**: Cabbit (R) |
+| 23:55 | **2262096**: Rainbow Maker, 2022 Birthday Cake, Unicorn Horn, Toaster Hat, Ice Cream Cone Hat, Pink Cat Ear Headphones, Pink Heart Glasses, Ride-A-Pet Potion ×2, Candyfloss Chick (FR) | **amayatbhhh**: Balloon Unicorn (FR) |
+| 23:55 | **WintErSnowy1**: Cow (R), Hippo | **Malelou26**: Alley Cat (NFR), Fallow Deer (R), Ride-A-Pet Potion ×15 |
+| 23:55 | **Mentality_Dead**: Golden Lettuce, Fly-A-Pet Potion | **ADRO779**: Eco Natural Earth House |
+| 23:55 | **sxgarrXO**: Rain Cloud Hat | **Yuri_CottonCandy**: Munchkin Cat, Ride-A-Pet Potion, Butter Knife, Robin (MFR) |
+| 23:55 | **0n1yAlaina**: Fly-A-Pet Potion ×5, Storm Condor (M), Bee, Admin Abuse Egg | **AvokadoJFKfanat**: Ride-A-Pet Potion ×10 |
+| 23:55 | **Cocoxmistyyt**: Pupcicle | **lavenderwallfle22**: Dodo |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
