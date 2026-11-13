@@ -136,6 +136,26 @@ tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 .acts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); gap: 12px; }
 .meter { display: flex; height: 6px; border-radius: 3px; overflow: hidden; background: var(--grid); margin-top: 6px; }
 .meter i { display: block; }
+.wrap:has(#browse:not([hidden]) .rise:not([hidden])) { max-width: 1320px; }
+.browse-grid { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 24px; align-items: start; }
+.browse-main { display: flex; flex-direction: column; gap: 16px; min-width: 0; }
+.browse-grid:has(.rise[hidden]) { grid-template-columns: minmax(0, 1fr); }
+.rise { position: sticky; top: 16px; background: var(--panel); border: 1px solid var(--line); border-radius: var(--r); padding: 14px; display: flex; flex-direction: column; gap: 8px; }
+.rise ol { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.rise li { display: grid; grid-template-columns: 22px 36px minmax(0, 1fr) auto; align-items: center; gap: 8px; padding: 6px 4px; border-radius: 8px; cursor: pointer; }
+.rise li:hover, .rise li:focus-visible { background: var(--hover); }
+.rise .rk { font-size: 12px; color: var(--faint); text-align: right; font-variant-numeric: tabular-nums; }
+.rise .nm { display: flex; flex-direction: column; min-width: 0; gap: 2px; }
+.rise .nm b { font-weight: 500; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.rise .nm .bdg { width: 18px; height: 18px; font-size: 10px; }
+.rise .pct { font-size: 17px; font-weight: 600; color: var(--up); font-variant-numeric: tabular-nums; text-align: right; }
+.rise .bar { height: 3px; border-radius: 2px; background: var(--grid); grid-column: 3 / 5; margin-top: -2px; }
+.rise .bar i { display: block; height: 100%; border-radius: 2px; background: var(--up); }
+.rise .more { align-self: stretch; }
+@media (max-width: 900px) {
+  .browse-grid { grid-template-columns: minmax(0, 1fr); }
+  .rise { position: static; order: -1; }
+}
 .card[role=button] { cursor: pointer; } .card[role=button]:hover { border-color: var(--faint); }
 .card.fcon { border-color: var(--fg); }
 .rtrade { display: grid; grid-template-columns: 1fr auto 1fr; gap: 10px; align-items: start; padding: 10px 0; border-bottom: 1px solid var(--line); }
@@ -200,6 +220,8 @@ footer a { color: var(--muted); }
 
   <!-- values + value changes share the filters -->
   <section class="page" id="browse">
+   <div class="browse-grid">
+   <div class="browse-main">
     <div class="controls" id="filters">
       <label class="field grow"><span class="label">Search</span><input id="q" class="input" type="search" placeholder="Item name" autocomplete="off"></label>
       <div class="field"><span class="label">List</span><div class="seg" data-key="src" role="group" aria-label="List">
@@ -216,6 +238,9 @@ footer a { color: var(--muted); }
     <div class="status"><span id="count" aria-live="polite">Loading…</span><span id="when"></span></div>
     <div class="tablewrap"><table id="tbl"></table></div>
     <button class="more" id="more" hidden>Show more</button>
+   </div>
+   <aside class="rise" id="rise" hidden aria-label="Most likely to rise"></aside>
+   </div>
   </section>
 
   <section class="page" id="item" hidden></section>
@@ -457,6 +482,7 @@ function render(reset = true) {
   document.querySelectorAll(".pet-only").forEach(e => e.setAttribute("aria-disabled", String(!["all", "pets"].includes(S.cat))));
   document.querySelectorAll(".list-only").forEach(e => e.style.display = S.tab === "list" ? "" : "none");
   const list = S.tab === "list", tbl = $("#tbl");
+  if (list) drawRise(); else $("#rise").hidden = true;
   if (reset) { shown = 0; current = list ? filtered() : feed(); tbl.replaceChildren(list ? listHead() : feedHead(), h("tbody")); }
   const next = current.slice(shown, shown + PAGE);
   tbl.tBodies[0].append(...next.map(list ? listRow : feedRow));
@@ -520,16 +546,46 @@ function drawItem() {
   if (outlook) drawForecast(outlook, it);
 }
 
+// ---- Values tab: the 20 pets most likely to rise over 30 days (one row per pet: its likeliest variant) ----
+const RISE_N = 20, RISE_SHORT = 5;
+let riseOpen = false;
+async function drawRise() {
+  const box = $("#rise");
+  await loadFC();
+  const rows = Object.entries(FC.items || {}).map(([name, f]) => {
+    const [k, v] = Object.entries(f).sort((a, b) => b[1][0] - a[1][0])[0];
+    return { it: BYNAME.get(name), k, up: v[0] };
+  }).filter(r => r.it).sort((a, b) => b.up - a.up).slice(0, RISE_N);
+  box.hidden = S.tab !== "list" || !rows.length;
+  if (box.hidden) return;
+  const narrow = matchMedia("(max-width: 900px)").matches, show = narrow && !riseOpen ? rows.slice(0, RISE_SHORT) : rows;
+  const bt = FC.backtest || {}, days = FC.days || 30;
+  const go = r => { [S.var, S.pot] = r.k.split("-"); openItem(r.it); };
+  box.replaceChildren(
+    h("h2", {}, "Most likely to rise"),
+    h("span", { class: "sub" }, `Chance of a 5%+ rise on Elvebredd in the next ${days} days · as of ${FC.asof}`),
+    h("ol", {}, show.map((r, i) => h("li", { tabindex: 0, role: "link", title: `${r.it.name} · ${keyTxt(r.it, r.k)}: ${pc(r.up)} chance of rising 5%+`,
+        onclick: () => go(r), onkeydown: e => { if (e.key === "Enter") go(r); } },
+      h("span", { class: "rk" }, i + 1), icon(r.it) || h("span"),
+      h("span", { class: "nm" }, h("b", {}, r.it.name), h("span", { class: "sub" }, r.k === "r-np" ? "No potion" : bdgs(badgeTags(r.k)),
+        r.it.E[r.k] != null ? ` · value ${fmt(r.it.E[r.k])}` : "")),
+      h("span", { class: "pct" }, pc(r.up)),
+      h("span", { class: "bar" }, h("i", { style: `width:${100 * r.up}%` }))))),
+    narrow && rows.length > RISE_SHORT ? h("button", { class: "more", onclick: () => { riseOpen = !riseOpen; drawRise(); } },
+      riseOpen ? "Show fewer" : `Show all ${rows.length}`) : null,
+    h("p", { class: "note" }, `One row per pet, its likeliest variant. ` +
+      (bt.months ? `In tests, "likely up" calls rose 5%+ ${pc(bt.up_precision)} of the time, and the top 20 gained ${pctTxt(100 * bt.top20)} a month on average (all pets ${pctTxt(100 * bt.all_pets)}). ` : "") +
+      "A model's guess, not a promise."));
+}
+
 // ---- item page: the model's 30-day direction call (site/forecast.json, refreshed weekly) ----
 let FC;
+const loadFC = async () => { if (!FC) { try { FC = await fetch("forecast.json").then(r => r.json()); } catch { FC = {}; } } return FC; };
 const FC_KEYS = { "r-np": "Normal No Potion", "n-fr": "Neon Fly Ride", "m-fr": "Mega Fly Ride" };
 const CALL = { up: ["Likely up", "up"], down: ["Likely down", "down"], flat: ["No clear move", "flat"] };
 const pc = x => x == null ? "–" : Math.round(100 * x) + "%";
 async function drawForecast(box, it) {
-  if (!FC) {
-    try { FC = await fetch("forecast.json").then(r => r.json()); } catch { FC = {}; }
-    if (S.item !== it.name) return;
-  }
+  if (!FC) { await loadFC(); if (S.item !== it.name) return; }
   const f = (FC.items || {})[it.name];
   if (!f) { box.replaceChildren(); return; }  // no call for this pet (not on both lists, or too new)
   const k = vkey(it), bt = FC.backtest || {}, days = FC.days || 30;
