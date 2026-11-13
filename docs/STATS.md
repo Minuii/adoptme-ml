@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 18:10 UTC by the scrape workflow._
+_Updated 2026-11-13 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 18:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 39,609 | 2026-11-13T18:00 |
-| elve | 3 | 8,164 | 2026-11-13T18:01 |
+| amvgg | 3 | 39,882 | 2026-11-13T18:15 |
+| elve | 3 | 8,227 | 2026-11-13T18:16 |
 
-## AMVGG completed trades: 8,767 total
+## AMVGG completed trades: 8,821 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,934 |
+| 2026-11-13 | 2,988 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 18:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:10 | **Free_13540**: Ride-A-Pet Potion | **waruKosh**: Pupcicle |
-| 18:10 | **ossessionataconlui**: Unicorn Horn, Ice Cream Cone Hat, Tiny Wings, Spring Bunny Hood, Propeller Hat | **kadashoc**: Elephant (NFR) |
-| 18:10 | **crazycattan16**: Munchkin Cat (MFR), Lion Cub (FR), Rain Boots | **sprinklelove159**: Cupid Dragon (MFR) |
-| 18:10 | **LAYLA_PRXPPY1**: Munchkin Cat (MFR), Brown Springer Spaniel (MFR), Jester Dragon | **obv1kylxx**: African Wild Dog (R) |
-| 18:10 | **lilanderm**: Ride-A-Pet Potion, Bunch Of Balloons, Silly Duck Hat, Summer Walrus Sunhat | **kajaterezka**: Chocolate Dutch Guinea Pig (R) |
-| 18:10 | **proplayer110408**: Owl (FR) | **Moa_spelar1234**: Grim Dragon (MFR) |
-| 18:10 | **lilpepeng150**: Tiny Wings, Propeller Hat, Spring Bunny Hood, Bready Necklace, Bunny Ear Tiara | **Felype_Wollf**: Unicorn Horn |
-| 18:10 | **Frog_40302**: Cerberus (NFR), Ride-A-Pet Potion | **AnneFabrel2005**: Yule Log Dog (N) |
-| 18:10 | **no_xwifi1**: Chihuahua (M) | **littlefelonies**: Frosty Glow Mega Neon Paint, Blue Boohoo Mega Neon Paint ×2, Halloween Slime Mega Neon Paint, Velvet Fuchsia Mega Neon Paint ×2, Amethyst Skies Mega Neon Paint, Ride-A-Pet Potion ×2 |
-| 18:10 | **WOWTHATSOSICK2**: Hedgehog (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **The1AndOnlyClyde**: Parrot (MFR), Rainbow Maker |
-| 18:10 | **Alana_enna22**: Emu (N), Black Moon Bear (N), Bluebottle Fly (N) | **themudwizard**: Ride-A-Pet Potion |
-| 18:10 | **cutemoonya**: Pupcicle (N) | **vaIxhrtz**: Ride-A-Pet Potion, Pupcicle ×4 |
-| 18:10 | **SebasMendesLoL**: Fairy Bat Dragon (FR), Zombie Buffalo (FR) | **adoptmexx626**: Cow (FR) |
-| 18:10 | **Olesya5885**: Moon Rabbit, Amami Rabbit | **adoptmexx626**: Ride-A-Pet Potion |
-| 18:10 | **jason75_0**: Strawberry Shortcake Bat Dragon (R) | **RxchelPlxyz**: Chocolate Chip Bat Dragon (FR) |
+| 18:15 | **waruKosh**: Fly-A-Pet Potion | **JEOGXT**: Pupcicle ×2 |
+| 18:15 | **cxltwaste**: Balloon Unicorn (FR), Goat (MFR), Sakura Spirit (FR), Back Taco ×2, Thinking Hat | **Addmymainamv**: Chocolate Chip Bat Dragon (FR) ×3, Strawberry Shortcake Bat Dragon (FR), Cabbit (R) |
+| 18:15 | **j456k**: Frostbite Bear (R), Brown Bear (FR) | **lolppp0vld**: Pupcicle (MFR) |
+| 18:15 | **Mharkie162**: Chihuahua ×5 | **puppyxtara**: Fly-A-Pet Potion |
+| 18:15 | **Alana_enna22**: Hippo, Pain au Chat ×2 | **Lxdyxx**: Ride-A-Pet Potion |
+| 18:15 | **fishymiss_y**: Ride-A-Pet Potion, Retired Egg ×4 | **wi0qwi**: Pupcicle |
+| 18:15 | **Omar2002548**: Ride-A-Pet Potion | **Mariam_123xd123**: Pupcicle |
+| 18:15 | **Kaamyxa**: Purrowl | **PeppaOMG2**: Moon Egg |
+| 18:15 | **Quean_33**: Cotton Candy Hat, Thunderfisher (N) | **epvshka**: Pupcicle |
+| 18:15 | **nessty_m**: Happy Duckling, Cheesecake Hat, Lava Racer | **Fox_13920**: Ride-A-Pet Potion |
+| 18:15 | **Smookgans**: Jester Dragon, Copycat, Fly-A-Pet Potion, Ride-A-Pet Potion, Hyena (R) | **ALEXANDRAAXAXA**: Kangaroo (FR) |
+| 18:15 | **f1nqo**: Pupcicle (MFR) | **Dancemom7228**: Copycat (NFR) |
+| 18:15 | **f1nqo**: Mummy Spider (M), Caramelgeist (M) | **eeliasxcx**: Ride-A-Pet Potion |
+| 18:15 | **kraket127**: Unicorn | **xXHope_notxX**: Ride-A-Pet Potion |
+| 18:15 | **Koala_ql**: Ghost (MR), Pomeranian (M), Capricorn, Storm Condor (FR), Chihuahua | **lemonadexx1**: Clover Cow (MR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
