@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 07:40 UTC by the scrape workflow._
+_Updated 2026-11-13 07:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 07:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 29,860 | 2026-11-13T07:30 |
-| elve | 3 | 5,978 | 2026-11-13T07:31 |
+| amvgg | 3 | 30,069 | 2026-11-13T07:45 |
+| elve | 3 | 5,997 | 2026-11-13T07:45 |
 
-## AMVGG completed trades: 6,752 total
+## AMVGG completed trades: 6,762 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 919 |
+| 2026-11-13 | 929 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 07:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:45 | **LoriDreamy123**: Strawberry Tortle (FR), Turtle (FR) ×3, Turtle (NFR), Siamese Cat, Candyfloss Chick (FR), Kangaroo (R) ×2, Elephant (R) ×2, Albino Monkey (FR), Albino Monkey (R), Crocodile (FR), Crocodile (R), Crocodile, Frost Fury (FR) | **Ishabns01**: Parrot (NFR) |
+| 07:45 | **Deinabiluana**: Turtle (FR), Strawberry Shortcake Bat Dragon Backpack | **kiorama13**: Fairy Bat Dragon (FR) |
+| 07:45 | **odading12318**: Fairy Bat Dragon (FR) | **herosan83**: Fly-A-Pet Potion ×14 |
+| 07:45 | **roblox_user_8676283275**: Sugar Glider (R) | **Frdvhev**: Rose Dragon (NR), Toaster Hat |
+| 07:45 | **Frdvhev**: Turtle (MFR), Goose (FR), Goose (R), Copycat (N), Ride-A-Pet Potion | **auzreti**: Owl (FR) |
+| 07:45 | **0MGZOZ0**: Diamond Ladybug (MFR), Happy Duckling (MFR), Scarlet Butterfly (MFR), Red Squirrel (MFR), Flaming Zebra (MFR) | **ihavealongkukubird6**: Polar Bear (MFR) |
+| 07:45 | **RealVeronnisaa**: Fleur De Ice ×2 | **ayanocha44**: Ride-A-Pet Potion |
+| 07:45 | **funmqdcity**: Cryptid, Strawberry Shortcake Bat Dragon (R), Latte Kitsune, Ballet Swan | **unlimited_food**: Parrot (FR) |
+| 07:45 | **firefly_rainbowlett**: Kangaroo (MFR) | **svtoruuz**: Alley Cat (MFR), Ram (MFR) |
+| 07:45 | **sonyalove643**: Admin Abuse Egg ×2 | **Nika06041**: Dragonfly |
 | 07:40 | **lavrikkiti**: Retired Egg ×2 | **PhoebeRae13**: Admin Abuse Egg ×2 |
 | 07:40 | **skibiditoilet232585**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×13, Pet Handler Pro Certificate | **hayopanima**: Turtle (FR) |
 | 07:40 | **Omar2002548**: Tortuga de la Isla (R) ×4, Chef Gorilla, Golden Chow-Chow | **AutoTradeCommission**: Tortuga de la Isla (N) |
 | 07:40 | **LostKeksik**: Kangaroo (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **odading12318**: Fairy Bat Dragon (FR) |
 | 07:40 | **amvggholder**: Ride-A-Pet Potion, Kappakid (N) | **exorc6ist**: Easter Bunny (M) |
-| 07:40 | **princess_pizzanice**: Kangaroo (FR) ×2, Albino Monkey (R), Turtle (FR), Cow (R), Ring-Tailed Lemur (NR), Ride-A-Pet Potion | **myxxmi**: Haetae (FR) |
-| 07:40 | **myxxmi**: Fairy Bat Dragon (FR) ×2, Fairy Bat Dragon, Candicorn, Kangaroo (FR) ×2, Border Collie (R) | **ad0pttrading**: Crow (FR) |
-| 07:40 | **as_ishere**: Evil Unicorn (FR), Fly-A-Pet Potion ×2 | **H0llyMockngJ1526**: Hedgehog (FR), Siamese Cat (R) |
-| 07:40 | **nellik_karomelik**: Candicorn, Crocodile (R), Polar Bear, Ride-A-Pet Potion | **Yiju0225**: Cow (FR) |
-| 07:40 | **SilxnceVI**: Copycat ×6, Munchkin Cat | **Gglrd0**: Chocolate Chip Bat Dragon (FR) |
-| 07:40 | **OBVIXALIX**: Cryptid (FR), Flaming Fox | **kayxlillies**: Munchkin Cat (MFR) |
-| 07:40 | **lhfshkg**: Cryptid (R), Undead Jousting Horse (FR), Cow (FR), Fairy Bat Dragon (FR), Sugar Glider (FR), Cabbit (FR), Fallow Deer (R) | **avervuu**: Frost Dragon (FR) |
-| 07:40 | **21ssaappcc**: Pink Cat Ear Headphones, Flower Beret | **POMAHA948**: Fly-A-Pet Potion |
-| 07:40 | **PartyBratJaylaaaa**: S'mores Raccoon (M) | **jebiilerium**: Haetyphoon (R) |
-| 07:36 | **ponluffypon**: Ember Wings, Black Rhino (M) | **unicorn_queen90919**: Ornate Horned Frog (MR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
