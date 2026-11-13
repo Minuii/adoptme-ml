@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 01:01 UTC by the scrape workflow._
+_Updated 2026-11-13 01:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 01:01 UTC by the scrape workflow._
 | amvgg | 3 | 23,914 | 2026-11-13T01:00 |
 | elve | 3 | 4,824 | 2026-11-13T01:01 |
 
-## AMVGG completed trades: 5,962 total
+## AMVGG completed trades: 5,984 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 129 |
+| 2026-11-13 | 151 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 01:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:00 | **mjsnijni**: Caramelgeist (M) ×2 | **Crown13112**: Ride-A-Pet Potion |
-| 01:00 | **1_j0c3lynxx**: Dark Choccybunny (M), Gingerbread Hare (M), Pet Handler Pro Certificate, Great Pyrenees (N) | **cxbvnniz**: Count Slothula (M) |
-| 01:00 | **zqwuhl**: Hummingbird ×2 | **skibidiswag85**: Ride-A-Pet Potion |
-| 01:00 | **iiSadMango**: Blue Boohoo Mega Neon Paint, Lunar Moon Bear, Ranger Beaver, Reindeer | **skibidiswag85**: Ride-A-Pet Potion ×2 |
-| 01:00 | **M7M310DYY**: Alpaca (R), Harp Seal (N) | **meldoann**: Harp Seal (MFR) |
-| 01:00 | **D8RYY**: Ice Golem (MFR) | **q_culvs**: Cuddly Candle (MFR), Golden Hamster (MFR), Bunny Swirl (MFR), Blue Ringed Octopus (MFR), Ladybug (MFR) |
-| 01:00 | **zoe_mew119**: Siamese Cat ×2, Munchkin Cat, Matcha Cat, Copycat, Jester Dragon, Goth Shoes, Pancake Stack, Jeff's Nametag, Bready Necklace, Burger Boots, Cotton Candy Hat, Dumpling Friend Hat, Dogmobile, Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×3 | **Sebamobil789**: Blazing Lion |
-| 01:00 | **iikariiss**: Grim Dragon (NFR), Kangaroo (NFR), Kangaroo (FR), Ride-A-Pet Potion | **AmvggPi0n41K**: Cryptid (FR) |
-| 01:00 | **Ajm091232**: Tiny Wings | **insano_6678**: Amami Rabbit (M) |
-| 01:00 | **p001torich**: Moon Rabbit | **nikalime_1**: Ride-A-Pet Potion |
-| 01:00 | **violencesoul**: 2022 Birthday Cake, Unicorn Horn, 2022 Birthday Cupcake Shoes, Toaster Hat, Tiny Wings, Ice Cream Cone Hat | **insano_6678**: Harp Seal (M), French Bulldog (M), Raccoon (MR), Raccoon (MFR), Amami Rabbit (M), Candy Cane Snail (MFR), Chihuahua (M), Snowball Pug (MFR) |
-| 01:00 | **carlkilling**: Turtle (FR) | **daria_buzok**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 |
-| 01:00 | **noxenii**: Dragonfruit Fox (N), Ride-A-Pet Potion ×2 | **Queenvessy**: Copycat (FR), Reindeer (NFR) |
-| 01:00 | **robloxgamer_19831**: Turtle (FR) ×2, Siamese Cat (R) | **Theo839287**: Haetyphoon (NFR) |
-| 01:00 | **slushymynoobs**: Shadow Dragon (FR) | **caitlinc26**: Balloon Unicorn (NFR), Rainbow Maker |
+| 01:10 | **9mkii**: Chihuahua (N) | **Austa_675**: Dragonfruit Fox |
+| 01:10 | **carlkilling**: Fly-A-Pet Potion | **avneetkool**: Ride-A-Pet Potion ×2 |
+| 01:10 | **jam0khurt**: Maine Coon ×3 | **Terranese**: Ride-A-Pet Potion |
+| 01:10 | **XZ_Snip3rsAAlphaGARa**: Spring Bunny Hood | **playpretend2**: Santa Hat |
+| 01:10 | **loiol1004**: Orchid Butterfly (FR) ×2, Diamond Butterfly (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Ryxnisgoofy3**: Cryptid (NFR) |
+| 01:10 | **LeonardBass28273**: African Wild Dog (R), Moonlight Moth (MFR), Halloween Black Axe Guitar Accessory | **obv1kylxx**: Sugar Axolotl (MFR) |
+| 01:10 | **itskayeeee**: Cow (FR) ×2 | **Niafkakot2**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat |
+| 01:10 | **w0onlll**: Leopard Cat ×3 | **kaykayrules2012**: Ride-A-Pet Potion |
+| 01:10 | **D_avidOrbit**: Tutu ×2, Puddleducks Hood | **kaykayrules2012**: Ride-A-Pet Potion ×2 |
+| 01:10 | **corbin374**: Cow (FR) ×4 | **MYB505**: Kitsune (MFR), Malaysian Tapir (M), Leopard Cat (M), Pudding Cat (MR), Eggnog Dog (M), Cattuccino (M), Mochi Meow (M), Maine Coon (MR), Lynx (MFR), Catte (M), Snow Leopard (MR), Cherry Blossom Hang Glider, Ermine (M), Dire Wolf (MR), Liger (M) |
+| 01:10 | **Desired_Nightmare**: Paint Sealer ×13 | **omeIody**: Ride-A-Pet Potion |
+| 01:06 | **landenc9970i**: Snowball Pet (NFR) | **batton0955**: Ride-A-Pet Potion ×3 |
+| 01:06 | **Pato_Randoom**: Candicorn (R) | **Boo_kittykitty**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×8 |
+| 01:06 | **XZ_Snip3rsAAlphaGARa**: Spring Bunny Hood | **chip40060**: Santa Hat |
+| 01:06 | **AutoTradeCommission**: Turtle (R) | **vlados_krash**: Chihuahua (M), Snowball Pug (M), Pain au Chat (M) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
