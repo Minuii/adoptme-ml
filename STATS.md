@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 07:25 UTC by the scrape workflow._
+_Updated 2026-11-13 07:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 07:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 29,635 | 2026-11-13T07:15 |
-| elve | 3 | 5,941 | 2026-11-13T07:16 |
+| amvgg | 3 | 29,860 | 2026-11-13T07:30 |
+| elve | 3 | 5,978 | 2026-11-13T07:31 |
 
-## AMVGG completed trades: 6,730 total
+## AMVGG completed trades: 6,736 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 897 |
+| 2026-11-13 | 903 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,12 @@ _Updated 2026-11-13 07:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:30 | **Bot_202l**: Sabertooth, Angus Bull | **silenceddfeelings**: Retired Egg ×18 |
+| 07:30 | **icebaby545**: Arctic Reindeer (FR) ×2, Cow | **lkmsdfw**: Hedgehog (FR), Dalmatian (FR) |
+| 07:30 | **Zydac1**: River Otter (M) | **Kir4kaaa**: Ride-A-Pet Potion |
+| 07:30 | **zerozer0ten**: Volcanic Rhino (MFR) | **Kvammletitraketa**: Ghost Bunny (MFR) |
+| 07:30 | **Lerkooo_111**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Balloon Unicorn, Crocodile (FR) | **pecrylover123**: Frost Dragon (FR) |
+| 07:30 | **AnA_Roblox1122**: Balloon Unicorn (FR), Copycat, Jester Dragon, Ride-A-Pet Potion ×5, Fly-A-Pet Potion, Pet Handler Pro Certificate, Ice Cream Hermit Crab | **Zombiibearz**: Parrot (FR) |
 | 07:25 | **TwistedK1tty**: Parrot (FR), Haetae (FR), Royal Mistletroll (N), Dalmatian (FR) ×2, Glormy Leo (MFR), Candicorn (NFR), Peppermint Penguin (FR), Vampire Dragon (NFR), Strawberry Tortle, Hot Doggo (R), Chocolate Chip Bat Dragon (FR) | **shortkayq**: Bat Dragon (FR) |
 | 07:25 | **shortkayq**: 2022 Birthday Confetti Cannon, Lion Cub | **AndreiVany**: Polar Bear (NFR) |
 | 07:25 | **Leviodas**: Bat (MR) | **sugarsaltacc2_0**: Toasty Red Panda (N), Hydra (NR), Cattuccino (N), Ginger Cat (N), Starfish (N) |
@@ -37,12 +43,6 @@ _Updated 2026-11-13 07:25 UTC by the scrape workflow._
 | 07:25 | **Addmymainaccpls88**: Balloon Unicorn (FR), Cryptid (FR), Giant Panda (FR) ×3, Blazing Lion (FR) ×2, Blazing Lion, Haetae (FR) ×3, Orchid Butterfly (FR), Orchid Butterfly, Haetae (R), Dalmatian (FR) | **dopikop_jo**: Bat Dragon (NFR) |
 | 07:25 | **gthstnr**: German Shepherd (MFR) | **vanyagames_yt**: Yeti (MFR), Purrowl (M) ×2 |
 | 07:25 | **DefonotMariaXOX**: Elephant (NR), Mini Pig (R), Mini Pig, Goose (FR), Cherry-On-Top, Turtle (FR), Siamese Cat (R), Candyfloss Chick (R), Ride-A-Pet Potion, Shrew (R), Elephant, Bee (N) | **Hamishdogecool**: Frost Dragon (FR) |
-| 07:25 | **VanillaChxry**: Giant Panda (FR) | **avervuu**: Balloon Unicorn (FR) |
-| 07:25 | **Inganta07**: Ride-A-Pet Potion | **exorc6ist**: Ram |
-| 07:20 | **elini54321**: Dingo (N), Japan Egg, Lunar Tiger (N) | **themudwizard**: Ride-A-Pet Potion |
-| 07:20 | **Hii_meow13ue**: Toy Monkey (R) | **UltimateLionMantis**: Ride-A-Pet Potion |
-| 07:20 | **luvyerh**: Cow (FR) | **Red_Spider228**: Crocodile (R), Munchkin Cat (R), Pig (R), Ride-A-Pet Potion ×2 |
-| 07:20 | **PuhonaBeri**: Turtle (NFR) ×3, Turtle (FR) ×5 | **xKashaf**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
