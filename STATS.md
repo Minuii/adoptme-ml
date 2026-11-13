@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 10:01 UTC by the scrape workflow._
+_Updated 2026-11-13 10:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 10:01 UTC by the scrape workflow._
 | amvgg | 3 | 31,939 | 2026-11-13T10:00 |
 | elve | 3 | 6,416 | 2026-11-13T10:01 |
 
-## AMVGG completed trades: 7,019 total
+## AMVGG completed trades: 7,025 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,186 |
+| 2026-11-13 | 1,192 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,12 @@ _Updated 2026-11-13 10:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:06 | **Kisa_Mika8**: Red Dutch Guinea Pig (FR), Fly-A-Pet Potion ×2, Bobageist (N) | **freshtem0**: Cupid Dragon (FR) |
+| 10:06 | **hjkgabriel234**: Bat Dragon (FR), Unicorn Horn | **La_boyMich15**: Giant Panda (NFR), Frost Dragon (FR) |
+| 10:06 | **khyzertumirangtres**: Copycat (MFR), Christmas Spirit (NFR) | **hamborgir202**: Matcha Cat (MFR) |
+| 10:06 | **inicio1994**: Fly-A-Pet Potion, Pet Handler Pro Certificate, Hoverboard | **Sillyseal_026**: Spring Bunny Hood |
+| 10:06 | **lollucio251**: Gumball Caterpillar (M) | **liofe1**: Ride-A-Pet Potion |
+| 10:06 | **kaosereyvichit**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Leviodas**: Nessie |
 | 10:00 | **fluffyunicorns_932**: Unicorn Horn | **CorruptShadow2010**: Ballet Swan (NFR) |
 | 10:00 | **Nastymiopi**: Haetae (FR), Owl (FR), Chocolate Chip Bat Dragon (R), Fly-A-Pet Potion ×2, Bubblegeist | **roblox_user_8676283275**: Giraffe (FR) |
 | 10:00 | **MatWhereTheCatSat**: Fairy Bat Dragon (FR), Glormy Hound (FR), Fly-A-Pet Potion | **Mal_lyalyalya**: Cow (R) |
@@ -37,12 +43,6 @@ _Updated 2026-11-13 10:01 UTC by the scrape workflow._
 | 10:00 | **TibetanMotor5122**: Ride-A-Pet Potion, Pet Handler Pro Certificate ×5 | **OfficialBrunette**: Shetland Pony Light Brown, Choco Penguin, Mr. Whiskerpips, Pain au Chat ×2, Pink Betta Fish, Snowball Pug, Toasty Red Panda, White Sand Dollar, Cattuccino ×2, Cow Calf, Feesh, Gecko, Irish Elk ×3, Frog |
 | 10:00 | **Isobelboo123**: Scarecrow Horse (N), Snow Leopard (N), Shoebill (N), Shih Tzu (N), Rock Pigeon, Sea Skeleton Panda ×3, Scarecrow ×3 | **Ranitaisback**: Fly-A-Pet Potion |
 | 10:00 | **Kira9975335**: Cute-A-Cabra (N) | **Ranitaisback**: Ride-A-Pet Potion |
-| 10:00 | **nyavisala**: Ride-A-Pet Potion | **Mizumi_yiku**: Guardian Lion (R) |
-| 10:00 | **sofiadindang**: Harp Seal (NR) | **Lovley_000**: Panda (FR), Dimension Drifter (NFR), Bunny (MFR), Ride-A-Pet Potion |
-| 10:00 | **KsuKsuVzlomali**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×8 | **hayopanima**: Lion (R) |
-| 10:00 | **tdhdhshjeh**: Lion (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **hayopanima**: Kangaroo (FR) |
-| 10:00 | **ElevensStorage**: Brown Bear (R), Dodo (R) | **nonooo1717**: Fallow Deer (FR) |
-| 10:00 | **Insano_V48**: Arctic Dusk Dragon (MFR), Frost Dragon (FR), Evil Unicorn, Parrot (FR), Cryptid (FR), Fairy Bat Dragon (FR), Cow (FR), Siamese Cat (FR), Glormy Leo (NR), 2022 Birthday Party Horn, 2D Kitty (NR), Pink Cat | **j0eymlp**: Bat Dragon (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
