@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 13:01 UTC by the scrape workflow._
+_Updated 2026-11-13 13:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 13:01 UTC by the scrape workflow._
 | amvgg | 3 | 34,633 | 2026-11-13T13:00 |
 | elve | 3 | 7,029 | 2026-11-13T13:01 |
 
-## AMVGG completed trades: 7,496 total
+## AMVGG completed trades: 7,522 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,663 |
+| 2026-11-13 | 1,689 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 13:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:00 | **lolghwy3**: Biodome Home | **so_funnylike**: Purrowl (M) |
-| 13:00 | **ilusixnary**: Fairy Bat Dragon (MFR), Cow (FR), Bush Elephant | **Cinzsins**: Chocolate Chip Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (FR) ×2, Fairy Bat Dragon (FR) |
-| 13:00 | **XxxAriana_Xxx4**: Munchkin Cat (R) | **Alllllkos**: Many Mackerel ×2, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 13:00 | **Disurvz**: Ride-A-Pet Potion ×4 | **pastyysp**: Golden Lettuce ×2 |
-| 13:00 | **Real_Dream90z**: Mushroom Friend (MFR) | **killerlaura2010**: Unicorn (MFR) |
-| 13:00 | **frogan55**: Candicorn (MFR), Elephant (FR), Crocodile (FR) | **6d7d6d66**: Giant Panda (FR) |
-| 13:00 | **AdrianRomeroS**: Frost Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Chihuahua (MFR) | **ComWhil**: Parrot (NFR) |
-| 13:00 | **Kir4kaaa**: Ride-A-Pet Potion | **AmmoPlay1**: Thunderfisher ×16 |
-| 13:00 | **yzbeek980**: Dango Penguins (FR), Gumball Caterpillar (N), Golden Unicorn, Fennec Fox (N), Pink Butterfly Wings, Pink Hightops, Gold Tiara, Bunny Ear Tiara | **SyndromGG**: Ride-A-Pet Potion ×3 |
-| 13:00 | **Aphmau_Cool09**: Peppermint Penguin | **YerlyDiSar45**: Unicorn Horn, Tiny Wings |
-| 13:00 | **odading12318**: Border Collie (R) | **rr11nSk**: Fly-A-Pet Potion ×7 |
-| 13:00 | **AcuteRasberry**: Admin Abuse Box ×3 | **Ksu0qww**: Purrowl |
-| 13:00 | **Great_Peachy**: Tiny Wings, Turtle (R), Ride-A-Pet Potion | **Ananananmeme**: Cow (FR) |
-| 13:00 | **catwsie**: Spring Bunny Hood, Banana Hat, Clover Cow (N), Dog (MFR), Bready Necklace, Zombie Wolf, Puddleducks Hood, Pink Cat Ear Headphones, Harp Seal | **4saulius66**: Tiny Wings |
-| 13:00 | **itsmyalt_heh**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **odading12318**: Munchkin Cat |
+| 13:06 | **sakotfzg**: Crocodile (R) | **Sofia_rbx9792**: Llama (R), Munchkin Cat (R), Mr. Whiskerpips, Skelicorn, Huntsman Robin, Birthday Butterfly 2024, Stitches |
+| 13:06 | **tishpretty**: S'mores Raccoon, Cake Friend, Happy Duckling | **KittyShay33**: Frost Phoenix |
+| 13:06 | **odading12318**: Elephant (R) | **Diana_9lt**: Lion Cub (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
+| 13:06 | **pktyce**: Frost Fury (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **odading12318**: Winged Tiger (FR) |
+| 13:06 | **corbin374**: Strawberry Shortcake Bat Dragon (FR) ×2, Turtle (FR) ×2, Dango Penguins | **amvggaltaccxox**: Bunny Swirl (MFR), S'mores Raccoon (MR), Black Macaque (MFR), Frost Fury (FR) ×2, Frost Fury (R), Candy Hare (MFR), Frost Fury (MFR), Bee (MFR) |
+| 13:06 | **abdoosaad**: Crow (FR), Chocolate Dutch Guinea Pig (N), Ghost Bunny (NFR), Dragonfruit Fox | **Potatolover123yay**: Parrot (FR) |
+| 13:06 | **HirokuBee**: Great Pyrenees (MR), Spring Bunny Feet, Fly-A-Pet Potion ×2 | **Mnenormalno_0**: Kangaroo (FR) |
+| 13:06 | **Casey_Irene201091**: Pupcake (M), Golden Hamster (NR), Binturong (N), Hamster (NR) | **OBVADDISONN0**: Yeti (MFR) |
+| 13:06 | **HOONMINLIXGYU**: Cow (FR), Ride-A-Pet Potion | **soul1nquestion**: Bush Elephant (FR), Lion Cub (R), Christmas Pudding Pup (R), Honey Badger |
+| 13:06 | **sincebravery**: Halo, Rainbow Maker, Rain Cloud Hat | **1xii1z**: Cryptid (FR), Ride-A-Pet Potion ×4, Chihuahua ×3 |
+| 13:06 | **Khmerangel4130**: Ram (MFR), Royal Corgi (MFR), Rice Cake Rabbit (MFR), Zombie Wolf (MFR), Skele-Rex (MFR), Leopard Shark (MFR) | **smartes1230**: Sakura Spirit (MFR) |
+| 13:06 | **CEMEH_HOCKOB**: Blue Boohoo Mega Neon Paint, Halloween Slime Mega Neon Paint, Electric Tide Mega Neon Paint | **Shynisocool**: Fly-A-Pet Potion |
+| 13:06 | **luvyerh**: Frost Dragon (FR) | **mikepower240508**: Cow (FR) ×4, Elephant (FR) ×3, Lion (R), Elephant, Kangaroo (FR), Candyfloss Chick (FR), Shark Puppy (FR), Ride-A-Pet Potion |
+| 13:06 | **Bacontop1of100**: Cow (NFR), Goose | **Aftonsparvsarec00l**: Cryptid (FR) |
+| 13:06 | **Arenn_1010**: Matcha Cat (NFR) | **xluvvmel**: Green Butterfly (MFR), Silverback Gorilla |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
