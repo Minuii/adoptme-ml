@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 23:40 UTC by the scrape workflow._
+_Updated 2026-11-13 23:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 23:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 45,060 | 2026-11-13T23:30 |
-| elve | 3 | 9,333 | 2026-11-13T23:31 |
+| amvgg | 3 | 45,287 | 2026-11-13T23:45 |
+| elve | 3 | 9,374 | 2026-11-13T23:45 |
 
-## AMVGG completed trades: 10,197 total
+## AMVGG completed trades: 10,207 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 4,364 |
+| 2026-11-13 | 4,374 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 23:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:45 | **yukiwrldd**: Frost Dragon (FR) | **isabella68078**: Balloon Unicorn (FR), Munchkin Cat (MFR), Munchkin Cat, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 23:45 | **women_7031**: Frankenfeline (NFR) | **xilawn2023**: Ride-A-Pet Potion |
+| 23:45 | **sxmplycutecorex**: Fly-A-Pet Potion, Electric Hornet | **AvokadoJFKfanat**: Ride-A-Pet Potion ×2 |
+| 23:45 | **tsmovrol**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Vqntaii**: Cow (FR) |
+| 23:45 | **hatsholi**: Werewolf (R), Unicorn (NFR), Spring Bunny Feet | **PrettyEmilia16**: Turtle (FR) |
+| 23:45 | **012e0122**: Chocolate Chip Bat Dragon (FR), Candicorn (NFR) | **yeetimaheadout7**: Evil Unicorn (FR) |
+| 23:45 | **yuag12345**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Cow (FR), Pig (FR), Elephant (R), Flamingo (R), Meerkat (R) | **kitty_itz2012**: Parrot (FR) |
+| 23:45 | **yuag12345**: Chocolate Chip Bat Dragon (NFR), Munchkin Cat (MFR), Munchkin Cat | **isabella68078**: Frost Dragon (FR) |
+| 23:45 | **sqsonya**: Haetae (R), Cabbit (FR) | **BreadPlayz20**: Crow (FR) |
+| 23:45 | **Cinzsins**: Owl (NFR) | **ThePandaix**: Giraffe (FR), Albino Monkey (NFR), Frost Phoenix (NFR), Kookaburra (NF), Werewolf (FR), Fly-A-Pet Potion, Alpaca, Cupid Dragon (F), Waffle Wyrm (MFR) |
 | 23:40 | **reserbadong2**: Cow (R), Ride-A-Pet Potion | **bacon_lless**: Fallow Deer (R), Copycat (N) |
 | 23:40 | **no_xwifi1**: Crystal Egg ×15 | **prensesecya**: Shetland Pony Light Brown |
 | 23:40 | **sun_drench**: Fairy Bat Dragon (FR), Dodo (NR), Goose (R), Caelum Cervi (FR), Nessie (FR) | **adoptmetrding14431**: Mermicorn (NFR) |
 | 23:40 | **pinksugarcookiesruu**: 2022 Birthday Cake, Unicorn Horn, Pink Cat | **Hheby789**: Siamese Cat (NFR) |
 | 23:40 | **urielelpro909**: Owl (R), Monkey King (FR), Jester Dragon (NFR), Latte Kitsune (R) | **xsf_o**: Frost Dragon (FR) |
-| 23:40 | **WintErSnowy1**: Grim Dragon (FR), Vampire Dragon (FR), Spring Bunny Nose, Spring Bunny Feet | **CamilleandJustina100**: Cow (FR) |
-| 23:40 | **reserbadong2**: Cow (NFR) | **Furrybaddie2244**: Haetyphoon (NFR) |
-| 23:40 | **Itz_Marsie**: Peach Owl (R) | **22_jaydenx**: Cattuccino (N) ×2 |
-| 23:36 | **Ruperto_1297**: Fly-A-Pet Potion ×3 | **Willowstorm_WaCa**: Pupcicle (N) |
-| 23:36 | **bq11a**: Parrot (FR) | **qsnmnn**: Arctic Dusk Dragon (NFR), Latte Kitsune (NFR), Rain Cloud Hat, Ghost Dog (MFR), Red Squirrel (MFR), Frostbite Cub (MFR), Happy Duckling (MFR), Tiny Wings, Pupcake (MR), Ice Cream Cone Hat, Frost Fury (FR), Ice Golem (FR), Koala (NR), Mr. Whiskerpips (MFR), Merry Mistletroll (MFR), Jousting Horse (R), Scarebear (R) ×2 |
-| 23:36 | **ddeonuml**: Giant Anteater (MFR) | **cute_bunny123456p**: Snow Monkey (MFR), Mule (MFR), 2022 Birthday Cake, Rain Cloud Hat |
-| 23:36 | **phisho7is**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **starofthe555**: Copycat |
-| 23:36 | **misaki_hagami**: Kangaroo | **JJJA_81112**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×8 |
-| 23:36 | **kansoo4**: Unicorn Horn | **areezyss**: Merry Mistletroll (MFR), Steppe Lion (M), Ermine (M), Mistletroll (MR), Turtle Doves (M) |
-| 23:36 | **notamber_112**: Black Kite (MFR) | **pecrylover123**: Skelicorn (M), Stray Cat Dragon (M) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
