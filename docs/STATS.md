@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 17:55 UTC by the scrape workflow._
+_Updated 2026-11-13 18:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 17:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 39,365 | 2026-11-13T17:45 |
-| elve | 3 | 8,108 | 2026-11-13T17:45 |
+| amvgg | 3 | 39,609 | 2026-11-13T18:00 |
+| elve | 3 | 8,164 | 2026-11-13T18:01 |
 
-## AMVGG completed trades: 8,674 total
+## AMVGG completed trades: 8,750 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,841 |
+| 2026-11-13 | 2,917 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 17:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:55 | **jkristoff_4**: Skelicorn (N) | **Dash35813**: Skelicorn ×4 |
-| 17:55 | **L_person21**: Velocirooster (R), Jester Dragon, Mule (N), Zombie Buffalo (F), Nightmare Owl (MR), Caelum Cervi (FR), Copycat (R), Wolf (MFR), Gaelic Fae (NFR), Pig (FR), Alley Cat (NR), Owlbear (NFR), Business Monkey (MFR), Velocirooster (NFR), 2022 Birthday Party Hat, Chocolate Dutch Guinea Pig | **leruval**: Parrot (FR) |
-| 17:50 | **Fidelia2131415**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **LightningCheetah2451**: Alley Cat, Chocolate Dutch Guinea Pig |
-| 17:50 | **frostedninja91**: Turtle Doves (MFR), Bready Necklace, Icey Aura | **NastiGora**: Pupcicle ×4 |
-| 17:50 | **Kristyjunio_r**: Parrot (FR), Ocelot (N) | **ansatasiiaa**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon, Frost Fury (NFR), Pink Cat (NR), Candicorn |
-| 17:50 | **Ccrumbcat**: Black Springer Spaniel, T-Rex | **jauzyp**: Pupcicle |
-| 17:50 | **Dlya_amvgg**: Hedgehog (FR) | **Anarekaa**: Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR), Fairytale Egg ×2 |
-| 17:50 | **Got_moves57**: Corn Doggo, Unicorn (R) | **Paprawa30**: Pupcicle ×2 |
-| 17:50 | **grijfe8r**: Ride-A-Pet Potion | **RN_26**: Pupcicle |
-| 17:50 | **Munchkinswirlll**: Zombie Chick (M) | **St4r1890241**: Pet Handler Pro Certificate ×2 |
-| 17:50 | **xplr_165**: Ride-A-Pet Potion ×4, Owlbear | **carlkilling**: Copycat (R) |
-| 17:50 | **Quean_33**: Classic Trade Stand, Little Lamb (N), Bear Hood | **St4r1890241**: Ride-A-Pet Potion |
-| 17:50 | **Aliskaa191**: Mini Pig (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **AmberStarKB**: Turtle (FR), Kangaroo (FR) |
-| 17:50 | **agenthollydoom**: Rose Dragon (FR) | **patriciaspetz**: Candy Hare, Red Sand Dollar, Snowball Pet (R), Ice Moth Dragon (R) |
-| 17:50 | **CalvinGwenBob**: Pupcicle (N) | **gffdjddd23_4**: Spring Bunny Hood |
+| 18:00 | **Alana_enna22**: Crystal Egg ×18 | **itzz_Keys**: Ride-A-Pet Potion |
+| 18:00 | **1ovIIy**: Ride-A-Pet Potion | **Alana_enna22**: Crystal Egg ×17 |
+| 18:00 | **devilqueen2456y7**: Pupcicle ×15 | **marioxd_1252**: Fallow Deer (NFR) |
+| 18:00 | **LPPlay42302**: Elephant (NFR), Cow (R), Munchkin Cat (NR), Shrew (NR), Slime (MR), Puffin | **leruval**: Parrot (FR) |
+| 18:00 | **R3VIEK20**: Ride-A-Pet Potion ×4 | **noob1962963**: Pupcicle ×4 |
+| 18:00 | **swordrebellion**: Giraffe (FR) | **mikepower240508**: Peppermint Penguin (FR) ×4, Arctic Reindeer (FR), Dalmatian (FR) ×2, Pelican, Eggnog Dog (MFR) |
+| 18:00 | **Omar2002548**: Halloween Slime Mega Neon Paint | **teaovalentin**: Retired Egg ×18 |
+| 18:00 | **DecayingBat**: Copycat, Harp Seal | **Loujayn_gam**: Jester Dragon |
+| 18:00 | **huyichan9130**: Cryptid | **Loujayn_gam**: Cryptid (FR) |
+| 18:00 | **Loujayn_gam**: Ice Cream Hermit Crab | **POMAHA948**: Chocolate Dutch Guinea Pig |
+| 18:00 | **Austa_675**: Ride-A-Pet Potion, Chocolate Dutch Guinea Pig | **fortradingwlol**: Chihuahua (NR) |
+| 18:00 | **LaMamiC123**: Goose (FR), Unicorn Horn, Rain Cloud Hat ×2 | **sofia_sofiko**: Hedgehog (FR) |
+| 18:00 | **Jakaraz1981**: Strawberry Shortcake Bat Dragon (FR) | **daanz2**: Husky (MR), Shark Puppy (R), Jester Dragon, Ride-A-Pet Potion ×2 |
+| 18:00 | **Yo_k4wai**: Siamese Cat (FR), Goat, Aussie Egg | **Ishbalalala1**: Peppermint Penguin (R) |
+| 18:00 | **Midwak_CECRET**: Pupcicle | **good_vibesgirl09**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
