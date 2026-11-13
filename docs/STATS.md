@@ -1,20 +1,20 @@
 # Collected data
 
-_Updated 2026-11-13 15:41 UTC by the scrape workflow._
+_Updated 2026-11-13 15:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 7 | 2026-11-11T1036Z | 2026-11-13T0045Z |
-| amvgg | 11 | 2026-11-11T1036Z | 2026-11-13T1445Z |
+| amvgg | 12 | 2026-11-11T1036Z | 2026-11-13T1545Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 37,062 | 2026-11-13T15:30 |
-| elve | 3 | 7,627 | 2026-11-13T15:31 |
+| amvgg | 3 | 37,315 | 2026-11-13T15:45 |
+| elve | 3 | 7,662 | 2026-11-13T15:45 |
 
 ## AMVGG completed trades: 8,094 total
 
@@ -64,22 +64,22 @@ _Updated 2026-11-13 15:41 UTC by the scrape workflow._
 | 2026-11-13 00:00 | Jester Dragon | neon fly ride | 36 | 34 |
 | 2026-11-13 00:00 | Jester Dragon | default no potion | 8.5 | 8 |
 
-## AMVGG value changes: 7,602 since 2026-06-02
+## AMVGG value changes: 7,648 since 2026-06-02
 
 | When (UTC) | Item | Changes |
 |---|---|---|
-| 2026-11-12 16:21 | Mighty Haetyphoon Animated Sticker | Item 0.01 → 0.007 |
-| 2026-11-12 16:11 | Cryptid | Regular 0.75 → 0.74, Neon 1.72 → 1.7 |
-| 2026-11-12 16:04 | Haetyphoon | Regular 0.13 → 0.12, Neon 0.54 → 0.5, Mega 2.25 → 2.1 |
-| 2026-11-12 16:02 | Thunderfisher | Regular 0.006 → 0.005, Neon 0.012 → 0.01, Mega 0.045 → 0.0375, Mega demand Medium → Low |
-| 2026-11-12 16:01 | Electric Hornet | Regular 0.00675 → 0.0065, Neon 0.0175 → 0.0135, Mega 0.07 → 0.055, Mega demand Medium → Low |
-| 2026-11-12 16:00 | Mini Pig | Mega 2.475 → 2.5 |
-| 2026-11-12 15:55 | Naughty Mistletroll | Regular 0.03 → 0.028, Neon 0.12 → 0.1125, Mega 0.48 → 0.45 |
-| 2026-11-12 15:53 | Blazing Lion | Regular 0.94 → 0.92, Neon 3.175 → 3.125, Mega 12.4 → 12.1 |
-| 2026-11-12 15:52 | Giant Panda | Regular 1.125 → 1.11, Neon 3.925 → 3.85, Mega 15.65 → 15.35 |
-| 2026-11-12 15:49 | Frostbite Bear | Regular 0.19 → 0.18, Neon 0.625 → 0.575, Mega 2.25 → 2.05 |
-| 2026-11-12 15:46 | Sakura Spirit | Regular demand High → Medium, Neon demand High → Medium, Mega demand High → Medium |
-| 2026-11-12 15:46 | Cupid Dragon | Neon 0.22 → 0.215, Mega 0.88 → 0.86 |
-| 2026-11-12 15:46 | Silverback Gorilla | Regular 0.0575 → 0.055, Neon 0.235 → 0.22, Mega 0.96 → 0.9 |
-| 2026-11-12 15:46 | Siamese Cat | Mega 1.075 → 1.05 |
-| 2026-11-12 15:45 | Christmas Pudding Pup Bait | Item 0.04 → 0.0375 |
+| 2026-11-13 15:44 | Monkey King | Regular 0.2075 → 0.205, Neon 0.825 → 0.815, Mega 3.3 → 3.26 |
+| 2026-11-13 15:43 | Flash Weasel | Regular 0.12 → 0.115, Neon 0.5 → 0.48, Mega 2.1 → 2.05 |
+| 2026-11-13 15:43 | Haetyphoon | Regular 0.12 → 0.115, Neon 0.5 → 0.48, Mega 2.1 → 2.05 |
+| 2026-11-13 15:36 | Arctic Reindeer | Regular 0.42 → 0.425, Neon 0.84 → 0.85, Mega 2.675 → 2.65 |
+| 2026-11-13 15:35 | Strawberry Shortcake Bat Dragon | Regular 0.38 → 0.385 |
+| 2026-11-13 15:35 | Chocolate Chip Bat Dragon | Regular 0.375 → 0.38 |
+| 2026-11-13 15:30 | Blazing Lion | Regular 0.92 → 0.9, Neon 3.125 → 3.075, Mega 12.1 → 11.75 |
+| 2026-11-13 15:30 | Giant Panda | Regular 1.11 → 1.08, Neon 3.85 → 3.775, Mega 15.35 → 15 |
+| 2026-11-13 15:27 | Frost Dragon | Mega 8.35 → 8.5 |
+| 2026-11-13 15:27 | Candicorn | Mega 0.94 → 0.92, Neon demand High → Medium |
+| 2026-11-13 15:26 | Glacier Moth | Regular 0.0365 → 0.0355, Neon 0.1475 → 0.1425, Mega 0.61 → 0.59 |
+| 2026-11-13 15:26 | Cupid Dragon | Neon 0.215 → 0.2075, Mega 0.86 → 0.83 |
+| 2026-11-13 15:25 | Silverback Gorilla | Regular 0.055 → 0.05, Neon 0.22 → 0.2, Mega 0.9 → 0.825 |
+| 2026-11-13 15:25 | Arctic Dusk Dragon | Regular 0.041 → 0.0385, Neon 0.16 → 0.155, Mega 0.64 → 0.62 |
+| 2026-11-13 15:24 | Orchid Butterfly | Mega demand High → Medium |
