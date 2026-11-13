@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 03:31 UTC by the scrape workflow._
+_Updated 2026-11-13 03:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 03:31 UTC by the scrape workflow._
 | amvgg | 3 | 26,258 | 2026-11-13T03:30 |
 | elve | 3 | 5,323 | 2026-11-13T03:31 |
 
-## AMVGG completed trades: 6,249 total
+## AMVGG completed trades: 6,265 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 416 |
+| 2026-11-13 | 432 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 03:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:30 | **mxrgan66**: Dango Penguins, Dragonfruit Fox | **Duanny4576**: Ballet Swan |
-| 03:30 | **landenc9970i**: Black Springer Spaniel ×3, Great Pyrenees, Gecko, Robin (FR) | **mxrgan66**: Ride-A-Pet Potion ×4 |
-| 03:30 | **Alshxh21**: Evil Unicorn (R), Siamese Cat (NR), Spring Bunny Feet ×2 | **GxmerOfficial**: Crow (FR) |
-| 03:30 | **Giodg2006**: Owlbear (NFR) | **liddysadm**: Owlbear (N) |
-| 03:30 | **RxchelPlxyz**: Mini Pig (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Shooting Star Board | **Seiyakung_TV**: Turtle (NFR) |
-| 03:30 | **donnotinteract**: Copycat (NR), Tiny Wings, Ride-A-Pet Potion | **mygrandpasleftoe**: Chocolate Dutch Guinea Pig (MFR), Hare (N) |
-| 03:30 | **thnkabtkent**: Frostbite Bear (R) | **Sove_1111**: Flash Weasel |
-| 03:30 | **b_cwx**: Peppermint Penguin (FR), Polar Bear (NFR), German Shepherd (MFR) | **gthstnr**: Jousting Horse (MFR) |
-| 03:30 | **cutekitty82467**: Giant Panda, Unicorn Horn, Mini Pig (FR), Cow (NFR), Spring Bunny Hood, Shark Puppy (N), Turtle (FR), Mermicorn, Hare (NR) | **CadenChallenges**: Giraffe (FR) |
-| 03:30 | **Floppybunny_4662**: Strawberry Shortcake Bat Dragon (FR), Copycat | **carolzinhac2009**: Arctic Reindeer (FR), Unicorn |
-| 03:30 | **Lpoopbxhe**: Werewolf (NFR), Crocodile (NFR), Sugar Axolotl (FR) | **ThatOneUnpaid_Intern**: Arctic Fox (MFR) |
-| 03:25 | **Mitsuri_Chan0w**: Frost Dragon (FR), Cow (FR) | **nokia23pop**: Cabbit (MFR) |
-| 03:25 | **Kingfam90**: Sakura Spirit (FR) | **theking_56yt**: Pink Cat (FR) |
-| 03:25 | **AutoTradeCommission**: Cow (FR), Fly-A-Pet Potion | **xTvnee**: Wood Pigeon (MFR) |
-| 03:25 | **corbin374**: Rain Cloud Hat, Spring Bunny Hood, Tiny Wings ×2 | **violencesoul**: Candy Cane Snail (MFR), Snowball Pug (MFR), Raccoon (MFR), Raccoon (MR), Latte Kitsune, Ballet Swan |
+| 03:40 | **HOUSEPARTY9809**: Frost Unicorn (FR) | **100PercentWinRateHax**: Haetyphoon |
+| 03:40 | **XzSniperqRBacon2zX20**: Tuxedo Cat (N) | **Zxtemily**: Ride-A-Pet Potion ×4 |
+| 03:40 | **iaMatthieu1**: Flamingo (FR), Crocodile (FR) | **vincelft0**: Candicorn (R), Elephant (R) |
+| 03:40 | **Chancla_electrica**: Boohoo (NFR) | **Terranese**: Ride-A-Pet Potion |
+| 03:40 | **Attilafluffy16**: Arctic Dusk Dragon (MFR), Frostbite Bear, Peppermint Penguin (NR) | **Ladysgaga20**: Giant Panda (FR), Fairy Bat Dragon (R), Goose |
+| 03:40 | **Xxfortnite401kxX**: Scarecrow Horse (M) | **b_cwx**: Ride-A-Pet Potion ×3 |
+| 03:40 | **WhinyBuny**: Cryptid (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate | **thefreaky2026**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 03:40 | **PVIC124**: Chocolate Chip Bat Dragon (FR), Rain Cloud Hat, Spring Bunny Nose, Ride-A-Pet Potion | **stitchedeyesholder**: Sugar Glider (NFR) |
+| 03:40 | **vasilisa11rus1**: Bush Elephant (R), Pain au Chat, Crimson Cape, Poltergeist Box | **milesgabrie12**: Spring Bunny Hood, Ice Cream Cone Hat, French Bulldog (NR) |
+| 03:40 | **milesgabrie12**: Amami Rabbit (N), Poodle (M) | **jame5079q**: Alley Cat (R) |
+| 03:40 | **Siren_AriaBlaze**: Crow (FR), Fairy Bat Dragon (N), Candyfloss Chick (N), Hot Doggo (R), Cow (FR) ×2, Cow (R) ×4, Goose ×2, Cow ×2, Strawberry Shortcake Bat Dragon (F), Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon (FR), Shark Puppy (R) | **WaguriMywaifu1**: Bat Dragon (FR) |
+| 03:40 | **TANSKlN**: Mermicorn (MFR), Hedgehog (FR) | **carlitosuwuagua**: Mini Pig (MFR), Snowball Pet (MFR) |
+| 03:40 | **blake_shortie**: Fly-A-Pet Potion, Ride-A-Pet Potion, Tanuki (N) ×2 | **Leviodas**: Roadrunner (MR) |
+| 03:40 | **xas3llx**: Wailing Mr. Whiskerpips Sticker ×2 | **Cute_Cinabon**: Mighty Haetyphoon Animated Sticker |
+| 03:40 | **Itme_ving**: Mini Pig, Arctic Fox (R) | **Lookingforacabbit**: Sugar Glider (FR), Alpaca (R) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
