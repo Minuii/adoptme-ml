@@ -152,7 +152,8 @@ tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 .rise .bar { height: 3px; border-radius: 2px; background: var(--grid); grid-column: 3 / 5; margin-top: -2px; }
 .rise .bar i { display: block; height: 100%; border-radius: 2px; background: var(--up); }
 .rise .more { align-self: stretch; }
-.rise .seg { align-self: flex-start; }
+.rise .rtoggles { display: flex; flex-wrap: wrap; gap: 8px; }
+.rise .seg button { padding: 6px 10px; min-height: 32px; }
 @media (max-width: 900px) {
   .browse-grid { grid-template-columns: minmax(0, 1fr); }
   .rise { position: static; order: -1; }
@@ -550,26 +551,31 @@ function drawItem() {
 
 // ---- Values tab: the 20 pets most likely to rise, or to drop, over 30 days (one row per pet: its likeliest variant) ----
 const RISE_N = 20, RISE_SHORT = 5;
-let riseOpen = false, riseMode = "up";
+let riseOpen = false, riseMode = "up", riseH = "30";
+const fcFor = hz => hz === "30" ? FC : (FC.h || {})[hz];  // forecast block for a horizon (days)
 async function drawRise() {
   const box = $("#rise");
   await loadFC();
+  if (!fcFor(riseH)) riseH = "30";
+  const F = fcFor(riseH) || {}, flat = F.flat || 5;
   const up = riseMode === "up", slot = up ? 0 : 1;  // forecast.json: [P(up), P(down), call]
-  const rows = Object.entries(FC.items || {}).map(([name, f]) => {
+  const rows = Object.entries(F.items || {}).map(([name, f]) => {
     const [k, v] = Object.entries(f).sort((a, b) => b[1][slot] - a[1][slot])[0];
     return { it: BYNAME.get(name), k, p: v[slot] };
   }).filter(r => r.it).sort((a, b) => b.p - a.p).slice(0, RISE_N);
   box.hidden = S.tab !== "list" || !rows.length;
   if (box.hidden) return;
   const narrow = matchMedia("(max-width: 900px)").matches, show = narrow && !riseOpen ? rows.slice(0, RISE_SHORT) : rows;
-  const bt = FC.backtest || {}, days = FC.days || 30, word = up ? "rise" : "drop", col = up ? "var(--up)" : "var(--down)";
+  const bt = F.backtest || {}, days = F.days || 30, word = up ? "rise" : "drop", col = up ? "var(--up)" : "var(--down)";
   const go = r => { [S.var, S.pot] = r.k.split("-"); openItem(r.it); };
   const mode = (m, label) => h("button", { "aria-pressed": String(riseMode === m), onclick: () => { riseMode = m; drawRise(); } }, label);
+  const hz = x => fcFor(x) ? h("button", { "aria-pressed": String(riseH === x), onclick: () => { riseH = x; drawRise(); } }, `${x} days`) : null;
   box.replaceChildren(
     h("h2", {}, up ? "Most likely to rise" : "Most likely to drop"),
-    h("div", { class: "seg", role: "group", "aria-label": "Rise or drop" }, mode("up", "Rise"), mode("down", "Drop")),
-    h("span", { class: "sub" }, `Chance of a 5%+ ${word} on Elvebredd in the next ${days} days · as of ${FC.asof}`),
-    h("ol", {}, show.map((r, i) => h("li", { tabindex: 0, role: "link", title: `${r.it.name} · ${keyTxt(r.it, r.k)}: ${pc(r.p)} chance of a 5%+ ${word}`,
+    h("div", { class: "rtoggles" }, h("div", { class: "seg", role: "group", "aria-label": "Rise or drop" }, mode("up", "Rise"), mode("down", "Drop")),
+      h("div", { class: "seg", role: "group", "aria-label": "How far ahead" }, hz("7"), hz("30"), hz("90"))),
+    h("span", { class: "sub" }, `Chance of a ${flat}%+ ${word} on Elvebredd in the next ${days} days · as of ${F.asof}`),
+    h("ol", {}, show.map((r, i) => h("li", { tabindex: 0, role: "link", title: `${r.it.name} · ${keyTxt(r.it, r.k)}: ${pc(r.p)} chance of a ${flat}%+ ${word} in ${days} days`,
         onclick: () => go(r), onkeydown: e => { if (e.key === "Enter") go(r); } },
       h("span", { class: "rk" }, i + 1), icon(r.it) || h("span"),
       h("span", { class: "nm" }, h("b", {}, r.it.name), h("span", { class: "sub" }, r.k === "r-np" ? "No potion" : bdgs(badgeTags(r.k)),
@@ -579,8 +585,11 @@ async function drawRise() {
     narrow && rows.length > RISE_SHORT ? h("button", { class: "more", onclick: () => { riseOpen = !riseOpen; drawRise(); } },
       riseOpen ? "Show fewer" : `Show all ${rows.length}`) : null,
     h("p", { class: "note" }, `One row per pet, its likeliest variant. ` +
-      (bt.months ? (up ? `In tests, "likely up" calls rose 5%+ ${pc(bt.up_precision)} of the time, and the top 20 gained ${pctTxt(100 * bt.top20)} a month on average (all pets ${pctTxt(100 * bt.all_pets)}). `
-        : `In tests, "likely down" calls dropped 5%+ ${pc(bt.down_precision)} of the time; most values don't move in a month. `) : "") +
+      (bt.months ? (up ? `In tests over ${bt.months} months, "likely up" calls rose ${flat}%+ ${pc(bt.up_precision)} of the time, and the top 20 gained ` +
+          `${pctTxt(100 * bt.top20)} per ${days} days on average (all pets ${pctTxt(100 * bt.all_pets)}). `
+        : `In tests over ${bt.months} months, "likely down" calls dropped ${flat}%+ ${pc(bt.down_precision)} of the time; most values don't move. `)
+        : `This ${days}-day model hasn't been fully tested yet; treat it with more caution than the 30-day one. `) +
+      (days === 90 ? `Over 90 days the model barely beat "repeat the last change" in earlier tests. ` : "") +
       "A model's guess, not a promise."));
 }
 

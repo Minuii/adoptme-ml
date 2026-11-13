@@ -299,7 +299,7 @@ activity = {items[k]["name"]: {"t": dict(a["t"]), "o": {s: dict(v) for s, v in a
 print(len(activity), "items with activity,", len(seen_ids), "trades,", ads_n, "offers,",
       round((SITE / "activity.json").stat().st_size / 1e6, 2), "MB")
 
-# ---- Item pages: the model's 30-day direction call (results/direction_30d.csv, written weekly by forecast.yml) ----
+# ---- Item pages: the model's 30-day direction call (results/direction_<7|30|90>d.csv, written daily by forecast.yml) ----
 import csv
 
 FC_LABEL = {"default no potion": "r-np", "neon fly ride": "n-fr", "mega fly ride": "m-fr"}  # the 3 predicted variants
@@ -311,9 +311,15 @@ def mean(xs):
     return sum(xs) / len(xs) if xs else None
 
 
-fc_file, bt_file = DATA.parent / "results" / "direction_30d.csv", DATA.parent / "results" / "both_model_30d_folds.csv"
-forecast = {}
-if fc_file.exists():
+FLAT_PCT = {7: 2, 30: 5, 90: 10}  # a "rise" / "drop" is a move of at least this many % (elve_model.FLAT for each horizon)
+
+
+def horizon_block(h):
+    """The model's call per pet and the walk-forward backtest, for one horizon (days); {} if there is no forecast."""
+    fc_file = DATA.parent / "results" / f"direction_{h}d.csv"
+    bt_file = DATA.parent / "results" / ("both_model_folds.csv" if h == 7 else f"both_model_{h}d_folds.csv")
+    if not fc_file.exists():
+        return {}
     head, *rows = fc_file.read_text(encoding="utf-8").splitlines()
     fc_items = {}
     for r in csv.DictReader(rows):
@@ -321,13 +327,18 @@ if fc_file.exists():
         if it and k:
             fc_items.setdefault(it["name"], {})[k] = [round(float(r["p_up"]), 3), round(float(r["p_down"]), 3), r["call"]]
     folds = [r for r in csv.DictReader(bt_file.open(encoding="utf-8")) if r["model"] == BACKTEST_MODEL] if bt_file.exists() else []
-    every = "top-20, new picks every 30d"
+    every = f"top-20, new picks every {h}d"
     backtest = {"months": len(folds), "first": min((r["month"] for r in folds), default=""), "last": max((r["month"] for r in folds), default=""),
                 "up_precision": mean(r["up precision"] for r in folds), "down_precision": mean(r["down precision"] for r in folds),
                 "top20": mean(r.get(every, "") for r in folds), "all_pets": mean(r["universe mean change"] for r in folds),
                 "months_beating": mean(float(r[every]) > float(r["universe mean change"]) for r in folds
                                        if r.get(every) not in (None, "", "nan"))} if folds else {}
-    forecast = {"asof": head.removeprefix("# as of ")[:10], "note": head.lstrip("# "), "days": 30, "backtest": backtest, "items": fc_items}
+    return {"asof": head.removeprefix("# as of ")[:10], "note": head.lstrip("# "), "days": h, "flat": FLAT_PCT[h],
+            "backtest": backtest, "items": fc_items}
+
+
+forecast = horizon_block(30)  # item pages and the track record use 30 days
+forecast["h"] = {str(h): horizon_block(h) for h in (7, 90) if horizon_block(h)}  # the side panel can switch to these
 # live track record: each logged day's calls scored against Elvebredd's value 30 days later (track_record.py)
 from track_record import record
 elve_snaps = [(datetime.strptime(t, "%Y-%m-%dT%H:%M").replace(tzinfo=timezone.utc), v) for t, v in snapshot_values("elve")]
@@ -336,7 +347,8 @@ checked_at = datetime.strptime(checked_txt, "%Y-%m-%dT%H%MZ").replace(tzinfo=tim
 forecast["record"] = record(DATA.parent / "results" / "forecast_log" / "30d", elve_snaps, checked_at, key)
 print("track record:", {k: v for k, v in forecast["record"].items() if k != "days"})
 (SITE / "forecast.json").write_text(json.dumps(forecast, separators=(",", ":")), encoding="utf-8")
-print(len(forecast.get("items", {})), "pets with a 30-day direction call, as of", forecast.get("asof", "-"))
+print(len(forecast.get("items", {})), "pets with a 30-day direction call, as of", forecast.get("asof", "-"), "| other horizons:",
+      {h: (b["asof"], len(b["items"]), b["backtest"].get("months", 0)) for h, b in forecast["h"].items()})
 
 if __name__ == "__main__":  # smoke check: a well-known pet joins across both lists with history
     sd = items[key("Shadow Dragon")]
