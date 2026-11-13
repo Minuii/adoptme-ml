@@ -33,7 +33,7 @@ jobs:
           for attempt in 1 2 3; do
             git add results/direction_30d.csv
             git diff --cached --quiet && exit 0
-            git commit -q -m "forecast: $(head -1 results/direction_30d.csv | cut -c3-22)"
+            git commit -q -m "forecast: as of $(head -1 results/direction_30d.csv | cut -d' ' -f4)"
             git pull -q --rebase && git push -q && exit 0
             git rebase --abort 2>/dev/null || true
             git fetch -q && git reset -q --hard origin/main
