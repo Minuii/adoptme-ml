@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 05:25 UTC by the scrape workflow._
+_Updated 2026-11-13 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 27,835 | 2026-11-13T05:15 |
-| elve | 3 | 5,591 | 2026-11-13T05:16 |
+| amvgg | 3 | 28,060 | 2026-11-13T05:30 |
+| elve | 3 | 5,627 | 2026-11-13T05:31 |
 
-## AMVGG completed trades: 6,470 total
+## AMVGG completed trades: 6,476 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 637 |
+| 2026-11-13 | 643 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,12 @@ _Updated 2026-11-13 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **Spraypa1nt3r6**: Blazing Lion (R) | **ffrr11222**: Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion, Cryptid (R) |
+| 05:30 | **bentlybubs2**: Ride-A-Pet Potion | **Getmeout_hai**: Crystal Egg ×12 |
+| 05:30 | **SASHA_L0LU**: Goose (R), Goose (FR), Frost Dragon (FR) | **xuanshenzen**: Parrot (NFR) |
+| 05:30 | **Cerekm9**: Eaten Donut | **solitudeandsilence**: Retired Egg ×10 |
+| 05:30 | **SyndromGG**: Pet Handler Pro Certificate | **yourmyrara**: Fly-A-Pet Potion |
+| 05:30 | **yourmyrara**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **anihao17**: Copycat |
 | 05:25 | **Special_Foxi**: Spring Bunny Feet, Pink Butterfly Wings | **Wockillzzz2**: Fly-A-Pet Potion |
 | 05:25 | **BARENIK_229**: Fly-A-Pet Potion | **averyykki**: Chocolate Dutch Guinea Pig |
 | 05:25 | **Kattyloni**: Scarecrow (N), Icy Porcupine (N), Gold Tiara | **themudwizard**: Ride-A-Pet Potion |
@@ -37,12 +43,6 @@ _Updated 2026-11-13 05:25 UTC by the scrape workflow._
 | 05:25 | **lkmsdfw**: Fly-A-Pet Potion | **gamereldark_YT**: Rock (N), Flying Fish (NR) |
 | 05:25 | **NerVhana**: Gecko (MFR) | **d9intyy**: Tiny Wings |
 | 05:25 | **R3n3_khlo3**: Chihuahua ×2 | **Isaticas**: Ride-A-Pet Potion |
-| 05:20 | **JPrincipeS09**: Ride-A-Pet Potion | **1weektoeviluni0**: Crystal Egg ×16 |
-| 05:20 | **RoyaleWanderer**: Giraffe (FR), Cryptid (FR) | **kiaraaalol1**: Owl (NFR) |
-| 05:20 | **crizz_pr0**: Hot Doggo (NFR), Spring Bunny Hood, Goth Shoes | **TsukiakariShirayuki**: Christmas Pudding Pup (MFR) |
-| 05:20 | **kulveqq**: Arctic Dusk Dragon (M), Ice Cream Cone Hat | **stvrestial**: Evil Unicorn (FR) |
-| 05:20 | **iaMatthieu1**: Cow (FR) | **llanprolol1**: Candicorn (FR), Shark Puppy (FR), Fly-A-Pet Potion ×2 |
-| 05:20 | **Cynor0x**: Evil Unicorn (FR), Angel Wings | **as_ishere**: Strawberry Shortcake Bat Dragon (NFR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
