@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 21:01 UTC by the scrape workflow._
+_Updated 2026-11-13 21:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 21:01 UTC by the scrape workflow._
 | amvgg | 3 | 42,632 | 2026-11-13T21:00 |
 | elve | 3 | 8,797 | 2026-11-13T21:01 |
 
-## AMVGG completed trades: 9,616 total
+## AMVGG completed trades: 9,676 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 3,783 |
+| 2026-11-13 | 3,843 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 21:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:00 | **youngestxd**: Ride-A-Pet Potion | **minimal_juasjuas**: Pupcicle |
-| 21:00 | **JEROMENPI_1**: Grim Dragon (FR), Sea Angel (M) | **poorbunii**: Cabbit (FR) |
-| 21:00 | **Haisinberge**: Retired Egg ×4 | **Dash35813**: Easter Bunny |
-| 21:00 | **OlaPL5432151**: African Wild Dog (FR), African Wild Dog (R) | **ADDIEISCHEAP**: Frost Dragon (FR) |
-| 21:00 | **Lucie_Dreemurr2**: Arctic Dusk Dragon (MFR), Spring Bunny Feet, Puptune (NR), Vanilla Penguin, Tuxedo Cat, Rock Pigeon (N) | **LaZy_PoPtArTs**: Evil Unicorn (R) |
-| 21:00 | **Mousepiggyofc**: Glormy Crab, Blue Whale, Golden Egg | **UnU_Darina1**: Slothula Transformation Animated Sticker |
-| 21:00 | **Sasukepro800**: Alpaca (R) | **Ush_8044**: Pupcicle ×16 |
-| 21:00 | **ellasweetcakelove**: Candicorn (NFR), Strawberry Penguin (R), Dango Penguins (FR), Chocolate Dutch Guinea Pig, Flaming Fox | **XxSaibelxX**: Strawberry Shortcake Bat Dragon |
-| 21:00 | **Fairy_Demon190**: Retired Egg ×3 | **Dash35813**: Skelicorn |
-| 21:00 | **JustCallMe_Sendy**: Frostbite Bear | **Gilbertissoawesome3**: Turtle (FR) |
-| 21:00 | **Hamigail**: Pupcicle | **Abigail_Inferno237**: Chocolate Dutch Guinea Pig |
-| 21:00 | **unice_unicoo**: Ride-A-Pet Potion | **candygirllover73**: Gemstone Egg ×3 |
-| 21:00 | **rainthatxx**: Elephant | **Hasiiiiiiiiiiiii**: Pupcicle ×14 |
-| 21:00 | **KemmasRoblox**: Ride-A-Pet Potion | **jilucie2010**: Pupcicle |
-| 21:00 | **akatsiiii**: Ride-A-Pet Potion | **Aesthetic_Mexico**: Pupcicle |
+| 21:11 | **elproXD_7v7**: Stray Cat Dragon (N) ×2 | **Burnin_Nick**: Ride-A-Pet Potion |
+| 21:11 | **pskijydy**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **kiff_shik**: Fallow Deer (FR) |
+| 21:11 | **Noyniya**: Ride-A-Pet Potion ×6 | **mxrgan66**: Ice Cream Cone Hat |
+| 21:11 | **xaoichaanx**: Chihuahua, Pupcake | **youyou670**: Pupcicle |
+| 21:11 | **icedmatchayummy**: Back Taco, Poodle (MFR) | **Hellokitty_loves941**: Pet Handler Pro Certificate |
+| 21:11 | **Omar2002548**: Grim Dragon (FR) | **dayum12331**: Tortuga de la Isla (N) |
+| 21:11 | **MegaJady**: Chilling Spider, Green Amazon (R), Starmite (N) | **Shehatesme420**: Ride-A-Pet Potion |
+| 21:11 | **Lilit_rbx7**: Purrowl (N), Purrowl ×2, Pomeranian (N), Gummy Guana (N), Orangutan (N), Fairytale Egg ×4 | **Gmyiluv**: Ride-A-Pet Potion |
+| 21:11 | **valentinaajuwu**: Ride-A-Pet Potion ×6 | **divertismyname**: Pupcicle ×6 |
+| 21:11 | **Sains9811**: Unicorn | **wxhappy**: Pupcicle |
+| 21:11 | **Erizien**: Chocolate Chip Bat Dragon (NFR), Owlbear (MFR), Quad Stroller | **sleepy_s0ren**: Giant Panda (FR), Chocolate Chip Bat Dragon (FR) |
+| 21:11 | **scarIitta**: Werewolf | **dedene123r32**: Flash Weasel (R) |
+| 21:11 | **venuslvrs**: Giraffe (FR) | **Ccrumbcat**: Cryptid (NFR), Evil Unicorn (FR) |
+| 21:11 | **COBRA_GAMER26M**: Strawberry Shortcake Bat Dragon | **trecnor**: Candicorn (FR) ×2, Candicorn |
+| 21:11 | **perrosalchicha67895**: Pupcicle ×4, Ride-A-Pet Potion | **Hamigail**: Pupcicle (N) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
