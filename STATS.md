@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 10:16 UTC by the scrape workflow._
+_Updated 2026-11-13 10:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 10:16 UTC by the scrape workflow._
 | amvgg | 3 | 32,163 | 2026-11-13T10:15 |
 | elve | 3 | 6,479 | 2026-11-13T10:16 |
 
-## AMVGG completed trades: 7,046 total
+## AMVGG completed trades: 7,072 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,213 |
+| 2026-11-13 | 1,239 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 10:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:15 | **elitro44**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **Leviodas**: Jester Dragon |
-| 10:15 | **Mrpresident20010**: Hare, Ice Cream Hermit Crab, Fly-A-Pet Potion | **Cookie_nom9**: Copycat |
-| 10:15 | **ethereayume**: Zombie Wolf (MFR), Queen Bee (FR), Gemstone Egg | **Mytradeaccountforme**: Strawberry Penguin (NFR) |
-| 10:15 | **lollucio251**: River Otter (M), Eggnog Dog, Tanuki, Thunderfisher | **liofe1**: Ride-A-Pet Potion |
-| 10:15 | **turtlereef24**: Purrowl | **TheCrazyYTGamer**: Purrowl, Endangered Egg ×3 |
-| 10:15 | **Mubark8opo**: Ice Golem (FR), Stray Cat Dragon (M) ×9, Dango Penguins | **dupeczek23**: Velocirooster (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 10:15 | **Only_Gio123**: Silverback Gorilla (MFR) | **hellofriendnicetome**: Cupid Dragon (MFR) |
-| 10:15 | **illycecy**: Chocolate Dutch Guinea Pig (R), Sushi Penguin, Pirate Hat | **itzz_Keys**: Spring Bunny Nose |
-| 10:15 | **stayter213**: 2022 Birthday Party Horn, Santa Hat, Sandwich Hat | **kansoo4**: Unicorn (MFR) |
-| 10:15 | **iioxnicc**: Skelicorn ×4, Beluga Whale (N), Donut Stroller | **r0mmul4s**: Unicorn |
-| 10:15 | **KAIYAHXGLAMS**: Ride-A-Pet Potion ×2 | **Fruit_Kittie**: Fly-A-Pet Potion |
-| 10:15 | **corbin374**: Turtle (FR) ×8, Elephant (R), Ride-A-Pet Potion | **M1dnight_moons**: Frost Fury (MFR), Snow Owl (MFR), Bauble Buddies (MFR), Cozy Mistletroll (MR), Ram (MFR), Swan (MFR), Lynx (MFR), Super Saru (MFR), Black Panther (MFR) |
-| 10:15 | **Cloudyii_Safari**: Unicorn (MFR), Jester Dragon (R) | **Akieqt9**: Haetyphoon (R) |
-| 10:15 | **fox_100l**: Wyvern (N) | **liofe1**: Ride-A-Pet Potion |
-| 10:15 | **gffdjddd23_4**: Evil Unicorn (FR) ×3, Turtle (NFR), Siamese Cat (NFR), Turtle (FR) ×4, Fairy Bat Dragon (FR), Kangaroo (FR), Ice Cream Cone Hat, Flaming Fox (NFR), Golden Rat (NFR), Hippo (MFR), Pet Handler Pro Certificate, Gemstone Egg | **Frdvhev**: Shadow Dragon (FR) |
+| 10:25 | **Sarah_dzalg**: Frost Dragon (NFR), Goose (FR), Ice Cream Cone Hat | **wrd2angell**: Balloon Unicorn (NFR) |
+| 10:25 | **prostod_f**: Fly-A-Pet Potion ×2, Dango Penguins | **Cookie_nom9**: Copycat |
+| 10:25 | **itzz_Keys**: Bready Necklace | **kylibyakaaa0**: Mrs. Whiskerpips (R), Royal Palace Spaniel (R), Easter Bunny |
+| 10:25 | **flears_brai**: Stitches (M) ×6 | **Fruit_Kittie**: Fly-A-Pet Potion ×5 |
+| 10:25 | **akeks_74**: Bush Elephant, Vol. 2 Pets Plus Sticker Pack | **personal_stalker69**: Latte Kitsune (NFR) |
+| 10:25 | **04h11x**: Pig (R) | **ggummyblair**: Copycat (FR) |
+| 10:25 | **ohinam**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion | **addAquaskycode2015**: Flamingo (FR) |
+| 10:25 | **Malinamyn**: Golden Griffin, Golden Unicorn, Glormy Crab, Leopard Cat, Flower Power Duckling | **liofe1**: Ride-A-Pet Potion |
+| 10:25 | **Ilresonancell**: Cryptid (FR) ×2, Jester Dragon (NFR) | **kiaraaalol1**: Cryptid (NFR) |
+| 10:25 | **nazanin_201**: Matcha Cat, Tuxedo Cat (NFR), Ride-A-Pet Potion, Rain Hat, Gemstone Egg | **Itz_CoffeeMochi**: Red Dutch Guinea Pig ×4 |
+| 10:25 | **fygramvgg**: Mochi Meow (M) ×2 | **ameyyass**: Fly-A-Pet Potion ×2 |
+| 10:25 | **hisforeverndalways**: 2022 Birthday Party Horn, Rain Cloud Hat, Halo | **bestfriend373737**: Rainbow Maker |
+| 10:25 | **emsgrindingam**: Brown Bear (NFR), Candy Hare (NFR), Ghost Bunny (NFR), 2022 Birthday Cake, Ice Cream Cone Hat | **antuco_tuco909**: Alley Cat (MFR) |
+| 10:25 | **KotMonster7**: Werewolf, Fly-A-Pet Potion ×3 | **squidthem**: Turtle (FR) |
+| 10:25 | **iipicklette**: Fly-A-Pet Potion | **BETTY_ICE7**: Teleportation Potion |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
