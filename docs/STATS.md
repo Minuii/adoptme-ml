@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 15:46 UTC by the scrape workflow._
+_Updated 2026-11-13 15:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 15:46 UTC by the scrape workflow._
 | amvgg | 3 | 37,315 | 2026-11-13T15:45 |
 | elve | 3 | 7,662 | 2026-11-13T15:45 |
 
-## AMVGG completed trades: 8,094 total
+## AMVGG completed trades: 8,131 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,261 |
+| 2026-11-13 | 2,298 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 15:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:41 | **taliza_lol**: Strawberry Tortle, Candicorn (N), Chocolate Dutch Guinea Pig (MR), Phantom Dragon (R), Jester Dragon, Happy Duckling (N), Red Dutch Guinea Pig ×2, Chocolate Dutch Guinea Pig ×4, Cattuccino (M), Ghost (M), Dire Wolf (M), Onza (M), Lunar Tiger (M), Toucan (M) | **iamnoonetobehere**: Sakura Spirit (MFR) |
-| 15:41 | **fishymiss_y**: Husky (FR), Hare, Shadow Dragon Ducky, Ride-A-Pet Potion | **Cookie_nom9**: Copycat |
-| 15:41 | **SanAndres404**: Cabbit | **Jxamie_03**: Elephant (R), Happy Duckling (MR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 15:41 | **zoommbbeee**: Alien Eyes Hat, Puppeteer Hand | **Frroya**: Ride-A-Pet Potion |
-| 15:41 | **leoncitoUwU12345**: Lion Cub, Ride-A-Pet Potion | **itzlexi63737**: Silverback Gorilla (R) |
-| 15:41 | **Bumble_Lou**: Fly-A-Pet Potion ×2 | **Omar2002548**: Peach Owl (N) |
-| 15:41 | **illegalfartss**: Tuxedo Cat (MR) | **14pawz**: Alpaca |
-| 15:41 | **The1AndOnlyClyde**: Giraffe (NFR), Giraffe Backpack, Giraffe Hat | **SEBASTIAN_030513**: Parrot (MFR) |
-| 15:41 | **xluvvmel**: Irish Elk (MR) | **B1nnie2**: Matcha Cat (FR) |
-| 15:41 | **MegalozavrWarface**: Polar Bear (MFR) ×2, Dango Penguins (MFR), Arctic Fox (NR) | **sp4rklepinkcupcake**: Evil Unicorn (NFR) |
-| 15:41 | **yReehxz**: Harp Seal | **Fidelia2131415**: Ride-A-Pet Potion |
-| 15:41 | **sewwyxu**: King Bee (FR), Bobageist | **BipBip2720**: Ride-A-Pet Potion |
-| 15:41 | **xwq8ez**: Jester Dragon (R), Cow | **thes1llyg00s3**: Kangaroo (FR), Crocodile (FR), Midnight Dragon (FR), King Bee (N) |
-| 15:41 | **sewwyxu**: Milk Choccybunny (N), Granny Wolf (N), Irish Setter (N), Mummy Spider (N), Jumpscare (N), Shiba Inu (N), Lemonade Stand | **potbee59**: Ride-A-Pet Potion |
-| 15:41 | **re_eee0**: Munchkin Cat (FR) | **lzxsre**: Jellyfish (FR) |
+| 15:51 | **sakotfzg**: Goat (R), Ghost Bunny | **camiilita_7w7**: Jester Dragon (R) |
+| 15:51 | **ivybrown_idk**: Glormy Hound | **Laktozik1**: Fly-A-Pet Potion |
+| 15:51 | **Cat_mono**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **evsiia**: Cryptid (FR), Cupid Dragon (R), Lion (R) |
+| 15:51 | **alesa_ee**: Peppermint Penguin (R), Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Penguin (NR), Red Fox, Love Bird | **Tena_IsPeakfr**: Mini Pig (FR) |
+| 15:51 | **snezzhook**: Pet Handler Pro Certificate | **santi57974**: Ride-A-Pet Potion ×2 |
+| 15:51 | **prezervativkotika**: Fallow Deer (NFR), Rain Cloud Hat, Stray Cat Dragon (N) | **squ_evder**: Goose (FR) |
+| 15:51 | **Lerunhi**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion | **Vitek_228666**: Turtle (FR) |
+| 15:51 | **Sq77k**: Lion Cub (FR), Cow (NFR) | **Flowershinelight**: Kangaroo (MFR) |
+| 15:51 | **tamaramillka097**: Ride-A-Pet Potion ×11, Water Moon Bear | **Vitek_228666**: Fly-A-Pet Potion ×6 |
+| 15:51 | **Kira_Django123**: Ice Moth Dragon | **clxudyxlovelq**: Choccybunny Box ×18 |
+| 15:51 | **Esikiiomuru**: Frostbite Bear (R), Frostbite Bear and Cub Animated Sticker | **Dawnisiiaa**: Sushi Penguin (MR), Chihuahua (M) |
+| 15:51 | **UitronDiem2007**: Blazing Lion (FR), Frostbite Bear, Fly-A-Pet Potion, Ride-A-Pet Potion | **OnlyMeNinik**: Giant Panda (FR) |
+| 15:51 | **nagumo2226**: Blazing Lion (FR) ×2 | **UitronDiem2007**: Frost Dragon (FR) |
+| 15:51 | **mitsI_194**: Drake ×2 | **Xxxxashhhh**: Ride-A-Pet Potion ×2 |
+| 15:51 | **Kartofanochka2208**: Unicorn | **Xxxxashhhh**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
