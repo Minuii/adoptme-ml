@@ -156,6 +156,53 @@ SITE.mkdir(exist_ok=True)
 print(len(out), "items,", sum(bool(i["A"]) for i in out), "on AMVGG,", sum(bool(i["E"]) for i in out), "on Elvebredd,",
       round((SITE / "data.json").stat().st_size / 1e6, 2), "MB")
 
+# ---- Journal (Info tab): facts per item from the official item catalog (playadopt.me/discover) and the official news
+# posts that name it. Values, history and trading come from data.json / activity.json, already on the page. ----
+import re
+cat_id = {i["id"]: i for i in catalog.values()}
+YES = {"Yes": 1, "No": 0}
+
+
+def pretty(s):  # "candy_2025" -> "Candy 2025", "ultra_rare" -> "Ultra rare"
+    return " ".join(s.replace("-", "_").split("_")).capitalize() if s else ""
+
+
+journal = {}
+for it in out:
+    c = catalog.get(key(it["name"]))
+    if not c:
+        continue
+    egg = cat_id.get(c.get("origin_items") or "")
+    f = {"origin": c.get("origin") or "", "egg": egg["name"] if egg else pretty(c.get("origin_items") or ""),
+         "sale": YES.get(c.get("is_for_sale")), "gift": YES.get(c.get("donatable")),
+         "slot": pretty(c.get("accessory_type") or c.get("equip_type") or ""), "uses": c.get("uses"),
+         "boost": pretty(c.get("ailment_to_boost") or ""), "cur": pretty(c.get("currency_id") or ""),
+         "cost": c.get("cost") if c.get("currency_id") else None, "isegg": YES.get(c.get("is_egg"))}
+    journal[it["name"]] = {k: v for k, v in f.items() if v not in ("", None)}
+
+# official news posts that name the item: its full name as written, whole words, not inside a longer item name
+# ("Dragon" in "Frost Dragon" doesn't count). One-word names only for pets: "Stroller" or "Balloon" is usually just a word.
+cat_of = {it["name"]: it["cat"] for it in out}
+names = [nm for nm in journal if len(nm) >= 4 and (" " in nm or cat_of.get(nm) == "pets")]
+pats = {nm: re.compile(r"(?<![\w-])" + re.escape(nm) + r"(?![\w-])") for nm in names}
+news = sorted({n["slug"]: n for n in lines("", "news.jsonl")}.values(), key=lambda n: n.get("published") or "")
+news_out, mentions = [], {}
+for n in news:
+    body = (n.get("title") or "") + "\n" + (n.get("text") or "")
+    spans = {nm: sp for nm in names if (sp := [m.span() for m in pats[nm].finditer(body)])}
+    every = [s for sp in spans.values() for s in sp]
+    inside = lambda s: any(a <= s[0] and s[1] <= b and (a, b) != s for a, b in every)  # part of a longer name's match
+    hits = [nm for nm, sp in spans.items() if not all(inside(s) for s in sp)]
+    if hits:
+        news_out.append([n["slug"], n.get("title") or n["slug"], (n.get("published") or "")[:10]])
+        for nm in hits:
+            mentions.setdefault(nm, []).append(len(news_out) - 1)
+for nm, idx in mentions.items():
+    journal[nm]["news"] = idx
+(SITE / "journal.json").write_text(json.dumps({"items": journal, "news": news_out}, separators=(",", ":")), encoding="utf-8")
+print(len(journal), "journal entries,", len(mentions), "named in", len(news_out), "news posts,",
+      round((SITE / "journal.json").stat().st_size / 1e6, 2), "MB")
+
 # ---- Stats tab: what has been collected so far (aggregates only; no trader names leave the repo) ----
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone

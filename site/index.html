@@ -43,7 +43,7 @@ button, input, select { font: inherit; color: inherit; }
 .wrap { max-width: 1100px; margin: 0 auto; padding: 32px 16px 48px; display: flex; flex-direction: column; gap: 28px; }
 h1 { font: 400 clamp(28px, 4vw, 38px)/1.15 var(--serif); margin: 0; text-wrap: balance; }
 h2 { font-size: 17px; font-weight: 600; margin: 0; }
-.lede { margin: 8px 0 0; color: var(--muted); max-width: 72ch; }
+.lede { margin: 4px 0 0; color: var(--muted); max-width: 72ch; }
 .lede b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
 .note { font-size: 13px; color: var(--muted); margin: 0; max-width: 75ch; line-height: 1.45; }
 .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); overflow-x: auto; overflow-y: hidden; scrollbar-width: none; }
@@ -254,7 +254,74 @@ tr.tot td { font-weight: 600; border-bottom: 0; }
 footer { font-size: 12px; color: var(--faint); }
 footer a { color: var(--muted); }
 
+/* ---- layout: sidebar + main ---- */
+.shell { display: grid; grid-template-columns: 236px minmax(0, 1fr); min-height: 100vh; }
+.side { position: sticky; top: 0; height: 100vh; overflow-y: auto; background: var(--panel); border-right: 1px solid var(--line);
+  padding: 20px 12px; display: flex; flex-direction: column; gap: 22px; }
+.brand { display: flex; align-items: center; gap: 10px; padding: 0 8px; color: inherit; text-decoration: none; }
+.brand .logo { width: 34px; height: 34px; border-radius: 10px; flex: none; display: grid; place-items: center; color: #fff;
+  background: linear-gradient(135deg, var(--elve), var(--amvgg)); font: 700 15px/1 Montserrat, var(--sans); }
+.brand b { display: block; font-weight: 600; line-height: 1.2; }
+.brand small { display: block; font-size: 12px; color: var(--muted); }
+.sidenav { display: flex; flex-direction: column; gap: 18px; }
+.navgroup { display: flex; flex-direction: column; gap: 2px; }
+.navlabel { font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--faint); padding: 0 10px 6px; }
+.side .tab { display: flex; align-items: center; gap: 10px; width: 100%; border: 0; margin: 0; border-radius: 8px; padding: 8px 10px; text-align: left; color: var(--muted); }
+.side .tab svg { width: 18px; height: 18px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.side .tab:hover { background: var(--hover); color: var(--fg); }
+.side .tab[aria-selected=true] { background: var(--hover); color: var(--fg); font-weight: 600; box-shadow: inset 3px 0 0 var(--fg); }
+.sidefoot { margin-top: auto; padding: 0 10px; font-size: 12px; color: var(--faint); }
+.pagehead { display: flex; flex-direction: column; gap: 4px; }
+@media (max-width: 900px) {
+  .shell { display: block; }
+  .side { position: sticky; z-index: 30; height: auto; flex-direction: column; gap: 8px; padding: 10px 12px 0; border-right: 0; border-bottom: 1px solid var(--line); }
+  .brand { padding: 0 4px; } .brand .logo { width: 28px; height: 28px; font-size: 13px; } .brand small { display: none; }
+  .sidenav { flex-direction: row; gap: 2px; overflow-x: auto; scrollbar-width: none; } .sidenav::-webkit-scrollbar { display: none; }
+  .navgroup { flex-direction: row; gap: 2px; } .navlabel, .sidefoot { display: none; }
+  .side .tab { width: auto; white-space: nowrap; border-radius: 8px 8px 0 0; padding: 8px 10px; }
+  .side .tab svg { display: none; }
+  .side .tab[aria-selected=true] { box-shadow: inset 0 -2px 0 var(--fg); background: none; }
+}
+
+/* ---- Journal ---- */
+.jcats { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; }
+.jcat { position: relative; display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 18px 14px 14px; cursor: pointer;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 16px; text-align: center; transition: transform .15s, box-shadow .15s; }
+.jcat:hover, .jcat:focus-visible { transform: translateY(-2px); box-shadow: var(--shadow); }
+.jcat::before { content: ""; position: absolute; inset: 0 0 auto; height: 58%; border-radius: 16px 16px 0 0; background: var(--tint); opacity: .14; }
+.jstack { position: relative; height: 92px; width: 100%; display: flex; justify-content: center; align-items: flex-end; }
+.jstack img { width: 72px; height: 72px; object-fit: contain; filter: drop-shadow(0 2px 3px rgba(0,0,0,.25)); margin: 0 -10px; }
+.jstack img:nth-child(1) { transform: rotate(-8deg) translateY(4px); } .jstack img:nth-child(2) { width: 84px; height: 84px; z-index: 1; }
+.jstack img:nth-child(3) { transform: rotate(8deg) translateY(4px); }
+.jcat b { font: 700 16px/1.2 Montserrat, var(--sans); position: relative; }
+.jcat .sub { position: relative; }
+.jgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+.jitem { display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 14px 10px 12px; cursor: pointer; text-align: center;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 12px; min-width: 0; }
+.jitem:hover, .jitem:focus-visible { border-color: var(--faint); }
+.jitem img, .jitem .noimg { width: 72px; height: 72px; object-fit: contain; }
+.jitem .noimg { border-radius: 12px; background: var(--hover); }
+.jitem b { font-weight: 600; font-size: 14px; line-height: 1.25; overflow-wrap: anywhere; }
+.jitem .rar { font-size: 12px; }
+.jentry { display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 24px; align-items: start; background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 20px; }
+.jentry .pic { display: grid; place-items: center; aspect-ratio: 1; border-radius: 14px; background: var(--hover); }
+.jentry .pic img { width: 80%; height: 80%; object-fit: contain; filter: drop-shadow(0 4px 8px rgba(0,0,0,.2)); }
+.jentry h2 { font: 400 32px/1.15 var(--serif); }
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 6px 18px; margin: 0; }
+.facts dt { color: var(--muted); font-size: 13px; } .facts dd { margin: 0; font-size: 14px; }
+.yes { color: var(--up); } .no { color: var(--muted); }
+.jnews { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.jnews li { display: flex; gap: 14px; padding: 8px 0; border-bottom: 1px solid var(--line); }
+.jnews time { color: var(--muted); font-size: 13px; min-width: 96px; font-variant-numeric: tabular-nums; }
+.jnews a { color: inherit; }
+.crumbs { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 14px; color: var(--muted); }
+.crumbs button { background: none; border: 0; padding: 0; color: var(--muted); cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.crumbs button:hover { color: var(--fg); }
+
 @media (max-width: 640px) {
+  .jentry { grid-template-columns: 1fr; } .jentry .pic { max-width: 180px; }
+  .jcats { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; } .jstack { height: 70px; } .jstack img { width: 54px; height: 54px; } .jstack img:nth-child(2) { width: 64px; height: 64px; }
+  .jgrid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .wrap { padding-top: 20px; gap: 22px; }
   .hide-sm { display: none; }
   .big { font-size: 24px; }
@@ -264,20 +331,31 @@ footer a { color: var(--muted); }
 </style>
 </head>
 <body>
+<div class="shell">
+<aside class="side">
+  <a class="brand" href="#" aria-label="Adopt Me value tracker, home"><span class="logo" aria-hidden="true">AM</span><span><b>Adopt Me Values</b><small>AMVGG · Elvebredd tracker</small></span></a>
+  <nav class="sidenav" role="tablist" aria-label="Pages">
+    <div class="navgroup"><span class="navlabel">Market</span>
+      <button class="tab" role="tab" data-tab="list"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Values</button>
+      <button class="tab" role="tab" data-tab="updates"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/></svg>Value changes</button>
+      <button class="tab" role="tab" data-tab="wanted"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"/></svg>Most wanted</button>
+      <button class="tab" role="tab" data-tab="ads"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4L3 8l4 4M3 8h14M17 20l4-4-4-4M21 16H7"/></svg>Offers</button>
+      <button class="tab" role="tab" data-tab="compare"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 7h14M5 7l-3 7a3 3 0 0 0 6 0zM19 7l-3 7a3 3 0 0 0 6 0z"/></svg>Compare</button>
+    </div>
+    <div class="navgroup"><span class="navlabel">Info</span>
+      <button class="tab" role="tab" data-tab="journal"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h14v16H6a2 2 0 0 0-2 2zM4 19V5M9 7h7M9 11h5"/></svg>Journal</button>
+    </div>
+    <div class="navgroup"><span class="navlabel">Model</span>
+      <button class="tab" role="tab" data-tab="stats"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V11M10 20V4M16 20v-8M2 20h20"/></svg>Stats &amp; track record</button>
+    </div>
+  </nav>
+  <div class="sidefoot" id="sidefoot"></div>
+</aside>
 <div class="wrap">
-  <header>
-    <h1>Adopt Me value tracker</h1>
+  <header class="pagehead">
+    <h1 id="ptitle">Values</h1>
     <p class="lede" id="lede">AMVGG and Elvebredd values side by side, with every logged value change.</p>
   </header>
-
-  <nav class="tabs" role="tablist" aria-label="Pages">
-    <button class="tab" role="tab" data-tab="list">Values</button>
-    <button class="tab" role="tab" data-tab="updates">Value changes</button>
-    <button class="tab" role="tab" data-tab="compare">Compare</button>
-    <button class="tab" role="tab" data-tab="ads">Offers</button>
-    <button class="tab" role="tab" data-tab="wanted">Most wanted</button>
-    <button class="tab" role="tab" data-tab="stats">Stats</button>
-  </nav>
 
   <!-- values + value changes share the filters -->
   <section class="page" id="browse">
@@ -375,6 +453,13 @@ footer a { color: var(--muted); }
     </div>
   </section>
 
+  <section class="page" id="journal" hidden>
+    <div class="controls">
+      <label class="field grow"><span class="label">Find a pet or item</span><input id="jfind" class="input" type="search" placeholder="e.g. Frost Dragon" autocomplete="off"></label>
+    </div>
+    <div class="page" id="jbody"></div>
+  </section>
+
   <details>
     <summary>Where this data comes from</summary>
     <ul>
@@ -385,6 +470,7 @@ footer a { color: var(--muted); }
     </ul>
   </details>
   <footer>Values from <a href="https://amvgg.com" rel="noopener">AMVGG</a> and <a href="https://elvebredd.com" rel="noopener">Elvebredd</a>; pictures from the official <a href="https://www.playadopt.me/discover" rel="noopener">Adopt Me wiki</a>. Not affiliated with Adopt Me, Uplift Games, AMVGG or Elvebredd.</footer>
+</div>
 </div>
 
 <script>
@@ -400,8 +486,9 @@ const $ = s => document.querySelector(s);
 const slug = n => n.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const DEF = { tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "", sort: "val", q: "", rar: "", item: "",
   ca: "", cb: "", ag: "", ak: "", as: "both", av: "", ap: "", al: "A", adeal: "", amin: "", asort: "new",
-  wq: "", ws: "both", wc: "pets", wv: "", wp: "", wsort: "want", hr: "" };  // hr: value-history range ("3m", "1y", "2026-01-01_2026-03-31")
-const TABS = ["list", "updates", "compare", "ads", "wanted", "stats"];
+  wq: "", ws: "both", wc: "pets", wv: "", wp: "", wsort: "want", hr: "",
+  jc: "", j: "", jq: "", jr: "", js: "val" };  // journal: category, entry (slug), search, rarity, sort  // hr: value-history range ("3m", "1y", "2026-01-01_2026-03-31")
+const TABS = ["list", "updates", "compare", "ads", "wanted", "journal", "stats"];
 const S = {};
 function load() {
   Object.assign(S, DEF);
@@ -415,7 +502,7 @@ load();
 // the keys each view uses (other tabs' filters stay in memory, just not in the link)
 const VIEW_KEYS = { item: ["var", "pot", "src", "hr"], list: ["q", "src", "var", "pot", "cat", "rar", "dem", "sort"],
   updates: ["q", "src", "var", "pot", "cat", "rar", "dem"], compare: ["ca", "cb"], stats: [],
-  ads: ["ag", "ak", "as", "av", "ap", "al", "adeal", "amin", "asort"], wanted: ["wq", "ws", "wc", "wv", "wp", "wsort"] };
+  ads: ["ag", "ak", "as", "av", "ap", "al", "adeal", "amin", "asort"], wanted: ["wq", "ws", "wc", "wv", "wp", "wsort"], journal: ["jc", "j", "jq", "jr", "js"] };
 function save() {
   const keys = VIEW_KEYS[S.item ? "item" : S.tab] || [];
   const rest = new URLSearchParams(keys.filter(k => S[k] !== DEF[k]).map(k => [k, S[k]])).toString();
@@ -634,10 +721,16 @@ let shown = 0, current = [];
 function render(reset = true) {
   save();
   for (const b of document.querySelectorAll(".tab")) b.setAttribute("aria-selected", String(!S.item && S.tab === b.dataset.tab));
-  const pg = S.item ? "item" : ["stats", "compare", "ads", "wanted"].includes(S.tab) ? S.tab : "browse";
-  for (const id of ["browse", "item", "stats", "compare", "ads", "wanted"]) $("#" + id).hidden = id !== pg;
+  const pg = S.item ? "item" : ["stats", "compare", "ads", "wanted", "journal"].includes(S.tab) ? S.tab : "browse";
+  for (const id of ["browse", "item", "stats", "compare", "ads", "wanted", "journal"]) $("#" + id).hidden = id !== pg;
+  const [title, lede] = S.item ? ["", ""] : PAGES[S.tab] || PAGES.list;
+  $(".pagehead").hidden = !!S.item;
+  $("#ptitle").textContent = title;
+  if (S.tab === "list" && LEDE) $("#lede").replaceChildren(...LEDE); else $("#lede").textContent = lede;
+  document.title = (S.item || title) + " · Adopt Me Values";
   if (!DATA) return;
   if (S.item) return drawItem();
+  if (S.tab === "journal") return drawJournal();
   if (S.tab === "wanted") return drawWanted(reset);
   if (S.tab === "stats") return drawStats();
   if (S.tab === "compare") return drawCompare();
@@ -703,7 +796,7 @@ function drawItem() {
         h("div", { class: "vals" }, nowCell("E"), nowCell("A")),
         h("div", { class: "cmpadd" }, h("span", { class: "label" }, "Compare:"),
           ["ca", "cb"].map((sd, n) => h("button", { class: "btn", onclick: () => { addTo(sd, it, pet ? `${S.var}-${S.pot}` : "v"); S.item = ""; S.tab = "compare"; scrollTo(0, 0); render(); } },
-            `Add to side ${"AB"[n]}`))))),
+            `Add to side ${"AB"[n]}`)), h("button", { class: "btn", onclick: () => openEntry(it) }, "Journal entry")))),
     outlook,
     activity,
     rangeBar,
@@ -1376,6 +1469,152 @@ async function drawWanted(reset = true) {
   $("#wwhen").textContent = `Last ${ACT.days} days · ${srcs.map(s => `${(ACT.ads[s] || 0).toLocaleString()} ${SRC[s]} offers`).join(", ")} · built ${ago(ACT.built.slice(0, 16))}`;
 }
 
+// ---- page titles (header above every tab) ----
+const PAGES = {
+  list: ["Values", "AMVGG and Elvebredd values side by side, with every logged value change."],
+  updates: ["Value changes", "Every value change on both lists, newest first."],
+  wanted: ["Most wanted", "What traders asked for most in the last 7 days, against what they offered."],
+  ads: ["Offers", "The newest trade offers from the AMVGG and Elvebredd trade centres."],
+  compare: ["Compare", "Price two sides of a trade on both lists."],
+  journal: ["Journal", "Every pet and item: where it comes from, what it does, and how it trades."],
+  stats: ["Stats & track record", "What has been collected, and how the forecasts are doing."],
+};
+let LEDE = null;
+
+// ---- Journal (Info): categories -> items -> an entry per item. Facts: site/journal.json (official item catalog and
+// update notes, build_site.py); values, history and trading: data.json / activity.json, already on the page ----
+let JR, jShown = 0, jList = [];
+const JCATS = [["pets", "Pets", "#f2a03d"], ["pet wear", "Pet Wear", "#8a55d6"], ["strollers", "Strollers", "#d03a74"],
+  ["vehicles", "Vehicles", "#c4442f"], ["food", "Food", "#c9a800"], ["toys", "Toys", "#1d93cf"], ["gifts", "Gifts", "#4f9b34"],
+  ["stickers", "Stickers", "#e8618c"], ["eggs", "Eggs", "#3aa6a0"], ["other", "Potions & other", "#6b6862"]];
+const catName = c => (JCATS.find(x => x[0] === c) || [c, c ? c[0].toUpperCase() + c.slice(1) : ""])[1];
+// rank inside a category: Elvebredd value (normal fly ride for pets), else AMVGG's on Elvebredd's scale (~170x)
+const worth = it => it.E["r-fr"] ?? it.E.v ?? ((it.A["r-fr"] ?? it.A.v ?? 0) * 170);
+function openEntry(it) { S.item = ""; S.tab = "journal"; S.jc = it.cat; S.j = slug(it.name); scrollTo(0, 0); render(); }
+const jcrumbs = (...parts) => h("nav", { class: "crumbs", "aria-label": "Journal" }, parts.flatMap((p, i) => [i ? h("span", { "aria-hidden": "true" }, "›") : null,
+  p[1] ? h("button", { onclick: p[1] }, p[0]) : h("span", { "aria-current": "page", style: "color:var(--fg)" }, p[0])]));
+const toJournal = () => { S.jc = ""; S.j = ""; S.jq = ""; S.jr = ""; render(); scrollTo(0, 0); };
+const toCat = c => () => { S.jc = c; S.j = ""; render(); scrollTo(0, 0); };
+const pic = (it, cls = "") => it.img ? h("img", { class: cls, src: it.img, alt: "", loading: "lazy", referrerpolicy: "no-referrer",
+  onerror: e => e.target.replaceWith(h("span", { class: "noimg" })) }) : h("span", { class: "noimg" });
+
+async function drawJournal() {
+  const box = $("#jbody");
+  if (!JR) {
+    box.replaceChildren(h("p", { class: "empty" }, "Loading…"));
+    try { JR = await fetch("journal.json").then(r => r.json()); } catch { JR = { items: {}, news: [] }; }
+    if (S.tab !== "journal" || S.item) return;
+  }
+  const it = S.j && (BYSLUG.get(S.j) || BYNAME.get(S.j));
+  if (it) return drawEntry(box, it);
+  if (S.jc) return drawJCat(box);
+  box.replaceChildren(
+    h("div", { class: "jcats" }, JCATS.map(([c, label, tint]) => {
+      const xs = DATA.items.filter(i => i.cat === c);
+      if (!xs.length) return null;
+      const top = xs.filter(i => i.img).sort((a, b) => worth(b) - worth(a)).slice(0, 3);
+      return h("div", { class: "jcat", role: "link", tabindex: 0, style: `--tint:${tint}`, onclick: toCat(c), onkeydown: e => e.key === "Enter" && toCat(c)() },
+        h("div", { class: "jstack" }, [top[1], top[0], top[2]].filter(Boolean).map(i => h("img", { src: i.img, alt: "", referrerpolicy: "no-referrer", onerror: e => e.target.remove() }))),
+        h("b", {}, label), h("span", { class: "sub" }, `${xs.length.toLocaleString()} ${xs.length === 1 ? "item" : "items"}`));
+    })),
+    h("p", { class: "note" }, "Facts (where an item comes from, which egg it hatches from, whether it's still sold) come from the game's own item catalog " +
+      "and update notes. Values, history and trading come from this site's own collection of AMVGG and Elvebredd data."));
+}
+
+function drawJCat(box) {
+  const c = S.jc, all = DATA.items.filter(i => i.cat === c), pet = c === "pets";
+  const grid = h("div", { class: "jgrid" }), more = h("button", { class: "more", hidden: true }, "Show more"), count = h("span", { "aria-live": "polite" });
+  const fill = (reset = true) => {
+    if (reset) {
+      const q = S.jq.trim().toLowerCase();
+      jList = all.filter(i => (!q || i.name.toLowerCase().includes(q) || (i.origin || "").toLowerCase().includes(q)) && (!S.jr || i.rarity === S.jr));
+      const key = { val: (a, b) => worth(b) - worth(a), az: (a, b) => a.name.localeCompare(b.name), origin: (a, b) => (a.origin || "~").localeCompare(b.origin || "~") }[S.js] || (() => 0);
+      jList.sort((a, b) => key(a, b) || a.name.localeCompare(b.name));
+      jShown = 0; grid.replaceChildren();
+    }
+    const next = jList.slice(jShown, jShown + 60);
+    grid.append(...next.map(i => h("div", { class: "jitem", role: "link", tabindex: 0, onclick: () => openEntry(i), onkeydown: e => e.key === "Enter" && openEntry(i) },
+      pic(i), h("b", {}, i.name),
+      i.rarity ? h("span", { class: "rar", style: `--rc:${RC[i.rarity] || "var(--muted)"}` }, i.rarity) : null,
+      i.origin ? h("span", { class: "sub" }, i.origin) : null)));
+    jShown += next.length;
+    more.hidden = jShown >= jList.length;
+    count.textContent = jList.length ? `${jList.length.toLocaleString()} ${catName(c).toLowerCase()}` : "Nothing matches.";
+  };
+  more.onclick = () => fill(false);
+  const sel = (key, opts, label) => h("label", { class: "field" }, h("span", { class: "label" }, label),
+    h("select", { onchange: e => { S[key] = e.target.value; save(); fill(); } }, opts.map(([v, t]) => { const o = h("option", { value: v }, t); o.selected = S[key] === v; return o; })));
+  let qt2;
+  const search = h("input", { class: "input", type: "search", placeholder: pet ? "Name or event, e.g. Halloween" : "Name or event", value: S.jq, autocomplete: "off",
+    oninput: e => { clearTimeout(qt2); qt2 = setTimeout(() => { S.jq = e.target.value; save(); fill(); }, 150); } });
+  box.replaceChildren(jcrumbs(["Journal", toJournal], [catName(c)]),
+    h("div", { class: "controls" }, h("label", { class: "field grow" }, h("span", { class: "label" }, `Search ${catName(c).toLowerCase()}`), search),
+      sel("jr", [["", "Any"], ["common", "Common"], ["uncommon", "Uncommon"], ["rare", "Rare"], ["ultra rare", "Ultra rare"], ["legendary", "Legendary"]], "Rarity"),
+      sel("js", [["val", "Most valuable"], ["az", "A to Z"], ["origin", "By event"]], "Sort")),
+    h("div", { class: "status" }, count), grid, more);
+  fill();
+}
+
+async function drawEntry(box, it) {
+  const f = JR.items[it.name] || {}, pet = it.cat === "pets", k = pet ? "r-fr" : "v", kTxt = pet ? "normal fly ride" : "";
+  const yn = (v, yes, no) => v == null ? null : h("span", { class: v ? "yes" : "no" }, v ? yes : no);
+  const eggIt = f.egg && BYNAME.get(f.egg);
+  const facts = [
+    ["Category", catName(it.cat)],
+    ["Rarity", it.rarity ? h("span", { class: "rar", style: `--rc:${RC[it.rarity] || "var(--muted)"}` }, it.rarity) : null],
+    ["Comes from", f.origin || it.origin],
+    ["Hatches from", f.egg ? (eggIt ? h("a", { href: "#", onclick: e => { e.preventDefault(); openEntry(eggIt); } }, f.egg) : f.egg) : null],
+    ["Sold in the game now", yn(f.sale, "Yes", "No, only by trading")],
+    ["Event currency", f.cur ? (f.cost ? `${f.cost.toLocaleString()} ${f.cur}` : f.cur) : null],
+    ["Worn on", f.slot], ["Uses", f.uses], ["Helps when your pet is", f.boost],
+    ["Is an egg", f.isegg ? "Yes" : null],
+  ].filter(([, v]) => v != null && v !== "");
+  // market facts from the value lists (data.json)
+  const card = (label, big, sub, cls = "") => h("div", { class: "card" }, h("span", { class: "label" }, label), h("span", { class: "big " + cls }, big), h("span", { class: "sub" }, sub || " "));
+  const mk = s => {
+    const v = it[s][k], hst = it.hist[s][k] || [];
+    if (v == null) return [];
+    const out = [card(`${SRC[s]} value${kTxt ? " · " + kTxt : ""}`, fmt(v), (p => p == null ? "30-day change unknown" : `30 days ${pctTxt(p)}`)(change(it, s, 30, k)))];
+    if (complete(hst, v) && hst.length > 1) {
+      const top = hst.reduce((a, b) => b[1] >= a[1] ? b : a), first = hst[0];
+      out.push(card(`${SRC[s]} all-time high`, fmt(top[1]), top[1] > v ? `${dateTxt(top[0])} · now ${pctTxt((v - top[1]) / top[1] * 100)}` : `${dateTxt(top[0])} · it's there now`));
+      if (s === "E") out.push(card("Since Elvebredd's log began", pctTxt((v - first[1]) / first[1] * 100), `${fmt(first[1])} on ${dateTxt(first[0])} → ${fmt(v)} now`, pctCls((v - first[1]) / first[1] * 100)));
+    }
+    return out;
+  };
+  const dem = (it.demand || {})[k];
+  const market = h("div", { class: "acts" }, mk("E"), mk("A"), dem ? card("AMVGG demand", dem, kTxt) : null);
+  const trade = h("div", { class: "acts" });
+  const siblings = (f.origin || it.origin) ? DATA.items.filter(i => i !== it && i.origin && i.origin === (f.origin || it.origin)).sort((a, b) => worth(b) - worth(a)) : [];
+  const chip = i => h("span", { class: "chip click", role: "link", tabindex: 0, title: i.name, onclick: () => openEntry(i), onkeydown: e => e.key === "Enter" && openEntry(i) }, icon(i), i.name);
+  const news = (f.news || []).map(n => JR.news[n]).filter(Boolean).reverse();
+  box.replaceChildren(jcrumbs(["Journal", toJournal], [catName(it.cat), toCat(it.cat)], [it.name]),
+    h("div", { class: "jentry" },
+      h("div", { class: "pic" }, it.img ? h("img", { src: it.img, alt: it.name, referrerpolicy: "no-referrer", onerror: e => e.target.replaceWith("No picture") }) : "No picture"),
+      h("div", { class: "section" },
+        h("h2", {}, it.name),
+        h("dl", { class: "facts" }, facts.flatMap(([t, v]) => [h("dt", {}, t), h("dd", {}, v)])),
+        h("div", { class: "cmpadd" },
+          h("button", { class: "btn", onclick: () => { if (pet) [S.var, S.pot] = ["r", "fr"]; S.j = ""; openItem(it); } }, "Values, history & trades →")))),
+    h("section", { class: "section" }, h("h2", {}, "On the value lists"), market.children.length ? market : h("p", { class: "empty" }, "Neither list values it.")),
+    h("section", { class: "section" }, h("h2", {}, `Trading, last 7 days${kTxt ? " · all variants" : ""}`), trade),
+    siblings.length ? h("section", { class: "section" }, h("h2", {}, `Also from ${f.origin || it.origin}`),
+      h("div", { class: "chips" }, siblings.slice(0, 30).map(chip)), siblings.length > 30 ? h("p", { class: "note" }, `and ${siblings.length - 30} more.`) : null) : null,
+    h("section", { class: "section" }, h("h2", {}, "In the official update notes"),
+      news.length ? h("ul", { class: "jnews" }, news.map(([sl, title, d]) => h("li", {}, h("time", { datetime: d }, d ? dateTxt(d + "T00:00") : ""),
+        h("a", { href: `https://www.playadopt.me/news/${sl}`, target: "_blank", rel: "noopener" }, title))))
+        : h("p", { class: "empty" }, "No update note on playadopt.me names it (they go back to 2020).")));
+  // trading from activity.json (shared with the item pages)
+  try { await loadAct(); } catch { trade.replaceWith(h("p", { class: "empty" }, "Couldn't load trading activity.")); return; }
+  if (S.tab !== "journal" || slug(it.name) !== S.j) return;
+  const a = ACT.items[it.name] || { t: {}, o: {} }, sum = o => Object.values(o || {}).reduce((x, y) => x + y, 0);
+  const side = s => { const o = (a.o || {})[s] || {}; return [sum(Object.values(o).map(x => x[1])), sum(Object.values(o).map(x => x[0]))]; };
+  const [wA, oA] = side("A"), [wE, oE] = side("E");
+  trade.replaceChildren(card("Completed AMVGG trades", sum(a.t).toLocaleString(), `of ${ACT.trades.toLocaleString()} collected`),
+    card("Wanted in offers", (wA + wE).toLocaleString(), `AMVGG ${wA.toLocaleString()} · Elvebredd ${wE.toLocaleString()}`),
+    card("Offered in offers", (oA + oE).toLocaleString(), `AMVGG ${oA.toLocaleString()} · Elvebredd ${oE.toLocaleString()}`));
+}
+
 // ---- controls ----
 function sync() {
   document.querySelectorAll(".seg[data-key]").forEach(g => g.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(S[g.dataset.key] === b.dataset.v))));
@@ -1392,6 +1631,7 @@ document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () =>
 let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.q = e.target.value; render(); }, 150); });
 let aqt;
 for (const id of ["ag", "ak", "wq"]) suggestFill($("#" + id));
+suggest($("#jfind"), it => { $("#jfind").value = ""; openEntry(it); });
 for (const id of ["ag", "ak", "amin", "wq"]) $("#" + id).addEventListener("input", e => { clearTimeout(aqt); aqt = setTimeout(() => { S[id] = e.target.value; render(); }, 200); });
 $("#admore").addEventListener("click", () => render(false));
 $("#wmore").addEventListener("click", () => render(false));
@@ -1413,13 +1653,14 @@ fetch("data.json").then(r => r.json()).then(d => {
   for (const id of ["#cat", "#wc"]) $(id).append(h("option", { value: "all" }, "All categories"), ...cats.map(c => h("option", { value: c }, c[0].toUpperCase() + c.slice(1))));
   const nA = d.items.filter(i => Object.keys(i.A).length).length, nE = d.items.filter(i => Object.keys(i.E).length).length;
   const nH = d.items.reduce((n, i) => n + Object.values(i.hist.A).concat(Object.values(i.hist.E)).reduce((m, x) => m + x.length, 0), 0);
-  $("#lede").replaceChildren("Tracking ", h("b", {}, d.items.length.toLocaleString()), " items: ", h("b", {}, nA.toLocaleString()), " on AMVGG and ",
-    h("b", {}, nE.toLocaleString()), " on Elvebredd, with ", h("b", {}, nH.toLocaleString()), " logged values going back to September 2023.");
+  LEDE = ["Tracking ", h("b", {}, d.items.length.toLocaleString()), " items: ", h("b", {}, nA.toLocaleString()), " on AMVGG and ",
+    h("b", {}, nE.toLocaleString()), " on Elvebredd, with ", h("b", {}, nH.toLocaleString()), " logged values going back to September 2023."];
   $("#when").textContent = "Updated " + new Date(NOW).toLocaleString(undefined, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+  $("#sidefoot").textContent = "Values " + $("#when").textContent.toLowerCase();
   sync(); render();
   loadFC().then(() => { if (S.tab === "list" && !S.item) render(); });  // adds the outlook chips to the list
   const hrs = (Date.now() - NOW) / 3600e3;
-  if (hrs > 3) $("header").append(h("p", { class: "stale", role: "status" },
+  if (hrs > 3) $(".pagehead").before(h("p", { class: "stale", role: "status" },
     `Heads up: the value lists were last checked ${hrs > 48 ? Math.round(hrs / 24) + " days" : Math.round(hrs) + " hours"} ago (normally every hour). ` +
     "The collector may be stuck, so values and forecasts here can be out of date."));
 }).catch(() => { $("#count").textContent = "Couldn't load the value data. Try refreshing."; });
