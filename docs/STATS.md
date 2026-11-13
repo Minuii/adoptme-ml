@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 17:01 UTC by the scrape workflow._
+_Updated 2026-11-13 17:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 17:01 UTC by the scrape workflow._
 | amvgg | 3 | 38,563 | 2026-11-13T17:00 |
 | elve | 3 | 7,953 | 2026-11-13T17:01 |
 
-## AMVGG completed trades: 8,431 total
+## AMVGG completed trades: 8,489 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,598 |
+| 2026-11-13 | 2,656 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 17:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:00 | **1an4hn**: Reindeer (R) | **Adoptmestocks3000**: Zombie Wolf |
-| 17:00 | **Lunaknagg**: Unicorn | **yTka2937_2akk**: Pupcicle |
-| 17:00 | **mimiiyxx**: Siamese Cat (R) | **KBNHKA1246**: Unicorn Horn |
-| 17:00 | **Seach3l_1**: Pupcicle | **DVSeyb**: Ride-A-Pet Potion |
-| 17:00 | **lawerrty0**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion | **V4mp_1respitt**: Munchkin Cat (R) |
-| 17:00 | **AwuitadeUva100**: Majestic Pony (N), Pretty Pony (N), Pet Handler Pro Certificate | **Hasiiiiiiiiiiiii**: Border Collie |
-| 17:00 | **Hasiiiiiiiiiiiii**: Pretty Please Snowball Sticker, Mighty Haetyphoon Animated Sticker | **SleepySxturnn**: Pupcicle |
-| 17:00 | **iaMatthieu1**: Candicorn (NFR) ×3 | **gyrex111**: Haetae (FR), Ride-A-Pet Potion ×8, Fly-A-Pet Potion |
-| 17:00 | **simbalove310**: Bubblegeist ×2, Angus Bull ×2 | **Caxapok_Polinka67**: Cat (M), Kirin, Ant (N), Little Lamb ×2, Swordfish ×2, Robot, Zebra |
-| 17:00 | **foovva**: Cow (FR) | **RENZSOMERA**: Turtle (FR), Ride-A-Pet Potion ×8 |
-| 17:00 | **conik12234**: Copycat (F) | **L0VE_SPELLS**: Fly-A-Pet Potion ×4 |
-| 17:00 | **janette640**: Black-Footed Ferret (M) ×2, Liger (MR), Pangolin (M), Oakee Knight (M) ×2, Mexican Wolf (M), Snow Puma (M), Poodle (M), Shih Tzu (M), Princess Mare (M), Frankenfeline (M), Gecko Ducky (M), Red Panda Ducky (M), Rubber Ducky (M), Ride-A-Pet Potion, Pomeranian (N), Water Moon Bear (NR) | **xLavend3rXDr3amsx**: Unicorn (MFR) |
-| 17:00 | **ayunoh10**: Owlbear (NR) | **hella_wick**: Haetyphoon |
-| 17:00 | **3JlOU_XJlEBUIIlEK**: Kangaroo (FR) | **zqwuhl**: Ride-A-Pet Potion ×16 |
-| 17:00 | **6767rizzlerskibidoh**: African Wild Dog (R), Catte | **is_Hector**: Strawberry Shortcake Bat Dragon (NFR) |
+| 17:11 | **2creme1sucre**: Strawberry Shortcake Bat Dragon (FR) ×3, Ride-A-Pet Potion ×2, Caramelgeist (M) | **cat_anna2003**: Evil Unicorn (NFR) |
+| 17:11 | **Sofie4lifeLoL**: Pudding Cat, Peachick, Trapdoor Snail, Nebula Snake, Violet Friend, Sunflower Friend, Lobster, Abyssinian Cat, Glyptodon Ducky | **Riikka_Takanashiii**: Ride-A-Pet Potion |
+| 17:11 | **HGJohnson13**: Giraffe (FR), Arctic Fox (NR), Unicorn Horn, 2022 Birthday Party Hat, Ice Cream Cone Hat, Pink Heart Glasses | **Abaddon_Kisser666**: Frost Dragon (NFR) |
+| 17:11 | **Gyuta003**: Ride-A-Pet Potion ×3 | **Suhovi_Andre**: Dango Penguins (FR) |
+| 17:11 | **Reaction1999**: Ride-A-Pet Potion ×18 | **csg8f**: Tiny Wings ×2 |
+| 17:11 | **amx_dxo**: Catte (MFR), Red Squirrel (MFR), Snowball Pet (MFR), Yeti (MFR) | **MERCEDESE300COUPE**: Arctic Reindeer (FR) |
+| 17:11 | **ii_bbqfritos**: Dango Penguins (R), Unicorn, Ride-A-Pet Potion | **AbstrackDarck**: Pupcicle ×4 |
+| 17:11 | **elifanaekinci**: Ride-A-Pet Potion ×3, Happy Duckling (R) | **anst688**: Happy Clam |
+| 17:11 | **ancientlaning21**: Clementine Owl ×6 | **tommylikeroblox2009**: Retired Egg ×18 |
+| 17:11 | **XzB3arL3Synth7zX1088**: Mighty Haetyphoon Animated Sticker | **bffmade**: Maine Coon |
+| 17:11 | **T0LMU**: Cotton Candy Hat ×2 | **Panda_GamesTVYT**: Pet Handler Pro Certificate |
+| 17:11 | **Alana_enna22**: Zombie Chick (N), Winter Fawn (N), Thorny Devil (N) | **cupidy_hannah**: Ride-A-Pet Potion |
+| 17:11 | **iimarai3**: Boohoo (M) | **sufferingtogether**: Ride-A-Pet Potion |
+| 17:11 | **Kira9975335**: Dog House Stroller, Palanquin Stroller, Pea Pod Stroller, Flower Cart Stroller, Woodland Cradle Stroller | **ikabackflip**: Ride-A-Pet Potion |
+| 17:11 | **Kerimverse**: Frostbite Bear (FR) | **vi11kypro**: Turtle (FR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
