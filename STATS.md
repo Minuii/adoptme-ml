@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 00:16 UTC by the scrape workflow._
+_Updated 2026-11-13 00:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 00:16 UTC by the scrape workflow._
 | amvgg | 3 | 23,177 | 2026-11-13T00:15 |
 | elve | 3 | 4,672 | 2026-11-13T00:16 |
 
-## AMVGG completed trades: 5,860 total
+## AMVGG completed trades: 5,882 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 27 |
+| 2026-11-13 | 49 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 00:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:10 | **batton0955**: Ride-A-Pet Potion ×3 | **GabrielXx548**: Winter Fawn (MR) |
-| 00:10 | **TheGodx555**: Unicorn ×5 | **Xxxxashhhh**: Ride-A-Pet Potion ×5 |
-| 00:10 | **xaoichaanx**: Boohoo (M) | **Car_nose**: Pupcake |
-| 00:10 | **mewklekittys**: Aurora Fox (FR) | **Adore_IvaXx**: Pink Cat (F) |
-| 00:10 | **nikki_gamer001**: Copycat, Phoenix (FR) | **AprilMaeJune0**: Matcha Cat, Panda (NR) |
-| 00:10 | **cbmelissa**: Pet Handler Pro Certificate, Fly-A-Pet Potion, Classic Trade Stand | **Zyrox_13aa**: Spring Bunny Hood |
-| 00:10 | **yearnforme456**: Rainbow Maker, Halo, Cow (R), Arctic Dusk Dragon (FR) | **giozioll327**: Cupid Dragon (MFR) |
-| 00:10 | **YANA_568646**: Clownfish, Undead Elk, Zombie Chick, Thunderfisher ×2, Paint Sealer, Mistletroll | **b_cwx**: Ride-A-Pet Potion |
-| 00:10 | **Homealone6061A**: Black Springer Spaniel, Catte, Binturong, Chihuahua ×3, Red Squirrel, Koala, Elasmosaurus, Green Amazon ×3, Momma Moose, Cattuccino, Kitty Bat | **Lxdyxx**:  |
-| 00:10 | **LAROBIKYT**: Fairy Bat Dragon (NFR), Naughty Mistletroll (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **rachel1707vp**: Evil Unicorn (FR) |
-| 00:06 | **kofiok_sweet**: Fly-A-Pet Potion | **Sebamobil789**: Mighty Haetyphoon Animated Sticker |
-| 00:06 | **meowieboogie**: Fly-A-Pet Potion | **ieatsoupbarehands**: Pet Handler Pro Certificate |
-| 00:06 | **yblxssomz**: Alpaca (N) | **Manekie_Nekoo**: Candyfloss Chick (NFR), Pink Cat (FR) |
-| 00:06 | **addmymain62**: Golden Chow-Chow (MFR) | **q_culvs**: Silly Duck (MFR), Spring Bunny Hood |
-| 00:06 | **wonderunicorn2019**: Pet Handler Pro Certificate | **Darian12015**: Dragonfruit Fox |
+| 00:25 | **wawwpp**: Ride-A-Pet Potion | **lol_imlox10**: Crystal Egg ×18 |
+| 00:25 | **YTstaro**: Balloon Unicorn (NFR), Balloon Unicorn (FR), Haetae (FR), Unicorn Horn, Halo, Ice Cream Cone Hat | **Livxhze**: Bat Dragon (FR) |
+| 00:25 | **100PercentWinRateHax**: Ice Cream Cone Hat | **DiverseCYT**: Silverback Gorilla |
+| 00:25 | **El1kTT**: Dragon, Brown-Chested Pheasant, Bubblegeist, Dracula Parrot, Golden Griffin, Golden Unicorn, Purrowl ×2, Strawberry Shortcake Ducky, Stray Cat Dragon, Three Blind Mice ×2, Fairytale Egg ×2, Skelicorn (N) | **giovvanna7423**: Fly-A-Pet Potion |
+| 00:25 | **9nvls**: Goat (MFR), Arctic Dusk Dragon | **nickknackks**: Munchkin Cat (MFR) |
+| 00:25 | **s1qweps**: Banana Hat | **noki123good**: Ride-A-Pet Potion |
+| 00:25 | **AvokadoJFKfanat**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR) ×2, Turtle (R), Turtle (FR) | **Elenaasooo**: Parrot (FR) |
+| 00:25 | **qielul**: Skelicorn (M), Spring Bunny Nose ×2 | **zarmeowz**: Butter Knife, Fishbone Badge, White Chef Hat, Rain Hat, Giant Black Scarab (MFR) |
+| 00:25 | **sleepy_s0ren**: Undead Jousting Horse (FR), Ballet Swan (NFR), Fallow Deer (NR) | **AmvggPi0n41K**: Dalmatian (FR) |
+| 00:25 | **wanderrrrer**: Stray Cat Dragon ×4 | **Eliaam0_0**: Cake Friend |
+| 00:21 | **NatureGirlMB**: Cabbit (MFR), Goose (MFR) | **ALTACCOUNT1333475**: Strawberry Shortcake Bat Dragon (MFR), African Wild Dog, Siamese Cat (FR) |
+| 00:21 | **KarlotaRaquel**: Fly-A-Pet Potion ×9 | **Nicoleee_ily**: Flash Weasel |
+| 00:21 | **cutesyiza**: Crystal Egg ×18 | **GoodGirlxoxo21**: Fly-A-Pet Potion |
+| 00:21 | **xGracie_1234x**: Strawberry Penguin | **azeerchi**: Papa Moose |
+| 00:21 | **Omar2002548**: Owlbear (R) | **azeerchi**: Velocirooster |
 
 ## Elvebredd value changes: 61,530 since 2023-09-16
 
