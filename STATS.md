@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 11:45 UTC by the scrape workflow._
+_Updated 2026-11-13 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 11:45 UTC by the scrape workflow._
 | amvgg | 3 | 33,485 | 2026-11-13T11:45 |
 | elve | 3 | 6,750 | 2026-11-13T11:45 |
 
-## AMVGG completed trades: 7,238 total
+## AMVGG completed trades: 7,257 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,405 |
+| 2026-11-13 | 1,424 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 11:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:45 | **aianame_rey**: Turtle (FR) | **erditiri03**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
-| 11:45 | **MakiraLive**: Halloween Slime Mega Neon Paint | **beatsvic**: Hot Cocoa Stand |
-| 11:40 | **nehaplayz_yt4**: Latte Kitsune (MFR), Polar Bear (MFR), French Bulldog (MFR) | **Gottalovemeobvi**: Sakura Spirit (MFR) |
-| 11:40 | **AdoptMe_noob087**: Golden Dragon (MR), Ancient Dragon (NFR), Sabertooth (NR) | **younost101001**: Frost Fury (FR) |
-| 11:36 | **xXsiimplyblxoomxX**: Munchkin Cat, Pig (R), Great Pyrenees | **SyndromGG**: 2022 Birthday Cupcake Shoes |
-| 11:36 | **QiQi6060**: Brown Bear | **joleen_hihihi**: Meerkat |
-| 11:36 | **Lxdyxx**: Ice Cream Cone Hat | **OfficialBrunette**: Groundhog, Toasty Red Panda, St Bernard, Blossom Snake, Cattuccino ×2, DJ Snooze, Goldfish, Narwhal, Shiver Wolf, Sasquatch, Seahorse, Yellow Butterfly, Arctic Hare, Bird of Paradise, Electric Hornet, Angus Calf, Gemstone Egg |
-| 11:36 | **gofqv1**: Diamond Dragon, Dracula Parrot, Parakeet (N) ×2, Princess Mare (N), Frankenfeline (N), Fairytale Egg | **oh_eql**: Ride-A-Pet Potion |
-| 11:36 | **VIPERR_KA1FANEL**: Balloon Unicorn (FR), Evil Unicorn (FR), Turtle (FR) | **Flaptzyy_16**: Frost Dragon (FR) |
-| 11:36 | **1109Lemonade**: Cow (R), Lamb (MFR), Chocolate Dutch Guinea Pig (NR) | **Cleirt_CoS0**: Pig (MFR) |
-| 11:36 | **Alisa506g**: Dalmatian (FR), Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR), Mini Pig, Cow, Turtle (FR), Candyfloss Chick (R), Kangaroo (R) ×2, Crocodile (FR) ×2, Pig (R), Scarlet Butterfly (MR), Ride-A-Pet Potion, Lunar Tiger Box ×2, Count Slothula | **sursyrzytxurzutzutz**: Giraffe (FR) |
-| 11:36 | **adoptme12ap**: Ballet Swan (MFR), Tortuga de la Isla (NFR) | **biq_at222**: Puffin (MFR) |
-| 11:36 | **ZOliverTurboz**: Frost Dragon (FR), Bat Dragon (NFR), Shadow Dragon (FR) | **RhodesyMate16**: Shadow Dragon (MFR) |
-| 11:36 | **zcqlv**: Sweetheart Rat (MFR) | **Lararaposinha**: Lion Cub (FR) |
-| 11:36 | **KinaToons**: Winged Tiger (NFR), Cherry-On-Top, 2022 Birthday Cake, Fly-A-Pet Potion | **SerenaWolfWarrior**: Munchkin Cat (MFR) |
+| 11:50 | **meg_playzrblx48**: Aurora Fox (R), Fly-A-Pet Potion, Alley Cat | **Fox_micro9311**: Amami Rabbit (MFR) |
+| 11:50 | **queenalwaysslayxx**: Cow, Fairy Bat Dragon (FR), Tiny Wings, Harp Seal | **raraa_cute61**: Cow (NFR) |
+| 11:50 | **UWUWUWUWUUWUUWUWUW1**: Pupcake | **Ksu0qww**: Ride-A-Pet Potion |
+| 11:50 | **nmfj**: Fairy Bat Dragon (FR), Ram (MFR), 2022 Birthday Cupcake Shoes, Glacier Moth | **GG_CROWS2**: Groundhog (MFR) |
+| 11:50 | **12kyanni12k**: Border Collie (MFR) | **lovel1446**: Goat (MFR), Golden Chow-Chow (MFR), Jousting Horse (MFR), Spring Bunny Hood |
+| 11:50 | **zKxUcZzYxAc**: Show Pony (MR) | **uu2i3iy**: Fly-A-Pet Potion |
+| 11:50 | **Krismasterdang**: Rain Cloud Hat | **pktyce**: Crocodile (FR) |
+| 11:50 | **QiQi6060**: Unicorn | **afissamuzfirah**: Ride-A-Pet Potion |
+| 11:50 | **thescriptofficials**: Unicorn ×2 | **afissamuzfirah**: Ride-A-Pet Potion ×2 |
+| 11:50 | **iiAesthxticPxmpkinii**: Frostbite Bear, Snow Monkey (MFR), Leopard Cat (MFR), Mule (MFR), Frostbite Bear (FR) | **atracttion**: Goat (MFR) |
+| 11:50 | **sorrowclings**: 2022 Birthday Party Hat ×2, 2022 Birthday Cake, Angel Wings, 2022 Birthday Party Horn | **Leahlovesyou4ever**: Cryptid |
+| 11:50 | **Xx_lxmwXx**: Fly-A-Pet Potion, Unfortunate Eyelashes, Count Slothula | **zarmeowz**: Spring Bunny Nose |
+| 11:50 | **feliyammr**: Milk Choccybunny (N), Lunar Gold Tiger (R) | **Pawwzzed**: Ride-A-Pet Potion |
+| 11:50 | **laokratia**: Golden Rat (R), Beluga Whale (NR) | **girlbyegirl12**: Pet Handler Pro Certificate |
+| 11:50 | **Vanthoria**: Moon Rabbit (MFR) | **3BDAl3ziz3**: Shiver Wolf (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
