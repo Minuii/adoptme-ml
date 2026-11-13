@@ -161,9 +161,12 @@ def amvgg_variants(pet, table):
 
 def snapshot_values():
     # ponytail: whole list per snapshot (~150KB gz). Diff-only storage if the repo ever gets big.
-    lists = {"elve": find_list(fetch("https://elvebredd.com/adopt-me-calculator"), "initialPets"), "amvgg": []}
+    # a throwaway query string gets a fresh render: on 2026-11-13 amvgg's plain /values/pets URL served a copy ~18 h old
+    # (the same Next.js page cache as the trades page), which logged a fake drop and recovery for 46 pets
+    bust = f"?t={int(time.time())}"
+    lists = {"elve": find_list(fetch("https://elvebredd.com/adopt-me-calculator" + bust), "initialPets"), "amvgg": []}
     for kind in AMVGG_KINDS:
-        html = fetch(f"https://amvgg.com/values/{kind}")
+        html = fetch(f"https://amvgg.com/values/{kind}{bust}")
         lists["amvgg"] += [dict(i, kind=kind) for i in find_list(html, "pets" if kind == "pets" else "items")]
         if kind == "pets":
             try:  # a side file: never let it break the snapshot
