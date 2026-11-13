@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 17:16 UTC by the scrape workflow._
+_Updated 2026-11-13 17:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 17:16 UTC by the scrape workflow._
 | amvgg | 3 | 38,853 | 2026-11-13T17:15 |
 | elve | 3 | 8,008 | 2026-11-13T17:16 |
 
-## AMVGG completed trades: 8,512 total
+## AMVGG completed trades: 8,528 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 2,679 |
+| 2026-11-13 | 2,695 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 17:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:15 | **ClxudsandRxin**: Moon Rabbit (N), Bready Necklace ×2 | **YtSupreme013**: Mighty Haetyphoon Animated Sticker |
-| 17:15 | **Mailand781**: Christmas Pudding Pup | **Redfewk**: Copycat |
-| 17:15 | **Alana_enna22**: Dragon, Three Blind Mice, Stray Cat Dragon ×3, Glormy Dolphin, Bubblegeist, Mochi Meow | **LYIZA_1976**: Ride-A-Pet Potion |
-| 17:15 | **adoptmexx626**: Milk Choccybunny (M), Pink Dog (M) | **eeliasxcx**: Ride-A-Pet Potion |
-| 17:15 | **svrodrii2**: Fly-A-Pet Potion ×3 | **odading12318**: Pet Handler Pro Certificate ×3 |
-| 17:15 | **p139h**: Business Monkey, Diamond Dragon, Fly-A-Pet Potion ×3, Thunderfisher (N) | **Tksdktkfkdgksek**: Pupcicle (NR) |
-| 17:15 | **MYB505**: Cow (FR) ×2, Angelfish (M), Kitty Bat (MFR), Maneki-Neko (MR), Mr. Whiskerpips (MR), Halloween Golden Mummy Cat (MR), Frankenfeline (M) | **luhv_kvrr**: Shrew (MFR) |
-| 17:15 | **Fox_3670**: Turkey, Capybara (R), Cake Friend | **afissamuzfirah**: Pupcicle ×3 |
-| 17:15 | **itsmeRa3lyn**: Munchkin Cat (R) | **mimiiyxx**: Tiny Wings |
-| 17:15 | **036daylan**: Ride-A-Pet Potion, Skelicorn | **TheBerryxD**: Pupcicle |
-| 17:15 | **Sonya73p**: Ride-A-Pet Potion ×4 | **zKxUcZzYxAc**: Spring Bunny Hood |
-| 17:15 | **Ttsglw**: Pain au Chat ×5 | **Mylittlecrushfrom**: Fly-A-Pet Potion |
-| 17:15 | **vilskg**: Frost Dragon (FR), Owl (R), Strawberry Shortcake Bat Dragon (FR), Mini Pig (R), Elephant (R), Platypus (R) | **sophsroblocxacc2**: Balloon Unicorn (NFR), Cabbit (NFR) |
-| 17:15 | **Reesha_tm**: Ride-A-Pet Potion ×4, Admin Abuse Egg | **ZIaya_Psina**: Pupcicle ×4 |
-| 17:15 | **marioxd_1252**: Brown Bear (NFR) | **KalessyXS108**: Pupcicle ×16 |
+| 17:21 | **yanaunicorn_23**: Dodo (R), Kitsune (FR) | **aleks2u**: Pupcicle (R), Pupcicle |
+| 17:21 | **internetprincess10**: Giraffe Hat | **liaxcz0**: Pupcicle (MFR) |
+| 17:21 | **gifjdjchxfffjf**: Celebrity Mansion | **KEKS1TOP**: Pupcicle |
+| 17:21 | **MyRealAccIScjh98718**: Rainbow Maker, Pink Cat Ear Headphones, Pink Heart Glasses, Blue Cat Ear Headphones | **T3bas1**: Happy Clam (MFR) |
+| 17:21 | **BudakBaran7**: Ride-A-Pet Potion ×9 | **batspyv**: Pupcicle ×9 |
+| 17:21 | **BananaSzymonKing**: Cow (FR), Turtle (FR), Kangaroo (FR) | **yeetimaheadout7**: Dalmatian (FR) |
+| 17:21 | **AZALEEKA40_TOP123**: Copycat (FR) | **BestAnGeLPop**: Arctic Fox (R) |
+| 17:21 | **QueenBeeFuzzyAlt**: Cabbit (R) | **Ins0mnia4life**: Pupcicle (MFR) |
+| 17:21 | **giovvanna7423**: 2026 Birthday Butterfly (M) | **obsxrvez**: Retired Egg ×18 |
+| 17:21 | **EpicR0cketLi0n**: Sheeeeep (MFR), Dragonfruit Fox (MFR) | **lolghwy3**: Jellyfish (MFR) |
+| 17:21 | **Minnieql**: Fairy Bat Dragon (NFR), Jester Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Hey_itsCloveer**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat (NFR) |
+| 17:21 | **odading12318**: Munchkin Cat (R) | **xXsiimplyblxoomxX**: Fly-A-Pet Potion ×5 |
+| 17:21 | **xXsiimplyblxoomxX**: Crocodile (FR), Fly-A-Pet Potion | **Tyatya03**: Jester Dragon (FR), Copycat (FR) |
+| 17:21 | **xXsiimplyblxoomxX**: Leopard Shark (MR), Ride-A-Pet Potion | **madebybr3e**: Kangaroo (FR), Crocodile (FR) |
+| 17:21 | **235_polinaa**: River Otter (N), Kaijunior (N), Ghost Wolf (N), Gumball Caterpillar (N), Nurse Shark (N), Bolt (N) | **Milalola45alt**: Pupcicle |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
