@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 09:01 UTC by the scrape workflow._
+_Updated 2026-11-13 09:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 09:01 UTC by the scrape workflow._
 | amvgg | 3 | 31,118 | 2026-11-13T09:00 |
 | elve | 3 | 6,235 | 2026-11-13T09:01 |
 
-## AMVGG completed trades: 6,884 total
+## AMVGG completed trades: 6,909 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 1,051 |
+| 2026-11-13 | 1,076 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 09:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:00 | **dadjio6alt**: Ride-A-Pet Potion ×2 | **archi_chozza**: Purrowl (M) |
-| 09:00 | **Zydac1**: Gecko, Cow Calf, Toy Poodle | **mxrgan66**: Ride-A-Pet Potion |
-| 09:00 | **pobl_liza200910**: Ride-A-Pet Potion ×8 | **Abvisse**: Aurora Fox (FR) |
-| 09:00 | **OBVHAILE**: Well, Actually Walrus Sticker, Love Letter | **chicaraxyx**: Magic House Door |
-| 09:00 | **NICKNAYF009**: Giraffe (FR), Turtle (FR), Siamese Cat (F), Candyfloss Chick (R) ×2, Kangaroo (R), Crocodile | **odading12318**: Owl (NFR) |
-| 08:55 | **SashaaXD0**: Kaijunior (N), Mole (N), Mummy Spider (N) | **Shehatesme420**: Ride-A-Pet Potion |
-| 08:55 | **addmymain62**: Latte Kitsune (MFR), Ride-A-Pet Potion ×5 | **Xian1730j**: Rainbow Maker, Unicorn Horn |
-| 08:55 | **clearlythorn**: Huntsman Robin ×11 | **liofe1**: Ride-A-Pet Potion |
-| 08:55 | **kkaatEEe2**: Ride-A-Pet Potion ×16 | **flears_brai**: Stray Cat Dragon (M) ×8 |
-| 08:55 | **papalla007xd**: Cow (MFR), Cow (FR) ×2, Unicorn Horn | **MrToy40**: Frost Dragon (FR) |
-| 08:50 | **rightygf_343**: Glormy Dolphin (R), Shetland Pony Dark Brown (R), Stray Cat Dragon | **nyavisala**: Ride-A-Pet Potion |
-| 08:50 | **Ttsglw**: Cupcake Scooter, Blue Scooter, White Scooter, Fossil Paw Helicopter | **pmpjmg1**: Fly-A-Pet Potion |
-| 08:50 | **ThunderLegend680**: Stray Cat Dragon ×7 | **Adrija_05**: Ride-A-Pet Potion |
-| 08:50 | **awsrrex**: Snow Cat (N), Pandaguin Glooptodog (N), Alicorn, Thunderfisher, Black Tiger ×3, Corgi, Skelicorn, Pangolin, Kakapo, Budgie Witch, Princess Mare, Ms. Muffet ×2, Clumpty, Little Lamb ×2 | **liofe1**: Ride-A-Pet Potion |
-| 08:50 | **0qwc0**: Ride-A-Pet Potion ×2, Garden Egg ×5 | **llya3348**: Pain au Chat ×6 |
+| 09:11 | **emi28na**: Ride-A-Pet Potion ×2 | **Mobprodo1**: Turkey, Humbug (N), Pinkypillar (N), Toxic Kaijunior |
+| 09:11 | **fanndeMARINA**: Moose Calf | **prensesecya**: Ride-A-Pet Potion ×2 |
+| 09:11 | **kworixx**: Mini Pig (FR), Cow (FR), Siamese Cat (FR), Elephant, Fly-A-Pet Potion, Scarebear, Candicorn (FR), Cloud Car, Bunny Carriage | **leruval**: Parrot (FR) |
+| 09:11 | **Rita_ggh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **odading12318**: Arctic Fox (R) |
+| 09:11 | **fox09649**: Munchkin Cat (R), Pig (R), Arctic Fox (FR), Ride-A-Pet Potion, Bready Necklace, Gemstone Egg, Badger (NR), Eggnog Dog, Otter (F), Glamicorn Purse Pet, Bee Hive, Festive Antlers, Gold Tiara, Picnic Basket, Gold Circle Glasses, Dugong, Mistletroll, Gingerbread Mouse | **catgirl718**: Cow (FR) |
+| 09:06 | **Bumble_Lou**: Hoverboard | **inicio1994**: Well, Actually Walrus Sticker |
+| 09:06 | **inicio1994**: Kangaroo (R), Stitches ×2 | **Joelzoz**: Bush Elephant (FR) |
+| 09:06 | **Inganta07**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **BunnyDaOnee**: Unicorn (NFR) |
+| 09:06 | **sanartes**: Chocolate Dutch Guinea Pig | **hella_wick**: Burger Bear (R), Burger Bear |
+| 09:06 | **m4r4se**: Strawberry Shortcake Bat Dragon (FR), Goose (R), Jester Dragon | **AdamBawaaneh6**: Evil Unicorn (FR) |
+| 09:06 | **1111mato**: Fairy Bat Dragon (FR), Turtle (FR), Winged Tiger (R) | **m4r4se**: Arctic Reindeer (FR), Fly-A-Pet Potion |
+| 09:06 | **frt5rtfr**: Frostbite Bear (FR), Ride-A-Pet Potion ×2 | **m4r4se**: Chocolate Chip Bat Dragon (FR) |
+| 09:06 | **addmysecondaccount**: Jekyll Hydra (FR), Mrs. Whiskerpips | **FufuFluffyFlowi**: Goose (FR) |
+| 09:06 | **daanz2**: Jester Dragon (NFR), Strawberry Tortle (FR) | **Meho1234565**: Cow (R), Candyfloss Chick (FR), Ice Cream Cone Hat, Burger Bear (N) |
+| 09:06 | **realmarkayy**: Velocirooster (R) ×2, Ride-A-Pet Potion ×2 | **GreenCC12**: Giant Cheetah Mount |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
