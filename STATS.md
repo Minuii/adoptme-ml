@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 08:10 UTC by the scrape workflow._
+_Updated 2026-11-13 08:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-13 08:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 30,253 | 2026-11-13T08:00 |
-| elve | 3 | 6,043 | 2026-11-13T08:01 |
+| amvgg | 3 | 30,468 | 2026-11-13T08:15 |
+| elve | 3 | 6,091 | 2026-11-13T08:16 |
 
-## AMVGG completed trades: 6,813 total
+## AMVGG completed trades: 6,814 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 980 |
+| 2026-11-13 | 981 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,6 +28,7 @@ _Updated 2026-11-13 08:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:15 | **Nicckie_Min42**: Arctic Fox (FR), Jester Dragon (FR), S'mores Raccoon (NR), Boohoo (M), Ride-A-Pet Potion, Clownfish (R) | **Liza_kupibara**: Turtle (FR) |
 | 08:10 | **KufoXD**: Shark Puppy, Munchkin Cat (R), Tuxedo Cat | **phonky_phonkacc2**: Alpaca (FR) |
 | 08:10 | **vcloss**: Candicorn, Ride-A-Pet Potion | **Piskagrs_510**: Flash Weasel |
 | 08:10 | **Piskagrs_510**: Pancake Stack | **fleshsprinklesz**: Fly-A-Pet Potion, Ride-A-Pet Potion |
@@ -42,7 +43,6 @@ _Updated 2026-11-13 08:10 UTC by the scrape workflow._
 | 08:10 | **ElishaJade12341**: Elephant (R), Ride-A-Pet Potion | **Alina235789dd**: Candicorn (R) |
 | 08:10 | **yanchik0067**: Cow (R) | **Estrellitagamer108**: Christmas Pudding Pup (NFR), Christmas Pudding Pup |
 | 08:10 | **dimetacrine**: Harp Seal (MR), Candicorn, Border Collie (FR), Border Collie (R), Border Collie ×4, Fly-A-Pet Potion, Ride-A-Pet Potion, Hare | **angelsssfounderr**: Haetae (FR) |
-| 08:06 | **momhatemeuwu**: Peppermint Penguin | **gattitakawaii16**: German Shepherd (N), Snowball Pet (NR), Harp Seal (NR), Alley Cat (R), Chipmunk (N), Quokka (N), Amami Rabbit (N), Skelicorn (MFR), T-Rex (NR), Chocolate Dutch Guinea Pig, Happy Duckling |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
