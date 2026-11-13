@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 04:01 UTC by the scrape workflow._
+_Updated 2026-11-13 04:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 04:01 UTC by the scrape workflow._
 | amvgg | 3 | 26,710 | 2026-11-13T04:00 |
 | elve | 3 | 5,369 | 2026-11-13T04:01 |
 
-## AMVGG completed trades: 6,295 total
+## AMVGG completed trades: 6,319 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 462 |
+| 2026-11-13 | 486 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 04:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:00 | **LunaPlaysYOO**: Spring Bunny Hood | **chickchickboom101**: Leopard Shark, Hamster (FR), Lynx, Chihuahua, Ermine, Maine Coon, Cotton Candy Hat, Ibex |
-| 04:00 | **LunaPlaysYOO**: Reindeer (NR) | **Vyseful**: Red Squirrel (NR), Hamster (NR) |
-| 04:00 | **MM_Cloud**: Stray Cat Dragon ×11 | **deiaziinha**: Ride-A-Pet Potion |
-| 04:00 | **huyichan9130**: Oakee Wizard (M) | **Huge_Soda**: Ride-A-Pet Potion ×2 |
-| 03:50 | **YUUHGETINTOITYUUH**: Magma Moose ×7, Ride-A-Pet Potion ×4 | **Colossious**: Magma Moose (M) |
-| 03:50 | **YUUHGETINTOITYUUH**: Sunglider (MFR) | **Colossious**: Chocolate Dutch Guinea Pig (N), Chocolate Dutch Guinea Pig (R) |
-| 03:50 | **asdfazfe**: Zombie Buffalo (R) | **leoncitoUwU12345**: Jester Dragon |
-| 03:50 | **koeinaway1**: Cabbit (FR), Mermicorn (FR) | **sweetlyscar**: Siamese Cat (NFR) |
-| 03:50 | **e1ivr**: Strawberry Shortcake Bat Dragon (MFR) | **nornomm**: Strawberry Shortcake Bat Dragon (FR) ×7 |
-| 03:50 | **wtql0xva**: Dango Penguins (N) | **Xxfortnite401kxX**: Ride-A-Pet Potion ×9 |
-| 03:50 | **Itsmecutie_Bella**: Admin Abuse Egg ×5 | **Spi_bxys**: Endangered Egg ×9, Ant |
-| 03:50 | **VovchikO123**: Cattuccino (M) | **Leviodas**: Ride-A-Pet Potion ×2 |
-| 03:50 | **EpKaneIntenseMonkeys**: Zodiac Minion Chick | **1234noemisuper**: Christmas Pudding House |
-| 03:50 | **BABYCRAC120**: Cockroach (MFR), Pancake Stack | **2M1K0**: Ice Cream Cone Hat |
-| 03:50 | **Blasecific**: Ride-A-Pet Potion ×9, Hopbop (N) | **tufvfffdjdg**: Pig (FR) |
+| 04:10 | **GoodMemories2020**: Halloween Slime Mega Neon Paint | **WowOvOOooo**: Ride-A-Pet Potion |
+| 04:06 | **Fidelia2131415**: Stray Cat Dragon (N), Water Moon Bear (R) | **themudwizard**: Ride-A-Pet Potion |
+| 04:06 | **rbwax**: Green-Chested Pheasant, Golden Dragon (R) | **themudwizard**: Ride-A-Pet Potion |
+| 04:06 | **D_avidOrbit**: Goose (FR) | **AvokadoJFKfanat**: Fly-A-Pet Potion ×15, Spring Bunny Hood |
+| 04:06 | **Scarrscarrscar**: General Sheepdog (MFR) | **kittykyo77**: Chihuahua (M) |
+| 04:06 | **qwertyy_xx01**: Chihuahua ×2, Electric Hornet | **auixiss**: Ride-A-Pet Potion |
+| 04:06 | **xHelen_Martax**: Crimson Cape (NR), Ride-A-Pet Potion | **VovchikO123**: Samoyed (M) |
+| 04:06 | **Testsubject0_217**: Strawberry Shortcake Bat Dragon (FR) | **Alejandro_KLD**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
+| 04:06 | **joincupcakie**: Alpaca (MFR) | **Leah_newaccnt**: Rainbow Maker, Angel Wings, 2022 Birthday Party Hat, 2022 Birthday Cake ×3, Unicorn Horn ×5, Rain Cloud Hat ×2, Unicorn Backpack |
+| 04:06 | **Huge_Soda**: Ride-A-Pet Potion ×2 | **yhanie144**: Skelicorn (M) |
+| 04:06 | **Barbieandsken**: Goose (FR), Kangaroo (FR), Spring Bunny Hood | **chaeegirlff**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:06 | **Manggo_Pie40**: Kangaroo (FR) | **mamabirdkiller**: Ride-A-Pet Potion ×17 |
+| 04:06 | **bettingattack**: Pet Handler Pro Certificate | **frogie_948**: Aviator Hat, Thinking Hat |
+| 04:06 | **AceFoxRBX4**: Siamese Cat (MFR), Harp Seal | **kaylamicmi**: Alpaca (NFR), Rainbow Maker |
+| 04:06 | **TheGamerNoob555Xd**: Turtle (FR), Flamingo (FR), Alpaca (R), Kangaroo (FR), Kangaroo (R), Tiny Wings | **Kittycatlll49**: Mini Pig (NFR) |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
