@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Adopt Me Value Tracker</title>
-<meta name="description" content="AMVGG and Elvebredd Adopt Me values side by side, with full value history.">
+<meta name="description" content="amvgg and Elvebredd Adopt Me values side by side, with full value history.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:wght@600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap" rel="stylesheet">
@@ -61,7 +61,17 @@ h2 { font-size: 17px; font-weight: 600; margin: 0; }
 .two { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 28px; }
 
 /* controls */
-.controls { display: flex; flex-wrap: wrap; gap: 12px 16px; align-items: flex-end; }
+.controls { display: grid; grid-template-columns: repeat(auto-fill, minmax(168px, 1fr)); grid-auto-flow: row dense; gap: 14px 14px; align-items: end;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px 16px; }
+.controls .field.grow { grid-column: span 2; }
+.controls .field:has(.seg button:nth-child(3)) { grid-column: span 2; }  /* Both / amvgg / Elvebredd needs the room */
+.controls .input, .controls select { width: 100%; height: 40px; min-height: 40px; }
+.controls select { appearance: none; -webkit-appearance: none; padding-right: 30px; cursor: pointer;
+  background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%);
+  background-position: calc(100% - 16px) 17px, calc(100% - 11px) 17px; background-size: 5px 5px; background-repeat: no-repeat; }
+.controls .seg { display: flex; width: 100%; height: 40px; background: var(--bg); }
+.controls .seg button { flex: 1; min-height: 0; padding: 0 8px; white-space: nowrap; }
+.controls .label { font-size: 11px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--faint); }
 .field { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
 .input, select { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; min-height: 38px; }
 .input { width: min(260px, 100%); }
@@ -319,6 +329,8 @@ footer a { color: var(--muted); }
 .crumbs button:hover { color: var(--fg); }
 
 @media (max-width: 640px) {
+  .controls { grid-template-columns: repeat(2, minmax(0, 1fr)); padding: 12px; gap: 12px 10px; }
+  .controls .field.grow { grid-column: 1 / -1; }
   .jentry { grid-template-columns: 1fr; } .jentry .pic { max-width: 180px; }
   .jcats { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; } .jstack { height: 70px; } .jstack img { width: 54px; height: 54px; } .jstack img:nth-child(2) { width: 64px; height: 64px; }
   .jgrid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -333,7 +345,7 @@ footer a { color: var(--muted); }
 <body>
 <div class="shell">
 <aside class="side">
-  <a class="brand" href="#" aria-label="Adopt Me value tracker, home"><span class="logo" aria-hidden="true">AM</span><span><b>Adopt Me Values</b><small>AMVGG · Elvebredd tracker</small></span></a>
+  <a class="brand" href="#" aria-label="Adopt Me value tracker, home"><span class="logo" aria-hidden="true">AM</span><span><b>Adopt Me Values</b><small>amvgg · Elvebredd tracker</small></span></a>
   <nav class="sidenav" role="tablist" aria-label="Pages">
     <div class="navgroup"><span class="navlabel">Market</span>
       <button class="tab" role="tab" data-tab="list"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Values</button>
@@ -354,7 +366,7 @@ footer a { color: var(--muted); }
 <div class="wrap">
   <header class="pagehead">
     <h1 id="ptitle">Values</h1>
-    <p class="lede" id="lede">AMVGG and Elvebredd values side by side, with every logged value change.</p>
+    <p class="lede" id="lede">amvgg and Elvebredd values side by side, with every logged value change.</p>
   </header>
 
   <!-- values + value changes share the filters -->
@@ -364,15 +376,15 @@ footer a { color: var(--muted); }
     <div class="controls" id="filters">
       <label class="field grow"><span class="label">Search</span><input id="q" class="input" type="search" placeholder="Item name" autocomplete="off"></label>
       <div class="field"><span class="label">List</span><div class="seg" data-key="src" role="group" aria-label="List">
-        <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
+        <button data-v="both">Both</button><button data-v="A">amvgg</button><button data-v="E">Elvebredd</button></div></div>
       <div class="field pet-only"><span class="label">Fly, Ride, Neon, Mega</span><div id="frnmSlot"></div></div>
       <label class="field"><span class="label">Category</span><select id="cat"></select></label>
       <label class="field"><span class="label">Rarity</span><select id="rar"><option value="">Any</option><option>common</option><option>uncommon</option><option>rare</option><option>ultra rare</option><option>legendary</option></select></label>
-      <label class="field"><span class="label">AMVGG demand</span><select id="dem"><option value="">Any</option><option>High</option><option>Medium</option><option>Low</option></select></label>
+      <label class="field"><span class="label">amvgg demand</span><select id="dem"><option value="">Any</option><option>High</option><option>Medium</option><option>Low</option></select></label>
       <label class="field list-only"><span class="label">Sort</span><select id="sort">
         <option value="val">Highest value</option><option value="low">Lowest value</option>
         <option value="rise">Biggest rise (30 days)</option><option value="drop">Biggest drop (30 days)</option>
-        <option value="gap">AMVGG vs Elve gap</option><option value="az">A to Z</option></select></label>
+        <option value="gap">amvgg vs Elve gap</option><option value="az">A to Z</option></select></label>
     </div>
     <div class="status"><span id="count" aria-live="polite">Loading…</span><span id="when"></span></div>
     <div class="tablewrap"><table id="tbl"></table></div>
@@ -396,16 +408,16 @@ footer a { color: var(--muted); }
       <label class="field grow"><span class="label">Offering (they give)</span><input id="ag" class="input" type="search" placeholder="e.g. Frost Dragon" autocomplete="off"></label>
       <label class="field grow"><span class="label">Looking for (they want)</span><input id="ak" class="input" type="search" placeholder="e.g. Shadow Dragon" autocomplete="off"></label>
       <div class="field"><span class="label">Site</span><div class="seg" data-key="as" role="group" aria-label="Site">
-        <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
+        <button data-v="both">Both</button><button data-v="A">amvgg</button><button data-v="E">Elvebredd</button></div></div>
       <label class="field"><span class="label">Variant</span><select id="av"><option value="">Any</option><option value="r">Normal</option><option value="n">Neon</option><option value="m">Mega</option></select></label>
       <label class="field"><span class="label">Potion</span><select id="ap"><option value="">Any</option><option value="fr">Fly Ride</option><option value="f">Fly</option><option value="r">Ride</option><option value="np">No Potion</option></select></label>
       <div class="field"><span class="label">Value with</span><div class="seg" data-key="al" role="group" aria-label="Value with">
-        <button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
+        <button data-v="A">amvgg</button><button data-v="E">Elvebredd</button></div></div>
       <label class="field"><span class="label">Deal</span><select id="adeal"><option value="">Any</option><option value="over">Overpays 5%+</option><option value="real">Overpays 5–100% (hide bait)</option>
         <option value="fair">Fair (within 5%)</option><option value="under">Asks for 5%+ more</option><option value="valued">Can be valued</option></select></label>
-      <label class="field"><span class="label">Offer worth at least</span><input id="amin" class="input" type="number" min="0" step="any" inputmode="decimal" placeholder="Any" style="width:120px"></label>
-      <label class="field"><span class="label">Sort</span><select id="asort"><option value="new">Newest</option><option value="over">Biggest overpay (%)</option>
-        <option value="overv">Biggest overpay (value)</option><option value="ask">Asks the most extra (%)</option><option value="big">Biggest offers</option></select></label>
+      <label class="field"><span class="label">Worth at least</span><input id="amin" class="input" type="number" min="0" step="any" inputmode="decimal" placeholder="Any"></label>
+      <label class="field"><span class="label">Sort</span><select id="asort"><option value="new">Newest</option><option value="over">Overpay, most %</option>
+        <option value="overv">Overpay, most value</option><option value="ask">Asks most extra %</option><option value="big">Biggest offers</option></select></label>
     </div>
     <div class="status"><span id="adcount" aria-live="polite">Loading…</span><span id="adwhen"></span></div>
     <div class="agwrap">
@@ -413,14 +425,14 @@ footer a { color: var(--muted); }
       <div class="adlist" id="adlist"></div>
     </div>
     <button class="more" id="admore" hidden>Show more</button>
-    <p class="note">The newest offers (trade listings) from the AMVGG and Elvebredd trade centres. They're collected every 15 minutes, and this page refreshes every hour. Trader names are left out. "Offering" is what the poster gives; "Wants" is what they ask for. Values come from the list you pick. If that list doesn't carry an item, or the offer asks for something like "Add", the offer can't be valued.</p>
+    <p class="note">The newest offers (trade listings) from the amvgg and Elvebredd trade centres. They're collected every 15 minutes, and this page refreshes every hour. Trader names are left out. "Offering" is what the poster gives; "Wants" is what they ask for. Values come from the list you pick. If that list doesn't carry an item, or the offer asks for something like "Add", the offer can't be valued.</p>
   </section>
 
   <section class="page" id="wanted" hidden>
     <div class="controls">
       <label class="field grow"><span class="label">Search</span><input id="wq" class="input" type="search" placeholder="Item name" autocomplete="off"></label>
       <div class="field"><span class="label">Site</span><div class="seg" data-key="ws" role="group" aria-label="Site">
-        <button data-v="both">Both</button><button data-v="A">AMVGG</button><button data-v="E">Elvebredd</button></div></div>
+        <button data-v="both">Both</button><button data-v="A">amvgg</button><button data-v="E">Elvebredd</button></div></div>
       <label class="field"><span class="label">Category</span><select id="wc"></select></label>
       <label class="field"><span class="label">Variant</span><select id="wv"><option value="">Any</option><option value="r">Normal</option><option value="n">Neon</option><option value="m">Mega</option></select></label>
       <label class="field"><span class="label">Potion</span><select id="wp"><option value="">Any</option><option value="fr">Fly Ride</option><option value="f">Fly</option><option value="r">Ride</option><option value="np">No Potion</option></select></label>
@@ -429,7 +441,7 @@ footer a { color: var(--muted); }
     <div class="status"><span id="wcount" aria-live="polite">Loading…</span><span id="wwhen"></span></div>
     <div class="tablewrap"><table id="wtbl"></table></div>
     <button class="more" id="wmore" hidden>Show more</button>
-    <p class="note">How often each item (each pet variant on its own row) was asked for in trade offers on AMVGG and Elvebredd over the last 7 days, against how often it was offered. A pet is counted once per offer. The two sites are sampled at different rates, so with "Both" the ranking uses each site's share (mentions per 1,000 offers collected there), averaged. "Wanted more than offered" only ranks items with at least 10 mentions.</p>
+    <p class="note">How often each item (each pet variant on its own row) was asked for in trade offers on amvgg and Elvebredd over the last 7 days, against how often it was offered. A pet is counted once per offer. The two sites are sampled at different rates, so with "Both" the ranking uses each site's share (mentions per 1,000 offers collected there), averaged. "Wanted more than offered" only ranks items with at least 10 mentions.</p>
   </section>
 
   <section class="page" id="stats" hidden>
@@ -437,19 +449,19 @@ footer a { color: var(--muted); }
     <div class="kpis" id="kpis"></div>
     <section class="section">
       <h2>Value changes per month</h2>
-      <div class="legend"><span><i style="background:var(--elve)"></i>Elvebredd</span><span><i style="background:var(--amvgg)"></i>AMVGG</span></div>
+      <div class="legend"><span><i style="background:var(--elve)"></i>Elvebredd</span><span><i style="background:var(--amvgg)"></i>amvgg</span></div>
       <div class="chart" id="monthly"></div>
-      <p class="note">One change is one variant of one item moving (for example Frost Dragon, neon fly ride). Elvebredd's history goes back to September 2023; AMVGG's starts in June 2026.</p>
+      <p class="note">One change is one variant of one item moving (for example Frost Dragon, neon fly ride). Elvebredd's history goes back to September 2023; amvgg's starts in June 2026.</p>
     </section>
     <section class="section">
       <h2>Completed trades collected per hour</h2>
       <div class="chart" id="hourly"></div>
-      <p class="note">The collector checks AMVGG's completed trades every 15 minutes. The page only holds the last 15–30 minutes of trades, so a missed run leaves a dip.</p>
+      <p class="note">The collector checks amvgg's completed trades every 15 minutes. The page only holds the last 15–30 minutes of trades, so a missed run leaves a dip.</p>
     </section>
     <div class="two">
       <section class="section"><h2>Most often revalued, last 90 days</h2><div class="tablewrap"><table id="busy"></table></div></section>
       <section class="section"><h2>Most traded, last 7 days</h2><div class="tablewrap"><table id="traded"></table></div>
-        <p class="note">Completed AMVGG trades with the item on either side.</p></section>
+        <p class="note">Completed amvgg trades with the item on either side.</p></section>
     </div>
   </section>
 
@@ -464,18 +476,18 @@ footer a { color: var(--muted); }
     <summary>Where this data comes from</summary>
     <ul>
       <li>Elvebredd: the full value list, and every change on elvebredd.com/value-updates since September 2023.</li>
-      <li>AMVGG: the full value list (pets and every other category), and its value-updates feed since 2 June 2026.</li>
+      <li>amvgg: the full value list (pets and every other category), and its value-updates feed since 2 June 2026.</li>
       <li>Completed trades: amvgg.com/trades/completed, checked every 15 minutes.</li>
       <li>The two lists use different scales, so compare an item's value within one list.</li>
     </ul>
   </details>
-  <footer>Values from <a href="https://amvgg.com" rel="noopener">AMVGG</a> and <a href="https://elvebredd.com" rel="noopener">Elvebredd</a>; pictures from the official <a href="https://www.playadopt.me/discover" rel="noopener">Adopt Me wiki</a>. Not affiliated with Adopt Me, Uplift Games, AMVGG or Elvebredd.</footer>
+  <footer>Values from <a href="https://amvgg.com" rel="noopener">amvgg</a> and <a href="https://elvebredd.com" rel="noopener">Elvebredd</a>; pictures and item facts from <a href="https://www.playadopt.me/discover" rel="noopener">playadopt.me</a> (houses from amvgg). Not affiliated with Adopt Me, Uplift Games, amvgg or Elvebredd.</footer>
 </div>
 </div>
 
 <script>
 const RC = { common: "var(--common)", uncommon: "var(--uncommon)", rare: "var(--rare)", "ultra rare": "var(--ultra)", legendary: "var(--legendary)" };
-const SRC = { A: "AMVGG", E: "Elvebredd" }, COL = { A: "var(--amvgg)", E: "var(--elve)" };
+const SRC = { A: "amvgg", E: "Elvebredd" }, COL = { A: "var(--amvgg)", E: "var(--elve)" };
 const VAR = { r: "Normal", n: "Neon", m: "Mega" }, POT = { fr: "Fly Ride", f: "Fly", r: "Ride", np: "No Potion" };
 const PAGE = 100, DAY = 864e5;
 const $ = s => document.querySelector(s);
@@ -543,7 +555,7 @@ function change(it, s, days = 30, k = vkey(it)) {
 // why an item has no 30-day change, for the tooltip
 function noChangeWhy(it, s, k = vkey(it)) {
   if (!complete(it.hist[s][k], value(it, s, k))) return s === "A" && it.cat === "pets" && !k.endsWith("-fr")
-    ? "AMVGG only logs fly ride changes, so there is no change history for this variant."
+    ? "amvgg only logs fly ride changes, so there is no change history for this variant."
     : `${SRC[s]}'s change log for this variant doesn't end at today's value (some changes weren't logged), so the 30-day change is unknown.`;
   return `${SRC[s]}'s change log doesn't reach back 30 days yet.`;
 }
@@ -552,9 +564,9 @@ const REF_NAME = "Frost Dragon", REF_K = "r-fr";
 const refVal = s => { const r = BYNAME.get(REF_NAME); return r ? value(r, s, REF_K) : null; };
 const inRef = (v, s) => { const r = refVal(s); return v != null && r ? v / r : null; };
 const refTxt = x => { if (x == null) return ""; const n = x >= 10 ? Math.round(x) : +x.toPrecision(2); return `≈ ${n.toLocaleString()} Frost Dragon${n === 1 ? "" : "s"} (FR)`; };
-// AMVGG lists ride / fly / no-potion values for only a few pets; the rest are calculated from the fly ride value
+// amvgg lists ride / fly / no-potion values for only a few pets; the rest are calculated from the fly ride value
 const derived = (it, s, k = vkey(it)) => s === "A" && (it.Ad || []).includes(k);
-const DERIVED_TIP = "Calculated, not listed: AMVGG works this out from the fly ride value with its potion multipliers.";
+const DERIVED_TIP = "Calculated, not listed: amvgg works this out from the fly ride value with its potion multipliers.";
 const sources = () => S.src === "both" ? ["A", "E"] : [S.src];
 const demandOf = (it, k = vkey(it)) => (it.demand || {})[k];
 const matches = it => (S.cat === "all" || it.cat === S.cat) && (!S.q.trim() || it.name.toLowerCase().includes(S.q.trim().toLowerCase())) &&
@@ -775,7 +787,7 @@ function drawItem() {
           der ? h("span", { class: "der", title: DERIVED_TIP }, fmt(it[s][k])) : fmt(it[s][k]));
       })))),
     s === "A" && (it.Ad || []).length ? h("caption", { class: "note", style: "caption-side:bottom;text-align:left;padding-top:6px" },
-      "Dotted values are calculated by AMVGG from the fly ride value, not listed separately.") : null));
+      "Dotted values are calculated by amvgg from the fly ride value, not listed separately.") : null));
   const activity = h("section", { class: "section" }, h("h2", {}, "Trading activity"), h("p", { class: "empty" }, "Loading…"));
   const latest = h("section", { class: "section" });  // order: trading activity, value histories, then the latest trades
   const outlook = pet ? h("section", { class: "section" }) : null;
@@ -802,7 +814,7 @@ function drawItem() {
     rangeBar,
     ...charts.map(c => c[0]),
     latest,
-    h("p", { class: "note" }, "Drag across a chart to zoom in on those dates; double-click it to zoom back out. The two lists use different scales, so compare an item with other items on the same list. Elvebredd's log starts in September 2023 and AMVGG's in June 2026; a few variants were changed without being logged, so their chart is hidden."));
+    h("p", { class: "note" }, "Drag across a chart to zoom in on those dates; double-click it to zoom back out. The two lists use different scales, so compare an item with other items on the same list. Elvebredd's log starts in September 2023 and amvgg's in June 2026; a few variants were changed without being logged, so their chart is hidden."));
   drawRangeBar(rangeBar, redraw);
   charts.forEach(c => c[1]());
   drawActivity(activity, it, latest);
@@ -912,7 +924,7 @@ async function drawActivity(box, it, latestBox) {
   const sum = o => Object.values(o || {}).reduce((x, y) => x + y, 0);
   const vname = pet ? `${VAR[S.var].toLowerCase()} ${POT[S.pot].toLowerCase()}` : "";
   const tTot = sum(a.t), tVar = a.t[k] || 0;
-  const cards = [h("div", { class: "card" }, h("span", { class: "label" }, `Completed AMVGG trades, last ${ACT.days} days`),
+  const cards = [h("div", { class: "card" }, h("span", { class: "label" }, `Completed amvgg trades, last ${ACT.days} days`),
     h("span", { class: "big" }, tTot.toLocaleString()),
     h("span", { class: "sub" }, pet ? `${tVar.toLocaleString()} as ${vname}` : " ",
       ` · of ${ACT.trades.toLocaleString()} trades collected`))];
@@ -947,10 +959,10 @@ async function drawActivity(box, it, latestBox) {
   const recent = a.r.length ? h("div", { class: "card", style: "gap:0" },
     a.r.map(([t, x, y, w]) => h("div", { class: "rtrade" }, h("span", { class: "when" }, `${ago(t)} · ${t.replace("T", " ")} UTC`), worthLine(w),
       h("div", { class: "chips" }, x.map(nameChip)), h("div", { class: "arrow", "aria-hidden": "true" }, "⇄"), h("div", { class: "chips" }, y.map(nameChip)))))
-    : h("p", { class: "empty" }, `No completed AMVGG trades with this item in the last ${ACT.days} days.`);
+    : h("p", { class: "empty" }, `No completed amvgg trades with this item in the last ${ACT.days} days.`);
   latestBox.replaceChildren(h("h2", {}, "Latest trades"), recent);
   box.replaceChildren(h("h2", {}, "Trading activity"), h("div", { class: "acts" }, cards),
-    h("p", { class: "note" }, "Completed trades come from AMVGG's trade page, checked every few minutes; a busy hour can slip through. Offers are sampled from both sites' trade centres, so compare wanted against offered rather than the raw counts. Trader names are left out."));
+    h("p", { class: "note" }, "Completed trades come from amvgg's trade page, checked every few minutes; a busy hour can slip through. Offers are sampled from both sites' trade centres, so compare wanted against offered rather than the raw counts. Trader names are left out."));
 }
 
 // ---- charts (d3) ----
@@ -1017,7 +1029,7 @@ function historyChart(el, it, s, sumEl) {
     el.style.minHeight = "0";
     el.replaceChildren(h("p", { class: "empty" }, !Object.keys(it[s]).length ? `Not on the ${SRC[s]} list.`
       : hst?.length ? `The log for this variant stops on ${dateTxt(hst.at(-1)[0])} and doesn't match today's value, so there is no chart.`
-      : s === "A" && it.cat === "pets" && S.pot !== "fr" ? "AMVGG only logs fly ride value changes. The current value is shown above."
+      : s === "A" && it.cat === "pets" && S.pot !== "fr" ? "amvgg only logs fly ride value changes. The current value is shown above."
       : "No value changes recorded for this variant yet."));
     return;
   }
@@ -1086,8 +1098,8 @@ function historyChart(el, it, s, sumEl) {
   if (own) el.append(h("p", { class: "note", style: "margin-top:6px" },
     `From this site's own checks of the ${SRC[s]} list since ${dateTxt(hst[0][0])}: ` +
     (s === "E" ? (logged?.length ? "Elvebredd's change log stopped matching this variant's value." : "Elvebredd's change log doesn't record this variant.")
-      : k === "v" || k.endsWith("-fr") ? (logged?.length ? "AMVGG's change log stopped matching this value." : "AMVGG's change log (since June 2026) has no changes for it.")
-      : "AMVGG's change log only covers fly ride values.") +
+      : k === "v" || k.endsWith("-fr") ? (logged?.length ? "amvgg's change log stopped matching this value." : "amvgg's change log (since June 2026) has no changes for it.")
+      : "amvgg's change log only covers fly ride values.") +
     " It gets longer every day."));
 }
 
@@ -1100,9 +1112,9 @@ async function drawStats() {
   }
   const T = STATS.totals, n = v => (v ?? 0).toLocaleString(), day = s => s ? dateTxt(s + "T00:00") : "—";
   $("#kpis").replaceChildren(...[
-    ["Elvebredd value changes", T.elve_changes, `since ${day(T.elve_first)}`], ["AMVGG value changes", T.amvgg_changes, `since ${day(T.amvgg_first)}`],
-    ["AMVGG demand changes", T.amvgg_demand, `since ${day(T.amvgg_first)}`], ["Completed trades collected", T.trades, `since ${day(T.trades_first)}`],
-    ["Trades, last 24 hours", T.trades_24h, ""], ["Offers collected, last 24 hours", T.ads_24h, "AMVGG + Elvebredd trade centres"],
+    ["Elvebredd value changes", T.elve_changes, `since ${day(T.elve_first)}`], ["amvgg value changes", T.amvgg_changes, `since ${day(T.amvgg_first)}`],
+    ["amvgg demand changes", T.amvgg_demand, `since ${day(T.amvgg_first)}`], ["Completed trades collected", T.trades, `since ${day(T.trades_first)}`],
+    ["Trades, last 24 hours", T.trades_24h, ""], ["Offers collected, last 24 hours", T.ads_24h, "amvgg + Elvebredd trade centres"],
   ].map(([l, v, s]) => h("div", { class: "card" }, h("span", { class: "label" }, l), h("span", { class: "big" }, n(v)), h("span", { class: "sub" }, s || " "))));
   monthlyChart($("#monthly"));
   hourlyChart($("#hourly"));
@@ -1114,7 +1126,7 @@ async function drawStats() {
         cols.map(c => h("td", { class: c ? "num" : "" }, c ? n(r[c]) : r[0],
           c === barCol ? h("span", { class: "bar", style: `width:${Math.round(50 * r[c] / max)}px;background:var(--amvgg)` }) : null)))))];
   };
-  $("#busy").replaceChildren(...bars(STATS.busy_90d.map(([nm, e, a]) => [nm, e, a, e + a]), [0, 1, 2, 3], ["Item", "Elvebredd", "AMVGG", "Total"], 3));
+  $("#busy").replaceChildren(...bars(STATS.busy_90d.map(([nm, e, a]) => [nm, e, a, e + a]), [0, 1, 2, 3], ["Item", "Elvebredd", "amvgg", "Total"], 3));
   $("#traded").replaceChildren(...bars(STATS.traded_7d, [0, 1], ["Item", "Trades"], 1));
 }
 // ---- Stats tab: live track record of the daily 30-day forecast (forecast.json "record", track_record.py) ----
@@ -1137,18 +1149,18 @@ async function drawRecord() {
       `${R.horizon} days later they are checked against Elvebredd's actual value. These are real calls made before the outcome, ` +
       `unlike the test figures, which come from replaying the past.`)];
   const pct = x => x == null ? "–" : pctTxt(100 * x);
-  // live trial: the same model plus AMVGG's value moves, scored on the same days as the real one (build_site.py "trial")
+  // live trial: the same model plus amvgg's value moves, scored on the same days as the real one (build_site.py "trial")
   const T = blk(recH).trial, trial = !T || !T.amvgg.days_logged ? null : h("div", { class: "card", style: "margin-top:12px" },
-    h("span", { class: "label" }, "Trial: the same model plus AMVGG's value moves"),
+    h("span", { class: "label" }, "Trial: the same model plus amvgg's value moves"),
     !T.amvgg.days_scored
       ? h("span", { class: "sub" }, `${T.amvgg.days_logged} daily forecast${T.amvgg.days_logged === 1 ? "" : "s"} saved since ${d(T.amvgg.first)}; first results ${d(T.amvgg.next_result)}.`)
       : h("div", { class: "tablewrap" }, h("table", {},
         h("thead", {}, h("tr", {}, ["", "Up calls right", "Down calls right", "Top 20 change", "Days"].map((t, i) => h("th", { class: i ? "num" : "" }, t)))),
-        h("tbody", {}, [["Real forecast", T.real], ["With AMVGG", T.amvgg]].map(([n, X]) => h("tr", {}, h("td", {}, n),
+        h("tbody", {}, [["Real forecast", T.real], ["With amvgg", T.amvgg]].map(([n, X]) => h("tr", {}, h("td", {}, n),
           h("td", { class: "num" }, X.up_calls ? `${pc(X.up_rate)} (${X.up_hits}/${X.up_calls})` : "–"),
           h("td", { class: "num" }, X.down_calls ? `${pc(X.down_rate)} (${X.down_hits}/${X.down_calls})` : "–"),
           h("td", { class: "num" }, pct(X.top20)), h("td", { class: "num" }, X.days_scored)))))),
-    h("span", { class: "sub" }, "AMVGG's change log only starts in June 2026, too short to prove in a backtest, so this version runs live alongside " +
+    h("span", { class: "sub" }, "amvgg's change log only starts in June 2026, too short to prove in a backtest, so this version runs live alongside " +
       "the real one and isn't shown anywhere else. If it keeps doing better over a few months, it becomes the real forecast."));
   if (!R.days_scored) {
     box.replaceChildren(...head, h("div", { class: "acts" },
@@ -1186,7 +1198,7 @@ function monthlyChart(el) {
     .on("pointermove pointerdown", e => {
       const [px, py] = d3.pointer(e, el), p = pts[d3.leastIndex(pts, q => Math.abs(x(q.t) - px))];
       guide.attr("x1", x(p.t)).attr("x2", x(p.t)).attr("visibility", "visible");
-      show(px, py, [d3.utcFormat("%B %Y")(p.t), `Elvebredd: ${fmt(p.E)}`, `AMVGG: ${p.A == null ? "no log yet" : fmt(p.A)}`]);
+      show(px, py, [d3.utcFormat("%B %Y")(p.t), `Elvebredd: ${fmt(p.E)}`, `amvgg: ${p.A == null ? "no log yet" : fmt(p.A)}`]);
     })
     .on("pointerleave", () => { guide.attr("visibility", "hidden"); show(); });
 }
@@ -1228,7 +1240,7 @@ function drawCompare() {
       h("h2", {}, `Side ${"AB"[n]}`, list.length ? h("button", { class: "x", style: "font-size:13px", onclick: () => { S[sd] = ""; render(); } }, "Clear") : null),
       box,
       list.length ? h("div", { class: "tablewrap" }, h("table", {},
-        h("thead", {}, h("tr", {}, h("th", { class: "icocell" }), h("th", {}, "Item"), h("th", { class: "num" }, "AMVGG"), h("th", { class: "num" }, "Elvebredd"), h("th"))),
+        h("thead", {}, h("tr", {}, h("th", { class: "icocell" }), h("th", {}, "Item"), h("th", { class: "num" }, "amvgg"), h("th", { class: "num" }, "Elvebredd"), h("th"))),
         h("tbody", {}, rows, h("tr", { class: "tot" }, h("td"), h("td", {}, "Total"),
           tot.map(t => h("td", { class: "num" }, fmt(t.sum), t.miss ? h("div", { class: "dim", style: "text-transform:none;font-weight:400" }, `${t.miss} not listed`) : null)), h("td")))))
         : h("p", { class: "empty" }, "No items yet. Search above, or open an item and use “Add to side”."));
@@ -1271,7 +1283,7 @@ function cmpChart(el, all, s) {
   });
   if (!series.length) {
     el.style.minHeight = "0";
-    el.replaceChildren(h("p", { class: "empty" }, `No usable ${SRC[s]} history for these items and variants` + (s === "A" ? " (AMVGG only logs fly ride changes)." : ".")));
+    el.replaceChildren(h("p", { class: "empty" }, `No usable ${SRC[s]} history for these items and variants` + (s === "A" ? " (amvgg only logs fly ride changes)." : ".")));
     return;
   }
   el.style.minHeight = "";
@@ -1356,7 +1368,7 @@ function adList() {
   return xs.map(a => [a, adDeal(a)]).filter(([, x]) => x.d != null).map(([a, x]) => [a, by(x)]).sort((p, q) => q[1] - p[1]).map(x => x[0]);
 }
 const ago = t => { const m = Math.max(0, Math.round((Date.now() - ts(t)) / 6e4)); return m < 60 ? `${m} min ago` : m < 48 * 60 ? `${Math.round(m / 60)} h ago` : `${Math.round(m / 1440)} days ago`; };
-// AMVGG-style item tiles: the picture with its variant badges in the corner; repeats are grouped as "×3"
+// amvgg-style item tiles: the picture with its variant badges in the corner; repeats are grouped as "×3"
 function tiles(ids, q) {
   const groups = new Map();
   for (const i of ids) groups.set(i, (groups.get(i) || 0) + 1);
@@ -1396,7 +1408,7 @@ function adCard(ad) {
     deal,
     h("div", { class: "ag-when" }, h("span", { class: "ag-src " + src }, SRC[src]), h("span", { title: t.replace("T", " ") + " UTC" }, ago(t)),
       src === "A" && ad[4] ? h("a", { class: "ag-link", href: `https://amvgg.com/trade/${encodeURIComponent(ad[4])}`, target: "_blank", rel: "noopener",
-        title: "Open this offer on AMVGG (it may be gone if it was accepted or deleted)" }, "View on AMVGG ↗") : null));
+        title: "Open this offer on amvgg (it may be gone if it was accepted or deleted)" }, "View on amvgg ↗") : null));
 }
 async function drawAds(reset = true) {
   if (!ADS) {
@@ -1471,10 +1483,10 @@ async function drawWanted(reset = true) {
 
 // ---- page titles (header above every tab) ----
 const PAGES = {
-  list: ["Values", "AMVGG and Elvebredd values side by side, with every logged value change."],
+  list: ["Values", "amvgg and Elvebredd values side by side, with every logged value change."],
   updates: ["Value changes", "Every value change on both lists, newest first."],
   wanted: ["Most wanted", "What traders asked for most in the last 7 days, against what they offered."],
-  ads: ["Offers", "The newest trade offers from the AMVGG and Elvebredd trade centres."],
+  ads: ["Offers", "The newest trade offers from the amvgg and Elvebredd trade centres."],
   compare: ["Compare", "Price two sides of a trade on both lists."],
   journal: ["Journal", "Every pet and item: where it comes from, what it does, and how it trades."],
   stats: ["Stats & track record", "What has been collected, and how the forecasts are doing."],
@@ -1486,9 +1498,9 @@ let LEDE = null;
 let JR, jShown = 0, jList = [];
 const JCATS = [["pets", "Pets", "#f2a03d"], ["pet wear", "Pet Wear", "#8a55d6"], ["strollers", "Strollers", "#d03a74"],
   ["vehicles", "Vehicles", "#c4442f"], ["food", "Food", "#c9a800"], ["toys", "Toys", "#1d93cf"], ["gifts", "Gifts", "#4f9b34"],
-  ["stickers", "Stickers", "#e8618c"], ["eggs", "Eggs", "#3aa6a0"], ["other", "Potions & other", "#6b6862"]];
+  ["stickers", "Stickers", "#e8618c"], ["eggs", "Eggs", "#3aa6a0"], ["houses", "Houses", "#9c755f"], ["other", "Other", "#6b6862"]];
 const catName = c => (JCATS.find(x => x[0] === c) || [c, c ? c[0].toUpperCase() + c.slice(1) : ""])[1];
-// rank inside a category: Elvebredd value (normal fly ride for pets), else AMVGG's on Elvebredd's scale (~170x)
+// rank inside a category: Elvebredd value (normal fly ride for pets), else amvgg's on Elvebredd's scale (~170x)
 const worth = it => it.E["r-fr"] ?? it.E.v ?? ((it.A["r-fr"] ?? it.A.v ?? 0) * 170);
 function openEntry(it) { S.item = ""; S.tab = "journal"; S.jc = it.cat; S.j = slug(it.name); scrollTo(0, 0); render(); }
 const jcrumbs = (...parts) => h("nav", { class: "crumbs", "aria-label": "Journal" }, parts.flatMap((p, i) => [i ? h("span", { "aria-hidden": "true" }, "›") : null,
@@ -1517,8 +1529,8 @@ async function drawJournal() {
         h("div", { class: "jstack" }, [top[1], top[0], top[2]].filter(Boolean).map(i => h("img", { src: i.img, alt: "", referrerpolicy: "no-referrer", onerror: e => e.target.remove() }))),
         h("b", {}, label), h("span", { class: "sub" }, `${xs.length.toLocaleString()} ${xs.length === 1 ? "item" : "items"}`));
     })),
-    h("p", { class: "note" }, "Facts (where an item comes from, which egg it hatches from, whether it's still sold) come from the game's own item catalog " +
-      "and update notes. Values, history and trading come from this site's own collection of AMVGG and Elvebredd data."));
+    h("p", { class: "note" }, "Facts (where an item comes from, which egg it hatches from, whether it's still sold) come from the game's own item catalog on playadopt.me " +
+      "and update notes. Values, history and trading come from this site's own collection of amvgg and Elvebredd data."));
 }
 
 function drawJCat(box) {
@@ -1583,7 +1595,7 @@ async function drawEntry(box, it) {
     return out;
   };
   const dem = (it.demand || {})[k];
-  const market = h("div", { class: "acts" }, mk("E"), mk("A"), dem ? card("AMVGG demand", dem, kTxt) : null);
+  const market = h("div", { class: "acts" }, mk("E"), mk("A"), dem ? card("amvgg demand", dem, kTxt) : null);
   const trade = h("div", { class: "acts" });
   const siblings = (f.origin || it.origin) ? DATA.items.filter(i => i !== it && i.origin && i.origin === (f.origin || it.origin)).sort((a, b) => worth(b) - worth(a)) : [];
   const chip = i => h("span", { class: "chip click", role: "link", tabindex: 0, title: i.name, onclick: () => openEntry(i), onkeydown: e => e.key === "Enter" && openEntry(i) }, icon(i), i.name);
@@ -1610,9 +1622,9 @@ async function drawEntry(box, it) {
   const a = ACT.items[it.name] || { t: {}, o: {} }, sum = o => Object.values(o || {}).reduce((x, y) => x + y, 0);
   const side = s => { const o = (a.o || {})[s] || {}; return [sum(Object.values(o).map(x => x[1])), sum(Object.values(o).map(x => x[0]))]; };
   const [wA, oA] = side("A"), [wE, oE] = side("E");
-  trade.replaceChildren(card("Completed AMVGG trades", sum(a.t).toLocaleString(), `of ${ACT.trades.toLocaleString()} collected`),
-    card("Wanted in offers", (wA + wE).toLocaleString(), `AMVGG ${wA.toLocaleString()} · Elvebredd ${wE.toLocaleString()}`),
-    card("Offered in offers", (oA + oE).toLocaleString(), `AMVGG ${oA.toLocaleString()} · Elvebredd ${oE.toLocaleString()}`));
+  trade.replaceChildren(card("Completed amvgg trades", sum(a.t).toLocaleString(), `of ${ACT.trades.toLocaleString()} collected`),
+    card("Wanted in offers", (wA + wE).toLocaleString(), `amvgg ${wA.toLocaleString()} · Elvebredd ${wE.toLocaleString()}`),
+    card("Offered in offers", (oA + oE).toLocaleString(), `amvgg ${oA.toLocaleString()} · Elvebredd ${oE.toLocaleString()}`));
 }
 
 // ---- controls ----
@@ -1653,7 +1665,7 @@ fetch("data.json").then(r => r.json()).then(d => {
   for (const id of ["#cat", "#wc"]) $(id).append(h("option", { value: "all" }, "All categories"), ...cats.map(c => h("option", { value: c }, c[0].toUpperCase() + c.slice(1))));
   const nA = d.items.filter(i => Object.keys(i.A).length).length, nE = d.items.filter(i => Object.keys(i.E).length).length;
   const nH = d.items.reduce((n, i) => n + Object.values(i.hist.A).concat(Object.values(i.hist.E)).reduce((m, x) => m + x.length, 0), 0);
-  LEDE = ["Tracking ", h("b", {}, d.items.length.toLocaleString()), " items: ", h("b", {}, nA.toLocaleString()), " on AMVGG and ",
+  LEDE = ["Tracking ", h("b", {}, d.items.length.toLocaleString()), " items: ", h("b", {}, nA.toLocaleString()), " on amvgg and ",
     h("b", {}, nE.toLocaleString()), " on Elvebredd, with ", h("b", {}, nH.toLocaleString()), " logged values going back to September 2023."];
   $("#when").textContent = "Updated " + new Date(NOW).toLocaleString(undefined, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
   $("#sidefoot").textContent = "Values " + $("#when").textContent.toLowerCase();

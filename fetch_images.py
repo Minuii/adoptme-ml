@@ -1,4 +1,4 @@
-"""Official item catalog + thumbnails from the Adopt Me wiki (playadopt.me/discover).
+"""Official item catalog + thumbnails from playadopt.me (/discover, the game's own item pages).
 
     python fetch_images.py   # -> data/catalog.json, data/images/<category>/<kind>.png (skips files it already has)
 """

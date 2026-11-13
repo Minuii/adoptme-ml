@@ -3,6 +3,7 @@
     python build_site.py   # then open site/index.html through a local server: python -m http.server -d site
 """
 import gzip, json
+from urllib.parse import quote
 from pathlib import Path
 
 from scraper import DATA, amvgg_variants, elve_canonical, item_key as key, lines
@@ -16,7 +17,8 @@ GG_SNAP = {"r-fr": "regularValue", "n-fr": "neonValue", "m-fr": "megaValue",
            "r-np": "npRegularValue", "n-np": "npNeonValue", "m-np": "npMegaValue",
            "r-r": "rValue", "r-f": "fValue", "n-r": "nrValue", "n-f": "nfValue", "m-r": "mrValue", "m-f": "mfValue"}
 ELVE_LABEL = {"default": "r", "neon": "n", "mega": "m", "no potion": "np", "fly ride": "fr"}
-GG_KIND = {"petwear": "pet wear", "houses": "other"}  # AMVGG /values/<kind> -> Elvebredd's category names
+GG_KIND = {"petwear": "pet wear"}  # AMVGG /values/<kind> -> Elvebredd's category names ("houses" stays: its own category)
+CAT_FIX = {"mahi spinning rod": "toys"}  # Elvebredd files it under "other"
 
 
 def num(v):
@@ -66,6 +68,12 @@ for k, it in items.items():
         it["img"] = c.get("thumbnail") or it["img"]
         it["rarity"] = it["rarity"] or c.get("rarity", "").replace("_", " ").replace("-", " ")
         it["origin"] = c.get("origin", "")
+    # potions are food in the game (Elvebredd files them under "other"); the few other strays go where they belong
+    if it["cat"] == "other" and "potion" in k.split():
+        it["cat"] = "food"
+    it["cat"] = CAT_FIX.get(k, it["cat"])
+    if not it["img"] and it["A"]:  # houses and a few others: AMVGG's own picture (its /items/<name>.webp, apostrophes dropped)
+        it["img"] = "https://amvgg.com/items/" + quote(it["name"].replace("'", "").replace("’", "")) + ".webp"
     it["hist"] = {"E": {}, "A": {}}
 
 
