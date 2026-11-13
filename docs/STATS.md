@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 22:31 UTC by the scrape workflow._
+_Updated 2026-11-13 22:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-13 22:31 UTC by the scrape workflow._
 | amvgg | 3 | 44,122 | 2026-11-13T22:30 |
 | elve | 3 | 9,133 | 2026-11-13T22:31 |
 
-## AMVGG completed trades: 9,949 total
+## AMVGG completed trades: 9,970 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-13 | 4,116 |
+| 2026-11-13 | 4,137 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
 
@@ -28,21 +28,21 @@ _Updated 2026-11-13 22:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:30 | **0artOlover**: Cryptid (FR), Candicorn | **ii_ant4x20c**: Undead Jousting Horse (NFR), Ride-A-Pet Potion, Pet Handler Pro Certificate |
-| 22:30 | **Nastya356536**: Unicorn, Thunderfisher ×2 | **Spongebobgivingbirth**: Pupcicle |
-| 22:30 | **oliverelease**: Golden Chow-Chow | **DijaBint2**: Ride-A-Pet Potion |
-| 22:30 | **azeerchi**: Unicorn (MFR), Candy Hare (NR), Water Moon Bear (NR), Yeti | **ouDesertNeglect**: Turtle (FR) |
-| 22:30 | **raindrops3656**: Husky ×2 | **Mariavxbess**: Groundhog |
-| 22:30 | **lovingly_stars**: Strawberry Shortcake Bat Dragon (NFR) | **XxllT3ll3zLx**: Haetae (FR) |
-| 22:30 | **fwaiza**: Ride-A-Pet Potion ×11 | **XLIVER_P00L**: Copycat, Christmas Pudding Pup |
-| 22:30 | **Maryha0243**: Unicorn | **bakedkole**: Ride-A-Pet Potion |
-| 22:30 | **kaxuu_u**: Thunderfisher (N), Thunderfisher ×2, Purrowl ×2, Paint Sealer ×2 | **xXAshleys_HereXx**: Pupcicle |
-| 22:30 | **Mahdirn9**: Latte Kitsune (NR) | **Your_girly23**: Polar Bear (NFR) |
-| 22:30 | **AndresPatato**: Swordfish (M), Muskrat (M) | **lera5132**: Ride-A-Pet Potion |
-| 22:30 | **Katilka565**: Husky | **lera5132**: Ride-A-Pet Potion |
-| 22:30 | **Alana2K201**: Pupcicle (MFR), Lava Dragon (FR), Ride-A-Pet Potion, S'mores Raccoon | **InfinityLuckx**: Hot Doggo |
-| 22:30 | **Ruperto_1297**: Fly-A-Pet Potion ×3 | **popadastr000**: Pupcicle (N) |
-| 22:30 | **foundinhissoul7**: Princess Capuchin Monkey | **2nvkl**: Cherry Blossom Flower Sticker ×9, Cherry Blossom Tree Sticker ×9 |
+| 22:36 | **qaavin**: Copycat | **MyStarPets1**: Bald Eagle |
+| 22:36 | **qaavin**: Mermicorn (R) | **vanistillhere**: Lion (R), Zombie Buffalo, Puffin |
+| 22:36 | **alohaxwsammy**: Frost Dragon (FR), Lynx (NR) | **rhituaIls**: Munchkin Cat (MFR), Christmas Pudding Pup (MFR), Unicorn Horn, Snow Owl (M), Count Slothula (M) |
+| 22:36 | **FlyToTheSaturn**: Mermaid Mansion | **qaavin**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 22:36 | **atracttion**: Copycat (NR), Fairy Bat Dragon (FR), Ride-A-Pet Potion | **narasha34de**: Rainbow Maker, Blue Boohoo Mega Neon Paint |
+| 22:36 | **lovingly_stars**: Strawberry Shortcake Bat Dragon (NFR) | **XxllT3ll3zLx**: Haetae (FR) |
+| 22:36 | **Lasagnalover391**: Bee (NF) | **alanwallkerj11**: Pupcicle |
+| 22:36 | **aabeeyg**: Unicorn Horn | **wuwhikf21**: Spinning Cat Animated Sticker, Ride-A-Pet Potion, Mochi Meow Tumble Animated Sticker |
+| 22:36 | **YasmelyRD**: Cow (FR), Strawberry Penguin (R), T-Rex (NFR) | **seccheck200**: Dango Penguins (MFR) |
+| 22:36 | **Artloverpaintlover**: Goose (FR), Kitty Bat (F) | **Alana2K201**: Hot Doggo |
+| 22:36 | **lovkirby**: Toy Monkey ×4 | **bakedkole**: Ride-A-Pet Potion ×4 |
+| 22:36 | **LovelyGirl23033**: Panda (R) | **vorvara161**: Pupcicle |
+| 22:36 | **LovelyGirl23033**: Alien Eyes Hat, Ice Cream Heels | **Alyna20003**: Pupcicle |
+| 22:36 | **xSxaz00**: Turtle (FR), T-Rex (NFR), Cerberus (FR), Mighty Haetyphoon Animated Sticker | **Kiandra13kiandra**: Peppermint Penguin (FR) |
+| 22:36 | **marishka3832**: Unicorn | **yknqtt**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
