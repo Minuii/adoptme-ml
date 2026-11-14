@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 02:25 UTC by the scrape workflow._
+_Updated 2026-11-14 02:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 02:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 25,029 | 2026-11-14T02:15 |
-| elve | 4 | 5,369 | 2026-11-14T02:16 |
+| amvgg | 4 | 25,293 | 2026-11-14T02:30 |
+| elve | 4 | 5,442 | 2026-11-14T02:31 |
 
-## AMVGG completed trades: 10,712 total
+## AMVGG completed trades: 10,734 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 467 |
+| 2026-11-14 | 489 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 02:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:25 | **soyelmas_capito132**: Crocodile (R), 2D Kitty, Panda, Billy Goat, Musk Ox, Gecko, Ghost Wolf (N), Canadian Goose, Shadow Dragon Ducky | **EduardaVeilmont**: Elephant (R) |
-| 02:25 | **jiggle_wiggle132**: Ride-A-Pet Potion ×16, Fly-A-Pet Potion ×2 | **kiorama13**: Turtle (FR) |
-| 02:25 | **NastyaMillkk**: Turtle (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion ×3, Mochi Meow (N) ×3, Thunderfisher (N), Thunderfisher, Electric Hornet, Mochi Meow ×2 | **kiorama13**: Peppermint Penguin (FR) |
-| 02:25 | **EduardaVeilmont**: Crocodile (R) | **qwelxzz**: Shark Puppy (FR) |
-| 02:25 | **Est3lleluv**: Hare (NR), Brachiosaurus (NR), Red Fox (N) | **FroztedCook31**: Tortoiseshell Guinea Pig (R) |
-| 02:25 | **eulien_37**: Copycat (FR) | **ItzMackenzieLol910**: Pupcicle ×8 |
-| 02:25 | **Xz_CodeOLDriftdLBliz**: Pupcicle (MR) | **x30lyxkt**: Pupcicle ×16, Happy Duckling (MR) |
-| 02:25 | **IngoAlchemyPro**: Crystal Egg ×18 | **volt_chib1**: Ride-A-Pet Potion |
-| 02:25 | **kamaphernelia**: Haetyphoon (NFR), Shooting Star Board | **ZeroHASaberZAPrimal1**: Fairy Bat Dragon (NFR) |
-| 02:25 | **Gojos_butteryfoot**: Goose (NFR), Owlbear (MFR) | **KanskjeMatilde**: Balloon Unicorn (FR), Arctic Fox (FR), Ring-Tailed Lemur (R) |
-| 02:25 | **Flux_puck**: Winged Tiger (MFR) | **AaronsAltAcc223**: Giant Panda (FR), Fallow Deer (MFR) |
-| 02:25 | **azxpredxtorn**: Chocolate Dutch Guinea Pig (R), Chocolate Dutch Guinea Pig ×2 | **Xz_CodeOLDriftdLBliz**: Pupcicle ×4 |
-| 02:25 | **memes4ever3**: Mermicorn (FR), Diamond Hamster (N) | **Alinamalina519**: Copycat (NR) |
-| 02:25 | **addmymain62**: Gaelic Fae (MFR) | **Alexa183199**: SSBD Beanie |
-| 02:25 | **Alana_enna22**: Mexican Wolf, Marabou Stork, Kelp Raider, Halloween White Mummy Cat, Blossom Snake, Wyvern, Toxic Kaijunior, Peregrine Falcon ×2, Penguin | **itsvaleriaotz**: Ride-A-Pet Potion |
+| 02:30 | **Robloxiana_xxx2011**: Matcha Cat | **xxrobin3457**: Ride-A-Pet Potion ×4 |
+| 02:30 | **OMG4ZXLA**: Winged Tiger (MFR) | **Rbd_JP**: Latte Kitsune (MFR), Diamond King Penguin (MFR), Papa Moose (MFR) |
+| 02:30 | **ang3licbwnni**: Copycat (N) | **Xchuuya_soukokuX**: Tiny Wings, Sloth (MFR), Matcha Cat, Strawberry Penguin, Platypus (R) |
+| 02:30 | **Azure_Vision38**: Goose (R), Cabbit (FR), Fly-A-Pet Potion ×2 | **XxS0L4R_FL4RExX**: Arctic Reindeer (FR) |
+| 02:30 | **kokoroganao**: Irish Water Spaniel, Narwhal (MR) | **7ckyy**: Royal Palace Spaniel (MFR) |
+| 02:30 | **FlyToTheSaturn**: Discosplosion, Christmas Cat Rattle, Marsh Plush, Throwing Pumpkin, Octopus Plush, Skeleton Pogo Stick, Banana Pogo ×2, Turkey Plush, Cookie Dough Plush ×3, Heart Plushie, Heart Balloon, Dragon Balloon, Marsh Balloon, Ornament Throw Toy, Candle | **MartiAragonyt**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 02:30 | **Lovebunny_131**: Dodo (R) | **Cocoxmistyyt**: Pupcicle |
+| 02:30 | **syxnonym**: Flower Power Duckling ×2, Bear Hood, Candy Cane (Pet Wear), Strawberry Shortcake Bow | **xwifiskeletonxx**: Ride-A-Pet Potion ×2 |
+| 02:30 | **lildaminii**: Copycat (NFR) | **auroverze**: Copycat ×4, Ride-A-Pet Potion |
+| 02:30 | **123luna958**: Emberlight, Thunderfisher | **xwifiskeletonxx**: Ride-A-Pet Potion |
+| 02:30 | **Furry_lechuga**: Queen Bee, Pineapple Owl, King Bee (FR) | **girlbyegirl12**: Unicorn (NFR) |
+| 02:30 | **lildaminii**: Copycat (NFR) | **caticaaa**: Pupcicle ×18 |
+| 02:30 | **M00Nligth100**: Chihuahua | **ferr_kiwii**: Gemstone Egg |
+| 02:30 | **zxl0106**: Ride-A-Pet Potion ×6 | **jose2012el_Pro**: Copycat |
+| 02:30 | **Sakura_Chan2803**: Fly-A-Pet Potion ×2 | **Robloxiana_xxx2011**: Quetzalcoatl (MFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
