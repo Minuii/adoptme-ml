@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 08:55 UTC by the scrape workflow._
+_Updated 2026-11-14 09:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 08:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 31,368 | 2026-11-14T08:45 |
-| elve | 4 | 6,589 | 2026-11-14T08:45 |
+| amvgg | 4 | 31,642 | 2026-11-14T09:00 |
+| elve | 4 | 6,654 | 2026-11-14T09:01 |
 
-## AMVGG completed trades: 11,824 total
+## AMVGG completed trades: 11,855 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,579 |
+| 2026-11-14 | 1,610 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 08:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:55 | **luvyerh**: Kangaroo (FR), Water Opossum (M) | **diiv_iine**: Pig (FR), Arctic Fox (FR) |
-| 08:55 | **Ethernaces**: Fly-A-Pet Potion | **H3AV3NLY_s**: Pet Handler Pro Certificate |
-| 08:55 | **bobaa_m**: Candy Hare (NR), Lion Cub (R) | **azeerchi**: Border Collie |
-| 08:55 | **xSheLost**: Pupcicle (M), Fly-A-Pet Potion | **BYEnes99**: Frostbite Bear (FR) |
-| 08:55 | **shadowmillk_cookie19**: Flash Weasel | **xchansrighteyelashx**: Pupcicle ×15 |
-| 08:55 | **xdanasadm**: Candicorn, Velocirooster | **azeerchi**: Flash Weasel |
-| 08:55 | **Rint0ru**: Field Mouse, Latte Kitsune, Shrew, Ballet Swan | **azeerchi**: Bush Elephant |
-| 08:55 | **zerotocupiddragon**: Kangaroo (FR), Cupid Dragon (FR), Fly-A-Pet Potion, Eaten Donut, Unfortunate Eyelashes, White Chef Hat, Mochi Meow | **azeerchi**: Fairy Bat Dragon |
-| 08:55 | **sweetheart_belle9**: Ride-A-Pet Potion | **fatpigcorn5**: Pupcicle |
-| 08:55 | **wx8zqxx**: Sugar Glider (FR) | **hmmhh8**: Sheeeeep (NR), Red Dutch Guinea Pig |
-| 08:55 | **qpeozj**: Pig (FR), Crocodile (R) | **Abu_doesspeedrun**: Werewolf (FR) |
-| 08:55 | **snezzhook**: Fly-A-Pet Potion | **H3AV3NLY_s**: Ride-A-Pet Potion ×2 |
-| 08:55 | **IIzmemories**: Arctic Fox (MFR), Unicorn Horn, Snow Monkey (MFR) | **Honeycomb12212**: Albino Monkey (MFR) |
-| 08:55 | **odading12318**: Candyfloss Chick (R) | **Dasha122456777**: Ride-A-Pet Potion ×17 |
-| 08:55 | **Diamond161012**: Strawberry Shortcake Bat Dragon (R), Aurora Fox, Arctic Fox (R), Ride-A-Pet Potion | **Kakarata2101**: Dalmatian (R) |
+| 09:00 | **wi0qwi**: Tuxedo Cat | **sofar46**: Pupcicle |
+| 09:00 | **Unicorn_Julia2505**: Ice Cream Cone Hat, Scarebear | **adoremaddie_x**: Copycat |
+| 09:00 | **relativeevidence**: Spring Bunny Feet, Roadrunner | **xAngeL_Drawz**: Pet Handler Pro Certificate |
+| 09:00 | **egg_eggy1234**: Turtle (FR), Pupcicle ×4 | **lkmsdfw**: Fairy Bat Dragon (FR) |
+| 09:00 | **lxnxlyXfrxvxr**: Orca, Grinmoire, Gumball Caterpillar, Water Moon Bear (R), DJ Snooze, Sneak Weasel ×3, Snow Puma ×3, Mouse (N), Ms. Muffet (N) ×2, Rubber Ducky ×2 | **Laktozik1**: Ride-A-Pet Potion |
+| 09:00 | **Xxxxashhhh**: Pet Handler Pro Certificate ×4 | **odading12318**: Vampire Dragon (R) |
+| 09:00 | **yanaramadhan**: Sea Slug (MFR), Ice Cream Cone Hat | **shortyeden**: Cupid Dragon (MFR), Rose Dragon (MFR) |
+| 09:00 | **Yumi_Rose8**: Pet Handler Pro Certificate | **xyna68**: Dango Penguins |
+| 09:00 | **Theonly_Naomi89**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **1nikaroctik**: Sakura Spirit (R) |
+| 09:00 | **xyna68**: Goat (MFR) | **roblox_user_8676283275**: 2022 Birthday Party Hat, 2022 Birthday Cake ×2, Rain Cloud Hat, Toaster Hat, 2022 Birthday Party Horn, Fly-A-Pet Potion |
+| 09:00 | **LoriDreamy123**: Goose (R), Goose ×2, Ride-A-Pet Potion ×3 | **WRCD_15GG**: Cow (FR) ×3 |
+| 09:00 | **ALEX_SEG400**: Cattuccino (N) | **flowerist0w04577**: Paint Sealer ×6 |
+| 09:00 | **S1LVER_1ight**: Strawberry Shortcake Bat Dragon (NFR) | **amolanutellaxdxd**: Copycat (MFR) |
+| 09:00 | **kauwixz**: Beluga Whale (M) | **adoptmelover12345183**: Ride-A-Pet Potion |
+| 09:00 | **Kine76**: Goose (FR), Jester Dragon (FR) | **ARON00808**: Frostbite Bear (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
