@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 15:01 UTC by the scrape workflow._
+_Updated 2026-11-14 15:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 15:01 UTC by the scrape workflow._
 | amvgg | 4 | 37,854 | 2026-11-14T15:00 |
 | elve | 4 | 8,115 | 2026-11-14T15:01 |
 
-## AMVGG completed trades: 13,453 total
+## AMVGG completed trades: 13,508 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,208 |
+| 2026-11-14 | 3,263 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:00 | **rasediva**: Pet Handler Pro Certificate | **choco_nutella05**: Mochi Meow (M) |
-| 15:00 | **jijicraft_005**: Jester Dragon (FR) ×2, Jester Dragon (R) ×2, Jester Dragon ×5 | **LeaNavarro98**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:00 | **Angela019291**: Giraffe (FR), Flaming Fox (MFR), German Shepherd (MFR), Border Collie, Munchkin Cat (FR), Pig (NFR), Blue Dog, Pink Cat (FR), Toaster Hat, Ice Cream Cone Hat ×2, Sugar Glider (R), Shark Puppy (FR) | **wx8zqxx**: Shadow Dragon (FR) |
-| 15:00 | **liza8498**: Tiny Wings | **Babimian1**: Toaster Hat |
-| 15:00 | **LeaNavarro98**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Aurora Fox (N) | **bubbleaxolot**: Jester Dragon (MFR) |
-| 15:00 | **Sasuke_Uchiha4th**: Arctic Reindeer (FR), Elephant (FR), Siamese Cat (R) | **Angelbatista_me2**: Evil Unicorn (FR) |
-| 15:00 | **sufferingtogether**: Thunderfisher | **Xiarra_lovieesss**: Ginger Cat |
-| 15:00 | **fiasmail**: Mini Pig (R), Kitty Bat (M), Unicorn Horn, Ride-A-Pet Potion ×4, Snowman (NR) | **vynllama**: Dalmatian (FR) |
-| 15:00 | **lavy_13L**: Majestic Pony (MFR), Yeti | **cutezxnat**: Cabbit (FR), Pretty Pony (MFR) |
-| 15:00 | **NummieNummiegirl**: Hare (MR), Elephant (FR) | **fluffyunicorns_932**: Turtle (R) ×2, Turtle (FR) |
-| 15:00 | **wolimim_1**: Ride-A-Pet Potion | **yasmin_2012o**: Onza (M) |
-| 15:00 | **mariasnezinka**: Candicorn, Hare (NR), Ride-A-Pet Potion, Pet Handler Pro Certificate, Capricorn (R), Endangered Egg | **sweetandpoetic**: Cow (FR) |
-| 15:00 | **amthatxox**: Cabbit, Amami Rabbit (MFR) | **kisauuw**: Crocodile (NFR) |
-| 15:00 | **whiplashtempo0**: Hedgehog (FR), Dalmatian (FR), Arctic Reindeer (FR), Goat | **Nastymiopi**: Farm Egg, Jungle Egg ×2, Aussie Egg |
-| 15:00 | **Joannescholar122**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (NFR), Ride-A-Pet Potion | **laila53749**: Evil Unicorn (FR) |
+| 15:10 | **gabdoptme**: Chocolate Dutch Guinea Pig | **wanilim123**: Gingerbread Reindeer (N) |
+| 15:10 | **M00Nligth100**: Ride-A-Pet Potion | **pisapopakakashecki**: Crab ×2, Spider Crab, Capuchin Monkey ×2, Wildfire Hawk |
+| 15:10 | **johnpatricktasunci16**: Count Slothula ×18 | **Yiju0225**: Candicorn |
+| 15:10 | **bunniscs**: Polar Bear (MFR) | **jacksbandalt8**: Tree Kangaroo (MFR) |
+| 15:10 | **943049209d**: Kangaroo (R), Water Opossum (MR), Ride-A-Pet Potion, Fly-A-Pet Potion | **mambysx**: Unicorn (MFR), Frost Fury (FR), Australian Kelpie (NFR) |
+| 15:10 | **egoklled**: Kitty Biscuit ×7 | **tokiplayz_omila**: Mule (N) |
+| 15:10 | **princessalipotski**: Copycat, Matcha Cat (R), Chocolate Dutch Guinea Pig, Cattuccino (N), Pandaguin Glooptodog (N), Frog (NR), Ride-A-Pet Potion, Pupcake | **tokiplayz_omila**: French Bulldog (M) |
+| 15:10 | **birdbo00**: Copycat, Fly-A-Pet Potion | **DragonjJDusta107130**: Copycat (FR) |
+| 15:10 | **INISIAL_BFA**: Kangaroo (FR) ×3, Silly Duck, Turkey (R), Wyvern (NFR) | **jebiilerium**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:10 | **Ainsleywu**: Frostbite Bear | **wanderrrrer**: Siamese Cat (R) |
+| 15:10 | **lildaminii**: Copycat | **mihIaah**: Pupcicle ×6 |
+| 15:10 | **mor_2346**: Black Macaque (MFR), Dodo (FR) | **ViKity435**: Kangaroo (FR) |
+| 15:10 | **Manga11998**: Rice Cake Rabbit, Moon Rabbit | **Redpyid**: Ride-A-Pet Potion |
+| 15:10 | **SmallestMascot**: Evil Unicorn (MFR) | **Ali3021167**: Owl (NFR), Crow (FR) |
+| 15:10 | **Roma_1234q**: Peppermint Penguin (MFR), Camel | **Leichisme3**: Aurora Fox (MFR), Shark Puppy (MFR), Groundhog (MFR), Hot Doggo (FR), Peppermint Penguin (FR), Ice Cream Cone Hat |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
