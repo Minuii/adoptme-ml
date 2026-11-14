@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 07:10 UTC by the scrape workflow._
+_Updated 2026-11-14 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 07:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 29,576 | 2026-11-14T07:00 |
-| elve | 4 | 6,225 | 2026-11-14T07:01 |
+| amvgg | 4 | 29,832 | 2026-11-14T07:15 |
+| elve | 4 | 6,297 | 2026-11-14T07:16 |
 
-## AMVGG completed trades: 11,470 total
+## AMVGG completed trades: 11,481 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,225 |
+| 2026-11-14 | 1,236 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 07:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:15 | **copyvoting**: Flash Weasel (N), Flash Weasel, Munchkin Cat (R) | **FaZeTysonF**: Evil Unicorn (FR) |
+| 07:15 | **uh_Rojo**: Giraffe (FR), Werewolf | **copyvoting**: Giraffe |
+| 07:15 | **gh4ghufi8**: Frost Dragon (FR), Pancake Stack | **meb_kompop**: Parrot (FR), Kangaroo (MFR), Turtle (FR) |
+| 07:15 | **Flux_puck**: Hot Doggo (FR) | **CandyBear373**: Sakura Spirit (NFR) |
+| 07:15 | **Mr_fluffy720**: Pupcicle ×6 | **daria7581659**: Kitty Bat (MR) |
+| 07:15 | **BeMines_Baby6**: Glormy Leo (NFR), Fly-A-Pet Potion ×2, Ice Cube (N) ×4, Icy Porcupine (R), Bakeneko (M) | **mambysx**: Pupcicle ×16 |
+| 07:15 | **guillemoran**: Owl (FR), Frost Dragon (FR) | **Flux_puck**: Undead Jousting Horse (MFR) |
+| 07:15 | **iamnoonetobehere**: Turtle (FR) | **Vaxcled**: Fly-A-Pet Potion ×12 |
+| 07:15 | **foovva**: Turtle (FR) | **sarahang3la**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 |
+| 07:15 | **oaracetamol87678**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 | **foovva**: Turtle (FR) |
+| 07:15 | **freshtem0**: Lion Cub (FR), Cactus Friend (R) | **vamp1ia**: Cupid Dragon (FR) |
 | 07:10 | **ykoismim**: Leopard Shark (MFR) | **xXL0TTY**: Malaysian Tapir (MR), Quokka (MR), Chihuahua (MFR), Shih Tzu (M), Angus Calf (M), Snowman (MR), Black-Footed Ferret (M), Little Lamb (M) |
 | 07:10 | **Notmyaccount2803**: Glacier Moth | **Xxxxashhhh**: Fly-A-Pet Potion ×2 |
 | 07:10 | **AUTOINPUT**: Cow (FR), Kangaroo (FR), Boohoo (M), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pet Handler Pro Certificate | **feliandfio**: Strawberry Shortcake Bat Dragon (FR) |
 | 07:10 | **Taysha_cool**: Pupcicle ×2, Pupcicle (N) | **El1ies_shenanxgans**: Copycat |
-| 07:10 | **PossiblyBilled369**: Cow (NFR), Dancing Dragon (NFR), Pupcicle (M), Copycat, Strawberry Tortle, Flash Weasel | **KinaToons**: Balloon Unicorn (FR) |
-| 07:10 | **odading12318**: Chocolate Chip Bat Dragon (NFR) | **Sac_Girl**: Mini Pig (FR), Siamese Cat (R), Flamingo (FR), Kangaroo (R), Elephant (FR), Lion (R), Arctic Dusk Dragon (FR), Shrew (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 07:10 | **bell_flowers**: Alley Cat (NR) | **RiordanFan19**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion |
-| 07:10 | **Catixx77**: Fly-A-Pet Potion ×3 | **odading12318**: Christmas Pudding Pup |
-| 07:10 | **Princess_Kourtney900**: Jellyfish (FR) | **re_eee0**: Shark Puppy, Ride-A-Pet Potion |
-| 07:10 | **mistfulmemorie**: Pupcicle | **poiui5510**: Ride-A-Pet Potion |
-| 07:10 | **Lerkooo_111**: Elephant (NFR), Goose (FR), Flamingo (FR), Elephant (R), Flamingo (R), Candyfloss Chick (R), Munchkin Cat (R) ×2, Pig (FR), Jellyfish (R), Ice Cream Cone Hat, Pink Betta Fish (M), Copycat, Glacier Kitsune (R) ×3, Peppermint Penguin (FR), Jester Dragon | **leruval**: Frost Dragon (FR) |
-| 07:10 | **charla_monki**: Ride-A-Pet Potion | **Itz_CoffeeMochi**: Halloween White Mummy Cat (N) ×2 |
-| 07:10 | **alessgamer25**: Cabbit (NFR) | **Gaming_Mhm**: Ballet Swan (MFR) |
-| 07:10 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Snow Cat (M) | **laylaangel1309**: Fly-A-Pet Potion |
-| 07:10 | **limohq**: Spring Bunny Hood | **Shqmpraises**: Ride-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
