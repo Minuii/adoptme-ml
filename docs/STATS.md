@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 20:45 UTC by the scrape workflow._
+_Updated 2026-11-14 20:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 20:45 UTC by the scrape workflow._
 | amvgg | 4 | 43,959 | 2026-11-14T20:45 |
 | elve | 4 | 9,510 | 2026-11-14T20:45 |
 
-## AMVGG completed trades: 15,315 total
+## AMVGG completed trades: 15,357 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,070 |
+| 2026-11-14 | 5,112 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 20:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:40 | **x3Snuggle_Bunnyx3**: Count Slothula ×4, Irish Elk ×2 | **RubyAliceBoo**: Pupcicle ×4 |
-| 20:40 | **v1l0xxx**: Great Pyrenees, Magic House Door | **themudwizard**: Ride-A-Pet Potion |
-| 20:40 | **hayleydoescheer**: Ride-A-Pet Potion | **Brooklyn_Ohio**: Capybara |
-| 20:40 | **Yumi_Rose8**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **xXElizabethPrecious**: Halloween White Ghost Dragon (FR) |
-| 20:40 | **KittyC6t21**: Balloon Unicorn (FR), Aurora Fox (MFR) | **ARCA_DIUM**: Cryptid (NFR) |
-| 20:40 | **tiotagrysha**: Munchkin Cat (FR), Pig (R), Royal Corgi (FR) | **wery123416**: Pig (NR), Bready Necklace |
-| 20:40 | **AprilMaeJune0**: Jester Dragon (NFR) | **Your_girly23**: Pupcicle (MFR) |
-| 20:40 | **chip40060**: Picnic Basket | **lilliab1997**: Pine Marten (R) |
-| 20:40 | **Dustin_Steve14**: Cryptid, Cerberus (NFR), Border Collie (FR) | **terrylonsoyjerry**: Candicorn (MFR) |
-| 20:40 | **Adoptmestocks3000**: Flamingo (R) | **Soso4ka004**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion |
-| 20:40 | **apples_oopp1**: Dalmatian (FR), Copycat | **itz_grigoriy**: Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Hat |
-| 20:40 | **natesctrl**: Owl (MFR), Mermicorn (MFR), Border Collie (MFR) ×2, Sakura Spirit (MFR), Cupid Dragon (MFR), Shrew (MFR), Shark Puppy (MFR), Ring-Tailed Lemur (MFR), Candicorn (NR), Bat Dragon (NFR), Jellyfish (MFR), Cryptid (FR), Parrot (NFR), Fairy Bat Dragon (NFR), Sakura Spirit (R), Fairy Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **kiostockers**: Bat Dragon (MFR) |
-| 20:40 | **mirosxjsna**: King Bee (R) | **XXITS_BLUEXX0YT**: Super Saru |
-| 20:40 | **shainikss**: Turtle (FR), Elephant, Arctic Fox (R), Pig, Lion Cub, Hare (FR), Ride-A-Pet Potion ×2, Boohoo (M), Purrowl (N) | **mommy_vka123**: Arctic Reindeer (FR) |
-| 20:40 | **Nel_13415**: Glacier Kitsune (R) | **XXITS_BLUEXX0YT**: Matcha Cat (R) |
+| 20:55 | **crisfarug**: Frostbite Bear (FR), Fly-A-Pet Potion, Dango Penguins, Ride-A-Pet Potion | **Gay5242**: Turtle (FR), Copycat |
+| 20:55 | **qlltm**: Diamond Butterfly (MFR), 2022 Birthday Cake ×2, Angel Wings ×2, Rain Cloud Hat, Toaster Hat, Spring Bunny Hood ×2, Cryptid (NFR), Cabbit (FR), Goose (R), German Shepherd (MR), Hare (NR), Ice Cream Hermit Crab (NFR), Dragonfruit Fox (N), Gecko (MR) | **strqwb3rriies**: Frost Dragon (NFR), Crow (R), Dalmatian (MFR) |
+| 20:50 | **hello545246797**: Swan | **fidgetetsarecool**: Moose Calf |
+| 20:50 | **soft_fax**: Mighty Haetyphoon Animated Sticker, Fly-A-Pet Potion, Ride-A-Pet Potion | **Valzynxx**: Arctic Dusk Dragon |
+| 20:50 | **bbrokex**: Ride-A-Pet Potion ×17 | **Enxisl**: Kangaroo (FR) |
+| 20:50 | **v3xxyyy**: Hare ×3, Spring Bunny Hood | **kaibodydump**: Hare (N) |
+| 20:50 | **lil2fad3d**: Pupcicle | **Melissa_5433354**: Ride-A-Pet Potion |
+| 20:50 | **Hauntenuit**: Pupcicle (N) | **nsf772**: Velocirooster |
+| 20:50 | **Frog_Cuteyx**: Sheeeeep (N) | **keissitojf**: Flamingo (FR), Fly-A-Pet Potion |
+| 20:50 | **ViperOfTheUnderworld**: Cow (MFR) | **mama77515**: Cow (NFR), Majestic Pony (MFR), Dalmatian (FR) |
+| 20:50 | **simbalove310**: Jester Dragon | **anjhienicole00**: Unicorn (NFR) |
+| 20:50 | **ll_90dfhj**: Dodo | **Ribocoo12**: Sushi Penguin |
+| 20:50 | **lola_bear1995**: Shark Puppy | **LulusiaKoza123**: Ride-A-Pet Potion ×10 |
+| 20:50 | **fluffyunicorns_932**: Orange Butterfly (MFR), Chef Gorilla (MFR), Pretty Pony (MFR) | **ssundylan**: Blue Dog (NFR), Snowball Pet (MFR) |
+| 20:50 | **Artem_21a2**: Pupcicle ×2 | **flopy231985**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
