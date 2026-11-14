@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 22:16 UTC by the scrape workflow._
+_Updated 2026-11-14 22:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 22:16 UTC by the scrape workflow._
 | amvgg | 4 | 45,504 | 2026-11-14T22:15 |
 | elve | 4 | 9,839 | 2026-11-14T22:16 |
 
-## AMVGG completed trades: 15,732 total
+## AMVGG completed trades: 15,787 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,487 |
+| 2026-11-14 | 5,542 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 22:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:10 | **TOASTER_17362**: Chihuahua ×2 | **Chignug17**: Ride-A-Pet Potion |
-| 22:10 | **Veraca2900**: Ride-A-Pet Potion ×15 | **upergameoman23**: Kangaroo (R) |
-| 22:10 | **zzzz79022**: Chihuahua (MR), Kitty Bat (M) | **Bia_salgadin**: Alpaca (FR) |
-| 22:10 | **RobloxIsLif3z**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Clounifesob**: Red Dutch Guinea Pig |
-| 22:10 | **rami092x**: Puffer Fish (NFR), Turkey (FR) | **M1cahsWRLD**: Frost Fury (R), Dragonfruit Fox (R) |
-| 22:10 | **kittyvxii**: Cabbit (FR) | **speddsongswwa**: Haetyphoon (FR), Ice Cream Cone Hat |
-| 22:10 | **blindforIove**: Bat Dragon ×2 | **Flux_puck**: African Wild Dog (MFR) |
-| 22:10 | **Abaddon_Kisser666**: Cabbit (NFR) | **iiSimplyxSkyexx**: Dalmatian (FR) |
-| 22:10 | **yeetimaheadout7**: Toaster Hat, 2022 Birthday Party Horn, Fly-A-Pet Potion, Ride-A-Pet Potion | **Jahazi_Roblox**: Siamese Cat (FR), Spring Bunny Hood |
-| 22:10 | **2ooTac**: Cryptid (FR) | **iTz_Naanci**: Hedgehog (FR), Royal Mistletroll (FR) |
-| 22:10 | **hii_itsari3**: Giant Panda (NFR), 2022 Birthday Party Horn, Ride-A-Pet Potion ×2 | **MistletoeMeg**: Haetae (FR), African Wild Dog, Giant Panda, Rainbow Maker, 2022 Birthday Cake, Angel Wings, Siamese Cat (NR) |
-| 22:10 | **Aslie_17**: Fly-A-Pet Potion ×2 | **Vicyna0**: Ride-A-Pet Potion ×4 |
-| 22:10 | **Jasmine_officially1**: Pancake Stack, Cheesecake Hat | **santi57974**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 22:10 | **summerdounut123**: Ankylosaurus (M), Australian Kelpie (MR), Clover Cow (MR), Ride-A-Pet Potion | **hihellohihello6788**: Robo Dog (MFR) |
-| 22:10 | **VikeShow7**: Dodo (MFR) | **zeejnaa**: Turtle (FR) |
+| 22:25 | **cinnamorollkuromi35**: Puppeteer Hand, Retired Egg ×11 | **itz_BATMAN0957**: Sakura Scythe |
+| 22:25 | **Sealeoxs**: Irish Water Spaniel (MFR), Ring-Tailed Lemur | **FlushedEgg**: Jellyfish (MFR) |
+| 22:25 | **abdoosaad**: Owlbear (R), Fly-A-Pet Potion | **Alinkareee11**: Purrowl (M), Raccoon (N), Pupcake (N), Feesh (N) |
+| 22:25 | **amnadastuven**: Royal Desert Egg, Pupcicle ×4, Wyvern (FR), Elasmosaurus, Quetzalcoatl, Blossom Snake, Nebula Snake | **12emanuel07**: Jester Dragon |
+| 22:25 | **phisho7is**: Ride-A-Pet Potion ×3 | **likadbsv1**: Latte Kitsune (R) |
+| 22:25 | **mxccrvxr**: Strawberry Penguin (MFR), Giant Gold Scarab (MFR), Hare (MFR), Pineapple Owl (MFR), Golden Chow-Chow (MFR) | **blindforIove**: Emperor Gorilla (MFR) ×2 |
+| 22:25 | **jose2012el_Pro**: Lion (FR) | **urfav_mexican110**: Border Collie (FR) |
+| 22:25 | **XelloX12345**: Pupcicle ×3 | **l4ylur**: Dragonfruit Fox (R) |
+| 22:25 | **vrslztx0**: Pupcicle | **Kakashi_121245**: Crystal Egg ×18 |
+| 22:25 | **Laryxn00**: Bready Necklace, White Chef Hat, Chihuahua, Mummy Spider (N) | **auixiss**: Pet Handler Pro Certificate |
+| 22:25 | **Klaysi_flayra**: Golden Unicorn, Stray Cat Dragon, Villain Gibbon, Mexican Wolf (N), Japan Egg, Endangered Egg, Fairytale Egg ×5, Choco Penguin, Fire Foal, Firefighter Gibbon | **Dash35813**: Ride-A-Pet Potion |
+| 22:25 | **1Biahsz_altx**: Pet Handler Pro Certificate | **YY0ZU**: Ride-A-Pet Potion ×2 |
+| 22:25 | **dragotahate**: Ride-A-Pet Potion | **GatitoCuki_28**: Phoenix |
+| 22:25 | **arturo7pose12345**: Ride-A-Pet Potion | **helisabet_fabi20**: River Otter (M) |
+| 22:25 | **pwowkiq**: Skelicorn (N), Skelicorn ×12, Ride-A-Pet Potion, Pupcicle, Chihuahua, Roadrunner | **VanillaChxry**: Spring Bunny Hood |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
