@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 22:31 UTC by the scrape workflow._
+_Updated 2026-11-14 22:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 22:31 UTC by the scrape workflow._
 | amvgg | 4 | 45,740 | 2026-11-14T22:30 |
 | elve | 4 | 9,892 | 2026-11-14T22:31 |
 
-## AMVGG completed trades: 15,805 total
+## AMVGG completed trades: 15,833 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,560 |
+| 2026-11-14 | 5,588 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 22:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:30 | **elys_qn**: Ice Cube (M) | **Taygansocute114**: Pet Handler Pro Certificate |
-| 22:30 | **elijiobro771**: Pupcicle ×4, Fly-A-Pet Potion, Pet Handler Pro Certificate ×3, Irish Setter (M) | **baconandchicken007**: Tiny Wings |
-| 22:30 | **stargxldani**: Candicorn (MFR), Spring Bunny Hood ×2 | **mz4ya**: Siamese Cat (MFR) |
-| 22:30 | **dimon221221332**: Fly-A-Pet Potion | **rinconbrandon2012**: Pupcake (N) |
-| 22:30 | **TheDreamOn**: Tuxedo Cat (MFR) | **guiderno1234**: Werewolf (FR) |
-| 22:30 | **Alekey_Zar**: Mechapup (FR), Chocolate Chip Bat Dragon Backpack, Back Taco | **nfrhectirchis**: Emperor Gorilla (FR) |
-| 22:30 | **Xxstrxwbxrry_lxttexX**: Fly-A-Pet Potion | **namcymacdonie**: Ghost Dog ×2 |
-| 22:30 | **LalayS2z**: Munchkin Cat (R) | **warriorLiss**: Ride-A-Pet Potion ×9, Bobageist |
-| 22:30 | **LightningCheetah2451**: Burger Boots, Flying Fairy, Chick | **OMGITSMACKENZIE6**: Ride-A-Pet Potion |
-| 22:30 | **Flutterieshyy**: Pig (NFR), Lion (NFR), Majestic Pony (NFR) | **lol115783**: Cow (NFR) |
-| 22:30 | **lulu_lolka**: Shark Puppy (R), Banana Hat | **Pepe1212964**: Hare (NFR) |
-| 22:30 | **FeRicebear**: Hedgehog (NFR), Ride-A-Pet Potion | **imreaIIIypretty**: Crow (FR), Arctic Reindeer (FR), Chicken (MFR), Cerberus (MFR) |
-| 22:30 | **Est3lleluv**: Mini Pig (MFR), Chihuahua (M), Chocolate Dutch Guinea Pig (N) ×2 | **1dayto100dayrich09**: Haetae (NFR) |
-| 22:30 | **eeliasxcx**: Ride-A-Pet Potion ×2 | **1dayto100dayrich09**: Mummy Spider (M) ×4 |
-| 22:30 | **Its_Nanamio**: Arctic Fox (R) | **BestAnGeLPop**: Copycat (FR) |
+| 22:40 | **savhrtlocket**: Shrew (NR) | **MizkuAlwaysClears74**: Ram (NR), Sheeeeep (FR), Pig (FR), Dragonfruit Fox |
+| 22:40 | **ponyelgamer**: Modern Mansion | **Dash35813**: Ride-A-Pet Potion |
+| 22:40 | **love_sry0**: Cabbit (R) | **rotpargamer**: Werewolf (R), Ride-A-Pet Potion ×7 |
+| 22:40 | **LalayS2z**: Candyfloss Chick (R) | **ttrawis**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×2 |
+| 22:40 | **Elissa232323**: Mochi Meow (M) | **109kblessings**: Sea Turtle (M) |
+| 22:40 | **7070julia0707**: Latte Kitsune (NR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **SYAS12056iop**: Kangaroo (FR) |
+| 22:40 | **Cinzsins**: Aurora Fox (MFR), Ice Cream Cone Hat | **cuutiesvvgift**: Candicorn (MFR) |
+| 22:40 | **fideosconatunnom**: Pupcicle (N), Chef Hat | **Itsme_rose4799**: Chihuahua (MFR) |
+| 22:40 | **shainikss**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×4 | **llkkiop12345**: Turtle (FR) |
+| 22:40 | **Epic777378**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **C0PHYAK**: Turtle (NFR) ×2, Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 22:40 | **welovesleep16**: Candyfloss Mega Neon Paint, Rose Quartz Glow Mega Neon Paint, Amethyst Skies Mega Neon Paint | **P8D3L**: Fly-A-Pet Potion |
+| 22:40 | **tabanhhghsbsjd**: Snow Monkey (NR), Octopus (NR), Alley Cat (R), Albino Bat (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **laxwyxl**: Turtle (FR) |
+| 22:40 | **ABOBYC12238**: Platypus | **Lux0u**: Hare |
+| 22:40 | **razarvale2z**: Pain au Chat ×3 | **fansderoblox09**: Pupcicle |
+| 22:40 | **fallawwi**: Classic Teapot (M), Bobageist (N), Red Panda (N), Orangutan (N), Japanese Snow Fairy (N), Jacobin Pigeon (N), Cat (N), Ribbon Seal (N), Bunny (N) | **akatsiiii**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
