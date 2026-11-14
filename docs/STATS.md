@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 09:01 UTC by the scrape workflow._
+_Updated 2026-11-14 09:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 09:01 UTC by the scrape workflow._
 | amvgg | 4 | 31,642 | 2026-11-14T09:00 |
 | elve | 4 | 6,654 | 2026-11-14T09:01 |
 
-## AMVGG completed trades: 11,855 total
+## AMVGG completed trades: 11,881 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,610 |
+| 2026-11-14 | 1,636 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 09:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:00 | **wi0qwi**: Tuxedo Cat | **sofar46**: Pupcicle |
-| 09:00 | **Unicorn_Julia2505**: Ice Cream Cone Hat, Scarebear | **adoremaddie_x**: Copycat |
-| 09:00 | **relativeevidence**: Spring Bunny Feet, Roadrunner | **xAngeL_Drawz**: Pet Handler Pro Certificate |
-| 09:00 | **egg_eggy1234**: Turtle (FR), Pupcicle ×4 | **lkmsdfw**: Fairy Bat Dragon (FR) |
-| 09:00 | **lxnxlyXfrxvxr**: Orca, Grinmoire, Gumball Caterpillar, Water Moon Bear (R), DJ Snooze, Sneak Weasel ×3, Snow Puma ×3, Mouse (N), Ms. Muffet (N) ×2, Rubber Ducky ×2 | **Laktozik1**: Ride-A-Pet Potion |
-| 09:00 | **Xxxxashhhh**: Pet Handler Pro Certificate ×4 | **odading12318**: Vampire Dragon (R) |
-| 09:00 | **yanaramadhan**: Sea Slug (MFR), Ice Cream Cone Hat | **shortyeden**: Cupid Dragon (MFR), Rose Dragon (MFR) |
-| 09:00 | **Yumi_Rose8**: Pet Handler Pro Certificate | **xyna68**: Dango Penguins |
-| 09:00 | **Theonly_Naomi89**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **1nikaroctik**: Sakura Spirit (R) |
-| 09:00 | **xyna68**: Goat (MFR) | **roblox_user_8676283275**: 2022 Birthday Party Hat, 2022 Birthday Cake ×2, Rain Cloud Hat, Toaster Hat, 2022 Birthday Party Horn, Fly-A-Pet Potion |
-| 09:00 | **LoriDreamy123**: Goose (R), Goose ×2, Ride-A-Pet Potion ×3 | **WRCD_15GG**: Cow (FR) ×3 |
-| 09:00 | **ALEX_SEG400**: Cattuccino (N) | **flowerist0w04577**: Paint Sealer ×6 |
-| 09:00 | **S1LVER_1ight**: Strawberry Shortcake Bat Dragon (NFR) | **amolanutellaxdxd**: Copycat (MFR) |
-| 09:00 | **kauwixz**: Beluga Whale (M) | **adoptmelover12345183**: Ride-A-Pet Potion |
-| 09:00 | **Kine76**: Goose (FR), Jester Dragon (FR) | **ARON00808**: Frostbite Bear (FR) |
+| 09:11 | **hwamise**: Halloween Slime Mega Neon Paint, Lunar Moon Bear | **pegasus23234**: Candyfloss Mega Neon Paint |
+| 09:11 | **rhubararian**: Owl (NFR), Evil Unicorn, Evil Unicorn (R), Fairy Bat Dragon (NFR), Goose (FR), Albino Monkey (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion, Ride-A-Pet Potion | **hoschakaI**: Bat Dragon (FR) |
+| 09:11 | **baratskiii**: Turtle (FR) | **Ez50**: Frost Fury (FR), King Bee (NFR), Frost Phoenix (FR), Spring Bunny Hood, Propeller Hat, Pancake Stack, Ride-A-Pet Potion |
+| 09:11 | **SpriingDior**: Ring-Tailed Lemur (N) | **amvggalt1**: Moose Calf (NFR) |
+| 09:11 | **odading12318**: Kangaroo (R) | **carlovalencia08**: Ride-A-Pet Potion ×15 |
+| 09:11 | **ruryrhsxgryuf**: Bee (NFR) | **xilawn2023**: Ride-A-Pet Potion |
+| 09:11 | **hello135903**: Husky (MFR) | **jiheonlover417**: SSBD Beanie |
+| 09:11 | **Qu33nDQCrimsonO19932**: Jester Dragon (FR) | **Niruch_Bearly**: Ride-A-Pet Potion ×7 |
+| 09:11 | **hong12342**: Pupcicle | **MAZE_RUNNERNEWT24**: Ride-A-Pet Potion |
+| 09:11 | **iaintgettinghacked_0**: Great Pyrenees, Tarsier, Eggnog Dog, Mr. Whiskerpips ×3, St Bernard, Clownfish, Toy Poodle ×2 | **mariee20_03**: Pet Handler Pro Certificate |
+| 09:11 | **iq0twix**: Kitty Bat (MFR), Munchkin Cat (R), Munchkin Cat (FR), Munchkin Cat, Candicorn, Frost Fury (R), Pretty Pony (NR), Unicorn (NFR), Kitty Bat (N), Stitches (N) ×2, Hyena, Jacobin Pigeon (M), Stray Cat Dragon (N), Fly-A-Pet Potion, Ride-A-Pet Potion | **LoriDreamy123**: Fairy Bat Dragon (NFR) |
+| 09:11 | **enadalhade**: Munchkin Cat (MFR), Mermicorn (NFR), Candicorn (R) | **iiSimplyxSkyexx**: Owl (FR) |
+| 09:11 | **AMELIESFABXO**: Cryptid, Spring Bunny Nose, Spring Bunny Feet | **ilyzea05**: Munchkin Cat (MFR) |
+| 09:11 | **Sentikaza_pikachu**: Giant Panda (R) | **Jay_basealters**: Siamese Cat (MFR), Cute-A-Cabra (MFR) |
+| 09:11 | **Panda39643**: Ride-A-Pet Potion ×8 | **BudakBaran7**: Munchkin Cat |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
