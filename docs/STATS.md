@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 12:01 UTC by the scrape workflow._
+_Updated 2026-11-14 12:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 12:01 UTC by the scrape workflow._
 | amvgg | 4 | 34,767 | 2026-11-14T12:00 |
 | elve | 4 | 7,355 | 2026-11-14T12:01 |
 
-## AMVGG completed trades: 12,529 total
+## AMVGG completed trades: 12,550 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,284 |
+| 2026-11-14 | 2,305 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:00 | **ALTAMERANO10**: Copycat (M), Dango Penguins, Ride-A-Pet Potion | **Princenezha23**: Blazing Lion (FR) |
-| 12:00 | **Gravityy_2**: Indian Flying Fox (MFR), Goldfish (MR), Bauble Buddies (MFR), St Bernard (M) | **Dxy_121**: Catte (MFR), Cattuccino (MFR) |
-| 12:00 | **ItzAina_JPN**: Ice Cream Cone Hat | **Ja_QuaviousThompson**: Copycat |
-| 12:00 | **mochaberryss**: Ride-A-Pet Potion ×3, Fallow Deer (R) | **leeeww47**: Christmas Pudding Pup |
-| 12:00 | **Its_marmeladka0003**: Pinkypillar (M), Jacobin Pigeon (M), Huntsman Robin | **leeeww47**: Ride-A-Pet Potion |
-| 12:00 | **proplayer110408**: Owl (FR), Dog (FR) | **Eddensss**: Grim Dragon (MFR) |
-| 12:00 | **TheMissLady_y**: Jekyll Hydra (FR), Copycat (R), Ride-A-Pet Potion ×2 | **purple_girlX09**: Strawberry Tortle (FR), Shark Puppy (R) |
-| 12:00 | **sashanne30**: Unicorn Horn ×2 | **Elf_Deme**: 2022 Birthday Party Hat, 2022 Birthday Party Horn |
-| 12:00 | **kvnzziee**: Alpaca (MFR), Mini Pig (R), Peppermint Penguin, Siamese Cat (NFR), Frostbite Bear (R), Christmas Pudding Pup (N), Unicorn Horn ×2, Mini Pig | **Loomie_uwu**: Giant Panda (NFR) |
-| 12:00 | **ratonsita12309**: Fairy Bat Dragon | **wsxzzq0**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 |
-| 12:00 | **pisapopakakashecki**: Grinmoire (N), Swordfish (N), Rubber Ducky (N) ×3, Zebra (N) ×3, Tegu (N) ×2, Ocelot (N), Clumpty (N), Wolpertinger (N), Otter (N), Cat (N), Ant (N) | **ArtemSer2008**: Ride-A-Pet Potion |
-| 12:00 | **RownanHT26**: Cryptid (FR) | **foureverkitty**: Evil Unicorn (FR) |
-| 12:00 | **LoriDreamy123**: Cow (FR) ×6, Cow ×2 | **WaguriMywaifu1**: Frost Dragon (FR) |
-| 12:00 | **odading12318**: Kangaroo (FR) | **Oliver20717**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×2 |
-| 12:00 | **snezzhook**: Fly-A-Pet Potion | **dashka_52676**: Ride-A-Pet Potion ×2 |
+| 12:10 | **Kvammletitraketa**: Cow, Volcanic Rhino (NR) | **KiraChalaya**: Pig (FR), Turtle (FR), Fly-A-Pet Potion |
+| 12:10 | **Katya_1922**: Turtle (FR), Chihuahua (MFR) | **m4tt_skatez**: Goose (FR) |
+| 12:10 | **Mx1shu**: Tiny Wings ×3 | **sleepy_s0ren**: Angel Wings |
+| 12:10 | **wuishdwqkjsh**: Snow Cat (M), Pinkypillar (M), Mouse (N) | **Chiki_cou**: Pupcicle |
+| 12:10 | **ange1rbxxx_3**: Wolpertinger, Frogspawn, Warthog, Tanuki, Turtle Doves, Tarsier, Scarecrow Horse, Oryx | **guten_14**: Ride-A-Pet Potion |
+| 12:10 | **Its_marmeladka0003**: Red Squirrel (R), Sabertooth (R) | **Chiki_cou**: Pupcicle |
+| 12:10 | **riskyactss**: Munchkin Cat, Sheeeeep (R), Emperor Gorilla, Lion Cub | **ulianixx79**: Aurora Fox (NFR) |
+| 12:10 | **ayiiishapot_2010**: Maine Coon (MFR), Clownfish (M), Cozy Mistletroll (M), Bready Necklace, Orange Betta Fish (M) | **wery123416**: Frostbite Cub (MFR) |
+| 12:10 | **caxarberdok**: Fly-A-Pet Potion ×3 | **help0sara**: Tortuga de la Isla (R) |
+| 12:10 | **elsikko2**: Halo | **Mary_kitty27052009**: Jekyll Hydra (FR) |
+| 12:10 | **NNuWiIxxX_14**: Mochi Meow ×2, Golden Unicorn, Rubber Ducky (N), Black Tiger (N), Galapagos Sea Lion (N), Crystal Egg, Red Panda, Starfish | **Giyou_Tomoko**: Caramelgeist (M) |
+| 12:10 | **PhoenixForever09**: Evil Unicorn (FR), Cow | **nfrmikey1**: Frostbite Bear (NFR), Frostbite Bear ×2 |
+| 12:10 | **ottxotoxoxtotx**: Candicorn (FR) | **fluses_sss**: Crocodile (FR), Fallow Deer, Ride-A-Pet Potion |
+| 12:10 | **ruryrhsxgryuf**: Ride-A-Pet Potion ×2 | **aster1Cloud**: Fly-A-Pet Potion |
+| 12:06 | **LoriDreamy123**: Ride-A-Pet Potion ×4, Alpaca (R) | **Lvpix**: Border Collie (FR), Tiny Wings |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
