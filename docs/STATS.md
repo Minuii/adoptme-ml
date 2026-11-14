@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 09:25 UTC by the scrape workflow._
+_Updated 2026-11-14 09:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 09:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 31,928 | 2026-11-14T09:15 |
-| elve | 4 | 6,723 | 2026-11-14T09:16 |
+| amvgg | 4 | 32,201 | 2026-11-14T09:30 |
+| elve | 4 | 6,798 | 2026-11-14T09:31 |
 
-## AMVGG completed trades: 11,916 total
+## AMVGG completed trades: 11,921 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,671 |
+| 2026-11-14 | 1,676 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,11 @@ _Updated 2026-11-14 09:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:30 | **pisapopakakashecki**: Fly-A-Pet Potion, Diamond Dragon, Dark Choccybunny | **wowohaha17**: Ride-A-Pet Potion ×2 |
+| 09:30 | **lollucio251**: Frosty Glow Mega Neon Paint, Halloween Slime Mega Neon Paint, Tropical Surge Mega Neon Paint, Rose Quartz Glow Mega Neon Paint | **llkkiop12345**: Fly-A-Pet Potion |
+| 09:30 | **itsmeRa3lyn**: Munchkin Cat (M) | **shadowxxx14jl**: Cryptid (FR) |
+| 09:30 | **ohinam**: Pet Handler Pro Certificate ×8, Ride-A-Pet Potion | **Niruch_Bearly**: Kangaroo (FR) |
+| 09:30 | **Gxft_ofDestruction**: Pupcicle | **SuperIndo_123**: Ride-A-Pet Potion |
 | 09:25 | **Svdanurrr**: Frost Dragon (FR), Goose (R) | **adoptmetradeacc7**: Mermicorn (MFR) |
 | 09:25 | **tomateamelie**: Ride-A-Pet Potion | **KaiSaboAceCC**: Tuxedo Cat, Chihuahua |
 | 09:25 | **Ez50**: Tiny Wings, Ice Cream Cone Hat, Copycat (R) | **ItzAina_JPN**: Turtle (FR) |
@@ -39,11 +44,6 @@ _Updated 2026-11-14 09:25 UTC by the scrape workflow._
 | 09:25 | **1zhindibek5**: Strawberry Shortcake Bat Dragon (FR), Frostbite Bear (FR) ×2 | **qkrbed**: Cryptid (FR) |
 | 09:25 | **Sq77k**: Pet Handler Pro Certificate | **MacarronCheese**: Fly-A-Pet Potion |
 | 09:25 | **mertvayaaq**: Spring Bunny Hood, Alley Cat (FR) | **twojstarydzikitygrys**: Christmas Pudding Pup (FR) |
-| 09:25 | **Xxxxashhhh**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion | **odading12318**: Copycat ×2, Copycat (FR) |
-| 09:25 | **fishymiss_y**: Knitted Pumpkin Hat, Security Spotlight, Pink Hightops, Flying Fairy, Pink Butterfly Wings, Burger Bun Hat, Chick Backpack, Cheesecake Hat | **werlianess**: Ride-A-Pet Potion |
-| 09:25 | **tspmoinc**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat (NFR), Mini Pig (R), Orange Butterfly (MFR), Crocodile (FR), Polar Bear (R), Fly-A-Pet Potion ×3 | **Ksnooq**: Parrot (FR) |
-| 09:25 | **pmpjmg1**: Lion Cub, Sheeeeep (R) | **riskyactss**: Seabed Creeper (M) |
-| 09:25 | **luvyerh**: Dalmatian (FR) | **AppleAndMel0n**: Cow (FR) ×2, Fly-A-Pet Potion ×3, Pet Handler Pro Certificate, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
