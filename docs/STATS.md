@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 15:55 UTC by the scrape workflow._
+_Updated 2026-11-14 16:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 15:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 38,640 | 2026-11-14T15:45 |
-| elve | 4 | 8,315 | 2026-11-14T15:45 |
+| amvgg | 4 | 38,884 | 2026-11-14T16:00 |
+| elve | 4 | 8,383 | 2026-11-14T16:01 |
 
-## AMVGG completed trades: 13,752 total
+## AMVGG completed trades: 13,765 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,507 |
+| 2026-11-14 | 3,520 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 15:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 16:00 | **ETtheTongan**: Kangaroo (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pupcicle | **Yumi_Rose8**: Turtle (FR) |
+| 16:00 | **9vvdx**: Binturong (MFR) | **pugq33n23**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×5 |
+| 16:00 | **HaruWylson_official**: German Shepherd (MR) | **envyycatt**: Owlbear (NFR) |
+| 16:00 | **Cloudyxxvibezzz545**: Mecha Meow (MFR), Fly-A-Pet Potion | **xqz6776**: Kiwi Kiwi (MFR) |
+| 16:00 | **adorable_rhian**: Pet Handler Pro Certificate | **p001torich**: Classic Trade Stand ×5 |
+| 16:00 | **KazzuhaaAzz**: Royal Mistletroll (MFR), Ballet Swan (MFR), Monkey King (FR) | **terrylonsoyjerry**: Pelican (MFR) |
+| 16:00 | **adorable_rhian**: Hummingbird ×3 | **grijfe8r**: Cherry Blossom Flower Sticker ×18 |
+| 16:00 | **shainikss**: Brown Bear (NFR), Pig (R) | **Cutewaeilae**: Turtle (FR) |
+| 16:00 | **Tyeis_XX**: Butter Knife, Cat Backpack | **MISSTAFI**: Ride-A-Pet Potion |
+| 16:00 | **Belen7267**: Catte (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **thyrrone1**: Turtle (FR) |
+| 16:00 | **AsianIceCold**: Kangaroo (NFR), Unicorn (NFR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Pupcake | **Vitek_228666**: Turtle (NFR) |
+| 16:00 | **ylyzacanete**: Water Rabbit | **hashi_081**: Pupcicle |
+| 16:00 | **CKaiser5689**: Flaming Fox | **luvxpel**: Snow Monkey |
 | 15:55 | **LPPlay42302**: Jester Dragon (MFR), Cow (FR), Kangaroo (FR), Ride-A-Pet Potion | **No1Yuusha**: Parrot (FR) |
 | 15:55 | **distraughthoughts**: Dire Wolf (MFR), Partridge (N), Emberlight | **officialChillOtt3r22**: Jester Dragon |
-| 15:55 | **mimikjuice7**: Candicorn | **setA134562**: Jester Dragon, Ring-Tailed Lemur, Ghost (MR), Fly-A-Pet Potion ×2 |
-| 15:55 | **Owdlep**: Shiba Inu ×4, Retired Egg ×2 | **Katie_proshkaa**: Shiba Inu (N) |
-| 15:55 | **vxmploser**: Caelum Cervi (NFR) | **gorevqx**: Sheeeeep (NFR) |
-| 15:55 | **shainikss**: Winter Deer Family Sticker, Electric Hornet, Bubblegeist, Thunderfisher ×3, Puppeteer Hand | **CBNHKA14**: Ride-A-Pet Potion |
-| 15:55 | **missAnahit**: Mini Pig Sticker ×2, Gold Mahi Mahi | **Bow_WR**: Fairy Bat Dragon Sticker |
-| 15:55 | **fygramvgg**: Burger Bear (MFR), Slime (M), Chocolate Dutch Guinea Pig (M), Lion Cub (MFR), Yeti (MFR) | **sp4rklepinkcupcake**: Cow (MFR) |
-| 15:55 | **AMELIESFABXO**: Red Squirrel (MFR), Flower Power Duckling (MFR), Tuxedo Cat (MFR), Tiny Wings | **J3LLY4H0LDer**: Pineapple Owl (MFR) |
-| 15:55 | **larisochka_gudeeva98**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **Vitek_228666**: Turtle (FR) |
-| 15:55 | **SashaaXD0**: Kangaroo (R), Ride-A-Pet Potion ×6 | **Vitek_228666**: Turtle (FR) |
-| 15:55 | **Jay_basealters**: Matcha Cat, Orchid Butterfly (NFR) | **SunBaezzi**: Giraffe (FR) |
-| 15:55 | **Vitek_228666**: Turtle (NFR) | **litlsicub**: Fairy Bat Dragon (FR), Crocodile (FR), Ride-A-Pet Potion ×4 |
-| 15:55 | **1nxsii**: Chocolate Chip Bat Dragon (R) | **iimarai3**: Goose (FR), Siamese Cat (FR), Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 15:55 | **Lem0n_org**: Rain Cloud Hat, Fly-A-Pet Potion, Ride-A-Pet Potion | **ADOPTME_tr4dingAlt**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
