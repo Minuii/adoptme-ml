@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 16:45 UTC by the scrape workflow._
+_Updated 2026-11-14 16:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 16:45 UTC by the scrape workflow._
 | amvgg | 4 | 39,678 | 2026-11-14T16:45 |
 | elve | 4 | 8,544 | 2026-11-14T16:45 |
 
-## AMVGG completed trades: 13,994 total
+## AMVGG completed trades: 14,059 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,749 |
+| 2026-11-14 | 3,814 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 16:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:45 | **Johnkurt0628**: Australian Kelpie (MFR), Seahorse (MFR), Dilophosaurus (MFR), Monkey (MFR), Crab (MFR), Lunar Ox (MFR), Dolphin (MFR), Wyvern (MFR) | **Chickengigi6**: Kangaroo (NFR) |
-| 16:45 | **Onangkomang**: Paint Sealer ×2 | **schwesterix**: Retired Egg ×10 |
-| 16:45 | **Manga11998**: Hopbop (M) | **LumDayy**: Ride-A-Pet Potion |
-| 16:45 | **Onangkomang**: Paint Sealer ×7 | **Aeralika**: Alicorn (R) |
-| 16:45 | **Ashvr_s0ul9**: Arctic Fox, Horse | **EduardaVeilmont**: Glormy Hound (NR) |
-| 16:45 | **minilina_01**: Pig (FR), Arctic Fox (FR), Red Dutch Guinea Pig (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Mini Schnauzer | **Ksenka866**: Cabbit (FR) |
-| 16:45 | **caaoo0817_diary**: Owl (FR), Bush Elephant (FR) | **christoqherrr**: Evil Unicorn (N) |
-| 16:45 | **0qeans**: Prismatic Butterfly (MFR), Scorching Kaijunior (MFR), S'mores Raccoon (MFR), 2022 Birthday Party Horn | **ItsNickk310**: Jester Dragon (MFR) |
-| 16:45 | **vilmm2adopt**: Ms. Muffet (N), Thunderfisher, Orca, Frozen Penguin, Seahorse | **KittycornIvy01**: Onza |
-| 16:45 | **fluses_sss**: Turtle (FR), Peppermint Penguin (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **laila53749**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:45 | **Princenezha23**: Evil Unicorn (FR) | **galaxie_sister6**: Candicorn (NFR), Goose (FR), Pupcicle (M) |
-| 16:45 | **YsawolfMisty**: Admin Abuse Egg ×18 | **karasikshop_20028**: Ride-A-Pet Potion |
-| 16:45 | **Princenezha23**: Crocodile (NFR), Grim Dragon (FR), Cow (FR) | **laila53749**: Evil Unicorn (FR) |
-| 16:45 | **gorevqx**: Fairy Bat Dragon (FR), Great Pyrenees (MFR) | **impsycho1234im**: Majestic Pony (MFR) |
-| 16:45 | **Veraca2900**: Ride-A-Pet Potion | **b4bym0nst3r_b4by**: Boohoo (M) |
+| 16:55 | **Scar_3090**: Ride-A-Pet Potion ×2 | **nastysa14888**: Alien Eyes Hat, Rain Hat, White Chef Hat |
+| 16:55 | **MYB505**: Glormy Leo (MR), Black Moon Bear (MR) | **Ashvr_s0ul9**: Polar Bear (MFR), Reindeer (MFR) |
+| 16:55 | **Kisa_Mika8**: Turtle (FR), Sakura Spirit (FR), Ride-A-Pet Potion | **isabella68078**: Cow (FR) |
+| 16:55 | **HabaundSamira13**: Ride-A-Pet Potion | **Kisa_Mika8**: White Designer Backpack |
+| 16:55 | **JeongwooOnlyMine**: Abyssinian Cat (M) | **SerenaWGF_ita1**: Pudding Cat |
+| 16:55 | **Cherry_25053**: Tiny Wings | **luhv_kvrr**: Munchkin Cat |
+| 16:55 | **Jariannydaisyunicorn**: Momma Moose (MFR) | **iammm2pro_3**: Ibex (MFR) |
+| 16:55 | **Vitek_228666**: Unicorn (NFR) | **Hajdjncn**: Ride-A-Pet Potion ×4 |
+| 16:55 | **KsuKrizB6**: Blue Ringed Octopus, Chihuahua | **abbyissocool_lol**: Ride-A-Pet Potion |
+| 16:55 | **SoloGhost442149**: Fly-A-Pet Potion | **xMateoX2009XproX**: Cheetah |
+| 16:55 | **Ez50**: Turtle (FR) ×6, Fairy Bat Dragon (FR), Fairy Bat Dragon (R) | **ad0pttrading**: Owl (FR) |
+| 16:55 | **caycay_3800**: Candicorn (MFR) ×2 | **GL0SSY4XIS**: Frost Dragon (FR) |
+| 16:55 | **dbfl0425**: Munchkin Cat | **Thesheeeeesh_god**: Pig (R) |
+| 16:55 | **ClxudsandRxin**: Ballet Swan (NFR), 2022 Birthday Confetti Cannon | **AquatanaOf_Amyr**: Bat Dragon Cuddle Animated Sticker |
+| 16:55 | **mimiol400**: Turtle (FR), Elephant | **JennaTV1**: Mini Pig (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
