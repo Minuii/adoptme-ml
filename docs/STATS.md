@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 17:16 UTC by the scrape workflow._
+_Updated 2026-11-14 17:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 17:16 UTC by the scrape workflow._
 | amvgg | 4 | 40,221 | 2026-11-14T17:15 |
 | elve | 4 | 8,678 | 2026-11-14T17:16 |
 
-## AMVGG completed trades: 14,195 total
+## AMVGG completed trades: 14,239 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,950 |
+| 2026-11-14 | 3,994 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 17:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:15 | **purge0285**: Jester Dragon (FR), Kitty Bat (N), Leopard Cat (NR), Chocolate Dutch Guinea Pig (R), Spinosaurus (R) | **l0v3_k1raa4**: Flash Weasel |
-| 17:15 | **Henjii78**: Purrowl (N) ×2, Mr. Whiskerpips (N) | **hugsformy_sisfinjaa**: Purrowl (M) |
-| 17:15 | **pretty_siblings**: Candicorn (R), Chocolate Dutch Guinea Pig, Popsicle Stroller | **archie_290**: Bush Elephant (FR) |
-| 17:15 | **H4ppy_147**: Mistletroll (N), Purrowl | **Youare_soooperf3ct**: Retired Egg ×18 |
-| 17:15 | **berrys_kittys**: Shrew (MFR) | **aisksiakamxmxdm**: French Bulldog (MFR), Werewolf, Mermicorn, Unicorn Horn, Cherub Chipmunk (MFR), Pancake Stack ×2, Ride-A-Pet Potion |
-| 17:15 | **Traii237**: Paint Sealer ×3 | **aliyah_v2**: Gumball Caterpillar (N) |
-| 17:15 | **cinammoroll_bun**: Unicorn Horn | **Yukimoan**: Black Panther (MFR) |
-| 17:15 | **NekoZero4**: Stray Cat Dragon | **bazychko**: Retired Egg ×18 |
-| 17:15 | **ZuzaOnlyMy**: Sugar Glider (FR), Glacier Kitsune (FR) | **xGracie_1234x**: Cow (FR) |
-| 17:15 | **yReehxz**: Ice Cream Hermit Crab | **Elianatrustedd**: Ride-A-Pet Potion ×2 |
-| 17:15 | **s0larzxxxx**: Ram ×2 | **Chanceyiloveyou**: Pupcicle ×2 |
-| 17:15 | **Dessertsandfoods**: Copycat (NFR) | **AsianIceCold**: Fairy Bat Dragon (FR) |
-| 17:15 | **no_name12345654321**: Pain au Chat (MFR), Ice Cream Cone Hat, Pancake Stack, Ghostly Cat (M) | **Millesmile3**: Fairy Bat Dragon (FR) |
-| 17:15 | **no_name12345654321**: Pain au Chat (MFR), Ice Cream Cone Hat, 2022 Birthday Party Horn | **Millesmile3**: Fairy Bat Dragon (FR), Ride-A-Pet Potion |
-| 17:15 | **giraffe3815**: Strawberry Shortcake Bat Dragon (NFR), Candyfloss Chick (FR) | **dloxasteq2**: Chocolate Chip Bat Dragon (NFR) |
+| 17:25 | **lyyxemq**: Hare (MFR) ×2 | **lolghwy3**: Munchkin Cat (MFR) |
+| 17:25 | **onyx11414**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Fly-A-Pet Potion ×2 | **princesz_sof1e**: Toaster Hat, 2022 Birthday Cake, Ride-A-Pet Potion ×7 |
+| 17:25 | **p_awth**: Pupcake ×6 | **Chiki_cou**: Ride-A-Pet Potion ×3 |
+| 17:25 | **kariisshha**: Rainbow Stroller, Bunny Ear Tiara | **batton0955**: Ride-A-Pet Potion |
+| 17:25 | **Vitamirka**: Pain au Chat, Kiwi Kiwi | **batton0955**: Ride-A-Pet Potion |
+| 17:25 | **esddier**: Strawberry Tortle (NFR), Arctic Dusk Dragon (MFR), Lion Cub (MR), Undead Jousting Horse (FR), Cabbit (NFR), Sushi Penguin (MFR), Nessie (R) | **freddy3782**: Blazing Lion (NFR) |
+| 17:25 | **makaka3901**: Shrew (R) | **avoxmunk**: Fly-A-Pet Potion ×3 |
+| 17:25 | **VikaQuiet**: Ride-A-Pet Potion ×7 | **Vitek_228666**: Fly-A-Pet Potion ×4 |
+| 17:25 | **Helper_dod**: Cow Calf (MFR) | **varmitrof**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 17:25 | **Helper_dod**: Ostrich (M) | **varmitrof**: Fly-A-Pet Potion ×3 |
+| 17:25 | **lnH3II**: Snow Leopard (N), Amami Rabbit (N) ×3, Amami Rabbit, Ride-A-Pet Potion ×2 | **iheartmyman6548**: Amami Rabbit (MFR) |
+| 17:25 | **Lx_mo0n**: Jester Dragon (R), Arctic Fox, Fly-A-Pet Potion | **jade_7767**: Elephant (R) |
+| 17:25 | **1zhindibek5**: Munchkin Cat (MFR), Fly-A-Pet Potion ×2 | **Urpookie_Ria**: Peppermint Penguin (NFR) |
+| 17:25 | **TradeMehOnMahMain**: Zombie Wolf (MR), Moon Rabbit (MR), Border Collie, Moose Calf, Fly-A-Pet Potion | **Siren_AriaBlaze**: Border Collie (NFR) |
+| 17:25 | **yanchik0067**: Kangaroo (R) | **luhv_kvrr**: Munchkin Cat ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
