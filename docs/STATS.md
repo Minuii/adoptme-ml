@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 00:45 UTC by the scrape workflow._
+_Updated 2026-11-14 00:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 00:45 UTC by the scrape workflow._
 | amvgg | 4 | 23,461 | 2026-11-14T00:45 |
 | elve | 4 | 5,024 | 2026-11-14T00:45 |
 
-## AMVGG completed trades: 10,403 total
+## AMVGG completed trades: 10,445 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 158 |
+| 2026-11-14 | 200 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 00:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:40 | **arturo7pose12345**: Kiwi Kiwi ×16 | **JJJA_81112**: Ride-A-Pet Potion ×9 |
-| 00:40 | **princesslolly08**: Arctic Fox (NFR), Copycat (FR), Ride-A-Pet Potion ×3 | **cecatoce**: Strawberry Tortle (FR) |
-| 00:40 | **iileesxv**: Chipmunk (MR), Puffer Fish, Harp Seal, Great Pyrenees | **WintErSnowy1**: Alley Cat (N) |
-| 00:40 | **blvdpawzi**: Ride-A-Pet Potion, Head Chef | **thayla_karin3**: Unicorn Backpack, Pancake Stack |
-| 00:40 | **headaddisonraestan**: Strawberry Tortle (FR), Strawberry Tortle ×3 | **axuerilyt**: Cryptid (FR), Rain Cloud Hat |
-| 00:40 | **cannotaffordme**: Arctic Dusk Dragon (NFR), Arctic Dusk Dragon (NR), Corn Doggo (MFR), 2022 Birthday Cake, Chef Gorilla (MFR) | **Ryuchoaa**: Aurora Fox (MFR) |
-| 00:40 | **foundinhissoul7**: Merry Mistletroll (N) | **luzmi119**: Mochi Meow Tumble Animated Sticker |
-| 00:40 | **Tyyyyy_tyy1**: Ghost Hat | **MMALUMABEIBIIII**: Retired Egg ×5 |
-| 00:40 | **Babyofy5**: Pupcicle ×9 | **Aexelles**: Munchkin Cat |
-| 00:40 | **Catzini_1**: Frostbite Bear (NFR) | **milkwars**: Fairy Bat Dragon (NFR) |
-| 00:40 | **madurra012**: Pink Butterfly Wings ×2, Pink Hightops ×2, Aestus Mane, Beehive House | **Kattyloni**: Elasmosaurus (N) |
-| 00:40 | **Love_Girl01170**: Dalmatian (NFR), Albino Monkey (FR) | **NerVhana**: Owl (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 00:40 | **natfrmct**: Zombie Wolf (N) | **Crims0n_Dusk**: Goat |
-| 00:40 | **Vivi_Star14**: Rooster (FR) | **zwhkyx**: Husky Sled |
-| 00:40 | **Iceelanaa**: Pupcicle (M) | **Axiom15k**: Werewolf (R) |
+| 00:55 | **bella94255**: Kangaroo (FR) | **johnpatricktasunci16**: Catte ×18 |
+| 00:55 | **bella94255**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Kangaroo (FR) | **hisevermore**: Glacier Moth (MFR), Toaster Hat |
+| 00:55 | **roblox_user_4904540593**: Nessie (MFR), Shadow Dragon (MFR), Bat Dragon (FR), Owl (NFR), Evil Unicorn (MFR), Octopus (MFR), Owl (FR) ×3, Crocodile (R) | **lotiedoll**: Bat Dragon (MFR) |
+| 00:55 | **Krunchkrunc**: Chihuahua ×2, Banana Hat | **Tatitofake777**: Fly-A-Pet Potion |
+| 00:55 | **shodidodi**: Ride-A-Pet Potion ×6, Basic Egg ×12 | **KnifeonKeys**: Copycat |
+| 00:55 | **2262096**: Munchkin Cat, Rose Dragon | **xXxLunightxXx**: Munchkin Cat (FR) |
+| 00:55 | **qlltm**: Shark Puppy (FR), Onza (N) ×2 | **qwelxzz**: Sea Slug, Fly-A-Pet Potion |
+| 00:55 | **rainbowgirl10821**: Fairy Bat Dragon (NFR) | **HE4RTluvss**: Cabbit (NFR) |
+| 00:55 | **laylaangel1309**: Copycat | **Mitchellita_Alt**: Pupcicle ×5 |
+| 00:55 | **ANIMEN3RD_S**: Sushi Penguin | **Yamayama912**: Pupcicle |
+| 00:55 | **odading12318**: Kangaroo (FR) | **corney125**: Fly-A-Pet Potion ×9 |
+| 00:55 | **Marines_Natalia**: Samoyed (M) | **Kir4kaaa**: Unicorn |
+| 00:55 | **kelixnz**: Cattuccino | **soisomin**: Retired Egg ×18 |
+| 00:55 | **kindaOwOmeal**: Cow, Turtle (R), Siamese Cat (FR), Fly-A-Pet Potion | **PhoenixForever09**: Candicorn (NFR), Munchkin Cat (NFR) |
+| 00:55 | **Alana_enna22**: White Amazon (R), Bee (FR) | **miaow42**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
