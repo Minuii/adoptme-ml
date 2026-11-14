@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 07:55 UTC by the scrape workflow._
+_Updated 2026-11-14 08:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 07:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 30,341 | 2026-11-14T07:45 |
-| elve | 4 | 6,394 | 2026-11-14T07:45 |
+| amvgg | 4 | 30,597 | 2026-11-14T08:00 |
+| elve | 4 | 6,456 | 2026-11-14T08:01 |
 
-## AMVGG completed trades: 11,616 total
+## AMVGG completed trades: 11,644 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,371 |
+| 2026-11-14 | 1,399 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 07:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:55 | **siesie09_x**: Rain Cloud Hat, Ride-A-Pet Potion ×2 | **MAKS_TOKS2**: Fallow Deer (NFR) |
-| 07:55 | **svphoria**: King Bee (MFR), Jester Dragon (R), S'mores Raccoon (NR) | **lili_cupid**: S'mores Raccoon (MFR) |
-| 07:55 | **snezzhook**: Pet Handler Pro Certificate | **Viktoria_11942**: Ride-A-Pet Potion ×2 |
-| 07:55 | **Qu33nDQCrimsonO19932**: Chihuahua ×2 | **Karin102303**: Ride-A-Pet Potion |
-| 07:55 | **Lastef12**: Shadow Dragon (FR), Cow, Gecko, Fairytale Egg ×3 | **vika000rrr**: Giraffe (FR), Owl (FR), Ride-A-Pet Potion ×6 |
-| 07:55 | **Davidosi_mr**: Ride-A-Pet Potion, St Bernard (R) | **iixSkullsii**: Candy Hare |
-| 07:55 | **henrissy0**: Goose (R), Stray Cat Dragon ×2, Fairytale Egg ×9 | **Keito_149**: Cow (FR) |
-| 07:55 | **Ethernaces**: Stray Cat Dragon ×9 | **Panda39643**: Ride-A-Pet Potion |
-| 07:55 | **itz_vi966**: Pupcicle ×6 | **lkmsdfw**: Arctic Fox |
-| 07:55 | **lxnxlyXfrxvxr**: Angus Cow ×5, Black Rhino (N), Ehecatl (N), Rock Pigeon ×3, Rubber Ducky (N) ×2, Samoyed ×2, Tan Chow-Chow | **16y97**: Ride-A-Pet Potion |
-| 07:55 | **Frs_88xx**: Ride-A-Pet Potion | **kohvhvv**: Pupcicle |
-| 07:55 | **Utenok_Jackii**: Frostbite Bear (MFR), Strawberry Shortcake Bat Dragon (NFR), Hedgehog (R), Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR), Turtle (FR), Elephant (FR) | **doraatje122**: Evil Unicorn (MFR) |
-| 07:55 | **Stormyeyes6874**: Frostbite Bear (FR) | **LaSaraaa_2011**: Grim Dragon (FR) |
-| 07:55 | **Nastya_367367**: Galactic Hoverboard, Claw Machine Stroller, Tulip Stroller, High Heel Stroller, Swan Stroller, Donut Stroller | **Paifrennnn**: Ride-A-Pet Potion |
-| 07:55 | **mdmdnkevsjsvaj**: Haetyphoon | **gyrex111**: Candicorn |
+| 08:00 | **Crow_0040**: Pupcicle | **notlqvingariaa**: Ride-A-Pet Potion |
+| 08:00 | **jam0khurt**: Ride-A-Pet Potion ×18 | **shisuiziya**: Alpaca |
+| 08:00 | **kobii_x**: Shadow Dragon Ducky (MFR), Fly-A-Pet Potion | **dwaynestephen123**: Munchkin Cat |
+| 08:00 | **Babyofy5**: Matcha Cat | **urielelpro909**: Diamond Amazon |
+| 08:00 | **divertismyname**: Cake Friend (N) | **ohemgeelolxd**: Ride-A-Pet Potion ×3 |
+| 08:00 | **Oliviakitti3003**: Australian Kelpie (N), Cattuccino (N) | **Sharkie0020**: Ride-A-Pet Potion |
+| 08:00 | **Gonzpro5858**: Cow (MFR) | **nosoyelpapi4**: Undead Jousting Horse (R), Jekyll Hydra, Frostbite Bear, Haetyphoon (R), Mechapup (N) |
+| 08:00 | **Officalyuichi**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×4 | **leasllss**: Munchkin Cat (FR) |
+| 08:00 | **FlyToTheSaturn**: Wildfire Hawk, Abyssinian Cat, Australian Kelpie ×3, Basilisk, Capuchin Monkey, Dilophosaurus ×2, Dotted Eggy, Emu ×3, Gorilla ×3, Narwhal, Monkey | **iDontKnowYou89844**: Fly-A-Pet Potion |
+| 08:00 | **FlyToTheSaturn**: Monkey ×3, Narwhal ×2, Ox, Pterodactyl ×4, Rabbit, Rat ×2, Sasquatch, Seahorse, Woolly Mammoth ×2, Yellow Butterfly | **iDontKnowYou89844**: Fly-A-Pet Potion |
+| 08:00 | **Yumi_Rose8**: Fly-A-Pet Potion | **llioed30**: Crystal Egg ×18 |
+| 08:00 | **Valerie_Sanceour**: Pupcicle ×17 | **mambysx**: Golden Rat (MFR) |
+| 08:00 | **XxbobaloverXx565**: Ram (MFR), Leopard Cat (MR) | **wldnsdlrnldudna**: Cabbit (FR) |
+| 08:00 | **iguess_in1Melany**: Ride-A-Pet Potion, Humbug (N), Tegu (N), Sabertooth | **Omar2002548**: Onza (M) |
+| 08:00 | **master_10099**: Fly-A-Pet Potion | **Lalilyn_12**: Cerberus (R) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
