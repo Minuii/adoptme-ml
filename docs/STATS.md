@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 17:10 UTC by the scrape workflow._
+_Updated 2026-11-14 17:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 17:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 39,938 | 2026-11-14T17:00 |
-| elve | 4 | 8,616 | 2026-11-14T17:01 |
+| amvgg | 4 | 40,221 | 2026-11-14T17:15 |
+| elve | 4 | 8,678 | 2026-11-14T17:16 |
 
-## AMVGG completed trades: 14,161 total
+## AMVGG completed trades: 14,195 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,916 |
+| 2026-11-14 | 3,950 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 17:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:10 | **1tz_Miki**: Toucan (M) | **mmmaattthhheeeooo**: Ride-A-Pet Potion |
-| 17:10 | **Dasamant7**: Kangaroo, Kangaroo (R) | **LoriDreamy123**: Cow (FR) |
-| 17:10 | **YOKOZ303**: Horse (R) | **good_vibesgirl09**: Ride-A-Pet Potion |
-| 17:10 | **Tisha_2024127**: Evil Unicorn (MFR), Panda (MFR) | **hanb3ki**: Giraffe (FR), Frost Dragon (FR) |
-| 17:10 | **XxChloe_Gamer101**: Great Pyrenees (N), Ermine (N), Moon Rabbit, Cuddly Candle (R) | **detective_emilly**: Meerkat (R) |
-| 17:10 | **LulusiaKoza123**: Highland Cow (MFR), Sushi Penguin ×2 | **nicolasceci444**: Street Drifter, Halloween Black Ponycycle, Ice Plane, Headless Horseman's Biplane, Magical Girl Car, Regal Roller ×2, Black Cab, Banana Car, Traveling House, Tiffany ×2, Shadow Dragon Skateboard, Royal Carriage, Yellow Taxi Cab, Heart Hoverboard, Princess Carriage, Prince Carriage |
-| 17:10 | **ducklfy5**: Winged Horse (FR) | **SoyNoel11**: Skele-Rex (R) |
-| 17:10 | **viktoriapotrivay**: Gumball Caterpillar (N), Ribbon Seal (N), Stitches (N), Clumpty (N), Pandaguin Glooptodog (N), Lemonade Stand | **miqwx20130**: Ride-A-Pet Potion |
-| 17:10 | **plushioss**: Copycat, Ride-A-Pet Potion | **ixkIsaa**: Amami Rabbit (NR), Amami Rabbit (N) ×2 |
-| 17:10 | **20Lilz11**: Komodo Dragon (N) | **REY672309**: Thunderfisher (N) |
-| 17:10 | **garinha_500**: Crocodile (R) | **man_darin1345**: Flash Weasel |
-| 17:10 | **lucasprz7**: Pig (R) | **LOS_GARZA1**: Munchkin Cat |
-| 17:10 | **WintErSnowy1**: Grim Dragon (FR) | **choco_bamowo**: Tortuga de la Isla (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×11 |
-| 17:10 | **Sonya73p**: Ride-A-Pet Potion ×3, Butter Knife | **noki123good**: Spring Bunny Hood |
-| 17:10 | **Bibbi301177**: Parrot (NFR), Haetae (NR), Crocodile (NFR), Cow (FR), Dragonfruit Fox (NR), English Sheepdog (MFR) | **pogigelo31**: Bat Dragon (FR) |
+| 17:15 | **purge0285**: Jester Dragon (FR), Kitty Bat (N), Leopard Cat (NR), Chocolate Dutch Guinea Pig (R), Spinosaurus (R) | **l0v3_k1raa4**: Flash Weasel |
+| 17:15 | **Henjii78**: Purrowl (N) ×2, Mr. Whiskerpips (N) | **hugsformy_sisfinjaa**: Purrowl (M) |
+| 17:15 | **pretty_siblings**: Candicorn (R), Chocolate Dutch Guinea Pig, Popsicle Stroller | **archie_290**: Bush Elephant (FR) |
+| 17:15 | **H4ppy_147**: Mistletroll (N), Purrowl | **Youare_soooperf3ct**: Retired Egg ×18 |
+| 17:15 | **berrys_kittys**: Shrew (MFR) | **aisksiakamxmxdm**: French Bulldog (MFR), Werewolf, Mermicorn, Unicorn Horn, Cherub Chipmunk (MFR), Pancake Stack ×2, Ride-A-Pet Potion |
+| 17:15 | **Traii237**: Paint Sealer ×3 | **aliyah_v2**: Gumball Caterpillar (N) |
+| 17:15 | **cinammoroll_bun**: Unicorn Horn | **Yukimoan**: Black Panther (MFR) |
+| 17:15 | **NekoZero4**: Stray Cat Dragon | **bazychko**: Retired Egg ×18 |
+| 17:15 | **ZuzaOnlyMy**: Sugar Glider (FR), Glacier Kitsune (FR) | **xGracie_1234x**: Cow (FR) |
+| 17:15 | **yReehxz**: Ice Cream Hermit Crab | **Elianatrustedd**: Ride-A-Pet Potion ×2 |
+| 17:15 | **s0larzxxxx**: Ram ×2 | **Chanceyiloveyou**: Pupcicle ×2 |
+| 17:15 | **Dessertsandfoods**: Copycat (NFR) | **AsianIceCold**: Fairy Bat Dragon (FR) |
+| 17:15 | **no_name12345654321**: Pain au Chat (MFR), Ice Cream Cone Hat, Pancake Stack, Ghostly Cat (M) | **Millesmile3**: Fairy Bat Dragon (FR) |
+| 17:15 | **no_name12345654321**: Pain au Chat (MFR), Ice Cream Cone Hat, 2022 Birthday Party Horn | **Millesmile3**: Fairy Bat Dragon (FR), Ride-A-Pet Potion |
+| 17:15 | **giraffe3815**: Strawberry Shortcake Bat Dragon (NFR), Candyfloss Chick (FR) | **dloxasteq2**: Chocolate Chip Bat Dragon (NFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
