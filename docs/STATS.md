@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 10:55 UTC by the scrape workflow._
+_Updated 2026-11-14 11:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 10:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 33,471 | 2026-11-14T10:45 |
-| elve | 4 | 7,043 | 2026-11-14T10:45 |
+| amvgg | 4 | 33,714 | 2026-11-14T11:00 |
+| elve | 4 | 7,111 | 2026-11-14T11:01 |
 
-## AMVGG completed trades: 12,278 total
+## AMVGG completed trades: 12,281 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,033 |
+| 2026-11-14 | 2,036 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,9 @@ _Updated 2026-11-14 10:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:00 | **BeMines_Baby6**: Haetyphoon, Fly-A-Pet Potion | **parissjandy**: Candicorn (FR) |
+| 11:00 | **lWeirdPhyscol**: Cozy Mistletroll (MFR) | **Yupiterd**: Fly-A-Pet Potion ×2 |
+| 11:00 | **uhfj809**: Candicorn (FR), Arctic Fox (R) | **parissjandy**: Turtle (FR), Fly-A-Pet Potion |
 | 10:55 | **Leviodas**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **Goodnews2013**: Bunny Swirl (M) |
 | 10:55 | **TempeBuriq**: Cryptid (R) | **voilet173**: Munchkin Cat (MFR) |
 | 10:55 | **Helper_dod**: Crocodile (FR) | **carlovalencia08**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×4 |
@@ -41,9 +44,6 @@ _Updated 2026-11-14 10:55 UTC by the scrape workflow._
 | 10:55 | **adoptmeholderboang**: Evil Unicorn (FR), Goose (FR), Pig | **Vitek_228666**: Balloon Unicorn (FR) |
 | 10:55 | **Zues_Potter**: Strawberry Tortle (M) | **yuri_dragon32**: Frost Dragon (FR), Owl (FR) |
 | 10:55 | **ExpertChipmunkPro**: Frostbite Bear, Ride-A-Pet Potion | **angel_1010246**: Turtle (FR) |
-| 10:55 | **crap8077**: Cryptid (FR), 2022 Birthday Cake | **lukaspro23317**: Haetae (FR) |
-| 10:55 | **kittykyo77**: Copycat (NR) | **Popka_durak47**: Fairy Bat Dragon (R), Ride-A-Pet Potion, Kiwi Kiwi |
-| 10:55 | **nikssertyqxx**: Grim Dragon (FR), Golden Unicorn (R), Bubblegeist (R), Skelicorn (N), Toucan (R), Pandaguin Glooptodog (N) ×2, Stitches (N), Gemstone Egg ×2, Sushi Penguin | **elsikko2**: Frostbite Bear (R) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
