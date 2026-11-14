@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 07:01 UTC by the scrape workflow._
+_Updated 2026-11-14 07:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 07:01 UTC by the scrape workflow._
 | amvgg | 4 | 29,576 | 2026-11-14T07:00 |
 | elve | 4 | 6,225 | 2026-11-14T07:01 |
 
-## AMVGG completed trades: 11,444 total
+## AMVGG completed trades: 11,470 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,199 |
+| 2026-11-14 | 1,225 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:00 | **SoShark1**: Sushi Penguin | **anert131**: Ride-A-Pet Potion |
-| 07:00 | **xisaa_sr**: Unicorn ×2 | **Xxxxashhhh**: Fly-A-Pet Potion |
-| 07:00 | **gafiba02**: Dragonfruit Fox | **Xxxxashhhh**: Ride-A-Pet Potion ×2 |
-| 07:00 | **xisaa_sr**: Unicorn ×3 | **Xxxxashhhh**: Ride-A-Pet Potion ×3 |
-| 07:00 | **0kxxie**: Hot Doggo (FR) | **FufuFluffyFlowi**: Cow (FR), Pet Handler Pro Certificate |
-| 07:00 | **Xv_re**: Giant Panda (R), Strawberry Tortle, Latte Kitsune (MFR), Pupcake (MR) | **Shadx_1553**: Tortoiseshell Guinea Pig (MFR) |
-| 07:00 | **utarbkv**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×2 | **ethohkjalt**: Crocodile (R) |
-| 07:00 | **Sona_mol52**: Albino Monkey (FR), Guardian Lion (NFR) | **kohvhvv**: Flamingo (FR) |
-| 07:00 | **buang2oo**: Shark (FR) | **ruqpag9**: Fly-A-Pet Potion |
-| 07:00 | **merock56798**: Pupcicle | **Adiell158**: Stray Cat Dragon ×8 |
-| 06:55 | **510478**: Giraffe (NFR), Rainbow Maker | **pairofdogs2018**: Strawberry Tortle (MFR), Alpaca (MFR) |
-| 06:55 | **RoseGold_101010**: Jousting Horse, Royal Fairytale Egg | **nate_goldenduck**: Pupcicle ×3 |
-| 06:55 | **Bushra_Rocket8678**: Fly-A-Pet Potion, Hare Box | **Fionab_2012**: Cotton Candy Hat, Pirate Hat, Fishbowl Hat, Venus Flytrap Hat |
-| 06:55 | **Hii_meow13ue**: Ride-A-Pet Potion ×2 | **clalouetciedh**: Fly-A-Pet Potion |
-| 06:55 | **ShakeRetired**: Bubblegeist ×8 | **snehathebest22**: Pupcicle |
+| 07:10 | **ykoismim**: Leopard Shark (MFR) | **xXL0TTY**: Malaysian Tapir (MR), Quokka (MR), Chihuahua (MFR), Shih Tzu (M), Angus Calf (M), Snowman (MR), Black-Footed Ferret (M), Little Lamb (M) |
+| 07:10 | **Notmyaccount2803**: Glacier Moth | **Xxxxashhhh**: Fly-A-Pet Potion ×2 |
+| 07:10 | **AUTOINPUT**: Cow (FR), Kangaroo (FR), Boohoo (M), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pet Handler Pro Certificate | **feliandfio**: Strawberry Shortcake Bat Dragon (FR) |
+| 07:10 | **Taysha_cool**: Pupcicle ×2, Pupcicle (N) | **El1ies_shenanxgans**: Copycat |
+| 07:10 | **PossiblyBilled369**: Cow (NFR), Dancing Dragon (NFR), Pupcicle (M), Copycat, Strawberry Tortle, Flash Weasel | **KinaToons**: Balloon Unicorn (FR) |
+| 07:10 | **odading12318**: Chocolate Chip Bat Dragon (NFR) | **Sac_Girl**: Mini Pig (FR), Siamese Cat (R), Flamingo (FR), Kangaroo (R), Elephant (FR), Lion (R), Arctic Dusk Dragon (FR), Shrew (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 07:10 | **bell_flowers**: Alley Cat (NR) | **RiordanFan19**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion |
+| 07:10 | **Catixx77**: Fly-A-Pet Potion ×3 | **odading12318**: Christmas Pudding Pup |
+| 07:10 | **Princess_Kourtney900**: Jellyfish (FR) | **re_eee0**: Shark Puppy, Ride-A-Pet Potion |
+| 07:10 | **mistfulmemorie**: Pupcicle | **poiui5510**: Ride-A-Pet Potion |
+| 07:10 | **Lerkooo_111**: Elephant (NFR), Goose (FR), Flamingo (FR), Elephant (R), Flamingo (R), Candyfloss Chick (R), Munchkin Cat (R) ×2, Pig (FR), Jellyfish (R), Ice Cream Cone Hat, Pink Betta Fish (M), Copycat, Glacier Kitsune (R) ×3, Peppermint Penguin (FR), Jester Dragon | **leruval**: Frost Dragon (FR) |
+| 07:10 | **charla_monki**: Ride-A-Pet Potion | **Itz_CoffeeMochi**: Halloween White Mummy Cat (N) ×2 |
+| 07:10 | **alessgamer25**: Cabbit (NFR) | **Gaming_Mhm**: Ballet Swan (MFR) |
+| 07:10 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Snow Cat (M) | **laylaangel1309**: Fly-A-Pet Potion |
+| 07:10 | **limohq**: Spring Bunny Hood | **Shqmpraises**: Ride-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
