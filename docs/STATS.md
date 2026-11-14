@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 22:25 UTC by the scrape workflow._
+_Updated 2026-11-14 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 45,504 | 2026-11-14T22:15 |
-| elve | 4 | 9,839 | 2026-11-14T22:16 |
+| amvgg | 4 | 45,740 | 2026-11-14T22:30 |
+| elve | 4 | 9,892 | 2026-11-14T22:31 |
 
-## AMVGG completed trades: 15,787 total
+## AMVGG completed trades: 15,805 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,542 |
+| 2026-11-14 | 5,560 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:25 | **cinnamorollkuromi35**: Puppeteer Hand, Retired Egg ×11 | **itz_BATMAN0957**: Sakura Scythe |
-| 22:25 | **Sealeoxs**: Irish Water Spaniel (MFR), Ring-Tailed Lemur | **FlushedEgg**: Jellyfish (MFR) |
-| 22:25 | **abdoosaad**: Owlbear (R), Fly-A-Pet Potion | **Alinkareee11**: Purrowl (M), Raccoon (N), Pupcake (N), Feesh (N) |
-| 22:25 | **amnadastuven**: Royal Desert Egg, Pupcicle ×4, Wyvern (FR), Elasmosaurus, Quetzalcoatl, Blossom Snake, Nebula Snake | **12emanuel07**: Jester Dragon |
-| 22:25 | **phisho7is**: Ride-A-Pet Potion ×3 | **likadbsv1**: Latte Kitsune (R) |
-| 22:25 | **mxccrvxr**: Strawberry Penguin (MFR), Giant Gold Scarab (MFR), Hare (MFR), Pineapple Owl (MFR), Golden Chow-Chow (MFR) | **blindforIove**: Emperor Gorilla (MFR) ×2 |
-| 22:25 | **jose2012el_Pro**: Lion (FR) | **urfav_mexican110**: Border Collie (FR) |
-| 22:25 | **XelloX12345**: Pupcicle ×3 | **l4ylur**: Dragonfruit Fox (R) |
-| 22:25 | **vrslztx0**: Pupcicle | **Kakashi_121245**: Crystal Egg ×18 |
-| 22:25 | **Laryxn00**: Bready Necklace, White Chef Hat, Chihuahua, Mummy Spider (N) | **auixiss**: Pet Handler Pro Certificate |
-| 22:25 | **Klaysi_flayra**: Golden Unicorn, Stray Cat Dragon, Villain Gibbon, Mexican Wolf (N), Japan Egg, Endangered Egg, Fairytale Egg ×5, Choco Penguin, Fire Foal, Firefighter Gibbon | **Dash35813**: Ride-A-Pet Potion |
-| 22:25 | **1Biahsz_altx**: Pet Handler Pro Certificate | **YY0ZU**: Ride-A-Pet Potion ×2 |
-| 22:25 | **dragotahate**: Ride-A-Pet Potion | **GatitoCuki_28**: Phoenix |
-| 22:25 | **arturo7pose12345**: Ride-A-Pet Potion | **helisabet_fabi20**: River Otter (M) |
-| 22:25 | **pwowkiq**: Skelicorn (N), Skelicorn ×12, Ride-A-Pet Potion, Pupcicle, Chihuahua, Roadrunner | **VanillaChxry**: Spring Bunny Hood |
+| 22:30 | **elys_qn**: Ice Cube (M) | **Taygansocute114**: Pet Handler Pro Certificate |
+| 22:30 | **elijiobro771**: Pupcicle ×4, Fly-A-Pet Potion, Pet Handler Pro Certificate ×3, Irish Setter (M) | **baconandchicken007**: Tiny Wings |
+| 22:30 | **stargxldani**: Candicorn (MFR), Spring Bunny Hood ×2 | **mz4ya**: Siamese Cat (MFR) |
+| 22:30 | **dimon221221332**: Fly-A-Pet Potion | **rinconbrandon2012**: Pupcake (N) |
+| 22:30 | **TheDreamOn**: Tuxedo Cat (MFR) | **guiderno1234**: Werewolf (FR) |
+| 22:30 | **Alekey_Zar**: Mechapup (FR), Chocolate Chip Bat Dragon Backpack, Back Taco | **nfrhectirchis**: Emperor Gorilla (FR) |
+| 22:30 | **Xxstrxwbxrry_lxttexX**: Fly-A-Pet Potion | **namcymacdonie**: Ghost Dog ×2 |
+| 22:30 | **LalayS2z**: Munchkin Cat (R) | **warriorLiss**: Ride-A-Pet Potion ×9, Bobageist |
+| 22:30 | **LightningCheetah2451**: Burger Boots, Flying Fairy, Chick | **OMGITSMACKENZIE6**: Ride-A-Pet Potion |
+| 22:30 | **Flutterieshyy**: Pig (NFR), Lion (NFR), Majestic Pony (NFR) | **lol115783**: Cow (NFR) |
+| 22:30 | **lulu_lolka**: Shark Puppy (R), Banana Hat | **Pepe1212964**: Hare (NFR) |
+| 22:30 | **FeRicebear**: Hedgehog (NFR), Ride-A-Pet Potion | **imreaIIIypretty**: Crow (FR), Arctic Reindeer (FR), Chicken (MFR), Cerberus (MFR) |
+| 22:30 | **Est3lleluv**: Mini Pig (MFR), Chihuahua (M), Chocolate Dutch Guinea Pig (N) ×2 | **1dayto100dayrich09**: Haetae (NFR) |
+| 22:30 | **eeliasxcx**: Ride-A-Pet Potion ×2 | **1dayto100dayrich09**: Mummy Spider (M) ×4 |
+| 22:30 | **Its_Nanamio**: Arctic Fox (R) | **BestAnGeLPop**: Copycat (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
