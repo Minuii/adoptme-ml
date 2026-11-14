@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 13:10 UTC by the scrape workflow._
+_Updated 2026-11-14 13:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 13:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 35,792 | 2026-11-14T13:00 |
-| elve | 4 | 7,584 | 2026-11-14T13:01 |
+| amvgg | 4 | 36,071 | 2026-11-14T13:15 |
+| elve | 4 | 7,663 | 2026-11-14T13:16 |
 
-## AMVGG completed trades: 12,828 total
+## AMVGG completed trades: 12,846 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,583 |
+| 2026-11-14 | 2,601 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 13:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:06 | **lawerrty0**: Cake Friend (M), Bunny Swirl (MFR), Pupcake (MR), Puffer Fish (N) | **Aliya_nothere**: Cow (FR) |
-| 13:06 | **GebZzi_Elite**: Turtle (FR) | **Blueberriegamergirly**:  |
-| 13:06 | **eeveelover2007lover**: Bubblegeist (N), Mexican Wolf (N) | **Luna5980414**: Ride-A-Pet Potion |
-| 13:06 | **sofiapopup**: Candicorn | **darina_2011m**: Flash Weasel |
-| 13:06 | **jArYnAa**: Owl (FR) | **sleepy_s0ren**: Kangaroo (FR) ×3, Cow (FR) ×2, Kangaroo (NFR), Candicorn (NFR) |
-| 13:06 | **eeveelover2007lover**: Bobageist (M) | **LYIZA_1976**: Ride-A-Pet Potion |
-| 13:06 | **blossopeony**: Retired Egg ×18 | **draike_tzu8262**: Cattuccino (N) |
-| 13:06 | **Panda39643**: Ride-A-Pet Potion ×2 | **Aubrey_Prism851**: Stray Cat Dragon ×17 |
-| 13:06 | **Star_accdeleted3**: Arctic Fox (NFR), Mule (N) | **Angelinaannabell**: Glacier Kitsune (NFR) |
-| 13:06 | **Luntixss**: Pupcicle (N), Gumball Caterpillar (NR), Skunk (FR) | **killy_56795**: Pupcicle (NR) |
-| 13:06 | **Lvpix**: Invisible Wings | **sinaleioa**: Banana Hat |
-| 13:06 | **0ali_ice0**: Dark Choccybunny | **Ral1t0**: Fire Stallion |
-| 13:06 | **Inganta07**: Fly-A-Pet Potion ×3 | **tufvfffdjdg**: Frost Fury (FR) |
-| 13:06 | **Zombx1ee**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5 | **tufvfffdjdg**: Munchkin Cat (FR) |
-| 13:06 | **darklightermooni9**: Munchkin Cat, Copycat, Chihuahua (M) | **ivybrown_idk**: Mermicorn (R) |
+| 13:15 | **Roasted_Fatpig**: Christmas Pudding Pup (NFR), Fly-A-Pet Potion | **TheRealAivlis**: Cabbit (FR) |
+| 13:15 | **kariisshha**: Turtle (FR), Unicorn (NFR) | **Jtamz096**: Fairy Bat Dragon (FR), Chocolate Chip Bat Dragon Backpack, Burger Boots |
+| 13:15 | **zncxxq**: Moose Calf, Ride-A-Pet Potion | **xGracie_1234x**: Groundhog |
+| 13:15 | **amyggvaI**: Harp Seal, Eggnog Hare (N) | **derka_love**: Pet Handler Pro Certificate |
+| 13:15 | **6smng**: Bat Dragon (R), Peppermint Penguin (NFR) | **newheroltu**: Cryptid (MFR) |
+| 13:15 | **devil_flower145**: Capybara | **wirecalled**: Pupcicle |
+| 13:15 | **esddier**: Giant Anteater (R) | **lupsgrl**: Copycat |
+| 13:15 | **soyuzzg**: Flaming Fox (MFR), Chocolate Dutch Guinea Pig (MFR) | **supitchayacatmante**: Cow (FR) ×2 |
+| 13:15 | **cutykitty0521**: Stitches (M) | **Juliab515**: Stitches ×16 |
+| 13:15 | **purrpawz666**: Turtle (FR), Cabbit, Tiny Wings | **Bunni_Rainbowpop**: Chocolate Chip Bat Dragon (FR) |
+| 13:15 | **Puppyofskz**: Moose Calf, Dango Penguins, Bunny Stroller, Pupcake (N), Copter Hat, Shadow Aura, Modern Mansion, 2022 Birthday Confetti Drape, Cotton Candy Hat, Mighty Haetyphoon Animated Sticker, Blue Cat Ear Headphones, Unfortunate Eyelashes, Macaw Wings, Solaris Animated Sticker, Long Ermine Sticker, Leaf Hat, Three Egg Basket, Security Spotlight | **Bow_WR**: Haetyphoon |
+| 13:15 | **vasilisa11rus1**: General Sheepdog, Orbweaver Glider, Onza, Purrowl | **Popa67524269**: Moon Rabbit |
+| 13:15 | **ivybrown_idk**: Pupcicle | **cutykitty0521**: Ride-A-Pet Potion |
+| 13:15 | **cwuurz**: Turtle (FR), Fly-A-Pet Potion ×4, Chocolate Dutch Guinea Pig | **tufvfffdjdg**: Cow (FR) |
+| 13:15 | **Furryinreallaif**: Merhorse | **AmmoPlay1**: Cattuccino |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
