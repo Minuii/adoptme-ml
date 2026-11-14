@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 17:01 UTC by the scrape workflow._
+_Updated 2026-11-14 17:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 17:01 UTC by the scrape workflow._
 | amvgg | 4 | 39,938 | 2026-11-14T17:00 |
 | elve | 4 | 8,616 | 2026-11-14T17:01 |
 
-## AMVGG completed trades: 14,085 total
+## AMVGG completed trades: 14,161 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,840 |
+| 2026-11-14 | 3,916 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 17:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:00 | **S4GESW0RLDALT**: Albino Monkey (MFR) | **NAT4L1Ex**: Goat (MFR) |
-| 17:00 | **1nikaroctik**: Frost Fury (FR) ×2 | **Youdi_off**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5, Chick Backpack |
-| 17:00 | **Marwaxadoptme**: Water Rabbit (M), Ride-A-Pet Potion | **ksenia_unicorn67**: Rain Cloud Hat |
-| 17:00 | **rosazockt**: Snow Monkey | **cherrysRin**: Birthday Butterfly 2024 (M) |
-| 17:00 | **detective_emilly**: Endangered Egg ×9 | **nikaking89**: Retired Egg ×9 |
-| 17:00 | **Helper_dod**: Snowman (MFR) | **Angi_2oo7**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
-| 17:00 | **ulianixx79**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **Moon_Cloud609859**: Candicorn (FR) |
-| 17:00 | **s0larzxxxx**: Rice Cake Rabbit (M) | **Aslie_17**: Ride-A-Pet Potion ×4 |
-| 17:00 | **Ivryluvv**: Fly-A-Pet Potion | **FlyToTheSaturn**: Skunk, Tan Chow-Chow ×2, Australian Kelpie ×2 |
-| 17:00 | **Mochi24Kitten**: Polar Bear (FR), Arctic Dusk Dragon (NR), Snowball Pet | **Angi_2oo7**: Fairy Bat Dragon (FR) |
-| 17:00 | **Ivryluvv**: Puffer Fish (MFR) | **kobii_x**: Lynx (MFR) |
-| 17:00 | **pisapopakakashecki**: Rat, Seahorse, Starhopper, Weevil, Kelp Crewmate, Kirin, Scarecrow, Bali Starling, Beluga Whale, Bluebottle Fly, Bullfrog, Japanese Snow Fairy, Blue Jay | **ferrofl7**: Ride-A-Pet Potion |
-| 17:00 | **anst688**: Standard Gibbon Box, Kaijunior Box, Kelp Raider Box, Spider Gift, Aberdeen Angus Box, Poltergeist Box, Snapdragon Flower, Shiver Cone Bait | **itsme_zanana**: Ride-A-Pet Potion |
-| 17:00 | **Vxmptomato**: River Otter (M), Irish Setter (M) | **1Biahsz_altx**: Fly-A-Pet Potion |
-| 17:00 | **iconicdollist**: Orchid Butterfly (MFR), Harp Seal (MFR) | **cannotaffordme**: Haetae (MFR) |
+| 17:10 | **1tz_Miki**: Toucan (M) | **mmmaattthhheeeooo**: Ride-A-Pet Potion |
+| 17:10 | **Dasamant7**: Kangaroo, Kangaroo (R) | **LoriDreamy123**: Cow (FR) |
+| 17:10 | **YOKOZ303**: Horse (R) | **good_vibesgirl09**: Ride-A-Pet Potion |
+| 17:10 | **Tisha_2024127**: Evil Unicorn (MFR), Panda (MFR) | **hanb3ki**: Giraffe (FR), Frost Dragon (FR) |
+| 17:10 | **XxChloe_Gamer101**: Great Pyrenees (N), Ermine (N), Moon Rabbit, Cuddly Candle (R) | **detective_emilly**: Meerkat (R) |
+| 17:10 | **LulusiaKoza123**: Highland Cow (MFR), Sushi Penguin ×2 | **nicolasceci444**: Street Drifter, Halloween Black Ponycycle, Ice Plane, Headless Horseman's Biplane, Magical Girl Car, Regal Roller ×2, Black Cab, Banana Car, Traveling House, Tiffany ×2, Shadow Dragon Skateboard, Royal Carriage, Yellow Taxi Cab, Heart Hoverboard, Princess Carriage, Prince Carriage |
+| 17:10 | **ducklfy5**: Winged Horse (FR) | **SoyNoel11**: Skele-Rex (R) |
+| 17:10 | **viktoriapotrivay**: Gumball Caterpillar (N), Ribbon Seal (N), Stitches (N), Clumpty (N), Pandaguin Glooptodog (N), Lemonade Stand | **miqwx20130**: Ride-A-Pet Potion |
+| 17:10 | **plushioss**: Copycat, Ride-A-Pet Potion | **ixkIsaa**: Amami Rabbit (NR), Amami Rabbit (N) ×2 |
+| 17:10 | **20Lilz11**: Komodo Dragon (N) | **REY672309**: Thunderfisher (N) |
+| 17:10 | **garinha_500**: Crocodile (R) | **man_darin1345**: Flash Weasel |
+| 17:10 | **lucasprz7**: Pig (R) | **LOS_GARZA1**: Munchkin Cat |
+| 17:10 | **WintErSnowy1**: Grim Dragon (FR) | **choco_bamowo**: Tortuga de la Isla (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×11 |
+| 17:10 | **Sonya73p**: Ride-A-Pet Potion ×3, Butter Knife | **noki123good**: Spring Bunny Hood |
+| 17:10 | **Bibbi301177**: Parrot (NFR), Haetae (NR), Crocodile (NFR), Cow (FR), Dragonfruit Fox (NR), English Sheepdog (MFR) | **pogigelo31**: Bat Dragon (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
