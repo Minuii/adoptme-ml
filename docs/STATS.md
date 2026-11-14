@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 04:31 UTC by the scrape workflow._
+_Updated 2026-11-14 04:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 04:31 UTC by the scrape workflow._
 | amvgg | 4 | 27,207 | 2026-11-14T04:30 |
 | elve | 4 | 5,821 | 2026-11-14T04:31 |
 
-## AMVGG completed trades: 11,061 total
+## AMVGG completed trades: 11,094 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 816 |
+| 2026-11-14 | 849 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 04:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:25 | **siria20144**: Fly-A-Pet Potion | **cherrii_kiss**: Ride-A-Pet Potion ×2 |
-| 04:25 | **Robloxiana_xxx2011**: Fly-A-Pet Potion ×2 | **femfruit**: Pupcicle ×3 |
-| 04:25 | **Skz_bts176**: Fly-A-Pet Potion | **cherrii_kiss**: Pet Handler Pro Certificate |
-| 04:25 | **Geni16184**: Parrot (FR), Rainbow Maker, Jousting Horse (NFR), Owlbear (NFR) | **Yasmimriby**: Cryptid (NFR) |
-| 04:25 | **taigo77**: Panda (NFR), Golden Hamster (NR) | **Andreslovea87**: Jester Dragon (FR) |
-| 04:25 | **dylanmarley28**: Strawberry Shortcake Bat Dragon (FR), Siamese Cat (R), Ride-A-Pet Potion, Skunk | **CACTU5Man**: Groundhog (MFR), Propeller Hat |
-| 04:25 | **ClxudsandRxin**: Pupcicle ×3, Ride-A-Pet Potion ×2 | **DES1R333333**: Pupcicle (N) |
-| 04:25 | **2creme1sucre**: Evil Unicorn (NFR) | **Lewraynzz**: Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR), Candyfloss Chick (FR), Happy Duckling (MFR), Silverback Gorilla (R), Chihuahua (M), Copycat, Black Panther (NFR), Papa Moose, Bison (M), Jacobin Pigeon (M) |
-| 04:25 | **yasukie7u7**: Rain Cloud Hat, Spring Bunny Hood | **Monalin879**: Unicorn Horn |
-| 04:25 | **thesef4ngs**: Pelican (FR), Fly-A-Pet Potion | **SantyGamer_4592**: Cow |
-| 04:21 | **YUMIIMOTHZZ**: Canadian Goose (MR), Fly-A-Pet Potion, Pet Handler Pro Certificate | **chocomallowdrizzle**: Pupcicle (N) ×2 |
-| 04:21 | **vlv_var1kiz1488868**: Turtle (R), Kangaroo (R), Candicorn (R), Fly-A-Pet Potion | **sofiapopup**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:21 | **aikyuurei**: Pupcicle | **NotCookie810**: Chocolate Dutch Guinea Pig |
-| 04:21 | **LPPlay42302**: Bush Elephant (FR), Sakura Spirit (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **aikyuurei**: Fairy Bat Dragon (FR) |
-| 04:21 | **jdhcsuchsugq**: Dimension Drifter | **itsjustav1**: Ride-A-Pet Potion |
+| 04:40 | **SupercoolAliyah5**: Pink Cat Ear Headphones | **Aslie_17**: Ride-A-Pet Potion |
+| 04:40 | **Trixcaughtlackin**: Giraffe (FR) | **Utenok_Jackii**: Dalmatian (FR) ×2, Cow (FR), Cow (R), Cow ×3, Kangaroo (FR) ×2, Alpaca, Elephant (FR), Munchkin Cat (FR) |
+| 04:40 | **SoyShiro1234**: Dalmatian (FR), Black Scooter, Thunderfisher (N) ×2 | **trendypopcon**: Dalmatian (FR) |
+| 04:40 | **lapotaxie_ECM**: Pomeranian | **seeyatea11**: Mexican Wolf, Rabbit |
+| 04:40 | **realgeibot**: Red Dutch Guinea Pig (R) | **animatownermile3**: Pupcicle ×4 |
+| 04:40 | **kohvhvv**: Kangaroo (FR), Ride-A-Pet Potion | **R4kert**: Flamingo (FR) |
+| 04:40 | **anekalubitnaruto**: Husky (MFR), Unicorn, Shoebill (M) | **5m0ya**: Candicorn (NFR) |
+| 04:40 | **xxjohnjokexx**: Goose, Peppermint Penguin, Peppermint Penguin (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **dylanmarley28**: Evil Unicorn (FR) |
+| 04:36 | **enchantedxmira**: Goose (FR) | **hanb3ki**: Orange Butterfly (MFR), Highland Cow (MR), Strawberry Shortcake Ducky (MFR), Pet Handler Pro Certificate, Ride-A-Pet Potion |
+| 04:36 | **jatikat**: Goat (R), Fly-A-Pet Potion, Mrs. Whiskerpips (N) | **bassie123284**: Cupid Dragon (FR) |
+| 04:36 | **ABOBASADA**: Copycat, Ride-A-Pet Potion ×2 | **zxl0106**: Pig (R) |
+| 04:36 | **Kyrae_onatirade**: Patchy Bear (MR) | **Unboxing2akk**: Pupcicle |
+| 04:36 | **pawwiexd**: Bauble Buddies, King Bee (F) | **16y97**: Ride-A-Pet Potion |
+| 04:36 | **2creme1sucre**: Unicorn Horn | **Urfavorite1225**: Siamese Cat (FR) |
+| 04:36 | **Geigekbsoh**: Candy Cannon, Egg Stroller, Pumpkin | **ARON00808**: Owl (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
