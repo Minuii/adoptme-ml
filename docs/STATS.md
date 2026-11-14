@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 07:16 UTC by the scrape workflow._
+_Updated 2026-11-14 07:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 07:16 UTC by the scrape workflow._
 | amvgg | 4 | 29,832 | 2026-11-14T07:15 |
 | elve | 4 | 6,297 | 2026-11-14T07:16 |
 
-## AMVGG completed trades: 11,481 total
+## AMVGG completed trades: 11,505 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,236 |
+| 2026-11-14 | 1,260 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 07:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:15 | **copyvoting**: Flash Weasel (N), Flash Weasel, Munchkin Cat (R) | **FaZeTysonF**: Evil Unicorn (FR) |
-| 07:15 | **uh_Rojo**: Giraffe (FR), Werewolf | **copyvoting**: Giraffe |
-| 07:15 | **gh4ghufi8**: Frost Dragon (FR), Pancake Stack | **meb_kompop**: Parrot (FR), Kangaroo (MFR), Turtle (FR) |
-| 07:15 | **Flux_puck**: Hot Doggo (FR) | **CandyBear373**: Sakura Spirit (NFR) |
-| 07:15 | **Mr_fluffy720**: Pupcicle ×6 | **daria7581659**: Kitty Bat (MR) |
-| 07:15 | **BeMines_Baby6**: Glormy Leo (NFR), Fly-A-Pet Potion ×2, Ice Cube (N) ×4, Icy Porcupine (R), Bakeneko (M) | **mambysx**: Pupcicle ×16 |
-| 07:15 | **guillemoran**: Owl (FR), Frost Dragon (FR) | **Flux_puck**: Undead Jousting Horse (MFR) |
-| 07:15 | **iamnoonetobehere**: Turtle (FR) | **Vaxcled**: Fly-A-Pet Potion ×12 |
-| 07:15 | **foovva**: Turtle (FR) | **sarahang3la**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 |
-| 07:15 | **oaracetamol87678**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 | **foovva**: Turtle (FR) |
-| 07:15 | **freshtem0**: Lion Cub (FR), Cactus Friend (R) | **vamp1ia**: Cupid Dragon (FR) |
-| 07:10 | **ykoismim**: Leopard Shark (MFR) | **xXL0TTY**: Malaysian Tapir (MR), Quokka (MR), Chihuahua (MFR), Shih Tzu (M), Angus Calf (M), Snowman (MR), Black-Footed Ferret (M), Little Lamb (M) |
-| 07:10 | **Notmyaccount2803**: Glacier Moth | **Xxxxashhhh**: Fly-A-Pet Potion ×2 |
-| 07:10 | **AUTOINPUT**: Cow (FR), Kangaroo (FR), Boohoo (M), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pet Handler Pro Certificate | **feliandfio**: Strawberry Shortcake Bat Dragon (FR) |
-| 07:10 | **Taysha_cool**: Pupcicle ×2, Pupcicle (N) | **El1ies_shenanxgans**: Copycat |
+| 07:25 | **odading12318**: Kangaroo (FR) | **Kitsune2287**: Fly-A-Pet Potion ×9 |
+| 07:25 | **KinaToons**: Flash Weasel | **safir_va**: Snowball Pet (MFR), Starfish (MFR) |
+| 07:25 | **odading12318**: Cabbit (R) | **userulikk**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate ×2, Goat (R) |
+| 07:25 | **Addmymainamv**: Hedgehog (NFR), Sakura Spirit (FR), Giant Anteater, Robo Dog (NFR), Thinking Hat, Cotton Candy Hat, Back Taco ×2 | **isabella68078**: Frost Dragon (FR) |
+| 07:25 | **odading12318**: Cabbit (R) | **Kitsune2287**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×9 |
+| 07:25 | **Marwaxadoptme**: Bunny Swirl (F) | **themudwizard**: Ride-A-Pet Potion |
+| 07:21 | **Viktoria_11942**: Hedgehog (FR) | **pasha_zara**: Arctic Reindeer (FR), Kangaroo (FR), Fly-A-Pet Potion ×2 |
+| 07:21 | **Taysha_cool**: Pupcicle ×2, Pupcicle (N) | **Xxmizuki_tanxX**: Copycat |
+| 07:21 | **darklightermooni9**: Mermicorn (R), Ride-A-Pet Potion, White Chef Hat, Tanuki | **Kiffy_nanamineOwO**: Jester Dragon (NFR) |
+| 07:21 | **henrissy0**: Cow (FR) | **tufvfffdjdg**: Fly-A-Pet Potion ×16 |
+| 07:21 | **sickfreak231**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Cabbit (FR), Siamese Cat (NFR), Christmas Pudding Pup (R), Christmas Pudding Pup ×2, Polar Bear (N), Shark Puppy (R), Reindeer (N), Ghost Bunny (N), Zombie Wolf (N), Chicken (NR), Monkey (NR), Munchkin Cat (R), Ocean Egg, Southeast Asia Egg ×2 | **3SLYOUSSEF**: Frost Dragon (FR) |
+| 07:21 | **invalid1970**: Shrew (FR) | **cherrysRin**: Phantom Dragon (FR) |
+| 07:21 | **K1MM007**: Pupcicle (N), Pupcicle ×12, Ride-A-Pet Potion, Fly-A-Pet Potion | **IidoxxiniI**: Phoenix (MFR), Choco Penguin (MFR) |
+| 07:21 | **pawlakdobry**: Arctic Fox (FR), Unicorn | **VelenoDiVipera**: Munchkin Cat |
+| 07:21 | **rrrsuna**: Harp Seal (N) | **Morgzz418**: Spring Bunny Hood, Spring Bunny Feet |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
