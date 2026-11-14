@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-13 23:55 UTC by the scrape workflow._
+_Updated 2026-11-14 00:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,13 +13,14 @@ _Updated 2026-11-13 23:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 3 | 45,287 | 2026-11-13T23:45 |
-| elve | 3 | 9,374 | 2026-11-13T23:45 |
+| amvgg | 4 | 22,697 | 2026-11-14T00:00 |
+| elve | 4 | 4,891 | 2026-11-14T00:01 |
 
-## AMVGG completed trades: 10,245 total
+## AMVGG completed trades: 10,248 total
 
 | Day (UTC) | Trades |
 |---|---|
+| 2026-11-14 | 3 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -28,6 +29,9 @@ _Updated 2026-11-13 23:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:00 | **mgjgmwg**: Owl (R), Candicorn (NFR), Candicorn (R) | **xsf_o**: Frost Dragon (FR) |
+| 00:00 | **Spamforchristmas2**: Jellyfish (MFR) | **FlushedEgg**: Irish Water Spaniel (MFR) |
+| 00:00 | **YoSouYcaro**: Turtle Doves (MFR) | **MRX_Games007**: Dragonfruit Fox (R) |
 | 23:55 | **urielelpro909**: Balloon Unicorn (R), Evil Unicorn (FR), Cabbit | **xsf_o**: Frost Dragon (FR) |
 | 23:55 | **uqqoov**: Mini Pig (FR), Ghost (MFR) | **Pinkypeacelove**: Dragonfruit Fox (MFR) |
 | 23:55 | **PookiePlayzADM**: Slime (R) | **camiilita_7w7**: Swan |
@@ -40,9 +44,6 @@ _Updated 2026-11-13 23:55 UTC by the scrape workflow._
 | 23:55 | **2262096**: Rainbow Maker, 2022 Birthday Cake, Unicorn Horn, Toaster Hat, Ice Cream Cone Hat, Pink Cat Ear Headphones, Pink Heart Glasses, Ride-A-Pet Potion ×2, Candyfloss Chick (FR) | **amayatbhhh**: Balloon Unicorn (FR) |
 | 23:55 | **WintErSnowy1**: Cow (R), Hippo | **Malelou26**: Alley Cat (NFR), Fallow Deer (R), Ride-A-Pet Potion ×15 |
 | 23:55 | **Mentality_Dead**: Golden Lettuce, Fly-A-Pet Potion | **ADRO779**: Eco Natural Earth House |
-| 23:55 | **sxgarrXO**: Rain Cloud Hat | **Yuri_CottonCandy**: Munchkin Cat, Ride-A-Pet Potion, Butter Knife, Robin (MFR) |
-| 23:55 | **0n1yAlaina**: Fly-A-Pet Potion ×5, Storm Condor (M), Bee, Admin Abuse Egg | **AvokadoJFKfanat**: Ride-A-Pet Potion ×10 |
-| 23:55 | **Cocoxmistyyt**: Pupcicle | **lavenderwallfle22**: Dodo |
 
 ## Elvebredd value changes: 61,656 since 2023-09-16
 
