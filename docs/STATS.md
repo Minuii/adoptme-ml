@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 22:45 UTC by the scrape workflow._
+_Updated 2026-11-14 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 22:45 UTC by the scrape workflow._
 | amvgg | 4 | 45,979 | 2026-11-14T22:45 |
 | elve | 4 | 9,914 | 2026-11-14T22:45 |
 
-## AMVGG completed trades: 15,845 total
+## AMVGG completed trades: 15,907 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,600 |
+| 2026-11-14 | 5,662 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 22:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **makaka3901**: Copycat, Pupcicle (N), Chihuahua ×3, Ginger Cat (N) | **Lroha7**: Lion (FR) |
-| 22:45 | **Klaysi_flayra**: Leopard Cat, Clownfish, Indian Leopard, Cattuccino, Tan Chow-Chow, Lunar Ox ×2, Orange Betta Fish ×4, Pomeranian ×2, Lunar Tiger, Ginger Cat ×3 | **frecalsplogeok9**: Ride-A-Pet Potion |
-| 22:45 | **Officalyuichi**: Dango Penguins | **alexgameminecraft**: Ride-A-Pet Potion ×2 |
-| 22:45 | **5ttyryggbh**: Chocolate Dutch Guinea Pig (N), Ballet Swan, Eggnog Hare (M) | **Xxskibidy67**: Black Chow-Chow (MFR) |
-| 22:45 | **hugsformy_sisfinjaa**: Retired Egg ×8 | **Linka183796**: Thunderfisher |
-| 22:45 | **Jlaoe028**: Cozy Mistletroll | **hugsformy_sisfinjaa**: Stray Cat Dragon |
-| 22:45 | **Gamerqueen1255**: Gemstone Egg | **hugsformy_sisfinjaa**: Retired Egg ×18 |
-| 22:45 | **Leen124577**: Giant Panda (FR), Goose (R), Spring Bunny Hood, Pancake Stack, Spring Bunny Nose | **ava13970**: Owl (FR) |
-| 22:45 | **Cinna_gamer0**: Copycat (R), Shrew (R), Dango Penguins (FR), Skelicorn, Dragon, Lunar Gold Tiger | **Amvgg_nul**: Unicorn (MFR) |
-| 22:45 | **PrincessA1496**: Fly-A-Pet Potion ×2 | **Krasotka1060**: Spring Bunny Hood |
-| 22:45 | **FroztedCook31**: Chocolate Dutch Guinea Pig (NR), Red Fox (N), Hare, Pupcicle, Castle Hermit Crab (N), Eggnog Hare (N) | **mvvllicent**: Unicorn (MFR) |
-| 22:45 | **Fox_micro9311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Sillyseal_026**: Gingerbread Reindeer (M) |
-| 22:40 | **savhrtlocket**: Shrew (NR) | **MizkuAlwaysClears74**: Ram (NR), Sheeeeep (FR), Pig (FR), Dragonfruit Fox |
-| 22:40 | **ponyelgamer**: Modern Mansion | **Dash35813**: Ride-A-Pet Potion |
-| 22:40 | **love_sry0**: Cabbit (R) | **rotpargamer**: Werewolf (R), Ride-A-Pet Potion ×7 |
+| 22:55 | **maybetryitlater**: Strawberry Shortcake Bat Dragon (NFR) | **fluffyunicorns_932**: Strawberry Shortcake Bat Dragon (N) |
+| 22:55 | **zxl0106**: Ride-A-Pet Potion | **Aslie_17**: Pupcicle |
+| 22:55 | **rilaxlly**: Hyena (R), Brown Bear, Ride-A-Pet Potion, Well, Actually Walrus Sticker | **papaw02468**: Alley Cat, Goat (R) |
+| 22:55 | **mochiloV7**: Ride-A-Pet Potion | **kytsune7777**: Stray Cat Dragon ×10 |
+| 22:55 | **renscutealt**: Fairy Bat Dragon (FR) | **BloodMenCloud**: Cabbit (FR) |
+| 22:55 | **HE4RTluvss**: Blue Whale, Chameleon, Purrowl, Shiba Inu, Bobageist, Gumball Caterpillar, Princess Mare, Show Pony, Cherub Chipmunk, Starfish, Onza, Skelebat, Puma, Fennec Fox, Budgie Witch, Icy Porcupine, White Choccybunny, Boohoo | **lera5132**: Ride-A-Pet Potion |
+| 22:55 | **C0PHYAK**: Reindeer (R), Blue Dog (NR), Hyena (R), Ride-A-Pet Potion | **Artem_21a2**: Turtle (FR) ×2 |
+| 22:55 | **renscutealt**: Dragonfruit Fox, Harp Seal | **amirb1577leilei**: Latte Kitsune |
+| 22:55 | **fifi_kikie**: Emperor Gorilla (MFR) | **Idkwho_amIrll**: Nessie (MFR), Llama (MFR), Turkey (MFR), Tiny Wings |
+| 22:55 | **pxurifiedtoxin**: Kangaroo (NFR), Hot Doggo (R), Goose (FR), Jellyfish (NFR), Strawberry Tortle (FR), Sugar Glider (FR), Cow (R), 2022 Birthday Party Hat, Frostbite Bear, French Bulldog (MFR), Red Dutch Guinea Pig (NR), Moose Calf (NR), Black-Chested Pheasant (R), Pet Handler Pro Certificate | **0bvxghost**: Crow (NFR) |
+| 22:55 | **Altaccountamvgg1**: Mermicorn (FR), Candy Hare | **helloitmii**: Frostbite Bear (FR) |
+| 22:55 | **fallawwi**: Diamond Unicorn, Clumpty (M), Galapagos Sea Lion (M), Mummy Spider (N), Purrowl, Orangutan (N), Diamond Mahi Mahi | **enhy12345678**: Ride-A-Pet Potion |
+| 22:55 | **Thresh_1234**: Ride-A-Pet Potion ×2, Easter 2020 Egg | **Tree092109**: Fly-A-Pet Potion ×2 |
+| 22:55 | **Aggr0berlin**: Emu (N), Ermine (NR), Fire Foal (N), Zodiac Minion Chick | **Candelalapro11213**: Leviathan (R) |
+| 22:55 | **addmymain_adoptme2**: Fly-A-Pet Potion, Bready Necklace | **DrizzledTxffee**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
