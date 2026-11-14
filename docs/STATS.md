@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 04:40 UTC by the scrape workflow._
+_Updated 2026-11-14 04:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 04:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 27,207 | 2026-11-14T04:30 |
-| elve | 4 | 5,821 | 2026-11-14T04:31 |
+| amvgg | 4 | 27,452 | 2026-11-14T04:45 |
+| elve | 4 | 5,835 | 2026-11-14T04:45 |
 
-## AMVGG completed trades: 11,094 total
+## AMVGG completed trades: 11,101 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 849 |
+| 2026-11-14 | 856 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,13 @@ _Updated 2026-11-14 04:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:45 | **hisforeverndalways**: Goose (R) | **kaylamicmi**: Peppermint Penguin (FR) |
+| 04:45 | **Omar2002548**: Zombie Wolf | **sleepysyamz**: Pupcicle |
+| 04:45 | **Hii_meow13ue**: Kaijunior (M) | **Aslie_17**: Ride-A-Pet Potion |
+| 04:45 | **Frank_11203**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Pro Ghost Blaster | **MatiXD12306**: Arctic Reindeer (FR) |
+| 04:45 | **Kktr690**: Granny Wolf (N), Budgie Witch (N) | **Ronni11103**: Skelicorn |
+| 04:45 | **el_williams000**: Purple & Green Beads | **A1aro237**: Skelicorn |
+| 04:45 | **bloomysweetea**: Pupcicle ×7 | **ikabackflip**: Munchkin Cat |
 | 04:40 | **SupercoolAliyah5**: Pink Cat Ear Headphones | **Aslie_17**: Ride-A-Pet Potion |
 | 04:40 | **Trixcaughtlackin**: Giraffe (FR) | **Utenok_Jackii**: Dalmatian (FR) ×2, Cow (FR), Cow (R), Cow ×3, Kangaroo (FR) ×2, Alpaca, Elephant (FR), Munchkin Cat (FR) |
 | 04:40 | **SoyShiro1234**: Dalmatian (FR), Black Scooter, Thunderfisher (N) ×2 | **trendypopcon**: Dalmatian (FR) |
@@ -37,13 +44,6 @@ _Updated 2026-11-14 04:40 UTC by the scrape workflow._
 | 04:40 | **kohvhvv**: Kangaroo (FR), Ride-A-Pet Potion | **R4kert**: Flamingo (FR) |
 | 04:40 | **anekalubitnaruto**: Husky (MFR), Unicorn, Shoebill (M) | **5m0ya**: Candicorn (NFR) |
 | 04:40 | **xxjohnjokexx**: Goose, Peppermint Penguin, Peppermint Penguin (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **dylanmarley28**: Evil Unicorn (FR) |
-| 04:36 | **enchantedxmira**: Goose (FR) | **hanb3ki**: Orange Butterfly (MFR), Highland Cow (MR), Strawberry Shortcake Ducky (MFR), Pet Handler Pro Certificate, Ride-A-Pet Potion |
-| 04:36 | **jatikat**: Goat (R), Fly-A-Pet Potion, Mrs. Whiskerpips (N) | **bassie123284**: Cupid Dragon (FR) |
-| 04:36 | **ABOBASADA**: Copycat, Ride-A-Pet Potion ×2 | **zxl0106**: Pig (R) |
-| 04:36 | **Kyrae_onatirade**: Patchy Bear (MR) | **Unboxing2akk**: Pupcicle |
-| 04:36 | **pawwiexd**: Bauble Buddies, King Bee (F) | **16y97**: Ride-A-Pet Potion |
-| 04:36 | **2creme1sucre**: Unicorn Horn | **Urfavorite1225**: Siamese Cat (FR) |
-| 04:36 | **Geigekbsoh**: Candy Cannon, Egg Stroller, Pumpkin | **ARON00808**: Owl (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
