@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 18:55 UTC by the scrape workflow._
+_Updated 2026-11-14 19:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 18:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 41,862 | 2026-11-14T18:45 |
-| elve | 4 | 9,038 | 2026-11-14T18:45 |
+| amvgg | 4 | 42,138 | 2026-11-14T19:00 |
+| elve | 4 | 9,102 | 2026-11-14T19:01 |
 
-## AMVGG completed trades: 14,753 total
+## AMVGG completed trades: 14,802 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 4,508 |
+| 2026-11-14 | 4,557 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 18:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:55 | **Bay201Bay**: Strawberry Shortcake Bat Dragon (FR), Cow (FR) ×3, Chef Hat, Jeff's Nametag | **gogo549**: Giant Panda (FR) |
-| 18:55 | **roll_gurly**: Pet Handler Pro Certificate ×17 | **Youdi_off**: Cow (FR) |
-| 18:55 | **OJC_Star45**: Ride-A-Pet Potion ×2 | **diannwx09**: Fleur De Ice (N) |
-| 18:55 | **Nathan221220**: Giant Panda (FR), Parrot (FR), Haetae (FR), 2022 Birthday Party Hat ×2, Unicorn Horn | **vanyagames_yt**: Strawberry Tortle (MFR) |
-| 18:55 | **Bobo_Tsuya**: Frostbite Bear (R) ×3 | **TashaCutiXD**: Arctic Reindeer (FR) |
-| 18:55 | **Sianacooll**: Admin Abuse Egg ×15, Retired Egg, Cracked Egg ×2 | **TheRealShowSpeedy27**: Dragon |
-| 18:55 | **mistfulmemorie**: Pupcicle (R), Kiwi Kiwi, Cattuccino | **SelfL0vktwt**: Fly-A-Pet Potion |
-| 18:55 | **Green_cocoa1**: Skelicorn (N), Rainbow Trout (M), Puffer Fish | **LYIZA_1976**: Pet Handler Pro Certificate |
-| 18:50 | **flash5362**: Dragonfruit Fox (N), Copycat (FR) | **grlfri7nd**: Flash Weasel (FR) |
-| 18:50 | **leoegern40**: Chocolate Chip Bat Dragon (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **SamXweirdo**: Platypus (MFR) |
-| 18:50 | **envitiee**: Brown Springer Spaniel (MFR) | **WORTHY4_KAT**: Unicorn Horn |
-| 18:50 | **azucar4574l**: Admin Abuse Egg ×18 | **notm4ddieee**: Ride-A-Pet Potion |
-| 18:50 | **7nillvhatessoren**: Husky (MFR), Ram (MFR) | **sikekat1e**: Strawberry Shortcake Bat Dragon (FR) |
-| 18:50 | **clumsibunsi**: Ride-A-Pet Potion | **MyStarPets1**: Ice Cream Stroller |
-| 18:50 | **Varenik_zabivnoi**: Ride-A-Pet Potion ×2 | **arseniylolol**: Husky (R) |
+| 19:00 | **YOKOZ303**: Ghostly Cat (NR) | **Angel_rainmonster**: Fly-A-Pet Potion |
+| 19:00 | **haggynionn**: Ride-A-Pet Potion ×4 | **Skiaksn**: Santa Hat |
+| 19:00 | **Ruperto_1297**: Ride-A-Pet Potion ×2 | **lola_bear1995**: Pupcicle ×2 |
+| 19:00 | **Omar2002548**: Christmas Pudding Pup | **Lillyrosegold1211**: Pupcicle ×6 |
+| 19:00 | **kourabies31415**: Kangaroo (FR), Candicorn (R) | **szoozin**: Goose (FR) |
+| 19:00 | **OBV1LUCA**: Bat Dragon (NFR), Alley Cat (MFR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **auroraluvqs**: Bat Dragon (FR), Strawberry Shortcake Bat Dragon (MFR), Giraffe (FR), Cow (MFR), Balloon Unicorn (FR) |
+| 19:00 | **Brooklyn_Ohio**: Sugar Glider (FR) | **Ez50**: 2022 Birthday Party Hat, Ride-A-Pet Potion |
+| 19:00 | **Afkkziyad**: Parrot (FR), Peppermint Penguin ×2, Grim Dragon (FR) | **Nathan221220**: Frost Unicorn (MFR) |
+| 19:00 | **oceancvl**: Retired Egg ×18 | **avlxdk**: Chihuahua |
+| 19:00 | **Maydan6**: Fly-A-Pet Potion, Admin Abuse Egg ×9 | **Katarinamartino**: Ride-A-Pet Potion ×2 |
+| 19:00 | **cute_babess**: Mouse (M), Angus Cow (M), Purrowl | **sjak696**: Ride-A-Pet Potion |
+| 19:00 | **Sina8997**: Slime (R) | **sjak696**: Kitty Biscuit ×2 |
+| 19:00 | **xxDeAdSoS1Sxx**: Orca, Frozen Penguin, Corgi, Swordfish, Robot, Black-Footed Ferret, Badger ×2, Thunderfisher ×2, Bunny ×2, Mummy Spider ×3, Ox, Bullfrog, Bandicoot | **LucyySilvermoon**: Ride-A-Pet Potion |
+| 19:00 | **pxrczl**: Haetyphoon (M), Aurora Fox (MFR), Christmas Pudding Pup (MR), Copycat (MFR), Arctic Dusk Dragon (MFR), Glacier Kitsune (MFR), Fairy Bat Dragon (FR), Goldhorn (NR), Fly-A-Pet Potion, Snowball Pug (MR) | **MarcusTradesAMVGG**: Bat Dragon (FR) |
+| 19:00 | **Yumi_Rose8**: Pet Handler Pro Certificate ×2 | **Chris_Brent22**: Lava Dragon (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
