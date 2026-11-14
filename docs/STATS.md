@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-14 21:40 UTC by the scrape workflow._
+_Updated 2026-11-14 21:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 10 | 2026-11-11T1036Z | 2026-11-14T0045Z |
-| amvgg | 21 | 2026-11-11T1036Z | 2026-11-14T2045Z |
+| amvgg | 22 | 2026-11-11T1036Z | 2026-11-14T2145Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 44,739 | 2026-11-14T21:30 |
-| elve | 4 | 9,713 | 2026-11-14T21:31 |
+| amvgg | 4 | 45,007 | 2026-11-14T21:45 |
+| elve | 4 | 9,731 | 2026-11-14T21:45 |
 
-## AMVGG completed trades: 15,563 total
+## AMVGG completed trades: 15,612 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,318 |
+| 2026-11-14 | 5,367 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 21:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:36 | **Klaysi_flayra**: Huntsman Robin ×2, Ancient Dragon, Corgi (N), Kakapo (N), Badger (N), Orangutan (N), Purrowl ×2, Villain Gibbon | **amyggvaI**: Ride-A-Pet Potion |
-| 21:36 | **Tu_enanoxx16**: Cerberus (MFR) | **AutoTradeCommission**: Firefly (MFR), Flaming Zebra (M) |
-| 21:36 | **mqlatimbunx**: Dog House Stroller, Triple Stroller, Red Wagon Stroller, High Heel Stroller, Donut Stroller | **luni1234990567**: Pupcicle |
-| 21:36 | **cloe76547**: Gemstone Egg | **madurra012**: Banana Car |
-| 21:36 | **s0larzxxxx**: Pupcicle ×16 | **Erandi_001**: Unicorn Horn |
-| 21:36 | **qwerx0we**: Admin Abuse Egg ×13, Paint Sealer ×2, Caramelgeist (M), Mummy Spider (N), Crystal Egg | **makaka3901**: Ride-A-Pet Potion |
-| 21:30 | **Sona_tnm**: Mushroom Friend ×2 | **Xxxcottoncandyxx223**: Royal Desert Egg |
-| 21:30 | **smoothlike_butter234**: Lamb | **XSad_CharaX**: Ride-A-Pet Potion |
-| 21:30 | **seb_ihhh**: Stray Cat Dragon ×18 | **gggpppgggppp1**: Fly-A-Pet Potion |
-| 21:30 | **HAIELEY_hei**: Count Slothula | **Angel_perez12345**: Naga Dragon |
-| 21:30 | **imreaIIIypretty**: Albino Monkey (MFR), Turtle (MFR) | **higuysitskobe**: Goat (MFR), Owlbear (MFR), Hare (MFR), Unicorn Horn |
-| 21:30 | **furunkl99**: Vanilla Penguin (NR), Ride-A-Pet Potion | **imreaIIIypretty**: Copycat |
-| 21:30 | **FRIK_RR**: Mighty Haetyphoon Animated Sticker | **cat_cheek158**: Ride-A-Pet Potion |
-| 21:30 | **Lazurit_993**: Blazing Lion (R), Ride-A-Pet Potion | **Livxhze**: Haetae (FR) |
-| 21:30 | **hayleydoescheer**: Hammerhead Shark (MFR) | **6evesvokhaha**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 21:45 | **Yakkuji**: Border Collie (R) | **Traitor2510**: Pig (R), Glacier Kitsune (FR), Pinkypillar (M) |
+| 21:45 | **ViperOfTheUnderworld**: Aurora Fox (MFR) | **reni2912**: Chocolate Dutch Guinea Pig (MFR), Cerberus (MFR), Slime (MFR), Latte Kitsune (NFR), Ring-Tailed Lemur (NFR) |
+| 21:45 | **floraxlbee**: Crystal Egg ×15 | **meowwwwwww326**: Ride-A-Pet Potion |
+| 21:45 | **al_exdsi**: Ride-A-Pet Potion | **Tasy_Ily**: Gargoyle |
+| 21:45 | **radkiitty**: Ride-A-Pet Potion | **eeliasxcx**: Pupcicle |
+| 21:45 | **Allieiiiwiw**: Paint Sealer ×2 | **assapickle**: Alicorn |
+| 21:45 | **0live2oo9**: Irish Elk (M) | **ghxstlillies**: Pudding Cat (M) |
+| 21:45 | **lulusvc8**: Mini Pig (FR), Albino Monkey (FR), Toasty Red Panda (MFR), Turkey (MFR), Alley Cat (N), Shrew (NFR), Polar Bear (FR), Arctic Fox (NR), Chicken (NFR), White Sand Dollar (NR) | **sleepy_s0ren**: Crow (FR) |
+| 21:45 | **Hewdry**: Frost Fury (FR), Amami Rabbit, Tarsier | **Halaaa7397**: Copycat |
+| 21:45 | **Cutesy_BEONCEY**: Cryptid (FR) | **HGJohnson13**: Turtle (NFR), Rainbow Maker |
+| 21:45 | **ich_binda00**: Ride-A-Pet Potion, Admin Abuse Egg ×2 | **razarvale2z**: Pain au Chat ×3 |
+| 21:45 | **gggpppgggppp1**: Chestnut Glyptodon (M), Glyptodon Ducky (M) | **DrinklngMilk**: Pet Handler Pro Certificate |
+| 21:45 | **caxar_ok2351**: Haetae (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3, Halloween Chick Box | **Livxhze**: Blazing Lion (FR) |
+| 21:45 | **kaibodydump**: Dire Wolf (M), Liger (M), Angus Calf (M), Hammerhead Shark (MR), Turtle Doves (M), Forest Sprite (M), White Amazon (MFR) | **kok225677**:  |
+| 21:45 | **lotiedoll**: Fairy Bat Dragon (MFR), Crocodile (R) | **y0urquican**: Parrot (FR), Hedgehog (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
