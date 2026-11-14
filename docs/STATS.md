@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 07:25 UTC by the scrape workflow._
+_Updated 2026-11-14 07:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 07:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 29,832 | 2026-11-14T07:15 |
-| elve | 4 | 6,297 | 2026-11-14T07:16 |
+| amvgg | 4 | 30,093 | 2026-11-14T07:30 |
+| elve | 4 | 6,367 | 2026-11-14T07:31 |
 
-## AMVGG completed trades: 11,505 total
+## AMVGG completed trades: 11,519 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,260 |
+| 2026-11-14 | 1,274 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 07:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:30 | **CLOBO_PACANA931**: Goat (FR) | **Reyeyerafifp**: Copycat (R) |
+| 07:30 | **cutepandafluffye**: Axolotl (MFR), Influencer Gibbon (MFR), Ice Cream Cone Hat, Ghostly Cat (MFR), Scarebear (NR), Ride-A-Pet Potion | **Flamingoohohohohohox**: Latte Kitsune (MFR) |
+| 07:30 | **Ethernaces**: Fly-A-Pet Potion | **RiordanFan19**: Pet Handler Pro Certificate |
+| 07:30 | **IzmajlovaDarina65**: Copycat (FR), Pupcicle (FR), Thunderfisher ×4 | **Zuminkikiki**: Munchkin Cat (R) |
+| 07:30 | **eva_rokstar0**: Ride-A-Pet Potion ×5 | **Qu33nDQCrimsonO19932**: Chihuahua ×12 |
+| 07:30 | **ameyyass**: Pupcicle, Fairytale Egg | **Fidelia2131415**: Ride-A-Pet Potion |
+| 07:30 | **odading12318**: Cow (R) | **syxnonym**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion |
+| 07:30 | **Xxxxashhhh**: Fly-A-Pet Potion | **syxnonym**: Candy Hare |
+| 07:30 | **rufamayg**: Peacock (FR), Lionfish (R), Black-Footed Ferret (N), Pangolin (N) | **batspyv**: Ride-A-Pet Potion ×2 |
+| 07:30 | **Viktoria_11942**: Kangaroo (FR) | **Oliviakitti3003**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate ×5 |
+| 07:30 | **ImhereforAdoptme223**: Pupcicle ×7 | **M0tiSp0t**: Spring Bunny Hood, Ride-A-Pet Potion ×2, Bloodhound ×3, General Sheepdog |
+| 07:30 | **QheloQ**: Retired Egg ×18 | **MoonintheEarth_Luna**: Admin Abuse Egg ×9 |
+| 07:30 | **flanconleche40**: Goth Shoes | **xWobbers**: Pupcicle ×3 |
+| 07:30 | **crispy_zzang**: Ride-A-Pet Potion | **hiledina1**: Pupcicle |
 | 07:25 | **odading12318**: Kangaroo (FR) | **Kitsune2287**: Fly-A-Pet Potion ×9 |
-| 07:25 | **KinaToons**: Flash Weasel | **safir_va**: Snowball Pet (MFR), Starfish (MFR) |
-| 07:25 | **odading12318**: Cabbit (R) | **userulikk**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate ×2, Goat (R) |
-| 07:25 | **Addmymainamv**: Hedgehog (NFR), Sakura Spirit (FR), Giant Anteater, Robo Dog (NFR), Thinking Hat, Cotton Candy Hat, Back Taco ×2 | **isabella68078**: Frost Dragon (FR) |
-| 07:25 | **odading12318**: Cabbit (R) | **Kitsune2287**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×9 |
-| 07:25 | **Marwaxadoptme**: Bunny Swirl (F) | **themudwizard**: Ride-A-Pet Potion |
-| 07:21 | **Viktoria_11942**: Hedgehog (FR) | **pasha_zara**: Arctic Reindeer (FR), Kangaroo (FR), Fly-A-Pet Potion ×2 |
-| 07:21 | **Taysha_cool**: Pupcicle ×2, Pupcicle (N) | **Xxmizuki_tanxX**: Copycat |
-| 07:21 | **darklightermooni9**: Mermicorn (R), Ride-A-Pet Potion, White Chef Hat, Tanuki | **Kiffy_nanamineOwO**: Jester Dragon (NFR) |
-| 07:21 | **henrissy0**: Cow (FR) | **tufvfffdjdg**: Fly-A-Pet Potion ×16 |
-| 07:21 | **sickfreak231**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Cabbit (FR), Siamese Cat (NFR), Christmas Pudding Pup (R), Christmas Pudding Pup ×2, Polar Bear (N), Shark Puppy (R), Reindeer (N), Ghost Bunny (N), Zombie Wolf (N), Chicken (NR), Monkey (NR), Munchkin Cat (R), Ocean Egg, Southeast Asia Egg ×2 | **3SLYOUSSEF**: Frost Dragon (FR) |
-| 07:21 | **invalid1970**: Shrew (FR) | **cherrysRin**: Phantom Dragon (FR) |
-| 07:21 | **K1MM007**: Pupcicle (N), Pupcicle ×12, Ride-A-Pet Potion, Fly-A-Pet Potion | **IidoxxiniI**: Phoenix (MFR), Choco Penguin (MFR) |
-| 07:21 | **pawlakdobry**: Arctic Fox (FR), Unicorn | **VelenoDiVipera**: Munchkin Cat |
-| 07:21 | **rrrsuna**: Harp Seal (N) | **Morgzz418**: Spring Bunny Hood, Spring Bunny Feet |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
