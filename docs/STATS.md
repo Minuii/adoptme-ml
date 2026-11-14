@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 15:25 UTC by the scrape workflow._
+_Updated 2026-11-14 15:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 15:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 38,113 | 2026-11-14T15:15 |
-| elve | 4 | 8,185 | 2026-11-14T15:16 |
+| amvgg | 4 | 38,388 | 2026-11-14T15:30 |
+| elve | 4 | 8,275 | 2026-11-14T15:31 |
 
-## AMVGG completed trades: 13,586 total
+## AMVGG completed trades: 13,619 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,341 |
+| 2026-11-14 | 3,374 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 15:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:25 | **powerpuggigi**: Munchkin Cat (NR), Turkey (NFR) | **nutellinaforeve**: Mini Pig (FR) |
-| 15:25 | **jetedispas212**: Mini Pig (R), Fairy Bat Dragon (R) | **moral608**: Arctic Reindeer (FR) |
-| 15:25 | **tokki0000**: Frost Dragon (MFR), Shadow Dragon (FR), Strawberry Shortcake Bat Dragon (FR) | **yesterboni0**: Bat Dragon (NFR) |
-| 15:25 | **Davy_Officiel**: Pupcicle (M) | **ETM_TOPG**: Pig (NFR) |
-| 15:25 | **Lerunhi**: Dingo (MFR) | **L1ttl3Mel0dyy**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 15:25 | **yReehxz**: Flaming Fox, Moon Rabbit | **rfhggtfg1**: Ride-A-Pet Potion ×2 |
-| 15:25 | **hellofriendnicetome**: Halo, Ride-A-Pet Potion | **Countmeowww**: Pretty Pony (MFR), Snowball Pet (MFR), Bauble Buddies (MFR) |
-| 15:25 | **quVare_PDF**: Glormy Dolphin (M), Toucan (N), Paint Sealer ×3, Tegu (M) | **woliver83**: Metal Ox (MFR) |
-| 15:25 | **ThunderLegend680**: Gemstone Egg ×2 | **Yvanille_hxvn**: Ride-A-Pet Potion |
-| 15:25 | **sasha_574611**: Pupcicle ×2 | **0qiuxz**: Fly-A-Pet Potion |
-| 15:25 | **Unicornisrobloxhater**: Hippogriff (FR), Harp Seal, Owlbear, Ride-A-Pet Potion ×2 | **LalayS2z**: Arctic Fox (R) |
-| 15:25 | **Haisinberge**: Three Blind Mice ×2, Mexican Wolf (N), Caramelgeist (N), Clumpty (N), Budgie Witch (N), Ms. Muffet (N), Princess Mare (N), Thunderfisher ×2, Fairytale Egg ×5, Pinkypillar ×3 | **papaw02468**: Ride-A-Pet Potion |
-| 15:25 | **tokiplayz_omila**: Crocodile (R) | **payaccandmau**: Tree Kangaroo (NFR), Ghost Dog (N) |
-| 15:25 | **fhkzsz4**: Glormy Leo (R), Ride-A-Pet Potion, Lava Wolf, Chihuahua ×2, Lunar White Tiger (M), Caramelgeist (N), Paint Sealer | **SyndromGG**: Cupid Dragon (FR) |
-| 15:25 | **jebiilerium**: Kangaroo (FR) | **xenovyjay**: Pupcicle ×16 |
+| 15:30 | **rxbyyqrz**: Bat Dragon (FR), Chocolate Chip Bat Dragon (NFR) ×3, Great Pyrenees (MFR), Bunny Swirl (MFR), Ballet Swan, Fly-A-Pet Potion, Snowball Pug (N) | **XxkfirxbushxX**: Frost Dragon (MFR) |
+| 15:30 | **Gem2755**: Pupcicle | **mypneco2020**: Ride-A-Pet Potion |
+| 15:30 | **amaekii**: Munchkin Cat (R), Mule (R), Strawberry Penguin, Kiwi Kiwi (N) | **ho_mayk**: Catte (MFR) |
+| 15:30 | **impsycho1234im**: Panda (MFR), Firefly (MFR) | **pigizak**: Majestic Pony (MFR), Ride-A-Pet Potion |
+| 15:30 | **Hanabi_GaminY2**: Candicorn | **mariasnezinka**: Sakura Spirit (FR), Fly-A-Pet Potion, Goat |
+| 15:30 | **laylla_gamees**: Clementine Owl (N), Stray Cat Dragon (N), Starmite (N), Mochi Meow (N), Robo Dog (N) | **Inf3ction2**: Slimingo (M) |
+| 15:30 | **skxlluxsd**: Frostbite Bear | **anst688**: Irish Water Spaniel (FR), Ride-A-Pet Potion ×14 |
+| 15:30 | **XxSummerxX_0123**: Stray Cat Dragon ×8 | **lolacc1234567890**: Ride-A-Pet Potion |
+| 15:30 | **Glope200**: White Choccybunny (M) | **Rumi_Grlz**: Paint Sealer ×6 |
+| 15:30 | **XxSummerxX_0123**: Catte (M) | **Molosonik**: Candicorn (FR) |
+| 15:30 | **remona223**: Caterpillar (NFR), Mini Pig (FR), Goose, Pig (R), Burger Boots, Duck Floatie, Ride-A-Pet Potion ×5, Dog | **devilqueen2456y7**: African Wild Dog (FR) |
+| 15:30 | **XxSummerxX_0123**: Stray Cat Dragon ×14 | **EMMY_H3**: Ride-A-Pet Potion ×2 |
+| 15:30 | **UnU_Darina1**: Paint Sealer ×14 | **Viphiel**: Ride-A-Pet Potion |
+| 15:30 | **lanaisdelrey**: Dalmatian (MFR), African Wild Dog (MFR), Shadow Dragon (FR), Balloon Unicorn (NFR), Monkey King (MFR), Owl (FR), Parrot, Cryptid (NFR), Cryptid (FR) ×2, Glacier Kitsune (MFR), Aurora Fox (MFR), Orchid Butterfly, Dango Penguins (MFR), Munchkin Cat (MR), Rainbow Maker, African Wild Dog (FR), Husky (FR) | **DogtoNeonFrost423**: Bat Dragon (MFR) |
+| 15:30 | **CEMEH_HOCKOB**: Ride-A-Pet Potion ×2 | **onyx11414**: Dragonfruit Fox |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
