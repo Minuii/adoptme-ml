@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 06:01 UTC by the scrape workflow._
+_Updated 2026-11-14 06:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 06:01 UTC by the scrape workflow._
 | amvgg | 4 | 28,641 | 2026-11-14T06:00 |
 | elve | 4 | 6,054 | 2026-11-14T06:01 |
 
-## AMVGG completed trades: 11,298 total
+## AMVGG completed trades: 11,320 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,053 |
+| 2026-11-14 | 1,075 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 06:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:00 | **Xgamingwith_billiex**: Shark Puppy (R), Pig (R), Ram (N), Unicorn (NFR), Criosphinx (NFR), Ride-A-Pet Potion | **Yupiterd**: Cow (FR) |
-| 06:00 | **turtletofrost7**: Cow (FR), Fairy Bat Dragon (FR) ×3, Frostbite Bear (FR), Kangaroo (FR), Snow Owl (NFR), Fly-A-Pet Potion | **Lalawigan_nery**: Parrot (FR) |
-| 06:00 | **LoriDreamy123**: Cow (FR), Turtle (FR), Pancake Stack | **feliandfio**: Strawberry Shortcake Bat Dragon (FR) |
-| 06:00 | **WillowQueen593**: Copycat (MFR), Cuddly Candle (MFR) | **Pupppy457**: Sakura Spirit (MFR) |
-| 06:00 | **aludraazima2008**: Alicorn (N), Golden Dragon, Ranger Beaver | **quazza2**: Ride-A-Pet Potion |
-| 06:00 | **hexyzbagoc31**: Haetyphoon, Ride-A-Pet Potion | **Keitaro_883**: Kangaroo (FR) |
-| 06:00 | **Alana_enna22**: Brachiosaurus (N), Monkey (N), Bunny (N), Aye Aye (N), Hopbop (N) | **RandomHuman_ll**: Ride-A-Pet Potion |
-| 06:00 | **OJC_Star45**: Count Slothula | **Kami_270308**: Cake Friend |
-| 06:00 | **KFC_C0nya**: Bubblegeist, Chameleon, Huntsman Robin, Mouse (N), Scarlet Butterfly, Princess Mare | **castkids7**: Ride-A-Pet Potion |
-| 06:00 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **lcmhuman**: Flaming Fox (R) |
-| 06:00 | **eeliasxcx**: Naughty Mistletroll (R) | **Wockillzzz2**: Ride-A-Pet Potion ×3 |
-| 06:00 | **LoriDreamy123**: Lion Cub (R), Jester Dragon (R), Frost Fury (FR) ×2, Panda (NFR), Llama, Ice Cream Hermit Crab, Ride-A-Pet Potion | **kaizennnstorrr**: Cow (FR) |
-| 06:00 | **master_10099**: Cow (FR), Christmas Pudding Pup, Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×3 | **BaconetteNoobs**: Strawberry Shortcake Bat Dragon (FR) |
-| 06:00 | **luvyerh**: Elephant | **personal_stalker69**: Crocodile (FR), Ride-A-Pet Potion |
-| 06:00 | **Glitchy3125**: Cabbit (MFR) | **arvxsn**: Strawberry Shortcake Bat Dragon (FR) ×5 |
+| 06:10 | **strawberrz_pie**: Happy Duckling (M), Bunny Swirl (MR), Binturong (M), Pudding Cat (MR), Fly-A-Pet Potion ×2 | **splashqueen02**: Dragonfruit Fox (MFR) |
+| 06:10 | **Elve_ii**: Unicorn Horn, Toaster Hat ×3, Ice Cream Cone Hat, Spring Bunny Nose | **Donutser2**: Rainbow Maker |
+| 06:10 | **himyuseris_oiuujkjhh**: Peppermint Penguin (MFR), Rain Cloud Hat | **Angxlliic_0**: Peppermint Penguin (M) |
+| 06:10 | **yuumiuro**: Matcha Cat | **zpdanila2**: Ride-A-Pet Potion ×5 |
+| 06:10 | **P1nkteeth**: S'mores Raccoon (MFR) | **Yupiterd**: Spring Bunny Hood, Spring Bunny Nose ×2, Spring Bunny Feet ×5 |
+| 06:10 | **as3r4phsz**: Crocodile (NFR), Crocodile (R), 2022 Birthday Party Hat | **Scarybigbearr**: Hippogriff (MFR) ×5 |
+| 06:10 | **Dimash_bash**: Silly Duck | **MrsJane07**: Diamond Hamster |
+| 06:10 | **Shynisocool**: Pet Handler Pro Certificate | **headshotw0**: Wailing Mr. Whiskerpips Sticker, Winter Deer Family Sticker, Long Ermine Sticker, Round Fallow Deer Sticker |
+| 06:10 | **easonchen13**: Santa Hat, Elf Hat | **splashJuggernaut**: Silverback Gorilla |
+| 06:10 | **ikeumw**: Arctic Fox (NFR), Pig (R), Pig (FR), Meerkat (R), Chicken (NFR), Christmas Pudding Pup, Chihuahua (M), Copycat | **LoriDreamy123**: Cow (FR) ×2 |
+| 06:06 | **adoptmerewardsjesse**: Catte, Gemstone Egg | **isobelitah**: Chocolate Dutch Guinea Pig |
+| 06:06 | **splashJuggernaut**: Silverback Gorilla (R) | **NatureGirlMB**: Santa Hat |
+| 06:06 | **23333UUII**: Owl (FR), Strawberry Shortcake Bat Dragon, Aussie Egg | **HappyDad786**: Frost Dragon (FR) |
+| 06:06 | **w1lllww**: Strawberry Shortcake Bat Dragon (R), Spring Bunny Hood | **limohq**: Rainbow Maker |
+| 06:06 | **babyspider002**: Owl (FR) | **cutesygabss**: Cow (MFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
