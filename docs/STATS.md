@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 06:31 UTC by the scrape workflow._
+_Updated 2026-11-14 06:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 06:31 UTC by the scrape workflow._
 | amvgg | 4 | 29,121 | 2026-11-14T06:30 |
 | elve | 4 | 6,154 | 2026-11-14T06:31 |
 
-## AMVGG completed trades: 11,359 total
+## AMVGG completed trades: 11,396 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,114 |
+| 2026-11-14 | 1,151 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 06:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:25 | **Hayoun1439**: Munchkin Cat | **blankafruzsina**: Quokka (MFR) |
-| 06:25 | **Yupiterd**: Ride-A-Pet Potion ×15, Pet Handler Pro Certificate ×2 | **shisuiziya**: Frost Unicorn (FR) |
-| 06:25 | **pmpjmg1**: Ride-A-Pet Potion | **mjieoso**: Pupcicle |
-| 06:25 | **lilpepeng150**: Bready Necklace | **moonl1ghtJest3r**: Ride-A-Pet Potion |
-| 06:25 | **croloveerr**: 2D Doggy | **Paifrennnn**: Ride-A-Pet Potion |
-| 06:25 | **Realzholuiq13**: Mouse ×3, Pinkypillar ×3 | **seeyatea11**: Shih Tzu ×3 |
-| 06:25 | **melynagamer3**: Ride-A-Pet Potion | **xxo_2451**: Burger Bear (R) |
-| 06:25 | **LoriDreamy123**: Cow (FR), Cow (R) | **ikeumw**: Arctic Reindeer (FR), Arctic Fox (R) |
-| 06:25 | **ASMR_1585**: Cupid Dragon (MFR), Dolphin (R) | **Scarybigbearr**: Haetae |
-| 06:25 | **ZeroToBillionB**: Ride-A-Pet Potion ×4 | **shfjgkfhskg33**: Halloween White Ghost Dragon (FR) |
-| 06:25 | **PrismaticRio**: Cow (NFR), Cow (FR) ×2, Cow (R), Cow | **M1NKIY**: Owl (FR) |
-| 06:25 | **pmpjmg1**: Field Mouse (R) | **pairofdogs2018**: Pupcicle ×7 |
-| 06:25 | **6767rizzlerskibidoh**: Yeti | **ilybrendaaa**: Pupcicle |
-| 06:25 | **ubnnyz**: Rose Dragon (N) | **stvrestial**: Kiwi Kiwi (M) |
-| 06:25 | **Filbertkanesha**: Brown Springer Spaniel (MFR) | **ivylala00**: Kangaroo (FR) |
+| 06:40 | **robloxwot1490**: Turtle (FR), Candyfloss Chick (FR), Happy Clam (NFR), Lion (FR), Brown Bear (NFR), Groundhog (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **Awte_xx**: Evil Unicorn (FR) |
+| 06:40 | **Slushyunicorn0**: Kiwi (MFR) | **fairyqxfaee**: Unicorn Horn |
+| 06:40 | **qwwertmjf**: Haetyphoon, Flash Weasel (R) | **zxl0106**: Cow (FR) |
+| 06:40 | **gthstnr**: Santa Pet Rock Sticker, Soulfire Animated Sticker, Crystal Egg ×3 | **kakakadis07**: Cherry Blossom Flower Sticker ×4 |
+| 06:40 | **ITSMECINNAADDMEBACKK**: Unicorn ×4 | **Catracha82828291**: Pupcicle ×4 |
+| 06:40 | **pinkytedslovie**: Ride-A-Pet Potion ×3, Classic Trade Stand, Bat Backpack | **Iisaya_9**: Count Slothula (NFR) |
+| 06:40 | **7H3ST**: Pupcicle ×17 | **minsun1313**: Ride-A-Pet Potion ×17 |
+| 06:40 | **CottonCandy_Paul**: Ride-A-Pet Potion | **Soobin_c4kes**: Alien Eyes Hat |
+| 06:40 | **P1nkteeth**: Rain Cloud Hat, Toaster Hat | **yuri_dragon32**: Rose Dragon (N), Midnight Dragon (R), Harp Seal (N) |
+| 06:40 | **JimboPimbo_Esteban**: Goose, Cabbit (R), Sugar Glider | **amaialolwonder**: Arctic Dusk Dragon (MFR) |
+| 06:40 | **alexgameminecraft**: Ride-A-Pet Potion ×3 | **NOBODYknows_1100**: Pupcicle ×3 |
+| 06:40 | **merock56798**: Pupcicle | **amiaaaa20**: Stray Cat Dragon ×8 |
+| 06:40 | **JellaBean13**: Christmas Pudding Pup | **HazeFlash79_YT**: Fly-A-Pet Potion, Ride-A-Pet Potion, Puffer Fish, Ram, Great Pyrenees |
+| 06:40 | **carolzinhac2009**: Diamond King Penguin (FR) | **SPIKI77228**: Pet Handler Pro Certificate |
+| 06:40 | **Andres_agent**: Phantom Dragon (NR), Tuxedo Cat (N), Frost Phoenix (NR), Glacier Kitsune (FR), Tree Kangaroo (NFR), Naga Dragon (NFR), Winged Horse (NFR) | **gffdjddd23_4**: Halloween White Ghost Dragon (MFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
