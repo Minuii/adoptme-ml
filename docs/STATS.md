@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 14:01 UTC by the scrape workflow._
+_Updated 2026-11-14 14:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 14:01 UTC by the scrape workflow._
 | amvgg | 4 | 36,810 | 2026-11-14T14:00 |
 | elve | 4 | 7,844 | 2026-11-14T14:01 |
 
-## AMVGG completed trades: 13,076 total
+## AMVGG completed trades: 13,186 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,831 |
+| 2026-11-14 | 2,941 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:55 | **hwauntdbyu**: African Wild Dog (FR), Balloon Unicorn (NFR), Balloon Unicorn, Flaming Fox (MR), Unicorn Horn | **XxAshleighGamingxX**: Bat Dragon (FR) |
-| 13:55 | **this_davinia**: Buttoned Ushanka | **SkyeRemy0821**: Bee Hive |
-| 13:55 | **Lunaknagg**: Ride-A-Pet Potion ×2 | **tytyruzixs**: Solaris (R) |
-| 13:55 | **sushi_kawaii789**: Tortoiseshell Guinea Pig, Fly-A-Pet Potion, Dragonfruit Fox | **NanoAdoptme9**: Haetyphoon |
-| 13:55 | **Amy_Anna268**: Dango Penguins (MFR), Snowball Pet (MR) | **Altaccount384762524**: Polar Bear (MR) |
-| 13:55 | **NikaFox0403**: Matcha Cat (FR), Hare (MFR), Ermine (MFR), Unicorn Horn | **Amy_Anna268**: Ring-Tailed Lemur (MFR) |
-| 13:55 | **faeriiful**: Fly-A-Pet Potion, Kookaburra (R), Heart Balloon | **trialbunny**: Easter Bunny (MFR) |
-| 13:55 | **Umoyaees**: Naga Dragon (NFR), Hummingbird (M), Polar Bear (FR), Latte Kitsune (FR), Black Moon Bear (MR), Lamb, Chocolate Chip Bat Dragon Backpack, Sushi Penguin, Diamond Dragon (FR), Seabed Creeper, Ribbon Seal (M) | **XzFoxC4CrazeMzX**: 2022 Birthday Party Hat |
-| 13:55 | **TrvstedJaime**: Burger Bear (MR), Fly-A-Pet Potion, Ride-A-Pet Potion | **pr1ncessaq**: Flash Weasel |
-| 13:55 | **shpirtit**: Tio De Nadal, Chocolate Dutch Guinea Pig (MR), Snowball Pet (MFR), Penguin (M), White Amazon (NFR), Kitty Bat (MR), Lavender Dragon (FR), Fly-A-Pet Potion ×2 | **igaao**: Arctic Dusk Dragon (MFR) |
-| 13:55 | **genesisgameryt504**: Fairy Bat Dragon (R) | **igaao**: Pupcicle (MFR) |
-| 13:55 | **irisjgh6**: Frostbite Cub (N) | **LAHNLAHNLAHN**: Pupcicle ×2 |
-| 13:55 | **sorrowpage**: Skunk (N) | **Yourfavourited1mond**: Pupcicle |
-| 13:55 | **KING_TROLLYT0**: Turtle (FR), Ancient Dragon (NFR) | **Puddingxcutoy**: Frostbite Bear (FR) |
-| 13:55 | **XLavenderFlameX**: Harp Seal (N) | **pugq33n23**: Alley Cat ×2 |
+| 14:11 | **wx8zqxx**: Strawberry Shortcake Bat Dragon (FR) | **biq_at222**: Sea Slug (NR), Albino Monkey (FR) |
+| 14:11 | **CaptainMinesweeper**: Strawberry Shortcake Bat Dragon (FR), Cabbit (R) | **bestfriend1234e**: Hedgehog (FR) |
+| 14:11 | **SCARE_SPOOKW**: Border Collie (FR) | **AsianIceCold**: Copycat (R), Copycat, Ride-A-Pet Potion |
+| 14:11 | **fartingpook367**: Munchkin Cat | **twojstarydzikitygrys**: Spring Bunny Hood, Alley Cat (FR), Purple Heart Glasses, Pet Handler Pro Certificate |
+| 14:11 | **66mint_99**: Bald Eagle | **niyashimo**: Pet Handler Pro Certificate ×3 |
+| 14:11 | **rasediva**: Fly-A-Pet Potion | **valentina_nic90**: Dire Wolf (M) |
+| 14:11 | **Nastya_367367**: Pig (FR) | **littleulian**: Copycat (R), Spring Bunny Feet, Kitty Bat, Soulfire Animated Sticker |
+| 14:11 | **Kenny_thealien**: Peppermint Penguin (NFR), 2022 Birthday Party Hat | **its_saminaaaa**: Angel Wings, Unicorn Horn ×3, 2022 Birthday Cake |
+| 14:11 | **BosnianGirl_09**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 | **Nutellagua**: Border Collie |
+| 14:11 | **KsyushaBelova**: Dragonfruit Fox, Cerberus (FR), Ride-A-Pet Potion | **yRafah_Bloxinha**: Ice Cream Cone Hat |
+| 14:11 | **vxzzz632**: Ride-A-Pet Potion ×4 | **Dash_2023crashh**: Maine Coon (M) |
+| 14:11 | **tommylikeroblox2009**: Gemstone Egg, Diamond Egg | **mmmaattthhheeeooo**: Ride-A-Pet Potion |
+| 14:11 | **Stephanie58241**: Crocodile (MFR) | **maleketchahinez**: African Wild Dog (FR) |
+| 14:11 | **Kurre0157**: Bubblegeist, Golden Dragon | **kaky09**: Heart Hoverboard |
+| 14:11 | **LenkaaaC**: Gemstone Egg, Purrowl, Chihuahua | **disgIory**: Pupcicle |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
