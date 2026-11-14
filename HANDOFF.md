@@ -109,7 +109,7 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 
 ## Next steps
 
-1. **Forecast lags a day (found 14 Nov):** the first automatic `forecast.yml` run worked (all horizons + amvgg trial), but its "as of" stays a day behind and it rewrites the previous day's log, because `daily_values` stops at the newest log day minus one. Fix: end at the last complete UTC day. See log.md.
+1. **Forecast lag fixed (14 Nov):** the panel now ends at the last UTC day finished when the bot last read Elvebredd (`elve_model.last_complete_day`, from `data/values/checked.txt`), so the 01:00 run is "as of" yesterday. Check tomorrow that `results/direction_30d.csv` says as of 14 Nov.
 2. **Live track record: built (2026-11-13) for 7 / 30 / 90 days; first results 20 Nov (7 d), 13 Dec (30 d), 11 Feb (90 d).** `forecast.yml` saves each day's calls to `results/forecast_log/30d/<day>.csv.gz` (~33 KB a day); `track_record.py` scores a day once its 30 days are over, from the site's own Elvebredd snapshots, with the backtest's definitions; the Stats tab shows it ("Forecast track record (live)"). Check on 13 Dec that the first day scores, then judge it over months against the test (44% up / 53% down / top 20 +14%).
 3. **20 Nov:** the scheduled local task `adoptme-check-7day-top20` fills `checks/top20_rise_7d_2026-11-12.xlsx` and logs the result (one week, 20 pets: a small sample).
 4. README: done (2026-11-13). Keep its results table in step with new tests and the live track record.

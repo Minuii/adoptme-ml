@@ -81,6 +81,17 @@ def amvgg_pet_keys():
     return {scraper.item_key(i["name"]) for i in json.loads(gzip.decompress(f.read_bytes())) if i.get("kind", "pets") == "pets"}
 
 
+def last_complete_day(log):
+    """The last UTC day that had ended when the bot last read Elvebredd (data/values/checked.txt, hourly; the change log
+    is read on the same run). Elvebredd posts its updates late in the evening, so "newest log day minus one" left the
+    forecast a day behind every morning (found 2026-11-14). Without checked.txt: the old rule."""
+    checked = scraper.DATA / "values" / "checked.txt"
+    if checked.exists():
+        at = pd.to_datetime(checked.read_text(encoding="utf-8").strip(), format="%Y-%m-%dT%H%MZ")
+        return at.normalize() - pd.Timedelta(days=1)
+    return log.day.max() - pd.Timedelta(days=1)
+
+
 def daily_values(log):
     """Wide matrix: rows = days, columns = (pet, variant), value at end of day. NaN before a pet's release."""
     snap = scraper.load_values("elve")
@@ -96,7 +107,7 @@ def daily_values(log):
     rarity = dict(zip(snap.name, snap.rarity))
 
     log = log.assign(day=log.effectiveAt.dt.tz_convert(None).dt.normalize())
-    days = pd.date_range(log.day.min(), log.day.max() - pd.Timedelta(days=1))  # the last day may be incomplete
+    days = pd.date_range(log.day.min(), last_complete_day(log))
     log = log[log.day <= days[-1]]
     pairs = sorted(set(zip(today.name, today.label)) | set(zip(log.name, log.label)))
     cols = pd.MultiIndex.from_tuples(pairs, names=["name", "label"])
