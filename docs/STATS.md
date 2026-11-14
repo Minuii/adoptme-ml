@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 20:31 UTC by the scrape workflow._
+_Updated 2026-11-14 20:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 20:31 UTC by the scrape workflow._
 | amvgg | 4 | 43,712 | 2026-11-14T20:30 |
 | elve | 4 | 9,483 | 2026-11-14T20:31 |
 
-## AMVGG completed trades: 15,239 total
+## AMVGG completed trades: 15,315 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 4,994 |
+| 2026-11-14 | 5,070 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 20:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:30 | **ameliacaumeil**: Alpaca | **OlaPL5432151**: Winged Tiger, Arctic Fox |
-| 20:30 | **Youdi_off**: Pet Handler Pro Certificate, Fly-A-Pet Potion ×2 | **MEMESHKAILBRINX**: Frost Fury (FR) |
-| 20:30 | **CbonLesPates1**: Alley Cat | **ellielielielieee**: Burger Boots, Bunny Plush, Rain Hat, White Chef Hat |
-| 20:30 | **arqvve1**: Gecko (M), Fly-A-Pet Potion | **blake_shortie**: Gecko (MFR) |
-| 20:30 | **Omar2002548**: Sheeeeep (R) | **wondet7654**: Tortuga de la Isla |
-| 20:30 | **Artem_21a2**: Copycat ×2, Rhino ×3, Ride-A-Pet Potion | **BREEZY_LOVER1**: Kangaroo (FR) |
-| 20:30 | **Amala_basy0**: Crow (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **speedrunner42100**: Giant Panda (FR) |
-| 20:30 | **aestumi**: Siamese Cat (FR), Fly-A-Pet Potion | **renscutealt**: Turtle (FR) |
-| 20:25 | **carolzaothecreator**: Ride-A-Pet Potion | **FiresMiress**: Gold Fairy Crown |
-| 20:25 | **sofiaproooooou**: Cow (FR), Cow ×2, Turtle (FR), Turtle, Munchkin Cat, Fly-A-Pet Potion ×2 | **sunbug7**: Crow (FR) |
-| 20:25 | **Kurre0157**: Ride-A-Pet Potion | **1C_ON**: Rainbow Stroller |
-| 20:25 | **Jckiezzalttt**: Chocolate Dutch Guinea Pig (MFR), Jester Dragon (NFR), Alpaca, Candicorn (FR), Alley Cat (NR), Jester Dragon | **FaZeTysonF**: Cryptid (FR) |
-| 20:25 | **Larisa_DiecooleSocke**: Christmas Egg, Ghost Dog (MFR), Scarlet Butterfly (MR) | **FaZeTysonF**: Mini Pig |
-| 20:25 | **WintErSnowy1**: Ride-A-Pet Potion | **Lola_ant34**: Sea Turtle, Dragon ×3, Purrowl ×4 |
-| 20:25 | **viktoriapotrivay**: Hammerhead Shark (M), Bakeneko (MR), Ride-A-Pet Potion ×2 | **Dennis_1170**: Frost Fury (FR) |
+| 20:40 | **x3Snuggle_Bunnyx3**: Count Slothula ×4, Irish Elk ×2 | **RubyAliceBoo**: Pupcicle ×4 |
+| 20:40 | **v1l0xxx**: Great Pyrenees, Magic House Door | **themudwizard**: Ride-A-Pet Potion |
+| 20:40 | **hayleydoescheer**: Ride-A-Pet Potion | **Brooklyn_Ohio**: Capybara |
+| 20:40 | **Yumi_Rose8**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **xXElizabethPrecious**: Halloween White Ghost Dragon (FR) |
+| 20:40 | **KittyC6t21**: Balloon Unicorn (FR), Aurora Fox (MFR) | **ARCA_DIUM**: Cryptid (NFR) |
+| 20:40 | **tiotagrysha**: Munchkin Cat (FR), Pig (R), Royal Corgi (FR) | **wery123416**: Pig (NR), Bready Necklace |
+| 20:40 | **AprilMaeJune0**: Jester Dragon (NFR) | **Your_girly23**: Pupcicle (MFR) |
+| 20:40 | **chip40060**: Picnic Basket | **lilliab1997**: Pine Marten (R) |
+| 20:40 | **Dustin_Steve14**: Cryptid, Cerberus (NFR), Border Collie (FR) | **terrylonsoyjerry**: Candicorn (MFR) |
+| 20:40 | **Adoptmestocks3000**: Flamingo (R) | **Soso4ka004**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion |
+| 20:40 | **apples_oopp1**: Dalmatian (FR), Copycat | **itz_grigoriy**: Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Hat |
+| 20:40 | **natesctrl**: Owl (MFR), Mermicorn (MFR), Border Collie (MFR) ×2, Sakura Spirit (MFR), Cupid Dragon (MFR), Shrew (MFR), Shark Puppy (MFR), Ring-Tailed Lemur (MFR), Candicorn (NR), Bat Dragon (NFR), Jellyfish (MFR), Cryptid (FR), Parrot (NFR), Fairy Bat Dragon (NFR), Sakura Spirit (R), Fairy Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **kiostockers**: Bat Dragon (MFR) |
+| 20:40 | **mirosxjsna**: King Bee (R) | **XXITS_BLUEXX0YT**: Super Saru |
+| 20:40 | **shainikss**: Turtle (FR), Elephant, Arctic Fox (R), Pig, Lion Cub, Hare (FR), Ride-A-Pet Potion ×2, Boohoo (M), Purrowl (N) | **mommy_vka123**: Arctic Reindeer (FR) |
+| 20:40 | **Nel_13415**: Glacier Kitsune (R) | **XXITS_BLUEXX0YT**: Matcha Cat (R) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
