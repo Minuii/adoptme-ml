@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 18:31 UTC by the scrape workflow._
+_Updated 2026-11-14 18:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 18:31 UTC by the scrape workflow._
 | amvgg | 4 | 41,578 | 2026-11-14T18:30 |
 | elve | 4 | 9,008 | 2026-11-14T18:31 |
 
-## AMVGG completed trades: 14,607 total
+## AMVGG completed trades: 14,693 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 4,362 |
+| 2026-11-14 | 4,448 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 18:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:30 | **FXYZOP4**: Albino Monkey (MFR), Frost Fury (FR) | **EditorForeverlol**: Jungle Egg, Christmas Egg, Goose (NFR) |
-| 18:30 | **SpiritualMary10**: Copycat (N), Kitty Bat (MFR), Ride-A-Pet Potion | **Urfavorite1225**: Candicorn (NFR) |
-| 18:30 | **carnivoro_fuerte**: Rainbow Maker, Shadow Dragon Ducky (MFR), Halloween White Ghost Dragon (FR), 2026 Birthday Butterfly (MR), Lunar Tiger (MR), Ribbon Seal (MR) | **AmvggPi0n41K**: Mermicorn (NR) |
-| 18:30 | **Tree092109**: Fly-A-Pet Potion | **gggpppgggppp1**: Ride-A-Pet Potion, Christmas Future Egg |
-| 18:30 | **stellabrinasofia**: Magic House Door, Classic Trade Stand, Strawberry Shortcake Bow | **POMAHA948**: Pink Cat Ear Headphones |
-| 18:30 | **Tree092109**: Fly-A-Pet Potion | **nicoleta171727**: Gemstone Egg, Ride-A-Pet Potion |
-| 18:30 | **Scar_3090**: Happy Duckling (MR), Nightmare Owl (MR), Blossom Snake (MR) | **Koala_ql**: Flamingo (FR) |
-| 18:30 | **nicoleta171727**: Black Rhino (M), Camel (M), Retired Egg | **ifrit_3**: Ride-A-Pet Potion |
-| 18:30 | **blvdpawzi**: Nessie (MFR), Pancake Stack, Hopbop (MFR), Bready Necklace | **holaaaaaaxd2023**: Arctic Dusk Dragon (MFR) |
-| 18:30 | **cutesyghali**: Haetae (NFR), Goose (MFR), African Wild Dog (FR), Strawberry Shortcake Bat Dragon (FR), Cow (FR), Sugar Glider (FR) | **NickDavimaix**: Cryptid (MFR) |
-| 18:30 | **jellycatmar**: Harp Seal (MFR) | **sono_sempre622**: Vanilla Penguin (MFR) |
-| 18:30 | **elysign_xn**: Goldfish (NR), Starfish (NR) | **MemeFox_67**: Pupcicle |
-| 18:30 | **9izenn**: Copycat (M), Chocolate Chip Bat Dragon (NFR) | **Kakamakapaka98**: Border Collie (MFR), Dango Penguins (MFR), Clownfish (MFR) |
-| 18:30 | **JuliashaMeow**: Cow (FR) | **YOKOZ303**: Fly-A-Pet Potion ×17, Gemstone Egg |
-| 18:30 | **MM2_love30**: Cow (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Dutch Guinea Pig (NFR) | **bl0xby**: Evil Unicorn (FR) |
+| 18:40 | **0xEfe_xX**: Goose (NFR), Kangaroo (NFR), Kangaroo (FR), Pig (R) | **realuseris_sh191125**: Sugar Axolotl (MFR) |
+| 18:40 | **partydoggie123**: Ride-A-Pet Potion ×2 | **juanxdlolbpro23424**: Propeller Hat |
+| 18:40 | **WINTER_SYNKed**: Flaming Fox (MFR), Goose (FR), Elephant (R), Border Collie (R), Crocodile, Copycat (R), Snow Monkey (N) | **MimiChibi64**: Arctic Reindeer (NFR) |
+| 18:40 | **gffdjddd23_4**: Candyfloss Chick (R) | **Cunuwkakv**: Elephant (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 18:40 | **JHOAN123871**: Pupcicle (MFR) | **ii_martaGamer18**: Cabbit (FR) |
+| 18:40 | **notm4ddieee**: Halloween Slime Mega Neon Paint | **frecalsplogeok9**: Crystal Egg ×10 |
+| 18:40 | **Yupiterd**: Black Springer Spaniel, Choco Penguin, Firefighter Gibbon | **notm4ddieee**: Ride-A-Pet Potion |
+| 18:40 | **kajaterezka**: Royal Fairytale Egg | **BarrettVintage**: Mighty Haetyphoon Animated Sticker |
+| 18:40 | **Snoxs545**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR), Christmas Pudding Pup (R), German Shepherd (FR), Ride-A-Pet Potion, Copycat (FR) | **antuco_tuco909**: Parrot (FR) |
+| 18:40 | **CcLuims011x**: Fairy Bat Dragon (FR), Turtle (FR), Ride-A-Pet Potion ×9 | **joaodoidaomm**: Strawberry Shortcake Bat Dragon (FR) |
+| 18:40 | **Cinzsins**: Owl (NFR), Arctic Reindeer (FR) | **gxrxjy360**: Shadow Dragon (FR) |
+| 18:40 | **mamabirdkiller**: Mini Schnauzer (MFR) | **poortorichy28**: Kangaroo (FR) |
+| 18:40 | **Goodnews2013**: Ride-A-Pet Potion ×12, Skunk (N) | **Shehatesme420**: Fly-A-Pet Potion ×7 |
+| 18:40 | **adoptmelolkek5**: Boohoo, Mummy Spider | **natiirbz**: Stitches |
+| 18:40 | **laxwyxl**: Arctic Dusk Dragon (NFR), Ride-A-Pet Potion | **xiivra**: Turtle (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
