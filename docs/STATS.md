@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 05:25 UTC by the scrape workflow._
+_Updated 2026-11-14 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 27,948 | 2026-11-14T05:15 |
-| elve | 4 | 5,940 | 2026-11-14T05:16 |
+| amvgg | 4 | 28,182 | 2026-11-14T05:30 |
+| elve | 4 | 5,979 | 2026-11-14T05:31 |
 
-## AMVGG completed trades: 11,214 total
+## AMVGG completed trades: 11,224 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 969 |
+| 2026-11-14 | 979 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **qkrbed**: Maine Coon (MFR) | **Yupiterd**: Fly-A-Pet Potion ×3 |
+| 05:30 | **YerlyDiSar45**: Rainbow Maker ×2, Purple Butterfly | **ksfhwihfishf**: Cryptid, Jester Dragon, Cherry-On-Top |
+| 05:30 | **Mskaelaniii**: Pupcicle ×4 | **minsun1313**: Ride-A-Pet Potion ×4 |
+| 05:30 | **Romy_kun605**: Jester Dragon (NFR) | **x_bunvi**: Papa Moose (NFR) |
+| 05:30 | **DEV4STATINGLY**: Halloween Evil Dachshund (M) | **cutesydals**: Pupcicle ×5 |
+| 05:30 | **DEV4STATINGLY**: Burger Bear (MFR) | **siotmin**: Pupcicle ×10 |
+| 05:30 | **iiSimplyxSkyexx**: Chihuahua (MFR), Toasty Red Panda (MR), Red Fox (MR), Amami Rabbit (MR), Cake Friend (MFR), Burger Bear (MFR), Pain au Chat (MR), Cattuccino (MR), Waffle Wyrm (MFR), Bunny Swirl (MFR), Gaelic Fae (MFR), Peachick (MR), Quokka (MR), Malaysian Tapir (MR), Sweetheart Rat (MR), Alley Cat (MFR), Mecha Meow (MFR), Dark Choccybunny (M) | **xXL0TTY**: Owl (FR) |
+| 05:30 | **gh0steddsoull**: Pupcicle | **REALjaylarp**: Frostclaw Animated Sticker |
+| 05:30 | **pmpjmg1**: Jester Dragon | **Valerie_Sanceour**: Pupcicle ×4 |
+| 05:30 | **xSolarEcllipse**: Bat Dragon (NFR) | **sickie_m0use**: Bat Dragon (FR) ×2, Crow (FR), Sugar Glider (FR), Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Hat ×2, Jester Dragon |
 | 05:25 | **v3xxyyy**: Copycat (N), Toaster Hat, Spring Bunny Hood, Slime (NR), Fly-A-Pet Potion | **vennieemylove**: Werewolf (NFR) |
 | 05:25 | **sweetlittlegf**: Retired Egg ×12 | **Snakemaster609**: Lunar Gold Tiger |
 | 05:25 | **xCreativeCupcakesx**: Princess Mare ×6 | **doomer780**: Paint Sealer |
 | 05:25 | **DeaYoug10**: Border Collie (MFR) | **anni_Dragin**: Owl (FR) |
 | 05:25 | **aksgoddess**: Beaver ×16 | **Presbraltacc**: Monkey (N) |
-| 05:25 | **yuumiuro**: Latte Kitsune (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×2 |
-| 05:25 | **Xg_12399**: Hedgehog, Chocolate Chip Bat Dragon (FR), Arctic Fox (R), Yule Log Dog | **KennyMcCormick067**: Crow (FR) |
-| 05:25 | **Ami_Mixed**: Parrot (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **KennyMcCormick067**: Giant Panda (FR) |
-| 05:25 | **DontCallMe2nd**: Paint Sealer ×13 | **xom6ie**: Ride-A-Pet Potion |
-| 05:25 | **HudaSp3ctralRunn3r40**: Parrot (FR), Black Springer Spaniel (MR), Chihuahua (MFR), Fly-A-Pet Potion | **Coolbirdy40**: Dalmatian (NFR) |
-| 05:25 | **LLcoolLeah**: Fleur De Ice, Mushroom Friend, Diamond Dragon | **themudwizard**: Ride-A-Pet Potion |
-| 05:25 | **HudaSp3ctralRunn3r40**: Pig (NR) | **poppu_990**: Candyfloss Chick (FR) |
-| 05:25 | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **cunlainy**: Lava Dragon (FR) |
-| 05:21 | **itsElijahpanda821**: Pupcicle ×3 | **1rl_puppy**: Chocolate Dutch Guinea Pig, Chihuahua ×4 |
-| 05:21 | **asdw4ad**: Ride-A-Pet Potion | **luna2028192**: Pupcicle |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
