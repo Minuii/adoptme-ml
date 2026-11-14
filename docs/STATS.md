@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-14 13:40 UTC by the scrape workflow._
+_Updated 2026-11-14 13:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 10 | 2026-11-11T1036Z | 2026-11-14T0045Z |
-| amvgg | 18 | 2026-11-11T1036Z | 2026-11-14T1245Z |
+| amvgg | 19 | 2026-11-11T1036Z | 2026-11-14T1345Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 36,314 | 2026-11-14T13:30 |
-| elve | 4 | 7,744 | 2026-11-14T13:31 |
+| amvgg | 4 | 36,554 | 2026-11-14T13:45 |
+| elve | 4 | 7,766 | 2026-11-14T13:45 |
 
-## AMVGG completed trades: 13,011 total
+## AMVGG completed trades: 13,046 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,766 |
+| 2026-11-14 | 2,801 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 13:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:40 | **irishazu_2014**: Catte, Pomeranian ×2, Stray Cat Dragon | **batton0955**: Ride-A-Pet Potion |
-| 13:40 | **kh6rin**: Stray Cat Dragon ×2, General Sheepdog, Thunderfisher ×2, Eggnog Dog | **Officially_Allie101**: Pupcicle |
-| 13:40 | **fluffyunicorns_932**: Dango Penguins (R) ×2 | **rich2poorchallenge8**: Fly-A-Pet Potion ×3 |
-| 13:40 | **fadingauroras**: Pupcicle, Crystal Egg ×2 | **cbmelissa**: Ride-A-Pet Potion |
-| 13:40 | **bell_flowers**: Pupcicle ×6 | **llkkiop12345**: Ride-A-Pet Potion ×6 |
-| 13:40 | **hihihihihihihahahah2**: Parrot (FR), Border Collie (R), Border Collie, Arctic Fox (R), Pig | **clihello**: Border Collie (MFR) |
-| 13:40 | **C0PHYAK**: Fly-A-Pet Potion ×3, Pet Handler Pro Certificate ×5, Ride-A-Pet Potion ×6 | **llkkiop12345**: Turtle (FR) |
-| 13:40 | **Lerunhi**: Quokka (N), Moonlight Moth (N) | **Leviodas**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 13:40 | **Vitamirka**: Kiwi Kiwi, Pain au Chat | **batton0955**: Ride-A-Pet Potion |
-| 13:40 | **MissaBloxluck**: Frostbite Bear (M) | **IamCool123Andunot**: Ballet Swan (MFR), Solaris (MFR), Hare (MFR), Frost Phoenix (MFR), Chocolate Dutch Guinea Pig (M), Aussie Egg ×2, Volcanic Rhino (MR), Werewolf (R), Moonbeam Peacock, Goldhorn (MR) |
-| 13:40 | **KinaToons**: Owl (FR), Ride-A-Pet Potion | **clihello**: Border Collie (MFR) |
-| 13:40 | **Bellapacnula_altacc**: Purrowl (M) | **LYIZA_1976**: Fly-A-Pet Potion |
-| 13:40 | **ziggylili0**: Cow (NFR), Lion Cub | **KatsuTatsuya**: Farm Egg |
-| 13:40 | **Annsjdnsnjs**: Cabbit (NR), Jellyfish | **bolsi_06**: Alpaca (NFR) |
-| 13:40 | **sleepy_s0ren**: Toaster Hat | **Bunni_Rainbowpop**: Tiny Wings, Paint Sealer ×2 |
+| 13:45 | **ivybrown_idk**: Pretty Please Snowball Sticker, Frostbite Bear and Cub Animated Sticker | **bacon_deken**: Ride-A-Pet Potion |
+| 13:45 | **vexmoriiii**: Evil Unicorn (FR), Candyfloss Chick (R), Kangaroo (R) | **chocolatechips1974**: African Wild Dog (FR), Ride-A-Pet Potion ×2 |
+| 13:45 | **ishibana0967**: Unicorn | **PedroElescamoso766**: Ride-A-Pet Potion |
+| 13:45 | **lololog741**: Pupcicle ×2 | **PARAZITKA14888**: Fly-A-Pet Potion, Retired Egg ×5, Tan Chow-Chow |
+| 13:45 | **Sasha_6813**: Shrew (MFR), Ride-A-Pet Potion | **Brooklyn13177**: Cryptid (FR) |
+| 13:45 | **didtje2**: Siamese Cat (FR), Cat | **TMDung20**: Ride-A-Pet Potion ×18 |
+| 13:45 | **didtje2**: Siamese Cat (FR) | **SyndromGG**: Ride-A-Pet Potion ×18 |
+| 13:45 | **hi8186571**: Copycat, Happy Clam (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **SUN_POST**: Crocodile (FR) |
+| 13:45 | **ItsUnicornCat_Plays**: Happy Duckling (N) | **Sky_gaming865**: Fly-A-Pet Potion |
+| 13:45 | **PARAZITKA14888**: Pupcicle ×2 | **Lvpix**: Ride-A-Pet Potion ×2 |
+| 13:45 | **MHE_PL0XO00**: Ride-A-Pet Potion | **kh6rin**: Pupcicle |
+| 13:45 | **crystal_star151**: Crocodile (R) | **garinha_500**: 2022 Birthday Party Horn |
+| 13:45 | **Sproutzerz**: Pupcicle ×14 | **gangstamclovin**: Rain Cloud Hat |
+| 13:45 | **iamnoonetobehere**: Turkey (FR) | **Kirikocutie8**: Ride-A-Pet Potion ×2 |
+| 13:45 | **irishazu_2014**: Ladybug (N), Black Tiger (N), Mummy Spider (N), Hopbop (N) | **tUmBaLaKsAmAmAmI**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
