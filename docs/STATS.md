@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 04:55 UTC by the scrape workflow._
+_Updated 2026-11-14 05:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 04:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 27,452 | 2026-11-14T04:45 |
-| elve | 4 | 5,835 | 2026-11-14T04:45 |
+| amvgg | 4 | 27,700 | 2026-11-14T05:00 |
+| elve | 4 | 5,884 | 2026-11-14T05:01 |
 
-## AMVGG completed trades: 11,142 total
+## AMVGG completed trades: 11,149 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 897 |
+| 2026-11-14 | 904 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,13 @@ _Updated 2026-11-14 04:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:00 | **Chickengigi6**: Turtle (FR), Copycat (FR), Dolphin (MR), Ride-A-Pet Potion | **thyrrone1**: Kangaroo (NFR) |
+| 05:00 | **its4joo**: Cryptid (FR), Unicorn Horn, Ride-A-Pet Potion ×2 | **100doggos123**: African Wild Dog (FR) |
+| 05:00 | **zxl0106**: Ride-A-Pet Potion ×6 | **laylaangel1309**: Copycat |
+| 05:00 | **flower_1851**: Fly-A-Pet Potion ×11 | **lkmsdfw**: Turtle (FR) |
+| 05:00 | **IamCool123Andunot**: Shark Puppy (NFR), Candicorn (R), Aussie Egg, Fly-A-Pet Potion | **ROBLOXBLUECUP**: Chocolate Chip Bat Dragon (FR) |
+| 05:00 | **skieeeskieee1**: Frostbite Bear, Werewolf (FR), Matcha Cat, Happy Clam, Toaster Hat | **lilmsVirgo**: Strawberry Shortcake Bat Dragon (FR) |
+| 05:00 | **Joannescholar122**: Chocolate Chip Bat Dragon (FR), Stray Cat Dragon (MR) | **vaporeonxD300**: Strawberry Shortcake Bat Dragon (FR) |
 | 04:55 | **vcloss**: Golden Dragon (MFR) | **peepyplops**: Golden Dragon (M) |
 | 04:55 | **Juanhnsm**: Royal Mistletroll (NFR), Sugar Glider (FR) | **kittykyo77**: Blazing Lion (FR) |
 | 04:55 | **amyzondelivery**: Arctic Dusk Dragon (NFR), Fly-A-Pet Potion | **vaporeonxD300**: Turtle (FR) |
@@ -37,13 +44,6 @@ _Updated 2026-11-14 04:55 UTC by the scrape workflow._
 | 04:55 | **Definitely_notCami**: Latte Kitsune (MFR), Latte Kitsune | **lacybace**: Moon Rabbit (MFR), Alley Cat (MFR) |
 | 04:55 | **N0ugatt**: Candicorn (MFR) | **kakakakakalalasan**: Candicorn (NFR) ×3 |
 | 04:55 | **Limheyop**: Capricorn (FR), Golden Hamster (FR), Rubber Ducky (M), Snow Monkey, Dolphin (N), Garden Egg, Zombie Wolf | **Z1NCHES**: Jester Dragon |
-| 04:55 | **HelloItMeINRoblox**: Orchid Butterfly (FR), Mini Pig (FR), Jellyfish | **TANSKlN**: Balloon Unicorn (FR) |
-| 04:55 | **ikabackflip**: Arctic Fox (R) | **Mxstygon**: Pupcicle ×8 |
-| 04:55 | **HE4RTZK**: Fairy Bat Dragon (FR), Turtle (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **U_sulla**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:55 | **lupoouu2**: 2022 Birthday Cake | **Monalin879**: Rain Cloud Hat, Ride-A-Pet Potion, Spring Bunny Hood |
-| 04:55 | **Lola_ant34**: Tasmanian Devil (MR), Toasty Red Panda (MR), Halloween White Skeleton Dog (MFR), Scarlet Butterfly (MFR), Sloth (MFR), Sprout Snail (MFR), Seagull (MFR), Shadow Dragon Ducky (M), St Bernard (MR), Gingerbread Reindeer (MFR), Sasquatch (MFR), Clover Cow (MR), Toy Poodle (M), Blossom Snake (MR), Kappakid (MR), Tanuki (M), Skunk (M), Raccoon (MFR) | **iLuuvAshie**: Munchkin Cat (MFR) |
-| 04:55 | **vcloss**: Ribbon Seal (MR) | **carnivoro_fuerte**: Ribbon Seal (M) |
-| 04:55 | **rasediva**: Fly-A-Pet Potion | **Help_Grups**:  |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
