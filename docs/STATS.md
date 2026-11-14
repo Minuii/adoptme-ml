@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 22:01 UTC by the scrape workflow._
+_Updated 2026-11-14 22:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 22:01 UTC by the scrape workflow._
 | amvgg | 4 | 45,262 | 2026-11-14T22:00 |
 | elve | 4 | 9,787 | 2026-11-14T22:01 |
 
-## AMVGG completed trades: 15,668 total
+## AMVGG completed trades: 15,732 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,423 |
+| 2026-11-14 | 5,487 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 22:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:55 | **Dielizbe123**: Thunderfisher (M), Thunderfisher (N), Thunderfisher ×2, Stray Cat Dragon (N) | **DrinklngMilk**: Pet Handler Pro Certificate |
-| 21:55 | **funmoster2019**: Albino Bat (MFR), Count Slothula (MFR), Stray Cat Dragon (MFR), Ride-A-Pet Potion | **Puddingxcutoy**: Lava Wolf (MFR) |
-| 21:55 | **nxhyidzdg2**: Wooly Rhino (MFR) | **Your_girly23**: Jester Dragon (NFR) |
-| 21:55 | **activexchxrli**: Mecha R4BBIT ×2, Maine Coon, Samoyed | **gggpppgggppp1**: Ride-A-Pet Potion |
-| 21:55 | **cyborg_1000000**: Maine Coon (MFR), Dire Wolf (M), Waffle Wyrm (M) ×2, Garden Snake (M), Ghostly Cat (N) ×2, Black-Footed Ferret (M), Black Tiger (M), Polar Bear (R), Halloween White Ghost Dragon (R), Bakeneko (MR), Ratatoskr (M), Frankenfeline (M), White Choccybunny (M), S'mores Raccoon (N), Pupcicle ×2 | **wowzerthisismyalt**: Fairy Bat Dragon |
-| 21:55 | **Thatscute18**: Flaming Fox ×3 | **Terranese**: Goat |
-| 21:55 | **p001torich**: Classic Trade Stand ×3 | **batton0955**: Ride-A-Pet Potion |
-| 21:55 | **atracttion**: Glacier Kitsune (MFR) | **Crazygirlfire10**: Christmas Pudding Pup (MFR) |
-| 21:55 | **alkashnyadarya**: Mummy Spider (N) ×4, Gemstone Egg | **MilothefoxYT56**: Ride-A-Pet Potion |
-| 21:55 | **Helper_dod**: Frost Fury (FR) | **Dash35813**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
-| 21:55 | **larisochka_gudeeva98**: Zodiac Minion Chick (FR), Grave Owl (FR) | **rami092x**: Fly-A-Pet Potion |
-| 21:55 | **Lucy_Pandacornlove**: Retired Egg ×15 | **Queenvessy**: Chihuahua |
-| 21:55 | **Getmossedbyagirlheh**: Emberlight (R), Mochi Meow ×2, Purrowl, Three Blind Mice | **Maldives_eyekons**: Peachick (N) |
-| 21:55 | **fufudvjfndj2**: Goose ×4, Goose (R) ×2, Goose (FR) ×2 | **marioxd_1252**: Frost Dragon (FR) |
-| 21:55 | **DragonjJDusta107130**: Siamese Cat (R) | **voorobushek**: Fly-A-Pet Potion ×10 |
+| 22:10 | **TOASTER_17362**: Chihuahua ×2 | **Chignug17**: Ride-A-Pet Potion |
+| 22:10 | **Veraca2900**: Ride-A-Pet Potion ×15 | **upergameoman23**: Kangaroo (R) |
+| 22:10 | **zzzz79022**: Chihuahua (MR), Kitty Bat (M) | **Bia_salgadin**: Alpaca (FR) |
+| 22:10 | **RobloxIsLif3z**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Clounifesob**: Red Dutch Guinea Pig |
+| 22:10 | **rami092x**: Puffer Fish (NFR), Turkey (FR) | **M1cahsWRLD**: Frost Fury (R), Dragonfruit Fox (R) |
+| 22:10 | **kittyvxii**: Cabbit (FR) | **speddsongswwa**: Haetyphoon (FR), Ice Cream Cone Hat |
+| 22:10 | **blindforIove**: Bat Dragon ×2 | **Flux_puck**: African Wild Dog (MFR) |
+| 22:10 | **Abaddon_Kisser666**: Cabbit (NFR) | **iiSimplyxSkyexx**: Dalmatian (FR) |
+| 22:10 | **yeetimaheadout7**: Toaster Hat, 2022 Birthday Party Horn, Fly-A-Pet Potion, Ride-A-Pet Potion | **Jahazi_Roblox**: Siamese Cat (FR), Spring Bunny Hood |
+| 22:10 | **2ooTac**: Cryptid (FR) | **iTz_Naanci**: Hedgehog (FR), Royal Mistletroll (FR) |
+| 22:10 | **hii_itsari3**: Giant Panda (NFR), 2022 Birthday Party Horn, Ride-A-Pet Potion ×2 | **MistletoeMeg**: Haetae (FR), African Wild Dog, Giant Panda, Rainbow Maker, 2022 Birthday Cake, Angel Wings, Siamese Cat (NR) |
+| 22:10 | **Aslie_17**: Fly-A-Pet Potion ×2 | **Vicyna0**: Ride-A-Pet Potion ×4 |
+| 22:10 | **Jasmine_officially1**: Pancake Stack, Cheesecake Hat | **santi57974**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 22:10 | **summerdounut123**: Ankylosaurus (M), Australian Kelpie (MR), Clover Cow (MR), Ride-A-Pet Potion | **hihellohihello6788**: Robo Dog (MFR) |
+| 22:10 | **VikeShow7**: Dodo (MFR) | **zeejnaa**: Turtle (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
