@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 06:10 UTC by the scrape workflow._
+_Updated 2026-11-14 06:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 06:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 28,641 | 2026-11-14T06:00 |
-| elve | 4 | 6,054 | 2026-11-14T06:01 |
+| amvgg | 4 | 28,874 | 2026-11-14T06:15 |
+| elve | 4 | 6,107 | 2026-11-14T06:16 |
 
-## AMVGG completed trades: 11,320 total
+## AMVGG completed trades: 11,335 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,075 |
+| 2026-11-14 | 1,090 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 06:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:10 | **strawberrz_pie**: Happy Duckling (M), Bunny Swirl (MR), Binturong (M), Pudding Cat (MR), Fly-A-Pet Potion ×2 | **splashqueen02**: Dragonfruit Fox (MFR) |
-| 06:10 | **Elve_ii**: Unicorn Horn, Toaster Hat ×3, Ice Cream Cone Hat, Spring Bunny Nose | **Donutser2**: Rainbow Maker |
-| 06:10 | **himyuseris_oiuujkjhh**: Peppermint Penguin (MFR), Rain Cloud Hat | **Angxlliic_0**: Peppermint Penguin (M) |
-| 06:10 | **yuumiuro**: Matcha Cat | **zpdanila2**: Ride-A-Pet Potion ×5 |
-| 06:10 | **P1nkteeth**: S'mores Raccoon (MFR) | **Yupiterd**: Spring Bunny Hood, Spring Bunny Nose ×2, Spring Bunny Feet ×5 |
-| 06:10 | **as3r4phsz**: Crocodile (NFR), Crocodile (R), 2022 Birthday Party Hat | **Scarybigbearr**: Hippogriff (MFR) ×5 |
-| 06:10 | **Dimash_bash**: Silly Duck | **MrsJane07**: Diamond Hamster |
-| 06:10 | **Shynisocool**: Pet Handler Pro Certificate | **headshotw0**: Wailing Mr. Whiskerpips Sticker, Winter Deer Family Sticker, Long Ermine Sticker, Round Fallow Deer Sticker |
-| 06:10 | **easonchen13**: Santa Hat, Elf Hat | **splashJuggernaut**: Silverback Gorilla |
-| 06:10 | **ikeumw**: Arctic Fox (NFR), Pig (R), Pig (FR), Meerkat (R), Chicken (NFR), Christmas Pudding Pup, Chihuahua (M), Copycat | **LoriDreamy123**: Cow (FR) ×2 |
-| 06:06 | **adoptmerewardsjesse**: Catte, Gemstone Egg | **isobelitah**: Chocolate Dutch Guinea Pig |
-| 06:06 | **splashJuggernaut**: Silverback Gorilla (R) | **NatureGirlMB**: Santa Hat |
-| 06:06 | **23333UUII**: Owl (FR), Strawberry Shortcake Bat Dragon, Aussie Egg | **HappyDad786**: Frost Dragon (FR) |
-| 06:06 | **w1lllww**: Strawberry Shortcake Bat Dragon (R), Spring Bunny Hood | **limohq**: Rainbow Maker |
-| 06:06 | **babyspider002**: Owl (FR) | **cutesygabss**: Cow (MFR) |
+| 06:15 | **natixezq**: Cow (FR) ×2, Chocolate Chip Bat Dragon (FR), Kangaroo (FR), Zombie Wolf (R) | **Sp1derC4rbs**: Balloon Unicorn (FR) |
+| 06:15 | **xx_sunny2003**: Fly-A-Pet Potion, Ride-A-Pet Potion, Panda (R), Rhino, Alicorn (NFR) | **snow_ul**: Ice Cream Cone Hat |
+| 06:15 | **Ksu0qww**: Angus Calf (N), Angus Cow (N), Sea Turtle, Admin Abuse Box, Mexican Wolf (N) | **Redpyid**: Ride-A-Pet Potion |
+| 06:15 | **RoroxFruity**: Shark Puppy (R), Shark Puppy, Ram (N), Pig (R) | **Xgamingwith_billiex**: Cow (FR) |
+| 06:15 | **eeliasxcx**: Ride-A-Pet Potion | **Honeyloveyou78**: Bolt (M), Forest Sprite (M) |
+| 06:15 | **trulyyoliv**: Cow (FR) | **Annasmdi**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×3 |
+| 06:15 | **eeliasxcx**: Ride-A-Pet Potion | **1234noemisuper**: Shih Tzu (M), Sheepdog Ducky (M) |
+| 06:15 | **KaiSaboAceCC**: Ride-A-Pet Potion ×2 | **Itz_Marsie**: Lamb (FR) |
+| 06:15 | **JAJAJAN9199**: Chocolate Dutch Guinea Pig (MFR), Alley Cat (MFR), Many Mackerel (NFR), Cow, Kangaroo (R), Candicorn (R), Elephant (R), Aurora Fox (FR), Spring Bunny Hood, Heart Potion, Ride-A-Pet Potion, Cotton Candy Hat | **leruval**: Owl (FR) |
+| 06:15 | **Huge_Soda**: Ice Golem (F) | **pristiinecat**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion |
+| 06:15 | **Shehatesme420**: Ride-A-Pet Potion, Chihuahua | **FlyToTheSaturn**: Samoyed, Sasquatch ×2, Seahorse, Woolly Mammoth, Bat ×4, Crab, Dingo ×4, Dolphin ×2 |
+| 06:15 | **slay1397**: Cryptid (FR), Goat (FR), Alley Cat (FR), Munchkin Cat (FR), Llama (FR), Vampire Dragon (FR), Jester Dragon (FR), Kitsune (NFR), Stray Cat Dragon (MR), Leopard Cat (MFR), Spring Bunny Feet | **hamurasha**: Giant Panda (FR) |
+| 06:15 | **IzmajlovaDarina65**: Corn Doggo, Chihuahua | **Da_potato132**: Pupcicle (FR) |
+| 06:15 | **iqitotoru**: Polar Bear (R), Goldhorn | **j2v73r**: Malaysian Tapir (M) |
+| 06:15 | **XxRainbowDasher**: Copycat | **00820k**: Fly-A-Pet Potion ×5 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
