@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 12:10 UTC by the scrape workflow._
+_Updated 2026-11-14 12:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 12:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 34,767 | 2026-11-14T12:00 |
-| elve | 4 | 7,355 | 2026-11-14T12:01 |
+| amvgg | 4 | 35,012 | 2026-11-14T12:15 |
+| elve | 4 | 7,435 | 2026-11-14T12:16 |
 
-## AMVGG completed trades: 12,550 total
+## AMVGG completed trades: 12,606 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,305 |
+| 2026-11-14 | 2,361 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 12:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:10 | **Kvammletitraketa**: Cow, Volcanic Rhino (NR) | **KiraChalaya**: Pig (FR), Turtle (FR), Fly-A-Pet Potion |
-| 12:10 | **Katya_1922**: Turtle (FR), Chihuahua (MFR) | **m4tt_skatez**: Goose (FR) |
-| 12:10 | **Mx1shu**: Tiny Wings ×3 | **sleepy_s0ren**: Angel Wings |
-| 12:10 | **wuishdwqkjsh**: Snow Cat (M), Pinkypillar (M), Mouse (N) | **Chiki_cou**: Pupcicle |
-| 12:10 | **ange1rbxxx_3**: Wolpertinger, Frogspawn, Warthog, Tanuki, Turtle Doves, Tarsier, Scarecrow Horse, Oryx | **guten_14**: Ride-A-Pet Potion |
-| 12:10 | **Its_marmeladka0003**: Red Squirrel (R), Sabertooth (R) | **Chiki_cou**: Pupcicle |
-| 12:10 | **riskyactss**: Munchkin Cat, Sheeeeep (R), Emperor Gorilla, Lion Cub | **ulianixx79**: Aurora Fox (NFR) |
-| 12:10 | **ayiiishapot_2010**: Maine Coon (MFR), Clownfish (M), Cozy Mistletroll (M), Bready Necklace, Orange Betta Fish (M) | **wery123416**: Frostbite Cub (MFR) |
-| 12:10 | **caxarberdok**: Fly-A-Pet Potion ×3 | **help0sara**: Tortuga de la Isla (R) |
-| 12:10 | **elsikko2**: Halo | **Mary_kitty27052009**: Jekyll Hydra (FR) |
-| 12:10 | **NNuWiIxxX_14**: Mochi Meow ×2, Golden Unicorn, Rubber Ducky (N), Black Tiger (N), Galapagos Sea Lion (N), Crystal Egg, Red Panda, Starfish | **Giyou_Tomoko**: Caramelgeist (M) |
-| 12:10 | **PhoenixForever09**: Evil Unicorn (FR), Cow | **nfrmikey1**: Frostbite Bear (NFR), Frostbite Bear ×2 |
-| 12:10 | **ottxotoxoxtotx**: Candicorn (FR) | **fluses_sss**: Crocodile (FR), Fallow Deer, Ride-A-Pet Potion |
-| 12:10 | **ruryrhsxgryuf**: Ride-A-Pet Potion ×2 | **aster1Cloud**: Fly-A-Pet Potion |
-| 12:06 | **LoriDreamy123**: Ride-A-Pet Potion ×4, Alpaca (R) | **Lvpix**: Border Collie (FR), Tiny Wings |
+| 12:15 | **Darlinginus3**: Skelicorn (M) | **tarrace_house**: Ride-A-Pet Potion |
+| 12:15 | **Sunnyxmisty_fan8791**: Urchin (N) | **soisomin**: Retired Egg ×12 |
+| 12:15 | **2lilly777**: Kangaroo (R), Elephant, Pig | **DragonjJDusta107130**: Cow (FR), Ride-A-Pet Potion ×4 |
+| 12:15 | **fallen_angell942**: Ride-A-Pet Potion | **Chiki_cou**: Pupcicle |
+| 12:15 | **PARAZITKA14888**: Ride-A-Pet Potion ×2 | **ADopt_mi6752223**: Fly-A-Pet Potion |
+| 12:15 | **MR_BlizzardX**: Tuxedo Cat (N), Black-Footed Ferret (R), Tan Chow-Chow | **PARAZITKA14888**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 12:15 | **PARAZITKA14888**: Fly-A-Pet Potion | **Aibi_lx**: Gaelic Fae |
+| 12:15 | **luvyerh**: Cow (FR) | **lili270811**: Lion (FR), Crocodile (R), Arctic Fox (R) |
+| 12:15 | **StargamerRB_Official**: Owl (FR), Nautilus (MFR), Ghost Dog (M) | **ViperOfTheUnderworld**: Fairy Bat Dragon (MFR) |
+| 12:15 | **ySolzitax**: Ride-A-Pet Potion ×11 | **Scentoftea**: Munchkin Cat (R) |
+| 12:15 | **lizzy_peeps**: English Sheepdog, Happy Duckling, Kiwi | **enchantedxmira**: Fly-A-Pet Potion |
+| 12:15 | **vxzzz632**: Cabbit (R), Fly-A-Pet Potion | **Yana_dog151**: Fairy Bat Dragon (FR) |
+| 12:15 | **lifestyle1312**: Unicorn, Vanilla Penguin | **Hikrzau**: Snow Monkey |
+| 12:15 | **lizzy_peeps**: Glormy Crab, Glormy Dolphin, Mushroom Friend, Rosy Maple Moth, Sea Turtle, Strawberry Shortcake Ducky, Stray Cat Dragon, Tealwood Monster, Zodiac Minion Chick, Angus Calf, Bee, Dire Wolf | **sashamaison**: Fly-A-Pet Potion |
+| 12:15 | **NICKLEMEILLEUR3**: Dragonfruit Fox (R) | **XxGavsxX**: Moose Calf |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
