@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 09:55 UTC by the scrape workflow._
+_Updated 2026-11-14 10:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 09:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 32,451 | 2026-11-14T09:45 |
-| elve | 4 | 6,820 | 2026-11-14T09:45 |
+| amvgg | 4 | 32,690 | 2026-11-14T10:00 |
+| elve | 4 | 6,890 | 2026-11-14T10:01 |
 
-## AMVGG completed trades: 12,045 total
+## AMVGG completed trades: 12,048 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,800 |
+| 2026-11-14 | 1,803 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,9 @@ _Updated 2026-11-14 09:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:00 | **Sonya73p**: Latte Kitsune (MFR) | **en20205**: Strawberry Shortcake Bat Dragon (FR) |
+| 10:00 | **Hell0_kitty7v7xd**: Pomeranian | **EtoTapokUuU2**: Crystal Egg |
+| 10:00 | **alooshy123456789**: Cryptid (FR), Mini Pig (FR), Candicorn (R), Pet Handler Pro Certificate | **cutle100**: Parrot (FR) |
 | 09:55 | **aydachan200311**: Aussie Egg ×6 | **flears_brai**: Cow (FR) |
 | 09:55 | **Rand000m_person**: Leopard Cat (N) | **M1lena126**: Mochi Meow (N) ×2 |
 | 09:55 | **avavHAY745**: Business Monkey (MFR), Octopus (MFR) | **fluffyunicorns_932**: Kangaroo (NR) |
@@ -41,9 +44,6 @@ _Updated 2026-11-14 09:55 UTC by the scrape workflow._
 | 09:55 | **Ez50**: Ghostly Cat (MFR), Kitty Bat (M), Alley Cat, Turkey (R), King Bee (NFR) | **sigmaizzmailovvvv2**: Turtle (FR) |
 | 09:55 | **murshroom6**: Kangaroo (FR) | **yu1ewww**: Ride-A-Pet Potion ×16 |
 | 09:55 | **TbI_FY**: Hedgehog (FR), Dragon (MFR), Mochi Meow (MR), Maneki-Neko (NR), Dire Wolf (MR), Kitty Bat (N), Choco Penguin (NR), Cuddly Candle (FR), Fly-A-Pet Potion, Sloth (FR), Yeti (R), Green Butterfly (R), Kitsune (R), Yule Log Dog, Magic House Door | **Kristyjunio_r**: Evil Unicorn (FR) |
-| 09:55 | **snezzhook**: Fly-A-Pet Potion | **Viktoria_11942**: Ride-A-Pet Potion ×2 |
-| 09:55 | **kasistrek**: Ride-A-Pet Potion ×4 | **parissjandy**: Pupcicle ×4 |
-| 09:55 | **Doro4ka0015**: Mrs. Whiskerpips ×4 | **bae_hyeinie**: Mr. Whiskerpips |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
