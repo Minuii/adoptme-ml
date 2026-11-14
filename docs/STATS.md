@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 23:25 UTC by the scrape workflow._
+_Updated 2026-11-14 23:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 23:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 46,478 | 2026-11-14T23:15 |
-| elve | 4 | 10,041 | 2026-11-14T23:16 |
+| amvgg | 4 | 46,721 | 2026-11-14T23:30 |
+| elve | 4 | 10,106 | 2026-11-14T23:31 |
 
-## AMVGG completed trades: 16,017 total
+## AMVGG completed trades: 16,043 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,772 |
+| 2026-11-14 | 5,798 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 23:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:20 | **MrsBump0**: Amami Rabbit (R), Frankenfeline (NR) | **fenekitfixismymain**: Ride-A-Pet Potion |
-| 23:20 | **LulusiaKoza123**: Turtle (FR) | **kartoshka_spogriba**: Alpaca (R), Ride-A-Pet Potion ×2 |
-| 23:20 | **vcloss**: Goldfish (M) | **Ivqser**: Firefighter Gibbon (M) |
-| 23:20 | **KittyQweenPlays1413**: Pain au Chat (MR) | **adorable_rhian**: Space Whale (MFR) |
-| 23:20 | **teryyyrttgfy**: Moon Rabbit (MFR) | **adorable_rhian**: English Sheepdog (MFR) |
-| 23:20 | **j2v73r**: Spring Bunny Hood | **Kayorilate**: Sea Turtle (MFR) |
-| 23:20 | **princessyuremi**: Cat (N) ×3, Persian Cat (M) ×2 | **coco_122339**: Latte Kitsune, Japanese Snow Fairy (M) |
-| 23:20 | **Bloodyskyxes**: Turtle (NFR) ×2, Cow (FR), Turtle (FR) ×3, Unicorn (MFR) | **Vitek_228666**: Owl (FR) |
-| 23:20 | **camskyyVICTORY**: Siamese Cat, Fly-A-Pet Potion ×2 | **lazygirlchallenge**: Vanilla Penguin (MR), Frostbite Bear and Cub Animated Sticker |
-| 23:20 | **RobloxIsLif3z**: Llama | **lola_bear1995**: Ride-A-Pet Potion ×2 |
-| 23:20 | **RobloxIsLif3z**: Gemstone Egg | **riceb4II**: Pain au Chat |
-| 23:20 | **canvrilita2**: Chihuahua, Pain au Chat, Crystal Egg ×3 | **batton0955**: Ride-A-Pet Potion |
-| 23:20 | **RobloxIsLif3z**: Mexican Wolf ×16 | **Clifford757**: Pain au Chat |
-| 23:20 | **cannotaffordme**: Halo, Amami Rabbit (MFR), Ice Cream Cone Hat | **sakurqin**: Naughty Mistletroll (MFR) |
-| 23:20 | **1tz_Miki**: Slime, Ghost Dog | **Mary_202401**: Pupcicle ×2 |
+| 23:30 | **FisheYT3**: Balloon Unicorn (FR), Siamese Cat (NR), Kangaroo (NFR), Siamese Cat (FR), Bald Eagle, Munchkin Cat | **ad0pttrading**: Frost Dragon (FR) |
+| 23:30 | **akhayrzamanova**: Kangaroo (FR) | **PyBy25**: 2022 Birthday Cupcake Shoes |
+| 23:30 | **gfwcie**: Great Pyrenees (N) | **GamerMarty06_yt**: Great Pyrenees ×4 |
+| 23:30 | **MalyAndLayla**: Ride-A-Pet Potion ×3 | **Exleer**: Hyena |
+| 23:30 | **Princenezha23**: Evil Unicorn (FR), Cow (FR) | **Sofik_oc**: Munchkin Cat (M), Turtle (FR) |
+| 23:30 | **Zombie_8803**: Retired Egg ×8 | **wafy_3mk**: Koi Carp |
+| 23:30 | **Zombie_8803**: Retired Egg ×7 | **wafy_3mk**: Nutcracker Squirrel |
+| 23:30 | **Zombie_8803**: Retired Egg ×16 | **wafy_3mk**: Shetland Pony Dark Brown (N) |
+| 23:30 | **roblox_user_8676283275**: Cabbit (R) | **wolfwolfkitty1twin**: Matcha Cat (N) |
+| 23:30 | **ilovemegirluo**: Siamese Cat (R), Quetzalcoatl (MR) | **Chihiro_1103794**: Turtle (FR) |
+| 23:30 | **retursuss**: Unicorn | **silvannah122**: Stray Cat Dragon ×9 |
+| 23:30 | **retursuss**: Unicorn | **6vynix**: Stray Cat Dragon ×9 |
+| 23:30 | **TaimeKero**: Highland Cow | **snowqyee**: Stray Cat Dragon ×4 |
+| 23:30 | **noaboa678**: Cabbit (MFR) | **ViscaBarca_44**: Border Collie (MFR), Border Collie (NFR), Goose (FR) |
+| 23:30 | **Mx1shu**: 2022 Birthday Confetti Cannon, Unicorn Horn, Spring Bunny Feet | **Xyzxelle**: Halo |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
