@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 16:25 UTC by the scrape workflow._
+_Updated 2026-11-14 16:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 16:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 39,151 | 2026-11-14T16:15 |
-| elve | 4 | 8,443 | 2026-11-14T16:16 |
+| amvgg | 4 | 39,416 | 2026-11-14T16:30 |
+| elve | 4 | 8,522 | 2026-11-14T16:31 |
 
-## AMVGG completed trades: 13,867 total
+## AMVGG completed trades: 13,896 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,622 |
+| 2026-11-14 | 3,651 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 16:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:20 | **cvtydesd8**: Haetae (FR) | **pixeletisyon**: Cryptid (FR), Border Collie (R) |
-| 16:20 | **zow_98alt**: Cow (R), Jester Dragon | **Zolombo7**: Pirate Ghost Capuchin Monkey (NFR) |
-| 16:20 | **jellycatmar**: Leopard Shark (MFR) | **Ashvr_s0ul9**: Yeti (MFR), Lynx (MFR) |
-| 16:20 | **Nastya2345981**: Admin Abuse Egg ×14, Crystal Egg ×4 | **BEBETH172011**: Pupcicle |
-| 16:20 | **xsp0d3**: Dango Penguins | **BEBETH172011**: Pupcicle ×2 |
-| 16:20 | **Gooblin_trool**: Parrot (FR), Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Jellyfish (NR), Kangaroo (R), Ride-A-Pet Potion | **Bibisiwan**: Frost Dragon (FR) |
-| 16:20 | **Skz_bts176**: Candyfloss Chick (FR) | **BenKeniki2**: Alpaca |
-| 16:20 | **vibinqq_cloudz**: Christmas Pudding Pup (MFR), Ice Cream Cone Hat, Ride-A-Pet Potion | **gffdjddd23_4**: Munchkin Cat (MFR) |
-| 16:20 | **Crystal_andLisa**: Ride-A-Pet Potion | **Its_ishax0**: Winged Horse (FR) |
-| 16:20 | **P0tatoes_chips2**: Cupid Dragon (MFR) | **NAT4L1Ex**: Goat (MFR) |
-| 16:20 | **newheroltu**: Cryptid (MFR) | **NickDavimaix**: Shadow Dragon (FR), Candicorn (MFR), Evil Unicorn (FR), Cow (N), Cow (FR), Candicorn (FR), Lion Cub, Cupid Dragon (F) |
-| 16:20 | **Silverjamminni**: Strawberry Shortcake Bat Dragon (NFR), Mini Pig (R) | **MeowDogLov3r8**: Parrot (FR) |
-| 16:20 | **OJC_Star45**: Ride-A-Pet Potion ×2 | **roblox_lemon02OU**: Fleur De Ice (NR) |
-| 16:20 | **ivanoooo10**: Stray Cat Dragon (M), Stray Cat Dragon (N), Purrowl | **Chiki_cou**: Ride-A-Pet Potion ×2 |
-| 16:20 | **yeetimaheadout7**: Mermicorn (FR), Alpaca (FR), Mini Pig (R), Mermicorn (R), Goose (R), Cow (FR), Ice Cream Cone Hat, Fly-A-Pet Potion, Candyfloss Chick (FR) | **christoqherrr**: Owl (FR) |
+| 16:30 | **kierraotheracc2**: Arctic Reindeer (NFR), Goat (MFR) | **Adoptme_alt651**: Cryptid (NFR) |
+| 16:30 | **vaqudo8**: Arctic Fox (R), Sugar Glider (R), Ride-A-Pet Potion | **6u116**: Cow (FR) |
+| 16:30 | **Zizzy2206**: Ride-A-Pet Potion | **miqwx20130**: Pupcicle |
+| 16:30 | **HJKGVNib**: Pupcicle | **hellokid8203**: Mighty Haetyphoon Animated Sticker ×2 |
+| 16:30 | **UnU_Darina1**: Cheesecake Hat, Pink Butterfly Wings, Love Letter, Elf Bandana | **RadioStatic_Silence**: Ride-A-Pet Potion |
+| 16:30 | **Lxdyxx**: Strawberry Shortcake Bat Dragon (FR), Alley Cat (MFR), Polar Bear (NR), Snow Monkey (N), Drake (N), Count Slothula (N), Groundhog, Pretty Pony (N), Dragonfruit Fox (FR), Moose Calf, Pain au Chat (NR), Pain au Chat (N) ×3, Swan | **Sarah72042**: Giant Panda (FR) |
+| 16:30 | **miloskeli**: Fly-A-Pet Potion ×10 | **Mincraftwomanfor10**: Chimera (MFR), Halloween White Skeleton Dog (MFR) |
+| 16:30 | **YTstaro**: Jester Dragon ×5 | **Zeyndhan**: Cabbit (FR), Fly-A-Pet Potion |
+| 16:30 | **weaxrr_YT**: Kangaroo (R) | **saskitima**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×5 |
+| 16:30 | **PETAPOP9**: Ride-A-Pet Potion, Puptune | **ponyelgamer**: Pupcicle |
+| 16:30 | **qwiri00**: Skelicorn (N), Deinonychus, Red Squirrel, Merhorse (N), Mummy Spider (N), Ruddy Duck (N), Red Fox | **antx_evp**: Fly-A-Pet Potion |
+| 16:30 | **qwiri00**: Lynx, Mouse (M), Zebra (N) | **lera5132**: Ride-A-Pet Potion |
+| 16:30 | **DrinklngMilk**: Ride-A-Pet Potion, Pet Handler Pro Certificate | **xikell**: Celebrity Mansion |
+| 16:30 | **iv2yec**: Candyfloss Chick (R), Matcha Cat, Matcha Cat (R) | **giraffe3815**: Matcha Cat (NFR) |
+| 16:30 | **niyashimo**: Cupid Dragon (R), Pig (FR), Arctic Hare (MFR), Fly-A-Pet Potion | **cutle100**: Candicorn (R), Copycat |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
