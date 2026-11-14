@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 06:45 UTC by the scrape workflow._
+_Updated 2026-11-14 06:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 06:45 UTC by the scrape workflow._
 | amvgg | 4 | 29,358 | 2026-11-14T06:45 |
 | elve | 4 | 6,178 | 2026-11-14T06:45 |
 
-## AMVGG completed trades: 11,396 total
+## AMVGG completed trades: 11,434 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,151 |
+| 2026-11-14 | 1,189 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 06:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:40 | **robloxwot1490**: Turtle (FR), Candyfloss Chick (FR), Happy Clam (NFR), Lion (FR), Brown Bear (NFR), Groundhog (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **Awte_xx**: Evil Unicorn (FR) |
-| 06:40 | **Slushyunicorn0**: Kiwi (MFR) | **fairyqxfaee**: Unicorn Horn |
-| 06:40 | **qwwertmjf**: Haetyphoon, Flash Weasel (R) | **zxl0106**: Cow (FR) |
-| 06:40 | **gthstnr**: Santa Pet Rock Sticker, Soulfire Animated Sticker, Crystal Egg ×3 | **kakakadis07**: Cherry Blossom Flower Sticker ×4 |
-| 06:40 | **ITSMECINNAADDMEBACKK**: Unicorn ×4 | **Catracha82828291**: Pupcicle ×4 |
-| 06:40 | **pinkytedslovie**: Ride-A-Pet Potion ×3, Classic Trade Stand, Bat Backpack | **Iisaya_9**: Count Slothula (NFR) |
-| 06:40 | **7H3ST**: Pupcicle ×17 | **minsun1313**: Ride-A-Pet Potion ×17 |
-| 06:40 | **CottonCandy_Paul**: Ride-A-Pet Potion | **Soobin_c4kes**: Alien Eyes Hat |
-| 06:40 | **P1nkteeth**: Rain Cloud Hat, Toaster Hat | **yuri_dragon32**: Rose Dragon (N), Midnight Dragon (R), Harp Seal (N) |
-| 06:40 | **JimboPimbo_Esteban**: Goose, Cabbit (R), Sugar Glider | **amaialolwonder**: Arctic Dusk Dragon (MFR) |
-| 06:40 | **alexgameminecraft**: Ride-A-Pet Potion ×3 | **NOBODYknows_1100**: Pupcicle ×3 |
-| 06:40 | **merock56798**: Pupcicle | **amiaaaa20**: Stray Cat Dragon ×8 |
-| 06:40 | **JellaBean13**: Christmas Pudding Pup | **HazeFlash79_YT**: Fly-A-Pet Potion, Ride-A-Pet Potion, Puffer Fish, Ram, Great Pyrenees |
-| 06:40 | **carolzinhac2009**: Diamond King Penguin (FR) | **SPIKI77228**: Pet Handler Pro Certificate |
-| 06:40 | **Andres_agent**: Phantom Dragon (NR), Tuxedo Cat (N), Frost Phoenix (NR), Glacier Kitsune (FR), Tree Kangaroo (NFR), Naga Dragon (NFR), Winged Horse (NFR) | **gffdjddd23_4**: Halloween White Ghost Dragon (MFR) |
+| 06:55 | **510478**: Giraffe (NFR), Rainbow Maker | **pairofdogs2018**: Strawberry Tortle (MFR), Alpaca (MFR) |
+| 06:55 | **RoseGold_101010**: Jousting Horse, Royal Fairytale Egg | **nate_goldenduck**: Pupcicle ×3 |
+| 06:55 | **Bushra_Rocket8678**: Fly-A-Pet Potion, Hare Box | **Fionab_2012**: Cotton Candy Hat, Pirate Hat, Fishbowl Hat, Venus Flytrap Hat |
+| 06:55 | **Hii_meow13ue**: Ride-A-Pet Potion ×2 | **clalouetciedh**: Fly-A-Pet Potion |
+| 06:55 | **ShakeRetired**: Bubblegeist ×8 | **snehathebest22**: Pupcicle |
+| 06:55 | **rainbown758**: Ride-A-Pet Potion | **Fionab_2012**: Yellow Instant Camera, Rain Hat |
+| 06:55 | **ANYU_066**: Haetyphoon, White Sand Dollar (NR) | **Hungry_Sleppy**: Candicorn (FR) |
+| 06:55 | **Nanax_8907**: Jekyll Hydra Animated Sticker | **Hiraimomoling1**: Pupcicle ×2 |
+| 06:55 | **NOBODYknows_1100**: Ride-A-Pet Potion ×2 | **llkkiop12345**: Fly-A-Pet Potion |
+| 06:55 | **MathildeFX924**: Skelicorn (NF) | **Shade2560**: Ride-A-Pet Potion |
+| 06:55 | **nathsi00**: Pupcicle ×2 | **El1ies_shenanxgans**: Ride-A-Pet Potion ×2 |
+| 06:55 | **itscatnoirpeople**: Pelican (MFR) | **Addmymainpls2332**: Orchid Butterfly, Pelican (FR), Copycat (FR), Dragonfruit Fox (FR), Candicorn (FR), Crow (FR), Candicorn (MFR) |
+| 06:55 | **re_eee0**: Groundhog (NR) | **amaekii**: Shark Puppy, Irish Water Spaniel |
+| 06:55 | **Viktoria_11942**: Arctic Reindeer (FR), Fly-A-Pet Potion ×5 | **SPIKI77228**: Dalmatian (FR) |
+| 06:55 | **yapplie**: Dango Penguins | **xWobbers**: Pupcicle ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
