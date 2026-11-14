@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 08:10 UTC by the scrape workflow._
+_Updated 2026-11-14 08:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 08:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 30,597 | 2026-11-14T08:00 |
-| elve | 4 | 6,456 | 2026-11-14T08:01 |
+| amvgg | 4 | 30,876 | 2026-11-14T08:15 |
+| elve | 4 | 6,508 | 2026-11-14T08:16 |
 
-## AMVGG completed trades: 11,677 total
+## AMVGG completed trades: 11,679 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,432 |
+| 2026-11-14 | 1,434 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,8 @@ _Updated 2026-11-14 08:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:15 | **snezzhook**: Pet Handler Pro Certificate | **ADVENT1235678**: Ride-A-Pet Potion ×2 |
+| 08:15 | **Kui_Yeager**: Frost Dragon (FR), Siamese Cat (R), Fly-A-Pet Potion | **DeaYoug10**: Owl (FR), Hedgehog (FR) |
 | 08:10 | **lolochka898**: Shrew (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **Crystal_andLisa**: Arctic Fox (R) |
 | 08:10 | **KyraPidgorn**: Kangaroo (FR), Turtle (NFR) | **ZDawnEchoz**: Arctic Reindeer (FR) |
 | 08:10 | **don2p**: Copycat (NFR) | **KinaToons**: Pupcicle (MFR) |
@@ -42,8 +44,6 @@ _Updated 2026-11-14 08:10 UTC by the scrape workflow._
 | 08:10 | **Bunnyhopps068**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **ETM_TOPG**: Wing Hang Glider |
 | 08:10 | **lunaariiii**: Peppermint Penguin (FR), Sakura Spirit (NFR) | **j2v73r**: Arctic Reindeer (FR) |
 | 08:10 | **Saji_Ls**: Fly-A-Pet Potion ×2 | **hayopanima**: Latte Kitsune |
-| 08:10 | **Roks8888_8**: Alicorn, Huntsman Robin, Cattuccino, Toucan (R), Seahorse (R) | **Kiravtb**: Ride-A-Pet Potion |
-| 08:10 | **daria7581659**: Werewolf (FR), Triple Stroller | **OflineGirlx**: Pupcicle ×16 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
