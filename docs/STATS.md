@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 05:40 UTC by the scrape workflow._
+_Updated 2026-11-14 05:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 05:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 28,182 | 2026-11-14T05:30 |
-| elve | 4 | 5,979 | 2026-11-14T05:31 |
+| amvgg | 4 | 28,405 | 2026-11-14T05:45 |
+| elve | 4 | 5,996 | 2026-11-14T05:45 |
 
-## AMVGG completed trades: 11,249 total
+## AMVGG completed trades: 11,259 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,004 |
+| 2026-11-14 | 1,014 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 05:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:45 | **syxnonym**: Ride-A-Pet Potion, Moon Egg, Garden Egg, Desert Egg | **Tree092109**: Fly-A-Pet Potion |
+| 05:45 | **xx_xxbummrr**: Rainbow Maker | **limohq**: Angel Wings ×2 |
+| 05:45 | **mooyakko**: Winged Tiger (MFR), Kitty Bat (M) | **fiasmail**: Winged Tiger (M) |
+| 05:45 | **eulien_37**: Ride-A-Pet Potion | **masjuudk123**: Electric Hornet ×3 |
+| 05:45 | **Allyanaph124**: Lion (NFR), Pink Cat (NFR), Mermicorn (NR), Albino Monkey (FR), Pig | **leruval**: Parrot (FR) |
+| 05:45 | **Legaspi_Jhonrey**: Glacier Kitsune (MFR), Goose, Crocodile, Shiver Wolf (MR) | **yoncha77**: Giant Panda (FR) |
+| 05:45 | **iiHxzel_Nuts**: Dango Penguins (NR), Dango Penguins ×2 | **WinterNataliaa**: Haetyphoon |
+| 05:45 | **chantking0910**: Cow (R) | **Banquitogamer025**: Fly-A-Pet Potion ×16 |
+| 05:45 | **MyAccountGoneForeve**: Frost Unicorn (FR), Cryptid (FR), Turtle (FR), Kangaroo (FR), Hot Doggo (R), Candicorn (NR), Mr. Whiskerpips (MR), Frost Phoenix ×2 | **cutesygabss**: Frost Unicorn (MFR) |
+| 05:45 | **st4rrdrexmo**: Purrowl ×11 | **wrawixx**: Ride-A-Pet Potion |
 | 05:40 | **vcloss**: Walrus (MR) | **Mikeoten0923**: Floral Eggy (M) |
 | 05:40 | **oscarfeo15**: Fly-A-Pet Potion ×2 | **sanctvfy**: Mono-Moped |
 | 05:40 | **Robloxiana_xxx2011**: Pupcicle ×3 | **minsun1313**: Ride-A-Pet Potion ×3 |
 | 05:40 | **Sasha_6813**: Vanilla Penguin (NFR) | **Yupiterd**: Ride-A-Pet Potion ×6 |
 | 05:40 | **VICTOR_AV01**: Cow (NFR), Cabbit (NR), Dalmatian (FR), Peppermint Penguin (R), Shark Puppy (FR) ×2, Ice Cream Cone Hat, Jellyfish | **Annsjdnsnjs**: Balloon Unicorn (FR) ×2 |
-| 05:40 | **DeiMoszxX**: Harp Seal | **Testsubject0_217**: Fly-A-Pet Potion |
-| 05:40 | **povft6**: Unicorn (MFR), T-Rex, Caramelgeist (N) ×2, Mummy Spider (N) ×2, Zebra (N), Rabbit (N), Cracked Egg ×10 | **WenslyKAT**: Haetyphoon |
-| 05:40 | **MYB505**: Alley Cat (MFR) | **xXL0TTY**: Gaelic Fae (MFR), Amami Rabbit (MR), Sweetheart Rat (MR), Happy Clam |
-| 05:40 | **Alice_Fpe2567**: Mermicorn (FR), Matcha Cat, Fly-A-Pet Potion, Ride-A-Pet Potion | **tufvfffdjdg**: Cow (FR) |
-| 05:40 | **ooohhff85**: Arctic Dusk Dragon (NR), Munchkin Cat (R), Sea Slug (FR), Spring Bunny Hood | **Kidorii_MieMie**: Strawberry Shortcake Bat Dragon (FR) |
-| 05:40 | **PhoenixEpic85**: Chihuahua ×11 | **alexgameminecraft**: Ride-A-Pet Potion ×4 |
-| 05:40 | **Tree092109**: Fly-A-Pet Potion | **sab_1712**: Mythic Egg, Ride-A-Pet Potion |
-| 05:40 | **zxl0106**: Ride-A-Pet Potion ×4 | **Lxdyxx**: Pupcicle ×4 |
-| 05:40 | **usernameNahIAmGood**: Shark Puppy (MFR), Strawberry Tortle ×3, Sheeeeep | **zacmat123456**: Border Collie (MFR) |
-| 05:40 | **larisochka_gudeeva98**: Dango Penguins | **nona200986**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
