@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 19:16 UTC by the scrape workflow._
+_Updated 2026-11-14 19:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 19:16 UTC by the scrape workflow._
 | amvgg | 4 | 42,422 | 2026-11-14T19:15 |
 | elve | 4 | 9,152 | 2026-11-14T19:16 |
 
-## AMVGG completed trades: 14,892 total
+## AMVGG completed trades: 14,941 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 4,647 |
+| 2026-11-14 | 4,696 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 19:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:15 | **MR_Wuolf**: Alley Cat (R) | **Fidgetcat32**: Blue Cat Ear Headphones, S'mores Raccoon (FR) |
-| 19:15 | **altfortrades222**: Owl (FR) | **mikepower240508**: Evil Unicorn (NFR), Elephant (FR) |
-| 19:15 | **Aubrey_Giga54**: Shadow Dragon (NFR), Fairy Bat Dragon (NFR), Turtle (FR), Mr. Whiskerpips (M), Mrs. Whiskerpips (M) | **grlfri7nd**: Evil Unicorn (MFR), Balloon Unicorn (NFR), Flying Broomstick, Ghost Vehicle, Copycat (FR) |
-| 19:15 | **kytsune7777**: Fly-A-Pet Potion | **ElemikaPlay**: Cerberus (FR) |
-| 19:15 | **wizhi02**: Pig (MFR), Ram (MFR), Ghost Bunny (MFR), Kitty Bat (MFR) | **OBVIXALIX**: Copycat (MFR) |
-| 19:15 | **soy_anonim6**: Ram (MFR), Pretty Pony (MFR) | **fluffyunicorns_932**: Seabed Creeper (MFR), Harp Seal (MFR) |
-| 19:15 | **Meet_wm**: Kaijunior (M), Zodiac Minion Chick | **Angel_rainmonster**: Fly-A-Pet Potion |
-| 19:15 | **lqcedluvinq**: Honey Badger (MFR), 2022 Birthday Cake, Ride-A-Pet Potion ×2 | **blindforIove**: Frost Fury (MFR), Green Butterfly (MFR), White Sand Dollar (MFR), Royal Capuchin Monkey (MFR) |
-| 19:15 | **Urpookie_Ria**: Evil Unicorn (FR), Fly-A-Pet Potion, Tiny Wings | **C4rla_WasTaken**: Munchkin Cat (MFR) |
-| 19:15 | **disapp6ar**: Latte Kitsune (M), Orchid Butterfly (FR), Orchid Butterfly (R) ×2, Scorching Kaijunior (NR), Queen Bee (NFR) | **terrylonsoyjerry**: Royal Mistletroll (MFR) |
-| 19:15 | **Puppyofskz**: Ruff, Elf Shoes, Elf Bandana, Bunch Of Balloons, Satellite Spinner, Soulfire Animated Sticker ×2 | **ExoBunni**: Fly-A-Pet Potion |
-| 19:15 | **mezonlolxd**: Arctic Reindeer (FR) ×2, Cow (FR) ×3, Fairy Bat Dragon (FR) | **luvyerh**: Frost Dragon (FR) |
-| 19:15 | **Aptem_123v**: Jousting Horse (R), Ride-A-Pet Potion, Peahen ×3 | **DreamWalker_47**: Frost Fury (FR) |
-| 19:15 | **sofi233458**: Lunar Muscle Car | **tokyo_scream**: Squirrel Car |
-| 19:15 | **jkha7**: Ride-A-Pet Potion, Fly-A-Pet Potion, Picnic Basket | **barbiesdreamhousefan**: Latte Kitsune (R) |
+| 19:25 | **Emobiccc**: Tuxedo Cat | **cocalolaa1**: Pupcicle |
+| 19:25 | **FIurryball1234**: Tortuga de la Isla (NR), Ride-A-Pet Potion ×2 | **Alexa183199**: Cloud Car |
+| 19:25 | **hrt_s0ulz**: Pupcicle | **Prinssxlq**: Admin Abuse Egg ×18 |
+| 19:25 | **youngbet0**: Frost Fury (FR), Rhino (R) | **kiracd227**: Jester Dragon (FR) |
+| 19:25 | **weaxrr_YT**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×8 | **Vitek_228666**: Turtle (FR) |
+| 19:25 | **Vitek_228666**: Fairy Bat Dragon (FR) | **itzbluery**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 |
+| 19:25 | **svlqutjl**: Goose (FR), 2022 Birthday Party Hat, Spring Bunny Feet | **Mx1shu**: Rainbow Maker |
+| 19:25 | **Special_Foxi**: Jumpscare (MR), Christmas Spirit, Unicorn Ducky (N) | **Its_Skyler136**: Fly-A-Pet Potion |
+| 19:25 | **ToothlessStitch0**: Red Dutch Guinea Pig | **EvaGraceKitty2012**: Biodome Home |
+| 19:25 | **Yumi_Rose8**: Ride-A-Pet Potion ×3 | **sidik_ri**: Bunny Swirl (NFR) |
+| 19:25 | **Guestgermarnyboy**: Dingo (MR) | **6evesvokhaha**: Fly-A-Pet Potion |
+| 19:25 | **M00Nligth100**: Sunglider, Clover Cow ×2, Yellow Butterfly | **xochyrobaxcoB**: Green-Chested Pheasant, Dragonfly |
+| 19:25 | **itz_smurf1k**: Fly-A-Pet Potion | **ValiaaVK**: Onza (M) |
+| 19:25 | **dgaba_png**: Koi Carp (N) | **itsme_zanana**: Ride-A-Pet Potion |
+| 19:25 | **sissycat_237**: Shark Puppy (MFR), Cow (NFR), Pirate Ghost Capuchin Monkey (NFR), Strawberry Tortle (R) | **jayden190614**: Cryptid (NFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
