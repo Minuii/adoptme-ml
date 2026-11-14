@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 22:55 UTC by the scrape workflow._
+_Updated 2026-11-14 23:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 22:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 45,979 | 2026-11-14T22:45 |
-| elve | 4 | 9,914 | 2026-11-14T22:45 |
+| amvgg | 4 | 46,213 | 2026-11-14T23:00 |
+| elve | 4 | 9,983 | 2026-11-14T23:01 |
 
-## AMVGG completed trades: 15,907 total
+## AMVGG completed trades: 15,908 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,662 |
+| 2026-11-14 | 5,663 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,7 @@ _Updated 2026-11-14 22:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:00 | **Klaysi_flayra**: Mythic Egg, Woodland Egg, Admin Abuse Egg ×4 | **Adoptmestocks3000**: Ride-A-Pet Potion |
 | 22:55 | **maybetryitlater**: Strawberry Shortcake Bat Dragon (NFR) | **fluffyunicorns_932**: Strawberry Shortcake Bat Dragon (N) |
 | 22:55 | **zxl0106**: Ride-A-Pet Potion | **Aslie_17**: Pupcicle |
 | 22:55 | **rilaxlly**: Hyena (R), Brown Bear, Ride-A-Pet Potion, Well, Actually Walrus Sticker | **papaw02468**: Alley Cat, Goat (R) |
@@ -43,7 +44,6 @@ _Updated 2026-11-14 22:55 UTC by the scrape workflow._
 | 22:55 | **fallawwi**: Diamond Unicorn, Clumpty (M), Galapagos Sea Lion (M), Mummy Spider (N), Purrowl, Orangutan (N), Diamond Mahi Mahi | **enhy12345678**: Ride-A-Pet Potion |
 | 22:55 | **Thresh_1234**: Ride-A-Pet Potion ×2, Easter 2020 Egg | **Tree092109**: Fly-A-Pet Potion ×2 |
 | 22:55 | **Aggr0berlin**: Emu (N), Ermine (NR), Fire Foal (N), Zodiac Minion Chick | **Candelalapro11213**: Leviathan (R) |
-| 22:55 | **addmymain_adoptme2**: Fly-A-Pet Potion, Bready Necklace | **DrizzledTxffee**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
