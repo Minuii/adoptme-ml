@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 18:25 UTC by the scrape workflow._
+_Updated 2026-11-14 18:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 18:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 41,311 | 2026-11-14T18:15 |
-| elve | 4 | 8,919 | 2026-11-14T18:16 |
+| amvgg | 4 | 41,578 | 2026-11-14T18:30 |
+| elve | 4 | 9,008 | 2026-11-14T18:31 |
 
-## AMVGG completed trades: 14,591 total
+## AMVGG completed trades: 14,607 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 4,346 |
+| 2026-11-14 | 4,362 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 18:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:25 | **valentina_nic90**: Cryptid (FR), Siamese Cat (R), Elephant (R), Albino Monkey (FR), Spring Bunny Hood | **QJennyXlv**: Parrot (FR) |
-| 18:25 | **Luv_number5**: Copycat (N) | **ameliacaumeil**: Unicorn Horn |
-| 18:25 | **fayeamvgg**: Copycat (NR), Mochi Meow (NFR), Eggnog Dog | **sashaoookk**: Cupid Dragon (NFR) |
-| 18:21 | **Booriq**: Fairy Bat Dragon (NFR), Shrew, Fly-A-Pet Potion ×2 | **3maex**: Hedgehog (FR) |
-| 18:21 | **SupercoolAliyah5**: Pupcicle (N) | **Spion6607**: Ride-A-Pet Potion ×5 |
-| 18:21 | **daran_waren**: Purrowl, Diamond Unicorn | **KotBRO_TOP8**: King Bee |
-| 18:21 | **Mx1shu**: Candicorn, Pet Handler Pro Certificate | **Urpookie_Ria**: 2022 Birthday Cupcake Shoes |
-| 18:21 | **Koala_ql**: Siamese Cat | **dr1foreman**: Flamingo (FR) |
-| 18:21 | **Skz_bts176**: Snow Monkey (MFR) | **mikimimi_7**: Mini Pig (FR) |
-| 18:21 | **azucar4574l**: Blossom Snake (MFR) | **vvombii**: Fly-A-Pet Potion ×3 |
-| 18:21 | **FebarryAl**: Ride-A-Pet Potion | **egorpikta**: Mermaid Mansion |
-| 18:21 | **antuco_tuco909**: Toasty Red Panda (M), Chanekeh (MR) | **T0LMU**: Sakura Spirit (FR) |
-| 18:21 | **Baddiegurlieeee**: Ride-A-Pet Potion | **Jolien_188**: Pupcicle |
-| 18:21 | **luvyerh**: Kangaroo (FR), Ride-A-Pet Potion | **Letizia00000000**: Pig (FR), Arctic Fox (FR) |
-| 18:21 | **anst688**: Happy Duckling (R) | **Fox_13920**: Ride-A-Pet Potion |
+| 18:30 | **FXYZOP4**: Albino Monkey (MFR), Frost Fury (FR) | **EditorForeverlol**: Jungle Egg, Christmas Egg, Goose (NFR) |
+| 18:30 | **SpiritualMary10**: Copycat (N), Kitty Bat (MFR), Ride-A-Pet Potion | **Urfavorite1225**: Candicorn (NFR) |
+| 18:30 | **carnivoro_fuerte**: Rainbow Maker, Shadow Dragon Ducky (MFR), Halloween White Ghost Dragon (FR), 2026 Birthday Butterfly (MR), Lunar Tiger (MR), Ribbon Seal (MR) | **AmvggPi0n41K**: Mermicorn (NR) |
+| 18:30 | **Tree092109**: Fly-A-Pet Potion | **gggpppgggppp1**: Ride-A-Pet Potion, Christmas Future Egg |
+| 18:30 | **stellabrinasofia**: Magic House Door, Classic Trade Stand, Strawberry Shortcake Bow | **POMAHA948**: Pink Cat Ear Headphones |
+| 18:30 | **Tree092109**: Fly-A-Pet Potion | **nicoleta171727**: Gemstone Egg, Ride-A-Pet Potion |
+| 18:30 | **Scar_3090**: Happy Duckling (MR), Nightmare Owl (MR), Blossom Snake (MR) | **Koala_ql**: Flamingo (FR) |
+| 18:30 | **nicoleta171727**: Black Rhino (M), Camel (M), Retired Egg | **ifrit_3**: Ride-A-Pet Potion |
+| 18:30 | **blvdpawzi**: Nessie (MFR), Pancake Stack, Hopbop (MFR), Bready Necklace | **holaaaaaaxd2023**: Arctic Dusk Dragon (MFR) |
+| 18:30 | **cutesyghali**: Haetae (NFR), Goose (MFR), African Wild Dog (FR), Strawberry Shortcake Bat Dragon (FR), Cow (FR), Sugar Glider (FR) | **NickDavimaix**: Cryptid (MFR) |
+| 18:30 | **jellycatmar**: Harp Seal (MFR) | **sono_sempre622**: Vanilla Penguin (MFR) |
+| 18:30 | **elysign_xn**: Goldfish (NR), Starfish (NR) | **MemeFox_67**: Pupcicle |
+| 18:30 | **9izenn**: Copycat (M), Chocolate Chip Bat Dragon (NFR) | **Kakamakapaka98**: Border Collie (MFR), Dango Penguins (MFR), Clownfish (MFR) |
+| 18:30 | **JuliashaMeow**: Cow (FR) | **YOKOZ303**: Fly-A-Pet Potion ×17, Gemstone Egg |
+| 18:30 | **MM2_love30**: Cow (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Dutch Guinea Pig (NFR) | **bl0xby**: Evil Unicorn (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
