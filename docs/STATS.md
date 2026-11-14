@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 23:16 UTC by the scrape workflow._
+_Updated 2026-11-14 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 23:16 UTC by the scrape workflow._
 | amvgg | 4 | 46,478 | 2026-11-14T23:15 |
 | elve | 4 | 10,041 | 2026-11-14T23:16 |
 
-## AMVGG completed trades: 15,989 total
+## AMVGG completed trades: 16,017 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,744 |
+| 2026-11-14 | 5,772 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 23:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **elmenpobre8**: Owl (NFR) | **AseesCr7GoesBoom**: Strawberry Tortle (MFR) |
-| 23:15 | **vcloss**: Chick (MFR) | **mooyakko**: Preppy Capuchin Monkey (M) |
-| 23:15 | **kytsune7777**: Choco Penguin ×3, Clownfish | **ally_28901**: Kitsune |
-| 23:15 | **usl_c**: Turtle (NFR), Kangaroo (NFR) | **iiSimplyxSkyexx**: Cabbit (NFR) |
-| 23:15 | **idke0oo**: Fossil Egg | **zxl0106**: Ride-A-Pet Potion |
-| 23:15 | **DawnL9Lighti9Chill19**: Jellyfish (FR) | **mgjgmwg**: Sea Slug (R) |
-| 23:15 | **SadiSadie3**: Turtle (FR) | **Danila121219**: Fly-A-Pet Potion ×12 |
-| 23:15 | **Britishwnker1**: Unicorn Horn, Ride-A-Pet Potion ×2 | **sstrwberri1**: Arctic Fox (NFR) |
-| 23:15 | **laylaangel1309**: Copycat | **S4CRIFY**: Pupcicle ×6 |
-| 23:15 | **Ohanlonciara**: Strawberry Clip, Apple Owl (MFR), Gargoyle (NFR) | **alan_241295**: Sheeeeep (NFR) |
-| 23:15 | **xheartzpearlx**: Slime (NFR), Copycat | **Spooky_Aniyah**: Tortoiseshell Guinea Pig (FR) |
-| 23:15 | **24tyra**: Copycat, Tiny Wings, Pain au Chat | **Kozinak_k**: Binturong (MFR) |
-| 23:15 | **kuromi_BRD**: Copycat (NR), Jester Dragon (NFR) | **san_b116**: Arctic Reindeer (FR) |
-| 23:15 | **malinaaa489**: Cow (NFR), Pancake Stack, Ride-A-Pet Potion ×3, Butter Knife | **Drakosha_PloXoiyy**: Dalmatian (FR) |
-| 23:15 | **YoshYoshhhhhh**: Frost Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Arctic Reindeer (FR), Turtle (NFR), Alpaca (FR), Arctic Fox | **lina200r**: Chocolate Chip Bat Dragon (MFR) |
+| 23:20 | **MrsBump0**: Amami Rabbit (R), Frankenfeline (NR) | **fenekitfixismymain**: Ride-A-Pet Potion |
+| 23:20 | **LulusiaKoza123**: Turtle (FR) | **kartoshka_spogriba**: Alpaca (R), Ride-A-Pet Potion ×2 |
+| 23:20 | **vcloss**: Goldfish (M) | **Ivqser**: Firefighter Gibbon (M) |
+| 23:20 | **KittyQweenPlays1413**: Pain au Chat (MR) | **adorable_rhian**: Space Whale (MFR) |
+| 23:20 | **teryyyrttgfy**: Moon Rabbit (MFR) | **adorable_rhian**: English Sheepdog (MFR) |
+| 23:20 | **j2v73r**: Spring Bunny Hood | **Kayorilate**: Sea Turtle (MFR) |
+| 23:20 | **princessyuremi**: Cat (N) ×3, Persian Cat (M) ×2 | **coco_122339**: Latte Kitsune, Japanese Snow Fairy (M) |
+| 23:20 | **Bloodyskyxes**: Turtle (NFR) ×2, Cow (FR), Turtle (FR) ×3, Unicorn (MFR) | **Vitek_228666**: Owl (FR) |
+| 23:20 | **camskyyVICTORY**: Siamese Cat, Fly-A-Pet Potion ×2 | **lazygirlchallenge**: Vanilla Penguin (MR), Frostbite Bear and Cub Animated Sticker |
+| 23:20 | **RobloxIsLif3z**: Llama | **lola_bear1995**: Ride-A-Pet Potion ×2 |
+| 23:20 | **RobloxIsLif3z**: Gemstone Egg | **riceb4II**: Pain au Chat |
+| 23:20 | **canvrilita2**: Chihuahua, Pain au Chat, Crystal Egg ×3 | **batton0955**: Ride-A-Pet Potion |
+| 23:20 | **RobloxIsLif3z**: Mexican Wolf ×16 | **Clifford757**: Pain au Chat |
+| 23:20 | **cannotaffordme**: Halo, Amami Rabbit (MFR), Ice Cream Cone Hat | **sakurqin**: Naughty Mistletroll (MFR) |
+| 23:20 | **1tz_Miki**: Slime, Ghost Dog | **Mary_202401**: Pupcicle ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
