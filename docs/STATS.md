@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 10:11 UTC by the scrape workflow._
+_Updated 2026-11-14 10:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 10:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 32,690 | 2026-11-14T10:00 |
-| elve | 4 | 6,890 | 2026-11-14T10:01 |
+| amvgg | 4 | 32,947 | 2026-11-14T10:15 |
+| elve | 4 | 6,938 | 2026-11-14T10:16 |
 
-## AMVGG completed trades: 12,089 total
+## AMVGG completed trades: 12,115 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,844 |
+| 2026-11-14 | 1,870 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 10:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:06 | **Notmyaccount2803**: Caterpillar (R) | **Xxxxashhhh**: Fly-A-Pet Potion ×6 |
-| 10:06 | **stellabrinasofia**: Albino Bat (R), Ginger Cat (N) | **GEMYU900**: Ride-A-Pet Potion |
-| 10:06 | **raspowm**: Fire Stallion (NR) | **GEMYU900**: Ride-A-Pet Potion |
-| 10:06 | **elionadinda**: Oakee (N), Poltergeist Box ×2 | **GEMYU900**: Mochi Meow |
-| 10:06 | **Shqmpraises**: 2026 Birthday Butterfly (M), Skelicorn (N), Bobageist (N), Angus Calf (N), Beluga Whale (N), Purrowl (N) | **GEMYU900**: Fly-A-Pet Potion |
-| 10:06 | **SlimeImSlime**: Tiny Wings | **rattychan03**: Giant Cheetah Mount |
-| 10:06 | **GEMYU900**: Ratatoskr (M) | **vikakokz**: Ride-A-Pet Potion |
-| 10:06 | **llkkiop12345**: Unicorn Horn | **caitlin161213**: Pupcicle ×18 |
-| 10:06 | **goregoy67**: Candicorn (R) | **XxLipton_LemonxX**: Phantom Dragon (FR), Cupid Dragon (R) |
-| 10:06 | **AvaNari2010**: Drake | **Pia_ditzon**: Ride-A-Pet Potion |
-| 10:06 | **lxnxlyXfrxvxr**: Dirty Ducky, Wyvern, Ant (N) ×2, Tree Frog (N), Shih Tzu, Snow Cat, Kakapo (N), Water Opossum (N), Tarantula, Retired Egg ×4, Glyptodon Ducky, Frozen Penguin, Crimson Cape, Fairytale Egg | **Pashok_q**: Ride-A-Pet Potion |
-| 10:06 | **Sharpie_pies**: Cattuccino (MR) | **mjieoso**: Pupcicle ×3 |
-| 10:06 | **jayden_4nniversary**: Frostbite Bear (R) | **xmidozzzlate**: Turtle (FR) |
-| 10:06 | **ruryrhsxgryuf**: Mini Schnauzer | **croloveerr**: Ride-A-Pet Potion |
-| 10:06 | **ZDawnEchoz**: Diamond Ladybug (FR) | **IWantBGSPets1234**: Ride-A-Pet Potion |
+| 10:15 | **Ilovdsonics**: Emperor Gorilla (R), Toaster Hat | **COWZaydenFox2020**: Werewolf |
+| 10:15 | **flears_brai**: Stitches (M) ×4 | **Adiell158**: Snowball Pug (M) |
+| 10:15 | **kajaterezka**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×2 | **odading12318**: Kangaroo (FR) |
+| 10:15 | **sabri_8765**: Werewolf (R) | **ayagamer_11**: Frost Unicorn (R) |
+| 10:15 | **Kaya_JINO**: Orchid Butterfly (FR), Dalmatian (FR), Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (R), Shark Puppy (R), Munchkin Cat | **cuty_Bunny10**: Chocolate Chip Bat Dragon (M), Fly-A-Pet Potion |
+| 10:15 | **nomnomwiii**: Frost Dragon (FR), Pupcake (N) | **klaudiakotki8**: African Wild Dog (FR), Haetae, 2022 Birthday Party Horn |
+| 10:15 | **baby_brooke2007ban**: Chihuahua ×2 | **Eyekon4life_meganxo**: Ride-A-Pet Potion |
+| 10:15 | **xxDeAdSoS1Sxx**: Wolf ×3, Skelicorn, Mummy Spider ×2, Donkey ×2, Taco | **nmilovax**: Ride-A-Pet Potion |
+| 10:15 | **CAXAPOK_1122332**: Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **15xAuroa**: Frost Unicorn (FR) |
+| 10:15 | **Lily256398**: Copycat (R), Fly-A-Pet Potion | **shadowxxx14jl**: Jellyfish (R) |
+| 10:15 | **cuty_Bunny10**: Shadow Dragon (MFR), Fly-A-Pet Potion ×2, Chocolate Dutch Guinea Pig, Black Panther | **doraatje122**: Bat Dragon (NFR), Chocolate Chip Bat Dragon (M), Strawberry Shortcake Bat Dragon (NFR), Hedgehog (R), Dalmatian (FR), Candicorn, Turtle (FR), Fairy Bat Dragon (FR) |
+| 10:15 | **MHE_PL0XO00**: Red Squirrel (F), Caramelgeist (M) | **Pashok_q**: Ride-A-Pet Potion |
+| 10:15 | **mxkeys**: Fairy Bat Dragon (FR) | **twojstarydzikitygrys**: Copycat ×4 |
+| 10:15 | **PityGh0ul**: Cow (NFR), Tiny Wings | **kyle_A1T**: Ring-Tailed Lemur (MFR) |
+| 10:15 | **bazychko**: Retired Egg ×12 | **pisapopakakashecki**: Orangutan ×14 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
