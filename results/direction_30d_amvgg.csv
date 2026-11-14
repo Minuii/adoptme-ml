@@ -1,0 +1,2411 @@
+# as of 2026-11-12 (end of day UTC), 30 days ahead, trained on 2025-03-03 to 2026-10-13, 1,419,784 rows, HistGradientBoostingClassifier
+name,label,value,p_down,p_flat,p_up,call
+Border Collie,neon fly ride,59.0,0.0161,0.134,0.8498,up
+Cabbit,mega fly ride,350.0,0.0279,0.1267,0.8454,up
+Border Collie,default no potion,15.0,0.0126,0.1471,0.8403,up
+Emperor Gorilla,mega fly ride,194.0,0.044,0.1204,0.8356,up
+Border Collie,mega fly ride,232.0,0.0208,0.1516,0.8276,up
+Field Mouse,default no potion,6.0,0.0104,0.1664,0.8232,up
+Cabbit,neon fly ride,88.0,0.0292,0.1592,0.8117,up
+Field Mouse,neon fly ride,27.0,0.0141,0.2008,0.7851,up
+Frost Dragon,mega fly ride,1480.0,0.0306,0.1992,0.7702,up
+Cupid Dragon,neon fly ride,39.0,0.0432,0.1946,0.7622,up
+Field Mouse,mega fly ride,112.0,0.0145,0.2436,0.7419,up
+Rose Dragon,neon fly ride,16.5,0.0165,0.2454,0.7381,up
+Rose Dragon,default no potion,3.35,0.0121,0.2517,0.7361,up
+Strawberry Shortcake Bat Dragon,neon fly ride,154.0,0.023,0.2658,0.7112,up
+Rose Dragon,mega fly ride,68.0,0.0116,0.2832,0.7052,up
+Sakura Spirit,default no potion,10.0,0.0437,0.2578,0.6985,up
+Cupid Dragon,mega fly ride,158.0,0.0544,0.2599,0.6857,up
+Jellyfish,default no potion,10.0,0.0101,0.319,0.6708,up
+Sakura Spirit,neon fly ride,44.0,0.051,0.2913,0.6577,up
+Cheetah,default no potion,2.0,0.0093,0.3354,0.6553,up
+Mermicorn,mega fly ride,365.0,0.0137,0.3449,0.6414,up
+Sheeeeep,default no potion,6.0,0.0102,0.3488,0.641,up
+Emperor Gorilla,neon fly ride,48.0,0.0904,0.2696,0.64,up
+Fallow Deer,default no potion,4.0,0.0125,0.3535,0.6339,up
+Cupid Dragon,default no potion,9.0,0.0754,0.2923,0.6323,up
+Winged Tiger,default no potion,16.0,0.0128,0.3621,0.625,up
+Hare,default no potion,3.15,0.0332,0.3591,0.6077,up
+Sakura Spirit,mega fly ride,178.0,0.0609,0.3357,0.6034,up
+Pirate Ghost Capuchin Monkey,mega fly ride,170.0,0.0944,0.3068,0.5988,up
+French Bulldog,default no potion,1.0,0.0474,0.3637,0.5889,up
+Cheetah,mega fly ride,46.0,0.0137,0.3994,0.5869,up
+Groundhog,mega fly ride,88.0,0.0214,0.3966,0.582,up
+Mermicorn,neon fly ride,95.0,0.0118,0.417,0.5711,up
+Goat,default no potion,7.0,0.0211,0.4112,0.5677,up
+Fallow Deer,neon fly ride,19.0,0.0137,0.4284,0.5579,up
+Pirate Ghost Capuchin Monkey,default no potion,9.75,0.1265,0.3254,0.5481,up
+Emperor Gorilla,default no potion,11.25,0.1208,0.3362,0.5429,up
+Chocolate Chip Bat Dragon,neon fly ride,168.0,0.052,0.4252,0.5228,up
+Pelican,mega fly ride,508.0,0.1315,0.3525,0.516,up
+Winged Tiger,neon fly ride,70.0,0.014,0.4843,0.5017,up
+Copycat,mega fly ride,166.0,0.2513,0.2528,0.4959,up
+Fallow Deer,mega fly ride,78.0,0.0107,0.4937,0.4956,up
+Sugar Glider,neon fly ride,86.0,0.0098,0.4959,0.4943,flat
+Winged Tiger,mega fly ride,284.0,0.0123,0.5031,0.4846,flat
+Ballet Swan,default no potion,5.0,0.2233,0.2999,0.4768,up
+Mini Pig,mega fly ride,440.0,0.0152,0.5285,0.4562,flat
+Sea Slug,mega fly ride,208.0,0.0356,0.5084,0.456,flat
+Munchkin Cat,neon fly ride,42.0,0.046,0.5069,0.4471,flat
+Strawberry Tortle,mega fly ride,608.0,0.4347,0.1234,0.4419,up
+Hare,mega fly ride,62.0,0.03,0.5286,0.4414,flat
+Sea Slug,default no potion,12.0,0.0144,0.5452,0.4404,flat
+Mermicorn,default no potion,28.5,0.0087,0.553,0.4383,flat
+Candyfloss Chick,mega fly ride,300.0,0.0247,0.5374,0.4379,flat
+Pelican,neon fly ride,127.0,0.1651,0.4006,0.4343,up
+Unicorn,neon fly ride,5.0,0.0455,0.5209,0.4336,flat
+Sea Slug,neon fly ride,51.0,0.0147,0.5601,0.4252,flat
+Alpaca,mega fly ride,368.0,0.031,0.5497,0.4193,flat
+Matcha Cat,mega fly ride,136.0,0.2583,0.3229,0.4188,up
+Pirate Ghost Capuchin Monkey,neon fly ride,42.0,0.1852,0.3995,0.4153,up
+Mini Pig,neon fly ride,127.0,0.008,0.5818,0.4101,flat
+Dalmatian,neon fly ride,234.0,0.0295,0.562,0.4085,flat
+Arctic Reindeer,neon fly ride,146.0,0.1745,0.4187,0.4068,flat
+Orchid Butterfly,mega fly ride,1840.0,0.2942,0.3029,0.403,up
+Alpaca,neon fly ride,93.0,0.0328,0.5648,0.4024,flat
+Frost Dragon,neon fly ride,552.0,0.0105,0.5885,0.4011,flat
+Brown Bear,default no potion,4.0,0.0404,0.5702,0.3894,flat
+Goat,neon fly ride,31.0,0.035,0.576,0.3891,flat
+Ballet Swan,neon fly ride,23.0,0.2775,0.3374,0.3851,up
+Ballet Swan,mega fly ride,96.0,0.2951,0.321,0.3839,up
+Dalmatian,default no potion,80.5,0.1103,0.5068,0.3829,flat
+Sheeeeep,neon fly ride,26.0,0.0189,0.5998,0.3814,flat
+Owlbear,mega fly ride,88.0,0.0197,0.6086,0.3716,flat
+Frost Dragon,default no potion,328.0,0.0076,0.6248,0.3677,flat
+Snowball Pug,default no potion,0.2,0.0136,0.6224,0.364,flat
+Haetae,mega fly ride,1875.0,0.0757,0.5603,0.364,flat
+Strawberry Shortcake Bat Dragon,mega fly ride,510.0,0.127,0.5117,0.3613,flat
+Frost Unicorn,default no potion,23.0,0.2589,0.3812,0.3599,flat
+Sheeeeep,mega fly ride,108.0,0.0131,0.6273,0.3597,flat
+Arctic Reindeer,default no potion,74.0,0.3058,0.3347,0.3595,up
+Hedgehog,default no potion,93.5,0.2529,0.3881,0.359,flat
+Harp Seal,neon fly ride,7.0,0.0096,0.6345,0.3559,flat
+Giant Panda,neon fly ride,710.0,0.262,0.3852,0.3528,flat
+Hedgehog,neon fly ride,295.0,0.0321,0.6172,0.3507,flat
+Hare,neon fly ride,15.5,0.0287,0.621,0.3503,flat
+Dolphin,default no potion,0.18,0.0077,0.6438,0.3486,flat
+Sugar Glider,mega fly ride,340.0,0.0195,0.6378,0.3426,flat
+Chickatrice,default no potion,0.15,0.003,0.6559,0.3411,flat
+African Wild Dog,neon fly ride,600.0,0.0808,0.5859,0.3333,flat
+Cryptid,mega fly ride,1130.0,0.2795,0.3912,0.3293,flat
+Balloon Unicorn,neon fly ride,605.0,0.0213,0.6517,0.327,flat
+Alpaca,default no potion,23.0,0.0144,0.6623,0.3233,flat
+Cheetah,neon fly ride,11.0,0.0203,0.6605,0.3192,flat
+Yule Log Dog,default no potion,1.85,0.0572,0.6245,0.3182,flat
+Dango Penguins,default no potion,2.5,0.4173,0.2648,0.3179,down
+Alley Cat,default no potion,2.85,0.0968,0.5864,0.3168,flat
+Purrowl,default no potion,0.1,0.0482,0.6392,0.3126,flat
+French Bulldog,neon fly ride,5.75,0.0412,0.6469,0.3119,flat
+Polar Bear,default no potion,4.0,0.5154,0.1857,0.299,down
+Orchid Butterfly,neon fly ride,465.0,0.4503,0.2518,0.2979,down
+Pig,neon fly ride,24.0,0.0125,0.6911,0.2964,flat
+Siamese Cat,neon fly ride,60.0,0.0535,0.6507,0.2959,flat
+Chickatrice,mega fly ride,5.75,0.0032,0.7046,0.2921,flat
+Bunny Swirl,default no potion,0.4,0.0207,0.6882,0.2911,flat
+Shadow Dragon,mega fly ride,3310.0,0.024,0.686,0.29,flat
+African Wild Dog,mega fly ride,2100.0,0.0657,0.6473,0.287,flat
+Arctic Reindeer,mega fly ride,490.0,0.3957,0.3187,0.2856,down
+Chickatrice,neon fly ride,1.45,0.003,0.7138,0.2832,flat
+Bat Dragon,mega fly ride,6550.0,0.2453,0.4758,0.2789,flat
+Strawberry Tortle,default no potion,36.5,0.5721,0.1506,0.2773,down
+Dango Penguins,neon fly ride,13.0,0.3855,0.3373,0.2773,down
+Snowball Pug,mega fly ride,7.5,0.0117,0.7111,0.2772,flat
+Yule Log Dog,neon fly ride,10.5,0.0523,0.6716,0.2761,flat
+Latte Kitsune,neon fly ride,18.0,0.6617,0.0624,0.2759,down
+Candyfloss Chick,default no potion,21.0,0.0083,0.7221,0.2696,flat
+Yule Log Dog,mega fly ride,44.0,0.0516,0.6859,0.2626,flat
+Diamond King Penguin,default no potion,1.5,0.0242,0.7153,0.2605,flat
+Crow,default no potion,179.0,0.0073,0.735,0.2577,flat
+Latte Kitsune,default no potion,3.75,0.6989,0.0454,0.2557,down
+Hot Doggo,default no potion,39.5,0.0215,0.7231,0.2554,flat
+Alley Cat,neon fly ride,14.5,0.0631,0.682,0.255,flat
+Kitty Bat,default no potion,0.6,0.0589,0.6883,0.2528,flat
+Unicorn,mega fly ride,15.0,0.021,0.7268,0.2522,flat
+Candicorn,default no potion,20.5,0.5874,0.1609,0.2517,down
+Goat,mega fly ride,126.0,0.0195,0.7299,0.2507,flat
+Kangaroo,mega fly ride,99.0,0.0198,0.731,0.2492,flat
+Munchkin Cat,mega fly ride,145.0,0.1677,0.5832,0.2491,flat
+Sugar Glider,default no potion,29.0,0.0111,0.7415,0.2475,flat
+Purrowl,mega fly ride,5.0,0.0518,0.7009,0.2473,flat
+Diamond Butterfly,mega fly ride,950.0,0.1895,0.5632,0.2473,flat
+Fairy Bat Dragon,mega fly ride,290.0,0.3518,0.4025,0.2457,flat
+Silverback Gorilla,default no potion,9.0,0.5381,0.2165,0.2454,down
+Mochi Meow,neon fly ride,1.55,0.0776,0.6773,0.2451,flat
+Strawberry Penguin,neon fly ride,32.0,0.1703,0.5855,0.2442,flat
+Chocolate Chip Bat Dragon,mega fly ride,570.0,0.1361,0.6219,0.2419,flat
+Strawberry Penguin,mega fly ride,132.0,0.0929,0.6672,0.2399,flat
+Candyfloss Chick,neon fly ride,76.0,0.0119,0.7483,0.2398,flat
+Strawberry Penguin,default no potion,7.0,0.1012,0.6604,0.2384,flat
+Jousting Horse,mega fly ride,68.0,0.0816,0.6803,0.2381,flat
+Crow,neon fly ride,401.0,0.0066,0.7554,0.2379,flat
+Candicorn,neon fly ride,56.0,0.6177,0.1458,0.2366,down
+Parrot,neon fly ride,395.0,0.0244,0.7409,0.2347,flat
+Brown Bear,mega fly ride,66.0,0.0368,0.7288,0.2345,flat
+Silverback Gorilla,mega fly ride,162.0,0.6017,0.1669,0.2314,down
+Husky,default no potion,2.25,0.5665,0.2024,0.231,down
+Arctic Fox,neon fly ride,31.0,0.616,0.1538,0.2301,down
+Chihuahua,default no potion,0.34,0.1196,0.6509,0.2294,flat
+Haetae,neon fly ride,515.0,0.158,0.6132,0.2288,flat
+Blazing Lion,neon fly ride,585.0,0.4423,0.3308,0.2269,down
+Harp Seal,default no potion,1.24,0.0186,0.7552,0.2261,flat
+Evil Unicorn,neon fly ride,212.0,0.0137,0.7606,0.2258,flat
+Turtle,mega fly ride,123.0,0.0189,0.7602,0.2209,flat
+Bunny Swirl,neon fly ride,2.8,0.0212,0.7582,0.2206,flat
+Blue Dog,mega fly ride,220.0,0.041,0.7392,0.2199,flat
+Ice Wolf,neon fly ride,15.0,0.1073,0.6746,0.2181,flat
+Strawberry Tortle,neon fly ride,150.0,0.6627,0.1197,0.2176,down
+Hero Gibbon,neon fly ride,21.0,0.2796,0.5033,0.217,flat
+Alley Cat,mega fly ride,60.0,0.0644,0.7188,0.2168,flat
+Harp Seal,mega fly ride,29.0,0.0082,0.7787,0.2131,flat
+Silverback Gorilla,neon fly ride,40.0,0.6403,0.1497,0.21,down
+Mochi Meow,default no potion,0.11,0.0899,0.7023,0.2078,flat
+Frost Fury,mega fly ride,57.0,0.0121,0.7813,0.2065,flat
+Dragonfruit Fox,neon fly ride,13.0,0.5278,0.2656,0.2065,down
+Diamond Amazon,mega fly ride,112.0,0.1318,0.6665,0.2017,flat
+Goose,mega fly ride,344.0,0.0535,0.7463,0.2002,flat
+Balloon Unicorn,mega fly ride,2050.0,0.0428,0.757,0.2001,flat
+Snowball Pug,neon fly ride,1.8,0.0111,0.7902,0.1987,flat
+Cow,neon fly ride,83.0,0.0104,0.793,0.1967,flat
+Kitty Bat,mega fly ride,14.5,0.0475,0.7578,0.1946,flat
+Red Dutch Guinea Pig,mega fly ride,78.0,0.4399,0.3656,0.1945,down
+Jousting Horse,neon fly ride,16.5,0.1239,0.6826,0.1936,flat
+Mechapup,mega fly ride,184.0,0.3614,0.4454,0.1932,flat
+Copycat,default no potion,9.5,0.6762,0.1336,0.1903,down
+Hot Doggo,mega fly ride,440.0,0.0247,0.7866,0.1886,flat
+Diamond King Penguin,neon fly ride,9.0,0.0325,0.7799,0.1876,flat
+Cryptid,neon fly ride,305.0,0.4575,0.3552,0.1873,down
+Jekyll Hydra,neon fly ride,144.0,0.3171,0.4957,0.1873,flat
+Elephant,neon fly ride,53.0,0.0317,0.7827,0.1856,flat
+Cow,mega fly ride,222.0,0.0129,0.8026,0.1846,flat
+Ice Wolf,default no potion,3.0,0.1168,0.6988,0.1844,flat
+Caterpillar,mega fly ride,224.0,0.1494,0.6669,0.1837,flat
+Evil Unicorn,default no potion,117.0,0.0209,0.7963,0.1828,flat
+Jekyll Hydra,mega fly ride,550.0,0.2383,0.5801,0.1816,flat
+Blue Dog,neon fly ride,56.0,0.0327,0.7883,0.179,flat
+Siamese Cat,mega fly ride,200.0,0.5471,0.2749,0.178,down
+Swan,mega fly ride,40.0,0.0173,0.806,0.1766,flat
+Dolphin,mega fly ride,6.5,0.0122,0.8126,0.1752,flat
+Frost Unicorn,neon fly ride,90.0,0.6896,0.1365,0.1738,down
+Shadow Dragon,neon fly ride,1347.0,0.0088,0.8192,0.172,flat
+Giant Panda,mega fly ride,2820.0,0.1703,0.6581,0.1716,flat
+Moonbeam Peacock,neon fly ride,52.0,0.3802,0.4499,0.17,flat
+Jousting Horse,default no potion,3.35,0.1196,0.7106,0.1698,flat
+Tortoiseshell Guinea Pig,mega fly ride,300.0,0.366,0.4642,0.1697,flat
+Arctic Fox,mega fly ride,110.0,0.6613,0.1705,0.1682,down
+Dragonfruit Fox,default no potion,2.5,0.5803,0.2527,0.1671,down
+Evil Unicorn,mega fly ride,780.0,0.032,0.8011,0.1669,flat
+Candicorn,mega fly ride,170.0,0.6888,0.1445,0.1667,down
+German Shepherd,default no potion,1.1,0.0341,0.7999,0.1659,flat
+Hero Gibbon,default no potion,4.25,0.2454,0.5906,0.1641,flat
+Hyena,neon fly ride,19.0,0.0215,0.8145,0.164,flat
+Husky,neon fly ride,12.0,0.6417,0.1949,0.1635,down
+Chocolate Dutch Guinea Pig,default no potion,1.73,0.502,0.3352,0.1629,down
+Ice Wolf,mega fly ride,62.0,0.1023,0.7351,0.1626,flat
+Moonbeam Peacock,mega fly ride,212.0,0.3881,0.4519,0.1601,flat
+Unicorn,default no potion,0.75,0.0669,0.7735,0.1596,flat
+Amethyst Penguin,neon fly ride,566.0,0.4708,0.3703,0.1589,down
+Pretty Pony,neon fly ride,4.45,0.016,0.8255,0.1585,flat
+Mini Schnauzer,neon fly ride,5.3,0.0159,0.827,0.1572,flat
+Dango Penguins,mega fly ride,54.0,0.4892,0.3538,0.157,down
+Diamond Amazon,neon fly ride,27.0,0.1533,0.6901,0.1566,flat
+Parrot,mega fly ride,1018.0,0.0176,0.8262,0.1562,flat
+Giant Anteater,mega fly ride,150.0,0.1911,0.6557,0.1532,flat
+Dragon,default no potion,0.14,0.0958,0.7521,0.1521,flat
+Latte Kitsune,mega fly ride,76.0,0.7845,0.0648,0.1506,down
+Diamond King Penguin,mega fly ride,38.0,0.0481,0.8013,0.1505,flat
+Crow,mega fly ride,1220.0,0.01,0.84,0.15,flat
+Dalmatian,mega fly ride,870.0,0.1831,0.6678,0.1491,flat
+Hedgehog,mega fly ride,1130.0,0.0884,0.7625,0.149,flat
+Groundhog,neon fly ride,21.5,0.0176,0.8338,0.1486,flat
+Velocirooster,default no potion,5.25,0.3255,0.5281,0.1464,flat
+Undead Jousting Horse,mega fly ride,600.0,0.2458,0.6086,0.1456,flat
+Midnight Dragon,mega fly ride,132.0,0.4495,0.4067,0.1438,down
+Honey Badger,mega fly ride,100.0,0.0118,0.8457,0.1425,flat
+Ghostly Cat,default no potion,0.2,0.0631,0.7957,0.1412,flat
+Chocolate Dutch Guinea Pig,mega fly ride,39.0,0.4771,0.3823,0.1406,down
+Bunny Swirl,mega fly ride,12.2,0.0139,0.8457,0.1404,flat
+Hyena,mega fly ride,74.0,0.0169,0.8428,0.1402,flat
+Ancient Dragon,default no potion,0.1,0.0336,0.8278,0.1385,flat
+Slime,neon fly ride,7.25,0.1442,0.718,0.1378,flat
+Swan,neon fly ride,9.5,0.0195,0.8427,0.1377,flat
+Mini Schnauzer,default no potion,0.9,0.0235,0.8392,0.1373,flat
+Glacier Kitsune,default no potion,7.75,0.5822,0.2806,0.1372,down
+Christmas Pudding Pup,neon fly ride,33.0,0.7964,0.0677,0.1359,down
+Cattuccino,default no potion,0.13,0.5294,0.335,0.1356,down
+Polar Bear,neon fly ride,18.0,0.6485,0.2164,0.1351,down
+Chocolate Dutch Guinea Pig,neon fly ride,9.5,0.5354,0.3303,0.1343,down
+Bat Dragon,neon fly ride,2310.0,0.0488,0.8172,0.134,flat
+Shiver Wolf,default no potion,0.4,0.0095,0.8567,0.1338,flat
+Snow Monkey,mega fly ride,56.0,0.7628,0.1035,0.1337,down
+Pineapple Owl,mega fly ride,54.0,0.0885,0.7785,0.133,flat
+Phantom Dragon,neon fly ride,27.0,0.3646,0.5041,0.1313,flat
+Husky,mega fly ride,50.0,0.7078,0.1609,0.1313,down
+Puffin,default no potion,7.0,0.0655,0.8044,0.1301,flat
+Lava Dragon,mega fly ride,58.0,0.1642,0.7061,0.1297,flat
+Dolphin,neon fly ride,1.6,0.0074,0.8629,0.1296,flat
+Glormy Leo,mega fly ride,74.0,0.0235,0.8471,0.1294,flat
+Blazing Lion,mega fly ride,2240.0,0.3343,0.5368,0.1288,flat
+Aurora Fox,default no potion,11.0,0.5752,0.296,0.1287,down
+Dragon,mega fly ride,6.0,0.0299,0.8415,0.1286,flat
+Groundhog,default no potion,4.5,0.0245,0.8481,0.1274,flat
+Honey Badger,neon fly ride,24.0,0.0119,0.8612,0.1269,flat
+Slime,mega fly ride,30.0,0.1615,0.7122,0.1263,flat
+Mochi Meow,mega fly ride,5.25,0.2677,0.6073,0.1249,flat
+Peppermint Penguin,mega fly ride,500.0,0.3212,0.5544,0.1244,flat
+Dragonfruit Fox,mega fly ride,54.0,0.5602,0.3157,0.1241,down
+Red Dutch Guinea Pig,default no potion,3.5,0.3629,0.5135,0.1236,flat
+Burger Bear,default no potion,0.55,0.218,0.6591,0.1228,flat
+Ghost Bunny,default no potion,1.13,0.4934,0.3841,0.1224,down
+Fairy Bat Dragon,neon fly ride,95.0,0.3698,0.5085,0.1217,flat
+Frost Fury,default no potion,5.35,0.0291,0.8502,0.1207,flat
+Diamond Butterfly,neon fly ride,240.0,0.3716,0.508,0.1204,flat
+Kangaroo,neon fly ride,40.5,0.0156,0.8643,0.1201,flat
+Aurora Fox,neon fly ride,44.0,0.6134,0.2674,0.1193,down
+Tió De Nadal,mega fly ride,412.0,0.6582,0.223,0.1188,down
+Merry Mistletroll,default no potion,0.32,0.0097,0.8719,0.1184,flat
+Swan,default no potion,1.85,0.0232,0.8589,0.1179,flat
+Giraffe,neon fly ride,918.0,0.0214,0.8612,0.1175,flat
+Honey Badger,default no potion,5.25,0.0132,0.8695,0.1174,flat
+Shrew,neon fly ride,30.0,0.4428,0.4399,0.1173,down
+Glacier Kitsune,neon fly ride,35.0,0.5461,0.3367,0.1172,down
+Phantom Dragon,mega fly ride,108.0,0.2999,0.5837,0.1164,flat
+Shadow Dragon,default no potion,846.0,0.0071,0.878,0.115,flat
+Pupcake,default no potion,0.39,0.1065,0.7792,0.1143,flat
+Christmas Pudding Pup,default no potion,7.75,0.8099,0.0759,0.1142,down
+Giant Anteater,neon fly ride,37.0,0.143,0.7433,0.1137,flat
+Nessie,default no potion,6.25,0.0391,0.8474,0.1136,flat
+Snow Monkey,default no potion,3.0,0.83,0.0574,0.1125,down
+Midnight Dragon,default no potion,7.0,0.2835,0.6041,0.1123,flat
+Lion Cub,default no potion,7.5,0.1123,0.777,0.1107,flat
+Maine Coon,default no potion,0.17,0.0216,0.8681,0.1103,flat
+Frostbite Cub,default no potion,0.5,0.0112,0.8786,0.1102,flat
+Glacier Kitsune,mega fly ride,142.0,0.5218,0.3689,0.1093,down
+Copycat,neon fly ride,42.0,0.768,0.1237,0.1083,down
+Jester Dragon,default no potion,8.5,0.7151,0.1767,0.1082,down
+Slime,default no potion,1.28,0.1035,0.7891,0.1073,flat
+Jester Dragon,neon fly ride,36.0,0.7632,0.1297,0.1072,down
+Puffin,neon fly ride,31.0,0.0998,0.7933,0.1069,flat
+Velocirooster,mega fly ride,100.0,0.1736,0.7205,0.1059,flat
+Glacier Moth,neon fly ride,28.0,0.7409,0.1537,0.1054,down
+Goose,neon fly ride,101.0,0.0159,0.8789,0.1053,flat
+S'mores Raccoon,default no potion,0.97,0.1351,0.761,0.1039,flat
+Midnight Dragon,neon fly ride,32.0,0.3549,0.5413,0.1037,flat
+Giant Gold Scarab,default no potion,4.5,0.0468,0.8497,0.1035,flat
+Hero Gibbon,mega fly ride,84.0,0.2366,0.6601,0.1033,flat
+Kitty Bat,neon fly ride,3.8,0.0996,0.7979,0.1026,flat
+Frost Unicorn,mega fly ride,350.0,0.7852,0.1128,0.102,down
+Glacier Moth,default no potion,6.25,0.7119,0.187,0.1012,down
+Gingerbread Reindeer,mega fly ride,8.25,0.0043,0.8946,0.1011,flat
+Parrot,default no potion,197.5,0.0077,0.8912,0.1011,flat
+Pig,mega fly ride,85.0,0.0136,0.8865,0.1,flat
+Blue Whale,default no potion,0.1,0.0598,0.8407,0.0995,flat
+Kookaburra,default no potion,2.25,0.3957,0.5049,0.0995,flat
+Yeti,default no potion,0.68,0.0364,0.8642,0.0994,flat
+Sea Turtle,default no potion,0.11,0.0412,0.8596,0.0991,flat
+Zombie Buffalo,mega fly ride,110.0,0.3599,0.5414,0.0987,flat
+Nessie,neon fly ride,26.0,0.0348,0.8665,0.0987,flat
+Shrew,mega fly ride,120.0,0.3986,0.5031,0.0983,flat
+Jester Dragon,mega fly ride,150.0,0.7348,0.1669,0.0983,down
+S'mores Raccoon,mega fly ride,23.6,0.1419,0.7607,0.0974,flat
+Giant Gold Scarab,neon fly ride,21.0,0.0695,0.8334,0.0972,flat
+Mechapup,neon fly ride,46.0,0.4624,0.4404,0.0971,down
+Christmas Pudding Pup,mega fly ride,132.0,0.8435,0.0607,0.0958,down
+Irish Water Spaniel,default no potion,9.0,0.0572,0.8471,0.0957,flat
+Eel,default no potion,0.19,0.0132,0.8917,0.0951,flat
+Matcha Cat,neon fly ride,33.0,0.4721,0.4333,0.0946,down
+Giant Anteater,default no potion,8.5,0.2144,0.6919,0.0936,flat
+Papa Moose,mega fly ride,128.0,0.1633,0.7435,0.0932,flat
+Matcha Cat,default no potion,7.0,0.3583,0.55,0.0917,flat
+Giant Gold Scarab,mega fly ride,86.0,0.0564,0.852,0.0917,flat
+Shiver Wolf,neon fly ride,2.75,0.0069,0.9014,0.0917,flat
+Glacier Moth,mega fly ride,112.0,0.7413,0.1671,0.0916,down
+Polar Bear,mega fly ride,70.0,0.6951,0.2159,0.089,down
+Ghost Bunny,neon fly ride,6.5,0.5504,0.3608,0.0888,down
+Bauble Buddies,default no potion,0.2,0.0073,0.9043,0.0884,flat
+Happy Clam,default no potion,4.25,0.1328,0.7795,0.0877,flat
+Pink Cat,neon fly ride,32.0,0.0886,0.8239,0.0876,flat
+Majestic Pony,mega fly ride,50.0,0.0292,0.8836,0.0872,flat
+Irish Water Spaniel,mega fly ride,158.0,0.0525,0.8607,0.0868,flat
+Arctic Dusk Dragon,default no potion,6.75,0.824,0.0893,0.0867,down
+Chihuahua,neon fly ride,2.5,0.1055,0.8078,0.0867,flat
+Red Dutch Guinea Pig,neon fly ride,18.0,0.5055,0.4082,0.0863,down
+Diamond Amazon,default no potion,6.0,0.0621,0.852,0.0859,flat
+Skelicorn,default no potion,0.14,0.2529,0.6614,0.0856,flat
+Purrowl,neon fly ride,1.5,0.038,0.8766,0.0854,flat
+Vanilla Penguin,default no potion,0.98,0.0246,0.8902,0.0852,flat
+Snowball Pet,default no potion,0.64,0.0157,0.8992,0.0851,flat
+Puffin,mega fly ride,128.0,0.1412,0.7737,0.0851,flat
+Gingerbread Reindeer,default no potion,0.23,0.0032,0.9122,0.0846,flat
+Happy Clam,neon fly ride,20.0,0.117,0.7992,0.0838,flat
+Halloween White Ghost Dragon,mega fly ride,72.0,0.4311,0.4854,0.0835,flat
+Lion,mega fly ride,186.0,0.0196,0.8973,0.0831,flat
+Lion,neon fly ride,47.0,0.0336,0.8833,0.083,flat
+Glormy Leo,default no potion,3.75,0.0834,0.8337,0.0829,flat
+Albino Monkey,default no potion,17.25,0.0221,0.8952,0.0826,flat
+Zombie Buffalo,neon fly ride,28.0,0.4047,0.513,0.0823,flat
+Giraffe,mega fly ride,2880.0,0.0404,0.8774,0.0822,flat
+Nessie,mega fly ride,104.0,0.0245,0.8934,0.0821,flat
+Snow Monkey,neon fly ride,14.0,0.853,0.0661,0.0809,down
+Boohoo,default no potion,0.05,0.3129,0.6063,0.0808,flat
+Irish Water Spaniel,neon fly ride,39.0,0.061,0.8584,0.0806,flat
+Frost Phoenix,neon fly ride,11.5,0.0227,0.8973,0.08,flat
+Ghostly Cat,neon fly ride,1.8,0.0619,0.8583,0.0797,flat
+Happy Duckling,default no potion,0.45,0.0217,0.8986,0.0796,flat
+Albino Monkey,mega fly ride,196.0,0.0186,0.9023,0.0791,flat
+Shiver Wolf,mega fly ride,12.0,0.0097,0.9114,0.0789,flat
+Yeti,mega fly ride,17.8,0.0466,0.8745,0.0789,flat
+Cake Friend,default no potion,0.58,0.2073,0.7141,0.0786,flat
+Maine Coon,neon fly ride,1.65,0.0136,0.9081,0.0783,flat
+Many Mackerel,mega fly ride,120.0,0.103,0.8188,0.0783,flat
+Aurora Fox,mega fly ride,178.0,0.7132,0.2087,0.0781,down
+Jellyfish,neon fly ride,40.0,0.0112,0.9107,0.0781,flat
+Bat Dragon,default no potion,1013.0,0.0292,0.893,0.0778,flat
+Slimingo,mega fly ride,12.25,0.0498,0.8726,0.0776,flat
+Turtle,neon fly ride,55.0,0.0129,0.9099,0.0772,flat
+Slimingo,default no potion,0.43,0.0213,0.902,0.0767,flat
+Puptune,default no potion,0.18,0.0085,0.9151,0.0764,flat
+Moonbeam Peacock,default no potion,12.0,0.3588,0.5654,0.0758,flat
+Leopard Cat,default no potion,0.29,0.016,0.9092,0.0748,flat
+Ghost Bunny,mega fly ride,27.0,0.4743,0.4515,0.0742,down
+Moose Calf,mega fly ride,58.0,0.039,0.8874,0.0736,flat
+Yeti,neon fly ride,4.2,0.0211,0.9062,0.0728,flat
+Jumpscare,default no potion,0.05,0.1101,0.8172,0.0727,flat
+Chihuahua,mega fly ride,11.0,0.0872,0.8401,0.0727,flat
+Rainbow Dragon,mega fly ride,44.0,0.0486,0.8792,0.0722,flat
+Ghostly Cat,mega fly ride,7.5,0.1983,0.7303,0.0715,flat
+Winter Fawn,default no potion,0.09,0.0211,0.9079,0.071,flat
+Cerberus,default no potion,1.5,0.2813,0.6485,0.0702,flat
+Moon Rabbit,neon fly ride,4.5,0.0094,0.9206,0.07,flat
+Vanilla Penguin,mega fly ride,27.8,0.0272,0.9029,0.07,flat
+Jumpscare,mega fly ride,3.0,0.1209,0.8092,0.0698,flat
+Phantom Dragon,default no potion,8.0,0.43,0.5005,0.0694,flat
+Sea Turtle,neon fly ride,1.55,0.0334,0.8975,0.0691,flat
+Peppermint Penguin,neon fly ride,140.0,0.2253,0.7061,0.0685,flat
+Amethyst Penguin,mega fly ride,2304.0,0.4944,0.4377,0.0679,down
+Lavender Dragon,mega fly ride,47.0,0.0398,0.8924,0.0677,flat
+Slimingo,neon fly ride,3.15,0.0205,0.912,0.0675,flat
+Cerberus,neon fly ride,8.5,0.307,0.6257,0.0673,flat
+Tortoiseshell Guinea Pig,neon fly ride,73.0,0.4662,0.4665,0.0673,flat
+Caelum Cervi,mega fly ride,112.0,0.0566,0.8765,0.0669,flat
+Glormy Leo,neon fly ride,18.0,0.0567,0.8767,0.0666,flat
+Ring-Tailed Lemur,default no potion,4.75,0.0217,0.9121,0.0661,flat
+Arctic Dusk Dragon,neon fly ride,30.0,0.8581,0.0759,0.066,down
+Sugar Axolotl,mega fly ride,174.0,0.4869,0.4481,0.065,down
+Pretty Pony,mega fly ride,18.8,0.0118,0.9237,0.0645,flat
+Tió De Nadal,neon fly ride,102.0,0.7164,0.2191,0.0645,down
+Halloween White Mummy Cat,default no potion,0.13,0.0336,0.9021,0.0643,flat
+Lynx,neon fly ride,4.4,0.0186,0.9172,0.0642,flat
+Golden Griffin,mega fly ride,5.75,0.1262,0.8098,0.064,flat
+Sea Turtle,mega fly ride,5.25,0.0377,0.8987,0.0636,flat
+Pink Cat,mega fly ride,124.0,0.0789,0.8576,0.0636,flat
+Frost Fury,neon fly ride,16.0,0.027,0.9096,0.0633,flat
+Merry Mistletroll,neon fly ride,2.4,0.006,0.9313,0.0627,flat
+Reindeer,default no potion,0.8,0.0032,0.9343,0.0625,flat
+Cerberus,mega fly ride,34.0,0.239,0.6994,0.0616,flat
+Owlbear,default no potion,4.65,0.022,0.9165,0.0615,flat
+Mechapup,default no potion,11.0,0.4503,0.4884,0.0613,flat
+Lava Dragon,neon fly ride,15.0,0.1682,0.7707,0.0611,flat
+Bauble Buddies,neon fly ride,1.8,0.0057,0.9336,0.0607,flat
+Tió De Nadal,default no potion,25.5,0.7661,0.1739,0.0601,down
+Frost Phoenix,mega fly ride,48.0,0.0258,0.9143,0.0599,flat
+Velocirooster,neon fly ride,24.0,0.1797,0.7606,0.0597,flat
+Monkey King,mega fly ride,610.0,0.3393,0.6013,0.0594,flat
+Pretty Pony,default no potion,0.73,0.0164,0.9244,0.0593,flat
+Diamond Unicorn,neon fly ride,3.5,0.3454,0.5957,0.0589,flat
+Gaelic Fae,neon fly ride,10.0,0.1042,0.837,0.0587,flat
+Gingerbread Reindeer,neon fly ride,1.95,0.0038,0.9379,0.0583,flat
+Steppe Lion,default no potion,0.15,0.0034,0.9384,0.0582,flat
+Tri-Horned Treehopper,mega fly ride,108.0,0.186,0.7562,0.0578,flat
+Mini Schnauzer,mega fly ride,22.2,0.0243,0.918,0.0577,flat
+Lava Dragon,default no potion,3.5,0.2479,0.6946,0.0575,flat
+Oakee Wizard,neon fly ride,1.65,0.034,0.9086,0.0575,flat
+Lavender Dragon,default no potion,2.25,0.029,0.9138,0.0572,flat
+Sugar Axolotl,default no potion,10.0,0.5944,0.3484,0.0572,down
+Boohoo,mega fly ride,3.0,0.3676,0.5752,0.0572,flat
+Leopard Shark,default no potion,1.5,0.0189,0.9241,0.057,flat
+Mr Whiskerpips,default no potion,0.31,0.0345,0.9086,0.0569,flat
+Golden Unicorn,default no potion,0.19,0.0248,0.9185,0.0567,flat
+Tortoiseshell Guinea Pig,default no potion,17.0,0.4558,0.4876,0.0566,flat
+Bush Elephant,mega fly ride,252.0,0.2128,0.7306,0.0566,flat
+Boohoo,neon fly ride,0.9,0.2511,0.6924,0.0564,flat
+Dancing Dragon,default no potion,3.25,0.0312,0.9125,0.0563,flat
+Caelum Cervi,neon fly ride,27.0,0.0513,0.8925,0.0562,flat
+Dragon,neon fly ride,1.7,0.0483,0.8955,0.0562,flat
+Moon Rabbit,default no potion,0.75,0.0063,0.9375,0.0562,flat
+Therapy Dog,default no potion,0.33,0.0026,0.9414,0.0561,flat
+Old King Coal,default no potion,0.16,0.0125,0.9316,0.056,flat
+Narwhal,default no potion,0.13,0.0171,0.9269,0.0559,flat
+Diamond Unicorn,mega fly ride,13.65,0.5119,0.4323,0.0559,down
+Pupcake,neon fly ride,2.75,0.0892,0.8557,0.0551,flat
+Monkey King,neon fly ride,153.0,0.3072,0.6391,0.0537,flat
+Ancient Dragon,mega fly ride,5.0,0.0271,0.9195,0.0534,flat
+Halloween White Ghost Dragon,neon fly ride,18.0,0.5508,0.3962,0.0531,down
+S'mores Raccoon,neon fly ride,5.65,0.1254,0.8215,0.053,flat
+Alicorn,default no potion,0.11,0.1666,0.7808,0.0526,flat
+Halloween White Ghost Dragon,default no potion,4.25,0.4976,0.4499,0.0525,down
+Volcanic Rhino,mega fly ride,25.35,0.0247,0.9237,0.0516,flat
+Bubblegeist,mega fly ride,7.25,0.3419,0.6067,0.0514,flat
+Frostbite Bear,neon fly ride,115.0,0.5766,0.3723,0.0511,down
+Moose Calf,default no potion,2.75,0.0225,0.9266,0.0509,flat
+Brown Bear,neon fly ride,18.0,0.0337,0.9156,0.0507,flat
+Frostbite Cub,neon fly ride,3.3,0.0116,0.9378,0.0507,flat
+Tri-Horned Treehopper,neon fly ride,26.0,0.2316,0.7179,0.0505,flat
+Crocodile,mega fly ride,168.0,0.0209,0.9296,0.0495,flat
+Papa Moose,neon fly ride,31.0,0.1439,0.8067,0.0494,flat
+Kookaburra,mega fly ride,50.0,0.3534,0.5972,0.0494,flat
+Purple Butterfly,default no potion,3.25,0.0448,0.906,0.0492,flat
+Mummy Spider,default no potion,0.03,0.14,0.8108,0.0492,flat
+Basilisk,default no potion,0.16,0.0058,0.9452,0.049,flat
+Pineapple Owl,neon fly ride,13.0,0.0939,0.8571,0.0489,flat
+Lynx,mega fly ride,18.6,0.0231,0.9288,0.0482,flat
+Happy Duckling,neon fly ride,3.0,0.1071,0.8451,0.0478,flat
+Moon Rabbit,mega fly ride,19.0,0.0078,0.9449,0.0473,flat
+Candy Cane Snail,default no potion,0.3,0.005,0.9478,0.0472,flat
+Chicken,mega fly ride,30.0,0.0232,0.9297,0.047,flat
+Bubblegeist,default no potion,0.18,0.2235,0.73,0.0464,flat
+Jellyfish,mega fly ride,160.0,0.0097,0.9443,0.046,flat
+Rainbow Dragon,neon fly ride,10.5,0.0212,0.9329,0.0459,flat
+Bauble Buddies,mega fly ride,7.5,0.0055,0.9489,0.0456,flat
+Caelum Cervi,default no potion,6.0,0.0629,0.892,0.0451,flat
+Golden Penguin,default no potion,1.8,0.0366,0.9186,0.0449,flat
+Papa Moose,default no potion,7.0,0.065,0.8903,0.0448,flat
+Oakee Wizard,default no potion,0.13,0.0495,0.9058,0.0446,flat
+Many Mackerel,default no potion,6.5,0.1327,0.8228,0.0445,flat
+Flamingo,mega fly ride,290.0,0.0192,0.9364,0.0444,flat
+Brown Springer Spaniel,default no potion,0.86,0.0337,0.9221,0.0442,flat
+Monkey,default no potion,0.12,0.0342,0.9219,0.0439,flat
+Happy Clam,mega fly ride,83.0,0.0666,0.8902,0.0432,flat
+Sugar Axolotl,neon fly ride,43.0,0.5371,0.4201,0.0428,down
+Owl,mega fly ride,1825.0,0.0269,0.9309,0.0422,flat
+Owlbear,neon fly ride,21.5,0.0149,0.9431,0.0421,flat
+Caterpillar,neon fly ride,58.0,0.2948,0.6633,0.0419,flat
+Majestic Pony,neon fly ride,12.0,0.0205,0.9379,0.0416,flat
+Burger Bear,neon fly ride,3.55,0.2909,0.6675,0.0416,flat
+Dragonfly,default no potion,0.1,0.051,0.9076,0.0415,flat
+Albino Monkey,neon fly ride,51.0,0.0158,0.9428,0.0414,flat
+Skele-Rex,neon fly ride,7.0,0.0723,0.8865,0.0412,flat
+Shoebill,mega fly ride,2.25,0.1343,0.8247,0.0409,flat
+Pupcake,mega fly ride,12.0,0.0822,0.877,0.0408,flat
+Diamond Albatross,default no potion,4.75,0.4604,0.4988,0.0408,flat
+Flamingo,neon fly ride,74.0,0.0226,0.9366,0.0408,flat
+Bush Elephant,neon fly ride,68.0,0.2965,0.6629,0.0406,flat
+Queen Bee,default no potion,2.25,0.6096,0.3498,0.0406,down
+Reindeer,mega fly ride,18.0,0.0148,0.9447,0.0406,flat
+Dancing Dragon,neon fly ride,16.0,0.0255,0.934,0.0405,flat
+Shoebill,default no potion,0.0225,0.2389,0.7208,0.0403,flat
+Scorching Kaijunior,mega fly ride,60.0,0.2023,0.7576,0.0401,flat
+Raccoon,default no potion,0.2,0.0107,0.9496,0.0397,flat
+Pudding Cat,default no potion,0.22,0.0126,0.9477,0.0397,flat
+Corn Doggo,default no potion,1.85,0.021,0.9393,0.0397,flat
+Jumpscare,neon fly ride,0.9,0.0821,0.8783,0.0397,flat
+Arctic Dusk Dragon,mega fly ride,120.0,0.8803,0.0802,0.0396,down
+Lavender Dragon,neon fly ride,11.5,0.0198,0.9407,0.0395,flat
+Binturong,default no potion,0.77,0.0094,0.9514,0.0392,flat
+Owl,default no potion,246.5,0.0172,0.9436,0.0391,flat
+Flaming Fox,default no potion,2.0,0.033,0.9279,0.0391,flat
+Elephant,mega fly ride,190.0,0.0077,0.9533,0.039,flat
+Pineapple Owl,default no potion,2.5,0.0583,0.9028,0.0389,flat
+Vanilla Penguin,neon fly ride,6.86,0.0167,0.9447,0.0386,flat
+Dancing Dragon,mega fly ride,66.0,0.0218,0.9396,0.0386,flat
+Glormy Hound,mega fly ride,48.0,0.0147,0.9469,0.0384,flat
+Royal Mistletroll,mega fly ride,500.0,0.8932,0.0686,0.0382,down
+River Otter,default no potion,0.0325,0.0305,0.9313,0.0382,flat
+Leopard Shark,neon fly ride,8.35,0.0167,0.9452,0.0381,flat
+Rainbow Dragon,default no potion,1.85,0.0605,0.9015,0.038,flat
+Tri-Horned Treehopper,default no potion,5.75,0.2906,0.6715,0.0379,flat
+Merry Mistletroll,mega fly ride,10.5,0.0057,0.9565,0.0378,flat
+Frost Phoenix,default no potion,2.15,0.0677,0.8947,0.0376,flat
+Great Pyrenees,default no potion,0.62,0.0171,0.9454,0.0375,flat
+Undead Jousting Horse,neon fly ride,158.0,0.646,0.3165,0.0375,down
+Diamond Hummingbird,default no potion,5.5,0.3518,0.6108,0.0374,flat
+Quokka,default no potion,0.42,0.01,0.9527,0.0373,flat
+Christmas Spirit,default no potion,0.18,0.0204,0.9423,0.0372,flat
+Albino Bat,default no potion,0.3,0.0578,0.9051,0.0371,flat
+Ram,default no potion,1.38,0.0234,0.9395,0.037,flat
+Crocodile,neon fly ride,44.0,0.0307,0.9326,0.0367,flat
+Diamond Albatross,neon fly ride,22.0,0.4281,0.5351,0.0367,flat
+Tuxedo Cat,default no potion,1.08,0.464,0.4994,0.0365,flat
+Majestic Pony,default no potion,2.25,0.0123,0.9514,0.0364,flat
+German Shepherd,mega fly ride,26.4,0.0329,0.9308,0.0364,flat
+Reindeer,neon fly ride,4.5,0.0111,0.9528,0.0361,flat
+Amami Rabbit,default no potion,0.51,0.0045,0.9595,0.036,flat
+Stitches,default no potion,0.1,0.3837,0.5804,0.0359,flat
+Diamond Hummingbird,neon fly ride,25.0,0.5006,0.4634,0.0359,down
+German Shepherd,neon fly ride,6.35,0.0288,0.9354,0.0358,flat
+Ermine,default no potion,0.16,0.0118,0.9524,0.0358,flat
+Lava Wolf,default no potion,1.65,0.2106,0.7537,0.0357,flat
+Royal Corgi,neon fly ride,8.5,0.0174,0.9469,0.0357,flat
+Meerkat,neon fly ride,23.5,0.0186,0.9458,0.0356,flat
+Golden Penguin,neon fly ride,10.0,0.0337,0.9307,0.0356,flat
+Vampire Dragon,mega fly ride,148.0,0.5338,0.4307,0.0355,down
+Amami Rabbit,neon fly ride,3.25,0.0082,0.9562,0.0355,flat
+Gaelic Fae,mega fly ride,41.0,0.1103,0.8542,0.0355,flat
+Skelicorn,mega fly ride,6.0,0.4122,0.5525,0.0354,flat
+Platypus,neon fly ride,20.0,0.1039,0.8609,0.0353,flat
+Dire Wolf,default no potion,0.14,0.0237,0.941,0.0352,flat
+Lava Wolf,mega fly ride,40.0,0.2981,0.6667,0.0352,flat
+Evil Chickatrice,default no potion,0.37,0.0083,0.9566,0.0351,flat
+Samoyed,default no potion,0.1,0.0209,0.944,0.035,flat
+Giraffe,default no potion,475.0,0.0155,0.9495,0.035,flat
+Cattuccino,neon fly ride,1.4,0.389,0.576,0.035,flat
+Lava Wolf,neon fly ride,9.5,0.1363,0.8288,0.035,flat
+Black Springer Spaniel,default no potion,0.86,0.0341,0.931,0.0349,flat
+Frostbite Bear,mega fly ride,400.0,0.8308,0.1345,0.0347,down
+Panda,default no potion,0.94,0.0479,0.9175,0.0346,flat
+Caterpillar,default no potion,14.5,0.3102,0.6553,0.0345,flat
+Grim Dragon,mega fly ride,240.0,0.3173,0.6483,0.0345,flat
+Ghost Dog,default no potion,0.9,0.2831,0.6827,0.0341,flat
+Black Widow,mega fly ride,25.0,0.0792,0.8867,0.0341,flat
+Cake Friend,neon fly ride,3.7,0.2532,0.7127,0.0341,flat
+Werewolf,mega fly ride,202.0,0.3292,0.6367,0.0341,flat
+Shark Puppy,mega fly ride,155.0,0.0241,0.9418,0.0341,flat
+Eel,mega fly ride,6.75,0.0071,0.9595,0.0334,flat
+Scorching Kaijunior,default no potion,2.85,0.2938,0.6729,0.0333,flat
+Sweetheart Rat,default no potion,0.19,0.0068,0.9599,0.0333,flat
+Tuxedo Cat,mega fly ride,26.0,0.5522,0.4149,0.0329,down
+Black Panther,default no potion,1.25,0.0182,0.9491,0.0327,flat
+Chicken,default no potion,1.4,0.0181,0.9492,0.0327,flat
+Many Mackerel,neon fly ride,29.0,0.1228,0.8446,0.0326,flat
+Moose Calf,neon fly ride,14.0,0.0155,0.952,0.0325,flat
+Sushi Penguin,mega fly ride,25.35,0.0271,0.9404,0.0325,flat
+Candy Cane Snail,mega fly ride,10.0,0.0044,0.9631,0.0325,flat
+Ring-Tailed Lemur,mega fly ride,92.0,0.007,0.9606,0.0324,flat
+Scorching Kaijunior,neon fly ride,14.5,0.1897,0.778,0.0323,flat
+Flaming Fox,neon fly ride,11.0,0.0252,0.9426,0.0321,flat
+Maine Coon,mega fly ride,6.75,0.0147,0.9533,0.0321,flat
+Dark Choccybunny,default no potion,0.12,0.0399,0.9281,0.032,flat
+Shoebill,neon fly ride,0.7125,0.1179,0.8501,0.032,flat
+2021 Uplift Butterfly,default no potion,0.21,0.0206,0.9475,0.0319,flat
+Zombie Wolf,neon fly ride,6.6,0.5071,0.461,0.0319,down
+Lynx,default no potion,0.73,0.0145,0.9537,0.0318,flat
+Black-Chested Pheasant,neon fly ride,51.0,0.5217,0.4466,0.0318,down
+Flaming Zebra,default no potion,0.5,0.0035,0.9649,0.0316,flat
+Gaelic Fae,default no potion,1.83,0.0788,0.8897,0.0315,flat
+Diamond Albatross,mega fly ride,92.0,0.4627,0.5059,0.0315,flat
+Solaris,default no potion,2.25,0.5087,0.4599,0.0314,down
+Mirai Moth,neon fly ride,2.1,0.0114,0.9572,0.0314,flat
+Platypus,default no potion,4.25,0.0867,0.8822,0.0311,flat
+Diamond Unicorn,default no potion,0.5,0.4282,0.5407,0.0311,flat
+Tuxedo Cat,neon fly ride,6.25,0.4182,0.5509,0.0309,flat
+Puptune,neon fly ride,1.7,0.006,0.963,0.0309,flat
+Mrs Whiskerpips,default no potion,0.14,0.0318,0.9373,0.0309,flat
+Leopard Shark,mega fly ride,34.4,0.0156,0.9535,0.0309,flat
+2D Doggy,default no potion,1.5,0.2709,0.6982,0.0309,flat
+Cattuccino,mega fly ride,5.5,0.5292,0.4402,0.0306,down
+Glormy Hound,default no potion,2.15,0.0126,0.9568,0.0306,flat
+Ancient Dragon,neon fly ride,1.5,0.0538,0.9157,0.0305,flat
+Alicorn,mega fly ride,5.25,0.0789,0.8908,0.0303,flat
+Weevil,default no potion,0.04,0.0427,0.9271,0.0303,flat
+Waffle Wyrm,default no potion,0.09,0.0281,0.9417,0.0303,flat
+Sushi Penguin,default no potion,0.9,0.0376,0.9322,0.0302,flat
+Skele-Rex,mega fly ride,28.5,0.1026,0.8672,0.0302,flat
+Aestus,default no potion,2.5,0.3263,0.6436,0.0302,flat
+Irish Elk,default no potion,0.49,0.0051,0.9648,0.0302,flat
+Snowball Pet,neon fly ride,4.0,0.0201,0.9499,0.03,flat
+Snowball Pet,mega fly ride,17.0,0.0129,0.9572,0.0299,flat
+Scarebear,default no potion,1.05,0.2462,0.7239,0.0299,flat
+Sushi Penguin,neon fly ride,6.3,0.0277,0.9424,0.0299,flat
+Skele-Rex,default no potion,1.0,0.048,0.9222,0.0298,flat
+Royal Mistletroll,neon fly ride,125.0,0.8979,0.0726,0.0296,down
+Purple Butterfly,neon fly ride,16.0,0.0411,0.9295,0.0295,flat
+Pandaguin Glooptodog,default no potion,0.05,0.1641,0.8065,0.0294,flat
+Caramelgeist,default no potion,0.025,0.3134,0.6573,0.0293,flat
+Puptune,mega fly ride,7.0,0.0078,0.9629,0.0293,flat
+Kitsune,neon fly ride,3.85,0.0309,0.9399,0.0292,flat
+Snow Owl,mega fly ride,20.8,0.0645,0.9063,0.0292,flat
+Golden Unicorn,mega fly ride,7.5,0.0165,0.9545,0.0291,flat
+Hamster,default no potion,0.22,0.0225,0.9484,0.0291,flat
+2D Doggy,mega fly ride,38.0,0.4402,0.5309,0.0288,flat
+Horse,default no potion,0.47,0.0181,0.9531,0.0288,flat
+Tealwood Monster,default no potion,0.13,0.0481,0.9231,0.0288,flat
+Cake Friend,mega fly ride,15.8,0.3701,0.6012,0.0287,flat
+Meerkat,default no potion,5.25,0.0109,0.9605,0.0286,flat
+Therapy Dog,mega fly ride,10.25,0.004,0.9674,0.0286,flat
+Pudding Cat,mega fly ride,7.75,0.0086,0.9629,0.0285,flat
+Apple Owl,mega fly ride,21.4,0.1109,0.8607,0.0284,flat
+Brown Springer Spaniel,neon fly ride,5.1,0.0309,0.9407,0.0283,flat
+Volcanic Rhino,neon fly ride,6.3,0.0079,0.9638,0.0283,flat
+Royal Mistletroll,default no potion,32.0,0.8893,0.0824,0.0283,down
+Water Rabbit,neon fly ride,4.9,0.026,0.9461,0.0279,flat
+Seabed Creeper,neon fly ride,4.1,0.0432,0.929,0.0278,flat
+Cozy Mistletroll,default no potion,0.13,0.023,0.9495,0.0275,flat
+Chef Gorilla,default no potion,1.01,0.0046,0.9683,0.0271,flat
+Eel,neon fly ride,1.65,0.0074,0.9655,0.0271,flat
+Turkey,neon fly ride,11.0,0.04,0.933,0.027,flat
+Diamond Hummingbird,mega fly ride,104.0,0.5078,0.4653,0.027,down
+Snow Owl,neon fly ride,5.25,0.0461,0.9271,0.0268,flat
+Kookaburra,neon fly ride,12.0,0.6576,0.3156,0.0268,down
+Tree Kangaroo,mega fly ride,46.0,0.0165,0.957,0.0265,flat
+Flash Weasel,neon fly ride,83.0,0.9323,0.0413,0.0263,down
+Lamb,default no potion,1.8,0.0195,0.9543,0.0263,flat
+Oakee Wizard,mega fly ride,5.75,0.1924,0.7814,0.0262,flat
+Therapy Dog,neon fly ride,2.35,0.0029,0.971,0.0262,flat
+Snow Leopard,default no potion,0.14,0.0063,0.9679,0.0258,flat
+Blue Whale,neon fly ride,1.5,0.0814,0.893,0.0256,flat
+Turkey,default no potion,2.0,0.0364,0.938,0.0256,flat
+Kiwi Kiwi,mega fly ride,20.2,0.1897,0.7848,0.0255,flat
+Snowman,default no potion,0.13,0.0155,0.9591,0.0254,flat
+Flash Weasel,mega fly ride,350.0,0.9296,0.045,0.0254,down
+Grim Dragon,neon fly ride,71.0,0.4055,0.5691,0.0254,flat
+Tree Kangaroo,neon fly ride,11.0,0.022,0.9527,0.0254,flat
+Diamond Hamster,mega fly ride,44.0,0.0093,0.9653,0.0254,flat
+Black Panther,mega fly ride,27.0,0.0138,0.9608,0.0253,flat
+Black Macaque,neon fly ride,3.25,0.0346,0.9404,0.025,flat
+Dark Choccybunny,mega fly ride,5.5,0.131,0.8442,0.0248,flat
+Diamond Hamster,neon fly ride,10.5,0.0101,0.9652,0.0248,flat
+Candy Hare,mega fly ride,42.0,0.0151,0.9602,0.0248,flat
+Haetyphoon,mega fly ride,400.0,0.9646,0.0107,0.0247,down
+Happy Duckling,mega fly ride,13.0,0.08,0.8953,0.0246,flat
+Dragonfly,mega fly ride,5.0,0.0301,0.9452,0.0246,flat
+Candy Cane Snail,neon fly ride,2.3,0.0045,0.9709,0.0246,flat
+French Bulldog,mega fly ride,24.0,0.0193,0.9562,0.0246,flat
+Rice Cake Rabbit,default no potion,0.21,0.0044,0.9711,0.0244,flat
+Corn Doggo,mega fly ride,44.0,0.0259,0.9496,0.0244,flat
+Naughty Mistletroll,default no potion,4.5,0.4933,0.4823,0.0243,down
+Corn Doggo,neon fly ride,10.5,0.0244,0.9514,0.0243,flat
+Golden Penguin,mega fly ride,42.0,0.0327,0.9432,0.0241,flat
+Forest Sprite,neon fly ride,0.7,0.0286,0.9473,0.0241,flat
+Forest Sprite,default no potion,0.02,0.0877,0.8882,0.0241,flat
+Ice Cream Hermit Crab,default no potion,2.15,0.0356,0.9405,0.024,flat
+Blue Whale,mega fly ride,5.0,0.1558,0.8203,0.0239,flat
+Black Springer Spaniel,neon fly ride,5.1,0.0842,0.892,0.0238,flat
+Albino Bat,mega fly ride,10.0,0.0218,0.9544,0.0238,flat
+Blossom Snake,default no potion,0.14,0.0114,0.9648,0.0237,flat
+Leopard Cat,mega fly ride,9.5,0.0135,0.9628,0.0237,flat
+Kelp Crewmate,default no potion,0.09,0.0142,0.9621,0.0236,flat
+White Sand Dollar,default no potion,0.96,0.0293,0.9471,0.0236,flat
+Black Macaque,mega fly ride,14.0,0.0275,0.9489,0.0236,flat
+Choco Penguin,default no potion,0.17,0.0386,0.9378,0.0236,flat
+Headless Horse,default no potion,0.79,0.2529,0.7238,0.0233,flat
+Crab,default no potion,0.15,0.0067,0.97,0.0232,flat
+Bubblegeist,neon fly ride,1.9,0.1969,0.7799,0.0231,flat
+Cute-A-Cabra,default no potion,0.14,0.0069,0.9701,0.023,flat
+Bald Eagle,default no potion,8.0,0.3284,0.6487,0.0229,flat
+Vampire Dragon,neon fly ride,37.0,0.6838,0.2932,0.0229,down
+Skelicorn,neon fly ride,1.7,0.2563,0.7208,0.0229,flat
+Kiwi,default no potion,0.85,0.0154,0.9617,0.0229,flat
+Three Blind Mice,default no potion,0.14,0.1921,0.785,0.0229,flat
+Zombie Wolf,default no potion,1.15,0.6182,0.3589,0.0229,down
+Chef Gorilla,neon fly ride,5.9,0.0084,0.9688,0.0228,flat
+Mirai Moth,default no potion,0.26,0.0168,0.9604,0.0228,flat
+Gingerbread Mouse,default no potion,0.15,0.0086,0.9687,0.0227,flat
+Super Saru,neon fly ride,3.675,0.0412,0.9361,0.0227,flat
+Ninja Monkey,mega fly ride,36.0,0.0113,0.966,0.0227,flat
+Owl,neon fly ride,600.0,0.0204,0.957,0.0226,flat
+Burger Bear,mega fly ride,15.2,0.2232,0.7542,0.0226,flat
+Royal Corgi,mega fly ride,35.0,0.0537,0.9238,0.0226,flat
+Binturong,neon fly ride,4.65,0.0162,0.9613,0.0224,flat
+Hippogriff,mega fly ride,15.0,0.0994,0.8782,0.0224,flat
+Flaming Fox,mega fly ride,46.0,0.0202,0.9574,0.0223,flat
+Chilling Spider,default no potion,0.15,0.0111,0.9666,0.0223,flat
+Quokka,neon fly ride,2.8,0.0065,0.9712,0.0223,flat
+Puffer Fish,default no potion,1.0,0.0173,0.9604,0.0223,flat
+Aestus,mega fly ride,54.0,0.4115,0.5662,0.0223,flat
+Super Saru,default no potion,0.525,0.0062,0.9717,0.0221,flat
+Mistletroll,default no potion,0.09,0.0122,0.9659,0.0219,flat
+Pandaguin Glooptodog,neon fly ride,1.0,0.1262,0.8522,0.0217,flat
+Ring-Tailed Lemur,neon fly ride,22.0,0.0105,0.9678,0.0217,flat
+Haetyphoon,neon fly ride,95.0,0.9687,0.0097,0.0216,down
+Manta Ray,default no potion,0.27,0.0158,0.9627,0.0215,flat
+Gilded Snake,neon fly ride,4.76,0.0139,0.9647,0.0214,flat
+Hot Doggo,neon fly ride,124.0,0.0064,0.9723,0.0214,flat
+Mummy Spider,neon fly ride,0.8,0.2184,0.7603,0.0214,flat
+2022 Uplift Butterfly,default no potion,0.17,0.0084,0.9703,0.0213,flat
+Lion Cub,neon fly ride,33.0,0.0154,0.9633,0.0213,flat
+Gilded Snake,mega fly ride,18.75,0.0297,0.9491,0.0213,flat
+Rabbit,default no potion,0.0225,0.0347,0.9441,0.0212,flat
+Pain au Chat,default no potion,0.5,0.6822,0.2966,0.0212,down
+Mirai Moth,mega fly ride,9.0,0.0107,0.9683,0.0211,flat
+Winter Buck,default no potion,0.525,0.0538,0.9252,0.021,flat
+Shark Puppy,default no potion,12.5,0.0132,0.9659,0.0209,flat
+Cozy Mistletroll,neon fly ride,1.45,0.0074,0.9717,0.0209,flat
+Pudding Cat,neon fly ride,1.85,0.0075,0.9716,0.0209,flat
+Water Rabbit,default no potion,0.82,0.0119,0.9673,0.0208,flat
+Three Blind Mice,mega fly ride,6.0,0.1877,0.7917,0.0206,flat
+Golden Unicorn,neon fly ride,1.95,0.0133,0.9661,0.0206,flat
+Silly Duck,neon fly ride,8.5,0.0127,0.9667,0.0206,flat
+Aestus,neon fly ride,13.0,0.3966,0.5829,0.0205,flat
+Ghost Dog,neon fly ride,5.25,0.2612,0.7184,0.0204,flat
+Great Pyrenees,neon fly ride,3.85,0.0225,0.9571,0.0204,flat
+Kiwi,neon fly ride,5.0,0.0193,0.9604,0.0204,flat
+Stitches,mega fly ride,5.0,0.4799,0.4998,0.0204,flat
+Zombie Wolf,mega fly ride,27.4,0.6094,0.3703,0.0203,down
+Tree Kangaroo,default no potion,2.0,0.0139,0.9658,0.0203,flat
+Black-Chested Pheasant,mega fly ride,208.0,0.5188,0.461,0.0202,down
+Nautilus,default no potion,0.35,0.0356,0.9442,0.0202,flat
+Bald Eagle,neon fly ride,35.0,0.3774,0.6024,0.0201,flat
+Tortuga de la Isla,neon fly ride,30.0,0.0283,0.9516,0.0201,flat
+Flaming Zebra,mega fly ride,14.0,0.0093,0.9707,0.02,flat
+Ice Cream Hermit Crab,neon fly ride,11.5,0.0312,0.9489,0.0199,flat
+Mr Whiskerpips,mega fly ride,10.25,0.0149,0.9653,0.0198,flat
+Llama,neon fly ride,12.0,0.0645,0.9158,0.0197,flat
+Icy Porcupine,default no potion,0.14,0.0534,0.9268,0.0197,flat
+Scarebear,mega fly ride,30.0,0.2551,0.7252,0.0197,flat
+Stray Cat Dragon,mega fly ride,6.5,0.7605,0.2201,0.0194,down
+Glormy Hound,neon fly ride,11.5,0.0134,0.9673,0.0193,flat
+Evil Chickatrice,mega fly ride,11.6,0.0263,0.9546,0.0192,flat
+Eggnog Hare,default no potion,0.11,0.0054,0.9754,0.0192,flat
+Irish Elk,neon fly ride,3.2,0.0076,0.9733,0.0191,flat
+2D Doggy,neon fly ride,9.0,0.2191,0.7618,0.0191,flat
+2021 Uplift Butterfly,mega fly ride,7.25,0.0097,0.9713,0.019,flat
+Bolt,default no potion,0.0275,0.1078,0.8732,0.019,flat
+Llama,mega fly ride,49.0,0.0489,0.9321,0.019,flat
+Black Macaque,default no potion,0.49,0.0178,0.9633,0.0189,flat
+Black-Chested Pheasant,default no potion,11.5,0.4588,0.5223,0.0189,flat
+Bush Elephant,default no potion,20.0,0.2955,0.6857,0.0188,flat
+Alicorn,neon fly ride,1.55,0.1986,0.7826,0.0188,flat
+Raccoon,neon fly ride,1.7,0.0096,0.9718,0.0186,flat
+Rice Cake Rabbit,mega fly ride,7.75,0.0036,0.9778,0.0185,flat
+Moonbeam Butterfly,default no potion,1.5,0.0058,0.9757,0.0185,flat
+Naughty Mistletroll,neon fly ride,21.0,0.5237,0.4578,0.0184,down
+Scarebear,neon fly ride,7.25,0.243,0.7387,0.0183,flat
+Quokka,mega fly ride,12.2,0.0093,0.9725,0.0183,flat
+Toasty Red Panda,default no potion,0.38,0.04,0.9418,0.0183,flat
+Thorny Devil,default no potion,0.08,0.0058,0.9761,0.0181,flat
+Stray Cat Dragon,default no potion,0.16,0.7041,0.2779,0.0181,down
+Toy Monkey,default no potion,1.01,0.0143,0.9676,0.018,flat
+Ice Moth Dragon,neon fly ride,3.4,0.0351,0.9468,0.018,flat
+Llama,default no potion,2.25,0.045,0.9369,0.018,flat
+Queen Bee,neon fly ride,12.0,0.6968,0.2852,0.018,down
+Candy Hare,default no potion,1.75,0.0144,0.9676,0.018,flat
+Monkey King,default no potion,67.0,0.0549,0.9272,0.0178,flat
+Raccoon,mega fly ride,7.0,0.0094,0.9728,0.0178,flat
+Wood Pigeon,default no potion,2.0,0.0283,0.9539,0.0178,flat
+Apple Owl,default no potion,0.77,0.0503,0.9319,0.0177,flat
+Leopard Cat,neon fly ride,2.2,0.0135,0.9688,0.0177,flat
+Chicken,neon fly ride,7.0,0.0148,0.9676,0.0176,flat
+Golden Rat,mega fly ride,28.5,0.0487,0.9337,0.0176,flat
+Apple Owl,neon fly ride,5.39,0.0509,0.9316,0.0175,flat
+Feesh,default no potion,0.18,0.0113,0.9712,0.0175,flat
+Wooly Rhino,neon fly ride,8.25,0.0744,0.9081,0.0174,flat
+Mr Whiskerpips,neon fly ride,2.35,0.0167,0.9659,0.0174,flat
+Ice Moth Dragon,mega fly ride,13.25,0.0428,0.9399,0.0174,flat
+Dragonfly,neon fly ride,1.5,0.0256,0.957,0.0173,flat
+Steppe Lion,mega fly ride,6.0,0.0029,0.9798,0.0172,flat
+Queen Bee,mega fly ride,50.0,0.7436,0.2392,0.0172,down
+Strawberry Shortcake Ducky,mega fly ride,10.4,0.119,0.8638,0.0172,flat
+Horse,neon fly ride,3.15,0.0165,0.9663,0.0172,flat
+Strawberry Shortcake Ducky,default no potion,0.33,0.1311,0.8517,0.0172,flat
+Priceless Shrimp,mega fly ride,12.05,0.0294,0.9535,0.0171,flat
+Royal Corgi,default no potion,1.53,0.0106,0.9723,0.0171,flat
+Kelp Crewmate,mega fly ride,4.25,0.009,0.974,0.0171,flat
+Spider Crab,default no potion,0.16,0.0086,0.9744,0.017,flat
+Peachick,default no potion,0.22,0.2038,0.7794,0.0168,flat
+Officer Gibbon,default no potion,0.2,0.0079,0.9753,0.0168,flat
+Royal Capuchin Monkey,default no potion,0.78,0.0155,0.9678,0.0168,flat
+Seabed Creeper,default no potion,0.66,0.0269,0.9564,0.0167,flat
+Evil Chickatrice,neon fly ride,2.65,0.0124,0.9709,0.0167,flat
+Tasmanian Devil,default no potion,0.38,0.0059,0.9774,0.0167,flat
+Manta Ray,neon fly ride,2.15,0.009,0.9744,0.0166,flat
+Winter Fawn,mega fly ride,4.5,0.0098,0.9736,0.0166,flat
+Winged Horse,neon fly ride,4.55,0.2802,0.7032,0.0166,flat
+Evil Basilisk,neon fly ride,2.85,0.014,0.9694,0.0166,flat
+Emperor Shrimp,default no potion,0.12,0.0038,0.9796,0.0166,flat
+Bat,default no potion,0.12,0.0089,0.9746,0.0165,flat
+Black Moon Bear,mega fly ride,4.75,0.0063,0.9773,0.0164,flat
+Black Springer Spaniel,mega fly ride,21.4,0.0325,0.9511,0.0164,flat
+River Otter,neon fly ride,0.7625,0.0206,0.963,0.0163,flat
+Brown Springer Spaniel,mega fly ride,21.4,0.0368,0.9469,0.0163,flat
+Golden Rat,neon fly ride,7.0,0.0316,0.9521,0.0163,flat
+Bald Eagle,mega fly ride,142.0,0.3574,0.6264,0.0162,flat
+Flash Weasel,default no potion,19.0,0.9246,0.0593,0.0162,down
+Sweetheart Rat,neon fly ride,1.7,0.0057,0.9782,0.0161,flat
+Pandaguin Glooptodog,mega fly ride,3.5,0.1679,0.816,0.0161,flat
+Amami Rabbit,mega fly ride,14.0,0.005,0.9789,0.0161,flat
+Lion Cub,mega fly ride,134.0,0.013,0.971,0.016,flat
+Ringmaster Gibbon,default no potion,0.2,0.0145,0.9695,0.016,flat
+Tortuga de la Isla,mega fly ride,124.0,0.0213,0.9627,0.016,flat
+Gingerbread Hare,mega fly ride,8.75,0.0054,0.9788,0.0159,flat
+Pumpkin Friend,default no potion,0.33,0.0054,0.9789,0.0157,flat
+Volcanic Rhino,default no potion,0.9,0.0094,0.9748,0.0157,flat
+Peach Owl,mega fly ride,21.4,0.1011,0.8832,0.0157,flat
+Chipmunk,default no potion,0.36,0.0033,0.9811,0.0157,flat
+Dodo,neon fly ride,7.0,0.0212,0.9632,0.0156,flat
+Gingerbread Hare,default no potion,0.25,0.0102,0.9742,0.0156,flat
+Purple Butterfly,mega fly ride,66.0,0.024,0.9605,0.0155,flat
+Axolotl,mega fly ride,23.8,0.0356,0.9489,0.0155,flat
+Tortuga de la Isla,default no potion,6.75,0.0209,0.9637,0.0154,flat
+Lamb,mega fly ride,40.4,0.0181,0.9665,0.0154,flat
+Nautilus,neon fly ride,2.55,0.0257,0.9589,0.0154,flat
+Highland Cow,default no potion,0.35,0.0228,0.9619,0.0153,flat
+Easter Bunny,default no potion,0.12,0.0323,0.9524,0.0153,flat
+Wild Boar,default no potion,1.5,0.0137,0.971,0.0153,flat
+Snowy Mammoth,default no potion,0.14,0.0496,0.9352,0.0152,flat
+Albino Bat,neon fly ride,2.3,0.0231,0.9617,0.0152,flat
+Rooster,default no potion,0.3,0.0142,0.9707,0.015,flat
+Kage Crow,default no potion,0.28,0.0094,0.9755,0.015,flat
+Royal Capuchin Monkey,neon fly ride,5.46,0.0429,0.9422,0.0149,flat
+Ninja Monkey,default no potion,1.35,0.0071,0.9779,0.0149,flat
+Huntsman Robin,mega fly ride,5.5,0.2297,0.7553,0.0149,flat
+Lobster,mega fly ride,7.5,0.0063,0.9788,0.0149,flat
+Solaris,mega fly ride,50.0,0.4455,0.5396,0.0149,flat
+Evil Rock,neon fly ride,5.25,0.0064,0.9787,0.0149,flat
+Water Rabbit,mega fly ride,20.6,0.0138,0.9714,0.0149,flat
+Golden Jaguar,neon fly ride,3.05,0.0223,0.9628,0.0148,flat
+Munchkin Cat,default no potion,0.6,0.002,0.9832,0.0148,flat
+Inmate Capuchin Monkey,default no potion,0.29,0.0057,0.9796,0.0148,flat
+Indian Flying Fox,default no potion,0.24,0.0177,0.9676,0.0147,flat
+Eggnog Dog,default no potion,0.32,0.0093,0.976,0.0147,flat
+Samoyed,mega fly ride,4.75,0.0152,0.9702,0.0146,flat
+Super Saru,mega fly ride,14.3,0.0646,0.9208,0.0146,flat
+Naughty Mistletroll,mega fly ride,86.0,0.5488,0.4366,0.0146,down
+White Sand Dollar,neon fly ride,5.6,0.0262,0.9592,0.0146,flat
+Solaris,neon fly ride,12.0,0.4372,0.5483,0.0146,flat
+Ghost Dog,mega fly ride,22.0,0.2952,0.6903,0.0145,flat
+Ice Moth Dragon,default no potion,0.48,0.0169,0.9686,0.0145,flat
+Rooster,mega fly ride,10.0,0.0072,0.9783,0.0145,flat
+Puffer Fish,neon fly ride,5.85,0.0234,0.9621,0.0145,flat
+Evil Basilisk,default no potion,0.41,0.0185,0.9671,0.0144,flat
+Rice Cake Rabbit,neon fly ride,1.85,0.0039,0.9817,0.0144,flat
+Ram,neon fly ride,7.75,0.028,0.9576,0.0144,flat
+Diamond Hamster,default no potion,1.85,0.0073,0.9784,0.0144,flat
+Frostbite Cub,mega fly ride,14.2,0.0061,0.9796,0.0143,flat
+Christmas Spirit,neon fly ride,1.9,0.0159,0.9698,0.0143,flat
+Black Moon Bear,default no potion,0.1,0.0065,0.9793,0.0142,flat
+Hammerhead Shark,default no potion,0.12,0.006,0.9798,0.0141,flat
+Lamb,neon fly ride,9.85,0.0226,0.9633,0.0141,flat
+Green Amazon,default no potion,0.22,0.0133,0.9725,0.0141,flat
+Mummy Spider,mega fly ride,2.6,0.2089,0.7771,0.0141,flat
+Ocelot,neon fly ride,0.85,0.0541,0.9318,0.014,flat
+Mecha R4BBIT,mega fly ride,8.5,0.0057,0.9803,0.014,flat
+Green Butterfly,default no potion,1.25,0.0245,0.9615,0.0139,flat
+Tasmanian Devil,mega fly ride,11.6,0.0113,0.9748,0.0139,flat
+DJ Snooze,default no potion,0.12,0.005,0.9812,0.0138,flat
+Old King Coal,neon fly ride,1.5,0.006,0.9803,0.0137,flat
+Striped Eggy,default no potion,0.3,0.0194,0.967,0.0137,flat
+2021 Uplift Butterfly,neon fly ride,1.75,0.0064,0.9799,0.0137,flat
+Moonbeam Butterfly,neon fly ride,9.0,0.0059,0.9804,0.0136,flat
+Hamster,mega fly ride,8.0,0.0185,0.9678,0.0136,flat
+Golden Hummingbird,mega fly ride,16.45,0.0464,0.94,0.0136,flat
+Business Monkey,neon fly ride,4.25,0.0608,0.9256,0.0136,flat
+Basilisk,mega fly ride,6.25,0.0052,0.9812,0.0136,flat
+Shark Puppy,neon fly ride,47.0,0.0173,0.9691,0.0136,flat
+Axolotl,default no potion,0.85,0.0241,0.9623,0.0136,flat
+Australian Kelpie,default no potion,0.13,0.0275,0.9589,0.0136,flat
+Puffer Fish,mega fly ride,24.4,0.0193,0.9671,0.0135,flat
+Ninja Monkey,neon fly ride,8.5,0.0095,0.977,0.0135,flat
+Black Panther,neon fly ride,6.5,0.0125,0.974,0.0135,flat
+Lunar Moon Bear,default no potion,0.4,0.0057,0.9808,0.0135,flat
+Wood Pigeon,mega fly ride,46.0,0.0169,0.9696,0.0135,flat
+Forest Sprite,mega fly ride,2.2,0.0298,0.9567,0.0135,flat
+Gingerbread Hare,neon fly ride,2.05,0.0059,0.9807,0.0134,flat
+Mecha R4BBIT,default no potion,0.25,0.0062,0.9804,0.0134,flat
+Thorny Devil,mega fly ride,4.25,0.0044,0.9822,0.0134,flat
+Panda,neon fly ride,5.5,0.0409,0.9457,0.0134,flat
+Pain au Chat,neon fly ride,3.3,0.7059,0.2807,0.0134,down
+Old King Coal,mega fly ride,6.0,0.0059,0.9808,0.0133,flat
+Catte,neon fly ride,6.0,0.4167,0.57,0.0133,flat
+Tealwood Monster,neon fly ride,1.65,0.0389,0.9477,0.0133,flat
+Lobster,neon fly ride,1.8,0.0051,0.9816,0.0132,flat
+Winter Fawn,neon fly ride,1.2,0.0071,0.9797,0.0132,flat
+Pumpkin Friend,neon fly ride,2.45,0.0036,0.9832,0.0132,flat
+Goldhorn,default no potion,0.93,0.0301,0.9567,0.0132,flat
+Koala,default no potion,0.28,0.0156,0.9712,0.0131,flat
+River Otter,mega fly ride,2.45,0.0107,0.9763,0.0131,flat
+Meerkat,mega fly ride,96.0,0.0136,0.9734,0.013,flat
+Diamond Mahi Mahi,mega fly ride,6.25,0.0309,0.9561,0.013,flat
+Bobageist,mega fly ride,3.0,0.4218,0.5654,0.0128,flat
+Catte,mega fly ride,25.0,0.5801,0.4071,0.0128,down
+Flaming Zebra,neon fly ride,3.25,0.0045,0.9827,0.0128,flat
+Thorny Devil,neon fly ride,1.15,0.0033,0.984,0.0127,flat
+Wood Pigeon,neon fly ride,11.0,0.0214,0.966,0.0126,flat
+Black Widow,default no potion,0.89,0.0801,0.9073,0.0126,flat
+Canadian Goose,default no potion,0.36,0.0073,0.9801,0.0125,flat
+Rat,default no potion,0.19,0.0079,0.9796,0.0125,flat
+Birthday Butterfly 2024,default no potion,0.14,0.0074,0.9801,0.0125,flat
+Blue Ringed Octopus,default no potion,0.46,0.0054,0.9821,0.0125,flat
+Sweetheart Rat,mega fly ride,7.0,0.0061,0.9814,0.0125,flat
+Evil Basilisk,mega fly ride,12.4,0.0263,0.9612,0.0125,flat
+Lobster,default no potion,0.22,0.0063,0.9813,0.0125,flat
+Dark Choccybunny,neon fly ride,1.6,0.0177,0.9699,0.0124,flat
+Kelp Captain,default no potion,1.0,0.0506,0.937,0.0124,flat
+Silly Duck,mega fly ride,35.0,0.011,0.9766,0.0124,flat
+Basilisk,neon fly ride,1.55,0.0056,0.982,0.0124,flat
+Scarecrow,default no potion,0.08,0.0088,0.9788,0.0124,flat
+Toy Monkey,neon fly ride,5.9,0.0214,0.9663,0.0124,flat
+Winged Horse,mega fly ride,17.85,0.1277,0.86,0.0124,flat
+Kiwi,mega fly ride,21.0,0.0239,0.9637,0.0124,flat
+Toasty Red Panda,mega fly ride,11.8,0.1668,0.8208,0.0124,flat
+Pupcicle,neon fly ride,6.35,0.6117,0.376,0.0123,down
+Haetyphoon,default no potion,22.0,0.9753,0.0124,0.0123,down
+Seabed Creeper,mega fly ride,17.4,0.0607,0.927,0.0123,flat
+Emberlight,mega fly ride,17.85,0.2195,0.7682,0.0123,flat
+Turkey,mega fly ride,45.0,0.0302,0.9575,0.0123,flat
+Warthog,default no potion,0.12,0.0098,0.9781,0.0122,flat
+Strawberry Shortcake Ducky,neon fly ride,2.65,0.0802,0.9077,0.0122,flat
+Ice Golem,default no potion,3.25,0.1731,0.8147,0.0121,flat
+Fleur De Ice,default no potion,0.525,0.01,0.9779,0.0121,flat
+Axolotl,neon fly ride,5.95,0.0255,0.9624,0.012,flat
+Royal Capuchin Monkey,mega fly ride,21.7,0.0588,0.9292,0.012,flat
+Princess Capuchin Monkey,neon fly ride,5.11,0.015,0.9731,0.012,flat
+Kiwi Kiwi,neon fly ride,5.11,0.0902,0.898,0.0118,flat
+Hamster,neon fly ride,1.9,0.0235,0.9647,0.0118,flat
+Waffle Wyrm,mega fly ride,4.75,0.0438,0.9445,0.0117,flat
+Ice Golem,neon fly ride,16.0,0.1424,0.8459,0.0117,flat
+Emberlight,neon fly ride,4.55,0.0821,0.9062,0.0117,flat
+Kelp Raider,default no potion,0.12,0.0108,0.9776,0.0116,flat
+Hippo,default no potion,0.36,0.0062,0.9822,0.0116,flat
+Brown-Chested Pheasant,default no potion,0.22,0.0154,0.973,0.0116,flat
+Peacock,mega fly ride,24.7,0.0516,0.9368,0.0116,flat
+Samoyed,neon fly ride,1.25,0.0101,0.9784,0.0116,flat
+Skunk,default no potion,0.16,0.0097,0.9788,0.0116,flat
+Golden Jaguar,default no potion,0.45,0.0156,0.9729,0.0115,flat
+Dodo,mega fly ride,28.5,0.021,0.9675,0.0115,flat
+Ermine,neon fly ride,1.5,0.0098,0.9787,0.0115,flat
+English Sheepdog,default no potion,0.92,0.0092,0.9794,0.0115,flat
+Fossa,default no potion,0.1,0.0044,0.9842,0.0114,flat
+Tarsier,default no potion,0.35,0.0242,0.9643,0.0114,flat
+Stray Cat Dragon,neon fly ride,1.8,0.6664,0.3222,0.0114,down
+Cabbit,default no potion,6.25,0.0012,0.9875,0.0114,flat
+Singularity Beetle,default no potion,0.16,0.006,0.9827,0.0113,flat
+Coconut Friend,default no potion,0.39,0.0175,0.9712,0.0113,flat
+Dire Wolf,mega fly ride,6.0,0.0247,0.964,0.0113,flat
+Shark,neon fly ride,7.0,0.0235,0.9652,0.0113,flat
+Dilophosaurus,default no potion,0.12,0.0162,0.9725,0.0113,flat
+Princess Capuchin Monkey,mega fly ride,20.2,0.0267,0.962,0.0113,flat
+Business Monkey,default no potion,0.69,0.0132,0.9756,0.0112,flat
+Ghost Wolf,default no potion,0.11,0.0103,0.9786,0.0111,flat
+Rock,default no potion,0.1,0.0073,0.9815,0.0111,flat
+Scarecrow,mega fly ride,4.0,0.0131,0.9758,0.011,flat
+Penguin,default no potion,0.24,0.0258,0.9633,0.011,flat
+Starhopper,default no potion,0.16,0.0061,0.983,0.0109,flat
+Rhino,default no potion,1.25,0.0379,0.9511,0.0109,flat
+Triceratops,default no potion,0.12,0.0078,0.9813,0.0109,flat
+Flower Power Duckling,default no potion,0.34,0.0045,0.9847,0.0109,flat
+Bloodhound,default no potion,0.15,0.0119,0.9772,0.0109,flat
+Albino Gorilla,default no potion,1.65,0.0024,0.9867,0.0109,flat
+Firefighter Gibbon,default no potion,0.2,0.0147,0.9745,0.0108,flat
+Christmas Spirit,mega fly ride,7.25,0.0128,0.9764,0.0108,flat
+Catte,default no potion,1.03,0.5254,0.4638,0.0108,down
+Mistletroll,mega fly ride,4.25,0.0078,0.9815,0.0107,flat
+Kappakid,default no potion,0.2,0.0083,0.981,0.0107,flat
+Pupcicle,mega fly ride,26.4,0.6642,0.325,0.0107,down
+Count Slothula,default no potion,0.85,0.9053,0.084,0.0107,down
+Stitches,neon fly ride,1.3,0.2702,0.7191,0.0107,flat
+Pupcicle,default no potion,1.1,0.6629,0.3264,0.0107,down
+Headless Horse,mega fly ride,20.0,0.478,0.5114,0.0106,flat
+Steppe Lion,neon fly ride,1.5,0.0026,0.9868,0.0105,flat
+Ostrich,default no potion,0.19,0.0109,0.9786,0.0105,flat
+Emberlight,default no potion,0.65,0.1186,0.871,0.0105,flat
+Leviathan,neon fly ride,10.0,0.0219,0.9676,0.0105,flat
+Gecko,default no potion,0.34,0.0154,0.9741,0.0105,flat
+Ice Cream Hermit Crab,mega fly ride,48.0,0.026,0.9635,0.0104,flat
+Grim Dragon,default no potion,29.0,0.817,0.1727,0.0104,down
+Wolf,default no potion,0.3,0.0214,0.9682,0.0104,flat
+Snowman,neon fly ride,1.35,0.0087,0.9809,0.0104,flat
+Huntsman Robin,default no potion,0.12,0.2163,0.7733,0.0104,flat
+Platypus,mega fly ride,80.0,0.052,0.9377,0.0103,flat
+Headless Horse,neon fly ride,4.75,0.2846,0.7051,0.0103,flat
+Toasty Red Panda,neon fly ride,2.7,0.1023,0.8874,0.0103,flat
+The Black Dog,default no potion,0.13,0.0143,0.9754,0.0103,flat
+Burning Bunny,default no potion,0.33,0.0063,0.9835,0.0103,flat
+Great Pyrenees,mega fly ride,16.4,0.0196,0.9701,0.0103,flat
+Mrs Whiskerpips,mega fly ride,6.0,0.0293,0.9605,0.0102,flat
+Singularity Pisces,default no potion,0.17,0.0051,0.9847,0.0102,flat
+Primal Kaijunior,default no potion,0.4,0.0101,0.9797,0.0102,flat
+Criosphinx,default no potion,0.5,0.0224,0.9674,0.0102,flat
+Kage Crow,mega fly ride,9.5,0.0104,0.9795,0.0101,flat
+Nutcracker Squirrel,default no potion,0.15,0.0042,0.9857,0.0101,flat
+Silly Duck,default no potion,2.0,0.0083,0.9816,0.0101,flat
+Ibex,default no potion,0.21,0.0099,0.98,0.0101,flat
+Gargoyle,default no potion,0.8,0.0108,0.9791,0.0101,flat
+Diamond Ladybug,mega fly ride,36.0,0.0851,0.9048,0.0101,flat
+Yellow-Lipped Sea Krait,mega fly ride,3.75,0.0024,0.9876,0.0101,flat
+Indian Flying Fox,mega fly ride,8.5,0.0124,0.9775,0.01,flat
+Irish Elk,mega fly ride,13.8,0.0078,0.9822,0.01,flat
+Seafoam Butterfly,default no potion,0.21,0.0044,0.9856,0.01,flat
+Berry Cool Cube,neon fly ride,3.0,0.0182,0.9718,0.01,flat
+Fanghorn Tortoise,default no potion,0.21,0.0061,0.9839,0.01,flat
+Kelp Raider,neon fly ride,1.35,0.021,0.9691,0.01,flat
+Canadian Goose,mega fly ride,11.0,0.0221,0.9679,0.0099,flat
+Nebula Snake,default no potion,0.14,0.009,0.9811,0.0099,flat
+Binturong,mega fly ride,19.6,0.0111,0.979,0.0099,flat
+Abyssinian Cat,neon fly ride,0.85,0.0599,0.9302,0.0098,flat
+Malaysian Tapir,default no potion,0.21,0.01,0.9802,0.0098,flat
+Snow Leopard,mega fly ride,5.5,0.0043,0.9858,0.0098,flat
+Kelp Captain,mega fly ride,28.5,0.093,0.8972,0.0098,flat
+2D Kitty,default no potion,1.25,0.3753,0.6149,0.0098,flat
+Turtle Doves,default no potion,0.09,0.0133,0.9769,0.0098,flat
+Kelp Hunter,default no potion,0.21,0.0271,0.9631,0.0098,flat
+Green Butterfly,neon fly ride,8.0,0.0519,0.9384,0.0098,flat
+Evil Rock,mega fly ride,22.0,0.0119,0.9784,0.0097,flat
+Chef Gorilla,mega fly ride,24.6,0.0092,0.9812,0.0097,flat
+Sado Mole,default no potion,0.07,0.0132,0.9772,0.0096,flat
+Leviathan,default no potion,1.75,0.015,0.9754,0.0096,flat
+Ermine,mega fly ride,6.0,0.0087,0.9818,0.0096,flat
+Poison Dart Frog,default no potion,0.09,0.0029,0.9875,0.0095,flat
+Longhorn Cow,default no potion,0.25,0.0081,0.9824,0.0095,flat
+Komodo Dragon,default no potion,0.17,0.0028,0.9877,0.0095,flat
+Capybara,default no potion,1.35,0.0076,0.9829,0.0095,flat
+Peach Owl,default no potion,0.77,0.0421,0.9484,0.0095,flat
+Angus Cow,default no potion,0.03,0.0332,0.9573,0.0095,flat
+Space Whale,neon fly ride,2.9,0.0097,0.9809,0.0094,flat
+White Sand Dollar,mega fly ride,23.4,0.0357,0.9549,0.0094,flat
+Peach Owl,neon fly ride,5.39,0.0428,0.9479,0.0094,flat
+Capybara,mega fly ride,29.0,0.0137,0.9769,0.0094,flat
+Choco Penguin,mega fly ride,6.75,0.0373,0.9534,0.0093,flat
+Grave Owl,default no potion,0.16,0.0102,0.9805,0.0093,flat
+Candy Hare,neon fly ride,10.0,0.0151,0.9756,0.0093,flat
+Halloween Black Mummy Cat,default no potion,0.1,0.0085,0.9821,0.0093,flat
+Dire Wolf,neon fly ride,1.5,0.0539,0.9367,0.0093,flat
+Kappakid,mega fly ride,7.25,0.0076,0.9831,0.0093,flat
+Bali Starling,mega fly ride,3.25,0.0042,0.9865,0.0093,flat
+Goldfish,default no potion,0.26,0.0067,0.984,0.0093,flat
+Drake,default no potion,1.15,0.023,0.9677,0.0092,flat
+Space Whale,default no potion,0.42,0.0099,0.9809,0.0092,flat
+2022 Uplift Butterfly,neon fly ride,1.55,0.0076,0.9831,0.0092,flat
+Ice Golem,mega fly ride,66.0,0.1274,0.8634,0.0092,flat
+Green Butterfly,mega fly ride,33.0,0.0489,0.942,0.0092,flat
+Royal Palace Spaniel,default no potion,0.48,0.0584,0.9325,0.0091,flat
+Moonlight Moth,default no potion,0.33,0.0083,0.9826,0.0091,flat
+Kiwi Kiwi,default no potion,0.73,0.0945,0.8964,0.0091,flat
+Pumpkin Friend,mega fly ride,10.75,0.0079,0.983,0.0091,flat
+Eggnog Dog,mega fly ride,10.0,0.0058,0.9851,0.0091,flat
+Influencer Gibbon,default no potion,0.75,0.0156,0.9753,0.0091,flat
+Snowman,mega fly ride,5.25,0.0085,0.9824,0.0091,flat
+Criosphinx,neon fly ride,3.5,0.0183,0.9727,0.009,flat
+Hyena,default no potion,3.5,0.0067,0.9843,0.009,flat
+Sprout Snail,default no potion,0.2,0.0088,0.9822,0.009,flat
+Sandfish,neon fly ride,0.95,0.0045,0.9865,0.009,flat
+Dugong,default no potion,0.11,0.0075,0.9836,0.0089,flat
+Influencer Gibbon,mega fly ride,20.8,0.0345,0.9566,0.0089,flat
+Shetland Pony White,default no potion,0.2,0.01,0.9811,0.0088,flat
+Burning Bunny,mega fly ride,10.75,0.0079,0.9833,0.0088,flat
+Naga Dragon,mega fly ride,20.8,0.0202,0.971,0.0088,flat
+Rodeo Bull,default no potion,0.08,0.0089,0.9823,0.0088,flat
+Leviathan,mega fly ride,42.0,0.0171,0.9742,0.0087,flat
+Arctic Hare,default no potion,0.1,0.0052,0.9861,0.0087,flat
+Jacobin Pigeon,neon fly ride,0.75,0.1271,0.8642,0.0087,flat
+Violet Butterfly,default no potion,1.75,0.1286,0.8627,0.0087,flat
+Easter Bunny,neon fly ride,1.6,0.0145,0.9769,0.0087,flat
+Black Kite,default no potion,0.18,0.0034,0.988,0.0087,flat
+Sandfish,mega fly ride,3.25,0.0051,0.9863,0.0086,flat
+St Bernard,default no potion,0.3,0.0276,0.9638,0.0086,flat
+Onza,default no potion,0.1,0.0343,0.9572,0.0085,flat
+Wooly Rhino,mega fly ride,34.0,0.0534,0.9381,0.0085,flat
+Gilded Snake,default no potion,0.68,0.0101,0.9814,0.0085,flat
+Nautilus,mega fly ride,11.2,0.0231,0.9684,0.0085,flat
+Red Sand Dollar,neon fly ride,5.6,0.0276,0.9639,0.0085,flat
+Golden Hummingbird,neon fly ride,4.2,0.0278,0.9637,0.0085,flat
+Frogspawn,default no potion,0.09,0.0056,0.9859,0.0085,flat
+Angler Fish,default no potion,0.07,0.0019,0.9896,0.0085,flat
+Eggnog Dog,neon fly ride,2.3,0.0051,0.9864,0.0085,flat
+Weevil,mega fly ride,3.25,0.0241,0.9675,0.0084,flat
+Priceless Shrimp,default no potion,0.42,0.0133,0.9783,0.0084,flat
+Vermilion Butterfly,default no potion,0.32,0.0111,0.9804,0.0084,flat
+King Bee,default no potion,0.55,0.0272,0.9643,0.0084,flat
+Kelp Crewmate,neon fly ride,1.15,0.0057,0.9859,0.0084,flat
+Jacobin Pigeon,default no potion,0.03,0.1092,0.8825,0.0084,flat
+Floral Eggy,default no potion,0.12,0.0159,0.9758,0.0084,flat
+Tasmanian Devil,neon fly ride,2.65,0.0053,0.9864,0.0084,flat
+Mosquito,default no potion,0.05,0.0028,0.9889,0.0083,flat
+Vampire Dragon,default no potion,11.0,0.8887,0.103,0.0083,down
+Werewolf,neon fly ride,65.0,0.6427,0.3489,0.0083,down
+Roadrunner,default no potion,0.15,0.0124,0.9794,0.0082,flat
+Spinosaurus,default no potion,0.9,0.0131,0.9786,0.0082,flat
+Rhino,mega fly ride,27.0,0.0199,0.9719,0.0082,flat
+Scarecrow,neon fly ride,1.1,0.0082,0.9836,0.0082,flat
+Frog,default no potion,0.28,0.0106,0.9812,0.0082,flat
+Karate Gorilla,default no potion,0.67,0.004,0.9878,0.0082,flat
+Panda,mega fly ride,23.0,0.0261,0.9658,0.0082,flat
+Giant Blue Scarab,default no potion,0.31,0.0166,0.9753,0.0082,flat
+Shark,mega fly ride,28.5,0.0225,0.9694,0.0081,flat
+Coconut Friend,neon fly ride,2.95,0.0137,0.9782,0.0081,flat
+Kappakid,neon fly ride,1.75,0.0126,0.9793,0.0081,flat
+Inmate Capuchin Monkey,neon fly ride,2.25,0.007,0.9849,0.0081,flat
+Cow Calf,default no potion,0.31,0.0137,0.9783,0.0081,flat
+Mosquito,mega fly ride,3.0,0.0045,0.9874,0.0081,flat
+Maleo Bird,default no potion,0.06,0.0054,0.9866,0.0081,flat
+Fossa,mega fly ride,4.5,0.0033,0.9886,0.008,flat
+Borhyaena Gigantica,mega fly ride,3.75,0.0041,0.9879,0.008,flat
+Karate Gorilla,neon fly ride,4.15,0.0222,0.9698,0.008,flat
+Hippogriff,neon fly ride,3.85,0.1815,0.8105,0.008,flat
+Golden Hummingbird,default no potion,0.6,0.013,0.979,0.008,flat
+Manta Ray,mega fly ride,9.25,0.009,0.983,0.008,flat
+Brown-Chested Pheasant,neon fly ride,1.9,0.0068,0.9852,0.008,flat
+Love Bird,default no potion,0.19,0.0148,0.9772,0.008,flat
+Frogspawn,mega fly ride,4.25,0.0044,0.9876,0.008,flat
+Waffle Wyrm,neon fly ride,1.25,0.0252,0.9669,0.008,flat
+Inmate Capuchin Monkey,mega fly ride,9.75,0.0058,0.9863,0.008,flat
+Naga Dragon,default no potion,0.75,0.0108,0.9812,0.008,flat
+2D Kitty,neon fly ride,8.0,0.3109,0.6811,0.008,flat
+Cryptid,default no potion,17.0,0.0138,0.9783,0.0079,flat
+Cute-A-Cabra,neon fly ride,1.4,0.0039,0.9882,0.0079,flat
+Pterodactyl,default no potion,0.12,0.0132,0.9789,0.0079,flat
+Partridge,default no potion,0.25,0.0053,0.9868,0.0079,flat
+Rooster,neon fly ride,2.3,0.0067,0.9854,0.0079,flat
+Shrew,default no potion,1.0,0.0148,0.9773,0.0079,flat
+Cute-A-Cabra,mega fly ride,5.5,0.0041,0.988,0.0079,flat
+Jacobin Pigeon,mega fly ride,2.4,0.1572,0.835,0.0078,flat
+Cozy Mistletroll,mega fly ride,5.75,0.01,0.9822,0.0078,flat
+Wolf,mega fly ride,9.5,0.0109,0.9813,0.0078,flat
+Easter Bunny,mega fly ride,5.5,0.0136,0.9787,0.0077,flat
+Frozen Penguin,default no potion,0.14,0.0946,0.8977,0.0077,flat
+Penguin,mega fly ride,8.5,0.0206,0.9717,0.0077,flat
+Birthday Butterfly 2023,default no potion,0.11,0.0013,0.991,0.0077,flat
+Kitsune,mega fly ride,15.0,0.0228,0.9696,0.0076,flat
+Borhyaena Gigantica,default no potion,0.07,0.0023,0.9901,0.0076,flat
+Patchy Bear,default no potion,0.04,0.0114,0.981,0.0076,flat
+Brown-Chested Pheasant,mega fly ride,8.0,0.0078,0.9845,0.0076,flat
+Sandfish,default no potion,0.06,0.0053,0.9871,0.0076,flat
+Mecha R4BBIT,neon fly ride,2.0,0.0039,0.9886,0.0076,flat
+Ghost,default no potion,0.086,0.0398,0.9526,0.0076,flat
+Pig,default no potion,1.0,0.0042,0.9882,0.0076,flat
+Bali Starling,neon fly ride,0.95,0.0035,0.989,0.0075,flat
+Cow Calf,neon fly ride,2.3,0.011,0.9815,0.0075,flat
+Wren,default no potion,0.07,0.0059,0.9866,0.0075,flat
+Mrs Whiskerpips,neon fly ride,1.5,0.062,0.9305,0.0075,flat
+Influencer Gibbon,neon fly ride,5.25,0.013,0.9796,0.0075,flat
+Phoenix,default no potion,1.0,0.0251,0.9674,0.0075,flat
+Highland Cow,neon fly ride,2.55,0.0465,0.9461,0.0074,flat
+Princess Capuchin Monkey,default no potion,0.73,0.0126,0.9799,0.0074,flat
+Black Widow,neon fly ride,6.23,0.0432,0.9494,0.0074,flat
+Kelp Raider,mega fly ride,5.25,0.0075,0.9851,0.0074,flat
+Ladybug,default no potion,0.15,0.0107,0.9819,0.0074,flat
+Albino Gorilla,neon fly ride,9.5,0.0079,0.9847,0.0074,flat
+Sloth,default no potion,0.18,0.0155,0.9772,0.0073,flat
+Winter Buck,neon fly ride,3.675,0.0522,0.9405,0.0073,flat
+Angler Fish,mega fly ride,3.75,0.0028,0.9899,0.0073,flat
+Liger,default no potion,0.1,0.0024,0.9903,0.0073,flat
+Red Sand Dollar,default no potion,0.96,0.0233,0.9694,0.0073,flat
+Gibbon,default no potion,0.04,0.0047,0.9881,0.0073,flat
+White Choccybunny,default no potion,0.0475,0.0302,0.9626,0.0073,flat
+Golden Dragon,mega fly ride,5.75,0.0424,0.9503,0.0073,flat
+Mosquito,neon fly ride,0.9,0.0036,0.9892,0.0072,flat
+Rhino,neon fly ride,6.5,0.0617,0.9311,0.0072,flat
+Summer Walrus,default no potion,0.24,0.0143,0.9785,0.0072,flat
+Wooly Rhino,default no potion,1.48,0.0751,0.9177,0.0072,flat
+Ram,mega fly ride,32.0,0.0171,0.9757,0.0072,flat
+Tanuki,default no potion,0.21,0.01,0.9829,0.0072,flat
+Berry Cool Cube,default no potion,0.4,0.0179,0.975,0.0072,flat
+Cactus Friend,neon fly ride,5.95,0.0209,0.972,0.0072,flat
+Trapdoor Snail,default no potion,0.14,0.0062,0.9867,0.0071,flat
+Koala,mega fly ride,9.5,0.015,0.9779,0.0071,flat
+Grinmoire,default no potion,0.05,0.0424,0.9505,0.0071,flat
+Lammergeier,default no potion,0.15,0.0033,0.9896,0.0071,flat
+Preppy Capuchin Monkey,default no potion,0.29,0.0082,0.9847,0.0071,flat
+Flower Power Duckling,neon fly ride,2.5,0.0093,0.9837,0.0071,flat
+Bunny,default no potion,0.025,0.0848,0.9082,0.0071,flat
+Yellow-Lipped Sea Krait,default no potion,0.07,0.0015,0.9915,0.0071,flat
+Stegosaurus,default no potion,0.12,0.0136,0.9794,0.007,flat
+Eggnog Hare,mega fly ride,5.0,0.0031,0.9899,0.007,flat
+2D Kitty,mega fly ride,34.0,0.5605,0.4325,0.007,down
+Ghost Wolf,neon fly ride,1.3,0.0263,0.9667,0.007,flat
+Snow Owl,default no potion,0.75,0.0144,0.9786,0.007,flat
+Koi Carp,default no potion,0.28,0.0195,0.9735,0.007,flat
+Horse,mega fly ride,13.6,0.0099,0.9831,0.0069,flat
+Undead Elk,default no potion,0.16,0.0043,0.9888,0.0069,flat
+Snow Leopard,neon fly ride,1.4,0.0043,0.9888,0.0069,flat
+Oryx,default no potion,0.08,0.0054,0.9878,0.0069,flat
+Peahen,mega fly ride,24.4,0.4967,0.4964,0.0069,down
+Koala,neon fly ride,2.2,0.022,0.9711,0.0069,flat
+T-Rex,default no potion,0.89,0.016,0.9772,0.0069,flat
+Peachick,mega fly ride,8.0,0.1008,0.8924,0.0068,flat
+Gecko,mega fly ride,10.75,0.0181,0.9751,0.0068,flat
+Bluebottle Fly,default no potion,0.05,0.0019,0.9913,0.0068,flat
+T-Rex,mega fly ride,25.0,0.0242,0.969,0.0068,flat
+Indian Leopard,default no potion,0.09,0.0025,0.9907,0.0068,flat
+Chameleon,default no potion,0.63,0.0552,0.938,0.0068,flat
+General Sheepdog,default no potion,0.4,0.3338,0.6595,0.0068,flat
+Emperor Shrimp,neon fly ride,1.35,0.0023,0.991,0.0068,flat
+Gargoyle,neon fly ride,5.6,0.0081,0.9851,0.0068,flat
+Rat,mega fly ride,7.0,0.0042,0.989,0.0067,flat
+Slug,default no potion,0.09,0.0145,0.9788,0.0067,flat
+Crab,mega fly ride,5.75,0.0063,0.987,0.0067,flat
+Shetland Pony White,mega fly ride,7.5,0.0067,0.9866,0.0067,flat
+Marabou Stork,default no potion,0.13,0.0077,0.9856,0.0067,flat
+Ghost Wolf,mega fly ride,5.0,0.0136,0.9798,0.0067,flat
+Crab,neon fly ride,1.45,0.0053,0.988,0.0067,flat
+Classic Teapot,default no potion,0.15,0.0085,0.9849,0.0067,flat
+Bolt,neon fly ride,0.7375,0.0563,0.937,0.0067,flat
+Golden Chow-Chow,default no potion,1.65,0.0198,0.9736,0.0066,flat
+Toy Monkey,mega fly ride,24.6,0.0269,0.9665,0.0066,flat
+Ankylosaurus,default no potion,0.13,0.005,0.9884,0.0066,flat
+Red Squirrel,default no potion,0.44,0.0065,0.9869,0.0066,flat
+Glormy Crab,default no potion,0.18,0.0661,0.9273,0.0066,flat
+Three Blind Mice,neon fly ride,1.7,0.1371,0.8563,0.0066,flat
+Bobageist,default no potion,0.06,0.4429,0.5505,0.0066,flat
+Irish Setter,default no potion,0.03,0.0239,0.9695,0.0066,flat
+Orange Betta Fish,default no potion,0.06,0.0056,0.9878,0.0066,flat
+Singularity Pisces,mega fly ride,6.5,0.0034,0.9901,0.0066,flat
+White Choccybunny,neon fly ride,0.8375,0.0249,0.9686,0.0066,flat
+Winter Doe,default no potion,0.19,0.0172,0.9762,0.0065,flat
+Giant Black Scarab,default no potion,0.21,0.0102,0.9833,0.0065,flat
+Ocelot,mega fly ride,2.8,0.0705,0.9231,0.0064,flat
+Guardian Lion,mega fly ride,20.5,0.171,0.8226,0.0064,flat
+Feesh,mega fly ride,6.75,0.0083,0.9853,0.0064,flat
+Cow Calf,mega fly ride,10.0,0.0125,0.9811,0.0064,flat
+Hammerhead Shark,mega fly ride,5.0,0.0051,0.9885,0.0064,flat
+Wolf,neon fly ride,2.2,0.0113,0.9824,0.0064,flat
+Blossom Snake,neon fly ride,1.45,0.0066,0.9871,0.0064,flat
+Peachick,neon fly ride,1.9,0.0619,0.9318,0.0064,flat
+King Bee,neon fly ride,3.85,0.0363,0.9574,0.0064,flat
+Goldhorn,mega fly ride,26.25,0.0356,0.9581,0.0063,flat
+Angus Bull,mega fly ride,9.5,0.039,0.9547,0.0063,flat
+Primal Kaijunior,neon fly ride,3.0,0.028,0.9656,0.0063,flat
+Winged Horse,default no potion,0.65,0.0606,0.9331,0.0063,flat
+Cockroach,default no potion,0.11,0.0018,0.9919,0.0063,flat
+Kelp Captain,neon fly ride,7.0,0.0391,0.9546,0.0063,flat
+Officer Gibbon,mega fly ride,7.5,0.0047,0.9891,0.0063,flat
+Squid,default no potion,0.63,0.1285,0.8652,0.0063,flat
+Bluebottle Fly,neon fly ride,0.9,0.0022,0.9916,0.0063,flat
+Striped Eggy,mega fly ride,9.85,0.0144,0.9794,0.0063,flat
+Red Crowned Crane,default no potion,0.14,0.0193,0.9745,0.0063,flat
+Wild Boar,mega fly ride,31.0,0.012,0.9817,0.0063,flat
+Hermit Crab,default no potion,0.09,0.0023,0.9914,0.0062,flat
+Moonbeam Butterfly,mega fly ride,38.0,0.0067,0.9871,0.0062,flat
+Prismatic Butterfly,default no potion,1.2,0.0068,0.987,0.0062,flat
+Piranha,default no potion,0.05,0.0031,0.9907,0.0062,flat
+T-Rex,neon fly ride,6.23,0.0174,0.9765,0.0062,flat
+Golden Chow-Chow,neon fly ride,9.5,0.0257,0.9681,0.0061,flat
+2022 Uplift Butterfly,mega fly ride,6.25,0.0063,0.9875,0.0061,flat
+Vermilion Butterfly,neon fly ride,2.4,0.0205,0.9734,0.0061,flat
+Shadow Dragon Ducky,default no potion,0.36,0.3439,0.65,0.0061,flat
+Kage Crow,neon fly ride,2.2,0.007,0.9869,0.0061,flat
+Werewolf,default no potion,24.5,0.8253,0.1686,0.0061,down
+Skelebat,default no potion,0.13,0.0108,0.9831,0.0061,flat
+Tealwood Monster,mega fly ride,5.75,0.0494,0.9445,0.0061,flat
+Diamond Ladybug,default no potion,1.35,0.0563,0.9377,0.006,flat
+Yellow Butterfly,default no potion,0.1,0.0135,0.9804,0.006,flat
+Scarecrow Crow,default no potion,0.44,0.0312,0.9628,0.006,flat
+Red Sand Dollar,mega fly ride,23.4,0.0402,0.9538,0.006,flat
+Canadian Goose,neon fly ride,2.5,0.0109,0.9831,0.006,flat
+Bolt,mega fly ride,2.35,0.0761,0.9179,0.006,flat
+Brachiosaurus,default no potion,0.12,0.0082,0.9859,0.006,flat
+Ghost Chick,default no potion,0.19,0.0147,0.9793,0.006,flat
+Angus Bull,default no potion,0.28,0.0448,0.9492,0.006,flat
+Fairy Bat Dragon,default no potion,11.5,0.0014,0.9926,0.006,flat
+Gingerbread Mouse,mega fly ride,6.25,0.0065,0.9876,0.006,flat
+Highland Cow,mega fly ride,11.2,0.0208,0.9732,0.0059,flat
+Choco Penguin,neon fly ride,1.65,0.067,0.927,0.0059,flat
+Frostclaw,mega fly ride,12.05,0.0497,0.9443,0.0059,flat
+Chipmunk,mega fly ride,11.2,0.0056,0.9885,0.0059,flat
+Capuchin Monkey,default no potion,0.08,0.0079,0.9862,0.0059,flat
+Octopus,default no potion,0.87,0.0459,0.9482,0.0059,flat
+Bali Starling,default no potion,0.06,0.0024,0.9918,0.0059,flat
+Clover Cow,default no potion,0.15,0.0085,0.9856,0.0059,flat
+Arctic Tern,default no potion,0.08,0.0031,0.9911,0.0059,flat
+Goldhorn,neon fly ride,6.51,0.0259,0.9682,0.0059,flat
+Business Monkey,mega fly ride,18.0,0.0204,0.9738,0.0059,flat
+Grinmoire,mega fly ride,2.8,0.0749,0.9192,0.0059,flat
+Chick,default no potion,0.3,0.1006,0.8935,0.0058,flat
+Violet Butterfly,neon fly ride,10.0,0.0925,0.9017,0.0058,flat
+Sado Mole,mega fly ride,3.5,0.0077,0.9864,0.0058,flat
+Pink Betta Fish,default no potion,0.18,0.0066,0.9876,0.0058,flat
+Emperor Shrimp,mega fly ride,5.25,0.0029,0.9912,0.0058,flat
+Kirin,default no potion,0.09,0.0163,0.9778,0.0058,flat
+Sunglider,default no potion,0.36,0.0266,0.9676,0.0058,flat
+Piranha,neon fly ride,0.9,0.0037,0.9905,0.0058,flat
+Evil Chick,default no potion,0.37,0.0274,0.9668,0.0058,flat
+Villain Gibbon,default no potion,0.36,0.026,0.9682,0.0058,flat
+Blossom Snake,mega fly ride,5.75,0.0065,0.9877,0.0058,flat
+Firefly,default no potion,1.0,0.0245,0.9697,0.0058,flat
+Ibex,neon fly ride,1.8,0.0062,0.988,0.0058,flat
+Tarantula,default no potion,0.08,0.0115,0.9827,0.0058,flat
+Mistletroll,neon fly ride,1.15,0.0049,0.9893,0.0058,flat
+Komodo Dragon,mega fly ride,6.75,0.0039,0.9903,0.0058,flat
+Ehecatl,default no potion,0.07,0.1939,0.8003,0.0058,flat
+Count Slothula,neon fly ride,5.05,0.9196,0.0746,0.0058,down
+Banded Palm Civet,mega fly ride,3.75,0.0028,0.9915,0.0057,flat
+Frog,mega fly ride,9.5,0.0128,0.9814,0.0057,flat
+Naga Dragon,neon fly ride,5.25,0.0095,0.9847,0.0057,flat
+Sloth,mega fly ride,7.0,0.0131,0.9812,0.0057,flat
+Black Marlin,default no potion,0.08,0.0089,0.9854,0.0057,flat
+Priceless Shrimp,neon fly ride,3.1,0.0094,0.9849,0.0057,flat
+Cassowary,neon fly ride,1.95,0.0022,0.9921,0.0056,flat
+Weevil,neon fly ride,0.95,0.0247,0.9697,0.0056,flat
+Octopus,mega fly ride,24.4,0.0769,0.9175,0.0056,flat
+Musk Ox,default no potion,0.4,0.0105,0.9839,0.0056,flat
+Gecko,neon fly ride,2.45,0.0107,0.9837,0.0056,flat
+Vermilion Butterfly,mega fly ride,10.5,0.0115,0.9829,0.0056,flat
+Albatross,mega fly ride,7.75,0.0047,0.9897,0.0056,flat
+Cactus Friend,default no potion,0.85,0.008,0.9863,0.0056,flat
+Gibbon,neon fly ride,0.95,0.0028,0.9916,0.0056,flat
+Chilling Spider,mega fly ride,6.25,0.0063,0.9881,0.0056,flat
+Ice Cube,default no potion,0.09,0.0149,0.9795,0.0056,flat
+Albino Gorilla,mega fly ride,40.0,0.0056,0.9888,0.0056,flat
+Prismatic Butterfly,mega fly ride,32.0,0.0093,0.9851,0.0056,flat
+Scarecrow Crow,mega fly ride,12.45,0.0561,0.9383,0.0056,flat
+Mushroom Friend,default no potion,0.7,0.0071,0.9874,0.0056,flat
+Prismatic Butterfly,neon fly ride,7.75,0.0081,0.9863,0.0056,flat
+Firefly,mega fly ride,28.5,0.0433,0.9511,0.0056,flat
+Blue Ringed Octopus,neon fly ride,3.1,0.0104,0.9841,0.0056,flat
+Tanuki,mega fly ride,7.25,0.0059,0.9886,0.0055,flat
+Red Fox,default no potion,0.18,0.0106,0.9839,0.0055,flat
+Siamese Cat,default no potion,0.8,0.0051,0.9894,0.0055,flat
+Phoenix,neon fly ride,7.0,0.057,0.9375,0.0055,flat
+Little Lamb,default no potion,0.055,0.1857,0.8088,0.0055,flat
+Moonlight Moth,neon fly ride,2.4,0.004,0.9905,0.0055,flat
+Shetland Pony White,neon fly ride,1.8,0.0071,0.9874,0.0055,flat
+Tree Sasquatch,default no potion,0.07,0.0144,0.9801,0.0055,flat
+Australian Kelpie,neon fly ride,1.4,0.015,0.9795,0.0055,flat
+Pomeranian,mega fly ride,4.5,0.3106,0.6839,0.0055,flat
+Black-Footed Ferret,default no potion,0.0425,0.1215,0.8731,0.0055,flat
+Rubber Ducky,default no potion,0.013,0.0654,0.9292,0.0054,flat
+Flower Power Duckling,mega fly ride,11.0,0.0072,0.9874,0.0054,flat
+Green Amazon,mega fly ride,8.0,0.0049,0.9896,0.0054,flat
+Rattlesnake,mega fly ride,3.75,0.0037,0.9909,0.0054,flat
+Chipmunk,neon fly ride,2.55,0.0031,0.9914,0.0054,flat
+Balloon Unicorn,default no potion,7.0,0.0009,0.9937,0.0054,flat
+Gargoyle,mega fly ride,22.3,0.0084,0.9862,0.0054,flat
+Piranha,mega fly ride,3.0,0.0047,0.9899,0.0054,flat
+Coyote,default no potion,0.18,0.0054,0.9893,0.0054,flat
+Capricorn,default no potion,0.96,0.0221,0.9726,0.0054,flat
+Kitsune,default no potion,0.55,0.0069,0.9878,0.0053,flat
+Sado Mole,neon fly ride,1.0,0.0044,0.9902,0.0053,flat
+Ibis,default no potion,0.09,0.0078,0.9869,0.0053,flat
+Maleo Bird,neon fly ride,0.95,0.0041,0.9906,0.0053,flat
+Halloween Black Mummy Cat,mega fly ride,4.5,0.0068,0.9879,0.0053,flat
+Feesh,neon fly ride,1.65,0.0061,0.9886,0.0053,flat
+Violet Friend,default no potion,0.035,0.0048,0.9899,0.0053,flat
+Golden Chow-Chow,mega fly ride,40.0,0.0234,0.9713,0.0053,flat
+Caramelgeist,neon fly ride,0.725,0.1466,0.8481,0.0053,flat
+Mule,neon fly ride,8.25,0.1269,0.8678,0.0053,flat
+Royal Palace Spaniel,neon fly ride,3.2,0.1063,0.8884,0.0053,flat
+Skunk,mega fly ride,6.5,0.0086,0.9861,0.0053,flat
+Kelp Hunter,neon fly ride,1.85,0.0243,0.9704,0.0053,flat
+Seafoam Butterfly,neon fly ride,1.85,0.0024,0.9924,0.0052,flat
+Lunar Moon Bear,neon fly ride,3.0,0.048,0.9468,0.0052,flat
+Fire Foal,default no potion,0.05,0.1068,0.888,0.0052,flat
+Cold Cube,default no potion,0.14,0.0162,0.9786,0.0052,flat
+Dugong,mega fly ride,4.5,0.0058,0.9891,0.0052,flat
+Ranger Beaver,default no potion,0.6,0.2339,0.7609,0.0052,flat
+Shetland Pony Dark Brown,default no potion,0.07,0.0149,0.98,0.0052,flat
+Officer Gibbon,neon fly ride,1.8,0.0048,0.99,0.0052,flat
+Rabbit,neon fly ride,0.7125,0.017,0.9779,0.0052,flat
+Indian Flying Fox,neon fly ride,2.0,0.0124,0.9825,0.0052,flat
+Berry Cool Cube,mega fly ride,11.7,0.021,0.9738,0.0051,flat
+2025 Birthday Butterfly,default no potion,0.11,0.0067,0.9882,0.0051,flat
+Cassowary,default no potion,0.24,0.0016,0.9932,0.0051,flat
+Glormy Dolphin,default no potion,0.31,0.0785,0.9164,0.0051,flat
+Burning Bunny,neon fly ride,2.45,0.005,0.9899,0.0051,flat
+Gingerbread Mouse,neon fly ride,1.55,0.0061,0.9888,0.0051,flat
+Hippo,neon fly ride,2.55,0.0087,0.9862,0.0051,flat
+Ibex,mega fly ride,7.5,0.0081,0.9868,0.0051,flat
+Singularity Pisces,neon fly ride,1.6,0.0039,0.991,0.0051,flat
+Arctic Hare,mega fly ride,4.5,0.0036,0.9914,0.0051,flat
+Turtle Doves,mega fly ride,4.5,0.0072,0.9877,0.0051,flat
+Dotted Eggy,default no potion,0.06,0.0115,0.9834,0.0051,flat
+DJ Snooze,neon fly ride,1.35,0.0032,0.9918,0.0051,flat
+Dire Stag,default no potion,0.9,0.0434,0.9516,0.0051,flat
+Orca,mega fly ride,4.0,0.229,0.7659,0.0051,flat
+Classic Teapot,neon fly ride,1.4,0.0075,0.9875,0.0051,flat
+Robin,default no potion,0.13,0.0144,0.9806,0.005,flat
+Pine Marten,default no potion,0.13,0.0201,0.9749,0.005,flat
+Tarsier,neon fly ride,2.5,0.0221,0.9729,0.005,flat
+Grave Owl,mega fly ride,6.5,0.0071,0.9879,0.005,flat
+Tanuki,neon fly ride,1.75,0.0061,0.9889,0.005,flat
+Chilling Spider,neon fly ride,1.55,0.007,0.988,0.005,flat
+Cactus Friend,mega fly ride,23.8,0.041,0.954,0.005,flat
+Elasmosaurus,default no potion,0.19,0.0171,0.9779,0.005,flat
+Bobageist,neon fly ride,0.9,0.2157,0.7793,0.005,flat
+Possum,default no potion,0.08,0.0074,0.9876,0.005,flat
+Oryx,neon fly ride,1.15,0.0027,0.9924,0.0049,flat
+Coconut Friend,mega fly ride,11.5,0.0149,0.9802,0.0049,flat
+Woodpecker,default no potion,0.09,0.0029,0.9922,0.0049,flat
+Maleo Bird,mega fly ride,3.25,0.0045,0.9906,0.0049,flat
+Space Whale,mega fly ride,12.6,0.0176,0.9775,0.0049,flat
+Golden Hamster,default no potion,0.6,0.0188,0.9763,0.0049,flat
+Frog,neon fly ride,2.2,0.0175,0.9777,0.0049,flat
+Frostclaw,neon fly ride,3.1,0.0098,0.9854,0.0049,flat
+Pilot Gull,default no potion,0.03,0.0312,0.964,0.0049,flat
+Malaysian Tapir,neon fly ride,1.7,0.007,0.9882,0.0049,flat
+Dracula Parrot,default no potion,0.21,0.0336,0.9615,0.0048,flat
+Icy Porcupine,mega fly ride,6.0,0.0401,0.955,0.0048,flat
+Capricorn,mega fly ride,27.2,0.0325,0.9627,0.0048,flat
+Capybara,neon fly ride,7.0,0.0099,0.9852,0.0048,flat
+Ruddy Duck,default no potion,0.0275,0.0249,0.9703,0.0048,flat
+Gibbon,mega fly ride,3.25,0.0045,0.9907,0.0048,flat
+Violet Friend,neon fly ride,0.775,0.0165,0.9787,0.0048,flat
+Shadow Dragon Ducky,mega fly ride,11.4,0.2867,0.7085,0.0048,flat
+Storm Condor,default no potion,0.06,0.0222,0.9731,0.0048,flat
+Mini Pig,default no potion,1.0,0.0017,0.9935,0.0048,flat
+Giant Blue Scarab,neon fly ride,2.35,0.0107,0.9846,0.0048,flat
+Orchid Butterfly,default no potion,21.0,0.0093,0.9859,0.0048,flat
+Green Amazon,neon fly ride,1.9,0.0038,0.9915,0.0048,flat
+Cherub Chipmunk,default no potion,0.05,0.0174,0.9779,0.0047,flat
+Fire Mare,default no potion,0.29,0.0304,0.9649,0.0047,flat
+Singularity Beetle,neon fly ride,1.55,0.0034,0.9918,0.0047,flat
+Praying Mantis,default no potion,0.16,0.0105,0.9848,0.0047,flat
+Tarsier,mega fly ride,11.0,0.0174,0.9779,0.0047,flat
+Peahen,neon fly ride,6.09,0.1934,0.8019,0.0047,flat
+Rhino Beetle,default no potion,0.06,0.0122,0.9831,0.0047,flat
+Snorgle,default no potion,0.06,0.0085,0.9868,0.0047,flat
+Fleur De Ice,mega fly ride,14.3,0.0124,0.9829,0.0047,flat
+Rattlesnake,default no potion,0.07,0.0045,0.9909,0.0047,flat
+Giant Black Scarab,neon fly ride,1.85,0.0054,0.9899,0.0047,flat
+Hippo,mega fly ride,11.2,0.0079,0.9874,0.0047,flat
+Australian Kelpie,mega fly ride,5.5,0.0159,0.9794,0.0047,flat
+Ginger Cat,default no potion,0.11,0.0723,0.9231,0.0047,flat
+Gummy Guana,default no potion,0.03,0.0168,0.9785,0.0047,flat
+Giant Blue Scarab,mega fly ride,10.25,0.0119,0.9835,0.0047,flat
+Golden Jaguar,mega fly ride,13.2,0.0157,0.9796,0.0047,flat
+Sprout Snail,mega fly ride,7.5,0.0061,0.9892,0.0047,flat
+Giant Black Scarab,mega fly ride,7.75,0.0072,0.9881,0.0047,flat
+Peahen,default no potion,0.87,0.3211,0.6742,0.0046,flat
+Firefly,neon fly ride,7.0,0.0475,0.9478,0.0046,flat
+Diamond Ladybug,neon fly ride,8.5,0.0493,0.9461,0.0046,flat
+Spider Crab,mega fly ride,6.5,0.0046,0.9908,0.0046,flat
+Gold Mahi Mahi,default no potion,0.054,0.1064,0.889,0.0046,flat
+Prism Snake,default no potion,0.14,0.009,0.9864,0.0046,flat
+Rock,mega fly ride,4.5,0.0049,0.9905,0.0046,flat
+Golden Ladybug,default no potion,0.65,0.0713,0.9241,0.0046,flat
+Guardian Lion,neon fly ride,5.18,0.1537,0.8417,0.0046,flat
+Hammerhead Shark,neon fly ride,1.3,0.0041,0.9914,0.0046,flat
+Punk Pony,default no potion,0.17,0.0059,0.9895,0.0046,flat
+Floral Eggy,neon fly ride,1.4,0.017,0.9784,0.0046,flat
+Penguin,neon fly ride,2.0,0.065,0.9304,0.0046,flat
+Lunar Tiger,default no potion,0.06,0.0119,0.9835,0.0046,flat
+Shadow Dragon Ducky,neon fly ride,2.6,0.3102,0.6852,0.0046,flat
+Banded Palm Civet,default no potion,0.07,0.0018,0.9937,0.0045,flat
+Sprout Snail,neon fly ride,1.8,0.0043,0.9911,0.0045,flat
+Wren,mega fly ride,4.0,0.003,0.9925,0.0045,flat
+Octopus,neon fly ride,6.09,0.0511,0.9444,0.0045,flat
+Primal Kaijunior,mega fly ride,11.7,0.0166,0.9789,0.0045,flat
+Abyssinian Cat,mega fly ride,2.8,0.0866,0.9089,0.0045,flat
+Fossa,neon fly ride,1.2,0.0023,0.9932,0.0045,flat
+Lunar White Tiger,default no potion,0.11,0.0114,0.9841,0.0045,flat
+Yellow Butterfly,mega fly ride,4.75,0.0058,0.9897,0.0045,flat
+Winter Buck,mega fly ride,14.3,0.0646,0.9309,0.0045,flat
+Maneki-Neko,neon fly ride,3.85,0.0323,0.9632,0.0045,flat
+Golden Walrus,mega fly ride,22.3,0.0148,0.9807,0.0045,flat
+Mexican Wolf,default no potion,0.0275,0.0529,0.9426,0.0045,flat
+Moonlight Moth,mega fly ride,10.5,0.0081,0.9875,0.0045,flat
+Peacock,default no potion,0.88,0.0167,0.9788,0.0045,flat
+Ranger Beaver,mega fly ride,16.0,0.2585,0.737,0.0045,flat
+Pterodactyl,neon fly ride,1.35,0.0272,0.9684,0.0045,flat
+Rodeo Bull,mega fly ride,4.0,0.0065,0.989,0.0044,flat
+Slug,mega fly ride,4.25,0.0078,0.9878,0.0044,flat
+Rhino Beetle,mega fly ride,3.5,0.0037,0.9919,0.0044,flat
+Halloween Evil Dachshund,default no potion,0.23,0.0158,0.9798,0.0044,flat
+Pain au Chat,mega fly ride,14.2,0.6867,0.3089,0.0044,down
+Island Tarsier,default no potion,0.03,0.0104,0.9852,0.0044,flat
+Evil Rock,default no potion,0.9,0.0067,0.9889,0.0044,flat
+Deathstalker Scorpion,default no potion,0.15,0.006,0.9896,0.0044,flat
+Maneki-Neko,default no potion,0.55,0.022,0.9736,0.0044,flat
+Onza,mega fly ride,5.0,0.0349,0.9607,0.0044,flat
+Albatross,default no potion,0.21,0.0133,0.9823,0.0044,flat
+Malaysian Tapir,mega fly ride,7.0,0.0082,0.9874,0.0044,flat
+Borhyaena Gigantica,neon fly ride,1.05,0.0023,0.9933,0.0044,flat
+Red Cardinal,default no potion,0.06,0.0231,0.9726,0.0044,flat
+Seafoam Butterfly,mega fly ride,7.75,0.0026,0.993,0.0044,flat
+Bat,mega fly ride,5.0,0.0055,0.9901,0.0043,flat
+Unicorn Ducky,neon fly ride,0.8125,0.0347,0.961,0.0043,flat
+Pink Betta Fish,mega fly ride,7.0,0.0052,0.9904,0.0043,flat
+Mule,default no potion,1.48,0.122,0.8737,0.0043,flat
+Blue Butterfly,default no potion,0.03,0.0138,0.9819,0.0043,flat
+Pink Dog,default no potion,0.03,0.0194,0.9763,0.0043,flat
+Rock Pigeon,mega fly ride,3.75,0.0031,0.9926,0.0043,flat
+Peacock,neon fly ride,6.16,0.0179,0.9778,0.0043,flat
+Mongoose,default no potion,0.1,0.002,0.9937,0.0043,flat
+Ash Zebra,default no potion,0.42,0.0037,0.992,0.0043,flat
+Bird Of Paradise,default no potion,0.17,0.0023,0.9934,0.0043,flat
+Bakeneko,default no potion,0.03,0.0168,0.9788,0.0043,flat
+Striped Eggy,neon fly ride,2.5,0.0095,0.9862,0.0043,flat
+Magpie,neon fly ride,0.95,0.0063,0.9894,0.0043,flat
+Criosphinx,mega fly ride,13.65,0.0257,0.97,0.0043,flat
+Fanghorn Tortoise,neon fly ride,1.85,0.0052,0.9906,0.0043,flat
+Warthog,mega fly ride,5.0,0.0082,0.9875,0.0043,flat
+Velociraptor,default no potion,0.08,0.007,0.9887,0.0043,flat
+Gorilla,mega fly ride,3.5,0.0067,0.9891,0.0043,flat
+Glyptodon,mega fly ride,8.25,0.0135,0.9823,0.0043,flat
+Caramelgeist,mega fly ride,2.3,0.1523,0.8435,0.0042,flat
+Scarecrow Cat,default no potion,0.29,0.0273,0.9685,0.0042,flat
+Magpie,mega fly ride,3.25,0.0096,0.9862,0.0042,flat
+Narwhal,neon fly ride,1.4,0.0156,0.9801,0.0042,flat
+Pink Betta Fish,neon fly ride,1.7,0.0062,0.9896,0.0042,flat
+Astronaut Gorilla,default no potion,1.0,0.0044,0.9914,0.0042,flat
+Pangolin,default no potion,0.0425,0.1507,0.845,0.0042,flat
+Magma Snail,default no potion,0.19,0.0065,0.9894,0.0042,flat
+Dimension Drifter,mega fly ride,10.95,0.019,0.9768,0.0042,flat
+Narwhal,mega fly ride,5.5,0.0056,0.9902,0.0042,flat
+Orca,default no potion,0.07,0.3278,0.6681,0.0042,flat
+Birthday Butterfly 2024,mega fly ride,5.5,0.0035,0.9923,0.0042,flat
+Red Squirrel,neon fly ride,3.0,0.0423,0.9535,0.0042,flat
+Pink Cat,default no potion,4.0,0.0058,0.99,0.0041,flat
+Cockroach,mega fly ride,4.5,0.0032,0.9926,0.0041,flat
+Astronaut Gorilla,mega fly ride,28.5,0.0131,0.9828,0.0041,flat
+Kirin,mega fly ride,4.25,0.0088,0.987,0.0041,flat
+Skunk,neon fly ride,1.6,0.0094,0.9864,0.0041,flat
+Hopbop,default no potion,0.08,0.0213,0.9745,0.0041,flat
+Zeopod,default no potion,0.07,0.0068,0.9891,0.0041,flat
+Flying Fish,default no potion,0.04,0.0029,0.993,0.0041,flat
+Sea Skeleton Panda,default no potion,0.08,0.0055,0.9904,0.0041,flat
+Magma Moose,default no potion,0.19,0.0073,0.9886,0.0041,flat
+Ranger Beaver,neon fly ride,3.75,0.1329,0.863,0.0041,flat
+DJ Snooze,mega fly ride,5.25,0.0038,0.9921,0.0041,flat
+Sasquatch,default no potion,0.17,0.0099,0.986,0.0041,flat
+Eggnog Hare,neon fly ride,1.3,0.0022,0.9937,0.0041,flat
+Dirty Ducky,default no potion,0.17,0.0595,0.9365,0.0041,flat
+Sunglider,neon fly ride,2.8,0.0155,0.9805,0.0041,flat
+Villain Gibbon,mega fly ride,10.95,0.0377,0.9582,0.0041,flat
+Fleur De Ice,neon fly ride,3.675,0.0092,0.9867,0.0041,flat
+Black Marlin,mega fly ride,4.0,0.005,0.9909,0.0041,flat
+Vulture,default no potion,0.15,0.0078,0.9881,0.0041,flat
+Toxic Kaijunior,default no potion,0.14,0.021,0.975,0.0041,flat
+Tree Sasquatch,mega fly ride,4.0,0.0065,0.9895,0.004,flat
+Sunflower Friend,default no potion,0.0275,0.0102,0.9858,0.004,flat
+Pomeranian,default no potion,0.09,0.3383,0.6577,0.004,flat
+Spider Crab,neon fly ride,1.6,0.0058,0.9902,0.004,flat
+Grinmoire,neon fly ride,0.85,0.0901,0.9059,0.004,flat
+Sea Angel,default no potion,0.11,0.0061,0.9899,0.004,flat
+Ringmaster Gibbon,mega fly ride,7.5,0.0053,0.9907,0.004,flat
+Rat,neon fly ride,1.7,0.0033,0.9928,0.004,flat
+Summer Walrus,neon fly ride,1.95,0.0111,0.9849,0.004,flat
+King Bee,mega fly ride,15.0,0.031,0.9651,0.004,flat
+Grave Owl,neon fly ride,1.6,0.0056,0.9904,0.004,flat
+Koi Carp,mega fly ride,9.25,0.0153,0.9807,0.004,flat
+Jekyll Hydra,default no potion,7.25,0.0055,0.9905,0.004,flat
+English Sheepdog,neon fly ride,5.35,0.0121,0.984,0.0039,flat
+Ankylosaurus,neon fly ride,1.4,0.0027,0.9934,0.0039,flat
+Roadrunner,neon fly ride,1.55,0.0035,0.9925,0.0039,flat
+Woodpecker,mega fly ride,4.5,0.0028,0.9933,0.0039,flat
+Count Slothula,mega fly ride,21.2,0.9235,0.0726,0.0039,down
+Rainbow Trout,default no potion,0.05,0.0188,0.9773,0.0039,flat
+Nurse Shark,default no potion,0.05,0.0164,0.9797,0.0039,flat
+Oryx,mega fly ride,4.25,0.0044,0.9917,0.0039,flat
+Wyvern,default no potion,0.17,0.0185,0.9776,0.0039,flat
+Wren,neon fly ride,1.1,0.0032,0.993,0.0039,flat
+Goldfish,mega fly ride,8.75,0.0056,0.9906,0.0039,flat
+Dodo,default no potion,1.0,0.0067,0.9894,0.0039,flat
+Toy Poodle,default no potion,0.18,0.0031,0.993,0.0038,flat
+Marabou Stork,neon fly ride,1.4,0.0052,0.991,0.0038,flat
+Vulture,mega fly ride,6.25,0.0053,0.9909,0.0038,flat
+Wild Boar,neon fly ride,7.5,0.0039,0.9923,0.0038,flat
+Phoenix,mega fly ride,28.5,0.0471,0.9491,0.0038,flat
+Dilophosaurus,mega fly ride,5.25,0.0104,0.9858,0.0038,flat
+Preppy Capuchin Monkey,neon fly ride,2.25,0.0089,0.9873,0.0038,flat
+Summer Walrus,mega fly ride,8.25,0.007,0.9892,0.0038,flat
+Icy Porcupine,neon fly ride,1.5,0.0236,0.9726,0.0038,flat
+Dilophosaurus,neon fly ride,1.35,0.0153,0.9809,0.0038,flat
+Blue Betta Fish,default no potion,0.45,0.0163,0.9799,0.0038,flat
+Starmite,default no potion,0.1,0.0166,0.9797,0.0038,flat
+Orange Butterfly,neon fly ride,4.5,0.0659,0.9304,0.0038,flat
+Scarecrow Crow,neon fly ride,3.2,0.0206,0.9757,0.0038,flat
+Hermit Crab,mega fly ride,4.25,0.0045,0.9917,0.0037,flat
+Sneak Weasel,default no potion,0.04,0.0108,0.9855,0.0037,flat
+Birthday Butterfly 2024,neon fly ride,1.4,0.0035,0.9927,0.0037,flat
+Golden Walrus,neon fly ride,5.6,0.0153,0.981,0.0037,flat
+Angler Fish,neon fly ride,1.05,0.0021,0.9942,0.0037,flat
+Sunglider,mega fly ride,10.95,0.0216,0.9747,0.0037,flat
+Unicorn Ducky,default no potion,0.0425,0.0361,0.9602,0.0037,flat
+Blue Jay,default no potion,0.06,0.0252,0.971,0.0037,flat
+Mushroom Friend,neon fly ride,4.9,0.0121,0.9842,0.0037,flat
+Kelp Hunter,mega fly ride,7.75,0.0063,0.99,0.0037,flat
+Frostclaw,default no potion,0.42,0.0124,0.9839,0.0037,flat
+Violet Butterfly,mega fly ride,42.0,0.1031,0.8933,0.0037,flat
+Golden Rat,default no potion,1.0,0.0225,0.9738,0.0037,flat
+Rodeo Bull,neon fly ride,1.1,0.0041,0.9922,0.0037,flat
+Rock Pigeon,default no potion,0.07,0.0019,0.9944,0.0037,flat
+Temple Friend,default no potion,0.17,0.012,0.9843,0.0037,flat
+Clownfish,default no potion,0.23,0.0288,0.9676,0.0037,flat
+Astronaut Gorilla,neon fly ride,7.0,0.0109,0.9854,0.0037,flat
+Ox,default no potion,0.06,0.0149,0.9814,0.0036,flat
+Orange Betta Fish,mega fly ride,3.75,0.005,0.9913,0.0036,flat
+Triceratops,mega fly ride,5.0,0.0034,0.993,0.0036,flat
+Sloth,neon fly ride,1.7,0.0273,0.9691,0.0036,flat
+Zombie Chick,default no potion,0.08,0.008,0.9884,0.0036,flat
+Chick,neon fly ride,2.15,0.0795,0.9169,0.0036,flat
+Marabou Stork,mega fly ride,5.5,0.0042,0.9922,0.0036,flat
+Firefighter Gibbon,mega fly ride,7.5,0.0082,0.9881,0.0036,flat
+English Sheepdog,mega fly ride,22.4,0.0133,0.983,0.0036,flat
+Bluebottle Fly,mega fly ride,3.0,0.0023,0.9941,0.0036,flat
+Halloween White Skeleton Dog,mega fly ride,8.75,0.0111,0.9853,0.0036,flat
+Momma Moose,default no potion,0.21,0.09,0.9065,0.0036,flat
+Chimera,default no potion,0.49,0.046,0.9504,0.0036,flat
+Sea Skeleton Panda,mega fly ride,4.0,0.0042,0.9922,0.0036,flat
+Patchy Bear,mega fly ride,3.0,0.0077,0.9888,0.0036,flat
+Armadillo,neon fly ride,0.95,0.0023,0.9941,0.0036,flat
+Guardian Lion,default no potion,0.74,0.0787,0.9177,0.0035,flat
+Shark,default no potion,1.0,0.0081,0.9884,0.0035,flat
+Hummingbird,default no potion,0.19,0.0123,0.9842,0.0035,flat
+Ostrich,mega fly ride,7.0,0.0082,0.9883,0.0035,flat
+Irish Setter,neon fly ride,0.75,0.0227,0.9738,0.0035,flat
+Black Kite,mega fly ride,7.0,0.0044,0.9921,0.0035,flat
+Fanghorn Tortoise,mega fly ride,7.75,0.0051,0.9914,0.0035,flat
+Capricorn,neon fly ride,6.72,0.0199,0.9766,0.0035,flat
+Badger,default no potion,0.05,0.0238,0.9727,0.0035,flat
+Arctic Tern,mega fly ride,4.0,0.0045,0.992,0.0035,flat
+2025 Birthday Butterfly,mega fly ride,4.75,0.0059,0.9906,0.0035,flat
+Poison Dart Frog,mega fly ride,4.5,0.0043,0.9922,0.0035,flat
+Dugong,neon fly ride,1.2,0.0033,0.9932,0.0035,flat
+Singularity Beetle,mega fly ride,6.25,0.004,0.9926,0.0035,flat
+Magpie,default no potion,0.05,0.0156,0.9809,0.0035,flat
+Diamond Dragon,mega fly ride,7.5,0.0393,0.9573,0.0035,flat
+The Black Dog,neon fly ride,1.4,0.0155,0.9811,0.0035,flat
+Dingo,default no potion,0.09,0.0114,0.9852,0.0034,flat
+Snowy Mammoth,mega fly ride,6.0,0.0393,0.9572,0.0034,flat
+Blue Betta Fish,neon fly ride,3.25,0.039,0.9575,0.0034,flat
+Sunflower Friend,neon fly ride,0.7375,0.0105,0.9861,0.0034,flat
+Armadillo,default no potion,0.06,0.0035,0.9931,0.0034,flat
+Violet Friend,mega fly ride,2.5,0.0115,0.9851,0.0034,flat
+Amber Butterfly,neon fly ride,1.0,0.0086,0.988,0.0034,flat
+Ground Sloth,default no potion,0.09,0.0065,0.9901,0.0034,flat
+Trapdoor Snail,neon fly ride,1.5,0.0047,0.9919,0.0034,flat
+Halloween White Mummy Cat,neon fly ride,1.4,0.0162,0.9804,0.0034,flat
+Birthday Butterfly 2023,mega fly ride,4.75,0.0022,0.9944,0.0034,flat
+Squid,neon fly ride,4.41,0.0721,0.9245,0.0034,flat
+Winter Doe,mega fly ride,7.25,0.0105,0.9861,0.0034,flat
+Peregrine Falcon,default no potion,0.27,0.0101,0.9865,0.0034,flat
+Dimorphodon,default no potion,0.6,0.0149,0.9817,0.0034,flat
+Cuddly Candle,mega fly ride,18.75,0.0266,0.97,0.0034,flat
+Rabbit,mega fly ride,2.15,0.0101,0.9865,0.0034,flat
+Clover Cow,neon fly ride,1.5,0.0048,0.9918,0.0034,flat
+Diamond Griffin,mega fly ride,7.5,0.0406,0.956,0.0034,flat
+Starhopper,mega fly ride,6.25,0.0038,0.9929,0.0033,flat
+Clementine Owl,default no potion,0.13,0.0398,0.9569,0.0033,flat
+Japanese Snow Fairy,default no potion,0.025,0.0159,0.9808,0.0033,flat
+Kraken,neon fly ride,2.8,0.0143,0.9823,0.0033,flat
+Oakee,mega fly ride,2.3,0.0063,0.9903,0.0033,flat
+Villain Gibbon,neon fly ride,2.8,0.0502,0.9464,0.0033,flat
+Subzero Scorpion,default no potion,0.2,0.0065,0.9902,0.0033,flat
+Shetland Pony Light Brown,default no potion,0.75,0.0212,0.9755,0.0033,flat
+Wildfire Hawk,default no potion,0.22,0.0082,0.9885,0.0033,flat
+Storm Condor,mega fly ride,3.0,0.0295,0.9672,0.0033,flat
+Brachiosaurus,mega fly ride,4.75,0.0086,0.988,0.0033,flat
+Warthog,neon fly ride,1.3,0.0046,0.9921,0.0033,flat
+White Choccybunny,mega fly ride,2.75,0.0133,0.9834,0.0033,flat
+Poison Dart Frog,neon fly ride,1.2,0.0038,0.9929,0.0033,flat
+General Sheepdog,neon fly ride,2.75,0.1801,0.8167,0.0033,flat
+The Black Dog,mega fly ride,5.5,0.0088,0.9879,0.0033,flat
+Ratatoskr,default no potion,0.04,0.0247,0.9721,0.0033,flat
+Subzero Scorpion,mega fly ride,7.25,0.0029,0.9938,0.0033,flat
+Arctic Tern,neon fly ride,1.1,0.0027,0.994,0.0033,flat
+Cuddly Candle,neon fly ride,4.76,0.0373,0.9594,0.0033,flat
+Ghost,mega fly ride,3.9,0.0217,0.9751,0.0033,flat
+Diamond Griffin,default no potion,0.19,0.0648,0.932,0.0033,flat
+Merhorse,default no potion,0.1,0.0504,0.9463,0.0033,flat
+Bandicoot,mega fly ride,3.5,0.0181,0.9787,0.0032,flat
+Goldfish,neon fly ride,2.05,0.0101,0.9866,0.0032,flat
+Cat,neon fly ride,0.55,0.0128,0.984,0.0032,flat
+Lunar Ox,default no potion,0.1,0.0295,0.9672,0.0032,flat
+Turtle Doves,neon fly ride,1.2,0.005,0.9917,0.0032,flat
+Ash Zebra,neon fly ride,2.75,0.0185,0.9783,0.0032,flat
+Lunar Moon Bear,mega fly ride,11.7,0.0317,0.9651,0.0032,flat
+Golden Walrus,default no potion,0.8,0.0142,0.9826,0.0032,flat
+Shetland Pony Light Brown,mega fly ride,20.8,0.0416,0.9552,0.0032,flat
+Albatross,neon fly ride,1.85,0.009,0.9878,0.0032,flat
+Bat,neon fly ride,1.3,0.0032,0.9937,0.0032,flat
+Wyvern,mega fly ride,6.75,0.0077,0.9891,0.0032,flat
+Capuchin Monkey,neon fly ride,1.15,0.0042,0.9926,0.0032,flat
+Birthday Butterfly 2023,neon fly ride,1.25,0.0014,0.9954,0.0032,flat
+Triceratops,neon fly ride,1.3,0.0027,0.9942,0.0032,flat
+Drake,neon fly ride,5.5,0.0092,0.9876,0.0032,flat
+Blue Dog,default no potion,9.0,0.0033,0.9936,0.0031,flat
+Classic Teapot,mega fly ride,5.5,0.0069,0.99,0.0031,flat
+Roadrunner,mega fly ride,6.25,0.0045,0.9924,0.0031,flat
+Fire Foal,mega fly ride,3.5,0.0642,0.9327,0.0031,flat
+Mule,mega fly ride,34.0,0.2023,0.7946,0.0031,flat
+Water Moon Bear,mega fly ride,8.0,0.0101,0.9868,0.0031,flat
+Bullfrog,neon fly ride,0.95,0.0028,0.9941,0.0031,flat
+Nurse Shark,mega fly ride,3.0,0.0245,0.9724,0.0031,flat
+Fire Mare,mega fly ride,9.65,0.0303,0.9666,0.0031,flat
+Ringmaster Gibbon,neon fly ride,1.8,0.0042,0.9927,0.0031,flat
+Orange Butterfly,default no potion,0.74,0.0179,0.979,0.0031,flat
+Golden Dragon,default no potion,0.13,0.0516,0.9453,0.0031,flat
+Love Bird,mega fly ride,7.0,0.0098,0.9871,0.0031,flat
+Walrus,default no potion,0.07,0.0077,0.9892,0.0031,flat
+Sabertooth,default no potion,0.16,0.0082,0.9887,0.0031,flat
+Indian Leopard,mega fly ride,4.5,0.0019,0.995,0.0031,flat
+Salamander,mega fly ride,5.75,0.0044,0.9925,0.0031,flat
+Cassowary,mega fly ride,8.25,0.0028,0.9941,0.0031,flat
+Diamond Mahi Mahi,default no potion,0.15,0.0203,0.9766,0.0031,flat
+Black Rhino,default no potion,0.0275,0.0428,0.9541,0.0031,flat
+Ladybug,neon fly ride,1.55,0.0186,0.9783,0.0031,flat
+Haetae,default no potion,14.0,0.0038,0.9932,0.0031,flat
+Bloodhound,neon fly ride,1.5,0.0102,0.9868,0.003,flat
+Nebula Snake,neon fly ride,1.45,0.0108,0.9862,0.003,flat
+Angus Calf,mega fly ride,4.75,0.024,0.9729,0.003,flat
+Angus Bull,neon fly ride,2.4,0.0379,0.959,0.003,flat
+Persian Cat,default no potion,0.08,0.0311,0.9659,0.003,flat
+Scarecrow Cat,neon fly ride,2.25,0.0253,0.9716,0.003,flat
+Koi Carp,neon fly ride,2.15,0.0376,0.9594,0.003,flat
+Onza,neon fly ride,1.3,0.037,0.96,0.003,flat
+Mushroom Friend,mega fly ride,19.3,0.0266,0.9704,0.003,flat
+Hopbop,mega fly ride,3.75,0.0231,0.9739,0.003,flat
+Ostrich,neon fly ride,1.7,0.0089,0.9881,0.003,flat
+Electric Hornet,default no potion,0.44,0.9647,0.0323,0.003,down
+Halloween Evil Dachshund,mega fly ride,8.0,0.0102,0.9868,0.003,flat
+King Penguin,default no potion,0.23,0.0233,0.9737,0.003,flat
+Mexican Wolf,neon fly ride,0.7375,0.0365,0.9605,0.003,flat
+Zombie Buffalo,default no potion,1.5,0.1611,0.8359,0.003,flat
+Scarlet Butterfly,default no potion,0.15,0.0238,0.9732,0.003,flat
+Squid,mega fly ride,17.3,0.1378,0.8592,0.003,flat
+Mongoose,mega fly ride,4.25,0.0031,0.9939,0.003,flat
+Firefighter Gibbon,neon fly ride,1.8,0.0262,0.9708,0.003,flat
+Frankenfeline,default no potion,0.05,0.009,0.988,0.003,flat
+Nurse Shark,neon fly ride,0.9,0.0249,0.9721,0.003,flat
+Ornate Horned Frog,default no potion,0.15,0.0052,0.9918,0.003,flat
+Wolpertinger,default no potion,0.06,0.0282,0.9688,0.003,flat
+Halloween Evil Dachshund,neon fly ride,1.9,0.0096,0.9874,0.003,flat
+Bullfrog,mega fly ride,3.25,0.0036,0.9935,0.003,flat
+Blue Cat,default no potion,0.03,0.0231,0.974,0.003,flat
+Velociraptor,mega fly ride,4.0,0.0037,0.9933,0.003,flat
+Dire Stag,neon fly ride,6.3,0.0355,0.9615,0.003,flat
+Ladybug,mega fly ride,6.25,0.009,0.988,0.0029,flat
+Frogspawn,neon fly ride,1.15,0.003,0.994,0.0029,flat
+Capuchin Monkey,mega fly ride,4.25,0.0041,0.993,0.0029,flat
+Tawny Frogmouth,default no potion,0.07,0.0022,0.9948,0.0029,flat
+Badger,mega fly ride,3.5,0.0528,0.9443,0.0029,flat
+Moonpine,default no potion,0.07,0.0136,0.9835,0.0029,flat
+Tree Sasquatch,neon fly ride,1.1,0.0047,0.9923,0.0029,flat
+Woodpecker,neon fly ride,1.2,0.0024,0.9947,0.0029,flat
+Water Moon Bear,default no potion,0.22,0.0047,0.9924,0.0029,flat
+Glormy Dolphin,mega fly ride,10.0,0.0664,0.9307,0.0029,flat
+Glormy Crab,mega fly ride,7.25,0.0274,0.9697,0.0029,flat
+Kid Goat,default no potion,0.07,0.0109,0.9863,0.0029,flat
+Mecha Meow,default no potion,0.5,0.0037,0.9934,0.0029,flat
+Bloodhound,mega fly ride,6.0,0.005,0.9921,0.0029,flat
+Snowy Mammoth,neon fly ride,1.5,0.033,0.9641,0.0029,flat
+Galapagos Sea Lion,default no potion,0.012,0.0139,0.9832,0.0029,flat
+Maneki-Neko,mega fly ride,15.0,0.0228,0.9743,0.0029,flat
+Yellow-Lipped Sea Krait,neon fly ride,1.05,0.0014,0.9957,0.0029,flat
+Black Moon Bear,neon fly ride,1.25,0.0133,0.9838,0.0029,flat
+Gold Mahi Mahi,mega fly ride,3.6,0.0525,0.9446,0.0029,flat
+Golden Hamster,neon fly ride,4.2,0.043,0.9542,0.0029,flat
+Halloween Golden Mummy Cat,default no potion,0.46,0.0402,0.957,0.0028,flat
+Black Kite,neon fly ride,1.7,0.0051,0.9921,0.0028,flat
+Kaijunior,default no potion,0.08,0.012,0.9851,0.0028,flat
+Angus Calf,default no potion,0.09,0.0264,0.9708,0.0028,flat
+Woolly Mammoth,default no potion,0.12,0.0049,0.9923,0.0028,flat
+Kaijunior,mega fly ride,4.0,0.0119,0.9853,0.0028,flat
+Lunar Tiger,mega fly ride,3.75,0.0114,0.9858,0.0028,flat
+Preppy Capuchin Monkey,mega fly ride,9.75,0.0055,0.9917,0.0028,flat
+Possum,mega fly ride,4.0,0.0047,0.9925,0.0028,flat
+Gorilla,neon fly ride,1.0,0.0049,0.9923,0.0028,flat
+Komodo Dragon,neon fly ride,1.65,0.0027,0.9945,0.0028,flat
+Halloween Blue Scorpion,default no potion,0.1,0.0079,0.9893,0.0028,flat
+Huntsman Robin,neon fly ride,1.6,0.0913,0.9059,0.0028,flat
+Arctic Hare,neon fly ride,1.2,0.0022,0.995,0.0028,flat
+Bunny,neon fly ride,0.725,0.0263,0.971,0.0028,flat
+Dotted Eggy,mega fly ride,3.75,0.0071,0.9901,0.0028,flat
+Scarecrow Cat,mega fly ride,9.75,0.0212,0.976,0.0028,flat
+Bird Of Paradise,mega fly ride,6.5,0.0034,0.9939,0.0028,flat
+Wildfire Hawk,mega fly ride,8.0,0.0071,0.9902,0.0028,flat
+Karate Gorilla,mega fly ride,17.6,0.0063,0.9909,0.0027,flat
+Ash Zebra,mega fly ride,12.0,0.0102,0.987,0.0027,flat
+Glormy Crab,neon fly ride,1.9,0.0208,0.9764,0.0027,flat
+Goose,default no potion,0.65,0.0024,0.9948,0.0027,flat
+Red Cardinal,mega fly ride,3.5,0.021,0.9762,0.0027,flat
+Stingray,default no potion,0.09,0.0115,0.9857,0.0027,flat
+Golden Hamster,mega fly ride,16.45,0.0469,0.9504,0.0027,flat
+Little Lamb,neon fly ride,0.875,0.1086,0.8887,0.0027,flat
+Gila Monster,mega fly ride,3.75,0.0047,0.9926,0.0027,flat
+Dotted Eggy,neon fly ride,1.05,0.0079,0.9894,0.0027,flat
+Elasmosaurus,neon fly ride,1.75,0.0063,0.991,0.0027,flat
+Little Lamb,mega fly ride,2.9,0.1012,0.8961,0.0027,flat
+Ruddy Duck,neon fly ride,0.7375,0.0111,0.9862,0.0027,flat
+Crocodile,default no potion,6.0,0.0017,0.9956,0.0027,flat
+Starhopper,neon fly ride,1.55,0.0042,0.9931,0.0027,flat
+Robin,mega fly ride,5.0,0.0082,0.9891,0.0027,flat
+Chanekeh,neon fly ride,0.95,0.0098,0.9875,0.0027,flat
+Halloween White Skeleton Dog,neon fly ride,2.05,0.0327,0.9646,0.0027,flat
+King Penguin,mega fly ride,8.25,0.0203,0.977,0.0027,flat
+Halloween White Skeleton Dog,default no potion,0.25,0.0127,0.9846,0.0027,flat
+Ground Sloth,mega fly ride,4.0,0.0036,0.9937,0.0027,flat
+Snorgle,mega fly ride,3.5,0.0043,0.993,0.0027,flat
+Fire Stallion,default no potion,0.12,0.0163,0.9811,0.0027,flat
+Walrus,mega fly ride,3.5,0.0135,0.9838,0.0027,flat
+Skelebat,neon fly ride,1.45,0.0051,0.9922,0.0027,flat
+Clownfish,mega fly ride,8.25,0.017,0.9804,0.0027,flat
+Skelebat,mega fly ride,5.75,0.0057,0.9917,0.0027,flat
+Chick,mega fly ride,9.25,0.0468,0.9506,0.0027,flat
+Pelican,default no potion,2.25,0.0098,0.9876,0.0027,flat
+Gila Monster,default no potion,0.07,0.0054,0.9919,0.0027,flat
+Lunar Gold Tiger,default no potion,0.27,0.0496,0.9478,0.0027,flat
+Chestnut Glyptodon,default no potion,0.045,0.0129,0.9845,0.0027,flat
+Rock,neon fly ride,1.2,0.003,0.9943,0.0026,flat
+Monkey,neon fly ride,1.35,0.0266,0.9708,0.0026,flat
+Ribbon Seal,default no potion,0.05,0.0349,0.9624,0.0026,flat
+Arctic Fox,default no potion,1.0,0.0041,0.9933,0.0026,flat
+Water Opossum,default no potion,0.04,0.0101,0.9872,0.0026,flat
+Blue Jay,mega fly ride,3.75,0.0051,0.9922,0.0026,flat
+Salamander,neon fly ride,1.45,0.0098,0.9875,0.0026,flat
+Water Opossum,neon fly ride,0.95,0.007,0.9904,0.0026,flat
+Jiggly Jerboa,default no potion,0.015,0.026,0.9714,0.0026,flat
+Spinosaurus,neon fly ride,6.3,0.0136,0.9838,0.0026,flat
+Black Marlin,neon fly ride,1.1,0.0037,0.9937,0.0026,flat
+Red Fox,mega fly ride,6.75,0.0066,0.9908,0.0026,flat
+Shetland Pony Dark Brown,mega fly ride,4.0,0.0104,0.987,0.0026,flat
+Golden Ladybug,mega fly ride,17.85,0.143,0.8544,0.0026,flat
+Peregrine Falcon,mega fly ride,9.25,0.0065,0.9909,0.0026,flat
+Dimension Drifter,default no potion,0.36,0.0219,0.9755,0.0026,flat
+Undead Elk,mega fly ride,6.25,0.0042,0.9933,0.0026,flat
+Gummy Guana,neon fly ride,0.75,0.0167,0.9807,0.0026,flat
+Robin,neon fly ride,1.3,0.0067,0.9908,0.0026,flat
+Dracula Fish,default no potion,0.06,0.01,0.9874,0.0026,flat
+Sneak Weasel,neon fly ride,0.95,0.0092,0.9882,0.0026,flat
+Vulture,neon fly ride,1.55,0.0047,0.9928,0.0026,flat
+Rosy Maple Moth,mega fly ride,10.2,0.0163,0.9811,0.0026,flat
+Tawny Frogmouth,mega fly ride,3.75,0.0037,0.9938,0.0026,flat
+Golden Tortoise Beetle,default no potion,0.2,0.0048,0.9926,0.0026,flat
+Bison,default no potion,0.04,0.0194,0.978,0.0026,flat
+Green-Chested Pheasant,default no potion,0.62,0.0424,0.9551,0.0026,flat
+Castle Hermit Crab,default no potion,0.32,0.0037,0.9938,0.0026,flat
+Pirate Hermit Crab,default no potion,0.92,0.0109,0.9866,0.0026,flat
+Love Bird,neon fly ride,1.7,0.0194,0.978,0.0025,flat
+Winter Doe,neon fly ride,1.75,0.0063,0.9911,0.0025,flat
+Toucan,default no potion,0.12,0.0544,0.9431,0.0025,flat
+Baku,default no potion,0.55,0.0345,0.963,0.0025,flat
+Coyote,neon fly ride,1.55,0.005,0.9924,0.0025,flat
+Golden Ladybug,neon fly ride,4.55,0.212,0.7855,0.0025,flat
+Urchin,default no potion,0.08,0.0098,0.9876,0.0025,flat
+Shiba Inu,neon fly ride,0.775,0.0146,0.9829,0.0025,flat
+Hawk,default no potion,0.575,0.0262,0.9712,0.0025,flat
+Chestnut Glyptodon,mega fly ride,2.7,0.0209,0.9766,0.0025,flat
+Rosy Maple Moth,default no potion,0.32,0.013,0.9844,0.0025,flat
+Jumping Spider,default no potion,0.06,0.0105,0.987,0.0025,flat
+Ribbon Seal,mega fly ride,3.5,0.0699,0.9276,0.0025,flat
+Praying Mantis,mega fly ride,6.5,0.0102,0.9873,0.0025,flat
+Tan Chow-Chow,default no potion,0.16,0.0729,0.9246,0.0025,flat
+Buffalo,default no potion,0.011,0.0085,0.989,0.0025,flat
+Scarecrow Horse,default no potion,0.1,0.0055,0.992,0.0025,flat
+Bee,default no potion,0.11,0.0206,0.9768,0.0025,flat
+Gorilla,default no potion,0.05,0.005,0.9925,0.0025,flat
+Humbug,mega fly ride,3.0,0.0073,0.9902,0.0025,flat
+Gumball Caterpillar,default no potion,0.11,0.1412,0.8563,0.0025,flat
+Turtle,default no potion,9.0,0.0012,0.9963,0.0025,flat
+Spinosaurus,mega fly ride,25.35,0.014,0.9835,0.0025,flat
+Liger,mega fly ride,4.25,0.0054,0.9921,0.0025,flat
+Rosy Maple Moth,neon fly ride,2.6,0.0128,0.9847,0.0025,flat
+Wildfire Hawk,neon fly ride,1.9,0.0072,0.9903,0.0025,flat
+Black-Footed Ferret,neon fly ride,0.8125,0.0423,0.9553,0.0025,flat
+Zodiac Minion Chick,default no potion,0.22,0.0137,0.9839,0.0025,flat
+Sunrise Duckling,default no potion,0.65,0.0141,0.9835,0.0025,flat
+Oakee,neon fly ride,0.725,0.0074,0.9901,0.0025,flat
+Golden Dragon,neon fly ride,1.65,0.0256,0.972,0.0024,flat
+Pterodactyl,mega fly ride,5.25,0.0082,0.9893,0.0024,flat
+Halloween White Mummy Cat,mega fly ride,5.5,0.0059,0.9917,0.0024,flat
+Jumping Spider,mega fly ride,3.5,0.0049,0.9926,0.0024,flat
+Diamond Dragon,default no potion,0.19,0.0624,0.9352,0.0024,flat
+Lion,default no potion,7.5,0.0023,0.9953,0.0024,flat
+Bullfrog,default no potion,0.06,0.0027,0.9949,0.0024,flat
+Nightmare Owl,default no potion,0.24,0.0123,0.9853,0.0024,flat
+Salamander,default no potion,0.13,0.0078,0.9898,0.0024,flat
+Buffalo,neon fly ride,0.58,0.0043,0.9933,0.0024,flat
+Merhorse,mega fly ride,4.75,0.0341,0.9635,0.0024,flat
+Halloween Blue Scorpion,mega fly ride,4.5,0.0074,0.9902,0.0024,flat
+Frostbite Bear,default no potion,129.0,0.0041,0.9935,0.0024,flat
+Deathstalker Scorpion,neon fly ride,1.55,0.0038,0.9938,0.0024,flat
+Golden Griffin,default no potion,0.13,0.0709,0.9267,0.0024,flat
+Lunar White Tiger,neon fly ride,1.35,0.0076,0.99,0.0024,flat
+Persian Cat,mega fly ride,4.5,0.0273,0.9704,0.0024,flat
+Bandicoot,neon fly ride,1.0,0.0073,0.9903,0.0024,flat
+Lionfish,default no potion,0.12,0.0095,0.9881,0.0024,flat
+Flying Fish,neon fly ride,0.85,0.0022,0.9955,0.0024,flat
+Cold Cube,neon fly ride,1.5,0.0165,0.9811,0.0024,flat
+Halloween Black Mummy Cat,neon fly ride,1.2,0.0036,0.994,0.0024,flat
+Ibis,mega fly ride,4.5,0.0044,0.9932,0.0024,flat
+Mole,mega fly ride,3.25,0.0041,0.9935,0.0023,flat
+Banded Palm Civet,neon fly ride,1.05,0.0013,0.9963,0.0023,flat
+Zodiac Minion Chick,neon fly ride,2.1,0.0404,0.9572,0.0023,flat
+Billy Goat,neon fly ride,4.34,0.0161,0.9816,0.0023,flat
+Momma Moose,mega fly ride,7.75,0.0669,0.9308,0.0023,flat
+Scarlet Butterfly,mega fly ride,6.25,0.0077,0.99,0.0023,flat
+Ehecatl,mega fly ride,4.0,0.1514,0.8463,0.0023,flat
+Giant Panda,default no potion,53.0,0.0037,0.994,0.0023,flat
+Bandicoot,default no potion,0.07,0.0319,0.9658,0.0023,flat
+Shetland Pony Light Brown,neon fly ride,5.25,0.0182,0.9795,0.0023,flat
+Blue Jay,neon fly ride,1.05,0.005,0.9927,0.0023,flat
+Blue Ringed Octopus,mega fly ride,13.4,0.0055,0.9922,0.0023,flat
+Dirty Ducky,mega fly ride,6.0,0.0493,0.9484,0.0023,flat
+Rainbow Trout,mega fly ride,2.8,0.021,0.9767,0.0023,flat
+Hummingbird,mega fly ride,7.25,0.0076,0.9901,0.0023,flat
+Shiba Inu,default no potion,0.035,0.0197,0.978,0.0023,flat
+Chestnut Glyptodon,neon fly ride,0.825,0.0233,0.9744,0.0023,flat
+Cat,default no potion,0.01,0.0118,0.9859,0.0023,flat
+Seahorse,default no potion,0.11,0.0094,0.9883,0.0023,flat
+General Sheepdog,mega fly ride,12.0,0.2678,0.7299,0.0023,flat
+Trapdoor Snail,mega fly ride,6.0,0.0041,0.9936,0.0023,flat
+Urchin,mega fly ride,3.75,0.0104,0.9874,0.0023,flat
+Wyvern,neon fly ride,1.65,0.009,0.9888,0.0023,flat
+Rattlesnake,neon fly ride,1.05,0.0022,0.9955,0.0022,flat
+Blue Betta Fish,mega fly ride,12.65,0.0242,0.9736,0.0022,flat
+Storm Condor,neon fly ride,0.9,0.0156,0.9822,0.0022,flat
+Yellow Butterfly,neon fly ride,1.25,0.0153,0.9825,0.0022,flat
+Snow Cat,neon fly ride,0.675,0.0035,0.9943,0.0022,flat
+Quetzalcoatl,default no potion,0.17,0.012,0.9858,0.0022,flat
+Emu,default no potion,0.11,0.0107,0.9871,0.0022,flat
+Dracula Parrot,neon fly ride,2.05,0.0247,0.9731,0.0022,flat
+Orange Betta Fish,neon fly ride,1.05,0.0025,0.9953,0.0022,flat
+Mole,default no potion,0.05,0.0102,0.9876,0.0022,flat
+Pangolin,neon fly ride,0.8125,0.0427,0.9551,0.0022,flat
+Tarantula,mega fly ride,4.25,0.0071,0.9907,0.0022,flat
+Drake,mega fly ride,23.0,0.0126,0.9852,0.0022,flat
+Cow,default no potion,7.5,0.0007,0.9971,0.0022,flat
+Coyote,mega fly ride,6.25,0.0041,0.9937,0.0022,flat
+Praying Mantis,neon fly ride,1.6,0.0218,0.976,0.0022,flat
+Black Chow-Chow,default no potion,0.6,0.0222,0.9757,0.0022,flat
+Blue Butterfly,neon fly ride,0.8,0.0028,0.995,0.0022,flat
+Dingo,mega fly ride,4.25,0.0162,0.9816,0.0022,flat
+Monkey,mega fly ride,5.25,0.0138,0.984,0.0022,flat
+Water Moon Bear,neon fly ride,1.9,0.0183,0.9795,0.0022,flat
+Brachiosaurus,neon fly ride,1.25,0.0154,0.9824,0.0022,flat
+Gecko Ducky,neon fly ride,0.85,0.0089,0.9889,0.0022,flat
+Mole,neon fly ride,0.95,0.0037,0.9941,0.0022,flat
+Dimorphodon,neon fly ride,4.2,0.0206,0.9772,0.0022,flat
+Billy Goat,default no potion,0.62,0.011,0.9868,0.0022,flat
+Chanekeh,default no potion,0.04,0.0057,0.9921,0.0022,flat
+Angus Cow,neon fly ride,0.8,0.0067,0.9911,0.0022,flat
+Stingray,mega fly ride,4.0,0.0072,0.9906,0.0022,flat
+Patchy Bear,neon fly ride,0.9,0.0044,0.9934,0.0022,flat
+Partridge,mega fly ride,8.75,0.0038,0.9941,0.0022,flat
+Subzero Scorpion,neon fly ride,1.75,0.0054,0.9924,0.0022,flat
+Oakee,default no potion,0.025,0.0064,0.9914,0.0022,flat
+Undead Elk,neon fly ride,1.55,0.0098,0.988,0.0022,flat
+Ghost Chick,mega fly ride,7.25,0.0076,0.9903,0.0021,flat
+Sabertooth,mega fly ride,6.5,0.0034,0.9945,0.0021,flat
+Metal Ox,default no potion,0.24,0.0494,0.9484,0.0021,flat
+Fire Mare,neon fly ride,2.45,0.0132,0.9847,0.0021,flat
+Dracula Fish,mega fly ride,3.5,0.0048,0.9931,0.0021,flat
+African Wild Dog,default no potion,1.25,0.0022,0.9957,0.0021,flat
+Momma Moose,neon fly ride,1.85,0.2537,0.7442,0.0021,flat
+Dire Stag,mega fly ride,25.35,0.0694,0.9285,0.0021,flat
+Ox,neon fly ride,1.05,0.0095,0.9884,0.0021,flat
+Dog,default no potion,0.01,0.0133,0.9846,0.0021,flat
+Show Pony,default no potion,0.08,0.0509,0.947,0.0021,flat
+Zeopod,mega fly ride,4.0,0.0036,0.9943,0.0021,flat
+Elasmosaurus,mega fly ride,7.25,0.005,0.9929,0.0021,flat
+Clubtail Dragonfly,neon fly ride,0.7125,0.0072,0.9907,0.0021,flat
+Temple Friend,mega fly ride,6.75,0.0091,0.9888,0.0021,flat
+Ground Sloth,neon fly ride,1.1,0.0032,0.9947,0.0021,flat
+Orca,neon fly ride,1.1,0.072,0.9259,0.0021,flat
+Ice Cube,mega fly ride,4.5,0.0059,0.992,0.0021,flat
+Scarlet Butterfly,neon fly ride,1.55,0.0095,0.9884,0.0021,flat
+Floral Eggy,mega fly ride,5.5,0.0117,0.9862,0.0021,flat
+Dracula Parrot,mega fly ride,8.25,0.0138,0.9841,0.0021,flat
+Otter,default no potion,0.011,0.0105,0.9874,0.0021,flat
+Kirin,neon fly ride,1.15,0.0042,0.9937,0.0021,flat
+Unicorn Ducky,mega fly ride,2.65,0.0221,0.9759,0.0021,flat
+Stygian Owl,neon fly ride,0.8,0.0322,0.9657,0.0021,flat
+Pirate Hermit Crab,mega fly ride,25.95,0.0141,0.9838,0.0021,flat
+Pine Marten,mega fly ride,5.75,0.0192,0.9787,0.0021,flat
+Sneak Weasel,mega fly ride,3.25,0.0143,0.9836,0.0021,flat
+Lunar Gold Tiger,mega fly ride,9.3,0.0296,0.9684,0.0021,flat
+Pink Dog,neon fly ride,0.75,0.0121,0.9859,0.002,flat
+Chimera,neon fly ride,3.45,0.0505,0.9475,0.002,flat
+Punk Pony,mega fly ride,6.5,0.0047,0.9932,0.002,flat
+Lunar Tiger,neon fly ride,1.05,0.0085,0.9894,0.002,flat
+Cocoadile,default no potion,0.025,0.0112,0.9868,0.002,flat
+Lunar Ox,mega fly ride,5.0,0.0215,0.9765,0.002,flat
+Ankylosaurus,mega fly ride,5.5,0.0034,0.9945,0.002,flat
+Bird Of Paradise,neon fly ride,1.6,0.0026,0.9953,0.002,flat
+Water Opossum,mega fly ride,3.25,0.0082,0.9897,0.002,flat
+Peregrine Falcon,neon fly ride,2.15,0.0206,0.9774,0.002,flat
+Cold Cube,mega fly ride,6.0,0.005,0.993,0.002,flat
+Bakeneko,neon fly ride,0.8,0.0034,0.9945,0.002,flat
+Cockroach,neon fly ride,1.2,0.0018,0.9962,0.002,flat
+Sea Angel,neon fly ride,1.3,0.0124,0.9856,0.002,flat
+Gecko Ducky,default no potion,0.04,0.0151,0.9829,0.002,flat
+Dirty Ducky,neon fly ride,1.5,0.0247,0.9733,0.002,flat
+Golden King Penguin,default no potion,0.575,0.0158,0.9822,0.002,flat
+Tan Chow-Chow,mega fly ride,6.5,0.0637,0.9343,0.002,flat
+Amber Butterfly,mega fly ride,3.5,0.0121,0.986,0.002,flat
+Clumpty,default no potion,0.03,0.0151,0.9829,0.002,flat
+Mongoose,neon fly ride,1.15,0.0018,0.9962,0.002,flat
+Red Fox,neon fly ride,1.65,0.0071,0.9909,0.002,flat
+Frankenfeline,mega fly ride,3.0,0.0049,0.9931,0.002,flat
+Kid Goat,mega fly ride,3.5,0.008,0.9901,0.002,flat
+Frankenfeline,neon fly ride,0.9,0.0037,0.9943,0.002,flat
+Shetland Pony Dark Brown,neon fly ride,1.1,0.0074,0.9906,0.002,flat
+Black Rhino,neon fly ride,0.7375,0.0233,0.9747,0.002,flat
+Nightmare Owl,mega fly ride,8.5,0.0067,0.9913,0.002,flat
+Chocolate Chow-Chow,default no potion,0.6,0.0175,0.9806,0.002,flat
+Kraken,default no potion,0.36,0.0167,0.9814,0.002,flat
+Irish Setter,mega fly ride,2.4,0.0132,0.9848,0.002,flat
+Scarecrow Horse,mega fly ride,4.75,0.0038,0.9943,0.002,flat
+Tasmanian Tiger,default no potion,0.09,0.0068,0.9913,0.002,flat
+Oakee Knight,default no potion,0.05,0.0237,0.9743,0.002,flat
+Cobra,default no potion,0.49,0.0333,0.9647,0.002,flat
+Nutcracker Squirrel,mega fly ride,6.0,0.004,0.994,0.002,flat
+Glormy Dolphin,neon fly ride,2.55,0.0332,0.9648,0.002,flat
+Granny Wolf,default no potion,0.03,0.0185,0.9796,0.0019,flat
+Wolpertinger,neon fly ride,0.95,0.0117,0.9864,0.0019,flat
+Robot,neon fly ride,0.7875,0.0188,0.9792,0.0019,flat
+Cherub Chipmunk,mega fly ride,3.5,0.0169,0.9812,0.0019,flat
+Rhino Beetle,neon fly ride,1.0,0.0025,0.9956,0.0019,flat
+Starmite,neon fly ride,1.3,0.0307,0.9674,0.0019,flat
+Nebula Snake,mega fly ride,5.75,0.0045,0.9935,0.0019,flat
+Humbug,neon fly ride,0.9,0.0042,0.9939,0.0019,flat
+Cherub Chipmunk,neon fly ride,1.0,0.0117,0.9864,0.0019,flat
+Toy Poodle,mega fly ride,6.75,0.0038,0.9942,0.0019,flat
+Ox,mega fly ride,3.75,0.0135,0.9846,0.0019,flat
+Kraken,mega fly ride,10.95,0.017,0.9811,0.0019,flat
+Sea Skeleton Panda,neon fly ride,1.1,0.0026,0.9955,0.0019,flat
+Stygian Owl,default no potion,0.04,0.0148,0.9833,0.0019,flat
+Aye Aye,default no potion,0.03,0.0122,0.9859,0.0019,flat
+Ghost Chick,neon fly ride,1.75,0.0223,0.9758,0.0019,flat
+Hermit Crab,neon fly ride,1.15,0.0021,0.996,0.0019,flat
+Ghost,neon fly ride,1.08,0.0122,0.9859,0.0019,flat
+Otter,neon fly ride,0.58,0.0048,0.9933,0.0019,flat
+Indian Leopard,neon fly ride,1.2,0.0015,0.9966,0.0019,flat
+King Penguin,neon fly ride,1.95,0.048,0.9501,0.0019,flat
+Green-Chested Pheasant,mega fly ride,17.0,0.0616,0.9365,0.0019,flat
+Woolly Mammoth,neon fly ride,1.35,0.0037,0.9944,0.0019,flat
+Glyptodon,default no potion,0.25,0.0078,0.9903,0.0019,flat
+Zombie Chick,mega fly ride,4.25,0.0049,0.9932,0.0019,flat
+Slug,neon fly ride,1.15,0.0038,0.9943,0.0019,flat
+Deathstalker Scorpion,mega fly ride,6.25,0.0033,0.9948,0.0019,flat
+Chanekeh,mega fly ride,3.25,0.0063,0.9918,0.0019,flat
+Ice Cube,neon fly ride,1.2,0.0073,0.9908,0.0019,flat
+Sea Angel,mega fly ride,5.0,0.0063,0.9918,0.0019,flat
+Seahorse,neon fly ride,1.3,0.0148,0.9833,0.0018,flat
+2025 Birthday Butterfly,neon fly ride,1.25,0.0045,0.9936,0.0018,flat
+Starfish,mega fly ride,5.25,0.0599,0.9383,0.0018,flat
+Griffin,default no potion,0.41,0.0299,0.9682,0.0018,flat
+Lunar White Tiger,mega fly ride,5.25,0.0066,0.9916,0.0018,flat
+Hopbop,neon fly ride,1.05,0.0127,0.9854,0.0018,flat
+Island Tarsier,neon fly ride,0.8,0.0028,0.9954,0.0018,flat
+Milk Choccybunny,neon fly ride,0.725,0.0085,0.9896,0.0018,flat
+Deinonychus,default no potion,0.16,0.0155,0.9826,0.0018,flat
+Seagull,mega fly ride,8.0,0.005,0.9932,0.0018,flat
+Chameleon,mega fly ride,17.3,0.1347,0.8634,0.0018,flat
+Muskrat,neon fly ride,0.725,0.0128,0.9854,0.0018,flat
+Red Squirrel,mega fly ride,13.0,0.0111,0.9871,0.0018,flat
+Hippogriff,default no potion,0.55,0.0182,0.98,0.0018,flat
+Garden Snake,default no potion,0.03,0.005,0.9932,0.0018,flat
+Magma Moose,mega fly ride,7.25,0.009,0.9892,0.0018,flat
+Magma Snail,mega fly ride,7.25,0.0091,0.9891,0.0018,flat
+Nutcracker Squirrel,neon fly ride,1.5,0.003,0.9952,0.0018,flat
+Sasquatch,neon fly ride,1.6,0.0204,0.9778,0.0018,flat
+Armadillo,mega fly ride,3.25,0.0037,0.9946,0.0018,flat
+Rock Pigeon,neon fly ride,1.05,0.0013,0.997,0.0018,flat
+Ginger Cat,mega fly ride,5.25,0.0509,0.9473,0.0018,flat
+Fire Foal,neon fly ride,1.0,0.0384,0.9599,0.0018,flat
+2026 Birthday Butterfly,default no potion,0.03,0.0245,0.9738,0.0018,flat
+Clover Cow,mega fly ride,6.0,0.0044,0.9939,0.0017,flat
+Clementine Owl,mega fly ride,5.75,0.0351,0.9632,0.0017,flat
+Milk Choccybunny,default no potion,0.025,0.0187,0.9796,0.0017,flat
+Chocolate Chow-Chow,neon fly ride,4.2,0.025,0.9733,0.0017,flat
+Galapagos Sea Lion,neon fly ride,0.6,0.0063,0.9919,0.0017,flat
+Diamond Butterfly,default no potion,18.0,0.0078,0.9905,0.0017,flat
+Liger,neon fly ride,1.15,0.002,0.9962,0.0017,flat
+Chameleon,neon fly ride,4.41,0.0554,0.9429,0.0017,flat
+Fire Stallion,mega fly ride,5.5,0.014,0.9843,0.0017,flat
+Badger,neon fly ride,1.0,0.0326,0.9656,0.0017,flat
+Walrus,neon fly ride,1.0,0.0073,0.991,0.0017,flat
+Frozen Penguin,mega fly ride,6.0,0.0553,0.943,0.0017,flat
+Red Panda Ducky,default no potion,0.06,0.0225,0.9758,0.0017,flat
+Stegosaurus,mega fly ride,5.0,0.0054,0.9929,0.0017,flat
+Pine Marten,neon fly ride,1.45,0.0144,0.9839,0.0017,flat
+Partridge,neon fly ride,2.05,0.005,0.9933,0.0017,flat
+Golden Albatross,default no potion,0.52,0.0137,0.9845,0.0017,flat
+Glyptodon,neon fly ride,1.95,0.0068,0.9915,0.0017,flat
+Black Chow-Chow,neon fly ride,4.2,0.0344,0.9639,0.0017,flat
+Crimson Cape,neon fly ride,0.8375,0.1282,0.8701,0.0017,flat
+Pirate Hermit Crab,neon fly ride,6.44,0.0107,0.9876,0.0017,flat
+Ginger Cat,neon fly ride,1.35,0.1123,0.886,0.0017,flat
+Parakeet,neon fly ride,0.7,0.0095,0.9888,0.0017,flat
+Muskrat,default no potion,0.025,0.018,0.9803,0.0017,flat
+Clubtail Dragonfly,default no potion,0.0225,0.0148,0.9835,0.0017,flat
+Fennec Fox,neon fly ride,0.675,0.0025,0.9958,0.0017,flat
+Corgi,default no potion,0.0375,0.0389,0.9594,0.0017,flat
+Show Pony,mega fly ride,3.75,0.0118,0.9865,0.0017,flat
+Zeopod,neon fly ride,1.1,0.0041,0.9942,0.0017,flat
+Diamond Dragon,neon fly ride,1.95,0.0258,0.9726,0.0017,flat
+Clubtail Dragonfly,mega fly ride,2.25,0.0055,0.9928,0.0017,flat
+Pomeranian,neon fly ride,1.2,0.1262,0.8721,0.0017,flat
+Ibis,neon fly ride,1.2,0.0033,0.9951,0.0017,flat
+Robot,default no potion,0.0375,0.0394,0.9589,0.0017,flat
+Billy Goat,mega fly ride,17.0,0.0214,0.9769,0.0017,flat
+Lunar Ox,neon fly ride,1.3,0.0438,0.9545,0.0017,flat
+Starfish,default no potion,0.11,0.082,0.9164,0.0017,flat
+Amber Butterfly,default no potion,0.05,0.0096,0.9888,0.0017,flat
+Wolpertinger,mega fly ride,3.25,0.0137,0.9846,0.0017,flat
+Red Crowned Crane,neon fly ride,1.5,0.0114,0.9869,0.0017,flat
+Diamond Griffin,neon fly ride,1.95,0.0197,0.9787,0.0017,flat
+Golden Griffin,neon fly ride,1.65,0.032,0.9663,0.0017,flat
+Dog,neon fly ride,0.55,0.004,0.9943,0.0016,flat
+Velociraptor,neon fly ride,1.1,0.0022,0.9962,0.0016,flat
+Moonpine,mega fly ride,4.0,0.0092,0.9892,0.0016,flat
+Hummingbird,neon fly ride,1.75,0.0082,0.9902,0.0016,flat
+Kangaroo,default no potion,5.75,0.0008,0.9976,0.0016,flat
+Sunrise Duckling,neon fly ride,4.55,0.0205,0.9778,0.0016,flat
+Sabertooth,neon fly ride,1.6,0.0099,0.9885,0.0016,flat
+Possum,neon fly ride,1.1,0.0031,0.9953,0.0016,flat
+Swordfish,default no potion,0.0375,0.0273,0.9711,0.0016,flat
+Beluga Whale,default no potion,0.07,0.0105,0.9879,0.0016,flat
+Hawk,neon fly ride,4.025,0.0313,0.9671,0.0016,flat
+Black-Footed Ferret,mega fly ride,2.65,0.0292,0.9692,0.0016,flat
+Parakeet,default no potion,0.02,0.0065,0.9919,0.0016,flat
+Tasmanian Tiger,mega fly ride,4.0,0.0047,0.9937,0.0016,flat
+Chocolate Chow-Chow,mega fly ride,16.45,0.0302,0.9682,0.0016,flat
+Angus Calf,neon fly ride,1.25,0.0358,0.9626,0.0016,flat
+Red Panda Ducky,neon fly ride,0.95,0.0149,0.9835,0.0016,flat
+St Bernard,mega fly ride,10.0,0.0087,0.9897,0.0016,flat
+Corgi,neon fly ride,0.7875,0.0205,0.9779,0.0016,flat
+Quetzalcoatl,mega fly ride,6.75,0.0156,0.9828,0.0016,flat
+Red Cardinal,neon fly ride,1.0,0.0126,0.9859,0.0016,flat
+Black Chow-Chow,mega fly ride,16.45,0.0377,0.9607,0.0016,flat
+Starmite,mega fly ride,5.0,0.0128,0.9856,0.0016,flat
+Halloween Golden Mummy Cat,neon fly ride,3.3,0.0373,0.9611,0.0016,flat
+Pink Dog,mega fly ride,2.4,0.0087,0.9897,0.0016,flat
+Flamingo,default no potion,8.0,0.0016,0.9968,0.0016,flat
+Rainbow Trout,neon fly ride,0.85,0.0172,0.9812,0.0016,flat
+Baku,neon fly ride,3.85,0.0786,0.9198,0.0016,flat
+Emu,mega fly ride,5.0,0.0102,0.9883,0.0016,flat
+Zombie Chick,neon fly ride,1.15,0.0046,0.9938,0.0016,flat
+Abyssinian Cat,default no potion,0.04,0.0307,0.9678,0.0016,flat
+Frozen Penguin,neon fly ride,1.5,0.0382,0.9602,0.0015,flat
+Lammergeier,mega fly ride,6.25,0.003,0.9954,0.0015,flat
+Hawk,mega fly ride,15.7,0.0653,0.9331,0.0015,flat
+Flying Fish,mega fly ride,2.8,0.0018,0.9966,0.0015,flat
+Moonpine,neon fly ride,1.1,0.008,0.9905,0.0015,flat
+Lunar Gold Tiger,neon fly ride,2.35,0.0166,0.9818,0.0015,flat
+Pilot Gull,neon fly ride,0.75,0.0103,0.9881,0.0015,flat
+Stingray,neon fly ride,1.1,0.0057,0.9928,0.0015,flat
+Gold Mahi Mahi,neon fly ride,1.02,0.0512,0.9473,0.0015,flat
+Garden Snake,neon fly ride,0.8,0.0025,0.996,0.0015,flat
+Lionfish,neon fly ride,1.4,0.0096,0.9889,0.0015,flat
+Elephant,default no potion,6.5,0.0011,0.9973,0.0015,flat
+Bee,mega fly ride,5.25,0.0138,0.9847,0.0015,flat
+Red Crowned Crane,mega fly ride,6.0,0.0111,0.9874,0.0015,flat
+Punk Pony,neon fly ride,1.6,0.0123,0.9862,0.0015,flat
+Bison,neon fly ride,0.85,0.0146,0.9839,0.0015,flat
+Deinonychus,neon fly ride,1.6,0.0209,0.9776,0.0015,flat
+Red Panda Ducky,mega fly ride,3.25,0.0248,0.9737,0.0015,flat
+Sunrise Duckling,mega fly ride,17.85,0.0356,0.9629,0.0015,flat
+Tarantula,neon fly ride,1.15,0.004,0.9945,0.0015,flat
+Prism Snake,neon fly ride,1.45,0.0127,0.9858,0.0015,flat
+St Bernard,neon fly ride,2.3,0.0084,0.9901,0.0015,flat
+Ocelot,default no potion,0.04,0.0264,0.9721,0.0015,flat
+Dimorphodon,mega fly ride,16.45,0.0301,0.9685,0.0015,flat
+Thunderfisher,neon fly ride,1.75,0.9313,0.0673,0.0015,down
+Green-Chested Pheasant,neon fly ride,4.34,0.0595,0.9391,0.0015,flat
+Ribbon Seal,neon fly ride,1.0,0.0422,0.9563,0.0015,flat
+Toucan,neon fly ride,1.4,0.0635,0.9351,0.0015,flat
+Strawberry Shortcake Bat Dragon,default no potion,3.25,0.0007,0.9978,0.0015,flat
+Halloween Golden Mummy Cat,mega fly ride,12.85,0.0544,0.9442,0.0015,flat
+Hydra,neon fly ride,1.55,0.0171,0.9814,0.0015,flat
+Prism Snake,mega fly ride,5.75,0.0045,0.994,0.0014,flat
+Orange Butterfly,mega fly ride,19.0,0.0231,0.9755,0.0014,flat
+Thunderfisher,default no potion,0.2,0.9653,0.0332,0.0014,down
+Mexican Wolf,mega fly ride,2.35,0.021,0.9776,0.0014,flat
+Seagull,neon fly ride,1.9,0.0097,0.9888,0.0014,flat
+Castle Hermit Crab,mega fly ride,10.25,0.0073,0.9913,0.0014,flat
+Royal Palace Spaniel,mega fly ride,13.8,0.0131,0.9855,0.0014,flat
+Bee,neon fly ride,1.35,0.0424,0.9561,0.0014,flat
+Evil Chick,neon fly ride,2.85,0.0106,0.988,0.0014,flat
+Cuddly Candle,default no potion,0.68,0.0241,0.9745,0.0014,flat
+Toxic Kaijunior,neon fly ride,1.5,0.0383,0.9603,0.0014,flat
+Clementine Owl,neon fly ride,1.45,0.0855,0.9131,0.0014,flat
+Urchin,neon fly ride,1.05,0.006,0.9926,0.0014,flat
+Golden King Penguin,neon fly ride,4.025,0.0483,0.9503,0.0014,flat
+Aye Aye,neon fly ride,0.8,0.0043,0.9943,0.0014,flat
+Tree Frog,default no potion,0.025,0.0109,0.9877,0.0014,flat
+Muskrat,mega fly ride,2.3,0.016,0.9825,0.0014,flat
+Deinonychus,mega fly ride,6.5,0.0064,0.9922,0.0014,flat
+Amethyst Penguin,default no potion,798.0,0.0034,0.9952,0.0014,flat
+Stegosaurus,neon fly ride,1.3,0.003,0.9956,0.0014,flat
+Kid Goat,neon fly ride,1.0,0.0048,0.9938,0.0014,flat
+Crimson Cape,default no potion,0.0475,0.1765,0.8221,0.0014,flat
+Lionfish,mega fly ride,5.5,0.0105,0.9881,0.0014,flat
+Ratatoskr,neon fly ride,0.85,0.0163,0.9823,0.0014,flat
+Starfish,neon fly ride,1.35,0.0491,0.9495,0.0014,flat
+Emu,neon fly ride,1.3,0.0236,0.975,0.0014,flat
+Hydra,default no potion,0.15,0.0156,0.983,0.0014,flat
+Kaijunior,neon fly ride,1.1,0.0051,0.9935,0.0014,flat
+Humbug,default no potion,0.04,0.0048,0.9939,0.0014,flat
+Seahorse,mega fly ride,5.0,0.0067,0.992,0.0014,flat
+Merhorse,neon fly ride,1.25,0.0233,0.9753,0.0014,flat
+Angelfish,default no potion,0.04,0.0019,0.9968,0.0014,flat
+Metal Ox,neon fly ride,2.2,0.0439,0.9547,0.0014,flat
+Chimera,mega fly ride,13.45,0.0408,0.9578,0.0014,flat
+Toxic Kaijunior,mega fly ride,6.0,0.0124,0.9863,0.0014,flat
+Griffin,neon fly ride,3.05,0.0446,0.954,0.0013,flat
+Zebra,neon fly ride,0.7,0.0089,0.9898,0.0013,flat
+Mecha Meow,mega fly ride,13.65,0.0125,0.9862,0.0013,flat
+Gila Monster,neon fly ride,1.05,0.0036,0.9951,0.0013,flat
+Snorgle,neon fly ride,1.0,0.0038,0.9949,0.0013,flat
+Beluga Whale,mega fly ride,3.5,0.0107,0.9879,0.0013,flat
+Japanese Snow Fairy,neon fly ride,0.725,0.0071,0.9916,0.0013,flat
+White Amazon,default no potion,0.7,0.0317,0.967,0.0013,flat
+Dimension Drifter,neon fly ride,2.8,0.0251,0.9735,0.0013,flat
+California Condor,default no potion,0.012,0.0231,0.9755,0.0013,flat
+Seagull,default no potion,0.22,0.0043,0.9944,0.0013,flat
+Ornate Horned Frog,mega fly ride,6.25,0.0035,0.9952,0.0013,flat
+Swordfish,neon fly ride,0.7875,0.0204,0.9782,0.0013,flat
+Woolly Mammoth,mega fly ride,5.25,0.0035,0.9951,0.0013,flat
+Shih Tzu,neon fly ride,0.7,0.0096,0.989,0.0013,flat
+Halloween Blue Scorpion,neon fly ride,1.2,0.0044,0.9943,0.0013,flat
+Zebra,default no potion,0.02,0.0069,0.9918,0.0013,flat
+Ornate Horned Frog,neon fly ride,1.55,0.0043,0.9944,0.0013,flat
+Hydra,mega fly ride,6.25,0.0054,0.9933,0.0013,flat
+Angelfish,neon fly ride,0.85,0.0032,0.9955,0.0013,flat
+Magma Moose,neon fly ride,1.75,0.0148,0.9839,0.0013,flat
+Baku,mega fly ride,15.0,0.0496,0.9491,0.0013,flat
+Tasmanian Tiger,neon fly ride,1.1,0.0039,0.9948,0.0013,flat
+Persian Cat,neon fly ride,1.2,0.0154,0.9833,0.0013,flat
+Lammergeier,neon fly ride,1.55,0.0034,0.9953,0.0013,flat
+Cat,mega fly ride,1.5,0.0117,0.987,0.0013,flat
+Tawny Frogmouth,neon fly ride,1.05,0.002,0.9968,0.0013,flat
+Stygian Owl,mega fly ride,2.6,0.0264,0.9724,0.0013,flat
+Peppermint Penguin,default no potion,2.0,0.0029,0.9958,0.0013,flat
+Shiba Inu,mega fly ride,2.5,0.0071,0.9916,0.0013,flat
+Toucan,mega fly ride,5.5,0.0288,0.9699,0.0013,flat
+Mecha Meow,neon fly ride,3.5,0.0039,0.9949,0.0013,flat
+Musk Ox,neon fly ride,2.75,0.0057,0.993,0.0013,flat
+Ehecatl,neon fly ride,1.1,0.0603,0.9384,0.0012,flat
+Dingo,neon fly ride,1.15,0.0088,0.9899,0.0012,flat
+Glyptodon Ducky,default no potion,0.025,0.0133,0.9855,0.0012,flat
+Toy Poodle,neon fly ride,1.65,0.0076,0.9912,0.0012,flat
+Jumping Spider,neon fly ride,1.0,0.0033,0.9955,0.0012,flat
+Ms. Muffet,default no potion,0.012,0.0593,0.9395,0.0012,flat
+Snow Cat,default no potion,0.015,0.0042,0.9945,0.0012,flat
+Rubber Ducky,neon fly ride,0.61,0.0183,0.9805,0.0012,flat
+Longhorn Cow,mega fly ride,8.5,0.0017,0.9971,0.0012,flat
+Gumball Caterpillar,neon fly ride,1.35,0.0671,0.9317,0.0012,flat
+Tegu,default no potion,0.015,0.0133,0.9855,0.0012,flat
+Thunderfisher,mega fly ride,7.25,0.9739,0.0249,0.0012,down
+Beaver,neon fly ride,0.7,0.0063,0.9925,0.0012,flat
+Crimson Cape,mega fly ride,2.75,0.1148,0.884,0.0012,flat
+Golden Albatross,neon fly ride,3.64,0.0125,0.9863,0.0012,flat
+Evil Chick,mega fly ride,11.15,0.0126,0.9862,0.0012,flat
+Golden Tortoise Beetle,neon fly ride,2.0,0.0095,0.9894,0.0012,flat
+Magma Snail,neon fly ride,1.75,0.0055,0.9933,0.0012,flat
+Scarecrow Horse,neon fly ride,1.25,0.0042,0.9946,0.0012,flat
+Red Panda,default no potion,0.035,0.0277,0.9712,0.0012,flat
+Glyptodon Ducky,neon fly ride,0.725,0.0087,0.9901,0.0012,flat
+Musk Ox,mega fly ride,12.0,0.0107,0.9881,0.0012,flat
+Gummy Guana,mega fly ride,2.4,0.0146,0.9842,0.0012,flat
+Golden Tortoise Beetle,mega fly ride,7.75,0.0087,0.9902,0.0012,flat
+Red Panda,neon fly ride,0.775,0.0154,0.9835,0.0012,flat
+Poodle,default no potion,0.02,0.0075,0.9914,0.0012,flat
+Poodle,neon fly ride,0.7,0.0069,0.9919,0.0011,flat
+Tegu,neon fly ride,0.63,0.0055,0.9933,0.0011,flat
+Oakee Knight,neon fly ride,0.85,0.0343,0.9645,0.0011,flat
+Chocolate Labrador,neon fly ride,0.675,0.0032,0.9956,0.0011,flat
+Tan Chow-Chow,neon fly ride,1.6,0.113,0.8858,0.0011,flat
+Gumball Caterpillar,mega fly ride,5.25,0.0891,0.9098,0.0011,flat
+Griffin,mega fly ride,11.9,0.0294,0.9695,0.0011,flat
+Puma,neon fly ride,0.675,0.0026,0.9963,0.0011,flat
+Undead Jousting Horse,default no potion,3.5,0.0066,0.9922,0.0011,flat
+Temple Friend,neon fly ride,1.85,0.0075,0.9913,0.0011,flat
+Pangolin,mega fly ride,2.65,0.0294,0.9694,0.0011,flat
+Cobra,neon fly ride,3.45,0.0685,0.9304,0.0011,flat
+Orangutan,default no potion,0.02,0.0039,0.995,0.0011,flat
+Dracula Fish,neon fly ride,1.0,0.0032,0.9957,0.0011,flat
+Electric Hornet,neon fly ride,3.0,0.9694,0.0295,0.0011,down
+Angus Cow,mega fly ride,2.6,0.0075,0.9914,0.0011,flat
+Show Pony,neon fly ride,1.05,0.0061,0.9928,0.0011,flat
+Buffalo,mega fly ride,1.6,0.002,0.9969,0.0011,flat
+Snow Puma,neon fly ride,0.7,0.0048,0.9941,0.0011,flat
+Jiggly Jerboa,neon fly ride,0.63,0.0086,0.9903,0.0011,flat
+Corgi,mega fly ride,2.55,0.0166,0.9823,0.0011,flat
+California Condor,neon fly ride,0.6,0.011,0.9879,0.0011,flat
+Clownfish,neon fly ride,1.95,0.0088,0.9901,0.0011,flat
+Budgie Witch,default no potion,0.02,0.0134,0.9855,0.0011,flat
+Gecko Ducky,mega fly ride,2.8,0.009,0.9899,0.0011,flat
+Cobra,mega fly ride,13.45,0.039,0.9599,0.0011,flat
+Robo Dog,neon fly ride,3.5,0.0182,0.9807,0.0011,flat
+Bunny,mega fly ride,2.2,0.0162,0.9827,0.0011,flat
+Pinkypillar,default no potion,0.012,0.0392,0.9597,0.0011,flat
+Robot,mega fly ride,2.55,0.011,0.988,0.001,flat
+Ant,default no potion,0.011,0.0233,0.9757,0.001,flat
+Camel,neon fly ride,0.675,0.0053,0.9937,0.001,flat
+Bakeneko,mega fly ride,2.6,0.0023,0.9966,0.001,flat
+Dog,mega fly ride,1.5,0.013,0.9859,0.001,flat
+Castle Hermit Crab,neon fly ride,2.35,0.0127,0.9863,0.001,flat
+Robo Dog,mega fly ride,13.65,0.0195,0.9795,0.001,flat
+Snow Cat,mega fly ride,2.1,0.0017,0.9973,0.001,flat
+Ruddy Duck,mega fly ride,2.25,0.0064,0.9926,0.001,flat
+Ant,neon fly ride,0.58,0.0103,0.9887,0.001,flat
+Fire Stallion,neon fly ride,1.6,0.0267,0.9723,0.001,flat
+Diamond Mahi Mahi,neon fly ride,1.75,0.0323,0.9667,0.001,flat
+Nightmare Owl,neon fly ride,2.0,0.0064,0.9926,0.001,flat
+Fennec Fox,mega fly ride,2.1,0.0015,0.9975,0.001,flat
+Golden King Penguin,mega fly ride,15.7,0.0309,0.9682,0.001,flat
+Sheepdog Ducky,default no potion,0.03,0.021,0.978,0.001,flat
+Rubber Ducky,mega fly ride,1.75,0.0184,0.9806,0.001,flat
+Bison,mega fly ride,2.8,0.0152,0.9839,0.001,flat
+Beaver,default no potion,0.02,0.0096,0.9894,0.001,flat
+Princess Mare,default no potion,0.02,0.0149,0.9842,0.0009,flat
+Swordfish,mega fly ride,2.55,0.0135,0.9856,0.0009,flat
+Fennec Fox,default no potion,0.015,0.0035,0.9956,0.0009,flat
+Robo Dog,default no potion,0.5,0.0158,0.9832,0.0009,flat
+Donkey,default no potion,0.015,0.0148,0.9842,0.0009,flat
+Island Tarsier,mega fly ride,2.6,0.0018,0.9973,0.0009,flat
+Blue Butterfly,mega fly ride,2.6,0.0018,0.9973,0.0009,flat
+White Amazon,mega fly ride,19.3,0.0541,0.945,0.0009,flat
+White Amazon,neon fly ride,4.9,0.0221,0.977,0.0009,flat
+Oakee Knight,mega fly ride,2.8,0.0345,0.9646,0.0009,flat
+2026 Birthday Butterfly,neon fly ride,0.75,0.0226,0.9765,0.0009,flat
+Zodiac Minion Chick,mega fly ride,8.4,0.0131,0.986,0.0009,flat
+Blue Cat,neon fly ride,0.75,0.0151,0.9841,0.0009,flat
+Japanese Snow Fairy,mega fly ride,2.3,0.0064,0.9928,0.0009,flat
+Shih Tzu,mega fly ride,2.2,0.0081,0.991,0.0009,flat
+Sunflower Friend,mega fly ride,2.25,0.0055,0.9936,0.0009,flat
+Aye Aye,mega fly ride,2.6,0.0041,0.995,0.0009,flat
+Donkey,neon fly ride,0.675,0.0079,0.9913,0.0009,flat
+Orangutan,neon fly ride,0.7,0.007,0.9922,0.0009,flat
+Sasquatch,mega fly ride,6.5,0.0111,0.988,0.0008,flat
+Mouse,default no potion,0.011,0.0264,0.9727,0.0008,flat
+Pinkypillar,neon fly ride,0.6,0.0161,0.9831,0.0008,flat
+Cocoadile,neon fly ride,0.725,0.0043,0.9949,0.0008,flat
+Golden Albatross,mega fly ride,14.2,0.0144,0.9848,0.0008,flat
+Ms. Muffet,neon fly ride,0.6,0.0241,0.9751,0.0008,flat
+Black Rhino,mega fly ride,2.35,0.0132,0.986,0.0008,flat
+Tree Frog,neon fly ride,0.775,0.0046,0.9946,0.0008,flat
+Metal Ox,mega fly ride,8.75,0.0309,0.9683,0.0008,flat
+Blue Cat,mega fly ride,2.4,0.0135,0.9857,0.0008,flat
+Sheepdog Ducky,mega fly ride,2.4,0.0199,0.9793,0.0008,flat
+Quetzalcoatl,neon fly ride,1.85,0.0185,0.9807,0.0008,flat
+Beluga Whale,neon fly ride,1.0,0.0068,0.9925,0.0008,flat
+Angelfish,mega fly ride,2.8,0.0024,0.9968,0.0008,flat
+Ratatoskr,mega fly ride,2.8,0.0134,0.9859,0.0007,flat
+Clumpty,neon fly ride,0.75,0.0098,0.9894,0.0007,flat
+Red Panda,mega fly ride,2.5,0.0079,0.9913,0.0007,flat
+Mouse,neon fly ride,0.58,0.0129,0.9864,0.0007,flat
+Sheepdog Ducky,neon fly ride,0.75,0.0135,0.9857,0.0007,flat
+Chocolate Chip Bat Dragon,default no potion,5.5,0.0006,0.9987,0.0007,flat
+Pilot Gull,mega fly ride,2.4,0.0079,0.9914,0.0007,flat
+Black Tiger,neon fly ride,0.7,0.0076,0.9917,0.0007,flat
+Longhorn Cow,neon fly ride,2.0,0.0011,0.9982,0.0007,flat
+Camel,default no potion,0.015,0.0059,0.9934,0.0007,flat
+Jiggly Jerboa,mega fly ride,1.85,0.0078,0.9915,0.0007,flat
+Tegu,mega fly ride,1.85,0.0055,0.9938,0.0007,flat
+Budgie Witch,mega fly ride,2.2,0.0117,0.9876,0.0007,flat
+Snow Puma,mega fly ride,2.1,0.006,0.9933,0.0007,flat
+2026 Birthday Butterfly,mega fly ride,2.4,0.016,0.9833,0.0007,flat
+Mahi Mahi,neon fly ride,0.7,0.0062,0.9932,0.0007,flat
+Milk Choccybunny,mega fly ride,2.2,0.0092,0.9902,0.0007,flat
+Electric Hornet,mega fly ride,13.0,0.9693,0.03,0.0007,down
+Budgie Witch,neon fly ride,0.7,0.0129,0.9865,0.0007,flat
+Blazing Lion,default no potion,122.0,0.0169,0.9824,0.0006,flat
+Tree Frog,mega fly ride,2.5,0.0041,0.9952,0.0006,flat
+Granny Wolf,neon fly ride,0.75,0.0136,0.9857,0.0006,flat
+Chocolate Labrador,default no potion,0.015,0.0044,0.995,0.0006,flat
+Beaver,mega fly ride,2.1,0.0037,0.9957,0.0006,flat
+Garden Snake,mega fly ride,2.6,0.0013,0.9981,0.0006,flat
+Zebra,mega fly ride,2.1,0.0066,0.9928,0.0006,flat
+Kakapo,neon fly ride,0.7,0.0052,0.9942,0.0006,flat
+Princess Mare,mega fly ride,2.2,0.0126,0.9868,0.0006,flat
+Chocolate Labrador,mega fly ride,2.1,0.0022,0.9972,0.0006,flat
+Puma,mega fly ride,2.1,0.0021,0.9974,0.0006,flat
+Camel,mega fly ride,2.1,0.0031,0.9963,0.0006,flat
+Parakeet,mega fly ride,2.1,0.0041,0.9954,0.0006,flat
+Otter,mega fly ride,1.65,0.002,0.9975,0.0006,flat
+Princess Mare,neon fly ride,0.7,0.0141,0.9853,0.0006,flat
+Poodle,mega fly ride,2.2,0.004,0.9955,0.0006,flat
+Shih Tzu,default no potion,0.02,0.0085,0.9909,0.0006,flat
+Galapagos Sea Lion,mega fly ride,1.7,0.0032,0.9963,0.0005,flat
+Mahi Mahi,default no potion,0.02,0.0107,0.9888,0.0005,flat
+Black Tiger,default no potion,0.02,0.0083,0.9912,0.0005,flat
+Snow Puma,default no potion,0.02,0.0038,0.9957,0.0005,flat
+Donkey,mega fly ride,2.1,0.0029,0.9966,0.0005,flat
+Glyptodon Ducky,mega fly ride,2.2,0.008,0.9916,0.0005,flat
+Granny Wolf,mega fly ride,2.3,0.0108,0.9887,0.0004,flat
+Clumpty,mega fly ride,2.3,0.0083,0.9913,0.0004,flat
+Orangutan,mega fly ride,2.1,0.0028,0.9968,0.0004,flat
+Black Tiger,mega fly ride,2.2,0.0043,0.9953,0.0004,flat
+Pinkypillar,mega fly ride,1.7,0.0088,0.9908,0.0004,flat
+Cocoadile,mega fly ride,2.3,0.0024,0.9972,0.0004,flat
+Ms. Muffet,mega fly ride,1.7,0.0128,0.9868,0.0004,flat
+Ant,mega fly ride,1.6,0.0043,0.9953,0.0004,flat
+Kakapo,default no potion,0.02,0.0065,0.9931,0.0003,flat
+Kakapo,mega fly ride,2.2,0.003,0.9967,0.0003,flat
+Mahi Mahi,mega fly ride,2.2,0.0029,0.9968,0.0003,flat
+California Condor,mega fly ride,1.7,0.0047,0.995,0.0003,flat
+Mouse,mega fly ride,1.65,0.0053,0.9944,0.0003,flat
+Puma,default no potion,0.015,0.0043,0.9954,0.0003,flat
