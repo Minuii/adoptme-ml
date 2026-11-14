@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 02:16 UTC by the scrape workflow._
+_Updated 2026-11-14 02:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 02:16 UTC by the scrape workflow._
 | amvgg | 4 | 25,029 | 2026-11-14T02:15 |
 | elve | 4 | 5,369 | 2026-11-14T02:16 |
 
-## AMVGG completed trades: 10,683 total
+## AMVGG completed trades: 10,712 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 438 |
+| 2026-11-14 | 467 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 02:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:15 | **M00Nligth100**: Zombie Wolf | **Strict_Mysteryalt4**: Ride-A-Pet Potion |
-| 02:15 | **TMDung20**: Giraffe (FR), Owl (FR) | **vika000rrr**: Shadow Dragon (FR), Jester Dragon (NFR) |
-| 02:15 | **LIAXMLV**: Crystal Egg ×17 | **itz_LowkeyAshley**: Ride-A-Pet Potion |
-| 02:15 | **yxnnixb**: Elephant, Fly-A-Pet Potion ×8 | **CcLuims011x**: Strawberry Tortle (R) |
-| 02:15 | **dasha2p14**: Pudding Cat (NFR), Stitches (N), Ginger Cat (N), Samoyed (N), Halloween White Mummy Cat (N), Cake Friend | **Yumi_Rose8**: Fly-A-Pet Potion ×2 |
-| 02:15 | **chikowoah**: Mermicorn (FR), Dango Penguins (NR) | **memes4ever3**: Strawberry Tortle (FR) |
-| 02:15 | **tezza4real**: Owl (FR) | **XXIYAXX_123**: Balloon Unicorn (FR), Chocolate Dutch Guinea Pig (MFR), 2022 Birthday Cake |
-| 02:15 | **lollucio251**: Purrowl (N), Huntsman Robin (N), Alicorn (N), Ancient Dragon (N), Dragonfly (N), Rubber Ducky (M) | **Rainbow_kitty5050**: Fly-A-Pet Potion |
-| 02:15 | **Rainbow_kitty5050**: Gumball Caterpillar (M) | **RaeruOwO**: Crystal Egg ×18 |
-| 02:15 | **Rainbow_kitty5050**: Gorilla (M) | **IIuvbr**: Crystal Egg ×18 |
-| 02:15 | **cutiebunnyroblox1234**: Little Lamb (M) | **Z0mb1e_R1ot**: Ginger Cat (M) |
-| 02:15 | **1an4hn**: Great Pyrenees, Kirin, Snorgle | **LaraIphone16e**: Yeti |
-| 02:15 | **Alana_enna22**: Kid Goat, Flying Fish, Armadillo, Velociraptor, Snow Leopard, Mistletroll, Kakapo, Halloween Blue Scorpion, Ermine, Dolphin, Singularity Pisces, Prism Snake, Poison Dart Frog | **itsvaleriaotz**: Ride-A-Pet Potion |
-| 02:15 | **lanaisdelrey**: Many Mackerel (MFR), Lion Cub (MFR), Peppermint Penguin, Munchkin Cat (N) | **cunlainy**: Frost Dragon (FR) |
-| 02:15 | **kelixnz**: Gorilla | **soisomin**: Fairytale Egg ×18 |
+| 02:25 | **soyelmas_capito132**: Crocodile (R), 2D Kitty, Panda, Billy Goat, Musk Ox, Gecko, Ghost Wolf (N), Canadian Goose, Shadow Dragon Ducky | **EduardaVeilmont**: Elephant (R) |
+| 02:25 | **jiggle_wiggle132**: Ride-A-Pet Potion ×16, Fly-A-Pet Potion ×2 | **kiorama13**: Turtle (FR) |
+| 02:25 | **NastyaMillkk**: Turtle (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion ×3, Mochi Meow (N) ×3, Thunderfisher (N), Thunderfisher, Electric Hornet, Mochi Meow ×2 | **kiorama13**: Peppermint Penguin (FR) |
+| 02:25 | **EduardaVeilmont**: Crocodile (R) | **qwelxzz**: Shark Puppy (FR) |
+| 02:25 | **Est3lleluv**: Hare (NR), Brachiosaurus (NR), Red Fox (N) | **FroztedCook31**: Tortoiseshell Guinea Pig (R) |
+| 02:25 | **eulien_37**: Copycat (FR) | **ItzMackenzieLol910**: Pupcicle ×8 |
+| 02:25 | **Xz_CodeOLDriftdLBliz**: Pupcicle (MR) | **x30lyxkt**: Pupcicle ×16, Happy Duckling (MR) |
+| 02:25 | **IngoAlchemyPro**: Crystal Egg ×18 | **volt_chib1**: Ride-A-Pet Potion |
+| 02:25 | **kamaphernelia**: Haetyphoon (NFR), Shooting Star Board | **ZeroHASaberZAPrimal1**: Fairy Bat Dragon (NFR) |
+| 02:25 | **Gojos_butteryfoot**: Goose (NFR), Owlbear (MFR) | **KanskjeMatilde**: Balloon Unicorn (FR), Arctic Fox (FR), Ring-Tailed Lemur (R) |
+| 02:25 | **Flux_puck**: Winged Tiger (MFR) | **AaronsAltAcc223**: Giant Panda (FR), Fallow Deer (MFR) |
+| 02:25 | **azxpredxtorn**: Chocolate Dutch Guinea Pig (R), Chocolate Dutch Guinea Pig ×2 | **Xz_CodeOLDriftdLBliz**: Pupcicle ×4 |
+| 02:25 | **memes4ever3**: Mermicorn (FR), Diamond Hamster (N) | **Alinamalina519**: Copycat (NR) |
+| 02:25 | **addmymain62**: Gaelic Fae (MFR) | **Alexa183199**: SSBD Beanie |
+| 02:25 | **Alana_enna22**: Mexican Wolf, Marabou Stork, Kelp Raider, Halloween White Mummy Cat, Blossom Snake, Wyvern, Toxic Kaijunior, Peregrine Falcon ×2, Penguin | **itsvaleriaotz**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
