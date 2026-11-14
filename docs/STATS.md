@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 02:31 UTC by the scrape workflow._
+_Updated 2026-11-14 02:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 02:31 UTC by the scrape workflow._
 | amvgg | 4 | 25,293 | 2026-11-14T02:30 |
 | elve | 4 | 5,442 | 2026-11-14T02:31 |
 
-## AMVGG completed trades: 10,734 total
+## AMVGG completed trades: 10,744 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 489 |
+| 2026-11-14 | 499 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 02:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:36 | **sophsroblocxacc2**: Hedgehog (NFR), Shark Puppy (NFR), Mini Pig (FR), Kangaroo (FR), Ghost Chick (N) | **NInjaMaster3702**: Crow (NFR) |
+| 02:36 | **7ckyy**: Jekyll Hydra Animated Sticker, Dragon Breath Animated Sticker, Super Saru Animated Sticker, Frostclaw Animated Sticker, Shadow Dragon Animated Sticker, Mermicorn Animated Sticker, Mochi Meow Tumble Animated Sticker, Solaris Animated Sticker, Frost Fury (FR) | **soy_anonim6**: Panda (MFR) |
+| 02:36 | **vampalt_s**: Bunny Swirl | **buzzbee86**: King Bee |
+| 02:36 | **Alana_enna22**: Moonpine, Kelp Raider, Halloween White Mummy Cat, Blossom Snake, Pangolin, Komodo Dragon, Hummingbird, Frozen Penguin, Elasmosaurus | **xwifiskeletonxx**: Ride-A-Pet Potion |
+| 02:36 | **snyyyp**: Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon (R), Fairy Bat Dragon (FR), Spring Bunny Nose | **helloitmii**: Copycat (MFR) |
+| 02:36 | **Frs_88xx**: Rabbit (MFR) | **mmmaattthhheeeooo**: Ride-A-Pet Potion ×2 |
+| 02:36 | **illaofficial**: Sakura Spirit (FR), Copycat (R), Copycat, Stray Cat Dragon (MR) | **yyt9nf**: Cabbit |
+| 02:36 | **illaofficial**: Copycat ×4, Cabbit, Slime (NR), Pink Cat Ear Headphones | **v3xxyyy**: Strawberry Shortcake Bat Dragon |
+| 02:36 | **Y3llowXFever**: Alpaca, Pupcicle (N), Slimingo (MR) | **hhhhddddcc**: Goose (FR) |
+| 02:36 | **fayesweet13**: Turtle (R) | **adoptmeplayer293791**: Copycat (FR), Copycat (R), Copycat |
 | 02:30 | **Robloxiana_xxx2011**: Matcha Cat | **xxrobin3457**: Ride-A-Pet Potion ×4 |
 | 02:30 | **OMG4ZXLA**: Winged Tiger (MFR) | **Rbd_JP**: Latte Kitsune (MFR), Diamond King Penguin (MFR), Papa Moose (MFR) |
 | 02:30 | **ang3licbwnni**: Copycat (N) | **Xchuuya_soukokuX**: Tiny Wings, Sloth (MFR), Matcha Cat, Strawberry Penguin, Platypus (R) |
 | 02:30 | **Azure_Vision38**: Goose (R), Cabbit (FR), Fly-A-Pet Potion ×2 | **XxS0L4R_FL4RExX**: Arctic Reindeer (FR) |
 | 02:30 | **kokoroganao**: Irish Water Spaniel, Narwhal (MR) | **7ckyy**: Royal Palace Spaniel (MFR) |
-| 02:30 | **FlyToTheSaturn**: Discosplosion, Christmas Cat Rattle, Marsh Plush, Throwing Pumpkin, Octopus Plush, Skeleton Pogo Stick, Banana Pogo ×2, Turkey Plush, Cookie Dough Plush ×3, Heart Plushie, Heart Balloon, Dragon Balloon, Marsh Balloon, Ornament Throw Toy, Candle | **MartiAragonyt**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 02:30 | **Lovebunny_131**: Dodo (R) | **Cocoxmistyyt**: Pupcicle |
-| 02:30 | **syxnonym**: Flower Power Duckling ×2, Bear Hood, Candy Cane (Pet Wear), Strawberry Shortcake Bow | **xwifiskeletonxx**: Ride-A-Pet Potion ×2 |
-| 02:30 | **lildaminii**: Copycat (NFR) | **auroverze**: Copycat ×4, Ride-A-Pet Potion |
-| 02:30 | **123luna958**: Emberlight, Thunderfisher | **xwifiskeletonxx**: Ride-A-Pet Potion |
-| 02:30 | **Furry_lechuga**: Queen Bee, Pineapple Owl, King Bee (FR) | **girlbyegirl12**: Unicorn (NFR) |
-| 02:30 | **lildaminii**: Copycat (NFR) | **caticaaa**: Pupcicle ×18 |
-| 02:30 | **M00Nligth100**: Chihuahua | **ferr_kiwii**: Gemstone Egg |
-| 02:30 | **zxl0106**: Ride-A-Pet Potion ×6 | **jose2012el_Pro**: Copycat |
-| 02:30 | **Sakura_Chan2803**: Fly-A-Pet Potion ×2 | **Robloxiana_xxx2011**: Quetzalcoatl (MFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
