@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 01:31 UTC by the scrape workflow._
+_Updated 2026-11-14 01:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 01:31 UTC by the scrape workflow._
 | amvgg | 4 | 24,231 | 2026-11-14T01:30 |
 | elve | 4 | 5,222 | 2026-11-14T01:31 |
 
-## AMVGG completed trades: 10,546 total
+## AMVGG completed trades: 10,574 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 301 |
+| 2026-11-14 | 329 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 01:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:25 | **MyMainGotban_crys**: Fly-A-Pet Potion | **jose26022602**: Pet Handler Pro Certificate |
-| 01:25 | **Alana_enna22**: Kid Goat, Velociraptor, Patchy Bear, Mistletroll, Kakapo, Eggnog Dog, Seahorse, River Otter, Shetland Pony Dark Brown, Prism Snake, Moonlight Moth, Merhorse | **diiorrvi**: Ride-A-Pet Potion |
-| 01:25 | **Justformoneybrolol**: Cryptid (NR), Cryptid (R), Arctic Dusk Dragon (MFR), Arctic Fox (NFR), Christmas Pudding Pup (NFR), Fairy Bat Dragon (FR), Border Collie (R), Nessie ×2, Winged Tiger (F), Unicorn Backpack | **Kiandra13kiandra**: Shadow Dragon (FR) |
-| 01:25 | **FunkyBrodie**: Mermicorn (NFR), Hot Doggo (R), Mermicorn ×2 | **twigl0ver**: Parrot (FR) |
-| 01:25 | **3lind3r**: Crocodile (FR), Pain au Chat | **Famixvx**: Tortoiseshell Guinea Pig |
-| 01:25 | **niceplayeruwu**: Ride-A-Pet Potion ×2 | **0sit0legendari0**: Monkey Box |
-| 01:25 | **piercedscorpion**: Evil Unicorn (FR), Christmas Pudding Pup (NR) | **stqrfallz**: Pelican (N) |
-| 01:25 | **YUMIIMOTHZZ**: Bunny (MR), Rabbit (M), Banded Palm Civet (N), Angler Fish (N), Crimson Cape (N), Capuchin Monkey (M), Rice Cake Rabbit (N) | **mmmaattthhheeeooo**: Pet Handler Pro Certificate, Fly-A-Pet Potion, Kitty Biscuit |
-| 01:25 | **dlaiiry**: Ride-A-Pet Potion ×2 | **ykardYT**: Fly-A-Pet Potion |
-| 01:25 | **aianame_rey**: Turtle (FR) | **ykardYT**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
-| 01:25 | **soliwis2**: Ride-A-Pet Potion ×2 | **johnna_alt**: Unicorn (FR) |
-| 01:25 | **AltforamvggBre1**: Pupcicle | **pmpjmg1**: Ride-A-Pet Potion |
-| 01:25 | **niceplayeruwu**: Count Slothula | **wszy_yu**: Gemstone Egg ×2 |
-| 01:25 | **savxxkknn**: Sushi Penguin (MFR), Matcha Cat, Spring Bunny Nose | **corbin374**: Pupcicle (MFR) |
-| 01:25 | **puppysizedf**: Mini Pig (FR), Ring-Tailed Lemur (NFR) | **123theprincsi5**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:36 | **kvnzziee**: Siamese Cat (NFR), Unicorn Horn, Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig (N), Dragonfruit Fox ×2 | **E1IN37852**: Goose (NFR) |
+| 01:36 | **Potato_potatoes100**: Shadow Dragon (FR), Evil Unicorn (R), Giant Panda (FR), Chocolate Chip Bat Dragon (FR), Red Dutch Guinea Pig (N) | **OBV1LUCA**: Hedgehog (MFR) |
+| 01:36 | **obv1kylxx**: Ballet Swan (NFR), Ballet Swan (N) ×3, Moose Calf (MFR) | **copyvoting**: Matcha Cat (MFR) |
+| 01:36 | **samakiyo_junyoung**: Christmas Pudding Pup | **Kkaleido_scope**: Pupcicle (NR) |
+| 01:36 | **cvrsedbowss**: Sugar Glider (NFR), Rainbow Maker, Fly-A-Pet Potion, Ride-A-Pet Potion, Moose Calf, Alley Cat, Pink Cat Ear Headphones, Pink Heart Glasses | **kaylamicmi**: Balloon Unicorn (R) |
+| 01:36 | **liofe1**: Cotton Candy Hat, Star Sunglasses | **Etolvie**: Ride-A-Pet Potion |
+| 01:36 | **Potato_potatoes100**: Owl (FR) | **moff24**: Diamond Butterfly (NFR), Arctic Fox |
+| 01:36 | **Angela019291**: Evil Unicorn (FR), Turtle (NFR), Kangaroo (FR), Turtle (FR), Kangaroo, Crocodile (R), Siamese Cat (R), Cow (FR), Goose (FR), Pink Cat (N), 2022 Birthday Cake, Tombstone Ghostify | **Kiandra13kiandra**: Giraffe (FR) |
+| 01:36 | **eeliasxcx**: Ride-A-Pet Potion | **uak_o**: Muskrat (M), Aye Aye (M) |
+| 01:36 | **madislimeg**: Candicorn (NFR), Shrew (NR), Sushi Penguin (N), Peacock (FR), Spring Bunny Hood, Unicorn Backpack, Arctic Dusk Dragon (FR), Christmas Pudding Pup, Chocolate Dutch Guinea Pig ×2, Fly-A-Pet Potion, Elf Hat | **Kiandra13kiandra**: Evil Unicorn (FR) |
+| 01:36 | **1dayto100dayrich09**: Mummy Spider (M) ×2 | **eeliasxcx**: Ride-A-Pet Potion |
+| 01:36 | **loncher183**: Pandaguin Glooptodog (M) | **mmmaattthhheeeooo**: Golden Lettuce |
+| 01:36 | **Zh_ind**: Bunny Swirl (MFR), Snowball Pug (N), Ride-A-Pet Potion, Water Rabbit ×2 | **Charlieplayz_gameryt**: Water Rabbit (M) |
+| 01:36 | **miaow42**: White Amazon (R), Golden Unicorn, Mummy Spider (N) | **rainbow28546**: Ride-A-Pet Potion |
+| 01:36 | **valenkiii666**: Jester Dragon (MFR) | **marchthenewest**: Frostbite Bear (NFR), Frostbite Bear (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
