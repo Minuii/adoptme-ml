@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 21:45 UTC by the scrape workflow._
+_Updated 2026-11-14 21:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 21:45 UTC by the scrape workflow._
 | amvgg | 4 | 45,007 | 2026-11-14T21:45 |
 | elve | 4 | 9,731 | 2026-11-14T21:45 |
 
-## AMVGG completed trades: 15,612 total
+## AMVGG completed trades: 15,668 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,367 |
+| 2026-11-14 | 5,423 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 21:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:45 | **Yakkuji**: Border Collie (R) | **Traitor2510**: Pig (R), Glacier Kitsune (FR), Pinkypillar (M) |
-| 21:45 | **ViperOfTheUnderworld**: Aurora Fox (MFR) | **reni2912**: Chocolate Dutch Guinea Pig (MFR), Cerberus (MFR), Slime (MFR), Latte Kitsune (NFR), Ring-Tailed Lemur (NFR) |
-| 21:45 | **floraxlbee**: Crystal Egg ×15 | **meowwwwwww326**: Ride-A-Pet Potion |
-| 21:45 | **al_exdsi**: Ride-A-Pet Potion | **Tasy_Ily**: Gargoyle |
-| 21:45 | **radkiitty**: Ride-A-Pet Potion | **eeliasxcx**: Pupcicle |
-| 21:45 | **Allieiiiwiw**: Paint Sealer ×2 | **assapickle**: Alicorn |
-| 21:45 | **0live2oo9**: Irish Elk (M) | **ghxstlillies**: Pudding Cat (M) |
-| 21:45 | **lulusvc8**: Mini Pig (FR), Albino Monkey (FR), Toasty Red Panda (MFR), Turkey (MFR), Alley Cat (N), Shrew (NFR), Polar Bear (FR), Arctic Fox (NR), Chicken (NFR), White Sand Dollar (NR) | **sleepy_s0ren**: Crow (FR) |
-| 21:45 | **Hewdry**: Frost Fury (FR), Amami Rabbit, Tarsier | **Halaaa7397**: Copycat |
-| 21:45 | **Cutesy_BEONCEY**: Cryptid (FR) | **HGJohnson13**: Turtle (NFR), Rainbow Maker |
-| 21:45 | **ich_binda00**: Ride-A-Pet Potion, Admin Abuse Egg ×2 | **razarvale2z**: Pain au Chat ×3 |
-| 21:45 | **gggpppgggppp1**: Chestnut Glyptodon (M), Glyptodon Ducky (M) | **DrinklngMilk**: Pet Handler Pro Certificate |
-| 21:45 | **caxar_ok2351**: Haetae (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3, Halloween Chick Box | **Livxhze**: Blazing Lion (FR) |
-| 21:45 | **kaibodydump**: Dire Wolf (M), Liger (M), Angus Calf (M), Hammerhead Shark (MR), Turtle Doves (M), Forest Sprite (M), White Amazon (MFR) | **kok225677**:  |
-| 21:45 | **lotiedoll**: Fairy Bat Dragon (MFR), Crocodile (R) | **y0urquican**: Parrot (FR), Hedgehog (FR) |
+| 21:55 | **Dielizbe123**: Thunderfisher (M), Thunderfisher (N), Thunderfisher ×2, Stray Cat Dragon (N) | **DrinklngMilk**: Pet Handler Pro Certificate |
+| 21:55 | **funmoster2019**: Albino Bat (MFR), Count Slothula (MFR), Stray Cat Dragon (MFR), Ride-A-Pet Potion | **Puddingxcutoy**: Lava Wolf (MFR) |
+| 21:55 | **nxhyidzdg2**: Wooly Rhino (MFR) | **Your_girly23**: Jester Dragon (NFR) |
+| 21:55 | **activexchxrli**: Mecha R4BBIT ×2, Maine Coon, Samoyed | **gggpppgggppp1**: Ride-A-Pet Potion |
+| 21:55 | **cyborg_1000000**: Maine Coon (MFR), Dire Wolf (M), Waffle Wyrm (M) ×2, Garden Snake (M), Ghostly Cat (N) ×2, Black-Footed Ferret (M), Black Tiger (M), Polar Bear (R), Halloween White Ghost Dragon (R), Bakeneko (MR), Ratatoskr (M), Frankenfeline (M), White Choccybunny (M), S'mores Raccoon (N), Pupcicle ×2 | **wowzerthisismyalt**: Fairy Bat Dragon |
+| 21:55 | **Thatscute18**: Flaming Fox ×3 | **Terranese**: Goat |
+| 21:55 | **p001torich**: Classic Trade Stand ×3 | **batton0955**: Ride-A-Pet Potion |
+| 21:55 | **atracttion**: Glacier Kitsune (MFR) | **Crazygirlfire10**: Christmas Pudding Pup (MFR) |
+| 21:55 | **alkashnyadarya**: Mummy Spider (N) ×4, Gemstone Egg | **MilothefoxYT56**: Ride-A-Pet Potion |
+| 21:55 | **Helper_dod**: Frost Fury (FR) | **Dash35813**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
+| 21:55 | **larisochka_gudeeva98**: Zodiac Minion Chick (FR), Grave Owl (FR) | **rami092x**: Fly-A-Pet Potion |
+| 21:55 | **Lucy_Pandacornlove**: Retired Egg ×15 | **Queenvessy**: Chihuahua |
+| 21:55 | **Getmossedbyagirlheh**: Emberlight (R), Mochi Meow ×2, Purrowl, Three Blind Mice | **Maldives_eyekons**: Peachick (N) |
+| 21:55 | **fufudvjfndj2**: Goose ×4, Goose (R) ×2, Goose (FR) ×2 | **marioxd_1252**: Frost Dragon (FR) |
+| 21:55 | **DragonjJDusta107130**: Siamese Cat (R) | **voorobushek**: Fly-A-Pet Potion ×10 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
