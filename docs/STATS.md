@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 18:10 UTC by the scrape workflow._
+_Updated 2026-11-14 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 18:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 41,023 | 2026-11-14T18:00 |
-| elve | 4 | 8,842 | 2026-11-14T18:01 |
+| amvgg | 4 | 41,311 | 2026-11-14T18:15 |
+| elve | 4 | 8,919 | 2026-11-14T18:16 |
 
-## AMVGG completed trades: 14,516 total
+## AMVGG completed trades: 14,555 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 4,271 |
+| 2026-11-14 | 4,310 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 18:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:10 | **Pluizigepluis7**: Harp Seal, Dimorphodon, Merhorse (R), Garden Snake (NFR) | **VvK1e**: Pet Handler Pro Certificate |
-| 18:10 | **xiivra**: Stray Cat Dragon (M), Classic Trade Stand | **luckygirlquan**: Pupcicle ×3 |
-| 18:10 | **SnowyAngelKittys**: Fly-A-Pet Potion ×3, Pet Handler Pro Certificate ×2 | **briannaharp**: Pupcake (MFR) |
-| 18:10 | **Adoptmestocks3000**: Beluga Whale (MFR) | **SOFIA_HAN7**: Gingerbread Reindeer (N), Gingerbread Reindeer |
-| 18:10 | **AlesyaFox228**: Fairy Bat Dragon (FR), Turtle (FR), Fly-A-Pet Potion ×4 | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
-| 18:10 | **werlianess**: Bauble Buddies (R), Monkey (R) | **Kiravtb**: Ride-A-Pet Potion |
-| 18:10 | **ii_AceKun**: Cow (FR) | **Marina83899545**: Fly-A-Pet Potion ×17 |
-| 18:10 | **elproXD_7v7**: Stray Cat Dragon (N) ×2 | **Kiravtb**: Ride-A-Pet Potion |
-| 18:10 | **Vitek_228666**: Arctic Fox (R) | **Masha7930**: Ride-A-Pet Potion ×7 |
-| 18:10 | **zx_dt3**: Little Lamb (N), Boohoo (N), Jumpscare (N), Mexican Wolf (N), 2026 Birthday Butterfly (N), White Choccybunny (N), Milk Choccybunny (N) | **Mostlydumb123**: Kitty Biscuit |
-| 18:10 | **sleepyymichael**: Jekyll Hydra (R), Golden Bone, Horse (R) | **ilovefl0we**: Jekyll Hydra (FR) |
-| 18:10 | **beaaarr2**: Shrew (R), Peppermint Penguin (R), Ride-A-Pet Potion | **pwttiecece**: Mini Pig (FR) |
-| 18:10 | **xyudrocher666**: Pupcicle (N) ×2, Ride-A-Pet Potion | **AprilMaeJune0**: Polar Bear (NR) |
-| 18:10 | **fa_yp**: Count Slothula, Easter Eggy Box | **themudwizard**: Ride-A-Pet Potion |
-| 18:10 | **Avaxurez**: Ride-A-Pet Potion | **p_awth**: Blue Ringed Octopus ×2 |
+| 18:15 | **fallenstxrsX**: Copycat (MFR), Cow (FR), Rhino (NR) | **Demonking973491**: Cryptid (R), Chocolate Chip Bat Dragon (FR) |
+| 18:15 | **mimi_andtom**: Evil Unicorn (FR) | **xnaeroad**: Strawberry Shortcake Bat Dragon (FR) |
+| 18:15 | **xLovey_Doveyyx**: Ride-A-Pet Potion | **estrella_gamer132**: Tree Decorating Animated Sticker |
+| 18:15 | **NerVhana**: Munchkin Cat (MFR) | **lynxswagg**: Cryptid (FR) |
+| 18:15 | **HJKGVNib**: Haetyphoon, Fairy Bat Dragon (FR), Arctic Fox, Pink Heart Glasses, Pupcicle ×7 | **Yahx4xEvr**: Strawberry Shortcake Bat Dragon (R) |
+| 18:15 | **SyndromGG**: Dimorphodon (R), Mushroom Friend | **beblessed037**: Fly-A-Pet Potion |
+| 18:15 | **artem287473**: Golden Hamster, Winged Horse, Headless Horse, Huntsman Robin, Three Blind Mice | **Riikka_Takanashiii**: Fly-A-Pet Potion |
+| 18:15 | **heladitoooUnU**: Ride-A-Pet Potion | **beblessed037**: Harp Seal |
+| 18:15 | **sxgarrXO**: Spring Bunny Hood | **valentina_nic90**: Easter Bunny (M), Fly-A-Pet Potion |
+| 18:15 | **Priskona0**: Werewolf (MFR), Alley Cat (N), Kangaroo (NR) | **MissaBloxluck**: Border Collie (MFR) |
+| 18:15 | **snezzhook**: Fly-A-Pet Potion | **vvombii**: Ride-A-Pet Potion ×2 |
+| 18:15 | **BudakBaran7**: Strawberry Shortcake Bat Dragon (R) | **Camillyssfofi**: Bunny Swirl (MFR), Jellyfish, Arctic Fox (R), Ram (NR), Many Mackerel, Christmas Pudding Pup, Ice Cream Hermit Crab ×2, Hare (R), Hare, Bunny Swirl (NR), Harp Seal, Husky |
+| 18:15 | **uneedcaffeine**: Chocolate Dutch Guinea Pig | **XxkfirxbushxX**: Snowball Pug (N) |
+| 18:15 | **yangor_uzbek100**: Hedgehog (FR) | **aVERYSaDVENTUREE**: Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR) |
+| 18:15 | **Kakashonec2**: Arctic Reindeer (FR) | **Elf_Deme**: Tiny Wings ×6 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
