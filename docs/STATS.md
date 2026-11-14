@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 01:01 UTC by the scrape workflow._
+_Updated 2026-11-14 01:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 01:01 UTC by the scrape workflow._
 | amvgg | 4 | 23,706 | 2026-11-14T01:00 |
 | elve | 4 | 5,091 | 2026-11-14T01:01 |
 
-## AMVGG completed trades: 10,450 total
+## AMVGG completed trades: 10,472 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 205 |
+| 2026-11-14 | 227 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 01:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:00 | **vtoriii0**: Blazing Lion (FR), Giant Panda (FR), Cryptid (FR), Haetae (FR), Werewolf (MFR), Munchkin Cat (MFR), Black Chow-Chow (MFR), Golden Penguin (MFR), Leopard Shark (MFR), Harp Seal (MFR), Glormy Leo (MFR), Tiny Wings | **lantongzp**: Cryptid (MFR) |
-| 01:00 | **aikyoyumi**: Toaster Hat ×14 | **sleepy_s0ren**: African Wild Dog (FR) |
-| 01:00 | **LoVe_1999A**: Evil Unicorn (FR) | **sursyrzytxurzutzutz**: Arctic Reindeer (FR), Cow (FR), Ride-A-Pet Potion |
-| 01:00 | **Cammyitz**: Cryptid (FR), Jester Dragon (NFR), Jester Dragon (N) | **rastafarismo10**: Giant Panda (FR), Pet Handler Pro Certificate, Stray Cat Dragon |
-| 01:00 | **Yaret_1424**: Emberlight | **Drakosha_PloXoiyy**: Blue Boohoo Mega Neon Paint |
-| 00:55 | **bella94255**: Kangaroo (FR) | **johnpatricktasunci16**: Catte ×18 |
-| 00:55 | **bella94255**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Kangaroo (FR) | **hisevermore**: Glacier Moth (MFR), Toaster Hat |
-| 00:55 | **roblox_user_4904540593**: Nessie (MFR), Shadow Dragon (MFR), Bat Dragon (FR), Owl (NFR), Evil Unicorn (MFR), Octopus (MFR), Owl (FR) ×3, Crocodile (R) | **lotiedoll**: Bat Dragon (MFR) |
-| 00:55 | **Krunchkrunc**: Chihuahua ×2, Banana Hat | **Tatitofake777**: Fly-A-Pet Potion |
-| 00:55 | **shodidodi**: Ride-A-Pet Potion ×6, Basic Egg ×12 | **KnifeonKeys**: Copycat |
-| 00:55 | **2262096**: Munchkin Cat, Rose Dragon | **xXxLunightxXx**: Munchkin Cat (FR) |
-| 00:55 | **qlltm**: Shark Puppy (FR), Onza (N) ×2 | **qwelxzz**: Sea Slug, Fly-A-Pet Potion |
-| 00:55 | **rainbowgirl10821**: Fairy Bat Dragon (NFR) | **HE4RTluvss**: Cabbit (NFR) |
-| 00:55 | **laylaangel1309**: Copycat | **Mitchellita_Alt**: Pupcicle ×5 |
-| 00:55 | **ANIMEN3RD_S**: Sushi Penguin | **Yamayama912**: Pupcicle |
+| 01:11 | **Alana_enna22**: Show Pony, Cute-A-Cabra, Yellow Butterfly, Toy Poodle, Punk Pony, Ostrich, Water Moon Bear, Hummingbird ×3 | **Aslie_17**: Ride-A-Pet Potion |
+| 01:11 | **pmpjmg1**: Ride-A-Pet Potion | **ke3xhae**: Pupcicle |
+| 01:11 | **TibetanMotor5122**: Dimorphodon (MFR) | **luna2028192**: Hamster ×2, Hummingbird ×2, Mirai Moth, Peachick ×2, Praying Mantis ×2, Rice Cake Rabbit ×2, Sprout Snail, Toasty Red Panda ×2, Castle Hermit Crab, Leopard Cat ×2, Koi Carp |
+| 01:11 | **marchthenewest**: Fairy Bat Dragon (FR), Munchkin Cat (R) | **Kotik_22822883**: Siamese Cat (R), Candyfloss Chick (FR) |
+| 01:11 | **LittleHeartPlays**: Peppermint Penguin (FR), Jellyfish (R), Pig, Frost Fury (FR), Dragonfruit Fox | **123theprincsi5**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:11 | **Puppylover227331**: Thunderfisher ×3, Elasmosaurus | **xwifiskeletonxx**: Ride-A-Pet Potion |
+| 01:11 | **impiggyomggggggggggg**: Munchkin Cat (MFR), Alpaca (R), Munchkin Cat (R), Apple Owl (MFR), Copycat, Pancake Stack | **regalarmealgo12**: Giant Panda (FR) |
+| 01:06 | **denjisguilt**: Alley Cat (MFR), Ranger Beaver (MFR), Amami Rabbit (MFR), Water Rabbit (MFR), Bunny Swirl (MFR), Tiny Wings | **Unkn0wn_R3y**: Field Mouse (MFR) |
+| 01:06 | **lona262**: King Bee (MFR), English Sheepdog (MFR) | **Lim_Mellon**: Cherry-On-Top |
+| 01:06 | **pmpjmg1**: Ride-A-Pet Potion ×2 | **ke3xhae**: Pupcicle ×2 |
+| 01:06 | **magnethoon**: Arctic Dusk Dragon | **cheesecake_2350**: Jester Dragon |
+| 01:06 | **ENNARD_010203**: Zeopod (N), Purrowl (N) ×2, Mochi Meow | **batton0955**: Ride-A-Pet Potion |
+| 01:06 | **LIAXMLV**: Jester Dragon (R) | **magnethoon**: Gingerbread Mouse (MFR) |
+| 01:06 | **rew6nd**: Frost Dragon (FR), Cow (FR), Goose (R), Lava Dragon (FR), Chimera (NR), Beluga Whale (MFR), Tawny Frogmouth (MR), Glyptodon (NR) | **remona223**: Crow (NFR), Ride-A-Pet Potion, Tutu |
+| 01:06 | **baby_demonakakj**: Unicorn Horn | **sleepy_s0ren**: Candicorn (FR), Golden Lettuce |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
