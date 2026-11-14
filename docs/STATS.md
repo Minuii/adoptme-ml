@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 20:55 UTC by the scrape workflow._
+_Updated 2026-11-14 21:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 20:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 43,959 | 2026-11-14T20:45 |
-| elve | 4 | 9,510 | 2026-11-14T20:45 |
+| amvgg | 4 | 44,204 | 2026-11-14T21:00 |
+| elve | 4 | 9,596 | 2026-11-14T21:01 |
 
-## AMVGG completed trades: 15,357 total
+## AMVGG completed trades: 15,393 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,112 |
+| 2026-11-14 | 5,148 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 20:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:55 | **crisfarug**: Frostbite Bear (FR), Fly-A-Pet Potion, Dango Penguins, Ride-A-Pet Potion | **Gay5242**: Turtle (FR), Copycat |
-| 20:55 | **qlltm**: Diamond Butterfly (MFR), 2022 Birthday Cake ×2, Angel Wings ×2, Rain Cloud Hat, Toaster Hat, Spring Bunny Hood ×2, Cryptid (NFR), Cabbit (FR), Goose (R), German Shepherd (MR), Hare (NR), Ice Cream Hermit Crab (NFR), Dragonfruit Fox (N), Gecko (MR) | **strqwb3rriies**: Frost Dragon (NFR), Crow (R), Dalmatian (MFR) |
-| 20:50 | **hello545246797**: Swan | **fidgetetsarecool**: Moose Calf |
-| 20:50 | **soft_fax**: Mighty Haetyphoon Animated Sticker, Fly-A-Pet Potion, Ride-A-Pet Potion | **Valzynxx**: Arctic Dusk Dragon |
-| 20:50 | **bbrokex**: Ride-A-Pet Potion ×17 | **Enxisl**: Kangaroo (FR) |
-| 20:50 | **v3xxyyy**: Hare ×3, Spring Bunny Hood | **kaibodydump**: Hare (N) |
-| 20:50 | **lil2fad3d**: Pupcicle | **Melissa_5433354**: Ride-A-Pet Potion |
-| 20:50 | **Hauntenuit**: Pupcicle (N) | **nsf772**: Velocirooster |
-| 20:50 | **Frog_Cuteyx**: Sheeeeep (N) | **keissitojf**: Flamingo (FR), Fly-A-Pet Potion |
-| 20:50 | **ViperOfTheUnderworld**: Cow (MFR) | **mama77515**: Cow (NFR), Majestic Pony (MFR), Dalmatian (FR) |
-| 20:50 | **simbalove310**: Jester Dragon | **anjhienicole00**: Unicorn (NFR) |
-| 20:50 | **ll_90dfhj**: Dodo | **Ribocoo12**: Sushi Penguin |
-| 20:50 | **lola_bear1995**: Shark Puppy | **LulusiaKoza123**: Ride-A-Pet Potion ×10 |
-| 20:50 | **fluffyunicorns_932**: Orange Butterfly (MFR), Chef Gorilla (MFR), Pretty Pony (MFR) | **ssundylan**: Blue Dog (NFR), Snowball Pet (MFR) |
-| 20:50 | **Artem_21a2**: Pupcicle ×2 | **flopy231985**: Fly-A-Pet Potion |
+| 21:00 | **4chocolate49**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **yopkkeem**: Strawberry Shortcake Bat Dragon (FR) |
+| 21:00 | **Masha_Kasha1488**: Bat Dragon (FR), Owl (FR) ×3, Crow (FR) ×2, Copycat (MFR), Siamese Cat (N) | **cuty_Bunny10**: Bat Dragon (NFR) |
+| 21:00 | **bakedkole**: Snow Monkey | **layl4Blox**: Ride-A-Pet Potion ×2 |
+| 21:00 | **ADOPTME_tr4dingAlt**: Cryptid (FR) | **BKYSHEHKO**:  |
+| 21:00 | **Girllrobloxx1324**: Black Moon Bear (NFR), Black Moon Bear ×16, Brown-Chested Pheasant | **Liipisbloxoficial**: Black Moon Bear (MFR) |
+| 21:00 | **amyggvaI**: Goose | **austytedgirl**: Kangaroo (FR), Ride-A-Pet Potion ×13 |
+| 21:00 | **mister_bunny33xd**: Chimera (R) | **fabiojordan2010**: Ride-A-Pet Potion |
+| 21:00 | **LttleLo**: Hot Doggo, Diamond Griffin, Diamond Dragon, Glormy Crab, Golden Griffin, Purrowl (N) | **W1NT3R_991224**: Undead Jousting Horse (FR) |
+| 21:00 | **Cocovunix**: Frostbite Cub (MFR), Mr. Whiskerpips (MFR), Spring Bunny Hood | **FFrostyraven49**: Vanilla Penguin (MFR) |
+| 21:00 | **Alejandro_KLD**: Balloon Unicorn (FR), Hot Doggo (R), Goose (NFR), Field Mouse, Golden Lettuce | **bbbbbbbbbbbbbbiuu**: Frost Dragon (FR), Pancake Stack |
+| 21:00 | **Maxadoptme77**: Halloween Evil Dachshund (MR), Fly-A-Pet Potion, Ride-A-Pet Potion | **envitiee**: Tiny Wings |
+| 21:00 | **sxftBlossomBR**: Arctic Hare (M) | **Fluffykitty_08**: Pupcicle ×2 |
+| 21:00 | **kobii_x**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **boyuancool123**: Snow Monkey (N) |
+| 21:00 | **Sarahi23685**: Mini Schnauzer | **Isaticas**: Vanilla Penguin |
+| 21:00 | **KenyaSharp**: Vampire Stroller | **boyuancool123**: Fly-A-Pet Potion, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
