@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 08:25 UTC by the scrape workflow._
+_Updated 2026-11-14 08:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 08:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 30,876 | 2026-11-14T08:15 |
-| elve | 4 | 6,508 | 2026-11-14T08:16 |
+| amvgg | 4 | 31,116 | 2026-11-14T08:30 |
+| elve | 4 | 6,569 | 2026-11-14T08:31 |
 
-## AMVGG completed trades: 11,730 total
+## AMVGG completed trades: 11,738 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,485 |
+| 2026-11-14 | 1,493 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,14 @@ _Updated 2026-11-14 08:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:30 | **milkcoffe135**: Pupcicle, Moon Rabbit, Tasmanian Devil, Red Fox | **ELL4SV1BEY**: Flaming Fox |
+| 08:30 | **ZuzaOnlyMy**: Cow (NFR) | **BreadPlayz20**: Cow, Turtle (FR), Munchkin Cat, Owlbear (R), Ride-A-Pet Potion |
+| 08:30 | **lililili2288_pot**: Lamb (R) | **riceb4II**: Gaelic Fae |
+| 08:30 | **yjhgyuj488**: Cow (FR), Cow (R) | **lololeasybro**: Arctic Reindeer (FR), Catte ×3 |
+| 08:30 | **archie_290**: Chocolate Dutch Guinea Pig (M) | **skdjq89**: Winged Tiger (FR), Tortoiseshell Guinea Pig (FR) |
+| 08:30 | **odading12318**: Turtle (R) | **Kitsune2287**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion |
+| 08:30 | **odading12318**: Aurora Fox (R), Glacier Kitsune (FR) | **Kitsune2287**: Fly-A-Pet Potion ×7 |
+| 08:30 | **d9intyy**: Hare (NFR), Hare (N), Snowball Pet (MFR), Mule (NR) | **lardpole981**: Aestus (MFR) |
 | 08:25 | **pastyysp**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×3, Chihuahua (N) | **Yupiterd**: Cow (FR) |
 | 08:25 | **alhida040**: Cabbit (FR), Goose (FR), Munchkin Cat (NR), Pupcicle, Copycat (FR), Unicorn Horn, Mochi Meow (MR), Butter Knife, Bready Necklace | **abdoosaad**: Haetae (FR) |
 | 08:25 | **Marina83899545**: Pupcake (MFR) | **abdoosaad**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
@@ -36,14 +44,6 @@ _Updated 2026-11-14 08:25 UTC by the scrape workflow._
 | 08:25 | **ch4rliesde4d**: Goose (R), Goose, Sunglider (MFR) | **pxumii_x**: Dalmatian (FR) |
 | 08:25 | **Kerimverse**: Happy Clam (NR), Flaming Fox (NFR) | **Poweradethegoat**: Sugar Glider |
 | 08:25 | **Nurrbi**: Jester Dragon | **yRafah_Bloxinha**: Chicken (NFR) |
-| 08:25 | **cuthbertbean**: Groundhog (MFR) | **obvsaoifexo**: Cow (FR), Aurora Fox (NFR), Firefly (MFR), Momma Moose (M) |
-| 08:25 | **1o5_aa**: Pupcicle | **1C_ON**: Crimson Cape (M) |
-| 08:25 | **Lonny_Mensch**: Harp Seal (R) | **2tayy**: Electric Hornet ×4 |
-| 08:25 | **Layla999_gamer**: Goose (R), Angel Wings, Cherry-On-Top, 2022 Birthday Party Hat, Winged Tiger (R), Halo | **xKashaf**: Parrot (FR) |
-| 08:25 | **Tumba_44xx**: Donut Stroller | **Nurrbi**: Lunar Stroller |
-| 08:25 | **DwsLol123**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2, Golden Chow-Chow (R), Ride-A-Pet Potion | **kittykyo77**: Cow (FR), Pupcicle, Stray Cat Dragon |
-| 08:25 | **luvyerh**: Chocolate Dutch Guinea Pig | **Eclipse_Soul051**: Ride-A-Pet Potion |
-| 08:25 | **flanbum2**: Ride-A-Pet Potion ×3 | **CAXAPOK_1122332**: Red Dutch Guinea Pig |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
