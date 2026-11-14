@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 17:25 UTC by the scrape workflow._
+_Updated 2026-11-14 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 17:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 40,221 | 2026-11-14T17:15 |
-| elve | 4 | 8,678 | 2026-11-14T17:16 |
+| amvgg | 4 | 40,462 | 2026-11-14T17:30 |
+| elve | 4 | 8,720 | 2026-11-14T17:31 |
 
-## AMVGG completed trades: 14,239 total
+## AMVGG completed trades: 14,257 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,994 |
+| 2026-11-14 | 4,012 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 17:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:25 | **lyyxemq**: Hare (MFR) ×2 | **lolghwy3**: Munchkin Cat (MFR) |
-| 17:25 | **onyx11414**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Fly-A-Pet Potion ×2 | **princesz_sof1e**: Toaster Hat, 2022 Birthday Cake, Ride-A-Pet Potion ×7 |
-| 17:25 | **p_awth**: Pupcake ×6 | **Chiki_cou**: Ride-A-Pet Potion ×3 |
-| 17:25 | **kariisshha**: Rainbow Stroller, Bunny Ear Tiara | **batton0955**: Ride-A-Pet Potion |
-| 17:25 | **Vitamirka**: Pain au Chat, Kiwi Kiwi | **batton0955**: Ride-A-Pet Potion |
-| 17:25 | **esddier**: Strawberry Tortle (NFR), Arctic Dusk Dragon (MFR), Lion Cub (MR), Undead Jousting Horse (FR), Cabbit (NFR), Sushi Penguin (MFR), Nessie (R) | **freddy3782**: Blazing Lion (NFR) |
-| 17:25 | **makaka3901**: Shrew (R) | **avoxmunk**: Fly-A-Pet Potion ×3 |
-| 17:25 | **VikaQuiet**: Ride-A-Pet Potion ×7 | **Vitek_228666**: Fly-A-Pet Potion ×4 |
-| 17:25 | **Helper_dod**: Cow Calf (MFR) | **varmitrof**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 17:25 | **Helper_dod**: Ostrich (M) | **varmitrof**: Fly-A-Pet Potion ×3 |
-| 17:25 | **lnH3II**: Snow Leopard (N), Amami Rabbit (N) ×3, Amami Rabbit, Ride-A-Pet Potion ×2 | **iheartmyman6548**: Amami Rabbit (MFR) |
-| 17:25 | **Lx_mo0n**: Jester Dragon (R), Arctic Fox, Fly-A-Pet Potion | **jade_7767**: Elephant (R) |
-| 17:25 | **1zhindibek5**: Munchkin Cat (MFR), Fly-A-Pet Potion ×2 | **Urpookie_Ria**: Peppermint Penguin (NFR) |
-| 17:25 | **TradeMehOnMahMain**: Zombie Wolf (MR), Moon Rabbit (MR), Border Collie, Moose Calf, Fly-A-Pet Potion | **Siren_AriaBlaze**: Border Collie (NFR) |
-| 17:25 | **yanchik0067**: Kangaroo (R) | **luhv_kvrr**: Munchkin Cat ×2 |
+| 17:30 | **AL1C3W0RLDD**: Kangaroo (R), Kangaroo (FR) ×2, Albino Monkey (FR), Flamingo, Shark Puppy (FR), Ride-A-Pet Potion | **N0ugatt**: Evil Unicorn (FR) |
+| 17:30 | **wafy_3mk**: Crow (MFR), Owl, Strawberry Shortcake Bat Dragon (R) | **alwyzchlqe**: Frost Dragon (MFR) |
+| 17:30 | **1an4hn**: Stray Cat Dragon ×2 | **potatoiscool64**: Pupcake |
+| 17:30 | **Cutie_wolfie20**: Ride-A-Pet Potion ×15 | **J3LLY4H0LDer**: Elephant (FR) |
+| 17:30 | **cutebvnx**: Copycat (MFR), Unicorn Horn | **caxarok_ponosik52**: Sakura Spirit (MFR) |
+| 17:30 | **Yakkuji**: Border Collie, Pink Cat (R) | **Bismuth234**: Siamese Cat (FR) |
+| 17:30 | **iqitotoru**: Nessie (R), Diamond Ladybug (FR) | **3BDAl3ziz3**: Malaysian Tapir (M) |
+| 17:30 | **ijkjjkjk53**: Ride-A-Pet Potion, Candicorn, Astronaut Gorilla (N) | **Mary1235175**: Frostbite Bear |
+| 17:30 | **Musy12_a**: Candicorn (NFR), Cow (R), Ride-A-Pet Potion | **Ez50**: Strawberry Shortcake Bat Dragon (FR), Shark Puppy (FR) |
+| 17:30 | **nfrmikey1**: Ice Wolf (MFR), Husky | **bacon_deken**: Rainbow Maker |
+| 17:30 | **jellysi233**: Count Slothula (N) | **Kira9975335**: Ride-A-Pet Potion ×3 |
+| 17:30 | **CMETAHKA_LOVElp**: Fly-A-Pet Potion ×3 | **LevelMisisAnastasiya**: Copycat |
+| 17:30 | **loane584**: Tree Frog (N) | **Youare_soooperf3ct**: Retired Egg ×3 |
+| 17:30 | **Nastymiopi**: Dalmatian (FR), Hedgehog (FR), Crow (FR), Arctic Reindeer (FR), Copycat, Aussie Egg | **gabolskie**: Giraffe (FR) |
+| 17:30 | **wldnsdlrnldudna**: Red Dutch Guinea Pig (N), Tortoiseshell Guinea Pig | **Jakey_jakey367**: Cabbit (FR), Spring Bunny Nose |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
