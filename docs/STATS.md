@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 11:16 UTC by the scrape workflow._
+_Updated 2026-11-14 11:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 11:16 UTC by the scrape workflow._
 | amvgg | 4 | 33,994 | 2026-11-14T11:15 |
 | elve | 4 | 7,158 | 2026-11-14T11:16 |
 
-## AMVGG completed trades: 12,334 total
+## AMVGG completed trades: 12,384 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,089 |
+| 2026-11-14 | 2,139 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 11:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:11 | **Grinding2evil**: Pig (NFR), Pig (FR), Scarecrow (M) | **llkkiop12345**: Cow (FR) |
-| 11:11 | **RiordanFan19**: Ride-A-Pet Potion ×2 | **LYIZA_1976**: Fly-A-Pet Potion |
-| 11:11 | **Mx1shu**: Mini Pig (R) ×2, Hot Doggo (R), 2022 Birthday Cake, Copycat, Spring Bunny Nose | **kayshiyy**: Balloon Unicorn |
-| 11:11 | **Kartkiirus**: Chihuahua (M), Nautilus (MR), French Bulldog (MFR) | **sufferingtogether**: Glormy Hound (MFR) |
-| 11:11 | **Anorra42**: Kangaroo (FR), Ride-A-Pet Potion ×5 | **1220birth1005100**: Turtle (FR) |
-| 11:11 | **crazy4ukat**: King Bee (FR), Pinkypillar (M), Caramelgeist (M), Onza (N), Purrowl (N), Winter Fawn (N), Kirin (N) | **batspyv**: Pupcicle ×3 |
-| 11:11 | **6arixia**: Goose (R), Matcha Cat, Scarebear (NR), Sushi Penguin (N), Arctic Fox | **abxwr3a**: Strawberry Shortcake Bat Dragon (FR) |
-| 11:11 | **chapihop2**: Cow (FR) ×2, Crocodile (FR), Kangaroo (FR), Shrew (NFR), Pink Cat (R), Field Mouse, Ride-A-Pet Potion, Fly-A-Pet Potion ×3 | **Yupiterd**: Balloon Unicorn (FR) |
-| 11:11 | **TxddyNya**: Dalmatian (FR), Cow (FR), Grim Dragon (FR) | **malazarea353**: Cryptid (FR) |
-| 11:11 | **AVAPAWSXO**: Cow (NFR), Arctic Reindeer (NFR) | **Ciccine10**: Owl (FR) |
-| 11:11 | **Hello_Kitty2o22**: Ride-A-Pet Potion | **mamyy_344**: Chick (FR) |
-| 11:11 | **mochiloV7**: Ride-A-Pet Potion | **Cat6562u**: Glormy Dolphin, Ice Moth Dragon, Dragon, Dragonfly, Alicorn |
-| 11:11 | **Maryha0243**: Kitty Biscuit | **egg_eggy1234**: Count Slothula |
-| 11:11 | **L_person21**: Pupcicle (N), Ride-A-Pet Potion, Golden Ladybug | **Its_Gellyaa**: Tortuga de la Isla, Ice Cream Hermit Crab |
-| 11:11 | **YuroMiyuk1**: Unicorn Horn, Mini Pig (R), Ride-A-Pet Potion | **Lavend67r67**: Rainbow Maker |
+| 11:25 | **Ar120821**: Royal Mistletroll (FR), Spring Bunny Feet | **ddff_j**: Jester Dragon (R) ×2, Jester Dragon ×2 |
+| 11:25 | **Mirkir2014**: Count Slothula, Zodiac Minion Chick (R) | **tarrace_house**: Ride-A-Pet Potion |
+| 11:25 | **mightberachele**: Ride-A-Pet Potion ×11 | **Helper_dod**: Shark Puppy (FR) |
+| 11:25 | **Vitamirka**: Boohoo (M), Rubber Ducky (M), Momma Moose, Purrowl ×3 | **LYIZA_1976**: Fly-A-Pet Potion |
+| 11:25 | **solariise**: Dalmatian (FR), Jester Dragon (NFR), Siamese Cat (R), Chihuahua (MR) | **Shzxvr**: Strawberry Shortcake Bat Dragon (NFR) |
+| 11:25 | **Quueen_Juliiaa**: Clementine Owl (M) | **daran_waren**: Ride-A-Pet Potion ×3 |
+| 11:25 | **xXDreamqcloudsXx**: German Shepherd (MFR), Red Sand Dollar | **Gu1neaP1g_3**: Snowball Pug (M), Kitty Bat (MFR), Pet Handler Pro Certificate, Amami Rabbit (N) |
+| 11:21 | **kajaterezka**: Kangaroo (R), Fly-A-Pet Potion ×3 | **odading12318**: Turtle (FR) |
+| 11:21 | **yogurt13162**: Sugar Glider (R), Jester Dragon, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **odading12318**: Mini Pig (FR) |
+| 11:21 | **good_vibesgirl09**: Pupcicle (NFR), Pupcicle (N), Pupcicle ×8 | **vynllama**: Unicorn Horn |
+| 11:21 | **lvingonu**: Fly-A-Pet Potion | **Mwlexxs**: Pupcicle (R) |
+| 11:21 | **Anorra42**: Turtle (FR), Turtle (R), Fly-A-Pet Potion | **odading12318**: Turtle (NFR) |
+| 11:21 | **luvyerh**: Ride-A-Pet Potion ×9 | **llkkiop12345**: Pig (FR) |
+| 11:21 | **Altpugandme8**: Frost Dragon (FR), Cow (NFR), Mini Pig, Goose, Goose (R), Arctic Fox (N), Meerkat | **G0J0xx_7**: Frost Dragon (NFR) |
+| 11:21 | **pankrasiia**: Paint Sealer ×15 | **Junjyungg**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
