@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 10:45 UTC by the scrape workflow._
+_Updated 2026-11-14 10:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 10:45 UTC by the scrape workflow._
 | amvgg | 4 | 33,471 | 2026-11-14T10:45 |
 | elve | 4 | 7,043 | 2026-11-14T10:45 |
 
-## AMVGG completed trades: 12,238 total
+## AMVGG completed trades: 12,278 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,993 |
+| 2026-11-14 | 2,033 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 10:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:45 | **JacobeanLifestyle**: Mushroom Friend (N), Fairytale Egg ×9 | **Bumble_Lou**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 10:45 | **chickenwingaver6**: Ant (M), Gummy Guana (M), Galapagos Sea Lion (M) | **Bumble_Lou**: Ride-A-Pet Potion |
-| 10:45 | **AZTD1zve9O4u3A**: Midnight Dragon (R) | **eshkere_BPOOOO**: Copycat |
-| 10:45 | **Kira9975335**: Bee (NR), Sea Angel (R) | **llkkiop12345**: Fly-A-Pet Potion |
-| 10:45 | **Irek3008**: Cryptid (R) | **alt_account67hehe**: Christmas Pudding Pup (MFR) |
-| 10:45 | **BrittanyLynne2002**: African Wild Dog (MFR), Ghostly Cat (M), Spring Bunny Hood | **scenemodel**: Blazing Lion (MFR) |
-| 10:45 | **sleepy_s0ren**: African Wild Dog (FR), Harp Seal (NR), Glacier Moth | **impiggyomggggggggggg**: Balloon Unicorn (FR) |
-| 10:45 | **Debo_Jesus**: 2D Kitty (MFR), Slime (MFR), Ice Cream Hermit Crab (MFR), Unicorn Horn | **Adopacount**: Caelum Cervi (MFR) |
-| 10:45 | **envymiax**: Giraffe (FR), Frost Dragon (FR) ×2, Parrot (FR) | **qeerrzzx**: Shadow Dragon (NFR) |
-| 10:45 | **KucharPanBuchta**: Red Sand Dollar, Pomeranian | **aludraazima2008**: Lynx |
-| 10:45 | **quietlyangel**: Poison Dart Frog ×17 | **Benjy_toby7**: Ghost Dog (N) |
-| 10:45 | **H3AV3NLY_s**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 | **BMWSHKA666**: Cow (FR) |
-| 10:45 | **Bxumble_5**: Sugar Glider (FR), Panda | **lushlyr**: Cabbit (FR) |
-| 10:45 | **wilqnizqw**: Christmas Pudding Pup (FR), Unicorn | **wa0yss**: Arctic Fox (R) |
-| 10:45 | **PoseForFans**: Tan Chow-Chow (N) | **yasmin_2012o**: Tan Chow-Chow ×4 |
+| 10:55 | **Leviodas**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **Goodnews2013**: Bunny Swirl (M) |
+| 10:55 | **TempeBuriq**: Cryptid (R) | **voilet173**: Munchkin Cat (MFR) |
+| 10:55 | **Helper_dod**: Crocodile (FR) | **carlovalencia08**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×4 |
+| 10:55 | **pupgenderr**: Elephant (NFR) | **Auds191102**: Candicorn (NFR) |
+| 10:55 | **imxwwq**: Jester Dragon (R) | **XisokoGame**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 |
+| 10:55 | **zxl0106**: Haetyphoon | **bread99883**: Flash Weasel |
+| 10:55 | **noobtoprogag14302**: Sugar Glider (MFR), Sugar Glider (R) | **shortyeden**: Border Collie (M), Cryptid (FR) |
+| 10:55 | **Yupiterd**: Ride-A-Pet Potion ×10, Pet Handler Pro Certificate ×4 | **odading12318**: Alpaca |
+| 10:55 | **yuri_dragon32**: Strawberry Tortle (R), Glacier Kitsune (R) | **chikowoah**: Diamond Hamster (MFR) |
+| 10:55 | **adoptmeholderboang**: Evil Unicorn (FR), Goose (FR), Pig | **Vitek_228666**: Balloon Unicorn (FR) |
+| 10:55 | **Zues_Potter**: Strawberry Tortle (M) | **yuri_dragon32**: Frost Dragon (FR), Owl (FR) |
+| 10:55 | **ExpertChipmunkPro**: Frostbite Bear, Ride-A-Pet Potion | **angel_1010246**: Turtle (FR) |
+| 10:55 | **crap8077**: Cryptid (FR), 2022 Birthday Cake | **lukaspro23317**: Haetae (FR) |
+| 10:55 | **kittykyo77**: Copycat (NR) | **Popka_durak47**: Fairy Bat Dragon (R), Ride-A-Pet Potion, Kiwi Kiwi |
+| 10:55 | **nikssertyqxx**: Grim Dragon (FR), Golden Unicorn (R), Bubblegeist (R), Skelicorn (N), Toucan (R), Pandaguin Glooptodog (N) ×2, Stitches (N), Gemstone Egg ×2, Sushi Penguin | **elsikko2**: Frostbite Bear (R) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
