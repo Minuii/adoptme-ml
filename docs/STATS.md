@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 13:31 UTC by the scrape workflow._
+_Updated 2026-11-14 13:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 13:31 UTC by the scrape workflow._
 | amvgg | 4 | 36,314 | 2026-11-14T13:30 |
 | elve | 4 | 7,744 | 2026-11-14T13:31 |
 
-## AMVGG completed trades: 12,953 total
+## AMVGG completed trades: 13,011 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,708 |
+| 2026-11-14 | 2,766 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:30 | **Helper_dod**: Jellyfish (R) | **s_coki**: Ride-A-Pet Potion ×9 |
-| 13:30 | **Pinkiepiesbabe**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Snowball Pug (M), Bunny Swirl (MR), Pterodactyl, Chicken, Summer Walrus, Vermilion Butterfly, Orca ×2, Bunny ×2, Starfish, Gumball Caterpillar, General Sheepdog, Narwhal, Halloween Slime Mega Neon Paint | **hs07887**: S'mores Raccoon (MR) |
-| 13:30 | **Scarlett284616**: Pancake Stack, Harp Seal | **Angelbatista_me2**: Fly-A-Pet Potion ×2 |
-| 13:30 | **sensntive**: Copycat (R) | **klelopokjh**: Berry Cool Cube, Chameleon, Chocolate Chow-Chow, Maneki-Neko, Flower Power Duckling, Koi Carp, Leopard Cat, Narwhal, Lunar Moon Bear, Nebula Snake, Ostrich, Subzero Scorpion, Sweetheart Rat, Toy Poodle, Zombie Chick, Glyptodon (R), Ride-A-Pet Potion |
-| 13:30 | **eeveelover2007lover**: Ratatoskr (N), Irish Setter (M), Water Opossum (N), Hopbop (N) | **KaiSaboAceCC**: Ride-A-Pet Potion |
-| 13:30 | **Alisjdfhh**: Ride-A-Pet Potion ×12, Frostbite Cub (MR), Amami Rabbit (MFR) | **Maryha0243**: Hot Doggo |
-| 13:30 | **P00Pipz**: Fairy Bat Dragon (NFR) ×2, Fairy Bat Dragon (NR) | **terrylonsoyjerry**: Fairy Bat Dragon (MFR) |
-| 13:30 | **Sirswagalishsus**: Ride-A-Pet Potion ×2 | **kohvhvv**: Cerberus (FR) |
-| 13:30 | **alleyrot**: Ride-A-Pet Potion | **xgx6702**: Stitches ×16 |
-| 13:30 | **1_j0c3lynxx**: Fly-A-Pet Potion, Kitty Bat (MFR), Count Slothula (M) | **Froggyblossom90**: Copycat (N) |
-| 13:30 | **Tree092109**: Ride-A-Pet Potion | **luzmi119**: Panda |
-| 13:30 | **itsmeRa3lyn**: Fairy Bat Dragon (FR), Fly-A-Pet Potion | **Minimalama0**: Copycat (NFR) |
-| 13:30 | **BossunBounthong2010**: Fly-A-Pet Potion, Diamond Griffin | **Juliab515**: Mouse (MR), Poodle (MFR) |
-| 13:30 | **Z0mb1e_R1ot**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **imxwwq**: Guardian Lion (NR) |
-| 13:30 | **SimonkaPlavcova01**: Boohoo (M), Ghost Bunny (R) | **Its_soulseekk**: Fly-A-Pet Potion |
+| 13:40 | **irishazu_2014**: Catte, Pomeranian ×2, Stray Cat Dragon | **batton0955**: Ride-A-Pet Potion |
+| 13:40 | **kh6rin**: Stray Cat Dragon ×2, General Sheepdog, Thunderfisher ×2, Eggnog Dog | **Officially_Allie101**: Pupcicle |
+| 13:40 | **fluffyunicorns_932**: Dango Penguins (R) ×2 | **rich2poorchallenge8**: Fly-A-Pet Potion ×3 |
+| 13:40 | **fadingauroras**: Pupcicle, Crystal Egg ×2 | **cbmelissa**: Ride-A-Pet Potion |
+| 13:40 | **bell_flowers**: Pupcicle ×6 | **llkkiop12345**: Ride-A-Pet Potion ×6 |
+| 13:40 | **hihihihihihihahahah2**: Parrot (FR), Border Collie (R), Border Collie, Arctic Fox (R), Pig | **clihello**: Border Collie (MFR) |
+| 13:40 | **C0PHYAK**: Fly-A-Pet Potion ×3, Pet Handler Pro Certificate ×5, Ride-A-Pet Potion ×6 | **llkkiop12345**: Turtle (FR) |
+| 13:40 | **Lerunhi**: Quokka (N), Moonlight Moth (N) | **Leviodas**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 13:40 | **Vitamirka**: Kiwi Kiwi, Pain au Chat | **batton0955**: Ride-A-Pet Potion |
+| 13:40 | **MissaBloxluck**: Frostbite Bear (M) | **IamCool123Andunot**: Ballet Swan (MFR), Solaris (MFR), Hare (MFR), Frost Phoenix (MFR), Chocolate Dutch Guinea Pig (M), Aussie Egg ×2, Volcanic Rhino (MR), Werewolf (R), Moonbeam Peacock, Goldhorn (MR) |
+| 13:40 | **KinaToons**: Owl (FR), Ride-A-Pet Potion | **clihello**: Border Collie (MFR) |
+| 13:40 | **Bellapacnula_altacc**: Purrowl (M) | **LYIZA_1976**: Fly-A-Pet Potion |
+| 13:40 | **ziggylili0**: Cow (NFR), Lion Cub | **KatsuTatsuya**: Farm Egg |
+| 13:40 | **Annsjdnsnjs**: Cabbit (NR), Jellyfish | **bolsi_06**: Alpaca (NFR) |
+| 13:40 | **sleepy_s0ren**: Toaster Hat | **Bunni_Rainbowpop**: Tiny Wings, Paint Sealer ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
