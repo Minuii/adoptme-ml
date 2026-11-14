@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 12:55 UTC by the scrape workflow._
+_Updated 2026-11-14 13:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 12:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 35,523 | 2026-11-14T12:45 |
-| elve | 4 | 7,514 | 2026-11-14T12:45 |
+| amvgg | 4 | 35,792 | 2026-11-14T13:00 |
+| elve | 4 | 7,584 | 2026-11-14T13:01 |
 
-## AMVGG completed trades: 12,769 total
+## AMVGG completed trades: 12,780 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,524 |
+| 2026-11-14 | 2,535 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 12:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 13:00 | **undefined0801**: Fly-A-Pet Potion | **progalaksi22**: Music Box Hat, Lightbulb Hat, City Hat |
+| 13:00 | **mashykoTOPQWQ**: Evil Unicorn (FR), Kangaroo (NFR), Sugar Glider | **laila53749**: Parrot (FR) |
+| 13:00 | **blossopeony**: Retired Egg ×18 | **draike_tzu8262**: Cattuccino (N) |
+| 13:00 | **lililili2288_pot**: Wood Pigeon | **Mariavxbess**: Gaelic Fae |
+| 13:00 | **Uliana000334**: Pancake Stack ×12 | **lovesoursweet**: Cow (FR) |
+| 13:00 | **grijfe8r**: Jester Dragon (FR) | **xXx0winx0xXx**: Copycat (R) |
+| 13:00 | **Maryha0243**: Dirty Ducky (N), Angus Calf (R) | **caxarok_matilda**: Ride-A-Pet Potion |
+| 13:00 | **newheroltu**: Lion Cub (MFR) ×2, Caelum Cervi (MFR), Queen Bee (MFR), Dango Penguins (MFR) ×2, Sugar Axolotl (MFR), Candicorn (MFR), Munchkin Cat (MFR) | **Supr3meAlex**: Bat Dragon (FR) |
+| 13:00 | **dorathe850**: Copycat, Ride-A-Pet Potion ×3 | **ItzAina_JPN**: Tiny Wings |
+| 13:00 | **Sonya73p**: Elf Hat | **r0mmul4s**: Ride-A-Pet Potion |
+| 13:00 | **Lylyputikmummy9**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **Rayve_MLA**: Copycat |
 | 12:55 | **santii_css**: Giant Anteater (MFR), Glacier Moth (MFR), Slime (MFR), Shrew (MFR), Zombie Buffalo (MFR), Snow Monkey (MFR) | **Cinzsins**: Undead Jousting Horse (MFR) |
 | 12:55 | **LOL9912309**: Ride-A-Pet Potion | **thunderzjn**: Paint Sealer ×13 |
 | 12:55 | **tutritam174**: Fossil Egg, Golden Egg | **Katie_proshkaa**: Ride-A-Pet Potion |
 | 12:55 | **PARAZITKA14888**: Ride-A-Pet Potion, Golden Bone | **Katie_proshkaa**: Fly-A-Pet Potion |
-| 12:55 | **Chris_1998years**: Unicorn Horn, Unicorn (MFR) | **yomoiki**: Peppermint Penguin (R), Ride-A-Pet Potion ×3 |
-| 12:55 | **luvyerh**: Elephant, Fly-A-Pet Potion | **fishymiss_y**: Elephant (FR) |
-| 12:55 | **grijfe8r**: Pupcicle | **lera_frostfury**: Ride-A-Pet Potion |
-| 12:55 | **PARAZITKA14888**: Fly-A-Pet Potion | **Nafjdf**: Gaelic Fae |
-| 12:55 | **gffdjddd23_4**: Winged Horse (NFR), Frost Phoenix (NR), Yule Log Dog (NFR), Tree Kangaroo (NFR), Tuxedo Cat (N) | **thyrrone1**: Mini Pig (FR) |
-| 12:55 | **LPPlay42302**: Mrs. Whiskerpips (M) | **I_KermitDEATH**: Fly-A-Pet Potion |
-| 12:55 | **jhon145p**: Jester Dragon (FR) | **SoyNoel11**: Christmas Pudding Pup (FR) |
-| 12:55 | **pssixotrop**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **jhon145p**: Christmas Pudding Pup (FR) |
-| 12:55 | **sillybillylilly32345**: Strawberry Shortcake Bow | **MochiMetalHead**: Unfortunate Eyelashes |
-| 12:55 | **kh6rin**: Chihuahua, Halloween Evil Dachshund, Kappakid, Seahorse, Onza | **vilmm2adopt**: Pupcicle |
-| 12:55 | **elifanaekinci**: Unicorn Backpack | **sillybillylilly32345**: Ride-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
