@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 19:46 UTC by the scrape workflow._
+_Updated 2026-11-14 19:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 19:46 UTC by the scrape workflow._
 | amvgg | 4 | 42,952 | 2026-11-14T19:45 |
 | elve | 4 | 9,258 | 2026-11-14T19:45 |
 
-## AMVGG completed trades: 15,043 total
+## AMVGG completed trades: 15,045 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 4,798 |
+| 2026-11-14 | 4,800 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,8 @@ _Updated 2026-11-14 19:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:50 | **ad0pttrading**: Owl | **Unicornfav_animal**: Owl (FR), Ride-A-Pet Potion |
+| 19:50 | **Bruno_Games76**: Subzero Popsicle Bait, Shiver Cone Bait | **Alisa_mt07**: Choccybunny Box ×18 |
 | 19:45 | **bq1r_35**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **xXxLunightxXx**: Arctic Dusk Dragon (FR) |
 | 19:45 | **Saji_Ls**: Pupcicle (N), Count Slothula (N) | **TsukiKito**: Munchkin Cat |
 | 19:45 | **i111kwm**: Maine Coon ×2, Gumball Caterpillar (N) | **42ief**: Ride-A-Pet Potion |
@@ -42,8 +44,6 @@ _Updated 2026-11-14 19:46 UTC by the scrape workflow._
 | 19:45 | **Butterfly_cutieplayz**: Fly-A-Pet Potion ×2, Endangered Egg ×4, Flying Fish (MR), Forest Sprite (M) | **Goodnews2013**: Shark (NR) |
 | 19:45 | **gatinho_panda2008**: Pain au Chat (M) | **sofiacookieyay**: Jester Dragon (FR) |
 | 19:45 | **Veron_xixwq**: Arctic Reindeer (NFR), Ride-A-Pet Potion | **qwertyy_xx01**: Strawberry Shortcake Bat Dragon (NFR) |
-| 19:45 | **nicolyi525**: Fly-A-Pet Potion, Bunny (M), Squid, Dire Wolf (N), Snow Owl, Kitsune (FR), Purrowl, Alicorn | **girlbyegirl12**: Unicorn (NFR) |
-| 19:45 | **tonyyy133378**: Strawberry Shortcake Bat Dragon (NFR), Cow (NFR) | **XxwizzizxX**: Owl (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
