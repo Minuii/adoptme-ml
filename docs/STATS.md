@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 07:40 UTC by the scrape workflow._
+_Updated 2026-11-14 07:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 07:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 30,093 | 2026-11-14T07:30 |
-| elve | 4 | 6,367 | 2026-11-14T07:31 |
+| amvgg | 4 | 30,341 | 2026-11-14T07:45 |
+| elve | 4 | 6,394 | 2026-11-14T07:45 |
 
-## AMVGG completed trades: 11,549 total
+## AMVGG completed trades: 11,571 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,304 |
+| 2026-11-14 | 1,326 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 07:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:40 | **Andres_agent**: Ninja Monkey (MFR), Naga Dragon (MFR) ×2, Skele-Rex (MFR), Cerberus (MFR), Lava Dragon (MFR) | **Alili2323134**: Arctic Dusk Dragon (MFR) ×2 |
-| 07:40 | **chikahisoka6**: Munchkin Cat (MFR), Cow | **uh_Rojo**: Balloon Unicorn (FR) |
-| 07:40 | **Sweet_Liony**: S'mores Raccoon (M) | **eularidhi**: Great Pyrenees (MFR) |
-| 07:40 | **lockefoo**: Lavender Dragon (F) | **itslachlan_X**: Ride-A-Pet Potion ×2 |
-| 07:40 | **Arizonauwu1450**: Dragonfruit Fox (MFR), Matcha Cat, Chocolate Chip Bat Dragon Backpack, Glormy Backpack ×2, Mighty Haetyphoon Animated Sticker | **itslachlan_X**: Latte Kitsune (MFR) |
-| 07:40 | **TMDung20**: Ride-A-Pet Potion ×4 | **itslachlan_X**: Matcha Cat |
-| 07:40 | **foxsilenGirl**: Count Slothula, Chihuahua | **T0LMU**: Pupcicle |
-| 07:40 | **odading12318**: Turtle (R) | **Kitsune2287**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion |
-| 07:40 | **Viktoria_11942**: Fly-A-Pet Potion ×7, Pet Handler Pro Certificate ×6, Ride-A-Pet Potion ×5 | **odading12318**: Cow (R) |
-| 07:40 | **heeseungspookie**: Arctic Reindeer (FR) | **j2v73r**: Arctic Reindeer |
-| 07:36 | **snezzhook**: Pet Handler Pro Certificate | **slaypookieperspn**: Ride-A-Pet Potion ×2 |
-| 07:36 | **yeetimaheadout7**: Black Panther (NF) | **IvannaPrissila3004**: Spring Bunny Hood |
-| 07:36 | **mindflaree**: Parakeet (M), Donkey (NR) | **Secret_Secretov321**: Ride-A-Pet Potion |
-| 07:36 | **larisochka_gudeeva98**: Scarlet Butterfly, Stray Cat Dragon ×3, Budgie Witch (N), Fennec Fox (N), Ant (N), Crimson Cape, Mummy Spider, Bolt, Gold Mahi Mahi, Pink Dog, Bunny, Storm Condor, Clumpty ×2, Granny Wolf ×2 | **ArtemSer2008**: Ride-A-Pet Potion |
-| 07:36 | **Spayck70**: Cow (R), Cabbit (R), Ride-A-Pet Potion ×2 | **mgjgmwg**: Chocolate Chip Bat Dragon (FR) |
+| 07:45 | **DinnieLildina**: Ghost Wolf (N), Orange Betta Fish (NR) | **Secret_Secretov321**: Ride-A-Pet Potion |
+| 07:45 | **Cat_123840**: Long Ermine Sticker, Llamalush Purse Pet | **kobii_x**: Pirate Hat |
+| 07:45 | **Nastya_367367**: Strawberry Stroller, Heart Hoverboard | **Paifrennnn**: Ride-A-Pet Potion |
+| 07:45 | **n2xely**: Chinese Lantern, Shiba Inu (R) | **lkmsdfw**: Fly-A-Pet Potion ×4 |
+| 07:45 | **Yumi_Rose8**: Ride-A-Pet Potion | **MrCupcakechallenge**: Pupcicle |
+| 07:45 | **Tree092109**: Fly-A-Pet Potion ×3 | **Crystal_andLisa**: Royal Moon Egg, Ride-A-Pet Potion ×3 |
+| 07:45 | **NafeezaClarissa**: Goose (FR), Sugar Glider (FR), Jellyfish (NFR), 2022 Birthday Party Hat, Rain Cloud Hat, Ride-A-Pet Potion ×2 | **pxurifiedtoxin**: Jellyfish (MFR) |
+| 07:45 | **Yumi_Rose8**: Fly-A-Pet Potion | **w1w1w_1010**: Pupcicle ×2 |
+| 07:45 | **kourabies31415**: Dalmatian (FR), Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **WOWTHATSOSICK2**: Evil Unicorn (FR) |
+| 07:45 | **odading12318**: Pig ×2 | **Xxxxashhhh**: Fly-A-Pet Potion ×8 |
+| 07:45 | **odading12318**: Lion Cub (FR), Lion Cub (R) | **Xxxxashhhh**: Fly-A-Pet Potion ×7 |
+| 07:45 | **Tree092109**: Fly-A-Pet Potion | **admtradeonly**: Ride-A-Pet Potion, Ocean Egg |
+| 07:45 | **awhxx_Sophiaa**: Giant Panda (R) | **Evannibal**: Goat (MFR), Harp Seal (MR), Unicorn Horn, Pancake Stack |
+| 07:45 | **l1ttersstar**: Ranger Beaver (MFR) | **hiledina1**: Red Squirrel (MFR) |
+| 07:45 | **fiasmail**: Cow (FR), Turtle, Alpaca (FR), Fly-A-Pet Potion ×5 | **DarkGriffin9635**: Hedgehog (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
