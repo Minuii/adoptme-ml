@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 04:45 UTC by the scrape workflow._
+_Updated 2026-11-14 04:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 04:45 UTC by the scrape workflow._
 | amvgg | 4 | 27,452 | 2026-11-14T04:45 |
 | elve | 4 | 5,835 | 2026-11-14T04:45 |
 
-## AMVGG completed trades: 11,101 total
+## AMVGG completed trades: 11,142 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 856 |
+| 2026-11-14 | 897 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 04:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:45 | **hisforeverndalways**: Goose (R) | **kaylamicmi**: Peppermint Penguin (FR) |
-| 04:45 | **Omar2002548**: Zombie Wolf | **sleepysyamz**: Pupcicle |
-| 04:45 | **Hii_meow13ue**: Kaijunior (M) | **Aslie_17**: Ride-A-Pet Potion |
-| 04:45 | **Frank_11203**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Pro Ghost Blaster | **MatiXD12306**: Arctic Reindeer (FR) |
-| 04:45 | **Kktr690**: Granny Wolf (N), Budgie Witch (N) | **Ronni11103**: Skelicorn |
-| 04:45 | **el_williams000**: Purple & Green Beads | **A1aro237**: Skelicorn |
-| 04:45 | **bloomysweetea**: Pupcicle ×7 | **ikabackflip**: Munchkin Cat |
-| 04:40 | **SupercoolAliyah5**: Pink Cat Ear Headphones | **Aslie_17**: Ride-A-Pet Potion |
-| 04:40 | **Trixcaughtlackin**: Giraffe (FR) | **Utenok_Jackii**: Dalmatian (FR) ×2, Cow (FR), Cow (R), Cow ×3, Kangaroo (FR) ×2, Alpaca, Elephant (FR), Munchkin Cat (FR) |
-| 04:40 | **SoyShiro1234**: Dalmatian (FR), Black Scooter, Thunderfisher (N) ×2 | **trendypopcon**: Dalmatian (FR) |
-| 04:40 | **lapotaxie_ECM**: Pomeranian | **seeyatea11**: Mexican Wolf, Rabbit |
-| 04:40 | **realgeibot**: Red Dutch Guinea Pig (R) | **animatownermile3**: Pupcicle ×4 |
-| 04:40 | **kohvhvv**: Kangaroo (FR), Ride-A-Pet Potion | **R4kert**: Flamingo (FR) |
-| 04:40 | **anekalubitnaruto**: Husky (MFR), Unicorn, Shoebill (M) | **5m0ya**: Candicorn (NFR) |
-| 04:40 | **xxjohnjokexx**: Goose, Peppermint Penguin, Peppermint Penguin (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **dylanmarley28**: Evil Unicorn (FR) |
+| 04:55 | **vcloss**: Golden Dragon (MFR) | **peepyplops**: Golden Dragon (M) |
+| 04:55 | **Juanhnsm**: Royal Mistletroll (NFR), Sugar Glider (FR) | **kittykyo77**: Blazing Lion (FR) |
+| 04:55 | **amyzondelivery**: Arctic Dusk Dragon (NFR), Fly-A-Pet Potion | **vaporeonxD300**: Turtle (FR) |
+| 04:55 | **DiamondHunter77777**: Candicorn (NR), Kangaroo (NFR) | **rioo0o123**: Dalmatian (FR) |
+| 04:55 | **GamerMarty06_yt**: Fly-A-Pet Potion | **hello_oliya**: Ketchup and Mustard Jetpack |
+| 04:55 | **Definitely_notCami**: Latte Kitsune (MFR), Latte Kitsune | **lacybace**: Moon Rabbit (MFR), Alley Cat (MFR) |
+| 04:55 | **N0ugatt**: Candicorn (MFR) | **kakakakakalalasan**: Candicorn (NFR) ×3 |
+| 04:55 | **Limheyop**: Capricorn (FR), Golden Hamster (FR), Rubber Ducky (M), Snow Monkey, Dolphin (N), Garden Egg, Zombie Wolf | **Z1NCHES**: Jester Dragon |
+| 04:55 | **HelloItMeINRoblox**: Orchid Butterfly (FR), Mini Pig (FR), Jellyfish | **TANSKlN**: Balloon Unicorn (FR) |
+| 04:55 | **ikabackflip**: Arctic Fox (R) | **Mxstygon**: Pupcicle ×8 |
+| 04:55 | **HE4RTZK**: Fairy Bat Dragon (FR), Turtle (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **U_sulla**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:55 | **lupoouu2**: 2022 Birthday Cake | **Monalin879**: Rain Cloud Hat, Ride-A-Pet Potion, Spring Bunny Hood |
+| 04:55 | **Lola_ant34**: Tasmanian Devil (MR), Toasty Red Panda (MR), Halloween White Skeleton Dog (MFR), Scarlet Butterfly (MFR), Sloth (MFR), Sprout Snail (MFR), Seagull (MFR), Shadow Dragon Ducky (M), St Bernard (MR), Gingerbread Reindeer (MFR), Sasquatch (MFR), Clover Cow (MR), Toy Poodle (M), Blossom Snake (MR), Kappakid (MR), Tanuki (M), Skunk (M), Raccoon (MFR) | **iLuuvAshie**: Munchkin Cat (MFR) |
+| 04:55 | **vcloss**: Ribbon Seal (MR) | **carnivoro_fuerte**: Ribbon Seal (M) |
+| 04:55 | **rasediva**: Fly-A-Pet Potion | **Help_Grups**:  |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
