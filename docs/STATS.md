@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 21:01 UTC by the scrape workflow._
+_Updated 2026-11-14 21:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 21:01 UTC by the scrape workflow._
 | amvgg | 4 | 44,204 | 2026-11-14T21:00 |
 | elve | 4 | 9,596 | 2026-11-14T21:01 |
 
-## AMVGG completed trades: 15,393 total
+## AMVGG completed trades: 15,465 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,148 |
+| 2026-11-14 | 5,220 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 21:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:00 | **4chocolate49**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **yopkkeem**: Strawberry Shortcake Bat Dragon (FR) |
-| 21:00 | **Masha_Kasha1488**: Bat Dragon (FR), Owl (FR) ×3, Crow (FR) ×2, Copycat (MFR), Siamese Cat (N) | **cuty_Bunny10**: Bat Dragon (NFR) |
-| 21:00 | **bakedkole**: Snow Monkey | **layl4Blox**: Ride-A-Pet Potion ×2 |
-| 21:00 | **ADOPTME_tr4dingAlt**: Cryptid (FR) | **BKYSHEHKO**:  |
-| 21:00 | **Girllrobloxx1324**: Black Moon Bear (NFR), Black Moon Bear ×16, Brown-Chested Pheasant | **Liipisbloxoficial**: Black Moon Bear (MFR) |
-| 21:00 | **amyggvaI**: Goose | **austytedgirl**: Kangaroo (FR), Ride-A-Pet Potion ×13 |
-| 21:00 | **mister_bunny33xd**: Chimera (R) | **fabiojordan2010**: Ride-A-Pet Potion |
-| 21:00 | **LttleLo**: Hot Doggo, Diamond Griffin, Diamond Dragon, Glormy Crab, Golden Griffin, Purrowl (N) | **W1NT3R_991224**: Undead Jousting Horse (FR) |
-| 21:00 | **Cocovunix**: Frostbite Cub (MFR), Mr. Whiskerpips (MFR), Spring Bunny Hood | **FFrostyraven49**: Vanilla Penguin (MFR) |
-| 21:00 | **Alejandro_KLD**: Balloon Unicorn (FR), Hot Doggo (R), Goose (NFR), Field Mouse, Golden Lettuce | **bbbbbbbbbbbbbbiuu**: Frost Dragon (FR), Pancake Stack |
-| 21:00 | **Maxadoptme77**: Halloween Evil Dachshund (MR), Fly-A-Pet Potion, Ride-A-Pet Potion | **envitiee**: Tiny Wings |
-| 21:00 | **sxftBlossomBR**: Arctic Hare (M) | **Fluffykitty_08**: Pupcicle ×2 |
-| 21:00 | **kobii_x**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **boyuancool123**: Snow Monkey (N) |
-| 21:00 | **Sarahi23685**: Mini Schnauzer | **Isaticas**: Vanilla Penguin |
-| 21:00 | **KenyaSharp**: Vampire Stroller | **boyuancool123**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 21:10 | **Lili58320**: Happy Duckling, Moon Rabbit | **fhis64**: Ride-A-Pet Potion |
+| 21:10 | **x3mzv**: Cryptid (NFR), Owl (FR), Munchkin Cat (MFR) | **nvmh4llow**: Giant Panda (NFR) |
+| 21:10 | **fhis64**: Ride-A-Pet Potion ×2, Thinking Hat, Puppeteer Hand | **Lylyputikmummy9**: Shetland Pony Dark Brown (MFR) |
+| 21:10 | **Yakkuji**: Border Collie (R), Border Collie | **Mx1shu**: Cabbit (FR) |
+| 21:10 | **Enxisl**: Ride-A-Pet Potion ×18 | **Brok3n_Clocks**: Unicorn Horn |
+| 21:10 | **paulvibesss**: Winged Tiger (MFR), Candicorn (MFR) | **Markopolisen9**: Kangaroo (MFR), Meerkat (MFR), Fallow Deer (MFR), Frost Phoenix (MR), Ice Wolf (MFR), Lynx (MR), Golden Walrus (MFR) |
+| 21:10 | **valeeu123654**: Siamese Cat (FR), Ride-A-Pet Potion ×2 | **aikouwu27**: Turtle (FR) |
+| 21:10 | **Cristal2792**: Jellyfish (R), Many Mackerel, Pain au Chat ×2, Gemstone Egg, Chihuahua ×2 | **sovtlyx**: Candicorn (R) |
+| 21:10 | **vxd1on**: Maine Coon (MR) | **Ilvvech33seburgers34**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
+| 21:10 | **jefx045**: Golden Dragon ×2, Golden Unicorn, Diamond Griffin, Diamond Mahi Mahi, Zodiac Minion Chick, Huntsman Robin, Dragonfly | **amyggvaI**: Ride-A-Pet Potion |
+| 21:10 | **nomnomwiii**: Cabbit (FR), Fly-A-Pet Potion | **hihihihihihihahahah2**: Strawberry Tortle |
+| 21:10 | **animegirlfan121**: Ride-A-Pet Potion, Ice Cube (N) | **Nasty_7392**: Ginger Cat (MR) |
+| 21:10 | **0drenalun**: Pupcicle (N), Ride-A-Pet Potion | **friends123p**: Copycat |
+| 21:10 | **p_awth**: Praying Mantis ×4 | **Myobap**: Ride-A-Pet Potion |
+| 21:10 | **ellielielielieee**: Spring Bunny Nose, Alley Cat | **blake_shortie**: Spring Bunny Hood |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
