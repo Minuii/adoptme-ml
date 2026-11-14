@@ -1,20 +1,20 @@
 # Collected data
 
-_Updated 2026-11-14 00:40 UTC by the scrape workflow._
+_Updated 2026-11-14 00:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 9 | 2026-11-11T1036Z | 2026-11-13T1945Z |
+| elve | 10 | 2026-11-11T1036Z | 2026-11-14T0045Z |
 | amvgg | 16 | 2026-11-11T1036Z | 2026-11-13T2145Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 23,207 | 2026-11-14T00:30 |
-| elve | 4 | 5,003 | 2026-11-14T00:31 |
+| amvgg | 4 | 23,461 | 2026-11-14T00:45 |
+| elve | 4 | 5,024 | 2026-11-14T00:45 |
 
 ## AMVGG completed trades: 10,403 total
 
@@ -45,25 +45,25 @@ _Updated 2026-11-14 00:40 UTC by the scrape workflow._
 | 00:40 | **Vivi_Star14**: Rooster (FR) | **zwhkyx**: Husky Sled |
 | 00:40 | **Iceelanaa**: Pupcicle (M) | **Axiom15k**: Werewolf (R) |
 
-## Elvebredd value changes: 61,656 since 2023-09-16
+## Elvebredd value changes: 61,797 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-13 00:00 | Thunderfisher | mega fly ride | 7.25 | 6 |
-| 2026-11-13 00:00 | Thunderfisher | neon fly ride | 1.75 | 1.5 |
-| 2026-11-13 00:00 | Thunderfisher | default no potion | 0.2 | 0.15 |
-| 2026-11-13 00:00 | Haetyphoon | mega fly ride | 400 | 366 |
-| 2026-11-13 00:00 | Haetyphoon | neon fly ride | 95 | 87 |
-| 2026-11-13 00:00 | Haetyphoon | default no potion | 22 | 20 |
-| 2026-11-13 00:00 | Electric Hornet | mega fly ride | 13 | 11 |
-| 2026-11-13 00:00 | Electric Hornet | neon fly ride | 3 | 2.5 |
-| 2026-11-13 00:00 | Electric Hornet | default no potion | 0.44 | 0.34 |
-| 2026-11-13 00:00 | Copycat | mega fly ride | 166 | 158 |
-| 2026-11-13 00:00 | Copycat | neon fly ride | 42 | 39 |
-| 2026-11-13 00:00 | Copycat | default no potion | 9.5 | 9 |
-| 2026-11-13 00:00 | Jester Dragon | mega fly ride | 150 | 142 |
-| 2026-11-13 00:00 | Jester Dragon | neon fly ride | 36 | 34 |
-| 2026-11-13 00:00 | Jester Dragon | default no potion | 8.5 | 8 |
+| 2026-11-13 23:49 | Thunderfisher | mega fly ride | 6 | 5 |
+| 2026-11-13 23:49 | Thunderfisher | neon fly ride | 1.5 | 1.3 |
+| 2026-11-13 23:49 | Thunderfisher | default no potion | 0.15 | 0.11 |
+| 2026-11-13 23:49 | Flash Weasel | mega fly ride | 350 | 336 |
+| 2026-11-13 23:49 | Flash Weasel | neon fly ride | 83 | 80 |
+| 2026-11-13 23:49 | Flash Weasel | default no potion | 19 | 18.5 |
+| 2026-11-13 23:49 | Haetyphoon | mega fly ride | 366 | 352 |
+| 2026-11-13 23:49 | Haetyphoon | neon fly ride | 87 | 84 |
+| 2026-11-13 23:49 | Haetyphoon | default no potion | 20 | 19.5 |
+| 2026-11-13 23:49 | Electric Hornet | mega fly ride | 11 | 8.5 |
+| 2026-11-13 23:49 | Electric Hornet | neon fly ride | 2.5 | 2 |
+| 2026-11-13 23:49 | Electric Hornet | default no potion | 0.34 | 0.24 |
+| 2026-11-13 23:49 | Copycat | mega fly ride | 158 | 150 |
+| 2026-11-13 23:49 | Copycat | neon fly ride | 39 | 37 |
+| 2026-11-13 23:49 | Copycat | default no potion | 9 | 8.25 |
 
 ## AMVGG value changes: 7,653 since 2026-06-02
 
