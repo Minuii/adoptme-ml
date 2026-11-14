@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 23:45 UTC by the scrape workflow._
+_Updated 2026-11-14 23:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 23:45 UTC by the scrape workflow._
 | amvgg | 4 | 46,965 | 2026-11-14T23:45 |
 | elve | 4 | 10,150 | 2026-11-14T23:45 |
 
-## AMVGG completed trades: 16,096 total
+## AMVGG completed trades: 16,144 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,851 |
+| 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 23:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:45 | **xXJamila_451**: Arctic Fox (R), Bready Necklace | **Giulia_SatoruPs4**: Bunny Swirl (MR) |
-| 23:45 | **Nasty_7392**: Hare Box, Spider Gift, Aberdeen Angus Box | **Adoptmestocks3000**: Ride-A-Pet Potion |
-| 23:45 | **Nasty_7392**: Halloween Chick Box, Pony Box, Spider Gift | **Adoptmestocks3000**: Ride-A-Pet Potion |
-| 23:45 | **mommy_vka123**: Turtle (FR) ×5, Lion Cub, Frost Fury (R), Platypus | **Kayorilate**: African Wild Dog (R) |
-| 23:45 | **LightningCheetah2451**: Ride-A-Pet Potion | **mipansususususu100**: Stray Cat Dragon ×9 |
-| 23:45 | **XTREYT**: Shiver Wolf (MR), Border Collie (R) | **LulusiaKoza123**: Turtle (FR) |
-| 23:45 | **Alvaroolorooo**: Black Panther (M) | **vcloss**: Matcha Cat ×2, Groundhog ×3, Glormy Hound (FR) |
-| 23:45 | **xLovey_Doveyyx**: Choco Penguin ×4 | **kasita46**: Chihuahua |
-| 23:45 | **Zeyndhan**: Kangaroo (FR) | **Melissa_5433354**: Arctic Dusk Dragon (FR) ×2 |
-| 23:45 | **Lofi95775**: Pet Handler Pro Certificate | **Sains9811**: Rainbow Stroller |
-| 23:45 | **Sweetiez_P**: Goat (NFR) | **giraffe3815**: Goat (FR), Goat, Zombie Wolf (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 23:45 | **zerozer0ten**: Ghost Bunny (MFR), Magma Moose (M) | **tryingtogetkorblox02**: Jester Dragon (N) |
-| 23:45 | **ally_28901**: Propeller Hat | **brbrpatapimmm310**: Wailing Mr. Whiskerpips Sticker, Round Fallow Deer Sticker, Well, Actually Walrus Sticker, Long Ermine Sticker, Cow Loves This Sticker, Squished Red Pandorama Sticker, Tasmanian Devil |
-| 23:45 | **vxd1on**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **ks012009**: Shrew |
-| 23:45 | **Nasty_7392**: Spider Gift ×10 | **Adoptmestocks3000**: Ride-A-Pet Potion |
+| 23:55 | **Astral_Knight3**: Chihuahua | **hugsformy_sisfinjaa**: Retired Egg ×18 |
+| 23:55 | **frecalsplogeok9**: Little Lamb (N), Red Panda (N) ×2, Clumpty (N), Granny Wolf (N) ×2, Puma (N), Tegu (N) | **animal_lovercutelove**: Ride-A-Pet Potion |
+| 23:55 | **sarahang3la**: Boohoo (M), Muskrat (M), Jacobin Pigeon (M) | **gvmpyi**: Stygian Owl (M) |
+| 23:55 | **Gabrielotalamejors0**: Rain Cloud Hat, Spring Bunny Hood | **Rivija66**: Unicorn Horn |
+| 23:55 | **SillyKitty6282**: Cryptid, Goat (NFR), Phantom Dragon (R), Jester Dragon (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **valekawa28**: Siamese Cat (MFR) |
+| 23:55 | **MiNa067789**: Mini Pig (R) | **m4tt_skatez**: Husky (MFR) |
+| 23:55 | **silly_goose12197**: Chocolate Dutch Guinea Pig, Scarecrow Cat (N) | **TwistedK1tty**: Pain au Chat ×5 |
+| 23:55 | **Cutesy_BEONCEY**: Fly-A-Pet Potion | **olkzya**: Bat Wings, Halloween White Skull Hat, Electric Tide Mega Neon Paint |
+| 23:55 | **Ruperto_1297**: Cow (FR) | **DragonjJDusta107130**: Fly-A-Pet Potion ×16 |
+| 23:55 | **Crystalcyncyn**: Fly-A-Pet Potion | **Angellov9Dead**: Sloth (NFR) |
+| 23:55 | **kokoliam17**: Rainbow Maker, Silly Duck (MFR), Count Slothula (MR), Copycat | **kaylamicmi**: Cryptid (FR) |
+| 23:55 | **Isaticas**: Ride-A-Pet Potion, Admin Abuse Egg ×6 | **dusk_moon23**: Chocolate Dutch Guinea Pig |
+| 23:55 | **genesisgameryt504**: Strawberry Tortle | **Aslie_17**: Pupcicle (MFR) |
+| 23:55 | **adoptme4lyyfe**: Sushi Penguin | **whannahbeyours98**: Ride-A-Pet Potion |
+| 23:55 | **OJC_Star45**: Ride-A-Pet Potion ×2 | **silvannah122**: Stray Cat Dragon ×18 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
