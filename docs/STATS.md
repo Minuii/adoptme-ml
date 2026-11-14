@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 06:55 UTC by the scrape workflow._
+_Updated 2026-11-14 07:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 06:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 29,358 | 2026-11-14T06:45 |
-| elve | 4 | 6,178 | 2026-11-14T06:45 |
+| amvgg | 4 | 29,576 | 2026-11-14T07:00 |
+| elve | 4 | 6,225 | 2026-11-14T07:01 |
 
-## AMVGG completed trades: 11,434 total
+## AMVGG completed trades: 11,444 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,189 |
+| 2026-11-14 | 1,199 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 06:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:00 | **SoShark1**: Sushi Penguin | **anert131**: Ride-A-Pet Potion |
+| 07:00 | **xisaa_sr**: Unicorn ×2 | **Xxxxashhhh**: Fly-A-Pet Potion |
+| 07:00 | **gafiba02**: Dragonfruit Fox | **Xxxxashhhh**: Ride-A-Pet Potion ×2 |
+| 07:00 | **xisaa_sr**: Unicorn ×3 | **Xxxxashhhh**: Ride-A-Pet Potion ×3 |
+| 07:00 | **0kxxie**: Hot Doggo (FR) | **FufuFluffyFlowi**: Cow (FR), Pet Handler Pro Certificate |
+| 07:00 | **Xv_re**: Giant Panda (R), Strawberry Tortle, Latte Kitsune (MFR), Pupcake (MR) | **Shadx_1553**: Tortoiseshell Guinea Pig (MFR) |
+| 07:00 | **utarbkv**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×2 | **ethohkjalt**: Crocodile (R) |
+| 07:00 | **Sona_mol52**: Albino Monkey (FR), Guardian Lion (NFR) | **kohvhvv**: Flamingo (FR) |
+| 07:00 | **buang2oo**: Shark (FR) | **ruqpag9**: Fly-A-Pet Potion |
+| 07:00 | **merock56798**: Pupcicle | **Adiell158**: Stray Cat Dragon ×8 |
 | 06:55 | **510478**: Giraffe (NFR), Rainbow Maker | **pairofdogs2018**: Strawberry Tortle (MFR), Alpaca (MFR) |
 | 06:55 | **RoseGold_101010**: Jousting Horse, Royal Fairytale Egg | **nate_goldenduck**: Pupcicle ×3 |
 | 06:55 | **Bushra_Rocket8678**: Fly-A-Pet Potion, Hare Box | **Fionab_2012**: Cotton Candy Hat, Pirate Hat, Fishbowl Hat, Venus Flytrap Hat |
 | 06:55 | **Hii_meow13ue**: Ride-A-Pet Potion ×2 | **clalouetciedh**: Fly-A-Pet Potion |
 | 06:55 | **ShakeRetired**: Bubblegeist ×8 | **snehathebest22**: Pupcicle |
-| 06:55 | **rainbown758**: Ride-A-Pet Potion | **Fionab_2012**: Yellow Instant Camera, Rain Hat |
-| 06:55 | **ANYU_066**: Haetyphoon, White Sand Dollar (NR) | **Hungry_Sleppy**: Candicorn (FR) |
-| 06:55 | **Nanax_8907**: Jekyll Hydra Animated Sticker | **Hiraimomoling1**: Pupcicle ×2 |
-| 06:55 | **NOBODYknows_1100**: Ride-A-Pet Potion ×2 | **llkkiop12345**: Fly-A-Pet Potion |
-| 06:55 | **MathildeFX924**: Skelicorn (NF) | **Shade2560**: Ride-A-Pet Potion |
-| 06:55 | **nathsi00**: Pupcicle ×2 | **El1ies_shenanxgans**: Ride-A-Pet Potion ×2 |
-| 06:55 | **itscatnoirpeople**: Pelican (MFR) | **Addmymainpls2332**: Orchid Butterfly, Pelican (FR), Copycat (FR), Dragonfruit Fox (FR), Candicorn (FR), Crow (FR), Candicorn (MFR) |
-| 06:55 | **re_eee0**: Groundhog (NR) | **amaekii**: Shark Puppy, Irish Water Spaniel |
-| 06:55 | **Viktoria_11942**: Arctic Reindeer (FR), Fly-A-Pet Potion ×5 | **SPIKI77228**: Dalmatian (FR) |
-| 06:55 | **yapplie**: Dango Penguins | **xWobbers**: Pupcicle ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
