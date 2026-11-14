@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 12:25 UTC by the scrape workflow._
+_Updated 2026-11-14 12:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 12:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 35,012 | 2026-11-14T12:15 |
-| elve | 4 | 7,435 | 2026-11-14T12:16 |
+| amvgg | 4 | 35,260 | 2026-11-14T12:30 |
+| elve | 4 | 7,502 | 2026-11-14T12:31 |
 
-## AMVGG completed trades: 12,623 total
+## AMVGG completed trades: 12,650 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,378 |
+| 2026-11-14 | 2,405 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 12:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:25 | **k1ttyluvvnz**: Ram (MFR), Tuxedo Cat (MFR), Pupcake (MR) | **bluebell2241**: Alley Cat (MFR), Ride-A-Pet Potion |
-| 12:25 | **geralxdpro2021**: Ride-A-Pet Potion ×2 | **Alisa_R00**: Purrowl (M) |
-| 12:25 | **KsuKrizB6**: Gaelic Fae | **Mariavxbess**: Fly-A-Pet Potion |
-| 12:25 | **b_sajnovic**: Pig, Dango Penguins, Royal Palace Spaniel | **neq1xi**: Shark Puppy |
-| 12:25 | **Youdi_off**: Turtle (FR) | **babyyou55**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×11 |
-| 12:25 | **Gsusbik**: Ice Moth Dragon (NFR) | **Raduga_7777777**: Mochi Meow (M) |
-| 12:25 | **beatsvic**: Fleur De Ice (MFR), Pink Heart Glasses | **sashamaison**: Chihuahua (MFR) |
-| 12:25 | **AIexPIaysRBX**: Kangaroo (FR) ×3, Halloween White Ghost Dragon (NFR) | **LeonardoEC14**: Chocolate Chip Bat Dragon (FR) |
-| 12:25 | **RandyES233**: Pupcicle ×4 | **Milca_Demon1**: Cockroach (M) |
-| 12:25 | **Ath1esta**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Pet Handler Pro Certificate | **LeonardoEC14**: Cryptid (FR) |
-| 12:25 | **Helper_dod**: Red Dutch Guinea Pig | **Katie_proshkaa**: Ride-A-Pet Potion ×3 |
-| 12:25 | **TMDung20**: Turtle (FR) ×4 | **llkkiop12345**: Evil Unicorn (FR) |
-| 12:25 | **TMDung20**: Jester Dragon (NFR) | **Koko73464**: Monkey King (FR) |
-| 12:25 | **m0chalka_1**: Evil Unicorn (FR), Goose (R), Cow (NFR), Alpaca (FR), Elephant (R), Turtle (FR), Aussie Egg | **ComWhil**: Frost Dragon (FR) |
-| 12:25 | **darjkpi**: Catte ×2, Golden Hamster | **T0LMU**: Fly-A-Pet Potion |
+| 12:30 | **raven_rampag**: Alpaca (MFR), 2022 Birthday Party Hat, Unicorn Horn, Rain Cloud Hat, Ride-A-Pet Potion, Pancake Stack | **Cutepatate088**: Cabbit (MFR), Meerkat (MFR) |
+| 12:30 | **RobloxFanNastya44346**: Scarecrow Crow (R), Alicorn (F) | **ksoa77**: Ride-A-Pet Potion |
+| 12:30 | **King_Dark100120**: Dango Penguins (MFR), Ice Cream Cone Hat | **Paipapaprapaa**: Alley Cat (MFR) |
+| 12:30 | **skeleton_nomer1**: Burger Bear (MFR), Pancake Stack | **UntitledNovel**: Rain Cloud Hat |
+| 12:30 | **ilizathai**: Elephant (R), Frost Fury (R) | **M1cahsWRLD**: Flamingo (FR) |
+| 12:30 | **1katR1**: Quokka (MFR), Mochi Meow Tumble Animated Sticker | **skeleton_nomer1**: Chipmunk (MFR) |
+| 12:30 | **Maryha0243**: Copycat (R) | **Lana_339**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 |
+| 12:30 | **johnpatricktasunci16**: Count Slothula ×18 | **mardhiahmarnah2020**: Candicorn |
+| 12:30 | **hkyjlugb**: Pet Handler Pro Certificate ×3, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4, Candicorn | **mardhiahmarnah2020**: Cow (FR) |
+| 12:30 | **Helper_dod**: Kitty Bat (NR) | **chocllii**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 12:30 | **vynllama**: Frost Dragon (FR) | **sofiaablehh**: Crow (FR), Sugar Glider (R), Elephant (FR), Flaming Fox (MFR), Chihuahua (MFR), Bunny Swirl (MFR), Royal Palace Spaniel (MFR), Snowball Pug (MR), Cattuccino (MR), Angus Calf (M) |
+| 12:30 | **tsitp_secret**: Jousting Horse (NR) | **rvlixrisa**: Red Dutch Guinea Pig ×3, Many Mackerel |
+| 12:30 | **jett_isthebest28**: Influencer Gibbon (NFR), Butter Knife, Rain Hat, Gold Circle Glasses | **werreriss0**: Spring Bunny Hood |
+| 12:30 | **leeeww47**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Shynisocool**: Toasty Red Panda (M) |
+| 12:30 | **Mrcatsyz**: Arctic Dusk Dragon (FR), Phantom Dragon (FR), Octopus (NFR), Jester Dragon (R), Red Dutch Guinea Pig (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **GUESTROBLOX666I**: Cow (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
