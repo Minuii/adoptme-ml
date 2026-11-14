@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 08:01 UTC by the scrape workflow._
+_Updated 2026-11-14 08:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 08:01 UTC by the scrape workflow._
 | amvgg | 4 | 30,597 | 2026-11-14T08:00 |
 | elve | 4 | 6,456 | 2026-11-14T08:01 |
 
-## AMVGG completed trades: 11,644 total
+## AMVGG completed trades: 11,677 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,399 |
+| 2026-11-14 | 1,432 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 08:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:00 | **Crow_0040**: Pupcicle | **notlqvingariaa**: Ride-A-Pet Potion |
-| 08:00 | **jam0khurt**: Ride-A-Pet Potion ×18 | **shisuiziya**: Alpaca |
-| 08:00 | **kobii_x**: Shadow Dragon Ducky (MFR), Fly-A-Pet Potion | **dwaynestephen123**: Munchkin Cat |
-| 08:00 | **Babyofy5**: Matcha Cat | **urielelpro909**: Diamond Amazon |
-| 08:00 | **divertismyname**: Cake Friend (N) | **ohemgeelolxd**: Ride-A-Pet Potion ×3 |
-| 08:00 | **Oliviakitti3003**: Australian Kelpie (N), Cattuccino (N) | **Sharkie0020**: Ride-A-Pet Potion |
-| 08:00 | **Gonzpro5858**: Cow (MFR) | **nosoyelpapi4**: Undead Jousting Horse (R), Jekyll Hydra, Frostbite Bear, Haetyphoon (R), Mechapup (N) |
-| 08:00 | **Officalyuichi**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×4 | **leasllss**: Munchkin Cat (FR) |
-| 08:00 | **FlyToTheSaturn**: Wildfire Hawk, Abyssinian Cat, Australian Kelpie ×3, Basilisk, Capuchin Monkey, Dilophosaurus ×2, Dotted Eggy, Emu ×3, Gorilla ×3, Narwhal, Monkey | **iDontKnowYou89844**: Fly-A-Pet Potion |
-| 08:00 | **FlyToTheSaturn**: Monkey ×3, Narwhal ×2, Ox, Pterodactyl ×4, Rabbit, Rat ×2, Sasquatch, Seahorse, Woolly Mammoth ×2, Yellow Butterfly | **iDontKnowYou89844**: Fly-A-Pet Potion |
-| 08:00 | **Yumi_Rose8**: Fly-A-Pet Potion | **llioed30**: Crystal Egg ×18 |
-| 08:00 | **Valerie_Sanceour**: Pupcicle ×17 | **mambysx**: Golden Rat (MFR) |
-| 08:00 | **XxbobaloverXx565**: Ram (MFR), Leopard Cat (MR) | **wldnsdlrnldudna**: Cabbit (FR) |
-| 08:00 | **iguess_in1Melany**: Ride-A-Pet Potion, Humbug (N), Tegu (N), Sabertooth | **Omar2002548**: Onza (M) |
-| 08:00 | **master_10099**: Fly-A-Pet Potion | **Lalilyn_12**: Cerberus (R) |
+| 08:10 | **lolochka898**: Shrew (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **Crystal_andLisa**: Arctic Fox (R) |
+| 08:10 | **KyraPidgorn**: Kangaroo (FR), Turtle (NFR) | **ZDawnEchoz**: Arctic Reindeer (FR) |
+| 08:10 | **don2p**: Copycat (NFR) | **KinaToons**: Pupcicle (MFR) |
+| 08:10 | **CadenChallenges**: Evil Unicorn (FR) ×2, 2022 Birthday Party Hat | **yeetimaheadout7**: Owl (FR), Kangaroo (FR) |
+| 08:10 | **luvyerh**: Cow (FR) | **cwuurz**: Pig (FR), Elephant (R), Arctic Fox, Ride-A-Pet Potion |
+| 08:10 | **Kvammletitraketa**: Chocolate Twist | **Adiell158**: Ride-A-Pet Potion |
+| 08:10 | **Roks8888_8**: Poodle (N), Budgie Witch (N), Pinkypillar (NR), Ant (N), Parakeet (N), 2026 Birthday Butterfly (N), Ancient Dragon, Dragonfly | **Chiki_cou**: Ride-A-Pet Potion |
+| 08:10 | **Mary_202401**: Copycat, Ride-A-Pet Potion | **robloxiana_79943**: Polar Bear, Arctic Dusk Dragon |
+| 08:10 | **Miles_prowwer5**: Frostbite Bear (FR), Jester Dragon (NFR), Albino Monkey (R), Werewolf (R), Lava Wolf (MFR), Momma Moose (N), Fly-A-Pet Potion | **Puddingxcutoy**: Undead Jousting Horse (NFR) |
+| 08:10 | **DottysAltx**: Siamese Cat (MR), Binturong (MFR) | **Sourpatchkiiidhehe**: Werewolf (MFR) |
+| 08:10 | **Bunnyhopps068**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **ETM_TOPG**: Wing Hang Glider |
+| 08:10 | **lunaariiii**: Peppermint Penguin (FR), Sakura Spirit (NFR) | **j2v73r**: Arctic Reindeer (FR) |
+| 08:10 | **Saji_Ls**: Fly-A-Pet Potion ×2 | **hayopanima**: Latte Kitsune |
+| 08:10 | **Roks8888_8**: Alicorn, Huntsman Robin, Cattuccino, Toucan (R), Seahorse (R) | **Kiravtb**: Ride-A-Pet Potion |
+| 08:10 | **daria7581659**: Werewolf (FR), Triple Stroller | **OflineGirlx**: Pupcicle ×16 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
