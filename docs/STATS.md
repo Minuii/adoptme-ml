@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 21:31 UTC by the scrape workflow._
+_Updated 2026-11-14 21:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 21:31 UTC by the scrape workflow._
 | amvgg | 4 | 44,739 | 2026-11-14T21:30 |
 | elve | 4 | 9,713 | 2026-11-14T21:31 |
 
-## AMVGG completed trades: 15,557 total
+## AMVGG completed trades: 15,563 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,312 |
+| 2026-11-14 | 5,318 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,6 +29,12 @@ _Updated 2026-11-14 21:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:36 | **Klaysi_flayra**: Huntsman Robin ×2, Ancient Dragon, Corgi (N), Kakapo (N), Badger (N), Orangutan (N), Purrowl ×2, Villain Gibbon | **amyggvaI**: Ride-A-Pet Potion |
+| 21:36 | **Tu_enanoxx16**: Cerberus (MFR) | **AutoTradeCommission**: Firefly (MFR), Flaming Zebra (M) |
+| 21:36 | **mqlatimbunx**: Dog House Stroller, Triple Stroller, Red Wagon Stroller, High Heel Stroller, Donut Stroller | **luni1234990567**: Pupcicle |
+| 21:36 | **cloe76547**: Gemstone Egg | **madurra012**: Banana Car |
+| 21:36 | **s0larzxxxx**: Pupcicle ×16 | **Erandi_001**: Unicorn Horn |
+| 21:36 | **qwerx0we**: Admin Abuse Egg ×13, Paint Sealer ×2, Caramelgeist (M), Mummy Spider (N), Crystal Egg | **makaka3901**: Ride-A-Pet Potion |
 | 21:30 | **Sona_tnm**: Mushroom Friend ×2 | **Xxxcottoncandyxx223**: Royal Desert Egg |
 | 21:30 | **smoothlike_butter234**: Lamb | **XSad_CharaX**: Ride-A-Pet Potion |
 | 21:30 | **seb_ihhh**: Stray Cat Dragon ×18 | **gggpppgggppp1**: Fly-A-Pet Potion |
@@ -38,12 +44,6 @@ _Updated 2026-11-14 21:31 UTC by the scrape workflow._
 | 21:30 | **FRIK_RR**: Mighty Haetyphoon Animated Sticker | **cat_cheek158**: Ride-A-Pet Potion |
 | 21:30 | **Lazurit_993**: Blazing Lion (R), Ride-A-Pet Potion | **Livxhze**: Haetae (FR) |
 | 21:30 | **hayleydoescheer**: Hammerhead Shark (MFR) | **6evesvokhaha**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 21:30 | **gvc24x**: Ballet Swan (MFR), Dragonfruit Fox (MFR), Strawberry Shortcake Ducky (MFR) | **littlelizard_7**: Sakura Spirit (MFR) |
-| 21:30 | **p_awth**: Gingerbread Hare ×2 | **Fox_micro9311**: Ride-A-Pet Potion |
-| 21:30 | **xxDeAdSoS1Sxx**: Electric Hornet | **hugsformy_sisfinjaa**: Purrowl ×2 |
-| 21:30 | **LightningCheetah2451**: Tiny Wings ×2, Spring Bunny Feet | **orchidbutterfliess**: Alpaca |
-| 21:30 | **drakocomico2**: Parrot (FR), Tree Kangaroo, Chocolate Dutch Guinea Pig | **LPPlay42302**: Cow (FR) ×5 |
-| 21:25 | **Kekemin11**: Fairy Bat Dragon (FR), Tiny Wings, Ice Cream Cone Hat, Spring Bunny Hood | **CheeseThePug2**: Siamese Cat (NFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
