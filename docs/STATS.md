@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 05:45 UTC by the scrape workflow._
+_Updated 2026-11-14 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 05:45 UTC by the scrape workflow._
 | amvgg | 4 | 28,405 | 2026-11-14T05:45 |
 | elve | 4 | 5,996 | 2026-11-14T05:45 |
 
-## AMVGG completed trades: 11,259 total
+## AMVGG completed trades: 11,275 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 1,014 |
+| 2026-11-14 | 1,030 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 05:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:45 | **syxnonym**: Ride-A-Pet Potion, Moon Egg, Garden Egg, Desert Egg | **Tree092109**: Fly-A-Pet Potion |
-| 05:45 | **xx_xxbummrr**: Rainbow Maker | **limohq**: Angel Wings ×2 |
-| 05:45 | **mooyakko**: Winged Tiger (MFR), Kitty Bat (M) | **fiasmail**: Winged Tiger (M) |
-| 05:45 | **eulien_37**: Ride-A-Pet Potion | **masjuudk123**: Electric Hornet ×3 |
-| 05:45 | **Allyanaph124**: Lion (NFR), Pink Cat (NFR), Mermicorn (NR), Albino Monkey (FR), Pig | **leruval**: Parrot (FR) |
-| 05:45 | **Legaspi_Jhonrey**: Glacier Kitsune (MFR), Goose, Crocodile, Shiver Wolf (MR) | **yoncha77**: Giant Panda (FR) |
-| 05:45 | **iiHxzel_Nuts**: Dango Penguins (NR), Dango Penguins ×2 | **WinterNataliaa**: Haetyphoon |
-| 05:45 | **chantking0910**: Cow (R) | **Banquitogamer025**: Fly-A-Pet Potion ×16 |
-| 05:45 | **MyAccountGoneForeve**: Frost Unicorn (FR), Cryptid (FR), Turtle (FR), Kangaroo (FR), Hot Doggo (R), Candicorn (NR), Mr. Whiskerpips (MR), Frost Phoenix ×2 | **cutesygabss**: Frost Unicorn (MFR) |
-| 05:45 | **st4rrdrexmo**: Purrowl ×11 | **wrawixx**: Ride-A-Pet Potion |
-| 05:40 | **vcloss**: Walrus (MR) | **Mikeoten0923**: Floral Eggy (M) |
-| 05:40 | **oscarfeo15**: Fly-A-Pet Potion ×2 | **sanctvfy**: Mono-Moped |
-| 05:40 | **Robloxiana_xxx2011**: Pupcicle ×3 | **minsun1313**: Ride-A-Pet Potion ×3 |
-| 05:40 | **Sasha_6813**: Vanilla Penguin (NFR) | **Yupiterd**: Ride-A-Pet Potion ×6 |
-| 05:40 | **VICTOR_AV01**: Cow (NFR), Cabbit (NR), Dalmatian (FR), Peppermint Penguin (R), Shark Puppy (FR) ×2, Ice Cream Cone Hat, Jellyfish | **Annsjdnsnjs**: Balloon Unicorn (FR) ×2 |
+| 05:50 | **ClxudsandRxin**: Matcha Cat (NR) | **XGiveMeUrFoodX**: Lion (FR), Bush Elephant |
+| 05:50 | **zxl0106**: Ride-A-Pet Potion ×6 | **aster1Cloud**: Copycat (R) |
+| 05:50 | **lvvlystqrdvst**: Paint Sealer | **llioed30**: Fairytale Egg ×3 |
+| 05:50 | **lockefoo**: Happy Clam (MFR), Alley Cat (MFR), Ninja Monkey (MFR), Silly Duck (MFR), Chocolate Dutch Guinea Pig (M), Blue Ringed Octopus (M), Cow Calf (MR), Cherry-On-Top, Groundhog (N) | **leruval**: Frost Dragon (FR) |
+| 05:50 | **OnlyMeNinik**: Fairy Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **chromoneblossom**: Crow (FR) |
+| 05:50 | **Diaryofawimpykis3**: Ride-A-Pet Potion | **RohanXianCreates_YT**: Slimingo (R) |
+| 05:50 | **1LYELLAAXO**: Arctic Dusk Dragon (R) ×2, Arctic Dusk Dragon | **Yupiterd**: Snowball Pet (MFR), Ride-A-Pet Potion |
+| 05:50 | **Cuteflowers3012**: Bat Dragon (FR), Frost Dragon (FR) ×2, Crow (FR), Cow (R), Munchkin Cat (MR), Rain Cloud Hat, Christmas Pudding Pup | **zuhaib1poorsus**: Balloon Unicorn (MFR) |
+| 05:50 | **lkmsdfw**: Werewolf (FR), Ride-A-Pet Potion | **zpro_jumpeur**: Pupcicle ×13 |
+| 05:50 | **zxl0106**: Turtle (FR) | **tufvfffdjdg**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
+| 05:50 | **carlitaonce**: Candicorn (R), Tortuga de la Isla (R), Chocolate Dutch Guinea Pig (R), Catte, Harp Seal (R) | **hakersharr**: Sugar Glider (R) |
+| 05:50 | **poly0950**: Ride-A-Pet Potion ×14 | **kiorama13**: Copycat ×2 |
+| 05:50 | **hania70707**: Retired Egg ×9 | **fenekitfixismymain**: Choco Penguin |
+| 05:50 | **StarShoppingxxpeep**: Evil Unicorn (FR), Grim Dragon (FR), Elephant (R), Crocodile (FR), Vampire Dragon (FR), Arctic Fox (R) | **Dddana20058**: Parrot (FR) |
+| 05:50 | **LilyLOLMaster1211**: Siamese Cat (FR) | **Coco_Blxssxm**: Puffer Fish (MR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
