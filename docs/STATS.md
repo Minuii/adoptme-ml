@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 16:55 UTC by the scrape workflow._
+_Updated 2026-11-14 17:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 16:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 39,678 | 2026-11-14T16:45 |
-| elve | 4 | 8,544 | 2026-11-14T16:45 |
+| amvgg | 4 | 39,938 | 2026-11-14T17:00 |
+| elve | 4 | 8,616 | 2026-11-14T17:01 |
 
-## AMVGG completed trades: 14,059 total
+## AMVGG completed trades: 14,085 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,814 |
+| 2026-11-14 | 3,840 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 16:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:55 | **Scar_3090**: Ride-A-Pet Potion ×2 | **nastysa14888**: Alien Eyes Hat, Rain Hat, White Chef Hat |
-| 16:55 | **MYB505**: Glormy Leo (MR), Black Moon Bear (MR) | **Ashvr_s0ul9**: Polar Bear (MFR), Reindeer (MFR) |
-| 16:55 | **Kisa_Mika8**: Turtle (FR), Sakura Spirit (FR), Ride-A-Pet Potion | **isabella68078**: Cow (FR) |
-| 16:55 | **HabaundSamira13**: Ride-A-Pet Potion | **Kisa_Mika8**: White Designer Backpack |
-| 16:55 | **JeongwooOnlyMine**: Abyssinian Cat (M) | **SerenaWGF_ita1**: Pudding Cat |
-| 16:55 | **Cherry_25053**: Tiny Wings | **luhv_kvrr**: Munchkin Cat |
-| 16:55 | **Jariannydaisyunicorn**: Momma Moose (MFR) | **iammm2pro_3**: Ibex (MFR) |
-| 16:55 | **Vitek_228666**: Unicorn (NFR) | **Hajdjncn**: Ride-A-Pet Potion ×4 |
-| 16:55 | **KsuKrizB6**: Blue Ringed Octopus, Chihuahua | **abbyissocool_lol**: Ride-A-Pet Potion |
-| 16:55 | **SoloGhost442149**: Fly-A-Pet Potion | **xMateoX2009XproX**: Cheetah |
-| 16:55 | **Ez50**: Turtle (FR) ×6, Fairy Bat Dragon (FR), Fairy Bat Dragon (R) | **ad0pttrading**: Owl (FR) |
-| 16:55 | **caycay_3800**: Candicorn (MFR) ×2 | **GL0SSY4XIS**: Frost Dragon (FR) |
-| 16:55 | **dbfl0425**: Munchkin Cat | **Thesheeeeesh_god**: Pig (R) |
-| 16:55 | **ClxudsandRxin**: Ballet Swan (NFR), 2022 Birthday Confetti Cannon | **AquatanaOf_Amyr**: Bat Dragon Cuddle Animated Sticker |
-| 16:55 | **mimiol400**: Turtle (FR), Elephant | **JennaTV1**: Mini Pig (FR) |
+| 17:00 | **S4GESW0RLDALT**: Albino Monkey (MFR) | **NAT4L1Ex**: Goat (MFR) |
+| 17:00 | **1nikaroctik**: Frost Fury (FR) ×2 | **Youdi_off**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5, Chick Backpack |
+| 17:00 | **Marwaxadoptme**: Water Rabbit (M), Ride-A-Pet Potion | **ksenia_unicorn67**: Rain Cloud Hat |
+| 17:00 | **rosazockt**: Snow Monkey | **cherrysRin**: Birthday Butterfly 2024 (M) |
+| 17:00 | **detective_emilly**: Endangered Egg ×9 | **nikaking89**: Retired Egg ×9 |
+| 17:00 | **Helper_dod**: Snowman (MFR) | **Angi_2oo7**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 17:00 | **ulianixx79**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **Moon_Cloud609859**: Candicorn (FR) |
+| 17:00 | **s0larzxxxx**: Rice Cake Rabbit (M) | **Aslie_17**: Ride-A-Pet Potion ×4 |
+| 17:00 | **Ivryluvv**: Fly-A-Pet Potion | **FlyToTheSaturn**: Skunk, Tan Chow-Chow ×2, Australian Kelpie ×2 |
+| 17:00 | **Mochi24Kitten**: Polar Bear (FR), Arctic Dusk Dragon (NR), Snowball Pet | **Angi_2oo7**: Fairy Bat Dragon (FR) |
+| 17:00 | **Ivryluvv**: Puffer Fish (MFR) | **kobii_x**: Lynx (MFR) |
+| 17:00 | **pisapopakakashecki**: Rat, Seahorse, Starhopper, Weevil, Kelp Crewmate, Kirin, Scarecrow, Bali Starling, Beluga Whale, Bluebottle Fly, Bullfrog, Japanese Snow Fairy, Blue Jay | **ferrofl7**: Ride-A-Pet Potion |
+| 17:00 | **anst688**: Standard Gibbon Box, Kaijunior Box, Kelp Raider Box, Spider Gift, Aberdeen Angus Box, Poltergeist Box, Snapdragon Flower, Shiver Cone Bait | **itsme_zanana**: Ride-A-Pet Potion |
+| 17:00 | **Vxmptomato**: River Otter (M), Irish Setter (M) | **1Biahsz_altx**: Fly-A-Pet Potion |
+| 17:00 | **iconicdollist**: Orchid Butterfly (MFR), Harp Seal (MFR) | **cannotaffordme**: Haetae (MFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
