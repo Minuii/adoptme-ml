@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 03:01 UTC by the scrape workflow._
+_Updated 2026-11-14 03:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 03:01 UTC by the scrape workflow._
 | amvgg | 4 | 25,752 | 2026-11-14T03:00 |
 | elve | 4 | 5,525 | 2026-11-14T03:01 |
 
-## AMVGG completed trades: 10,816 total
+## AMVGG completed trades: 10,835 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 571 |
+| 2026-11-14 | 590 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 03:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:00 | **That_0nemogirl**: Munchkin Cat (NR), Lion Cub (R), Fly-A-Pet Potion | **LoriDreamy123**: Unicorn (MFR), Harp Seal (MFR) |
-| 03:00 | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Bupicollie**: Spring Bunny Hood |
-| 03:00 | **kittenslovetunaa**: Orchid Butterfly, Hedgehog, Turtle (FR) ×5, Monkey King (FR), Cow (FR), Flaming Fox (MFR), Candicorn (FR) | **teamxwanda**: Haetae (NFR) |
-| 03:00 | **pmpjmg1**: Cabbit (FR) | **TheRealAivlis**: Jester Dragon ×4, Pupcicle ×2, Ride-A-Pet Potion |
-| 03:00 | **RileyforSure28**: Owl (FR), Candicorn (FR), Unicorn Horn, 2022 Birthday Cake, Fly-A-Pet Potion | **lucaMT967**: Frost Dragon (FR) |
-| 03:00 | **Amu_Nicole17**: Balloon Unicorn (NFR), Bat Dragon (FR), Chocolate Chip Bat Dragon (NFR), Slime (MFR), Halloween White Ghost Dragon (NFR), Rainbow Maker, Cherry-On-Top, 2022 Birthday Party Hat, 2022 Birthday Cake, 2022 Birthday Cupcake Shoes, Rain Cloud Hat, Toaster Hat, Tiny Wings | **lanaisdelrey**: Balloon Unicorn (MFR) |
-| 03:00 | **lollucio251**: Skele-Rex (FR), Nature's Crown, Summer Straw Hat, White Chef Hat | **etherealstarblaze**: Ride-A-Pet Potion ×2 |
-| 03:00 | **hamurasha**: Turtle (NFR), Turtle (FR) ×3, Flamingo (FR), Frost Fury (FR) ×2, Ride-A-Pet Potion ×8 | **KitKat96777**: Giant Panda (FR) |
-| 03:00 | **ive_devy**: Chihuahua | **Nooby139543**: Pain au Chat |
-| 03:00 | **begoodcandy**: Great Pyrenees (MFR), Groundhog | **moonl1ghtJest3r**: Haetyphoon |
-| 03:00 | **ishibana0967**: Thunderfisher ×2 | **mcxniie_ju**: Retired Egg ×16 |
-| 03:00 | **ZozoPingvin**: Mummy Spider (M), Kid Goat (N), Icy Porcupine | **zwombiixz**: Ride-A-Pet Potion |
-| 03:00 | **DRA25466**: Cattuccino (MR), Fly-A-Pet Potion, Water Moon Bear (NFR) | **Elroy_maktum**: Copycat |
-| 03:00 | **bojaeynaa**: Black-Chested Pheasant (NR) | **sweetn6thing**: Llama (MFR) |
-| 03:00 | **omniprese_nt**: Diamond Amazon, Diamond Hummingbird | **Babyofy5**: Sea Slug |
+| 03:10 | **OMG_cladiia8**: 2022 Birthday Cake | **bruh567565**: Kelp Captain (MFR) |
+| 03:10 | **Velvet_grimm17**: Undead Jousting Horse (NFR), Dalmatian (FR), Alpaca (FR), Jellyfish (MFR) | **Cutebabypaws9**: Crow (NFR), Unicorn Horn, 2022 Birthday Confetti Cannon |
+| 03:10 | **eeliasxcx**: Ride-A-Pet Potion ×2 | **pasha_zara**: Patchy Bear (M), Japanese Snow Fairy (M), Jiggly Jerboa (M), Black Tiger (M) |
+| 03:10 | **racatelas2000**: Griffin (FR) | **Machaddkkj**: Ride-A-Pet Potion |
+| 03:10 | **Donutser2**: Pupcicle (M) | **kdkejwjsjd**: Mermicorn (R) |
+| 03:10 | **TINTS12IJ**: Octopus (R) | **liofe1**: Ride-A-Pet Potion |
+| 03:10 | **MarsAltNum_2**: 2022 Birthday Party Hat, Unicorn Horn, Toaster Hat, Spring Bunny Hood, Ice Cream Cone Hat | **Arcyyicyy**: Strawberry Shortcake Bat Dragon (FR) |
+| 03:10 | **8qgdiw9**: Ride-A-Pet Potion | **silvannah122**: Stray Cat Dragon ×10 |
+| 03:10 | **TINTS12IJ**: Guardian Lion (R) | **chakk61**: Ride-A-Pet Potion |
+| 03:10 | **neowcotine**: Pet Handler Pro Certificate | **DaWsHa120**: Skelicorn (M) |
+| 03:10 | **M1ssd3ath_x**: Mini Schnauzer (MFR), Field Mouse (NR), Brown Springer Spaniel (MFR), Diamond Hamster (NR) | **Aproplayer558**: Arctic Reindeer (FR) |
+| 03:10 | **Mafray2011**: Peahen (N), Latte Kitsune, Frog (N), Jacobin Pigeon (N) ×2, Bobageist (N), Black Tiger (N) | **Aproplayer558**: Copycat (FR) |
+| 03:10 | **parissjandy**: Candicorn (R) | **zzsegundozz**: Haetyphoon (R) |
+| 03:10 | **xiakusu**: Siamese Cat (MFR), Dragonfruit Fox (MFR), Sushi Penguin (NFR) | **Kiandra13kiandra**: Grim Dragon (MFR) |
+| 03:10 | **RobWOLF36loxa**: Copycat (NFR), Copycat (NR), Polar Bear (N), Candy Hare (NR), Bunny Swirl (MFR), Copycat | **leruval**: Evil Unicorn (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
