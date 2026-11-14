@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 14:25 UTC by the scrape workflow._
+_Updated 2026-11-14 14:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 14:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 37,046 | 2026-11-14T14:15 |
-| elve | 4 | 7,926 | 2026-11-14T14:16 |
+| amvgg | 4 | 37,310 | 2026-11-14T14:30 |
+| elve | 4 | 8,002 | 2026-11-14T14:31 |
 
-## AMVGG completed trades: 13,262 total
+## AMVGG completed trades: 13,290 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,017 |
+| 2026-11-14 | 3,045 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 14:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:25 | **Rewill70**: Border Collie (R) | **Mitsuri_kanroji7352**: Christmas Pudding Pup (R), Alley Cat (R), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 14:25 | **Veronika_17371**: Strawberry Shortcake Bat Dragon (FR) | **ploB_666**: Fairy Bat Dragon (FR), Kangaroo (FR), Fly-A-Pet Potion ×7, Ride-A-Pet Potion |
-| 14:25 | **yeuksyrudtry56**: Arctic Fox (R), Pupcicle, Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Blue Cat (M), Chihuahua ×2 | **Hyulsha1488**: Candicorn (R) |
-| 14:25 | **silentscenes**: Aurora Fox (MFR), Halo, Unicorn Horn | **AutumnVibes57**: Evil Unicorn (NFR) |
-| 14:25 | **crybabydoIl**: Fly-A-Pet Potion ×3 | **renn_123on**: Matcha Cat |
-| 14:25 | **Maryha0243**: Ride-A-Pet Potion ×11 | **Lumina20265**: Fly-A-Pet Potion ×6 |
-| 14:25 | **FoxyChanU3U**: Munchkin Cat (MFR), Peppermint Penguin | **athenak137**: Balloon Unicorn (FR) |
-| 14:25 | **hello_oliya**: Snowball Pug (MR), Electric Tide Mega Neon Paint | **HeartsForEli_1406**: Harp Seal (N) |
-| 14:25 | **Destined2Meet**: Sea Skeleton Panda (MFR) | **SOFIA_HAN7**: Winter Buck (NR), Bunny Swirl (N) |
-| 14:25 | **hello_oliya**: Snowball Pug (MR), Electric Tide Mega Neon Paint | **HeartsForEli_1406**: Harp Seal (N) |
-| 14:25 | **Nicoleee_ily**: River Otter (M), Crimson Cape (M), Rubber Ducky (M) | **rasediva**: Fly-A-Pet Potion |
-| 14:25 | **SheIsHeartless**: Paint Sealer | **0Sinem_0**: Mighty Haetyphoon Animated Sticker |
-| 14:25 | **ayanyyka**: Munchkin Cat (FR), Munchkin Cat (R), Copycat, Ride-A-Pet Potion | **sleepy_s0ren**: Fairy Bat Dragon (FR) |
-| 14:25 | **Lvpix**: Ride-A-Pet Potion | **Bl31Z_01**: Pupcicle |
-| 14:25 | **Juuul77**: Peppermint Penguin (R) | **egoklled**: Goat (N), English Sheepdog (N), Binturong (N), Fly-A-Pet Potion |
+| 14:30 | **icarushed**: Halo | **gkccoolsafiyaa**: Unicorn Horn, Tiny Wings |
+| 14:30 | **BabyLindsey13**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×13 | **TheEerthh**: Alpaca (R) |
+| 14:30 | **hamurasha**: Cow (NFR), Vampire Dragon (FR), Mule (N), Aurora Fox (R), Jester Dragon (FR) | **book_lfay**: Evil Unicorn (FR) |
+| 14:30 | **Esikiiomuru**: Lamb (NFR), Platypus (R), Dancing Dragon (FR), Ride-A-Pet Potion | **ItsBrvh**: Crocodile (FR), Moose Calf (R) |
+| 14:30 | **Duchrocky**: Werewolf (NFR) | **bearlover1314**: Copycat ×6 |
+| 14:30 | **feliyammr**: Moonbeam Butterfly (NFR) | **Wwwaaa_681**: Arctic Fox (R) |
+| 14:30 | **Tsuki_n0ko**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **Sara_WOLF18**: Frost Fury (R) |
+| 14:30 | **MHE_PL0XO00**: Wyvern (R), Hydra (R) | **bacon_play021**: Ride-A-Pet Potion |
+| 14:30 | **Helper_dod**: Copycat (R), Sloth (NFR) | **You_kwin666**: Ride-A-Pet Potion ×9 |
+| 14:30 | **rasediva**: Pet Handler Pro Certificate | **Nicoleee_ily**: Mochi Meow (M) |
+| 14:30 | **545364536vc**: Chocolate Chip Bat Dragon (NFR), Platypus (NR), Tarsier (MR) | **jypit0410j**: Parrot (FR) |
+| 14:30 | **blossomxmochaswirll**: Show Pony (MR), Show Pony (M), Ruddy Duck (M) | **airiska_iriska3**: Cattuccino (M) |
+| 14:30 | **archie_290**: Dalmatian (FR), Fairy Bat Dragon (FR), Spring Bunny Nose, Spring Bunny Feet | **iiSimplyxSkyexx**: Munchkin Cat (MFR) |
+| 14:30 | **Sofem319**: Ride-A-Pet Potion | **PrincezzNatty**: Pupcicle |
+| 14:30 | **mohamed84ll**: Cow (FR), Munchkin Cat, Frost Fury (FR), Lava Dragon (FR), Groundhog, Nautilus (NFR), Dugong (M), Ride-A-Pet Potion, Bready Necklace | **ghljg7**: Strawberry Shortcake Bat Dragon (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
