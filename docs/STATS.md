@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 15:10 UTC by the scrape workflow._
+_Updated 2026-11-14 15:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 15:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 37,854 | 2026-11-14T15:00 |
-| elve | 4 | 8,115 | 2026-11-14T15:01 |
+| amvgg | 4 | 38,113 | 2026-11-14T15:15 |
+| elve | 4 | 8,185 | 2026-11-14T15:16 |
 
-## AMVGG completed trades: 13,508 total
+## AMVGG completed trades: 13,520 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 3,263 |
+| 2026-11-14 | 3,275 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 15:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 15:15 | **KENMMA_1016**: Ride-A-Pet Potion | **MissLadybug611**: Slug ×9 |
+| 15:15 | **LunaAqua5849**: Shark Puppy (MFR) | **Wikitos5**: Jester Dragon (M), Fly-A-Pet Potion ×6 |
+| 15:15 | **theyluvoddy4**: Kangaroo (FR) | **simopoke**: Ride-A-Pet Potion ×17 |
+| 15:15 | **prorabik_krytou**: Flash Weasel ×2 | **zxl0106**: Cow (FR) |
+| 15:15 | **Rachel_2patate**: Count Slothula | **yyt9nf**: Rat (N) |
+| 15:15 | **Ddwkfmr**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×3, Copycat (R) | **candyuser2008**: Cow (FR) |
+| 15:15 | **Seancarlosd**: Unicorn Horn | **Sonya73p**: Toaster Hat, Tiny Wings |
+| 15:15 | **renjdudjdjjd**: Ride-A-Pet Potion | **Alina_02445**: Galaxy Explorer Helmet ×4 |
+| 15:15 | **Ilovefoodgimmefud**: Jeff's Nametag, Ride-A-Pet Potion | **Alina_02445**: Pancake Stack |
+| 15:15 | **Hiraimomoling1**: Polar Bear, Endangered Egg ×3, Purrowl ×3, Crystal Egg | **Notso875**: Fly-A-Pet Potion ×2 |
+| 15:15 | **viktoriapotrivay**: Chihuahua, Mochi Meow (N), Badger (N) | **FanNOSTANKE4**: Ride-A-Pet Potion |
+| 15:15 | **0_violent**: Fly-A-Pet Potion, Pro Ghost Blaster | **Hyulsha1488**: Pupcicle (R), Pupcicle |
 | 15:10 | **gabdoptme**: Chocolate Dutch Guinea Pig | **wanilim123**: Gingerbread Reindeer (N) |
 | 15:10 | **M00Nligth100**: Ride-A-Pet Potion | **pisapopakakashecki**: Crab ×2, Spider Crab, Capuchin Monkey ×2, Wildfire Hawk |
 | 15:10 | **johnpatricktasunci16**: Count Slothula ×18 | **Yiju0225**: Candicorn |
-| 15:10 | **bunniscs**: Polar Bear (MFR) | **jacksbandalt8**: Tree Kangaroo (MFR) |
-| 15:10 | **943049209d**: Kangaroo (R), Water Opossum (MR), Ride-A-Pet Potion, Fly-A-Pet Potion | **mambysx**: Unicorn (MFR), Frost Fury (FR), Australian Kelpie (NFR) |
-| 15:10 | **egoklled**: Kitty Biscuit ×7 | **tokiplayz_omila**: Mule (N) |
-| 15:10 | **princessalipotski**: Copycat, Matcha Cat (R), Chocolate Dutch Guinea Pig, Cattuccino (N), Pandaguin Glooptodog (N), Frog (NR), Ride-A-Pet Potion, Pupcake | **tokiplayz_omila**: French Bulldog (M) |
-| 15:10 | **birdbo00**: Copycat, Fly-A-Pet Potion | **DragonjJDusta107130**: Copycat (FR) |
-| 15:10 | **INISIAL_BFA**: Kangaroo (FR) ×3, Silly Duck, Turkey (R), Wyvern (NFR) | **jebiilerium**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:10 | **Ainsleywu**: Frostbite Bear | **wanderrrrer**: Siamese Cat (R) |
-| 15:10 | **lildaminii**: Copycat | **mihIaah**: Pupcicle ×6 |
-| 15:10 | **mor_2346**: Black Macaque (MFR), Dodo (FR) | **ViKity435**: Kangaroo (FR) |
-| 15:10 | **Manga11998**: Rice Cake Rabbit, Moon Rabbit | **Redpyid**: Ride-A-Pet Potion |
-| 15:10 | **SmallestMascot**: Evil Unicorn (MFR) | **Ali3021167**: Owl (NFR), Crow (FR) |
-| 15:10 | **Roma_1234q**: Peppermint Penguin (MFR), Camel | **Leichisme3**: Aurora Fox (MFR), Shark Puppy (MFR), Groundhog (MFR), Hot Doggo (FR), Peppermint Penguin (FR), Ice Cream Cone Hat |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
