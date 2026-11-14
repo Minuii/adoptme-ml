@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 17:45 UTC by the scrape workflow._
+_Updated 2026-11-14 17:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 17:45 UTC by the scrape workflow._
 | amvgg | 4 | 40,751 | 2026-11-14T17:45 |
 | elve | 4 | 8,743 | 2026-11-14T17:45 |
 
-## AMVGG completed trades: 14,359 total
+## AMVGG completed trades: 14,438 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 4,114 |
+| 2026-11-14 | 4,193 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 17:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **A_thena09**: Giant Panda (FR), Lion Cub ×3, Groundhog, Munchkin Cat, Polar Bear, Pink Cat (FR), Ride-A-Pet Potion | **elphabaruiz**: Owl (FR) |
-| 17:45 | **T3bas1**: Rainbow Maker, Unicorn Horn, 2022 Birthday Cake, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **kokoroganao**: Cryptid (FR) |
-| 17:45 | **govonxj113**: Giraffe (FR) | **lolololol_maxarooroo**: Arctic Reindeer (MFR) |
-| 17:45 | **himyuseris_oiuujkjhh**: Ride-A-Pet Potion | **loane584**: Candy Flare Mega Neon Paint |
-| 17:45 | **SyndromGG**: Pet Handler Pro Certificate | **himyuseris_oiuujkjhh**: Fly-A-Pet Potion |
-| 17:45 | **Vernite_chat0**: Thunderfisher | **hugsformy_sisfinjaa**: Retired Egg ×9 |
-| 17:45 | **Maryha0243**: Cozy Mistletroll (M) | **hugsformy_sisfinjaa**: Fly-A-Pet Potion ×2 |
-| 17:45 | **rikialt_1234**: Cow, Squid ×2, Chocolate Chow-Chow, Golden Albatross, Golden Egg | **Arii_GamerytTqm**: Cow (FR) |
-| 17:45 | **jaceisdabest1012**: Cupid Dragon (MFR), Copycat (MFR), Sakura Spirit (MFR), Hare (MFR), Winged Tiger (MFR), Halo | **cannotaffordme**: Peppermint Penguin (MFR), Mini Pig (NFR), African Wild Dog (FR) |
-| 17:45 | **Angel_cute1339**: Cryptid (FR), Arctic Dusk Dragon (NFR), Crocodile (R) | **vTrusted_kxdxn**: Haetae (R), Pig (FR), Tiny Wings, Spring Bunny Nose |
-| 17:45 | **CoolSpiderislive**: Dalmatian (MFR), Alpaca (MFR), Frost Unicorn (MFR), Border Collie (MFR), Owlbear (MFR) | **m4rshalI**: Haetae (MFR) |
-| 17:45 | **CalliplayzRoBlOx8**: Blue Boohoo Mega Neon Paint | **MakiraLive**: Amethyst Skies Mega Neon Paint |
-| 17:45 | **IidoxxiniI**: Toy Poodle (M), Kaijunior (M) | **Katie_proshkaa**: Cherry Blossom Hang Glider |
-| 17:45 | **ponchik_3721**: Turtle (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Gingerbread Mouse (N) | **fluses_sss**: Fairy Bat Dragon (FR) |
-| 17:45 | **KittycornIvy01**: Phantom Dragon, Latte Kitsune (R) | **qwwwerli**: Pig (FR) |
+| 17:55 | **hunterwarrior0558**: Pupcicle | **Onlykaij_junior123**: Crystal Egg ×18 |
+| 17:55 | **hugsformy_sisfinjaa**: Astronaut Gorilla, Golden Hamster | **urfav_athh**: Yellow Butterfly ×16 |
+| 17:55 | **Espresso_Signora901**: Sakura Spirit (R) | **cirocrack2020**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 17:55 | **remona223**: Ghost Bunny (MFR), Ride-A-Pet Potion ×3 | **Astr0_ooo**: 2022 Birthday Party Hat |
+| 17:55 | **berrys_kittys**: Ride-A-Pet Potion ×2 | **Sona_621**: Pet Handler Pro Certificate |
+| 17:55 | **9nvls**: Pupcicle ×4 | **MoonlightMomma**: Santa Hat |
+| 17:55 | **animegirlfan121**: English Sheepdog | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 17:55 | **mm2pokypka**: Turtle (FR) | **shimmyshimmy59**: Munchkin Cat (FR), Toaster Hat, Ride-A-Pet Potion ×2, Growing Flower Hat, Scarecrow Crow |
+| 17:55 | **Helper_dod**: Clover Cow (MR) | **Nola1234512345**: Ride-A-Pet Potion ×5 |
+| 17:55 | **gffdjddd23_4**: Owl (FR), Orchid Butterfly, Fairy Bat Dragon (FR) ×2, Turtle (FR) ×3, Turtle ×5, Kangaroo (FR), Ice Cream Cone Hat, Golden Lettuce, Fly-A-Pet Potion ×2 | **abdoosaad**: Shadow Dragon (FR) |
+| 17:55 | **Pihachu2020**: Easter Bunny (M), Mochi Meow ×16 | **bbkxrby**: Merhorse (MR), Pomeranian (M) |
+| 17:55 | **Urfavorite1225**: Winged Tiger (FR), Fly-A-Pet Potion | **59ghrvs**: Pretty Pony (MFR) |
+| 17:55 | **kelixnz**: Cattuccino | **noemihgvgv**: Retired Egg ×18 |
+| 17:55 | **cyborg_1000000**: Fly-A-Pet Potion | **Leviodas**: Tuxedo Cat |
+| 17:55 | **5kHxll**: Candyfloss Chick (FR) | **Ihatesomber11**: Christmas Pudding Pup ×2, Christmas Pudding Pup (R) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
