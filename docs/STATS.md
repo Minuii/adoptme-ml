@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 12:31 UTC by the scrape workflow._
+_Updated 2026-11-14 12:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 12:31 UTC by the scrape workflow._
 | amvgg | 4 | 35,260 | 2026-11-14T12:30 |
 | elve | 4 | 7,502 | 2026-11-14T12:31 |
 
-## AMVGG completed trades: 12,650 total
+## AMVGG completed trades: 12,704 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,405 |
+| 2026-11-14 | 2,459 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 12:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:30 | **raven_rampag**: Alpaca (MFR), 2022 Birthday Party Hat, Unicorn Horn, Rain Cloud Hat, Ride-A-Pet Potion, Pancake Stack | **Cutepatate088**: Cabbit (MFR), Meerkat (MFR) |
-| 12:30 | **RobloxFanNastya44346**: Scarecrow Crow (R), Alicorn (F) | **ksoa77**: Ride-A-Pet Potion |
-| 12:30 | **King_Dark100120**: Dango Penguins (MFR), Ice Cream Cone Hat | **Paipapaprapaa**: Alley Cat (MFR) |
-| 12:30 | **skeleton_nomer1**: Burger Bear (MFR), Pancake Stack | **UntitledNovel**: Rain Cloud Hat |
-| 12:30 | **ilizathai**: Elephant (R), Frost Fury (R) | **M1cahsWRLD**: Flamingo (FR) |
-| 12:30 | **1katR1**: Quokka (MFR), Mochi Meow Tumble Animated Sticker | **skeleton_nomer1**: Chipmunk (MFR) |
-| 12:30 | **Maryha0243**: Copycat (R) | **Lana_339**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 |
-| 12:30 | **johnpatricktasunci16**: Count Slothula ×18 | **mardhiahmarnah2020**: Candicorn |
-| 12:30 | **hkyjlugb**: Pet Handler Pro Certificate ×3, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4, Candicorn | **mardhiahmarnah2020**: Cow (FR) |
-| 12:30 | **Helper_dod**: Kitty Bat (NR) | **chocllii**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 12:30 | **vynllama**: Frost Dragon (FR) | **sofiaablehh**: Crow (FR), Sugar Glider (R), Elephant (FR), Flaming Fox (MFR), Chihuahua (MFR), Bunny Swirl (MFR), Royal Palace Spaniel (MFR), Snowball Pug (MR), Cattuccino (MR), Angus Calf (M) |
-| 12:30 | **tsitp_secret**: Jousting Horse (NR) | **rvlixrisa**: Red Dutch Guinea Pig ×3, Many Mackerel |
-| 12:30 | **jett_isthebest28**: Influencer Gibbon (NFR), Butter Knife, Rain Hat, Gold Circle Glasses | **werreriss0**: Spring Bunny Hood |
-| 12:30 | **leeeww47**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Shynisocool**: Toasty Red Panda (M) |
-| 12:30 | **Mrcatsyz**: Arctic Dusk Dragon (FR), Phantom Dragon (FR), Octopus (NFR), Jester Dragon (R), Red Dutch Guinea Pig (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **GUESTROBLOX666I**: Cow (FR) |
+| 12:40 | **lolitt4k**: Fairytale Egg ×9 | **Mozambik_3**: Mochi Meow |
+| 12:40 | **XxLovelyEvanxX**: Flaming Fox | **Jyyy123yyj**: Solaris |
+| 12:40 | **Helper_dod**: Amami Rabbit (M) | **s_coki**: Fly-A-Pet Potion ×5 |
+| 12:40 | **okidokischoki24**: Strawberry Shortcake Bat Dragon (FR) ×4 | **Simpai009**: Balloon Unicorn (FR), Sugar Glider (NFR), Angel Wings, Spring Bunny Nose |
+| 12:40 | **Crazygirl_Lolo66**: Maneki-Neko (MFR), English Sheepdog (MR), Cotton Candy Hat, Pink Instant Camera | **amvggholder**: Binturong (MR), Kiwi Kiwi (MR), Fly-A-Pet Potion |
+| 12:40 | **chomcius1234**: Panda (MFR), French Bulldog | **bae_hyeinie**: Werewolf |
+| 12:40 | **ottxotoxoxtotx**: Copycat (R), Sloth (NFR) | **Helper_dod**: Nautilus (MFR) |
+| 12:40 | **lizzy_peeps**: Ghost (M), Show Pony (M), Praying Mantis (N), Ginger Cat (N), Unicorn, Electric Hornet, Rat | **Youdi_off**: Fly-A-Pet Potion |
+| 12:40 | **cutesyghali**: Balloon Unicorn (FR) ×2, Mini Pig (FR), Goose (FR), Peppermint Penguin (FR), 2022 Birthday Confetti Cannon | **xulqupi**: Haetae (NFR) |
+| 12:40 | **milaaqoa**: Giraffe (FR), Haetae (FR), Arctic Reindeer (FR) | **unlimited_food**: Shadow Dragon (FR) |
+| 12:40 | **kiff_shik**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×9 | **Kitten44943**: Mini Pig (FR) |
+| 12:40 | **AlphaTaToxicv1047**: Ride-A-Pet Potion | **eeveelover2007lover**: Sweetheart Rat (N) |
+| 12:36 | **lizzy_peeps**: Black Panther, Canadian Goose, Zombie Chick (N), Tree Sasquatch, Singularity Pisces, Singularity Beetle, Sasquatch, Red Fox | **nornomm**: Fly-A-Pet Potion |
+| 12:36 | **santu_xdnt**: Elephant (FR), Fly-A-Pet Potion | **tw1nkle3788**: Candicorn (FR) |
+| 12:36 | **desiredpups**: Red Dutch Guinea Pig, Spring Bunny Nose | **nornomm**: Fly-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
