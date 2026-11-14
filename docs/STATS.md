@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 23:10 UTC by the scrape workflow._
+_Updated 2026-11-14 23:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-14 23:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 4 | 46,213 | 2026-11-14T23:00 |
-| elve | 4 | 9,983 | 2026-11-14T23:01 |
+| amvgg | 4 | 46,478 | 2026-11-14T23:15 |
+| elve | 4 | 10,041 | 2026-11-14T23:16 |
 
-## AMVGG completed trades: 15,948 total
+## AMVGG completed trades: 15,989 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 5,703 |
+| 2026-11-14 | 5,744 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 23:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:10 | **FunkyBrodie**: Shiver Wolf (N) | **kasouluxe**: Ride-A-Pet Potion ×2 |
-| 23:10 | **remona223**: African Wild Dog (FR), Ice Cream Heels, Aviator Hat, Ride-A-Pet Potion ×3, Burger Boots | **lina200r**: Strawberry Tortle (FR), 2022 Birthday Cake, Unicorn Horn ×2, Rain Cloud Hat ×2, Mechapup, Copycat, Fly-A-Pet Potion |
-| 23:10 | **SCARLETTSPUPS**: Cryptid (MFR) | **aisksiakamxmxdm**: Giraffe (FR), Owl, Owl (FR), Rainbow Maker, Spring Bunny Hood, Unicorn Horn, Polar Bear (MFR), Fly-A-Pet Potion ×2 |
-| 23:10 | **rattychan03**: S'mores Raccoon (M) | **BakaMaster39**: Lynx (MFR) |
-| 23:10 | **audrey_loriex**: Fly-A-Pet Potion | **GabrielXx548**: Elf Hat |
-| 23:10 | **Taylor_isthegreat**: German Shepherd (N), Vanilla Penguin | **elphabaruiz**: Lion Cub |
-| 23:10 | **sus_ogor**: Alpaca (R) | **Xxskibidy67**: Arctic Dusk Dragon (NFR) |
-| 23:10 | **1LYLUN4A**: Water Rabbit (MFR) | **Pinkmalinky123**: Binturong (MFR) |
-| 23:10 | **Cinzsins**: Christmas Pudding Pup (MFR), Turkey (NR) | **Shion02020**: Cryptid (FR) |
-| 23:10 | **jellycatmar**: Harp Seal (MFR), Yeti (MFR), Diamond Dragon (MFR), 2026 Birthday Butterfly (M) | **zzzAKWzzz**: Kookaburra (MFR) |
-| 23:10 | **Roblox_Cool050**: Evil Unicorn (FR), Mummy Spider | **EdiotBake**: Cow (NFR), Turtle (FR), Fly-A-Pet Potion ×2 |
-| 23:10 | **baconandchicken007**: Irish Setter (M) | **P8D3L**: Ride-A-Pet Potion |
-| 23:10 | **Tree092109**: Fly-A-Pet Potion | **xavinataly2020**: Japan Egg, Ride-A-Pet Potion |
-| 23:10 | **Cei1p**: Dalmatian (R), Royal Capuchin Monkey (R) | **ZebraGuy2010**: Dalmatian (FR) |
-| 23:10 | **baby_demonakakj**: Unicorn Horn | **yeetimaheadout7**: Candicorn (FR), Cattuccino (M) |
+| 23:15 | **elmenpobre8**: Owl (NFR) | **AseesCr7GoesBoom**: Strawberry Tortle (MFR) |
+| 23:15 | **vcloss**: Chick (MFR) | **mooyakko**: Preppy Capuchin Monkey (M) |
+| 23:15 | **kytsune7777**: Choco Penguin ×3, Clownfish | **ally_28901**: Kitsune |
+| 23:15 | **usl_c**: Turtle (NFR), Kangaroo (NFR) | **iiSimplyxSkyexx**: Cabbit (NFR) |
+| 23:15 | **idke0oo**: Fossil Egg | **zxl0106**: Ride-A-Pet Potion |
+| 23:15 | **DawnL9Lighti9Chill19**: Jellyfish (FR) | **mgjgmwg**: Sea Slug (R) |
+| 23:15 | **SadiSadie3**: Turtle (FR) | **Danila121219**: Fly-A-Pet Potion ×12 |
+| 23:15 | **Britishwnker1**: Unicorn Horn, Ride-A-Pet Potion ×2 | **sstrwberri1**: Arctic Fox (NFR) |
+| 23:15 | **laylaangel1309**: Copycat | **S4CRIFY**: Pupcicle ×6 |
+| 23:15 | **Ohanlonciara**: Strawberry Clip, Apple Owl (MFR), Gargoyle (NFR) | **alan_241295**: Sheeeeep (NFR) |
+| 23:15 | **xheartzpearlx**: Slime (NFR), Copycat | **Spooky_Aniyah**: Tortoiseshell Guinea Pig (FR) |
+| 23:15 | **24tyra**: Copycat, Tiny Wings, Pain au Chat | **Kozinak_k**: Binturong (MFR) |
+| 23:15 | **kuromi_BRD**: Copycat (NR), Jester Dragon (NFR) | **san_b116**: Arctic Reindeer (FR) |
+| 23:15 | **malinaaa489**: Cow (NFR), Pancake Stack, Ride-A-Pet Potion ×3, Butter Knife | **Drakosha_PloXoiyy**: Dalmatian (FR) |
+| 23:15 | **YoshYoshhhhhh**: Frost Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Arctic Reindeer (FR), Turtle (NFR), Alpaca (FR), Arctic Fox | **lina200r**: Chocolate Chip Bat Dragon (MFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
