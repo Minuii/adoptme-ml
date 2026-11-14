@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 14:16 UTC by the scrape workflow._
+_Updated 2026-11-14 14:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 14:16 UTC by the scrape workflow._
 | amvgg | 4 | 37,046 | 2026-11-14T14:15 |
 | elve | 4 | 7,926 | 2026-11-14T14:16 |
 
-## AMVGG completed trades: 13,186 total
+## AMVGG completed trades: 13,262 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 2,941 |
+| 2026-11-14 | 3,017 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 14:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:11 | **wx8zqxx**: Strawberry Shortcake Bat Dragon (FR) | **biq_at222**: Sea Slug (NR), Albino Monkey (FR) |
-| 14:11 | **CaptainMinesweeper**: Strawberry Shortcake Bat Dragon (FR), Cabbit (R) | **bestfriend1234e**: Hedgehog (FR) |
-| 14:11 | **SCARE_SPOOKW**: Border Collie (FR) | **AsianIceCold**: Copycat (R), Copycat, Ride-A-Pet Potion |
-| 14:11 | **fartingpook367**: Munchkin Cat | **twojstarydzikitygrys**: Spring Bunny Hood, Alley Cat (FR), Purple Heart Glasses, Pet Handler Pro Certificate |
-| 14:11 | **66mint_99**: Bald Eagle | **niyashimo**: Pet Handler Pro Certificate ×3 |
-| 14:11 | **rasediva**: Fly-A-Pet Potion | **valentina_nic90**: Dire Wolf (M) |
-| 14:11 | **Nastya_367367**: Pig (FR) | **littleulian**: Copycat (R), Spring Bunny Feet, Kitty Bat, Soulfire Animated Sticker |
-| 14:11 | **Kenny_thealien**: Peppermint Penguin (NFR), 2022 Birthday Party Hat | **its_saminaaaa**: Angel Wings, Unicorn Horn ×3, 2022 Birthday Cake |
-| 14:11 | **BosnianGirl_09**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 | **Nutellagua**: Border Collie |
-| 14:11 | **KsyushaBelova**: Dragonfruit Fox, Cerberus (FR), Ride-A-Pet Potion | **yRafah_Bloxinha**: Ice Cream Cone Hat |
-| 14:11 | **vxzzz632**: Ride-A-Pet Potion ×4 | **Dash_2023crashh**: Maine Coon (M) |
-| 14:11 | **tommylikeroblox2009**: Gemstone Egg, Diamond Egg | **mmmaattthhheeeooo**: Ride-A-Pet Potion |
-| 14:11 | **Stephanie58241**: Crocodile (MFR) | **maleketchahinez**: African Wild Dog (FR) |
-| 14:11 | **Kurre0157**: Bubblegeist, Golden Dragon | **kaky09**: Heart Hoverboard |
-| 14:11 | **LenkaaaC**: Gemstone Egg, Purrowl, Chihuahua | **disgIory**: Pupcicle |
+| 14:25 | **Rewill70**: Border Collie (R) | **Mitsuri_kanroji7352**: Christmas Pudding Pup (R), Alley Cat (R), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 14:25 | **Veronika_17371**: Strawberry Shortcake Bat Dragon (FR) | **ploB_666**: Fairy Bat Dragon (FR), Kangaroo (FR), Fly-A-Pet Potion ×7, Ride-A-Pet Potion |
+| 14:25 | **yeuksyrudtry56**: Arctic Fox (R), Pupcicle, Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Blue Cat (M), Chihuahua ×2 | **Hyulsha1488**: Candicorn (R) |
+| 14:25 | **silentscenes**: Aurora Fox (MFR), Halo, Unicorn Horn | **AutumnVibes57**: Evil Unicorn (NFR) |
+| 14:25 | **crybabydoIl**: Fly-A-Pet Potion ×3 | **renn_123on**: Matcha Cat |
+| 14:25 | **Maryha0243**: Ride-A-Pet Potion ×11 | **Lumina20265**: Fly-A-Pet Potion ×6 |
+| 14:25 | **FoxyChanU3U**: Munchkin Cat (MFR), Peppermint Penguin | **athenak137**: Balloon Unicorn (FR) |
+| 14:25 | **hello_oliya**: Snowball Pug (MR), Electric Tide Mega Neon Paint | **HeartsForEli_1406**: Harp Seal (N) |
+| 14:25 | **Destined2Meet**: Sea Skeleton Panda (MFR) | **SOFIA_HAN7**: Winter Buck (NR), Bunny Swirl (N) |
+| 14:25 | **hello_oliya**: Snowball Pug (MR), Electric Tide Mega Neon Paint | **HeartsForEli_1406**: Harp Seal (N) |
+| 14:25 | **Nicoleee_ily**: River Otter (M), Crimson Cape (M), Rubber Ducky (M) | **rasediva**: Fly-A-Pet Potion |
+| 14:25 | **SheIsHeartless**: Paint Sealer | **0Sinem_0**: Mighty Haetyphoon Animated Sticker |
+| 14:25 | **ayanyyka**: Munchkin Cat (FR), Munchkin Cat (R), Copycat, Ride-A-Pet Potion | **sleepy_s0ren**: Fairy Bat Dragon (FR) |
+| 14:25 | **Lvpix**: Ride-A-Pet Potion | **Bl31Z_01**: Pupcicle |
+| 14:25 | **Juuul77**: Peppermint Penguin (R) | **egoklled**: Goat (N), English Sheepdog (N), Binturong (N), Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
