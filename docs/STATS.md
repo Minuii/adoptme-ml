@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-14 17:31 UTC by the scrape workflow._
+_Updated 2026-11-14 17:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-14 17:31 UTC by the scrape workflow._
 | amvgg | 4 | 40,462 | 2026-11-14T17:30 |
 | elve | 4 | 8,720 | 2026-11-14T17:31 |
 
-## AMVGG completed trades: 14,257 total
+## AMVGG completed trades: 14,295 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-14 | 4,012 |
+| 2026-11-14 | 4,050 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
 | 2026-11-11 | 2,091 |
@@ -29,21 +29,21 @@ _Updated 2026-11-14 17:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:30 | **AL1C3W0RLDD**: Kangaroo (R), Kangaroo (FR) ×2, Albino Monkey (FR), Flamingo, Shark Puppy (FR), Ride-A-Pet Potion | **N0ugatt**: Evil Unicorn (FR) |
-| 17:30 | **wafy_3mk**: Crow (MFR), Owl, Strawberry Shortcake Bat Dragon (R) | **alwyzchlqe**: Frost Dragon (MFR) |
-| 17:30 | **1an4hn**: Stray Cat Dragon ×2 | **potatoiscool64**: Pupcake |
-| 17:30 | **Cutie_wolfie20**: Ride-A-Pet Potion ×15 | **J3LLY4H0LDer**: Elephant (FR) |
-| 17:30 | **cutebvnx**: Copycat (MFR), Unicorn Horn | **caxarok_ponosik52**: Sakura Spirit (MFR) |
-| 17:30 | **Yakkuji**: Border Collie, Pink Cat (R) | **Bismuth234**: Siamese Cat (FR) |
-| 17:30 | **iqitotoru**: Nessie (R), Diamond Ladybug (FR) | **3BDAl3ziz3**: Malaysian Tapir (M) |
-| 17:30 | **ijkjjkjk53**: Ride-A-Pet Potion, Candicorn, Astronaut Gorilla (N) | **Mary1235175**: Frostbite Bear |
-| 17:30 | **Musy12_a**: Candicorn (NFR), Cow (R), Ride-A-Pet Potion | **Ez50**: Strawberry Shortcake Bat Dragon (FR), Shark Puppy (FR) |
-| 17:30 | **nfrmikey1**: Ice Wolf (MFR), Husky | **bacon_deken**: Rainbow Maker |
-| 17:30 | **jellysi233**: Count Slothula (N) | **Kira9975335**: Ride-A-Pet Potion ×3 |
-| 17:30 | **CMETAHKA_LOVElp**: Fly-A-Pet Potion ×3 | **LevelMisisAnastasiya**: Copycat |
-| 17:30 | **loane584**: Tree Frog (N) | **Youare_soooperf3ct**: Retired Egg ×3 |
-| 17:30 | **Nastymiopi**: Dalmatian (FR), Hedgehog (FR), Crow (FR), Arctic Reindeer (FR), Copycat, Aussie Egg | **gabolskie**: Giraffe (FR) |
-| 17:30 | **wldnsdlrnldudna**: Red Dutch Guinea Pig (N), Tortoiseshell Guinea Pig | **Jakey_jakey367**: Cabbit (FR), Spring Bunny Nose |
+| 17:36 | **mommy_vka123**: Owl (R), Arctic Reindeer (FR) | **Frdvhev**: Frost Dragon (FR), Giant Gold Scarab |
+| 17:36 | **bq1r_35**: Ride-A-Pet Potion ×4 | **yReehxz**: Sheeeeep |
+| 17:36 | **Geery824**: 2022 Birthday Cake, Tiny Wings | **WinterLeahhh**: Copycat (NFR) |
+| 17:36 | **ni1zuua**: Brown Bear (MFR), Tiny Wings | **1vkx3**: German Shepherd (MFR), S'mores Raccoon (MR), Ring-Tailed Lemur (R), Glacier Kitsune (R), Brown Bear (NR) |
+| 17:36 | **Standoms**: Rose Quartz Glow Mega Neon Paint, Endangered Egg ×3, 2D Box | **BR4Y4N1027**: Blue Boohoo Mega Neon Paint |
+| 17:36 | **xen4sz**: Happy Duckling (MR) | **ksenia_unicorn67**: Tiny Wings |
+| 17:36 | **angeliq_bowz**: Cabbit (R) | **Sasha_6813**: Jester Dragon (NR) |
+| 17:36 | **Thealikerpikke123**: Jousting Horse (R) | **Xx_lxmwXx**: Spring Bunny Hood |
+| 17:36 | **Kerimverse**: Ride-A-Pet Potion ×2 | **1vikamillk**: Dango Penguins |
+| 17:36 | **departedlifecrisis**: Rain Cloud Hat ×2, 2022 Birthday Cake ×2, Unicorn Horn, Ride-A-Pet Potion, Boohoo (M), Bobageist (N), Three Blind Mice, Cattuccino, Indian Flying Fox | **maximishereyk1**: Evil Unicorn (FR) |
+| 17:36 | **Lyn_me1**: Knitted Pumpkin Hat ×2 | **xele_rel**: Security Spotlight |
+| 17:36 | **p_awth**: Blue Ringed Octopus ×2 | **r0mmul4s**: Ride-A-Pet Potion |
+| 17:36 | **lovkirby**: Ride-A-Pet Potion ×3 | **Darian12015**: Snowball Pet (N) |
+| 17:36 | **hxcrtw1**: Fly-A-Pet Potion | **xolvrxo**: Purrowl (M) |
+| 17:36 | **bq1r_35**: Ride-A-Pet Potion ×6 | **Melissa_5433354**: Arctic Dusk Dragon (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
