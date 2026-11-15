@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 03:01 UTC by the scrape workflow._
+_Updated 2026-11-15 03:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 03:01 UTC by the scrape workflow._
 | amvgg | 5 | 27,853 | 2026-11-15T03:00 |
 | elve | 5 | 6,025 | 2026-11-15T03:01 |
 
-## AMVGG completed trades: 16,715 total
+## AMVGG completed trades: 16,744 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 571 |
+| 2026-11-15 | 600 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 03:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:00 | **XxSummerxX_0123**: Pain au Chat ×2 | **alxymrn**: Ride-A-Pet Potion |
-| 03:00 | **ii_qw1r**: Kangaroo (MFR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR) | **Rainbowunicorn5303**: Border Collie (MFR) |
-| 03:00 | **slyvls**: Flaming Fox (MR), Fallow Deer (NR), Coyote (M), Pancake Stack | **MYB505**: Latte Kitsune (MFR) |
-| 03:00 | **Sankup928**: Dango Penguins | **Kitty_1b**: Golden Lettuce |
-| 03:00 | **Jilliantbh**: Turtle (FR), Alpaca (R), Albino Monkey (FR) | **Sankup928**: Strawberry Shortcake Bat Dragon (FR) |
-| 03:00 | **IlikeMilk220**: Hedgehog (MFR), Parrot (NFR), Goose (FR), Siamese Cat (NFR) | **lanaisdelrey**: Frost Dragon (MFR) |
-| 03:00 | **Octolootom**: Cactus Friend (MFR) | **you_no099**: Kangaroo (FR), Ride-A-Pet Potion |
-| 03:00 | **amyggvaI**: Cow (FR), Kangaroo (FR), Turtle (R), Ride-A-Pet Potion ×5, Goat, Candicorn | **roksy3910**: Evil Unicorn (FR) |
-| 02:55 | **TheLightKick**: Angler Fish (MR) | **julyis456**: Fly-A-Pet Potion |
-| 02:55 | **Inphluens**: Zombie Wolf (MFR), 2022 Birthday Party Horn | **Catgirl081423**: Glormy Hound (MR) |
-| 02:55 | **Dielizbe123**: Shadow Dragon Animated Sticker | **nxbody_aur0ra**: Pet Handler Pro Certificate |
-| 02:55 | **Exhowishpers**: Chocolate Chip Bat Dragon (R), Fairy Bat Dragon (FR), Pupcicle (MFR), 2022 Birthday Party Hat, Ice Cream Cone Hat, Spring Bunny Nose, Sailor Cap | **Cinzsins**: African Wild Dog (FR), Kitty Bat (MR) |
-| 02:55 | **TMDung20**: Kangaroo (NFR), Kangaroo (FR) ×3, Frost Fury | **chaxvznn**: Evil Unicorn (FR) |
-| 02:55 | **true_style**: Siamese Cat (NFR), Skelicorn (MFR), French Bulldog (NR), Ride-A-Pet Potion | **miny_cz1**: Grim Dragon (NFR) |
-| 02:55 | **Quicksilver67676709**: Unicorn (NFR), Ride-A-Pet Potion ×2, Catte | **vlados_krash**: Arctic Fox (R) |
+| 03:10 | **BreadPlayz20**: Aurora Fox, Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **ylyzacanete**: Spring Bunny Hood, Koi Carp (M), Wailing Mr. Whiskerpips Sticker |
+| 03:10 | **alwyzchlqe**: Pupcicle (MFR), Catte (MFR) | **kirahcookies**: Ice Cream Hermit Crab (MFR) |
+| 03:10 | **UltraSwiftbunnyboyTV**: Chocolate Chip Bat Dragon (FR), Candicorn (NFR), Jester Dragon (NFR), Dragonfruit Fox ×2 | **Angelbatista_me2**: Candicorn (MFR) |
+| 03:10 | **arqvve1**: Haetae (NFR), Angel Wings, 2022 Birthday Cake, 2022 Birthday Party Hat, 2022 Birthday Cupcake Shoes | **hanb3ki**: Owl (NFR) |
+| 03:10 | **pawvprint**: Husky, Ride-A-Pet Potion, Pupcicle | **TwistedK1tty**: Santa Hat |
+| 03:10 | **jam0khurt**: Ride-A-Pet Potion | **fansderoblox09**: Pupcicle |
+| 03:10 | **Holicomoestas2323**: Jester Dragon (MFR), Majestic Pony (MFR) | **cyberzst4r**: Velocirooster (MFR), Polar Bear (MFR) |
+| 03:10 | **vrpcy**: Golden Unicorn ×9 | **hamster_lili123**: Ride-A-Pet Potion |
+| 03:10 | **Ellaspring5**: Chameleon, Ride-A-Pet Potion, Crystal Egg, Aztec Egg ×3 | **Mila_qwe6**: Spring Bunny Feet |
+| 03:10 | **kousitaz**: Pupcake (MR) | **Tan2008000**: Bunny Swirl (MR) |
+| 03:10 | **adam12345c10**: 2022 Birthday Party Hat, Pancake Stack | **txella_tzuyu**: Unicorn Horn, Ride-A-Pet Potion, Goat |
+| 03:06 | **XiaoFaye1433**: Bush Elephant (NFR) | **NebulastHyperftVenat**: Snow Monkey (MFR) |
+| 03:06 | **jkha7**: Strawberry Shortcake Bat Dragon (FR) | **NebulastHyperftVenat**: Bush Elephant (NFR) |
+| 03:06 | **lol115783**: Evil Unicorn (FR), Pet Handler Pro Certificate | **NebulastHyperftVenat**: Meerkat (MFR), Harp Seal (MFR) |
+| 03:06 | **tokyo_scream**: Mr. Whiskerpips, Mrs. Whiskerpips | **Doro4ka0015**: Mrs. Whiskerpips (N) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
