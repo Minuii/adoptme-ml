@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 14:45 UTC by the scrape workflow._
+_Updated 2026-11-15 14:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 14:45 UTC by the scrape workflow._
 | amvgg | 5 | 39,500 | 2026-11-15T14:45 |
 | elve | 5 | 8,594 | 2026-11-15T14:45 |
 
-## AMVGG completed trades: 19,310 total
+## AMVGG completed trades: 19,367 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 3,166 |
+| 2026-11-15 | 3,223 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 14:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:45 | **onyx11414**: Fly-A-Pet Potion ×2 | **Lee_luvsART**: Catte (N) |
-| 14:45 | **Acepleaseok**: Winged Tiger (MFR), Tri-horned Treehopper (M) | **itwas_f4te**: Goose (MFR), Catte (MFR), Ice Cream Hermit Crab (N) |
-| 14:45 | **Haisinberge**: Caramelgeist (N) ×2, Pandaguin Glooptodog (N), Mummy Spider (N), Fennec Fox (N), Island Tarsier (N), Angus Bull, Ancient Dragon, Easter Bunny | **lantongzp**: Ride-A-Pet Potion |
-| 14:45 | **terrylonsoyjerry**: Siamese Cat (MFR), Tiny Wings | **curemysorrowsq**: Giant Panda (FR) |
-| 14:45 | **Lissqu0**: Orca (N), Orangutan (N), Fennec Fox (N), Snow Puma (N), Mummy Spider (N), Red Panda (N), Jumpscare (N), Purrowl, Cattuccino | **lantongzp**: Ride-A-Pet Potion |
-| 14:45 | **grijfe8r**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate | **urdtdfhgklhljbk**: Copycat |
-| 14:45 | **QueenofNerdssss**: Glormy Leo (R) | **cute_babess**: Pain au Chat (N), Ride-A-Pet Potion, Purrowl (N), White Chef Hat |
-| 14:45 | **CKaiser5689**: Red Panda (M) | **Mr_iziponik**: Kiwi |
-| 14:45 | **zhqwexq**: Frostbite Bear, Fly-A-Pet Potion | **Ajt_moi222**: Haetyphoon (R), Tortoiseshell Guinea Pig |
-| 14:45 | **BaconBoy112362**: Haetae | **addmymainaccountokay**: Winged Tiger (NFR), Siamese Cat (N), Elephant (FR), Hare |
-| 14:45 | **gamermarius134**: Copycat, Ride-A-Pet Potion | **Lextus_3**: Pig |
-| 14:45 | **MyStarPets1**: 2022 Birthday Confetti Drape, 2022 Birthday 5 Badge | **Abff217593**: Ride-A-Pet Potion |
-| 14:45 | **mariee20_03**: Crow (FR) | **Xxcutegirlxx1216**: Hedgehog (R), Jellyfish (N), Elephant (R), Border Collie, Yule Log Dog |
-| 14:45 | **copyvoting**: Cryptid | **terrylonsoyjerry**: Border Collie (R), Chocolate Chip Bat Dragon (FR), Black Springer Spaniel (MFR), Scorching Kaijunior (NR), Queen Bee (NFR) |
-| 14:45 | **adoptmeNoah15**: Winged Tiger (NFR), Pink Cat (FR), Koi Carp (M) | **copyvoting**: Arctic Reindeer (FR) |
+| 14:55 | **ness_eil1sh**: Pudding Cat (MFR), Pain au Chat (MFR), Puptune (MFR) | **iqitotoru**: Mule (MFR) |
+| 14:55 | **NottJaffeth**: Malaysian Tapir (N), Fly-A-Pet Potion ×2 | **iqitotoru**: Velocirooster (R) |
+| 14:55 | **iqitotoru**: Flaming Fox (NR) | **abcdefghijkl_6701**: Malaysian Tapir (MFR) |
+| 14:55 | **uhsdfoifjpewfoajoi**: Thunderfisher (N), Maine Coon, Thunderfisher, Stitches | **tommylikeroblox2009**: Retired Egg ×18 |
+| 14:55 | **oxceanvibexs**: Bush Elephant (MFR), Kangaroo (MFR), Albino Monkey (MFR), Cerberus (MFR), Pupcake (M), Lion Cub (R), Tortuga de la Isla | **Cinzsins**: Owl (NFR) |
+| 14:55 | **Miner_Beast34**: Kangaroo (NFR) | **kworixx**: Cerberus (FR), Llama (FR), Turkey (R), Brown Bear, Hyena (FR), Hyena ×3, Polar Bear, Tiny Wings |
+| 14:55 | **eIIa_2908**: Rain Cloud Hat | **Xyzxelle**: Toaster Hat, Spring Bunny Hood |
+| 14:55 | **cute_bunny123456p**: Velocirooster (NFR), Halo, Lavender Dragon (NFR) | **Khmerangel4130**: German Shepherd (MFR), Leviathan (MFR), Burger Boots |
+| 14:55 | **WierdoVanilla**: Dalmatian (FR), Cow (FR) | **Mfrstellaa**: Cryptid (FR) |
+| 14:55 | **LynnDW2**: Ride-A-Pet Potion ×8 | **lildaminii**: Pig |
+| 14:55 | **igabbe3rd**: Latte Kitsune (NFR) | **mofncufjs**: Flash Weasel |
+| 14:55 | **AMELIESFABXO**: Munchkin Cat (MFR), Kangaroo (FR), Candy Hare (MFR) | **akzoad**: Parrot (FR) |
+| 14:55 | **0ali_ice0**: Ring-Tailed Lemur (MFR), Zombie Wolf (MFR), Polar Bear (R), Spring Bunny Nose | **akzoad**: Cryptid (FR) |
+| 14:55 | **kaibodydump**: Tiny Wings | **Lilaxadorbsx123**: Mechapup |
+| 14:55 | **Gabriele143love**: Cow (NFR), Fairy Bat Dragon (NFR), Chocolate Dutch Guinea Pig (MFR), Unicorn Horn ×3, 2022 Birthday Party Horn, Tiny Wings, Spring Bunny Nose | **ElFanan_Asser**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
