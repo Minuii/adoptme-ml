@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 21:45 UTC by the scrape workflow._
+_Updated 2026-11-15 21:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 21:45 UTC by the scrape workflow._
 | amvgg | 5 | 46,943 | 2026-11-15T21:45 |
 | elve | 5 | 10,283 | 2026-11-15T21:45 |
 
-## AMVGG completed trades: 21,610 total
+## AMVGG completed trades: 21,641 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,466 |
+| 2026-11-15 | 5,497 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 21:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:45 | **poordiors**: Crystal Egg ×6 | **hefeltsafe**: Retired Egg ×12 |
-| 21:45 | **poordiors**: Crystal Egg ×9 | **hefeltsafe**: Retired Egg ×18 |
-| 21:45 | **iwasbornin13000**: Pupcicle, Pain au Chat | **pollito_conalioli222**: Fly-A-Pet Potion |
-| 21:45 | **Asiye042**: Elephant (NFR), Chocolate Dutch Guinea Pig (MFR) | **youneverknowho**: Owlbear (MFR) |
-| 21:45 | **wi0qwi**: Fly-A-Pet Potion ×4 | **plrbxs**: Christmas Pudding Pup (FR) |
-| 21:45 | **ppptig6921**: Spring Bunny Nose, Spring Bunny Feet, Eaten Donut | **IH3ARTJaden**: Spring Bunny Hood |
-| 21:45 | **Getmossedbyagirlheh**: Crocodile | **mort_love7**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion, Lamb (R), Happy Duckling (NR) |
-| 21:45 | **bq11a**: Ghost Dog (MFR), Scarebear (R) ×2, Koala (NR), Ice Golem (FR), Jousting Horse (R), Frost Fury (FR), Mahi Mahi, Pain au Chat | **VivelexEdits**: Lamb (MFR) |
-| 21:45 | **anihao17**: Turtle (FR), Kangaroo (R), Albino Monkey, Aussie Egg | **BLGGG111**: Chocolate Chip Bat Dragon (FR) |
-| 21:45 | **itsElijahpanda821**: Siamese Cat (R), Clover Cow (MFR) | **biq_at222**: Tortuga de la Isla (NFR) |
-| 21:45 | **lollucio251**: Snow Cloud Wings, Festive Antlers, Love Letter, Pink Hightops, Candy Corn Hat, Star Sunglasses, Summer Walrus Sunhat, Flower Wings | **Drikah777**: Fly-A-Pet Potion |
-| 21:45 | **Ems090311**: Peppermint Penguin | **a_2lisaa**: Cow (FR) |
-| 21:45 | **lizziqyy**: Crystal Egg ×14 | **XxTylee**: Ride-A-Pet Potion |
-| 21:45 | **k_sybom**: Chocolate Dutch Guinea Pig, Ribbon Seal (M) | **baldfairylol**: Fly-A-Pet Potion |
-| 21:45 | **l_i8ra7**: Turtle (NFR) | **Monicaj72833**: Kangaroo (FR), Fairy Bat Dragon (FR), Ride-A-Pet Potion |
+| 21:55 | **Yasmimriby**: Rainbow Maker, Fairy Bat Dragon (FR), Christmas Pudding Pup, Lion Cub (R), Aurora Fox | **Billypaco32**: Cryptid (FR) |
+| 21:55 | **v1rulence**: Chocolate Chip Bat Dragon (FR), Feesh | **r1nvafi**: Sugar Glider (FR) ×2, Giant Anteater (R), Fly-A-Pet Potion |
+| 21:55 | **Theonly_Naomi89**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×2 | **nikysha0_0kk**: Alpaca (R) |
+| 21:55 | **Beloved_s0vllz**: Jester Dragon (FR) | **Pineapple_GirlXDD**: Purrowl (M), Three Blind Mice (N) |
+| 21:55 | **ADOPTMEPETS_213**: Latte Kitsune (R) | **epotime_meta1**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 21:55 | **Diaperbunnie**: Ride-A-Pet Potion ×5, Chihuahua | **cocoabatonxx**: Mecha R4BBIT (M) |
+| 21:55 | **sr_o97**: Cupid Dragon (NFR) | **EllaComerson**: Pupcicle (MFR) |
+| 21:55 | **huufyyhvg**: Ride-A-Pet Potion ×2 | **nolosew22445**: Pupcicle ×2 |
+| 21:55 | **N0ugatt**: Mermicorn (FR), Ride-A-Pet Potion | **MaRmElaD7774**: Flamingo (FR), Matcha Cat |
+| 21:55 | **stellalovessyou**: Goldhorn (MFR), Golden Lettuce | **Robloxiana_xxx2011**: Harp Seal (MFR) |
+| 21:55 | **joofinni**: Alley Cat (MFR) | **WierdoVanilla**: Sugar Glider (FR), Lion Cub (NR) |
+| 21:55 | **jpcrack2858**: Tio De Nadal (FR) | **Stvrlene**: Flamingo |
+| 21:55 | **donnotinteract**: Alley Cat (R), Rain Hat | **T3bas1**: Ride-A-Pet Potion ×3 |
+| 21:55 | **Islaxluca**: Jester Dragon (NR), Candicorn (NFR), Candicorn (FR), Candicorn, Pancake Stack | **1ndecixs**: Jester Dragon (MFR) |
+| 21:55 | **hauntedbunnypaws**: German Shepherd (MFR), Punk Pony (M), Pupcicle, Pancake Stack, Spring Bunny Feet, Cotton Candy Hat | **BirdsAreSmarterThanU**: Harp Seal (MFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
