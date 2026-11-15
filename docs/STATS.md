@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 13:55 UTC by the scrape workflow._
+_Updated 2026-11-15 14:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 13:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 38,493 | 2026-11-15T13:45 |
-| elve | 5 | 8,391 | 2026-11-15T13:45 |
+| amvgg | 5 | 38,750 | 2026-11-15T14:00 |
+| elve | 5 | 8,453 | 2026-11-15T14:01 |
 
-## AMVGG completed trades: 19,051 total
+## AMVGG completed trades: 19,056 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,907 |
+| 2026-11-15 | 2,912 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,11 @@ _Updated 2026-11-15 13:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 14:00 | **chunlihasora**: Ride-A-Pet Potion | **Lili58320**: Red Cardinal (N), Ground Sloth (N) |
+| 14:00 | **KimikoYuka**: Lion, Pig (R), Dango Penguins (NR), Chocolate Dutch Guinea Pig (NFR), Glacier Kitsune (FR), Unicorn (NFR), Tiny Wings, Vanilla Penguin (N), Harp Seal (N), Skelicorn (MFR), Lamb (FR), Stitches (MR), Chocolate Dutch Guinea Pig, Latte Kitsune, Tuxedo Cat, Ghost Dog, Copter Hat, Ram | **MERCEDESE300COUPE**: Hedgehog (FR) |
+| 14:00 | **SomeoneStoleMyChance**: Oakee Wizard (M) | **itsjosi_RobloxXX**: Ride-A-Pet Potion ×2 |
+| 14:00 | **roblox_user_8741108891**: Shark Puppy (MFR), Alley Cat (MFR), Turtle (FR), Rain Boots | **RBstela**: Owl (FR) |
+| 14:00 | **SomeoneStoleMyChance**: Tealwood Monster (M) | **itsjosi_RobloxXX**: Ride-A-Pet Potion ×2 |
 | 13:55 | **Klaysi_flayra**: Angus Calf, Black Kite, Steppe Lion, Subzero Scorpion, Sea Angel, Oryx, Narwhal, Moonpine ×2, Merhorse, Emu, Black Rhino | **frecalsplogeok9**: Ride-A-Pet Potion |
 | 13:55 | **Meko0o_3**: Retired Egg ×17 | **exotiqsss**: Bakeneko (N) |
 | 13:55 | **starlvciie**: Toucan (N) | **exotiqsss**: Boohoo (N) |
@@ -40,11 +45,6 @@ _Updated 2026-11-15 13:55 UTC by the scrape workflow._
 | 13:55 | **HeartsForEli_1406**: 2022 Birthday Cake | **3mis_alttt**: Siamese Cat (R), Adopt Me Girl Scooter |
 | 13:55 | **wskdaks**: Goat (NR) | **Not_CupcakeCrystal**: Jester Dragon (NFR) |
 | 13:55 | **Qu33nDQCrimsonO19932**: Ride-A-Pet Potion | **alexgameminecraft**: Skelicorn ×10 |
-| 13:55 | **geu23458**: Pig (R), Copycat (R) | **altfortrades222**: Elephant (FR) |
-| 13:55 | **wowohaha17**: Mrs. Whiskerpips (M) | **Floppybunny_4662**: Pupcicle ×2 |
-| 13:55 | **muniradypa**: Koi Carp ×5 | **chunlihasora**: Ride-A-Pet Potion |
-| 13:50 | **Dlya_amvgg**: Pig (NFR) | **miuehla**: Siamese Cat |
-| 13:50 | **NE0M3T4LS0N1C**: Ride-A-Pet Potion | **Nicoleee_ily**: S'mores Raccoon |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
