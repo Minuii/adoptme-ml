@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 20:01 UTC by the scrape workflow._
+_Updated 2026-11-15 20:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 20:01 UTC by the scrape workflow._
 | amvgg | 5 | 45,069 | 2026-11-15T20:00 |
 | elve | 5 | 9,874 | 2026-11-15T20:01 |
 
-## AMVGG completed trades: 21,096 total
+## AMVGG completed trades: 21,146 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,952 |
+| 2026-11-15 | 5,002 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 20:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:00 | **hexyzbagoc31**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Z0mb13H34rtzzz**: Ring-Tailed Lemur (F), Pupcicle |
-| 20:00 | **icanbehim19**: Fly-A-Pet Potion | **awim123**: Stray Cat Dragon (M) |
-| 20:00 | **i_jured**: Pupcicle (MFR) | **eyebagsq**: French Bulldog (MFR) |
-| 20:00 | **v1koko228**: Ride-A-Pet Potion | **kdhnfhfh**: Alien Eyes Hat |
-| 20:00 | **gumiiitooo**: Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Albino Monkey (FR) | **L_person21**: Arctic Reindeer (FR) |
-| 20:00 | **luvyerh**: Pig (R), Capybara | **keilaaadotcom**: Pig (FR) |
-| 20:00 | **MinaBach**: Flower Power Duckling, Pain au Chat, Royal Palace Spaniel, Candy Cane Snail, Leopard Cat, Canadian Goose, Irish Elk, Wolf, St Bernard, Tanuki, Magma Snail, Shetland Pony White, Spider Crab, Sabertooth, Pine Marten, Water Moon Bear (N) | **kawaiicatgirl798**: Puffin |
-| 20:00 | **kartochecha2**: Admin Abuse Egg ×9 | **6767mellstroy67**: Retired Egg ×15 |
-| 20:00 | **Kekemin11**: Spring Bunny Hood, Ice Cream Cone Hat, Pupcicle (N) | **dosh1kk_dasha**: Rain Cloud Hat |
-| 20:00 | **Aggr0berlin**: Poodle (M), Princess Mare (M), Purrowl (M) | **ms_kusa0**: Hare |
-| 20:00 | **XxLovelyEvanxX**: Phantom Dragon (NFR) | **sona6839**: Grim Dragon (FR) |
-| 20:00 | **Dwolify**: Werewolf (R) | **CHOCOLAL_LI**: Unicorn Horn |
-| 20:00 | **Cxraell**: Zodiac Minion Chick (N) | **erditiri03**: Evil Rock |
-| 20:00 | **bloodymedsss**: Latte Kitsune (MFR), Unicorn Horn | **LilBabyUni1**: Arctic Fox (MFR) |
-| 20:00 | **Gamerqueen1255**: Gemstone Egg | **Gacha_3356**: Retired Egg ×18 |
+| 20:10 | **LovelyGirl23033**: Burger Bear (N) | **KarraCult**: Pupcicle ×2 |
+| 20:10 | **toybeau772**: Goat (R), Pupcicle (N) ×2, Gorilla (MFR), Shetland Pony Dark Brown (MFR) | **CollectorVS12**: Frostbite Bear |
+| 20:10 | **AdoptMeHere03**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion | **Alexa183199**: Dodo (MFR) |
+| 20:10 | **bnnyls**: Merry Mistletroll (MFR), Ram (MFR), Bunny Swirl (M), Pudding Cat (MR) | **plushrafa**: Candy Hare (MFR) |
+| 20:10 | **Mx1shu**: Mochi Meow (M) | **Mucitler555_AS**: Pet Handler Pro Certificate |
+| 20:10 | **chesnock204**: Munchkin Cat (MFR) | **sparklepepper5**: Cryptid (FR) |
+| 20:10 | **Mamacocoisskinny**: Fairy Bat Dragon | **ima_alt00002**: Cherry-On-Top |
+| 20:10 | **awhqb1**: Arctic Reindeer (FR), Candicorn (NFR), Peach Owl (M), Glormy Dolphin (MFR) | **Ladysgaga20**: Candicorn (MFR) |
+| 20:10 | **mommy_vka123**: Arctic Fox (FR), Arctic Fox (R), Pig, Ride-A-Pet Potion, Pet Handler Pro Certificate | **luvyerh**: Fairy Bat Dragon (FR) |
+| 20:10 | **bad_boss1235**: Turtle (NFR), Cabbit (R), Sugar Glider (R), Kangaroo (FR), Kangaroo (R), Elephant (FR), Winged Tiger (R), Border Collie (R), Elephant, Crocodile (R), Flaming Fox (NR), Munchkin Cat, Pink Cat (FR), Copycat (FR), Kiwi (N), Hyena, Pink Cat, Chef Gorilla (N) | **sara5mohamad**: Frost Dragon (FR) |
+| 20:10 | **farmer_post1**: Goose (R), Undead Jousting Horse (FR), Kangaroo (FR) ×2, Polar Bear (NFR), Brown Bear (NR), Alley Cat (NR), Bauble Buddies (MFR) | **akzoad**: Crow (FR) |
+| 20:10 | **amandiwis198**: Arctic Fox (R) | **Dash35813**: Ride-A-Pet Potion ×7 |
+| 20:10 | **unicornkyaaa4**: Strawberry Shortcake Bat Dragon | **camiilita_7w7**: Winged Tiger (NR) |
+| 20:10 | **HE4RTZK**: Unicorn Horn ×2, Goth Shoes | **Ebonyaqt**: Cow (FR), Caterpillar (R) |
+| 20:10 | **Imacatlover354**: Latte Kitsune (N) | **mariee20_03**: Ride-A-Pet Potion ×11 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
