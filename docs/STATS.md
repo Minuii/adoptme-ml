@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 15:55 UTC by the scrape workflow._
+_Updated 2026-11-15 16:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 15:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 40,544 | 2026-11-15T15:45 |
-| elve | 5 | 8,800 | 2026-11-15T15:45 |
+| amvgg | 5 | 40,819 | 2026-11-15T16:00 |
+| elve | 5 | 8,887 | 2026-11-15T16:01 |
 
-## AMVGG completed trades: 19,684 total
+## AMVGG completed trades: 19,720 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 3,540 |
+| 2026-11-15 | 3,576 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 15:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:55 | **Elwanizk**: Ride-A-Pet Potion ×4 | **purpleshimmerstars**: Glacier Moth |
-| 15:55 | **Candron6**: Ride-A-Pet Potion ×6 | **FrostyLife8382**: Arctic Dusk Dragon (FR) |
-| 15:55 | **ddeonuml**: Mule (MFR) | **cat6queen**: Ram (MFR) |
-| 15:55 | **Adoptmestocks3000**: Many Mackerel | **LunaLuve_Good**: Santa Hat |
-| 15:55 | **Adoptmestocks3000**: Ride-A-Pet Potion | **EduardaVeilmont**: Alien Eyes Hat |
-| 15:55 | **kitty9x3asd7**: Ride-A-Pet Potion | **sasha_574611**: Pupcicle |
-| 15:55 | **Alisa_R00**: Chocolate Labrador (N), Ms. Muffet (N), Pinkypillar (N), Rubber Ducky (N), Mexican Wolf (N), Granny Wolf (N), Jacobin Pigeon (N), Mummy Spider (N), Caramelgeist (N), Patchy Bear (N), Milk Choccybunny (N) | **lantongzp**: Ride-A-Pet Potion |
-| 15:55 | **foramvgg8**: Bat Dragon (FR), Shadow Dragon (FR), Frost Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) | **RuthJavxn**: Parrot (MFR), Jekyll Hydra (MFR), Dalmatian (MFR) |
-| 15:55 | **AryaBran12114**: Maneki-Neko, Pink Betta Fish | **Shailyn09**: Kelp Raider (N) |
-| 15:55 | **mikaiii_016**: Ride-A-Pet Potion | **Ojitobonito2017**: Glyptodon Ducky (MR) |
-| 15:55 | **q1ww7xzx**: Ring-Tailed Lemur (MFR), Moose Calf (MFR) | **Idkk_0426**: Irish Water Spaniel (MFR) |
-| 15:55 | **l0v3y0u_o**: Black Panther (R), Bready Necklace | **raven5k**: Dango Penguins |
-| 15:55 | **puuuurrrraaawww**: Ride-A-Pet Potion ×2 | **Shailyn09**: Ruler's Castle |
-| 15:55 | **MusiaPushin**: Fly-A-Pet Potion ×2, Gemstone Egg ×2 | **raven5k**: Ballet Swan (FR) |
-| 15:55 | **niceplayeruwu**: Ride-A-Pet Potion | **Nora_mama123**: Hare Box |
+| 16:00 | **Foxy_Bonny28**: Pupcicle, Gumball Caterpillar (N) | **natfrmct**: Bakeneko (M) |
+| 16:00 | **ClxudsandRxin**: Latte Kitsune (NFR), Irish Water Spaniel (NFR), Groundhog (R), Koi Carp (M), Pancake Stack ×3, Tarsier (NFR) | **Red_Spider228**: Strawberry Shortcake Bat Dragon (FR) |
+| 16:00 | **adoptcatdogfox2**: Angus Calf (N), Halloween White Skeleton Dog, Halloween Evil Dachshund, Koi Carp | **waruKosh**: Ride-A-Pet Potion |
+| 16:00 | **nahokslime**: Frost Fury (FR) | **elinakir1**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pupcicle |
+| 16:00 | **YOKOZ303**: Turtle (FR) | **Linaf333ff**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 |
+| 16:00 | **glotznd_1324**: Purrowl ×3, Diamond Mahi Mahi, Bunch Of Balloons | **Juliab515**: Corgi ×11 |
+| 16:00 | **Its_marmeladka0003**: Gumball Caterpillar (N), Ms. Muffet (N) ×2, Golden Unicorn | **vampmo_123**: Classic Trade Stand |
+| 16:00 | **FouWait1**: Chocolate Chip Bat Dragon (FR), Crocodile (FR) | **veylw1**: Arctic Reindeer (FR), Jester Dragon (FR) |
+| 16:00 | **Imaxingsx**: Dogmobile, Bunny Stroller, Unicorn Leash, Unicorn Stroller, Unicorn Cycle, Easter Bunny Plush, Mono-Moped, Vampire Stroller, Ice Cream Stroller, Popsicle Stroller, French Fries Stroller, Cauldron Stroller, Princess Carriage, Royal Carriage, Prince Carriage | **puppy_2011owo**: Unicorn Horn |
+| 16:00 | **WierdoVanilla**: Fairy Bat Dragon, Polar Bear (R) | **dsjquw72hs**: Leopard Shark (MFR) |
+| 16:00 | **chocolatemilkbar2**: Cerberus (NFR) | **Kitsune2287**: Pet Handler Pro Certificate ×4 |
+| 16:00 | **RU0871**: Copycat | **lovkirby**: Ride-A-Pet Potion ×7 |
+| 16:00 | **cwutesy_1ai**: Matcha Cat (MFR), Panda (MFR), Water Rabbit (MFR), Moon Rabbit (MFR) | **Auds191102**: Sheeeeep (MFR), Groundhog (MFR) |
+| 16:00 | **Lumina20265**: Gemstone Egg ×5 | **ilikekpop_2012**: Skelicorn (M) |
+| 16:00 | **veIfyre**: Frostbite Bear (M), King Bee | **Imaxingsx**: Frostbite Bear (MFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
