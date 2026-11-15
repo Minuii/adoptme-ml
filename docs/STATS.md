@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 21:01 UTC by the scrape workflow._
+_Updated 2026-11-15 21:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 21:01 UTC by the scrape workflow._
 | amvgg | 5 | 46,130 | 2026-11-15T21:00 |
 | elve | 5 | 10,120 | 2026-11-15T21:01 |
 
-## AMVGG completed trades: 21,382 total
+## AMVGG completed trades: 21,455 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,238 |
+| 2026-11-15 | 5,311 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 21:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:55 | **hisd3sires**: Siamese Cat, Ride-A-Pet Potion ×3, 2022 Birthday Cake, White Chef Hat | **alexandmartinareg**: Turtle (NFR) |
-| 20:55 | **4chocolate49**: Oakee Wizard ×2, Ancient Dragon, Cuddly Candle, Huntsman Robin, Diamond Dragon | **aoqweza**: Ride-A-Pet Potion |
-| 20:55 | **cowlol898**: Unicorn ×3 | **lera5132**: Ride-A-Pet Potion ×3 |
-| 20:55 | **Anelchik_i**: Lunar White Tiger (MFR) | **Drikah777**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 20:50 | **kittychankawaii96419**: Polar Bear (NFR), Red Dutch Guinea Pig (R) | **gensuhaxx**: Kangaroo (R) |
-| 20:50 | **iiN044**: Retired Egg ×15 | **Amira_917181**: Chihuahua |
-| 20:50 | **Bushra_Rocket8678**: Round Fallow Deer Sticker, Cow Loves This Sticker | **St4r67Slay67**: Kiwi Kiwi |
-| 20:50 | **natsskq**: Copycat (R), Copycat, Catte | **Sharkpuppytofrost**: Albino Monkey (FR) |
-| 20:50 | **ll_90dfhj**: Ranger Beaver ×4, Hamster | **playwitmeokk**: Ranger Beaver (N) |
-| 20:50 | **Halloween_player4**: Christmas Pudding House, Alicorn | **Kaamyxa**: Ride-A-Pet Potion |
-| 20:50 | **dannysniche**: Balloon Unicorn (FR), Hot Doggo (FR), Peppermint Penguin (FR), Mini Pig (FR), Dalmatian (FR), Hedgehog (FR), Orchid Butterfly (FR) ×3, Blazing Lion (R), Cryptid (FR) | **Nfc_Rblxx**: Mini Pig (MFR), Strawberry Shortcake Bat Dragon (MFR), Cryptid (FR), 2022 Birthday Party Hat |
-| 20:50 | **r1nvafi**: Turtle (FR) ×2, Alpaca (FR) | **Factghq2**: Arctic Reindeer (FR) |
-| 20:50 | **Sigma_girlcz**: Majestic Pony, Rubber Ducky (M) | **mizukinay1**: Purrowl (M) |
-| 20:50 | **Ibrahimdoesgiveup**: Polar Bear (MFR), Frostbite Bear (R), Werewolf (R), Fly-A-Pet Potion, Pretty Please Snowball Sticker ×2 | **akzoad**: Evil Unicorn (FR) |
-| 20:50 | **daisyskyes82**: Harp Seal, Purrowl (N), Unicorn | **mariarita2000**: Scarebear (R) |
+| 21:10 | **Cutie_wolfie20**: Peppermint Penguin (FR), Mermicorn (R), Siamese Cat (FR), Pet Handler Pro Certificate, Jacobin Pigeon (M) | **Ggoggeggu**: Fairy Bat Dragon (NFR) |
+| 21:10 | **DuckyMuffinz**: Ride-A-Pet Potion | **auixiss**: Admin Abuse Egg ×18 |
+| 21:10 | **yapplie**: Momma Moose (M), Gumball Caterpillar (N) | **LITTLESNOWMANLEO**: Giant Black Scarab (M) |
+| 21:10 | **1_TASTEANDY0ULLBMINE**: Pomeranian (M) | **ycamx_10**: Chocolate Dutch Guinea Pig |
+| 21:10 | **NarutoDegenerat**: Bakeneko (M) | **nsf772**: Unicorn |
+| 21:10 | **picklesyumyy**: Ride-A-Pet Potion, Halloween White Ghost Dragon | **GoldenYeeter1**: Copycat |
+| 21:10 | **Nasty_7392**: Pomeranian, Orca, Ginger Cat, Mahi Mahi, Patchy Bear | **indiiqca**: Cattuccino |
+| 21:10 | **evieebunnii**: Chihuahua ×2 | **kcfranco07**: Ride-A-Pet Potion |
+| 21:10 | **evieebunnii**: Chihuahua ×2 | **kcfranco07**: Ride-A-Pet Potion |
+| 21:10 | **adoptmejourney83**: Spring Bunny Hood | **insano_6678**: Glormy Leo (R) |
+| 21:10 | **insano_6678**: Cow (R) | **Fxlrmt**: Alley Cat (NR), Field Mouse (R), Fly-A-Pet Potion, Spring Bunny Hood, Dragonfruit Fox (R), Spring Bunny Feet, Ride-A-Pet Potion, Jeff's Nametag, Berry Cool Cube (N) |
+| 21:10 | **AKI10PLAY**: Haetyphoon (R) | **puci_64**: Crocodile (FR) |
+| 21:10 | **kallmekat1e**: Angel Wings, Fly-A-Pet Potion, Alley Cat, Chocolate Dutch Guinea Pig ×2 | **insano_6678**: 2022 Birthday Cake, Tiny Wings, Spring Bunny Hood |
+| 21:10 | **ZombifiedMarco**: Goat (MFR), Honey Badger (MFR), Latte Kitsune (MFR) | **zeejnaa**: Cow (MFR), Wooly Rhino (MR), 2022 Birthday Cupcake Shoes, Maneki-Neko (MFR) |
+| 21:10 | **missy_Artz**: Border Collie (FR), Pig (R) | **kasdfoolo**: Turtle (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
