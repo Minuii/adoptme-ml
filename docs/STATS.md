@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 08:55 UTC by the scrape workflow._
+_Updated 2026-11-15 09:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 08:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 33,423 | 2026-11-15T08:45 |
-| elve | 5 | 7,252 | 2026-11-15T08:45 |
+| amvgg | 5 | 33,650 | 2026-11-15T09:00 |
+| elve | 5 | 7,295 | 2026-11-15T09:01 |
 
-## AMVGG completed trades: 17,764 total
+## AMVGG completed trades: 17,783 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,620 |
+| 2026-11-15 | 1,639 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 08:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:55 | **Cleirt_CoS0**: Chocolate Dutch Guinea Pig (NR), Dragonfruit Fox | **TwiXq0**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
-| 08:55 | **funmoster2019**: Lava Wolf (MFR), Nautilus (MFR), Toasty Red Panda (MFR), Fly-A-Pet Potion ×2 | **J3LLY4H0LDer**: Polar Bear (MFR) |
-| 08:55 | **SERDDFS1**: Angus Cow (M), Red Squirrel, Stitches | **Fox_13920**: Ride-A-Pet Potion |
-| 08:55 | **teddycutie7**: Ox (M), Thunderfisher (M) | **rasediva**: Fly-A-Pet Potion |
-| 08:55 | **RainyGamerzzz**: Shadow Dragon (FR), Grim Dragon, Candicorn (NFR), Burger Bear (M) | **davidwmelendez**: Frost Dragon (NFR), Evil Unicorn (NFR) |
-| 08:50 | **sofochk_aa**: Meerkat (N) | **Davidjan4941**: Rhino (MR), Shark (FR) |
-| 08:50 | **Gothzru1ns**: Fallow Deer (NFR), Peppermint Penguin (R), Pupcicle (N), Halloween Evil Dachshund (MR), Hamster (MR) | **abdoosaad**: Arctic Reindeer (FR) |
-| 08:50 | **leonbravlstars228**: Mini Pig (FR), Turtle | **JaideLuvs**: Strawberry Shortcake Bat Dragon (FR) |
-| 08:50 | **peachieskiwi**: Munchkin Cat (N), Monkey King Crown | **itz_Dizz01**: Water Rabbit (M), Matcha Cat (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Copycat |
-| 08:50 | **Slug013**: Burger Boots | **thesuperkid0**: Mouse (M) |
-| 08:50 | **m4rshalI**: Cryptid (FR) | **burakpr11**: Amethyst Penguin |
-| 08:50 | **Astr0_ooo**: Ride-A-Pet Potion ×2 | **gggpppgggppp1**: Pet Handler Pro Certificate |
-| 08:50 | **gggpppgggppp1**: Aye Aye (M) | **Snow_Girl123678**: Ride-A-Pet Potion |
-| 08:50 | **AltAcount630Brook**: Hydra (R), Fennec Fox (R), Moonpine (R) | **Immunity_Lori**: Ride-A-Pet Potion |
-| 08:50 | **bob4_boy**: Giraffe (FR), Phoenix (MFR) | **ILoveMy_Life666**: Owl (FR) ×2 |
+| 09:00 | **Avue_203**: Arctic Fox (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **pmpjmg1**: Flaming Fox (NFR) |
+| 09:00 | **Tokio_hotel12085**: Ride-A-Pet Potion ×7, Mule, Clover Cow | **vabshsnsnsns**: Chihuahua (M) |
+| 09:00 | **peachieskiwi**: Peppermint Penguin (FR), Love Letter | **Nastya_367367**: Fairy Bat Dragon (FR), Spring Bunny Feet, Ride-A-Pet Potion ×3 |
+| 09:00 | **pxurifiedtoxin**: Frostbite Bear | **peachyrei_8**: Pupcicle ×16, Velocirooster (R) |
+| 09:00 | **margo33249**: Sloth (FR) | **abodtme0**: Pupcicle |
+| 09:00 | **Xyulo_ebanoe00**: Rain Hat, Heart Ribbon, Pink Instant Camera | **Fox_13920**: Ride-A-Pet Potion |
+| 09:00 | **viivieraa**: Goat (R) | **nskwlp0**: Ride-A-Pet Potion ×6 |
+| 09:00 | **arseniylolol**: Fly-A-Pet Potion ×3 | **anastasia010girl**: Arctic Dusk Dragon (FR) |
+| 09:00 | **Xxxxashhhh**: Pet Handler Pro Certificate ×15 | **fightergaming11**: Cow (FR) |
+| 09:00 | **ev0l6v**: Bat Dragon (NFR) | **GinaLloyd10alt**: Blazing Lion (MFR), Elephant (NFR), Turtle (FR), Strawberry Shortcake Bat Dragon (FR), Bald Eagle (F), Cow (FR), Frost Fury (FR) |
+| 09:00 | **FemboyMaxer**: Turtle (NFR) ×2 | **rianasfanboy**: Arctic Reindeer (FR), Kangaroo (R), Pig (FR), Ride-A-Pet Potion |
+| 09:00 | **peachieskiwi**: Water Rabbit (M), Fly-A-Pet Potion | **Vxmptomato**: Water Rabbit (MFR) |
+| 09:00 | **ilgattonelcamino**: Latte Kitsune | **Xxxxashhhh**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 09:00 | **CcnShadowGames**: Mermicorn (FR), Cabbit (R), Owlbear (R), Fly-A-Pet Potion, Space Fleet House | **hazeldacoolest_889**: Strawberry Shortcake Bat Dragon (FR) |
+| 09:00 | **Zanx0_1**: Halloween White Ghost Dragon (FR) | **Xxxxashhhh**: Pet Handler Pro Certificate ×2 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
