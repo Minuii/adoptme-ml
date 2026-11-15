@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 02:01 UTC by the scrape workflow._
+_Updated 2026-11-15 02:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 02:01 UTC by the scrape workflow._
 | amvgg | 5 | 26,818 | 2026-11-15T02:00 |
 | elve | 5 | 5,829 | 2026-11-15T02:01 |
 
-## AMVGG completed trades: 16,535 total
+## AMVGG completed trades: 16,563 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 391 |
+| 2026-11-15 | 419 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 02:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:00 | **puchainela77**: Jester Dragon, Bready Necklace | **miriam89300**: Jester Dragon |
-| 02:00 | **Sa1t3d_caramel**: White Sand Dollar | **miriam89300**: Boohoo ×12 |
-| 02:00 | **Quizzaff**: Fly-A-Pet Potion ×3, Count Slothula, Fairytale Egg | **ASMR_1585**: Jester Dragon |
-| 02:00 | **xxManreetxxplayz**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Ast1giboo**: Phoenix (NFR) |
-| 02:00 | **glccs_kitty**: Tiny Wings, Ride-A-Pet Potion, Pet Handler Pro Certificate | **Luvx_VXvu**: 2022 Birthday Party Horn |
-| 02:00 | **Itsserena108**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion ×4 | **clalouetciedh**: Goose (R) |
-| 02:00 | **antilucqa**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **ZunTze**: Cupid Dragon (FR) |
-| 02:00 | **RobloxIsLif3z**: Dragonfruit Fox | **tqnha**: Ride-A-Pet Potion ×2 |
-| 02:00 | **510478**: French Bulldog (MFR) | **alwyzchlqe**: Unicorn Horn |
-| 02:00 | **VICTOR_AV01**: Mechapup (MFR), Pumpkin | **madislimeg**: Evil Unicorn (FR), Mini Pig (R), Fairy Bat Dragon (FR) |
-| 02:00 | **looter_love**: Fly-A-Pet Potion ×2, Cozy Mistletroll (N) | **ana42530u**: Cozy Mistletroll (MR) |
-| 02:00 | **L_person21**: Cryptid (R), Turtle | **y2k_itadori**: Alpaca (NFR), Siamese Cat (NFR) |
-| 02:00 | **Tates1ush**: Sakura Spirit (MFR), Gaelic Fae (MFR), Mermicorn (M), Ballet Swan (MFR), Ice Cream Hermit Crab (MR), Rainbow Maker, Glacier Moth (MFR), Jellyfish (MFR), Frost Unicorn (MFR), Goat (MFR), Frost Fury (MFR), Orange Betta Fish (M) | **Horrible084**: Frost Dragon (MFR) |
-| 02:00 | **Princesskaitlynstar2**: Haetyphoon (R), Unicorn (NFR), Ride-A-Pet Potion | **kurumisbff**: Frostbite Bear |
-| 02:00 | **TANSKlN**: Giraffe (NFR), Copycat (N) | **Backup41898**: Giraffe, Mini Pig (MFR) |
+| 02:10 | **D8RYY**: Pupcicle (M) | **rainthatxx**: Turtle (FR) |
+| 02:10 | **AwuitadeUva100**: Parrot (FR), Dalmatian (FR), Grim Dragon (FR), Christmas Pudding Pup | **MimiChibi64**: Frost Dragon (FR) |
+| 02:10 | **kokoroganao**: Rainbow Maker, Unicorn Horn, Spring Bunny Nose ×2, 2022 Birthday Cake, Cabbit (FR) | **hanb3ki**: African Wild Dog (FR) |
+| 02:10 | **yamarhs**: Pupcicle (N) ×2, Pupcicle ×3 | **PixiePawsTrade**: Polar Bear (N) |
+| 02:10 | **lulitadddd**: Halloween Black Mummy Cat (MR), Halloween Black Mummy Cat (M), Dire Wolf, Boohoo, Catte | **Name_robloxx02**: Cattuccino (M) |
+| 02:10 | **iisunflower_sunyy**: Retired Egg ×12 | **mofncufjs**: Ginger Cat (N) |
+| 02:10 | **N0ugatt**: Peppermint Penguin (FR) | **pssixotrop**: Arctic Dusk Dragon (FR) ×2, Christmas Pudding Pup (FR), Christmas Pudding Pup, Unicorn, Snow Owl (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 02:10 | **YUMIIMOTHZZ**: Cryptid (FR), Giant Panda (FR) | **cheesewondercrisps**: Frost Dragon (FR) |
+| 02:10 | **itsk_aI4**: Caterpillar | **Nasha1ra**: Munchkin Cat |
+| 02:10 | **EvelynUwU255sfk**: Retired Egg ×2, Jiggly Jerboa, Cat | **Kotuk6719**: Stitches |
+| 02:10 | **rynxwrs**: Momma Moose (M) | **hzmimii**: Ride-A-Pet Potion ×2 |
+| 02:10 | **cutenadk77**: Red Crowned Crane, Trapdoor Snail, Water Moon Bear, Monkey, Ruddy Duck, Yellow Butterfly, 2021 Uplift Butterfly, Mosquito, Show Pony | **Aslie_17**: Ride-A-Pet Potion |
+| 02:10 | **cutenadk77**: Amber Butterfly, Koi Carp, Stitches, Red Panda ×3, Water Opossum, Weevil, Crab, Glyptodon | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 02:10 | **N33RDSS**: Cupid Dragon (NFR), Ride-A-Pet Potion ×3 | **cunlainy**: Cow (FR) |
+| 02:10 | **iiEvenstar**: German Shepherd (MFR) | **dearieluv**: Bunny Swirl (MFR), Happy Duckling (MR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
