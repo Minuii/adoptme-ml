@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 01:01 UTC by the scrape workflow._
+_Updated 2026-11-15 01:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 01:01 UTC by the scrape workflow._
 | amvgg | 5 | 25,752 | 2026-11-15T01:00 |
 | elve | 5 | 5,648 | 2026-11-15T01:01 |
 
-## AMVGG completed trades: 16,344 total
+## AMVGG completed trades: 16,390 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 200 |
+| 2026-11-15 | 246 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 01:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:00 | **JasonTheDemon_lol**: S'mores Raccoon (N), Castle Hermit Crab (N), Cow Calf (N), Longhorn Cow (N), Skunk (N), Peregrine Falcon (N), Trapdoor Snail (N), Ornate Horned Frog (N), Roadrunner (N), Indian Leopard (N), Ringmaster Gibbon (N), Officer Gibbon (N), Mecha R4BBIT (N), Lammergeier (N), Firefighter Gibbon (N), Quetzalcoatl (N), Manta Ray (N), Ice Cube (N) | **LunaLuve_Good**: Kangaroo (R) |
-| 01:00 | **LunaLuve_Good**: Shrew | **maddiea1982**: Goth Shoes, Bready Necklace |
-| 01:00 | **genesisgameryt504**: Strawberry Tortle | **bob4_boy**: Pupcicle (MFR) |
-| 01:00 | **Deezpois**: Balloon Unicorn (FR), Spring Bunny Nose | **Donutser2**: Mini Pig (R), Goose (FR), Mermicorn (R), Unicorn Horn, Chocolate Dutch Guinea Pig (M) |
-| 01:00 | **ponkio135**: Haetae (R) | **kroko182**: Hare (MFR), Harp Seal (MFR), Happy Duckling (MFR), Ninja Monkey (M) |
-| 01:00 | **pookiebare08**: Glyptodon Ducky (N), Pomeranian, Dingo, Persian Cat | **Sniper_warrior18**: Onza (N) |
-| 00:55 | **frogan55**: Frostbite Bear ×6, Merry Mistletroll (MR) | **Chirithy1377**: Giant Panda (FR) |
-| 00:55 | **higuysitskobe**: Strawberry Tortle (NR), Fly-A-Pet Potion ×2 | **nerdoitdabest**: Hedgehog, Cow (R), Jester Dragon (R) ×2 |
-| 00:55 | **Onlyforujk**: Jester Dragon ×2, Ballet Swan, 2022 Birthday Cupcake Shoes | **1vkx3**: Haetyphoon (R), Haetyphoon |
-| 00:55 | **Luvx_VXvu**: Great Pyrenees, Poodle (M) | **Leviodas**: Ride-A-Pet Potion |
-| 00:55 | **PotatoMode_On**: Vampire Dragon (NFR), Mini Schnauzer, Brown Springer Spaniel, Cuddly Candle (R), Christmas Spirit (N), Green-Chested Pheasant | **ponkio135**: Ninja Monkey (M) |
-| 00:55 | **Fox_micro9311**: Ride-A-Pet Potion, Fly-A-Pet Potion | **LillyLaBoss11**: Black Dog (M) |
-| 00:55 | **QueenNeverCry1213**: Pupcicle (N) | **sleepy_s0ren**: Spring Bunny Hood |
-| 00:55 | **Triftxyy**: Fly-A-Pet Potion ×17 | **is_Hector**: Cow (FR) |
-| 00:55 | **vcloss**: Fly-A-Pet Potion, Ride-A-Pet Potion | **sshanao_o**: Dark Choccybunny (M) |
+| 01:10 | **che12young**: Kangaroo (FR), Jester Dragon, Llama (NFR) | **Yupiterd**: Cow (FR) |
+| 01:10 | **blobxxfish**: Starhopper (N), Green-Chested Pheasant, Peachick, Indian Leopard, Cattuccino, Persian Cat | **AsmioTakeW**: Fly-A-Pet Potion |
+| 01:10 | **gogo549**: Turtle (MFR), Turtle (NFR), Ride-A-Pet Potion ×13 | **mariawoiksi**: Parrot (FR) |
+| 01:10 | **Nutty_1352**: Fairytale Egg ×18 | **mldcjvk1983**: Ride-A-Pet Potion |
+| 01:10 | **Xyulo_ebanoe00**: Kiwi Kiwi, Wolf, Dragon | **batton0955**: Ride-A-Pet Potion |
+| 01:10 | **IntentLinen9888**: Thunderfisher, Orangutan, Clumpty | **Eliaam0_0**: Purrowl |
+| 01:10 | **Julzie_25**: Arctic Dusk Dragon (NFR), Harp Seal (N), Chihuahua (N), Bolt (M), Dango Penguins, Pet Handler Pro Certificate, Stray Cat Dragon (N) | **Yupiterd**: Cow (FR) |
+| 01:10 | **rafaelousthecrazy**: Squid, Gemstone Egg | **glxsyy_isha**: Ride-A-Pet Potion |
+| 01:10 | **pawvprint**: Haetae (NFR), 2022 Birthday Cupcake Shoes | **FunkyBrodie**: Frost Dragon (FR), Parrot |
+| 01:10 | **leyley_purple**: Ghostly Cat (NR), Fly-A-Pet Potion ×4, Mochi Meow Tumble Animated Sticker, Bobageist (N) ×2, Stray Cat Dragon ×4, Paint Sealer, Thunderfisher ×3, Robot ×2 | **love_sry0**: Munchkin Cat |
+| 01:10 | **lilanderm**: Elephant (FR) | **love_sry0**: Elephant (R), Ride-A-Pet Potion |
+| 01:10 | **Hell0_kitty7v7xd**: Shiba Inu | **Meko0o_3**: Retired Egg ×5 |
+| 01:10 | **sofiaproooooou**: Red Squirrel (FR) | **nastushapobeda15**: Toucan (FR) |
+| 01:10 | **ddff_j**: Copycat (NFR), Fly-A-Pet Potion | **onebongrip**: Cow (FR) |
+| 01:10 | **triangulaamv**: Frost Dragon (FR), Owl (FR), Chocolate Chip Bat Dragon (FR), Halo | **TwistedK1tty**: Shadow Dragon (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
