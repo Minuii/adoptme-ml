@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 11:01 UTC by the scrape workflow._
+_Updated 2026-11-15 11:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 11:01 UTC by the scrape workflow._
 | amvgg | 5 | 35,643 | 2026-11-15T11:00 |
 | elve | 5 | 7,731 | 2026-11-15T11:01 |
 
-## AMVGG completed trades: 18,228 total
+## AMVGG completed trades: 18,255 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,084 |
+| 2026-11-15 | 2,111 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 11:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:00 | **warrior_catsmember**: Crocodile (R) | **Ronald_man96**: Amami Rabbit (MFR) |
-| 11:00 | **0Miss_Ellis0**: Jester Dragon (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 11:00 | **Alfie_Albie**: Shadow Dragon (MFR), Mermicorn (FR), Mini Pig (FR) | **IlikeMilk220**: Giraffe (NFR), Bat Dragon (FR) ×2, Alpaca (MFR), Lion Cub (MFR) |
-| 11:00 | **vcloss**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **miuehla**: Subzero Scorpion (MR) |
-| 11:00 | **maani123123**: Pro Ghost Blaster | **Alex_0v02004**: Slimingo Feather Teleporter |
-| 11:00 | **LORDZ_999**: French Bulldog (MFR) | **AH_TONI**: Rhino (MFR) |
-| 11:00 | **lipton_lipton83**: Crocodile (R), Shark Puppy, Ride-A-Pet Potion | **DragonjJDusta107130**: Turtle (FR) |
-| 11:00 | **bigbbl589**: Alpaca (R) | **mikepower240508**: German Shepherd (M) |
-| 11:00 | **yonski_50**: Dire Stag (MR), Skeleton Winged Glider | **wldnsdlrnldudna**: Castle Hermit Crab (M), Ice Cream Cone Hat, Leopard Cat (M) |
-| 11:00 | **younost101001**: Lava Wolf (NR) | **KoTuK_176**: Frost Fury (FR) |
-| 11:00 | **younost101001**: Rhino | **Pineapple_Pasha0**: Ride-A-Pet Potion |
-| 11:00 | **St4r1890241**: Therapy Dog | **xxxtentacion12639**: Eggnog Dog |
-| 11:00 | **akeks_74**: Copycat, French Bulldog (NR), Latte Kitsune, Glacier Moth (R), Cherry Blossom Flower Sticker | **MERCEDESE300COUPE**: Kangaroo (FR) |
-| 11:00 | **24681012141618202213**: Latte Kitsune (R), Spring Bunny Nose | **AdoptMe_noob087**: Ice Cream Cone Hat |
-| 11:00 | **booluqx**: Pig (FR) | **RobWOLF36loxa**: Samoyed (MFR), Cattuccino (M), Stray Cat Dragon (M), Fly-A-Pet Potion |
+| 11:10 | **Lili58320**: Red Panda (N), Shiba Inu (N), Starmite (N), Abyssinian Cat (N) | **un1corng1rl507**: Ride-A-Pet Potion |
+| 11:10 | **2creme1sucre**: Unicorn Horn | **peachieskiwi**: Siamese Cat, Ride-A-Pet Potion, Butter Knife |
+| 11:10 | **YouAreBannedWitch**: Ride-A-Pet Potion, Cattuccino (N) | **un1corng1rl507**: Fly-A-Pet Potion |
+| 11:10 | **Txskiicatzz**: Strawberry Shortcake Bat Dragon (NFR), Sheeeeep (R), Spring Bunny Hood, Pink Cat Ear Headphones, Pupcake | **LiekeLuvsWillow**: Balloon Unicorn (FR) |
+| 11:10 | **pozzibros77394**: Blazing Lion (R), Fly-A-Pet Potion | **lba_fofe**: Strawberry Shortcake Bat Dragon (FR) ×2 |
+| 11:10 | **fox_100l**: Cabbit (FR), Grim Dragon (FR), Leopard Cat (MFR) | **Unknown_Valire**: Chocolate Chip Bat Dragon (FR) |
+| 11:10 | **DragonjJDusta107130**: Shark Puppy | **shabsiscute**: Ride-A-Pet Potion ×10 |
+| 11:10 | **Strang3rL30**: Unicorn | **eqfqriz**: Pupcicle |
+| 11:10 | **XisokoGame**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **xxjohnjokexx**: Jester Dragon |
+| 11:10 | **cggfhjuh**: Emperor Gorilla (FR), Octopus (NFR), Slime (R), Green-Chested Pheasant (NR), Ride-A-Pet Potion | **allkssa1**: Kangaroo (FR) |
+| 11:10 | **kittycutecat11130**: Turtle (FR) | **Cattychiee**: Pupcicle (M) |
+| 11:10 | **ambervgils**: Strawberry Shortcake Bat Dragon (FR) ×13 | **vsphone0027**: Bat Dragon (FR) |
+| 11:10 | **UnUcreepy**: Puppeteer Hand | **jadecute11111**: Buttoned Ushanka |
+| 11:10 | **lobikate122**: Tarsier | **Sodka_2015yy**: Chipmunk |
+| 11:10 | **love_cat6242**: Irish Setter (NR), Japanese Snow Fairy (M) | **leozinha_bee**: Maine Coon (N) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
