@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 13:45 UTC by the scrape workflow._
+_Updated 2026-11-15 13:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 13:45 UTC by the scrape workflow._
 | amvgg | 5 | 38,493 | 2026-11-15T13:45 |
 | elve | 5 | 8,391 | 2026-11-15T13:45 |
 
-## AMVGG completed trades: 18,985 total
+## AMVGG completed trades: 19,051 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,841 |
+| 2026-11-15 | 2,907 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 13:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:40 | **vvccgg_a**: Ram | **6evesvokhaha**: Ride-A-Pet Potion |
-| 13:40 | **KPOPFORLIFEBTS1**: Munchkin Cat (MFR), Vanilla Penguin (MFR) | **ELASTICHXRT**: Copycat (MFR) |
-| 13:40 | **Klaysi_flayra**: Gemstone Egg, Mochi Meow, Sea Turtle, Stray Cat Dragon, Admin Abuse Egg ×8 | **Shara_xxS**: Ride-A-Pet Potion |
-| 13:40 | **unicornio120957**: Horse (R), Hamster, Clover Cow, Toasty Red Panda, Gingerbread Hare, Inmate Capuchin Monkey, Chick | **Laktozik1**: Fly-A-Pet Potion |
-| 13:40 | **AsianIceCold**: Lava Wolf (MFR), Pet Handler Pro Certificate | **AutoTradeCommission**: Cow (FR) |
-| 13:40 | **ballerin0cappuccin02**: Copycat (NR), Candicorn (FR), Munchkin Cat (R), Fly-A-Pet Potion ×3 | **Bedwars_newpro9**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:40 | **Mysteri0usPuppet**: Lava Wolf (MFR) | **AsianIceCold**: Copycat (NFR) |
-| 13:40 | **unicornio120957**: Black Macaque ×4 | **jauzyp**: Fly-A-Pet Potion |
-| 13:40 | **tutritam174**: Hare Box, Walrus Box | **Roma_1234q**: Fly-A-Pet Potion |
-| 13:40 | **werlianess**: Lavender Dragon (R), Dragonfruit Fox, Cobra (NR), Cobra (NFR), Kitsune (NFR), Albino Bat (NR), Chimera (NR), Ice Wolf (F), Stray Cat Dragon (M), Ancient Dragon (F) | **AnneFabrel2005**: Turtle (FR) |
-| 13:40 | **pegasus23234**: Strawberry Shortcake Bat Dragon (FR) | **Kirpich518**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
-| 13:40 | **blossopeony**: Retired Egg ×9 | **ll3mch1kk**: Thunderfisher (N) |
-| 13:40 | **xLavend3rXDr3amsx**: Siamese Cat (MFR), Albino Gorilla (MFR), Turtle (FR) | **hanb3ki**: Owl (FR) |
-| 13:40 | **sesher14**: Chocolate Chip Bat Dragon (FR) | **Kirpich518**:  |
-| 13:40 | **Jessy85600**: Giant Panda (FR) | **xTrxstedCodee**: Munchkin Cat (MR), Turtle (NFR) |
+| 13:55 | **Klaysi_flayra**: Angus Calf, Black Kite, Steppe Lion, Subzero Scorpion, Sea Angel, Oryx, Narwhal, Moonpine ×2, Merhorse, Emu, Black Rhino | **frecalsplogeok9**: Ride-A-Pet Potion |
+| 13:55 | **Meko0o_3**: Retired Egg ×17 | **exotiqsss**: Bakeneko (N) |
+| 13:55 | **starlvciie**: Toucan (N) | **exotiqsss**: Boohoo (N) |
+| 13:55 | **Jeansppk**: Unicorn (N) | **lucasprz7**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 13:55 | **PVIC124**: Sugar Glider (NFR), Fairy Bat Dragon (NFR), Spring Bunny Feet | **Riikka_Takanashiii**: Crow (FR), Field Mouse |
+| 13:55 | **adorbsxmxna**: Shiba Inu ×6 | **DrizzledTxffee**: Shiba Inu (N) |
+| 13:55 | **Sofiaeftychiou**: King Bee | **DrizzledTxffee**: St Bernard |
+| 13:55 | **HeartsForEli_1406**: 2022 Birthday Cake | **3mis_alttt**: Siamese Cat (R), Adopt Me Girl Scooter |
+| 13:55 | **wskdaks**: Goat (NR) | **Not_CupcakeCrystal**: Jester Dragon (NFR) |
+| 13:55 | **Qu33nDQCrimsonO19932**: Ride-A-Pet Potion | **alexgameminecraft**: Skelicorn ×10 |
+| 13:55 | **geu23458**: Pig (R), Copycat (R) | **altfortrades222**: Elephant (FR) |
+| 13:55 | **wowohaha17**: Mrs. Whiskerpips (M) | **Floppybunny_4662**: Pupcicle ×2 |
+| 13:55 | **muniradypa**: Koi Carp ×5 | **chunlihasora**: Ride-A-Pet Potion |
+| 13:50 | **Dlya_amvgg**: Pig (NFR) | **miuehla**: Siamese Cat |
+| 13:50 | **NE0M3T4LS0N1C**: Ride-A-Pet Potion | **Nicoleee_ily**: S'mores Raccoon |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
