@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 01:11 UTC by the scrape workflow._
+_Updated 2026-11-15 01:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 01:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 25,752 | 2026-11-15T01:00 |
-| elve | 5 | 5,648 | 2026-11-15T01:01 |
+| amvgg | 5 | 26,015 | 2026-11-15T01:15 |
+| elve | 5 | 5,715 | 2026-11-15T01:16 |
 
-## AMVGG completed trades: 16,390 total
+## AMVGG completed trades: 16,392 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 246 |
+| 2026-11-15 | 248 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,8 @@ _Updated 2026-11-15 01:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:15 | **pshiajara**: Cattuccino ×4 | **pinkberrily**: Burger Bear |
+| 01:15 | **Uhmitsurbestie**: Crow (FR), Turtle (FR), Fly-A-Pet Potion ×2 | **m4rshalI**: Siamese Cat (MFR) |
 | 01:10 | **che12young**: Kangaroo (FR), Jester Dragon, Llama (NFR) | **Yupiterd**: Cow (FR) |
 | 01:10 | **blobxxfish**: Starhopper (N), Green-Chested Pheasant, Peachick, Indian Leopard, Cattuccino, Persian Cat | **AsmioTakeW**: Fly-A-Pet Potion |
 | 01:10 | **gogo549**: Turtle (MFR), Turtle (NFR), Ride-A-Pet Potion ×13 | **mariawoiksi**: Parrot (FR) |
@@ -43,8 +45,6 @@ _Updated 2026-11-15 01:11 UTC by the scrape workflow._
 | 01:10 | **lilanderm**: Elephant (FR) | **love_sry0**: Elephant (R), Ride-A-Pet Potion |
 | 01:10 | **Hell0_kitty7v7xd**: Shiba Inu | **Meko0o_3**: Retired Egg ×5 |
 | 01:10 | **sofiaproooooou**: Red Squirrel (FR) | **nastushapobeda15**: Toucan (FR) |
-| 01:10 | **ddff_j**: Copycat (NFR), Fly-A-Pet Potion | **onebongrip**: Cow (FR) |
-| 01:10 | **triangulaamv**: Frost Dragon (FR), Owl (FR), Chocolate Chip Bat Dragon (FR), Halo | **TwistedK1tty**: Shadow Dragon (FR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
