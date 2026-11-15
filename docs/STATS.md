@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 16:46 UTC by the scrape workflow._
+_Updated 2026-11-15 16:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 16:46 UTC by the scrape workflow._
 | amvgg | 5 | 41,582 | 2026-11-15T16:45 |
 | elve | 5 | 9,089 | 2026-11-15T16:45 |
 
-## AMVGG completed trades: 19,965 total
+## AMVGG completed trades: 20,019 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 3,821 |
+| 2026-11-15 | 3,875 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 16:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:40 | **luzmi119**: Classic Trade Stand | **likadbsv1**: Flower Power Duckling |
-| 16:40 | **Yakkuji**: Cabbit (R) | **NummieNummiegirl**: Sugar Glider (FR) |
-| 16:40 | **diorvangel**: Strawberry Shortcake Bat Dragon (NFR), Christmas Pudding Pup (MFR), Pink Betta Fish (M) | **xmikaeq**: Fairy Bat Dragon (MFR) |
-| 16:40 | **louisa_ishere**: Dalmatian (FR), Arctic Reindeer (FR), Lamb (MFR), Dodo (MR), Aurora Fox (R), Majestic Pony | **akzoad**: Owl (FR) |
-| 16:40 | **MomOG9615**: Ride-A-Pet Potion | **pinkven0mrockst4r**: Mighty Haetyphoon Animated Sticker |
-| 16:40 | **higuysitskobe**: Strawberry Tortle (N), Hare (MFR), Alley Cat (MFR), Cheetah (MFR), Lion (NR), Frostbite Bear, Panda (MFR), Owlbear (NFR) ×2, Mini Schnauzer (NR) | **FaZeTysonF**: Giraffe (FR) |
-| 16:40 | **firephoenix601**: Pink Betta Fish (M), Coconut Friend (MR), Blue Ringed Octopus (MR) | **plushioss**: Turtle (R) |
-| 16:40 | **lina200r**: Crow (MFR) | **tom2mcg**: Border Collie (MFR) ×3, Arctic Reindeer (MFR), Cake Friend (MFR) |
-| 16:40 | **AsianIceCold**: Cow (NFR), Turtle (NFR), Border Collie (FR), Fly-A-Pet Potion | **ambervgils**: Arctic Reindeer (NFR) |
-| 16:40 | **Xxdevenyx**: Goose (R), Pupcicle, Count Slothula | **farmer_post1**: Candicorn, Frost Unicorn (FR) |
-| 16:40 | **Loikin_Vika029**: 2022 Birthday Cake, 2022 Birthday Party Hat, 2022 Birthday Party Horn, 2022 Birthday Cupcake Shoes, Halo, Angel Wings, Unicorn Backpack, Head Chef | **Eri_Gamer58**: Giant Panda (FR) |
-| 16:40 | **Cheoeden**: Cow (FR) ×2, Ride-A-Pet Potion ×3 | **Katerryrka**: Cow (NFR) |
-| 16:40 | **Kira_luvsGOD**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Ice Cream Hermit Crab (MR) | **Nicoleee_ily**: Giant Panda (FR) |
-| 16:40 | **raccoonybaloony**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 | **eywa_2410**: Drake (MFR) |
-| 16:40 | **kajaterezka**: Alicorn (NR), Mighty Haetyphoon Animated Sticker | **His4lif3xx**: Ride-A-Pet Potion |
+| 16:55 | **vitashelly9**: Pink Cat (NFR) | **Master_Menji0**: Turtle (FR), Fly-A-Pet Potion |
+| 16:55 | **Klaysi_flayra**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×2 | **lookmyprofile61**: Candyfloss Chick (FR) |
+| 16:55 | **docedelets**: Bauble Buddies (MFR) | **X_DaRkX16**: Ride-A-Pet Potion ×6 |
+| 16:55 | **Omar2002548**: Haetyphoon | **lightheartcoolkourt1**: Winged Tiger |
+| 16:55 | **Carperleon06**: Glacier Kitsune (N) | **green2014h**: Arctic Dusk Dragon (NFR) |
+| 16:55 | **alwyzchlqe**: Strawberry Shortcake Bat Dragon (R), Black Springer Spaniel (MFR) | **Dnia1017**: Groundhog (MFR) |
+| 16:55 | **quVare_PDF**: Vanilla Penguin (NFR), Vanilla Penguin (N), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7 | **shainikss**: Turtle (FR) |
+| 16:55 | **lookmyprofile61**: Arctic Fox (FR) | **Platon606777**: Ride-A-Pet Potion ×8 |
+| 16:55 | **restwdpup**: Pupcicle | **Malinamyn**: Ride-A-Pet Potion |
+| 16:55 | **xyna68**: Toaster Hat, Bush Elephant (R) | **mykonoooo08**: Unicorn Horn, Ice Cream Cone Hat |
+| 16:55 | **docedelets**: Snowball Pug (MFR) | **frecalsplogeok9**: Ride-A-Pet Potion ×4 |
+| 16:55 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 | **AvaNari2010**: Pig (FR) |
+| 16:55 | **koi_x0**: Lunar Moon Bear (NR) | **snehathebest22**: Pupcicle ×2 |
+| 16:55 | **kotemmim**: Jacobin Pigeon (M), Corgi (N), Mouse (N), Magpie (N), Princess Mare (N) | **biq_at222**: Ride-A-Pet Potion |
+| 16:55 | **bad_boss1235**: Turtle (FR), Shark Puppy (FR), Arctic Fox (R), Strawberry Penguin (R), Meerkat (R), Frost Fury (R), Brown Springer Spaniel (NR) | **itz_Dizz01**: Kangaroo (FR), Kangaroo (R), Elephant, Crocodile (R) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
