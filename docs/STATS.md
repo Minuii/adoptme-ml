@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 06:31 UTC by the scrape workflow._
+_Updated 2026-11-15 06:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 06:31 UTC by the scrape workflow._
 | amvgg | 5 | 31,173 | 2026-11-15T06:30 |
 | elve | 5 | 6,825 | 2026-11-15T06:31 |
 
-## AMVGG completed trades: 17,362 total
+## AMVGG completed trades: 17,397 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,218 |
+| 2026-11-15 | 1,253 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 06:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:25 | **yeyey66hevj**: Chocolate Dutch Guinea Pig (NR), Chocolate Dutch Guinea Pig (N), Munchkin Cat, Spring Bunny Hood | **quinniaqila**: Cabbit (R) |
-| 06:25 | **AlphaTaToxicv1047**: Ride-A-Pet Potion, Fly-A-Pet Potion | **hhhauntedddd**: St Bernard (N), Tasmanian Devil (N) |
-| 06:25 | **WIINDY_311**: Velocirooster | **loiol1004**: Ride-A-Pet Potion ×4 |
-| 06:25 | **jhojanpro14**: Maple Leaf Treat, Golden Goldfish, Honey, Sushi Penguin, Sunglider | **XxGavsxX**: Count Slothula (N) |
-| 06:25 | **lovlee61**: Goat (MFR), Moonbeam Butterfly (MFR), Chef Gorilla (R), Chef Gorilla ×15 | **Squonk037**: Albino Monkey (MFR) |
-| 06:25 | **xxjohnjokexx**: Unicorn | **CcLuims011x**: Ride-A-Pet Potion |
-| 06:25 | **beatsvic**: Copycat (NFR), Dancing Dragon (MFR), Diamond Ladybug (MFR), Fly-A-Pet Potion | **violencesoul**: Copycat (MFR) |
-| 06:25 | **jackieiqp**: Borhyaena Gigantica (M) | **thesuperkid0**: Subzero Scorpion, Lammergeier, Peachick, Indian Leopard, Arctic Hare, Mochi Meow ×5, Purrowl |
-| 06:25 | **donnotinteract**: Unicorn Horn, Sheeeeep (N), Sheeeeep (NR), Shark Puppy, Spring Bunny Hood ×2, Pancake Stack, Ride-A-Pet Potion | **Liza10kis**: Honey Badger (MFR) |
-| 06:25 | **booluqx**: Fly-A-Pet Potion | **Grin4ik_sk**: Wood Pigeon |
-| 06:25 | **IconsChew**: Crocodile (FR), Snowball Pet (MFR) | **psotkakotka2013**: Lion Cub (NFR) |
-| 06:25 | **Gu1neaP1g_3**: Kangaroo (NFR), Great Pyrenees (MFR), Ice Cream Cone Hat, Spring Bunny Hood, Santa's Bow | **JO_A526**: Hyena (MFR) |
-| 06:25 | **wskdaks**: Frost Fury (R) ×2, Frost Fury (FR) | **Wint3rPawz**: Pupcicle ×15 |
-| 06:25 | **aloencqivvt**: Toasty Red Panda (M) | **chiromux**: Pupcake (M) |
-| 06:25 | **wowohaha17**: Santa Hat | **WIINDY_311**: Pupcicle (NFR) |
+| 06:40 | **pawthetiic**: Aztec Egg ×17, Orca (N) | **ALUCARD_5810**: Ride-A-Pet Potion |
+| 06:40 | **Tota52Mota**: Fossa | **cbmelissa**: Shetland Pony White |
+| 06:40 | **arturo7pose12345**: Sunglider (FR) | **Tomas_will18**: Sunglider (R), Sunglider |
+| 06:40 | **Keith_goned**: Southeast Asia Egg | **iourvq**: Ghost (N) |
+| 06:40 | **Tr4ading_T3ss**: Peachick (MR), Spring Bunny Hood | **nevaletugo**: Snowball Pet (NR), Leopard Cat (NR), Cow Calf (NR), Eyepatch, Pirate Hat, Cutlass |
+| 06:40 | **BonesKid78**: Axolotl (N), Royal Capuchin Monkey (R), Angus Cow, Shiver Wolf | **Shyb_0y**: Pupcicle (N) |
+| 06:40 | **BonesKid78**: Ride-A-Pet Potion | **smooike**: Stray Cat Dragon ×8 |
+| 06:40 | **NovaMakeNoname**: Mini Schnauzer (MFR), Cow (FR) ×2, Peppermint Penguin (FR) | **violencesoul**: Cupid Dragon (MFR), Owlbear (R), Ride-A-Pet Potion, Mule, Ranger Beaver, Skunk |
+| 06:40 | **macarron299**: Cupid Dragon (R), Copycat, Matcha Cat | **Addo_Cit**: Unicorn Horn |
+| 06:36 | **iqitotoru**: Phoenix (NFR) | **ETM_TOPG**: Honey Badger |
+| 06:36 | **dasha0312kalash**: Sloth, Fairytale Egg | **freddyfazbearpecs**: Pudding Cat |
+| 06:36 | **wskdaks**: Cow (NFR), Cow (FR) ×2, Crocodile, Fly-A-Pet Potion | **La_boyMich15**: Crow (FR) |
+| 06:36 | **frrisstaill**: Quetzalcoatl, Alicorn ×2, Dragonfly, Ancient Dragon, Purrowl, Retired Egg ×3 | **DreamWalker_47**: Kiwi Kiwi |
+| 06:36 | **jauzyp**: Pupcicle ×4 | **Souharik_9**: Golden Lettuce, Moonbeam Butterfly (R) |
+| 06:36 | **FlyToTheSaturn**: Bandicoot ×5, Triceratops ×2, Stegosaurus ×2, Snowman, Slug, Sea Skeleton Panda, Rock Pigeon, Kirin ×2, Halloween Blue Scorpion, Halloween Black Mummy Cat ×2 | **santi57974**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
