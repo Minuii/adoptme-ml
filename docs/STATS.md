@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 04:16 UTC by the scrape workflow._
+_Updated 2026-11-15 04:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 04:16 UTC by the scrape workflow._
 | amvgg | 5 | 29,062 | 2026-11-15T04:15 |
 | elve | 5 | 6,314 | 2026-11-15T04:16 |
 
-## AMVGG completed trades: 16,957 total
+## AMVGG completed trades: 16,987 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 813 |
+| 2026-11-15 | 843 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 04:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:15 | **lili95640**: Snowball Pet (N) | **Haru15919**: Pupcicle ×2 |
-| 04:15 | **Ccoopserly**: Dalmatian (FR), Turtle (FR), Sea Turtle (M), Turkey, Ride-A-Pet Potion | **aleks2u**: Turtle (MFR) |
-| 04:15 | **nuggets0162**: Goose (FR), Jellyfish (NR), Fairy Bat Dragon (R), Unicorn (NFR), Ride-A-Pet Potion ×2 | **j2v73r**: Evil Unicorn (FR) |
-| 04:15 | **cwuurz**: Candicorn (FR), Fly-A-Pet Potion | **baby_demonakakj**: Unicorn Horn |
-| 04:15 | **7ckyy**: Pig (FR), Pig (R), Pig, Ride-A-Pet Potion | **Lextus_3**: Cow (R) |
-| 04:15 | **cheeskake13**: Chihuahua (MR) | **Monalin879**: Pupcake (MFR) |
-| 04:15 | **Elizabeth4521a**: Ghost Dog, Endangered Egg ×5, Fairytale Egg ×3, Sheepdog Ducky (M) | **NE0M3T4LS0N1C**: Pupcicle |
-| 04:15 | **Jellybeans_8789**: Candyfloss Chick (FR), Cow (FR), Sugar Glider (FR), Siamese Cat (FR), Sea Slug (R) | **no_name12345654321**: Cryptid |
-| 04:15 | **ShakeRetired**: Skelicorn ×8 | **Dodgemyhooks**: Ride-A-Pet Potion |
-| 04:15 | **Ohanlonciara**: Bald Eagle (NR), Mechapup (R) | **L_person21**: Giant Anteater (NFR) |
-| 04:15 | **0o0Username0o0**: Retired Egg ×6 | **laylayplayzroblox676**: Angus Calf ×3 |
-| 04:15 | **atracttion**: Munchkin Cat (MFR), Toaster Hat, Spring Bunny Hood | **ellielielielieee**: Haetae (FR) |
-| 04:15 | **angeIiwc**: Alpaca (FR), Alpaca (R), Munchkin Cat (NR), Tiny Wings, Cheetah | **flweersaritaa**: Alpaca (NFR) |
-| 04:15 | **wtvlanis**: Rainbow Maker | **kaylamicmi**: Chocolate Dutch Guinea Pig (M), Fairy Bat Dragon (FR), Respectful Mustache ×2 |
-| 04:15 | **Kekemin11**: Pupcicle (N) | **XiuLi1234**: Spring Bunny Hood |
+| 04:25 | **MoniquyYa**: Island Tarsier (M) | **NE0M3T4LS0N1C**: Ride-A-Pet Potion |
+| 04:25 | **CampHalfBloodCabin_6**: Pupcicle | **iixSkullsii**: Maine Coon (N) |
+| 04:25 | **laylaangel1309**: Alpaca (R) | **Yupiterd**: Fly-A-Pet Potion ×10 |
+| 04:25 | **p1nkunicornsparkles1**: Siamese Cat (MFR), Munchkin Cat (MFR) | **kaibodydump**: Cryptid (NFR) |
+| 04:25 | **kuraicoco**: Sloth (R), Ancient Dragon, Orca, Ride-A-Pet Potion | **ClxudsandRxin**: Solaris |
+| 04:25 | **Munchkinswirlll**: Pupcicle | **Mica6g3**: Ride-A-Pet Potion |
+| 04:25 | **eshkere_BPOOOO**: Midnight Dragon (R) | **Denise_Gsecond**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
+| 04:25 | **Xxgasheta_kawaiixX**: African Wild Dog (FR), Copycat (NFR), Frost Unicorn (FR) | **sweetn6thing**: Parrot (FR) |
+| 04:25 | **itskayeeee**: Aurora Fox | **ItssMeBrookie**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×3 |
+| 04:25 | **omlisage_amvgg**: Bat Dragon (FR) | **atracttion**: Owl (FR), Border Collie (MFR) ×2, African Wild Dog (FR), Cow (NFR), Fallow Deer (NFR) |
+| 04:25 | **Michae_demiurgos**: Goose | **jeni_jen02**: Corn Doggo (MFR) |
+| 04:25 | **slothfan9997**: Unicorn Horn, Bunny Swirl (M) | **jeni_jen02**: Goat (NFR) |
+| 04:25 | **arturo7pose12345**: Chihuahua | **Mar_2os**: Highland Cow |
+| 04:21 | **NummieNummiegirl**: Cow (FR) ×5, Zombie Buffalo | **Berryavenueslag**: Balloon Unicorn (FR), Cabbit (R) |
+| 04:21 | **Scar_3090**: Polar Bear (MFR) | **ii_AxrxnX**: Moose Calf (MFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
