@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 21:55 UTC by the scrape workflow._
+_Updated 2026-11-15 22:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 21:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 46,943 | 2026-11-15T21:45 |
-| elve | 5 | 10,283 | 2026-11-15T21:45 |
+| amvgg | 5 | 47,226 | 2026-11-15T22:00 |
+| elve | 5 | 10,338 | 2026-11-15T22:01 |
 
-## AMVGG completed trades: 21,641 total
+## AMVGG completed trades: 21,657 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,497 |
+| 2026-11-15 | 5,513 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 21:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:55 | **Yasmimriby**: Rainbow Maker, Fairy Bat Dragon (FR), Christmas Pudding Pup, Lion Cub (R), Aurora Fox | **Billypaco32**: Cryptid (FR) |
-| 21:55 | **v1rulence**: Chocolate Chip Bat Dragon (FR), Feesh | **r1nvafi**: Sugar Glider (FR) ×2, Giant Anteater (R), Fly-A-Pet Potion |
-| 21:55 | **Theonly_Naomi89**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×2 | **nikysha0_0kk**: Alpaca (R) |
-| 21:55 | **Beloved_s0vllz**: Jester Dragon (FR) | **Pineapple_GirlXDD**: Purrowl (M), Three Blind Mice (N) |
-| 21:55 | **ADOPTMEPETS_213**: Latte Kitsune (R) | **epotime_meta1**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 21:55 | **Diaperbunnie**: Ride-A-Pet Potion ×5, Chihuahua | **cocoabatonxx**: Mecha R4BBIT (M) |
-| 21:55 | **sr_o97**: Cupid Dragon (NFR) | **EllaComerson**: Pupcicle (MFR) |
-| 21:55 | **huufyyhvg**: Ride-A-Pet Potion ×2 | **nolosew22445**: Pupcicle ×2 |
-| 21:55 | **N0ugatt**: Mermicorn (FR), Ride-A-Pet Potion | **MaRmElaD7774**: Flamingo (FR), Matcha Cat |
-| 21:55 | **stellalovessyou**: Goldhorn (MFR), Golden Lettuce | **Robloxiana_xxx2011**: Harp Seal (MFR) |
-| 21:55 | **joofinni**: Alley Cat (MFR) | **WierdoVanilla**: Sugar Glider (FR), Lion Cub (NR) |
-| 21:55 | **jpcrack2858**: Tio De Nadal (FR) | **Stvrlene**: Flamingo |
-| 21:55 | **donnotinteract**: Alley Cat (R), Rain Hat | **T3bas1**: Ride-A-Pet Potion ×3 |
-| 21:55 | **Islaxluca**: Jester Dragon (NR), Candicorn (NFR), Candicorn (FR), Candicorn, Pancake Stack | **1ndecixs**: Jester Dragon (MFR) |
-| 21:55 | **hauntedbunnypaws**: German Shepherd (MFR), Punk Pony (M), Pupcicle, Pancake Stack, Spring Bunny Feet, Cotton Candy Hat | **BirdsAreSmarterThanU**: Harp Seal (MFR) |
+| 22:00 | **7hualian**: Fallow Deer (NFR) | **Eugenia873**: Pain au Chat (M), Pupcicle (N) |
+| 22:00 | **ApexPrime09**: Sushi Penguin (MFR), Ride-A-Pet Potion | **JxsYBe**: Turtle (FR) |
+| 22:00 | **AmberCrystalPlayz**: Flying Fairy ×4, Stray Cat Dragon ×4 | **Mmaxii16**: Ride-A-Pet Potion |
+| 22:00 | **js_elizz**: Violet Butterfly (N), Goth Shoes, Chocolate Dutch Guinea Pig | **Maddsums**: Bunny Swirl (MFR) |
+| 22:00 | **Elf_Deme**: Copycat, Koala (N), Dango Penguins | **Soobin_c4kes**: Tiny Wings |
+| 22:00 | **rotpargamer**: Great Pyrenees (MFR), Pupcicle (N) | **MelyGamerYT00**: Munchkin Cat (FR), Goldhorn (NFR), Koala (R), Pupcicle, Hamster, Skelicorn ×3, Samoyed (N), 2D Kitty, Diamond Dragon, Retired Egg ×2, Admin Abuse Egg ×5 |
+| 22:00 | **usuario_0414**: Fly-A-Pet Potion | **its_Any60**: Mecha R4BBIT (N), Red Panda Ducky (N) |
+| 22:00 | **tokyogvx**: Chihuahua ×4 | **aff6ctionnn**: Ride-A-Pet Potion ×2 |
+| 22:00 | **yogurt13162**: Cow (FR), Frost Fury (FR) | **mimiol400**: Mini Pig (FR) |
+| 22:00 | **Ruben87Yt1**: Haetyphoon | **Antolaly**: Jester Dragon, Spring Bunny Hood, Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 22:00 | **xRoseyii**: Sushi Penguin, Blue Whale | **erditiri03**: Ride-A-Pet Potion |
+| 22:00 | **Marina83899545**: Harp Seal | **erditiri03**: Ride-A-Pet Potion |
+| 22:00 | **Manekie_Nekoo**: Zombie Buffalo | **1weektoeviluni0**: Ride-A-Pet Potion ×5 |
+| 22:00 | **natsskq**: Frost Fury (R), Crocodile (FR) | **R4kert**: Kangaroo (FR) |
+| 22:00 | **dxllyluvs2**: Goose (NFR) | **fksdkeoakam**: Halo, Unicorn Horn ×2, Toaster Hat |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
