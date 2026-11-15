@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 05:25 UTC by the scrape workflow._
+_Updated 2026-11-15 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 29,974 | 2026-11-15T05:15 |
-| elve | 5 | 6,536 | 2026-11-15T05:16 |
+| amvgg | 5 | 30,234 | 2026-11-15T05:30 |
+| elve | 5 | 6,618 | 2026-11-15T05:31 |
 
-## AMVGG completed trades: 17,168 total
+## AMVGG completed trades: 17,189 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,024 |
+| 2026-11-15 | 1,045 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:25 | **tjyvvg**: Pig (FR) ×6, Pig ×4, Pig (R) | **KRWboy1030**: Blazing Lion (FR) |
-| 05:25 | **DeoKyleSonic**: Kangaroo (FR) ×2, Ride-A-Pet Potion ×2 | **odading12318**: Mini Pig (FR) |
-| 05:25 | **Onangkomang**: Paint Sealer ×4 | **RandyES233**: Retired Egg ×18 |
-| 05:20 | **thesuperkid0**: Christmas Pudding Pup, Glacier Kitsune (R), Violet Butterfly (FR), Ice Cream Hermit Crab, Field Mouse | **b_cky992011**: Candyfloss Chick (FR), Pain au Chat ×2 |
-| 05:20 | **DreamWalker_47**: Unicorn (MFR) | **Lvrsbrii**: Shiver Wolf (MFR), Peachick (M) |
-| 05:20 | **andresnotfound_43**: Ride-A-Pet Potion | **hhhauntedddd**: Winter Doe, Eggnog Hare, Ermine, Nutcracker Squirrel, Chilling Spider, Gingerbread Mouse, Ankylosaurus, Wildfire Hawk, Onza |
-| 05:20 | **1C_ON**: Burger Boots, Cupcake Sprinkle Wings | **adriel_24k**: Ride-A-Pet Potion |
-| 05:20 | **Flo_tine**: Ginger Cat (N), Rock (N) | **Aaliyahcallan1545**: Ride-A-Pet Potion |
-| 05:20 | **notLFanythingspcifi**: Jousting Horse (MFR), 2022 Birthday Confetti Cannon | **Leck_aia181**: Owlbear (MFR) |
-| 05:20 | **Fan_deJennaO**: Cow (R) | **Byeedontmindme1234**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 |
-| 05:20 | **lWeirdPhyscol**: Kangaroo (FR) | **Byeedontmindme1234**: 2022 Birthday Cupcake Shoes |
-| 05:20 | **pawthetiic**: Shetland Pony Dark Brown (FR), Shetland Pony Dark Brown (NF), Starhopper (R), Water Opossum (N) | **love_sry0**: Fly-A-Pet Potion |
-| 05:20 | **FlyToTheSaturn**: Wolpertinger ×2, Walrus, Tasmanian Tiger ×3, Stingray ×3, Robin, Mongoose, Ground Sloth ×4, Bandicoot ×2 | **melynagamer3**: Ride-A-Pet Potion |
-| 05:20 | **KatsuTatsuya**: Arctic Reindeer (FR), Owl (FR) | **hanb3ki**: Frost Dragon (FR), Fly-A-Pet Potion ×2 |
-| 05:20 | **mdz_1219**: Owl (FR), Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **mgjgmwg**: Frost Dragon (FR) |
+| 05:30 | **jiheonlover417**: Kangaroo (FR), Lynx (NFR), Skelicorn (MFR), Polar Bear, Unicorn (FR), Swan, Caramelgeist (M), Gemstone Egg | **wskdaks**: Cow (FR) |
+| 05:30 | **elfach3ro_fe0**: Motorized Sofa | **higuysitskobe**: Admin Abuse Egg ×6 |
+| 05:30 | **kwuddles**: Binturong (MFR), Pupcicle (MFR), Spring Bunny Hood | **xqsli0**: Dragonfruit Fox (MFR) |
+| 05:30 | **D_avidOrbit**: Kangaroo (R) | **AL1C3W0RLDD**: Ride-A-Pet Potion ×16 |
+| 05:30 | **Wonderwanderwoman**: Peppermint Penguin (M), Candicorn (M), Aurora Fox (M), Mechapup (M), Pirate Ghost Capuchin Monkey (M), Rose Dragon (M) | **m4rshalI**: Hedgehog (M) |
+| 05:30 | **leblancc99**: Strawberry Shortcake Bat Dragon (R), Gemstone Egg ×3 | **MLAKENF2**: Chocolate Chip Bat Dragon (FR) |
+| 05:30 | **hhhauntedddd**: Cute-A-Cabra, Zombie Chick, Woolly Mammoth, Pterodactyl, Red Fox, Seahorse, Narwhal, Indian Leopard, Ibex | **melynagamer3**: Ride-A-Pet Potion |
+| 05:30 | **ucancallmerumy_0**: Pain au Chat, Pupcake | **JohnOfTheWoods**: Bunny (NFR) |
+| 05:30 | **1luvchloeee**: Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Munchkin Cat ×2, Christmas Pudding Pup (R) | **LeedleX_X**: Dalmatian (FR) |
+| 05:30 | **hhhauntedddd**: Frankenfeline (M), Count Slothula, Undead Elk (N) ×3, Zombie Chick (N) ×2, Patchy Bear (M), Halloween White Mummy Cat (N), Scarecrow Horse (N), Slug (N), Skelicorn (N), Halloween Blue Scorpion (N), Ghost Wolf (N) ×2, Halloween Black Mummy Cat (N) ×2, Basilisk | **lowerbunny**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 |
+| 05:30 | **wenday2212**: Siamese Cat (NFR) | **iangallagher_s1**: Siamese Cat (N) |
+| 05:30 | **XxNekito_KawaiiixX2**: Munchkin Cat (MFR) | **Flaptzyy_16**: Cryptid (FR) |
+| 05:30 | **Shxlliiee**: Unicorn (MFR) | **rfc_kw**: Pupcicle (N) ×2 |
+| 05:30 | **phonky_phonkacc2**: Alpaca (FR) | **duckksoupp**: Munchkin Cat, Border Collie |
+| 05:30 | **Iluvhotcocox**: Cow (FR) | **Preppygirl0308**: Peppermint Penguin (FR), Banana Hat |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
