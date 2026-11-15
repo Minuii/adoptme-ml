@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 06:10 UTC by the scrape workflow._
+_Updated 2026-11-15 06:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 06:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 30,717 | 2026-11-15T06:00 |
-| elve | 5 | 6,721 | 2026-11-15T06:01 |
+| amvgg | 5 | 30,932 | 2026-11-15T06:15 |
+| elve | 5 | 6,770 | 2026-11-15T06:16 |
 
-## AMVGG completed trades: 17,319 total
+## AMVGG completed trades: 17,325 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,175 |
+| 2026-11-15 | 1,181 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,12 @@ _Updated 2026-11-15 06:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:15 | **BuenosDias1111**: Rainbow Maker, Rain Cloud Hat, Tiny Wings, 2022 Birthday Cake ×2, Toaster Hat, Unicorn Horn | **PityGh0ul**: Parrot (FR) |
+| 06:15 | **minsun1313**: Ride-A-Pet Potion ×9 | **tuffpose**: Pupcicle ×9 |
+| 06:15 | **Nicoleee_ily**: Snowy Mammoth (M), Peachick (N) | **etherealstarblaze**: Fly-A-Pet Potion |
+| 06:15 | **en20205**: Happy Clam (MFR), Latte Kitsune (MFR), Lion Cub | **amaialolwonder**: Strawberry Tortle (NFR) |
+| 06:15 | **lilboygonnagetrocked**: Spring Bunny Hood | **Sanki56757**: Pupcicle (N) |
+| 06:15 | **Maddsums**: Hare (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Arizonauwu1450**: Latte Kitsune (MFR) |
 | 06:10 | **Sweet_Liony**: Fly-A-Pet Potion | **ArizonaSophia**: Great Pyrenees (FR) |
 | 06:10 | **cbmelissa**: Ride-A-Pet Potion | **hhhauntedddd**: Arctic Hare (N), Angus Cow ×4, Fossa, Winter Fawn, Gorilla ×3, Samoyed (N) |
 | 06:10 | **Agnes_Tachyon20077**: Chihuahua, Sasquatch | **obvits_asianaa**: Robin ×4 |
@@ -39,12 +45,6 @@ _Updated 2026-11-15 06:10 UTC by the scrape workflow._
 | 06:10 | **R3n3_khlo3**: Chihuahua ×2 | **auixiss**: Ride-A-Pet Potion |
 | 06:10 | **ollie_lovesStars**: Harp Seal (NR), Cow (R), Fly-A-Pet Potion | **Ggggggggg44899**: Mini Pig (FR) |
 | 06:10 | **purebelly**: Gemstone Egg, Southeast Asia Egg | **jokerako28**: Ride-A-Pet Potion |
-| 06:10 | **hhhauntedddd**: Ghost Dog, Catte, Lamb, Chihuahua ×2, Diamond Unicorn, Orange Betta Fish (R), Giant Blue Scarab, General Sheepdog, Shadow Dragon Ducky, Toasty Red Panda, Canadian Goose | **Leviodas**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 06:10 | **xisaa_sr**: Ride-A-Pet Potion | **nstymy**: Pupcicle |
-| 06:10 | **Annsjdnsnjs**: Unicorn Horn, Rain Cloud Hat, Goose, Angel Wings, 2022 Birthday Cake | **XxAngelXPxXGamer**: Mini Pig (NFR) |
-| 06:06 | **Siren_AriaBlaze**: Goose, Goose (R), Strawberry Tortle, Turtle (FR), Kangaroo (FR) ×2, Spring Bunny Hood | **tspmoinc**: Parrot (FR) |
-| 06:06 | **ambersugoi**: Alley Cat (R) | **Yumi_Rose8**: Ride-A-Pet Potion ×3 |
-| 06:06 | **preppygirlyalt12**: Aviator Hat | **Mar1ia3hukova**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
