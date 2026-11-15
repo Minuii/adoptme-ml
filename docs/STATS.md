@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-15 02:40 UTC by the scrape workflow._
+_Updated 2026-11-15 02:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 11 | 2026-11-11T1036Z | 2026-11-15T0145Z |
+| elve | 12 | 2026-11-11T1036Z | 2026-11-15T0245Z |
 | amvgg | 22 | 2026-11-11T1036Z | 2026-11-14T2145Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 27,319 | 2026-11-15T02:30 |
-| elve | 5 | 5,947 | 2026-11-15T02:31 |
+| amvgg | 5 | 27,593 | 2026-11-15T02:45 |
+| elve | 5 | 5,962 | 2026-11-15T02:45 |
 
-## AMVGG completed trades: 16,647 total
+## AMVGG completed trades: 16,678 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 503 |
+| 2026-11-15 | 534 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 02:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:36 | **fartskin6**: Halloween White Ghost Dragon (FR) | **NE0M3T4LS0N1C**: Pupcicle ×6 |
-| 02:36 | **Bumble_Lou**: Pet Handler Pro Certificate | **hmm_gtw123**: Dire Wolf (M) |
-| 02:36 | **1LYELLAAXO**: Snow Monkey ×2 | **elimendoco**: Fallow Deer (R) |
-| 02:36 | **E1IN37852**: Siamese Cat (NFR), Fairy Bat Dragon (FR), Christmas Pudding Pup | **LoriDreamy123**: Cabbit (NFR) |
-| 02:36 | **gato12345129**: Rain Cloud Hat, 2022 Birthday Cupcake Shoes, Cabbit (FR), Peppermint Penguin (R), Strawberry Tortle (NR), Mini Pig (R), Spring Bunny Hood | **Graveyardpanda**: Frost Dragon (FR) |
-| 02:36 | **Tookahjey12344**: Haetae (FR), Goose (R), Goose, Munchkin Cat (N) ×2, Fairy Bat Dragon (FR), Cabbit, Siamese Cat ×3, Count Slothula (M), Toaster Hat, Spring Bunny Hood, Sweetheart Rat (M), Puptune (MFR), Chef Hat, Fly-A-Pet Potion, Siamese Cat (NR) | **Jayjaynewaccsjsjd**:  |
-| 02:36 | **elisabet14325**: Harp Seal (MFR), Spring Bunny Hood | **bbkxrby**: Moon Rabbit (MFR), 2022 Birthday Party Horn |
-| 02:36 | **Lunathecrazy_corgiz**: Parrot (R), Black Panther (R) | **M4RC0S_R0SSI2**: Haetae, Frost Unicorn (FR), Polar Bear (NR), Ice Cream Cone Hat |
-| 02:36 | **Tea_found**: Ram | **Aubrey_Prism851**: Dodo |
-| 02:36 | **Magic_1234nya**: Tanuki (N), Stray Cat Dragon ×2 | **Aslie_17**: Ride-A-Pet Potion |
-| 02:36 | **amvggaltaccount8**: Albino Monkey (FR), Ginger Cat (MR), Ladybug (MR), Pterodactyl (M), Samoyed (M), Gorilla (MFR), Bobageist (M), Rattlesnake (M) | **AutoTradeCommission**: Fairy Bat Dragon (FR) |
-| 02:36 | **minsun1313**: Fly-A-Pet Potion, Golden Griffin (R), Admin Abuse Egg ×9 | **Nastya198632**: Pupcicle ×2 |
-| 02:36 | **U_sulla**: Fairy Bat Dragon (FR), Arctic Fox (FR) | **amiazz_i**: Siamese Cat (FR), Latte Kitsune (NFR) |
-| 02:36 | **Bumble_Lou**: Pet Handler Pro Certificate | **ihaveahusxandx**: 2026 Birthday Butterfly (MFR), River Otter (M) |
-| 02:36 | **ihaveahusxandx**: Japanese Snow Fairy (M), Shih Tzu (MR) ×2 | **Bumble_Lou**: Pet Handler Pro Certificate |
+| 02:45 | **LaraIphone16e**: Princess Capuchin Monkey (R) | **toxica990066**: Ride-A-Pet Potion |
+| 02:45 | **jpcrack2858**: Jungle Egg, Farm Egg, Undead Jousting Horse, Jekyll Hydra, Christmas Egg, Albino Monkey, Kangaroo, Emperor Gorilla (FR) | **Kiandra13kiandra**: Frost Dragon (FR) |
+| 02:45 | **N0ugatt**: Arctic Dusk Dragon (FR) | **Quizzaff**: Frost Fury (FR) |
+| 02:45 | **forso_manyacc**: Frostbite Bear | **xDUSTINZx**: Royal Mistletroll (FR) |
+| 02:45 | **aleks2u**: Sea Turtle (M) | **PixiePawsTrade**: Pupcicle ×2 |
+| 02:45 | **ii_PhoenixQ**: Ride-A-Pet Potion | **tearingdoll**: Candyfloss Mega Neon Paint |
+| 02:45 | **Msmsmsmsjmsmsm8**: Winged Tiger (MFR), Irish Water Spaniel (MFR), Moose Calf (MFR), Panda (MFR) | **lotiedoll**: Strawberry Shortcake Bat Dragon (MFR) |
+| 02:45 | **ReadMyCaption4Main**: Rainbow Maker, Diamond King Penguin (MFR) | **DieeAntwoordd**: Velocirooster (MFR), Copycat, Spring Bunny Hood |
+| 02:45 | **BuenosDias1111**: Parrot (FR), Fly-A-Pet Potion ×2 | **drakocomico2**: Cow (FR) ×5 |
+| 02:45 | **XxSummerxX_0123**: Catte (M) | **GrindAccount_N1**: Candicorn (FR) |
+| 02:45 | **XxSummerxX_0123**: Stray Cat Dragon ×13 | **batton0955**: Ride-A-Pet Potion ×2 |
+| 02:45 | **XxSummerxX_0123**: Stray Cat Dragon ×7 | **4gotten_lxver2**: Ride-A-Pet Potion |
+| 02:45 | **mikasackermandesu1**: Ride-A-Pet Potion | **Islaxluca**: Vol. 2 Pets Plus Sticker Pack ×2 |
+| 02:45 | **dovestar87**: 2022 Birthday Party Hat, 2022 Birthday Party Horn | **Islaxluca**: Spinning Cat Animated Sticker, Vol. 2 Pets Plus Sticker Pack ×5 |
+| 02:45 | **bears_loveme**: Owl | **substantialnrd**: Parrot (FR), Cabbit (FR), Flaming Fox (NR), Ghost Bunny (R), Ghost Dog, Ride-A-Pet Potion ×2, Irish Elk (N), Drake |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
