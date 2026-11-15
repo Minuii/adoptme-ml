@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 01:55 UTC by the scrape workflow._
+_Updated 2026-11-15 02:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 01:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 26,545 | 2026-11-15T01:45 |
-| elve | 5 | 5,783 | 2026-11-15T01:45 |
+| amvgg | 5 | 26,818 | 2026-11-15T02:00 |
+| elve | 5 | 5,829 | 2026-11-15T02:01 |
 
-## AMVGG completed trades: 16,519 total
+## AMVGG completed trades: 16,535 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 375 |
+| 2026-11-15 | 391 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 01:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:55 | **Scar_3090**: Quokka (MFR) | **viktoriapotrivay**: Meerkat (R), Latte Kitsune (R), Ride-A-Pet Potion |
-| 01:55 | **ugishow195**: Werewolf (FR) | **miriam89300**: Copycat ×3 |
-| 01:50 | **Doro4ka0015**: Admin Abuse Egg ×17 | **looter_love**: Ride-A-Pet Potion |
-| 01:50 | **Kyrae_onatirade**: Ride-A-Pet Potion | **011FluffyTheCute**: Pupcicle |
-| 01:50 | **Vxmptomato**: African Wild Dog (FR) | **littlelizard_7**: Jester Dragon (MFR), Elephant (R), Axolotl (MFR) |
-| 01:50 | **rexy_7830**: Border Collie (MFR), Head Chef | **gdhjsbdhhsbs**: Flamingo (FR), Pirate Ghost Capuchin Monkey (MFR), Rainbow Maker |
-| 01:50 | **L_person21**: Haetae (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion, Bready Necklace | **foureverkitty**: Cryptid (R), Siamese Cat (R) |
-| 01:50 | **Pinki211212**: Stray Cat Dragon (N), Eco Brown Earth-Wizard Hat | **sisther_0674**: Stray Cat Dragon (NR) |
-| 01:50 | **rainthatxx**: Ride-A-Pet Potion ×9 | **SUPERPENGUIN0111**: Pupcicle ×9 |
-| 01:50 | **T_T10604**: Aestus (N) | **ang3lz_ab0v3**: Tiny Wings |
-| 01:50 | **0o_Cupcake**: Pupcicle ×17 | **D8RYY**: Yeti (MFR) |
-| 01:50 | **KnifeonKeys**: Field Mouse (NR) ×2 | **themilkeywayz**: Mermicorn (FR), Siamese Cat (R), Arctic Fox, Rose Dragon, Fly-A-Pet Potion |
-| 01:50 | **SugarIoIIi**: Strawberry Shortcake Bat Dragon (FR) ×2, Goose (FR), Ice Cream Cone Hat, Spring Bunny Hood, Ride-A-Pet Potion | **Rysan1234567**: Parrot (FR) |
-| 01:50 | **Brixbrielle17**: Retired Egg ×15 | **littlefelonies**: Balloon Unicorn Sticker |
-| 01:50 | **Dr9iser**: Tealwood Monster (N), Stingray (N), Blue Cat (N) ×2, Hydra | **Onuslt**: Ride-A-Pet Potion |
+| 02:00 | **puchainela77**: Jester Dragon, Bready Necklace | **miriam89300**: Jester Dragon |
+| 02:00 | **Sa1t3d_caramel**: White Sand Dollar | **miriam89300**: Boohoo ×12 |
+| 02:00 | **Quizzaff**: Fly-A-Pet Potion ×3, Count Slothula, Fairytale Egg | **ASMR_1585**: Jester Dragon |
+| 02:00 | **xxManreetxxplayz**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Ast1giboo**: Phoenix (NFR) |
+| 02:00 | **glccs_kitty**: Tiny Wings, Ride-A-Pet Potion, Pet Handler Pro Certificate | **Luvx_VXvu**: 2022 Birthday Party Horn |
+| 02:00 | **Itsserena108**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion ×4 | **clalouetciedh**: Goose (R) |
+| 02:00 | **antilucqa**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **ZunTze**: Cupid Dragon (FR) |
+| 02:00 | **RobloxIsLif3z**: Dragonfruit Fox | **tqnha**: Ride-A-Pet Potion ×2 |
+| 02:00 | **510478**: French Bulldog (MFR) | **alwyzchlqe**: Unicorn Horn |
+| 02:00 | **VICTOR_AV01**: Mechapup (MFR), Pumpkin | **madislimeg**: Evil Unicorn (FR), Mini Pig (R), Fairy Bat Dragon (FR) |
+| 02:00 | **looter_love**: Fly-A-Pet Potion ×2, Cozy Mistletroll (N) | **ana42530u**: Cozy Mistletroll (MR) |
+| 02:00 | **L_person21**: Cryptid (R), Turtle | **y2k_itadori**: Alpaca (NFR), Siamese Cat (NFR) |
+| 02:00 | **Tates1ush**: Sakura Spirit (MFR), Gaelic Fae (MFR), Mermicorn (M), Ballet Swan (MFR), Ice Cream Hermit Crab (MR), Rainbow Maker, Glacier Moth (MFR), Jellyfish (MFR), Frost Unicorn (MFR), Goat (MFR), Frost Fury (MFR), Orange Betta Fish (M) | **Horrible084**: Frost Dragon (MFR) |
+| 02:00 | **Princesskaitlynstar2**: Haetyphoon (R), Unicorn (NFR), Ride-A-Pet Potion | **kurumisbff**: Frostbite Bear |
+| 02:00 | **TANSKlN**: Giraffe (NFR), Copycat (N) | **Backup41898**: Giraffe, Mini Pig (MFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
