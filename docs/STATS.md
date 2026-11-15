@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 08:01 UTC by the scrape workflow._
+_Updated 2026-11-15 08:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 08:01 UTC by the scrape workflow._
 | amvgg | 5 | 32,637 | 2026-11-15T08:00 |
 | elve | 5 | 7,092 | 2026-11-15T08:01 |
 
-## AMVGG completed trades: 17,597 total
+## AMVGG completed trades: 17,626 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,453 |
+| 2026-11-15 | 1,482 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 08:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:55 | **mambysx**: Arctic Fox (FR), Bunny Swirl (MR), Frost Fury (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion, Count Slothula, Red Squirrel (R), King Penguin (FR), Gemstone Egg ×2, Little Lamb (N), Chick Hat | **4ssure**: Chocolate Dutch Guinea Pig (M) |
-| 07:55 | **strawberry_thea08**: Sea Turtle | **Fort_18**: Retired Egg ×3 |
-| 07:55 | **vcloss**: Fly-A-Pet Potion ×2 | **foxymoo7**: Emperor Shrimp (M) |
-| 07:55 | **wjredmind**: Cow (FR), Drake, Strawberry Penguin (R) | **booluqx**: Chihuahua (MR), Count Slothula (MFR), Water Rabbit (MR) |
-| 07:55 | **peachieskiwi**: Unicorn Horn, Spring Bunny Hood ×2 | **Sonya73p**: Moon Rabbit (MFR), Amami Rabbit (MFR) |
-| 07:55 | **mesherinmaz**: Turtle (FR), Flamingo (R) ×2, Red Squirrel (MFR), Pet Handler Pro Certificate ×2, Ride-A-Pet Potion | **Yourgrandadpullsfr**: Owlbear (MFR) |
-| 07:55 | **xSheLost**: Hawk, Winged Horse (FR), Clementine Owl, Pupcake ×2 | **komochegg**: Alley Cat (R) |
-| 07:55 | **sweetiepie07141**: Candicorn (NFR) | **kajaterezka**: Albino Monkey (NFR) |
-| 07:55 | **xXHope_notxX**: Fly-A-Pet Potion ×2, Skelicorn ×2, Stray Cat Dragon | **Polinamasha123**: Unicorn (NR) |
-| 07:55 | **ange1rbxxx_3**: Mummy Spider, Lunar Tiger, Clumpty, Jumpscare, Chanekeh ×2 | **Hazeon29**: Shetland Pony White |
-| 07:55 | **htw0127**: Tri-horned Treehopper (FR) | **Flutterieshyy**: Thunderfisher (MFR) |
-| 07:55 | **FcNikita24**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) ×2 | **ilykamrin**: Owl (FR) |
-| 07:55 | **kwertyxx5**: Christmas Pudding Pup (R) ×2, Fairy Bat Dragon (FR), Cabbit (FR), Kangaroo (R) | **Seancarlosd**: Hedgehog (FR) |
-| 07:55 | **Tanas_4567**: Amami Rabbit, Christmas Pudding Pup | **Flaptzyy_16**: Copycat |
-| 07:55 | **tunyaooi**: Ride-A-Pet Potion | **VarvaraVerlan3**: Kitty Bat, Tealwood Monster |
+| 08:10 | **HEARTS4_MELAINE**: Unicorn Horn | **Sonya73p**: Toaster Hat, Tiny Wings |
+| 08:10 | **Fbrleey**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **fizclodd**: Merry Mistletroll (MR) |
+| 08:10 | **m4rshalI**: Alpaca (M) | **itzlexi63737**: Alpaca (MFR), Pancake Stack, Ride-A-Pet Potion, Unicorn Horn |
+| 08:10 | **goshaFreak1**: Happy Duckling, Mrs. Whiskerpips (N), Cow Calf, Purple & Green Beads | **Abvisse**: Pupcicle |
+| 08:10 | **yyeeeezyy**: Spring Bunny Hood ×2 | **sztamcia**: Pupcicle (N) ×2 |
+| 08:10 | **DragonjJDusta107130**: Kangaroo (R), Ride-A-Pet Potion ×2 | **Elpepeexd2134**: Copycat ×3 |
+| 08:10 | **Pillkysilk**: T-Rex (N), Ride-A-Pet Potion | **Elpepeexd2134**: Dragonfruit Fox ×2 |
+| 08:10 | **AlphaTaToxicv1047**: Ride-A-Pet Potion | **strawqbwerie**: Praying Mantis (N) |
+| 08:10 | **Rosalita4850**: Gecko Ducky (M), Glyptodon Ducky ×10, Ribbon Seal ×5, Starfish, Black Rhino | **Kittycatlll49**: Ride-A-Pet Potion |
+| 08:10 | **gbhdnnv090**: Evil Unicorn (FR), Siamese Cat (FR) | **Lerkooo_111**: Haetae (FR) |
+| 08:10 | **yusokini25**: Chocolate Chip Bat Dragon (FR) | **AMYSV1B3X0**: Choco Penguin (M), Golden Jaguar (M), Gecko (MR), Happy Duckling (M), Koi Carp (M), Tasmanian Devil (M), Cute-A-Cabra (M), Tanuki (M), Chick (MR), Strawberry Shortcake Bow ×2 |
+| 08:10 | **Catzini_1**: Frostbite Bear (N), Candicorn (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Keito_149**: Haetae (FR) |
+| 08:10 | **fayesweet13**: Cryptid (FR) | **nastaxyilox**: Frost Unicorn (FR), Turtle (FR), Candicorn, Copycat (R), Copycat, Aurora Fox (R), Jester Dragon (FR), Unicorn Horn, Ride-A-Pet Potion ×3 |
+| 08:10 | **joustin_89224**: Shooting Star Board | **Anastasika_agent**: Polar Bear (FR) |
+| 08:10 | **w4nd3ringG0d**: Frostbite Bear (R) | **Smookgans**: Pig (FR), Unicorn (FR), Llama (R), Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×3, Unicorn (NR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
