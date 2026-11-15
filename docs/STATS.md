@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 23:16 UTC by the scrape workflow._
+_Updated 2026-11-15 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 23:16 UTC by the scrape workflow._
 | amvgg | 5 | 48,521 | 2026-11-15T23:15 |
 | elve | 5 | 10,609 | 2026-11-15T23:16 |
 
-## AMVGG completed trades: 21,967 total
+## AMVGG completed trades: 21,984 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,823 |
+| 2026-11-15 | 5,840 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 23:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **myadoptmeaccount48**: Albino Bat (NF) | **mxzerii**: Fly-A-Pet Potion |
-| 23:15 | **lisaamvgg17**: Zodiac Minion Chick | **Exleer**: Retired Egg ×9 |
-| 23:15 | **WintErSnowy1**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Kayorilate**: Snowball Pet (N) ×2 |
-| 23:15 | **cutezxnat**: Munchkin Cat (MFR) | **q_culvs**: Count Slothula (MR), White Amazon (MR), Seabed Creeper (MR), Sunrise Duckling (MR), Maneki-Neko (MR), Mecha Meow (MR), Ranger Beaver (MR), Great Pyrenees (MR), Eggnog Dog (MFR) |
-| 23:15 | **RollyTroncuePapy**: Ride-A-Pet Potion | **Bobbyhuddy6**: Pupcicle |
-| 23:15 | **xxjohnjokexx**: Frost Dragon (FR), Parrot (FR), Mini Pig (R), Turtle (R), Fly-A-Pet Potion ×2 | **00099hh1**: Owl (NFR) |
-| 23:15 | **Shark_MAYSHA**: Cabbit (FR), Goose (FR) | **v1rulence**: Strawberry Shortcake Bat Dragon (FR) |
-| 23:15 | **donnotinteract**: Alley Cat ×3 | **GpaSntsaisquoi**: Spring Bunny Hood, Spring Bunny Nose |
-| 23:15 | **minilina_01**: Arctic Reindeer (R), Turtle (R), Angus Cow (MR), Snow Leopard (MR) | **Trumba95**: Hedgehog (FR) |
-| 23:15 | **Altaccountamvgg1**: Copycat, Admin Abuse Egg ×4 | **Ribi620**: Christmas Pudding Pup, Ride-A-Pet Potion ×2 |
-| 23:15 | **pranavsen**: Frost Dragon (FR), Cow (FR) | **777CaptainBob777**: Crow (FR) ×2 |
-| 23:15 | **xMoon_289**: Ride-A-Pet Potion, Love Letter | **Si1ver13**: Zombie Chick (N), Mistletroll (N) |
-| 23:15 | **2M1K0**: Rainbow Maker | **LilBabyUni1**: Ranger Beaver (MR), Burger Bear (M), Happy Duckling (MR), Sweetheart Rat (MR), Red Fox (MR), Unicorn Horn |
-| 23:15 | **LaraIphone16e**: Bunny ×2 | **xXsoraXxrobloxXx**: Little Lamb |
-| 23:15 | **bell_flowers**: Mushroom Friend (N) | **kraitoesp17**: Ride-A-Pet Potion ×2 |
+| 23:25 | **Kawaiicookie_87**: Spring Bunny Hood, Cotton Candy Hat, Rain Hat | **Foodie_Caat**: Harp Seal (NR) |
+| 23:25 | **Aownzis**: Fly-A-Pet Potion ×3 | **cat6queen**: Peacock (NFR) |
+| 23:25 | **ameyyass**: Pupcicle, Fairytale Egg | **MckDull**: Ride-A-Pet Potion |
+| 23:25 | **XxkfirxbushxX**: Goose (R), Sugar Glider (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Dutch Guinea Pig, Dango Penguins | **MEGAWARRIOR254**: Alley Cat (MFR), Majestic Pony (MFR), Puffer Fish (MFR), Space Whale (MFR) |
+| 23:25 | **Sillyseal_026**: Tiny Wings, Spring Bunny Hood, Spring Bunny Nose, Fly-A-Pet Potion, Ride-A-Pet Potion | **princessunipanda76**: Unicorn Horn |
+| 23:25 | **Manekie_Nekoo**: Pudding Cat (M) | **Drikah777**: Ride-A-Pet Potion ×6 |
+| 23:25 | **Yasaas13**: Spring Bunny Feet, French Fries Stroller, Reindeer Stroller | **chraleiz**: Heart Potion |
+| 23:25 | **booseoks0on**: Retired Egg ×18 | **Levi_Planter**: Pupcake |
+| 23:25 | **DirectorRobby**: Peppermint Penguin (MFR), Chocolate Chip Bat Dragon (MFR), 2022 Birthday Cake, 2022 Birthday Cupcake Shoes, 2022 Birthday Party Horn, Tiny Wings ×2 | **DianaSw12x**: Cryptid (MFR) |
+| 23:25 | **nykolasab27**: Frostbite Bear (MFR) ×2 | **DirectorRobby**: Cryptid (MFR) |
+| 23:25 | **hihellohihello6788**: Frog (MR), Ranger Beaver (MFR), Glyptodon (MR), Elasmosaurus (MR) | **nao0ya7**: Cabbit (FR) |
+| 23:25 | **trecnor**: Strawberry Penguin, Ride-A-Pet Potion, Pet Handler Pro Certificate, Golden Lettuce | **milanakim12**: 2022 Birthday Party Horn |
+| 23:25 | **luiscae3**: Ghost Dog (MR), Jester Dragon (FR), Silverback Gorilla (R) | **talamantes100**: Zombie Wolf (MFR) |
+| 23:25 | **Lxdyxx**: Bat Wings, Unfortunate Eyelashes, Love Letter, Ruff, Heart Bow, Snowy Mammoth (M), Bewitched Hat | **Lucie_Dreemurr2**: Spring Bunny Hood |
+| 23:25 | **trecnor**: Mini Pig (R), Ride-A-Pet Potion | **SadiSadie3**: Siamese Cat (FR), Candicorn (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
