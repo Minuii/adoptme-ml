@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 03:40 UTC by the scrape workflow._
+_Updated 2026-11-15 03:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 03:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 28,348 | 2026-11-15T03:30 |
-| elve | 5 | 6,174 | 2026-11-15T03:31 |
+| amvgg | 5 | 28,589 | 2026-11-15T03:45 |
+| elve | 5 | 6,189 | 2026-11-15T03:45 |
 
-## AMVGG completed trades: 16,828 total
+## AMVGG completed trades: 16,845 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 684 |
+| 2026-11-15 | 701 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 03:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:36 | **Kit_sune15432**: Snow Monkey (MR), Tuxedo Cat (MFR), Unicorn Horn ×2, Tiny Wings, Border Collie | **Yourgrandadpullsfr**: Haetae (FR) |
-| 03:36 | **drapionplayer193**: Goose (FR), Ride-A-Pet Potion ×2, Lamb, Ram | **pmpjmg1**: Mini Pig (FR) |
-| 03:36 | **SerenaWolfWarrior**: Alpaca, Bush Elephant (R), Unicorn Horn, Rain Cloud Hat, Dragonfruit Fox (NFR) | **PugpunterZev**: Alpaca (NFR) |
-| 03:36 | **ItsMe_JuneSigh**: Ghost Bunny (NR) | **0428qaz**: Arctic Dusk Dragon |
-| 03:36 | **blushbyelle**: Balloon Unicorn (FR), Chocolate Chip Bat Dragon (NFR), Cabbit (R), Pupcicle (M) | **Berryavenueslag**: Cabbit (MFR) |
-| 03:36 | **Galapogus7**: Copycat (NFR), Candicorn | **roblox_user_1255444678**: Cow (FR), Tiny Wings |
-| 03:36 | **Nicoleee_ily**: Rhino | **Angel_7565Audrey**: Ride-A-Pet Potion |
-| 03:36 | **Princenezha23**: Crow (FR) | **hii_itsari3**: Siamese Cat (M) |
-| 03:36 | **xX666Xx12345678910**: Ride-A-Pet Potion ×3 | **Slughteer**: Platypus |
-| 03:36 | **MaxxieThePuppy**: Kangaroo (NFR), Snowball Pet (MFR), Jellyfish (FR), Pudding Cat (M), Glyptodon (M) | **BaconetteNoobs**: Cow (NFR) |
-| 03:36 | **anglelord900**: Lunar Tiger (N) | **1_j0c3lynxx**: Skelicorn ×3 |
-| 03:36 | **diankss334**: Turtle (FR), Turtle (F) | **CredibleEmaballerina**: Turtle (NFR) |
-| 03:36 | **notreal_angelazz**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×9 | **Justin2Play**: Candicorn (FR) |
-| 03:36 | **Bxnny0z**: Count Slothula, 2022 Birthday 5 Badge | **dorathe850**: Pupcicle |
-| 03:30 | **GAMER_HAIFA**: Jester Dragon, Glormy Dolphin | **Nevaeh_ina**: Copycat |
+| 03:45 | **gigAntiC_annA**: Emberlight, Royal Palace Spaniel, Little Lamb ×2, Bloodhound, Clover Cow, Seagull, Red Panda, Shetland Pony White, Onza, Grave Owl, Brown-Chested Pheasant, Clownfish, Pine Marten, Halloween White Skeleton Dog, Scarlet Butterfly, Preppy Capuchin Monkey, Icy Porcupine | **dorathe850**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 03:45 | **bashkyr0**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×12 | **ALV4RYTO**: Turtle (FR) |
+| 03:45 | **pinkxmascookie**: Pig (NFR), Shark Puppy | **hi8186571**: Fairy Bat Dragon (FR) |
+| 03:45 | **1UnRandomPromedio**: Purrowl ×6, Ancient Dragon, Three Blind Mice | **hamster_lili123**: Ride-A-Pet Potion |
+| 03:45 | **Mackenzie181818**: Soccer Stadium | **1Sxphii1**: Royal Palace Spaniel (N) |
+| 03:45 | **neowcotine**: Puptune (MFR) | **narwhalslov**: Copycat |
+| 03:45 | **ILikePenguins94**: Haetae (NFR), Strawberry Tortle (NFR), Cow (FR), Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Christmas Pudding Pup (NR), Pelican, Capybara (MFR), Wood Pigeon (MFR) | **PrismaticRio**: Giraffe (NFR) |
+| 03:45 | **xcherryxblossomx129**: Christmas Pudding Pup (R) | **Sasha_6813**: Ice Cream Cone Hat |
+| 03:45 | **pinponkgoku2**: Grim Dragon (FR) | **roserte4**: Jester Dragon (NFR) |
+| 03:45 | **Pulseq3Void63Echo174**: Chameleon ×6 | **mellerinero2**: Fly-A-Pet Potion ×2 |
+| 03:45 | **xxxAubreexxx123**: Copycat ×2 | **aikyuurei**: Crocodile (FR) |
+| 03:45 | **tonyyy133378**: Munchkin Cat (MFR), Fairy Bat Dragon (NFR), Candicorn (NFR), Peppermint Penguin, Lion Cub (R) | **Jana_ashtetic**: Frost Dragon (FR) |
+| 03:45 | **AvokadoJFKfanat**: Owl (FR), Burger Boots | **galaxygurl123yay**: Border Collie (MFR) |
+| 03:45 | **K1MM007**: Canadian Goose (MR), Ranger Beaver (MR) | **ihitmyheadonwalls2**: Pupcicle (MFR) |
+| 03:45 | **natfrmct**: Great Pyrenees, Pain au Chat | **itsByte_hunter73**: Pupcicle |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
