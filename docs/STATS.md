@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 11:31 UTC by the scrape workflow._
+_Updated 2026-11-15 11:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 11:31 UTC by the scrape workflow._
 | amvgg | 5 | 36,167 | 2026-11-15T11:30 |
 | elve | 5 | 7,852 | 2026-11-15T11:31 |
 
-## AMVGG completed trades: 18,351 total
+## AMVGG completed trades: 18,374 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,207 |
+| 2026-11-15 | 2,230 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 11:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:30 | **cotrot14**: Ghostly Cat, Ghost Chick, Patchy Bear (N), Slug, Ghost, Ghost Wolf, Corgi ×2, Little Lamb, Parakeet, Patterns Egg ×2 | **Shehatesme420**: Ride-A-Pet Potion |
-| 11:30 | **lovelyaalyah972**: Matcha Cat | **hdveel66**: Jester Dragon |
-| 11:30 | **Youdi_off**: Cow (FR) | **NastyaCat_Play2**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 |
-| 11:30 | **rhgkehgw**: Black Tiger (M), 2026 Birthday Butterfly (M) | **adoptDog666**: Unfortunate Eyelashes, Icy Porcupine (N) ×2 |
-| 11:30 | **OBV1IRISS**: Dalmatian (R) | **66mint_99**: Sugar Glider (NFR) |
-| 11:30 | **RosuMeIi**: Fly-A-Pet Potion | **EvelynUwU255sfk**: Elf Hat |
-| 11:30 | **federicospzgamesyt**: Albino Monkey (NFR), Peppermint Penguin (FR), Dragonfruit Fox (R), Dango Penguins | **OBV1IRISS**: Dalmatian (FR) |
-| 11:30 | **leonbravlstars228**: Sugar Glider (NFR), Crocodile (R) | **leruval**: Hedgehog (FR) |
-| 11:30 | **Esikiiomuru**: Ride-A-Pet Potion | **lashasha_123**: Pupcicle |
-| 11:30 | **Stary_night1675**: Many Mackerel (R), Jester Dragon, Chocolate Dutch Guinea Pig, Ram, Golden Jaguar, Bunny Swirl, Chihuahua, Pupcake, Flower Power Duckling, Happy Duckling, Castle Hermit Crab, Bee (R), Royal Palace Spaniel, Koala, Pink Betta Fish, Sprout Snail, Elasmosaurus, Red Dutch Guinea Pig (R) | **rotpargamer**: Siamese Cat |
-| 11:30 | **itz_Dizz01**: Toucan | **ezgizemfan23**: Retired Egg ×2 |
-| 11:30 | **Zxuxzrt**: Frost Dragon (FR), Haetae (FR) | **cydo0206**: Mini Pig (MFR) |
-| 11:30 | **Lost_Cvpid**: Owl (FR), Hedgehog, Mr. Whiskerpips (MR) | **sleepy_s0ren**: Goose (MFR) |
-| 11:30 | **teddycutie7**: Scarebear (NR), Clam Wings | **KimikoYuka**: Mochi Meow (MFR) |
-| 11:30 | **Imaxingsx**: Alicorn ×18 | **Mr_iziponik**: Fly-A-Pet Potion |
+| 11:36 | **PK87138**: Catte | **shabsiscute**: Ride-A-Pet Potion |
+| 11:36 | **2thadeath**: Field Mouse (NFR), Field Mouse (NR) | **DtiHelper8**: Field Mouse (N) ×2, Ride-A-Pet Potion |
+| 11:36 | **MHE_PL0XO00**: Ride-A-Pet Potion ×2 | **pktpnn**: Pupcicle ×2 |
+| 11:36 | **Enxisl**: Count Slothula | **luninh512**: Pain au Chat ×2 |
+| 11:36 | **luni1234990567**: Fairytale Egg, Retired Egg ×8 | **DinnieLildina**: Cherry Blossom Flower Sticker ×3 |
+| 11:36 | **Summer_pookie11**: Christmas Pudding Pup (NFR) | **yusokini25**: Sugar Glider (R) |
+| 11:36 | **pshiajara**: Burger Bear, Fire Foal, Ginger Cat, Retired Egg, Red Panda | **011FluffyTheCute**: Pupcicle |
+| 11:36 | **Zizzy2206**: Fire Stallion ×2, Fire Mare, Zodiac Minion Chick, Peahen, Maneki-Neko | **Djdjyehsk**: Ride-A-Pet Potion ×2 |
+| 11:36 | **maha_kohka56**: Owl (FR), Arctic Reindeer (FR), Cow (FR), Mule (MFR), 2022 Birthday Cake, Puffer Fish (MFR), Alley Cat (NR), Fly-A-Pet Potion, Dragonfruit Fox | **FiresMiress**: Giraffe (FR) |
+| 11:36 | **AseesCr7GoesBoom**: Owl (NFR) | **RuthJavxn**: Frost Dragon (NFR), Turtle (FR) |
+| 11:36 | **vrslztx0**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Urfavorite1225**: Bunny Swirl (N), Maine Coon (N) |
+| 11:36 | **PK87138**: T-Rex (NFR) | **sonechkarrr3**: Ride-A-Pet Potion ×5 |
+| 11:36 | **Ruben87Yt1**: Mermicorn (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion, Milk Choccybunny (M), Mexican Wolf (M), Chocolate Chip Bat Dragon Backpack, Squid | **Gglrd0**: Royal Mistletroll (NFR) |
+| 11:36 | **raraa_cute61**: Cupid Dragon (R), Kangaroo (FR), Jester Dragon (FR), Harp Seal, Ride-A-Pet Potion | **yanchik0067**: Goose (FR) |
+| 11:36 | **wskdaks**: Turtle (NFR) | **kkaatEEe2**: Ice Cream Hermit Crab (MFR), Fly-A-Pet Potion ×2, Dragonfruit Fox (R) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
