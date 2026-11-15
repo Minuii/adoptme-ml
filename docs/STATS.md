@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 22:45 UTC by the scrape workflow._
+_Updated 2026-11-15 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 22:45 UTC by the scrape workflow._
 | amvgg | 5 | 48,016 | 2026-11-15T22:45 |
 | elve | 5 | 10,483 | 2026-11-15T22:45 |
 
-## AMVGG completed trades: 21,844 total
+## AMVGG completed trades: 21,867 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,700 |
+| 2026-11-15 | 5,723 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 22:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **Assewsslila**: Hedgehog (NFR), Unicorn Backpack, Ride-A-Pet Potion ×16 | **TwistedK1tty**: Frost Dragon (FR) |
-| 22:45 | **Lovley_000**: Space Whale | **Z4Z4LORD**: Halloween White Skull Hat |
-| 22:45 | **tom2mcg**: Shrew (MFR) ×5 | **Broncurrydurant1234**: Strawberry Shortcake Bat Dragon (MFR) |
-| 22:45 | **MaxxieThePuppy**: Chocolate Chip Bat Dragon (R), Pig (FR) | **mgjgmwg**: Arctic Reindeer (FR) |
-| 22:45 | **camcc255**: Owl (FR) | **FastPrincessBrooklyn**: Evil Unicorn (NFR), Ram (NR), Bush Elephant (FR) |
-| 22:45 | **natfrmct**: Pupcicle | **Rootviles**: Zombie Wolf |
-| 22:45 | **PugpunterZev**: Unicorn Horn, Chocolate Dutch Guinea Pig (N), Chocolate Dutch Guinea Pig | **Shini_lli**: Chocolate Dutch Guinea Pig (MFR) |
-| 22:45 | **m3lbbee**: Fly-A-Pet Potion ×4, Copycat (FR), Ride-A-Pet Potion ×7, Unicorn, Purrowl ×2, Stray Cat Dragon | **arseniylolol**: Turtle (FR) |
-| 22:45 | **Sharkpuppytofrost**: Ride-A-Pet Potion ×6 | **pr3tty_sakuraax**: Copycat |
-| 22:45 | **noelleroan234**: Fly-A-Pet Potion | **arseniylolol**: Pet Handler Pro Certificate |
-| 22:45 | **arseniylolol**: Stray Cat Dragon (M) | **SUPERPENGUIN0111**: Ride-A-Pet Potion ×2 |
-| 22:45 | **NNuWiIxxX_14**: Werewolf (FR), Witch Hat | **hy4kkii**: Ballet Swan (NFR) |
-| 22:45 | **HazelSeal590490**: Owl (FR), Cryptid (FR) ×3, Shark Puppy (FR), Cattuccino (M), Chocolate Dutch Guinea Pig ×3, Tiny Wings, Pancake Stack, Spring Bunny Feet, Bready Necklace ×3 | **voppdd**: Shadow Dragon (FR) |
-| 22:45 | **katnitlovesherself**: Bunny Swirl (M), Rock Pigeon (MR), Propeller Hat, Jeff's Nametag ×2, Burger Boots ×3, Thinking Hat, Butter Knife | **imapanboy**: Harp Seal (M) |
-| 22:45 | **Miner_Beast34**: Fly-A-Pet Potion ×2 | **pawsicfl**: Pupcicle ×4 |
+| 22:55 | **qzeifnx_1**: Stray Cat Dragon ×3 | **lakawaii800uwu**: Kitty Bat |
+| 22:55 | **XxGrace_StormxX54**: Icy Porcupine (M) | **hugsformy_sisfinjaa**: Pink Cat Ear Headphones |
+| 22:55 | **rainthatxx**: Blazing Lion (NFR), Arctic Reindeer (FR), Jester Dragon | **MartinZegatti**: Frost Dragon (FR) ×2 |
+| 22:55 | **pavonaco**: Frost Dragon (NFR), Frost Dragon (FR) ×3, Lion (NFR) | **MartinZegatti**: Frost Dragon (MFR) |
+| 22:55 | **MartinZegatti**: Werewolf (MFR), Nautilus (MFR), Toasty Red Panda (MFR) | **funmoster2019**: Goat (MFR), Ring-Tailed Lemur (MFR) |
+| 22:55 | **rilaxlly**: Diamond Griffin (MFR) | **CalsoyTerminal**: Spring Bunny Hood |
+| 22:55 | **KINGST0NZ**: Undead Jousting Horse (NFR), Fairy Bat Dragon (F), Tiny Wings | **Jen_ystar**: Werewolf (MFR) |
+| 22:55 | **Millka666000**: Pancake Stack | **Kinley311yy**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 22:50 | **vlados_krash**: Kitty Bat (M) | **FemboyMaxer**: Fly-A-Pet Potion ×5 |
+| 22:50 | **Dazzzle_1**: Woodpecker (N), Abyssinian Cat (N), Zebra (N) ×2, Gold Mahi Mahi, Robot, Bolt, Jumpscare, Dragonfly | **chunlihasora**: Ride-A-Pet Potion |
+| 22:50 | **electrolytia**: Candicorn (MFR), Elephant, Pink Betta Fish (N) | **roblox_user_4982259842**: Siamese Cat (MFR) |
+| 22:50 | **Elwanizk**: Pupcicle, Unicorn | **MckDull**: Ride-A-Pet Potion ×2 |
+| 22:50 | **z4ni_X**: Crow (FR), Cerberus (MFR), Cow (NFR), Phoenix (MFR) | **toxicdude32546**: Frost Dragon (FR) |
+| 22:50 | **Rainbowunicorn5303**: Frost Dragon (FR), Cabbit (R), 2022 Birthday Party Hat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **toxicdude32546**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) ×2 |
+| 22:50 | **OL1YSGL4M**: Evil Unicorn (FR), Ballet Swan (MFR) | **roblox_user_8676283275**: Evil Unicorn (NFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
