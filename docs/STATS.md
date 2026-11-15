@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 14:10 UTC by the scrape workflow._
+_Updated 2026-11-15 14:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 14:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 38,750 | 2026-11-15T14:00 |
-| elve | 5 | 8,453 | 2026-11-15T14:01 |
+| amvgg | 5 | 38,998 | 2026-11-15T14:15 |
+| elve | 5 | 8,508 | 2026-11-15T14:16 |
 
-## AMVGG completed trades: 19,136 total
+## AMVGG completed trades: 19,160 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,992 |
+| 2026-11-15 | 3,016 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 14:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:10 | **Maryha0243**: Frost Fury (NFR) | **shinobukoX3**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
-| 14:10 | **Moticia20**: Kangaroo (NFR) | **Lola_ant34**: Red Fox (M), Coyote (MR), Snow Leopard (M), Space Whale (MFR), Chick (MFR), Black Moon Bear (MFR), Dugong (M), Ride-A-Pet Potion ×3 |
-| 14:10 | **rxy3e**: Parrot (FR), Arctic Reindeer (FR), Cow (FR), Ride-A-Pet Potion ×2 | **Monetachka38**: Frost Dragon (FR) |
-| 14:10 | **lina200r**: Fairy Bat Dragon (FR), Alpaca (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×8 | **fightergaming11**: Chocolate Chip Bat Dragon (FR) |
-| 14:10 | **JenYAsha2akk12**: Ride-A-Pet Potion ×17, Gemstone Egg | **akeks_74**: Kangaroo (FR) |
-| 14:10 | **anekalubitnaruto**: Pupcicle | **alhida040**: Unicorn |
-| 14:10 | **geBochka_bega3**: Border Collie (FR) | **JoeyPlaysYt19**: Candicorn (FR) |
-| 14:10 | **UnU_Darina1**: Paint Sealer ×14 | **Airysterin**: Ride-A-Pet Potion |
-| 14:10 | **hgjigkb**: Owl (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **Inclemnc**: Evil Unicorn (NFR), Sugar Glider (R) |
-| 14:10 | **aLiEnGiRl_e**: Peppermint Penguin (FR) | **somebody_Xfife**: Cow (FR) |
-| 14:10 | **D_Smp404**: Candicorn (FR) | **Hales_Elise**: Bush Elephant (FR) |
-| 14:10 | **Murder_misery245**: Turtle (FR), Sugar Glider (R), Candyfloss Chick (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **Ernozil**: Cabbit (NFR) |
-| 14:10 | **Urpookie_Ria**: Unicorn Horn | **adam12345c10**: Tiny Wings ×2 |
-| 14:10 | **Klaysi_flayra**: Endangered Egg ×2, Fairytale Egg ×2, Ladybug, Little Lamb, Lunar Ox, Pomeranian, Unicorn Ducky, Australian Kelpie, Kelp Raider, Ibis, Ice Cube, Merhorse, Shiver Wolf | **Adore_Pandaz**: Ride-A-Pet Potion |
-| 14:10 | **niceshat1234**: Jester Dragon | **tvmi9**: Glormy Leo (R) |
+| 14:15 | **UnU_Darina1**: Paint Sealer ×14 | **Airysterin**: Ride-A-Pet Potion |
+| 14:15 | **Lilly_Pops1**: Goose (FR), Pretty Pony (M), Amami Rabbit (MFR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Spring Bunny Nose | **rosekitten321**: Strawberry Shortcake Bat Dragon (FR) |
+| 14:15 | **livlivlivliv1234liv**: Ride-A-Pet Potion | **aubsyisawesome**: Gingerbread Reindeer (N) |
+| 14:15 | **rzsxveq**: Cow (FR) ×2, Candicorn (R), Jester Dragon | **Vitek_228666**: Hedgehog (R) |
+| 14:15 | **aestethic_serbia**: White Choccybunny (M), Hopbop (M), Galapagos Sea Lion (M) | **rasediva**: Fly-A-Pet Potion |
+| 14:15 | **CadenChallenges**: Swan (MFR) | **B1nnie2**: Cow |
+| 14:15 | **eeveelover2007lover**: Dango Penguins | **Alexa_76011**: Harp Seal |
+| 14:15 | **kkaatEEe2**: Cabbit (FR), Kangaroo (FR), Penguin (NR) | **pandirk**: Turtle (NFR) |
+| 14:15 | **LunaAqua5849**: Goat (MFR) | **D8RYY**: Hare (MFR), White Sand Dollar (MFR), Guardian Lion (MFR), Bunny Swirl (MFR), Fly-A-Pet Potion |
+| 14:15 | **vincelft0**: Sugar Glider (FR) | **Klee_love333**: Kangaroo, Dragonfruit Fox (N), Ride-A-Pet Potion |
+| 14:15 | **SERDDFS1**: Scarecrow Cat ×4 | **Abvisse**: Ride-A-Pet Potion |
+| 14:15 | **neforeno4ek666**: Ride-A-Pet Potion ×17 | **indirkraljgotban**: Kangaroo (FR) |
+| 14:15 | **soulnesy**: Cow (FR) | **Ex_crime**: Aestus (NFR) ×2, Aestus (NR) |
+| 14:15 | **tearingdoll**: Rose Quartz Glow Mega Neon Paint, Ride-A-Pet Potion | **klown_karr**: Pet Handler Pro Certificate |
+| 14:15 | **soliwis2**: Unicorn ×2 | **klown_karr**: Tealwood Monster (MR), Bobageist ×7, Skelicorn |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
