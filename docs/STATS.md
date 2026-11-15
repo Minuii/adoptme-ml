@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 12:40 UTC by the scrape workflow._
+_Updated 2026-11-15 12:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 12:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 37,217 | 2026-11-15T12:30 |
-| elve | 5 | 8,114 | 2026-11-15T12:31 |
+| amvgg | 5 | 37,477 | 2026-11-15T12:45 |
+| elve | 5 | 8,145 | 2026-11-15T12:45 |
 
-## AMVGG completed trades: 18,687 total
+## AMVGG completed trades: 18,702 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,543 |
+| 2026-11-15 | 2,558 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 12:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:40 | **Artem_21a2**: Kangaroo (NFR) | **nuggets0162**: Kangaroo (FR), Kangaroo (R) |
-| 12:40 | **Artem_21a2**: Pupcicle (N) ×2 | **danana0415**: Ride-A-Pet Potion ×2, Sakura Spirit (FR) |
-| 12:40 | **Sofia_Dyra05**: Copycat (FR) | **LaLas_2009**: Arctic Fox (R) |
-| 12:40 | **vikatopchik_00**: Arctic Reindeer (NFR), Kangaroo (FR), Easter Bunny, Diamond Griffin, Purrowl | **CAXAPOK_PX8**: Crow (FR) |
-| 12:40 | **vcloss**: Pink Betta Fish (MFR), Halloween Evil Dachshund (MR), Shadow Dragon Ducky (M), Mirai Moth (MR), Ghostly Cat (MR) | **iiSimplyYool**: Leopard Shark (M) |
-| 12:40 | **Ixberr2256**: Octopus (R) | **Fidelia2131415**: Ride-A-Pet Potion |
-| 12:40 | **Vxmptomato**: Kitty Bat (M), Elephant (R), Kangaroo (FR), Fly-A-Pet Potion, Kitty Biscuit | **NiceDoggyMona**: Aestus (MFR) |
-| 12:36 | **kylegeian**: Ride-A-Pet Potion ×7 | **newixs1**: Copycat |
-| 12:36 | **Alliexxzc**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **zvmbby**: French Bulldog (N) |
-| 12:36 | **Alliexxzc**: Ride-A-Pet Potion | **AnnDemon_12**: Sushi Penguin |
-| 12:36 | **chesnock204**: Peppermint Penguin (FR), Peppermint Penguin (R), Fairy Bat Dragon (FR), Munchkin Cat, Burger Bear (N) ×2, Ride-A-Pet Potion ×4 | **LIAXMLV**: Munchkin Cat (MFR) |
-| 12:36 | **Katya_1922**: Caramelgeist (M), Rubber Ducky (M) | **lera5132**: Ride-A-Pet Potion |
-| 12:36 | **Lili58320**: Temple Friend, Winter Buck, Zodiac Minion Chick ×2 | **elenapsina666**: Ride-A-Pet Potion |
-| 12:36 | **irvan34154**: Jester Dragon (MFR), Werewolf, Unicorn Backpack, Fly-A-Pet Potion | **sugarsaltacc2_0**: Blazing Lion (FR) |
-| 12:36 | **epicpulsechaos2024**: Crystal Egg ×11 | **rxberta_01**: Ride-A-Pet Potion |
+| 12:45 | **leailsake**: Flaming Fox (NR), Capricorn (NFR), Goldhorn (NR), Choco Penguin (MR), Great Pyrenees (NR), Happy Duckling (NR) | **Eceuni**: Fairy Bat Dragon (FR) |
+| 12:45 | **XxkfirxbushxX**: Chocolate Chip Bat Dragon (FR) ×4 | **tjyvvg**: Owl (FR), Tree Kangaroo (MFR), Fly-A-Pet Potion |
+| 12:45 | **green2014h**: Sakura Spirit (FR), Phantom Dragon (FR), Phantom Dragon (R), Sugar Axolotl (R), Ride-A-Pet Potion ×2 | **Fox_q2281**: Strawberry Tortle (FR) |
+| 12:45 | **UniversePaladin**: Count Slothula ×2 | **caroesel**: Chocolate Dutch Guinea Pig |
+| 12:45 | **random_user987650**: Parrot (FR), Ride-A-Pet Potion | **Aestrel_Pl**: Hedgehog (FR), Dalmatian (FR) |
+| 12:45 | **Horse_LoveKsk**: Pig (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×5 |
+| 12:45 | **milka_947536**: Ride-A-Pet Potion, Puppeteer Hand | **qwerx0we**: Snow Owl (FR) |
+| 12:45 | **NarutoDegenerat**: Angelfish (MR) | **ikabackflip**: Fly-A-Pet Potion |
+| 12:45 | **myBestiVlad2380**: Kappakid (N), Raccoon (N) | **ikabackflip**: Fly-A-Pet Potion |
+| 12:45 | **poly0950**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **GEMYU900**: Aussie Egg |
+| 12:45 | **zncxxq**: Shark Puppy, Cotton Candy Hat | **Alliexxzc**: Munchkin Cat (FR) |
+| 12:45 | **Ez50**: Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR), Kangaroo (FR), Fly-A-Pet Potion | **Mfrstellaa**: Frost Dragon (FR) |
+| 12:45 | **l_i8ra7**: Phoenix | **Lazyymimi**: Cactus Friend |
+| 12:45 | **Dirbxmm2**: Fairy Bat Dragon (FR), 2022 Birthday Party Hat, 2022 Birthday Confetti Cannon | **Mfrstellaa**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:45 | **dariaskrin_unu**: Siamese Cat (R) | **OnlyMeNinik**: Candyfloss Chick (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
