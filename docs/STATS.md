@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 18:41 UTC by the scrape workflow._
+_Updated 2026-11-15 18:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 18:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 43,467 | 2026-11-15T18:30 |
-| elve | 5 | 9,557 | 2026-11-15T18:31 |
+| amvgg | 5 | 43,737 | 2026-11-15T18:45 |
+| elve | 5 | 9,586 | 2026-11-15T18:45 |
 
-## AMVGG completed trades: 20,652 total
+## AMVGG completed trades: 20,696 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,508 |
+| 2026-11-15 | 4,552 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 18:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:41 | **Olivier_20141**: Black-Footed Ferret (N) ×2, Badger (N), Bobageist (N) | **Grindingfor_life16**: Retired Egg ×18 |
-| 18:41 | **minismudgepanda**: Goose (R), Leopard Cat (N) | **Cats_95600**: Hot Doggo |
-| 18:41 | **mermaique3n**: Spring Bunny Hood, Harp Seal (N) ×2, Duck Floatie | **squ_evder**: Rain Cloud Hat |
-| 18:41 | **Deezpois**: Lion (FR), Winged Tiger (FR) | **aikosha_rdx**: Cabbit |
-| 18:41 | **O4Xxe**: Latte Kitsune (NFR) | **Nocturnesk155**: Munchkin Cat (FR), Burger Bear, S'mores Raccoon (R), Dragonfruit Fox |
-| 18:41 | **berrys_kittys**: Lunar Ox (MFR) | **ambervgils**: Fly-A-Pet Potion |
-| 18:41 | **d1orkira**: Retired Egg ×7 | **mArg0_Tubb1e**: Golden Unicorn |
-| 18:41 | **d1orkira**: Retired Egg ×7 | **mArg0_Tubb1e**: Golden Dragon |
-| 18:41 | **Esmiraks2014**: Dalmatian (FR), Kangaroo (FR), Cow (R), Goose (R), Candicorn (R), Unicorn Horn, Ice Cream Cone Hat | **akzoad**: Owl (FR) |
-| 18:41 | **evieebunnii**: Cattuccino ×7 | **kajaterezka**: Ride-A-Pet Potion |
-| 18:41 | **Slender202404**: Winged Tiger (FR) | **CaptainMinesweeper**: Munchkin Cat (FR), Fly-A-Pet Potion |
-| 18:41 | **kisauuw**: Catte | **kajaterezka**: Ride-A-Pet Potion |
-| 18:41 | **Jeemin_Bang**: Christmas Pudding Pup (MFR), Christmas Pudding Pup, Fly-A-Pet Potion | **25k_Robloxgamer**: Undead Jousting Horse (NFR) |
-| 18:41 | **Loikin_Vika029**: Moose Calf (NFR), Tiny Wings, Spring Bunny Feet | **A13N4XX**: 2022 Birthday Party Hat |
-| 18:41 | **silenceddfeelings**: Hamster (N), Retired Egg | **kittyyypawssz**: Sushi Penguin |
+| 18:45 | **MistletoeMeg**: Goth Shoes, Dragonfruit Fox, Eco Brown Earth-Wizard Hat | **Laktozik1**: Ice Cream Cone Hat |
+| 18:45 | **liddysadm**: Cabbit (FR), Fly-A-Pet Potion, Pancake Stack | **audreyhobertt**: Rain Cloud Hat, 2022 Birthday Confetti Cannon, Matcha Cat |
+| 18:45 | **zararobloxgirlx**: 2026 Birthday Butterfly ×2 | **joacoprojj**: Crystal Egg |
+| 18:45 | **branirovana**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **LOS_GARZA1**: Pig (R) |
+| 18:45 | **booluqx**: Fly-A-Pet Potion ×6 | **speedy_coki**: Bunny Swirl (M), Ride-A-Pet Potion ×3 |
+| 18:45 | **Bobbyhuddy6**: Owl (FR), Cow (FR), Brown Bear (NFR), Crocodile (FR) | **luvyerh**: Frost Dragon (FR) |
+| 18:45 | **berrys_kittys**: Kiwi | **kajaterezka**: Ride-A-Pet Potion |
+| 18:45 | **berrys_kittys**: Chipmunk, Yellow Butterfly, Penguin | **kajaterezka**: Ride-A-Pet Potion |
+| 18:45 | **lzxsre**: Ride-A-Pet Potion ×3, Water Moon Bear | **Rita_ggh**: Unicorn (FR), Lamb (R) |
+| 18:45 | **p_awth**: Ride-A-Pet Potion ×18 | **1Biahsz_altx**: Fly-A-Pet Potion ×9 |
+| 18:45 | **MADDI3DRE4MS**: Scarebear (MFR), Dodo (NFR), Golden King Penguin (NFR), Kitty Bat (NR), Dragonfruit Fox, Stray Cat Dragon (M), Cerberus (NFR) | **horselover_67842jade**: Dragonfruit Fox (MFR) |
+| 18:45 | **footerch**: Gecko (MR) | **joacoprojj**: Pig |
+| 18:45 | **footerch**: Gecko (MR) | **joacoprojj**: Pig |
+| 18:45 | **Thesilliestcommander**: Candicorn (FR) ×2, Candicorn (R) ×5, Candicorn | **t1mskyy**: Strawberry Shortcake Bat Dragon (NFR) |
+| 18:45 | **Zubatiniz**: Granny Wolf (NR), Black Tiger (NF) | **Secret_Secretov321**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
