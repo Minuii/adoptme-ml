@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 09:10 UTC by the scrape workflow._
+_Updated 2026-11-15 09:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 09:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 33,650 | 2026-11-15T09:00 |
-| elve | 5 | 7,295 | 2026-11-15T09:01 |
+| amvgg | 5 | 33,901 | 2026-11-15T09:15 |
+| elve | 5 | 7,361 | 2026-11-15T09:16 |
 
-## AMVGG completed trades: 17,827 total
+## AMVGG completed trades: 17,852 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,683 |
+| 2026-11-15 | 1,708 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 09:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:10 | **cuitlah12**: Frost Fury (R) | **14univorny**: Arctic Dusk Dragon |
-| 09:10 | **lovefrommel**: Angel Wings, Spring Bunny Hood ×2 | **Xyzxelle**: Unicorn Horn, 2022 Birthday Confetti Cannon |
-| 09:10 | **jikipikil**: Capybara (R) | **xgx6702**: Ride-A-Pet Potion |
-| 09:10 | **FlyToTheSaturn**: Marsh Plush, Turkey Plush, Balloons, Banana Pogo, Octopus Plush, Santa Rattle, Ornament Throw Toy, Cookie Dough Plush ×3, Sleigh Bells Rattle ×2, Candle ×3 | **hqapui**: Fly-A-Pet Potion |
-| 09:10 | **abnorzxiouxs**: Jester Dragon (NR), Candicorn (R), Unicorn Horn | **Agent007Na**: Strawberry Shortcake Bat Dragon (FR) |
-| 09:10 | **pktyce**: Owl (FR), Winged Tiger (FR), Ride-A-Pet Potion ×2, Fleur De Ice | **Jocamax10**: Dalmatian (FR), Chocolate Chip Bat Dragon (NFR) |
-| 09:10 | **asteryynn**: Strawberry Shortcake Bat Dragon (FR) | **turguni8**: Fairy Bat Dragon (FR), Turtle (FR), Arctic Fox (FR) |
-| 09:10 | **dashe4kavbb**: Copycat ×2 | **XxMoonDevilsAngelsxX**: Crocodile (FR) |
-| 09:10 | **peachieskiwi**: Ride-A-Pet Potion ×2, Rubber Ducky | **Niruch_Bearly**: Pet Handler Pro Certificate |
-| 09:10 | **xpys20**: Dalmatian (R), Zombie Wolf (MFR) | **kitekat_vv**: Evil Unicorn (FR) |
-| 09:10 | **kI_Iaxx**: Aestus (FR) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 09:10 | **strawberry_thea08**: Dragonfly | **Yokiimono**: Retired Egg ×3 |
-| 09:10 | **kourabies31415**: Pig (R) | **Polinamasha123**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×3 |
-| 09:10 | **Lovelyyaraishere**: Sakura Spirit (MFR), Border Collie (NFR), Peppermint Penguin, Cow (R), Goose (FR) | **Kvammletitraketa**: Frost Dragon (FR) |
-| 09:10 | **franz_1365**: Ladybug (MR), Lava Dragon (FR) | **xyza_starsmonica**: Copycat |
+| 09:15 | **Typay604**: German Shepherd (MR), Border Collie | **vanistillhere**: Cow (FR) |
+| 09:15 | **iiN044**: Retired Egg ×15 | **enhy12345678**: Chihuahua |
+| 09:15 | **Marines_Natalia**: Ride-A-Pet Potion, Gumball Caterpillar (N) | **vxd1on**: Capricorn (FR) |
+| 09:15 | **Umbrella_koroleva**: Ride-A-Pet Potion, Squid | **jikipikil**: Chocolate Dutch Guinea Pig |
+| 09:15 | **SoulSssk**: Ride-A-Pet Potion ×3, Scarebear | **NastiGora**: Pupcicle ×3 |
+| 09:15 | **tahliaa56**: Cryptid (FR) | **fallenstxrsX**: Owlbear (MFR), Bush Elephant (FR), Latte Kitsune (FR), Kookaburra (FR), Slime (FR) |
+| 09:15 | **ohinam**: Pet Handler Pro Certificate ×7, Ride-A-Pet Potion | **megasupper_profi**: Albino Monkey (FR) |
+| 09:15 | **sshanao_o**: Fly-A-Pet Potion | **Isalu050112**: Lamb, Zombie Chick (N) |
+| 09:15 | **yanaramadhan**: Chihuahua ×2, Purple Heart Glasses | **lutfinaselvina**: Ride-A-Pet Potion |
+| 09:15 | **naebalova1000_7**: Arctic Dusk Dragon (NR), Silverback Gorilla (R) | **BRAVL_STARS666666**: Pelican (FR) |
+| 09:15 | **BMWSHKA666**: Cow (FR), Fly-A-Pet Potion ×17 | **Moon_Cloud609859**: Arctic Reindeer (FR) |
+| 09:15 | **itz_Dizz01**: French Bulldog | **anekalubitnaruto**: Pupcicle |
+| 09:15 | **govonxj113**: Giraffe (FR), Snow Owl (F) | **SamXweirdo**: Arctic Reindeer (MFR) |
+| 09:15 | **Realzholuiq13**: Cockroach (N), Sado Mole (N), Cat (N) | **xXdie_Mika**: Ride-A-Pet Potion |
+| 09:15 | **AlphaTaToxicv1047**: Ride-A-Pet Potion | **florence_23111**: Raccoon (N) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
