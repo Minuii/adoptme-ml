@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 10:25 UTC by the scrape workflow._
+_Updated 2026-11-15 10:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 10:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 34,884 | 2026-11-15T10:15 |
-| elve | 5 | 7,546 | 2026-11-15T10:16 |
+| amvgg | 5 | 35,134 | 2026-11-15T10:30 |
+| elve | 5 | 7,612 | 2026-11-15T10:31 |
 
-## AMVGG completed trades: 18,078 total
+## AMVGG completed trades: 18,082 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,934 |
+| 2026-11-15 | 1,938 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,10 @@ _Updated 2026-11-15 10:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:30 | **XxcatscutesxXx**: Crow (FR), Fly-A-Pet Potion ×2, Alicorn (N), Chocolate Dutch Guinea Pig | **SPIKI77228**: Evil Unicorn (FR), Fairy Bat Dragon (R), Pig (R), Kangaroo (FR), Ride-A-Pet Potion, Cattuccino (MFR), Purrowl (F), Purrowl |
+| 10:30 | **wx8zqxx**: Sugar Glider (R), Ride-A-Pet Potion | **bad_boss1235**: Crocodile (FR), Blue Dog (FR) |
+| 10:30 | **txella_tzuyu**: Alpaca | **s0larzxxxx**: Unicorn Horn |
+| 10:30 | **kriswwqz**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 | **elfania_3**: Siamese Cat (FR) |
 | 10:21 | **BR00K3DBY**: Sloth (NFR), Strawberry Tortle (R), Samoyed (M), Jacobin Pigeon (M), Green Amazon, Cupid's Coupe | **ThornHBDeltaRBQueen1**: Cow |
 | 10:21 | **DeviousScorpioYT**: Balloon Unicorn (FR) | **200tttt546**: Balloon Unicorn |
 | 10:21 | **Grin900**: Alpaca (R), Dragon Breath Animated Sticker, Aviator Hat, Music Box Hat, Ride-A-Pet Potion ×3, Pumpkin Rattle | **Soymanuandicrakbanm**: 2022 Birthday Party Hat |
@@ -41,10 +45,6 @@ _Updated 2026-11-15 10:25 UTC by the scrape workflow._
 | 10:21 | **FlyToTheSaturn**: Ash Zebra, Wolpertinger (N), Chick, Beluga Whale (NR), Rock (R), Possum (N), Eggnog Dog, Zodiac Minion Chick, Endangered Egg ×10 | **loli_kuki9**: Fly-A-Pet Potion |
 | 10:21 | **Anelchik_i**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 | **1Evie_C1**: Cozy Cabin |
 | 10:21 | **V0RTI0X3TINEE**: Munchkin Cat (NFR) ×2, Copycat (NR), Ice Cream Cone Hat, Goth Shoes, Butter Knife, Christmas Pudding Pup (FR) | **Laila82010**: Munchkin Cat (MFR) |
-| 10:21 | **Ryou_senpai05**: Copycat (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **Nikolka5290**: Elephant (R) |
-| 10:21 | **kotenochekalisa**: Dalmatian (FR), Arctic Reindeer (FR), Ride-A-Pet Potion | **adoptmeholderboang**: Balloon Unicorn (FR) |
-| 10:21 | **w0onlll**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×2 | **crybabydoIl**: Goat (NFR) |
-| 10:21 | **Dmytro0705**: Border Collie (R), Ride-A-Pet Potion ×2 | **adopt201433**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
