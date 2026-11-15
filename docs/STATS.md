@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 10:01 UTC by the scrape workflow._
+_Updated 2026-11-15 10:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 10:01 UTC by the scrape workflow._
 | amvgg | 5 | 34,624 | 2026-11-15T10:00 |
 | elve | 5 | 7,485 | 2026-11-15T10:01 |
 
-## AMVGG completed trades: 18,004 total
+## AMVGG completed trades: 18,048 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,860 |
+| 2026-11-15 | 1,904 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 10:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:00 | **adoptmeholderboang**: Hot Doggo (FR) ×2, Fairy Bat Dragon (FR) | **Lerkooo_111**: Evil Unicorn (FR) |
-| 10:00 | **queenmaya773**: Chocolate Dutch Guinea Pig (N) | **pristinepalace**: Millionaire Mansion, Celebrity Mansion |
-| 10:00 | **elitro44**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **CcLuims011x**: Christmas Pudding Pup |
-| 10:00 | **prrsiic**: Flaming Zebra (MFR), Pet Handler Pro Certificate, Fly-A-Pet Potion, Spring Bunny Hood | **AlphaTaToxicv1047**: 2022 Birthday Cupcake Shoes |
-| 10:00 | **XIVrsen**: Chocolate Dutch Guinea Pig (N), Ride-A-Pet Potion ×2 | **prrsiic**: Spring Bunny Hood, Papa Moose |
-| 10:00 | **bunnydolliezzx**: Dango Penguins | **SullyoonNmixx12345**: Fly-A-Pet Potion, Retired Egg ×9, Crystal Egg ×7 |
-| 10:00 | **6vynix**: Flaming Fox, Crystal Egg ×8 | **noki123good**: Dango Penguins |
-| 10:00 | **Callme_Mary45**: Count Slothula (N) | **Kira9975335**: Ride-A-Pet Potion ×3 |
-| 10:00 | **atracttion**: Cabbit (MFR), Hamster Selfie Sticker | **Bumble_Lou**: Cabbit (MFR) |
-| 10:00 | **xXtheBesssssttttttXx**: Golden Dragon (R), Dolphin (FR), Hamster (R) | **milka765499**: Kitsune (FR) |
-| 10:00 | **anekalubitnaruto**: Harp Seal (M) | **cute_01814**: 2022 Birthday Cake |
-| 10:00 | **kelixnz**: Bee | **loveadoptmebee**: Fairytale Egg ×18 |
-| 10:00 | **Anarekaa**: Kangaroo (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate | **SadiSadie3**: Siamese Cat (FR) |
-| 10:00 | **kelixnz**: Cattuccino | **loveadoptmebee**: Fairytale Egg ×18 |
-| 10:00 | **KyraPidgorn**: Arctic Reindeer (FR), Kangaroo (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate | **Anarekaa**: Hedgehog (FR) |
+| 10:11 | **Xxxxashhhh**: Fly-A-Pet Potion ×4 | **Ksushat4567**: Matcha Cat (FR) |
+| 10:11 | **O1iverr_00**: Pandaguin Glooptodog (M), Rubber Ducky (M) | **GYUGYUBINIM**: Ride-A-Pet Potion |
+| 10:11 | **lizarg_472**: Pupcicle | **Clifford757**: Zombie Wolf |
+| 10:11 | **Dora_MS1**: Aurora Fox (MFR), Mini Pig (FR) | **Laura_cool8102009**: Parrot (FR) |
+| 10:11 | **lWeirdPhyscol**: Strawberry Shortcake Bat Dragon (NFR), Ride-A-Pet Potion | **rxy3e**: Fairy Bat Dragon (FR) ×2, Sugar Glider (FR), Unicorn Horn ×2, Toaster Hat |
+| 10:11 | **reni2912**: Kangaroo (MFR), Lion Cub (MFR), Aestus (MFR), Chameleon (MFR), Fallow Deer (NFR), Ghostly Cat (MFR) | **xloops_12345x**: Frost Dragon (FR) |
+| 10:11 | **AD0RBSMARI**: Fairy Bat Dragon (NFR) | **anastasia010girl**: Dalmatian (FR), Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 10:11 | **Viktoria_11942**: Royal Corgi (R), Chihuahua | **Xxxxashhhh**: Fly-A-Pet Potion |
+| 10:11 | **U_sulla**: Mini Pig (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×18 |
+| 10:11 | **cakilla28**: Ice Cream Hermit Crab (MFR) | **fluffyunicorns_932**: White Sand Dollar (MFR), Black Springer Spaniel (MFR) |
+| 10:11 | **XxITzAli_xX**: Fly-A-Pet Potion ×5 | **kobii_x**: Cat Plush, Panda Pal, Llama Plush, Elephant Plush, Puppy Plush, Croc Plush, Easter Bunny Plush, Phoenix Plush, Bunny Plush, Chick Plush, Polar Bear Plush, Octopus Plush, Horse Plush, Squid Plush, Banana Plush, Elf Plush, Ice Cream Plush |
+| 10:11 | **MyMermaidDiary**: African Wild Dog (FR) | **Courtneyc2211**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 10:11 | **kirat292**: Fly-A-Pet Potion ×16 | **Vitek_228666**: Cow (FR) |
+| 10:11 | **Typay604**: Cow (FR), Fairy Bat Dragon (R) | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
+| 10:11 | **sneganii**: Little Lamb (M), Waffle Wyrm (N), Dragonfly (F) | **rasediva**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
