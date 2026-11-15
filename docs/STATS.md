@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 13:31 UTC by the scrape workflow._
+_Updated 2026-11-15 13:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 13:31 UTC by the scrape workflow._
 | amvgg | 5 | 38,242 | 2026-11-15T13:30 |
 | elve | 5 | 8,362 | 2026-11-15T13:31 |
 
-## AMVGG completed trades: 18,918 total
+## AMVGG completed trades: 18,985 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,774 |
+| 2026-11-15 | 2,841 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:30 | **gg_aplle**: Penguin (NFR) | **lol_662720**: Horse (NR) |
-| 13:30 | **diecoole10976**: Fairytale Egg ×2 | **aeshtetic_2007**: Gummy Guana |
-| 13:30 | **XTREYT**: Granny Wolf (N), Gecko Ducky (N), Rubber Ducky (M), Corgi (N), Rabbit (N), Shoebill (N), Ghost (N), Caramelgeist (N) | **xLavend3rXDr3amsx**: Ride-A-Pet Potion |
-| 13:30 | **wskdaks**: Cow | **Li0nH3r086**: Kangaroo (FR), Frost Fury (NFR) |
-| 13:30 | **YaGurlisHereNow**: Matcha Cat (FR) | **Addo_Cit**: Cupid Dragon (R) |
-| 13:30 | **Lost_inTheCl0uds**: Fly-A-Pet Potion | **backsiz**: Pet Handler Pro Certificate |
-| 13:30 | **k_sybom**: Chocolate Chip Bat Dragon Backpack, Snowball Pet (R), White Sand Dollar | **kaibodydump**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 13:30 | **pshiajara**: Pet Handler Pro Certificate | **KaiSaboAceCC**: Ride-A-Pet Potion ×2 |
-| 13:30 | **Lillyistdiebesteamq**: Orange Betta Fish (N), Bolt (M), Granny Wolf (N) | **Pashok_q**: Ride-A-Pet Potion |
-| 13:30 | **xKo4kax**: Ermine (N), Squid, Little Lamb, Jumpscare, Mummy Spider ×2 | **rainy_daysarelife**: Ride-A-Pet Potion |
-| 13:30 | **Sybxm10**: Cryptid (FR), Siamese Cat (R) | **Mfrstellaa**: Strawberry Shortcake Bat Dragon (FR) ×2 |
-| 13:30 | **Lillyistdiebesteamq**: Granny Wolf (N), Bobageist (N), Caramelgeist (N), Skelicorn (N), Blue Cat (N), Pink Dog (N) | **Pashok_q**: Ride-A-Pet Potion |
-| 13:30 | **booluqx**: Fly-A-Pet Potion, Dracula Parrot | **Robloksersha666piska**: Moon Rabbit, Pupcake, Zombie Wolf |
-| 13:30 | **ySolzitax**: Kangaroo (FR), Kangaroo | **nielpeter_123**: Cow (FR) |
-| 13:30 | **hexyzbagoc31**: Alley Cat, Ride-A-Pet Potion, Diamond Ladybug (FR) | **xStrxrlyx**: Unicorn (NFR) |
+| 13:40 | **vvccgg_a**: Ram | **6evesvokhaha**: Ride-A-Pet Potion |
+| 13:40 | **KPOPFORLIFEBTS1**: Munchkin Cat (MFR), Vanilla Penguin (MFR) | **ELASTICHXRT**: Copycat (MFR) |
+| 13:40 | **Klaysi_flayra**: Gemstone Egg, Mochi Meow, Sea Turtle, Stray Cat Dragon, Admin Abuse Egg ×8 | **Shara_xxS**: Ride-A-Pet Potion |
+| 13:40 | **unicornio120957**: Horse (R), Hamster, Clover Cow, Toasty Red Panda, Gingerbread Hare, Inmate Capuchin Monkey, Chick | **Laktozik1**: Fly-A-Pet Potion |
+| 13:40 | **AsianIceCold**: Lava Wolf (MFR), Pet Handler Pro Certificate | **AutoTradeCommission**: Cow (FR) |
+| 13:40 | **ballerin0cappuccin02**: Copycat (NR), Candicorn (FR), Munchkin Cat (R), Fly-A-Pet Potion ×3 | **Bedwars_newpro9**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:40 | **Mysteri0usPuppet**: Lava Wolf (MFR) | **AsianIceCold**: Copycat (NFR) |
+| 13:40 | **unicornio120957**: Black Macaque ×4 | **jauzyp**: Fly-A-Pet Potion |
+| 13:40 | **tutritam174**: Hare Box, Walrus Box | **Roma_1234q**: Fly-A-Pet Potion |
+| 13:40 | **werlianess**: Lavender Dragon (R), Dragonfruit Fox, Cobra (NR), Cobra (NFR), Kitsune (NFR), Albino Bat (NR), Chimera (NR), Ice Wolf (F), Stray Cat Dragon (M), Ancient Dragon (F) | **AnneFabrel2005**: Turtle (FR) |
+| 13:40 | **pegasus23234**: Strawberry Shortcake Bat Dragon (FR) | **Kirpich518**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
+| 13:40 | **blossopeony**: Retired Egg ×9 | **ll3mch1kk**: Thunderfisher (N) |
+| 13:40 | **xLavend3rXDr3amsx**: Siamese Cat (MFR), Albino Gorilla (MFR), Turtle (FR) | **hanb3ki**: Owl (FR) |
+| 13:40 | **sesher14**: Chocolate Chip Bat Dragon (FR) | **Kirpich518**:  |
+| 13:40 | **Jessy85600**: Giant Panda (FR) | **xTrxstedCodee**: Munchkin Cat (MR), Turtle (NFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
