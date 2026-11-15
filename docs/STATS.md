@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 09:16 UTC by the scrape workflow._
+_Updated 2026-11-15 09:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 09:16 UTC by the scrape workflow._
 | amvgg | 5 | 33,901 | 2026-11-15T09:15 |
 | elve | 5 | 7,361 | 2026-11-15T09:16 |
 
-## AMVGG completed trades: 17,852 total
+## AMVGG completed trades: 17,871 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,708 |
+| 2026-11-15 | 1,727 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 09:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:15 | **Typay604**: German Shepherd (MR), Border Collie | **vanistillhere**: Cow (FR) |
-| 09:15 | **iiN044**: Retired Egg ×15 | **enhy12345678**: Chihuahua |
-| 09:15 | **Marines_Natalia**: Ride-A-Pet Potion, Gumball Caterpillar (N) | **vxd1on**: Capricorn (FR) |
-| 09:15 | **Umbrella_koroleva**: Ride-A-Pet Potion, Squid | **jikipikil**: Chocolate Dutch Guinea Pig |
-| 09:15 | **SoulSssk**: Ride-A-Pet Potion ×3, Scarebear | **NastiGora**: Pupcicle ×3 |
-| 09:15 | **tahliaa56**: Cryptid (FR) | **fallenstxrsX**: Owlbear (MFR), Bush Elephant (FR), Latte Kitsune (FR), Kookaburra (FR), Slime (FR) |
-| 09:15 | **ohinam**: Pet Handler Pro Certificate ×7, Ride-A-Pet Potion | **megasupper_profi**: Albino Monkey (FR) |
-| 09:15 | **sshanao_o**: Fly-A-Pet Potion | **Isalu050112**: Lamb, Zombie Chick (N) |
-| 09:15 | **yanaramadhan**: Chihuahua ×2, Purple Heart Glasses | **lutfinaselvina**: Ride-A-Pet Potion |
-| 09:15 | **naebalova1000_7**: Arctic Dusk Dragon (NR), Silverback Gorilla (R) | **BRAVL_STARS666666**: Pelican (FR) |
-| 09:15 | **BMWSHKA666**: Cow (FR), Fly-A-Pet Potion ×17 | **Moon_Cloud609859**: Arctic Reindeer (FR) |
-| 09:15 | **itz_Dizz01**: French Bulldog | **anekalubitnaruto**: Pupcicle |
-| 09:15 | **govonxj113**: Giraffe (FR), Snow Owl (F) | **SamXweirdo**: Arctic Reindeer (MFR) |
-| 09:15 | **Realzholuiq13**: Cockroach (N), Sado Mole (N), Cat (N) | **xXdie_Mika**: Ride-A-Pet Potion |
-| 09:15 | **AlphaTaToxicv1047**: Ride-A-Pet Potion | **florence_23111**: Raccoon (N) |
+| 09:25 | **ayiiishapot_2010**: Rose Quartz Glow Mega Neon Paint, Chihuahua | **BOLK_998**: Blue Boohoo Mega Neon Paint |
+| 09:25 | **Xxxxashhhh**: Fly-A-Pet Potion ×6 | **ikabackflip**: Lion (FR) |
+| 09:25 | **U_sulla**: Peppermint Penguin (R) | **p_awth**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×6 |
+| 09:25 | **X_DaRkX16**: Ride-A-Pet Potion ×5 | **tufvfffdjdg**: Jester Dragon |
+| 09:25 | **leotrayco**: Candicorn, Copycat, Ride-A-Pet Potion | **Hi_ILoveDogs99**: Turtle (FR) |
+| 09:25 | **loiol1004**: Ride-A-Pet Potion ×4 | **CcLuims011x**: Velocirooster |
+| 09:25 | **loiol1004**: Ride-A-Pet Potion ×4 | **CcLuims011x**: Velocirooster |
+| 09:25 | **GrowGater**: Frost Dragon (MFR) | **OnlyMeNinik**: Crow (NFR), Parrot (NFR), Crow, Crow (FR), Dalmatian (FR), Kangaroo (NFR), Evil Unicorn (FR), Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR) |
+| 09:25 | **l_i8ra7**: Fly-A-Pet Potion | **jikipikil**: Highland Cow (NR), Squid, Rat |
+| 09:25 | **ohinam**: Kangaroo (FR) | **Neltellaa**: Ride-A-Pet Potion ×17 |
+| 09:25 | **BTW_ImRllySickOfYou**: Chocolate Chip Bat Dragon (FR) | **kuromi_BRD**: Winged Tiger (NFR) |
+| 09:25 | **hii11love**: Firefly (N), Soccer Stadium | **Vernite_chat0**: Ride-A-Pet Potion ×4 |
+| 09:25 | **P0tatoes_chips2**: Shark Puppy (MFR) | **maleketchahinez**: Crocodile (MFR) |
+| 09:25 | **Qu33nDQCrimsonO19932**: Chihuahua ×14 | **ich_binda00**: Ride-A-Pet Potion ×6 |
+| 09:25 | **Sara707852**: Copycat, Spring Bunny Hood | **w4nd3ringG0d**: Pig (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
