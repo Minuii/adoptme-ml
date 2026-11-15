@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 07:11 UTC by the scrape workflow._
+_Updated 2026-11-15 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 07:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 31,653 | 2026-11-15T07:00 |
-| elve | 5 | 6,902 | 2026-11-15T07:01 |
+| amvgg | 5 | 31,906 | 2026-11-15T07:15 |
+| elve | 5 | 6,951 | 2026-11-15T07:16 |
 
-## AMVGG completed trades: 17,482 total
+## AMVGG completed trades: 17,486 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,338 |
+| 2026-11-15 | 1,342 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,10 @@ _Updated 2026-11-15 07:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:15 | **xosleepybunny**: Giant Black Scarab (N), Mummy Spider (N) ×4, Royal Fairytale Egg | **snehathebest22**: Pupcicle |
+| 07:15 | **schmeling125**: Chocolate Dutch Guinea Pig | **Chiki_cou**: Purple Heart Glasses, Ride-A-Pet Potion |
+| 07:15 | **sillysweetgirl2011**: Fly-A-Pet Potion | **Veraca2900**: Royal Moon Egg, Pink Heart Glasses |
+| 07:15 | **NebulastHyperftVenat**: Strawberry Shortcake Bat Dragon (FR) ×2, Siamese Cat, Turtle (FR), Arctic Fox | **StarSkySkater2020**: Parrot (FR) |
 | 07:11 | **Emo_plants**: Snow Monkey (NFR), French Bulldog (N), Aussie Egg, Ram | **wery123416**: Frost Unicorn (FR) |
 | 07:11 | **drapionplayer193**: Lion (NR), Halo | **NeonGamerStar20**: Chocolate Chip Bat Dragon (FR), Arctic Fox |
 | 07:11 | **destinedtobethegoat**: Giraffe (NFR), Grim Dragon (FR), Fairy Bat Dragon (FR), Turtle (FR) | **Duality_RBLX**: Bat Dragon |
@@ -41,10 +45,6 @@ _Updated 2026-11-15 07:11 UTC by the scrape workflow._
 | 07:11 | **itz_smurf1k**: Fly-A-Pet Potion | **AmAmHardi**: Onza (M) |
 | 07:11 | **hhhauntedddd**: Eggnog Hare ×7, Gingerbread Mouse, Ice Cube | **Chiki_cou**: Ride-A-Pet Potion |
 | 07:11 | **zxcbaidenq**: Albino Monkey (R), Pig | **GebZzi_Elite**: Siamese Cat (FR) |
-| 07:11 | **TimLikeFisharon**: Frostbite Bear (R) | **Emo_plants**: Frost Unicorn (FR), Royal Palace Spaniel (NR), Panda (FR) |
-| 07:11 | **teddycutie7**: Bat (M), Zodiac Minion Chick | **baconandchicken007**: Fly-A-Pet Potion |
-| 07:06 | **renn_123on**: Dalmatian (FR), Tombstone Ghostify, Cabbit (FR), Ride-A-Pet Potion, Gold Fairy Crown | **Addmymainamv**: Balloon Unicorn (FR) |
-| 07:06 | **gTheGamerProYTg**: Fly-A-Pet Potion ×3, Count Slothula | **Viktoria_11942**: Copycat (R) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
