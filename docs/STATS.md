@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 03:55 UTC by the scrape workflow._
+_Updated 2026-11-15 04:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 03:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 28,589 | 2026-11-15T03:45 |
-| elve | 5 | 6,189 | 2026-11-15T03:45 |
+| amvgg | 5 | 28,814 | 2026-11-15T04:00 |
+| elve | 5 | 6,249 | 2026-11-15T04:01 |
 
-## AMVGG completed trades: 16,888 total
+## AMVGG completed trades: 16,890 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 744 |
+| 2026-11-15 | 746 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,8 @@ _Updated 2026-11-15 03:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:00 | **xosleepybunny**: Stray Cat Dragon (M) | **princesspope2014**: Pupcicle |
+| 04:00 | **Xxxxashhhh**: Fly-A-Pet Potion ×3 | **blushbyelle**: Sakura Spirit |
 | 03:55 | **addAquaskycode2015**: Zombie Buffalo (R) | **Nutty_1352**: Pupcicle ×7 |
 | 03:55 | **Andres_agent**: Ride-A-Pet Potion, Baku ×2 | **AdrianGaming777777**: Pet Handler Pro Certificate |
 | 03:55 | **latuk_1119**: Pupcicle | **Sunglases_xx**: Thinking Hat, Energy Aura Feet |
@@ -43,8 +45,6 @@ _Updated 2026-11-15 03:55 UTC by the scrape workflow._
 | 03:55 | **joeyharri12**: Ice Cream Hermit Crab (MFR) | **sohohuls**: French Bulldog (MFR), German Shepherd (MFR) |
 | 03:55 | **7petite**: Candicorn (MFR) | **itzzdxavid**: Undead Jousting Horse (NFR) |
 | 03:55 | **FlyToTheSaturn**: Millionaire Mansion | **Secret_Secretov321**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 03:55 | **xoxsasha0**: Ride-A-Pet Potion ×3 | **hanb3ki**: Mistletroll (MR) |
-| 03:50 | **Xxxxashhhh**: Fly-A-Pet Potion ×4 | **ItzMackenzieLol910**: Arctic Fox (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
