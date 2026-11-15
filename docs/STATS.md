@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 19:40 UTC by the scrape workflow._
+_Updated 2026-11-15 19:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 19:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 44,532 | 2026-11-15T19:30 |
-| elve | 5 | 9,789 | 2026-11-15T19:31 |
+| amvgg | 5 | 44,794 | 2026-11-15T19:45 |
+| elve | 5 | 9,809 | 2026-11-15T19:45 |
 
-## AMVGG completed trades: 20,987 total
+## AMVGG completed trades: 21,027 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,843 |
+| 2026-11-15 | 4,883 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 19:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:36 | **DuckyMuffinz**: Pupcicle | **DrDenis21**: Admin Abuse Egg ×18 |
-| 19:36 | **AD0RBS_EMMY**: Phantom Dragon (MFR) | **IH3ARTJaden**: Arctic Dusk Dragon (MFR) |
-| 19:36 | **planktond09041**: Chocolate Chip Bat Dragon Backpack, Thunderfisher ×3 | **OJC_Star45**: Ride-A-Pet Potion |
-| 19:36 | **Sylestver1st**: Fly-A-Pet Potion ×3 | **Arisha32000**: Frost Fury (FR) |
-| 19:36 | **Aminapro111222**: Flamingo (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **supernova_cloud**: Matcha Cat ×2, Ice Cream Cone Hat, Seabed Creeper (N) |
-| 19:36 | **Yumi_Rose8**: Pet Handler Pro Certificate | **s11lena**: Swan (R) |
-| 19:36 | **Eugenia873**: Momma Moose (M), Flying Fairy, Classic Teapot ×2 | **Anelchik_i**: Millionaire Mansion |
-| 19:36 | **gabriella21k**: Fly-A-Pet Potion, Ride-A-Pet Potion, Water Moon Bear, Star Sunglasses, Chick Hat | **MarvelLeader662012**: Red Dutch Guinea Pig |
-| 19:36 | **bibiifate**: Tortuga de la Isla (NFR), Unicorn (M) | **Egyptianunicorn123**: Kangaroo (NFR) |
-| 19:36 | **siennandme**: General Sheepdog (N) | **jstforgrindx**: Halloween Evil Dachshund (N) |
-| 19:36 | **Alycialolpop1**: Ride-A-Pet Potion | **Vikysik_2056**: S'mores Raccoon |
-| 19:36 | **berrys_kittys**: Sushi Penguin | **Alycialolpop1**: Ride-A-Pet Potion |
-| 19:36 | **Kvvaczucha**: Amami Rabbit, Toxic Kaijunior (N), Show Pony (N) | **Alycialolpop1**: Ride-A-Pet Potion |
-| 19:36 | **nadaquever_78**: Cryptid (FR), Goose (FR) | **C2pid1xx**: Balloon Unicorn (R) |
-| 19:36 | **Callumgggg5**: Cabbit (NR) | **astearoids**: Cabbit (FR), Candicorn (NFR), Crocodile (FR) |
+| 19:45 | **jilucie2010**: Admin Abuse Egg ×9 | **elfach3ro_fe0**: Classic Trade Stand |
+| 19:45 | **silenceddfeelings**: Squid, Gaelic Fae, Ghostly Cat | **Mucitler555_AS**: Pet Handler Pro Certificate |
+| 19:45 | **inahoozuki**: Fallow Deer, Red Dutch Guinea Pig | **Aminapro111222**: Matcha Cat |
+| 19:45 | **Jack_frogi**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Stray Cat Dragon | **aya8a123**: Pig |
+| 19:45 | **silenceddfeelings**: Goat (FR), German Shepherd (MFR) | **giraffe3815**: Goat (NFR) |
+| 19:45 | **KittyFlower2211**: Arctic Dusk Dragon | **AAdopt_me1213**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 19:45 | **ambervgils**: Owl (FR) | **S3rennx**: Peppermint Penguin (R), Candicorn, Fairy Bat Dragon (NR), Flaming Fox (N), Majestic Pony, Cow (NFR) |
+| 19:45 | **liofe1**: Strawberry Shortcake Bow, Eaten Donut, Love Letter | **1ovIIy**: Ride-A-Pet Potion |
+| 19:45 | **blazerbabay**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×12 | **iwasbornin13000**: Candicorn |
+| 19:45 | **cherrymolah**: Pig, Ride-A-Pet Potion | **kamilandra23**: Cupid Dragon (FR) |
+| 19:45 | **mverva**: Ride-A-Pet Potion ×2, Kitty Bat (N), Royal Palace Spaniel | **youtescobag**: Pupcicle (N) |
+| 19:45 | **liofe1**: Chocolate Chip Bat Dragon Backpack, Unfortunate Eyelashes | **miraaa4lifeee**: Ride-A-Pet Potion |
+| 19:45 | **Mharkie162**: Ride-A-Pet Potion ×5 | **meliodas999q**: Unicorn (NFR) |
+| 19:45 | **RBstela**: Balloon Unicorn (FR) ×2, Haetae (FR) | **J4YASPL4NET**: Bush Elephant (MFR), Caterpillar (MFR), Happy Duckling (MFR) |
+| 19:45 | **Megan_megab**: Retired Egg ×18 | **Dash35813**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
