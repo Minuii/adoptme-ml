@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 03:25 UTC by the scrape workflow._
+_Updated 2026-11-15 03:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 03:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 28,113 | 2026-11-15T03:15 |
-| elve | 5 | 6,105 | 2026-11-15T03:16 |
+| amvgg | 5 | 28,348 | 2026-11-15T03:30 |
+| elve | 5 | 6,174 | 2026-11-15T03:31 |
 
-## AMVGG completed trades: 16,800 total
+## AMVGG completed trades: 16,814 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 656 |
+| 2026-11-15 | 670 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 03:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:30 | **GAMER_HAIFA**: Jester Dragon, Glormy Dolphin | **Nevaeh_ina**: Copycat |
+| 03:30 | **thyum_56**: Pirate Ghost Capuchin Monkey | **teadan0**: Ride-A-Pet Potion ×8 |
+| 03:30 | **Tree092109**: Fly-A-Pet Potion, Admin Abuse Egg ×6 | **Hiraimomoling1**: Ride-A-Pet Potion, Royal Aztec Egg |
+| 03:30 | **Spooky_Aniyah**: Golden Lettuce | **FellowAlo**: Fishbone Badge |
+| 03:30 | **F0xNinja**: Dark Choccybunny ×2 | **heladitoooUnU**: Stray Cat Dragon ×2 |
+| 03:30 | **cms_6295**: Ride-A-Pet Potion ×2 | **pastyysp**: Pupcicle ×2 |
+| 03:30 | **makaka3901**: Ride-A-Pet Potion | **pastyysp**: Pupcicle |
+| 03:30 | **AvaNari2010**: Ride-A-Pet Potion | **pastyysp**: Pupcicle |
+| 03:30 | **mjay_alt02**: Unicorn (MFR) | **fayesweet13**: Frost Fury (NFR), Ride-A-Pet Potion |
+| 03:30 | **mostknowniconduh**: Frostbite Bear (M) | **veIfyre**: Cryptid (NFR), Unicorn Horn, Tiny Wings ×2 |
+| 03:30 | **meliailen8**: Parrot (FR), Cow (FR) | **js_elizz**: Border Collie (MFR) |
+| 03:30 | **rip_indra12345678912**: Christmas Egg, Candicorn | **reserbadong2**: Undead Jousting Horse (R) |
+| 03:30 | **itskayeeee**: Shark (NR) | **NE0M3T4LS0N1C**: Ride-A-Pet Potion ×6 |
+| 03:30 | **foxymoo7**: Black Macaque (MFR), Chihuahua (MR), Sloth (MFR), Leopard Cat (MR), Elasmosaurus (MR), Ostrich (MR), Toy Poodle (MR), Malaysian Tapir (M), Peachick (MR), Bat (MR), Kelp Raider (M), Clementine Owl (M), Merhorse (MR), Choco Penguin (M), Mrs. Whiskerpips (M) | **xXL0TTY**: Alley Cat (MFR), Bunny Swirl (MFR), Cake Friend (MFR) |
 | 03:25 | **gigairia**: Strawberry Shortcake Bat Dragon (R) | **mikzenn1**: Latte Kitsune (NR), Giant Anteater (FR), Sakura Spirit (R), Cow (R) |
-| 03:25 | **kneesurgeryreminder**: Maine Coon (NR), Admin Abuse Egg, Mrs. Whiskerpips, Endangered Egg, Purrowl ×3, Angus Calf ×4, Sea Turtle, Corgi (N), Gumball Caterpillar (N), Cold Cube ×4 | **getsdar**: Chocolate Dutch Guinea Pig ×2 |
-| 03:25 | **l1delx**: Giant Panda (NFR), Spring Bunny Hood | **Katseye_Fanlaraaaaa**: Shadow Dragon (FR) |
-| 03:25 | **23333UUII**: Turtle (NFR), Turtle (FR) ×3, Albino Monkey (FR) ×2, Cow (FR), Cow (R), Goose (R), Bauble Buddies (MFR), Spring Bunny Hood, Phantom Dragon, Lamb (FR) | **rrtrades**: Frost Dragon (FR) |
-| 03:25 | **RobloxIsLif3z**: Cake Friend, Pain au Chat | **lexifox513**: Chocolate Dutch Guinea Pig |
-| 03:25 | **hmm_gtw123**: River Otter (M) | **Aslie_17**: Ride-A-Pet Potion |
-| 03:25 | **splat23kiki**: Ride-A-Pet Potion ×2 | **megasupper_profi**: Stray Cat Dragon (M) |
-| 03:25 | **Sang_wonnie**: Shark Puppy (FR) | **MamApapapoo_2**: Munchkin Cat (R) |
-| 03:25 | **vrpcy**: Ride-A-Pet Potion ×6 | **Soobin_c4kes**: Jester Dragon |
-| 03:25 | **wjredmind**: Fly-A-Pet Potion | **Astro_Queen2749**: Nautilus, Frog, Horse, Pink Betta Fish, Burger Bear |
-| 03:25 | **MrFino_X**: Corn Doggo (NFR) | **Gamerqueen1255**: Gemstone Egg ×13 |
-| 03:25 | **niles0713**: Chocolate Chip Bat Dragon (R), Strawberry Shortcake Bat Dragon (FR), Pancake Stack, Respectful Mustache, Burger Boots | **looperhole2**: Haetae (FR) |
-| 03:25 | **Tates1ush**: Border Collie (MFR), Balloon Unicorn (NFR), Copycat (M) | **lunalovebug70**: Bat Dragon (FR), Spring Bunny Hood |
-| 03:25 | **Saji_Ls**: Blue Whale, Bubblegeist, Dragonfly (N), Dragon, Huntsman Robin, Purrowl (N), Purrowl, Skelicorn, Three Blind Mice ×2, Rubber Ducky (M), Ghostly Cat | **hamster_lili123**: Fly-A-Pet Potion |
-| 03:25 | **deeplishpou**: Hedgehog (NFR) | **strwcherr**: Dalmatian (NFR), Candicorn (FR), Swan (NFR), Hare (NR), Silly Duck (NR), Lion Cub |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
