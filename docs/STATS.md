@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-15 17:40 UTC by the scrape workflow._
+_Updated 2026-11-15 17:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 12 | 2026-11-11T1036Z | 2026-11-15T0245Z |
-| amvgg | 25 | 2026-11-11T1036Z | 2026-11-15T1645Z |
+| amvgg | 26 | 2026-11-11T1036Z | 2026-11-15T1745Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 42,394 | 2026-11-15T17:30 |
-| elve | 5 | 9,313 | 2026-11-15T17:31 |
+| amvgg | 5 | 42,639 | 2026-11-15T17:45 |
+| elve | 5 | 9,353 | 2026-11-15T17:45 |
 
-## AMVGG completed trades: 20,238 total
+## AMVGG completed trades: 20,313 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,094 |
+| 2026-11-15 | 4,169 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 17:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:36 | **AD0RBSMARI**: Albino Monkey (NFR) | **Sprout228777**: Cow (R), Ice Cream Cone Hat |
-| 17:36 | **piinkttape**: Harp Seal, Sandwich Hat, Tuxedo Cat, Chocolate Dutch Guinea Pig | **Adoptmestocks3000**: Many Mackerel |
-| 17:36 | **StargamerRB_Official**: Candicorn (NR) | **dupeczek23**: Cabbit (FR) |
-| 17:36 | **alittlerandomthing**: Shadow Dragon (NFR), Frost Dragon (NFR), Turtle (NFR), Hot Doggo (R), Sugar Glider (R), Turtle (R) | **MissaBloxluck**: Balloon Unicorn (MFR) |
-| 17:30 | **margini_mini**: Dalmatian | **jhtdfbjiytvjib**: Arctic Reindeer (FR), Matcha Cat, Polar Bear (FR) |
-| 17:30 | **Ttsglw**: Discosplosion, Netzooka, Balloon, Inflatable Sword | **miraaa4lifeee**: Ride-A-Pet Potion |
-| 17:30 | **adoptcatdogfox2**: Broken Egg | **joker7_77**: Ride-A-Pet Potion |
-| 17:30 | **cinnamqndol**: Chihuahua ×2 | **kajaterezka**: Ride-A-Pet Potion |
-| 17:30 | **astearoids**: Chocolate Chip Bat Dragon (FR), Hedgehog (R) | **Yuh_Days**: Chocolate Chip Bat Dragon (NFR), Red Dutch Guinea Pig |
-| 17:30 | **irishazu_2014**: Strawberry Tortle, Kangaroo (FR), Copycat, Fallow Deer (R), Ride-A-Pet Potion ×3, Snowball Pug (N) ×2 | **RobloxDevolober**: Chocolate Chip Bat Dragon (FR) |
-| 17:30 | **CosmicalvSprout**: Cerberus (MFR), Sunglider (MFR), Ginger Cat (MFR), Slime (MFR), Orca (MR), Kangaroo, Candicorn, Ride-A-Pet Potion ×2, Border Collie (NFR) | **akzoad**: Parrot (FR) |
-| 17:30 | **Snip3rjkPrismAkZ3ro1**: Turtle (FR) | **criedtogod**: Arctic Dusk Dragon (FR), Fallow Deer (FR), Munchkin Cat (R) |
-| 17:30 | **HyunjinFROMLOONA2027**: Ride-A-Pet Potion ×5 | **docedelets**: Copycat |
-| 17:30 | **Cinzsins**: Velocirooster (MFR) ×3, Ice Golem (MFR), Frostbite Bear, Kangaroo (MFR), Sakura Spirit (MFR) | **Angela019291**: Shadow Dragon (FR) |
-| 17:30 | **bogdanslishkomzhirni**: Balloon Unicorn (FR) | **caxarok_ponosik52**: Elephant (FR), Fly-A-Pet Potion ×2, Sakura Spirit (MFR), Ride-A-Pet Potion |
+| 17:45 | **quietlyangel**: Robo Dog (MFR) | **22veils**: Karate Gorilla (MFR) |
+| 17:45 | **YOKOZ303**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 | **Niklon4ik**: Cow (FR) |
+| 17:45 | **Vitek_228666**: Elephant (R) | **poliwwhka**: Ride-A-Pet Potion ×14 |
+| 17:45 | **stvrestial**: Arctic Dusk Dragon (M), Meerkat (MFR), Silly Duck (MFR), Axolotl (MFR), Kitsune (MFR), Winged Tiger | **itwas_f4te**: Winged Tiger (MFR) |
+| 17:45 | **Jolien_188**: Cerberus (FR) | **daisyskyes82**: Ride-A-Pet Potion ×2 |
+| 17:45 | **Xxxxashhhh**: Pet Handler Pro Certificate, Fly-A-Pet Potion, Ride-A-Pet Potion | **Jolien_188**: Jester Dragon |
+| 17:45 | **hii_itsari3**: Mini Pig (FR), Turtle (FR), 2022 Birthday Party Hat, Dragonfruit Fox (NR), Munchkin Cat ×2, Pupcicle (N) ×2, Frost Fury (FR), 2022 Birthday Cupcake Shoes | **FoxyChanU3U**: Balloon Unicorn (FR) |
+| 17:45 | **xxxzChui**: Green Butterfly (MFR) | **gh0stly4ee**: Jester Dragon (NFR) |
+| 17:45 | **Mel0_170**: Alley Cat (MFR), Pupcicle, Skelicorn (N) | **nickknackks**: Border Collie (NFR) |
+| 17:45 | **FlyToTheSaturn**: Halloween Blue Scorpion, Halloween Black Mummy Cat ×4, Glyptodon, Ermine, Eggnog Dog, Dolphin ×4, Dingo ×4, Beaver ×2 | **LaylaObbyRBXHQ07**: Fly-A-Pet Potion |
+| 17:45 | **eun_woo1911**: Harp Seal | **1uvsen**: Pupcicle |
+| 17:45 | **FisheYT3**: Haetae (R), Cow (FR) ×2, Fairy Bat Dragon (FR), Copycat ×7 | **Kakashonec2**: Frost Dragon (FR) |
+| 17:45 | **worriorcatfan36**: Glormy Leo (NR) | **guuk_jeikey**: Pupcicle (N) ×2 |
+| 17:45 | **hood_11uwu**: Unicorn Horn, Spring Bunny Hood, Spring Bunny Feet, Fly-A-Pet Potion, Pet Handler Pro Certificate | **docedelets**: Halo |
+| 17:45 | **ILoveCupcakes33123**: White Chef Hat | **4revolutions**: Heart Bow |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
