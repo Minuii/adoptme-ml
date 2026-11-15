@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 06:40 UTC by the scrape workflow._
+_Updated 2026-11-15 06:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 06:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 31,173 | 2026-11-15T06:30 |
-| elve | 5 | 6,825 | 2026-11-15T06:31 |
+| amvgg | 5 | 31,403 | 2026-11-15T06:45 |
+| elve | 5 | 6,850 | 2026-11-15T06:45 |
 
-## AMVGG completed trades: 17,397 total
+## AMVGG completed trades: 17,411 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,253 |
+| 2026-11-15 | 1,267 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 06:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:45 | **Miiluwe**: Tortoiseshell Guinea Pig, Munchkin Cat (R), Red Dutch Guinea Pig (R), Ride-A-Pet Potion | **AdaYT2013**: Sugar Glider (FR) |
+| 06:45 | **La_boyMich15**: Cow (NFR), Cow (FR) ×2 | **bermido80**: Blazing Lion (FR) |
+| 06:45 | **Taposhka_uwu**: Fly-A-Pet Potion, Thunderfisher, Paint Sealer | **esmeralda2597**: Ride-A-Pet Potion ×2 |
+| 06:45 | **vikatopchik_00**: Siamese Cat (MFR), Strawberry Shortcake Bat Dragon (FR) | **toxicdude32546**: Owl (FR) |
+| 06:45 | **lala010677**: Flaming Fox (MFR), Corn Doggo (MFR), Jeff's Nametag, Chef Hat, Burger Boots, Jumpscare (M) | **lolghwy3**: Groundhog (MFR) |
+| 06:45 | **bummygiggleboom**: Giraffe (FR), Turtle (FR) ×2, Shark Puppy (NFR) | **bunnyblinkP**: Frost Dragon (NFR) |
+| 06:45 | **Junjyungg**: Fly-A-Pet Potion | **makaroshka_1339**: Ride-A-Pet Potion ×2 |
+| 06:45 | **ameyyass**: Pupcicle, Fairytale Egg | **Kir4kaaa**: Ride-A-Pet Potion |
+| 06:45 | **jauzyp**: Pupcicle ×2 | **xosleepybunny**: Stitches (MR), Jumpscare (M) |
+| 06:45 | **TsukiKito**: Copycat | **ohecknooooooo_Gold**: Ride-A-Pet Potion ×7 |
+| 06:45 | **DeniBosuer**: Kitsune (NFR), Rubber Ducky (M), Blue Boohoo Mega Neon Paint, Admin Abuse Egg ×3, Crimson Cape (N), Diamond Mahi Mahi | **motioun**: Ride-A-Pet Potion ×4 |
+| 06:45 | **clavio000**: Crow (FR), Pet Handler Pro Certificate | **Riikka_Takanashiii**: Chocolate Chip Bat Dragon (NFR), Copycat |
+| 06:45 | **Sankup928**: Alpaca (NFR) | **sleepysyamz**: Strawberry Tortle (R), Dragonfruit Fox (MR), Chihuahua (M), Dango Penguins, Brown Bear, Cake Friend (N) |
+| 06:45 | **aianame_rey**: Turtle (FR) | **fishymiss_y**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
 | 06:40 | **pawthetiic**: Aztec Egg ×17, Orca (N) | **ALUCARD_5810**: Ride-A-Pet Potion |
-| 06:40 | **Tota52Mota**: Fossa | **cbmelissa**: Shetland Pony White |
-| 06:40 | **arturo7pose12345**: Sunglider (FR) | **Tomas_will18**: Sunglider (R), Sunglider |
-| 06:40 | **Keith_goned**: Southeast Asia Egg | **iourvq**: Ghost (N) |
-| 06:40 | **Tr4ading_T3ss**: Peachick (MR), Spring Bunny Hood | **nevaletugo**: Snowball Pet (NR), Leopard Cat (NR), Cow Calf (NR), Eyepatch, Pirate Hat, Cutlass |
-| 06:40 | **BonesKid78**: Axolotl (N), Royal Capuchin Monkey (R), Angus Cow, Shiver Wolf | **Shyb_0y**: Pupcicle (N) |
-| 06:40 | **BonesKid78**: Ride-A-Pet Potion | **smooike**: Stray Cat Dragon ×8 |
-| 06:40 | **NovaMakeNoname**: Mini Schnauzer (MFR), Cow (FR) ×2, Peppermint Penguin (FR) | **violencesoul**: Cupid Dragon (MFR), Owlbear (R), Ride-A-Pet Potion, Mule, Ranger Beaver, Skunk |
-| 06:40 | **macarron299**: Cupid Dragon (R), Copycat, Matcha Cat | **Addo_Cit**: Unicorn Horn |
-| 06:36 | **iqitotoru**: Phoenix (NFR) | **ETM_TOPG**: Honey Badger |
-| 06:36 | **dasha0312kalash**: Sloth, Fairytale Egg | **freddyfazbearpecs**: Pudding Cat |
-| 06:36 | **wskdaks**: Cow (NFR), Cow (FR) ×2, Crocodile, Fly-A-Pet Potion | **La_boyMich15**: Crow (FR) |
-| 06:36 | **frrisstaill**: Quetzalcoatl, Alicorn ×2, Dragonfly, Ancient Dragon, Purrowl, Retired Egg ×3 | **DreamWalker_47**: Kiwi Kiwi |
-| 06:36 | **jauzyp**: Pupcicle ×4 | **Souharik_9**: Golden Lettuce, Moonbeam Butterfly (R) |
-| 06:36 | **FlyToTheSaturn**: Bandicoot ×5, Triceratops ×2, Stegosaurus ×2, Snowman, Slug, Sea Skeleton Panda, Rock Pigeon, Kirin ×2, Halloween Blue Scorpion, Halloween Black Mummy Cat ×2 | **santi57974**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
