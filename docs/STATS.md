@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 02:55 UTC by the scrape workflow._
+_Updated 2026-11-15 03:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 02:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 27,593 | 2026-11-15T02:45 |
-| elve | 5 | 5,962 | 2026-11-15T02:45 |
+| amvgg | 5 | 27,853 | 2026-11-15T03:00 |
+| elve | 5 | 6,025 | 2026-11-15T03:01 |
 
-## AMVGG completed trades: 16,707 total
+## AMVGG completed trades: 16,715 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 563 |
+| 2026-11-15 | 571 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,14 @@ _Updated 2026-11-15 02:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:00 | **XxSummerxX_0123**: Pain au Chat ×2 | **alxymrn**: Ride-A-Pet Potion |
+| 03:00 | **ii_qw1r**: Kangaroo (MFR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR) | **Rainbowunicorn5303**: Border Collie (MFR) |
+| 03:00 | **slyvls**: Flaming Fox (MR), Fallow Deer (NR), Coyote (M), Pancake Stack | **MYB505**: Latte Kitsune (MFR) |
+| 03:00 | **Sankup928**: Dango Penguins | **Kitty_1b**: Golden Lettuce |
+| 03:00 | **Jilliantbh**: Turtle (FR), Alpaca (R), Albino Monkey (FR) | **Sankup928**: Strawberry Shortcake Bat Dragon (FR) |
+| 03:00 | **IlikeMilk220**: Hedgehog (MFR), Parrot (NFR), Goose (FR), Siamese Cat (NFR) | **lanaisdelrey**: Frost Dragon (MFR) |
+| 03:00 | **Octolootom**: Cactus Friend (MFR) | **you_no099**: Kangaroo (FR), Ride-A-Pet Potion |
+| 03:00 | **amyggvaI**: Cow (FR), Kangaroo (FR), Turtle (R), Ride-A-Pet Potion ×5, Goat, Candicorn | **roksy3910**: Evil Unicorn (FR) |
 | 02:55 | **TheLightKick**: Angler Fish (MR) | **julyis456**: Fly-A-Pet Potion |
 | 02:55 | **Inphluens**: Zombie Wolf (MFR), 2022 Birthday Party Horn | **Catgirl081423**: Glormy Hound (MR) |
 | 02:55 | **Dielizbe123**: Shadow Dragon Animated Sticker | **nxbody_aur0ra**: Pet Handler Pro Certificate |
@@ -37,14 +45,6 @@ _Updated 2026-11-15 02:55 UTC by the scrape workflow._
 | 02:55 | **TMDung20**: Kangaroo (NFR), Kangaroo (FR) ×3, Frost Fury | **chaxvznn**: Evil Unicorn (FR) |
 | 02:55 | **true_style**: Siamese Cat (NFR), Skelicorn (MFR), French Bulldog (NR), Ride-A-Pet Potion | **miny_cz1**: Grim Dragon (NFR) |
 | 02:55 | **Quicksilver67676709**: Unicorn (NFR), Ride-A-Pet Potion ×2, Catte | **vlados_krash**: Arctic Fox (R) |
-| 02:55 | **Applewoo62**: Kitty Bat (MR) | **Nastya198632**: Pupcicle ×7 |
-| 02:55 | **Monalin879**: 2022 Birthday Cake, Unicorn Horn, Chihuahua (MFR) | **splashqueen02**: Alley Cat (MFR) |
-| 02:55 | **Dinkarrt**: Cotton Candy Hat, Jiggly Jerboa (M) | **Monalin879**: Ride-A-Pet Potion |
-| 02:55 | **Nolimit_J3sus**: Owl (NFR), Cow (FR), Turtle (FR), Candicorn (R) | **triangulaamv**: Shadow Dragon (FR), Fly-A-Pet Potion |
-| 02:55 | **deliciouschi2**: Evil Unicorn (R), Cow (FR) | **Nolimit_J3sus**: Blazing Lion (FR) |
-| 02:55 | **XxSummerxX_0123**: Catte ×2 | **KarraCult**: Ride-A-Pet Potion |
-| 02:50 | **bondenver2**: German Shepherd (N) | **yapplie**: Pupcicle ×4 |
-| 02:50 | **EnricoHandsome0**: Copycat | **maleel01**: Unicorn (NFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
