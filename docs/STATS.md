@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 08:25 UTC by the scrape workflow._
+_Updated 2026-11-15 08:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 08:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 32,890 | 2026-11-15T08:15 |
-| elve | 5 | 7,149 | 2026-11-15T08:16 |
+| amvgg | 5 | 33,151 | 2026-11-15T08:30 |
+| elve | 5 | 7,223 | 2026-11-15T08:31 |
 
-## AMVGG completed trades: 17,677 total
+## AMVGG completed trades: 17,688 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,533 |
+| 2026-11-15 | 1,544 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 08:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:30 | **PrincessA1496**: Skelicorn ×11 | **PhoenixEpic85**: Ride-A-Pet Potion |
+| 08:30 | **Are_ulonely123**: Onza (M), Angus Calf (N), Shiba Inu (N) | **rasediva**: Pet Handler Pro Certificate |
+| 08:30 | **Stevieicecream16**: Frost Dragon (FR), Alley Cat (MFR) | **Auds191102**: Cabbit (MFR) |
+| 08:30 | **w4nd3ringG0d**: Peach Owl, Sushi Penguin | **blake_shortie**: Fly-A-Pet Potion |
+| 08:30 | **KoTuK_176**: Shark Puppy (R), Pig, Ram (NFR), Fly-A-Pet Potion | **userulikk**: Cabbit (R) |
+| 08:30 | **It3not_ay1ah**: Groundhog (NR), Leopard Cat (M) | **wldnsdlrnldudna**: Pupcicle (M) |
+| 08:30 | **pawpac1s**: Christmas Pudding Pup (R) | **xgx6702**:  |
+| 08:30 | **cuttiiesara**: Thunderfisher (N), Toucan (N), Bobageist (N), Badger (N), Clumpty (N), Bolt (N), Blue Cat (N) | **ALUCARD_5810**: Ride-A-Pet Potion |
+| 08:30 | **dianadonatlove**: Bee (F), Golden Unicorn (R), Bee, Purrowl, Retired Egg ×2 | **booluqx**: Ride-A-Pet Potion |
+| 08:30 | **XNicroyX**: Strawberry Shortcake Bat Dragon (FR), Vampire Dragon (NFR), Cerberus (NFR), Chicken (NR), German Shepherd (NR), Indian Flying Fox (NR), Rainbow Stroller | **gabBNS67**: Cryptid |
+| 08:30 | **jobebentot**: Chihuahua ×2, Purrowl ×2 | **jokerako28**: Ride-A-Pet Potion |
 | 08:21 | **zxl0106**: Ride-A-Pet Potion ×3 | **LumDayy**: Cozy Mistletroll (M) |
 | 08:21 | **DJpixel1456**: Balloon Unicorn (NFR), Balloon Unicorn (FR), Dalmatian (FR), Fairy Bat Dragon (NFR), Unicorn Horn, Tiny Wings, Pancake Stack, Mummy Spider (M), Jacobin Pigeon (M), Volcano Hat, Unfortunate Eyelashes | **Lucarioelprocomo**: Bat Dragon (FR) |
 | 08:21 | **Str3amN0va2024**: Groundhog, Arctic Fox, Turkey, Flaming Fox, Dragonfruit Fox, Shark (FR), T-Rex (FR), Ginger Cat (MFR), Fly-A-Pet Potion ×2 | **OoxiOny**: Turtle (FR) |
 | 08:21 | **odading12318**: Arctic Dusk Dragon (FR) | **iDontKnowYou89844**: Fly-A-Pet Potion ×3 |
-| 08:21 | **Sharking_off**: Frost Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **Idk_justmeloll**: Evil Unicorn (FR), Fairy Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Cow (FR) |
-| 08:21 | **thanks_cat9**: Pandaguin Glooptodog (M), Boohoo (N) | **Snow_Girl123678**: Ride-A-Pet Potion |
-| 08:21 | **good_vibesgirl09**: Ride-A-Pet Potion ×8 | **fhuybx556**: Koala (MFR) |
-| 08:21 | **Hlup_bananas0vafli**: Matcha Cat | **xgx6702**: Ride-A-Pet Potion ×5 |
-| 08:21 | **MyStarPets1**: Albino Monkey (FR) | **Assewsslila**: Bunny Swirl (M), Sea Turtle (M), Elf Hat, Spring Bunny Feet, Invisible Wings, 2022 Birthday Confetti Drape, Alicorn (N), White Chef Hat |
-| 08:21 | **Uwuwuuwunya**: Pig (R) | **kokisolersha**: Silverback Gorilla (R), Ride-A-Pet Potion ×2 |
-| 08:21 | **RiderCyber5886**: Scarebear ×2, Scarebear (FR) | **ikabackflip**: Fallow Deer |
-| 08:21 | **yu6iio**: Grim Dragon (MFR), Cookie | **Crossmary_off**: Latte Kitsune (MR), Aestus (M), Solaris (MFR), Cow (FR), Goat (NR) |
-| 08:21 | **AlphaTaToxicv1047**: Sugar Axolotl (R), Fly-A-Pet Potion | **ChillerTyr**: Golden Jaguar (MR) |
-| 08:21 | **MrRambul**: Strawberry Shortcake Bat Dragon (FR), Cupid Dragon (NFR), Giant Anteater (NFR), Platypus (MFR), Latte Kitsune (MFR), Grim Dragon (FR) | **Siraj6118**: Frost Dragon (FR) |
-| 08:21 | **FroztedCook31**: Cattuccino (M), Pupcicle | **raccoonybaloony**: Ride-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
