@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 17:16 UTC by the scrape workflow._
+_Updated 2026-11-15 17:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 17:16 UTC by the scrape workflow._
 | amvgg | 5 | 42,109 | 2026-11-15T17:15 |
 | elve | 5 | 9,246 | 2026-11-15T17:16 |
 
-## AMVGG completed trades: 20,157 total
+## AMVGG completed trades: 20,210 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,013 |
+| 2026-11-15 | 4,066 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 17:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:15 | **Machaddkkj**: Paint Sealer ×14 | **sonyaxxvc**: Ride-A-Pet Potion |
-| 17:15 | **XxOliviaGalaxyxX36YT**: Sprout Snail (M) | **Irislikesyoufr**: Skelicorn (M), Stray Cat Dragon (M), Bolt (M) |
-| 17:15 | **dtOvsq**: Pain au Chat ×2 | **fluffyunicorns_932**: Alien Eyes Hat |
-| 17:15 | **dtOvsq**: Pain au Chat ×2 | **fluffyunicorns_932**: Cotton Candy Hat |
-| 17:15 | **wmwmwm029**: Fairy Bat Dragon (R), Cow (FR) | **Li0nH3r086**: Chocolate Chip Bat Dragon (FR) |
-| 17:15 | **Idontpoopbricks**: Crow (NFR), Parrot (NFR), Chocolate Chip Bat Dragon (R), Cow (FR) ×2, Candyfloss Chick, Albino Monkey, Dango Penguins (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **yanchik0067**: Bat Dragon (FR) |
-| 17:15 | **TMDung20**: Balloon Unicorn (FR), Alpaca | **Pepe1212964**: Parrot (FR) |
-| 17:15 | **kariisshha**: Cow (FR), Classic Trade Stand | **Calabaza070720**: Haetyphoon, Mermicorn (R) |
-| 17:15 | **epicpulsechaos2024**: Crystal Egg ×11 | **Astral_Knight3**: Ride-A-Pet Potion |
-| 17:15 | **TheRealAivlis**: Arctic Reindeer (FR), Flamingo (FR), Turtle (FR) | **iikariiss**: Cryptid |
-| 17:15 | **alittlerandomthing**: Turtle (FR) ×2 | **Esmeralda_318**: Turtle (NFR) |
-| 17:15 | **TekTaker_Vinks**: Fly-A-Pet Potion ×6 | **2creme1sucre**: Alley Cat (NR) |
-| 17:15 | **RealizeRealityAsItIs**: Pupcicle ×5 | **iloveitqww**: Harp Seal (N) |
-| 17:15 | **3risluv**: Admin Abuse Egg ×12 | **memoriesd4n**: Moon Rabbit |
-| 17:15 | **donnotinteract**: Honey Badger (MFR) | **itz_ckaM1441**: Alpaca, Unicorn Horn, Unicorn Backpack, Siamese Cat (R), Tasmanian Devil (N), Fly-A-Pet Potion ×3, Toaster Hat, Crystal Egg, Ride-A-Pet Potion ×4 |
+| 17:25 | **Someone2483852**: King Penguin (MR) | **xadore_brookex**: Angus Cow (M), River Otter (M), Tree Sasquatch (M), Ghost Wolf (M), Black Tiger (M) |
+| 17:25 | **crybabydoIl**: Fly-A-Pet Potion, Skelicorn, Purrowl | **YOKOZ303**: Ride-A-Pet Potion ×2 |
+| 17:25 | **Nephanox**: Pretty Pony (MFR) | **rosekitten321**: Pretty Pony (M), Capuchin Monkey (M) |
+| 17:25 | **Adore_Pandaz**: Fly-A-Pet Potion | **kartochecha2**: Pet Handler Pro Certificate |
+| 17:25 | **Culimundimulo**: Dalmatian (FR) | **MatiXD12306**: Strawberry Shortcake Bat Dragon (FR), Sakura Spirit (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Latte Kitsune (FR) |
+| 17:25 | **Pimbo_Peep2011**: Dark Choccybunny | **M4ISIESFAVX0**: Alicorn |
+| 17:25 | **zvmbby**: Canadian Goose (M) | **cutekitty82467**: Ice Cream Cone Hat, Dango Penguins |
+| 17:25 | **lzxsre**: Border Collie | **no_name12345654321**: Munchkin Cat (FR), Fly-A-Pet Potion |
+| 17:25 | **AperHotDog**: Fairytale Egg ×18 | **666marla_666**: Ride-A-Pet Potion |
+| 17:25 | **goonettoyou**: Copycat, Alley Cat (NR), Harp Seal, Ride-A-Pet Potion | **helisabet_fabi20**: Siamese Cat |
+| 17:25 | **Thebossoflaughter**: Goat (NFR) | **Mytradeaccountforme**: Ghost Bunny (MFR), Spring Bunny Nose, Ride-A-Pet Potion, Rose Quartz Glow Mega Neon Paint, Velvet Fuchsia Mega Neon Paint, Candyfloss Mega Neon Paint, Amethyst Skies Mega Neon Paint |
+| 17:25 | **luvyerh**: Cow (FR) | **Mimiplayztz123**: Shark Puppy (R) ×2, Pig (FR), Ride-A-Pet Potion ×2 |
+| 17:25 | **joustin_89224**: Copycat, Electric Hornet, Boohoo (N), 2D Box | **Cheekyc26**: Copycat (R) |
+| 17:25 | **joustin_89224**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **qqwdkss**: Aussie Egg |
+| 17:25 | **Junjyungg**: Scarlet Butterfly (MR) | **peachmango_41**: Prismatic Butterfly (NFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
