@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 14:25 UTC by the scrape workflow._
+_Updated 2026-11-15 14:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 14:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 38,998 | 2026-11-15T14:15 |
-| elve | 5 | 8,508 | 2026-11-15T14:16 |
+| amvgg | 5 | 39,263 | 2026-11-15T14:30 |
+| elve | 5 | 8,564 | 2026-11-15T14:31 |
 
-## AMVGG completed trades: 19,190 total
+## AMVGG completed trades: 19,238 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 3,046 |
+| 2026-11-15 | 3,094 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 14:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:25 | **Sn3akyw0lfBloxgames**: African Wild Dog (N), Spring Bunny Feet ×2, Spring Bunny Nose, Dango Penguins, Skelicorn (M), Boohoo (M), Unicorn Backpack, Lynx ×2, Chihuahua ×3 | **Sarah_dzalg**: Balloon Unicorn (NFR) |
-| 14:25 | **JuliashaMeow**: Crocodile (FR), Golden Walrus, Festive Deliveries Present Truck | **Kyza_222222223**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 |
-| 14:25 | **Manggo_Pie40**: Kangaroo (FR) | **LoriDreamy123**: Fly-A-Pet Potion ×9 |
-| 14:25 | **kity607AltAccount**: Caterpillar | **lola_bear1995**: Ride-A-Pet Potion ×12 |
-| 14:25 | **FROSTYCAP1**: Flamingo, Cow (FR), Harp Seal (NR), Harp Seal (N), Unicorn | **Anabanana_3160**: Strawberry Shortcake Bat Dragon (FR) |
-| 14:25 | **Fox7Art**: Kangaroo (FR) | **RENZSOMERA**: Fly-A-Pet Potion ×9 |
-| 14:25 | **Anabanana_3160**: Cow (FR) | **imrealblink14**: Caterpillar, Lion Cub, Giant Anteater, Ride-A-Pet Potion ×2, Kitsune (FR), Dodo ×2, Panda (FR) |
-| 14:25 | **booluqx**: Copycat | **MouneXS**: Cake Friend (N), Mistletroll (M), Burger Bear (N) |
-| 14:25 | **qirelliaa**: Arctic Fox (R), Ride-A-Pet Potion | **killy_56795**: Pupcicle (N), Ride-A-Pet Potion, Pet Handler Pro Certificate, Skunk (FR) |
-| 14:25 | **Unknown_Entity1213**: Goose (FR), Goose, Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **calampianojames**: Dalmatian |
-| 14:20 | **Lilyyay86**: Catte | **denizaglioo**: Penguin (N) |
-| 14:20 | **Klaysi_flayra**: Bee, Elasmosaurus, General Sheepdog, Clover Cow, Cold Cube, Dotted Eggy, Cattuccino, Toucan ×4 | **Adore_Pandaz**: Ride-A-Pet Potion |
-| 14:20 | **Sharpie_pies**: Jiggly Jerboa (M), Frankenfeline (N), Onza (N), Cozy Mistletroll, Ocelot (N) | **Adore_Pandaz**: Ride-A-Pet Potion |
-| 14:20 | **Sarah72042**: Snow Monkey (N), Drake (N), Pretty Pony (N), Groundhog, Moose Calf, Alley Cat, Ghost Bunny (NFR), Count Slothula (N), Ride-A-Pet Potion ×2 | **ambervgils**: Cow (FR) |
-| 14:20 | **hans53901**: Stray Cat Dragon ×18 | **marsyasha11**: Ride-A-Pet Potion ×2 |
+| 14:30 | **tumblelina_123**: Ride-A-Pet Potion ×2 | **FlyToTheSaturn**: Balloons, Marsh Plush, Octopus Plush, Caticorn Rattle, Banana Pogo, Turkey Plush, Heart Balloon, Dragon Balloon, Ornament Throw Toy, Cymbal Ingredient, Cookie Dough Plush ×2, Candle ×3, Sleigh Bells Rattle ×3 |
+| 14:30 | **icedmatchayummy**: Spring Bunny Hood | **ni1zuua**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Retired Egg ×3 |
+| 14:30 | **helloeverybotieimben**: Owlbear (R), Clementine Owl, Pine Marten, Water Moon Bear | **FuzzyDayNew**: Meerkat (R) |
+| 14:30 | **Lili58320**: Seafoam Butterfly (N) | **p001torich**: Ride-A-Pet Potion |
+| 14:30 | **aoqweza**: Ride-A-Pet Potion ×17 | **Manggo_Pie40**: Kangaroo (FR) |
+| 14:30 | **SirCartier410**: Lunar White Tiger (MFR), Seahorse (MFR), Australian Kelpie (MFR), Lunar Ox (MFR), Blue Jay (MFR), Dingo (MFR), Pupcake, Pomeranian (N) | **forto04111**: Turtle (FR) |
+| 14:30 | **yeuksyrudtry56**: Scarebear (MR) | **SunCrystal056**: Siamese Cat (R) |
+| 14:30 | **sleepy_s0ren**: Glacier Moth (FR), Glacier Kitsune (FR), Pupcicle | **Miner_Void20083**: 2022 Birthday Party Horn |
+| 14:30 | **nicsbtst**: Crystal Egg ×17, Chestnut Glyptodon (N) | **JanaJanjoon11**: Gecko (N) |
+| 14:30 | **KittycornIvy01**: Black Chow-Chow (MFR), Pink Cat (FR), Cow Calf (N), Snow Owl | **lolaaItacc**: Turtle (FR) |
+| 14:30 | **atracttion**: Irish Water Spaniel (NR) | **Swan_Couture**: Candicorn (FR), Border Collie (FR) |
+| 14:30 | **loptxi**: Copycat, Jester Dragon, Spring Bunny Hood, Unicorn ×4 | **ItzSwiftdolphingirlt**: Unicorn Horn |
+| 14:30 | **viivieraa**: Cozy Mistletroll (N), Mouse (N), Jiggly Jerboa (N), Galapagos Sea Lion (N), Rubber Ducky (N), Ant (N) ×2 | **nasti_a9**: Ride-A-Pet Potion |
+| 14:30 | **noob1962963**: Pupcicle ×18 | **Mitsuri_Chan0w**: Pupcicle (M) |
+| 14:30 | **glotznd_1324**: Huntsman Robin, Caramelgeist | **Lili58320**: Corgi ×3 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
