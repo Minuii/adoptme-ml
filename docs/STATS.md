@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 08:31 UTC by the scrape workflow._
+_Updated 2026-11-15 08:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 08:31 UTC by the scrape workflow._
 | amvgg | 5 | 33,151 | 2026-11-15T08:30 |
 | elve | 5 | 7,223 | 2026-11-15T08:31 |
 
-## AMVGG completed trades: 17,688 total
+## AMVGG completed trades: 17,730 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,544 |
+| 2026-11-15 | 1,586 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:30 | **PrincessA1496**: Skelicorn ×11 | **PhoenixEpic85**: Ride-A-Pet Potion |
-| 08:30 | **Are_ulonely123**: Onza (M), Angus Calf (N), Shiba Inu (N) | **rasediva**: Pet Handler Pro Certificate |
-| 08:30 | **Stevieicecream16**: Frost Dragon (FR), Alley Cat (MFR) | **Auds191102**: Cabbit (MFR) |
-| 08:30 | **w4nd3ringG0d**: Peach Owl, Sushi Penguin | **blake_shortie**: Fly-A-Pet Potion |
-| 08:30 | **KoTuK_176**: Shark Puppy (R), Pig, Ram (NFR), Fly-A-Pet Potion | **userulikk**: Cabbit (R) |
-| 08:30 | **It3not_ay1ah**: Groundhog (NR), Leopard Cat (M) | **wldnsdlrnldudna**: Pupcicle (M) |
-| 08:30 | **pawpac1s**: Christmas Pudding Pup (R) | **xgx6702**:  |
-| 08:30 | **cuttiiesara**: Thunderfisher (N), Toucan (N), Bobageist (N), Badger (N), Clumpty (N), Bolt (N), Blue Cat (N) | **ALUCARD_5810**: Ride-A-Pet Potion |
-| 08:30 | **dianadonatlove**: Bee (F), Golden Unicorn (R), Bee, Purrowl, Retired Egg ×2 | **booluqx**: Ride-A-Pet Potion |
-| 08:30 | **XNicroyX**: Strawberry Shortcake Bat Dragon (FR), Vampire Dragon (NFR), Cerberus (NFR), Chicken (NR), German Shepherd (NR), Indian Flying Fox (NR), Rainbow Stroller | **gabBNS67**: Cryptid |
-| 08:30 | **jobebentot**: Chihuahua ×2, Purrowl ×2 | **jokerako28**: Ride-A-Pet Potion |
-| 08:21 | **zxl0106**: Ride-A-Pet Potion ×3 | **LumDayy**: Cozy Mistletroll (M) |
-| 08:21 | **DJpixel1456**: Balloon Unicorn (NFR), Balloon Unicorn (FR), Dalmatian (FR), Fairy Bat Dragon (NFR), Unicorn Horn, Tiny Wings, Pancake Stack, Mummy Spider (M), Jacobin Pigeon (M), Volcano Hat, Unfortunate Eyelashes | **Lucarioelprocomo**: Bat Dragon (FR) |
-| 08:21 | **Str3amN0va2024**: Groundhog, Arctic Fox, Turkey, Flaming Fox, Dragonfruit Fox, Shark (FR), T-Rex (FR), Ginger Cat (MFR), Fly-A-Pet Potion ×2 | **OoxiOny**: Turtle (FR) |
-| 08:21 | **odading12318**: Arctic Dusk Dragon (FR) | **iDontKnowYou89844**: Fly-A-Pet Potion ×3 |
+| 08:40 | **pawthetiic**: Purrowl ×4, Grave Owl, King Penguin (N) | **Shehatesme420**: Ride-A-Pet Potion |
+| 08:40 | **trythisrye8**: Cow (FR) ×3, Spring Bunny Hood, Lamb (FR) | **Lextus_3**: Cryptid (FR) |
+| 08:40 | **NoobA0M**: Ghost Dog (M), Ghost Dog (MFR) | **Cattychiee**: Pupcicle (M), Pupcicle (N), Pupcicle |
+| 08:40 | **777pawzz**: Dragonfruit Fox (MFR), Munchkin Cat (N) | **DeoKyleSonic**: Mini Pig (FR), Alpaca (FR), Bush Elephant |
+| 08:40 | **Nottypiacl4you**: Clumpty ×4, Caramelgeist ×4 | **Kir4kaaa**: Clumpty (N) |
+| 08:40 | **sehoois_girl**: Pelican (FR) | **BMWSHKA666**: Haetyphoon, Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 |
+| 08:40 | **roblox_user_4904540593**: Kangaroo (FR), Arctic Dusk Dragon (MFR), Jester Dragon (MFR) | **BROCKTHAULTIMATE**: Owl (FR) |
+| 08:40 | **StreamPlayz508**: Copycat | **Valerie_12342**: Ride-A-Pet Potion ×7 |
+| 08:40 | **pastyysp**: Mini Pig (R) | **H3AV3NLY_s**: Cow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Lamb |
+| 08:40 | **botoxedbody**: Banana Hat | **Valerie_12342**: Ride-A-Pet Potion |
+| 08:40 | **cutesyyxharleyss**: Boohoo (M), Admin Abuse Egg, Pomeranian (N) | **dnei30fast**: Fly-A-Pet Potion |
+| 08:40 | **Summer_pookie11**: Cherry Blossom Hang Glider | **KIWIGrbx**: Unicorn Backpack |
+| 08:40 | **ThunderLegend680**: Gemstone Egg ×4 | **N0bita_Gaming**: Fly-A-Pet Potion |
+| 08:40 | **eeliasxcx**: Ride-A-Pet Potion | **Valerie_12342**: Red Panda Ducky (M), Gecko Ducky (M) |
+| 08:40 | **kworixx**: Copycat (N), Aestus, Albino Gorilla (R), Aussie Egg ×5, Nessie (FR), Lavender Dragon (FR), Snow Owl (NFR), Unicorn (NFR) ×2, Solaris (FR), Arctic Fox ×2, Unicorn (FR), Polar Bear | **Kakashonec2**: Evil Unicorn (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
