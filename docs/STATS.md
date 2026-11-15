@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 11:55 UTC by the scrape workflow._
+_Updated 2026-11-15 12:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 11:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 36,429 | 2026-11-15T11:45 |
-| elve | 5 | 7,870 | 2026-11-15T11:45 |
+| amvgg | 5 | 36,697 | 2026-11-15T12:00 |
+| elve | 5 | 7,938 | 2026-11-15T12:01 |
 
-## AMVGG completed trades: 18,461 total
+## AMVGG completed trades: 18,476 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,317 |
+| 2026-11-15 | 2,332 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 11:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:55 | **PhoenixEpic85**: Chihuahua ×12 | **fluffyunicorns_932**: Ride-A-Pet Potion ×4 |
-| 11:55 | **ameliacaumeil**: Cabbit (R) | **Stephanie58241**: Alley Cat (NR), Alley Cat (N) |
-| 11:55 | **Isalu050112**: Kangaroo (FR), Copycat, Christmas Pudding Pup, Fly-A-Pet Potion, Ride-A-Pet Potion, Indian Leopard (N) | **Veronika_17371**: Cow (FR) |
-| 11:55 | **crybabydoIl**: Fly-A-Pet Potion ×3 | **Adoptic2**: Matcha Cat |
-| 11:55 | **BIg_BoRdy**: Bunny Swirl, Cake Friend ×2, Black Macaque, Frostbite Cub, Highland Cow, Seafoam Butterfly, Vermilion Butterfly, Sprout Snail, Toasty Red Panda, Skunk, Albino Bat, Black Kite, Irish Elk, Koi Carp, Preppy Capuchin Monkey | **hharrietq**: Red Squirrel (MFR) |
-| 11:55 | **LIAXMLV**: Skelicorn ×11, Skelicorn (N) | **ScallyB1702**: Clementine Owl (N), Ghost Bunny |
-| 11:55 | **Wizard_6321**: Crow (FR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) | **LostKeksik**: Frost Dragon (FR), Ride-A-Pet Potion |
-| 11:55 | **lWeirdPhyscol**: Unicorn Horn ×3, 2022 Birthday Cupcake Shoes, Rain Cloud Hat, 2022 Birthday Party Horn | **biq_at222**: Hot Doggo (NFR) |
-| 11:55 | **Zizzy2206**: Pupcicle, Golden Griffin ×2, Golden Dragon, Temple Friend, Quetzalcoatl, Griffin, Villain Gibbon | **melomanka_208**: Ride-A-Pet Potion ×2 |
-| 11:55 | **bluelangkatapat**: Copycat, Red Dutch Guinea Pig (R), Winter Buck (NR) | **Emmy_Nobodyy**: Crocodile (FR) |
-| 11:55 | **Pspspskskssk**: Turtle (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **wskdaks**: Cow (FR) |
-| 11:55 | **gaerent12**: Turtle (FR), Kangaroo (FR), Kangaroo, Swan, Cherub Chipmunk (M) | **yusokini25**: Chocolate Chip Bat Dragon (FR) |
-| 11:55 | **Elfik1k**: Border Collie (R), Diamond Unicorn (MR) | **ImZaira5**: S'mores Raccoon (MFR) |
-| 11:55 | **strawberry_thea08**: Sea Turtle | **belovez_21**: Retired Egg ×3 |
-| 11:55 | **strawberry_thea08**: Fire Mare | **belovez_21**: Retired Egg ×6 |
+| 12:00 | **Felix71_34**: Peppermint Penguin (FR), Flower Power Duckling (MFR), Brown Bear (NFR), Ice Cream Cone Hat, Bunny Swirl (N) ×2 | **AvaCometfish961**: Cow (NFR) |
+| 12:00 | **Popa67742**: Thinking Hat | **esmeralda2597**: Ride-A-Pet Potion |
+| 12:00 | **11slweepy**: Turtle (FR), Alley Cat, Zombie Wolf, Fly-A-Pet Potion | **sol_o986**: Werewolf (R) |
+| 12:00 | **Croquinou_Lover**: Crystal Egg ×3 | **Gumbalots**: Cattuccino ×2 |
+| 12:00 | **kyle_A1T**: Vanilla Penguin, Royal Palace Spaniel (FR) | **ikabackflip**: Fly-A-Pet Potion |
+| 12:00 | **j456k**: Frostbite Bear (R) | **Cattychiee**: Pupcicle (MFR) |
+| 12:00 | **YOKOZ303**: Merry Mistletroll (M) | **elitro44**: Fly-A-Pet Potion ×4 |
+| 12:00 | **wowohaha17**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Mrs. Whiskerpips, Dirty Ducky | **mixxqwiex**: Copycat (FR) |
+| 12:00 | **adoptmesuchti1707**: Ride-A-Pet Potion | **Lili58320**: Scarlet Butterfly, Snowball Pug, Sloth, St Bernard |
+| 12:00 | **Arina_100500sis**: Ride-A-Pet Potion ×3, Dragonfruit Fox (R), Diamond Ladybug (R), Diamond Mahi Mahi (R), Snow Owl (R), Dire Wolf (R) | **pysugwysu**: Pig |
+| 12:00 | **yxnnixb**: Purrowl (N) ×3 | **pecrylover123**: Fly-A-Pet Potion |
+| 12:00 | **ritvarsburevicss**: Glyptodon (FR) | **EduardaVeilmont**: Ride-A-Pet Potion |
+| 12:00 | **Jakey_Makeyy**: Chocolate Chip Bat Dragon (FR), Cow (FR), Frost Unicorn (FR), Siamese Cat (R) ×2, Siamese Cat | **d4rlingjazzy**: Goose (NFR), Sugar Glider (NFR), Elephant (FR) |
+| 12:00 | **anaataccia**: Flower Power Duckling, Samoyed, Chick, Happy Duckling | **Fidelia2131415**: Ride-A-Pet Potion |
+| 12:00 | **Smookgans**: Chocolate Chip Bat Dragon (FR), Glacier Kitsune (FR) | **ZuzaOnlyMy**: Arctic Reindeer (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
