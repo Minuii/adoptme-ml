@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 15:10 UTC by the scrape workflow._
+_Updated 2026-11-15 15:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 15:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 39,760 | 2026-11-15T15:00 |
-| elve | 5 | 8,658 | 2026-11-15T15:01 |
+| amvgg | 5 | 40,010 | 2026-11-15T15:15 |
+| elve | 5 | 8,716 | 2026-11-15T15:16 |
 
-## AMVGG completed trades: 19,460 total
+## AMVGG completed trades: 19,495 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 3,316 |
+| 2026-11-15 | 3,351 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 15:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:10 | **miha040211**: Pony Box ×2 | **Adoptmestocks3000**: Ride-A-Pet Potion |
-| 15:10 | **azucar4574l**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **MilkShake_CookieMilk**: Copycat |
-| 15:10 | **CydoneiQuartz**: Cherry Blossom Hang Glider | **iSxmple_xx**: Ice Cream Cone Hat |
-| 15:06 | **bluelangkatapat**: Munchkin Cat, Werewolf (FR) | **dzunkl**: Strawberry Tortle |
-| 15:06 | **aisksiakamxmxdm**: Arctic Dusk Dragon (MFR) | **tere7ho**: Evil Unicorn (FR) |
-| 15:06 | **IREV0LT1NG**: Dalmatian (FR), Hedgehog (FR), Peppermint Penguin, Strawberry Shortcake Bat Dragon (FR), Bunny Swirl (MR), Shrew (R) | **akzoad**: Frost Dragon (FR) |
-| 15:06 | **Din0_404**: Moon Rabbit (NFR), Ride-A-Pet Potion | **Julka12345ho**: Dugong (MFR) |
-| 15:06 | **Maesxwrlds**: Haetyphoon | **Chicken1nuggets09092**: Chocolate Dutch Guinea Pig ×4, Vanilla Penguin, Elf Hat, Bat Wings, Aviator Hat ×2, Burger Boots ×2, Yeti (R), S'mores Raccoon ×2, Lynx |
-| 15:06 | **UvU_gg6**: Frost Fury (FR) | **Esikiiomuru**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
-| 15:06 | **seb_ihhh**: Count Slothula (MFR) | **mofncufjs**: Latte Kitsune (NFR) |
-| 15:06 | **6arixia**: Unicorn Horn | **CC_CreepyClown11**: Werewolf (FR) |
-| 15:06 | **6arixia**: 2022 Birthday Cupcake Shoes | **itz_ChenJianYan9**: Werewolf |
-| 15:06 | **noob1962963**: Pupcicle (M), Pupcicle | **CAXAPOK_1122332**: Turtle (FR) |
-| 15:06 | **Elis_thxx**: Ride-A-Pet Potion, Candyfloss Mega Neon Paint | **Sh_emily11**: Fly-A-Pet Potion |
-| 15:06 | **CoastLune**: Canadian Goose (MR), Choco Penguin (MFR) | **Ashvr_s0ul9**: Eggnog Dog (MFR) |
+| 15:15 | **Nita208901**: Glormy Crab | **Est3lleluv**: Christmas Pudding House |
+| 15:15 | **Klaysi_flayra**: Frozen Penguin ×4, Toxic Kaijunior, Amber Butterfly, Cherub Chipmunk, Castle Hermit Crab, Cow Calf, Angus Cow, Dotted Eggy, Gorilla, Ocelot | **frecalsplogeok9**: Ride-A-Pet Potion |
+| 15:15 | **fenekitfixismymain**: Ride-A-Pet Potion | **Lover1273627**: Hamster (FR), Swordfish (N) |
+| 15:15 | **Itz_irchik2**: Goose (R) ×5, Goose (F), Shrew (R) | **yuno1229000**: Owl (FR) |
+| 15:15 | **omerbcen542009**: Chocolate Chip Bat Dragon (R), Munchkin Cat | **Elis_thxx**: Arctic Reindeer (FR) |
+| 15:15 | **docedelets**: Tutu | **Kisa_Mika8**: Chihuahua |
+| 15:15 | **Xxxxashhhh**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Golden Lettuce | **Goodnews2013**: Vampire Dragon (FR) |
+| 15:15 | **Scentoftea**: Sea Slug (R), Admin Abuse Egg | **Honeymochi_oo**: Jellyfish (FR) |
+| 15:15 | **Klaysi_flayra**: Icy Porcupine ×4, Summer Walrus, River Otter, Tree Sasquatch, Galapagos Sea Lion, Chick, Patchy Bear, Lobster, Turtle Doves ×2, Mistletroll, Arctic Hare, Zeopod ×2, Zebra | **frecalsplogeok9**: Ride-A-Pet Potion |
+| 15:15 | **jplubn**: Frost Dragon (FR), Matcha Cat (NR), Field Mouse ×3, Copycat | **Reterirbair1989**: Parrot (NFR) |
+| 15:15 | **Tigarisgod**: Evil Unicorn (FR), Goose | **picklesyumyy**: Shark Puppy (MFR) |
+| 15:15 | **lolmeits_lisa2**: Pupcicle | **yourmyrara**: Ride-A-Pet Potion |
+| 15:15 | **6evesvokhaha**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **KenyaSharp**: Ghost Chick (MFR) |
+| 15:15 | **victoriano_secreto**: Swan (MFR) | **Aslie_17**: Strawberry Tortle (FR) |
+| 15:15 | **vxzzz632**: Rain Hat, Heart Bow, Jester Hat, Gold Tiara | **elys_qn**: Rain Boots |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
