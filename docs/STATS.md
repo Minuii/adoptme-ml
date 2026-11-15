@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 19:55 UTC by the scrape workflow._
+_Updated 2026-11-15 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 44,794 | 2026-11-15T19:45 |
-| elve | 5 | 9,809 | 2026-11-15T19:45 |
+| amvgg | 5 | 45,069 | 2026-11-15T20:00 |
+| elve | 5 | 9,874 | 2026-11-15T20:01 |
 
-## AMVGG completed trades: 21,074 total
+## AMVGG completed trades: 21,096 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,930 |
+| 2026-11-15 | 4,952 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:55 | **Gamerqueen1255**: Gemstone Egg | **exotiqsss**: Retired Egg ×18 |
-| 19:55 | **amyggvaI**: Crow (FR), Siamese Cat (R), Ballet Swan (NFR), Ice Golem (NFR), Cake Friend (MR), Red Squirrel (M), Munchkin Cat, Cow | **akzoad**: Frost Dragon (FR) |
-| 19:55 | **AVAPAWSXO**: Mermicorn (FR), Turtle (FR) ×2, Elephant (FR), Cow (FR), Copycat (FR), Jester Dragon (FR), Frost Fury (FR), Arctic Dusk Dragon (FR), Ice Cream Hermit Crab, Flaming Fox | **akzoad**: Crow (FR) |
-| 19:55 | **kogaaxrt**: Turtle (FR) | **SWEETMISS_KITTY**: Pupcicle (MFR) |
-| 19:55 | **Amvggelvee2**: Shadow Dragon (FR), Giant Anteater (MFR), Unicorn Horn, Mini Pig (NFR), Rain Cloud Hat, Sandwich Hat, RB Battles Trophy Hat | **1iik_0**: Bat Dragon (FR) |
-| 19:55 | **bad_boss1235**: Hummingbird, Clownfish, Puptune | **kajaterezka**: Ride-A-Pet Potion |
-| 19:55 | **caycay_3800**: Hydra (NR), Pain au Chat, King Penguin (R) | **chunkymunkava0**: Horse (NFR) |
-| 19:55 | **0BVSLUCA**: Cow (R) | **xGothiycx**: Matcha Cat (NFR) |
-| 19:50 | **iluvvvstrawberries**: Giant Panda (FR), Chocolate Chip Bat Dragon (FR), Siamese Cat (MFR), Unicorn Horn, Dragonfruit Fox (NFR) | **SavageFox_Alpha1**: Giraffe (FR) |
-| 19:50 | **AMINO4KA7U**: Amami Rabbit (N) | **AncientLady2**: Dragonfruit Fox |
-| 19:50 | **Nastya_367367**: Ruddy Duck (M) | **Kvvaczucha**: Happy Duckling |
-| 19:50 | **loveyy232**: Pupcicle ×4 | **Eugenia873**: Spring Bunny Hood |
-| 19:50 | **MEL1TTIN**: Frost Unicorn (FR) | **zwhkyx**: Werewolf (FR) |
-| 19:50 | **Esmeralda_318**: Turtle (FR) ×2 | **margini_mini**: Cabbit (FR), Albino Monkey (FR), Fly-A-Pet Potion |
-| 19:50 | **CIU2004**: Red Dutch Guinea Pig | **Ashleigh_HE123**: Ride-A-Pet Potion ×3 |
+| 20:00 | **hexyzbagoc31**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Z0mb13H34rtzzz**: Ring-Tailed Lemur (F), Pupcicle |
+| 20:00 | **icanbehim19**: Fly-A-Pet Potion | **awim123**: Stray Cat Dragon (M) |
+| 20:00 | **i_jured**: Pupcicle (MFR) | **eyebagsq**: French Bulldog (MFR) |
+| 20:00 | **v1koko228**: Ride-A-Pet Potion | **kdhnfhfh**: Alien Eyes Hat |
+| 20:00 | **gumiiitooo**: Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Albino Monkey (FR) | **L_person21**: Arctic Reindeer (FR) |
+| 20:00 | **luvyerh**: Pig (R), Capybara | **keilaaadotcom**: Pig (FR) |
+| 20:00 | **MinaBach**: Flower Power Duckling, Pain au Chat, Royal Palace Spaniel, Candy Cane Snail, Leopard Cat, Canadian Goose, Irish Elk, Wolf, St Bernard, Tanuki, Magma Snail, Shetland Pony White, Spider Crab, Sabertooth, Pine Marten, Water Moon Bear (N) | **kawaiicatgirl798**: Puffin |
+| 20:00 | **kartochecha2**: Admin Abuse Egg ×9 | **6767mellstroy67**: Retired Egg ×15 |
+| 20:00 | **Kekemin11**: Spring Bunny Hood, Ice Cream Cone Hat, Pupcicle (N) | **dosh1kk_dasha**: Rain Cloud Hat |
+| 20:00 | **Aggr0berlin**: Poodle (M), Princess Mare (M), Purrowl (M) | **ms_kusa0**: Hare |
+| 20:00 | **XxLovelyEvanxX**: Phantom Dragon (NFR) | **sona6839**: Grim Dragon (FR) |
+| 20:00 | **Dwolify**: Werewolf (R) | **CHOCOLAL_LI**: Unicorn Horn |
+| 20:00 | **Cxraell**: Zodiac Minion Chick (N) | **erditiri03**: Evil Rock |
+| 20:00 | **bloodymedsss**: Latte Kitsune (MFR), Unicorn Horn | **LilBabyUni1**: Arctic Fox (MFR) |
+| 20:00 | **Gamerqueen1255**: Gemstone Egg | **Gacha_3356**: Retired Egg ×18 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
