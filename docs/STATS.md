@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 18:01 UTC by the scrape workflow._
+_Updated 2026-11-15 18:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 18:01 UTC by the scrape workflow._
 | amvgg | 5 | 42,899 | 2026-11-15T18:00 |
 | elve | 5 | 9,443 | 2026-11-15T18:01 |
 
-## AMVGG completed trades: 20,368 total
+## AMVGG completed trades: 20,463 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,224 |
+| 2026-11-15 | 4,319 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 18:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:00 | **d0nkeysilly944**: 2025 Birthday Butterfly (M) | **Adoptmestocks3000**: Ride-A-Pet Potion |
-| 18:00 | **likeer76890**: Frost Unicorn (R) | **Adoptmestocks3000**: Werewolf (FR) |
-| 17:55 | **denjisguilt**: Munchkin Cat (MFR) | **dammam_1234**: Lion Cub (MFR) |
-| 17:55 | **nskwlp0**: Goat (R) | **Artem4ik000731**: Chinese Lantern |
-| 17:55 | **harsheydagoat**: Goose (MFR), Sakura Spirit (MFR) | **copyvoting**: Giraffe (FR) |
-| 17:55 | **Vernite_chat0**: Thunderfisher (N) | **delilahbear3030**: Retired Egg ×18 |
-| 17:55 | **Sandy18rgdd**: Shark Puppy | **Popa67524269**: Munchkin Cat (R) |
-| 17:55 | **mixxqwiex**: Sugar Glider (FR), Ride-A-Pet Potion | **NummieNummiegirl**: Fairy Bat Dragon (FR) |
-| 17:55 | **snugglypolarbearpaws**: Copycat (MR) | **DONTTRADEMEGOD**: Siamese Cat (N), Rainbow Maker |
-| 17:55 | **stellalovessyou**: Ride-A-Pet Potion | **vxzzz632**: Paint Sealer ×13 |
-| 17:55 | **minismudgepanda**: Aye Aye (M), Cherub Chipmunk (M), Bunny (M) | **lovlee61**: Pupcake ×3 |
-| 17:55 | **doraatje122**: Frostbite Bear (MFR), Owl (NFR), Cow (R), Gaelic Fae (FR), Chocolate Dutch Guinea Pig, Black Panther | **jiio111**: Bat Dragon (FR) |
-| 17:55 | **ohbeesitee**: Boohoo (M), Count Slothula ×2 | **jiio111**: Dire Wolf (M), Ride-A-Pet Potion, RGB Monster Truck |
-| 17:55 | **Hecksyah221**: Siamese Cat (R), Glormy Hound (FR) | **ElimonZa**: Owlbear (NFR) |
-| 17:55 | **AdoptMeHere03**: Fly-A-Pet Potion ×18 | **PixiePawsTrade**: Blue Egg |
+| 18:10 | **no_name12345654321**: Sushi Penguin, Mouse (M) | **katerina_ishchak**: Ride-A-Pet Potion |
+| 18:10 | **Irinka717**: Sushi Penguin, Rabbit (N) | **katerina_ishchak**: Ride-A-Pet Potion |
+| 18:10 | **Artem_21a2**: Spring Bunny Feet, Pink Cat Ear Headphones | **Dinkarrt**: Ride-A-Pet Potion ×3 |
+| 18:10 | **XxGrace_StormxX54**: Ride-A-Pet Potion, Fly-A-Pet Potion, Elf Hat, Halloween White Mummy Cat (N) | **laycakees**: Spring Bunny Hood |
+| 18:10 | **kajaterezka**: Copycat | **Tree092109**: Ride-A-Pet Potion ×6 |
+| 18:10 | **yanchik0067**: Parrot (NFR), Cow (R), Fly-A-Pet Potion ×2 | **catDJpop17**: Frost Dragon (FR), Evil Unicorn (FR) |
+| 18:10 | **Adrinea_xo**: Peppermint Penguin (FR), Elephant (NFR), Cow (FR), Ride-A-Pet Potion | **59DAMAGE**: Cryptid (FR) |
+| 18:10 | **scrossgirl**: Tiny Wings, Spring Bunny Hood, Owlbear, Dugong (MR), Cotton Candy Hat | **Tal_Kazman**: 2022 Birthday Cake |
+| 18:10 | **darkbunsfan**: 2022 Birthday Party Hat, Jester Dragon, Ride-A-Pet Potion ×3 | **Tal_Kazman**: Peppermint Penguin |
+| 18:10 | **Dimash_bash**: Brown Bear | **jauzyp**: Pupcicle ×3 |
+| 18:10 | **rafaelousthecrazy**: Admin Abuse Egg ×15, Admin Abuse Box ×3 | **looter_love**: Ride-A-Pet Potion |
+| 18:10 | **robloxianhermoine**: Pupcicle | **ocly2**: Tuxedo Cat |
+| 18:10 | **M00Nligth100**: Vanilla Penguin, Ride-A-Pet Potion, Great Pyrenees, Moonpine (N), Three Blind Mice, Stray Cat Dragon ×2, Magma Snail (N) | **Star_Girl5841**: Bird of Paradise (M) |
+| 18:10 | **AddyClip**: Dragonfruit Fox | **LYIZA_1976**: Pet Handler Pro Certificate |
+| 18:10 | **Hosikoooooo**: Glormy Dolphin (N) | **Elza131112**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
