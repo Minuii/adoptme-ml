@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 11:16 UTC by the scrape workflow._
+_Updated 2026-11-15 11:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 11:16 UTC by the scrape workflow._
 | amvgg | 5 | 35,897 | 2026-11-15T11:15 |
 | elve | 5 | 7,794 | 2026-11-15T11:16 |
 
-## AMVGG completed trades: 18,255 total
+## AMVGG completed trades: 18,325 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,111 |
+| 2026-11-15 | 2,181 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 11:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:10 | **Lili58320**: Red Panda (N), Shiba Inu (N), Starmite (N), Abyssinian Cat (N) | **un1corng1rl507**: Ride-A-Pet Potion |
-| 11:10 | **2creme1sucre**: Unicorn Horn | **peachieskiwi**: Siamese Cat, Ride-A-Pet Potion, Butter Knife |
-| 11:10 | **YouAreBannedWitch**: Ride-A-Pet Potion, Cattuccino (N) | **un1corng1rl507**: Fly-A-Pet Potion |
-| 11:10 | **Txskiicatzz**: Strawberry Shortcake Bat Dragon (NFR), Sheeeeep (R), Spring Bunny Hood, Pink Cat Ear Headphones, Pupcake | **LiekeLuvsWillow**: Balloon Unicorn (FR) |
-| 11:10 | **pozzibros77394**: Blazing Lion (R), Fly-A-Pet Potion | **lba_fofe**: Strawberry Shortcake Bat Dragon (FR) ×2 |
-| 11:10 | **fox_100l**: Cabbit (FR), Grim Dragon (FR), Leopard Cat (MFR) | **Unknown_Valire**: Chocolate Chip Bat Dragon (FR) |
-| 11:10 | **DragonjJDusta107130**: Shark Puppy | **shabsiscute**: Ride-A-Pet Potion ×10 |
-| 11:10 | **Strang3rL30**: Unicorn | **eqfqriz**: Pupcicle |
-| 11:10 | **XisokoGame**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **xxjohnjokexx**: Jester Dragon |
-| 11:10 | **cggfhjuh**: Emperor Gorilla (FR), Octopus (NFR), Slime (R), Green-Chested Pheasant (NR), Ride-A-Pet Potion | **allkssa1**: Kangaroo (FR) |
-| 11:10 | **kittycutecat11130**: Turtle (FR) | **Cattychiee**: Pupcicle (M) |
-| 11:10 | **ambervgils**: Strawberry Shortcake Bat Dragon (FR) ×13 | **vsphone0027**: Bat Dragon (FR) |
-| 11:10 | **UnUcreepy**: Puppeteer Hand | **jadecute11111**: Buttoned Ushanka |
-| 11:10 | **lobikate122**: Tarsier | **Sodka_2015yy**: Chipmunk |
-| 11:10 | **love_cat6242**: Irish Setter (NR), Japanese Snow Fairy (M) | **leozinha_bee**: Maine Coon (N) |
+| 11:25 | **Pidilypops2nd**: Alpaca (R) | **Esikiiomuru**: Caterpillar (R), Moose Calf (R), Pupcicle, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 11:25 | **Alisenok010**: Sushi Penguin (N), Fly-A-Pet Potion, Ride-A-Pet Potion | **jxylvvvvvv**: Jester Dragon (FR) |
+| 11:25 | **Kira9975335**: Blue Boohoo Mega Neon Paint | **Elwena_xX**: Ride-A-Pet Potion |
+| 11:25 | **13kMelodys**: Cow (FR), Fairy Bat Dragon (R) | **Hokishakita_Hoshi**: Strawberry Shortcake Bat Dragon (FR) |
+| 11:25 | **zxl0106**: Ride-A-Pet Potion ×4 | **Panda39643**: Gemstone Egg ×9 |
+| 11:25 | **Hokishakita_Hoshi**: Unicorn, Black Tiger (M), Cocoadile (N) | **anekalubitnaruto**: Pupcicle, Frostbite Cub |
+| 11:25 | **Xiao_Xinx0**: Chipmunk (M), Dango Penguins, Pink Cat Ear Headphones | **sofiacookieyay**: Pain au Chat (M) |
+| 11:25 | **amthatxox**: Candicorn (NFR), Albino Monkey (R) | **MonkeyFox456**: Rainbow Maker |
+| 11:25 | **Marizhaxx53**: Ride-A-Pet Potion | **flopa12294**: Black Springer Spaniel (R) |
+| 11:25 | **Little_vamp0**: Cabbit (NFR), Tasmanian Devil (M), Cute-A-Cabra (M), Ride-A-Pet Potion | **xXAestheticxSkyX**: Hedgehog (FR) |
+| 11:25 | **Domama413**: Cow (NFR), Peppermint Penguin (FR), Strawberry Tortle (FR), Cabbit (R), Kangaroo (FR), Albino Monkey (R), Border Collie (FR), Cattuccino | **N0ugatt**: Owl (FR) |
+| 11:25 | **gxvupx**: Ginger Cat (N) | **Tanaka_Ai7**: Purrowl ×2 |
+| 11:25 | **Flutterieshyy**: Fairy Bat Dragon (FR), Silverback Gorilla, Purrowl (N) | **IvanGinSenpai**: Cow (FR) |
+| 11:25 | **harda677**: Dalmatian (FR), Turtle (FR) ×2, Candicorn (FR), King Bee (NFR), Majestic Pony (FR), Snow Leopard (FR), Axolotl (FR), River Otter (MR), Chihuahua (R) | **notiamjhom**: Crow (FR) |
+| 11:25 | **lgvabhs101**: Mochi Meow Tumble Animated Sticker, Frostbite Bear and Cub Animated Sticker | **cbmelissa**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
