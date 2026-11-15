@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 21:16 UTC by the scrape workflow._
+_Updated 2026-11-15 21:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 21:16 UTC by the scrape workflow._
 | amvgg | 5 | 46,391 | 2026-11-15T21:15 |
 | elve | 5 | 10,192 | 2026-11-15T21:16 |
 
-## AMVGG completed trades: 21,484 total
+## AMVGG completed trades: 21,509 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,340 |
+| 2026-11-15 | 5,365 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 21:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:15 | **llanpro_gamer**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (R) | **Callumgggg5**: Dalmatian (FR) |
-| 21:15 | **Li0nH3r086**: Sakura Spirit (MFR), Cow (R) | **Bobothatdudehaha**: Giant Panda (FR) |
-| 21:15 | **copyvoting**: Sakura Spirit (MFR), Chocolate Dutch Guinea Pig (MFR) | **Bobothatdudehaha**: Giant Panda (FR) |
-| 21:15 | **Sona_tnm**: Magma Moose, Ride-A-Pet Potion | **toksiki454**: Royal Desert Egg |
-| 21:15 | **aylacool45**: Tortuga de la Isla (NFR), Goose (R), Crocodile | **Getmossedbyagirlheh**: Kangaroo (NFR), Kangaroo (R), Kangaroo |
-| 21:15 | **missprinqeen12**: Chinese Lantern, Pupcicle | **Amvgg_nul**: Ice Cream Cone Hat |
-| 21:15 | **anekalubitnaruto**: Shooting Star Board | **Siyunmeow**: Ride-A-Pet Potion ×4, Panda (FR) |
-| 21:15 | **Mimiplayztz123**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **Snip3rjkPrismAkZ3ro1**: Cow (FR) |
-| 21:15 | **poordiors**: Crystal Egg ×12 | **hefeltsafe**: Retired Egg ×18 |
-| 21:15 | **Kjghkkl51**: Strawberry Shortcake Bat Dragon (FR) | **udie446**: Frostbite Bear (N) |
-| 21:15 | **Kaylarena444**: Pet Handler Pro Certificate | **Polino4ka1986**: Happy Duckling (N) |
-| 21:15 | **poordiors**: Island Tarsier (M) | **ilovefnaf646**: Ride-A-Pet Potion |
-| 21:15 | **PartyBratJaylaaaa**: Tiny Wings, Magma Moose (M), Brachiosaurus (MR) | **sjhwgduuwdn2ji**: Haetyphoon |
-| 21:15 | **Diablita_kunxd20**: Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion | **nekostachie**: Harp Seal (MFR) |
-| 21:15 | **nekostachie**: Cryptid (NFR), 2022 Birthday Party Horn, Amami Rabbit (MFR) | **axuerilyt**: Giant Panda (FR), Peppermint Penguin (NFR), Ride-A-Pet Potion |
+| 21:25 | **20Lilz11**: Green Amazon (M), Chihuahua (N), Fly-A-Pet Potion, Pupcicle ×7 | **Void88881**: Haetyphoon |
+| 21:25 | **camiilita_7w7**: Irish Water Spaniel (R) | **azert10987**: Unicorn (NFR), Ride-A-Pet Potion ×2, Nature's Crown |
+| 21:25 | **ch0colatadafresca**: Pupcicle ×4 | **DEATHOPLE**: Kitsune (NFR) |
+| 21:25 | **dustystormss**: Sakura Spirit (MFR), Cupid Dragon (MFR), 2022 Birthday Cake | **Adoptmetradingalt82**: Tortoiseshell Guinea Pig (MFR) |
+| 21:25 | **mm2onlytrading**: Grim Dragon (NFR), Arctic Dusk Dragon (NFR), Lava Dragon (NFR), Candicorn (NFR), Pig, Fly-A-Pet Potion, Ride-A-Pet Potion | **sofiaozonopros**: Crow (FR) |
+| 21:25 | **viksueps**: Fly-A-Pet Potion ×5 | **84382g**: Ride-A-Pet Potion ×9 |
+| 21:25 | **aMvggval43**: German Shepherd (MFR), Silverback Gorilla (NR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Border Collie | **arttupppa**: Shrew (MFR) |
+| 21:25 | **kelsiiaaxo**: Giant Panda (FR), Mini Pig, Frost Unicorn (R), Tiny Wings | **Rainbowunicorn5303**: Owl (FR) |
+| 21:25 | **bypalmas**: Mini Pig | **Googedy184**: Tree Kangaroo (MFR) |
+| 21:25 | **Omar2002548**: Albino Monkey (FR), Glormy Hound | **folow_lera0**: Irish Water Spaniel, Tortuga de la Isla (R), Many Mackerel (R) |
+| 21:25 | **lovefrommel**: Werewolf (R), Fly-A-Pet Potion | **Omar2002548**: Peacock (MFR) |
+| 21:25 | **andeas999**: Ratatoskr (M) | **sufferingtogether**: Ride-A-Pet Potion |
+| 21:25 | **shainikss**: Candicorn (NFR), 2022 Birthday Party Horn, Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **rmves**: Strawberry Shortcake Bat Dragon (FR) |
+| 21:25 | **geopour15**: Turtle (NFR), Copycat (R), Ride-A-Pet Potion ×8 | **cat_meyaw**: Strawberry Shortcake Bat Dragon (FR) |
+| 21:25 | **IDFeelAnything**: Cow (NFR), Ride-A-Pet Potion ×2 | **hisd3sires**: Turtle (FR), Turtle (NFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
