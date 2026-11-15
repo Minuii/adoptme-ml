@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 04:31 UTC by the scrape workflow._
+_Updated 2026-11-15 04:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 04:31 UTC by the scrape workflow._
 | amvgg | 5 | 29,299 | 2026-11-15T04:30 |
 | elve | 5 | 6,375 | 2026-11-15T04:31 |
 
-## AMVGG completed trades: 17,024 total
+## AMVGG completed trades: 17,041 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 880 |
+| 2026-11-15 | 897 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 04:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:30 | **FlyToTheSaturn**: Halloween White Mummy Cat, Ghost Wolf, Emu ×4, Dilophosaurus, Australian Kelpie ×3, Dingo ×4, Triceratops ×3, Bandicoot | **Vexvzr**: Fly-A-Pet Potion |
-| 04:30 | **Haivannyhere**: Werewolf (FR) | **pookie1917**: French Bulldog (MFR), Ride-A-Pet Potion |
-| 04:30 | **themudwizard**: Kangaroo (FR), Kangaroo (R) ×2, Sakura Spirit, Ride-A-Pet Potion | **rianasfanboy**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:30 | **wjredmind**: Hero Gibbon, Platypus, Fly-A-Pet Potion, Castle Hermit Crab (N) ×2, Gecko (N) ×2, Wood Pigeon ×3, Shadow Dragon Ducky (N) ×3, Choco Penguin (N), Choco Penguin (NR), Copycat, Harp Seal, Silly Duck | **booluqx**: Undead Jousting Horse (FR) |
-| 04:30 | **Robloxianr5w0v2u2i**: Pet Handler Pro Certificate | **Riikka_Takanashiii**: Hippo ×2, Violet Friend, Pudding Cat |
-| 04:30 | **suzy072211**: Jester Dragon, Ride-A-Pet Potion | **celexkhifyt**: Copycat |
-| 04:30 | **Bubbiduu**: Ride-A-Pet Potion | **hunterwarrior0558**: Pain au Chat ×2 |
-| 04:30 | **Alisjdfhh**: Cherry-On-Top | **Edwinisme4th**: Copycat (N) |
-| 04:30 | **angelicpretti**: Alley Cat (MFR), Cow (FR) | **sweetn6thing**: Owlbear (MFR) |
-| 04:30 | **sIeepymimi**: Pupcicle ×4 | **cbmelissa**: Spring Bunny Hood |
-| 04:30 | **angelicpretti**: Balloon Unicorn (NFR) | **auroraluvqs**: Siamese Cat (MFR), Munchkin Cat (MFR), Alley Cat (MFR) ×2, Candicorn (MFR), Ermine (MR) |
-| 04:30 | **N0ugatt**: Kangaroo (R) | **iangallagher_s1**: Christmas Pudding Pup, Caelum Cervi, Brown Bear, Unicorn Backpack |
-| 04:30 | **kirat292**: Fly-A-Pet Potion ×3 | **aquxsz**: Skelicorn (MFR) |
-| 04:30 | **FlyToTheSaturn**: Dingo ×4, Cute-A-Cabra, Crab ×2, Bat ×3, Woolly Mammoth, Seahorse, Pterodactyl ×3, Narwhal, Monkey ×2 | **BABYCRAC120**: Fly-A-Pet Potion |
-| 04:30 | **minismudgepanda**: Cow (R), Toasty Red Panda (N), Water Rabbit | **Puka7366**: Hot Doggo |
+| 04:40 | **luxsdomain**: Cow (FR), Cow (R), Fairy Bat Dragon (FR), Turtle (FR), Sugar Glider (FR), Rain Cloud Hat, Fly-A-Pet Potion, Ride-A-Pet Potion, Bunny Stroller | **notiamjhom**: Parrot (FR) |
+| 04:40 | **ameyyass**: Ride-A-Pet Potion ×2 | **slf_dstruct**: Japanese Snow Fairy (M), Sunflower Friend (M), Bobageist (M) |
+| 04:40 | **Catgirl081423**: Zombie Wolf (MFR), Rain Cloud Hat | **wjredmind**: Undead Jousting Horse (FR) |
+| 04:40 | **theking_56yt**: Pain au Chat | **Seyounggggiee**: Rubber Ducks |
+| 04:40 | **Wwwaaa_681**: Turtle (NFR), Phantom Dragon (NFR), Albino Monkey (FR), Crocodile (FR), Crocodile (R) ×2, Candicorn (R) ×2, Arctic Fox (MFR), Drake (MR), Pink Cat (R) | **notiamjhom**: Frost Dragon (FR) |
+| 04:40 | **CcLuims011x**: Dalmatian (FR), Alley Cat, Harp Seal | **Leon555s5**: Fairy Bat Dragon (NFR) |
+| 04:40 | **Plckl3s_w**: Firefly (MFR), Water Rabbit (MR), Pretty Pony (MR), Owlbear (R) | **q_culvs**: Ice Golem (MFR) |
+| 04:40 | **ponchik_3721**: Copycat (NFR), Unicorn (MR) | **Justin_qvp**: Candicorn (NR) |
+| 04:36 | **Officalyuichi**: Crow (FR), Goose (FR) | **BAJl03**: Strawberry Shortcake Bat Dragon (FR) ×3 |
+| 04:36 | **BAJl03**: Rainbow Maker | **Harper_Claw123**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:36 | **Gap4481**: Slime, Lavender Dragon (FR), Spring Bunny Nose, Hamster (R) | **xXCreamy_starXx0**: Ice Cream Cone Hat |
+| 04:36 | **TaisiyaMilashka**: Skeleton Winged Glider | **hunterwarrior0558**: Pupcicle |
+| 04:36 | **Superfish_71**: Ride-A-Pet Potion ×2 | **hunterwarrior0558**: Bakeneko (M) |
+| 04:36 | **Cute_Cinabon**: Ice Cream Cone Hat, Gemstone Egg ×2 | **hunterwarrior0558**: Pupcicle ×6 |
+| 04:36 | **slyvls**: Flamingo | **johnpatricktasunci16**: Catte ×18 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
