@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 02:16 UTC by the scrape workflow._
+_Updated 2026-11-15 02:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 02:16 UTC by the scrape workflow._
 | amvgg | 5 | 27,060 | 2026-11-15T02:15 |
 | elve | 5 | 5,880 | 2026-11-15T02:16 |
 
-## AMVGG completed trades: 16,563 total
+## AMVGG completed trades: 16,592 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 419 |
+| 2026-11-15 | 448 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 02:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:10 | **D8RYY**: Pupcicle (M) | **rainthatxx**: Turtle (FR) |
-| 02:10 | **AwuitadeUva100**: Parrot (FR), Dalmatian (FR), Grim Dragon (FR), Christmas Pudding Pup | **MimiChibi64**: Frost Dragon (FR) |
-| 02:10 | **kokoroganao**: Rainbow Maker, Unicorn Horn, Spring Bunny Nose ×2, 2022 Birthday Cake, Cabbit (FR) | **hanb3ki**: African Wild Dog (FR) |
-| 02:10 | **yamarhs**: Pupcicle (N) ×2, Pupcicle ×3 | **PixiePawsTrade**: Polar Bear (N) |
-| 02:10 | **lulitadddd**: Halloween Black Mummy Cat (MR), Halloween Black Mummy Cat (M), Dire Wolf, Boohoo, Catte | **Name_robloxx02**: Cattuccino (M) |
-| 02:10 | **iisunflower_sunyy**: Retired Egg ×12 | **mofncufjs**: Ginger Cat (N) |
-| 02:10 | **N0ugatt**: Peppermint Penguin (FR) | **pssixotrop**: Arctic Dusk Dragon (FR) ×2, Christmas Pudding Pup (FR), Christmas Pudding Pup, Unicorn, Snow Owl (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 02:10 | **YUMIIMOTHZZ**: Cryptid (FR), Giant Panda (FR) | **cheesewondercrisps**: Frost Dragon (FR) |
-| 02:10 | **itsk_aI4**: Caterpillar | **Nasha1ra**: Munchkin Cat |
-| 02:10 | **EvelynUwU255sfk**: Retired Egg ×2, Jiggly Jerboa, Cat | **Kotuk6719**: Stitches |
-| 02:10 | **rynxwrs**: Momma Moose (M) | **hzmimii**: Ride-A-Pet Potion ×2 |
-| 02:10 | **cutenadk77**: Red Crowned Crane, Trapdoor Snail, Water Moon Bear, Monkey, Ruddy Duck, Yellow Butterfly, 2021 Uplift Butterfly, Mosquito, Show Pony | **Aslie_17**: Ride-A-Pet Potion |
-| 02:10 | **cutenadk77**: Amber Butterfly, Koi Carp, Stitches, Red Panda ×3, Water Opossum, Weevil, Crab, Glyptodon | **TheEndlessFlower**: Ride-A-Pet Potion |
-| 02:10 | **N33RDSS**: Cupid Dragon (NFR), Ride-A-Pet Potion ×3 | **cunlainy**: Cow (FR) |
-| 02:10 | **iiEvenstar**: German Shepherd (MFR) | **dearieluv**: Bunny Swirl (MFR), Happy Duckling (MR) |
+| 02:25 | **Hildegard_115**: Strawberry Shortcake Ducky, Dark Choccybunny, Skelicorn ×4, Pangolin, Shiba Inu, Robot, Mochi Meow, Zebra ×4, Electric Hornet | **jimni13300**: Pupcicle |
+| 02:25 | **Heartland72000**: Peppermint Penguin (FR) | **Cutie_wolfie20**: Elephant (FR), Albino Monkey (FR), Unicorn |
+| 02:25 | **JunktradingALT**: Hare (N) | **Poisondaisy17**:  |
+| 02:25 | **melynagamer3**: Munchkin Cat | **ywooony**: Copycat, Latte Kitsune |
+| 02:25 | **irodasadykova22**: German Shepherd (NFR), Christmas Pudding Pup (R), Giant Anteater, Ride-A-Pet Potion ×7, Fly-A-Pet Potion | **Yupiterd**: Cabbit (R) |
+| 02:21 | **Angeldust66655**: Tiny Wings, Unicorn (R) | **LoriDreamy123**: Giant Cheetah Mount |
+| 02:21 | **pavonaco**: Giraffe (NFR), Turtle (NR), Lion (NR), Mini Schnauzer (NR) | **higuysitskobe**: Parrot (MFR) |
+| 02:21 | **hans53901**: Stray Cat Dragon ×8 | **AsmioTakeW**: Ride-A-Pet Potion |
+| 02:21 | **luusky29glow**: Pupcicle | **Cutie_wolfie20**: Ride-A-Pet Potion |
+| 02:21 | **LaCreazyAmy**: Vampire Dragon (FR), Flamingo (FR), Happy Clam (R) | **Angelogelapaz**: Vampire Dragon (NFR) |
+| 02:21 | **unicornpower140909**: Rain Cloud Hat, Chicken (NFR) | **kind_lucario**: Ballet Swan (NFR) |
+| 02:21 | **IlikeMilk220**: Goose (MFR), Cabbit (MFR), Sugar Glider (MFR) | **denjisguilt**: Hedgehog (MFR) |
+| 02:21 | **anni_Dragin**: Kangaroo (R), Candicorn (FR) | **SadiSadie3**: Goose (FR) |
+| 02:21 | **atracttion**: Frost Dragon (FR) | **lunicorncookies**: Fairy Bat Dragon, Grim Dragon (FR), Caterpillar, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Owl (FR) |
+| 02:21 | **xlexymariexx**: Strawberry Shortcake Bat Dragon (FR), Alley Cat (MR), Owlbear (R), Munchkin Cat (FR), Unicorn Horn | **hii_itsari3**: Candicorn (MFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
