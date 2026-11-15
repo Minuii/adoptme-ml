@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 21:31 UTC by the scrape workflow._
+_Updated 2026-11-15 21:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 21:31 UTC by the scrape workflow._
 | amvgg | 5 | 46,671 | 2026-11-15T21:30 |
 | elve | 5 | 10,266 | 2026-11-15T21:31 |
 
-## AMVGG completed trades: 21,543 total
+## AMVGG completed trades: 21,553 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,399 |
+| 2026-11-15 | 5,409 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 21:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:40 | **Kattyloni**: Mirai Moth, Amber Butterfly (N) ×2, Pink Hightops, Aestus Mane | **xoxo_nicole82783**: Pupcicle |
+| 21:40 | **Maryha0243**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×5 | **TYTkuza2**: Turtle (R) |
+| 21:40 | **N0ugatt**: Border Collie (NFR), Munchkin Cat (NR), Ride-A-Pet Potion ×2 | **Itsserena108**: Unicorn (MFR), Shark Puppy (FR), Arctic Fox (R), Siamese Cat, Lion (R), Siamese Cat (R) |
+| 21:40 | **Yourgrandadpullsfr**: Unicorn Horn, Bauble Buddies (R) | **sleepy_s0ren**: Toaster Hat ×2 |
+| 21:36 | **BallerinaCappux**: Haetae (NR), Jellyfish, Toaster Hat | **sleepy_fredih**: Owl (FR), Border Collie (MFR) |
+| 21:36 | **AnitaGame08**: Bobageist (N) | **Kiwisito1560**: Mochi Meow |
+| 21:36 | **firefly_rainbowlett**: Polar Bear (MFR) | **XicedPepz1**: Alley Cat (MFR), Ice Cube (M), Lunar Tiger (M), Bolt (MR) |
+| 21:36 | **cherlnaz**: Unicorn | **roblox_user_5581082303**: Pupcicle |
+| 21:36 | **insano_6678**: Candyfloss Chick (R) | **Manekie_Nekoo**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 |
+| 21:36 | **helisabet_fabi20**: Ride-A-Pet Potion ×4, Harp Seal, Chihuahua, Cattuccino (N) | **booluqx**: Copycat |
 | 21:30 | **MissySendy**: Sloth (NR), Sloth (F), Sloth ×14, Panda ×2 | **cutezxnat**: Sloth (MFR) |
 | 21:30 | **Austrian_Capybara1**: Werewolf (FR), Latte Kitsune, Naughty Mistletroll (R) | **Missottaid**: Alpaca |
 | 21:30 | **celedkaOwO**: Kangaroo (FR), Alley Cat | **lixyZzn**: Candyfloss Chick (FR) |
 | 21:30 | **x123nicolex**: Magma Snail, Electric Hornet, Angus Cow (M) | **LookimBck**: Cake Friend |
 | 21:30 | **Babyofy5**: Fallow Deer | **Eb2loOFF**: Chameleon, Koi Carp, Indian Flying Fox, Lunar Gold Tiger, Strawberry Shortcake Ducky, Rice Cake Rabbit, Ostrich, Hummingbird, Deathstalker Scorpion, Momma Moose ×2, Ibex, Mongoose, Lionfish, Ranger Beaver |
-| 21:30 | **shainikss**: Woodpecker (N), Waffle Wyrm (N), Gumball Caterpillar (N) | **GH4DA_R**: Ride-A-Pet Potion |
-| 21:30 | **TheRealAivlis**: Elephant (FR), Ride-A-Pet Potion | **Dannienka**: Cheetah (NFR), Arctic Fox |
-| 21:30 | **brbrpatapimmm310**: Burger Boots | **Asi_niki**: Thinking Hat |
-| 21:30 | **sweetdollvie**: Tiny Wings | **Umoyaees**: Mr. Whiskerpips (M), Pain au Chat |
-| 21:30 | **Gsusisi4**: Hare ×4, Alley Cat (R), Alley Cat ×5 | **donnotinteract**: Ride-A-Pet Potion ×2, Mermicorn (R) |
-| 21:30 | **Uwuwuuwunya**: Goose (FR), Goose, Ride-A-Pet Potion | **v1rulence**: Arctic Reindeer (FR) |
-| 21:30 | **monsterfill3**: Pupcicle ×8 | **yasukie7u7**: Ride-A-Pet Potion ×8 |
-| 21:30 | **Shehatesme420**: Kangaroo (FR) | **morze68**: Polar Bear, Brown Bear, Ring-Tailed Lemur, Flaming Fox, Ride-A-Pet Potion ×2, Alley Cat, Chef Hat |
-| 21:30 | **Nasty_7392**: Cow (NFR), Fallow Deer (R), Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×4 | **mommy_vka123**: Sugar Glider (FR), Cow (FR), Siamese Cat (FR) |
-| 21:30 | **apples_oopp1**: Merry Mistletroll | **daisyskyes82**: Paint Sealer ×18 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
