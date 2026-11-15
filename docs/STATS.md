@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 05:55 UTC by the scrape workflow._
+_Updated 2026-11-15 06:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 05:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 30,481 | 2026-11-15T05:45 |
-| elve | 5 | 6,640 | 2026-11-15T05:45 |
+| amvgg | 5 | 30,717 | 2026-11-15T06:00 |
+| elve | 5 | 6,721 | 2026-11-15T06:01 |
 
-## AMVGG completed trades: 17,266 total
+## AMVGG completed trades: 17,284 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,122 |
+| 2026-11-15 | 1,140 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 05:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:55 | **hannahsfaeriixo**: Snowball Pug (N) | **Konzeqt**: Snowball Pug ×4 |
-| 05:55 | **xGothiycx**: Cabbit (NFR), Ride-A-Pet Potion ×2 | **Shiv_er**: Fairy Bat Dragon (NFR) |
-| 05:55 | **Its_rbx522**: Samoyed (R), Ride-A-Pet Potion | **Mostlydumb123**: Pupcicle |
-| 05:55 | **Coralmnm**: Arctic Fox | **aliss_aa17**: Arctic Dusk Dragon |
-| 05:55 | **booluqx**: Cow (FR), Fly-A-Pet Potion ×3 | **ANDY_245780**: Sushi Penguin, Rhino, Drake ×3, Golden Dragon (N), Feesh (M), Flaming Fox (N), Shetland Pony Dark Brown (MR), Royal Palace Spaniel (NR), Diamond Unicorn (N), Winged Horse, Turkey, Flaming Fox, Mule, Angus Calf (M), Cherub Chipmunk (MR), Chihuahua (MR) |
-| 05:55 | **el_williams000**: Red Sand Dollar | **bermido80**: Blue Cat Ear Headphones |
-| 05:55 | **heladitoooUnU**: Stray Cat Dragon ×2 | **Xiarra_lovieesss**: Alicorn ×2 |
-| 05:55 | **SyndromGG**: Mighty Haetyphoon Animated Sticker | **LolaDolla338**: Ride-A-Pet Potion |
-| 05:55 | **auixiss**: Admin Abuse Egg ×18 | **ALUCARD_5810**: Ride-A-Pet Potion |
-| 05:55 | **hhhauntedddd**: Sushi Penguin (N) | **Lindaunicornio30990**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 05:55 | **avervuu**: Frostbite Bear (MFR), Cryptid (NFR) ×2, Owl (FR), Balloon Unicorn (FR) ×2, Arctic Reindeer (NFR), Cryptid (FR), Pig (R), Peppermint Penguin (R) | **m4rshalI**: Haetae (M) |
-| 05:55 | **U_sulla**: Siamese Cat (FR) | **Soyun129628**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×16 |
-| 05:55 | **arvaaxxd**: Owl (FR), Ride-A-Pet Potion | **triangulaamv**: Crow (FR), Cow (FR), Turtle (FR) |
-| 05:55 | **fluses_sss**: Chocolate Chip Bat Dragon (FR) | **BuenosDias1111**: Cow (FR), Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 05:55 | **Jyyy123yyj**: Pupcicle | **1C_ON**: Ride-A-Pet Potion |
+| 06:00 | **booluqx**: Cow (FR) ×2 | **TheZ23v1**: Frost Phoenix (FR), Nessie, Scarebear (FR), Glacier Kitsune (R), Cheetah (NR), Copycat, Husky (R), Sunglider (N), Goldhorn (NFR), Pig (FR), Majestic Pony (NFR), Hippo (MR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion |
+| 06:00 | **stronglloyd70**: Ride-A-Pet Potion ×5 | **Afkwithjo**: Frost Fury (FR) |
+| 06:00 | **Cutewaeilae**: Brown Bear (NFR), Kangaroo (FR) | **wskdaks**: Cow (FR) |
+| 06:00 | **hhhauntedddd**: Skunk (N), Tanuki (N) | **Leviodas**: Fly-A-Pet Potion |
+| 06:00 | **FlyToTheSaturn**: Sock Chew Toy, Gift Throw Toy, Donut Rattle, Cymbal Ingredient, Candle, Sleigh Bells Rattle ×3, Kangaroo Pogo, Duck Balloon, Elf Plush, Dragon Balloon, Heart Balloon, Marsh Balloon, Cookie Dough Plush ×3, Banana Pogo | **Hii_Lovely83**: Fly-A-Pet Potion |
+| 06:00 | **MRX_Games007**: Alpaca (FR), Kangaroo (NFR), Hare (NFR), Phantom Dragon (FR), Pain au Chat (N) | **odading12318**: Fairy Bat Dragon (NFR) |
+| 06:00 | **cbmelissa**: Pupcicle ×4, Pupcicle (N) | **minsun1313**: Ride-A-Pet Potion ×8 |
+| 06:00 | **Frank_11203**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **catwsie**: Arctic Reindeer (FR) |
+| 06:00 | **Ebanko_rblx**: Kitty Bat (M) | **Lielaltx**: Shiver Wolf (MR) |
+| 06:00 | **dreamingxmaddiee**: Glacier Moth (R), Papa Moose (R) | **ponchik_3721**: Pupcicle ×6, Chihuahua (N), Gingerbread Reindeer (N), Stitches (N), Mummy Spider (N), Jacobin Pigeon (N) ×2, Bobageist (N) |
+| 06:00 | **BarrettVintage**: Mighty Haetyphoon Animated Sticker | **obvits_asianaa**: Brown-Chested Pheasant |
+| 06:00 | **hhhauntedddd**: Fossa (N), Rattlesnake (N), Classic Teapot (N) | **Leviodas**: Ride-A-Pet Potion |
+| 06:00 | **hhhauntedddd**: Coyote (M) | **Leviodas**: Ride-A-Pet Potion ×4 |
+| 06:00 | **mayenisanoob**: Chameleon | **seakk5451**: Space Whale |
+| 06:00 | **Aloisew**: Sushi Penguin, Moonlight Moth ×2, Stray Cat Dragon | **silenceddfeelings**: Moonlight Moth (N) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
