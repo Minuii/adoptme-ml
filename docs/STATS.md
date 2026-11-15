@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 16:31 UTC by the scrape workflow._
+_Updated 2026-11-15 16:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 16:31 UTC by the scrape workflow._
 | amvgg | 5 | 41,343 | 2026-11-15T16:30 |
 | elve | 5 | 9,064 | 2026-11-15T16:31 |
 
-## AMVGG completed trades: 19,889 total
+## AMVGG completed trades: 19,965 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 3,745 |
+| 2026-11-15 | 3,821 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:25 | **stellalovessyou**: Alpaca (NFR) | **dxllyluvs2**: Honey Badger (MFR) |
-| 16:25 | **Ariqnale**: Unicorn (NFR), Golden Tortoise Beetle (NR), Narwhal ×3 | **Sylveon_0SHI**: Copycat |
-| 16:25 | **UnU_Darina1**: Paint Sealer ×14, Cocoadile Sticker | **aziatka_247**: Ride-A-Pet Potion |
-| 16:25 | **StreamPlayz508**: Count Slothula (M) | **Charlie_not6**: Copycat, Count Slothula (NFR), Unicorn (FR), Unicorn |
-| 16:25 | **svyataya_svs**: Strawberry Shortcake Ducky, Puptune, Caramelgeist (N) ×2, Donkey (N), Mahi Mahi (N), Stitches ×2 | **LYIZA_1976**: Ride-A-Pet Potion |
-| 16:25 | **mariagrigoryan1**: Cabbit (FR) | **Allyanaph124**: Panda (MFR), Tiny Wings |
-| 16:25 | **SaffireplayzYT**: Pretty Pony (MFR), Dango Penguins (NR), Pink Betta Fish (M) | **nimalina463**: Chocolate Dutch Guinea Pig (MFR) |
-| 16:25 | **6utszz**: Punk Pony (N), Pupcake | **Popa67524269**: Ride-A-Pet Potion |
-| 16:25 | **fortradingadm3**: Ride-A-Pet Potion, Ice Cream Heels | **puppy_2011owo**: Bunny Stroller |
-| 16:25 | **omikazze**: Stitches (N), Boohoo (N) | **margo33249**: Kirin (N) |
-| 16:25 | **resseslover_22**: Ancient Dragon | **Cindy_overhere0205**: Cat ×4, Snow Cat ×4 |
-| 16:25 | **adorable_rhian**: Gaelic Fae (MFR) | **Ashvr_s0ul9**: Cow (R) |
-| 16:25 | **theropywasted**: Crooked House | **Laktozik1**: Fly-A-Pet Potion |
-| 16:25 | **tripawisy**: Fly-A-Pet Potion | **Qwemd4**: Ride-A-Pet Potion ×2 |
-| 16:25 | **Artem_21a2**: Goose (R), Fly-A-Pet Potion | **madison_19113**: Cow (FR), Ghost Bunny (R) |
+| 16:40 | **luzmi119**: Classic Trade Stand | **likadbsv1**: Flower Power Duckling |
+| 16:40 | **Yakkuji**: Cabbit (R) | **NummieNummiegirl**: Sugar Glider (FR) |
+| 16:40 | **diorvangel**: Strawberry Shortcake Bat Dragon (NFR), Christmas Pudding Pup (MFR), Pink Betta Fish (M) | **xmikaeq**: Fairy Bat Dragon (MFR) |
+| 16:40 | **louisa_ishere**: Dalmatian (FR), Arctic Reindeer (FR), Lamb (MFR), Dodo (MR), Aurora Fox (R), Majestic Pony | **akzoad**: Owl (FR) |
+| 16:40 | **MomOG9615**: Ride-A-Pet Potion | **pinkven0mrockst4r**: Mighty Haetyphoon Animated Sticker |
+| 16:40 | **higuysitskobe**: Strawberry Tortle (N), Hare (MFR), Alley Cat (MFR), Cheetah (MFR), Lion (NR), Frostbite Bear, Panda (MFR), Owlbear (NFR) ×2, Mini Schnauzer (NR) | **FaZeTysonF**: Giraffe (FR) |
+| 16:40 | **firephoenix601**: Pink Betta Fish (M), Coconut Friend (MR), Blue Ringed Octopus (MR) | **plushioss**: Turtle (R) |
+| 16:40 | **lina200r**: Crow (MFR) | **tom2mcg**: Border Collie (MFR) ×3, Arctic Reindeer (MFR), Cake Friend (MFR) |
+| 16:40 | **AsianIceCold**: Cow (NFR), Turtle (NFR), Border Collie (FR), Fly-A-Pet Potion | **ambervgils**: Arctic Reindeer (NFR) |
+| 16:40 | **Xxdevenyx**: Goose (R), Pupcicle, Count Slothula | **farmer_post1**: Candicorn, Frost Unicorn (FR) |
+| 16:40 | **Loikin_Vika029**: 2022 Birthday Cake, 2022 Birthday Party Hat, 2022 Birthday Party Horn, 2022 Birthday Cupcake Shoes, Halo, Angel Wings, Unicorn Backpack, Head Chef | **Eri_Gamer58**: Giant Panda (FR) |
+| 16:40 | **Cheoeden**: Cow (FR) ×2, Ride-A-Pet Potion ×3 | **Katerryrka**: Cow (NFR) |
+| 16:40 | **Kira_luvsGOD**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Ice Cream Hermit Crab (MR) | **Nicoleee_ily**: Giant Panda (FR) |
+| 16:40 | **raccoonybaloony**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 | **eywa_2410**: Drake (MFR) |
+| 16:40 | **kajaterezka**: Alicorn (NR), Mighty Haetyphoon Animated Sticker | **His4lif3xx**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
