@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 19:25 UTC by the scrape workflow._
+_Updated 2026-11-15 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 44,264 | 2026-11-15T19:15 |
-| elve | 5 | 9,705 | 2026-11-15T19:16 |
+| amvgg | 5 | 44,532 | 2026-11-15T19:30 |
+| elve | 5 | 9,789 | 2026-11-15T19:31 |
 
-## AMVGG completed trades: 20,898 total
+## AMVGG completed trades: 20,950 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,754 |
+| 2026-11-15 | 4,806 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 19:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:25 | **myxxmi**: Candicorn (FR), Fly-A-Pet Potion | **baby_demonakakj**: Unicorn Horn |
-| 19:25 | **zaychushka46782_2**: Dalmatian (FR) | **myxxmi**: Fairy Bat Dragon (NFR) |
-| 19:25 | **myxxmi**: Alien Eyes Hat, Strawberry Shortcake Bow | **cesarx_o**: Chocolate Dutch Guinea Pig |
-| 19:25 | **Pudge2k13**: Mini Pig (FR) | **Aminapro111222**: Kangaroo (NFR), Fly-A-Pet Potion ×2 |
-| 19:21 | **Seboszy**: Strawberry Tortle | **2FIREE**: Fairy Bat Dragon (FR) |
-| 19:21 | **xXGalaxyDragonXx242**: Shadow Dragon (FR), Frost Dragon, Mermicorn (N) | **alexandmartinareg**: Frost Dragon (N), Giant Panda (FR), Crow (FR) |
-| 19:21 | **Shara_cool925**: Jester Dragon | **luxsdomain**: Golden Unicorn (MFR), Pupcicle |
-| 19:21 | **LillyC00kiess**: Fly-A-Pet Potion, Ride-A-Pet Potion, Cattuccino (N) | **xikell**: Mermaid Mansion |
-| 19:21 | **Iloverainbowfriend7**: Husky (MFR) | **SirMaxAce21Sage**: Tree Kangaroo (MFR), Zombie Chick (MFR) |
-| 19:21 | **vlasto4ka0**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Stray Cat Dragon (N), Skelicorn (N), 2026 Birthday Butterfly (M) | **ivank1nnirl**: Copycat |
-| 19:21 | **Pewciall**: Water Rabbit (NR) | **kobii_x**: Panda Pal, Cat Plush, Llama Plush |
-| 19:21 | **lxii_fs**: Kangaroo, Amami Rabbit (MFR), Ghost Bunny (FR), Dragonfruit Fox (R), Harp Seal, Capybara | **pmpjmg1**: Goose (FR) |
-| 19:21 | **DuckyMuffinz**: Pupcicle | **Yovani_929**: Admin Abuse Egg ×18 |
-| 19:21 | **KaliElza123**: Zombie Wolf (N), Kaijunior (M), Gumball Caterpillar (M) | **footerch**: Copycat (FR) |
-| 19:21 | **ervhkizyyy**: Albino Bat (NR) | **CAXAPOK_1122332**: Ride-A-Pet Potion ×2 |
+| 19:30 | **anna_7772011**: Majestic Pony (NFR), Ride-A-Pet Potion, Caramelgeist (N) | **XMiss_MusicX**: Glacier Moth (FR), Octopus (NR), Rosy Maple Moth (NFR) |
+| 19:30 | **sunpnkk**: Cow (FR), Jekyll Hydra (FR), Tiny Wings, Candicorn (FR), Ice Cream Cone Hat | **PotatoGrind_1**: Christmas Pudding Pup (MFR) |
+| 19:30 | **gogo549**: Blazing Lion (FR), Albino Monkey (FR), Border Collie, Pig | **Alika_Queen01**: Parrot (FR) |
+| 19:30 | **gaming089yt**: Frost Dragon (FR) | **JWorldIndoraptor**: Crow (FR), Blazing Lion (FR) |
+| 19:30 | **izzybprezleyfan**: Giant Panda, Cow (FR), Pupcicle (M) | **rainthatxx**: Cow (MFR) |
+| 19:30 | **inahoozuki**: Ghost Bunny (N), Peachick (N), Polar Bear | **realpdrilla1**: Matcha Cat |
+| 19:30 | **N0ugatt**: Fly-A-Pet Potion ×3 | **KotMonster7**: Frost Fury (FR), Orca (N) |
+| 19:30 | **Angela019291**: Arctic Reindeer (FR), Red Squirrel (M), Turkey (NR) | **amyggvaI**: Ballet Swan (MFR) |
+| 19:30 | **Tsuki_n0ko**: Strawberry Shortcake Ducky, Dragon ×2, Ancient Dragon, Bubblegeist, Alicorn | **Riikka_Takanashiii**: Ride-A-Pet Potion |
+| 19:30 | **Callumgggg5**: Arctic Reindeer (FR), Frost Fury (R) | **Butyeli**: Strawberry Shortcake Bat Dragon (FR), Lion (R) |
+| 19:30 | **Robloxian663027334**: Jousting Horse (MFR) | **xSuperDavidPvP**: Rose Dragon (MFR) |
+| 19:30 | **serspect**: Gingerbread Reindeer (N) | **Cocovunix**: Ride-A-Pet Potion |
+| 19:30 | **Cocovunix**: Ride-A-Pet Potion | **pugq33n23**: Gingerbread Reindeer (N) |
+| 19:30 | **ni1zuua**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate | **darina_2011m**: Spring Bunny Nose, Butter Knife, Malaysian Tapir (M) |
+| 19:30 | **Kamila_mil11**: Hedgehog (FR), Chocolate Chip Bat Dragon (FR), Lion (R), Ride-A-Pet Potion ×2 | **Frdvhev**: Parrot (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
