@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 23:31 UTC by the scrape workflow._
+_Updated 2026-11-15 23:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 23:31 UTC by the scrape workflow._
 | amvgg | 5 | 48,783 | 2026-11-15T23:30 |
 | elve | 5 | 10,641 | 2026-11-15T23:31 |
 
-## AMVGG completed trades: 22,004 total
+## AMVGG completed trades: 22,029 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,860 |
+| 2026-11-15 | 5,885 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 23:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:30 | **hayleydoescheer**: Platypus (NR) | **amogus_228q**: Lion (FR) |
-| 23:30 | **Jasmine_officially1**: Bunny (MR), Snow Cat (N), Red Panda ×3 | **LotusEr11**: Ride-A-Pet Potion |
-| 23:30 | **Ilovebluelocksmomgw1**: Cryptid (NFR), Cryptid (FR), Sugar Glider (NFR) | **katyathena1**: Haetae (NFR), 2022 Birthday Cake, Pupcake (MFR) |
-| 23:30 | **3BDAl3ziz3**: Cow (FR) | **Froggyblossom90**: Pupcake (MR), Turtle (FR), Ride-A-Pet Potion |
-| 23:30 | **emmadijou**: Strawberry Shortcake Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) | **coldgoodbyes**: Aurora Fox (MFR), Cow (NFR) |
-| 23:30 | **BhaabieeRaaii**: Chocolate Dutch Guinea Pig (MFR), Ice Cream Hermit Crab (MFR) | **q_culvs**: Yule Log Dog (MR), Vanilla Penguin (MFR), Moose Calf |
-| 23:30 | **araribaelo**: Orca (N) | **hefeltsafe**: Retired Egg ×18 |
-| 23:30 | **iammaggietoo**: Orca, Parakeet (N), Frozen Penguin, Bolt, Parakeet, Bobageist | **BurningWithRoses**: Ginger Cat (N) |
-| 23:30 | **fistashka_9088**: Arctic Fox (FR), Ride-A-Pet Potion ×2, Shetland Pony Dark Brown (R) | **speddsongswwa**: Munchkin Cat (FR) |
-| 23:30 | **Cookie_Berry4234**: Cattuccino ×6 | **laylaangel1309**: Ride-A-Pet Potion |
-| 23:30 | **Cinzsins**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (R), Purple Heart Glasses | **SkaterPlayzQueen2016**: Munchkin Cat (MFR), Sakura Spirit (MFR), Cerberus (MFR) |
-| 23:30 | **YOKOZ303**: Fairytale Egg ×18 | **imchas1_0**: Ride-A-Pet Potion |
-| 23:30 | **9vvdx**: Harp Seal (NR), Mule (N), Gargoyle (NFR), Scarecrow Horse (M), Stray Cat Dragon (M), Ermine (M) | **cutenadk77**: Candyfloss Chick (FR), Sea Angel (MR) |
-| 23:30 | **batton0955**: Ride-A-Pet Potion, Chihuahua | **Dazzzle_1**: Binturong ×2 |
-| 23:30 | **cyptiaI**: Unfortunate Eyelashes | **ichbinsehhhr**: Ride-A-Pet Potion |
+| 23:40 | **Balbiii_Vb**: Border Collie (R) | **Schizik_1059**: Shark Puppy (R), Hyena (R) |
+| 23:40 | **UniversePaladin**: Cow (R), Kangaroo (FR), Tiny Wings, Count Slothula, Ride-A-Pet Potion | **SkaterPlayzQueen2016**: Strawberry Shortcake Bat Dragon (FR) |
+| 23:40 | **emi28na**: Ice Golem (FR), Ride-A-Pet Potion | **D7bG9**: Turkey ×2 |
+| 23:40 | **gamereldark_YT**: Diamond Griffin (NFR), Chameleon (NR) | **Xxsunflower_watherxX**: Fly-A-Pet Potion ×2 |
+| 23:40 | **envitiee**: Halloween Evil Dachshund (MR), Chocolate Dutch Guinea Pig (N), Ride-A-Pet Potion, Stray Cat Dragon (M) | **AutoTradeCommission**: Elephant (FR) |
+| 23:40 | **violencesoul**: Peppermint Penguin (FR) | **ponchik_3721**: Copycat (N), Fallow Deer (R), Fly-A-Pet Potion |
+| 23:40 | **altgenaratordhc45**: Crow (FR), Frost Fury (FR) | **kaibodydump**: Emperor Gorilla (MFR) |
+| 23:40 | **Jup1ter5**: Candicorn (NR), Kangaroo (FR) | **LilBabyUni1**: Latte Kitsune (MFR) |
+| 23:40 | **Vixinnty**: Bush Elephant (NFR) | **vcxitb_new**: Winged Tiger (NFR) |
+| 23:40 | **3uuer**: Pig (NFR), Christmas Pudding Pup (FR) | **Roblox_topik7**: Fairy Bat Dragon (FR) |
+| 23:40 | **Lila_Chanbibi**: Siamese Cat (FR), Turtle (FR), Jester Dragon (R) | **dvesydoll**: Alley Cat (MFR) |
+| 23:40 | **hatdexerife**: Lion Cub (NFR) | **wvuqil**: Ram (MFR) |
+| 23:40 | **II_mikslvx**: Ice Cream Hermit Crab | **nimalina463**: Fly-A-Pet Potion |
+| 23:40 | **T4rncr4yne0164**: Crystal Egg ×11 | **zxl0106**: Ride-A-Pet Potion |
+| 23:40 | **xqsli0**: Binturong (MFR), Pupcicle (MFR), Eggnog Dog (M), Spring Bunny Hood | **booseoks0on**: Dragonfruit Fox (MFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
