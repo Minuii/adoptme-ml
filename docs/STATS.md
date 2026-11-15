@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 17:10 UTC by the scrape workflow._
+_Updated 2026-11-15 17:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 17:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 41,842 | 2026-11-15T17:00 |
-| elve | 5 | 9,185 | 2026-11-15T17:01 |
+| amvgg | 5 | 42,109 | 2026-11-15T17:15 |
+| elve | 5 | 9,246 | 2026-11-15T17:16 |
 
-## AMVGG completed trades: 20,075 total
+## AMVGG completed trades: 20,157 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 3,931 |
+| 2026-11-15 | 4,013 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 17:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:06 | **DreamWalker_47**: Ninja Monkey (R) | **nacvaikok**: Shetland Pony Light Brown (R), Kiwi Kiwi |
-| 17:06 | **Gaelmochis**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (NFR), Turtle (FR) | **akzoad**: Parrot (FR) |
-| 17:06 | **4cosha**: Arctic Fox (MFR), Sea Turtle (MFR), Matcha Cat, Ballet Swan, Pig (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Burger Boots | **akzoad**: Cryptid (FR) |
-| 17:06 | **hanb3ki**: Siamese Cat (MFR), Tiny Wings, Spring Bunny Nose | **akzoad**: Parrot (FR) |
-| 17:06 | **ania0mg**: Cerberus (NFR) ×2 | **NecorXax**: Copycat ×2 |
-| 17:06 | **Bad_WolfSchnee6**: Werewolf (NFR), Siamese Cat (R), Aestus (FR), Flaming Fox (NFR), Glormy Hound (FR), Aurora Fox (FR), Jester Dragon (FR), Cerberus (NFR), Choco Penguin (M), Pancake Stack, Count Slothula (N), Choco Penguin (N), Blue Boohoo Mega Neon Paint, Fairy Wings, Skelicorn (MFR), Shadow Dragon Animated Sticker, Mochi Meow Tumble Animated Sticker, Catte | **Hecksyah221**: Blazing Lion (FR) |
-| 17:06 | **youtescobag**: Retired Egg ×4 | **angeladahohg**: Jumpscare |
-| 17:06 | **divftjd**: Cow (FR), Mini Pig (FR), Kangaroo (FR), Pet Handler Pro Certificate | **nraleci**: Hedgehog (FR) |
-| 17:06 | **kkaatEEe2**: Pupcicle | **kitty9x3asd7**: Ride-A-Pet Potion |
-| 17:06 | **Kitty_roblox114**: Mr. Whiskerpips (N), Strawberry Stroller | **itz_Dizz01**: Fly-A-Pet Potion |
-| 17:06 | **Esikiiomuru**: Mini Pig (R) | **Yakkuji**: Winged Tiger, Pig (R), Giant Anteater, Matcha Cat, Ring-Tailed Lemur |
-| 17:06 | **gemon_5**: Pig (R) | **Alina235789dd**: Munchkin Cat (R) |
-| 17:06 | **ElvexMisty**: Fly-A-Pet Potion | **docedelets**: Skelicorn (M) |
-| 17:06 | **Anabellasilva2**: Latte Kitsune (MFR), Pig (F) | **lQw0kss**: Chocolate Chip Bat Dragon (FR) |
-| 17:06 | **i_jured**: Chocolate Dutch Guinea Pig (MFR) | **noob1962963**: Pupcicle (MFR) |
+| 17:15 | **Machaddkkj**: Paint Sealer ×14 | **sonyaxxvc**: Ride-A-Pet Potion |
+| 17:15 | **XxOliviaGalaxyxX36YT**: Sprout Snail (M) | **Irislikesyoufr**: Skelicorn (M), Stray Cat Dragon (M), Bolt (M) |
+| 17:15 | **dtOvsq**: Pain au Chat ×2 | **fluffyunicorns_932**: Alien Eyes Hat |
+| 17:15 | **dtOvsq**: Pain au Chat ×2 | **fluffyunicorns_932**: Cotton Candy Hat |
+| 17:15 | **wmwmwm029**: Fairy Bat Dragon (R), Cow (FR) | **Li0nH3r086**: Chocolate Chip Bat Dragon (FR) |
+| 17:15 | **Idontpoopbricks**: Crow (NFR), Parrot (NFR), Chocolate Chip Bat Dragon (R), Cow (FR) ×2, Candyfloss Chick, Albino Monkey, Dango Penguins (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **yanchik0067**: Bat Dragon (FR) |
+| 17:15 | **TMDung20**: Balloon Unicorn (FR), Alpaca | **Pepe1212964**: Parrot (FR) |
+| 17:15 | **kariisshha**: Cow (FR), Classic Trade Stand | **Calabaza070720**: Haetyphoon, Mermicorn (R) |
+| 17:15 | **epicpulsechaos2024**: Crystal Egg ×11 | **Astral_Knight3**: Ride-A-Pet Potion |
+| 17:15 | **TheRealAivlis**: Arctic Reindeer (FR), Flamingo (FR), Turtle (FR) | **iikariiss**: Cryptid |
+| 17:15 | **alittlerandomthing**: Turtle (FR) ×2 | **Esmeralda_318**: Turtle (NFR) |
+| 17:15 | **TekTaker_Vinks**: Fly-A-Pet Potion ×6 | **2creme1sucre**: Alley Cat (NR) |
+| 17:15 | **RealizeRealityAsItIs**: Pupcicle ×5 | **iloveitqww**: Harp Seal (N) |
+| 17:15 | **3risluv**: Admin Abuse Egg ×12 | **memoriesd4n**: Moon Rabbit |
+| 17:15 | **donnotinteract**: Honey Badger (MFR) | **itz_ckaM1441**: Alpaca, Unicorn Horn, Unicorn Backpack, Siamese Cat (R), Tasmanian Devil (N), Fly-A-Pet Potion ×3, Toaster Hat, Crystal Egg, Ride-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
