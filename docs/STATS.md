@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 00:01 UTC by the scrape workflow._
+_Updated 2026-11-15 00:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,10 +16,11 @@ _Updated 2026-11-15 00:01 UTC by the scrape workflow._
 | amvgg | 5 | 24,622 | 2026-11-15T00:00 |
 | elve | 5 | 5,403 | 2026-11-15T00:01 |
 
-## AMVGG completed trades: 16,144 total
+## AMVGG completed trades: 16,195 total
 
 | Day (UTC) | Trades |
 |---|---|
+| 2026-11-15 | 51 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -29,21 +30,21 @@ _Updated 2026-11-15 00:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:55 | **Astral_Knight3**: Chihuahua | **hugsformy_sisfinjaa**: Retired Egg ×18 |
-| 23:55 | **frecalsplogeok9**: Little Lamb (N), Red Panda (N) ×2, Clumpty (N), Granny Wolf (N) ×2, Puma (N), Tegu (N) | **animal_lovercutelove**: Ride-A-Pet Potion |
-| 23:55 | **sarahang3la**: Boohoo (M), Muskrat (M), Jacobin Pigeon (M) | **gvmpyi**: Stygian Owl (M) |
-| 23:55 | **Gabrielotalamejors0**: Rain Cloud Hat, Spring Bunny Hood | **Rivija66**: Unicorn Horn |
-| 23:55 | **SillyKitty6282**: Cryptid, Goat (NFR), Phantom Dragon (R), Jester Dragon (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **valekawa28**: Siamese Cat (MFR) |
-| 23:55 | **MiNa067789**: Mini Pig (R) | **m4tt_skatez**: Husky (MFR) |
-| 23:55 | **silly_goose12197**: Chocolate Dutch Guinea Pig, Scarecrow Cat (N) | **TwistedK1tty**: Pain au Chat ×5 |
-| 23:55 | **Cutesy_BEONCEY**: Fly-A-Pet Potion | **olkzya**: Bat Wings, Halloween White Skull Hat, Electric Tide Mega Neon Paint |
-| 23:55 | **Ruperto_1297**: Cow (FR) | **DragonjJDusta107130**: Fly-A-Pet Potion ×16 |
-| 23:55 | **Crystalcyncyn**: Fly-A-Pet Potion | **Angellov9Dead**: Sloth (NFR) |
-| 23:55 | **kokoliam17**: Rainbow Maker, Silly Duck (MFR), Count Slothula (MR), Copycat | **kaylamicmi**: Cryptid (FR) |
-| 23:55 | **Isaticas**: Ride-A-Pet Potion, Admin Abuse Egg ×6 | **dusk_moon23**: Chocolate Dutch Guinea Pig |
-| 23:55 | **genesisgameryt504**: Strawberry Tortle | **Aslie_17**: Pupcicle (MFR) |
-| 23:55 | **adoptme4lyyfe**: Sushi Penguin | **whannahbeyours98**: Ride-A-Pet Potion |
-| 23:55 | **OJC_Star45**: Ride-A-Pet Potion ×2 | **silvannah122**: Stray Cat Dragon ×18 |
+| 00:11 | **only4_tt**: Pupcicle | **HaiiTchteru**: Ride-A-Pet Potion |
+| 00:11 | **B282728**: Ocelot (M) | **Kir4kaaa**: Ghost Wolf (N) |
+| 00:11 | **B282728**: Gummy Guana (M) | **Kir4kaaa**: Ghost Wolf (N) |
+| 00:11 | **B282728**: Choco Penguin (N) | **Kir4kaaa**: Ghost Wolf (N) |
+| 00:11 | **AquatanaOf_Amyr**: Border Collie (MFR), Border Collie (NFR) | **jxasicypookie**: Copycat (MFR), Arctic Reindeer (FR), Cabbit (FR), Siamese Cat (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 00:11 | **963l3**: Bat Dragon (FR), Hedgehog (MFR), Evil Unicorn (FR), Turtle (NFR), Candicorn (R), Rain Cloud Hat, Arctic Fox (R) | **Potato_potatoes100**: Bat Dragon (NFR) |
+| 00:11 | **nraleci**: Frostbite Bear, Candicorn | **altfornewgen**: Undead Jousting Horse (FR), Ride-A-Pet Potion ×3 |
+| 00:11 | **axuerilyt**: Peppermint Penguin (NFR) | **dxllyluvs2**: Unicorn Horn ×2, Rainbow Maker, 2022 Birthday Cupcake Shoes |
+| 00:11 | **fernandopeowwo**: Copycat (NR), Alpaca (R), Red Dutch Guinea Pig (NR), Rain Cloud Hat, Latte Kitsune (NR), Copycat, Skelicorn (MFR), Ride-A-Pet Potion | **H4ppy_147**: Cryptid (FR) |
+| 00:11 | **Helper_dod**: Skelicorn (M) ×2, Stray Cat Dragon (M) ×2, Mexican Wolf (M) | **Angela019291**: Fly-A-Pet Potion ×5 |
+| 00:11 | **AdrianG_4FK**: Puptune (MFR) | **Mango_tango5832**: Copycat |
+| 00:11 | **lollucio251**: Crystal Egg ×6, Alicorn ×4, Purrowl ×4 | **Antonipes**: Ride-A-Pet Potion |
+| 00:11 | **nasdfeu56789**: Pink Cat (FR), Bat (MFR), Copycat, Ride-A-Pet Potion, Cheetah (R) | **Esdeyne_3719**: Candicorn (FR) |
+| 00:11 | **Sn3akyw0lfBloxgames**: Owl (NFR), Snowball Pug (M) | **15kgxbe**: African Wild Dog (N) |
+| 00:11 | **roblox_user_8676283275**: Field Mouse (MFR), Binturong (MFR), Kookaburra (MFR), Snowball Pet (MFR), Unicorn Horn | **Alex_bozovic3**: Bush Elephant (MFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
