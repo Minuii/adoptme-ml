@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 05:45 UTC by the scrape workflow._
+_Updated 2026-11-15 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 05:45 UTC by the scrape workflow._
 | amvgg | 5 | 30,481 | 2026-11-15T05:45 |
 | elve | 5 | 6,640 | 2026-11-15T05:45 |
 
-## AMVGG completed trades: 17,234 total
+## AMVGG completed trades: 17,266 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,090 |
+| 2026-11-15 | 1,122 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 05:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:45 | **Sadochok_456**: Ranger Beaver (NR), Halloween Evil Dachshund (R), Count Slothula, Toucan (N), Chameleon, Jacobin Pigeon (M) | **icequeenmaemae**: Frost Fury (FR) |
-| 05:45 | **Yumi_Rose8**: Pet Handler Pro Certificate ×2 | **Foodie_Caat**: Lava Dragon (FR) |
-| 05:45 | **Inphluens**: Ride-A-Pet Potion ×2 | **serspect**: Candy Hare, Golden Hummingbird |
-| 05:45 | **Rikkjkj**: Tiny Wings, Vampire Dragon (FR) | **cher_namagandaa**: Haetyphoon (FR) |
-| 05:45 | **AndresPatato**: Ride-A-Pet Potion ×3 | **FlyToTheSaturn**: Millionaire Mansion |
-| 05:45 | **Foodie_Caat**: Ride-A-Pet Potion ×5, Platypus, Pet Handler Pro Certificate ×2, Sneak Weasel (M) | **Elwena_xX**: Great Pyrenees (MR) |
-| 05:45 | **qpicni**: Chocolate Chip Bat Dragon (MFR), Rain Cloud Hat ×2, 2022 Birthday Cake, Unicorn Horn ×2 | **lina200r**: Chocolate Chip Bat Dragon (FR) ×6, Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (NFR) |
-| 05:45 | **cherry_blast2**: Ride-A-Pet Potion | **Brooklyn_Ohio**: Black Panther |
-| 05:45 | **dwyames**: Husky | **wjsjdgbdjdjf**: Fly-A-Pet Potion |
-| 05:45 | **its_yukari0**: Jeff's Nametag | **Daisie117**: Harp Seal |
-| 05:45 | **Secret_Secretov321**: Ride-A-Pet Potion, Parakeet (M) | **camiilita_7w7**: Celebrity Mansion |
-| 05:45 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Rabbit (M) | **julyis456**: Fly-A-Pet Potion |
-| 05:45 | **Tree092109**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **XxITzAli_xX**: Blue Dog (FR) |
-| 05:45 | **SpaghettiBolognese_w**: Ride-A-Pet Potion ×2 | **Esmeralda_318**: Fly-A-Pet Potion |
-| 05:45 | **Rosalita4850**: Princess Mare ×4, Ribbon Seal (NR), Jacobin Pigeon ×5, Sheepdog Ducky ×5, Pink Dog (N), Blue Cat (N), Undead Elk | **Secret_Secretov321**: Ride-A-Pet Potion |
+| 05:55 | **hannahsfaeriixo**: Snowball Pug (N) | **Konzeqt**: Snowball Pug ×4 |
+| 05:55 | **xGothiycx**: Cabbit (NFR), Ride-A-Pet Potion ×2 | **Shiv_er**: Fairy Bat Dragon (NFR) |
+| 05:55 | **Its_rbx522**: Samoyed (R), Ride-A-Pet Potion | **Mostlydumb123**: Pupcicle |
+| 05:55 | **Coralmnm**: Arctic Fox | **aliss_aa17**: Arctic Dusk Dragon |
+| 05:55 | **booluqx**: Cow (FR), Fly-A-Pet Potion ×3 | **ANDY_245780**: Sushi Penguin, Rhino, Drake ×3, Golden Dragon (N), Feesh (M), Flaming Fox (N), Shetland Pony Dark Brown (MR), Royal Palace Spaniel (NR), Diamond Unicorn (N), Winged Horse, Turkey, Flaming Fox, Mule, Angus Calf (M), Cherub Chipmunk (MR), Chihuahua (MR) |
+| 05:55 | **el_williams000**: Red Sand Dollar | **bermido80**: Blue Cat Ear Headphones |
+| 05:55 | **heladitoooUnU**: Stray Cat Dragon ×2 | **Xiarra_lovieesss**: Alicorn ×2 |
+| 05:55 | **SyndromGG**: Mighty Haetyphoon Animated Sticker | **LolaDolla338**: Ride-A-Pet Potion |
+| 05:55 | **auixiss**: Admin Abuse Egg ×18 | **ALUCARD_5810**: Ride-A-Pet Potion |
+| 05:55 | **hhhauntedddd**: Sushi Penguin (N) | **Lindaunicornio30990**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 05:55 | **avervuu**: Frostbite Bear (MFR), Cryptid (NFR) ×2, Owl (FR), Balloon Unicorn (FR) ×2, Arctic Reindeer (NFR), Cryptid (FR), Pig (R), Peppermint Penguin (R) | **m4rshalI**: Haetae (M) |
+| 05:55 | **U_sulla**: Siamese Cat (FR) | **Soyun129628**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×16 |
+| 05:55 | **arvaaxxd**: Owl (FR), Ride-A-Pet Potion | **triangulaamv**: Crow (FR), Cow (FR), Turtle (FR) |
+| 05:55 | **fluses_sss**: Chocolate Chip Bat Dragon (FR) | **BuenosDias1111**: Cow (FR), Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 05:55 | **Jyyy123yyj**: Pupcicle | **1C_ON**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
