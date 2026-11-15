@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 04:45 UTC by the scrape workflow._
+_Updated 2026-11-15 04:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 04:45 UTC by the scrape workflow._
 | amvgg | 5 | 29,533 | 2026-11-15T04:45 |
 | elve | 5 | 6,401 | 2026-11-15T04:45 |
 
-## AMVGG completed trades: 17,062 total
+## AMVGG completed trades: 17,094 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 918 |
+| 2026-11-15 | 950 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 04:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:45 | **MRX_Games007**: Turtle (FR) ×2, Kangaroo (FR) | **tiharaxd11**: Arctic Reindeer (FR) |
-| 04:45 | **roblox_user_2916790281**: Kangaroo (FR) | **amvggaltaccxox**: King Bee (MFR) |
-| 04:45 | **GI4MMAGL4SMX0**: Skelicorn (MFR), Stray Cat Dragon (MFR), Choco Penguin (MR), Stitches (MFR), Boohoo (M), Pomeranian (MFR), Toucan (MR), Golden Unicorn, Diamond Griffin, Halloween Evil Dachshund (N), Persian Cat (N), Rainbow Trout (N) | **vynllama**: Sugar Glider (R) |
-| 04:45 | **coolpennyw**: Dark Choccybunny (MR), Samoyed (M), Cattuccino (M), Ginger Cat (MR), Beluga Whale (M), Rabbit (M), Rabbit (MR), Fennec Fox (M), Camel (M), 2026 Birthday Butterfly (N), Frozen Penguin (N) | **gwalores**: Quokka (MR) |
-| 04:45 | **Shekeksksndn**: Siamese Cat (MFR), Arctic Fox (MFR) | **amvggaltaccxox**: Border Collie (MFR) |
-| 04:45 | **Willowstorm_WaCa**: Pupcicle (N) | **Aziheca**: Aussie Egg, Pretty Pony |
-| 04:45 | **Cyxaruk_9877**: Mini Pig (FR), Red & Yellow Beads | **safeinthebuble**: Sheeeeep (N), Caelum Cervi (FR), Jellyfish (FR) |
-| 04:45 | **ILOVE_ROBLOXMOMMY**: Blazing Lion (FR) | **iiWikxll**: Chocolate Chip Bat Dragon (NFR) |
-| 04:45 | **Egotistical_Star**: Spring Bunny Hood, Velocirooster, Pupcicle | **WierdoVanilla**: Wolf (MFR) |
-| 04:45 | **Pulseq3Void63Echo174**: Chameleon ×3 | **seakk5451**: Fly-A-Pet Potion |
-| 04:45 | **kytsune7777**: Admin Abuse Egg ×2, Chameleon | **seakk5451**: Stray Cat Dragon ×5 |
-| 04:45 | **camilla_preety678**: Poodle (MFR), Forest Sprite (M), Clumpty (M) | **Popa67742**: Pet Handler Pro Certificate |
-| 04:45 | **Rosalita4850**: Pumpkin Friend, Rainbow Trout (N), Cattuccino ×2, Black-Footed Ferret (N), Shiba Inu ×3 | **itsvaleriaotz**: Ride-A-Pet Potion |
-| 04:45 | **baby_demonakakj**: Unicorn Horn | **aquxsz**: Candicorn (FR), Fly-A-Pet Potion |
-| 04:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **Soffi_nas7**: Sakura Spirit (FR) |
+| 04:55 | **kykykykyky_yy**: Kangaroo | **glok_weronikaSoso**: Arctic Fox, Christmas Pudding Pup, Ride-A-Pet Potion ×2 |
+| 04:55 | **bolzani001111**: Haetyphoon ×11 | **ii_aldrin20**: Parrot (FR) |
+| 04:55 | **julyis456**: Fly-A-Pet Potion | **hhhauntedddd**: Kid Goat (M), Abyssinian Cat (NR) |
+| 04:55 | **russiansophia123**: Munchkin Cat (MFR), S'mores Raccoon (M), Dragonfruit Fox | **narwhalslov**: Candicorn (MFR) |
+| 04:55 | **Cristoferpro73739**: Zombie Wolf (MFR), Tortuga de la Isla (NFR), Alley Cat (N) | **minoriyx**: Rainbow Maker |
+| 04:55 | **wx8zqxx**: Pink Cat (FR), Capybara, Yeti (R), Yeti (FR) | **L_person21**: Blue Dog |
+| 04:55 | **Bobbyhuddy6**: Farm Egg, Mini Pig, Kangaroo (R), Elephant (R), Lion (FR), Shark Puppy (FR), Alpaca (R), Caelum Cervi, Nessie, Husky, Puffin, Mule ×2, Brown Bear | **notiamjhom**: Owl (FR) |
+| 04:50 | **Valerie_Sanceour**: Pupcicle ×8, Diamond Egg | **AvaNari2010**: Space Whale (MR) |
+| 04:50 | **serina123199**: Ride-A-Pet Potion | **alexgameminecraft**: Ram |
+| 04:50 | **Domama413**: Arctic Reindeer (FR), Fly-A-Pet Potion | **Lucky_Bonono10**: Cow (NFR) |
+| 04:50 | **q_culvs**: Hare (MFR), Golden Chow-Chow (MFR), Turkey (MFR), Fairy Bat Dragon (FR), Owlbear (R) | **violencesoul**: Wild Boar (MFR), Drake (MFR), Binturong (MFR), English Sheepdog (MFR), Ranger Beaver (MR), Hippo (MFR), Space Whale (MR), Chihuahua (M), Gecko (MR), Toasty Red Panda (MR) ×2, Partridge (M), Koi Carp (M), Brown-Chested Pheasant (M), Sweetheart Rat (M) |
+| 04:50 | **Robloxiana_xxx2011**: Count Slothula (MR), Great Pyrenees (MR), Toy Poodle (MR), Kangaroo (FR), Bauble Buddies (MR) | **q_culvs**: Hare (MFR) |
+| 04:50 | **1C_ON**: Alien Eyes Hat, Back Taco | **Riikka_Takanashiii**: Ride-A-Pet Potion |
+| 04:50 | **FlyToTheSaturn**: Wolpertinger ×2, Walrus, Tasmanian Tiger ×3, Stingray ×3, Robin, Mongoose, Ground Sloth ×4, Bandicoot ×2 | **PARAZITKA14888**: Ride-A-Pet Potion |
+| 04:50 | **Ethernaces**: Stray Cat Dragon ×9 | **Bunny_189659**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
