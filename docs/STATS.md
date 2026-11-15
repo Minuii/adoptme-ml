@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 01:31 UTC by the scrape workflow._
+_Updated 2026-11-15 01:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 01:31 UTC by the scrape workflow._
 | amvgg | 5 | 26,302 | 2026-11-15T01:30 |
 | elve | 5 | 5,767 | 2026-11-15T01:31 |
 
-## AMVGG completed trades: 16,459 total
+## AMVGG completed trades: 16,467 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 315 |
+| 2026-11-15 | 323 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,14 @@ _Updated 2026-11-15 01:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:36 | **prokilers7**: Frostbite Bear | **Princesskaitlynstar2**: Turtle (R) |
+| 01:36 | **aluveqq**: Chameleon (FR) | **tyt_567r**: Ride-A-Pet Potion |
+| 01:36 | **Belen7267**: Catte (MR) | **hugsformy_sisfinjaa**: Unicorn Horn |
+| 01:36 | **Zombie_8803**: Retired Egg ×17 | **mldcjvk1983**: Frostbite Cub |
+| 01:36 | **KTWIZQWER**: African Wild Dog (R), Pet Handler Pro Certificate | **impiggyomggggggggggg**: African Wild Dog (FR) |
+| 01:36 | **banani_C5**: Amethyst Skies Mega Neon Paint | **xx_xxbummrr**: Blue Boohoo Mega Neon Paint |
+| 01:36 | **Artem_lox877**: Ring-Tailed Lemur (MFR), Peppermint Penguin (FR), Candyfloss Chick (FR), Fly-A-Pet Potion ×6 | **rainthatxx**: Balloon Unicorn (FR) |
+| 01:36 | **aspenuko**: Cryptid (FR), Shrew (M), Canadian Goose (MR), Ninja Monkey (NR), Ostrich (MR), Chicken (NR), Frost Fury (R), Shrew, Bee (MFR), Octopus (NR), Great Pyrenees (NR), Brown Bear, Raccoon (M), Ermine (MR), Mongoose (M), Fallow Deer, Sea Turtle (MR), Ride-A-Pet Potion | **Kiandra13kiandra**: Frost Dragon (FR) |
 | 01:30 | **RiderLuckyNova2017**: Bush Elephant (NR) | **bypalmas**: Hare (MFR) |
 | 01:30 | **zarmeowz**: Lion Cub (NR) | **jilucie2010**: 2022 Birthday Cake |
 | 01:30 | **minismudgepanda**: Armadillo (M) | **Hamigail**: Chocolate Dutch Guinea Pig |
@@ -37,14 +45,6 @@ _Updated 2026-11-15 01:31 UTC by the scrape workflow._
 | 01:30 | **xxDeAdSoS1Sxx**: Snow Cat, Tree Frog, Ant (N), Ant, Jacobin Pigeon ×2, Ms. Muffet, Sheepdog Ducky, Cat | **Antonipes**: Purrowl |
 | 01:30 | **Lillyistdiebesteamq**: Slime (N) | **danyypizza121**: Ride-A-Pet Potion ×6 |
 | 01:30 | **fartskin6**: Halloween White Ghost Dragon (FR) | **bella_lingx17**: German Shepherd (N) |
-| 01:30 | **TMDung20**: Kitty Bat (MR), Bunny Swirl (MR), S'mores Raccoon (M) | **MERCEDESE300COUPE**: Mini Pig (FR) |
-| 01:30 | **xezviii**: Spring Bunny Feet | **murdermystery2695**: Mochi Meow Tumble Animated Sticker, Pretty Please Snowball Sticker |
-| 01:30 | **izzybprezleyfan**: Pupcicle (N) ×2, Skelicorn (M), Stray Cat Dragon (M), Pupcicle ×8, Crystal Egg ×6 | **Xz_CodeOLDriftdLBliz**: Pupcicle (M) |
-| 01:30 | **billygrace4jeffy**: Indian Flying Fox (MFR), Great Pyrenees (MFR), Happy Duckling (MR) | **cemorujam**: Pupcicle (MFR) |
-| 01:30 | **ana_zombie13**: Waffle Wyrm (M) | **ventisnumb3r1fan**: Frozen Penguin (N) |
-| 01:30 | **LIAXMLV**: Latte Kitsune (N), Pancake Stack, Count Slothula, Arctic Dusk Dragon, Lava Wolf, Gemstone Egg | **gamer_girly81233**: Mermicorn (FR) |
-| 01:30 | **prolugot**: Royal Egg ×18 | **DDxxxxxuwuxxxxxBB**: Daisymobile |
-| 01:30 | **aaixqc**: Hare Box ×8, Little Lamb (N) | **gamer_girly81233**: Copycat (R) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
