@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 04:01 UTC by the scrape workflow._
+_Updated 2026-11-15 04:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 04:01 UTC by the scrape workflow._
 | amvgg | 5 | 28,814 | 2026-11-15T04:00 |
 | elve | 5 | 6,249 | 2026-11-15T04:01 |
 
-## AMVGG completed trades: 16,890 total
+## AMVGG completed trades: 16,936 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 746 |
+| 2026-11-15 | 792 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 04:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:00 | **xosleepybunny**: Stray Cat Dragon (M) | **princesspope2014**: Pupcicle |
-| 04:00 | **Xxxxashhhh**: Fly-A-Pet Potion ×3 | **blushbyelle**: Sakura Spirit |
-| 03:55 | **addAquaskycode2015**: Zombie Buffalo (R) | **Nutty_1352**: Pupcicle ×7 |
-| 03:55 | **Andres_agent**: Ride-A-Pet Potion, Baku ×2 | **AdrianGaming777777**: Pet Handler Pro Certificate |
-| 03:55 | **latuk_1119**: Pupcicle | **Sunglases_xx**: Thinking Hat, Energy Aura Feet |
-| 03:55 | **method611491**: Bat Dragon (NFR), Giraffe (NFR), Arctic Reindeer (FR), Panda Pal | **Artisticzsilver**: Shadow Dragon (MFR) |
-| 03:55 | **TheBerryxD**: Golden Lettuce | **RAYANBacKU**: Bunny Swirl, Latte Kitsune |
-| 03:55 | **HeartsForEli_1406**: Count Slothula (M), Unicorn Backpack, Spring Bunny Feet | **sugarbunn3i**: 2022 Birthday Cake |
-| 03:55 | **OvTrxashy_Eva**: Munchkin Cat, Punk Pony (MFR) | **sakunary_1328**: Haetyphoon |
-| 03:55 | **AllHallowEvening**: Strawberry Penguin, Unicorn (MFR) | **josuecres16**: Siamese Cat (FR) |
-| 03:55 | **xxDeAdSoS1Sxx**: Camel ×4, Fairytale Egg ×2 | **emaisabella23**: Purrowl |
-| 03:55 | **Esssoo76**: Pig (R) | **brookxx44**: Arctic Dusk Dragon (R), Candy Hare, Dodo (R) |
-| 03:55 | **joeyharri12**: Ice Cream Hermit Crab (MFR) | **sohohuls**: French Bulldog (MFR), German Shepherd (MFR) |
-| 03:55 | **7petite**: Candicorn (MFR) | **itzzdxavid**: Undead Jousting Horse (NFR) |
-| 03:55 | **FlyToTheSaturn**: Millionaire Mansion | **Secret_Secretov321**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 04:06 | **Not_CupcakeCrystal**: Happy Clam (NFR), Tutu | **alwaysgooddays00**: Candicorn |
+| 04:06 | **L_person21**: Rainbow Maker, Royal Mistletroll (FR), Giant Anteater | **ylyzacanete**: Hedgehog (FR) |
+| 04:06 | **kneesurgeryreminder**: Pupcicle, Ice Cube ×2 | **littyamelia**: Chocolate Dutch Guinea Pig |
+| 04:06 | **UltimateLionMantis**: Chihuahua | **sugarblossomxoxx**: Criosphinx |
+| 04:06 | **Elena_Sih9**: Caramelgeist (N), Little Lamb (N) ×2, White Choccybunny (N), Rubber Ducky (M) | **lantongzp**: Ride-A-Pet Potion |
+| 04:06 | **Xz_CodeOLDriftdLBliz**: Pupcicle (M) | **0o_Cupcake**: Pupcicle ×18 |
+| 04:06 | **Applewoo62**: Rose Dragon (R) | **wavehrt**: Ride-A-Pet Potion ×3 |
+| 04:06 | **Helper_dod**: Pig (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
+| 04:06 | **splashqueen02**: Lynx (MFR), Happy Duckling (M) | **OBVIXALIX**: Ram (MFR) |
+| 04:06 | **Berryavenueslag**: Pupcicle (M), Ride-A-Pet Potion | **NOBIIIEEE11**: 2022 Birthday Party Hat |
+| 04:06 | **hisforeverndalways**: Chocolate Chip Bat Dragon (FR), Candicorn (FR) | **OflineGirlx**: Arctic Reindeer (FR), Copycat, Fly-A-Pet Potion ×2 |
+| 04:06 | **justunujede123**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Alien Eyes Hat | **3mis_alttt**: Spring Bunny Hood |
+| 04:06 | **maruchancute4**: Jacobin Pigeon (M) | **valentinaajuwu**: Chihuahua |
+| 04:06 | **jxst_SinaBaum**: Zombie Wolf | **Strict_Mysteryalt4**: Pupcicle |
+| 04:06 | **MoniquyYa**: Garden Snake (M) | **1_strawberry0**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
