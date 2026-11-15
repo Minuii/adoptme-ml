@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 01:25 UTC by the scrape workflow._
+_Updated 2026-11-15 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 01:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 26,015 | 2026-11-15T01:15 |
-| elve | 5 | 5,715 | 2026-11-15T01:16 |
+| amvgg | 5 | 26,302 | 2026-11-15T01:30 |
+| elve | 5 | 5,767 | 2026-11-15T01:31 |
 
-## AMVGG completed trades: 16,440 total
+## AMVGG completed trades: 16,459 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 296 |
+| 2026-11-15 | 315 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 01:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:25 | **Nutty_1352**: Dango Penguins | **7yasmin10**: Ride-A-Pet Potion ×2 |
-| 01:25 | **Adduser_rruinedsoul**: Vampire Dragon (MR), Turtle, Marabou Stork (MFR) | **chapihop2**: Balloon Unicorn (FR) |
-| 01:25 | **moonlightnovax**: Turtle (NFR), Dalmatian (R), Ride-A-Pet Potion ×5, Chocolate Dutch Guinea Pig (N) | **Unknown_Valire**: Arctic Reindeer (NFR) |
-| 01:25 | **1Biahsz_altx**: Gemstone Egg ×3 | **A1waysB0r3d**: Little Lamb (M) |
-| 01:25 | **agenthollydoom**: Caelum Cervi (R), Fallow Deer (FR) | **ii_kiiv**: Arctic Dusk Dragon (FR), Hyena |
-| 01:25 | **Leck_aia181**: Copycat (N) | **Emanuel_funao**: Ram (MFR), Pancake Stack, Cattuccino (N) |
-| 01:25 | **Proivoe98**: Polar Bear (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **bob4_boy**: Grim Dragon (NFR) |
-| 01:25 | **DoodlesMog**: Horse (NFR) | **Quizzaff**: Pancake Stack |
-| 01:25 | **misaki_hagami**: Kangaroo (FR) | **Byeedontmindme1234**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×6 |
-| 01:25 | **getzy4sh**: Tree Sasquatch (M) | **AsmioTakeW**: Fly-A-Pet Potion |
-| 01:25 | **Attilafluffy16**: Pupcicle | **xMoon_289**: Ride-A-Pet Potion |
-| 01:25 | **NathanPlayz83**: Turtle (MFR), Ride-A-Pet Potion ×4, Panda (MFR) | **higuysitskobe**: Strawberry Tortle (N) |
-| 01:25 | **soul_17340**: Cabbit (NFR), Cabbit (FR), 2022 Birthday Party Hat, Tiny Wings | **glccs_kitty**: Balloon Unicorn |
-| 01:25 | **lisathefunnypig**: Chihuahua | **0Sinem_0**: Count Slothula |
-| 01:25 | **lisathefunnypig**: Count Slothula | **frog_love1011**: Sushi Penguin |
+| 01:30 | **RiderLuckyNova2017**: Bush Elephant (NR) | **bypalmas**: Hare (MFR) |
+| 01:30 | **zarmeowz**: Lion Cub (NR) | **jilucie2010**: 2022 Birthday Cake |
+| 01:30 | **minismudgepanda**: Armadillo (M) | **Hamigail**: Chocolate Dutch Guinea Pig |
+| 01:30 | **Abyy_101010**: Matcha Cat, Happy Duckling (M), Moose Calf | **XL4IL4_FGYX**: Moose Calf (N), Kappakid (MR), Butter Knife |
+| 01:30 | **xxDeAdSoS1Sxx**: Snow Cat, Tree Frog, Ant (N), Ant, Jacobin Pigeon ×2, Ms. Muffet, Sheepdog Ducky, Cat | **Antonipes**: Purrowl |
+| 01:30 | **Lillyistdiebesteamq**: Slime (N) | **danyypizza121**: Ride-A-Pet Potion ×6 |
+| 01:30 | **fartskin6**: Halloween White Ghost Dragon (FR) | **bella_lingx17**: German Shepherd (N) |
+| 01:30 | **TMDung20**: Kitty Bat (MR), Bunny Swirl (MR), S'mores Raccoon (M) | **MERCEDESE300COUPE**: Mini Pig (FR) |
+| 01:30 | **xezviii**: Spring Bunny Feet | **murdermystery2695**: Mochi Meow Tumble Animated Sticker, Pretty Please Snowball Sticker |
+| 01:30 | **izzybprezleyfan**: Pupcicle (N) ×2, Skelicorn (M), Stray Cat Dragon (M), Pupcicle ×8, Crystal Egg ×6 | **Xz_CodeOLDriftdLBliz**: Pupcicle (M) |
+| 01:30 | **billygrace4jeffy**: Indian Flying Fox (MFR), Great Pyrenees (MFR), Happy Duckling (MR) | **cemorujam**: Pupcicle (MFR) |
+| 01:30 | **ana_zombie13**: Waffle Wyrm (M) | **ventisnumb3r1fan**: Frozen Penguin (N) |
+| 01:30 | **LIAXMLV**: Latte Kitsune (N), Pancake Stack, Count Slothula, Arctic Dusk Dragon, Lava Wolf, Gemstone Egg | **gamer_girly81233**: Mermicorn (FR) |
+| 01:30 | **prolugot**: Royal Egg ×18 | **DDxxxxxuwuxxxxxBB**: Daisymobile |
+| 01:30 | **aaixqc**: Hare Box ×8, Little Lamb (N) | **gamer_girly81233**: Copycat (R) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
