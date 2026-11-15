@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 17:31 UTC by the scrape workflow._
+_Updated 2026-11-15 17:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 17:31 UTC by the scrape workflow._
 | amvgg | 5 | 42,394 | 2026-11-15T17:30 |
 | elve | 5 | 9,313 | 2026-11-15T17:31 |
 
-## AMVGG completed trades: 20,234 total
+## AMVGG completed trades: 20,238 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,090 |
+| 2026-11-15 | 4,094 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,10 @@ _Updated 2026-11-15 17:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 17:36 | **AD0RBSMARI**: Albino Monkey (NFR) | **Sprout228777**: Cow (R), Ice Cream Cone Hat |
+| 17:36 | **piinkttape**: Harp Seal, Sandwich Hat, Tuxedo Cat, Chocolate Dutch Guinea Pig | **Adoptmestocks3000**: Many Mackerel |
+| 17:36 | **StargamerRB_Official**: Candicorn (NR) | **dupeczek23**: Cabbit (FR) |
+| 17:36 | **alittlerandomthing**: Shadow Dragon (NFR), Frost Dragon (NFR), Turtle (NFR), Hot Doggo (R), Sugar Glider (R), Turtle (R) | **MissaBloxluck**: Balloon Unicorn (MFR) |
 | 17:30 | **margini_mini**: Dalmatian | **jhtdfbjiytvjib**: Arctic Reindeer (FR), Matcha Cat, Polar Bear (FR) |
 | 17:30 | **Ttsglw**: Discosplosion, Netzooka, Balloon, Inflatable Sword | **miraaa4lifeee**: Ride-A-Pet Potion |
 | 17:30 | **adoptcatdogfox2**: Broken Egg | **joker7_77**: Ride-A-Pet Potion |
@@ -41,10 +45,6 @@ _Updated 2026-11-15 17:31 UTC by the scrape workflow._
 | 17:30 | **HyunjinFROMLOONA2027**: Ride-A-Pet Potion ×5 | **docedelets**: Copycat |
 | 17:30 | **Cinzsins**: Velocirooster (MFR) ×3, Ice Golem (MFR), Frostbite Bear, Kangaroo (MFR), Sakura Spirit (MFR) | **Angela019291**: Shadow Dragon (FR) |
 | 17:30 | **bogdanslishkomzhirni**: Balloon Unicorn (FR) | **caxarok_ponosik52**: Elephant (FR), Fly-A-Pet Potion ×2, Sakura Spirit (MFR), Ride-A-Pet Potion |
-| 17:30 | **JumpingFangs**: Albino Monkey (R) | **povft6**: Haetyphoon |
-| 17:30 | **Ttsglw**: Ice Cream Stroller, Anna Rattle, Netzooka, Polar Bear Plush, Balloon, Discosplosion | **Megasus112212**: Fly-A-Pet Potion |
-| 17:30 | **PandaCornoaGirl**: Goldhorn (MFR) | **kitvez**: Alpaca (FR) |
-| 17:30 | **kashemiro**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Sweet_Butter1049**: Dragonfruit Fox |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
