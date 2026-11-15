@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 14:01 UTC by the scrape workflow._
+_Updated 2026-11-15 14:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 14:01 UTC by the scrape workflow._
 | amvgg | 5 | 38,750 | 2026-11-15T14:00 |
 | elve | 5 | 8,453 | 2026-11-15T14:01 |
 
-## AMVGG completed trades: 19,056 total
+## AMVGG completed trades: 19,136 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,912 |
+| 2026-11-15 | 2,992 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:00 | **chunlihasora**: Ride-A-Pet Potion | **Lili58320**: Red Cardinal (N), Ground Sloth (N) |
-| 14:00 | **KimikoYuka**: Lion, Pig (R), Dango Penguins (NR), Chocolate Dutch Guinea Pig (NFR), Glacier Kitsune (FR), Unicorn (NFR), Tiny Wings, Vanilla Penguin (N), Harp Seal (N), Skelicorn (MFR), Lamb (FR), Stitches (MR), Chocolate Dutch Guinea Pig, Latte Kitsune, Tuxedo Cat, Ghost Dog, Copter Hat, Ram | **MERCEDESE300COUPE**: Hedgehog (FR) |
-| 14:00 | **SomeoneStoleMyChance**: Oakee Wizard (M) | **itsjosi_RobloxXX**: Ride-A-Pet Potion ×2 |
-| 14:00 | **roblox_user_8741108891**: Shark Puppy (MFR), Alley Cat (MFR), Turtle (FR), Rain Boots | **RBstela**: Owl (FR) |
-| 14:00 | **SomeoneStoleMyChance**: Tealwood Monster (M) | **itsjosi_RobloxXX**: Ride-A-Pet Potion ×2 |
-| 13:55 | **Klaysi_flayra**: Angus Calf, Black Kite, Steppe Lion, Subzero Scorpion, Sea Angel, Oryx, Narwhal, Moonpine ×2, Merhorse, Emu, Black Rhino | **frecalsplogeok9**: Ride-A-Pet Potion |
-| 13:55 | **Meko0o_3**: Retired Egg ×17 | **exotiqsss**: Bakeneko (N) |
-| 13:55 | **starlvciie**: Toucan (N) | **exotiqsss**: Boohoo (N) |
-| 13:55 | **Jeansppk**: Unicorn (N) | **lucasprz7**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 13:55 | **PVIC124**: Sugar Glider (NFR), Fairy Bat Dragon (NFR), Spring Bunny Feet | **Riikka_Takanashiii**: Crow (FR), Field Mouse |
-| 13:55 | **adorbsxmxna**: Shiba Inu ×6 | **DrizzledTxffee**: Shiba Inu (N) |
-| 13:55 | **Sofiaeftychiou**: King Bee | **DrizzledTxffee**: St Bernard |
-| 13:55 | **HeartsForEli_1406**: 2022 Birthday Cake | **3mis_alttt**: Siamese Cat (R), Adopt Me Girl Scooter |
-| 13:55 | **wskdaks**: Goat (NR) | **Not_CupcakeCrystal**: Jester Dragon (NFR) |
-| 13:55 | **Qu33nDQCrimsonO19932**: Ride-A-Pet Potion | **alexgameminecraft**: Skelicorn ×10 |
+| 14:10 | **Maryha0243**: Frost Fury (NFR) | **shinobukoX3**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
+| 14:10 | **Moticia20**: Kangaroo (NFR) | **Lola_ant34**: Red Fox (M), Coyote (MR), Snow Leopard (M), Space Whale (MFR), Chick (MFR), Black Moon Bear (MFR), Dugong (M), Ride-A-Pet Potion ×3 |
+| 14:10 | **rxy3e**: Parrot (FR), Arctic Reindeer (FR), Cow (FR), Ride-A-Pet Potion ×2 | **Monetachka38**: Frost Dragon (FR) |
+| 14:10 | **lina200r**: Fairy Bat Dragon (FR), Alpaca (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×8 | **fightergaming11**: Chocolate Chip Bat Dragon (FR) |
+| 14:10 | **JenYAsha2akk12**: Ride-A-Pet Potion ×17, Gemstone Egg | **akeks_74**: Kangaroo (FR) |
+| 14:10 | **anekalubitnaruto**: Pupcicle | **alhida040**: Unicorn |
+| 14:10 | **geBochka_bega3**: Border Collie (FR) | **JoeyPlaysYt19**: Candicorn (FR) |
+| 14:10 | **UnU_Darina1**: Paint Sealer ×14 | **Airysterin**: Ride-A-Pet Potion |
+| 14:10 | **hgjigkb**: Owl (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **Inclemnc**: Evil Unicorn (NFR), Sugar Glider (R) |
+| 14:10 | **aLiEnGiRl_e**: Peppermint Penguin (FR) | **somebody_Xfife**: Cow (FR) |
+| 14:10 | **D_Smp404**: Candicorn (FR) | **Hales_Elise**: Bush Elephant (FR) |
+| 14:10 | **Murder_misery245**: Turtle (FR), Sugar Glider (R), Candyfloss Chick (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **Ernozil**: Cabbit (NFR) |
+| 14:10 | **Urpookie_Ria**: Unicorn Horn | **adam12345c10**: Tiny Wings ×2 |
+| 14:10 | **Klaysi_flayra**: Endangered Egg ×2, Fairytale Egg ×2, Ladybug, Little Lamb, Lunar Ox, Pomeranian, Unicorn Ducky, Australian Kelpie, Kelp Raider, Ibis, Ice Cube, Merhorse, Shiver Wolf | **Adore_Pandaz**: Ride-A-Pet Potion |
+| 14:10 | **niceshat1234**: Jester Dragon | **tvmi9**: Glormy Leo (R) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
