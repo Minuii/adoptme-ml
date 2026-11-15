@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 14:16 UTC by the scrape workflow._
+_Updated 2026-11-15 14:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 14:16 UTC by the scrape workflow._
 | amvgg | 5 | 38,998 | 2026-11-15T14:15 |
 | elve | 5 | 8,508 | 2026-11-15T14:16 |
 
-## AMVGG completed trades: 19,160 total
+## AMVGG completed trades: 19,190 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 3,016 |
+| 2026-11-15 | 3,046 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 14:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:15 | **UnU_Darina1**: Paint Sealer ×14 | **Airysterin**: Ride-A-Pet Potion |
-| 14:15 | **Lilly_Pops1**: Goose (FR), Pretty Pony (M), Amami Rabbit (MFR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Spring Bunny Nose | **rosekitten321**: Strawberry Shortcake Bat Dragon (FR) |
-| 14:15 | **livlivlivliv1234liv**: Ride-A-Pet Potion | **aubsyisawesome**: Gingerbread Reindeer (N) |
-| 14:15 | **rzsxveq**: Cow (FR) ×2, Candicorn (R), Jester Dragon | **Vitek_228666**: Hedgehog (R) |
-| 14:15 | **aestethic_serbia**: White Choccybunny (M), Hopbop (M), Galapagos Sea Lion (M) | **rasediva**: Fly-A-Pet Potion |
-| 14:15 | **CadenChallenges**: Swan (MFR) | **B1nnie2**: Cow |
-| 14:15 | **eeveelover2007lover**: Dango Penguins | **Alexa_76011**: Harp Seal |
-| 14:15 | **kkaatEEe2**: Cabbit (FR), Kangaroo (FR), Penguin (NR) | **pandirk**: Turtle (NFR) |
-| 14:15 | **LunaAqua5849**: Goat (MFR) | **D8RYY**: Hare (MFR), White Sand Dollar (MFR), Guardian Lion (MFR), Bunny Swirl (MFR), Fly-A-Pet Potion |
-| 14:15 | **vincelft0**: Sugar Glider (FR) | **Klee_love333**: Kangaroo, Dragonfruit Fox (N), Ride-A-Pet Potion |
-| 14:15 | **SERDDFS1**: Scarecrow Cat ×4 | **Abvisse**: Ride-A-Pet Potion |
-| 14:15 | **neforeno4ek666**: Ride-A-Pet Potion ×17 | **indirkraljgotban**: Kangaroo (FR) |
-| 14:15 | **soulnesy**: Cow (FR) | **Ex_crime**: Aestus (NFR) ×2, Aestus (NR) |
-| 14:15 | **tearingdoll**: Rose Quartz Glow Mega Neon Paint, Ride-A-Pet Potion | **klown_karr**: Pet Handler Pro Certificate |
-| 14:15 | **soliwis2**: Unicorn ×2 | **klown_karr**: Tealwood Monster (MR), Bobageist ×7, Skelicorn |
+| 14:25 | **Sn3akyw0lfBloxgames**: African Wild Dog (N), Spring Bunny Feet ×2, Spring Bunny Nose, Dango Penguins, Skelicorn (M), Boohoo (M), Unicorn Backpack, Lynx ×2, Chihuahua ×3 | **Sarah_dzalg**: Balloon Unicorn (NFR) |
+| 14:25 | **JuliashaMeow**: Crocodile (FR), Golden Walrus, Festive Deliveries Present Truck | **Kyza_222222223**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 |
+| 14:25 | **Manggo_Pie40**: Kangaroo (FR) | **LoriDreamy123**: Fly-A-Pet Potion ×9 |
+| 14:25 | **kity607AltAccount**: Caterpillar | **lola_bear1995**: Ride-A-Pet Potion ×12 |
+| 14:25 | **FROSTYCAP1**: Flamingo, Cow (FR), Harp Seal (NR), Harp Seal (N), Unicorn | **Anabanana_3160**: Strawberry Shortcake Bat Dragon (FR) |
+| 14:25 | **Fox7Art**: Kangaroo (FR) | **RENZSOMERA**: Fly-A-Pet Potion ×9 |
+| 14:25 | **Anabanana_3160**: Cow (FR) | **imrealblink14**: Caterpillar, Lion Cub, Giant Anteater, Ride-A-Pet Potion ×2, Kitsune (FR), Dodo ×2, Panda (FR) |
+| 14:25 | **booluqx**: Copycat | **MouneXS**: Cake Friend (N), Mistletroll (M), Burger Bear (N) |
+| 14:25 | **qirelliaa**: Arctic Fox (R), Ride-A-Pet Potion | **killy_56795**: Pupcicle (N), Ride-A-Pet Potion, Pet Handler Pro Certificate, Skunk (FR) |
+| 14:25 | **Unknown_Entity1213**: Goose (FR), Goose, Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **calampianojames**: Dalmatian |
+| 14:20 | **Lilyyay86**: Catte | **denizaglioo**: Penguin (N) |
+| 14:20 | **Klaysi_flayra**: Bee, Elasmosaurus, General Sheepdog, Clover Cow, Cold Cube, Dotted Eggy, Cattuccino, Toucan ×4 | **Adore_Pandaz**: Ride-A-Pet Potion |
+| 14:20 | **Sharpie_pies**: Jiggly Jerboa (M), Frankenfeline (N), Onza (N), Cozy Mistletroll, Ocelot (N) | **Adore_Pandaz**: Ride-A-Pet Potion |
+| 14:20 | **Sarah72042**: Snow Monkey (N), Drake (N), Pretty Pony (N), Groundhog, Moose Calf, Alley Cat, Ghost Bunny (NFR), Count Slothula (N), Ride-A-Pet Potion ×2 | **ambervgils**: Cow (FR) |
+| 14:20 | **hans53901**: Stray Cat Dragon ×18 | **marsyasha11**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
