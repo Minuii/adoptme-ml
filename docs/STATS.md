@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 00:25 UTC by the scrape workflow._
+_Updated 2026-11-15 00:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 00:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 24,892 | 2026-11-15T00:15 |
-| elve | 5 | 5,486 | 2026-11-15T00:16 |
+| amvgg | 5 | 25,185 | 2026-11-15T00:30 |
+| elve | 5 | 5,560 | 2026-11-15T00:31 |
 
-## AMVGG completed trades: 16,220 total
+## AMVGG completed trades: 16,248 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 76 |
+| 2026-11-15 | 104 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 00:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:20 | **shawn_ayii**: Dango Penguins (MFR) ×18 | **MarcusTradesAMVGG**: Puffin (MFR), Frost Phoenix (MFR) ×2, Tree Kangaroo (MFR), Ballet Swan (MR), Flaming Fox (MFR), Goose (FR), Hot Doggo (R), Orchid Butterfly (R), Cryptid, Royal Mistletroll, Rainbow Maker, Phoenix (MFR), Turtle (FR), Candicorn (FR), Candicorn (MFR), Cupid Dragon (MFR) |
-| 00:20 | **guiderno1234**: Tuxedo Cat (MFR) | **NathanPlayz83**: Sushi Penguin (MFR) |
-| 00:20 | **shawn_ayii**: Dog (MFR) ×9 | **MarcusTradesAMVGG**: Haetyphoon (M) |
-| 00:20 | **uh_Rojo**: Goose (R) | **Maxadoptme77**: Cerberus (MFR) |
-| 00:20 | **vnessiia**: Ride-A-Pet Potion | **jellofox2009**: Paint Sealer ×13 |
-| 00:20 | **MecFoxCZ**: Shark Puppy (FR) | **MistletoeMeg**: Dragonfruit Fox (NFR) |
-| 00:20 | **xWobbers**: Pupcicle ×2 | **caxap_rumi**: Pet Handler Pro Certificate |
-| 00:20 | **VivaraGrandeeh**: Mummy Spider (N) | **Kir4kaaa**: Rabbit ×3 |
-| 00:20 | **Cherridoll76**: Shrew (NFR) | **nraleci**: Werewolf (FR) |
-| 00:20 | **Nekotin_666**: Ride-A-Pet Potion, Kiwi Kiwi, Diamond Unicorn | **Nutty_1352**: Pupcicle ×2 |
-| 00:15 | **reii_1723**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **Ritzu_CX**: Unicorn (N), Horse |
-| 00:15 | **glontincap_1009**: Owl (NFR), Copycat (MFR) | **1dayto100dayrich09**: Pelican (MFR), Balloon Unicorn (FR), Goose (FR) |
-| 00:15 | **nickknackks**: Balloon Unicorn (R), Alpaca (NFR), Arctic Reindeer (FR) ×2, Goat (NR), Cabbit (R) | **kr74289**: Mini Pig (MFR) |
-| 00:15 | **XGiveMeUrFoodX**: Jester Dragon (FR), Frostbite Bear (FR), Arctic Dusk Dragon (R), Dancing Dragon (R), Copycat, Albino Monkey, Strawberry Penguin (FR) | **Randomiix_3**: Arctic Reindeer (FR) |
-| 00:15 | **No_R3gretz**: Arctic Fox (MFR) ×2 | **Randomiix_3**: Parrot (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion |
+| 00:30 | **dislayy3**: Diamond Egg, Endangered Egg | **hugsformy_sisfinjaa**: Purrowl |
+| 00:30 | **RREN_XOXO**: Balloon Unicorn (FR), Ice Cream Hermit Crab (MFR) | **Pinitizie**: Goat (MFR), Owlbear (MFR) |
+| 00:30 | **glotznd_1324**: Black-Footed Ferret (M), Pomeranian | **haruharukaa**: Pomeranian (M) |
+| 00:30 | **Axelltooonpro12**: Copycat ×14 | **StreamPlayz508**: Frostbite Bear ×4 |
+| 00:30 | **Farm_adopt555**: Angus Bull (NR) | **haruharukaa**: Ride-A-Pet Potion |
+| 00:30 | **tsareena13567**: Latte Kitsune (MFR), Frostbite Bear, Copycat | **ILikePenguins94**: Ballet Swan (MFR) |
+| 00:30 | **MadeinChina1297**: Bat (N), Jacobin Pigeon (N) | **FunnyAnaminegirl**: Cattuccino (N) |
+| 00:30 | **kurumisbff**: Panda (NFR), Snowball Pet (NR), Husky, Unicorn (FR), Fly-A-Pet Potion ×2 | **UwUsophyaUw**: Unicorn (MFR) |
+| 00:30 | **Brixbrielle17**: Pupcake (N), Golden Unicorn ×2 | **DrinklngMilk**: Pet Handler Pro Certificate |
+| 00:30 | **Fan_deJennaO**: Cow (R) | **Byeedontmindme1234**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 |
+| 00:30 | **LuuliUru**: Cake Friend, Chihuahua (N), Chihuahua, Stray Cat Dragon (N), Pain au Chat | **carlodeuse**: Pupcicle (N) |
+| 00:30 | **Backup_accout146**: Fallow Deer | **P8D3L**: Pupcicle ×5 |
+| 00:30 | **Yourgrandadpullsfr**: Sasquatch (NR), Pudding Cat (N), Birthday Butterfly 2024 (NFR), Corgi (N) ×3, Choco Penguin (N), Ladybug (N) | **carlodeuse**: Ice Cream Cone Hat |
+| 00:30 | **sleepy_s0ren**: Copycat, Fly-A-Pet Potion ×2 | **ana42530u**: Tiny Wings |
+| 00:30 | **pawthetiic**: Purrowl ×4, Golden Griffin, Corgi ×4, Deinonychus, Gumball Caterpillar (N), Gumball Caterpillar ×2, King Penguin, Icy Porcupine, Magma Moose | **7yasmin10**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
