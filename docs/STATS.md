@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 05:10 UTC by the scrape workflow._
+_Updated 2026-11-15 05:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 05:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 29,755 | 2026-11-15T05:00 |
-| elve | 5 | 6,493 | 2026-11-15T05:01 |
+| amvgg | 5 | 29,974 | 2026-11-15T05:15 |
+| elve | 5 | 6,536 | 2026-11-15T05:16 |
 
-## AMVGG completed trades: 17,118 total
+## AMVGG completed trades: 17,147 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 974 |
+| 2026-11-15 | 1,003 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 05:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:10 | **IzzatiGamerzMalaysia**: Orca ×2, Granny Wolf, Princess Mare, Pomeranian, Little Lamb | **santiago645980**: Coyote |
-| 05:10 | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **wjsjdgbdjdjf**: Lava Dragon (FR) |
-| 05:10 | **ellielielielieee**: Strawberry Stroller, Pro Ghost Blaster, Heart Bow, Caticorn Rattle, Reindeer Stroller, Picnic Basket, Buttoned Ushanka | **Mikaylamareex**: Pancake Stack |
-| 05:10 | **wskdaks**: Arctic Dusk Dragon (FR), Arctic Dusk Dragon (R), Arctic Dusk Dragon | **Agent007Na**: Pupcicle ×14 |
-| 05:10 | **leoncitoUwU12345**: Goat (R), Lion Cub (R), Fly-A-Pet Potion | **Esmeralda_318**: Elephant (R) |
-| 05:10 | **kurumisbff**: Siamese Cat (R), Shark Puppy (FR), Ride-A-Pet Potion | **Itsserena108**: Goose (R) |
-| 05:06 | **lWeirdPhyscol**: Cow (FR), 2022 Birthday Party Horn ×2, Toaster Hat | **Fan_Bogatyrat**: Candyfloss Chick (NFR), Ride-A-Pet Potion |
-| 05:06 | **ykittyttr**: Unicorn Horn | **pillowmommy**: S'mores Raccoon (MFR) |
-| 05:06 | **Evannibal**: Alpaca (MFR), Giant Panda (FR), Giant Panda (R), Chocolate Chip Bat Dragon (NFR), Candyfloss Chick (NFR) | **higuysitskobe**: Bat Dragon (FR), Unicorn Horn |
-| 05:06 | **danieljuegavip**: Copycat, Rain Cloud Hat, Aestus (R), Tutu | **lilmsVirgo**: Frostbite Bear |
-| 05:06 | **Mica6g3**: Ride-A-Pet Potion | **hhhauntedddd**: Vulture, Skunk, Sweetheart Rat, Deathstalker Scorpion, Choco Penguin, Gingerbread Mouse, Eggnog Hare |
-| 05:06 | **svtoruuz**: Glormy Hound (MFR) | **gachadtoasti**: Lavender Dragon (MFR) |
-| 05:06 | **rasediva**: Pet Handler Pro Certificate | **vampzysss**: Mochi Meow (M) |
-| 05:06 | **baegliho**: Cow (FR), Cow (R), Arctic Fox (FR) | **banya7379**: Cow (NFR) |
-| 05:06 | **xxDeAdSoS1Sxx**: Dolphin Cruiser | **roblox_user_1313508414**: Purrowl |
+| 05:15 | **DeoKyleSonic**: Strawberry Tortle, Chocolate Dutch Guinea Pig (N) | **XIVrsen**: Kangaroo (FR) ×2 |
+| 05:15 | **Lilac_kookie**: Corndog Mustache | **Mikaylamareex**: Strawberry Hat |
+| 05:15 | **Lilac_kookie**: Haetae (FR) | **Glope200**: Cryptid (FR), Candy Cane Snail (MFR), Skelicorn (M), Propeller Hat, Bobageist (M), Spring Bunny Feet, Pandaguin Glooptodog (M) |
+| 05:15 | **zefenyplayz**: Haetae | **Lilac_kookie**: Peppermint Penguin (NFR) |
+| 05:15 | **Fan_deJennaO**: Munchkin Cat | **8aulises8btq**: Ride-A-Pet Potion ×9 |
+| 05:15 | **Starfireesa**: Siamese Cat (R) | **Esmeralda_318**: Unicorn Horn |
+| 05:15 | **XIVrsen**: Arctic Fox (NFR), Frost Fury (R) | **Onangkomang**: Kangaroo (FR), Arctic Fox (FR) |
+| 05:15 | **blueberryXx506778**: Tuxedo Cat (MFR), Alpaca (R) | **dollie_vx**: Unicorn Horn ×2 |
+| 05:15 | **SupercoolAliyah5**: Chihuahua (MFR), Flash Weasel | **strawberrixmilkii**: 2022 Birthday Party Hat |
+| 05:15 | **SmallestMascot**: Blazing Lion (FR) | **foureverkitty**: Haetae (FR) |
+| 05:15 | **SmallestMascot**: Haetae (FR) | **s1vurn**: Blazing Lion (FR) |
+| 05:15 | **Johnkurt0628**: Turtle (FR) | **ProPro2021**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
+| 05:15 | **FlyToTheSaturn**: Modern Mansion | **Dennis_1170**: Ride-A-Pet Potion |
+| 05:15 | **RiordanFan19**: Ride-A-Pet Potion ×4 | **antilucqa**: Sheeeeep |
+| 05:15 | **vconfetticake**: Pupcicle ×4, Pupcicle (N) | **toybeau772**: Ranger Beaver (M) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
