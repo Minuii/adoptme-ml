@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 18:10 UTC by the scrape workflow._
+_Updated 2026-11-15 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 18:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 42,899 | 2026-11-15T18:00 |
-| elve | 5 | 9,443 | 2026-11-15T18:01 |
+| amvgg | 5 | 43,168 | 2026-11-15T18:15 |
+| elve | 5 | 9,495 | 2026-11-15T18:16 |
 
-## AMVGG completed trades: 20,463 total
+## AMVGG completed trades: 20,507 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,319 |
+| 2026-11-15 | 4,363 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 18:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:10 | **no_name12345654321**: Sushi Penguin, Mouse (M) | **katerina_ishchak**: Ride-A-Pet Potion |
-| 18:10 | **Irinka717**: Sushi Penguin, Rabbit (N) | **katerina_ishchak**: Ride-A-Pet Potion |
-| 18:10 | **Artem_21a2**: Spring Bunny Feet, Pink Cat Ear Headphones | **Dinkarrt**: Ride-A-Pet Potion ×3 |
-| 18:10 | **XxGrace_StormxX54**: Ride-A-Pet Potion, Fly-A-Pet Potion, Elf Hat, Halloween White Mummy Cat (N) | **laycakees**: Spring Bunny Hood |
-| 18:10 | **kajaterezka**: Copycat | **Tree092109**: Ride-A-Pet Potion ×6 |
-| 18:10 | **yanchik0067**: Parrot (NFR), Cow (R), Fly-A-Pet Potion ×2 | **catDJpop17**: Frost Dragon (FR), Evil Unicorn (FR) |
-| 18:10 | **Adrinea_xo**: Peppermint Penguin (FR), Elephant (NFR), Cow (FR), Ride-A-Pet Potion | **59DAMAGE**: Cryptid (FR) |
-| 18:10 | **scrossgirl**: Tiny Wings, Spring Bunny Hood, Owlbear, Dugong (MR), Cotton Candy Hat | **Tal_Kazman**: 2022 Birthday Cake |
-| 18:10 | **darkbunsfan**: 2022 Birthday Party Hat, Jester Dragon, Ride-A-Pet Potion ×3 | **Tal_Kazman**: Peppermint Penguin |
-| 18:10 | **Dimash_bash**: Brown Bear | **jauzyp**: Pupcicle ×3 |
-| 18:10 | **rafaelousthecrazy**: Admin Abuse Egg ×15, Admin Abuse Box ×3 | **looter_love**: Ride-A-Pet Potion |
-| 18:10 | **robloxianhermoine**: Pupcicle | **ocly2**: Tuxedo Cat |
-| 18:10 | **M00Nligth100**: Vanilla Penguin, Ride-A-Pet Potion, Great Pyrenees, Moonpine (N), Three Blind Mice, Stray Cat Dragon ×2, Magma Snail (N) | **Star_Girl5841**: Bird of Paradise (M) |
-| 18:10 | **AddyClip**: Dragonfruit Fox | **LYIZA_1976**: Pet Handler Pro Certificate |
-| 18:10 | **Hosikoooooo**: Glormy Dolphin (N) | **Elza131112**: Ride-A-Pet Potion |
+| 18:15 | **m3rinaandthediamonds**: Cattuccino (N) | **littlefelonies**: Corgi ×11 |
+| 18:15 | **blankafruzsina**: Cow (FR) | **asia2023k**: Copycat ×5 |
+| 18:15 | **Isaticas**: Ride-A-Pet Potion, Admin Abuse Egg ×6 | **uuukabzhxj78**: Chocolate Dutch Guinea Pig |
+| 18:15 | **Yelyzaveta_125**: Christmas Pudding House | **Eeveegamer112009**: Poison Dart Frog |
+| 18:15 | **AlciaKociacia**: Dragonfruit Fox (MFR), Dango Penguins (MFR), Candicorn (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **pinky_96702**: Cryptid (FR) |
+| 18:15 | **lildaminii**: Copycat | **Wint3rPawz**: Pupcicle ×6 |
+| 18:15 | **niceplayeruwu**: Pet Handler Pro Certificate ×2 | **DASHA0099414**: Pupcicle (N) |
+| 18:15 | **hugsformy_sisfinjaa**: Retired Egg ×18 | **lol_662720**: Angus Bull (N) |
+| 18:15 | **booluqx**: French Bulldog (MR) | **thesuperkid0**: Fly-A-Pet Potion, Pet Handler Pro Certificate ×3, Ghost Bunny (FR), Zombie Wolf, Blue Ringed Octopus (R), Great Pyrenees, Happy Duckling, Pilot Gull (M), Firefighter Gibbon (N), Gingerbread Mouse (N), Strawberry Shortcake Ducky, Peahen, Toy Monkey, Angus Cow (NR), Stygian Owl (M), Chihuahua (R) |
+| 18:15 | **donnotinteract**: Pupcicle (NFR), Shark Puppy (FR), Fly-A-Pet Potion | **Lilith_LuvsYou**: Moon Rabbit (MFR), Spring Bunny Hood |
+| 18:15 | **kuzya987656**: Gemstone Egg, King Bee (R) | **uuukabzhxj78**: Ride-A-Pet Potion |
+| 18:15 | **akzoad**: Parrot (FR) | **xXNarynaryXx**: Strawberry Shortcake Bat Dragon (FR), Crocodile (NFR), Fairy Bat Dragon (FR), Cerberus (NFR), Frog (MFR), Australian Kelpie (MFR), Unicorn (NFR), Aussie Egg, Ratatoskr (MR), Ribbon Seal (MFR), Unicorn, Space Whale (NR) |
+| 18:15 | **papavhylohkax**: Owl (FR), Munchkin Cat | **M7XX2007**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Hedgehog (FR) |
+| 18:15 | **Tr4ading_T3ss**: Jumpscare (M), Jacobin Pigeon (M) | **Sona_tnm**: Magma Moose (N) |
+| 18:15 | **Kinley311yy**: Harp Seal (NR) | **sxndy_vybz**: Goat (R) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
