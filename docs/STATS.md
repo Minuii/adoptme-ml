@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 00:40 UTC by the scrape workflow._
+_Updated 2026-11-15 00:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 00:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 25,185 | 2026-11-15T00:30 |
-| elve | 5 | 5,560 | 2026-11-15T00:31 |
+| amvgg | 5 | 25,474 | 2026-11-15T00:45 |
+| elve | 5 | 5,595 | 2026-11-15T00:45 |
 
-## AMVGG completed trades: 16,289 total
+## AMVGG completed trades: 16,306 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 145 |
+| 2026-11-15 | 162 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 00:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:40 | **ciana_224**: Mini Pig (R) | **nraleci**: Undead Jousting Horse (FR) |
-| 00:40 | **iwasbornin13000**: Unicorn Horn, Fly-A-Pet Potion | **0o_Cupcake**: Pupcicle (M) |
-| 00:40 | **meg2270**: Balloon Unicorn (FR), Spring Bunny Hood | **cuty_Bunny10**: Orchid Butterfly (FR), Siamese Cat (N), Fly-A-Pet Potion |
-| 00:40 | **Zues_Potter**: Grim Dragon (FR) | **shortygirl2010**: Siamese Cat (FR) |
-| 00:40 | **AvaNari2010**: Pupcake | **cherry_blast2**: Rose Quartz Glow Mega Neon Paint |
-| 00:40 | **L1ttl3Mel0dyy**: Fly-A-Pet Potion | **yourbffJocelyn2011**: Gemstone Egg ×4 |
-| 00:40 | **ycygxycychc**: Blazing Lion (FR), Cryptid (FR), Kangaroo (NFR), Fairy Bat Dragon (FR), Turtle (R), Flamingo (FR), Pig (R), Kangaroo (FR), Pig, Frost Phoenix (F), Diamond Albatross, Fly-A-Pet Potion | **Kiandra13kiandra**: Giraffe (FR) |
-| 00:40 | **Stormy_303**: Ice Cream Cone Hat | **sursyrzytxurzutzutz**: Copycat, Cattuccino |
-| 00:40 | **mindflaree**: Moonlight Moth (NR) | **WIINDY_311**: Ride-A-Pet Potion ×3 |
-| 00:40 | **TrxstedAinhoken**: Tiny Wings, 2022 Birthday Party Horn, 2022 Birthday Confetti Cannon, Sugar Glider (R), Werewolf (NFR) | **magetearsx**: Copycat (MFR) |
-| 00:36 | **starswirl_64**: Koi Carp ×4 | **frecalsplogeok9**: Ride-A-Pet Potion |
-| 00:36 | **Shebby7771**: Cotton Candy Hat | **samakiyo_junyoung**: Black Moon Bear (N) ×3 |
-| 00:36 | **cakeheheheheheh**: Halo, 2022 Birthday Party Hat, Thinking Hat | **katccafe**: Rainbow Maker |
-| 00:36 | **rynxwrs**: Stray Cat Dragon (M), Stitches (N) | **klrmnn**: Dango Penguins |
-| 00:36 | **Panda39643**: Gemstone Egg ×2 | **Frozter_F1re**: Ride-A-Pet Potion |
+| 00:45 | **TheLightKick**: Cozy Mistletroll (MR) | **ana42530u**: Fly-A-Pet Potion ×2 |
+| 00:45 | **kulveqq**: Owl (FR), Fly-A-Pet Potion ×7 | **ABJ_207Xx**: Evil Unicorn (NFR), Cow (FR) |
+| 00:45 | **Adrinea_xo**: Strawberry Shortcake Bat Dragon (R), Vampire Dragon (NFR), Unicorn Horn, Moon Rabbit (NR) | **Erizien**: Cryptid (FR) |
+| 00:45 | **Quizzaff**: Count Slothula, Fly-A-Pet Potion ×3 | **NvmJosue**: Jester Dragon |
+| 00:45 | **aylacool45**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×4, Zombie Chick (MR), Sheeeeep | **antilucqa**: Caelum Cervi (NFR) |
+| 00:45 | **lilanderm**: Boohoo (M) | **batton0955**: Ride-A-Pet Potion |
+| 00:45 | **Erizien**: Strawberry Shortcake Bat Dragon (R), Unicorn Horn | **alwyzchlqe**: Fallow Deer (MFR) |
+| 00:45 | **Flutterieshyy**: Owl (FR), Frostbite Bear (R), Cow (R), Fly-A-Pet Potion ×3 | **VIPERR_KA1FANEL**: Frost Dragon (FR) |
+| 00:45 | **lildaminii**: Ride-A-Pet Potion ×4 | **P8D3L**: Pupcicle ×4 |
+| 00:45 | **disapp6ar**: Crow (FR), Dog | **vimiira**: Siamese Cat (MFR) |
+| 00:45 | **Fiocal21**: Peppermint Penguin (MFR), Goose (R), Groundhog, Christmas Pudding Pup, Show Pony (M), Tegu (M), Burger Bear, Pupcake | **disapp6ar**: Pelican (MFR) |
+| 00:45 | **Izzyishere134**: Pro Ghost Blaster | **huyichan9130**: Mummy Spider ×18 |
+| 00:45 | **unicornpoop198123**: Pupcicle ×4, Diamond Unicorn, Tan Chow-Chow, Jumpscare (N) | **Mitsuri_Chan0w**: Pupcicle (N) |
+| 00:45 | **wildoRH**: Munchkin Cat (MFR), Jester Dragon (MFR), Cabbit (R), Fairy Bat Dragon | **doumalov34**: Frost Dragon (FR) |
+| 00:45 | **Slitwirez**: Snow Cloud Wings ×2, Chocolate Chip Bat Dragon Backpack | **awhleil**: Gingerbread Reindeer (NR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
