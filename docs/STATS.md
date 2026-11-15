@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 09:31 UTC by the scrape workflow._
+_Updated 2026-11-15 09:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 09:31 UTC by the scrape workflow._
 | amvgg | 5 | 34,144 | 2026-11-15T09:30 |
 | elve | 5 | 7,413 | 2026-11-15T09:31 |
 
-## AMVGG completed trades: 17,889 total
+## AMVGG completed trades: 17,926 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,745 |
+| 2026-11-15 | 1,782 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 09:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:30 | **Pebble_llShelly**: Chocolate Dutch Guinea Pig, Pet Handler Pro Certificate, Harp Seal | **BiBi_sfkw**: Copycat |
-| 09:30 | **Xz_CodeOLDriftdLBliz**: Pupcicle (M) | **noob1962963**: Pupcicle ×18 |
-| 09:30 | **iixSkullsii**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Werewolf (FR), Great Pyrenees (MFR) | **Siren_AriaBlaze**: Crow (FR) |
-| 09:30 | **ohinam**: Pet Handler Pro Certificate ×7, Ride-A-Pet Potion | **Jocamax10**: Winged Tiger (FR) |
-| 09:30 | **Sentikaza_pikachu**: Blazing Lion (FR), Copycat, Sakura Spirit | **ycygxycychc**: Siamese Cat (MFR) |
-| 09:30 | **fhuybx556**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **safiqa99**: Kangaroo (FR) |
-| 09:30 | **miirxlla**: Catte (M) | **Mary1235175**: Candicorn |
-| 09:30 | **Gu1neaP1g_3**: Goth Shoes, Pancake Stack, Red Sand Dollar | **amaialolwonder**: Cow Calf (MR) |
-| 09:30 | **asteriavzx**: Ride-A-Pet Potion, Tree Frog (N) | **k4ng_haerinz**: Rainbow Stroller |
-| 09:30 | **dangomocho**: 2022 Birthday Cake, Spring Bunny Nose | **xom6ie**: Pupcicle (M) |
-| 09:30 | **ev0l6v**: Strawberry Shortcake Bat Dragon (FR), Frost Fury (FR) | **daimondhood**: Rainbow Maker |
-| 09:30 | **pawsicfl**: Pain au Chat ×4 | **cakilla28**: Fly-A-Pet Potion |
-| 09:30 | **Lastef12**: Balloon Unicorn (FR), Fly-A-Pet Potion, Pupcake (N), Ride-A-Pet Potion ×2, Rain Boots, Burger Boots | **prezervativkotika**: Chocolate Chip Bat Dragon (FR), Rainbow Maker, Goose |
-| 09:30 | **stevenzon574**: Halo, 2022 Birthday Party Hat, Unicorn Horn, 2022 Birthday Party Horn, Rain Cloud Hat, Toaster Hat, Tiny Wings, Copycat ×2 | **Xvibinqliz**: Pirate Ghost Capuchin Monkey (MFR) |
-| 09:30 | **shinyyespeon**: Count Slothula, Ghostly Cat | **hugsformy_sisfinjaa**: Pine Marten (N) |
+| 09:40 | **v6mpireeee**: Pet Handler Pro Certificate ×2, Pupcake | **namii_oppa7**: Dire Wolf (MFR) |
+| 09:40 | **tlauncee**: Fly-A-Pet Potion | **Brooklyn_Ohio**: Platypus |
+| 09:40 | **haggynionn**: Ride-A-Pet Potion ×4 | **xZetherx**: Santa Hat |
+| 09:40 | **Typay604**: Strawberry Shortcake Bat Dragon (FR), Meerkat (FR), Royal Corgi (R) | **Viktoria_11942**: Arctic Reindeer (R), Fly-A-Pet Potion |
+| 09:40 | **Hauntenuit**: Catte ×2, Kitty Biscuit, Kiwi Kiwi | **werreriss0**: Alley Cat |
+| 09:40 | **jikipikil**: Wolf (N) | **Mary1235175**: Ride-A-Pet Potion |
+| 09:40 | **Kathlyne450000**: Rainbow Maker, Unicorn Horn, Tiny Wings, Arctic Fox (R), Spring Bunny Hood, Fly-A-Pet Potion | **Elf_Deme**: Cow (NFR), Goose (FR) |
+| 09:40 | **LoriDreamy123**: Turtle (R), Chocolate Dutch Guinea Pig (MR), Chihuahua (M), Peppermint Penguin (FR), Sea Slug, Mule (MFR), Cow (R), Cattuccino (MR), Chicken (NFR), Tiny Wings, Spring Bunny Hood, Ride-A-Pet Potion ×3, Seagull (MR), 2022 Birthday Confetti Cannon | **Siraj6118**: Owl (FR) |
+| 09:40 | **ohinam**: Fly-A-Pet Potion ×10 | **safiqa99**: Siamese Cat (FR) |
+| 09:40 | **Jaz166l**: Balloon Unicorn (FR), Giant Panda (FR), Hedgehog (FR) | **karl_koto**: Mini Pig (MFR) |
+| 09:40 | **ohinam**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **Linaf333ff**: Albino Monkey (FR) |
+| 09:40 | **ANBUCHIDOS**: Balloon Unicorn (FR), Chocolate Chip Bat Dragon (FR) ×2 | **Auds191102**: Frost Dragon (FR) |
+| 09:40 | **eddsworldfan27494**: Arctic Dusk Dragon (FR) | **squ_evder**: Shrew (R) |
+| 09:40 | **ALV4RYTO**: Goose (R) | **p_awth**: Fly-A-Pet Potion ×16 |
+| 09:40 | **alhida040**: Flower Power Duckling | **Miltron6887**: Chihuahua |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
