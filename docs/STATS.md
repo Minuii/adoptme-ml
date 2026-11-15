@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 21:10 UTC by the scrape workflow._
+_Updated 2026-11-15 21:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 21:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 46,130 | 2026-11-15T21:00 |
-| elve | 5 | 10,120 | 2026-11-15T21:01 |
+| amvgg | 5 | 46,391 | 2026-11-15T21:15 |
+| elve | 5 | 10,192 | 2026-11-15T21:16 |
 
-## AMVGG completed trades: 21,455 total
+## AMVGG completed trades: 21,484 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,311 |
+| 2026-11-15 | 5,340 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 21:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:10 | **Cutie_wolfie20**: Peppermint Penguin (FR), Mermicorn (R), Siamese Cat (FR), Pet Handler Pro Certificate, Jacobin Pigeon (M) | **Ggoggeggu**: Fairy Bat Dragon (NFR) |
-| 21:10 | **DuckyMuffinz**: Ride-A-Pet Potion | **auixiss**: Admin Abuse Egg ×18 |
-| 21:10 | **yapplie**: Momma Moose (M), Gumball Caterpillar (N) | **LITTLESNOWMANLEO**: Giant Black Scarab (M) |
-| 21:10 | **1_TASTEANDY0ULLBMINE**: Pomeranian (M) | **ycamx_10**: Chocolate Dutch Guinea Pig |
-| 21:10 | **NarutoDegenerat**: Bakeneko (M) | **nsf772**: Unicorn |
-| 21:10 | **picklesyumyy**: Ride-A-Pet Potion, Halloween White Ghost Dragon | **GoldenYeeter1**: Copycat |
-| 21:10 | **Nasty_7392**: Pomeranian, Orca, Ginger Cat, Mahi Mahi, Patchy Bear | **indiiqca**: Cattuccino |
-| 21:10 | **evieebunnii**: Chihuahua ×2 | **kcfranco07**: Ride-A-Pet Potion |
-| 21:10 | **evieebunnii**: Chihuahua ×2 | **kcfranco07**: Ride-A-Pet Potion |
-| 21:10 | **adoptmejourney83**: Spring Bunny Hood | **insano_6678**: Glormy Leo (R) |
-| 21:10 | **insano_6678**: Cow (R) | **Fxlrmt**: Alley Cat (NR), Field Mouse (R), Fly-A-Pet Potion, Spring Bunny Hood, Dragonfruit Fox (R), Spring Bunny Feet, Ride-A-Pet Potion, Jeff's Nametag, Berry Cool Cube (N) |
-| 21:10 | **AKI10PLAY**: Haetyphoon (R) | **puci_64**: Crocodile (FR) |
-| 21:10 | **kallmekat1e**: Angel Wings, Fly-A-Pet Potion, Alley Cat, Chocolate Dutch Guinea Pig ×2 | **insano_6678**: 2022 Birthday Cake, Tiny Wings, Spring Bunny Hood |
-| 21:10 | **ZombifiedMarco**: Goat (MFR), Honey Badger (MFR), Latte Kitsune (MFR) | **zeejnaa**: Cow (MFR), Wooly Rhino (MR), 2022 Birthday Cupcake Shoes, Maneki-Neko (MFR) |
-| 21:10 | **missy_Artz**: Border Collie (FR), Pig (R) | **kasdfoolo**: Turtle (FR) |
+| 21:15 | **llanpro_gamer**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (R) | **Callumgggg5**: Dalmatian (FR) |
+| 21:15 | **Li0nH3r086**: Sakura Spirit (MFR), Cow (R) | **Bobothatdudehaha**: Giant Panda (FR) |
+| 21:15 | **copyvoting**: Sakura Spirit (MFR), Chocolate Dutch Guinea Pig (MFR) | **Bobothatdudehaha**: Giant Panda (FR) |
+| 21:15 | **Sona_tnm**: Magma Moose, Ride-A-Pet Potion | **toksiki454**: Royal Desert Egg |
+| 21:15 | **aylacool45**: Tortuga de la Isla (NFR), Goose (R), Crocodile | **Getmossedbyagirlheh**: Kangaroo (NFR), Kangaroo (R), Kangaroo |
+| 21:15 | **missprinqeen12**: Chinese Lantern, Pupcicle | **Amvgg_nul**: Ice Cream Cone Hat |
+| 21:15 | **anekalubitnaruto**: Shooting Star Board | **Siyunmeow**: Ride-A-Pet Potion ×4, Panda (FR) |
+| 21:15 | **Mimiplayztz123**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **Snip3rjkPrismAkZ3ro1**: Cow (FR) |
+| 21:15 | **poordiors**: Crystal Egg ×12 | **hefeltsafe**: Retired Egg ×18 |
+| 21:15 | **Kjghkkl51**: Strawberry Shortcake Bat Dragon (FR) | **udie446**: Frostbite Bear (N) |
+| 21:15 | **Kaylarena444**: Pet Handler Pro Certificate | **Polino4ka1986**: Happy Duckling (N) |
+| 21:15 | **poordiors**: Island Tarsier (M) | **ilovefnaf646**: Ride-A-Pet Potion |
+| 21:15 | **PartyBratJaylaaaa**: Tiny Wings, Magma Moose (M), Brachiosaurus (MR) | **sjhwgduuwdn2ji**: Haetyphoon |
+| 21:15 | **Diablita_kunxd20**: Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion | **nekostachie**: Harp Seal (MFR) |
+| 21:15 | **nekostachie**: Cryptid (NFR), 2022 Birthday Party Horn, Amami Rabbit (MFR) | **axuerilyt**: Giant Panda (FR), Peppermint Penguin (NFR), Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
