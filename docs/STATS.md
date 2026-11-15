@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 09:01 UTC by the scrape workflow._
+_Updated 2026-11-15 09:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 09:01 UTC by the scrape workflow._
 | amvgg | 5 | 33,650 | 2026-11-15T09:00 |
 | elve | 5 | 7,295 | 2026-11-15T09:01 |
 
-## AMVGG completed trades: 17,783 total
+## AMVGG completed trades: 17,827 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,639 |
+| 2026-11-15 | 1,683 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 09:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:00 | **Avue_203**: Arctic Fox (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **pmpjmg1**: Flaming Fox (NFR) |
-| 09:00 | **Tokio_hotel12085**: Ride-A-Pet Potion ×7, Mule, Clover Cow | **vabshsnsnsns**: Chihuahua (M) |
-| 09:00 | **peachieskiwi**: Peppermint Penguin (FR), Love Letter | **Nastya_367367**: Fairy Bat Dragon (FR), Spring Bunny Feet, Ride-A-Pet Potion ×3 |
-| 09:00 | **pxurifiedtoxin**: Frostbite Bear | **peachyrei_8**: Pupcicle ×16, Velocirooster (R) |
-| 09:00 | **margo33249**: Sloth (FR) | **abodtme0**: Pupcicle |
-| 09:00 | **Xyulo_ebanoe00**: Rain Hat, Heart Ribbon, Pink Instant Camera | **Fox_13920**: Ride-A-Pet Potion |
-| 09:00 | **viivieraa**: Goat (R) | **nskwlp0**: Ride-A-Pet Potion ×6 |
-| 09:00 | **arseniylolol**: Fly-A-Pet Potion ×3 | **anastasia010girl**: Arctic Dusk Dragon (FR) |
-| 09:00 | **Xxxxashhhh**: Pet Handler Pro Certificate ×15 | **fightergaming11**: Cow (FR) |
-| 09:00 | **ev0l6v**: Bat Dragon (NFR) | **GinaLloyd10alt**: Blazing Lion (MFR), Elephant (NFR), Turtle (FR), Strawberry Shortcake Bat Dragon (FR), Bald Eagle (F), Cow (FR), Frost Fury (FR) |
-| 09:00 | **FemboyMaxer**: Turtle (NFR) ×2 | **rianasfanboy**: Arctic Reindeer (FR), Kangaroo (R), Pig (FR), Ride-A-Pet Potion |
-| 09:00 | **peachieskiwi**: Water Rabbit (M), Fly-A-Pet Potion | **Vxmptomato**: Water Rabbit (MFR) |
-| 09:00 | **ilgattonelcamino**: Latte Kitsune | **Xxxxashhhh**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 09:00 | **CcnShadowGames**: Mermicorn (FR), Cabbit (R), Owlbear (R), Fly-A-Pet Potion, Space Fleet House | **hazeldacoolest_889**: Strawberry Shortcake Bat Dragon (FR) |
-| 09:00 | **Zanx0_1**: Halloween White Ghost Dragon (FR) | **Xxxxashhhh**: Pet Handler Pro Certificate ×2 |
+| 09:10 | **cuitlah12**: Frost Fury (R) | **14univorny**: Arctic Dusk Dragon |
+| 09:10 | **lovefrommel**: Angel Wings, Spring Bunny Hood ×2 | **Xyzxelle**: Unicorn Horn, 2022 Birthday Confetti Cannon |
+| 09:10 | **jikipikil**: Capybara (R) | **xgx6702**: Ride-A-Pet Potion |
+| 09:10 | **FlyToTheSaturn**: Marsh Plush, Turkey Plush, Balloons, Banana Pogo, Octopus Plush, Santa Rattle, Ornament Throw Toy, Cookie Dough Plush ×3, Sleigh Bells Rattle ×2, Candle ×3 | **hqapui**: Fly-A-Pet Potion |
+| 09:10 | **abnorzxiouxs**: Jester Dragon (NR), Candicorn (R), Unicorn Horn | **Agent007Na**: Strawberry Shortcake Bat Dragon (FR) |
+| 09:10 | **pktyce**: Owl (FR), Winged Tiger (FR), Ride-A-Pet Potion ×2, Fleur De Ice | **Jocamax10**: Dalmatian (FR), Chocolate Chip Bat Dragon (NFR) |
+| 09:10 | **asteryynn**: Strawberry Shortcake Bat Dragon (FR) | **turguni8**: Fairy Bat Dragon (FR), Turtle (FR), Arctic Fox (FR) |
+| 09:10 | **dashe4kavbb**: Copycat ×2 | **XxMoonDevilsAngelsxX**: Crocodile (FR) |
+| 09:10 | **peachieskiwi**: Ride-A-Pet Potion ×2, Rubber Ducky | **Niruch_Bearly**: Pet Handler Pro Certificate |
+| 09:10 | **xpys20**: Dalmatian (R), Zombie Wolf (MFR) | **kitekat_vv**: Evil Unicorn (FR) |
+| 09:10 | **kI_Iaxx**: Aestus (FR) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 09:10 | **strawberry_thea08**: Dragonfly | **Yokiimono**: Retired Egg ×3 |
+| 09:10 | **kourabies31415**: Pig (R) | **Polinamasha123**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×3 |
+| 09:10 | **Lovelyyaraishere**: Sakura Spirit (MFR), Border Collie (NFR), Peppermint Penguin, Cow (R), Goose (FR) | **Kvammletitraketa**: Frost Dragon (FR) |
+| 09:10 | **franz_1365**: Ladybug (MR), Lava Dragon (FR) | **xyza_starsmonica**: Copycat |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
