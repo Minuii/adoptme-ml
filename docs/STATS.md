@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 22:31 UTC by the scrape workflow._
+_Updated 2026-11-15 22:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 22:31 UTC by the scrape workflow._
 | amvgg | 5 | 47,776 | 2026-11-15T22:30 |
 | elve | 5 | 10,463 | 2026-11-15T22:31 |
 
-## AMVGG completed trades: 21,769 total
+## AMVGG completed trades: 21,811 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,625 |
+| 2026-11-15 | 5,667 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 22:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:30 | **IamNot_Eclipse**: Jester Dragon, Ancient Dragon (NF), Catte | **Koshechkina102**: Arctic Fox |
-| 22:30 | **dardaruni**: Unicorn Horn | **deeplishpou**: 2022 Birthday Cake |
-| 22:30 | **candyuser2008**: Peppermint Penguin (FR), Ride-A-Pet Potion | **LoriDreamy123**: Cow (FR) |
-| 22:30 | **Kittyqueen052411**: Arctic Dusk Dragon (FR), Pupcicle | **Dessertsandfoods**: Slime (NR) |
-| 22:30 | **Hsjaialalamabba828**: Latte Kitsune (NFR) | **viltpool**: Copycat, Skunk (MFR), Ride-A-Pet Potion |
-| 22:25 | **ExpertChipmunkPro**: Cow (NFR) | **Trumba95**: Arctic Reindeer (R), Fly-A-Pet Potion |
-| 22:25 | **Maryha0243**: Dingo (MFR) | **AndresPatato**: Ride-A-Pet Potion ×2 |
-| 22:25 | **Max_C0r3**: Siamese Cat (FR), Shark Puppy (R), Panda (F) | **MERCEDESE300COUPE**: Peppermint Penguin (FR) |
-| 22:25 | **Miner_Beast34**: Fly-A-Pet Potion | **Mooheismoo**: Kitty Biscuit ×2 |
-| 22:25 | **anekalubitnaruto**: Ride-A-Pet Potion | **veroNIKA_star016**: Unicorn |
-| 22:25 | **evieebunnii**: Sushi Penguin, Retired Egg | **wi0qwi**: Ride-A-Pet Potion |
-| 22:25 | **D1Yn_Flake**: Candyfloss Chick (FR), Flash Weasel, Ring-Tailed Lemur (FR) | **lolppp0vld**: Goose (FR) |
-| 22:25 | **Delightefull**: Catte, Skelicorn, Bobageist | **batton0955**: Ride-A-Pet Potion |
-| 22:25 | **DuckyMuffinz**: Ride-A-Pet Potion | **Hamigail**: Admin Abuse Egg ×18 |
-| 22:25 | **Orphixia**: Kappakid (MFR) | **Drikah777**: Ride-A-Pet Potion ×5 |
+| 22:40 | **frrisstaill**: Gemstone Egg, Corgi (N), Shiba Inu (N), Retired Egg ×3 | **Foddy_1**: Ride-A-Pet Potion |
+| 22:40 | **Kir4kaaa**: Admin Abuse Egg ×17 | **DuckyMuffinz**: Ride-A-Pet Potion |
+| 22:40 | **foodforlife729**: Blue Cat Ear Headphones, Ranger Beaver, Kaijunior (N), Ghost Wolf (N), Eaten Donut, Pink Butterfly Wings, Orca (N), RGB UFO, Knitted Pumpkin Hat ×2, Snow Cloud Wings, Soulfire Animated Sticker, Boohoo, Grinder Hat, City Hat | **AutoTradeCommission**: Ride-A-Pet Potion ×5 |
+| 22:40 | **EduardaVeilmont**: Ride-A-Pet Potion | **monsterfill3**: Pupcicle |
+| 22:40 | **pupgenderr**: Frost Dragon (FR) ×2, Fairy Bat Dragon (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **jAnebols**: Shadow Dragon (FR) |
+| 22:40 | **princessunipanda76**: Blazing Lion (FR), Spring Bunny Hood | **murid5**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 22:36 | **Cutepatate088**: 2022 Birthday Party Horn, Spring Bunny Hood, Propeller Hat | **izzyxrblx00**: 2022 Birthday Cupcake Shoes |
+| 22:36 | **wistfulspell**: Owl (NFR) | **Baddie_iam**: Arctic Reindeer (MFR), Kangaroo (MFR), Copycat, Jester Dragon, Stray Cat Dragon (M) |
+| 22:36 | **yyt9nf**: Evil Unicorn (FR), Peppermint Penguin (FR), Ride-A-Pet Potion ×3 | **angelamae1587**: African Wild Dog (FR) |
+| 22:36 | **lagnalagi32**: Cow (NFR), Winged Tiger (F), Jester Dragon, Ring-Tailed Lemur (R), Pancake Stack, Dragonfruit Fox, Chihuahua (N) ×2, Ride-A-Pet Potion ×3, Black Panther, Ghost Dog | **lantongzp**: Silverback Gorilla (MFR) |
+| 22:36 | **sofia1303LA**: Flamingo (NFR), Pink Cat (NFR) | **fluffyunicorns_932**: Blue Dog (NFR), Caterpillar, Sugar Glider (FR) |
+| 22:36 | **tzuyuu214**: Chihuahua (MFR), Papa Moose, Polar Bear, Fly-A-Pet Potion | **MERCEDESE300COUPE**: Siamese Cat (FR) |
+| 22:36 | **Anelchik_i**: Fly-A-Pet Potion, Ride-A-Pet Potion | **sebastien_bg2020**: Celebrity Mansion |
+| 22:36 | **karoltherobloxian109**: Admin Abuse Egg ×18 | **dusk_moon23**: Ride-A-Pet Potion |
+| 22:36 | **00099hh1**: Turtle (FR) | **xZetherx**: Arctic Fox (FR), Arctic Fox (R), Fly-A-Pet Potion, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
