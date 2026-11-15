@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 04:10 UTC by the scrape workflow._
+_Updated 2026-11-15 04:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 04:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 28,814 | 2026-11-15T04:00 |
-| elve | 5 | 6,249 | 2026-11-15T04:01 |
+| amvgg | 5 | 29,062 | 2026-11-15T04:15 |
+| elve | 5 | 6,314 | 2026-11-15T04:16 |
 
-## AMVGG completed trades: 16,936 total
+## AMVGG completed trades: 16,957 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 792 |
+| 2026-11-15 | 813 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 04:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:06 | **Not_CupcakeCrystal**: Happy Clam (NFR), Tutu | **alwaysgooddays00**: Candicorn |
-| 04:06 | **L_person21**: Rainbow Maker, Royal Mistletroll (FR), Giant Anteater | **ylyzacanete**: Hedgehog (FR) |
-| 04:06 | **kneesurgeryreminder**: Pupcicle, Ice Cube ×2 | **littyamelia**: Chocolate Dutch Guinea Pig |
-| 04:06 | **UltimateLionMantis**: Chihuahua | **sugarblossomxoxx**: Criosphinx |
-| 04:06 | **Elena_Sih9**: Caramelgeist (N), Little Lamb (N) ×2, White Choccybunny (N), Rubber Ducky (M) | **lantongzp**: Ride-A-Pet Potion |
-| 04:06 | **Xz_CodeOLDriftdLBliz**: Pupcicle (M) | **0o_Cupcake**: Pupcicle ×18 |
-| 04:06 | **Applewoo62**: Rose Dragon (R) | **wavehrt**: Ride-A-Pet Potion ×3 |
-| 04:06 | **Helper_dod**: Pig (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
-| 04:06 | **splashqueen02**: Lynx (MFR), Happy Duckling (M) | **OBVIXALIX**: Ram (MFR) |
-| 04:06 | **Berryavenueslag**: Pupcicle (M), Ride-A-Pet Potion | **NOBIIIEEE11**: 2022 Birthday Party Hat |
-| 04:06 | **hisforeverndalways**: Chocolate Chip Bat Dragon (FR), Candicorn (FR) | **OflineGirlx**: Arctic Reindeer (FR), Copycat, Fly-A-Pet Potion ×2 |
-| 04:06 | **justunujede123**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Alien Eyes Hat | **3mis_alttt**: Spring Bunny Hood |
-| 04:06 | **maruchancute4**: Jacobin Pigeon (M) | **valentinaajuwu**: Chihuahua |
-| 04:06 | **jxst_SinaBaum**: Zombie Wolf | **Strict_Mysteryalt4**: Pupcicle |
-| 04:06 | **MoniquyYa**: Garden Snake (M) | **1_strawberry0**: Ride-A-Pet Potion |
+| 04:15 | **lili95640**: Snowball Pet (N) | **Haru15919**: Pupcicle ×2 |
+| 04:15 | **Ccoopserly**: Dalmatian (FR), Turtle (FR), Sea Turtle (M), Turkey, Ride-A-Pet Potion | **aleks2u**: Turtle (MFR) |
+| 04:15 | **nuggets0162**: Goose (FR), Jellyfish (NR), Fairy Bat Dragon (R), Unicorn (NFR), Ride-A-Pet Potion ×2 | **j2v73r**: Evil Unicorn (FR) |
+| 04:15 | **cwuurz**: Candicorn (FR), Fly-A-Pet Potion | **baby_demonakakj**: Unicorn Horn |
+| 04:15 | **7ckyy**: Pig (FR), Pig (R), Pig, Ride-A-Pet Potion | **Lextus_3**: Cow (R) |
+| 04:15 | **cheeskake13**: Chihuahua (MR) | **Monalin879**: Pupcake (MFR) |
+| 04:15 | **Elizabeth4521a**: Ghost Dog, Endangered Egg ×5, Fairytale Egg ×3, Sheepdog Ducky (M) | **NE0M3T4LS0N1C**: Pupcicle |
+| 04:15 | **Jellybeans_8789**: Candyfloss Chick (FR), Cow (FR), Sugar Glider (FR), Siamese Cat (FR), Sea Slug (R) | **no_name12345654321**: Cryptid |
+| 04:15 | **ShakeRetired**: Skelicorn ×8 | **Dodgemyhooks**: Ride-A-Pet Potion |
+| 04:15 | **Ohanlonciara**: Bald Eagle (NR), Mechapup (R) | **L_person21**: Giant Anteater (NFR) |
+| 04:15 | **0o0Username0o0**: Retired Egg ×6 | **laylayplayzroblox676**: Angus Calf ×3 |
+| 04:15 | **atracttion**: Munchkin Cat (MFR), Toaster Hat, Spring Bunny Hood | **ellielielielieee**: Haetae (FR) |
+| 04:15 | **angeIiwc**: Alpaca (FR), Alpaca (R), Munchkin Cat (NR), Tiny Wings, Cheetah | **flweersaritaa**: Alpaca (NFR) |
+| 04:15 | **wtvlanis**: Rainbow Maker | **kaylamicmi**: Chocolate Dutch Guinea Pig (M), Fairy Bat Dragon (FR), Respectful Mustache ×2 |
+| 04:15 | **Kekemin11**: Pupcicle (N) | **XiuLi1234**: Spring Bunny Hood |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
