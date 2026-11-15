@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 17:55 UTC by the scrape workflow._
+_Updated 2026-11-15 18:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 17:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 42,639 | 2026-11-15T17:45 |
-| elve | 5 | 9,353 | 2026-11-15T17:45 |
+| amvgg | 5 | 42,899 | 2026-11-15T18:00 |
+| elve | 5 | 9,443 | 2026-11-15T18:01 |
 
-## AMVGG completed trades: 20,366 total
+## AMVGG completed trades: 20,368 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,222 |
+| 2026-11-15 | 4,224 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,8 @@ _Updated 2026-11-15 17:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 18:00 | **d0nkeysilly944**: 2025 Birthday Butterfly (M) | **Adoptmestocks3000**: Ride-A-Pet Potion |
+| 18:00 | **likeer76890**: Frost Unicorn (R) | **Adoptmestocks3000**: Werewolf (FR) |
 | 17:55 | **denjisguilt**: Munchkin Cat (MFR) | **dammam_1234**: Lion Cub (MFR) |
 | 17:55 | **nskwlp0**: Goat (R) | **Artem4ik000731**: Chinese Lantern |
 | 17:55 | **harsheydagoat**: Goose (MFR), Sakura Spirit (MFR) | **copyvoting**: Giraffe (FR) |
@@ -43,8 +45,6 @@ _Updated 2026-11-15 17:55 UTC by the scrape workflow._
 | 17:55 | **ohbeesitee**: Boohoo (M), Count Slothula ×2 | **jiio111**: Dire Wolf (M), Ride-A-Pet Potion, RGB Monster Truck |
 | 17:55 | **Hecksyah221**: Siamese Cat (R), Glormy Hound (FR) | **ElimonZa**: Owlbear (NFR) |
 | 17:55 | **AdoptMeHere03**: Fly-A-Pet Potion ×18 | **PixiePawsTrade**: Blue Egg |
-| 17:55 | **TMDung20**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **Foradopmetrades**: Frost Dragon (FR) |
-| 17:55 | **Riikka_Takanashiii**: Pet Handler Pro Certificate | **WhinyBuny**: Chameleon (NR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
