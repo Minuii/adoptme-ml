@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 20:40 UTC by the scrape workflow._
+_Updated 2026-11-15 20:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 20:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 45,599 | 2026-11-15T20:30 |
-| elve | 5 | 10,034 | 2026-11-15T20:31 |
+| amvgg | 5 | 45,868 | 2026-11-15T20:45 |
+| elve | 5 | 10,054 | 2026-11-15T20:45 |
 
-## AMVGG completed trades: 21,309 total
+## AMVGG completed trades: 21,318 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,165 |
+| 2026-11-15 | 5,174 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 20:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:45 | **N0ugatt**: Cow (NFR) ×2 | **botoxedbody**: Hot Doggo (FR), Peppermint Penguin (R), Peppermint Penguin, Frost Fury (FR), Arctic Fox, Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3, Violet Butterfly (FR), Toaster Hat, Goat |
+| 20:45 | **OBV1MXCIE**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **teddycutie7**: Count Slothula (N), Admin Abuse Egg |
+| 20:45 | **Cutesyemi_7**: Flaming Fox | **UitrorRen97**: Pink Heart Glasses |
+| 20:45 | **Elwanizk**: Unicorn | **His4lif3xx**: Pupcicle |
+| 20:45 | **Gooblin_trool**: Ghost Dog (R) | **6evesvokhaha**: Ride-A-Pet Potion |
+| 20:45 | **berrys_kittys**: Pudding Cat, DJ Snooze, Water Moon Bear ×2 | **His4lif3xx**: Ride-A-Pet Potion |
+| 20:45 | **Cherridoll76**: Sakura Spirit (MFR) | **AliceCZnoob**: Mini Pig (NFR) |
+| 20:45 | **dinadu135**: Dalmatian (FR), Siamese Cat (FR), Fairy Bat Dragon (FR) | **juandiego25251**: Siamese Cat (MFR) |
+| 20:45 | **Cinzsins**: Goat (MFR) | **Trop1cxlMe1on**: Chocolate Dutch Guinea Pig (M), Sugar Glider (R), Royal Corgi (MR), 2022 Birthday Party Hat, Happy Duckling (MFR) |
 | 20:40 | **Floppybunny_4662**: Strawberry Shortcake Bat Dragon (FR), Christmas Pudding Pup (NFR), Pupcicle (N), Snow Leopard (M), Maine Coon (M), Mrs. Whiskerpips (M), Strawberry Shortcake Ducky (N), Cotton Candy Hat, Lynx, Strawberry Shortcake Bow, Strawberry Clip ×2, Japanese Snow Fairy (M), Glamicorn Purse Pet, Heart Bow, Shark Swimcap, Bear Hood, Heart Lock Necklace | **UNA_PERSONAmm2**: Munchkin Cat (MFR) |
 | 20:40 | **iammaggietoo**: Pangolin (M), Pomeranian (N), Horse (FR), Black-Footed Ferret (N), Diamond Dragon, Cherub Chipmunk (N), Black Rhino (N) ×2 | **Darmay_y**: Ride-A-Pet Potion ×2 |
 | 20:40 | **footerch**: Jimothy | **123impopin**: Alicorn |
 | 20:40 | **jaysstockk5**: Munchkin Cat (MFR), Arctic Dusk Dragon, Golden Lettuce, Vol. 2 Pets Plus Sticker Pack ×2 | **Cinzsins**: Cow (FR), Turtle (R) ×2, Turtle (FR) |
 | 20:40 | **Adoptmestocks3000**: Ride-A-Pet Potion | **murdermystery2695**: Thinking Hat |
 | 20:40 | **cvrshedbones**: Arctic Fox (NFR), Polar Bear (NFR), Pet Handler Pro Certificate | **ViperOfTheUnderworld**: Shark Puppy (NFR) |
-| 20:36 | **mxrgan66**: Ride-A-Pet Potion ×2 | **nyavisala**: Ash Zebra, Raccoon, Cute-A-Cabra, Canadian Goose, Blue Ringed Octopus, Kappakid, Love Bird |
-| 20:36 | **melted_crayola**: Jellyfish (MFR), Arctic Reindeer (FR), Ride-A-Pet Potion ×2 | **xx_sunny2003**: Border Collie (MFR) |
-| 20:36 | **MckDull**: Strawberry Penguin (R) | **podashka77**: Ride-A-Pet Potion ×6 |
-| 20:36 | **love4shajeriaa**: Chocolate Dutch Guinea Pig (MFR) | **qlltm**: 2022 Birthday Confetti Cannon ×2 |
-| 20:36 | **Adoptmestocks3000**: Ride-A-Pet Potion | **itsvaleriaotz**: Bauble Buddies ×2 |
-| 20:36 | **Milk_147017**: Pig (NFR), Seahorse (MR), Water Opossum (M) | **lolppp0vld**: Frostbite Bear (FR) |
-| 20:36 | **no_name12345654321**: Cow (FR), Sugar Glider (FR), Siamese Cat (FR), Candyfloss Chick (FR), Border Collie, Bunny Swirl (MFR), Arctic Fox (R), Sushi Penguin | **Honeymochi_oo**: African Wild Dog |
-| 20:36 | **natedgreatGotBanned**: Winged Tiger (MFR) | **kaibodydump**: Cryptid (R), Haetae (FR) |
-| 20:36 | **sonyalove643**: Irish Water Spaniel (R), Snow Owl (NR), Lava Dragon (FR), Chocolate Dutch Guinea Pig (R), Ride-A-Pet Potion ×5, Axolotl (FR), Poodle (MR), Jacobin Pigeon (M), Rice Cake Rabbit | **Snip3rjkPrismAkZ3ro1**: Turtle (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
