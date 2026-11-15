@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 00:16 UTC by the scrape workflow._
+_Updated 2026-11-15 00:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 00:16 UTC by the scrape workflow._
 | amvgg | 5 | 24,892 | 2026-11-15T00:15 |
 | elve | 5 | 5,486 | 2026-11-15T00:16 |
 
-## AMVGG completed trades: 16,210 total
+## AMVGG completed trades: 16,220 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 66 |
+| 2026-11-15 | 76 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 00:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:20 | **shawn_ayii**: Dango Penguins (MFR) ×18 | **MarcusTradesAMVGG**: Puffin (MFR), Frost Phoenix (MFR) ×2, Tree Kangaroo (MFR), Ballet Swan (MR), Flaming Fox (MFR), Goose (FR), Hot Doggo (R), Orchid Butterfly (R), Cryptid, Royal Mistletroll, Rainbow Maker, Phoenix (MFR), Turtle (FR), Candicorn (FR), Candicorn (MFR), Cupid Dragon (MFR) |
+| 00:20 | **guiderno1234**: Tuxedo Cat (MFR) | **NathanPlayz83**: Sushi Penguin (MFR) |
+| 00:20 | **shawn_ayii**: Dog (MFR) ×9 | **MarcusTradesAMVGG**: Haetyphoon (M) |
+| 00:20 | **uh_Rojo**: Goose (R) | **Maxadoptme77**: Cerberus (MFR) |
+| 00:20 | **vnessiia**: Ride-A-Pet Potion | **jellofox2009**: Paint Sealer ×13 |
+| 00:20 | **MecFoxCZ**: Shark Puppy (FR) | **MistletoeMeg**: Dragonfruit Fox (NFR) |
+| 00:20 | **xWobbers**: Pupcicle ×2 | **caxap_rumi**: Pet Handler Pro Certificate |
+| 00:20 | **VivaraGrandeeh**: Mummy Spider (N) | **Kir4kaaa**: Rabbit ×3 |
+| 00:20 | **Cherridoll76**: Shrew (NFR) | **nraleci**: Werewolf (FR) |
+| 00:20 | **Nekotin_666**: Ride-A-Pet Potion, Kiwi Kiwi, Diamond Unicorn | **Nutty_1352**: Pupcicle ×2 |
 | 00:15 | **reii_1723**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **Ritzu_CX**: Unicorn (N), Horse |
 | 00:15 | **glontincap_1009**: Owl (NFR), Copycat (MFR) | **1dayto100dayrich09**: Pelican (MFR), Balloon Unicorn (FR), Goose (FR) |
 | 00:15 | **nickknackks**: Balloon Unicorn (R), Alpaca (NFR), Arctic Reindeer (FR) ×2, Goat (NR), Cabbit (R) | **kr74289**: Mini Pig (MFR) |
 | 00:15 | **XGiveMeUrFoodX**: Jester Dragon (FR), Frostbite Bear (FR), Arctic Dusk Dragon (R), Dancing Dragon (R), Copycat, Albino Monkey, Strawberry Penguin (FR) | **Randomiix_3**: Arctic Reindeer (FR) |
 | 00:15 | **No_R3gretz**: Arctic Fox (MFR) ×2 | **Randomiix_3**: Parrot (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion |
-| 00:15 | **scrossgirl**: Peppermint Penguin (NR), Christmas Pudding Pup (MFR), Alpaca (NFR), Jousting Horse (MFR), Christmas Pudding Pup (NFR), Cake Friend (M) | **Kiandra13kiandra**: Peppermint Penguin (MFR) |
-| 00:15 | **Ca4uccino**: Ride-A-Pet Potion, Fly-A-Pet Potion | **1ovIIy**: Bakeneko (MFR) |
-| 00:15 | **Tryingtogetafrican**: Ride-A-Pet Potion | **PizzaFoxyyyy1**: Koi Carp (R), Sasquatch (R) |
-| 00:15 | **Afkfor_S**: Pupcicle (N) | **Nutty_1352**: Peachick (M) |
-| 00:15 | **croloveerr**: Retired Egg ×2 | **Flowgirmagic**: Beluga Whale |
-| 00:15 | **pixiedooo**: Arctic Reindeer (FR), Cow (FR), Copycat (FR), Sugar Glider (FR), Fly-A-Pet Potion | **lolcryabtit6767**: Blazing Lion (FR) |
-| 00:15 | **jilucie2010**: Admin Abuse Egg ×6, Retired Egg ×3 | **evaesenina**: Stygian Hang Glider |
-| 00:15 | **Urfavorite1225**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **narahferjute**: Unicorn (NFR) |
-| 00:15 | **bchsluvsosaaa**: Turtle, Arctic Fox (R), Ride-A-Pet Potion | **KATYA_1449**: Fairy Bat Dragon (FR) |
-| 00:15 | **don5556**: Pelican (MFR), Parrot (NFR), Arctic Reindeer (FR), Fly-A-Pet Potion ×2 | **FIorynss**: Parrot (MFR) |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
