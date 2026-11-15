@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 00:55 UTC by the scrape workflow._
+_Updated 2026-11-15 01:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 00:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 25,474 | 2026-11-15T00:45 |
-| elve | 5 | 5,595 | 2026-11-15T00:45 |
+| amvgg | 5 | 25,752 | 2026-11-15T01:00 |
+| elve | 5 | 5,648 | 2026-11-15T01:01 |
 
-## AMVGG completed trades: 16,338 total
+## AMVGG completed trades: 16,344 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 194 |
+| 2026-11-15 | 200 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,12 @@ _Updated 2026-11-15 00:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:00 | **JasonTheDemon_lol**: S'mores Raccoon (N), Castle Hermit Crab (N), Cow Calf (N), Longhorn Cow (N), Skunk (N), Peregrine Falcon (N), Trapdoor Snail (N), Ornate Horned Frog (N), Roadrunner (N), Indian Leopard (N), Ringmaster Gibbon (N), Officer Gibbon (N), Mecha R4BBIT (N), Lammergeier (N), Firefighter Gibbon (N), Quetzalcoatl (N), Manta Ray (N), Ice Cube (N) | **LunaLuve_Good**: Kangaroo (R) |
+| 01:00 | **LunaLuve_Good**: Shrew | **maddiea1982**: Goth Shoes, Bready Necklace |
+| 01:00 | **genesisgameryt504**: Strawberry Tortle | **bob4_boy**: Pupcicle (MFR) |
+| 01:00 | **Deezpois**: Balloon Unicorn (FR), Spring Bunny Nose | **Donutser2**: Mini Pig (R), Goose (FR), Mermicorn (R), Unicorn Horn, Chocolate Dutch Guinea Pig (M) |
+| 01:00 | **ponkio135**: Haetae (R) | **kroko182**: Hare (MFR), Harp Seal (MFR), Happy Duckling (MFR), Ninja Monkey (M) |
+| 01:00 | **pookiebare08**: Glyptodon Ducky (N), Pomeranian, Dingo, Persian Cat | **Sniper_warrior18**: Onza (N) |
 | 00:55 | **frogan55**: Frostbite Bear ×6, Merry Mistletroll (MR) | **Chirithy1377**: Giant Panda (FR) |
 | 00:55 | **higuysitskobe**: Strawberry Tortle (NR), Fly-A-Pet Potion ×2 | **nerdoitdabest**: Hedgehog, Cow (R), Jester Dragon (R) ×2 |
 | 00:55 | **Onlyforujk**: Jester Dragon ×2, Ballet Swan, 2022 Birthday Cupcake Shoes | **1vkx3**: Haetyphoon (R), Haetyphoon |
@@ -39,12 +45,6 @@ _Updated 2026-11-15 00:55 UTC by the scrape workflow._
 | 00:55 | **QueenNeverCry1213**: Pupcicle (N) | **sleepy_s0ren**: Spring Bunny Hood |
 | 00:55 | **Triftxyy**: Fly-A-Pet Potion ×17 | **is_Hector**: Cow (FR) |
 | 00:55 | **vcloss**: Fly-A-Pet Potion, Ride-A-Pet Potion | **sshanao_o**: Dark Choccybunny (M) |
-| 00:55 | **pwaranoiia**: Ride-A-Pet Potion ×2 | **Unknown530_0**: Pet Handler Pro Certificate |
-| 00:55 | **Triftxyy**: Owl (FR), Cryptid (FR), Frost Unicorn (MFR), Cow (FR) | **laceddbowss**: Shadow Dragon (FR) |
-| 00:55 | **qwelxzz**: Ride-A-Pet Potion, Crocodile (R), Magic House Door, Electric Hornet (N) | **johnpatricktasunci16**: Tortoiseshell Guinea Pig (R) |
-| 00:55 | **Lau_oh**: Vanilla Penguin (NR), Capricorn (NFR), Ghostly Cat (MR), Great Pyrenees (NFR), Possum (MFR), Spring Bunny Hood, Spring Bunny Nose, Spring Bunny Feet, Puffin | **Whatthe_John6767**: Mini Pig (FR) |
-| 00:55 | **ayka_aylin29**: Cabbit (FR), Candyfloss Chick (FR), Shark Puppy (FR), Ride-A-Pet Potion ×2 | **mommy_vka123**: Strawberry Shortcake Bat Dragon (FR) |
-| 00:55 | **Hamigail**: Pet Handler Pro Certificate | **katccafe**: Thinking Hat ×2 |
 
 ## Elvebredd value changes: 61,797 since 2023-09-16
 
