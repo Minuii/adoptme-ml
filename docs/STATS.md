@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 04:25 UTC by the scrape workflow._
+_Updated 2026-11-15 04:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 04:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 29,062 | 2026-11-15T04:15 |
-| elve | 5 | 6,314 | 2026-11-15T04:16 |
+| amvgg | 5 | 29,299 | 2026-11-15T04:30 |
+| elve | 5 | 6,375 | 2026-11-15T04:31 |
 
-## AMVGG completed trades: 16,987 total
+## AMVGG completed trades: 17,024 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 843 |
+| 2026-11-15 | 880 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 04:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:25 | **MoniquyYa**: Island Tarsier (M) | **NE0M3T4LS0N1C**: Ride-A-Pet Potion |
-| 04:25 | **CampHalfBloodCabin_6**: Pupcicle | **iixSkullsii**: Maine Coon (N) |
-| 04:25 | **laylaangel1309**: Alpaca (R) | **Yupiterd**: Fly-A-Pet Potion ×10 |
-| 04:25 | **p1nkunicornsparkles1**: Siamese Cat (MFR), Munchkin Cat (MFR) | **kaibodydump**: Cryptid (NFR) |
-| 04:25 | **kuraicoco**: Sloth (R), Ancient Dragon, Orca, Ride-A-Pet Potion | **ClxudsandRxin**: Solaris |
-| 04:25 | **Munchkinswirlll**: Pupcicle | **Mica6g3**: Ride-A-Pet Potion |
-| 04:25 | **eshkere_BPOOOO**: Midnight Dragon (R) | **Denise_Gsecond**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
-| 04:25 | **Xxgasheta_kawaiixX**: African Wild Dog (FR), Copycat (NFR), Frost Unicorn (FR) | **sweetn6thing**: Parrot (FR) |
-| 04:25 | **itskayeeee**: Aurora Fox | **ItssMeBrookie**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×3 |
-| 04:25 | **omlisage_amvgg**: Bat Dragon (FR) | **atracttion**: Owl (FR), Border Collie (MFR) ×2, African Wild Dog (FR), Cow (NFR), Fallow Deer (NFR) |
-| 04:25 | **Michae_demiurgos**: Goose | **jeni_jen02**: Corn Doggo (MFR) |
-| 04:25 | **slothfan9997**: Unicorn Horn, Bunny Swirl (M) | **jeni_jen02**: Goat (NFR) |
-| 04:25 | **arturo7pose12345**: Chihuahua | **Mar_2os**: Highland Cow |
-| 04:21 | **NummieNummiegirl**: Cow (FR) ×5, Zombie Buffalo | **Berryavenueslag**: Balloon Unicorn (FR), Cabbit (R) |
-| 04:21 | **Scar_3090**: Polar Bear (MFR) | **ii_AxrxnX**: Moose Calf (MFR) |
+| 04:30 | **FlyToTheSaturn**: Halloween White Mummy Cat, Ghost Wolf, Emu ×4, Dilophosaurus, Australian Kelpie ×3, Dingo ×4, Triceratops ×3, Bandicoot | **Vexvzr**: Fly-A-Pet Potion |
+| 04:30 | **Haivannyhere**: Werewolf (FR) | **pookie1917**: French Bulldog (MFR), Ride-A-Pet Potion |
+| 04:30 | **themudwizard**: Kangaroo (FR), Kangaroo (R) ×2, Sakura Spirit, Ride-A-Pet Potion | **rianasfanboy**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:30 | **wjredmind**: Hero Gibbon, Platypus, Fly-A-Pet Potion, Castle Hermit Crab (N) ×2, Gecko (N) ×2, Wood Pigeon ×3, Shadow Dragon Ducky (N) ×3, Choco Penguin (N), Choco Penguin (NR), Copycat, Harp Seal, Silly Duck | **booluqx**: Undead Jousting Horse (FR) |
+| 04:30 | **Robloxianr5w0v2u2i**: Pet Handler Pro Certificate | **Riikka_Takanashiii**: Hippo ×2, Violet Friend, Pudding Cat |
+| 04:30 | **suzy072211**: Jester Dragon, Ride-A-Pet Potion | **celexkhifyt**: Copycat |
+| 04:30 | **Bubbiduu**: Ride-A-Pet Potion | **hunterwarrior0558**: Pain au Chat ×2 |
+| 04:30 | **Alisjdfhh**: Cherry-On-Top | **Edwinisme4th**: Copycat (N) |
+| 04:30 | **angelicpretti**: Alley Cat (MFR), Cow (FR) | **sweetn6thing**: Owlbear (MFR) |
+| 04:30 | **sIeepymimi**: Pupcicle ×4 | **cbmelissa**: Spring Bunny Hood |
+| 04:30 | **angelicpretti**: Balloon Unicorn (NFR) | **auroraluvqs**: Siamese Cat (MFR), Munchkin Cat (MFR), Alley Cat (MFR) ×2, Candicorn (MFR), Ermine (MR) |
+| 04:30 | **N0ugatt**: Kangaroo (R) | **iangallagher_s1**: Christmas Pudding Pup, Caelum Cervi, Brown Bear, Unicorn Backpack |
+| 04:30 | **kirat292**: Fly-A-Pet Potion ×3 | **aquxsz**: Skelicorn (MFR) |
+| 04:30 | **FlyToTheSaturn**: Dingo ×4, Cute-A-Cabra, Crab ×2, Bat ×3, Woolly Mammoth, Seahorse, Pterodactyl ×3, Narwhal, Monkey ×2 | **BABYCRAC120**: Fly-A-Pet Potion |
+| 04:30 | **minismudgepanda**: Cow (R), Toasty Red Panda (N), Water Rabbit | **Puka7366**: Hot Doggo |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
