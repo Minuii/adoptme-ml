@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 22:01 UTC by the scrape workflow._
+_Updated 2026-11-15 22:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 22:01 UTC by the scrape workflow._
 | amvgg | 5 | 47,226 | 2026-11-15T22:00 |
 | elve | 5 | 10,338 | 2026-11-15T22:01 |
 
-## AMVGG completed trades: 21,657 total
+## AMVGG completed trades: 21,711 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,513 |
+| 2026-11-15 | 5,567 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 22:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:00 | **7hualian**: Fallow Deer (NFR) | **Eugenia873**: Pain au Chat (M), Pupcicle (N) |
-| 22:00 | **ApexPrime09**: Sushi Penguin (MFR), Ride-A-Pet Potion | **JxsYBe**: Turtle (FR) |
-| 22:00 | **AmberCrystalPlayz**: Flying Fairy ×4, Stray Cat Dragon ×4 | **Mmaxii16**: Ride-A-Pet Potion |
-| 22:00 | **js_elizz**: Violet Butterfly (N), Goth Shoes, Chocolate Dutch Guinea Pig | **Maddsums**: Bunny Swirl (MFR) |
-| 22:00 | **Elf_Deme**: Copycat, Koala (N), Dango Penguins | **Soobin_c4kes**: Tiny Wings |
-| 22:00 | **rotpargamer**: Great Pyrenees (MFR), Pupcicle (N) | **MelyGamerYT00**: Munchkin Cat (FR), Goldhorn (NFR), Koala (R), Pupcicle, Hamster, Skelicorn ×3, Samoyed (N), 2D Kitty, Diamond Dragon, Retired Egg ×2, Admin Abuse Egg ×5 |
-| 22:00 | **usuario_0414**: Fly-A-Pet Potion | **its_Any60**: Mecha R4BBIT (N), Red Panda Ducky (N) |
-| 22:00 | **tokyogvx**: Chihuahua ×4 | **aff6ctionnn**: Ride-A-Pet Potion ×2 |
-| 22:00 | **yogurt13162**: Cow (FR), Frost Fury (FR) | **mimiol400**: Mini Pig (FR) |
-| 22:00 | **Ruben87Yt1**: Haetyphoon | **Antolaly**: Jester Dragon, Spring Bunny Hood, Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
-| 22:00 | **xRoseyii**: Sushi Penguin, Blue Whale | **erditiri03**: Ride-A-Pet Potion |
-| 22:00 | **Marina83899545**: Harp Seal | **erditiri03**: Ride-A-Pet Potion |
-| 22:00 | **Manekie_Nekoo**: Zombie Buffalo | **1weektoeviluni0**: Ride-A-Pet Potion ×5 |
-| 22:00 | **natsskq**: Frost Fury (R), Crocodile (FR) | **R4kert**: Kangaroo (FR) |
-| 22:00 | **dxllyluvs2**: Goose (NFR) | **fksdkeoakam**: Halo, Unicorn Horn ×2, Toaster Hat |
+| 22:10 | **goddess_godcatreal**: Chocolate Chip Bat Dragon (MFR), Giant Anteater | **nickknackks**: Goose (MFR), Strawberry Shortcake Bat Dragon (NFR), Mini Pig (FR), Rain Cloud Hat |
+| 22:10 | **0ABX7**: Hot Doggo (NFR), Kitty Bat (MR) | **p9ssessed**: Goat (MFR) |
+| 22:10 | **MEMESHKAILBRINX**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Purrowl (NFR), French Bulldog (R) | **sakunary_1328**: Munchkin Cat |
+| 22:10 | **Lili58320**: Dracula Parrot (N) | **xilawn2023**: Ride-A-Pet Potion |
+| 22:10 | **Mukomi1888**: Persian Cat | **kxtenshi**: Retired Egg ×5 |
+| 22:10 | **1Mesel1**: Ride-A-Pet Potion | **matteo57th**: Mighty Haetyphoon Animated Sticker |
+| 22:10 | **Austin072982**: Pet Handler Pro Certificate | **ihitmyheadonwalls2**: Moose Calf |
+| 22:10 | **LeaNavarro98**: Mule (MFR), Chocolate Dutch Guinea Pig (NR), Husky | **Eceuni**: 2022 Birthday Party Hat, 2022 Birthday Party Horn |
+| 22:10 | **princess_pizzanice**: Cow (R), Turtle (R), Dragonfruit Fox (NR), Spring Bunny Hood, Pig (R) ×2, Frost Fury (FR) ×2, Frost Fury (R), Ice Cream Cone Hat, Kitty Biscuit | **T3bas1**: Cryptid (FR) |
+| 22:10 | **wekwew70**: Goose (NFR), Arctic Fox (FR), Fly-A-Pet Potion | **famousgirlofall**: Evil Unicorn (FR) |
+| 22:10 | **twixyetwix**: Ride-A-Pet Potion | **hefeltsafe**: Crystal Egg ×17 |
+| 22:10 | **UniversePaladin**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Slime ×2, Chocolate Dutch Guinea Pig, Pupcicle, Count Slothula ×11 | **Shehatesme420**: Kangaroo (FR) |
+| 22:10 | **holixd489632**: Irish Water Spaniel (R) | **q_culvs**: Honey Badger (R) |
+| 22:10 | **minismudgepanda**: Bluebottle Fly (M), Chihuahua | **Cutsy_BunnyXD**: Chocolate Dutch Guinea Pig |
+| 22:10 | **Fabigenialol**: Frostbite Bear ×2, Flamingo (FR) | **444loststar**: Candyfloss Chick (NFR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
