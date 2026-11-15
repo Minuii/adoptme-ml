@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 05:40 UTC by the scrape workflow._
+_Updated 2026-11-15 05:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 05:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 30,234 | 2026-11-15T05:30 |
-| elve | 5 | 6,618 | 2026-11-15T05:31 |
+| amvgg | 5 | 30,481 | 2026-11-15T05:45 |
+| elve | 5 | 6,640 | 2026-11-15T05:45 |
 
-## AMVGG completed trades: 17,207 total
+## AMVGG completed trades: 17,234 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,063 |
+| 2026-11-15 | 1,090 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 05:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:40 | **jasminesep16**: Bat Dragon (FR) | **amauryleao04trades**: Shrew (MFR), Ring-Tailed Lemur (MFR), Munchkin Cat (MFR), Irish Water Spaniel (MFR), Flaming Fox (MFR), Owlbear (MFR), Honey Badger (MFR), Ballet Swan (MFR), Dragonfruit Fox (MFR), Dango Penguins (MFR), Unicorn Horn, Candyfloss Chick (FR), Choco Penguin (MFR) |
-| 05:40 | **YOKOZ303**: Ice Cube (R), Purrowl (N) | **Kaka_wkalol**: Ride-A-Pet Potion |
-| 05:40 | **rexy_7830**: Rainbow Maker | **Harper_Claw123**: Strawberry Shortcake Bat Dragon (FR) |
-| 05:40 | **chickhobo88**: Thunderfisher (M) ×12, Shadow Wings | **Fbrleey**: Flash Weasel (R) |
-| 05:40 | **annxcheese**: Pupcicle ×2 | **glittermarga**: Dango Penguins |
-| 05:40 | **honeydew_pancakes101**: Fly-A-Pet Potion | **xgx6702**: Pupcicle ×2 |
-| 05:40 | **slf_dstruct**: S'mores Raccoon (N), Bubblegeist (N) | **Thebossoflaughter**: Spring Bunny Hood |
-| 05:40 | **murashra**: Ride-A-Pet Potion | **nikkidapandagirl133**: Pupcicle |
-| 05:40 | **D1Yn_Flake**: Shadow Dragon Ducky (NFR), Blue Jay (MR) | **Adore_Pandaz**: Ring-Tailed Lemur (FR) |
-| 05:40 | **anni_Dragin**: Owl (R) | **pokoy_pokoy**: Border Collie (MFR) |
-| 05:40 | **Power27red**: Pupcicle | **Adore_Pandaz**: Unicorn |
-| 05:40 | **Urfavorite1225**: Unicorn (NFR), Copycat (R) | **Sforsskyz**: Dango Penguins (NFR) |
-| 05:40 | **FlyToTheSaturn**: Wolpertinger ×3, Walrus, Stingray ×3, Tasmanian Tiger ×4, Ground Sloth ×4, Bandicoot ×3 | **melynagamer3**: Ride-A-Pet Potion |
-| 05:40 | **Fan_deJennaO**: Velocirooster | **unicornpower140909**: Ride-A-Pet Potion ×4 |
-| 05:40 | **tilouqc**: Copycat (NFR), Tuxedo Cat, Zombie Wolf, 2D Doggy, Icey Aura, Peahen | **ghljg7**: Cow (FR) |
+| 05:45 | **Sadochok_456**: Ranger Beaver (NR), Halloween Evil Dachshund (R), Count Slothula, Toucan (N), Chameleon, Jacobin Pigeon (M) | **icequeenmaemae**: Frost Fury (FR) |
+| 05:45 | **Yumi_Rose8**: Pet Handler Pro Certificate ×2 | **Foodie_Caat**: Lava Dragon (FR) |
+| 05:45 | **Inphluens**: Ride-A-Pet Potion ×2 | **serspect**: Candy Hare, Golden Hummingbird |
+| 05:45 | **Rikkjkj**: Tiny Wings, Vampire Dragon (FR) | **cher_namagandaa**: Haetyphoon (FR) |
+| 05:45 | **AndresPatato**: Ride-A-Pet Potion ×3 | **FlyToTheSaturn**: Millionaire Mansion |
+| 05:45 | **Foodie_Caat**: Ride-A-Pet Potion ×5, Platypus, Pet Handler Pro Certificate ×2, Sneak Weasel (M) | **Elwena_xX**: Great Pyrenees (MR) |
+| 05:45 | **qpicni**: Chocolate Chip Bat Dragon (MFR), Rain Cloud Hat ×2, 2022 Birthday Cake, Unicorn Horn ×2 | **lina200r**: Chocolate Chip Bat Dragon (FR) ×6, Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (NFR) |
+| 05:45 | **cherry_blast2**: Ride-A-Pet Potion | **Brooklyn_Ohio**: Black Panther |
+| 05:45 | **dwyames**: Husky | **wjsjdgbdjdjf**: Fly-A-Pet Potion |
+| 05:45 | **its_yukari0**: Jeff's Nametag | **Daisie117**: Harp Seal |
+| 05:45 | **Secret_Secretov321**: Ride-A-Pet Potion, Parakeet (M) | **camiilita_7w7**: Celebrity Mansion |
+| 05:45 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Rabbit (M) | **julyis456**: Fly-A-Pet Potion |
+| 05:45 | **Tree092109**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **XxITzAli_xX**: Blue Dog (FR) |
+| 05:45 | **SpaghettiBolognese_w**: Ride-A-Pet Potion ×2 | **Esmeralda_318**: Fly-A-Pet Potion |
+| 05:45 | **Rosalita4850**: Princess Mare ×4, Ribbon Seal (NR), Jacobin Pigeon ×5, Sheepdog Ducky ×5, Pink Dog (N), Blue Cat (N), Undead Elk | **Secret_Secretov321**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
