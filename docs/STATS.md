@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 18:16 UTC by the scrape workflow._
+_Updated 2026-11-15 18:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 18:16 UTC by the scrape workflow._
 | amvgg | 5 | 43,168 | 2026-11-15T18:15 |
 | elve | 5 | 9,495 | 2026-11-15T18:16 |
 
-## AMVGG completed trades: 20,507 total
+## AMVGG completed trades: 20,536 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,363 |
+| 2026-11-15 | 4,392 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 18:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:15 | **m3rinaandthediamonds**: Cattuccino (N) | **littlefelonies**: Corgi ×11 |
-| 18:15 | **blankafruzsina**: Cow (FR) | **asia2023k**: Copycat ×5 |
-| 18:15 | **Isaticas**: Ride-A-Pet Potion, Admin Abuse Egg ×6 | **uuukabzhxj78**: Chocolate Dutch Guinea Pig |
-| 18:15 | **Yelyzaveta_125**: Christmas Pudding House | **Eeveegamer112009**: Poison Dart Frog |
-| 18:15 | **AlciaKociacia**: Dragonfruit Fox (MFR), Dango Penguins (MFR), Candicorn (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **pinky_96702**: Cryptid (FR) |
-| 18:15 | **lildaminii**: Copycat | **Wint3rPawz**: Pupcicle ×6 |
-| 18:15 | **niceplayeruwu**: Pet Handler Pro Certificate ×2 | **DASHA0099414**: Pupcicle (N) |
-| 18:15 | **hugsformy_sisfinjaa**: Retired Egg ×18 | **lol_662720**: Angus Bull (N) |
-| 18:15 | **booluqx**: French Bulldog (MR) | **thesuperkid0**: Fly-A-Pet Potion, Pet Handler Pro Certificate ×3, Ghost Bunny (FR), Zombie Wolf, Blue Ringed Octopus (R), Great Pyrenees, Happy Duckling, Pilot Gull (M), Firefighter Gibbon (N), Gingerbread Mouse (N), Strawberry Shortcake Ducky, Peahen, Toy Monkey, Angus Cow (NR), Stygian Owl (M), Chihuahua (R) |
-| 18:15 | **donnotinteract**: Pupcicle (NFR), Shark Puppy (FR), Fly-A-Pet Potion | **Lilith_LuvsYou**: Moon Rabbit (MFR), Spring Bunny Hood |
-| 18:15 | **kuzya987656**: Gemstone Egg, King Bee (R) | **uuukabzhxj78**: Ride-A-Pet Potion |
-| 18:15 | **akzoad**: Parrot (FR) | **xXNarynaryXx**: Strawberry Shortcake Bat Dragon (FR), Crocodile (NFR), Fairy Bat Dragon (FR), Cerberus (NFR), Frog (MFR), Australian Kelpie (MFR), Unicorn (NFR), Aussie Egg, Ratatoskr (MR), Ribbon Seal (MFR), Unicorn, Space Whale (NR) |
-| 18:15 | **papavhylohkax**: Owl (FR), Munchkin Cat | **M7XX2007**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Hedgehog (FR) |
-| 18:15 | **Tr4ading_T3ss**: Jumpscare (M), Jacobin Pigeon (M) | **Sona_tnm**: Magma Moose (N) |
-| 18:15 | **Kinley311yy**: Harp Seal (NR) | **sxndy_vybz**: Goat (R) |
+| 18:21 | **Gglrd0**: Copycat (MFR) ×4, Copycat (NFR) ×3, Owl (FR) | **Artisticzsilver**: Giraffe (NFR) |
+| 18:21 | **Arieonalt67**: Field Mouse (MFR), Black Springer Spaniel (MR), Koala (MFR) | **13kdiino**: Jellyfish (MFR) |
+| 18:21 | **w4nd3ringG0d**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5, Pro Ghost Blaster ×2 | **Giulia_SatoruPs4**: Arctic Fox (R) |
+| 18:21 | **matteo57th**: Alicorn ×2, Ancient Dragon ×2 | **itz_Dizz01**: Angelfish (N) |
+| 18:21 | **bbhe009**: Ride-A-Pet Potion, Halloween White Skeleton Dog | **uuukabzhxj78**: Dire Wolf, Chihuahua, Kiwi Kiwi |
+| 18:21 | **glotznd_1324**: Robot, Mummy Spider | **muku_nuku3**: Clumpty ×3 |
+| 18:21 | **no_anniaomg**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Kangaroo (NFR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **lina200r**: African Wild Dog (FR) |
+| 18:21 | **adoptcatdogfox2**: Snowball Pug, Skelicorn ×2, Onza (N), Thunderfisher, Brachiosaurus (N), Rubber Ducky (N) | **kajaterezka**: Ride-A-Pet Potion |
+| 18:21 | **s0larzxxxx**: Puffer Fish (MFR), Fly-A-Pet Potion | **Tal_Kazman**: 2022 Birthday Party Hat |
+| 18:21 | **vanyagames_yt**: Haetae (MFR), Ride-A-Pet Potion, Heart Plushie | **Adduser_rruinedsoul**: Balloon Unicorn (FR), Owl (FR), Crow (FR), Evil Unicorn (FR), Undead Jousting Horse (MFR), Ballet Swan (M), Rose Dragon (MFR), Diamond King Penguin (MFR), Hare (MFR) ×2, Albino Gorilla (MFR), Candicorn (MFR), Evil Rock (MR), Taco |
+| 18:21 | **AMINO4KA7U**: Harp Seal (M) | **erditiri03**: Ride-A-Pet Potion ×18 |
+| 18:21 | **RobloxDevolober**: Snowball Pug (N) | **kajaterezka**: Ride-A-Pet Potion |
+| 18:21 | **Lilly_Pops1**: Ram (NR), Harp Seal (NR) | **mariagrigoryan1**: Tiny Wings |
+| 18:21 | **glebas_702**: Rooster (R) | **lanajicadoo**: S'mores Raccoon |
+| 18:21 | **Marina83899545**: Skelicorn (NR), T-Rex | **MIAALEXANDRAPRO**: French Bulldog |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
