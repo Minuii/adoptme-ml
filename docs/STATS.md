@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 07:31 UTC by the scrape workflow._
+_Updated 2026-11-15 07:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 07:31 UTC by the scrape workflow._
 | amvgg | 5 | 32,118 | 2026-11-15T07:30 |
 | elve | 5 | 7,016 | 2026-11-15T07:31 |
 
-## AMVGG completed trades: 17,535 total
+## AMVGG completed trades: 17,557 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,391 |
+| 2026-11-15 | 1,413 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 07:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:30 | **harpiealt07**: Owlbear (MFR), Cow (FR), Respectful Mustache, Ice Cream Heels | **Sonya73p**: Hot Doggo (NFR), Spring Bunny Hood |
-| 07:30 | **LilbuniiiX**: Groundhog, Ride-A-Pet Potion | **chapihop2**: Meerkat |
-| 07:30 | **fygramvgg**: Sheeeeep (MFR), Black Macaque (MFR), Glider | **Shailyn09**: Lion Cub (MFR) |
-| 07:30 | **Shailyn09**: Thinking Hat | **alina39482**: Ride-A-Pet Potion |
-| 07:30 | **maseerisa**: Skelicorn (MFR) | **R3alBznix**: Ride-A-Pet Potion ×5 |
-| 07:30 | **Isalu050112**: Dragonfruit Fox | **dreamsofapoet**: Ride-A-Pet Potion ×2 |
-| 07:30 | **cutetiiii2**: Ride-A-Pet Potion ×4 | **Angelbatista_me2**: Ring-Tailed Lemur |
-| 07:30 | **victoriano_secreto**: Diamond Butterfly, Ride-A-Pet Potion | **Boiledfoott**: Diamond Butterfly (FR) |
-| 07:30 | **asteriavzx**: Chocolate Dutch Guinea Pig | **makaroshka_1339**: Fly-A-Pet Potion |
-| 07:30 | **lvqmpyx**: Diamond Butterfly, Purple Butterfly (MFR), Wooly Rhino (MFR), Solaris (NFR) ×2, Arctic Hare (M) | **AmAmHardi**: Mechapup (MFR) |
-| 07:30 | **austytedgirl**: Pet Handler Pro Certificate ×8, Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 | **koda_estetik**: Cabbit (FR) |
-| 07:25 | **kelsey_1815**: Polar Bear (R), Princess Capuchin Monkey (R), Unicorn ×2, Pupcicle ×2, Fly-A-Pet Potion | **abdoosaad**: Kitty Bat (M) |
-| 07:25 | **Omar2002548**: Snowball Pug (MR) | **Ugg2888**: Copycat, Fly-A-Pet Potion |
-| 07:25 | **ZuzaOnlyMy**: Cow (FR) | **blackpanterxdpr**: Munchkin Cat, Frostbite Bear |
-| 07:25 | **ssssscliff**: Pupcicle | **anekalubitnaruto**: Ride-A-Pet Potion |
+| 07:40 | **Surachka_soso**: Gemstone Egg, Skelicorn (N) | **Crystalcyncyn**: Pupcicle |
+| 07:40 | **ohduwd**: Monkey (M) | **Snow_Girl123678**: Ride-A-Pet Potion ×2 |
+| 07:40 | **BABYCRAC120**: Skelicorn (M) | **zarmeowz**: Spring Bunny Nose |
+| 07:36 | **Liza10kis**: Hare (MFR), Spring Bunny Hood | **Txskiicatzz**: Chocolate Chip Bat Dragon (FR) |
+| 07:36 | **Akieqt9**: Candyfloss Chick (R), Snowball Pug (NR), Bloodhound | **Aimeeroma**: Werewolf (FR) |
+| 07:36 | **heronoemi12**: Peppermint Penguin (R), Sushi Penguin | **xSxaz00**: Sugar Glider (FR), Chocolate Dutch Guinea Pig (NR), Ride-A-Pet Potion |
+| 07:36 | **Lalawigan_nery**: Owl (FR), Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **LoriDreamy123**: Frost Dragon (FR) |
+| 07:36 | **Puddingxcutoy**: Count Slothula (MFR) | **AutoTradeCommission**: Candicorn (FR) |
+| 07:36 | **Fishlett1**: Shark Puppy (R) | **ALEXANDER468PKXD**: Munchkin Cat (FR) |
+| 07:36 | **pwowkiq**: Pain au Chat, Icy Porcupine, Frozen Penguin, Snowy Mammoth | **Nastya_367367**: Strawberry Shortcake Bow |
+| 07:36 | **roblox_user_1554000708**: Mr. Whiskerpips (N), Mrs. Whiskerpips (N) | **GDHJDJDUDU**: Pet Handler Pro Certificate |
+| 07:36 | **jessie_sas**: Pink Betta Fish (M), Sweetheart Rat (MR), Mushroom Friend (NFR), Cattuccino (M), Snowy Mammoth (M), White Sand Dollar, Bee (N), Golden Lettuce | **AutoTradeCommission**: Kangaroo (FR) |
+| 07:36 | **7dakzx**: Frost Fury (MFR), 2022 Birthday Party Hat, Unicorn Horn, Grim Dragon (FR), Albino Monkey (FR), Pig (FR), Pig (R), Spring Bunny Hood ×2, Lynx (MR), Dire Wolf (MR), Red Dutch Guinea Pig ×2, Owlbear (R), Christmas Pudding Pup, Midnight Dragon (FR), Ballet Swan, Frost Phoenix | **gdhjsbdhhsbs**: Candy Cannon |
+| 07:36 | **Anorra42**: Evil Unicorn (FR), Fly-A-Pet Potion ×2 | **YesItsMeUnknownGuy**: Jester Dragon (MR) |
+| 07:36 | **viv1_mp**: Praying Mantis, Tan Chow-Chow | **PIasticTree**: Sprout Snail |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
