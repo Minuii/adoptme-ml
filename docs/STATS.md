@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 10:11 UTC by the scrape workflow._
+_Updated 2026-11-15 10:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 10:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 34,624 | 2026-11-15T10:00 |
-| elve | 5 | 7,485 | 2026-11-15T10:01 |
+| amvgg | 5 | 34,884 | 2026-11-15T10:15 |
+| elve | 5 | 7,546 | 2026-11-15T10:16 |
 
-## AMVGG completed trades: 18,048 total
+## AMVGG completed trades: 18,054 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,904 |
+| 2026-11-15 | 1,910 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,12 @@ _Updated 2026-11-15 10:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:15 | **Palestine_2801**: Balloon Unicorn (NFR), Kiwi (MFR) | **Hi_heart011**: Jellyfish (MFR), Cabbit (MFR), Snow Monkey (MR) |
+| 10:15 | **keitaolivija**: Tiny Wings, Spring Bunny Hood, Pink Cat Ear Headphones ×2 | **Alexa183199**: Rain Cloud Hat |
+| 10:15 | **jo_ntz**: Robin (MFR), Stray Cat Dragon (MR), Sasquatch (NR), Woolly Mammoth (N), Red Fox (N), Golden Hummingbird | **girlyXflowerr**: Munchkin Cat (R) |
+| 10:15 | **fahrodupencheng**: Matcha Cat, Ride-A-Pet Potion | **Adoptic2**: Jester Dragon (FR) |
+| 10:15 | **lhfshkg**: Fly-A-Pet Potion, Purrowl ×2, Thunderfisher ×2 | **rasediva**: Pet Handler Pro Certificate |
+| 10:15 | **strawqbwerie**: Hamster (MFR), Rooster (M), Binturong (MR) | **rainaeditz**: Fairy Bat Dragon (FR) |
 | 10:11 | **Xxxxashhhh**: Fly-A-Pet Potion ×4 | **Ksushat4567**: Matcha Cat (FR) |
 | 10:11 | **O1iverr_00**: Pandaguin Glooptodog (M), Rubber Ducky (M) | **GYUGYUBINIM**: Ride-A-Pet Potion |
 | 10:11 | **lizarg_472**: Pupcicle | **Clifford757**: Zombie Wolf |
@@ -39,12 +45,6 @@ _Updated 2026-11-15 10:11 UTC by the scrape workflow._
 | 10:11 | **AD0RBSMARI**: Fairy Bat Dragon (NFR) | **anastasia010girl**: Dalmatian (FR), Ride-A-Pet Potion, Fly-A-Pet Potion |
 | 10:11 | **Viktoria_11942**: Royal Corgi (R), Chihuahua | **Xxxxashhhh**: Fly-A-Pet Potion |
 | 10:11 | **U_sulla**: Mini Pig (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×18 |
-| 10:11 | **cakilla28**: Ice Cream Hermit Crab (MFR) | **fluffyunicorns_932**: White Sand Dollar (MFR), Black Springer Spaniel (MFR) |
-| 10:11 | **XxITzAli_xX**: Fly-A-Pet Potion ×5 | **kobii_x**: Cat Plush, Panda Pal, Llama Plush, Elephant Plush, Puppy Plush, Croc Plush, Easter Bunny Plush, Phoenix Plush, Bunny Plush, Chick Plush, Polar Bear Plush, Octopus Plush, Horse Plush, Squid Plush, Banana Plush, Elf Plush, Ice Cream Plush |
-| 10:11 | **MyMermaidDiary**: African Wild Dog (FR) | **Courtneyc2211**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) |
-| 10:11 | **kirat292**: Fly-A-Pet Potion ×16 | **Vitek_228666**: Cow (FR) |
-| 10:11 | **Typay604**: Cow (FR), Fairy Bat Dragon (R) | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
-| 10:11 | **sneganii**: Little Lamb (M), Waffle Wyrm (N), Dragonfly (F) | **rasediva**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
