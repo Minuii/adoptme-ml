@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 11:45 UTC by the scrape workflow._
+_Updated 2026-11-15 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 11:45 UTC by the scrape workflow._
 | amvgg | 5 | 36,429 | 2026-11-15T11:45 |
 | elve | 5 | 7,870 | 2026-11-15T11:45 |
 
-## AMVGG completed trades: 18,407 total
+## AMVGG completed trades: 18,461 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,263 |
+| 2026-11-15 | 2,317 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 11:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:45 | **Gamerqueen1255**: Gemstone Egg | **kwahu23**: Retired Egg ×18 |
-| 11:45 | **esddier**: Unicorn (MFR) | **1dayto100dayrich09**: Latte Kitsune (NFR) |
-| 11:45 | **victoriano_secreto**: Werewolf (R), Caterpillar | **HALLOWEENEVENTWOHOO**: Cow (FR) |
-| 11:45 | **suskaoichi2**: Owl (FR) | **Gglrd0**: Copycat (MFR), Mermicorn (NFR) |
-| 11:45 | **nuggets0162**: Cow (FR), Turtle, Axolotl (NFR) | **saskitima**: Kangaroo (FR) ×2, Kangaroo (R), Frost Fury (FR), Ride-A-Pet Potion |
-| 11:45 | **cinammoroll_bun**: Kangaroo (R), Unicorn Horn | **ameliacaumeil**: Tree Kangaroo (MFR) |
-| 11:45 | **noaboa678**: Border Collie (MFR), Border Collie (NFR) | **Exotic_Collector27**: Balloon Unicorn (FR), Cryptid (FR) |
-| 11:45 | **starswirl_64**: Koi Carp ×4 | **gottloveemayaa**: Ride-A-Pet Potion |
-| 11:45 | **disapp6ar**: Ice Golem (MFR), Frost Phoenix (MFR), Chocolate Dutch Guinea Pig (MFR), Pirate Hermit Crab (MFR), Guardian Lion (MFR), Cuddly Candle (MFR), Vampire Dragon (NFR), Yule Log Dog (NFR), Lamb (MFR) | **004FAscend004**: Frost Unicorn (MFR) |
-| 11:45 | **LeonardBass28273**: Chocolate Dutch Guinea Pig (MFR), Red Squirrel (MFR), Ride-A-Pet Potion ×2 | **angela_umerez4**: Kookaburra (MFR) |
-| 11:45 | **rainbowpower0125**: Unicorn, Gorilla | **sunvixna**: Ride-A-Pet Potion |
-| 11:45 | **X0X1266**: Mule (MFR) | **fluffyunicorns_932**: Zombie Wolf (M) |
-| 11:45 | **queenyelii_22**: Rabbit ×18 | **don2p**: Ride-A-Pet Potion |
-| 11:45 | **rebipiu**: Kaijunior | **arnm1xx**: Retired Egg ×2 |
-| 11:45 | **tyt_567r**: Fly-A-Pet Potion ×2, Cookie Dough Plush | **RISHSARAWWW**: Ride-A-Pet Potion ×4 |
+| 11:55 | **PhoenixEpic85**: Chihuahua ×12 | **fluffyunicorns_932**: Ride-A-Pet Potion ×4 |
+| 11:55 | **ameliacaumeil**: Cabbit (R) | **Stephanie58241**: Alley Cat (NR), Alley Cat (N) |
+| 11:55 | **Isalu050112**: Kangaroo (FR), Copycat, Christmas Pudding Pup, Fly-A-Pet Potion, Ride-A-Pet Potion, Indian Leopard (N) | **Veronika_17371**: Cow (FR) |
+| 11:55 | **crybabydoIl**: Fly-A-Pet Potion ×3 | **Adoptic2**: Matcha Cat |
+| 11:55 | **BIg_BoRdy**: Bunny Swirl, Cake Friend ×2, Black Macaque, Frostbite Cub, Highland Cow, Seafoam Butterfly, Vermilion Butterfly, Sprout Snail, Toasty Red Panda, Skunk, Albino Bat, Black Kite, Irish Elk, Koi Carp, Preppy Capuchin Monkey | **hharrietq**: Red Squirrel (MFR) |
+| 11:55 | **LIAXMLV**: Skelicorn ×11, Skelicorn (N) | **ScallyB1702**: Clementine Owl (N), Ghost Bunny |
+| 11:55 | **Wizard_6321**: Crow (FR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) | **LostKeksik**: Frost Dragon (FR), Ride-A-Pet Potion |
+| 11:55 | **lWeirdPhyscol**: Unicorn Horn ×3, 2022 Birthday Cupcake Shoes, Rain Cloud Hat, 2022 Birthday Party Horn | **biq_at222**: Hot Doggo (NFR) |
+| 11:55 | **Zizzy2206**: Pupcicle, Golden Griffin ×2, Golden Dragon, Temple Friend, Quetzalcoatl, Griffin, Villain Gibbon | **melomanka_208**: Ride-A-Pet Potion ×2 |
+| 11:55 | **bluelangkatapat**: Copycat, Red Dutch Guinea Pig (R), Winter Buck (NR) | **Emmy_Nobodyy**: Crocodile (FR) |
+| 11:55 | **Pspspskskssk**: Turtle (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **wskdaks**: Cow (FR) |
+| 11:55 | **gaerent12**: Turtle (FR), Kangaroo (FR), Kangaroo, Swan, Cherub Chipmunk (M) | **yusokini25**: Chocolate Chip Bat Dragon (FR) |
+| 11:55 | **Elfik1k**: Border Collie (R), Diamond Unicorn (MR) | **ImZaira5**: S'mores Raccoon (MFR) |
+| 11:55 | **strawberry_thea08**: Sea Turtle | **belovez_21**: Retired Egg ×3 |
+| 11:55 | **strawberry_thea08**: Fire Mare | **belovez_21**: Retired Egg ×6 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
