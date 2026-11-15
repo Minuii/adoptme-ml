@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 10:31 UTC by the scrape workflow._
+_Updated 2026-11-15 10:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 10:31 UTC by the scrape workflow._
 | amvgg | 5 | 35,134 | 2026-11-15T10:30 |
 | elve | 5 | 7,612 | 2026-11-15T10:31 |
 
-## AMVGG completed trades: 18,082 total
+## AMVGG completed trades: 18,167 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,938 |
+| 2026-11-15 | 2,023 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:30 | **XxcatscutesxXx**: Crow (FR), Fly-A-Pet Potion ×2, Alicorn (N), Chocolate Dutch Guinea Pig | **SPIKI77228**: Evil Unicorn (FR), Fairy Bat Dragon (R), Pig (R), Kangaroo (FR), Ride-A-Pet Potion, Cattuccino (MFR), Purrowl (F), Purrowl |
-| 10:30 | **wx8zqxx**: Sugar Glider (R), Ride-A-Pet Potion | **bad_boss1235**: Crocodile (FR), Blue Dog (FR) |
-| 10:30 | **txella_tzuyu**: Alpaca | **s0larzxxxx**: Unicorn Horn |
-| 10:30 | **kriswwqz**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 | **elfania_3**: Siamese Cat (FR) |
-| 10:21 | **BR00K3DBY**: Sloth (NFR), Strawberry Tortle (R), Samoyed (M), Jacobin Pigeon (M), Green Amazon, Cupid's Coupe | **ThornHBDeltaRBQueen1**: Cow |
-| 10:21 | **DeviousScorpioYT**: Balloon Unicorn (FR) | **200tttt546**: Balloon Unicorn |
-| 10:21 | **Grin900**: Alpaca (R), Dragon Breath Animated Sticker, Aviator Hat, Music Box Hat, Ride-A-Pet Potion ×3, Pumpkin Rattle | **Soymanuandicrakbanm**: 2022 Birthday Party Hat |
-| 10:21 | **si6mesecats**: Owl (FR), Great Pyrenees (MFR), Chocolate Dutch Guinea Pig (MR) | **billygrace4jeffy**: Frost Dragon (FR) |
-| 10:21 | **Xxxxashhhh**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion, Fly-A-Pet Potion | **sashaoookk**: Aurora Fox (R) |
-| 10:21 | **Lulu_istL0ST**: Kangaroo (FR), Munchkin Cat (FR), Pupcicle (N) | **wskdaks**: Cow (FR) |
-| 10:21 | **xheartzpearlx**: Albatross (N), Jacobin Pigeon (M) | **hehgigi**: Pupcicle |
-| 10:21 | **alsosaberin**: Rainbow Maker, Rain Cloud Hat, Unicorn Horn | **hatsholi**: Hedgehog (FR) |
-| 10:21 | **FlyToTheSaturn**: Ash Zebra, Wolpertinger (N), Chick, Beluga Whale (NR), Rock (R), Possum (N), Eggnog Dog, Zodiac Minion Chick, Endangered Egg ×10 | **loli_kuki9**: Fly-A-Pet Potion |
-| 10:21 | **Anelchik_i**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 | **1Evie_C1**: Cozy Cabin |
-| 10:21 | **V0RTI0X3TINEE**: Munchkin Cat (NFR) ×2, Copycat (NR), Ice Cream Cone Hat, Goth Shoes, Butter Knife, Christmas Pudding Pup (FR) | **Laila82010**: Munchkin Cat (MFR) |
+| 10:40 | **Goodnews2013**: Evil Unicorn (FR) | **rip_indra12345678912**: Turtle (NFR), Cow (FR), Winged Tiger, Vampire Dragon (FR) |
+| 10:40 | **Fidelia2131415**: Ride-A-Pet Potion | **Goodnews2013**: Sushi Penguin |
+| 10:40 | **y_opzp**: Fairy Bat Dragon (FR), Ride-A-Pet Potion | **arseniylolol**: Turtle (FR), Arctic Dusk Dragon (FR) |
+| 10:40 | **Lumina20265**: Fly-A-Pet Potion | **noki123good**: Flaming Fox |
+| 10:40 | **Mallow_07737**: Netzooka, Pro Ghost Blaster, Slimingo Feather Teleporter | **its_yukari0**: Ride-A-Pet Potion |
+| 10:40 | **Frank82048**: Retired Egg ×9 | **carol90909xd**: Fairytale Egg ×18 |
+| 10:40 | **Mallow_07737**: Thunderfisher (M) | **mitsI_194**: Milk Choccybunny ×18 |
+| 10:40 | **AlphaTaToxicv1047**: Alpaca | **lWeirdPhyscol**: Unicorn Horn, Pupcake (NR), Ride-A-Pet Potion |
+| 10:40 | **im_elliee5**: Boohoo (N) ×4 | **tvmi9**: Boohoo (M) |
+| 10:40 | **Mrcatsyz**: Fairy Bat Dragon (NFR), Cow (FR), Alley Cat (MFR), Jester Dragon (N), Frost Fury (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Chihuahua ×3 | **kuromi_BRD**: Owl (FR) |
+| 10:40 | **Mallow_07737**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **gffdjddd23_4**: Ghostly Cat (M) |
+| 10:40 | **monxcuhh**: Shark Puppy (MFR), Bunny Swirl (MFR), Choco Penguin (MR) | **lpsaie**: Siamese Cat (MFR) |
+| 10:40 | **luvyerh**: Cow (FR) | **Mrcatsyz**: Elephant (FR), Arctic Fox (FR), Arctic Fox (R) |
+| 10:40 | **Yelyzaveta_125**: Christmas Pudding House | **ally_28901**: Bloodhound |
+| 10:40 | **Nurrbi**: Brown Bear (FR), Pig, Blue Dog (FR) | **Zusik_40**: Mermicorn (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
