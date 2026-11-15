@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 03:45 UTC by the scrape workflow._
+_Updated 2026-11-15 03:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 03:45 UTC by the scrape workflow._
 | amvgg | 5 | 28,589 | 2026-11-15T03:45 |
 | elve | 5 | 6,189 | 2026-11-15T03:45 |
 
-## AMVGG completed trades: 16,845 total
+## AMVGG completed trades: 16,888 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 701 |
+| 2026-11-15 | 744 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 03:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:45 | **gigAntiC_annA**: Emberlight, Royal Palace Spaniel, Little Lamb ×2, Bloodhound, Clover Cow, Seagull, Red Panda, Shetland Pony White, Onza, Grave Owl, Brown-Chested Pheasant, Clownfish, Pine Marten, Halloween White Skeleton Dog, Scarlet Butterfly, Preppy Capuchin Monkey, Icy Porcupine | **dorathe850**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 03:45 | **bashkyr0**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×12 | **ALV4RYTO**: Turtle (FR) |
-| 03:45 | **pinkxmascookie**: Pig (NFR), Shark Puppy | **hi8186571**: Fairy Bat Dragon (FR) |
-| 03:45 | **1UnRandomPromedio**: Purrowl ×6, Ancient Dragon, Three Blind Mice | **hamster_lili123**: Ride-A-Pet Potion |
-| 03:45 | **Mackenzie181818**: Soccer Stadium | **1Sxphii1**: Royal Palace Spaniel (N) |
-| 03:45 | **neowcotine**: Puptune (MFR) | **narwhalslov**: Copycat |
-| 03:45 | **ILikePenguins94**: Haetae (NFR), Strawberry Tortle (NFR), Cow (FR), Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Christmas Pudding Pup (NR), Pelican, Capybara (MFR), Wood Pigeon (MFR) | **PrismaticRio**: Giraffe (NFR) |
-| 03:45 | **xcherryxblossomx129**: Christmas Pudding Pup (R) | **Sasha_6813**: Ice Cream Cone Hat |
-| 03:45 | **pinponkgoku2**: Grim Dragon (FR) | **roserte4**: Jester Dragon (NFR) |
-| 03:45 | **Pulseq3Void63Echo174**: Chameleon ×6 | **mellerinero2**: Fly-A-Pet Potion ×2 |
-| 03:45 | **xxxAubreexxx123**: Copycat ×2 | **aikyuurei**: Crocodile (FR) |
-| 03:45 | **tonyyy133378**: Munchkin Cat (MFR), Fairy Bat Dragon (NFR), Candicorn (NFR), Peppermint Penguin, Lion Cub (R) | **Jana_ashtetic**: Frost Dragon (FR) |
-| 03:45 | **AvokadoJFKfanat**: Owl (FR), Burger Boots | **galaxygurl123yay**: Border Collie (MFR) |
-| 03:45 | **K1MM007**: Canadian Goose (MR), Ranger Beaver (MR) | **ihitmyheadonwalls2**: Pupcicle (MFR) |
-| 03:45 | **natfrmct**: Great Pyrenees, Pain au Chat | **itsByte_hunter73**: Pupcicle |
+| 03:55 | **addAquaskycode2015**: Zombie Buffalo (R) | **Nutty_1352**: Pupcicle ×7 |
+| 03:55 | **Andres_agent**: Ride-A-Pet Potion, Baku ×2 | **AdrianGaming777777**: Pet Handler Pro Certificate |
+| 03:55 | **latuk_1119**: Pupcicle | **Sunglases_xx**: Thinking Hat, Energy Aura Feet |
+| 03:55 | **method611491**: Bat Dragon (NFR), Giraffe (NFR), Arctic Reindeer (FR), Panda Pal | **Artisticzsilver**: Shadow Dragon (MFR) |
+| 03:55 | **TheBerryxD**: Golden Lettuce | **RAYANBacKU**: Bunny Swirl, Latte Kitsune |
+| 03:55 | **HeartsForEli_1406**: Count Slothula (M), Unicorn Backpack, Spring Bunny Feet | **sugarbunn3i**: 2022 Birthday Cake |
+| 03:55 | **OvTrxashy_Eva**: Munchkin Cat, Punk Pony (MFR) | **sakunary_1328**: Haetyphoon |
+| 03:55 | **AllHallowEvening**: Strawberry Penguin, Unicorn (MFR) | **josuecres16**: Siamese Cat (FR) |
+| 03:55 | **xxDeAdSoS1Sxx**: Camel ×4, Fairytale Egg ×2 | **emaisabella23**: Purrowl |
+| 03:55 | **Esssoo76**: Pig (R) | **brookxx44**: Arctic Dusk Dragon (R), Candy Hare, Dodo (R) |
+| 03:55 | **joeyharri12**: Ice Cream Hermit Crab (MFR) | **sohohuls**: French Bulldog (MFR), German Shepherd (MFR) |
+| 03:55 | **7petite**: Candicorn (MFR) | **itzzdxavid**: Undead Jousting Horse (NFR) |
+| 03:55 | **FlyToTheSaturn**: Millionaire Mansion | **Secret_Secretov321**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 03:55 | **xoxsasha0**: Ride-A-Pet Potion ×3 | **hanb3ki**: Mistletroll (MR) |
+| 03:50 | **Xxxxashhhh**: Fly-A-Pet Potion ×4 | **ItzMackenzieLol910**: Arctic Fox (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
