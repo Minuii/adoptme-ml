@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 01:45 UTC by the scrape workflow._
+_Updated 2026-11-15 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 01:45 UTC by the scrape workflow._
 | amvgg | 5 | 26,545 | 2026-11-15T01:45 |
 | elve | 5 | 5,783 | 2026-11-15T01:45 |
 
-## AMVGG completed trades: 16,495 total
+## AMVGG completed trades: 16,519 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 351 |
+| 2026-11-15 | 375 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 01:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:45 | **Priskona0**: Unicorn Horn, Storm Condor (M) | **izzyxrblx00**: German Shepherd (MR) |
-| 01:45 | **NOT_ARODENT**: Frost Unicorn (FR) | **NOBIIIEEE11**: Phantom Dragon (NFR) |
-| 01:45 | **SUPERPENGUIN0111**: Flash Weasel (FR) | **RealizeRealityAsItIs**: Pupcicle ×15 |
-| 01:45 | **goodqueenp**: Bat (NR) | **camsties**: Ride-A-Pet Potion |
-| 01:45 | **Camthemm**: Siamese Cat (MFR), Munchkin Cat (MFR), Snowball Pet (MFR), Frostclaw (MFR) | **MiNa067789**: Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR) |
-| 01:45 | **Sirswagalishsus**: Fly-A-Pet Potion ×4 | **patasconqueso242**: Ride-A-Pet Potion ×7 |
-| 01:45 | **J4YASPL4NET**: Goose (MFR), Rainbow Maker, Cherry-On-Top, Owlbear (MFR), Sugar Glider (R) | **fearlessgloria123**: Owl (NFR) |
-| 01:45 | **itskayeeee**: Ride-A-Pet Potion ×3, Pain au Chat, Chihuahua | **ii_qw1r**: Dragon (MFR) |
-| 01:45 | **stellalovessyou**: Ride-A-Pet Potion, Chihuahua | **itsvaleriaotz**: Harp Seal (R) |
-| 01:45 | **1o5_aa**: Ride-A-Pet Potion | **itsvaleriaotz**: Cocoadile (M), White Choccybunny (M) |
-| 01:45 | **cutenadk77**: Quokka, Ermine, Turtle Doves, Thunderfisher, Moonpine, Dilophosaurus, Blue Jay, Frozen Penguin, Little Lamb, Chilling Spider, Mrs. Whiskerpips, Pomeranian | **itsvaleriaotz**: Ride-A-Pet Potion |
-| 01:45 | **Japenav**: Owl (FR), Fairy Bat Dragon (NFR) | **Helloimnewand2**: Frostbite Bear (MFR) |
-| 01:45 | **24681012141618202213**: Cryptid (FR), Pancake Stack, Spring Bunny Feet | **MOIK0K**: Alley Cat (MFR), Latte Kitsune (MFR) |
-| 01:45 | **mariarita2000**: Purrowl | **Hell0_kitty7v7xd**: Dragon |
-| 01:45 | **maybetryitlater**: Siamese Cat (MFR), Candicorn (MFR), Candicorn (NR) ×2, Candicorn (N), Jekyll Hydra (FR), Haetae (FR) | **Kiandra13kiandra**: Shadow Dragon (FR) |
+| 01:55 | **Scar_3090**: Quokka (MFR) | **viktoriapotrivay**: Meerkat (R), Latte Kitsune (R), Ride-A-Pet Potion |
+| 01:55 | **ugishow195**: Werewolf (FR) | **miriam89300**: Copycat ×3 |
+| 01:50 | **Doro4ka0015**: Admin Abuse Egg ×17 | **looter_love**: Ride-A-Pet Potion |
+| 01:50 | **Kyrae_onatirade**: Ride-A-Pet Potion | **011FluffyTheCute**: Pupcicle |
+| 01:50 | **Vxmptomato**: African Wild Dog (FR) | **littlelizard_7**: Jester Dragon (MFR), Elephant (R), Axolotl (MFR) |
+| 01:50 | **rexy_7830**: Border Collie (MFR), Head Chef | **gdhjsbdhhsbs**: Flamingo (FR), Pirate Ghost Capuchin Monkey (MFR), Rainbow Maker |
+| 01:50 | **L_person21**: Haetae (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion, Bready Necklace | **foureverkitty**: Cryptid (R), Siamese Cat (R) |
+| 01:50 | **Pinki211212**: Stray Cat Dragon (N), Eco Brown Earth-Wizard Hat | **sisther_0674**: Stray Cat Dragon (NR) |
+| 01:50 | **rainthatxx**: Ride-A-Pet Potion ×9 | **SUPERPENGUIN0111**: Pupcicle ×9 |
+| 01:50 | **T_T10604**: Aestus (N) | **ang3lz_ab0v3**: Tiny Wings |
+| 01:50 | **0o_Cupcake**: Pupcicle ×17 | **D8RYY**: Yeti (MFR) |
+| 01:50 | **KnifeonKeys**: Field Mouse (NR) ×2 | **themilkeywayz**: Mermicorn (FR), Siamese Cat (R), Arctic Fox, Rose Dragon, Fly-A-Pet Potion |
+| 01:50 | **SugarIoIIi**: Strawberry Shortcake Bat Dragon (FR) ×2, Goose (FR), Ice Cream Cone Hat, Spring Bunny Hood, Ride-A-Pet Potion | **Rysan1234567**: Parrot (FR) |
+| 01:50 | **Brixbrielle17**: Retired Egg ×15 | **littlefelonies**: Balloon Unicorn Sticker |
+| 01:50 | **Dr9iser**: Tealwood Monster (N), Stingray (N), Blue Cat (N) ×2, Hydra | **Onuslt**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
