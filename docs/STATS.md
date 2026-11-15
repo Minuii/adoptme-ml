@@ -1,20 +1,20 @@
 # Collected data
 
-_Updated 2026-11-15 16:40 UTC by the scrape workflow._
+_Updated 2026-11-15 16:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 12 | 2026-11-11T1036Z | 2026-11-15T0245Z |
-| amvgg | 24 | 2026-11-11T1036Z | 2026-11-15T1545Z |
+| amvgg | 25 | 2026-11-11T1036Z | 2026-11-15T1645Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 41,343 | 2026-11-15T16:30 |
-| elve | 5 | 9,064 | 2026-11-15T16:31 |
+| amvgg | 5 | 41,582 | 2026-11-15T16:45 |
+| elve | 5 | 9,089 | 2026-11-15T16:45 |
 
 ## AMVGG completed trades: 19,965 total
 
@@ -66,22 +66,22 @@ _Updated 2026-11-15 16:40 UTC by the scrape workflow._
 | 2026-11-15 01:40 | Amethyst Penguin | neon fly ride | 566 | 558 |
 | 2026-11-15 01:40 | Amethyst Penguin | default fly ride | 140 | 138 |
 
-## AMVGG value changes: 7,722 since 2026-06-02
+## AMVGG value changes: 7,759 since 2026-06-02
 
 | When (UTC) | Item | Changes |
 |---|---|---|
-| 2026-11-15 15:45 | Pirate Ghost Capuchin Monkey | Neon 0.245 → 0.24, Mega 1 → 0.975 |
-| 2026-11-15 15:44 | Emperor Gorilla | Regular 0.07 → 0.0675, Neon 0.285 → 0.27, Mega 1.15 → 1.1 |
-| 2026-11-15 15:44 | Munchkin Cat | Mega 0.74 → 0.72 |
-| 2026-11-15 15:44 | Candicorn | Neon 0.295 → 0.285, Mega 0.89 → 0.85 |
-| 2026-11-15 15:42 | Frost Unicorn | Neon 0.43 → 0.425, Mega 1.7 → 1.675 |
-| 2026-11-15 15:42 | Orchid Butterfly | Neon 2.56 → 2.525, Mega 10.2 → 10.05 |
-| 2026-11-15 15:42 | Haetae | Neon 2.75 → 2.725, Mega 10.25 → 10.1 |
-| 2026-11-15 15:40 | African Wild Dog | Mega 11.75 → 11.65 |
-| 2026-11-15 15:40 | Sakura Spirit | Regular 0.055 → 0.0525, Neon 0.22 → 0.21, Mega 0.88 → 0.84 |
-| 2026-11-15 15:40 | Candyfloss Chick | Neon 0.43 → 0.435, Mega 1.7 → 1.72 |
-| 2026-11-15 15:38 | Alpaca | Regular 0.1375 → 0.14, Neon 0.53 → 0.54, Mega 2.1 → 2.14 |
-| 2026-11-15 15:38 | Sugar Glider | Neon 0.485 → 0.49, Mega 1.92 → 1.94 |
-| 2026-11-15 15:35 | Monkey King | Regular 0.2025 → 0.1975, Neon 0.805 → 0.79, Mega 3.22 → 3.16 |
-| 2026-11-15 15:35 | Goose | Mega 1.88 → 1.89 |
-| 2026-11-15 15:35 | Cabbit | Regular 0.18 → 0.1825, Neon 0.51 → 0.515, Mega 2 → 2.03 |
+| 2026-11-15 16:27 | Frostbite Bear | Regular 0.17 → 0.165 |
+| 2026-11-15 16:25 | African Wild Dog | Mega 11.75 → 11.6 |
+| 2026-11-15 16:22 | Cow | Mega 1.27 → 1.28 |
+| 2026-11-15 16:20 | Strawberry Shortcake Bat Dragon | Regular 0.395 → 0.4, Neon 0.87 → 0.88, Mega 2.8 → 2.825, Mega demand Medium → High |
+| 2026-11-15 16:19 | Chocolate Chip Bat Dragon | Regular 0.39 → 0.395, Neon 0.96 → 0.97, Mega 3.125 → 3.15, Mega demand Medium → High |
+| 2026-11-15 16:18 | Haetyphoon | Regular 0.11 → 0.105, Neon 0.46 → 0.44, Mega 1.9 → 1.85 |
+| 2026-11-15 16:17 | Flash Weasel | Regular 0.11 → 0.105, Neon 0.46 → 0.44, Mega 1.9 → 1.85 |
+| 2026-11-15 16:15 | Arctic Dusk Dragon | Neon 0.15 → 0.1475, Mega 0.6 → 0.59 |
+| 2026-11-15 16:15 | Christmas Pudding Pup | Neon 0.1725 → 0.17, Mega 0.69 → 0.68 |
+| 2026-11-15 16:13 | Border Collie | Mega demand High → Medium |
+| 2026-11-15 16:12 | Husky | Regular 0.016 → 0.0155, Neon 0.065 → 0.0625, Mega 0.26 → 0.25 |
+| 2026-11-15 16:09 | Blazing Lion | Regular 0.89 → 0.87 |
+| 2026-11-15 16:09 | Giant Panda | Regular 1.07 → 1.05 |
+| 2026-11-15 16:08 | Siamese Cat | Mega 1 → 0.98 |
+| 2026-11-15 16:06 | Glacier Moth | Regular 0.034 → 0.033, Neon 0.1375 → 0.1325, Mega 0.57 → 0.55 |
