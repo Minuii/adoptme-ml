@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 22:25 UTC by the scrape workflow._
+_Updated 2026-11-15 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 47,507 | 2026-11-15T22:15 |
-| elve | 5 | 10,402 | 2026-11-15T22:16 |
+| amvgg | 5 | 47,776 | 2026-11-15T22:30 |
+| elve | 5 | 10,463 | 2026-11-15T22:31 |
 
-## AMVGG completed trades: 21,764 total
+## AMVGG completed trades: 21,769 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 5,620 |
+| 2026-11-15 | 5,625 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,6 +30,11 @@ _Updated 2026-11-15 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:30 | **IamNot_Eclipse**: Jester Dragon, Ancient Dragon (NF), Catte | **Koshechkina102**: Arctic Fox |
+| 22:30 | **dardaruni**: Unicorn Horn | **deeplishpou**: 2022 Birthday Cake |
+| 22:30 | **candyuser2008**: Peppermint Penguin (FR), Ride-A-Pet Potion | **LoriDreamy123**: Cow (FR) |
+| 22:30 | **Kittyqueen052411**: Arctic Dusk Dragon (FR), Pupcicle | **Dessertsandfoods**: Slime (NR) |
+| 22:30 | **Hsjaialalamabba828**: Latte Kitsune (NFR) | **viltpool**: Copycat, Skunk (MFR), Ride-A-Pet Potion |
 | 22:25 | **ExpertChipmunkPro**: Cow (NFR) | **Trumba95**: Arctic Reindeer (R), Fly-A-Pet Potion |
 | 22:25 | **Maryha0243**: Dingo (MFR) | **AndresPatato**: Ride-A-Pet Potion ×2 |
 | 22:25 | **Max_C0r3**: Siamese Cat (FR), Shark Puppy (R), Panda (F) | **MERCEDESE300COUPE**: Peppermint Penguin (FR) |
@@ -40,11 +45,6 @@ _Updated 2026-11-15 22:25 UTC by the scrape workflow._
 | 22:25 | **Delightefull**: Catte, Skelicorn, Bobageist | **batton0955**: Ride-A-Pet Potion |
 | 22:25 | **DuckyMuffinz**: Ride-A-Pet Potion | **Hamigail**: Admin Abuse Egg ×18 |
 | 22:25 | **Orphixia**: Kappakid (MFR) | **Drikah777**: Ride-A-Pet Potion ×5 |
-| 22:25 | **Yurishi_Kashigava**: Caramelgeist | **kelixnz**: Chocolate Labrador |
-| 22:25 | **Jasmine_officially1**: Pancake Stack, Cheesecake Hat | **miraaa4lifeee**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 22:25 | **Lyn_me1**: Knitted Pumpkin Hat ×10 | **Drikah777**: Ride-A-Pet Potion |
-| 22:25 | **sugar_happy2010**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Cupid Dragon (NFR) | **mimiol400**: Cow (FR) |
-| 22:25 | **Agyra11**: Chocolate Chip Bat Dragon Backpack, Pink Cat Ear Headphones | **Drikah777**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
