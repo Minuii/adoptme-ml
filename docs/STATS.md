@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 13:01 UTC by the scrape workflow._
+_Updated 2026-11-15 13:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 13:01 UTC by the scrape workflow._
 | amvgg | 5 | 37,753 | 2026-11-15T13:00 |
 | elve | 5 | 8,204 | 2026-11-15T13:01 |
 
-## AMVGG completed trades: 18,782 total
+## AMVGG completed trades: 18,821 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,638 |
+| 2026-11-15 | 2,677 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 13:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:00 | **NiceDoggyMona**: Kangaroo (FR), Elephant (R) | **LuluWren07**: Cow (FR) |
-| 13:00 | **Cvhretujhhgia**: Gemstone Egg, Burning Bunny, Three Blind Mice | **snowqyee**: Ride-A-Pet Potion |
-| 13:00 | **Ella_ponny3**: Scarebear (R), Pupcicle ×4, Fly-A-Pet Potion, Penguin (FR) | **SUAA_MYLOVE**: Arctic Fox (R) |
-| 13:00 | **queenyelii_22**: Milk Choccybunny ×18 | **Pferdemeadchen123**: Ride-A-Pet Potion |
-| 13:00 | **Resh0k**: Peppermint Penguin (FR), Matcha Cat, Rat (MR) | **MERCEDESE300COUPE**: Mini Pig (FR) |
-| 13:00 | **letstry228**: Ghost Bunny (MFR), Skelicorn (M), Indian Flying Fox (M), Ghostly Cat (M), Little Lamb (N), Ride-A-Pet Potion | **MERCEDESE300COUPE**: Peppermint Penguin (FR) |
-| 13:00 | **sweetdollvie**: Pupcicle | **AmypolarFoxyYT2**: Dark Choccybunny (N) |
-| 13:00 | **trialbunny**: Pet Handler Pro Certificate | **Holicomoestas2323**: Fly-A-Pet Potion |
-| 13:00 | **kizuumie**: Frostbite Bear (MFR) | **supreme_iby**: Crow (FR), Chocolate Chip Bat Dragon (FR) ×2, Cow (FR) |
-| 13:00 | **H4rm0nicdsires**: Grave Owl (MR), Bee (NFR), Stray Cat Dragon (N) | **Pawwzzed**: Copycat |
-| 13:00 | **Azzyyzz_23**: Count Slothula (M) | **Xx_bruneta**: Border Collie |
-| 13:00 | **sasha_574611**: Matcha Cat (FR) | **hirwuiko**: Pupcicle ×7 |
-| 13:00 | **Laurinha_cake**: Lion (FR), Pupcicle | **adopt201433**: Border Collie (R) |
-| 13:00 | **memoriesd4n**: Goth Shoes | **XTREYT**: Orange Butterfly (NR) |
-| 13:00 | **The_BadPuppy1**: Ghost Dog | **Alycialolpop1**: Ride-A-Pet Potion |
+| 13:10 | **ll_90dfhj**: Chocolate Dutch Guinea Pig ×4, Mr. Whiskerpips | **A13N4XX**: Chocolate Dutch Guinea Pig (N) |
+| 13:10 | **haley_dunphyy**: Fly-A-Pet Potion | **6I_dasic**: Boohoo (M) |
+| 13:10 | **Urpookie_Ria**: Alley Cat (NFR) | **FruitcakeSEALS**: Toaster Hat |
+| 13:10 | **crybabydoIl**: Rhino (NFR), Brown Springer Spaniel (NR) | **aquxsz**: Matcha Cat |
+| 13:10 | **TicTekkToee**: Unicorn | **Antonia_Star03**: Admin Abuse Egg ×17 |
+| 13:10 | **BaHuJIbKA2112**: Cow (FR), Kangaroo (FR), Fly-A-Pet Potion ×4, Count Slothula, Golden Egg | **Fox7Art**: Chocolate Chip Bat Dragon (R) |
+| 13:10 | **ii_Edgar123**: Fly-A-Pet Potion ×2, Pumpkin Friend | **aleks2u**: Grave Owl (M) |
+| 13:10 | **Itss_zariee**: Pet Handler Pro Certificate | **Bumble_Lou**: Bolt (MR) |
+| 13:10 | **fluffyunicorns_932**: Alley Cat (NFR) | **lesya_nyashk**: Great Pyrenees (MFR) |
+| 13:10 | **llya3348**: Ride-A-Pet Potion | **Iluvsmartistoo**: Crystal Egg ×14 |
+| 13:10 | **CMETAHKA_LOVElp**: Admin Abuse Egg ×18 | **samneva8614**: Ride-A-Pet Potion |
+| 13:10 | **dollhfdtsax4536fvdf5**: Pig (FR), Dragonfruit Fox (R) | **bomzliwr**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6 |
+| 13:10 | **Special_Foxi**: Harp Seal (M), Fly-A-Pet Potion | **nightwalkintherain**: Harp Seal (MFR) |
+| 13:10 | **Spartik20**: Fly-A-Pet Potion ×2, Turtle (R), Ballet Swan, Ride-A-Pet Potion ×2 | **TYTkuza2**: Cow (R) |
+| 13:10 | **Gxlhsp80**: Cryptid (MFR) | **6smng**: Frost Dragon (FR), Winged Tiger (MFR), Parrot (FR), African Wild Dog (FR), Balloon Unicorn, Kangaroo (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
