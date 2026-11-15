@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 17:45 UTC by the scrape workflow._
+_Updated 2026-11-15 17:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 17:45 UTC by the scrape workflow._
 | amvgg | 5 | 42,639 | 2026-11-15T17:45 |
 | elve | 5 | 9,353 | 2026-11-15T17:45 |
 
-## AMVGG completed trades: 20,313 total
+## AMVGG completed trades: 20,366 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 4,169 |
+| 2026-11-15 | 4,222 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 17:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **quietlyangel**: Robo Dog (MFR) | **22veils**: Karate Gorilla (MFR) |
-| 17:45 | **YOKOZ303**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 | **Niklon4ik**: Cow (FR) |
-| 17:45 | **Vitek_228666**: Elephant (R) | **poliwwhka**: Ride-A-Pet Potion ×14 |
-| 17:45 | **stvrestial**: Arctic Dusk Dragon (M), Meerkat (MFR), Silly Duck (MFR), Axolotl (MFR), Kitsune (MFR), Winged Tiger | **itwas_f4te**: Winged Tiger (MFR) |
-| 17:45 | **Jolien_188**: Cerberus (FR) | **daisyskyes82**: Ride-A-Pet Potion ×2 |
-| 17:45 | **Xxxxashhhh**: Pet Handler Pro Certificate, Fly-A-Pet Potion, Ride-A-Pet Potion | **Jolien_188**: Jester Dragon |
-| 17:45 | **hii_itsari3**: Mini Pig (FR), Turtle (FR), 2022 Birthday Party Hat, Dragonfruit Fox (NR), Munchkin Cat ×2, Pupcicle (N) ×2, Frost Fury (FR), 2022 Birthday Cupcake Shoes | **FoxyChanU3U**: Balloon Unicorn (FR) |
-| 17:45 | **xxxzChui**: Green Butterfly (MFR) | **gh0stly4ee**: Jester Dragon (NFR) |
-| 17:45 | **Mel0_170**: Alley Cat (MFR), Pupcicle, Skelicorn (N) | **nickknackks**: Border Collie (NFR) |
-| 17:45 | **FlyToTheSaturn**: Halloween Blue Scorpion, Halloween Black Mummy Cat ×4, Glyptodon, Ermine, Eggnog Dog, Dolphin ×4, Dingo ×4, Beaver ×2 | **LaylaObbyRBXHQ07**: Fly-A-Pet Potion |
-| 17:45 | **eun_woo1911**: Harp Seal | **1uvsen**: Pupcicle |
-| 17:45 | **FisheYT3**: Haetae (R), Cow (FR) ×2, Fairy Bat Dragon (FR), Copycat ×7 | **Kakashonec2**: Frost Dragon (FR) |
-| 17:45 | **worriorcatfan36**: Glormy Leo (NR) | **guuk_jeikey**: Pupcicle (N) ×2 |
-| 17:45 | **hood_11uwu**: Unicorn Horn, Spring Bunny Hood, Spring Bunny Feet, Fly-A-Pet Potion, Pet Handler Pro Certificate | **docedelets**: Halo |
-| 17:45 | **ILoveCupcakes33123**: White Chef Hat | **4revolutions**: Heart Bow |
+| 17:55 | **denjisguilt**: Munchkin Cat (MFR) | **dammam_1234**: Lion Cub (MFR) |
+| 17:55 | **nskwlp0**: Goat (R) | **Artem4ik000731**: Chinese Lantern |
+| 17:55 | **harsheydagoat**: Goose (MFR), Sakura Spirit (MFR) | **copyvoting**: Giraffe (FR) |
+| 17:55 | **Vernite_chat0**: Thunderfisher (N) | **delilahbear3030**: Retired Egg ×18 |
+| 17:55 | **Sandy18rgdd**: Shark Puppy | **Popa67524269**: Munchkin Cat (R) |
+| 17:55 | **mixxqwiex**: Sugar Glider (FR), Ride-A-Pet Potion | **NummieNummiegirl**: Fairy Bat Dragon (FR) |
+| 17:55 | **snugglypolarbearpaws**: Copycat (MR) | **DONTTRADEMEGOD**: Siamese Cat (N), Rainbow Maker |
+| 17:55 | **stellalovessyou**: Ride-A-Pet Potion | **vxzzz632**: Paint Sealer ×13 |
+| 17:55 | **minismudgepanda**: Aye Aye (M), Cherub Chipmunk (M), Bunny (M) | **lovlee61**: Pupcake ×3 |
+| 17:55 | **doraatje122**: Frostbite Bear (MFR), Owl (NFR), Cow (R), Gaelic Fae (FR), Chocolate Dutch Guinea Pig, Black Panther | **jiio111**: Bat Dragon (FR) |
+| 17:55 | **ohbeesitee**: Boohoo (M), Count Slothula ×2 | **jiio111**: Dire Wolf (M), Ride-A-Pet Potion, RGB Monster Truck |
+| 17:55 | **Hecksyah221**: Siamese Cat (R), Glormy Hound (FR) | **ElimonZa**: Owlbear (NFR) |
+| 17:55 | **AdoptMeHere03**: Fly-A-Pet Potion ×18 | **PixiePawsTrade**: Blue Egg |
+| 17:55 | **TMDung20**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **Foradopmetrades**: Frost Dragon (FR) |
+| 17:55 | **Riikka_Takanashiii**: Pet Handler Pro Certificate | **WhinyBuny**: Chameleon (NR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
