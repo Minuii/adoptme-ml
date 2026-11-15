@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 15:16 UTC by the scrape workflow._
+_Updated 2026-11-15 15:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 15:16 UTC by the scrape workflow._
 | amvgg | 5 | 40,010 | 2026-11-15T15:15 |
 | elve | 5 | 8,716 | 2026-11-15T15:16 |
 
-## AMVGG completed trades: 19,495 total
+## AMVGG completed trades: 19,527 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 3,351 |
+| 2026-11-15 | 3,383 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 15:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:15 | **Nita208901**: Glormy Crab | **Est3lleluv**: Christmas Pudding House |
-| 15:15 | **Klaysi_flayra**: Frozen Penguin ×4, Toxic Kaijunior, Amber Butterfly, Cherub Chipmunk, Castle Hermit Crab, Cow Calf, Angus Cow, Dotted Eggy, Gorilla, Ocelot | **frecalsplogeok9**: Ride-A-Pet Potion |
-| 15:15 | **fenekitfixismymain**: Ride-A-Pet Potion | **Lover1273627**: Hamster (FR), Swordfish (N) |
-| 15:15 | **Itz_irchik2**: Goose (R) ×5, Goose (F), Shrew (R) | **yuno1229000**: Owl (FR) |
-| 15:15 | **omerbcen542009**: Chocolate Chip Bat Dragon (R), Munchkin Cat | **Elis_thxx**: Arctic Reindeer (FR) |
-| 15:15 | **docedelets**: Tutu | **Kisa_Mika8**: Chihuahua |
-| 15:15 | **Xxxxashhhh**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Golden Lettuce | **Goodnews2013**: Vampire Dragon (FR) |
-| 15:15 | **Scentoftea**: Sea Slug (R), Admin Abuse Egg | **Honeymochi_oo**: Jellyfish (FR) |
-| 15:15 | **Klaysi_flayra**: Icy Porcupine ×4, Summer Walrus, River Otter, Tree Sasquatch, Galapagos Sea Lion, Chick, Patchy Bear, Lobster, Turtle Doves ×2, Mistletroll, Arctic Hare, Zeopod ×2, Zebra | **frecalsplogeok9**: Ride-A-Pet Potion |
-| 15:15 | **jplubn**: Frost Dragon (FR), Matcha Cat (NR), Field Mouse ×3, Copycat | **Reterirbair1989**: Parrot (NFR) |
-| 15:15 | **Tigarisgod**: Evil Unicorn (FR), Goose | **picklesyumyy**: Shark Puppy (MFR) |
-| 15:15 | **lolmeits_lisa2**: Pupcicle | **yourmyrara**: Ride-A-Pet Potion |
-| 15:15 | **6evesvokhaha**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **KenyaSharp**: Ghost Chick (MFR) |
-| 15:15 | **victoriano_secreto**: Swan (MFR) | **Aslie_17**: Strawberry Tortle (FR) |
-| 15:15 | **vxzzz632**: Rain Hat, Heart Bow, Jester Hat, Gold Tiara | **elys_qn**: Rain Boots |
+| 15:25 | **berrys_kittys**: Unicorn Horn, Pancake Stack ×2 | **Celia4160**: Sugar Glider |
+| 15:25 | **liekexxmx**: Balloon Unicorn (FR), Chocolate Dutch Guinea Pig (N), Ghostly Cat (M) | **yan_heso030**: Siamese Cat (MFR) |
+| 15:25 | **icedmatchayummy**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Lost_inTheCl0uds**: Lunar Tiger (MFR) |
+| 15:25 | **Elis_thxx**: Chocolate Chip Bat Dragon (R), Munchkin Cat, Ride-A-Pet Potion | **Mimismila8**: Arctic Reindeer (FR), Fly-A-Pet Potion |
+| 15:25 | **milaneza_TvT**: Kitty Bat (FR) | **Mary_202401**: Pupcicle |
+| 15:25 | **Doro4ka0015**: Chihuahua ×3 | **kamiwasredeemed**: Dango Penguins |
+| 15:25 | **mambysx**: Eggnog Hare (MR) | **yorkshire602**: Eggnog Hare (N), Eggnog Hare ×11, Boohoo (M), Lunar Tiger (N) |
+| 15:25 | **LPPlay42302**: Strawberry Shortcake Bat Dragon (NFR), Copycat (N), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **sigmaizzmailovvvv2**: Parrot (FR) |
+| 15:25 | **viivieraa**: Winter Fawn (N), Arctic Hare (N), Poodle (N), River Otter (N) | **irishazu_2014**: Ride-A-Pet Potion |
+| 15:25 | **literallygummy**: Polar Bear | **LATTEYOU_NG**: Propeller Hat, Bunch Of Balloons, White Chef Hat |
+| 15:25 | **akzoad**: Owl (FR) | **iiPurplegalaxy127**: Alley Cat (MFR), Lamb (MFR), Chocolate Dutch Guinea Pig (MFR), Turtle (FR), Kangaroo (FR), Strawberry Tortle, Candicorn (R) |
+| 15:25 | **nikiph9w**: Border Collie (MFR) | **vikatopchik_00**: Owl (FR) |
+| 15:25 | **Meow7121**: Paint Sealer ×4 | **V0RTI0X3TINEE**: Rosy Maple Moth |
+| 15:25 | **bnnysiie**: Ride-A-Pet Potion ×4 | **hirwuiko**: Pupcicle ×4 |
+| 15:25 | **KAGURACHAN1234**: Skelicorn (MR), Stray Cat Dragon (N), Pupcicle | **doiii_yen**: Pupcicle (N) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
