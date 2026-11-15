@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 10:55 UTC by the scrape workflow._
+_Updated 2026-11-15 11:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-15 10:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 5 | 35,399 | 2026-11-15T10:45 |
-| elve | 5 | 7,643 | 2026-11-15T10:45 |
+| amvgg | 5 | 35,643 | 2026-11-15T11:00 |
+| elve | 5 | 7,731 | 2026-11-15T11:01 |
 
-## AMVGG completed trades: 18,211 total
+## AMVGG completed trades: 18,228 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 2,067 |
+| 2026-11-15 | 2,084 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 10:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:55 | **09tz7**: Spring Bunny Hood, Fly-A-Pet Potion | **Arsik_Barsik55505**: Copycat |
-| 10:55 | **yasukie7u7**: Chocolate Dutch Guinea Pig (M) | **510478**: Angel Wings |
-| 10:55 | **ThePrincessGamerYTC**: 2D Doggy (N) | **AdoptMeHere03**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 10:55 | **Gillit_ariii**: Moon Rabbit (MFR), Ride-A-Pet Potion ×8, Fly-A-Pet Potion, Mistletroll (N) | **Niruch_Bearly**: Sugar Glider (FR) |
-| 10:55 | **pokoe_tawer**: Siamese Cat (R), Pine Marten (MR), Yule Log Dog, Ride-A-Pet Potion, Cotton Candy Hat | **LacienegaRodriguez20**: Fairy Bat Dragon (FR) |
-| 10:55 | **Naianora**: Ride-A-Pet Potion ×4 | **XxPastelliox**: Unicorn Backpack |
-| 10:55 | **appl3zinha**: Cryptid (FR), Spring Bunny Feet, Spring Bunny Nose, Alley Cat, Ginger Cat (M), Ms. Muffet (M), White Chef Hat, Eaten Donut, Stray Cat Dragon | **3L1EE**: Copycat (MFR) |
-| 10:55 | **Frdvhev**: Turtle (NFR), Turtle (FR) ×7, Turtle (R) ×3, Red Dutch Guinea Pig (NFR) | **kittycutecat11130**: Crow (FR) ×2 |
-| 10:55 | **girlyXflowerr**: Aurora Fox (FR) | **xgx6702**:  |
-| 10:55 | **Koala_ql**: Werewolf (FR) | **Adoptmelover_lol111**: Kangaroo (FR), Pancake Stack |
-| 10:55 | **Lili58320**: Candicorn (R), Ride-A-Pet Potion ×6 | **rufamayg**: Turtle (R) |
-| 10:55 | **theropywasted**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Viktoria_11942**: Meerkat (FR) |
-| 10:55 | **Idk_justmeloll**: Ride-A-Pet Potion | **Angel382935**: Mochi Meow Tumble Animated Sticker |
-| 10:55 | **s0larzxxxx**: Alpaca, Stitches (M) | **lWeirdPhyscol**: Unicorn Horn |
-| 10:55 | **lynaaa12067**: Stray Cat Dragon (N) | **NenBoxen**: Ride-A-Pet Potion |
+| 11:00 | **warrior_catsmember**: Crocodile (R) | **Ronald_man96**: Amami Rabbit (MFR) |
+| 11:00 | **0Miss_Ellis0**: Jester Dragon (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 11:00 | **Alfie_Albie**: Shadow Dragon (MFR), Mermicorn (FR), Mini Pig (FR) | **IlikeMilk220**: Giraffe (NFR), Bat Dragon (FR) ×2, Alpaca (MFR), Lion Cub (MFR) |
+| 11:00 | **vcloss**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **miuehla**: Subzero Scorpion (MR) |
+| 11:00 | **maani123123**: Pro Ghost Blaster | **Alex_0v02004**: Slimingo Feather Teleporter |
+| 11:00 | **LORDZ_999**: French Bulldog (MFR) | **AH_TONI**: Rhino (MFR) |
+| 11:00 | **lipton_lipton83**: Crocodile (R), Shark Puppy, Ride-A-Pet Potion | **DragonjJDusta107130**: Turtle (FR) |
+| 11:00 | **bigbbl589**: Alpaca (R) | **mikepower240508**: German Shepherd (M) |
+| 11:00 | **yonski_50**: Dire Stag (MR), Skeleton Winged Glider | **wldnsdlrnldudna**: Castle Hermit Crab (M), Ice Cream Cone Hat, Leopard Cat (M) |
+| 11:00 | **younost101001**: Lava Wolf (NR) | **KoTuK_176**: Frost Fury (FR) |
+| 11:00 | **younost101001**: Rhino | **Pineapple_Pasha0**: Ride-A-Pet Potion |
+| 11:00 | **St4r1890241**: Therapy Dog | **xxxtentacion12639**: Eggnog Dog |
+| 11:00 | **akeks_74**: Copycat, French Bulldog (NR), Latte Kitsune, Glacier Moth (R), Cherry Blossom Flower Sticker | **MERCEDESE300COUPE**: Kangaroo (FR) |
+| 11:00 | **24681012141618202213**: Latte Kitsune (R), Spring Bunny Nose | **AdoptMe_noob087**: Ice Cream Cone Hat |
+| 11:00 | **booluqx**: Pig (FR) | **RobWOLF36loxa**: Samoyed (MFR), Cattuccino (M), Stray Cat Dragon (M), Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
