@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-15 05:31 UTC by the scrape workflow._
+_Updated 2026-11-15 05:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-15 05:31 UTC by the scrape workflow._
 | amvgg | 5 | 30,234 | 2026-11-15T05:30 |
 | elve | 5 | 6,618 | 2026-11-15T05:31 |
 
-## AMVGG completed trades: 17,189 total
+## AMVGG completed trades: 17,207 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-15 | 1,045 |
+| 2026-11-15 | 1,063 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
 | 2026-11-12 | 3,742 |
@@ -30,21 +30,21 @@ _Updated 2026-11-15 05:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:30 | **jiheonlover417**: Kangaroo (FR), Lynx (NFR), Skelicorn (MFR), Polar Bear, Unicorn (FR), Swan, Caramelgeist (M), Gemstone Egg | **wskdaks**: Cow (FR) |
-| 05:30 | **elfach3ro_fe0**: Motorized Sofa | **higuysitskobe**: Admin Abuse Egg ×6 |
-| 05:30 | **kwuddles**: Binturong (MFR), Pupcicle (MFR), Spring Bunny Hood | **xqsli0**: Dragonfruit Fox (MFR) |
-| 05:30 | **D_avidOrbit**: Kangaroo (R) | **AL1C3W0RLDD**: Ride-A-Pet Potion ×16 |
-| 05:30 | **Wonderwanderwoman**: Peppermint Penguin (M), Candicorn (M), Aurora Fox (M), Mechapup (M), Pirate Ghost Capuchin Monkey (M), Rose Dragon (M) | **m4rshalI**: Hedgehog (M) |
-| 05:30 | **leblancc99**: Strawberry Shortcake Bat Dragon (R), Gemstone Egg ×3 | **MLAKENF2**: Chocolate Chip Bat Dragon (FR) |
-| 05:30 | **hhhauntedddd**: Cute-A-Cabra, Zombie Chick, Woolly Mammoth, Pterodactyl, Red Fox, Seahorse, Narwhal, Indian Leopard, Ibex | **melynagamer3**: Ride-A-Pet Potion |
-| 05:30 | **ucancallmerumy_0**: Pain au Chat, Pupcake | **JohnOfTheWoods**: Bunny (NFR) |
-| 05:30 | **1luvchloeee**: Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Munchkin Cat ×2, Christmas Pudding Pup (R) | **LeedleX_X**: Dalmatian (FR) |
-| 05:30 | **hhhauntedddd**: Frankenfeline (M), Count Slothula, Undead Elk (N) ×3, Zombie Chick (N) ×2, Patchy Bear (M), Halloween White Mummy Cat (N), Scarecrow Horse (N), Slug (N), Skelicorn (N), Halloween Blue Scorpion (N), Ghost Wolf (N) ×2, Halloween Black Mummy Cat (N) ×2, Basilisk | **lowerbunny**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 |
-| 05:30 | **wenday2212**: Siamese Cat (NFR) | **iangallagher_s1**: Siamese Cat (N) |
-| 05:30 | **XxNekito_KawaiiixX2**: Munchkin Cat (MFR) | **Flaptzyy_16**: Cryptid (FR) |
-| 05:30 | **Shxlliiee**: Unicorn (MFR) | **rfc_kw**: Pupcicle (N) ×2 |
-| 05:30 | **phonky_phonkacc2**: Alpaca (FR) | **duckksoupp**: Munchkin Cat, Border Collie |
-| 05:30 | **Iluvhotcocox**: Cow (FR) | **Preppygirl0308**: Peppermint Penguin (FR), Banana Hat |
+| 05:40 | **jasminesep16**: Bat Dragon (FR) | **amauryleao04trades**: Shrew (MFR), Ring-Tailed Lemur (MFR), Munchkin Cat (MFR), Irish Water Spaniel (MFR), Flaming Fox (MFR), Owlbear (MFR), Honey Badger (MFR), Ballet Swan (MFR), Dragonfruit Fox (MFR), Dango Penguins (MFR), Unicorn Horn, Candyfloss Chick (FR), Choco Penguin (MFR) |
+| 05:40 | **YOKOZ303**: Ice Cube (R), Purrowl (N) | **Kaka_wkalol**: Ride-A-Pet Potion |
+| 05:40 | **rexy_7830**: Rainbow Maker | **Harper_Claw123**: Strawberry Shortcake Bat Dragon (FR) |
+| 05:40 | **chickhobo88**: Thunderfisher (M) ×12, Shadow Wings | **Fbrleey**: Flash Weasel (R) |
+| 05:40 | **annxcheese**: Pupcicle ×2 | **glittermarga**: Dango Penguins |
+| 05:40 | **honeydew_pancakes101**: Fly-A-Pet Potion | **xgx6702**: Pupcicle ×2 |
+| 05:40 | **slf_dstruct**: S'mores Raccoon (N), Bubblegeist (N) | **Thebossoflaughter**: Spring Bunny Hood |
+| 05:40 | **murashra**: Ride-A-Pet Potion | **nikkidapandagirl133**: Pupcicle |
+| 05:40 | **D1Yn_Flake**: Shadow Dragon Ducky (NFR), Blue Jay (MR) | **Adore_Pandaz**: Ring-Tailed Lemur (FR) |
+| 05:40 | **anni_Dragin**: Owl (R) | **pokoy_pokoy**: Border Collie (MFR) |
+| 05:40 | **Power27red**: Pupcicle | **Adore_Pandaz**: Unicorn |
+| 05:40 | **Urfavorite1225**: Unicorn (NFR), Copycat (R) | **Sforsskyz**: Dango Penguins (NFR) |
+| 05:40 | **FlyToTheSaturn**: Wolpertinger ×3, Walrus, Stingray ×3, Tasmanian Tiger ×4, Ground Sloth ×4, Bandicoot ×3 | **melynagamer3**: Ride-A-Pet Potion |
+| 05:40 | **Fan_deJennaO**: Velocirooster | **unicornpower140909**: Ride-A-Pet Potion ×4 |
+| 05:40 | **tilouqc**: Copycat (NFR), Tuxedo Cat, Zombie Wolf, 2D Doggy, Icey Aura, Peahen | **ghljg7**: Cow (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
