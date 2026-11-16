@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 06:01 UTC by the scrape workflow._
+_Updated 2026-11-16 06:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 06:01 UTC by the scrape workflow._
 | amvgg | 6 | 30,498 | 2026-11-16T06:00 |
 | elve | 6 | 6,495 | 2026-11-16T06:01 |
 
-## AMVGG completed trades: 22,890 total
+## AMVGG completed trades: 22,916 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 815 |
+| 2026-11-16 | 841 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 06:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:00 | **gabdoptme**: Fly-A-Pet Potion | **Rootviles**: Cerberus (R), Skelicorn, Stray Cat Dragon, Bubblegeist, Electric Hornet |
-| 06:00 | **U_sulla**: Fly-A-Pet Potion ×3 | **bacon_lless**: Ride-A-Pet Potion ×5 |
-| 06:00 | **jirovx0**: Clownfish (M) | **mmmaattthhheeeooo**: Ride-A-Pet Potion ×4 |
-| 05:55 | **luvyerh**: Candyfloss Chick (FR) | **mostknowniconduh**: Pig (FR), Munchkin Cat |
-| 05:55 | **kindaOwOmeal**: Christmas Pudding Pup (MFR) | **funbunicake**: Burger Bear (M), Candicorn (NFR), Halo, Tiny Wings, Head Chef |
-| 05:55 | **limohq**: Copycat | **joker7_77**: Ride-A-Pet Potion ×6 |
-| 05:50 | **kdkejwjsjd**: Parrot (NFR), Evil Unicorn (FR) | **hanb3ki**: Buzzing Honeypot Hat, Queen Bee Slippers, Hive Backpack, Cherry-On-Top, 2022 Birthday Cupcake Shoes, Halo, Giraffe Backpack, Rainbow Maker, Mechapup (R), Ride-A-Pet Potion |
-| 05:50 | **Ramensushis**: Fly-A-Pet Potion, Amami Rabbit ×2, Shetland Pony White | **Myobap**: Happy Clam |
-| 05:50 | **m4rshalI**: Shadow Dragon (NFR) | **Kiara_off1cial**: Bat Dragon (FR), Frostbite Bear (FR), Fallow Deer (NR), Haetyphoon (NFR), Dragonfruit Fox (M), Goose (NFR), Flash Weasel (NR), Mule (NR), Puffer Fish (NR) |
-| 05:50 | **pwaranoiia**: Aurora Fox (NR), Latte Kitsune (N), Tiny Wings | **MichaelDASIGMA**: Owlbear (NFR), Moon Rabbit (MR), Amami Rabbit (N), Water Rabbit (N) ×2, Amami Rabbit (NR), Rain Boots |
-| 05:50 | **ohinam**: Pet Handler Pro Certificate ×7, Ride-A-Pet Potion | **wsxzzq0**: Albino Monkey (FR) |
-| 05:50 | **bubblegumrian**: Ride-A-Pet Potion ×16 | **feliandfio**: Fly-A-Pet Potion ×9 |
-| 05:50 | **aabeeyg**: Admin Abuse Egg ×4, Soulfire Animated Sticker ×2, Ermine, Yellow Designer Backpack | **BOLK_998**: Cherry Blossom Flower Sticker ×9, Cherry Blossom Tree Sticker ×9 |
-| 05:50 | **snwopii**: Christmas Pudding Pup | **YaGurlisHereNow**: Copycat (FR) |
-| 05:50 | **adrix_n0tFound**: Ride-A-Pet Potion ×6 | **limohq**: Copycat |
+| 06:10 | **Plagu3Dctr87**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×6, Turtle (FR) | **iaMatthieu1**: Goose (FR) |
+| 06:10 | **MistyRED0**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×2, Arctic Fox (R) | **Httpslovels**: Kangaroo (FR) |
+| 06:10 | **Hungry_Sleppy**: Red Fox, Kage Crow, Pandaguin Glooptodog | **vryxsian**: Turtle Doves, Mrs. Whiskerpips, Eggnog Hare |
+| 06:10 | **ashplayingrobloxwith**: Ring-Tailed Lemur (FR), Fly-A-Pet Potion | **pretty_xx1206**: Goat (FR) |
+| 06:10 | **wyqudwhjahwd**: Ride-A-Pet Potion | **thunderzjn**: Cotton Candy Hat, Love Letter |
+| 06:10 | **ElRambom_900**: Shark Puppy (FR), Fly-A-Pet Potion | **Sains9811**: Lion (FR) |
+| 06:10 | **vryxsian**: Admin Abuse Egg ×18 | **hellokittyjosi**: Ride-A-Pet Potion |
+| 06:10 | **Abilka_lololoshka2**: Ride-A-Pet Potion ×3 | **Coralmnm**: Alley Cat (FR) |
+| 06:10 | **Epic777378**: Turtle (FR) | **Lunaflower2020**: Kangaroo (FR), Fly-A-Pet Potion ×3 |
+| 06:10 | **Princenezha23**: Strawberry Shortcake Bat Dragon (FR) | **impiggyomggggggggggg**: Brown Bear (MFR) |
+| 06:10 | **Zetian_Empress**: Ribbon Seal (M), Shetland Pony White, Cassowary, Ibis, Yellow Butterfly, Aye Aye (N), Red Cardinal, Blue Butterfly, Bluebottle Fly ×2, Armadillo, Flying Fish, Hopbop, Piranha, Sado Mole, Lunar Ox, Admin Abuse Egg ×2 | **joker7_77**: Ride-A-Pet Potion |
+| 06:10 | **FruitcakeSEALS**: Haetae (NFR), Alley Cat (NFR) | **Lpoopbxhe**: Strawberry Tortle (NFR), Cryptid (FR), Haetae (FR), Chocolate Chip Bat Dragon (FR) |
+| 06:06 | **danyypizza121**: Science Hat, Energy Aura Feet | **Paifrennnn**: Ride-A-Pet Potion |
+| 06:06 | **evqsia**: Kookaburra (N), Flamingo (R) | **LoriDreamy123**: Alpaca (FR) |
+| 06:06 | **FuzzykittenPl4yz**: Blue Whale (MR) | **DrizzledTxffee**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
