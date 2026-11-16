@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 23:10 UTC by the scrape workflow._
+_Updated 2026-11-16 23:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 23:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 46,597 | 2026-11-16T23:00 |
-| elve | 6 | 10,039 | 2026-11-16T23:01 |
+| amvgg | 6 | 46,836 | 2026-11-16T23:15 |
+| elve | 6 | 10,088 | 2026-11-16T23:16 |
 
-## AMVGG completed trades: 25,957 total
+## AMVGG completed trades: 25,974 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,882 |
+| 2026-11-16 | 3,899 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 23:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:10 | **Omar2002548**: Tortuga de la Isla, Ride-A-Pet Potion, Skelicorn ×2, Stitches ×4, Stray Cat Dragon, Fire Foal ×5, Tree Sasquatch ×4 | **TheArticFox_0**: Tortuga de la Isla |
-| 23:10 | **takdjo_zhenia**: Haetyphoon | **Omgurthebest9**: Elephant (FR) |
-| 23:10 | **7mzlx**: Skelicorn (N) | **0MGSARAY**: Paint Sealer ×5 |
-| 23:10 | **camiilita_7w7**: Burger Bear (M), Dragonfruit Fox | **ADOPTME_TRADE596**: Lion Cub (FR), Sheeeeep (R) |
-| 23:10 | **Fan_deJennaO**: Turtle (FR) | **Nasty_7392**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 |
-| 23:10 | **racatelas2000**: Cryptid (NFR), Copycat | **lba_fofe**: Strawberry Shortcake Bat Dragon (FR) ×4 |
-| 23:10 | **1tsHIM2007**: Ice Cream Cone Hat, Head Chef, Banana Hat | **lauraqueijobr198**: Yule Log Dog (NFR) |
-| 23:06 | **Robloxianr5w0v2u2i**: Ride-A-Pet Potion ×2 | **alexgameminecraft**: Hippo (N) |
-| 23:06 | **d0list3**: German Shepherd (MFR) | **closethedoorbruh**: Ghostly Cat (M), Cozy Mistletroll (M), Spring Bunny Nose, Great Pyrenees (N), Rain Boots, Banana Hat |
-| 23:06 | **L0vinchloe**: Tuxedo Cat (N), Candicorn (R), Pet Handler Pro Certificate | **kits_Sc**: Tuxedo Cat (MFR) |
-| 23:06 | **dozyzen**: Pig (FR) | **ABIGAILSXOVIBE**: Pupcicle (N), Unicorn (NFR) |
-| 23:06 | **dozyzen**: Werewolf (FR) | **mlrxhy**: Flamingo (FR) |
-| 23:06 | **XxSkybatdragonxX**: Golden Lettuce | **Kittyqueen052411**: Crystal Egg ×18 |
-| 23:06 | **FixClutch**: Dragon Breath Animated Sticker ×2, Crystal Egg | **LostKeksik**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 23:06 | **Chicken_Drumsticksss**: Fly-A-Pet Potion ×3 | **hexyzbagoc31**: Ride-A-Pet Potion ×5 |
+| 23:15 | **Edwinisme4th**: Jacobin Pigeon (M), Golden Griffin, Shiba Inu, Starfish | **SovertinhaGelada**: Retired Egg ×18 |
+| 23:15 | **ddolls1nss**: Arctic Reindeer (MFR), Bat Dragon (FR), Frost Unicorn (MFR), Evil Unicorn (NFR), Parrot (FR), Munchkin Cat (MFR), Munchkin Cat (MR), Evil Unicorn (FR), Frost Dragon (F) | **Lollipop_19169**: Giraffe (MFR) |
+| 23:15 | **1an4hn**: Polar Bear (R), Fly-A-Pet Potion, Chihuahua | **orbit_veil**: Goat (R) |
+| 23:15 | **TANSKlN**: Fairy Bat Dragon (MFR), Fairy Bat Dragon (FR) ×2, Fairy Bat Dragon (R), Fairy Bat Dragon ×2, Turtle (FR), Arctic Fox (R), Ride-A-Pet Potion, Fly-A-Pet Potion | **Gretavorxd**: Chocolate Chip Bat Dragon (NFR), Chocolate Chip Bat Dragon (N), Chocolate Chip Bat Dragon (FR) ×2 |
+| 23:15 | **luvyerh**: Shark Puppy (R) | **ShyberryX3**: Pig (FR) |
+| 23:15 | **patasconqueso242**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Fan_deJennaO**: Giant Anteater |
+| 23:15 | **Theo839287**: Siamese Cat (FR) | **lola_bear1995**: Grim Dragon (FR) |
+| 23:15 | **angellswiings**: Peppermint Penguin (MFR) | **shailalovesjesus**: Mini Pig (MFR) |
+| 23:15 | **MistletoeMeg**: Ice Cream Cone Hat, Goth Shoes, Pancake Stack | **Thecupofkindness**: 2022 Birthday Party Horn |
+| 23:15 | **1Biahsz_altx**: Fly-A-Pet Potion | **princessunipanda76**: Halloween White Mummy Cat (MFR) |
+| 23:15 | **BirdsAreSmarterThanU**: Munchkin Cat (NFR), Glacier Moth (R), Harp Seal (N), Tarantula (MR), Fly-A-Pet Potion, Pancake Stack, Cotton Candy Hat | **princessunipanda76**: Border Collie (NFR) |
+| 23:15 | **renalavani**: White Choccybunny (M) | **luni1234990567**: Ride-A-Pet Potion |
+| 23:15 | **beatsvic**: Leopard Shark (MFR), Harp Seal (MFR), Candy Hare (MFR), Water Rabbit (MFR), Moon Rabbit (MFR), Black Springer Spaniel (MFR), Chihuahua (MFR) | **Meowkittiikat**: Siamese Cat (MFR) |
+| 23:15 | **taigo77**: Pig | **squirtle_Adoptmemi**: Jester Dragon (FR) |
+| 23:15 | **monsterdiedoll**: Ride-A-Pet Potion ×4 | **truerulaa**: Unicorn Backpack |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
