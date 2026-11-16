@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 00:25 UTC by the scrape workflow._
+_Updated 2026-11-16 00:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 00:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 25,010 | 2026-11-16T00:15 |
-| elve | 6 | 5,456 | 2026-11-16T00:16 |
+| amvgg | 6 | 25,260 | 2026-11-16T00:30 |
+| elve | 6 | 5,495 | 2026-11-16T00:31 |
 
-## AMVGG completed trades: 22,167 total
+## AMVGG completed trades: 22,187 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 92 |
+| 2026-11-16 | 112 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 00:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:25 | **zafe28**: Shadow Dragon (MFR) | **xiadoilla**: Bat Dragon (NFR), Giraffe (FR), Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon, Chocolate Chip Bat Dragon (R), Hedgehog |
-| 00:25 | **nibrian15**: Water Rabbit (N) | **cupid_bow2**: Happy Clam |
-| 00:25 | **Kattyloni**: Chihuahua ×2, Ride-A-Pet Potion | **Dasty0303**: Pupcicle ×2 |
-| 00:25 | **ch0cl3tp4nc4k3z**: Arctic Reindeer (FR) | **TheZ23v1**: Diamond Butterfly (FR), Spring Bunny Hood, Phoenix (NFR) |
-| 00:25 | **Katarinamartino**: Ride-A-Pet Potion ×2 | **buang2oo**: Fly-A-Pet Potion, Magma Moose |
-| 00:25 | **Uni11corn90**: Siamese Cat (MFR), S'mores Raccoon (M), Unicorn Horn, Dragonfruit Fox (N), Dragonfruit Fox, Copycat | **Lee_angel666**: Owl (FR) |
-| 00:25 | **cherrymoon4441**: Hot Doggo (FR), Werewolf (R) | **sopita2602xd**: Diamond Butterfly (FR), Ride-A-Pet Potion |
-| 00:25 | **Minnyclark**: Cow Loves This Sticker | **Kir4kaaa**: Bubblegeist |
-| 00:25 | **Star_accdeleted3**: Glacier Kitsune (NFR) ×2, Jester Dragon (N), Arctic Dusk Dragon (NFR), Blue Dog, Ranger Beaver (M), Sweetheart Rat (NR), Mule, Ghostly Cat (N), Sasquatch (N), Caelum Cervi (R) | **SkaterPlayzQueen2016**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Pet Handler Pro Certificate |
-| 00:25 | **xuanshenzen**: Giant Panda (FR) | **EtrnlSunshiine**: Crow (FR), Munchkin Cat |
-| 00:25 | **WhiteBoy19**: Christmas Spirit (M) | **bobaa_m**: Burger Bear (N), Vanilla Penguin, Cotton Candy Hat |
-| 00:25 | **austinbest123**: Parrot (FR), Crow (FR), Puffin (MFR), Unicorn Horn | **chrisslayer1000**: Strawberry Shortcake Bat Dragon (MFR) |
-| 00:25 | **Bunniixkayy**: Shadow Dragon Animated Sticker, Super Saru Animated Sticker, Butter Knife | **ihitmyheadonwalls2**: Pupcicle ×3 |
-| 00:25 | **chewbxrry**: Retired Egg ×3 | **fasenocturna**: Ant ×9 |
-| 00:25 | **baby_sosabackup**: Dalmatian (FR), Siamese Cat (FR) | **Jimmyjon_JRJR**: Hedgehog (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
+| 00:30 | **buriedhimintokyo**: Evil Unicorn (FR), Cabbit (FR), Siamese Cat (FR) | **TMDung20**: Crow (FR) |
+| 00:30 | **Iovefromeva**: Siamese Cat (NR) | **SelfDestructMetal**: Munchkin Cat (NR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×11 |
+| 00:30 | **AltforamvggBre1**: Puptune (N) | **OliviaOmega58**: Fly-A-Pet Potion |
+| 00:30 | **0nlyMeBri**: Christmas Pudding Pup (NR), S'mores Raccoon (MFR), Alley Cat (MFR), Dragonfruit Fox (MFR), Rain Cloud Hat, Toaster Hat, Tiny Wings ×2, Spring Bunny Hood, Unicorn Backpack, Pet Handler Pro Certificate ×2, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Blue Butterfly Wings | **mamadmasa010**: Owl (FR) |
+| 00:30 | **HOONMINLIXGYU**: Ride-A-Pet Potion ×2 | **adoptmejourney83**: Propeller Hat |
+| 00:30 | **Fxderchen2**: Fly-A-Pet Potion | **ch0colatadafresca**: Pupcicle ×2 |
+| 00:30 | **T3bas1**: Frost Fury (FR) ×2 | **N0ugatt**: Shark Puppy (FR) |
+| 00:30 | **Veraca2900**: Ride-A-Pet Potion | **L0velyEclair**: Crystal Egg ×17 |
+| 00:30 | **SadiSadie3**: Mini Pig (R) | **camiilita_7w7**: Hot Doggo (FR), Ride-A-Pet Potion ×2 |
+| 00:30 | **Alyssaok_2000**: Pupcicle ×2 | **FlowersAreTheBest_16**: Dragonfruit Fox, Dango Penguins |
+| 00:30 | **AmberCrystalPlayz**: Alicorn (N) ×2, Alicorn ×4 | **blushbyelle**: Pupcicle |
+| 00:30 | **aleks2u**: Dalmatian (FR) | **Dgz_2222**: Fairy Bat Dragon (NFR) |
+| 00:30 | **Paletazow**: Bat Dragon (FR) ×2, Turtle (FR) | **Justformoneybrolol**: African Wild Dog (MFR), Tiny Wings |
+| 00:30 | **hiimsolucky123**: Sheeeeep (MFR), White Chef Hat | **tu_tocina93**: Silverback Gorilla (MFR) |
+| 00:30 | **ricardougu**: Pupcicle ×5 | **xyza_starsmonica**: Frost Fury |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
