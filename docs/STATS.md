@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-16 01:40 UTC by the scrape workflow._
+_Updated 2026-11-16 01:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 12 | 2026-11-11T1036Z | 2026-11-15T0245Z |
+| elve | 13 | 2026-11-11T1036Z | 2026-11-16T0145Z |
 | amvgg | 27 | 2026-11-11T1036Z | 2026-11-15T2145Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 26,254 | 2026-11-16T01:30 |
-| elve | 6 | 5,682 | 2026-11-16T01:31 |
+| amvgg | 6 | 26,496 | 2026-11-16T01:45 |
+| elve | 6 | 5,703 | 2026-11-16T01:45 |
 
-## AMVGG completed trades: 22,365 total
+## AMVGG completed trades: 22,367 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 290 |
+| 2026-11-16 | 292 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,8 @@ _Updated 2026-11-16 01:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:45 | **realEzra295**: Pupcake | **Xaomao0o**: Chihuahua |
+| 01:45 | **AmberChiChii**: Snow Monkey ×2, Leopard Shark, Ride-A-Pet Potion | **pssixotrop**: Christmas Pudding Pup |
 | 01:40 | **camiilita_7w7**: Siamese Cat (R), Ice Cream Stroller | **gracedontrllycare**: Pupcicle (M) |
 | 01:40 | **reaper_pickles**: Blue Boohoo Mega Neon Paint, Velvet Fuchsia Mega Neon Paint | **themudwizard**: Ride-A-Pet Potion |
 | 01:40 | **fiwncbsk**: Hamster (MFR) | **smudgepuffs**: Fly-A-Pet Potion ×3 |
@@ -44,28 +46,26 @@ _Updated 2026-11-16 01:40 UTC by the scrape workflow._
 | 01:36 | **k5ijo**: Arctic Dusk Dragon | **Wockillzzz2**: Fly-A-Pet Potion ×3 |
 | 01:36 | **Jhonell_ROBLOX**: Ride-A-Pet Potion | **memoriesd4n**: Elf Hat |
 | 01:36 | **StreamSlimeCraze2016**: Moon Rabbit (MFR), Amami Rabbit (MR), Hare (NR), Lava Wolf (NR), Great Pyrenees (MR), Ride-A-Pet Potion, Bready Necklace, Butter Knife | **shortygirlshania**: Chocolate Chip Bat Dragon (FR) |
-| 01:36 | **amnadastuven**: Coyote (R), Criosphinx, Pupcicle ×4, Waffle Wagon, Gingerbread Wings | **ded_valera9586**: Copycat |
-| 01:36 | **reaper_pickles**: Candyfloss Mega Neon Paint, Halloween Slime Mega Neon Paint | **lowerbunny**: Ride-A-Pet Potion |
 
-## Elvebredd value changes: 61,917 since 2023-09-16
+## Elvebredd value changes: 62,042 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-15 01:40 | Flash Weasel | mega fly ride | 336 | 320 |
-| 2026-11-15 01:40 | Flash Weasel | neon fly ride | 80 | 76 |
-| 2026-11-15 01:40 | Flash Weasel | default no potion | 18.5 | 17.5 |
-| 2026-11-15 01:40 | Haetyphoon | mega fly ride | 352 | 336 |
-| 2026-11-15 01:40 | Haetyphoon | neon fly ride | 84 | 80 |
-| 2026-11-15 01:40 | Haetyphoon | default no potion | 19.5 | 18.5 |
-| 2026-11-15 01:40 | Copycat | mega fly ride | 150 | 146 |
-| 2026-11-15 01:40 | Copycat | neon fly ride | 37 | 36 |
-| 2026-11-15 01:40 | Copycat | default no potion | 8.25 | 8 |
-| 2026-11-15 01:40 | Jester Dragon | mega fly ride | 132 | 128 |
-| 2026-11-15 01:40 | Jester Dragon | neon fly ride | 33 | 32 |
-| 2026-11-15 01:40 | Jester Dragon | default no potion | 7.5 | 7.25 |
-| 2026-11-15 01:40 | Amethyst Penguin | mega fly ride | 2304 | 2272 |
-| 2026-11-15 01:40 | Amethyst Penguin | neon fly ride | 566 | 558 |
-| 2026-11-15 01:40 | Amethyst Penguin | default fly ride | 140 | 138 |
+| 2026-11-16 01:00 | Mighty Haetyphoon Animated Sticker | default no potion | 2 | 1 |
+| 2026-11-16 01:00 | Flash Weasel | mega fly ride | 320 | 312 |
+| 2026-11-16 01:00 | Flash Weasel | neon fly ride | 76 | 74 |
+| 2026-11-16 01:00 | Flash Weasel | default no potion | 17.5 | 17 |
+| 2026-11-16 01:00 | Haetyphoon | mega fly ride | 336 | 320 |
+| 2026-11-16 01:00 | Haetyphoon | neon fly ride | 80 | 76 |
+| 2026-11-16 01:00 | Haetyphoon | default no potion | 18.5 | 17.5 |
+| 2026-11-16 01:00 | Copycat | mega fly ride | 146 | 138 |
+| 2026-11-16 01:00 | Copycat | neon fly ride | 36 | 34 |
+| 2026-11-16 01:00 | Copycat | default no potion | 8 | 7.5 |
+| 2026-11-16 01:00 | Jester Dragon | mega fly ride | 128 | 120 |
+| 2026-11-16 01:00 | Jester Dragon | neon fly ride | 32 | 30 |
+| 2026-11-16 01:00 | Jester Dragon | default no potion | 7.25 | 7 |
+| 2026-11-16 01:00 | Latte Kitsune | mega fly ride | 64 | 60 |
+| 2026-11-16 01:00 | Latte Kitsune | neon fly ride | 15 | 14 |
 
 ## AMVGG value changes: 7,759 since 2026-06-02
 
