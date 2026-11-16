@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 21:46 UTC by the scrape workflow._
+_Updated 2026-11-16 21:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 21:46 UTC by the scrape workflow._
 | amvgg | 6 | 45,363 | 2026-11-16T21:45 |
 | elve | 6 | 9,818 | 2026-11-16T21:45 |
 
-## AMVGG completed trades: 25,718 total
+## AMVGG completed trades: 25,752 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,643 |
+| 2026-11-16 | 3,677 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 21:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:45 | **Angelbatista_me2**: Strawberry Shortcake Bat Dragon (FR) ×5, Pig (FR) | **roblox_user_8676283275**: Cabbit (MFR) |
-| 21:45 | **XxLAPOCHKAxX6**: Gemstone Egg, Cattuccino, Bubblegeist, Diamond Mahi Mahi, Three Blind Mice, Caramelgeist (N) | **kellywxx0**: Ride-A-Pet Potion |
-| 21:45 | **FlyToTheSaturn**: Millionaire Mansion | **ZAIDAX0611**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 21:45 | **hihellohihello6788**: Cabbit (FR), Elephant (FR) | **ambervgils**: Musk Ox (MFR), Chicken (MFR), Platypus (R) |
-| 21:45 | **Sssilivia**: Munchkin Cat (MFR), Turtle (R), Lion, Pig | **Kzzzyx**: Siamese Cat (MFR) |
-| 21:45 | **Troy4thaltforsteal**: Yeti (MFR) | **milanakim12**: Kangaroo (FR) |
-| 21:45 | **NarutoDegenerat**: Fly-A-Pet Potion ×4, Rosy Maple Moth | **jhehugy3te**: Pink Cat (FR) |
-| 21:45 | **arttupppa**: Owl (FR), African Wild Dog (FR), Arctic Reindeer (FR), Diamond Butterfly (FR), Copycat (NR), 2022 Birthday Party Horn | **juzavast**: Chocolate Chip Bat Dragon (MFR) |
-| 21:45 | **AndresPatato**: Puma (M), Donkey (M), Muskrat (M) | **Hii_Lovely83**: Ride-A-Pet Potion |
-| 21:45 | **i111kwm**: Arctic Reindeer (FR), Great Pyrenees (MR), Unicorn (NR) | **furunkl99**: Dalmatian (FR) |
-| 21:45 | **0kayGhoul**: Fly-A-Pet Potion | **boom22877gg**: Pet Handler Pro Certificate |
-| 21:45 | **Famixvx**: Shark | **Larisa_DiecooleSocke**: Unicorn |
-| 21:45 | **Leonaptx**: Kitty Bat (MFR), Spring Bunny Hood | **hsjsjdidhshissihhe**: Rose Dragon (NFR) |
-| 21:45 | **Kristiana201010**: Turtle (FR) ×2, Brown Bear (NR) | **Den_826uhwk**: Strawberry Shortcake Bat Dragon (FR) |
-| 21:45 | **xxXchange_Vibe**: Rainbow Maker | **hharrietq**: Strawberry Shortcake Bat Dragon (FR) |
+| 21:55 | **cirocrack2020**: Turtle (FR), Pig (R), Honey Badger (R), Happy Duckling | **sofiaproooooou**: Mini Pig (R) |
+| 21:55 | **Baconnispagettoni2**: Count Slothula | **BR4Y4N1027**: Pupcicle |
+| 21:55 | **XGiveMeUrFoodX**: Arctic Reindeer (FR) | **Cynor0x**: Goose (R), Ride-A-Pet Potion, Kangaroo (R), Elephant, Purple Butterfly |
+| 21:55 | **Pix3lat3dOm3gaSonic5**: Copycat | **Katie_proshkaa**: Christmas Pudding Pup |
+| 21:55 | **aydachan200311**: Ride-A-Pet Potion ×7 | **PixiePawsTrade**: Fly-A-Pet Potion ×4 |
+| 21:55 | **Pix3lat3dOm3gaSonic5**: Copycat | **mstoevsand**: Christmas Pudding Pup |
+| 21:55 | **marmelat_564**: Pig (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×8 | **Vitek_228666**: Turtle (FR) |
+| 21:55 | **AmandaaX213**: Goldhorn (NFR) | **gamereldark_YT**: Fly-A-Pet Potion ×3 |
+| 21:55 | **Liaaa_sukakucing**: Balloon Unicorn (FR), Cryptid (NFR), Tiny Wings | **Katseye_Fanlaraaaaa**: Haetae (NFR), Pet Handler Pro Certificate |
+| 21:55 | **emmy2baked**: Cow (FR), Frostbite Bear (R), Fly-A-Pet Potion ×2 | **F34x89F**: Strawberry Shortcake Bat Dragon (R) |
+| 21:51 | **vallieo_o**: Chocolate Dutch Guinea Pig (N), Choco Penguin (N), Bee (FR), Aestus | **lolsoqrai46**: Snow Monkey (NR) |
+| 21:51 | **Omar2002548**: Scorching Kaijunior (MFR) | **Ashvr_s0ul9**: Pig, Mechapup, Bald Eagle, Sakura Spirit, Glacier Kitsune, Puffin, Many Mackerel, Giant Gold Scarab, Pineapple Owl |
+| 21:51 | **7H3ST**: Chocolate Chip Bat Dragon (R) ×2, Shark Puppy (FR), Ride-A-Pet Potion ×3 | **Paipapaprapaa**: Cow (FR) ×4 |
+| 21:51 | **ikabackflip**: Yule Log Dog | **Adoptmestocks3000**: Fly-A-Pet Potion |
+| 21:51 | **Starlight_ZolsGirl**: Moon Rabbit (N), Mr. Whiskerpips (N) | **animatownermile3**: Pupcicle ×4 |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
