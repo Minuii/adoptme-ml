@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 21:31 UTC by the scrape workflow._
+_Updated 2026-11-16 21:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 21:31 UTC by the scrape workflow._
 | amvgg | 6 | 45,125 | 2026-11-16T21:30 |
 | elve | 6 | 9,807 | 2026-11-16T21:31 |
 
-## AMVGG completed trades: 25,660 total
+## AMVGG completed trades: 25,697 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,585 |
+| 2026-11-16 | 3,622 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 21:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:25 | **abdoosaad**: Cow (FR) | **peepz10ve5**: Mecha R4BBIT (MR), Gingerbread Reindeer (MFR), Gingerbread Hare (M), Gingerbread Mouse (M) ×2, Green Amazon (MFR), Praying Mantis (MR) |
-| 21:25 | **werreriss0**: Stray Cat Dragon (N) ×2 | **hsjsjdidhshissihhe**: Ride-A-Pet Potion |
-| 21:25 | **Anadreth**: Black Marlin (N) | **LubiVladaA4**: Retired Egg ×12 |
-| 21:25 | **HELENA_GUEMER12494**: Alpaca (R), Pupcicle | **Cynor0x**: Cattuccino (MR), Toaster Hat, Fly-A-Pet Potion ×2, Spring Bunny Hood |
-| 21:25 | **P8D3L**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **aleks2u**: Koala (M) |
-| 21:25 | **closestIovetoheaven**: Unicorn Horn, 2022 Birthday Party Horn, Boohoo (M) | **jokerako28**: Halo |
-| 21:25 | **pivozkranu**: Sugar Axolotl (NFR) | **ambervgils**: Elephant (R), Crocodile (FR), Glormy Dolphin (MR) |
-| 21:25 | **Lynikkswqs**: Cow (R), Ride-A-Pet Potion ×2 | **carolzinhac2009**: Peppermint Penguin (R) |
-| 21:25 | **sofcheke**: Turtle (FR) | **Cynor0x**: Yeti (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×5 |
-| 21:25 | **vegetasggacc1**: Blazing Lion (MFR) | **Addmymainpls2332**: Peppermint Penguin (MFR), Frost Dragon (MFR), 2022 Birthday Cake |
-| 21:25 | **vertaocsi**: Turtle (FR), Fly-A-Pet Potion ×5 | **docedelets**: Cow (FR) |
-| 21:25 | **A_lthought**: Crocodile (FR), Neon Pink Scooter | **Koshiko_Rolo**: Tortoiseshell Guinea Pig (F), Wailing Mr. Whiskerpips Sticker |
-| 21:25 | **wixxoql**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×5 | **docedelets**: Turtle (FR) |
-| 21:25 | **aoqweza**: Ride-A-Pet Potion ×2 | **Polinat72727**: Capricorn, Gargoyle |
-| 21:25 | **xssoulsz**: Strawberry Shortcake Bat Dragon (FR), Cow | **Itsofc_Emilyxx**: Hedgehog (FR) |
+| 21:36 | **crisfarug**: Turtle (FR), Ride-A-Pet Potion | **dmitrylox0**: Frostbite Bear (FR) |
+| 21:36 | **Ellaplayz91206**: Blazing Lion (FR), Shark Puppy (NFR), Fairy Bat Dragon (R) | **SAnnloi**: Dalmatian (NFR) |
+| 21:36 | **ProSpark251**: Pain au Chat (M) | **AutoTradeCommission**: Ride-A-Pet Potion ×8 |
+| 21:36 | **ZafiY_hay**: Crocodile, Fly-A-Pet Potion ×2 | **kasdfoolo**: Border Collie (FR) |
+| 21:36 | **pigizak**: Ice Wolf (MFR), Kookaburra (MFR), Albino Gorilla (MFR), Glormy Hound (MFR), Diamond Hamster (MFR), Chocolate Dutch Guinea Pig (MFR) | **Ashvr_s0ul9**: White Sand Dollar (MFR), French Bulldog (MFR), English Sheepdog (MFR), Dodo (MFR), Leopard Shark (MFR), Golden Chow-Chow (MFR), Gaelic Fae (MFR), Llama (MFR), German Shepherd (M) |
+| 21:36 | **VictoryDW1LOL17**: Kangaroo (FR) | **YTstaro**: Werewolf (FR) |
+| 21:36 | **Maelleblush**: Ant (M), Jumpscare (M), Jacobin Pigeon (M) | **Waq1uxx**: Ride-A-Pet Potion |
+| 21:36 | **Exactoshark**: Caterpillar, Urban Egg, Ice Moth Dragon, Cozy Mistletroll | **knifeandfork_99**: Caterpillar (FR) |
+| 21:36 | **Gmyiluv**: Unicorn Horn | **deadpo0l293**: Red Dutch Guinea Pig (NF), Latte Kitsune, Pet Handler Pro Certificate |
+| 21:36 | **liza_sigma666**: Lion Cub (R), Candicorn (FR), Bobageist (M) | **Imoi716**: Sugar Glider (R), Berry Cool Cube (R) |
+| 21:36 | **noelleroan234**: Chocolate Chip Bat Dragon (MFR), Border Collie (MFR), Winged Tiger (MFR), Black Tiger (M) | **ciafetti**: Cryptid (MFR) |
+| 21:36 | **sneganii**: Fairy Bat Dragon (FR), Pig (R), Kitty Bat (MFR), Koala (MFR), Fly-A-Pet Potion, Snow Monkey | **trvpstxarz**: Rainbow Maker |
+| 21:36 | **Minimalama0**: Matcha Cat | **1hnfx**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 21:36 | **lowerbunny**: Ride-A-Pet Potion | **gfffgt76**: 2D Doggy |
+| 21:36 | **omarisimo1**: Haetyphoon | **angebrochen**: Aestus (N), Jester Dragon, Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
