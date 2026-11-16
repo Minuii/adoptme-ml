@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 22:31 UTC by the scrape workflow._
+_Updated 2026-11-16 22:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 22:31 UTC by the scrape workflow._
 | amvgg | 6 | 46,129 | 2026-11-16T22:30 |
 | elve | 6 | 9,987 | 2026-11-16T22:31 |
 
-## AMVGG completed trades: 25,873 total
+## AMVGG completed trades: 25,894 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,798 |
+| 2026-11-16 | 3,819 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 22:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:30 | **Vanlyzn26**: Crystal Egg ×14 | **Me0wzaii**: Ride-A-Pet Potion |
-| 22:30 | **CMETAHA_8892**: Strawberry Shortcake Bat Dragon (FR), Butter Knife | **Alisa_R00**: Cow, Siamese Cat (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Bready Necklace |
-| 22:30 | **FLOCHU77**: Christmas Pudding Pup | **Alisa_R00**: Goat |
-| 22:30 | **JPrincipeS09**: Ride-A-Pet Potion | **Kittyqueen052411**: Crystal Egg ×16 |
-| 22:30 | **hugomolly1**: Blazing Lion (FR), Albino Monkey (FR), Chimera (NFR), Yule Log Dog, Candy Hare, Royal Capuchin Monkey, Mistletroll (M), Magpie (M), Shetland Pony Dark Brown (N), Christmas Future Egg, Southeast Asia Egg, Japan Egg, Blue Skateboard, Scarebear, Eggnog Dog (N) | **poortorichday32**: Parrot (FR) |
-| 22:30 | **Sug4rspr1nklessss**: Mini Pig, Goose (R), Cabbit (FR), Munchkin Cat (R) | **Valerieumie**: Cryptid (FR) |
-| 22:30 | **Chickengigi6**: Kangaroo (NFR) | **Tandpastatub_e**: French Bulldog (MR), Mini Schnauzer (MR), Temple Friend (NR) |
-| 22:30 | **Twitterbadaf**: Fairy Bat Dragon (MFR), Latte Kitsune (MFR), Mini Pig (FR), Cabbit (NFR) | **austinbest123**: Mini Pig (MFR) |
-| 22:30 | **ADOPTME_TRADE596**: Border Collie (MFR) | **elliegrindingxx**: Siamese Cat (M), Jester Dragon (NFR), Werewolf (FR), Ice Cream Cone Hat, Dragon (M), Sea Turtle (M) |
-| 22:30 | **CcLuims011x**: Cattuccino (M) | **Adoptmestocks3000**: Ride-A-Pet Potion ×2 |
-| 22:30 | **Yumi_Rose8**: Crystal Egg ×5 | **noemihgvgv**: Retired Egg ×10 |
-| 22:30 | **TiffanyKimberIy**: Snowball Pet (MFR) | **Yourgrandadpullsfr**: Hare (NFR) |
-| 22:30 | **Yumi_Rose8**: Pet Handler Pro Certificate | **AdoptMeIsTheBest8139**: Dango Penguins |
-| 22:30 | **AutumnVibes57**: Copycat | **Aftonsparvsarec00l**: Chinese Lantern, Tea Party Set |
-| 22:30 | **MrsJane07**: Glormy Dolphin (R), Fire Foal (F), Storm Condor (N), Onza (N) | **DrinklngMilk**: Fly-A-Pet Potion |
+| 22:40 | **MYPERSONALHOTSPOT**: Strawberry Penguin | **heladitoooUnU**: Ride-A-Pet Potion ×4 |
+| 22:40 | **MYPERSONALHOTSPOT**: Fly-A-Pet Potion | **exxiexh**: Chihuahua ×3 |
+| 22:40 | **purifiedblessing**: Cheetah (FR) | **squ_evder**: Happy Clam |
+| 22:40 | **ItzLuxic**: Fly-A-Pet Potion ×4, Goat, Hamster (N) | **IDFeelAnything**: Polar Bear (NFR) |
+| 22:40 | **islandicsinger**: Kangaroo (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion | **kaylamicmi**: Arctic Fox (NFR) |
+| 22:40 | **9vvdx**: Balloon Unicorn (FR), Cryptid (FR), Ride-A-Pet Potion ×2 | **iaMatthieu1**: Cryptid (NFR) |
+| 22:40 | **AmandaaX213**: Fly-A-Pet Potion | **Luna5980414**: Ride-A-Pet Potion ×2 |
+| 22:40 | **fifi_kikie**: Albino Monkey (MFR), Toaster Hat | **alexdrosakis**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Leopard Shark (MFR), Shetland Pony Light Brown (MR) |
+| 22:40 | **XxxWaffleChanxxX**: Ice Cream Cone Hat | **trendypopcon**: Spring Bunny Hood, Spring Bunny Feet |
+| 22:40 | **Khmerangel4130**: Kangaroo (MFR), Flaming Zebra, Pudding Cat | **DeanSpnSammy**: Goose (NR) |
+| 22:40 | **baby_brooke2007ban**: Pain au Chat ×2, Bubblegeist | **Amnada202199**: Ride-A-Pet Potion |
+| 22:40 | **Xyzxelle**: Ride-A-Pet Potion ×8 | **OMG4LAV**: Tiny Wings |
+| 22:40 | **aydachan200311**: Ride-A-Pet Potion ×4 | **AnneFabrel2005**: Aussie Egg |
+| 22:36 | **unicorn_land1102pop**: Pig (FR), Chocolate Dutch Guinea Pig, Stitches (N) | **Lerunhi**: Happy Duckling (MFR) |
+| 22:36 | **Bismuth234**: Unicorn Horn, Haetae | **00dolls**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
