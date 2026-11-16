@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 03:01 UTC by the scrape workflow._
+_Updated 2026-11-16 03:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 03:01 UTC by the scrape workflow._
 | amvgg | 6 | 27,757 | 2026-11-16T03:00 |
 | elve | 6 | 5,942 | 2026-11-16T03:01 |
 
-## AMVGG completed trades: 22,533 total
+## AMVGG completed trades: 22,555 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 458 |
+| 2026-11-16 | 480 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 03:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:00 | **ICholestrol**: Goose, Sugar Glider (FR) ×2 | **landenc9970i**: Aestus (MFR) ×2 |
-| 03:00 | **SkaterinDeltat140964**: Turtle (FR) | **La_boyMich15**: S'mores Raccoon (MFR), Bunny Swirl (NFR), Vanilla Penguin, Ride-A-Pet Potion |
-| 03:00 | **winterfoxcold**: Chocolate Chip Bat Dragon (R), Fairy Bat Dragon (NFR), Cow (R) | **Dddana20058**: Parrot (FR) |
-| 03:00 | **cupcake24085**: Jester Dragon, Bat (N) | **Huge_Soda**: Pupcicle ×4, S'mores Raccoon |
-| 03:00 | **raccoonybaloony**: Ride-A-Pet Potion ×2 | **T1REDOFYOUU**: Little Lamb (M), Skelicorn (M) |
-| 03:00 | **adoptmeloverdude13**: Caterpillar, Spring Bunny Hood, Fly-A-Pet Potion | **dardaruni**: Copycat ×3 |
-| 03:00 | **raccoonybaloony**: Ride-A-Pet Potion ×2 | **Apixera**: Cattuccino (M) |
-| 03:00 | **Pebble_llShelly**: Glormy Hound, Glormy Leo, Copycat (NFR), Munchkin Cat (N), Border Collie (R), Christmas Pudding Pup ×2 | **KatesArrow**: Cryptid |
-| 03:00 | **oscarfeo15**: Ride-A-Pet Potion, Gemstone Egg, Party House, Yellow Designer Backpack, Claw Machine Stroller, Swan Stroller, Froggy Stroller | **ClxudsandRxin**: Fly-A-Pet Potion |
-| 03:00 | **Lifesword_PlaysYT**: Vol. 2 Pets Plus Sticker Pack | **ClxudsandRxin**: Ride-A-Pet Potion |
-| 03:00 | **FeMiDaArinochka**: French Bulldog (N), Fairytale Egg ×17 | **Blooddyzsggunsz**: Pupcicle (N) |
-| 03:00 | **Manekie_Nekoo**: Munchkin Cat | **Xxxxashhhh**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 03:00 | **asmornn**: Pupcake (R) | **036daylan**: Ride-A-Pet Potion |
-| 03:00 | **Frs_88xx**: Giant Anteater | **Mallow_07737**: Jester Dragon (FR) |
-| 03:00 | **Iisaya_9**: Jester Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Mallow_07737**: Shiver Wolf (M) |
+| 03:06 | **Hannah_MI989**: Blazing Lion (R) | **DoughnutDucks**: Blazing Lion |
+| 03:06 | **FrostyLife8382**: Frost Phoenix (N) | **dawg1723**: Ride-A-Pet Potion ×9 |
+| 03:06 | **Artem_21a2**: Pancake Stack | **SLLRNSIBLINGS**: Ride-A-Pet Potion, Red Squirrel (R), Great Pyrenees, Mighty Haetyphoon Animated Sticker |
+| 03:06 | **quVare_PDF**: Kangaroo (FR), King Bee (R), Ox Box ×2 | **Artem_21a2**: Flamingo (FR) |
+| 03:06 | **Kinley311yy**: Ride-A-Pet Potion ×2 | **hhhauntedddd**: Oryx (N), Mistletroll (N), Ankylosaurus (N), Fennec Fox (M) |
+| 03:06 | **pushenn112**: Munchkin Cat | **nicolasceci444**: Mono-Moped, Ketchup and Mustard Jetpack, Dogmobile, Bubble Car, Wing Trunk Car, Donut Cycle, Tiffany, Douglas, Traveling House |
+| 03:06 | **ViscaBarca_44**: Haetae | **cowjonathan12**: Evil Unicorn (FR), Turtle (FR) |
+| 03:06 | **Mrbingo_O16**: Pupcicle ×2 | **nicolasceci444**: Neon Blue Scooter |
+| 03:06 | **clalouetciedh**: Unicorn ×2 | **Shara_cool925**: Ride-A-Pet Potion ×2 |
+| 03:06 | **NummieNummiegirl**: Golden Walrus, Diamond Dragon, Diamond Griffin | **leesoyul11111111**: Ride-A-Pet Potion |
+| 03:06 | **NummieNummiegirl**: Kitsune (FR), Bee (N), Alicorn | **anihao17**: Ride-A-Pet Potion |
+| 03:06 | **510478**: Spring Bunny Hood, Goose (R), Fly-A-Pet Potion | **isabella68078**: Flaming Fox (MFR) |
+| 03:06 | **Tomas_will18**: Sunglider (FR) | **asimo52251**: Pupcicle |
+| 03:06 | **MoMtobias**: Crow (FR) | **luxsdomain**: Caterpillar (NFR), Lion (R), Hedgehog (FR) |
+| 03:06 | **DuckyMuffinz**: Ride-A-Pet Potion | **flowerist0w04577**: Paint Sealer ×18 |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
