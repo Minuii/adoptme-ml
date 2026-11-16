@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 00:10 UTC by the scrape workflow._
+_Updated 2026-11-16 00:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 00:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 24,745 | 2026-11-16T00:00 |
-| elve | 6 | 5,394 | 2026-11-16T00:01 |
+| amvgg | 6 | 25,010 | 2026-11-16T00:15 |
+| elve | 6 | 5,456 | 2026-11-16T00:16 |
 
-## AMVGG completed trades: 22,121 total
+## AMVGG completed trades: 22,131 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 46 |
+| 2026-11-16 | 56 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 00:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:15 | **Frog_Cuteyx**: Canadian Goose (MR) | **only4_tt**: Ice Cream Cone Hat |
+| 00:15 | **nikiph9w**: Balloon Unicorn (FR) ×2 | **natalienunnsconcious**: Goose (MFR) |
+| 00:15 | **selensecretacc**: Cow (FR), Fallow Deer, Chocolate Dutch Guinea Pig | **DJ_4348**: Mini Pig (FR) |
+| 00:15 | **N0ugatt**: Matcha Cat | **solariise**: Frost Fury (FR) |
+| 00:15 | **raven5k**: Crocodile (NFR) | **ReadMyCaption4Main**: Kangaroo (NFR), Chocolate Dutch Guinea Pig |
+| 00:15 | **liofe1**: Ice Cream Truck, Chick Backpack | **miraaa4lifeee**: Ride-A-Pet Potion |
+| 00:15 | **moff24**: Frost Fury (NR), Ninja Monkey (NFR), Red Dutch Guinea Pig, Blue Whale (MR) | **arseniylolol**: Turtle (FR) |
+| 00:15 | **docedelets**: Ram (N) | **roxceie**: Ride-A-Pet Potion ×3 |
+| 00:15 | **Exleer**: Retired Egg ×6 | **HORNETPOISON**: Huntsman Robin |
+| 00:15 | **madison_19113**: Snorgle (MFR) | **evescupid**: Alley Cat |
 | 00:10 | **moon_shxdoww**: Ride-A-Pet Potion ×2 | **Itsserena108**: Pomeranian (M), Cotton Candy Hat |
 | 00:10 | **Maryha0243**: Turtle (R) | **usingforamvgg44**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5, Crocodile (R), Scarebear (R) |
 | 00:10 | **FroztedCook31**: Flamingo, Ride-A-Pet Potion | **imfrafreak_justImk**: Unicorn Horn |
 | 00:10 | **AvaNari2010**: Fly-A-Pet Potion ×5 | **Maryha0243**: Phantom Dragon, Ride-A-Pet Potion ×2, Count Slothula |
 | 00:10 | **ssssscliff**: Diamond Unicorn (NFR) | **dnei30fast**: Ride-A-Pet Potion ×2 |
-| 00:10 | **anxiousalyxx**: Ember Wings | **kobii_x**: Jumpscare (M), Boohoo (M) |
-| 00:10 | **Yumi_Rose8**: Admin Abuse Egg ×5 | **SY5225**: Retired Egg ×10 |
-| 00:10 | **waydrown**: Latte Kitsune (R) | **iiis0urx**: S'mores Raccoon (NR) |
-| 00:10 | **mati08proo**: Pain au Chat (N), Pain au Chat | **DreamyDevilina**: Gemstone Egg ×4 |
-| 00:10 | **Illitfofasbr2**: Parrot (FR) | **Froggyblossom90**: Shark Puppy (FR), Pupcicle (N), Aurora Fox (NFR), Goose ×2, Cow (FR), Munchkin Cat, Christmas Pudding Pup (FR) |
-| 00:10 | **Lilly_Happy3006**: Turtle (FR), Rain Cloud Hat, Mini Pig (R), Shark Puppy (F), Candyfloss Chick (R), Frost Unicorn (R), Copycat, Amami Rabbit (N) | **Sankup928**: African Wild Dog (FR) |
-| 00:10 | **eeppdff**: Guardian Lion (FR) | **SelfL0vktwt**: Ride-A-Pet Potion |
-| 00:10 | **ELVEAMVGGTRADER890**: Parrot (FR), Dango Penguins (MFR), Capybara (MFR), German Shepherd (MR), Crocodile (R) | **sara5mohamad**: Frost Dragon (FR) |
-| 00:10 | **arseniylolol**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×3, Burger Boots | **N0ugatt**: Turtle (FR) |
-| 00:10 | **queensisters4l**: Bubblegeist | **Exleer**: Retired Egg ×9 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
