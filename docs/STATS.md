@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 09:39 UTC by the scrape workflow._
+_Updated 2026-11-16 09:48 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 09:39 UTC by the scrape workflow._
 | amvgg | 6 | 33,609 | 2026-11-16T09:38 |
 | elve | 6 | 7,203 | 2026-11-16T09:39 |
 
-## AMVGG completed trades: 23,317 total
+## AMVGG completed trades: 23,335 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,242 |
+| 2026-11-16 | 1,260 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 09:39 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:37 | **Qeendou**: Balloon Unicorn (FR) | **Girldontplaywithme42**: Fairy Bat Dragon (FR) ×3, Swan (MFR), Water Rabbit (MFR), Blue Ringed Octopus (MFR) |
-| 09:37 | **Arlen4uk**: French Bulldog | **Qeendou**: Kiwi, Cattuccino |
-| 09:37 | **sincebravery**: Parrot (FR), Chocolate Chip Bat Dragon (FR), Cow (FR), Jester Dragon, Ride-A-Pet Potion ×4 | **TulipPetal_1**: Frost Dragon (FR) |
-| 09:37 | **adorxelian**: Elephant (R), Lion, Crocodile, Cabbit (R), Strawberry Tortle (FR), Grim Dragon (FR) ×2, Kangaroo (NFR), Bush Elephant (FR), Albino Monkey (R), Unicorn Horn, Dragonfruit Fox (NFR), Goldhorn (MFR) | **kamiqwees**: Frost Dragon (FR) |
-| 09:37 | **Affgfghec**: Balloon Unicorn (FR), Munchkin Cat (MFR), French Bulldog (M) | **uhlinn**: Frost Dragon (FR) |
-| 09:37 | **Vernite_chat0**: Fly-A-Pet Potion | **BELLABELLINHABELLA1**: Ice Cream Hermit Crab |
-| 09:37 | **minnies2007**: Fly-A-Pet Potion | **Princess_AllisonJ**: Chihuahua (N) |
-| 09:37 | **gavinmrgoon**: Dalmatian (FR), Fly-A-Pet Potion | **awx_mili**: Chocolate Chip Bat Dragon (FR), Unicorn Horn |
-| 09:37 | **Omarz_2131**: Strawberry Shortcake Bat Dragon Backpack, Cotton Candy Hat, Chef Hat, Hamster | **baddieshotoclock6699**: Sea Turtle (MFR) |
-| 09:37 | **llya3348**: Ride-A-Pet Potion | **mstq_plays**: Crystal Egg ×17 |
-| 09:37 | **johnpatricktasunci16**: Count Slothula ×17 | **wldnsdlrnldudna**: Rain Cloud Hat |
-| 09:37 | **pulpoflor15**: Winged Horse (FR) | **mstq_plays**: Skelicorn ×12 |
-| 09:37 | **pisapopakakashecki**: Crystal Egg ×18 | **Kir4kaaa**: Ride-A-Pet Potion |
-| 09:37 | **funbunicake**: Dire Wolf, Robot | **vryxsian**: Black-Footed Ferret ×2 |
-| 09:37 | **Inganta07**: Fly-A-Pet Potion ×3 | **Vintage_designs**: Frost Fury (FR) |
+| 09:44 | **RamoneTheRamona**: Cow (FR), Cabbit (R), Diamond Egg ×2, Royal Moon Egg, Royal Fairytale Egg | **beearc_c**: Candicorn (NFR) |
+| 09:44 | **whiplashtempo0**: Dragon (M) | **CMETAHKA_LOVE201074**: Mighty Haetyphoon Animated Sticker, Frostbite Bear and Cub Animated Sticker |
+| 09:44 | **xXxdream0**: Dalmatian (FR), Sea Slug (FR), Chocolate Chip Bat Dragon Backpack | **kipoSan0**: Copycat (NFR), Copycat (NR), Copycat (N) |
+| 09:44 | **Chaz_Kia**: Turtle | **vfiffj574**: Royal Mistletroll (R), Puffer Fish (R) |
+| 09:44 | **dacha_123561**: Latte Kitsune (R), Ride-A-Pet Potion ×2 | **XianYunLove**: Frost Fury (R) |
+| 09:44 | **Wrjttenletters**: Copycat | **awim123**: Mummy Spider (M) ×12 |
+| 09:44 | **carrotsareepic1235**: Rose Dragon (NFR) | **cute_bunny123456p**: Rose Dragon (N), Elf Hat |
+| 09:44 | **XiaoFaye1433**: Kangaroo (FR) | **cicichj**: Haetyphoon, Ride-A-Pet Potion |
+| 09:44 | **ohecknooooooo_Gold**: Shark Puppy, Ride-A-Pet Potion ×3 | **tufvfffdjdg**: Crocodile (FR) |
+| 09:44 | **amnadastuven**: Copycat | **Kir4kaaa**: Frost Fury (FR) |
+| 09:44 | **0XbluehuskyX0**: Parrot (NFR), Owl (FR) | **cakes**: Balloon Unicorn (NFR) |
+| 09:44 | **docedelets**: Mule | **kaiinickk1**: Ride-A-Pet Potion |
+| 09:44 | **RobloxIsLif3z**: Ride-A-Pet Potion ×2 | **anaataccia**: Pain au Chat (N) |
+| 09:44 | **booluqx**: Happy Duckling (MFR), Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×5 | **MATT_2011901**: Cow (FR) |
+| 09:44 | **Umoyaees**: Groundhog (R), Scorching Kaijunior, Golden Hamster | **Gmyiluv**: Spring Bunny Hood, Propeller Hat |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
