@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 10:31 UTC by the scrape workflow._
+_Updated 2026-11-16 10:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 10:31 UTC by the scrape workflow._
 | amvgg | 6 | 34,534 | 2026-11-16T10:30 |
 | elve | 6 | 7,386 | 2026-11-16T10:31 |
 
-## AMVGG completed trades: 23,407 total
+## AMVGG completed trades: 23,434 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,332 |
+| 2026-11-16 | 1,359 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:25 | **limonkaliker**: Count Slothula ×2, Chihuahua | **You_kwin666**: Fly-A-Pet Potion |
-| 10:25 | **zhqwexq**: Haetyphoon (R) | **Niruch_Bearly**: Jester Dragon (FR), Fly-A-Pet Potion ×4 |
-| 10:25 | **Kavai_Summer3**: Crystal Egg ×17, Retired Egg | **sshanao_o**: Ride-A-Pet Potion |
-| 10:25 | **simplyxarv**: Rainbow Maker | **Liza10kis**: Siamese Cat (NFR), Toaster Hat |
-| 10:25 | **beatsvic**: Crow (MFR), Strawberry Tortle (MFR), Lavender Dragon (MFR), Guardian Lion (MFR), Golden Walrus (MFR), Moon Rabbit (MFR), Binturong (MFR), 2022 Birthday Party Hat ×2, Golden Jaguar (MFR) | **okokoknever1**: African Wild Dog (MFR) |
-| 10:25 | **cat_anna2003**: Ginger Cat (N), Toucan (N), Stitches (N), Orca (N), Caramelgeist (N), Diamond Griffin, Three Blind Mice, Purrowl, Pain au Chat | **ddff_j**: Ride-A-Pet Potion |
-| 10:25 | **TheKindAndOnly**: Pupcicle ×2 | **qssbruh**: Fly-A-Pet Potion |
-| 10:25 | **SweetMedicines**: Balloon Unicorn (FR), Fairy Bat Dragon (NFR), Munchkin Cat (FR), Sugar Glider (FR), Siamese Cat (FR) | **sofiaablehh**: Owl (FR), Cabbit (NFR) |
-| 10:25 | **sedamanga212**: Great Pyrenees (M) | **Leviodas**: Ride-A-Pet Potion ×10 |
-| 10:25 | **OBVIXALIX**: Ice Wolf (MFR), Blue Butterfly Wings ×2 | **fluffyunicorns_932**: Moose Calf (MFR) |
-| 10:25 | **jiggle_wiggle132**: Unicorn Horn, Tiny Wings, Ice Cream Cone Hat, Siamese Cat (R), Polar Bear | **ii_aldrin20**: Chocolate Chip Bat Dragon (FR) |
-| 10:25 | **rrqlemonlo**: Turtle (FR) | **Ori0n_Nebula**: Turtle, Ride-A-Pet Potion |
-| 10:25 | **IAMNOTO_KEZ**: Singularity Beetle (M) | **Ilvvech33seburgers34**: Ride-A-Pet Potion ×3 |
-| 10:25 | **peachmango_41**: Unicorn Horn, Pupcicle ×5 | **Babielily1**: 2022 Birthday Party Hat |
-| 10:25 | **ally_28901**: Strawberry Shortcake Bat Dragon (R) | **Elijah_mikaelson1492**: Chocolate Chip Bat Dragon (FR), Sushi Penguin ×2 |
+| 10:41 | **GoldenRiftBlade22**: Jellyfish (MFR) | **Maayas_17alt1**: Jellyfish (NR), Gaelic Fae (MFR), Mule (MR), Chocolate Dutch Guinea Pig (MFR), Blue Ringed Octopus (MFR) |
+| 10:41 | **Wwwaaa_681**: Dalmatian (FR), Cabbit (FR), Siamese Cat (R), Munchkin Cat | **Dgz_2222**: Strawberry Shortcake Bat Dragon (NFR) |
+| 10:41 | **vlados_krash**: Copycat (R) | **SoskaNerra5**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 10:41 | **faikubjotch**: Panda Pal, Witch's Caravan | **6un2z**: Fly-A-Pet Potion |
+| 10:41 | **NathanPlayz83**: Owlbear (MFR), Peach Owl (MFR), Rose Dragon (MFR), Albino Monkey (FR), Toaster Hat, Pig | **MohamedAfj1**: Werewolf (MFR), English Sheepdog (MFR) |
+| 10:41 | **Fbrleey**: French Bulldog (MFR) | **Slushyunicorn0**: Candyfloss Chick (FR) |
+| 10:41 | **2yubin2da**: Alley Cat | **CatsandBTS367**: Snow Monkey |
+| 10:41 | **Yejichan34**: Stray Cat Dragon (N), Pain au Chat | **Biscvidi29**: Pupcicle |
+| 10:36 | **cutle100**: Haetyphoon, 2D Kitty | **afissamuzfirah**: Elephant (R) |
+| 10:36 | **S0ulsfordr4ke3**: Arctic Dusk Dragon (NFR), Red Dutch Guinea Pig | **mandarinkatenka3**: Harp Seal (MFR) |
+| 10:36 | **lordbeam31**: Fairy Bat Dragon (FR), Fly-A-Pet Potion, Husky (R), Count Slothula, Ride-A-Pet Potion | **Adopm615**: Goose (FR) |
+| 10:36 | **LIAXMLV**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×2 | **ulianixx79**: Candicorn (FR) |
+| 10:36 | **andro012233**: Matcha Cat | **Belen7267**: Catte ×5 |
+| 10:36 | **girlbyegirl12**: Ride-A-Pet Potion | **Chcd_baby**: Rat, Kirin, Classic Teapot, Winter Fawn, Velociraptor, Beluga Whale, Stingray, Bakeneko, Show Pony, Pomeranian, Armadillo, Bandicoot, Hopbop, Orange Betta Fish, Kaijunior, Crab, Sea Skeleton Panda |
+| 10:36 | **Artem_21a2**: Copycat (N), Kangaroo (FR), Kangaroo (R), Ride-A-Pet Potion ×3, Summer Walrus Sunhat | **sigmaizzmailovvvv2**: Cow (NR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
