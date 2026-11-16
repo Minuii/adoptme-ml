@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 01:55 UTC by the scrape workflow._
+_Updated 2026-11-16 02:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 01:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 26,496 | 2026-11-16T01:45 |
-| elve | 6 | 5,703 | 2026-11-16T01:45 |
+| amvgg | 6 | 26,730 | 2026-11-16T02:00 |
+| elve | 6 | 5,747 | 2026-11-16T02:01 |
 
-## AMVGG completed trades: 22,395 total
+## AMVGG completed trades: 22,408 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 320 |
+| 2026-11-16 | 333 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 01:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:00 | **Arri0028**: Ruddy Duck (M) | **NE0M3T4LS0N1C**: Ride-A-Pet Potion |
+| 02:00 | **ZombifiedMarco**: Ice Cream Hermit Crab (MFR), Chocolate Dutch Guinea Pig (MFR), Tree Kangaroo (MFR), Wooly Rhino (MR), Chick (MFR) | **kdkejwjsjd**: Pirate Ghost Capuchin Monkey (MFR) |
+| 02:00 | **Sofia437484**: Pupcicle ×3 | **Savage_Nessa22**: Glormy Leo |
+| 02:00 | **Altaccfloop**: Christmas Pudding Pup (NR), Ride-A-Pet Potion | **Lucarioelprocomo**: Unicorn Horn, Ballet Swan |
+| 02:00 | **booluqx**: Strawberry Penguin (R), Ride-A-Pet Potion | **Fandepan6010**: Zombie Wolf, German Shepherd, Pupcake, Bunny Swirl (N), Binturong, Ride-A-Pet Potion |
+| 02:00 | **Ackosender**: Pet Handler Pro Certificate | **tutritam174**: Ride-A-Pet Potion ×2 |
+| 02:00 | **HBT_c6TwqiHVXO**: Haetyphoon | **paloma112500**: Flash Weasel |
+| 02:00 | **arad22812**: Gemstone Egg, Mole (N), Caramelgeist (N), Ratatoskr (N) | **Austa_675**: Ride-A-Pet Potion |
+| 02:00 | **jessie4isaac**: Owl (FR), Goat | **N0T_ASQ1T**: Crow (FR), Chocolate Chip Bat Dragon (FR) |
+| 02:00 | **yumstarf**: Super Saru, Pancake Stack | **ihaveahusxandx**: Super Saru (NR), Water Moon Bear |
+| 02:00 | **scrossgirl**: Giant Panda, Angel Wings, Alpaca (R), 2022 Birthday Cupcake Shoes, 2022 Birthday Party Horn | **sssouleatr**: Cryptid (NFR) |
+| 02:00 | **SanAndres404**: Fly-A-Pet Potion, Golden Lettuce, Ride-A-Pet Potion | **luxsdomain**: Many Mackerel (R) |
+| 02:00 | **shawarmapremium2**: Copycat (R) | **pinkyupup35**: Christmas Gift |
 | 01:55 | **katosika124**: French Bulldog (N) | **La_boyMich15**: Ginger Cat (MFR) |
 | 01:55 | **pankeis609**: Ride-A-Pet Potion ×6 | **MyStarPets1**: Quad Stroller |
-| 01:55 | **O4Xxe**: Owlbear (MFR) | **LeonardBass28273**: Halo, Hare, Ride-A-Pet Potion, Catte (MFR), Black Macaque (MFR), Ring-Tailed Lemur |
-| 01:55 | **Exphemia**: Grim Dragon (FR), Glormy Leo, Ice Moth Dragon (FR), Ginger Cat (R), Ghost Bunny (R), Cobra (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **sursyrzytxurzutzutz**: Fairy Bat Dragon |
-| 01:55 | **joswarlopez**: Turtle (NFR) | **belltiny**: Cupid Dragon (NFR), Glormy Leo (NR), Ride-A-Pet Potion |
-| 01:55 | **bunnyblinkP**: Ballet Swan (R), Ballet Swan ×4, Sushi Penguin ×2, Lava Dragon (FR) ×2 | **roniroblox102030**: Kangaroo (R) ×2 |
-| 01:55 | **roniroblox102030**: Evil Unicorn (NFR), Kangaroo (R) | **Ryxnisgoofy3**: Orchid Butterfly (FR) ×2 |
-| 01:55 | **El1kTT**: Jester Dragon (R), Dodo (NFR), Griffin (NFR), Winged Horse (NFR), Skelicorn (NFR), Unicorn (NFR) | **yRafah_Bloxinha**: Turtle (FR) |
-| 01:55 | **aabeeyg**: Flying Fairy, Thunderfisher (N), Admin Abuse Egg ×4 | **ilikekpop_2012**: Dinner Discourse Cat Sticker |
-| 01:55 | **ellielielielieee**: Mini Pig (FR) | **sysstemofadownn**: Cherry-On-Top, Pancake Stack, Spring Bunny Nose, Spring Bunny Feet, Chocolate Chip Bat Dragon Backpack |
-| 01:55 | **Y4r3tzy09**: Cabbit (FR), Chicken (MFR) | **XiuLi1234**: Border Collie (NFR) |
-| 01:50 | **cyptiaI**: Ice Queen Sleigh | **pushenn112**: Back Taco |
-| 01:50 | **O4Xxe**: Ghost (MFR) | **ScarzyK**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 01:50 | **xZgoQqWnzzM**: Shark | **Adoptmechallang_yes**: Axolotl |
-| 01:50 | **Hhto123**: Cow (R), Goose (R), Fly-A-Pet Potion ×5, Pet Handler Pro Certificate ×2 | **XxSorvetyxX**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
