@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 22:25 UTC by the scrape workflow._
+_Updated 2026-11-16 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 45,860 | 2026-11-16T22:15 |
-| elve | 6 | 9,951 | 2026-11-16T22:16 |
+| amvgg | 6 | 46,129 | 2026-11-16T22:30 |
+| elve | 6 | 9,987 | 2026-11-16T22:31 |
 
-## AMVGG completed trades: 25,857 total
+## AMVGG completed trades: 25,873 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,782 |
+| 2026-11-16 | 3,798 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:25 | **pivozkranu**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Ride-A-Pet Potion, Purrowl (R) | **SweetieFoxReaI**: Fairy Bat Dragon (NFR) |
-| 22:25 | **dloxasteq2**: Strawberry Shortcake Bat Dragon, Peppermint Penguin (FR), Strawberry Tortle, Cabbit (R), Fairy Bat Dragon (R), Sugar Glider (FR), Pupcicle (M) ×2, Haetyphoon, Kitty Bat (M) | **ElFanan_Asser**: Frost Dragon (FR) |
-| 22:21 | **mariarita2000**: Solaris, Gemstone Egg ×2 | **hsjsjdidhshissihhe**: Dancing Dragon (R) |
-| 22:21 | **Jean_20354**: Sugar Axolotl (NR) | **gigairia**: Cow (R), Stitches (N) |
-| 22:21 | **emelieisaspaz**: Elephant, Polar Bear (R), Owlbear (R), Candy Hare | **Panci_Terbang33**: Pupcicle (MFR) |
-| 22:21 | **yayajuya**: Siamese Cat (R) | **oldclassyy**: French Bulldog (MFR) |
-| 22:21 | **Furry_lechuga**: Pupcicle ×3 | **Frs_88xx**: Alley Cat |
-| 22:21 | **Adoptmestocks3000**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×3 | **sprinkIyuni**: Santa Hat |
-| 22:21 | **stichedchromee**: Possum (M) | **hxyfhdujvhd**: Bolt (M), Jacobin Pigeon (M), Unicorn, Cotton Candy Hat |
-| 22:21 | **Adoptmestocks3000**: Ride-A-Pet Potion | **taigo77**: Burger Bear |
-| 22:21 | **9vvdx**: Goat (MFR), Pupcicle (MFR), Tarsier (MR) | **greycatgf**: Balloon Unicorn (FR) |
-| 22:21 | **XGiveMeUrFoodX**: Turtle (FR), Kangaroo (NFR), Kangaroo (R), Hot Doggo (R) | **dfyuisdhfyusdavgbyhu**: Cryptid (FR) |
-| 22:21 | **GAV_6066**: Ride-A-Pet Potion ×3 | **FlushedEgg**: Happy Clam |
-| 22:21 | **Razoqz**: Rubber Ducky ×18 | **Onyx_ctr**: Retired Egg ×3 |
-| 22:21 | **Lumina20265**: Fly-A-Pet Potion | **alexgameminecraft**: Flaming Fox |
+| 22:30 | **Vanlyzn26**: Crystal Egg ×14 | **Me0wzaii**: Ride-A-Pet Potion |
+| 22:30 | **CMETAHA_8892**: Strawberry Shortcake Bat Dragon (FR), Butter Knife | **Alisa_R00**: Cow, Siamese Cat (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Bready Necklace |
+| 22:30 | **FLOCHU77**: Christmas Pudding Pup | **Alisa_R00**: Goat |
+| 22:30 | **JPrincipeS09**: Ride-A-Pet Potion | **Kittyqueen052411**: Crystal Egg ×16 |
+| 22:30 | **hugomolly1**: Blazing Lion (FR), Albino Monkey (FR), Chimera (NFR), Yule Log Dog, Candy Hare, Royal Capuchin Monkey, Mistletroll (M), Magpie (M), Shetland Pony Dark Brown (N), Christmas Future Egg, Southeast Asia Egg, Japan Egg, Blue Skateboard, Scarebear, Eggnog Dog (N) | **poortorichday32**: Parrot (FR) |
+| 22:30 | **Sug4rspr1nklessss**: Mini Pig, Goose (R), Cabbit (FR), Munchkin Cat (R) | **Valerieumie**: Cryptid (FR) |
+| 22:30 | **Chickengigi6**: Kangaroo (NFR) | **Tandpastatub_e**: French Bulldog (MR), Mini Schnauzer (MR), Temple Friend (NR) |
+| 22:30 | **Twitterbadaf**: Fairy Bat Dragon (MFR), Latte Kitsune (MFR), Mini Pig (FR), Cabbit (NFR) | **austinbest123**: Mini Pig (MFR) |
+| 22:30 | **ADOPTME_TRADE596**: Border Collie (MFR) | **elliegrindingxx**: Siamese Cat (M), Jester Dragon (NFR), Werewolf (FR), Ice Cream Cone Hat, Dragon (M), Sea Turtle (M) |
+| 22:30 | **CcLuims011x**: Cattuccino (M) | **Adoptmestocks3000**: Ride-A-Pet Potion ×2 |
+| 22:30 | **Yumi_Rose8**: Crystal Egg ×5 | **noemihgvgv**: Retired Egg ×10 |
+| 22:30 | **TiffanyKimberIy**: Snowball Pet (MFR) | **Yourgrandadpullsfr**: Hare (NFR) |
+| 22:30 | **Yumi_Rose8**: Pet Handler Pro Certificate | **AdoptMeIsTheBest8139**: Dango Penguins |
+| 22:30 | **AutumnVibes57**: Copycat | **Aftonsparvsarec00l**: Chinese Lantern, Tea Party Set |
+| 22:30 | **MrsJane07**: Glormy Dolphin (R), Fire Foal (F), Storm Condor (N), Onza (N) | **DrinklngMilk**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
