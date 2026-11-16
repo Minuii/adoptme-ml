@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 01:25 UTC by the scrape workflow._
+_Updated 2026-11-16 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 01:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 26,016 | 2026-11-16T01:15 |
-| elve | 6 | 5,623 | 2026-11-16T01:16 |
+| amvgg | 6 | 26,254 | 2026-11-16T01:30 |
+| elve | 6 | 5,682 | 2026-11-16T01:31 |
 
-## AMVGG completed trades: 22,326 total
+## AMVGG completed trades: 22,346 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 251 |
+| 2026-11-16 | 271 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 01:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:25 | **zaffy46**: Ride-A-Pet Potion | **ri0txh**: Harp Seal |
-| 01:25 | **T1REDOFYOUU**: Stitches (N), Stitches ×4, Possum | **andreatheflower0**: Chihuahua |
-| 01:25 | **darrylin_mendz**: Happy Duckling, Winter Fawn, Patchy Bear, Sea Skeleton Panda, Shoebill (N) | **anihao17**: Ride-A-Pet Potion |
-| 01:25 | **Hayacat18**: Chihuahua (M) | **HELENA_GUEMER12494**: Flaming Fox (N) |
-| 01:25 | **s7pph1re**: Copycat ×3, Spring Bunny Hood, Pancake Stack | **xXNorthenlightX**: Cabbit |
-| 01:25 | **Fan_deJennaO**: Owlbear (FR) | **themudwizard**: Ride-A-Pet Potion ×5 |
-| 01:25 | **rxthlessvii**: Golden Penguin (MFR), Tiny Wings | **Your_girly23**: Wooly Rhino (MFR) |
-| 01:25 | **Nyhxiaaa**: Kitty Bat, Winter Fawn (N) | **DrizzledTxffee**: Vanilla Penguin |
-| 01:25 | **NebulastHyperftVenat**: Meerkat (MFR), Snow Monkey (MFR) | **poortorichday32**: Copycat (MFR) |
-| 01:20 | **tamednleashed**: Christmas Pudding Pup (MFR), Lamb (MFR), Ride-A-Pet Potion | **KeimoKaiAlr**: Jellyfish (MFR) |
-| 01:20 | **sofhi786**: Red Squirrel (R) | **jujuswetiee**: Ride-A-Pet Potion |
-| 01:15 | **vivvlly**: Blazing Lion (R), Cryptid (R), African Wild Dog (FR), Candicorn (R), Cheetah, Flaming Fox, Ride-A-Pet Potion ×2 | **luxsdomain**: Giraffe (FR) |
-| 01:15 | **rufamayg**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **noemihgvgv**: Strawberry Shortcake Bat Dragon (FR) |
-| 01:15 | **rip_indra12345678912**: Ice Moth Dragon ×2, Sea Turtle (R) ×2, Maine Coon (F), Diamond Unicorn ×2, Golden Albatross (R), Diamond Egg, Rosy Maple Moth ×3, Lunar Gold Tiger, Gumball Caterpillar (N), Strawberry Shortcake Ducky ×4 | **Inf3ction2**: Nessie (FR) |
-| 01:15 | **NLin_126**: Great Pyrenees | **Yes_ThisISYako**: Ride-A-Pet Potion |
+| 01:30 | **rwtncrpzs**: Tortoiseshell Guinea Pig (FR) | **alex_lighst4**: Winged Tiger (FR) |
+| 01:30 | **Fan_deJennaO**: Spring Bunny Feet | **Miss_Rupert**: Ride-A-Pet Potion ×2 |
+| 01:30 | **Shara_cool925**: Kangaroo (FR), King Bee (R) | **quVare_PDF**: Nautilus (MFR), Jester Dragon, Ride-A-Pet Potion ×4 |
+| 01:30 | **Fan_deJennaO**: Spring Bunny Nose | **Miss_Rupert**: Ride-A-Pet Potion ×2 |
+| 01:30 | **Schizik_1059**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Owlbear (FR), Ram (FR) | **Fan_deJennaO**: Crocodile (R) |
+| 01:30 | **deathp1ts**: Cryptid, Werewolf (FR), Leopard Shark (NFR) | **porcelaindolliy**: African Wild Dog (FR) |
+| 01:30 | **gh0steddsoull**: Frostclaw Animated Sticker | **oceanxxvv**: Ride-A-Pet Potion |
+| 01:30 | **LillyC00kiess**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Singularity Pisces | **Jhonell_ROBLOX**: Space Fleet House |
+| 01:30 | **kity607AltAccount**: Horse (NR), Alien Eyes Hat, Royal Egg | **Jhonell_ROBLOX**: Scarecrow Horse (M) |
+| 01:30 | **zayylovesuu**: Dango Penguins, Pupcicle (R), Hammerhead Shark (MFR), Chihuahua (N), Banana Hat, Puppeteer Hand | **heyytherelol06**: Shark Puppy (R) |
+| 01:30 | **maciedalt**: Dalmatian (MFR), Halo | **J4YASPL4NET**: Bush Elephant (MFR), Shark Puppy (MFR), Mini Pig (MFR) |
+| 01:30 | **NummieNummiegirl**: Hedgehog (FR), Peppermint Penguin (FR), Dancing Dragon (F), Ride-A-Pet Potion ×2, Lynx (FR), Cake Friend (N) | **Frank_11203**: Arctic Reindeer (FR) ×2 |
+| 01:30 | **012e0122**: Albino Monkey (MFR) | **Idktbhplsshush**: Moonbeam Peacock (MFR) |
+| 01:30 | **XxkfirxbushxX**: Parrot (FR) | **teetehejej**: Kangaroo (MFR), Dragonfruit Fox (MFR), Fairy Bat Dragon (FR) |
+| 01:30 | **TMDung20**: Evil Unicorn (FR), Cow (FR), Lion (R) | **that0neax0l0tl1**: Crow (FR) |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
