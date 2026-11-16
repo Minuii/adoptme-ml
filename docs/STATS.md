@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 09:27 UTC by the scrape workflow._
+_Updated 2026-11-16 09:37 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 09:27 UTC by the scrape workflow._
 | amvgg | 6 | 33,399 | 2026-11-16T09:26 |
 | elve | 6 | 7,164 | 2026-11-16T09:27 |
 
-## AMVGG completed trades: 23,243 total
+## AMVGG completed trades: 23,317 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,168 |
+| 2026-11-16 | 1,242 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 09:27 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:10 | **Max_999LoLejen**: Chihuahua ×2, Glormy Backpack, Red Panda (R), Love Letter, Christmas Pudding House, Jacobin Pigeon (N), Skelicorn, Purrowl, Electric Hornet, Ice Cube, Admin Abuse Box, Amethyst Skies Mega Neon Paint | **R3TR0CH3RRY**: Hare |
-| 09:10 | **itsvaleriaotz**: Ride-A-Pet Potion | **laokratia**: Bloodhound ×2, Angus Calf, Penguin, Deathstalker Scorpion, Koala, Skelicorn |
-| 09:10 | **sore1017**: Strawberry Tortle | **3mis_alttt**: Fairy Bat Dragon |
-| 09:10 | **Str3amN0va2024**: Kangaroo (FR) | **CAXAPOK_1122332**: Panda (MFR) |
-| 09:10 | **maxioro_135**: Copycat (FR), Copycat | **Ifalers**: Haetyphoon |
-| 09:10 | **Llululinda2312**: Shetland Pony Dark Brown (NR), Ride-A-Pet Potion | **XzMonolds**: Pet Handler Pro Certificate |
-| 09:10 | **elchileno_24k**: Mini Pig (MFR), Great Pyrenees (MFR) | **Pazjulieta16**: Peppermint Penguin (MFR) |
-| 09:10 | **kayxlillies**: Corn Doggo, Toasty Red Panda, Chihuahua ×2 | **newzad61**: Alley Cat |
-| 09:10 | **skyfovaa**: Werewolf (FR), Munchkin Cat (R), Tortoiseshell Guinea Pig | **MATT_2011901**: Candicorn (NFR) |
-| 09:10 | **Dddana20058**: Parrot (FR), Fly-A-Pet Potion ×2 | **Sunny_Frinch**: Evil Unicorn (FR), Kangaroo (FR), Kangaroo (NFR), Candicorn (R) |
-| 09:10 | **asdw4ad**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Chihuahua | **quu1fx**: Spring Bunny Hood |
-| 09:06 | **taekkaun**: Cow (FR) ×6, Pig (FR) ×6 | **00099hh1**: Frost Dragon (FR) |
-| 09:06 | **askvss**: Giraffe (FR), Evil Unicorn (NFR) | **hanb3ki**: Shadow Dragon (FR) |
-| 09:06 | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion | **itsvaleriaotz**: Reindeer |
-| 09:06 | **WRCD_15GG**: Turtle (FR), Kangaroo (FR), Candicorn (R), Fly-A-Pet Potion | **yusokini25**: Chocolate Chip Bat Dragon (FR) |
+| 09:37 | **Qeendou**: Balloon Unicorn (FR) | **Girldontplaywithme42**: Fairy Bat Dragon (FR) ×3, Swan (MFR), Water Rabbit (MFR), Blue Ringed Octopus (MFR) |
+| 09:37 | **Arlen4uk**: French Bulldog | **Qeendou**: Kiwi, Cattuccino |
+| 09:37 | **sincebravery**: Parrot (FR), Chocolate Chip Bat Dragon (FR), Cow (FR), Jester Dragon, Ride-A-Pet Potion ×4 | **TulipPetal_1**: Frost Dragon (FR) |
+| 09:37 | **adorxelian**: Elephant (R), Lion, Crocodile, Cabbit (R), Strawberry Tortle (FR), Grim Dragon (FR) ×2, Kangaroo (NFR), Bush Elephant (FR), Albino Monkey (R), Unicorn Horn, Dragonfruit Fox (NFR), Goldhorn (MFR) | **kamiqwees**: Frost Dragon (FR) |
+| 09:37 | **Affgfghec**: Balloon Unicorn (FR), Munchkin Cat (MFR), French Bulldog (M) | **uhlinn**: Frost Dragon (FR) |
+| 09:37 | **Vernite_chat0**: Fly-A-Pet Potion | **BELLABELLINHABELLA1**: Ice Cream Hermit Crab |
+| 09:37 | **minnies2007**: Fly-A-Pet Potion | **Princess_AllisonJ**: Chihuahua (N) |
+| 09:37 | **gavinmrgoon**: Dalmatian (FR), Fly-A-Pet Potion | **awx_mili**: Chocolate Chip Bat Dragon (FR), Unicorn Horn |
+| 09:37 | **Omarz_2131**: Strawberry Shortcake Bat Dragon Backpack, Cotton Candy Hat, Chef Hat, Hamster | **baddieshotoclock6699**: Sea Turtle (MFR) |
+| 09:37 | **llya3348**: Ride-A-Pet Potion | **mstq_plays**: Crystal Egg ×17 |
+| 09:37 | **johnpatricktasunci16**: Count Slothula ×17 | **wldnsdlrnldudna**: Rain Cloud Hat |
+| 09:37 | **pulpoflor15**: Winged Horse (FR) | **mstq_plays**: Skelicorn ×12 |
+| 09:37 | **pisapopakakashecki**: Crystal Egg ×18 | **Kir4kaaa**: Ride-A-Pet Potion |
+| 09:37 | **funbunicake**: Dire Wolf, Robot | **vryxsian**: Black-Footed Ferret ×2 |
+| 09:37 | **Inganta07**: Fly-A-Pet Potion ×3 | **Vintage_designs**: Frost Fury (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
