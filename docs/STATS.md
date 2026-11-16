@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 04:45 UTC by the scrape workflow._
+_Updated 2026-11-16 04:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 04:45 UTC by the scrape workflow._
 | amvgg | 6 | 29,401 | 2026-11-16T04:45 |
 | elve | 6 | 6,250 | 2026-11-16T04:45 |
 
-## AMVGG completed trades: 22,751 total
+## AMVGG completed trades: 22,770 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 676 |
+| 2026-11-16 | 695 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 04:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:45 | **leilahstoocool**: Pig (NFR), Pink Heart Glasses | **5ek20o**: Pupcicle (M) |
-| 04:45 | **MaxxieThePuppy**: Cow (FR), General Sheepdog (MR) | **skyeeeeeeeee_999**: Glormy Hound (MFR) |
-| 04:45 | **Gerrythegiraffeyue**: Christmas Pudding Pup, Ratatoskr (N), Bison (N), Dragon ×2, Ancient Dragon, Shadow Dragon Ducky ×2 | **sacredwarp**: Copycat |
-| 04:45 | **ellielielielieee**: Strawberry Tortle | **sore1017**: Cabbit (FR) |
-| 04:45 | **y2k_itadori**: Ride-A-Pet Potion ×18 | **N0ugatt**: Siamese Cat |
-| 04:45 | **dumdog1232**: Owl (MFR), Hedgehog, Cow (R), Albino Monkey (FR) | **asdshfshs**: Cryptid (MFR), Dalmatian (MFR) |
-| 04:45 | **Youdi_off**: Fly-A-Pet Potion | **y2k_itadori**: Pet Handler Pro Certificate |
-| 04:45 | **Flamiepeee**: Cabbit (MFR), Strawberry Shortcake Bat Dragon (FR) ×2, Flamingo, Frostbite Bear, Candicorn ×2 | **HegdeHogsPlayYT**: Strawberry Tortle (MFR) |
-| 04:45 | **MatsukiMakima**: Pupcicle | **v4mphiraaa**: Ride-A-Pet Potion |
-| 04:45 | **PearlyAnge1**: Ride-A-Pet Potion, Gorilla (MR) | **summerclxrk**: Pet Handler Pro Certificate |
-| 04:45 | **flanconleche40**: Pupcicle | **Lovebunny_131**: Crystal Egg ×18 |
-| 04:45 | **m1xa_0**: Siamese Cat (N), Harp Seal (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **CUP1DSFRI3ND**: Dalmatian (FR) |
-| 04:45 | **Nestle_UwU**: Albino Bat, Eggnog Dog, Squid | **Xxxcottoncandyxx223**: Ride-A-Pet Potion |
-| 04:45 | **bLanK1026**: Candicorn (MFR), Fairy Bat Dragon (R) | **loveturtlencow**: Crow (FR) |
-| 04:40 | **y2k_itadori**: Turtle (FR) | **TwistedK1tty**: Pet Handler Pro Certificate ×4, Ride-A-Pet Potion ×13, Fly-A-Pet Potion |
+| 04:55 | **reserbadong2**: Fairy Bat Dragon (NFR), Dalmatian (R) | **CRY1T0N**: Balloon Unicorn (FR) |
+| 04:55 | **elfsidd**: Shrew (MFR), Crocodile (NFR) | **uh_Rojo**: African Wild Dog (FR) |
+| 04:55 | **XiaoFaye1433**: Owl (R), Elephant (MFR), Crow (FR), Fly-A-Pet Potion ×3 | **klaythomp08**: Strawberry Tortle (MFR) |
+| 04:55 | **uuukabzhxj78**: Blue Cat (M), Jacobin Pigeon (M), Cocoadile (M) | **XzMonolds**: Fly-A-Pet Potion |
+| 04:55 | **iuvzjules**: Ride-A-Pet Potion ×6, Spring Bunny Nose | **ASMR_1585**: Cupid Dragon (FR), Tasmanian Tiger (R) |
+| 04:55 | **ASHSD1ARYX0**: Haetae (FR) | **WillowQueen593**: Sakura Spirit (MFR) |
+| 04:55 | **Inganta07**: Fly-A-Pet Potion ×3 | **getsdar**: Frost Fury (FR) |
+| 04:55 | **arrozconleche1234648**: Pupcicle | **natixezq**: Puffer Fish |
+| 04:50 | **rxsuem_flower**: S'mores Raccoon (MR), Burger Bear (MR) | **AmberDragon200915**: Cabbit (FR) |
+| 04:50 | **Sealeoxs**: Ice Cream Hermit Crab (MFR), Mini Pig (R), 2022 Birthday Confetti Cannon | **yeobviiiii**: Dango Penguins (MFR), Dragonfruit Fox (MFR) |
+| 04:50 | **Xxmyaisherexxx**: Puffer Fish (N), Tuxedo Cat | **on_ye9**: German Shepherd (NFR) |
+| 04:50 | **duckksoupp**: African Wild Dog (FR), Chocolate Chip Bat Dragon (FR), Cabbit (NFR), Toaster Hat, Peppermint Penguin (R) | **HegdeHogsPlayYT**: Cabbit (MFR) |
+| 04:50 | **cutestpuppi123**: Strawberry Tortle (NR) | **faikubjotch**: Arctic Dusk Dragon (MFR), Peppermint Penguin (FR), Spring Bunny Hood, Spring Bunny Feet |
+| 04:50 | **SpriingDior**: Alicorn, Ancient Dragon | **vivicacke17**: Pomeranian (N) |
+| 04:50 | **Valerieumie**: Jousting Horse (R), Alley Cat (FR), Cuddly Candle (FR), Chocolate Dutch Guinea Pig, Shetland Pony Dark Brown (NFR), Shiver Wolf (N), Koi Carp | **uh_Rojo**: Crocodile (R) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
