@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 14:47 UTC by the scrape workflow._
+_Updated 2026-11-16 14:56 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 14:47 UTC by the scrape workflow._
 | amvgg | 6 | 38,490 | 2026-11-16T14:46 |
 | elve | 6 | 8,197 | 2026-11-16T14:46 |
 
-## AMVGG completed trades: 24,190 total
+## AMVGG completed trades: 24,212 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,115 |
+| 2026-11-16 | 2,137 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 14:47 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:45 | **Zghy9**: Strawberry Shortcake Bat Dragon (NFR), Cryptid (FR), Chocolate Dutch Guinea Pig, Mochi Meow (M), Armadillo (M), Mongoose (M) | **jikipikil**: Cryptid (NFR) |
-| 14:45 | **NeonGamerStar20**: Goose (R), Turtle (R), Arctic Fox (R), Phoenix (MFR), Kangaroo (FR) | **vic_nyt**: Turtle (MFR) |
-| 14:45 | **onlyybambii**: 2022 Birthday Cake, Owlbear (MFR) | **Codezyyyy**: Christmas Pudding Pup (MFR) |
-| 14:45 | **vivvlly**: Pupcicle | **Destinyforreal2**: Ride-A-Pet Potion |
-| 14:45 | **Yomi040605**: Bat Dragon (FR), Owl (R) | **zennethepoop**: Crow (MFR) |
-| 14:45 | **mlrxhy**: Red Squirrel (MFR), Choco Penguin (MFR), Ratatoskr (M), Pet Handler Pro Certificate, Gecko Ducky (M), Banana Hat | **ykoismim**: Flamingo (FR) |
-| 14:45 | **kilopertq**: Snow Owl, Kitty Bat | **Laktozik1**: Ride-A-Pet Potion |
-| 14:45 | **jayjay080309**: Evil Unicorn (FR) ×2, Arctic Reindeer (FR) | **FiresMiress**: Frost Dragon (FR) |
-| 14:45 | **Lola_ant34**: Frost Dragon (FR) | **FiresMiress**: Latte Kitsune (MFR), Ice Cream Hermit Crab (MFR), Unicorn Horn, 2022 Birthday Cake, Tiny Wings, Ice Cream Cone Hat, Spring Bunny Hood, Propeller Hat, Spring Bunny Nose, Spring Bunny Feet, Puffer Fish (MFR), Mule (MFR), Red Squirrel (MFR), Sunglider (MFR), Coconut Friend (MFR), Dracula Parrot (MR), Pancake Stack, Strawberry Shortcake Bat Dragon Backpack |
-| 14:45 | **Ghostkittyin**: Ghost Bunny (MFR), Spring Bunny Nose, Fly-A-Pet Potion, White Chef Hat | **Manzanita_230Uw2**: Sugar Glider (FR) |
-| 14:45 | **itsjosi_RobloxXX**: Ride-A-Pet Potion ×2 | **mylolovescats**: Tealwood Monster (M) |
-| 14:45 | **Lila_Chanbibi**: Copycat (NFR) | **krnss73**: Fairy Bat Dragon (FR), Ride-A-Pet Potion |
-| 14:45 | **LucasAndFriends7**: Australian Kelpie (MFR), Meerkat, Husky, Therapy Dog ×4, Koi Carp ×4, Feesh ×2, Halloween Evil Dachshund | **RENZSOMERA**: Shark Puppy |
-| 14:45 | **rainbowpuply_cute**: Cradle Stroller | **tumblelina_123**: Fly-A-Pet Potion, Turkey Plush |
-| 14:45 | **Redpyid**: Ride-A-Pet Potion | **muniradypa**: Evil Chick ×2 |
+| 14:51 | **ADMTRADING72**: Shrew (R) ×2, Jousting Horse (NFR), Alley Cat (R) ×3, Fallow Deer (FR), Fallow Deer (R), Polar Bear (R) ×2, Silverback Gorilla (R), Unicorn (NR), Arctic Fox (R), Cerberus (FR), Chicken (R) | **ambervgils**: Cow (NFR) |
+| 14:51 | **leeeeeeee478**: Kangaroo (R), Chocolate Dutch Guinea Pig, Gemstone Egg, Milk Choccybunny (M), Paint Sealer ×2 | **Z3v_Vile**: Siamese Cat |
+| 14:51 | **realmp10007**: Rose Quartz Glow Mega Neon Paint | **mariellatomic**: Amethyst Skies Mega Neon Paint |
+| 14:51 | **dosh1kk_dasha**: Chocolate Chip Bat Dragon Backpack, Caramelgeist (M) | **KOT_229922**: Magic House Door, Classic Trade Stand |
+| 14:51 | **theycallmerubbie**: Arctic Reindeer (NFR), Owlbear (NFR) | **roblox_wert34**: Chocolate Chip Bat Dragon (NFR) |
+| 14:51 | **namcymacdonie**: Propeller Hat, Burger Boots, Banana Hat, Jeff's Nametag, Bready Necklace, Pancake Stack, Butter Knife, White Chef Hat, Back Taco, Cotton Candy Hat, Rain Boots, Invisible Wings | **Ririlewis67**: Fallow Deer (NFR) |
+| 14:51 | **oatsit**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 | **Marines_Natalia**: Fairy Bat Dragon (FR) |
+| 14:51 | **Fionaa_0099**: Cow (R) | **sofia_love121213**: Flamingo (FR), Ride-A-Pet Potion ×13 |
+| 14:51 | **Klikkledo**: Retired Egg ×9 | **ScareCat11111**: Pomeranian (N) |
+| 14:51 | **lkmsdfw**: Owl (FR) | **hiwhat043**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR), Cow (FR), Arctic Fox (FR), Lion Cub (R) |
+| 14:51 | **queensisters4l**: Milk Choccybunny (N) | **Cocoeverlucks**: Retired Egg ×9 |
+| 14:51 | **quietlyangel**: Scarecrow Cat ×16 | **jrnics2q226**: Ride-A-Pet Potion ×5 |
+| 14:51 | **folow_lera0**: Grave Owl (MFR), Turkey (R), Glormy Hound (R), Gaelic Fae (R), Shadow Dragon Ducky (NR), Robo Dog (FR), Mule | **cherrymoon4441**: Elephant (R) |
+| 14:51 | **levishecv**: Pig ×2, Pupcicle, Electric Tide Mega Neon Paint, Chameleon, King Bee | **shadow82172sad**: Kangaroo (FR) |
+| 14:51 | **Xxxxashhhh**: Pet Handler Pro Certificate ×3 | **nyanyanya9606**: Copycat |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
