@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 18:55 UTC by the scrape workflow._
+_Updated 2026-11-16 19:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 18:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 42,377 | 2026-11-16T18:45 |
-| elve | 6 | 9,169 | 2026-11-16T18:46 |
+| amvgg | 6 | 42,641 | 2026-11-16T19:00 |
+| elve | 6 | 9,227 | 2026-11-16T19:01 |
 
-## AMVGG completed trades: 25,116 total
+## AMVGG completed trades: 25,132 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,041 |
+| 2026-11-16 | 3,057 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 18:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:55 | **nailaivx**: Three Blind Mice ×3, Villain Gibbon, Purrowl (N) ×2, Sea Turtle, Glormy Crab, Gold Mahi Mahi (N) ×2 | **smileface589**: Ride-A-Pet Potion ×2 |
-| 18:55 | **luvyerh**: Cow (NFR) | **daanz2**: Cow (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 18:55 | **alwyzchlqe**: Snow Monkey (MFR), Llama (MFR), Orange Butterfly (MR) | **DijaBint2**: Nessie (MFR) |
-| 18:55 | **L_person21**: Bald Eagle (NR) | **metanight3d**: Pelican (FR), Pony Box |
-| 18:55 | **sscftt**: Chocolate Chip Bat Dragon (FR), Peppermint Penguin (FR), Munchkin Cat (FR), Tuxedo Cat (M), Rain Boots | **jypit0410j**: Haetae (FR) |
-| 18:51 | **SophiaKL107**: French Bulldog (MFR), Ride-A-Pet Potion | **H4ppy_147**: Alpaca (R), Retired Egg ×5 |
-| 18:51 | **Nola1234512345**: Strawberry Penguin (MFR) | **LanaHaus**: Vampire Dragon (MFR) |
-| 18:51 | **AMINO4KA7U**: Mochi Meow (M) | **CAXAPOK_bvd**: Ride-A-Pet Potion, Sloth (F) |
-| 18:51 | **xheartzpearlx**: Budgie Witch (M), Stitches (N), Kaijunior (N) | **chesnock204**: Urban Egg |
-| 18:51 | **PrincesseetPrince_20**: Mochi Meow (MFR) | **MasterForeL**: Fly-A-Pet Potion ×2 |
-| 18:51 | **Batdragon1627272**: Bat Dragon (FR), Alley Cat (MFR), Harp Seal (MFR) ×2, Werewolf | **Shadx_1553**: Cryptid (MFR) |
-| 18:51 | **lxceddream**: Burger Boots | **YuriHere2**: Ride-A-Pet Potion |
-| 18:51 | **ANG3l_1078**: Retired Egg ×11 | **AestheticMariam**: Pine Marten |
-| 18:51 | **karasikshop_20028**: Fairy Bat Dragon (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Silly Duck (R), Lunar White Tiger (R), Gummy Guana (NR) | **UNLIMITET01**: Peppermint Penguin (FR) |
-| 18:51 | **ELL4SV1BEY**: Hedgehog (FR), Silly Duck | **Jahazi_Roblox**: Sugar Glider (NFR), S'mores Raccoon (MFR) |
+| 19:00 | **Bananenbrot3546**: Field Mouse, Fly-A-Pet Potion | **iileesxv**: Copycat |
+| 19:00 | **VovchikO123**: Robot (N), Peahen (R), Electric Hornet, Ginger Cat, Crystal Egg ×3, Ancient Dragon, Thunderfisher, Shih Tzu | **Gfuga02**: Ride-A-Pet Potion |
+| 19:00 | **alwyzchlqe**: Bush Elephant (MFR), Catte (MR) | **floricica_0502**: Nessie (MFR), Happy Clam (MFR), Owlbear (MFR) |
+| 19:00 | **xikell**: Ride-A-Pet Potion, Sakura Scythe | **Xaosdeathg**: Goldfish (NR) |
+| 19:00 | **Nikito4ka_mm2**: Tree Kangaroo (NR), King Bee (NFR), Red Squirrel (NR), Arctic Hare (M), French Bulldog (N), Ride-A-Pet Potion | **xsy_209**: Kangaroo (FR) |
+| 19:00 | **bbkxrby**: Harp Seal (MFR) | **erditiri03**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 |
+| 19:00 | **shpirtit**: Arctic Dusk Dragon (MFR) | **DaBabyLETSGo41**: Honey Badger (MFR) |
+| 19:00 | **VICTOR_AV01**: Green Butterfly (MFR), Arctic Fox (R) | **TOY_BONIE1916**: Goose |
+| 19:00 | **trecnor**: Crocodile (NFR), Fairy Bat Dragon (FR), Strawberry Tortle, Siamese Cat (FR), Turtle, Pig (R), Ride-A-Pet Potion | **Nekhona**: Siamese Cat (MFR) |
+| 19:00 | **izzyxrblx00**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Sailor Cap, Bready Necklace ×2 | **Ssbdfornad**: Tiny Wings |
+| 19:00 | **unilums**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **hy4kkii**: 2D Kitty (NR) |
+| 19:00 | **Hhhhjf263**: Unicorn ×2 | **baileybay90225**: Ride-A-Pet Potion ×2 |
+| 19:00 | **Artisticzsilver**: Owl (FR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR) | **TANSKlN**: Blazing Lion (FR), Giant Panda (FR) |
+| 19:00 | **startadm0**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×11, Admin Abuse Egg ×5 | **KotMonster7**: Albino Monkey (FR) |
+| 19:00 | **Yakkuji**: Sugar Glider (FR), Turtle (FR) ×2, Ride-A-Pet Potion ×2 | **OMGITSMACKENZIE6**: Sugar Glider (NFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
