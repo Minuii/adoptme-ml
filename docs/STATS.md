@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-16 18:41 UTC by the scrape workflow._
+_Updated 2026-11-16 18:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 13 | 2026-11-11T1036Z | 2026-11-16T0145Z |
-| amvgg | 34 | 2026-11-11T1036Z | 2026-11-16T1746Z |
+| amvgg | 35 | 2026-11-11T1036Z | 2026-11-16T1846Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 42,118 | 2026-11-16T18:30 |
-| elve | 6 | 9,137 | 2026-11-16T18:31 |
+| amvgg | 6 | 42,377 | 2026-11-16T18:45 |
+| elve | 6 | 9,169 | 2026-11-16T18:46 |
 
-## AMVGG completed trades: 25,043 total
+## AMVGG completed trades: 25,060 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,968 |
+| 2026-11-16 | 2,985 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 18:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:41 | **merock56798**: Pupcicle | **Yana_dog151**: Stray Cat Dragon ×7 |
-| 18:41 | **gag_gaag**: Cheetah (N), Amami Rabbit (M), Ermine (M) | **nenitanenita2013**: Alpaca |
-| 18:41 | **wery123416**: Jellyfish (R), Arctic Fox (FR) | **Itsofc_Emilyxx**: Kangaroo (FR) |
-| 18:41 | **quietlyangel**: Toaster Hat | **fartbag89900**: Ride-A-Pet Potion ×10 |
-| 18:41 | **mipansususususu100**: Hare | **Mehaker_zz**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 18:41 | **luvyerh**: Munchkin Cat (R) | **lzxsre**: Pig (FR) |
-| 18:41 | **aianame_rey**: Copycat | **Hugchamb**: Ride-A-Pet Potion ×6 |
-| 18:41 | **dasha_qweryx**: Mummy Spider (M), Boohoo (N), Tanuki, Monkey | **Yana_dog151**: Ride-A-Pet Potion |
-| 18:41 | **getsdar**: Kangaroo (FR) ×2, Chihuahua | **kourabies31415**: Turtle (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×3 |
-| 18:41 | **spojIfed**: Ice Cream Cone Hat, Chocolate Dutch Guinea Pig | **Baterka260353**: Bauble Buddies (MFR) |
-| 18:41 | **Cubarsi31_27**: Tortoiseshell Guinea Pig, Royal Mistletroll (R) | **twojstarydzikitygrys**: Hot Doggo |
-| 18:41 | **mylolovescats**: Ride-A-Pet Potion ×2 | **lzxsre**: Fly-A-Pet Potion |
-| 18:41 | **Jillian_Clarice**: Elephant (FR), Fly-A-Pet Potion | **polinalollipolly**: Amami Rabbit (MFR), Ring-Tailed Lemur, Quokka (NR) |
-| 18:41 | **userulikk**: Fly-A-Pet Potion ×2, Bready Necklace | **Kyza_222222223**: Lamb, Red Dutch Guinea Pig |
-| 18:41 | **Sharpie_pies**: Lunar White Tiger (R), Angus Cow, Clumpty, Mexican Wolf, Sneak Weasel, Thunderfisher, Cocoadile, Humbug (N), Frankenfeline (N) | **bacon_play021**: Ride-A-Pet Potion |
+| 18:45 | **rosarel18**: Copycat (NR) | **TANSKlN**: Alpaca (R) |
+| 18:45 | **pawsicfl**: Arctic Fox (MFR) | **Aliceinw0nderland_33**: Dalmatian (FR) |
+| 18:45 | **Gamerqueen1255**: Gemstone Egg | **HAJK102**: Retired Egg ×18 |
+| 18:45 | **Batdragon1627272**: Chocolate Chip Bat Dragon (FR) | **XxkfirxbushxX**: Rainbow Maker |
+| 18:45 | **Haze9LIonV158271YT**: Fly-A-Pet Potion | **daanz2**: Stray Cat Dragon (M) |
+| 18:45 | **XiaoFaye1433**: Cow (FR) | **Dight_yyy**: Strawberry Penguin (N), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 18:45 | **latamalitaxd**: Arctic Reindeer (FR), Turtle (FR), Frost Fury (FR), Pupcicle (N) | **antuco_tuco909**: Evil Unicorn (FR) |
+| 18:45 | **Darkvega11**: Parrot (FR) | **Lyla_Mll**: Dalmatian (FR) |
+| 18:45 | **Eli_bugsxxhasatie**: Shadow Dragon (FR) | **TANSKlN**: Haetyphoon (MFR), Frost Dragon (FR), Sugar Glider, Ride-A-Pet Potion |
+| 18:45 | **malaklvrr**: Frostbite Bear and Cub Animated Sticker | **EvieBeans2017**: Amethyst Skies Mega Neon Paint |
+| 18:45 | **Demoniha111**: Unicorn, Dragon ×2, Skelicorn ×2 | **mochiloV7**: Fly-A-Pet Potion |
+| 18:45 | **3BDAl3ziz3**: Matcha Cat (FR), Yeti (MFR) | **sigmaizzmailovvvv2**: Turtle (FR) |
+| 18:45 | **Tandpastatub_e**: Evil Unicorn (NFR) | **NAT4L1Ex**: Albino Monkey (MFR) |
+| 18:45 | **Llululinda2312**: Dragonfruit Fox (MFR) | **Bartoxo2007**: Cherry-On-Top, Tiny Wings, Pancake Stack |
+| 18:45 | **tannerisaprincess**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Gamerqueen1255**: Gemstone Egg ×6 |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
@@ -67,10 +67,11 @@ _Updated 2026-11-16 18:41 UTC by the scrape workflow._
 | 2026-11-16 01:00 | Latte Kitsune | mega fly ride | 64 | 60 |
 | 2026-11-16 01:00 | Latte Kitsune | neon fly ride | 15 | 14 |
 
-## AMVGG value changes: 7,806 since 2026-06-02
+## AMVGG value changes: 7,807 since 2026-06-02
 
 | When (UTC) | Item | Changes |
 |---|---|---|
+| 2026-11-16 18:05 | Pupcicle | Regular 0.0105 → 0.01, Neon 0.0425 → 0.04, Mega 0.17 → 0.16, Regular demand High → Medium, Neon demand High → Medium, Mega demand High → Medium |
 | 2026-11-16 16:30 | Santa Hat | Item 0.0175 → 0.0225 |
 | 2026-11-16 16:28 | Glacier Kitsune | Regular 0.0425 → 0.041, Neon 0.17 → 0.165, Mega 0.68 → 0.66 |
 | 2026-11-16 16:28 | Aurora Fox | Regular 0.0515 → 0.05, Neon 0.2075 → 0.2, Mega 0.83 → 0.8 |
@@ -85,4 +86,3 @@ _Updated 2026-11-16 18:41 UTC by the scrape workflow._
 | 2026-11-16 16:08 | Arctic Reindeer | Regular 0.44 → 0.445, Neon 0.875 → 0.88 |
 | 2026-11-16 16:07 | Dalmatian | Regular 0.51 → 0.52 |
 | 2026-11-16 16:07 | Hedgehog | Regular 0.595 → 0.605 |
-| 2026-11-16 16:05 | Groundhog | Regular 0.0305 → 0.031, Neon 0.1225 → 0.125, Mega 0.49 → 0.5 |
