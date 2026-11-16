@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 03:31 UTC by the scrape workflow._
+_Updated 2026-11-16 03:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 03:31 UTC by the scrape workflow._
 | amvgg | 6 | 28,218 | 2026-11-16T03:30 |
 | elve | 6 | 6,063 | 2026-11-16T03:31 |
 
-## AMVGG completed trades: 22,608 total
+## AMVGG completed trades: 22,624 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 533 |
+| 2026-11-16 | 549 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 03:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:30 | **ThiagoYtHS**: Owl (FR), Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **Tylertylertyler425**: Frost Dragon (FR) |
-| 03:30 | **1velvetpaw**: Parrot (FR), Dalmatian, Rainbow Maker | **ANDY_245780**: Frost Dragon (FR), Chocolate Dutch Guinea Pig (MFR), Fly-A-Pet Potion, Crystal Egg ×2 |
-| 03:30 | **plasfreerb**: Balloon Unicorn (NFR), Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR), Flamingo (FR), Kangaroo (FR), Summer Walrus (M) | **amvggtrades81**: Parrot (MFR) |
-| 03:30 | **adoptmeloverdude13**: Giant Panda (FR), Cryptid (R) | **dawg1723**: Frostbite Bear (NFR) ×3, Frostbite Bear (FR) |
-| 03:30 | **brisreal1**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **RBstela**: Puffer Fish, Hummingbird (N), Black Kite (N), Penguin (N), Ermine (N), Seagull, Scarlet Butterfly, Gingerbread Mouse, Pain au Chat ×2, Crab (N), Water Rabbit, Purrowl, Water Moon Bear |
-| 03:30 | **Huge_Soda**: Candicorn | **Sakura22222334**: Ride-A-Pet Potion ×15 |
-| 03:30 | **raccoonybaloony**: Fly-A-Pet Potion | **MYB505**: Cattuccino (N), Onza (M), Snow Puma (M) |
-| 03:30 | **Alexa183199**: Pupcicle ×2 | **flopy231985**: Pet Handler Pro Certificate |
-| 03:30 | **rainthatxx**: Fallow Deer (MFR), Shadow Dragon Ducky (MR), Zombie Buffalo | **hhearts44danaa**: Ring-Tailed Lemur (MFR) |
-| 03:30 | **Rat196591**: Giant Panda (FR), Copycat (MR) | **dawg1723**: Frost Dragon (FR) |
-| 03:30 | **Artem_milkSG**: Kangaroo (R), Scarlet Butterfly (M) | **GreenCC12**: Turtle |
-| 03:30 | **disapp6ar**: Crow (FR), Werewolf (NFR), Grim Dragon (FR), Jester Dragon (N), Copycat | **sequo1_a**: Frost Unicorn (MFR) |
-| 03:30 | **nik39937**: Border Collie (FR), Chihuahua (MR) | **ilovecats_11xx**: Turtle (FR) |
-| 03:30 | **idelmarr**: Tiny Wings, Ice Cream Cone Hat, Tuxedo Cat (NFR) | **D8RYY**: Unicorn Horn |
-| 03:30 | **LilyLOLMaster1211**: Rose Dragon (NFR) | **faikubjotch**: Field Mouse, Cheetah ×2, Spring Bunny Hood, Ride-A-Pet Potion |
+| 03:40 | **bonjibott1**: Hedgehog (FR) | **Bloodyskyxes**: Turtle (NFR), Unicorn (MFR) ×3 |
+| 03:40 | **luvonnya**: French Bulldog (MFR) | **anekalubitnaruto**: Flamingo (FR) |
+| 03:40 | **Jorge4985**: Mechapup (NFR) | **moff24**: Kangaroo (NFR), Slime (R), Lamb (R), Water Rabbit (N) |
+| 03:40 | **ADOPTMEPETS_213**: Arctic Dusk Dragon (FR) | **Dasha28299**: Arctic Fox (FR) |
+| 03:40 | **cwupidbrae**: Frost Dragon (MFR), Pelican (MFR) | **Broncurrydurant1234**: Balloon Unicorn (MFR) |
+| 03:40 | **StinkyCupcakeMonster**: Ride-A-Pet Potion | **Artem_21a2**: Reindeer (R) |
+| 03:40 | **Si1ver13**: Angus Calf (N), Magma Moose (N), Scarecrow Cat (N), Abyssinian Cat (N), Capuchin Monkey (N), Dotted Eggy (N), Water Opossum (N), Muskrat (N), Poodle (N), Bluebottle Fly (N), Ant (N) | **0UwUCuteGirlUwU0**: Ride-A-Pet Potion ×3 |
+| 03:40 | **Jeremibus2012**: Bat Dragon (FR) | **RuthJavxn**: Frost Dragon (FR), Crow (FR), Evil Unicorn (FR), Parrot (FR), Arctic Reindeer (NFR) |
+| 03:40 | **remona223**: Munchkin Cat, Fly-A-Pet Potion | **xvPotatomuncher1**: Latte Kitsune (NFR) |
+| 03:40 | **Xxxxashhhh**: Fly-A-Pet Potion ×4 | **XXIYAXX_123**: Cupid Dragon (FR) |
+| 03:40 | **JWorldIndoraptor**: Cabbit (FR) | **BloodMenCloud**: Pupcicle (MFR) |
+| 03:40 | **KlennXP**: Little Lamb (NR) | **XisokoGame**: Retired Egg ×18 |
+| 03:40 | **electrolytia**: Alpaca (MFR), Goose (NFR) | **magetearsx**: Peppermint Penguin (MFR) |
+| 03:40 | **isopawedd**: Frozen Penguin ×3 | **ophyns**: Orca, Pomeranian, Toucan |
+| 03:40 | **blushbyelle**: Ballet Swan (NFR), Ice Cream Cone Hat | **Gonfreecss09111**: Pupcicle (M) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
