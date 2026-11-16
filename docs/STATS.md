@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 05:16 UTC by the scrape workflow._
+_Updated 2026-11-16 05:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 05:16 UTC by the scrape workflow._
 | amvgg | 6 | 29,829 | 2026-11-16T05:15 |
 | elve | 6 | 6,352 | 2026-11-16T05:16 |
 
-## AMVGG completed trades: 22,808 total
+## AMVGG completed trades: 22,834 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 733 |
+| 2026-11-16 | 759 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 05:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:15 | **yanchik0067**: African Wild Dog (FR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Kangaroo (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Eva_EvaKBAC**: Parrot (FR), Kangaroo (FR), Shark Puppy (FR) |
-| 05:15 | **kaibodydump**: African Wild Dog (NFR), Many Mackerel (MFR), Siamese Cat (MFR), Undead Jousting Horse (NFR) | **Rbd_JP**: Bat Dragon (FR) |
-| 05:15 | **lena_naomi1**: Ride-A-Pet Potion ×3, Solaris, Cerberus (R) | **Exleer**: Copycat |
-| 05:15 | **Mxng0_Mika**: Giant Panda (R) | **its4joo**: African Wild Dog (FR), Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Pet Handler Pro Certificate |
-| 05:15 | **CircutTheProtogen**: Fly-A-Pet Potion | **ItsSunMan**: Pupcicle ×2 |
-| 05:15 | **sore1017**: Peachick (N), Chihuahua | **Mafray2011**: Pupcicle |
-| 05:15 | **evieebunnii**: Chihuahua | **blkvco**: Amami Rabbit |
-| 05:15 | **seeyouineldorado**: Chihuahua | **blkvco**: Pupcake |
-| 05:15 | **Gu_chek**: Pupcicle | **blkvco**: Thinking Hat |
-| 05:15 | **yanchik0067**: Sugar Glider (FR) | **personal_stalker69**: Pig (R), Copycat, Frost Fury (R), Ballet Swan, Fly-A-Pet Potion |
-| 05:15 | **zackrichguy17**: Matcha Cat | **lujustIu**: Cerberus (NFR) |
-| 05:15 | **plushioss**: Coconut Friend (MR), Ram | **Foodie_Caat**: Chihuahua (M) |
-| 05:15 | **1ovIIy**: Pain au Chat ×3 | **Redpyid**: Ride-A-Pet Potion |
-| 05:15 | **Vxmptomato**: Angel Wings, Bunny (M) | **xezviii**: Cloud Car, Tea Party Chair, Pet Handler Pro Certificate |
-| 05:06 | **Robloxiana_xxx2011**: Puffer Fish (MFR) | **Inphluens**: German Shepherd (MFR) |
+| 05:25 | **RXL_017**: Strawberry Tortle (NR), Haetae (R), Cryptid (FR), Chocolate Chip Bat Dragon (FR), Orchid Butterfly, Peppermint Penguin (R), Werewolf (FR) | **Lpoopbxhe**: Shadow Dragon (FR) |
+| 05:25 | **re_eee0**: Turtle (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **tanijro909**: Arctic Fox (R), Strawberry Penguin (R), Copycat, Christmas Pudding Pup, Spring Bunny Feet |
+| 05:25 | **Jeansppk**: Unicorn, Hamster | **Hell0_kitty7v7xd**: Zombie Wolf |
+| 05:25 | **brxkendairy**: Cryptid (FR), Hedgehog (MFR), Peppermint Penguin (MFR), Polar Bear (MFR), Rain Cloud Hat, Fly-A-Pet Potion | **terrylonsoyjerry**: Haetae (MFR) |
+| 05:25 | **Ggoggeggu**: Peppermint Penguin (FR), Mermicorn (R), Munchkin Cat (R), Pet Handler Pro Certificate | **gumiiitooo**: Arctic Reindeer (FR), Ride-A-Pet Potion |
+| 05:25 | **Belen7267**: Ballet Swan, Catte, Tuxedo Cat | **london2cool4u**: Latte Kitsune ×2 |
+| 05:25 | **PARAZITKA14888**: Alicorn (N) | **Nedji_hyuga123**: Chameleon |
+| 05:25 | **insano_6678**: 2022 Birthday Cake, Unicorn Horn, Spring Bunny Hood, Blue Ringed Octopus (M), Pancake Stack | **puppydog31523**: Rainbow Maker |
+| 05:25 | **roblox_lemon02OU**: Ride-A-Pet Potion | **asya0xz**: Tropical Surge Mega Neon Paint |
+| 05:25 | **Anelchik_i**: Lynx (R) | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion |
+| 05:25 | **Cxrruptxd_Wxxbs**: Count Slothula | **Addjustonemorepet**: Skelicorn (N) ×2 |
+| 05:25 | **ADDIEISCHEAP**: Owl (FR), Goose (R), Fairy Bat Dragon (FR) | **said1244566**: Frost Dragon (FR) |
+| 05:25 | **1ovIIy**: Ride-A-Pet Potion | **Rainey_39**: Crystal Egg ×17 |
+| 05:25 | **rkdwlgh0104**: Evil Unicorn (FR), Brown Bear, Unicorn | **cydo0206**: Cryptid (FR) |
+| 05:25 | **pisapopakakashecki**: Dracula Fish ×4, Pomeranian, Pangolin, Ribbon Seal | **Kir4kaaa**: Dracula Fish (N) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
