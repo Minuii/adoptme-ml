@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 06:31 UTC by the scrape workflow._
+_Updated 2026-11-16 06:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 06:31 UTC by the scrape workflow._
 | amvgg | 6 | 30,937 | 2026-11-16T06:30 |
 | elve | 6 | 6,624 | 2026-11-16T06:31 |
 
-## AMVGG completed trades: 22,965 total
+## AMVGG completed trades: 22,985 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 890 |
+| 2026-11-16 | 910 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 06:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:30 | **fabriciogael597**: Cryptid, Candyfloss Chick (NR), Candicorn (NR), Glormy Hound (MFR), Sugar Glider (R), Tio De Nadal (R), Hot Doggo (R), Copycat (MFR), Copycat (N), Frostbite Bear (R) ×2, Goose (R), Jester Dragon (NFR), Shark Puppy, Tombstone Ghostify, Unicorn Horn, 2022 Birthday Confetti Cannon, Alley Cat (NR) | **lilia_bane**: Giraffe (NFR) |
-| 06:30 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Rabbit (M) | **XzMonolds**: Pet Handler Pro Certificate |
-| 06:30 | **DoughnutDucks**: Royal Mistletroll (N) | **wx8zqxx**: Hedgehog (FR), Ice Cream Cone Hat |
-| 06:30 | **xhttps_cloudz**: Alpaca (MFR), Candicorn (MFR), Halo | **Elysia_4387**: Cow (MFR), Sugar Glider (MFR) |
-| 06:30 | **Gaming_James02**: Black Springer Spaniel (NR), Ride-A-Pet Potion | **Spralliiig**: Unicorn (NFR) |
-| 06:30 | **zjKC7l**: Fly-A-Pet Potion ×6 | **itz_Dizz01**: Shark Puppy (FR) |
-| 06:30 | **LostKeksik**: Ride-A-Pet Potion | **sweetenmysoul**: Pirate Ship House |
-| 06:30 | **luvyerh**: Cow (FR) | **cazzy123abc**: Arctic Fox (FR), Elephant (R), Arctic Fox, Fly-A-Pet Potion |
-| 06:30 | **degr8ded**: Irish Setter (M), Easter Bunny | **Kateva_Russia**: Shoebill (M) |
-| 06:30 | **stellbelle1609**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Cabbit (R) | **PikaPika12466**: Crow (FR) |
-| 06:30 | **X0LuvyouX0**: Rainbow Maker ×2, 2022 Birthday Cake, Fly-A-Pet Potion, Ride-A-Pet Potion | **Diamondprinces32**: Balloon Unicorn (FR) |
-| 06:25 | **luvyerh**: Ride-A-Pet Potion, Lion (R) | **hayleydoescheer**: Lion (FR) |
-| 06:25 | **Usudidksk**: Water Opossum (N) | **Vexvzr**: Water Opossum ×4 |
-| 06:25 | **lexcor3**: Giant Panda, Polar Bear (MFR), Frost Unicorn (FR) | **cakeheheheheheh**: Border Collie (MFR), Chocolate Dutch Guinea Pig (MR) |
-| 06:25 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Bunny (M) | **SaltnPepperStuff**: Fly-A-Pet Potion |
+| 06:40 | **Halloween_Goat**: Pupcicle | **Paifrennnn**: Ride-A-Pet Potion |
+| 06:40 | **rqblqx_Evelyn2**: Giraffe (NFR) | **zarajinglesmells**: Chocolate Chip Bat Dragon (MFR), Frost Dragon (FR) |
+| 06:40 | **playwitmeokk**: Tasmanian Devil | **ihitmyheadonwalls2**: Momma Moose ×4 |
+| 06:40 | **bnnysiie**: Peppermint Penguin (MFR) | **zeejnaa**: Alpaca (MFR), Rainbow Maker, 2022 Birthday Cupcake Shoes |
+| 06:40 | **iaMatthieu1**: Crocodile (R) | **Denise_Gsecond**: Arctic Fox (R), Frost Fury |
+| 06:40 | **gggpppgggppp1**: Fly-A-Pet Potion, Pet Handler Pro Certificate | **kilopertq**: Frost Phoenix (R), Solaris |
+| 06:40 | **inkxr2**: Elephant (FR), Frost Fury (R) | **xxxAubreexxx123**: Flamingo (FR) |
+| 06:40 | **Rawrtonimous**: Cow (FR) ×2, Pain au Chat (MR) | **hiwhat043**: Cow (NFR) |
+| 06:36 | **ExpertChipmunkPro**: Cow (FR), Cow, Turtle (FR) ×3, Albino Monkey, Fly-A-Pet Potion, Bunny (MFR), Ride-A-Pet Potion | **bernabe198**: Giant Panda (FR) |
+| 06:36 | **Halloween_Goat**: Pupcicle | **Paifrennnn**: Ride-A-Pet Potion |
+| 06:36 | **Mr_aura6079**: Chocolate Chip Bat Dragon (FR), Kangaroo (FR), Candyfloss Chick (R), Unicorn Horn | **Ladysgaga20**: Field Mouse (MFR) |
+| 06:36 | **Zukiemido_07**: Rose Dragon (NFR), Purple Butterfly (N), Brown Bear (R), Owlbear (R), Ride-A-Pet Potion | **ambervgils**: Cow (FR) |
+| 06:36 | **xx_xxbummrr**: Zombie Buffalo, Ride-A-Pet Potion | **Elwena_xX**: Head Chef |
+| 06:36 | **adorable_rhian**: Chocolate Dutch Guinea Pig | **kneesurgeryreminder**: Raccoon (N), Flower Aura |
+| 06:36 | **KlennXP**: Thunderfisher ×5 | **Youare_soooperf3ct**: Retired Egg ×18 |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
