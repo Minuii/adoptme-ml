@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 04:01 UTC by the scrape workflow._
+_Updated 2026-11-16 04:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 04:01 UTC by the scrape workflow._
 | amvgg | 6 | 28,716 | 2026-11-16T04:00 |
 | elve | 6 | 6,119 | 2026-11-16T04:01 |
 
-## AMVGG completed trades: 22,664 total
+## AMVGG completed trades: 22,689 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 589 |
+| 2026-11-16 | 614 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 04:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:00 | **XisokoGame**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7, Lamb | **0n1yAlaina**: Shark Puppy |
-| 04:00 | **Coconut_milk2199**: Arctic Hare (M), Ride-A-Pet Potion, Caramelgeist (M) | **Bleustar36746**: Peachick (MR) |
-| 04:00 | **Lynn_n77**: Pupcicle (N) | **HamFam1090**: Pet Handler Pro Certificate ×2 |
-| 03:55 | **TANSKlN**: Crow (MFR), Bat Dragon (FR), Copycat (M), Cryptid (R), Naughty Mistletroll (MFR), Bush Elephant (N), Diamond Butterfly (R), Candicorn (NR), Candicorn (R) | **cazzy123abc**: Giant Panda (MFR) |
-| 03:55 | **Orchid62311**: Cerberus (MFR), Lamb (MFR), Corn Doggo (MFR), Brown Bear (NFR) | **cazzy123abc**: Jekyll Hydra (NR) |
-| 03:55 | **Kxxr9**: Frost Dragon (FR), Strawberry Tortle, Toy Monkey, Pupcake (M), Platypus | **urielelpro909**: Owl (FR), Evil Unicorn (FR) |
-| 03:55 | **urielelpro909**: Evil Unicorn, Admin Abuse Egg | **jayjay080309**: Evil Unicorn (FR) |
-| 03:55 | **fwthaclout**: 2022 Birthday Party Hat, Golden Rat (NFR), Bready Necklace, Robin, Strawberry Shortcake Bow | **iggy19375**: Halo |
-| 03:55 | **colonbamimi3030**: Hare (NR) | **iggy19375**: Haetyphoon |
-| 03:55 | **Anadreth**: Mummy Spider (M) | **AmeliaxAnime**: Count Slothula |
-| 03:55 | **vennieemylove**: Spring Bunny Hood | **friedan6**: Stray Cat Dragon (MFR) |
-| 03:55 | **sleepyIambs**: Amami Rabbit (MR), Bunny Swirl (MR), Bunny Swirl (M), Ermine (MR) | **vennieemylove**: Lamb (MFR) |
-| 03:55 | **Sweet1e_bat**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2, Gemstone Egg, Snow Owl (R) | **kaibodydump**: Frost Fury (FR) |
-| 03:55 | **Bananagranny05**: Emberlight, Happy Duckling | **DwWsHZ_2003**: Ride-A-Pet Potion |
-| 03:55 | **love_sry0**: Elephant (FR) | **cuzcookiedough_6720**: Unicorn (N), Berry Cool Cube (MR), Ride-A-Pet Potion |
+| 04:11 | **Amvggtrad3r**: Undead Jousting Horse (R), Pancake Stack | **yeobviiiii**: Violet Butterfly (MFR) |
+| 04:11 | **Chickengigi6**: Kangaroo (FR), Copycat, Ram (NR), Spring Bunny Hood, Coyote (M), Cattuccino (M) | **gatita_garrita0**: Crocodile (NFR) |
+| 04:11 | **Robillionnaire**: Field Mouse (MFR), Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion | **Ladysgaga20**: Border Collie (R), Diamond Amazon, Sugar Glider (NFR) |
+| 04:11 | **Mharkie162**: Chihuahua | **aksgoddess**: Hovertible |
+| 04:11 | **nekomimiyum**: Latte Kitsune, Alley Cat (R), Fly-A-Pet Potion | **Sofa_topgasha**: Matcha Cat |
+| 04:11 | **cherrymoon4441**: Strawberry Shortcake Bat Dragon (FR), Halo, Rain Cloud Hat, Shark Puppy (FR), Copycat (NFR) | **faikubjotch**: Crow (FR) |
+| 04:11 | **deafjaideyyy**: Haetyphoon (M) | **altgenaratordhc45**: Frost Dragon (FR) |
+| 04:11 | **liza_sigma666**: Hippo | **Ternurin_72727**: S'mores Raccoon |
+| 04:11 | **MatiXD12306**: Dalmatian (FR), Goose (FR), Tortoiseshell Guinea Pig, Ring-Tailed Lemur, Propeller Hat, Sandwich Hat, Elf Hat, Burger Boots, Cotton Candy Hat, Volcanic Boots, Pro Ghost Blaster | **F4TTYMCP4TTYS**: African Wild Dog (FR) |
+| 04:11 | **m4ochiii**: Fly-A-Pet Potion ×6, Pupcicle | **TwistedK1tty**: Ride-A-Pet Potion ×12 |
+| 04:11 | **IconsChew**: Chef Gorilla (MFR) | **yeobviiiii**: Lion Cub (NR) |
+| 04:11 | **Sakura22222334**: Admin Abuse Egg ×5, Summer Walrus, Scarebear Stroller, Thunderfisher ×2, Blue Whale, Blue Jay, Ginger Cat ×2 | **XxTylee**: Ride-A-Pet Potion |
+| 04:11 | **Peanutchampion47**: Haetae (FR) ×3, Chocolate Chip Bat Dragon | **PR0BMEMO**: Haetae (NFR) |
+| 04:11 | **Inganta07**: Fly-A-Pet Potion ×3 | **traharelo**: Frost Fury (FR) |
+| 04:11 | **Emily082010**: Propeller Hat | **teadan0**: White Chef Hat ×2, Butter Knife, Strawberry Clip, Fishbone Badge |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
