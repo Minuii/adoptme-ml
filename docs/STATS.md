@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 12:11 UTC by the scrape workflow._
+_Updated 2026-11-16 12:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 12:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 35,929 | 2026-11-16T12:00 |
-| elve | 6 | 7,669 | 2026-11-16T12:01 |
+| amvgg | 6 | 36,150 | 2026-11-16T12:15 |
+| elve | 6 | 7,719 | 2026-11-16T12:16 |
 
-## AMVGG completed trades: 23,677 total
+## AMVGG completed trades: 23,727 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,602 |
+| 2026-11-16 | 1,652 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 12:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:06 | **C0bster8**: Kangaroo (FR), Ride-A-Pet Potion, Unicorn (NFR), Pupcicle ×12 | **aleks2u**: Cow (FR) |
-| 12:06 | **lera5132**: Fly-A-Pet Potion ×2 | **buang2oo**: Unicorn ×4 |
-| 12:06 | **Kvammletitraketa**: Albino Monkey (FR) | **arialovegodrule**: Spring Bunny Hood, Kitsune (FR), Jekyll Hydra Animated Sticker, Red Panda Ducky (M), Gecko Ducky (M), Ice Cream Cone Hat, Ancient Dragon, Wing Trunk Car |
-| 12:06 | **foovva**: Turtle (FR) | **Bismuth234**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×2 |
-| 12:06 | **Yakkuji**: Kangaroo (FR), Ride-A-Pet Potion ×4 | **anaataccia**: Alpaca (FR) |
-| 12:06 | **Astral_Knight3**: Chihuahua | **anaataccia**: Retired Egg ×18 |
-| 12:06 | **foovva**: Turtle (FR) | **didlitown**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 |
-| 12:06 | **mxdmcrza**: Pandaguin Glooptodog (M), Highland Cow | **Laktozik1**: Ride-A-Pet Potion |
-| 12:06 | **hhhauntedddd**: Unicorn Ducky (M), Stingray (NR) | **muowax**: Ride-A-Pet Potion |
-| 12:06 | **caritoo_zmor**: Cow (R) | **dadjio6alt**: Fly-A-Pet Potion ×16 |
-| 12:00 | **PANDA9994440**: Latte Kitsune (MFR), Kangaroo (NFR), Goose (FR), Cow (FR), Turtle (R), Chocolate Dutch Guinea Pig (MFR), Kangaroo (FR), Albino Monkey (FR), Candicorn (R) | **leruval**: Frost Dragon (FR) |
-| 12:00 | **FRoSt_YyYYyyyy**: Fairy Bat Dragon (R), Kangaroo (R), Pig, Ice Golem (NR) | **xiiiireh**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:00 | **gogo549**: Elephant (FR), Vampire Dragon (FR), Shark Puppy (FR), Sakura Spirit (FR), Kangaroo (FR) ×2, Kangaroo (R), Grim Dragon (FR), Jester Dragon (FR), Jester Dragon (R), Frost Fury (FR) ×2, Frost Fury (R), Ballet Swan (R), Dango Penguins, Dragonfruit Fox, Ninja Monkey, Snow Owl (NFR) | **leruval**: Parrot (FR) |
-| 12:00 | **Yakkuji**: Cabbit (FR), Dragonfruit Fox (NR), Sugar Glider (FR), Siamese Cat (R) | **Annsjdnsnjs**: Alpaca (NFR) |
-| 12:00 | **Beronika_40**: Pupcicle, Purrowl | **kitty_SL100**: Ride-A-Pet Potion |
+| 12:15 | **gTheGamerProYTg**: Kangaroo (R) | **usernamemeeemr**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×2 |
+| 12:15 | **Z0mb1e_R1ot**: Velvet Fuchsia Mega Neon Paint, Strawberry Clip | **cherry_blast2**: Blue Boohoo Mega Neon Paint |
+| 12:15 | **denis_radinskil**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **Kaito_Hunter130**: Pig (R) |
+| 12:15 | **XxSummerxX_0123**: Catte | **maeyylp**: Pupcicle |
+| 12:15 | **Inganta07**: Ride-A-Pet Potion, Lemonade Stand | **Maexnzz**: Lava Wolf |
+| 12:15 | **SCARLETTSPUPS**: Giant Anteater (MFR), Ride-A-Pet Potion | **noaboa678**: Cryptid (FR), Unicorn Horn |
+| 12:15 | **LPPlay42302**: Turtle (FR) ×3, Turtle (R), Candicorn, Elephant (FR), Albino Monkey, Pig, Munchkin Cat (R), Giant Anteater, Fly-A-Pet Potion | **bad_boss1235**: Parrot (FR) |
+| 12:15 | **URSET_ROM4IK997**: Aussie Egg | **VladislavKynazeva**: Ride-A-Pet Potion ×5 |
+| 12:15 | **lianaunicorn14**: Munchkin Cat, Copycat, Dragonfruit Fox | **fayesweet13**: Unicorn Horn |
+| 12:15 | **itsmyalt_heh**: Ride-A-Pet Potion ×7, Harp Seal (R) | **RISHSARAWWW**: Munchkin Cat |
+| 12:15 | **Yomi040605**: Bat Dragon (FR) ×2, Giraffe (FR), Frost Dragon (FR), Turtle (R) | **TANSKlN**: Giant Panda (MFR) |
+| 12:15 | **amyzondelivery**: Turtle (FR), Crocodile (R) | **Sharpie_pies**: Cow (FR), Sushi Penguin ×2 |
+| 12:15 | **Lila_Chanbibi**: Alley Cat (MFR) | **MacarronCheese**: Strawberry Tortle (FR), Unicorn Horn |
+| 12:15 | **shinobu02119**: Princess Mare (N), Sea Angel (N), Cat (NR) | **moon7780913**: Ride-A-Pet Potion |
+| 12:15 | **moon7780913**: Ride-A-Pet Potion | **siti_Qalesy**: Slimingo (R) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
