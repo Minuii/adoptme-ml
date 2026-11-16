@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 10:45 UTC by the scrape workflow._
+_Updated 2026-11-16 10:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 10:45 UTC by the scrape workflow._
 | amvgg | 6 | 34,787 | 2026-11-16T10:45 |
 | elve | 6 | 7,411 | 2026-11-16T10:45 |
 
-## AMVGG completed trades: 23,457 total
+## AMVGG completed trades: 23,463 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,382 |
+| 2026-11-16 | 1,388 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,12 @@ _Updated 2026-11-16 10:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:50 | **XxCodeWraithFrostxX**: Crow (FR), Turtle (FR), Munchkin Cat, Arctic Fox, Arctic Dusk Dragon (FR), Arctic Dusk Dragon (R), Shrew (FR), Ride-A-Pet Potion | **sigmaizzmailovvvv2**: Owl (FR) |
+| 10:50 | **unicornpoop198123**: Dango Penguins (MFR), Pupcicle (MFR) | **waveyJackiex**: Pig (MFR) |
+| 10:50 | **elyyz_sen**: Cozy Mistletroll (N) | **nasti_a9**: Ride-A-Pet Potion |
+| 10:50 | **AerialVix**: Goose (FR), Cow (FR) | **Robillionnaire**: Sugar Glider (NFR) |
+| 10:50 | **Sirswagalishsus**: Matcha Cat | **boyuancool123**: Ride-A-Pet Potion ×6 |
+| 10:50 | **lonelynymous**: Seahorse (M), Budgie Witch (M), Snow Cloud Wings | **dashechkakk**: Thunderfisher (M) |
 | 10:45 | **Annegbe**: Owl (FR) | **Sunny_Frinch**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR) |
 | 10:45 | **nuggets0162**: Paint Sealer | **miuehla**: Retired Egg ×4 |
 | 10:45 | **Maryha0243**: Kangaroo (FR) | **TheKindAndOnly**: Pupcicle ×18 |
@@ -40,12 +46,6 @@ _Updated 2026-11-16 10:45 UTC by the scrape workflow._
 | 10:45 | **vanillqsz**: Ride-A-Pet Potion, Endangered Egg, Retired Egg, Fairytale Egg, Rubber Ducky Box, Admin Abuse Box | **cerbeirresyt**: Diamond Ladybug |
 | 10:45 | **3mis_alttt**: Golden Ladybug, Alicorn (N) | **KaiSaboAceCC**: Ride-A-Pet Potion |
 | 10:45 | **flov3ry**: Ride-A-Pet Potion ×3 | **Kayorilate**: Snowball Pet (NR) |
-| 10:45 | **m0rbid_cat**: Reindeer (NR) | **v3zxsless**: Great Pyrenees (NR) |
-| 10:45 | **Angxlliic_0**: Cabbit (NFR), Alley Cat (NR) | **XxkfirxbushxX**: Goose (NFR), Fly-A-Pet Potion ×3 |
-| 10:45 | **hathattty**: Turtle (FR), Crocodile (FR), Kangaroo (NFR), Candyfloss Chick (FR), Kangaroo (FR) | **vereltt**: Cryptid (FR) |
-| 10:45 | **TMDung20**: Dalmatian (FR), Kangaroo (FR) | **jypit0410j**: Evil Unicorn (FR) |
-| 10:45 | **NanoAdoptme9**: Cow (FR), Turtle (FR), Pink Cat Ear Headphones, Respectful Mustache, Chicken Hat | **komod4562**: Strawberry Shortcake Bat Dragon (FR) |
-| 10:45 | **Roblocksowl**: Cow (FR) ×3, Candicorn (FR), Spring Bunny Hood | **qswxosmn**: Candicorn (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
