@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 16:01 UTC by the scrape workflow._
+_Updated 2026-11-16 16:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 16:01 UTC by the scrape workflow._
 | amvgg | 6 | 39,671 | 2026-11-16T16:00 |
 | elve | 6 | 8,538 | 2026-11-16T16:01 |
 
-## AMVGG completed trades: 24,456 total
+## AMVGG completed trades: 24,476 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,381 |
+| 2026-11-16 | 2,401 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 16:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:00 | **berrixiea**: Admin Abuse Egg ×18 | **altfortrades222**: Ride-A-Pet Potion |
-| 16:00 | **Vitek_228666**: Cow (R) | **nice2306_alt**: Fly-A-Pet Potion ×10, Pet Handler Pro Certificate ×5, Ride-A-Pet Potion |
-| 16:00 | **anihao17**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×4 | **Vitek_228666**: Turtle (FR) |
-| 16:00 | **1ovIIy**: Ride-A-Pet Potion | **myos_47**: Crystal Egg ×17 |
-| 16:00 | **Zaigorn_AddmyAlt**: Peppermint Penguin (MFR), Jester Dragon (MFR) | **Celeste884**: Giraffe (FR), Balloon Unicorn (R) |
-| 16:00 | **DARKPeImeni**: Snowman (NR) | **rainy_daysarelife**: Ride-A-Pet Potion |
-| 16:00 | **you_no099**: Slime (MR) | **KiraChalaya**: Snow Owl (MFR), Ranger Beaver (MFR), Ride-A-Pet Potion ×3 |
-| 16:00 | **thatGoofyFelix**: Candyfloss Chick (R), Tiny Wings, Chocolate Dutch Guinea Pig | **22veils**: Giant Anteater (N) |
-| 16:00 | **pookiebare08**: Strawberry Shortcake Bat Dragon (FR) | **Floppybunny_4662**: Chocolate Chip Bat Dragon (FR) |
-| 16:00 | **Tandpastatub_e**: Elephant (R) | **Sunny_Frinch**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×5 |
-| 16:00 | **cute_babess**: Jeff's Nametag | **Princess_AllisonJ**: Fly-A-Pet Potion |
-| 16:00 | **sleepinhisarms**: Polar Bear (NR) | **Masonob0n4**: Polar Bear (N) |
-| 16:00 | **InimaDeFoc111**: Ride-A-Pet Potion ×2 | **TR0PIC_CL0UDY**: Shiver Wolf (N) |
-| 16:00 | **xluvvmel**: Meerkat (NR) | **Masonob0n4**: Ballet Swan (N) |
-| 16:00 | **Codezyyyy**: Bush Elephant (NFR), Rain Cloud Hat, 2022 Birthday Cake, Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **alxx_250**: Munchkin Cat (MFR) |
+| 16:06 | **quietlyangel**: Caterpillar (FR) | **IVS102**: Ride-A-Pet Potion ×12 |
+| 16:06 | **DogtoNeonFrost423**: Cryptid (FR), Unicorn Horn, Rainbow Maker, Munchkin Cat (R), Spring Bunny Hood | **BALLERINA_EMI**: Owl (FR) |
+| 16:06 | **Grin900**: Cat Plush | **maurita679**: Ride-A-Pet Potion |
+| 16:06 | **SAMIRA_GACHA0**: Candyfloss Chick (MFR), Candicorn (MFR), Border Collie (MFR), Goose (MFR), Halo, 2022 Birthday Cake, 2022 Birthday Cupcake Shoes | **noelleroan234**: Cryptid (MFR) |
+| 16:06 | **AdamBawaaneh6**: Cow (R) | **CAXAROK_NBK**: Goose (R) |
+| 16:06 | **quietlyangel**: Arctic Fox (R) | **mipansususususu100**: Ride-A-Pet Potion ×8 |
+| 16:06 | **thayla_karin3**: Dalmatian (FR) | **Kirikamu**: Goose (FR), Unicorn Horn, Tiny Wings, Munchkin Cat, Pancake Stack |
+| 16:06 | **16kV8mp**: Bakeneko (MR), S'mores Raccoon (N), Gecko (N), Cattuccino (N), Cotton Candy Hat | **cyborg_1000000**: Skelicorn (N) |
+| 16:06 | **PrincessTessaIsCool2**: Puffin (MFR), Violet Butterfly (MFR), Gecko (MFR), Toaster Hat, Tiny Wings, Shrew (FR) | **imraulrawrr**: Giant Panda (FR) |
+| 16:06 | **haggynionn**: Ride-A-Pet Potion ×4 | **LoriDreamy123**: Santa Hat |
+| 16:06 | **Jeremibus2012**: Frostbite Bear (R) ×2, Border Collie (R), Royal Mistletroll (R), Grim Dragon, Goose (N), Goose (R), Goose, Werewolf (F), Crocodile (R) | **leruval**: Frost Dragon (FR) |
+| 16:06 | **CMETAHKA_LOVE201074**: Latte Kitsune (N), Christmas Pudding Pup, Arctic Fox (R), Fairy Bat Dragon (R), Aurora Fox, Yule Log Dog, Snowball Pet, Toasty Red Panda, Pain au Chat, Snowball Pug | **fox_100l**: Chocolate Chip Bat Dragon (FR) |
+| 16:06 | **Imaxingsx**: Owl (FR), Frostbite Bear (M), Copycat (MFR), Silverback Gorilla (MFR), Velocirooster (MR), Unicorn Horn ×2, Fly-A-Pet Potion ×5 | **Flashbook6**: Bat Dragon (FR) |
+| 16:06 | **Verine_Katz**: Throwback Egg, Poltergeist Box ×6 | **aleeyah51092**: Crystal Egg ×3 |
+| 16:06 | **roblox_user_8676283275**: Matcha Cat (NFR), Matcha Cat (N), Matcha Cat (NR) ×2, Ride-A-Pet Potion | **Thecupofkindness**: Matcha Cat (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
