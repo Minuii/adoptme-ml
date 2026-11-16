@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 05:55 UTC by the scrape workflow._
+_Updated 2026-11-16 06:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 05:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 30,262 | 2026-11-16T05:45 |
-| elve | 6 | 6,447 | 2026-11-16T05:45 |
+| amvgg | 6 | 30,498 | 2026-11-16T06:00 |
+| elve | 6 | 6,495 | 2026-11-16T06:01 |
 
-## AMVGG completed trades: 22,887 total
+## AMVGG completed trades: 22,890 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 812 |
+| 2026-11-16 | 815 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,9 @@ _Updated 2026-11-16 05:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:00 | **gabdoptme**: Fly-A-Pet Potion | **Rootviles**: Cerberus (R), Skelicorn, Stray Cat Dragon, Bubblegeist, Electric Hornet |
+| 06:00 | **U_sulla**: Fly-A-Pet Potion ×3 | **bacon_lless**: Ride-A-Pet Potion ×5 |
+| 06:00 | **jirovx0**: Clownfish (M) | **mmmaattthhheeeooo**: Ride-A-Pet Potion ×4 |
 | 05:55 | **luvyerh**: Candyfloss Chick (FR) | **mostknowniconduh**: Pig (FR), Munchkin Cat |
 | 05:55 | **kindaOwOmeal**: Christmas Pudding Pup (MFR) | **funbunicake**: Burger Bear (M), Candicorn (NFR), Halo, Tiny Wings, Head Chef |
 | 05:55 | **limohq**: Copycat | **joker7_77**: Ride-A-Pet Potion ×6 |
@@ -43,9 +46,6 @@ _Updated 2026-11-16 05:55 UTC by the scrape workflow._
 | 05:50 | **aabeeyg**: Admin Abuse Egg ×4, Soulfire Animated Sticker ×2, Ermine, Yellow Designer Backpack | **BOLK_998**: Cherry Blossom Flower Sticker ×9, Cherry Blossom Tree Sticker ×9 |
 | 05:50 | **snwopii**: Christmas Pudding Pup | **YaGurlisHereNow**: Copycat (FR) |
 | 05:50 | **adrix_n0tFound**: Ride-A-Pet Potion ×6 | **limohq**: Copycat |
-| 05:50 | **SmallestMascot**: Shadow Dragon (NFR) | **Str_ge46**: Shadow Dragon (FR) ×2 |
-| 05:50 | **KanskjeMatilde**: Fairy Bat Dragon (NFR), Cryptid (FR), Goose (R), Polar Bear (NFR), Crocodile (FR), Caterpillar | **Str_ge46**: Frost Dragon (FR) |
-| 05:50 | **NoxIith**: Giant Anteater (MFR), Meerkat (MFR), Diamond Butterfly (FR), Polar Bear (FR), Groundhog | **Str_ge46**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
