@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-16 10:41 UTC by the scrape workflow._
+_Updated 2026-11-16 10:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 13 | 2026-11-11T1036Z | 2026-11-16T0145Z |
-| amvgg | 28 | 2026-11-11T1036Z | 2026-11-16T0645Z |
+| amvgg | 29 | 2026-11-11T1036Z | 2026-11-16T1045Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 34,534 | 2026-11-16T10:30 |
-| elve | 6 | 7,386 | 2026-11-16T10:31 |
+| amvgg | 6 | 34,787 | 2026-11-16T10:45 |
+| elve | 6 | 7,411 | 2026-11-16T10:45 |
 
-## AMVGG completed trades: 23,434 total
+## AMVGG completed trades: 23,457 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,359 |
+| 2026-11-16 | 1,382 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 10:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:41 | **GoldenRiftBlade22**: Jellyfish (MFR) | **Maayas_17alt1**: Jellyfish (NR), Gaelic Fae (MFR), Mule (MR), Chocolate Dutch Guinea Pig (MFR), Blue Ringed Octopus (MFR) |
-| 10:41 | **Wwwaaa_681**: Dalmatian (FR), Cabbit (FR), Siamese Cat (R), Munchkin Cat | **Dgz_2222**: Strawberry Shortcake Bat Dragon (NFR) |
-| 10:41 | **vlados_krash**: Copycat (R) | **SoskaNerra5**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 10:41 | **faikubjotch**: Panda Pal, Witch's Caravan | **6un2z**: Fly-A-Pet Potion |
-| 10:41 | **NathanPlayz83**: Owlbear (MFR), Peach Owl (MFR), Rose Dragon (MFR), Albino Monkey (FR), Toaster Hat, Pig | **MohamedAfj1**: Werewolf (MFR), English Sheepdog (MFR) |
-| 10:41 | **Fbrleey**: French Bulldog (MFR) | **Slushyunicorn0**: Candyfloss Chick (FR) |
-| 10:41 | **2yubin2da**: Alley Cat | **CatsandBTS367**: Snow Monkey |
-| 10:41 | **Yejichan34**: Stray Cat Dragon (N), Pain au Chat | **Biscvidi29**: Pupcicle |
-| 10:36 | **cutle100**: Haetyphoon, 2D Kitty | **afissamuzfirah**: Elephant (R) |
-| 10:36 | **S0ulsfordr4ke3**: Arctic Dusk Dragon (NFR), Red Dutch Guinea Pig | **mandarinkatenka3**: Harp Seal (MFR) |
-| 10:36 | **lordbeam31**: Fairy Bat Dragon (FR), Fly-A-Pet Potion, Husky (R), Count Slothula, Ride-A-Pet Potion | **Adopm615**: Goose (FR) |
-| 10:36 | **LIAXMLV**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×2 | **ulianixx79**: Candicorn (FR) |
-| 10:36 | **andro012233**: Matcha Cat | **Belen7267**: Catte ×5 |
-| 10:36 | **girlbyegirl12**: Ride-A-Pet Potion | **Chcd_baby**: Rat, Kirin, Classic Teapot, Winter Fawn, Velociraptor, Beluga Whale, Stingray, Bakeneko, Show Pony, Pomeranian, Armadillo, Bandicoot, Hopbop, Orange Betta Fish, Kaijunior, Crab, Sea Skeleton Panda |
-| 10:36 | **Artem_21a2**: Copycat (N), Kangaroo (FR), Kangaroo (R), Ride-A-Pet Potion ×3, Summer Walrus Sunhat | **sigmaizzmailovvvv2**: Cow (NR) |
+| 10:45 | **Annegbe**: Owl (FR) | **Sunny_Frinch**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 10:45 | **nuggets0162**: Paint Sealer | **miuehla**: Retired Egg ×4 |
+| 10:45 | **Maryha0243**: Kangaroo (FR) | **TheKindAndOnly**: Pupcicle ×18 |
+| 10:45 | **Delightefull**: Chocolate Dutch Guinea Pig | **Annarrbx**: Ride-A-Pet Potion |
+| 10:45 | **redgeckosarecool**: Cow (NFR) | **miuehla**: Cow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Cow (R) |
+| 10:45 | **Fbrleey**: Albino Monkey (FR), Elephant (FR), Fly-A-Pet Potion | **iaMatthieu1**: Peppermint Penguin (FR) |
+| 10:45 | **vanillqsz**: Ride-A-Pet Potion, Endangered Egg, Retired Egg, Fairytale Egg, Rubber Ducky Box, Admin Abuse Box | **cerbeirresyt**: Diamond Ladybug |
+| 10:45 | **3mis_alttt**: Golden Ladybug, Alicorn (N) | **KaiSaboAceCC**: Ride-A-Pet Potion |
+| 10:45 | **flov3ry**: Ride-A-Pet Potion ×3 | **Kayorilate**: Snowball Pet (NR) |
+| 10:45 | **m0rbid_cat**: Reindeer (NR) | **v3zxsless**: Great Pyrenees (NR) |
+| 10:45 | **Angxlliic_0**: Cabbit (NFR), Alley Cat (NR) | **XxkfirxbushxX**: Goose (NFR), Fly-A-Pet Potion ×3 |
+| 10:45 | **hathattty**: Turtle (FR), Crocodile (FR), Kangaroo (NFR), Candyfloss Chick (FR), Kangaroo (FR) | **vereltt**: Cryptid (FR) |
+| 10:45 | **TMDung20**: Dalmatian (FR), Kangaroo (FR) | **jypit0410j**: Evil Unicorn (FR) |
+| 10:45 | **NanoAdoptme9**: Cow (FR), Turtle (FR), Pink Cat Ear Headphones, Respectful Mustache, Chicken Hat | **komod4562**: Strawberry Shortcake Bat Dragon (FR) |
+| 10:45 | **Roblocksowl**: Cow (FR) ×3, Candicorn (FR), Spring Bunny Hood | **qswxosmn**: Candicorn (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
