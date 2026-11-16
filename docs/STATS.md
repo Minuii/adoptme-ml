@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 17:25 UTC by the scrape workflow._
+_Updated 2026-11-16 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 17:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 40,918 | 2026-11-16T17:15 |
-| elve | 6 | 8,817 | 2026-11-16T17:16 |
+| amvgg | 6 | 41,147 | 2026-11-16T17:30 |
+| elve | 6 | 8,877 | 2026-11-16T17:31 |
 
-## AMVGG completed trades: 24,762 total
+## AMVGG completed trades: 24,792 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,687 |
+| 2026-11-16 | 2,717 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 17:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:25 | **vicelka2**: Spring Bunny Feet | **Thesheeeeesh_god**: Pet Handler Pro Certificate |
-| 17:25 | **qwertyy_xx01**: Arctic Reindeer (NFR), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **LikeVar4ek**: Strawberry Shortcake Bat Dragon (NFR) |
-| 17:25 | **HE4RTZK**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **AzamatR11**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:25 | **SUPERPENGUIN0111**: Skelicorn (MR) | **ZolotayKoshechka**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 17:25 | **Imaxingsx**: Huntsman Robin ×16 | **helloiam_spongebob**: Fly-A-Pet Potion |
-| 17:25 | **Jeansppk**: Ride-A-Pet Potion ×2, Chihuahua | **eva_rokstar0**: Moose Calf |
-| 17:25 | **zukabrokerheart**: Black-Chested Pheasant (NFR) | **Wikitos5**: Cabbit (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion |
-| 17:25 | **Croquinou_Lover**: Fairy Bat Dragon (R), Kangaroo (FR), Elephant (FR) | **Vitek_228666**: Chocolate Chip Bat Dragon (FR) |
-| 17:25 | **pochenaas**: Brown Springer Spaniel, Spring Bunny Hood | **yblxssomz**: Groundhog (FR) |
-| 17:25 | **LaraCroftFurry**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat, Ride-A-Pet Potion ×7 | **dream_smp001**: Dalmatian (FR) |
-| 17:25 | **xiiiireh**: Candicorn | **anna_398587**: Aurora Fox (R), Munchkin Cat, Count Slothula |
-| 17:25 | **regina_12z**: Frost Fury (FR) | **lolppp0vld**: Ring-Tailed Lemur (FR) |
-| 17:25 | **ILOVE_ROBLOXMOMMY**: Blazing Lion (FR), Snowy Mammoth (NFR), Paint Sealer ×2, Fly-A-Pet Potion | **decayrh**: Crow (FR) |
-| 17:25 | **Toffy200512**: Tutu, Butter Knife | **lalalalavec**: Ride-A-Pet Potion |
-| 17:25 | **Diabolo_Inferno**: Elephant, Ride-A-Pet Potion ×4, Gemstone Egg | **Special_Foxi**: Ballet Swan (NFR) |
+| 17:30 | **themilkeywayz**: Thunderfisher (M) ×2 | **PiesekTubson**: Urchin (M) |
+| 17:30 | **MoronicKat_the7th**: Puffer Fish (MR) | **Hccjc28**: Siamese Cat (FR) |
+| 17:30 | **andresfmxq**: Copycat, Matcha Cat | **FHJGHNGMHMKNJ**: Great Pyrenees (M) |
+| 17:30 | **silvergrillx**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Goose (FR) | **1l9v3_u**: Giraffe (FR) |
+| 17:30 | **MonkeyMartlegend**: Ride-A-Pet Potion | **adalnie**: Fossil Sticker Pack |
+| 17:30 | **Mnenormalno_0**: Alley Cat (NR), Christmas Pudding Pup, Drake (NR), Ice Cream Cone Hat, Axolotl (NR), Ride-A-Pet Potion ×2 | **glontincap_1009**: Goose (FR) |
+| 17:30 | **horselife_diva**: Giant Panda (FR), Dodo (NR), Golden Penguin (FR), Majestic Pony | **NDVA2215**: Parrot (FR) |
+| 17:30 | **scarIitta**: Dango Penguins | **goodvibez_forlife**: Snow Monkey |
+| 17:30 | **vrqaxs**: Copycat (M) | **esddier**: Copycat (NR), Copycat (N) ×2, Copycat ×4 |
+| 17:30 | **MiguelFofinho333**: Giant Panda (FR), Chocolate Chip Bat Dragon (NFR) | **ExpertChipmunkPro**: Arctic Reindeer (NFR), Hedgehog (FR), Arctic Reindeer (FR), Ride-A-Pet Potion ×3 |
+| 17:30 | **Loujayn_gam**: Elf Hat | **IIuvbr**: Crystal Egg ×18 |
+| 17:30 | **iv2yec**: Chocolate Dutch Guinea Pig | **IIuvbr**: Paint Sealer ×18 |
+| 17:30 | **bayudaman**: Sheeeeep (NR) | **IIuvbr**: Fly-A-Pet Potion ×11 |
+| 17:30 | **bbkxrby**: Glacier Moth, Latte Kitsune, French Bulldog, Tuxedo Cat (N) | **AzuraRoyalYT**: Fly-A-Pet Potion ×6 |
+| 17:30 | **esddier**: Copycat (NR), Copycat (N) ×2, Copycat ×4 | **vrqaxs**: Copycat (M) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
