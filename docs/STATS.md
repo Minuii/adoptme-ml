@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 21:16 UTC by the scrape workflow._
+_Updated 2026-11-16 21:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 21:16 UTC by the scrape workflow._
 | amvgg | 6 | 44,906 | 2026-11-16T21:15 |
 | elve | 6 | 9,729 | 2026-11-16T21:16 |
 
-## AMVGG completed trades: 25,610 total
+## AMVGG completed trades: 25,660 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,535 |
+| 2026-11-16 | 3,585 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 21:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:15 | **looter_love**: Fly-A-Pet Potion | **Kyza_222222223**: Strawberry Shortcake Bow, Pink Hightops, Growing Flower Hat, Purple Heart Glasses, Festive Antlers |
-| 21:15 | **Maka_Paka12312312**: Meerkat (R), Koala (R) | **ZenonlovesNiko**: Malaysian Tapir (MR) |
-| 21:15 | **lilrikki_2**: Strawberry Shortcake Bat Dragon (FR), Crocodile (FR), Koala (M) | **aleks2u**: Dalmatian (FR) |
-| 21:15 | **AMINO4KA7U**: French Bulldog (MFR) | **ambervgils**: Lamb (FR), Shark (R), Capricorn (FR), King Bee (FR), Turkey (R), Dancing Dragon (FR), Koala (NFR), Kitsune (NFR), Ice Golem (R) |
-| 21:15 | **xDelpapu170408**: Cryptid (FR), Mermicorn (FR), Turtle (FR) ×2, Vampire Dragon (FR), Ride-A-Pet Potion ×3 | **HardSkullMK**: Strawberry Shortcake Bat Dragon (FR) ×3 |
-| 21:15 | **bigmacburger_0**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **docedelets**: Copycat |
-| 21:15 | **ittlshynom**: Punk Pony (MFR), Unicorn Horn, Ice Cream Cone Hat | **AutoTradeCommission**: Peppermint Penguin (FR) |
-| 21:15 | **NICKNAYF009**: Owl (NFR), Evil Unicorn (FR), Turtle (NFR), Peppermint Penguin (FR), Cupid Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Frost Unicorn (FR), Elephant (R), Shark Puppy (R), Copycat, Arctic Dusk Dragon (FR), Ride-A-Pet Potion ×3 | **ADMTRADING72**: Bat Dragon (FR) |
-| 21:15 | **StrawberryCh0c0late2**: Ride-A-Pet Potion, Fly-A-Pet Potion | **0MGSARAY**: Mochi Meow (M) |
-| 21:15 | **cxastlez**: Golden Lettuce ×3, Admin Abuse Egg ×2 | **korneli4aa**: Copycat (R) |
-| 21:15 | **girlgameraaaaaaa**: Chocolate Dutch Guinea Pig (MR) | **Elf_Demin**: Copycat (N) |
-| 21:15 | **NikaFox0403**: Siamese Cat (FR) | **Belen7267**: Matcha Cat ×3 |
-| 21:15 | **6arixia**: Owl (FR), Strawberry Shortcake Bat Dragon (NFR), Peppermint Penguin (NFR), 2022 Birthday Cake ×2 | **hanb3ki**: Owl (NFR) |
-| 21:15 | **Az_Kenzy**: Ride-A-Pet Potion | **pushenn112**: Amethyst Skies Mega Neon Paint, Rose Quartz Glow Mega Neon Paint |
-| 21:06 | **docedelets**: Red Dutch Guinea Pig | **Lily_meow0000**: Ride-A-Pet Potion ×3 |
+| 21:25 | **abdoosaad**: Cow (FR) | **peepz10ve5**: Mecha R4BBIT (MR), Gingerbread Reindeer (MFR), Gingerbread Hare (M), Gingerbread Mouse (M) ×2, Green Amazon (MFR), Praying Mantis (MR) |
+| 21:25 | **werreriss0**: Stray Cat Dragon (N) ×2 | **hsjsjdidhshissihhe**: Ride-A-Pet Potion |
+| 21:25 | **Anadreth**: Black Marlin (N) | **LubiVladaA4**: Retired Egg ×12 |
+| 21:25 | **HELENA_GUEMER12494**: Alpaca (R), Pupcicle | **Cynor0x**: Cattuccino (MR), Toaster Hat, Fly-A-Pet Potion ×2, Spring Bunny Hood |
+| 21:25 | **P8D3L**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **aleks2u**: Koala (M) |
+| 21:25 | **closestIovetoheaven**: Unicorn Horn, 2022 Birthday Party Horn, Boohoo (M) | **jokerako28**: Halo |
+| 21:25 | **pivozkranu**: Sugar Axolotl (NFR) | **ambervgils**: Elephant (R), Crocodile (FR), Glormy Dolphin (MR) |
+| 21:25 | **Lynikkswqs**: Cow (R), Ride-A-Pet Potion ×2 | **carolzinhac2009**: Peppermint Penguin (R) |
+| 21:25 | **sofcheke**: Turtle (FR) | **Cynor0x**: Yeti (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×5 |
+| 21:25 | **vegetasggacc1**: Blazing Lion (MFR) | **Addmymainpls2332**: Peppermint Penguin (MFR), Frost Dragon (MFR), 2022 Birthday Cake |
+| 21:25 | **vertaocsi**: Turtle (FR), Fly-A-Pet Potion ×5 | **docedelets**: Cow (FR) |
+| 21:25 | **A_lthought**: Crocodile (FR), Neon Pink Scooter | **Koshiko_Rolo**: Tortoiseshell Guinea Pig (F), Wailing Mr. Whiskerpips Sticker |
+| 21:25 | **wixxoql**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×5 | **docedelets**: Turtle (FR) |
+| 21:25 | **aoqweza**: Ride-A-Pet Potion ×2 | **Polinat72727**: Capricorn, Gargoyle |
+| 21:25 | **xssoulsz**: Strawberry Shortcake Bat Dragon (FR), Cow | **Itsofc_Emilyxx**: Hedgehog (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
