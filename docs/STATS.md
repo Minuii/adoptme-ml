@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 00:16 UTC by the scrape workflow._
+_Updated 2026-11-16 00:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 00:16 UTC by the scrape workflow._
 | amvgg | 6 | 25,010 | 2026-11-16T00:15 |
 | elve | 6 | 5,456 | 2026-11-16T00:16 |
 
-## AMVGG completed trades: 22,131 total
+## AMVGG completed trades: 22,167 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 56 |
+| 2026-11-16 | 92 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 00:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:15 | **Frog_Cuteyx**: Canadian Goose (MR) | **only4_tt**: Ice Cream Cone Hat |
-| 00:15 | **nikiph9w**: Balloon Unicorn (FR) ×2 | **natalienunnsconcious**: Goose (MFR) |
-| 00:15 | **selensecretacc**: Cow (FR), Fallow Deer, Chocolate Dutch Guinea Pig | **DJ_4348**: Mini Pig (FR) |
-| 00:15 | **N0ugatt**: Matcha Cat | **solariise**: Frost Fury (FR) |
-| 00:15 | **raven5k**: Crocodile (NFR) | **ReadMyCaption4Main**: Kangaroo (NFR), Chocolate Dutch Guinea Pig |
-| 00:15 | **liofe1**: Ice Cream Truck, Chick Backpack | **miraaa4lifeee**: Ride-A-Pet Potion |
-| 00:15 | **moff24**: Frost Fury (NR), Ninja Monkey (NFR), Red Dutch Guinea Pig, Blue Whale (MR) | **arseniylolol**: Turtle (FR) |
-| 00:15 | **docedelets**: Ram (N) | **roxceie**: Ride-A-Pet Potion ×3 |
-| 00:15 | **Exleer**: Retired Egg ×6 | **HORNETPOISON**: Huntsman Robin |
-| 00:15 | **madison_19113**: Snorgle (MFR) | **evescupid**: Alley Cat |
-| 00:10 | **moon_shxdoww**: Ride-A-Pet Potion ×2 | **Itsserena108**: Pomeranian (M), Cotton Candy Hat |
-| 00:10 | **Maryha0243**: Turtle (R) | **usingforamvgg44**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5, Crocodile (R), Scarebear (R) |
-| 00:10 | **FroztedCook31**: Flamingo, Ride-A-Pet Potion | **imfrafreak_justImk**: Unicorn Horn |
-| 00:10 | **AvaNari2010**: Fly-A-Pet Potion ×5 | **Maryha0243**: Phantom Dragon, Ride-A-Pet Potion ×2, Count Slothula |
-| 00:10 | **ssssscliff**: Diamond Unicorn (NFR) | **dnei30fast**: Ride-A-Pet Potion ×2 |
+| 00:25 | **zafe28**: Shadow Dragon (MFR) | **xiadoilla**: Bat Dragon (NFR), Giraffe (FR), Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon, Chocolate Chip Bat Dragon (R), Hedgehog |
+| 00:25 | **nibrian15**: Water Rabbit (N) | **cupid_bow2**: Happy Clam |
+| 00:25 | **Kattyloni**: Chihuahua ×2, Ride-A-Pet Potion | **Dasty0303**: Pupcicle ×2 |
+| 00:25 | **ch0cl3tp4nc4k3z**: Arctic Reindeer (FR) | **TheZ23v1**: Diamond Butterfly (FR), Spring Bunny Hood, Phoenix (NFR) |
+| 00:25 | **Katarinamartino**: Ride-A-Pet Potion ×2 | **buang2oo**: Fly-A-Pet Potion, Magma Moose |
+| 00:25 | **Uni11corn90**: Siamese Cat (MFR), S'mores Raccoon (M), Unicorn Horn, Dragonfruit Fox (N), Dragonfruit Fox, Copycat | **Lee_angel666**: Owl (FR) |
+| 00:25 | **cherrymoon4441**: Hot Doggo (FR), Werewolf (R) | **sopita2602xd**: Diamond Butterfly (FR), Ride-A-Pet Potion |
+| 00:25 | **Minnyclark**: Cow Loves This Sticker | **Kir4kaaa**: Bubblegeist |
+| 00:25 | **Star_accdeleted3**: Glacier Kitsune (NFR) ×2, Jester Dragon (N), Arctic Dusk Dragon (NFR), Blue Dog, Ranger Beaver (M), Sweetheart Rat (NR), Mule, Ghostly Cat (N), Sasquatch (N), Caelum Cervi (R) | **SkaterPlayzQueen2016**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Pet Handler Pro Certificate |
+| 00:25 | **xuanshenzen**: Giant Panda (FR) | **EtrnlSunshiine**: Crow (FR), Munchkin Cat |
+| 00:25 | **WhiteBoy19**: Christmas Spirit (M) | **bobaa_m**: Burger Bear (N), Vanilla Penguin, Cotton Candy Hat |
+| 00:25 | **austinbest123**: Parrot (FR), Crow (FR), Puffin (MFR), Unicorn Horn | **chrisslayer1000**: Strawberry Shortcake Bat Dragon (MFR) |
+| 00:25 | **Bunniixkayy**: Shadow Dragon Animated Sticker, Super Saru Animated Sticker, Butter Knife | **ihitmyheadonwalls2**: Pupcicle ×3 |
+| 00:25 | **chewbxrry**: Retired Egg ×3 | **fasenocturna**: Ant ×9 |
+| 00:25 | **baby_sosabackup**: Dalmatian (FR), Siamese Cat (FR) | **Jimmyjon_JRJR**: Hedgehog (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
