@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 11:46 UTC by the scrape workflow._
+_Updated 2026-11-16 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 11:46 UTC by the scrape workflow._
 | amvgg | 6 | 35,716 | 2026-11-16T11:45 |
 | elve | 6 | 7,595 | 2026-11-16T11:45 |
 
-## AMVGG completed trades: 23,607 total
+## AMVGG completed trades: 23,639 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,532 |
+| 2026-11-16 | 1,564 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 11:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:40 | **nuggets0162**: Turtle (FR) | **Kalasara0**: Aussie Egg, Arctic Fox (R), Meerkat (R), Fly-A-Pet Potion, Reindeer (R), Ride-A-Pet Potion |
-| 11:40 | **Ojitobonito2017**: Catte (N), Ride-A-Pet Potion | **pinkunicornchad**: Catte (NFR) |
-| 11:40 | **strwcherr**: Arctic Reindeer (FR), Munchkin Cat (NFR), Jellyfish (R), Mermicorn (R), Dire Wolf (MR), Capybara (NR), Goldhorn (NR), Drake (NR), Maneki-Neko (N) | **leruval**: Crow (FR) |
-| 11:40 | **Lili58320**: Dragonfly ×3, Fire Stallion ×2, Villain Gibbon, Quetzalcoatl ×2, Purrowl | **Dasti_Fariston**: Ride-A-Pet Potion |
-| 11:40 | **Lotusnaceae**: Irish Setter (M) | **Chignug17**:  |
-| 11:40 | **248autumn**: Gingerbread Reindeer (M), Pink Betta Fish (M), Ride-A-Pet Potion | **didlitown**: Glormy Dolphin (M), Pine Marten (M) |
-| 11:40 | **cinnamqndol**: Chihuahua ×2 | **SharkuKy_Trades**: Ride-A-Pet Potion |
-| 11:40 | **xstrawbunniii**: Balloon Unicorn (FR), 2022 Birthday Confetti Cannon, Unicorn (NFR) | **m00ns_milk**: Giant Panda (FR) |
-| 11:40 | **iiN044**: Chihuahua ×4, Retired Egg ×5 | **Chignug17**: Pet Handler Pro Certificate |
-| 11:40 | **wskdaks**: Pig, Fly-A-Pet Potion | **psxwer**: Dango Penguins (N) |
-| 11:40 | **justi1cee**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Crocodile (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Marines_Natalia**: Evil Unicorn (FR) |
-| 11:40 | **Devouredaden**: Strawberry Shortcake Bat Dragon (FR) | **human4691236**: Mini Pig (R), Brown Springer Spaniel (MR), Happy Clam (R), Fly-A-Pet Potion |
-| 11:40 | **loveturtlencow**: Alley Cat (NR), Zombie Wolf (N) | **egmizie8**: Candicorn |
-| 11:40 | **napakalatina4**: Count Slothula ×3 | **kqiluviee**: Dango Penguins (R) |
-| 11:36 | **EleNinja11**: Evil Unicorn (FR) | **bad_boss1235**: Candicorn (R), Fairy Bat Dragon, Fairy Bat Dragon (R), Mermicorn (FR), Lion Cub (R) |
+| 11:50 | **Tellaannas**: Fairytale Egg ×18 | **papaw02468**: Pupcicle |
+| 11:50 | **kikimoralike**: Pelican (FR) | **Amvgg_2357**: Tortuga de la Isla (R), Kangaroo (R), Ride-A-Pet Potion ×3, Hero Mask ×2 |
+| 11:50 | **jebiilerium**: Cow (FR) | **Bismuth234**: Aussie Egg ×6 |
+| 11:50 | **ratikasinghal5**: Cow (NFR), Cow (R) ×4, Matcha Cat | **Puresksxz**: Owl (FR) |
+| 11:50 | **moff24**: Meerkat (N), Toy Poodle (MR) | **wldnsdlrnldudna**: Dire Stag (MFR) |
+| 11:50 | **moff24**: Tiny Wings, Mr. Whiskerpips (M), Sugar Axolotl | **wldnsdlrnldudna**: Dire Stag (MFR) |
+| 11:50 | **azucar4574l**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **itz_grigoriy**: Copycat |
+| 11:50 | **moff24**: Great Pyrenees (M), Chameleon (M), Pupcicle | **wldnsdlrnldudna**: Dire Stag (MR) |
+| 11:50 | **robloxer_3614**: Ring-Tailed Lemur, Gemstone Egg | **NotEllezxo**: Corn Doggo (R), Propeller Hat |
+| 11:50 | **Ayiyah38**: Chocolate Dutch Guinea Pig (M) | **AMELIESFABXO**: Strawberry Tortle |
+| 11:50 | **quietlyangel**: Unicorn ×4 | **akeks_74**: Ride-A-Pet Potion ×3 |
+| 11:50 | **0Sinem_0**: Ride-A-Pet Potion | **Esikiiomuru**: Blue Boohoo Mega Neon Paint |
+| 11:50 | **c10nNeXx**: Munchkin Cat (NFR), Fly-A-Pet Potion, Wolf, Easter Bunny, Flower Power Duckling, Happy Duckling, Ice Cube (N), Tan Chow-Chow, Gumball Caterpillar | **riskyactss**: Owlbear (NFR), Owlbear (NR) |
+| 11:50 | **Red_Spider228**: Irish Water Spaniel (NFR) | **tarelo4ka_uwu**: Fly-A-Pet Potion, Stray Cat Dragon (NFR), Kid Goat (M), Ride-A-Pet Potion, Kitsune (FR), Triceratops (NR), Dracula Fish (NR), Kirin (NR), Evil Basilisk (R), Lionfish (N), Water Moon Bear (R), Bee (R), Stray Cat Dragon (N), Kangaroo (FR), Winter Fawn (N), Golden Lettuce |
+| 11:50 | **Tryingtogetafrican**: Halloween Evil Dachshund (R), Sloth (R) | **noonecares11204**: Pupcicle (R) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
