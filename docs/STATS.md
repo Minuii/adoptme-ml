@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 12:31 UTC by the scrape workflow._
+_Updated 2026-11-16 12:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 12:31 UTC by the scrape workflow._
 | amvgg | 6 | 36,388 | 2026-11-16T12:30 |
 | elve | 6 | 7,772 | 2026-11-16T12:31 |
 
-## AMVGG completed trades: 23,779 total
+## AMVGG completed trades: 23,786 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,704 |
+| 2026-11-16 | 1,711 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,13 @@ _Updated 2026-11-16 12:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:40 | **XIVrsen**: Cherry-On-Top, Fly-A-Pet Potion ×2 | **welove_deborah**: Goose |
+| 12:40 | **Doshi_Wtapkax**: Copycat (R) ×2 | **aestethic_boba12**: Christmas Pudding Pup, Arctic Fox, Ice Cream Hermit Crab |
+| 12:40 | **sigmaizzmailovvvv2**: Turtle (FR) ×4 | **thyrrone1**: Evil Unicorn (FR) |
+| 12:40 | **RuthJavxn**: Shadow Dragon (FR) ×3, Bat Dragon (FR) ×3, Owl (FR) ×3, Parrot (FR), Parrot (NFR), Cow (NFR) | **talal2006q8**: Bat Dragon (MFR) |
+| 12:40 | **Chipotlee_211**: Toasty Red Panda (MFR), Ram (MFR), Goat (NFR), Purrowl (MFR) | **Cloudyxxvibezzz545**: Chocolate Chip Bat Dragon (FR) |
+| 12:40 | **kitowtq**: Cow (R), Kangaroo (FR) ×2, Copycat (NR), Black Panther (NFR), Tuxedo Cat (R) | **sigmaizzmailovvvv2**: Evil Unicorn (FR) |
+| 12:40 | **hiyoo689**: Llama (MFR), Fly-A-Pet Potion, Pupcicle | **alex10ashe**: Moonbeam Butterfly (MFR) |
 | 12:30 | **EnricoHandsome0**: Blue Jay (NFR) | **xilawn2023**: Ride-A-Pet Potion |
 | 12:30 | **sofiaablehh**: Fairy Bat Dragon (NFR) | **pollylemonlollyscwol**: Cabbit (NR) |
 | 12:30 | **Blabubu_x**: Shadow Dragon (FR), Candicorn (R) | **Zarla_T**: Owl, Giant Panda (FR), Cryptid (R), African Wild Dog (R) |
@@ -39,13 +46,6 @@ _Updated 2026-11-16 12:31 UTC by the scrape workflow._
 | 12:30 | **darina_2011m**: Goose, Pelican, Candicorn, Alpaca (R), Cattuccino (M), Ride-A-Pet Potion | **abdoosaad**: Orchid Butterfly (FR) |
 | 12:30 | **DylanNeon233227**: Peppermint Penguin (R), Ride-A-Pet Potion | **UmeiiYemmy**: Peppermint Penguin (FR) |
 | 12:30 | **GinRonHer2**: Albino Bat | **NaomiUnicorn25**: Amami Rabbit |
-| 12:30 | **notenenALT**: Arctic Fox (MFR), Kangaroo (R), Ice Cream Cone Hat | **pawsicfl**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat (FR), Unicorn Horn |
-| 12:30 | **strewberriboo**: Crystal Egg ×13 | **Astral_Knight3**: Ride-A-Pet Potion |
-| 12:30 | **bad_boss1235**: Goose, Candicorn, Albino Monkey, Giant Anteater, Fly-A-Pet Potion | **Amvgg_2357**: Mini Pig (R), Tortuga de la Isla (NFR), Irish Water Spaniel (R) |
-| 12:30 | **caticornwhisperer**: Owl (MFR), Sugar Glider (MFR), Evil Unicorn (FR), Evil Unicorn (NFR), Bat Dragon (FR), Field Mouse (MFR), Parrot (FR), Siamese Cat (MFR) ×2, Goose (MFR), Balloon Unicorn (FR), Frost Dragon (FR), Frost Dragon (F), Bush Elephant (MFR), Giant Anteater (MFR), Frost Unicorn (MFR), Hot Doggo (MFR), Munchkin Cat (MFR) | **ddolls1nss**: Bat Dragon (MFR) |
-| 12:30 | **yangese**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **omlisage_amvgg**: Frost Dragon (FR) |
-| 12:30 | **elitro44**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **CyberShadow120111**: Jester Dragon |
-| 12:30 | **iiam_nikiii**: Jester Dragon (R) | **VegaPhonki**: Pupcicle ×6 |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
