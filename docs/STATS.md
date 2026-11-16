@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 22:10 UTC by the scrape workflow._
+_Updated 2026-11-16 22:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 22:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 45,613 | 2026-11-16T22:00 |
-| elve | 6 | 9,885 | 2026-11-16T22:01 |
+| amvgg | 6 | 45,860 | 2026-11-16T22:15 |
+| elve | 6 | 9,951 | 2026-11-16T22:16 |
 
-## AMVGG completed trades: 25,822 total
+## AMVGG completed trades: 25,837 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,747 |
+| 2026-11-16 | 3,762 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 22:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:10 | **coocof6**: Pelican (MFR), Pink Cat (MFR), Candicorn (NFR) ×3, Candicorn (N), Alley Cat (M) | **Shhdhehdneirjndnd**: Diamond Butterfly (MFR) |
-| 22:10 | **Vol4ica77**: Evil Unicorn (FR), Copycat (NFR) | **Ldshadowleopard2**: Blazing Lion (FR) |
-| 22:10 | **jzmeenkathebben**: Crow (FR), Kitty Biscuit, Strawberry Shortcake Ducky, Catte | **stressracks**: Giant Panda (FR) |
-| 22:10 | **Antolaly**: Candicorn (NFR), Mini Pig | **Intrflying**: Dalmatian (FR) |
-| 22:10 | **7yasmin10**: Ride-A-Pet Potion ×4 | **2M1K0**: Unicorn ×4 |
-| 22:10 | **cakeheheheheheh**: Cabbit (NFR), Strawberry Shortcake Bat Dragon (FR), Pancake Stack | **mimikokittyy**: Balloon Unicorn (FR) |
-| 22:10 | **azucar4574l**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **Riikka_Takanashiii**: Copycat (R) |
-| 22:10 | **veroNIKA_star016**: Bakeneko (N), Ribbon Seal (N), Golden Dragon, Purrowl, Ancient Dragon, Abyssinian Cat (N), Bunny (N), Camel (N) ×3, Poodle (N) | **lantongzp**: Ride-A-Pet Potion |
-| 22:10 | **JustDo_It097**: Pupcicle | **Prinssxlq**: Mighty Haetyphoon Animated Sticker |
-| 22:10 | **Sunzeliv**: Candicorn (MFR), Candicorn | **copyvoting**: Goat (MFR) |
-| 22:10 | **Snoxs545**: Flash Weasel (FR), Ride-A-Pet Potion ×2, Toucan (NR) | **che12young**: Kangaroo (FR) |
-| 22:10 | **itssuu_k**: Fallow Deer, Dango Penguins, Christmas Pudding Pup, Chocolate Dutch Guinea Pig, Pupcicle, Moon Rabbit | **iaMatthieu1**: Winged Tiger (R) |
-| 22:10 | **Xxxxashhhh**: Ride-A-Pet Potion ×3 | **Wobblygoose0**: Brown Bear |
-| 22:10 | **KomaruDissapear**: GoKart | **tarrace_house**: Ride-A-Pet Potion ×4 |
-| 22:10 | **Omar2002548**: Owlbear (R) | **classicsxmmy**: Black Widow (N), Peach Owl |
+| 22:15 | **rip_kazukieeeee**: Haetyphoon (MFR) | **thesuperkid0**: Frost Dragon (FR) |
+| 22:15 | **love_cat6242**: Stray Cat Dragon ×4, Bobageist, Jumpscare | **Angela12514**: Stray Cat Dragon (N) |
+| 22:15 | **SyndromGG**: Alicorn (NFR) | **Angela12514**: Fly-A-Pet Potion |
+| 22:15 | **euxiizn**: S'mores Raccoon (MFR), Dango Penguins (N) | **NotSweatyOnion**: Copycat (NFR), White Chef Hat |
+| 22:15 | **Tryingtogetafrican**: Pupcicle (N), Ride-A-Pet Potion, Unicorn, Golden Unicorn | **popadastr000**: Copycat (R) |
+| 22:15 | **Cloud_Lady111**: Caramelgeist (N), Zebra (N), Parakeet (R), Unicorn Ducky (N), Glyptodon Ducky (N), Purrowl ×2, Three Blind Mice, Blue Whale | **pinkysworn**: Ride-A-Pet Potion |
+| 22:15 | **ZeroHASaberZAPrimal1**: Aurora Fox (NFR), Rainbow Maker | **Dora_MS1**: Werewolf (NFR) |
+| 22:15 | **tommylikeroblox2009**: Fairytale Egg ×3 | **loveiIIusion**: Retired Egg ×3 |
+| 22:15 | **Kiritto1415**: Ermine (N) | **Weirdcore_021114**: Ride-A-Pet Potion |
+| 22:15 | **FlyToTheSaturn**: Albino Bat, Shetland Pony White, Sloth, Space Whale, St Bernard, Wooly Rhino, Wyvern (F), Castle Hermit Crab ×4, Hippo, Lynx (R), Monkey (N), Mule, Musk Ox, Reindeer, Borhyaena Gigantica | **Panci_Terbang33**: Fly-A-Pet Potion ×4 |
+| 22:15 | **xx_xxbummrr**: Dragonfruit Fox (MFR), Angel Wings ×2, Unicorn Horn ×2 | **5uspa**: Balloon Unicorn (FR) |
+| 22:15 | **Katya_1922**: Bunny (NR), Glyptodon Ducky (M) | **kkaatEEe2**: Ride-A-Pet Potion |
+| 22:15 | **Mmaxii16**: Ride-A-Pet Potion ×4 | **Lerunhi**: Eel (M) ×2 |
+| 22:15 | **aydachan200311**: Unicorn (NFR) | **7yasmin10**: Ride-A-Pet Potion ×6 |
+| 22:15 | **Ashvr_s0ul9**: Giant Gold Scarab, Red Dutch Guinea Pig, Pineapple Owl, Aestus, Diamond Albatross | **Omar2002548**: Super Saru (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
