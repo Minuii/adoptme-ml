@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 03:55 UTC by the scrape workflow._
+_Updated 2026-11-16 04:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 03:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 28,469 | 2026-11-16T03:45 |
-| elve | 6 | 6,076 | 2026-11-16T03:45 |
+| amvgg | 6 | 28,716 | 2026-11-16T04:00 |
+| elve | 6 | 6,119 | 2026-11-16T04:01 |
 
-## AMVGG completed trades: 22,661 total
+## AMVGG completed trades: 22,664 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 586 |
+| 2026-11-16 | 589 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,9 @@ _Updated 2026-11-16 03:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:00 | **XisokoGame**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7, Lamb | **0n1yAlaina**: Shark Puppy |
+| 04:00 | **Coconut_milk2199**: Arctic Hare (M), Ride-A-Pet Potion, Caramelgeist (M) | **Bleustar36746**: Peachick (MR) |
+| 04:00 | **Lynn_n77**: Pupcicle (N) | **HamFam1090**: Pet Handler Pro Certificate ×2 |
 | 03:55 | **TANSKlN**: Crow (MFR), Bat Dragon (FR), Copycat (M), Cryptid (R), Naughty Mistletroll (MFR), Bush Elephant (N), Diamond Butterfly (R), Candicorn (NR), Candicorn (R) | **cazzy123abc**: Giant Panda (MFR) |
 | 03:55 | **Orchid62311**: Cerberus (MFR), Lamb (MFR), Corn Doggo (MFR), Brown Bear (NFR) | **cazzy123abc**: Jekyll Hydra (NR) |
 | 03:55 | **Kxxr9**: Frost Dragon (FR), Strawberry Tortle, Toy Monkey, Pupcake (M), Platypus | **urielelpro909**: Owl (FR), Evil Unicorn (FR) |
@@ -43,9 +46,6 @@ _Updated 2026-11-16 03:55 UTC by the scrape workflow._
 | 03:55 | **Sweet1e_bat**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2, Gemstone Egg, Snow Owl (R) | **kaibodydump**: Frost Fury (FR) |
 | 03:55 | **Bananagranny05**: Emberlight, Happy Duckling | **DwWsHZ_2003**: Ride-A-Pet Potion |
 | 03:55 | **love_sry0**: Elephant (FR) | **cuzcookiedough_6720**: Unicorn (N), Berry Cool Cube (MR), Ride-A-Pet Potion |
-| 03:55 | **RileyforSure28**: Crow (FR), Hare (MFR) | **kittymwwha**: Owl (FR) |
-| 03:55 | **yumstarf**: Pupcicle | **HamFam1090**: Mr. Whiskerpips (N) |
-| 03:55 | **Endlesspurplequirl**: Siamese Cat (R), Ride-A-Pet Potion | **RENAT_ROBL**: Siamese Cat (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
