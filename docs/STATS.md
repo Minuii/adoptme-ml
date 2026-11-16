@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 03:10 UTC by the scrape workflow._
+_Updated 2026-11-16 03:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 03:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 27,757 | 2026-11-16T03:00 |
-| elve | 6 | 5,942 | 2026-11-16T03:01 |
+| amvgg | 6 | 27,981 | 2026-11-16T03:15 |
+| elve | 6 | 5,993 | 2026-11-16T03:16 |
 
-## AMVGG completed trades: 22,555 total
+## AMVGG completed trades: 22,579 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 480 |
+| 2026-11-16 | 504 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 03:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:06 | **Hannah_MI989**: Blazing Lion (R) | **DoughnutDucks**: Blazing Lion |
-| 03:06 | **FrostyLife8382**: Frost Phoenix (N) | **dawg1723**: Ride-A-Pet Potion ×9 |
-| 03:06 | **Artem_21a2**: Pancake Stack | **SLLRNSIBLINGS**: Ride-A-Pet Potion, Red Squirrel (R), Great Pyrenees, Mighty Haetyphoon Animated Sticker |
-| 03:06 | **quVare_PDF**: Kangaroo (FR), King Bee (R), Ox Box ×2 | **Artem_21a2**: Flamingo (FR) |
-| 03:06 | **Kinley311yy**: Ride-A-Pet Potion ×2 | **hhhauntedddd**: Oryx (N), Mistletroll (N), Ankylosaurus (N), Fennec Fox (M) |
-| 03:06 | **pushenn112**: Munchkin Cat | **nicolasceci444**: Mono-Moped, Ketchup and Mustard Jetpack, Dogmobile, Bubble Car, Wing Trunk Car, Donut Cycle, Tiffany, Douglas, Traveling House |
-| 03:06 | **ViscaBarca_44**: Haetae | **cowjonathan12**: Evil Unicorn (FR), Turtle (FR) |
-| 03:06 | **Mrbingo_O16**: Pupcicle ×2 | **nicolasceci444**: Neon Blue Scooter |
-| 03:06 | **clalouetciedh**: Unicorn ×2 | **Shara_cool925**: Ride-A-Pet Potion ×2 |
-| 03:06 | **NummieNummiegirl**: Golden Walrus, Diamond Dragon, Diamond Griffin | **leesoyul11111111**: Ride-A-Pet Potion |
-| 03:06 | **NummieNummiegirl**: Kitsune (FR), Bee (N), Alicorn | **anihao17**: Ride-A-Pet Potion |
-| 03:06 | **510478**: Spring Bunny Hood, Goose (R), Fly-A-Pet Potion | **isabella68078**: Flaming Fox (MFR) |
-| 03:06 | **Tomas_will18**: Sunglider (FR) | **asimo52251**: Pupcicle |
-| 03:06 | **MoMtobias**: Crow (FR) | **luxsdomain**: Caterpillar (NFR), Lion (R), Hedgehog (FR) |
-| 03:06 | **DuckyMuffinz**: Ride-A-Pet Potion | **flowerist0w04577**: Paint Sealer ×18 |
+| 03:15 | **shara_kimi05**: Unfortunate Eyelashes, Cat Backpack, Tutu | **TwistedK1tty**: Ride-A-Pet Potion |
+| 03:15 | **shymochabunny**: Rainbow Maker, Cold Cube (M) | **WhyAreYouSoooDumb**: Chocolate Chip Bat Dragon (FR) |
+| 03:15 | **Qu33nDQCrimsonO19932**: Chihuahua ×7 | **T1REDOFYOUU**: Ride-A-Pet Potion ×3 |
+| 03:15 | **pyflox**: Pet Handler Pro Certificate, Golden Unicorn, Admin Abuse Egg | **NottJaffeth**: German Shepherd (R) |
+| 03:15 | **Xz_CodeOLDriftdLBliz**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **y2k_itadori**: Pupcicle ×5 |
+| 03:15 | **cirocrack2020**: Clover Cow (M), Skunk (M), Snowball Pug (M), Arctic Hare (M) | **Manueleto12334**: Candicorn (FR) |
+| 03:15 | **No_puede19**: Haetyphoon, S'mores Raccoon (N), S'mores Raccoon ×3 | **cupcake_bakerlj**: S'mores Raccoon (MFR) |
+| 03:15 | **luvonnya**: Koi Carp (MR), Choco Penguin (M), Orange Butterfly (FR) | **raeshiia**: Tiny Wings |
+| 03:15 | **Sealeoxs**: Happy Clam (MFR), 2022 Birthday Cake | **Thecupofkindness**: Ballet Swan (MFR) |
+| 03:15 | **des19876**: Munchkin Cat (MFR), Owlbear (MFR), Groundhog (MFR), Fly-A-Pet Potion ×3 | **iiqtxvibes**: Cryptid (NFR) |
+| 03:15 | **loveturtlencow**: Shadow Dragon (FR) | **Manueleto12334**: Giraffe (FR), Crow (FR), Goose (FR) |
+| 03:15 | **lwevinot**: Bubblegeist ×3, Alicorn ×4 | **Riikka_Takanashiii**: Ride-A-Pet Potion |
+| 03:15 | **cherrymoon4441**: Shadow Dragon (FR) | **Rbd_JP**: Haetae (FR), Cryptid (R), Evil Unicorn (FR), Orchid Butterfly, Strawberry Shortcake Bat Dragon (FR), Halo, Elephant (R), Shark Puppy (FR), Rain Cloud Hat |
+| 03:15 | **HannaMontanasing**: Giraffe (NFR), Frost Dragon (FR) | **FloriasUgc**: Cryptid (MFR), Crocodile (NFR), Sandwich Hat, Kangaroo (NFR) |
+| 03:15 | **vdkskull**: Bat Dragon (FR), Frost Dragon (NFR) | **xxRemialt2**: Frost Dragon (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
