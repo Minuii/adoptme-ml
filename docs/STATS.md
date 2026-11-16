@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 20:31 UTC by the scrape workflow._
+_Updated 2026-11-16 20:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 20:31 UTC by the scrape workflow._
 | amvgg | 6 | 44,118 | 2026-11-16T20:30 |
 | elve | 6 | 9,568 | 2026-11-16T20:31 |
 
-## AMVGG completed trades: 25,441 total
+## AMVGG completed trades: 25,490 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,366 |
+| 2026-11-16 | 3,415 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 20:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:30 | **lilymiacat1234**: Penguin (N) | **wannabeadragon**: Chicken (R) |
-| 20:30 | **spooke537**: Fairy Bat Dragon (FR), Fairy Bat Dragon, Crocodile (R) | **pifi6667**: Goose (R), Cow (FR) |
-| 20:30 | **spooke537**: Strawberry Shortcake Bat Dragon (FR) | **DeWoChKa_2282280**: Fairy Bat Dragon, Candyfloss Chick (FR), Kangaroo (FR) |
-| 20:30 | **PIasticTree**: Mule (MFR) ×2, Sheeeeep (NR) | **deeplishpou**: Tri-horned Treehopper (MFR) |
-| 20:30 | **momoboys951**: Frost Dragon (FR) ×2 | **higuysitskobe**: Rainbow Maker ×6, Unicorn Horn ×6, Halo |
-| 20:30 | **XTREYT**: Gingerbread Wings | **MissMaryCornfield**: Retired Egg ×7 |
-| 20:30 | **qSaori**: Mighty Haetyphoon Animated Sticker | **XTREYT**: Jade Moth Wings |
-| 20:30 | **Truthfulverse**: Ice Cream Cone Hat | **n1noBl**: Fly-A-Pet Potion ×4 |
-| 20:30 | **i111kwm**: Ride-A-Pet Potion | **privetiloxev**: Ribbon Seal (NR), Shiba Inu (NR) |
-| 20:30 | **jokerako28**: Cryptid (FR) | **EmmaFlame548**: Catte (MFR), Halo, Black Chow-Chow (MFR), Munchkin Cat (FR), Toaster Hat, Owlbear (NFR), Pet Handler Pro Certificate |
-| 20:30 | **desirevic**: Parrot (FR), Bunny Swirl (N) | **ThisIsAltAddMavy2567**: Parrot |
-| 20:30 | **Toffy200512**: Tutu, Butter Knife | **Shallwe11037**: Ride-A-Pet Potion |
-| 20:30 | **ox0Lejeune0xo**: Alpaca (R), Fly-A-Pet Potion ×2 | **Soso4ka004**: Mermicorn (FR) |
-| 20:30 | **Cute_CocoMouse**: Sakura Spirit (MFR), Chocolate Chip Bat Dragon (FR) | **XiaoFaye1433**: Parrot (FR), 2022 Birthday Party Horn, Ride-A-Pet Potion ×3 |
-| 20:30 | **doisynan**: Tasmanian Devil | **LucyySilvermoon**: Ride-A-Pet Potion |
+| 20:41 | **OwO98759**: Amami Rabbit (N) | **anutik_awesome**: Snow Monkey |
+| 20:41 | **YORITCI0**: Pupcicle ×2, Chocolate Dutch Guinea Pig | **Maryha0243**: Pet Handler Pro Certificate, Ride-A-Pet Potion |
+| 20:41 | **tinygirltomboy323**: Pain au Chat (MR) | **Smoothiecookie1234**: Dire Wolf (MFR), Samoyed (M), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 20:41 | **lolcryabtit6767**: Christmas Pudding Pup (MFR), Turtle (R) | **SEBASTIAN_030513**: Strawberry Penguin (MFR) |
+| 20:41 | **Honeymochi_oo**: Goose (FR) | **GrindAccount_N1**: Silly Duck ×5, Capybara (F), Snow Owl (FR) ×9, White Amazon (FR) ×2, Moose Calf (NR) |
+| 20:41 | **bunnibakes**: Peppermint Penguin (MFR) | **dannysniche**: Peppermint Penguin (NFR), Cabbit (NFR), Angel Wings, Alpaca (NFR), Peppermint Penguin (FR), Halo, Munchkin Cat (NR) |
+| 20:41 | **forthorizon2345**: Goose (FR), Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×3, Ice Cube (N) | **docedelets**: Strawberry Shortcake Bat Dragon (FR) |
+| 20:41 | **TaPok228pon**: Sugar Glider (FR) | **Beardeddragongirl300**: Glacier Kitsune (NFR) |
+| 20:41 | **m3rllw**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **shabsiscute**: Strawberry Shortcake Bat Dragon (FR) |
+| 20:41 | **blushbyelle**: Peppermint Penguin (NFR), Corn Doggo (MFR) | **najla777777**: Siamese Cat (MFR) |
+| 20:41 | **lolcryabtit6767**: Arctic Fox (NFR), Ride-A-Pet Potion | **w1sskaz**: Turtle (FR) |
+| 20:41 | **off_reori**: Pain au Chat | **EmX_zzz**: Maine Coon |
+| 20:41 | **MatsukiMakima**: Ride-A-Pet Potion, Retired Egg ×6 | **givinguponroblox**: Mouse (MFR) |
+| 20:41 | **baby_brooke2007ban**: Gemstone Egg, Skelicorn, Glormy Crab, Stray Cat Dragon, Golden Dragon | **poohbear5234**: Ride-A-Pet Potion |
+| 20:41 | **Honeymochi_oo**: Siamese Cat (FR) | **GrindAccount_N1**: Winged Horse (FR) ×5, T-Rex (R) ×6, Rhino ×2, Chicken ×5 |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
