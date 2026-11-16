@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 11:01 UTC by the scrape workflow._
+_Updated 2026-11-16 11:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 11:01 UTC by the scrape workflow._
 | amvgg | 6 | 35,015 | 2026-11-16T11:00 |
 | elve | 6 | 7,469 | 2026-11-16T11:01 |
 
-## AMVGG completed trades: 23,490 total
+## AMVGG completed trades: 23,521 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,415 |
+| 2026-11-16 | 1,446 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 11:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:00 | **lina200r**: Aurora Fox (MFR), Arctic Dusk Dragon (MFR) | **cxltwaste**: Balloon Unicorn (FR), Strawberry Shortcake Bat Dragon (FR) |
-| 11:00 | **safir_va**: Peahen (M) | **namcymacdonie**: Haetyphoon |
-| 11:00 | **rainthatxx**: Peppermint Penguin (MFR), Fairy Bat Dragon (MFR), Mini Pig (MFR), Frost Unicorn (MFR), Copycat | **Tuti89975**: Frost Dragon (MFR) |
-| 11:00 | **TYTkuza2**: Kangaroo (R) | **NotSweatyOnion**: Ride-A-Pet Potion ×16 |
-| 11:00 | **vlados_krash**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Albino Monkey | **daanz2**: Flamingo (R) |
-| 11:00 | **AmvggPi0n41K**: Kangaroo (R), Kangaroo (FR), Kangaroo (NFR), Grim Dragon (NFR) | **ad0pttrading**: Blazing Lion (FR) |
-| 11:00 | **Wwwaaa_681**: Turtle (NFR), Crocodile (NFR), Siamese Cat (R) ×2, 2022 Birthday Party Horn, Latte Kitsune (NFR) | **sigmaizzmailovvvv2**: Crow (FR) |
-| 11:00 | **faikubjotch**: Alley Cat | **Benutzername3707**: Ride-A-Pet Potion ×2 |
-| 11:00 | **LumDayy**: Budgie Witch (N), Badger | **Kiki_sunik**: Mexican Wolf ×4 |
-| 11:00 | **4nGeL2002**: Mini Pig (FR) | **itz_arabkap**: Candicorn (NR) |
-| 11:00 | **atr1xry**: Munchkin Cat (MFR), Flamingo (R), Fly-A-Pet Potion | **Frdvhev**: Haetae (FR) |
-| 11:00 | **Vanlyzn26**: Crystal Egg ×14 | **Me0wzaii**: Ride-A-Pet Potion |
-| 11:00 | **sllwexx**: Pinkypillar (N) | **ki_ra201345**: Pinkypillar ×6 |
-| 11:00 | **Arabik_XD228**: Turtle (NFR), Copycat (R), Polar Bear (FR), Ride-A-Pet Potion | **llkkiop12345**: Chocolate Chip Bat Dragon (R) |
-| 11:00 | **fearedmelancholy**: Sugar Glider (FR), Crocodile (FR), Ride-A-Pet Potion | **bad_boss1235**: Swan, Lamb (R) ×2, Turkey, Flaming Fox, Llama (FR), Purple Butterfly, Platypus (R), Ice Wolf (FR), Owlbear, Reindeer (NFR), Rose Dragon (FR), Sheeeeep, Sheeeeep (R) |
+| 11:11 | **galitaleti**: Peppermint Penguin (R), Silverback Gorilla ×2, Jester Dragon | **sofia003343**: Turtle (NFR) |
+| 11:11 | **preppygirlyalt12**: Respectful Mustache | **wandafuluni**: Ride-A-Pet Potion |
+| 11:11 | **Merrysilverbacks**: Bat Dragon (MFR), Munchkin Cat (M), Aurora Fox (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **talal2006q8**: Bat Dragon (NFR), Bat Dragon (FR) ×4, Giraffe (FR) |
+| 11:11 | **marchthenewest**: Frostbite Bear, Crocodile (R) | **Lera7egiw**: Hot Doggo |
+| 11:11 | **raccoonybaloony**: Ride-A-Pet Potion | **monxcuhh**: Nebula Snake (N) |
+| 11:11 | **joonesfm55**: Phantom Dragon (FR), Sakura Spirit (FR), Phantom Dragon (R), Sugar Axolotl (R), Ride-A-Pet Potion | **green2014h**: Fairy Bat Dragon (FR) |
+| 11:11 | **Benutzername3707**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×2 | **Dessertsandfoods**: Mr. Whiskerpips (MFR) |
+| 11:11 | **Moon_Cloud609859**: Turtle (R) | **FuryRunner_Hollow305**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×7 |
+| 11:11 | **rinsja777348**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Lynx (NR), Kitsune (NFR), Leopard Cat (N), Flaming Fox, Caramelgeist (M), Ride-A-Pet Potion, Skelicorn (N) | **sigmaizzmailovvvv2**: Strawberry Shortcake Bat Dragon (NFR) |
+| 11:11 | **alex10ashe**: Cow (FR), Cow (R), Kangaroo (FR) ×2, Elephant, Candyfloss Chick (R) | **Kayorilate**: Jellyfish (MFR) |
+| 11:11 | **Godlylegends12**: Jester Dragon (NFR) | **catgirlhaha19**: Jester Dragon (R), Spinning Cat Animated Sticker, Golden Jaguar (N), Giant Black Scarab |
+| 11:11 | **Kgell777**: Vanilla Penguin, Pandaguin Glooptodog (N) | **Gigs194**: Ride-A-Pet Potion |
+| 11:11 | **PhoenixEpic85**: Chihuahua ×11 | **ETtheTongan**: Ride-A-Pet Potion ×4 |
+| 11:11 | **Cutewaeilae**: Jellyfish (R), Frost Fury (FR), Caramelgeist (N), Tree Frog (N) | **dutiewx**: Elephant (R) |
+| 11:11 | **Kalasara0**: Turtle (FR), Zombie Wolf (NFR), Ghostly Cat (M), Ride-A-Pet Potion | **sigmaizzmailovvvv2**: Cow (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
