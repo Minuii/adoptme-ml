@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 17:31 UTC by the scrape workflow._
+_Updated 2026-11-16 17:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 17:31 UTC by the scrape workflow._
 | amvgg | 6 | 41,147 | 2026-11-16T17:30 |
 | elve | 6 | 8,877 | 2026-11-16T17:31 |
 
-## AMVGG completed trades: 24,792 total
+## AMVGG completed trades: 24,832 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,717 |
+| 2026-11-16 | 2,757 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 17:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:30 | **themilkeywayz**: Thunderfisher (M) ×2 | **PiesekTubson**: Urchin (M) |
-| 17:30 | **MoronicKat_the7th**: Puffer Fish (MR) | **Hccjc28**: Siamese Cat (FR) |
-| 17:30 | **andresfmxq**: Copycat, Matcha Cat | **FHJGHNGMHMKNJ**: Great Pyrenees (M) |
-| 17:30 | **silvergrillx**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Goose (FR) | **1l9v3_u**: Giraffe (FR) |
-| 17:30 | **MonkeyMartlegend**: Ride-A-Pet Potion | **adalnie**: Fossil Sticker Pack |
-| 17:30 | **Mnenormalno_0**: Alley Cat (NR), Christmas Pudding Pup, Drake (NR), Ice Cream Cone Hat, Axolotl (NR), Ride-A-Pet Potion ×2 | **glontincap_1009**: Goose (FR) |
-| 17:30 | **horselife_diva**: Giant Panda (FR), Dodo (NR), Golden Penguin (FR), Majestic Pony | **NDVA2215**: Parrot (FR) |
-| 17:30 | **scarIitta**: Dango Penguins | **goodvibez_forlife**: Snow Monkey |
-| 17:30 | **vrqaxs**: Copycat (M) | **esddier**: Copycat (NR), Copycat (N) ×2, Copycat ×4 |
-| 17:30 | **MiguelFofinho333**: Giant Panda (FR), Chocolate Chip Bat Dragon (NFR) | **ExpertChipmunkPro**: Arctic Reindeer (NFR), Hedgehog (FR), Arctic Reindeer (FR), Ride-A-Pet Potion ×3 |
-| 17:30 | **Loujayn_gam**: Elf Hat | **IIuvbr**: Crystal Egg ×18 |
-| 17:30 | **iv2yec**: Chocolate Dutch Guinea Pig | **IIuvbr**: Paint Sealer ×18 |
-| 17:30 | **bayudaman**: Sheeeeep (NR) | **IIuvbr**: Fly-A-Pet Potion ×11 |
-| 17:30 | **bbkxrby**: Glacier Moth, Latte Kitsune, French Bulldog, Tuxedo Cat (N) | **AzuraRoyalYT**: Fly-A-Pet Potion ×6 |
-| 17:30 | **esddier**: Copycat (NR), Copycat (N) ×2, Copycat ×4 | **vrqaxs**: Copycat (M) |
+| 17:41 | **Gamerqueen1255**: Gemstone Egg | **Gacha_3356**: Retired Egg ×18 |
+| 17:41 | **HeyenasArecute**: Arctic Fox | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 17:41 | **whannahbeyours98**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR) | **ava13970**: Giant Panda (FR) |
+| 17:41 | **Squonk037**: Dango Penguins (MFR) | **crazycattan16**: Majestic Pony (MFR) |
+| 17:41 | **Anastasiadenk**: Field Mouse (NFR) | **Lola242532**: Goat (NFR) |
+| 17:41 | **Dollsgr**: German Shepherd (MR), Pet Handler Pro Certificate | **solariise**: Turtle (R) |
+| 17:41 | **Rbd_JP**: Border Collie (MFR) | **Amy_Anna268**: Sheeeeep (MFR), Tree Kangaroo (MFR), Catte (MFR), Diamond Hamster (MFR), Unicorn Horn |
+| 17:41 | **l23Yliashka25l**: Bullfrog (MR), Chihuahua | **0ofiesszz**: Pet Handler Pro Certificate |
+| 17:41 | **Lupaeis**: Evil Unicorn (NFR), Jester Dragon | **yoursocksstink2**: Kangaroo (MFR), Lion Cub (MFR) |
+| 17:41 | **Lukasjunior66**: Shiver Wolf (NFR), German Shepherd (NFR), Black Springer Spaniel (N) | **diiorrvi**: Shiver Wolf (MFR) |
+| 17:41 | **number_58134**: Strawberry Tortle | **C0PHYAK**: Fly-A-Pet Potion ×10, Pet Handler Pro Certificate ×2 |
+| 17:41 | **Llululinda2312**: Dango Penguins (NR), Velocirooster | **Jwadd32**: 2022 Birthday Party Horn |
+| 17:41 | **nalu101008**: Turtle (NFR), Fairy Bat Dragon (FR), Undead Jousting Horse (R), Kangaroo (FR) | **gbhdnnv090**: Haetae (FR) |
+| 17:41 | **cyptiaI**: White Chef Hat | **cbmelissa**: Unfortunate Eyelashes |
+| 17:41 | **HELENA_GUEMER12494**: Moon Rabbit, Easter Bunny | **ximcorazonkoriano**: Candyfloss Mega Neon Paint |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
