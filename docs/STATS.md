@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 09:50 UTC by the scrape workflow._
+_Updated 2026-11-16 09:59 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 09:50 UTC by the scrape workflow._
 | amvgg | 6 | 33,853 | 2026-11-16T09:49 |
 | elve | 6 | 7,238 | 2026-11-16T09:50 |
 
-## AMVGG completed trades: 23,338 total
+## AMVGG completed trades: 23,347 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,263 |
+| 2026-11-16 | 1,272 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 09:50 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:59 | **sxmplycutecorex**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **iangallagher_s1**: Spring Bunny Hood |
+| 09:59 | **Yumalay775**: Fairy Bat Dragon (NFR), Cow (R), Frost Unicorn (FR), Sheeeeep (R) | **KinaToons**: African Wild Dog (FR) |
+| 09:59 | **Anelchik_i**: Momma Moose (M) | **kittnshyy**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 09:55 | **IIzmemories**: Polar Bear (MFR), Happy Clam (MFR), Arctic Dusk Dragon (MFR), Siamese Cat (MR), Candicorn (MFR), Pig (NFR), Black Chow-Chow (N), White Amazon (R) | **j0eymlp**: Strawberry Tortle (MFR) |
+| 09:55 | **franz_1365**: Copycat ×2, Dancing Dragon (FR), Lavender Dragon (FR), Zombie Wolf, Black Springer Spaniel (R), Peahen, Ride-A-Pet Potion | **yeetimaheadout7**: Frostbite Bear |
+| 09:55 | **Alycialolpop1**: Ride-A-Pet Potion | **vlv_var1kiz1488868**: Black Springer Spaniel |
+| 09:55 | **Ffwithyou**: Aurora Fox (R) | **xyza_starsmonica**: Field Mouse |
+| 09:55 | **Umoyaees**: Mermicorn (NFR), Ride-A-Pet Potion | **Iamtuff6735**: Dalmatian |
+| 09:55 | **queenmaya773**: Chocolate Dutch Guinea Pig (M), Fly-A-Pet Potion, Ride-A-Pet Potion, Gaelic Fae (R) | **Tota52Mota**: Goose (R) |
 | 09:49 | **KatsuTatsuya**: Crow (FR), Arctic Reindeer (FR), Cow (FR), Elephant (FR), Halloween Golden Mummy Cat (NR) | **ammadOwO2**: Frost Dragon (FR) |
 | 09:49 | **mambysx**: Pain au Chat, Caramelgeist (N) | **jstforgrindx**: Ribbon Seal (M) |
 | 09:49 | **aleks2u**: Chocolate Chip Bat Dragon (FR), Ice Cream Cone Hat | **notenenALT**: Cow (NFR) |
 | 09:44 | **RamoneTheRamona**: Cow (FR), Cabbit (R), Diamond Egg ×2, Royal Moon Egg, Royal Fairytale Egg | **beearc_c**: Candicorn (NFR) |
 | 09:44 | **whiplashtempo0**: Dragon (M) | **CMETAHKA_LOVE201074**: Mighty Haetyphoon Animated Sticker, Frostbite Bear and Cub Animated Sticker |
 | 09:44 | **xXxdream0**: Dalmatian (FR), Sea Slug (FR), Chocolate Chip Bat Dragon Backpack | **kipoSan0**: Copycat (NFR), Copycat (NR), Copycat (N) |
-| 09:44 | **Chaz_Kia**: Turtle | **vfiffj574**: Royal Mistletroll (R), Puffer Fish (R) |
-| 09:44 | **dacha_123561**: Latte Kitsune (R), Ride-A-Pet Potion ×2 | **XianYunLove**: Frost Fury (R) |
-| 09:44 | **Wrjttenletters**: Copycat | **awim123**: Mummy Spider (M) ×12 |
-| 09:44 | **carrotsareepic1235**: Rose Dragon (NFR) | **cute_bunny123456p**: Rose Dragon (N), Elf Hat |
-| 09:44 | **XiaoFaye1433**: Kangaroo (FR) | **cicichj**: Haetyphoon, Ride-A-Pet Potion |
-| 09:44 | **ohecknooooooo_Gold**: Shark Puppy, Ride-A-Pet Potion ×3 | **tufvfffdjdg**: Crocodile (FR) |
-| 09:44 | **amnadastuven**: Copycat | **Kir4kaaa**: Frost Fury (FR) |
-| 09:44 | **0XbluehuskyX0**: Parrot (NFR), Owl (FR) | **cakes**: Balloon Unicorn (NFR) |
-| 09:44 | **docedelets**: Mule | **kaiinickk1**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
