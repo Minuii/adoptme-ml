@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 01:31 UTC by the scrape workflow._
+_Updated 2026-11-16 01:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 01:31 UTC by the scrape workflow._
 | amvgg | 6 | 26,254 | 2026-11-16T01:30 |
 | elve | 6 | 5,682 | 2026-11-16T01:31 |
 
-## AMVGG completed trades: 22,346 total
+## AMVGG completed trades: 22,365 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 271 |
+| 2026-11-16 | 290 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 01:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:30 | **rwtncrpzs**: Tortoiseshell Guinea Pig (FR) | **alex_lighst4**: Winged Tiger (FR) |
-| 01:30 | **Fan_deJennaO**: Spring Bunny Feet | **Miss_Rupert**: Ride-A-Pet Potion ×2 |
-| 01:30 | **Shara_cool925**: Kangaroo (FR), King Bee (R) | **quVare_PDF**: Nautilus (MFR), Jester Dragon, Ride-A-Pet Potion ×4 |
-| 01:30 | **Fan_deJennaO**: Spring Bunny Nose | **Miss_Rupert**: Ride-A-Pet Potion ×2 |
-| 01:30 | **Schizik_1059**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Owlbear (FR), Ram (FR) | **Fan_deJennaO**: Crocodile (R) |
-| 01:30 | **deathp1ts**: Cryptid, Werewolf (FR), Leopard Shark (NFR) | **porcelaindolliy**: African Wild Dog (FR) |
-| 01:30 | **gh0steddsoull**: Frostclaw Animated Sticker | **oceanxxvv**: Ride-A-Pet Potion |
-| 01:30 | **LillyC00kiess**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Singularity Pisces | **Jhonell_ROBLOX**: Space Fleet House |
-| 01:30 | **kity607AltAccount**: Horse (NR), Alien Eyes Hat, Royal Egg | **Jhonell_ROBLOX**: Scarecrow Horse (M) |
-| 01:30 | **zayylovesuu**: Dango Penguins, Pupcicle (R), Hammerhead Shark (MFR), Chihuahua (N), Banana Hat, Puppeteer Hand | **heyytherelol06**: Shark Puppy (R) |
-| 01:30 | **maciedalt**: Dalmatian (MFR), Halo | **J4YASPL4NET**: Bush Elephant (MFR), Shark Puppy (MFR), Mini Pig (MFR) |
-| 01:30 | **NummieNummiegirl**: Hedgehog (FR), Peppermint Penguin (FR), Dancing Dragon (F), Ride-A-Pet Potion ×2, Lynx (FR), Cake Friend (N) | **Frank_11203**: Arctic Reindeer (FR) ×2 |
-| 01:30 | **012e0122**: Albino Monkey (MFR) | **Idktbhplsshush**: Moonbeam Peacock (MFR) |
-| 01:30 | **XxkfirxbushxX**: Parrot (FR) | **teetehejej**: Kangaroo (MFR), Dragonfruit Fox (MFR), Fairy Bat Dragon (FR) |
-| 01:30 | **TMDung20**: Evil Unicorn (FR), Cow (FR), Lion (R) | **that0neax0l0tl1**: Crow (FR) |
+| 01:40 | **camiilita_7w7**: Siamese Cat (R), Ice Cream Stroller | **gracedontrllycare**: Pupcicle (M) |
+| 01:40 | **reaper_pickles**: Blue Boohoo Mega Neon Paint, Velvet Fuchsia Mega Neon Paint | **themudwizard**: Ride-A-Pet Potion |
+| 01:40 | **fiwncbsk**: Hamster (MFR) | **smudgepuffs**: Fly-A-Pet Potion ×3 |
+| 01:40 | **Lolsuprise128_o**: Ride-A-Pet Potion ×2 | **Bismuth234**: Pet Handler Pro Certificate |
+| 01:36 | **ayiiishapot_2010**: Cattuccino (M) | **raccoonybaloony**: Fly-A-Pet Potion |
+| 01:36 | **fluses_sss**: Capricorn (FR), Choco Penguin (N), Huntsman Robin, Scarlet Butterfly | **raccoonybaloony**: Fly-A-Pet Potion |
+| 01:36 | **bunnylover_lovebun15**: Siamese Cat (R) | **Coco_Blxssxm**: Llama (NR), Turkey (NR), Butter Knife, Strawberry Shortcake Bow, Clumpty (N), White Chef Hat, Picnic Basket, Pink Butterfly Wings, Star Sunglasses, Gold Circle Glasses |
+| 01:36 | **cherrymoon4441**: Balloon Unicorn (FR), Cryptid (FR), Orchid Butterfly (FR), Dalmatian, Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon, Diamond Butterfly (FR), Ride-A-Pet Potion ×2 | **russianlashes**: Shadow Dragon (FR) |
+| 01:36 | **AsianIceCold**: Cow (FR), Kangaroo (NFR), Pet Handler Pro Certificate | **yeetimaheadout7**: Cow (NFR) |
+| 01:36 | **Adoptmestocks3000**: Polar Bear | **lowerbunny**: Fly-A-Pet Potion ×2 |
+| 01:36 | **k5ijo**: Arctic Dusk Dragon | **Wockillzzz2**: Fly-A-Pet Potion ×3 |
+| 01:36 | **Jhonell_ROBLOX**: Ride-A-Pet Potion | **memoriesd4n**: Elf Hat |
+| 01:36 | **StreamSlimeCraze2016**: Moon Rabbit (MFR), Amami Rabbit (MR), Hare (NR), Lava Wolf (NR), Great Pyrenees (MR), Ride-A-Pet Potion, Bready Necklace, Butter Knife | **shortygirlshania**: Chocolate Chip Bat Dragon (FR) |
+| 01:36 | **amnadastuven**: Coyote (R), Criosphinx, Pupcicle ×4, Waffle Wagon, Gingerbread Wings | **ded_valera9586**: Copycat |
+| 01:36 | **reaper_pickles**: Candyfloss Mega Neon Paint, Halloween Slime Mega Neon Paint | **lowerbunny**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
