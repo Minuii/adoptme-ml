@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 02:40 UTC by the scrape workflow._
+_Updated 2026-11-16 02:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 02:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 27,246 | 2026-11-16T02:30 |
-| elve | 6 | 5,864 | 2026-11-16T02:31 |
+| amvgg | 6 | 27,518 | 2026-11-16T02:45 |
+| elve | 6 | 5,892 | 2026-11-16T02:45 |
 
-## AMVGG completed trades: 22,495 total
+## AMVGG completed trades: 22,509 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 420 |
+| 2026-11-16 | 434 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 02:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:45 | **v3xxyyy**: Werewolf | **Sssydney0713**: Copycat (R), Meerkat (R), Toasty Red Panda (N), Hare (R), Pupcicle, Ride-A-Pet Potion |
+| 02:45 | **2262096**: Black Macaque, Blue Ringed Octopus ×2, Brown Springer Spaniel, Chef Gorilla, Gaelic Fae, German Shepherd, Mini Schnauzer, Panda ×2, Puffer Fish, Puffin ×3, Red Sand Dollar, White Sand Dollar, Snowball Pet, Wooly Rhino | **buang2oo**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×7 |
+| 02:45 | **Ann_1212121212**: Peppermint Penguin (FR), Fly-A-Pet Potion | **kayshiyy**: Hot Doggo (FR) |
+| 02:45 | **LaraIphone16e**: Ride-A-Pet Potion | **lushlyr**: Toy Poodle (N), Alicorn |
+| 02:45 | **hotfoxy2020**: Ride-A-Pet Potion | **MrCupcakechallenge**: Pupcicle |
+| 02:45 | **mister_bunny33xd**: Mistletroll (MFR) | **tutritam174**: Ride-A-Pet Potion ×5 |
+| 02:45 | **dardaruni**: 2022 Birthday Cake | **Lqvari**: 2022 Birthday Party Hat |
+| 02:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×4 | **Lqvari**: Arctic Fox (R) |
+| 02:45 | **winterflak9**: Frost Unicorn, Arctic Dusk Dragon (N) | **Lila_Chanbibi**: Strawberry Tortle (FR) |
+| 02:45 | **julkarnain123**: Munchkin Cat (R), Unicorn, Horse (FR), Pet Handler Pro Certificate, Gemstone Egg | **Erimarim19**: Tortoiseshell Guinea Pig (R) |
+| 02:45 | **MOIK0K**: Dalmatian (FR), Owl (FR), River Otter (M), Pancake Stack | **thesuperkid0**: French Bulldog (MR), Frost Dragon (FR), Burger Boots |
+| 02:45 | **crazy4ukat**: Dragonfly (N), Golden Dragon, Diamond Dragon, Ancient Dragon, Fire Stallion, Huntsman Robin, Skelicorn | **EnotikTea**: Ride-A-Pet Potion |
+| 02:45 | **HeartsForEli_1406**: Siamese Cat (R) | **xiivra**: Arctic Dusk Dragon (NFR) |
+| 02:45 | **Hannah_MI989**: Orchid Butterfly, Hot Doggo | **luxsdomain**: Blazing Lion (R) |
 | 02:40 | **rgxifangirl**: Mighty Haetyphoon Animated Sticker | **HamFam1090**: Pet Handler Pro Certificate |
-| 02:40 | **jayjay080309**: Evil Unicorn (FR) ×3 | **TMDung20**: Crow (FR) ×2 |
-| 02:40 | **TMDung20**: Chocolate Chip Bat Dragon (NFR) | **Mimiplayztz123**: Crow (FR) |
-| 02:40 | **Tates1ush**: Cryptid (MFR), Choco Penguin (M) | **elliegrindingxx**: Arctic Reindeer (MFR), Owl (FR), Giant Panda (FR), Elephant (MFR), Dragonfruit Fox (MFR) |
-| 02:40 | **dogtoafrostdragonz**: Moon Rabbit (MR) | **acgwyu**: Pancake Stack, Copycat (R), Christmas Pudding Pup |
-| 02:40 | **deniesisanoob**: Polar Bear (NFR) | **Xxxxashhhh**: Pet Handler Pro Certificate ×6 |
-| 02:40 | **Girldontplaywithme42**: Harp Seal (MFR), Unicorn Backpack | **LemonKoiFish**: Fairy Bat Dragon (FR) |
-| 02:40 | **candy11246**: Grim Dragon (R) | **mostknowniconduh**: Frostbite Bear |
-| 02:36 | **natesctrl**: Frost Dragon (MFR), Crow, Evil Unicorn, Frost Dragon (FR), Goose (NFR), Candyfloss Chick (R), Border Collie | **tokki0000**: Bat Dragon (NFR), Fly-A-Pet Potion |
-| 02:36 | **ange1rbxxx_3**: Platypus (R) | **Wockillzzz2**: Fly-A-Pet Potion ×2 |
-| 02:36 | **Jdjdnx269**: Cow (FR) ×2, Peppermint Penguin (FR) | **notkar_P**: Christmas Pudding Pup (MFR) |
-| 02:36 | **Frs_88xx**: Aestus (R) | **Wockillzzz2**: Ride-A-Pet Potion ×3 |
-| 02:36 | **cakes**: Siamese Cat (MFR) | **rub1th**: Mini Pig (FR), Peppermint Penguin (FR), Strawberry Tortle (FR), Candyfloss Chick (FR), 2022 Birthday Party Hat |
-| 02:36 | **GrindAccount_N1**: Bee (M), Weevil (M), Frostbite Cub (N), Little Lamb (MFR), Frog (NFR), Highland Cow (NR), 2025 Birthday Butterfly (M), Gumball Caterpillar (M), Irish Setter (M), Cat (M), Golden Ladybug (R), Hippogriff, White Sand Dollar, Ride-A-Pet Potion, Reindeer ×3, Halloween White Ghost Dragon (F) | **N0B0DY_1357**: Pupcicle (MFR) |
-| 02:36 | **Jeylin1245**: Amethyst Skies Mega Neon Paint, Grave Owl (N) | **girlbyegirl12**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
