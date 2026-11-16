@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 08:11 UTC by the scrape workflow._
+_Updated 2026-11-16 08:21 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 08:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 32,331 | 2026-11-16T08:00 |
-| elve | 6 | 6,891 | 2026-11-16T08:01 |
+| amvgg | 6 | 32,548 | 2026-11-16T08:20 |
+| elve | 6 | 6,956 | 2026-11-16T08:21 |
 
-## AMVGG completed trades: 23,137 total
+## AMVGG completed trades: 23,156 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,062 |
+| 2026-11-16 | 1,081 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 08:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:11 | **tirami_siah**: Werewolf, Hare (N), Ride-A-Pet Potion ×3 | **wskdaks**: Cow (FR) |
-| 08:11 | **EnverA2006**: Turtle (NFR), Turtle (FR) ×2, Kangaroo (NFR), Kangaroo (FR), Kangaroo (R) | **PuhonaBeri**: Parrot (FR) |
-| 08:11 | **adoptmemmrs13**: Golden Lettuce | **Eldrian06**: Chihuahua (N), Chihuahua |
-| 08:11 | **obriganhik_l**: Fly-A-Pet Potion | **maha_kohka56**: Wood Pigeon, Frozen Penguin (R) |
-| 08:11 | **kulveqq**: Cow (NFR), Arctic Reindeer (FR), Harp Seal (MFR), Matcha Cat, Meerkat (R), Unicorn Horn | **Mikaylamareex**: Owl (FR) |
-| 08:11 | **m1so_02**: Happy Clam (MFR) | **vcloss**: Irish Water Spaniel ×3, Clover Cow (MR), Aurora Fox, Water Moon Bear (MFR), Ornate Horned Frog (MR), Skunk (M), Birthday Butterfly 2023 (MFR), Black Dog (MFR), Dolphin (MFR), Frostbite Cub, Toy Monkey, Happy Duckling, Feesh, Royal Palace Spaniel, White Sand Dollar, Punk Pony (M) |
-| 08:11 | **robloxiana_79943**: Burger Bear (MR), Latte Kitsune (R) | **m1so_02**: Latte Kitsune (NR) |
-| 08:11 | **lollucio251**: Boohoo (N), Black-Footed Ferret (N), Milk Choccybunny (N), Baku (R), Bunny (N) | **SERDDFS1**: Ride-A-Pet Potion |
-| 08:11 | **tink3rb3lld7**: Parrot (NFR), Rainbow Maker, 2022 Birthday Cake, Fly-A-Pet Potion | **GoodPlayer01472**: Mini Pig (MFR) |
-| 08:11 | **PikaPika12466**: Cabbit (R), Ride-A-Pet Potion ×2 | **ash_isofflinexLuvs**: Fairy Bat Dragon (FR) |
-| 08:11 | **Chicken_Drumsticksss**: Dragonfruit Fox (NR) | **v4niiela**: Ride-A-Pet Potion ×10 |
-| 08:06 | **TMDung20**: Ride-A-Pet Potion ×2 | **cutykitty0521**: Hare |
-| 08:06 | **f3line_10alt**: Copycat (R), Fly-A-Pet Potion | **6un2z**: Chihuahua (M) |
-| 08:06 | **masterofsponges**: Copycat | **asanlorenzo**: Ride-A-Pet Potion ×7 |
-| 08:00 | **Light_Moon8461**: Arctic Reindeer (NFR) | **Loshara_xd1**: Evil Unicorn (FR), Cow (FR), Ride-A-Pet Potion |
+| 08:20 | **strawberry_thea08**: Otter (N), Rubber Ducky (N), Jumpscare (N), Jacobin Pigeon (N) | **ItzKaizu7**: Retired Egg ×12 |
+| 08:20 | **Niruch_Bearly**: Kangaroo (FR), Fly-A-Pet Potion | **dozyzen**: Unicorn Horn |
+| 08:20 | **Only_Ley**: Frost Phoenix (MFR), Christmas Spirit (M) | **boxboxzc**: Candicorn (NFR) |
+| 08:20 | **bunnygirlasmr**: Sakura Spirit (MFR), Ballet Swan (N) | **mermaidamazing234**: Balloon Unicorn (FR) |
+| 08:20 | **l3xkpop**: Ram | **Piggwwy_C10**: Snowball Pet |
+| 08:20 | **sweetheart_belle9**: Catte | **sleezyzzx**: Cattuccino (N) ×2 |
+| 08:20 | **simplyxarv**: Rainbow Maker, Ride-A-Pet Potion | **XWanwanxX**: Strawberry Shortcake Bat Dragon (FR) |
+| 08:20 | **batton0955**: Ride-A-Pet Potion | **ch1noke**: Rainbow Stroller |
+| 08:20 | **iXiDustin**: Skelicorn (M), Caramelgeist (N) | **Aeris_184**: Fly-A-Pet Potion |
+| 08:20 | **KotMonster7**: Fly-A-Pet Potion, Ride-A-Pet Potion | **aslan8302**: Latte Kitsune |
+| 08:20 | **amiazz_i**: Mini Pig (FR), Hot Doggo (FR), Sugar Glider (FR), Red Dutch Guinea Pig, Border Collie (R), Munchkin Cat, Aurora Fox (FR) | **Chase_34796**: African Wild Dog (FR) |
+| 08:20 | **Yourgrandadpullsfr**: Grim Dragon (FR) | **dmdrk_03**: Puffer Fish (MFR) |
+| 08:20 | **Trixieli0000**: Flamingo (FR) | **addAquaskycode2015**: Tio De Nadal |
+| 08:20 | **addAquaskycode2015**: Hedgehog (FR) | **stealafart7**: Kangaroo (MFR) |
+| 08:20 | **addAquaskycode2015**: Tio De Nadal | **trynagetacroc**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
