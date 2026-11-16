@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 01:10 UTC by the scrape workflow._
+_Updated 2026-11-16 01:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 01:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 25,789 | 2026-11-16T01:00 |
-| elve | 6 | 5,578 | 2026-11-16T01:01 |
+| amvgg | 6 | 26,016 | 2026-11-16T01:15 |
+| elve | 6 | 5,623 | 2026-11-16T01:16 |
 
-## AMVGG completed trades: 22,305 total
+## AMVGG completed trades: 22,315 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 230 |
+| 2026-11-16 | 240 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 01:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:15 | **vivvlly**: Blazing Lion (R), Cryptid (R), African Wild Dog (FR), Candicorn (R), Cheetah, Flaming Fox, Ride-A-Pet Potion ×2 | **luxsdomain**: Giraffe (FR) |
+| 01:15 | **rufamayg**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **noemihgvgv**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:15 | **rip_indra12345678912**: Ice Moth Dragon ×2, Sea Turtle (R) ×2, Maine Coon (F), Diamond Unicorn ×2, Golden Albatross (R), Diamond Egg, Rosy Maple Moth ×3, Lunar Gold Tiger, Gumball Caterpillar (N), Strawberry Shortcake Ducky ×4 | **Inf3ction2**: Nessie (FR) |
+| 01:15 | **NLin_126**: Great Pyrenees | **Yes_ThisISYako**: Ride-A-Pet Potion |
+| 01:15 | **Emberlight_Warriors**: Lion Cub | **XIVrsen**: Papa Moose |
+| 01:15 | **roblox_user_1554000708**: Ride-A-Pet Potion | **ohbeesitee**: Pupcicle |
+| 01:15 | **poopoozoe12**: Mule (NR), Tanuki (MR), Hippo (N), Propeller Hat, Chocolate Chip Bat Dragon Backpack, Bat Wings | **Lee_angel666**: S'mores Raccoon (M) |
+| 01:15 | **evieebunnii**: Hare, 2022 Birthday 5 Badge | **Chasegamertv2667**: Rose Dragon (R) |
+| 01:15 | **hhhauntedddd**: Ride-A-Pet Potion ×15 | **VortexKrakenB248**: Latte Kitsune (NFR) |
+| 01:15 | **sweetandcaringkiwi**: Pupcicle | **blake_shortie**: Ride-A-Pet Potion |
 | 01:10 | **Valen84532**: Vanilla Penguin, Axolotl | **Thecupofkindness**: Pupcicle ×2 |
 | 01:10 | **i_choo01**: Chocolate Chip Bat Dragon (NFR), Ice Cream Cone Hat, Spring Bunny Feet, Ride-A-Pet Potion | **trashbag_lorelei**: Strawberry Shortcake Bat Dragon (NFR), Strawberry Penguin (NFR) |
 | 01:10 | **AutoTradeCommission**: 2022 Birthday Party Hat, Unicorn Horn, Fly-A-Pet Potion ×3 | **Dollsgr**: Turtle (R), Moon Rabbit (MFR), Amami Rabbit (MFR) |
 | 01:10 | **IzRaiaUwUZaia**: Shark Puppy (R), Ring-Tailed Lemur (R), Ride-A-Pet Potion ×3 | **alexgameminecraft**: Candicorn (FR) |
 | 01:10 | **xXrainbow4lifeXxx**: Ride-A-Pet Potion, Chameleon | **adriel_24k**: Burger Boots, Strawberry Clip |
-| 01:10 | **loommugg**: Chicken | **Xxtrustedella**: Ride-A-Pet Potion ×2 |
-| 01:10 | **kworixx**: Silly Duck | **Xxtrustedella**: Ride-A-Pet Potion |
-| 01:10 | **julesdastar1**: Mermicorn (FR), Cabbit (FR), Turtle (FR), Halo, Cherry-On-Top, S'mores Raccoon (NFR), Spring Bunny Hood | **Ari_Blays**: Balloon Unicorn (FR) |
-| 01:10 | **Str3amN0va2024**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×9, Chocolate Dutch Guinea Pig (N), Choco Penguin (N), Capricorn (FR) | **fluses_sss**: Turtle (FR) |
-| 01:10 | **N0ugatt**: Turtle (FR) | **Slughteer**: Candicorn (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×5 |
-| 01:10 | **AL0HALILYY**: Frost Dragon (FR), Flamingo (R) | **Kimmxqqq**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cow (FR) ×2, Fairy Bat Dragon (FR) |
-| 01:10 | **1Biahsz_altx**: Ride-A-Pet Potion | **1234noemisuper**: Irish Setter (M) |
-| 01:10 | **BirdsAreSmarterThanU**: Maine Coon (MR) | **Middo_Adventures1**: Octopus (NFR) |
-| 01:10 | **Iovefromeva**: Lion Cub (NFR), Ride-A-Pet Potion | **3mis_alttt**: Mule (MR) |
-| 01:10 | **xsf_o**: Owl | **ST3LL4_II**: Balloon Unicorn (FR), Candicorn, Crocodile (FR), Ice Cream Cone Hat, Jester Dragon (R), Dango Penguins ×2, Unicorn (N), Bunny Swirl (N), Ghost Bunny (R), Owlbear (R), Pupcicle (N), Pupcicle ×3 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
