@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 11:31 UTC by the scrape workflow._
+_Updated 2026-11-16 11:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 11:31 UTC by the scrape workflow._
 | amvgg | 6 | 35,499 | 2026-11-16T11:30 |
 | elve | 6 | 7,575 | 2026-11-16T11:31 |
 
-## AMVGG completed trades: 23,584 total
+## AMVGG completed trades: 23,607 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,509 |
+| 2026-11-16 | 1,532 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 11:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:30 | **loane584**: Rose Quartz Glow Mega Neon Paint | **Uquewyraursutsiydpug**: Ride-A-Pet Potion |
-| 11:30 | **Sugar_Viktoria**: Pretty Pony (MFR), Amami Rabbit (MR), Glyptodon (M), Puptune (MR), Capricorn (NFR), Hamster (MR), Happy Clam, Toaster Hat, Ride-A-Pet Potion, Alien Eyes Hat | **squ_evder**: Strawberry Shortcake Bat Dragon (FR) |
-| 11:30 | **you35o**: Fly-A-Pet Potion ×18 | **candyuser2008**: Mini Pig (FR) |
-| 11:30 | **akzoad**: Parrot | **lina200r**: Happy Clam (MFR), Kangaroo (NFR), Chocolate Dutch Guinea Pig (MFR), Sushi Penguin (MFR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
-| 11:30 | **cat6queen**: Hopbop (M), Dracula Fish (M) | **Popa67742**: Ride-A-Pet Potion ×3 |
-| 11:30 | **AnimaMelia1**: Fly-A-Pet Potion ×2 | **eva_rokstar0**: Bee (MFR) |
-| 11:30 | **sugarsaltacc2_0**: Cerberus (MFR), Zombie Wolf (MFR), Werewolf | **lolnoob22477**: Hyena (MFR) |
-| 11:30 | **aleks2u**: Cabbit (R), Spring Bunny Hood, Fly-A-Pet Potion | **Niruch_Bearly**: Cow (FR) |
-| 11:30 | **Chxssxn**: Retired Egg ×4 | **mArg0_Tubb1e**: Paint Sealer ×2 |
-| 11:30 | **kokos2280014**: Ride-A-Pet Potion ×7, Pet Handler Pro Certificate ×2 | **taekkaun**: Pig (FR) |
-| 11:30 | **Sonya73p**: Sheeeeep (NR) | **keissitojf**: 2022 Birthday Cake |
-| 11:30 | **Bismuth234**: Cow (FR), Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 | **DeaYoug10**: Turtle (FR), Frost Unicorn (R) |
-| 11:30 | **plasfreerb**: Crow (MFR) ×2, Parrot (MFR) ×2, Bat Dragon (FR), Bat Dragon (R) | **talal2006q8**: Bat Dragon (MFR) |
-| 11:30 | **sigmaizzmailovvvv2**: Cow, Ride-A-Pet Potion | **Zuffsa12**: Copycat (NFR), Fly-A-Pet Potion ×2 |
-| 11:30 | **sleepy_s0ren**: Angus Cow (M), Black-Footed Ferret (M) | **gggpppgggppp1**: Ride-A-Pet Potion |
+| 11:40 | **nuggets0162**: Turtle (FR) | **Kalasara0**: Aussie Egg, Arctic Fox (R), Meerkat (R), Fly-A-Pet Potion, Reindeer (R), Ride-A-Pet Potion |
+| 11:40 | **Ojitobonito2017**: Catte (N), Ride-A-Pet Potion | **pinkunicornchad**: Catte (NFR) |
+| 11:40 | **strwcherr**: Arctic Reindeer (FR), Munchkin Cat (NFR), Jellyfish (R), Mermicorn (R), Dire Wolf (MR), Capybara (NR), Goldhorn (NR), Drake (NR), Maneki-Neko (N) | **leruval**: Crow (FR) |
+| 11:40 | **Lili58320**: Dragonfly ×3, Fire Stallion ×2, Villain Gibbon, Quetzalcoatl ×2, Purrowl | **Dasti_Fariston**: Ride-A-Pet Potion |
+| 11:40 | **Lotusnaceae**: Irish Setter (M) | **Chignug17**:  |
+| 11:40 | **248autumn**: Gingerbread Reindeer (M), Pink Betta Fish (M), Ride-A-Pet Potion | **didlitown**: Glormy Dolphin (M), Pine Marten (M) |
+| 11:40 | **cinnamqndol**: Chihuahua ×2 | **SharkuKy_Trades**: Ride-A-Pet Potion |
+| 11:40 | **xstrawbunniii**: Balloon Unicorn (FR), 2022 Birthday Confetti Cannon, Unicorn (NFR) | **m00ns_milk**: Giant Panda (FR) |
+| 11:40 | **iiN044**: Chihuahua ×4, Retired Egg ×5 | **Chignug17**: Pet Handler Pro Certificate |
+| 11:40 | **wskdaks**: Pig, Fly-A-Pet Potion | **psxwer**: Dango Penguins (N) |
+| 11:40 | **justi1cee**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Crocodile (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Marines_Natalia**: Evil Unicorn (FR) |
+| 11:40 | **Devouredaden**: Strawberry Shortcake Bat Dragon (FR) | **human4691236**: Mini Pig (R), Brown Springer Spaniel (MR), Happy Clam (R), Fly-A-Pet Potion |
+| 11:40 | **loveturtlencow**: Alley Cat (NR), Zombie Wolf (N) | **egmizie8**: Candicorn |
+| 11:40 | **napakalatina4**: Count Slothula ×3 | **kqiluviee**: Dango Penguins (R) |
+| 11:36 | **EleNinja11**: Evil Unicorn (FR) | **bad_boss1235**: Candicorn (R), Fairy Bat Dragon, Fairy Bat Dragon (R), Mermicorn (FR), Lion Cub (R) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
