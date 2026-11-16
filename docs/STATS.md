@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 20:25 UTC by the scrape workflow._
+_Updated 2026-11-16 20:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 20:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 43,889 | 2026-11-16T20:15 |
-| elve | 6 | 9,496 | 2026-11-16T20:16 |
+| amvgg | 6 | 44,118 | 2026-11-16T20:30 |
+| elve | 6 | 9,568 | 2026-11-16T20:31 |
 
-## AMVGG completed trades: 25,408 total
+## AMVGG completed trades: 25,441 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,333 |
+| 2026-11-16 | 3,366 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 20:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:25 | **stasplay9074**: Fly-A-Pet Potion | **Kuro_Blacks**: Ride-A-Pet Potion ×2 |
-| 20:25 | **Car_nose**: Choco Penguin (N) | **Bow_trader**: Festive Antlers, RGB UFO |
-| 20:25 | **Adoptmestocks3000**: Candicorn (R) | **werlianess**: Fly-A-Pet Potion ×2, Koala (NFR), Snow Monkey ×2, Ride-A-Pet Potion ×6 |
-| 20:25 | **Adoptmestocks3000**: Head Chef | **Reedeemed**: Ride-A-Pet Potion ×5 |
-| 20:25 | **rowletgamig**: Bat Dragon (FR) | **Snoxs545**: Shadow Dragon (FR), Fairy Bat Dragon (MFR), Peppermint Penguin (FR) |
-| 20:25 | **baby_brooke2007ban**: Catte | **Ojitobonito2017**: Ride-A-Pet Potion |
-| 20:25 | **TwistedK1tty**: Hedgehog (NFR), Crow (FR), African Wild Dog (FR), Turtle (FR), Cerberus (NFR), Ride-A-Pet Potion | **PlacentaPrincesss**: Shadow Dragon (FR) |
-| 20:25 | **inicio1994**: Copycat (R), Spring Bunny Hood | **Anoni_541**: Munchkin Cat (R) |
-| 20:25 | **Z_Alexis22**: Cow (FR) | **hijodefrutaXdd9**: Fly-A-Pet Potion ×15 |
-| 20:25 | **ruinedbleeded**: Fly-A-Pet Potion | **mariaomg_roblox25**: Pet Handler Pro Certificate |
-| 20:25 | **detective_emilly**: Cuddly Candle (R) | **Leo_diarioo71**: Ride-A-Pet Potion |
-| 20:21 | **zmline**: Cryptid (MFR), Strawberry Shortcake Bat Dragon (MFR), Glacier Kitsune (MFR), Glacier Moth (MFR) ×3 | **Cinzsins**: Balloon Unicorn (MFR) |
-| 20:21 | **dannysniche**: Alpaca (MFR), Mini Pig (MFR) | **dollfaceangie**: Shadow Dragon (FR), Parrot (FR), Sugar Glider |
-| 20:21 | **imagineraging101**: Owl (FR), Shiver Wolf (MR), Ride-A-Pet Potion ×2 | **HelloNoDm**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (NFR) |
-| 20:21 | **privetiloxev**: Golden Dragon (R), Onza, Albatross, Black-Footed Ferret, Icy Porcupine, Orca, Pink Betta Fish, Peregrine Falcon | **itsvaleriaotz**: Ride-A-Pet Potion |
+| 20:30 | **lilymiacat1234**: Penguin (N) | **wannabeadragon**: Chicken (R) |
+| 20:30 | **spooke537**: Fairy Bat Dragon (FR), Fairy Bat Dragon, Crocodile (R) | **pifi6667**: Goose (R), Cow (FR) |
+| 20:30 | **spooke537**: Strawberry Shortcake Bat Dragon (FR) | **DeWoChKa_2282280**: Fairy Bat Dragon, Candyfloss Chick (FR), Kangaroo (FR) |
+| 20:30 | **PIasticTree**: Mule (MFR) ×2, Sheeeeep (NR) | **deeplishpou**: Tri-horned Treehopper (MFR) |
+| 20:30 | **momoboys951**: Frost Dragon (FR) ×2 | **higuysitskobe**: Rainbow Maker ×6, Unicorn Horn ×6, Halo |
+| 20:30 | **XTREYT**: Gingerbread Wings | **MissMaryCornfield**: Retired Egg ×7 |
+| 20:30 | **qSaori**: Mighty Haetyphoon Animated Sticker | **XTREYT**: Jade Moth Wings |
+| 20:30 | **Truthfulverse**: Ice Cream Cone Hat | **n1noBl**: Fly-A-Pet Potion ×4 |
+| 20:30 | **i111kwm**: Ride-A-Pet Potion | **privetiloxev**: Ribbon Seal (NR), Shiba Inu (NR) |
+| 20:30 | **jokerako28**: Cryptid (FR) | **EmmaFlame548**: Catte (MFR), Halo, Black Chow-Chow (MFR), Munchkin Cat (FR), Toaster Hat, Owlbear (NFR), Pet Handler Pro Certificate |
+| 20:30 | **desirevic**: Parrot (FR), Bunny Swirl (N) | **ThisIsAltAddMavy2567**: Parrot |
+| 20:30 | **Toffy200512**: Tutu, Butter Knife | **Shallwe11037**: Ride-A-Pet Potion |
+| 20:30 | **ox0Lejeune0xo**: Alpaca (R), Fly-A-Pet Potion ×2 | **Soso4ka004**: Mermicorn (FR) |
+| 20:30 | **Cute_CocoMouse**: Sakura Spirit (MFR), Chocolate Chip Bat Dragon (FR) | **XiaoFaye1433**: Parrot (FR), 2022 Birthday Party Horn, Ride-A-Pet Potion ×3 |
+| 20:30 | **doisynan**: Tasmanian Devil | **LucyySilvermoon**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
