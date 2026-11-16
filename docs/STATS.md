@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 04:11 UTC by the scrape workflow._
+_Updated 2026-11-16 04:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 04:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 28,716 | 2026-11-16T04:00 |
-| elve | 6 | 6,119 | 2026-11-16T04:01 |
+| amvgg | 6 | 28,928 | 2026-11-16T04:15 |
+| elve | 6 | 6,167 | 2026-11-16T04:16 |
 
-## AMVGG completed trades: 22,689 total
+## AMVGG completed trades: 22,690 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 614 |
+| 2026-11-16 | 615 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,7 @@ _Updated 2026-11-16 04:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:15 | **XxArmy_UvUxX**: Corn Doggo (NFR) | **Dark_girl375**: Pupcicle (NFR), Pupcicle |
 | 04:11 | **Amvggtrad3r**: Undead Jousting Horse (R), Pancake Stack | **yeobviiiii**: Violet Butterfly (MFR) |
 | 04:11 | **Chickengigi6**: Kangaroo (FR), Copycat, Ram (NR), Spring Bunny Hood, Coyote (M), Cattuccino (M) | **gatita_garrita0**: Crocodile (NFR) |
 | 04:11 | **Robillionnaire**: Field Mouse (MFR), Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion | **Ladysgaga20**: Border Collie (R), Diamond Amazon, Sugar Glider (NFR) |
@@ -45,7 +46,6 @@ _Updated 2026-11-16 04:11 UTC by the scrape workflow._
 | 04:11 | **Sakura22222334**: Admin Abuse Egg ×5, Summer Walrus, Scarebear Stroller, Thunderfisher ×2, Blue Whale, Blue Jay, Ginger Cat ×2 | **XxTylee**: Ride-A-Pet Potion |
 | 04:11 | **Peanutchampion47**: Haetae (FR) ×3, Chocolate Chip Bat Dragon | **PR0BMEMO**: Haetae (NFR) |
 | 04:11 | **Inganta07**: Fly-A-Pet Potion ×3 | **traharelo**: Frost Fury (FR) |
-| 04:11 | **Emily082010**: Propeller Hat | **teadan0**: White Chef Hat ×2, Butter Knife, Strawberry Clip, Fishbone Badge |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
