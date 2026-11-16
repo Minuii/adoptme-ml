@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 18:31 UTC by the scrape workflow._
+_Updated 2026-11-16 18:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 18:31 UTC by the scrape workflow._
 | amvgg | 6 | 42,118 | 2026-11-16T18:30 |
 | elve | 6 | 9,137 | 2026-11-16T18:31 |
 
-## AMVGG completed trades: 25,001 total
+## AMVGG completed trades: 25,043 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,926 |
+| 2026-11-16 | 2,968 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 18:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:30 | **lujustIu**: Cattuccino ×2 | **Kir4kaaa**: Stray Cat Dragon ×2 |
-| 18:30 | **HeyenasArecute**: Ride-A-Pet Potion ×13 | **daanz2**: Fly-A-Pet Potion ×5, Pet Handler Pro Certificate ×2 |
-| 18:30 | **Hungry_Sleppy**: Frost Dragon (NFR), Pet Handler Pro Certificate | **adoptmetradeacc7**: Frost Dragon (FR), Haetae (FR), Cow (R), Goose (R), Turtle (FR) |
-| 18:30 | **DOODODPOI**: Copycat | **romunjo2020**: Jester Dragon (FR) |
-| 18:30 | **LaoBoyJay**: Blazing Lion (FR), Giant Panda (FR), Caterpillar (R), Kangaroo (FR) ×2, Kangaroo (R), Frost Dragon (NFR), Meerkat (NFR) | **Alika_Queen01**: Bat Dragon (FR) |
-| 18:30 | **dloxasteq2**: Haetyphoon (M) | **TANSKlN**: Frost Dragon (FR) |
-| 18:30 | **bolzani001111**: Haetyphoon ×18 | **dloxasteq2**: Frost Dragon (FR) |
-| 18:30 | **KiaXias**: Silly Duck (MFR), Strawberry Shortcake Bat Dragon (FR), Brown Bear, Silly Duck, Ride-A-Pet Potion | **DodgyProkureur**: Cryptid (R) |
-| 18:30 | **KFC_C0nya**: Pet Handler Pro Certificate, Mouse (N) | **siwndl0**: Ride-A-Pet Potion ×2 |
-| 18:30 | **cmhqiyiy3497**: Count Slothula (M), Count Slothula ×5 | **elenapsina666**: Haetyphoon |
-| 18:30 | **Lila_Chanbibi**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×3 | **aqvartzo**: Sugar Glider (NFR) |
-| 18:30 | **0tohero_rahul**: Giraffe (FR), Frost Dragon (FR), Dalmatian (FR), Kangaroo (NFR), Kangaroo (FR), Turtle (FR), Albino Monkey (FR), Ice Cream Hermit Crab (NR) | **TANSKlN**: Bat Dragon (FR) |
-| 18:30 | **Sharpie_pies**: Easter Bunny, Lunar Gold Tiger (R), Cozy Mistletroll, Icy Porcupine, Corgi | **IsaKatze3001**: Ride-A-Pet Potion |
-| 18:30 | **Xlebushek_borebushek**: Ride-A-Pet Potion, Admin Abuse Box | **liza_ok353**: Sloth, Purrowl, Princess Mare (M), Oakee (M) |
-| 18:30 | **elitro44**: Strawberry Shortcake Bat Dragon (FR), Matcha Cat, Fly-A-Pet Potion ×4, Strawberry Tortle (R) | **C2pid1xx**: Cryptid (FR) |
+| 18:41 | **merock56798**: Pupcicle | **Yana_dog151**: Stray Cat Dragon ×7 |
+| 18:41 | **gag_gaag**: Cheetah (N), Amami Rabbit (M), Ermine (M) | **nenitanenita2013**: Alpaca |
+| 18:41 | **wery123416**: Jellyfish (R), Arctic Fox (FR) | **Itsofc_Emilyxx**: Kangaroo (FR) |
+| 18:41 | **quietlyangel**: Toaster Hat | **fartbag89900**: Ride-A-Pet Potion ×10 |
+| 18:41 | **mipansususususu100**: Hare | **Mehaker_zz**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 18:41 | **luvyerh**: Munchkin Cat (R) | **lzxsre**: Pig (FR) |
+| 18:41 | **aianame_rey**: Copycat | **Hugchamb**: Ride-A-Pet Potion ×6 |
+| 18:41 | **dasha_qweryx**: Mummy Spider (M), Boohoo (N), Tanuki, Monkey | **Yana_dog151**: Ride-A-Pet Potion |
+| 18:41 | **getsdar**: Kangaroo (FR) ×2, Chihuahua | **kourabies31415**: Turtle (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×3 |
+| 18:41 | **spojIfed**: Ice Cream Cone Hat, Chocolate Dutch Guinea Pig | **Baterka260353**: Bauble Buddies (MFR) |
+| 18:41 | **Cubarsi31_27**: Tortoiseshell Guinea Pig, Royal Mistletroll (R) | **twojstarydzikitygrys**: Hot Doggo |
+| 18:41 | **mylolovescats**: Ride-A-Pet Potion ×2 | **lzxsre**: Fly-A-Pet Potion |
+| 18:41 | **Jillian_Clarice**: Elephant (FR), Fly-A-Pet Potion | **polinalollipolly**: Amami Rabbit (MFR), Ring-Tailed Lemur, Quokka (NR) |
+| 18:41 | **userulikk**: Fly-A-Pet Potion ×2, Bready Necklace | **Kyza_222222223**: Lamb, Red Dutch Guinea Pig |
+| 18:41 | **Sharpie_pies**: Lunar White Tiger (R), Angus Cow, Clumpty, Mexican Wolf, Sneak Weasel, Thunderfisher, Cocoadile, Humbug (N), Frankenfeline (N) | **bacon_play021**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
