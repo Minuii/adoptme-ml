@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 20:41 UTC by the scrape workflow._
+_Updated 2026-11-16 20:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 20:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 44,118 | 2026-11-16T20:30 |
-| elve | 6 | 9,568 | 2026-11-16T20:31 |
+| amvgg | 6 | 44,389 | 2026-11-16T20:45 |
+| elve | 6 | 9,602 | 2026-11-16T20:46 |
 
-## AMVGG completed trades: 25,490 total
+## AMVGG completed trades: 25,519 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,415 |
+| 2026-11-16 | 3,444 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 20:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:41 | **OwO98759**: Amami Rabbit (N) | **anutik_awesome**: Snow Monkey |
-| 20:41 | **YORITCI0**: Pupcicle ×2, Chocolate Dutch Guinea Pig | **Maryha0243**: Pet Handler Pro Certificate, Ride-A-Pet Potion |
-| 20:41 | **tinygirltomboy323**: Pain au Chat (MR) | **Smoothiecookie1234**: Dire Wolf (MFR), Samoyed (M), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 20:41 | **lolcryabtit6767**: Christmas Pudding Pup (MFR), Turtle (R) | **SEBASTIAN_030513**: Strawberry Penguin (MFR) |
-| 20:41 | **Honeymochi_oo**: Goose (FR) | **GrindAccount_N1**: Silly Duck ×5, Capybara (F), Snow Owl (FR) ×9, White Amazon (FR) ×2, Moose Calf (NR) |
-| 20:41 | **bunnibakes**: Peppermint Penguin (MFR) | **dannysniche**: Peppermint Penguin (NFR), Cabbit (NFR), Angel Wings, Alpaca (NFR), Peppermint Penguin (FR), Halo, Munchkin Cat (NR) |
-| 20:41 | **forthorizon2345**: Goose (FR), Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×3, Ice Cube (N) | **docedelets**: Strawberry Shortcake Bat Dragon (FR) |
-| 20:41 | **TaPok228pon**: Sugar Glider (FR) | **Beardeddragongirl300**: Glacier Kitsune (NFR) |
-| 20:41 | **m3rllw**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **shabsiscute**: Strawberry Shortcake Bat Dragon (FR) |
-| 20:41 | **blushbyelle**: Peppermint Penguin (NFR), Corn Doggo (MFR) | **najla777777**: Siamese Cat (MFR) |
-| 20:41 | **lolcryabtit6767**: Arctic Fox (NFR), Ride-A-Pet Potion | **w1sskaz**: Turtle (FR) |
-| 20:41 | **off_reori**: Pain au Chat | **EmX_zzz**: Maine Coon |
-| 20:41 | **MatsukiMakima**: Ride-A-Pet Potion, Retired Egg ×6 | **givinguponroblox**: Mouse (MFR) |
-| 20:41 | **baby_brooke2007ban**: Gemstone Egg, Skelicorn, Glormy Crab, Stray Cat Dragon, Golden Dragon | **poohbear5234**: Ride-A-Pet Potion |
-| 20:41 | **Honeymochi_oo**: Siamese Cat (FR) | **GrindAccount_N1**: Winged Horse (FR) ×5, T-Rex (R) ×6, Rhino ×2, Chicken ×5 |
+| 20:45 | **qSaori**: Mighty Haetyphoon Animated Sticker | **jeonmarlay97**: Kitty Biscuit |
+| 20:45 | **AMELIESFABXO**: Husky (MFR), Golden Hamster (MFR), Vanilla Penguin (MFR), Cake Friend (MFR), Panda (MFR) | **RREN_XOXO**: Goat (MFR) |
+| 20:45 | **Lumina20265**: Fly-A-Pet Potion | **NanoBlue2005**: Flaming Fox |
+| 20:45 | **AMINO4KA7U**: Bat (MR) | **azekm_nothingtofrost**: Alicorn (NFR), Koala (R) |
+| 20:45 | **Owdlep**: Retired Egg ×18 | **yasmin_2012o**: Skelicorn (N) |
+| 20:45 | **AriesParagon**: Tree Decorating Animated Sticker, Flaming Fox | **dahoody2k3**: Ride-A-Pet Potion ×2 |
+| 20:45 | **TaPok228pon**: Chameleon (R) | **Lylyputikmummy9**: Winter 2024 Sticker Pack ×3 |
+| 20:45 | **qSaori**: Mighty Haetyphoon Animated Sticker ×2 | **itz_ChenJianYan9**: Pupcicle |
+| 20:45 | **Banana_peanut67**: Munchkin Cat (MFR) | **21Luciaunicornio**: Ring-Tailed Lemur (MFR), Vampire Dragon (FR), Strawberry Penguin (R), Glacier Kitsune (R), Ermine (M) |
+| 20:45 | **TralaZuza**: Chocolate Dutch Guinea Pig (MFR), French Bulldog (MFR), Unicorn Horn | **Pepper_Puddinn**: Glormy Leo (MFR) |
+| 20:45 | **ervhkizyyy**: Ride-A-Pet Potion ×2 | **lotvsec**: Dragonfruit Fox |
+| 20:45 | **OnlyMeNinik**: Giraffe (NFR), Arctic Fox (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **5uspa**: Shadow Dragon (FR), Balloon Unicorn (FR), Cow (NFR) |
+| 20:45 | **minnies2007**: Australian Kelpie (N), Cherub Chipmunk (M), Glyptodon ×2, Magma Moose | **Koshka_Alinka8**: Chihuahua (N) |
+| 20:45 | **Unicorn_dragon133**: Retired Egg ×18 | **pelotocinoXD1223**: Pain au Chat |
+| 20:45 | **Harp3rToxic832**: Fairy Bat Dragon (NFR) | **aestumi**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
