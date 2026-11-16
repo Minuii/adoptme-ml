@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 22:45 UTC by the scrape workflow._
+_Updated 2026-11-16 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 22:45 UTC by the scrape workflow._
 | amvgg | 6 | 46,364 | 2026-11-16T22:45 |
 | elve | 6 | 10,001 | 2026-11-16T22:45 |
 
-## AMVGG completed trades: 25,895 total
+## AMVGG completed trades: 25,935 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,820 |
+| 2026-11-16 | 3,860 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 22:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **Machaddkkj**: Paint Sealer ×14 | **Afkfor_S**: Ride-A-Pet Potion |
-| 22:40 | **MYPERSONALHOTSPOT**: Strawberry Penguin | **heladitoooUnU**: Ride-A-Pet Potion ×4 |
-| 22:40 | **MYPERSONALHOTSPOT**: Fly-A-Pet Potion | **exxiexh**: Chihuahua ×3 |
-| 22:40 | **purifiedblessing**: Cheetah (FR) | **squ_evder**: Happy Clam |
-| 22:40 | **ItzLuxic**: Fly-A-Pet Potion ×4, Goat, Hamster (N) | **IDFeelAnything**: Polar Bear (NFR) |
-| 22:40 | **islandicsinger**: Kangaroo (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion | **kaylamicmi**: Arctic Fox (NFR) |
-| 22:40 | **9vvdx**: Balloon Unicorn (FR), Cryptid (FR), Ride-A-Pet Potion ×2 | **iaMatthieu1**: Cryptid (NFR) |
-| 22:40 | **AmandaaX213**: Fly-A-Pet Potion | **Luna5980414**: Ride-A-Pet Potion ×2 |
-| 22:40 | **fifi_kikie**: Albino Monkey (MFR), Toaster Hat | **alexdrosakis**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Leopard Shark (MFR), Shetland Pony Light Brown (MR) |
-| 22:40 | **XxxWaffleChanxxX**: Ice Cream Cone Hat | **trendypopcon**: Spring Bunny Hood, Spring Bunny Feet |
-| 22:40 | **Khmerangel4130**: Kangaroo (MFR), Flaming Zebra, Pudding Cat | **DeanSpnSammy**: Goose (NR) |
-| 22:40 | **baby_brooke2007ban**: Pain au Chat ×2, Bubblegeist | **Amnada202199**: Ride-A-Pet Potion |
-| 22:40 | **Xyzxelle**: Ride-A-Pet Potion ×8 | **OMG4LAV**: Tiny Wings |
-| 22:40 | **aydachan200311**: Ride-A-Pet Potion ×4 | **AnneFabrel2005**: Aussie Egg |
-| 22:36 | **unicorn_land1102pop**: Pig (FR), Chocolate Dutch Guinea Pig, Stitches (N) | **Lerunhi**: Happy Duckling (MFR) |
+| 22:55 | **mitsuri_w5**: Sloth ×4 | **frecalsplogeok9**: Ride-A-Pet Potion |
+| 22:55 | **JustDo_It097**: Pupcicle ×2 | **alasara**: Berry Cool Cube, Mr. Whiskerpips (N) |
+| 22:55 | **juegolucer033**: Goose (FR) | **Luna5980414**: Hot Doggo (FR) |
+| 22:55 | **athena_cheka**: Border Collie (N), Sushi Penguin (M), Unicorn Horn, 2022 Birthday Party Hat | **adoptme_trade2349**: Cryptid (FR) |
+| 22:55 | **siria20144**: Arctic Reindeer | **vmpire8**: Turtle (NFR), Cow (FR) |
+| 22:55 | **w1enfok**: Fairy Bat Dragon (FR), Candicorn (FR), Fallow Deer (FR), Fly-A-Pet Potion ×3, Latte Kitsune (R), Ride-A-Pet Potion ×2 | **robbieloveu**: Strawberry Shortcake Bat Dragon (FR) |
+| 22:55 | **24tyra**: Lynx, Count Slothula, Binturong, Chihuahua | **DreamWalker_47**: Hare |
+| 22:55 | **mgjgmwg**: Kangaroo (FR), Kangaroo (R), Elephant (FR), Turtle (FR) ×2 | **00099hh1**: Evil Unicorn (FR) |
+| 22:55 | **BlackGigi2**: Cattuccino (N) | **wery123416**: Turtle Doves (N) |
+| 22:55 | **lanaisdelrey**: Bat Dragon | **Alana2K201**: Cow (FR), Mini Pig (FR), Parrot (FR), Mermicorn (MFR), Cryptid (NFR), Shark Puppy (N), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 22:55 | **savhrtlocket**: Christmas Pudding Pup (NFR), Sheeeeep (FR) | **playpretend2**: Mecha Meow (MFR), Unicorn Horn |
+| 22:55 | **otiV43**: Halo, Unicorn (N) | **Bikunom**: SSBD Beanie |
+| 22:55 | **Tyatya03**: Tiny Wings | **Wolfie4567ty**: Pig (FR) |
+| 22:55 | **Reya426**: Chocolate Dutch Guinea Pig, Mrs. Whiskerpips (NFR), Shiba Inu (NFR), Kitty Biscuit, Zombie Wolf | **alpha088294**: Shrew (R) |
+| 22:55 | **addmymain_01**: Sloth (MFR), Sakura Spirit (R), Dodo (NR), Maine Coon (MR), Mochi Meow (MR), Starfish (MFR), Black-Footed Ferret (MR), T-Rex (R) | **Luna5980414**: Goose (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
