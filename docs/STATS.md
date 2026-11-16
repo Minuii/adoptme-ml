@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 06:55 UTC by the scrape workflow._
+_Updated 2026-11-16 07:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 06:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 31,156 | 2026-11-16T06:45 |
-| elve | 6 | 6,638 | 2026-11-16T06:45 |
+| amvgg | 6 | 31,396 | 2026-11-16T07:00 |
+| elve | 6 | 6,721 | 2026-11-16T07:01 |
 
-## AMVGG completed trades: 23,001 total
+## AMVGG completed trades: 23,021 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 926 |
+| 2026-11-16 | 946 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 06:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:55 | **Gooblin_trool**: Slime (N) ×2, Ride-A-Pet Potion | **K1MM007**: Tortoiseshell Guinea Pig |
-| 06:55 | **I_AlexisAgi**: Japanese Snow Fairy (M) | **Monika56430**: Bunny (M) |
-| 06:55 | **feen4vamps**: Ghost Dog (MR), Snow Monkey, Fairy Bat Dragon (FR), Chick (MR) | **hazeldacoolest_889**: Mermicorn (FR), Pelican |
-| 06:55 | **0o0Username0o0**: Angus Calf (M) | **cat_cheek158**: Ride-A-Pet Potion |
-| 06:55 | **atracttion**: Blazing Lion (FR), Dalmatian (FR) | **dsjquw72hs**: Owl (FR) |
-| 06:55 | **elifanaekinci**: Ride-A-Pet Potion | **bzzbbzb**: Gargoyle (R) |
-| 06:50 | **monewoo99**: Cryptid (FR) | **Meme_Seb**: Amethyst Penguin |
-| 06:50 | **veiixzlj**: Frost Dragon (FR), Arctic Dusk Dragon (MFR), Chocolate Dutch Guinea Pig (MFR), Frostbite Cub (MFR) | **BlackHellPinsel**: Haetae (N) |
-| 06:45 | **carnivoro_fuerte**: Owlbear (MFR), Violet Friend (M), Albino Monkey (FR), Shadow Dragon Ducky (MFR), Frost Fury (FR), Zombie Buffalo (R) | **aabeeyg**: Cryptid |
-| 06:45 | **AndresPatato**: Paint Sealer ×14 | **hyong110**: Ride-A-Pet Potion |
-| 06:45 | **chapihop2**: Stray Cat Dragon (N) ×2, Shih Tzu (M), Abyssinian Cat (N) | **Bumble_Lou**: Pet Handler Pro Certificate |
-| 06:45 | **Coolbirdy40**: Fly-A-Pet Potion | **Bumble_Lou**: Pet Handler Pro Certificate |
-| 06:45 | **addAquaskycode2015**: Stray Cat Dragon (M) | **Bumble_Lou**: Copycat |
-| 06:45 | **luvyerh**: Arctic Fox, Fly-A-Pet Potion | **iaMatthieu1**: Arctic Fox (FR) |
-| 06:45 | **wjredmind**: Dango Penguins (MFR), Rain Cloud Hat, Alley Cat, Chihuahua | **plushioss**: Tuxedo Cat (MFR), S'mores Raccoon (MFR), Blue Ringed Octopus (MR), Frostbite Cub (MFR) |
+| 07:00 | **Omar2002548**: Shrew (R) | **ihyMellyy**: Tortuga de la Isla |
+| 07:00 | **rinnnnnn_2**: Copycat, Jester Dragon | **puuuurrrraaawww**: Sea Slug (R) |
+| 07:00 | **terrylonsoyjerry**: Sloth (MR), Shih Tzu (M) | **Ryandelpozo28**: Ice Cream Cone Hat |
+| 07:00 | **roman_cool586**: Flamingo (FR), Ride-A-Pet Potion, T-Rex, Drake | **terrylonsoyjerry**: Therapy Dog (M), Rain Cloud Hat |
+| 07:00 | **blushbyelle**: Bat Dragon (NFR), Cryptid (MFR), Peppermint Penguin (MFR) ×2, Cabbit (MFR), Dalmatian (MFR), Pelican (MFR), Mini Pig (MFR), Frost Unicorn (MFR) | **rainthatxx**: Bat Dragon (MFR) |
+| 07:00 | **uqxiyeol**: Ride-A-Pet Potion | **xromosa2**: Sushi Penguin |
+| 07:00 | **loiol1004**: Leopard Cat (MR) | **a_2lisaa**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 |
+| 07:00 | **bnnysiie**: Ride-A-Pet Potion | **xuei2alt**: Respectful Mustache |
+| 07:00 | **AseesCr7GoesBoom**: Strawberry Tortle (M) | **HegdeHogsPlayYT**: Owl (NFR) |
+| 07:00 | **URSET_ROM4IK997**: Ride-A-Pet Potion ×3, Santa's Bow, Puppeteer Hand ×2, Elf Shoes, Rotating Periscope ×3 | **gikuffryfrtfryttg**: Aussie Egg |
+| 07:00 | **bnnysiie**: Ride-A-Pet Potion | **xuei2alt**: Dumpling Friend Hat |
+| 07:00 | **kelsey_1815**: Fly-A-Pet Potion | **0o0Username0o0**: Highland Cow (N) |
+| 07:00 | **maryrose0_0**: Frost Dragon (FR), Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **AseesCr7GoesBoom**: Haetae (R), African Wild Dog, Fairy Bat Dragon |
+| 07:00 | **IngoAlchemyPro**: Crystal Egg ×18 | **MyacountJohnwcrtba**: Ride-A-Pet Potion |
+| 07:00 | **VelenoDiVipera**: Ride-A-Pet Potion ×3 | **Bismuth234**: Polar Bear |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
