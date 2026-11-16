@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 02:45 UTC by the scrape workflow._
+_Updated 2026-11-16 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 02:45 UTC by the scrape workflow._
 | amvgg | 6 | 27,518 | 2026-11-16T02:45 |
 | elve | 6 | 5,892 | 2026-11-16T02:45 |
 
-## AMVGG completed trades: 22,509 total
+## AMVGG completed trades: 22,516 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 434 |
+| 2026-11-16 | 441 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,13 @@ _Updated 2026-11-16 02:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:50 | **MADmohamed_110**: Cow (FR), Tiny Wings, Ghostly Cat (MFR), Fly-A-Pet Potion | **JEROMENPI_1**: Border Collie (NFR) |
+| 02:50 | **nimalina463**: Brown Springer Spaniel (MFR) | **cazzy123abc**: Binturong (MFR), Pink Cat Ear Headphones |
+| 02:50 | **YTstaro**: Haetyphoon (FR), Rain Cloud Hat | **emsterf42**: Fairy Bat Dragon (FR) |
+| 02:50 | **Cinzsins**: Chocolate Chip Bat Dragon (NFR), Ice Cream Cone Hat, Pancake Stack | **AngelKattyOwO**: Chocolate Chip Bat Dragon (FR), Hot Doggo (NFR) |
+| 02:50 | **9nvls**: Turtle (FR) | **Paipapaprapaa**: Ghost Bunny (MFR) |
+| 02:50 | **redstonegamer130**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×5, Unicorn Ducky (M) | **Hey_itsCloveer**: Fairy Bat Dragon (NFR) |
+| 02:50 | **getsdar**: Copycat (NR) | **romoko_00**: Munchkin Cat (R), Matcha Cat (R) ×2, Spring Bunny Hood, Thinking Hat |
 | 02:45 | **v3xxyyy**: Werewolf | **Sssydney0713**: Copycat (R), Meerkat (R), Toasty Red Panda (N), Hare (R), Pupcicle, Ride-A-Pet Potion |
 | 02:45 | **2262096**: Black Macaque, Blue Ringed Octopus ×2, Brown Springer Spaniel, Chef Gorilla, Gaelic Fae, German Shepherd, Mini Schnauzer, Panda ×2, Puffer Fish, Puffin ×3, Red Sand Dollar, White Sand Dollar, Snowball Pet, Wooly Rhino | **buang2oo**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×7 |
 | 02:45 | **Ann_1212121212**: Peppermint Penguin (FR), Fly-A-Pet Potion | **kayshiyy**: Hot Doggo (FR) |
@@ -39,13 +46,6 @@ _Updated 2026-11-16 02:45 UTC by the scrape workflow._
 | 02:45 | **mister_bunny33xd**: Mistletroll (MFR) | **tutritam174**: Ride-A-Pet Potion ×5 |
 | 02:45 | **dardaruni**: 2022 Birthday Cake | **Lqvari**: 2022 Birthday Party Hat |
 | 02:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×4 | **Lqvari**: Arctic Fox (R) |
-| 02:45 | **winterflak9**: Frost Unicorn, Arctic Dusk Dragon (N) | **Lila_Chanbibi**: Strawberry Tortle (FR) |
-| 02:45 | **julkarnain123**: Munchkin Cat (R), Unicorn, Horse (FR), Pet Handler Pro Certificate, Gemstone Egg | **Erimarim19**: Tortoiseshell Guinea Pig (R) |
-| 02:45 | **MOIK0K**: Dalmatian (FR), Owl (FR), River Otter (M), Pancake Stack | **thesuperkid0**: French Bulldog (MR), Frost Dragon (FR), Burger Boots |
-| 02:45 | **crazy4ukat**: Dragonfly (N), Golden Dragon, Diamond Dragon, Ancient Dragon, Fire Stallion, Huntsman Robin, Skelicorn | **EnotikTea**: Ride-A-Pet Potion |
-| 02:45 | **HeartsForEli_1406**: Siamese Cat (R) | **xiivra**: Arctic Dusk Dragon (NFR) |
-| 02:45 | **Hannah_MI989**: Orchid Butterfly, Hot Doggo | **luxsdomain**: Blazing Lion (R) |
-| 02:40 | **rgxifangirl**: Mighty Haetyphoon Animated Sticker | **HamFam1090**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
