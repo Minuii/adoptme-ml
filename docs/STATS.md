@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 07:25 UTC by the scrape workflow._
+_Updated 2026-11-16 07:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 07:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 31,600 | 2026-11-16T07:15 |
-| elve | 6 | 6,780 | 2026-11-16T07:16 |
+| amvgg | 6 | 31,854 | 2026-11-16T07:30 |
+| elve | 6 | 6,823 | 2026-11-16T07:31 |
 
-## AMVGG completed trades: 23,059 total
+## AMVGG completed trades: 23,069 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 984 |
+| 2026-11-16 | 994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 07:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:30 | **baldi_baddie**: Ride-A-Pet Potion | **TreasurePlayzRoblox2**: Unicorn |
+| 07:30 | **Mentosvcxz**: Cow (FR) | **king_93071**: Peppermint Penguin (FR) |
+| 07:30 | **marseille00_01**: Candicorn (FR) ×2, Copycat | **filkatsulover**: Grim Dragon (FR), Dragonfruit Fox (NR), Ice Cream Cone Hat |
+| 07:30 | **cat_anna2003**: Retired Egg ×6 | **mArg0_Tubb1e**: Jimothy |
+| 07:30 | **Gnkhfcd**: Kangaroo (FR) | **fd43730**: Ride-A-Pet Potion ×17 |
+| 07:30 | **Jeremibus2012**: Frostbite Bear (R) ×2, Border Collie (R), Crocodile (R), Royal Mistletroll (R), Grim Dragon, Goose (N), Goose (R), Goose, Werewolf (F) | **leruval**: Frost Dragon (FR) |
+| 07:30 | **ive_devy**: Frostbite Cub | **anxi15**: Snow Owl |
+| 07:30 | **CloudyFalconpro4**: Arctic Reindeer (NFR), Pineapple Owl (NFR) | **Light_Moon8461**: Evil Unicorn (FR), Unicorn Horn, Kangaroo (FR) |
+| 07:30 | **Xxsarah0123xX**: Cryptid (NFR), Strawberry Shortcake Bat Dragon (FR) ×3, Silly Duck, Black Panther, Capybara, Ride-A-Pet Potion ×8, Turtle (FR), Skeleton Winged Glider, Easter 2020 Egg | **miny_cz1**: Frost Dragon (NFR) |
+| 07:30 | **Youdi_off**: Purrowl | **qssbruh**: Retired Egg ×9 |
 | 07:25 | **peachieskiwi**: Munchkin Cat (MFR) | **russelroblox1234**: Fairy Bat Dragon (NFR), Kangaroo (FR) |
 | 07:25 | **Officalyuichi**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion ×3 | **Fox7Art**: Strawberry Shortcake Bat Dragon (FR) |
 | 07:25 | **xxxXJ001**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **Officalyuichi**: Haetae (FR) |
 | 07:25 | **SolevayaBarbie**: Persian Cat (R) ×2, Rubber Ducky (M) | **lizarg_472**: Ride-A-Pet Potion |
 | 07:25 | **lizarg_472**: Pandaguin Glooptodog ×7 | **Xz_CodeOLDriftdLBliz**: Pandaguin Glooptodog ×4 |
-| 07:25 | **lizarg_472**: Turtle (R) | **Jejeje20cookie**: Kangaroo (FR), Fly-A-Pet Potion ×2, Burger Bear |
-| 07:25 | **chiikkawaaaa**: Shiver Wolf (MFR) | **killerEzekiel99**: Pupcicle (N) ×2 |
-| 07:25 | **kok225677**: Arctic Dusk Dragon (FR), Frost Fury (R), Aussie Egg, Dango Penguins | **feliandfio**: Candicorn (FR) |
-| 07:25 | **AsianIceCold**: Arctic Reindeer (NFR), Fly-A-Pet Potion | **Mikis_oll**: Strawberry Shortcake Bat Dragon (NFR) |
-| 07:25 | **Xz_CodeOLDriftdLBliz**: Pupcicle (M) | **Monicaj72833**: Pupcicle ×16, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 07:20 | **ArinaGopler**: Royal Aztec Egg | **UltimateLionMantis**: Ride-A-Pet Potion |
-| 07:20 | **alexgameminecraft**: Goose (FR), Hare, Ride-A-Pet Potion ×3 | **Lila_Chanbibi**: Arctic Dusk Dragon (N), Frost Unicorn |
-| 07:20 | **Fbrleey**: Jester Dragon (FR) | **yuni_rbx104**: Pupcicle (NR) |
-| 07:15 | **niceplayeruwu**: Ride-A-Pet Potion ×4 | **wowohaha17**: Pupcicle (N) |
-| 07:15 | **partypupuli**: Polar Bear (NR) | **hxquip**: Unicorn (MR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
