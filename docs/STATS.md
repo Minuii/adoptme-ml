@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 01:45 UTC by the scrape workflow._
+_Updated 2026-11-16 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 01:45 UTC by the scrape workflow._
 | amvgg | 6 | 26,496 | 2026-11-16T01:45 |
 | elve | 6 | 5,703 | 2026-11-16T01:45 |
 
-## AMVGG completed trades: 22,367 total
+## AMVGG completed trades: 22,395 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 292 |
+| 2026-11-16 | 320 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 01:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:45 | **realEzra295**: Pupcake | **Xaomao0o**: Chihuahua |
-| 01:45 | **AmberChiChii**: Snow Monkey ×2, Leopard Shark, Ride-A-Pet Potion | **pssixotrop**: Christmas Pudding Pup |
-| 01:40 | **camiilita_7w7**: Siamese Cat (R), Ice Cream Stroller | **gracedontrllycare**: Pupcicle (M) |
-| 01:40 | **reaper_pickles**: Blue Boohoo Mega Neon Paint, Velvet Fuchsia Mega Neon Paint | **themudwizard**: Ride-A-Pet Potion |
-| 01:40 | **fiwncbsk**: Hamster (MFR) | **smudgepuffs**: Fly-A-Pet Potion ×3 |
-| 01:40 | **Lolsuprise128_o**: Ride-A-Pet Potion ×2 | **Bismuth234**: Pet Handler Pro Certificate |
-| 01:36 | **ayiiishapot_2010**: Cattuccino (M) | **raccoonybaloony**: Fly-A-Pet Potion |
-| 01:36 | **fluses_sss**: Capricorn (FR), Choco Penguin (N), Huntsman Robin, Scarlet Butterfly | **raccoonybaloony**: Fly-A-Pet Potion |
-| 01:36 | **bunnylover_lovebun15**: Siamese Cat (R) | **Coco_Blxssxm**: Llama (NR), Turkey (NR), Butter Knife, Strawberry Shortcake Bow, Clumpty (N), White Chef Hat, Picnic Basket, Pink Butterfly Wings, Star Sunglasses, Gold Circle Glasses |
-| 01:36 | **cherrymoon4441**: Balloon Unicorn (FR), Cryptid (FR), Orchid Butterfly (FR), Dalmatian, Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon, Diamond Butterfly (FR), Ride-A-Pet Potion ×2 | **russianlashes**: Shadow Dragon (FR) |
-| 01:36 | **AsianIceCold**: Cow (FR), Kangaroo (NFR), Pet Handler Pro Certificate | **yeetimaheadout7**: Cow (NFR) |
-| 01:36 | **Adoptmestocks3000**: Polar Bear | **lowerbunny**: Fly-A-Pet Potion ×2 |
-| 01:36 | **k5ijo**: Arctic Dusk Dragon | **Wockillzzz2**: Fly-A-Pet Potion ×3 |
-| 01:36 | **Jhonell_ROBLOX**: Ride-A-Pet Potion | **memoriesd4n**: Elf Hat |
-| 01:36 | **StreamSlimeCraze2016**: Moon Rabbit (MFR), Amami Rabbit (MR), Hare (NR), Lava Wolf (NR), Great Pyrenees (MR), Ride-A-Pet Potion, Bready Necklace, Butter Knife | **shortygirlshania**: Chocolate Chip Bat Dragon (FR) |
+| 01:55 | **katosika124**: French Bulldog (N) | **La_boyMich15**: Ginger Cat (MFR) |
+| 01:55 | **pankeis609**: Ride-A-Pet Potion ×6 | **MyStarPets1**: Quad Stroller |
+| 01:55 | **O4Xxe**: Owlbear (MFR) | **LeonardBass28273**: Halo, Hare, Ride-A-Pet Potion, Catte (MFR), Black Macaque (MFR), Ring-Tailed Lemur |
+| 01:55 | **Exphemia**: Grim Dragon (FR), Glormy Leo, Ice Moth Dragon (FR), Ginger Cat (R), Ghost Bunny (R), Cobra (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **sursyrzytxurzutzutz**: Fairy Bat Dragon |
+| 01:55 | **joswarlopez**: Turtle (NFR) | **belltiny**: Cupid Dragon (NFR), Glormy Leo (NR), Ride-A-Pet Potion |
+| 01:55 | **bunnyblinkP**: Ballet Swan (R), Ballet Swan ×4, Sushi Penguin ×2, Lava Dragon (FR) ×2 | **roniroblox102030**: Kangaroo (R) ×2 |
+| 01:55 | **roniroblox102030**: Evil Unicorn (NFR), Kangaroo (R) | **Ryxnisgoofy3**: Orchid Butterfly (FR) ×2 |
+| 01:55 | **El1kTT**: Jester Dragon (R), Dodo (NFR), Griffin (NFR), Winged Horse (NFR), Skelicorn (NFR), Unicorn (NFR) | **yRafah_Bloxinha**: Turtle (FR) |
+| 01:55 | **aabeeyg**: Flying Fairy, Thunderfisher (N), Admin Abuse Egg ×4 | **ilikekpop_2012**: Dinner Discourse Cat Sticker |
+| 01:55 | **ellielielielieee**: Mini Pig (FR) | **sysstemofadownn**: Cherry-On-Top, Pancake Stack, Spring Bunny Nose, Spring Bunny Feet, Chocolate Chip Bat Dragon Backpack |
+| 01:55 | **Y4r3tzy09**: Cabbit (FR), Chicken (MFR) | **XiuLi1234**: Border Collie (NFR) |
+| 01:50 | **cyptiaI**: Ice Queen Sleigh | **pushenn112**: Back Taco |
+| 01:50 | **O4Xxe**: Ghost (MFR) | **ScarzyK**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 01:50 | **xZgoQqWnzzM**: Shark | **Adoptmechallang_yes**: Axolotl |
+| 01:50 | **Hhto123**: Cow (R), Goose (R), Fly-A-Pet Potion ×5, Pet Handler Pro Certificate ×2 | **XxSorvetyxX**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
