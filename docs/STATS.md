@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 19:11 UTC by the scrape workflow._
+_Updated 2026-11-16 19:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 19:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 42,641 | 2026-11-16T19:00 |
-| elve | 6 | 9,227 | 2026-11-16T19:01 |
+| amvgg | 6 | 42,908 | 2026-11-16T19:15 |
+| elve | 6 | 9,283 | 2026-11-16T19:16 |
 
-## AMVGG completed trades: 25,149 total
+## AMVGG completed trades: 25,176 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,074 |
+| 2026-11-16 | 3,101 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 19:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:11 | **Knorbating**: Frostbite Bear (R), Turtle (FR), Ride-A-Pet Potion, Pet Handler Pro Certificate | **earningone**: Leopard Shark (M), Frost Unicorn, Dango Penguins, Bald Eagle |
-| 19:06 | **lola_bear1995**: Fly-A-Pet Potion ×3 | **3undy**: Sheeeeep |
-| 19:06 | **aleks2u**: Goose (R) | **MckDull**: Cow (FR) |
-| 19:06 | **mamadmasa010**: Christmas Pudding Pup (NFR) | **Special_Foxi**: Fly-A-Pet Potion ×13 |
-| 19:06 | **Bennferoo00**: Balloon Unicorn (MFR) | **Cinzsins**: Bat Dragon (FR) ×2, Cow (FR) |
-| 19:06 | **takdjo_zhenia**: Shark Puppy (R) | **BELLAIzabella07**: Sea Slug, Bready Necklace |
-| 19:06 | **Brok3n_Clocks**: Winged Tiger (MFR) | **Layli811**: Kangaroo (FR), Bush Elephant (MFR) |
-| 19:06 | **AMINO4KA7U**: Strawberry Penguin (F) | **Smookgans**: Dango Penguins, Quokka (NR), Ermine (NR), Ride-A-Pet Potion |
-| 19:06 | **viktoria_super000**: Copycat, Giant Anteater, Ghost Dog (R), Burger Bear ×2 | **AUTOINPUT**: Haetyphoon |
-| 19:06 | **Dax_ontop1**: Bat Dragon (FR), Ice Cream Cone Hat | **mandarinkatenka3**: Bat Dragon |
-| 19:06 | **lalafan966**: Border Collie (MFR), Candicorn (MFR), Munchkin Cat (FR), Ring-Tailed Lemur (R), Copycat | **Siraj6118**: Crow (NFR) |
-| 19:06 | **lina200r**: Crow (NFR), Strawberry Shortcake Bat Dragon (FR) | **Siraj6118**: Arctic Reindeer (MFR) |
-| 19:06 | **a1dennxq**: Jester Dragon, Christmas Pudding Pup, Flaming Fox (NFR) | **abdoosaad**: Werewolf (FR), Witch Hat |
-| 19:06 | **arilhack1**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **che12young**: Frost Dragon (FR) |
-| 19:06 | **Lolaa_chn**: Jester Dragon (N), Fly-A-Pet Potion ×3 | **pestolina23**: Cabbit (FR) |
+| 19:15 | **quVare_PDF**: Frostclaw (MFR), Clover Cow (MR), Ride-A-Pet Potion | **furiousjumperfan52**: Haetyphoon |
+| 19:15 | **Beronika_40**: Pupcicle, Electric Hornet | **Eskarly_Roblox234**: Ride-A-Pet Potion |
+| 19:15 | **Den_826uhwk**: Arctic Dusk Dragon (FR) ×2, Arctic Dusk Dragon ×2 | **squ_evder**:  |
+| 19:15 | **kytsune7777**: Dragonfruit Fox, Frost Fury (R) | **TwiXq0**: Copycat (R) |
+| 19:15 | **LeviSquad2009**: Phantom Dragon (NFR), Unicorn (NFR), Mushroom Friend (MFR), Pretty Pony (M), Great Pyrenees (M), Slimingo (M), Cow Calf (M), Merry Mistletroll (M), Winter Buck (M) | **Siraj6118**: Evil Unicorn (FR) |
+| 19:15 | **keissitojf**: Rainbow Maker | **DemonSunset2009**: Border Collie (NFR), Tiny Wings |
+| 19:15 | **Papa_Ghost94**: Fly-A-Pet Potion | **AdoptmeRobloxAcc9**: Stray Cat Dragon ×18 |
+| 19:15 | **AMOANICOLE78**: Albino Monkey (FR) ×2 | **akkumalt**: Cow (FR) |
+| 19:15 | **Mwsjdhw**: Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion, Unicorn (NFR), Cattuccino (M) | **SoLost666**: Fairy Bat Dragon (FR) |
+| 19:15 | **cowlol898**: Siamese Cat (NR), Munchkin Cat (NR), Munchkin Cat (N) | **Sediaincalore**: Munchkin Cat (MFR) |
+| 19:15 | **Inclemnc**: Crow (FR), Crocodile (R), Fly-A-Pet Potion | **OlaPL5432151**: Parrot (FR) |
+| 19:15 | **hoschakaI**: Shadow Dragon (FR) | **Shadx_1553**: Frost Dragon (FR) ×2, Turtle (FR) |
+| 19:15 | **come_backllll**: Magic House Door | **steshok_voda**:  |
+| 19:15 | **ruinedbleeded**: Peppermint Penguin (FR) | **J7alexander2**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
+| 19:15 | **xiivra**: Siamese Cat (R), Fly-A-Pet Potion | **yanxirb**: Elephant, Christmas Pudding Pup (R), Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
