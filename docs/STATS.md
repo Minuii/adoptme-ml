@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 16:16 UTC by the scrape workflow._
+_Updated 2026-11-16 16:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 16:16 UTC by the scrape workflow._
 | amvgg | 6 | 39,911 | 2026-11-16T16:15 |
 | elve | 6 | 8,601 | 2026-11-16T16:16 |
 
-## AMVGG completed trades: 24,508 total
+## AMVGG completed trades: 24,543 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,433 |
+| 2026-11-16 | 2,468 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 16:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:15 | **BlackVoyager12**: Ballet Swan (FR) | **010kiarakeyla**: Ride-A-Pet Potion ×5 |
-| 16:15 | **baby_brooke2007ban**: Purrowl | **Robloxians7j0j0f6h**: Toucan ×2 |
-| 16:15 | **dcnhugberu**: Fly-A-Pet Potion | **Pandinhafofis2122**: Prismatic Butterfly |
-| 16:15 | **TR0PIC_CL0UDY**: Mini Pig (FR), General Sheepdog (MFR), Cake Friend (MR), Copycat | **AsianIceCold**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:15 | **Jocamax10**: Flamingo (FR), Ride-A-Pet Potion ×2, Cerberus (NFR) | **edmunds15**: Fairy Bat Dragon (FR) |
-| 16:15 | **Poppy_KAG**: Ghost Bunny (N), Bison (M) ×2 | **St4r1890241**: Jester Dragon |
-| 16:15 | **ElevensStorage**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **ROBLOX379830**: Fallow Deer (R) |
-| 16:15 | **Verine_Katz**: Snowball Pug, Mrs. Whiskerpips (N) | **aleeyah51092**: Crystal Egg ×9 |
-| 16:15 | **Cleirt_CoS0**: Ride-A-Pet Potion ×2, Praying Mantis (N) | **KittyCatSa21**: Kitty Bat (NR) |
-| 16:15 | **divinelybrxman**: Parrot (NFR), Evil Unicorn (FR), Arctic Reindeer (NFR), Midnight Dragon (FR) | **TMDung20**: Shadow Dragon (FR) |
-| 16:15 | **nicolyi525**: Otter ×14 | **AlinaAW16**: Retired Egg ×8 |
-| 16:15 | **Charliebobbs123**: Frost Dragon (FR) | **TryTank730**: Evil Unicorn (FR), Turtle (FR), Ride-A-Pet Potion ×5, Pet Handler Pro Certificate ×3, Strawberry Shortcake Bat Dragon (FR), Albino Monkey (FR), Fairy Bat Dragon (FR), Flamingo |
-| 16:15 | **pmpjmg1**: Chocolate Chip Bat Dragon (FR) | **Reedeemed**: Peppermint Penguin (FR), Sugar Glider, Ride-A-Pet Potion ×4 |
-| 16:15 | **SoLost666**: Cow (FR) | **meeeeowey2**: Copycat (NFR), Ride-A-Pet Potion ×4, Chocolate Dutch Guinea Pig |
-| 16:15 | **RobloxianGiaLinh**: Purrowl ×4, Stray Cat Dragon, Poodle ×3, Ocelot ×3, Zebra ×4, Amber Butterfly, Rabbit ×2 | **cvusstie**: Ride-A-Pet Potion |
+| 16:25 | **calm_if**: Ride-A-Pet Potion ×2, Corgi | **aleeyah51092**: Dragonfruit Fox |
+| 16:25 | **weshle008**: Mini Pig (R), Pupcicle (M) | **si0ro**: Chocolate Chip Bat Dragon (FR), Mochi Meow (MFR), Sweetheart Rat (NR) |
+| 16:25 | **Adoptmeamvgg2ac**: Christmas Pudding Pup (R) | **lavandoshka_s3**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 16:25 | **Ttsglw**: Noob Balloon, Chocolate Bunny Balloon, Discosplosion, Inflatable Sword | **che12young**: Ride-A-Pet Potion |
+| 16:25 | **Kakamakapaka98**: Copycat (M), Tiny Wings, Spring Bunny Hood | **Layli811**: Jellyfish (MFR) |
+| 16:25 | **zevhjnda**: Frost Fury (FR), Ride-A-Pet Potion, Pet Handler Pro Certificate, Jester Dragon (F) | **ifdwe3lfy**: Pig (R) |
+| 16:25 | **ADOPTMEXXX92**: 2022 Birthday Cake, Unicorn Horn, Flamingo (FR), Bunny Swirl (MFR), Pain au Chat (M), Mr. Whiskerpips (M), Canadian Goose (MR), Partridge (M), Pink Cat Ear Headphones, Pink Heart Glasses, Ram | **14pawz**: Munchkin Cat (MR) |
+| 16:25 | **DARKPeImeni**: Japanese Snow Fairy (MR) | **Rita_ggh**: Ride-A-Pet Potion |
+| 16:25 | **noaboa678**: Munchkin Cat (R), Rose Dragon (N) | **not_alex53956**: German Shepherd (MFR) |
+| 16:25 | **BrooklynToxicGam3r**: Monkey (MR) | **Amydarknes_thedarker**: Alley Cat |
+| 16:25 | **qwelxzz**: Kid Goat (NR), Ranger Beaver | **mariee20_03**: Ride-A-Pet Potion |
+| 16:25 | **hubaks_02**: Winter Fawn (M) ×3 | **livlivlivliv1234liv**: Copycat |
+| 16:25 | **Fufum9k**: Hedgehog (R), T-Rex (NFR), Pig (FR) | **thesef4ngs**: Evil Unicorn (FR) |
+| 16:25 | **abdoosaad**: Copycat | **lona262**: Pudding Cat (M) |
+| 16:25 | **Gsusisi4**: Owlbear, Ride-A-Pet Potion, Fly-A-Pet Potion | **Lqvari**: Copycat |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
