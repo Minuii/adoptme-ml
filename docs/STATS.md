@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 13:11 UTC by the scrape workflow._
+_Updated 2026-11-16 13:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 13:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 36,849 | 2026-11-16T13:00 |
-| elve | 6 | 7,847 | 2026-11-16T13:01 |
+| amvgg | 6 | 37,092 | 2026-11-16T13:15 |
+| elve | 6 | 7,898 | 2026-11-16T13:16 |
 
-## AMVGG completed trades: 23,913 total
+## AMVGG completed trades: 23,930 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,838 |
+| 2026-11-16 | 1,855 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 13:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:11 | **Pipkaaaa7**: Ride-A-Pet Potion, Red Panda (N) | **tyt_567r**: Winged Horse (FR) |
-| 13:11 | **knifeandfork_99**: Evil Unicorn | **ANDY_245780**: Dalmatian, Caterpillar (FR), Naughty Mistletroll (NR) |
-| 13:11 | **cyptiaI**: White Chef Hat | **LumDayy**: Unfortunate Eyelashes |
-| 13:11 | **lucas1234cfric**: Flaming Fox (NR) | **kreker0900**: Burning Bunny (MFR), Cattuccino (N) |
-| 13:11 | **iaMatthieu1**: Goose | **CeRHIMON**: Turtle (FR), Frost Fury (FR), Ride-A-Pet Potion ×3 |
-| 13:11 | **Versaplays6**: Chameleon, Rubber Ducky ×2 | **tyt_567r**: Chameleon |
-| 13:11 | **nigelycudiera**: Turtle (FR), Pupcicle | **PH_HYPER**: Pupcicle (MFR) |
-| 13:11 | **0BVSLUCA**: Puffer Fish (MFR), Chocolate Chow-Chow (MFR) | **UMIQCO**: Matcha Cat (NR) |
-| 13:11 | **lolmeits_lisa2**: Cryptid (FR) | **sleepy_s0ren**: Border Collie (NFR) ×2, Ride-A-Pet Potion |
-| 13:11 | **starswirl_64**: Ride-A-Pet Potion | **PixiePawsTrade**: Stray Cat Dragon ×9 |
-| 13:11 | **nicolyi525**: French Bulldog, Green-Chested Pheasant, Alicorn, Pain au Chat | **kuromi_45227**: Unicorn ×2 |
-| 13:11 | **LightningCheetah2451**: Chocolate Chip Bat Dragon Backpack, Cowboy Saddle, Creator Rattle (Bethink) | **meIodyglaze**: Pet Handler Pro Certificate |
-| 13:11 | **clihello**: Winged Tiger (MFR), Kangaroo (MFR), Glormy Leo (MFR), Tortoiseshell Guinea Pig | **hanb3ki**: Giraffe (FR) |
-| 13:11 | **ylyzacanete**: Arctic Fox (R) | **Zukiemido_07**: Head Chef, Irish Elk (N), Ice Cube (N), Samoyed (M) |
-| 13:11 | **odading12318**: Goat (NR) | **SanAndres404**: Fly-A-Pet Potion ×13 |
+| 13:15 | **odading12318**: Turtle (FR) | **arseniylolol**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×11, Unicorn, Glormy Dolphin (N) |
+| 13:15 | **Karolina_drakonchek**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion, Alley Cat (NFR) | **faikubjotch**: Grim Dragon (FR) |
+| 13:15 | **thesef4ngs**: Arctic Fox (R) | **nikansk0**: Fly-A-Pet Potion ×4, Spring Bunny Feet, Stray Cat Dragon (N) |
+| 13:15 | **SCARLETTSPUPS**: Halo, Angel Wings, Unicorn Horn | **sublocer**: Cabbit (NFR) |
+| 13:15 | **N00BLythronax**: Tegu ×2, Jiggly Jerboa ×3, Japanese Snow Fairy | **Kisulechka9**: Pandaguin Glooptodog ×3 |
+| 13:15 | **lera5132**: Ride-A-Pet Potion ×4 | **clalouetciedh**: Unicorn ×4 |
+| 13:15 | **thomasgrey_348**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR) | **Speez1o**: Hedgehog (FR) |
+| 13:15 | **Cutewaeilae**: Kangaroo (R) ×2, Shiba Inu (M), Blossom Snake (R) | **odading12318**: Crocodile (NR) |
+| 13:15 | **PH_HYPER**: Pupcicle (MFR), Ride-A-Pet Potion | **Remonaplo**: Count Slothula (MFR), Dango Penguins (NFR) |
+| 13:15 | **LaraIphone16e**: Ride-A-Pet Potion | **Asher_Light75**: Little Lamb (M) |
+| 13:15 | **m_uf1n**: Shiba Inu (M) | **xuei2alt**: Ride-A-Pet Potion |
+| 13:15 | **milka_offO1**: Chocolate Dutch Guinea Pig, Pine Marten (N), Shetland Pony White, Bakeneko | **xXxErnaxXxGlitterxXx**: Alley Cat |
+| 13:15 | **Nikita_berg003**: Pain au Chat, Pro Ghost Blaster, Orbweaver Glider, Purrowl ×3, Rubber Ducky (N), Ant (N) | **fqlfyfujdyj**: Pupcicle |
+| 13:15 | **matteo57th**: Ride-A-Pet Potion, Chihuahua, Blue Whale, Stygian Owl, Tan Chow-Chow, Pomeranian, Tegu (N), Black Rhino (N) | **ekekdjjdd**: Fly-A-Pet Potion |
+| 13:15 | **xTrxstedCodee**: Frost Dragon (NFR), Giant Panda, Cryptid (FR), Siamese Cat (R), Polar Bear (NFR), Ride-A-Pet Potion | **Gglrd0**: Giraffe (NFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
