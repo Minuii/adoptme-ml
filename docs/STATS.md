@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 22:40 UTC by the scrape workflow._
+_Updated 2026-11-16 22:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 22:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 46,129 | 2026-11-16T22:30 |
-| elve | 6 | 9,987 | 2026-11-16T22:31 |
+| amvgg | 6 | 46,364 | 2026-11-16T22:45 |
+| elve | 6 | 10,001 | 2026-11-16T22:45 |
 
-## AMVGG completed trades: 25,894 total
+## AMVGG completed trades: 25,895 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,819 |
+| 2026-11-16 | 3,820 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,7 @@ _Updated 2026-11-16 22:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:45 | **Machaddkkj**: Paint Sealer ×14 | **Afkfor_S**: Ride-A-Pet Potion |
 | 22:40 | **MYPERSONALHOTSPOT**: Strawberry Penguin | **heladitoooUnU**: Ride-A-Pet Potion ×4 |
 | 22:40 | **MYPERSONALHOTSPOT**: Fly-A-Pet Potion | **exxiexh**: Chihuahua ×3 |
 | 22:40 | **purifiedblessing**: Cheetah (FR) | **squ_evder**: Happy Clam |
@@ -45,7 +46,6 @@ _Updated 2026-11-16 22:40 UTC by the scrape workflow._
 | 22:40 | **Xyzxelle**: Ride-A-Pet Potion ×8 | **OMG4LAV**: Tiny Wings |
 | 22:40 | **aydachan200311**: Ride-A-Pet Potion ×4 | **AnneFabrel2005**: Aussie Egg |
 | 22:36 | **unicorn_land1102pop**: Pig (FR), Chocolate Dutch Guinea Pig, Stitches (N) | **Lerunhi**: Happy Duckling (MFR) |
-| 22:36 | **Bismuth234**: Unicorn Horn, Haetae | **00dolls**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
