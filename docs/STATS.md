@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 10:55 UTC by the scrape workflow._
+_Updated 2026-11-16 11:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 10:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 34,787 | 2026-11-16T10:45 |
-| elve | 6 | 7,411 | 2026-11-16T10:45 |
+| amvgg | 6 | 35,015 | 2026-11-16T11:00 |
+| elve | 6 | 7,469 | 2026-11-16T11:01 |
 
-## AMVGG completed trades: 23,463 total
+## AMVGG completed trades: 23,490 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,388 |
+| 2026-11-16 | 1,415 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 10:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:50 | **XxCodeWraithFrostxX**: Crow (FR), Turtle (FR), Munchkin Cat, Arctic Fox, Arctic Dusk Dragon (FR), Arctic Dusk Dragon (R), Shrew (FR), Ride-A-Pet Potion | **sigmaizzmailovvvv2**: Owl (FR) |
-| 10:50 | **unicornpoop198123**: Dango Penguins (MFR), Pupcicle (MFR) | **waveyJackiex**: Pig (MFR) |
-| 10:50 | **elyyz_sen**: Cozy Mistletroll (N) | **nasti_a9**: Ride-A-Pet Potion |
-| 10:50 | **AerialVix**: Goose (FR), Cow (FR) | **Robillionnaire**: Sugar Glider (NFR) |
-| 10:50 | **Sirswagalishsus**: Matcha Cat | **boyuancool123**: Ride-A-Pet Potion ×6 |
-| 10:50 | **lonelynymous**: Seahorse (M), Budgie Witch (M), Snow Cloud Wings | **dashechkakk**: Thunderfisher (M) |
-| 10:45 | **Annegbe**: Owl (FR) | **Sunny_Frinch**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR) |
-| 10:45 | **nuggets0162**: Paint Sealer | **miuehla**: Retired Egg ×4 |
-| 10:45 | **Maryha0243**: Kangaroo (FR) | **TheKindAndOnly**: Pupcicle ×18 |
-| 10:45 | **Delightefull**: Chocolate Dutch Guinea Pig | **Annarrbx**: Ride-A-Pet Potion |
-| 10:45 | **redgeckosarecool**: Cow (NFR) | **miuehla**: Cow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Cow (R) |
-| 10:45 | **Fbrleey**: Albino Monkey (FR), Elephant (FR), Fly-A-Pet Potion | **iaMatthieu1**: Peppermint Penguin (FR) |
-| 10:45 | **vanillqsz**: Ride-A-Pet Potion, Endangered Egg, Retired Egg, Fairytale Egg, Rubber Ducky Box, Admin Abuse Box | **cerbeirresyt**: Diamond Ladybug |
-| 10:45 | **3mis_alttt**: Golden Ladybug, Alicorn (N) | **KaiSaboAceCC**: Ride-A-Pet Potion |
-| 10:45 | **flov3ry**: Ride-A-Pet Potion ×3 | **Kayorilate**: Snowball Pet (NR) |
+| 11:00 | **lina200r**: Aurora Fox (MFR), Arctic Dusk Dragon (MFR) | **cxltwaste**: Balloon Unicorn (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 11:00 | **safir_va**: Peahen (M) | **namcymacdonie**: Haetyphoon |
+| 11:00 | **rainthatxx**: Peppermint Penguin (MFR), Fairy Bat Dragon (MFR), Mini Pig (MFR), Frost Unicorn (MFR), Copycat | **Tuti89975**: Frost Dragon (MFR) |
+| 11:00 | **TYTkuza2**: Kangaroo (R) | **NotSweatyOnion**: Ride-A-Pet Potion ×16 |
+| 11:00 | **vlados_krash**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Albino Monkey | **daanz2**: Flamingo (R) |
+| 11:00 | **AmvggPi0n41K**: Kangaroo (R), Kangaroo (FR), Kangaroo (NFR), Grim Dragon (NFR) | **ad0pttrading**: Blazing Lion (FR) |
+| 11:00 | **Wwwaaa_681**: Turtle (NFR), Crocodile (NFR), Siamese Cat (R) ×2, 2022 Birthday Party Horn, Latte Kitsune (NFR) | **sigmaizzmailovvvv2**: Crow (FR) |
+| 11:00 | **faikubjotch**: Alley Cat | **Benutzername3707**: Ride-A-Pet Potion ×2 |
+| 11:00 | **LumDayy**: Budgie Witch (N), Badger | **Kiki_sunik**: Mexican Wolf ×4 |
+| 11:00 | **4nGeL2002**: Mini Pig (FR) | **itz_arabkap**: Candicorn (NR) |
+| 11:00 | **atr1xry**: Munchkin Cat (MFR), Flamingo (R), Fly-A-Pet Potion | **Frdvhev**: Haetae (FR) |
+| 11:00 | **Vanlyzn26**: Crystal Egg ×14 | **Me0wzaii**: Ride-A-Pet Potion |
+| 11:00 | **sllwexx**: Pinkypillar (N) | **ki_ra201345**: Pinkypillar ×6 |
+| 11:00 | **Arabik_XD228**: Turtle (NFR), Copycat (R), Polar Bear (FR), Ride-A-Pet Potion | **llkkiop12345**: Chocolate Chip Bat Dragon (R) |
+| 11:00 | **fearedmelancholy**: Sugar Glider (FR), Crocodile (FR), Ride-A-Pet Potion | **bad_boss1235**: Swan, Lamb (R) ×2, Turkey, Flaming Fox, Llama (FR), Purple Butterfly, Platypus (R), Ice Wolf (FR), Owlbear, Reindeer (NFR), Rose Dragon (FR), Sheeeeep, Sheeeeep (R) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
