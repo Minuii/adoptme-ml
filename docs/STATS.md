@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 05:41 UTC by the scrape workflow._
+_Updated 2026-11-16 05:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 05:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 30,032 | 2026-11-16T05:30 |
-| elve | 6 | 6,431 | 2026-11-16T05:31 |
+| amvgg | 6 | 30,262 | 2026-11-16T05:45 |
+| elve | 6 | 6,447 | 2026-11-16T05:45 |
 
-## AMVGG completed trades: 22,855 total
+## AMVGG completed trades: 22,869 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 780 |
+| 2026-11-16 | 794 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 05:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:45 | **kinnnaata**: Copycat (R), Jester Dragon (R), Jester Dragon | **lollucio251**: Kangaroo (R) |
+| 05:45 | **Tree092109**: Fly-A-Pet Potion ×2 | **hunterwarrior0558**: Ride-A-Pet Potion ×2, Danger Egg |
+| 05:45 | **guillemoran**: Shadow Dragon (FR), Strawberry Shortcake Bat Dragon (MFR) | **sickie_m0use**: Crow (MFR) |
+| 05:45 | **sickie_m0use**: Bat Dragon (NFR) | **RuthJavxn**: Crow (MFR), Bat Dragon (FR), 2022 Birthday Party Horn, Silverback Gorilla (NFR), Spinosaurus (NR) |
+| 05:45 | **Scentoftea**: Pig (R) | **cirocrack2020**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 05:45 | **darrylin_mendz**: Skelicorn, Jumpscare (M), Shoebill (N), Violet Friend (N), Moon Rabbit, Amami Rabbit | **skibidiswag85**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 05:45 | **cazzy123abc**: Tiny Wings, Burger Bear (MR), Latte Kitsune (R), Ride-A-Pet Potion ×2 | **robloxiana_79943**: 2022 Birthday Cake, Spring Bunny Hood |
+| 05:45 | **GrindAccount_N1**: Queen Bee (NR), Munchkin Cat (NFR), Emu (MFR), Ghost Bunny (NR), German Shepherd (NR), Jousting Horse (R), Jousting Horse ×2, Lava Dragon (FR), Golden Penguin (FR) ×2, Capricorn (R) ×2, Golden Rat (MFR) | **AutoTradeCommission**: Orchid Butterfly (FR) |
+| 05:45 | **VLBlankFs**: Copycat (R), Golden King Penguin, Ginger Cat (N) | **IVS102**: Copycat (FR) |
+| 05:45 | **MrrSush**: Cattuccino (MFR) | **sakunary_1328**: Ride-A-Pet Potion ×4 |
+| 05:45 | **FoxyChanU3U**: Giraffe (FR), Frost Dragon (FR), Rainbow Maker, Turtle (FR) ×3, Kangaroo (FR), Kangaroo, Dragonfruit Fox (NR), Fly-A-Pet Potion | **Siraj6118**: Bat Dragon (FR) |
+| 05:45 | **Niruch_Bearly**: Pet Handler Pro Certificate ×12 | **Youdi_off**: Fly-A-Pet Potion ×12 |
+| 05:45 | **DuckyMuffinz**: Amethyst Skies Mega Neon Paint | **Zhouyiran11227**: Retired Egg ×18 |
+| 05:45 | **santu_xdnt**: Candicorn (FR), Strawberry Hat | **Andreslovea87**: Kangaroo (FR) |
 | 05:36 | **anaataccia**: Fly-A-Pet Potion, Ancient Dragon, Skelicorn | **joker7_77**: Ride-A-Pet Potion ×2 |
-| 05:36 | **adrix_n0tFound**: Pupcicle (N) | **MariaGaimer123**: Ride-A-Pet Potion ×4 |
-| 05:36 | **silvervuw**: Peppermint Penguin (NFR), Border Collie | **realreal545**: Haetae (FR) |
-| 05:36 | **athhar86**: Fairy Bat Dragon (NFR), Evil Unicorn (FR), Goose | **ojfhkxkhxkd**: Crow (FR), Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion |
-| 05:36 | **RandomPerson2pO**: Shark Puppy (MFR) | **higuysitskobe**: Kangaroo (MFR), Turtle (NR) |
-| 05:36 | **DoughnutDucks**: Border Collie (NFR), Dango Penguins (MFR) | **nvmh4llow**: Royal Mistletroll (NFR) |
-| 05:36 | **Lilyulya3**: Strawberry Shortcake Bat Dragon (R) ×2, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7, Diamond Egg, Fire Stallion (NR) | **aksgoddess**: Strawberry Shortcake Bat Dragon (NFR) |
-| 05:36 | **quesidella**: Kangaroo, Copycat | **wjredmind**: Alpaca |
-| 05:36 | **SKTRealker**: Chocolate Chip Bat Dragon (R), Cow (FR), Hyena (MFR), Wyvern (NR) | **LikeVar4ek**: Crow (FR) |
-| 05:36 | **strawberry_thea08**: Bolt (M), Jacobin Pigeon (M) | **Huge_Soda**: Ride-A-Pet Potion |
-| 05:36 | **Pinkmalinky123**: Jeff's Nametag | **SpaceCadetSleepy**: Chef Hat |
-| 05:30 | **laylalooohoo23**: Pupcake (N) | **MistletoeMeg**: Burger Boots |
-| 05:30 | **HE4RTZK**: Tiny Wings ×2 | **loafactory**: German Shepherd (MFR) |
-| 05:30 | **Starry_Gazin**: Burger Bear, Rooster, Rosy Maple Moth | **leesoyul11111111**: Ride-A-Pet Potion |
-| 05:30 | **jam0khurt**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Maksimal_228**: Tortuga de la Isla |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
