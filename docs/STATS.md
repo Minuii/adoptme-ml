@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 19:01 UTC by the scrape workflow._
+_Updated 2026-11-16 19:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 19:01 UTC by the scrape workflow._
 | amvgg | 6 | 42,641 | 2026-11-16T19:00 |
 | elve | 6 | 9,227 | 2026-11-16T19:01 |
 
-## AMVGG completed trades: 25,132 total
+## AMVGG completed trades: 25,149 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,057 |
+| 2026-11-16 | 3,074 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 19:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:00 | **Bananenbrot3546**: Field Mouse, Fly-A-Pet Potion | **iileesxv**: Copycat |
-| 19:00 | **VovchikO123**: Robot (N), Peahen (R), Electric Hornet, Ginger Cat, Crystal Egg ×3, Ancient Dragon, Thunderfisher, Shih Tzu | **Gfuga02**: Ride-A-Pet Potion |
-| 19:00 | **alwyzchlqe**: Bush Elephant (MFR), Catte (MR) | **floricica_0502**: Nessie (MFR), Happy Clam (MFR), Owlbear (MFR) |
-| 19:00 | **xikell**: Ride-A-Pet Potion, Sakura Scythe | **Xaosdeathg**: Goldfish (NR) |
-| 19:00 | **Nikito4ka_mm2**: Tree Kangaroo (NR), King Bee (NFR), Red Squirrel (NR), Arctic Hare (M), French Bulldog (N), Ride-A-Pet Potion | **xsy_209**: Kangaroo (FR) |
-| 19:00 | **bbkxrby**: Harp Seal (MFR) | **erditiri03**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 |
-| 19:00 | **shpirtit**: Arctic Dusk Dragon (MFR) | **DaBabyLETSGo41**: Honey Badger (MFR) |
-| 19:00 | **VICTOR_AV01**: Green Butterfly (MFR), Arctic Fox (R) | **TOY_BONIE1916**: Goose |
-| 19:00 | **trecnor**: Crocodile (NFR), Fairy Bat Dragon (FR), Strawberry Tortle, Siamese Cat (FR), Turtle, Pig (R), Ride-A-Pet Potion | **Nekhona**: Siamese Cat (MFR) |
-| 19:00 | **izzyxrblx00**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Sailor Cap, Bready Necklace ×2 | **Ssbdfornad**: Tiny Wings |
-| 19:00 | **unilums**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **hy4kkii**: 2D Kitty (NR) |
-| 19:00 | **Hhhhjf263**: Unicorn ×2 | **baileybay90225**: Ride-A-Pet Potion ×2 |
-| 19:00 | **Artisticzsilver**: Owl (FR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR) | **TANSKlN**: Blazing Lion (FR), Giant Panda (FR) |
-| 19:00 | **startadm0**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×11, Admin Abuse Egg ×5 | **KotMonster7**: Albino Monkey (FR) |
-| 19:00 | **Yakkuji**: Sugar Glider (FR), Turtle (FR) ×2, Ride-A-Pet Potion ×2 | **OMGITSMACKENZIE6**: Sugar Glider (NFR) |
+| 19:11 | **Knorbating**: Frostbite Bear (R), Turtle (FR), Ride-A-Pet Potion, Pet Handler Pro Certificate | **earningone**: Leopard Shark (M), Frost Unicorn, Dango Penguins, Bald Eagle |
+| 19:06 | **lola_bear1995**: Fly-A-Pet Potion ×3 | **3undy**: Sheeeeep |
+| 19:06 | **aleks2u**: Goose (R) | **MckDull**: Cow (FR) |
+| 19:06 | **mamadmasa010**: Christmas Pudding Pup (NFR) | **Special_Foxi**: Fly-A-Pet Potion ×13 |
+| 19:06 | **Bennferoo00**: Balloon Unicorn (MFR) | **Cinzsins**: Bat Dragon (FR) ×2, Cow (FR) |
+| 19:06 | **takdjo_zhenia**: Shark Puppy (R) | **BELLAIzabella07**: Sea Slug, Bready Necklace |
+| 19:06 | **Brok3n_Clocks**: Winged Tiger (MFR) | **Layli811**: Kangaroo (FR), Bush Elephant (MFR) |
+| 19:06 | **AMINO4KA7U**: Strawberry Penguin (F) | **Smookgans**: Dango Penguins, Quokka (NR), Ermine (NR), Ride-A-Pet Potion |
+| 19:06 | **viktoria_super000**: Copycat, Giant Anteater, Ghost Dog (R), Burger Bear ×2 | **AUTOINPUT**: Haetyphoon |
+| 19:06 | **Dax_ontop1**: Bat Dragon (FR), Ice Cream Cone Hat | **mandarinkatenka3**: Bat Dragon |
+| 19:06 | **lalafan966**: Border Collie (MFR), Candicorn (MFR), Munchkin Cat (FR), Ring-Tailed Lemur (R), Copycat | **Siraj6118**: Crow (NFR) |
+| 19:06 | **lina200r**: Crow (NFR), Strawberry Shortcake Bat Dragon (FR) | **Siraj6118**: Arctic Reindeer (MFR) |
+| 19:06 | **a1dennxq**: Jester Dragon, Christmas Pudding Pup, Flaming Fox (NFR) | **abdoosaad**: Werewolf (FR), Witch Hat |
+| 19:06 | **arilhack1**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **che12young**: Frost Dragon (FR) |
+| 19:06 | **Lolaa_chn**: Jester Dragon (N), Fly-A-Pet Potion ×3 | **pestolina23**: Cabbit (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
