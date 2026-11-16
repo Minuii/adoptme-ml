@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 09:48 UTC by the scrape workflow._
+_Updated 2026-11-16 09:50 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 09:48 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 33,609 | 2026-11-16T09:38 |
-| elve | 6 | 7,203 | 2026-11-16T09:39 |
+| amvgg | 6 | 33,853 | 2026-11-16T09:49 |
+| elve | 6 | 7,238 | 2026-11-16T09:50 |
 
-## AMVGG completed trades: 23,335 total
+## AMVGG completed trades: 23,338 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,260 |
+| 2026-11-16 | 1,263 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,9 @@ _Updated 2026-11-16 09:48 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:49 | **KatsuTatsuya**: Crow (FR), Arctic Reindeer (FR), Cow (FR), Elephant (FR), Halloween Golden Mummy Cat (NR) | **ammadOwO2**: Frost Dragon (FR) |
+| 09:49 | **mambysx**: Pain au Chat, Caramelgeist (N) | **jstforgrindx**: Ribbon Seal (M) |
+| 09:49 | **aleks2u**: Chocolate Chip Bat Dragon (FR), Ice Cream Cone Hat | **notenenALT**: Cow (NFR) |
 | 09:44 | **RamoneTheRamona**: Cow (FR), Cabbit (R), Diamond Egg ×2, Royal Moon Egg, Royal Fairytale Egg | **beearc_c**: Candicorn (NFR) |
 | 09:44 | **whiplashtempo0**: Dragon (M) | **CMETAHKA_LOVE201074**: Mighty Haetyphoon Animated Sticker, Frostbite Bear and Cub Animated Sticker |
 | 09:44 | **xXxdream0**: Dalmatian (FR), Sea Slug (FR), Chocolate Chip Bat Dragon Backpack | **kipoSan0**: Copycat (NFR), Copycat (NR), Copycat (N) |
@@ -43,9 +46,6 @@ _Updated 2026-11-16 09:48 UTC by the scrape workflow._
 | 09:44 | **amnadastuven**: Copycat | **Kir4kaaa**: Frost Fury (FR) |
 | 09:44 | **0XbluehuskyX0**: Parrot (NFR), Owl (FR) | **cakes**: Balloon Unicorn (NFR) |
 | 09:44 | **docedelets**: Mule | **kaiinickk1**: Ride-A-Pet Potion |
-| 09:44 | **RobloxIsLif3z**: Ride-A-Pet Potion ×2 | **anaataccia**: Pain au Chat (N) |
-| 09:44 | **booluqx**: Happy Duckling (MFR), Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×5 | **MATT_2011901**: Cow (FR) |
-| 09:44 | **Umoyaees**: Groundhog (R), Scorching Kaijunior, Golden Hamster | **Gmyiluv**: Spring Bunny Hood, Propeller Hat |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
