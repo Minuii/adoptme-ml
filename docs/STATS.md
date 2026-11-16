@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 16:46 UTC by the scrape workflow._
+_Updated 2026-11-16 16:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 16:46 UTC by the scrape workflow._
 | amvgg | 6 | 40,426 | 2026-11-16T16:45 |
 | elve | 6 | 8,683 | 2026-11-16T16:45 |
 
-## AMVGG completed trades: 24,622 total
+## AMVGG completed trades: 24,660 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,547 |
+| 2026-11-16 | 2,585 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 16:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:45 | **ssosena**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **aderogt_0**: Arctic Fox |
-| 16:45 | **caxarok_ponosik52**: Balloon Unicorn (FR), Hare (MFR), Clover Cow (MR) | **raven_rampag**: Border Collie (MFR) |
-| 16:45 | **jayden190614**: Goat (MFR), Shark Puppy (NFR), Cow (FR), Fairy Bat Dragon (FR), Goat (N), Turtle (FR) | **theseller63**: Frost Dragon (FR) |
-| 16:40 | **Musesmia**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **jeIIyouus**: Copycat |
-| 16:40 | **imreaIIIypretty**: Diamond Unicorn (MFR), Vanilla Penguin (NR), Princess Capuchin Monkey (NFR) | **caycay_3800**: Cozy Cabin |
-| 16:40 | **stefkazzz**: Dalmatian (FR), Border Collie (R) | **ii_Edgar123**: Hedgehog (FR) |
-| 16:40 | **gh0steddsoull**: Fly-A-Pet Potion | **DOMERISKING**: Ride-A-Pet Potion ×2 |
-| 16:40 | **Jolien_188**: Ride-A-Pet Potion | **kajaterezka**: Snowball Pug (N) |
-| 16:40 | **hihihihihihihahahah2**: Border Collie (MFR) | **leahash123414**: Owl (FR) |
-| 16:40 | **RUSSIIION**: Christmas Spirit (MFR), Christmas Spirit (R), Frost Fury (FR), Snow Owl (FR), Ratatoskr (NFR), Mochi Meow (MR), Gargoyle (R), Albino Bat (R), Choco Penguin (R) ×2, Fire Mare (R), Naughty Mistletroll, Easter Eggy Box, Standard Capuchin Box, Frostclaw | **crap8077**: Turtle (FR) |
-| 16:40 | **Verine_Katz**: Stitches (N), Jacobin Pigeon (N) | **Kir4kaaa**: Crystal Egg ×6 |
-| 16:40 | **luvyerh**: Spring Bunny Hood | **Doln589**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 16:40 | **DarkLightopq**: Strawberry Shortcake Bat Dragon (FR), Goldfish (MFR) | **xxrosene**: Arctic Reindeer (FR) |
-| 16:40 | **Flashbook6**: Frostbite Bear (M), Copycat (MFR), Unicorn Horn ×2, Fly-A-Pet Potion ×5 | **imraulrawrr**: Giant Anteater (MFR), Haetae (FR), Silverback Gorilla (MFR), Puffin (MFR) |
-| 16:40 | **AmberStarKB**: Arctic Fox (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 16:55 | **quietlyangel**: Matcha Cat | **elitro44**: Ride-A-Pet Potion ×6 |
+| 16:55 | **abdoosaad**: Kangaroo (FR) | **444_asleep**: Gingerbread Reindeer (MR), Gingerbread Hare (M), Gingerbread Mouse (M), Husky ×3 |
+| 16:55 | **abdoosaad**: Alpaca | **rkdwlgh0104**: Jester Dragon (R), Bauble Buddies (MR), Chilling Spider (MFR), Christmas Spirit (M) |
+| 16:55 | **starswirl_64**: Halloween Evil Dachshund ×4 | **melynagamer3**: Ride-A-Pet Potion |
+| 16:55 | **Brooklyn_Ohio**: Strawberry Shortcake Bat Dragon (NFR), Ride-A-Pet Potion ×4 | **ruinedbleeded**: Balloon Unicorn (FR), Paint Sealer |
+| 16:55 | **RobloxFanNastya44346**: Kangaroo (FR), Stray Cat Dragon (M) | **Banquitogamer025**: Siamese Cat (R) |
+| 16:55 | **meeeeowey2**: Amami Rabbit, Brown Springer Spaniel, Drake | **Fidelia2131415**: Ride-A-Pet Potion ×2 |
+| 16:55 | **Gonzpro5858**: Fly-A-Pet Potion ×9 | **anekalubitnaruto**: Ride-A-Pet Potion ×16 |
+| 16:55 | **viongsu**: Ballet Swan | **haerin_1024**: Ride-A-Pet Potion ×6 |
+| 16:55 | **Xxxxashhhh**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Manggo_Pie40**: Latte Kitsune |
+| 16:50 | **LEEVE_0415FAIRNIX**: Candicorn (FR), Candicorn (R) ×2, Candicorn ×2 | **akhayrzamanova**: Cow (FR) ×2 |
+| 16:50 | **paldoalways34**: Chihuahua (M) ×2, Chihuahua (N) ×2, Waffle Wyrm (M) | **NoobA0M**: Pupcicle (M) |
+| 16:50 | **Ttsglw**: Fly-A-Pet Potion | **ljwempire777**: Armadillo (M) |
+| 16:50 | **Abdulazizm_2011**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7 | **LalayS2z**: Arctic Fox (FR) |
+| 16:50 | **MyKittyIsAApril**: Ride-A-Pet Potion ×8, Pain au Chat, Retired Egg ×9 | **LalayS2z**: Munchkin Cat |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
