@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 01:01 UTC by the scrape workflow._
+_Updated 2026-11-16 01:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 01:01 UTC by the scrape workflow._
 | amvgg | 6 | 25,789 | 2026-11-16T01:00 |
 | elve | 6 | 5,578 | 2026-11-16T01:01 |
 
-## AMVGG completed trades: 22,280 total
+## AMVGG completed trades: 22,305 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 205 |
+| 2026-11-16 | 230 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 01:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:00 | **MaxxieThePuppy**: Cow (FR) | **Kozinak_k**: Slime (MFR) |
-| 01:00 | **vcloss**: Queen Bee (NR), Bee (M), Weevil (M) | **GrindAccount_N1**: Llama ×4 |
-| 01:00 | **Inganta07**: Fly-A-Pet Potion, Ride-A-Pet Potion | **IVS102**: Dancing Dragon (FR) |
-| 01:00 | **WhyAreYouSoooDumb**: Chocolate Chip Bat Dragon (FR), Rainbow Maker, Sakura Spirit (R), Cupid Dragon, Ballet Swan, Fly-A-Pet Potion ×2 | **shortygirlshania**: Siamese Cat (MFR) |
-| 01:00 | **Cxezrl**: Border Collie (MFR) | **Emma_pop57**: Caterpillar (MFR) |
-| 01:00 | **BaconBoy112362**: Cryptid (FR), Hare, Chocolate Dutch Guinea Pig, Fly-A-Pet Potion, Ride-A-Pet Potion | **Jessy85600**: Copycat (MFR) |
-| 01:00 | **Cabybara123go**: Goose (NFR) | **1vkx3**: Brown Bear (MFR), 2022 Birthday Cupcake Shoes, Shark Puppy (R) |
-| 01:00 | **pawnerd**: Evil Unicorn (FR), Parrot (FR), Royal Corgi (MFR) | **TreasureChest033**: Frostbite Bear (MFR) |
-| 01:00 | **TreasureChest033**: Frost Dragon (FR), Candicorn (R), Fairy Bat Dragon (FR) | **hyfbnyc**: Frostbite Bear (MFR) |
-| 01:00 | **TreasureChest033**: Chihuahua, Alicorn, Dragonfly, Skelicorn | **valya45667iy553445**: Sack of Cash, Mule Baskets |
-| 01:00 | **sugarsaltacc2_0**: Bunny Swirl (N) | **evvlistic**: Bat (M) |
-| 01:00 | **cxXxgisellexX**: Meerkat (MFR), Ice Cream Hermit Crab (MFR), Ram (MR) | **Lingling111206**: Pink Cat (MFR), Mule (MFR), Ice Cream Cone Hat |
-| 00:55 | **leesoyul11111111**: Ride-A-Pet Potion | **imapanboy**: Golden Walrus |
-| 00:55 | **miko_nyaw01**: Snow Monkey, Ride-A-Pet Potion, Pig | **Shehatesme420**: Shark Puppy (R) |
-| 00:55 | **luxsdomain**: Frost Dragon (MFR) | **Potato_potatoes100**: Bat Dragon (FR), Giraffe (FR), Strawberry Shortcake Bat Dragon (FR), Unicorn Horn |
+| 01:10 | **Valen84532**: Vanilla Penguin, Axolotl | **Thecupofkindness**: Pupcicle ×2 |
+| 01:10 | **i_choo01**: Chocolate Chip Bat Dragon (NFR), Ice Cream Cone Hat, Spring Bunny Feet, Ride-A-Pet Potion | **trashbag_lorelei**: Strawberry Shortcake Bat Dragon (NFR), Strawberry Penguin (NFR) |
+| 01:10 | **AutoTradeCommission**: 2022 Birthday Party Hat, Unicorn Horn, Fly-A-Pet Potion ×3 | **Dollsgr**: Turtle (R), Moon Rabbit (MFR), Amami Rabbit (MFR) |
+| 01:10 | **IzRaiaUwUZaia**: Shark Puppy (R), Ring-Tailed Lemur (R), Ride-A-Pet Potion ×3 | **alexgameminecraft**: Candicorn (FR) |
+| 01:10 | **xXrainbow4lifeXxx**: Ride-A-Pet Potion, Chameleon | **adriel_24k**: Burger Boots, Strawberry Clip |
+| 01:10 | **loommugg**: Chicken | **Xxtrustedella**: Ride-A-Pet Potion ×2 |
+| 01:10 | **kworixx**: Silly Duck | **Xxtrustedella**: Ride-A-Pet Potion |
+| 01:10 | **julesdastar1**: Mermicorn (FR), Cabbit (FR), Turtle (FR), Halo, Cherry-On-Top, S'mores Raccoon (NFR), Spring Bunny Hood | **Ari_Blays**: Balloon Unicorn (FR) |
+| 01:10 | **Str3amN0va2024**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×9, Chocolate Dutch Guinea Pig (N), Choco Penguin (N), Capricorn (FR) | **fluses_sss**: Turtle (FR) |
+| 01:10 | **N0ugatt**: Turtle (FR) | **Slughteer**: Candicorn (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×5 |
+| 01:10 | **AL0HALILYY**: Frost Dragon (FR), Flamingo (R) | **Kimmxqqq**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cow (FR) ×2, Fairy Bat Dragon (FR) |
+| 01:10 | **1Biahsz_altx**: Ride-A-Pet Potion | **1234noemisuper**: Irish Setter (M) |
+| 01:10 | **BirdsAreSmarterThanU**: Maine Coon (MR) | **Middo_Adventures1**: Octopus (NFR) |
+| 01:10 | **Iovefromeva**: Lion Cub (NFR), Ride-A-Pet Potion | **3mis_alttt**: Mule (MR) |
+| 01:10 | **xsf_o**: Owl | **ST3LL4_II**: Balloon Unicorn (FR), Candicorn, Crocodile (FR), Ice Cream Cone Hat, Jester Dragon (R), Dango Penguins ×2, Unicorn (N), Bunny Swirl (N), Ghost Bunny (R), Owlbear (R), Pupcicle (N), Pupcicle ×3 |
 
 ## Elvebredd value changes: 61,917 since 2023-09-16
 
