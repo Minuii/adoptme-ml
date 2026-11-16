@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 07:10 UTC by the scrape workflow._
+_Updated 2026-11-16 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 07:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 31,396 | 2026-11-16T07:00 |
-| elve | 6 | 6,721 | 2026-11-16T07:01 |
+| amvgg | 6 | 31,600 | 2026-11-16T07:15 |
+| elve | 6 | 6,780 | 2026-11-16T07:16 |
 
-## AMVGG completed trades: 23,032 total
+## AMVGG completed trades: 23,046 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 957 |
+| 2026-11-16 | 971 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 07:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:15 | **niceplayeruwu**: Ride-A-Pet Potion ×4 | **wowohaha17**: Pupcicle (N) |
+| 07:15 | **partypupuli**: Polar Bear (NR) | **hxquip**: Unicorn (MR) |
+| 07:15 | **Kikidiyu**: Fly-A-Pet Potion, Ride-A-Pet Potion, Chihuahua | **Anelchik_i**: Chocolate Chow-Chow (NFR) |
+| 07:15 | **JethroPlayzR**: Ride-A-Pet Potion ×5 | **anaataccia**: Malaysian Tapir (MR) |
+| 07:15 | **fox_100l**: Fairy Bat Dragon (FR), Candyfloss Chick (F), Dango Penguins (N), Ride-A-Pet Potion | **WhinyBuny**: Samoyed (M), Maine Coon (M), Peppermint Penguin (R), Mrs. Whiskerpips (MR), Pudding Cat (MR), Polar Bear (NR) |
+| 07:15 | **A_A3193**: Water Rabbit (NR) | **Xxrosegirl130_40**: Fly-A-Pet Potion ×2 |
+| 07:15 | **ottxotoxoxtotx**: Goat (R) | **6arixia**: Mule (N) |
+| 07:15 | **PinkyPieFoSho**: Christmas Pudding Pup (NR), Peppermint Penguin (NFR), Snowball Pet (MFR), Polar Bear (NFR) | **Lovley_000**: Giant Panda (FR), Harp Seal (NR), Bready Necklace, Vol. 2 Pets Plus Sticker Pack, Ice Cream Heels |
+| 07:15 | **SyndromGG**: Harp Seal (MFR) | **erditiri03**: Sugar Glider (FR) |
+| 07:15 | **laylalooohoo23**: Unicorn, King Bee (R), Cattuccino (N) | **robloxer_3614**: Burger Boots |
+| 07:15 | **IRose4730**: Royal Fairytale Egg, Salamander ×2, Red Fox, Pine Marten, Indian Leopard | **IsaKatze3001**: Ride-A-Pet Potion |
+| 07:15 | **poortoorich147**: Skelicorn (NR) | **lizarg_472**: Badger ×18 |
+| 07:15 | **bnnievs**: Giant Panda (FR), Balloon Unicorn (FR), Latte Kitsune (MFR), Leopard Shark (MFR), Puffer Fish (MFR), Binturong (MFR), Birthday Butterfly 2023 (MFR), Chipmunk (MFR) | **rainthatxx**: Pelican (MFR) |
+| 07:15 | **kkaatEEe2**: Peachick (N) | **lizarg_472**: Nautilus, St Bernard, Parakeet (N), Zebra (N), Kid Goat, Water Opossum, White Choccybunny ×2, Black Moon Bear, Fire Foal ×2 |
 | 07:10 | **Slime_Duck677**: Pupcicle (MFR) ×9 | **Frs_88xx**: Blazing Lion (FR), Strawberry Shortcake Bat Dragon (FR), Goose (R) |
-| 07:10 | **luvyerh**: Munchkin Cat | **a_2lisaa**: Arctic Fox (FR) |
-| 07:10 | **vanillqsz**: Purrowl (N), Caramelgeist (N), Dragonfly, Slime, Fly-A-Pet Potion | **Vii_TheLittleZ0mbie**: Happy Clam |
-| 07:10 | **mwz_12**: Black Scooter | **kimh099**: Bready Necklace |
-| 07:10 | **i_slaybruh**: Borhyaena Gigantica (MFR) | **Bumble_Lou**: Stray Cat Dragon ×15 |
-| 07:10 | **krapsalot**: Unicorn Ducky (M) | **Bumble_Lou**: Stray Cat Dragon ×3 |
-| 07:10 | **laceddk1tty**: Pupcicle ×3, Tuxedo Cat, Black Springer Spaniel, Sloth, St Bernard, Ram, Kiwi, Kiwi Kiwi | **balen_112**: Gecko (MR) |
-| 07:10 | **luvyerh**: Lunar Gold Tiger (FR) | **BUS5ED**: Ride-A-Pet Potion |
-| 07:10 | **flower_1851**: Zebra (F), Orangutan (R) | **BUS5ED**: Ride-A-Pet Potion |
-| 07:10 | **fgdgbrs**: Munchkin Cat (N), Werewolf (MFR), Alley Cat | **jake_andrew417**: Grim Dragon (MFR) |
-| 07:10 | **Pancakes7240**: Hot Doggo (NFR), Irish Water Spaniel (NFR), Jacobin Pigeon (M) | **KiaXias**: Dragonfruit Fox (MR), Dango Penguins (M), Ice Cream Hermit Crab (MR), Copycat (R), Ride-A-Pet Potion ×2 |
-| 07:00 | **Omar2002548**: Shrew (R) | **ihyMellyy**: Tortuga de la Isla |
-| 07:00 | **rinnnnnn_2**: Copycat, Jester Dragon | **puuuurrrraaawww**: Sea Slug (R) |
-| 07:00 | **terrylonsoyjerry**: Sloth (MR), Shih Tzu (M) | **Ryandelpozo28**: Ice Cream Cone Hat |
-| 07:00 | **roman_cool586**: Flamingo (FR), Ride-A-Pet Potion, T-Rex, Drake | **terrylonsoyjerry**: Therapy Dog (M), Rain Cloud Hat |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
