@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 14:24 UTC by the scrape workflow._
+_Updated 2026-11-16 14:34 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 14:24 UTC by the scrape workflow._
 | amvgg | 6 | 38,033 | 2026-11-16T14:23 |
 | elve | 6 | 8,110 | 2026-11-16T14:24 |
 
-## AMVGG completed trades: 24,111 total
+## AMVGG completed trades: 24,151 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,036 |
+| 2026-11-16 | 2,076 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 14:24 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:23 | **Jeansppk**: Kangaroo (R) | **Me_citer228**: Hare (NF), Fly-A-Pet Potion ×2 |
-| 14:23 | **Xxdiamondsea**: Fairy Bat Dragon (NFR), Ride-A-Pet Potion ×2 | **donnotinteract**: Cabbit (NFR) |
-| 14:23 | **Janilain22067**: Parrot (FR), Unicorn Horn, Ride-A-Pet Potion ×5, Stray Cat Dragon (M) | **Wot3412**: Cow (MFR) |
-| 14:23 | **asmornn**: Ice Cream Cone Hat | **ALEXANDRAAXAXA**: Harp Seal (NR) |
-| 14:22 | **Seancarlosd**: Mini Pig (R), Fly-A-Pet Potion, Amami Rabbit | **renn_123on**: Unicorn Horn, Toaster Hat ×2 |
-| 14:22 | **princess_fiona267**: Pain au Chat (N) | **riskyactss**: Chihuahua, Pain au Chat, Pupcicle |
-| 14:22 | **mommy_vka123**: Goose (R), Ride-A-Pet Potion | **Sharkie0020**: Munchkin Cat (FR) ×2, Munchkin Cat (R), Fly-A-Pet Potion |
-| 14:22 | **Youdi_off**: Pet Handler Pro Certificate ×3 | **KFC_C0nya**: Frost Fury (FR) |
-| 14:22 | **mimikokittyy**: Shark Puppy (MFR), Unicorn Horn ×3, Border Collie (R), 2022 Birthday Party Horn, Sea Slug (R), Shark Puppy, Tiny Wings, Hare (FR), Spring Bunny Feet, German Shepherd, Chocolate Chip Bat Dragon Backpack, Harp Seal | **Siraj6118**: Frost Dragon (FR) |
-| 14:22 | **Klim_mons**: Pupcicle ×4, Officer Gibbon (N), Caramelgeist (N), Thunderfisher (N) | **AmberEatsChocolate**: Pupcicle (N) |
-| 14:22 | **yeobviiiii**: Mini Pig (R), Candicorn (MFR) | **14pawz**: Parrot (FR) |
-| 14:22 | **alexandmartinareg**: 2022 Birthday Cake | **toxic_nona**: Siamese Cat, Fly-A-Pet Potion, Eaten Donut, Leaf Hat |
-| 14:22 | **juegosyutube63**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2, Cupid Dragon (R) | **odading12318**: Mini Pig (FR) |
-| 14:22 | **ARKIN_gamingChannel1**: Frostbite Bear (R) | **J7alexander2**: Turtle (FR) |
-| 14:22 | **whoareyou12479**: Balloon Unicorn (FR), Alpaca (R) | **ii_aldrin20**: Parrot (FR) |
+| 14:34 | **rottingroyaltyyy**: Strawberry Shortcake Bat Dragon (FR), Cabbit (FR), Cabbit (R), Alpaca (R), Sheeeeep (FR), Quad Stroller | **fightergaming11**: Crow (FR) |
+| 14:34 | **GhostStinksLikePoo**: Haetae (FR), Rainbow Maker ×2, Alpaca (NFR), Sakura Spirit (NFR), DJ Snooze (MFR), Spring Bunny Feet, Rain Boots ×2, Giant Black Scarab (MR), Gaelic Fae (NFR), Gaelic Fae, Storm Condor (MFR), Stray Cat Dragon (NFR), Chanekeh (MR), Dragon Breath Animated Sticker, Chocolate Chip Bat Dragon Backpack, Pet Handler Pro Certificate | **theseller63**: Giraffe (FR) |
+| 14:34 | **lera_573038**: Royal Mistletroll (FR), Polar Bear (R) | **eftones**: Copycat (NR) |
+| 14:34 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **ProPro2021**: Unicorn (NFR) |
+| 14:34 | **leftmyhoodie**: Frostbite Bear (FR), Unicorn (NFR) | **ProPro2021**: Copycat (NFR) |
+| 14:34 | **Yana_dog151**: Cabbit (R) | **Lavend67r67**: Munchkin Cat, Unicorn Horn |
+| 14:34 | **Nurmukhan15**: Undead Jousting Horse (FR), Jester Dragon | **FouWait1**: Candicorn (NFR) |
+| 14:34 | **Luxi_976**: 2D Kitty | **masonreiGN18**: Ride-A-Pet Potion |
+| 14:34 | **Tena_IsPeakfr**: Unicorn Horn ×2, Ram (NR), Penguin (NR), Ride-A-Pet Potion | **sofiaablehh**: Sugar Glider (FR), Munchkin Cat (FR), Tiny Wings |
+| 14:34 | **wavehrt**: Wing Trunk Car, Triple Stroller | **Paifrennnn**: Ride-A-Pet Potion |
+| 14:34 | **odading12318**: Turtle (FR) | **Miki_5533**: Fly-A-Pet Potion ×12 |
+| 14:34 | **XzJellyjHCryptizX197**: Fly-A-Pet Potion ×5 | **warpiir**: Quokka (MFR) |
+| 14:34 | **ChocolatinaYToficial**: Purrowl | **luninh512**: Purrowl |
+| 14:34 | **Veronika_17371**: Chocolate Chip Bat Dragon (FR), Aussie Egg, Fly-A-Pet Potion | **MiLkas_20111**: Arctic Reindeer (FR) |
+| 14:34 | **reigninharmonyy**: Pine Marten (FR), White Chef Hat, Butter Knife | **Elodie_Funny**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
