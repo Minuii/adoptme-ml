@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 07:01 UTC by the scrape workflow._
+_Updated 2026-11-16 07:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 07:01 UTC by the scrape workflow._
 | amvgg | 6 | 31,396 | 2026-11-16T07:00 |
 | elve | 6 | 6,721 | 2026-11-16T07:01 |
 
-## AMVGG completed trades: 23,021 total
+## AMVGG completed trades: 23,032 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 946 |
+| 2026-11-16 | 957 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:10 | **Slime_Duck677**: Pupcicle (MFR) ×9 | **Frs_88xx**: Blazing Lion (FR), Strawberry Shortcake Bat Dragon (FR), Goose (R) |
+| 07:10 | **luvyerh**: Munchkin Cat | **a_2lisaa**: Arctic Fox (FR) |
+| 07:10 | **vanillqsz**: Purrowl (N), Caramelgeist (N), Dragonfly, Slime, Fly-A-Pet Potion | **Vii_TheLittleZ0mbie**: Happy Clam |
+| 07:10 | **mwz_12**: Black Scooter | **kimh099**: Bready Necklace |
+| 07:10 | **i_slaybruh**: Borhyaena Gigantica (MFR) | **Bumble_Lou**: Stray Cat Dragon ×15 |
+| 07:10 | **krapsalot**: Unicorn Ducky (M) | **Bumble_Lou**: Stray Cat Dragon ×3 |
+| 07:10 | **laceddk1tty**: Pupcicle ×3, Tuxedo Cat, Black Springer Spaniel, Sloth, St Bernard, Ram, Kiwi, Kiwi Kiwi | **balen_112**: Gecko (MR) |
+| 07:10 | **luvyerh**: Lunar Gold Tiger (FR) | **BUS5ED**: Ride-A-Pet Potion |
+| 07:10 | **flower_1851**: Zebra (F), Orangutan (R) | **BUS5ED**: Ride-A-Pet Potion |
+| 07:10 | **fgdgbrs**: Munchkin Cat (N), Werewolf (MFR), Alley Cat | **jake_andrew417**: Grim Dragon (MFR) |
+| 07:10 | **Pancakes7240**: Hot Doggo (NFR), Irish Water Spaniel (NFR), Jacobin Pigeon (M) | **KiaXias**: Dragonfruit Fox (MR), Dango Penguins (M), Ice Cream Hermit Crab (MR), Copycat (R), Ride-A-Pet Potion ×2 |
 | 07:00 | **Omar2002548**: Shrew (R) | **ihyMellyy**: Tortuga de la Isla |
 | 07:00 | **rinnnnnn_2**: Copycat, Jester Dragon | **puuuurrrraaawww**: Sea Slug (R) |
 | 07:00 | **terrylonsoyjerry**: Sloth (MR), Shih Tzu (M) | **Ryandelpozo28**: Ice Cream Cone Hat |
 | 07:00 | **roman_cool586**: Flamingo (FR), Ride-A-Pet Potion, T-Rex, Drake | **terrylonsoyjerry**: Therapy Dog (M), Rain Cloud Hat |
-| 07:00 | **blushbyelle**: Bat Dragon (NFR), Cryptid (MFR), Peppermint Penguin (MFR) ×2, Cabbit (MFR), Dalmatian (MFR), Pelican (MFR), Mini Pig (MFR), Frost Unicorn (MFR) | **rainthatxx**: Bat Dragon (MFR) |
-| 07:00 | **uqxiyeol**: Ride-A-Pet Potion | **xromosa2**: Sushi Penguin |
-| 07:00 | **loiol1004**: Leopard Cat (MR) | **a_2lisaa**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 |
-| 07:00 | **bnnysiie**: Ride-A-Pet Potion | **xuei2alt**: Respectful Mustache |
-| 07:00 | **AseesCr7GoesBoom**: Strawberry Tortle (M) | **HegdeHogsPlayYT**: Owl (NFR) |
-| 07:00 | **URSET_ROM4IK997**: Ride-A-Pet Potion ×3, Santa's Bow, Puppeteer Hand ×2, Elf Shoes, Rotating Periscope ×3 | **gikuffryfrtfryttg**: Aussie Egg |
-| 07:00 | **bnnysiie**: Ride-A-Pet Potion | **xuei2alt**: Dumpling Friend Hat |
-| 07:00 | **kelsey_1815**: Fly-A-Pet Potion | **0o0Username0o0**: Highland Cow (N) |
-| 07:00 | **maryrose0_0**: Frost Dragon (FR), Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **AseesCr7GoesBoom**: Haetae (R), African Wild Dog, Fairy Bat Dragon |
-| 07:00 | **IngoAlchemyPro**: Crystal Egg ×18 | **MyacountJohnwcrtba**: Ride-A-Pet Potion |
-| 07:00 | **VelenoDiVipera**: Ride-A-Pet Potion ×3 | **Bismuth234**: Polar Bear |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
