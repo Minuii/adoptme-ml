@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 14:01 UTC by the scrape workflow._
+_Updated 2026-11-16 14:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 14:01 UTC by the scrape workflow._
 | amvgg | 6 | 37,556 | 2026-11-16T14:00 |
 | elve | 6 | 7,988 | 2026-11-16T14:01 |
 
-## AMVGG completed trades: 24,052 total
+## AMVGG completed trades: 24,083 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,977 |
+| 2026-11-16 | 2,008 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:00 | **RobloxIsLif3z**: Snowball Pet | **Alycialolpop1**: Ride-A-Pet Potion |
-| 14:00 | **lilpepeng150**: Ride-A-Pet Potion | **rlyreale**: Mochi Meow ×10 |
-| 14:00 | **quietlyangel**: Royal Palace Spaniel ×12 | **Alycialolpop1**: Ride-A-Pet Potion ×6 |
-| 14:00 | **lilpepeng150**: Ride-A-Pet Potion | **rlyreale**: Mochi Meow ×9 |
-| 14:00 | **lilpepeng150**: Ride-A-Pet Potion | **Jyy_wel**: Mochi Meow ×9 |
-| 14:00 | **Dedkcn14**: Binturong (N), Great Pyrenees (N), German Shepherd (NR) | **Alycialolpop1**: Shark Puppy |
-| 14:00 | **Shaurma1128**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **korylory67**: Pig (R) |
-| 14:00 | **wh1mzical**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×6 | **amyggvaI**: Winged Tiger |
-| 14:00 | **rottingroyaltyyy**: Ride-A-Pet Potion ×2 | **AgaT_Wayy**: Fly-A-Pet Potion |
-| 14:00 | **nainalt5**: Chef Gorilla (MFR), Harp Seal (MFR), Mule (MFR), Siamese Cat (NFR) | **Tomatoxxxblizzard**: Haetae (FR) |
-| 14:00 | **Kristi_roblox21**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4, Glamicorn Purse Pet, Skelicorn (R), Skelicorn | **iiPurplegalaxy127**: Blazing Lion (FR) |
-| 14:00 | **8_lsr**: Blue Cat Ear Headphones, Yellow Instant Camera, Pink Instant Camera, Chick Backpack | **tytufrytii29**: Fly-A-Pet Potion |
-| 14:00 | **cat86u**: Papa Moose | **UltimateLionMantis**: Ride-A-Pet Potion ×6 |
-| 14:00 | **RBstela**: Wildfire Hawk (N), Sabertooth (N) | **danana0415**: Fly-A-Pet Potion |
-| 14:00 | **casibeeh**: Spring Bunny Nose, Invisible Wings, Cotton Candy Hat ×2, Rabbit (NFR) | **didtje2**: Ice Cream Cone Hat |
+| 14:11 | **kreker0900**: Pupcicle (MR) | **cute_bunny123456p**: Pupcicle ×16, Ride-A-Pet Potion, Burger Boots |
+| 14:11 | **Zoomek62**: Skelicorn (N) ×2 | **Hey_Dant123**: Ride-A-Pet Potion |
+| 14:11 | **shocoleh**: Copycat (NR), Ride-A-Pet Potion | **leftmyhoodie**: Frostbite Bear, Halloween White Ghost Dragon (FR), Sushi Penguin, Spring Bunny Feet |
+| 14:11 | **Tvink_gadzilla**: Ride-A-Pet Potion, Skelicorn (R) | **Andrey_223tr**: Capricorn (FR) |
+| 14:11 | **Lerunhi**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 | **odading12318**: Turtle (FR) |
+| 14:11 | **hello_oliya**: 2022 Birthday Cake, Halo, Harp Seal (N), Bready Necklace | **Angxlliic_0**: Fairy Bat Dragon (FR), Cow (FR) |
+| 14:11 | **AestxStella**: Parrot (F), Crow (FR), Balloon Unicorn (FR), Evil Unicorn (FR) | **juzavast**: Shadow Dragon (FR) |
+| 14:11 | **Stefanie_est**: Glacier Moth | **UltimateLionMantis**: Ride-A-Pet Potion ×4 |
+| 14:11 | **thebossadammm**: Ride-A-Pet Potion ×3, Groundhog, Ram (R) | **squ_evder**: Toaster Hat |
+| 14:11 | **Allyanaph124**: Fly-A-Pet Potion ×11 | **odading12318**: Alpaca (FR) |
+| 14:11 | **GEMYU900**: Narwhal (NR) | **akatsiiii**: Ride-A-Pet Potion |
+| 14:11 | **donnotinteract**: Alley Cat (N) | **iileesxv**: Field Mouse, Ride-A-Pet Potion |
+| 14:11 | **yshikza**: Pet Handler Pro Certificate ×2 | **xboxcute1**: Unicorn Backpack |
+| 14:11 | **yshikza**: Fly-A-Pet Potion ×2 | **xboxcute1**: Unicorn Backpack |
+| 14:11 | **hanb3ki**: Winged Tiger (MFR), Evil Unicorn (NFR), Strawberry Shortcake Bat Dragon (R), Turtle (FR) | **Kiandra13kiandra**: Owl (NFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
