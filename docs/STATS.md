@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 13:55 UTC by the scrape workflow._
+_Updated 2026-11-16 14:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 13:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 37,314 | 2026-11-16T13:45 |
-| elve | 6 | 7,918 | 2026-11-16T13:45 |
+| amvgg | 6 | 37,556 | 2026-11-16T14:00 |
+| elve | 6 | 7,988 | 2026-11-16T14:01 |
 
-## AMVGG completed trades: 24,028 total
+## AMVGG completed trades: 24,052 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,953 |
+| 2026-11-16 | 1,977 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 13:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:50 | **Yshsjaksnbean**: Haetae (FR), Kangaroo (R), Platypus | **AerialVix**: Balloon Unicorn (FR) |
-| 13:50 | **nuggets0162**: Kangaroo (NFR), Cow (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5, Snow Cat (N), Otter (N) | **odading12318**: Fairy Bat Dragon (NFR) |
-| 13:50 | **kreker0900**: Flaming Fox (NR) | **hii11love**: Lion Cub (R), Ride-A-Pet Potion ×2 |
-| 13:50 | **Li0nH3r086**: Giant Panda (R), Cow (FR) ×2, Fairy Bat Dragon (R), Christmas Pudding Pup (NR) | **BYEnes99**: Frost Dragon (FR) |
-| 13:50 | **BUS5ED**: Ride-A-Pet Potion | **iiLxy_MoonStxr**: Shiba Inu (NFR) |
-| 13:50 | **shyfawni**: Bat Dragon (FR), Chicken (MFR), Arctic Fox (MFR), Spring Bunny Hood | **noelleroan234**: Cryptid (MFR) |
-| 13:50 | **DariisTatu12**: Birthday Butterfly 2024 (NFR), Ride-A-Pet Potion | **starperstrading**: Octopus (NFR) |
-| 13:50 | **SOFIA_HAN7**: Strawberry Shortcake Bow | **bunnycuns**: Rose Quartz Glow Mega Neon Paint |
-| 13:45 | **Yorkshire_2020**: Cryptid (NFR) | **headaddisonraestan**: Copycat (MFR), Moose Calf (MFR), Rainbow Maker, Pet Handler Pro Certificate ×2 |
-| 13:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **SophiaKL107**: Matcha Cat |
-| 13:45 | **hemo1234066**: Parrot (FR), 2022 Birthday Cake, Arctic Fox (NR) | **ETM_TOPG**: Owl (FR) |
-| 13:45 | **nice2306_alt**: Stray Cat Dragon ×15 | **mjieoso**: Pet Handler Pro Certificate |
-| 13:45 | **kiruikiru**: Little Lamb (M) | **califxrmula**: Ride-A-Pet Potion |
-| 13:45 | **mimirules21**: Arctic Reindeer (NFR) | **Niarsom4589**: African Wild Dog (FR) |
-| 13:45 | **urdistxntmemory**: Chocolate Dutch Guinea Pig (FR) | **Apixera**: Dire Wolf (M) |
+| 14:00 | **RobloxIsLif3z**: Snowball Pet | **Alycialolpop1**: Ride-A-Pet Potion |
+| 14:00 | **lilpepeng150**: Ride-A-Pet Potion | **rlyreale**: Mochi Meow ×10 |
+| 14:00 | **quietlyangel**: Royal Palace Spaniel ×12 | **Alycialolpop1**: Ride-A-Pet Potion ×6 |
+| 14:00 | **lilpepeng150**: Ride-A-Pet Potion | **rlyreale**: Mochi Meow ×9 |
+| 14:00 | **lilpepeng150**: Ride-A-Pet Potion | **Jyy_wel**: Mochi Meow ×9 |
+| 14:00 | **Dedkcn14**: Binturong (N), Great Pyrenees (N), German Shepherd (NR) | **Alycialolpop1**: Shark Puppy |
+| 14:00 | **Shaurma1128**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **korylory67**: Pig (R) |
+| 14:00 | **wh1mzical**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×6 | **amyggvaI**: Winged Tiger |
+| 14:00 | **rottingroyaltyyy**: Ride-A-Pet Potion ×2 | **AgaT_Wayy**: Fly-A-Pet Potion |
+| 14:00 | **nainalt5**: Chef Gorilla (MFR), Harp Seal (MFR), Mule (MFR), Siamese Cat (NFR) | **Tomatoxxxblizzard**: Haetae (FR) |
+| 14:00 | **Kristi_roblox21**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4, Glamicorn Purse Pet, Skelicorn (R), Skelicorn | **iiPurplegalaxy127**: Blazing Lion (FR) |
+| 14:00 | **8_lsr**: Blue Cat Ear Headphones, Yellow Instant Camera, Pink Instant Camera, Chick Backpack | **tytufrytii29**: Fly-A-Pet Potion |
+| 14:00 | **cat86u**: Papa Moose | **UltimateLionMantis**: Ride-A-Pet Potion ×6 |
+| 14:00 | **RBstela**: Wildfire Hawk (N), Sabertooth (N) | **danana0415**: Fly-A-Pet Potion |
+| 14:00 | **casibeeh**: Spring Bunny Nose, Invisible Wings, Cotton Candy Hat ×2, Rabbit (NFR) | **didtje2**: Ice Cream Cone Hat |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
