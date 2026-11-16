@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 12:46 UTC by the scrape workflow._
+_Updated 2026-11-16 12:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 12:46 UTC by the scrape workflow._
 | amvgg | 6 | 36,626 | 2026-11-16T12:45 |
 | elve | 6 | 7,793 | 2026-11-16T12:45 |
 
-## AMVGG completed trades: 23,825 total
+## AMVGG completed trades: 23,859 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,750 |
+| 2026-11-16 | 1,784 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 12:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:45 | **GEMYU900**: Fly-A-Pet Potion, Queen Bee (R) | **545364536vc**: Christmas Spirit (M) |
-| 12:45 | **GEMYU900**: Fly-A-Pet Potion | **NarutoDegenerat**: Phoenix (FR) |
-| 12:45 | **GEMYU900**: Ride-A-Pet Potion, Ginger Cat (N), Rubber Ducky (N), Bolt (N) | **12M060**: Bee (NFR) |
-| 12:45 | **trade_toshadow02**: Border Collie (NFR), Cow, Groundhog, Rain Cloud Hat | **rip_indra12345678912**: Hot Doggo (NFR) |
-| 12:45 | **MohamedAfj1**: Albino Monkey (FR), Toaster Hat, Pig | **toxic_nona**: Silly Duck (MFR), Slothula Transformation Animated Sticker |
-| 12:45 | **Gabriele143love**: Strawberry Tortle (R), Ride-A-Pet Potion | **noob1962963**: Chocolate Dutch Guinea Pig (MFR) |
-| 12:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 | **Uliana000334**: Pig (FR) |
-| 12:45 | **Qu33nDQCrimsonO19932**: Chihuahua ×2 | **Ccrumbcat**: Ride-A-Pet Potion |
-| 12:45 | **Marines_Natalia**: Crocodile (FR) | **Huge_Soda**: Ride-A-Pet Potion ×12 |
-| 12:45 | **minsun1313**: Ride-A-Pet Potion ×5 | **VegaPhonki**: Pupcicle ×5 |
-| 12:45 | **Anelchik_i**: Tombstone Ghostify | **wl0ws**: Undead Jousting Horse (FR), Fly-A-Pet Potion |
-| 12:45 | **ammadOwO2**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 | **liqiuris**: Fairy Bat Dragon (FR) |
-| 12:45 | **matteo57th**: Three Blind Mice, Blue Whale, Purrowl, Diamond Dragon, Diamond Griffin ×2, Golden Griffin, Dragonfly, Alien Eyes Hat | **katerina_ishchak**: Ride-A-Pet Potion |
-| 12:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **Phoenix_Goddess0**: Shark Puppy (R) |
-| 12:45 | **Mel_Xblossom**: Goose, Candyfloss Mega Neon Paint, Amethyst Skies Mega Neon Paint | **selina053012**: Jekyll Hydra (FR) |
+| 12:55 | **Kattyloni**: Pupcicle ×4, Robot (N) ×2, Japanese Snow Fairy (N) | **worriorcatfan36**: Pupcicle (N) |
+| 12:55 | **yeyey66hevj**: Peppermint Penguin (FR), Chocolate Dutch Guinea Pig (N) | **kaibodydump**: Mini Pig (FR) |
+| 12:55 | **narutosasukesakursa**: Jester Dragon, Corgi (M) | **fr1kizx**: Latte Kitsune ×2 |
+| 12:55 | **Qu33nDQCrimsonO19932**: Chihuahua ×7 | **vivisam1100**: Ride-A-Pet Potion ×3 |
+| 12:55 | **Sunny_Frinch**: Mochi Meow (NFR) | **overloadeddddddddddd**: Ride-A-Pet Potion |
+| 12:55 | **stabthedoll**: Pig (FR), Australian Kelpie (MR) | **LucasAndFriends7**: Hare (N) |
+| 12:55 | **Mariya_Prim**: Turtle (R) | **yeetimaheadout7**: Frostbite Bear |
+| 12:55 | **THEYLOVEE_AVAAA**: Balloon Unicorn (FR), Flaming Fox (N) | **yeetimaheadout7**: Chocolate Chip Bat Dragon (NFR) |
+| 12:55 | **piSANKAAAAA**: Catte | **12M060**: Ride-A-Pet Potion |
+| 12:55 | **nastyxx_ww**: Frost Fury (FR), Red Dutch Guinea Pig (R), Tree Kangaroo (R), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion ×5 | **Sunoo56298**: Candicorn (FR) |
+| 12:55 | **amyagirlygamer**: Haetyphoon, Ride-A-Pet Potion ×2 | **tat872**: Candicorn (R) |
+| 12:55 | **Maesxwrlds**: Elf Hat, Aviator Hat, Bat Wings | **NaomiUnicorn25**: Black Chow-Chow ×4, Albino Bat |
+| 12:55 | **aydachan200311**: Aussie Egg ×6 | **jebiilerium**: Cow (FR) |
+| 12:55 | **viviadoptme18**: Christmas Pudding Pup, Shrew, Latte Kitsune | **Raee356**: Border Collie |
+| 12:55 | **MYGR4VYY**: Goose (FR), Candyfloss Chick (FR), Pig (R), Siamese Cat (FR), Rainbow Maker | **honeydew_pancakes101**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
