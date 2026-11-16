@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 22:16 UTC by the scrape workflow._
+_Updated 2026-11-16 22:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 22:16 UTC by the scrape workflow._
 | amvgg | 6 | 45,860 | 2026-11-16T22:15 |
 | elve | 6 | 9,951 | 2026-11-16T22:16 |
 
-## AMVGG completed trades: 25,837 total
+## AMVGG completed trades: 25,857 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,762 |
+| 2026-11-16 | 3,782 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 22:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:15 | **rip_kazukieeeee**: Haetyphoon (MFR) | **thesuperkid0**: Frost Dragon (FR) |
-| 22:15 | **love_cat6242**: Stray Cat Dragon ×4, Bobageist, Jumpscare | **Angela12514**: Stray Cat Dragon (N) |
-| 22:15 | **SyndromGG**: Alicorn (NFR) | **Angela12514**: Fly-A-Pet Potion |
-| 22:15 | **euxiizn**: S'mores Raccoon (MFR), Dango Penguins (N) | **NotSweatyOnion**: Copycat (NFR), White Chef Hat |
-| 22:15 | **Tryingtogetafrican**: Pupcicle (N), Ride-A-Pet Potion, Unicorn, Golden Unicorn | **popadastr000**: Copycat (R) |
-| 22:15 | **Cloud_Lady111**: Caramelgeist (N), Zebra (N), Parakeet (R), Unicorn Ducky (N), Glyptodon Ducky (N), Purrowl ×2, Three Blind Mice, Blue Whale | **pinkysworn**: Ride-A-Pet Potion |
-| 22:15 | **ZeroHASaberZAPrimal1**: Aurora Fox (NFR), Rainbow Maker | **Dora_MS1**: Werewolf (NFR) |
-| 22:15 | **tommylikeroblox2009**: Fairytale Egg ×3 | **loveiIIusion**: Retired Egg ×3 |
-| 22:15 | **Kiritto1415**: Ermine (N) | **Weirdcore_021114**: Ride-A-Pet Potion |
-| 22:15 | **FlyToTheSaturn**: Albino Bat, Shetland Pony White, Sloth, Space Whale, St Bernard, Wooly Rhino, Wyvern (F), Castle Hermit Crab ×4, Hippo, Lynx (R), Monkey (N), Mule, Musk Ox, Reindeer, Borhyaena Gigantica | **Panci_Terbang33**: Fly-A-Pet Potion ×4 |
-| 22:15 | **xx_xxbummrr**: Dragonfruit Fox (MFR), Angel Wings ×2, Unicorn Horn ×2 | **5uspa**: Balloon Unicorn (FR) |
-| 22:15 | **Katya_1922**: Bunny (NR), Glyptodon Ducky (M) | **kkaatEEe2**: Ride-A-Pet Potion |
-| 22:15 | **Mmaxii16**: Ride-A-Pet Potion ×4 | **Lerunhi**: Eel (M) ×2 |
-| 22:15 | **aydachan200311**: Unicorn (NFR) | **7yasmin10**: Ride-A-Pet Potion ×6 |
-| 22:15 | **Ashvr_s0ul9**: Giant Gold Scarab, Red Dutch Guinea Pig, Pineapple Owl, Aestus, Diamond Albatross | **Omar2002548**: Super Saru (MFR) |
+| 22:25 | **pivozkranu**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Ride-A-Pet Potion, Purrowl (R) | **SweetieFoxReaI**: Fairy Bat Dragon (NFR) |
+| 22:25 | **dloxasteq2**: Strawberry Shortcake Bat Dragon, Peppermint Penguin (FR), Strawberry Tortle, Cabbit (R), Fairy Bat Dragon (R), Sugar Glider (FR), Pupcicle (M) ×2, Haetyphoon, Kitty Bat (M) | **ElFanan_Asser**: Frost Dragon (FR) |
+| 22:21 | **mariarita2000**: Solaris, Gemstone Egg ×2 | **hsjsjdidhshissihhe**: Dancing Dragon (R) |
+| 22:21 | **Jean_20354**: Sugar Axolotl (NR) | **gigairia**: Cow (R), Stitches (N) |
+| 22:21 | **emelieisaspaz**: Elephant, Polar Bear (R), Owlbear (R), Candy Hare | **Panci_Terbang33**: Pupcicle (MFR) |
+| 22:21 | **yayajuya**: Siamese Cat (R) | **oldclassyy**: French Bulldog (MFR) |
+| 22:21 | **Furry_lechuga**: Pupcicle ×3 | **Frs_88xx**: Alley Cat |
+| 22:21 | **Adoptmestocks3000**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×3 | **sprinkIyuni**: Santa Hat |
+| 22:21 | **stichedchromee**: Possum (M) | **hxyfhdujvhd**: Bolt (M), Jacobin Pigeon (M), Unicorn, Cotton Candy Hat |
+| 22:21 | **Adoptmestocks3000**: Ride-A-Pet Potion | **taigo77**: Burger Bear |
+| 22:21 | **9vvdx**: Goat (MFR), Pupcicle (MFR), Tarsier (MR) | **greycatgf**: Balloon Unicorn (FR) |
+| 22:21 | **XGiveMeUrFoodX**: Turtle (FR), Kangaroo (NFR), Kangaroo (R), Hot Doggo (R) | **dfyuisdhfyusdavgbyhu**: Cryptid (FR) |
+| 22:21 | **GAV_6066**: Ride-A-Pet Potion ×3 | **FlushedEgg**: Happy Clam |
+| 22:21 | **Razoqz**: Rubber Ducky ×18 | **Onyx_ctr**: Retired Egg ×3 |
+| 22:21 | **Lumina20265**: Fly-A-Pet Potion | **alexgameminecraft**: Flaming Fox |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
