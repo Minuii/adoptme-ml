@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 19:40 UTC by the scrape workflow._
+_Updated 2026-11-16 19:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 19:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 43,149 | 2026-11-16T19:30 |
-| elve | 6 | 9,331 | 2026-11-16T19:31 |
+| amvgg | 6 | 43,379 | 2026-11-16T19:45 |
+| elve | 6 | 9,347 | 2026-11-16T19:45 |
 
-## AMVGG completed trades: 25,275 total
+## AMVGG completed trades: 25,288 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,200 |
+| 2026-11-16 | 3,213 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 19:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:45 | **iiLxy_MoonStxr**: Pig (R) | **sk1azar**: Ride-A-Pet Potion ×9 |
+| 19:45 | **xXxshadowninjaAlexYT**: Copycat (NFR) | **Jocamax10**: Fairy Bat Dragon (FR) |
+| 19:45 | **hihihihihihihahahah2**: Ride-A-Pet Potion ×6 | **docedelets**: Chocolate Dutch Guinea Pig (N) |
+| 19:45 | **kyovd1r**: Raccoon (MR), Alley Cat, Ghost Dog, Silly Duck, Pupcicle ×2, Chihuahua, Cattuccino (M), Shiver Wolf (MR) | **bwunnifection**: Turtle (FR) |
+| 19:45 | **xTheStitchx**: Ride-A-Pet Potion | **murrrsix**: Stray Cat Dragon ×9 |
+| 19:45 | **Blouksii**: Halloween White Skeleton Dog (N), Lynx | **7ckyy**: Chocolate Dutch Guinea Pig |
+| 19:45 | **ThisIsntMyAcc9**: Pig (R), Arctic Dusk Dragon (FR), Jester Dragon, Majestic Pony | **OBDYL011**: Siamese Cat |
+| 19:45 | **kivvsy06**: Rubber Ducky (N), Ms. Muffet (N), Jacobin Pigeon (M), Caramelgeist (N), Ribbon Seal (N), Bolt (N) ×2, Peachick, Orca | **Its1Slipp**: Ride-A-Pet Potion |
+| 19:45 | **vipAlekviap**: Copycat (NFR), Pig (NFR), 2022 Birthday Party Hat, Magic House Door, Rainbow Stroller, Pupcicle ×3, Ride-A-Pet Potion | **grlfri7nd**: Fairy Bat Dragon (NFR) |
+| 19:45 | **Youdi_off**: Cow (FR) ×2 | **beto17521**: Siamese Cat (R), Turtle (FR), Candyfloss Chick (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 19:45 | **knifeandfork_99**: Strawberry Penguin (N) | **NotSweatyOnion**: Flash Weasel ×2 |
+| 19:45 | **NotSweatyOnion**: Pupcicle (MFR), Fly-A-Pet Potion | **Foxy_Bonny28**: Flash Weasel ×2 |
+| 19:45 | **alicex3x3**: Sugar Glider | **XxwizzizxX**: Golden Jaguar (N), Ice Cream Hermit Crab, Moose Calf, Groundhog, Purple Butterfly, Kookaburra, Flaming Fox, Royal Corgi, Hippo (N), Wood Pigeon ×2, Mule ×2, Violet Butterfly |
 | 19:40 | **Polinat72727**: Angus Bull, Billy Goat, Oakee Wizard, Angus Cow | **themudwizard**: Ride-A-Pet Potion |
 | 19:40 | **Polinat72727**: Scarecrow Crow, Quetzalcoatl, Skelicorn, Granny Wolf ×4, Shih Tzu | **themudwizard**: Ride-A-Pet Potion |
-| 19:40 | **princess_pizzanice**: Kangaroo (R) | **Nastik_My520**: Crocodile (R), Frost Fury (R), Tutu |
-| 19:40 | **MrJeefrys**: Balloon Unicorn (FR), Orchid Butterfly, Arctic Dusk Dragon (NFR), Turtle (NFR) | **ritvarsburevicss**: Frost Dragon (FR), Sheeeeep (NFR), Ride-A-Pet Potion ×2 |
-| 19:40 | **LVNA_XVZ**: Ghost (MR), River Otter (M), Toasty Red Panda ×2 | **hharrietq**: Fly-A-Pet Potion ×2 |
-| 19:40 | **Sofi02575**: Leopard Shark (MFR), Corn Doggo (MFR), Dango Penguins (MFR), Spring Bunny Hood | **IidoxxiniI**: Goat (MFR) |
-| 19:40 | **federicospzgamesyt**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (NFR), Siamese Cat (FR), Cow (FR), Goose (FR), Pig (NFR), Coconut Friend (N), 2D Doggy | **rhubararian**: Owl (FR) |
-| 19:40 | **ellieisfunandyournot**: Brown Bear (NFR), Ice Cream Hermit Crab (N) | **lyingsaints**: 2022 Birthday Party Hat |
-| 19:40 | **UnUcreepy**: Goose (R) | **xxNegarr**: Cabbit (FR), Fly-A-Pet Potion ×2 |
-| 19:40 | **doksha12345**: Tortoiseshell Guinea Pig (FR), Ride-A-Pet Potion | **cari_heart**: Reindeer (MFR) |
-| 19:40 | **14x667**: Shadow Dragon Animated Sticker | **DuccNuclear**: Mighty Haetyphoon Animated Sticker |
-| 19:40 | **Bruh_raciiuz**: Ride-A-Pet Potion, St Bernard | **warpiir**: St Bernard (N) |
-| 19:40 | **xxNegarr**: Hare (MR), Border Collie | **Kvvaczucha**: Border Collie (NFR), Hare (N) |
-| 19:40 | **cheeskake13**: 2022 Birthday Party Horn | **Noahisthebestaltx**: Kitty Bat (MFR) |
-| 19:40 | **Potatolover123yay**: Amami Rabbit (MFR), Chocolate Dutch Guinea Pig (N) | **ItzAina_JPN**: Copycat ×2, Giant Black Scarab (M), Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
