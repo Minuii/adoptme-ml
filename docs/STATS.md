@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 20:16 UTC by the scrape workflow._
+_Updated 2026-11-16 20:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 20:16 UTC by the scrape workflow._
 | amvgg | 6 | 43,889 | 2026-11-16T20:15 |
 | elve | 6 | 9,496 | 2026-11-16T20:16 |
 
-## AMVGG completed trades: 25,386 total
+## AMVGG completed trades: 25,408 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,311 |
+| 2026-11-16 | 3,333 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 20:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:15 | **w1w1w_1010**: Zombie Wolf ×2 | **ikabackflip**: Fly-A-Pet Potion |
-| 20:15 | **L1zl1n_l1zer**: Crow (FR), Toasty Red Panda (MR) | **kendrito_garcia**: Giant Panda (FR) |
-| 20:15 | **don2p**: Pupcicle (MFR), Gingerbread Reindeer (MR), Albino Bat (MFR) | **bhjrjei**: Munchkin Cat (NFR) |
-| 20:15 | **XiaoFaye1433**: Parrot (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **iixuml**: Glacier Moth (MFR), Alpaca (NFR) |
-| 20:15 | **brunokingmas**: Parrot (FR), Cow (FR), Mini Pig (FR) | **Alana2K201**: Border Collie (MFR) |
-| 20:15 | **Kiw1i_kiwi**: Kangaroo (FR), Ride-A-Pet Potion ×2 | **lovewqnted**: Unicorn Horn |
-| 20:15 | **gggpppgggppp1**: Pet Handler Pro Certificate | **7memorys**: Pupcake (N) |
-| 20:15 | **Agnes_Tachyon20077**: Rainbow Stroller | **EmX_zzz**: Diamond Ladybug (R) |
-| 20:15 | **Dihamaster67**: Field Mouse, Chihuahua | **vikavrach**: Copycat |
-| 20:11 | **yougurtdefresa13**: Ride-A-Pet Potion ×2 | **Ilove_Yuqi38**: Count Slothula ×3 |
-| 20:11 | **narcicil654**: Ride-A-Pet Potion ×2 | **roblox_wert34**: Dragonfruit Fox |
-| 20:11 | **Lillyistdiebesteamq**: Gemstone Egg ×3 | **realmp10007**: Ride-A-Pet Potion |
-| 20:11 | **0nly_D3ftt**: Goose (FR), Border Collie (FR), Fly-A-Pet Potion | **Sonic4567902**: Diamond Butterfly (FR) |
-| 20:11 | **puuuurrrraaawww**: Ride-A-Pet Potion | **Bad_WolfSchnee6**: Amethyst Skies Mega Neon Paint ×2 |
-| 20:11 | **Galaxywolfie72**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Accusxed**: Stray Cat Dragon (MR) |
+| 20:25 | **stasplay9074**: Fly-A-Pet Potion | **Kuro_Blacks**: Ride-A-Pet Potion ×2 |
+| 20:25 | **Car_nose**: Choco Penguin (N) | **Bow_trader**: Festive Antlers, RGB UFO |
+| 20:25 | **Adoptmestocks3000**: Candicorn (R) | **werlianess**: Fly-A-Pet Potion ×2, Koala (NFR), Snow Monkey ×2, Ride-A-Pet Potion ×6 |
+| 20:25 | **Adoptmestocks3000**: Head Chef | **Reedeemed**: Ride-A-Pet Potion ×5 |
+| 20:25 | **rowletgamig**: Bat Dragon (FR) | **Snoxs545**: Shadow Dragon (FR), Fairy Bat Dragon (MFR), Peppermint Penguin (FR) |
+| 20:25 | **baby_brooke2007ban**: Catte | **Ojitobonito2017**: Ride-A-Pet Potion |
+| 20:25 | **TwistedK1tty**: Hedgehog (NFR), Crow (FR), African Wild Dog (FR), Turtle (FR), Cerberus (NFR), Ride-A-Pet Potion | **PlacentaPrincesss**: Shadow Dragon (FR) |
+| 20:25 | **inicio1994**: Copycat (R), Spring Bunny Hood | **Anoni_541**: Munchkin Cat (R) |
+| 20:25 | **Z_Alexis22**: Cow (FR) | **hijodefrutaXdd9**: Fly-A-Pet Potion ×15 |
+| 20:25 | **ruinedbleeded**: Fly-A-Pet Potion | **mariaomg_roblox25**: Pet Handler Pro Certificate |
+| 20:25 | **detective_emilly**: Cuddly Candle (R) | **Leo_diarioo71**: Ride-A-Pet Potion |
+| 20:21 | **zmline**: Cryptid (MFR), Strawberry Shortcake Bat Dragon (MFR), Glacier Kitsune (MFR), Glacier Moth (MFR) ×3 | **Cinzsins**: Balloon Unicorn (MFR) |
+| 20:21 | **dannysniche**: Alpaca (MFR), Mini Pig (MFR) | **dollfaceangie**: Shadow Dragon (FR), Parrot (FR), Sugar Glider |
+| 20:21 | **imagineraging101**: Owl (FR), Shiver Wolf (MR), Ride-A-Pet Potion ×2 | **HelloNoDm**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (NFR) |
+| 20:21 | **privetiloxev**: Golden Dragon (R), Onza, Albatross, Black-Footed Ferret, Icy Porcupine, Orca, Pink Betta Fish, Peregrine Falcon | **itsvaleriaotz**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
