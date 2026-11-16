@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 14:13 UTC by the scrape workflow._
+_Updated 2026-11-16 14:22 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 14:13 UTC by the scrape workflow._
 | amvgg | 6 | 37,803 | 2026-11-16T14:12 |
 | elve | 6 | 8,041 | 2026-11-16T14:13 |
 
-## AMVGG completed trades: 24,083 total
+## AMVGG completed trades: 24,107 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,008 |
+| 2026-11-16 | 2,032 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 14:13 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:11 | **kreker0900**: Pupcicle (MR) | **cute_bunny123456p**: Pupcicle ×16, Ride-A-Pet Potion, Burger Boots |
-| 14:11 | **Zoomek62**: Skelicorn (N) ×2 | **Hey_Dant123**: Ride-A-Pet Potion |
-| 14:11 | **shocoleh**: Copycat (NR), Ride-A-Pet Potion | **leftmyhoodie**: Frostbite Bear, Halloween White Ghost Dragon (FR), Sushi Penguin, Spring Bunny Feet |
-| 14:11 | **Tvink_gadzilla**: Ride-A-Pet Potion, Skelicorn (R) | **Andrey_223tr**: Capricorn (FR) |
-| 14:11 | **Lerunhi**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 | **odading12318**: Turtle (FR) |
-| 14:11 | **hello_oliya**: 2022 Birthday Cake, Halo, Harp Seal (N), Bready Necklace | **Angxlliic_0**: Fairy Bat Dragon (FR), Cow (FR) |
-| 14:11 | **AestxStella**: Parrot (F), Crow (FR), Balloon Unicorn (FR), Evil Unicorn (FR) | **juzavast**: Shadow Dragon (FR) |
-| 14:11 | **Stefanie_est**: Glacier Moth | **UltimateLionMantis**: Ride-A-Pet Potion ×4 |
-| 14:11 | **thebossadammm**: Ride-A-Pet Potion ×3, Groundhog, Ram (R) | **squ_evder**: Toaster Hat |
-| 14:11 | **Allyanaph124**: Fly-A-Pet Potion ×11 | **odading12318**: Alpaca (FR) |
-| 14:11 | **GEMYU900**: Narwhal (NR) | **akatsiiii**: Ride-A-Pet Potion |
-| 14:11 | **donnotinteract**: Alley Cat (N) | **iileesxv**: Field Mouse, Ride-A-Pet Potion |
-| 14:11 | **yshikza**: Pet Handler Pro Certificate ×2 | **xboxcute1**: Unicorn Backpack |
-| 14:11 | **yshikza**: Fly-A-Pet Potion ×2 | **xboxcute1**: Unicorn Backpack |
-| 14:11 | **hanb3ki**: Winged Tiger (MFR), Evil Unicorn (NFR), Strawberry Shortcake Bat Dragon (R), Turtle (FR) | **Kiandra13kiandra**: Owl (NFR) |
+| 14:22 | **Seancarlosd**: Mini Pig (R), Fly-A-Pet Potion, Amami Rabbit | **renn_123on**: Unicorn Horn, Toaster Hat ×2 |
+| 14:22 | **princess_fiona267**: Pain au Chat (N) | **riskyactss**: Chihuahua, Pain au Chat, Pupcicle |
+| 14:22 | **mommy_vka123**: Goose (R), Ride-A-Pet Potion | **Sharkie0020**: Munchkin Cat (FR) ×2, Munchkin Cat (R), Fly-A-Pet Potion |
+| 14:22 | **Youdi_off**: Pet Handler Pro Certificate ×3 | **KFC_C0nya**: Frost Fury (FR) |
+| 14:22 | **mimikokittyy**: Shark Puppy (MFR), Unicorn Horn ×3, Border Collie (R), 2022 Birthday Party Horn, Sea Slug (R), Shark Puppy, Tiny Wings, Hare (FR), Spring Bunny Feet, German Shepherd, Chocolate Chip Bat Dragon Backpack, Harp Seal | **Siraj6118**: Frost Dragon (FR) |
+| 14:22 | **Klim_mons**: Pupcicle ×4, Officer Gibbon (N), Caramelgeist (N), Thunderfisher (N) | **AmberEatsChocolate**: Pupcicle (N) |
+| 14:22 | **yeobviiiii**: Mini Pig (R), Candicorn (MFR) | **14pawz**: Parrot (FR) |
+| 14:22 | **alexandmartinareg**: 2022 Birthday Cake | **toxic_nona**: Siamese Cat, Fly-A-Pet Potion, Eaten Donut, Leaf Hat |
+| 14:22 | **juegosyutube63**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2, Cupid Dragon (R) | **odading12318**: Mini Pig (FR) |
+| 14:22 | **ARKIN_gamingChannel1**: Frostbite Bear (R) | **J7alexander2**: Turtle (FR) |
+| 14:22 | **whoareyou12479**: Balloon Unicorn (FR), Alpaca (R) | **ii_aldrin20**: Parrot (FR) |
+| 14:22 | **Bubbly_MeMes**: Peppermint Penguin (FR), Dango Penguins | **Finjinn385**: Goose (FR) |
+| 14:22 | **me_Vlada798**: Candyfloss Chick (R), Arctic Fox (FR), Christmas Pudding Pup, Pupcicle, Burger Bear | **lQw0kss**: Cow (FR) |
+| 14:22 | **rainthatxx**: Balloon Unicorn (MFR), Chocolate Chip Bat Dragon (MFR), Sugar Glider (MFR), Peppermint Penguin (MFR), Mini Pig (MFR), Haetae (MFR), Giraffe (FR), Haetae (FR), Balloon Unicorn (FR) | **Celeste884**: Bat Dragon (MFR) |
+| 14:22 | **Len_2212**: Flamingo (FR), Ride-A-Pet Potion ×11 | **sofia_love121213**: Cabbit (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
