@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 12:16 UTC by the scrape workflow._
+_Updated 2026-11-16 12:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 12:16 UTC by the scrape workflow._
 | amvgg | 6 | 36,150 | 2026-11-16T12:15 |
 | elve | 6 | 7,719 | 2026-11-16T12:16 |
 
-## AMVGG completed trades: 23,727 total
+## AMVGG completed trades: 23,732 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,652 |
+| 2026-11-16 | 1,657 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,11 @@ _Updated 2026-11-16 12:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:25 | **xumeiz**: Stray Cat Dragon ×2 | **XxSummerxX_0123**: Cattuccino ×2, Jumpscare, Angus Cow |
+| 12:25 | **gabdoptme**: Chocolate Dutch Guinea Pig | **Ral1t0**: White Choccybunny (MR) |
+| 12:25 | **viellynnnn**: Chocolate Chip Bat Dragon (FR), Alicorn | **Dirbxmm2**: Pretty Pony (MR), Dragonfruit Fox (NR), Candyfloss Chick (R), Candicorn (R), Fly-A-Pet Potion |
+| 12:25 | **Dirbxmm2**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2 | **MHE_noXyN78**: Candicorn |
+| 12:25 | **Wolchok8**: Ride-A-Pet Potion ×8 | **iaMatthieu1**: Pig |
 | 12:15 | **gTheGamerProYTg**: Kangaroo (R) | **usernamemeeemr**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×2 |
 | 12:15 | **Z0mb1e_R1ot**: Velvet Fuchsia Mega Neon Paint, Strawberry Clip | **cherry_blast2**: Blue Boohoo Mega Neon Paint |
 | 12:15 | **denis_radinskil**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **Kaito_Hunter130**: Pig (R) |
@@ -41,11 +46,6 @@ _Updated 2026-11-16 12:16 UTC by the scrape workflow._
 | 12:15 | **URSET_ROM4IK997**: Aussie Egg | **VladislavKynazeva**: Ride-A-Pet Potion ×5 |
 | 12:15 | **lianaunicorn14**: Munchkin Cat, Copycat, Dragonfruit Fox | **fayesweet13**: Unicorn Horn |
 | 12:15 | **itsmyalt_heh**: Ride-A-Pet Potion ×7, Harp Seal (R) | **RISHSARAWWW**: Munchkin Cat |
-| 12:15 | **Yomi040605**: Bat Dragon (FR) ×2, Giraffe (FR), Frost Dragon (FR), Turtle (R) | **TANSKlN**: Giant Panda (MFR) |
-| 12:15 | **amyzondelivery**: Turtle (FR), Crocodile (R) | **Sharpie_pies**: Cow (FR), Sushi Penguin ×2 |
-| 12:15 | **Lila_Chanbibi**: Alley Cat (MFR) | **MacarronCheese**: Strawberry Tortle (FR), Unicorn Horn |
-| 12:15 | **shinobu02119**: Princess Mare (N), Sea Angel (N), Cat (NR) | **moon7780913**: Ride-A-Pet Potion |
-| 12:15 | **moon7780913**: Ride-A-Pet Potion | **siti_Qalesy**: Slimingo (R) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
