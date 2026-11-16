@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 17:11 UTC by the scrape workflow._
+_Updated 2026-11-16 17:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 17:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 40,664 | 2026-11-16T17:00 |
-| elve | 6 | 8,745 | 2026-11-16T17:01 |
+| amvgg | 6 | 40,918 | 2026-11-16T17:15 |
+| elve | 6 | 8,817 | 2026-11-16T17:16 |
 
-## AMVGG completed trades: 24,719 total
+## AMVGG completed trades: 24,737 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,644 |
+| 2026-11-16 | 2,662 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 17:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:11 | **Moon_Cloud609859**: Cow (FR), Fly-A-Pet Potion, Chef Hat | **getsdar**: Kangaroo (FR) ×2 |
-| 17:11 | **Brok3n_Clocks**: Evil Unicorn (R) | **oVaIentine**: Hedgehog (FR), Fly-A-Pet Potion |
-| 17:11 | **r3settb**: Granny Wolf (N), Ms. Muffet (N), Poodle (N), Mouse (N), Kiwi Kiwi, Budgie Witch, Gold Mahi Mahi, Diamond Mahi Mahi, Thunderfisher | **valentinaemmz**: Ride-A-Pet Potion |
-| 17:11 | **lona262**: Ice Cream Cone Hat | **masterofsponges**: Copycat |
-| 17:11 | **meyok_56**: River Otter ×2 | **Kir4kaaa**: Mrs. Whiskerpips |
-| 17:11 | **Pou_8639**: Panda | **Kir4kaaa**: Pupcicle |
-| 17:11 | **xxxg_h0stxxX**: Crow (FR), Tuxedo Cat (N), Catte ×4, Cattuccino ×4 | **MistyRainshine**: Cryptid (FR) |
-| 17:11 | **Mnenormalno_0**: Drake (NR) | **RENZSOMERA**: Fly-A-Pet Potion ×2 |
-| 17:11 | **SUPERPENGUIN0111**: Tealwood Monster (M) | **Bikunom**: Ride-A-Pet Potion ×2 |
-| 17:11 | **RBstela**: Flower Power Duckling, Pine Marten, Pink Betta Fish, Ringmaster Gibbon, Cattuccino, DJ Snooze, Dilophosaurus, Dotted Eggy, Ghost Wolf ×3, Love Bird, Narwhal ×2 | **alexicupcake7**: Fly-A-Pet Potion |
-| 17:11 | **kakashk2335**: Fly-A-Pet Potion | **SUPERPENGUIN0111**: Stray Cat Dragon (M) |
-| 17:11 | **denis_radinskil**: Copycat, Chihuahua | **Eldrian06**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
-| 17:11 | **KristiFedyaeva**: Shadow Dragon (FR), Giant Panda (FR), Siamese Cat (FR), Giant Anteater (FR), Ride-A-Pet Potion, Fly-A-Pet Potion, Strawberry Shortcake Bat Dragon Backpack | **Dovakhiin1205**: Giraffe (NFR) |
-| 17:11 | **Glizzyvvs_0**: Kiwi Kiwi, Sloth | **Alycialolpop1**: Ride-A-Pet Potion |
-| 17:11 | **Fourcast008**: Glormy Leo (MFR), Diamond Ladybug (MFR), Golden Penguin (MFR) | **roblox_user_8676283275**: Strawberry Penguin (MFR) |
+| 17:15 | **annpelzer_spamzzzzzz**: Pupcicle ×18 | **robloxlove0399**: Flamingo |
+| 17:15 | **you35o**: Strawberry Shortcake Bat Dragon (NFR), Goose (FR), Cake Friend (MR), Maine Coon (MR) | **Fel1xx_qi**: Hedgehog (FR) ×2 |
+| 17:15 | **Zeus_9201**: Sugar Glider (FR), Pig (FR) | **lzxsre**: Cow (FR), Fly-A-Pet Potion |
+| 17:15 | **hrt_s0ulz**: Cow (FR), Pet Handler Pro Certificate, Happy Duckling | **reysabrita**: Undead Jousting Horse (FR) |
+| 17:15 | **Agyra11**: Owlbear (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×12 | **getsdar**: Turtle (FR) |
+| 17:15 | **carolzinhac2009**: 2022 Birthday Cake | **kandycat1990**: Kangaroo (FR) |
+| 17:15 | **Lila_Chanbibi**: Candyfloss Chick (FR), Fly-A-Pet Potion | **botoxedbody**: Siamese Cat (FR) |
+| 17:15 | **luxsdomain**: African Wild Dog (FR), Cryptid (FR), Jekyll Hydra (FR), Strawberry Tortle | **papalla007xd**: Owl (FR), Evil Unicorn (FR), Pupcicle |
+| 17:15 | **booluqx**: Fly-A-Pet Potion ×17 | **hijodefrutaXdd9**: Cow (FR) |
+| 17:15 | **SlowManufacturer4061**: Fairytale Egg ×2 | **obv1fp**: Paint Sealer |
+| 17:15 | **KyCT_AltAcc**: Copycat (N), Christmas Pudding Pup (NR), Candyfloss Chick (FR), Border Collie (R), Munchkin Cat (R), Jester Dragon (R), Ride-A-Pet Potion ×3 | **IRoblox_Qoeen**: Christmas Pudding Pup (MFR) |
+| 17:15 | **maliftu**: Turtle (FR) | **igladkov**: Alpaca, Fly-A-Pet Potion ×2 |
+| 17:15 | **Croquinou_Lover**: Sugar Glider, Turtle (R), Munchkin Cat (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **mommy_vka123**: Chocolate Chip Bat Dragon (FR) |
+| 17:15 | **kakashk2335**: Purrowl ×2, Stray Cat Dragon, Diamond Mahi Mahi, Glormy Dolphin, Golden Egg, Budgie Witch (N), Ocelot (N), Mouse (N) | **ArtemSer2008**: Ride-A-Pet Potion |
+| 17:15 | **MYB505**: Shrew (MFR), Majestic Pony (MFR), Ice Cream Cone Hat, Reindeer (MFR), Ibex (M), Rain Hat | **cari_heart**: Giant Panda (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
