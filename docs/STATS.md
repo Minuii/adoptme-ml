@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 21:40 UTC by the scrape workflow._
+_Updated 2026-11-16 21:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 21:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 45,125 | 2026-11-16T21:30 |
-| elve | 6 | 9,807 | 2026-11-16T21:31 |
+| amvgg | 6 | 45,363 | 2026-11-16T21:45 |
+| elve | 6 | 9,818 | 2026-11-16T21:45 |
 
-## AMVGG completed trades: 25,697 total
+## AMVGG completed trades: 25,718 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,622 |
+| 2026-11-16 | 3,643 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 21:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:36 | **crisfarug**: Turtle (FR), Ride-A-Pet Potion | **dmitrylox0**: Frostbite Bear (FR) |
-| 21:36 | **Ellaplayz91206**: Blazing Lion (FR), Shark Puppy (NFR), Fairy Bat Dragon (R) | **SAnnloi**: Dalmatian (NFR) |
-| 21:36 | **ProSpark251**: Pain au Chat (M) | **AutoTradeCommission**: Ride-A-Pet Potion ×8 |
-| 21:36 | **ZafiY_hay**: Crocodile, Fly-A-Pet Potion ×2 | **kasdfoolo**: Border Collie (FR) |
-| 21:36 | **pigizak**: Ice Wolf (MFR), Kookaburra (MFR), Albino Gorilla (MFR), Glormy Hound (MFR), Diamond Hamster (MFR), Chocolate Dutch Guinea Pig (MFR) | **Ashvr_s0ul9**: White Sand Dollar (MFR), French Bulldog (MFR), English Sheepdog (MFR), Dodo (MFR), Leopard Shark (MFR), Golden Chow-Chow (MFR), Gaelic Fae (MFR), Llama (MFR), German Shepherd (M) |
-| 21:36 | **VictoryDW1LOL17**: Kangaroo (FR) | **YTstaro**: Werewolf (FR) |
-| 21:36 | **Maelleblush**: Ant (M), Jumpscare (M), Jacobin Pigeon (M) | **Waq1uxx**: Ride-A-Pet Potion |
-| 21:36 | **Exactoshark**: Caterpillar, Urban Egg, Ice Moth Dragon, Cozy Mistletroll | **knifeandfork_99**: Caterpillar (FR) |
-| 21:36 | **Gmyiluv**: Unicorn Horn | **deadpo0l293**: Red Dutch Guinea Pig (NF), Latte Kitsune, Pet Handler Pro Certificate |
-| 21:36 | **liza_sigma666**: Lion Cub (R), Candicorn (FR), Bobageist (M) | **Imoi716**: Sugar Glider (R), Berry Cool Cube (R) |
-| 21:36 | **noelleroan234**: Chocolate Chip Bat Dragon (MFR), Border Collie (MFR), Winged Tiger (MFR), Black Tiger (M) | **ciafetti**: Cryptid (MFR) |
-| 21:36 | **sneganii**: Fairy Bat Dragon (FR), Pig (R), Kitty Bat (MFR), Koala (MFR), Fly-A-Pet Potion, Snow Monkey | **trvpstxarz**: Rainbow Maker |
-| 21:36 | **Minimalama0**: Matcha Cat | **1hnfx**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 21:36 | **lowerbunny**: Ride-A-Pet Potion | **gfffgt76**: 2D Doggy |
-| 21:36 | **omarisimo1**: Haetyphoon | **angebrochen**: Aestus (N), Jester Dragon, Fly-A-Pet Potion |
+| 21:45 | **Angelbatista_me2**: Strawberry Shortcake Bat Dragon (FR) ×5, Pig (FR) | **roblox_user_8676283275**: Cabbit (MFR) |
+| 21:45 | **XxLAPOCHKAxX6**: Gemstone Egg, Cattuccino, Bubblegeist, Diamond Mahi Mahi, Three Blind Mice, Caramelgeist (N) | **kellywxx0**: Ride-A-Pet Potion |
+| 21:45 | **FlyToTheSaturn**: Millionaire Mansion | **ZAIDAX0611**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 21:45 | **hihellohihello6788**: Cabbit (FR), Elephant (FR) | **ambervgils**: Musk Ox (MFR), Chicken (MFR), Platypus (R) |
+| 21:45 | **Sssilivia**: Munchkin Cat (MFR), Turtle (R), Lion, Pig | **Kzzzyx**: Siamese Cat (MFR) |
+| 21:45 | **Troy4thaltforsteal**: Yeti (MFR) | **milanakim12**: Kangaroo (FR) |
+| 21:45 | **NarutoDegenerat**: Fly-A-Pet Potion ×4, Rosy Maple Moth | **jhehugy3te**: Pink Cat (FR) |
+| 21:45 | **arttupppa**: Owl (FR), African Wild Dog (FR), Arctic Reindeer (FR), Diamond Butterfly (FR), Copycat (NR), 2022 Birthday Party Horn | **juzavast**: Chocolate Chip Bat Dragon (MFR) |
+| 21:45 | **AndresPatato**: Puma (M), Donkey (M), Muskrat (M) | **Hii_Lovely83**: Ride-A-Pet Potion |
+| 21:45 | **i111kwm**: Arctic Reindeer (FR), Great Pyrenees (MR), Unicorn (NR) | **furunkl99**: Dalmatian (FR) |
+| 21:45 | **0kayGhoul**: Fly-A-Pet Potion | **boom22877gg**: Pet Handler Pro Certificate |
+| 21:45 | **Famixvx**: Shark | **Larisa_DiecooleSocke**: Unicorn |
+| 21:45 | **Leonaptx**: Kitty Bat (MFR), Spring Bunny Hood | **hsjsjdidhshissihhe**: Rose Dragon (NFR) |
+| 21:45 | **Kristiana201010**: Turtle (FR) ×2, Brown Bear (NR) | **Den_826uhwk**: Strawberry Shortcake Bat Dragon (FR) |
+| 21:45 | **xxXchange_Vibe**: Rainbow Maker | **hharrietq**: Strawberry Shortcake Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
