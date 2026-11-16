@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 21:01 UTC by the scrape workflow._
+_Updated 2026-11-16 21:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 21:01 UTC by the scrape workflow._
 | amvgg | 6 | 44,652 | 2026-11-16T21:00 |
 | elve | 6 | 9,683 | 2026-11-16T21:01 |
 
-## AMVGG completed trades: 25,581 total
+## AMVGG completed trades: 25,596 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 3,506 |
+| 2026-11-16 | 3,521 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 21:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:00 | **docedelets**: Red Dutch Guinea Pig | **AnneGamingYT0**: Ride-A-Pet Potion ×3 |
-| 21:00 | **off_reori**: Huntsman Robin, Three Blind Mice, Purrowl ×2, Golden Unicorn, Alicorn, Golden Dragon, Dragonfly | **heladitoooUnU**: Ride-A-Pet Potion |
-| 21:00 | **Katerryrka**: Dalmatian (FR) | **aleks2u**: Turtle (FR), Kangaroo (FR), Cow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 21:00 | **kiff_shik**: Strawberry Shortcake Bat Dragon (FR), Mini Pig (FR), Border Collie (R), Happy Duckling (MR), Ride-A-Pet Potion ×2 | **dsjghljdas**: Haetae (FR) |
-| 21:00 | **Katerryrka**: Haetyphoon (NFR), Flash Weasel (R) | **Tiipawz**: Dalmatian (FR) |
-| 21:00 | **Imabeehehe300**: Sheeeeep (FR) | **XxkfirxbushxX**: Velocirooster (FR) |
-| 21:00 | **Alili2323134**: Leopard Shark (MFR), Swan (MFR), Mule (MFR), Pink Cat (NFR) | **Angelbatista_me2**: Midnight Dragon (MFR) |
-| 21:00 | **dloxasteq2**: Haetyphoon, Haetyphoon (M), Irish Setter | **Kozinak_k**: Frost Dragon (FR) |
-| 21:00 | **CollectorVS12**: Unicorn Horn, Tiny Wings, Aurora Fox (NR), Goat (R), Ride-A-Pet Potion | **lemon_pizza1**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon Backpack |
-| 21:00 | **sweetdollvie**: Pain au Chat (M) | **GameMater112**: Rice Cake Rabbit (M), Stitches (M) |
-| 21:00 | **DeadAnimal_Pancake**: Cabbit (R), Ride-A-Pet Potion | **bajsungen62**: Moon Rabbit (MFR), Ghost (MFR), Toy Poodle (MFR), Hamster (M) |
-| 21:00 | **darr4939**: Ghost Bunny (MR) | **sweetdollvie**: Hare (NR), Pupcake (MFR) |
-| 21:00 | **ShortLeilacom**: Christmas Pudding Pup (MFR), Kangaroo (MFR), Latte Kitsune (MFR), Water Rabbit (MR), Lynx (MFR), Ranger Beaver (MR) | **Kozinak_k**: Haetyphoon (MFR) |
-| 21:00 | **Aimeefrearxx**: Groundhog (NR), Kangaroo (FR), Alley Cat | **4qvssz**: Cow (FR), Harp Seal (NFR) |
-| 21:00 | **FlushedEgg**: Owl (FR), African Wild Dog (FR), Goose (R), Fly-A-Pet Potion, Ride-A-Pet Potion, Pink Cat Ear Headphones | **Assewsslila**: Hot Doggo (MFR) |
+| 21:06 | **docedelets**: Red Dutch Guinea Pig | **Lily_meow0000**: Ride-A-Pet Potion ×3 |
+| 21:06 | **Shion02020**: Sakura Spirit (MFR) | **AdoptMe_Girl5573**: Candicorn (MFR) |
+| 21:06 | **Fredka0100**: Owl (FR), Ride-A-Pet Potion, Pink Cat Ear Headphones | **1mochimiffy**: Owl |
+| 21:06 | **ADOREKAIXO**: 2021 Uplift Butterfly (MFR), Toy Poodle (MFR), Red Squirrel (MFR) | **Cocovunix**: Vanilla Penguin (MFR) |
+| 21:06 | **BirdsAreSmarterThanU**: German Shepherd (MFR), Spring Bunny Feet | **zarmeowz**: Harp Seal (M) |
+| 21:06 | **User017238**: Basic Egg ×9, Retired Egg ×9 | **Kotopies567**: Kitty Biscuit |
+| 21:06 | **Pepper_Puddinn**: Candicorn (MFR) | **mrxic2**: Field Mouse (MFR) |
+| 21:06 | **User017238**: Retired Egg ×18 | **Kotopies567**: Kitty Biscuit |
+| 21:06 | **Hutao_ishere**: Mini Pig (MFR), Mini Pig (NFR), Dango Penguins (MFR) | **Ella116Gisela**: Chocolate Chip Bat Dragon (MFR) |
+| 21:06 | **tra56410**: Sheeeeep (MFR) | **Arilovesyou1232**: Cryptid (FR) |
+| 21:06 | **Adoptmeismyfavgalll**: Munchkin Cat (MR), Tree Kangaroo (MR), French Bulldog (MR), Mini Schnauzer (MR) | **Tandpastatub_e**: Albino Monkey (MFR) |
+| 21:06 | **7yasmin10**: Bat (N), Wolf (N), Mr. Whiskerpips (N) | **wragom_fikk**: Ride-A-Pet Potion ×2 |
+| 21:06 | **aNoNiMkA242**: Matcha Cat, Banana Car, Skelicorn | **mono1976345**: Jester Dragon (R) |
+| 21:06 | **Onlykaij_junior123**: Munchkin Cat (NFR), Boohoo (M), Bubblegeist (N), Dark Choccybunny | **viksksq**: Goose (FR) |
+| 21:06 | **guillemoran**: Giant Anteater (MFR), Phantom Dragon (MFR), Rose Dragon (MFR), Candicorn (MFR) ×2, Platypus (MFR), Jousting Horse (MFR), Halloween White Ghost Dragon (MFR), Vampire Dragon (MFR), Cerberus (MFR) | **popopaabk**: Parrot (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
