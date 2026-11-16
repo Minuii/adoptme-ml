@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 10:01 UTC by the scrape workflow._
+_Updated 2026-11-16 10:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 10:01 UTC by the scrape workflow._
 | amvgg | 6 | 34,098 | 2026-11-16T10:00 |
 | elve | 6 | 7,291 | 2026-11-16T10:01 |
 
-## AMVGG completed trades: 23,347 total
+## AMVGG completed trades: 23,373 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,272 |
+| 2026-11-16 | 1,298 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 10:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:59 | **sxmplycutecorex**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **iangallagher_s1**: Spring Bunny Hood |
-| 09:59 | **Yumalay775**: Fairy Bat Dragon (NFR), Cow (R), Frost Unicorn (FR), Sheeeeep (R) | **KinaToons**: African Wild Dog (FR) |
-| 09:59 | **Anelchik_i**: Momma Moose (M) | **kittnshyy**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 09:55 | **IIzmemories**: Polar Bear (MFR), Happy Clam (MFR), Arctic Dusk Dragon (MFR), Siamese Cat (MR), Candicorn (MFR), Pig (NFR), Black Chow-Chow (N), White Amazon (R) | **j0eymlp**: Strawberry Tortle (MFR) |
-| 09:55 | **franz_1365**: Copycat ×2, Dancing Dragon (FR), Lavender Dragon (FR), Zombie Wolf, Black Springer Spaniel (R), Peahen, Ride-A-Pet Potion | **yeetimaheadout7**: Frostbite Bear |
-| 09:55 | **Alycialolpop1**: Ride-A-Pet Potion | **vlv_var1kiz1488868**: Black Springer Spaniel |
-| 09:55 | **Ffwithyou**: Aurora Fox (R) | **xyza_starsmonica**: Field Mouse |
-| 09:55 | **Umoyaees**: Mermicorn (NFR), Ride-A-Pet Potion | **Iamtuff6735**: Dalmatian |
-| 09:55 | **queenmaya773**: Chocolate Dutch Guinea Pig (M), Fly-A-Pet Potion, Ride-A-Pet Potion, Gaelic Fae (R) | **Tota52Mota**: Goose (R) |
-| 09:49 | **KatsuTatsuya**: Crow (FR), Arctic Reindeer (FR), Cow (FR), Elephant (FR), Halloween Golden Mummy Cat (NR) | **ammadOwO2**: Frost Dragon (FR) |
-| 09:49 | **mambysx**: Pain au Chat, Caramelgeist (N) | **jstforgrindx**: Ribbon Seal (M) |
-| 09:49 | **aleks2u**: Chocolate Chip Bat Dragon (FR), Ice Cream Cone Hat | **notenenALT**: Cow (NFR) |
-| 09:44 | **RamoneTheRamona**: Cow (FR), Cabbit (R), Diamond Egg ×2, Royal Moon Egg, Royal Fairytale Egg | **beearc_c**: Candicorn (NFR) |
-| 09:44 | **whiplashtempo0**: Dragon (M) | **CMETAHKA_LOVE201074**: Mighty Haetyphoon Animated Sticker, Frostbite Bear and Cub Animated Sticker |
-| 09:44 | **xXxdream0**: Dalmatian (FR), Sea Slug (FR), Chocolate Chip Bat Dragon Backpack | **kipoSan0**: Copycat (NFR), Copycat (NR), Copycat (N) |
+| 10:10 | **spojIfed**: Binturong (NR), Dragonfruit Fox (R), Fly-A-Pet Potion | **Slay_queen00074**: Slime (NFR) |
+| 10:10 | **EnverA2006**: Ride-A-Pet Potion, Gemstone Egg | **eva_rokstar0**: Unicorn (R) |
+| 10:10 | **PANDA9994440**: Arctic Dusk Dragon (F), Frost Fury (R), Halloween White Ghost Dragon (R), Ice Golem (FR), Lynx (NR), Fallow Deer | **EnverA2006**: Turtle (FR) |
+| 10:10 | **ChingIingsBtc**: Hedgehog (FR), Ghost Bunny (MFR), Chihuahua (M), Skelicorn (MR), Ride-A-Pet Potion ×2 | **Slay_queen00074**: Christmas Pudding Pup (MFR) |
+| 10:10 | **RobloxIsLif3z**: Ride-A-Pet Potion ×2 | **cowlol898**: Pain au Chat (N) |
+| 10:10 | **akzoad**: Peppermint Penguin (MFR), Ride-A-Pet Potion | **asdshfshs**: Peppermint Penguin (NFR), Peppermint Penguin (FR), Peppermint Penguin (R), Siamese Cat (MFR), Dragonfruit Fox (MFR) ×2, Albino Monkey (FR) |
+| 10:10 | **yawmzn**: Flying Broomstick, Pretty Pony (MFR) | **3undy**: Zombie Buffalo (MFR) |
+| 10:10 | **Inganta07**: Fly-A-Pet Potion | **Itsmehninedemonwolf**: Dango Penguins |
+| 10:10 | **SyndromGG**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 | **zxl0106**: Turtle (FR) |
+| 10:10 | **MAxl0ser107**: Meerkat (FR), Goldhorn (NR), Chick (MFR), Ride-A-Pet Potion ×5, Kitty Biscuit | **JAJAJAN9199**: Siamese Cat (FR) |
+| 10:10 | **uqxiyeol**: Ride-A-Pet Potion | **aabeeyg**: Cherry Blossom Tree Sticker ×9, Cherry Blossom Flower Sticker ×9 |
+| 10:10 | **DalePearson8409**: Jester Dragon (MFR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×12 | **akzoad**: Blazing Lion (FR) |
+| 10:10 | **cute_babess**: Kid Goat (NR) | **036daylan**: Ride-A-Pet Potion |
+| 10:10 | **PANDA9994440**: Rose Dragon (FR), Fallow Deer (R), Ballet Swan, Brown Bear (FR), Reindeer (N), Red Squirrel (NR), Latte Kitsune | **Snip3rjkPrismAkZ3ro1**: Turtle (FR) |
+| 10:10 | **Frdvhev**: Munchkin Cat (MFR) ×2, Husky (MFR), Pig (FR) | **akzoad**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
