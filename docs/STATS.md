@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 17:46 UTC by the scrape workflow._
+_Updated 2026-11-16 17:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 17:46 UTC by the scrape workflow._
 | amvgg | 6 | 41,384 | 2026-11-16T17:45 |
 | elve | 6 | 8,910 | 2026-11-16T17:45 |
 
-## AMVGG completed trades: 24,859 total
+## AMVGG completed trades: 24,896 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,784 |
+| 2026-11-16 | 2,821 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 17:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **ophyns**: Hot Doggo (FR) | **pk_startsnew**: Chocolate Dutch Guinea Pig (M), Chihuahua (M), Alicorn (N) |
-| 17:45 | **Kamila_33309**: Metal Ox, Golden Dragon, Golden Unicorn, Mr. Whiskerpips, Chilling Spider, Angus Calf, Corgi, Bobageist, Bunny ×2, Clumpty, Glyptodon Ducky | **Bot_202l**: Ride-A-Pet Potion |
-| 17:45 | **xXDestroyerCatXx**: Fly-A-Pet Potion | **istory_li**: Unicorn (FR) |
-| 17:45 | **Loboxd0505xd**: Ride-A-Pet Potion ×4, Cerberus, Moon Rabbit, Mr. Whiskerpips | **Cat_dog8517**: Copycat |
-| 17:45 | **Mentosvcxz**: Fly-A-Pet Potion ×2, Pupcicle ×2 | **Cat_dog8517**: Shrew (FR) |
-| 17:45 | **kestrelamvgg**: Ride-A-Pet Potion ×8 | **Cat_dog8517**: Cupid Dragon (FR) |
-| 17:45 | **Astr0_ooo**: Peppermint Penguin (NFR), Shark Puppy | **PillyTHEpanther**: Shark Puppy (MFR) |
-| 17:45 | **yyingryy**: Rainbow Maker, Lamb (FR) | **XxxSachaxxX1**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:45 | **goresgae**: Candicorn (NFR) | **kimh099**: Count Slothula (MFR), S'mores Raccoon (MFR), Nessie (FR) |
-| 17:45 | **chemeque32**: Kangaroo (NFR), Pig (R) | **spojIfed**: Dango Penguins (MFR) |
-| 17:45 | **reysabrita**: Fly-A-Pet Potion, Retired Egg ×6 | **BambooIThink**: Ride-A-Pet Potion ×2 |
-| 17:45 | **iaMatthieu1**: Evil Unicorn (FR), Pirate Ghost Capuchin Monkey | **nao0ya7**: Dalmatian (F), Munchkin Cat (N) |
-| 17:45 | **bunnilini**: Jester Dragon (FR), Rice Cake Rabbit (MFR) | **noob1962963**: Pupcicle ×6 |
-| 17:45 | **3undy**: Balloon Unicorn (FR), Arctic Reindeer (FR) | **Deamh_1**: Sugar Glider (NFR), Arctic Reindeer (FR), Border Collie (R), Cabbit, Siamese Cat (FR) |
-| 17:45 | **jobma228**: Mini Pig | **Ryxnisgoofy3**: Kangaroo (FR) ×2, Chameleon (N), Gemstone Egg |
+| 17:55 | **nsf772**: Cake Friend (R), Kitty Bat (R), Choco Penguin (NR), Sloth (R), Chameleon | **unicornfartzlolzz**: Maine Coon (MR) |
+| 17:55 | **d9intyy**: Gecko (MFR), Fairy Bat Dragon (FR) | **AutoTradeCommission**: Hot Doggo (FR) |
+| 17:55 | **Siggma794**: Ride-A-Pet Potion, Winged Tiger (R) | **keissitojf**: Elephant |
+| 17:55 | **alessgamer25**: Polar Bear (NR), Golden Penguin (FR) | **usingforamvgg44**: Rose Dragon (NFR) |
+| 17:55 | **El1kTT**: Cattuccino (M), Unicorn (NFR), Winged Horse (NFR), Christmas Spirit (MR), Dragonfruit Fox, Toucan (NFR), Angus Calf (M) | **Banquitogamer025**: Kangaroo (FR) |
+| 17:55 | **lilrikki_2**: Polar Bear, Ride-A-Pet Potion ×2, Zombie Chick (N) | **lolppp0vld**: Arctic Dusk Dragon (FR) |
+| 17:55 | **txella_tzuyu**: Spinning Cat Animated Sticker | **Varogh6421**: Toaster Hat, Zombie Wolf, Ride-A-Pet Potion ×2 |
+| 17:55 | **cunlainy**: Siamese Cat (MFR) | **Accusxed**: Mermicorn (NFR), Pig (NFR), Unicorn Horn, Panda (MFR), Ermine (MFR), Ninja Monkey (NFR) |
+| 17:55 | **iaintgettinghacked_0**: Water Moon Bear, Emu ×4, Halloween White Mummy Cat, Weevil, Water Opossum, Sunflower Friend, Shih Tzu, Endangered Egg ×2, Throwback Egg, Royal Egg ×2 | **IsaKatze3001**: Ride-A-Pet Potion |
+| 17:55 | **prezervativkotika**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Siamese Cat, Ride-A-Pet Potion, Burger Boots, Ms. Muffet (M) | **Ella116Gisela**: Balloon Unicorn (FR) |
+| 17:55 | **XX41599**: Pig (FR), Snow Puma (N), Cattuccino | **luvyerh**: Munchkin Cat (R) |
+| 17:55 | **danmantoglory**: Pig | **jakii_030**: Santa Hat |
+| 17:50 | **Maddie_dearest0**: Pupcake, Pupcicle, Pain au Chat, Cake Friend | **sophiaswoof**: Red Dutch Guinea Pig |
+| 17:50 | **siesie09_x**: Gecko (N) | **rose846797**: Pet Handler Pro Certificate |
+| 17:50 | **jayjaytkno**: Haetae (FR), Tiny Wings | **adoptme19396**: Arctic Reindeer (NFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
