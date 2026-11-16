@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-16 16:40 UTC by the scrape workflow._
+_Updated 2026-11-16 16:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 13 | 2026-11-11T1036Z | 2026-11-16T0145Z |
-| amvgg | 32 | 2026-11-11T1036Z | 2026-11-16T1546Z |
+| amvgg | 33 | 2026-11-11T1036Z | 2026-11-16T1645Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 40,185 | 2026-11-16T16:30 |
-| elve | 6 | 8,656 | 2026-11-16T16:31 |
+| amvgg | 6 | 40,426 | 2026-11-16T16:45 |
+| elve | 6 | 8,683 | 2026-11-16T16:45 |
 
-## AMVGG completed trades: 24,619 total
+## AMVGG completed trades: 24,622 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,544 |
+| 2026-11-16 | 2,547 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,9 @@ _Updated 2026-11-16 16:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 16:45 | **ssosena**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **aderogt_0**: Arctic Fox |
+| 16:45 | **caxarok_ponosik52**: Balloon Unicorn (FR), Hare (MFR), Clover Cow (MR) | **raven_rampag**: Border Collie (MFR) |
+| 16:45 | **jayden190614**: Goat (MFR), Shark Puppy (NFR), Cow (FR), Fairy Bat Dragon (FR), Goat (N), Turtle (FR) | **theseller63**: Frost Dragon (FR) |
 | 16:40 | **Musesmia**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **jeIIyouus**: Copycat |
 | 16:40 | **imreaIIIypretty**: Diamond Unicorn (MFR), Vanilla Penguin (NR), Princess Capuchin Monkey (NFR) | **caycay_3800**: Cozy Cabin |
 | 16:40 | **stefkazzz**: Dalmatian (FR), Border Collie (R) | **ii_Edgar123**: Hedgehog (FR) |
@@ -43,9 +46,6 @@ _Updated 2026-11-16 16:40 UTC by the scrape workflow._
 | 16:40 | **DarkLightopq**: Strawberry Shortcake Bat Dragon (FR), Goldfish (MFR) | **xxrosene**: Arctic Reindeer (FR) |
 | 16:40 | **Flashbook6**: Frostbite Bear (M), Copycat (MFR), Unicorn Horn ×2, Fly-A-Pet Potion ×5 | **imraulrawrr**: Giant Anteater (MFR), Haetae (FR), Silverback Gorilla (MFR), Puffin (MFR) |
 | 16:40 | **AmberStarKB**: Arctic Fox (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 16:40 | **minusponda**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (R), Hot Doggo, Chihuahua (NR) | **brrrparaim**: Parrot (FR) |
-| 16:40 | **sus_ogor**: Border Collie (NFR), Christmas Pudding Pup (NR), Kangaroo (FR), Elephant (R), Giant Anteater (R), Copycat (MFR), Christmas Spirit (M), Fallow Deer, Rain Cloud Hat, Spring Bunny Hood, Spring Bunny Nose, Rain Boots, Santa Hat, Unicorn Backpack, Spring Bunny Feet, Pink Heart Glasses, Bready Necklace, Chocolate Chip Bat Dragon Backpack | **leruval**: Frost Dragon (FR) |
-| 16:40 | **XxkfirxbushxX**: Elephant (MFR), Strawberry Shortcake Bat Dragon Backpack | **LovelyGirl23033**: Dragonfruit Fox (MFR), Green Butterfly (MFR), Orange Butterfly (MFR), Burger Bear (MFR), Frostbite Cub (MFR), Binturong (MFR), S'mores Raccoon (MFR), Sushi Penguin (MFR), Highland Cow (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
@@ -67,22 +67,22 @@ _Updated 2026-11-16 16:40 UTC by the scrape workflow._
 | 2026-11-16 01:00 | Latte Kitsune | mega fly ride | 64 | 60 |
 | 2026-11-16 01:00 | Latte Kitsune | neon fly ride | 15 | 14 |
 
-## AMVGG value changes: 7,775 since 2026-06-02
+## AMVGG value changes: 7,806 since 2026-06-02
 
 | When (UTC) | Item | Changes |
 |---|---|---|
-| 2026-11-16 15:42 | Haetae | Neon 2.725 → 2.7, Mega 10.1 → 9.95 |
-| 2026-11-16 15:42 | Orchid Butterfly | Neon 2.525 → 2.5, Mega 10.05 → 9.9 |
-| 2026-11-16 15:41 | Shrew | Regular 0.04 → 0.039, Neon 0.155 → 0.15, Mega 0.62 → 0.6 |
-| 2026-11-16 15:40 | Cupid Dragon | Mega 0.78 → 0.76 |
-| 2026-11-16 15:38 | Pelican | Regular 0.185 → 0.1825, Neon 0.735 → 0.725, Mega 2.94 → 2.9 |
-| 2026-11-16 15:37 | Monkey King | Regular 0.1975 → 0.195, Neon 0.79 → 0.775, Mega 3.16 → 3.1 |
-| 2026-11-16 15:37 | Sugar Glider | Neon 0.49 → 0.4975, Mega 1.94 → 1.97 |
-| 2026-11-16 15:36 | Alpaca | Regular 0.14 → 0.1425, Neon 0.54 → 0.55, Mega 2.14 → 2.18 |
-| 2026-11-16 15:35 | Cabbit | Regular 0.1825 → 0.185 |
-| 2026-11-16 15:34 | Goose | Mega 1.89 → 1.91 |
-| 2026-11-16 15:34 | Cabbit | Neon 0.515 → 0.525, Mega 2.03 → 2.07 |
-| 2026-11-16 15:33 | Candyfloss Chick | Neon 0.435 → 0.445, Mega 1.72 → 1.76 |
-| 2026-11-16 15:32 | Cow | Mega 1.28 → 1.29 |
-| 2026-11-16 15:32 | Diamond Butterfly | Regular 0.35 → 0.34, Neon 1.3 → 1.275, Mega 5.1 → 5 |
-| 2026-11-16 15:29 | Chocolate Chip Bat Dragon | Regular 0.395 → 0.4, Neon 0.97 → 0.98, Mega 3.15 → 3.2 |
+| 2026-11-16 16:30 | Santa Hat | Item 0.0175 → 0.0225 |
+| 2026-11-16 16:28 | Glacier Kitsune | Regular 0.0425 → 0.041, Neon 0.17 → 0.165, Mega 0.68 → 0.66 |
+| 2026-11-16 16:28 | Aurora Fox | Regular 0.0515 → 0.05, Neon 0.2075 → 0.2, Mega 0.83 → 0.8 |
+| 2026-11-16 16:28 | Christmas Pudding Pup | Neon 0.17 → 0.1675, Mega 0.68 → 0.67 |
+| 2026-11-16 16:22 | Husky | Regular 0.0155 → 0.015, Neon 0.0625 → 0.06, Mega 0.25 → 0.24 |
+| 2026-11-16 16:21 | Snow Monkey | Regular 0.0175 → 0.0165, Neon 0.07 → 0.0675, Mega 0.28 → 0.27 |
+| 2026-11-16 16:21 | Arctic Dusk Dragon | Regular 0.0375 → 0.036, Neon 0.1475 → 0.1425, Mega 0.59 → 0.57 |
+| 2026-11-16 16:17 | Cryptid | Regular 0.74 → 0.73 |
+| 2026-11-16 16:16 | Blazing Lion | Regular 0.87 → 0.86, Mega 11.65 → 11.85 |
+| 2026-11-16 16:16 | Giant Panda | Regular 1.05 → 1.04, Neon 3.75 → 3.8, Mega 14.9 → 15.1 |
+| 2026-11-16 16:09 | Bat Dragon | Mega 36.25 → 36.4 |
+| 2026-11-16 16:08 | Arctic Reindeer | Regular 0.44 → 0.445, Neon 0.875 → 0.88 |
+| 2026-11-16 16:07 | Dalmatian | Regular 0.51 → 0.52 |
+| 2026-11-16 16:07 | Hedgehog | Regular 0.595 → 0.605 |
+| 2026-11-16 16:05 | Groundhog | Regular 0.0305 → 0.031, Neon 0.1225 → 0.125, Mega 0.49 → 0.5 |
