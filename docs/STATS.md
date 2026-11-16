@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 07:45 UTC by the scrape workflow._
+_Updated 2026-11-16 07:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 07:45 UTC by the scrape workflow._
 | amvgg | 6 | 32,074 | 2026-11-16T07:45 |
 | elve | 6 | 6,852 | 2026-11-16T07:45 |
 
-## AMVGG completed trades: 23,093 total
+## AMVGG completed trades: 23,110 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,018 |
+| 2026-11-16 | 1,035 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 07:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:45 | **skyeeeeeeeee_999**: Unicorn (NFR) | **Mharkie162**: Ride-A-Pet Potion ×5 |
-| 07:45 | **matejs75**: Munchkin Cat (MFR), Chocolate Chip Bat Dragon, Goose (R) | **Snow_Puma15**: Owl (FR) |
-| 07:45 | **Tryingtogetafrican**: Aestus | **flowerist0w04577**: Pupcicle, Ride-A-Pet Potion |
-| 07:45 | **JAJAJAN9199**: Kangaroo (FR), Fly-A-Pet Potion, Stray Cat Dragon (N), Ride-A-Pet Potion | **getsdar**: Siamese Cat (FR) |
-| 07:45 | **anihao17**: Cow (FR), Turtle (FR), Ride-A-Pet Potion ×4 | **BAJl03**: Strawberry Shortcake Bat Dragon (FR) |
-| 07:45 | **NLin_126**: Moon Rabbit | **eelmstreet**: Ride-A-Pet Potion |
-| 07:45 | **Sugar_Viktoria**: Border Collie (NFR), Border Collie (R), Border Collie, Pet Handler Pro Certificate, Fly-A-Pet Potion, Ride-A-Pet Potion | **Mrs_tomat1**: Shrew (MFR) |
-| 07:45 | **Annsjdnsnjs**: Candyfloss Chick (R), Happy Duckling (N) | **Willow_Misst**: Ring-Tailed Lemur (NFR) |
-| 07:45 | **princess0088123**: Peppermint Penguin (R), Puffer Fish (MFR), Candyfloss Chick (FR), Pancake Stack | **mxrgan66**: Dalmatian (FR) |
-| 07:45 | **UltimateLionMantis**: Ride-A-Pet Potion, Fly-A-Pet Potion | **cc0uture16**: Moonbeam Butterfly (FR) |
-| 07:45 | **KyraPidgorn**: Snow Monkey (R) | **youbesti_01**: Ride-A-Pet Potion ×2 |
-| 07:45 | **flowerist0w04577**: Ride-A-Pet Potion ×2, Pupcicle ×2 | **ANDZELA_201402**: Owlbear |
-| 07:36 | **ExpertChipmunkPro**: Turtle (FR) ×2, Crocodile (R), Ride-A-Pet Potion ×2 | **BAJl03**: Strawberry Shortcake Bat Dragon (FR) |
-| 07:36 | **PuhonaBeri**: Turtle (NFR), Turtle (FR) ×8, Candyfloss Chick (R) | **0XbluehuskyX0**: Frost Dragon (FR) |
-| 07:36 | **Mharkie162**: Unicorn ×4 | **anekalubitnaruto**: Ride-A-Pet Potion ×4 |
+| 07:55 | **EEEEEEEEZEEEEEEZEEEE**: Hedgehog (R), Dalmatian (FR), Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Goose (FR), Goose (R), Cabbit (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **MrrSush**: Frost Dragon (NFR) |
+| 07:55 | **Japvaxx**: Ride-A-Pet Potion ×11 | **IVS102**: Fly-A-Pet Potion ×6 |
+| 07:55 | **napakalatina4**: Ride-A-Pet Potion ×18 | **candyuser2008**: Turtle (FR) |
+| 07:55 | **Bacontop1of100**: Crow (NFR) | **taekkaun**: Cow (FR) ×10 |
+| 07:55 | **Qeendou**: Moose Calf (MFR), Panda (MFR), Snowball Pet (MFR), Peach Owl (MFR), Chocolate Dutch Guinea Pig (MFR) | **fluffyunicorns_932**: Pink Cat (MFR), Chef Gorilla (MFR) |
+| 07:55 | **MOIK0K**: Owlbear (MFR), Moon Rabbit (MFR), French Bulldog (MR) | **amvggalt1**: Turtle (MFR) |
+| 07:55 | **cutykitty0521**: Ride-A-Pet Potion | **muniradypa**: Lobster ×2 |
+| 07:55 | **ohinam**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **Uliana000334**: Lion (FR) |
+| 07:55 | **nornomm**: Strawberry Shortcake Bat Dragon (NFR), 2022 Birthday Party Hat | **Nika_Roblox16stars**: Chocolate Chip Bat Dragon (NFR) |
+| 07:55 | **galitaleti**: Jester Dragon (NR), Jester Dragon, Tri-horned Treehopper | **SannaMoodySunny1**: Peppermint Penguin (R) |
+| 07:55 | **Itz_Daria303UvU**: Moonpine (MR) | **PIOWHITE2424**: Fly-A-Pet Potion |
+| 07:55 | **robloxiana_79943**: Pupcicle (N), Ride-A-Pet Potion ×2 | **mgz158**: Copycat |
+| 07:55 | **Lydiaemily12**: Cow (NFR), Candicorn (NFR) | **Lx_mo0n**: Hedgehog (FR) |
+| 07:55 | **HE4RTZK**: Arctic Reindeer (FR) | **AMYSV1B3X0**: Strawberry Shortcake Bat Dragon (FR), Snowball Pug (M), Dire Wolf (M), Reindeer |
+| 07:55 | **RealVeronnisaa**: Shark Puppy (NFR) | **Amvggtr4d3s**: Flaming Fox (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
