@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 02:11 UTC by the scrape workflow._
+_Updated 2026-11-16 02:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 02:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 26,730 | 2026-11-16T02:00 |
-| elve | 6 | 5,747 | 2026-11-16T02:01 |
+| amvgg | 6 | 26,989 | 2026-11-16T02:15 |
+| elve | 6 | 5,817 | 2026-11-16T02:16 |
 
-## AMVGG completed trades: 22,425 total
+## AMVGG completed trades: 22,438 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 350 |
+| 2026-11-16 | 363 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 02:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:15 | **yaiols**: Border Collie (NFR), Caelum Cervi (NFR) | **JEROMENPI_1**: Owlbear (MFR) |
+| 02:15 | **danyypizza121**: Ride-A-Pet Potion ×6 | **sedamanga212**: Harp Seal (NFR) |
+| 02:15 | **4qvssz**: Ring-Tailed Lemur (MFR), Chef Gorilla (MFR), Diamond Amazon (N), Giant Gold Scarab (NR), Turtle (FR) | **LeonardBass28273**: Strawberry Tortle (N), Kookaburra (MFR) |
+| 02:15 | **coldgoodbyes**: Shrew (MFR), Polar Bear (MFR), 2022 Birthday Confetti Cannon, Fly-A-Pet Potion ×3 | **kvxqix**: Albino Monkey (MFR) |
+| 02:15 | **012e0122**: Albino Monkey (NFR) | **luxsdomain**: Crocodile (NFR), Wild Boar (N), Ride-A-Pet Potion |
+| 02:15 | **5ek20o**: Ride-A-Pet Potion ×11, Fly-A-Pet Potion, Subzero Popsicle Bait | **Callebbuchila**: Pupcicle ×13 |
+| 02:15 | **AmorxAeternus**: Badger (N), Onza, Sloth (FR) | **NotCookie810**: Scarebear |
+| 02:15 | **usernamemeeemr**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×2 | **carlkilling**: Strawberry Tortle (R) |
+| 02:15 | **mati08proo**: Bat Dragon ×2, Strawberry Tortle (NFR), Dango Penguins (MFR), Dango Penguins (NR), Cow, Zombie Wolf (MFR), Ride-A-Pet Potion ×2 | **lanaisdelrey**: Bat Dragon (NFR) |
+| 02:15 | **00099hh1**: Arctic Reindeer (FR) | **TANSKlN**: Cow (FR) ×2 |
+| 02:15 | **BAJl03**: Cow (FR) | **TwistedK1tty**: Pet Handler Pro Certificate ×9, Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×3 |
+| 02:15 | **xyna68**: 2022 Birthday Party Hat, Cupid Dragon | **JJK00864**: Unicorn Horn, Tiny Wings |
+| 02:15 | **romoko_00**: Giant Panda (FR) | **fedsmade**: Candicorn (NFR), Rainbow Maker, Munchkin Cat (R), Matcha Cat (R) ×2, Spring Bunny Hood, Copycat (N) |
 | 02:06 | **lavamanos88**: Turtle | **leoncitoUwU12345**: Frost Fury (FR) ×4 |
 | 02:06 | **angelesintheclouds**: Unicorn (MFR) | **Webelive_you**: Rain Cloud Hat |
-| 02:06 | **W4NNACRYY654**: Kangaroo (FR) ×4, Ice Golem (NFR), Crocodile, Snow Leopard (M) | **amyggvaI**: Evil Unicorn (FR) |
-| 02:06 | **milkwars**: Dalmatian (MFR), Ballet Swan | **Shadx_1553**: Shadow Dragon (FR), Balloon Unicorn (FR) |
-| 02:06 | **Rosalita4850**: Ice Golem (FR) | **Corasils**: Ride-A-Pet Potion ×3 |
-| 02:06 | **REALjaylarp**: Paint Sealer ×14 | **FtZuudd**: Ride-A-Pet Potion |
-| 02:06 | **ellielielielieee**: Pancake Stack, Spring Bunny Nose | **xXNorthenlightX**: Spring Bunny Hood |
-| 02:06 | **personalcards**: Peppermint Penguin (NFR), Many Mackerel (MFR), Latte Kitsune (MFR), Siamese Cat (N), Glormy Hound (MR), Cow (R), 2022 Birthday Cake, 2022 Birthday Party Hat, Harp Seal (MFR), Rain Cloud Hat | **kaibodydump**: Glacier Kitsune (MFR), Caterpillar (R), Munchkin Cat (MR), Field Mouse, Winged Tiger (MFR) |
-| 02:06 | **Xxxxashhhh**: Ride-A-Pet Potion, Pet Handler Pro Certificate ×3 | **Terranese**: Phantom Dragon (R) |
-| 02:06 | **luxsdomain**: Many Mackerel | **Xxxxashhhh**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 02:06 | **Culimundimulo**: Latte Kitsune (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×2 |
-| 02:06 | **DEV4STATINGLY**: Pupcicle ×10 | **sssouleatr**: 2022 Birthday Cupcake Shoes |
-| 02:06 | **3kEmo**: Evil Unicorn (FR) ×2, Parrot (R), Tortuga de la Isla (MFR), Fairy Bat Dragon (FR) ×2, Cabbit (FR), Lion (R), Lion (FR) | **sarahtalksstuff**: Shadow Dragon (FR) |
-| 02:06 | **DoughnutDucks**: Hedgehog (FR), Glacier Kitsune (NR), Phantom Dragon (R), Lion Cub, Flower Power Duckling (N) | **otonite7**: Shark Puppy (MFR) |
-| 02:06 | **halovipe**: Parrot (NFR), Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Goose (FR), Munchkin Cat (NR), Peppermint Penguin (R), Swan (NFR), Ride-A-Pet Potion ×8 | **jAnebols**: Shadow Dragon (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
