@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 15:25 UTC by the scrape workflow._
+_Updated 2026-11-16 15:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 15:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 38,983 | 2026-11-16T15:15 |
-| elve | 6 | 8,354 | 2026-11-16T15:16 |
+| amvgg | 6 | 39,198 | 2026-11-16T15:30 |
+| elve | 6 | 8,429 | 2026-11-16T15:31 |
 
-## AMVGG completed trades: 24,324 total
+## AMVGG completed trades: 24,345 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,249 |
+| 2026-11-16 | 2,270 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 15:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:25 | **Len_8691**: Pet Handler Pro Certificate | **Santi123_XDPro**: Ride-A-Pet Potion ×2 |
-| 15:25 | **silvannah122**: Stray Cat Dragon ×18 | **cinnamqndol**: Ride-A-Pet Potion ×2 |
-| 15:25 | **LunaPlaysYOO**: Ride-A-Pet Potion | **muniradypa**: Koi Carp ×4 |
-| 15:25 | **Nicoleee_ily**: Japanese Snow Fairy (M), Lunar Tiger (N), Mexican Wolf (N), Starfish (N) | **flowerist0w04577**: Ride-A-Pet Potion |
-| 15:25 | **method611491**: Frost Dragon (FR), Owl (FR), Cabbit (NFR), Chocolate Chip Bat Dragon (FR) ×2, Naughty Mistletroll (MFR), Rainbow Maker, Peppermint Penguin (FR), Aestus (MFR), Peppermint Penguin (R), Peppermint Penguin, Fairy Bat Dragon (FR) | **newheroltu**: Cryptid (MFR) |
-| 15:25 | **gatomuaaa**: Jester Dragon (FR) | **w1w1w_1010**: Frost Fury (FR), Fly-A-Pet Potion |
-| 15:25 | **preppyxxsophiex**: Stitches (N) | **sugarplumesweet**: Black-Footed Ferret (N) ×3 |
-| 15:25 | **loossembleorbit**: Jester Dragon (N) | **darr4939**: Zombie Wolf (M) |
-| 15:25 | **0bjectl3x**: Bush Elephant (NR), Rain Cloud Hat, Rain Boots, Rain Hat, Cotton Candy Hat, Butter Knife, Pet Handler Pro Certificate ×2 | **Codezyyyy**: Owlbear (MFR) |
-| 15:25 | **LPPlay42302**: Ride-A-Pet Potion ×17 | **getsdar**: Kangaroo (FR) |
-| 15:25 | **xheartzpearlx**: Shoebill (M), Mummy Spider (M) | **Sharpie_pies**: Grave Owl (N) |
-| 15:25 | **kaibodydump**: Spring Bunny Feet | **nameless_95**: Cupcake Sprinkle Wings |
-| 15:25 | **Rbd_JP**: Aurora Fox (NFR), Ice Cream Hermit Crab, Ride-A-Pet Potion | **faikubjotch**: Halo |
-| 15:25 | **faikubjotch**: Diamond Hamster (R) | **LunaPlaysYOO**: Fly-A-Pet Potion |
-| 15:25 | **taekkaun**: Cow (FR) ×7, Pig (FR) ×3 | **luvyerh**: Frost Dragon (FR) |
+| 15:30 | **Pebble_llShelly**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **TomatoKetchup1999**: Blazing Lion (FR) |
+| 15:30 | **vixhvn**: Pupcicle ×2 | **sofssly**: Dragonfruit Fox |
+| 15:30 | **luvyerh**: Cow (FR) | **Gothacked142**: Pig (R) ×2, Arctic Fox (FR), Spring Bunny Hood, Swan |
+| 15:30 | **clihello**: Winged Tiger (MFR), Fairy Bat Dragon (NFR), Sugar Glider (R) | **ImBeingV_V**: Parrot (NFR) |
+| 15:30 | **naebalova1000_7**: Ribbon Seal (M), Ms. Muffet (N), Bakeneko (N), Aye Aye (N), Orangutan (N), Royal Egg | **IsabellaMystery**: Ride-A-Pet Potion |
+| 15:30 | **Astr0_ooo**: Jellyfish | **Rqs1ee**: Cattuccino (MFR), Malaysian Tapir (MR) |
+| 15:30 | **werreriss0**: Crocodile (FR), Chihuahua, Pet Handler Pro Certificate, Ride-A-Pet Potion, Candy Hare (R) | **getsdar**: Kangaroo (FR) |
+| 15:30 | **Lenakauf1**: Ride-A-Pet Potion | **4striiii**: Cherry Blossom Flower Sticker ×9, Cherry Blossom Tree Sticker ×9 |
+| 15:30 | **Lenakauf1**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **sashaoookk**: Frostbite Cub (M) |
+| 15:30 | **Hewdry**: Kappakid, Fairytale Egg | **HIOWOIH_1**: Jumpscare ×3 |
+| 15:30 | **Celeste884**: Haetae (FR) | **imraulrawrr**: Silverback Gorilla (MFR) |
+| 15:30 | **nigelycudiera**: Pupcicle (MFR) | **Sealeoxs**: 2022 Birthday Party Horn, Tiny Wings |
+| 15:30 | **Ssoroush**: Copycat ×2 | **neq1xi**: Aestus (N) |
+| 15:30 | **LoriDreamy123**: Chocolate Dutch Guinea Pig (MFR), English Sheepdog (MFR), Water Rabbit (MFR), Kitty Bat (M), Chihuahua (M), Vampire Dragon (R), Halloween White Skeleton Dog (MR), Red Fox (MR), Cherry-On-Top, Cow (R), Fossil Egg, Pupcicle, Unicorn (R) | **theseller63**: Parrot (FR) |
+| 15:30 | **AdrianGalHer**: Border Collie (NR), Kangaroo (NFR), Hare (NFR), Ram (MR), Hare (N), Snow Monkey (NR), Clover Cow (MFR), Polar Bear | **theseller63**: Crow (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
