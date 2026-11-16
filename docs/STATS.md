@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-16 17:41 UTC by the scrape workflow._
+_Updated 2026-11-16 17:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 13 | 2026-11-11T1036Z | 2026-11-16T0145Z |
-| amvgg | 33 | 2026-11-11T1036Z | 2026-11-16T1645Z |
+| amvgg | 34 | 2026-11-11T1036Z | 2026-11-16T1746Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 41,147 | 2026-11-16T17:30 |
-| elve | 6 | 8,877 | 2026-11-16T17:31 |
+| amvgg | 6 | 41,384 | 2026-11-16T17:45 |
+| elve | 6 | 8,910 | 2026-11-16T17:45 |
 
-## AMVGG completed trades: 24,832 total
+## AMVGG completed trades: 24,859 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 2,757 |
+| 2026-11-16 | 2,784 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 17:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:41 | **Gamerqueen1255**: Gemstone Egg | **Gacha_3356**: Retired Egg ×18 |
-| 17:41 | **HeyenasArecute**: Arctic Fox | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 17:41 | **whannahbeyours98**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR) | **ava13970**: Giant Panda (FR) |
-| 17:41 | **Squonk037**: Dango Penguins (MFR) | **crazycattan16**: Majestic Pony (MFR) |
-| 17:41 | **Anastasiadenk**: Field Mouse (NFR) | **Lola242532**: Goat (NFR) |
-| 17:41 | **Dollsgr**: German Shepherd (MR), Pet Handler Pro Certificate | **solariise**: Turtle (R) |
-| 17:41 | **Rbd_JP**: Border Collie (MFR) | **Amy_Anna268**: Sheeeeep (MFR), Tree Kangaroo (MFR), Catte (MFR), Diamond Hamster (MFR), Unicorn Horn |
-| 17:41 | **l23Yliashka25l**: Bullfrog (MR), Chihuahua | **0ofiesszz**: Pet Handler Pro Certificate |
-| 17:41 | **Lupaeis**: Evil Unicorn (NFR), Jester Dragon | **yoursocksstink2**: Kangaroo (MFR), Lion Cub (MFR) |
-| 17:41 | **Lukasjunior66**: Shiver Wolf (NFR), German Shepherd (NFR), Black Springer Spaniel (N) | **diiorrvi**: Shiver Wolf (MFR) |
-| 17:41 | **number_58134**: Strawberry Tortle | **C0PHYAK**: Fly-A-Pet Potion ×10, Pet Handler Pro Certificate ×2 |
-| 17:41 | **Llululinda2312**: Dango Penguins (NR), Velocirooster | **Jwadd32**: 2022 Birthday Party Horn |
-| 17:41 | **nalu101008**: Turtle (NFR), Fairy Bat Dragon (FR), Undead Jousting Horse (R), Kangaroo (FR) | **gbhdnnv090**: Haetae (FR) |
-| 17:41 | **cyptiaI**: White Chef Hat | **cbmelissa**: Unfortunate Eyelashes |
-| 17:41 | **HELENA_GUEMER12494**: Moon Rabbit, Easter Bunny | **ximcorazonkoriano**: Candyfloss Mega Neon Paint |
+| 17:45 | **ophyns**: Hot Doggo (FR) | **pk_startsnew**: Chocolate Dutch Guinea Pig (M), Chihuahua (M), Alicorn (N) |
+| 17:45 | **Kamila_33309**: Metal Ox, Golden Dragon, Golden Unicorn, Mr. Whiskerpips, Chilling Spider, Angus Calf, Corgi, Bobageist, Bunny ×2, Clumpty, Glyptodon Ducky | **Bot_202l**: Ride-A-Pet Potion |
+| 17:45 | **xXDestroyerCatXx**: Fly-A-Pet Potion | **istory_li**: Unicorn (FR) |
+| 17:45 | **Loboxd0505xd**: Ride-A-Pet Potion ×4, Cerberus, Moon Rabbit, Mr. Whiskerpips | **Cat_dog8517**: Copycat |
+| 17:45 | **Mentosvcxz**: Fly-A-Pet Potion ×2, Pupcicle ×2 | **Cat_dog8517**: Shrew (FR) |
+| 17:45 | **kestrelamvgg**: Ride-A-Pet Potion ×8 | **Cat_dog8517**: Cupid Dragon (FR) |
+| 17:45 | **Astr0_ooo**: Peppermint Penguin (NFR), Shark Puppy | **PillyTHEpanther**: Shark Puppy (MFR) |
+| 17:45 | **yyingryy**: Rainbow Maker, Lamb (FR) | **XxxSachaxxX1**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:45 | **goresgae**: Candicorn (NFR) | **kimh099**: Count Slothula (MFR), S'mores Raccoon (MFR), Nessie (FR) |
+| 17:45 | **chemeque32**: Kangaroo (NFR), Pig (R) | **spojIfed**: Dango Penguins (MFR) |
+| 17:45 | **reysabrita**: Fly-A-Pet Potion, Retired Egg ×6 | **BambooIThink**: Ride-A-Pet Potion ×2 |
+| 17:45 | **iaMatthieu1**: Evil Unicorn (FR), Pirate Ghost Capuchin Monkey | **nao0ya7**: Dalmatian (F), Munchkin Cat (N) |
+| 17:45 | **bunnilini**: Jester Dragon (FR), Rice Cake Rabbit (MFR) | **noob1962963**: Pupcicle ×6 |
+| 17:45 | **3undy**: Balloon Unicorn (FR), Arctic Reindeer (FR) | **Deamh_1**: Sugar Glider (NFR), Arctic Reindeer (FR), Border Collie (R), Cabbit, Siamese Cat (FR) |
+| 17:45 | **jobma228**: Mini Pig | **Ryxnisgoofy3**: Kangaroo (FR) ×2, Chameleon (N), Gemstone Egg |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
