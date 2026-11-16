@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 07:55 UTC by the scrape workflow._
+_Updated 2026-11-16 08:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-16 07:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 32,074 | 2026-11-16T07:45 |
-| elve | 6 | 6,852 | 2026-11-16T07:45 |
+| amvgg | 6 | 32,331 | 2026-11-16T08:00 |
+| elve | 6 | 6,891 | 2026-11-16T08:01 |
 
-## AMVGG completed trades: 23,110 total
+## AMVGG completed trades: 23,123 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 1,035 |
+| 2026-11-16 | 1,048 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,21 +31,21 @@ _Updated 2026-11-16 07:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:00 | **Light_Moon8461**: Arctic Reindeer (NFR) | **Loshara_xd1**: Evil Unicorn (FR), Cow (FR), Ride-A-Pet Potion |
+| 08:00 | **MohamedAmine4Ever**: Mermicorn (FR), Mermicorn (R) ×3, Siamese Cat, Owlbear (NR), Munchkin Cat, Jellyfish (R) | **NummieNummiegirl**: Balloon Unicorn (FR) |
+| 08:00 | **Emilywashere291**: Great Pyrenees (MFR), Golden Ladybug (MFR), Dodo (NFR), Goldhorn (NR), Winged Horse (NFR), Purrowl (MR), Rosy Maple Moth (NR), Fire Stallion (NR), Alicorn (N), Sea Turtle (N) | **3mis_alttt**: Kangaroo (NFR) |
+| 08:00 | **NE0NandBEY0ND**: Strawberry Shortcake Bat Dragon (FR) | **4qvssz**: Halloween White Ghost Dragon (MFR) |
+| 08:00 | **cherry_blast2**: Ride-A-Pet Potion ×2 | **aabeeyg**: Glormy Hound |
+| 08:00 | **Haisinberge**: Retired Egg ×4 | **Helli_fath**: Mexican Wolf (N) |
+| 08:00 | **Alliexxzc**: Copycat (R), Pink Betta Fish (M), Slime (NR), Polar Bear, Pupcicle ×3, Fly-A-Pet Potion | **AmaliShu**: Fairy Bat Dragon (FR) |
+| 08:00 | **Fr0ntStre3t**: Lunar White Tiger (M) | **kittyfairy379**: Stray Cat Dragon (M) |
+| 08:00 | **AdoptMeHere03**: Candicorn (FR) | **Acksolot2**: Candicorn, Ride-A-Pet Potion |
+| 08:00 | **XzB3arL3Synth7zX1088**: Fly-A-Pet Potion, River Otter (N) ×2, Crimson Cape (N) | **You_kwin666**: Ranger Beaver (NFR) |
+| 08:00 | **YuroMiyuk1**: Rainbow Maker | **igabbe3rd**: Strawberry Shortcake Bat Dragon (FR) |
+| 08:00 | **noelleroan234**: Matcha Cat (MR), Kitty Bat (NFR), Chocolate Dutch Guinea Pig (MR), German Shepherd (MFR), Pet Handler Pro Certificate, Lynx (MR), Cattuccino (M), Stray Cat Dragon (M) | **Ally808101**: Border Collie (MFR) |
+| 08:00 | **cc0uture16**: Unicorn (NFR), Blue Jay (NFR) | **EnricoHandsome0**: Copycat |
 | 07:55 | **EEEEEEEEZEEEEEEZEEEE**: Hedgehog (R), Dalmatian (FR), Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Goose (FR), Goose (R), Cabbit (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **MrrSush**: Frost Dragon (NFR) |
 | 07:55 | **Japvaxx**: Ride-A-Pet Potion ×11 | **IVS102**: Fly-A-Pet Potion ×6 |
-| 07:55 | **napakalatina4**: Ride-A-Pet Potion ×18 | **candyuser2008**: Turtle (FR) |
-| 07:55 | **Bacontop1of100**: Crow (NFR) | **taekkaun**: Cow (FR) ×10 |
-| 07:55 | **Qeendou**: Moose Calf (MFR), Panda (MFR), Snowball Pet (MFR), Peach Owl (MFR), Chocolate Dutch Guinea Pig (MFR) | **fluffyunicorns_932**: Pink Cat (MFR), Chef Gorilla (MFR) |
-| 07:55 | **MOIK0K**: Owlbear (MFR), Moon Rabbit (MFR), French Bulldog (MR) | **amvggalt1**: Turtle (MFR) |
-| 07:55 | **cutykitty0521**: Ride-A-Pet Potion | **muniradypa**: Lobster ×2 |
-| 07:55 | **ohinam**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **Uliana000334**: Lion (FR) |
-| 07:55 | **nornomm**: Strawberry Shortcake Bat Dragon (NFR), 2022 Birthday Party Hat | **Nika_Roblox16stars**: Chocolate Chip Bat Dragon (NFR) |
-| 07:55 | **galitaleti**: Jester Dragon (NR), Jester Dragon, Tri-horned Treehopper | **SannaMoodySunny1**: Peppermint Penguin (R) |
-| 07:55 | **Itz_Daria303UvU**: Moonpine (MR) | **PIOWHITE2424**: Fly-A-Pet Potion |
-| 07:55 | **robloxiana_79943**: Pupcicle (N), Ride-A-Pet Potion ×2 | **mgz158**: Copycat |
-| 07:55 | **Lydiaemily12**: Cow (NFR), Candicorn (NFR) | **Lx_mo0n**: Hedgehog (FR) |
-| 07:55 | **HE4RTZK**: Arctic Reindeer (FR) | **AMYSV1B3X0**: Strawberry Shortcake Bat Dragon (FR), Snowball Pug (M), Dire Wolf (M), Reindeer |
-| 07:55 | **RealVeronnisaa**: Shark Puppy (NFR) | **Amvggtr4d3s**: Flaming Fox (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
