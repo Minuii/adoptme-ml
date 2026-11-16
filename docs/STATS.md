@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 06:45 UTC by the scrape workflow._
+_Updated 2026-11-16 06:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-16 06:45 UTC by the scrape workflow._
 | amvgg | 6 | 31,156 | 2026-11-16T06:45 |
 | elve | 6 | 6,638 | 2026-11-16T06:45 |
 
-## AMVGG completed trades: 22,993 total
+## AMVGG completed trades: 23,001 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-16 | 918 |
+| 2026-11-16 | 926 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
 | 2026-11-13 | 4,412 |
@@ -31,6 +31,14 @@ _Updated 2026-11-16 06:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:55 | **Gooblin_trool**: Slime (N) ×2, Ride-A-Pet Potion | **K1MM007**: Tortoiseshell Guinea Pig |
+| 06:55 | **I_AlexisAgi**: Japanese Snow Fairy (M) | **Monika56430**: Bunny (M) |
+| 06:55 | **feen4vamps**: Ghost Dog (MR), Snow Monkey, Fairy Bat Dragon (FR), Chick (MR) | **hazeldacoolest_889**: Mermicorn (FR), Pelican |
+| 06:55 | **0o0Username0o0**: Angus Calf (M) | **cat_cheek158**: Ride-A-Pet Potion |
+| 06:55 | **atracttion**: Blazing Lion (FR), Dalmatian (FR) | **dsjquw72hs**: Owl (FR) |
+| 06:55 | **elifanaekinci**: Ride-A-Pet Potion | **bzzbbzb**: Gargoyle (R) |
+| 06:50 | **monewoo99**: Cryptid (FR) | **Meme_Seb**: Amethyst Penguin |
+| 06:50 | **veiixzlj**: Frost Dragon (FR), Arctic Dusk Dragon (MFR), Chocolate Dutch Guinea Pig (MFR), Frostbite Cub (MFR) | **BlackHellPinsel**: Haetae (N) |
 | 06:45 | **carnivoro_fuerte**: Owlbear (MFR), Violet Friend (M), Albino Monkey (FR), Shadow Dragon Ducky (MFR), Frost Fury (FR), Zombie Buffalo (R) | **aabeeyg**: Cryptid |
 | 06:45 | **AndresPatato**: Paint Sealer ×14 | **hyong110**: Ride-A-Pet Potion |
 | 06:45 | **chapihop2**: Stray Cat Dragon (N) ×2, Shih Tzu (M), Abyssinian Cat (N) | **Bumble_Lou**: Pet Handler Pro Certificate |
@@ -38,14 +46,6 @@ _Updated 2026-11-16 06:45 UTC by the scrape workflow._
 | 06:45 | **addAquaskycode2015**: Stray Cat Dragon (M) | **Bumble_Lou**: Copycat |
 | 06:45 | **luvyerh**: Arctic Fox, Fly-A-Pet Potion | **iaMatthieu1**: Arctic Fox (FR) |
 | 06:45 | **wjredmind**: Dango Penguins (MFR), Rain Cloud Hat, Alley Cat, Chihuahua | **plushioss**: Tuxedo Cat (MFR), S'mores Raccoon (MFR), Blue Ringed Octopus (MR), Frostbite Cub (MFR) |
-| 06:45 | **luvyerh**: Pig, Fly-A-Pet Potion | **iaMatthieu1**: Pig (FR) |
-| 06:40 | **Halloween_Goat**: Pupcicle | **Paifrennnn**: Ride-A-Pet Potion |
-| 06:40 | **rqblqx_Evelyn2**: Giraffe (NFR) | **zarajinglesmells**: Chocolate Chip Bat Dragon (MFR), Frost Dragon (FR) |
-| 06:40 | **playwitmeokk**: Tasmanian Devil | **ihitmyheadonwalls2**: Momma Moose ×4 |
-| 06:40 | **bnnysiie**: Peppermint Penguin (MFR) | **zeejnaa**: Alpaca (MFR), Rainbow Maker, 2022 Birthday Cupcake Shoes |
-| 06:40 | **iaMatthieu1**: Crocodile (R) | **Denise_Gsecond**: Arctic Fox (R), Frost Fury |
-| 06:40 | **gggpppgggppp1**: Fly-A-Pet Potion, Pet Handler Pro Certificate | **kilopertq**: Frost Phoenix (R), Solaris |
-| 06:40 | **inkxr2**: Elephant (FR), Frost Fury (R) | **xxxAubreexxx123**: Flamingo (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
