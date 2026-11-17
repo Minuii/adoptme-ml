@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 13:31 UTC by the scrape workflow._
+_Updated 2026-11-17 13:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 13:31 UTC by the scrape workflow._
 | amvgg | 7 | 35,152 | 2026-11-17T13:30 |
 | elve | 7 | 7,372 | 2026-11-17T13:31 |
 
-## AMVGG completed trades: 27,938 total
+## AMVGG completed trades: 27,983 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,869 |
+| 2026-11-17 | 1,914 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:30 | **natalka_1q1**: Haetae (NFR), Munchkin Cat (MFR) | **Vluxbuy**: African Wild Dog (NFR) |
-| 13:30 | **SVS_88888**: Unicorn (N) | **AubreyxBuilds**: Pet Handler Pro Certificate ×2 |
-| 13:30 | **Phoenix_Goddess0**: Burger Bear (FR) | **aminka_wq1**: Fly-A-Pet Potion |
-| 13:30 | **NerVhana**: Balloon Unicorn (FR), Kangaroo (FR) | **sara5mohamad**: Parrot (FR) |
-| 13:30 | **ates_yurek**: Balloon Unicorn (NFR), African Wild Dog (R), Candicorn (NFR), Grim Dragon (FR), 2022 Birthday Party Horn | **tokyozxvi**: Dalmatian (MFR) |
-| 13:30 | **vcxitb_new**: Cryptid (NFR), Unicorn Horn, Rainbow Maker, Fallow Deer (MFR), German Shepherd (MFR), Chocolate Dutch Guinea Pig (MR) | **itisfrogtime123**: Blazing Lion (NFR) |
-| 13:30 | **Lupaeis**: Latte Kitsune (MFR) | **bbkxrby**: Winged Tiger (NFR) |
-| 13:30 | **sweetlilk64**: Ride-A-Pet Potion, Fly-A-Pet Potion, Pupcicle (NR) | **moop1234321**: Copycat (FR) |
-| 13:30 | **kworixx**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×4 | **auiciq_isp**: Rain Cloud Hat |
-| 13:30 | **seruzeni**: Chihuahua (MR) | **iammm2pro_3**: Bunny Swirl (MFR) |
-| 13:30 | **picucurt123456**: Copycat | **Anelchik_i**: Fly-A-Pet Potion ×3 |
-| 13:30 | **lkmsdfw**: Winged Tiger (FR) | **rainpitiquen15**: Kangaroo Stroller, Axe Rattle, Glass Scooter, Munchkin Cat (FR) |
-| 13:30 | **Reveknalt1**: Dragonfly ×18 | **Ixc_hz**: Ride-A-Pet Potion |
-| 13:30 | **nice2306_alt**: Stray Cat Dragon ×15 | **w0Lops**: Pet Handler Pro Certificate |
-| 13:30 | **megumi_isambitious**: Kangaroo (FR), Kangaroo (R) ×2, Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:40 | **flower_1851**: Flamingo (FR) | **Anelchik_i**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×9 |
+| 13:40 | **SanAndres404**: Ride-A-Pet Potion ×5, Ermine (N) | **Vitek_228666**: Lion Cub |
+| 13:40 | **Zuminkikiki**: Ride-A-Pet Potion | **JuliaCat_Roblox1**: Sushi Penguin |
+| 13:40 | **dianapro77792**: Crystal Egg ×6, Ride-A-Pet Potion | **Callme_Mary45**: Fly-A-Pet Potion |
+| 13:40 | **mlkbottl**: Dragonfruit Fox | **blushiibuns**: Dango Penguins |
+| 13:40 | **justunujede123**: Castle Hermit Crab, Chihuahua, Sweetheart Rat | **Leviodas**: Ride-A-Pet Potion |
+| 13:40 | **Keito_149**: Arctic Reindeer (NFR) | **Reizauer**: Goose, Ride-A-Pet Potion ×6, Arctic Reindeer (FR), Cabbit |
+| 13:40 | **crypticfawnxw**: Cryptid (FR), Ride-A-Pet Potion, Dango Penguins (R), Banana Hat | **codie_kryze1**: Field Mouse (MFR) |
+| 13:40 | **FlyToTheSaturn**: Neon Orange Scooter, Bethink Skateboard, Emoji Scooter, Ice Scooter, Wood Skateboard, Black Scooter, Blue Scooter, Blue Skateboard | **lkmsdfw**: Fly-A-Pet Potion ×3 |
+| 13:40 | **Sonya73p**: Gingerbread Reindeer, Little Lamb ×2, Indian Flying Fox, Scarecrow Horse | **16y97**: Ride-A-Pet Potion |
+| 13:40 | **Ttsglw**: Christmas Cat Rattle, Inflatable Sword, Discosplosion, Money Rattle | **qzeifnx_1**: Ride-A-Pet Potion |
+| 13:40 | **Lerunhi**: Sugar Glider (FR), Fly-A-Pet Potion | **bashkyr0**: Fairy Bat Dragon (FR) |
+| 13:40 | **Siggma794**: Fly-A-Pet Potion ×8 | **AParentsAccountt**: Candicorn |
+| 13:40 | **Liaaa_sukakucing**: Haetae (NFR), Halo, Angel Wings, 2022 Birthday Cake ×2, Unicorn Horn ×2, 2022 Birthday Cupcake Shoes, Tiny Wings, Spring Bunny Hood, Spring Bunny Nose, Ride-A-Pet Potion | **terrylonsoyjerry**: Giant Panda (NFR) |
+| 13:40 | **Adoptme_prety**: Copycat (FR), Copycat (R), Fly-A-Pet Potion | **Petterstranger**: Candicorn (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
