@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 22:31 UTC by the scrape workflow._
+_Updated 2026-11-17 22:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 22:31 UTC by the scrape workflow._
 | amvgg | 7 | 43,932 | 2026-11-17T22:30 |
 | elve | 7 | 9,335 | 2026-11-17T22:31 |
 
-## AMVGG completed trades: 29,840 total
+## AMVGG completed trades: 29,866 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,771 |
+| 2026-11-17 | 3,797 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 22:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:30 | **XMizuki_chenX**: Unicorn, Classic Trade Stand | **Starpie1243**: French Bulldog |
-| 22:30 | **zahraxcrystals**: Ride-A-Pet Potion, Sloth | **YOKOZ303**: Business Monkey (R) |
-| 22:30 | **Chicken_Drumsticksss**: Dragonfruit Fox (NR) | **SnowyAngelKittys**: Ride-A-Pet Potion ×10 |
-| 22:30 | **AutoTradeCommission**: Unicorn (NFR) ×3, Moon Rabbit (MFR), Amami Rabbit (MFR), Count Slothula (M), Cerberus (MFR), Chocolate Chow-Chow (MR) ×2, Black Chow-Chow (M), Gecko (MFR), Gecko (MR), Rain Cloud Hat, Black Springer Spaniel (MFR), Kangaroo (R), Spring Bunny Nose, Fly-A-Pet Potion | **kittycutecat11130**: Owl (FR) |
-| 22:30 | **vqiikk**: Candicorn, Arctic Dusk Dragon | **Hanji_2104**: Copycat ×3 |
-| 22:30 | **lovkirby**: Crow (NFR), Shark Puppy (MFR), Ride-A-Pet Potion ×2 | **Shhdhehdneirjndnd**: Frost Dragon (NFR) |
-| 22:30 | **donnotinteract**: Goose (R) | **Lilu2383**: Cow (R), Ride-A-Pet Potion |
-| 22:30 | **coldgoodbyes**: Fairy Bat Dragon (FR), Sugar Glider, Turtle (FR) | **DaBabyLETSGo41**: Owlbear (MFR) |
-| 22:30 | **iloveadoptme541**: Dalmatian (MFR), Peppermint Penguin (MFR), Goose (MFR), Latte Kitsune (MFR), Arctic Reindeer (MFR), Copycat ×3 | **lovinqmandi**: Bat Dragon (NFR) |
-| 22:30 | **gwwirt**: Ghost Chick (M) | **pudadlin**: Gemstone Egg ×6 |
-| 22:30 | **XzCrimsonj9Nova8zX14**: Border Collie (MFR), Unicorn Horn ×2, 2022 Birthday Cake, 2022 Birthday Cupcake Shoes, Great Pyrenees (MR), Frostbite Cub (MR), Unicorn (MFR) | **auqalia**: Goose (MFR) |
-| 22:30 | **Pusteblume_204**: Ram (NR) | **valeriaUwU30125**: Christmas Pudding Pup (R) |
-| 22:30 | **debrazombie1**: Candyfloss Mega Neon Paint, Blue Boohoo Mega Neon Paint, Snow Leopard (N), Fly-A-Pet Potion | **camsties**: Hospital Home |
-| 22:30 | **Szaisthebestongg**: Chocolate Chip Bat Dragon (NFR) | **xXfayridreamXx**: Shark Puppy (NFR), Candicorn (NFR), Siamese Cat (NFR) |
-| 22:25 | **TheAddictedSpider**: Owl (FR) ×2, Hedgehog (FR) | **Cool_Evka77**: Nessie (MFR), Kangaroo (MFR), Ring-Tailed Lemur (MFR), Flaming Fox (MR), Kangaroo (NFR), Flamingo (NFR), Rainbow Maker, Fly-A-Pet Potion ×3, Spring Bunny Nose, Hare (MFR) |
+| 22:41 | **sleepy_s0ren**: Giant Panda (FR) | **xxvxvvxvv**: Crow (FR) |
+| 22:41 | **AnDrEy_PrOKiLlEr**: Cow (FR) | **NastyaCat_Play2**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
+| 22:41 | **cowicutesy**: Frostbite Bear, Panda (NFR) | **Keito_149**: Cabbit |
+| 22:41 | **Luna5980414**: Copycat (R) | **oh_eql**: Sweetheart Rat (NR), Ostrich (NFR), Hamster (R) |
+| 22:41 | **InfinityWave742**: Chick | **blobxxfish**: Retired Egg ×6 |
+| 22:41 | **Imdelulu120**: Fly-A-Pet Potion ×8 | **KawaiiGauges**: Moon Rabbit (MFR) |
+| 22:41 | **Kir4kaa**: Lunar White Tiger (N), Retired Egg | **chinchillocka**: Ride-A-Pet Potion |
+| 22:41 | **lolazocup1d**: Cotton Candy Hat | **vupxric**: Dumpling Friend Hat |
+| 22:41 | **msgarcia4**: Ride-A-Pet Potion | **Superslayaccount70**: Crystal Egg ×18 |
+| 22:36 | **InfinityWave742**: 2021 Uplift Butterfly | **CrankyCrowx**: Retired Egg ×5 |
+| 22:36 | **InfinityWave742**: 2022 Uplift Butterfly | **CrankyCrowx**: Retired Egg ×5 |
+| 22:36 | **sedamanga212**: Werewolf (R) | **NotSweatyOnion**: Ride-A-Pet Potion ×15 |
+| 22:36 | **ufon444**: Cryptid (NFR) | **desiredcupcakee**: Cryptid, Cow, Cabbit, Rainbow Maker ×2, Arctic Fox, Siamese Cat (NR), Kangaroo (FR) |
+| 22:36 | **2009lovesouls**: 2022 Birthday Confetti Drape, 2022 Birthday 5 Badge | **lovewqnted**: Ride-A-Pet Potion |
+| 22:36 | **Alecsandra3107**: Ride-A-Pet Potion, Chihuahua | **haylie90kmkh**: Chocolate Dutch Guinea Pig |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
