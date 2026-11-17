@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 17:16 UTC by the scrape workflow._
+_Updated 2026-11-17 17:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 17:16 UTC by the scrape workflow._
 | amvgg | 7 | 38,836 | 2026-11-17T17:15 |
 | elve | 7 | 8,290 | 2026-11-17T17:16 |
 
-## AMVGG completed trades: 28,779 total
+## AMVGG completed trades: 28,823 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,710 |
+| 2026-11-17 | 2,754 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 17:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:15 | **SpinsStars_8**: Scarecrow Crow, Toy Poodle, Ghost Dog, Bobageist, Thunderfisher | **Z0mb13H34rtzzz**: Cow Calf (N) |
-| 17:15 | **TTZombeymaudado**: Werewolf (FR) | **REALjaylarp**: Werewolf, Ghost Dog |
-| 17:15 | **GAV_6066**: Ride-A-Pet Potion ×3 | **xuanshenzen**: Rose Dragon |
-| 17:15 | **Manga11998**: Rainbow Maker | **pecrylover123**: Cabbit (FR) ×2, Spring Bunny Nose |
-| 17:15 | **gvmpyi**: Spring Bunny Nose, Cotton Candy Hat | **pecrylover123**: Ride-A-Pet Potion ×3 |
-| 17:15 | **jjvyne**: Chocolate Dutch Guinea Pig (MFR), French Bulldog (MFR) | **pecrylover123**: Dragonfruit Fox (MFR), Peachick (MFR) |
-| 17:15 | **xmikaeq**: Evil Unicorn (FR), Ride-A-Pet Potion | **Nosoul_zz**: Christmas Pudding Pup (MFR) |
-| 17:15 | **Furryinreallaif**: Pirate Hermit Crab | **Ashvr_s0ul9**: Capricorn |
-| 17:15 | **ANG3l_1078**: Retired Egg ×12 | **Itsbaileynune**: Hamster |
-| 17:15 | **kanIIkor**: Stray Cat Dragon ×2 | **Emili_M08**: Gemstone Egg |
-| 17:15 | **ptpsu_lalalala**: Snow Monkey (R) | **nimalina463**: Fly-A-Pet Potion |
-| 17:15 | **sube14567**: Pupcicle (NR), Ghostly Cat (N) | **iiam_nikiii**: Pupcicle (NFR) |
-| 17:15 | **Thomatooss**: Spring Bunny Hood, Spring Bunny Nose, Sea Slug, Pain au Chat, Pupcicle, Fly-A-Pet Potion, Ride-A-Pet Potion | **kaibodydump**: Siamese Cat (FR) |
-| 17:15 | **24h_adoptmecow**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **LMXE1_11**: Copycat |
-| 17:15 | **reii_1723**: Fly-A-Pet Potion | **Pimbo_Peep2011**: Alicorn ×18 |
+| 17:25 | **pexrldiver**: Dango Penguins ×2, Pupcicle, Cake Friend | **squ_evder**: Fallow Deer |
+| 17:25 | **cherryberry5621**: Drake, Christmas Future Egg, Snow Monkey | **squ_evder**: Groundhog |
+| 17:25 | **tonyyy133378**: Evil Unicorn (FR), Turtle (FR) ×2, Candicorn (R), Siamese Cat (R), Shark Puppy (R), Lion Cub (FR) | **wskdaks**: Owl (FR) |
+| 17:25 | **luvyerh**: Fly-A-Pet Potion ×13, Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×2 | **thhtnnv**: Cow (R) |
+| 17:25 | **aimo100**: Cow (NFR), Cow (FR), Strawberry Tortle ×3, Christmas Egg | **bernabe198**: Owl (FR) |
+| 17:25 | **xMoon_289**: Ride-A-Pet Potion, Elf Shoes, Orbweaver Glider | **LaLas_2009**: Chick (N), Beluga Whale (N) |
+| 17:25 | **goodvibez_forlife**: Royal Palace Spaniel (MFR), Spring Bunny Feet, Sunflower Friend (M), Black Rhino (M) | **xeonxxvibes**: Diamond Unicorn (MFR) |
+| 17:25 | **gbhdnnv090**: Candicorn (R) ×2 | **RELLdep**: Cow (FR) |
+| 17:25 | **Love_Piach**: Chocolate Dutch Guinea Pig (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **lololog741**: Goose (FR) |
+| 17:25 | **AiselMak**: Border Collie (R), Ram (R) | **Woolshula_TOP**: Rose Dragon (NFR) |
+| 17:25 | **adoptmefirefly5**: Siamese Cat (N), Ballet Swan (N) | **ambervgils**: Chocolate Chip Bat Dragon (FR) |
+| 17:25 | **erikferre29**: Frost Dragon (FR), Turtle (FR) | **starofthe555**: Hedgehog (FR), Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion ×3 |
+| 17:25 | **ranashiil**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) | **Kirikamu**: Fairy Bat Dragon (FR), Dalmatian (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×10 |
+| 17:25 | **siria20144**: Cow (FR), Cow (R), Ride-A-Pet Potion ×4 | **Sanster47**: Arctic Reindeer (FR) |
+| 17:21 | **Chicken1nuggets09092**: Shadow Dragon (FR), Giraffe (FR), Fairy Bat Dragon (MFR), Albino Monkey (NFR), Turtle (FR) ×2, Chocolate Chip Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) | **01iixEndii**: Haetae (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
