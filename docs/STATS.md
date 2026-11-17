@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 02:40 UTC by the scrape workflow._
+_Updated 2026-11-17 02:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 02:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 25,347 | 2026-11-17T02:30 |
-| elve | 7 | 5,318 | 2026-11-17T02:31 |
+| amvgg | 7 | 25,551 | 2026-11-17T02:45 |
+| elve | 7 | 5,354 | 2026-11-17T02:45 |
 
-## AMVGG completed trades: 26,497 total
+## AMVGG completed trades: 26,501 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 428 |
+| 2026-11-17 | 432 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,10 @@ _Updated 2026-11-17 02:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:45 | **Piolin_Xl3**: Frost Dragon (FR) | **SimxplyDaisyYT**: Cow (FR) ×2, Goose (FR), Peppermint Penguin (FR) ×2, Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 02:45 | **jam0khurt**: Ride-A-Pet Potion ×9 | **lilliesautumn**: Munchkin Cat |
+| 02:45 | **ProSpark251**: Dire Wolf (MFR) | **AER0NZ1X**: Ride-A-Pet Potion ×3 |
+| 02:45 | **zerozer0ten**: Frostbite Cub (M) | **SUPERPENGUIN0111**: Many Mackerel, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
 | 02:36 | **Mimiplayztz123**: Fairy Bat Dragon (FR), Elephant (FR), Cow (FR) ×3 | **luvyerh**: Balloon Unicorn (FR) |
 | 02:36 | **amyggvaI**: Frost Fury (FR), Monkey (MFR), Glormy Leo (FR), Fly-A-Pet Potion ×2 | **SoLost666**: Kangaroo (FR) |
 | 02:36 | **Soffi_nas7**: Fairy Bat Dragon (NFR) | **elfiltx**: Dalmatian (FR) |
@@ -43,10 +47,6 @@ _Updated 2026-11-17 02:40 UTC by the scrape workflow._
 | 02:36 | **Stormyeyes6874**: Cow (FR) | **rip_indra12345678912**: Undead Jousting Horse |
 | 02:36 | **Islaxluca**: Pain au Chat (M), Pancake Stack, Vol. 2 Pets Plus Sticker Pack ×3, Unicorn Backpack | **aabeeyg**: Spinning Cat Animated Sticker |
 | 02:36 | **Mimismila8**: Parrot (NFR), Siamese Cat (R), Frost Fury (FR), 2022 Birthday Cake, Tiny Wings, Fly-A-Pet Potion, Ride-A-Pet Potion | **EmiXMisty**: Giraffe (FR) |
-| 02:36 | **Chicken_Drumsticksss**: Ride-A-Pet Potion ×2 | **Notfunnylokk**: Dango Penguins |
-| 02:36 | **YourHealthy**: Unicorn, Cookie Dough Plush | **heladitoooUnU**: Ride-A-Pet Potion |
-| 02:36 | **Sirswagalishsus**: Puffin (R) | **Kxxr9**: Ride-A-Pet Potion ×6 |
-| 02:36 | **vampzhexrt**: Peppermint Penguin, Rain Cloud Hat, 2022 Birthday Party Horn, Tiny Wings, Halloween Evil Dachshund (MR), Kappakid (MR), Goth Shoes | **xchansrighteyelashx**: Jester Dragon (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
