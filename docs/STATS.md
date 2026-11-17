@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 16:25 UTC by the scrape workflow._
+_Updated 2026-11-17 16:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 16:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 37,810 | 2026-11-17T16:15 |
-| elve | 7 | 8,068 | 2026-11-17T16:16 |
+| amvgg | 7 | 38,042 | 2026-11-17T16:30 |
+| elve | 7 | 8,126 | 2026-11-17T16:31 |
 
-## AMVGG completed trades: 28,615 total
+## AMVGG completed trades: 28,625 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,546 |
+| 2026-11-17 | 2,556 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 16:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 16:30 | **ilovefl0we**: Alley Cat (NFR), Fly-A-Pet Potion | **00dolls**: Glormy Leo (NR) |
+| 16:30 | **jessie4isaac**: Koala, Hippo | **HELENA_GUEMER12494**: Strawberry Stroller |
+| 16:30 | **Fruit_Kittie**: Ride-A-Pet Potion | **anekalubitnaruto**: Bunny Swirl |
+| 16:30 | **Local_bacon026**: Moose Calf (N), Jester Dragon (R), Chocolate Dutch Guinea Pig, Hamster (NR), Pupcicle ×2, Jumpscare (M) | **WillowpillowpiggyWL**: Pupcicle (M) |
+| 16:30 | **q_culvs**: Yule Log Dog (MFR), Chocolate Dutch Guinea Pig (MFR), Robo Dog (MFR) | **WillowpillowpiggyWL**: Velocirooster (MFR) |
+| 16:30 | **W1NT3R_991224**: Cabbit (N) | **elitro44**: Chocolate Chip Bat Dragon (FR), Glormy Leo (NFR), Ride-A-Pet Potion |
+| 16:30 | **tysa3957**: Diamond Unicorn (N), Squid | **TTZombeymaudado**: Pet Handler Pro Certificate |
+| 16:30 | **Itsofc_Emilyxx**: Hedgehog (FR), Clover Cow (MFR) | **ii0wdimx**: Dalmatian (FR), Kangaroo (FR) |
+| 16:30 | **Lost_inTheCl0uds**: Munchkin Cat, Dragon Breath Animated Sticker | **Ihatesomber11**: Shiver Wolf (M), Indian Flying Fox (N) |
+| 16:30 | **egedrn31**: Copycat ×2, Copycat (R) | **SPIDRAN56DOORS**: Candicorn (FR), Ride-A-Pet Potion ×2 |
 | 16:25 | **Ksusha_broooooo**: Gemstone Egg ×3, Green Amazon (FR) | **iiam_nikiii**: Pet Handler Pro Certificate |
 | 16:25 | **Moon_Cloud609859**: Kangaroo (FR), Admin Abuse Egg | **LikaAndar**: Aussie Egg, Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×3 |
 | 16:25 | **w0Lops**: Catte ×3 | **StinkyCupcakeMonster**: Fly-A-Pet Potion |
 | 16:25 | **cuteseals168**: Harp Seal (M), Pet Handler Pro Certificate | **scr_6am**: Harp Seal (MFR) |
 | 16:25 | **Velstorn**: Ride-A-Pet Potion | **Artem_lox877**: Pupcicle |
-| 16:25 | **bffmade**: Hedgehog (FR) | **MyBroLove_GG**: Fairy Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) |
-| 16:25 | **N0B0DY_1357**: Ride-A-Pet Potion, Reindeer ×2 | **Thesheeeeesh_god**: Pet Handler Pro Certificate |
-| 16:25 | **crown12256**: Giant Panda (NFR), Cryptid (FR), African Wild Dog (FR), Copycat (R), Jester Dragon (R) | **LuxuryxDxrk**: Bat Dragon (FR) |
-| 16:25 | **Lololoshka53793**: Ride-A-Pet Potion | **lon_lonworld**: Candyfloss Mega Neon Paint |
-| 16:25 | **muniradypa**: Koi Carp ×4 | **noaboa678**: Ride-A-Pet Potion |
-| 16:25 | **st4rinthesky_sayhi**: Goose (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Defonotvenuss**: Mini Pig (FR) |
-| 16:25 | **LVNA_XVZ**: White Chef Hat ×5 | **marsel_bananov**: Robot, Swordfish, Bunny ×4, Chanekeh (N), Chanekeh, Clover Cow, DJ Snooze, Gecko, Gorilla ×3, Gummy Guana (N), Gummy Guana, Kelp Raider (N), Kelp Raider |
-| 16:25 | **rblx_teegs**: Harp Seal (MFR), River Otter (MFR) | **Inezrx**: Unicorn Horn, Spring Bunny Hood, Spring Bunny Feet |
-| 16:25 | **DarkGriffin9635**: Fairy Bat Dragon (F) | **ObxiouslyEllicia**: Fly-A-Pet Potion ×7, Kitty Bat (MFR) |
-| 16:25 | **canon_7000**: Mermicorn (FR) | **Robloxian310585742**: Grim Dragon (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
