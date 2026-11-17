@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 11:46 UTC by the scrape workflow._
+_Updated 2026-11-17 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 11:46 UTC by the scrape workflow._
 | amvgg | 7 | 33,592 | 2026-11-17T11:45 |
 | elve | 7 | 6,947 | 2026-11-17T11:45 |
 
-## AMVGG completed trades: 27,602 total
+## AMVGG completed trades: 27,625 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,533 |
+| 2026-11-17 | 1,556 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 11:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:45 | **Spartik20**: Cabbit (NFR) | **TwistedK1tty**: Dalmatian (R), Dodo (NFR) |
-| 11:45 | **MecFoxCZ**: Latte Kitsune (NR) | **Alili2323134**: Maneki-Neko (MFR) |
-| 11:45 | **lalagirlhehe8**: Purrowl (N), Purrowl ×6 | **heladitoooUnU**: Ride-A-Pet Potion |
-| 11:45 | **XccarrottX**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **nyanyanya9606**: Ring-Tailed Lemur (FR) |
-| 11:45 | **MM_Cloud**: Stray Cat Dragon ×18 | **6evesvokhaha**: Fly-A-Pet Potion |
-| 11:45 | **dragonferdi**: Owlbear (MFR), Tiny Wings | **Wikitos5**: Cabbit (NFR) |
-| 11:45 | **Thatrandomguydann**: Sea Turtle (M), Skelicorn (M), Zodiac Minion Chick (NR), Black Dog, Stitches (N), Paint Sealer | **Marwani_lol**: Glormy Dolphin (M) |
-| 11:45 | **Phoenix_Goddess0**: Pupcicle, Gummy Guana (N) | **Ira_20086**: Ride-A-Pet Potion |
-| 11:45 | **amvgguseonly123**: Copycat (R), Aurora Fox | **alexgameminecraft**: Crocodile (FR) |
-| 11:45 | **ohinam**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion | **demik3310**: Flamingo (FR) |
-| 11:45 | **AlyonaTheLove**: Munchkin Cat (NFR), Unfortunate Eyelashes, Black Springer Spaniel, River Otter (N) | **Cats_95600**: Goose (R), Quokka |
-| 11:45 | **xikell**: Huntsman Robin, Mochi Meow, Purrowl, Blue Whale | **Malelou26**: Ride-A-Pet Potion |
-| 11:45 | **princesz_sof1e**: Pet Handler Pro Certificate | **crypticcyy**: Fly-A-Pet Potion |
-| 11:45 | **Lost_inTheCl0uds**: Fly-A-Pet Potion, Ride-A-Pet Potion, Turtle Doves (N), Pandaguin Glooptodog (N), Waffle Wyrm (MR) | **rinkastarPets**: Jester Dragon |
-| 11:45 | **ItzAina_JPN**: Flash Weasel | **sclilxq**: Copycat, Leopard Shark (N), Cheetah |
+| 11:55 | **abdoosaad**: Kangaroo (FR) | **Smookgans**: Midnight Dragon (FR), Dugong (M), Fly-A-Pet Potion, Ride-A-Pet Potion ×7 |
+| 11:55 | **abdoosaad**: Munchkin Cat (R) | **isabella68078**: Bunny Swirl (MFR) |
+| 11:55 | **nuggets0162**: Rain Cloud Hat | **SerenaWolfWarrior**: Dango Penguins, Honey Badger, Spring Bunny Hood, Ride-A-Pet Potion ×4 |
+| 11:55 | **me_Vlada798**: Mummy Spider (M), Caramelgeist (N), Pandaguin Glooptodog (N), Ant (N) | **FUR_INAAAA**: Ride-A-Pet Potion |
+| 11:55 | **FlyToTheSaturn**: Sock Chew Toy, Marsh Plush, Gift Throw Toy, Heart Balloon, Elf Plush, Cookie Dough Plush ×3, Candle ×2, Banana Plush, Turkey Plush, Caticorn Rattle, Horse Plush, Polar Bear Plush | **tumblelina_123**: Fly-A-Pet Potion |
+| 11:55 | **KinaToons**: Haetae (FR), Tiny Wings | **rip_indra12345678912**: Fairy Bat Dragon (NFR), Fairy Bat Dragon (FR) ×2 |
+| 11:55 | **omcherubxx**: Munchkin Cat (MFR), Candicorn (NFR), Glacier Moth (FR) | **Militaryi_CorTak**: Balloon Unicorn (FR) |
+| 11:55 | **FlyToTheSaturn**: Waffle Wyrm, White Choccybunny ×2, Australian Kelpie ×3, Emu ×2, Ice Cube ×3, Merhorse ×2, Pterodactyl ×3, Sasquatch ×2 | **tutritam174**: Fly-A-Pet Potion |
+| 11:55 | **cutesyiza**: Unicorn Horn | **0o_Cupcake**: Yeti (MFR), Pet Handler Pro Certificate |
+| 11:55 | **cazzy123abc**: Rainbow Maker, Pain au Chat (MFR) | **0o_Cupcake**: Cherry-On-Top, Zombie Wolf (MFR), Toy Monkey (MFR) |
+| 11:55 | **el0king_75**: Candicorn | **cmhqiyiy3497**: Count Slothula ×18 |
+| 11:55 | **bermido80**: Chihuahua ×16 | **Uquewyraursutsiydpug**: Ride-A-Pet Potion, Lion Cub (R) |
+| 11:55 | **strawberrymilkxl1**: Copycat (R), Copycat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Horse Cycle, Heart Hoverboard, Slimingo Feather Teleporter | **getsdar**: Kangaroo (FR) |
+| 11:55 | **Sharpie_pies**: Muskrat (N) ×3, Poodle (N), Shiba Inu (N) ×2, Sneak Weasel (N) | **FUR_INAAAA**: Ride-A-Pet Potion |
+| 11:55 | **kworixx**: Guardian Lion, Fossil Egg ×2 | **ALTUSHKA_80**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
