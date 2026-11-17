@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 15:55 UTC by the scrape workflow._
+_Updated 2026-11-17 16:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 15:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 37,308 | 2026-11-17T15:45 |
-| elve | 7 | 7,904 | 2026-11-17T15:45 |
+| amvgg | 7 | 37,549 | 2026-11-17T16:00 |
+| elve | 7 | 7,977 | 2026-11-17T16:01 |
 
-## AMVGG completed trades: 28,464 total
+## AMVGG completed trades: 28,500 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,395 |
+| 2026-11-17 | 2,431 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 15:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:55 | **ksMW846**: Fly-A-Pet Potion | **Bubblesby_bailey1234**: Boohoo (M) |
-| 15:55 | **kreker0900**: Ride-A-Pet Potion ×4, Catte | **Mydgsf_bcsg**: German Shepherd (NR) |
-| 15:55 | **CuteDoggys2767**: Mule (MFR), Chocolate Dutch Guinea Pig (MFR), Brown Springer Spaniel (MFR), Golden Penguin (MFR), Dango Penguins (MFR) | **ra3czr**: Siamese Cat (MFR) |
-| 15:50 | **addmymain62**: Rain Cloud Hat ×2, Angel Wings | **PixiePawsTrade**: Rainbow Maker |
-| 15:50 | **LiekeLuvsWillow**: Fly-A-Pet Potion ×2 | **hilolasermints**: Velocirooster |
-| 15:50 | **Cutepatate088**: Crocodile (MFR), Royal Corgi (MFR), Ice Golem (MFR), Rainbow Maker, 2022 Birthday Party Horn, Toaster Hat | **clihello**: Sugar Glider (MFR) |
-| 15:50 | **cher_namagandaa**: Kitty Bat (MFR), Tiny Wings, Red Fox (MFR), Angus Bull (NR) | **Nastymiopi**: Monkey King (FR) |
-| 15:50 | **andrewmusculosul**: Munchkin Cat (MFR) | **cutesyyrevenge**: Evil Unicorn (FR), Ride-A-Pet Potion ×3 |
-| 15:50 | **alvarconXD**: Ride-A-Pet Potion ×16 | **Brian_Fayx**: Candicorn (FR) |
-| 15:45 | **iiN044**: Retired Egg ×15 | **Roblox_Cat41**: Chihuahua |
-| 15:45 | **Evaaster**: Strawberry Shortcake Bat Dragon (FR), Pig (R) | **Olivier_20141**: Arctic Reindeer (FR) |
-| 15:45 | **mixxqwiex**: Thunderfisher (M) | **Emmy38821**: Ride-A-Pet Potion |
-| 15:45 | **lkmsdfw**: Pig (FR) | **nicolasceci444**: Neon White Scooter, Neon Pink Skateboard, Neon White Skateboard |
-| 15:45 | **amyggvaI**: Propeller Hat, Halloween Black Mummy Cat (M), Kappakid, Kid Goat (N) | **Popa67742**: Ride-A-Pet Potion ×4 |
-| 15:45 | **K0qwry**: Easter Bunny (MFR), Ride-A-Pet Potion | **Bikunom**: Leopard Cat (M) |
+| 16:00 | **ECC0NY**: Munchkin Cat (MFR), Strawberry Shortcake Bat Dragon (FR) | **folow_lera0**: Parrot (FR) |
+| 16:00 | **Verine_Katz**: Boohoo (N), Bolt (N), Throwback Egg ×2 | **leen_yyyus**: Crystal Egg ×6 |
+| 16:00 | **fluffybunbunchunchun**: Ride-A-Pet Potion, Caramelgeist (M) | **soska10104**: Harp Seal |
+| 16:00 | **diecoole10976**: Ride-A-Pet Potion | **Ixc_hz**: Snowball Pet (R) |
+| 16:00 | **sigma232411**: Frost Unicorn (R) | **jetedispas212**: Ride-A-Pet Potion ×16 |
+| 16:00 | **pinritongpaksiw**: Shark Puppy (R), Munchkin Cat (R), Alley Cat, Dango Penguins | **Aeshetics_Uviita**: Cabbit |
+| 16:00 | **Lotteisking**: Diamond Unicorn (N), Ram ×2, Harp Seal, Chocolate Dutch Guinea Pig, Gemstone Egg ×2, Winged Horse (FR), Classic Trade Stand, Mochi Meow (N), Golden Unicorn (N) | **laur3star**: Frost Phoenix (NFR) |
+| 16:00 | **Caba7Senpai**: 2022 Birthday Confetti Cannon, Bald Eagle (FR) | **recos0401**: Panda (MFR), Fly-A-Pet Potion |
+| 16:00 | **Patriot0750**: Christmas Pudding Pup, Rock (N) | **SmA1L_001**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 16:00 | **lercheeg1234**: Caelum Cervi (NFR) | **ZzzTrades7**: Fallow Deer (R), Christmas Pudding Pup (R), Tree Kangaroo (NR), Tiny Wings |
+| 16:00 | **pmpjmg1**: Siamese Cat (FR) | **tufvfffdjdg**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×16 |
+| 16:00 | **Bobaateaaddict**: Frostbite Bear (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **mmaayois**: Fairy Bat Dragon (FR) |
+| 16:00 | **amimellaman3**: Ranger Beaver | **melany123re1**: Burger Bear |
+| 16:00 | **abdoosaad**: Frostbite Bear (R) ×3 | **mmaayois**: Cow (NFR) |
+| 16:00 | **boloxlucas123930**: Blue Butterfly (M), Thunderfisher (N) | **leen_yyyus**: Onza (M) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
