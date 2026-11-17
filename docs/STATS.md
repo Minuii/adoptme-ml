@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 04:01 UTC by the scrape workflow._
+_Updated 2026-11-17 04:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 04:01 UTC by the scrape workflow._
 | amvgg | 7 | 26,742 | 2026-11-17T04:00 |
 | elve | 7 | 5,592 | 2026-11-17T04:01 |
 
-## AMVGG completed trades: 26,667 total
+## AMVGG completed trades: 26,680 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 598 |
+| 2026-11-17 | 611 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 04:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:06 | **Eleven_3666**: Zombie Buffalo, Mochi Meow (N) | **I_KermitDEATH**: Christmas Pudding Pup |
+| 04:06 | **kaylamicmi**: Pupcicle (MFR), Spring Bunny Feet, Arctic Fox (R) | **kindaOwOmeal**: Halo |
+| 04:06 | **Bnniprince**: Frog (MR), DJ Snooze (M) | **Nicololo1215**: Ice Cream Cone Hat |
+| 04:06 | **XisokoGame**: Crocodile, Shark Puppy, Pupcicle ×3 | **WOWTHATSOSICK2**: Turtle (FR) |
+| 04:06 | **jessica020705**: Alley Cat | **bri5hellokitty**: Flaming Fox (R) |
+| 04:06 | **supernova_cloud**: Skunk, Purrowl, Tawny Frogmouth, Little Lamb, Jumpscare, Shoebill, Bunny, Clumpty, Snow Puma, Cracked Egg, Eaten Donut ×2, Glormy Backpack, Cheesecake Hat, Purple & Green Beads, Rotating Periscope ×2 | **skymartinsky**: Fly-A-Pet Potion |
+| 04:06 | **Lola_ant34**: 2022 Birthday Cake, 2022 Birthday Confetti Cannon, Spring Bunny Hood, Frosty Glow Mega Neon Paint | **higuysitskobe**: Flaming Fox (MFR) |
+| 04:06 | **purrscribesin**: Werewolf (FR), Copycat (R), Samoyed (M), Sushi Penguin, Scarebear | **Pashok_q**: Fairy Bat Dragon (FR) |
+| 04:06 | **Kalielgirly**: Mermicorn, Christmas Pudding Pup (NR), Unicorn (MFR) | **romoko_00**: Rainbow Maker |
+| 04:06 | **H111VZ**: Mermicorn (NFR) | **itsElijahpanda821**: Munchkin Cat (NR), Kangaroo, Crocodile (FR), Rain Cloud Hat |
+| 04:06 | **Harp_seaaal**: Jester Dragon (FR), Pupcicle | **snowflakeisfat123**: Copycat (R) |
+| 04:06 | **luiscae3**: Thinking Hat, Butter Knife | **Alemys2011**: Soccer Stadium |
+| 04:06 | **wowohaha17**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **lilliesautumn**: Strawberry Penguin (FR) |
 | 04:00 | **TheRukaa**: Ride-A-Pet Potion ×6 | **Nastya198632**: Copycat |
 | 04:00 | **Meko0o_3**: Ride-A-Pet Potion ×2 | **simplyxarv**: Alley Cat |
-| 04:00 | **jaydenatemycookie**: Cryptid, 2022 Birthday Cake | **Minita_Enanita0**: Strawberry Shortcake Bat Dragon (NFR) |
-| 04:00 | **princessunipanda76**: Frost Unicorn (FR), Fly-A-Pet Potion | **LoveRancee**: German Shepherd (MFR) |
-| 04:00 | **archi_chozza**: Copycat (MFR), Copycat, Ride-A-Pet Potion | **elgft_88**: Candicorn (MFR) |
-| 04:00 | **elgft_88**: Raccoon (M), Tanuki (M), Respectful Mustache | **pwaranoiia**: Tiny Wings |
-| 04:00 | **pwaranoiia**: Tiny Wings | **elgft_88**: Tanuki (M) |
-| 04:00 | **SoloGhost442149**: Winged Horse (FR) | **SoyNoel11**: Ride-A-Pet Potion |
-| 04:00 | **La_boyMich15**: Shadow Dragon (FR), Crocodile, Fairy Bat Dragon (FR), Copycat ×2, Bunny Swirl (NR), Yeti (NR), French Bulldog (N), Spring Bunny Hood | **m4rshalI**: Winged Tiger (MFR), Giraffe |
-| 04:00 | **ardillagalactic**: Chocolate Dutch Guinea Pig (MR) | **Vluxbuy**: Cow (R) |
-| 04:00 | **URSET_ROM4IK997**: Peppermint Penguin (FR), Ride-A-Pet Potion ×5 | **MatiXD12306**: Mini Pig (FR) |
-| 04:00 | **1s2ll**: Unicorn Horn, Dango Penguins (MFR), Dragonfruit Fox (MFR), Haetyphoon, Shark Puppy (FR), Shark Puppy (R), Shark Puppy, Ram (NR), Strawberry Penguin, Dragonfruit Fox ×2, Sushi Penguin | **micaelakdkdn**: Werewolf (MFR) |
-| 04:00 | **SUPERPENGUIN0111**: Ride-A-Pet Potion, Jumpscare (MFR) | **carnivoro_fuerte**: Fly-A-Pet Potion |
-| 03:50 | **vaIxhrtz**: Turtle (R), Hyena (NFR), Silly Duck | **Xxshad0wf0xxX**: 2022 Birthday Party Horn, Spring Bunny Hood ×3, Unicorn Backpack ×2, Pancake Stack, Bready Necklace ×2 |
-| 03:50 | **Solecitalamasbonita**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **MersuJanhir13**: Choco Penguin (M), Flaming Fox, Puptune (NR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
