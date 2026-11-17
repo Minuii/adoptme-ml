@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 07:40 UTC by the scrape workflow._
+_Updated 2026-11-17 07:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 07:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 29,873 | 2026-11-17T07:30 |
-| elve | 7 | 6,216 | 2026-11-17T07:31 |
+| amvgg | 7 | 30,090 | 2026-11-17T07:45 |
+| elve | 7 | 6,257 | 2026-11-17T07:45 |
 
-## AMVGG completed trades: 27,063 total
+## AMVGG completed trades: 27,069 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 994 |
+| 2026-11-17 | 1,000 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,12 @@ _Updated 2026-11-17 07:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:45 | **ranita_mewinxd**: Golden Griffin, Golden Unicorn | **polinka17100**: Purrowl |
+| 07:45 | **Omar2002548**: Show Pony (M) | **xXOmq_Ellen123xX**: Crystal Egg ×18 |
+| 07:45 | **Omar2002548**: Tortuga de la Isla (R), Ride-A-Pet Potion, Stray Cat Dragon, Skelicorn, Purrowl, Fire Foal ×4, Tree Sasquatch ×3, Badger ×3, Ribbon Seal ×3 | **arshiapurva**: Tortuga de la Isla |
+| 07:45 | **6isHUNGRY**: Cherry-On-Top, Strawberry Shortcake Bat Dragon Backpack, Pig, Bready Necklace, Elf Hat | **Caba7Senpai**: Dango Penguins (MFR) |
+| 07:45 | **ii_aldrin20**: Cow (R) | **Cergolina**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
+| 07:45 | **SkaterinDeltat140964**: Mirai Moth (M) | **m1so_02**: Choco Penguin (MR), Waffle Wyrm (M) |
 | 07:40 | **ranashiil**: Copycat | **lalalalavec**: Ride-A-Pet Potion ×6 |
 | 07:40 | **ropeiommmm**: Frost Dragon (FR), Fly-A-Pet Potion ×2 | **GeneralPatrick_14**: Haetae (FR), Cow (FR) ×3, Turtle (NFR) |
 | 07:36 | **Yoonie_Alisha**: Siamese Cat (FR), Gaelic Fae (NFR), Burger Bear ×3, Amami Rabbit, Cake Friend, Snowball Pet | **BudakBaran7**: Cow (FR) |
@@ -41,12 +47,6 @@ _Updated 2026-11-17 07:40 UTC by the scrape workflow._
 | 07:36 | **Chacha3538**: Retired Egg ×4, Purrowl | **Akaisz032**: Puptune |
 | 07:36 | **alivefille**: Ibex (N) ×3, Ibex ×3 | **0o0Username0o0**: Albino Bat (N) |
 | 07:36 | **TMDung20**: Evil Unicorn (FR) ×2 | **Reterirbair1989**: Owl (FR) |
-| 07:36 | **TMDung20**: Fairy Bat Dragon (NFR), Crocodile | **0MGHALLI3xx**: Munchkin Cat (MFR) |
-| 07:36 | **veroNIKA_star016**: Kangaroo (R) | **camiilita_7w7**: Candicorn (FR) |
-| 07:36 | **zeiholds**: Pet Handler Pro Certificate ×9 | **Youdi_off**: Fly-A-Pet Potion ×9 |
-| 07:36 | **saralinn_200**: Cow, Candicorn (R), Christmas Pudding Pup (R), Hyena (R) ×2, Cherry Blossom Hang Glider, Count Slothula, Kiwi, Golden Jaguar, Yeti, Pain au Chat | **mohamed84ll**: Strawberry Shortcake Bat Dragon (FR) |
-| 07:36 | **Omar2002548**: Alpaca | **REALjaylarp**: Grim Dragon |
-| 07:36 | **NotSweatyOnion**: Turtle (FR) | **savvi027**: Pupcicle (MFR), Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
