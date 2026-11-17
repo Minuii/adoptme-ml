@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 09:16 UTC by the scrape workflow._
+_Updated 2026-11-17 09:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 09:16 UTC by the scrape workflow._
 | amvgg | 7 | 31,371 | 2026-11-17T09:15 |
 | elve | 7 | 6,514 | 2026-11-17T09:16 |
 
-## AMVGG completed trades: 27,229 total
+## AMVGG completed trades: 27,253 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,160 |
+| 2026-11-17 | 1,184 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 09:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:15 | **Inganta07**: Ride-A-Pet Potion | **kanekixklxster**: Ram |
-| 09:15 | **xmochicowx**: Bunny Swirl (MFR), Caelum Cervi (R), Tan Chow-Chow (MFR) | **Goldfishismysnack200**: Goldhorn (MFR) |
-| 09:15 | **azert10987**: Space Whale, Happy Duckling | **14barbara64100**: Vol. 2 Pets Plus Sticker Pack |
-| 09:15 | **mio_ma0w0**: Cabbit (MFR), Munchkin Cat (FR) | **Lil_AshleyRoblox**: Alpaca (MFR) |
-| 09:11 | **as_ishere**: Turtle (R) | **shadow82172sad**: Pig ×2, Copycat (R) |
-| 09:11 | **kelsey_1815**: Gold Circle Glasses, Rabbit ×5, Retired Egg ×10 | **sandyneapolitancat**: Gumball Caterpillar (N), Pomeranian (N), Bunny (N), Thunderfisher ×4, Electric Hornet |
-| 09:11 | **kanekixklxster**: Pain au Chat ×5 | **melondebbieoliver**: Fly-A-Pet Potion |
-| 09:11 | **babyaIxdr**: Velocirooster | **alexgameminecraft**: Skelicorn (MFR) |
-| 09:11 | **lnH3II**: Catte (N), Ride-A-Pet Potion ×2, Cattuccino ×3, Electric Tide Mega Neon Paint | **MrColinBlox**: Cattuccino (M) ×2, Pain au Chat (N) |
-| 09:11 | **beatsvic**: Capricorn (MFR), German Shepherd (MFR), Volcanic Rhino (MFR), Firefly (MFR), Goldhorn (MFR), Leopard Shark (MFR), Toy Monkey (MFR), Spinosaurus (MFR), Chef Gorilla (MFR), Ram (MFR) | **aavqaii**: Fairy Bat Dragon (MFR) |
-| 09:11 | **dethxhellgrl**: Ride-A-Pet Potion | **LubiVladaA4**: Retired Egg ×18 |
-| 09:11 | **Fan_Bogatyrat**: Cow (FR) ×2, Apple Owl | **Reterirbair1989**: Arctic Reindeer (FR) |
-| 09:11 | **Crystal_andLisa**: Cracked Egg ×6 | **XianYunLove**: Purrowl |
-| 09:11 | **ferrofl7**: Bandicoot ×5, Dingo ×5, Jumping Spider ×4, Starfish (N), Toucan (N) | **xq0vlis**: Ride-A-Pet Potion |
-| 09:11 | **FlickCod32015**: Gemstone Egg ×11 | **LI42W**: Matcha Cat |
+| 09:21 | **oatsit**: Mini Pig (MFR), Fairy Bat Dragon (FR), Arctic Fox | **snupiez26**: Strawberry Shortcake Bat Dragon (MFR) |
+| 09:21 | **snupiez26**: Strawberry Shortcake Bat Dragon (MFR) | **oatsit**: Mini Pig (MFR), Goose (FR) |
+| 09:21 | **mio_ma0w0**: Cryptid (FR) | **Lil_AshleyRoblox**: Mini Pig (NFR) |
+| 09:21 | **cmhqiyiy3497**: Count Slothula ×9 | **Elenagrace1212**: Copycat |
+| 09:21 | **inicio1994**: Crystal Egg ×5 | **Dfhf_hgjkr**: Mr. Whiskerpips |
+| 09:21 | **vlados_krash**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion, Catte | **Prettyme9110**: Border Collie (R) |
+| 09:21 | **RobloxIsLif3z**: Pain au Chat ×2 | **Amnada202199**: Ride-A-Pet Potion |
+| 09:21 | **haha36391**: Snowball Pug (R), Hamster, Purrowl, Classic Teapot | **parisluvunicorns**: Snowball Pug (FR) |
+| 09:21 | **rlysaturn**: Frost Dragon (FR), Cow (MFR), Giant Panda (FR), Arctic Reindeer (NFR), Arctic Reindeer, Kangaroo (NFR) ×3, Copycat (NFR), Munchkin Cat (N), Christmas Pudding Pup (N), Pig (R), Toy Monkey (MFR), Business Monkey (MFR) | **method611491**: Crow (MFR) |
+| 09:21 | **MuhammadFahmie2023**: Stray Cat Dragon ×9 | **yourloversstaymyage3**: White Sand Dollar |
+| 09:21 | **w0onlll**: Hare (N), Pupcicle, Kitty Biscuit | **D1SREU**: Hare (NFR) |
+| 09:21 | **iaintgettinghacked_0**: Sugar Glider (R) | **auroverze**: Panda (MFR), Spring Bunny Hood, Bready Necklace, Ride-A-Pet Potion |
+| 09:21 | **R_CMETAHKAlolop**: Diamond Unicorn (NFR), Polar Bear (NR), Sakura Spirit (R), Shadow Dragon Ducky (MFR), Fly-A-Pet Potion, Bunny Swirl | **kawaiifaintedgirl**: Cow (FR) |
+| 09:21 | **flowleyv1**: Unicorn Horn, 2022 Birthday Cupcake Shoes | **Wolfie4567ty**: Cow (FR) |
+| 09:21 | **givinguponroblox**: Aussie Egg, Ride-A-Pet Potion | **mohamed84ll**: Cherry Blossom Hang Glider |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
