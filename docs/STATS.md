@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 01:31 UTC by the scrape workflow._
+_Updated 2026-11-17 01:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 01:31 UTC by the scrape workflow._
 | amvgg | 7 | 24,400 | 2026-11-17T01:30 |
 | elve | 7 | 5,150 | 2026-11-17T01:31 |
 
-## AMVGG completed trades: 26,316 total
+## AMVGG completed trades: 26,363 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 247 |
+| 2026-11-17 | 294 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 01:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:30 | **xLovey_Doveyyx**: Blue Boohoo Mega Neon Paint | **astheticweirdness**: Candyfloss Mega Neon Paint |
-| 01:30 | **Lemontheuro**: Goose (FR) | **sweetn6thing**: Peppermint Penguin (FR) |
-| 01:30 | **hsgsjshdnd**: Ride-A-Pet Potion | **pelotocino320jdjej**: Christmas Pudding House |
-| 01:30 | **NoahRift5224**: Field Mouse (MFR) | **kaylamicmi**: Dango Penguins (MFR), Alley Cat (MFR), Irish Elk (MR) |
-| 01:30 | **Lila_Chanbibi**: Fairy Bat Dragon (FR), Candyfloss Chick (FR), Fly-A-Pet Potion ×7 | **pmpjmg1**: Strawberry Shortcake Bat Dragon (FR) |
-| 01:30 | **sadlyhallow**: Crow (MFR), Blazing Lion (MFR) | **Pixel_art024**: Shadow Dragon (MFR), Rainbow Maker |
-| 01:30 | **awepolarbear**: Balloon Unicorn (R), Arctic Fox | **gavinOMG_66**: Strawberry Tortle ×2, Strawberry Tortle (R) ×3 |
-| 01:30 | **Bnniprince**: Strawberry Shortcake Bat Dragon (FR), Ice Cream Cone Hat | **Lx_mo0n**: Cow (NFR) |
-| 01:30 | **bobaa_m**: Toasty Red Panda, Ghost Dog | **AwhxElli33**: Elf Hat |
-| 01:30 | **ghvstvex**: Munchkin Cat (NFR) | **weshle008**: Pupcicle (MFR) |
-| 01:30 | **Maxgod123_2**: Frog (M), Alley Cat | **weshle008**: Toasty Red Panda (MFR) |
-| 01:30 | **flowercat154**: Ginger Cat (N), Abyssinian Cat (N), Rubber Ducky (M) ×2, California Condor (N) | **raeshiia**: Ride-A-Pet Potion |
-| 01:30 | **FlyToTheSaturn**: Celebrity Mansion | **Kuro_Blacks**: Fly-A-Pet Potion |
-| 01:25 | **FlyToTheSaturn**: Banana Car, Hoverboard ×3, Hovertible, Imagination Box, Micro Car, Squirrel Car, Clown Car ×2, Flower Wagon, Heart Hoverboard | **tutritam174**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 01:25 | **gamereldark_YT**: Halloween White Ghost Dragon (FR), German Shepherd (N) ×2, Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **spwrinklss**: Turtle (FR) |
+| 01:40 | **evieebunnii**: Ride-A-Pet Potion ×2 | **PhoenixEpic85**: Chihuahua ×5 |
+| 01:40 | **LaraIphone16e**: Pig (F), Hyena (R), Ride-A-Pet Potion | **R0gue_Cha0s165**: Border Collie |
+| 01:40 | **iiSimplyYool**: Stitches (M) | **dnei30fast**: Ride-A-Pet Potion |
+| 01:40 | **xorisqa**: Chocolate Chip Bat Dragon (NFR), Spring Bunny Nose | **himyuseris_oiuujkjhh**: Rainbow Maker, Halo, Angel Wings ×2 |
+| 01:40 | **Sharpie_pies**: Tree Sasquatch (M), Mummy Spider ×2 | **dnei30fast**: Ride-A-Pet Potion |
+| 01:40 | **WinterxSnowyy**: Dog (MR), Dog (MFR), Cat (MFR) | **dnei30fast**: Fly-A-Pet Potion |
+| 01:40 | **6evesvokhaha**: Ride-A-Pet Potion | **flowerist0w04577**: Paint Sealer ×18 |
+| 01:40 | **alexgameminecraft**: Ride-A-Pet Potion ×2 | **6evesvokhaha**: Fly-A-Pet Potion |
+| 01:40 | **NanoBlue2005**: Black-Footed Ferret (M) | **1Biahsz_altx**: Ride-A-Pet Potion |
+| 01:40 | **Anshika674**: Crystal Egg ×15 | **Expiredsprinkles13**: Ride-A-Pet Potion |
+| 01:40 | **ilycameli**: Sakura Wings | **Soralove_21**: Pupcicle |
+| 01:40 | **IzeaEboy**: Pupcake (R), Pupcake | **ANNADOG444**: Fly-A-Pet Potion |
+| 01:40 | **Pixel_art024**: Haetae (FR) | **sadlyhallow**: Mini Pig (FR), Undead Jousting Horse (FR), Diamond Butterfly (FR) |
+| 01:40 | **Jimmyjon_JRJR**: Crow (FR), Dalmatian (FR), Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (R), Turtle (R), Frostbite Bear, Polar Bear, Siamese Cat (FR), Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Cattuccino (N), Bee (F), Winter Deer Family Sticker, Cookie Dough Plush, Chocolate Chip Bat Dragon Backpack | **yesterboni0**: Blazing Lion (NFR) |
+| 01:40 | **Antonnyalexander2009**: Puffin (MFR), Goth Shoes, Candyfloss Chick (MFR), 2022 Birthday 5 Badge, Rainbow Maker | **vupxric**: Peppermint Penguin (MFR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
