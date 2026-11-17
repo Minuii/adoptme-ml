@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 11:16 UTC by the scrape workflow._
+_Updated 2026-11-17 11:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 11:16 UTC by the scrape workflow._
 | amvgg | 7 | 33,132 | 2026-11-17T11:15 |
 | elve | 7 | 6,864 | 2026-11-17T11:16 |
 
-## AMVGG completed trades: 27,528 total
+## AMVGG completed trades: 27,546 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,459 |
+| 2026-11-17 | 1,477 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 11:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:15 | **PrincessRepaunzel2**: Strawberry Shortcake Bat Dragon (FR) ×4, Chocolate Chip Bat Dragon (FR) ×3 | **TMDung20**: Royal Mistletroll (MFR) |
-| 11:15 | **dinadu135**: Siamese Cat (MFR) | **DaphiePafie**: Balloon Unicorn (FR) |
-| 11:15 | **Vitek_228666**: Elephant (FR) | **getsdar**: Ride-A-Pet Potion ×15 |
-| 11:15 | **Dasha123DA12**: Onza ×2 | **sleepy_s0ren**: Paint Sealer |
-| 11:15 | **obv1josefin**: Karate Gorilla (N) | **laycakees**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 11:15 | **d0nkeysilly944**: Binturong (N) | **laycakees**: Ride-A-Pet Potion ×3 |
-| 11:15 | **shur00u**: Parrot (FR), Unicorn Horn, Tiny Wings, Fly-A-Pet Potion ×4, Pancake Stack | **ii_aldrin20**: Owl (FR) |
-| 11:15 | **RobloxIsLif3z**: Ginger Cat (M) | **DrizzledTxffee**: Ride-A-Pet Potion |
-| 11:15 | **OleksandrTheDev**: Ice Wolf (FR), Lava Wolf (FR), Fly-A-Pet Potion, Frostbite Cub, Shadow Dragon Ducky, Eggnog Dog, Happy Duckling | **Anya_Plaay**: Vampire Dragon (FR) |
-| 11:15 | **egedrn31**: Lava Wolf (R), Dingo (M), Sweetheart Rat (NR), Pupcicle (R), Ancient Dragon (FR), Blue Whale (FR) | **oh_eql**: Copycat |
-| 11:15 | **saralinn_200**: Snow Leopard ×3 | **Yamajyjopyvazelinov1**: Steppe Lion ×3 |
-| 11:15 | **FlickCod32015**: Copycat ×2, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Anya_Plaay**: Kangaroo (FR) |
-| 11:15 | **dnqlifee**: Wing Hang Glider, Glider, Sunrise Hang Glider | **ALTUSHKA_80**: Fly-A-Pet Potion ×3 |
-| 11:15 | **ulianixx79**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×3, Lion Cub, Sheeeeep (R) | **MathildeFX924**: Cabbit (FR) |
-| 11:11 | **yk_xlea**: Owl (FR) | **0FpyKtiK0**: Strawberry Shortcake Bat Dragon (FR), Turtle (NFR), Cow (FR), Kangaroo (FR), Kangaroo (R), Arctic Fox (N), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
+| 11:25 | **kworixx**: Puma (NFR), Gumball Caterpillar (NR) | **svetap112233**: Ride-A-Pet Potion |
+| 11:25 | **FlickCod32015**: Gemstone Egg ×4 | **T0MA_999**: Pet Handler Pro Certificate |
+| 11:25 | **userulikk**: Turtle (FR) | **barrackpalinka1**: Candyfloss Chick, Tortuga de la Isla |
+| 11:25 | **LacieiiAltAcc**: Copycat, Velocirooster (R), German Shepherd (N) | **twojstarydzikitygrys**: Tortoiseshell Guinea Pig |
+| 11:25 | **Vitek_228666**: Turtle (FR) | **arseniylolol**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×7 |
+| 11:25 | **Vitek_228666**: Fly-A-Pet Potion ×9 | **getsdar**: Ride-A-Pet Potion ×16 |
+| 11:25 | **Just_Mattluo**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **Vitek_228666**: Pig (R) |
+| 11:25 | **zzzzzxxxxxwr9**: Chameleon, Stray Cat Dragon (N), Rubber Ducky (N), Ms. Muffet (N), Dire Wolf | **pinkysworn**: Ride-A-Pet Potion |
+| 11:25 | **zzzzzxxxxxwr9**: Glyptodon Ducky, Milk Choccybunny, Tegu, Shih Tzu, Angus Cow, Gold Mahi Mahi, Mexican Wolf, Grinmoire (N), Muskrat, Crimson Cape, Little Lamb, Black-Footed Ferret, Stitches, Island Tarsier, Purrowl, Electric Hornet, Chihuahua, Galapagos Sea Lion | **pinkysworn**: Ride-A-Pet Potion |
+| 11:25 | **kworixx**: Golden Dragon (R), Golden King Penguin, Golden Egg | **pinkysworn**: Ride-A-Pet Potion |
+| 11:25 | **Nastya_367367**: Santa's Helper Stroller, Lunar New Year Rickshaw Stroller, Stocked Santa Sleigh, Gingerbread Stunt Plane, Marshmallow Friend, Japanese Snow Fairy (N), Security Spotlight | **OBLAKO_74**: Ride-A-Pet Potion |
+| 11:25 | **cherryyz2008**: Munchkin Cat (N) | **riskyactss**: Jellyfish (NR) |
+| 11:25 | **sakurqin**: Naughty Mistletroll (MFR) | **Wait_What206**: Wooly Rhino (MFR), Pirate Hermit Crab (MFR) |
+| 11:25 | **Maayas_17alt1**: Harp Seal (M) | **sysstemofadownn**: Alpaca (R) |
+| 11:25 | **islandicsinger**: Black Widow (N) | **sleepy_s0ren**: Ride-A-Pet Potion ×2, Bat Box |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
