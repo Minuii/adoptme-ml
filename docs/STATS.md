@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 08:25 UTC by the scrape workflow._
+_Updated 2026-11-17 08:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 08:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 30,551 | 2026-11-17T08:15 |
-| elve | 7 | 6,342 | 2026-11-17T08:16 |
+| amvgg | 7 | 30,726 | 2026-11-17T08:30 |
+| elve | 7 | 6,403 | 2026-11-17T08:31 |
 
-## AMVGG completed trades: 27,140 total
+## AMVGG completed trades: 27,141 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,071 |
+| 2026-11-17 | 1,072 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,7 @@ _Updated 2026-11-17 08:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:30 | **Dasha123DA12**: Munchkin Cat (MFR), Unicorn Horn, Ice Cream Cone Hat | **blushbyelle**: Shark Puppy (MFR) |
 | 08:25 | **coralthefishh**: Choco Penguin (MR) | **Sleepy_Sonya112**: Fly-A-Pet Potion ×2 |
 | 08:25 | **Lvpix**: Mummy Spider (M), Dragon (N) | **Sleepy_Sonya112**: Ride-A-Pet Potion |
 | 08:25 | **mohamed84ll**: Strawberry Shortcake Bat Dragon (FR), Tree Decorating Animated Sticker, Frostbite Bear and Cub Animated Sticker ×5, Bat Dragon Sticker ×2, Cotton Candy Hat, Aviator Hat, Bat Wings, Gold Scooter | **z0mbiicorpse**: Cow (FR), Grim Dragon (FR), Rain Cloud Hat |
@@ -46,7 +47,6 @@ _Updated 2026-11-17 08:25 UTC by the scrape workflow._
 | 08:25 | **MADmohamed_110**: Candicorn, Peach Owl (NR) | **Mxso_soup8**: Unicorn Horn |
 | 08:25 | **6isHUNGRY**: Munchkin Cat (NFR), Dango Penguins (MFR), Copycat (N), Sandwich Hat | **FadePinksphone**: Munchkin Cat (MFR) |
 | 08:25 | **DINA_MINA1337**: Sugar Glider (R) | **kagurasgl0w**: Goat (NR) |
-| 08:25 | **lockefoo**: Onza (M), Aestus (FR), Happy Clam, Christmas Pudding Pup, Dragon, Dancing Dragon (FR), Yule Log Dog | **nikitaloooll7**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
