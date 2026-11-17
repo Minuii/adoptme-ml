@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 20:11 UTC by the scrape workflow._
+_Updated 2026-11-17 20:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 20:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 41,560 | 2026-11-17T20:00 |
-| elve | 7 | 8,837 | 2026-11-17T20:01 |
+| amvgg | 7 | 41,792 | 2026-11-17T20:15 |
+| elve | 7 | 8,897 | 2026-11-17T20:16 |
 
-## AMVGG completed trades: 29,398 total
+## AMVGG completed trades: 29,414 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,329 |
+| 2026-11-17 | 3,345 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 20:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:11 | **RiderCyber5886**: Jester Dragon | **karasikshop_20028**: Ride-A-Pet Potion ×5 |
-| 20:11 | **Xxskibidy67**: Dalmatian (R), Cow (FR), Turtle (R) | **solariise**: African Wild Dog (FR) |
-| 20:11 | **Sherine_0807**: Happy Duckling, Kiwi Kiwi, Harp Seal, Prism Snake, Flying Fish (R), Water Moon Bear, Cattuccino, Triple Stroller, Paint Sealer | **roblox_user_9559902919**: Dragonfruit Fox (R) |
-| 20:11 | **h4_cd**: Pet Handler Pro Certificate | **Emaaagirl34**: Tealwood Monster (M) |
-| 20:11 | **spareaccountforme456**: Shadow Dragon (NFR), Parrot (FR), Pig (FR), Pig (R) | **0FF_L1MIT**: Frost Dragon (MFR) |
-| 20:11 | **lipgloss**: Shark Puppy (MFR), Border Collie (MFR), Chocolate Chip Bat Dragon (FR), Turtle (FR) | **Leichisme3**: Peppermint Penguin (MFR) |
-| 20:06 | **Chicknmmmcow**: Purrowl ×9 | **heladitoooUnU**: Ride-A-Pet Potion |
-| 20:06 | **Fairy_Demon190**: Admin Abuse Egg ×2 | **sugar_Tanos**: Skelicorn |
-| 20:06 | **pk_startsnew**: Glyptodon (N) | **lowerbunny**: Ride-A-Pet Potion |
-| 20:06 | **sillybillylilly32345**: Ride-A-Pet Potion ×5 | **Very_valeery**: Santa Hat, Elf Hat |
-| 20:06 | **hefeltsafe**: Retired Egg ×12 | **littlefelonies**: Black Rhino (N) |
-| 20:06 | **Maryha0243**: Hamster (R), Fairytale Egg | **oh_eql**: Billy Goat |
-| 20:06 | **jam0khurt**: Space Whale ×3 | **cutesyiza**: Ride-A-Pet Potion ×2 |
-| 20:06 | **sunyxmisty_Bigfan**: Crocodile (FR), Canadian Goose (MFR), Flaming Fox, Mule, French Bulldog, Lynx, Puffer Fish (NR) | **WhyAreYouSoooDumb**: Chocolate Dutch Guinea Pig (MFR) |
-| 20:06 | **dawg1723**: Mini Pig | **C0PHYAK**: Fly-A-Pet Potion ×15, Pet Handler Pro Certificate ×2 |
+| 20:15 | **roblox_user_8392242805**: Cryptid (FR), Cow (FR), Pig (FR) | **yk_xlea**: Giant Panda (FR) |
+| 20:15 | **wanda_vision680**: Ride-A-Pet Potion ×5 | **KanskjeMatilde**: Punk Pony (M) |
+| 20:15 | **AmandaaX213**: Ride-A-Pet Potion | **evade_andRH**: Baku (FR) |
+| 20:15 | **AKI10PLAY**: Jousting Horse (R) | **LKTF1N**: Ride-A-Pet Potion ×3 |
+| 20:15 | **0nat_11**: Unicorn | **InfinityWave742**: Tuxedo Cat, Monkey ×2, Purrowl |
+| 20:15 | **OJC_Star45**: Count Slothula | **Zomberinoz**: Cake Friend |
+| 20:15 | **eee131431**: Black Rhino (M) | **Nasty_7392**: Jiggly Jerboa (M) |
+| 20:15 | **gold123456love**: Cryptid (FR), Pig (R) | **nikiph9w**: Munchkin Cat (MFR), Rain Cloud Hat |
+| 20:15 | **Just_Kerri4nnnnn**: Happy Clam ×2, Gaelic Fae (R), Tortuga de la Isla (FR) | **ssundylan**: Polar Bear (NFR) |
+| 20:15 | **15xAuroa**: Fly-A-Pet Potion | **MEMESHKAILBRINX**: Ride-A-Pet Potion ×2 |
+| 20:15 | **NotSweatyOnion**: Cow (FR) | **no_name12345654321**: Turtle (FR), Pig (R), Ride-A-Pet Potion |
+| 20:15 | **Popa67742**: Gecko Ducky (M), Sheepdog Ducky (M) | **BiBi_sfkw**: Ride-A-Pet Potion |
+| 20:15 | **001_iiFelx00**: Parrot (FR), Sheeeeep (MFR) | **kittyvxii**: Haetae (FR) ×2 |
+| 20:15 | **kylebarcebas1**: Caterpillar, Red Dutch Guinea Pig | **ALEX_SEG400**: Copycat ×2 |
+| 20:15 | **cupid_bow2**: Skelicorn, Zombie Chick, Purrowl | **kylebarcebas1**: Unfortunate Eyelashes |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
