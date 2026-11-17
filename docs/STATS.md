@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 17:40 UTC by the scrape workflow._
+_Updated 2026-11-17 17:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 17:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 39,072 | 2026-11-17T17:30 |
-| elve | 7 | 8,356 | 2026-11-17T17:31 |
+| amvgg | 7 | 39,338 | 2026-11-17T17:45 |
+| elve | 7 | 8,372 | 2026-11-17T17:45 |
 
-## AMVGG completed trades: 28,849 total
+## AMVGG completed trades: 28,870 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,780 |
+| 2026-11-17 | 2,801 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 17:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:36 | **jypit0410j**: Tiny Wings, Ride-A-Pet Potion | **Banana_peanut67**: Glacier Kitsune (R), Strawberry Penguin (R) |
-| 17:36 | **bubuBUbu0897**: Pain au Chat | **Sadxa2091**: Retired Egg ×18 |
-| 17:36 | **6merizsq**: Christmas Pudding Pup (R) | **Immakiiiii**: Frostbite Cub (NR), Dango Penguins (R), Ride-A-Pet Potion |
-| 17:36 | **ishu5031H**: Copycat | **Immakiiiii**: Jester Dragon (FR) |
-| 17:36 | **Julieta_pika**: Phantom Dragon (FR) | **ivmaho**: Matcha Cat (R) |
-| 17:36 | **Luvv_luxss**: Zombie Wolf (MFR) | **Nutty_1352**: Silly Duck (NFR), Red Dutch Guinea Pig (NFR), Ride-A-Pet Potion |
-| 17:36 | **blushbyelle**: Unicorn Horn, Fallow Deer (MFR), Pupcicle (M), Ice Cream Cone Hat | **cutesyyxharleyss**: Cupid Dragon (MFR) |
-| 17:36 | **kuutar_moonlight**: Rainbow Stroller | **themudwizard**: Ride-A-Pet Potion |
-| 17:36 | **0ali_ice0**: Strawberry Shortcake Ducky | **themudwizard**: Quetzalcoatl ×2 |
-| 17:36 | **addmymain62**: Balloon Unicorn (NFR) | **XiaoFaye1433**: Bush Elephant (MR), Purple Butterfly (M), Alley Cat (M), Llama (MFR), Ram (MFR), Lamb (MFR), Flaming Fox (M), Wooly Rhino (MFR), Lynx (MFR), Snowball Pet (MR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Wooly Rhino, Ram |
-| 17:36 | **Abaddon_Kisser666**: Cabbit (NR) | **idctbf11**: Strawberry Shortcake Bat Dragon (R), Flamingo (R) |
-| 17:36 | **loveminari_6**: Pupcicle | **katosik_0077**: Ride-A-Pet Potion |
-| 17:36 | **Lorraine_thepopgirl**: Evil Unicorn (FR), Undead Jousting Horse (FR), Strawberry Tortle (FR) | **novashion_123**: Parrot (FR) |
-| 17:36 | **hmm_gtw123**: Moose Calf | **anekalubitnaruto**: Pupcicle ×2 |
-| 17:36 | **denis_radinskil**: Fly-A-Pet Potion ×4, Chihuahua | **Varvara08921**: Pig |
+| 17:45 | **ElRambom_900**: Flash Weasel (FR) | **tyiekx10**: Haetyphoon (FR) |
+| 17:45 | **ferrofl7**: Starhopper, Bali Starling, Bullfrog, Beluga Whale, Pistachio, Stegosaurus, Dragon, Mosquito | **Shehatesme420**: Ride-A-Pet Potion |
+| 17:45 | **Pix3lat3dOm3gaSonic5**: Copycat | **anika_plant**: Christmas Pudding Pup |
+| 17:45 | **Adoptmeadventnumber3**: Red Dutch Guinea Pig | **anika_plant**: Polar Bear |
+| 17:45 | **skibidimarzenkauwu**: Moon Rabbit (MR) | **lilxxx_xxxlove**:  |
+| 17:45 | **Harriet_trades**: Huntsman Robin ×4 | **QuintonMelanies2007**: Leopard Cat |
+| 17:45 | **sparklyunicorn339**: Cold Cube | **itz_Dizz01**: Clumpty (N) |
+| 17:45 | **addmymainaccountokay**: Harp Seal (MR), Fly-A-Pet Potion | **kittiefebrurie**: Rain Cloud Hat, Spring Bunny Hood, Spring Bunny Nose, Pancake Stack |
+| 17:45 | **PoliQueenPlovdiv**: Kangaroo (R), Reindeer, Chimera, Lynx (R), Ghost Dog | **xxxxproxxxx5500**: Werewolf (FR) |
+| 17:45 | **flears_brai**: Jester Dragon (FR) | **perit4733**: Ride-A-Pet Potion ×5 |
+| 17:45 | **YuroMiyuk1**: Dilophosaurus (MFR), Chocolate Chip Bat Dragon (FR), Lava Dragon (MFR), Goose (R), Sugar Glider (FR), Chihuahua (MFR), Leopard Cat (MFR), Ride-A-Pet Potion | **werlianess**: Border Collie (MFR) |
+| 17:45 | **h4_cd**: Ride-A-Pet Potion ×2, Mochi Meow ×2 | **muniradypa**: Boohoo (M) ×2 |
+| 17:45 | **Verity_Twink**: Munchkin Cat (R), Sakura Spirit (R) | **gggcdshgg**: Pupcicle ×16 |
+| 17:45 | **addmymain62**: Wooly Rhino (MFR), Lynx (MFR) | **Sadieworldz**: Axolotl (MFR), Chef Gorilla (MFR) |
+| 17:45 | **Pimbo_Peep2011**: Alicorn ×18 | **Roma_1234q**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
