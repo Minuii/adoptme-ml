@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 10:11 UTC by the scrape workflow._
+_Updated 2026-11-17 10:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 10:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 31,995 | 2026-11-17T10:00 |
-| elve | 7 | 6,615 | 2026-11-17T10:01 |
+| amvgg | 7 | 32,221 | 2026-11-17T10:15 |
+| elve | 7 | 6,677 | 2026-11-17T10:16 |
 
-## AMVGG completed trades: 27,334 total
+## AMVGG completed trades: 27,339 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,265 |
+| 2026-11-17 | 1,270 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,11 @@ _Updated 2026-11-17 10:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:15 | **2creme1sucre**: Cow (FR) | **CAXAROK_NBK**: Turtle (FR), Matcha Cat, Pet Handler Pro Certificate, Business Monkey (FR) |
+| 10:15 | **Firen_Clo**: Volcanic Rhino (R) | **0nlyK3ndr4**: Pupcicle |
+| 10:15 | **mrxic2**: Peppermint Penguin (R) | **Pidilypops2nd**: Cow (R), Moose Calf (R) |
+| 10:15 | **kworixx**: Space Whale (FR), Narwhal (R) | **UitrorRen97**: Ride-A-Pet Potion |
+| 10:15 | **pawlakdobry**: Retired Egg ×18 | **cccccccc394**: Slothula Transformation Animated Sticker |
 | 10:11 | **kworixx**: Peacock (R) | **kay_rbx0**: Ride-A-Pet Potion |
 | 10:11 | **DrizzledTxffee**: Velociraptor ×2 | **wiki444512**: Ghost Chick |
 | 10:11 | **k7o7s7m7o7**: Paint Sealer ×18 | **Niruch_Bearly**: Fly-A-Pet Potion |
@@ -42,11 +47,6 @@ _Updated 2026-11-17 10:11 UTC by the scrape workflow._
 | 10:11 | **KatsuTatsuya**: Arctic Fox (R), Red Dutch Guinea Pig, Fly-A-Pet Potion | **xveziox**: Unicorn (MFR) |
 | 10:11 | **NummieNummiegirl**: Fairy Bat Dragon (NFR), Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **blackwing429**: Fairy Bat Dragon (FR), Puffer Fish (MR), Kangaroo (FR), Kangaroo |
 | 10:11 | **kworixx**: Ghost Bunny, Reindeer | **Xlebushek_borebushek**: Ride-A-Pet Potion |
-| 10:11 | **kworixx**: Ginger Cat (NR), Grinmoire (F), Indian Flying Fox (R) | **jazmins_corner**: Ride-A-Pet Potion |
-| 10:11 | **Anorra42**: Fly-A-Pet Potion ×17 | **akusayang275**: Cow (FR) |
-| 10:06 | **kworixx**: Violet Butterfly | **danyypizza121**: Ride-A-Pet Potion |
-| 10:06 | **kworixx**: Ladybug (R), Pine Marten (R), Roadrunner (R) | **tw1nkle3788**: Ride-A-Pet Potion |
-| 10:06 | **Jillian_Clarice**: Cow (NFR) | **R_CMETAHKAlolop**: Cow (FR) ×2, Moon Rabbit (N) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
