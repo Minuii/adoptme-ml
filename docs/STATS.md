@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 23:01 UTC by the scrape workflow._
+_Updated 2026-11-17 23:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 23:01 UTC by the scrape workflow._
 | amvgg | 7 | 44,398 | 2026-11-17T23:00 |
 | elve | 7 | 9,454 | 2026-11-17T23:01 |
 
-## AMVGG completed trades: 29,928 total
+## AMVGG completed trades: 29,956 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,859 |
+| 2026-11-17 | 3,887 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 23:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:00 | **InfinityWave742**: Thunderfisher | **tommylikeroblox2009**: Retired Egg ×2 |
-| 23:00 | **InfinityWave742**: Boohoo | **tommylikeroblox2009**: Retired Egg |
-| 23:00 | **tommylikeroblox2009**: Thunderfisher | **ezgizemfan23**: Retired Egg ×5 |
-| 23:00 | **Dr9iser**: African Wild Dog (FR), Fly-A-Pet Potion, Rain Boots, Ice Cream Cone Hat | **ur_lungzz**: Siamese Cat (MFR) |
-| 23:00 | **elfania_3**: Chihuahua (N) | **EHSTASAMKAS**: Fly-A-Pet Potion |
-| 23:00 | **PipEerrSsPinKY**: Clementine Owl (M) | **EHSTASAMKAS**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 23:00 | **Aggr0berlin**: Starhopper, Stitches (M), Stygian Owl (M) | **VerMora_PLUS**: Snow Monkey |
-| 23:00 | **liofe1**: Count Slothula ×8 | **TsukiKito**: Matcha Cat |
-| 23:00 | **lera5132**: Fly-A-Pet Potion ×16 | **luke1_164**: Cow (FR) |
-| 23:00 | **Adoptmestocks3000**: Ride-A-Pet Potion | **Atlet326**: Pupcake |
-| 23:00 | **Shehatesme420**: Chihuahua | **Reya426**: Toasty Red Panda, Choco Penguin |
-| 23:00 | **myacc_gotpermbanned**: Ride-A-Pet Potion ×3 | **NotSweatyOnion**: Ghost (M) |
-| 23:00 | **Luvbambii**: Balloon Unicorn (NFR) | **Katseye_Fanlaraaaaa**: Cryptid (NFR), Angel Wings, Dalmatian (NFR), Unicorn Horn, Spring Bunny Hood, Ride-A-Pet Potion |
-| 23:00 | **Xxskibidy67**: Pig (R) | **forto04111**: Sheeeeep (FR), Ride-A-Pet Potion ×2 |
-| 23:00 | **fifi_kikie**: Cabbit (MFR), Ring-Tailed Lemur (MFR) ×2, Pig (MFR), Dancing Dragon (MFR), Dango Penguins (MFR), Chocolate Dutch Guinea Pig (MFR) ×3, Leopard Shark (MFR) ×2, 2022 Birthday Party Horn | **MERCEDESE300COUPE**: Bat Dragon (FR) |
+| 23:11 | **vh4unted**: S'mores Raccoon | **Kir4kaa**: Pupcicle |
+| 23:11 | **clihello**: Puffin (M), Cherry-On-Top | **lmao_fyp**: Shark Puppy (MFR) |
+| 23:11 | **Iheartwho9**: Chocolate Chip Bat Dragon (NFR) | **sursyrzytxurzutzutz**: Chocolate Chip Bat Dragon (FR), Goose, Tortuga de la Isla (NR), Christmas Pudding Pup, Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×4, Ice Cream Cone Hat, Pet Handler Pro Certificate |
+| 23:11 | **ryukitty2**: Goose (FR), Siamese Cat (N), Arctic Fox (N), Honey Badger (MFR), Dragonfruit Fox (MFR), Candy Hare (MFR), Giant Anteater, Lion (FR), Rain Cloud Hat, Tortuga de la Isla (R), Lamb (R) | **MERCEDESE300COUPE**: Cabbit (MFR) |
+| 23:11 | **Roblox_suchti42167**: Ride-A-Pet Potion ×16 | **Vitek_228666**: Kangaroo (FR) |
+| 23:11 | **Michaelsfat**: Arctic Reindeer, Copycat (MFR), Burger Bear (M), Snow Owl (N) | **W1NT3R_991224**: Rainbow Maker ×2, Unicorn Horn ×2 |
+| 23:11 | **Andrea_Cherrybear**: Candyfloss Chick (FR) | **kaibodydump**: Toaster Hat, Tiny Wings |
+| 23:11 | **Mishka_top4ik999**: Ride-A-Pet Potion ×2, Gemstone Egg, Pain au Chat | **inputw**: Ice Wolf (R) |
+| 23:11 | **M1cahsWRLD**: Fairy Bat Dragon (FR), Fly-A-Pet Potion | **otonite7**: Rain Cloud Hat, Yeti (MR) |
+| 23:11 | **Nastya_Mihalyk**: Mochi Meow (MR) | **popadastr000**: Ride-A-Pet Potion ×3 |
+| 23:11 | **no_anniaomg**: Candyfloss Chick (FR), Spring Bunny Hood, Ride-A-Pet Potion | **adrncldrn**: Alpaca |
+| 23:11 | **SebasMendesLoL**: Candicorn (R), Ride-A-Pet Potion ×2, Catte | **baby_demonakakj**: Unicorn Horn |
+| 23:11 | **WhiteBoy19**: Husky (MR), Ride-A-Pet Potion ×2 | **2illiberal**: Hot Doggo (FR) |
+| 23:11 | **jam_es12348**: Cryptid (FR), Cow (FR), Fly-A-Pet Potion | **pssixotrop**: Dalmatian (R), Chocolate Chip Bat Dragon (R) |
+| 23:11 | **fluffy_hair5**: Count Slothula (MF), Count Slothula ×6 | **NotSweatyOnion**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
