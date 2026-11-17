@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 03:45 UTC by the scrape workflow._
+_Updated 2026-11-17 03:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 03:45 UTC by the scrape workflow._
 | amvgg | 7 | 26,498 | 2026-11-17T03:45 |
 | elve | 7 | 5,568 | 2026-11-17T03:45 |
 
-## AMVGG completed trades: 26,639 total
+## AMVGG completed trades: 26,654 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 570 |
+| 2026-11-17 | 585 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 03:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:45 | **TuGatitaSalvajeuwu**: Chocolate Dutch Guinea Pig | **MyacountJohnwcrtba**: Black Panther |
-| 03:45 | **Urweridxoxo**: Ride-A-Pet Potion | **Foodie_Caat**: Ram |
-| 03:45 | **Dani_phant0mDork**: Harp Seal | **cxrlos_tungsaur**: Chocolate Dutch Guinea Pig |
-| 03:45 | **Sirswagalishsus**: Shark Puppy (F) | **llanpro_gamer**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Pet Handler Pro Certificate, Strawberry Stroller, Cattuccino, Shadow Dragon Skateboard, Dinner Discourse Cat Sticker |
-| 03:45 | **valxmimx**: Purrowl ×18 | **Bomba333555777**: Purrowl (M) |
-| 03:45 | **Bunni_Rainbowpop**: Ride-A-Pet Potion | **0MGSARAY**: Thinking Hat |
-| 03:45 | **iicorgi_lover**: Thunderfisher ×5 | **Janxiee4**: Retired Egg ×8 |
-| 03:40 | **mgjgmwg**: Evil Unicorn (FR), Caelum Cervi (NFR), Queen Bee (NFR), Mini Pig, Turtle (FR) ×2, Crocodile (R), Strawberry Tortle (F), Ride-A-Pet Potion | **AnthonysAlt_0**: Frost Dragon (FR) |
-| 03:40 | **smallstpuppii**: Tiny Wings | **eulien_37**: Munchkin Cat |
-| 03:40 | **winnie_chocolate1**: Frost Dragon (FR), Dalmatian (FR), Mini Pig (FR), Arctic Fox (FR), Arctic Fox (R) | **bermido80**: Giraffe (FR) |
-| 03:36 | **xGothiycx**: Alley Cat (NFR) | **ssillymizukii**: Caterpillar (FR) |
-| 03:36 | **sorrowpage**: Great Pyrenees (MFR) | **Kui_Yeager**: Great Pyrenees (M), Ride-A-Pet Potion ×2 |
-| 03:36 | **Ruperto_1297**: Elephant (R) | **mariema454**: Ride-A-Pet Potion, Fly-A-Pet Potion ×7 |
-| 03:36 | **JustRomanBrooks**: Scarebear (MFR) | **B1nnie2**: Siamese Cat (FR) |
-| 03:36 | **XxxSachaxxX1**: Rainbow Maker ×2, Alien Eyes Hat, Strawberry Hat, Chocolate Chip Bat Dragon Backpack, White Designer Backpack, Bat Backpack, Bewitched Hat, Midnight Wings, Venus Flytrap Hat, Strawberry Shortcake Bow, Tutu, Leprechaun Hat, Summer Straw Hat, Nest of Eggs, Ghost Kitty Backpack, Heart Bow, Pink Instant Camera | **KENZINMARS**: African Wild Dog (FR) |
+| 03:50 | **vaIxhrtz**: Turtle (R), Hyena (NFR), Silly Duck | **Xxshad0wf0xxX**: 2022 Birthday Party Horn, Spring Bunny Hood ×3, Unicorn Backpack ×2, Pancake Stack, Bready Necklace ×2 |
+| 03:50 | **Solecitalamasbonita**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **MersuJanhir13**: Choco Penguin (M), Flaming Fox, Puptune (NR) |
+| 03:50 | **Ilovefortnighttehe**: Swan (MFR) | **soy_anonim6**: Cow (FR) |
+| 03:50 | **cinammoroll_bun**: Shrew (NFR), Ride-A-Pet Potion | **slaypookieperspn**: Harp Seal (MFR) |
+| 03:50 | **swocketeers**: Amethyst Penguin (FR) | **m4rshalI**: Cryptid |
+| 03:50 | **DalePearson8409**: Mini Pig (R), Cabbit (FR), Cow (FR), Fairy Bat Dragon (FR), Ballet Swan, Ride-A-Pet Potion | **MatiXD12306**: African Wild Dog (FR) |
+| 03:50 | **1s2ll**: Haetyphoon, Strawberry Penguin | **tanijro909**: Pig (NFR) |
+| 03:50 | **Pushhxxt**: Christmas Pudding Pup (MFR), Candicorn (FR) | **Jeemin_Bang**: Undead Jousting Horse (NFR) |
+| 03:50 | **justunujede123**: Spring Bunny Hood, Fly-A-Pet Potion | **getsdar**: Frost Fury (FR) |
+| 03:50 | **vegetasggaccount**: Peppermint Penguin (MFR), Alpaca (MFR), Werewolf (MFR), Ride-A-Pet Potion | **lanaisdelrey**: Hedgehog (MFR) |
+| 03:50 | **Vachonpon**: Crocodile (R) | **AsianIceCold**: Blue Dog (FR) |
+| 03:50 | **Octolootom**: Tanuki (N), Ride-A-Pet Potion | **August_lizard1217**: Fly-A-Pet Potion |
+| 03:50 | **Donutser2**: Balloon Unicorn (FR), Mini Pig (R), Chocolate Dutch Guinea Pig (M), Toaster Hat ×3, Ice Cream Cone Hat, Spring Bunny Nose, Fly-A-Pet Potion, Sneak Weasel (M), Alien Eyes Hat, Ice Cream Heels, Thinking Hat, Eyepatch | **higuysitskobe**: Cryptid (NFR) |
+| 03:50 | **HOONMINLIXGYU**: Ride-A-Pet Potion ×3 | **ELVEAMVGGTRADER890**: Cute-A-Cabra (M) |
+| 03:50 | **yomoiki**: Amethyst Skies Mega Neon Paint ×3 | **Secret_Secretov321**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
