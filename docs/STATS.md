@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 23:11 UTC by the scrape workflow._
+_Updated 2026-11-17 23:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 23:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 44,398 | 2026-11-17T23:00 |
-| elve | 7 | 9,454 | 2026-11-17T23:01 |
+| amvgg | 7 | 44,646 | 2026-11-17T23:15 |
+| elve | 7 | 9,514 | 2026-11-17T23:16 |
 
-## AMVGG completed trades: 29,956 total
+## AMVGG completed trades: 29,963 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,887 |
+| 2026-11-17 | 3,894 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,13 @@ _Updated 2026-11-17 23:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:15 | **robloxiana_79943**: Count Slothula (NFR) | **VurAlAbi**: Chocolate Dutch Guinea Pig, Pupcicle ×2, Mummy Spider (M) |
+| 23:15 | **doksha12345**: Candicorn (FR) | **ba_yina**: Kangaroo (FR) |
+| 23:15 | **okayzvezda**: Easter Eggy Box, Halloween Mummy Cat Box, Pony Box, Ice Tray | **dnei30fast**: Fly-A-Pet Potion |
+| 23:15 | **Yourbestie_65**: Border Collie (R), Turtle (FR), Kangaroo (NFR), Werewolf (R), Harp Seal (MR) | **yk_xlea**: Cryptid (FR) |
+| 23:15 | **s1m4kk**: Tarsier, Admin Abuse Egg | **riceb4II**: Kiwi Kiwi |
+| 23:15 | **kyovd1r**: Husky, Chocolate Dutch Guinea Pig (R), Ghost Bunny, Stray Cat Dragon (N), Stray Cat Dragon (R), Ketchup and Mustard Jetpack, Maine Coon (N), Chimera (R), Fleur De Ice (R), Dogmobile, Ride-A-Pet Potion, Wild Boar | **dnei30fast**: Tortoiseshell Guinea Pig |
+| 23:15 | **flozzabozza07**: Ride-A-Pet Potion | **YOKOZ303**: Purple Heart Glasses, Glormy Backpack, Sloth |
 | 23:11 | **vh4unted**: S'mores Raccoon | **Kir4kaa**: Pupcicle |
 | 23:11 | **clihello**: Puffin (M), Cherry-On-Top | **lmao_fyp**: Shark Puppy (MFR) |
 | 23:11 | **Iheartwho9**: Chocolate Chip Bat Dragon (NFR) | **sursyrzytxurzutzutz**: Chocolate Chip Bat Dragon (FR), Goose, Tortuga de la Isla (NR), Christmas Pudding Pup, Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×4, Ice Cream Cone Hat, Pet Handler Pro Certificate |
@@ -40,13 +47,6 @@ _Updated 2026-11-17 23:11 UTC by the scrape workflow._
 | 23:11 | **Michaelsfat**: Arctic Reindeer, Copycat (MFR), Burger Bear (M), Snow Owl (N) | **W1NT3R_991224**: Rainbow Maker ×2, Unicorn Horn ×2 |
 | 23:11 | **Andrea_Cherrybear**: Candyfloss Chick (FR) | **kaibodydump**: Toaster Hat, Tiny Wings |
 | 23:11 | **Mishka_top4ik999**: Ride-A-Pet Potion ×2, Gemstone Egg, Pain au Chat | **inputw**: Ice Wolf (R) |
-| 23:11 | **M1cahsWRLD**: Fairy Bat Dragon (FR), Fly-A-Pet Potion | **otonite7**: Rain Cloud Hat, Yeti (MR) |
-| 23:11 | **Nastya_Mihalyk**: Mochi Meow (MR) | **popadastr000**: Ride-A-Pet Potion ×3 |
-| 23:11 | **no_anniaomg**: Candyfloss Chick (FR), Spring Bunny Hood, Ride-A-Pet Potion | **adrncldrn**: Alpaca |
-| 23:11 | **SebasMendesLoL**: Candicorn (R), Ride-A-Pet Potion ×2, Catte | **baby_demonakakj**: Unicorn Horn |
-| 23:11 | **WhiteBoy19**: Husky (MR), Ride-A-Pet Potion ×2 | **2illiberal**: Hot Doggo (FR) |
-| 23:11 | **jam_es12348**: Cryptid (FR), Cow (FR), Fly-A-Pet Potion | **pssixotrop**: Dalmatian (R), Chocolate Chip Bat Dragon (R) |
-| 23:11 | **fluffy_hair5**: Count Slothula (MF), Count Slothula ×6 | **NotSweatyOnion**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
