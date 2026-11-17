@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 16:46 UTC by the scrape workflow._
+_Updated 2026-11-17 16:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 16:46 UTC by the scrape workflow._
 | amvgg | 7 | 38,302 | 2026-11-17T16:45 |
 | elve | 7 | 8,148 | 2026-11-17T16:45 |
 
-## AMVGG completed trades: 28,689 total
+## AMVGG completed trades: 28,717 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,620 |
+| 2026-11-17 | 2,648 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 16:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:45 | **Babielily1**: Chocolate Chip Bat Dragon (NFR), Fly-A-Pet Potion | **minismudgepanda**: Hedgehog (R), Strawberry Shortcake Bat Dragon (FR) |
-| 16:45 | **mommy_vka123**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **Vitek_228666**: Irish Water Spaniel (R) |
-| 16:45 | **bakedkole**: Unicorn (NR) | **afissamuzfirah**: Ride-A-Pet Potion ×4 |
-| 16:45 | **xXxshadowninjaAlexYT**: Fairy Bat Dragon (FR), Jester Dragon (R), Rotating Periscope | **Takam3**: Cow (FR), Ride-A-Pet Potion |
-| 16:45 | **Fernando_13146**: Sushi Penguin, Monkey | **katerina_ishchak**: Ride-A-Pet Potion |
-| 16:45 | **Gabriele143love**: Elephant (FR), Tiny Wings, Fallow Deer (NFR), Fly-A-Pet Potion | **abdoosaad**: Dragonfruit Fox (MFR) |
-| 16:45 | **Cloudystars2210**: Arctic Fox (FR), Munchkin Cat, Bunny Ear Tiara | **yeuksyrudtry56**: Kangaroo (FR) |
-| 16:45 | **LiekeLuvsWillow**: Cotton Candy Hat, Pink Cat Ear Headphones, Spring Bunny Feet, Spring Bunny Hood ×2, Strawberry Penguin (R), Alley Cat (NFR), Fly-A-Pet Potion | **sweetandpoetic**: Cow (FR) |
-| 16:45 | **izzztya**: Cow (FR), Cow (R), Caterpillar (R), Bush Elephant (R), Rain Cloud Hat, Toaster Hat, Candyfloss Chick (FR), Siamese Cat, Sugar Glider (R), Capybara (N), Munchkin Cat, Goose (R), Goose, Fly-A-Pet Potion ×2 | **ElFanan_Asser**: Frost Dragon (FR) |
-| 16:45 | **MM_Cloud**: Stray Cat Dragon ×11 | **Yana_dog151**: Ride-A-Pet Potion |
-| 16:45 | **Chacha3538**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Spring Bunny Feet, Caramelgeist (M), Caramelgeist (N) | **nhhbfdxw**: Copycat |
-| 16:45 | **awsrrex**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **TwistedK1tty**: Hedgehog (FR), Cow (FR) |
-| 16:45 | **00dolls**: Shark Puppy (FR) | **Igs0n**: Alley Cat (NR) |
-| 16:45 | **TheAddictedSpider**: Border Collie (MFR), Irish Water Spaniel (R) | **MEM_DO4**: Owl (FR) |
-| 16:45 | **RobloxIsLif3z**: Clumpty (M), Budgie Witch (M), Ms. Muffet (M) | **Varenkarciktwo**: Ride-A-Pet Potion |
+| 16:50 | **N0AH_XRM**: Kid Goat (MR), Lunar Tiger (MR), Mummy Spider (M) | **sfchibko**: Catte (N) |
+| 16:50 | **crazy4ukat**: Arctic Dusk Dragon (R) | **TheXpepparoni**: Clover Cow (MFR) |
+| 16:50 | **fallowdeeerz**: Chocolate Chip Bat Dragon (FR), Albino Bat (MFR), Dimorphodon (NR), Skunk (NR), Amami Rabbit (M), Jeff's Nametag, Ride-A-Pet Potion | **jasminesep16**: Shrew (MFR) |
+| 16:50 | **klelopokjh**: African Wild Dog (R) | **Kvammletitraketa**: Border Collie (NFR), Border Collie (FR), Jellyfish, Ring-Tailed Lemur (NFR), Woolly Mammoth (MR), Jekyll Hydra Animated Sticker, Ice Wolf (FR), Cattuccino (M), Boohoo (M), Unicorn, Seahorse (N), Red Panda Ducky (M), Gecko Ducky (M), Sheepdog Ducky (M), Lion Cub (R), Brown Bear (R), Spring Bunny Hood, Ice Cream Cone Hat |
+| 16:50 | **hiwhat043**: Chocolate Chip Bat Dragon (FR) | **fd43730**: Kangaroo (FR), Arctic Fox (FR) ×2, Copycat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Zombie Buffalo (R), Spring Bunny Hood, Shadow Dragon Ducky (MFR), Purple Heart Glasses, Violet Friend (M) |
+| 16:50 | **v6mpireeee**: Ride-A-Pet Potion | **robloxer_3614**: Chocolate Chip Bat Dragon Backpack |
+| 16:50 | **papalla007xd**: Cryptid (FR), Winged Tiger (FR) | **Farm_adopt555**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 16:50 | **liza_sigma666**: Amami Rabbit | **Alycialolpop1**: Ride-A-Pet Potion |
+| 16:50 | **EX0EMMA**: Lava Wolf (MFR) | **q_culvs**: Cow (FR) |
+| 16:50 | **Yejichan34**: Mighty Haetyphoon Animated Sticker | **AdoptmeLola_5**: Pupcicle |
+| 16:50 | **akhikic**: Dalmatian (FR) | **Xxx_nightz**: Siamese Cat (NFR), Copycat (N), Fly-A-Pet Potion |
+| 16:50 | **v1koko228**: Crow (FR), Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×2 | **Sunny_Frinch**: Parrot (FR) |
+| 16:50 | **Giyou_Tomoko**: Pupcicle, Fairytale Egg | **Alycialolpop1**: Ride-A-Pet Potion |
+| 16:50 | **Davy9745**: Copycat (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Lem0n_org**: Undead Jousting Horse (NFR) |
+| 16:50 | **kh6rin**: Pupcicle | **Alycialolpop1**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
