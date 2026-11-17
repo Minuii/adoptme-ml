@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 19:01 UTC by the scrape workflow._
+_Updated 2026-11-17 19:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 19:01 UTC by the scrape workflow._
 | amvgg | 7 | 40,605 | 2026-11-17T19:00 |
 | elve | 7 | 8,639 | 2026-11-17T19:01 |
 
-## AMVGG completed trades: 29,141 total
+## AMVGG completed trades: 29,168 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,072 |
+| 2026-11-17 | 3,099 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 19:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:00 | **Elliottysup**: Sheeeeep | **rainbow_shiny152**: Christmas Pudding Pup |
-| 19:00 | **0to_pic0**: Frost Fury (FR), Unicorn (NFR), Waffle Wyrm (MFR), Skelebat (MFR), Robo Dog (NFR), Dragon (R), Ride-A-Pet Potion | **7H3ST**: Frost Unicorn (FR) |
-| 19:00 | **Giggles91714**: Candicorn (MFR), Sushi Penguin (M) | **fifi_kikie**: Cupid Dragon (MFR), Ram (MFR) |
-| 19:00 | **federicospzgamesyt**: Candicorn (FR) | **higuysitskobe**: Pumpkin |
-| 19:00 | **BlizzardvwQuantumO13**: Giant Panda (MFR), Owl (MFR), Goose (MFR), Alpaca (MFR), Cabbit (MFR), Candyfloss Chick (MFR), Siamese Cat (MFR), Shark Puppy (MFR), Balloon Unicorn (FR), Snow Monkey (MFR), Unicorn Horn | **adorxelian**: Bat Dragon (MFR) |
-| 19:00 | **Robloxian19039878**: Fly-A-Pet Potion | **Brainrot_rebird**: Ride-A-Pet Potion ×2 |
-| 19:00 | **shwriiimp**: Pancake Stack | **Eskender_rbx**: Latte Kitsune |
-| 19:00 | **NoRiskNoFun_12**: Strawberry Penguin (NR), Boohoo (M), Ride-A-Pet Potion | **DtiHelper8**: Field Mouse (NFR) |
-| 19:00 | **Marsh0ll1**: Fairy Bat Dragon (M), Fairy Bat Dragon (MFR), Cabbit (MFR), Mermicorn (MFR) ×3, Arctic Dusk Dragon (M), Jester Dragon (M), Copycat (M), Cupid Dragon (MFR) ×2, Ballet Swan (MFR), Ice Wolf (MFR), Royal Corgi (M), Rose Dragon (MFR) ×4 | **Brainrot_rebird**: Bat Dragon (NFR), Cryptid (MFR), Undead Jousting Horse (MFR), Hot Doggo (MFR) |
-| 19:00 | **zow_98alt**: Owlbear (N), Ride-A-Pet Potion ×2 | **Lyn_me1**: Owlbear (NFR) |
-| 19:00 | **jnsduqk**: Chocolate Chip Bat Dragon (NFR) | **Lana_339**: Giant Panda (FR) |
-| 19:00 | **AugustTrading2025**: Copycat (R), Copycat, Pancake Stack | **4532Piggy**: Haetyphoon (FR) |
-| 19:00 | **lexcor3**: Ride-A-Pet Potion ×2 | **Bikunom**: Duck Stroller |
-| 19:00 | **sashalox13345**: Giraffe (FR), Influencer Gibbon (MFR), Albino Monkey (FR), T-Rex (MFR) | **PrincessRepaunzel2**: Royal Mistletroll (MFR) |
-| 19:00 | **kawaii_cake143**: Kangaroo (FR), Brown Bear (R), Hare (R), Lamb (FR), Ride-A-Pet Potion ×5 | **op_con0**: Peppermint Penguin (FR) |
+| 19:11 | **dardaruni**: Arctic Fox | **xvPotatomuncher1**: Tiny Wings |
+| 19:11 | **SWeetPEa4nuGGeT**: Goose (MFR), Halo | **m4rshalI**: Cabbit (MFR), Mule (NR), Ice Cream Cone Hat |
+| 19:11 | **LoveMasha_242**: Blue Boohoo Mega Neon Paint, Dragon (R), Nightmare Owl (R), Ancient Dragon (R) | **realacckeira8v**: Mrs. Whiskerpips (M) |
+| 19:11 | **chrxmaxc**: Field Mouse (MFR), Cow (FR), Ninja Monkey (NFR), Ride-A-Pet Potion | **xf3y4a**: Crow (FR) |
+| 19:11 | **Im_HappyXuXi**: Cow (R) | **jebiilerium**: Copycat (FR), Copycat ×4, Ride-A-Pet Potion |
+| 19:11 | **pikish_5**: Arctic Reindeer (FR), Fairy Bat Dragon (FR) | **xZetherx**: Hedgehog (FR), Ride-A-Pet Potion |
+| 19:11 | **pawthetiic**: Rose Dragon (MFR), Unicorn Horn, Fly-A-Pet Potion | **obv1kylxx**: Dango Penguins (M), Ice Cream Hermit Crab (MR) |
+| 19:11 | **drag3nrich**: Crow (FR), Dalmatian (R) | **Sanster47**: Strawberry Shortcake Bat Dragon (FR) ×3, Diamond King Penguin, Ride-A-Pet Potion ×4, King Bee (F), Cow (FR) |
+| 19:11 | **Alisa506g**: Giraffe (FR) | **lexcor3**: Parrot (FR), Jellyfish (MFR), Peppermint Penguin (FR), Irish Water Spaniel (NFR), Frost Unicorn (R), Fly-A-Pet Potion ×3, Mrs. Whiskerpips (N) |
+| 19:11 | **Yahx4xEvr**: Peppermint Penguin, Crystal Egg | **saskitima**: Fly-A-Pet Potion ×13, Ride-A-Pet Potion ×5 |
+| 19:11 | **rainpub**: Royal Palace Spaniel (MFR), Dire Wolf (MR), Ice Wolf (R), Husky (NFR), Therapy Dog (MR), Puptune (MR), Australian Kelpie (MFR), Pandaguin Glooptodog (M) | **abdoosaad**: Candicorn (NFR) |
+| 19:11 | **minismudgepanda**: Bakeneko (M) | **l0tso0**: Chocolate Dutch Guinea Pig |
+| 19:06 | **botoxedbody**: Pancake Stack | **Diamondprinces32**: Ride-A-Pet Potion ×3 |
+| 19:06 | **Sonic_678899**: Pupcicle (MFR) | **ZarraDii**: Candicorn (FR), Ride-A-Pet Potion |
+| 19:06 | **Jeansppk**: Fly-A-Pet Potion | **juanitox646566**: Pineapple Owl |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
