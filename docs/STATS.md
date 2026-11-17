@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 10:31 UTC by the scrape workflow._
+_Updated 2026-11-17 10:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 10:31 UTC by the scrape workflow._
 | amvgg | 7 | 32,447 | 2026-11-17T10:30 |
 | elve | 7 | 6,723 | 2026-11-17T10:31 |
 
-## AMVGG completed trades: 27,384 total
+## AMVGG completed trades: 27,436 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,315 |
+| 2026-11-17 | 1,367 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:30 | **Catzini_1**: Kookaburra (MFR), Frostbite Bear (R), Royal Mistletroll (FR) | **EriOnSuMa**: Arctic Dusk Dragon (MFR) |
-| 10:30 | **seb_ihhh**: Unicorn ×4 | **SoloGhost442149**: Ballet Swan |
-| 10:30 | **amvggbunni_won**: Ride-A-Pet Potion ×2 | **EriOnSuMa**: Fly-A-Pet Potion |
-| 10:30 | **Its_soulseekk**: Moon Rabbit, Ghost Wolf (N) | **Fidelia2131415**: Ride-A-Pet Potion |
-| 10:30 | **Whyisyourpeeblue**: Retired Egg ×18 | **fahrodupencheng**: Mummy Spider ×9 |
-| 10:30 | **Roblocksowl**: Copycat ×3, Rain Cloud Hat, 2022 Birthday Party Horn, Toaster Hat, Ice Cream Cone Hat, Spring Bunny Hood ×2, Pancake Stack ×4, Rain Boots ×2, Sandwich Hat, Copter Hat, Spring Bunny Feet | **abdoosaad**: Jester Dragon (MFR) |
-| 10:30 | **MohamedAfj1**: Frostbite Cub (MFR), Black Macaque (MFR) | **amvggalt1**: Catte (MFR) |
-| 10:30 | **kworixx**: Sushi Penguin, Mecha Meow | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 10:30 | **werlianess**: Strawberry Tortle (NFR), Firefly (MFR), Llama (R), Ride-A-Pet Potion ×5 | **8ounty8um**: Giant Panda (FR) |
-| 10:30 | **johnpatricktasunci16**: Count Slothula ×14 | **love4shajeriaa**: 2022 Birthday Confetti Cannon |
-| 10:30 | **Santywut1**: Border Collie (FR) | **egedrn31**: Jousting Horse (NR), Lamb (FR) |
-| 10:30 | **clarisse_tubeuse**: Great Pyrenees (M) | **johnpatricktasunci16**: Count Slothula ×12 |
-| 10:30 | **CurryTheKoala**: Latte Kitsune (F) | **Bryce_blr**: Ride-A-Pet Potion ×3 |
-| 10:30 | **kworixx**: Villain Gibbon, Burger Bear (F) | **laur3star**: Ride-A-Pet Potion |
-| 10:30 | **FlickCod32015**: Gemstone Egg ×6 | **vivisam1100**: Lava Dragon (FR) |
+| 10:40 | **antuco_tuco909**: Haetae (FR), Chocolate Chip Bat Dragon (FR), Candyfloss Chick (R) | **abobus3484665**: Owl (FR) |
+| 10:40 | **02_Arik**: Pupcake | **PixiePawsTrade**: Ride-A-Pet Potion |
+| 10:40 | **AMINO4KA7U**: Ride-A-Pet Potion ×4 | **Amalia29120**: Merry Mistletroll (NFR), Christmas Spirit (NR), Snowman (R), Mrs. Whiskerpips (N) |
+| 10:40 | **kworixx**: Nautilus (R), Shiba Inu (R), Toucan (R) | **DrizzledTxffee**: Ride-A-Pet Potion |
+| 10:40 | **kworixx**: Sunglider (R), Black Macaque (R) | **DrizzledTxffee**: Ride-A-Pet Potion |
+| 10:40 | **cc0uture16**: Fennec Fox (N), Kelp Crewmate (N) | **exotiqsss**: Chameleon |
+| 10:40 | **Its_soulseekk**: Arctic Reindeer (R), Cow (FR) | **ugor1985**: Evil Unicorn (FR) |
+| 10:40 | **TsukiakariShirayuki**: Sushi Penguin (MFR) | **milanakim12**: Albino Monkey (FR), Tortuga de la Isla |
+| 10:40 | **kaxuu_u**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **xPixieFixie**: Binturong (NR) |
+| 10:40 | **cuteseals168**: Pupcicle (MFR), Cotton Candy Hat, Tutu | **Meowkittiikat**: Harp Seal (MFR) |
+| 10:40 | **daran_waren**: Onza (M) | **LaymushkaUwU**: Ride-A-Pet Potion |
+| 10:40 | **Wikitos5**: Pupcicle (N) ×3 | **zzz1msleepy**: Count Slothula (M) |
+| 10:40 | **naucietr**: Flamingo (FR), Crocodile (FR) | **viwi_1**: Cow (FR) |
+| 10:40 | **vennieemylove**: Rainbow Maker | **angelicpretti**: Strawberry Shortcake Bat Dragon (FR) |
+| 10:40 | **luvyerh**: Cow (FR) | **Cutewaeilae**: Elephant (R), Pig (R), Arctic Fox (R), Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
