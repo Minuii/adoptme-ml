@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 16:31 UTC by the scrape workflow._
+_Updated 2026-11-17 16:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 16:31 UTC by the scrape workflow._
 | amvgg | 7 | 38,042 | 2026-11-17T16:30 |
 | elve | 7 | 8,126 | 2026-11-17T16:31 |
 
-## AMVGG completed trades: 28,625 total
+## AMVGG completed trades: 28,633 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,556 |
+| 2026-11-17 | 2,564 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,14 @@ _Updated 2026-11-17 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 16:36 | **pimchesj00**: Ride-A-Pet Potion, Pet Handler Pro Certificate | **SantaniyxRBLX**: Jousting Horse |
+| 16:36 | **amyggvaI**: Flash Weasel, Nessie (FR), Ermine (MR), Ride-A-Pet Potion ×2 | **vantpng**: Turtle (FR) |
+| 16:36 | **Mor0rojenka**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Sugar Glider, Candyfloss Chick (FR), Bush Elephant (FR), Glormy Leo (R), Glormy Leo, Goth Shoes, Arctic Fox (R), Burger Boots | **faikubjotch**: Owl (FR) |
+| 16:36 | **MM_Cloud**: Stray Cat Dragon ×11 | **Minera_v1**: Ride-A-Pet Potion |
+| 16:36 | **Bear119099**: Hippo (N) | **mArg0_Tubb1e**: Pupcicle (R) |
+| 16:36 | **Wolfyxqwq**: Bunny Swirl (N) | **s11lena**: Llama (R) |
+| 16:36 | **HELENA_GUEMER12494**: Fly-A-Pet Potion | **realacckeira8v**: Rain Boots |
+| 16:36 | **yk_xlea**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×8 | **carlkilling**: Pig (NF) |
 | 16:30 | **ilovefl0we**: Alley Cat (NFR), Fly-A-Pet Potion | **00dolls**: Glormy Leo (NR) |
 | 16:30 | **jessie4isaac**: Koala, Hippo | **HELENA_GUEMER12494**: Strawberry Stroller |
 | 16:30 | **Fruit_Kittie**: Ride-A-Pet Potion | **anekalubitnaruto**: Bunny Swirl |
@@ -39,14 +47,6 @@ _Updated 2026-11-17 16:31 UTC by the scrape workflow._
 | 16:30 | **q_culvs**: Yule Log Dog (MFR), Chocolate Dutch Guinea Pig (MFR), Robo Dog (MFR) | **WillowpillowpiggyWL**: Velocirooster (MFR) |
 | 16:30 | **W1NT3R_991224**: Cabbit (N) | **elitro44**: Chocolate Chip Bat Dragon (FR), Glormy Leo (NFR), Ride-A-Pet Potion |
 | 16:30 | **tysa3957**: Diamond Unicorn (N), Squid | **TTZombeymaudado**: Pet Handler Pro Certificate |
-| 16:30 | **Itsofc_Emilyxx**: Hedgehog (FR), Clover Cow (MFR) | **ii0wdimx**: Dalmatian (FR), Kangaroo (FR) |
-| 16:30 | **Lost_inTheCl0uds**: Munchkin Cat, Dragon Breath Animated Sticker | **Ihatesomber11**: Shiver Wolf (M), Indian Flying Fox (N) |
-| 16:30 | **egedrn31**: Copycat ×2, Copycat (R) | **SPIDRAN56DOORS**: Candicorn (FR), Ride-A-Pet Potion ×2 |
-| 16:25 | **Ksusha_broooooo**: Gemstone Egg ×3, Green Amazon (FR) | **iiam_nikiii**: Pet Handler Pro Certificate |
-| 16:25 | **Moon_Cloud609859**: Kangaroo (FR), Admin Abuse Egg | **LikaAndar**: Aussie Egg, Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×3 |
-| 16:25 | **w0Lops**: Catte ×3 | **StinkyCupcakeMonster**: Fly-A-Pet Potion |
-| 16:25 | **cuteseals168**: Harp Seal (M), Pet Handler Pro Certificate | **scr_6am**: Harp Seal (MFR) |
-| 16:25 | **Velstorn**: Ride-A-Pet Potion | **Artem_lox877**: Pupcicle |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
