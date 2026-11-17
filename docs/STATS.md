@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 18:11 UTC by the scrape workflow._
+_Updated 2026-11-17 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 18:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 39,597 | 2026-11-17T18:00 |
-| elve | 7 | 8,436 | 2026-11-17T18:01 |
+| amvgg | 7 | 39,847 | 2026-11-17T18:15 |
+| elve | 7 | 8,505 | 2026-11-17T18:16 |
 
-## AMVGG completed trades: 28,960 total
+## AMVGG completed trades: 28,998 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,891 |
+| 2026-11-17 | 2,929 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 18:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:11 | **emily_lup36**: Cabbit (FR), Moon Rabbit (MFR), Hamster (MR), Skunk (M), Eggnog Hare (M), Peachick (M), Tanuki (MR) | **ambervgils**: Chocolate Chip Bat Dragon (FR) |
-| 18:11 | **ohinam**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **MiLkas_20111**: Blue Dog (FR) |
-| 18:11 | **Annutka_rbx**: Jumpscare (N), Alicorn (N), Corgi (M), Lunar White Tiger (R), Aye Aye (N), Kid Goat (N) | **w0Lops**: Fly-A-Pet Potion |
-| 18:11 | **Sharpie_pies**: Pupcicle ×2 | **xeisaltow**: Pet Handler Pro Certificate |
-| 18:11 | **1ovIIy**: Chihuahua ×2 | **Hirobloxtt0**: Ride-A-Pet Potion |
-| 18:11 | **ezgizemfan23**: Retired Egg ×15 | **unwr09**: Purrowl (N) |
-| 18:11 | **higuysitskobe**: Lamb (MFR), King Bee (MFR), Pancake Stack, Sneak Weasel (M), Snowball Pet (MFR), Giant Panda (FR), Chocolate Dutch Guinea Pig (M), Cabbit (FR) | **yk_xlea**: Frost Dragon (FR) |
-| 18:11 | **WillowpillowpiggyWL**: Highland Cow (MFR), Jester Dragon (R), Pet Handler Pro Certificate | **Filip_7784**: Yeti (MFR) |
-| 18:11 | **ExpertChipmunkPro**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×2 | **Addmymainamv**: Arctic Reindeer (NFR) |
-| 18:11 | **KiaXias**: Cabbit (MFR) | **t1mskyy**: Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR), Cow (FR) ×2 |
-| 18:06 | **Arilovesyou1232**: Sheeeeep (MFR), Lamb (MFR), Snowball Pet (MFR), Pancake Stack | **higuysitskobe**: Balloon Unicorn (FR) |
-| 18:06 | **stefkazzz**: Kangaroo (FR) | **CydoneiQuartz**: Fly-A-Pet Potion ×8 |
-| 18:06 | **Aeralika**: Admin Abuse Egg ×9 | **flowerist0w04577**: Paint Sealer ×10 |
-| 18:06 | **queenyelii_22**: Daisymobile, Latte Motorcycle, Ribcage Carriage | **Secret_Secretov321**: Fly-A-Pet Potion |
-| 18:06 | **Thesheeeeesh_god**: Goose (FR) | **Esikiiomuru**: Peppermint Penguin (FR), Ride-A-Pet Potion |
+| 18:15 | **TNTN_243**: Spring Bunny Hood, Spring Bunny Nose | **fabriciogael597**: Velocirooster (R) |
+| 18:15 | **Ohanlonciara**: Chocolate Chip Bat Dragon (MFR) | **Katseye_Fanlaraaaaa**: Balloon Unicorn (NFR) |
+| 18:15 | **TheKindAndOnly**: Pupcicle ×18 | **WillowQueen593**: Albino Monkey (FR) |
+| 18:15 | **cuc_man**: Copycat (NFR) | **rindracula**: Cabbit (R) |
+| 18:15 | **Frolowk**: Pet Handler Pro Certificate ×2 | **partypupuli**: Copycat |
+| 18:15 | **CMETANKA_H24**: Hot Doggo (MFR), Ride-A-Pet Potion | **higuysitskobe**: Cabbit (MFR), Strawberry Shortcake Bat Dragon (FR) |
+| 18:15 | **TulipPetal_1**: Copycat, Copycat (FR), Fly-A-Pet Potion ×2 | **brunokingmas**: Kangaroo (FR) |
+| 18:15 | **Bluberry040**: Diamond Mahi Mahi (M) | **PatoPollo7777**: Ride-A-Pet Potion ×2 |
+| 18:15 | **lizziqyy**: Ride-A-Pet Potion ×6 | **Vitek_228666**: Lion Cub |
+| 18:15 | **FrostyLife8382**: Fly-A-Pet Potion ×9 | **dammam_1234**: Ride-A-Pet Potion ×17 |
+| 18:15 | **razarvale2z**: Pain au Chat ×8 | **smoothlike_butter234**: Ride-A-Pet Potion ×3 |
+| 18:15 | **pexrldiver**: Pupcicle ×2, Cattuccino ×4, Waffle Wyrm (NFR) | **black_wolf946s**: Dango Penguins |
+| 18:15 | **smoothlike_butter234**: Turtle (FR), Tiny Wings, Ride-A-Pet Potion | **FL0CKERL0CKER**: Jester Dragon (NFR) |
+| 18:15 | **Nastik_My520**: Kangaroo (R), Frost Fury (R), Fly-A-Pet Potion, Pig (FR), Show Pony (N) | **Ddwkfmr**: Cow (FR) |
+| 18:15 | **safir_va**: Zodiac Minion Chick (M) | **nekoDoraemon**: Pupcicle (N) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
