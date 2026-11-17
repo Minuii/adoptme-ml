@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 14:01 UTC by the scrape workflow._
+_Updated 2026-11-17 14:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 14:01 UTC by the scrape workflow._
 | amvgg | 7 | 35,652 | 2026-11-17T14:00 |
 | elve | 7 | 7,472 | 2026-11-17T14:01 |
 
-## AMVGG completed trades: 28,059 total
+## AMVGG completed trades: 28,094 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,990 |
+| 2026-11-17 | 2,025 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:00 | **vivicacke17**: Ride-A-Pet Potion | **exotiqsss**: Shark |
-| 14:00 | **Zuminkikiki**: Ride-A-Pet Potion | **itzaniinnie**: Tree Sasquatch (M) |
-| 14:00 | **dsjghljdas**: Balloon Unicorn (FR), Strawberry Shortcake Bat Dragon (FR), Border Collie (R), Mini Pig (FR), Happy Duckling (MR) | **SoLost666**: Frost Dragon (FR) |
-| 14:00 | **ComWhil**: Goose (R), Turtle (FR), Shrew (R), Fly-A-Pet Potion, Aussie Egg | **daanz2**: Arctic Reindeer (FR) |
-| 14:00 | **NastyaNerol**: Unicorn Horn, Fly-A-Pet Potion | **simplyxarv**: 2022 Birthday Cake |
-| 14:00 | **iiLxy_MoonStxr**: Pink Heart Glasses, Jester Hat | **archie_290**: Fly-A-Pet Potion |
-| 14:00 | **Sonya73p**: Pudding Cat, Malaysian Tapir, Pine Marten, Tan Chow-Chow | **kokos2280014**: Ride-A-Pet Potion |
-| 14:00 | **altmityanitsa**: Arctic Reindeer (FR) | **sadbritydaycake**: Chocolate Chip Bat Dragon (FR) |
-| 14:00 | **katnitlovesherself**: Jeff's Nametag | **ii_martaGamer18**: Ride-A-Pet Potion |
-| 14:00 | **dkzkqksp479**: Crow (FR) | **hmmhh8**: Lion (R), Elephant (R) ×2, Elephant (FR) ×2, Kangaroo (FR), Turtle (FR), Pig (NR), Chihuahua (MFR) |
-| 14:00 | **sladetheboxer**: Ride-A-Pet Potion, Bobageist | **sherifffries3**: Skelicorn (NR) |
-| 14:00 | **Lazypotato4ever_12**: Retired Egg ×10 | **Ana_princess2013**: Sour Glider |
-| 14:00 | **z1ooam**: Crocodile (R), Ride-A-Pet Potion, Black-Footed Ferret (N) | **Mikeoten0923**: Crocodile (FR) |
-| 14:00 | **xXsiimplyblxoomxX**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Dalmatian (FR), Fairy Bat Dragon (NFR) | **xxjohnjokexx**: Parrot (FR), Haetae (FR), Alley Cat (NR), Hot Doggo (NFR) |
-| 14:00 | **URSET_ROM4IK997**: Ride-A-Pet Potion | **mike_1210m**: Crystal Egg ×18 |
+| 14:11 | **Anivalladare**: Ride-A-Pet Potion, Copycat | **partypupuli**: Tanuki (M) |
+| 14:11 | **margini_mini**: Kangaroo (FR), Munchkin Cat (R) | **moral608**: Cabbit (FR) |
+| 14:11 | **iamnoonetobehere**: Goose | **lustxxz**: Corn Doggo (MFR) |
+| 14:11 | **morgen67svo**: Ride-A-Pet Potion | **ferrofl7**: Bluebottle Fly, Stingray, Piranha, Puma (N), Kirin, Glyptodon, Seahorse, Blue Jay, Shiba Inu ×5, Kelp Crewmate, Snow Cat (N) |
+| 14:11 | **malahostoplerica**: Candicorn (R), Gemstone Egg | **6vynix**: Werewolf |
+| 14:11 | **Ducko_heh**: Purrowl, Admin Abuse Egg ×2, Admin Abuse Box | **kate_typik**: Ringmaster Gibbon |
+| 14:11 | **FrostyLife8382**: Harp Seal (NR) | **hottypancakee**: Harp Seal ×4 |
+| 14:11 | **Uliana000334**: Fly-A-Pet Potion | **szoozin**: Pancake Stack |
+| 14:11 | **Esikiiomuru**: Winged Tiger, Kangaroo, Husky (FR), Ride-A-Pet Potion | **wanda_vision680**: Peppermint Penguin (FR) |
+| 14:11 | **Princess_Kourtney900**: Clover Cow (MR) | **mylolovescats**: Chocolate Dutch Guinea Pig, Royal Palace Spaniel (R), Sloth (R), Cattuccino (N) |
+| 14:11 | **xPixieFixie**: Ride-A-Pet Potion ×16, Fly-A-Pet Potion | **XxRainbowDasher**: Candyfloss Chick (FR) |
+| 14:11 | **Milo_vxy**: Munchkin Cat (R), Alley Cat (R), Ride-A-Pet Potion, Princess Mare (N), Chihuahua, Little Lamb (N) | **SmoKSI0**: Haetyphoon |
+| 14:11 | **EllaXgoose**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Pet Handler Pro Certificate | **tufvfffdjdg**: Shark Puppy |
+| 14:11 | **XxLipton_LemonxX**: Fly-A-Pet Potion, Stegosaurus (R) | **inputw**: Pet Handler Pro Certificate |
+| 14:11 | **Fabigenialol**: Giraffe (FR), Alpaca (R) | **clihello**: Mini Pig (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
