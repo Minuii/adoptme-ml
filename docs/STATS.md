@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 07:01 UTC by the scrape workflow._
+_Updated 2026-11-17 07:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 07:01 UTC by the scrape workflow._
 | amvgg | 7 | 29,447 | 2026-11-17T07:00 |
 | elve | 7 | 6,102 | 2026-11-17T07:01 |
 
-## AMVGG completed trades: 26,991 total
+## AMVGG completed trades: 27,011 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 922 |
+| 2026-11-17 | 942 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:00 | **rungji0421**: Oakee ×16 | **hefeltsafe**: Ride-A-Pet Potion |
-| 07:00 | **ProSpark251**: Frostbite Bear (NFR), Frostbite Bear (FR), Strawberry Tortle (FR), Kiwi Kiwi (MFR) ×2, Velocirooster (FR), Pain au Chat (MFR) ×4, Dire Wolf (MFR), Chihuahua (MFR) ×4, Stitches (MFR) ×3 | **AndyIsMineerrr222**: Frost Dragon (FR) |
-| 07:00 | **veroNIKA_star016**: Pig | **gacha_chacha0**: Arctic Fox (R) |
-| 07:00 | **Andres_agent**: Scorching Kaijunior (MFR), Moonbeam Butterfly (MFR), Prismatic Butterfly (MFR), Gorilla (MFR) | **Lola_ant34**: Latte Kitsune (MFR), Latte Kitsune (MR), Mighty Haetyphoon Animated Sticker |
-| 07:00 | **tokki0000**: Parrot (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **miriam89300**: Parrot |
-| 07:00 | **GleepleSteeple**: Giraffe (FR), Cow (FR), Dodo (MFR), Burger Bear (MFR) | **MASMichael1**: Frost Dragon (NFR) |
-| 07:00 | **ruah04242**: Great Pyrenees (MR), Great Pyrenees (M) | **BUBBLESGIRL5678**: Elephant (FR) |
-| 07:00 | **ii_aldrin20**: Unicorn (NR) | **afissamuzfirah**: Ride-A-Pet Potion ×4 |
-| 07:00 | **Anna_Flora1**: Ride-A-Pet Potion ×5 | **crybabydoIl**: Zombie Buffalo |
-| 07:00 | **polenka027**: Cow (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Robloxian213723214**: Mini Pig (FR) |
-| 06:50 | **mxrgan66**: Strawberry Tortle | **Babyofy5**: Alley Cat ×7, Chocolate Dutch Guinea Pig ×5, Puffer Fish ×4, German Shepherd |
-| 06:50 | **Angel382935**: Jumpscare, Boohoo, Scarecrow Horse, Zombie Chick | **hsjsjdidhshissihhe**: Hamster |
-| 06:50 | **PixiePawsTrade**: Skelicorn ×9 | **Nastya198632**: Ride-A-Pet Potion |
-| 06:50 | **sleepysyamz**: Munchkin Cat (MFR), Tiny Wings ×2, Chocolate Dutch Guinea Pig (N) | **wofkgdkdodk**: Haetae (FR) |
-| 06:50 | **Tesma_Official**: Sakura Spirit (R), Fly-A-Pet Potion | **U9l9y**: Cupid Dragon (FR) |
+| 07:11 | **lika303py4**: Unicorn Horn, Cow (R), Sugar Glider, Fly-A-Pet Potion, Ride-A-Pet Potion | **ii_aldrin20**: Dalmatian (FR) |
+| 07:06 | **ldfeeode**: Crow, Crocodile (R), Clownfish (R) | **YaobendeshoiZ**: Parrot (FR) |
+| 07:06 | **Cdg91400**: Pupcicle ×2 | **alinaya0208**: Dragonfruit Fox |
+| 07:06 | **fhuybx556**: Turtle (FR), Cabbit (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Hippogriff (NFR), Lamb (FR) | **CloudyFalconpro4**: Strawberry Shortcake Bat Dragon (FR) |
+| 07:06 | **CloudyFalconpro4**: Cow (FR) | **Maayas_17alt1**: Vanilla Penguin (MFR), Unicorn (NFR) |
+| 07:06 | **padrushka_romashka**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **Manggo_Pie40**: Kangaroo (FR) |
+| 07:06 | **afissamuzfirah**: Ride-A-Pet Potion | **xisaa_sr**: Unicorn |
+| 07:06 | **Letizia00000000**: Candicorn (FR), Candicorn (R), Munchkin Cat (R), Pig (R), Sheeeeep (R), Fly-A-Pet Potion | **odading12318**: Rainbow Maker |
+| 07:06 | **Mnenormalno_0**: Cow (FR) | **ARKIN_gamingChannel1**: Candicorn ×2 |
+| 07:06 | **Alexey_Vi**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Fly-A-Pet Potion | **Alnavinka**: Evil Unicorn (FR) |
+| 07:06 | **EMPRESSTUGAS2011**: Arctic Reindeer (FR), Mrs. Whiskerpips (M) | **Angel125347890**: Chocolate Chip Bat Dragon (FR), Royal Palace Spaniel (MFR) |
+| 07:06 | **ALTAMERANO10**: Pupcicle (M) | **wskdaks**: Kangaroo (FR) |
+| 07:06 | **che12young**: Cow (R) | **AZALEA_ThomasYuYu**: Munchkin Cat (NR) |
+| 07:06 | **Rkuamgrh6**: Frost Fury (FR) | **pysugwysu**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 07:06 | **00099hh1**: Cow (FR) | **Lola242532**: Kangaroo (FR), Crocodile (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
