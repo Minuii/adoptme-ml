@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 16:11 UTC by the scrape workflow._
+_Updated 2026-11-17 16:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 16:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 37,549 | 2026-11-17T16:00 |
-| elve | 7 | 7,977 | 2026-11-17T16:01 |
+| amvgg | 7 | 37,810 | 2026-11-17T16:15 |
+| elve | 7 | 8,068 | 2026-11-17T16:16 |
 
-## AMVGG completed trades: 28,521 total
+## AMVGG completed trades: 28,566 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,452 |
+| 2026-11-17 | 2,497 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 16:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:06 | **natawwix**: Ride-A-Pet Potion ×2 | **Cattychiee**: Unicorn ×2 |
-| 16:06 | **elproXD_7v7**: Pain au Chat ×5 | **qwlinkyy**: Ride-A-Pet Potion ×2 |
-| 16:06 | **MM_Cloud**: Stray Cat Dragon ×11 | **Minera_v1**: Ride-A-Pet Potion |
-| 16:06 | **Rabeena_Ena**: Amami Rabbit (MFR) | **Only_Gio123**: Crocodile (FR) |
-| 16:06 | **cutepandafluffye**: Turtle (NFR), Turtle (FR) | **ImNotKesnielGaming**: Cow (NFR) |
-| 16:06 | **ishu5031H**: Flash Weasel | **Darinca66600**: Jester Dragon (FR) ×2 |
-| 16:06 | **flears_brai**: Jester Dragon (FR) ×2 | **Darinca66600**: Shark Puppy (FR) |
-| 16:06 | **SoloGhost442149**: Naughty Mistletroll | **pochenaas**: Ride-A-Pet Potion ×2 |
-| 16:06 | **Cherry_25053**: Unicorn Horn | **xZetherx**: Tiny Wings ×2 |
-| 16:06 | **ari_star910**: Bee (NFR) | **Leviodas**: Butter Knife |
-| 16:06 | **MADDI3DRE4MS**: Albino Monkey (MFR), Brown Bear (R) | **43kzynpqq**: Parrot (FR) |
-| 16:06 | **superawesome0528**: Rainbow Maker, Unicorn Horn | **Livinggmortal**: Cabbit (NFR) |
-| 16:06 | **snezzhook**: Pet Handler Pro Certificate | **Bembi_Flowers**: Ride-A-Pet Potion ×2 |
-| 16:06 | **Leon555s5**: Munchkin Cat (NFR), Alley Cat, Golden Chow-Chow | **Wot3412**: Mechapup (NFR) |
-| 16:06 | **fishymiss_y**: Shiba Inu (M), Retired Egg ×4 | **sufferingtogether**: Ride-A-Pet Potion |
+| 16:15 | **afissamuzfirah**: Ride-A-Pet Potion ×2 | **U9l9y**: Husky, Zombie Wolf |
+| 16:15 | **re_eee0**: Alley Cat (NFR), Strawberry Penguin (R), Copycat, Fly-A-Pet Potion, Spring Bunny Feet, Cotton Candy Hat | **LiekeLuvsWillow**: Field Mouse (NFR) |
+| 16:15 | **Dropawer**: Snow Monkey (MFR) | **Scfterqx**: Scorching Kaijunior (MFR) |
+| 16:15 | **Catzini_1**: Frostbite Bear (R) | **Scfterqx**: Copycat (N) |
+| 16:15 | **Polinamasha123**: Velocirooster | **xgx6702**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 16:15 | **iiSimplyYool**: Mirai Moth (MR) | **sabisca04**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 |
+| 16:15 | **HJKGVNib**: Evil Unicorn (FR), Elephant (FR), Bubblegeist (M), Pupcicle ×4, Skelicorn (MR), Classic Trade Stand | **AsianIceCold**: Blazing Lion (FR) |
+| 16:15 | **A13N4XX**: Frostbite Bear (R) | **blue_wolfy1342**: 2022 Birthday Cake |
+| 16:15 | **mihIaah**: Pupcicle (NR) | **iqitotoru**: Groundhog |
+| 16:15 | **Qiqi_n**: Cow (FR) | **bunny_splash4**: Goose, Ride-A-Pet Potion |
+| 16:15 | **iqitotoru**: Cow, Fly-A-Pet Potion | **Waq1uxx**: Moonbeam Butterfly (MFR) |
+| 16:15 | **f1_xx1**: Expandable Luxury Mansion | **avaovrdrive**:  |
+| 16:15 | **fungasytyy**: Cow (R), Jester Dragon (NR), Siamese Cat (R), Blue Dog (FR), Pupcicle (N), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Spooky_Aniyah**: Evil Unicorn (FR) |
+| 16:15 | **NOBODYknows_1100**: Chocolate Dutch Guinea Pig ×2, Flamingo (FR) | **potbee59**: Siamese Cat (FR) |
+| 16:15 | **mambysx**: Unicorn | **eliismellyy**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
