@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 06:16 UTC by the scrape workflow._
+_Updated 2026-11-17 06:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 06:16 UTC by the scrape workflow._
 | amvgg | 7 | 28,831 | 2026-11-17T06:15 |
 | elve | 7 | 5,982 | 2026-11-17T06:16 |
 
-## AMVGG completed trades: 26,917 total
+## AMVGG completed trades: 26,938 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 848 |
+| 2026-11-17 | 869 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 06:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:10 | **sxoliviarpg**: Quokka (MFR), Candicorn (R), Spring Bunny Feet, Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Kiwi Kiwi | **ohbeesitee**: Cow (FR) |
-| 06:10 | **PRODAZA_STARPETS**: Moose Calf (MFR), Fly-A-Pet Potion ×3 | **AddmainDeinemam_667**: Strawberry Shortcake Bat Dragon |
-| 06:10 | **lilpepeng150**: Pancake Stack, Bready Necklace | **blessedconnections**: Mochi Meow (MFR) |
-| 06:06 | **Daisy60576**: Candyfloss Chick (NFR), Albino Monkey (FR), Kangaroo (R), Snow Monkey (NR), Fallow Deer (R), Ice Cream Cone Hat, Pink Heart Glasses, Alley Cat, Swan (R) | **WillowQueen593**: Haetae (FR) |
-| 06:06 | **TheLightKick**: Border Collie (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **iangallagher_s1**: Kangaroo (FR) |
-| 06:06 | **adorable_rhian**: Slime, Fly-A-Pet Potion | **gjfurgd1234**: Toyshop House |
-| 06:06 | **adorable_rhian**: Pet Handler Pro Certificate | **sunyoung32**: Pupcicle |
-| 06:06 | **Kvammletitraketa**: Dire Wolf (M) | **adorable_rhian**: Ride-A-Pet Potion ×3 |
-| 06:06 | **katakuri_RBL**: Crocodile (R) | **jokerako28**: 2022 Birthday Party Horn |
-| 06:06 | **GameMater112**: Pelican, Pain au Chat (M) | **angela_umerez4**: Golden Penguin (MFR) |
-| 06:06 | **jasminesep16**: Ballet Swan (MFR) | **cutesyiza**: Yeti (MFR), Ice Cream Hermit Crab (MFR), Harp Seal (MFR) |
-| 06:06 | **NatureGirlMB**: African Wild Dog, Siamese Cat (FR), Head Chef | **Hosikoooooo**: Giant Panda |
-| 06:06 | **Chickengirl_5234**: Llama (FR), Stitches (M), Sasquatch (MFR), Silverback Gorilla, Lavender Dragon (NR), Giant Gold Scarab, Arctic Fox, Spinning Cat Animated Sticker, Platypus | **Arenn_1010**: Mini Pig (FR) |
-| 06:06 | **iqtxlia**: Balloon Unicorn (FR) | **Amy_Anna268**: Alley Cat (MFR), Dango Penguins (MFR), Alley Cat (MR) |
-| 06:06 | **Trixcaughtlackin**: Cabbit (NFR), Unicorn Horn, Ride-A-Pet Potion | **Cherridoll76**: Glacier Kitsune (MFR), Pet Handler Pro Certificate |
+| 06:25 | **Dai_raid**: Shark Swimcap | **Elouisepanda**: Flower Aura |
+| 06:25 | **Frdvhev**: Bat Dragon (FR) | **beatsvic**: Frost Dragon (FR), Shadow Dragon (FR) |
+| 06:25 | **lanaisdelrey**: Giraffe (FR), Hedgehog (NFR) | **Frdvhev**: Frost Dragon (FR) ×2, Evil Unicorn (FR) |
+| 06:21 | **sursyrzytxurzutzutz**: Mini Pig (R), Crocodile (FR) | **neonpets78i**: Diamond Butterfly (FR) |
+| 06:21 | **odading12318**: Kangaroo (R) | **gavinOMG_66**: Fly-A-Pet Potion ×9 |
+| 06:21 | **ere30004**: Alley Cat (R) | **Aubrey_Prism851**: Flaming Fox |
+| 06:21 | **Iasttwords**: Parrot (FR), Cerberus (NFR) | **neonpets78i**: Turtle (FR) ×3, Cow (FR) ×3 |
+| 06:21 | **Ashdorae**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×9, Shark Puppy, Latte Kitsune, Alley Cat | **odading12318**: Goose |
+| 06:21 | **TheLightKick**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 | **svrodrii2**: Turtle (FR) |
+| 06:21 | **Dazzzle_1**: Pig (FR), Frost Fury (R), Snowball Pet (NR), Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **LoriDreamy123**: Siamese Cat (FR) |
+| 06:21 | **LoriDreamy123**: Matcha Cat, Christmas Pudding Pup (R), Tortuga de la Isla, Spring Bunny Hood, Unicorn (N), Lunar White Tiger (M), Choco Penguin (M), Zombie Wolf (R) | **Reterirbair1989**: Cow (FR) |
+| 06:21 | **hubaks_02**: Winter Fawn (M) ×4, Winter Doe (M) ×5, Eel (M) | **Reterirbair1989**: Turtle (FR) |
+| 06:21 | **darr4939**: Pupcake (MFR), Axolotl (N), Polar Bear, Fly-A-Pet Potion | **perrito_bluberry**: Werewolf |
+| 06:21 | **RobloxIsLif3z**: Black-Footed Ferret (M) | **MakiraLive**: Ride-A-Pet Potion |
+| 06:21 | **odading12318**: Turtle (NFR), Blossom Snake (R) | **leoncitoUwU12345**: Turtle (FR) ×2 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
