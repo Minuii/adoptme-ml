@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 23:46 UTC by the scrape workflow._
+_Updated 2026-11-17 23:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 23:46 UTC by the scrape workflow._
 | amvgg | 7 | 45,072 | 2026-11-17T23:45 |
 | elve | 7 | 9,589 | 2026-11-17T23:45 |
 
-## AMVGG completed trades: 30,051 total
+## AMVGG completed trades: 30,073 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,982 |
+| 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 23:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:45 | **lexifox513**: Chocolate Dutch Guinea Pig (MFR), Karate Gorilla (MFR), Tiny Wings, Ice Cream Cone Hat, Pain au Chat (MFR), Chihuahua (M), Ride-A-Pet Potion, Chocolate Dutch Guinea Pig | **cazzy123abc**: Corn Doggo (MFR), Leviathan (MFR) |
-| 23:45 | **zoommbbeee**: Pomeranian (M) | **DeerAllie**: Ride-A-Pet Potion |
-| 23:45 | **okayzvezda**: Standard Gorilla Box, Kaijunior Box, Kelp Raider Box, Spider Gift, Choccybunny Box, Rubber Ducky Box, 2D Box ×2 | **dnei30fast**: Ride-A-Pet Potion |
-| 23:45 | **EthanNovaZoom2024**: Kangaroo (FR) | **amandiwis198**: Fly-A-Pet Potion, Ride-A-Pet Potion ×15 |
-| 23:45 | **Elwanizk**: Unicorn | **cchloecrichtonsecret**: Crystal Egg ×14 |
-| 23:45 | **nicolasceci444**: Golden Lettuce | **dnei30fast**: Ride-A-Pet Potion ×2 |
-| 23:45 | **julyis456**: Fly-A-Pet Potion ×2 | **nicolasceci444**: Emperor's Chariot, Rose Petal Carriage, Royal Carriage, Toxic Barrel |
-| 23:45 | **kouxhiii**: Mrs. Whiskerpips (N), Metal Ox (R) | **steklanya**: Cotton Candy Hat |
-| 23:45 | **gatitakawai_01**: Retired Egg ×3, Pet Egg, Fairytale Egg ×5 | **steklanya**: Racetrack House |
-| 23:45 | **xlorkaa7**: Guardian Lion (R) | **KaiSaboAceCC**: Ride-A-Pet Potion |
-| 23:45 | **Mcdonaldsofaustralia**: Fairy Bat Dragon (FR) ×2, Fly-A-Pet Potion, Dire Wolf (M) ×2, Purrowl (N) ×4 | **ambervgils**: Chocolate Chip Bat Dragon (FR) |
-| 23:40 | **disguisedgerm**: Hedgehog (NFR), Siamese Cat (MFR), Cabbit (FR) | **qielul**: Mini Pig (MFR) |
-| 23:40 | **sleepy_s0ren**: Ice Cream Cone Hat | **Ari_Blays**: Matcha Cat |
-| 23:40 | **jsjsjsjssjs123**: Evil Unicorn (FR), Kangaroo (R), Rainbow Dragon (NFR) | **liofe1**: African Wild Dog |
-| 23:40 | **Bia_salgadin**: Munchkin Cat (MFR) | **sugarbunn3i**: Munchkin Cat (M) |
+| 23:55 | **mati08proo**: Boohoo (N), Jumpscare (M) | **CandyLover31235**: Ride-A-Pet Potion |
+| 23:50 | **nessapawz**: Dodo (FR), Dodo (R), Dodo, Pupcake (MR), Maine Coon (M), Mochi Meow (MR), Ice Cube (MFR), Tan Chow-Chow (FR) | **op_con0**: Turtle (FR) |
+| 23:50 | **holixd489632**: Tri-horned Treehopper (FR), Purrowl (N) | **josias166**: Tri-horned Treehopper (R), Ride-A-Pet Potion |
+| 23:50 | **tutritam174**: Propeller Hat | **ihitmyheadonwalls2**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 23:50 | **MATT_2011901**: Happy Duckling (MFR), Great Pyrenees (MR), Eggnog Hare (N) | **Inphluens**: Turtle (FR) |
+| 23:50 | **Zocko007**: Irish Water Spaniel, Lava Dragon (FR), Llama, Husky, Swan ×2, Silly Duck ×2, Rhino, Fly-A-Pet Potion, Ride-A-Pet Potion | **op_con0**: Turtle (FR) |
+| 23:50 | **CAXAROK_0011**: Dragonfruit Fox (R), Pupcake (R), Cuddly Candle (FR), Metal Ox (N), Dango Penguins | **Faviola_HD**: Arctic Fox |
+| 23:50 | **flawless_bowdown**: Pandaguin Glooptodog (M), Jacobin Pigeon (N), Rubber Ducky (N) | **Kir4kaa**: Ride-A-Pet Potion |
+| 23:50 | **DawnL9Lighti9Chill19**: Jellyfish, Ride-A-Pet Potion | **pucheina_gogogo88**: Sea Slug |
+| 23:50 | **xlorkaa7**: Guardian Lion (F) | **cchloecrichtonsecret**: Ride-A-Pet Potion |
+| 23:50 | **Cutie_wolfie20**: Kangaroo (FR), Glacier Kitsune (FR) ×2, Ice Golem (FR), Ride-A-Pet Potion | **Fishechkaaaaa**: Peppermint Penguin (FR) |
+| 23:50 | **werreriss0**: Grim Dragon (FR), Fly-A-Pet Potion | **XxLipton_LemonxX**: Sugar Glider (R) |
+| 23:50 | **unilums**: Paint Sealer ×13 | **cxbvnniz**: Ride-A-Pet Potion |
+| 23:50 | **elproXD_7v7**: Pain au Chat ×5 | **Dash35813**: Ride-A-Pet Potion ×2 |
+| 23:50 | **Queen_Shay230**: Pain au Chat, Ginger Cat | **cchloecrichtonsecret**: Crystal Egg ×9 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
