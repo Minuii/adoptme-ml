@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 20:01 UTC by the scrape workflow._
+_Updated 2026-11-17 20:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 20:01 UTC by the scrape workflow._
 | amvgg | 7 | 41,560 | 2026-11-17T20:00 |
 | elve | 7 | 8,837 | 2026-11-17T20:01 |
 
-## AMVGG completed trades: 29,353 total
+## AMVGG completed trades: 29,398 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,284 |
+| 2026-11-17 | 3,329 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 20:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:00 | **Grandlove10**: Christmas Pudding Pup (NR), Angus Calf (MR) | **chloe_dacatXD**: Fairy Bat Dragon (R) |
-| 20:00 | **hzmimii**: Ride-A-Pet Potion | **4revolutions**: Rose Quartz Glow Mega Neon Paint |
-| 20:00 | **Ashvr_s0ul9**: Diamond Hamster (MFR), Yeti (M) | **Ojitobonito2017**: Moose Calf (MFR) |
-| 20:00 | **cabesitatele**: Evil Unicorn (FR), Pig (R), Samoyed (M), Kakapo (M), Sheepdog Ducky (M), Rabbit Helicopter | **laur3star**: Amethyst Penguin |
-| 20:00 | **Shailyn09**: Cupcake Scooter | **wanda_vision680**: Ride-A-Pet Potion, Back Taco |
-| 20:00 | **TheKindAndOnly**: Balloon Unicorn (FR) | **Its_lipwwixx**: Evil Unicorn (FR), Shark Puppy (FR), Cow (R), Pet Handler Pro Certificate |
-| 20:00 | **pisapopakakashecki**: Dracula Parrot ×4 | **wanda_vision680**: Ride-A-Pet Potion |
-| 20:00 | **q_plvio2**: Siamese Cat (NR), Lamb (NFR) | **Fluffy_luffy12345**: Alley Cat (MFR), Hyena, Ride-A-Pet Potion |
-| 20:00 | **AriesParagon**: Red Dutch Guinea Pig, Pupcicle, Banana Hat | **GINGERONE2022**: Unicorn (NFR) |
-| 20:00 | **lowerbunny**: Fly-A-Pet Potion | **UnUcreepy**: Chicken |
-| 20:00 | **SheilaPlays12**: Admin Abuse Egg ×14 | **Hales_Elise**: Count Slothula |
-| 20:00 | **wths1n**: Ride-A-Pet Potion, Kaijunior (NR) | **mk1qez**: Kaijunior (NFR) |
-| 20:00 | **Micro691Nesian**: Sushi Penguin ×2 | **sugarxcer**: Hospital Home |
-| 20:00 | **OfflineKiri**: S'mores Raccoon (MFR), Jester Dragon (R), Jester Dragon | **vyskqn**: Fairy Bat Dragon (FR) |
-| 19:55 | **cutesyiza**: Cake Friend (MR) | **firegrumpjaw**: Chihuahua, Clownfish, Count Slothula, Ghost Dog, Pain au Chat, Pink Betta Fish, Skunk, Clementine Owl, Cold Cube, Gingerbread Reindeer, Gingerbread Hare, Gingerbread Mouse, Headless Horse, Penguin, Mrs. Whiskerpips, Sabertooth, Sprout Snail, Tan Chow-Chow |
+| 20:11 | **RiderCyber5886**: Jester Dragon | **karasikshop_20028**: Ride-A-Pet Potion ×5 |
+| 20:11 | **Xxskibidy67**: Dalmatian (R), Cow (FR), Turtle (R) | **solariise**: African Wild Dog (FR) |
+| 20:11 | **Sherine_0807**: Happy Duckling, Kiwi Kiwi, Harp Seal, Prism Snake, Flying Fish (R), Water Moon Bear, Cattuccino, Triple Stroller, Paint Sealer | **roblox_user_9559902919**: Dragonfruit Fox (R) |
+| 20:11 | **h4_cd**: Pet Handler Pro Certificate | **Emaaagirl34**: Tealwood Monster (M) |
+| 20:11 | **spareaccountforme456**: Shadow Dragon (NFR), Parrot (FR), Pig (FR), Pig (R) | **0FF_L1MIT**: Frost Dragon (MFR) |
+| 20:11 | **lipgloss**: Shark Puppy (MFR), Border Collie (MFR), Chocolate Chip Bat Dragon (FR), Turtle (FR) | **Leichisme3**: Peppermint Penguin (MFR) |
+| 20:06 | **Chicknmmmcow**: Purrowl ×9 | **heladitoooUnU**: Ride-A-Pet Potion |
+| 20:06 | **Fairy_Demon190**: Admin Abuse Egg ×2 | **sugar_Tanos**: Skelicorn |
+| 20:06 | **pk_startsnew**: Glyptodon (N) | **lowerbunny**: Ride-A-Pet Potion |
+| 20:06 | **sillybillylilly32345**: Ride-A-Pet Potion ×5 | **Very_valeery**: Santa Hat, Elf Hat |
+| 20:06 | **hefeltsafe**: Retired Egg ×12 | **littlefelonies**: Black Rhino (N) |
+| 20:06 | **Maryha0243**: Hamster (R), Fairytale Egg | **oh_eql**: Billy Goat |
+| 20:06 | **jam0khurt**: Space Whale ×3 | **cutesyiza**: Ride-A-Pet Potion ×2 |
+| 20:06 | **sunyxmisty_Bigfan**: Crocodile (FR), Canadian Goose (MFR), Flaming Fox, Mule, French Bulldog, Lynx, Puffer Fish (NR) | **WhyAreYouSoooDumb**: Chocolate Dutch Guinea Pig (MFR) |
+| 20:06 | **dawg1723**: Mini Pig | **C0PHYAK**: Fly-A-Pet Potion ×15, Pet Handler Pro Certificate ×2 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
