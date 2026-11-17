@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 04:11 UTC by the scrape workflow._
+_Updated 2026-11-17 04:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 04:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 26,742 | 2026-11-17T04:00 |
-| elve | 7 | 5,592 | 2026-11-17T04:01 |
+| amvgg | 7 | 27,008 | 2026-11-17T04:15 |
+| elve | 7 | 5,640 | 2026-11-17T04:16 |
 
-## AMVGG completed trades: 26,680 total
+## AMVGG completed trades: 26,691 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 611 |
+| 2026-11-17 | 622 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 04:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:15 | **OJC_Star45**: Ride-A-Pet Potion | **jellyfish1248396**: Steppe Lion (N) |
+| 04:15 | **L0VEKARS0N**: Ankylosaurus (M) | **cutie_cakefan**: Schoolhouse Home |
+| 04:15 | **Ruperto_1297**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **Bobo_Tsuya**: Haetyphoon |
+| 04:15 | **KaiSaboAceCC**: Ride-A-Pet Potion, Alicorn (N), Dog (N) | **Katarinamartino**: Eggnog Dog (N) |
+| 04:15 | **00dolls**: Copycat (N) | **micaelakdkdn**: Shark Puppy (FR), Shark Puppy (R), Ram (NR) |
+| 04:15 | **XGiveMeUrFoodX**: Ride-A-Pet Potion, Dalmatian (R) | **flower_1851**: Strawberry Shortcake Bat Dragon (FR), Candicorn (FR) |
+| 04:15 | **borxzoii**: Latte Kitsune (NFR), Red Fox (MR), Shiver Wolf (MFR) | **sxmplycutecorex**: Arctic Dusk Dragon (NFR) |
+| 04:15 | **squirtle_Adoptmemi**: Parrot (FR), Turtle (R), Candicorn (R) | **opazoopazo7779**: Owl (FR) |
+| 04:15 | **PlayOfHappy**: Candy Flare Mega Neon Paint, Halloween Slime Mega Neon Paint | **HeartsForEli_1406**: Frosty Glow Mega Neon Paint |
+| 04:15 | **lili95640**: Ocean Egg, Highland Cow ×2 | **Yourlocalbreadshore**: Pupcicle |
+| 04:15 | **TheRealAivlis**: German Shepherd (MR), Latte Kitsune | **cutesyluupaws**: Christmas Pudding Pup (N) |
 | 04:06 | **Eleven_3666**: Zombie Buffalo, Mochi Meow (N) | **I_KermitDEATH**: Christmas Pudding Pup |
 | 04:06 | **kaylamicmi**: Pupcicle (MFR), Spring Bunny Feet, Arctic Fox (R) | **kindaOwOmeal**: Halo |
 | 04:06 | **Bnniprince**: Frog (MR), DJ Snooze (M) | **Nicololo1215**: Ice Cream Cone Hat |
 | 04:06 | **XisokoGame**: Crocodile, Shark Puppy, Pupcicle ×3 | **WOWTHATSOSICK2**: Turtle (FR) |
-| 04:06 | **jessica020705**: Alley Cat | **bri5hellokitty**: Flaming Fox (R) |
-| 04:06 | **supernova_cloud**: Skunk, Purrowl, Tawny Frogmouth, Little Lamb, Jumpscare, Shoebill, Bunny, Clumpty, Snow Puma, Cracked Egg, Eaten Donut ×2, Glormy Backpack, Cheesecake Hat, Purple & Green Beads, Rotating Periscope ×2 | **skymartinsky**: Fly-A-Pet Potion |
-| 04:06 | **Lola_ant34**: 2022 Birthday Cake, 2022 Birthday Confetti Cannon, Spring Bunny Hood, Frosty Glow Mega Neon Paint | **higuysitskobe**: Flaming Fox (MFR) |
-| 04:06 | **purrscribesin**: Werewolf (FR), Copycat (R), Samoyed (M), Sushi Penguin, Scarebear | **Pashok_q**: Fairy Bat Dragon (FR) |
-| 04:06 | **Kalielgirly**: Mermicorn, Christmas Pudding Pup (NR), Unicorn (MFR) | **romoko_00**: Rainbow Maker |
-| 04:06 | **H111VZ**: Mermicorn (NFR) | **itsElijahpanda821**: Munchkin Cat (NR), Kangaroo, Crocodile (FR), Rain Cloud Hat |
-| 04:06 | **Harp_seaaal**: Jester Dragon (FR), Pupcicle | **snowflakeisfat123**: Copycat (R) |
-| 04:06 | **luiscae3**: Thinking Hat, Butter Knife | **Alemys2011**: Soccer Stadium |
-| 04:06 | **wowohaha17**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **lilliesautumn**: Strawberry Penguin (FR) |
-| 04:00 | **TheRukaa**: Ride-A-Pet Potion ×6 | **Nastya198632**: Copycat |
-| 04:00 | **Meko0o_3**: Ride-A-Pet Potion ×2 | **simplyxarv**: Alley Cat |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
