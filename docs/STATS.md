@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 15:11 UTC by the scrape workflow._
+_Updated 2026-11-17 15:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 15:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 36,615 | 2026-11-17T15:00 |
-| elve | 7 | 7,731 | 2026-11-17T15:01 |
+| amvgg | 7 | 36,822 | 2026-11-17T15:15 |
+| elve | 7 | 7,806 | 2026-11-17T15:16 |
 
-## AMVGG completed trades: 28,318 total
+## AMVGG completed trades: 28,320 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,249 |
+| 2026-11-17 | 2,251 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,8 @@ _Updated 2026-11-17 15:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 15:15 | **VNMx_Stark**: Unicorn (FR), Gemstone Egg, Retired Egg ×6 | **DangerPup242**: Dragonfruit Fox (R) |
+| 15:15 | **qbhd_zoo**: Spring Bunny Nose, Ride-A-Pet Potion ×2, Quetzalcoatl (NR) | **Zacxqx**: Sasquatch (MFR) |
 | 15:06 | **M1n3_4everrrr**: Dragonfruit Fox | **b1beHw4tzurnim**: Ride-A-Pet Potion ×2 |
 | 15:06 | **Spartik20**: Peppermint Penguin (FR), Harp Seal (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **SoLost666**: Strawberry Shortcake Bat Dragon (FR) |
 | 15:06 | **aleks2u**: Cryptid (FR), Cow (R), Kangaroo (FR), Spring Bunny Hood | **Kxxr9**: Parrot (FR) |
@@ -45,8 +47,6 @@ _Updated 2026-11-17 15:11 UTC by the scrape workflow._
 | 15:06 | **ang666600**: Ice Cream Cone Hat, Fly-A-Pet Potion, Ride-A-Pet Potion, Pet Handler Pro Certificate | **adopt201433**: Black Macaque (MFR) |
 | 15:06 | **igabbe4th**: Frostbite Bear (R) | **1Tinker2**: Flamingo (FR) |
 | 15:06 | **rubioOnYTalt1**: Haetyphoon (M), Haetyphoon | **ljwempire777**: Frost Dragon (FR) |
-| 15:06 | **littlelizard_7**: Glacier Kitsune (MFR), Strawberry Shortcake Ducky (MFR) | **getmobilethings**: Cryptid (R) |
-| 15:06 | **ELASTICHXRT**: Pelican (MFR), Pupcicle (MFR) | **Nyxie_OwO**: Strawberry Tortle (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
