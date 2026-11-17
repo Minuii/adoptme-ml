@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 04:40 UTC by the scrape workflow._
+_Updated 2026-11-17 04:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 04:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 27,233 | 2026-11-17T04:30 |
-| elve | 7 | 5,698 | 2026-11-17T04:31 |
+| amvgg | 7 | 27,448 | 2026-11-17T04:45 |
+| elve | 7 | 5,710 | 2026-11-17T04:45 |
 
-## AMVGG completed trades: 26,747 total
+## AMVGG completed trades: 26,763 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 678 |
+| 2026-11-17 | 694 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 04:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:40 | **SkaterinDeltat140964**: Polar Bear (FR), Icey Aura, Steampunk Clock Hat | **Zuminkikiki**: Mirai Moth (M) |
-| 04:40 | **That_0nemogirl**: Unicorn, Unicorn (R), Fly-A-Pet Potion | **Slughteer**: Pet Handler Pro Certificate ×2 |
-| 04:40 | **Dr9iser**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion ×2 | **Marines_Natalia**: Frost Unicorn (FR) |
-| 04:40 | **Its_soulseekk**: Toucan (NR) | **Africangreylover1**: Ride-A-Pet Potion |
-| 04:40 | **amyggvaI**: Honey Badger (N), Border Collie (FR) | **itsElijahpanda821**: Cow (FR), Halloween Black Mummy Cat (M) |
-| 04:40 | **Z0mb1e_R1ot**: S'mores Raccoon | **Antonipes**: Paint Sealer ×12 |
-| 04:40 | **jam0khurt**: Ride-A-Pet Potion ×10 | **Phoenix_Goddess0**: Shark Puppy |
-| 04:40 | **ohinam**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **patasconqueso242**: Blue Dog (FR) |
-| 04:40 | **William_17735**: Matcha Cat (MFR), Pupcicle (MFR), Toaster Hat, Matcha Cat (FR), Angus Bull (MFR) | **lanaisdelrey**: Werewolf (MFR) |
-| 04:40 | **FlyToTheSaturn**: Phoenix Plush, Unicorn Leash, Easter Bunny Plush, Bunny Plush, Turkey Plush, Anna Rattle, Balloons, Caticorn Rattle, Cat Plush | **yougurtdefresa13**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 04:40 | **FlyToTheSaturn**: Modern Mansion | **yougurtdefresa13**: Ride-A-Pet Potion |
-| 04:40 | **Deezpois**: Ice Cream Hermit Crab (MFR) | **soy_anonim6**: Mini Pig (FR) |
-| 04:40 | **Nika_Roblox16stars**: 2022 Birthday Party Hat, Spring Bunny Hood | **Susiii_coca6126**: Cupid Dragon (NFR) |
-| 04:40 | **AsianIceCold**: Golden Dragon (N), Sea Turtle (N) | **themudwizard**: Ride-A-Pet Potion |
-| 04:40 | **RiordanFan19**: Cake Friend (N), Burger Bear (N), Zombie Wolf (R), Mr. Whiskerpips (N), Choco Penguin (N) | **ItzTerzo**: Ride-A-Pet Potion ×8 |
+| 04:45 | **yesterboni0**: Bat Dragon (FR) ×3, African Wild Dog (FR), Evil Unicorn (FR) | **elvetradingxd**: Shadow Dragon (MFR) |
+| 04:45 | **squirtle_Adoptmemi**: Magic House Door, Gemstone Egg | **SunScarf**: Ride-A-Pet Potion |
+| 04:45 | **hubaks_02**: Eel (M) ×9 | **clalouetciedh**: Kangaroo (FR) |
+| 04:45 | **pushenn112**: Frostbite Bear, Stray Cat Dragon (M) ×2, Tealwood Monster (M), Picnic Basket | **Elwena_xX**: Copycat (NR) |
+| 04:45 | **Ryou_senpai05**: Elephant (R) | **Doritos_Squad**: Pupcicle (M) |
+| 04:45 | **Panci_Terbang33**: Frost Unicorn | **Babyofy5**: Cheetah ×6, Frost Phoenix (FR), Frost Phoenix (R), Pineapple Owl, Prismatic Butterfly (R) |
+| 04:45 | **xaoichaanx**: Fishbone Badge | **Panci_Terbang33**: Snow Cloud Wings |
+| 04:45 | **jandabi2006**: Fly-A-Pet Potion ×2 | **thesef4ngs**: Fallow Deer |
+| 04:45 | **mxsnxsxm**: Ride-A-Pet Potion ×3 | **AvaNari2010**: Moose Calf |
+| 04:45 | **omcherubxx**: Haetae (FR), 2022 Birthday Cupcake Shoes | **soul_17340**: Balloon Unicorn (FR) |
+| 04:45 | **m4rshalI**: Blazing Lion (FR), Fairy Bat Dragon (FR) | **kotikbossans**: Giant Panda (FR) |
+| 04:45 | **P1xk1t**: Cryptid (FR) ×2, Undead Jousting Horse (NFR), Haetae (FR), Zombie Wolf (MFR), Albino Monkey | **copyvoting**: Goose, Owl (FR), Evil Unicorn (NFR), Cow (FR) ×2 |
+| 04:45 | **jayjay080309**: Fairy Bat Dragon (NFR), Fairy Bat Dragon (FR) ×2 | **rip_indra12345678912**: African Wild Dog (R) |
+| 04:45 | **kwittysoulz**: Cryptid (FR), Turtle (FR) | **DalePearson8409**: African Wild Dog (FR) |
+| 04:45 | **wszy_yu**: Chocolate Dutch Guinea Pig (N), Ice Cube (M) | **izziee_llyxii**: Hippo (M) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
