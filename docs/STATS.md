@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 05:40 UTC by the scrape workflow._
+_Updated 2026-11-17 05:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 05:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 28,129 | 2026-11-17T05:30 |
-| elve | 7 | 5,866 | 2026-11-17T05:31 |
+| amvgg | 7 | 28,361 | 2026-11-17T05:45 |
+| elve | 7 | 5,890 | 2026-11-17T05:45 |
 
-## AMVGG completed trades: 26,864 total
+## AMVGG completed trades: 26,869 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 795 |
+| 2026-11-17 | 800 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,11 @@ _Updated 2026-11-17 05:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:45 | **PolinaPlayMini**: Rubber Ducky (M), Black Rhino (M), Bolt (N), Cat (NR) | **lalalalavec**: Ride-A-Pet Potion |
+| 05:45 | **akeks_74**: Kangaroo (FR), Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **odading12318**: Cow (FR) |
+| 05:45 | **Trixcaughtlackin**: Goose, Cow (R), Dalmatian (FR) | **faikubjotch**: Aurora Fox (MFR), Aurora Fox (NFR) |
+| 05:45 | **ANNADOG444**: Ride-A-Pet Potion | **ppomkoo**: Pupcake (R) |
+| 05:45 | **Panci_Terbang33**: Ride-A-Pet Potion ×10, Pet Handler Pro Certificate ×3 | **GranTakeshi**: Candicorn (FR) |
 | 05:40 | **PolinaPlayMini**: Kiwi Kiwi, Happy Duckling | **Anshika674**: Ride-A-Pet Potion |
 | 05:40 | **jeffreystarleaks**: Owl (NFR), Parrot, Mini Pig (FR), Mini Pig (R), Goose (FR) | **brilexyy**: Giraffe (NFR) |
 | 05:40 | **AmAmHardi**: Candicorn (NFR), Candicorn (NR) ×3, Fly-A-Pet Potion | **leruval**: Parrot (FR) |
@@ -42,11 +47,6 @@ _Updated 2026-11-17 05:40 UTC by the scrape workflow._
 | 05:40 | **Kxxr9**: Turtle (FR) ×3, Turtle (NFR), Strawberry Shortcake Bat Dragon (FR), Peppermint Penguin (FR), Flamingo (FR), Tiny Wings, Ride-A-Pet Potion | **Alexey_Vi**: Hedgehog (FR), Dalmatian (FR), Chocolate Chip Bat Dragon (FR) |
 | 05:40 | **Wolfie4567ty**: Glormy Leo (FR) | **PixiePawsTrade**: Ride-A-Pet Potion ×4 |
 | 05:40 | **profrog117**: Ride-A-Pet Potion | **Antonipes**: Frosty Glow Mega Neon Paint |
-| 05:40 | **Anshika674**: Crystal Egg ×12 | **ppomkoo**: Ride-A-Pet Potion |
-| 05:40 | **martins10530**: Crystal Egg ×10 | **r9ya1ty**: Ride-A-Pet Potion |
-| 05:40 | **JanaJanjoon11**: Fly-A-Pet Potion | **martins10530**: Crystal Egg ×17 |
-| 05:40 | **martins10530**: Crystal Egg ×18 | **BreadPlayz20**: Fly-A-Pet Potion |
-| 05:40 | **bob4_boy**: Flamingo (NFR) | **Lola_ant34**: Tiny Wings, Ice Cream Cone Hat, Strawberry Shortcake Bat Dragon Backpack, Unicorn Backpack, Spring Bunny Nose, Pancake Stack, Cupid Dragon (N) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
