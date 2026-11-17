@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 13:01 UTC by the scrape workflow._
+_Updated 2026-11-17 13:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 13:01 UTC by the scrape workflow._
 | amvgg | 7 | 34,681 | 2026-11-17T13:00 |
 | elve | 7 | 7,215 | 2026-11-17T13:01 |
 
-## AMVGG completed trades: 27,845 total
+## AMVGG completed trades: 27,872 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,776 |
+| 2026-11-17 | 1,803 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 13:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:00 | **Sameterryy**: Mini Pig (FR), Kangaroo (FR), Tiny Wings, Alien Eyes Hat | **Niruch_Bearly**: Arctic Reindeer (FR) |
-| 13:00 | **cherry_cinabon**: Peacock (R) | **Yamenzoj**: Ride-A-Pet Potion |
-| 13:00 | **misa67973**: African Wild Dog, Blazing Lion, Cryptid ×2, Cryptid (FR), Giant Panda (FR), Strawberry Shortcake Bat Dragon (FR), Munchkin Cat (FR), Arctic Fox, Pink Cat | **misswoodhouseyear1**: Bat Dragon (FR) |
-| 13:00 | **baim_mm298**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Blue Cat Ear Headphones | **zams3mpire**: Copycat |
-| 13:00 | **godfather_9935**: Crow (FR), Shark Puppy (NFR), Sakura Spirit (NFR), Copycat (NFR), Cupid Dragon (NFR) ×2, Golden Penguin (MFR), Jester Dragon (NFR), Cabbit (R), Glacier Kitsune (NFR), Turtle (FR), Super Jetpack, Ballet Swan (NFR) ×2, Kangaroo (FR), Candicorn, Tortoiseshell Guinea Pig (FR), Rain Cloud Hat | **Kiandra13kiandra**: Shadow Dragon (FR) |
-| 13:00 | **Gmyiluv**: Red Dutch Guinea Pig (NF), Latte Kitsune | **casibeeh**: 2022 Birthday Cupcake Shoes |
-| 13:00 | **mms_119**: Dango Penguins | **MathildeFX924**: Gemstone Egg ×7 |
-| 13:00 | **d3d3d89**: Copycat, Tree Kangaroo (FR), Ride-A-Pet Potion | **laur3star**: Pig (FR) |
-| 13:00 | **d3d3d89**: Rainbow Dragon | **Xxxxashhhh**: Ride-A-Pet Potion ×2 |
-| 13:00 | **Inganta07**: Fly-A-Pet Potion | **d3d3d89**: Cerberus (R) |
-| 13:00 | **uwvyuu**: Kitty Bat (NR) | **afissamuzfirah**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 13:00 | **U9l9y**: Sakura Spirit (R), Halloween Black Axe Guitar Accessory, Rabbit (N), Ocelot (N) | **afissamuzfirah**: Arctic Fox (R) |
-| 13:00 | **afissamuzfirah**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **lucasprz7**: Frost Fury (FR) |
-| 13:00 | **TYTkuza2**: Kangaroo (FR) | **faikubjotch**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion |
-| 13:00 | **Kyotoru_Hagi**: Hare, Pupcicle, Pet Handler Pro Certificate | **xiivra**: Harp Seal (N) |
+| 13:10 | **Lerkooo_111**: Siamese Cat (FR), Jellyfish (FR) | **00099hh1**: Peppermint Penguin (FR) |
+| 13:10 | **paulvibesss**: Mini Pig (FR), Hot Doggo (FR), Goose, Diamond Butterfly (FR), Fairy Bat Dragon (FR), Sugar Glider (FR), Turtle (R), Candicorn (R), Copycat, Husky | **KiaXias**: Balloon Unicorn (FR), Evil Unicorn |
+| 13:10 | **arina2281488s**: Mexican Wolf, Moonpine, Snorgle, Thunderfisher, Tree Sasquatch, Magpie, Kakapo, Patchy Bear, Capuchin Monkey | **Aslie_17**: Ride-A-Pet Potion |
+| 13:10 | **Calloway1738**: Ride-A-Pet Potion ×2, Goat (FR) | **Djfjjdp**: Arctic Fox (FR) |
+| 13:10 | **dianadonatlove**: Diamond Unicorn (R), Sloth (FR), Easter Bunny (N) | **Djfjjdp**: Fly-A-Pet Potion |
+| 13:10 | **TheDreamOn**: Hedgehog (FR), Chocolate Chip Bat Dragon (FR) | **Wyatt89PaisleyFalcon**: Crow (FR) |
+| 13:10 | **Cutie_wolfie20**: Turtle (NFR), Halloween White Ghost Dragon (FR), Christmas Pudding Pup, Ride-A-Pet Potion ×5, Ice Cream Hermit Crab | **vitalik74723**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:10 | **s_snoupyy**: Black Macaque (MFR) | **Whatsupguys_3890**: Amami Rabbit (MR) |
+| 13:10 | **AlyonaTheLove**: Goose (R), Chihuahua (R) | **TwistedK1tty**: Cow (FR) |
+| 13:10 | **Japvaxx**: Goose (FR) | **TwistedK1tty**: Cow (FR), Ride-A-Pet Potion |
+| 13:10 | **kez_alt1**: Candyfloss Chick (FR), Pink Cat (NFR), Canadian Goose (N) | **mysty_hyung**: Turtle (NFR) |
+| 13:10 | **minusponda**: Diamond Butterfly (FR), Husky (MFR), Haetyphoon | **marvin22dingo**: Christmas Pudding Pup (MFR) |
+| 13:10 | **Megacutereee_82513**: Goat (R) | **bad_boss1235**: Field Mouse (R) |
+| 13:10 | **Tesma_Official**: Moon Rabbit (NR), Pancake Stack | **volkodav0069**: Christmas Pudding Pup (R) |
+| 13:10 | **THOLING1232**: Gemstone Egg | **draike_tzu8262**: Retired Egg ×18 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
