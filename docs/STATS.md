@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 01:16 UTC by the scrape workflow._
+_Updated 2026-11-17 01:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 01:16 UTC by the scrape workflow._
 | amvgg | 7 | 24,152 | 2026-11-17T01:15 |
 | elve | 7 | 5,118 | 2026-11-17T01:16 |
 
-## AMVGG completed trades: 26,270 total
+## AMVGG completed trades: 26,303 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 201 |
+| 2026-11-17 | 234 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 01:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:15 | **TheKindAndOnly**: Pupcicle ×18 | **modo_lillith2**: Kangaroo (FR) |
-| 01:10 | **K0TIIX**: Evil Unicorn (NFR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Candicorn (FR), Goose (F), Arctic Fox (NFR), Crocodile | **xXGamerGieio**: Giraffe (FR) |
-| 01:10 | **quesodrilo**: Mini Pig (R) | **R0gue_Cha0s165**: Siamese Cat (FR), Elephant (FR), Ride-A-Pet Potion |
-| 01:10 | **PunkyNico**: Ride-A-Pet Potion | **Sove_1111**: Mighty Haetyphoon Animated Sticker |
-| 01:10 | **lol_mahaaa**: Pupcicle, Momma Moose | **chwrryel1h**: Elf Hat |
-| 01:10 | **tarrace_house**: Ride-A-Pet Potion ×2 | **Fernando07_14**: Pupcicle ×3 |
-| 01:10 | **paola_thebee**: Candyfloss Chick (NFR), Candicorn (NFR) | **Slushyunicorn0**: Cryptid (FR) |
-| 01:10 | **yeobviiiii**: Cerberus (MFR) | **sursyrzytxurzutzutz**: Angel Wings |
-| 01:06 | **Jeansppk**: Pancake Stack | **24tyra**: Hare |
-| 01:06 | **bxd_bab1**: Fly-A-Pet Potion | **TheKindAndOnly**: Pupcicle ×2 |
-| 01:06 | **Lumina20265**: Panda (NR) | **sickliIpup**: Frost Fury (FR) |
-| 01:06 | **krishold3r**: Strawberry Penguin (R) | **diiv_iine**: Strawberry Penguin |
-| 01:06 | **iuliandia**: Ride-A-Pet Potion, Dire Wolf (N) | **razarvale2z**: Pain au Chat ×3 |
-| 01:06 | **kaylamicmi**: Chocolate Chip Bat Dragon (R) | **Diamondprinces32**: Rainbow Maker, Ride-A-Pet Potion |
-| 01:06 | **gumiiitooo**: Copycat (N), Aurora Fox, Ride-A-Pet Potion, Count Slothula (FR), Count Slothula, Glider | **garinha_500**: Hot Doggo (FR) |
+| 01:25 | **FlyToTheSaturn**: Banana Car, Hoverboard ×3, Hovertible, Imagination Box, Micro Car, Squirrel Car, Clown Car ×2, Flower Wagon, Heart Hoverboard | **tutritam174**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 01:25 | **gamereldark_YT**: Halloween White Ghost Dragon (FR), German Shepherd (N) ×2, Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **spwrinklss**: Turtle (FR) |
+| 01:21 | **Aphmau_Cool09**: Pupcicle (MFR), Harp Seal (MFR), Fallow Deer (NFR) | **Gabriele143love**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:21 | **EatingYallFlopsUp**: Chocolate Chip Bat Dragon (FR) | **Spooky_Aniyah**: Cow (FR), Goose (FR) |
+| 01:21 | **henry122450**: Chocolate Chip Bat Dragon (NFR) | **Zoskiloc**: Silverback Gorilla (MFR) |
+| 01:21 | **Yolo_trol07**: Cryptid (FR) | **samitoXcrak**: Lava Dragon (MFR), Copycat (NR), Cow (R), Ride-A-Pet Potion |
+| 01:21 | **Elijah_mikaelson1492**: Frost Dragon (FR), Parrot (FR), Strawberry Shortcake Bat Dragon (FR) ×2 | **chrisslayer1000**: Shadow Dragon (FR) |
+| 01:21 | **iiSimplylvxy**: Cabbit (NFR) | **Lluvvmiles**: Rainbow Maker, Unicorn Horn |
+| 01:21 | **no_name12345654321**: Arctic Fox (N), Heart Bow, Flower Aura, Eaten Donut, Unfortunate Eyelashes, Strawberry Shortcake Bow | **Kristina_12k1**: Turtle (FR) |
+| 01:21 | **FlyToTheSaturn**: Sabertooth ×2, Scarlet Butterfly ×2, Water Rabbit, Castle Hermit Crab, Cow Calf, Great Pyrenees ×2, Happy Duckling, Koi Carp ×3, Leopard Cat, Moon Rabbit, Reindeer, Caramelgeist (N) ×2 | **tutritam174**: Fly-A-Pet Potion ×4 |
+| 01:21 | **Lua175367**: Kangaroo (NFR), Peach Owl (NFR) | **bunnyblinkP**: Shark Puppy (NFR) |
+| 01:21 | **carolzinhac2009**: Frog (N) | **blake_shortie**: Ride-A-Pet Potion |
+| 01:21 | **FlyToTheSaturn**: Modern Mansion | **KikiChoco55**: Ride-A-Pet Potion |
+| 01:21 | **girlgameraaaaaaa**: Copycat (N) | **DoughnutDucks**: Harp Seal (MFR) |
+| 01:21 | **iuvzjules**: Balloon Unicorn (FR), Crocodile (R), Turkey (NR) | **cutiemoonplalmira**: Giant Panda (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
