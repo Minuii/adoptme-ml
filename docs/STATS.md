@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-17 01:40 UTC by the scrape workflow._
+_Updated 2026-11-17 01:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 13 | 2026-11-11T1036Z | 2026-11-16T0145Z |
+| elve | 14 | 2026-11-11T1036Z | 2026-11-17T0145Z |
 | amvgg | 35 | 2026-11-11T1036Z | 2026-11-16T1846Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 24,400 | 2026-11-17T01:30 |
-| elve | 7 | 5,150 | 2026-11-17T01:31 |
+| amvgg | 7 | 24,653 | 2026-11-17T01:45 |
+| elve | 7 | 5,161 | 2026-11-17T01:45 |
 
-## AMVGG completed trades: 26,363 total
+## AMVGG completed trades: 26,370 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 294 |
+| 2026-11-17 | 301 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,13 @@ _Updated 2026-11-17 01:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:45 | **Bubblesby_bailey1234**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **kdooo2020**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:45 | **aLiEnGiRl_e**: Dalmatian (NFR) | **wrldhrt**: Goose (NFR), Dalmatian (FR), Cow (FR) |
+| 01:45 | **whannahbeyours98**: Brachiosaurus (MFR) | **notchap1na**: Dragonfruit Fox |
+| 01:45 | **Pixel_art024**: Amethyst Penguin (FR), Mini Pig (FR) | **sadlyhallow**: Giant Panda (FR) |
+| 01:45 | **Pixel_art024**: Dalmatian (FR), Chocolate Dutch Guinea Pig (FR) | **sadlyhallow**: Tri-horned Treehopper (MFR) |
+| 01:45 | **kotik_yap1**: Roblox Snowboard | **Kosh_0305**: Latte Kitsune, Glacier Kitsune (R) |
+| 01:45 | **reiikell**: Peppermint Penguin (NFR), Unicorn Horn | **0kayGhoul**: Strawberry Shortcake Bat Dragon (NFR), Pet Handler Pro Certificate |
 | 01:40 | **evieebunnii**: Ride-A-Pet Potion ×2 | **PhoenixEpic85**: Chihuahua ×5 |
 | 01:40 | **LaraIphone16e**: Pig (F), Hyena (R), Ride-A-Pet Potion | **R0gue_Cha0s165**: Border Collie |
 | 01:40 | **iiSimplyYool**: Stitches (M) | **dnei30fast**: Ride-A-Pet Potion |
@@ -40,33 +47,26 @@ _Updated 2026-11-17 01:40 UTC by the scrape workflow._
 | 01:40 | **WinterxSnowyy**: Dog (MR), Dog (MFR), Cat (MFR) | **dnei30fast**: Fly-A-Pet Potion |
 | 01:40 | **6evesvokhaha**: Ride-A-Pet Potion | **flowerist0w04577**: Paint Sealer ×18 |
 | 01:40 | **alexgameminecraft**: Ride-A-Pet Potion ×2 | **6evesvokhaha**: Fly-A-Pet Potion |
-| 01:40 | **NanoBlue2005**: Black-Footed Ferret (M) | **1Biahsz_altx**: Ride-A-Pet Potion |
-| 01:40 | **Anshika674**: Crystal Egg ×15 | **Expiredsprinkles13**: Ride-A-Pet Potion |
-| 01:40 | **ilycameli**: Sakura Wings | **Soralove_21**: Pupcicle |
-| 01:40 | **IzeaEboy**: Pupcake (R), Pupcake | **ANNADOG444**: Fly-A-Pet Potion |
-| 01:40 | **Pixel_art024**: Haetae (FR) | **sadlyhallow**: Mini Pig (FR), Undead Jousting Horse (FR), Diamond Butterfly (FR) |
-| 01:40 | **Jimmyjon_JRJR**: Crow (FR), Dalmatian (FR), Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (R), Turtle (R), Frostbite Bear, Polar Bear, Siamese Cat (FR), Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Cattuccino (N), Bee (F), Winter Deer Family Sticker, Cookie Dough Plush, Chocolate Chip Bat Dragon Backpack | **yesterboni0**: Blazing Lion (NFR) |
-| 01:40 | **Antonnyalexander2009**: Puffin (MFR), Goth Shoes, Candyfloss Chick (MFR), 2022 Birthday 5 Badge, Rainbow Maker | **vupxric**: Peppermint Penguin (MFR) |
 
-## Elvebredd value changes: 62,042 since 2023-09-16
+## Elvebredd value changes: 62,129 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-16 01:00 | Mighty Haetyphoon Animated Sticker | default no potion | 2 | 1 |
-| 2026-11-16 01:00 | Flash Weasel | mega fly ride | 320 | 312 |
-| 2026-11-16 01:00 | Flash Weasel | neon fly ride | 76 | 74 |
-| 2026-11-16 01:00 | Flash Weasel | default no potion | 17.5 | 17 |
-| 2026-11-16 01:00 | Haetyphoon | mega fly ride | 336 | 320 |
-| 2026-11-16 01:00 | Haetyphoon | neon fly ride | 80 | 76 |
-| 2026-11-16 01:00 | Haetyphoon | default no potion | 18.5 | 17.5 |
-| 2026-11-16 01:00 | Copycat | mega fly ride | 146 | 138 |
-| 2026-11-16 01:00 | Copycat | neon fly ride | 36 | 34 |
-| 2026-11-16 01:00 | Copycat | default no potion | 8 | 7.5 |
-| 2026-11-16 01:00 | Jester Dragon | mega fly ride | 128 | 120 |
-| 2026-11-16 01:00 | Jester Dragon | neon fly ride | 32 | 30 |
-| 2026-11-16 01:00 | Jester Dragon | default no potion | 7.25 | 7 |
-| 2026-11-16 01:00 | Latte Kitsune | mega fly ride | 64 | 60 |
-| 2026-11-16 01:00 | Latte Kitsune | neon fly ride | 15 | 14 |
+| 2026-11-17 01:14 | Pupcicle | mega fly ride | 26.4 | 24.4 |
+| 2026-11-17 01:14 | Pupcicle | neon fly ride | 6.35 | 5.85 |
+| 2026-11-17 01:14 | Pupcicle | default no potion | 1.1 | 1 |
+| 2026-11-17 01:14 | Copycat | mega fly ride | 138 | 130 |
+| 2026-11-17 01:14 | Copycat | neon fly ride | 34 | 32 |
+| 2026-11-17 01:14 | Copycat | default no potion | 7.5 | 7 |
+| 2026-11-17 01:14 | Jester Dragon | mega fly ride | 120 | 116 |
+| 2026-11-17 01:14 | Jester Dragon | neon fly ride | 30 | 29 |
+| 2026-11-17 01:14 | Jester Dragon | default no potion | 7 | 6.75 |
+| 2026-11-17 01:14 | Amethyst Penguin | mega fly ride | 2272 | 2224 |
+| 2026-11-17 01:14 | Amethyst Penguin | neon fly ride | 558 | 546 |
+| 2026-11-17 01:14 | Amethyst Penguin | default fly ride | 138 | 134 |
+| 2026-11-17 01:14 | Strawberry Tortle | mega fly ride | 608 | 600 |
+| 2026-11-17 01:14 | Strawberry Tortle | neon fly ride | 150 | 148 |
+| 2026-11-17 01:14 | Strawberry Tortle | default no potion | 36.5 | 36 |
 
 ## AMVGG value changes: 7,807 since 2026-06-02
 
