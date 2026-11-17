@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 20:40 UTC by the scrape workflow._
+_Updated 2026-11-17 20:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 20:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 42,020 | 2026-11-17T20:30 |
-| elve | 7 | 8,954 | 2026-11-17T20:31 |
+| amvgg | 7 | 42,253 | 2026-11-17T20:45 |
+| elve | 7 | 8,976 | 2026-11-17T20:45 |
 
-## AMVGG completed trades: 29,482 total
+## AMVGG completed trades: 29,495 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,413 |
+| 2026-11-17 | 3,426 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 20:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:45 | **CutieShadowBunny1**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **xxxxproxxxx5500**: Jester Dragon |
+| 20:45 | **1C0NELL1**: Ride-A-Pet Potion, Pupcicle (N) | **YOKOZ303**: Meerkat (R) |
+| 20:45 | **panda172808**: Dragonfly, Ms. Muffet (N), Princess Mare (N), Irish Setter (N), Crimson Cape, Stitches, Sneak Weasel, 2025 Birthday Butterfly | **littlefelonies**: Starfish ×11 |
+| 20:45 | **ki1wilov**: Ride-A-Pet Potion | **Antonipes**: Candyfloss Mega Neon Paint, Paint Sealer |
+| 20:45 | **unicornio8910264**: Fly-A-Pet Potion ×7 | **Mx1shu**: Border Collie |
+| 20:45 | **Elwanizk**: Pain au Chat | **double_blackxx**: Retired Egg ×18 |
+| 20:45 | **FINNRAVENBU999DDYRbx**: Magma Moose (R), Spring Bunny Feet | **sahaloved**: Bee (NFR) |
+| 20:45 | **Honeymochi_oo**: Cabbit (FR), Platypus | **pawsheens3**: Strawberry Penguin (NFR) |
+| 20:45 | **Imabeehehe300**: Rain Hat | **Robert_mila**: Cheese Hat |
+| 20:45 | **Shehatesme420**: Strawberry Shortcake Bat Dragon (FR) | **zukabrokerheart**: Shark Puppy (R), Shark Puppy, Crocodile, Ring-Tailed Lemur (N), Fly-A-Pet Potion ×5, Hare (R) |
+| 20:45 | **uh_dulciee**: Gemstone Egg ×3 | **creppi_56**: Spring Bunny Feet |
+| 20:45 | **isabellla_aurora**: Ride-A-Pet Potion, Fly-A-Pet Potion, Kitty Bat (N) | **M1cahsWRLD**: Polar Bear (R) |
+| 20:45 | **MrRxwr**: Pupcicle (N), Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×3 | **NotSweatyOnion**: Siamese Cat |
 | 20:40 | **AKI10PLAY**: Count Slothula (N), Clumpty (M) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×3 |
 | 20:40 | **airascoolalt**: Peachick, Christmas Pudding House | **DanyXwU01**: Pupcicle |
-| 20:40 | **micaelakdkdn**: Dragonfruit Fox (MFR), Copycat (N), Pig (NFR), Shark Puppy, Spring Bunny Hood, Skelicorn (M), Candyfloss Mega Neon Paint | **LeticiaFaria_10**: Copycat (MFR) |
-| 20:40 | **saskitima**: Dingo (N), Cat | **Andy_kj8**: Poltergeist Box ×18 |
-| 20:40 | **Caliscat22**: Pupcicle ×2, Snow Cat (M), Sunflower Friend (N), Zombie Chick (N) | **shiro_chr**: Binturong (N) |
-| 20:40 | **AseesCr7GoesBoom**: Peppermint Penguin (MFR) ×2 | **amyggvaI**: Frost Dragon (FR) ×3, Turtle (FR) ×2 |
-| 20:40 | **rttnghumanfl3sh**: Border Collie (R) | **loucaaqui**: Red Dutch Guinea Pig (N) |
-| 20:40 | **K9Aurora4h**: Moose Calf | **ALTERNATIVEACCKAY**: Jousting Horse |
-| 20:40 | **roblox_user_8676283275**: Bush Elephant (MFR), Jellyfish (MFR), Shark Puppy (MFR), Matcha Cat (MFR), Giant Anteater (MFR), Bald Eagle (MFR), Goat (MFR) ×2, Ballet Swan (MFR), Ring-Tailed Lemur (MFR), Glormy Leo (MFR), Jousting Horse (MFR) ×2, Rose Dragon (MFR) ×2, Frost Phoenix (MFR), Cabbit (NFR), Matcha Cat (NR) | **sleepy_fredih**: Peppermint Penguin (MFR), Strawberry Shortcake Bat Dragon (MFR), Tio De Nadal (MFR), Chocolate Chip Bat Dragon (MFR), Golden Walrus (MFR), Jellyfish |
-| 20:40 | **KanskjeMatilde**: Caramelgeist (M), Shih Tzu (M), Jacobin Pigeon (M) | **Youmyrii**: Ride-A-Pet Potion |
-| 20:40 | **Li0nH3r086**: Goose (FR), Kangaroo (NFR), Turtle (FR), Cupid Dragon (R), Ride-A-Pet Potion | **Lilu2383**: Evil Unicorn (FR) |
-| 20:40 | **asgdhfefhfhru1**: Ride-A-Pet Potion, Fairytale Castle | **WhinyBuny**: Onza (M) |
-| 20:40 | **Fanyprzz**: Strawberry Shortcake Bat Dragon (FR), Birthday Butterfly 2024 (MFR), Fly-A-Pet Potion, Dragonfruit Fox | **aleks2u**: Arctic Reindeer (FR) |
-| 20:40 | **HobbyHorsing103**: Giraffe (FR), Chihuahua (MFR) | **hanb3ki**: Safari Egg, Parrot (FR) |
-| 20:40 | **histroniaa**: Llama (R) | **1qeers**: Husky, Winter Fawn |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
