@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 13:10 UTC by the scrape workflow._
+_Updated 2026-11-17 13:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 13:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 34,681 | 2026-11-17T13:00 |
-| elve | 7 | 7,215 | 2026-11-17T13:01 |
+| amvgg | 7 | 34,924 | 2026-11-17T13:15 |
+| elve | 7 | 7,295 | 2026-11-17T13:16 |
 
-## AMVGG completed trades: 27,872 total
+## AMVGG completed trades: 27,882 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,803 |
+| 2026-11-17 | 1,813 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 13:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 13:15 | **kworixx**: Stitches (MR), Irish Setter (M) | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 13:15 | **renalavani**: Eggnog Dog (N) | **NICOLE_fofinha3578**: Fly-A-Pet Potion |
+| 13:15 | **nice2306_alt**: Stray Cat Dragon ×15 | **ShadowDragonLoverN1**: Fly-A-Pet Potion |
+| 13:15 | **Ruperto_1297**: Arctic Fox (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 13:15 | **Ntyfoth**: Jester Dragon (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×3 |
+| 13:15 | **ProSpark251**: Strawberry Tortle (NFR), Dragonfruit Fox (MFR), Dango Penguins (MFR), Purrowl (MFR) ×3, Stray Cat Dragon (MFR) ×2, Skelicorn (MFR), Electric Hornet (MFR) ×2, Dire Wolf (MFR), Frozen Penguin (MFR), Gumball Caterpillar (MFR), Unicorn Ducky (MFR), Sheepdog Ducky (MFR), Bubblegeist (MFR) ×2 | **Kiandra13kiandra**: Frost Dragon (FR) |
+| 13:15 | **w0Lops**: Catte ×3 | **YOKOZ303**: Pet Handler Pro Certificate |
+| 13:15 | **Krisps16**: Latte Kitsune, Ride-A-Pet Potion | **emreeeehan123**: Tri-horned Treehopper |
+| 13:15 | **method611491**: Frost Dragon (FR), Giant Panda (FR), Chocolate Chip Bat Dragon (NR), Chocolate Chip Bat Dragon (FR), Kangaroo (NFR) ×3, Mini Pig (FR), Cow (FR), Toy Monkey (MFR), Business Monkey (MFR), Turtle (FR), Munchkin Cat (N), Strawberry Tortle, Nessie (FR), Moose Calf (NFR) | **lanaisdelrey**: Cryptid (MFR) |
+| 13:15 | **maniaxara**: Goose (FR), Harp Seal | **Scphiaaxbxdcr**: Sugar Glider (R), Tiny Wings |
 | 13:10 | **Lerkooo_111**: Siamese Cat (FR), Jellyfish (FR) | **00099hh1**: Peppermint Penguin (FR) |
 | 13:10 | **paulvibesss**: Mini Pig (FR), Hot Doggo (FR), Goose, Diamond Butterfly (FR), Fairy Bat Dragon (FR), Sugar Glider (FR), Turtle (R), Candicorn (R), Copycat, Husky | **KiaXias**: Balloon Unicorn (FR), Evil Unicorn |
 | 13:10 | **arina2281488s**: Mexican Wolf, Moonpine, Snorgle, Thunderfisher, Tree Sasquatch, Magpie, Kakapo, Patchy Bear, Capuchin Monkey | **Aslie_17**: Ride-A-Pet Potion |
 | 13:10 | **Calloway1738**: Ride-A-Pet Potion ×2, Goat (FR) | **Djfjjdp**: Arctic Fox (FR) |
 | 13:10 | **dianadonatlove**: Diamond Unicorn (R), Sloth (FR), Easter Bunny (N) | **Djfjjdp**: Fly-A-Pet Potion |
-| 13:10 | **TheDreamOn**: Hedgehog (FR), Chocolate Chip Bat Dragon (FR) | **Wyatt89PaisleyFalcon**: Crow (FR) |
-| 13:10 | **Cutie_wolfie20**: Turtle (NFR), Halloween White Ghost Dragon (FR), Christmas Pudding Pup, Ride-A-Pet Potion ×5, Ice Cream Hermit Crab | **vitalik74723**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:10 | **s_snoupyy**: Black Macaque (MFR) | **Whatsupguys_3890**: Amami Rabbit (MR) |
-| 13:10 | **AlyonaTheLove**: Goose (R), Chihuahua (R) | **TwistedK1tty**: Cow (FR) |
-| 13:10 | **Japvaxx**: Goose (FR) | **TwistedK1tty**: Cow (FR), Ride-A-Pet Potion |
-| 13:10 | **kez_alt1**: Candyfloss Chick (FR), Pink Cat (NFR), Canadian Goose (N) | **mysty_hyung**: Turtle (NFR) |
-| 13:10 | **minusponda**: Diamond Butterfly (FR), Husky (MFR), Haetyphoon | **marvin22dingo**: Christmas Pudding Pup (MFR) |
-| 13:10 | **Megacutereee_82513**: Goat (R) | **bad_boss1235**: Field Mouse (R) |
-| 13:10 | **Tesma_Official**: Moon Rabbit (NR), Pancake Stack | **volkodav0069**: Christmas Pudding Pup (R) |
-| 13:10 | **THOLING1232**: Gemstone Egg | **draike_tzu8262**: Retired Egg ×18 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
