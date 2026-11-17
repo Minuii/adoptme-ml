@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 22:16 UTC by the scrape workflow._
+_Updated 2026-11-17 22:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 22:16 UTC by the scrape workflow._
 | amvgg | 7 | 43,702 | 2026-11-17T22:15 |
 | elve | 7 | 9,300 | 2026-11-17T22:16 |
 
-## AMVGG completed trades: 29,801 total
+## AMVGG completed trades: 29,826 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,732 |
+| 2026-11-17 | 3,757 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 22:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:15 | **StartEggtofrostdrag0**: Arctic Fox (NFR) | **Xxskibidy67**: Turtle (FR) |
-| 22:15 | **TheRealkillersixty**: Giraffe (FR) | **izzztya**: Strawberry Shortcake Bat Dragon (FR) ×6 |
-| 22:15 | **pisapopakakashecki**: Dracula Parrot ×4 | **guchi_puchi95**: Ride-A-Pet Potion |
-| 22:15 | **Darmay_y**: Count Slothula ×3 | **guchi_puchi95**: Ride-A-Pet Potion ×2 |
-| 22:15 | **xlorkaa7**: Emu (NF) | **roblox_user_9559902919**: Ride-A-Pet Potion |
-| 22:15 | **adoptcatdogfox2**: Chick, Cozy Mistletroll, Quetzalcoatl ×2, Christmas Spirit, Alicorn, Diamond Dragon ×2, Dragonfly | **guchi_puchi95**: Ride-A-Pet Potion |
-| 22:15 | **Gamerqueen1255**: Gemstone Egg | **Chasegamertv2667**: Retired Egg ×18 |
-| 22:15 | **chicken_kaka7w7**: Border Collie | **gumiiitooo**: Jellyfish (R), Ring-Tailed Lemur (FR) |
-| 22:15 | **eyeofrahismymom**: Tiny Wings, Llama (NFR) | **lili270811**: 2022 Birthday Cupcake Shoes |
-| 22:15 | **lovewqnted**: Kangaroo (FR), Pupcicle (N) | **100PercentWinRateHax**: Velocirooster (NFR) |
-| 22:15 | **Dominat0r_Sha**: Alicorn (M) | **pinkysworn**: Ride-A-Pet Potion ×2 |
-| 22:15 | **5kHxll**: Ride-A-Pet Potion | **Pifacat**: Pupcicle |
-| 22:15 | **ishibana0967**: Purrowl (N) ×2 | **pinkysworn**: Ride-A-Pet Potion |
-| 22:15 | **N0ttmy_main**: Fairy Bat Dragon (FR), Turtle (FR), Fallow Deer, Pupcake (N), Happy Duckling (N), Abyssinian Cat (M), Ocelot (M), Gemstone Egg, Corgi (N) | **GranTakeshi**: Rainbow Maker |
-| 22:15 | **itssuu_k**: Werewolf (R) | **Kensley2hated**: Siamese Cat |
+| 22:25 | **TheAddictedSpider**: Owl (FR) ×2, Hedgehog (FR) | **Cool_Evka77**: Nessie (MFR), Kangaroo (MFR), Ring-Tailed Lemur (MFR), Flaming Fox (MR), Kangaroo (NFR), Flamingo (NFR), Rainbow Maker, Fly-A-Pet Potion ×3, Spring Bunny Nose, Hare (MFR) |
+| 22:25 | **Zuminkikiki**: Golden Bone | **lunar_21129**: Kitty Biscuit |
+| 22:25 | **Jillian_Clarice**: Cow (MFR), Ride-A-Pet Potion | **nikiph9w**: Peppermint Penguin (NFR), Dango Penguins (MR), Chocolate Dutch Guinea Pig (MR), Jellyfish |
+| 22:25 | **KaiSaboAceCC**: Cow (FR) | **Zocko007**: T-Rex (R) ×2, Ram ×2, Octopus ×3, Tortoiseshell Guinea Pig, Arctic Fox (FR), Lamb (R), Sloth (NFR) |
+| 22:21 | **16kxxDreamzz**: Unicorn (N), Unicorn, Chocolate Dutch Guinea Pig | **camiilita_7w7**: Christmas Pudding Pup |
+| 22:21 | **gag_gaag**: Caelum Cervi (MFR), Papa Moose (R), Papa Moose | **fifi_kikie**: Candicorn (MFR) |
+| 22:21 | **cunlainy**: Werewolf (FR), Lion (R) | **mamadmasa010**: Peppermint Penguin (FR) |
+| 22:21 | **anja_gamer99**: Candicorn (FR), Nautilus (N), Glamicorn Purse Pet | **mamadmasa010**: S'mores Raccoon (MFR) |
+| 22:21 | **bbkxrby**: Owlbear (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **zeejnaa**: Red Dutch Guinea Pig (MFR), Toaster Hat |
+| 22:21 | **Katarinamartino**: Turtle (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **luke1_164**: Cow (FR) |
+| 22:21 | **liofe1**: Puffer Fish, Ride-A-Pet Potion, Little Lamb (N) ×4, Ram, Lamb, Tan Chow-Chow, Sea Angel ×9 | **mk1qez**: Ice Cream Cone Hat |
+| 22:21 | **Ira_20086**: Ride-A-Pet Potion | **vimiira**: Flower Power Duckling ×2 |
+| 22:21 | **roblox_user_9559902919**: Rubber Ducky (M), Galapagos Sea Lion (M), Galapagos Sea Lion (NR) | **Panconkeso7004**: Ride-A-Pet Potion |
+| 22:21 | **meggy_192**: Albino Monkey (FR) | **LKTF1N**: Pupcake ×16 |
+| 22:21 | **cutvowz**: Cryptid (FR), Bush Elephant (FR), Pink Cat Ear Headphones | **itsliwww**: Sugar Glider (FR), Munchkin Cat (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
