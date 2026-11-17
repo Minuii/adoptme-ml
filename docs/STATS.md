@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 02:45 UTC by the scrape workflow._
+_Updated 2026-11-17 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 02:45 UTC by the scrape workflow._
 | amvgg | 7 | 25,551 | 2026-11-17T02:45 |
 | elve | 7 | 5,354 | 2026-11-17T02:45 |
 
-## AMVGG completed trades: 26,501 total
+## AMVGG completed trades: 26,505 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 432 |
+| 2026-11-17 | 436 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,10 @@ _Updated 2026-11-17 02:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:55 | **ChosoArtist**: Mexican Wolf, Bolt, Bobageist, Mummy Spider, Black Rhino, Zebra, Zeopod | **cherrymoon4441**: Parakeet ×10 |
+| 02:50 | **M4RC0S_R0SSI2**: Candicorn (MFR), Goose, Halo, Brown Bear (NFR) | **Z0mb1e_R1ot**: Owl |
+| 02:50 | **islandicsinger**: Turtle (FR) | **lolcryabtit6767**: Arctic Fox (NFR) |
+| 02:50 | **Ruperto_1297**: Evil Unicorn (FR) | **brainrotgod989**: Cow (FR) ×3 |
 | 02:45 | **Piolin_Xl3**: Frost Dragon (FR) | **SimxplyDaisyYT**: Cow (FR) ×2, Goose (FR), Peppermint Penguin (FR) ×2, Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
 | 02:45 | **jam0khurt**: Ride-A-Pet Potion ×9 | **lilliesautumn**: Munchkin Cat |
 | 02:45 | **ProSpark251**: Dire Wolf (MFR) | **AER0NZ1X**: Ride-A-Pet Potion ×3 |
@@ -43,10 +47,6 @@ _Updated 2026-11-17 02:45 UTC by the scrape workflow._
 | 02:36 | **Anshika674**: Ride-A-Pet Potion | **mati08proo**: Purrowl ×12 |
 | 02:36 | **cxar_25**: Kangaroo (R), Ride-A-Pet Potion | **r9ya1ty**: Kangaroo (FR) |
 | 02:36 | **Boss786245**: Bat Dragon (FR), Frost Dragon (FR), Kangaroo (NFR) | **rowletgamig**: Shadow Dragon (NFR) |
-| 02:36 | **Vanlyzn26**: Crystal Egg ×14 | **P8D3L**: Ride-A-Pet Potion |
-| 02:36 | **Stormyeyes6874**: Cow (FR) | **rip_indra12345678912**: Undead Jousting Horse |
-| 02:36 | **Islaxluca**: Pain au Chat (M), Pancake Stack, Vol. 2 Pets Plus Sticker Pack ×3, Unicorn Backpack | **aabeeyg**: Spinning Cat Animated Sticker |
-| 02:36 | **Mimismila8**: Parrot (NFR), Siamese Cat (R), Frost Fury (FR), 2022 Birthday Cake, Tiny Wings, Fly-A-Pet Potion, Ride-A-Pet Potion | **EmiXMisty**: Giraffe (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
