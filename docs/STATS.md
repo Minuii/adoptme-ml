@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 03:40 UTC by the scrape workflow._
+_Updated 2026-11-17 03:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 03:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 26,253 | 2026-11-17T03:30 |
-| elve | 7 | 5,529 | 2026-11-17T03:31 |
+| amvgg | 7 | 26,498 | 2026-11-17T03:45 |
+| elve | 7 | 5,568 | 2026-11-17T03:45 |
 
-## AMVGG completed trades: 26,632 total
+## AMVGG completed trades: 26,639 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 563 |
+| 2026-11-17 | 570 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,13 @@ _Updated 2026-11-17 03:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:45 | **TuGatitaSalvajeuwu**: Chocolate Dutch Guinea Pig | **MyacountJohnwcrtba**: Black Panther |
+| 03:45 | **Urweridxoxo**: Ride-A-Pet Potion | **Foodie_Caat**: Ram |
+| 03:45 | **Dani_phant0mDork**: Harp Seal | **cxrlos_tungsaur**: Chocolate Dutch Guinea Pig |
+| 03:45 | **Sirswagalishsus**: Shark Puppy (F) | **llanpro_gamer**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Pet Handler Pro Certificate, Strawberry Stroller, Cattuccino, Shadow Dragon Skateboard, Dinner Discourse Cat Sticker |
+| 03:45 | **valxmimx**: Purrowl ×18 | **Bomba333555777**: Purrowl (M) |
+| 03:45 | **Bunni_Rainbowpop**: Ride-A-Pet Potion | **0MGSARAY**: Thinking Hat |
+| 03:45 | **iicorgi_lover**: Thunderfisher ×5 | **Janxiee4**: Retired Egg ×8 |
 | 03:40 | **mgjgmwg**: Evil Unicorn (FR), Caelum Cervi (NFR), Queen Bee (NFR), Mini Pig, Turtle (FR) ×2, Crocodile (R), Strawberry Tortle (F), Ride-A-Pet Potion | **AnthonysAlt_0**: Frost Dragon (FR) |
 | 03:40 | **smallstpuppii**: Tiny Wings | **eulien_37**: Munchkin Cat |
 | 03:40 | **winnie_chocolate1**: Frost Dragon (FR), Dalmatian (FR), Mini Pig (FR), Arctic Fox (FR), Arctic Fox (R) | **bermido80**: Giraffe (FR) |
@@ -40,13 +47,6 @@ _Updated 2026-11-17 03:40 UTC by the scrape workflow._
 | 03:36 | **Ruperto_1297**: Elephant (R) | **mariema454**: Ride-A-Pet Potion, Fly-A-Pet Potion ×7 |
 | 03:36 | **JustRomanBrooks**: Scarebear (MFR) | **B1nnie2**: Siamese Cat (FR) |
 | 03:36 | **XxxSachaxxX1**: Rainbow Maker ×2, Alien Eyes Hat, Strawberry Hat, Chocolate Chip Bat Dragon Backpack, White Designer Backpack, Bat Backpack, Bewitched Hat, Midnight Wings, Venus Flytrap Hat, Strawberry Shortcake Bow, Tutu, Leprechaun Hat, Summer Straw Hat, Nest of Eggs, Ghost Kitty Backpack, Heart Bow, Pink Instant Camera | **KENZINMARS**: African Wild Dog (FR) |
-| 03:36 | **lisaksxx**: Siamese Cat (FR) | **regretmebby**: Turtle (FR) |
-| 03:36 | **horserider22333**: Goat (NR) | **m4rshalI**: Spring Bunny Nose, Turtle (FR) |
-| 03:36 | **fideosconatunnom**: Burger Boots ×2, Bready Necklace, Chicken Hat | **Azzzr1el**: Skelicorn (MR) |
-| 03:36 | **mkzwql**: Pupcicle | **holasoyzuri_yt**: Chocolate Dutch Guinea Pig |
-| 03:36 | **Liya_na078**: Alpaca, Koi Carp (NR) | **kaibodydump**: Ghostly Cat (MR), Chocolate Dutch Guinea Pig (N), S'mores Raccoon (N), Goat (R) |
-| 03:36 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Bunny (M) | **DrizzledTxffee**: Fly-A-Pet Potion |
-| 03:36 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Rabbit (M) | **DrizzledTxffee**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
