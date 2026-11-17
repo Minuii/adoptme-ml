@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 12:25 UTC by the scrape workflow._
+_Updated 2026-11-17 12:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 12:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 34,006 | 2026-11-17T12:15 |
-| elve | 7 | 7,076 | 2026-11-17T12:16 |
+| amvgg | 7 | 34,222 | 2026-11-17T12:30 |
+| elve | 7 | 7,127 | 2026-11-17T12:31 |
 
-## AMVGG completed trades: 27,722 total
+## AMVGG completed trades: 27,738 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,653 |
+| 2026-11-17 | 1,669 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 12:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:25 | **wawwpp**: Rain Boots | **HaiiTchteru**: Fly-A-Pet Potion |
-| 12:25 | **qwertyy_xx01**: Cow (FR) ×2, Boohoo (M) | **BROCKTHAULTIMATE**: Arctic Reindeer (FR) |
-| 12:25 | **XxRainbowDasher**: Fairy Bat Dragon (FR) | **Marines_Natalia**: Fly-A-Pet Potion ×14 |
-| 12:25 | **Alisa_R00**: Ice Moth Dragon (R), Pro Ghost Blaster | **rainbow28546**: Ride-A-Pet Potion |
-| 12:25 | **croloveerr**: Ride-A-Pet Potion | **rainbow28546**: S'mores Raccoon |
-| 12:25 | **mambysx**: Shadow Dragon Ducky, Spider Crab | **idk_oofy1377**: Pink Hightops, Pink Butterfly Wings |
-| 12:25 | **clqvdxyalt**: Chocolate Chip Bat Dragon (MFR), Dragonfruit Fox (MFR), Capybara (MFR), Unicorn Horn | **terrylonsoyjerry**: Giant Panda (NFR) |
-| 12:21 | **edmunds15**: Grim Dragon (FR), Evil Unicorn (FR), Flamingo (FR), Crocodile (FR), Cerberus (NFR) | **gabBNS67**: Parrot (FR) |
-| 12:21 | **Tofifi_1214**: Slimingo, Golden Albatross | **OJC_Star45**: Ride-A-Pet Potion |
-| 12:21 | **Starpetsbotaleks**: Rain Boots | **BarbieDaisy6**: Hospital Home |
-| 12:21 | **elyyz_sen**: 2026 Birthday Butterfly (M), Sheepdog Ducky (M), Forest Sprite (M) | **Robert_mila**: Fly-A-Pet Potion |
-| 12:21 | **SoloGhost442149**: Blossom Snake (N), Magma Moose | **UltimateLionMantis**: Ride-A-Pet Potion |
-| 12:21 | **ShyberryX3**: White Choccybunny (M), Bakeneko (M) | **LaymushkaUwU**: Fly-A-Pet Potion |
-| 12:21 | **luvyerh**: Cow (R) | **strawqbwerie**: Elephant (FR), Crocodile (R), Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 12:21 | **kworixx**: Snow Owl (R), Purrowl (R) | **sithusari346**: Ride-A-Pet Potion |
+| 12:30 | **YOKOZ303**: Micro Car, Witch's Caravan, Motorized Sofa, RGB Monster Truck, RGB UFO | **cherryyz2008**: Ride-A-Pet Potion |
+| 12:30 | **Nastya_Mihalyk**: Cow (FR), Goose (FR), Turtle (FR) ×2, Kangaroo (FR), Albino Monkey (FR), Crocodile (FR), Chihuahua (NR) | **vfiffj574**: Parrot (FR) |
+| 12:30 | **ammadOwO2**: Border Collie (R) ×2, Border Collie ×3, Emperor Gorilla (FR), Jellyfish (R), Ice Cream Cone Hat, Lion Cub, Puffin, Puffin (R), Ballet Swan (R), Tiny Wings, Giant Anteater, Elephant (FR), Ride-A-Pet Potion | **AvaCometfish961**: Crow (FR) |
+| 12:30 | **SerenaWolfWarrior**: Seabed Creeper (MFR), Giant Anteater | **ichbinsehhhr**: Unicorn Horn |
+| 12:30 | **donnotinteract**: Field Mouse | **isopawedd**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 12:30 | **afissamuzfirah**: Ride-A-Pet Potion ×17 | **Cattychiee**: Unicorn ×17 |
+| 12:30 | **LaraIphone16e**: Hyena (R) | **Mandy_Doghoof**: Maine Coon (M) |
+| 12:30 | **jett_isthebest28**: Frost Dragon (FR), African Wild Dog (NFR), Sugar Axolotl (NFR), Turtle (FR), German Shepherd (MFR) | **elpro2007mn**: Bat Dragon (FR) |
+| 12:30 | **Itz_Rost1slav**: Ballet Swan (FR), Unicorn (R) | **Inganta07**: Fly-A-Pet Potion ×3 |
+| 12:30 | **saraahhlegr**: Frost Dragon (FR), Arctic Reindeer (FR), Fairy Bat Dragon (R), Frostbite Bear, Matcha Cat, Ride-A-Pet Potion | **yk_xlea**: Giraffe (FR) |
+| 12:30 | **clihello**: Crow (NFR), Dragonfruit Fox (MR) | **amvgg_altaddmymain**: Hot Doggo (MFR) |
+| 12:30 | **Looey20072**: German Shepherd (NFR), Panda (NFR), Sushi Penguin (N), Snowball Pug (M), Ride-A-Pet Potion | **4ssure**: Unicorn Horn |
+| 12:30 | **R0gue_Cha0s165**: Arctic Reindeer (FR), Cow (R), Cow (FR) | **Uhmskdudgbeme**: African Wild Dog (FR) |
+| 12:30 | **0artOlover**: Blazing Lion (R), Candicorn (R), Jester Dragon (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Mighty Haetyphoon Animated Sticker | **rainbowpuply_cute**: Giant Panda (FR) |
+| 12:30 | **WillowpillowpiggyWL**: Arctic Dusk Dragon (MFR), Tiny Wings, Pet Handler Pro Certificate | **POPUTTSY**: Velocirooster (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
