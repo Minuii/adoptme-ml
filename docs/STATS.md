@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 20:45 UTC by the scrape workflow._
+_Updated 2026-11-17 20:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 20:45 UTC by the scrape workflow._
 | amvgg | 7 | 42,253 | 2026-11-17T20:45 |
 | elve | 7 | 8,976 | 2026-11-17T20:45 |
 
-## AMVGG completed trades: 29,495 total
+## AMVGG completed trades: 29,531 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,426 |
+| 2026-11-17 | 3,462 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 20:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:45 | **CutieShadowBunny1**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **xxxxproxxxx5500**: Jester Dragon |
-| 20:45 | **1C0NELL1**: Ride-A-Pet Potion, Pupcicle (N) | **YOKOZ303**: Meerkat (R) |
-| 20:45 | **panda172808**: Dragonfly, Ms. Muffet (N), Princess Mare (N), Irish Setter (N), Crimson Cape, Stitches, Sneak Weasel, 2025 Birthday Butterfly | **littlefelonies**: Starfish ×11 |
-| 20:45 | **ki1wilov**: Ride-A-Pet Potion | **Antonipes**: Candyfloss Mega Neon Paint, Paint Sealer |
-| 20:45 | **unicornio8910264**: Fly-A-Pet Potion ×7 | **Mx1shu**: Border Collie |
-| 20:45 | **Elwanizk**: Pain au Chat | **double_blackxx**: Retired Egg ×18 |
-| 20:45 | **FINNRAVENBU999DDYRbx**: Magma Moose (R), Spring Bunny Feet | **sahaloved**: Bee (NFR) |
-| 20:45 | **Honeymochi_oo**: Cabbit (FR), Platypus | **pawsheens3**: Strawberry Penguin (NFR) |
-| 20:45 | **Imabeehehe300**: Rain Hat | **Robert_mila**: Cheese Hat |
-| 20:45 | **Shehatesme420**: Strawberry Shortcake Bat Dragon (FR) | **zukabrokerheart**: Shark Puppy (R), Shark Puppy, Crocodile, Ring-Tailed Lemur (N), Fly-A-Pet Potion ×5, Hare (R) |
-| 20:45 | **uh_dulciee**: Gemstone Egg ×3 | **creppi_56**: Spring Bunny Feet |
-| 20:45 | **isabellla_aurora**: Ride-A-Pet Potion, Fly-A-Pet Potion, Kitty Bat (N) | **M1cahsWRLD**: Polar Bear (R) |
-| 20:45 | **MrRxwr**: Pupcicle (N), Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×3 | **NotSweatyOnion**: Siamese Cat |
-| 20:40 | **AKI10PLAY**: Count Slothula (N), Clumpty (M) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×3 |
-| 20:40 | **airascoolalt**: Peachick, Christmas Pudding House | **DanyXwU01**: Pupcicle |
+| 20:55 | **ARto_Kyn666**: Hummingbird (N) | **littlefelonies**: Chihuahua ×2 |
+| 20:55 | **LVNA_XVZ**: Toasty Red Panda, Bubblegeist, Gummy Guana (N), Kelp Raider, Gorilla (N), Princess Mare (N) | **Shehatesme420**: Ride-A-Pet Potion |
+| 20:55 | **Sonya73p**: Cryptid (NFR), Cabbit (NFR), Water Rabbit (MFR), Angel Wings, Alley Cat (MFR), 2022 Birthday Confetti Cannon, 2022 Birthday Cake, Unicorn Horn, 2022 Birthday Cupcake Shoes | **sstressful**: Balloon Unicorn (NFR) |
+| 20:55 | **s1m4kk**: Boohoo (N) ×3, Chihuahua ×2 | **Pewciall**: Chocolate Dutch Guinea Pig |
+| 20:55 | **robloxgamer_19831**: Kangaroo (FR) | **daanz2**: Aussie Egg, Shrew (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 |
+| 20:55 | **racatelas2000**: Arctic Reindeer | **Elvetrading3**: Ice Wolf (MFR) |
+| 20:55 | **itsmelinap**: Stitches (M), Bewitched Hat | **ChevelleIsLord**: Jeff's Nametag |
+| 20:55 | **AMOANICOLE78**: Candicorn (R), Pig (R) | **KnoW1z**: Fairy Bat Dragon (FR) |
+| 20:55 | **putridiecro**: Field Mouse (NFR), Ballet Swan, Fly-A-Pet Potion ×2 | **HELENA_GUEMER12494**: Hot Doggo (FR) |
+| 20:55 | **Officalyuichi**: Dark Choccybunny (N), Mochi Meow (N), Eaten Donut, Blue Cat (N) | **XzFoxC4CrazeMzX**: Ride-A-Pet Potion |
+| 20:55 | **track10s**: Fly-A-Pet Potion ×3 | **wsiaxx00s**: Copycat |
+| 20:55 | **Terranese**: Purrowl ×9 | **ponchikshark9**: Ride-A-Pet Potion |
+| 20:55 | **Sasha4k8k**: Dragon (N), Dragon, Three Blind Mice, Purrowl ×2, Gold Mahi Mahi, Little Lamb ×2, Hopbop ×3 | **Andy_kj8**: Pupcicle |
+| 20:55 | **rastafarismo10**: Strawberry Shortcake Bat Dragon (FR) ×2 | **insahzz**: Blazing Lion (FR), Pet Handler Pro Certificate ×2, Fly-A-Pet Potion, Ginger Cat (MFR) |
+| 20:55 | **AMELIESFABXO**: Rainbow Maker, Chocolate Dutch Guinea Pig (MFR), Latte Kitsune (MFR), Tiny Wings | **Cabybara123go**: Elephant (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
