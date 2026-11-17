@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 21:40 UTC by the scrape workflow._
+_Updated 2026-11-17 21:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 21:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 42,954 | 2026-11-17T21:30 |
-| elve | 7 | 9,169 | 2026-11-17T21:31 |
+| amvgg | 7 | 43,208 | 2026-11-17T21:45 |
+| elve | 7 | 9,195 | 2026-11-17T21:45 |
 
-## AMVGG completed trades: 29,678 total
+## AMVGG completed trades: 29,688 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,609 |
+| 2026-11-17 | 3,619 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 21:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:45 | **BUGGYXDD1**: Candicorn (NFR) | **jjvyne**: Dango Penguins (MFR) |
+| 21:45 | **aleks2u**: Strawberry Shortcake Bat Dragon (FR), Evil Unicorn (FR) | **Xnixht**: Parrot (FR) |
+| 21:45 | **Lilu2383**: Ride-A-Pet Potion ×2 | **r0mmul4s**: Fly-A-Pet Potion |
+| 21:45 | **joshkid5834**: Munchkin Cat ×5, Munchkin Cat (N), Siamese Cat | **clarisse_tubeuse**: Munchkin Cat (MFR) |
+| 21:45 | **sweetie_pi48**: French Bulldog (N), Golden Jaguar, Skunk ×9, Shetland Pony White, Cold Cube, Gibbon | **36k_vibezzzzz12newac**: Matcha Cat |
+| 21:45 | **NLin_126**: Ride-A-Pet Potion ×5 | **KiraChalaya**: Volcanic Rhino (NR), Starfish (N), Love Letter |
+| 21:45 | **number_58134**: Fly-A-Pet Potion ×9 | **MathildeFX924**: Kangaroo (FR) |
+| 21:45 | **Darmay_y**: Ride-A-Pet Potion ×14 | **Real_Dream90z**: Albino Monkey (R) |
+| 21:45 | **fishymiss_y**: Bunny (M), Tealwood Monster (N) | **Maelleblush**: Ride-A-Pet Potion |
+| 21:45 | **dara11111_7**: Kangaroo (FR), Ancient Dragon (NR), Swordfish (NFR) | **NotSweatyOnion**: Candyfloss Chick (FR) |
 | 21:36 | **J4YASPL4NET**: Parrot (NFR), Glormy Leo (NR), Strawberry Tortle, Papa Moose (NFR), Velocirooster (MFR), Shrew (FR), Yule Log Dog | **shyfaint**: Balloon Unicorn (NFR) |
 | 21:36 | **Secret_Secretov321**: Ride-A-Pet Potion ×6, Jacobin Pigeon (M) | **helisabet_fabi20**: Ice Cream Cone Hat |
 | 21:36 | **rainbowunicornpand4**: Field Mouse (MFR), Dragonfruit Fox (MFR) ×3, Dango Penguins (MFR), German Shepherd (MFR), S'mores Raccoon (MFR) | **jaredxplayzzaltacc**: Sugar Glider (MFR) |
 | 21:36 | **mati08proo**: Stitches (N) ×3, Stitches ×3, Bubblegeist | **Scnipsw**: Ride-A-Pet Potion |
 | 21:36 | **6767mellstroy67**: Thunderfisher (N), Pangolin (N), 2D Box ×2, Granny Wolf (N) ×2, Purrowl, Glyptodon Ducky (N), Paint Sealer, Pinkypillar (N), Mouse (N) ×2, Admin Abuse Box ×3 | **Maelleblush**: Ride-A-Pet Potion |
-| 21:36 | **Thecupofkindness**: Octopus (NR), Pancake Stack | **adam12345c10**: Ice Cream Cone Hat |
-| 21:36 | **xlorkaa7**: Business Monkey, Princess Mare (N), Stray Cat Dragon | **Shehatesme420**: Ride-A-Pet Potion |
-| 21:36 | **T1REDOFYOUU**: Field Mouse (FR), Aussie Egg, Ice Cream Cone Hat, Snow Monkey | **snkkis**: Unicorn Horn |
-| 21:36 | **Thesheeeeesh_god**: Pet Handler Pro Certificate | **gvmpyi**: Spring Bunny Feet |
-| 21:36 | **visceralXD**: Crystal Egg ×18 | **100PercentWinRateHax**: Ride-A-Pet Potion |
-| 21:36 | **SOFIA_HAN7**: Sushi Penguin | **lttlhugs**: Ride-A-Pet Potion |
-| 21:36 | **SoLost666**: Siamese Cat (R) | **mmaanon**: Fallow Deer (NFR) |
-| 21:36 | **ADMTRADING72**: Owl (NFR), Owl (FR), Crow (NFR), Evil Unicorn (NFR) ×2, Evil Unicorn (FR) | **FrNotSummer**: Evil Unicorn (MFR) ×2, Diamond Butterfly (FR), Turtle (NFR), Albino Monkey (NFR), Kangaroo, Arctic Dusk Dragon (N) |
-| 21:36 | **bonjibott1**: Dalmatian (FR), French Bulldog (M), Strawberry Penguin (R) | **rianasfanboy**: Turtle (MFR) |
-| 21:36 | **ii_axien**: Strawberry Shortcake Bat Dragon (MFR), Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR) | **starfire_33334**: Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
