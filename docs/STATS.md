@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 05:25 UTC by the scrape workflow._
+_Updated 2026-11-17 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 27,912 | 2026-11-17T05:15 |
-| elve | 7 | 5,803 | 2026-11-17T05:16 |
+| amvgg | 7 | 28,129 | 2026-11-17T05:30 |
+| elve | 7 | 5,866 | 2026-11-17T05:31 |
 
-## AMVGG completed trades: 26,844 total
+## AMVGG completed trades: 26,849 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 775 |
+| 2026-11-17 | 780 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,11 @@ _Updated 2026-11-17 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **Dilara_67826**: Fly-A-Pet Potion ×6 | **iaMatthieu1**: Shark Puppy (FR) |
+| 05:30 | **d4ve_v**: Easter Bunny | **Crims0n_Dusk**: Alicorn |
+| 05:30 | **Flaptzyy_16**: Copycat ×2, Ride-A-Pet Potion | **aneliqxs**: Haetyphoon |
+| 05:30 | **Lingling111206**: Alpaca (NFR), Owlbear (MFR), Spring Bunny Feet | **dragonferdi**: Giant Anteater (MFR), Cabbit (R), Harp Seal (N), Spring Bunny Hood |
+| 05:30 | **qwertyuiooopj**: Giraffe (FR), Orchid Butterfly (FR), Peppermint Penguin (R), Cabbit, Turtle (FR), Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig | **Kui_Yeager**: Shadow Dragon (FR) |
 | 05:25 | **Epic777378**: Swan | **Psychotic_foxy**: Fly-A-Pet Potion |
 | 05:25 | **Preppy_cleoooo**: Munchkin Cat (MFR) | **Lpoopbxhe**: Orchid Butterfly (FR) |
 | 05:25 | **Preppy_cleoooo**: Munchkin Cat (MFR) | **Lpoopbxhe**: Orchid Butterfly (FR) |
@@ -42,11 +47,6 @@ _Updated 2026-11-17 05:25 UTC by the scrape workflow._
 | 05:25 | **pxurifiedtoxin**: Slime | **unicorncraftdiy**: Fly-A-Pet Potion |
 | 05:25 | **Youdi_off**: Siamese Cat (R) | **faikubjotch**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion |
 | 05:25 | **Youdi_off**: Candyfloss Chick (FR) | **faikubjotch**: Fly-A-Pet Potion ×10 |
-| 05:25 | **HEARTS4_MELAINE**: Red Dutch Guinea Pig (MFR), Dragonfruit Fox (MFR) | **dustystormss**: Field Mouse (MFR) |
-| 05:25 | **CoastLune**: Red Sand Dollar (MFR) | **004FAscend004**: Guardian Lion (MFR), Shiba Inu (MFR) |
-| 05:25 | **zeusgray24**: Ride-A-Pet Potion | **isopawedd**: Unfortunate Eyelashes ×3 |
-| 05:25 | **lilpepeng150**: Spring Bunny Hood, Cotton Candy Hat | **caaimuppt**: Jester Dragon |
-| 05:25 | **AndyIsMineerrr222**: Munchkin Cat (MFR), Latte Kitsune (MFR), Latte Kitsune (MR), Husky (MFR), Shrew, Cupid Dragon (N) | **Lola_ant34**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
