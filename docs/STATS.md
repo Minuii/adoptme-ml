@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 21:31 UTC by the scrape workflow._
+_Updated 2026-11-17 21:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 21:31 UTC by the scrape workflow._
 | amvgg | 7 | 42,954 | 2026-11-17T21:30 |
 | elve | 7 | 9,169 | 2026-11-17T21:31 |
 
-## AMVGG completed trades: 29,645 total
+## AMVGG completed trades: 29,678 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,576 |
+| 2026-11-17 | 3,609 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 21:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:25 | **Puppylover227331**: Fly-A-Pet Potion | **Essentialsqv**: Ride-A-Pet Potion ×2 |
-| 21:25 | **lalsakjsja**: Evil Unicorn (FR), Ride-A-Pet Potion | **Annshdchh**: Munchkin Cat (MFR) |
-| 21:25 | **Middo_Adventures1**: Glormy Leo (FR), Copycat (R), Shark (NFR), Matcha Cat | **tzuyuu214**: Siamese Cat (FR) |
-| 21:25 | **Kenneth2_5o**: Mini Pig (R), Kangaroo (NFR), Frost Fury (FR), Dragonfruit Fox, Fly-A-Pet Potion, Dodo (FR) | **Diego_2013ult**: Dalmatian (FR) |
-| 21:25 | **Jaiqxvz**: Sugar Glider (FR), Dango Penguins, Kirin (R) | **soop_borshik**: Fairy Bat Dragon (FR) |
-| 21:25 | **Ale_Nugget9**: Ghostly Cat (MFR), Sushi Penguin (R), Nutcracker Squirrel (N) | **Xbunny_sunnyX1**: Copycat (FR) |
-| 21:25 | **Cinnamor0llBaby**: Ride-A-Pet Potion ×3, Gingerbread Mouse (N) | **abbyissocool_lol**: Gingerbread Mouse (M) |
-| 21:25 | **Waq1uxx**: Scorching Kaijunior (MFR), Prismatic Butterfly (MFR) | **xfedex098**: Siamese Cat (NFR), Turtle (FR), Jester Dragon (FR) |
-| 21:25 | **Khmerangel4130**: Kangaroo (MFR), Lavender Dragon (NFR), Halloween Evil Dachshund (MFR), Stitches (M), Halloween Black Mummy Cat (MFR), Sneak Weasel (M), Oryx (M), Skele-Rex (R) | **Meme_Seb**: Cryptid (FR) |
-| 21:25 | **animatownermile3**: Pupcicle (N) | **B0z0s8**: Pupcicle ×5 |
-| 21:25 | **sleewipyy**: Frost Dragon (FR), Bat Dragon (FR), Cupid Dragon (NFR), Frost Fury | **disapp6ar**: Cabbit (MFR) ×2, Goose (MFR), Tri-horned Treehopper (MFR), Giant Gold Scarab (MFR) |
-| 21:25 | **AdoptMe_pro6969**: Goose (FR), Flamingo (FR), Groundhog (NR), Pig (NFR) | **xv1oh**: Honey Badger (MFR), Ride-A-Pet Potion |
-| 21:25 | **Xnixht**: Dalmatian (R) | **Mcdonaldsofaustralia**: Cabbit (NFR) |
-| 21:25 | **N0AH_XRM**: African Wild Dog (FR) | **TwistedK1tty**: Goose (R), Goose (FR), Cow (FR), Cow (R), Aussie Egg |
-| 21:25 | **Wolfie4567ty**: Strawberry Shortcake Bat Dragon (FR), Mermicorn (FR) ×2 | **Strawberryxm0cha**: Cryptid (FR) |
+| 21:36 | **J4YASPL4NET**: Parrot (NFR), Glormy Leo (NR), Strawberry Tortle, Papa Moose (NFR), Velocirooster (MFR), Shrew (FR), Yule Log Dog | **shyfaint**: Balloon Unicorn (NFR) |
+| 21:36 | **Secret_Secretov321**: Ride-A-Pet Potion ×6, Jacobin Pigeon (M) | **helisabet_fabi20**: Ice Cream Cone Hat |
+| 21:36 | **rainbowunicornpand4**: Field Mouse (MFR), Dragonfruit Fox (MFR) ×3, Dango Penguins (MFR), German Shepherd (MFR), S'mores Raccoon (MFR) | **jaredxplayzzaltacc**: Sugar Glider (MFR) |
+| 21:36 | **mati08proo**: Stitches (N) ×3, Stitches ×3, Bubblegeist | **Scnipsw**: Ride-A-Pet Potion |
+| 21:36 | **6767mellstroy67**: Thunderfisher (N), Pangolin (N), 2D Box ×2, Granny Wolf (N) ×2, Purrowl, Glyptodon Ducky (N), Paint Sealer, Pinkypillar (N), Mouse (N) ×2, Admin Abuse Box ×3 | **Maelleblush**: Ride-A-Pet Potion |
+| 21:36 | **Thecupofkindness**: Octopus (NR), Pancake Stack | **adam12345c10**: Ice Cream Cone Hat |
+| 21:36 | **xlorkaa7**: Business Monkey, Princess Mare (N), Stray Cat Dragon | **Shehatesme420**: Ride-A-Pet Potion |
+| 21:36 | **T1REDOFYOUU**: Field Mouse (FR), Aussie Egg, Ice Cream Cone Hat, Snow Monkey | **snkkis**: Unicorn Horn |
+| 21:36 | **Thesheeeeesh_god**: Pet Handler Pro Certificate | **gvmpyi**: Spring Bunny Feet |
+| 21:36 | **visceralXD**: Crystal Egg ×18 | **100PercentWinRateHax**: Ride-A-Pet Potion |
+| 21:36 | **SOFIA_HAN7**: Sushi Penguin | **lttlhugs**: Ride-A-Pet Potion |
+| 21:36 | **SoLost666**: Siamese Cat (R) | **mmaanon**: Fallow Deer (NFR) |
+| 21:36 | **ADMTRADING72**: Owl (NFR), Owl (FR), Crow (NFR), Evil Unicorn (NFR) ×2, Evil Unicorn (FR) | **FrNotSummer**: Evil Unicorn (MFR) ×2, Diamond Butterfly (FR), Turtle (NFR), Albino Monkey (NFR), Kangaroo, Arctic Dusk Dragon (N) |
+| 21:36 | **bonjibott1**: Dalmatian (FR), French Bulldog (M), Strawberry Penguin (R) | **rianasfanboy**: Turtle (MFR) |
+| 21:36 | **ii_axien**: Strawberry Shortcake Bat Dragon (MFR), Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR) | **starfire_33334**: Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
