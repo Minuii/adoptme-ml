@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 07:11 UTC by the scrape workflow._
+_Updated 2026-11-17 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 07:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 29,447 | 2026-11-17T07:00 |
-| elve | 7 | 6,102 | 2026-11-17T07:01 |
+| amvgg | 7 | 29,664 | 2026-11-17T07:15 |
+| elve | 7 | 6,154 | 2026-11-17T07:16 |
 
-## AMVGG completed trades: 27,011 total
+## AMVGG completed trades: 27,023 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 942 |
+| 2026-11-17 | 954 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 07:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:15 | **Lekssa**: Siamese Cat (FR), Cow (FR) | **spakle3222**: Strawberry Shortcake Bat Dragon (FR) |
+| 07:15 | **amwhcvx0**: Golden Dragon (NFR), Ride-A-Pet Potion ×2 | **v6mpireeee**: Glormy Leo |
+| 07:15 | **HONEYPLIS**: Candyfloss Chick, Puffer Fish (MFR), Jester Dragon, Owlbear, Chimera (NR), Red Dutch Guinea Pig, Ride-A-Pet Potion, Lamb (R), German Shepherd (R), Koala (NR), Flaming Fox, Clover Cow (NR) | **WillowQueen593**: Candyfloss Chick (NFR) |
+| 07:15 | **Ooohllalaaa**: Ride-A-Pet Potion ×2, Cherub Chipmunk (M), Ruddy Duck (M), Three Blind Mice | **Phoenix_Goddess0**: Pupcicle ×3 |
+| 07:15 | **setta_x3**: Turtle (FR), Arctic Fox (FR), Pupcicle | **byxxxxxanka**: Cow (FR) |
+| 07:15 | **LoriDreamy123**: Pig (FR), Pig (R), Shark Puppy (R), Ride-A-Pet Potion ×3 | **luvyerh**: Cow (FR) |
+| 07:15 | **Firevun213**: Arctic Fox (R), Ice Wolf (NFR), Latte Kitsune (R) | **rioo0o123**: Kangaroo (FR) |
+| 07:15 | **510478**: Flamingo (FR) | **direXdlol**: Unicorn Horn |
+| 07:15 | **cuttiiesara**: Cryptid (FR), Arctic Dusk Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **prostod_f**: Hedgehog, Copycat (NFR) |
+| 07:15 | **amyggvaI**: Owl (FR) | **polinalollipolly**: Dalmatian (FR), Cow (FR), Cabbit (FR), Candyfloss Chick (FR), Elephant (FR) ×2, Unicorn (MFR), Ride-A-Pet Potion |
+| 07:15 | **deejayheyo**: Turtle (FR), Frost Fury (NFR) | **rioo0o123**: Cow (FR) |
+| 07:15 | **Fl3sh2good**: Cryptid (FR) | **larmalove7**: Cow (NFR) |
 | 07:11 | **lika303py4**: Unicorn Horn, Cow (R), Sugar Glider, Fly-A-Pet Potion, Ride-A-Pet Potion | **ii_aldrin20**: Dalmatian (FR) |
 | 07:06 | **ldfeeode**: Crow, Crocodile (R), Clownfish (R) | **YaobendeshoiZ**: Parrot (FR) |
 | 07:06 | **Cdg91400**: Pupcicle ×2 | **alinaya0208**: Dragonfruit Fox |
-| 07:06 | **fhuybx556**: Turtle (FR), Cabbit (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Hippogriff (NFR), Lamb (FR) | **CloudyFalconpro4**: Strawberry Shortcake Bat Dragon (FR) |
-| 07:06 | **CloudyFalconpro4**: Cow (FR) | **Maayas_17alt1**: Vanilla Penguin (MFR), Unicorn (NFR) |
-| 07:06 | **padrushka_romashka**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **Manggo_Pie40**: Kangaroo (FR) |
-| 07:06 | **afissamuzfirah**: Ride-A-Pet Potion | **xisaa_sr**: Unicorn |
-| 07:06 | **Letizia00000000**: Candicorn (FR), Candicorn (R), Munchkin Cat (R), Pig (R), Sheeeeep (R), Fly-A-Pet Potion | **odading12318**: Rainbow Maker |
-| 07:06 | **Mnenormalno_0**: Cow (FR) | **ARKIN_gamingChannel1**: Candicorn ×2 |
-| 07:06 | **Alexey_Vi**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Fly-A-Pet Potion | **Alnavinka**: Evil Unicorn (FR) |
-| 07:06 | **EMPRESSTUGAS2011**: Arctic Reindeer (FR), Mrs. Whiskerpips (M) | **Angel125347890**: Chocolate Chip Bat Dragon (FR), Royal Palace Spaniel (MFR) |
-| 07:06 | **ALTAMERANO10**: Pupcicle (M) | **wskdaks**: Kangaroo (FR) |
-| 07:06 | **che12young**: Cow (R) | **AZALEA_ThomasYuYu**: Munchkin Cat (NR) |
-| 07:06 | **Rkuamgrh6**: Frost Fury (FR) | **pysugwysu**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 07:06 | **00099hh1**: Cow (FR) | **Lola242532**: Kangaroo (FR), Crocodile (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
