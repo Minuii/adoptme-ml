@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 19:11 UTC by the scrape workflow._
+_Updated 2026-11-17 19:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 19:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 40,605 | 2026-11-17T19:00 |
-| elve | 7 | 8,639 | 2026-11-17T19:01 |
+| amvgg | 7 | 40,872 | 2026-11-17T19:15 |
+| elve | 7 | 8,699 | 2026-11-17T19:16 |
 
-## AMVGG completed trades: 29,168 total
+## AMVGG completed trades: 29,195 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,099 |
+| 2026-11-17 | 3,126 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 19:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:11 | **dardaruni**: Arctic Fox | **xvPotatomuncher1**: Tiny Wings |
-| 19:11 | **SWeetPEa4nuGGeT**: Goose (MFR), Halo | **m4rshalI**: Cabbit (MFR), Mule (NR), Ice Cream Cone Hat |
-| 19:11 | **LoveMasha_242**: Blue Boohoo Mega Neon Paint, Dragon (R), Nightmare Owl (R), Ancient Dragon (R) | **realacckeira8v**: Mrs. Whiskerpips (M) |
-| 19:11 | **chrxmaxc**: Field Mouse (MFR), Cow (FR), Ninja Monkey (NFR), Ride-A-Pet Potion | **xf3y4a**: Crow (FR) |
-| 19:11 | **Im_HappyXuXi**: Cow (R) | **jebiilerium**: Copycat (FR), Copycat ×4, Ride-A-Pet Potion |
-| 19:11 | **pikish_5**: Arctic Reindeer (FR), Fairy Bat Dragon (FR) | **xZetherx**: Hedgehog (FR), Ride-A-Pet Potion |
-| 19:11 | **pawthetiic**: Rose Dragon (MFR), Unicorn Horn, Fly-A-Pet Potion | **obv1kylxx**: Dango Penguins (M), Ice Cream Hermit Crab (MR) |
-| 19:11 | **drag3nrich**: Crow (FR), Dalmatian (R) | **Sanster47**: Strawberry Shortcake Bat Dragon (FR) ×3, Diamond King Penguin, Ride-A-Pet Potion ×4, King Bee (F), Cow (FR) |
-| 19:11 | **Alisa506g**: Giraffe (FR) | **lexcor3**: Parrot (FR), Jellyfish (MFR), Peppermint Penguin (FR), Irish Water Spaniel (NFR), Frost Unicorn (R), Fly-A-Pet Potion ×3, Mrs. Whiskerpips (N) |
-| 19:11 | **Yahx4xEvr**: Peppermint Penguin, Crystal Egg | **saskitima**: Fly-A-Pet Potion ×13, Ride-A-Pet Potion ×5 |
-| 19:11 | **rainpub**: Royal Palace Spaniel (MFR), Dire Wolf (MR), Ice Wolf (R), Husky (NFR), Therapy Dog (MR), Puptune (MR), Australian Kelpie (MFR), Pandaguin Glooptodog (M) | **abdoosaad**: Candicorn (NFR) |
-| 19:11 | **minismudgepanda**: Bakeneko (M) | **l0tso0**: Chocolate Dutch Guinea Pig |
-| 19:06 | **botoxedbody**: Pancake Stack | **Diamondprinces32**: Ride-A-Pet Potion ×3 |
-| 19:06 | **Sonic_678899**: Pupcicle (MFR) | **ZarraDii**: Candicorn (FR), Ride-A-Pet Potion |
-| 19:06 | **Jeansppk**: Fly-A-Pet Potion | **juanitox646566**: Pineapple Owl |
+| 19:15 | **oofwoof_fart**: Matcha Cat (FR), Happy Duckling, Spring Bunny Feet | **ClayTyoof**: Pink Cat (FR) |
+| 19:15 | **shawnkenneth1**: Latte Kitsune (MFR), Ride-A-Pet Potion | **Vixinnty**: Winged Tiger (NFR) |
+| 19:15 | **werreriss0**: Irish Water Spaniel, Ride-A-Pet Potion, Great Pyrenees | **T0LMU**: Pig (R) |
+| 19:15 | **KotMonster7**: Crocodile (R) | **Monetachka38**: Fly-A-Pet Potion ×4, Glormy Leo, Ride-A-Pet Potion |
+| 19:15 | **rip_kazukieeeee**: Pupcicle ×16 | **kkaatEEe2**: Haetyphoon |
+| 19:15 | **weoiuds**: Ride-A-Pet Potion ×13 | **Vitek_228666**: Pet Handler Pro Certificate ×8 |
+| 19:15 | **B282728**: Pink Cat | **Benjy_toby7**: Therapy Dog (M) |
+| 19:15 | **jam0khurt**: Ride-A-Pet Potion ×2 | **Milka_topi89**: Gaelic Fae (R) |
+| 19:15 | **dinklass**: Kangaroo (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×10 | **Vitek_228666**: Cow (FR) |
+| 19:15 | **0MG_LILYXO**: Evil Unicorn (FR), Dango Penguins (MFR) | **hanb3ki**: Balloon Unicorn (FR) |
+| 19:15 | **JWorldIndoraptor**: Frost Dragon (FR), Jester Dragon | **Krismasterdang**: Arctic Reindeer (NFR), Jellyfish (MFR) |
+| 19:15 | **59ghrvs**: Frostbite Bear (FR), Fly-A-Pet Potion | **agustin_camilo12**: Sheeeeep (NFR) |
+| 19:15 | **Megansuperwales**: Hedgehog (FR) | **Militaryi_CorTak**: Munchkin Cat (MFR) |
+| 19:15 | **Josuwu892**: Alicorn (R) | **OnlyMeOlia**: Retired Egg ×18 |
+| 19:15 | **ELIZABETH_Miss090**: Ride-A-Pet Potion ×5 | **DJSkrimblo**: Arctic Dusk Dragon (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
