@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 03:31 UTC by the scrape workflow._
+_Updated 2026-11-17 03:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 03:31 UTC by the scrape workflow._
 | amvgg | 7 | 26,253 | 2026-11-17T03:30 |
 | elve | 7 | 5,529 | 2026-11-17T03:31 |
 
-## AMVGG completed trades: 26,592 total
+## AMVGG completed trades: 26,632 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 523 |
+| 2026-11-17 | 563 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 03:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:30 | **ADOPTME_TRADE596**: Siamese Cat (MFR), Werewolf (FR), Ride-A-Pet Potion | **CosmicalvSprout**: Parrot (FR) |
-| 03:30 | **Kxq_rr**: Angus Calf (M) | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 03:30 | **7ayanoo**: Stitches (M) | **F34x89F**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 03:30 | **itsElijahpanda821**: African Wild Dog (FR), Chihuahua ×2 | **rip_indra12345678912**: Border Collie (NFR), Cow (FR), Cow, Rain Cloud Hat, Groundhog |
-| 03:30 | **bbjdfcdr**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×4 | **Sirswagalishsus**: Copycat (FR), Copycat |
-| 03:30 | **LovelyGirl23033**: Shrew (MFR), Arctic Fox (MFR), Latte Kitsune (MFR), Dango Penguins (MFR), Snow Monkey (MFR), Flaming Fox (MFR), Husky (MFR), Chocolate Dutch Guinea Pig (MFR), Golden Penguin (MFR), Zombie Wolf (MFR), Axolotl (MFR), Peach Owl (MFR) | **zacmat123456**: Strawberry Tortle (MFR) |
-| 03:30 | **Andy_kj8**: Poltergeist Box ×8 | **Valen84532**: Dragon |
-| 03:30 | **SanjiMyBeloveddd**: Honey Badger (MR), Velocirooster (NFR) ×3, Velocirooster ×2, Copycat, Matcha Cat | **zacmat123456**: Crocodile (MFR) |
-| 03:30 | **ThisIsntMyAcc9**: Haetyphoon | **estehhxx**: Tortoiseshell Guinea Pig |
-| 03:30 | **santiagoyrjf**: Evil Unicorn (FR), Tombstone Ghostify, Siamese Cat, Elf Hat ×2, Lava Dragon (FR) | **Helloboiiiiiiiii123**: Parrot (FR) |
-| 03:30 | **GhostyShrimp_YT**: Copycat (MFR), Rainbow Maker, Bush Elephant (NFR), Siamese Cat (N), Cow (FR), Cow (R), Royal Mistletroll (R), Unicorn Horn, Kangaroo (FR), Bush Elephant, Elephant, Rain Cloud Hat, Lion, Munchkin Cat (R), Pig (FR), Arctic Fox (FR), Silverback Gorilla (FR), Strawberry Shortcake Bat Dragon Backpack | **0FF_L1MIT**: Strawberry Tortle (MFR) |
-| 03:30 | **0FF_L1MIT**: Owl ×5, Parrot, Elephant | **whiplashtempo0**: Dalmatian (FR) ×3, Arctic Reindeer (FR) ×5, Chocolate Chip Bat Dragon (FR) ×6, Strawberry Shortcake Bat Dragon (FR) ×3, Hedgehog |
-| 03:30 | **liiylvm**: Crow, Honey Badger (N), Border Collie (FR), Pet Handler Pro Certificate ×2, Urchin (M), Ermine (M), Dragonfruit Fox, Pupcicle | **reiikell**: Border Collie (MFR) |
-| 03:30 | **Seach3l_1**: Ride-A-Pet Potion ×6, Snow Cat (N), Chihuahua | **Godlylegends12**: Sakura Spirit (R) |
-| 03:30 | **notorir**: Frost Fury (FR) ×2, Ice Cream Cone Hat | **Grin900**: Witches Wand ×3, Pumpkin Rattle ×3, Cat Plush ×2, Creator Rattle (Bethink), Creator Rattle (NewFissy), Anna Rattle, Christmas Cat Rattle ×6, Toy Rescue Helicopter |
+| 03:40 | **mgjgmwg**: Evil Unicorn (FR), Caelum Cervi (NFR), Queen Bee (NFR), Mini Pig, Turtle (FR) ×2, Crocodile (R), Strawberry Tortle (F), Ride-A-Pet Potion | **AnthonysAlt_0**: Frost Dragon (FR) |
+| 03:40 | **smallstpuppii**: Tiny Wings | **eulien_37**: Munchkin Cat |
+| 03:40 | **winnie_chocolate1**: Frost Dragon (FR), Dalmatian (FR), Mini Pig (FR), Arctic Fox (FR), Arctic Fox (R) | **bermido80**: Giraffe (FR) |
+| 03:36 | **xGothiycx**: Alley Cat (NFR) | **ssillymizukii**: Caterpillar (FR) |
+| 03:36 | **sorrowpage**: Great Pyrenees (MFR) | **Kui_Yeager**: Great Pyrenees (M), Ride-A-Pet Potion ×2 |
+| 03:36 | **Ruperto_1297**: Elephant (R) | **mariema454**: Ride-A-Pet Potion, Fly-A-Pet Potion ×7 |
+| 03:36 | **JustRomanBrooks**: Scarebear (MFR) | **B1nnie2**: Siamese Cat (FR) |
+| 03:36 | **XxxSachaxxX1**: Rainbow Maker ×2, Alien Eyes Hat, Strawberry Hat, Chocolate Chip Bat Dragon Backpack, White Designer Backpack, Bat Backpack, Bewitched Hat, Midnight Wings, Venus Flytrap Hat, Strawberry Shortcake Bow, Tutu, Leprechaun Hat, Summer Straw Hat, Nest of Eggs, Ghost Kitty Backpack, Heart Bow, Pink Instant Camera | **KENZINMARS**: African Wild Dog (FR) |
+| 03:36 | **lisaksxx**: Siamese Cat (FR) | **regretmebby**: Turtle (FR) |
+| 03:36 | **horserider22333**: Goat (NR) | **m4rshalI**: Spring Bunny Nose, Turtle (FR) |
+| 03:36 | **fideosconatunnom**: Burger Boots ×2, Bready Necklace, Chicken Hat | **Azzzr1el**: Skelicorn (MR) |
+| 03:36 | **mkzwql**: Pupcicle | **holasoyzuri_yt**: Chocolate Dutch Guinea Pig |
+| 03:36 | **Liya_na078**: Alpaca, Koi Carp (NR) | **kaibodydump**: Ghostly Cat (MR), Chocolate Dutch Guinea Pig (N), S'mores Raccoon (N), Goat (R) |
+| 03:36 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Bunny (M) | **DrizzledTxffee**: Fly-A-Pet Potion |
+| 03:36 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Rabbit (M) | **DrizzledTxffee**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
