@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 23:41 UTC by the scrape workflow._
+_Updated 2026-11-17 23:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 23:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 44,860 | 2026-11-17T23:30 |
-| elve | 7 | 9,570 | 2026-11-17T23:31 |
+| amvgg | 7 | 45,072 | 2026-11-17T23:45 |
+| elve | 7 | 9,589 | 2026-11-17T23:45 |
 
-## AMVGG completed trades: 30,040 total
+## AMVGG completed trades: 30,051 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,971 |
+| 2026-11-17 | 3,982 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 23:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:45 | **lexifox513**: Chocolate Dutch Guinea Pig (MFR), Karate Gorilla (MFR), Tiny Wings, Ice Cream Cone Hat, Pain au Chat (MFR), Chihuahua (M), Ride-A-Pet Potion, Chocolate Dutch Guinea Pig | **cazzy123abc**: Corn Doggo (MFR), Leviathan (MFR) |
+| 23:45 | **zoommbbeee**: Pomeranian (M) | **DeerAllie**: Ride-A-Pet Potion |
+| 23:45 | **okayzvezda**: Standard Gorilla Box, Kaijunior Box, Kelp Raider Box, Spider Gift, Choccybunny Box, Rubber Ducky Box, 2D Box ×2 | **dnei30fast**: Ride-A-Pet Potion |
+| 23:45 | **EthanNovaZoom2024**: Kangaroo (FR) | **amandiwis198**: Fly-A-Pet Potion, Ride-A-Pet Potion ×15 |
+| 23:45 | **Elwanizk**: Unicorn | **cchloecrichtonsecret**: Crystal Egg ×14 |
+| 23:45 | **nicolasceci444**: Golden Lettuce | **dnei30fast**: Ride-A-Pet Potion ×2 |
+| 23:45 | **julyis456**: Fly-A-Pet Potion ×2 | **nicolasceci444**: Emperor's Chariot, Rose Petal Carriage, Royal Carriage, Toxic Barrel |
+| 23:45 | **kouxhiii**: Mrs. Whiskerpips (N), Metal Ox (R) | **steklanya**: Cotton Candy Hat |
+| 23:45 | **gatitakawai_01**: Retired Egg ×3, Pet Egg, Fairytale Egg ×5 | **steklanya**: Racetrack House |
+| 23:45 | **xlorkaa7**: Guardian Lion (R) | **KaiSaboAceCC**: Ride-A-Pet Potion |
+| 23:45 | **Mcdonaldsofaustralia**: Fairy Bat Dragon (FR) ×2, Fly-A-Pet Potion, Dire Wolf (M) ×2, Purrowl (N) ×4 | **ambervgils**: Chocolate Chip Bat Dragon (FR) |
 | 23:40 | **disguisedgerm**: Hedgehog (NFR), Siamese Cat (MFR), Cabbit (FR) | **qielul**: Mini Pig (MFR) |
 | 23:40 | **sleepy_s0ren**: Ice Cream Cone Hat | **Ari_Blays**: Matcha Cat |
 | 23:40 | **jsjsjsjssjs123**: Evil Unicorn (FR), Kangaroo (R), Rainbow Dragon (NFR) | **liofe1**: African Wild Dog |
 | 23:40 | **Bia_salgadin**: Munchkin Cat (MFR) | **sugarbunn3i**: Munchkin Cat (M) |
-| 23:40 | **sofiaozonopros**: Grim Dragon (FR) | **werreriss0**: Arctic Dusk Dragon (NFR) |
-| 23:40 | **22kvibexs**: Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **KaiSaboAceCC**: Ram ×2 |
-| 23:40 | **Superslayaccount70**: Shadow Dragon Ducky (R), White Choccybunny (N) ×2, Island Tarsier (N) ×2 | **KaiSaboAceCC**: Ride-A-Pet Potion |
-| 23:40 | **addmymain62**: Bush Elephant (MFR), Glormy Leo (MFR), Brown Bear (MFR), Purple Butterfly (MFR), Lamb (MFR) | **hisfemininesecret**: Peppermint Penguin (MFR) |
-| 23:40 | **rU27na**: Stray Cat Dragon (R), Stray Cat Dragon (N) ×2, Count Slothula | **adalnie**: Pet Handler Pro Certificate |
-| 23:40 | **RealVeronnisaa**: Brown Springer Spaniel (MFR), Burger Bear (MFR), Cake Friend (MR), Ride-A-Pet Potion ×3 | **4cosha**: Kookaburra (MFR) |
-| 23:40 | **cxbvnniz**: Field Mouse (NR) | **v3xxyyy**: Mermicorn (R), Ride-A-Pet Potion, Toasty Red Panda (N) |
-| 23:40 | **cxbvnniz**: Field Mouse (R), Candyfloss Chick (FR), Copycat | **jiigu0**: Field Mouse (NFR) |
-| 23:40 | **Famixvx**: Pig (R), Shark Puppy | **Roblox_suchti42167**: Kangaroo (FR) |
-| 23:40 | **cxbvnniz**: Cow (FR) | **Kftftykrfykf**: Peppermint Penguin, Ride-A-Pet Potion |
-| 23:40 | **xlbvsq**: Chocolate Dutch Guinea Pig | **Addjustonemorepet**: Stray Cat Dragon ×16 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
