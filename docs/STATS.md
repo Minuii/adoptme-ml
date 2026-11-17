@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 21:11 UTC by the scrape workflow._
+_Updated 2026-11-17 21:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 21:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 42,500 | 2026-11-17T21:00 |
-| elve | 7 | 9,039 | 2026-11-17T21:01 |
+| amvgg | 7 | 42,737 | 2026-11-17T21:15 |
+| elve | 7 | 9,106 | 2026-11-17T21:16 |
 
-## AMVGG completed trades: 29,597 total
+## AMVGG completed trades: 29,608 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,528 |
+| 2026-11-17 | 3,539 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 21:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:15 | **joshuasalgado6**: Mermicorn (MFR), Matcha Cat, Chef Hat | **lvqmpyx**: Cabbit (MFR) |
+| 21:15 | **onyx11414**: 2022 Birthday Cake ×2, Ride-A-Pet Potion ×3, Golden Bone | **Pancakes7240**: Turtle (NFR) |
+| 21:15 | **LUVS3MELON**: Hot Doggo (FR) | **DeidarochkaUwU675**: Pig (R), Chocolate Dutch Guinea Pig (NR), Chameleon (N), Bunny Swirl (MR), Ermine (MFR), Water Moon Bear (NFR) |
+| 21:15 | **queensisters4l**: Black Rhino (N) | **hefeltsafe**: Retired Egg ×9 |
+| 21:15 | **fishymiss_y**: Red Dutch Guinea Pig, Owlbear (R), Polar Bear (R), Kookaburra (NFR), Ride-A-Pet Potion | **vanpxc**: Turtle (FR) |
+| 21:15 | **MohamedAfj1**: Rainbow Maker, Unicorn Horn, 2022 Birthday Party Hat | **sweetang4ll**: Owlbear (MFR), Angel Wings |
+| 21:15 | **Dazaika000**: Pirate Ship House | **Yahx4xEvr**: Dango Penguins |
+| 21:15 | **leoegern40**: Rainbow Maker, Liger (MFR) | **PrismaticRio**: Capybara (MFR), Wood Pigeon (MFR) |
+| 21:15 | **daanz2**: Kangaroo (FR), Wyvern (FR) | **C0PHYAK**: Ride-A-Pet Potion ×12, Pet Handler Pro Certificate ×3 |
+| 21:15 | **Gamerqueen1255**: Gemstone Egg | **MOGGYJAM**: Retired Egg ×18 |
+| 21:15 | **adoptcatdogfox2**: Kitty Biscuit, Maine Coon | **Vikakelera**: Ride-A-Pet Potion |
 | 21:10 | **Arracheurdetacos224**: African Wild Dog (R), Sheeeeep (MFR), Chocolate Dutch Guinea Pig (MFR) | **p0xompurin**: Frost Dragon (FR) |
 | 21:10 | **demon529752**: Turtle (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Dancing Dragon, Choco Penguin (NR), Zodiac Minion Chick (N) | **alisha5050x**: Kangaroo (NFR) |
 | 21:10 | **Nicoleee_ily**: Onza (N), Thunderfisher (N), Purrowl (N), Ginger Cat (N) | **footerch**: Ride-A-Pet Potion |
 | 21:10 | **1Mikusia1**: Crimson Cape (M), Caramelgeist (N) | **Marines_Natalia**: Ride-A-Pet Potion |
-| 21:10 | **Elwanizk**: Chihuahua | **hefeltsafe**: Retired Egg ×18 |
-| 21:10 | **alexgameminecraft**: Pupcicle (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **pypsikpro_9**: Hare (NFR) |
-| 21:10 | **Bluberry040**: Ride-A-Pet Potion ×17 | **Shehatesme420**: Kangaroo (FR) |
-| 21:10 | **ayanukojii**: Highland Cow (M) | **YUMIIMOTHZZ**: Harp Seal (NFR) |
-| 21:10 | **vupxric**: Puffin (MFR), Candyfloss Chick (MFR), Monkey King | **6ldmoney**: Mini Pig (MFR) |
-| 21:10 | **klown_karr**: Jeff's Nametag, Cotton Candy Hat | **962788khdd**: Elf Hat |
-| 21:10 | **AdamBawaaneh6**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Goose (R) | **luke1_164**: Parrot (FR) |
-| 21:10 | **roblox1526free**: Cryptid (FR) | **karakyla20**: Amethyst Penguin, Ride-A-Pet Potion |
-| 21:10 | **karakyla20**: Phoenix (NFR), Koala (FR), Lunar Moon Bear (FR) | **rvserllz**: Pink Cat (R) |
-| 21:10 | **RBstela**: Hare, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Reindeer | **socialpath_skz**: Pig (R) |
-| 21:10 | **Shehatesme420**: Ride-A-Pet Potion ×2, Chihuahua | **KaiSaboAceCC**: Eggnog Dog (N), Clownfish (N) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
