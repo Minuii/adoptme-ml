@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 19:55 UTC by the scrape workflow._
+_Updated 2026-11-17 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 41,346 | 2026-11-17T19:45 |
-| elve | 7 | 8,774 | 2026-11-17T19:45 |
+| amvgg | 7 | 41,560 | 2026-11-17T20:00 |
+| elve | 7 | 8,837 | 2026-11-17T20:01 |
 
-## AMVGG completed trades: 29,339 total
+## AMVGG completed trades: 29,353 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,270 |
+| 2026-11-17 | 3,284 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:00 | **Grandlove10**: Christmas Pudding Pup (NR), Angus Calf (MR) | **chloe_dacatXD**: Fairy Bat Dragon (R) |
+| 20:00 | **hzmimii**: Ride-A-Pet Potion | **4revolutions**: Rose Quartz Glow Mega Neon Paint |
+| 20:00 | **Ashvr_s0ul9**: Diamond Hamster (MFR), Yeti (M) | **Ojitobonito2017**: Moose Calf (MFR) |
+| 20:00 | **cabesitatele**: Evil Unicorn (FR), Pig (R), Samoyed (M), Kakapo (M), Sheepdog Ducky (M), Rabbit Helicopter | **laur3star**: Amethyst Penguin |
+| 20:00 | **Shailyn09**: Cupcake Scooter | **wanda_vision680**: Ride-A-Pet Potion, Back Taco |
+| 20:00 | **TheKindAndOnly**: Balloon Unicorn (FR) | **Its_lipwwixx**: Evil Unicorn (FR), Shark Puppy (FR), Cow (R), Pet Handler Pro Certificate |
+| 20:00 | **pisapopakakashecki**: Dracula Parrot ×4 | **wanda_vision680**: Ride-A-Pet Potion |
+| 20:00 | **q_plvio2**: Siamese Cat (NR), Lamb (NFR) | **Fluffy_luffy12345**: Alley Cat (MFR), Hyena, Ride-A-Pet Potion |
+| 20:00 | **AriesParagon**: Red Dutch Guinea Pig, Pupcicle, Banana Hat | **GINGERONE2022**: Unicorn (NFR) |
+| 20:00 | **lowerbunny**: Fly-A-Pet Potion | **UnUcreepy**: Chicken |
+| 20:00 | **SheilaPlays12**: Admin Abuse Egg ×14 | **Hales_Elise**: Count Slothula |
+| 20:00 | **wths1n**: Ride-A-Pet Potion, Kaijunior (NR) | **mk1qez**: Kaijunior (NFR) |
+| 20:00 | **Micro691Nesian**: Sushi Penguin ×2 | **sugarxcer**: Hospital Home |
+| 20:00 | **OfflineKiri**: S'mores Raccoon (MFR), Jester Dragon (R), Jester Dragon | **vyskqn**: Fairy Bat Dragon (FR) |
 | 19:55 | **cutesyiza**: Cake Friend (MR) | **firegrumpjaw**: Chihuahua, Clownfish, Count Slothula, Ghost Dog, Pain au Chat, Pink Betta Fish, Skunk, Clementine Owl, Cold Cube, Gingerbread Reindeer, Gingerbread Hare, Gingerbread Mouse, Headless Horse, Penguin, Mrs. Whiskerpips, Sabertooth, Sprout Snail, Tan Chow-Chow |
-| 19:55 | **lola_swiet**: Cow (R), Grim Dragon (R), Copycat (R), Ride-A-Pet Potion ×4, Apple Owl | **FrostyLife8382**: Strawberry Shortcake Bat Dragon (FR) |
-| 19:55 | **realacckeira8v**: Ride-A-Pet Potion, Stray Cat Dragon (N) | **Lizyn4kaa**: Chocolate Dutch Guinea Pig |
-| 19:55 | **yan_heso030**: Siamese Cat (FR), Pig (N) | **Butyeli**: German Shepherd (MFR), French Bulldog (MFR) |
-| 19:55 | **Nastya2345981**: Elf Shoes, Elf Bandana | **D4nhvxe**: Angus Bull, Diamond Dragon, Therapy Dog |
-| 19:55 | **Jocamax10**: Copycat (NFR), Ride-A-Pet Potion | **ugishow195**: Fairy Bat Dragon (FR) |
-| 19:55 | **Pineapple_GirlXDD**: Copycat ×2 | **Jocamax10**: King Bee (MFR) |
-| 19:55 | **rainthatxx**: Bat Dragon (FR), Dango Penguins (NFR), Fly-A-Pet Potion | **prokilers7**: Shadow Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Mini Pig (R), Sugar Glider (R), Cabbit (FR) ×2, Goose (FR) |
-| 19:55 | **catgirlhaha19**: Bush Elephant (R), Jellyfish, Alicorn ×2 | **rainpub**: Zombie Wolf (MFR) |
-| 19:55 | **svtoruuz**: Owlbear (MFR), Happy Duckling (MFR) | **xX23kliezXx**: Puffin (MFR) |
-| 19:55 | **robloxgirl_daisy1**: Balloon Unicorn (FR), Zombie Wolf (MFR), Jacobin Pigeon (M), Cattuccino (N) | **KanskjeMatilde**: Giant Panda (FR), Unicorn Horn |
-| 19:55 | **Elwanizk**: Ride-A-Pet Potion | **Kittyqueen052411**: Crystal Egg ×13 |
-| 19:55 | **Elwanizk**: Ride-A-Pet Potion | **Kittyqueen052411**: Crystal Egg ×12 |
-| 19:55 | **sadieiiex**: Balloon Unicorn (FR), Zombie Wolf | **op_con0**: Arctic Reindeer (FR), Dalmatian (FR) |
-| 19:55 | **gwwirt**: River Otter (M) | **kee4687**: Gemstone Egg ×3 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
