@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 06:45 UTC by the scrape workflow._
+_Updated 2026-11-17 06:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 06:45 UTC by the scrape workflow._
 | amvgg | 7 | 29,229 | 2026-11-17T06:45 |
 | elve | 7 | 6,065 | 2026-11-17T06:45 |
 
-## AMVGG completed trades: 26,971 total
+## AMVGG completed trades: 26,981 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 902 |
+| 2026-11-17 | 912 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 06:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:50 | **mxrgan66**: Strawberry Tortle | **Babyofy5**: Alley Cat ×7, Chocolate Dutch Guinea Pig ×5, Puffer Fish ×4, German Shepherd |
+| 06:50 | **Angel382935**: Jumpscare, Boohoo, Scarecrow Horse, Zombie Chick | **hsjsjdidhshissihhe**: Hamster |
+| 06:50 | **PixiePawsTrade**: Skelicorn ×9 | **Nastya198632**: Ride-A-Pet Potion |
+| 06:50 | **sleepysyamz**: Munchkin Cat (MFR), Tiny Wings ×2, Chocolate Dutch Guinea Pig (N) | **wofkgdkdodk**: Haetae (FR) |
+| 06:50 | **Tesma_Official**: Sakura Spirit (R), Fly-A-Pet Potion | **U9l9y**: Cupid Dragon (FR) |
+| 06:50 | **Aurora07266**: Tiny Wings | **deathp1ts**: Quad Stroller, Cradle Stroller, Ice Cream Stroller |
+| 06:50 | **Thesheeeeesh_god**: Ride-A-Pet Potion | **GEMYU900**: Monkey (NR) |
+| 06:50 | **nigelycudiera**: Haetyphoon (R) | **ljwempire777**: 2022 Birthday Confetti Cannon, Spring Bunny Nose |
+| 06:50 | **uh_Rojo**: Cow | **sproutzermint**: Monkey King (FR) |
+| 06:50 | **luvyerh**: Pig (R), Ride-A-Pet Potion | **kokos2280014**: Pig (FR) |
 | 06:45 | **xClouxyi**: Magic House Door | **Lelay288**: Classic Trade Stand |
 | 06:45 | **xxxAubreexxx123**: Elephant (FR) | **luvyerh**: Border Collie (R) |
 | 06:45 | **Amvgtrading5**: Shrew (MFR), Solaris (MFR), Apple Owl (MFR) | **Fishechkaaaaa**: Sugar Axolotl (MFR) |
 | 06:45 | **userulikk**: Shark Puppy (R), Golden Griffin (FR) | **wolfieplaysrbx1**: Gaelic Fae (NFR), Red Dutch Guinea Pig (R) |
 | 06:45 | **Sirswagalishsus**: Fairy Bat Dragon (FR) | **Cynor0x**: Candicorn (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×7 |
-| 06:45 | **Fernando_13146**: Pupcicle ×2 | **sleepysyamz**: Fly-A-Pet Potion |
-| 06:45 | **Outgoing_Recluse**: Goat (NR) | **m4rshalI**: French Bulldog (MFR), Spring Bunny Hood, Fly-A-Pet Potion |
-| 06:45 | **RAiishiN3**: Dragonfruit Fox (N) | **Moa_spelar1234**: Tiny Wings |
-| 06:45 | **teadan0**: Ride-A-Pet Potion ×3 | **faikubjotch**: Hero Gibbon |
-| 06:45 | **Its_rbx522**: Fly-A-Pet Potion | **lesya_nyashk**: Hospital Home |
-| 06:45 | **FlyToTheSaturn**: Easter Bunny (N), Mochi Meow (N), Quetzalcoatl (N), Ancient Dragon ×2, Blue Betta Fish, Blue Whale ×2, Dark Choccybunny ×3, Diamond Griffin, Dracula Parrot, Dragon, Fire Mare ×2, Frostclaw, Gilded Snake | **sofia003343**: Fly-A-Pet Potion ×2 |
-| 06:40 | **soy_anonim6**: Ice Cream Cone Hat | **epvshka**: Fly-A-Pet Potion ×3 |
-| 06:40 | **PARAZITKA14888**: Thunderfisher ×3 | **hsjsjdidhshissihhe**: Ginger Cat ×3 |
-| 06:40 | **Sanster47**: Frost Dragon (FR) | **iiPurplegalaxy127**: Strawberry Shortcake Bat Dragon (FR) ×4 |
-| 06:40 | **Inganta07**: Ride-A-Pet Potion | **sashq_vmp**: Guardian Lion (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
