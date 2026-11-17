@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 21:01 UTC by the scrape workflow._
+_Updated 2026-11-17 21:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 21:01 UTC by the scrape workflow._
 | amvgg | 7 | 42,500 | 2026-11-17T21:00 |
 | elve | 7 | 9,039 | 2026-11-17T21:01 |
 
-## AMVGG completed trades: 29,560 total
+## AMVGG completed trades: 29,597 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,491 |
+| 2026-11-17 | 3,528 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 21:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:00 | **mxdmcrza**: Turtle (FR) ×2 | **duno_spelar222**: Turtle (NFR) |
-| 21:00 | **coopsO1O**: Cheetah (MFR), English Sheepdog (MFR), S'mores Raccoon (N) | **DijaBint2**: Hare (MFR) |
-| 21:00 | **Bluberry040**: Diamond Griffin (N) ×4 | **Reedeemed**: Ride-A-Pet Potion ×2 |
-| 21:00 | **N0AH_XRM**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) | **Roo_tookey123**: African Wild Dog (FR) |
-| 21:00 | **emqa_03**: Goose (FR), Cow (FR), Canadian Goose (MR), Unicorn Horn, Ice Cream Cone Hat, Tiny Wings | **ii_aldrin20**: Cryptid (FR) |
-| 21:00 | **aNoNiMkA242**: Matcha Cat, Bobageist (N), Canine Cruiser | **sursyrzytxurzutzutz**: Jester Dragon (R) |
-| 21:00 | **Wolfie4567ty**: Mini Pig (FR), Unicorn Horn, Fly-A-Pet Potion ×2 | **CAXAPOK_04536**: Strawberry Shortcake Bat Dragon (FR) |
-| 21:00 | **Tree092109**: Ride-A-Pet Potion ×2 | **littlefelonies**: Pine Marten, Sabertooth, Trapdoor Snail, Tan Chow-Chow, Ermine, Rock Pigeon, Seahorse, Woolly Mammoth, Violet Friend, Sunflower Friend, Storm Condor, Lunar Tiger, Onza (N), Gold Mahi Mahi, Badger, Bandicoot, Irish Setter (N), Kraken Hat |
-| 21:00 | **GorobetsZP**: Ride-A-Pet Potion | **Lylyputikmummy9**: Albino Bat ×2 |
-| 21:00 | **roblox_user_8676283275**: Strawberry Shortcake Bat Dragon (FR) ×2, Pig (FR) | **snyyyp**: Goose (FR) ×4 |
-| 21:00 | **Mnenormalno_0**: Fly-A-Pet Potion ×3 | **Rawyoubro11**: Frost Fury (FR) |
-| 21:00 | **anekalubitnaruto**: Shark Puppy | **t0xlc_w4st3e**: Happy Duckling (MFR) |
-| 21:00 | **luvyerh**: Elephant (FR) | **stefkazzz**: Crocodile (FR), Fly-A-Pet Potion |
-| 21:00 | **adoptmeejjej**: Latte Kitsune, Fly-A-Pet Potion ×2 | **trede_o**: Copycat |
-| 21:00 | **Officalyuichi**: Ride-A-Pet Potion ×2 | **Marines_Natalia**: Fly-A-Pet Potion |
+| 21:10 | **Arracheurdetacos224**: African Wild Dog (R), Sheeeeep (MFR), Chocolate Dutch Guinea Pig (MFR) | **p0xompurin**: Frost Dragon (FR) |
+| 21:10 | **demon529752**: Turtle (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Dancing Dragon, Choco Penguin (NR), Zodiac Minion Chick (N) | **alisha5050x**: Kangaroo (NFR) |
+| 21:10 | **Nicoleee_ily**: Onza (N), Thunderfisher (N), Purrowl (N), Ginger Cat (N) | **footerch**: Ride-A-Pet Potion |
+| 21:10 | **1Mikusia1**: Crimson Cape (M), Caramelgeist (N) | **Marines_Natalia**: Ride-A-Pet Potion |
+| 21:10 | **Elwanizk**: Chihuahua | **hefeltsafe**: Retired Egg ×18 |
+| 21:10 | **alexgameminecraft**: Pupcicle (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **pypsikpro_9**: Hare (NFR) |
+| 21:10 | **Bluberry040**: Ride-A-Pet Potion ×17 | **Shehatesme420**: Kangaroo (FR) |
+| 21:10 | **ayanukojii**: Highland Cow (M) | **YUMIIMOTHZZ**: Harp Seal (NFR) |
+| 21:10 | **vupxric**: Puffin (MFR), Candyfloss Chick (MFR), Monkey King | **6ldmoney**: Mini Pig (MFR) |
+| 21:10 | **klown_karr**: Jeff's Nametag, Cotton Candy Hat | **962788khdd**: Elf Hat |
+| 21:10 | **AdamBawaaneh6**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Goose (R) | **luke1_164**: Parrot (FR) |
+| 21:10 | **roblox1526free**: Cryptid (FR) | **karakyla20**: Amethyst Penguin, Ride-A-Pet Potion |
+| 21:10 | **karakyla20**: Phoenix (NFR), Koala (FR), Lunar Moon Bear (FR) | **rvserllz**: Pink Cat (R) |
+| 21:10 | **RBstela**: Hare, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Reindeer | **socialpath_skz**: Pig (R) |
+| 21:10 | **Shehatesme420**: Ride-A-Pet Potion ×2, Chihuahua | **KaiSaboAceCC**: Eggnog Dog (N), Clownfish (N) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
