@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 08:31 UTC by the scrape workflow._
+_Updated 2026-11-17 08:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 08:31 UTC by the scrape workflow._
 | amvgg | 7 | 30,726 | 2026-11-17T08:30 |
 | elve | 7 | 6,403 | 2026-11-17T08:31 |
 
-## AMVGG completed trades: 27,141 total
+## AMVGG completed trades: 27,154 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,072 |
+| 2026-11-17 | 1,085 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:40 | **zxcqweasd1221**: Aussie Egg ×2 | **zeiholds**: Ride-A-Pet Potion ×9 |
+| 08:40 | **kayy0776**: Ride-A-Pet Potion ×2 | **zeiholds**: Pet Handler Pro Certificate |
+| 08:40 | **Catzini_1**: Jellyfish (NR) | **ADDIEISCHEAP**: Goose |
+| 08:40 | **aabeeyg**: Unicorn Backpack, Slothula Transformation Animated Sticker | **lilpepeng150**: Spring Bunny Hood |
+| 08:40 | **alexgameminecraft**: Sugar Axolotl (NFR) | **Bellacutie9090**: Cow (FR) |
+| 08:40 | **mommy_vka123**: Cow (FR) | **xiiiireh**: Turtle (FR), Munchkin Cat, Mochi Meow (NR) |
+| 08:40 | **Me_citer228**: Arctic Fox (FR), Fly-A-Pet Potion, Naughty Mistletroll, Kangaroo (R), Glormy Dolphin (N), Count Slothula | **meow_cat2310**: Peppermint Penguin |
+| 08:40 | **KOqin10**: Dire Wolf (N) | **mobimaa**: Pain au Chat |
+| 08:36 | **snoringkai**: Copycat ×2 | **Str3amN0va2024**: Robo Dog (MFR) |
+| 08:36 | **m4rshalI**: Pelican (M) | **snoringkai**: Frostbite Bear (MFR), Siamese Cat (M), Frostclaw (MFR), Ice Cream Cone Hat |
+| 08:36 | **Jocamax10**: Pet Handler Pro Certificate ×7 | **KotMonster7**: Ride-A-Pet Potion ×13 |
+| 08:36 | **Moon_Cloud609859**: Cow (FR), Frozen Penguin (N) | **nexii677**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
+| 08:36 | **Addmymainpls2332**: Cryptid (NFR), Turtle (FR), Royal Palace Spaniel (MFR), Bready Necklace | **suzy072211**: Goose (MFR) |
 | 08:30 | **Dasha123DA12**: Munchkin Cat (MFR), Unicorn Horn, Ice Cream Cone Hat | **blushbyelle**: Shark Puppy (MFR) |
 | 08:25 | **coralthefishh**: Choco Penguin (MR) | **Sleepy_Sonya112**: Fly-A-Pet Potion ×2 |
-| 08:25 | **Lvpix**: Mummy Spider (M), Dragon (N) | **Sleepy_Sonya112**: Ride-A-Pet Potion |
-| 08:25 | **mohamed84ll**: Strawberry Shortcake Bat Dragon (FR), Tree Decorating Animated Sticker, Frostbite Bear and Cub Animated Sticker ×5, Bat Dragon Sticker ×2, Cotton Candy Hat, Aviator Hat, Bat Wings, Gold Scooter | **z0mbiicorpse**: Cow (FR), Grim Dragon (FR), Rain Cloud Hat |
-| 08:25 | **SmallestMascot**: Evil Unicorn (FR) | **tonyyy133378**: Turtle (MFR) |
-| 08:25 | **IRoblox_Qoeen**: Copycat (N), Jester Dragon (R) | **Dddana20058**: Cow (FR) |
-| 08:25 | **hanb3ki**: Candy Cannon, Cow (NFR), Happy Duckling (N) ×2, Ride-A-Pet Potion ×5 | **JeremyynowYT5**: Crow (FR), Haetae (FR) |
-| 08:25 | **Cdg91400**: Chocolate Dutch Guinea Pig | **imnotgabzz0**: Christmas Pudding House, Alicorn (R), Purrowl (R), Golden Griffin, Dolphin Cruiser |
-| 08:25 | **EllaXgoose**: White Sand Dollar, Fly-A-Pet Potion | **nemapro123kitty**: Gingerbread Mouse (M) |
-| 08:25 | **nikitaloooll7**: Fly-A-Pet Potion ×5, Pet Handler Pro Certificate, Ride-A-Pet Potion ×5, Spring Bunny Feet, Regal Roller | **Lola242532**: Kangaroo (FR) |
-| 08:25 | **Preppyh4arts**: Arctic Dusk Dragon (FR) | **AnneGamingYT0**: Ice Cream Cone Hat |
-| 08:25 | **ploB_666**: Biodome Home | **annyairu**: Ride-A-Pet Potion ×3 |
-| 08:25 | **MADmohamed_110**: Candicorn, Peach Owl (NR) | **Mxso_soup8**: Unicorn Horn |
-| 08:25 | **6isHUNGRY**: Munchkin Cat (NFR), Dango Penguins (MFR), Copycat (N), Sandwich Hat | **FadePinksphone**: Munchkin Cat (MFR) |
-| 08:25 | **DINA_MINA1337**: Sugar Glider (R) | **kagurasgl0w**: Goat (NR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
