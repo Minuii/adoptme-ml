@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 00:31 UTC by the scrape workflow._
+_Updated 2026-11-17 00:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 00:31 UTC by the scrape workflow._
 | amvgg | 7 | 23,404 | 2026-11-17T00:30 |
 | elve | 7 | 4,982 | 2026-11-17T00:31 |
 
-## AMVGG completed trades: 26,150 total
+## AMVGG completed trades: 26,177 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 81 |
+| 2026-11-17 | 108 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 00:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:30 | **BlgBUNNS_NARUTO**: Merhorse (NR), Onza (N) | **agro_CAXAPOK22802**: Ride-A-Pet Potion |
-| 00:30 | **kaylamicmi**: Dango Penguins (MFR) | **elffycomb361112**: Harp Seal (MR), Chihuahua (M), Spring Bunny Hood |
-| 00:30 | **awita_92729**: Kitty Bat (MFR), Trapdoor Snail (M), Aviator Hat | **m4tt_skatez**: Panda (MFR) |
-| 00:25 | **littyamelia**: Bubblegeist | **Whyisyourpeeblue**: Retired Egg ×8 |
-| 00:25 | **Kiwisito1560**: Red Panda Ducky (M), Gilded Snake | **Petterstranger**: Thinking Hat |
-| 00:25 | **cupidbuni**: 2022 Birthday Cake | **vpzqik**: Snowball Pet (MFR) |
-| 00:25 | **Deinabiluana**: Chocolate Chip Bat Dragon (FR), Cupid Dragon (R) | **aleks2u**: Arctic Reindeer (R) |
-| 00:25 | **berlinxanna**: Koi Carp (MR) | **joacoprojj**: Christmas Pudding Pup |
-| 00:25 | **locked_inrn54**: Bush Elephant (R), Kangaroo (R), Crocodile (R), Tuxedo Cat (N), Arctic Fox, Koi Carp (N), Ride-A-Pet Potion | **gunsforgirls**: Strawberry Shortcake Bat Dragon (FR) |
-| 00:25 | **Carl86B**: Paint Sealer ×18 | **rose846797**: Pet Handler Pro Certificate |
-| 00:25 | **Cat2_gir**: Easter Bunny (M), Ride-A-Pet Potion ×8 | **fenekitfixismymain**: Tiny Wings |
-| 00:25 | **El_cachorr0444**: Goose (FR) | **liamstar_019**: Peppermint Penguin (FR) |
-| 00:25 | **Dantheshadowfan**: Cryptid (FR), Toaster Hat, Fly-A-Pet Potion, Cherry Blossom Hang Glider | **StankFart_Jr**: Blazing Lion |
-| 00:25 | **gato12345129**: Giraffe (FR), Rainbow Maker, Rain Cloud Hat | **fwthaclout**: African Wild Dog (R), Evil Unicorn (FR) ×2, Fairy Bat Dragon (NFR), Halo, 2022 Birthday Cupcake Shoes, Ride-A-Pet Potion |
-| 00:25 | **gaspooio**: Arctic Reindeer (NFR), Cow (NFR), Polar Bear (R) | **RileyforSure28**: Owl (FR) |
+| 00:40 | **cxrlos_tungsaur**: 2022 Birthday Party Hat | **Jahazi_Roblox**: Dragonfruit Fox, Ride-A-Pet Potion ×2, Silly Duck, Jellyfish (R), Toaster Hat |
+| 00:40 | **Reedeemed**: Peppermint Penguin (R), Peppermint Penguin | **ew_darsky**: Strawberry Shortcake Bat Dragon (FR) |
+| 00:40 | **cxrlos_tungsaur**: Mini Pig (NR) | **Abaddon_Kisser666**: Cow (FR), Sugar Glider (FR) ×2, 2022 Birthday Party Hat |
+| 00:40 | **ayeeeAva**: Pink Betta Fish (M) | **Shaylynn2255**: Penguin (MFR) |
+| 00:40 | **lexcor3**: Crocodile (R) | **katakuri_RBL**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6, Mrs. Whiskerpips (N), Evil Basilisk, Hopbop (N) |
+| 00:36 | **g00fyg00ber_01**: Ride-A-Pet Potion ×4 | **mamyy_344**: Biodome Home |
+| 00:36 | **g00fyg00ber_01**: Dango Penguins, Ride-A-Pet Potion ×2 | **papuloe737**: Biodome Home |
+| 00:36 | **Flforoprpeppepd**: Candyfloss Mega Neon Paint, Count Slothula | **unicornrain13_3**: Amethyst Skies Mega Neon Paint, Rose Quartz Glow Mega Neon Paint |
+| 00:36 | **Vicyna0**: Mini Pig (FR), Hedgehog (FR), Polar Bear (NR), Count Slothula (N), Ride-A-Pet Potion ×3, Pupcicle | **hshdxcmz**: Crow |
+| 00:36 | **milkisluvr**: Brown Bear (NR), Mrs. Whiskerpips (NFR) | **myfishdrownedinpee**: Lynx (MFR) |
+| 00:36 | **mistfulmemorie**: Cattuccino (M), Burger Boots, Bunny Swirl (N), Copycat (NFR) | **Astro_shelly103**: Goose (FR) |
+| 00:36 | **GorgosaSaurus**: Frost Dragon (FR), Parrot (FR), Turtle (NFR), Kangaroo (NFR), Mini Pig (FR), Winged Tiger, Jester Dragon, Bandicoot (M), Fire Stallion (NR) | **Dax_ontop1**: Shadow Dragon (FR) |
+| 00:36 | **altfortrades222**: 2D Kitty (R), Koala (R), Glormy Crab | **SimplycandyPooxs**: Sandwich Hat |
+| 00:36 | **iuvzjules**: Pupcicle (MFR), Silverback Gorilla (NR), Undead Jousting Horse (FR), Black Macaque (MR), Happy Duckling (MR), Candicorn, Arctic Fox (FR), Unicorn Horn | **Fluffyclowngoo**: Balloon Unicorn (FR) |
+| 00:36 | **Str3amN0va2024**: Turtle (FR) ×3, Turtle, Axolotl (NFR), Fly-A-Pet Potion, Pet Handler Pro Certificate | **TMDung20**: Evil Unicorn (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
