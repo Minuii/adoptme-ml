@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 14:55 UTC by the scrape workflow._
+_Updated 2026-11-17 15:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 14:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 36,358 | 2026-11-17T14:45 |
-| elve | 7 | 7,648 | 2026-11-17T14:45 |
+| amvgg | 7 | 36,615 | 2026-11-17T15:00 |
+| elve | 7 | 7,731 | 2026-11-17T15:01 |
 
-## AMVGG completed trades: 28,262 total
+## AMVGG completed trades: 28,270 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,193 |
+| 2026-11-17 | 2,201 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,14 @@ _Updated 2026-11-17 14:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 15:00 | **Army_9290**: Arctic Reindeer (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×4 | **Gatoeroz2020hg**: Dalmatian (FR) |
+| 15:00 | **TrxstedAinhoken**: Owl (NFR), Owl (FR), Crocodile | **ates_yurek**: Diamond Butterfly (MFR) |
+| 15:00 | **mdmdnkevsjsvaj**: Cow (FR), Sunglider (MR), Ride-A-Pet Potion ×4 | **Kira_Django123**: Candicorn (NFR) |
+| 15:00 | **Reveknalt1**: Dragonfly ×18 | **100boom15**: Ride-A-Pet Potion |
+| 15:00 | **sonyalove643**: Fly-A-Pet Potion, Rock (N), Yellow Designer Backpack | **Patriot0750**: Alley Cat (R) |
+| 15:00 | **Vitamirka**: Pain au Chat ×3 | **PHJ_ANGEL**: Ride-A-Pet Potion |
+| 15:00 | **Backupacc334522**: Giraffe (FR), Rain Cloud Hat, Ballet Swan, Yule Log Dog | **Cinzsins**: Orchid Butterfly, Velocirooster (MFR) ×2, Hedgehog, Copycat (N) |
+| 15:00 | **Katya700100**: Unicorn, Paint Sealer | **Kir4kaaa**: Ride-A-Pet Potion |
 | 14:55 | **viktoria_super000**: Mochi Meow (M) | **Fan_iNoobasya**: Fly-A-Pet Potion |
 | 14:55 | **LilUgly_Mane**: Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Kitty Bat (MF), Giant Anteater (NR), Water Rabbit (MR) | **francyflop**: Cryptid (MFR) |
 | 14:55 | **Fan_iNoobasya**: Fly-A-Pet Potion ×3 | **Hellothere_ImAK**: Frost Fury (FR) |
@@ -39,14 +47,6 @@ _Updated 2026-11-17 14:55 UTC by the scrape workflow._
 | 14:55 | **lazsleepy**: Arctic Reindeer (FR), Grim Dragon (FR), Arctic Fox (FR) | **Qwexx0ll**: Evil Unicorn (FR) |
 | 14:55 | **ThiagoAnguloS**: Naughty Mistletroll (NFR) | **Doza0111**: Albino Monkey (FR) |
 | 14:55 | **Moon_Cloud609859**: Frostbite Bear (R) | **Acorn0930**: Frostbite Bear |
-| 14:55 | **vennieemylove**: Strawberry Shortcake Bat Dragon (FR) | **Hamster_ofis**: Fairy Bat Dragon (FR), Flaming Fox (NR), Jester Dragon (R), Jester Dragon, Alley Cat (NR), Samoyed (MR), Pupcake (N) |
-| 14:55 | **itz_grigoriy**: Kangaroo (FR), Elephant (R), Munchkin Cat, Irish Water Spaniel (R), Lion Cub, Red Dutch Guinea Pig | **Vitek_228666**: Strawberry Shortcake Bat Dragon |
-| 14:55 | **NastyaNerol**: Propeller Hat, Sandwich Hat | **ChristinaClaraAva**: Owlbear |
-| 14:55 | **kawaiifaintedgirl**: Copycat | **Zeyqvz**: Unicorn (NFR) |
-| 14:55 | **El_t1ntero**: Werewolf (FR), Latte Kitsune (NFR), Fly-A-Pet Potion | **queenmaya773**: Kangaroo (NFR) |
-| 14:55 | **safiqa99**: Turtle (FR) | **hexyzbagoc31**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 |
-| 14:55 | **altgenaratordhc45**: Siamese Cat (MFR), Irish Water Spaniel (N), Jekyll Hydra, Fairy Bat Dragon (FR), Cabbit (FR), Phantom Dragon (FR) | **Amy_Anna268**: Frost Dragon (FR) |
-| 14:55 | **Queenvessy**: Haetyphoon (FR) | **aestethic_boba12**: Pupcake (MR), Glyptodon (MR), Headless Horse (NR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
