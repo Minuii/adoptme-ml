@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 03:16 UTC by the scrape workflow._
+_Updated 2026-11-17 03:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 03:16 UTC by the scrape workflow._
 | amvgg | 7 | 26,003 | 2026-11-17T03:15 |
 | elve | 7 | 5,486 | 2026-11-17T03:16 |
 
-## AMVGG completed trades: 26,568 total
+## AMVGG completed trades: 26,569 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 499 |
+| 2026-11-17 | 500 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,7 @@ _Updated 2026-11-17 03:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:21 | **002002002LE0**: Pupcicle (N) ×2, Llama (FR) | **M1dnight_v0id52**: Karate Gorilla (MR) |
 | 03:15 | **flawless_bowdown**: Thunderfisher (M) | **Lindaunicornio30990**: Ride-A-Pet Potion |
 | 03:15 | **bytsaremyfavourute**: Balloon Unicorn (FR), Goose, Cabbit | **yuri_dragon32**: Field Mouse (MFR), Alley Cat (MFR), Alpaca (FR), Ice Cream Cone Hat, Tiny Wings |
 | 03:15 | **lusui_bober**: Milk Choccybunny (M), Shoebill (N), Stitches, Glormy Crab, Alicorn ×4 | **Bravo_Avocado**: Ride-A-Pet Potion |
@@ -46,7 +47,6 @@ _Updated 2026-11-17 03:16 UTC by the scrape workflow._
 | 03:11 | **FlyToTheSaturn**: Balloons, Marsh Plush, Octopus Plush, Caticorn Rattle, Banana Pogo, Turkey Plush, Heart Balloon, Dragon Balloon, Ornament Throw Toy, Cymbal Ingredient, Cookie Dough Plush ×2, Candle ×3, Sleigh Bells Rattle ×3 | **Kirikocutie8**: Fly-A-Pet Potion |
 | 03:11 | **Ryumiizz**: Turtle (NFR) ×2, Hyena, Turkey (R), Ride-A-Pet Potion, Bunny Swirl (N) | **squirtle_Adoptmemi**: Evil Unicorn (FR) |
 | 03:11 | **M1dnight_v0id52**: Ram (MFR), Tuxedo Cat (M), Corn Doggo (MFR) | **idk_girl537**: Groundhog (MFR) |
-| 03:11 | **mati08proo**: Sea Turtle ×3, Moon Bear Box ×3 | **themudwizard**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
