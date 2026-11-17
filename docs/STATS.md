@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 06:40 UTC by the scrape workflow._
+_Updated 2026-11-17 06:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 06:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 29,022 | 2026-11-17T06:30 |
-| elve | 7 | 6,035 | 2026-11-17T06:31 |
+| amvgg | 7 | 29,229 | 2026-11-17T06:45 |
+| elve | 7 | 6,065 | 2026-11-17T06:45 |
 
-## AMVGG completed trades: 26,960 total
+## AMVGG completed trades: 26,971 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 891 |
+| 2026-11-17 | 902 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 06:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:45 | **xClouxyi**: Magic House Door | **Lelay288**: Classic Trade Stand |
+| 06:45 | **xxxAubreexxx123**: Elephant (FR) | **luvyerh**: Border Collie (R) |
+| 06:45 | **Amvgtrading5**: Shrew (MFR), Solaris (MFR), Apple Owl (MFR) | **Fishechkaaaaa**: Sugar Axolotl (MFR) |
+| 06:45 | **userulikk**: Shark Puppy (R), Golden Griffin (FR) | **wolfieplaysrbx1**: Gaelic Fae (NFR), Red Dutch Guinea Pig (R) |
+| 06:45 | **Sirswagalishsus**: Fairy Bat Dragon (FR) | **Cynor0x**: Candicorn (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×7 |
+| 06:45 | **Fernando_13146**: Pupcicle ×2 | **sleepysyamz**: Fly-A-Pet Potion |
+| 06:45 | **Outgoing_Recluse**: Goat (NR) | **m4rshalI**: French Bulldog (MFR), Spring Bunny Hood, Fly-A-Pet Potion |
+| 06:45 | **RAiishiN3**: Dragonfruit Fox (N) | **Moa_spelar1234**: Tiny Wings |
+| 06:45 | **teadan0**: Ride-A-Pet Potion ×3 | **faikubjotch**: Hero Gibbon |
+| 06:45 | **Its_rbx522**: Fly-A-Pet Potion | **lesya_nyashk**: Hospital Home |
+| 06:45 | **FlyToTheSaturn**: Easter Bunny (N), Mochi Meow (N), Quetzalcoatl (N), Ancient Dragon ×2, Blue Betta Fish, Blue Whale ×2, Dark Choccybunny ×3, Diamond Griffin, Dracula Parrot, Dragon, Fire Mare ×2, Frostclaw, Gilded Snake | **sofia003343**: Fly-A-Pet Potion ×2 |
 | 06:40 | **soy_anonim6**: Ice Cream Cone Hat | **epvshka**: Fly-A-Pet Potion ×3 |
 | 06:40 | **PARAZITKA14888**: Thunderfisher ×3 | **hsjsjdidhshissihhe**: Ginger Cat ×3 |
 | 06:40 | **Sanster47**: Frost Dragon (FR) | **iiPurplegalaxy127**: Strawberry Shortcake Bat Dragon (FR) ×4 |
 | 06:40 | **Inganta07**: Ride-A-Pet Potion | **sashq_vmp**: Guardian Lion (FR) |
-| 06:40 | **douniaalt**: Husky (MR) | **WhiteBoy19**: Cow (FR) |
-| 06:40 | **miuehla**: Strawberry Shortcake Bat Dragon (FR) | **Fishechkaaaaa**: Snow Monkey (MFR), Pancake Stack, Spring Bunny Hood, Propeller Hat, Butter Knife, Ice Cream Cone Hat, Spring Bunny Feet, Spring Bunny Nose |
-| 06:36 | **Maksimal_228**: Werewolf | **g3nya_16**: Copycat ×3 |
-| 06:36 | **carolzinhac2009**: Arctic Fox (R) | **luvyerh**: Ride-A-Pet Potion ×8 |
-| 06:36 | **I1ous**: Pupcicle (MFR) | **11Anime_Love1**: Turtle (FR) |
-| 06:36 | **hanb3ki**: Dalmatian (FR), Arctic Reindeer (FR) ×3, Strawberry Shortcake Bat Dragon (FR) ×4, Chocolate Chip Bat Dragon (FR) ×4, Goose (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **Artisticzsilver**: Bat Dragon (FR) |
-| 06:36 | **pudadlin**: Unicorn (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **EnricoHandsome0**: Queen Bee (NFR) |
-| 06:36 | **EnricoHandsome0**: Ride-A-Pet Potion ×5 | **Betman0097**: Unicorn (NFR) |
-| 06:36 | **XiaoFaye1433**: Cow (FR) | **NotSweatyOnion**: Strawberry Penguin (N), Fly-A-Pet Potion ×2 |
-| 06:30 | **coolguy192459**: Fairy Bat Dragon (FR), Candicorn (FR) | **tiharaxd11**: Turtle (NFR) |
-| 06:30 | **kaylamicmi**: Ram (MFR), Harp Seal (MR), Chocolate Dutch Guinea Pig (MR), Albino Bat (MFR), White Sand Dollar (MFR), Orange Butterfly (MFR), German Shepherd (MR), Black Springer Spaniel (MFR), Phoenix (MFR), Gingerbread Reindeer (MR), Malaysian Tapir (MFR) | **AvaCometfish961**: Owl (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
