@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-16 23:55 UTC by the scrape workflow._
+_Updated 2026-11-17 00:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,13 +13,14 @@ _Updated 2026-11-16 23:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 6 | 47,310 | 2026-11-16T23:45 |
-| elve | 6 | 10,165 | 2026-11-16T23:45 |
+| amvgg | 7 | 22,897 | 2026-11-17T00:00 |
+| elve | 7 | 4,869 | 2026-11-17T00:01 |
 
-## AMVGG completed trades: 26,069 total
+## AMVGG completed trades: 26,081 total
 
 | Day (UTC) | Trades |
 |---|---|
+| 2026-11-17 | 12 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -31,21 +32,21 @@ _Updated 2026-11-16 23:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:00 | **Evelyen1234578**: Ride-A-Pet Potion ×2 | **Shiroo_Luvssfood**: Ram |
+| 00:00 | **CeralL17**: Pupcicle | **HeladoDePez**: Ride-A-Pet Potion |
+| 00:00 | **AmandaPandaKawaii123**: Frost Unicorn (R), Chocolate Dutch Guinea Pig (N), German Shepherd (N) | **lexcor3**: Chocolate Dutch Guinea Pig (MR) |
+| 00:00 | **lhfshkg**: Ride-A-Pet Potion ×2 | **silvannah122**: Stray Cat Dragon ×18 |
+| 00:00 | **elproXD_7v7**: Blue Whale (N) ×2 | **Hey_Dant123**: Ride-A-Pet Potion |
+| 00:00 | **mariarita2000**: Castle Hermit Crab ×2 | **icequeenmaemae**: Drake |
+| 00:00 | **Urweridxoxo**: Harp Seal (MFR) | **MATT_2011901**: Harp Seal (NFR), Chihuahua (N), Harp Seal (R), Field Mouse (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Vanilla Penguin (R), Samoyed (NR) |
+| 00:00 | **Terranese**: Pet Handler Pro Certificate ×2 | **xGracie_1234x**: Velocirooster |
+| 00:00 | **Gamesta_YT**: Chihuahua ×2 | **F34x89F**: Ride-A-Pet Potion |
+| 00:00 | **lunarodlox38**: Ride-A-Pet Potion ×2, Cattuccino (M) | **Mmaxii16**: Sea Turtle (MR) |
+| 00:00 | **AutoTradeCommission**: Mermicorn (R) | **pawsicfl**: Kangaroo (R), Ice Cream Cone Hat, Ride-A-Pet Potion |
+| 00:00 | **DreamWalker_47**: Latte Kitsune (MFR) | **sorryimsweetx_v**: Chocolate Dutch Guinea Pig (MFR), English Sheepdog (MFR), Pain au Chat (MFR) |
 | 23:55 | **PrinceMarcus04**: Jousting Horse (NR), Lamb (FR), Lava Wolf (R), Puptune (N) | **egedrn31**: Kangaroo (FR) |
 | 23:55 | **yygethhhhukkj**: Lion Cub (R), Papa Moose, Jester Dragon, Christmas Pudding Pup (R), Arctic Fox (R), Ice Cream Cone Hat | **bayudaman**: Frost Phoenix (MR) |
 | 23:55 | **freakygojo543**: Chocolate Dutch Guinea Pig (N), Pain au Chat | **dustar2008**: Pupcicle ×2, Spring Bunny Hood |
-| 23:55 | **sombwinhas**: Balloon Unicorn (FR), Dango Penguins (R), Chocolate Dutch Guinea Pig ×3, Ride-A-Pet Potion | **xbaby_xsharkx**: Crow (FR) |
-| 23:55 | **NotSweatyOnion**: Pig (R) | **cheykk36**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 23:55 | **araamhola**: Aussie Egg ×5 | **ajoloteflac1900**: Turtle (FR) |
-| 23:55 | **Nikito4ka_mm2**: Goat (NR) | **ajoloteflac1900**: Turtle (FR), Fly-A-Pet Potion |
-| 23:55 | **1Biahsz_altx**: Fly-A-Pet Potion ×6 | **Wolfie4567ty**: Happy Duckling (MFR) |
-| 23:55 | **anutik_awesome**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **jeIIyouus**: Munchkin Cat (R) |
-| 23:55 | **aliyahbyrne11**: Giant Panda (FR) ×2, Giant Panda (R), Balloon Unicorn (FR), Balloon Unicorn (R), Fairy Bat Dragon (NFR), Sakura Spirit | **wassupwithu**: Bat Dragon (FR) |
-| 23:55 | **santii_css**: Royal Mistletroll (MFR), Rainbow Dragon (NFR) | **LeonardBass28273**: Werewolf (MFR), Ring-Tailed Lemur (MFR), Hero Gibbon (MFR), Diamond Amazon (N), English Sheepdog (MFR), Dango Penguins (MFR), Water Rabbit (MFR) |
-| 23:55 | **Troy4thaltforsteal**: Chihuahua (MFR), Penguin (MFR) | **SoLost666**: Kangaroo (FR) |
-| 23:55 | **lola_swiet**: Muskrat (M), Jacobin Pigeon (M) | **PyramidsapphireX**: Ride-A-Pet Potion |
-| 23:55 | **xisaa_sr**: Unicorn ×4 | **TsukiChan1510**: Fly-A-Pet Potion ×2 |
-| 23:55 | **soul1nquestion**: Blazing Lion (FR), Ice Cream Cone Hat, Vanilla Penguin (NFR) | **YumSleepy**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
