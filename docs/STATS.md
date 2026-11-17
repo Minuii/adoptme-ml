@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 02:10 UTC by the scrape workflow._
+_Updated 2026-11-17 02:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 02:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 24,875 | 2026-11-17T02:00 |
-| elve | 7 | 5,213 | 2026-11-17T02:01 |
+| amvgg | 7 | 25,103 | 2026-11-17T02:15 |
+| elve | 7 | 5,258 | 2026-11-17T02:16 |
 
-## AMVGG completed trades: 26,440 total
+## AMVGG completed trades: 26,444 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 371 |
+| 2026-11-17 | 375 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,10 @@ _Updated 2026-11-17 02:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:15 | **terrylonsoyjerry**: Flamingo (FR), Rain Cloud Hat, Midnight Dragon, Tortuga de la Isla (R), Honey Badger (R), Shark (NR), Violet Butterfly (N) | **Tearysdraft**: Rainbow Maker |
+| 02:15 | **hshdxcmz**: Ride-A-Pet Potion ×14, Pupcicle | **rainbow28546**: Rain Cloud Hat |
+| 02:15 | **nezvk0_chqn**: Undead Jousting Horse (FR) | **Addison_167368**: Goose (FR) |
+| 02:15 | **Ruperto_1297**: Arctic Fox (R) | **TRINITYYBESTIE**: Fly-A-Pet Potion ×4 |
 | 02:10 | **regina_12z**: Frost Fury (FR) | **speedatom95**: Pet Handler Pro Certificate ×3 |
 | 02:10 | **Cookieee1098**: Copycat | **TheXpepparoni**: Goat (R) |
 | 02:10 | **Phoenix_Goddess0**: Stray Cat Dragon | **TaimeKero**: Blue Whale ×2 |
@@ -43,10 +47,6 @@ _Updated 2026-11-17 02:10 UTC by the scrape workflow._
 | 02:10 | **Hungry_Sleppy**: Kage Crow ×2, Momma Moose, Discosplosion | **kalge925392**: Pupcicle |
 | 02:10 | **Michae_demiurgos**: Cow (FR), Ghost Dog | **MEGAWARRIOR254**: Turkey (MFR) |
 | 02:10 | **Bumble_Lou**: Catte (N) | **MrColinBlox**: Fly-A-Pet Potion ×2 |
-| 02:10 | **kittycake5550**: Strawberry Shortcake Bat Dragon (FR) | **Aphmau_Cool09**: Cheetah (MFR), Unicorn Horn, Ride-A-Pet Potion |
-| 02:10 | **whiplashtempo0**: Dalmatian (FR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) ×2 | **disneyloverreee**: Frost Dragon (FR) |
-| 02:06 | **zeiholds**: Mochi Meow ×8 | **AdoptMeProkachka909**: Ride-A-Pet Potion |
-| 02:06 | **Froggyblossom90**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **drakocomico2**: Cabbit (R), Mini Pig (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
