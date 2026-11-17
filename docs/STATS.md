@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 08:55 UTC by the scrape workflow._
+_Updated 2026-11-17 09:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 08:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 30,928 | 2026-11-17T08:45 |
-| elve | 7 | 6,414 | 2026-11-17T08:45 |
+| amvgg | 7 | 31,149 | 2026-11-17T09:00 |
+| elve | 7 | 6,449 | 2026-11-17T09:01 |
 
-## AMVGG completed trades: 27,191 total
+## AMVGG completed trades: 27,201 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,122 |
+| 2026-11-17 | 1,132 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 08:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:00 | **hisforeverndalways**: Tortoiseshell Guinea Pig (FR), Ride-A-Pet Potion ×3 | **K1MM007**: Mushroom Friend (MFR) |
+| 09:00 | **cheeskake13**: Lamb (MFR) | **nilajlolxd**: Moon Rabbit (MFR), Amami Rabbit (MFR), Pancake Stack, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 09:00 | **FlyToTheSaturn**: Chocolate Dutch Guinea Pig | **kneesurgeryreminder**: Fly-A-Pet Potion |
+| 09:00 | **Valerieumie**: Goose (FR), Werewolf (R), Candicorn (R), Crocodile (R), Munchkin Cat (FR), Munchkin Cat (R), Jester Dragon, Ballet Swan | **Ob3sityPhobia**: Cryptid (FR) |
+| 09:00 | **ambersugoi**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion, Three Blind Mice | **Sirswagalishsus**: Midnight Dragon (FR) |
+| 09:00 | **Inganta07**: Fly-A-Pet Potion, Lemonade Stand | **kokos2280014**: Cerberus (FR) |
+| 09:00 | **NOBODYknows_1100**: Cabbit (FR), Siamese Cat (FR), Candicorn (FR), Copycat (FR), Jellyfish (FR), Jester Dragon, Harp Seal (MR), Frostbite Cub (MR), Maine Coon (MR), German Shepherd (NFR), Panda (NFR), Snowball Pug (M), Sushi Penguin (N), Pancake Stack, Spring Bunny Hood, Ride-A-Pet Potion | **Chris_1998years**: Giant Panda |
+| 09:00 | **Aurora07266**: Fly-A-Pet Potion | **Ggyyuhhhj**: Bunny Stroller |
+| 09:00 | **testing_noob101**: Fairy Bat Dragon (FR) ×2, Copycat | **Mwlexxs**: Strawberry Shortcake Bat Dragon |
+| 09:00 | **TsukiakariShirayuki**: Ride-A-Pet Potion ×3 | **werlianess**: Dancing Dragon (FR) |
 | 08:55 | **Cloudmilks**: Ride-A-Pet Potion | **0Sinem_0**: Pupcicle |
 | 08:55 | **Luvbambii**: Flash Weasel, Unicorn | **Donutcat679**: Rain Cloud Hat |
 | 08:55 | **Scphiaaxbxdcr**: Fly-A-Pet Potion, Spring Bunny Feet, Pupcicle | **THEyuksterrr**: River Otter (M), Pudding Cat (N), Cake Friend, Sushi Penguin |
 | 08:55 | **quVare_PDF**: Lavender Dragon (NR), Vanilla Penguin (N), Ride-A-Pet Potion, Ox Box | **floatiinqz**: Flash Weasel (R) |
 | 08:55 | **Wxndxrxt**: Pain au Chat ×2, Gibbon ×2, Oakee Wizard | **kanekixklxster**: Crystal Egg ×17 |
-| 08:55 | **luvyerh**: Pancake Stack | **miuehla**: Ride-A-Pet Potion ×2 |
-| 08:55 | **cresselia193**: Jester Dragon (FR) | **Sandra_RobloxPlays**: Goat (R) |
-| 08:50 | **adoptmexx626**: Pupcake, Purrowl ×2 | **ANNADOG444**: Happy Duckling (R) |
-| 08:50 | **alfieharley1**: Turtle (FR) | **TheKindAndOnly**: Pupcicle (M), Pupcicle ×3 |
-| 08:50 | **margini_mini**: Dragonfruit Fox, Vanilla Penguin, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **katya2009ka**: Munchkin Cat (R) |
-| 08:50 | **SyndromGG**: Siamese Cat (FR), Fly-A-Pet Potion ×2 | **tiharaxd11**: Fairy Bat Dragon (FR) |
-| 08:50 | **mobimaa**: Coyote (N), Three Blind Mice, Huntsman Robin, Golden Griffin, Diamond Griffin | **HANKJE29**: Wooly Rhino |
-| 08:50 | **cc0uture16**: Jester Dragon (R) | **kokos2280014**: Frost Fury (FR) |
-| 08:50 | **YuroMiyuk1**: Diamond Butterfly | **Alili2323134**: Lava Dragon (MFR) |
-| 08:50 | **danfg3654**: Hamster (MFR) | **alinaya0208**: Peachick (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
