@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 17:11 UTC by the scrape workflow._
+_Updated 2026-11-17 17:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 17:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 38,558 | 2026-11-17T17:00 |
-| elve | 7 | 8,221 | 2026-11-17T17:01 |
+| amvgg | 7 | 38,836 | 2026-11-17T17:15 |
+| elve | 7 | 8,290 | 2026-11-17T17:16 |
 
-## AMVGG completed trades: 28,764 total
+## AMVGG completed trades: 28,779 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,695 |
+| 2026-11-17 | 2,710 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 17:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:11 | **Rimenyi**: Snow Monkey, Ride-A-Pet Potion | **Fbrleey**: Shrew (R) |
-| 17:11 | **ur_lungzz**: African Wild Dog (FR), Fly-A-Pet Potion ×2 | **x99sw**: Siamese Cat (MFR) |
-| 17:11 | **ivmaho**: Copycat | **yu1ewww**: Matcha Cat (R) |
-| 17:11 | **MohamedAfj1**: Ring-Tailed Lemur (MFR), Pineapple Owl (MFR) | **Ashvr_s0ul9**: Brown Bear (MFR), Glormy Leo (MFR), Quokka (MFR) |
-| 17:11 | **PRODAZA_STARPETS**: Ice Cream Hermit Crab (MFR), Chocolate Dutch Guinea Pig (MFR), Sushi Penguin (MFR) | **Robloxiant3x7a4m9v**: Sheeeeep (NR), Happy Clam (MFR), Ice Cream Cone Hat |
-| 17:11 | **loki20128888**: Ride-A-Pet Potion ×7 | **Vitek_228666**: Fly-A-Pet Potion ×4 |
-| 17:11 | **werlianess**: Giant Panda (FR) | **jammy_bc**: Black-Chested Pheasant (NFR), Candicorn (NR), Crocodile (NR), Cow (FR) |
-| 17:11 | **tomioka1453792**: Fairy Bat Dragon | **regretmebby**: Siamese Cat (FR), Pink Cat (R) |
-| 17:11 | **Fruit_Kittie**: Ride-A-Pet Potion | **wths1n**: Bunny Swirl |
-| 17:11 | **Kira_Django123**: Ride-A-Pet Potion ×4 | **Sawyer4LifeJaxon**: Jester Dragon |
-| 17:11 | **xulqupi**: Peppermint Penguin (NFR) ×2, Cabbit (FR) ×3 | **tom2mcg**: Cabbit (MFR) |
-| 17:11 | **admtradeonly**: Cow (R), Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×4 | **jammy_bc**: Goose (FR), Siamese Cat (FR) |
-| 17:11 | **Ryou_senpai05**: Cabbit (R) | **KittyCatSa21**: Fairy Bat Dragon (R) |
-| 17:11 | **pwe_eee**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Turtle (FR) | **shn_nq1**: Balloon Unicorn (FR), Ride-A-Pet Potion ×6 |
-| 17:11 | **vipAlekviap**: Fairy Bat Dragon (NFR) | **B282728**: Chocolate Chip Bat Dragon (FR), Turtle (R) |
+| 17:15 | **SpinsStars_8**: Scarecrow Crow, Toy Poodle, Ghost Dog, Bobageist, Thunderfisher | **Z0mb13H34rtzzz**: Cow Calf (N) |
+| 17:15 | **TTZombeymaudado**: Werewolf (FR) | **REALjaylarp**: Werewolf, Ghost Dog |
+| 17:15 | **GAV_6066**: Ride-A-Pet Potion ×3 | **xuanshenzen**: Rose Dragon |
+| 17:15 | **Manga11998**: Rainbow Maker | **pecrylover123**: Cabbit (FR) ×2, Spring Bunny Nose |
+| 17:15 | **gvmpyi**: Spring Bunny Nose, Cotton Candy Hat | **pecrylover123**: Ride-A-Pet Potion ×3 |
+| 17:15 | **jjvyne**: Chocolate Dutch Guinea Pig (MFR), French Bulldog (MFR) | **pecrylover123**: Dragonfruit Fox (MFR), Peachick (MFR) |
+| 17:15 | **xmikaeq**: Evil Unicorn (FR), Ride-A-Pet Potion | **Nosoul_zz**: Christmas Pudding Pup (MFR) |
+| 17:15 | **Furryinreallaif**: Pirate Hermit Crab | **Ashvr_s0ul9**: Capricorn |
+| 17:15 | **ANG3l_1078**: Retired Egg ×12 | **Itsbaileynune**: Hamster |
+| 17:15 | **kanIIkor**: Stray Cat Dragon ×2 | **Emili_M08**: Gemstone Egg |
+| 17:15 | **ptpsu_lalalala**: Snow Monkey (R) | **nimalina463**: Fly-A-Pet Potion |
+| 17:15 | **sube14567**: Pupcicle (NR), Ghostly Cat (N) | **iiam_nikiii**: Pupcicle (NFR) |
+| 17:15 | **Thomatooss**: Spring Bunny Hood, Spring Bunny Nose, Sea Slug, Pain au Chat, Pupcicle, Fly-A-Pet Potion, Ride-A-Pet Potion | **kaibodydump**: Siamese Cat (FR) |
+| 17:15 | **24h_adoptmecow**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **LMXE1_11**: Copycat |
+| 17:15 | **reii_1723**: Fly-A-Pet Potion | **Pimbo_Peep2011**: Alicorn ×18 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
