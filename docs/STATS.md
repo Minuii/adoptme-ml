@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 15:31 UTC by the scrape workflow._
+_Updated 2026-11-17 15:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 15:31 UTC by the scrape workflow._
 | amvgg | 7 | 37,056 | 2026-11-17T15:30 |
 | elve | 7 | 7,873 | 2026-11-17T15:31 |
 
-## AMVGG completed trades: 28,375 total
+## AMVGG completed trades: 28,433 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,306 |
+| 2026-11-17 | 2,364 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 15:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:25 | **arina2281488s**: Pain au Chat | **cchloecrichtonsecret**: Crystal Egg ×9 |
-| 15:25 | **C4rla_WasTaken**: Fly-A-Pet Potion | **Geraldinek0**: Pet Handler Pro Certificate |
-| 15:25 | **AMELIESFABXO**: Husky (MFR), Chocolate Dutch Guinea Pig (MFR), Rain Cloud Hat, Banana Hat | **TheCrazyYTGamer**: Goose (NFR) |
-| 15:25 | **disparadact**: Copycat (N) | **HoneyMochipuffile**: Copycat ×4 |
-| 15:25 | **pmpjmg1**: Elephant (R) | **larisochka_gudeeva98**: Ride-A-Pet Potion ×14 |
-| 15:25 | **Lebron_thegoat193**: Spring Bunny Hood, Ride-A-Pet Potion ×2 | **lizziqyy**: Santa Hat |
-| 15:25 | **Backupacc334522**: Cryptid (R), Angel Wings, Rain Boots | **Cinzsins**: Velocirooster (MFR), Cherry-On-Top, Rain Cloud Hat |
-| 15:25 | **Bubblesby_bailey1234**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion, Fairy Bat Dragon (R), Panda (R) | **Abaddon_Kisser666**: Hedgehog (FR) |
-| 15:25 | **Juuul77**: Peppermint Penguin (FR) | **roblox_wert34**: Goose (FR) |
-| 15:25 | **rubioOnYTalt1**: Haetyphoon (M), Haetyphoon | **GeneralPatrick_14**: Frost Dragon (FR) |
-| 15:25 | **tra56410**: Golden Hamster (MFR), Dragon (NFR), Ginger Cat (MR), Rose Dragon (FR), Sea Turtle (M) | **AllisonD1357**: Catte (MFR), Ride-A-Pet Potion, White Chef Hat |
-| 15:25 | **mxdmcrza**: Tuxedo Cat, Bolt (M) | **nikadance286**: Ride-A-Pet Potion |
-| 15:25 | **111ary111**: Ride-A-Pet Potion, Cattuccino | **cchloecrichtonsecret**: Crystal Egg ×18 |
-| 15:25 | **Frolowk**: Pet Handler Pro Certificate ×12 | **pinponkgoku2**: Jester Dragon (NR) |
-| 15:25 | **Akieqt9**: Siamese Cat (R), Shiver Wolf | **lovelyaalyah972**: Alpaca (R) |
+| 15:41 | **X0LuvyouX0**: Count Slothula (MR) | **ZF_adoptme123**: Unicorn (MFR) |
+| 15:41 | **ich_binda00**: Turtle (FR) | **torivfr**: Binturong ×2, Green Butterfly, Chef Gorilla, Corn Doggo, Sushi Penguin, Rooster, Kiwi Kiwi, Count Slothula, Burger Bear, Mecha Meow, Pumpkin Friend, Seabed Creeper, Pupcicle, Tasmanian Devil, Golden Hamster, Billy Goat, Pupcake |
+| 15:41 | **rottedpaw**: Jellyfish, Shiver Wolf | **yblxssomz**: Munchkin Cat |
+| 15:36 | **fishymiss_y**: Copycat | **green2014h**: Ride-A-Pet Potion ×6 |
+| 15:36 | **Caua08_Games**: Ride-A-Pet Potion ×16 | **MathildeFX924**: Kangaroo (FR) |
+| 15:36 | **Exx_mexUnU**: Frost Dragon (FR) | **Dvdgzh12**: Owl (FR), Kangaroo (FR), Albino Monkey (R), Dango Penguins (R), Unicorn (MFR), Ride-A-Pet Potion ×3 |
+| 15:36 | **YOKOZ303**: Moon Rabbit (R) | **Loboxd0505xd**: Ride-A-Pet Potion |
+| 15:36 | **Kiwisito1560**: Frost Fury (FR), Turtle (FR) | **sladetheboxer**: Fairy Bat Dragon (FR), Ride-A-Pet Potion |
+| 15:36 | **picucurt123456**: Copycat | **fishymiss_y**: Fly-A-Pet Potion ×3 |
+| 15:36 | **joswarlopez**: Glormy Leo (NR), Ride-A-Pet Potion | **00dolls**: Rose Dragon (NFR) |
+| 15:36 | **aliyahbyrne11**: Fly-A-Pet Potion | **AASDRT_II**: Chicken (FR) |
+| 15:36 | **s1vurn**: Strawberry Shortcake Bat Dragon (FR) ×2 | **adoptmeholderboang**: Chocolate Chip Bat Dragon (FR) ×2, Ride-A-Pet Potion |
+| 15:36 | **mohamed84ll**: Snowball Pet (MFR), Shiver Wolf (M), Ankylosaurus (M), Snow Monkey, Moon Rabbit (N), Fly-A-Pet Potion | **amvggholder**: Cow (FR) |
+| 15:36 | **T0LMU**: Cake Friend ×2, Yeti, Great Pyrenees, Catte ×2, Count Slothula, Gecko ×2, German Shepherd, Momma Moose, Indian Flying Fox, Clementine Owl, Pain au Chat, Chihuahua, Golden Hamster, Ice Moth Dragon, Toasty Red Panda | **K1MM007**: Albino Bat (MFR) |
+| 15:36 | **lanaisdelrey**: Strawberry Tortle (NFR), Arctic Dusk Dragon (MFR), Latte Kitsune (MFR), Dango Penguins | **opialisticx**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
