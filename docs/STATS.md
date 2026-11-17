@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 17:45 UTC by the scrape workflow._
+_Updated 2026-11-17 17:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 17:45 UTC by the scrape workflow._
 | amvgg | 7 | 39,338 | 2026-11-17T17:45 |
 | elve | 7 | 8,372 | 2026-11-17T17:45 |
 
-## AMVGG completed trades: 28,870 total
+## AMVGG completed trades: 28,927 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,801 |
+| 2026-11-17 | 2,858 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 17:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **ElRambom_900**: Flash Weasel (FR) | **tyiekx10**: Haetyphoon (FR) |
-| 17:45 | **ferrofl7**: Starhopper, Bali Starling, Bullfrog, Beluga Whale, Pistachio, Stegosaurus, Dragon, Mosquito | **Shehatesme420**: Ride-A-Pet Potion |
-| 17:45 | **Pix3lat3dOm3gaSonic5**: Copycat | **anika_plant**: Christmas Pudding Pup |
-| 17:45 | **Adoptmeadventnumber3**: Red Dutch Guinea Pig | **anika_plant**: Polar Bear |
-| 17:45 | **skibidimarzenkauwu**: Moon Rabbit (MR) | **lilxxx_xxxlove**:  |
-| 17:45 | **Harriet_trades**: Huntsman Robin ×4 | **QuintonMelanies2007**: Leopard Cat |
-| 17:45 | **sparklyunicorn339**: Cold Cube | **itz_Dizz01**: Clumpty (N) |
-| 17:45 | **addmymainaccountokay**: Harp Seal (MR), Fly-A-Pet Potion | **kittiefebrurie**: Rain Cloud Hat, Spring Bunny Hood, Spring Bunny Nose, Pancake Stack |
-| 17:45 | **PoliQueenPlovdiv**: Kangaroo (R), Reindeer, Chimera, Lynx (R), Ghost Dog | **xxxxproxxxx5500**: Werewolf (FR) |
-| 17:45 | **flears_brai**: Jester Dragon (FR) | **perit4733**: Ride-A-Pet Potion ×5 |
-| 17:45 | **YuroMiyuk1**: Dilophosaurus (MFR), Chocolate Chip Bat Dragon (FR), Lava Dragon (MFR), Goose (R), Sugar Glider (FR), Chihuahua (MFR), Leopard Cat (MFR), Ride-A-Pet Potion | **werlianess**: Border Collie (MFR) |
-| 17:45 | **h4_cd**: Ride-A-Pet Potion ×2, Mochi Meow ×2 | **muniradypa**: Boohoo (M) ×2 |
-| 17:45 | **Verity_Twink**: Munchkin Cat (R), Sakura Spirit (R) | **gggcdshgg**: Pupcicle ×16 |
-| 17:45 | **addmymain62**: Wooly Rhino (MFR), Lynx (MFR) | **Sadieworldz**: Axolotl (MFR), Chef Gorilla (MFR) |
-| 17:45 | **Pimbo_Peep2011**: Alicorn ×18 | **Roma_1234q**: Fly-A-Pet Potion |
+| 17:55 | **Nutty_1352**: Pupcicle (N) ×2, Pupcicle ×8 | **admtrades13**: Red Dutch Guinea Pig (NFR) |
+| 17:55 | **chipsyZdupy183**: Candyfloss Chick (NFR), Ride-A-Pet Potion | **10maya_140311**: Fallow Deer (MFR) |
+| 17:55 | **sugarbunn3i**: Chocolate Dutch Guinea Pig (MFR), Alley Cat (MFR), 2022 Birthday Cupcake Shoes | **p9ssessed**: Munchkin Cat (MFR) |
+| 17:55 | **iiPurplegalaxy127**: Cabbit (MFR), Unicorn (MR) | **Angelbatista_me2**: Parrot (NFR) |
+| 17:55 | **definitelynotkaidan**: Orchid Butterfly (MFR) | **Jdkskflekx**: Sakura Spirit (MFR) ×12 |
+| 17:55 | **Ihatesomber11**: Cabbit, Rubber Ducky (MR) | **Coco_Blxssxm**: White Sand Dollar (MFR), Zombie Wolf (N), Fly-A-Pet Potion |
+| 17:55 | **EmmaFlame548**: Dango Penguins (MFR) | **K1MM007**: Tortoiseshell Guinea Pig (FR), Cake Friend (MFR), Shiver Wolf (MFR), Fly-A-Pet Potion ×2 |
+| 17:55 | **Shehatesme420**: Ride-A-Pet Potion ×2 | **stzrena**: Ranger Beaver (N) |
+| 17:55 | **adoptmefirefly5**: Chocolate Chip Bat Dragon (FR) ×2, Siamese Cat (R), Munchkin Cat (R) | **Nanmymom**: Chocolate Chip Bat Dragon (NFR) |
+| 17:55 | **Fayba42123**: Kid Goat (NR), Muskrat (M) | **Venomally_6**: Ride-A-Pet Potion |
+| 17:55 | **kobii_x**: Flower Power Duckling (M) | **valerishka000000**: Munchkin Cat |
+| 17:55 | **A13N4XX**: Goose (NFR), 2022 Birthday Cake | **Anastasiadenk**: Cabbit (NFR), Cabbit (FR) |
+| 17:55 | **Looey20072**: Candicorn (FR), Pancake Stack | **Iuvsxc**: Unicorn Horn |
+| 17:55 | **serafima271120**: Strawberry Shortcake Bat Dragon (F), Cabbit (FR), Pancake Stack, Ride-A-Pet Potion | **thesef4ngs**: Hedgehog (R) |
+| 17:55 | **zacmat123456**: Owl (FR), Ice Cream Cone Hat | **elliegrindingxx**: Bush Elephant (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
