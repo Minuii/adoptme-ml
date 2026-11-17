@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 02:16 UTC by the scrape workflow._
+_Updated 2026-11-17 02:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 02:16 UTC by the scrape workflow._
 | amvgg | 7 | 25,103 | 2026-11-17T02:15 |
 | elve | 7 | 5,258 | 2026-11-17T02:16 |
 
-## AMVGG completed trades: 26,444 total
+## AMVGG completed trades: 26,451 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 375 |
+| 2026-11-17 | 382 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,13 @@ _Updated 2026-11-17 02:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:21 | **Asarokaa**: Strawberry Shortcake Bat Dragon (FR), Siamese Cat (FR), Candicorn (FR), Christmas Spirit (MFR), Glormy Dolphin (M) | **SoLost666**: Cryptid (FR) |
+| 02:21 | **SierraPlayzADM**: Retired Egg ×15 | **aleeyah51092**: Diamond Mahi Mahi (N) |
+| 02:21 | **a2nieee**: Yeti (MFR), Arctic Fox (MFR), Purple Butterfly (MFR), Snowball Pet (MFR), Pretty Pony (MFR), Owlbear (MFR), Alley Cat (MFR), Black Springer Spaniel (MFR), Wooly Rhino (MFR), Panda (MFR), Cactus Friend (MFR), Husky (MFR), Quokka (MFR) | **disapp6ar**: Mini Pig (MFR) |
+| 02:21 | **merock56798**: Pupcicle ×2 | **silvannah122**: Stray Cat Dragon ×14 |
+| 02:21 | **silvannah122**: Stray Cat Dragon ×18 | **InotShaa**: Ride-A-Pet Potion ×2 |
+| 02:21 | **merock56798**: Pupcicle | **silvannah122**: Stray Cat Dragon ×7 |
+| 02:21 | **paldoalways34**: Owl (FR), Kangaroo (FR), Flash Weasel, Chihuahua (M) ×2, Pupcicle (M), Mrs. Whiskerpips (R), Peachick ×2, Ocean Egg, Royal Fairytale Egg, Woodland Egg, Moon Egg ×3, Stygian Owl ×3 | **luxsdomain**: Frost Dragon (FR) |
 | 02:15 | **terrylonsoyjerry**: Flamingo (FR), Rain Cloud Hat, Midnight Dragon, Tortuga de la Isla (R), Honey Badger (R), Shark (NR), Violet Butterfly (N) | **Tearysdraft**: Rainbow Maker |
 | 02:15 | **hshdxcmz**: Ride-A-Pet Potion ×14, Pupcicle | **rainbow28546**: Rain Cloud Hat |
 | 02:15 | **nezvk0_chqn**: Undead Jousting Horse (FR) | **Addison_167368**: Goose (FR) |
@@ -40,13 +47,6 @@ _Updated 2026-11-17 02:16 UTC by the scrape workflow._
 | 02:10 | **Cookieee1098**: Copycat | **TheXpepparoni**: Goat (R) |
 | 02:10 | **Phoenix_Goddess0**: Stray Cat Dragon | **TaimeKero**: Blue Whale ×2 |
 | 02:10 | **antuco_tuco909**: Evil Unicorn (FR), Frost Fury (FR), Goose (FR), Turtle (FR) | **00099hh1**: Parrot (FR) |
-| 02:10 | **Mica6g3**: Pupcicle, Sushi Penguin, Merhorse | **Yiyilewis**: Albino Bat, Grave Owl (N), Frostbite Cub (R) |
-| 02:10 | **S4R4S3G0**: Border Collie (MFR) | **atracttion**: Chocolate Dutch Guinea Pig (MFR), Purple Butterfly (M), Ring-Tailed Lemur (MFR), Silly Duck (MFR), Turkey |
-| 02:10 | **VikaQuiet**: Fly-A-Pet Potion ×12, Arctic Fox (R) | **Ruperto_1297**: Cow (FR) |
-| 02:10 | **1Biahsz_altx**: Retired Egg ×18 | **aleeyah51092**: Chihuahua |
-| 02:10 | **Hungry_Sleppy**: Kage Crow ×2, Momma Moose, Discosplosion | **kalge925392**: Pupcicle |
-| 02:10 | **Michae_demiurgos**: Cow (FR), Ghost Dog | **MEGAWARRIOR254**: Turkey (MFR) |
-| 02:10 | **Bumble_Lou**: Catte (N) | **MrColinBlox**: Fly-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
