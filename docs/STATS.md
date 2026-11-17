@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 11:25 UTC by the scrape workflow._
+_Updated 2026-11-17 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 33,132 | 2026-11-17T11:15 |
-| elve | 7 | 6,864 | 2026-11-17T11:16 |
+| amvgg | 7 | 33,375 | 2026-11-17T11:30 |
+| elve | 7 | 6,923 | 2026-11-17T11:31 |
 
-## AMVGG completed trades: 27,546 total
+## AMVGG completed trades: 27,553 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,477 |
+| 2026-11-17 | 1,484 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,13 @@ _Updated 2026-11-17 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:30 | **aabeeyg**: Pain au Chat (M), Ride-A-Pet Potion, Vol. 2 Pets Plus Sticker Pack | **Mxso_soup8**: Tiny Wings |
+| 11:30 | **lauraloute15**: Lion Cub (R) | **TwistedK1tty**: Goat (R) |
+| 11:30 | **vanyagames_yt**: Parrot (FR) ×2, Evil Unicorn (FR), Sugar Glider (R) | **doraatje122**: Strawberry Tortle (M) |
+| 11:30 | **gamereldark_YT**: Golden Griffin, Diamond Griffin, Diamond Dragon, Glormy Crab, Alicorn, Dracula Parrot, Lunar Gold Tiger ×2, Metal Ox, Ghost Wolf (N) | **klee3616**: Fly-A-Pet Potion |
+| 11:30 | **bbkxrby**: Dragonfruit Fox (R) | **Coolchikkaa**: Dragonfruit Fox |
+| 11:30 | **wyqudwhjahwd**: Fly-A-Pet Potion ×2 | **Yoonie_Alisha**: Pain au Chat ×9 |
+| 11:30 | **6vynix**: Cake Friend, Kitty Bat | **milk59012**: Pupcicle |
 | 11:25 | **kworixx**: Puma (NFR), Gumball Caterpillar (NR) | **svetap112233**: Ride-A-Pet Potion |
 | 11:25 | **FlickCod32015**: Gemstone Egg ×4 | **T0MA_999**: Pet Handler Pro Certificate |
 | 11:25 | **userulikk**: Turtle (FR) | **barrackpalinka1**: Candyfloss Chick, Tortuga de la Isla |
@@ -40,13 +47,6 @@ _Updated 2026-11-17 11:25 UTC by the scrape workflow._
 | 11:25 | **Vitek_228666**: Fly-A-Pet Potion ×9 | **getsdar**: Ride-A-Pet Potion ×16 |
 | 11:25 | **Just_Mattluo**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **Vitek_228666**: Pig (R) |
 | 11:25 | **zzzzzxxxxxwr9**: Chameleon, Stray Cat Dragon (N), Rubber Ducky (N), Ms. Muffet (N), Dire Wolf | **pinkysworn**: Ride-A-Pet Potion |
-| 11:25 | **zzzzzxxxxxwr9**: Glyptodon Ducky, Milk Choccybunny, Tegu, Shih Tzu, Angus Cow, Gold Mahi Mahi, Mexican Wolf, Grinmoire (N), Muskrat, Crimson Cape, Little Lamb, Black-Footed Ferret, Stitches, Island Tarsier, Purrowl, Electric Hornet, Chihuahua, Galapagos Sea Lion | **pinkysworn**: Ride-A-Pet Potion |
-| 11:25 | **kworixx**: Golden Dragon (R), Golden King Penguin, Golden Egg | **pinkysworn**: Ride-A-Pet Potion |
-| 11:25 | **Nastya_367367**: Santa's Helper Stroller, Lunar New Year Rickshaw Stroller, Stocked Santa Sleigh, Gingerbread Stunt Plane, Marshmallow Friend, Japanese Snow Fairy (N), Security Spotlight | **OBLAKO_74**: Ride-A-Pet Potion |
-| 11:25 | **cherryyz2008**: Munchkin Cat (N) | **riskyactss**: Jellyfish (NR) |
-| 11:25 | **sakurqin**: Naughty Mistletroll (MFR) | **Wait_What206**: Wooly Rhino (MFR), Pirate Hermit Crab (MFR) |
-| 11:25 | **Maayas_17alt1**: Harp Seal (M) | **sysstemofadownn**: Alpaca (R) |
-| 11:25 | **islandicsinger**: Black Widow (N) | **sleepy_s0ren**: Ride-A-Pet Potion ×2, Bat Box |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
