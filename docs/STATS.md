@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 03:55 UTC by the scrape workflow._
+_Updated 2026-11-17 04:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 03:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 26,498 | 2026-11-17T03:45 |
-| elve | 7 | 5,568 | 2026-11-17T03:45 |
+| amvgg | 7 | 26,742 | 2026-11-17T04:00 |
+| elve | 7 | 5,592 | 2026-11-17T04:01 |
 
-## AMVGG completed trades: 26,654 total
+## AMVGG completed trades: 26,667 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 585 |
+| 2026-11-17 | 598 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 03:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:00 | **TheRukaa**: Ride-A-Pet Potion ×6 | **Nastya198632**: Copycat |
+| 04:00 | **Meko0o_3**: Ride-A-Pet Potion ×2 | **simplyxarv**: Alley Cat |
+| 04:00 | **jaydenatemycookie**: Cryptid, 2022 Birthday Cake | **Minita_Enanita0**: Strawberry Shortcake Bat Dragon (NFR) |
+| 04:00 | **princessunipanda76**: Frost Unicorn (FR), Fly-A-Pet Potion | **LoveRancee**: German Shepherd (MFR) |
+| 04:00 | **archi_chozza**: Copycat (MFR), Copycat, Ride-A-Pet Potion | **elgft_88**: Candicorn (MFR) |
+| 04:00 | **elgft_88**: Raccoon (M), Tanuki (M), Respectful Mustache | **pwaranoiia**: Tiny Wings |
+| 04:00 | **pwaranoiia**: Tiny Wings | **elgft_88**: Tanuki (M) |
+| 04:00 | **SoloGhost442149**: Winged Horse (FR) | **SoyNoel11**: Ride-A-Pet Potion |
+| 04:00 | **La_boyMich15**: Shadow Dragon (FR), Crocodile, Fairy Bat Dragon (FR), Copycat ×2, Bunny Swirl (NR), Yeti (NR), French Bulldog (N), Spring Bunny Hood | **m4rshalI**: Winged Tiger (MFR), Giraffe |
+| 04:00 | **ardillagalactic**: Chocolate Dutch Guinea Pig (MR) | **Vluxbuy**: Cow (R) |
+| 04:00 | **URSET_ROM4IK997**: Peppermint Penguin (FR), Ride-A-Pet Potion ×5 | **MatiXD12306**: Mini Pig (FR) |
+| 04:00 | **1s2ll**: Unicorn Horn, Dango Penguins (MFR), Dragonfruit Fox (MFR), Haetyphoon, Shark Puppy (FR), Shark Puppy (R), Shark Puppy, Ram (NR), Strawberry Penguin, Dragonfruit Fox ×2, Sushi Penguin | **micaelakdkdn**: Werewolf (MFR) |
+| 04:00 | **SUPERPENGUIN0111**: Ride-A-Pet Potion, Jumpscare (MFR) | **carnivoro_fuerte**: Fly-A-Pet Potion |
 | 03:50 | **vaIxhrtz**: Turtle (R), Hyena (NFR), Silly Duck | **Xxshad0wf0xxX**: 2022 Birthday Party Horn, Spring Bunny Hood ×3, Unicorn Backpack ×2, Pancake Stack, Bready Necklace ×2 |
 | 03:50 | **Solecitalamasbonita**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **MersuJanhir13**: Choco Penguin (M), Flaming Fox, Puptune (NR) |
-| 03:50 | **Ilovefortnighttehe**: Swan (MFR) | **soy_anonim6**: Cow (FR) |
-| 03:50 | **cinammoroll_bun**: Shrew (NFR), Ride-A-Pet Potion | **slaypookieperspn**: Harp Seal (MFR) |
-| 03:50 | **swocketeers**: Amethyst Penguin (FR) | **m4rshalI**: Cryptid |
-| 03:50 | **DalePearson8409**: Mini Pig (R), Cabbit (FR), Cow (FR), Fairy Bat Dragon (FR), Ballet Swan, Ride-A-Pet Potion | **MatiXD12306**: African Wild Dog (FR) |
-| 03:50 | **1s2ll**: Haetyphoon, Strawberry Penguin | **tanijro909**: Pig (NFR) |
-| 03:50 | **Pushhxxt**: Christmas Pudding Pup (MFR), Candicorn (FR) | **Jeemin_Bang**: Undead Jousting Horse (NFR) |
-| 03:50 | **justunujede123**: Spring Bunny Hood, Fly-A-Pet Potion | **getsdar**: Frost Fury (FR) |
-| 03:50 | **vegetasggaccount**: Peppermint Penguin (MFR), Alpaca (MFR), Werewolf (MFR), Ride-A-Pet Potion | **lanaisdelrey**: Hedgehog (MFR) |
-| 03:50 | **Vachonpon**: Crocodile (R) | **AsianIceCold**: Blue Dog (FR) |
-| 03:50 | **Octolootom**: Tanuki (N), Ride-A-Pet Potion | **August_lizard1217**: Fly-A-Pet Potion |
-| 03:50 | **Donutser2**: Balloon Unicorn (FR), Mini Pig (R), Chocolate Dutch Guinea Pig (M), Toaster Hat ×3, Ice Cream Cone Hat, Spring Bunny Nose, Fly-A-Pet Potion, Sneak Weasel (M), Alien Eyes Hat, Ice Cream Heels, Thinking Hat, Eyepatch | **higuysitskobe**: Cryptid (NFR) |
-| 03:50 | **HOONMINLIXGYU**: Ride-A-Pet Potion ×3 | **ELVEAMVGGTRADER890**: Cute-A-Cabra (M) |
-| 03:50 | **yomoiki**: Amethyst Skies Mega Neon Paint ×3 | **Secret_Secretov321**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
