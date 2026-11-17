@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 19:25 UTC by the scrape workflow._
+_Updated 2026-11-17 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 40,872 | 2026-11-17T19:15 |
-| elve | 7 | 8,699 | 2026-11-17T19:16 |
+| amvgg | 7 | 41,121 | 2026-11-17T19:30 |
+| elve | 7 | 8,744 | 2026-11-17T19:31 |
 
-## AMVGG completed trades: 29,250 total
+## AMVGG completed trades: 29,256 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,181 |
+| 2026-11-17 | 3,187 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,12 @@ _Updated 2026-11-17 19:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:30 | **UvU_gg6**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **2creme1sucre**: Matcha Cat |
+| 19:30 | **simplyxarv**: Rain Cloud Hat, Pancake Stack, Propeller Hat, Ride-A-Pet Potion | **Blinxcool**: 2022 Birthday Cake |
+| 19:30 | **looter_love**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×2, Copycat | **Giulia_SatoruPs4**: Haetyphoon (FR) |
+| 19:30 | **fishymiss_y**: Black-Footed Ferret (M), Retired Egg | **Fiolka_67**: Ride-A-Pet Potion |
+| 19:30 | **mofncufjs**: Unicorn ×2, Dragon | **Kyza_222222223**: Fly-A-Pet Potion |
+| 19:30 | **ziggylili0**: Frost Dragon (FR), Pig, Ride-A-Pet Potion | **m1xa_0**: Jellyfish (MFR), Shark Puppy (MFR) |
 | 19:25 | **KotMonster7**: Chocolate Chip Bat Dragon (FR) | **DASA_VAVAVA676767**: Peppermint Penguin (FR), Crocodile (R), Christmas Pudding Pup (R) ×2, Pupcicle, Ride-A-Pet Potion ×6, Glamicorn Purse Pet, Unfortunate Eyelashes, Flying Fairy |
 | 19:25 | **Halseyrs**: Ride-A-Pet Potion | **itsevik**: Ram |
 | 19:25 | **ruinedbleeded**: Ride-A-Pet Potion ×2 | **Chase_34796**: Dango Penguins |
@@ -41,12 +47,6 @@ _Updated 2026-11-17 19:25 UTC by the scrape workflow._
 | 19:25 | **SierraPlayzADM**: Retired Egg ×15 | **leen_yyyus**: Diamond Mahi Mahi (N) |
 | 19:25 | **Sunny_Frinch**: Hedgehog (FR), Peppermint Penguin (R) ×2, Crocodile (FR) | **Only_Gio123**: Parrot (FR) |
 | 19:25 | **Amjelgamar21**: Stray Cat Dragon ×10 | **starswirl_64**: Ride-A-Pet Potion |
-| 19:25 | **asdshfshs**: Hedgehog, Chocolate Chip Bat Dragon (R), Cow (R), Ginger Cat (MFR) | **Only_Gio123**: Peppermint Penguin (NFR), Peppermint Penguin (FR), Peppermint Penguin (R) |
-| 19:25 | **milanaxapi**: Flower Power Duckling (MFR), Ride-A-Pet Potion | **Kinl3ann**: Pupcake (MFR), Flower Power Duckling (NR) |
-| 19:25 | **Vluxbuy**: Haetae (NFR), Cow (FR), Red Dutch Guinea Pig (NR), Chocolate Dutch Guinea Pig (NR), Candicorn (NFR) | **crown12256**: Jekyll Hydra (MFR) |
-| 19:25 | **jiggle_wiggle132**: Fly-A-Pet Potion ×6 | **Papitascongaseosa_xD**: Ride-A-Pet Potion ×12 |
-| 19:25 | **camiilita_7w7**: Mini Pig (R) | **10maya_140311**: Candicorn (NR) |
-| 19:25 | **Papitascongaseosa_xD**: Fly-A-Pet Potion ×14, Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×2 | **KotMonster7**: Peppermint Penguin (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
