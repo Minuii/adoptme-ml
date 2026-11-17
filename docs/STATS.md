@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 05:16 UTC by the scrape workflow._
+_Updated 2026-11-17 05:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 05:16 UTC by the scrape workflow._
 | amvgg | 7 | 27,912 | 2026-11-17T05:15 |
 | elve | 7 | 5,803 | 2026-11-17T05:16 |
 
-## AMVGG completed trades: 26,819 total
+## AMVGG completed trades: 26,844 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 750 |
+| 2026-11-17 | 775 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 05:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:15 | **tatianachan1713**: Cow Calf, Leopard Cat | **Panci_Terbang33**: Retired Egg ×18 |
-| 05:15 | **tatianachan1713**: Leopard Cat | **yxxrzzcoow**: Retired Egg ×12 |
-| 05:15 | **luvyerh**: Fairy Bat Dragon (FR) | **CookieBawn**: Crocodile (R), Elephant (R) |
-| 05:11 | **Antonipes**: Paint Sealer ×9 | **hayleigh_beep**: Crystal Egg ×11 |
-| 05:11 | **LumDayy**: Possum (M) | **Groyidd_gg**: Snorgle (M), Jacobin Pigeon (M) |
-| 05:11 | **mimirules21**: Cabbit (FR), Arctic Dusk Dragon (FR), Christmas Pudding Pup, Fly-A-Pet Potion, Hedgehog (R), Kangaroo (FR) | **Dddana20058**: Crow (FR) |
-| 05:11 | **Str3amN0va2024**: Munchkin Cat (MFR), Silverback Gorilla, Fly-A-Pet Potion | **Iuv4rs**: Cryptid (FR) |
-| 05:11 | **gus123836**: Ride-A-Pet Potion ×7, Fly-A-Pet Potion ×3, Golden Lettuce, Kitty Biscuit, Flash Weasel | **qk4na**: Cabbit |
-| 05:11 | **roblox_lemon02OU**: Ride-A-Pet Potion | **Antonipes**: Candyfloss Mega Neon Paint |
-| 05:11 | **tri_xx19**: Evil Unicorn (FR) ×2, Spring Bunny Hood | **Dddana20058**: Owl (FR) |
-| 05:06 | **Mikaylamareex**: Haetae (FR) | **KinaToons**: Mermicorn (NFR), Halo |
-| 05:06 | **women_7031**: Munchkin Cat (FR), Ride-A-Pet Potion | **dvesydoll**: Crocodile (FR) |
-| 05:06 | **AMVGGTRADES7**: Copycat ×7, Jester Dragon (R), Aurora Fox (R), Pet Handler Pro Certificate | **jhon145p**: Chocolate Chip Bat Dragon (FR) |
-| 05:06 | **rkdwlgh0104**: Tortoiseshell Guinea Pig | **wh1mzical**: Frost Fury (NFR) |
-| 05:06 | **tatianachan1713**: Leopard Cat, Scarlet Butterfly | **jam_bam10**: Retired Egg ×18 |
+| 05:25 | **Epic777378**: Swan | **Psychotic_foxy**: Fly-A-Pet Potion |
+| 05:25 | **Preppy_cleoooo**: Munchkin Cat (MFR) | **Lpoopbxhe**: Orchid Butterfly (FR) |
+| 05:25 | **Preppy_cleoooo**: Munchkin Cat (MFR) | **Lpoopbxhe**: Orchid Butterfly (FR) |
+| 05:25 | **You_kwin666**: Purrowl ×4, Fire Stallion, River Otter (N), Black-Footed Ferret (N), Retired Egg | **Vl4D_AB3J0**: Ride-A-Pet Potion |
+| 05:25 | **tatianachan1713**: Therapy Dog | **yxxrzzcoow**: Retired Egg ×12 |
+| 05:25 | **tatianachan1713**: Leopard Cat | **soisomin**: Retired Egg ×13 |
+| 05:25 | **Marvinski023**: Unicorn Horn ×3 | **xx_xxbummrr**: Chocolate Chip Bat Dragon (FR) |
+| 05:25 | **pxurifiedtoxin**: Slime | **unicorncraftdiy**: Fly-A-Pet Potion |
+| 05:25 | **Youdi_off**: Siamese Cat (R) | **faikubjotch**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion |
+| 05:25 | **Youdi_off**: Candyfloss Chick (FR) | **faikubjotch**: Fly-A-Pet Potion ×10 |
+| 05:25 | **HEARTS4_MELAINE**: Red Dutch Guinea Pig (MFR), Dragonfruit Fox (MFR) | **dustystormss**: Field Mouse (MFR) |
+| 05:25 | **CoastLune**: Red Sand Dollar (MFR) | **004FAscend004**: Guardian Lion (MFR), Shiba Inu (MFR) |
+| 05:25 | **zeusgray24**: Ride-A-Pet Potion | **isopawedd**: Unfortunate Eyelashes ×3 |
+| 05:25 | **lilpepeng150**: Spring Bunny Hood, Cotton Candy Hat | **caaimuppt**: Jester Dragon |
+| 05:25 | **AndyIsMineerrr222**: Munchkin Cat (MFR), Latte Kitsune (MFR), Latte Kitsune (MR), Husky (MFR), Shrew, Cupid Dragon (N) | **Lola_ant34**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
