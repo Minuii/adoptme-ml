@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 10:55 UTC by the scrape workflow._
+_Updated 2026-11-17 11:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 10:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 32,664 | 2026-11-17T10:45 |
-| elve | 7 | 6,742 | 2026-11-17T10:45 |
+| amvgg | 7 | 32,900 | 2026-11-17T11:00 |
+| elve | 7 | 6,798 | 2026-11-17T11:01 |
 
-## AMVGG completed trades: 27,455 total
+## AMVGG completed trades: 27,501 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,386 |
+| 2026-11-17 | 1,432 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 10:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:50 | **h4_cd**: Ride-A-Pet Potion ×2 | **xq0vlis**: Dragonfruit Fox |
-| 10:50 | **Inganta07**: Fly-A-Pet Potion | **xq0vlis**: Dango Penguins |
-| 10:50 | **dimon221221332**: Strawberry Shortcake Bat Dragon (FR) | **XxMasterNinja998xX**: Flash Weasel ×4 |
-| 10:50 | **swer95**: Flash Weasel, Matcha Cat | **alexgameminecraft**: Frost Unicorn (FR) |
-| 10:50 | **AestxStella**: Owl (FR), Candicorn (NFR) | **HolderHoshiKenshi**: Cryptid (NFR) |
-| 10:50 | **AlphaTaToxicv1047**: 2022 Birthday Cake, Unicorn Horn ×2, 2022 Birthday Cupcake Shoes, Rain Cloud Hat, 2022 Birthday Party Horn, Toaster Hat, Giant Anteater (N), Lion Cub ×2, Irish Elk (MFR), Tasmanian Devil (M), Leopard Cat (MFR), Castle Hermit Crab (M), Golden Jaguar (M) | **AvaCometfish961**: Owl (FR) |
-| 10:50 | **kworixx**: Squid, Sunrise Duckling | **Jana_ashtetic**: Ride-A-Pet Potion |
-| 10:50 | **Belen7267**: Pupcicle (N) | **floatiinqz**: Vanilla Penguin (N) |
-| 10:50 | **Mouses_2513**: Parrot (FR) | **chmo6661**: Hedgehog (FR), Arctic Reindeer (FR) |
-| 10:50 | **AdoptMeChallang11**: Husky | **Lumina20265**: Fly-A-Pet Potion |
-| 10:50 | **RobloxIsLif3z**: Starfish (M) | **Mxso_soup8**: Ride-A-Pet Potion |
-| 10:50 | **dnqlifee**: Black-Footed Ferret (M), Corgi (M), Crimson Cape (M), Swordfish (M) | **FRIK_RR**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 10:50 | **AdoptMeChallang11**: Clumpty (NR), Woolly Mammoth (R) | **Paifrennnn**: Ride-A-Pet Potion |
-| 10:50 | **AdoptMeChallang11**: Catte (N) | **twoMammy8**: Aestus (FR) |
-| 10:50 | **amshakinss**: Siamese Cat (FR), Spring Bunny Feet | **tiharaxd11**: Turtle (FR) |
+| 11:00 | **NekitPolyakov18**: Strawberry Tortle (R), Fly-A-Pet Potion | **Gaming4roses**: Cow (R) |
+| 11:00 | **blackaquamarine**: Ride-A-Pet Potion ×9 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 |
+| 11:00 | **kworixx**: Deinonychus (NR) | **aleonio_ses**: Ride-A-Pet Potion |
+| 11:00 | **FlyToTheSaturn**: Zodiac Minion Chick ×3, Badger, Bee, Black-Footed Ferret ×4, Bobageist, Snowy Mammoth, Australian Kelpie ×4, Merhorse ×2, Sasquatch | **klee3616**: Fly-A-Pet Potion |
+| 11:00 | **kanekixklxster**: Ride-A-Pet Potion ×18 | **ohinam**: Siamese Cat |
+| 11:00 | **Nastya_Mihalyk**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate | **Manggo_Pie40**: Albino Monkey (FR) |
+| 11:00 | **SoloGhost442149**: Unicorn | **La_danonee**: Ride-A-Pet Potion |
+| 11:00 | **REALjaylarp**: Paint Sealer ×14 | **iangallagher_s1**: Ride-A-Pet Potion |
+| 11:00 | **Polinochka303_4**: Strawberry Shortcake Bat Dragon (FR), Goose, Fly-A-Pet Potion | **Kamila_mil11**: Evil Unicorn (FR) |
+| 11:00 | **hefeltsafe**: Crystal Egg ×3 | **mariee20_03**: Purrowl |
+| 11:00 | **dnqlifee**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Goose (FR), Cabbit (FR), Turtle (FR), Fairy Bat Dragon (FR) ×2, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **ii_aldrin20**: Frost Dragon (FR) |
+| 11:00 | **the1nonly_fae**: Black Chow-Chow (NFR), Chocolate Dutch Guinea Pig | **J3LLY4H0LDer**: Spring Bunny Hood |
+| 11:00 | **the1nonly_fae**: Ride-A-Pet Potion | **7ckyy**: Burger Boots |
+| 11:00 | **wldnsdlrnldudna**: Gold Tiara, Bone Wings, Growing Flower Hat, Candy Cane (Pet Wear), Elf Bandana, Galaxy Explorer Helmet, Puppeteer Hand, Purple Heart Glasses, Bunny Ear Tiara | **Crystallclllear**: Pupcicle |
+| 11:00 | **rainbowpower0125**: Unicorn, Retired Egg ×4, Admin Abuse Egg ×2 | **La_danonee**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
