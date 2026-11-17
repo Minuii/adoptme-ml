@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 12:01 UTC by the scrape workflow._
+_Updated 2026-11-17 12:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 12:01 UTC by the scrape workflow._
 | amvgg | 7 | 33,782 | 2026-11-17T12:00 |
 | elve | 7 | 7,004 | 2026-11-17T12:01 |
 
-## AMVGG completed trades: 27,647 total
+## AMVGG completed trades: 27,674 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,578 |
+| 2026-11-17 | 1,605 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:00 | **NikaFox0403**: Siamese Cat (NFR), Matcha Cat ×4, Unicorn Horn | **nikitatak3**: Hedgehog (FR) |
-| 12:00 | **itskayeeee**: Ride-A-Pet Potion ×15 | **Tree092109**: Fly-A-Pet Potion ×9 |
-| 12:00 | **srvaux**: Cow (FR), Pig (R), Lion Cub, Binturong (R), Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×4 | **Vitek_228666**: Chocolate Chip Bat Dragon (FR) |
-| 12:00 | **budgop48**: Elephant (R), Ride-A-Pet Potion ×2, Classic Trade Stand | **cleanmeowis**: Kangaroo (FR) |
-| 12:00 | **Terranese**: Fly-A-Pet Potion, Ride-A-Pet Potion | **cleanmeowis**: Velocirooster |
-| 12:00 | **Scphiaaxbxdcr**: Fallow Deer (MFR), Tiny Wings, Chocolate Dutch Guinea Pig | **M1dnight_v0id52**: Cabbit (NFR) |
-| 12:00 | **mdmdnkevsjsvaj**: Copycat (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **0Miss_Ellis0**: Dango Penguins (NR) |
-| 12:00 | **FemboyMaxer**: Cow (FR), Kangaroo (R), Kitty Bat (M), Pig (FR), Copycat (FR), Stray Cat Dragon (N) | **lkmsdfw**: Fairy Bat Dragon (NFR) |
-| 12:00 | **TheKindAndOnly**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) | **lkmsdfw**: Balloon Unicorn (FR) |
-| 12:00 | **krishold3r**: Haetae (R) | **m4rshalI**: Amethyst Penguin |
-| 12:00 | **Xxxxashhhh**: Ride-A-Pet Potion, Pet Handler Pro Certificate ×5 | **meowwheart**: Shark Puppy (R) |
-| 12:00 | **deadlockXH**: Guardian Lion (NFR) | **Its_soulseekk**: Fly-A-Pet Potion ×2 |
-| 12:00 | **kokosikk578**: Chicken (NFR) | **sonechkarrr3**: Frost Fury (FR) |
-| 12:00 | **FlyToTheSaturn**: Metal Ox, Corgi ×4, Crimson Cape ×2, Ehecatl ×2, Ginger Cat ×3, Australian Kelpie ×2, Merhorse, Mexican Wolf ×3 | **tutritam174**: Fly-A-Pet Potion |
-| 12:00 | **Soska_07008**: Copycat | **Gummyy_3**: Christmas Pudding Pup |
+| 12:11 | **elyyz_sen**: Golden Walrus, Alicorn, Lunar Moon Bear, Lunar Gold Tiger, Tealwood Monster | **Its_soulseekk**: Fly-A-Pet Potion |
+| 12:11 | **Vitek_228666**: Cow (FR) | **TwistedK1tty**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
+| 12:11 | **dream_smp001**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **carlkilling**: Turtle (FR) |
+| 12:11 | **Ira_20086**: Pupcicle | **sashq_vmp**: Pupcake |
+| 12:11 | **biq_at222**: Pupcake (MR), White Sand Dollar (R) | **HEARTS4_MELAINE**: Chipmunk (MFR) |
+| 12:11 | **coralthefishh**: Ride-A-Pet Potion | **4striiii**: Cherry Blossom Flower Sticker ×18 |
+| 12:11 | **Croquinou_Lover**: Border Collie (R), Fly-A-Pet Potion | **kisauuw**: Albino Monkey (FR) |
+| 12:11 | **kworixx**: Kangaroo (FR) ×3, Kangaroo (NFR), Turtle (FR), Cow (FR), Siamese Cat (FR), Goose (FR), Diamond Butterfly (FR), Rain Cloud Hat | **enadalhade**: Frost Dragon (FR) |
+| 12:11 | **kworixx**: Swan, Buffalo (NR), French Fries Stroller | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
+| 12:11 | **Light_Moon8461**: Strawberry Shortcake Bat Dragon (R), Golden Unicorn | **nuggets0162**: Chocolate Chip Bat Dragon (FR) |
+| 12:11 | **kakashka_lol35**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6 | **fightergaming11**: Crocodile (R) |
+| 12:06 | **TheArticFox_0**: Ride-A-Pet Potion | **robloxer_3614**: Pink Designer Backpack, Flower Aura, Purple & Green Beads |
+| 12:06 | **TheArticFox_0**: Mr. Whiskerpips | **tapochek_Instasamki**: Love Letter |
+| 12:06 | **wx8zqxx**: Crow (FR), Diamond Butterfly (FR), Super Saru (MFR), Goose | **HyperChaseOrbit20052**: Tortoiseshell Guinea Pig (MFR) |
+| 12:06 | **ADoptytmedk**: Border Collie (MFR), Tiny Wings | **Alt_CeasedMuffin**: Owl (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
