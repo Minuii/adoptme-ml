@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-17 15:41 UTC by the scrape workflow._
+_Updated 2026-11-17 15:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 14 | 2026-11-11T1036Z | 2026-11-17T0145Z |
-| amvgg | 36 | 2026-11-11T1036Z | 2026-11-17T1345Z |
+| amvgg | 37 | 2026-11-11T1036Z | 2026-11-17T1545Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 37,056 | 2026-11-17T15:30 |
-| elve | 7 | 7,873 | 2026-11-17T15:31 |
+| amvgg | 7 | 37,308 | 2026-11-17T15:45 |
+| elve | 7 | 7,904 | 2026-11-17T15:45 |
 
-## AMVGG completed trades: 28,433 total
+## AMVGG completed trades: 28,455 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,364 |
+| 2026-11-17 | 2,386 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 15:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:41 | **X0LuvyouX0**: Count Slothula (MR) | **ZF_adoptme123**: Unicorn (MFR) |
-| 15:41 | **ich_binda00**: Turtle (FR) | **torivfr**: Binturong ×2, Green Butterfly, Chef Gorilla, Corn Doggo, Sushi Penguin, Rooster, Kiwi Kiwi, Count Slothula, Burger Bear, Mecha Meow, Pumpkin Friend, Seabed Creeper, Pupcicle, Tasmanian Devil, Golden Hamster, Billy Goat, Pupcake |
-| 15:41 | **rottedpaw**: Jellyfish, Shiver Wolf | **yblxssomz**: Munchkin Cat |
-| 15:36 | **fishymiss_y**: Copycat | **green2014h**: Ride-A-Pet Potion ×6 |
-| 15:36 | **Caua08_Games**: Ride-A-Pet Potion ×16 | **MathildeFX924**: Kangaroo (FR) |
-| 15:36 | **Exx_mexUnU**: Frost Dragon (FR) | **Dvdgzh12**: Owl (FR), Kangaroo (FR), Albino Monkey (R), Dango Penguins (R), Unicorn (MFR), Ride-A-Pet Potion ×3 |
-| 15:36 | **YOKOZ303**: Moon Rabbit (R) | **Loboxd0505xd**: Ride-A-Pet Potion |
-| 15:36 | **Kiwisito1560**: Frost Fury (FR), Turtle (FR) | **sladetheboxer**: Fairy Bat Dragon (FR), Ride-A-Pet Potion |
-| 15:36 | **picucurt123456**: Copycat | **fishymiss_y**: Fly-A-Pet Potion ×3 |
-| 15:36 | **joswarlopez**: Glormy Leo (NR), Ride-A-Pet Potion | **00dolls**: Rose Dragon (NFR) |
-| 15:36 | **aliyahbyrne11**: Fly-A-Pet Potion | **AASDRT_II**: Chicken (FR) |
-| 15:36 | **s1vurn**: Strawberry Shortcake Bat Dragon (FR) ×2 | **adoptmeholderboang**: Chocolate Chip Bat Dragon (FR) ×2, Ride-A-Pet Potion |
-| 15:36 | **mohamed84ll**: Snowball Pet (MFR), Shiver Wolf (M), Ankylosaurus (M), Snow Monkey, Moon Rabbit (N), Fly-A-Pet Potion | **amvggholder**: Cow (FR) |
-| 15:36 | **T0LMU**: Cake Friend ×2, Yeti, Great Pyrenees, Catte ×2, Count Slothula, Gecko ×2, German Shepherd, Momma Moose, Indian Flying Fox, Clementine Owl, Pain au Chat, Chihuahua, Golden Hamster, Ice Moth Dragon, Toasty Red Panda | **K1MM007**: Albino Bat (MFR) |
-| 15:36 | **lanaisdelrey**: Strawberry Tortle (NFR), Arctic Dusk Dragon (MFR), Latte Kitsune (MFR), Dango Penguins | **opialisticx**: Frost Dragon (FR) |
+| 15:45 | **iiN044**: Retired Egg ×15 | **Roblox_Cat41**: Chihuahua |
+| 15:45 | **Evaaster**: Strawberry Shortcake Bat Dragon (FR), Pig (R) | **Olivier_20141**: Arctic Reindeer (FR) |
+| 15:45 | **mixxqwiex**: Thunderfisher (M) | **Emmy38821**: Ride-A-Pet Potion |
+| 15:45 | **lkmsdfw**: Pig (FR) | **nicolasceci444**: Neon White Scooter, Neon Pink Skateboard, Neon White Skateboard |
+| 15:45 | **amyggvaI**: Propeller Hat, Halloween Black Mummy Cat (M), Kappakid, Kid Goat (N) | **Popa67742**: Ride-A-Pet Potion ×4 |
+| 15:45 | **K0qwry**: Easter Bunny (MFR), Ride-A-Pet Potion | **Bikunom**: Leopard Cat (M) |
+| 15:45 | **NummieNummiegirl**: Kangaroo (NFR) ×2, Kangaroo (FR) ×5, Kangaroo (R) ×2 | **bernabe198**: Owl (FR) |
+| 15:45 | **kworixx**: Giant Panda (FR), African Wild Dog (FR), Blazing Lion (FR), Cryptid (FR), Fairy Bat Dragon (FR), Ram (NR), Great Pyrenees (NR), Chihuahua (N), River Otter (MR), Spring Bunny Nose | **sequo1_a**: Shadow Dragon (FR) |
+| 15:45 | **klaudiakotki8**: Hedgehog (FR) | **sequo1_a**: Aurora Fox (MFR) |
+| 15:45 | **Xxlerys_kaxX**: Binturong | **UltimateLionMantis**: Pupcicle |
+| 15:45 | **11stasanbvija12**: Ride-A-Pet Potion ×2 | **ishu5031H**: Ocean Egg ×4 |
+| 15:45 | **Waq1uxx**: Haetae (FR) | **Lola_ant34**: Scorching Kaijunior (MFR), Moonbeam Butterfly (MFR), Prismatic Butterfly (MFR), Propeller Hat, Shrew, Spring Bunny Feet, Pink Cat Ear Headphones, Amami Rabbit (NFR), Pink Heart Glasses, Ride-A-Pet Potion, Icy Porcupine (M) |
+| 15:45 | **Kevinuwu67667**: Jekyll Hydra (FR) | **namerb11**: Copycat (NFR) |
+| 15:45 | **Albina_Albina2011**: Pet Handler Pro Certificate, Count Slothula | **AUTOINPUT**: Dango Penguins (FR) |
+| 15:45 | **move2442**: Stray Cat Dragon (NR) | **xilawn2023**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
@@ -68,22 +68,22 @@ _Updated 2026-11-17 15:41 UTC by the scrape workflow._
 | 2026-11-17 01:14 | Strawberry Tortle | neon fly ride | 150 | 148 |
 | 2026-11-17 01:14 | Strawberry Tortle | default no potion | 36.5 | 36 |
 
-## AMVGG value changes: 7,807 since 2026-06-02
+## AMVGG value changes: 7,836 since 2026-06-02
 
 | When (UTC) | Item | Changes |
 |---|---|---|
-| 2026-11-16 18:05 | Pupcicle | Regular 0.0105 → 0.01, Neon 0.0425 → 0.04, Mega 0.17 → 0.16, Regular demand High → Medium, Neon demand High → Medium, Mega demand High → Medium |
-| 2026-11-16 16:30 | Santa Hat | Item 0.0175 → 0.0225 |
-| 2026-11-16 16:28 | Glacier Kitsune | Regular 0.0425 → 0.041, Neon 0.17 → 0.165, Mega 0.68 → 0.66 |
-| 2026-11-16 16:28 | Aurora Fox | Regular 0.0515 → 0.05, Neon 0.2075 → 0.2, Mega 0.83 → 0.8 |
-| 2026-11-16 16:28 | Christmas Pudding Pup | Neon 0.17 → 0.1675, Mega 0.68 → 0.67 |
-| 2026-11-16 16:22 | Husky | Regular 0.0155 → 0.015, Neon 0.0625 → 0.06, Mega 0.25 → 0.24 |
-| 2026-11-16 16:21 | Snow Monkey | Regular 0.0175 → 0.0165, Neon 0.07 → 0.0675, Mega 0.28 → 0.27 |
-| 2026-11-16 16:21 | Arctic Dusk Dragon | Regular 0.0375 → 0.036, Neon 0.1475 → 0.1425, Mega 0.59 → 0.57 |
-| 2026-11-16 16:17 | Cryptid | Regular 0.74 → 0.73 |
-| 2026-11-16 16:16 | Blazing Lion | Regular 0.87 → 0.86, Mega 11.65 → 11.85 |
-| 2026-11-16 16:16 | Giant Panda | Regular 1.05 → 1.04, Neon 3.75 → 3.8, Mega 14.9 → 15.1 |
-| 2026-11-16 16:09 | Bat Dragon | Mega 36.25 → 36.4 |
-| 2026-11-16 16:08 | Arctic Reindeer | Regular 0.44 → 0.445, Neon 0.875 → 0.88 |
-| 2026-11-16 16:07 | Dalmatian | Regular 0.51 → 0.52 |
-| 2026-11-16 16:07 | Hedgehog | Regular 0.595 → 0.605 |
+| 2026-11-17 15:43 | Glacier Kitsune | Regular 0.041 → 0.04, Neon 0.165 → 0.16, Mega 0.66 → 0.64 |
+| 2026-11-17 15:43 | Aurora Fox | Regular 0.05 → 0.048, Neon 0.2 → 0.1925, Mega 0.8 → 0.77 |
+| 2026-11-17 15:42 | Latte Kitsune | Regular 0.024 → 0.0235, Neon 0.0975 → 0.095, Mega 0.39 → 0.38 |
+| 2026-11-17 15:42 | Vampire Dragon | Regular 0.055 → 0.0525, Neon 0.2 → 0.195, Mega 0.8 → 0.78 |
+| 2026-11-17 15:42 | Emperor Gorilla | Regular 0.065 → 0.0625, Neon 0.26 → 0.25, Mega 1.05 → 1 |
+| 2026-11-17 15:41 | Pirate Ghost Capuchin Monkey | Regular 0.058 → 0.055, Neon 0.2325 → 0.22, Mega 0.93 → 0.88 |
+| 2026-11-17 15:40 | Ice Golem | Regular 0.023 → 0.0225, Neon 0.0925 → 0.09, Mega 0.37 → 0.36 |
+| 2026-11-17 15:39 | Field Mouse | Regular demand High → Medium, Neon demand High → Medium, Mega demand High → Medium |
+| 2026-11-17 15:39 | Matcha Cat | Regular 0.0515 → 0.0525, Neon 0.2075 → 0.21, Mega 0.83 → 0.84 |
+| 2026-11-17 15:38 | Goat | Regular 0.0455 → 0.046, Neon 0.1825 → 0.185, Mega 0.73 → 0.74 |
+| 2026-11-17 15:38 | Sheeeeep | Regular 0.039 → 0.04, Neon 0.1575 → 0.16, Mega 0.63 → 0.64 |
+| 2026-11-17 15:38 | Groundhog | Regular 0.031 → 0.0315, Neon 0.125 → 0.1275, Mega 0.5 → 0.51 |
+| 2026-11-17 15:37 | Alpaca | Regular 0.1425 → 0.145, Neon 0.55 → 0.56, Mega 2.18 → 2.22 |
+| 2026-11-17 15:36 | Copycat | Regular 0.0525 → 0.05, Neon 0.1925 → 0.185, Mega 0.77 → 0.74 |
+| 2026-11-17 15:36 | Jester Dragon | Regular 0.043 → 0.041, Neon 0.165 → 0.1575, Mega 0.66 → 0.63 |
