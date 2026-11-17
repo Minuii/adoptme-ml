@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 03:01 UTC by the scrape workflow._
+_Updated 2026-11-17 03:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 03:01 UTC by the scrape workflow._
 | amvgg | 7 | 25,770 | 2026-11-17T03:00 |
 | elve | 7 | 5,431 | 2026-11-17T03:01 |
 
-## AMVGG completed trades: 26,548 total
+## AMVGG completed trades: 26,558 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 479 |
+| 2026-11-17 | 489 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 03:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:11 | **adorbsxmozzi**: Cattuccino, Castle Hermit Crab | **Rainy_rarr**: Stitches (N) |
+| 03:11 | **FlyToTheSaturn**: Balloons, Marsh Plush, Octopus Plush, Caticorn Rattle, Banana Pogo, Turkey Plush, Heart Balloon, Dragon Balloon, Ornament Throw Toy, Cymbal Ingredient, Cookie Dough Plush ×2, Candle ×3, Sleigh Bells Rattle ×3 | **Kirikocutie8**: Fly-A-Pet Potion |
+| 03:11 | **Ryumiizz**: Turtle (NFR) ×2, Hyena, Turkey (R), Ride-A-Pet Potion, Bunny Swirl (N) | **squirtle_Adoptmemi**: Evil Unicorn (FR) |
+| 03:11 | **M1dnight_v0id52**: Ram (MFR), Tuxedo Cat (M), Corn Doggo (MFR) | **idk_girl537**: Groundhog (MFR) |
+| 03:11 | **mati08proo**: Sea Turtle ×3, Moon Bear Box ×3 | **themudwizard**: Ride-A-Pet Potion |
+| 03:11 | **Lemonadesweer1**: Siamese Cat, Great Pyrenees (MFR) | **limohq**: Halo |
+| 03:11 | **xXNarynaryXx**: Parrot (FR), Halo, Cupid Dragon (FR) | **alimohamd00**: Owl (FR) |
+| 03:11 | **Polina0_queen9**: Moon Bear Box, Aberdeen Angus Box, Oakee Box ×14, Rubber Ducky Box ×2 | **Wxndxrxt**: Ride-A-Pet Potion |
+| 03:11 | **honiipi**: Propeller Hat, Rain Hat | **GigiSP222**: Spring Bunny Nose |
+| 03:06 | **relaxingscenery**: Pancake Stack | **caroesel**: Fly-A-Pet Potion |
 | 03:00 | **drakocomico2**: Pig, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate, Ride-A-Pet Potion ×3 | **mariema454**: Kangaroo (FR) |
 | 03:00 | **electrolytia**: Giant Anteater (NFR), Bush Elephant (FR), Astronaut Gorilla (R) | **playsfordays05**: Blue Dog (NFR) |
 | 03:00 | **chip40060**: Dragonfruit Fox | **Themr_harlen0220**: Ride-A-Pet Potion ×2 |
 | 03:00 | **bwm_sg**: Parrot (MFR) | **cazzy123abc**: Bat Dragon (FR) |
 | 03:00 | **bolzani001111**: Flash Weasel ×14 | **cazzy123abc**: Owl (FR) |
-| 03:00 | **MoneyMaker7643**: Catte (MR) | **ShxlyyXR**: French Bulldog (MFR) |
-| 03:00 | **ItsRomelYT2010**: African Wild Dog (R), Ride-A-Pet Potion | **ash_isofflinexLuvs**: African Wild Dog (FR) |
-| 03:00 | **swervzxs**: Cherry-On-Top | **cazzy123abc**: Binturong (MFR), Skunk (M), Cerberus (NFR) |
-| 03:00 | **bolzani001111**: Flash Weasel ×11 | **momoboys951**: Crow (FR) |
-| 03:00 | **Lyn_me1**: Ride-A-Pet Potion ×4, Paint Sealer ×4 | **Themr_harlen0220**: Owlbear (FR) |
-| 03:00 | **jpcrack2858**: Safari Egg, Candy Cannon, Orchid Butterfly, Cloud Car | **hanb3ki**: Frost Dragon (FR) ×2 |
-| 03:00 | **Gogoguwu47**: Chocolate Dutch Guinea Pig (MFR), Moose Calf (MFR), Ice Cream Hermit Crab (MFR), Meerkat (MFR) | **blindforIove**: Owl (FR) |
-| 03:00 | **iaMatthieu1**: Kangaroo (FR) | **zhqwexq**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×8 |
-| 03:00 | **qkrbed**: Giant Panda (FR), Cryptid (FR) | **dankicaquin**: Frost Dragon (FR) |
-| 03:00 | **archi_chozza**: Mighty Haetyphoon Animated Sticker, Electric Hornet ×4 | **Zaki_Ready**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
