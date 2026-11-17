@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 09:11 UTC by the scrape workflow._
+_Updated 2026-11-17 09:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 09:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 31,149 | 2026-11-17T09:00 |
-| elve | 7 | 6,449 | 2026-11-17T09:01 |
+| amvgg | 7 | 31,371 | 2026-11-17T09:15 |
+| elve | 7 | 6,514 | 2026-11-17T09:16 |
 
-## AMVGG completed trades: 27,225 total
+## AMVGG completed trades: 27,229 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,156 |
+| 2026-11-17 | 1,160 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,10 @@ _Updated 2026-11-17 09:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:15 | **Inganta07**: Ride-A-Pet Potion | **kanekixklxster**: Ram |
+| 09:15 | **xmochicowx**: Bunny Swirl (MFR), Caelum Cervi (R), Tan Chow-Chow (MFR) | **Goldfishismysnack200**: Goldhorn (MFR) |
+| 09:15 | **azert10987**: Space Whale, Happy Duckling | **14barbara64100**: Vol. 2 Pets Plus Sticker Pack |
+| 09:15 | **mio_ma0w0**: Cabbit (MFR), Munchkin Cat (FR) | **Lil_AshleyRoblox**: Alpaca (MFR) |
 | 09:11 | **as_ishere**: Turtle (R) | **shadow82172sad**: Pig ×2, Copycat (R) |
 | 09:11 | **kelsey_1815**: Gold Circle Glasses, Rabbit ×5, Retired Egg ×10 | **sandyneapolitancat**: Gumball Caterpillar (N), Pomeranian (N), Bunny (N), Thunderfisher ×4, Electric Hornet |
 | 09:11 | **kanekixklxster**: Pain au Chat ×5 | **melondebbieoliver**: Fly-A-Pet Potion |
@@ -43,10 +47,6 @@ _Updated 2026-11-17 09:11 UTC by the scrape workflow._
 | 09:11 | **Crystal_andLisa**: Cracked Egg ×6 | **XianYunLove**: Purrowl |
 | 09:11 | **ferrofl7**: Bandicoot ×5, Dingo ×5, Jumping Spider ×4, Starfish (N), Toucan (N) | **xq0vlis**: Ride-A-Pet Potion |
 | 09:11 | **FlickCod32015**: Gemstone Egg ×11 | **LI42W**: Matcha Cat |
-| 09:11 | **hduwkso**: Amethyst Skies Mega Neon Paint, Ride-A-Pet Potion | **PlayOfHappy**: Rose Quartz Glow Mega Neon Paint |
-| 09:11 | **kneesurgeryreminder**: Ride-A-Pet Potion, Bat (N) | **Sillykily0**: Chocolate Dutch Guinea Pig |
-| 09:11 | **UwwUw2009**: Haetyphoon, Bauble Buddies (NR), Capricorn (FR), Kitty Biscuit ×3, Stray Cat Dragon (N) ×2, Choco Penguin (R), Skelicorn (N) ×2, Patchy Bear (NR), Malaysian Tapir (NR) | **thatsadfreak**: Frostbite Bear |
-| 09:11 | **fyfybaby684**: Burger Bear (N) | **Niruch_Bearly**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
