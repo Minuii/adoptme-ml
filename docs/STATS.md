@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 05:11 UTC by the scrape workflow._
+_Updated 2026-11-17 05:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 05:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 27,656 | 2026-11-17T05:00 |
-| elve | 7 | 5,759 | 2026-11-17T05:01 |
+| amvgg | 7 | 27,912 | 2026-11-17T05:15 |
+| elve | 7 | 5,803 | 2026-11-17T05:16 |
 
-## AMVGG completed trades: 26,816 total
+## AMVGG completed trades: 26,819 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 747 |
+| 2026-11-17 | 750 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,9 @@ _Updated 2026-11-17 05:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:15 | **tatianachan1713**: Cow Calf, Leopard Cat | **Panci_Terbang33**: Retired Egg ×18 |
+| 05:15 | **tatianachan1713**: Leopard Cat | **yxxrzzcoow**: Retired Egg ×12 |
+| 05:15 | **luvyerh**: Fairy Bat Dragon (FR) | **CookieBawn**: Crocodile (R), Elephant (R) |
 | 05:11 | **Antonipes**: Paint Sealer ×9 | **hayleigh_beep**: Crystal Egg ×11 |
 | 05:11 | **LumDayy**: Possum (M) | **Groyidd_gg**: Snorgle (M), Jacobin Pigeon (M) |
 | 05:11 | **mimirules21**: Cabbit (FR), Arctic Dusk Dragon (FR), Christmas Pudding Pup, Fly-A-Pet Potion, Hedgehog (R), Kangaroo (FR) | **Dddana20058**: Crow (FR) |
@@ -44,9 +47,6 @@ _Updated 2026-11-17 05:11 UTC by the scrape workflow._
 | 05:06 | **AMVGGTRADES7**: Copycat ×7, Jester Dragon (R), Aurora Fox (R), Pet Handler Pro Certificate | **jhon145p**: Chocolate Chip Bat Dragon (FR) |
 | 05:06 | **rkdwlgh0104**: Tortoiseshell Guinea Pig | **wh1mzical**: Frost Fury (NFR) |
 | 05:06 | **tatianachan1713**: Leopard Cat, Scarlet Butterfly | **jam_bam10**: Retired Egg ×18 |
-| 05:06 | **tatianachan1713**: Lynx | **jam_bam10**: Retired Egg ×18 |
-| 05:06 | **TMDung20**: Turtle (NFR) ×2, Hyena | **chaxvznn**: Evil Unicorn (FR) |
-| 05:06 | **Xlu_267**: Chihuahua, Puffer Fish ×2, Alley Cat, Eggnog Dog (N), Harp Seal (R), Tanuki (N), Koala (NR) | **plushioss**: Chihuahua (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
