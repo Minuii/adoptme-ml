@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 12:45 UTC by the scrape workflow._
+_Updated 2026-11-17 12:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 12:45 UTC by the scrape workflow._
 | amvgg | 7 | 34,436 | 2026-11-17T12:45 |
 | elve | 7 | 7,155 | 2026-11-17T12:45 |
 
-## AMVGG completed trades: 27,795 total
+## AMVGG completed trades: 27,817 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,726 |
+| 2026-11-17 | 1,748 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 12:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:45 | **TheOfficialAesthetic**: Hot Doggo (NFR) | **sequo1_a**: Cryptid (FR) |
-| 12:45 | **Inganta07**: Fly-A-Pet Potion | **Cat_dog8517**: Cerberus (R) |
-| 12:45 | **lizzythebest6767**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **artloveraa1**: Frost Dragon (FR) |
-| 12:45 | **ket_girl467**: Ride-A-Pet Potion | **mm2Aria1234510**: Pupcicle |
-| 12:45 | **zxl0106**: Cryptid (FR) | **TrainerKevin2000**: Amethyst Penguin (FR) |
-| 12:45 | **yexzvni**: Ride-A-Pet Potion, Stray Cat Dragon (N) | **elsxhs**: Puptune (NR) |
-| 12:45 | **Youdi_off**: Fly-A-Pet Potion ×18 | **Xxxxashhhh**: Pet Handler Pro Certificate ×18 |
-| 12:45 | **elyyz_sen**: Kangaroo (FR), Fly-A-Pet Potion ×3 | **kisauuw**: Turtle (FR) |
-| 12:45 | **Amvggtrad3r**: Chocolate Dutch Guinea Pig (MFR), Banana Hat | **PrettyxDino**: Swan (MFR) |
-| 12:45 | **PixiePawsTrade**: Stray Cat Dragon ×18 | **1vikamillk**: Ride-A-Pet Potion ×2 |
-| 12:45 | **510478**: Strawberry Tortle (MFR), Alpaca (MFR), Unicorn Horn | **Rbd_JP**: Bat Dragon (FR) |
-| 12:45 | **PureVanilka0**: Shih Tzu (M), Water Moon Bear, Nebula Snake, Thunderfisher, Tegu (N), Pinkypillar (N), Ms. Muffet (N), Princess Mare (N) | **GEMYU900**: Ride-A-Pet Potion |
-| 12:45 | **ilyzea05**: Ghostly Cat (N) | **Lotusnaceae**: Catte |
-| 12:45 | **Rimenyi**: Golden Unicorn (FR) | **Cattychiee**: Unicorn |
-| 12:45 | **AlyonaTheLove**: Golden Griffin (R), Metal Ox (R), Endangered Egg ×6 | **xoxsasha0**: Ride-A-Pet Potion |
+| 12:55 | **Bumble_Lou**: Frost Fury (FR), Matcha Cat | **younost101001**: Latte Kitsune (NR) |
+| 12:55 | **MM_Cloud**: Stray Cat Dragon ×18 | **Fruit_Kittie**: Fly-A-Pet Potion |
+| 12:55 | **Gamerqueen1255**: Sushi Penguin (N), Sushi Penguin ×13 | **meggy_192**: Cow (FR) |
+| 12:55 | **UmeiiYemmy**: Ride-A-Pet Potion ×5 | **MuhaTrade**: Harp Seal (N) |
+| 12:55 | **RosuMeIi**: Turtle (FR), Ride-A-Pet Potion | **starfire_33334**: Flaming Fox (NFR), Border Collie |
+| 12:50 | **GEMYU900**: Unicorn (NR), Albino Bat (R) | **Rimenyi**: Golden Ladybug (FR), Golden Ladybug (R), Volcanic Rhino (R), King Bee (FR) |
+| 12:50 | **aliyahbyrne11**: Naughty Mistletroll (MFR), Purple Butterfly (MFR), Chocolate Dutch Guinea Pig (MR), Red Sand Dollar (MR), Ride-A-Pet Potion | **Ihatesomber11**: Parrot (FR) |
+| 12:50 | **akzoad**: Parrot (FR) | **Ihatesomber11**: Aurora Fox (NFR), Chocolate Dutch Guinea Pig (M), Puffer Fish (MR), Alpaca (R), Bush Elephant (R), Winged Tiger, Shark Puppy (R), Aurora Fox (FR), Shark Puppy |
+| 12:50 | **gattitakawaii16**: Chicken (R), Wild Boar, Drake, Lynx (FR), Black Panther, Binturong ×2, Chipmunk | **zcqlv**: Lion Cub (FR) |
+| 12:50 | **RyukkHolder**: Summer Walrus ×4 | **dasha_3588**: Ride-A-Pet Potion |
+| 12:50 | **luvyerh**: Peppermint Penguin (FR) | **Esikiiomuru**: Caterpillar (R), Munchkin Cat (FR), Arctic Fox (FR), English Sheepdog (FR) |
+| 12:50 | **Yomi040605**: Hedgehog (FR) | **MacarronCheese**: Shrew (MFR) |
+| 12:50 | **milanakim12**: Kangaroo (FR) | **lindagalagtica**: Border Collie, Ride-A-Pet Potion, Pancake Stack |
+| 12:50 | **Madi_Gamer365**: Alley Cat (FR) | **volt_chib1**: Latte Kitsune (R) |
+| 12:50 | **anyilaa_dumpoo**: Parrot (FR), Mermicorn (R) | **triangulaamv**: Cryptid (FR), Cow (NFR), Ice Cream Cone Hat, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
