@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 14:46 UTC by the scrape workflow._
+_Updated 2026-11-17 14:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 14:46 UTC by the scrape workflow._
 | amvgg | 7 | 36,358 | 2026-11-17T14:45 |
 | elve | 7 | 7,648 | 2026-11-17T14:45 |
 
-## AMVGG completed trades: 28,228 total
+## AMVGG completed trades: 28,262 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,159 |
+| 2026-11-17 | 2,193 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 14:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:45 | **uh_dulciee**: Chihuahua | **St4r1890241**: Unfortunate Eyelashes |
-| 14:45 | **Patriot0750**: Chocolate Chip Bat Dragon (FR) | **TwistedK1tty**: Turtle (FR), Cow (FR), Fly-A-Pet Potion, Phoenix (NR) |
-| 14:45 | **NastyaNerol**: Fly-A-Pet Potion ×2 | **LaraIphone16e**: Owlbear |
-| 14:45 | **ferrofl7**: Aestus (FR), Solaris | **Katie_proshkaa**: Ride-A-Pet Potion ×4 |
-| 14:45 | **flower_1851**: Ride-A-Pet Potion ×9 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 |
-| 14:45 | **MathildeFX924**: Sheeeeep (R) | **00ghoul_QwQ**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
-| 14:45 | **Fruit_Kittie**: Ride-A-Pet Potion | **lirvi_kiti**: Bunny Swirl |
-| 14:45 | **chxmistri**: Giant Panda (FR), Fairy Bat Dragon (R), Harp Seal (M) | **Amy_Anna268**: Border Collie (MFR) |
-| 14:45 | **Gabriele143love**: Pupcicle (MFR), Hippo (MR), Fly-A-Pet Potion | **Bunniixkayy**: Cow (FR) |
-| 14:45 | **bermido80**: Pet Handler Pro Certificate | **Katie_proshkaa**: Solaris |
-| 14:45 | **joee123514**: Munchkin Cat (M), Ride-A-Pet Potion ×2, Pink Cat Ear Headphones ×2 | **p9ssessed**: Copycat (MFR) |
-| 14:45 | **ZzzTrades7**: Giraffe (FR), Parrot (FR), Crow (FR) | **margo33249**: Shadow Dragon, Turtle (FR) |
-| 14:45 | **zeejnaa**: Glormy Leo (MFR) | **addmymainaccountokay**: Red Dutch Guinea Pig (MFR), Fly-A-Pet Potion |
-| 14:45 | **qlowtii**: Malaysian Tapir, Narwhal, Onza | **Calloway1738**: Indian Flying Fox |
-| 14:45 | **Reveknalt1**: Dragonfly ×18 | **qzeifnx_1**: Ride-A-Pet Potion |
+| 14:55 | **viktoria_super000**: Mochi Meow (M) | **Fan_iNoobasya**: Fly-A-Pet Potion |
+| 14:55 | **LilUgly_Mane**: Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Kitty Bat (MF), Giant Anteater (NR), Water Rabbit (MR) | **francyflop**: Cryptid (MFR) |
+| 14:55 | **Fan_iNoobasya**: Fly-A-Pet Potion ×3 | **Hellothere_ImAK**: Frost Fury (FR) |
+| 14:55 | **booluqx**: Kangaroo (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×11 | **BudakBaran7**: Cow (FR) |
+| 14:55 | **lazsleepy**: Arctic Reindeer (FR), Grim Dragon (FR), Arctic Fox (FR) | **Qwexx0ll**: Evil Unicorn (FR) |
+| 14:55 | **ThiagoAnguloS**: Naughty Mistletroll (NFR) | **Doza0111**: Albino Monkey (FR) |
+| 14:55 | **Moon_Cloud609859**: Frostbite Bear (R) | **Acorn0930**: Frostbite Bear |
+| 14:55 | **vennieemylove**: Strawberry Shortcake Bat Dragon (FR) | **Hamster_ofis**: Fairy Bat Dragon (FR), Flaming Fox (NR), Jester Dragon (R), Jester Dragon, Alley Cat (NR), Samoyed (MR), Pupcake (N) |
+| 14:55 | **itz_grigoriy**: Kangaroo (FR), Elephant (R), Munchkin Cat, Irish Water Spaniel (R), Lion Cub, Red Dutch Guinea Pig | **Vitek_228666**: Strawberry Shortcake Bat Dragon |
+| 14:55 | **NastyaNerol**: Propeller Hat, Sandwich Hat | **ChristinaClaraAva**: Owlbear |
+| 14:55 | **kawaiifaintedgirl**: Copycat | **Zeyqvz**: Unicorn (NFR) |
+| 14:55 | **El_t1ntero**: Werewolf (FR), Latte Kitsune (NFR), Fly-A-Pet Potion | **queenmaya773**: Kangaroo (NFR) |
+| 14:55 | **safiqa99**: Turtle (FR) | **hexyzbagoc31**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 |
+| 14:55 | **altgenaratordhc45**: Siamese Cat (MFR), Irish Water Spaniel (N), Jekyll Hydra, Fairy Bat Dragon (FR), Cabbit (FR), Phantom Dragon (FR) | **Amy_Anna268**: Frost Dragon (FR) |
+| 14:55 | **Queenvessy**: Haetyphoon (FR) | **aestethic_boba12**: Pupcake (MR), Glyptodon (MR), Headless Horse (NR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
