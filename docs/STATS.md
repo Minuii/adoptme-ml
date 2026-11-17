@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 21:16 UTC by the scrape workflow._
+_Updated 2026-11-17 21:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 21:16 UTC by the scrape workflow._
 | amvgg | 7 | 42,737 | 2026-11-17T21:15 |
 | elve | 7 | 9,106 | 2026-11-17T21:16 |
 
-## AMVGG completed trades: 29,608 total
+## AMVGG completed trades: 29,645 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,539 |
+| 2026-11-17 | 3,576 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 21:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:15 | **joshuasalgado6**: Mermicorn (MFR), Matcha Cat, Chef Hat | **lvqmpyx**: Cabbit (MFR) |
-| 21:15 | **onyx11414**: 2022 Birthday Cake ×2, Ride-A-Pet Potion ×3, Golden Bone | **Pancakes7240**: Turtle (NFR) |
-| 21:15 | **LUVS3MELON**: Hot Doggo (FR) | **DeidarochkaUwU675**: Pig (R), Chocolate Dutch Guinea Pig (NR), Chameleon (N), Bunny Swirl (MR), Ermine (MFR), Water Moon Bear (NFR) |
-| 21:15 | **queensisters4l**: Black Rhino (N) | **hefeltsafe**: Retired Egg ×9 |
-| 21:15 | **fishymiss_y**: Red Dutch Guinea Pig, Owlbear (R), Polar Bear (R), Kookaburra (NFR), Ride-A-Pet Potion | **vanpxc**: Turtle (FR) |
-| 21:15 | **MohamedAfj1**: Rainbow Maker, Unicorn Horn, 2022 Birthday Party Hat | **sweetang4ll**: Owlbear (MFR), Angel Wings |
-| 21:15 | **Dazaika000**: Pirate Ship House | **Yahx4xEvr**: Dango Penguins |
-| 21:15 | **leoegern40**: Rainbow Maker, Liger (MFR) | **PrismaticRio**: Capybara (MFR), Wood Pigeon (MFR) |
-| 21:15 | **daanz2**: Kangaroo (FR), Wyvern (FR) | **C0PHYAK**: Ride-A-Pet Potion ×12, Pet Handler Pro Certificate ×3 |
-| 21:15 | **Gamerqueen1255**: Gemstone Egg | **MOGGYJAM**: Retired Egg ×18 |
-| 21:15 | **adoptcatdogfox2**: Kitty Biscuit, Maine Coon | **Vikakelera**: Ride-A-Pet Potion |
-| 21:10 | **Arracheurdetacos224**: African Wild Dog (R), Sheeeeep (MFR), Chocolate Dutch Guinea Pig (MFR) | **p0xompurin**: Frost Dragon (FR) |
-| 21:10 | **demon529752**: Turtle (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Dancing Dragon, Choco Penguin (NR), Zodiac Minion Chick (N) | **alisha5050x**: Kangaroo (NFR) |
-| 21:10 | **Nicoleee_ily**: Onza (N), Thunderfisher (N), Purrowl (N), Ginger Cat (N) | **footerch**: Ride-A-Pet Potion |
-| 21:10 | **1Mikusia1**: Crimson Cape (M), Caramelgeist (N) | **Marines_Natalia**: Ride-A-Pet Potion |
+| 21:25 | **Puppylover227331**: Fly-A-Pet Potion | **Essentialsqv**: Ride-A-Pet Potion ×2 |
+| 21:25 | **lalsakjsja**: Evil Unicorn (FR), Ride-A-Pet Potion | **Annshdchh**: Munchkin Cat (MFR) |
+| 21:25 | **Middo_Adventures1**: Glormy Leo (FR), Copycat (R), Shark (NFR), Matcha Cat | **tzuyuu214**: Siamese Cat (FR) |
+| 21:25 | **Kenneth2_5o**: Mini Pig (R), Kangaroo (NFR), Frost Fury (FR), Dragonfruit Fox, Fly-A-Pet Potion, Dodo (FR) | **Diego_2013ult**: Dalmatian (FR) |
+| 21:25 | **Jaiqxvz**: Sugar Glider (FR), Dango Penguins, Kirin (R) | **soop_borshik**: Fairy Bat Dragon (FR) |
+| 21:25 | **Ale_Nugget9**: Ghostly Cat (MFR), Sushi Penguin (R), Nutcracker Squirrel (N) | **Xbunny_sunnyX1**: Copycat (FR) |
+| 21:25 | **Cinnamor0llBaby**: Ride-A-Pet Potion ×3, Gingerbread Mouse (N) | **abbyissocool_lol**: Gingerbread Mouse (M) |
+| 21:25 | **Waq1uxx**: Scorching Kaijunior (MFR), Prismatic Butterfly (MFR) | **xfedex098**: Siamese Cat (NFR), Turtle (FR), Jester Dragon (FR) |
+| 21:25 | **Khmerangel4130**: Kangaroo (MFR), Lavender Dragon (NFR), Halloween Evil Dachshund (MFR), Stitches (M), Halloween Black Mummy Cat (MFR), Sneak Weasel (M), Oryx (M), Skele-Rex (R) | **Meme_Seb**: Cryptid (FR) |
+| 21:25 | **animatownermile3**: Pupcicle (N) | **B0z0s8**: Pupcicle ×5 |
+| 21:25 | **sleewipyy**: Frost Dragon (FR), Bat Dragon (FR), Cupid Dragon (NFR), Frost Fury | **disapp6ar**: Cabbit (MFR) ×2, Goose (MFR), Tri-horned Treehopper (MFR), Giant Gold Scarab (MFR) |
+| 21:25 | **AdoptMe_pro6969**: Goose (FR), Flamingo (FR), Groundhog (NR), Pig (NFR) | **xv1oh**: Honey Badger (MFR), Ride-A-Pet Potion |
+| 21:25 | **Xnixht**: Dalmatian (R) | **Mcdonaldsofaustralia**: Cabbit (NFR) |
+| 21:25 | **N0AH_XRM**: African Wild Dog (FR) | **TwistedK1tty**: Goose (R), Goose (FR), Cow (FR), Cow (R), Aussie Egg |
+| 21:25 | **Wolfie4567ty**: Strawberry Shortcake Bat Dragon (FR), Mermicorn (FR) ×2 | **Strawberryxm0cha**: Cryptid (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
