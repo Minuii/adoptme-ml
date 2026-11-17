@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 11:31 UTC by the scrape workflow._
+_Updated 2026-11-17 11:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 11:31 UTC by the scrape workflow._
 | amvgg | 7 | 33,375 | 2026-11-17T11:30 |
 | elve | 7 | 6,923 | 2026-11-17T11:31 |
 
-## AMVGG completed trades: 27,553 total
+## AMVGG completed trades: 27,566 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,484 |
+| 2026-11-17 | 1,497 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 11:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:40 | **Zuminkikiki**: Merhorse (MR), Cattuccino (N) | **Nephanox**: Pet Handler Pro Certificate ×2 |
+| 11:36 | **mior5183**: Jester Dragon | **JhanKiwin**: Arctic Dusk Dragon (FR) |
+| 11:36 | **RobloxIsLif3z**: Chocolate Dutch Guinea Pig ×3 | **Youtube_kuyang**: Ride-A-Pet Potion ×4 |
+| 11:36 | **getsdar**: Kangaroo (FR) | **werreriss0**: Christmas Pudding Pup (R), Frost Fury (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Gemstone Egg ×2, Hamster (R), Mr. Whiskerpips, Mrs. Whiskerpips |
+| 11:36 | **OJC_Star45**: Ride-A-Pet Potion | **RobloxIsLif3z**: Crystal Egg ×15 |
+| 11:36 | **Vanlyzn26**: Crystal Egg ×14 | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 11:36 | **booluqx**: Bunny Swirl (N) | **urfavvseonvin**: Bunny Swirl ×4 |
+| 11:36 | **move2442**: Catte, Golden Dragon, Golden Griffin, Skelicorn, Dragonfly | **Malelou26**: Ride-A-Pet Potion |
+| 11:36 | **MuhammadFahmie2023**: Stray Cat Dragon ×3, Samoyed, Praying Mantis, Ladybug | **saralinn_200**: Yeti |
+| 11:36 | **rexy_7830**: Aurora Fox (N), Sugar Glider (R), Fly-A-Pet Potion ×4, Burger Boots, Ride-A-Pet Potion | **starter_game1234567**: Chocolate Chip Bat Dragon (FR) |
+| 11:36 | **Miiluwe**: Golden Rat | **BarrettVintage**: Mansion |
+| 11:36 | **34kbia**: Cryptid (FR), Cow (NFR), Alpaca (R), Candicorn | **triangulaamv**: Owl (FR) |
+| 11:36 | **kworixx**: Ride-A-Pet Potion ×18 | **rbxnastyw**: Kangaroo (FR) |
 | 11:30 | **aabeeyg**: Pain au Chat (M), Ride-A-Pet Potion, Vol. 2 Pets Plus Sticker Pack | **Mxso_soup8**: Tiny Wings |
 | 11:30 | **lauraloute15**: Lion Cub (R) | **TwistedK1tty**: Goat (R) |
-| 11:30 | **vanyagames_yt**: Parrot (FR) ×2, Evil Unicorn (FR), Sugar Glider (R) | **doraatje122**: Strawberry Tortle (M) |
-| 11:30 | **gamereldark_YT**: Golden Griffin, Diamond Griffin, Diamond Dragon, Glormy Crab, Alicorn, Dracula Parrot, Lunar Gold Tiger ×2, Metal Ox, Ghost Wolf (N) | **klee3616**: Fly-A-Pet Potion |
-| 11:30 | **bbkxrby**: Dragonfruit Fox (R) | **Coolchikkaa**: Dragonfruit Fox |
-| 11:30 | **wyqudwhjahwd**: Fly-A-Pet Potion ×2 | **Yoonie_Alisha**: Pain au Chat ×9 |
-| 11:30 | **6vynix**: Cake Friend, Kitty Bat | **milk59012**: Pupcicle |
-| 11:25 | **kworixx**: Puma (NFR), Gumball Caterpillar (NR) | **svetap112233**: Ride-A-Pet Potion |
-| 11:25 | **FlickCod32015**: Gemstone Egg ×4 | **T0MA_999**: Pet Handler Pro Certificate |
-| 11:25 | **userulikk**: Turtle (FR) | **barrackpalinka1**: Candyfloss Chick, Tortuga de la Isla |
-| 11:25 | **LacieiiAltAcc**: Copycat, Velocirooster (R), German Shepherd (N) | **twojstarydzikitygrys**: Tortoiseshell Guinea Pig |
-| 11:25 | **Vitek_228666**: Turtle (FR) | **arseniylolol**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×7 |
-| 11:25 | **Vitek_228666**: Fly-A-Pet Potion ×9 | **getsdar**: Ride-A-Pet Potion ×16 |
-| 11:25 | **Just_Mattluo**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **Vitek_228666**: Pig (R) |
-| 11:25 | **zzzzzxxxxxwr9**: Chameleon, Stray Cat Dragon (N), Rubber Ducky (N), Ms. Muffet (N), Dire Wolf | **pinkysworn**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
