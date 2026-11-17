@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 22:11 UTC by the scrape workflow._
+_Updated 2026-11-17 22:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 22:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 43,452 | 2026-11-17T22:00 |
-| elve | 7 | 9,231 | 2026-11-17T22:01 |
+| amvgg | 7 | 43,702 | 2026-11-17T22:15 |
+| elve | 7 | 9,300 | 2026-11-17T22:16 |
 
-## AMVGG completed trades: 29,778 total
+## AMVGG completed trades: 29,801 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,709 |
+| 2026-11-17 | 3,732 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 22:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:06 | **amyggvaI**: Tio De Nadal (FR), Siamese Cat (FR), Mermicorn (FR), Flamingo (FR), Flamingo (R), Kangaroo (FR), Cow (R), Cow, Turtle (FR) ×2, Cabbit (FR), Ride-A-Pet Potion ×4 | **ObxiouslyEllicia**: Frost Dragon (FR) |
-| 22:06 | **lanajicadoo**: Gemstone Egg ×2 | **Gamesta_YT**: Ride-A-Pet Potion |
-| 22:06 | **Josuwu892**: Ginger Cat | **MissMaryCornfield**: Retired Egg ×3 |
-| 22:06 | **Vyseful**: Copycat | **meowchic0**: Tortuga de la Isla (FR) |
-| 22:06 | **AmvggPi0n41K**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×2 | **NotSweatyOnion**: Werewolf (FR) |
-| 22:06 | **xXcaxapokXx_off**: Zombie Wolf ×2, Bunny (NR), Stray Cat Dragon (N), Ibex (N), Dragon, Quetzalcoatl ×3, Black-Footed Ferret (N), Little Lamb (N), Orca (N), Ribbon Seal (N), Caramelgeist (M) | **Starie_Shootingstar**: Jester Dragon |
-| 22:06 | **simbalove310**: Rooster (N), Drake | **monxcuhh**: Ice Moth Dragon (NFR) |
-| 22:06 | **simplyxarv**: Unicorn Horn, Toaster Hat, Fly-A-Pet Potion ×2 | **keissitojf**: Cow (FR) |
-| 22:06 | **Gabriele143love**: Shark (NFR), Shark (NR), Bee (MFR) | **dilanfabian13**: Elephant (FR) |
-| 22:06 | **dloxasteq2**: Turtle (MFR), Parrot (FR) | **lucaMT967**: Frost Dragon (FR) |
-| 22:06 | **Shadx_1553**: Owl (FR), Strawberry Tortle, Strawberry Tortle (R), Pancake Stack, Samoyed (MR) | **lucaMT967**: Frost Dragon (FR) |
-| 22:06 | **lunalovebug70**: Border Collie (MFR), Munchkin Cat | **Void88881**: Owl (FR) |
-| 22:06 | **N0AH_XRM**: Boohoo (N), Pandaguin Glooptodog (N), Bobageist (N), Jumpscare (N) | **morze68**: Eggnog Dog (R) |
-| 22:06 | **serspect**: Ride-A-Pet Potion ×2 | **aydachan200311**: Pet Handler Pro Certificate |
-| 22:06 | **545364536vc**: Parrot (FR), Shark Puppy (NFR), Mini Pig, Cabbit (FR), Siamese Cat (R), Black Springer Spaniel (MFR) | **eragon1000bc**: Mermicorn (MFR) |
+| 22:15 | **StartEggtofrostdrag0**: Arctic Fox (NFR) | **Xxskibidy67**: Turtle (FR) |
+| 22:15 | **TheRealkillersixty**: Giraffe (FR) | **izzztya**: Strawberry Shortcake Bat Dragon (FR) ×6 |
+| 22:15 | **pisapopakakashecki**: Dracula Parrot ×4 | **guchi_puchi95**: Ride-A-Pet Potion |
+| 22:15 | **Darmay_y**: Count Slothula ×3 | **guchi_puchi95**: Ride-A-Pet Potion ×2 |
+| 22:15 | **xlorkaa7**: Emu (NF) | **roblox_user_9559902919**: Ride-A-Pet Potion |
+| 22:15 | **adoptcatdogfox2**: Chick, Cozy Mistletroll, Quetzalcoatl ×2, Christmas Spirit, Alicorn, Diamond Dragon ×2, Dragonfly | **guchi_puchi95**: Ride-A-Pet Potion |
+| 22:15 | **Gamerqueen1255**: Gemstone Egg | **Chasegamertv2667**: Retired Egg ×18 |
+| 22:15 | **chicken_kaka7w7**: Border Collie | **gumiiitooo**: Jellyfish (R), Ring-Tailed Lemur (FR) |
+| 22:15 | **eyeofrahismymom**: Tiny Wings, Llama (NFR) | **lili270811**: 2022 Birthday Cupcake Shoes |
+| 22:15 | **lovewqnted**: Kangaroo (FR), Pupcicle (N) | **100PercentWinRateHax**: Velocirooster (NFR) |
+| 22:15 | **Dominat0r_Sha**: Alicorn (M) | **pinkysworn**: Ride-A-Pet Potion ×2 |
+| 22:15 | **5kHxll**: Ride-A-Pet Potion | **Pifacat**: Pupcicle |
+| 22:15 | **ishibana0967**: Purrowl (N) ×2 | **pinkysworn**: Ride-A-Pet Potion |
+| 22:15 | **N0ttmy_main**: Fairy Bat Dragon (FR), Turtle (FR), Fallow Deer, Pupcake (N), Happy Duckling (N), Abyssinian Cat (M), Ocelot (M), Gemstone Egg, Corgi (N) | **GranTakeshi**: Rainbow Maker |
+| 22:15 | **itssuu_k**: Werewolf (R) | **Kensley2hated**: Siamese Cat |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
