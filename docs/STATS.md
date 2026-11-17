@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 10:25 UTC by the scrape workflow._
+_Updated 2026-11-17 10:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 10:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 32,221 | 2026-11-17T10:15 |
-| elve | 7 | 6,677 | 2026-11-17T10:16 |
+| amvgg | 7 | 32,447 | 2026-11-17T10:30 |
+| elve | 7 | 6,723 | 2026-11-17T10:31 |
 
-## AMVGG completed trades: 27,368 total
+## AMVGG completed trades: 27,384 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,299 |
+| 2026-11-17 | 1,315 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 10:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:25 | **Darmay_y**: Fly-A-Pet Potion | **johnpatricktasunci16**: Count Slothula ×3 |
-| 10:25 | **Knorbating**: Alpaca (FR), Candyfloss Chick, Dango Penguins, Flamingo (FR), Unicorn | **bunniiangeI**: Strawberry Shortcake Bat Dragon (FR) |
-| 10:25 | **AKI10PLAY**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **azxpredxtorn**: Copycat |
-| 10:25 | **kendrito_garcia**: Guardian Lion (MFR), Elephant (NFR) | **xMaddieglolx**: Chocolate Chip Bat Dragon (FR) |
-| 10:25 | **xmikaeq**: Chocolate Chip Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (MFR) | **ciafetti**: Cryptid (MFR) |
-| 10:25 | **wskdaks**: Kangaroo (R) | **O_ZIROX4**: Pupcicle (M) |
-| 10:25 | **Az_Kenzy**: Dango Penguins (MFR), Strawberry Shortcake Bat Dragon Backpack, Tiny Wings | **Ebonyaqt**: Rainbow Maker |
-| 10:25 | **Kseniatop4ik468586**: Purrowl, Ginger Cat | **einxizz**: Winter Fawn |
-| 10:25 | **kworixx**: Capybara, Chicken | **Leviodas**: Fly-A-Pet Potion |
-| 10:25 | **kworixx**: Black Panther ×2, Ant (NFR) | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 10:25 | **MikB22**: Parrot (FR), Cow (R), Pig (R) | **Woolshula_TOP**: Owl (FR) |
-| 10:21 | **sunshinegurl_byebye**: King Bee (MFR), Jester Dragon (FR), Phoenix (NFR), Irish Water Spaniel | **TulipPetal_1**: Turtle (FR) |
-| 10:21 | **SmallestMascot**: Hedgehog (FR) | **Preppy_cleoooo**: Orchid Butterfly (FR) |
-| 10:21 | **1_Hexerei**: Fly-A-Pet Potion | **LoveYourOwnNature**: Aestus |
-| 10:21 | **goofy_bro20**: Siamese Cat (MFR), Copycat (MFR), Tio De Nadal (NFR), Velocirooster (NFR), Shark Puppy (NFR), Silverback Gorilla (NFR) ×3 | **doraatje122**: Strawberry Tortle (MFR) |
+| 10:30 | **Catzini_1**: Kookaburra (MFR), Frostbite Bear (R), Royal Mistletroll (FR) | **EriOnSuMa**: Arctic Dusk Dragon (MFR) |
+| 10:30 | **seb_ihhh**: Unicorn ×4 | **SoloGhost442149**: Ballet Swan |
+| 10:30 | **amvggbunni_won**: Ride-A-Pet Potion ×2 | **EriOnSuMa**: Fly-A-Pet Potion |
+| 10:30 | **Its_soulseekk**: Moon Rabbit, Ghost Wolf (N) | **Fidelia2131415**: Ride-A-Pet Potion |
+| 10:30 | **Whyisyourpeeblue**: Retired Egg ×18 | **fahrodupencheng**: Mummy Spider ×9 |
+| 10:30 | **Roblocksowl**: Copycat ×3, Rain Cloud Hat, 2022 Birthday Party Horn, Toaster Hat, Ice Cream Cone Hat, Spring Bunny Hood ×2, Pancake Stack ×4, Rain Boots ×2, Sandwich Hat, Copter Hat, Spring Bunny Feet | **abdoosaad**: Jester Dragon (MFR) |
+| 10:30 | **MohamedAfj1**: Frostbite Cub (MFR), Black Macaque (MFR) | **amvggalt1**: Catte (MFR) |
+| 10:30 | **kworixx**: Sushi Penguin, Mecha Meow | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 10:30 | **werlianess**: Strawberry Tortle (NFR), Firefly (MFR), Llama (R), Ride-A-Pet Potion ×5 | **8ounty8um**: Giant Panda (FR) |
+| 10:30 | **johnpatricktasunci16**: Count Slothula ×14 | **love4shajeriaa**: 2022 Birthday Confetti Cannon |
+| 10:30 | **Santywut1**: Border Collie (FR) | **egedrn31**: Jousting Horse (NR), Lamb (FR) |
+| 10:30 | **clarisse_tubeuse**: Great Pyrenees (M) | **johnpatricktasunci16**: Count Slothula ×12 |
+| 10:30 | **CurryTheKoala**: Latte Kitsune (F) | **Bryce_blr**: Ride-A-Pet Potion ×3 |
+| 10:30 | **kworixx**: Villain Gibbon, Burger Bear (F) | **laur3star**: Ride-A-Pet Potion |
+| 10:30 | **FlickCod32015**: Gemstone Egg ×6 | **vivisam1100**: Lava Dragon (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
