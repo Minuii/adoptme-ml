@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 14:41 UTC by the scrape workflow._
+_Updated 2026-11-17 14:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 14:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 36,120 | 2026-11-17T14:30 |
-| elve | 7 | 7,615 | 2026-11-17T14:31 |
+| amvgg | 7 | 36,358 | 2026-11-17T14:45 |
+| elve | 7 | 7,648 | 2026-11-17T14:45 |
 
-## AMVGG completed trades: 28,194 total
+## AMVGG completed trades: 28,228 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 2,125 |
+| 2026-11-17 | 2,159 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 14:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:36 | **xikell**: Ride-A-Pet Potion | **4kbacod**: Mansion |
-| 14:36 | **milka_947536**: Sheeeeep (R), Ride-A-Pet Potion | **Jyyn30**: Christmas Pudding Pup (R) |
-| 14:36 | **bq1r_35**: Fly-A-Pet Potion | **adoptmefirefly5**: Liger (M) |
-| 14:36 | **elfiltx**: Dalmatian (FR), Chocolate Chip Bat Dragon (FR), Tiny Wings | **jypit0410j**: Chocolate Chip Bat Dragon (NFR) |
-| 14:36 | **jandabi2006**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **kisauuw**: Fallow Deer (R) |
-| 14:36 | **C2222BA**: Pupcicle (N), Pupcicle | **squ_evder**: Copycat |
-| 14:36 | **Tree092109**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **golovikovv**: Easter 2020 Egg, Fossil Egg ×2, Ocean Egg ×2, Fool Egg |
-| 14:36 | **KomaruDissapear**: 2022 Birthday Party Hat, Ride-A-Pet Potion | **Reizauer**: Turtle (FR) |
-| 14:36 | **starswirl_64**: Koi Carp ×4 | **nimalina463**: Ride-A-Pet Potion |
-| 14:36 | **mjay_alt02**: Frost Fury | **Axo1555I**: Fallow Deer (R) |
-| 14:36 | **inputw**: Crocodile (R) | **KomaruDissapear**: 2022 Birthday Party Horn, Ride-A-Pet Potion |
-| 14:36 | **DuckyMuffinz**: Ride-A-Pet Potion | **w1knet**: Admin Abuse Egg ×18 |
-| 14:36 | **HEYY_s162**: Binturong, Lynx | **24tyra**: Ginger Cat (M) |
-| 14:36 | **Maryha0243**: Unicorn | **pink_petalsakura**: Ride-A-Pet Potion |
-| 14:36 | **einxizz**: Mermicorn (R), Ride-A-Pet Potion | **itsme_claire000**: Mermicorn (FR) |
+| 14:45 | **uh_dulciee**: Chihuahua | **St4r1890241**: Unfortunate Eyelashes |
+| 14:45 | **Patriot0750**: Chocolate Chip Bat Dragon (FR) | **TwistedK1tty**: Turtle (FR), Cow (FR), Fly-A-Pet Potion, Phoenix (NR) |
+| 14:45 | **NastyaNerol**: Fly-A-Pet Potion ×2 | **LaraIphone16e**: Owlbear |
+| 14:45 | **ferrofl7**: Aestus (FR), Solaris | **Katie_proshkaa**: Ride-A-Pet Potion ×4 |
+| 14:45 | **flower_1851**: Ride-A-Pet Potion ×9 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 |
+| 14:45 | **MathildeFX924**: Sheeeeep (R) | **00ghoul_QwQ**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
+| 14:45 | **Fruit_Kittie**: Ride-A-Pet Potion | **lirvi_kiti**: Bunny Swirl |
+| 14:45 | **chxmistri**: Giant Panda (FR), Fairy Bat Dragon (R), Harp Seal (M) | **Amy_Anna268**: Border Collie (MFR) |
+| 14:45 | **Gabriele143love**: Pupcicle (MFR), Hippo (MR), Fly-A-Pet Potion | **Bunniixkayy**: Cow (FR) |
+| 14:45 | **bermido80**: Pet Handler Pro Certificate | **Katie_proshkaa**: Solaris |
+| 14:45 | **joee123514**: Munchkin Cat (M), Ride-A-Pet Potion ×2, Pink Cat Ear Headphones ×2 | **p9ssessed**: Copycat (MFR) |
+| 14:45 | **ZzzTrades7**: Giraffe (FR), Parrot (FR), Crow (FR) | **margo33249**: Shadow Dragon, Turtle (FR) |
+| 14:45 | **zeejnaa**: Glormy Leo (MFR) | **addmymainaccountokay**: Red Dutch Guinea Pig (MFR), Fly-A-Pet Potion |
+| 14:45 | **qlowtii**: Malaysian Tapir, Narwhal, Onza | **Calloway1738**: Indian Flying Fox |
+| 14:45 | **Reveknalt1**: Dragonfly ×18 | **qzeifnx_1**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
