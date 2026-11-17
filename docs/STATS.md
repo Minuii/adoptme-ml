@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 12:11 UTC by the scrape workflow._
+_Updated 2026-11-17 12:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 12:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 33,782 | 2026-11-17T12:00 |
-| elve | 7 | 7,004 | 2026-11-17T12:01 |
+| amvgg | 7 | 34,006 | 2026-11-17T12:15 |
+| elve | 7 | 7,076 | 2026-11-17T12:16 |
 
-## AMVGG completed trades: 27,674 total
+## AMVGG completed trades: 27,690 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,605 |
+| 2026-11-17 | 1,621 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 12:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:11 | **elyyz_sen**: Golden Walrus, Alicorn, Lunar Moon Bear, Lunar Gold Tiger, Tealwood Monster | **Its_soulseekk**: Fly-A-Pet Potion |
-| 12:11 | **Vitek_228666**: Cow (FR) | **TwistedK1tty**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
-| 12:11 | **dream_smp001**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **carlkilling**: Turtle (FR) |
-| 12:11 | **Ira_20086**: Pupcicle | **sashq_vmp**: Pupcake |
-| 12:11 | **biq_at222**: Pupcake (MR), White Sand Dollar (R) | **HEARTS4_MELAINE**: Chipmunk (MFR) |
-| 12:11 | **coralthefishh**: Ride-A-Pet Potion | **4striiii**: Cherry Blossom Flower Sticker ×18 |
-| 12:11 | **Croquinou_Lover**: Border Collie (R), Fly-A-Pet Potion | **kisauuw**: Albino Monkey (FR) |
-| 12:11 | **kworixx**: Kangaroo (FR) ×3, Kangaroo (NFR), Turtle (FR), Cow (FR), Siamese Cat (FR), Goose (FR), Diamond Butterfly (FR), Rain Cloud Hat | **enadalhade**: Frost Dragon (FR) |
-| 12:11 | **kworixx**: Swan, Buffalo (NR), French Fries Stroller | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
-| 12:11 | **Light_Moon8461**: Strawberry Shortcake Bat Dragon (R), Golden Unicorn | **nuggets0162**: Chocolate Chip Bat Dragon (FR) |
-| 12:11 | **kakashka_lol35**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6 | **fightergaming11**: Crocodile (R) |
-| 12:06 | **TheArticFox_0**: Ride-A-Pet Potion | **robloxer_3614**: Pink Designer Backpack, Flower Aura, Purple & Green Beads |
-| 12:06 | **TheArticFox_0**: Mr. Whiskerpips | **tapochek_Instasamki**: Love Letter |
-| 12:06 | **wx8zqxx**: Crow (FR), Diamond Butterfly (FR), Super Saru (MFR), Goose | **HyperChaseOrbit20052**: Tortoiseshell Guinea Pig (MFR) |
-| 12:06 | **ADoptytmedk**: Border Collie (MFR), Tiny Wings | **Alt_CeasedMuffin**: Owl (FR) |
+| 12:15 | **riskyactss**: Pupcicle ×2, Bobageist (N), Puptune | **k4yd0dislikesyou**: Golden Lettuce |
+| 12:15 | **Ilove_Yuqi38**: Stray Cat Dragon, Count Slothula | **Malvavisca_7w7**: Gemstone Egg ×2 |
+| 12:15 | **kworixx**: Princess Capuchin Monkey ×2 | **love_anime12393**: Ride-A-Pet Potion |
+| 12:15 | **MEL1TTIN**: Grim Dragon (R) | **Teddysalttamvgg**: Frostbite Bear |
+| 12:15 | **h4ppysunsh1ine**: Goose (FR), Goose (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Lila_Chanbibi**: Sugar Glider (NFR) |
+| 12:15 | **Xxxxashhhh**: Ride-A-Pet Potion, Pet Handler Pro Certificate ×2 | **Beachhouse1617**: Sheeeeep |
+| 12:15 | **Flashbook6**: Cryptid (NFR), Frost Dragon (FR), Glormy Hound (MFR), Jousting Horse (MFR), Parrot (FR), Copycat (N), Turtle (FR) | **Beachhouse1617**: Bat Dragon (FR) |
+| 12:15 | **Puda1950**: Diamond Dragon (N), Gold Mahi Mahi (M) | **Beachhouse1617**: Pet Handler Pro Certificate |
+| 12:15 | **kworixx**: Golden Ladybug, Golden Unicorn (R) | **3FFEGREEG**: Ride-A-Pet Potion |
+| 12:15 | **2001_Liza1**: Boohoo (M) | **JulianKHV**: Banana Hat |
+| 12:15 | **TradingInD**: Ice Cream Hermit Crab (MR) | **nainalt5**: Binturong (MFR), Boohoo (M), Albino Monkey (FR), Snowball Pet (NR), Ride-A-Pet Potion, Retired Egg ×4 |
+| 12:15 | **kworixx**: Unicorn, Lunar Gold Tiger (N) | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
+| 12:15 | **kworixx**: Chimera, Diamond Egg, Easter Bunny, Lunar Gold Tiger (N) | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
+| 12:15 | **Nastya2345981**: Magic House Door | **JuliaCat_Roblox1**: Cotton Candy Stand |
+| 12:15 | **milanakim12**: Crocodile (FR), Black Macaque (MFR) | **Kui_Yeager**: Puffer Fish (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
