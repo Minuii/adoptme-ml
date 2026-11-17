@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 07:25 UTC by the scrape workflow._
+_Updated 2026-11-17 07:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 07:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 29,664 | 2026-11-17T07:15 |
-| elve | 7 | 6,154 | 2026-11-17T07:16 |
+| amvgg | 7 | 29,873 | 2026-11-17T07:30 |
+| elve | 7 | 6,216 | 2026-11-17T07:31 |
 
-## AMVGG completed trades: 27,033 total
+## AMVGG completed trades: 27,045 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 964 |
+| 2026-11-17 | 976 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 07:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:30 | **ange1rbxxx_3**: Goose, Cabbit (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **Fox_13920**: Strawberry Shortcake Bat Dragon (FR) |
+| 07:30 | **HEARTS4_MELAINE**: Burger Boots | **icedmatchayummy**: Bready Necklace |
+| 07:30 | **F0xNinja**: Quetzalcoatl ×2, Purrowl, Glormy Crab | **rotpargamer**: Stray Cat Dragon (N) |
+| 07:30 | **gongseni**: Ride-A-Pet Potion | **muniradypa**: Hoverboard, Banana Car |
+| 07:30 | **Killersofgod8**: Parrot (FR), Unicorn Horn, Rain Cloud Hat, Pancake Stack ×2 | **ST3LL4_II**: Owl (FR) |
+| 07:30 | **Selenvay_Sakura**: Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon, Toaster Hat, Cow (FR) | **rowletgamig**: Frost Dragon (FR) |
+| 07:30 | **AsianIceCold**: Siamese Cat (R), Ride-A-Pet Potion, Criosphinx (N) | **byxxxxxanka**: Turtle (FR) |
+| 07:30 | **HEARTS4_MELAINE**: Fly-A-Pet Potion | **Coralmnm**: Burger Boots ×2 |
+| 07:30 | **K1MM007**: Hamster (MFR), Mighty Haetyphoon Animated Sticker | **SKIBIDITOILE_320**: Slime (NR) |
+| 07:30 | **Inganta07**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **camiilita_7w7**: Unicorn (NFR) |
+| 07:30 | **camiilita_7w7**: Latte Kitsune (NFR), Ride-A-Pet Potion, Fly-A-Pet Potion | **El_t1ntero**: Candicorn (FR) |
+| 07:30 | **JasonTheDemon_lol**: Vampire Dragon (NFR) | **chkhwu**: Cabbit (FR) |
 | 07:25 | **dsjquw72hs**: Blazing Lion (FR), Dalmatian (FR), Mini Pig, Fairy Bat Dragon | **BudakBaran7**: Frost Dragon (FR) |
 | 07:25 | **jokerako28**: Unicorn Horn, Fly-A-Pet Potion, Pet Handler Pro Certificate, Blue Cat Ear Headphones | **ii_aldrin20**: Sugar Glider |
 | 07:25 | **valentinaajuwu**: Samoyed (M) | **16y97**: Ride-A-Pet Potion ×2 |
-| 07:21 | **divinelybrxman**: Bat Dragon (FR), Arctic Reindeer (NFR), Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (NFR) | **Cinzsins**: Shadow Dragon (FR) ×2, Cryptid (FR) |
-| 07:21 | **FlyToTheSaturn**: Dolphin Cruiser, Hoverboard, Motorized Sofa, Clown Car, Lunar Muscle Car, Heart Hoverboard | **gongseni**: Fly-A-Pet Potion |
-| 07:21 | **dozyzen**: Flamingo (FR), Flamingo (R), Crocodile (FR), Crocodile (R), Kangaroo (FR), Copycat, Jester Dragon (R), Shrew (FR), Ride-A-Pet Potion | **yanchik0067**: Evil Unicorn (FR) |
-| 07:21 | **Rexgaang39**: Purrowl ×11 | **splashJuggernaut**: Ride-A-Pet Potion |
-| 07:21 | **super_dishik**: Koi Carp (N) | **Sadochok_456**: Ride-A-Pet Potion |
-| 07:21 | **luvyerh**: Shark Puppy (R) | **Yulik577**: Pig (FR) |
-| 07:21 | **WillowpillowpiggyWL**: Ride-A-Pet Potion | **gh0steddsoull**: Pretty Please Snowball Sticker, Well, Actually Walrus Sticker |
-| 07:15 | **Lekssa**: Siamese Cat (FR), Cow (FR) | **spakle3222**: Strawberry Shortcake Bat Dragon (FR) |
-| 07:15 | **amwhcvx0**: Golden Dragon (NFR), Ride-A-Pet Potion ×2 | **v6mpireeee**: Glormy Leo |
-| 07:15 | **HONEYPLIS**: Candyfloss Chick, Puffer Fish (MFR), Jester Dragon, Owlbear, Chimera (NR), Red Dutch Guinea Pig, Ride-A-Pet Potion, Lamb (R), German Shepherd (R), Koala (NR), Flaming Fox, Clover Cow (NR) | **WillowQueen593**: Candyfloss Chick (NFR) |
-| 07:15 | **Ooohllalaaa**: Ride-A-Pet Potion ×2, Cherub Chipmunk (M), Ruddy Duck (M), Three Blind Mice | **Phoenix_Goddess0**: Pupcicle ×3 |
-| 07:15 | **setta_x3**: Turtle (FR), Arctic Fox (FR), Pupcicle | **byxxxxxanka**: Cow (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
