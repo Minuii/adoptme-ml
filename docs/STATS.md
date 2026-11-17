@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 20:25 UTC by the scrape workflow._
+_Updated 2026-11-17 20:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 20:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 41,792 | 2026-11-17T20:15 |
-| elve | 7 | 8,897 | 2026-11-17T20:16 |
+| amvgg | 7 | 42,020 | 2026-11-17T20:30 |
+| elve | 7 | 8,954 | 2026-11-17T20:31 |
 
-## AMVGG completed trades: 29,439 total
+## AMVGG completed trades: 29,457 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,370 |
+| 2026-11-17 | 3,388 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 20:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:25 | **AlterrEg0o**: Cryptid (FR) | **higuysitskobe**: Sheeeeep (MFR) |
-| 20:25 | **domxlcqz**: Diamond Mahi Mahi, Thunderfisher ×2, Skelicorn, Purrowl, Retired Egg | **littlefelonies**: Chick Backpack |
-| 20:25 | **15xAuroa**: Firefly | **lowerbunny**: Ride-A-Pet Potion |
-| 20:25 | **Hobbylos_hoch10**: Unicorn Horn, Tiny Wings, Ride-A-Pet Potion, Caramelgeist (N) | **xGothiycx**: Cow |
-| 20:25 | **jhtdfbjiytvjib**: Evil Unicorn (FR) | **iiL1xzh**: Turtle (NFR), Goose (FR), Kangaroo (R) |
-| 20:25 | **carlitosuwuagua**: Mr. Whiskerpips (M), Fly-A-Pet Potion, Ride-A-Pet Potion | **999Luzy**: Tiny Wings |
-| 20:25 | **najla777777**: Munchkin Cat, Copycat, Ride-A-Pet Potion | **Yodkalike**: Candicorn |
-| 20:25 | **Amjelgamar21**: Stray Cat Dragon ×10 | **lowerbunny**: Ride-A-Pet Potion |
-| 20:25 | **Leck_aia181**: Halo, 2022 Birthday Cake, Tiny Wings, 2022 Birthday Confetti Cannon, Candicorn (MFR) | **StannyStarPets**: Border Collie (MFR) |
-| 20:25 | **Yourlocalpotato012**: Golden King Penguin, Golden Tortoise Beetle, Mexican Wolf (N), Stygian Owl (N) | **Rkuamgrh6**: Ride-A-Pet Potion |
-| 20:25 | **AGATONXO**: Christmas Pudding Pup (MFR), Hot Doggo (R) | **higuysitskobe**: African Wild Dog (FR) |
-| 20:25 | **p001torich**: Classic Trade Stand ×3 | **Yamenzoj**: Ride-A-Pet Potion |
-| 20:25 | **Attilafluffy16**: Mermicorn (FR), Cerberus (MFR) | **fluffyunicorns_932**: Ice Golem (MFR) |
-| 20:25 | **lolo_gils**: Pig (FR) ×2 | **MyloveTrzxvi**: Nessie (NFR) |
-| 20:25 | **junoblehh**: Dango Penguins (MFR), Christmas Pudding Pup (NR), Harp Seal (MFR), 2022 Birthday Cupcake Shoes | **KeineAhnungvonnix1**: Cryptid |
+| 20:30 | **Sunny_Frinch**: Candyfloss Chick (R), Ride-A-Pet Potion | **ONNYchiiwa**: Flamingo (FR) |
+| 20:30 | **Samu_7685**: Goose (R), Sugar Glider (FR), Jester Dragon | **gindiod**: Chocolate Chip Bat Dragon (FR) |
+| 20:30 | **malumabeibi_5454**: Zombie Wolf (MFR) | **kaibodydump**: Spring Bunny Hood, 2022 Birthday Party Horn, Tiny Wings |
+| 20:30 | **departedlifecrisis**: Tiny Wings, Strawberry Tortle (NR) | **Vluxbuy**: Fairy Bat Dragon (NFR), Border Collie (NR) |
+| 20:30 | **DuccNuclear**: Mighty Haetyphoon Animated Sticker | **littlefelonies**: Solaris Animated Sticker |
+| 20:30 | **brbrpatapimmm310**: Ice Wolf, Stray Cat Dragon (M), Dango Penguins, Christmas Pudding House, Retired Egg, Ratatoskr (MR), Love Bird, Santa's Bow, Water Moon Bear (N), Amami Rabbit, Turtle Doves (MR) | **knifeandfork_99**: Naughty Mistletroll (NR) |
+| 20:30 | **Paletazow**: African Wild Dog (MFR), Crow (FR) | **Jay_basealters**: Blazing Lion (MFR) |
+| 20:30 | **v6mpireeee**: Ride-A-Pet Potion | **1qeers**: Chocolate Chip Bat Dragon Backpack |
+| 20:30 | **Amvgguserfortrades**: Arctic Reindeer (FR), Pig (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **NotSweatyOnion**: Dalmatian (FR) |
+| 20:30 | **NotSweatyOnion**: Copycat (NFR), Kangaroo (R), Cow (FR), Ride-A-Pet Potion | **Stxriiko**: Dalmatian (FR) |
+| 20:30 | **crybabydoIl**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Dyra_228050**: Matcha Cat |
+| 20:30 | **HRIIIS616**: Octopus (NFR), Ice Cream Hermit Crab | **userulikk**: Fly-A-Pet Potion ×3, Butter Knife |
+| 20:30 | **13_erty5**: Candyfloss Chick (NFR) | **ViscaBarca_44**: Arctic Reindeer (FR) |
+| 20:30 | **onyx11414**: Bakeneko (M) | **rainbow28546**: Ride-A-Pet Potion |
+| 20:30 | **Banquitogamer025**: Pupcake (NR) | **rainbow28546**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
