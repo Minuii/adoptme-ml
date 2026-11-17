@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 05:45 UTC by the scrape workflow._
+_Updated 2026-11-17 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 05:45 UTC by the scrape workflow._
 | amvgg | 7 | 28,361 | 2026-11-17T05:45 |
 | elve | 7 | 5,890 | 2026-11-17T05:45 |
 
-## AMVGG completed trades: 26,869 total
+## AMVGG completed trades: 26,893 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 800 |
+| 2026-11-17 | 824 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 05:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:45 | **PolinaPlayMini**: Rubber Ducky (M), Black Rhino (M), Bolt (N), Cat (NR) | **lalalalavec**: Ride-A-Pet Potion |
-| 05:45 | **akeks_74**: Kangaroo (FR), Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **odading12318**: Cow (FR) |
-| 05:45 | **Trixcaughtlackin**: Goose, Cow (R), Dalmatian (FR) | **faikubjotch**: Aurora Fox (MFR), Aurora Fox (NFR) |
-| 05:45 | **ANNADOG444**: Ride-A-Pet Potion | **ppomkoo**: Pupcake (R) |
-| 05:45 | **Panci_Terbang33**: Ride-A-Pet Potion ×10, Pet Handler Pro Certificate ×3 | **GranTakeshi**: Candicorn (FR) |
-| 05:40 | **PolinaPlayMini**: Kiwi Kiwi, Happy Duckling | **Anshika674**: Ride-A-Pet Potion |
-| 05:40 | **jeffreystarleaks**: Owl (NFR), Parrot, Mini Pig (FR), Mini Pig (R), Goose (FR) | **brilexyy**: Giraffe (NFR) |
-| 05:40 | **AmAmHardi**: Candicorn (NFR), Candicorn (NR) ×3, Fly-A-Pet Potion | **leruval**: Parrot (FR) |
-| 05:40 | **ethohkjalt**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×2 | **mikzenn1**: Mini Pig (FR), Cow |
-| 05:40 | **vcloss**: Cupid Dragon (NFR), Cabbit, Ring-Tailed Lemur ×5, Scarebear (N), Kelp Raider (MFR), Fly-A-Pet Potion ×9 | **gavinOMG_66**: Meerkat (MFR) |
-| 05:40 | **0o0Username0o0**: Aye Aye (MR) | **itz_arabkap**: Ride-A-Pet Potion |
-| 05:40 | **TwixTw1x**: Turtle (NFR), Kangaroo (NFR) | **H3ART5SS**: Arctic Fox (MFR) |
-| 05:40 | **Kxxr9**: Turtle (FR) ×3, Turtle (NFR), Strawberry Shortcake Bat Dragon (FR), Peppermint Penguin (FR), Flamingo (FR), Tiny Wings, Ride-A-Pet Potion | **Alexey_Vi**: Hedgehog (FR), Dalmatian (FR), Chocolate Chip Bat Dragon (FR) |
-| 05:40 | **Wolfie4567ty**: Glormy Leo (FR) | **PixiePawsTrade**: Ride-A-Pet Potion ×4 |
-| 05:40 | **profrog117**: Ride-A-Pet Potion | **Antonipes**: Frosty Glow Mega Neon Paint |
+| 05:55 | **Esikiiomuru**: Cabbit | **H111VZ**: Caterpillar (R), Kangaroo |
+| 05:55 | **SoloGhost442149**: Ballet Swan | **blobxxfish**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion |
+| 05:55 | **XxStormCircuitEaglex**: Pandaguin Glooptodog (M) | **kelsey_1815**: Fly-A-Pet Potion |
+| 05:55 | **XxStormCircuitEaglex**: Mummy Spider (M) | **kelsey_1815**: Ride-A-Pet Potion |
+| 05:55 | **ARKIN_gamingChannel1**: Turtle (FR), Vampire Dragon (FR) | **carolzinhac2009**: Cow (R) |
+| 05:55 | **nightikran**: Unicorn (NFR), Kitsune (NFR), Jester Dragon (FR), Candy Hare, Snow Owl (F), Mrs. Whiskerpips (N), S'mores Raccoon | **Cha13ty**: Kangaroo (FR) |
+| 05:55 | **Crims0n_Dusk**: Munchkin Cat (MFR), Turtle (FR), Great Pyrenees (MR), Puffer Fish (NFR), Swan (MFR), Crocodile (NFR), Shrew (NR), Peppermint Penguin, Candicorn | **anyonecanwish**: Frost Dragon (FR) |
+| 05:55 | **Twinklingstar30**: Balloon Unicorn (FR), Sugar Axolotl, Chocolate Dutch Guinea Pig | **wwjd2344**: Candicorn (NFR), Hot Doggo, Goose (FR), Snowball Pet (MR), Flower Power Duckling (MR), Pumpkin Friend (M), Amami Rabbit (MR) |
+| 05:55 | **ellielielielieee**: Spring Bunny Feet ×3 | **lol115783**: Spring Bunny Hood |
+| 05:55 | **Unknown_Entity1213**: Owl (FR), Cow (NFR), Ride-A-Pet Potion | **xxcrunchy8785xx**: Frost Dragon (FR), Tiny Wings |
+| 05:55 | **Pancakes7240**: Groundhog (MFR) | **vcloss**: Turtle (NFR), Alpaca ×2, Fly-A-Pet Potion ×5 |
+| 05:55 | **AkiraKeyni**: Ride-A-Pet Potion ×5 | **ArymeawB3**: Fly-A-Pet Potion ×3 |
+| 05:55 | **wldnsdlrnldudna**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×5 | **odading12318**: Kangaroo (R) |
+| 05:55 | **Panci_Terbang33**: Candicorn (FR) | **Babyofy5**: Moonbeam Butterfly (FR), Moonbeam Butterfly (R) ×2, Moonbeam Butterfly ×8 |
+| 05:55 | **Omar2002548**: Werewolf (FR) | **Babyofy5**: 2D Kitty ×6, Astronaut Gorilla, Capricorn, Golden Chow-Chow ×2, Hero Gibbon, Moonbeam Butterfly (FR), Pineapple Owl, Prismatic Butterfly (R), Skele-Rex (R) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
