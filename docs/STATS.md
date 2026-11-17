@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 03:11 UTC by the scrape workflow._
+_Updated 2026-11-17 03:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 03:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 25,770 | 2026-11-17T03:00 |
-| elve | 7 | 5,431 | 2026-11-17T03:01 |
+| amvgg | 7 | 26,003 | 2026-11-17T03:15 |
+| elve | 7 | 5,486 | 2026-11-17T03:16 |
 
-## AMVGG completed trades: 26,558 total
+## AMVGG completed trades: 26,568 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 489 |
+| 2026-11-17 | 499 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 03:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:15 | **flawless_bowdown**: Thunderfisher (M) | **Lindaunicornio30990**: Ride-A-Pet Potion |
+| 03:15 | **bytsaremyfavourute**: Balloon Unicorn (FR), Goose, Cabbit | **yuri_dragon32**: Field Mouse (MFR), Alley Cat (MFR), Alpaca (FR), Ice Cream Cone Hat, Tiny Wings |
+| 03:15 | **lusui_bober**: Milk Choccybunny (M), Shoebill (N), Stitches, Glormy Crab, Alicorn ×4 | **Bravo_Avocado**: Ride-A-Pet Potion |
+| 03:15 | **Panci_Terbang33**: Pupcicle | **hazels_alt6815**: White Choccybunny (M), Milk Choccybunny (M) |
+| 03:15 | **mati08proo**: Chihuahua (N) | **ash_isofflinexLuvs**: Ride-A-Pet Potion ×2 |
+| 03:15 | **Babyofy5**: Ram ×3, Mini Schnauzer ×2, Puffer Fish ×2, German Shepherd ×2, Brown Springer Spaniel, Alley Cat ×3, Vanilla Penguin ×2, Axolotl, Chocolate Dutch Guinea Pig (R), Yule Log Dog | **Gabrielotalamejors0**: Sugar Glider |
+| 03:15 | **luvyerh**: Hot Doggo (FR) | **Wolfie4567ty**: Cow (FR), Fly-A-Pet Potion |
+| 03:15 | **lexcor3**: Bat Dragon (FR), Giant Cheetah Mount | **forneonblazinglion**: Parrot (FR), Hot Doggo (MFR), Jellyfish (MFR), Munchkin Cat (NFR), Alpaca (FR), Haetae (R) |
+| 03:15 | **honeydew_pancakes101**: Rain Cloud Hat | **Belen7267**: Copycat ×2, Ride-A-Pet Potion ×2 |
+| 03:15 | **GigiSP222**: Samoyed (M), Stitches (M) | **Panci_Terbang33**: Fly-A-Pet Potion, Ride-A-Pet Potion |
 | 03:11 | **adorbsxmozzi**: Cattuccino, Castle Hermit Crab | **Rainy_rarr**: Stitches (N) |
 | 03:11 | **FlyToTheSaturn**: Balloons, Marsh Plush, Octopus Plush, Caticorn Rattle, Banana Pogo, Turkey Plush, Heart Balloon, Dragon Balloon, Ornament Throw Toy, Cymbal Ingredient, Cookie Dough Plush ×2, Candle ×3, Sleigh Bells Rattle ×3 | **Kirikocutie8**: Fly-A-Pet Potion |
 | 03:11 | **Ryumiizz**: Turtle (NFR) ×2, Hyena, Turkey (R), Ride-A-Pet Potion, Bunny Swirl (N) | **squirtle_Adoptmemi**: Evil Unicorn (FR) |
 | 03:11 | **M1dnight_v0id52**: Ram (MFR), Tuxedo Cat (M), Corn Doggo (MFR) | **idk_girl537**: Groundhog (MFR) |
 | 03:11 | **mati08proo**: Sea Turtle ×3, Moon Bear Box ×3 | **themudwizard**: Ride-A-Pet Potion |
-| 03:11 | **Lemonadesweer1**: Siamese Cat, Great Pyrenees (MFR) | **limohq**: Halo |
-| 03:11 | **xXNarynaryXx**: Parrot (FR), Halo, Cupid Dragon (FR) | **alimohamd00**: Owl (FR) |
-| 03:11 | **Polina0_queen9**: Moon Bear Box, Aberdeen Angus Box, Oakee Box ×14, Rubber Ducky Box ×2 | **Wxndxrxt**: Ride-A-Pet Potion |
-| 03:11 | **honiipi**: Propeller Hat, Rain Hat | **GigiSP222**: Spring Bunny Nose |
-| 03:06 | **relaxingscenery**: Pancake Stack | **caroesel**: Fly-A-Pet Potion |
-| 03:00 | **drakocomico2**: Pig, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate, Ride-A-Pet Potion ×3 | **mariema454**: Kangaroo (FR) |
-| 03:00 | **electrolytia**: Giant Anteater (NFR), Bush Elephant (FR), Astronaut Gorilla (R) | **playsfordays05**: Blue Dog (NFR) |
-| 03:00 | **chip40060**: Dragonfruit Fox | **Themr_harlen0220**: Ride-A-Pet Potion ×2 |
-| 03:00 | **bwm_sg**: Parrot (MFR) | **cazzy123abc**: Bat Dragon (FR) |
-| 03:00 | **bolzani001111**: Flash Weasel ×14 | **cazzy123abc**: Owl (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
