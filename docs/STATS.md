@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 04:55 UTC by the scrape workflow._
+_Updated 2026-11-17 05:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 04:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 27,448 | 2026-11-17T04:45 |
-| elve | 7 | 5,710 | 2026-11-17T04:45 |
+| amvgg | 7 | 27,656 | 2026-11-17T05:00 |
+| elve | 7 | 5,759 | 2026-11-17T05:01 |
 
-## AMVGG completed trades: 26,777 total
+## AMVGG completed trades: 26,801 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 708 |
+| 2026-11-17 | 732 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 04:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:55 | **Marvinbbxd**: Honey Badger (MFR), Cow (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **sunpnkk**: Haetae (FR) |
-| 04:55 | **muhuwn**: Fly-A-Pet Potion ×7 | **wh1mzical**: Tortoiseshell Guinea Pig |
-| 04:55 | **heluvssrmx**: Munchkin Cat (N), Fly-A-Pet Potion | **Emanuel_funao**: Copycat (N), Highland Cow (MFR) |
-| 04:55 | **Junjyungg**: Balloon Unicorn (FR), Sheeeeep (R), Tiny Wings, Fly-A-Pet Potion ×3 | **xxXchange_Vibe**: Parrot (FR) |
-| 04:55 | **vaIxhrtz**: Peppermint Penguin (R), Pink Cat (NFR), Polar Bear (NR), Ibis (MR) | **faikubjotch**: Flash Weasel ×5 |
-| 04:55 | **Sofem319**: Goldfish (N), Magma Moose | **Mica6g3**: Ride-A-Pet Potion |
-| 04:55 | **mior5183**: Cupid Dragon (FR) | **einxizz**: Aurora Fox (FR) |
-| 04:55 | **Cherridoll76**: Peppermint Penguin (NFR) | **Cinzsins**: Glacier Kitsune (MFR), Pet Handler Pro Certificate ×3, Spring Bunny Hood |
-| 04:55 | **FlyToTheSaturn**: Celebrity Mansion | **icequeenmaemae**: Fly-A-Pet Potion |
-| 04:55 | **yesterboni0**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×4 | **Sirswagalishsus**: Turtle (FR) |
-| 04:55 | **toxicdude32546**: Cow (MFR), 2022 Birthday Party Hat, Spring Bunny Hood, Phoenix (MFR), Kangaroo (R), Fly-A-Pet Potion | **kaylamicmi**: Frost Dragon (FR) |
-| 04:55 | **crestfallenteddy**: Flaming Fox (N), Ride-A-Pet Potion ×3 | **Terranese**: Dango Penguins (NFR) |
-| 04:55 | **Fourcast008**: Moon Rabbit (MFR), Christmas Pudding Pup (MFR), Naughty Mistletroll (MFR), Ballet Swan (MFR), Polar Bear (MFR), Wooly Rhino (MFR), Catte (MFR) | **awfulbrant**: Strawberry Shortcake Bat Dragon (MFR) |
-| 04:50 | **TMDung20**: Evil Unicorn (FR) ×4 | **MouldySugar5080**: Royal Mistletroll (MFR) |
-| 04:45 | **yesterboni0**: Bat Dragon (FR) ×3, African Wild Dog (FR), Evil Unicorn (FR) | **elvetradingxd**: Shadow Dragon (MFR) |
+| 05:00 | **sleepy_s0ren**: Candy Cannon | **federicospzgamesyt**: Owl (FR) |
+| 05:00 | **Kristina_12k1**: Turtle (FR), Siamese Cat (R) | **bell_flowers**: Arctic Dusk Dragon (NFR), Arctic Fox (NFR) |
+| 05:00 | **Kristina_12k1**: Turtle (FR) | **copyvoting**: Arctic Fox (NR), Ride-A-Pet Potion |
+| 05:00 | **Lqvari**: Ride-A-Pet Potion ×13 | **Sirswagalishsus**: Fly-A-Pet Potion ×7 |
+| 05:00 | **Vqntaii**: Pupcake (NR) | **ANNADOG444**: Fly-A-Pet Potion |
+| 05:00 | **Shzxvr**: Dalmatian (FR), Hedgehog (FR) | **lkmsdfw**: Parrot (FR) |
+| 05:00 | **cazzy123abc**: Glormy Leo (MFR) | **vcloss**: Turtle (NFR), Mermicorn (FR), Heart Stroller, Dracula Parrot (M), Snowball Pug (M) |
+| 05:00 | **Fibe32**: Strawberry Shortcake Bat Dragon (FR), Peppermint Penguin (FR) | **ange_xd121245**: Christmas Pudding Pup (MFR) |
+| 05:00 | **trialbunny**: Werewolf (FR), Cherry-On-Top, 2022 Birthday Confetti Cannon, Alpaca (FR) | **Pancakes7240**: Ballet Swan (MFR) |
+| 05:00 | **asdshfshs**: Owl (MFR), Peppermint Penguin (MFR), Glyptodon (MFR), Ride-A-Pet Potion, Snow Monkey | **Mar56060**: Bat Dragon (NFR) |
+| 05:00 | **Vanlyzn26**: Crystal Egg ×14 | **Antonipes**: Ride-A-Pet Potion |
+| 05:00 | **Mel0_170**: Arctic Reindeer (FR), Siamese Cat (MFR), Rainbow Maker | **DoughnutDucks**: Frost Dragon (FR) |
+| 05:00 | **bakedpotatochiips**: Groundhog (MFR), Fairy Bat Dragon (R), Dango Penguins (N) | **Daguirs41**: Field Mouse (MFR) |
+| 05:00 | **12emanuel07**: Ride-A-Pet Potion ×2 | **gjfurgd1234**: Soccer Stadium |
+| 05:00 | **Ashdorae**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Epic777378**: Goat (R) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
