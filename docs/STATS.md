@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 12:40 UTC by the scrape workflow._
+_Updated 2026-11-17 12:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 12:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 34,222 | 2026-11-17T12:30 |
-| elve | 7 | 7,127 | 2026-11-17T12:31 |
+| amvgg | 7 | 34,436 | 2026-11-17T12:45 |
+| elve | 7 | 7,155 | 2026-11-17T12:45 |
 
-## AMVGG completed trades: 27,757 total
+## AMVGG completed trades: 27,795 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,688 |
+| 2026-11-17 | 1,726 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 12:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:36 | **stella_gotfame**: Dragon | **Exleer**: Retired Egg ×4 |
-| 12:36 | **Sasha_CAXAROK**: Spring Bunny Hood ×2, Fallow Deer (NFR) | **rightygf_343**: Copycat (N) |
-| 12:36 | **HAPPY_HAMBLE**: Frost Dragon (FR), Blazing Lion (FR) | **disyvx**: Giraffe (FR), Ride-A-Pet Potion |
-| 12:36 | **ash1merskk**: Bobageist, Halloween Evil Dachshund, Turtle Doves, Rat, Stitches, Ginger Cat, Royal Fairytale Egg, Little Lamb (N) | **Bumble_bea20215**: Ride-A-Pet Potion |
-| 12:36 | **arturo7pose12345**: Skelicorn ×8 | **Bumble_bea20215**: Ride-A-Pet Potion |
-| 12:36 | **hmmhh8**: Cryptid (FR), 2022 Birthday Party Horn, Mini Pig (FR) | **Austa_675**: Parrot (FR) |
-| 12:36 | **vichulya**: Golden Ladybug (R), Unicorn (R), Snow Monkey | **Rimenyi**: Ring-Tailed Lemur (R) |
-| 12:36 | **seb_ihhh**: Count Slothula (MFR) | **keeper_l1ght**: Candicorn (FR) |
-| 12:36 | **jayjay080309**: African Wild Dog (FR) | **Bismuth234**: African Wild Dog (R), Ride-A-Pet Potion |
-| 12:36 | **snula33**: Snowball Pet (MR), Drake (R) | **abdoosaad**: Rain Cloud Hat |
-| 12:36 | **abdoosaad**: Copycat | **ItzAina_JPN**: Skunk (M), Cheetah |
-| 12:36 | **ILOVEcookie56738**: Pupcicle (R), Stygian Owl (MR) | **yanahaltacc1**: Chihuahua (N) |
-| 12:36 | **arina_kir2**: Pig (R), Shrew, Fly-A-Pet Potion | **stegosaurs_4**: Elephant (FR) |
-| 12:36 | **sherifffries3**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **TheArticFox_0**: Tortuga de la Isla |
-| 12:36 | **growagaeden54**: Winter Fawn (MFR), Sheeeeep | **xyza_starsmonica**: Aurora Fox (FR) |
+| 12:45 | **TheOfficialAesthetic**: Hot Doggo (NFR) | **sequo1_a**: Cryptid (FR) |
+| 12:45 | **Inganta07**: Fly-A-Pet Potion | **Cat_dog8517**: Cerberus (R) |
+| 12:45 | **lizzythebest6767**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **artloveraa1**: Frost Dragon (FR) |
+| 12:45 | **ket_girl467**: Ride-A-Pet Potion | **mm2Aria1234510**: Pupcicle |
+| 12:45 | **zxl0106**: Cryptid (FR) | **TrainerKevin2000**: Amethyst Penguin (FR) |
+| 12:45 | **yexzvni**: Ride-A-Pet Potion, Stray Cat Dragon (N) | **elsxhs**: Puptune (NR) |
+| 12:45 | **Youdi_off**: Fly-A-Pet Potion ×18 | **Xxxxashhhh**: Pet Handler Pro Certificate ×18 |
+| 12:45 | **elyyz_sen**: Kangaroo (FR), Fly-A-Pet Potion ×3 | **kisauuw**: Turtle (FR) |
+| 12:45 | **Amvggtrad3r**: Chocolate Dutch Guinea Pig (MFR), Banana Hat | **PrettyxDino**: Swan (MFR) |
+| 12:45 | **PixiePawsTrade**: Stray Cat Dragon ×18 | **1vikamillk**: Ride-A-Pet Potion ×2 |
+| 12:45 | **510478**: Strawberry Tortle (MFR), Alpaca (MFR), Unicorn Horn | **Rbd_JP**: Bat Dragon (FR) |
+| 12:45 | **PureVanilka0**: Shih Tzu (M), Water Moon Bear, Nebula Snake, Thunderfisher, Tegu (N), Pinkypillar (N), Ms. Muffet (N), Princess Mare (N) | **GEMYU900**: Ride-A-Pet Potion |
+| 12:45 | **ilyzea05**: Ghostly Cat (N) | **Lotusnaceae**: Catte |
+| 12:45 | **Rimenyi**: Golden Unicorn (FR) | **Cattychiee**: Unicorn |
+| 12:45 | **AlyonaTheLove**: Golden Griffin (R), Metal Ox (R), Endangered Egg ×6 | **xoxsasha0**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
