@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 09:01 UTC by the scrape workflow._
+_Updated 2026-11-17 09:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 09:01 UTC by the scrape workflow._
 | amvgg | 7 | 31,149 | 2026-11-17T09:00 |
 | elve | 7 | 6,449 | 2026-11-17T09:01 |
 
-## AMVGG completed trades: 27,201 total
+## AMVGG completed trades: 27,225 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,132 |
+| 2026-11-17 | 1,156 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 09:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:00 | **hisforeverndalways**: Tortoiseshell Guinea Pig (FR), Ride-A-Pet Potion ×3 | **K1MM007**: Mushroom Friend (MFR) |
-| 09:00 | **cheeskake13**: Lamb (MFR) | **nilajlolxd**: Moon Rabbit (MFR), Amami Rabbit (MFR), Pancake Stack, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 09:00 | **FlyToTheSaturn**: Chocolate Dutch Guinea Pig | **kneesurgeryreminder**: Fly-A-Pet Potion |
-| 09:00 | **Valerieumie**: Goose (FR), Werewolf (R), Candicorn (R), Crocodile (R), Munchkin Cat (FR), Munchkin Cat (R), Jester Dragon, Ballet Swan | **Ob3sityPhobia**: Cryptid (FR) |
-| 09:00 | **ambersugoi**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion, Three Blind Mice | **Sirswagalishsus**: Midnight Dragon (FR) |
-| 09:00 | **Inganta07**: Fly-A-Pet Potion, Lemonade Stand | **kokos2280014**: Cerberus (FR) |
-| 09:00 | **NOBODYknows_1100**: Cabbit (FR), Siamese Cat (FR), Candicorn (FR), Copycat (FR), Jellyfish (FR), Jester Dragon, Harp Seal (MR), Frostbite Cub (MR), Maine Coon (MR), German Shepherd (NFR), Panda (NFR), Snowball Pug (M), Sushi Penguin (N), Pancake Stack, Spring Bunny Hood, Ride-A-Pet Potion | **Chris_1998years**: Giant Panda |
-| 09:00 | **Aurora07266**: Fly-A-Pet Potion | **Ggyyuhhhj**: Bunny Stroller |
-| 09:00 | **testing_noob101**: Fairy Bat Dragon (FR) ×2, Copycat | **Mwlexxs**: Strawberry Shortcake Bat Dragon |
-| 09:00 | **TsukiakariShirayuki**: Ride-A-Pet Potion ×3 | **werlianess**: Dancing Dragon (FR) |
-| 08:55 | **Cloudmilks**: Ride-A-Pet Potion | **0Sinem_0**: Pupcicle |
-| 08:55 | **Luvbambii**: Flash Weasel, Unicorn | **Donutcat679**: Rain Cloud Hat |
-| 08:55 | **Scphiaaxbxdcr**: Fly-A-Pet Potion, Spring Bunny Feet, Pupcicle | **THEyuksterrr**: River Otter (M), Pudding Cat (N), Cake Friend, Sushi Penguin |
-| 08:55 | **quVare_PDF**: Lavender Dragon (NR), Vanilla Penguin (N), Ride-A-Pet Potion, Ox Box | **floatiinqz**: Flash Weasel (R) |
-| 08:55 | **Wxndxrxt**: Pain au Chat ×2, Gibbon ×2, Oakee Wizard | **kanekixklxster**: Crystal Egg ×17 |
+| 09:11 | **as_ishere**: Turtle (R) | **shadow82172sad**: Pig ×2, Copycat (R) |
+| 09:11 | **kelsey_1815**: Gold Circle Glasses, Rabbit ×5, Retired Egg ×10 | **sandyneapolitancat**: Gumball Caterpillar (N), Pomeranian (N), Bunny (N), Thunderfisher ×4, Electric Hornet |
+| 09:11 | **kanekixklxster**: Pain au Chat ×5 | **melondebbieoliver**: Fly-A-Pet Potion |
+| 09:11 | **babyaIxdr**: Velocirooster | **alexgameminecraft**: Skelicorn (MFR) |
+| 09:11 | **lnH3II**: Catte (N), Ride-A-Pet Potion ×2, Cattuccino ×3, Electric Tide Mega Neon Paint | **MrColinBlox**: Cattuccino (M) ×2, Pain au Chat (N) |
+| 09:11 | **beatsvic**: Capricorn (MFR), German Shepherd (MFR), Volcanic Rhino (MFR), Firefly (MFR), Goldhorn (MFR), Leopard Shark (MFR), Toy Monkey (MFR), Spinosaurus (MFR), Chef Gorilla (MFR), Ram (MFR) | **aavqaii**: Fairy Bat Dragon (MFR) |
+| 09:11 | **dethxhellgrl**: Ride-A-Pet Potion | **LubiVladaA4**: Retired Egg ×18 |
+| 09:11 | **Fan_Bogatyrat**: Cow (FR) ×2, Apple Owl | **Reterirbair1989**: Arctic Reindeer (FR) |
+| 09:11 | **Crystal_andLisa**: Cracked Egg ×6 | **XianYunLove**: Purrowl |
+| 09:11 | **ferrofl7**: Bandicoot ×5, Dingo ×5, Jumping Spider ×4, Starfish (N), Toucan (N) | **xq0vlis**: Ride-A-Pet Potion |
+| 09:11 | **FlickCod32015**: Gemstone Egg ×11 | **LI42W**: Matcha Cat |
+| 09:11 | **hduwkso**: Amethyst Skies Mega Neon Paint, Ride-A-Pet Potion | **PlayOfHappy**: Rose Quartz Glow Mega Neon Paint |
+| 09:11 | **kneesurgeryreminder**: Ride-A-Pet Potion, Bat (N) | **Sillykily0**: Chocolate Dutch Guinea Pig |
+| 09:11 | **UwwUw2009**: Haetyphoon, Bauble Buddies (NR), Capricorn (FR), Kitty Biscuit ×3, Stray Cat Dragon (N) ×2, Choco Penguin (R), Skelicorn (N) ×2, Patchy Bear (NR), Malaysian Tapir (NR) | **thatsadfreak**: Frostbite Bear |
+| 09:11 | **fyfybaby684**: Burger Bear (N) | **Niruch_Bearly**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
