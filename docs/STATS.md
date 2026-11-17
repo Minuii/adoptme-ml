@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 19:31 UTC by the scrape workflow._
+_Updated 2026-11-17 19:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 19:31 UTC by the scrape workflow._
 | amvgg | 7 | 41,121 | 2026-11-17T19:30 |
 | elve | 7 | 8,744 | 2026-11-17T19:31 |
 
-## AMVGG completed trades: 29,256 total
+## AMVGG completed trades: 29,285 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,187 |
+| 2026-11-17 | 3,216 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 19:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:30 | **UvU_gg6**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **2creme1sucre**: Matcha Cat |
-| 19:30 | **simplyxarv**: Rain Cloud Hat, Pancake Stack, Propeller Hat, Ride-A-Pet Potion | **Blinxcool**: 2022 Birthday Cake |
-| 19:30 | **looter_love**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×2, Copycat | **Giulia_SatoruPs4**: Haetyphoon (FR) |
-| 19:30 | **fishymiss_y**: Black-Footed Ferret (M), Retired Egg | **Fiolka_67**: Ride-A-Pet Potion |
-| 19:30 | **mofncufjs**: Unicorn ×2, Dragon | **Kyza_222222223**: Fly-A-Pet Potion |
-| 19:30 | **ziggylili0**: Frost Dragon (FR), Pig, Ride-A-Pet Potion | **m1xa_0**: Jellyfish (MFR), Shark Puppy (MFR) |
-| 19:25 | **KotMonster7**: Chocolate Chip Bat Dragon (FR) | **DASA_VAVAVA676767**: Peppermint Penguin (FR), Crocodile (R), Christmas Pudding Pup (R) ×2, Pupcicle, Ride-A-Pet Potion ×6, Glamicorn Purse Pet, Unfortunate Eyelashes, Flying Fairy |
-| 19:25 | **Halseyrs**: Ride-A-Pet Potion | **itsevik**: Ram |
-| 19:25 | **ruinedbleeded**: Ride-A-Pet Potion ×2 | **Chase_34796**: Dango Penguins |
-| 19:25 | **kamila580011**: Stray Cat Dragon (N), Onza (N), Starfish (N), Mrs. Whiskerpips (N), Pomeranian | **robloxiana_79943**: Ride-A-Pet Potion |
-| 19:25 | **aydachan200311**: Ride-A-Pet Potion ×7 | **Johnkurt0628**: Fly-A-Pet Potion ×4 |
-| 19:25 | **Pierro0_0hehe**: Copycat ×2, Ride-A-Pet Potion | **Cassiusc68**: Tortoiseshell Guinea Pig |
-| 19:25 | **SierraPlayzADM**: Retired Egg ×15 | **leen_yyyus**: Diamond Mahi Mahi (N) |
-| 19:25 | **Sunny_Frinch**: Hedgehog (FR), Peppermint Penguin (R) ×2, Crocodile (FR) | **Only_Gio123**: Parrot (FR) |
-| 19:25 | **Amjelgamar21**: Stray Cat Dragon ×10 | **starswirl_64**: Ride-A-Pet Potion |
+| 19:41 | **Sunny_Frinch**: Copycat (R) | **meowchic0**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 |
+| 19:41 | **kroko182**: African Wild Dog (FR), Toaster Hat | **jayjay080309**: Balloon Unicorn (FR) |
+| 19:41 | **Jellybeans_8789**: Schoolhouse Home, Chocolate Chip Bat Dragon, 2022 Birthday Cake, Tortoiseshell Guinea Pig | **0MORKOVOCHKA0**: Cryptid |
+| 19:36 | **Gfrgzfjktfiftzff**: Skelicorn | **NotHereAtTheMomen**: Stray Cat Dragon |
+| 19:36 | **iluvkhattafya**: Fly-A-Pet Potion | **hdveel66**: Pet Handler Pro Certificate |
+| 19:36 | **tokyo_scream**: Jellyfish, Silverback Gorilla, Banana Hat | **ZeeePenguinn**: Haetyphoon |
+| 19:36 | **Skz_bts176**: Munchkin Cat (NFR), Munchkin Cat (FR), Rain Cloud Hat | **momoboys951**: Rainbow Maker |
+| 19:36 | **thyum_56**: Mermicorn, Jester Dragon, Brown Bear (R) | **mandarinkatenka3**: Peppermint Penguin |
+| 19:36 | **mxrgan66**: Candyfloss Chick (NFR), Swan (NFR), Puffin | **werlianess**: Cabbit (NFR) |
+| 19:36 | **OJC_Star45**: Count Slothula | **wvuqil**: Cake Friend |
+| 19:36 | **wafy_3mk**: Kappakid (M) ×4 | **stefkazzz**: Kangaroo (FR) |
+| 19:36 | **Kvvaczucha**: Cracked Egg ×8 | **Sianacooll**: Fairytale Egg ×4 |
+| 19:36 | **sushiunicorn170**: Unicorn | **Puppylover227331**: Cow Loves This Sticker |
+| 19:36 | **virtualkiyotee**: Cryptid (R) | **ImANiceDude_J**: Matcha Cat (FR), Silly Duck (NFR), Munchkin Cat, Tortoiseshell Guinea Pig, Ice Cream Cone Hat, Unicorn Horn, Moon Rabbit (MR), Pupcicle (NR), Caterpillar (FR), Caterpillar (R), Vanilla Penguin, Count Slothula, Bunny Swirl |
+| 19:36 | **SiamsKt**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **jakojako001**: Arctic Fox (R) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
