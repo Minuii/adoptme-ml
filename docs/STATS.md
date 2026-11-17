@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 07:16 UTC by the scrape workflow._
+_Updated 2026-11-17 07:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 07:16 UTC by the scrape workflow._
 | amvgg | 7 | 29,664 | 2026-11-17T07:15 |
 | elve | 7 | 6,154 | 2026-11-17T07:16 |
 
-## AMVGG completed trades: 27,023 total
+## AMVGG completed trades: 27,033 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 954 |
+| 2026-11-17 | 964 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 07:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:25 | **dsjquw72hs**: Blazing Lion (FR), Dalmatian (FR), Mini Pig, Fairy Bat Dragon | **BudakBaran7**: Frost Dragon (FR) |
+| 07:25 | **jokerako28**: Unicorn Horn, Fly-A-Pet Potion, Pet Handler Pro Certificate, Blue Cat Ear Headphones | **ii_aldrin20**: Sugar Glider |
+| 07:25 | **valentinaajuwu**: Samoyed (M) | **16y97**: Ride-A-Pet Potion ×2 |
+| 07:21 | **divinelybrxman**: Bat Dragon (FR), Arctic Reindeer (NFR), Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (NFR) | **Cinzsins**: Shadow Dragon (FR) ×2, Cryptid (FR) |
+| 07:21 | **FlyToTheSaturn**: Dolphin Cruiser, Hoverboard, Motorized Sofa, Clown Car, Lunar Muscle Car, Heart Hoverboard | **gongseni**: Fly-A-Pet Potion |
+| 07:21 | **dozyzen**: Flamingo (FR), Flamingo (R), Crocodile (FR), Crocodile (R), Kangaroo (FR), Copycat, Jester Dragon (R), Shrew (FR), Ride-A-Pet Potion | **yanchik0067**: Evil Unicorn (FR) |
+| 07:21 | **Rexgaang39**: Purrowl ×11 | **splashJuggernaut**: Ride-A-Pet Potion |
+| 07:21 | **super_dishik**: Koi Carp (N) | **Sadochok_456**: Ride-A-Pet Potion |
+| 07:21 | **luvyerh**: Shark Puppy (R) | **Yulik577**: Pig (FR) |
+| 07:21 | **WillowpillowpiggyWL**: Ride-A-Pet Potion | **gh0steddsoull**: Pretty Please Snowball Sticker, Well, Actually Walrus Sticker |
 | 07:15 | **Lekssa**: Siamese Cat (FR), Cow (FR) | **spakle3222**: Strawberry Shortcake Bat Dragon (FR) |
 | 07:15 | **amwhcvx0**: Golden Dragon (NFR), Ride-A-Pet Potion ×2 | **v6mpireeee**: Glormy Leo |
 | 07:15 | **HONEYPLIS**: Candyfloss Chick, Puffer Fish (MFR), Jester Dragon, Owlbear, Chimera (NR), Red Dutch Guinea Pig, Ride-A-Pet Potion, Lamb (R), German Shepherd (R), Koala (NR), Flaming Fox, Clover Cow (NR) | **WillowQueen593**: Candyfloss Chick (NFR) |
 | 07:15 | **Ooohllalaaa**: Ride-A-Pet Potion ×2, Cherub Chipmunk (M), Ruddy Duck (M), Three Blind Mice | **Phoenix_Goddess0**: Pupcicle ×3 |
 | 07:15 | **setta_x3**: Turtle (FR), Arctic Fox (FR), Pupcicle | **byxxxxxanka**: Cow (FR) |
-| 07:15 | **LoriDreamy123**: Pig (FR), Pig (R), Shark Puppy (R), Ride-A-Pet Potion ×3 | **luvyerh**: Cow (FR) |
-| 07:15 | **Firevun213**: Arctic Fox (R), Ice Wolf (NFR), Latte Kitsune (R) | **rioo0o123**: Kangaroo (FR) |
-| 07:15 | **510478**: Flamingo (FR) | **direXdlol**: Unicorn Horn |
-| 07:15 | **cuttiiesara**: Cryptid (FR), Arctic Dusk Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **prostod_f**: Hedgehog, Copycat (NFR) |
-| 07:15 | **amyggvaI**: Owl (FR) | **polinalollipolly**: Dalmatian (FR), Cow (FR), Cabbit (FR), Candyfloss Chick (FR), Elephant (FR) ×2, Unicorn (MFR), Ride-A-Pet Potion |
-| 07:15 | **deejayheyo**: Turtle (FR), Frost Fury (NFR) | **rioo0o123**: Cow (FR) |
-| 07:15 | **Fl3sh2good**: Cryptid (FR) | **larmalove7**: Cow (NFR) |
-| 07:11 | **lika303py4**: Unicorn Horn, Cow (R), Sugar Glider, Fly-A-Pet Potion, Ride-A-Pet Potion | **ii_aldrin20**: Dalmatian (FR) |
-| 07:06 | **ldfeeode**: Crow, Crocodile (R), Clownfish (R) | **YaobendeshoiZ**: Parrot (FR) |
-| 07:06 | **Cdg91400**: Pupcicle ×2 | **alinaya0208**: Dragonfruit Fox |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
