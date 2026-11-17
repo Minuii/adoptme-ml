@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 23:25 UTC by the scrape workflow._
+_Updated 2026-11-17 23:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 23:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 44,646 | 2026-11-17T23:15 |
-| elve | 7 | 9,514 | 2026-11-17T23:16 |
+| amvgg | 7 | 44,860 | 2026-11-17T23:30 |
+| elve | 7 | 9,570 | 2026-11-17T23:31 |
 
-## AMVGG completed trades: 29,985 total
+## AMVGG completed trades: 30,007 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 3,916 |
+| 2026-11-17 | 3,938 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 23:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:25 | **Testforuselol**: Munchkin Cat (MFR), Fly-A-Pet Potion | **rastafarismo10**: Hedgehog (FR) |
-| 23:25 | **fIuorines**: Haetae (MFR), Shadow Dragon (FR), Crow (FR), Cow (NR) | **Potato_potatoes100**: Giant Panda (MFR) |
-| 23:25 | **thousandbabyoil**: Copycat (NFR) | **sshanao_o**: Unicorn (MFR), Bunny Swirl (MFR), Chihuahua (N), Count Slothula |
-| 23:25 | **crazycrazy08142**: Ride-A-Pet Potion ×2 | **JorgeEduardo_123**: Millionaire Mansion |
-| 23:25 | **AnDrEy_PrOKiLlEr**: Cow (FR) | **prensesecya**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
-| 23:25 | **D1CADI**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×2 | **dReal_Boss**: Fairy Bat Dragon (FR) |
-| 23:25 | **TaurusTorey**: Sushi Penguin (MFR) | **luvvliilac**: Cozy Cabin |
-| 23:25 | **malumabeibi_5454**: Gorilla (M), Bunny (M), Milk Choccybunny (M), Rabbit (M), Mexican Wolf (M), Nurse Shark (M), 2026 Birthday Butterfly (M), Shih Tzu (M), Rubber Ducky (M), Moose Calf, Skelicorn (N), Onza (N), Robot (N) ×3 | **sweetx_Loveletter**: Pain au Chat (M) |
-| 23:25 | **Superslayaccount70**: Boohoo (M) | **Aslie_17**: Ride-A-Pet Potion |
-| 23:25 | **I_KermitDEATH**: Rooster (NR) | **CreamPuff12879**: Ride-A-Pet Potion ×2 |
-| 23:25 | **DaphiePafie**: Irish Water Spaniel (NR), Ride-A-Pet Potion ×3 | **Horrible084**: Hot Doggo (FR) |
-| 23:25 | **amyggvaI**: Frost Dragon (FR) | **Ichvs1**: Strawberry Shortcake Bat Dragon (FR) ×4, Ice Cream Cone Hat, Berry Cool Cube, Diamond Unicorn, Violet Butterfly, Priceless Shrimp, Christmas Future Egg ×2, Purrowl (N) |
-| 23:25 | **realLevi_pixel138**: General Sheepdog (MR), Black Chow-Chow (MR), Therapy Dog (M) | **Ryandelpozo28**: Pupcicle (MFR) |
-| 23:21 | **EMSCH4RM**: Strawberry Shortcake Bat Dragon (NFR), Yeti (MFR) | **r0mmul4s**: Caelum Cervi (MFR), Cheetah (MFR) |
-| 23:21 | **PH_HYPER**: Royal Capuchin Monkey (MR), Kitty Bat (MFR), Jester Dragon (R) | **q_culvs**: Cow (FR) |
+| 23:30 | **okayzvezda**: Special Lunar New Year Gift Box, Scarecrow Box, Halloween Chick Box, Standard Gibbon Box | **dnei30fast**: Fly-A-Pet Potion |
+| 23:30 | **kikanda15**: Shark Puppy (R), Ice Cream Cone Hat, Bready Necklace | **Roblox_suchti42167**: Kangaroo (FR) |
+| 23:30 | **BlgBUNNS_NARUTO**: Chihuahua, Onza (N), Pangolin (N), Black-Footed Ferret (N) | **lera5132**: Ride-A-Pet Potion |
+| 23:30 | **lera5132**: Fly-A-Pet Potion | **Cattychiee**: Unicorn ×2 |
+| 23:30 | **Petterstranger**: Copycat (FR) | **myau33are**: Sakura Spirit (FR) |
+| 23:30 | **werreriss0**: S'mores Raccoon, Squid | **Lumina20265**: Fly-A-Pet Potion |
+| 23:30 | **Roblox_suchti42167**: Ride-A-Pet Potion ×15 | **sedamanga212**: Kangaroo (FR) |
+| 23:30 | **Superslayaccount70**: Kid Goat (M) | **batton0955**: Ride-A-Pet Potion |
+| 23:30 | **batton0955**: Ride-A-Pet Potion | **s1m4kk**: Mrs. Whiskerpips, Kiwi Kiwi |
+| 23:30 | **multipleaccounts9**: Candyfloss Mega Neon Paint | **izzmogizmo**: Campfire Stories Mega Neon Paint |
+| 23:30 | **Melosito_Trades**: Lamb (NR), Fire Mare (MFR), Ancient Dragon (MFR), Dragon (MFR), Hare | **abdoosaad**: Turtle (FR), Ride-A-Pet Potion, Diamond Dragon |
+| 23:30 | **aIcremie_s**: Owlbear (MFR), Matcha Cat | **Ari_Blays**: Dalmatian (FR) |
+| 23:30 | **IamJohap**: Dalmatian (FR), Frostbite Bear (R), Ice Cream Cone Hat | **affecting**: Cryptid (FR) |
+| 23:30 | **robloxiana_79943**: Pupcicle | **vh4unted**: S'mores Raccoon |
+| 23:30 | **zeejnaa**: Jousting Horse (MFR), Cherry-On-Top, 2022 Birthday Cake | **Orchid62311**: Jekyll Hydra (NR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
