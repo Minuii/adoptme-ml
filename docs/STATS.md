@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 01:45 UTC by the scrape workflow._
+_Updated 2026-11-17 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 01:45 UTC by the scrape workflow._
 | amvgg | 7 | 24,653 | 2026-11-17T01:45 |
 | elve | 7 | 5,161 | 2026-11-17T01:45 |
 
-## AMVGG completed trades: 26,370 total
+## AMVGG completed trades: 26,390 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 301 |
+| 2026-11-17 | 321 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 01:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:45 | **Bubblesby_bailey1234**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **kdooo2020**: Strawberry Shortcake Bat Dragon (FR) |
-| 01:45 | **aLiEnGiRl_e**: Dalmatian (NFR) | **wrldhrt**: Goose (NFR), Dalmatian (FR), Cow (FR) |
-| 01:45 | **whannahbeyours98**: Brachiosaurus (MFR) | **notchap1na**: Dragonfruit Fox |
-| 01:45 | **Pixel_art024**: Amethyst Penguin (FR), Mini Pig (FR) | **sadlyhallow**: Giant Panda (FR) |
-| 01:45 | **Pixel_art024**: Dalmatian (FR), Chocolate Dutch Guinea Pig (FR) | **sadlyhallow**: Tri-horned Treehopper (MFR) |
-| 01:45 | **kotik_yap1**: Roblox Snowboard | **Kosh_0305**: Latte Kitsune, Glacier Kitsune (R) |
-| 01:45 | **reiikell**: Peppermint Penguin (NFR), Unicorn Horn | **0kayGhoul**: Strawberry Shortcake Bat Dragon (NFR), Pet Handler Pro Certificate |
-| 01:40 | **evieebunnii**: Ride-A-Pet Potion ×2 | **PhoenixEpic85**: Chihuahua ×5 |
-| 01:40 | **LaraIphone16e**: Pig (F), Hyena (R), Ride-A-Pet Potion | **R0gue_Cha0s165**: Border Collie |
-| 01:40 | **iiSimplyYool**: Stitches (M) | **dnei30fast**: Ride-A-Pet Potion |
-| 01:40 | **xorisqa**: Chocolate Chip Bat Dragon (NFR), Spring Bunny Nose | **himyuseris_oiuujkjhh**: Rainbow Maker, Halo, Angel Wings ×2 |
-| 01:40 | **Sharpie_pies**: Tree Sasquatch (M), Mummy Spider ×2 | **dnei30fast**: Ride-A-Pet Potion |
-| 01:40 | **WinterxSnowyy**: Dog (MR), Dog (MFR), Cat (MFR) | **dnei30fast**: Fly-A-Pet Potion |
-| 01:40 | **6evesvokhaha**: Ride-A-Pet Potion | **flowerist0w04577**: Paint Sealer ×18 |
-| 01:40 | **alexgameminecraft**: Ride-A-Pet Potion ×2 | **6evesvokhaha**: Fly-A-Pet Potion |
+| 01:55 | **anekalubitnaruto**: Black-Footed Ferret (N) | **xHelen_Martax**: Starfish, Toucan ×2, Royal Egg ×3 |
+| 01:50 | **William_17735**: Aurora Fox (MFR), Matcha Cat (N), Matcha Cat | **alex10ashe**: Matcha Cat (MFR) |
+| 01:50 | **cxar_25**: Mini Pig (FR) | **quesodrilo**: Elephant (FR), Kangaroo (R), Copycat, Ride-A-Pet Potion |
+| 01:50 | **Tylertylertyler425**: Owl (FR), Leopard Shark (MFR), Yeti (MFR), Lion (FR), Ride-A-Pet Potion | **alimohamd00**: Frost Dragon (FR) |
+| 01:50 | **m4rshalI**: Winged Tiger (NFR), Elephant (R) | **rainbowd0II**: Frostbite Bear (NFR) |
+| 01:50 | **cheehrbechieirbceb**: Werewolf (R), Pupcicle | **starri_aurora**: Unicorn Horn |
+| 01:50 | **girafferel**: Mighty Haetyphoon Animated Sticker | **truerulaa**: Ride-A-Pet Potion |
+| 01:50 | **Shaneeiiie**: Ride-A-Pet Potion | **blushbyelle**: Purrowl (M) |
+| 01:50 | **FlyToTheSaturn**: Business Monkey, Catte, Chihuahua, Frog (NR), Frog (R), Frog, Frostbite Cub ×2, Horse (FR), Horse, Koala ×3, Mr. Whiskerpips, Panda, Pretty Pony, St Bernard, Toy Monkey | **WintErSnowy1**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
+| 01:50 | **xPreppykayxo**: Latte Kitsune (MFR), Chocolate Chip Bat Dragon (FR), Munchkin Cat | **Lippy_lulu101**: Peppermint Penguin (NFR) |
+| 01:50 | **Sanster47**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **llanprolol1**: Frost Dragon (FR) |
+| 01:50 | **jayjay080309**: Balloon Unicorn (FR) | **R0gue_Cha0s165**: African Wild Dog (FR), Tiny Wings |
+| 01:50 | **razarvale2z**: Pain au Chat ×3 | **Unicorn_dragon133**: Ride-A-Pet Potion |
+| 01:50 | **gthstnr**: Siamese Cat (R), Cotton Candy Hat, Zombie Wolf | **paulaaau_u**: Siamese Cat (FR) |
+| 01:50 | **vaIxhrtz**: Bush Elephant (MFR) | **Tates1ush**: Glacier Moth (MFR), Candicorn (MFR), Pancake Stack, Spring Bunny Feet |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
