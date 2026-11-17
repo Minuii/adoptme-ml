@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 12:16 UTC by the scrape workflow._
+_Updated 2026-11-17 12:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 12:16 UTC by the scrape workflow._
 | amvgg | 7 | 34,006 | 2026-11-17T12:15 |
 | elve | 7 | 7,076 | 2026-11-17T12:16 |
 
-## AMVGG completed trades: 27,690 total
+## AMVGG completed trades: 27,722 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,621 |
+| 2026-11-17 | 1,653 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 12:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:15 | **riskyactss**: Pupcicle ×2, Bobageist (N), Puptune | **k4yd0dislikesyou**: Golden Lettuce |
-| 12:15 | **Ilove_Yuqi38**: Stray Cat Dragon, Count Slothula | **Malvavisca_7w7**: Gemstone Egg ×2 |
-| 12:15 | **kworixx**: Princess Capuchin Monkey ×2 | **love_anime12393**: Ride-A-Pet Potion |
-| 12:15 | **MEL1TTIN**: Grim Dragon (R) | **Teddysalttamvgg**: Frostbite Bear |
-| 12:15 | **h4ppysunsh1ine**: Goose (FR), Goose (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Lila_Chanbibi**: Sugar Glider (NFR) |
-| 12:15 | **Xxxxashhhh**: Ride-A-Pet Potion, Pet Handler Pro Certificate ×2 | **Beachhouse1617**: Sheeeeep |
-| 12:15 | **Flashbook6**: Cryptid (NFR), Frost Dragon (FR), Glormy Hound (MFR), Jousting Horse (MFR), Parrot (FR), Copycat (N), Turtle (FR) | **Beachhouse1617**: Bat Dragon (FR) |
-| 12:15 | **Puda1950**: Diamond Dragon (N), Gold Mahi Mahi (M) | **Beachhouse1617**: Pet Handler Pro Certificate |
-| 12:15 | **kworixx**: Golden Ladybug, Golden Unicorn (R) | **3FFEGREEG**: Ride-A-Pet Potion |
-| 12:15 | **2001_Liza1**: Boohoo (M) | **JulianKHV**: Banana Hat |
-| 12:15 | **TradingInD**: Ice Cream Hermit Crab (MR) | **nainalt5**: Binturong (MFR), Boohoo (M), Albino Monkey (FR), Snowball Pet (NR), Ride-A-Pet Potion, Retired Egg ×4 |
-| 12:15 | **kworixx**: Unicorn, Lunar Gold Tiger (N) | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
-| 12:15 | **kworixx**: Chimera, Diamond Egg, Easter Bunny, Lunar Gold Tiger (N) | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
-| 12:15 | **Nastya2345981**: Magic House Door | **JuliaCat_Roblox1**: Cotton Candy Stand |
-| 12:15 | **milanakim12**: Crocodile (FR), Black Macaque (MFR) | **Kui_Yeager**: Puffer Fish (MFR) |
+| 12:25 | **wawwpp**: Rain Boots | **HaiiTchteru**: Fly-A-Pet Potion |
+| 12:25 | **qwertyy_xx01**: Cow (FR) ×2, Boohoo (M) | **BROCKTHAULTIMATE**: Arctic Reindeer (FR) |
+| 12:25 | **XxRainbowDasher**: Fairy Bat Dragon (FR) | **Marines_Natalia**: Fly-A-Pet Potion ×14 |
+| 12:25 | **Alisa_R00**: Ice Moth Dragon (R), Pro Ghost Blaster | **rainbow28546**: Ride-A-Pet Potion |
+| 12:25 | **croloveerr**: Ride-A-Pet Potion | **rainbow28546**: S'mores Raccoon |
+| 12:25 | **mambysx**: Shadow Dragon Ducky, Spider Crab | **idk_oofy1377**: Pink Hightops, Pink Butterfly Wings |
+| 12:25 | **clqvdxyalt**: Chocolate Chip Bat Dragon (MFR), Dragonfruit Fox (MFR), Capybara (MFR), Unicorn Horn | **terrylonsoyjerry**: Giant Panda (NFR) |
+| 12:21 | **edmunds15**: Grim Dragon (FR), Evil Unicorn (FR), Flamingo (FR), Crocodile (FR), Cerberus (NFR) | **gabBNS67**: Parrot (FR) |
+| 12:21 | **Tofifi_1214**: Slimingo, Golden Albatross | **OJC_Star45**: Ride-A-Pet Potion |
+| 12:21 | **Starpetsbotaleks**: Rain Boots | **BarbieDaisy6**: Hospital Home |
+| 12:21 | **elyyz_sen**: 2026 Birthday Butterfly (M), Sheepdog Ducky (M), Forest Sprite (M) | **Robert_mila**: Fly-A-Pet Potion |
+| 12:21 | **SoloGhost442149**: Blossom Snake (N), Magma Moose | **UltimateLionMantis**: Ride-A-Pet Potion |
+| 12:21 | **ShyberryX3**: White Choccybunny (M), Bakeneko (M) | **LaymushkaUwU**: Fly-A-Pet Potion |
+| 12:21 | **luvyerh**: Cow (R) | **strawqbwerie**: Elephant (FR), Crocodile (R), Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 12:21 | **kworixx**: Snow Owl (R), Purrowl (R) | **sithusari346**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
