@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 13:25 UTC by the scrape workflow._
+_Updated 2026-11-17 13:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 13:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 34,924 | 2026-11-17T13:15 |
-| elve | 7 | 7,295 | 2026-11-17T13:16 |
+| amvgg | 7 | 35,152 | 2026-11-17T13:30 |
+| elve | 7 | 7,372 | 2026-11-17T13:31 |
 
-## AMVGG completed trades: 27,918 total
+## AMVGG completed trades: 27,938 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,849 |
+| 2026-11-17 | 1,869 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 13:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:25 | **miuu_liu**: Ride-A-Pet Potion | **Daniel252114**: Elf Hat |
-| 13:25 | **EVGPOP90**: Ride-A-Pet Potion ×2 | **STARZ_159**: Husky |
-| 13:25 | **elliy5792**: Strawberry Shortcake Bat Dragon (R), Amami Rabbit (MFR), Moon Rabbit (MFR) | **idctbf11**: Puffer Fish (MFR) ×3, Panda (MFR), Ride-A-Pet Potion |
-| 13:25 | **huyichan9130**: Thunderfisher ×2 | **Hales_Elise**: Electric Hornet |
-| 13:25 | **Ilovefortnighttehe**: Burning Bunny | **Tena_IsPeakfr**: Pain au Chat |
-| 13:25 | **Marvinski023**: Frost Dragon (FR) | **atr1xry**: Haetae (FR), Dalmatian (R), Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
-| 13:25 | **Pipuka0109**: Cow Calf (N), Ermine (N) | **Tr4ading_T3ss**: Dango Penguins (R) |
-| 13:25 | **MM_Cloud**: Stray Cat Dragon ×11 | **100boom15**: Ride-A-Pet Potion |
-| 13:25 | **1264Foxs**: Owl (FR), Hare (N) | **angela_umerez4**: Cryptid (FR) ×2 |
-| 13:25 | **NerdeoKy**: Arctic Fox (R), Ride-A-Pet Potion | **Sashaaa_rbx122**: Jellyfish |
-| 13:21 | **afissamuzfirah**: Elephant (FR) | **lolcryabtit6767**: Sakura Spirit (R), Silverback Gorilla, Snow Owl (NFR) |
-| 13:21 | **kI_Iaxx**: Jester Dragon | **Niruch_Bearly**: Fly-A-Pet Potion ×3 |
-| 13:21 | **Maksib47**: Ride-A-Pet Potion ×4 | **xyza_starsmonica**: Winter Fawn (MFR) |
-| 13:21 | **crybabydoIl**: Fly-A-Pet Potion ×3 | **Pops_mil40**: Copycat |
-| 13:21 | **cwutemais**: Latte Kitsune (MFR), Dango Penguins (MFR), Harp Seal (MFR), Cake Friend (NFR), Cake Friend (N) ×3 | **daran_waren**: Strawberry Shortcake Bat Dragon (NFR) |
+| 13:30 | **natalka_1q1**: Haetae (NFR), Munchkin Cat (MFR) | **Vluxbuy**: African Wild Dog (NFR) |
+| 13:30 | **SVS_88888**: Unicorn (N) | **AubreyxBuilds**: Pet Handler Pro Certificate ×2 |
+| 13:30 | **Phoenix_Goddess0**: Burger Bear (FR) | **aminka_wq1**: Fly-A-Pet Potion |
+| 13:30 | **NerVhana**: Balloon Unicorn (FR), Kangaroo (FR) | **sara5mohamad**: Parrot (FR) |
+| 13:30 | **ates_yurek**: Balloon Unicorn (NFR), African Wild Dog (R), Candicorn (NFR), Grim Dragon (FR), 2022 Birthday Party Horn | **tokyozxvi**: Dalmatian (MFR) |
+| 13:30 | **vcxitb_new**: Cryptid (NFR), Unicorn Horn, Rainbow Maker, Fallow Deer (MFR), German Shepherd (MFR), Chocolate Dutch Guinea Pig (MR) | **itisfrogtime123**: Blazing Lion (NFR) |
+| 13:30 | **Lupaeis**: Latte Kitsune (MFR) | **bbkxrby**: Winged Tiger (NFR) |
+| 13:30 | **sweetlilk64**: Ride-A-Pet Potion, Fly-A-Pet Potion, Pupcicle (NR) | **moop1234321**: Copycat (FR) |
+| 13:30 | **kworixx**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×4 | **auiciq_isp**: Rain Cloud Hat |
+| 13:30 | **seruzeni**: Chihuahua (MR) | **iammm2pro_3**: Bunny Swirl (MFR) |
+| 13:30 | **picucurt123456**: Copycat | **Anelchik_i**: Fly-A-Pet Potion ×3 |
+| 13:30 | **lkmsdfw**: Winged Tiger (FR) | **rainpitiquen15**: Kangaroo Stroller, Axe Rattle, Glass Scooter, Munchkin Cat (FR) |
+| 13:30 | **Reveknalt1**: Dragonfly ×18 | **Ixc_hz**: Ride-A-Pet Potion |
+| 13:30 | **nice2306_alt**: Stray Cat Dragon ×15 | **w0Lops**: Pet Handler Pro Certificate |
+| 13:30 | **megumi_isambitious**: Kangaroo (FR), Kangaroo (R) ×2, Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
