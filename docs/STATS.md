@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 00:25 UTC by the scrape workflow._
+_Updated 2026-11-17 00:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-17 00:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 23,140 | 2026-11-17T00:15 |
-| elve | 7 | 4,925 | 2026-11-17T00:16 |
+| amvgg | 7 | 23,404 | 2026-11-17T00:30 |
+| elve | 7 | 4,982 | 2026-11-17T00:31 |
 
-## AMVGG completed trades: 26,147 total
+## AMVGG completed trades: 26,150 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 78 |
+| 2026-11-17 | 81 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,6 +32,9 @@ _Updated 2026-11-17 00:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:30 | **BlgBUNNS_NARUTO**: Merhorse (NR), Onza (N) | **agro_CAXAPOK22802**: Ride-A-Pet Potion |
+| 00:30 | **kaylamicmi**: Dango Penguins (MFR) | **elffycomb361112**: Harp Seal (MR), Chihuahua (M), Spring Bunny Hood |
+| 00:30 | **awita_92729**: Kitty Bat (MFR), Trapdoor Snail (M), Aviator Hat | **m4tt_skatez**: Panda (MFR) |
 | 00:25 | **littyamelia**: Bubblegeist | **Whyisyourpeeblue**: Retired Egg ×8 |
 | 00:25 | **Kiwisito1560**: Red Panda Ducky (M), Gilded Snake | **Petterstranger**: Thinking Hat |
 | 00:25 | **cupidbuni**: 2022 Birthday Cake | **vpzqik**: Snowball Pet (MFR) |
@@ -44,9 +47,6 @@ _Updated 2026-11-17 00:25 UTC by the scrape workflow._
 | 00:25 | **Dantheshadowfan**: Cryptid (FR), Toaster Hat, Fly-A-Pet Potion, Cherry Blossom Hang Glider | **StankFart_Jr**: Blazing Lion |
 | 00:25 | **gato12345129**: Giraffe (FR), Rainbow Maker, Rain Cloud Hat | **fwthaclout**: African Wild Dog (R), Evil Unicorn (FR) ×2, Fairy Bat Dragon (NFR), Halo, 2022 Birthday Cupcake Shoes, Ride-A-Pet Potion |
 | 00:25 | **gaspooio**: Arctic Reindeer (NFR), Cow (NFR), Polar Bear (R) | **RileyforSure28**: Owl (FR) |
-| 00:25 | **Leni1234567894**: Moon Rabbit (N) | **1shho0n**: Easter Bunny (M) |
-| 00:25 | **RileyforSure28**: Arctic Reindeer (NFR), Cow (NFR) | **ImNotKesnielGaming**: Owl (FR) |
-| 00:25 | **Gxft_ofDestruction**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **RileyforSure28**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,042 since 2023-09-16
 
