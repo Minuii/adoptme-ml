@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 08:45 UTC by the scrape workflow._
+_Updated 2026-11-17 08:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-17 08:45 UTC by the scrape workflow._
 | amvgg | 7 | 30,928 | 2026-11-17T08:45 |
 | elve | 7 | 6,414 | 2026-11-17T08:45 |
 
-## AMVGG completed trades: 27,169 total
+## AMVGG completed trades: 27,191 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-17 | 1,100 |
+| 2026-11-17 | 1,122 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
@@ -32,21 +32,21 @@ _Updated 2026-11-17 08:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:45 | **Syshsf237**: Sushi Penguin (MFR), Elephant (R), Ride-A-Pet Potion ×4 | **TsukiakariShirayuki**: Snow Monkey (MFR) |
-| 08:45 | **EchoXQQSpark11182**: Jester Dragon | **albina_7807**: Christmas Pudding Pup |
-| 08:45 | **Nicoleee_ily**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 | **ii_aldrin20**: Cow (R) |
-| 08:45 | **kitty_kett000**: Sugar Glider (FR), Brown Springer Spaniel (NR) | **rbn_lvrr**: Fairy Bat Dragon (FR) |
-| 08:45 | **Kids_535353**: Classic Trade Stand, Motorized Sofa, Latte Motorcycle, Postie Van, Stocked Santa Sleigh, Eaten Donut | **Rkuamgrh6**: Ride-A-Pet Potion |
-| 08:45 | **ANNADOG444**: Hedgehog (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Ldshadowleopard2**: Evil Unicorn (FR) |
-| 08:45 | **danialmandoz07142**: Lion (FR), Snow Monkey, Butter Knife, Buttoned Ushanka | **IRoblox_Qoeen**: Border Collie (R) |
-| 08:45 | **samakiyo_junyoung**: Pupcicle (NR), Burger Bear | **n1ght_bvg**: Copycat |
-| 08:45 | **LoriDreamy123**: Goose (FR), Cow (FR) ×3, Turtle (FR) ×3, Siamese Cat (FR), Elephant (R), Flamingo (R), Nessie (FR) | **amyggvaI**: Frost Dragon (FR) |
-| 08:45 | **jypit0410j**: Dalmatian (FR) ×2, Chocolate Chip Bat Dragon (FR), Peppermint Penguin (FR), Tuxedo Cat (M), Kitty Bat (MFR), Munchkin Cat (FR), Shark Puppy, Halloween White Ghost Dragon (R), Ride-A-Pet Potion ×4, Rain Boots | **emiliadieschnide**: Orchid Butterfly (NFR) |
-| 08:45 | **Addmymainpls2332**: Cryptid, Arctic Reindeer (FR), Unicorn Horn, Copycat, Pancake Stack | **mango_robloxx101**: Owl (FR) |
-| 08:45 | **ayagamer_11**: Sakura Spirit (R), Lion Cub (R), Urchin (MR), Corgi (N) | **Slay_bro606**: Elephant (FR) |
-| 08:45 | **speedatom95**: Jester Dragon | **dhryeu1234**: Fly-A-Pet Potion ×3 |
-| 08:45 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **dhryeu1234**: Aussie Egg |
-| 08:45 | **cheeskake13**: German Shepherd (MFR), Kitty Bat (MFR) | **amvggalt1**: Lamb (MFR) |
+| 08:55 | **Cloudmilks**: Ride-A-Pet Potion | **0Sinem_0**: Pupcicle |
+| 08:55 | **Luvbambii**: Flash Weasel, Unicorn | **Donutcat679**: Rain Cloud Hat |
+| 08:55 | **Scphiaaxbxdcr**: Fly-A-Pet Potion, Spring Bunny Feet, Pupcicle | **THEyuksterrr**: River Otter (M), Pudding Cat (N), Cake Friend, Sushi Penguin |
+| 08:55 | **quVare_PDF**: Lavender Dragon (NR), Vanilla Penguin (N), Ride-A-Pet Potion, Ox Box | **floatiinqz**: Flash Weasel (R) |
+| 08:55 | **Wxndxrxt**: Pain au Chat ×2, Gibbon ×2, Oakee Wizard | **kanekixklxster**: Crystal Egg ×17 |
+| 08:55 | **luvyerh**: Pancake Stack | **miuehla**: Ride-A-Pet Potion ×2 |
+| 08:55 | **cresselia193**: Jester Dragon (FR) | **Sandra_RobloxPlays**: Goat (R) |
+| 08:50 | **adoptmexx626**: Pupcake, Purrowl ×2 | **ANNADOG444**: Happy Duckling (R) |
+| 08:50 | **alfieharley1**: Turtle (FR) | **TheKindAndOnly**: Pupcicle (M), Pupcicle ×3 |
+| 08:50 | **margini_mini**: Dragonfruit Fox, Vanilla Penguin, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **katya2009ka**: Munchkin Cat (R) |
+| 08:50 | **SyndromGG**: Siamese Cat (FR), Fly-A-Pet Potion ×2 | **tiharaxd11**: Fairy Bat Dragon (FR) |
+| 08:50 | **mobimaa**: Coyote (N), Three Blind Mice, Huntsman Robin, Golden Griffin, Diamond Griffin | **HANKJE29**: Wooly Rhino |
+| 08:50 | **cc0uture16**: Jester Dragon (R) | **kokos2280014**: Frost Fury (FR) |
+| 08:50 | **YuroMiyuk1**: Diamond Butterfly | **Alili2323134**: Lava Dragon (MFR) |
+| 08:50 | **danfg3654**: Hamster (MFR) | **alinaya0208**: Peachick (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
