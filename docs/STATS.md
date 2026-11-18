@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 19:46 UTC by the scrape workflow._
+_Updated 2026-11-18 19:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 19:46 UTC by the scrape workflow._
 | amvgg | 8 | 41,043 | 2026-11-18T19:45 |
 | elve | 8 | 8,453 | 2026-11-18T19:46 |
 
-## AMVGG completed trades: 33,226 total
+## AMVGG completed trades: 33,262 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,153 |
+| 2026-11-18 | 3,189 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 19:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:45 | **k1ssa4ka**: Jester Dragon | **Alinka_s36**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
-| 19:45 | **not_bety1**: Ride-A-Pet Potion | **givno_sobacze**: Unicorn |
-| 19:45 | **jiigu0**: Copycat ×2 | **Oljusik_8**: Tortoiseshell Guinea Pig |
-| 19:45 | **p1xl_moonz**: White Sand Dollar (MFR) | **LilyLOLMaster1211**: Unicorn Horn |
-| 19:45 | **Shiky388**: Bolt (M), Mexican Wolf (NR) | **CandyLover31235**: Ride-A-Pet Potion |
-| 19:45 | **kamilaa228**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **RobloxAk8855**: Frost Fury (FR) |
-| 19:45 | **jacksbandalt8**: Owl (FR), Cow (FR), Turtle (FR), Fly-A-Pet Potion ×2 | **Patriot0750**: Frost Dragon (FR) |
-| 19:45 | **fggkjtfv**: Brown Bear, Platypus, Skeleton Winged Glider | **Artem13Iv**: Pig |
-| 19:45 | **Furryinreallaif**: Chocolate Chip Bat Dragon (NFR), Cattuccino | **XGeorge_officialX**: Chocolate Chip Bat Dragon (FR), Cow (NFR), Tuxedo Cat (MFR), Frostbite Cub (MFR) |
-| 19:45 | **h4_cd**: Fly-A-Pet Potion | **blight_shine00**: Easter Bunny (M) |
-| 19:45 | **coolboy2029_123**: Cryptid (FR) | **Aziell0x**: Field Mouse (MFR) |
-| 19:45 | **Cravecuts**: Cow Calf (NR), Gecko (N), Fly-A-Pet Potion, Ride-A-Pet Potion | **blake_shortie**: Chocolate Dutch Guinea Pig (N) |
-| 19:45 | **MakylaThePandaLover**: Latte Kitsune (MFR) | **melinaftu**: Chocolate Dutch Guinea Pig (MFR), Maine Coon (MFR), Mochi Meow (M), Frankenfeline (MR) |
-| 19:45 | **adoptme_trader417**: Fly-A-Pet Potion, Dark Choccybunny ×14 | **THEyuksterrr**: Red Dutch Guinea Pig |
-| 19:45 | **U9l9y**: Kangaroo (R), Fly-A-Pet Potion | **Angie_mucc**: Ride-A-Pet Potion ×18 |
+| 19:55 | **lola_bear1995**: Fly-A-Pet Potion ×3 | **80Sofa08**: Tortuga de la Isla (R) |
+| 19:55 | **werlianess**: Emperor Gorilla (R), Caterpillar (FR), Ride-A-Pet Potion ×2 | **werreriss0**: Turtle (R) |
+| 19:55 | **thegiddys14**: Dalmatian (FR), Turtle (FR) ×2, Turtle (NFR), Kangaroo (NFR), Cow (FR) ×3 | **Puresksxz**: Crow (FR), Parrot (FR) |
+| 19:55 | **ilycameli**: Mighty Haetyphoon Animated Sticker | **M1cahsWRLD**: Tutu |
+| 19:55 | **Koshka_Alinka8**: Kitty Bat (MFR), Arctic Fox (FR) | **kaito_momota1FAN**: Arctic Fox (NFR) |
+| 19:55 | **Milana_Tundro4ka**: Fly-A-Pet Potion, Unfortunate Eyelashes, Candicorn | **baby_demonakakj**: Unicorn Horn |
+| 19:55 | **o8ayn**: Pupcicle (MFR), Merhorse (M) | **10maya_140311**: Pain au Chat (M), Chihuahua (M) |
+| 19:55 | **p0xompurin**: Ghost Bunny, Hamster (N) ×3, Hamster, Blue Ringed Octopus | **Kayterise**: Hamster (M) |
+| 19:55 | **viltpool**: Retired Egg ×10 | **05mel_mel05**: Leopard Cat |
+| 19:55 | **myBestiVlad2380**: Leopard Cat, Scarlet Butterfly, Gingerbread Reindeer, Pine Marten, Sabertooth, Lobster, Bloodhound, Red Fox, Lunar White Tiger, Deinonychus, Hydra | **sanakutty2012**: Fly-A-Pet Potion |
+| 19:55 | **ToberRain**: Evil Unicorn (FR), Lava Dragon (FR), Polar Bear | **Snoxs545**: Dalmatian (FR), Copycat (NFR) |
+| 19:55 | **Lux0u**: Dalmatian (FR), Winged Tiger, Munchkin Cat, Kangaroo (FR), Lion (R) | **turtletofrost7**: African Wild Dog (FR) |
+| 19:55 | **LP_girlik**: Princess Mare (N), Granny Wolf (N) ×2, Mummy Spider (N), Snorgle (N), Golden Egg, Bubblegeist | **avakad_kilaka**: Ride-A-Pet Potion |
+| 19:55 | **kreker0900**: Mongoose (MFR) | **jellyfish1248396**: Pumpkin Carriage, Magical Girl Car, Royal Carriage, Prince Carriage, Festive Deliveries Sleigh, Princess Carriage, Santa's Sleigh, Banana Car, Ribcage Carriage |
+| 19:55 | **M1ssd3ath_x**: Arctic Reindeer (FR), Strawberry Tortle, Matcha Cat, Ballet Swan (R), Dire Wolf (M) | **roblox_user_4904540593**: Cryptid (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
