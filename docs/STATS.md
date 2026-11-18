@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 16:31 UTC by the scrape workflow._
+_Updated 2026-11-18 16:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 16:31 UTC by the scrape workflow._
 | amvgg | 8 | 37,867 | 2026-11-18T16:30 |
 | elve | 8 | 7,837 | 2026-11-18T16:31 |
 
-## AMVGG completed trades: 32,507 total
+## AMVGG completed trades: 32,520 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,434 |
+| 2026-11-18 | 2,447 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 16:40 | **Milesha1107**: Nessie (NFR) | **EricCasper**: Dango Penguins (N), Slime (N), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 16:40 | **Remonaplo**: Ride-A-Pet Potion, Boohoo (M) | **llya3348**: Pet Handler Pro Certificate |
+| 16:40 | **millesww777**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion ×4 | **PUPUNIHA**: Candicorn (FR) |
+| 16:40 | **seb_ihhh**: Candicorn (FR) | **PUPUNIHA**: Fallow Deer (NFR) |
+| 16:40 | **fartingpook367**: Peppermint Penguin (FR) | **xXcupcake012009**: Cabbit (FR), Pink Cat Ear Headphones, Heart Bow, Fly-A-Pet Potion |
+| 16:36 | **lovelymaner**: Giant Panda (FR), Binturong (MFR), Mushroom Friend (MFR), Cuddly Candle (MFR), Winged Horse (MFR), Panda (MFR), S'mores Raccoon (MFR), Lynx (MR), Onza (MR) | **leruval**: Frost Dragon (FR) |
+| 16:36 | **xx_sunny2003**: Border Collie (MFR) ×2, Owl (FR) ×2, Elephant, Elephant (FR), Cow Calf (MFR) | **masterofsponges**: Bat Dragon (FR) |
+| 16:36 | **s_coki**: Cabbit (NFR) | **nAtiLiAoh**: Dalmatian (FR), Fly-A-Pet Potion |
+| 16:36 | **XL4IL4_FGYX**: Hopbop (M) | **flowerist0w04577**: Paint Sealer ×12 |
+| 16:36 | **marmelat_564**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×4 | **Vitek_228666**: Turtle (R) |
+| 16:36 | **TaPok228pon**: Candicorn (R), Flash Weasel (R), Shark Puppy (R), Aurora Fox, Ghostly Cat (M), Waffle Wyrm (MR), Ride-A-Pet Potion | **prorabik_krytou**: Naughty Mistletroll (MFR) |
+| 16:36 | **Ashleyy_xty**: Chocolate Dutch Guinea Pig ×2, Chocolate Chow-Chow | **Ksu_lovesssO**: Ride-A-Pet Potion ×3 |
+| 16:36 | **AmvggPi0n41K**: Aurora Fox (R), Glacier Kitsune (R), Ice Wolf (R), Munchkin Cat, Ride-A-Pet Potion | **Wea4ka3**: Turtle (FR) |
 | 16:30 | **Nanax_8907**: Fly-A-Pet Potion ×4 | **werlianess**: Strawberry Shortcake Bat Dragon Backpack |
 | 16:30 | **S0nicN0va1988**: Endangered Egg ×4 | **yasmin_2012o**: Electric Hornet ×2 |
-| 16:30 | **growinginv_NotTrding**: Cabbit (R), Cabbit (FR), Candy Hare (N), Ride-A-Pet Potion | **Bits_rbx**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:30 | **MariLuvpo**: Ant (M), Mouse (M), Galapagos Sea Lion (M) | **noonecares11204**: Ride-A-Pet Potion |
-| 16:30 | **Laktozik1**: Candyfloss Chick, Toasty Red Panda (N) | **Thesheeeeesh_god**: Pig (R), Sheeeeep (R), French Bulldog (NFR) |
-| 16:30 | **wwwioooqq**: Goldhorn (NR) | **qquaxoww**: Maine Coon (M) |
-| 16:30 | **Lana_339**: Frost Dragon (FR), Alley Cat, Dragonfruit Fox | **destinedtobethegoat**: Owl (FR), Cherry-On-Top, Unicorn Horn, Rain Cloud Hat |
-| 16:30 | **Viktoria_11942**: Hedgehog (R), Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Chocolate Chip Bat Dragon (FR), Turtle (FR), Ride-A-Pet Potion | **nagumo2226**: Frost Dragon (FR) |
-| 16:30 | **ladovkz1**: Chocolate Chow-Chow, Blue Whale, Admin Abuse Egg ×10 | **une_portuguese**: Jumpscare (M) |
-| 16:30 | **super_dishik**: Sushi Penguin | **dipxiiid**: Ride-A-Pet Potion |
-| 16:30 | **PolkaCaat**: Black-Footed Ferret (M) | **SyndromGG**: Rose Quartz Glow Mega Neon Paint |
-| 16:30 | **epicpulsechaos2024**: Crystal Egg ×18 | **joshsawsy**: Fly-A-Pet Potion |
-| 16:30 | **Byloshka_a1**: Goat (FR), Hare, Ice Cream Hermit Crab (NR), Alley Cat (FR) | **lzxsre**: Siamese Cat (FR) |
-| 16:30 | **no_anniaomg**: Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion, Kangaroo (FR), Naughty Mistletroll (NR), Ice Cream Cone Hat | **MyMain_Looking4Done**: Naughty Mistletroll (MFR) |
-| 16:30 | **kaxuu_u**: Border Collie (NFR) | **jeffreystarleaks**: Werewolf (NFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
