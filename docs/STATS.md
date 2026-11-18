@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 06:25 UTC by the scrape workflow._
+_Updated 2026-11-18 06:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 06:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 28,498 | 2026-11-18T06:15 |
-| elve | 8 | 5,936 | 2026-11-18T06:16 |
+| amvgg | 8 | 28,746 | 2026-11-18T06:30 |
+| elve | 8 | 5,962 | 2026-11-18T06:31 |
 
-## AMVGG completed trades: 30,888 total
+## AMVGG completed trades: 30,890 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 815 |
+| 2026-11-18 | 817 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,8 @@ _Updated 2026-11-18 06:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:30 | **Squonk037**: Fallow Deer (MFR), Puptune (MFR), Chicken (NR), Chihuahua (N) | **YuroMiyuk1**: Arctic Fox (MFR) |
+| 06:30 | **Esikiiomuru**: Giant Panda (FR), Ride-A-Pet Potion, Pet Handler Pro Certificate, Sea Skeleton Panda (M) | **ksenia_unicorn67**: Munchkin Cat (MFR), Kangaroo (NFR), Copycat (N) |
 | 06:25 | **simplyxarv**: Munchkin Cat (FR), Chocolate Dutch Guinea Pig | **adoptmeejjej**: Tiny Wings, Fly-A-Pet Potion |
 | 06:25 | **cloudy_cloudimup**: Siamese Cat (R) | **gatita_garrita0**: Munchkin Cat ×2 |
 | 06:25 | **WHOISY4NAA**: Ride-A-Pet Potion ×5 | **Miki_5533**: Fallow Deer |
@@ -46,8 +48,6 @@ _Updated 2026-11-18 06:25 UTC by the scrape workflow._
 | 06:25 | **tufvfffdjdg**: Copycat | **soisomin**: Ride-A-Pet Potion ×5 |
 | 06:25 | **sasha_574611**: Chihuahua ×2, Trapdoor Snail | **Tatitofake777**: Ride-A-Pet Potion |
 | 06:25 | **Inganta07**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **yana_foxy220**: Unicorn (NFR) |
-| 06:21 | **Kui_Yeager**: Balloon Unicorn (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **majrurjeap**: Peppermint Penguin (NFR), Cow (R) |
-| 06:21 | **ellielielielieee**: Tutu, Bunny Plush, Japanese Snow Fairy (N), Strawberry Shortcake, Strawberry Toast Flying Disc, Cherry Blossom Flower Sticker ×3 | **dxllyluvs2**: Spring Bunny Feet |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
