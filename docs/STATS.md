@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 12:01 UTC by the scrape workflow._
+_Updated 2026-11-18 12:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 12:01 UTC by the scrape workflow._
 | amvgg | 8 | 33,506 | 2026-11-18T12:00 |
 | elve | 8 | 6,883 | 2026-11-18T12:01 |
 
-## AMVGG completed trades: 31,632 total
+## AMVGG completed trades: 31,651 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,559 |
+| 2026-11-18 | 1,578 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:00 | **XTREYT**: Brown Bear, Kangaroo (FR), Cake Friend (N) | **priscillamarquesyt**: Turtle (FR) |
-| 12:00 | **Callme_Mary45**: Fly-A-Pet Potion | **edgarsroblox2013**: Indian Flying Fox (N) |
-| 12:00 | **vennieemylove**: Banana Hat | **crystal_star151**: Jeff's Nametag |
-| 12:00 | **Skz_bts176**: Cow (FR), Siamese Cat, Siamese Cat (FR), Goat (R), Pink Cat Ear Headphones, Fly-A-Pet Potion | **crystal_star151**: Alpaca (NFR) |
-| 12:00 | **1Biahsz_altx**: Ride-A-Pet Potion, Fairytale Egg ×2 | **KFC_C0nya**: River Otter (M) |
-| 12:00 | **Candron6**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion | **KotMonster7**: Elephant (FR) |
-| 12:00 | **kittyzxiq**: Pet Handler Pro Certificate | **Bismuth234**: Fly-A-Pet Potion |
-| 12:00 | **histroniaa**: Flaming Fox (R) | **RENZSOMERA**: Husky, Feesh |
-| 12:00 | **B282728**: Haetae (FR), Winged Tiger (FR), Fly-A-Pet Potion ×2 | **Adoptmetakc**: Balloon Unicorn (FR) |
-| 12:00 | **B282728**: Haetae (FR), Fly-A-Pet Potion | **Adoptmetakc**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
-| 12:00 | **B282728**: Haetae (FR), Winged Tiger (FR), Unicorn (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Adoptmetakc**: Crow (FR) |
-| 12:00 | **ii_martaGamer18**: Snowball Pug (MR) | **IH3ARTJaden**: Spring Bunny Hood |
-| 12:00 | **biq_at222**: Mini Pig (MFR), Happy Clam (MFR), Rain Cloud Hat | **Berryavenueslag**: Strawberry Shortcake Bat Dragon (MFR), Goose (FR) |
-| 12:00 | **firstdayxs**: Spring Bunny Nose | **Ihatesomber11**: Chihuahua (N) |
-| 11:55 | **WeirdKage**: Parrot (FR), Frost Dragon (NFR), Balloon Unicorn (FR), Strawberry Shortcake Bat Dragon (FR) | **aqvartzo**: Bat Dragon (FR) |
+| 12:11 | **curemysorrowsq**: Undead Jousting Horse (NFR) | **xolvrxo**: Undead Jousting Horse (FR), Sugar Glider (NFR), Fly-A-Pet Potion ×2 |
+| 12:11 | **Aidanspencer10**: Undead Jousting Horse (FR), Pet Handler Pro Certificate | **xolvrxo**: Harp Seal (MFR), Mr. Whiskerpips (MFR), Mrs. Whiskerpips (MFR) |
+| 12:11 | **TANSKlN**: Shadow Dragon (FR), Giraffe (FR) ×2, Cow (MFR), Ballet Swan (MFR), Haetae (FR), Alley Cat (MFR), Frostbite Bear (MFR), Honey Badger (NFR), Honey Badger (NR), 2022 Birthday Party Hat, Rhino ×2 | **Rbd_JP**: Haetae (MFR), Hot Doggo (MFR), Frostbite Bear (M) |
+| 12:11 | **Vicyna0**: Ride-A-Pet Potion ×2 | **xolvrxo**: Mochi Meow (M) |
+| 12:11 | **sqwetcl**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×11 | **carlkilling**: Turtle (FR) |
+| 12:11 | **cirocrack2020**: Dango Penguins (MFR), Fallow Deer (NR), Fly-A-Pet Potion, Red Dutch Guinea Pig, Snow Owl (R) | **lolppp0vld**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:11 | **Wi_964roma**: Peppermint Penguin (NFR), Fairy Bat Dragon (FR) | **telinglisalia**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 12:11 | **Alexdarkness_1**: Fly-A-Pet Potion, Shiver Wolf | **meowqi_08**: Skelicorn (M) |
+| 12:11 | **Amvggtrad3r**: Swan (MFR), Spring Bunny Hood, Cotton Candy Hat, Candyfloss Mega Neon Paint | **cvAIDENc1**: Glormy Hound (MFR) |
+| 12:06 | **aira07o7**: Admin Abuse Egg ×18 | **Scfterqx**: Pupcicle |
+| 12:06 | **CoolSomeboy38**: Haetyphoon | **Kristinabillottii**: Kangaroo (FR) |
+| 12:06 | **danfg3654**: Bready Necklace | **m1lxnav**: Burger Boots |
+| 12:06 | **1lx_1O**: Crow (FR), Chocolate Dutch Guinea Pig (NR), Arctic Fox (R), Kitty Bat (N) | **chmo6661**: Parrot (FR) |
+| 12:06 | **RainbowStar8932**: Lamb (MFR) | **k1ttyluvvnz**: Chocolate Dutch Guinea Pig (MFR) |
+| 12:06 | **jxyllav**: Siamese Cat (FR), Cow Calf (MR), Emu (MR) | **4ssure**: Strawberry Tortle (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
