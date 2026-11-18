@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 16:25 UTC by the scrape workflow._
+_Updated 2026-11-18 16:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 16:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 37,612 | 2026-11-18T16:15 |
-| elve | 8 | 7,773 | 2026-11-18T16:15 |
+| amvgg | 8 | 37,867 | 2026-11-18T16:30 |
+| elve | 8 | 7,837 | 2026-11-18T16:31 |
 
-## AMVGG completed trades: 32,490 total
+## AMVGG completed trades: 32,507 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,417 |
+| 2026-11-18 | 2,434 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 16:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:25 | **lovelymaner**: Pig (MFR), Mini Pig (FR), Sushi Penguin (MFR), Tree Kangaroo (MFR), Golden Rat (MFR), Cactus Friend (MFR), Axolotl (MFR), 2022 Birthday Party Horn, Berry Cool Cube (MFR), Hippo (MFR), Sprout Snail (MFR), Mrs. Whiskerpips (MFR), Water Moon Bear (M) | **leruval**: Frost Dragon (FR) |
-| 16:25 | **IngoAlchemyPro**: Crystal Egg ×18 | **puuuurrrraaawww**: Ride-A-Pet Potion |
-| 16:25 | **ZockerCelina_20**: Peppermint Penguin (FR) | **Roo_tookey123**: Siamese Cat (FR), Sheeeeep (FR), Ballet Swan (FR) |
-| 16:25 | **Klaysi_flayra**: Metal Ox (NR), Granny Wolf (N) | **MitaKit3**: Ride-A-Pet Potion |
-| 16:25 | **anni_Dragin**: Cupid Dragon (MFR), 2022 Birthday Party Horn, Llama, Fly-A-Pet Potion, Ride-A-Pet Potion | **Alika_Queen01**: Blazing Lion (FR) |
-| 16:25 | **seb_ihhh**: Unicorn ×4 | **joshsawsy**: Ride-A-Pet Potion ×4 |
-| 16:25 | **spook_jhon293**: Copycat ×2, Arctic Dusk Dragon (FR), Pupcicle | **TaPocHek_lpeshki**: Kangaroo (FR) |
-| 16:25 | **Wolfie4567ty**: Turtle (FR) | **hexyzbagoc31**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×2 |
-| 16:25 | **Ksusha_Spyroo**: Happy Duckling ×2 | **batton0955**: Ride-A-Pet Potion |
-| 16:25 | **lerasryuefj**: Unicorn | **nembb_b**: Ride-A-Pet Potion |
-| 16:25 | **chipsikiyou**: Undead Jousting Horse (NFR) | **Spartik20**: Copycat (MFR) |
-| 16:25 | **Jdhsoand**: Copycat (NR) | **Leon_BSLEO**: Copycat ×4 |
-| 16:25 | **yanaunicorn_23**: St Bernard | **leailsake**: Halloween White Skeleton Dog |
-| 16:25 | **Ebanko_rblx**: Pupcake (M), Pupcicle | **gg_01841**: Pupcake (NR), Copycat |
-| 16:25 | **sweetie_pi48**: Winged Tiger (R) ×2 | **dardaruni**: Fairy Bat Dragon |
+| 16:30 | **Nanax_8907**: Fly-A-Pet Potion ×4 | **werlianess**: Strawberry Shortcake Bat Dragon Backpack |
+| 16:30 | **S0nicN0va1988**: Endangered Egg ×4 | **yasmin_2012o**: Electric Hornet ×2 |
+| 16:30 | **growinginv_NotTrding**: Cabbit (R), Cabbit (FR), Candy Hare (N), Ride-A-Pet Potion | **Bits_rbx**: Strawberry Shortcake Bat Dragon (FR) |
+| 16:30 | **MariLuvpo**: Ant (M), Mouse (M), Galapagos Sea Lion (M) | **noonecares11204**: Ride-A-Pet Potion |
+| 16:30 | **Laktozik1**: Candyfloss Chick, Toasty Red Panda (N) | **Thesheeeeesh_god**: Pig (R), Sheeeeep (R), French Bulldog (NFR) |
+| 16:30 | **wwwioooqq**: Goldhorn (NR) | **qquaxoww**: Maine Coon (M) |
+| 16:30 | **Lana_339**: Frost Dragon (FR), Alley Cat, Dragonfruit Fox | **destinedtobethegoat**: Owl (FR), Cherry-On-Top, Unicorn Horn, Rain Cloud Hat |
+| 16:30 | **Viktoria_11942**: Hedgehog (R), Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Chocolate Chip Bat Dragon (FR), Turtle (FR), Ride-A-Pet Potion | **nagumo2226**: Frost Dragon (FR) |
+| 16:30 | **ladovkz1**: Chocolate Chow-Chow, Blue Whale, Admin Abuse Egg ×10 | **une_portuguese**: Jumpscare (M) |
+| 16:30 | **super_dishik**: Sushi Penguin | **dipxiiid**: Ride-A-Pet Potion |
+| 16:30 | **PolkaCaat**: Black-Footed Ferret (M) | **SyndromGG**: Rose Quartz Glow Mega Neon Paint |
+| 16:30 | **epicpulsechaos2024**: Crystal Egg ×18 | **joshsawsy**: Fly-A-Pet Potion |
+| 16:30 | **Byloshka_a1**: Goat (FR), Hare, Ice Cream Hermit Crab (NR), Alley Cat (FR) | **lzxsre**: Siamese Cat (FR) |
+| 16:30 | **no_anniaomg**: Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion, Kangaroo (FR), Naughty Mistletroll (NR), Ice Cream Cone Hat | **MyMain_Looking4Done**: Naughty Mistletroll (MFR) |
+| 16:30 | **kaxuu_u**: Border Collie (NFR) | **jeffreystarleaks**: Werewolf (NFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
