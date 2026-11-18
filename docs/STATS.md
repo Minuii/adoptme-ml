@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 08:41 UTC by the scrape workflow._
+_Updated 2026-11-18 08:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 08:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 30,573 | 2026-11-18T08:30 |
-| elve | 8 | 6,335 | 2026-11-18T08:31 |
+| amvgg | 8 | 30,802 | 2026-11-18T08:45 |
+| elve | 8 | 6,353 | 2026-11-18T08:45 |
 
-## AMVGG completed trades: 31,162 total
+## AMVGG completed trades: 31,163 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,089 |
+| 2026-11-18 | 1,090 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,7 @@ _Updated 2026-11-18 08:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:45 | **treybuyz**: Evil Unicorn (FR) ×2, Cryptid (R), Cow (FR), Fairy Bat Dragon (FR) ×2, Alpaca (FR), Candicorn (FR), Blue Dog (R) | **cookieuxblox**: Strawberry Shortcake Bat Dragon (MFR) |
 | 08:41 | **ADVENT1235678**: Arctic Dusk Dragon (NFR) | **h4_cd**: Pet Handler Pro Certificate ×9 |
 | 08:41 | **bunnyblinkP**: Axolotl (FR), Axolotl (R), Phoenix (FR), Phoenix (R), Octopus (FR), 2D Kitty (R), Capricorn (FR) ×2, Capricorn, Kitsune, Kitty Bat, Lavender Dragon (FR), Cactus Friend, Kiwi Kiwi, King Bee | **booluqx**: Kangaroo (FR) |
 | 08:41 | **MorpekoMuncher**: Ride-A-Pet Potion ×9 | **odading12318**: Shrew (R), Meerkat (FR) |
@@ -47,7 +48,6 @@ _Updated 2026-11-18 08:41 UTC by the scrape workflow._
 | 08:41 | **L4dyBrav3DollphinRBL**: Black Widow (M) | **iqitotoru**: Siamese Cat (R) |
 | 08:41 | **Bunny_189659**: Kangaroo (FR), Fly-A-Pet Potion ×8 | **odading12318**: Kangaroo (NFR) |
 | 08:36 | **the3reveng**: Puptune, Ruddy Duck, Unicorn Ducky, Easter Bunny, Cozy Mistletroll, Stygian Owl | **16y97**: Ride-A-Pet Potion |
-| 08:36 | **Venomally_6**: Vol. 2 Pets Plus Sticker Pack | **Kartkiirus**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
