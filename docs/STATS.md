@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 15:41 UTC by the scrape workflow._
+_Updated 2026-11-18 15:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 15:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 36,897 | 2026-11-18T15:30 |
-| elve | 8 | 7,590 | 2026-11-18T15:31 |
+| amvgg | 8 | 37,123 | 2026-11-18T15:45 |
+| elve | 8 | 7,673 | 2026-11-18T15:46 |
 
-## AMVGG completed trades: 32,305 total
+## AMVGG completed trades: 32,365 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,232 |
+| 2026-11-18 | 2,292 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 15:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:36 | **Singxer**: Irish Water Spaniel (NFR), Dragonfruit Fox, Dango Penguins, Pink Cat Ear Headphones, Ride-A-Pet Potion | **vampixxx00**: Snow Monkey (MFR) |
-| 15:36 | **awx_mili**: Strawberry Tortle (R) | **iv2yec**: Groundhog (NFR), Brown Bear, Polar Bear (R), Fly-A-Pet Potion |
-| 15:36 | **bazychko**: Persian Cat (M), Capybara | **dutiewx**: Pet Handler Pro Certificate |
-| 15:36 | **Schizik_1059**: River Otter (M) | **wi0qwi**: Ride-A-Pet Potion |
-| 15:36 | **Ksu_lovesssO**: Fly-A-Pet Potion, Caramelgeist (N), Mummy Spider (N) | **Lisaaaaaaaaaaaa_1848**: Ride-A-Pet Potion ×2 |
-| 15:36 | **amvggalt1**: Unicorn Horn | **HEARTS4_MELAINE**: Tuxedo Cat (MFR) |
-| 15:36 | **milk_rbx1001**: Ginger Cat (N) | **tommylikeroblox2009**: Retired Egg ×10 |
-| 15:36 | **iluvkhattafya**: Pet Handler Pro Certificate | **ghost_fajei**: Ride-A-Pet Potion ×2 |
-| 15:36 | **limohq**: Fly-A-Pet Potion ×16, Thunderfisher | **docedelets**: Cow (FR) |
-| 15:36 | **EvadeL0v3r_xd**: Tiny Wings | **Bia_salgadin**: Spring Bunny Hood, Spring Bunny Feet, Spring Bunny Nose |
-| 15:36 | **dnqlifee**: Mummy Spider (M), Caramelgeist (M) | **kocinckogo**: Ride-A-Pet Potion |
-| 15:36 | **lol115783**: Kitsune, Chocolate Chow-Chow, Classic Trade Stand | **h4_cd**: Ride-A-Pet Potion |
-| 15:36 | **M1cahsWRLD**: Werewolf (FR), Lava Dragon (FR), Ice Cream Cone Hat | **RblxRevolt**: Monkey King (FR) |
-| 15:36 | **jetedispas212**: Chihuahua, Eggnog Dog, Koala, Butter Knife | **WintErSnowy1**: Fly-A-Pet Potion |
-| 15:30 | **Aggr0berlin**: Jiggly Jerboa (M), Jumping Spider (M), Jumpscare (M) | **Kira9975335**: Moose Calf |
+| 15:45 | **JeongwooOnlyMine**: Kangaroo, Kangaroo (NFR), Pig (NFR), Frost Fury (NFR), Brown Bear (MFR), Ice Cream Cone Hat, Spring Bunny Nose, Butter Knife | **leruval**: Crow (FR) |
+| 15:45 | **AngelsHarxx_Lilyluvz**: Bubblegeist (MFR), Skelicorn (MFR) ×2, Stitches (MFR), Boohoo (MFR), Jumpscare (MFR) | **bl0xby**: Catte (MFR) |
+| 15:45 | **Adore_Pandaz**: Pet Handler Pro Certificate | **WintErSnowy1**: Fly-A-Pet Potion |
+| 15:45 | **dtOvsq**: Punk Pony (N), Chihuahua, Thunderfisher (N) | **WintErSnowy1**: Fly-A-Pet Potion |
+| 15:45 | **ElishaJade12341**: Siamese Cat (R) | **squ_evder**: Alpaca (R) |
+| 15:45 | **arseniylolol**: Midnight Dragon (FR) | **Alinka_s36**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 15:45 | **XL4IL4_FGYX**: Leopard Shark (MR), English Sheepdog (MR), Chihuahua (M), Malaysian Tapir (MR) | **The_JuJubee13**: Moose Calf (MFR) |
+| 15:45 | **realpdrilla1**: Toaster Hat, Fly-A-Pet Potion | **UrFavC1li**: Flash Weasel |
+| 15:45 | **elyyz_sen**: Zebra (M), Pilot Gull (M), Orangutan (M), Mexican Wolf (M) | **larrvqx**: Fly-A-Pet Potion |
+| 15:45 | **moral608**: Ride-A-Pet Potion ×5 | **DrizzledTxffee**: Fallow Deer (R) |
+| 15:45 | **Kamelia07125**: Count Slothula, Binturong, Chihuahua | **jasminesep16**: Fly-A-Pet Potion |
+| 15:45 | **MyKittyIsAApril**: Dalmatian (FR), Munchkin Cat, Ride-A-Pet Potion ×6 | **kiff_shik**: Hedgehog (FR) |
+| 15:45 | **coqoqek**: Bee (N) | **Carnage_7wyvtP**: Christmas Pudding House ×2 |
+| 15:45 | **starswirl_64**: Frost Fury (FR), Chihuahua | **AsianIceCold**: Scarecrow Cat (MR) |
+| 15:45 | **obsidianMoon87**: Emperor Gorilla (R), Pig, Elephant (FR), Ride-A-Pet Potion, Moose Calf (R) | **werlianess**: Blue Egg |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
