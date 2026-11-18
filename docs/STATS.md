@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 14:31 UTC by the scrape workflow._
+_Updated 2026-11-18 14:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 14:31 UTC by the scrape workflow._
 | amvgg | 8 | 35,975 | 2026-11-18T14:30 |
 | elve | 8 | 7,375 | 2026-11-18T14:31 |
 
-## AMVGG completed trades: 32,075 total
+## AMVGG completed trades: 32,115 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,002 |
+| 2026-11-18 | 2,042 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 14:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:30 | **rainbowunicornpand4**: Sugar Glider (MFR), Alley Cat (MFR) | **clihello**: Alpaca (MFR) |
-| 14:30 | **katerina_ishchak**: Ride-A-Pet Potion | **lamasbrainrotpro**: Classic Trade Stand, Choco Penguin (N) |
-| 14:30 | **snorlax7976**: Hare (NFR), Jacobin Pigeon (M), Caramelgeist (N) | **Randomiix_3**: Albino Monkey |
-| 14:30 | **TheKindAndOnly**: Arctic Fox (FR), Winged Horse (NR), Pancake Stack, Rain Boots, Pink Cat Ear Headphones, Bready Necklace, Butter Knife | **wskdaks**: Kangaroo (FR) |
-| 14:30 | **goodman10043**: Turtle (FR) | **Elouisepanda**: Pupcicle (MFR) |
-| 14:30 | **plasfreerb**: Munchkin Cat (MFR) | **Dovakhiin1205**: Evil Unicorn (FR) |
-| 14:20 | **TwistedK1tty**: Fly-A-Pet Potion ×17 | **Manggo_Pie40**: Cow (FR) |
-| 14:20 | **Zxquiie**: Dalmatian (FR), Cabbit (FR), Chocolate Dutch Guinea Pig (MFR), Giant Anteater (R) | **Bits_rbx**: Balloon Unicorn (FR) |
-| 14:20 | **Dax_ontop1**: Turtle (NFR), Albino Monkey (FR), Winged Tiger, Ice Cream Cone Hat | **ADMaltSUSHI3**: Kangaroo (MFR) |
-| 14:20 | **Fakel_780**: Pupcicle (N), Spring Bunny Hood | **KaliElza123**: Copycat (FR) |
-| 14:20 | **strqwb3rriies**: Cryptid (NFR), Cabbit (FR), Goose (R) | **4evxer**: Cabbit (MFR) |
-| 14:20 | **strqwb3rriies**: Bunny Swirl (MR), Red Dutch Guinea Pig | **loptxi**: Toaster Hat |
-| 14:20 | **Bl0ssom_Xx0**: Siamese Cat (MFR), Border Collie (MFR) | **XxKittyNaperxX427372**: Crow (NFR) |
-| 14:20 | **vampire2169**: Frost Dragon (FR), Elephant (FR), Arctic Fox (R) | **tr4d3s_adoptnew**: Dalmatian (R) ×2, Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) |
-| 14:20 | **xGracie_1234x**: German Shepherd (M) | **Seancarlosd**: Unicorn Horn |
+| 14:36 | **g00sena**: Papa Moose | **Bembi_Flowers**: Fly-A-Pet Potion ×3 |
+| 14:36 | **dnqlifee**: Pet Handler Pro Certificate | **Bembi_Flowers**: Fly-A-Pet Potion |
+| 14:36 | **mogpups**: Unicorn Horn, Tiny Wings, Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×10 | **Terranese**: Werewolf (NFR) |
+| 14:36 | **ellieisfunandyournot**: Candicorn (NFR), Spring Bunny Hood, Spring Bunny Nose, Cotton Candy Hat ×2, Tiny Wings, Spring Bunny Feet, White Sand Dollar (MFR) | **pandapo05**: Cabbit (NFR) |
+| 14:36 | **Shadx_1553**: Giraffe (MFR), Crow (NFR), Kangaroo (FR) | **rlysaturn**: Shadow Dragon (MFR) |
+| 14:36 | **Rbd_JP**: Mini Pig (MFR), Crow (FR), Haetae (FR), Strawberry Shortcake Bat Dragon, Bush Elephant, 2022 Birthday Party Hat | **joee123514**: Giraffe (FR) ×2 |
+| 14:36 | **Alice_toca12345**: Sushi Penguin, Heart Bow | **katerina_ishchak**: Ride-A-Pet Potion |
+| 14:36 | **Fel1xx_qi**: Balloon Unicorn (FR), Goose (FR), Harp Seal (MFR) | **YuroMiyuk1**: Border Collie (MFR) |
+| 14:36 | **XTREYT**: Cryptid (NFR), Winged Tiger (MFR), Border Collie (MFR), 2022 Birthday Party Hat ×6, Angel Wings, 2022 Birthday Cake, 2022 Birthday Cupcake Shoes, Rain Cloud Hat, Tiny Wings, Ice Cream Cone Hat ×2, Spring Bunny Hood ×2 | **NoobA0M**: Cryptid (MFR) |
+| 14:36 | **1Biahsz_altx**: Fairytale Egg ×5 | **arisuliveforus7**: Huntsman Robin |
+| 14:36 | **PRODAZA_STARPETS**: Peacock (R) | **l_i8ra7**: Ride-A-Pet Potion |
+| 14:36 | **hauntsv**: Owl (NFR), Parrot (NFR), Unicorn Backpack | **AestxStella**: Bat Dragon (FR) |
+| 14:36 | **VvK1e**: Pig (FR) ×2, Pig (R) | **wskdaks**: Cow |
+| 14:36 | **wskdaks**: Munchkin Cat (R) | **kxc1el31gh**: Pig (FR) |
+| 14:36 | **BulbyChallenges**: Mushroom Friend, Skelicorn (N) | **Biscvidi29**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
