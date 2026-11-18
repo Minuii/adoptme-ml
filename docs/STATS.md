@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 05:41 UTC by the scrape workflow._
+_Updated 2026-11-18 05:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 05:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 27,797 | 2026-11-18T05:30 |
-| elve | 8 | 5,838 | 2026-11-18T05:31 |
+| amvgg | 8 | 28,034 | 2026-11-18T05:45 |
+| elve | 8 | 5,859 | 2026-11-18T05:45 |
 
-## AMVGG completed trades: 30,778 total
+## AMVGG completed trades: 30,787 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 705 |
+| 2026-11-18 | 714 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 05:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:45 | **ilikem4ths**: Ice Cream Cone Hat | **Bridgetpppp9**: Pink Cat |
+| 05:45 | **Vqlery0067**: Flamingo (FR), Ride-A-Pet Potion ×4, Sushi Penguin, Jiggly Jerboa (M), Skelicorn (N), Rubber Ducky (M), Micro Car | **plokim74**: Jester Dragon (NFR) |
+| 05:45 | **hello_oliya**: Cow (FR) | **boundedmoney**: Candyfloss Chick (R), Moon Rabbit (M), Pet Handler Pro Certificate |
+| 05:45 | **Friedb3ansAndcheese**: Candicorn, Munchkin Cat, Spring Bunny Hood, Ride-A-Pet Potion | **XBobaAestheticGirlXX**: Goose (R) |
+| 05:45 | **GranTakeshi**: Ice Cream Cone Hat | **Noyniya**: Fly-A-Pet Potion ×3 |
+| 05:45 | **TMDung20**: Giraffe (FR), Evil Unicorn (FR), Goose | **Hungry_Sleppy**: Owl (NFR), Turtle (FR) |
+| 05:45 | **iuvzjules**: Unicorn | **Chadreedpalmares07**: Sushi Penguin |
+| 05:45 | **Antonnyalexander2009**: Cabbit (MFR), 2022 Birthday Cupcake Shoes, Unicorn Horn | **qu3t3imp0rta_XD**: Alpaca (MFR) |
+| 05:45 | **carlkilling**: Spring Bunny Feet | **ellielielielieee**: Fly-A-Pet Potion |
 | 05:41 | **Tishaaqwxs**: Glider, Peppermint Penguin (R), Magic House Door | **brumgildav**: Hot Doggo (R) |
 | 05:41 | **sukhdeo6275**: Fly-A-Pet Potion, Red Panda (N) | **hijodefrutaXdd9**: Ride-A-Pet Potion ×2 |
 | 05:41 | **theking_56yt**: Jeff's Nametag | **rainbow72679**: Ride-A-Pet Potion |
 | 05:41 | **purple_girlX09**: Velocirooster | **heheiamevilok**: Many Mackerel |
 | 05:36 | **hqtle**: Siamese Cat (MFR) | **ii_aldrin20**: Siamese Cat (M) |
 | 05:36 | **emoloalt88**: Alley Cat (MFR) ×2, Alpaca (R), Happy Clam (NR), Haetyphoon (R) | **leruval**: Crow (FR) |
-| 05:36 | **vivvlly**: African Wild Dog (FR) | **rastafarismo10**: Orchid Butterfly (FR), Goose (FR) |
-| 05:36 | **monrio100**: Cryptid (FR) | **gdhjsbdhhsbs**: Strawberry Shortcake Bat Dragon (NFR), Skele-Rex (MFR) |
-| 05:36 | **DJpixel1456**: Cryptid (FR), Giant Panda (FR), Strawberry Tortle (R), Unicorn Horn | **awrriah**: Cabbit (MFR) |
-| 05:36 | **brookxx44**: Grim Dragon (FR) | **roblox_user_2357474083**: Turtle (R) |
-| 05:36 | **Zuminkikiki**: Ride-A-Pet Potion | **Zukiemido_07**: Sushi Penguin |
-| 05:36 | **StarFallFRL**: Admin Abuse Egg ×18 | **Crims0n_Dusk**: Ride-A-Pet Potion |
-| 05:36 | **Zombie_8803**: Siamese Cat, Fairy Bat Dragon (FR), Admin Abuse Egg | **kittyarchivies**: 2022 Birthday Party Horn ×2, 2022 Birthday Confetti Cannon, Tiny Wings |
-| 05:36 | **munchaskyworld**: Ride-A-Pet Potion ×5, Pet Handler Pro Certificate | **carlkilling**: Arctic Fox |
-| 05:36 | **ellielielielieee**: Donut Stroller, Hot Doggo Sticker, Snowy Mammoth (N), Starfish (N), Red Panda (N), Robot (N) ×3, Soulfire Animated Sticker, High Heel Stroller, Claw Machine Stroller, Storm Condor (N), Cat Backpack, Froggy Stroller | **popkor844**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
