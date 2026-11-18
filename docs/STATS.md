@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 11:46 UTC by the scrape workflow._
+_Updated 2026-11-18 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 11:46 UTC by the scrape workflow._
 | amvgg | 8 | 33,268 | 2026-11-18T11:45 |
 | elve | 8 | 6,828 | 2026-11-18T11:46 |
 
-## AMVGG completed trades: 31,593 total
+## AMVGG completed trades: 31,618 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,520 |
+| 2026-11-18 | 1,545 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 11:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:45 | **aianame_rey**: Angus Calf (NFR) | **dnei30fast**: Ride-A-Pet Potion |
-| 11:45 | **muniradypa**: Mochi Meow ×2, Chihuahua ×2 | **shdhsjjn**: Ride-A-Pet Potion |
-| 11:45 | **Mydgsf_bcsg**: Solaris (FR), Aestus | **dnei30fast**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion |
-| 11:45 | **roronoazoro1gg**: German Shepherd (R), German Shepherd | **Daniel11122255**: Pet Handler Pro Certificate |
-| 11:45 | **cocowiol**: Sabertooth | **isopawedd**: Christmas Pudding House |
-| 11:45 | **my_frogys**: Skelicorn (M), Jumpscare (M), Bobageist (M) | **iSIxth3r**: Capricorn (R), Golden Hamster (N) |
-| 11:45 | **G0LD19K**: Fairy Bat Dragon (R), Shark Puppy | **Alisjdfhh**: Goose (FR), Pet Handler Pro Certificate, Banana Hat |
-| 11:45 | **TradingAM1**: Count Slothula, Skelicorn, Fire Stallion, Red Panda, Corgi, Toucan, Ginger Cat, Kakapo | **k_sybom**: Ride-A-Pet Potion |
-| 11:45 | **refeesv**: Alley Cat (N), Ride-A-Pet Potion ×2 | **Kingfam90**: Border Collie |
-| 11:45 | **Traderieeeeeeeee1**: Strawberry Shortcake Bat Dragon (FR), Sheeeeep (NFR), Ghost Bunny (NFR), Tiny Wings, Spring Bunny Hood, Spring Bunny Feet | **sashaterebik2014**: Cryptid (FR) |
-| 11:45 | **Lurxell**: Owl (FR), Chocolate Chip Bat Dragon (FR) | **Dina0239**: Frost Dragon (FR) |
-| 11:45 | **uuukabzhxj78**: Poodle (M), Mouse (M), Ant (M) | **Xxsunflower_watherxX**: Ride-A-Pet Potion |
-| 11:45 | **siria20144**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **LolWawss111**: Lavender Dragon (NFR) |
-| 11:45 | **Hales_Elise**: Candicorn (FR), Copycat (R) | **Den_826uhwk**: Jester Dragon (NFR) |
-| 11:45 | **itzz_Keys**: Fly-A-Pet Potion ×2 | **Jsjskdldkdndndn**: Unicorn (R), Ride-A-Pet Potion, Mrs. Whiskerpips (NR), Nautilus (R), Princess Mare (N) |
+| 11:55 | **WeirdKage**: Parrot (FR), Frost Dragon (NFR), Balloon Unicorn (FR), Strawberry Shortcake Bat Dragon (FR) | **aqvartzo**: Bat Dragon (FR) |
+| 11:55 | **BurakK192**: Ride-A-Pet Potion ×2 | **KIWIGrbx**: Ice Cream Hermit Crab |
+| 11:55 | **Overgrowth15**: Dango Penguins (MFR), Fallow Deer (NR), Fly-A-Pet Potion, Red Dutch Guinea Pig, Snow Owl (R) | **cirocrack2020**: Strawberry Shortcake Bat Dragon (R), Ride-A-Pet Potion |
+| 11:55 | **100boom15**: Fly-A-Pet Potion ×3 | **KFC_C0nya**: Frost Fury (FR) |
+| 11:55 | **sky_426**: Unicorn | **akdloma**: Pupcicle |
+| 11:55 | **nico_123uw**: Jester Dragon (FR) | **Cattychiee**: Unicorn ×8 |
+| 11:55 | **NikaFox0403**: Hedgehog (FR), Matcha Cat (FR) ×2, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **TaPok228pon**: Field Mouse (MFR) |
+| 11:55 | **anyilaa_dumpoo**: Cryptid (FR), Queen Bee (NFR), Ice Cream Cone Hat | **Cinzsins**: Blazing Lion (FR) |
+| 11:51 | **akkumalt**: Fly-A-Pet Potion, Ride-A-Pet Potion | **andzdza**: Unicorn Cycle |
+| 11:51 | **splashJuggernaut**: Santa Hat ×18 | **AvaCometfish961**: Parrot (FR) |
+| 11:51 | **Real_Dream90z**: Scarebear (MFR) | **Belen7267**: Tuxedo Cat (MFR) |
+| 11:51 | **Lilu2383**: Arctic Reindeer (FR) | **geBochka_bega3**: Goose (FR), Cow, Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Slimingo Feather Teleporter |
+| 11:51 | **ChirsmastMyBhirtday**: Goose (NFR) | **Liza10kis**: Goose (FR), Sugar Glider (FR), Siamese Cat (FR) |
+| 11:51 | **MATT_2011901**: Elephant (R) | **daanz2**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×11 |
+| 11:51 | **MalikovaVika24**: Diamond Dragon, Golden Unicorn, Alicorn ×2, Three Blind Mice ×2, Purrowl, Ancient Dragon | **rodionova53**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
