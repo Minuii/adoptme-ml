@@ -1,20 +1,20 @@
 # Collected data
 
-_Updated 2026-11-18 02:40 UTC by the scrape workflow._
+_Updated 2026-11-18 02:45 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 14 | 2026-11-11T1036Z | 2026-11-17T0145Z |
+| elve | 15 | 2026-11-11T1036Z | 2026-11-18T0245Z |
 | amvgg | 39 | 2026-11-11T1036Z | 2026-11-17T1945Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 25,044 | 2026-11-18T02:30 |
-| elve | 8 | 5,290 | 2026-11-18T02:31 |
+| amvgg | 8 | 25,250 | 2026-11-18T02:45 |
+| elve | 8 | 5,315 | 2026-11-18T02:45 |
 
 ## AMVGG completed trades: 30,437 total
 
@@ -49,25 +49,25 @@ _Updated 2026-11-18 02:40 UTC by the scrape workflow._
 | 02:40 | **BIg_BoRdy**: Red Squirrel (MFR) | **kjm_5741**: Chihuahua ×4, Peachick ×4, Orange Butterfly, Blue Ringed Octopus, Panda (FR), Drake, Lamb, Happy Duckling ×2, Toasty Red Panda ×2, Highland Cow |
 | 02:40 | **h4_cd**: Pet Handler Pro Certificate | **xolvrxo**: Tealwood Monster (M) |
 
-## Elvebredd value changes: 62,129 since 2023-09-16
+## Elvebredd value changes: 62,281 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-17 01:14 | Pupcicle | mega fly ride | 26.4 | 24.4 |
-| 2026-11-17 01:14 | Pupcicle | neon fly ride | 6.35 | 5.85 |
-| 2026-11-17 01:14 | Pupcicle | default no potion | 1.1 | 1 |
-| 2026-11-17 01:14 | Copycat | mega fly ride | 138 | 130 |
-| 2026-11-17 01:14 | Copycat | neon fly ride | 34 | 32 |
-| 2026-11-17 01:14 | Copycat | default no potion | 7.5 | 7 |
-| 2026-11-17 01:14 | Jester Dragon | mega fly ride | 120 | 116 |
-| 2026-11-17 01:14 | Jester Dragon | neon fly ride | 30 | 29 |
-| 2026-11-17 01:14 | Jester Dragon | default no potion | 7 | 6.75 |
-| 2026-11-17 01:14 | Amethyst Penguin | mega fly ride | 2272 | 2224 |
-| 2026-11-17 01:14 | Amethyst Penguin | neon fly ride | 558 | 546 |
-| 2026-11-17 01:14 | Amethyst Penguin | default fly ride | 138 | 134 |
-| 2026-11-17 01:14 | Strawberry Tortle | mega fly ride | 608 | 600 |
-| 2026-11-17 01:14 | Strawberry Tortle | neon fly ride | 150 | 148 |
-| 2026-11-17 01:14 | Strawberry Tortle | default no potion | 36.5 | 36 |
+| 2026-11-18 02:17 | Count Slothula | mega fly ride | 21.2 | 20.2 |
+| 2026-11-18 02:17 | Count Slothula | neon fly ride | 5.05 | 4.8 |
+| 2026-11-18 02:17 | Count Slothula | default no potion | 0.85 | 0.8 |
+| 2026-11-18 02:17 | Jester Dragon | mega fly ride | 116 | 112 |
+| 2026-11-18 02:17 | Jester Dragon | default no potion | 6.75 | 6.5 |
+| 2026-11-18 02:17 | Strawberry Tortle | mega fly ride | 600 | 580 |
+| 2026-11-18 02:17 | Strawberry Tortle | neon fly ride | 148 | 143 |
+| 2026-11-18 02:17 | Strawberry Tortle | default no potion | 36 | 34.5 |
+| 2026-11-18 02:17 | Tuxedo Cat | mega fly ride | 26 | 24.4 |
+| 2026-11-18 02:17 | Tuxedo Cat | neon fly ride | 6.25 | 5.85 |
+| 2026-11-18 02:17 | Tuxedo Cat | default no potion | 1.08 | 1 |
+| 2026-11-18 02:17 | Bunny Swirl | mega fly ride | 12.2 | 12.6 |
+| 2026-11-18 02:17 | Bunny Swirl | neon fly ride | 2.8 | 2.9 |
+| 2026-11-18 02:17 | Bunny Swirl | default no potion | 0.4 | 0.42 |
+| 2026-11-18 02:17 | Giant Panda | mega fly ride | 2700 | 2715 |
 
 ## AMVGG value changes: 7,856 since 2026-06-02
 
