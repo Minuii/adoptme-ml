@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 23:16 UTC by the scrape workflow._
+_Updated 2026-11-18 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 23:16 UTC by the scrape workflow._
 | amvgg | 8 | 44,401 | 2026-11-18T23:15 |
 | elve | 8 | 9,184 | 2026-11-18T23:15 |
 
-## AMVGG completed trades: 33,908 total
+## AMVGG completed trades: 33,941 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,835 |
+| 2026-11-18 | 3,868 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 23:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **LalayS2z**: Elephant (R) | **Darmay_y**: Ride-A-Pet Potion ×14 |
-| 23:15 | **hyr9fw**: Strawberry Shortcake Bat Dragon (MFR) | **racatelas2000**: Frost Dragon (FR), Parrot (FR) |
-| 23:15 | **LalayS2z**: Arctic Fox (R) | **stefkazzz**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
-| 23:15 | **Shadx_1553**: Cryptid (NFR), Cryptid (N), Rainbow Maker, Jellyfish | **SxmplexJr**: Shadow Dragon (FR) |
-| 23:15 | **XxkfirxbushxX**: Cryptid (R), Strawberry Tortle, Candicorn, Jellyfish (R), Shrew | **HobbyHorsing103**: Parrot (FR) |
-| 23:15 | **BlizzardvwQuantumO13**: Hedgehog (MFR), Owl (NFR), Goose (MFR) | **austinbest123**: Balloon Unicorn (MFR) |
-| 23:15 | **omachitp**: Tanuki | **charlotterae24**: Snow Leopard |
-| 23:15 | **linnyoki**: White Sand Dollar, Chocolate Dutch Guinea Pig, Black Macaque | **lilboygonnagetrocked**: Happy Clam |
-| 23:11 | **vikwpy**: Harp Seal (NR), Grave Owl (N) | **Lemon_Sealion**: St Bernard (MFR) |
-| 23:11 | **cutebunny_u0**: Christmas Pudding Pup, Snow Monkey ×2, Ghost Bunny (NFR), Goth Shoes | **nzerdy**: Candyfloss Chick (FR) |
-| 23:11 | **madmeaner**: Parrot (MFR) | **bartixoxoxx**: Frost Dragon (FR) ×3 |
-| 23:11 | **carterdelaney1**: Giant Panda (MFR) | **aisksiakamxmxdm**: Owl (NFR), Alpaca (MFR), Flamingo (MFR), Crow (FR), Giant Anteater (MFR), Haetae (FR), Goat (MFR), Christmas Pudding Pup (MFR), Diamond Amazon (MFR), Hedgehog (FR), Shrew (MFR), Groundhog (M), Hare (MFR), Rainbow Dragon (MFR), Majestic Pony (MFR), Royal Corgi (MFR) |
-| 23:11 | **rageuseTwT**: Great Pyrenees (M) | **Kayterise**: Dragonfruit Fox (N), Hamster (N) ×3 |
-| 23:11 | **9amtrain**: Rainbow Maker, Cat | **Ashley_Maylin1**: Bush Elephant (NFR), Spring Bunny Nose, Ride-A-Pet Potion |
-| 23:11 | **elproXD_7v7**: Pain au Chat ×5 | **KarlotaRaquel**: Ride-A-Pet Potion ×2 |
+| 23:25 | **av1ly**: Husky (MFR), Unicorn (MFR), Kitty Bat (M), Chihuahua (MR), Coconut Friend (MR), Eggnog Dog (MR), Australian Kelpie (MFR) | **MERCEDESE300COUPE**: Honey Badger (MFR) |
+| 23:25 | **cjfcbutjfd**: Jester Dragon | **dorito_elpro2020**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 23:25 | **purpleshimmerstars**: Hawk (NR), Admin Abuse Egg ×5 | **the_randomgirl1812**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 23:25 | **cnqrls**: Ghost Bunny (F) | **Game_Girlssx**: Ocelot ×4 |
+| 23:25 | **Valerie_12342**: Ride-A-Pet Potion ×6, Momma Moose (R), Bee (N), Albino Bat (R), Malaysian Tapir (N), Ladybug (F) | **Eliaam0_0**: Happy Duckling (M) |
+| 23:25 | **T1PSYANGEL**: Bat Dragon (FR), Dalmatian (R), Grim Dragon (FR) | **madmeaner**: Cryptid (MFR) |
+| 23:25 | **ZebraGuy2010**: Dalmatian (FR) | **copyvoting**: Glormy Hound (MFR), Red Panda (MFR), Moonbeam Peacock (NFR) |
+| 23:25 | **MrColinBlox**: Bolt (M), Caramelgeist (M), Cattuccino (N), Mummy Spider (N) | **johnpatricktasunci16**: Catte ×2 |
+| 23:25 | **Theyluv_pxachy**: Dango Penguins (MFR), Ram (MFR), Pupcicle, Ride-A-Pet Potion ×9, Fly-A-Pet Potion, Strawberry Tortle | **leftmyhoodie**: Cryptid (FR) |
+| 23:25 | **starfire_33334**: Dragonfruit Fox (MFR), Kangaroo (FR) | **iliriano0**: Strawberry Shortcake Bat Dragon (FR) |
+| 23:25 | **4532Piggy**: Cow (R) | **Mimiplayztz123**: Border Collie (R), Pig (FR), Matcha Cat (R) |
+| 23:25 | **Bismuth234**: Unicorn Horn, 2022 Birthday Confetti Cannon, Ride-A-Pet Potion | **Destellosolarhz**: Hot Doggo (FR) |
+| 23:25 | **notmymainaccount216**: Matcha Cat (NR) | **4evxer**: Cabbit (FR) |
+| 23:25 | **ixbble**: Unicorn Horn | **mwyffi**: Black Springer Spaniel (MFR) |
+| 23:25 | **XTREYT**: Rain Boots, Butter Knife | **ihitmyheadonwalls2**: Pancake Stack |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
