@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 00:45 UTC by the scrape workflow._
+_Updated 2026-11-18 00:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 00:45 UTC by the scrape workflow._
 | amvgg | 8 | 23,316 | 2026-11-18T00:45 |
 | elve | 8 | 4,945 | 2026-11-18T00:45 |
 
-## AMVGG completed trades: 30,210 total
+## AMVGG completed trades: 30,240 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 137 |
+| 2026-11-18 | 167 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 00:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:40 | **akdloma**: Pupcicle, Retired Egg ×3 | **ihavbunnies**: Ride-A-Pet Potion |
-| 00:40 | **Bismuth234**: Munchkin Cat | **Furry_lechuga**: Silly Duck (NR), Alley Cat |
-| 00:40 | **seruzeni**: Fly-A-Pet Potion ×13, Ride-A-Pet Potion ×2 | **Bismuth234**: Fairy Bat Dragon (R) |
-| 00:40 | **cutesybrookex**: Peppermint Penguin (MFR), Preppy Capuchin Monkey | **snoringkai**: Ice Cream Hermit Crab (MFR), Happy Clam (MFR), Fallow Deer (MFR), Munchkin Cat (MFR), Hare (MFR), Yeti (MFR), Aestus (MFR), Strawberry Tortle (FR) |
-| 00:40 | **iaMatthieu1**: Flamingo (FR) | **KimikoYuka**: Cheetah (N), Goat (R), Tuxedo Cat (NFR) |
-| 00:40 | **cathxdral**: Kangaroo (FR), Ride-A-Pet Potion ×2 | **Belen7267**: Copycat ×3 |
-| 00:40 | **I_KermitDEATH**: Alley Cat | **CatchMeNowo**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 00:40 | **auiciq_isp**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **iiSimplyYool**: Ghostly Cat (MR) |
-| 00:40 | **Halloween_Goat**: Pupcicle | **cathxdral**: Ride-A-Pet Potion |
-| 00:40 | **chunlihasora**: Sugar Glider (NFR) | **fluffyunicorns_932**: Blue Dog (NFR), Pink Cat (NFR) |
-| 00:40 | **iaMatthieu1**: Spring Bunny Hood, Dango Penguins | **liofe1**: Matcha Cat |
-| 00:40 | **Mimiplayztz123**: Cow (FR) ×3, Frostbite Bear (R), Siamese Cat (FR) | **Fan_deJennaO**: Balloon Unicorn (FR) |
-| 00:36 | **TomHollandisHot14**: Pupcicle | **cathxdral**: Ride-A-Pet Potion |
-| 00:36 | **Xxxxashhhh**: Pet Handler Pro Certificate ×3, Ride-A-Pet Potion | **pijgryj**: Arctic Fox |
-| 00:36 | **kreker0900**: Pupcicle | **Z4Z4LORD**: Butter Knife |
+| 00:55 | **EEEEEEEEZEEEEEEZEEEE**: Giraffe (FR), Frost Dragon (FR), Chocolate Chip Bat Dragon (FR), Mermicorn (FR), Siamese Cat (FR), Siamese Cat (R), Candyfloss Chick (FR), Lion (R), Unicorn (NFR), Ride-A-Pet Potion ×2, Burger Bear (MR) | **mamadmasa010**: Bat Dragon (FR) |
+| 00:55 | **haylie90kmkh**: Ride-A-Pet Potion | **razarvale2z**: Chihuahua ×3 |
+| 00:55 | **fozzypop2007**: Owl (FR) | **Ellas_Preston**: Candy Cannon, Ginger Cat (M) |
+| 00:55 | **aydachan200311**: Ride-A-Pet Potion ×4 | **BillCipherLover1st**: Fallow Deer |
+| 00:55 | **gumiiitooo**: Puffin (R), Ride-A-Pet Potion, Quokka (N), Burger Boots | **xXfayridreamXx**: Cupid Dragon (FR) |
+| 00:55 | **RAiishiN3**: Crocodile (FR), Flaming Fox, Mule | **wx8zqxx**: Super Saru (MFR) |
+| 00:55 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×16 | **Z_Alexis22**: Turtle (FR) |
+| 00:55 | **razarvale2z**: Chihuahua ×3 | **hefeltsafe**: Ride-A-Pet Potion |
+| 00:50 | **0XBONNIEX0**: Chocolate Chip Bat Dragon Backpack, Unfortunate Eyelashes | **Pvnk_0x**: Butter Knife |
+| 00:50 | **Gamerqueen1255**: Gemstone Egg | **MiNa067789**: Retired Egg ×18 |
+| 00:50 | **hefeltsafe**: Retired Egg ×12 | **nimalina463**: Rubber Ducky (N) |
+| 00:50 | **ivilin_04**: Ride-A-Pet Potion ×2 | **Machaddkkj**: Fly-A-Pet Potion |
+| 00:50 | **minismudgepanda**: Chocolate Chip Bat Dragon (NFR) ×2 | **sleepy_s0ren**: Frost Dragon (FR), Border Collie ×2 |
+| 00:50 | **vivicacke17**: Shark | **RealVeronnisaa**: Ride-A-Pet Potion |
+| 00:50 | **Melocotonrancio**: Purrowl, Ancient Dragon | **HAJK102**: Retired Egg ×15 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
