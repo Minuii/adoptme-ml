@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 20:46 UTC by the scrape workflow._
+_Updated 2026-11-18 20:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 20:46 UTC by the scrape workflow._
 | amvgg | 8 | 42,011 | 2026-11-18T20:45 |
 | elve | 8 | 8,693 | 2026-11-18T20:46 |
 
-## AMVGG completed trades: 33,457 total
+## AMVGG completed trades: 33,489 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,384 |
+| 2026-11-18 | 3,416 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 20:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:45 | **ruinedbleeded**: Ride-A-Pet Potion ×2 | **Monicaj72833**: Dango Penguins |
-| 20:45 | **nikiph9w**: Munchkin Cat (MFR), Rainbow Maker, Unicorn Horn, Jellyfish (MFR), Strawberry Tortle | **Silentpuppies**: Alpaca (MFR) |
-| 20:45 | **micaelakdkdn**: Unicorn Horn | **Monicaj72833**: Tuxedo Cat (M) |
-| 20:45 | **B282728**: African Wild Dog (FR), Ride-A-Pet Potion | **Adoptmetakc**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
-| 20:45 | **KanskjeMatilde**: Crow (NFR) | **Monicaj72833**: Owl (FR), Turtle (NFR), Kangaroo (NFR), Tiny Wings, Alley Cat (NR), Chocolate Dutch Guinea Pig (N), Ride-A-Pet Potion, Shrew, Latte Kitsune (FR), Spring Bunny Hood, Cake Friend (N), Chef Hat, Pet Handler Pro Certificate |
-| 20:45 | **B282728**: African Wild Dog (FR), Winged Tiger (FR), Unicorn (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Adoptmetakc**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR) |
-| 20:45 | **santii_css**: African Wild Dog (FR) | **lantongzp**: Emperor Gorilla (MFR) |
-| 20:45 | **nazanin_201**: Red Dutch Guinea Pig (N) | **theropywasted**: Border Collie |
-| 20:45 | **cupidx_skyz**: Albino Monkey (FR) | **Alika_Queen01**: Groundhog (FR), Diamond Hamster (N), S'mores Raccoon (N), Ride-A-Pet Potion |
-| 20:45 | **Itsserena108**: Tiny Wings | **Monicaj72833**: Fly-A-Pet Potion ×5 |
-| 20:45 | **Nastya_Mihalyk**: Unicorn (NR), Strawberry Shortcake Ducky (NR) | **itsxxazra**: Frost Fury (FR) |
-| 20:45 | **Sad_Polya**: Dalmatian (FR), Hedgehog (FR), Chocolate Chip Bat Dragon (FR) ×3, Cow (R), Elephant (R) | **whiplashtempo0**: Owl, Parrot (FR), Turtle (FR), Lion (R), Copycat |
-| 20:45 | **animegirlfan121**: Ride-A-Pet Potion ×5, Skelicorn (N) | **Angel_Compl3xLOL**: Pancake Stack, Waffle Wyrm (M), Chocolate Dutch Guinea Pig, Nurse Shark (M), Shih Tzu (NR), Choco Penguin, Zebra (N), Mexican Wolf (N), Poodle (N) |
-| 20:45 | **B282728**: African Wild Dog (FR) | **Adoptmetakc**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon Backpack |
-| 20:45 | **B282728**: African Wild Dog (FR), Winged Tiger (FR), Fly-A-Pet Potion | **Adoptmetakc**: Crow (FR) |
+| 20:51 | **ShadowYTW**: Cryptid, Fly-A-Pet Potion | **NOOBinROBLOX2022**: Cryptid (FR) |
+| 20:51 | **justi1cee**: Fairy Bat Dragon (NFR), Cow (FR), Kangaroo (FR), Chihuahua | **Kathlyne450000**: Goose (FR), Cow (FR), Goose, Fairy Bat Dragon (FR), Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 20:51 | **Elf_Deme**: Kangaroo (FR), Chocolate Dutch Guinea Pig (MR), Goose (FR), Brown Springer Spaniel (N), Ice Cream Cone Hat, Pancake Stack, Fly-A-Pet Potion ×2 | **meowxik1**: Evil Unicorn (FR) |
+| 20:51 | **unicorntimedabeast**: Crocodile (R) | **Berestyana_Kira**: Haetyphoon |
+| 20:51 | **czuk0423**: Ride-A-Pet Potion | **Eceuni**: Candyfloss Mega Neon Paint |
+| 20:51 | **Hello_555819**: Aurora Fox | **cliuic**: Ride-A-Pet Potion ×6 |
+| 20:51 | **IzRaiaUwUZaia**: Ride-A-Pet Potion ×5 | **Soso4ka004**: Sheeeeep |
+| 20:51 | **KXNlol**: Orange Butterfly | **cchloecrichtonsecret**: Ride-A-Pet Potion |
+| 20:51 | **serspect**: Unicorn (N), Emberlight (N), Gumball Caterpillar (N) | **Cutecupshakes**: Copycat |
+| 20:51 | **serspect**: Black-Footed Ferret (M) | **Varenkarciktwo**: Ride-A-Pet Potion |
+| 20:51 | **Mitribuyyo**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×2, Pupcicle | **grijfe8r**: Alley Cat (FR) |
+| 20:51 | **xyilo_01122005**: Mighty Haetyphoon Animated Sticker | **Yahya_Surge8961**: Crystal Egg ×18 |
+| 20:51 | **ambervgils**: Candy Hare (MFR), Cake Friend (M), Goose (FR) | **AwfulxLilly**: Arctic Dusk Dragon (MFR), Hippo (MR) |
+| 20:51 | **PlayOfHappy**: Rose Quartz Glow Mega Neon Paint | **reignsfree**:  |
+| 20:51 | **clihello**: Meerkat (MFR), Turtle (FR) | **Kelwen96**: Many Mackerel (MFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
