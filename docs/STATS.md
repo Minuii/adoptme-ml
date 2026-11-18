@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 17:55 UTC by the scrape workflow._
+_Updated 2026-11-18 18:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 17:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 39,085 | 2026-11-18T17:45 |
-| elve | 8 | 8,102 | 2026-11-18T17:46 |
+| amvgg | 8 | 39,339 | 2026-11-18T18:00 |
+| elve | 8 | 8,157 | 2026-11-18T18:01 |
 
-## AMVGG completed trades: 32,806 total
+## AMVGG completed trades: 32,818 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,733 |
+| 2026-11-18 | 2,745 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 17:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 18:00 | **Halloween_491**: 2D Doggy (R) | **DieSahne014**: Ride-A-Pet Potion |
+| 18:00 | **aedianna**: Binturong (MFR) | **Angelbatista_me2**: Unicorn (MFR) |
+| 18:00 | **siria20144**: Fly-A-Pet Potion ×3 | **officsl_n0t**: Cerberus (NR) |
+| 18:00 | **Unicornfav_animal**: Hedgehog (R), Ride-A-Pet Potion | **MallyaFFka**: Cow (FR) ×2, Cow |
+| 18:00 | **lxnxlyXfrxvxr**: Ocelot (M) ×2, California Condor (N) | **aokiji_1ceman**: Ride-A-Pet Potion |
+| 18:00 | **KayleeSt0rm147**: Lavender Dragon (M) | **roniroblox102030**: Strawberry Tortle, Arctic Dusk Dragon (FR), Phantom Dragon |
+| 18:00 | **roniroblox102030**: Arctic Dusk Dragon (FR), Pet Handler Pro Certificate | **iaMatthieu1**: Caelum Cervi |
+| 18:00 | **ILoveCatsss800**: Groundhog (MFR), French Bulldog (MFR), Nessie (MFR), 2022 Birthday Cupcake Shoes | **bypalmas**: Cow (MFR) |
+| 18:00 | **Katerryrka**: Latte Kitsune | **Xxxxashhhh**: Ride-A-Pet Potion ×3 |
+| 18:00 | **JWLEIEJSK**: Dalmatian (R) | **ttrawis**: Turtle (NFR), Cow (R) |
+| 18:00 | **Princess_Kourtney900**: Ride-A-Pet Potion ×2, Sloth (R), Chocolate Dutch Guinea Pig, Corgi (N), Pandaguin Glooptodog (N), Caramelgeist (N) | **kirw_eqq**: Count Slothula ×7 |
+| 18:00 | **XxBELINDA02xX**: Moon Rabbit | **Licornelillyb**: Ride-A-Pet Potion |
 | 17:55 | **AbigailLightSpark201**: Happy Clam (NR), Spring Bunny Hood, Propeller Hat | **Apop_20108**: Unicorn Horn |
 | 17:55 | **dprd22**: Christmas Pudding Pup, Arctic Fox (R), Albino Monkey (FR) | **Wolfie4567ty**: Fairy Bat Dragon (FR) |
 | 17:55 | **Captainhookine**: Cow (NFR), Grim Dragon (NFR), Winged Tiger (R), Winged Tiger, Munchkin Cat (MFR), Vampire Dragon (NFR), Phantom Dragon, Midnight Dragon (R), Jester Dragon (NFR), Frost Fury (FR), Lava Dragon (NFR), Cerberus (NFR), King Bee (MFR), Kangaroo (FR), Dango Penguins (N), Christmas Spirit (MFR), Gumball Caterpillar (M), Unicorn Ducky (M) | **kamiqwees**: Giraffe (FR) |
-| 17:55 | **Pix3lat3dOm3gaSonic5**: Copycat | **MckDull**: Christmas Pudding Pup |
-| 17:55 | **Pix3lat3dOm3gaSonic5**: Sushi Penguin (N) | **junlovee77**: Mr. Whiskerpips (N) ×2 |
-| 17:55 | **1an4hn**: Goat (R), Lamb (R), Swan, Ride-A-Pet Potion ×2 | **zjKC7l**: Shark Puppy (FR) |
-| 17:55 | **lauruchaxlll**: Glormy Hound (N), Alley Cat (N), Ride-A-Pet Potion, Blossom Snake (N) | **djqbdiwhd**: Kangaroo (FR) |
-| 17:55 | **MIN_JUSARA**: Evil Unicorn (FR), Chihuahua (MFR), Pupcicle (MR), Sloth (MFR), Fly-A-Pet Potion, Spring Bunny Hood ×2 | **xxXchange_Vibe**: Balloon Unicorn (FR) |
-| 17:51 | **100PercentWinRateHax**: 2D Kitty (NR), Fly-A-Pet Potion | **jellyfish1248396**: Field Mouse |
-| 17:51 | **nagumo2226**: Turtle (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **Mnenormalno_0**: Cabbit (FR) |
-| 17:51 | **Wolfie4567ty**: Albino Monkey (FR) | **MATT_2011901**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2 |
-| 17:51 | **sstressful**: Toaster Hat, Ride-A-Pet Potion | **nfrlilly**: Spring Bunny Hood, Spring Bunny Nose, Spring Bunny Feet |
-| 17:51 | **kaibodydump**: Cryptid (MFR) ×2, Zombie Wolf (MFR) | **MarilynBrandt562**: Bat Dragon (NFR) |
-| 17:51 | **mariagrigoryan1**: Pet Handler Pro Certificate | **albina_7807**: Crystal Egg ×18 |
-| 17:51 | **iluvkhattafya**: Pet Handler Pro Certificate | **icanbeyougirl3**: Dango Penguins |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
