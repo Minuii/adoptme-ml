@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 07:10 UTC by the scrape workflow._
+_Updated 2026-11-18 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 07:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 29,185 | 2026-11-18T07:00 |
-| elve | 8 | 6,029 | 2026-11-18T07:01 |
+| amvgg | 8 | 29,437 | 2026-11-18T07:15 |
+| elve | 8 | 6,083 | 2026-11-18T07:16 |
 
-## AMVGG completed trades: 30,960 total
+## AMVGG completed trades: 30,983 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 887 |
+| 2026-11-18 | 910 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 07:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:06 | **M1ch9l1e**: Black Springer Spaniel, Sea Angel, Alicorn, Blue Jay (N) | **Kir4kaa**: S'mores Raccoon |
-| 07:06 | **Lunaflower2020**: Little Lamb, Orca, Electric Hornet, Cattuccino, Clumpty ×3, Hoverboard, Ribcage Carriage, Royal Carriage | **MyacountJohnwcrtba**: Ride-A-Pet Potion |
-| 07:06 | **bakedkole**: Turtle (FR) ×11 | **Ishabns01**: Frost Dragon (FR) |
-| 07:06 | **Pebble_llShelly**: Ginger Cat (M) | **MyacountJohnwcrtba**: Ride-A-Pet Potion |
-| 07:06 | **johnpatricktasunci16**: Count Slothula ×2 | **pysugwysu**: Sandwich Hat |
-| 07:06 | **Fan_iNoobasya**: Fly-A-Pet Potion | **xolvrxo**: Dire Wolf (M) |
-| 07:06 | **hefeltsafe**: Chocolate Dutch Guinea Pig | **BIg_BoRdy**: Chihuahua ×3 |
-| 07:06 | **Ccoopserly**: Frostbite Bear (MFR), Arctic Fox (MR), Turtle (FR), Mini Pig (FR), Albino Monkey (FR), Elephant (FR) | **XiaoFaye1433**: Frost Dragon (NFR) |
-| 07:06 | **m4rshalI**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Field Mouse | **meliodas123e0e**: Vampire Dragon (MFR) |
-| 07:06 | **ratatyu345gg**: Irish Water Spaniel (MFR), Field Mouse (MFR), Rainbow Maker, Cabbit (FR), Green Amazon (MFR), Pink Cat Ear Headphones, Cow (NFR) | **m4rshalI**: Mini Pig (MFR) |
-| 07:06 | **m4ochiii**: Cryptid (FR), Goat | **purinsitoelmejor**: Mini Pig (NFR) |
-| 07:06 | **trialbunny**: Frostbite Bear (NFR), Jellyfish (R), Goose, Panda (MFR) | **cutekitty82467**: African Wild Dog (FR), Cupcake Sprinkle Wings |
-| 07:00 | **xbubblezxxlyn**: Mr. Whiskerpips (N) | **fzxfrf**: Ride-A-Pet Potion |
-| 07:00 | **7nillvhatessoren**: Chocolate Chip Bat Dragon (FR) | **cachorris_XD**: Strawberry Shortcake Bat Dragon (R) |
-| 07:00 | **fzxfrf**: Mr. Whiskerpips ×3 | **abc_popcatt12**: Ride-A-Pet Potion |
+| 07:15 | **YuroMiyuk1**: Chihuahua (N) | **AvaNari2010**: Fly-A-Pet Potion |
+| 07:15 | **disguisedgerm**: German Shepherd (MR) | **Pepper_Puddinn**: French Bulldog (MFR) |
+| 07:15 | **Summer_pookie11**: Sugar Glider (R), Rain Cloud Hat | **Kaiisxe**: Unicorn Horn, S'mores Raccoon (MR), Ride-A-Pet Potion |
+| 07:15 | **ugor1985**: Arctic Reindeer (R) | **GAV_6066**: Strawberry Shortcake Bat Dragon (FR), Sushi Penguin (NFR) |
+| 07:15 | **AngelinaLisa1**: Chocolate Chip Bat Dragon Backpack | **ii_martaGamer18**: Ride-A-Pet Potion |
+| 07:15 | **Lavend67r67**: Mini Pig (FR), Strawberry Shortcake Bat Dragon (FR), Ice Cream Cone Hat | **LoL22221364**: Mini Pig (NFR) |
+| 07:15 | **Axjaye**: Crow (FR), Cryptid (NFR), Cow (FR), Solaris (FR) | **CACTU5Man**: Peppermint Penguin (MFR) |
+| 07:15 | **Local_bacon026**: Pupcicle | **Shailyn09**: Burger Boots |
+| 07:15 | **Ksu_lovesssO**: Ride-A-Pet Potion ×3 | **so_funnylike**: Chocolate Dutch Guinea Pig ×2 |
+| 07:15 | **004FAscend004**: Frost Dragon (FR), Crow (FR), Cryptid (R), Border Collie (M), Alley Cat (MFR), Lamb (MFR), Peppermint Penguin (FR) | **Str_ge46**: Bat Dragon (FR) |
+| 07:15 | **DreamTeamL0ve**: Munchkin Cat (MFR), Caterpillar | **ollxcq**: Cryptid (FR) |
+| 07:15 | **YuroMiyuk1**: Fly-A-Pet Potion | **CHERRY_XXDl**: Pet Handler Pro Certificate |
+| 07:15 | **lttlhugs**: Sushi Penguin | **not_alex53956**: Ram |
+| 07:15 | **Aveliinne**: Turtle (MFR), Banana Hat, Spring Bunny Feet | **cutesyyrevenge**: Mini Pig (NFR) |
+| 07:15 | **uqxiyeol**: Ride-A-Pet Potion | **CakeOrMango**: Woodland Egg, Ginger Cat |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
