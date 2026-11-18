@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 12:25 UTC by the scrape workflow._
+_Updated 2026-11-18 12:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 12:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 33,737 | 2026-11-18T12:15 |
-| elve | 8 | 6,924 | 2026-11-18T12:15 |
+| amvgg | 8 | 33,986 | 2026-11-18T12:30 |
+| elve | 8 | 6,997 | 2026-11-18T12:31 |
 
-## AMVGG completed trades: 31,720 total
+## AMVGG completed trades: 31,725 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,647 |
+| 2026-11-18 | 1,652 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,11 @@ _Updated 2026-11-18 12:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:30 | **gdhjsbdhhsbs**: Rainbow Maker ×2, Lion Cub (R), Octopus (FR) | **EmmaStarryCrystal201**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 12:30 | **UmeiiYemmy**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **xjvdukmLOve**: Harp Seal (N) |
+| 12:30 | **V4MPIR3_001**: Tealwood Monster ×4 | **robloxgirl_daisy1**: Chameleon |
+| 12:30 | **SkaterinDeltat140964**: S'mores Raccoon (MFR), Red Fox (MFR), Burger Bear (N), Pomeranian (M) | **LunaAqua5849**: Fairy Bat Dragon (FR) |
+| 12:30 | **Leo4cestud1oTV**: Pain au Chat ×2 | **loveFire900**: Pupcicle |
 | 12:25 | **gingerbean134456**: Munchkin Cat, Ride-A-Pet Potion | **twojstarydzikitygrys**: Shark Puppy |
 | 12:25 | **pop3791020**: Arctic Fox (FR), Pig | **943049209d**: Elephant (R), Ride-A-Pet Potion |
 | 12:25 | **Nanax_8907**: Jester Dragon (FR) | **Ixc_hz**: Santa Hat |
@@ -43,11 +48,6 @@ _Updated 2026-11-18 12:25 UTC by the scrape workflow._
 | 12:25 | **iwaouki**: Gecko (MR) | **T0LMU**: Gecko (M) |
 | 12:25 | **Alisenok010**: Ride-A-Pet Potion, Cattuccino | **scoobydoo3452**: Boohoo (M) |
 | 12:25 | **Yourlocalbreadshore**: Crow (FR), Dango Penguins | **GYUGYUBINIM**: Crow |
-| 12:25 | **ywh_01**: Ride-A-Pet Potion ×2, Unicorn (NR) | **rosy2357394**: Sheeeeep (R) |
-| 12:25 | **Klaysi_flayra**: Metal Ox (NR), Mummy Spider (N) | **nikitaloooll7**: Ride-A-Pet Potion |
-| 12:25 | **LOVE_CEBA15**: Golden Dragon, Cattuccino, Golden Griffin | **YOKOZ303**: Party House |
-| 12:25 | **lisalixzahablueback**: Ride-A-Pet Potion ×2, Pain au Chat | **akdloma**: Golden Lettuce |
-| 12:25 | **lililili2288_pot**: Pink Heart Glasses, Werewolf (R) ×2 | **movy2954**: Shark Puppy (NFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
