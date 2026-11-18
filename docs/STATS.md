@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-18 22:11 UTC by the scrape workflow._
+_Updated 2026-11-18 22:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 15 | 2026-11-11T1036Z | 2026-11-18T0245Z |
-| amvgg | 43 | 2026-11-11T1036Z | 2026-11-18T1916Z |
+| amvgg | 44 | 2026-11-11T1036Z | 2026-11-18T2215Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 43,195 | 2026-11-18T22:00 |
-| elve | 8 | 8,938 | 2026-11-18T22:01 |
+| amvgg | 8 | 43,434 | 2026-11-18T22:15 |
+| elve | 8 | 8,970 | 2026-11-18T22:15 |
 
-## AMVGG completed trades: 33,759 total
+## AMVGG completed trades: 33,760 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,686 |
+| 2026-11-18 | 3,687 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,7 @@ _Updated 2026-11-18 22:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:15 | **gorevqx**: Strawberry Shortcake Bat Dragon (FR) | **cakes**: Majestic Pony (MFR), Candyfloss Chick (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
 | 22:11 | **l0w_whisper**: Pangolin (M), 2026 Birthday Butterfly (M) | **Nastya_Mihalyk**: Ride-A-Pet Potion |
 | 22:11 | **viltpool**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×2 | **KanskjeMatilde**: Chocolate Dutch Guinea Pig (N) |
 | 22:11 | **l0w_whisper**: Robot (M), Corgi (N), Robot (N) | **FcNikita24**: Ride-A-Pet Potion |
@@ -47,7 +48,6 @@ _Updated 2026-11-18 22:11 UTC by the scrape workflow._
 | 22:11 | **GL0Rl0**: Grim Dragon (NFR) ×2, Kangaroo (FR) | **iaMatthieu1**: Haetae (FR) |
 | 22:11 | **disapp6ar**: Goose (MFR), Tiny Wings | **roblox_user_8676283275**: Sugar Glider (MFR) |
 | 22:11 | **HGFAKN**: Jester Dragon, Silly Duck (NFR), Seagull (M), Ride-A-Pet Potion | **waydrown**: Snowball Pet (MR) |
-| 22:11 | **Hubxhu_bb**: Strawberry Shortcake Bat Dragon (FR), Cow (NFR), Pig (R), Meerkat, Happy Duckling (N), Ride-A-Pet Potion | **YaobendeshoiZ**: Crow (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
