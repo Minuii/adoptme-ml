@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-17 23:55 UTC by the scrape workflow._
+_Updated 2026-11-18 00:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,13 +13,14 @@ _Updated 2026-11-17 23:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 7 | 45,072 | 2026-11-17T23:45 |
-| elve | 7 | 9,589 | 2026-11-17T23:45 |
+| amvgg | 8 | 22,508 | 2026-11-18T00:00 |
+| elve | 8 | 4,815 | 2026-11-18T00:01 |
 
-## AMVGG completed trades: 30,073 total
+## AMVGG completed trades: 30,107 total
 
 | Day (UTC) | Trades |
 |---|---|
+| 2026-11-18 | 34 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -32,21 +33,21 @@ _Updated 2026-11-17 23:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:55 | **mati08proo**: Boohoo (N), Jumpscare (M) | **CandyLover31235**: Ride-A-Pet Potion |
-| 23:50 | **nessapawz**: Dodo (FR), Dodo (R), Dodo, Pupcake (MR), Maine Coon (M), Mochi Meow (MR), Ice Cube (MFR), Tan Chow-Chow (FR) | **op_con0**: Turtle (FR) |
-| 23:50 | **holixd489632**: Tri-horned Treehopper (FR), Purrowl (N) | **josias166**: Tri-horned Treehopper (R), Ride-A-Pet Potion |
-| 23:50 | **tutritam174**: Propeller Hat | **ihitmyheadonwalls2**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 23:50 | **MATT_2011901**: Happy Duckling (MFR), Great Pyrenees (MR), Eggnog Hare (N) | **Inphluens**: Turtle (FR) |
-| 23:50 | **Zocko007**: Irish Water Spaniel, Lava Dragon (FR), Llama, Husky, Swan ×2, Silly Duck ×2, Rhino, Fly-A-Pet Potion, Ride-A-Pet Potion | **op_con0**: Turtle (FR) |
-| 23:50 | **CAXAROK_0011**: Dragonfruit Fox (R), Pupcake (R), Cuddly Candle (FR), Metal Ox (N), Dango Penguins | **Faviola_HD**: Arctic Fox |
-| 23:50 | **flawless_bowdown**: Pandaguin Glooptodog (M), Jacobin Pigeon (N), Rubber Ducky (N) | **Kir4kaa**: Ride-A-Pet Potion |
-| 23:50 | **DawnL9Lighti9Chill19**: Jellyfish, Ride-A-Pet Potion | **pucheina_gogogo88**: Sea Slug |
-| 23:50 | **xlorkaa7**: Guardian Lion (F) | **cchloecrichtonsecret**: Ride-A-Pet Potion |
-| 23:50 | **Cutie_wolfie20**: Kangaroo (FR), Glacier Kitsune (FR) ×2, Ice Golem (FR), Ride-A-Pet Potion | **Fishechkaaaaa**: Peppermint Penguin (FR) |
-| 23:50 | **werreriss0**: Grim Dragon (FR), Fly-A-Pet Potion | **XxLipton_LemonxX**: Sugar Glider (R) |
-| 23:50 | **unilums**: Paint Sealer ×13 | **cxbvnniz**: Ride-A-Pet Potion |
-| 23:50 | **elproXD_7v7**: Pain au Chat ×5 | **Dash35813**: Ride-A-Pet Potion ×2 |
-| 23:50 | **Queen_Shay230**: Pain au Chat, Ginger Cat | **cchloecrichtonsecret**: Crystal Egg ×9 |
+| 00:00 | **1tz_Miki**: Rainbow Maker ×2, Unicorn Horn ×2, Rain Cloud Hat, Tiny Wings ×2, Sugar Glider (NFR), Pupcicle (N) | **chunlihasora**: Frost Dragon (FR) |
+| 00:00 | **Itsnot_1b**: S'mores Raccoon, Rubber Ducky | **iiEvenstar**: Ride-A-Pet Potion |
+| 00:00 | **LeonardoEC14**: Kangaroo (FR), Fly-A-Pet Potion ×3 | **blackaquamarine**: Turtle (FR) |
+| 00:00 | **batton0955**: Ride-A-Pet Potion ×2, Chihuahua | **aleks2u**: Dugong (M) |
+| 00:00 | **kaien12322**: Candicorn (R) | **Giannlezzz**: Pupcicle ×16 |
+| 00:00 | **aleks2u**: Hot Doggo (FR) | **XxwizzizxX**: Kangaroo (NFR) |
+| 00:00 | **Imdelulu120**: Pupcicle ×16, Ride-A-Pet Potion, Fly-A-Pet Potion | **Xz_CodeOLDriftdLBliz**: Pupcicle (M) |
+| 00:00 | **JorgeEduardo_123**: Pudding Cat (MFR) | **flozzabozza07**: Pink Betta Fish (MFR), Sea Turtle (M), Ranger Beaver (R), Pet Handler Pro Certificate, Rain Boots |
+| 00:00 | **TreasureChest033**: African Wild Dog (FR), Wolf (MFR) | **igaao**: Sakura Spirit (MFR) |
+| 00:00 | **Kyotoru_Hagi**: Pinkypillar (M), Jacobin Pigeon (M), Red Panda (N) ×2 | **jtdyc13**: Ride-A-Pet Potion |
+| 00:00 | **GrindAccount_N1**: Milk Choccybunny (M), Black Tiger (M), Fire Foal (M), Budgie Witch (M), Rabbit (M), Gummy Guana (M), Black Rhino (M), Beaver (M), Zebra (M), Ribbon Seal (M), Granny Wolf (M), Clumpty (M), Badger (M), Pangolin (M), Corgi (M), Black-Footed Ferret (M), Red Panda (M) | **Snow_micasita**: Tiny Wings |
+| 00:00 | **bunniesarecute667**: Evil Unicorn (FR), Latte Kitsune (MFR) | **GrindAccount_N1**: Sugar Axolotl (MFR) |
+| 00:00 | **awrriah**: Mini Pig (MFR), Field Mouse (MFR) | **Sn3akyw0lfBloxgames**: Balloon Unicorn (NFR) |
+| 00:00 | **SnowyBear561**: Retired Egg ×9 | **Marie_gamer201**: Cattuccino |
+| 00:00 | **sasuthebunny**: Unicorn Horn, Amami Rabbit (NR), Banana Hat | **xf4wnskull**: Jester Dragon (NFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
