@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 15:25 UTC by the scrape workflow._
+_Updated 2026-11-18 15:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 15:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 36,660 | 2026-11-18T15:15 |
-| elve | 8 | 7,531 | 2026-11-18T15:15 |
+| amvgg | 8 | 36,897 | 2026-11-18T15:30 |
+| elve | 8 | 7,590 | 2026-11-18T15:31 |
 
-## AMVGG completed trades: 32,261 total
+## AMVGG completed trades: 32,291 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,188 |
+| 2026-11-18 | 2,218 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 15:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:25 | **alllalalala03**: Chihuahua (NR), Mule | **DecayingBat**: Rock Pigeon (M) |
-| 15:25 | **BROWNBLASTER11**: Arctic Reindeer (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **lba_fofe**: Crocodile (NFR), Kangaroo (NFR) |
-| 15:25 | **awx_mili**: Groundhog (NFR), Ride-A-Pet Potion | **Fiozyl**: Unicorn Horn |
-| 15:20 | **m1so_02**: English Sheepdog (MR), Snowball Pet (MR), Burger Bear (MR), Bunny Swirl (MR), Drake | **nuggets0162**: Mini Schnauzer (MFR), Cake Friend (MFR), Great Pyrenees (MFR) |
-| 15:20 | **Belen7267**: Dragon (NFR), Catte | **charice_90**: Fly-A-Pet Potion |
-| 15:20 | **laky12372**: Candicorn (NFR), Dragonfruit Fox (NFR), Glormy Hound (NR) | **alisha5050x**: Chocolate Chip Bat Dragon (FR) |
-| 15:20 | **bojaeynaa**: Candicorn (R), King Bee (MFR), Kitty Bat (M) | **shellyy_026**: Candicorn (NFR) |
-| 15:20 | **Roo_tookey123**: African Wild Dog (R), Sugar Glider (FR) | **trialbunny**: Strawberry Shortcake Bat Dragon (FR), Hedgehog (FR), Ride-A-Pet Potion |
-| 15:20 | **HobbyHorsing103**: Kookaburra (N), Royal Mistletroll, Giant Cheetah Mount | **yasukie7u7**: Water Walking Potion |
-| 15:20 | **yiiiiiiiiiiboooop**: Ride-A-Pet Potion ×4 | **Kali_girl790**: Unicorn (NR) |
-| 15:20 | **Ojitobonito2017**: Glacier Kitsune (MFR) | **OMG4ZXLA**: Diamond King Penguin (MFR), Unicorn Horn, Rain Cloud Hat, Ice Cream Cone Hat, Snowball Pet (MR) |
-| 15:20 | **Furry_lechuga**: Copycat (R), Tanuki (R) | **g23590**: Arctic Fox (R) |
-| 15:20 | **strawbearilatte**: Ride-A-Pet Potion | **Ribocoo12**: Therapy Dog ×2, Rotating Periscope, Vulture |
-| 15:20 | **farfromhomc**: Lion, Lion (R), Pig (FR) | **nazzanown10**: Cow (FR) |
-| 15:20 | **TornCuiped**: Ride-A-Pet Potion | **xiparo**: Pain au Chat ×2, Chihuahua |
+| 15:30 | **Aggr0berlin**: Jiggly Jerboa (M), Jumping Spider (M), Jumpscare (M) | **Kira9975335**: Moose Calf |
+| 15:30 | **Robok66_5**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Ocelot (M), Mummy Spider (M), Muskrat (M) | **Lower_ra932**: Frost Fury (R) |
+| 15:30 | **XzB3arL3Synth7zX1088**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **Mydgsf_bcsg**: Copycat (R) |
+| 15:30 | **TulipPetal_1**: Jester Dragon (FR) | **silvannah122**: Ride-A-Pet Potion ×6 |
+| 15:30 | **mommy_vka123**: Border Collie | **Paifrennnn**: Frost Fury (FR), Velocirooster (R), Lion Cub (R) |
+| 15:30 | **Legens_5454**: Dragonfruit Fox | **Xxxxashhhh**: Fly-A-Pet Potion, Pain au Chat |
+| 15:30 | **XxToxicGalaxy1Xx**: Strawberry Shortcake Bow, Strawberry Clip, Festive Stocking Shoes | **Paifrennnn**: Ride-A-Pet Potion |
+| 15:30 | **myau33are**: Cow (FR), Turtle (FR), Copycat | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:30 | **silvannah122**: Ride-A-Pet Potion | **Yamenzoj**: Phoenix |
+| 15:30 | **Yejichan34**: Copycat (NR), Copycat (N), Copycat ×2 | **Oudommm**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:30 | **GeneralPatrick_14**: Frost Dragon (FR) | **rubioOnYTalt1**: Haetyphoon (MFR), Haetyphoon ×2 |
+| 15:30 | **ST4R_OMGXD**: Ratatoskr (MR), Aye Aye (M) | **Vernite_chat0**: Fly-A-Pet Potion |
+| 15:30 | **max_maximumxx**: Munchkin Cat (R) | **Plombirchik4**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×3 |
+| 15:30 | **v6mpireeee**: Ride-A-Pet Potion | **Quean_33**: Chocolate Chip Bat Dragon Backpack |
+| 15:30 | **Varvara08921**: Pig (R), Turtle (R) | **Vitek_228666**: Fly-A-Pet Potion ×16 |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
