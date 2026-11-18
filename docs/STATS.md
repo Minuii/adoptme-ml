@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 21:40 UTC by the scrape workflow._
+_Updated 2026-11-18 21:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 21:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 42,714 | 2026-11-18T21:30 |
-| elve | 8 | 8,816 | 2026-11-18T21:31 |
+| amvgg | 8 | 42,965 | 2026-11-18T21:45 |
+| elve | 8 | 8,872 | 2026-11-18T21:46 |
 
-## AMVGG completed trades: 33,642 total
+## AMVGG completed trades: 33,684 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,569 |
+| 2026-11-18 | 3,611 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 21:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:40 | **H4rm0nicdsires**: Gemstone Egg | **Super0Random_Person**: Retired Egg ×18 |
-| 21:40 | **Gamerqueen1255**: Gemstone Egg | **Super0Random_Person**: Retired Egg ×18 |
-| 21:40 | **bolzani001111**: Haetyphoon ×11 | **opazoopazo7779**: Parrot (FR) |
-| 21:40 | **Delia_dontknow**: Cabbit (NR), Goose (FR), Cabbit (R) | **youlocalrats1**: Giant Panda (FR) |
-| 21:40 | **bolzani001111**: Haetyphoon ×18 | **D1OZA819**: Frost Dragon (FR) |
-| 21:40 | **xXflloraxxXx**: Ride-A-Pet Potion | **sstrwberri1**: Candicorn Sticker ×18 |
-| 21:40 | **bolzani001111**: Haetyphoon ×18 | **deafjaideyyy**: Frost Dragon (FR) |
-| 21:40 | **amii24xy**: Mini Pig (FR) | **XxLalu24xX**: Fly-A-Pet Potion, Chocolate Dutch Guinea Pig, Skelicorn (M), Cabbit (R), Ride-A-Pet Potion, Winter Buck |
-| 21:40 | **magetearsx**: Strawberry Shortcake Bat Dragon (NFR) | **bolzani001111**: Flash Weasel ×8 |
-| 21:40 | **abdoosaad**: Fairy Bat Dragon (FR), Fly-A-Pet Potion | **KittyCatSa21**: S'mores Raccoon (MFR), Leopard Cat (MFR), Pupcake (N) |
-| 21:40 | **ExpertChipmunkPro**: Goose | **ShadowYTW**: Mechapup (FR), Shark Puppy, 2022 Birthday Confetti Cannon |
-| 21:40 | **Haha123O_O2**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **Jeansppk**: S'mores Raccoon (N) |
-| 21:40 | **dearieluv**: German Shepherd (MFR), Kitty Bat (MFR), Chihuahua (M), Maine Coon (MFR) | **mellaerts_marit**: Dragonfruit Fox (MFR) |
-| 21:36 | **You_kwin666**: Ghost (MR) | **AndresPatato**: Ride-A-Pet Potion ×2 |
-| 21:36 | **ifdwe3lfy**: Kitty Bat (NR) | **kittenF87**: Ride-A-Pet Potion ×3 |
+| 21:45 | **ilycameli**: Thunderfisher ×6 | **Cluvdi4**: Retired Egg ×18 |
+| 21:45 | **Shadx_1553**: Parrot (NFR) ×2, Cow (FR) | **FlamingoJunior4594**: Diamond Butterfly (MFR) |
+| 21:45 | **Mitribuyyo**: Christmas Pudding Pup Bait | **miumiu11186**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 21:45 | **Malinamyn**: Copycat, Munchkin Cat (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **mia_23411**: Mermicorn (R) |
+| 21:45 | **isa4life77**: Goose (MFR), Siamese Cat (MFR), Peppermint Penguin (R), Sugar Glider (R), Goat (FR), Rain Cloud Hat ×2, Toaster Hat, Frostbite Bear, Field Mouse, Silverback Gorilla (R) | **copyvoting**: Shadow Dragon (FR) |
+| 21:45 | **kittensnowsy**: Goose (FR), 2022 Birthday Cake, Spring Bunny Hood | **DoughnutDucks**: Rainbow Maker |
+| 21:45 | **Varenkarciktwo**: Pet Handler Pro Certificate | **Z_Alexis22**: Fly-A-Pet Potion |
+| 21:45 | **Melia_2acc**: Dragonfruit Fox (MR) | **25kkdile3**: Alpaca (R), Dragonfruit Fox, Canadian Goose (MR), Partridge (MR), Owlbear, Pancake Stack |
+| 21:45 | **Ww_ded123**: Jiggly Jerboa (M), Jacobin Pigeon (M) | **Dhem_5353**: Ride-A-Pet Potion |
+| 21:45 | **Cosmo_syx**: Albino Monkey (R) | **Dianarasegames27**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion |
+| 21:45 | **Yunin4ikX**: Ginger Cat (M) | **renalavani**: Ride-A-Pet Potion |
+| 21:45 | **zeejnaa**: Dodo (MFR), Capricorn (MFR), Golden Walrus (MFR), Ice Moth Dragon (MFR), Angus Bull (MFR), Puptune (MFR) | **Lola_ant34**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR) |
+| 21:45 | **Cosmo_syx**: Turtle (R) | **ttrawis**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion |
+| 21:45 | **CAXAROK_0011**: Lunar Ox, Zodiac Minion Chick, Dragonfly, Yeti | **alexgameminecraft**: Ride-A-Pet Potion |
+| 21:45 | **0ali_ice0**: Sakura Spirit (FR), Chick Backpack | **axiokowi**: Copycat (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
