@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 21:11 UTC by the scrape workflow._
+_Updated 2026-11-18 21:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 21:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 42,243 | 2026-11-18T21:00 |
-| elve | 8 | 8,738 | 2026-11-18T21:01 |
+| amvgg | 8 | 42,491 | 2026-11-18T21:15 |
+| elve | 8 | 8,755 | 2026-11-18T21:15 |
 
-## AMVGG completed trades: 33,540 total
+## AMVGG completed trades: 33,576 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,467 |
+| 2026-11-18 | 3,503 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 21:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:06 | **cutiescupcakess9**: Cattuccino | **boafey1**: Mistletroll |
-| 21:06 | **Planteskud**: Chihuahua ×2 | **sophiaswoof**: Ride-A-Pet Potion |
-| 21:06 | **kokako113377**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion | **carlkilling**: Fairy Bat Dragon (FR) |
-| 21:06 | **cwlhamster**: Admin Abuse Egg ×4, Golden Dragon, Fennec Fox (N), Little Lamb | **yanohka_77**: Chihuahua |
-| 21:06 | **livelycouture**: Retired Egg ×6 | **yanohka_77**: Malaysian Tapir |
-| 21:06 | **ViscaBarca_44**: Evil Unicorn (FR) | **justi1cee**: Cow (NFR), Fairy Bat Dragon (FR) |
-| 21:06 | **ValerieIsabellColor**: Gemstone Egg ×2 | **yanohka_77**: Clover Cow (N) |
-| 21:06 | **DontCallMe2nd**: Cow (FR) ×4, Cow (R) ×2, Turtle (FR) ×2, Turtle (R) | **S4nsett8**: Frost Dragon (FR) |
-| 21:06 | **Itz_Nikki2011**: Strawberry Shortcake Ducky, Mochi Meow (N), Diamond Griffin (R), Dark Choccybunny | **itsvaleriaotz**: Ride-A-Pet Potion |
-| 21:06 | **AccountMadeIn20242**: Balloon Unicorn (FR), Tiny Wings | **Slimeswaztaken44**: Chocolate Chip Bat Dragon (NFR) |
-| 21:06 | **qpicni**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) | **Ksmol_beank**: Cow (FR) ×2, Cow (R), 2022 Birthday Party Hat |
-| 21:06 | **Justin_qvp**: Copycat (NFR) | **nik_chikss**: Fairy Bat Dragon |
-| 21:06 | **Yahx4xEvr**: Blazing Lion (NFR), Parrot (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Kangaroo (FR) | **iliriano0**: Giraffe (NFR) |
-| 21:06 | **Alllllkos**: Chihuahua ×3 | **Planteskud**: Ride-A-Pet Potion |
-| 21:06 | **The_JuJubee13**: Count Slothula (N), Pupcicle (N), Bee (MFR), Pet Handler Pro Certificate | **Kxnd_midas**: Kiwi Kiwi (M) |
+| 21:15 | **kylebarcebas1**: Vol. 2 Pets Plus Sticker Pack ×2 | **Giulia_SatoruPs4**: Ride-A-Pet Potion |
+| 21:15 | **3lla_ch3rryii**: Jekyll Hydra (NFR), Candicorn | **zeejnaa**: Haetae (FR) |
+| 21:15 | **obviousleighm**: Turtle (R), Crocodile (FR), Blue Dog (R), Silverback Gorilla (FR) | **garinha_500**: Naughty Mistletroll (MFR) |
+| 21:15 | **sofpa137**: Kangaroo (NFR), Aussie Egg, Ice Cream Hermit Crab | **NoobMxtek**: Candicorn (NFR) |
+| 21:15 | **lexcor3**: 2022 Birthday Party Horn, 2022 Birthday Cupcake Shoes, Rainbow Maker | **stillpromise**: Arctic Reindeer (FR), German Shepherd (MFR) |
+| 21:15 | **Ww_ded123**: Ginger Cat (N), White Choccybunny (N), Amber Butterfly (N), Ocelot (N), Blue Cat (N), Jumping Spider (N), Caramelgeist (N) | **FcNikita24**: Ride-A-Pet Potion |
+| 21:15 | **caxarberdok**: Castle Hermit Crab (N) | **Roblox_Cool050**: Fly-A-Pet Potion |
+| 21:15 | **looter_love**: Pet Handler Pro Certificate ×3, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **camiilita_7w7**: Flash Weasel (R) |
+| 21:15 | **Alllllkos**: Chihuahua ×3 | **stoIencorpses**: Ride-A-Pet Potion |
+| 21:15 | **xTvnee**: Llama (NR), Lamb (NFR), Snow Monkey, Happy Clam, Ghostly Cat (MFR), Dire Wolf (MFR), Pupcake (N) | **00iAngell**: Cow (FR) |
+| 21:15 | **vvrtualsiin**: Copycat, Pupcicle | **NarutoDegenerat**: Matcha Cat |
+| 21:15 | **ssundylan**: Super Jetpack, Tortuga de la Isla (R), Happy Clam | **Omar2002548**: Cherry-On-Top |
+| 21:15 | **ProPro2021**: Hedgehog | **Saphiishka7**: Strawberry Shortcake Bat Dragon (FR), Flamingo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate |
+| 21:15 | **T1PSYANGEL**: Bat Dragon (FR) | **Marilynbrandt662**: Peppermint Penguin (MFR) ×2 |
+| 21:15 | **Jadameigo**: Kangaroo (NFR), Siamese Cat (NR) | **lorals2**: Dalmatian (FR), Strawberry Shortcake Bow, Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
