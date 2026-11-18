@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 15:46 UTC by the scrape workflow._
+_Updated 2026-11-18 15:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 15:46 UTC by the scrape workflow._
 | amvgg | 8 | 37,123 | 2026-11-18T15:45 |
 | elve | 8 | 7,673 | 2026-11-18T15:46 |
 
-## AMVGG completed trades: 32,365 total
+## AMVGG completed trades: 32,388 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,292 |
+| 2026-11-18 | 2,315 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 15:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:45 | **JeongwooOnlyMine**: Kangaroo, Kangaroo (NFR), Pig (NFR), Frost Fury (NFR), Brown Bear (MFR), Ice Cream Cone Hat, Spring Bunny Nose, Butter Knife | **leruval**: Crow (FR) |
-| 15:45 | **AngelsHarxx_Lilyluvz**: Bubblegeist (MFR), Skelicorn (MFR) ×2, Stitches (MFR), Boohoo (MFR), Jumpscare (MFR) | **bl0xby**: Catte (MFR) |
-| 15:45 | **Adore_Pandaz**: Pet Handler Pro Certificate | **WintErSnowy1**: Fly-A-Pet Potion |
-| 15:45 | **dtOvsq**: Punk Pony (N), Chihuahua, Thunderfisher (N) | **WintErSnowy1**: Fly-A-Pet Potion |
-| 15:45 | **ElishaJade12341**: Siamese Cat (R) | **squ_evder**: Alpaca (R) |
-| 15:45 | **arseniylolol**: Midnight Dragon (FR) | **Alinka_s36**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 15:45 | **XL4IL4_FGYX**: Leopard Shark (MR), English Sheepdog (MR), Chihuahua (M), Malaysian Tapir (MR) | **The_JuJubee13**: Moose Calf (MFR) |
-| 15:45 | **realpdrilla1**: Toaster Hat, Fly-A-Pet Potion | **UrFavC1li**: Flash Weasel |
-| 15:45 | **elyyz_sen**: Zebra (M), Pilot Gull (M), Orangutan (M), Mexican Wolf (M) | **larrvqx**: Fly-A-Pet Potion |
-| 15:45 | **moral608**: Ride-A-Pet Potion ×5 | **DrizzledTxffee**: Fallow Deer (R) |
-| 15:45 | **Kamelia07125**: Count Slothula, Binturong, Chihuahua | **jasminesep16**: Fly-A-Pet Potion |
-| 15:45 | **MyKittyIsAApril**: Dalmatian (FR), Munchkin Cat, Ride-A-Pet Potion ×6 | **kiff_shik**: Hedgehog (FR) |
-| 15:45 | **coqoqek**: Bee (N) | **Carnage_7wyvtP**: Christmas Pudding House ×2 |
-| 15:45 | **starswirl_64**: Frost Fury (FR), Chihuahua | **AsianIceCold**: Scarecrow Cat (MR) |
-| 15:45 | **obsidianMoon87**: Emperor Gorilla (R), Pig, Elephant (FR), Ride-A-Pet Potion, Moose Calf (R) | **werlianess**: Blue Egg |
+| 15:55 | **vertaocsi**: Fly-A-Pet Potion | **CookieBawn**: Pupcake ×2 |
+| 15:55 | **WaguriMywaifu1**: Owl (FR), Crow (FR) | **LoriDreamy123**: Dalmatian (R), Arctic Reindeer (FR), Siamese Cat (R), Candyfloss Chick (R), Kangaroo (FR), Candicorn (FR), Candicorn, Albino Monkey (FR), Border Collie (R), Border Collie, Crocodile (FR), Winged Tiger, Toaster Hat, Pig (R), Pig, Ice Cream Cone Hat, Frost Fury (R) ×2 |
+| 15:55 | **Vitek_228666**: Elephant (R) | **AL1C3W0RLDD**: Ride-A-Pet Potion ×14 |
+| 15:55 | **sleepwily**: Unicorn (NFR) | **LoriDreamy123**: Binturong (N), Ride-A-Pet Potion |
+| 15:55 | **hdsrumkhfdr**: Ranger Beaver | **Yamenzoj**: Classic Trade Stand |
+| 15:55 | **stefkazzz**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Sugar Glider (FR), Elephant (R), Munchkin Cat, Ride-A-Pet Potion ×9 | **rokcu_y2k**: Frost Dragon (FR) |
+| 15:55 | **Unboxing2akk**: Parrot (NFR), Frost Dragon (FR), Hedgehog (NR), Fairy Bat Dragon (N), Goth Shoes, Pancake Stack | **Wildflower_461**: Cryptid (MFR) |
+| 15:55 | **vvrtualsiin**: Pupcicle | **gbhdnnv090**: Ghost Bunny |
+| 15:55 | **altgenaratordhc31**: Siamese Cat (MFR) | **RobWOLF36loxa**: Strawberry Shortcake Bat Dragon (NFR) |
+| 15:55 | **kayleighkittycat123**: Sugar Glider (FR), Ram (MFR), Glormy Leo (NFR) | **uwokiia**: Sugar Glider (NFR) |
+| 15:55 | **treybuyz**: Latte Kitsune (R) ×2 | **Koki_hoki736**: Zombie Buffalo |
+| 15:55 | **GEMYU900**: Angus Cow (NR) | **Mimimmiiimimmmiimim**: Purrowl (N) |
+| 15:51 | **ANT4Gon1ST_1**: Frost Fury (NFR), Bunny Swirl (M), Arctic Fox (R), Vanilla Penguin (NR) | **saskisakur**: Cow (FR) |
+| 15:51 | **chunlihasora**: Turtle (FR) | **AiAbby2008**: Shrew (NFR) |
+| 15:51 | **flov3ry**: Ride-A-Pet Potion, Bee | **YOKOZ303**: Kiwi |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
