@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 04:31 UTC by the scrape workflow._
+_Updated 2026-11-18 04:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 04:31 UTC by the scrape workflow._
 | amvgg | 8 | 26,848 | 2026-11-18T04:30 |
 | elve | 8 | 5,656 | 2026-11-18T04:31 |
 
-## AMVGG completed trades: 30,672 total
+## AMVGG completed trades: 30,685 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 599 |
+| 2026-11-18 | 612 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 04:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:40 | **ButterMjlk**: Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Chocolate Chip Bat Dragon Backpack | **AsianIceCold**: Spring Bunny Hood |
+| 04:40 | **Julee_Lov**: Mini Pig | **jammy_bc**: Midnight Dragon (FR), Shrew (R), Glacier Kitsune, Frost Unicorn |
+| 04:40 | **siria20144**: Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (FR) | **Mel0_170**: Owl (FR), Pupcicle ×2, Great Pyrenees (N) |
+| 04:40 | **curemysorrowsq**: Sugar Glider (NFR), Unicorn Horn, Kangaroo (R), Toaster Hat, Fly-A-Pet Potion, Tiny Wings | **reserbadong2**: Strawberry Shortcake Bat Dragon (NFR) |
+| 04:40 | **hubaks_02**: Eel (M) ×9 | **Aliceinw0nderland_33**: Kangaroo (FR) |
+| 04:40 | **hubaks_02**: Eel (M) ×9 | **Aliceinw0nderland_33**: Kangaroo (FR) |
+| 04:40 | **Leo4cestud1oTV**: Pain au Chat ×3 | **Legens_5454**: Ride-A-Pet Potion |
+| 04:40 | **KOT_PonUwU**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **igabbe4th**: Pig |
+| 04:40 | **OBVsavX1**: Pain au Chat (R) | **tvz201235**: Snowball Pet (R) |
+| 04:40 | **84382g**: Fly-A-Pet Potion ×11 | **arseniylolol**: Siamese Cat (FR) |
+| 04:40 | **Jariannydaisyunicorn**: Turtle Doves (M), Milk Choccybunny (M), Snowball Pug (MR) | **leradsfnj**: Sloth (MFR) |
+| 04:36 | **KOT_PonUwU**: Clover Cow (N), Irish Setter (M), Shih Tzu (M) | **Panci_Terbang33**: Ride-A-Pet Potion ×2 |
+| 04:36 | **curemysorrowsq**: Undead Jousting Horse (FR), Ride-A-Pet Potion | **AsianIceCold**: Kangaroo (R), Toaster Hat, Lamb (NFR) |
 | 04:30 | **KeimoKaiAlr**: Chocolate Chip Bat Dragon (NFR) ×2, Strawberry Shortcake Bat Dragon (NFR), Werewolf, Unicorn Horn | **pinponkgoku2**: Strawberry Tortle (MFR) |
 | 04:30 | **SnowyBear561**: Retired Egg ×9 | **DeiMoszxX**: Cattuccino |
-| 04:30 | **cookiepup13ax**: Pupcake (M), Ride-A-Pet Potion, Sushi Penguin | **DarkGriffin9635**: Pupcicle ×9 |
-| 04:30 | **adriel_24k**: Aurora Fox (R) | **cookiequeen0598**: Chocolate Dutch Guinea Pig (N) |
-| 04:30 | **Lpoopbxhe**: Ride-A-Pet Potion | **vaIxhrtz**: Frosty Glow Mega Neon Paint |
-| 04:25 | **PlayOfHappy**: Amethyst Skies Mega Neon Paint, Paint Sealer | **xHelen_Martax**: Corgi (M) |
-| 04:25 | **bolzani001111**: Flash Weasel (M) | **Flashbook6**: Candicorn (MFR), Sushi Penguin (MFR), Flash Weasel ×9 |
-| 04:25 | **LadyJ11111**: Balloon Unicorn (FR) | **amvggtotrade**: Siamese Cat (MFR) |
-| 04:25 | **Gxft_ofDestruction**: Owl (FR), Chocolate Chip Bat Dragon (FR) | **Marvinski023**: Frost Dragon (FR) |
-| 04:25 | **StrwberriesN_Cream**: Ride-A-Pet Potion | **irais1e**: Pupcicle |
-| 04:25 | **lolgop52666**: Arctic Fox (R), Copycat, Cozy Mistletroll (MR), Dango Penguins | **nshsiaj_1345**: Candyfloss Chick (FR) |
-| 04:25 | **Xtrjackie5456**: Kitty Bat (MFR), Indian Flying Fox (MR), Spring Bunny Hood, Malaysian Tapir (M), Ride-A-Pet Potion, Pupcicle | **FadePinksphone**: Munchkin Cat (NFR) |
-| 04:25 | **babyfollicle**: Pinkypillar (N) ×2, Ms. Muffet, Mouse, Princess Mare | **dxtxrrr**: Stray Cat Dragon |
-| 04:25 | **Sushicakes916**: Count Slothula (MR), Kitty Bat (MFR), Hamster (MR), Lynx (MFR), Cake Friend (M), Cattuccino (M), Zombie Chick (M), Ice Cream Cone Hat, Coyote (M) | **sarahtalksstuff**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:25 | **AASDRT_II**: Quokka (M) | **sarahtalksstuff**: Pupcicle ×7 |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
