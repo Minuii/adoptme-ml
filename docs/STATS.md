@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 05:25 UTC by the scrape workflow._
+_Updated 2026-11-18 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 27,564 | 2026-11-18T05:15 |
-| elve | 8 | 5,788 | 2026-11-18T05:16 |
+| amvgg | 8 | 27,797 | 2026-11-18T05:30 |
+| elve | 8 | 5,838 | 2026-11-18T05:31 |
 
-## AMVGG completed trades: 30,757 total
+## AMVGG completed trades: 30,761 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 684 |
+| 2026-11-18 | 688 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,10 @@ _Updated 2026-11-18 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **NummieNummiegirl**: Cabbit (NFR), Cabbit (R) ×2 | **Bridgetpppp9**: Strawberry Shortcake Bat Dragon (NFR) |
+| 05:30 | **Deezpois**: 2022 Birthday Cupcake Shoes, Toaster Hat | **s7pph1re**: Cabbit |
+| 05:30 | **julyis456**: Lynx (MFR), Pine Marten (MR), Tan Chow-Chow (M), Angler Fish (MR), Kid Goat (M), Red Panda (M), Shiba Inu (M), Rabbit (M), Abyssinian Cat (NR), Fly-A-Pet Potion ×4 | **SavannahPlayz_D4**: Brown Springer Spaniel (MFR), Black Springer Spaniel (MFR) |
+| 05:30 | **theking_56yt**: Strawberry Shortcake Bat Dragon (FR) | **DEADDYANROSALINyus**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
 | 05:25 | **Kui_Yeager**: Crow (FR), Chocolate Chip Bat Dragon (FR), Copycat (NR), Siamese Cat (R), Munchkin Cat (R) | **wskdaks**: Frost Dragon (FR) |
 | 05:25 | **Fbrleey**: English Sheepdog (FR) | **Meow7121**: Paint Sealer ×9 |
 | 05:21 | **juniiieeii**: Ride-A-Pet Potion | **timmehs_account**: Gold Tiara |
@@ -44,10 +48,6 @@ _Updated 2026-11-18 05:25 UTC by the scrape workflow._
 | 05:15 | **Jeremibus2012**: Alpaca (R), Corn Doggo (NR), Corn Doggo (N), Goose (R), Happy Clam (NR), Mini Pig (R), Pig (N), Pink Cat (R), Undead Jousting Horse, Werewolf (R), Candicorn, Matcha Cat (R), Matcha Cat, Glacier Kitsune (R) ×3, Werewolf (FR), Brown Bear (NFR) | **leruval**: Frost Dragon (FR) |
 | 05:15 | **Jeremibus2012**: Alpaca (R), Corn Doggo (NR), Corn Doggo (N), Goose (R), Happy Clam (NR), Mini Pig (R), Pig (N), Pink Cat (R), Undead Jousting Horse, Werewolf (R), Candicorn, Matcha Cat (R), Matcha Cat, Glacier Kitsune (R) ×3, Werewolf (FR), Brown Bear (NFR) | **leruval**: Frost Dragon (FR) |
 | 05:11 | **p_lutoni**: Goose (FR), Strawberry Tortle (R), Lamb (NR) | **mariawoiksi**: Strawberry Shortcake Bat Dragon (FR) |
-| 05:11 | **phoenixspotYT**: Strawberry Shortcake Bat Dragon (FR), Arctic Fox, Ride-A-Pet Potion | **Vika_pacanka**: Cow (FR), Turtle (R), Albino Monkey (R) |
-| 05:11 | **wskdaks**: Shark Puppy (R) | **XxArmy_UvUxX**: Pupcicle (NFR), Pupcicle (N) |
-| 05:11 | **Adoptmememe_79**: Dalmatian (FR), Dalmatian (R), Cow, 2022 Birthday Cake, Cow (FR), Elephant (R) | **atr1xry**: Frost Dragon (FR) |
-| 05:11 | **briannakitty55**: Pupcicle ×4 | **poiui5510**: Ride-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
