@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 10:19 UTC by the scrape workflow._
+_Updated 2026-11-18 10:29 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 10:19 UTC by the scrape workflow._
 | amvgg | 8 | 31,925 | 2026-11-18T10:19 |
 | elve | 8 | 6,568 | 2026-11-18T10:19 |
 
-## AMVGG completed trades: 31,344 total
+## AMVGG completed trades: 31,363 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,271 |
+| 2026-11-18 | 1,290 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 10:19 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:19 | **CEMEH_HOCKOB**: Choco Penguin (FR) | **myrlusernisvnhakuu**: Ride-A-Pet Potion |
-| 10:19 | **Avue_203**: Chocolate Dutch Guinea Pig (R) | **Fidelia2131415**: Fly-A-Pet Potion |
-| 10:19 | **anMishi**: Arctic Dusk Dragon (R), Chocolate Dutch Guinea Pig, Fly-A-Pet Potion, Ride-A-Pet Potion | **Ryou_senpai05**: Pig (R) |
-| 10:19 | **zeejnaa**: German Shepherd (R), Hare | **Panci_Terbang33**: Fly-A-Pet Potion ×2 |
-| 10:19 | **zxmwrvz**: Harp Seal (N) | **charli_fan49**: Fallow Deer (FR) |
-| 10:19 | **queenmaya773**: Owl (FR), Copycat (NR), Latte Kitsune (NFR), Peach Owl (MFR), Alley Cat (R) | **APT_APT797**: Frost Dragon (FR) |
-| 10:19 | **awhxx_Sophiaa**: Dalmatian (FR) | **sillygoober4001**: Cabbit (NFR) |
-| 10:19 | **ale_45874**: Frost Dragon (FR), Dalmatian (FR), Strawberry Shortcake Bat Dragon (F), Cow (NFR), Cow (FR), Pancake Stack | **roblox_user_8676283275**: Chocolate Chip Bat Dragon (MFR) |
-| 10:19 | **KittyWikiPolska**: Cabbit (FR), Cabbit, Pancake Stack, Ride-A-Pet Potion, Little Lamb (NR) | **Robloxian8090**: Strawberry Shortcake Bat Dragon (FR) |
-| 10:19 | **roblox_user_2916790281**: Strawberry Tortle, Turtle (FR), Haetyphoon (FR), Flash Weasel, Unicorn (MFR), King Bee (MFR), Ladybug (MFR), Bee (MFR) | **faikubjotch**: Strawberry Tortle (NFR) |
-| 10:19 | **Red_Spider228**: Jellyfish (FR), Munchkin Cat (R), Copycat (R), Unicorn (NFR) ×2, Arctic Dusk Dragon (R), Groundhog (R), Polar Bear (R), Winged Horse (NR), Squid (NFR), Tarsier (NFR), Reindeer (MFR) | **op_con0**: Goose, Candyfloss Chick (FR), Frost Unicorn (FR), Fly-A-Pet Potion |
-| 10:19 | **n1ght_bvg**: Pupcicle (FR), Kitty Bat (FR), Toasty Red Panda, Chihuahua ×9 | **KIWIGrbx**: Goth Shoes, Alien Eyes Hat, Thinking Hat |
-| 10:19 | **cathxdral**: Sasquatch (M), Kelp Captain | **kaien12322**: Pupcicle ×4 |
-| 10:19 | **v3xxyyy**: Field Mouse (MFR) | **nuggets0162**: Strawberry Shortcake Bat Dragon (R), Pig (NFR), Siamese Cat, Vanilla Penguin (NR), Fly-A-Pet Potion |
-| 10:19 | **chuutill**: Enchanted Broomstick, Eggnog Dog (N), Eggnog Hare (N), Ghost Chick (N) | **ChristinaClaraAva**: Propeller Hat |
+| 10:29 | **Totallynot_meng**: Candicorn (NFR), Mini Schnauzer (MFR), Owlbear (NFR), Shiver Wolf (MFR), Pupcake (MR), Samoyed (M), Mexican Wolf (MR), Gumball Caterpillar (M), Brown Springer Spaniel ×2 | **bunnyblinkP**: Munchkin Cat (MFR) |
+| 10:29 | **Lerunhi**: Flamingo (R) | **quVare_PDF**: Kangaroo (FR) |
+| 10:29 | **Kvammletitraketa**: Kitsune (FR) | **alexca14_farm5**: Fly-A-Pet Potion |
+| 10:29 | **Lvpix**: Jester Dragon (R) | **Orea_O1**: Ride-A-Pet Potion ×5 |
+| 10:29 | **LP_girlik**: Otter (N), Mahi Mahi (N), Pinkypillar (N), Puma (N), Princess Mare (N), California Condor (N), Beaver (N), Gummy Guana (N), Oakee (N), Grinmoire (N), Muskrat (N), Shih Tzu (N), Orangutan (N) | **lankyboxchimmy_7**: Ride-A-Pet Potion |
+| 10:29 | **Kvammletitraketa**: Dirty Ducky (M) | **Nanax_8907**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 10:29 | **Alice_Fpe2567**: Strawberry Shortcake Bat Dragon (R) | **Nanax_8907**: Chocolate Chip Bat Dragon (FR) |
+| 10:29 | **kytsune7777**: German Shepherd (R) | **mwwqpt_y**: Ride-A-Pet Potion |
+| 10:29 | **nornomm**: Ride-A-Pet Potion, Fly-A-Pet Potion, Thunderfisher, Alicorn | **Vitamirka**: Pain au Chat ×9 |
+| 10:29 | **simplyxarv**: Toaster Hat, Tiny Wings, Pet Handler Pro Certificate | **cxbvnniz**: 2022 Birthday Cake |
+| 10:24 | **mati08proo**: Pomeranian (M) | **Milkcold123**: Ride-A-Pet Potion |
+| 10:24 | **vvvvvveli**: Cattuccino (N) | **LP_girlik**: Cockroach (N) |
+| 10:24 | **JacquelineMhh**: Pink Cat Ear Headphones | **GachaGachaFindOut**: Invisible Wings |
+| 10:24 | **batton0955**: Ride-A-Pet Potion | **krot_bo11**: Kiwi |
+| 10:24 | **antilucqa**: Ride-A-Pet Potion | **Mia_nombrenousado**: Paint Sealer ×12 |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
