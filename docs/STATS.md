@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 22:31 UTC by the scrape workflow._
+_Updated 2026-11-18 22:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 22:31 UTC by the scrape workflow._
 | amvgg | 8 | 43,660 | 2026-11-18T22:30 |
 | elve | 8 | 9,034 | 2026-11-18T22:31 |
 
-## AMVGG completed trades: 33,815 total
+## AMVGG completed trades: 33,835 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,742 |
+| 2026-11-18 | 3,762 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 22:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:30 | **Max_C0r3**: Chocolate Chip Bat Dragon (FR), Tuxedo Cat | **gogoyurio**: Strawberry Shortcake Bat Dragon (FR) |
-| 22:30 | **Mysecond_acc024**: Car Stroller, Halloween Black Witch Hat Stroller, Droplet Stroller | **Jimmytron15**: Retired Egg ×18 |
-| 22:30 | **Valen84532**: Retired Egg ×16, Zodiac Minion Egg, Stray Cat Dragon | **kylebarcebas1**: Blue Boohoo Mega Neon Paint |
-| 22:30 | **Akimeki34**: Pain au Chat (N) | **Reesha_tm**: Fly-A-Pet Potion |
-| 22:30 | **sleepy_s0ren**: Chocolate Chip Bat Dragon (NFR), Groundhog | **minismudgepanda**: Dalmatian ×2 |
-| 22:30 | **snowflake7148732**: Groundhog (MFR) | **fluffyunicorns_932**: Sugar Glider (NFR) |
-| 22:30 | **GL0Rl0**: Munchkin Cat (NFR) | **thecloudo9**: Cow (FR) |
-| 22:30 | **micaelakdkdn**: Chihuahua (M), Pain au Chat (M), Arctic Fox, Dango Penguins | **AYTLOON**: Christmas Pudding Pup (NR) |
-| 22:30 | **sweet_peachesss**: Cryptid, Cabbit (R), Pink Cat (R), Christmas Pudding Pup (R) | **soulqiu**: Balloon Unicorn |
-| 22:30 | **alxha_xo**: Munchkin Cat (MFR), Gecko (N) | **HE4RTS_4CECE**: Lion Cub (MFR) |
-| 22:30 | **erickproari**: Leopard Cat ×3 | **Wayda_Jaida**: Ride-A-Pet Potion |
-| 22:30 | **stargxldani**: Strawberry Shortcake Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Turtle (NFR), Christmas Pudding Pup (FR), Sheeeeep, Spring Bunny Hood | **Mimismila8**: Frost Dragon (FR) |
-| 22:30 | **akeks_74**: Chocolate Chip Bat Dragon (R), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **Emma_pop57**: Border Collie (MFR) |
-| 22:30 | **HOONMINLIXGYU**: Alley Cat (MFR), Ride-A-Pet Potion ×2 | **littlelizard_7**: Dragonfruit Fox (MFR), Leopard Cat (MFR) |
-| 22:30 | **natawwix**: Fly-A-Pet Potion | **iiam_nikiii**: Unicorn ×2 |
+| 22:40 | **C0PHYAK**: Kangaroo (FR) ×5, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **Moon_Cloud609859**: Evil Unicorn (FR) |
+| 22:40 | **joshsawsy**: Ride-A-Pet Potion ×2 | **liddysadm**: Black Panther |
+| 22:40 | **N0AH_XRM**: Stray Cat Dragon (NR), Eggnog Dog (R), Purrowl (N) | **fifiople**: Fly-A-Pet Potion |
+| 22:40 | **Marilynbrandt662**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon, Kangaroo (FR) | **LeonardoEC14**: Frost Dragon (FR) |
+| 22:40 | **Luluxlelee**: Giant Anteater (MFR) | **higuysitskobe**: Mini Pig (NFR), Toaster Hat |
+| 22:40 | **Bigbaloneyben**: Balloon Unicorn (FR), Ride-A-Pet Potion ×3, Munchkin Cat | **kittylounger2**: Giant Panda (FR) |
+| 22:40 | **Luluxlelee**: German Shepherd | **PoseForFans**: Pupcicle |
+| 22:40 | **DrakeisProYesYes**: Tiny Wings, Chef Hat, Husky, Mule, Mighty Haetyphoon Animated Sticker, Festive Beard, Candy Cane Wings | **Bellacoupecarrol**: Magic Girl Wings |
+| 22:40 | **sweet_peachesss**: Ride-A-Pet Potion | **Foxtailszx**: Candyfloss Mega Neon Paint |
+| 22:40 | **Sweet_Butter1049**: Golden King Penguin, Cattuccino, Blue Jay | **Aslie_17**: Ride-A-Pet Potion |
+| 22:40 | **MrRubysk4tesYT**: Giant Panda (NFR) | **Flashbook6**: Haetyphoon (M), Flash Weasel (M), Flash Weasel ×2, Haetyphoon |
+| 22:40 | **Anelchik_i**: Siamese Cat (NFR), Cow (FR), Aurora Fox (R), Frost Fury (FR), Ride-A-Pet Potion ×2 | **that0neax0l0tl1**: Evil Unicorn (FR) |
+| 22:40 | **SheilaPlays12**: Ranger Beaver, Tarsier | **abbyissocool_lol**: Ride-A-Pet Potion |
+| 22:40 | **MapleLull**: Huntsman Robin (N), Blue Cat (M), Mistletroll (N) | **Mimimmiiimimmmiimim**: Ride-A-Pet Potion |
+| 22:40 | **Hey_itsCloveer**: Zombie Wolf (MR) | **Enderbro360931**: Turtle (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
