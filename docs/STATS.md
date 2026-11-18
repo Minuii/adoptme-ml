@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 08:31 UTC by the scrape workflow._
+_Updated 2026-11-18 08:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 08:31 UTC by the scrape workflow._
 | amvgg | 8 | 30,573 | 2026-11-18T08:30 |
 | elve | 8 | 6,335 | 2026-11-18T08:31 |
 
-## AMVGG completed trades: 31,141 total
+## AMVGG completed trades: 31,162 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,068 |
+| 2026-11-18 | 1,089 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:30 | **Shehatesme420**: Ride-A-Pet Potion, Fly-A-Pet Potion | **the3reveng**: Snow Leopard (N) ×3 |
-| 08:30 | **the3reveng**: Toy Monkey | **Shehatesme420**: Ride-A-Pet Potion |
-| 08:30 | **meileAdrytea**: Leviathan (MFR), Ride-A-Pet Potion | **m1so_02**: Kangaroo (FR), Turtle (FR) |
-| 08:30 | **iiEvenstar**: Ride-A-Pet Potion ×6 | **IDFeelAnything**: Christmas Pudding Pup |
-| 08:30 | **the3reveng**: Cozy Mistletroll ×4, 2026 Birthday Butterfly ×2 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 08:30 | **Mcdonaldsofaustralia**: Cabbit (FR) | **kuutar_moonlight**: Fairy Bat Dragon (FR) |
-| 08:30 | **mior5183**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Golden Corn | **xdParad1se**: Velocirooster |
-| 08:30 | **BlossomGirl20555**: Panda (MFR), Rain Cloud Hat ×2 | **leoegern40**: Bat Dragon Cuddle Animated Sticker |
-| 08:30 | **naivelittlebunnie**: Turtle Doves (MFR) | **Panci_Terbang33**: Pupcicle ×3 |
-| 08:30 | **MATT_2011901**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×5 | **aianame_rey**: Elephant |
-| 08:30 | **Pashok_q**: Ride-A-Pet Potion, Classic Trade Stand | **Venomally_6**: Sushi Penguin |
-| 08:30 | **ervilpapogs16**: Pupcicle ×5 | **LetHimGobr0ken_Spawn**: Unicorn (NFR) |
-| 08:30 | **AerialVix**: Sugar Glider (NFR) | **iiSimplylvxy**: Dalmatian (FR) |
-| 08:30 | **Varen_uo1**: Fairy Bat Dragon (FR), Turtle (FR), Kangaroo (FR) | **Leon_BSLEO**: Arctic Reindeer (FR) |
-| 08:21 | **Safari_Slushie**: Bunny Swirl (MR), Munchkin Cat, Kitty Bat (NR), Maine Coon (M), Samoyed (M), Angus Calf (M), Mochi Meow (M), Waffle Wyrm (M), Dire Wolf (M), Burger Boots, Banana Hat | **booluqx**: Cow (FR) |
+| 08:41 | **ADVENT1235678**: Arctic Dusk Dragon (NFR) | **h4_cd**: Pet Handler Pro Certificate ×9 |
+| 08:41 | **bunnyblinkP**: Axolotl (FR), Axolotl (R), Phoenix (FR), Phoenix (R), Octopus (FR), 2D Kitty (R), Capricorn (FR) ×2, Capricorn, Kitsune, Kitty Bat, Lavender Dragon (FR), Cactus Friend, Kiwi Kiwi, King Bee | **booluqx**: Kangaroo (FR) |
+| 08:41 | **MorpekoMuncher**: Ride-A-Pet Potion ×9 | **odading12318**: Shrew (R), Meerkat (FR) |
+| 08:41 | **glontincap_1009**: 2022 Birthday Party Horn, 2022 Birthday Confetti Drape | **vanyagames_yt**: Ice Cream Cone Hat ×2 |
+| 08:41 | **SkullDaSoul**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Popa67742**: Criosphinx (NFR) |
+| 08:41 | **RavenOcean_2012**: Alpaca (N), Border Collie, Unicorn Horn, Rain Cloud Hat, Spring Bunny Hood, Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **kotek_bla**: Balloon Unicorn (FR) |
+| 08:41 | **rainbow_shiny152**: Mini Pig (MFR), Field Mouse (FR), Unicorn Horn | **SweetMedicines**: Frost Dragon (FR), Parrot (FR) |
+| 08:41 | **sigma232411**: Frost Unicorn (R) | **thescriptofficials**: Ride-A-Pet Potion ×17 |
+| 08:41 | **the3reveng**: Glormy Hound | **Panci_Terbang33**: Ride-A-Pet Potion ×2 |
+| 08:41 | **GRIZXLY653**: Ride-A-Pet Potion ×5 | **carlkilling**: Ballet Swan (FR) |
+| 08:41 | **pecrylover123**: Solaris (NR), Aestus (FR) | **Frits_Snoek**: Aestus (NR), Mighty Haetyphoon Animated Sticker |
+| 08:41 | **L4dyBrav3DollphinRBL**: Black Widow (M) | **iqitotoru**: Siamese Cat (R) |
+| 08:41 | **Bunny_189659**: Kangaroo (FR), Fly-A-Pet Potion ×8 | **odading12318**: Kangaroo (NFR) |
+| 08:36 | **the3reveng**: Puptune, Ruddy Duck, Unicorn Ducky, Easter Bunny, Cozy Mistletroll, Stygian Owl | **16y97**: Ride-A-Pet Potion |
+| 08:36 | **Venomally_6**: Vol. 2 Pets Plus Sticker Pack | **Kartkiirus**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
