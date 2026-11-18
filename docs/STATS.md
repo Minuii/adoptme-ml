@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 00:25 UTC by the scrape workflow._
+_Updated 2026-11-18 00:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 00:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 22,793 | 2026-11-18T00:15 |
-| elve | 8 | 4,866 | 2026-11-18T00:16 |
+| amvgg | 8 | 23,047 | 2026-11-18T00:30 |
+| elve | 8 | 4,917 | 2026-11-18T00:31 |
 
-## AMVGG completed trades: 30,160 total
+## AMVGG completed trades: 30,174 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 87 |
+| 2026-11-18 | 101 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 00:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:30 | **Ava_wave3**: Strawberry Tortle (NFR), Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (NFR), Turtle (FR), Cow (FR), Kangaroo (NFR), Cake Friend (M), 2022 Birthday Party Hat, Ice Cream Cone Hat, Gold Crown | **vanyagames_yt**: Strawberry Tortle (MFR) |
+| 00:30 | **sweetdollvie**: Bunny Swirl (MFR) | **nono_x2301**: Tiny Wings |
+| 00:30 | **xlorkaa7**: Zombie Wolf | **vanpxc**: Ride-A-Pet Potion |
+| 00:30 | **lolololol_maxarooroo**: Tiny Wings | **cazzy123abc**: Giant Gold Scarab, Firefly (NFR) |
+| 00:30 | **austin_1230003**: Fairy Bat Dragon (NFR), 2022 Birthday Cupcake Shoes | **derpcat_silly**: Munchkin Cat (MFR) |
+| 00:30 | **SPIDRAN56DOORS**: Lunar Ox (N), Icy Porcupine (N), Hopbop (N), Beluga Whale (N), 2026 Birthday Butterfly (N), Sneak Weasel (N) | **Salyymoon**: Ride-A-Pet Potion |
+| 00:30 | **Xz_CodeOLDriftdLBliz**: Pupcicle (N) | **luznocdx**: Pupcicle ×4 |
+| 00:30 | **Antonipes**: Ride-A-Pet Potion, Paint Sealer ×2 | **Chicken_Drumsticksss**: Gumball Caterpillar (M) |
+| 00:30 | **KaiSaboAceCC**: Ride-A-Pet Potion ×5 | **ivilin_04**: Angus Bull (R), Angus Bull, Black Chow-Chow, Billy Goat, Diamond Griffin ×2, Golden Albatross, Golden Ladybug, Golden King Penguin, Golden Unicorn ×2, Golden Dragon, Golden Griffin, Halloween Golden Mummy Cat, Criosphinx (R) |
+| 00:30 | **leesoyul11111111**: Ride-A-Pet Potion | **cchloecrichtonsecret**: Crystal Egg ×18 |
+| 00:30 | **sincebravery**: Cryptid, Cow (NFR), Strawberry Shortcake Bat Dragon, Siamese Cat (NR), Goose (FR), Toaster Hat, Ice Cream Cone Hat, 2022 Birthday Party Hat, Cherry-On-Top | **hanb3ki**: Giraffe (FR) |
+| 00:30 | **pasha_zara**: Crow (FR), Owl (FR), Arctic Reindeer (FR) | **TheAdony22**: Giraffe (FR), Peppermint Penguin (FR) |
+| 00:30 | **kreker0900**: Fly-A-Pet Potion, Pupcicle | **cat_Robloxmeow1**: Pancake Stack |
+| 00:30 | **pisapopakakashecki**: Bubble Car, Bee Shuttle, Dapper Friend Carrier ×2, Micro Car, Motorized Sofa, Canine Cruiser, Galactic Hoverboard, Stocked Santa Sleigh, Witch's Caravan ×3, Dolphin Cruiser, RGB Monster Truck, Trireme | **2illiberal**: Ride-A-Pet Potion |
 | 00:25 | **Nugget_Courtnee**: Sakura Spirit (MFR) ×2, Naughty Mistletroll (MFR), Shark (MFR), Skele-Rex (MFR) | **KatesArrow**: Parrot (NFR) |
-| 00:25 | **Josuwu892**: Grinmoire | **sakuraa_rvn**: Retired Egg ×3 |
-| 00:25 | **Superslayaccount70**: Ride-A-Pet Potion ×6 | **edzegr8**: Copycat |
-| 00:25 | **Superslayaccount70**: Gemstone Egg, Pangolin (N) ×3 | **hefeltsafe**: Ride-A-Pet Potion |
-| 00:25 | **WhyAreYouSoooDumb**: Bunny Swirl (MR), Clover Cow (MFR), Mr. Whiskerpips (M) | **siikoreangirl**: Unicorn Horn |
-| 00:25 | **SieunOoOo0**: Peachick (MFR), Octopus (NR) | **Soraly_x**: Munchkin Cat (R) |
-| 00:25 | **aydachan200311**: Fly-A-Pet Potion | **cchloecrichtonsecret**: Ride-A-Pet Potion ×2 |
-| 00:25 | **violencesoul**: Fairy Bat Dragon (FR), 2022 Birthday Confetti Cannon | **nnsmq12**: 2022 Birthday Party Hat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Icey Aura, Tiny Wings |
-| 00:25 | **v4niiela**: Santa Hat, Elf Hat | **YUMIIMOTHZZ**: Dragon (MFR), Ride-A-Pet Potion |
-| 00:25 | **YUMIIMOTHZZ**: Unicorn Horn, Highland Cow (M), Octopus (NR), Nutcracker Squirrel (NFR), Ostrich (N) | **aleks2u**: Cow |
-| 00:25 | **Superslayaccount70**: Blue Butterfly (M), Crystal Egg ×2 | **v4niiela**: Ride-A-Pet Potion |
-| 00:25 | **lizziqyy**: Crystal Egg ×13 | **hefeltsafe**: Ride-A-Pet Potion |
-| 00:25 | **mmaayois**: Grim Dragon (R) | **S0li_meli**: Frostbite Bear |
-| 00:25 | **flozzabozza07**: Halloween Evil Dachshund (MFR), Malaysian Tapir (MFR), Cattuccino (MFR), Stray Cat Dragon (MFR), Puptune (MFR) ×2, Gorilla (MR), Toucan (MFR) | **biq_at222**: Diamond Hamster (MFR) |
-| 00:25 | **RealVeronnisaa**: English Sheepdog ×4 | **batton0955**: Ride-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
