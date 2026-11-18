@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 22:15 UTC by the scrape workflow._
+_Updated 2026-11-18 22:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 22:15 UTC by the scrape workflow._
 | amvgg | 8 | 43,434 | 2026-11-18T22:15 |
 | elve | 8 | 8,970 | 2026-11-18T22:15 |
 
-## AMVGG completed trades: 33,760 total
+## AMVGG completed trades: 33,798 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,687 |
+| 2026-11-18 | 3,725 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 22:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:15 | **gorevqx**: Strawberry Shortcake Bat Dragon (FR) | **cakes**: Majestic Pony (MFR), Candyfloss Chick (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 22:11 | **l0w_whisper**: Pangolin (M), 2026 Birthday Butterfly (M) | **Nastya_Mihalyk**: Ride-A-Pet Potion |
-| 22:11 | **viltpool**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×2 | **KanskjeMatilde**: Chocolate Dutch Guinea Pig (N) |
-| 22:11 | **l0w_whisper**: Robot (M), Corgi (N), Robot (N) | **FcNikita24**: Ride-A-Pet Potion |
-| 22:11 | **Ruperto_1297**: Cow (FR) | **Wolfie4567ty**: Fly-A-Pet Potion ×17 |
-| 22:11 | **speedy_coki**: Dingo (FR), Deinonychus (R) | **rxxzess**: Ride-A-Pet Potion |
-| 22:11 | **alexgameminecraft**: Hare (NFR) | **Yourgrandadpullsfr**: Border Collie |
-| 22:11 | **alex00011111**: Goose (FR), Ice Wolf (MFR), Alpaca (R) | **lupoouu2**: Copycat (MFR) |
-| 22:11 | **NotCookie810**: Fallow Deer (R) | **rr3llyya**:  |
-| 22:11 | **Andy_kj8**: Ride-A-Pet Potion, Feesh | **You_kwin666**: Christmas Spirit (N) |
-| 22:11 | **Adoptmestocks3000**: Ride-A-Pet Potion | **Andy_kj8**: Poltergeist Box ×18 |
-| 22:11 | **jebiilerium**: Strawberry Shortcake Bat Dragon (FR) | **chesnock204**: Turtle (FR), Cow (FR), Ride-A-Pet Potion ×5, Strawberry Shortcake Bow, Gemstone Egg |
-| 22:11 | **GL0Rl0**: Grim Dragon (NFR) ×2, Kangaroo (FR) | **iaMatthieu1**: Haetae (FR) |
-| 22:11 | **disapp6ar**: Goose (MFR), Tiny Wings | **roblox_user_8676283275**: Sugar Glider (MFR) |
-| 22:11 | **HGFAKN**: Jester Dragon, Silly Duck (NFR), Seagull (M), Ride-A-Pet Potion | **waydrown**: Snowball Pet (MR) |
+| 22:25 | **tyt_567r**: Eaten Donut, Flying Fairy, White Chef Hat, Rubber Ducky ×2 | **ihitmyheadonwalls2**: Pupcicle |
+| 22:25 | **xlorkaa7**: Blue Jay (M) | **burntcottoncandy**: Fly-A-Pet Potion |
+| 22:25 | **Flashbook6**: Haetyphoon (M), Flash Weasel (M), Flash Weasel ×2, Haetyphoon | **Violet20191dd**: Shadow Dragon (FR) |
+| 22:25 | **Mary_202401**: Ride-A-Pet Potion | **twixishka_rbx**: Scarlet Butterfly, Stygian Owl, Salamander, Trapdoor Snail, Water Moon Bear, Arctic Hare, Lunar White Tiger |
+| 22:25 | **lexcor3**: Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR) ×2, Arctic Reindeer (FR), Shark Puppy (NFR) | **0FF_L1MIT**: Arctic Reindeer (MFR), African Wild Dog (FR) |
+| 22:25 | **wh1mzical**: Cryptid (N) | **j2v73r**: Puptune (MFR), Pupcake (MFR), Chihuahua (MR), Burger Bear (M), S'mores Raccoon (MFR), Harp Seal (MFR), Zombie Wolf (MFR), Dragonfruit Fox (MFR), Dango Penguins (MFR), Latte Kitsune (MFR) |
+| 22:25 | **l0w_whisper**: Purrowl (N), Black-Footed Ferret (N), Gold Mahi Mahi (N) ×3, Orca (N) | **FcNikita24**: Ride-A-Pet Potion |
+| 22:25 | **lacedribbns**: Hare (MR) | **510478**: Latte Kitsune (MFR) |
+| 22:25 | **MrsCinnamonrolll**: Muskrat (MR) | **PREPPY_ROBLOXWORLD1**: Ride-A-Pet Potion |
+| 22:25 | **Oljusik_8**: Sea Turtle (R), Toucan (N), Shiba Inu (N), Princess Mare (M) | **FcNikita24**: Ride-A-Pet Potion |
+| 22:25 | **ZolotayKoshechka**: Hawk (NR), Ride-A-Pet Potion | **purpleshimmerstars**: Latte Kitsune (FR) |
+| 22:25 | **l0w_whisper**: Clementine Owl (N), Gingerbread Mouse (N), Pomeranian (N), Starfish (N) ×2, Unicorn Ducky (N) | **Vikakelera**: Ride-A-Pet Potion ×2 |
+| 22:25 | **CH4RSV4MP**: Flamingo (R), Unicorn (N), Ghost Bunny | **hayleydoescheer**: Capybara (MFR) |
+| 22:25 | **Katerryrka**: Pupcicle, Cattuccino | **Vikakelera**: Ride-A-Pet Potion |
+| 22:25 | **zeejnaa**: Goose (MFR), Candicorn, Spring Bunny Hood | **kaylamicmi**: Honey Badger (MFR), Groundhog (MFR), Red Dutch Guinea Pig (MFR), Ballet Swan (MFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
