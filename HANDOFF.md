@@ -4,7 +4,7 @@ For any AI (or person) picking this project up. It tells you what exists, what s
 The full history of every decision and finding is in `log.md` (newest at the bottom). **Add to `log.md` whenever you decide
 or find something**, and update the "Current state" and "Next steps" sections here when they change.
 
-_Last updated: 2026-11-13._
+_Last updated: 2026-11-18._
 
 ## What this project is
 

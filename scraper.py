@@ -72,13 +72,15 @@ def walk(node, trees, seen=None):
         yield from walk(c, trees, seen)
 
 
-def find_list(html, key):
+def find_list(html, *keys):
+    """The first non-empty list under any of these keys (several when a site has renamed one)."""
     trees, seen = rsc_trees(html), set()
     for tree in trees.values():
         for n in walk(tree, trees, seen):
-            if isinstance(n, dict) and isinstance(n.get(key), list) and n[key]:
-                return n[key]
-    raise RuntimeError(f"no '{key}' list found; page layout changed?")
+            for key in keys:
+                if isinstance(n, dict) and isinstance(n.get(key), list) and n[key]:
+                    return n[key]
+    raise RuntimeError(f"no {' / '.join(map(repr, keys))} list found; page layout changed?")
 
 
 def parse_trade(node, trees):
@@ -164,7 +166,8 @@ def snapshot_values():
     # a throwaway query string gets a fresh render: on 2026-11-13 amvgg's plain /values/pets URL served a copy ~18 h old
     # (the same Next.js page cache as the trades page), which logged a fake drop and recovery for 46 pets
     bust = f"?t={int(time.time())}"
-    lists = {"elve": find_list(fetch("https://elvebredd.com/adopt-me-calculator" + bust), "initialPets"), "amvgg": []}
+    # Elvebredd renamed "initialPets" to "pets" on 2026-11-18 (same items, same fields)
+    lists = {"elve": find_list(fetch("https://elvebredd.com/adopt-me-calculator" + bust), "pets", "initialPets"), "amvgg": []}
     for kind in AMVGG_KINDS:
         html = fetch(f"https://amvgg.com/values/{kind}{bust}")
         lists["amvgg"] += [dict(i, kind=kind) for i in find_list(html, "pets" if kind == "pets" else "items")]
@@ -543,13 +546,13 @@ def auto():
         except Exception as e:
             print(f"ads job failed: {e!r}")
     if due:
-        snapshot_values()
-        sync_elve_updates(limit=30)
-        sync_amvgg_updates()
-        try:  # update notes are a side signal too
-            sync_news()
-        except Exception as e:
-            print(f"news job failed: {e!r}")
+        # each on its own: a failure (e.g. a page-layout change) must not lose this run's trades and offers, which are
+        # only committed if this step succeeds; `health` (3 h limit on the value check) is what turns it into a failed run
+        for job in (snapshot_values, lambda: sync_elve_updates(limit=30), sync_amvgg_updates, sync_news):
+            try:
+                job()
+            except Exception as e:
+                print(f"FAILED {getattr(job, '__name__', 'elve updates')}: {e!r}")
     write_stats()
 
 
