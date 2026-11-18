@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 13:41 UTC by the scrape workflow._
+_Updated 2026-11-18 13:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 13:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 34,989 | 2026-11-18T13:30 |
-| elve | 8 | 7,175 | 2026-11-18T13:31 |
+| amvgg | 8 | 35,254 | 2026-11-18T13:45 |
+| elve | 8 | 7,230 | 2026-11-18T13:46 |
 
-## AMVGG completed trades: 31,948 total
+## AMVGG completed trades: 31,973 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,875 |
+| 2026-11-18 | 1,900 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 13:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:36 | **1ovIIy**: Ride-A-Pet Potion | **robloxcusayra**: Mythic Egg ×3 |
-| 13:36 | **kanIIkor**: Gemstone Egg ×2 | **frrisstaill**: Ride-A-Pet Potion |
-| 13:36 | **nazzanown10**: Cow, Ride-A-Pet Potion ×2 | **kmj081022**: Cow (FR) |
-| 13:36 | **iv2yec**: Mini Pig (FR), Hare (NFR) | **itssrhiann**: Alley Cat (MFR) |
-| 13:36 | **AseesCr7GoesBoom**: Strawberry Tortle ×16 | **kamiqwees**: Owl (NFR) |
-| 13:36 | **batton0955**: Ride-A-Pet Potion | **Zocko007**: Happy Duckling, Flower Power Duckling |
-| 13:36 | **Unicornfav_animal**: Owl, Monkey King (R) | **myfav_QUOICOUBEH**: Haetae (FR), Cryptid (FR) |
-| 13:36 | **Wi_964roma**: Cherry-On-Top | **rainthatxx**: Fairy Bat Dragon (FR) |
-| 13:36 | **adam12345c10**: Tiny Wings ×2, Ride-A-Pet Potion, Strawberry Clip | **PixiePawsTrade**: Siamese Cat (FR) |
-| 13:36 | **KFC_C0nya**: Ride-A-Pet Potion ×2 | **Klaysi_flayra**: Halloween White Skeleton Dog (NFR) |
-| 13:36 | **daandy44566**: Cabbit (MFR), Siamese Cat (MFR), Kangaroo (NFR), White Sand Dollar (MFR), Goat (R) | **ILove_Jack1234**: Chocolate Chip Bat Dragon (MFR) |
-| 13:36 | **Liya_na078**: Goat (R) | **insano_6678**: Field Mouse (R) |
-| 13:36 | **Tr0ubledD0ll**: Tuxedo Cat, Retired Egg ×17 | **chikibamboniill**: Alien Eyes Hat |
-| 13:36 | **Krismasterdang**: Chocolate Dutch Guinea Pig | **frrisstaill**: Ride-A-Pet Potion |
-| 13:36 | **SimplyPokee**: Royal Fairytale Egg | **mArg0_Tubb1e**: Three Blind Mice ×2 |
+| 13:45 | **meow_cat2310**: Mini Pig (R) | **m1lxnav**: Fairy Bat Dragon (FR), Pet Handler Pro Certificate, Strawberry Hat, Ice Cream Heels, Cotton Candy Hat, Cupcake Sprinkle Wings ×2, Strawberry Shortcake Bow, Strawberry Clip, Tutu, Midnight Wings, Easter Egg Friends, Heart Bow, White Chef Hat, Picnic Basket, Eaten Donut ×2, Unfortunate Eyelashes |
+| 13:45 | **Bismuth234**: Meerkat | **don2p**: Snow Owl (NFR), Golden Penguin (R) |
+| 13:45 | **Jwadd32**: Chocolate Chip Bat Dragon (NFR), Siamese Cat (MFR), Hedgehog (FR), Frost Fury (FR) | **ZafiY_hay**: Owl (FR), Evil Unicorn (NFR) |
+| 13:45 | **piSANKAAAAA**: Peahen | **cchloecrichtonsecret**: Ride-A-Pet Potion |
+| 13:45 | **hello_people1406**: Bat Dragon (FR), Balloon Unicorn, Flamingo (FR), Turtle (FR), Giant Cheetah Mount, Winged Tiger (FR), Fairy Bat Dragon (FR), Frost Fury (FR), Irish Elk (MR), Unicorn (NFR), Aestus (FR), Latte Kitsune (FR), Nessie (R), Leviathan (NFR), Cow Calf (MFR), Snow Owl (NFR), T-Rex (NFR), Shark (NFR) | **TwistedK1tty**: Shadow Dragon (NFR) |
+| 13:45 | **Krismasterdang**: Bakeneko (M) | **ikabackflip**: Ride-A-Pet Potion |
+| 13:45 | **robloxcusayra**: Bubblegeist (N), Jacobin Pigeon (N) | **oh_eql**: Ride-A-Pet Potion |
+| 13:45 | **tishpretty**: Strawberry Shortcake Bat Dragon (FR), Frostbite Bear | **Robloxian19039878**: Dalmatian (FR) |
+| 13:45 | **Lucie_Dreemurr2**: Border Collie (NFR), Tiny Wings, Spring Bunny Hood, Unicorn Backpack, Snowy Mammoth (M) | **Void88881**: Glormy Leo (MFR) |
+| 13:45 | **swer95**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 | **OnlyMeNinik**: Strawberry Tortle (FR) |
+| 13:45 | **yeltrah09**: Diamond Unicorn (NR) | **FroZen_Y**: Gemstone Egg ×4 |
+| 13:45 | **luvyerh**: Crow (FR) | **fygramvgg**: Cow (FR) ×4, Elephant (FR) |
+| 13:45 | **lou1slove**: Emberlight | **ms_kusa0**: Great Pyrenees |
+| 13:45 | **Adoptmetrader22670**: Parrot (FR), Hot Doggo (FR), Hot Doggo, Fairy Bat Dragon (FR), Sakura Spirit (FR) | **sugar_lover61**: Frost Dragon (FR) |
+| 13:45 | **ElishaJade12341**: Flamingo, Fly-A-Pet Potion, Koi Carp | **holasoyzuri_yt**: Siamese Cat (R) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
