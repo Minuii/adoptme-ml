@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 06:55 UTC by the scrape workflow._
+_Updated 2026-11-18 07:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 06:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 28,972 | 2026-11-18T06:45 |
-| elve | 8 | 5,993 | 2026-11-18T06:45 |
+| amvgg | 8 | 29,185 | 2026-11-18T07:00 |
+| elve | 8 | 6,029 | 2026-11-18T07:01 |
 
-## AMVGG completed trades: 30,944 total
+## AMVGG completed trades: 30,948 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 871 |
+| 2026-11-18 | 875 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,10 @@ _Updated 2026-11-18 06:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:00 | **xbubblezxxlyn**: Mr. Whiskerpips (N) | **fzxfrf**: Ride-A-Pet Potion |
+| 07:00 | **7nillvhatessoren**: Chocolate Chip Bat Dragon (FR) | **cachorris_XD**: Strawberry Shortcake Bat Dragon (R) |
+| 07:00 | **fzxfrf**: Mr. Whiskerpips ×3 | **abc_popcatt12**: Ride-A-Pet Potion |
+| 07:00 | **Zlata_CatDog2011**: Stray Cat Dragon ×9 | **fzxfrf**: Ride-A-Pet Potion |
 | 06:55 | **shyfaint**: Strawberry Tortle, Peppermint Penguin (FR), Dragonfruit Fox ×2 | **xiiiireh**: Strawberry Shortcake Bat Dragon (FR) |
 | 06:55 | **justunujede123**: Pupcicle, Chocolate Dutch Guinea Pig | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion ×2 |
 | 06:55 | **v3xxyyy**: Cabbit (R), 2022 Birthday Party Hat, Field Mouse (NR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Wikitos5**: Cabbit (NFR) |
@@ -44,10 +48,6 @@ _Updated 2026-11-18 06:55 UTC by the scrape workflow._
 | 06:55 | **kworixx**: Golden Penguin | **DrizzledTxffee**: Ride-A-Pet Potion |
 | 06:55 | **carolzinhac2009**: Werewolf (R) | **SAS7225**: Unicorn ×15 |
 | 06:55 | **YingSyia**: Cerberus (R), Cerberus (F), Pupcake | **ikamisatka**: Owlbear |
-| 06:55 | **Hello_Kitty54341**: Mrs. Whiskerpips, Gingerbread Reindeer (N) | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 06:55 | **zahraxcrystals**: Violet Butterfly | **b3yaw**: Candy Hare |
-| 06:55 | **purpleshinystarbucks**: Retired Egg ×7 | **Yamajyjopyvazelinov1**: Diamond Dragon |
-| 06:55 | **ll_90dfhj**: Sushi Penguin ×4, Mr. Whiskerpips, Moon Egg | **nice2306_alt**: Sushi Penguin (N) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
