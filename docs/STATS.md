@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 17:01 UTC by the scrape workflow._
+_Updated 2026-11-18 17:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 17:01 UTC by the scrape workflow._
 | amvgg | 8 | 38,357 | 2026-11-18T17:00 |
 | elve | 8 | 7,964 | 2026-11-18T17:01 |
 
-## AMVGG completed trades: 32,619 total
+## AMVGG completed trades: 32,659 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,546 |
+| 2026-11-18 | 2,586 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 17:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:00 | **Starfireesa**: Unicorn Horn, Ride-A-Pet Potion | **Tikihiye**: Alpaca (R) |
-| 17:00 | **iluvkhattafya**: Pet Handler Pro Certificate | **dilanfabian13**: Ride-A-Pet Potion ×2 |
-| 17:00 | **Nastya_Mihalyk**: Ribbon Seal (M), Princess Mare (N) | **Kaka_wkalol**: Diamond Unicorn (R) |
-| 17:00 | **patya57893**: Count Slothula (R), Thunderfisher | **Nastysha_123465**: Ride-A-Pet Potion |
-| 17:00 | **QetiChitashvil**: Ride-A-Pet Potion | **viktoria_super000**: Angus Cow (M), Pilot Gull (N) ×2, Gumball Caterpillar (N), Jumpscare (N) |
-| 17:00 | **lzxsre**: Ice Cream Hermit Crab (NR) | **Kxxr9**: Ride-A-Pet Potion ×9 |
-| 17:00 | **Vitek_228666**: Kangaroo (FR) | **cemen346t**: Ride-A-Pet Potion ×16 |
-| 17:00 | **saskisakur**: Frost Fury (NFR), Bunny Swirl (M), Arctic Fox (R) | **SoLost666**: Fairy Bat Dragon (FR) |
-| 17:00 | **jannatseifi**: Crow (MFR), Harp Seal (MFR) | **bubbleaxolot**: Strawberry Shortcake Bat Dragon (MFR), Royal Mistletroll (MFR), Royal Mistletroll (NFR), Munchkin Cat (MFR) |
-| 17:00 | **Kika123xdddd**: Poodle ×15 | **littlefelonies**: Zebra ×6, Orangutan ×3, Parakeet |
-| 17:00 | **ilonka_128**: Copycat (NFR), Owlbear (FR), Cerberus (FR) | **miartws**: Cow (FR) |
-| 17:00 | **Vluxbuy**: Strawberry Tortle (NR) | **igaao**: Silverback Gorilla (MFR) |
-| 17:00 | **bytsaremyfavourute**: Mini Pig, Pig (FR), Ice Cream Cone Hat | **M1dnight_v0id52**: Alley Cat (MFR) |
-| 17:00 | **Emmasloth346**: Hedgehog (MFR) | **Kiritto1415**: Parrot (FR), Balloon Unicorn (FR) ×4, Unicorn Horn, 2022 Birthday Confetti Cannon, Yeti (MFR) |
-| 17:00 | **cute_01814**: Frost Fury (FR), Copycat | **Anelchik_i**: Cozy Cabin, Ride-A-Pet Potion |
+| 17:11 | **raven_rampag**: Royal Corgi (MFR), S'mores Raccoon (MFR), 2022 Birthday Cake, Unicorn Horn ×2, 2022 Birthday Cupcake Shoes, Tiny Wings | **Markopolisen9**: Balloon Unicorn (FR) |
+| 17:11 | **BUS5ED**: Butter Knife | **Enthusiasticwombat**: Diamond Dragon (R) |
+| 17:11 | **Safka221**: Gemstone Egg | **polia_catBars**: Pistachio |
+| 17:11 | **Pierro0_0hehe**: Tortoiseshell Guinea Pig | **Wikitos5**: Flash Weasel |
+| 17:11 | **W0lf_a1T**: Dalmatian (R), Goose (FR), Peppermint Penguin (FR), Candy Cane Snail (M) | **pktyce**: Chocolate Chip Bat Dragon (NFR) |
+| 17:11 | **AsianIceCold**: Chihuahua, Pain au Chat, Purrowl ×3 | **iixblushrxse**: Ride-A-Pet Potion |
+| 17:11 | **m1so_02**: Praying Mantis (MFR), Water Moon Bear (MFR), Dolphin (MFR), Ride-A-Pet Potion | **St0rm_Sniper89**: Binturong (MFR) |
+| 17:11 | **Preppy_malsie**: Jester Dragon (NFR) | **ysaazik_0**: Unicorn Horn |
+| 17:11 | **booluqx**: Burger Bear (N) | **Kir4kaa**: Burger Bear ×4 |
+| 17:11 | **Callme_Mary45**: Fly-A-Pet Potion | **booluqx**: Eel (M) |
+| 17:11 | **weezerification**: Frost Dragon (FR), Sea Slug | **ALTACCOUNT1333475**: Rainbow Maker, Cabbit (FR), Sugar Glider (R), Balloon Unicorn (FR), Tiny Wings, Spring Bunny Hood, Pet Handler Pro Certificate |
+| 17:11 | **25kkdile3**: Canadian Goose (MR), Butter Knife, Bready Necklace, Copycat, Mexican Wolf (M) | **ni1zuua**: Black Springer Spaniel (M) |
+| 17:11 | **Stephanie58241**: Cherry-On-Top | **anni_Dragin**: Pig (R), Toaster Hat, Ice Cream Cone Hat, Ride-A-Pet Potion ×4 |
+| 17:11 | **trainingpilot12**: Chihuahua (M) ×7, Chihuahua (MR) ×2, Kangaroo (FR) | **Siraj6118**: Evil Unicorn (FR) |
+| 17:11 | **mitsuri_w5**: Buffalo (NFR), Mr. Whiskerpips, Zodiac Minion Chick | **SelfL0vktwt**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
