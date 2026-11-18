@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 17:31 UTC by the scrape workflow._
+_Updated 2026-11-18 17:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 17:31 UTC by the scrape workflow._
 | amvgg | 8 | 38,843 | 2026-11-18T17:30 |
 | elve | 8 | 8,049 | 2026-11-18T17:31 |
 
-## AMVGG completed trades: 32,704 total
+## AMVGG completed trades: 32,768 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,631 |
+| 2026-11-18 | 2,695 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 17:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:21 | **lilpepeng150**: Mochi Meow (MFR) | **hunterwarrior0558**: Santa Hat |
-| 17:21 | **ii_aldrin20**: Frost Dragon (FR), Quokka (N) | **Lurxell**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Kangaroo (FR) |
-| 17:21 | **Iy_pokakal**: Patchy Bear (M), Grinmoire (N) ×3 | **Sunoo56298**: Ride-A-Pet Potion |
-| 17:21 | **Officalyuichi**: Owl (FR) ×2 | **PuhonaBeri**: Giraffe (FR), Munchkin Cat (FR) |
-| 17:21 | **Nekoluga_Alt**: Tortuga de la Isla (NFR), Silverback Gorilla (R) | **Poppycatplays909**: Jekyll Hydra (FR) |
-| 17:21 | **XxkfirxbushxX**: Cabbit (NFR), Fairy Bat Dragon (NFR), Turtle (NFR), Albino Monkey (NFR), Kangaroo (NFR), Fairy Bat Dragon (FR) ×2, Cabbit (R), Ballet Swan (FR), Crocodile (R) | **AVAPAWSXO**: Hot Doggo (MFR) |
-| 17:21 | **Rexgaang39**: Purrowl ×12 | **Bumble_bea20215**: Ride-A-Pet Potion |
-| 17:21 | **viktoria_super000**: Royal Palace Spaniel (FR) | **gg_aplle**: Ride-A-Pet Potion |
-| 17:21 | **COCN_XNY**: Copycat (NFR), Sakura Spirit (FR), Strawberry Penguin (R), Strawberry Shortcake Bat Dragon (R) | **hisforeverndalways**: Christmas Pudding Pup (MFR), Ride-A-Pet Potion |
-| 17:21 | **PIZZ44R0LLZ2**: Metal Ox, Three Blind Mice, Cat (MR), Royal Palace Spaniel | **Vikakelera**: Ride-A-Pet Potion |
-| 17:21 | **Noyniya**: Ride-A-Pet Potion ×2 | **s0nkez**: Dango Penguins |
-| 17:21 | **Frieda_0130**: Frost Dragon (FR), Balloon Unicorn (FR), Orange Butterfly (MR), Horse And Carriage, Arctic Hare (M) ×2, Flamingo (R), Yule Log Dog, Mrs. Whiskerpips (M), Mule, St Bernard (N), Puffer Fish, Drake, Purple Butterfly (R), Dango Penguins, Cold Cube (R), Reindeer Stroller | **hwnjhyunnjj**: Frost Dragon (NFR) |
-| 17:21 | **catt_lo1**: Cabbit (FR), Meerkat, Fly-A-Pet Potion | **Bismuth234**: Cow (FR) |
-| 17:21 | **opp51207**: Ride-A-Pet Potion | **Cinder_222**: Bunny Swirl |
-| 17:21 | **irinka6543**: Pandaguin Glooptodog (M), Kakapo (N), Orca | **Kir4kaa**: Ride-A-Pet Potion |
+| 17:40 | **kittyywtx**: Baku (N) | **Name_robloxx02**: Fly-A-Pet Potion |
+| 17:40 | **holacausaanthony123**: Cow (FR) ×2, Cow (NFR), Turtle (R), Kangaroo (FR), Fairy Bat Dragon (NFR), Fly-A-Pet Potion ×6 | **justi1cee**: Frost Dragon (FR) |
+| 17:40 | **cmhqiyiy3497**: Count Slothula ×9 | **N3ssii0**: Copycat |
+| 17:40 | **Klaraschule**: 2026 Birthday Butterfly (M), Crimson Cape (N) | **xfreyacon**: Stray Cat Dragon (N) |
+| 17:40 | **kelsey_1815**: Purple Heart Glasses ×2, Purple & Green Beads ×2 | **madurra012**: Admin Abuse Egg, Paint Sealer, Jumpscare, Jimothy, Jacobin Pigeon ×2, Basic Egg ×12 |
+| 17:40 | **00w111ttt**: Rain Boots | **majrurjeap**: Fly-A-Pet Potion |
+| 17:40 | **tessadegroot2009**: Strawberry Shortcake Bat Dragon (FR), Dalmatian (FR), Turtle (FR), Werewolf (FR), Alley Cat (MFR), Haetae, Meerkat (NFR), Crocodile (R) | **Sonny_angel097**: Arctic Reindeer (MFR) |
+| 17:40 | **wh1mzical**: Matcha Cat, Copycat | **C0rry_playz**: Winged Tiger |
+| 17:40 | **amyggvaI**: Elephant (R), Elephant (FR), Kangaroo (FR), Flamingo (R), Tio De Nadal (FR), Siamese Cat (FR), Sugar Glider (FR), Turtle (FR) ×4, Nessie (FR), Flash Weasel, Unicorn (MFR) | **leruval**: Frost Dragon (FR) |
+| 17:40 | **jstforgrindx**: Goose (R), 2022 Birthday Party Hat | **cannotaffordme**: Naughty Mistletroll (MFR) |
+| 17:40 | **AnneFabrel2005**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion | **mariagrigoryan1**: Ram (NR) |
+| 17:40 | **Caba7Senpai**: Bready Necklace | **kelsey_1815**: Ice Cream Heels |
+| 17:40 | **h4_cd**: Pet Handler Pro Certificate | **BlackGigi2**: Stray Cat Dragon (M) |
+| 17:40 | **RomanticFr337**: Muskrat (M), Burger Bear | **h4_cd**: Ride-A-Pet Potion |
+| 17:40 | **Gamerqueen1255**: Gemstone Egg | **MOGGYJAM**: Retired Egg ×18 |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
