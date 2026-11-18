@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 22:41 UTC by the scrape workflow._
+_Updated 2026-11-18 22:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 22:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 43,660 | 2026-11-18T22:30 |
-| elve | 8 | 9,034 | 2026-11-18T22:31 |
+| amvgg | 8 | 43,915 | 2026-11-18T22:45 |
+| elve | 8 | 9,112 | 2026-11-18T22:46 |
 
-## AMVGG completed trades: 33,835 total
+## AMVGG completed trades: 33,839 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,762 |
+| 2026-11-18 | 3,766 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,10 @@ _Updated 2026-11-18 22:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:45 | **1Biahsz_altx**: Ride-A-Pet Potion | **chroma_dust**: Little Lamb (M) |
+| 22:45 | **chroma_dust**: S'mores Raccoon | **WolfNinjaCraze**: Ride-A-Pet Potion |
+| 22:45 | **JethroPlayzR**: Happy Clam (N), Lavender Dragon (NR), Pirate Hermit Crab (NFR), Puffer Fish (NFR) | **Omar2002548**: Cow (FR) |
+| 22:45 | **mylolovescats**: Winged Tiger (R) | **dupeczek23**: Crocodile (FR) |
 | 22:40 | **C0PHYAK**: Kangaroo (FR) ×5, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **Moon_Cloud609859**: Evil Unicorn (FR) |
 | 22:40 | **joshsawsy**: Ride-A-Pet Potion ×2 | **liddysadm**: Black Panther |
 | 22:40 | **N0AH_XRM**: Stray Cat Dragon (NR), Eggnog Dog (R), Purrowl (N) | **fifiople**: Fly-A-Pet Potion |
@@ -44,10 +48,6 @@ _Updated 2026-11-18 22:41 UTC by the scrape workflow._
 | 22:40 | **sweet_peachesss**: Ride-A-Pet Potion | **Foxtailszx**: Candyfloss Mega Neon Paint |
 | 22:40 | **Sweet_Butter1049**: Golden King Penguin, Cattuccino, Blue Jay | **Aslie_17**: Ride-A-Pet Potion |
 | 22:40 | **MrRubysk4tesYT**: Giant Panda (NFR) | **Flashbook6**: Haetyphoon (M), Flash Weasel (M), Flash Weasel ×2, Haetyphoon |
-| 22:40 | **Anelchik_i**: Siamese Cat (NFR), Cow (FR), Aurora Fox (R), Frost Fury (FR), Ride-A-Pet Potion ×2 | **that0neax0l0tl1**: Evil Unicorn (FR) |
-| 22:40 | **SheilaPlays12**: Ranger Beaver, Tarsier | **abbyissocool_lol**: Ride-A-Pet Potion |
-| 22:40 | **MapleLull**: Huntsman Robin (N), Blue Cat (M), Mistletroll (N) | **Mimimmiiimimmmiimim**: Ride-A-Pet Potion |
-| 22:40 | **Hey_itsCloveer**: Zombie Wolf (MR) | **Enderbro360931**: Turtle (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
