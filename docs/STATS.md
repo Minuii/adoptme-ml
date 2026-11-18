@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 04:25 UTC by the scrape workflow._
+_Updated 2026-11-18 04:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 04:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 26,629 | 2026-11-18T04:15 |
-| elve | 8 | 5,589 | 2026-11-18T04:16 |
+| amvgg | 8 | 26,848 | 2026-11-18T04:30 |
+| elve | 8 | 5,656 | 2026-11-18T04:31 |
 
-## AMVGG completed trades: 30,667 total
+## AMVGG completed trades: 30,672 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 594 |
+| 2026-11-18 | 599 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,11 @@ _Updated 2026-11-18 04:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:30 | **KeimoKaiAlr**: Chocolate Chip Bat Dragon (NFR) ×2, Strawberry Shortcake Bat Dragon (NFR), Werewolf, Unicorn Horn | **pinponkgoku2**: Strawberry Tortle (MFR) |
+| 04:30 | **SnowyBear561**: Retired Egg ×9 | **DeiMoszxX**: Cattuccino |
+| 04:30 | **cookiepup13ax**: Pupcake (M), Ride-A-Pet Potion, Sushi Penguin | **DarkGriffin9635**: Pupcicle ×9 |
+| 04:30 | **adriel_24k**: Aurora Fox (R) | **cookiequeen0598**: Chocolate Dutch Guinea Pig (N) |
+| 04:30 | **Lpoopbxhe**: Ride-A-Pet Potion | **vaIxhrtz**: Frosty Glow Mega Neon Paint |
 | 04:25 | **PlayOfHappy**: Amethyst Skies Mega Neon Paint, Paint Sealer | **xHelen_Martax**: Corgi (M) |
 | 04:25 | **bolzani001111**: Flash Weasel (M) | **Flashbook6**: Candicorn (MFR), Sushi Penguin (MFR), Flash Weasel ×9 |
 | 04:25 | **LadyJ11111**: Balloon Unicorn (FR) | **amvggtotrade**: Siamese Cat (MFR) |
@@ -43,11 +48,6 @@ _Updated 2026-11-18 04:25 UTC by the scrape workflow._
 | 04:25 | **babyfollicle**: Pinkypillar (N) ×2, Ms. Muffet, Mouse, Princess Mare | **dxtxrrr**: Stray Cat Dragon |
 | 04:25 | **Sushicakes916**: Count Slothula (MR), Kitty Bat (MFR), Hamster (MR), Lynx (MFR), Cake Friend (M), Cattuccino (M), Zombie Chick (M), Ice Cream Cone Hat, Coyote (M) | **sarahtalksstuff**: Strawberry Shortcake Bat Dragon (FR) |
 | 04:25 | **AASDRT_II**: Quokka (M) | **sarahtalksstuff**: Pupcicle ×7 |
-| 04:25 | **PatoPollo7777**: Ride-A-Pet Potion ×2, Crystal Egg | **sarahtalksstuff**: Purrowl (M) |
-| 04:25 | **4zuuk1**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 | **murid5**: Tiny Wings ×2, Spring Bunny Hood, Ice Cream Cone Hat ×2 |
-| 04:25 | **Uliana000334**: Halloween Slime Mega Neon Paint | **Mallow_07737**: Amethyst Skies Mega Neon Paint |
-| 04:25 | **shinobu02119**: Frost Unicorn (FR), Glacier Kitsune (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **Wolfie4567ty**: Fairy Bat Dragon (FR) |
-| 04:25 | **Mallow_07737**: Strawberry Penguin (R) | **tapochek_Instasamki**: Cow Calf (M) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
