@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 00:55 UTC by the scrape workflow._
+_Updated 2026-11-18 01:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 00:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 23,316 | 2026-11-18T00:45 |
-| elve | 8 | 4,945 | 2026-11-18T00:45 |
+| amvgg | 8 | 23,588 | 2026-11-18T01:00 |
+| elve | 8 | 5,007 | 2026-11-18T01:01 |
 
-## AMVGG completed trades: 30,240 total
+## AMVGG completed trades: 30,246 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 167 |
+| 2026-11-18 | 173 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,12 @@ _Updated 2026-11-18 00:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:00 | **razarvale2z**: Chihuahua ×12 | **xitzlinda**: Ride-A-Pet Potion ×4 |
+| 01:00 | **rainbowd0II**: Copycat (NR) | **xXfayridreamXx**: Tio De Nadal |
+| 01:00 | **Elenaasooo**: Ride-A-Pet Potion | **Elwanizk**: Unicorn |
+| 01:00 | **xolvrxo**: Siamese Cat | **Xxskibidy67**: Arctic Dusk Dragon (NFR) |
+| 01:00 | **Ashkey094**: Strawberry Shortcake Bat Dragon (NFR), Siamese Cat, Werewolf | **1s2ll**: Werewolf (MFR) |
+| 01:00 | **blake_shortie**: Kangaroo (NFR) | **LUV_H3L1OK1TTY**: Cow (FR), Sea Turtle (N), Fennec Fox (MFR) |
 | 00:55 | **EEEEEEEEZEEEEEEZEEEE**: Giraffe (FR), Frost Dragon (FR), Chocolate Chip Bat Dragon (FR), Mermicorn (FR), Siamese Cat (FR), Siamese Cat (R), Candyfloss Chick (FR), Lion (R), Unicorn (NFR), Ride-A-Pet Potion ×2, Burger Bear (MR) | **mamadmasa010**: Bat Dragon (FR) |
 | 00:55 | **haylie90kmkh**: Ride-A-Pet Potion | **razarvale2z**: Chihuahua ×3 |
 | 00:55 | **fozzypop2007**: Owl (FR) | **Ellas_Preston**: Candy Cannon, Ginger Cat (M) |
@@ -42,12 +48,6 @@ _Updated 2026-11-18 00:55 UTC by the scrape workflow._
 | 00:55 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×16 | **Z_Alexis22**: Turtle (FR) |
 | 00:55 | **razarvale2z**: Chihuahua ×3 | **hefeltsafe**: Ride-A-Pet Potion |
 | 00:50 | **0XBONNIEX0**: Chocolate Chip Bat Dragon Backpack, Unfortunate Eyelashes | **Pvnk_0x**: Butter Knife |
-| 00:50 | **Gamerqueen1255**: Gemstone Egg | **MiNa067789**: Retired Egg ×18 |
-| 00:50 | **hefeltsafe**: Retired Egg ×12 | **nimalina463**: Rubber Ducky (N) |
-| 00:50 | **ivilin_04**: Ride-A-Pet Potion ×2 | **Machaddkkj**: Fly-A-Pet Potion |
-| 00:50 | **minismudgepanda**: Chocolate Chip Bat Dragon (NFR) ×2 | **sleepy_s0ren**: Frost Dragon (FR), Border Collie ×2 |
-| 00:50 | **vivicacke17**: Shark | **RealVeronnisaa**: Ride-A-Pet Potion |
-| 00:50 | **Melocotonrancio**: Purrowl, Ancient Dragon | **HAJK102**: Retired Egg ×15 |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
