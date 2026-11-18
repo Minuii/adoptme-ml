@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 11:31 UTC by the scrape workflow._
+_Updated 2026-11-18 11:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 11:31 UTC by the scrape workflow._
 | amvgg | 8 | 33,026 | 2026-11-18T11:30 |
 | elve | 8 | 6,796 | 2026-11-18T11:31 |
 
-## AMVGG completed trades: 31,542 total
+## AMVGG completed trades: 31,575 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,469 |
+| 2026-11-18 | 1,502 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 11:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:30 | **splead565**: Elephant (FR), Ride-A-Pet Potion | **RhodesyMate16**: Christmas Egg |
-| 11:30 | **Zak_0250**: Raccoon (NR) | **Fidelia2131415**: Ride-A-Pet Potion |
-| 11:30 | **Zak_0250**: Slime | **yuioedf**: Ride-A-Pet Potion |
-| 11:30 | **xxxxproxxxx5500**: Werewolf | **AugustTrading2025**: Kangaroo (FR), Ride-A-Pet Potion |
-| 11:30 | **scoobydoo3452**: Amami Rabbit | **Lylyputikmummy9**: Gemstone Egg |
-| 11:30 | **anekalubitnaruto**: Border Collie (FR), Fly-A-Pet Potion ×2, Shiver Wolf | **Akieqt9**: Alpaca (R) |
-| 11:30 | **bolzani001111**: Flash Weasel ×11 | **anekalubitnaruto**: Giant Panda (FR) |
-| 11:30 | **wskdaks**: Kangaroo (FR) | **Den_826uhwk**: Frost Fury (FR) ×3 |
-| 11:30 | **anekalubitnaruto**: Elephant (FR), Cherry Blossom Flower Sticker | **alisa_fan986**: Pig, Fly-A-Pet Potion, Ride-A-Pet Potion ×6 |
-| 11:30 | **TheCrazyYTGamer**: Candicorn (NFR), Chocolate Dutch Guinea Pig (N), Dire Wolf (M), Waffle Wyrm (M), Ghostly Cat (M), Golden Petunia | **sshanao_o**: Latte Kitsune (MFR) |
-| 11:30 | **bbddppo78**: Puffin, Chihuahua ×3 | **Inganta07**: Matcha Cat |
-| 11:30 | **mgjgmwg**: African Wild Dog (R), Evil Unicorn (FR), Peppermint Penguin (FR) | **enadalhade**: Frost Dragon (FR) |
-| 11:30 | **Gearsp8314**: Jekyll Hydra (MFR), Alley Cat (MFR), Kookaburra (MFR), Scorching Kaijunior (MR), Naughty Mistletroll (MFR), Irish Water Spaniel (MFR), Honey Badger (MFR) | **crown12256**: Bat Dragon (FR) |
-| 11:30 | **Sunnywizz**: Dragonfruit Fox (MFR) | **LemoncloudyplaysYT**: Candy Hare (MFR) |
-| 11:30 | **YesidT_T**: Cabbit (NFR) ×2 | **altgenaratordhc45**: Sheeeeep (MFR), Mermicorn (FR), Mermicorn, Flamingo (FR), Ride-A-Pet Potion |
+| 11:40 | **rip_indra12345678912**: Arctic Dusk Dragon (MFR) | **chvk_caxapok56**: Werewolf (NR), Strawberry Tortle, Soccer Stadium |
+| 11:40 | **balaba292009**: Cryptid (FR), Pig, Arctic Fox (R), Copycat | **CloudyFalconpro4**: African Wild Dog (FR) |
+| 11:40 | **Ilovemusics_3**: Water Opossum, Clumpty, Basic Egg, Mexican Wolf, Fairytale Egg | **gg_aplle**: Dragon |
+| 11:40 | **Zak_0250**: Harp Seal (N) | **dnei30fast**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 11:40 | **Traderieeeeeeeee1**: Amethyst Skies Mega Neon Paint | **headshotw0**: Tropical Surge Mega Neon Paint |
+| 11:40 | **Shiky388**: Chickatrice (NR), Corgi (N) | **Sunny_Frinch**: Ride-A-Pet Potion |
+| 11:40 | **queenmaya773**: Frost Dragon (FR) | **LPPlay42302**: Parrot (FR), Evil Unicorn (FR), Ride-A-Pet Potion ×4 |
+| 11:40 | **ilizathai**: Strawberry Shortcake Bat Dragon (NFR), Mini Pig (R), Lion (FR), Bat Backpack, Purple Heart Glasses | **Ishabns01**: Border Collie (MFR) |
+| 11:40 | **alinka_lobabklna**: Cow (FR), Candyfloss Chick (FR), Flamingo (R), Hare, Ice Cream Cone Hat, Ride-A-Pet Potion | **Trixcaughtlackin**: Dalmatian (FR) |
+| 11:40 | **hzmimii**: Golden Jaguar (NR), Choco Penguin (N) | **nornomm**: Fly-A-Pet Potion, Pupcake |
+| 11:40 | **einxizz**: Turtle (FR) | **Markiz_568**: Haetyphoon (FR), Ride-A-Pet Potion ×4, Jester Dragon |
+| 11:40 | **Panci_Terbang33**: Fly-A-Pet Potion ×2 | **pisapopakakashecki**: Nurse Shark (M), Black Tiger (M), Angus Calf (N), Gumball Caterpillar (N), Stygian Owl (NR), Stygian Owl (N), Stray Cat Dragon (N), Purrowl (N), Blue Ringed Octopus, Skelicorn, Coconut Friend |
+| 11:40 | **Heavy_MetalFamily45**: Penguin (F), Happy Duckling, Pandaguin Glooptodog (N), Princess Mare (N), Throwback Egg ×2 | **Vikakelera**: Ride-A-Pet Potion |
+| 11:40 | **ammadOwO2**: Kangaroo (NFR) ×2, Dodo (NFR), Ballet Swan | **11Anime_Love1**: Dalmatian (FR) |
+| 11:40 | **p001torich**: Black Macaque (MFR) | **ri0txh**: Snowball Pet (MFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
