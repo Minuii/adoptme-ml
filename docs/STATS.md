@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 17:46 UTC by the scrape workflow._
+_Updated 2026-11-18 17:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 17:46 UTC by the scrape workflow._
 | amvgg | 8 | 39,085 | 2026-11-18T17:45 |
 | elve | 8 | 8,102 | 2026-11-18T17:46 |
 
-## AMVGG completed trades: 32,776 total
+## AMVGG completed trades: 32,806 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,703 |
+| 2026-11-18 | 2,733 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 17:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **PIZZ44R0LLZ2**: Royal Palace Spaniel (R), Admin Abuse Egg ×6, Retired Egg ×6 | **vladislav1362**: Ride-A-Pet Potion |
-| 17:45 | **Klaysi_flayra**: Ride-A-Pet Potion | **iuvzjules**: Shih Tzu (M), Ruddy Duck (M), Forest Sprite (M) |
-| 17:45 | **uovivg**: Mermicorn (FR), Banana Hat, Copycat, Rose Quartz Glow Mega Neon Paint | **fishtaili**: Peppermint Penguin (R) |
-| 17:45 | **Dwolify**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2 | **littlefelonies**: Peppermint Penguin |
-| 17:45 | **Maryaaa_167**: Cryptid (FR), Dalmatian (FR), Dango Penguins, Fly-A-Pet Potion | **dear_soI**: Dalmatian (NFR) |
-| 17:45 | **lerasryuefj**: Turtle (NFR), Ride-A-Pet Potion ×2, Copycat (R), Kid Goat (MR), Donut Cycle | **itz_Milenixx**: Haetyphoon (NFR) |
-| 17:45 | **AUTOINPUT**: Catte ×2, 2D Doggy, Burger Bear | **LeleJolien123**: Biodome Home |
-| 17:45 | **inicio1994**: Spring Bunny Hood, Spring Bunny Feet | **sstressful**: Christmas Pudding Pup (R) |
-| 17:40 | **kittyywtx**: Baku (N) | **Name_robloxx02**: Fly-A-Pet Potion |
-| 17:40 | **holacausaanthony123**: Cow (FR) ×2, Cow (NFR), Turtle (R), Kangaroo (FR), Fairy Bat Dragon (NFR), Fly-A-Pet Potion ×6 | **justi1cee**: Frost Dragon (FR) |
-| 17:40 | **cmhqiyiy3497**: Count Slothula ×9 | **N3ssii0**: Copycat |
-| 17:40 | **Klaraschule**: 2026 Birthday Butterfly (M), Crimson Cape (N) | **xfreyacon**: Stray Cat Dragon (N) |
-| 17:40 | **kelsey_1815**: Purple Heart Glasses ×2, Purple & Green Beads ×2 | **madurra012**: Admin Abuse Egg, Paint Sealer, Jumpscare, Jimothy, Jacobin Pigeon ×2, Basic Egg ×12 |
-| 17:40 | **00w111ttt**: Rain Boots | **majrurjeap**: Fly-A-Pet Potion |
-| 17:40 | **tessadegroot2009**: Strawberry Shortcake Bat Dragon (FR), Dalmatian (FR), Turtle (FR), Werewolf (FR), Alley Cat (MFR), Haetae, Meerkat (NFR), Crocodile (R) | **Sonny_angel097**: Arctic Reindeer (MFR) |
+| 17:55 | **AbigailLightSpark201**: Happy Clam (NR), Spring Bunny Hood, Propeller Hat | **Apop_20108**: Unicorn Horn |
+| 17:55 | **dprd22**: Christmas Pudding Pup, Arctic Fox (R), Albino Monkey (FR) | **Wolfie4567ty**: Fairy Bat Dragon (FR) |
+| 17:55 | **Captainhookine**: Cow (NFR), Grim Dragon (NFR), Winged Tiger (R), Winged Tiger, Munchkin Cat (MFR), Vampire Dragon (NFR), Phantom Dragon, Midnight Dragon (R), Jester Dragon (NFR), Frost Fury (FR), Lava Dragon (NFR), Cerberus (NFR), King Bee (MFR), Kangaroo (FR), Dango Penguins (N), Christmas Spirit (MFR), Gumball Caterpillar (M), Unicorn Ducky (M) | **kamiqwees**: Giraffe (FR) |
+| 17:55 | **Pix3lat3dOm3gaSonic5**: Copycat | **MckDull**: Christmas Pudding Pup |
+| 17:55 | **Pix3lat3dOm3gaSonic5**: Sushi Penguin (N) | **junlovee77**: Mr. Whiskerpips (N) ×2 |
+| 17:55 | **1an4hn**: Goat (R), Lamb (R), Swan, Ride-A-Pet Potion ×2 | **zjKC7l**: Shark Puppy (FR) |
+| 17:55 | **lauruchaxlll**: Glormy Hound (N), Alley Cat (N), Ride-A-Pet Potion, Blossom Snake (N) | **djqbdiwhd**: Kangaroo (FR) |
+| 17:55 | **MIN_JUSARA**: Evil Unicorn (FR), Chihuahua (MFR), Pupcicle (MR), Sloth (MFR), Fly-A-Pet Potion, Spring Bunny Hood ×2 | **xxXchange_Vibe**: Balloon Unicorn (FR) |
+| 17:51 | **100PercentWinRateHax**: 2D Kitty (NR), Fly-A-Pet Potion | **jellyfish1248396**: Field Mouse |
+| 17:51 | **nagumo2226**: Turtle (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **Mnenormalno_0**: Cabbit (FR) |
+| 17:51 | **Wolfie4567ty**: Albino Monkey (FR) | **MATT_2011901**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2 |
+| 17:51 | **sstressful**: Toaster Hat, Ride-A-Pet Potion | **nfrlilly**: Spring Bunny Hood, Spring Bunny Nose, Spring Bunny Feet |
+| 17:51 | **kaibodydump**: Cryptid (MFR) ×2, Zombie Wolf (MFR) | **MarilynBrandt562**: Bat Dragon (NFR) |
+| 17:51 | **mariagrigoryan1**: Pet Handler Pro Certificate | **albina_7807**: Crystal Egg ×18 |
+| 17:51 | **iluvkhattafya**: Pet Handler Pro Certificate | **icanbeyougirl3**: Dango Penguins |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
