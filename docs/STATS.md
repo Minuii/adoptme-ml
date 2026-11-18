@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-18 19:11 UTC by the scrape workflow._
+_Updated 2026-11-18 19:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 15 | 2026-11-11T1036Z | 2026-11-18T0245Z |
-| amvgg | 42 | 2026-11-11T1036Z | 2026-11-18T1716Z |
+| amvgg | 43 | 2026-11-11T1036Z | 2026-11-18T1916Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 40,329 | 2026-11-18T19:00 |
-| elve | 8 | 8,352 | 2026-11-18T19:01 |
+| amvgg | 8 | 40,561 | 2026-11-18T19:15 |
+| elve | 8 | 8,367 | 2026-11-18T19:15 |
 
-## AMVGG completed trades: 33,105 total
+## AMVGG completed trades: 33,115 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,032 |
+| 2026-11-18 | 3,042 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 19:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:15 | **saphire10347**: Velocirooster (MFR), Candy Hare (MFR), Space Whale (MFR) | **faebnny**: Crow (FR) |
+| 19:15 | **ilycameli**: Catte, Scarebear | **Kyza_222222223**: Easter Egg Stroller |
+| 19:15 | **ADDIEISCHEAP**: Balloon Unicorn (FR), Ride-A-Pet Potion ×4, Siamese Cat (FR) | **ShuvalovDmitry**: African Wild Dog (FR), Hot Doggo, Pink Cat Ear Headphones |
+| 19:15 | **Alexnaza82**: Rainbow Maker, Turtle (FR), Ride-A-Pet Potion ×2 | **ana42530u**: Ring-Tailed Lemur (MFR), Ice Cream Cone Hat |
+| 19:15 | **XxkfirxbushxX**: Unicorn, Black-Footed Ferret (M), Galapagos Sea Lion (M) | **qwxksw**: Fly-A-Pet Potion |
+| 19:15 | **addieee_012**: Mini Schnauzer (NFR), Cracked Egg ×5, Beaver (N), Poodle (N) | **Iamcool1234uwuuwuuu**: Hamster (MFR) |
+| 19:15 | **Eris_BiggestFan**: Water Rabbit (MFR), Panda (MFR) | **gogoyurio**: Hot Doggo (FR) |
+| 19:15 | **Bekhan_omg**: Milk Choccybunny (M), Ginger Cat (N), Purrowl (N) | **Vikakelera**: Ride-A-Pet Potion |
+| 19:15 | **chososwi_fe**: Alpaca (MFR), Dalmatian (NFR), Rain Cloud Hat ×2, Ride-A-Pet Potion | **Katseye_Fanlaraaaaa**: Balloon Unicorn (NFR), Rainbow Maker |
+| 19:15 | **FemboyMaxer**: Velocirooster (NR), Unicorn Horn, Count Slothula (MFR), Border Collie (R) | **ratikasinghal5**: Farm Egg |
 | 19:11 | **uuukabzhxj78**: Seahorse (NR) | **Veraca2900**: Ride-A-Pet Potion |
 | 19:11 | **h4_cd**: Spring Bunny Nose | **stillpromise**: Ride-A-Pet Potion ×3 |
 | 19:11 | **RomanticFr337**: Muskrat (N) ×2, Starfish (N), Starfish ×3, Mochi Meow (N) | **Youmyrii**: Ride-A-Pet Potion |
 | 19:11 | **super_dishik**: Retired Egg ×5 | **RomanticFr337**: Tealwood Monster |
 | 19:11 | **Tsuki_n0ko**: Cow (FR), Cow (R), Grim Dragon (FR), Fly-A-Pet Potion | **saints22819**: Jester Dragon (MFR) |
-| 19:11 | **sobrforyou**: Bone Wings | **SadPaperCat**: Christmas Pudding House |
-| 19:11 | **SyndromGG**: Ice Wolf (R) | **qwxksw**: Fly-A-Pet Potion ×2 |
-| 19:11 | **penideater**: Giraffe (FR), Frost Dragon (FR), Parrot (FR) ×2 | **cookieuxblox**: Crow (MFR) |
-| 19:11 | **Ruperto_1297**: Cow (FR) | **Wolfie4567ty**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 |
-| 19:11 | **DreasKittygirl101309**: Leopard Cat (NR), Leopard Cat (N), Leopard Cat ×2, Snow Leopard (N), Puffer Fish, Fly-A-Pet Potion | **oh_eql**: Leopard Cat (M) |
-| 19:11 | **Robloxiana_xxx2011**: Pink Cat (MFR) | **anutik_awesome**: Puffin (MFR) |
-| 19:11 | **mommy_vka123**: Turtle (FR), Crocodile (FR), Pig (FR), Pink Cat (FR), Irish Water Spaniel (R), Lion Cub (R), Fly-A-Pet Potion ×5, Sheeeeep (R), Frost Fury (FR) ×2, Cabbit (FR), Siamese Cat, Velocirooster (R) | **Kakashonec2**: Crow (FR) |
-| 19:11 | **ni1zuua**: Mr. Whiskerpips (MR), Fly-A-Pet Potion | **Maayas_17alt1**: Kappakid (MR), Spring Bunny Hood |
-| 19:11 | **Greenstinkcarlos**: Dalmatian (FR), Honey Badger (NFR), Canadian Goose (MR) | **lol115783**: Caelum Cervi (MFR) |
-| 19:11 | **ericsfootsteps**: Arctic Fox, Silverback Gorilla, Brown Bear (NR), Aussie Egg, Polar Bear (R), Owlbear, Black Panther (NFR), Many Mackerel, Hyena (R) | **AnneFabrel2005**: Turtle (NFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
