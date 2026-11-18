@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 20:16 UTC by the scrape workflow._
+_Updated 2026-11-18 20:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 20:16 UTC by the scrape workflow._
 | amvgg | 8 | 41,523 | 2026-11-18T20:15 |
 | elve | 8 | 8,551 | 2026-11-18T20:15 |
 
-## AMVGG completed trades: 33,341 total
+## AMVGG completed trades: 33,359 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,268 |
+| 2026-11-18 | 3,286 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 20:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:15 | **abby_43219**: Boohoo (N), Frankenfeline (NR) | **xolvrxo**: Ranger Beaver |
-| 20:15 | **ruinedbleeded**: Pet Handler Pro Certificate | **PrestoGizmo123456**: Dango Penguins |
-| 20:15 | **xolvrxo**: Sea Turtle (M) | **Ghostedbyjrr**: Ride-A-Pet Potion ×2 |
-| 20:15 | **Lost_Cvpid**: Bush Elephant (NFR), Alley Cat (M), Copycat (R), Glormy Leo, Unicorn Horn | **Itzz_Hannah56**: African Wild Dog (FR) |
-| 20:15 | **xolvrxo**: City Hat, Eaten Donut | **GAV_6066**: Unfortunate Eyelashes |
-| 20:15 | **bunny_splash4**: Cow (FR), Fairy Bat Dragon (FR), Fly-A-Pet Potion | **rowletgamig**: Strawberry Shortcake Bat Dragon (FR) |
-| 20:15 | **dinax1238**: Turtle (FR), Arctic Fox, Hare (R) | **carolzinhac2009**: Cow (FR) |
-| 20:15 | **NastyRu2022**: Toaster Hat | **TwistedK1tty**: Fly-A-Pet Potion ×5 |
-| 20:15 | **definitelynotkaidan**: Frost Dragon (FR), Chocolate Chip Bat Dragon (NFR), Sakura Spirit (MFR) ×4 | **EEEEEEEEZEEEEEEZEEEE**: Bat Dragon (FR) |
-| 20:15 | **JuanasSecret**: Eggnog Dog (NR) | **B1nnie2**: Ride-A-Pet Potion |
-| 20:15 | **marsel_bananov**: Pig | **wskdaks**: Bunny Swirl (M) |
-| 20:15 | **Shiky388**: Three Blind Mice, Purrowl, Alicorn, Ocelot (N), Orangutan (N), Milk Choccybunny (N), Gemstone Egg | **kirw_eqq**: Ride-A-Pet Potion |
-| 20:15 | **kirw_eqq**: Unicorn Ducky (N), Dimension Drifter, Ostrich, Shetland Pony Dark Brown, Mahi Mahi (N), Granny Wolf (N) | **Oliviaeattt**: Ride-A-Pet Potion |
-| 20:15 | **Sara707852**: Fairy Bat Dragon (NFR), Gold Fairy Crown | **Minimeme1112**: Mini Pig (FR) ×2 |
-| 20:15 | **vcniIIa**: Yule Log Dog (MFR) ×2, Tree Kangaroo (MFR) | **biq_at222**: Candicorn (MFR) |
+| 20:25 | **milanakim12**: Jellyfish (MFR) | **ELOSOCURIOSO**: Field Mouse (MFR), 2022 Birthday Party Hat, Fly-A-Pet Potion |
+| 20:25 | **tatianachan1713**: Munchkin Cat | **atomicbubu**: Jellyfish (R) |
+| 20:25 | **Meg_T7**: Sushi Penguin (MFR), Ride-A-Pet Potion, Golden Dragon, White Amazon, Sea Turtle | **estry_alas**: Border Collie (FR), Irish Water Spaniel (FR) |
+| 20:25 | **Its_soulseekk**: Ride-A-Pet Potion | **Aninha_Lya**: Pomeranian (M) |
+| 20:25 | **Koshka_unicore**: Haetyphoon (R) | **Unboxing2akk**: Fly-A-Pet Potion ×6 |
+| 20:25 | **pl4t0n1c_b00m**: Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Copycat ×2, Strawberry Tortle (R), Glormy Hound (NFR), Ride-A-Pet Potion | **s0larzxxxx**: Copycat (MFR) |
+| 20:25 | **iikariiss**: Phantom Dragon (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **FrostyLife8382**: Turtle (FR) |
+| 20:25 | **lisaamvgg17**: Pelican Stroller ×2 | **HAJK102**: Retired Egg ×4 |
+| 20:25 | **Ddwkfmr**: Pig (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×10 | **wskdaks**: Turtle (FR) |
+| 20:25 | **Mizumi_yiku**: Munchkin Cat (MFR), Grave Owl (NR) | **elliegrindingxx**: Arctic Dusk Dragon (MFR), Vampire Dragon (FR), Winter Fawn (M), Cow Calf (N), Brachiosaurus (MR), Cozy Mistletroll (N), Jester Dragon (FR) |
+| 20:25 | **Amvggtrad3r**: Ghostly Cat (M) | **DiankaDAP3132**: Ladybug (M) |
+| 20:25 | **l_i8ra7**: Ride-A-Pet Potion | **coolno797**: Peacock (R) |
+| 20:25 | **chloe89211**: Pomeranian (M), Irish Setter (M), Pet Handler Pro Certificate, Puptune (N), Ghost Bunny (R), Great Pyrenees (NR), Peachick (N) | **Yingyue_12**: Munchkin Cat (R) |
+| 20:25 | **cutesyyxharleyss**: French Bulldog (MFR), Chocolate Dutch Guinea Pig (MFR) | **itsxxazra**: Alley Cat (MFR) |
+| 20:25 | **ComWhil**: Arctic Reindeer (FR), Ride-A-Pet Potion | **Itz_korblox78**: Cow (FR), Goose, Lion Cub (R) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
