@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 06:16 UTC by the scrape workflow._
+_Updated 2026-11-18 06:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 06:16 UTC by the scrape workflow._
 | amvgg | 8 | 28,498 | 2026-11-18T06:15 |
 | elve | 8 | 5,936 | 2026-11-18T06:16 |
 
-## AMVGG completed trades: 30,860 total
+## AMVGG completed trades: 30,888 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 787 |
+| 2026-11-18 | 815 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 06:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:15 | **Vanlyzn26**: Crystal Egg ×14 | **cathxdral**: Ride-A-Pet Potion |
-| 06:15 | **ItzAina_JPN**: Leopard Shark (N) | **Liya_na078**: Field Mouse (R) |
-| 06:15 | **nenadlry4**: Candicorn (NFR), Silverback Gorilla (NFR), Silverback Gorilla | **joswa9700**: Strawberry Shortcake Bat Dragon (FR) |
-| 06:15 | **baconandchicken007**: Retired Egg ×12 | **tatianachan1713**: Therapy Dog |
-| 06:15 | **eshatewariifan**: Alley Cat (M), Fallow Deer (NFR), Unicorn (MFR), Alley Cat (NFR), Pink Cat (R), Ride-A-Pet Potion | **rastafarismo10**: Munchkin Cat (MFR) |
-| 06:15 | **jackieiqp**: Horse (NR) | **flamingo0lemonade**: Subzero Scorpion (N) ×2 |
-| 06:15 | **kanekixklxster**: Crystal Egg ×15 | **hunterwarrior0558**: Ride-A-Pet Potion |
-| 06:15 | **nornomm**: Strawberry Tortle (R), Urban Egg | **hunterwarrior0558**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
-| 06:15 | **BillCipherLover1st**: Unicorn (NFR) | **usernamemeeemr**: Ride-A-Pet Potion ×5 |
-| 06:15 | **amimellaman3**: Turtle (FR), Kangaroo (NFR) | **Fan_deJennaO**: Jousting Horse (MFR) |
-| 06:15 | **bad_boss1235**: Binturong (MFR), Candy Flare Mega Neon Paint, Diamond Dragon, Dirty Ducky, Easter Bunny, Purrowl | **amimellaman3**: Kangaroo (R) |
-| 06:15 | **Santywut1**: Werewolf (NFR), Kangaroo (R), Pet Handler Pro Certificate ×3, Ride-A-Pet Potion ×4 | **amimellaman3**: Goose (NFR) |
-| 06:15 | **qO_Opli**: Cabbit, 2022 Birthday Cake, 2022 Birthday Cupcake Shoes, Kiwi Kiwi (M) | **cute_bunny123456p**: Glacier Kitsune (MFR) |
-| 06:15 | **carolzinhac2009**: English Sheepdog, Cattuccino, Orange Betta Fish | **BiBi_sfkw**: Ride-A-Pet Potion |
-| 06:15 | **peepyplops**: Stray Cat Dragon ×3, Huntsman Robin, Golden Griffin, Dragon, Three Blind Mice ×3, Purrowl ×2, Skelicorn | **yonski_50**: Ride-A-Pet Potion |
+| 06:25 | **simplyxarv**: Munchkin Cat (FR), Chocolate Dutch Guinea Pig | **adoptmeejjej**: Tiny Wings, Fly-A-Pet Potion |
+| 06:25 | **cloudy_cloudimup**: Siamese Cat (R) | **gatita_garrita0**: Munchkin Cat ×2 |
+| 06:25 | **WHOISY4NAA**: Ride-A-Pet Potion ×5 | **Miki_5533**: Fallow Deer |
+| 06:25 | **Bacontop1of100**: Cow (FR) ×4 | **Z_Alexis22**: Crow (FR) |
+| 06:25 | **LUVS3MELON**: Pig (R) | **lolo247243**: Golden Rat (FR), Chameleon (NFR), Pupcake (NR), Mochi Meow (M) |
+| 06:25 | **martins10530**: Crystal Egg ×18 | **hellokittyjosi**: Ride-A-Pet Potion ×2 |
+| 06:25 | **preppygurl_787**: Jester Dragon (R), Jester Dragon | **pmpjmg1**: Shark Puppy (FR) |
+| 06:25 | **maegrie7**: Festive Antlers | **Grim_ReaperCasper**: Steppe Lion, Classic Teapot |
+| 06:25 | **Applewoo62**: 2022 Birthday Party Hat, Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Cabbit (R) | **v3xxyyy**: Moose Calf (MFR) |
+| 06:25 | **daran_waren**: Kangaroo, Stray Cat Dragon (M), Kaijunior (MR) | **sarahtalksstuff**: Unicorn Horn |
+| 06:25 | **tufvfffdjdg**: Copycat | **soisomin**: Ride-A-Pet Potion ×5 |
+| 06:25 | **sasha_574611**: Chihuahua ×2, Trapdoor Snail | **Tatitofake777**: Ride-A-Pet Potion |
+| 06:25 | **Inganta07**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **yana_foxy220**: Unicorn (NFR) |
+| 06:21 | **Kui_Yeager**: Balloon Unicorn (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **majrurjeap**: Peppermint Penguin (NFR), Cow (R) |
+| 06:21 | **ellielielielieee**: Tutu, Bunny Plush, Japanese Snow Fairy (N), Strawberry Shortcake, Strawberry Toast Flying Disc, Cherry Blossom Flower Sticker ×3 | **dxllyluvs2**: Spring Bunny Feet |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
