@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 21:25 UTC by the scrape workflow._
+_Updated 2026-11-18 21:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 21:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 42,491 | 2026-11-18T21:15 |
-| elve | 8 | 8,755 | 2026-11-18T21:15 |
+| amvgg | 8 | 42,714 | 2026-11-18T21:30 |
+| elve | 8 | 8,816 | 2026-11-18T21:31 |
 
-## AMVGG completed trades: 33,602 total
+## AMVGG completed trades: 33,616 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,529 |
+| 2026-11-18 | 3,543 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 21:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:30 | **c0llidinglovee**: Siamese Cat (R), Crocodile (FR), Cattuccino (MR) | **LikeVar4ek**: Cow (FR) |
+| 21:30 | **Lola_ant34**: Owl (FR) | **GrindAccount_N1**: Jousting Horse (MFR), Kangaroo (NFR), Dragonfruit Fox (MFR), Lynx (MFR), Silverback Gorilla (FR), Diamond Unicorn (MFR), Toy Monkey (MFR), Goldfish (MFR) |
+| 21:30 | **IH3ARTJaden**: Phantom Dragon (MFR), Snowball Pug (MR) | **lnH3II**: Jester Dragon (MFR) |
+| 21:30 | **xurlocalwhateverx**: Peppermint Penguin (FR), Cow | **1thelost**: Strawberry Shortcake Bat Dragon (FR) |
+| 21:30 | **Alllllkos**: Chihuahua ×3 | **tyt_567r**: Ride-A-Pet Potion |
+| 21:30 | **iloveadoptme541**: Strawberry Shortcake Bat Dragon (MFR), Goose (MFR), Arctic Fox (MFR), Copycat | **BlizzardvwQuantumO13**: Bat Dragon (FR) |
+| 21:30 | **ALTACCOUNT1333475**: Fairy Bat Dragon (MFR) | **viviinlovewithcats**: Haetae (FR), Arctic Reindeer (FR), Rain Cloud Hat, Harp Seal (MFR), Spring Bunny Hood |
+| 21:30 | **0o0Username0o0**: Bubblegeist ×6 | **sedrasabah**: Ride-A-Pet Potion |
+| 21:30 | **akdloma**: Fly-A-Pet Potion ×2 | **Yeti_sn0wkon3**: Rose Dragon (FR) |
+| 21:30 | **Nephanox**: Ghost Bunny (MFR) | **misodoct**: Kitsune (MFR), Rainbow Trout (M), Golden Tortoise Beetle (MFR), Moonpine (M) |
+| 21:30 | **YOKOZ303**: English Sheepdog | **Daniel11122255**: Ride-A-Pet Potion |
+| 21:30 | **summerdounut123**: Robo Dog (MFR) | **GrindAccount_N1**: Winged Tiger (FR) |
+| 21:30 | **stoIencorpses**: Ride-A-Pet Potion ×4 | **vanillqsz**: Brown Bear (FR) |
+| 21:30 | **M1dnight_v0id52**: Strawberry Penguin (NR) | **ExpertChipmunkPro**: Cabbit (R), Hare |
 | 21:25 | **ploB_666**: Biodome Home | **Hugchamb**: Ride-A-Pet Potion ×3 |
-| 21:25 | **mango_robloxx101**: Arctic Reindeer (FR) | **bunnszi**: Red Dutch Guinea Pig (MFR) |
-| 21:25 | **UlyaLanaEvaYo_ULEY3**: Frost Fury (FR), Unicorn (R) ×2, Deinonychus (R) | **yRafah_Bloxinha**: Sakura Spirit (FR) |
-| 21:25 | **hhhauntedddd**: Giant Blue Scarab | **Cutsy_BunnyXD**: Retired Egg ×9 |
-| 21:25 | **serspect**: Pomeranian (N), Gold Mahi Mahi (N) ×2, Red Panda (N), Robot (N) ×2 | **FcNikita24**: Ride-A-Pet Potion |
-| 21:25 | **Alllllkos**: Ride-A-Pet Potion ×6 | **R4kert**: Shrew (FR) |
-| 21:25 | **roblox_user_9559902919**: Happy Duckling, Fossa, Buffalo, Pain au Chat (R) | **inputw**: Ride-A-Pet Potion |
-| 21:25 | **Wolfie4567ty**: Winged Tiger (FR) | **Vikki_0x**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 |
-| 21:25 | **meow4miioo**: Winged Tiger (FR) | **dardaruni**: Caterpillar, Ride-A-Pet Potion |
-| 21:25 | **NekoZero4**: Cabbit (MFR) | **Lucyswxrldx**: Caelum Cervi (MFR), Giant Anteater (MFR), Phantom Dragon (MFR) |
-| 21:25 | **0hya1**: Haetae (FR), Harp Seal (MFR) | **hvesser11**: African Wild Dog (FR), Chihuahua (M), Ride-A-Pet Potion |
-| 21:25 | **azucar4574l**: Fly-A-Pet Potion ×3 | **BentheBessy**: Copycat |
-| 21:25 | **Thomatooss**: Cow (FR), Pancake Stack | **rxy3e**: Candyfloss Chick (FR), Nessie, Rose Dragon (FR), Flaming Fox, Sakura Spirit (R) |
-| 21:25 | **ll_90dfhj**: Pupcicle ×4, Frog | **Katarinamartino**: Pupcicle (N) |
-| 21:25 | **cocowiol**: Dodo (MFR), Frostbite Bear (FR), Jester Dragon (NFR), Candicorn (R), Arctic Fox (FR), Capybara (NR), Meerkat (R) | **ysaazik_0**: Hedgehog (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
