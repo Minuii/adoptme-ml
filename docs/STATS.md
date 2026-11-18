@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 11:01 UTC by the scrape workflow._
+_Updated 2026-11-18 11:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 11:01 UTC by the scrape workflow._
 | amvgg | 8 | 32,591 | 2026-11-18T11:00 |
 | elve | 8 | 6,724 | 2026-11-18T11:01 |
 
-## AMVGG completed trades: 31,451 total
+## AMVGG completed trades: 31,482 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,378 |
+| 2026-11-18 | 1,409 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 11:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:00 | **muniradypa**: Thunderfisher (M) | **h4_cd**: Ride-A-Pet Potion |
-| 11:00 | **rainbowpuply_cute**: Cow (FR), Kangaroo (FR), Jester Dragon (R), Velocirooster (R), Fly-A-Pet Potion | **Oliver20717**: Chocolate Chip Bat Dragon (FR) |
-| 11:00 | **emi28na**: Phantom Dragon (MFR), Munchkin Cat (MFR), Cow (FR) ×3, Albino Gorilla (MFR), Irish Water Spaniel (NFR), Copycat (NFR), Kookaburra (MFR), Arctic Fox | **Singxer**: Peppermint Penguin (MFR) |
-| 11:00 | **cjfcbutjfd**: Bobageist (M) | **h4_cd**: Ride-A-Pet Potion |
-| 11:00 | **Finnles_duck**: Golden Hamster (R), Puffer Fish, Pink Dog (N) | **Leviodas**: Fly-A-Pet Potion |
-| 11:00 | **clqvdxyalt**: Dragonfly (F), Lunar Ox (R), Quetzalcoatl, Ginger Cat (N), Crimson Cape (N), Red Panda (N), Diamond Dragon, Purrowl ×2 | **dnei30fast**: Ride-A-Pet Potion |
-| 11:00 | **Cosmo_syx**: Brown Bear (NR) | **huynj_ii**: Ride-A-Pet Potion ×13 |
-| 11:00 | **xxxxproxxxx5500**: Jester Dragon | **zpdanila2**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 11:00 | **Rubydxmn**: Onza (M) | **h4_cd**: Ride-A-Pet Potion |
-| 11:00 | **adoptmexx626**: Shoebill (M) | **duno_spelar222**: Snowball Pet |
-| 11:00 | **knowledgeablescars**: Panda (MFR) | **m1so_02**: Dimorphodon (MFR), Turkey, Toy Monkey, Frostbite Cub |
-| 11:00 | **Geraldinek0**: S'mores Raccoon (FR), Koala (FR) | **SuperIndo_123**: Pet Handler Pro Certificate |
-| 11:00 | **h4_cd**: Ride-A-Pet Potion | **Kurocuash**: Bobageist (M) |
-| 11:00 | **Cosmo_syx**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **2009lovesouls**: Matcha Cat (R) |
-| 11:00 | **ARKIN_gamingChannel1**: Turtle (FR) ×2, Candicorn | **Oliver20717**: Strawberry Shortcake Bat Dragon (FR) |
+| 11:11 | **Nixe_b84**: Tutu ×2 | **vvccgg_a**: Ride-A-Pet Potion |
+| 11:11 | **safiqa99**: Turtle (FR) | **bacon_lless**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 |
+| 11:11 | **adoptcatdogfox2**: Dragon (FR), Lunar White Tiger (FR) | **erditiri03**: Ride-A-Pet Potion |
+| 11:11 | **safiqa99**: Kangaroo (FR) | **bacon_lless**: Ride-A-Pet Potion ×16 |
+| 11:11 | **k1tty_pawzz00**: T-Rex, Diamond Griffin, Dragon, Alicorn ×3, Ancient Dragon ×3, Dragonfly ×2 | **baconboykindly**: Yeti (R), Stray Cat Dragon, Drake |
+| 11:11 | **AASDRT_II**: Apple Owl (R) | **Panci_Terbang33**: Pupcicle |
+| 11:11 | **CloudyFalconpro4**: Owl (FR) | **plasfreerb**: Balloon Unicorn (FR), Mermicorn, Great Pyrenees (MFR), Crocodile (FR), Burger Bear (MR) |
+| 11:11 | **xolvrxo**: Snowball Pug (N) | **grijfe8r**: S'mores Raccoon |
+| 11:11 | **xolvrxo**: Ride-A-Pet Potion | **glittermarga**: S'mores Raccoon |
+| 11:11 | **benju_16**: Haetyphoon, Pet Handler Pro Certificate, Australian Kelpie (R) | **Kvammletitraketa**: Haetyphoon (FR) |
+| 11:11 | **quVare_PDF**: Frostbite Bear | **forso_manyacc**: Frost Unicorn, Count Slothula (N) |
+| 11:11 | **xolvrxo**: Flower Power Duckling (M), Happy Duckling (MFR), Zombie Wolf (MFR), Shiver Wolf (MFR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **LunaAqua5849**: Rainbow Maker |
+| 11:11 | **razarvale2z**: Chihuahua ×3 | **AKI10PLAY**: Ride-A-Pet Potion |
+| 11:11 | **wx8zqxx**: Shooting Star Board, Fly-A-Pet Potion | **moral608**: Matcha Cat |
+| 11:11 | **sonicpikmin7**: Turtle (FR) | **monkeycutebow**: Copycat (N) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
