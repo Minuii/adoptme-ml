@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 19:01 UTC by the scrape workflow._
+_Updated 2026-11-18 19:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 19:01 UTC by the scrape workflow._
 | amvgg | 8 | 40,329 | 2026-11-18T19:00 |
 | elve | 8 | 8,352 | 2026-11-18T19:01 |
 
-## AMVGG completed trades: 33,052 total
+## AMVGG completed trades: 33,105 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,979 |
+| 2026-11-18 | 3,032 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 19:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:00 | **wolfje51**: Aztec Egg ×18 | **boevaa19**: Mighty Haetyphoon Animated Sticker |
-| 19:00 | **twixishka_rbx**: Pain au Chat ×3 | **irishazu_2014**: Ride-A-Pet Potion |
-| 19:00 | **Klaysi_flayra**: Ride-A-Pet Potion ×3 | **Wika2875**:  |
-| 19:00 | **eeliasxcx**: Ride-A-Pet Potion ×2 | **sweetpinkcryptid**: Tegu (M), Jacobin Pigeon (M), Bolt (M), Mummy Spider (M) |
-| 19:00 | **HuGe_123cAt**: Purrowl (N) ×4, Stray Cat Dragon (N), Purrowl ×13 | **Biscvidi29**: Ride-A-Pet Potion ×3 |
-| 19:00 | **Joycline2013**: Cabbit (FR) | **4elllz**: Orange Butterfly (MFR), Bunny Swirl (MFR), Llama (FR) |
-| 19:00 | **PrettyxDino**: Binturong (MFR) | **4elllz**: English Sheepdog (MFR) |
-| 19:00 | **akeks_74**: Owl (FR) | **Lou575406**: Goose (FR), Kangaroo (NFR), Peppermint Penguin, Mermicorn, Owlbear (N), Chihuahua (M), Koala (MFR), Lion Cub, Axolotl (NFR), Tuxedo Cat (N), Spring Bunny Hood, Puffer Fish (N), Pancake Stack, Propeller Hat, Cake Friend (M), Bready Necklace, Cattuccino (M), Skelicorn (M) |
-| 19:00 | **Nikita_mol16**: Arctic Reindeer (FR) | **sararupia**: Cow (FR) ×2, Fly-A-Pet Potion, Harp Seal ×2 |
-| 19:00 | **xo1qn**: Peppermint Penguin (NFR) | **13_erty5**: Peppermint Penguin (R) ×2, Peppermint Penguin (FR), Rain Cloud Hat, Brown Bear, Ride-A-Pet Potion |
-| 19:00 | **Umei_Yemmy**: Christmas Pudding Pup (R) ×2, Copycat (NR), Copycat (R), Copycat, Munchkin Cat (R), Harp Seal (MR), Chihuahua (MR), Ice Cream Cone Hat, Spring Bunny Hood, Spring Bunny Nose, Spring Bunny Feet, Pretty Pony (NR) | **Amy_Anna268**: Cryptid (FR) |
-| 19:00 | **MyAccountGoneForeve**: Grim Dragon (MFR), Black Scooter | **Shadx_1553**: Owl (FR) |
-| 19:00 | **Sleepw4lk_0**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 | **iaMatthieu1**: Munchkin Cat (FR) |
-| 19:00 | **lynnedcool**: Mythic Egg ×4 | **WuWravenWuW**: Gemstone Egg ×3 |
-| 19:00 | **k1ssa4ka**: Muskrat (MR) | **Veraca2900**: Ride-A-Pet Potion |
+| 19:11 | **uuukabzhxj78**: Seahorse (NR) | **Veraca2900**: Ride-A-Pet Potion |
+| 19:11 | **h4_cd**: Spring Bunny Nose | **stillpromise**: Ride-A-Pet Potion ×3 |
+| 19:11 | **RomanticFr337**: Muskrat (N) ×2, Starfish (N), Starfish ×3, Mochi Meow (N) | **Youmyrii**: Ride-A-Pet Potion |
+| 19:11 | **super_dishik**: Retired Egg ×5 | **RomanticFr337**: Tealwood Monster |
+| 19:11 | **Tsuki_n0ko**: Cow (FR), Cow (R), Grim Dragon (FR), Fly-A-Pet Potion | **saints22819**: Jester Dragon (MFR) |
+| 19:11 | **sobrforyou**: Bone Wings | **SadPaperCat**: Christmas Pudding House |
+| 19:11 | **SyndromGG**: Ice Wolf (R) | **qwxksw**: Fly-A-Pet Potion ×2 |
+| 19:11 | **penideater**: Giraffe (FR), Frost Dragon (FR), Parrot (FR) ×2 | **cookieuxblox**: Crow (MFR) |
+| 19:11 | **Ruperto_1297**: Cow (FR) | **Wolfie4567ty**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 |
+| 19:11 | **DreasKittygirl101309**: Leopard Cat (NR), Leopard Cat (N), Leopard Cat ×2, Snow Leopard (N), Puffer Fish, Fly-A-Pet Potion | **oh_eql**: Leopard Cat (M) |
+| 19:11 | **Robloxiana_xxx2011**: Pink Cat (MFR) | **anutik_awesome**: Puffin (MFR) |
+| 19:11 | **mommy_vka123**: Turtle (FR), Crocodile (FR), Pig (FR), Pink Cat (FR), Irish Water Spaniel (R), Lion Cub (R), Fly-A-Pet Potion ×5, Sheeeeep (R), Frost Fury (FR) ×2, Cabbit (FR), Siamese Cat, Velocirooster (R) | **Kakashonec2**: Crow (FR) |
+| 19:11 | **ni1zuua**: Mr. Whiskerpips (MR), Fly-A-Pet Potion | **Maayas_17alt1**: Kappakid (MR), Spring Bunny Hood |
+| 19:11 | **Greenstinkcarlos**: Dalmatian (FR), Honey Badger (NFR), Canadian Goose (MR) | **lol115783**: Caelum Cervi (MFR) |
+| 19:11 | **ericsfootsteps**: Arctic Fox, Silverback Gorilla, Brown Bear (NR), Aussie Egg, Polar Bear (R), Owlbear, Black Panther (NFR), Many Mackerel, Hyena (R) | **AnneFabrel2005**: Turtle (NFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
