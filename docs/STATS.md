@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 12:46 UTC by the scrape workflow._
+_Updated 2026-11-18 12:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 12:46 UTC by the scrape workflow._
 | amvgg | 8 | 34,231 | 2026-11-18T12:45 |
 | elve | 8 | 7,050 | 2026-11-18T12:46 |
 
-## AMVGG completed trades: 31,784 total
+## AMVGG completed trades: 31,822 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,711 |
+| 2026-11-18 | 1,749 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 12:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:45 | **fortradingadm3**: Fly-A-Pet Potion ×3 | **shn_nq1**: Harp Seal (NR) |
-| 12:45 | **hanb3ki**: Owl (FR) ×4, Ride-A-Pet Potion | **noobninjalegendguy**: Bat Dragon (FR) |
-| 12:45 | **Annutka_rbx**: Black-Footed Ferret (N), Penguin (R), Orca (N), Persian Cat (N), Shiba Inu (N), Dotted Eggy (N), Tarantula (N) | **dilanfabian13**: Fly-A-Pet Potion |
-| 12:45 | **ferrofl7**: Mighty Haetyphoon Animated Sticker, Slothula Transformation Animated Sticker | **b0wnskulls**: Ride-A-Pet Potion |
-| 12:45 | **iv2yec**: Dalmatian (FR), Sheeeeep (R) | **cxltwaste**: Alpaca (NFR) |
-| 12:45 | **GpaSntsaisquoi**: African Wild Dog (FR), Crocodile (FR), Pig (R), Pig, Ride-A-Pet Potion | **LoriDreamy123**: Parrot (FR) |
-| 12:45 | **ask0lw**: Peppermint Penguin (FR), Unicorn | **Sidokufi**: Cow (FR) |
-| 12:45 | **s_coki**: Christmas Pudding Pup (MFR), Toasty Red Panda (N), Ride-A-Pet Potion | **Trixcaughtlackin**: Frost Unicorn (FR), Dalmatian (FR) |
-| 12:45 | **imprettycooolgirl**: Ride-A-Pet Potion | **HaiiTchteru**: Skelicorn ×10 |
-| 12:45 | **frostedninja91**: Fairy Bat Dragon (FR) | **dczcscdsdfcxddd**: Copycat (NFR) |
-| 12:45 | **luvyerh**: Candicorn | **pop3791020**: Elephant (FR) |
-| 12:45 | **silky_moonx0**: Candicorn (NFR), Sugar Glider (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Santywut1**: Hot Doggo (FR), Cow (FR) |
-| 12:45 | **beiosdovosd**: Arctic Fox (NFR), Fly-A-Pet Potion | **sueoak3**: Arctic Dusk Dragon (NFR) |
-| 12:45 | **sugar_lover61**: Dalmatian (FR) ×2, Arctic Reindeer (FR), Arctic Reindeer (R), Ride-A-Pet Potion ×2 | **wskdaks**: Crow (FR) ×2 |
-| 12:45 | **OMGGPOPPYX0**: Aurora Fox, Yellow Butterfly (MFR), Banana Hat, Snow Monkey, Malaysian Tapir (MR) | **iamabigslay9**: Candyfloss Chick (R) |
+| 12:55 | **Legens_5454**: Ride-A-Pet Potion | **Ghosthero2020_offici**: Chihuahua ×3 |
+| 12:55 | **DALZIM06**: Hedgehog (R), Siamese Cat (N), Cupid Dragon (NFR), Ride-A-Pet Potion, Pet Handler Pro Certificate | **j0eymlp**: Parrot (FR) |
+| 12:55 | **Puppylover227331**: Squished Red Pandorama Sticker, Ride-A-Pet Potion | **Jake_b071**: Fly-A-Pet Potion |
+| 12:55 | **elini54321**: Pink Hightops, Pirate Hat, Purple Heart Glasses, Gold Circle Glasses | **nsf772**: Ride-A-Pet Potion |
+| 12:55 | **MuhaTrade**: Canadian Goose (N), Happy Duckling | **samneva8614**: Fly-A-Pet Potion |
+| 12:55 | **adoptmexx626**: Chihuahua, Alicorn, Pomeranian ×2, Ginger Cat ×2, Little Lamb, Crimson Cape, Gold Mahi Mahi ×2, Clumpty, Corgi ×2, Bobageist, Orca | **aaliyah0284**: Ride-A-Pet Potion |
+| 12:55 | **Gxft_ofDestruction**: Owl (FR), Chocolate Chip Bat Dragon (FR) | **mgjgmwg**: Frost Dragon (FR) |
+| 12:55 | **Krewfram**: Cattuccino | **pawlybows**: Red Fox |
+| 12:55 | **NutsLovee**: Mighty Haetyphoon Animated Sticker, Toasty Red Panda (R) | **Majdfjfgxf**: Ride-A-Pet Potion |
+| 12:55 | **SpiritualMary10**: Bunny Swirl (MFR), Unicorn (N), Gemstone Egg, Dire Wolf (N) | **Tena_IsPeakfr**: Unicorn (MFR) |
+| 12:55 | **xgxbr1ellex**: Turtle (FR), Christmas Pudding Pup | **Sasha_6813**: Cabbit (R), Fly-A-Pet Potion |
+| 12:55 | **UniversePaladin**: Count Slothula ×6 | **jedemcrnce67**: Ride-A-Pet Potion ×4 |
+| 12:55 | **Trixcaughtlackin**: Flamingo (R), Cow (FR), Candyfloss Chick (FR), 2022 Birthday Party Hat, Ice Cream Cone Hat | **abdoosaad**: Christmas Pudding Pup (MFR), Ride-A-Pet Potion |
+| 12:55 | **thiaguitoleite**: Border Collie (R), Axolotl (NR) | **alexgameminecraft**: Kangaroo (FR) |
+| 12:55 | **m4r4se**: Sushi Penguin (M), Brown Bear | **maeva15398**: Turtle (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
