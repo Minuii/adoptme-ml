@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 12:55 UTC by the scrape workflow._
+_Updated 2026-11-18 13:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 12:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 34,231 | 2026-11-18T12:45 |
-| elve | 8 | 7,050 | 2026-11-18T12:46 |
+| amvgg | 8 | 34,488 | 2026-11-18T13:00 |
+| elve | 8 | 7,112 | 2026-11-18T13:01 |
 
-## AMVGG completed trades: 31,822 total
+## AMVGG completed trades: 31,831 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,749 |
+| 2026-11-18 | 1,758 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 12:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 13:00 | **anyilaa_dumpoo**: Ride-A-Pet Potion, Ground Sloth (FR), Urchin (N) | **silvannah122**: Stray Cat Dragon ×18 |
+| 13:00 | **AmberChiChii**: Christmas Pudding Pup (NR), Christmas Pudding Pup, Jekyll Hydra Animated Sticker | **Jakakajuah**: Peppermint Penguin (FR) |
+| 13:00 | **AmberChiChii**: Fairy Bat Dragon (FR) | **CyberShadow120111**: Christmas Pudding Pup (NFR) |
+| 13:00 | **hello_oliya**: Pet Handler Pro Certificate | **m1lxnav**: Bready Necklace, Butter Knife |
+| 13:00 | **44HxH44**: Monster Mansion | **FFGYHSFFH**: Happy Duckling |
+| 13:00 | **tytufrytii29**: Hedgehog (FR), Puffer Fish (MR), Candicorn, Pig (R), Fly-A-Pet Potion ×3, Clover Cow (MFR), Christmas Pudding Pup, Sheeeeep (R), Ride-A-Pet Potion, Chick Backpack | **princess0088123**: Parrot (FR) |
+| 13:00 | **Yelyzaveta_125**: Christmas Pudding House, Admin Abuse Box ×4 | **priscillamarquesyt**: Longhorn Cow |
+| 13:00 | **p_lutoni**: Siamese Cat (NFR), Kitty Bat (MFR), Jester Dragon, Mochi Meow (NFR) | **0_0ship21**: Chocolate Chip Bat Dragon (FR) |
+| 13:00 | **Vitamirka**: Pain au Chat ×9 | **jedemcrnce67**: Ride-A-Pet Potion ×3 |
 | 12:55 | **Legens_5454**: Ride-A-Pet Potion | **Ghosthero2020_offici**: Chihuahua ×3 |
 | 12:55 | **DALZIM06**: Hedgehog (R), Siamese Cat (N), Cupid Dragon (NFR), Ride-A-Pet Potion, Pet Handler Pro Certificate | **j0eymlp**: Parrot (FR) |
 | 12:55 | **Puppylover227331**: Squished Red Pandorama Sticker, Ride-A-Pet Potion | **Jake_b071**: Fly-A-Pet Potion |
 | 12:55 | **elini54321**: Pink Hightops, Pirate Hat, Purple Heart Glasses, Gold Circle Glasses | **nsf772**: Ride-A-Pet Potion |
 | 12:55 | **MuhaTrade**: Canadian Goose (N), Happy Duckling | **samneva8614**: Fly-A-Pet Potion |
 | 12:55 | **adoptmexx626**: Chihuahua, Alicorn, Pomeranian ×2, Ginger Cat ×2, Little Lamb, Crimson Cape, Gold Mahi Mahi ×2, Clumpty, Corgi ×2, Bobageist, Orca | **aaliyah0284**: Ride-A-Pet Potion |
-| 12:55 | **Gxft_ofDestruction**: Owl (FR), Chocolate Chip Bat Dragon (FR) | **mgjgmwg**: Frost Dragon (FR) |
-| 12:55 | **Krewfram**: Cattuccino | **pawlybows**: Red Fox |
-| 12:55 | **NutsLovee**: Mighty Haetyphoon Animated Sticker, Toasty Red Panda (R) | **Majdfjfgxf**: Ride-A-Pet Potion |
-| 12:55 | **SpiritualMary10**: Bunny Swirl (MFR), Unicorn (N), Gemstone Egg, Dire Wolf (N) | **Tena_IsPeakfr**: Unicorn (MFR) |
-| 12:55 | **xgxbr1ellex**: Turtle (FR), Christmas Pudding Pup | **Sasha_6813**: Cabbit (R), Fly-A-Pet Potion |
-| 12:55 | **UniversePaladin**: Count Slothula ×6 | **jedemcrnce67**: Ride-A-Pet Potion ×4 |
-| 12:55 | **Trixcaughtlackin**: Flamingo (R), Cow (FR), Candyfloss Chick (FR), 2022 Birthday Party Hat, Ice Cream Cone Hat | **abdoosaad**: Christmas Pudding Pup (MFR), Ride-A-Pet Potion |
-| 12:55 | **thiaguitoleite**: Border Collie (R), Axolotl (NR) | **alexgameminecraft**: Kangaroo (FR) |
-| 12:55 | **m4r4se**: Sushi Penguin (M), Brown Bear | **maeva15398**: Turtle (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
