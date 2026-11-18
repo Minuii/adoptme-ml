@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 02:45 UTC by the scrape workflow._
+_Updated 2026-11-18 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 02:45 UTC by the scrape workflow._
 | amvgg | 8 | 25,250 | 2026-11-18T02:45 |
 | elve | 8 | 5,315 | 2026-11-18T02:45 |
 
-## AMVGG completed trades: 30,437 total
+## AMVGG completed trades: 30,474 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 364 |
+| 2026-11-18 | 401 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 02:45 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:40 | **Rosi_oke**: Turtle (NFR), Fly-A-Pet Potion | **IconsChew**: Candy Hare (MFR) |
-| 02:40 | **Rosi_oke**: Kangaroo (FR) | **SoLost666**: Polar Bear (NFR) |
-| 02:40 | **kakashka_lol35**: Glyptodon (N), Dodo (R) | **Spralliiig**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 02:40 | **djwestie**: Rainbow Maker | **Chikity19**: 2022 Birthday Party Horn, 2022 Birthday Party Hat, Pupcicle (MFR) |
-| 02:40 | **maddiea1982**: Toaster Hat ×2 | **GalaxyCat_X5**: Shrew (N) |
-| 02:40 | **Diaperbunnie**: Mighty Haetyphoon Animated Sticker | **Pawxxzzzzzzz**: Chihuahua |
-| 02:40 | **Babyofy5**: Candicorn (FR), Pet Handler Pro Certificate, Catte | **baby_demonakakj**: Unicorn Horn |
-| 02:40 | **ivilin_04**: Cow (FR), Ride-A-Pet Potion | **Santywut1**: Goose (FR) |
-| 02:40 | **Wolfie4567ty**: Golden Penguin (NFR) | **Domonic8hard**: Fly-A-Pet Potion ×4 |
-| 02:40 | **reserbadong2**: Parrot (NFR) | **evokefairy**: Balloon Unicorn (FR), African Wild Dog (FR), Dragonfruit Fox (MFR), Happy Clam, Dire Wolf (M) |
-| 02:40 | **jsjsjsjssjs123**: Candicorn (NFR), Arctic Reindeer (R), Chocolate Chip Bat Dragon | **heavsns**: Parrot (FR) |
-| 02:40 | **jsjsjsjssjs123**: Chocolate Chip Bat Dragon (FR), Candicorn (NFR), Arctic Reindeer (R) | **heavsns**: Parrot (FR) |
-| 02:40 | **jsjsjsjssjs123**: Chocolate Chip Bat Dragon (FR), Candicorn (NFR), Arctic Reindeer (R) | **heavsns**: Parrot (FR) |
-| 02:40 | **BIg_BoRdy**: Red Squirrel (MFR) | **kjm_5741**: Chihuahua ×4, Peachick ×4, Orange Butterfly, Blue Ringed Octopus, Panda (FR), Drake, Lamb, Happy Duckling ×2, Toasty Red Panda ×2, Highland Cow |
-| 02:40 | **h4_cd**: Pet Handler Pro Certificate | **xolvrxo**: Tealwood Monster (M) |
+| 02:55 | **lilrikki_2**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×4 | **tufvfffdjdg**: Siamese Cat (FR) |
+| 02:55 | **Presbraltacc**: African Wild Dog (FR), Arctic Reindeer (FR) | **Katseye_Fanlaraaaaa**: Balloon Unicorn (FR), Angel Wings, Unicorn Horn, Spring Bunny Hood |
+| 02:55 | **Sylviaa_o09**: Cow (FR) | **myau33are**: Candicorn (FR) |
+| 02:55 | **ranashiil**: Cow (FR) | **myau33are**:  |
+| 02:55 | **CcLuims011x**: Black-Footed Ferret (M), Angus Calf ×4 | **rachel1707vp**: Ride-A-Pet Potion |
+| 02:55 | **CcLuims011x**: Cocoadile (MFR) | **elenapsina666**: Ride-A-Pet Potion |
+| 02:55 | **tarrace_house**: Rubber Ducky Box ×18 | **XianYunLove**: Ride-A-Pet Potion |
+| 02:50 | **004FAscend004**: Christmas Pudding Pup | **Babyofy5**: Black Macaque (N), French Bulldog (N) |
+| 02:50 | **Luna_SanUwuUvu**: Haetae (FR), Albino Monkey (NFR), Hot Doggo (FR) ×2, Crocodile (FR), Lion (R), Ride-A-Pet Potion | **CloudyFalconpro4**: Frost Dragon (FR) |
+| 02:50 | **Luna_SanUwuUvu**: Haetae (FR), Albino Monkey (NFR), Hot Doggo (FR) ×2, Crocodile (FR), Lion (R), Ride-A-Pet Potion | **CloudyFalconpro4**: Frost Dragon (FR) |
+| 02:50 | **0XBONNIEX0**: Candicorn, Catte (N) | **eliismellyy**: Siamese Cat |
+| 02:50 | **blackaquamarine**: Crow (FR), Fly-A-Pet Potion ×6, Ride-A-Pet Potion, Giant Blue Scarab (NR) | **pranavsen**: Parrot (FR) |
+| 02:50 | **kdkejwjsjd**: Unicorn Horn, Aurora Fox (MFR), Spring Bunny Hood | **Penguinis_icey**: Strawberry Cupcake Shoes |
+| 02:50 | **PrisonLifePro106**: Kangaroo (FR) ×2 | **LeonardoEC14**: Cow (FR), Ride-A-Pet Potion ×2 |
+| 02:50 | **Rbd_JP**: Peppermint Penguin (NFR), Siamese Cat (NFR), Siamese Cat (N), Frost Phoenix (MFR), Dango Penguins (NR), Fly-A-Pet Potion | **notiamjhom**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
