@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 01:25 UTC by the scrape workflow._
+_Updated 2026-11-18 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 01:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 23,838 | 2026-11-18T01:15 |
-| elve | 8 | 5,048 | 2026-11-18T01:16 |
+| amvgg | 8 | 24,096 | 2026-11-18T01:30 |
+| elve | 8 | 5,099 | 2026-11-18T01:31 |
 
-## AMVGG completed trades: 30,298 total
+## AMVGG completed trades: 30,299 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 225 |
+| 2026-11-18 | 226 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,7 @@ _Updated 2026-11-18 01:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:30 | **mm2onlytrading**: Cryptid (R), Chocolate Dutch Guinea Pig, Jester Dragon (R), Giant Anteater | **7petite**: Peppermint Penguin (NFR) |
 | 01:25 | **Reya426**: Ice Cream Cone Hat ×2 | **Yukiwarui**: Matcha Cat, Great Pyrenees (N), Husky (FR), Bunny Swirl (NR) |
 | 01:25 | **User017238**: Ride-A-Pet Potion, Pupcicle, Zombie Chick (N), Kappakid, Thunderfisher | **liofe1**: Stitches (M), Green Amazon (FR), Kage Crow, Cattuccino ×5, Stray Cat Dragon ×4 |
 | 01:25 | **adoptmerewardsjesse**: Count Slothula ×2 | **HV250008**: Chocolate Dutch Guinea Pig |
@@ -47,7 +48,6 @@ _Updated 2026-11-18 01:25 UTC by the scrape workflow._
 | 01:25 | **Aidanspencer10**: Ride-A-Pet Potion ×3 | **diiorrvi**: Onza (MFR) |
 | 01:25 | **PatoPollo7777**: Pet Handler Pro Certificate ×3 | **arturo7pose12345**: Jester Dragon |
 | 01:25 | **Mangle91329**: Alpaca (NFR) | **anekalubitnaruto**: Flash Weasel (NFR) |
-| 01:25 | **Elliebelliepoepie**: Chocolate Chip Bat Dragon (FR), Arctic Fox (R) | **AMOANICOLE78**: Arctic Reindeer (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
