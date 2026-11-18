@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 14:25 UTC by the scrape workflow._
+_Updated 2026-11-18 14:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 14:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 35,736 | 2026-11-18T14:15 |
-| elve | 8 | 7,328 | 2026-11-18T14:15 |
+| amvgg | 8 | 35,975 | 2026-11-18T14:30 |
+| elve | 8 | 7,375 | 2026-11-18T14:31 |
 
-## AMVGG completed trades: 32,069 total
+## AMVGG completed trades: 32,075 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,996 |
+| 2026-11-18 | 2,002 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,12 @@ _Updated 2026-11-18 14:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 14:30 | **rainbowunicornpand4**: Sugar Glider (MFR), Alley Cat (MFR) | **clihello**: Alpaca (MFR) |
+| 14:30 | **katerina_ishchak**: Ride-A-Pet Potion | **lamasbrainrotpro**: Classic Trade Stand, Choco Penguin (N) |
+| 14:30 | **snorlax7976**: Hare (NFR), Jacobin Pigeon (M), Caramelgeist (N) | **Randomiix_3**: Albino Monkey |
+| 14:30 | **TheKindAndOnly**: Arctic Fox (FR), Winged Horse (NR), Pancake Stack, Rain Boots, Pink Cat Ear Headphones, Bready Necklace, Butter Knife | **wskdaks**: Kangaroo (FR) |
+| 14:30 | **goodman10043**: Turtle (FR) | **Elouisepanda**: Pupcicle (MFR) |
+| 14:30 | **plasfreerb**: Munchkin Cat (MFR) | **Dovakhiin1205**: Evil Unicorn (FR) |
 | 14:20 | **TwistedK1tty**: Fly-A-Pet Potion ×17 | **Manggo_Pie40**: Cow (FR) |
 | 14:20 | **Zxquiie**: Dalmatian (FR), Cabbit (FR), Chocolate Dutch Guinea Pig (MFR), Giant Anteater (R) | **Bits_rbx**: Balloon Unicorn (FR) |
 | 14:20 | **Dax_ontop1**: Turtle (NFR), Albino Monkey (FR), Winged Tiger, Ice Cream Cone Hat | **ADMaltSUSHI3**: Kangaroo (MFR) |
@@ -42,12 +48,6 @@ _Updated 2026-11-18 14:25 UTC by the scrape workflow._
 | 14:20 | **Bl0ssom_Xx0**: Siamese Cat (MFR), Border Collie (MFR) | **XxKittyNaperxX427372**: Crow (NFR) |
 | 14:20 | **vampire2169**: Frost Dragon (FR), Elephant (FR), Arctic Fox (R) | **tr4d3s_adoptnew**: Dalmatian (R) ×2, Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) |
 | 14:20 | **xGracie_1234x**: German Shepherd (M) | **Seancarlosd**: Unicorn Horn |
-| 14:20 | **xGracie_1234x**: German Shepherd (M) | **Seancarlosd**: Unicorn Horn |
-| 14:20 | **ningnity**: Dalmatian (FR), 2022 Birthday Party Hat | **Loujayn_gam**: Cryptid |
-| 14:20 | **AASDRT_II**: Little Lamb (M) | **lipton_000140**: Pupcicle |
-| 14:20 | **lokiki099**: Ride-A-Pet Potion | **BRATZZZZZX**: Bat (NR) |
-| 14:15 | **remona223**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion | **Z_Alexis22**: Cow (FR) |
-| 14:15 | **deliciouschi2**: Cryptid (R), Pink Cat, Ride-A-Pet Potion ×7 | **Unicornfav_animal**: Haetae (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
