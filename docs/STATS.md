@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 16:56 UTC by the scrape workflow._
+_Updated 2026-11-18 17:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 16:56 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 38,114 | 2026-11-18T16:45 |
-| elve | 8 | 7,913 | 2026-11-18T16:46 |
+| amvgg | 8 | 38,357 | 2026-11-18T17:00 |
+| elve | 8 | 7,964 | 2026-11-18T17:01 |
 
-## AMVGG completed trades: 32,595 total
+## AMVGG completed trades: 32,619 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,522 |
+| 2026-11-18 | 2,546 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 16:56 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:56 | **StartEggtofrostdrag0**: Copycat, Copycat (R) | **Vitek_228666**: Fly-A-Pet Potion ×7 |
-| 16:56 | **AnitaGame08**: Copycat (R) | **Vitek_228666**: Fly-A-Pet Potion ×4 |
-| 16:56 | **syavcas**: Leopard Shark, Water Rabbit | **Shehatesme420**: Ride-A-Pet Potion ×2 |
-| 16:56 | **Kvammletitraketa**: Ride-A-Pet Potion | **Mama_mama978**: Unfortunate Eyelashes, Pink Hightops, Purrowl, Ancient Dragon, Purple & Green Beads, Glamicorn Purse Pet, Chick Backpack |
-| 16:56 | **Ira_20086**: Ride-A-Pet Potion | **Kir4kaa**: Ice Cube ×6 |
-| 16:51 | **moonlight12lunars**: Husky (MFR) | **viltpool**: Hot Doggo (R) |
-| 16:51 | **Amjelgamar21**: Stray Cat Dragon ×10 | **arielel_elfirfiicf**: Ride-A-Pet Potion |
-| 16:51 | **lilystarn_2**: Werewolf (FR), Pet Handler Pro Certificate, Chihuahua | **Vinni_love3**: Siamese Cat (FR) |
-| 16:51 | **Vikakelera**: Peppermint Penguin, Pet Handler Pro Certificate | **bunniesarecute667**: Peppermint Penguin (FR), Ride-A-Pet Potion |
-| 16:51 | **mimimusasusu**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×2, Lamb (F) | **Vitek_228666**: Cow (FR) |
-| 16:51 | **RRR_666YH**: Jester Dragon (FR), Fly-A-Pet Potion, 2022 Birthday 5 Badge | **Bridgetpppp9**: Pink Cat (FR) |
-| 16:51 | **KiraChalaya**: Shrew (NFR) | **azekm_nothingtofrost**: Blue Dog, Shrew (FR), Fly-A-Pet Potion, Majestic Pony (R), Koi Carp, Human Feet Shoes, Chick Backpack, Sloth, Eaten Donut |
-| 16:51 | **moral608**: Fly-A-Pet Potion ×3 | **kartoshka_spogriba**: Frost Fury (FR) |
-| 16:51 | **Katya_1922**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×6 | **safiqa99**: Fairy Bat Dragon (FR) |
-| 16:51 | **milanakim12**: Puffer Fish (MFR), Black Macaque (MFR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Toaster Hat | **LewALTacc7**: Meerkat (MFR) |
+| 17:00 | **Starfireesa**: Unicorn Horn, Ride-A-Pet Potion | **Tikihiye**: Alpaca (R) |
+| 17:00 | **iluvkhattafya**: Pet Handler Pro Certificate | **dilanfabian13**: Ride-A-Pet Potion ×2 |
+| 17:00 | **Nastya_Mihalyk**: Ribbon Seal (M), Princess Mare (N) | **Kaka_wkalol**: Diamond Unicorn (R) |
+| 17:00 | **patya57893**: Count Slothula (R), Thunderfisher | **Nastysha_123465**: Ride-A-Pet Potion |
+| 17:00 | **QetiChitashvil**: Ride-A-Pet Potion | **viktoria_super000**: Angus Cow (M), Pilot Gull (N) ×2, Gumball Caterpillar (N), Jumpscare (N) |
+| 17:00 | **lzxsre**: Ice Cream Hermit Crab (NR) | **Kxxr9**: Ride-A-Pet Potion ×9 |
+| 17:00 | **Vitek_228666**: Kangaroo (FR) | **cemen346t**: Ride-A-Pet Potion ×16 |
+| 17:00 | **saskisakur**: Frost Fury (NFR), Bunny Swirl (M), Arctic Fox (R) | **SoLost666**: Fairy Bat Dragon (FR) |
+| 17:00 | **jannatseifi**: Crow (MFR), Harp Seal (MFR) | **bubbleaxolot**: Strawberry Shortcake Bat Dragon (MFR), Royal Mistletroll (MFR), Royal Mistletroll (NFR), Munchkin Cat (MFR) |
+| 17:00 | **Kika123xdddd**: Poodle ×15 | **littlefelonies**: Zebra ×6, Orangutan ×3, Parakeet |
+| 17:00 | **ilonka_128**: Copycat (NFR), Owlbear (FR), Cerberus (FR) | **miartws**: Cow (FR) |
+| 17:00 | **Vluxbuy**: Strawberry Tortle (NR) | **igaao**: Silverback Gorilla (MFR) |
+| 17:00 | **bytsaremyfavourute**: Mini Pig, Pig (FR), Ice Cream Cone Hat | **M1dnight_v0id52**: Alley Cat (MFR) |
+| 17:00 | **Emmasloth346**: Hedgehog (MFR) | **Kiritto1415**: Parrot (FR), Balloon Unicorn (FR) ×4, Unicorn Horn, 2022 Birthday Confetti Cannon, Yeti (MFR) |
+| 17:00 | **cute_01814**: Frost Fury (FR), Copycat | **Anelchik_i**: Cozy Cabin, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
