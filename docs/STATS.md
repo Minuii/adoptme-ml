@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 04:16 UTC by the scrape workflow._
+_Updated 2026-11-18 04:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 04:16 UTC by the scrape workflow._
 | amvgg | 8 | 26,629 | 2026-11-18T04:15 |
 | elve | 8 | 5,589 | 2026-11-18T04:16 |
 
-## AMVGG completed trades: 30,638 total
+## AMVGG completed trades: 30,667 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 565 |
+| 2026-11-18 | 594 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 04:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:11 | **Fan_iNoobasya**: Peppermint Penguin (R), Turtle (FR), Fly-A-Pet Potion ×3 | **princess_pizzanice**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:11 | **wx8zqxx**: Tortoiseshell Guinea Pig (MFR) | **0bvxghost**: Candicorn (MFR), Chocolate Chip Bat Dragon (FR), Strawberry Tortle (FR), Hot Doggo (R), Happy Clam (N), Matcha Cat ×3 |
-| 04:11 | **hefeltsafe**: Retired Egg ×12 | **vryxsian**: Pangolin (N) |
-| 04:11 | **4evxer**: Cabbit (M), Sakura Spirit (MFR), Mini Pig (MFR) | **aveilqaa**: Bat Dragon (FR) |
-| 04:11 | **hefeltsafe**: Retired Egg ×12 | **vryxsian**: Mummy Spider (N) |
-| 04:11 | **mior5183**: Leopard Shark | **ra3czr**: Wooly Rhino |
-| 04:11 | **nornomm**: Strawberry Shortcake Bat Dragon (NFR), Fly-A-Pet Potion ×6, Pet Handler Pro Certificate | **AngelKattyOwO**: Chocolate Chip Bat Dragon (NFR) |
-| 04:11 | **loafactory**: Puffer Fish (MFR) | **juanitox646566**: Unicorn Horn |
-| 04:11 | **lalagirlhehe8**: Pupcicle | **cathxdral**: Ride-A-Pet Potion |
-| 04:11 | **7MS23**: Fairy Bat Dragon (R), Cabbit (FR), Ride-A-Pet Potion, Ghostly Cat (N), Flower Power Duckling (N) | **poIkadoIlies**: Rainbow Maker |
-| 04:11 | **Cup1dxu**: Harp Seal (MFR), Ride-A-Pet Potion, Amami Rabbit (N) | **emispupps**: Cow (FR) |
-| 04:11 | **ishibana0967**: Caramelgeist (N) | **hefeltsafe**: Retired Egg ×18 |
-| 04:11 | **ishibana0967**: Mummy Spider (N) | **hefeltsafe**: Retired Egg ×18 |
-| 04:11 | **pisapopakakashecki**: Crystal Egg ×17 | **islalovesmelol**: Ride-A-Pet Potion |
-| 04:11 | **notmymainaccount216**: Mermicorn (R) | **arrozconleche1234648**: Copycat (NFR) |
+| 04:25 | **PlayOfHappy**: Amethyst Skies Mega Neon Paint, Paint Sealer | **xHelen_Martax**: Corgi (M) |
+| 04:25 | **bolzani001111**: Flash Weasel (M) | **Flashbook6**: Candicorn (MFR), Sushi Penguin (MFR), Flash Weasel ×9 |
+| 04:25 | **LadyJ11111**: Balloon Unicorn (FR) | **amvggtotrade**: Siamese Cat (MFR) |
+| 04:25 | **Gxft_ofDestruction**: Owl (FR), Chocolate Chip Bat Dragon (FR) | **Marvinski023**: Frost Dragon (FR) |
+| 04:25 | **StrwberriesN_Cream**: Ride-A-Pet Potion | **irais1e**: Pupcicle |
+| 04:25 | **lolgop52666**: Arctic Fox (R), Copycat, Cozy Mistletroll (MR), Dango Penguins | **nshsiaj_1345**: Candyfloss Chick (FR) |
+| 04:25 | **Xtrjackie5456**: Kitty Bat (MFR), Indian Flying Fox (MR), Spring Bunny Hood, Malaysian Tapir (M), Ride-A-Pet Potion, Pupcicle | **FadePinksphone**: Munchkin Cat (NFR) |
+| 04:25 | **babyfollicle**: Pinkypillar (N) ×2, Ms. Muffet, Mouse, Princess Mare | **dxtxrrr**: Stray Cat Dragon |
+| 04:25 | **Sushicakes916**: Count Slothula (MR), Kitty Bat (MFR), Hamster (MR), Lynx (MFR), Cake Friend (M), Cattuccino (M), Zombie Chick (M), Ice Cream Cone Hat, Coyote (M) | **sarahtalksstuff**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:25 | **AASDRT_II**: Quokka (M) | **sarahtalksstuff**: Pupcicle ×7 |
+| 04:25 | **PatoPollo7777**: Ride-A-Pet Potion ×2, Crystal Egg | **sarahtalksstuff**: Purrowl (M) |
+| 04:25 | **4zuuk1**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 | **murid5**: Tiny Wings ×2, Spring Bunny Hood, Ice Cream Cone Hat ×2 |
+| 04:25 | **Uliana000334**: Halloween Slime Mega Neon Paint | **Mallow_07737**: Amethyst Skies Mega Neon Paint |
+| 04:25 | **shinobu02119**: Frost Unicorn (FR), Glacier Kitsune (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **Wolfie4567ty**: Fairy Bat Dragon (FR) |
+| 04:25 | **Mallow_07737**: Strawberry Penguin (R) | **tapochek_Instasamki**: Cow Calf (M) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
