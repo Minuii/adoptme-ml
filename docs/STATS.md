@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 23:11 UTC by the scrape workflow._
+_Updated 2026-11-18 23:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 23:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 44,163 | 2026-11-18T23:00 |
-| elve | 8 | 9,168 | 2026-11-18T23:01 |
+| amvgg | 8 | 44,401 | 2026-11-18T23:15 |
+| elve | 8 | 9,184 | 2026-11-18T23:15 |
 
-## AMVGG completed trades: 33,900 total
+## AMVGG completed trades: 33,908 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,827 |
+| 2026-11-18 | 3,835 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,14 @@ _Updated 2026-11-18 23:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:15 | **LalayS2z**: Elephant (R) | **Darmay_y**: Ride-A-Pet Potion ×14 |
+| 23:15 | **hyr9fw**: Strawberry Shortcake Bat Dragon (MFR) | **racatelas2000**: Frost Dragon (FR), Parrot (FR) |
+| 23:15 | **LalayS2z**: Arctic Fox (R) | **stefkazzz**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
+| 23:15 | **Shadx_1553**: Cryptid (NFR), Cryptid (N), Rainbow Maker, Jellyfish | **SxmplexJr**: Shadow Dragon (FR) |
+| 23:15 | **XxkfirxbushxX**: Cryptid (R), Strawberry Tortle, Candicorn, Jellyfish (R), Shrew | **HobbyHorsing103**: Parrot (FR) |
+| 23:15 | **BlizzardvwQuantumO13**: Hedgehog (MFR), Owl (NFR), Goose (MFR) | **austinbest123**: Balloon Unicorn (MFR) |
+| 23:15 | **omachitp**: Tanuki | **charlotterae24**: Snow Leopard |
+| 23:15 | **linnyoki**: White Sand Dollar, Chocolate Dutch Guinea Pig, Black Macaque | **lilboygonnagetrocked**: Happy Clam |
 | 23:11 | **vikwpy**: Harp Seal (NR), Grave Owl (N) | **Lemon_Sealion**: St Bernard (MFR) |
 | 23:11 | **cutebunny_u0**: Christmas Pudding Pup, Snow Monkey ×2, Ghost Bunny (NFR), Goth Shoes | **nzerdy**: Candyfloss Chick (FR) |
 | 23:11 | **madmeaner**: Parrot (MFR) | **bartixoxoxx**: Frost Dragon (FR) ×3 |
@@ -40,14 +48,6 @@ _Updated 2026-11-18 23:11 UTC by the scrape workflow._
 | 23:11 | **rageuseTwT**: Great Pyrenees (M) | **Kayterise**: Dragonfruit Fox (N), Hamster (N) ×3 |
 | 23:11 | **9amtrain**: Rainbow Maker, Cat | **Ashley_Maylin1**: Bush Elephant (NFR), Spring Bunny Nose, Ride-A-Pet Potion |
 | 23:11 | **elproXD_7v7**: Pain au Chat ×5 | **KarlotaRaquel**: Ride-A-Pet Potion ×2 |
-| 23:11 | **KarlotaRaquel**: Fly-A-Pet Potion ×4 | **lukas00000010**: Zombie Buffalo (FR) |
-| 23:11 | **dupeczek23**: Siamese Cat (R), Ride-A-Pet Potion, Corgi (N), Unicorn Ducky (N) | **KnoW1z**: Frost Fury (NFR), Jester Dragon (R), Ride-A-Pet Potion ×3, Mecha Meow |
-| 23:11 | **Baddiegurlieeee**: Chihuahua ×2 | **N0nnyabc**: Chocolate Dutch Guinea Pig |
-| 23:11 | **qwertyuiooopj**: Shadow Dragon (NFR), Orchid Butterfly (FR), Goose (R), Elephant (FR), Munchkin Cat (R) ×2, Munchkin Cat | **BabyBacon_PoorSad**: Frost Dragon (MFR) |
-| 23:11 | **Ruperto_1297**: Cow (FR) | **patasconqueso242**: Fly-A-Pet Potion ×16 |
-| 23:11 | **Len_2212**: Ride-A-Pet Potion ×9 | **C0PHYAK**: Bunny Swirl (MFR) |
-| 23:11 | **jam0khurt**: Ride-A-Pet Potion ×10 | **LalayS2z**: Shark Puppy |
-| 23:11 | **Machaddkkj**: Chicken, Chocolate Chow-Chow | **xMoon_289**: Chicken (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
