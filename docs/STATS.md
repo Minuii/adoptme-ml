@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 14:46 UTC by the scrape workflow._
+_Updated 2026-11-18 14:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 14:46 UTC by the scrape workflow._
 | amvgg | 8 | 36,192 | 2026-11-18T14:45 |
 | elve | 8 | 7,445 | 2026-11-18T14:46 |
 
-## AMVGG completed trades: 32,138 total
+## AMVGG completed trades: 32,172 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,065 |
+| 2026-11-18 | 2,099 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 14:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:45 | **ubnnyz**: Matcha Cat, Easter Bunny (N) | **gg_01841**: Aestus (R), Aestus ×2 |
-| 14:45 | **ohinam**: Pet Handler Pro Certificate ×7, Ride-A-Pet Potion | **ryukitty2**: Elephant (FR) |
-| 14:45 | **Mydgsf_bcsg**: Polar Bear (NR) | **RENZSOMERA**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
-| 14:45 | **Mimimmiiimimmmiimim**: Sushi Penguin | **varmitrof**: Ride-A-Pet Potion |
-| 14:45 | **elsikko2**: Moose Calf (N) | **arisheee86**: Fly-A-Pet Potion ×5 |
-| 14:45 | **eshkere_BPOOOO**: Crocodile (FR) | **mommy_vka123**: Lion Cub (R), Owlbear (R), Fly-A-Pet Potion |
-| 14:45 | **Ryou_senpai05**: Candicorn (R) | **2creme1sucre**: Copycat, Clownfish (M), Chocolate Dutch Guinea Pig, Naga Dragon (R), Unicorn, Fly-A-Pet Potion |
-| 14:45 | **meowmerre09**: Frostbite Bear (FR), Copycat (R), Jester Dragon (R) | **raven5k**: Goose (FR) |
-| 14:45 | **ojerico432**: Werewolf ×2, Angel Wings, Grim Dragon (FR), Jester Dragon (N), Tiny Wings, Copycat (R), Copycat, Candicorn (FR), Munchkin Cat ×4, Goat (R), Christmas Pudding Pup, Lion Cub | **leruval**: Owl (FR) |
-| 14:45 | **Killkillmaster2345**: Royal Mistletroll (NFR) | **fluffyunicorns_932**: Nessie (MFR), Matcha Cat (R) |
-| 14:45 | **rioo0o123**: Cryptid (FR) | **ZeroX0vd6**: Dalmatian (FR), Mini Pig |
-| 14:45 | **CatNoirq11**: Sugar Glider (FR), Fly-A-Pet Potion ×2 | **SoLost666**: Peppermint Penguin (FR) |
-| 14:45 | **Unosecz**: Lion Cub (R) | **xiparo**: Pain au Chat ×16 |
-| 14:45 | **MoonieOrca**: Ballet Swan | **bell_flowers**: Pupcicle ×5 |
-| 14:45 | **gbhdnnv090**: Turtle (NFR), Crocodile (FR) | **BARBIEaaaaaaal**: Strawberry Shortcake Bat Dragon (FR) |
+| 14:55 | **MyKittyIsAApril**: Liger (N), Jiggly Jerboa (N), Irish Setter (N), Kakapo (N) ×4, Fennec Fox (N) | **MakiraLive**: Ride-A-Pet Potion |
+| 14:55 | **poortoorich147**: Ride-A-Pet Potion ×2 | **razarvale2z**: Chihuahua ×6 |
+| 14:55 | **Pewciall**: Heart Bow, Strawberry Shortcake Bow | **aestethic_boba12**: Flower Beret |
+| 14:55 | **ruinedbleeded**: Pet Handler Pro Certificate | **itssrhiann**: Dango Penguins |
+| 14:55 | **theropywasted**: Banana Car, Candy Camper, Magic House Door | **sofa_sigma5**: Ride-A-Pet Potion |
+| 14:55 | **carlkilling**: Turtle (FR) | **sigmasigmaboy82712**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×11 |
+| 14:55 | **beatsvic**: Chocolate Chip Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (MFR), Fairy Bat Dragon (MFR), Winged Tiger (MFR), Glormy Leo (MFR), Glormy Hound (MFR) | **BabyBacon_PoorSad**: Haetae (MFR) |
+| 14:55 | **TheAdony22**: Cow (FR), Peppermint Penguin (R), Fairy Bat Dragon (FR) | **Agent007Na**: Hedgehog (FR) |
+| 14:55 | **plansrik**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×14, Golden Lettuce ×2 | **llkkiop12345**: Turtle (FR) |
+| 14:55 | **ElDiablo_Kardashian**: Siamese Cat (NFR) | **Fluffy_cat3103**: Cow (FR), Candicorn, Leopard Cat, Pain au Chat, Eggnog Dog |
+| 14:55 | **jennifer_ponyta**: White Amazon | **cchloecrichtonsecret**: Ride-A-Pet Potion |
+| 14:55 | **tr4d3s_adoptnew**: Elephant (FR), Arctic Fox (R) | **Vitek_228666**: Turtle (FR) |
+| 14:55 | **Certifiedbwunnii**: Mochi Meow (N), Temple Friend (N) | **NightVoidRealm**: Ride-A-Pet Potion |
+| 14:55 | **XxLalu24xX**: Cow (FR) | **aninhakawaiiUwU13**: Cabbit (R), Fly-A-Pet Potion, Chocolate Dutch Guinea Pig, Winter Buck, Cozy Mistletroll (M) |
+| 14:55 | **NaomiCampbellfairly**: Spring Bunny Feet | **Maddie2WinQuinn07**: Pupcicle ×2 |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
