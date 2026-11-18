@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 14:55 UTC by the scrape workflow._
+_Updated 2026-11-18 15:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 14:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 36,192 | 2026-11-18T14:45 |
-| elve | 8 | 7,445 | 2026-11-18T14:46 |
+| amvgg | 8 | 36,418 | 2026-11-18T15:00 |
+| elve | 8 | 7,499 | 2026-11-18T15:01 |
 
-## AMVGG completed trades: 32,172 total
+## AMVGG completed trades: 32,199 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,099 |
+| 2026-11-18 | 2,126 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 14:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:55 | **MyKittyIsAApril**: Liger (N), Jiggly Jerboa (N), Irish Setter (N), Kakapo (N) ×4, Fennec Fox (N) | **MakiraLive**: Ride-A-Pet Potion |
-| 14:55 | **poortoorich147**: Ride-A-Pet Potion ×2 | **razarvale2z**: Chihuahua ×6 |
-| 14:55 | **Pewciall**: Heart Bow, Strawberry Shortcake Bow | **aestethic_boba12**: Flower Beret |
-| 14:55 | **ruinedbleeded**: Pet Handler Pro Certificate | **itssrhiann**: Dango Penguins |
-| 14:55 | **theropywasted**: Banana Car, Candy Camper, Magic House Door | **sofa_sigma5**: Ride-A-Pet Potion |
-| 14:55 | **carlkilling**: Turtle (FR) | **sigmasigmaboy82712**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×11 |
-| 14:55 | **beatsvic**: Chocolate Chip Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (MFR), Fairy Bat Dragon (MFR), Winged Tiger (MFR), Glormy Leo (MFR), Glormy Hound (MFR) | **BabyBacon_PoorSad**: Haetae (MFR) |
-| 14:55 | **TheAdony22**: Cow (FR), Peppermint Penguin (R), Fairy Bat Dragon (FR) | **Agent007Na**: Hedgehog (FR) |
-| 14:55 | **plansrik**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×14, Golden Lettuce ×2 | **llkkiop12345**: Turtle (FR) |
-| 14:55 | **ElDiablo_Kardashian**: Siamese Cat (NFR) | **Fluffy_cat3103**: Cow (FR), Candicorn, Leopard Cat, Pain au Chat, Eggnog Dog |
-| 14:55 | **jennifer_ponyta**: White Amazon | **cchloecrichtonsecret**: Ride-A-Pet Potion |
-| 14:55 | **tr4d3s_adoptnew**: Elephant (FR), Arctic Fox (R) | **Vitek_228666**: Turtle (FR) |
-| 14:55 | **Certifiedbwunnii**: Mochi Meow (N), Temple Friend (N) | **NightVoidRealm**: Ride-A-Pet Potion |
-| 14:55 | **XxLalu24xX**: Cow (FR) | **aninhakawaiiUwU13**: Cabbit (R), Fly-A-Pet Potion, Chocolate Dutch Guinea Pig, Winter Buck, Cozy Mistletroll (M) |
-| 14:55 | **NaomiCampbellfairly**: Spring Bunny Feet | **Maddie2WinQuinn07**: Pupcicle ×2 |
+| 15:00 | **aya8a123**: Jester Dragon (FR), Copycat, Sugar Axolotl (R), Happy Clam | **gg_01841**: Turtle (FR) |
+| 15:00 | **razarvale2z**: Pain au Chat ×6 | **Ever99548**: Ride-A-Pet Potion ×2 |
+| 15:00 | **xxcrunchy8785xx**: Cow (NFR), Fly-A-Pet Potion ×6 | **dinadu135**: Cabbit (NFR) |
+| 15:00 | **mariarita2000**: Glyptodon | **Larry_stylinson91940**: Nautilus |
+| 15:00 | **BMWSHKA666**: Glyptodon | **Larry_stylinson91940**: Sandbox Island |
+| 15:00 | **KFC_C0nya**: Ride-A-Pet Potion, Dragon | **Katarinamartino**: Skele-Rex (R) |
+| 15:00 | **kiff_shik**: Strawberry Shortcake Bat Dragon (FR), Goose (R) | **varmitrof**: Hedgehog (FR) |
+| 15:00 | **alivefille**: Golden Egg, Alicorn, Retired Egg ×2 | **Toffy200512**: White Chef Hat |
+| 15:00 | **Not_thedevilUwU**: Copycat, Fly-A-Pet Potion | **4532Piggy**: Copycat (FR) |
+| 15:00 | **Kakaxiiiiiiiiiii**: Kangaroo (FR), Elephant (R) | **Vitek_228666**: Cow (FR) |
+| 15:00 | **Fatima717408**: Meerkat (N) | **bunnypawszx**: Ice Cream Cone Hat, Spring Bunny Hood, Panda (NFR), Ride-A-Pet Potion ×3 |
+| 15:00 | **Erencovar**: Dango Penguins | **MiniAbbychan**: Cheetah |
+| 15:00 | **Jay_basealters**: Mini Pig (MFR), Unicorn Horn | **aveilqaa**: Cabbit (M), Sakura Spirit (MFR) |
+| 15:00 | **luvyerh**: Fairy Bat Dragon (FR), Ride-A-Pet Potion | **Bloom10999**: Pig (FR) ×2, Arctic Fox (FR) |
+| 15:00 | **wjredmind**: Tuxedo Cat (MFR), Frostbite Cub (MFR), S'mores Raccoon (MFR), Count Slothula (MFR), Copycat | **Ihatesomber11**: Purple Butterfly (MFR), Candyfloss Chick (FR), Fly-A-Pet Potion, Catte |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
