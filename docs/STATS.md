@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 10:31 UTC by the scrape workflow._
+_Updated 2026-11-18 10:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 10:31 UTC by the scrape workflow._
 | amvgg | 8 | 32,146 | 2026-11-18T10:30 |
 | elve | 8 | 6,619 | 2026-11-18T10:31 |
 
-## AMVGG completed trades: 31,363 total
+## AMVGG completed trades: 31,395 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,290 |
+| 2026-11-18 | 1,322 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:29 | **Totallynot_meng**: Candicorn (NFR), Mini Schnauzer (MFR), Owlbear (NFR), Shiver Wolf (MFR), Pupcake (MR), Samoyed (M), Mexican Wolf (MR), Gumball Caterpillar (M), Brown Springer Spaniel ×2 | **bunnyblinkP**: Munchkin Cat (MFR) |
-| 10:29 | **Lerunhi**: Flamingo (R) | **quVare_PDF**: Kangaroo (FR) |
-| 10:29 | **Kvammletitraketa**: Kitsune (FR) | **alexca14_farm5**: Fly-A-Pet Potion |
-| 10:29 | **Lvpix**: Jester Dragon (R) | **Orea_O1**: Ride-A-Pet Potion ×5 |
-| 10:29 | **LP_girlik**: Otter (N), Mahi Mahi (N), Pinkypillar (N), Puma (N), Princess Mare (N), California Condor (N), Beaver (N), Gummy Guana (N), Oakee (N), Grinmoire (N), Muskrat (N), Shih Tzu (N), Orangutan (N) | **lankyboxchimmy_7**: Ride-A-Pet Potion |
-| 10:29 | **Kvammletitraketa**: Dirty Ducky (M) | **Nanax_8907**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 10:29 | **Alice_Fpe2567**: Strawberry Shortcake Bat Dragon (R) | **Nanax_8907**: Chocolate Chip Bat Dragon (FR) |
-| 10:29 | **kytsune7777**: German Shepherd (R) | **mwwqpt_y**: Ride-A-Pet Potion |
-| 10:29 | **nornomm**: Ride-A-Pet Potion, Fly-A-Pet Potion, Thunderfisher, Alicorn | **Vitamirka**: Pain au Chat ×9 |
-| 10:29 | **simplyxarv**: Toaster Hat, Tiny Wings, Pet Handler Pro Certificate | **cxbvnniz**: 2022 Birthday Cake |
-| 10:24 | **mati08proo**: Pomeranian (M) | **Milkcold123**: Ride-A-Pet Potion |
-| 10:24 | **vvvvvveli**: Cattuccino (N) | **LP_girlik**: Cockroach (N) |
-| 10:24 | **JacquelineMhh**: Pink Cat Ear Headphones | **GachaGachaFindOut**: Invisible Wings |
-| 10:24 | **batton0955**: Ride-A-Pet Potion | **krot_bo11**: Kiwi |
-| 10:24 | **antilucqa**: Ride-A-Pet Potion | **Mia_nombrenousado**: Paint Sealer ×12 |
+| 10:40 | **rainbow72679**: Fly-A-Pet Potion, Scarlet Butterfly | **Xxsunflower_watherxX**: Cupcake Sprinkle Wings, Balloon Dog, Butter Knife |
+| 10:40 | **1Tinker2**: African Wild Dog (FR), Ride-A-Pet Potion | **Niarsom4589**: Arctic Reindeer (NFR) |
+| 10:40 | **1Biahsz_altx**: Ride-A-Pet Potion | **Rubydxmn**: Little Lamb (M) |
+| 10:40 | **RyukkHolder**: Flying Fish ×18 | **Paifrennnn**: Ride-A-Pet Potion |
+| 10:40 | **BverlyBlue**: Christmas Pudding Pup (NR), Lynx (MFR), Wolf (MFR), Ibex (MFR), Oryx (MFR), Musk Ox (NFR) | **GrindAccount_N1**: Diamond Butterfly |
+| 10:40 | **VexBugg**: Christmas Pudding Pup (NR) | **BverlyBlue**: Mermicorn (FR) |
+| 10:40 | **Liza10kis**: Pelican (NR), Mermicorn (R), Fly-A-Pet Potion | **BverlyBlue**: African Wild Dog (R) |
+| 10:40 | **joker7_77**: Ride-A-Pet Potion ×3 | **pisapopakakashecki**: Octopus, Dracula Parrot, Sloth (NR), Crimson Cape (N), Frozen Penguin (N), Blue Cat (M) |
+| 10:40 | **Lili_euphoria**: Christmas Spirit (MR) | **citymav**: Dire Wolf (MFR) |
+| 10:40 | **natysik_bombaya**: Elephant (R), Alley Cat (R), Sloth (NFR) | **MATT_2011901**: Candyfloss Chick (R) |
+| 10:40 | **LostKeksik**: Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Horn, Arctic Dusk Dragon (FR) | **zx_astrallis**: Frost Dragon (FR) |
+| 10:40 | **NOBODYknows_1100**: Fly-A-Pet Potion | **hxhxjdnkdk2020**: Harp Seal |
+| 10:40 | **Uras_HD2**: Kangaroo (FR), Shark Puppy, Cow (FR), Ride-A-Pet Potion | **squ_evder**: Chocolate Chip Bat Dragon (FR) |
+| 10:40 | **Kui_Yeager**: Blue Dog (FR), Mini Schnauzer (N), English Sheepdog (N) | **neonpets78i**: Unicorn Horn |
+| 10:36 | **eshkere_BPOOOO**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×6 | **TYTkuza2**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
