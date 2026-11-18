@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 07:01 UTC by the scrape workflow._
+_Updated 2026-11-18 07:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 07:01 UTC by the scrape workflow._
 | amvgg | 8 | 29,185 | 2026-11-18T07:00 |
 | elve | 8 | 6,029 | 2026-11-18T07:01 |
 
-## AMVGG completed trades: 30,948 total
+## AMVGG completed trades: 30,960 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 875 |
+| 2026-11-18 | 887 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:06 | **M1ch9l1e**: Black Springer Spaniel, Sea Angel, Alicorn, Blue Jay (N) | **Kir4kaa**: S'mores Raccoon |
+| 07:06 | **Lunaflower2020**: Little Lamb, Orca, Electric Hornet, Cattuccino, Clumpty ×3, Hoverboard, Ribcage Carriage, Royal Carriage | **MyacountJohnwcrtba**: Ride-A-Pet Potion |
+| 07:06 | **bakedkole**: Turtle (FR) ×11 | **Ishabns01**: Frost Dragon (FR) |
+| 07:06 | **Pebble_llShelly**: Ginger Cat (M) | **MyacountJohnwcrtba**: Ride-A-Pet Potion |
+| 07:06 | **johnpatricktasunci16**: Count Slothula ×2 | **pysugwysu**: Sandwich Hat |
+| 07:06 | **Fan_iNoobasya**: Fly-A-Pet Potion | **xolvrxo**: Dire Wolf (M) |
+| 07:06 | **hefeltsafe**: Chocolate Dutch Guinea Pig | **BIg_BoRdy**: Chihuahua ×3 |
+| 07:06 | **Ccoopserly**: Frostbite Bear (MFR), Arctic Fox (MR), Turtle (FR), Mini Pig (FR), Albino Monkey (FR), Elephant (FR) | **XiaoFaye1433**: Frost Dragon (NFR) |
+| 07:06 | **m4rshalI**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Field Mouse | **meliodas123e0e**: Vampire Dragon (MFR) |
+| 07:06 | **ratatyu345gg**: Irish Water Spaniel (MFR), Field Mouse (MFR), Rainbow Maker, Cabbit (FR), Green Amazon (MFR), Pink Cat Ear Headphones, Cow (NFR) | **m4rshalI**: Mini Pig (MFR) |
+| 07:06 | **m4ochiii**: Cryptid (FR), Goat | **purinsitoelmejor**: Mini Pig (NFR) |
+| 07:06 | **trialbunny**: Frostbite Bear (NFR), Jellyfish (R), Goose, Panda (MFR) | **cutekitty82467**: African Wild Dog (FR), Cupcake Sprinkle Wings |
 | 07:00 | **xbubblezxxlyn**: Mr. Whiskerpips (N) | **fzxfrf**: Ride-A-Pet Potion |
 | 07:00 | **7nillvhatessoren**: Chocolate Chip Bat Dragon (FR) | **cachorris_XD**: Strawberry Shortcake Bat Dragon (R) |
 | 07:00 | **fzxfrf**: Mr. Whiskerpips ×3 | **abc_popcatt12**: Ride-A-Pet Potion |
-| 07:00 | **Zlata_CatDog2011**: Stray Cat Dragon ×9 | **fzxfrf**: Ride-A-Pet Potion |
-| 06:55 | **shyfaint**: Strawberry Tortle, Peppermint Penguin (FR), Dragonfruit Fox ×2 | **xiiiireh**: Strawberry Shortcake Bat Dragon (FR) |
-| 06:55 | **justunujede123**: Pupcicle, Chocolate Dutch Guinea Pig | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion ×2 |
-| 06:55 | **v3xxyyy**: Cabbit (R), 2022 Birthday Party Hat, Field Mouse (NR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Wikitos5**: Cabbit (NFR) |
-| 06:55 | **ellielielielieee**: Spring Bunny Feet ×3, Chocolate Chip Bat Dragon Backpack, Mochi Meow Tumble Animated Sticker, Unicorn Leash | **danfg3654**: Ice Cream Cone Hat |
-| 06:55 | **dnei30fast**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **XxCookieKaRmA**: Woodland Egg ×3, Fossil Egg ×2, Endangered Egg ×2, Queen Bee, King Bee (R), Dango Penguins |
-| 06:55 | **fhuybx556**: Fly-A-Pet Potion ×9 | **hayopanima**: Kangaroo (FR) |
-| 06:55 | **XxCookieKaRmA**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion | **carlkilling**: Cow |
-| 06:55 | **leen_yyyus**: St Bernard (FR) | **DrizzledTxffee**: Sea Angel ×3 |
-| 06:55 | **kworixx**: Golden Penguin | **DrizzledTxffee**: Ride-A-Pet Potion |
-| 06:55 | **carolzinhac2009**: Werewolf (R) | **SAS7225**: Unicorn ×15 |
-| 06:55 | **YingSyia**: Cerberus (R), Cerberus (F), Pupcake | **ikamisatka**: Owlbear |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
