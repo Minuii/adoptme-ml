@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 18:16 UTC by the scrape workflow._
+_Updated 2026-11-18 18:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 18:16 UTC by the scrape workflow._
 | amvgg | 8 | 39,592 | 2026-11-18T18:15 |
 | elve | 8 | 8,192 | 2026-11-18T18:15 |
 
-## AMVGG completed trades: 32,896 total
+## AMVGG completed trades: 32,923 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,823 |
+| 2026-11-18 | 2,850 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 18:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:15 | **warpiir**: Evil Unicorn (FR), Copycat (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **aleks2u**: Cryptid (FR) |
-| 18:15 | **cutesyxalzain**: Munchkin Cat (MFR) | **RobWOLF36loxa**: Kangaroo (MFR) |
-| 18:15 | **You_kwin666**: Chihuahua, Gemstone Egg | **bunniiangeI**: Ride-A-Pet Potion |
-| 18:15 | **Klaysi_flayra**: Ride-A-Pet Potion | **funsashamen**: Corgi (M), Electric Hornet, Ehecatl, Little Lamb, Ox, Starfish, Red Panda, Oakee Knight, Milk Choccybunny |
-| 18:15 | **Katya_1922**: Tortoiseshell Guinea Pig (R), Pupcicle | **mariasnezinka**: Latte Kitsune (NFR), Hydra (R) |
-| 18:15 | **S4nt11ago0**: Pandaguin Glooptodog (N), Chihuahua, Tiny Wings | **Sonya73p**: Toaster Hat |
-| 18:15 | **Ruperto_1297**: Unicorn Horn, Toaster Hat, Munchkin Cat (M), Siamese Cat (MFR) | **rumpuiz**: Frost Dragon (FR), Copycat |
-| 18:15 | **davyhejcy**: Arctic Dusk Dragon (MFR), Shark Puppy (MFR) | **m4r4se**: Parrot (FR), Cow (FR) |
-| 18:15 | **jojamojap**: Copycat, Puptune (NR), Summer Straw Hat | **0ali_ice0**: Ice Cream Cone Hat, Pupcicle |
-| 18:15 | **kaibodydump**: Peppermint Penguin (MFR), Goose, Owl (NFR) | **evokefairy**: Cryptid (MFR) |
-| 18:15 | **amyggvaI**: Dalmatian (FR), Owl (FR) | **Xxxxashhhh**: Frost Dragon (FR), Fly-A-Pet Potion ×10, Ride-A-Pet Potion |
-| 18:15 | **Spartik20**: Undead Jousting Horse (NFR) | **ExpertChipmunkPro**: Cryptid (FR), Munchkin Cat |
-| 18:15 | **Inclemnc**: Haetae (FR), Crocodile (NFR), Fly-A-Pet Potion ×2 | **sugar_lover61**: Parrot (FR) |
-| 18:15 | **Rint0ru**: Alpaca (MFR), Cabbit (MFR), Goose (MFR), Sea Slug (MFR), Matcha Cat (MFR), Goat (MFR), Glormy Leo (MFR), Glormy Hound (MFR), Alley Cat (MFR), Dragonfruit Fox (MFR), Alley Cat (MR), Silly Duck (MFR), Chocolate Dutch Guinea Pig (M), S'mores Raccoon (MFR) | **MissaBloxluck**: Balloon Unicorn (MFR) |
-| 18:15 | **Meltedinafrica**: Strawberry Tortle ×3 | **brpatapimpim**: Cow (NFR) |
+| 18:25 | **Larisa_DiecooleSocke**: Ride-A-Pet Potion | **idctbf11**: Shark |
+| 18:25 | **cemen346t**: Fairy Bat Dragon (FR), Arctic Fox (FR), Kangaroo (R), Fly-A-Pet Potion ×4, Celestial Carrier | **Reterirbair1989**: Chocolate Chip Bat Dragon (FR) |
+| 18:25 | **Doc_021**: Fly-A-Pet Potion ×2 | **Tena_IsPeakfr**: Unicorn (N) |
+| 18:25 | **qw_bbl**: Evil Unicorn (FR), Fly-A-Pet Potion | **Oliver20717**: Turtle (MFR) |
+| 18:25 | **FrNotSummer**: Evil Unicorn (FR), Arctic Reindeer (FR), Ride-A-Pet Potion ×4, Jester Dragon (MFR) | **qw_bbl**: Frost Dragon (FR) |
+| 18:25 | **joveon23**: Cryptid (FR), Satellite Spinner | **SvinaATvar67**: Turtle (NFR), Turtle (FR), Candicorn (NR) |
+| 18:25 | **PolinaPlayMini**: Pig (R), Arctic Fox (FR), Christmas Pudding Pup, Ride-A-Pet Potion ×4, Angus Cow (N) | **Reterirbair1989**: Sugar Glider (FR) |
+| 18:25 | **Iy_pokakal**: Gummy Guana (M), Ms. Muffet (M), Budgie Witch (M) | **Lumina20265**: Ride-A-Pet Potion |
+| 18:25 | **ItsRomelYT2010**: Siamese Cat (FR), Pig (R), Polar Bear, Propeller Hat | **Wolfie4567ty**: Hot Doggo (FR) |
+| 18:25 | **Only_Gio123**: Evil Unicorn (NFR), Turtle (FR) | **Fajitasquadowner**: Owl (FR) |
+| 18:25 | **Shelbs_oneill**: Gemstone Egg | **wolfje51**: Aztec Egg ×10 |
+| 18:25 | **wskdaks**: Peppermint Penguin (R) | **littlefelonies**: Kangaroo (FR), Lion (FR), Ms. Muffet (M) |
+| 18:25 | **onlyx_leax**: Arctic Dusk Dragon (MFR) | **nikitatak3**: Arctic Reindeer (FR) |
+| 18:25 | **1ovIIy**: Pain au Chat ×2, Orca ×2, Granny Wolf ×2 | **dipxiiid**: Ride-A-Pet Potion |
+| 18:25 | **WIINDY_311**: Kitty Biscuit | **AugustTrading2025**: Christmas Pudding House |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
