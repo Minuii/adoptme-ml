@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 13:55 UTC by the scrape workflow._
+_Updated 2026-11-18 14:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 13:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 35,254 | 2026-11-18T13:45 |
-| elve | 8 | 7,230 | 2026-11-18T13:46 |
+| amvgg | 8 | 35,481 | 2026-11-18T14:00 |
+| elve | 8 | 7,291 | 2026-11-18T14:01 |
 
-## AMVGG completed trades: 31,993 total
+## AMVGG completed trades: 32,025 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,920 |
+| 2026-11-18 | 1,952 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 13:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:55 | **wh1mzical**: Fly-A-Pet Potion ×7 | **Bismuth234**: Winged Tiger |
-| 13:55 | **Vitamirka**: Pain au Chat ×5 | **cutykitty0521**: Fly-A-Pet Potion |
-| 13:55 | **kourabies31415**: Fly-A-Pet Potion ×2 | **N0AH_XRM**: Ride-A-Pet Potion ×4 |
-| 13:55 | **ammadOwO2**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×7 | **wskdaks**: Kangaroo (FR) |
-| 13:55 | **ChirsmastMyBhirtday**: Goose (FR), Sugar Glider (FR), Ride-A-Pet Potion ×2 | **0_0ship21**: Chocolate Chip Bat Dragon (R) |
-| 13:55 | **itzzme_ken**: Kiwi (N) ×2, Ash Zebra (N), Tasmanian Devil (N), Grave Owl (MFR), Jester Dragon (R), Clubtail Dragonfly (M), Poison Dart Frog (M) | **OnlyMeNinik**: Frostbite Bear (FR) |
-| 13:55 | **xiparo**: Pain au Chat ×18 | **iiSimplyYool**: Fly-A-Pet Potion ×3 |
-| 13:51 | **spook_jhon293**: Kitty Bat (MR), Copycat, Aussie Egg, Guardian Lion (NFR), Alley Cat (FR), Dragonfruit Fox (R), Unicorn (R), Stray Cat Dragon (FR) | **sigmaizzmailovvvv2**: Cow (FR) |
-| 13:51 | **CookiesWithCrexam**: Munchkin Cat (R), Turtle (FR) | **mommy_vka123**: Goose (R) |
-| 13:51 | **17kDEAT_Q**: Zombie Buffalo (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Lxdyxx**: Hedgehog (FR) |
-| 13:51 | **HET3AKOHAM**: Fairy Bat Dragon (R) | **CookiesWithCrexam**: Turtle (R), Ride-A-Pet Potion ×2, Amami Rabbit (N), Fire Stallion (NFR), Ratatoskr (M) |
-| 13:51 | **bukSlamet**: Turtle (R) | **CookiesWithCrexam**: Jester Dragon (R), Copycat (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 13:51 | **Wyatt89PaisleyFalcon**: Samoyed (M) | **realpdrilla1**: Ride-A-Pet Potion |
-| 13:51 | **Dddana20058**: Copycat (MFR), Latte Kitsune (MFR), Jester Dragon, Ride-A-Pet Potion | **Konzeqt**: Parrot (FR) |
-| 13:51 | **happyfluffy510**: Haetyphoon | **Onlyforujk**: Rain Cloud Hat |
+| 14:00 | **Lurxell**: Frost Dragon (FR) | **LPPlay42302**: Parrot (FR), Evil Unicorn (FR), Ride-A-Pet Potion ×4 |
+| 14:00 | **shainikss**: Ride-A-Pet Potion ×16 | **wskdaks**: Kangaroo (FR) |
+| 14:00 | **Agent007Na**: Owl (FR), Cow (FR), Lion, Pupcicle (N), Pupcicle | **geopour15**: Turtle (MFR), Strawberry Shortcake Bat Dragon (NFR) |
+| 14:00 | **SAMILOVE_0**: Jacobin Pigeon (M) | **chrmbunnie**: Chocolate Labrador (N), Shiba Inu (N) |
+| 14:00 | **parking085**: Ring-Tailed Lemur (FR), Rain Boots, Flying Cloud | **Bunnymelkday**: Leopard Cat (MFR) |
+| 14:00 | **Davy9745**: Cryptid (FR), Tiny Wings | **R0ttenzxmbie**: Rainbow Maker ×2 |
+| 14:00 | **aloiv484**: Fly-A-Pet Potion ×5 | **cutesybrookex**: Tasmanian Devil (MFR) |
+| 14:00 | **R0ttenzxmbie**: Cryptid (FR), Pupcicle (MFR), Tiny Wings | **rioo0o123**: Blazing Lion (FR) |
+| 14:00 | **wskdaks**: Cow (FR), Fire Mare (R) | **w4nd3ringG0d**: Arctic Fox (R) ×3, Copycat, Unicorn (FR), Llama (R) |
+| 14:00 | **MmeCharfeddine**: Strawberry Penguin (R) | **Ashybella0**: Field Mouse (R) |
+| 14:00 | **FiresMiress**: Frost Unicorn (NFR) | **sleepy_s0ren**: Strawberry Shortcake Bat Dragon (FR) |
+| 14:00 | **viltpool**: Retired Egg ×10 | **MelP33144**: Leopard Cat |
+| 14:00 | **vegetasggacc1**: 2022 Birthday Cake, Alpaca (R), Dango Penguins (NR), Toaster Hat, S'mores Raccoon (N), Nutcracker Squirrel (N) | **squ_evder**: Chocolate Chip Bat Dragon (FR) |
+| 14:00 | **Thresh_1234**: Ride-A-Pet Potion ×5, Mighty Haetyphoon Animated Sticker | **flears_brai**: Jester Dragon (FR) |
+| 14:00 | **theropywasted**: Chipmunk (R), Toucan (N) | **xwifiskeletonxx**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
