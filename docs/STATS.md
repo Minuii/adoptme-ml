@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 13:15 UTC by the scrape workflow._
+_Updated 2026-11-18 13:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 13:15 UTC by the scrape workflow._
 | amvgg | 8 | 34,751 | 2026-11-18T13:15 |
 | elve | 8 | 7,139 | 2026-11-18T13:15 |
 
-## AMVGG completed trades: 31,871 total
+## AMVGG completed trades: 31,891 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,798 |
+| 2026-11-18 | 1,818 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 13:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:15 | **rblx_mask**: Haetyphoon | **6vynix**: Copycat ×2 |
-| 13:15 | **XxElmmzxX**: Cow (R) | **CookieBawn**: Kangaroo (R), Elephant (R) |
-| 13:15 | **Pspspskskssk**: Turtle (FR), Ice Cream Cone Hat | **ammadOwO2**: Fairy Bat Dragon (FR) |
-| 13:15 | **abcdefghijkl_6701**: Hare, Sneak Weasel (N), Momma Moose | **atomicbubu**: Amami Rabbit (N), Rain Hat |
-| 13:15 | **HOONMINLIXGYU**: Copycat (NFR), Ring-Tailed Lemur | **theycallmerubbie**: Chocolate Dutch Guinea Pig (MFR) |
-| 13:15 | **L3mon_Pl4ys**: Solaris (NFR) | **carlothegemer_ph**: Ride-A-Pet Potion ×8 |
-| 13:15 | **funbunicake**: Silverback Gorilla (FR) | **xxxxproxxxx5500**: Ghost Dog (N) ×2 |
-| 13:15 | **kreker0900**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **kaizennnstorrr**: Tiny Wings |
-| 13:15 | **gjacisko67**: Fallow Deer (NFR) | **mmaanon**: Kangaroo (FR) |
-| 13:15 | **FlyToTheSaturn**: Stars Egg ×4, Patterns Egg ×2, Stripes Egg ×3 | **Konzeqt**: Fly-A-Pet Potion |
-| 13:15 | **crazy4ukat**: Winged Horse (NFR), Snow Owl (NFR), Clover Cow (MFR), Pain au Chat (N), Drake, Toasty Red Panda, Dragon (N), Gumball Caterpillar (N) | **dilanfabian13**: Kangaroo (FR) |
-| 13:15 | **jhon145p**: Fairy Bat Dragon (FR), Dancing Dragon (FR), Ghost Wolf (MFR), Tuxedo Cat | **Twilight8273372**: Matcha Cat (NR), Christmas Pudding Pup |
-| 13:15 | **Nastya_367367**: Stygian Hang Glider, Glider | **Konzeqt**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 13:15 | **ang3licboba**: Chocolate Dutch Guinea Pig (M), Ride-A-Pet Potion | **superstarleanne**: Cabbit (FR) |
-| 13:15 | **summerg6mes**: Gaelic Fae | **cchloecrichtonsecret**: Fly-A-Pet Potion |
+| 13:20 | **Noemux08WGF**: Ride-A-Pet Potion | **NotSweatyOnion**: Zombie Wolf |
+| 13:20 | **fawnqutie**: Rain Cloud Hat, 2022 Birthday Party Horn | **ADMaltSUSHI3**: Spring Bunny Hood, Spring Bunny Feet, 2022 Birthday Cupcake Shoes |
+| 13:20 | **Arinagrande_cute**: Ice Golem (NFR) | **puhlyaac00l**: Puffer Fish (R), Lavender Dragon (FR), Snow Owl (NFR), Chimera (R), Golden Chow-Chow (FR), Golden Albatross (R), Frostclaw (R), Ginger Cat (NR), Ride-A-Pet Potion, Chick (R) |
+| 13:20 | **xXqwlkxX**: Ride-A-Pet Potion ×5 | **Ryou_senpai05**: Unicorn (NFR) |
+| 13:20 | **Arinagrande_cute**: Kangaroo (FR) | **sonechkarrr3**: Snow Owl (NFR), Chicken (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 |
+| 13:20 | **Newble_hello**: Giant Panda (FR), Border Collie (NR), Ride-A-Pet Potion | **hazepiecespins1**: Owl (FR) |
+| 13:20 | **Callme_Mary45**: Indian Flying Fox (N), Fly-A-Pet Potion ×3 | **KakaWnW0**: Indian Flying Fox (M) |
+| 13:20 | **imthebigbird97**: Reindeer (MFR) | **flears_brai**: Kangaroo (FR) |
+| 13:20 | **FunDayDwH**: Waffle Wyrm (M), Tarsier | **Its_soulseekk**: Fly-A-Pet Potion |
+| 13:20 | **FunDayDwH**: Octopus, Highland Cow | **cchloecrichtonsecret**: Ride-A-Pet Potion |
+| 13:20 | **mavissx_0**: Border Collie | **LoriDreamy123**: Ride-A-Pet Potion ×12 |
+| 13:20 | **Fanyprzz**: Arctic Reindeer (FR), Burger Bear (NR), Ice Cream Cone Hat, Spring Bunny Hood, Ride-A-Pet Potion | **paulinadui**: Dalmatian (FR) |
+| 13:20 | **polina_miskaa**: Mini Pig (FR) | **Ann_llxx**: Fairy Bat Dragon (FR), Sheeeeep (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 13:20 | **Sawyer4LifeJaxon**: Cabbit (R), Propeller Hat, Ride-A-Pet Potion, Silly Duck (R) | **donnotinteract**: Cow (R) |
+| 13:20 | **Zocko007**: Jester Dragon (NFR) | **NatKirby_JDM**: Polar Bear (N), Rhino (NR), Drake (N), Silly Duck, Goldhorn (R) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
