@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 16:01 UTC by the scrape workflow._
+_Updated 2026-11-18 16:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 16:01 UTC by the scrape workflow._
 | amvgg | 8 | 37,363 | 2026-11-18T16:00 |
 | elve | 8 | 7,749 | 2026-11-18T16:01 |
 
-## AMVGG completed trades: 32,399 total
+## AMVGG completed trades: 32,436 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,326 |
+| 2026-11-18 | 2,363 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 16:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:00 | **LillyK2639**: Arctic Reindeer (NFR), Haetae (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **RosuMeIi**: Frost Dragon (FR) |
-| 16:00 | **Kyla_Slater**: Shark Puppy (N) ×4, Tanuki (M), Red Fox (N) | **pepapepa333**: Rainbow Maker, Angel Wings, Halo, 2022 Birthday Cake |
-| 16:00 | **leblancc99**: Candyfloss Chick, Ride-A-Pet Potion ×5, Gemstone Egg ×5 | **Vitek_228666**: Turtle (FR) |
-| 16:00 | **KittyFlower2211**: Chihuahua, Fly-A-Pet Potion | **Adoptme5Poortotich**: Golden Lettuce |
-| 16:00 | **brokoly112**: Paint Sealer | **Selus76**: Mouse (M) |
-| 16:00 | **AnitaGame08**: Matcha Cat (R) | **4532Piggy**: Copycat (R) |
-| 16:00 | **ferrofl7**: Pangolin (N), Shiba Inu (N), Oakee (N), Beaver (N) ×2, Bunny (N) ×2, Mexican Wolf (N) ×2, Kakapo (N) | **noonecares11204**: Ride-A-Pet Potion |
-| 16:00 | **moral608**: Ride-A-Pet Potion ×5 | **noonecares11204**: Unicorn (NFR) |
-| 16:00 | **vampire2169**: Chocolate Chip Bat Dragon (NFR), Dalmatian (R), Cabbit (R) | **nAtiLiAoh**: Frost Dragon (FR) |
-| 16:00 | **tom2mcg**: Field Mouse (MFR), Caelum Cervi (NFR) | **Accusxed**: Siamese Cat (MFR) |
-| 16:00 | **ANNADOG444**: Fly-A-Pet Potion, Shetland Pony Dark Brown (N) | **Koshechkina102**: Dragonfruit Fox |
-| 15:55 | **vertaocsi**: Fly-A-Pet Potion | **CookieBawn**: Pupcake ×2 |
-| 15:55 | **WaguriMywaifu1**: Owl (FR), Crow (FR) | **LoriDreamy123**: Dalmatian (R), Arctic Reindeer (FR), Siamese Cat (R), Candyfloss Chick (R), Kangaroo (FR), Candicorn (FR), Candicorn, Albino Monkey (FR), Border Collie (R), Border Collie, Crocodile (FR), Winged Tiger, Toaster Hat, Pig (R), Pig, Ice Cream Cone Hat, Frost Fury (R) ×2 |
-| 15:55 | **Vitek_228666**: Elephant (R) | **AL1C3W0RLDD**: Ride-A-Pet Potion ×14 |
-| 15:55 | **sleepwily**: Unicorn (NFR) | **LoriDreamy123**: Binturong (N), Ride-A-Pet Potion |
+| 16:11 | **kurrukuce**: Munchkin Cat, Pink Cat (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **lera_573038**: Fairy Bat Dragon (FR) |
+| 16:11 | **stqrfallz**: Crow (N) | **ZzzTrades7**: Strawberry Shortcake Bat Dragon, Arctic Reindeer, Cryptid (FR), Lion (NFR), Crocodile (R), Zodiac Minion Chick (MFR), Chocolate Chip Bat Dragon (F), Spring Bunny Nose |
+| 16:11 | **vegetasggacc1**: Chocolate Chip Bat Dragon (FR), Mini Pig (FR), Rain Cloud Hat | **TullNiks**: Cryptid (FR) |
+| 16:11 | **nazzanown10**: Lion (R), Lion, Pig (FR), Ride-A-Pet Potion | **whiplashtempo0**: Cow (FR) |
+| 16:11 | **Amjelgamar21**: Stray Cat Dragon ×10 | **glittermarga**: Ride-A-Pet Potion |
+| 16:11 | **moop1234321**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion | **Vitek_228666**: Kangaroo (R) |
+| 16:11 | **Mikis_oll**: Strawberry Tortle (R), Dango Penguins, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Unicorn | **didlitown**: Cow (FR) |
+| 16:11 | **IngoAlchemyPro**: Crystal Egg ×18 | **albina_7807**: Ride-A-Pet Potion |
+| 16:06 | **Bismuth234**: Turtle (FR), Ride-A-Pet Potion ×2 | **Unicornfav_animal**: Candyfloss Chick (R), Pink Cat |
+| 16:06 | **Ent3r_UsernameHere**: Candyfloss Mega Neon Paint, Galaxy Explorer Helmet | **puuuurrrraaawww**: Ride-A-Pet Potion |
+| 16:06 | **cannotforgetaboutyou**: Burger Boots, Ride-A-Pet Potion ×3 | **DieSahne014**: Spring Bunny Hood |
+| 16:06 | **Richard20125**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **savvi027**: Toy Poodle (MR) |
+| 16:06 | **FDGVDFGV0**: Tortoiseshell Guinea Pig (MFR) | **lol115783**: Caelum Cervi (MFR) |
+| 16:06 | **limohq**: Ride-A-Pet Potion ×16 | **Vitek_228666**: Kangaroo (FR) |
+| 16:06 | **Vitek_228666**: Elephant (FR) | **AL1C3W0RLDD**: Ride-A-Pet Potion ×15 |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
