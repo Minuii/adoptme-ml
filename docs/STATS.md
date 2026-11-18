@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 17:40 UTC by the scrape workflow._
+_Updated 2026-11-18 17:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 17:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 38,843 | 2026-11-18T17:30 |
-| elve | 8 | 8,049 | 2026-11-18T17:31 |
+| amvgg | 8 | 39,085 | 2026-11-18T17:45 |
+| elve | 8 | 8,102 | 2026-11-18T17:46 |
 
-## AMVGG completed trades: 32,768 total
+## AMVGG completed trades: 32,776 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,695 |
+| 2026-11-18 | 2,703 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,14 @@ _Updated 2026-11-18 17:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 17:45 | **PIZZ44R0LLZ2**: Royal Palace Spaniel (R), Admin Abuse Egg ×6, Retired Egg ×6 | **vladislav1362**: Ride-A-Pet Potion |
+| 17:45 | **Klaysi_flayra**: Ride-A-Pet Potion | **iuvzjules**: Shih Tzu (M), Ruddy Duck (M), Forest Sprite (M) |
+| 17:45 | **uovivg**: Mermicorn (FR), Banana Hat, Copycat, Rose Quartz Glow Mega Neon Paint | **fishtaili**: Peppermint Penguin (R) |
+| 17:45 | **Dwolify**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2 | **littlefelonies**: Peppermint Penguin |
+| 17:45 | **Maryaaa_167**: Cryptid (FR), Dalmatian (FR), Dango Penguins, Fly-A-Pet Potion | **dear_soI**: Dalmatian (NFR) |
+| 17:45 | **lerasryuefj**: Turtle (NFR), Ride-A-Pet Potion ×2, Copycat (R), Kid Goat (MR), Donut Cycle | **itz_Milenixx**: Haetyphoon (NFR) |
+| 17:45 | **AUTOINPUT**: Catte ×2, 2D Doggy, Burger Bear | **LeleJolien123**: Biodome Home |
+| 17:45 | **inicio1994**: Spring Bunny Hood, Spring Bunny Feet | **sstressful**: Christmas Pudding Pup (R) |
 | 17:40 | **kittyywtx**: Baku (N) | **Name_robloxx02**: Fly-A-Pet Potion |
 | 17:40 | **holacausaanthony123**: Cow (FR) ×2, Cow (NFR), Turtle (R), Kangaroo (FR), Fairy Bat Dragon (NFR), Fly-A-Pet Potion ×6 | **justi1cee**: Frost Dragon (FR) |
 | 17:40 | **cmhqiyiy3497**: Count Slothula ×9 | **N3ssii0**: Copycat |
@@ -40,14 +48,6 @@ _Updated 2026-11-18 17:40 UTC by the scrape workflow._
 | 17:40 | **kelsey_1815**: Purple Heart Glasses ×2, Purple & Green Beads ×2 | **madurra012**: Admin Abuse Egg, Paint Sealer, Jumpscare, Jimothy, Jacobin Pigeon ×2, Basic Egg ×12 |
 | 17:40 | **00w111ttt**: Rain Boots | **majrurjeap**: Fly-A-Pet Potion |
 | 17:40 | **tessadegroot2009**: Strawberry Shortcake Bat Dragon (FR), Dalmatian (FR), Turtle (FR), Werewolf (FR), Alley Cat (MFR), Haetae, Meerkat (NFR), Crocodile (R) | **Sonny_angel097**: Arctic Reindeer (MFR) |
-| 17:40 | **wh1mzical**: Matcha Cat, Copycat | **C0rry_playz**: Winged Tiger |
-| 17:40 | **amyggvaI**: Elephant (R), Elephant (FR), Kangaroo (FR), Flamingo (R), Tio De Nadal (FR), Siamese Cat (FR), Sugar Glider (FR), Turtle (FR) ×4, Nessie (FR), Flash Weasel, Unicorn (MFR) | **leruval**: Frost Dragon (FR) |
-| 17:40 | **jstforgrindx**: Goose (R), 2022 Birthday Party Hat | **cannotaffordme**: Naughty Mistletroll (MFR) |
-| 17:40 | **AnneFabrel2005**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion | **mariagrigoryan1**: Ram (NR) |
-| 17:40 | **Caba7Senpai**: Bready Necklace | **kelsey_1815**: Ice Cream Heels |
-| 17:40 | **h4_cd**: Pet Handler Pro Certificate | **BlackGigi2**: Stray Cat Dragon (M) |
-| 17:40 | **RomanticFr337**: Muskrat (M), Burger Bear | **h4_cd**: Ride-A-Pet Potion |
-| 17:40 | **Gamerqueen1255**: Gemstone Egg | **MOGGYJAM**: Retired Egg ×18 |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
