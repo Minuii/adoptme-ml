@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 18:11 UTC by the scrape workflow._
+_Updated 2026-11-18 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 18:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 39,339 | 2026-11-18T18:00 |
-| elve | 8 | 8,157 | 2026-11-18T18:01 |
+| amvgg | 8 | 39,592 | 2026-11-18T18:15 |
+| elve | 8 | 8,192 | 2026-11-18T18:15 |
 
-## AMVGG completed trades: 32,870 total
+## AMVGG completed trades: 32,896 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,797 |
+| 2026-11-18 | 2,823 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 18:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:11 | **gg_aplle**: Ride-A-Pet Potion, Pomeranian (N), Pangolin (N) | **NAT4L1Ex**: Golden Rat (R) |
-| 18:11 | **biggirlbridget**: Bat Dragon (FR), Evil Unicorn (NFR), Fairy Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR), Flamingo (NFR), Haetyphoon (FR) | **obichamte77**: Frost Dragon (MFR) |
-| 18:11 | **eeliasxcx**: Bee (NFR), Bee (N), Culinary Wizard Hat, Cheesecake Hat | **TheMargo_cutecore**: Ride-A-Pet Potion ×2 |
-| 18:11 | **MEL1TTIN**: Frostbite Bear (FR) | **elavvrr**: Royal Mistletroll (R) |
-| 18:11 | **bonnitasarita**: Parrot (FR), Mini Pig (R), Red Dutch Guinea Pig (R) | **fygramvgg**: Owl (FR) |
-| 18:11 | **mariarita2000**: Clover Cow | **ElRambom_900**: General Sheepdog |
-| 18:11 | **C0PHYAK**: Chick Hat, White Chef Hat, Strawberry Shortcake Bow, Gold Tiara | **vvamppuppy**: Ride-A-Pet Potion |
-| 18:11 | **xDxvil777**: Ride-A-Pet Potion ×18 | **FLEEt_LL**: Turtle (FR) |
-| 18:11 | **Larisa_DiecooleSocke**: Great Pyrenees (N) | **DreasKittygirl101309**: Ride-A-Pet Potion ×3 |
-| 18:11 | **C0PHYAK**: Cotton Candy Hat | **Queenvessy**: Ride-A-Pet Potion |
-| 18:11 | **indigogymnast12**: Silly Duck (NR) | **Just_TradingUser**: Grave Owl (MFR), Ride-A-Pet Potion |
-| 18:11 | **ni1zuua**: Tropical Surge Mega Neon Paint, Kiwi Kiwi (MFR) | **HelloNoDm**: Rain Cloud Hat, Ice Saber |
-| 18:11 | **yourloversstaymyage3**: Goose (R), Hot Doggo (R) | **jvxohn**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion, Mrs. Whiskerpips (MR), Mr. Whiskerpips (NR) |
-| 18:11 | **KrypticKyanite333**: Mochi Meow (M) | **Fiolka_67**: Fly-A-Pet Potion |
-| 18:11 | **XxToxicGalaxy1Xx**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **rebipiu**: Raccoon (MFR) |
+| 18:15 | **warpiir**: Evil Unicorn (FR), Copycat (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **aleks2u**: Cryptid (FR) |
+| 18:15 | **cutesyxalzain**: Munchkin Cat (MFR) | **RobWOLF36loxa**: Kangaroo (MFR) |
+| 18:15 | **You_kwin666**: Chihuahua, Gemstone Egg | **bunniiangeI**: Ride-A-Pet Potion |
+| 18:15 | **Klaysi_flayra**: Ride-A-Pet Potion | **funsashamen**: Corgi (M), Electric Hornet, Ehecatl, Little Lamb, Ox, Starfish, Red Panda, Oakee Knight, Milk Choccybunny |
+| 18:15 | **Katya_1922**: Tortoiseshell Guinea Pig (R), Pupcicle | **mariasnezinka**: Latte Kitsune (NFR), Hydra (R) |
+| 18:15 | **S4nt11ago0**: Pandaguin Glooptodog (N), Chihuahua, Tiny Wings | **Sonya73p**: Toaster Hat |
+| 18:15 | **Ruperto_1297**: Unicorn Horn, Toaster Hat, Munchkin Cat (M), Siamese Cat (MFR) | **rumpuiz**: Frost Dragon (FR), Copycat |
+| 18:15 | **davyhejcy**: Arctic Dusk Dragon (MFR), Shark Puppy (MFR) | **m4r4se**: Parrot (FR), Cow (FR) |
+| 18:15 | **jojamojap**: Copycat, Puptune (NR), Summer Straw Hat | **0ali_ice0**: Ice Cream Cone Hat, Pupcicle |
+| 18:15 | **kaibodydump**: Peppermint Penguin (MFR), Goose, Owl (NFR) | **evokefairy**: Cryptid (MFR) |
+| 18:15 | **amyggvaI**: Dalmatian (FR), Owl (FR) | **Xxxxashhhh**: Frost Dragon (FR), Fly-A-Pet Potion ×10, Ride-A-Pet Potion |
+| 18:15 | **Spartik20**: Undead Jousting Horse (NFR) | **ExpertChipmunkPro**: Cryptid (FR), Munchkin Cat |
+| 18:15 | **Inclemnc**: Haetae (FR), Crocodile (NFR), Fly-A-Pet Potion ×2 | **sugar_lover61**: Parrot (FR) |
+| 18:15 | **Rint0ru**: Alpaca (MFR), Cabbit (MFR), Goose (MFR), Sea Slug (MFR), Matcha Cat (MFR), Goat (MFR), Glormy Leo (MFR), Glormy Hound (MFR), Alley Cat (MFR), Dragonfruit Fox (MFR), Alley Cat (MR), Silly Duck (MFR), Chocolate Dutch Guinea Pig (M), S'mores Raccoon (MFR) | **MissaBloxluck**: Balloon Unicorn (MFR) |
+| 18:15 | **Meltedinafrica**: Strawberry Tortle ×3 | **brpatapimpim**: Cow (NFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
