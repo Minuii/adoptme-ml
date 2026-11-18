@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 19:55 UTC by the scrape workflow._
+_Updated 2026-11-18 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 41,043 | 2026-11-18T19:45 |
-| elve | 8 | 8,453 | 2026-11-18T19:46 |
+| amvgg | 8 | 41,298 | 2026-11-18T20:00 |
+| elve | 8 | 8,509 | 2026-11-18T20:01 |
 
-## AMVGG completed trades: 33,262 total
+## AMVGG completed trades: 33,264 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 3,189 |
+| 2026-11-18 | 3,191 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,8 @@ _Updated 2026-11-18 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:00 | **stoIencorpses**: Zombie Buffalo Plush | **FunDayDwH**: Ride-A-Pet Potion |
+| 20:00 | **Wolfie4567ty**: Pig (R) | **AnitaGame08**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
 | 19:55 | **lola_bear1995**: Fly-A-Pet Potion ×3 | **80Sofa08**: Tortuga de la Isla (R) |
 | 19:55 | **werlianess**: Emperor Gorilla (R), Caterpillar (FR), Ride-A-Pet Potion ×2 | **werreriss0**: Turtle (R) |
 | 19:55 | **thegiddys14**: Dalmatian (FR), Turtle (FR) ×2, Turtle (NFR), Kangaroo (NFR), Cow (FR) ×3 | **Puresksxz**: Crow (FR), Parrot (FR) |
@@ -46,8 +48,6 @@ _Updated 2026-11-18 19:55 UTC by the scrape workflow._
 | 19:55 | **ToberRain**: Evil Unicorn (FR), Lava Dragon (FR), Polar Bear | **Snoxs545**: Dalmatian (FR), Copycat (NFR) |
 | 19:55 | **Lux0u**: Dalmatian (FR), Winged Tiger, Munchkin Cat, Kangaroo (FR), Lion (R) | **turtletofrost7**: African Wild Dog (FR) |
 | 19:55 | **LP_girlik**: Princess Mare (N), Granny Wolf (N) ×2, Mummy Spider (N), Snorgle (N), Golden Egg, Bubblegeist | **avakad_kilaka**: Ride-A-Pet Potion |
-| 19:55 | **kreker0900**: Mongoose (MFR) | **jellyfish1248396**: Pumpkin Carriage, Magical Girl Car, Royal Carriage, Prince Carriage, Festive Deliveries Sleigh, Princess Carriage, Santa's Sleigh, Banana Car, Ribcage Carriage |
-| 19:55 | **M1ssd3ath_x**: Arctic Reindeer (FR), Strawberry Tortle, Matcha Cat, Ballet Swan (R), Dire Wolf (M) | **roblox_user_4904540593**: Cryptid (FR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
