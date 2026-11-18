@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 01:46 UTC by the scrape workflow._
+_Updated 2026-11-18 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 01:46 UTC by the scrape workflow._
 | amvgg | 8 | 24,340 | 2026-11-18T01:45 |
 | elve | 8 | 5,125 | 2026-11-18T01:45 |
 
-## AMVGG completed trades: 30,323 total
+## AMVGG completed trades: 30,353 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 250 |
+| 2026-11-18 | 280 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 01:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:40 | **Freep2603**: Copycat (MFR) ×6 | **Artisticzsilver**:  |
-| 01:40 | **gogoyurio**: Cow, Elephant | **Froggyblossom90**: Unicorn Horn, Sugar Glider (FR) |
-| 01:40 | **squidthem**: Fly-A-Pet Potion, Eaten Donut | **PlayOfHappy**: Amethyst Skies Mega Neon Paint, Blue Boohoo Mega Neon Paint, Halloween Slime Mega Neon Paint, Admin Abuse Egg ×3 |
-| 01:40 | **rhituaIls**: Honey Badger (MFR), Dragonfruit Fox (MFR), Husky (MFR), Strawberry Tortle, Cow (R), Cow, Ride-A-Pet Potion, Cotton Candy Hat | **Yakubiso**: Frost Dragon (FR) |
-| 01:40 | **ellielielielieee**: Ride-A-Pet Potion ×2 | **xXfayridreamXx**: Spring Bunny Feet |
-| 01:40 | **Panci_Terbang33**: Pupcicle (NR), Pupcicle ×2 | **lovinghan2**: Mule (NFR) |
-| 01:40 | **wavehrt**: Silly Duck | **NICOLE_fofinha3578**: Fly-A-Pet Potion |
-| 01:40 | **Lilypupper42**: Alpaca (R) | **bri5hellokitty**: Jellyfish (FR), Pig (FR) |
-| 01:40 | **skullteast**: Nautilus (MFR), Tiny Wings, Spring Bunny Hood | **extrysx**: 2022 Birthday Cake |
-| 01:40 | **Puppylover227331**: Wailing Mr. Whiskerpips Sticker | **ihitmyheadonwalls2**: Ride-A-Pet Potion |
-| 01:40 | **k4ybabyyyy**: 2022 Birthday Party Hat | **wavetoantq**: Harp Seal (MR) |
-| 01:40 | **ash_isofflinexLuvs**: African Wild Dog (R), Fly-A-Pet Potion, Siamese Cat (FR), Chocolate Dutch Guinea Pig (NFR) | **mamadmasa010**: Parrot (FR) |
-| 01:40 | **estehhxx**: Werewolf (FR) | **Hocixss**: Siamese Cat (R) |
-| 01:40 | **Jean_20354**: Jester Dragon, Copycat (R), Count Slothula (N) | **ovrgrwn**: Great Pyrenees (MFR) |
-| 01:36 | **enchantedxmira**: Arctic Dusk Dragon (MFR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **tfuexew**: Many Mackerel (MFR) |
+| 01:55 | **Pancakes7240**: Dango Penguins (MFR), 2022 Birthday Confetti Cannon, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **E_RockLOVE123**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:55 | **Roo_tookey123**: Stitches (MFR) | **blackaquamarine**: Mochi Meow (M) |
+| 01:55 | **RyukkHolder**: Hippo ×4, Ice Cube ×4, Shetland Pony Dark Brown ×4 | **NICOLE_fofinha3578**: Fly-A-Pet Potion |
+| 01:55 | **minv9a**: Moon Rabbit (N), Rock Pigeon (NR) | **sua1nst**: Grave Owl (MR) |
+| 01:55 | **op_con0**: Sea Slug (R) | **Pipotatini568**: Husky, Glormy Hound, Golden Penguin (R) ×2, Latte Kitsune (R) |
+| 01:55 | **llansset**: Parrot (NFR), Elephant (MFR), Lion Cub (MFR), Munchkin Cat (NFR), Balloon Unicorn (FR), Tiny Wings | **ChiRey90**: Giraffe (NFR) |
+| 01:55 | **BibbleFairy_9**: Cabbit (NR), Malaysian Tapir (MR) | **Amaya10809**: Sugar Glider, Goose (R), Siamese Cat, Christmas Pudding Pup |
+| 01:55 | **heluvpiper**: Dalmatian (NFR), Candicorn (NFR) | **sweetang4ll**: Rainbow Maker, 2022 Birthday Party Hat, Unicorn Horn, Winged Tiger (NFR), Chocolate Chip Bat Dragon (FR) |
+| 01:55 | **URSET_ROM4IK997**: Ride-A-Pet Potion | **cchloecrichtonsecret**: Crystal Egg ×18 |
+| 01:55 | **GYUGYUBINIM**: Giant Panda (FR) | **Paletazow**: Crow |
+| 01:55 | **donnotinteract**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **extrysx**: Spring Bunny Hood |
+| 01:55 | **tutritam174**: Chocolate Chip Bat Dragon Backpack | **r3nvsax**: Ride-A-Pet Potion |
+| 01:55 | **1an4hn**: Snow Leopard | **AristorK_Pop**: Puptune |
+| 01:55 | **renn_123on**: Albino Monkey (NFR) | **chunlihasora**: 2022 Birthday Cake, Unicorn Horn, Ride-A-Pet Potion |
+| 01:55 | **Alice_toca12345**: Chocolate Chip Bat Dragon (FR), Harp Seal (MFR) | **insahzz**: Goose (NFR), Spring Bunny Feet |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
