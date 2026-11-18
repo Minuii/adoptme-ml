@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 00:01 UTC by the scrape workflow._
+_Updated 2026-11-18 00:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 00:01 UTC by the scrape workflow._
 | amvgg | 8 | 22,508 | 2026-11-18T00:00 |
 | elve | 8 | 4,815 | 2026-11-18T00:01 |
 
-## AMVGG completed trades: 30,107 total
+## AMVGG completed trades: 30,134 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 34 |
+| 2026-11-18 | 61 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 00:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:00 | **1tz_Miki**: Rainbow Maker ×2, Unicorn Horn ×2, Rain Cloud Hat, Tiny Wings ×2, Sugar Glider (NFR), Pupcicle (N) | **chunlihasora**: Frost Dragon (FR) |
-| 00:00 | **Itsnot_1b**: S'mores Raccoon, Rubber Ducky | **iiEvenstar**: Ride-A-Pet Potion |
-| 00:00 | **LeonardoEC14**: Kangaroo (FR), Fly-A-Pet Potion ×3 | **blackaquamarine**: Turtle (FR) |
-| 00:00 | **batton0955**: Ride-A-Pet Potion ×2, Chihuahua | **aleks2u**: Dugong (M) |
-| 00:00 | **kaien12322**: Candicorn (R) | **Giannlezzz**: Pupcicle ×16 |
-| 00:00 | **aleks2u**: Hot Doggo (FR) | **XxwizzizxX**: Kangaroo (NFR) |
-| 00:00 | **Imdelulu120**: Pupcicle ×16, Ride-A-Pet Potion, Fly-A-Pet Potion | **Xz_CodeOLDriftdLBliz**: Pupcicle (M) |
-| 00:00 | **JorgeEduardo_123**: Pudding Cat (MFR) | **flozzabozza07**: Pink Betta Fish (MFR), Sea Turtle (M), Ranger Beaver (R), Pet Handler Pro Certificate, Rain Boots |
-| 00:00 | **TreasureChest033**: African Wild Dog (FR), Wolf (MFR) | **igaao**: Sakura Spirit (MFR) |
-| 00:00 | **Kyotoru_Hagi**: Pinkypillar (M), Jacobin Pigeon (M), Red Panda (N) ×2 | **jtdyc13**: Ride-A-Pet Potion |
-| 00:00 | **GrindAccount_N1**: Milk Choccybunny (M), Black Tiger (M), Fire Foal (M), Budgie Witch (M), Rabbit (M), Gummy Guana (M), Black Rhino (M), Beaver (M), Zebra (M), Ribbon Seal (M), Granny Wolf (M), Clumpty (M), Badger (M), Pangolin (M), Corgi (M), Black-Footed Ferret (M), Red Panda (M) | **Snow_micasita**: Tiny Wings |
-| 00:00 | **bunniesarecute667**: Evil Unicorn (FR), Latte Kitsune (MFR) | **GrindAccount_N1**: Sugar Axolotl (MFR) |
-| 00:00 | **awrriah**: Mini Pig (MFR), Field Mouse (MFR) | **Sn3akyw0lfBloxgames**: Balloon Unicorn (NFR) |
-| 00:00 | **SnowyBear561**: Retired Egg ×9 | **Marie_gamer201**: Cattuccino |
-| 00:00 | **sasuthebunny**: Unicorn Horn, Amami Rabbit (NR), Banana Hat | **xf4wnskull**: Jester Dragon (NFR) |
+| 00:11 | **NLin_126**: Ride-A-Pet Potion | **cchloecrichtonsecret**: Crystal Egg ×18 |
+| 00:11 | **acidrotslo**: Silverback Gorilla (MFR) | **crown12256**: Evil Unicorn, Chocolate Dutch Guinea Pig (NR) |
+| 00:11 | **zxl0106**: Ride-A-Pet Potion ×9 | **LalayS2z**: Happy Duckling (MFR) |
+| 00:11 | **svrodrii2**: Goose (R) | **Poco234923**: Cow (FR) |
+| 00:11 | **Omar2002548**: Black Widow (N), Stray Cat Dragon, Skelicorn, Fire Foal ×3, Tree Sasquatch ×3, Badger ×3, Black Tiger ×3, Throwback Egg ×3 | **volt_chib1**: Black Widow (N) |
+| 00:11 | **leesoyul11111111**: Ride-A-Pet Potion | **cchloecrichtonsecret**: Crystal Egg ×18 |
+| 00:11 | **polina_miskaa**: Cow (FR), Kangaroo (FR) | **PrisonLifePro106**: Mini Pig (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 |
+| 00:11 | **chunlihasora**: Unicorn Horn | **qlltm**: Meerkat (NFR) |
+| 00:11 | **akatsiiii**: Dalmatian (R) | **ssceneury**: Cabbit (NFR) |
+| 00:11 | **otiV43**: Rose Dragon (N) | **manuaxolotyorignl**: Tortoiseshell Guinea Pig |
+| 00:11 | **Ryandelpozo28**: Naughty Mistletroll (NR) | **no_anniaomg**: Naughty Mistletroll (R), Pupcicle (NR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 00:11 | **whiplashtempo0**: Alpaca (R) | **Noyniya**: Frost Unicorn (FR) |
+| 00:11 | **SerenaWolfWarrior**: Glormy Hound (NFR), Mule | **KOOLAID_girl10**: Tiny Wings |
+| 00:11 | **R_mane444**: Alpaca (R), Spring Bunny Feet, Ride-A-Pet Potion | **snowflake7148732**: Turtle (R) |
+| 00:11 | **PHYSIC_WIZARDD**: Stray Cat Dragon (N) ×3, Stray Cat Dragon ×4, Classic Trade Stand | **banani_Offishal**: Stray Cat Dragon (M) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
