@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 16:16 UTC by the scrape workflow._
+_Updated 2026-11-18 16:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 16:16 UTC by the scrape workflow._
 | amvgg | 8 | 37,612 | 2026-11-18T16:15 |
 | elve | 8 | 7,773 | 2026-11-18T16:15 |
 
-## AMVGG completed trades: 32,469 total
+## AMVGG completed trades: 32,490 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,396 |
+| 2026-11-18 | 2,417 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 16:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:15 | **iiPurplegalaxy127**: Chocolate Chip Bat Dragon (R), Turtle (FR) | **davyhejcy**: Honey Badger (MFR) |
-| 16:15 | **realpdrilla1**: Werewolf, Ride-A-Pet Potion | **Pao_ComRequeijaokkj**: Munchkin Cat, Toaster Hat |
-| 16:15 | **yolopie236**: Caterpillar (NFR) ×2, Kitty Bat (MFR) | **HAZELNUTTHEHAM**: Copycat (MFR) |
-| 16:15 | **M1cahsWRLD**: Yeti (MR) | **hanb3ki**: Winged Tiger (FR) |
-| 16:15 | **MoonintheEarth_Luna**: Red & Yellow Beads, Glormy Backpack, Bauble Buddies | **wn1xrss**: Bauble Buddies (R) |
-| 16:15 | **wn1xrss**: Ride-A-Pet Potion ×2, Shadow Dragon Ducky, Cattuccino (N) | **GamerMarty06_yt**: Chocolate Dutch Guinea Pig ×2 |
-| 16:15 | **SoloGhost442149**: Chihuahua ×2, Gemstone Egg | **anihao17**: Ride-A-Pet Potion |
-| 16:15 | **trainingpilot12**: Cow (FR) ×6, Cow (R) ×3, Cow | **Bacontop1of100**: Crow (NFR) |
-| 16:15 | **lovelymaner**: 2022 Birthday Party Hat, Halo, Angel Wings, Unicorn Horn, 2022 Birthday Cupcake Shoes, Chocolate Dutch Guinea Pig (MFR), Harp Seal (MFR), Dodo (MFR), Goldhorn (MFR), Scarebear (MFR), Burger Bear (MFR), Ranger Beaver (MFR), Tan Chow-Chow (M) | **leruval**: Frost Dragon (FR) |
-| 16:15 | **xxvampxx1500**: Ghost Wolf (FR) | **dd4ytime**: Ginger Cat (FR) |
-| 16:15 | **mgjgmwg**: Chocolate Chip Bat Dragon (FR) | **anihao17**: Cow (FR), Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 16:15 | **namerb11**: Goose (R) | **jam_es12348**: Jekyll Hydra (FR), Ride-A-Pet Potion |
-| 16:15 | **ishu5031H**: Jester Dragon (FR), Jester Dragon (F), Jester Dragon ×2, Pain au Chat | **Chuchubook19**: Jester Dragon (NFR) |
-| 16:15 | **Nanax_8907**: Bauble Buddies | **vikatopchik_00**: Paint Sealer ×3 |
-| 16:15 | **odetied**: Bauble Buddies (MFR) | **Nanax_8907**: Santa Hat, Elf Hat |
+| 16:25 | **lovelymaner**: Pig (MFR), Mini Pig (FR), Sushi Penguin (MFR), Tree Kangaroo (MFR), Golden Rat (MFR), Cactus Friend (MFR), Axolotl (MFR), 2022 Birthday Party Horn, Berry Cool Cube (MFR), Hippo (MFR), Sprout Snail (MFR), Mrs. Whiskerpips (MFR), Water Moon Bear (M) | **leruval**: Frost Dragon (FR) |
+| 16:25 | **IngoAlchemyPro**: Crystal Egg ×18 | **puuuurrrraaawww**: Ride-A-Pet Potion |
+| 16:25 | **ZockerCelina_20**: Peppermint Penguin (FR) | **Roo_tookey123**: Siamese Cat (FR), Sheeeeep (FR), Ballet Swan (FR) |
+| 16:25 | **Klaysi_flayra**: Metal Ox (NR), Granny Wolf (N) | **MitaKit3**: Ride-A-Pet Potion |
+| 16:25 | **anni_Dragin**: Cupid Dragon (MFR), 2022 Birthday Party Horn, Llama, Fly-A-Pet Potion, Ride-A-Pet Potion | **Alika_Queen01**: Blazing Lion (FR) |
+| 16:25 | **seb_ihhh**: Unicorn ×4 | **joshsawsy**: Ride-A-Pet Potion ×4 |
+| 16:25 | **spook_jhon293**: Copycat ×2, Arctic Dusk Dragon (FR), Pupcicle | **TaPocHek_lpeshki**: Kangaroo (FR) |
+| 16:25 | **Wolfie4567ty**: Turtle (FR) | **hexyzbagoc31**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×2 |
+| 16:25 | **Ksusha_Spyroo**: Happy Duckling ×2 | **batton0955**: Ride-A-Pet Potion |
+| 16:25 | **lerasryuefj**: Unicorn | **nembb_b**: Ride-A-Pet Potion |
+| 16:25 | **chipsikiyou**: Undead Jousting Horse (NFR) | **Spartik20**: Copycat (MFR) |
+| 16:25 | **Jdhsoand**: Copycat (NR) | **Leon_BSLEO**: Copycat ×4 |
+| 16:25 | **yanaunicorn_23**: St Bernard | **leailsake**: Halloween White Skeleton Dog |
+| 16:25 | **Ebanko_rblx**: Pupcake (M), Pupcicle | **gg_01841**: Pupcake (NR), Copycat |
+| 16:25 | **sweetie_pi48**: Winged Tiger (R) ×2 | **dardaruni**: Fairy Bat Dragon |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
