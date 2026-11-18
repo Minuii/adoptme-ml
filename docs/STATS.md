@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 16:46 UTC by the scrape workflow._
+_Updated 2026-11-18 16:56 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 16:46 UTC by the scrape workflow._
 | amvgg | 8 | 38,114 | 2026-11-18T16:45 |
 | elve | 8 | 7,913 | 2026-11-18T16:46 |
 
-## AMVGG completed trades: 32,563 total
+## AMVGG completed trades: 32,595 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,490 |
+| 2026-11-18 | 2,522 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 16:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:45 | **kiff_shik**: Mini Pig (FR), Munchkin Cat (FR), Fly-A-Pet Potion ×6, Ride-A-Pet Potion, Silly Duck | **N0vaC0r3cPV0rt3xu126**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:45 | **loric_grbs**: Aurora Fox (MFR), Haetae (FR), Parrot (FR), Owlbear | **StannyStarPets**: Mini Pig (MFR) |
-| 16:45 | **sensntive**: Dragonfruit Fox (N), Many Mackerel | **rosy2357394**: Border Collie (FR) |
-| 16:45 | **sab_girlsab**: Strawberry Shortcake Bat Dragon (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **XxPastelliox**: Cow (NFR) |
-| 16:45 | **Vitek_228666**: Fly-A-Pet Potion ×9 | **AsianIceCold**: Ride-A-Pet Potion ×16 |
-| 16:45 | **prezervativkotika**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pretty Pony (R), Pupcake, Pupcicle | **iuvzjules**: Pupcake (M) |
-| 16:45 | **Vitek_228666**: Arctic Fox (R) | **qwx0axx**: Ride-A-Pet Potion ×7 |
-| 16:45 | **layan1i0**: Copycat (R) | **picugtvpriviegucii**: Phantom Dragon (R) |
-| 16:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×3 | **jdhsjska7**: Christmas Pudding Pup |
-| 16:45 | **lox_dyraska**: Crystal Egg ×15 | **noonecares11204**: Ride-A-Pet Potion |
-| 16:45 | **cupcakestar786**: Christmas Pudding House, Galapagos Sea Lion | **floricica_0502**: Mrs. Whiskerpips ×2 |
-| 16:45 | **bigmacburger_0**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2 | **Dwolify**: Cabbit (R), Christmas Pudding Pup |
-| 16:45 | **irinka6543**: Fly-A-Pet Potion, Ride-A-Pet Potion, Peregrine Falcon (NFR) | **gTheGamerProYTg**: Polar Bear |
-| 16:45 | **Slender202404**: Christmas Pudding Pup, Sakura Spirit (FR) | **SoLost666**: Munchkin Cat (FR), Ride-A-Pet Potion |
-| 16:45 | **vanillqsz**: Ride-A-Pet Potion, Admin Abuse Box ×2, Rubber Ducky Box, Endangered Egg ×3, Fairytale Egg ×6, Retired Egg ×5 | **Licornelillyb**: Golden Chow-Chow |
+| 16:56 | **StartEggtofrostdrag0**: Copycat, Copycat (R) | **Vitek_228666**: Fly-A-Pet Potion ×7 |
+| 16:56 | **AnitaGame08**: Copycat (R) | **Vitek_228666**: Fly-A-Pet Potion ×4 |
+| 16:56 | **syavcas**: Leopard Shark, Water Rabbit | **Shehatesme420**: Ride-A-Pet Potion ×2 |
+| 16:56 | **Kvammletitraketa**: Ride-A-Pet Potion | **Mama_mama978**: Unfortunate Eyelashes, Pink Hightops, Purrowl, Ancient Dragon, Purple & Green Beads, Glamicorn Purse Pet, Chick Backpack |
+| 16:56 | **Ira_20086**: Ride-A-Pet Potion | **Kir4kaa**: Ice Cube ×6 |
+| 16:51 | **moonlight12lunars**: Husky (MFR) | **viltpool**: Hot Doggo (R) |
+| 16:51 | **Amjelgamar21**: Stray Cat Dragon ×10 | **arielel_elfirfiicf**: Ride-A-Pet Potion |
+| 16:51 | **lilystarn_2**: Werewolf (FR), Pet Handler Pro Certificate, Chihuahua | **Vinni_love3**: Siamese Cat (FR) |
+| 16:51 | **Vikakelera**: Peppermint Penguin, Pet Handler Pro Certificate | **bunniesarecute667**: Peppermint Penguin (FR), Ride-A-Pet Potion |
+| 16:51 | **mimimusasusu**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×2, Lamb (F) | **Vitek_228666**: Cow (FR) |
+| 16:51 | **RRR_666YH**: Jester Dragon (FR), Fly-A-Pet Potion, 2022 Birthday 5 Badge | **Bridgetpppp9**: Pink Cat (FR) |
+| 16:51 | **KiraChalaya**: Shrew (NFR) | **azekm_nothingtofrost**: Blue Dog, Shrew (FR), Fly-A-Pet Potion, Majestic Pony (R), Koi Carp, Human Feet Shoes, Chick Backpack, Sloth, Eaten Donut |
+| 16:51 | **moral608**: Fly-A-Pet Potion ×3 | **kartoshka_spogriba**: Frost Fury (FR) |
+| 16:51 | **Katya_1922**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×6 | **safiqa99**: Fairy Bat Dragon (FR) |
+| 16:51 | **milanakim12**: Puffer Fish (MFR), Black Macaque (MFR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Toaster Hat | **LewALTacc7**: Meerkat (MFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
