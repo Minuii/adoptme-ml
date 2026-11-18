@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 18:31 UTC by the scrape workflow._
+_Updated 2026-11-18 18:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 18:31 UTC by the scrape workflow._
 | amvgg | 8 | 39,853 | 2026-11-18T18:30 |
 | elve | 8 | 8,233 | 2026-11-18T18:31 |
 
-## AMVGG completed trades: 32,959 total
+## AMVGG completed trades: 32,994 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,886 |
+| 2026-11-18 | 2,921 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 18:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:30 | **martins10530**: Crystal Egg ×18 | **msgarcia4**: Fly-A-Pet Potion |
-| 18:30 | **tfuexew**: Halloween White Ghost Dragon (MFR), Jousting Horse (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **lqvane**: Jekyll Hydra (NFR), Caterpillar (FR) |
-| 18:30 | **backsiz**: Fly-A-Pet Potion | **Siren_AriaBlaze**: Sushi Penguin (FR) |
-| 18:30 | **Fox_13920**: Fly-A-Pet Potion ×3 | **prostod_f**: Arctic Dusk Dragon (FR) |
-| 18:30 | **meowchkai**: Chihuahua, Toy Poodle, Primal Kaijunior, Magma Snail, Skelebat, Thunderfisher ×2 | **itsvaleriaotz**: Ride-A-Pet Potion |
-| 18:30 | **Katerryrka**: Hare | **boooooying**: Ride-A-Pet Potion ×3 |
-| 18:30 | **Aeralika**: Aye Aye (M), Patchy Bear (M) | **Adelina20150912**: Ride-A-Pet Potion |
-| 18:30 | **Papa_Ghost94**: Fly-A-Pet Potion | **krughatoxicoficial**: Skelicorn ×18 |
-| 18:30 | **dawg1723**: Monkey King (MFR), Frost Dragon (FR), Halloween White Ghost Dragon (MFR) | **crown12256**: Royal Mistletroll (MFR) ×2 |
-| 18:30 | **Licornelillyb**: Albino Gorilla | **xyna68**: Water Rabbit |
-| 18:30 | **FoxyChanU3U**: Glormy Crab (MR) ×2, Mecha Meow (NFR), Corgi (MFR) | **dilanfabian13**: Pig (FR) |
-| 18:30 | **Phoenix_Dragon2202**: Sushi Penguin (MR) | **jaredxplayzzaltacc**: Chameleon (MFR), Jester Dragon |
-| 18:30 | **haggynionn**: Ride-A-Pet Potion ×5 | **Henni153**: Santa Hat |
-| 18:30 | **Cat2_gir**: Pupcicle ×2 | **Diona_0703**: Ginger Cat (M) |
-| 18:30 | **looter_love**: Chocolate Dutch Guinea Pig, Skelicorn (NFR), Fly-A-Pet Potion ×2, Pet Handler Pro Certificate ×2, Pupcicle (N) | **GorobetsZP**: Haetyphoon |
+| 18:40 | **roblox_user_3388877842**: Dragonfly, Skelicorn, Stray Cat Dragon, Golden Griffin ×2, Stitches, Bobageist ×2, Pandaguin Glooptodog (N), Crimson Cape ×2, Gold Mahi Mahi, Orca, Shiba Inu, Red Panda, Sea Angel | **valentinaemmz**: Ride-A-Pet Potion |
+| 18:40 | **luvyerh**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion | **Epic777378**: Pig (FR) |
+| 18:40 | **jannatseifi**: Arctic Dusk Dragon (MFR), Royal Mistletroll (NFR), Munchkin Cat (MFR), Harp Seal (MFR) | **ZKXW_999**: Frostbite Bear (MFR) |
+| 18:40 | **sun1zzzo**: Ride-A-Pet Potion ×5 | **Robloxiana_xxx2011**: Shrew (FR) |
+| 18:40 | **aitana_20091**: Unicorn Horn, Tiny Wings, Ice Cream Cone Hat, Spring Bunny Hood, Spring Bunny Nose, Banana Hat | **XL4IL4_FGYX**: Dragonfruit Fox (MFR) |
+| 18:40 | **Angela290867**: Frost Unicorn, Maine Coon (M) | **rbwax**: Turtle (FR) |
+| 18:40 | **holacausaanthony123**: Turtle (R), Candicorn (NFR), Candicorn (R) | **ImNotKesnielGaming**: Fairy Bat Dragon (NFR) |
+| 18:40 | **Elwanizk**: Chihuahua | **MistletoeMeg**: Retired Egg ×18 |
+| 18:40 | **AngelLove**: Ring-Tailed Lemur (MFR), Arctic Fox (MFR), Dango Penguins (M) | **ang666600**: Owl (FR) |
+| 18:40 | **rainbowpuply_cute**: Cow (FR), Candicorn (R), Pig (R), Fly-A-Pet Potion ×2 | **mgjgmwg**: Chocolate Chip Bat Dragon (FR) |
+| 18:40 | **BosnianGirl_09**: Flamingo (R) | **Spooky_Aniyah**: Werewolf |
+| 18:40 | **Vanny_Vanessa30**: Cryptid (NFR), Undead Jousting Horse (NFR), Jekyll Hydra (NFR) | **Shadx_1553**: Blazing Lion (NFR) |
+| 18:40 | **twixishka_rbx**: Gingerbread Reindeer, Hydra, Orange Butterfly, Kaijunior | **cchloecrichtonsecret**: Ride-A-Pet Potion |
+| 18:40 | **Hey_CYNTHIA92**: Lynx (NFR) | **Shadx_1553**: Shiver Wolf (NFR) |
+| 18:40 | **violencesoul**: Siamese Cat (FR), Fairy Bat Dragon (R) | **ambervgils**: Mule (MFR), Influencer Gibbon (MFR) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
