@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 01:16 UTC by the scrape workflow._
+_Updated 2026-11-18 01:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 01:16 UTC by the scrape workflow._
 | amvgg | 8 | 23,838 | 2026-11-18T01:15 |
 | elve | 8 | 5,048 | 2026-11-18T01:16 |
 
-## AMVGG completed trades: 30,270 total
+## AMVGG completed trades: 30,298 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 197 |
+| 2026-11-18 | 225 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 01:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:11 | **minismudgepanda**: Giant Panda | **nathannathan1312**: Chocolate Chip Bat Dragon (NFR) |
-| 01:11 | **soul1nquestion**: Winged Horse (NFR) | **Sh4d0w_K1ng13**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 01:11 | **piSANKAAAAA**: Pain au Chat (N) | **Coconut_milk2199**: Halloween Evil Dachshund (N) |
-| 01:11 | **pawnerd**: Latte Kitsune (MFR), Cheetah (MFR), Rooster (MFR) | **Myaltiscrazy08**: Tortuga de la Isla (MFR) |
-| 01:11 | **batton0955**: Ride-A-Pet Potion | **merli_21222**: Happy Duckling, Poodle (M), Thunderfisher |
-| 01:11 | **4ngxl_4195**: Cabbit (NFR) | **donnotinteract**: Cabbit (R), Alpaca (R), Alpaca, Spring Bunny Hood, Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
-| 01:11 | **lexcor3**: Giraffe (FR), Ride-A-Pet Potion | **TreasureChest033**: Cabbit (MFR), Cabbit (N) |
-| 01:11 | **qeruigo**: Evil Unicorn (MFR), Evil Unicorn (FR), Chocolate Chip Bat Dragon (FR), Goat (FR), Spring Bunny Hood, Polar Bear, Fly-A-Pet Potion ×3 | **Lindabequiet**: Bat Dragon (FR) |
-| 01:11 | **usestarcodedigito120**: Jester Dragon, Bat Dragon Cuddle Animated Sticker | **User017238**: Pupcicle (MR) |
-| 01:11 | **YOKOZ303**: Crab (N), Cattuccino, Sunflower Friend, Orange Betta Fish, Red Panda Ducky, Sheepdog Ducky | **Lindabequiet**: Ride-A-Pet Potion |
-| 01:11 | **juanitox646566**: Pupcicle (MR) | **User017238**: Unicorn Horn |
-| 01:11 | **wx8zqxx**: Pink Cat (FR), Groundhog | **Bridgetpppp9**: Blue Dog |
-| 01:11 | **hanb3ki**: Cryptid (R), Ride-A-Pet Potion | **lovealleycats**: Cryptid (FR) |
-| 01:11 | **goddess_godcatreal**: Dango Penguins (NR), Unicorn (NR), Unicorn (N), Spring Bunny Hood | **Xxskibidy67**: Turtle (FR) |
-| 01:11 | **Froggyblossom90**: Turtle (NFR), Ride-A-Pet Potion ×2, Sea Turtle (N) | **chunlihasora**: Unicorn Horn, Cherry-On-Top |
+| 01:25 | **Reya426**: Ice Cream Cone Hat ×2 | **Yukiwarui**: Matcha Cat, Great Pyrenees (N), Husky (FR), Bunny Swirl (NR) |
+| 01:25 | **User017238**: Ride-A-Pet Potion, Pupcicle, Zombie Chick (N), Kappakid, Thunderfisher | **liofe1**: Stitches (M), Green Amazon (FR), Kage Crow, Cattuccino ×5, Stray Cat Dragon ×4 |
+| 01:25 | **adoptmerewardsjesse**: Count Slothula ×2 | **HV250008**: Chocolate Dutch Guinea Pig |
+| 01:25 | **Roo_tookey123**: Munchkin Cat (NFR), Goose (FR) | **GL0Rl0**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:25 | **misodoct**: Dango Penguins (MFR), Unicorn (MR), Bunny Swirl (MFR) | **0BVSWILLOWXO**: Rainbow Maker |
+| 01:25 | **violencesoul**: Punk Pony (M), Seagull (MR), Blue Jay (MFR), Latte Kitsune, Zombie Buffalo (FR), Mirai Moth (MFR) ×2, Dodo (NFR), Fly-A-Pet Potion | **bella94255**: Turtle (FR) ×2 |
+| 01:25 | **kkc3312_snowball**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cabbit (FR), Crocodile (FR), Ride-A-Pet Potion | **ii_aldrin20**: Parrot (FR) |
+| 01:25 | **PoSiRaY23**: Sugar Glider (MFR), Bush Elephant (MFR) | **kittencorn250**: Balloon Unicorn (NFR) |
+| 01:25 | **Lilyanaa_p**: Balloon Unicorn (FR), Tiny Wings, Ice Cream Cone Hat | **velvetlacedxo**: Dalmatian (FR), Orchid Butterfly (FR) |
+| 01:25 | **vanpxc**: Toaster Hat | **liofe1**: Flower Power Duckling, Tarsier, Dango Penguins, Peach Owl, Koi Carp ×5, Zombie Wolf, Red Sand Dollar, Golden Walrus, Sunrise Duckling, Mirai Moth, Kage Crow, Moonlight Moth ×2, Sweetheart Rat |
+| 01:25 | **Meow7121**: Paint Sealer ×6 | **ihitmyheadonwalls2**: Red Squirrel |
+| 01:25 | **Aidanspencer10**: Ride-A-Pet Potion ×3 | **diiorrvi**: Onza (MFR) |
+| 01:25 | **PatoPollo7777**: Pet Handler Pro Certificate ×3 | **arturo7pose12345**: Jester Dragon |
+| 01:25 | **Mangle91329**: Alpaca (NFR) | **anekalubitnaruto**: Flash Weasel (NFR) |
+| 01:25 | **Elliebelliepoepie**: Chocolate Chip Bat Dragon (FR), Arctic Fox (R) | **AMOANICOLE78**: Arctic Reindeer (FR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
