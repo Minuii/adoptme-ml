@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 15:16 UTC by the scrape workflow._
+_Updated 2026-11-18 15:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 15:16 UTC by the scrape workflow._
 | amvgg | 8 | 36,660 | 2026-11-18T15:15 |
 | elve | 8 | 7,531 | 2026-11-18T15:15 |
 
-## AMVGG completed trades: 32,230 total
+## AMVGG completed trades: 32,261 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,157 |
+| 2026-11-18 | 2,188 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 15:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:11 | **nainalt5**: Flaming Fox (MFR), Fly-A-Pet Potion | **enchantedxmira**: Spinosaurus (MFR), T-Rex (MFR) |
-| 15:11 | **sofia003343**: Sea Angel (N), Corgi (M) | **funsashamen**: Ride-A-Pet Potion |
-| 15:11 | **wskdaks**: Kangaroo (FR) | **v1koko228**: Pig (FR), Shrew (R), Fly-A-Pet Potion |
-| 15:11 | **shocoleh**: Lion Cub (R), Ride-A-Pet Potion | **XUnknown_nameless**: Ice Cream Hermit Crab, Fly-A-Pet Potion, Mecha R4BBIT (MR) |
-| 15:11 | **909cat090**: Owl (FR), Goose (R), Pig (R), Happy Clam (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×12 | **Wullopka**: Frost Dragon (FR) |
-| 15:11 | **backsiz**: Turtle (FR), Kangaroo (FR) ×4, Fairy Bat Dragon (FR), Goose (FR), Ride-A-Pet Potion ×4 | **ARON00808**: Albino Monkey (MFR) |
-| 15:11 | **elyyz_sen**: Classic Trade Stand, Pilot Gull (M) | **sjak696**: Ride-A-Pet Potion |
-| 15:11 | **cxbvnniz**: Albino Monkey, Toaster Hat, Tiny Wings, Spring Bunny Hood, GoKart, Propeller Hat | **1LYFIREX0**: Glormy Hound (MFR) |
-| 15:11 | **xiparo**: Pet Handler Pro Certificate | **tumblelina_123**: Fly-A-Pet Potion |
-| 15:11 | **Tr0ubledD0ll**: Shiver Wolf (NFR), Burger Bear (N) | **XxBad_2PotatoxX**: Spring Bunny Hood, Butter Knife |
-| 15:11 | **m0rbid_cat**: Slimingo (MFR) | **NiTrOgLiSt**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7, Ghost (MR) |
-| 15:11 | **plasfreerb**: Owl (FR) ×2, Parrot (FR), Balloon Unicorn, Evil Unicorn (FR) ×2, Strawberry Shortcake Bat Dragon (FR), Hot Doggo (FR), Zombie Wolf (MFR), Flamingo (NFR), Siamese Cat (R) | **ihamoda**: Shadow Dragon (NFR) |
-| 15:11 | **wolfje51**: Tegu ×17 | **Uliana_98538**: Love Letter |
-| 15:11 | **w3rtvv**: Chick Backpack, Gold Tiara, Candy Corn Hat, Pink Hightops, Strawberry Stroller, Alicorn, Dark Choccybunny, Bubblegeist, Huntsman Robin | **Secret_Secretov321**: Ride-A-Pet Potion |
-| 15:11 | **zzel_25328**: Alien Eyes Hat | **katnitlovesherself**: Ride-A-Pet Potion |
+| 15:25 | **alllalalala03**: Chihuahua (NR), Mule | **DecayingBat**: Rock Pigeon (M) |
+| 15:25 | **BROWNBLASTER11**: Arctic Reindeer (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **lba_fofe**: Crocodile (NFR), Kangaroo (NFR) |
+| 15:25 | **awx_mili**: Groundhog (NFR), Ride-A-Pet Potion | **Fiozyl**: Unicorn Horn |
+| 15:20 | **m1so_02**: English Sheepdog (MR), Snowball Pet (MR), Burger Bear (MR), Bunny Swirl (MR), Drake | **nuggets0162**: Mini Schnauzer (MFR), Cake Friend (MFR), Great Pyrenees (MFR) |
+| 15:20 | **Belen7267**: Dragon (NFR), Catte | **charice_90**: Fly-A-Pet Potion |
+| 15:20 | **laky12372**: Candicorn (NFR), Dragonfruit Fox (NFR), Glormy Hound (NR) | **alisha5050x**: Chocolate Chip Bat Dragon (FR) |
+| 15:20 | **bojaeynaa**: Candicorn (R), King Bee (MFR), Kitty Bat (M) | **shellyy_026**: Candicorn (NFR) |
+| 15:20 | **Roo_tookey123**: African Wild Dog (R), Sugar Glider (FR) | **trialbunny**: Strawberry Shortcake Bat Dragon (FR), Hedgehog (FR), Ride-A-Pet Potion |
+| 15:20 | **HobbyHorsing103**: Kookaburra (N), Royal Mistletroll, Giant Cheetah Mount | **yasukie7u7**: Water Walking Potion |
+| 15:20 | **yiiiiiiiiiiboooop**: Ride-A-Pet Potion ×4 | **Kali_girl790**: Unicorn (NR) |
+| 15:20 | **Ojitobonito2017**: Glacier Kitsune (MFR) | **OMG4ZXLA**: Diamond King Penguin (MFR), Unicorn Horn, Rain Cloud Hat, Ice Cream Cone Hat, Snowball Pet (MR) |
+| 15:20 | **Furry_lechuga**: Copycat (R), Tanuki (R) | **g23590**: Arctic Fox (R) |
+| 15:20 | **strawbearilatte**: Ride-A-Pet Potion | **Ribocoo12**: Therapy Dog ×2, Rotating Periscope, Vulture |
+| 15:20 | **farfromhomc**: Lion, Lion (R), Pig (FR) | **nazzanown10**: Cow (FR) |
+| 15:20 | **TornCuiped**: Ride-A-Pet Potion | **xiparo**: Pain au Chat ×2, Chihuahua |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
