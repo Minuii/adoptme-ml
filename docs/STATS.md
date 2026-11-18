@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 10:08 UTC by the scrape workflow._
+_Updated 2026-11-18 10:18 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 10:08 UTC by the scrape workflow._
 | amvgg | 8 | 31,696 | 2026-11-18T10:07 |
 | elve | 8 | 6,507 | 2026-11-18T10:08 |
 
-## AMVGG completed trades: 31,313 total
+## AMVGG completed trades: 31,329 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 1,240 |
+| 2026-11-18 | 1,256 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 10:08 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:07 | **Auds191102**: Unicorn Horn | **zams3mpire**: German Shepherd (MFR) |
-| 10:07 | **Roma_1234q**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×3 | **odading12318**: Turtle (FR) |
-| 10:07 | **Waq1uxx**: Jester Dragon (FR), Stray Cat Dragon (N) | **aster1Cloud**: Ride-A-Pet Potion ×6 |
-| 10:07 | **tiop_er4**: Fly-A-Pet Potion, Pet Handler Pro Certificate, Panda (R), Chocolate Dutch Guinea Pig, Prismatic Butterfly | **yuioedf**: Matcha Cat |
-| 10:07 | **xXAestheticxSkyX**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Fairy Bat Dragon (R), Tasmanian Devil (M), Poodle (NR) | **Rbd_JP**: Tree Kangaroo (MFR) |
-| 10:07 | **Allieiiiwiw**: Retired Egg ×4 | **mArg0_Tubb1e**: Alicorn |
-| 10:07 | **Alnavinka**: Giant Panda (FR) | **ybiosajoshua**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Turtle (FR) |
-| 10:07 | **Julee_Lov**: Dango Penguins (N), Kappakid (MR) | **Sloth_poppy1**: Haetyphoon |
-| 10:07 | **Daisie117**: Lunar Moon Bear (R), Knitted Pumpkin Hat | **Toffy200512**: Black Springer Spaniel |
-| 10:07 | **ilikecheese4evrduh1**: Strawberry Tortle | **naivelittlebunnie**: German Shepherd (MFR), Snowball Pug (MFR) |
-| 10:07 | **pysugwysu**: Cow (FR) | **roblox_wert34**:  |
-| 10:07 | **Robert_mila**: Forest Sprite (M), Golden Dragon, Purrowl, Sea Turtle, Red Panda, Beaver, Bunny, Rabbit, Gold Tiara, Bunch Of Balloons | **dilanfabian13**: Ride-A-Pet Potion |
-| 10:07 | **FINNRAVENBU999DDYRbx**: Sugar Glider | **bloody_unicorn1516**: Sheeeeep (NFR) |
-| 10:07 | **Vitamirka**: Golden Dragon (R), Kiwi Kiwi, Admin Abuse Egg | **Vikakelera**: Ride-A-Pet Potion |
-| 10:07 | **Zukiemido_07**: Unicorn Horn, Ride-A-Pet Potion ×5 | **Xyzxelle**: Rain Cloud Hat, Tiny Wings |
+| 10:18 | **3XCLUS1V3_77**: Pupcicle (N) | **lotem1901**: Chocolate Dutch Guinea Pig ×3 |
+| 10:18 | **kiff_shik**: Evil Unicorn (FR) | **arialovegodrule**: Turtle (FR), Goose (R), Munchkin Cat, Albino Monkey (FR), Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×3 |
+| 10:18 | **bffmade**: Jester Dragon, Ride-A-Pet Potion | **BlackFireTheRabbit10**: Copycat |
+| 10:18 | **Fruit_Kittie**: Fly-A-Pet Potion, Stray Cat Dragon | **bibi_sworld**: Ride-A-Pet Potion ×2 |
+| 10:18 | **tiaamisuu**: Goose (R) | **arialovegodrule**: German Shepherd (MFR), Fly-A-Pet Potion ×2, Latte Kitsune, Pancake Stack, Pink Cat Ear Headphones |
+| 10:18 | **LillyC00kiess**: Pink Cat Ear Headphones, Bready Necklace, Kitty Biscuit, Pain au Chat | **KenyaSharp**: Millionaire Mansion |
+| 10:18 | **Wikitos5**: Copycat | **theropywasted**: Ice Cream Cone Hat |
+| 10:18 | **3thanmasekep**: Magic Girl Wings, Albino Monkey (FR), Fly-A-Pet Potion | **altfortrades222**: Candicorn (NR) |
+| 10:18 | **Varvara08921**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×8, Jester Dragon (FR) | **Nanax_8907**: Fairy Bat Dragon (FR) |
+| 10:18 | **triflebat**: Jellyfish (FR) | **Hey_CYNTHIA92**: Munchkin Cat (FR) |
+| 10:13 | **YOKOZ303**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×3, Kitty Biscuit | **Arracheurdetacos224**: Zombie Wolf (MFR) |
+| 10:13 | **Arracheurdetacos224**: Ride-A-Pet Potion ×2 | **FlyToTheSaturn**: Catapult Stroller ×2, Donut Stroller ×2, Lunar Stroller ×3, Triple Stroller ×5, Crate Stroller ×3, Apple Barrel Stroller, Dog House Stroller ×2 |
+| 10:13 | **Tzatziki123**: Dalmatian (FR), Cow (FR), Goose (FR) | **Princenezha23**: Balloon Unicorn (FR) |
+| 10:13 | **estry_alas**: Lion Cub (MFR), Fairy Bat Dragon (FR) | **LunaAqua5849**: Irish Water Spaniel (MFR) |
+| 10:13 | **Vitamirka**: Kiwi Kiwi, Alicorn, Huntsman Robin (N) | **booluqx**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
