@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 05:55 UTC by the scrape workflow._
+_Updated 2026-11-18 06:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 05:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 28,034 | 2026-11-18T05:45 |
-| elve | 8 | 5,859 | 2026-11-18T05:45 |
+| amvgg | 8 | 28,264 | 2026-11-18T06:00 |
+| elve | 8 | 5,902 | 2026-11-18T06:01 |
 
-## AMVGG completed trades: 30,823 total
+## AMVGG completed trades: 30,829 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 750 |
+| 2026-11-18 | 756 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,12 @@ _Updated 2026-11-18 05:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:00 | **notar13es**: Cabbit (R), Shark Puppy (R), Fly-A-Pet Potion, Pancake Stack | **bbkxrby**: Zombie Wolf (MFR), English Sheepdog (MFR) |
+| 06:00 | **pmpjmg1**: Siamese Cat (FR) | **RGAKL10**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×16 |
+| 06:00 | **yeobviiiii**: Parrot (FR) | **murid5**: Fairy Bat Dragon (FR), Mermicorn (R), Turtle (R), Cow (R), Kangaroo (FR), Siamese Cat (R), Kangaroo (R), Sheeeeep (R) |
+| 06:00 | **Alisa506g**: Irish Water Spaniel (NFR) | **cathxdral**: Cow (FR) |
+| 06:00 | **Isa915marzo**: Giant Black Scarab, 2D Kitty, Cake Friend | **Eva_EvaKBAC**: Turkey |
+| 06:00 | **hqtle**: 2022 Birthday Party Hat ×3, 2022 Birthday Party Horn, Candyfloss Chick | **nqxcll**: Hot Doggo (NFR) |
 | 05:55 | **Hilsplos1**: Dango Penguins (NR), Pig (F) | **crispy_zzang**: Werewolf |
 | 05:55 | **clearlythorn**: Kangaroo (FR) ×2, Copycat (NFR) | **Miki_5533**: Chocolate Chip Bat Dragon (FR) |
 | 05:55 | **nice2306_alt**: Stray Cat Dragon ×16 | **Crims0n_Dusk**: Fly-A-Pet Potion |
@@ -42,12 +48,6 @@ _Updated 2026-11-18 05:55 UTC by the scrape workflow._
 | 05:55 | **hanako_1360**: Jester Dragon | **Lily_190421**: Velocirooster, Orbweaver Glider, Puppeteer Hand |
 | 05:55 | **KsyushaBelova**: Admin Abuse Egg ×9 | **jellofox2009**: Paint Sealer ×8 |
 | 05:55 | **clearlythorn**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **Lizyn4kaa**: Strawberry Shortcake Bat Dragon (FR) |
-| 05:55 | **fox_100l**: Pain au Chat, Toasty Red Panda, Pangolin (N) | **abbyissocool_lol**: Ride-A-Pet Potion |
-| 05:55 | **Thebestaltyo2**: Bat Dragon (FR), Ghost Bunny (NFR), Ghost Bunny (NR) | **pedrobeteir0**: Shadow Dragon (FR), Frost Dragon (FR) |
-| 05:55 | **lou1slove**: Caelum Cervi (NR), Copycat (N) ×2, Grim Dragon (R), Happy Duckling (N), Mule (N) | **Violet20191dd**: Caelum Cervi (MFR) |
-| 05:55 | **Emobiccc**: Admin Abuse Egg ×3 | **danfg3654**: Christmas Pudding House |
-| 05:55 | **Ru36755**: Candicorn (FR), Ride-A-Pet Potion | **rimar1o1**: Kangaroo (FR) |
-| 05:55 | **xoadmq**: Pupcicle, Meerkat, French Bulldog | **pretty_xx1206**: Lion Cub |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
