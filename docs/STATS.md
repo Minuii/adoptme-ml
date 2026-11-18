@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 16:41 UTC by the scrape workflow._
+_Updated 2026-11-18 16:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 16:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 37,867 | 2026-11-18T16:30 |
-| elve | 8 | 7,837 | 2026-11-18T16:31 |
+| amvgg | 8 | 38,114 | 2026-11-18T16:45 |
+| elve | 8 | 7,913 | 2026-11-18T16:46 |
 
-## AMVGG completed trades: 32,520 total
+## AMVGG completed trades: 32,563 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 2,447 |
+| 2026-11-18 | 2,490 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 16:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:40 | **Milesha1107**: Nessie (NFR) | **EricCasper**: Dango Penguins (N), Slime (N), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 16:40 | **Remonaplo**: Ride-A-Pet Potion, Boohoo (M) | **llya3348**: Pet Handler Pro Certificate |
-| 16:40 | **millesww777**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion ×4 | **PUPUNIHA**: Candicorn (FR) |
-| 16:40 | **seb_ihhh**: Candicorn (FR) | **PUPUNIHA**: Fallow Deer (NFR) |
-| 16:40 | **fartingpook367**: Peppermint Penguin (FR) | **xXcupcake012009**: Cabbit (FR), Pink Cat Ear Headphones, Heart Bow, Fly-A-Pet Potion |
-| 16:36 | **lovelymaner**: Giant Panda (FR), Binturong (MFR), Mushroom Friend (MFR), Cuddly Candle (MFR), Winged Horse (MFR), Panda (MFR), S'mores Raccoon (MFR), Lynx (MR), Onza (MR) | **leruval**: Frost Dragon (FR) |
-| 16:36 | **xx_sunny2003**: Border Collie (MFR) ×2, Owl (FR) ×2, Elephant, Elephant (FR), Cow Calf (MFR) | **masterofsponges**: Bat Dragon (FR) |
-| 16:36 | **s_coki**: Cabbit (NFR) | **nAtiLiAoh**: Dalmatian (FR), Fly-A-Pet Potion |
-| 16:36 | **XL4IL4_FGYX**: Hopbop (M) | **flowerist0w04577**: Paint Sealer ×12 |
-| 16:36 | **marmelat_564**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×4 | **Vitek_228666**: Turtle (R) |
-| 16:36 | **TaPok228pon**: Candicorn (R), Flash Weasel (R), Shark Puppy (R), Aurora Fox, Ghostly Cat (M), Waffle Wyrm (MR), Ride-A-Pet Potion | **prorabik_krytou**: Naughty Mistletroll (MFR) |
-| 16:36 | **Ashleyy_xty**: Chocolate Dutch Guinea Pig ×2, Chocolate Chow-Chow | **Ksu_lovesssO**: Ride-A-Pet Potion ×3 |
-| 16:36 | **AmvggPi0n41K**: Aurora Fox (R), Glacier Kitsune (R), Ice Wolf (R), Munchkin Cat, Ride-A-Pet Potion | **Wea4ka3**: Turtle (FR) |
-| 16:30 | **Nanax_8907**: Fly-A-Pet Potion ×4 | **werlianess**: Strawberry Shortcake Bat Dragon Backpack |
-| 16:30 | **S0nicN0va1988**: Endangered Egg ×4 | **yasmin_2012o**: Electric Hornet ×2 |
+| 16:45 | **kiff_shik**: Mini Pig (FR), Munchkin Cat (FR), Fly-A-Pet Potion ×6, Ride-A-Pet Potion, Silly Duck | **N0vaC0r3cPV0rt3xu126**: Strawberry Shortcake Bat Dragon (FR) |
+| 16:45 | **loric_grbs**: Aurora Fox (MFR), Haetae (FR), Parrot (FR), Owlbear | **StannyStarPets**: Mini Pig (MFR) |
+| 16:45 | **sensntive**: Dragonfruit Fox (N), Many Mackerel | **rosy2357394**: Border Collie (FR) |
+| 16:45 | **sab_girlsab**: Strawberry Shortcake Bat Dragon (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **XxPastelliox**: Cow (NFR) |
+| 16:45 | **Vitek_228666**: Fly-A-Pet Potion ×9 | **AsianIceCold**: Ride-A-Pet Potion ×16 |
+| 16:45 | **prezervativkotika**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pretty Pony (R), Pupcake, Pupcicle | **iuvzjules**: Pupcake (M) |
+| 16:45 | **Vitek_228666**: Arctic Fox (R) | **qwx0axx**: Ride-A-Pet Potion ×7 |
+| 16:45 | **layan1i0**: Copycat (R) | **picugtvpriviegucii**: Phantom Dragon (R) |
+| 16:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×3 | **jdhsjska7**: Christmas Pudding Pup |
+| 16:45 | **lox_dyraska**: Crystal Egg ×15 | **noonecares11204**: Ride-A-Pet Potion |
+| 16:45 | **cupcakestar786**: Christmas Pudding House, Galapagos Sea Lion | **floricica_0502**: Mrs. Whiskerpips ×2 |
+| 16:45 | **bigmacburger_0**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2 | **Dwolify**: Cabbit (R), Christmas Pudding Pup |
+| 16:45 | **irinka6543**: Fly-A-Pet Potion, Ride-A-Pet Potion, Peregrine Falcon (NFR) | **gTheGamerProYTg**: Polar Bear |
+| 16:45 | **Slender202404**: Christmas Pudding Pup, Sakura Spirit (FR) | **SoLost666**: Munchkin Cat (FR), Ride-A-Pet Potion |
+| 16:45 | **vanillqsz**: Ride-A-Pet Potion, Admin Abuse Box ×2, Rubber Ducky Box, Endangered Egg ×3, Fairytale Egg ×6, Retired Egg ×5 | **Licornelillyb**: Golden Chow-Chow |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
