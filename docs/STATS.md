@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 05:11 UTC by the scrape workflow._
+_Updated 2026-11-18 05:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 05:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 27,335 | 2026-11-18T05:00 |
-| elve | 8 | 5,738 | 2026-11-18T05:01 |
+| amvgg | 8 | 27,564 | 2026-11-18T05:15 |
+| elve | 8 | 5,788 | 2026-11-18T05:16 |
 
-## AMVGG completed trades: 30,747 total
+## AMVGG completed trades: 30,752 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 674 |
+| 2026-11-18 | 679 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,11 @@ _Updated 2026-11-18 05:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:15 | **Leo4cestud1oTV**: Pain au Chat ×2 | **Local_bacon026**: Pupcicle |
+| 05:15 | **Halseyrs**: Pain au Chat | **zjnxhdn**: Pupcake |
+| 05:15 | **Ruperto_1297**: Cow (FR) | **v6mpireeee**: Fly-A-Pet Potion ×16 |
+| 05:15 | **Jeremibus2012**: Alpaca (R), Corn Doggo (NR), Corn Doggo (N), Goose (R), Happy Clam (NR), Mini Pig (R), Pig (N), Pink Cat (R), Undead Jousting Horse, Werewolf (R), Candicorn, Matcha Cat (R), Matcha Cat, Glacier Kitsune (R) ×3, Werewolf (FR), Brown Bear (NFR) | **leruval**: Frost Dragon (FR) |
+| 05:15 | **Jeremibus2012**: Alpaca (R), Corn Doggo (NR), Corn Doggo (N), Goose (R), Happy Clam (NR), Mini Pig (R), Pig (N), Pink Cat (R), Undead Jousting Horse, Werewolf (R), Candicorn, Matcha Cat (R), Matcha Cat, Glacier Kitsune (R) ×3, Werewolf (FR), Brown Bear (NFR) | **leruval**: Frost Dragon (FR) |
 | 05:11 | **p_lutoni**: Goose (FR), Strawberry Tortle (R), Lamb (NR) | **mariawoiksi**: Strawberry Shortcake Bat Dragon (FR) |
 | 05:11 | **phoenixspotYT**: Strawberry Shortcake Bat Dragon (FR), Arctic Fox, Ride-A-Pet Potion | **Vika_pacanka**: Cow (FR), Turtle (R), Albino Monkey (R) |
 | 05:11 | **wskdaks**: Shark Puppy (R) | **XxArmy_UvUxX**: Pupcicle (NFR), Pupcicle (N) |
@@ -43,11 +48,6 @@ _Updated 2026-11-18 05:11 UTC by the scrape workflow._
 | 05:06 | **Papitascongaseosa_xD**: Royal Moon Egg | **TheEndlessFlower**: Ride-A-Pet Potion ×2 |
 | 05:06 | **Papitascongaseosa_xD**: Fool Egg | **TheEndlessFlower**: Ride-A-Pet Potion ×2 |
 | 05:06 | **Marvinbbxd**: Shark Puppy (MFR), Unicorn (NR) | **4evxer**: African Wild Dog |
-| 05:06 | **HOLYRIEGO**: Ride-A-Pet Potion ×16 | **doodlebobplays123**: Haetyphoon |
-| 05:06 | **Haunting_Eden**: Undead Jousting Horse (R) | **airascoolalt**: Haetyphoon, Cow Calf (M), Moose Calf, Tree Kangaroo, Husky, Bunny Swirl (N), Zodiac Minion Chick (M) |
-| 05:06 | **Ruperto_1297**: Kangaroo (FR) | **getsdar**: Ride-A-Pet Potion ×16 |
-| 05:06 | **chip40060**: Fly-A-Pet Potion | **AASDRT_II**: Dragonfruit Fox |
-| 05:06 | **rastafarismo10**: Giant Panda (FR), Tiny Wings, Cherry-On-Top | **knorwiq**: Cryptid (FR), Strawberry Shortcake Bat Dragon, Harp Seal (M) |
 
 ## Elvebredd value changes: 62,281 since 2023-09-16
 
