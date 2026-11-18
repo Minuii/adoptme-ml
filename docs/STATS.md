@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 02:10 UTC by the scrape workflow._
+_Updated 2026-11-18 02:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-18 02:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 8 | 24,562 | 2026-11-18T02:00 |
-| elve | 8 | 5,167 | 2026-11-18T02:01 |
+| amvgg | 8 | 24,791 | 2026-11-18T02:15 |
+| elve | 8 | 5,217 | 2026-11-18T02:16 |
 
-## AMVGG completed trades: 30,377 total
+## AMVGG completed trades: 30,385 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 304 |
+| 2026-11-18 | 312 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,6 +33,14 @@ _Updated 2026-11-18 02:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:15 | **Belen7267**: Copycat, Catte ×2 | **soycutesiono**: Fly-A-Pet Potion ×4 |
+| 02:15 | **narcy6so**: Turtle (MFR), Haetae (R), Cow (R), Strawberry Penguin (R), Ride-A-Pet Potion | **jjjerrke12**: Frost Dragon (FR) |
+| 02:15 | **Doodleboodle654**: Mermicorn (NFR), Winged Tiger (NFR), Copycat (N), Hare | **Cinzsins**: Shark Puppy (MFR), Shark Puppy (NFR) |
+| 02:15 | **Josuwu892**: Pupcake (R) | **ekekdjjdd**: Ride-A-Pet Potion |
+| 02:15 | **Unknown_Entity1213**: Frost Dragon (FR), Tiny Wings, Ride-A-Pet Potion ×3 | **cakeheheheheheh**: Haetae, Fairy Bat Dragon (NFR), Dalmatian (FR) |
+| 02:15 | **Katarina22235**: Strawberry Shortcake Bat Dragon (NFR), Rainbow Maker | **otonite7**: Hedgehog (FR) ×2 |
+| 02:15 | **CKaiser5689**: Ram | **NICOLE_fofinha3578**: Silly Duck |
+| 02:15 | **Barbaralvesantos**: Caelum Cervi (NR) | **GrindAccount_N1**: Hippogriff (MFR), Singularity Beetle (M), Crab (M), Orange Betta Fish (M), River Otter (M), Ankylosaurus (M) |
 | 02:10 | **Alexa_76011**: Banana Hat | **Papitascongaseosa_xD**: Cotton Candy Hat |
 | 02:10 | **floralplum**: Paint Sealer ×18 | **ihitmyheadonwalls2**: Fly-A-Pet Potion |
 | 02:06 | **Elwanizk**: Ride-A-Pet Potion | **cchloecrichtonsecret**: Crystal Egg ×12 |
@@ -40,14 +48,6 @@ _Updated 2026-11-18 02:10 UTC by the scrape workflow._
 | 02:06 | **seongjohanJ**: Royal Moon Egg ×2 | **Papitascongaseosa_xD**: Fool Egg |
 | 02:06 | **Leviio0**: Candicorn, Goat (NFR), Rose Dragon (NR), Tortuga de la Isla (FR) | **copyvoting**: Strawberry Shortcake Bat Dragon (FR) |
 | 02:06 | **IDFeelAnything**: Field Mouse (MFR), Cheetah (MFR), Fallow Deer (MFR), Nessie (MFR), Owlbear (MFR), Tree Kangaroo (MFR), Majestic Pony (MFR), Turtle (MFR), Goat (MFR), Alley Cat (MFR) ×2, Cow (MFR), Groundhog (MFR), Glormy Hound (MFR), Flaming Fox (MFR), Goose (MFR), Ice Cream Hermit Crab (MFR), Turtle (NFR) | **copyvoting**: Owl (MFR) |
-| 02:06 | **copyvoting**: Parrot (FR) ×3, Balloon Unicorn (FR), African Wild Dog (FR), Haetae (FR), Evil Unicorn (FR) ×2, Alpaca (NFR), Mini Pig (NFR), Evil Unicorn, Candicorn, Cryptid (FR) | **myfav_QUOICOUBEH**: Owl (MFR), Burger Bear (MFR) |
-| 02:06 | **kendhqliyk**: Royal Mistletroll, Elephant (R), Pupcicle (N) | **remona223**: Mini Pig (FR) |
-| 02:06 | **Eugenia873**: Cow (FR), Kangaroo (FR) ×2, Candyfloss Mega Neon Paint | **op_con0**: Cow (NFR) |
-| 02:06 | **iliriano0**: Arctic Reindeer (MFR), Strawberry Shortcake Bat Dragon (FR) | **Mhtrading**: Blazing Lion (NFR) |
-| 02:06 | **ZXCFBMGG**: Blazing Lion (FR), Blazing Lion (R), Dalmatian (FR), Kangaroo (NFR), Meerkat (NFR), Aurora Fox, Latte Kitsune (R) ×2 | **disyvx**: Giraffe (FR) |
-| 02:06 | **Josuwu892**: Rainbow Maker, Fly-A-Pet Potion, Banana Hat | **Jaeebirddd**: Strawberry Shortcake Bat Dragon (FR) |
-| 02:06 | **copyvoting**: Grim Dragon (NFR), Vampire Dragon (NR), Grim Dragon (FR), Jester Dragon (N), Rainbow Dragon (NFR), Grim Dragon (R) | **sofiaozonopros**: Parrot (FR) |
-| 02:06 | **0BVSWILLOWXO**: Dango Penguins (MFR), Bunny Swirl (MFR) | **violencesoul**: Latte Kitsune (MFR) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
