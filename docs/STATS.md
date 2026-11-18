@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-18 02:31 UTC by the scrape workflow._
+_Updated 2026-11-18 02:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-18 02:31 UTC by the scrape workflow._
 | amvgg | 8 | 25,044 | 2026-11-18T02:30 |
 | elve | 8 | 5,290 | 2026-11-18T02:31 |
 
-## AMVGG completed trades: 30,413 total
+## AMVGG completed trades: 30,437 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-18 | 340 |
+| 2026-11-18 | 364 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
@@ -33,21 +33,21 @@ _Updated 2026-11-18 02:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:30 | **1mochimiffy**: Little Lamb (N) ×4 | **KlennXP**: Ride-A-Pet Potion |
-| 02:30 | **seayrchiin**: Happy Clam (MFR) | **cinammoroll_bun**: Cheetah (MFR), Black Panther (MFR) |
-| 02:30 | **amolanutellaxdxd**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Dutch Guinea Pig (MFR), Strawberry Tortle | **alex00011111**: Cow (MFR) |
-| 02:30 | **0o_Cupcake**: Black Springer Spaniel (MFR), Matcha Cat | **copyvoting**: Super Jetpack, Ghost Wolf (MR) |
-| 02:30 | **Cinzsins**: Cryptid (N), Sakura Spirit (MFR), Munchkin Cat (MFR), Frost Unicorn (NFR), Winged Tiger (NFR), Bush Elephant (NFR), Vampire Dragon (NFR), Copycat (NFR), Caelum Cervi (NFR), Lion Cub (NFR), Shrew (N), Latte Kitsune (NFR), Black-Chested Pheasant, Tiny Wings | **rararawrdinosaur_7**: Bat Dragon (FR) |
-| 02:30 | **Dfwshanee**: Cryptid (R) | **bayroncol**: Frostbite Bear (FR), Grim Dragon (FR), Fairy Bat Dragon (FR), Cow (FR) |
-| 02:25 | **1Biahsz_altx**: Ride-A-Pet Potion | **soisomin**: Angus Cow (M) |
-| 02:25 | **HE4RTS_4CECE**: Dango Penguins (MFR), Christmas Pudding Pup (MFR) | **pillowmommy**: Siamese Cat (MFR) |
-| 02:25 | **vanillqsz**: Ride-A-Pet Potion ×2, Admin Abuse Box, Rubber Ducky Box, Endangered Egg, Retired Egg ×2, Fairytale Egg ×2 | **Sillykily0**: Dragonfruit Fox |
-| 02:25 | **violencesoul**: Merry Mistletroll (MR), Happy Duckling (MR), Flower Power Duckling (MR), Chihuahua (MFR), Bunny Swirl (MFR) | **q_culvs**: Aestus (MFR) |
-| 02:25 | **Liquidsmooth33**: Latte Kitsune | **Kristinabillottii**: Temple Friend, Dragon, Ancient Dragon, Oakee Wizard, Tealwood Monster, Easter Bunny, Huntsman Robin, Golden Griffin, Glormy Crab, Diamond Griffin, Glormy Dolphin, Griffin, Axolotl |
-| 02:25 | **Computerdude127**: Pupcicle (MFR) | **C4ndy_KoRnn**: Mermicorn (FR) |
-| 02:25 | **vupxric**: Ice Cream Cone Hat, Celebration Firework Launcher, Pirate Hat | **AutumnVibes57**: Chinese Lantern |
-| 02:25 | **manzanin049**: Tortuga de la Isla (FR), Evil Unicorn (R) | **qlltm**: Chocolate Chip Bat Dragon (FR), Mini Pig (FR) |
-| 02:25 | **Alycialolpop1**: Ride-A-Pet Potion | **yeyr7r71**: Black Springer Spaniel |
+| 02:40 | **Rosi_oke**: Turtle (NFR), Fly-A-Pet Potion | **IconsChew**: Candy Hare (MFR) |
+| 02:40 | **Rosi_oke**: Kangaroo (FR) | **SoLost666**: Polar Bear (NFR) |
+| 02:40 | **kakashka_lol35**: Glyptodon (N), Dodo (R) | **Spralliiig**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 02:40 | **djwestie**: Rainbow Maker | **Chikity19**: 2022 Birthday Party Horn, 2022 Birthday Party Hat, Pupcicle (MFR) |
+| 02:40 | **maddiea1982**: Toaster Hat ×2 | **GalaxyCat_X5**: Shrew (N) |
+| 02:40 | **Diaperbunnie**: Mighty Haetyphoon Animated Sticker | **Pawxxzzzzzzz**: Chihuahua |
+| 02:40 | **Babyofy5**: Candicorn (FR), Pet Handler Pro Certificate, Catte | **baby_demonakakj**: Unicorn Horn |
+| 02:40 | **ivilin_04**: Cow (FR), Ride-A-Pet Potion | **Santywut1**: Goose (FR) |
+| 02:40 | **Wolfie4567ty**: Golden Penguin (NFR) | **Domonic8hard**: Fly-A-Pet Potion ×4 |
+| 02:40 | **reserbadong2**: Parrot (NFR) | **evokefairy**: Balloon Unicorn (FR), African Wild Dog (FR), Dragonfruit Fox (MFR), Happy Clam, Dire Wolf (M) |
+| 02:40 | **jsjsjsjssjs123**: Candicorn (NFR), Arctic Reindeer (R), Chocolate Chip Bat Dragon | **heavsns**: Parrot (FR) |
+| 02:40 | **jsjsjsjssjs123**: Chocolate Chip Bat Dragon (FR), Candicorn (NFR), Arctic Reindeer (R) | **heavsns**: Parrot (FR) |
+| 02:40 | **jsjsjsjssjs123**: Chocolate Chip Bat Dragon (FR), Candicorn (NFR), Arctic Reindeer (R) | **heavsns**: Parrot (FR) |
+| 02:40 | **BIg_BoRdy**: Red Squirrel (MFR) | **kjm_5741**: Chihuahua ×4, Peachick ×4, Orange Butterfly, Blue Ringed Octopus, Panda (FR), Drake, Lamb, Happy Duckling ×2, Toasty Red Panda ×2, Highland Cow |
+| 02:40 | **h4_cd**: Pet Handler Pro Certificate | **xolvrxo**: Tealwood Monster (M) |
 
 ## Elvebredd value changes: 62,129 since 2023-09-16
 
