@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 01:31 UTC by the scrape workflow._
+_Updated 2026-11-19 01:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 01:31 UTC by the scrape workflow._
 | amvgg | 9 | 24,146 | 2026-11-19T01:30 |
 | elve | 9 | 4,803 | 2026-11-19T01:31 |
 
-## AMVGG completed trades: 34,190 total
+## AMVGG completed trades: 34,216 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 194 |
+| 2026-11-19 | 220 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 01:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:30 | **OBVADDISONN0**: Moon Rabbit (M) | **catsr0dina**: Phantom Dragon (F), Aurora Fox (R) |
-| 01:25 | **hwnjhyunnjj**: Haetae (FR) | **sleepy_s0ren**: Cabbit (NFR), Mini Pig (FR) |
-| 01:25 | **Dateflud**: Karate Gorilla ×2 | **AsmioTakeW**: Fly-A-Pet Potion |
-| 01:25 | **minv9a**: Sasquatch (MFR) | **littlefelonies**: Amami Rabbit (N) ×2, Stygian Owl (M) |
-| 01:25 | **AMOANICOLE78**: Fairy Bat Dragon (FR) | **TURQUESAPLUSHD**: Hive Backpack |
-| 01:25 | **xch4rl0ttx3**: Goose (MFR), Chihuahua (MFR), Copycat | **Doodleboodle654**: Mermicorn (MFR) |
-| 01:25 | **Stevieicecream16**: Clementine Owl (N), Pupcake (N), Chocolate Dutch Guinea Pig (R) | **BR4Y4N1027**: Pupcicle (N) |
-| 01:25 | **joshsawsy**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 | **ikabackflip**: Elephant (FR) |
-| 01:25 | **chocolatelover123426**: Siamese Cat | **Cinder_222**: Unicorn Horn, Ride-A-Pet Potion |
-| 01:25 | **SanAndres404**: Alley Cat (MFR), Firefly (NFR) | **zarmeowz**: Munchkin Cat (NR), Peppermint Penguin (FR) |
-| 01:25 | **wafy_3mk**: Strawberry Shortcake Bat Dragon (FR) ×2, Kangaroo (FR), Meerkat | **mdz_1219**: Crow (FR) |
-| 01:25 | **N0AH_XRM**: Bee (MFR), Catte (N), Skelicorn | **dorito_elpro2020**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
-| 01:25 | **yuri_dragon32**: Candyfloss Chick (MFR), Toaster Hat, Ice Cream Hermit Crab (MFR), Moon Rabbit (M), Firefly | **Antonnyalexander2009**: Owl (FR), Balloon Unicorn (R) |
-| 01:25 | **gg_01841**: Munchkin Cat (MR), Binturong (MFR), Hare (NFR), Ghostly Cat (MR), Fly-A-Pet Potion | **decayinggdollzz**: Jellyfish (MFR) |
-| 01:25 | **natedgreatGotBanned**: 2022 Birthday Confetti Cannon | **ST3LL4_II**: Haetyphoon |
+| 01:40 | **cxar_25**: Albino Monkey (FR) | **AsmioTakeW**: French Bulldog (MFR) |
+| 01:40 | **Itz_Yashka**: Jellyfish (MFR), Rainbow Maker, Toy Monkey (MFR), Happy Duckling (MFR), Seabed Creeper (MR), Capricorn (NFR) | **rastafarismo10**: Tortoiseshell Guinea Pig (MFR) |
+| 01:40 | **rastafarismo10**: Pupcicle (N), Pupcicle | **soulnesy**: Chocolate Dutch Guinea Pig (N) |
+| 01:40 | **nornomm**: Spring Bunny Hood, Butter Knife, Bunny Plush | **Lxdyxx**: Ram (N) |
+| 01:40 | **Ribocoo12**: Hopbop (M) | **AsmioTakeW**: Ride-A-Pet Potion |
+| 01:40 | **ADMaltSUSHI3**: Winged Tiger (FR) | **TwistedK1tty**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion |
+| 01:40 | **mofncufjs**: Soulfire Animated Sticker, Admin Abuse Egg ×3 | **littlefelonies**: Mexican Wolf ×18 |
+| 01:40 | **donnotinteract**: Cabbit (NFR), Propeller Hat, Fly-A-Pet Potion, Spring Bunny Hood ×2, Ride-A-Pet Potion ×10 | **blvvyiiskiies**: Goose (FR) ×2, Hot Doggo (FR) |
+| 01:40 | **violencesoul**: 2022 Birthday Party Hat ×2, Tiny Wings | **BibbleFairy_9**: Goose (R), Siamese Cat, Head Chef |
+| 01:36 | **Roblox_King8751**: Cow (FR) | **RV282**: Jekyll Hydra (FR) |
+| 01:36 | **Lxdyxx**: Dancing Dragon (NFR) | **littlefelonies**: Chocolate Dutch Guinea Pig (N), Ghost Bunny (NR), Cattuccino (M) |
+| 01:36 | **TANSKlN**: 2022 Birthday Party Hat, Shark Puppy (N), Turtle (FR), Irish Water Spaniel (NFR), Albino Monkey (FR), Tiny Wings, Rain Cloud Hat, Ice Wolf (FR) | **gjfurgd1234**: Albino Monkey (MFR) |
+| 01:36 | **exorcciism**: Rainbow Maker ×2, 2022 Birthday Cake ×2, Unicorn Horn, Rain Cloud Hat, 2022 Birthday Confetti Cannon, 2022 Birthday Party Horn, Dango Penguins (MFR) ×2, Bush Elephant (NFR), Puffer Fish (MFR) | **xxSoftiee_xx**: Mini Pig (MFR) |
+| 01:36 | **nornomm**: Aviator Hat, Bat Wings, Ride-A-Pet Potion | **Sp1nd_sh**: Pancake Stack |
+| 01:36 | **jrnics2q226**: Irish Water Spaniel (MFR), Candicorn (NFR), Kangaroo (NFR), Cow (FR), Mermicorn (FR), Turtle (FR), 2022 Birthday Party Hat ×2 | **NathanPlayz83**: Crow (NFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
