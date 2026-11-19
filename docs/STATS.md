@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 03:11 UTC by the scrape workflow._
+_Updated 2026-11-19 03:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 03:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 25,518 | 2026-11-19T03:00 |
-| elve | 9 | 5,086 | 2026-11-19T03:01 |
+| amvgg | 9 | 25,731 | 2026-11-19T03:15 |
+| elve | 9 | 5,117 | 2026-11-19T03:15 |
 
-## AMVGG completed trades: 34,415 total
+## AMVGG completed trades: 34,418 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 419 |
+| 2026-11-19 | 422 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,9 @@ _Updated 2026-11-19 03:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:15 | **silver_fur999**: 2D Kitty (R) | **madurra012**: Pupcicle |
+| 03:15 | **Ruperto_1297**: Kangaroo (FR) | **0MGSARAY**: Ride-A-Pet Potion ×16 |
+| 03:15 | **JorgeEduardo_123**: Rainbow Stroller, Tiffany | **dnei30fast**: Ride-A-Pet Potion |
 | 03:11 | **BhaabieeRaaii**: Pineapple Owl (MFR), Moose Calf | **lizzy45677l**: Dango Penguins (MFR), Red Sand Dollar (MFR) |
 | 03:11 | **BUS5ED**: Ride-A-Pet Potion | **DomieDum_Lol**: Dragonfly (NFR) |
 | 03:06 | **iXxBrixX**: Werewolf (NFR), Jester Dragon (NFR) ×2, Sloth (MFR) | **lolcryabtit6767**: Arctic Dusk Dragon (MFR), Arctic Dusk Dragon (NFR) |
@@ -46,9 +49,6 @@ _Updated 2026-11-19 03:11 UTC by the scrape workflow._
 | 03:06 | **kaylamicmi**: Polar Bear (NFR), Fly-A-Pet Potion | **Juvellia_5**: Happy Duckling (MFR), Harp Seal (N) |
 | 03:06 | **wskdaks**: Ice Cream Hermit Crab (MFR), Fly-A-Pet Potion | **YUMIIMOTHZZ**: Brown Bear (NFR), Chihuahua (M), Arctic Fox (FR), Black Springer Spaniel (NFR), Santa Hat, Elf Hat |
 | 03:06 | **CookieCrumbs_l**: Siamese Cat (R), Tiny Wings | **MatiXD12306**: Cerberus (MFR) |
-| 03:06 | **sweetn6thing**: Toaster Hat | **playerbunbready**: Tiny Wings |
-| 03:06 | **wskdaks**: Ballet Swan | **Miqaima_3**: Skelicorn (MFR) |
-| 03:06 | **goofy_bro20**: Ballet Swan (MFR), Ride-A-Pet Potion ×5 | **LeonardBass28273**: Candicorn (NFR), 2022 Birthday Party Hat, Turtle (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
