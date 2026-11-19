@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-19 00:11 UTC by the scrape workflow._
+_Updated 2026-11-19 00:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 15 | 2026-11-11T1036Z | 2026-11-18T0245Z |
+| elve | 16 | 2026-11-11T1036Z | 2026-11-19T0015Z |
 | amvgg | 44 | 2026-11-11T1036Z | 2026-11-18T2215Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 22,655 | 2026-11-19T00:00 |
-| elve | 9 | 4,564 | 2026-11-19T00:01 |
+| amvgg | 9 | 22,911 | 2026-11-19T00:15 |
+| elve | 9 | 4,583 | 2026-11-19T00:15 |
 
-## AMVGG completed trades: 34,026 total
+## AMVGG completed trades: 34,045 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 30 |
+| 2026-11-19 | 49 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,41 +34,41 @@ _Updated 2026-11-19 00:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:11 | **clumhsy**: Mochi Meow (MFR), Ride-A-Pet Potion | **Snow_micasita**: Maine Coon (MFR) |
-| 00:11 | **VenusD7607**: Ride-A-Pet Potion ×4 | **Hanameyga_faustina2**: Ring-Tailed Lemur (R) |
-| 00:11 | **Angelbatista_me2**: Haetyphoon, Tuxedo Cat (M) | **Unboxing2akk**: Fairy Bat Dragon (FR) |
-| 00:06 | **SheilaPlays12**: Count Slothula, Chameleon | **Melany_DeNuevo**: Ride-A-Pet Potion |
-| 00:06 | **cvvxsen**: Giant Panda (FR) | **Lxdyxx**: Siamese Cat (MFR) |
-| 00:06 | **iiSimply_bear**: Unicorn Horn, Fly-A-Pet Potion, Bready Necklace | **areezyss**: Candicorn, Malaysian Tapir (M), Cockroach (M) |
-| 00:06 | **giovvanna7423**: Unicorn (NFR), Glormy Hound (NR), Ride-A-Pet Potion, Banana Hat | **SweetVqniIIa**: Unicorn (MFR) |
-| 00:06 | **siesie09_x**: Rain Cloud Hat ×2, Ice Cream Cone Hat, Hare, Pink Cat Ear Headphones | **Lilyanaa_p**: Candicorn (NFR) |
-| 00:06 | **lupoouu2**: Ice Wolf (MFR), Alpaca (R), Mermicorn (R) | **Babyofy5**: Orchid Butterfly |
-| 00:06 | **Ashkey094**: Cow (FR), Bunny Swirl (MFR) | **belluhkat**: Snow Monkey (MFR) |
-| 00:06 | **adivertirte**: Chihuahua | **Chippichappa2222**: Pain au Chat |
-| 00:06 | **natedgreatGotBanned**: Cryptid (R) | **ben_nontawat**: Tio De Nadal ×2, Turtle (FR), 2022 Birthday Confetti Cannon ×3 |
-| 00:06 | **Furry_lechuga**: Munchkin Cat | **deathByTheShores**: Pancake Stack, Copycat, Ride-A-Pet Potion |
-| 00:06 | **Rylo122414**: Ice Cream Hermit Crab (M), English Sheepdog (MFR), Puffer Fish (MFR), Red Sand Dollar (MFR), Nautilus (MFR) | **DrHarperbuildz17**: Field Mouse (MFR) |
-| 00:06 | **vryxsian**: Retired Egg ×4 | **wolllll11**: Christmas Dog Sticker ×2 |
+| 00:15 | **gracesbiggestttffan**: Arctic Reindeer (FR), Fairy Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR), Munchkin Cat (NFR), Tiny Wings | **SkaterPlayzQueen2016**: Cryptid (NFR) |
+| 00:15 | **madmeaner**: Balloon Unicorn, African Wild Dog (FR), Crow (FR), Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) ×2, Arctic Reindeer (FR) ×2, Grim Dragon (FR) ×2, Dalmatian (FR), Werewolf (FR), Halo, Angel Wings, Ice Cream Cone Hat, Tiny Wings | **sweetn6thing**: Frost Dragon (FR) ×4 |
+| 00:15 | **lexifox513**: Panda (MFR), Chocolate Dutch Guinea Pig (MFR), Puffer Fish (MFR), Pupcake (MFR), 2022 Birthday Party Horn | **jose_eduardoX93**: Moose Calf (MFR), Royal Corgi (MFR) |
+| 00:15 | **misxsuki**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Vampire Dragon (FR) | **clcl4567**: Kitty Bat (MR) |
+| 00:15 | **tula4322212**: Alpaca (FR), Candicorn (FR), Haetyphoon, Pig (R), Alley Cat | **atqraxii_a**: Strawberry Shortcake Bat Dragon (FR) |
+| 00:15 | **keissitojf**: Tiny Wings ×2 | **wakeupbrighteyes**: Unicorn Horn |
+| 00:15 | **ellawelladoodah**: Rainbow Maker, White Sand Dollar (MFR), Siamese Cat (FR), Unicorn Backpack | **Jana_ashtetic**: Cryptid (FR) |
+| 00:15 | **unknown_282012a**: Ocelot (M) | **diiv_iine**: Kitty Biscuit |
+| 00:15 | **rora_rroar**: Candicorn, Goldhorn (NFR) | **oh_eql**: Turtle |
+| 00:15 | **asana6090**: Munchkin Cat (NFR), Fly-A-Pet Potion | **Chxssxn**: Cow (FR) |
+| 00:15 | **Bia_salgadin**: Undead Jousting Horse (NFR), Pirate Hat, Eyepatch | **Shadx_1553**: Undead Jousting Horse (N) |
+| 00:15 | **aleks2u**: Evil Unicorn (FR), Ballet Swan (NFR), Latte Kitsune (NFR), Pig (R), Skelicorn (MR), Nutcracker Squirrel (NFR), Ride-A-Pet Potion ×2, Gemstone Egg, Gold Tiara | **S3r3nacayne**: Crow (FR) |
+| 00:15 | **zevhjnda**: Elephant (FR), Pet Handler Pro Certificate, Cerberus (R) | **Lerafjfffj4548**: Kangaroo (FR) |
+| 00:15 | **Ashdorae**: Ride-A-Pet Potion ×9 | **Angelbatista_me2**: Munchkin Cat |
+| 00:15 | **Imatellya1**: Alley Cat (MFR), Amethyst Skies Mega Neon Paint | **tradinguser1210**: Border Collie (NFR) |
 
-## Elvebredd value changes: 62,281 since 2023-09-16
+## Elvebredd value changes: 62,375 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-18 02:17 | Count Slothula | mega fly ride | 21.2 | 20.2 |
-| 2026-11-18 02:17 | Count Slothula | neon fly ride | 5.05 | 4.8 |
-| 2026-11-18 02:17 | Count Slothula | default no potion | 0.85 | 0.8 |
-| 2026-11-18 02:17 | Jester Dragon | mega fly ride | 116 | 112 |
-| 2026-11-18 02:17 | Jester Dragon | default no potion | 6.75 | 6.5 |
-| 2026-11-18 02:17 | Strawberry Tortle | mega fly ride | 600 | 580 |
-| 2026-11-18 02:17 | Strawberry Tortle | neon fly ride | 148 | 143 |
-| 2026-11-18 02:17 | Strawberry Tortle | default no potion | 36 | 34.5 |
-| 2026-11-18 02:17 | Tuxedo Cat | mega fly ride | 26 | 24.4 |
-| 2026-11-18 02:17 | Tuxedo Cat | neon fly ride | 6.25 | 5.85 |
-| 2026-11-18 02:17 | Tuxedo Cat | default no potion | 1.08 | 1 |
-| 2026-11-18 02:17 | Bunny Swirl | mega fly ride | 12.2 | 12.6 |
-| 2026-11-18 02:17 | Bunny Swirl | neon fly ride | 2.8 | 2.9 |
-| 2026-11-18 02:17 | Bunny Swirl | default no potion | 0.4 | 0.42 |
-| 2026-11-18 02:17 | Giant Panda | mega fly ride | 2700 | 2715 |
+| 2026-11-19 00:06 | Flash Weasel | mega fly ride | 312 | 304 |
+| 2026-11-19 00:06 | Flash Weasel | neon fly ride | 74 | 72 |
+| 2026-11-19 00:06 | Flash Weasel | default no potion | 17 | 16.75 |
+| 2026-11-19 00:06 | Haetyphoon | mega fly ride | 320 | 308 |
+| 2026-11-19 00:06 | Haetyphoon | neon fly ride | 76 | 73 |
+| 2026-11-19 00:06 | Haetyphoon | default no potion | 17.5 | 17 |
+| 2026-11-19 00:06 | Copycat | mega fly ride | 130 | 126 |
+| 2026-11-19 00:06 | Copycat | neon fly ride | 32 | 31 |
+| 2026-11-19 00:06 | Copycat | default no potion | 7 | 6.75 |
+| 2026-11-19 00:06 | Jester Dragon | mega fly ride | 112 | 108 |
+| 2026-11-19 00:06 | Jester Dragon | neon fly ride | 29 | 28 |
+| 2026-11-19 00:06 | Strawberry Tortle | mega fly ride | 580 | 568 |
+| 2026-11-19 00:06 | Strawberry Tortle | neon fly ride | 143 | 140 |
+| 2026-11-19 00:06 | Strawberry Tortle | default no potion | 34.5 | 34 |
+| 2026-11-19 00:06 | Arctic Dusk Dragon | mega fly ride | 100 | 96 |
 
 ## AMVGG value changes: 7,918 since 2026-06-02
 
