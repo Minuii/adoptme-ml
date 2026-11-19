@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 11:16 UTC by the scrape workflow._
+_Updated 2026-11-19 11:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 11:16 UTC by the scrape workflow._
 | amvgg | 9 | 32,740 | 2026-11-19T11:15 |
 | elve | 9 | 6,449 | 2026-11-19T11:15 |
 
-## AMVGG completed trades: 35,299 total
+## AMVGG completed trades: 35,318 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,303 |
+| 2026-11-19 | 1,322 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 11:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:11 | **lxnxlyXfrxvxr**: Ocelot (M) ×2, California Condor (N) | **Kimyeonii**: Ride-A-Pet Potion |
-| 11:11 | **Pebble_llShelly**: Pupcicle, Puma (N), Muskrat (N) | **Kimyeonii**: Ride-A-Pet Potion |
-| 11:11 | **cauanecanela**: Admin Abuse Egg ×18 | **Mxso_soup8**: Ride-A-Pet Potion |
-| 11:11 | **personal_stalker69**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×8 | **kawaiifaintedgirl**: Turtle (FR) |
-| 11:11 | **kutochka6767**: Kiwi, Choco Penguin | **miraahuntrix**: Ride-A-Pet Potion |
-| 11:11 | **holasoyzuri_yt**: Cow, Husky (NFR) | **Fan_Bogatyrat**: Goose (FR) |
-| 11:11 | **Versqilles**: Halloween White Ghost Dragon (NFR), Goth Shoes, Cryptid, Copycat (R), Spring Bunny Hood, Spring Bunny Feet, Ride-A-Pet Potion, Bready Necklace, Mochi Meow (NR), Leopard Cat (N) | **gooo734**: Siamese Cat (MFR) |
-| 11:11 | **Nicoleee_ily**: Ride-A-Pet Potion ×2 | **milesgabrie12**: Fly-A-Pet Potion |
-| 11:11 | **Its_besty0**: Aussie Egg | **anihao17**: Fly-A-Pet Potion, Ride-A-Pet Potion, Pet Handler Pro Certificate |
-| 11:11 | **flears_brai**: Ride-A-Pet Potion ×3 | **PrincessSweetness111**: Maine Coon (M) |
-| 11:11 | **blackpanterxdpr**: Strawberry Shortcake Bat Dragon (NFR), Stitches (M), Sea Turtle | **xKatexkittyxUwUx**: Fairy Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) |
-| 11:11 | **be10yshev**: Strawberry Shortcake Bat Dragon (MFR) | **leidydamelike**: Owl (FR), Crow (FR), Cow (FR), Goose (FR) |
-| 11:11 | **Sasuke01919199**: Chocolate Dutch Guinea Pig (MR) | **iiSimplyxSkyexx**: Cabbit (FR) |
-| 11:11 | **8enjineji**: Boohoo ×18 | **llkkiop12345**: Ride-A-Pet Potion |
-| 11:11 | **Milka_1230230**: Turtle (FR) ×2, Flamingo (FR), Kangaroo (FR), Ice Cream Cone Hat, Chihuahua (MR) | **ii_aldrin20**: Evil Unicorn (FR) |
+| 11:25 | **yanipepetin787**: Spring Bunny Hood, Bready Necklace, Cupid Dragon (FR), Rose Dragon (FR), Llama, Candy Hare | **00iAngell**: Unicorn Horn |
+| 11:25 | **UltimateLionMantis**: Chihuahua | **Queenas_World**: Golden Jaguar |
+| 11:25 | **cutetel350**: Dragon ×10 | **Cookie_lover13232**: Ride-A-Pet Potion |
+| 11:20 | **a_2lisaa**: Christmas Pudding Pup ×2, Leopard Cat (MR), Ride-A-Pet Potion ×3, Pet Handler Pro Certificate ×2, Ice Cream Stroller | **Reterirbair1989**: Sugar Glider (FR) |
+| 11:20 | **Vanlyzn26**: Unicorn | **w0Lops**: Ride-A-Pet Potion |
+| 11:20 | **Joycline2013**: Sushi Penguin ×4, Ride-A-Pet Potion | **Kira9975335**: Sushi Penguin (N) |
+| 11:20 | **Its_besty0**: Fly-A-Pet Potion, Ride-A-Pet Potion, Lunar White Tiger (R) | **linksss12401**: Lunar White Tiger (MFR) |
+| 11:20 | **NotSweatyOnion**: Ride-A-Pet Potion, Water Moon Bear (N) | **deadpo0l293**: Fly-A-Pet Potion |
+| 11:20 | **AsianIceCold**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×6 | **PRODAZA_STARPETS**: Cabbit (FR) |
+| 11:20 | **cat_anna2003**: Ride-A-Pet Potion | **tisha_sally**: Pain au Chat ×3 |
+| 11:20 | **8enjineji**: Ladybug ×6, King Penguin, Penguin | **GYUGYUBINIM**: Ride-A-Pet Potion |
+| 11:20 | **hello_oliya**: Retired Egg ×2 | **dayn_toxic**: Paint Sealer |
+| 11:20 | **Annsjdnsnjs**: Siamese Cat (MFR) | **bloodymedsss**: Hare (MFR), Arctic Fox (MFR) |
+| 11:20 | **perit4733**: Ride-A-Pet Potion | **Alisa_R00**: Alicorn (NR) |
+| 11:20 | **poortorichy28**: Fly-A-Pet Potion, Ride-A-Pet Potion, Lava Dragon (FR), Chihuahua (R), Axolotl (FR), Robo Dog (FR), Frost Fury (FR), Sushi Penguin (FR), Unicorn (NFR), Dragonfruit Fox (FR), Capricorn (FR), Aussie Egg, Kitsune (FR), Retired Egg ×5 | **NotSweatyOnion**: Silly Duck (MFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
