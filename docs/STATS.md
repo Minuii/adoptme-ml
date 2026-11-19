@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 01:11 UTC by the scrape workflow._
+_Updated 2026-11-19 01:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 01:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 23,671 | 2026-11-19T01:00 |
-| elve | 9 | 4,712 | 2026-11-19T01:01 |
+| amvgg | 9 | 23,904 | 2026-11-19T01:15 |
+| elve | 9 | 4,743 | 2026-11-19T01:15 |
 
-## AMVGG completed trades: 34,141 total
+## AMVGG completed trades: 34,166 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 145 |
+| 2026-11-19 | 170 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 01:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:06 | **thebadbiotcsh**: Chocolate Dutch Guinea Pig (MFR), Harp Seal (MFR), Kiwi Kiwi, Choco Penguin (N) | **9amtrain**: Rainbow Maker |
-| 01:06 | **ALV4RYTO**: Ride-A-Pet Potion ×3 | **crybabydoIl**: Hero Gibbon |
-| 01:06 | **cinnamqnzo**: Matcha Cat (NFR) | **sweetn6thing**: Cow (FR) |
-| 01:06 | **qquiNneye**: Frost Dragon (NFR) ×2, Crow (FR), Siamese Cat (MFR), Rainbow Maker, Tiny Wings | **vh4unted**: Parrot (MFR), Parrot (FR), Frost Dragon (FR) |
-| 01:06 | **pinponkgoku2**: Candicorn (NFR), Strawberry Tortle, Werewolf, Werewolf (FR) | **Legolasisonlymine**: Cryptid (FR) |
-| 01:06 | **hma916**: Bat Dragon (MFR) | **crown12256**: Bat Dragon (NFR), Bat Dragon (FR) ×3, Parrot (FR), Shadow Dragon (FR), Frost Dragon (FR) |
-| 01:06 | **Xxshad0wf0xxX**: Cryptid (FR), 2022 Birthday Cake, Jellyfish (R) | **Jana_ashtetic**: African Wild Dog (FR) |
-| 01:06 | **Wolfie4567ty**: Alley Cat (NFR) | **Byeedontmindme1234**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
-| 01:06 | **ameliacaumeil**: Great Pyrenees (MR), Husky (MR), Mini Schnauzer (MR) | **sweetn6thing**: Alley Cat (MR) |
-| 01:06 | **micaelakdkdn**: Cryptid (R) | **ameliacaumeil**: Alley Cat (MFR), Dragonfruit Fox (MR), Arctic Fox, Winged Tiger |
-| 01:06 | **xiakusu**: Jellyfish (MFR), Irish Elk (MR), Spring Bunny Hood, Unicorn Backpack | **guiderno1234**: Giant Panda (FR) |
-| 01:00 | **gyrex111**: Siamese Cat | **rainbowpie1230y3t**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×9 |
-| 01:00 | **JPrincipeS09**: Ride-A-Pet Potion | **izzybprezleyfan**: Crystal Egg ×16 |
-| 01:00 | **WLWqueeen67**: Candicorn (R), Ride-A-Pet Potion ×3 | **cinnamqnzo**: Siamese Cat (R) |
-| 01:00 | **xyna68**: Strawberry Shortcake Bat Dragon (FR), Mochi Meow Tumble Animated Sticker | **Andrea_Cherrybear**: Unicorn Horn, Rain Cloud Hat, Toaster Hat, Tiny Wings ×2 |
+| 01:15 | **Noahisthebestaltx**: Owl (FR), 2022 Birthday Cake, Lava Wolf (NFR) | **TMDung20**: Fairy Bat Dragon (MFR) |
+| 01:15 | **pankrasiia**: Paint Sealer ×15 | **EriOnSuMa**: Ride-A-Pet Potion |
+| 01:15 | **kaylamicmi**: Goose (R), Alpaca (R) | **wjredmind**: Purple Butterfly (MFR), Fly-A-Pet Potion |
+| 01:15 | **aabeeyg**: Unicorn Horn, Tiny Wings, Cow (NFR) | **J4YNEES**: Cryptid (FR) |
+| 01:15 | **TMDung20**: Strawberry Shortcake Bat Dragon (FR), Goose | **BuenosDias1111**: Evil Unicorn (FR) |
+| 01:15 | **JorgeEduardo_123**: Strawberry Shortcake Bow, Tutu, Flower Beret | **Aslie_17**: Ride-A-Pet Potion |
+| 01:15 | **elproXD_7v7**: Pain au Chat ×5 | **dududdhdjdhd**: Ride-A-Pet Potion ×2 |
+| 01:15 | **Bunny_SuperKawai**: Cupid Dragon (R) | **chicken_kaka7w7**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 |
+| 01:15 | **KiwiKaii21**: Glyptodon (MR) | **Dad_TheGamer528**: Fly-A-Pet Potion ×3 |
+| 01:15 | **cutesyghali**: Swan (MFR), Brown Springer Spaniel (MFR), Water Rabbit (MFR), Mini Schnauzer (MFR), Harp Seal (MFR), Unicorn Horn, Pain au Chat (MFR) | **guiderno1234**: Jellyfish (MFR) |
+| 01:15 | **MaxBoom486**: Peppermint Penguin (R), Munchkin Cat (N), Elf Hat | **guiderno1234**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:15 | **iiMushroom_00**: Fairy Bat Dragon (NFR), Moon Rabbit (MFR), Stray Cat Dragon (M), Goth Shoes, Jeff's Nametag, Cotton Candy Hat | **M00N_122113**: Cryptid (R) |
+| 01:15 | **That0n3DumbG1rl**: Fairy Bat Dragon (FR), Shark Puppy (NFR) | **niyashimo**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:15 | **booluqx**: Cow (FR) | **GrindAccount_N1**: Goldhorn (FR), Golden Rat (FR), Golden Ladybug (FR) ×3, Dragon (FR) ×5, Guardian Lion (FR) ×4, Ring-Tailed Lemur, Munchkin Cat, Skele-Rex (NFR), Stray Cat Dragon (FR) |
+| 01:15 | **Idk_justmeloll**: Ballet Swan (MFR) | **IDFeelAnything**: Fairy Bat Dragon (NFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
