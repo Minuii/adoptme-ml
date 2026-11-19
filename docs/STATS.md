@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 18:40 UTC by the scrape workflow._
+_Updated 2026-11-19 18:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 18:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 39,452 | 2026-11-19T18:30 |
-| elve | 9 | 7,766 | 2026-11-19T18:31 |
+| amvgg | 9 | 39,707 | 2026-11-19T18:45 |
+| elve | 9 | 7,845 | 2026-11-19T18:46 |
 
-## AMVGG completed trades: 36,662 total
+## AMVGG completed trades: 36,678 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,666 |
+| 2026-11-19 | 2,682 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 18:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:40 | **Kainys_urlove**: Caelum Cervi (MFR) | **blushbyelle**: Cupid Dragon (MFR) |
-| 18:40 | **czosnek00**: Fairy Bat Dragon (MFR), Goose (R) | **TT_0qwerty45**: Frost Dragon (FR) |
-| 18:40 | **dameslapsosbflfndk**: Fairy Bat Dragon (FR), Phantom Dragon (FR) | **ksenia_unicorn67**: Candicorn ×2 |
-| 18:40 | **Alecsandra3107**: Cow (FR), Sea Slug (R), Hedgehog (FR) | **BugShot_2**: Balloon Unicorn (FR) |
-| 18:40 | **Elwanizk**: Pain au Chat | **Ksu_lovesssO**: Retired Egg ×18 |
-| 18:40 | **limohq**: Fly-A-Pet Potion | **Milk_20392**: Dragon (M) |
-| 18:40 | **limohq**: Ride-A-Pet Potion ×2 | **Milk_20392**: Dragon (M) |
-| 18:40 | **lypsi0**: Dango Penguins (R) | **million46283**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 18:40 | **Pierro0_0hehe**: Ice Wolf (NFR), Matcha Cat | **6d7d6d66**: Kangaroo (FR) |
-| 18:40 | **lisamod65321**: Chocolate Labrador (M), Ancient Dragon, Dragon, Purrowl (N) | **Pelmeshek201010**: Ride-A-Pet Potion |
-| 18:40 | **Klaysi_flayra**: Black-Footed Ferret, Shih Tzu (M), Nurse Shark (N), Toucan ×2, Skelicorn, 2026 Birthday Butterfly (N), Oakee Knight, Shoebill (N), Crimson Cape ×2, Corgi ×2 | **pwaranoiia**: Ride-A-Pet Potion |
-| 18:40 | **pepapepa333**: Many Mackerel, Pet Handler Pro Certificate, White Chef Hat | **piinkttape**: Matcha Cat |
-| 18:40 | **yyauigui**: White Chef Hat ×2, 2D Box | **hxquip**: Ride-A-Pet Potion |
-| 18:40 | **Fan_deJennaO**: Harp Seal (N) | **pugq33n23**: Ride-A-Pet Potion ×5 |
-| 18:40 | **thepro1bank1**: Kangaroo (R) | **asana6090**: Moon Rabbit (MFR) |
+| 18:45 | **FlyToTheSaturn**: Green-Chested Pheasant (R), Japan Egg ×6, King Bee, Lunar Moon Bear, Lunar Gold Tiger, Moon Egg ×5, Mythic Egg | **SelfL0vktwt**: Unicorn (NFR) |
+| 18:45 | **EgorVieru22891**: Strawberry Penguin (FR), Snowball Pet (FR) | **itsxxazra**: Arctic Fox (FR) |
+| 18:45 | **flears_brai**: Pet Handler Pro Certificate ×9 | **Manggo_Pie40**: Fly-A-Pet Potion ×9 |
+| 18:45 | **xxcrunchy8785xx**: Blue Ringed Octopus (R), Pain au Chat, Mrs. Whiskerpips | **A_ulx**: Chocolate Dutch Guinea Pig |
+| 18:45 | **Elwanizk**: Chihuahua | **Ksu_lovesssO**: Retired Egg ×18 |
+| 18:45 | **Irek3008**: Fly-A-Pet Potion | **stoIencorpses**: Ride-A-Pet Potion ×2 |
+| 18:45 | **stoIencorpses**: Shetland Pony Dark Brown (MR) | **batton0955**: Ride-A-Pet Potion ×2 |
+| 18:45 | **Thresh_1234**: Turtle (FR) | **cosy_sosu**: Kangaroo (FR), Fly-A-Pet Potion ×3 |
+| 18:45 | **garlicbread4537**: Pet Handler Pro Certificate ×3 | **OBVADDISONN0**: Phantom Dragon |
+| 18:45 | **ImN0TheOnly1**: Orangutan ×8, Thunderfisher | **V4MPIR3_001**: Orangutan (N) |
+| 18:45 | **kkaatEEe2**: Pupcicle ×2 | **officsl_n0t**: Fly-A-Pet Potion |
+| 18:45 | **XxkfirxbushxX**: Parrot (FR) ×2, Balloon Unicorn (FR) | **alicehe0601**: Kookaburra (MFR) ×2, Binturong (MFR), Bush Elephant (MFR), Mule (MR), Elephant (NFR), Candyfloss Chick, Frostbite Bear (FR), Turtle, Monkey King (FR) |
+| 18:45 | **STEKLO_FOREST**: Shadow Dragon (FR), Christmas Pudding Pup | **newaccfortradinggg**: Chocolate Chip Bat Dragon (MFR), Cabbit (NFR) |
+| 18:45 | **girlsazaz09**: Llamalush Purse Pet | **stoIencorpses**: Caticorn Rattle |
+| 18:45 | **Milo_vxy**: Silverback Gorilla, Zombie Wolf (NR) | **bobbayakaki**: Burger Bear (M) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
