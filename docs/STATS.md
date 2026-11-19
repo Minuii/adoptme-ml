@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 10:41 UTC by the scrape workflow._
+_Updated 2026-11-19 10:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 10:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 32,107 | 2026-11-19T10:30 |
-| elve | 9 | 6,318 | 2026-11-19T10:31 |
+| amvgg | 9 | 32,321 | 2026-11-19T10:45 |
+| elve | 9 | 6,385 | 2026-11-19T10:46 |
 
-## AMVGG completed trades: 35,234 total
+## AMVGG completed trades: 35,237 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,238 |
+| 2026-11-19 | 1,241 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,9 @@ _Updated 2026-11-19 10:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:45 | **biirdyyy2**: Giant Panda (FR) | **Furret4130**: Strawberry Shortcake Bat Dragon (NFR) |
+| 10:45 | **ll_90dfhj**: Tuxedo Cat (N) ×2, Tuxedo Cat ×8, Peahen, Black Chow-Chow, Peach Owl, Spring Bunny Feet | **yblxssomz**: Tuxedo Cat (MFR) |
+| 10:45 | **rightygf_343**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion, Stray Cat Dragon (N) | **alexandmartinareg**: Siamese Cat (NFR), Rain Cloud Hat |
 | 10:41 | **trainingpilot12**: Elephant (FR) ×9 | **luvyerh**: Crow (FR) |
 | 10:41 | **flears_brai**: Monkey King (FR) | **lnH3II**: Vampire Dragon (NFR) |
 | 10:41 | **Inganta07**: Fly-A-Pet Potion ×3 | **JulianKHV**: Frost Fury (FR) |
@@ -46,9 +49,6 @@ _Updated 2026-11-19 10:41 UTC by the scrape workflow._
 | 10:36 | **carlou245**: Gemstone Egg ×2 | **imxwwq**: Stray Cat Dragon (N) |
 | 10:36 | **XWanwanxX**: Cabbit (MFR), Spring Bunny Hood | **Mimiplayztz123**: Sugar Glider (MFR) |
 | 10:36 | **LunaAqua5849**: Rain Cloud Hat | **Kui_Yeager**: Great Pyrenees (MFR), Ride-A-Pet Potion |
-| 10:36 | **itscatnoirpeople**: Dalmatian (NFR), German Shepherd (MFR) | **LoL22221364**: Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) |
-| 10:36 | **ILoveCupcakes33123**: Red Dutch Guinea Pig | **grijfe8r**: Happy Clam |
-| 10:36 | **KyKypy3Hblu**: Pupcicle (N), Glormy Hound | **viivxu**: Christmas Pudding Pup |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
