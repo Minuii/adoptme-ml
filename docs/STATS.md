@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 21:01 UTC by the scrape workflow._
+_Updated 2026-11-19 21:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 21:01 UTC by the scrape workflow._
 | amvgg | 9 | 42,000 | 2026-11-19T21:00 |
 | elve | 9 | 8,345 | 2026-11-19T21:01 |
 
-## AMVGG completed trades: 37,180 total
+## AMVGG completed trades: 37,204 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,184 |
+| 2026-11-19 | 3,208 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 21:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:00 | **wanda_vision680**: Ride-A-Pet Potion, Husky (FR) | **Ddwkfmr**: Unicorn (N) |
-| 21:00 | **AVAPAWSXO**: French Bulldog (MR), Owlbear (NFR), Pet Handler Pro Certificate, Ride-A-Pet Potion ×3 | **js_elizz**: Cheetah (MFR) |
-| 21:00 | **amvggtradingalt9**: Copycat (MFR), Tiny Wings ×2, 2022 Birthday Party Hat, Field Mouse (MFR) | **iIovearabella**: Cryptid (NFR) |
-| 21:00 | **Katerryrka**: Goat (MFR), German Shepherd (MFR), Chocolate Chip Bat Dragon (R) | **Lookingforkiwiii**: Owl (FR) |
-| 21:00 | **trapledy31**: Chocolate Chip Bat Dragon (FR), Kangaroo (FR), Red Dutch Guinea Pig | **maxwertaq**: Dalmatian (FR) |
-| 21:00 | **Giggles91714**: Dango Penguins (MFR), Mule (MR), Peachick (MFR), Stray Cat Dragon (M) | **ambervgils**: Arctic Dusk Dragon (MFR) |
-| 21:00 | **iliriano0**: Ride-A-Pet Potion | **madurra012**: Sushi Penguin |
-| 21:00 | **Darmay_y**: Ride-A-Pet Potion ×5 | **R4kert**: Arctic Dusk Dragon (FR) |
-| 21:00 | **ottxotoxoxtotx**: Mule (N) | **mymiaaa**: Emu (MR), Cattuccino (M) |
-| 21:00 | **laurathebaronchuuyal**: Owlbear (NFR), Ride-A-Pet Potion | **girlsazaz09**: Great Pyrenees (MFR), Jester Dragon (R) |
-| 21:00 | **BhaabieeRaaii**: Crow (FR) | **caxar_ok2351**: African Wild Dog (FR), Candicorn, Dinner Discourse Cat Sticker, Pink Butterfly Wings, Soulfire Animated Sticker ×2, Pink Hightops |
-| 21:00 | **Robloxiana_xxx2011**: Werewolf (MFR) | **iiheartzb**: Phantom Dragon (MFR), Jester Dragon (MFR) |
-| 21:00 | **frecalsplogeok9**: Steppe Lion ×2, Singularity Beetle, Shetland Pony Dark Brown ×2, Seahorse ×4 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 21:00 | **frecalsplogeok9**: Canadian Goose ×2, Bat, Arctic Tern, Arctic Hare ×3 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 21:00 | **nushido02**: Fly-A-Pet Potion | **yanaunicorn_23**: Mythic Egg, Ocean Egg, Woodland Egg, Japan Egg |
+| 21:06 | **staceylo12**: Ride-A-Pet Potion | **AnneFabrel2005**: Chocolate Dutch Guinea Pig |
+| 21:06 | **NokadotakAU3U**: Mighty Haetyphoon Animated Sticker, Ride-A-Pet Potion, Paint Sealer | **Penguinis_icey**: Pet Handler Pro Certificate |
+| 21:06 | **rhituaIls**: Dragonfruit Fox (MFR), Husky (MFR), 2022 Birthday Cake, Pig (R), Kitty Bat (M), Angel Wings | **Kiandra13kiandra**: Crow (FR) |
+| 21:06 | **cutesyghali**: Caelum Cervi (MFR), Goldhorn (MFR) | **Loveflowers871**: Giant Anteater (MFR) |
+| 21:06 | **ulysqw**: Pizza Stroller, Banana Stroller, Ride-A-Pet Potion | **dashavazhina**: Cradle Stroller |
+| 21:06 | **lera5132**: Turtle (FR) ×2, Cow (FR), Kangaroo (FR), Unicorn (NFR) | **Moqqiz**: Cryptid (FR) |
+| 21:06 | **s1m4kk**: Crystal Egg, Kiwi Kiwi, Sunflower Friend (N) | **fzxfrf**: Ride-A-Pet Potion |
+| 21:06 | **frecalsplogeok9**: Thunderfisher ×2, Black Dog ×2, Tarsier ×2 | **abbyissocool_lol**: Ride-A-Pet Potion |
+| 21:06 | **fifi_kikie**: Royal Corgi (MFR), Peach Owl (MFR), Jeff's Nametag | **PrettyxDino**: Hare (MFR) |
+| 21:06 | **meowwheart**: Ride-A-Pet Potion ×2 | **heladitoooUnU**: Fly-A-Pet Potion |
+| 21:06 | **crystalgirl_15**: Copycat | **OBVADDISONN0**: Pet Handler Pro Certificate ×3 |
+| 21:06 | **Preppy_cleoooo**: Lion Cub, Crocodile (R), Ride-A-Pet Potion ×6 | **Wolfie4567ty**: Mermicorn (FR) |
+| 21:06 | **frecalsplogeok9**: Koi Carp ×4, Kappakid ×2 | **melynagamer3**: Ride-A-Pet Potion |
+| 21:06 | **XMiss_MusicX**: Copycat (NFR) | **QUliaka**: Werewolf (R), Copycat |
+| 21:06 | **iloveadoptm547**: Unicorn Horn | **Butyeli**: Drake (MFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
