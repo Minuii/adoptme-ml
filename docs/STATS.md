@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 16:31 UTC by the scrape workflow._
+_Updated 2026-11-19 16:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 16:31 UTC by the scrape workflow._
 | amvgg | 9 | 37,541 | 2026-11-19T16:30 |
 | elve | 9 | 7,442 | 2026-11-19T16:31 |
 
-## AMVGG completed trades: 36,234 total
+## AMVGG completed trades: 36,277 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,238 |
+| 2026-11-19 | 2,281 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:30 | **off_Shadow13**: Winged Tiger (MFR), Shrew (R) | **Cinzsins**: Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (FR), Ice Wolf (MFR) |
-| 16:30 | **kiara_ham3tet**: Kangaroo (FR), Copycat, Polar Bear (R) | **faikubjotch**: Strawberry Tortle |
-| 16:30 | **belltiny**: Jumpscare (M) | **Unicorn_Galaxy020**: Ride-A-Pet Potion |
-| 16:30 | **Sharker_Lolx**: Retired Egg ×6 | **05211lad**: Orca |
-| 16:30 | **11Anime_Love1**: Dalmatian (FR) | **Angelbatista_me2**: Cabbit (NFR) |
-| 16:26 | **V1ABACKUP**: Ride-A-Pet Potion, Three Blind Mice (N) | **Atsushi1_BSD**: Catte (R) |
-| 16:26 | **C0PHYAK**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **MarkerFanAccount**: Cow (FR) |
-| 16:26 | **C0PHYAK**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **MM2jug**: Snow Owl (NR) |
-| 16:26 | **minusponda**: White Sand Dollar (N) | **zow_98alt**: Ride-A-Pet Potion ×4 |
-| 16:26 | **minusponda**: Bunny Swirl (NR), Ride-A-Pet Potion | **HeyCrystals**: White Sand Dollar (N), Bunny Swirl |
-| 16:26 | **PhoenixEpic85**: Chihuahua ×6 | **minusponda**: Ride-A-Pet Potion ×2 |
-| 16:26 | **Kitty_1b**: Strawberry Shortcake Bow | **Da44ikXD**: Cattuccino, General Sheepdog |
-| 16:26 | **razarvale2z**: Chihuahua ×3 | **KoTik_rbx2010**: Ride-A-Pet Potion |
-| 16:26 | **razarvale2z**: Chihuahua ×12 | **Ranboo9875**: Ride-A-Pet Potion ×4 |
-| 16:26 | **RobloxDevolober**: Snowy Mammoth | **Spion6607**: Endangered Egg ×18 |
+| 16:41 | **KoTik_rbx2010**: Fly-A-Pet Potion, Ride-A-Pet Potion, Golden Hamster (R) | **asmornn**: Platypus, Sushi Penguin |
+| 16:41 | **lola_bear1995**: Ride-A-Pet Potion, Chihuahua | **burger_boy687**: Leopard Shark |
+| 16:41 | **cemen346t**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **asmornn**: Fairy Bat Dragon (FR) |
+| 16:41 | **roblox_user_8676283275**: Cow (FR) | **ismsil_10o**: Matcha Cat (NFR) |
+| 16:41 | **K_KLOPQ**: Lava Wolf (MFR), Vanilla Penguin (MFR), Brown Springer Spaniel (MFR) | **js_elizz**: Owlbear (MFR) |
+| 16:41 | **atracttion**: Bat Dragon (FR), Owl (FR) ×2, Crow (NFR), Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Horn | **akzoad**: African Wild Dog (MFR) |
+| 16:41 | **faebnny**: Siamese Cat (MFR), Harp Seal (MFR), Chocolate Dutch Guinea Pig (MFR) | **14pawz**: Caterpillar (MFR) |
+| 16:41 | **TwiXq0**: Dragonfruit Fox | **Lyiz757**: Ride-A-Pet Potion ×2 |
+| 16:41 | **kylebarcebas1**: Bat Wings, Fishbone Badge | **rainbow28546**: Ride-A-Pet Potion |
+| 16:41 | **disyvx**: Owl (FR), Giant Panda (FR), Cryptid (R), Kangaroo (NFR), Pelican (FR), Kangaroo (FR), Zombie Buffalo (NFR), Fly-A-Pet Potion, Vanilla Penguin | **akzoad**: Shadow Dragon (FR) |
+| 16:41 | **XAxelX88**: Fairy Bat Dragon (FR), Mermicorn (R), Spring Bunny Feet | **gingerbread0292**: Chocolate Chip Bat Dragon (FR) |
+| 16:41 | **realmp10007**: Fairy Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) | **realCarterfox175**: Balloon Unicorn (FR) |
+| 16:41 | **Sleepy_pebblez**: Ghost Dog (NR), Rhino (N) | **EmiliaMika2010**: Arctic Fox (R) |
+| 16:41 | **diwwiss080**: Lion Cub (MFR) | **Syshsf237**: Hedgehog (FR), Munchkin Cat (FR) |
+| 16:41 | **Mor0rojenka**: Fly-A-Pet Potion | **nornomm**: Burger Boots, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
