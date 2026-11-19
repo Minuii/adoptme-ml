@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 14:55 UTC by the scrape workflow._
+_Updated 2026-11-19 15:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 14:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 35,941 | 2026-11-19T14:45 |
-| elve | 9 | 7,067 | 2026-11-19T14:46 |
+| amvgg | 9 | 36,168 | 2026-11-19T15:00 |
+| elve | 9 | 7,143 | 2026-11-19T15:01 |
 
-## AMVGG completed trades: 35,908 total
+## AMVGG completed trades: 35,924 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,912 |
+| 2026-11-19 | 1,928 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 14:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:55 | **xbaby_xsharkx**: Halo, Owlbear (MFR), Lion Cub (R) | **Babielily1**: Cabbit (NFR), Unicorn Horn |
-| 14:55 | **wskdaks**: Goose | **That0neArcher**: Lion (FR), Lion, Arctic Fox |
-| 14:55 | **xx_xxbummrr**: Rainbow Maker, Spring Bunny Hood | **Auds191102**: Halo, Angel Wings |
-| 14:55 | **aabeeyg**: Crocodile, Pancake Stack, Ride-A-Pet Potion | **M1cahsWRLD**: Rain Cloud Hat |
-| 14:55 | **nornomm**: 2022 Birthday Confetti Cannon, Jeff's Nametag, Banana Hat, Spring Bunny Hood | **cloudy_cloudimup**: Unicorn Horn |
-| 14:55 | **CAXARO4EK_TyTa**: Cocoadile (NR), Caramelgeist (N), Tree Sasquatch (N), Orangutan (N), Orca, Ginger Cat, Little Lamb, Badger, Pangolin | **CandyLover31235**: Ride-A-Pet Potion |
-| 14:55 | **wx8zqxx**: Wooly Rhino (MFR), Harp Seal (MFR), Pink Cat (FR) | **q_culvs**: Alley Cat (MFR), Pumpkin |
-| 14:55 | **Zocko007**: Horse (NR), Gemstone Egg | **1Dems4**: Tarsier (NFR) |
-| 14:55 | **K_s726**: Peppermint Penguin (R), Albino Monkey (FR) ×2, Kangaroo (FR) | **ADMTRADING72**: Zombie Buffalo (MFR) |
-| 14:55 | **geceonlinee**: Pet Handler Pro Certificate ×3, Ride-A-Pet Potion ×5 | **MarkerFanAccount**: 2022 Birthday Party Horn |
-| 14:55 | **hkyjlugb**: Metal Ox, Golden Albatross, Magma Snail, Temple Friend, Purrowl, Orca | **dodra33**: Ride-A-Pet Potion |
-| 14:55 | **julyj201**: Turtle (FR) | **lunalovebug70**: Fallow Deer (NR), Cupid Dragon (FR) |
-| 14:55 | **Tr0ubledD0ll**: Ride-A-Pet Potion ×2 | **Agnes_Tachyon20077**: Cat (M), Dog (M), Puma (M), Mummy Spider (M), Ms. Muffet (M) |
-| 14:55 | **LPPlay42302**: Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR), Kangaroo, Pet Handler Pro Certificate, Ride-A-Pet Potion | **iixMartaa**: Crow (FR) |
-| 14:55 | **rhgkehgw**: Siamese Cat (MFR) | **wolfje51**: Ram (M), Hare (MR), Goose (R) ×2 |
+| 15:00 | **xiparo**: Pain au Chat ×9 | **Lizard123997**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 15:00 | **Robloxiana_xxx2011**: Chocolate Dutch Guinea Pig (MFR), Lamb (MFR), Kookaburra (MFR), Alley Cat (MFR), Giant Cheetah Mount | **1lx_1O**: Werewolf (MFR) |
+| 15:00 | **Alex_oop82**: Werewolf (MFR) | **1lx_1O**: Parrot (FR) |
+| 15:00 | **Sharpie_pies**: Cat (MR), Snow Cat (M) | **1lx_1O**: Ride-A-Pet Potion |
+| 15:00 | **16y97**: Well, Actually Walrus Sticker | **Gamesta_YT**: Round Fallow Deer Sticker |
+| 15:00 | **the3reveng**: Albino Bat (R) ×3 | **admtradeonly**: Ride-A-Pet Potion ×3 |
+| 15:00 | **ffffff246500**: Ride-A-Pet Potion | **serafima271120**: Purrowl, Lunar Ox, Ice Cube, Admin Abuse Egg, Mrs. Whiskerpips, Bobageist, Snowy Mammoth, Stitches, Shiba Inu, Badger, Gold Mahi Mahi, Clownfish, Australian Kelpie, Stygian Owl, Deinonychus, Beaver, Dilophosaurus, Abyssinian Cat |
+| 15:00 | **DogePro865**: Fairy Bat Dragon (FR), Nessie (R), Candicorn, Crocodile (R), Rose Dragon (R), Unicorn, Ride-A-Pet Potion, Shark | **Zocko007**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:00 | **LissyH2011**: Strawberry Shortcake Bat Dragon (FR), Cow (NR), Cupid Dragon (R), Chocolate Chip Bat Dragon (FR), Jester Dragon | **jakeslers**: Owl (FR) |
+| 15:00 | **Ksysq3**: Chocolate Chip Bat Dragon (FR), Dalmatian (FR), Fly-A-Pet Potion | **Erikaa_3455**: African Wild Dog (FR) |
+| 15:00 | **CDOXHI_TE**: 2022 Birthday Party Hat | **sleepy_s0ren**: Turtle (FR) |
+| 15:00 | **Jupiter2Jupi**: Border Collie | **Hellooby231**: Matcha Cat, Spring Bunny Hood |
+| 15:00 | **gingerbean134456**: Matcha Cat (R), Ram, Fly-A-Pet Potion | **werreriss0**: Shark Puppy |
+| 15:00 | **ballerin0cappuccin02**: Candicorn, Pet Handler Pro Certificate ×4, Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×3 | **MarkerFanAccount**: Cow (FR) |
+| 15:00 | **mommy_vka123**: Fly-A-Pet Potion | **luvyerh**: Dango Penguins |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
