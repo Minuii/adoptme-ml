@@ -976,3 +976,4 @@
 {"id": "6afdd87627f127cc0e8920be", "itemName": "Christmas Egg", "itemCategory": "Eggs", "previousItemValue": "0.105", "newItemValue": "0.11", "updatedAt": "2026-11-18T16:55:18.792Z"}
 {"id": "6afe98e027f127cc0e8920bf", "itemName": "Haetyphoon", "itemCategory": "Pets", "previousRegularValue": "0.1", "newRegularValue": "0.0875", "previousNeonValue": "0.42", "newNeonValue": "0.365", "previousMegaValue": "1.75", "newMegaValue": "1.5", "updatedAt": "2026-11-19T06:36:16.881Z"}
 {"id": "6afe98f527f127cc0e8920c0", "itemName": "Flash Weasel", "itemCategory": "Pets", "previousRegularValue": "0.1", "newRegularValue": "0.0875", "previousNeonValue": "0.42", "newNeonValue": "0.365", "previousMegaValue": "1.75", "newMegaValue": "1.5", "updatedAt": "2026-11-19T06:36:37.950Z"}
+{"id": "6aff114027f127cc0e8920c1", "itemName": "Bauble Buddies", "itemCategory": "Pets", "updatedAt": "2026-11-19T15:09:52.863Z"}
