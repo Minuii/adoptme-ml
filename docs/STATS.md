@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 13:16 UTC by the scrape workflow._
+_Updated 2026-11-19 13:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 13:16 UTC by the scrape workflow._
 | amvgg | 9 | 34,602 | 2026-11-19T13:15 |
 | elve | 9 | 6,750 | 2026-11-19T13:15 |
 
-## AMVGG completed trades: 35,576 total
+## AMVGG completed trades: 35,597 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,580 |
+| 2026-11-19 | 1,601 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 13:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:15 | **BLACKCAT202015**: Turtle (R) | **milkiway0334**: Siamese Cat (FR), Ride-A-Pet Potion |
-| 13:15 | **sllwexx**: Goldfish (N) | **meiikoraa**: Ride-A-Pet Potion |
-| 13:15 | **moral608**: Unicorn (NFR) | **magicalxmoon**: Fallow Deer (R) |
-| 13:15 | **HEARTS4_MELAINE**: Chipmunk (M) | **altmityanitsa**: Zombie Wolf (NR), Fly-A-Pet Potion |
-| 13:15 | **IvanGinSenpai**: Fly-A-Pet Potion ×11, Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **sowylx**: Turtle (FR) |
-| 13:15 | **mary0313mary**: Hawk (MR), Diamond Amazon (NFR), Flower Power Duckling (MFR), Black-Chested Pheasant (R), Moonbeam Peacock (FR), Black-Chested Pheasant, Evil Chickatrice (MR), Ostrich (MFR), Silly Duck (NFR), Evil Chick (M), Partridge (MR), Nightmare Owl (MR), Cassowary (MR), Kage Crow (MFR), Love Bird (MFR), Cassowary (M), Diamond Amazon (FR), Dodo (NR) | **leruval**: Crow (FR) |
-| 13:15 | **animatownermile3**: Retired Egg ×3 | **LittleMiaMin_Playz**: Arctic Hare |
-| 13:15 | **xKatexkittyxUwUx**: Woolly Mammoth (M) | **k155m**: Cute-A-Cabra (MR) |
-| 13:15 | **XTREYT**: 2022 Birthday Party Horn, Propeller Hat | **HAJK102**: Rain Cloud Hat |
-| 13:15 | **veroNIKA_star016**: Arctic Fox (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **kfyhdr**: Elephant (FR) |
-| 13:15 | **rrnmaaaa**: Modern Mansion | **dayn_toxic**: Spring Bunny Feet |
-| 13:15 | **ccortiemma**: Cryptid (NFR), Haetae (R), Strawberry Shortcake Bat Dragon (FR), Cabbit, Siamese Cat, Jellyfish, Leopard Shark (N), Turkey (R) | **RuthJavxn**: Mermicorn (NR), Cabbit (NFR), Undead Jousting Horse (FR) ×2, Jekyll Hydra (R), Goose (R), Peppermint Penguin (FR), Pelican (FR), Prismatic Butterfly (N), Frostbite Bear (FR), Sugar Glider, Candyfloss Chick (NFR), Gaelic Fae (NR), Bald Eagle |
-| 13:15 | **Zzz_64671**: Fly-A-Pet Potion ×2 | **Alllllkos**: Ride-A-Pet Potion ×4 |
-| 13:15 | **evieebunnii**: Ride-A-Pet Potion | **6k_minss**: Admin Abuse Egg ×18 |
-| 13:15 | **qngelicalz**: Ride-A-Pet Potion | **roblox_user_1554000708**: Frosty Glow Mega Neon Paint |
+| 13:25 | **Lumina20265**: Ride-A-Pet Potion ×9 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 |
+| 13:25 | **opp51207**: Pandaguin Glooptodog (M) | **ally_28901**: Burger Bear |
+| 13:25 | **carterdelaney1**: Alley Cat (MFR), Spring Bunny Hood | **Alili2323134**: Dancing Dragon (MFR) |
+| 13:25 | **cvrlexx**: Majestic Pony (NFR) | **itzzme_ken**: Cherry Blossom Hang Glider, Wing Hang Glider, Skeleton Winged Glider |
+| 13:25 | **forneonblazinglion**: Strawberry Shortcake Bat Dragon (FR) ×2, Turtle (FR), Spring Bunny Hood | **rune4kaa0**: Chocolate Chip Bat Dragon (NFR) |
+| 13:25 | **ReinMagne**: Blazing Lion (R), Bready Necklace | **Shion02020**: Candicorn (MFR) |
+| 13:25 | **holasoyzuri_yt**: Goose (FR), Leopard Cat (NR), Eggnog Dog (N) | **Addison_167368**: Undead Jousting Horse (FR) |
+| 13:25 | **kwittenist**: Cryptid (FR), Unicorn Horn | **mamadmasa0111**: African Wild Dog (FR) |
+| 13:25 | **guiderno1234**: Peppermint Penguin (R), Munchkin Cat (N) | **ki1wilov**: Rainbow Maker |
+| 13:25 | **Naryto_yzumaki123**: Unicorn, Golden Unicorn, Toucan (R) | **lera5132**: Fly-A-Pet Potion |
+| 13:25 | **Ilovecats72262627**: Candicorn (MFR), Goat (MFR), Polar Bear (MFR), Alley Cat (MFR), Mule (MFR), Giant Anteater (NR), Candicorn (N), Rain Cloud Hat, Candicorn (FR), Candicorn, Dragonfruit Fox (NR), Tiny Wings | **JennaTV1**: Owl (NFR) |
+| 13:25 | **vanyagames_yt**: Copycat (MFR), Kangaroo (R) | **celine_1371**: Ring-Tailed Lemur (MFR), Meerkat (MFR) |
+| 13:25 | **Cosmo_syx**: Kangaroo (R) | **tufvfffdjdg**: Ride-A-Pet Potion ×15 |
+| 13:25 | **Gaussia888**: Purrowl, Dragonfly, Ancient Dragon, Alicorn, Three Blind Mice, Temple Friend | **CandyLover31235**: Ride-A-Pet Potion |
+| 13:25 | **donnotinteract**: Unicorn Horn, Tiny Wings, Ride-A-Pet Potion, Tasmanian Devil (NR) | **zxl0106**: Cow (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
