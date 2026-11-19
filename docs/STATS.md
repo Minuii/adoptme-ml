@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 23:40 UTC by the scrape workflow._
+_Updated 2026-11-19 23:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 23:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 44,240 | 2026-11-19T23:30 |
-| elve | 9 | 8,858 | 2026-11-19T23:31 |
+| amvgg | 9 | 44,469 | 2026-11-19T23:45 |
+| elve | 9 | 8,902 | 2026-11-19T23:46 |
 
-## AMVGG completed trades: 37,664 total
+## AMVGG completed trades: 37,681 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,668 |
+| 2026-11-19 | 3,685 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 23:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:40 | **Angelfromdarkness_0**: Emperor Gorilla, Goat (R) | **tsitp_secret**: Red Dutch Guinea Pig (N) |
-| 23:40 | **pawthetiic**: Swan, Fire Foal, Chanekeh (N), Swordfish | **erynne_me**: Fly-A-Pet Potion |
-| 23:40 | **Angelfromdarkness_0**: Border Collie (MFR), Werewolf (FR) | **Jofab96**: Copycat (MFR), Glormy Leo (MFR), Royal Corgi (MFR) |
-| 23:40 | **gato12345129**: Ride-A-Pet Potion, Banana Hat | **gh0steddsoull**: Super Saru Animated Sticker |
-| 23:40 | **gato12345129**: Cryptid (N) | **Bia_salgadin**: Cryptid (NFR), Spring Bunny Nose, Cherry Blossom Tree Sticker, Cherry Blossom Flower Sticker |
-| 23:40 | **kynnonefan**: Mini Pig (MFR), Giant Panda (FR), Balloon Unicorn (FR) ×2 | **auzreti**: Bat Dragon (FR) |
-| 23:40 | **Laniell04**: Cow (FR), Munchkin Cat (NR) | **Xxskibidy67**: Arctic Reindeer (FR) |
-| 23:40 | **Queen_CK26**: Cabbit (MFR) | **spyily1234**: Giant Panda (FR), Dragonfruit Fox (MFR), Copycat (NR), Chocolate Dutch Guinea Pig (MFR), Grim Dragon (FR), Unicorn Horn, Kitty Bat (MFR), Pretty Pony (MFR), Pink Cat Ear Headphones, Elf Hat, Purple Heart Glasses, Fly-A-Pet Potion ×2 |
-| 23:40 | **reserbadong2**: Cryptid, Fly-A-Pet Potion, Ride-A-Pet Potion | **YTstaro**: Amethyst Penguin (R) |
-| 23:40 | **sweettailzx**: Cryptid (FR), Quokka (M), Peachick (M) | **baby_sosabackup**: Peppermint Penguin (NFR) |
-| 23:36 | **The_Werewolf098**: Ibis (M), Eggnog Hare (R), Water Moon Bear, Evil Chick | **aleeyah51092**: Oakee Wizard (M), Milk Choccybunny (M), Pilot Gull (M) |
-| 23:36 | **bloodymedsss**: Latte Kitsune (MFR), Dragonfruit Fox (MFR) | **dojejebegsid**: Christmas Pudding Pup (MFR) |
-| 23:36 | **Angelbatista_me2**: Grim Dragon (NFR), Kitty Bat (M) | **TESTACC1114_0**: Strawberry Shortcake Bat Dragon (FR) |
-| 23:36 | **Klaysi_flayra**: Chihuahua ×5 | **vertaocsi**: Fly-A-Pet Potion |
-| 23:36 | **RyukkHolder**: Siamese Cat | **Presbraltacc**: Unicorn Horn |
+| 23:45 | **clarisse_tubeuse**: Count Slothula | **playerbunbready**: Retired Egg ×18 |
+| 23:45 | **ssundylan**: Dragonfruit Fox (MFR), Puffer Fish (MFR), Capybara (MFR), Rain Cloud Hat | **santrababaaa**: Pink Cat (MFR) |
+| 23:45 | **xxjohnjokexx**: Shadow Dragon (FR) | **Aftonsparvsarec00l**: Owl (NFR) |
+| 23:45 | **kaylamicmi**: Alley Cat (M) | **kittycatkathy7523**: Moose Calf (M) |
+| 23:45 | **zeejnaa**: Well, Actually Walrus Sticker ×5, Pig ×5 | **Tikihiye**: Alpaca (NFR), Chihuahua (MFR), Unicorn Horn, Candyfloss Chick (R) |
+| 23:45 | **yesterboni0**: Ride-A-Pet Potion ×17 | **Z_Alexis22**: Jester Dragon (NFR) |
+| 23:45 | **UnforgivablyMe**: Glormy Hound (NF), Octopus (NFR), Dango Penguins (NR) | **camiilita_7w7**: Goldhorn (MFR) |
+| 23:45 | **tr4d3s_adoptnew**: Dalmatian (R), Dalmatian, Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) | **starfire_33334**: Frost Dragon (FR), Peppermint Penguin (FR) |
+| 23:45 | **WierdoVanilla**: Frostbite Bear | **Moo_rawrl**: Scarebear (MFR) |
+| 23:45 | **siria20144**: Turtle (FR), Crocodile (FR) | **theg0atadm**: Blue Dog (NFR) |
+| 23:45 | **sweetie_pi48**: Sea Turtle (N), Samoyed (MR) | **Colcid888666**: Fly-A-Pet Potion |
+| 23:45 | **sweetie_pi48**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Henrique54626**: Matcha Cat |
+| 23:45 | **addmysecondaccount**: Munchkin Cat (R), Hare (NR), Chocolate Dutch Guinea Pig ×2, Ride-A-Pet Potion | **skullteast**: Sugar Glider (FR) |
+| 23:45 | **padrushka_romashka**: Pink Betta Fish (MFR), Copycat, Siamese Cat (FR) | **Olimp090**: Cow (FR) |
+| 23:45 | **StartEggtofrostdrag0**: Halloween White Ghost Dragon (NFR), Fly-A-Pet Potion ×2 | **Wolfie4567ty**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
