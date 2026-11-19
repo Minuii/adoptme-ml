@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 02:01 UTC by the scrape workflow._
+_Updated 2026-11-19 02:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 02:01 UTC by the scrape workflow._
 | amvgg | 9 | 24,624 | 2026-11-19T02:00 |
 | elve | 9 | 4,910 | 2026-11-19T02:01 |
 
-## AMVGG completed trades: 34,250 total
+## AMVGG completed trades: 34,267 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 254 |
+| 2026-11-19 | 271 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 02:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:00 | **Cravecuts**: Butter Knife | **Lalilyn_12**: Count Slothula, Cattuccino (N) |
-| 02:00 | **0MGSARAY**: Peppermint Penguin (FR), Peppermint Penguin (R), Turtle (FR), Crocodile (FR) ×2, Crocodile (R), Albino Monkey (NFR), Lion (NFR), Elephant (FR) ×2, Bush Elephant (FR) | **notiamjhom**: Frost Dragon (FR) |
-| 02:00 | **chickchickboom101**: Cherry Blossom Flower Sticker ×12 | **Jaeebirddd**: Slothula Transformation Animated Sticker |
-| 02:00 | **mgjgmwg**: Owl (FR), Cow (FR), Fairy Bat Dragon (R), Ride-A-Pet Potion | **cakeheheheheheh**: Frost Dragon (FR) |
-| 02:00 | **Mharkie162**: Unicorn (NFR) ×4 | **Baki_bns8**: Turtle (FR) |
-| 02:00 | **GrindAccount_N1**: Latte Kitsune (MFR), Seabed Creeper (MFR), Maneki-Neko (MFR), Maneki-Neko (MR), Hawk (MFR), Berry Cool Cube (M), Evil Chickatrice (MFR), Evil Chick (MFR), Canadian Goose (MFR), Lunar Moon Bear (M), Indian Flying Fox (MFR), Koala (MFR), Highland Cow (MR), Canadian Goose (M), Golden Tortoise Beetle (M), Glormy Dolphin (M), Metal Ox (M), Red Panda (M) | **notiamjhom**: Owl (FR) |
-| 02:00 | **GH0ULCANDY**: Jester Dragon (NFR), Fairytale Egg | **kissofwoe**: Werewolf (FR), Copycat |
-| 02:00 | **iwaely0**: Ride-A-Pet Potion ×2 | **tufvfffdjdg**: Golden Lettuce |
-| 02:00 | **You_kwin666**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion ×2 | **xcherryxblossomx129**: Crocodile (R) |
-| 02:00 | **Sprinxgle1**: Kangaroo (FR) | **kaylamicmi**: Lion Cub, Copycat, Goat |
-| 01:55 | **jokerako28**: Dragonfruit Fox (NR), Toaster Hat | **Larisa_DiecooleSocke**: Ride-A-Pet Potion, 2022 Birthday Confetti Cannon, Spring Bunny Hood, Dragonfruit Fox, Chihuahua |
-| 01:55 | **GL0Rl0**: Goose (FR), Cow (FR) | **806abby**: Chocolate Chip Bat Dragon (FR), Jester Dragon (R) |
-| 01:55 | **sxmplycutecorex**: Shiver Wolf (MR) | **strawberrycornettos**: Toaster Hat |
-| 01:55 | **Firen_Clo**: Gaelic Fae, Ride-A-Pet Potion, Alley Cat, Glormy Hound, Kraken, Chihuahua, Tealwood Monster (M), Snow Owl (FR), Pupcicle | **jam0khurt**: Shark Puppy |
-| 01:55 | **User4301jn**: Candyfloss Chick, Ice Cream Cone Hat, Lamb (R), Ram, Strawberry Shortcake Bow | **dimetacrine**: Cabbit (R) |
+| 02:06 | **marchthenewest**: Pupcicle (M), Arctic Fox (FR) | **YUMIIMOTHZZ**: Strawberry Tortle |
+| 02:06 | **kamaphernelia**: Munchkin Cat (MFR), Siamese Cat (MFR), Frost Unicorn (FR), Frost Unicorn (R) ×2, Cabbit (FR), Hero Gibbon (N), Ghost Dog (M), Copycat, Indian Leopard (MR), Skunk (MFR), Fly-A-Pet Potion ×4 | **catdegrat**: Candicorn (MFR), Cryptid (NFR) |
+| 02:06 | **Imcute10088**: Spring Bunny Hood, Fly-A-Pet Potion ×3, Ballet Swan (R), Burger Boots | **lqurahm**: Pupcicle ×16 |
+| 02:06 | **AvaNari2010**: Alley Cat | **bigstinkyfoot3**: Pupcicle ×4 |
+| 02:06 | **bolzani001111**: Haetyphoon (M), Flash Weasel (M), Flash Weasel | **01iixEndii**: Strawberry Shortcake Bat Dragon (MFR) |
+| 02:06 | **BubblegumLifeStyle**: Bald Eagle (MFR), Moose Calf (MFR), Caterpillar (MFR) ×2, Evil Unicorn (R), Mermicorn, Sakura Spirit (NFR), Unicorn Horn | **01iixEndii**: Diamond Butterfly (MFR) |
+| 02:06 | **wassupwithu**: Frost Dragon (FR), Crow (FR), Fairy Bat Dragon (NFR), Rain Cloud Hat | **pillyboiintown**: Balloon Unicorn (NFR) |
+| 02:06 | **1LYFIREX0**: Puffin (MFR), Yule Log Dog (MFR) | **iloveadoptm547**: Giant Panda (FR) |
+| 02:06 | **Jenniea264**: Starfish (NR), Starfish ×12 | **7H3ST**: Reindeer (R), Gemstone Egg |
+| 02:06 | **iaMatthieu1**: Arctic Dusk Dragon (MFR) | **0BVSWILLOWXO**: Latte Kitsune (MFR), Unicorn (MR), Unicorn Backpack, Spring Bunny Hood, Spring Bunny Nose |
+| 02:06 | **sweet_peachesss**: Ninja Monkey (FR) | **0xAndreex0**: Dragonfruit Fox |
+| 02:06 | **UltraSwiftbunnyboyTV**: Alicorn (M) | **poshol_naxouPwP**: Fly-A-Pet Potion |
+| 02:06 | **GuineaPigGirl2987**: Tombstone Ghostify | **kiiurmah**: Mini Pig (FR) |
+| 02:06 | **Real_Dream90z**: Robo Dog (NFR) | **mymylamoo1**: Schoolhouse Home |
+| 02:06 | **scarlettplays76**: Chocolate Dutch Guinea Pig, Chocolate Chip Bat Dragon Backpack | **jaym000017**: Chocolate Dutch Guinea Pig |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
