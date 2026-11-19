@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 05:55 UTC by the scrape workflow._
+_Updated 2026-11-19 06:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 05:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 28,004 | 2026-11-19T05:45 |
-| elve | 9 | 5,538 | 2026-11-19T05:46 |
+| amvgg | 9 | 28,208 | 2026-11-19T06:00 |
+| elve | 9 | 5,606 | 2026-11-19T06:01 |
 
-## AMVGG completed trades: 34,717 total
+## AMVGG completed trades: 34,720 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 721 |
+| 2026-11-19 | 724 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,9 @@ _Updated 2026-11-19 05:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:00 | **NNuWiIxxX_14**: Cherry Blossom Hang Glider, Count Slothula, Caramelgeist (M) | **liofe1**: Chocolate Dutch Guinea Pig (N) |
+| 06:00 | **wskdaks**: Kangaroo (FR) | **Cooking1626**: Pig (R), Pig, Ride-A-Pet Potion |
+| 06:00 | **honeydew_pancakes101**: Orca ×4 | **glittrswan**: Retired Egg ×6 |
 | 05:55 | **Xerces_04**: Jekyll Hydra (FR) | **you_no099**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×2 |
 | 05:55 | **Erizien**: Cabbit (NFR) | **swe3tyums**: Phantom Dragon (MFR) |
 | 05:55 | **E20MLL**: Mythic Egg ×2 | **Panci_Terbang33**: Pupcicle |
@@ -46,9 +49,6 @@ _Updated 2026-11-19 05:55 UTC by the scrape workflow._
 | 05:51 | **chlo333_alt**: Flower Power Duckling | **itsmyalt_heh**: Bauble Buddies |
 | 05:51 | **UnforgivablyMe**: Flash Weasel | **sore1017**: Fly-A-Pet Potion ×7 |
 | 05:51 | **Ent3r_UsernameHere**: Flash Weasel, Narwhal (NR), Fly-A-Pet Potion, 2D Box | **sore1017**: Pupcicle (N) ×3, Pupcicle ×4 |
-| 05:51 | **barbiequeuu**: Royal Capuchin Monkey (NR), Unicorn (NR), Owlbear, Axolotl (NFR) | **oh_eql**: Candicorn |
-| 05:51 | **wskdaks**: Alley Cat, Mochi Meow (R) | **Fruit_Kittie**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 05:51 | **Panci_Terbang33**: Ride-A-Pet Potion, Ghost | **itsvaleriaotz**: Christmas Spirit (N) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
