@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 18:46 UTC by the scrape workflow._
+_Updated 2026-11-19 18:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 18:46 UTC by the scrape workflow._
 | amvgg | 9 | 39,707 | 2026-11-19T18:45 |
 | elve | 9 | 7,845 | 2026-11-19T18:46 |
 
-## AMVGG completed trades: 36,678 total
+## AMVGG completed trades: 36,717 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,682 |
+| 2026-11-19 | 2,721 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 18:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:45 | **FlyToTheSaturn**: Green-Chested Pheasant (R), Japan Egg ×6, King Bee, Lunar Moon Bear, Lunar Gold Tiger, Moon Egg ×5, Mythic Egg | **SelfL0vktwt**: Unicorn (NFR) |
-| 18:45 | **EgorVieru22891**: Strawberry Penguin (FR), Snowball Pet (FR) | **itsxxazra**: Arctic Fox (FR) |
-| 18:45 | **flears_brai**: Pet Handler Pro Certificate ×9 | **Manggo_Pie40**: Fly-A-Pet Potion ×9 |
-| 18:45 | **xxcrunchy8785xx**: Blue Ringed Octopus (R), Pain au Chat, Mrs. Whiskerpips | **A_ulx**: Chocolate Dutch Guinea Pig |
-| 18:45 | **Elwanizk**: Chihuahua | **Ksu_lovesssO**: Retired Egg ×18 |
-| 18:45 | **Irek3008**: Fly-A-Pet Potion | **stoIencorpses**: Ride-A-Pet Potion ×2 |
-| 18:45 | **stoIencorpses**: Shetland Pony Dark Brown (MR) | **batton0955**: Ride-A-Pet Potion ×2 |
-| 18:45 | **Thresh_1234**: Turtle (FR) | **cosy_sosu**: Kangaroo (FR), Fly-A-Pet Potion ×3 |
-| 18:45 | **garlicbread4537**: Pet Handler Pro Certificate ×3 | **OBVADDISONN0**: Phantom Dragon |
-| 18:45 | **ImN0TheOnly1**: Orangutan ×8, Thunderfisher | **V4MPIR3_001**: Orangutan (N) |
-| 18:45 | **kkaatEEe2**: Pupcicle ×2 | **officsl_n0t**: Fly-A-Pet Potion |
-| 18:45 | **XxkfirxbushxX**: Parrot (FR) ×2, Balloon Unicorn (FR) | **alicehe0601**: Kookaburra (MFR) ×2, Binturong (MFR), Bush Elephant (MFR), Mule (MR), Elephant (NFR), Candyfloss Chick, Frostbite Bear (FR), Turtle, Monkey King (FR) |
-| 18:45 | **STEKLO_FOREST**: Shadow Dragon (FR), Christmas Pudding Pup | **newaccfortradinggg**: Chocolate Chip Bat Dragon (MFR), Cabbit (NFR) |
-| 18:45 | **girlsazaz09**: Llamalush Purse Pet | **stoIencorpses**: Caticorn Rattle |
-| 18:45 | **Milo_vxy**: Silverback Gorilla, Zombie Wolf (NR) | **bobbayakaki**: Burger Bear (M) |
+| 18:55 | **Sillyseal_026**: Candicorn, Pancake Stack, Bready Necklace | **baby_demonakakj**: Unicorn Horn |
+| 18:55 | **1ovIIy**: Crystal Egg ×12 | **ShadowMashy**: Ride-A-Pet Potion |
+| 18:55 | **NOOBASHA121278**: Pet Handler Pro Certificate | **stoIencorpses**: Ride-A-Pet Potion ×2 |
+| 18:55 | **notkakqwe8**: African Wild Dog (FR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR) ×3, Candyfloss Chick (FR), Moon Rabbit (M), Leopard Shark (NR), Green Butterfly (N), Pet Handler Pro Certificate, Fly-A-Pet Potion, Ride-A-Pet Potion | **Sonya73p**: Cabbit (MFR) |
+| 18:55 | **Idkk_0426**: Zombie Wolf (M), Fly-A-Pet Potion | **Hdhsjwjakakal**: Zombie Wolf (MFR) |
+| 18:55 | **Immakiiiii**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Purple Heart Glasses | **werreriss0**: Dodo (NR) |
+| 18:55 | **nskwlp0**: Hot Doggo (FR), Tiny Wings | **AgePotFarm128**: Diamond Butterfly (FR) |
+| 18:55 | **prorabik_krytou**: Mini Pig (FR), Shark Puppy (FR) | **Foxy_Bonny28**: Cow (FR), Ring-Tailed Lemur (NFR), Ride-A-Pet Potion, Cattuccino (FR) |
+| 18:55 | **chase_ufficial1**: Fly-A-Pet Potion ×11, Chameleon (NR) | **Friday427hd**: Turtle (FR) |
+| 18:55 | **hellofriendnicetome**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pet Handler Pro Certificate ×2 | **C0PHYAK**: Chihuahua (MR) |
+| 18:55 | **z0z_ez**: Crow (NFR), Siamese Cat (NFR), Amami Rabbit (MFR) | **Rbd_JP**: Cryptid (NFR), Giant Panda (FR) |
+| 18:55 | **Mfrstellaa**: Ghost Dog (MFR) | **Eldrian06**: Harp Seal, Eggnog Dog ×2, Canadian Goose, Amami Rabbit ×5, English Sheepdog, Nightmare Owl ×2, Lionfish, Giant Black Scarab, Blue Ringed Octopus, Platypus, Moose Calf |
+| 18:55 | **dreamingxmaddiee**: Polar Bear | **clarisse_tubeuse**: Pupcicle ×3, Count Slothula ×2, Blue Ringed Octopus |
+| 18:55 | **Koshka_unicore**: Fly-A-Pet Potion ×2 | **cosy_sosu**: Red Squirrel (FR), Vanilla Penguin, Snow Leopard (N), Choco Penguin, Ocelot (M) |
+| 18:55 | **fishtaili**: Crow (FR) | **KimikoYuka**: Kangaroo (NFR), Strawberry Tortle (R), Husky (MFR), Turtle (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
