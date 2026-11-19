@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 15:25 UTC by the scrape workflow._
+_Updated 2026-11-19 15:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 15:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 36,383 | 2026-11-19T15:15 |
-| elve | 9 | 7,165 | 2026-11-19T15:15 |
+| amvgg | 9 | 36,610 | 2026-11-19T15:30 |
+| elve | 9 | 7,233 | 2026-11-19T15:31 |
 
-## AMVGG completed trades: 36,004 total
+## AMVGG completed trades: 36,009 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,008 |
+| 2026-11-19 | 2,013 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,11 @@ _Updated 2026-11-19 15:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 15:30 | **1Dems4**: Balloon Unicorn (FR), Ride-A-Pet Potion | **copyvoting**: Cow (FR), Latte Kitsune (NFR), Aurora Fox, Ride-A-Pet Potion ×4, Chocolate Chip Bat Dragon (R), Turtle (FR) |
+| 15:30 | **Vika9876280**: Lava Dragon (FR), Sushi Penguin, Ride-A-Pet Potion, Bubblegeist | **tw1nkle3788**: Jester Dragon (FR) |
+| 15:30 | **ballerin0cappuccin02**: Fairy Bat Dragon (FR), Cow (FR), Ride-A-Pet Potion ×2 | **catiesarethebbests**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:30 | **Someone_intheuni**: Balloon Unicorn (FR), Strawberry Shortcake Bat Dragon (NFR) | **AVAPAWSXO**: Candyfloss Chick (MFR) |
+| 15:30 | **ur_lungzz**: Amethyst Skies Mega Neon Paint, White Chef Hat | **00iAngell**: Ride-A-Pet Potion |
 | 15:25 | **viviinlovewithcats**: Fairy Bat Dragon (MFR), Unicorn Horn, Rain Cloud Hat | **koeinaway1**: Frost Dragon (FR) |
 | 15:25 | **ifblair**: Ride-A-Pet Potion ×2 | **Trixielulamoonreal**: Dragonfruit Fox |
 | 15:25 | **magnol1a4**: Jester Dragon, Frostbite Bear (FR) | **viksksq**: Fairy Bat Dragon (FR) |
@@ -44,11 +49,6 @@ _Updated 2026-11-19 15:25 UTC by the scrape workflow._
 | 15:25 | **SlL3NTHILL**: Evil Unicorn (FR) | **K_s726**: Yule Log Dog (MFR) ×2 |
 | 15:25 | **Hahahahaha123885**: Royal Palace Spaniel (NR), Pudding Cat (N), Ride-A-Pet Potion | **mesike200910**: Pupcicle (N) |
 | 15:25 | **fallowdeeerz**: Chocolate Chip Bat Dragon (FR), Amami Rabbit (MFR), Amami Rabbit (M), General Sheepdog (M), Samoyed (M), 2022 Birthday 5 Badge, Dimorphodon (N), Mecha Meow (N), Glyptodon (N) | **Lxdyxx**: Zombie Buffalo (MFR) |
-| 15:25 | **bonnie30305**: Punk Pony (MR), Latte Kitsune, Dancing Dragon (FR), Leviathan (R), Orange Betta Fish (M), Mexican Wolf (M), Frankenfeline (M), Ratatoskr (M) | **Dizzzzzyyyyy_0**: Werewolf (FR) |
-| 15:25 | **kyovd1r**: Cryptid (FR), Scarebear (MR), Alpaca (FR), Tortoiseshell Guinea Pig, Spring Bunny Hood | **Rinos906614**: Parrot (FR) |
-| 15:25 | **cocothemoco1231**: Mini Pig (FR), Cherry-On-Top, Groundhog, Tiny Wings | **sublocer**: Cabbit (NFR) |
-| 15:25 | **aydachan200311**: Aussie Egg | **CyberShadow120111**: Fallow Deer |
-| 15:25 | **iluvkhattafya**: Pet Handler Pro Certificate | **milkiway0334**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
