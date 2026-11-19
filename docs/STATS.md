@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 13:01 UTC by the scrape workflow._
+_Updated 2026-11-19 13:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 13:01 UTC by the scrape workflow._
 | amvgg | 9 | 34,353 | 2026-11-19T13:00 |
 | elve | 9 | 6,727 | 2026-11-19T13:01 |
 
-## AMVGG completed trades: 35,545 total
+## AMVGG completed trades: 35,559 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,549 |
+| 2026-11-19 | 1,563 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 13:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 13:06 | **XxbobaloverXx565**: Blazing Lion (FR), Pancake Stack, Pet Handler Pro Certificate, Toasty Red Panda ×2 | **12anastasiya2008**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 13:06 | **l_i8ra7**: Fly-A-Pet Potion, Ride-A-Pet Potion | **xXtheBesssssttttttXx**: Sloth (R), Black Panther, Desert Egg, Golden Ladybug, Blue Butterfly (N), Three Blind Mice, Huntsman Robin, Ancient Dragon, Purrowl |
+| 13:06 | **yuumiuro**: Ice Cream Hermit Crab ×3 | **Xxxxashhhh**: Ride-A-Pet Potion ×6 |
+| 13:06 | **bydaylight7931**: Cherry Blossom Tree Sticker ×9, Cherry Blossom Flower Sticker ×9 | **lisalixzahablueback**: Ride-A-Pet Potion |
+| 13:06 | **Hilsplos1**: Copycat, Pink Cat (R), Jester Dragon (FR) | **mdmdnkevsjsvaj**: Candicorn (FR) |
+| 13:06 | **bunny_splash4**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) | **LoriDreamy123**: African Wild Dog (FR) |
+| 13:06 | **Bnnifettii**: Cabbit (MFR), Cabbit (NFR), Mini Pig, 2022 Birthday Party Horn | **vampxlorvd**: Strawberry Shortcake Bat Dragon (MFR) |
+| 13:06 | **Cosmo_syx**: Turtle (R), Fly-A-Pet Potion | **QUliaka**: Unicorn (MR), Pig (FR), Ride-A-Pet Potion ×2 |
+| 13:06 | **qkrbed**: Rainbow Maker ×2 | **bermido80**: Haetae (FR) |
+| 13:06 | **FcNikita24**: Sushi Penguin | **slinx5267**: Ride-A-Pet Potion |
+| 13:06 | **alxymrn**: Retired Egg | **themegaplahs**: Hopbop |
+| 13:06 | **AsianIceCold**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **s_coki**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:06 | **GeneralPatrick_14**: Haetae (R), Grim Dragon (FR), Grim Dragon (R) ×2, Undead Jousting Horse, Brown Bear (MFR) | **Den_826uhwk**: Frost Dragon (FR) |
+| 13:06 | **yuumiuro**: Cuddly Candle (N) | **quietlyangel**: Ride-A-Pet Potion ×3 |
 | 13:00 | **foodyx**: African Wild Dog (FR), Balloon Unicorn (R), Hedgehog (FR), Siamese Cat (NR) | **Berryavenueslag**: Peppermint Penguin (MFR) |
-| 13:00 | **GermidOMika**: Ride-A-Pet Potion | **lxnxlyXfrxvxr**: Ocelot (M) ×2 |
-| 13:00 | **persik_22866**: Arctic Fox (R), Ride-A-Pet Potion | **MM2jug**: Arctic Fox (FR) |
-| 13:00 | **Emmo_emmaji**: Cow (FR), Mini Pig (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **TH_lox0**: Strawberry Shortcake Bat Dragon (FR), Border Collie (R) |
-| 13:00 | **F1uffybun1**: Frost Dragon (FR), Jellyfish (MFR) | **Jay_basealters**: Giraffe (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion ×2, Pink Cat Ear Headphones, Bready Necklace ×2, Llama (R) |
-| 13:00 | **Fruit_Kittie**: Axolotl (R), Goldhorn, Ride-A-Pet Potion | **Elpepeexd2134**: Alley Cat (FR) |
-| 13:00 | **goofy_bro20**: Aurora Fox (MFR) | **heyyyitsdawn2**: Cryptid (FR) |
-| 13:00 | **diecoole10976**: Snowball Pet (R), Pupcicle | **GRINCH8276**: Snow Monkey |
-| 13:00 | **kkaatEEe2**: Pupcicle | **Paifrennnn**: Ride-A-Pet Potion |
-| 13:00 | **Julee_Lov**: Snowball Pet (R) | **JustJordan744**: Snowball Pet |
-| 13:00 | **jabotama12**: Royal Palace Spaniel (NFR), Frog (N) | **carolzinhac2009**: Brown Springer Spaniel (NR) |
-| 13:00 | **Shadx_1553**: Mini Pig (MFR) | **Marilynbrandt662**: Royal Mistletroll (MFR), Cow (FR) |
-| 12:55 | **Addmymainamv**: Arctic Reindeer (FR) | **bunny_splash4**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×3 |
-| 12:55 | **Hello_555819**: Owl (FR), Cow (FR), Rain Cloud Hat, Fly-A-Pet Potion, Ride-A-Pet Potion ×12 | **kirby_ladivoise**: Frost Dragon (FR) |
-| 12:55 | **komod4562**: Respectful Mustache, Ice Cream Heels | **bunnystrikee**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
