@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 22:46 UTC by the scrape workflow._
+_Updated 2026-11-19 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 22:46 UTC by the scrape workflow._
 | amvgg | 9 | 43,598 | 2026-11-19T22:45 |
 | elve | 9 | 8,751 | 2026-11-19T22:46 |
 
-## AMVGG completed trades: 37,521 total
+## AMVGG completed trades: 37,546 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,525 |
+| 2026-11-19 | 3,550 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 22:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **Yiju0225**: Ride-A-Pet Potion | **Nanaosaki176**: Puffer Fish |
-| 22:45 | **flipmyflipflop**: Leviathan (NFR), Munchkin Cat, Candy Hare, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Golden Bone | **uskewjjw**: Sugar Glider (FR) |
-| 22:45 | **Riikka_Takanashiii**: Halo | **ItsxCloud5**: Angel Wings, Goth Shoes, Pet Handler Pro Certificate |
-| 22:45 | **Nutty_1352**: Panda (MFR) | **ploB_666**: Ghostly Cat (M), Ibex (M), Kid Goat (MFR), Bee (M), Black-Footed Ferret (M), Starfish (M), Samoyed (M), Bakeneko (M), Mummy Spider (M) |
-| 22:45 | **meowlix001**: Dancing Dragon (FR), Alley Cat (NFR), Velocirooster, Ride-A-Pet Potion ×2, Count Slothula | **latuk_1119**: Turtle (FR) |
-| 22:45 | **pupgenderr**: Cow (FR), Ride-A-Pet Potion | **Mishmila**: Goose (FR) |
-| 22:45 | **fatzhiiiiii**: Kangaroo (FR), Dalmatian (FR), Spring Bunny Hood, Hamster (MR), Penguin (NFR), Pink Cat Ear Headphones, Burger Boots, Strawberry Shortcake Bow | **Kit_tblmamymav1**: Cryptid (FR) |
-| 22:45 | **Dasha0Liza1**: Frost Unicorn (R), Candyfloss Chick (R), Flamingo (FR), Frost Fury (FR), Kitty Bat (R) | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
-| 22:45 | **sorrowpage**: Pain au Chat (M) | **N3ssii0**: Chihuahua (M) |
-| 22:45 | **adriel_24k**: Pig | **m4i5i33**: Mr. Whiskerpips (MFR) |
-| 22:45 | **stargxldani**: Ride-A-Pet Potion ×2 | **6evesvokhaha**: Fly-A-Pet Potion |
-| 22:45 | **SierraPlayzADM**: Ride-A-Pet Potion, Skelicorn, Stray Cat Dragon, Purrowl | **MckDull**: Wooly Rhino |
-| 22:45 | **nxat_t**: Harp Seal (N) | **ploB_666**: Pet Handler Pro Certificate, Red Dutch Guinea Pig |
-| 22:45 | **84382g**: Pig (FR) | **mister_ytka29**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
-| 22:45 | **cbmelissa**: Spring Bunny Hood ×2, Ride-A-Pet Potion | **donnotinteract**: Tiny Wings |
+| 22:55 | **serspect**: Purrowl (M) | **ameyyass**: Ride-A-Pet Potion ×2 |
+| 22:55 | **Lqvari**: Rain Cloud Hat, Pink Cat Ear Headphones, Pink Heart Glasses, Ride-A-Pet Potion | **strawberrixmilkii**: Unicorn Horn |
+| 22:55 | **kittyvxii**: Ride-A-Pet Potion, Cattuccino (N) | **Aggr0berlin**: Orca (M) |
+| 22:55 | **Mizuyaix**: Chihuahua (M), Rain Hat, Ride-A-Pet Potion | **mini_mitauwuyt**: Toaster Hat |
+| 22:55 | **Alaska_rdx**: Crimson Cape (M), Ms. Muffet (R) | **AndresPatato**: Ride-A-Pet Potion |
+| 22:55 | **Cvhretujhhgia**: Candicorn (R), Chihuahua ×2 | **haiI3yyyy**: Werewolf |
+| 22:55 | **outcrie**: Frostbite Bear (MFR), Munchkin Cat (FR) | **waveyJackiex**: Owl (FR), Evil Unicorn (FR) |
+| 22:55 | **p_awth**: Candicorn (R) | **sufferingtogether**: Momma Moose (M), Dirty Ducky (MR), Easter Bunny (M), Dire Wolf (M), Ghost Wolf (M), Boohoo (M), Amber Butterfly (M), Lunar Tiger (M), Ratatoskr (M), Samoyed (M) |
+| 22:55 | **harpsealpaws**: Giant Panda (NR) | **waveyJackiex**: Arctic Fox (R), Pig (FR), 2022 Birthday Confetti Cannon, Siamese Cat (R), Super Jetpack, Fairy Bat Dragon (FR), Strawberry Tortle (FR), Goose (FR), Turtle (NFR), Siamese Cat (NFR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Cow (NFR), Rainbow Maker ×2, Ride-A-Pet Potion ×3 |
+| 22:55 | **AmvggUser**: Solaris (R) | **Panci_Terbang33**: Pupcicle ×3 |
+| 22:55 | **chaarizegie348**: Undead Jousting Horse (FR) | **Pawwzzed**: Kangaroo (NFR) |
+| 22:55 | **aericii**: Cupid Dragon (NFR) | **refeesv**: Sugar Glider (FR) |
+| 22:55 | **elproXD_7v7**: Chihuahua ×5 | **MckDull**: Ride-A-Pet Potion ×2 |
+| 22:55 | **4evxer**: Mini Pig (FR), Mini Pig (R), Spring Bunny Hood ×2 | **AmvggPi0n41K**: Nessie (MFR) |
+| 22:55 | **Z1j44**: Ring-Tailed Lemur (FR) | **holixd489632**: Tri-horned Treehopper (R) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
