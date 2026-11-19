@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 18:31 UTC by the scrape workflow._
+_Updated 2026-11-19 18:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 18:31 UTC by the scrape workflow._
 | amvgg | 9 | 39,452 | 2026-11-19T18:30 |
 | elve | 9 | 7,766 | 2026-11-19T18:31 |
 
-## AMVGG completed trades: 36,634 total
+## AMVGG completed trades: 36,662 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,638 |
+| 2026-11-19 | 2,666 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 18:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:30 | **swirlsfawn**: Mini Pig (MFR), Water Rabbit (MFR), Moon Rabbit (MFR), Amami Rabbit (MFR) | **aavqaii**: Strawberry Tortle (MFR), Hare (MFR) |
-| 18:30 | **l_i8ra7**: Ride-A-Pet Potion | **rhgkehgw**: Capybara (R) |
-| 18:30 | **Kaamyxa**: Purrowl, Alicorn, Fly-A-Pet Potion, Ride-A-Pet Potion | **Mkomwqil**: Biodome Home |
-| 18:30 | **popadastr000**: Catte | **ll_90dfhj**: Black-Footed Ferret (M) |
-| 18:30 | **Mkomwqil**: Puffer Fish | **Solecitalamasbonita**: Kitty Biscuit |
-| 18:30 | **Mkomwqil**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Sentikaza_pikachu**: Biodome Home |
-| 18:30 | **yawmzn**: Rainbow Maker ×2, Unicorn Horn ×2, Rain Cloud Hat ×2, 2022 Birthday Cake, Cotton Candy Hat, 2022 Birthday Confetti Cannon, Spring Bunny Feet, Spring Bunny Hood, Cherry-On-Top, Chocolate Chip Bat Dragon Backpack, Tombstone Ghostify, Dragonfruit Fox (NR), Spring Bunny Nose | **zeejnaa**: Cabbit (MFR) |
-| 18:30 | **randoseruh**: Christmas Pudding Pup (MFR), Rose Quartz Glow Mega Neon Paint | **bunnibakes**: Munchkin Cat (NR), Chocolate Dutch Guinea Pig (M), Amami Rabbit (MFR), Cattuccino (MFR), Catte (MFR), Chihuahua (M) |
-| 18:30 | **franz_1365**: Capybara (MFR) | **themegaplahs**: Unicorn (MFR), Happy Duckling (MR) |
-| 18:30 | **AlphaMax_2951956746**: Peppermint Penguin (R), Pig (FR), Munchkin Cat, Biodome Home, Snow Monkey, Lunar Gold Tiger (NR), Candy Hare, Ride-A-Pet Potion ×4, 1000 Bucks Silk Bag ×7 | **Kety222222222**: Strawberry Shortcake Bat Dragon (R) |
-| 18:30 | **djdjdksoksksks**: Ride-A-Pet Potion ×16 | **zpro_jumpeur**: Candicorn (FR) |
-| 18:25 | **Shehatesme420**: Ride-A-Pet Potion ×5 | **jellyfish1248396**: Catte ×2, Water Rabbit, Eggnog Dog, Clownfish, Inmate Capuchin Monkey, Therapy Dog, Snowball Pug, Red Squirrel, Black Macaque, Tarsier |
-| 18:25 | **1Biahsz_altx**: Ride-A-Pet Potion | **sllwexx**: Irish Setter (M) |
-| 18:25 | **lililili2288_pot**: Shark Puppy (NFR), Ride-A-Pet Potion | **YUMIIMOTHZZ**: Ice Cream Hermit Crab (MFR) |
-| 18:25 | **Jenniea264**: Cherub Chipmunk (M), Stingray (NR) | **Nastya_Mihalyk**: Ride-A-Pet Potion |
+| 18:40 | **Kainys_urlove**: Caelum Cervi (MFR) | **blushbyelle**: Cupid Dragon (MFR) |
+| 18:40 | **czosnek00**: Fairy Bat Dragon (MFR), Goose (R) | **TT_0qwerty45**: Frost Dragon (FR) |
+| 18:40 | **dameslapsosbflfndk**: Fairy Bat Dragon (FR), Phantom Dragon (FR) | **ksenia_unicorn67**: Candicorn ×2 |
+| 18:40 | **Alecsandra3107**: Cow (FR), Sea Slug (R), Hedgehog (FR) | **BugShot_2**: Balloon Unicorn (FR) |
+| 18:40 | **Elwanizk**: Pain au Chat | **Ksu_lovesssO**: Retired Egg ×18 |
+| 18:40 | **limohq**: Fly-A-Pet Potion | **Milk_20392**: Dragon (M) |
+| 18:40 | **limohq**: Ride-A-Pet Potion ×2 | **Milk_20392**: Dragon (M) |
+| 18:40 | **lypsi0**: Dango Penguins (R) | **million46283**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 18:40 | **Pierro0_0hehe**: Ice Wolf (NFR), Matcha Cat | **6d7d6d66**: Kangaroo (FR) |
+| 18:40 | **lisamod65321**: Chocolate Labrador (M), Ancient Dragon, Dragon, Purrowl (N) | **Pelmeshek201010**: Ride-A-Pet Potion |
+| 18:40 | **Klaysi_flayra**: Black-Footed Ferret, Shih Tzu (M), Nurse Shark (N), Toucan ×2, Skelicorn, 2026 Birthday Butterfly (N), Oakee Knight, Shoebill (N), Crimson Cape ×2, Corgi ×2 | **pwaranoiia**: Ride-A-Pet Potion |
+| 18:40 | **pepapepa333**: Many Mackerel, Pet Handler Pro Certificate, White Chef Hat | **piinkttape**: Matcha Cat |
+| 18:40 | **yyauigui**: White Chef Hat ×2, 2D Box | **hxquip**: Ride-A-Pet Potion |
+| 18:40 | **Fan_deJennaO**: Harp Seal (N) | **pugq33n23**: Ride-A-Pet Potion ×5 |
+| 18:40 | **thepro1bank1**: Kangaroo (R) | **asana6090**: Moon Rabbit (MFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
