@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 14:25 UTC by the scrape workflow._
+_Updated 2026-11-19 14:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 14:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 35,505 | 2026-11-19T14:15 |
-| elve | 9 | 6,945 | 2026-11-19T14:15 |
+| amvgg | 9 | 35,721 | 2026-11-19T14:30 |
+| elve | 9 | 6,996 | 2026-11-19T14:31 |
 
-## AMVGG completed trades: 35,810 total
+## AMVGG completed trades: 35,825 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,814 |
+| 2026-11-19 | 1,829 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 14:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:25 | **vryxsian**: Pupcake | **canvrilita2**: Pain au Chat, Penguin |
-| 14:25 | **Xxxxashhhh**: Fly-A-Pet Potion, Ride-A-Pet Potion | **CharleneAngel23**: Latte Kitsune |
-| 14:25 | **Izzyis_041**: Fallow Deer (NFR) | **Xxxxashhhh**: Pet Handler Pro Certificate ×6 |
-| 14:25 | **M7XX2007**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Arctic Reindeer (FR), Dire Wolf (MR), Dire Wolf (MFR), Fire Stallion (MFR) | **mawifa123**: Owl (FR) |
-| 14:25 | **hodryvfjyy**: Grinmoire, Robot, Gemstone Egg, Jumpscare, Orca, Toy Poodle | **dayn_toxic**: Black Scooter |
-| 14:25 | **F_BestWw**: Flash Weasel (FR) | **bread99883**: Crocodile (FR) |
-| 14:25 | **perit4733**: Ride-A-Pet Potion | **verkaash**: Alicorn (NR) |
-| 14:25 | **Rryiiaaaoo**: Harp Seal (MFR), Halo, 2022 Birthday Cake | **Slimeswaztaken44**: Arctic Dusk Dragon (MFR) |
-| 14:25 | **0kayFranny**: Owl (R), Evil Unicorn (FR), Undead Jousting Horse (MFR), Cow (FR), Turtle (FR), Unicorn Horn | **hanb3ki**: Bat Dragon (FR) |
-| 14:25 | **stargerthings_fan198**: Halloween White Ghost Dragon, Moose Calf (R) | **Xxxxashhhh**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 14:25 | **Penguinis_icey**: 2022 Birthday Party Horn | **geceonlinee**: Pet Handler Pro Certificate ×6 |
-| 14:25 | **keissitojf**: Fly-A-Pet Potion | **BuenosDias1111**: Spring Bunny Feet |
-| 14:25 | **Kotiyka_ya20**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) | **Auds191102**: Balloon Unicorn (FR) |
-| 14:25 | **xXsiimplyblxoomxX**: Parrot (FR), Mini Pig (R), Polar Bear (R) | **gaspooio**: Owl (FR) |
-| 14:25 | **magskie1**: Copycat ×2 | **amyjaynie86**: Haetyphoon |
+| 14:30 | **cc0uture16**: Crocodile (FR), Frost Fury (FR) | **milkiway0334**: Siamese Cat (R) |
+| 14:30 | **S3rennx**: Spring Bunny Hood | **moral608**: Fly-A-Pet Potion ×2 |
+| 14:30 | **Vachonpon**: Halloween White Skeleton Dog (M), Dragonfruit Fox | **Pingola_12**: Golden Penguin (NFR) |
+| 14:30 | **artem287473**: 2022 Birthday Party Hat, Goth Shoes, Ride-A-Pet Potion ×2 | **Foxy_poo23**: Fairy Bat Dragon (FR) |
+| 14:30 | **carolzinhac2009**: Pig | **so_funnylike**: Ride-A-Pet Potion ×8 |
+| 14:30 | **Auds191102**: Strawberry Shortcake Bat Dragon (FR), Candicorn (NFR), Candicorn | **ReinMagne**: Candicorn (MFR) |
+| 14:30 | **Ira_20086**: Ride-A-Pet Potion | **8enjineji**: Stitches ×9 |
+| 14:30 | **Lurxell**: Arctic Fox (FR), 2022 Birthday Party Horn | **abcdefghijkl_6701**: Siamese Cat (R), Flying Fairy |
+| 14:30 | **Ira_20086**: Ride-A-Pet Potion | **0MGSARAY**: Mecha R4BBIT ×2 |
+| 14:30 | **Apelcon_lalmola**: Arctic Dusk Dragon (NFR), Turkey (R), Ice Cream Cone Hat ×2, Ride-A-Pet Potion, Fly-A-Pet Potion, Picnic Basket | **avokado_6001**: Frostbite Bear, Candicorn |
+| 14:30 | **Luluy236810**: Border Collie (R), Owlbear (R), Groundhog | **Rital_qwqm**: Owlbear (NFR) |
+| 14:30 | **flears_brai**: Ride-A-Pet Potion ×6 | **mawifa123**: Dire Wolf (MFR), Dire Wolf (MR) |
+| 14:30 | **wggggg000**: St Bernard, Zodiac Minion Chick, Gingerbread Reindeer, Ginger Cat, Toucan, Snow Leopard, Halloween Golden Mummy Cat | **16y97**: Ride-A-Pet Potion |
+| 14:30 | **nornomm**: Pancake Stack | **jauzyp**: Count Slothula ×4, Halloween White Mummy Cat, Halloween Black Mummy Cat |
+| 14:30 | **Usuario30x**: S'mores Raccoon (N) | **PixiePawsTrade**: Fly-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
