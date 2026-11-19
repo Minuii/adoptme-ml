@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 16:41 UTC by the scrape workflow._
+_Updated 2026-11-19 16:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 16:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 37,541 | 2026-11-19T16:30 |
-| elve | 9 | 7,442 | 2026-11-19T16:31 |
+| amvgg | 9 | 37,778 | 2026-11-19T16:45 |
+| elve | 9 | 7,506 | 2026-11-19T16:46 |
 
-## AMVGG completed trades: 36,277 total
+## AMVGG completed trades: 36,300 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,281 |
+| 2026-11-19 | 2,304 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 16:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:41 | **KoTik_rbx2010**: Fly-A-Pet Potion, Ride-A-Pet Potion, Golden Hamster (R) | **asmornn**: Platypus, Sushi Penguin |
-| 16:41 | **lola_bear1995**: Ride-A-Pet Potion, Chihuahua | **burger_boy687**: Leopard Shark |
-| 16:41 | **cemen346t**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **asmornn**: Fairy Bat Dragon (FR) |
-| 16:41 | **roblox_user_8676283275**: Cow (FR) | **ismsil_10o**: Matcha Cat (NFR) |
-| 16:41 | **K_KLOPQ**: Lava Wolf (MFR), Vanilla Penguin (MFR), Brown Springer Spaniel (MFR) | **js_elizz**: Owlbear (MFR) |
-| 16:41 | **atracttion**: Bat Dragon (FR), Owl (FR) ×2, Crow (NFR), Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Horn | **akzoad**: African Wild Dog (MFR) |
-| 16:41 | **faebnny**: Siamese Cat (MFR), Harp Seal (MFR), Chocolate Dutch Guinea Pig (MFR) | **14pawz**: Caterpillar (MFR) |
-| 16:41 | **TwiXq0**: Dragonfruit Fox | **Lyiz757**: Ride-A-Pet Potion ×2 |
-| 16:41 | **kylebarcebas1**: Bat Wings, Fishbone Badge | **rainbow28546**: Ride-A-Pet Potion |
-| 16:41 | **disyvx**: Owl (FR), Giant Panda (FR), Cryptid (R), Kangaroo (NFR), Pelican (FR), Kangaroo (FR), Zombie Buffalo (NFR), Fly-A-Pet Potion, Vanilla Penguin | **akzoad**: Shadow Dragon (FR) |
-| 16:41 | **XAxelX88**: Fairy Bat Dragon (FR), Mermicorn (R), Spring Bunny Feet | **gingerbread0292**: Chocolate Chip Bat Dragon (FR) |
-| 16:41 | **realmp10007**: Fairy Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) | **realCarterfox175**: Balloon Unicorn (FR) |
-| 16:41 | **Sleepy_pebblez**: Ghost Dog (NR), Rhino (N) | **EmiliaMika2010**: Arctic Fox (R) |
-| 16:41 | **diwwiss080**: Lion Cub (MFR) | **Syshsf237**: Hedgehog (FR), Munchkin Cat (FR) |
-| 16:41 | **Mor0rojenka**: Fly-A-Pet Potion | **nornomm**: Burger Boots, Ride-A-Pet Potion |
+| 16:45 | **Traderieeeeeeeee1**: Ride-A-Pet Potion, Mochi Meow (N) | **0nlyMeBri**: Elf Shoes, Elf Bandana, Santa's Bow, Candy Cane (Pet Wear), Festive Scarf |
+| 16:45 | **Alan1_0001**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **s11lena**: Pig (R) |
+| 16:45 | **Scar_3090**: Orca (M) | **poshol_naxouPwP**: Ride-A-Pet Potion |
+| 16:45 | **jobma228**: Elephant (R), Fly-A-Pet Potion, Gemstone Egg ×2, Ride-A-Pet Potion | **sona6839**: Frost Unicorn (R) |
+| 16:45 | **moral608**: Fly-A-Pet Potion ×3 | **lianaunicorn14**: Fallow Deer (FR) |
+| 16:45 | **Elis_thxx**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×3 | **kmj081022**: Arctic Reindeer (FR) |
+| 16:45 | **hathattty**: Cryptid (FR) | **seloxxlta**: Christmas Pudding Pup (MFR) |
+| 16:45 | **faikubjotch**: Glormy Leo | **VvK1e**: Ride-A-Pet Potion ×3 |
+| 16:45 | **SoShark1**: Admin Abuse Egg ×6 | **hugsformy_sisfinjaa**: Shoebill ×2, Caramelgeist ×4 |
+| 16:45 | **Koshka_Alinka8**: Pupcake | **Calico_Mocha**: Bunny Swirl |
+| 16:45 | **kdkenendndnd**: Cow (FR), Sugar Glider (R), Fairy Bat Dragon (FR), Red Dutch Guinea Pig, Strawberry Penguin (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **shwriiimp**: Hedgehog (FR) |
+| 16:45 | **lerasryuefj**: Haetyphoon (NFR) | **CutestAstro**: Frostbite Bear (FR), Haetyphoon (FR), Jester Dragon (NFR) |
+| 16:45 | **youngestxd**: Frost Dragon (FR), Hedgehog (FR), Cow (NFR), Mini Pig (R), Fairy Bat Dragon (FR), Sugar Glider (R), Alpaca (R), Candyfloss Chick (FR) | **xKashaf**: Shadow Dragon (FR) |
+| 16:45 | **beth_tam10ALT**: Ice Cream Cone Hat | **NotSweatyOnion**: Spring Bunny Hood, Fly-A-Pet Potion |
+| 16:45 | **Lola_ant34**: Ring-Tailed Lemur (MFR) | **copyvoting**: Zombie Wolf (MFR), Goldhorn (MFR), Chocolate Dutch Guinea Pig (MFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
