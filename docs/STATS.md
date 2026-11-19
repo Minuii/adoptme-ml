@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 06:16 UTC by the scrape workflow._
+_Updated 2026-11-19 06:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 06:16 UTC by the scrape workflow._
 | amvgg | 9 | 28,414 | 2026-11-19T06:15 |
 | elve | 9 | 5,640 | 2026-11-19T06:15 |
 
-## AMVGG completed trades: 34,759 total
+## AMVGG completed trades: 34,772 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 763 |
+| 2026-11-19 | 776 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 06:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:25 | **Hungry_Sleppy**: Evil Unicorn (FR), Goose | **Xnixht**: African Wild Dog (FR) |
+| 06:25 | **pumpknIatte**: Fly-A-Pet Potion ×5 | **raeshiia**: Tiny Wings |
+| 06:25 | **jevxqz**: Chocolate Chip Bat Dragon (FR), German Shepherd (MFR) | **nameless_95**: Cabbit (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 06:25 | **rip_indra12345678912**: Strawberry Tortle, Werewolf (NR), Sakura Spirit (NFR) | **romoko_00**: Copycat (MFR) |
+| 06:25 | **Yourgrandadpullsfr**: Blue Cat Ear Headphones | **etherealstarblaze**: White Chef Hat |
+| 06:25 | **thafterparty**: Peachick, Count Slothula, Skelebat, Monkey (F) | **altaccount02037**: Ride-A-Pet Potion |
+| 06:20 | **weelk110**: Cow (FR), Kangaroo (FR), Arctic Fox (R), Frosty Glow Mega Neon Paint, Halloween Slime Mega Neon Paint, Mighty Haetyphoon Animated Sticker, Black Chow-Chow, Pupcake, Lemonade Stand, Slothula Transformation Animated Sticker | **CcLuims011x**: Chocolate Chip Bat Dragon (R) |
+| 06:20 | **ellielielielieee**: Purrowl ×3, Stray Cat Dragon, Dragonfly, Pomeranian ×2, Boohoo, Stitches ×3, Starfish, Ribbon Seal, Jacobin Pigeon, Robot ×3, Pelican Stroller | **panda_wolfielover**: Ride-A-Pet Potion |
+| 06:20 | **MrIcedKofi**: Kangaroo (R) | **MiLkas_20111**: Frost Fury (NFR), Ride-A-Pet Potion ×4 |
+| 06:20 | **MrIcedKofi**: Kangaroo (R) | **Maryha0243**: Frost Fury (NFR), Ride-A-Pet Potion ×4 |
+| 06:20 | **iaMatthieu1**: Tortoiseshell Guinea Pig (N) | **flamgofannx**: 2022 Birthday Confetti Cannon, Unicorn Backpack, Alpaca, Candicorn, Diamond Hummingbird |
+| 06:20 | **ZozoPingvin**: Ride-A-Pet Potion ×7 | **iaMatthieu1**: Goat |
+| 06:20 | **robloxer_3614**: Cat Backpack, Princess Mare (N) | **svekoc**: Momma Moose, Irish Setter (N) |
 | 06:15 | **SleepySxturnn**: Rubber Ducky (M), Ice Cube, Gumball Caterpillar (N), Zodiac Minion Chick, Thunderfisher ×2, Metal Ox | **QetiChitashvil**: Ride-A-Pet Potion |
 | 06:15 | **bolsi_06**: Chocolate Dutch Guinea Pig (MFR), Pet Handler Pro Certificate | **liofe1**: Cow (FR) |
-| 06:15 | **heesuukey**: Aussie Egg, Rain Hat, Purple Heart Glasses | **lilpepeng150**: Pancake Stack ×2 |
-| 06:15 | **kworixx**: Chameleon, Ancient Dragon (FR) | **nerkym_life1331**: Ride-A-Pet Potion |
-| 06:15 | **JuJuisdecent3742**: Hamster (MFR), Giant Panda (FR), Turtle (FR), Toasty Red Panda (MFR), Chicken (NFR), Frostbite Cub (MR) | **Zeyneexp**: Owl (FR) |
-| 06:15 | **obvszoey**: Irish Water Spaniel (MFR), Goat (MFR), Lion Cub (MFR), Ice Cream Hermit Crab (MFR), Snowball Pet (MFR), Yeti (MFR), S'mores Raccoon (MFR), Red Sand Dollar (MFR), Bunny Swirl (MFR) | **sequo1_a**: Owl (NFR) |
-| 06:15 | **rasediva**: Pet Handler Pro Certificate | **cocothemoco1231**: Dire Wolf (M) |
-| 06:15 | **hey_sarra**: Strawberry Shortcake Bat Dragon (FR) ×2 | **GpaSntsaisquoi**: African Wild Dog |
-| 06:15 | **gargajo_2**: Jester Dragon (NFR), Frost Fury (FR) | **ClarinetaBombardina**: Turtle (FR) |
-| 06:15 | **oscarfeo15**: Fly-A-Pet Potion | **sclilxq**: Panda Pal |
-| 06:15 | **yoursocksstink2**: Evil Unicorn (NFR) | **murid5**: Chocolate Chip Bat Dragon (FR), Glacier Kitsune (NFR), Halloween White Ghost Dragon (NFR), Amami Rabbit (MR), Unicorn (MFR), Moon Rabbit (MR), Fairy Bat Dragon (FR), Jellyfish (FR), Leopard Shark (N) |
-| 06:15 | **awa_awaawa34**: Unicorn Horn | **Stunaief**: Tarsier (MR), Great Pyrenees (MR) |
-| 06:15 | **Ashley_Maylin1**: Chef Hat, Bready Necklace, Fishbone Badge | **danfg3654**: Pancake Stack |
-| 06:11 | **sarashu3band**: Rainbow Maker, Tiny Wings ×2, Unicorn Horn, Unicorn Backpack ×2 | **lona262**: Copycat (MFR) |
-| 06:11 | **N0T_ASQ1T**: Evil Unicorn (FR), Shark Puppy (FR), Munchkin Cat (N), Candicorn, Tiny Wings | **that0neax0l0tl1**: Parrot (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
