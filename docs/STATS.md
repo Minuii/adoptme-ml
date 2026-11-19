@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 19:46 UTC by the scrape workflow._
+_Updated 2026-11-19 19:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 19:46 UTC by the scrape workflow._
 | amvgg | 9 | 40,753 | 2026-11-19T19:45 |
 | elve | 9 | 8,061 | 2026-11-19T19:46 |
 
-## AMVGG completed trades: 36,917 total
+## AMVGG completed trades: 36,939 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,921 |
+| 2026-11-19 | 2,943 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 19:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:45 | **Rkuamgrh6**: Fly-A-Pet Potion, Ride-A-Pet Potion | **cowlol898**: RGB Monster Truck, Dog House Stroller, Hatched Egg Stroller, Triple Stroller, Inspector Sherbet Bus, Micro Car, Bee Shuttle, Celestial Carrier, Kangaroo Stroller, Orbweaver Glider, Double Stroller |
-| 19:45 | **faebnny**: Kangaroo (NFR), Space Whale (MFR), Fly-A-Pet Potion ×2 | **santii_css**: Scorching Kaijunior (MFR) |
-| 19:45 | **012e0122**: Albino Gorilla (MFR), Chocolate Dutch Guinea Pig (MFR), Queen Bee (MFR), Axolotl (MFR), Burger Bear (MFR) | **santii_css**: Emperor Gorilla (MFR) |
-| 19:45 | **Pupppy457**: Strawberry Tortle (N), Kraken Hat, Snow Cloud Wings ×2 | **XAxelX88**: Strawberry Tortle (F), Strawberry Tortle ×2, Strawberry Tortle (FR) |
-| 19:45 | **track10s**: Cow (FR) | **popkaBysiTaksy228**: Copycat ×6 |
-| 19:45 | **katcat_gamer**: Munchkin Cat (MFR), Unicorn Horn, Tiny Wings, Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **jeilyns1225**: Siamese Cat (MFR) |
-| 19:45 | **XiaoFaye1433**: Elephant (FR) | **10maya_140311**: Pupcicle (MFR) |
-| 19:45 | **cxltwaste**: Fly-A-Pet Potion ×12, Sloth (R) | **Milena_girl686**: Turtle (FR) |
-| 19:45 | **x30lyxkt**: Pupcicle | **fox09649**: Toilet Stroller |
-| 19:45 | **Its_soulseekk**: Evil Unicorn (FR), Chocolate Chip Bat Dragon (FR) | **IconsChew**: Parrot (FR) |
-| 19:45 | **l1nshan**: Hippogriff | **xlucy_08x**: Ride-A-Pet Potion |
-| 19:45 | **24tyra**: Harp Seal (MR) | **legendaryGoldenBoxer**: Scarebear (MFR) |
-| 19:45 | **wixmuaa**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4, Golden Lettuce, Unicorn ×2, Gargoyle (R) | **FeRicebear**: Flash Weasel |
-| 19:45 | **D0RI01z**: Highland Cow (MR) | **zkliam12**: Snowball Pet (NFR) |
-| 19:45 | **FlyToTheSaturn**: Frostclaw ×2, Golden Dragon, Golden Egg, Golden Griffin ×4, Golden Hamster, Golden Ladybug, Golden Tortoise Beetle, Halloween Golden Mummy Cat, Moonbeam Butterfly, Mythic Egg ×2, Primal Kaijunior ×2, Quetzalcoatl | **wanda_vision680**: Unicorn (NFR) |
+| 19:55 | **ICholestrol**: Harp Seal (MFR) | **MiLkas_20111**: Fly-A-Pet Potion ×12 |
+| 19:55 | **lollucio251**: Bunny Swirl (MFR), Jester Dragon (R), Kitty Biscuit | **arquilo11**: Haetyphoon |
+| 19:55 | **OmegaRider_D4**: Fly-A-Pet Potion ×17 | **Idkk_0426**: Halo |
+| 19:55 | **OmegaRider_D4**: Black-Chested Pheasant | **Xxxxashhhh**: Fly-A-Pet Potion ×5 |
+| 19:55 | **Amvgg_2357**: Orchid Butterfly (R), Sea Turtle (M) | **kaibodydump**: Crocodile (FR), Fairy Bat Dragon (R), Bush Elephant (R), Peppermint Penguin, Papa Moose, Copycat |
+| 19:55 | **Triviatta9**: Fly-A-Pet Potion ×3, Chihuahua | **1149218432174291381**: Christmas Pudding Pup (R) |
+| 19:55 | **zzzz79022**: Pupcicle (N) ×2 | **Alex_x05228**: Burger Bear (M) |
+| 19:55 | **stoIencorpses**: Hotdog Stand, Lemonade Stand, Snow Owl | **Rkuamgrh6**: Ride-A-Pet Potion |
+| 19:55 | **ambervgils**: Ride-A-Pet Potion, Goth Shoes | **keiiwwq**: Sweetheart Rat (MR) |
+| 19:55 | **Lisohka78_3**: Owl (FR), Chocolate Chip Bat Dragon (FR), Peppermint Penguin (R), Fairy Bat Dragon (FR), Flamingo (FR), Kangaroo (FR), Candicorn (FR), Hare, Fly-A-Pet Potion, Christmas Pudding House, Classic Trade Stand | **blackpanterxdpr**: Giraffe (FR) |
+| 19:55 | **Finnles_duck**: Cow (NFR), Vanilla Penguin (NR), Clownfish (M), German Shepherd (N) | **Megansuperwales**: Munchkin Cat (MFR) |
+| 19:55 | **Sadieworldz**: Lynx (MFR) | **sweetbwunnii**: Yeti (MFR) |
+| 19:55 | **RENZSOMERA**: Panda Pal | **callme_maska**: Fly-A-Pet Potion |
+| 19:55 | **cicciobomba2353**: Wolf (MFR) | **Eb2loOFF**: Seagull ×2, Malaysian Tapir, Grave Owl, Chihuahua ×3, Chameleon ×2, King Bee, Squid, Cattuccino, Villain Gibbon, Super Saru, Dracula Parrot, Business Monkey, Golden Ladybug, Black Chow-Chow |
+| 19:55 | **callme_maska**: African Wild Dog (FR), Strawberry Penguin (FR) | **minne88831**: Hare (MFR), Honey Badger (MFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
