@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 02:16 UTC by the scrape workflow._
+_Updated 2026-11-19 02:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 02:16 UTC by the scrape workflow._
 | amvgg | 9 | 24,840 | 2026-11-19T02:15 |
 | elve | 9 | 4,945 | 2026-11-19T02:15 |
 
-## AMVGG completed trades: 34,286 total
+## AMVGG completed trades: 34,300 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 290 |
+| 2026-11-19 | 304 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 02:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:25 | **ale_45874**: Chocolate Chip Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (FR), Elephant (FR) | **notiamjhom**: Shadow Dragon (FR) |
+| 02:25 | **MinatoNamikazich**: Kangaroo (FR) | **Imdelulu120**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion |
+| 02:25 | **Elianatrustedd**: Burger Bear (M) | **ELOSOCURIOSO**: Pupcicle ×2, Sushi Penguin, Tortuga de la Isla |
+| 02:25 | **RyukkHolder**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion, Kitty Bat | **ioannboy**: Aestus (NR) |
+| 02:25 | **Panci_Terbang33**: Pupcicle ×5 | **locked_inrn54**: Fly-A-Pet Potion ×2 |
+| 02:25 | **duruaskar**: Horse | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 02:25 | **sunpnkk**: Giant Anteater (NR), Cow (FR), Cow, Unicorn Horn, Frostbite Bear | **TANSKlN**: Giant Anteater (MFR) |
+| 02:25 | **vcloss**: Naughty Mistletroll, Cactus Friend (N), Diamond Griffin (NFR), Ride-A-Pet Potion | **MrRxwr**: Pupcicle ×5 |
+| 02:25 | **Strawberryxm0cha**: Mermicorn (FR) ×2, Goat, Copycat (R), Fly-A-Pet Potion | **Froggyblossom90**: Strawberry Shortcake Bat Dragon (FR) |
+| 02:25 | **justunujede123**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **lianchik_cutee**: Tanuki (MFR) |
+| 02:25 | **criedtogod**: Dragonfruit Fox (MFR), Bush Elephant (R) | **st4rman_sl4ughter**: Mini Pig (FR), Unicorn Horn |
+| 02:25 | **Robloxiana_xxx2011**: Fly-A-Pet Potion | **Carl86B**: Ride-A-Pet Potion, Paint Sealer ×5 |
+| 02:25 | **estehhxx**: Cupid Dragon, Owlbear, Crimson Cape (M) | **chicken_kaka7w7**: Cupid Dragon (FR), Pupcicle (N) |
+| 02:25 | **0MGJENNX0**: Panda (MFR), Pretty Pony (MFR), Black Springer Spaniel (MR) | **RuitLodewijk00**: Purple Butterfly (MFR) |
 | 02:15 | **Amvggtrad3r**: Swan (MFR) | **Cooking1626**: Lamb (MFR) |
-| 02:15 | **amyggvaI**: Goose (R), Peppermint Penguin (R), Fairy Bat Dragon (FR) ×2, Unicorn Horn, Candyfloss Chick (FR), Candyfloss Chick (R), 2022 Birthday Party Hat, 2022 Birthday Cupcake Shoes, Candicorn (R), 2022 Birthday Party Horn ×2, Ride-A-Pet Potion | **notiamjhom**: Frost Dragon (FR) |
-| 02:15 | **theking_56yt**: Crocodile | **skibidiswag85**: Ride-A-Pet Potion ×11 |
-| 02:15 | **dududdhdjdhd**: Cryptid (FR), Haetae (FR), Balloon Unicorn (F), Parrot (FR), Crow (FR), Undead Jousting Horse (NFR), Tiny Wings, Spring Bunny Hood, 2022 Birthday Confetti Cannon | **TreasureChest033**: Bat Dragon (FR) |
-| 02:15 | **LeonardoEC14**: Cryptid (FR), Parrot (FR) | **TreasureChest033**: Frost Dragon (FR) |
-| 02:15 | **vcloss**: Dilophosaurus (MFR), Peacock (NFR), Trapdoor Snail (MR), Octopus (NR), Sea Angel (M), 2021 Uplift Butterfly (M) | **Flashbook6**: Flash Weasel |
-| 02:15 | **el_anto8roblox**: Cherry Blossom Flower Sticker ×12 | **Gamesta_YT**: Slothula Transformation Animated Sticker |
-| 02:15 | **kj_1xa**: Ballet Swan (R), Chocolate Dutch Guinea Pig | **MewMewRoche101**: Aussie Egg |
-| 02:15 | **Hahahjajajo**: German Shepherd (MFR) | **LIAXMLV**: Ghost Bunny (MR), Winged Horse (R) |
-| 02:15 | **UltraSwiftbunnyboyTV**: Haetae (FR), Copycat, Dragonfruit Fox, Pet Handler Pro Certificate, Frostbite Bear and Cub Animated Sticker | **mamadmasa0111**: African Wild Dog (FR) |
-| 02:15 | **raeshiia**: Sushi Penguin | **awita_92729**: Ride-A-Pet Potion |
-| 02:15 | **murid5**: Shrew (NFR), 2022 Birthday Confetti Cannon, Munchkin Cat, Polar Bear (NR), Candy Hare (N) | **TESTACC1114_0**: Chocolate Chip Bat Dragon (FR) |
-| 02:15 | **Broncurrydurant1234**: Frost Dragon (FR), Dog | **assapickle**: African Wild Dog (R), African Wild Dog (FR) |
-| 02:15 | **Generikairw**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **littlefelonies**: Vampire Dragon (MFR) |
-| 02:15 | **turtletofrost7**: Werewolf (NFR), Crocodile (FR), Fly-A-Pet Potion | **Edwinisme4th**: Strawberry Shortcake Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
