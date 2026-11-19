@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 15:56 UTC by the scrape workflow._
+_Updated 2026-11-19 16:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 15:56 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 36,847 | 2026-11-19T15:45 |
-| elve | 9 | 7,299 | 2026-11-19T15:46 |
+| amvgg | 9 | 37,086 | 2026-11-19T16:00 |
+| elve | 9 | 7,355 | 2026-11-19T16:01 |
 
-## AMVGG completed trades: 36,113 total
+## AMVGG completed trades: 36,120 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,117 |
+| 2026-11-19 | 2,124 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,13 @@ _Updated 2026-11-19 15:56 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 16:00 | **opp51207**: Ride-A-Pet Potion | **Yelyzaveta_125**: Pupcake |
+| 16:00 | **Mharkie162**: Chihuahua ×3 | **Yelyzaveta_125**: Ride-A-Pet Potion |
+| 16:00 | **faikubjotch**: Ginger Cat (M) | **krikikriki56**: Ride-A-Pet Potion |
+| 16:00 | **roblox_user_5833242066**: Red Dutch Guinea Pig (NR), Wizard Caravan, Rock (R) | **lolcryabtit6767**: Arctic Dusk Dragon (N) |
+| 16:00 | **lhfshkg**: Turtle (FR) | **bebebeiv**: Fly-A-Pet Potion ×12 |
+| 16:00 | **lacem_73**: Cryptid (MFR) | **Cinzsins**: Bat Dragon (FR), Dalmatian (FR) |
+| 16:00 | **Feli_456443**: Candicorn (FR), Crocodile (FR), Aurora Fox, Ancient Dragon, Alicorn, Fairytale Egg ×4 | **itskayeeee**: Cow (FR) |
 | 15:56 | **Bleh_xxo**: Cattuccino, Tuxedo Cat, Admin Abuse Egg ×3 | **ITZKIYAX**: Elf Hat |
 | 15:56 | **bunnyblinkP**: Pig (R), Ride-A-Pet Potion ×4 | **Lolaa_chn**: Haetyphoon (R) |
 | 15:56 | **dinax1238**: Cow (FR), Ride-A-Pet Potion | **WeiYing_Editor**: Arctic Fox (N), Elephant (R) |
@@ -42,13 +49,6 @@ _Updated 2026-11-19 15:56 UTC by the scrape workflow._
 | 15:56 | **Altforamvggtrading67**: Owl, Crow (FR), Grim Dragon (FR), Dalmatian (FR), Pink Cat (FR), Ballet Swan | **sleepy_s0ren**: Frost Dragon (NFR) |
 | 15:56 | **Zzym6**: Evil Chick, Winter Buck (R), Paint Sealer | **Fidelia2131415**: Ride-A-Pet Potion |
 | 15:56 | **dianadonatlove**: Endangered Egg | **zzzzzxxxxxwr9**: Galapagos Sea Lion, Milk Choccybunny |
-| 15:51 | **carlkilling**: Sandwich Hat | **pinkybunnycue**: Fly-A-Pet Potion |
-| 15:51 | **Vikitoria19590**: Turtle (FR), Fly-A-Pet Potion ×4 | **Harriet_trades**: Munchkin Cat (NFR) |
-| 15:51 | **n0tl1ia**: Arctic Fox (FR) | **Ntyfoth**: Ride-A-Pet Potion, Arctic Fox (R) |
-| 15:51 | **ZzGhoul_RileyzZ**: Fly-A-Pet Potion | **kkaatEEe2**: Pupcicle ×2 |
-| 15:51 | **seb_ihhh**: Unicorn ×4 | **im_a1star4**: Rose Dragon |
-| 15:51 | **XIRABRIN36**: Unicorn, Ocelot ×2 | **Ashdorae**: Ride-A-Pet Potion |
-| 15:51 | **3amlaufey**: Vol. 2 Pets Plus Sticker Pack | **Penguinis_icey**: Pupcicle ×2 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
