@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 13:31 UTC by the scrape workflow._
+_Updated 2026-11-19 13:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 13:31 UTC by the scrape workflow._
 | amvgg | 9 | 34,843 | 2026-11-19T13:30 |
 | elve | 9 | 6,813 | 2026-11-19T13:31 |
 
-## AMVGG completed trades: 35,624 total
+## AMVGG completed trades: 35,651 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,628 |
+| 2026-11-19 | 1,655 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:30 | **chaeegirlff**: Owl (FR), Unicorn Horn | **Puddingxcutoy**: Strawberry Shortcake Bat Dragon (FR) ×3, Cow (FR), Ride-A-Pet Potion |
-| 13:30 | **cxar_25**: Peppermint Penguin (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **donnotinteract**: Hot Doggo (FR) |
-| 13:30 | **ima_lilcatfish**: Strawberry Shortcake Bat Dragon (MFR), Chocolate Chip Bat Dragon (MFR) | **Felix_itsnotme**: Cryptid (MFR) |
-| 13:30 | **ayiiishapot_2010**: Happy Duckling (MFR), Flower Power Duckling (MFR), Koi Carp (MFR), Clownfish (MFR) | **PrettyxDino**: Water Rabbit (MFR), Moon Rabbit (MFR) |
-| 13:30 | **qxwt_heh**: Fly-A-Pet Potion | **PennyNakahara**: Pupcake (N) |
-| 13:30 | **koshka_lima1331**: Mrs. Whiskerpips (M), Maine Coon (M), Unicorn ×3, S'mores Raccoon, Tuxedo Cat | **SELLERMM2STARPETS**: Haetyphoon |
-| 13:30 | **Kanistt**: Fairytale Egg ×18 | **Yzmabeth**: Retired Egg ×18 |
-| 13:30 | **tommylikeroblox2009**: Thunderfisher (N) | **Yzmabeth**: Retired Egg ×17 |
-| 13:30 | **misaki_hagami**: Cow | **growkittycat325**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion ×4 |
-| 13:30 | **rileysociety**: Frost Dragon (FR), Parrot (FR), Copycat (M), Peppermint Penguin (R), Pupcake (NFR), Onza (M) | **mamadmasa0111**: Shadow Dragon (FR) |
-| 13:30 | **AIexPIaysRBX**: Munchkin Cat (NR), Pupcicle (N), Sasquatch (MR), Kiwi Kiwi (N), Nessie (FR), Fly-A-Pet Potion, Mouse (M) | **FaZeTysonF**: Turtle (NFR) |
-| 13:30 | **MaRgOsHa201299**: Pupcicle, Gumball Caterpillar (NR) | **dnei30fast**: Ride-A-Pet Potion |
-| 13:30 | **varmitrof**: Chocolate Chip Bat Dragon (R), Strawberry Shortcake Bat Dragon (FR) ×2 | **qpicni**: Dalmatian (NFR) |
-| 13:30 | **WHOISY4NAA**: Fly-A-Pet Potion ×3 | **Sillyseal_026**: Fallow Deer (FR) |
-| 13:30 | **turbo142142**: Solaris, Stray Cat Dragon (N) | **Hey_Dant123**: Ride-A-Pet Potion ×2 |
+| 13:40 | **mxdmcrza**: Blue Butterfly (M), Pain au Chat | **avokado_6001**: Ride-A-Pet Potion |
+| 13:40 | **Lorenlsalone**: Huntsman Robin (N) | **Nicckie_Min42**: Crimson Cape ×4 |
+| 13:40 | **INeverrCap**: Mrs. Whiskerpips (MFR) | **ksenia_unicorn67**: Ride-A-Pet Potion ×4 |
+| 13:40 | **aloneiremgamer**: Glyptodon Ducky (M), Bone Wings, Blue Snowboard | **Kimyeonii**: Ride-A-Pet Potion |
+| 13:40 | **ariaeaea**: Harp Seal (MR), Pancake Stack, Propeller Hat | **24tyra**: 2022 Birthday Cake, Spring Bunny Hood |
+| 13:40 | **Bismuth234**: Mini Pig (R) | **St1tch_l0ver101**: Peppermint Penguin (R), Copycat (R), Aussie Egg |
+| 13:40 | **Esikiiomuru**: Copycat (N) | **sjak696**: Turtle (FR) |
+| 13:40 | **razarvale2z**: Chihuahua ×3 | **Leviodas**: Ride-A-Pet Potion |
+| 13:40 | **AsianIceCold**: Fairy Bat Dragon (FR), Turtle (FR), Candicorn (FR) | **kmj081022**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 13:40 | **Sunoo56298**: Pet Handler Pro Certificate | **Kurocuash**: Stray Cat Dragon (M) |
+| 13:40 | **Scentoftea**: Cattuccino, Electric Hornet, Pinkypillar (N) | **Jjne576**: Boohoo (N) |
+| 13:40 | **YuroMiyuk1**: Bolt (MFR) | **tbnrpangit**: Pet Handler Pro Certificate |
+| 13:40 | **ihamoda**: Owl (FR), Crow (FR), Blazing Lion (FR), Hedgehog (FR) ×2, Arctic Reindeer (NFR), Nessie (MFR), Candicorn (MFR), Candicorn (N), Turtle (NFR), Grim Dragon (R) | **kittycutecat11130**: Shadow Dragon (NFR) |
+| 13:40 | **adoptmexx626**: Fairy Bat Dragon (FR), Kangaroo (FR), Elephant (FR), Ride-A-Pet Potion ×2 | **lillygames_xx**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:40 | **Adoptmestocks3000**: Ride-A-Pet Potion | **roblox_user_1554000708**: Thinking Hat |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
