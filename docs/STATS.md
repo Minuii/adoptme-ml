@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 12:25 UTC by the scrape workflow._
+_Updated 2026-11-19 12:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 12:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 33,649 | 2026-11-19T12:15 |
-| elve | 9 | 6,579 | 2026-11-19T12:15 |
+| amvgg | 9 | 33,919 | 2026-11-19T12:30 |
+| elve | 9 | 6,614 | 2026-11-19T12:31 |
 
-## AMVGG completed trades: 35,462 total
+## AMVGG completed trades: 35,472 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,466 |
+| 2026-11-19 | 1,476 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 12:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:30 | **izzybprezleyfan**: Crystal Egg ×18 | **sashamaison**: Sunrise Hang Glider |
+| 12:30 | **namii_oppa7**: Dragonfruit Fox (NFR), Leopard Cat (MFR) | **slyvls**: Moon Rabbit (MFR) |
+| 12:30 | **fayeandwho**: Alpaca (MFR), Tiny Wings, Burger Boots | **bhonethith342**: Cryptid (N), Cryptid (FR) |
+| 12:30 | **Scarlett284616**: Music Box Hat | **Poppy_KAG**: Santa Throne |
+| 12:30 | **lolayummy444**: Alpaca (NFR), 2022 Birthday Cupcake Shoes | **dollfaceangie**: Hot Doggo (NFR) |
+| 12:30 | **Gabriele143love**: Munchkin Cat (MFR), Winged Tiger (R), Munchkin Cat | **cwutemais**: Candicorn (MFR) |
+| 12:30 | **hubaks_02**: Winter Doe (M) ×5, Winter Fawn (M) ×4 | **yusokini25**: Turtle (FR) |
+| 12:30 | **KotMonster7**: Ride-A-Pet Potion | **Osamu66Dazai**: Christmas Pudding House |
+| 12:30 | **monsterfill3**: Platypus (N), Hyena (NR), Ride-A-Pet Potion | **Mazvitarathead**: Fairy Bat Dragon (FR) |
+| 12:30 | **verazzx700**: Kakapo (M), Shih Tzu (M), Admin Abuse Egg ×2 | **hahatyn2024**: Ride-A-Pet Potion |
 | 12:25 | **IREV0LT1NG**: Toucan (M), Princess Mare (M) | **YAJAIRA289**: Chocolate Dutch Guinea Pig |
 | 12:25 | **AseesCr7GoesBoom**: Bat Dragon (FR), Spring Bunny Feet | **linxzcss**: Frost Dragon (FR) ×3, Christmas Pudding Pup ×4 |
 | 12:25 | **hubaks_02**: Winter Doe (M) ×6, Winter Fawn (M) ×3, Violet Friend (M) | **kkaatEEe2**: Turtle (FR) |
 | 12:25 | **SyndromGG**: Fairy Bat Dragon (FR) | **HelloIamnotsannaa**: Candicorn, Fallow Deer (R), Candy Hare (FR), Raccoon (NR), Sunrise Duckling, Lunar Moon Bear, Crystal Egg ×2, Golden Egg, Lava Wolf, Volcanic Rhino |
 | 12:25 | **henmxaii**: Cabbit (NFR) | **blushiibuns**: Candyfloss Chick (NFR) |
-| 12:25 | **shelinase**: Dragon | **peepyplops**: Classic Teapot |
-| 12:25 | **Caba7Senpai**: Toy Monkey (MFR), Spring Bunny Feet, Fly-A-Pet Potion | **0BVSLUCA**: Sugar Glider (FR) |
-| 12:25 | **izzybprezleyfan**: Enchanted Broomstick, Heart Hoverboard, Ride-A-Pet Potion | **Fortunate_812**: Wing Hang Glider |
-| 12:25 | **Youmyrii**: Caterpillar, Shark Puppy (FR), Munchkin Cat, Snow Monkey | **Bismuth234**: Cow (FR) |
-| 12:20 | **nainalt5**: Golden Rat (MFR), Choco Penguin (MFR), Spinosaurus (MFR), Highland Cow (MFR), T-Rex (MFR), Fly-A-Pet Potion, Bready Necklace | **danu123456i7**: Dalmatian (FR) |
-| 12:20 | **wx8zqxx**: Happy Clam (N) | **raraa_cute61**: Tortoiseshell Guinea Pig (R) |
-| 12:20 | **gerl708090**: Guardian Lion (R) | **mdmdnkevsjsvaj**: Ride-A-Pet Potion |
-| 12:20 | **WillowpillowpiggyWL**: Snowball Pet (MR), Toaster Hat | **HEARTS4_MELAINE**: Unicorn Horn, Pet Handler Pro Certificate |
-| 12:20 | **MacarronCheese**: Owlbear (MFR), Bunny Swirl (MFR) | **roblox_user_8676283275**: Dalmatian (FR) |
-| 12:20 | **Shadx_1553**: Cryptid (M), Unicorn Horn, Ballet Swan, Aussie Egg, Kangaroo (FR), Ride-A-Pet Potion, Fly-A-Pet Potion | **amvggrey**: Cryptid (N), Orchid Butterfly (N), Giraffe |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
