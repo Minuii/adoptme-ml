@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 18:01 UTC by the scrape workflow._
+_Updated 2026-11-19 18:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 18:01 UTC by the scrape workflow._
 | amvgg | 9 | 38,957 | 2026-11-19T18:00 |
 | elve | 9 | 7,674 | 2026-11-19T18:01 |
 
-## AMVGG completed trades: 36,547 total
+## AMVGG completed trades: 36,583 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,551 |
+| 2026-11-19 | 2,587 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 18:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:00 | **stargerthings_fan198**: German Shepherd | **juanitox646566**: Ride-A-Pet Potion |
-| 18:00 | **beatsvic**: Fairy Bat Dragon (FR) | **Idkwho_amIrll**: Mule (MFR) |
-| 18:00 | **looklikeanangelgbm**: Frostbite Bear (MFR), Glormy Leo (MFR), Frostbite Bear (R) | **12kyanni12k**: Royal Mistletroll (M), Majestic Pony, Mr. Whiskerpips (N), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 18:00 | **Ldlo3h**: Cow (NFR), Kangaroo (NFR), Siamese Cat (NFR), Strawberry Tortle, Harp Seal (N) ×2, Chihuahua (M), Tan Chow-Chow (MR), Brown Springer Spaniel (NR) | **Siren_AriaBlaze**: Owl (FR) |
-| 18:00 | **Sharkie0020**: Fly-A-Pet Potion ×2 | **W1NT3R_991224**: Glormy Leo |
-| 18:00 | **L_person21**: Frost Fury (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×3 |
-| 18:00 | **Mariyansofi**: Ride-A-Pet Potion ×2 | **Arracheurdetacos224**: Alley Cat |
-| 18:00 | **Navilolp**: Stray Cat Dragon (N) | **towngameplaysiiii3**: Skelicorn (N) |
-| 18:00 | **perit4733**: Ride-A-Pet Potion | **Secret_Secretov321**: Mochi Meow (N), Alicorn (N) |
-| 18:00 | **kansoo4**: Tiny Wings, Purrowl | **Eva_EvaKBAC**: Frostbite Cub (M) |
-| 18:00 | **pollofeli89_m**: Owl (FR), Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon (FR), Candicorn (FR), Shark Puppy (NFR), Mini Schnauzer (N) ×3, Pupcake (M) | **JerryTheBaddest1**: Mini Pig (MFR) |
-| 18:00 | **xGothiycx**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **varmitrof**: Unicorn Backpack |
-| 18:00 | **AUTOINPUT**: Ninja Monkey (FR) | **angel_19213**: Wyvern (NFR), Ginger Cat (N) |
-| 18:00 | **wh1mzical**: Fly-A-Pet Potion ×7 | **CallMehMigz**: Winged Tiger |
-| 18:00 | **Cendi1005**: Dalmatian (NFR), Dalmatian, Christmas Pudding Pup (NFR), Christmas Pudding Pup (NR), Lynx (MR), Lynx (N), Robo Dog (MFR), Copycat (NFR), Arctic Dusk Dragon (NR), Reindeer (N), Dalmatian (FR) | **Squid_GamerS11**: Strawberry Shortcake Bat Dragon (MFR) |
+| 18:11 | **VeronBW**: Black Moon Bear (NR), Gemstone Egg, Emu | **lyawwq7x**: Ride-A-Pet Potion |
+| 18:11 | **Harleyquinnfloofy**: Mini Schnauzer (MR), Wooly Rhino | **daydreamzgirl**: Ring-Tailed Lemur (NFR) |
+| 18:11 | **1ovIIy**: Chihuahua ×2 | **sophiaswoof**: Ride-A-Pet Potion |
+| 18:11 | **Youmyrii**: Elephant (FR), Pig (R), Arctic Fox (FR) | **luvyerh**: Goose (FR) |
+| 18:11 | **Cqttage_Dollface**: S'mores Raccoon (MR) | **malak_ahmed321**: 2022 Birthday Cupcake Shoes |
+| 18:11 | **TANSKlN**: Parrot (FR), Tio De Nadal (MFR), Arctic Reindeer | **AntiqueDesignz**: Shadow Dragon (FR) |
+| 18:11 | **3amlaufey**: Golden Lettuce | **clarisse_tubeuse**: Pupcicle ×3 |
+| 18:11 | **42ief**: Pupcicle, Gumball Caterpillar (N) | **araiiw0**: Ride-A-Pet Potion |
+| 18:11 | **Cloudy_xxxlex**: Cryptid (FR), Cow (FR) | **chip40060**: Strawberry Shortcake Bat Dragon (NFR) |
+| 18:11 | **itwas_f4te**: Binturong (MFR), Kitsune (MFR) | **Jeansppk**: Unicorn Horn, Spring Bunny Feet |
+| 18:11 | **Undercover_YTF**: Polar Bear (MFR), Polar Bear (R), Pet Handler Pro Certificate | **Jeansppk**: Goose, Turtle (FR) |
+| 18:11 | **rikialt_1234**: Bat Dragon (FR), Frost Dragon (FR), African Wild Dog (FR), Strawberry Shortcake Bat Dragon (FR) | **NummieNummiegirl**: Frost Dragon (MFR) |
+| 18:11 | **IzeaEboy**: Mini Pig (MFR), Happy Clam (MFR), Puffer Fish (MFR), S'mores Raccoon (MFR), Happy Duckling (MFR), Balloon Unicorn (FR) ×2, Candyfloss Chick (FR) | **nzx3o**: Bat Dragon (FR) |
+| 18:11 | **Xnixht**: Strawberry Tortle (FR) | **xay_111225**: Fairy Bat Dragon (FR) |
+| 18:11 | **sneganii**: Copycat (NR) | **xay_111225**: Frostbite Bear (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
