@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 19:01 UTC by the scrape workflow._
+_Updated 2026-11-19 19:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 19:01 UTC by the scrape workflow._
 | amvgg | 9 | 39,928 | 2026-11-19T19:00 |
 | elve | 9 | 7,901 | 2026-11-19T19:01 |
 
-## AMVGG completed trades: 36,734 total
+## AMVGG completed trades: 36,778 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,738 |
+| 2026-11-19 | 2,782 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 19:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:00 | **tommylikeroblox2009**: Electric Hornet | **qquaxoww**: Retired Egg ×6 |
-| 19:00 | **hahaFRYE**: Gecko (MFR) | **9vvdx**: Ghost Chick (M), Kappakid (M) |
-| 19:00 | **Ysosla**: Cryptid (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **savememyangel**: Arctic Reindeer (FR), Goose (R), Kangaroo (FR) |
-| 19:00 | **ambervgils**: Eggnog Hare (M) | **qwinkits**: Ride-A-Pet Potion ×3 |
-| 19:00 | **meileAdrytea**: T-Rex (MFR) | **Arracheurdetacos224**: Fly-A-Pet Potion ×11 |
-| 19:00 | **disapp6ar**: Chocolate Chip Bat Dragon (FR), Siamese Cat (R) | **exorstiionn**: Cabbit (NFR), Ride-A-Pet Potion, Jester Dragon (F) |
-| 19:00 | **SonicTheHedgedog_123**: Strawberry Shortcake Bat Dragon (R) | **lolppp0vld**: Royal Mistletroll (FR), Purple Butterfly (NR), Latte Kitsune (N), Scarebear (NFR), Phoenix (NR), Wolf (NR), French Bulldog (R), Snowball Pug (N), Unicorn, Ride-A-Pet Potion ×2, Green Butterfly (R) |
-| 19:00 | **kittenF87**: Fly-A-Pet Potion, Ride-A-Pet Potion | **nembb_b**: Chocolate Dutch Guinea Pig ×2 |
-| 19:00 | **KeineAhnungvonnix1**: Harp Seal (MFR), Panda (MFR), 2022 Birthday Cupcake Shoes, Shiver Wolf (MFR) | **irisjgh6**: Alley Cat (MR), Unicorn Horn |
-| 19:00 | **ferrofl7**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×11, Binturong | **On3gtive**: Mini Pig (FR) |
-| 19:00 | **Dalipro2011**: Strawberry Shortcake Bat Dragon Backpack, Spring Bunny Feet ×3 | **Kvas_028473**: Kitty Bat (MR) |
-| 19:00 | **iaMatthieu1**: Elephant (FR), Cotton Candy Hat | **adopt_nutella**: Goat (R), Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3 |
-| 19:00 | **rioo0o123**: Cow (R), Kangaroo (FR) ×2, Kangaroo (R) ×2, Turtle (FR) ×2 | **laila53749**: Crow (FR) |
-| 19:00 | **cool_player4324**: Copycat (FR) | **MiLkas_20111**: Arctic Dusk Dragon (FR) |
-| 19:00 | **VVV22532**: Fairy Bat Dragon (R) | **Broshkarrrr**: Christmas Pudding Pup, Arctic Dusk Dragon (N), Arctic Fox |
+| 19:11 | **16kmfh**: Yule Log Dog (NF) | **XLIVER_P00L**: Goat |
+| 19:11 | **Kxxr9**: Dalmatian (NFR) | **Bubble_TeaLilla**: Cow (MFR) |
+| 19:11 | **saturnestee**: Peppermint Penguin (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **xTrxstedCodee**: Haetae (NR), Unicorn Horn |
+| 19:11 | **Youmyrii**: Flash Weasel, Ride-A-Pet Potion ×2 | **angeladahohg**: Crocodile (FR) |
+| 19:11 | **BugShot_2**: Hedgehog (FR), Cow (FR) | **bunny_splash4**: African Wild Dog (FR) |
+| 19:11 | **SoShark1**: Count Slothula | **xheartzpearlx**: Pupcicle |
+| 19:11 | **Touseamvgg**: Halo, Angel Wings | **NADA_urfavgirlduh**: Rainbow Maker |
+| 19:11 | **wolfje51**: Jiggly Jerboa ×18 | **jskdbxk2**: Jiggly Jerboa (N) ×2 |
+| 19:11 | **qw_bbl**: Giraffe (FR), Copycat | **Potato_potatoes100**: Mini Pig (MFR) |
+| 19:11 | **mixxqwiex**: Chocolate Chip Bat Dragon (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **Katya_1922**: Strawberry Shortcake Bat Dragon (FR) |
+| 19:11 | **yMMSy**: Candicorn, Jester Dragon, Pig (R) | **ARTEM_LOVESHUK**: Fairy Bat Dragon (FR) |
+| 19:11 | **Lizyn4kaa**: Turtle (FR), Kangaroo (FR) ×2, Red Dutch Guinea Pig, Ride-A-Pet Potion ×2 | **ARTEM_LOVESHUK**: Chocolate Chip Bat Dragon (FR) |
+| 19:11 | **Night30098**: Ginger Cat (N), Stray Cat Dragon, Grinmoire, Cracked Egg ×2 | **Victoria_Victor9**: Crystal Egg ×6 |
+| 19:11 | **meibel_psycho**: Lion Cub | **pugq33n23**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
+| 19:11 | **ambervgils**: Chocolate Dutch Guinea Pig | **Einhornmagicc**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
