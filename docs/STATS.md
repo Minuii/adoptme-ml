@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 05:25 UTC by the scrape workflow._
+_Updated 2026-11-19 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 27,583 | 2026-11-19T05:15 |
-| elve | 9 | 5,450 | 2026-11-19T05:15 |
+| amvgg | 9 | 27,787 | 2026-11-19T05:30 |
+| elve | 9 | 5,503 | 2026-11-19T05:31 |
 
-## AMVGG completed trades: 34,661 total
+## AMVGG completed trades: 34,662 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 665 |
+| 2026-11-19 | 666 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,7 @@ _Updated 2026-11-19 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **JimboPimbo_Esteban**: Fairy Bat Dragon (FR), Werewolf (R), Fly-A-Pet Potion | **TaPok228pon**: Naughty Mistletroll (MFR) |
 | 05:25 | **wqingss**: Unicorn Horn, Ermine (N), Paint Sealer ×2 | **hshdxcmz**: Siamese Cat (R) |
 | 05:25 | **disapp6ar**: Bat Dragon (FR), Border Collie (R) | **meeptaser**: Bat Dragon |
 | 05:25 | **luxsdomain**: Fly-A-Pet Potion ×17 | **Ajbojoapple**: Cow (FR) |
@@ -48,7 +49,6 @@ _Updated 2026-11-19 05:25 UTC by the scrape workflow._
 | 05:20 | **arrozconleche1234648**: Kitty Bat (N) | **Sasha_Sasha748**: Dango Penguins |
 | 05:20 | **Vampxx2449**: Cryptid | **kaylamicmi**: Rainbow Maker, Unicorn Horn, Toaster Hat, Bunny Swirl (MR) |
 | 05:20 | **atr1xry**: Crow (FR), Peppermint Penguin (R), Dalmatian (FR), Fly-A-Pet Potion, Ice Cream Heels | **wskdaks**: Frost Dragon (FR) |
-| 05:20 | **staiho**: Toasty Red Panda (N) | **XzFoxC4CrazeMzX**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
