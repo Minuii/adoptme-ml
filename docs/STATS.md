@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 03:55 UTC by the scrape workflow._
+_Updated 2026-11-19 04:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 03:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 26,190 | 2026-11-19T03:45 |
-| elve | 9 | 5,239 | 2026-11-19T03:46 |
+| amvgg | 9 | 26,415 | 2026-11-19T04:00 |
+| elve | 9 | 5,280 | 2026-11-19T04:01 |
 
-## AMVGG completed trades: 34,502 total
+## AMVGG completed trades: 34,523 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 506 |
+| 2026-11-19 | 527 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 03:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:51 | **citymav**: Crow (FR), Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×3 | **Charaznballin**: Parrot (FR) |
-| 03:51 | **TMDung20**: Evil Unicorn (FR) | **ADMTRADING72**: Cryptid (FR) |
-| 03:51 | **TornCuiped**: Koi Carp (M), Tanuki (M) | **pwaranoiia**: Ride-A-Pet Potion, Tiny Wings |
-| 03:51 | **red_pandaeyes**: Border Collie (NFR) | **SelfDestructMetal**: Siamese Cat (NR) |
-| 03:51 | **nuggets0162**: Peppermint Penguin (R), Ride-A-Pet Potion | **itz_alyaa1q**: Cow (FR) |
-| 03:51 | **Cleirt_CoS0**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Blossom Snake (N), Yeti | **AsianIceCold**: Kitty Bat (M) |
-| 03:51 | **AsianIceCold**: Blossom Snake (N), Pandaguin Glooptodog (N) | **Zaki_Ready**: Ride-A-Pet Potion |
-| 03:51 | **AsianIceCold**: Yeti, Pain au Chat | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion |
-| 03:51 | **NikaFox0403**: Field Mouse (MFR) | **internetv4mpiress**: Cryptid (FR) |
-| 03:51 | **xx_xxbummrr**: Siamese Cat (FR) | **vee_13459**: 2022 Birthday Cake |
-| 03:51 | **Moticia20**: Zombie Wolf (MFR) | **darrylin_mendz**: 2022 Birthday Party Hat, Ride-A-Pet Potion |
-| 03:51 | **foxymoo7**: Unicorn Horn, Sugar Glider (FR), Ride-A-Pet Potion ×2 | **kaylamicmi**: English Sheepdog (MFR), Happy Duckling (MFR) ×2, Irish Elk (MFR) |
-| 03:51 | **kxil_008**: Turtle (FR) | **Bismuth234**: Pet Handler Pro Certificate ×11 |
-| 03:51 | **frogan55**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Unfortunate Eyelashes, Ocelot (NFR) | **Toad_jadon**: Frost Fury (NFR), Silverback Gorilla (MFR), Spring Bunny Nose |
-| 03:51 | **amaialolwonder**: Winged Tiger (MFR), Aurora Fox (MFR), Field Mouse (MFR), Goose, Sugar Glider, Cabbit (R), 2022 Birthday Party Hat, Diamond Hamster (MFR), Golden Hamster (MFR), Goose (FR), Cow (FR), Rain Cloud Hat, Latte Kitsune (MFR), Winged Tiger (NFR), Giraffe Backpack, Rainbow Maker, Giraffe Hat, 2022 Birthday Cupcake Shoes | **terrylonsoyjerry**: Cryptid (MFR) |
+| 04:00 | **Coolwast2**: Owl (FR), Moonbeam Butterfly (MFR), Corn Doggo (MFR), Diamond Unicorn (NR), Angus Bull (MFR), Silly Duck (N) | **AvokadoJFKfanat**: Frost Dragon (FR) |
+| 04:00 | **niceplayeruwu**: Ride-A-Pet Potion | **heesuukey**: Royal Moon Egg |
+| 04:00 | **xTvnee**: Drake (MR), Dodo (NFR), Black Chow-Chow (NFR), Christmas Pudding Pup, Zombie Wolf (R) | **ETM_TOPG**: Cow (FR) |
+| 04:00 | **ETM_TOPG**: Cow (R) | **Seancarlosd**: Cabbit (FR), Spring Bunny Hood |
+| 04:00 | **Tyyyyy_tyy1**: Rain Hat | **Cristop11www**: Retired Egg ×12 |
+| 04:00 | **carolzinhac2009**: Matcha Cat (R) | **kaylamicmi**: Ride-A-Pet Potion ×6 |
+| 04:00 | **Cutie_wolfie20**: Arctic Reindeer (FR) | **Elis_thxx**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 |
+| 04:00 | **ANNADOG444**: Ride-A-Pet Potion | **R_KYZIK**: Bunny Swirl (R) |
+| 04:00 | **tobiasbiou**: Tiny Wings, Irish Water Spaniel | **copyvoting**: Goat (FR), Tortuga de la Isla (FR), Ride-A-Pet Potion |
+| 04:00 | **miaow42**: Ride-A-Pet Potion, Caramelgeist (N), Mummy Spider (N) | **wq0rty2**: Bakeneko (MR) |
+| 04:00 | **KaiSaboAceCC**: Guardian Lion (R) ×4, T-Rex (R) | **celee_vent4s**: Fly-A-Pet Potion ×3 |
+| 04:00 | **aangelss11**: Jester Dragon | **228Caesar_Zeppeli**: Caelum Cervi |
+| 04:00 | **wq0rty2**: Rabbit (MR) | **pwaranoiia**: Ride-A-Pet Potion |
+| 04:00 | **NummieNummiegirl**: Chocolate Chip Bat Dragon (FR) ×10, Peppermint Penguin (NFR), Strawberry Shortcake Bat Dragon (NFR) ×3, Peppermint Penguin (NR), Hedgehog (FR), Fairy Bat Dragon (N), Candyfloss Chick (NFR) | **Avinashd3**: Owl (MFR) |
+| 04:00 | **parchita_venezolana**: Birthday Butterfly 2024 (MR) | **lyawwq7x**: Turkey (R) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
