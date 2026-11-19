@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 00:55 UTC by the scrape workflow._
+_Updated 2026-11-19 01:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 00:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 23,427 | 2026-11-19T00:45 |
-| elve | 9 | 4,663 | 2026-11-19T00:46 |
+| amvgg | 9 | 23,671 | 2026-11-19T01:00 |
+| elve | 9 | 4,712 | 2026-11-19T01:01 |
 
-## AMVGG completed trades: 34,122 total
+## AMVGG completed trades: 34,130 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 126 |
+| 2026-11-19 | 134 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,14 @@ _Updated 2026-11-19 00:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:00 | **gyrex111**: Siamese Cat | **rainbowpie1230y3t**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×9 |
+| 01:00 | **JPrincipeS09**: Ride-A-Pet Potion | **izzybprezleyfan**: Crystal Egg ×16 |
+| 01:00 | **WLWqueeen67**: Candicorn (R), Ride-A-Pet Potion ×3 | **cinnamqnzo**: Siamese Cat (R) |
+| 01:00 | **xyna68**: Strawberry Shortcake Bat Dragon (FR), Mochi Meow Tumble Animated Sticker | **Andrea_Cherrybear**: Unicorn Horn, Rain Cloud Hat, Toaster Hat, Tiny Wings ×2 |
+| 01:00 | **faebnny**: Parrot (FR), Chocolate Dutch Guinea Pig (NR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Sssilivia**: Siamese Cat (MFR), Chocolate Dutch Guinea Pig (MFR) |
+| 01:00 | **CandyCat151009_YX**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion | **Zhackpogi**: Goose (FR) |
+| 01:00 | **lavamanos88**: Fairy Bat Dragon (NR), Fairy Bat Dragon (FR) ×2, Komodo Dragon (R), Fly-A-Pet Potion, Gemstone Egg, Pig (FR), Arctic Fox (R), Green Butterfly (NFR) | **notiamjhom**: Parrot (FR) |
+| 01:00 | **Omar2002548**: Cotton Candy Hat | **xxlovetereza**: Stray Cat Dragon ×9 |
 | 00:55 | **XBobaAestheticGirlXX**: Goose (R), Cow (FR), Cow | **ratonsita12309**: Evil Unicorn (FR) |
 | 00:55 | **ophyns**: Dango Penguins (N), Copycat | **mofncufjs**: Candicorn |
 | 00:55 | **Zuminkikiki**: Ride-A-Pet Potion | **traher15cm**: Red Squirrel (FR) |
@@ -41,14 +49,6 @@ _Updated 2026-11-19 00:55 UTC by the scrape workflow._
 | 00:55 | **ZeroHASaberZAPrimal1**: Flaming Fox, Dango Penguins | **williamn14**: Polar Bear (R) |
 | 00:55 | **vivicacke17**: Alicorn (N), Dragon (N) | **Hey_Dant123**: Ride-A-Pet Potion |
 | 00:51 | **Paipapaprapaa**: Alpaca (R) | **zS9Ou**: Pig (R), Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×5 |
-| 00:51 | **cupcakieez**: Rainbow Maker ×2, Siamese Cat (FR) | **xx_xxbummrr**: Giant Anteater (MFR) |
-| 00:51 | **Babyofy5**: Ice Wolf (MFR) | **Cinzsins**: Cabbit (FR), Crocodile (FR), Ride-A-Pet Potion |
-| 00:51 | **elitro44**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **adorablymia123**: Copycat |
-| 00:51 | **yangese**: Moon Rabbit, Amami Rabbit | **p001torich**: Ride-A-Pet Potion |
-| 00:51 | **Extraalt_forval**: Cupid Dragon | **minismudgepanda**: Pet Handler Pro Certificate ×3, Pupcake |
-| 00:51 | **Chris_1998years**: Fly-A-Pet Potion, Amethyst Skies Mega Neon Paint | **Fbrleey**: Pet Handler Pro Certificate |
-| 00:51 | **animatownermile3**: Retired Egg ×4 | **05mel_mel05**: Gingerbread Mouse |
-| 00:45 | **luvyerh**: Cow (FR) | **cazzy123abc**: Pig (FR), Candyfloss Chick (FR), Brown Bear (R) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
