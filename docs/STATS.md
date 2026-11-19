@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 03:25 UTC by the scrape workflow._
+_Updated 2026-11-19 03:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 03:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 25,731 | 2026-11-19T03:15 |
-| elve | 9 | 5,117 | 2026-11-19T03:15 |
+| amvgg | 9 | 25,977 | 2026-11-19T03:30 |
+| elve | 9 | 5,181 | 2026-11-19T03:31 |
 
-## AMVGG completed trades: 34,448 total
+## AMVGG completed trades: 34,454 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 452 |
+| 2026-11-19 | 458 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,12 @@ _Updated 2026-11-19 03:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:30 | **Jeremibus2012**: Sakura Spirit (F), Red Dutch Guinea Pig (R), Alley Cat | **dnei30fast**: Fly-A-Pet Potion ×4 |
+| 03:30 | **KatsuTatsuya**: Parrot (FR), Chocolate Chip Bat Dragon (FR), Strawberry Tortle (R), Midnight Dragon (F), Dancing Dragon, Fly-A-Pet Potion ×2 | **Dddana20058**: Frost Dragon (FR) |
+| 03:30 | **mniiannie**: Goose (FR), Turtle (FR), Shadow Dragon Ducky (NFR), Dragonfruit Fox | **That_0nemogirl**: Strawberry Shortcake Bat Dragon, Ride-A-Pet Potion |
+| 03:30 | **ra3czr**: Leopard Shark, Sushi Penguin (R) | **burger_boy687**: Dango Penguins (R) |
+| 03:30 | **molqrx**: Tio De Nadal | **Charaznballin**: Pupcicle ×16 |
+| 03:30 | **Kiwisito1560**: Golden Lettuce | **stoIencorpses**: Spring Bunny Nose |
 | 03:25 | **Outgoing_Recluse**: Axolotl | **pop3791020**: Cotton Candy Hat |
 | 03:25 | **Tralaleritos7654321**: Goose (FR), Pet Handler Pro Certificate ×2, Fly-A-Pet Potion | **clavio000**: Mini Pig (FR), Ride-A-Pet Potion |
 | 03:25 | **sarahang3la**: Goat (MFR), Candicorn (NFR), Chocolate Dutch Guinea Pig (MR), Horse (MFR) | **EMSCH4RM**: Copycat (MFR), Tree Kangaroo (MFR), Pupcicle (MFR), Kiwi (MFR), Choco Penguin (MFR) |
@@ -43,12 +49,6 @@ _Updated 2026-11-19 03:25 UTC by the scrape workflow._
 | 03:25 | **Cutie_wolfie20**: Ride-A-Pet Potion ×17 | **zpro_jumpeur**: Kangaroo (FR) |
 | 03:25 | **powerlee01**: Copycat (MFR) | **queenmaya773**: Evil Unicorn (FR) |
 | 03:25 | **xXOmq_Ellen123xX**: Rainbow Maker, Tiny Wings, Siamese Cat (FR), Tortoiseshell Guinea Pig (FR) | **Princenezha23**: Cryptid (FR) |
-| 03:25 | **baby_demonakakj**: Copycat (R), Copycat | **Xxxxashhhh**: Fly-A-Pet Potion ×6 |
-| 03:25 | **Matt_Proofs**: Zombie Buffalo (R), Dango Penguins (R) | **Xxxxashhhh**: Pet Handler Pro Certificate ×3, Dragonfruit Fox |
-| 03:25 | **LilyLOLMaster1211**: Owlbear (NFR), Happy Clam (N), German Shepherd (FR) | **clavio000**: Goose (FR) |
-| 03:25 | **Cinzsins**: Albino Monkey (FR) ×4, Turtle (NFR), Turtle (FR) ×4, Turtle (R), Strawberry Shortcake Bat Dragon (FR) ×3, Monkey King (FR), Albino Monkey (R) ×2, Pig (FR) | **ADMTRADING72**: Owl (NFR) |
-| 03:25 | **carterdelaney1**: Ring-Tailed Lemur (MFR), Giant Anteater (MFR), Ice Wolf (MFR), Puffer Fish (MFR), Panda (MFR) | **13kdiino**: Goose (MFR) |
-| 03:25 | **lexcor3**: Owl (FR), Winged Tiger, 2022 Birthday Confetti Cannon | **kaibodydump**: Goose (N), Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
