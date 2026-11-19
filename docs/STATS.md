@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 17:46 UTC by the scrape workflow._
+_Updated 2026-11-19 17:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 17:46 UTC by the scrape workflow._
 | amvgg | 9 | 38,709 | 2026-11-19T17:45 |
 | elve | 9 | 7,632 | 2026-11-19T17:46 |
 
-## AMVGG completed trades: 36,458 total
+## AMVGG completed trades: 36,523 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,462 |
+| 2026-11-19 | 2,527 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 17:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **sashaoookk**: Border Collie (NFR) | **ElleRayas1**: Alley Cat (MFR) |
-| 17:45 | **Frdvhev**: Bat Dragon (NFR), Frost Fury (FR), Puffin, Fly-A-Pet Potion ×2, Raccoon (M) | **talal2006q8**: Giraffe (FR) ×2, Bat Dragon (FR), Parrot (NFR) |
-| 17:45 | **Frdvhev**: Bat Dragon (R), Giraffe (FR) ×2, Frost Phoenix (MFR), Kangaroo (NFR), Cow (FR), Giant Anteater (NFR), Strawberry Tortle (R), Strawberry Tortle, Velocirooster (NFR), Flamingo (R), Kangaroo (R), Candicorn, Border Collie, Kitty Bat (MFR), Shark Puppy, Fly-A-Pet Potion, Ride-A-Pet Potion | **akzoad**: Bat Dragon (NFR) |
-| 17:45 | **admtradeonly**: Siamese Cat (R) | **evqwss**: Fly-A-Pet Potion ×11 |
-| 17:45 | **Nya_mikulll**: Goose (F) | **wassupwithu**: Undead Jousting Horse (FR) |
-| 17:45 | **PartyBratJaylaaaa**: River Otter (M) | **serafima271120**: Eggnog Hare ×3, Narwhal, Stray Cat Dragon, Partridge, Merhorse |
-| 17:45 | **Xxxxashhhh**: Turtle (FR), Turtle (R), Copycat (NFR), Frost Unicorn (FR), Aurora Fox (R) | **s_coki**: Orchid Butterfly (FR) |
-| 17:45 | **Rbd_JP**: Cryptid (NFR) | **Lxdyxx**: Giant Panda (FR), Chocolate Chip Bat Dragon (FR), Husky (MFR), Ghost Bunny (NR), Cattuccino (M) |
-| 17:45 | **Heropil6**: Pupcicle ×2 | **Dominat0r_Sha**: Fly-A-Pet Potion |
-| 17:40 | **lo0vyyu**: Crystal Egg ×15 | **derajsydjxjs**: Ride-A-Pet Potion |
-| 17:40 | **honeydew_pancakes101**: Aussie Egg | **remona223**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 17:40 | **Lizzaa77**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **pupgenderr**: Jester Dragon (FR) |
-| 17:40 | **muhuwn**: Ride-A-Pet Potion | **Lizzaa77**: Ghost Bunny |
-| 17:40 | **Yejichan34**: Strawberry Shortcake Bat Dragon (FR) | **bolzani001111**: Flash Weasel ×6 |
-| 17:40 | **kourabies31415**: Kangaroo (FR), Ride-A-Pet Potion | **Lizyn4kaa**: Frost Unicorn (FR) |
+| 17:55 | **ang666600**: Dango Penguins (MFR) | **2M1K0**: Harp Seal (MFR), Black Macaque (MFR), Ride-A-Pet Potion ×3 |
+| 17:55 | **fiiniff**: Poodle (MFR) | **naucietr**: Cat (MFR) |
+| 17:55 | **AndresPatato**: Paint Sealer ×14 | **GESHLYN7**: Ride-A-Pet Potion |
+| 17:55 | **hikhikih**: Cow (NFR), Fairy Bat Dragon (NFR), Copycat (NFR), Sea Slug (NFR), Harp Seal (MR), Kiwi (M) | **SkaterPlayzQueen2016**: Cryptid (NFR) |
+| 17:55 | **iaMatthieu1**: Yule Log Dog (MFR), Chocolate Chip Bat Dragon (FR), Flamingo (FR) | **Spidy_shalapaykin**: Haetae (FR) |
+| 17:55 | **XiaoFaye1433**: Turtle (FR), Fly-A-Pet Potion | **Vladadura4**: Christmas Pudding Pup (NFR) |
+| 17:55 | **juzavast**: Tio De Nadal, Frost Dragon | **doraatje122**: Evil Unicorn (NFR), Evil Unicorn (FR) |
+| 17:55 | **ivrquiz**: Giant Panda (FR), Blazing Lion (FR) | **CFESG8557777**: Frost Dragon (FR) |
+| 17:55 | **Cvirrsy**: Matcha Cat (R), Binturong (R), Chocolate Dutch Guinea Pig | **milana_ananas9**: Pig (R) |
+| 17:55 | **13_erty5**: Fairy Bat Dragon (NFR) | **Bartoxo2007**: Cow (FR) ×2, Arctic Fox (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 17:55 | **pugq33n23**: Maine Coon (M) | **Kirikamu**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 17:55 | **kerobunii**: Copycat | **AquaBuilder2021**: Steppe Lion (MR) |
+| 17:55 | **luvyerh**: Sugar Glider (R) | **Bebra_2265**: Elephant, Pig (FR) |
+| 17:55 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Epic777378**: Aussie Egg |
+| 17:55 | **Joycline2013**: Siamese Cat, White Amazon | **7uusiww**: Water Rabbit (MFR), Moon Rabbit (N) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
