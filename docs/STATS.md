@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 22:40 UTC by the scrape workflow._
+_Updated 2026-11-19 22:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 22:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 43,370 | 2026-11-19T22:30 |
-| elve | 9 | 8,686 | 2026-11-19T22:31 |
+| amvgg | 9 | 43,598 | 2026-11-19T22:45 |
+| elve | 9 | 8,751 | 2026-11-19T22:46 |
 
-## AMVGG completed trades: 37,488 total
+## AMVGG completed trades: 37,521 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,492 |
+| 2026-11-19 | 3,525 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 22:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:40 | **24xJoys**: Arctic Reindeer (FR), African Wild Dog (R), Ride-A-Pet Potion | **vsxuno**: Owl (FR) |
-| 22:40 | **7angelicial**: Cotton Candy Hat | **7yasmin10**: Ride-A-Pet Potion |
-| 22:40 | **abrasarnos**: Ride-A-Pet Potion | **sugarblossomxoxx**: Ermine (N) |
-| 22:40 | **kakashk2335**: Pink Butterfly Wings, Buttoned Ushanka, Candy Corn Hat | **ZAYZAY66Y1**: Ride-A-Pet Potion |
-| 22:40 | **krisminka3**: Pig (R) | **lililili2288_pot**: Arctic Fox (FR) |
-| 22:40 | **TwinkingAlex**: Mermicorn (NFR), Goose (FR), Cow (FR) | **OG_Kylen44840**: Strawberry Shortcake Bat Dragon (NFR) |
-| 22:40 | **OG_Kylen44840**: Strawberry Shortcake Bat Dragon (R) | **TwinkingAlex**: Albino Monkey (FR), Goose (FR), Kangaroo (FR) |
-| 22:40 | **K0TIIX**: Giraffe (FR) | **themegaplahs**: Owl (FR), Cow (FR) ×2, Cow, Kangaroo (FR), Turtle (NFR), Turtle (R) |
-| 22:40 | **ItsGaelBlox01**: Ratatoskr (M) | **stoIencorpses**: Ride-A-Pet Potion |
-| 22:40 | **Mx1shu**: Border Collie (R), Spring Bunny Hood, Fly-A-Pet Potion ×2 | **stoIencorpses**: 2022 Birthday Cake |
-| 22:40 | **Daguirs41**: Ballet Swan (MFR), Fairy Bat Dragon (R) | **Angela019291**: Tri-horned Treehopper (MFR) |
-| 22:40 | **Recon_rifle**: Sushi Penguin | **melynagamer3**: Unicorn |
-| 22:40 | **amandiwis198**: Kangaroo (FR), Fly-A-Pet Potion | **Jeemin_Bang**: Flamingo (FR) |
-| 22:40 | **krolgig**: Toucan (NFR) | **SickForLuvv**: Ride-A-Pet Potion |
-| 22:40 | **reiikell**: Sugar Glider (FR), Goat (R) | **j2v73r**: Unicorn Horn, Tiny Wings, Fly-A-Pet Potion |
+| 22:45 | **Yiju0225**: Ride-A-Pet Potion | **Nanaosaki176**: Puffer Fish |
+| 22:45 | **flipmyflipflop**: Leviathan (NFR), Munchkin Cat, Candy Hare, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Golden Bone | **uskewjjw**: Sugar Glider (FR) |
+| 22:45 | **Riikka_Takanashiii**: Halo | **ItsxCloud5**: Angel Wings, Goth Shoes, Pet Handler Pro Certificate |
+| 22:45 | **Nutty_1352**: Panda (MFR) | **ploB_666**: Ghostly Cat (M), Ibex (M), Kid Goat (MFR), Bee (M), Black-Footed Ferret (M), Starfish (M), Samoyed (M), Bakeneko (M), Mummy Spider (M) |
+| 22:45 | **meowlix001**: Dancing Dragon (FR), Alley Cat (NFR), Velocirooster, Ride-A-Pet Potion ×2, Count Slothula | **latuk_1119**: Turtle (FR) |
+| 22:45 | **pupgenderr**: Cow (FR), Ride-A-Pet Potion | **Mishmila**: Goose (FR) |
+| 22:45 | **fatzhiiiiii**: Kangaroo (FR), Dalmatian (FR), Spring Bunny Hood, Hamster (MR), Penguin (NFR), Pink Cat Ear Headphones, Burger Boots, Strawberry Shortcake Bow | **Kit_tblmamymav1**: Cryptid (FR) |
+| 22:45 | **Dasha0Liza1**: Frost Unicorn (R), Candyfloss Chick (R), Flamingo (FR), Frost Fury (FR), Kitty Bat (R) | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
+| 22:45 | **sorrowpage**: Pain au Chat (M) | **N3ssii0**: Chihuahua (M) |
+| 22:45 | **adriel_24k**: Pig | **m4i5i33**: Mr. Whiskerpips (MFR) |
+| 22:45 | **stargxldani**: Ride-A-Pet Potion ×2 | **6evesvokhaha**: Fly-A-Pet Potion |
+| 22:45 | **SierraPlayzADM**: Ride-A-Pet Potion, Skelicorn, Stray Cat Dragon, Purrowl | **MckDull**: Wooly Rhino |
+| 22:45 | **nxat_t**: Harp Seal (N) | **ploB_666**: Pet Handler Pro Certificate, Red Dutch Guinea Pig |
+| 22:45 | **84382g**: Pig (FR) | **mister_ytka29**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
+| 22:45 | **cbmelissa**: Spring Bunny Hood ×2, Ride-A-Pet Potion | **donnotinteract**: Tiny Wings |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
