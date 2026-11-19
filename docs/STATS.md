@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 08:11 UTC by the scrape workflow._
+_Updated 2026-11-19 08:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 08:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 29,959 | 2026-11-19T08:00 |
-| elve | 9 | 5,950 | 2026-11-19T08:01 |
+| amvgg | 9 | 30,182 | 2026-11-19T08:15 |
+| elve | 9 | 5,960 | 2026-11-19T08:15 |
 
-## AMVGG completed trades: 34,965 total
+## AMVGG completed trades: 34,970 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 969 |
+| 2026-11-19 | 974 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,11 @@ _Updated 2026-11-19 08:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:15 | **luvyerh**: Tiny Wings | **bytsaremyfavourute**: Pig (FR) |
+| 08:15 | **namii_oppa7**: Pupcicle | **ll2Sc**: Count Slothula (R) |
+| 08:15 | **Cdg91400**: Pupcicle | **tarrace_house**: Winged Horse |
+| 08:15 | **Onyx_ctr**: Pupcicle ×2 | **tyiekx10**: Albino Bat (N) |
+| 08:15 | **snowdrift18**: Matcha Cat, Ride-A-Pet Potion | **Majdfjfgxf**: Sakura Spirit (FR) |
 | 08:11 | **FlyToTheSaturn**: Kangaroo (NFR), Kangaroo (R), Kangaroo, Goose (R), Siamese Cat, Giant Anteater, Polar Bear (NR), Platypus (NFR), Goat, Many Mackerel, Fallow Deer, Field Mouse, Dodo (NFR), Blue Dog (R), Turkey (FR), Reindeer (NFR), Harp Seal, Chick (NR) | **bernabe198**: Owl (FR) |
 | 08:11 | **iaMatthieu1**: Candicorn | **ned0ta**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×8 |
 | 08:11 | **yusri297**: Ride-A-Pet Potion ×2 | **MckDull**: Pupcicle ×3 |
@@ -44,11 +49,6 @@ _Updated 2026-11-19 08:11 UTC by the scrape workflow._
 | 08:06 | **iaMatthieu1**: Arctic Fox (R) | **Ww_ded123**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
 | 08:06 | **marsel_bananov**: Mouse, Japanese Snow Fairy ×2, Galapagos Sea Lion ×9, Bullfrog ×2, Warthog, Tree Frog (N) ×3 | **NightVoidRealm**: Ride-A-Pet Potion |
 | 08:06 | **ybiosajoshua**: Turtle (FR), Kangaroo (NFR), Latte Kitsune, Ride-A-Pet Potion ×2 | **qrastar3**: Strawberry Shortcake Bat Dragon (FR) |
-| 08:06 | **vallerie_x4**: Slime (M), Fly-A-Pet Potion, Arctic Dusk Dragon (R), Sushi Penguin (R), Pupcake, Chihuahua ×2 | **princess_pizzanice**: Cow (FR) |
-| 08:06 | **yuumiuro**: Snowball Pet (NR) | **Ari_Blays**: Ride-A-Pet Potion ×3 |
-| 08:00 | **Angelich_MM2**: Kangaroo (FR), Elephant (R) | **Z_Alexis22**: Cow (FR) |
-| 08:00 | **tecca_q**: Crow (FR), Munchkin Cat (NFR), Siamese Cat (N), Unicorn Horn, 2022 Birthday Confetti Cannon, Aurora Fox (FR) | **spooke537**: Frost Dragon (FR) |
-| 08:00 | **laylalooohoo23**: Chocolate Dutch Guinea Pig (M) | **Melia_2acc**: Owlbear (NFR), Partridge (MR), S'mores Raccoon |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
