@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 07:16 UTC by the scrape workflow._
+_Updated 2026-11-19 07:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 07:16 UTC by the scrape workflow._
 | amvgg | 9 | 29,313 | 2026-11-19T07:15 |
 | elve | 9 | 5,799 | 2026-11-19T07:15 |
 
-## AMVGG completed trades: 34,876 total
+## AMVGG completed trades: 34,890 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 880 |
+| 2026-11-19 | 894 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 07:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:25 | **Alisa506g**: Cow (FR), Peppermint Penguin (FR), Kangaroo (FR), Fly-A-Pet Potion ×4, Gargoyle (R), Ride-A-Pet Potion ×4 | **Samirochka_official**: Evil Unicorn (FR) |
+| 07:25 | **ohinam**: Fly-A-Pet Potion ×10 | **telinglisalia**: Frost Unicorn (FR) |
+| 07:25 | **Honeymochi_oo**: Irish Water Spaniel (MFR) | **DarrylBrooks57**: Pig (MFR), Cake Friend (MR), Burger Bear (MR), Happy Duckling (MR), Castle Hermit Crab (MR), Royal Palace Spaniel (MFR), Pupcake (MR), Snowball Pug (MR), Quokka (N), Ram |
+| 07:25 | **TwiXq0**: Ride-A-Pet Potion ×3, Golden Lettuce | **Venomally_6**: Copycat |
+| 07:25 | **micaelakdkdn**: Alley Cat (M), Garden Snake (MR), Dragonfruit Fox (MFR), Copycat, Spring Bunny Hood | **kaylamicmi**: Cryptid |
+| 07:25 | **strqwb3rriies**: Dragonfruit Fox (N) ×2, Gecko (MR), Shiver Wolf (M), Ghost Wolf (M), Santa Hat, Sandwich Hat, Propeller Hat | **micaelakdkdn**: Dragonfruit Fox (MFR) |
+| 07:25 | **Panci_Terbang33**: Crocodile | **sarahtalksstuff**: Fly-A-Pet Potion ×6 |
+| 07:25 | **Arcyyicyy**: Goose (FR) | **Melia_2acc**: Hot Doggo (FR) |
+| 07:25 | **altforamvgg20000**: Tortoiseshell Guinea Pig (MFR) | **Elijapierce**: Frost Dragon (FR) |
+| 07:25 | **hunterwarrior0558**: Ride-A-Pet Potion | **Kittyqueen052411**: Crystal Egg ×15 |
+| 07:25 | **CharlesJo4**: Latte Kitsune (R) | **heladitoooUnU**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 07:25 | **hefeltsafe**: Crystal Egg ×9 | **samneva8614**: Chihuahua |
+| 07:21 | **Panci_Terbang33**: Pupcicle ×5 | **ing_men06**: Fly-A-Pet Potion ×2 |
+| 07:21 | **FJSJSJSJla**: Jousting Horse, Fly-A-Pet Potion ×2 | **poliwwhka**: Jester Dragon (R) |
 | 07:15 | **DuskyElla**: Dragonfruit Fox (MFR) | **dczcscdsdfcxddd**: Fairy Bat Dragon (FR) |
-| 07:15 | **BUS5ED**: Count Slothula | **Chcd_baby**: Golden Dragon (R) |
-| 07:15 | **bolzani001111**: Flash Weasel (M) | **m4rshalI**: Owl (FR) |
-| 07:15 | **dababis35**: Halloween 2024 Sticker Pack ×18 | **pinkytedslovie**: Ride-A-Pet Potion |
-| 07:15 | **cocob4by**: Velocirooster (R), Count Slothula, Ride-A-Pet Potion | **fzxfrf**: Chocolate Dutch Guinea Pig (N) |
-| 07:15 | **KennyMcCormick067**: Haetyphoon, Fly-A-Pet Potion | **lollucio251**: Haetyphoon (FR) |
-| 07:15 | **gffdjddd23_4**: Dalmatian (R) | **KennyMcCormick067**: Undead Jousting Horse (FR), Peppermint Penguin (FR), Alley Cat, Ride-A-Pet Potion ×5 |
-| 07:15 | **iamnoonetobehere**: Alley Cat, Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion ×5, Turtle (FR) | **KennyMcCormick067**: Hot Doggo (FR) |
-| 07:15 | **KennyMcCormick067**: Owl (FR), Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×2 | **Lalawigan_nery**: Frost Dragon (FR) |
-| 07:15 | **KennyMcCormick067**: Polar Bear | **Leviodas**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 07:15 | **adriel_24k**: Giraffe Hat | **Lpoopbxhe**: Alley Cat (NFR), Ice Cream Cone Hat, Caelum Cervi (FR), Spring Bunny Hood, Head Chef |
-| 07:15 | **dababis35**: Winter 2024 Sticker Pack ×18 | **pinkytedslovie**: Ride-A-Pet Potion |
-| 07:15 | **queenmaya773**: Ice Cream Cone Hat, Fly-A-Pet Potion, Ride-A-Pet Potion ×4, Ice Cream Heels, Eyepatch | **Webelive_you**: Unicorn (MFR) |
-| 07:15 | **Celineerr**: Black-Footed Ferret (M), Halloween White Skeleton Dog (N), Mummy Spider (M), Boohoo (N), Little Lamb (N), Alicorn, Ancient Dragon | **Klaysi_flayra**: Ride-A-Pet Potion ×3 |
-| 07:15 | **catgirlhaha19**: Shadow Dragon Ducky ×3, Crystal Egg ×3 | **alexgameminecraft**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
