@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 08:55 UTC by the scrape workflow._
+_Updated 2026-11-19 09:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 08:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 30,616 | 2026-11-19T08:45 |
-| elve | 9 | 6,028 | 2026-11-19T08:46 |
+| amvgg | 9 | 30,789 | 2026-11-19T09:00 |
+| elve | 9 | 6,082 | 2026-11-19T09:01 |
 
-## AMVGG completed trades: 35,047 total
+## AMVGG completed trades: 35,052 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,051 |
+| 2026-11-19 | 1,056 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,11 @@ _Updated 2026-11-19 08:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:00 | **Yiju0225**: Golden Lettuce | **kiana_deez**: Ride-A-Pet Potion ×2 |
+| 09:00 | **Thesheeeeesh_god**: Candyfloss Chick | **Syshsf237**: French Bulldog (MFR) |
+| 09:00 | **z1_u1**: Royal Mistletroll (FR) ×2, Royal Mistletroll (R) ×3, Royal Mistletroll ×7 | **leruval**: Frost Dragon (FR) |
+| 09:00 | **rainbowpuply_cute**: Balloon Unicorn (FR), Haetae (FR), Haetae | **AL0HALILYY**: Giraffe (FR), Ride-A-Pet Potion |
+| 09:00 | **Lizzaa77**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Allona0122**: Frost Fury (FR) |
 | 08:55 | **Ira_20086**: Pupcicle | **sithusari346**: Pupcake |
 | 08:55 | **cassiemeowss**: Ride-A-Pet Potion | **sithusari346**: Mighty Haetyphoon Animated Sticker |
 | 08:55 | **Miko_and89**: Toucan (MFR) | **Inganta07**: Fly-A-Pet Potion, Ride-A-Pet Potion |
@@ -44,11 +49,6 @@ _Updated 2026-11-19 08:55 UTC by the scrape workflow._
 | 08:55 | **Yancapl_5**: Stray Cat Dragon, Shiba Inu (N) | **Sofia1278458**: Admin Abuse Egg ×5 |
 | 08:55 | **albina_7807**: Ride-A-Pet Potion | **aabeeyg**: Vol. 2 Pets Plus Sticker Pack ×2 |
 | 08:51 | **chocoladka131107**: Diamond Mahi Mahi, Trapdoor Snail ×3, Chihuahua | **Shehatesme420**: Ride-A-Pet Potion |
-| 08:51 | **ekitten9934**: Siamese Cat, Fly-A-Pet Potion | **Icarus_gnahc**: 2022 Birthday Cake |
-| 08:51 | **Taemin_chaeunwoo**: Mochi Meow (M) | **poshol_naxouPwP**: Fly-A-Pet Potion |
-| 08:51 | **gh0steddsoull**: Ride-A-Pet Potion ×18 | **iaMatthieu1**: Siamese Cat |
-| 08:51 | **00iAngell**: Ride-A-Pet Potion | **beabadubiia2026amvgg**: Amethyst Skies Mega Neon Paint |
-| 08:51 | **Gap4481**: Retired Egg ×2 | **rslynxq**: Little Lamb |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
