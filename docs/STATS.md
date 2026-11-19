@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 21:25 UTC by the scrape workflow._
+_Updated 2026-11-19 21:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 21:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 42,237 | 2026-11-19T21:15 |
-| elve | 9 | 8,361 | 2026-11-19T21:15 |
+| amvgg | 9 | 42,475 | 2026-11-19T21:30 |
+| elve | 9 | 8,422 | 2026-11-19T21:31 |
 
-## AMVGG completed trades: 37,241 total
+## AMVGG completed trades: 37,260 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,245 |
+| 2026-11-19 | 3,264 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 21:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:20 | **frecalsplogeok9**: Indian Leopard ×3, Ice Cube ×2, Ibex, Ibis, Halloween White Mummy Cat, Granny Wolf ×3, Goldfish | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 21:20 | **north1chan**: Candyfloss Chick (R), Ride-A-Pet Potion ×3 | **KnoW1z**: Siamese Cat (FR) |
-| 21:20 | **astrid35j**: Turtle (FR), Hare (R) | **carolzinhac2009**: Strawberry Tortle |
-| 21:20 | **U9l9y**: Lion (FR), Ride-A-Pet Potion ×6 | **dwqnimeow**: Werewolf (FR) |
-| 21:20 | **Ebonyaqt**: Candicorn (NFR) | **dwqnimeow**: Unicorn Horn ×2 |
-| 21:20 | **frecalsplogeok9**: Chick, Mouse, Brachiosaurus, Bluebottle Fly, Warthog, Tanuki, Gorilla ×3, Glyptodon Ducky, Gibbon ×5 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 21:20 | **wragom_fikk**: Tuxedo Cat (MFR), Pet Handler Pro Certificate ×2, Ride-A-Pet Potion | **xo1qn**: 2022 Birthday Party Hat |
-| 21:20 | **frecalsplogeok9**: Glyptodon ×4 | **Sillykily0**: Ride-A-Pet Potion |
-| 21:20 | **HayeyaAjajami**: Count Slothula ×2 | **themudwizard**: Ride-A-Pet Potion |
-| 21:20 | **carterdelaney1**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Rain Cloud Hat | **dippersonally**: Zombie Wolf (MFR), Cherry-On-Top |
-| 21:20 | **Squid_GamerS11**: Dalmatian (MFR), Arctic Reindeer (MFR), Fairy Bat Dragon (MFR), Owl (MFR), Crow (MFR), Frost Dragon (MFR), Dalmatian (NFR), Border Collie (N), Lynx (MFR) | **24KsolarrrrxX**: Bat Dragon (MFR) |
-| 21:20 | **hanb3ki**: Stray Cat Dragon (M) | **elenakrytaya333**: Ride-A-Pet Potion ×2 |
-| 21:20 | **frecalsplogeok9**: Tarsier, Sweetheart Rat, Summer Walrus, Subzero Scorpion | **themudwizard**: Ride-A-Pet Potion |
-| 21:20 | **nylee_psh**: Frog, Penguin, Seagull, Gingerbread Mouse, Tan Chow-Chow, Ibex, Emu | **arisslovers**: French Bulldog |
-| 21:20 | **dloxasteq2**: Chocolate Chip Bat Dragon (FR), Candicorn (R), Pet Handler Pro Certificate ×2 | **triflebat**: Dalmatian (FR) |
+| 21:30 | **haiI3yyyy**: Tiny Wings | **rainbow10209342**: Flash Weasel |
+| 21:30 | **AmAmHardi**: Skelicorn (M) | **Panci_Terbang33**: Ride-A-Pet Potion ×2 |
+| 21:30 | **Panci_Terbang33**: Pupcicle | **anja_gamer99**: Angus Cow (M) |
+| 21:30 | **43kzynpqq**: Snowball Pet (MFR), Harp Seal (N), Christmas Pudding Pup | **Cocovunix**: Ram (MFR) |
+| 21:30 | **starfire_33334**: Cryptid (FR), Tiny Wings | **cesarx_o**: Strawberry Shortcake Bat Dragon (FR), Sugar Glider, Turtle (FR), Panda (NR) |
+| 21:30 | **fad_7033**: Copycat, Rubber Ducky (N), 2026 Birthday Butterfly, Cherub Chipmunk | **UTU_DianaA**: Copycat |
+| 21:30 | **dippersonally**: Rain Cloud Hat, Fly-A-Pet Potion, Ride-A-Pet Potion | **cbmelissa**: 2022 Birthday Cupcake Shoes |
+| 21:30 | **toniya2001**: Evil Unicorn (FR), Cow (FR) | **starfire_33334**: African Wild Dog (FR) |
+| 21:30 | **helloiam_spongebob**: Pain au Chat | **altforamvgg_x**: Retired Egg ×15 |
+| 21:30 | **ii_martaGamer18**: Retired Egg ×5 | **P3nnyTheR4t**: Lunar White Tiger |
+| 21:30 | **akeks_74**: Cherry-On-Top, 2022 Birthday Party Hat, Unicorn Horn, 2022 Birthday Cupcake Shoes, 2022 Birthday Confetti Cannon, 2022 Birthday Party Horn ×2, Toaster Hat, Rain Cloud Hat ×2, Spring Bunny Hood | **Liaaa_sukakucing**: Strawberry Shortcake Bat Dragon (NFR), Mini Pig |
+| 21:30 | **100PercentWinRateHax**: Haetyphoon (R), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×3 | **runa_yomqzuki**: Frostbite Bear |
+| 21:30 | **sleepy_s0ren**: Crocodile (NR) | **Chickengigi6**: Mini Schnauzer (MR), Temple Friend (NR), Drake (M), Zombie Wolf |
+| 21:30 | **veroNIKA_star016**: Strawberry Tortle | **quVare_PDF**: Field Mouse (NFR) |
+| 21:30 | **dimon221221332**: Fly-A-Pet Potion ×3 | **TheJetSetler**: Frost Fury (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
