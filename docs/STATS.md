@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 10:16 UTC by the scrape workflow._
+_Updated 2026-11-19 10:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 10:16 UTC by the scrape workflow._
 | amvgg | 9 | 31,884 | 2026-11-19T10:15 |
 | elve | 9 | 6,278 | 2026-11-19T10:15 |
 
-## AMVGG completed trades: 35,182 total
+## AMVGG completed trades: 35,201 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,186 |
+| 2026-11-19 | 1,205 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 10:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:15 | **Inganta07**: Ride-A-Pet Potion | **0MGSARAY**: Puffer Fish |
-| 10:15 | **rubioOnYTalt1**: Haetyphoon (M), Haetyphoon (N), Haetyphoon ×3 | **GeneralPatrick_14**: Frost Dragon (FR) |
-| 10:11 | **tisha_sally**: Haetyphoon (R) | **Tree092109**: Fly-A-Pet Potion ×6 |
-| 10:11 | **PuhonaBeri**: Frost Dragon (FR) ×2, Turtle (FR) | **kamiqwees**: Shadow Dragon (FR) |
-| 10:11 | **HEARTS4_MELAINE**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pet Handler Pro Certificate | **egmizie8**: Zombie Wolf (N), Zombie Wolf |
-| 10:11 | **Xyzxelle**: 2022 Birthday Confetti Cannon ×2, 2022 Birthday Party Horn | **Babielily1**: Unicorn Horn, Rain Cloud Hat, Pancake Stack |
-| 10:11 | **drapionplayer193**: Hedgehog (FR), Ride-A-Pet Potion, 2022 Birthday Party Horn, Cake Friend (N) | **Piska_sanLoshara666**: Cabbit (FR), Dalmatian (FR) |
-| 10:11 | **Arwa73003**: Munchkin Cat (MFR), Albino Monkey (FR) | **romoko_00**: Cryptid (FR) |
-| 10:06 | **anutik_awesome**: Strawberry Shortcake Bat Dragon (MFR), Dango Penguins (MFR), Harp Seal (NR) | **OG_Kylen44840**: Frost Dragon (NFR), Turtle (FR), Jellyfish |
-| 10:06 | **rasediva**: Parrot (FR), Harp Seal (M), Brown Bear, Puffin (R), Pet Handler Pro Certificate ×3, Fly-A-Pet Potion ×2 | **brisreal1**: Owl (FR) |
-| 10:06 | **LilyLOLMaster1211**: White Sand Dollar (MFR), Chocolate Dutch Guinea Pig (MFR), French Bulldog (MR) | **OG_Kylen44840**: Arctic Reindeer (FR) |
-| 10:06 | **l0v3y0u_o**: Alicorn (MFR) | **justunujede123**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 10:06 | **hubaks_02**: Winter Doe (M) ×6, Eel (M) ×4 | **OG_Kylen44840**: Turtle (FR) |
-| 10:06 | **YerlyDiSar45**: Peppermint Penguin, Amami Rabbit (MR), Moose Calf | **oIdyellowbricks**: Dragonfruit Fox (MFR) |
-| 10:06 | **vvvvvveli**: Sneak Weasel (M), Pine Marten (N), Baku | **realpdrilla1**: Fly-A-Pet Potion |
+| 10:25 | **aabeeyg**: Tiny Wings, Ride-A-Pet Potion ×3 | **kansoo4**: 2022 Birthday Party Horn |
+| 10:25 | **Ggyyuhhhj**: Spring Bunny Hood, Unicorn Horn, Pain au Chat (M) | **sorrowpage**: Halo |
+| 10:25 | **KARIN_ZO5**: Ride-A-Pet Potion ×3, Pupcicle (MR) | **flears_brai**: Jester Dragon (NFR) |
+| 10:25 | **BurningFlameWrath**: Flash Weasel (N), Pupcicle ×5, Gemstone Egg ×12 | **yelllley8**: Strawberry Shortcake Bat Dragon (FR) |
+| 10:25 | **haram0909071**: Ride-A-Pet Potion | **the3reveng**: Cozy Mistletroll, Ehecatl, Rainbow Trout, Clubtail Dragonfly, Purrowl, Ribbon Seal, 2026 Birthday Butterfly, White Choccybunny, Chestnut Glyptodon, Pilot Gull, Milk Choccybunny, Irish Setter |
+| 10:25 | **BUS5ED**: Count Slothula | **the3reveng**: Diamond Dragon (R) |
+| 10:25 | **catgirlhaha19**: Coconut Friend, Cow Calf ×2, Crystal Egg ×3 | **panda_wolfielover**: Ride-A-Pet Potion |
+| 10:25 | **oren20050**: Fly-A-Pet Potion ×17 | **Niklon4ik**: Cow (FR) |
+| 10:25 | **hiwhat043**: Bee (MFR), Zombie Buffalo (R), Shark Puppy, Copycat, Pupcicle (N), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Toy Monkey (R) | **Reterirbair1989**: Cow (FR) |
+| 10:25 | **Wait_What206**: Dragonfruit Fox (MFR), Emberlight (M) | **marvin22dingo**: Moose Calf (MFR) |
+| 10:25 | **adoptmexx626**: Ermine (M) | **KsuKsuVzlomali**: Ride-A-Pet Potion ×3 |
+| 10:25 | **VampireMikoo**: Unicorn Horn, Pancake Stack, Spring Bunny Nose | **fishymiss_y**: Turtle (FR) |
+| 10:25 | **TwixTw1x**: Cow (FR) | **safeinthebuble**: Peppermint Penguin (FR) |
+| 10:25 | **Blossom12345994**: Chocolate Chip Bat Dragon (NFR), Peppermint Penguin (NFR), Ice Cream Cone Hat, Ride-A-Pet Potion | **Pastel_Loom**: Frost Dragon (FR) |
+| 10:25 | **WHOISY4NAA**: Fly-A-Pet Potion ×3 | **Zhackpogi**: Midnight Dragon |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
