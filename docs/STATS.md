@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 18:25 UTC by the scrape workflow._
+_Updated 2026-11-19 18:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 18:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 39,202 | 2026-11-19T18:15 |
-| elve | 9 | 7,692 | 2026-11-19T18:15 |
+| amvgg | 9 | 39,452 | 2026-11-19T18:30 |
+| elve | 9 | 7,766 | 2026-11-19T18:31 |
 
-## AMVGG completed trades: 36,623 total
+## AMVGG completed trades: 36,634 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,627 |
+| 2026-11-19 | 2,638 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 18:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 18:30 | **swirlsfawn**: Mini Pig (MFR), Water Rabbit (MFR), Moon Rabbit (MFR), Amami Rabbit (MFR) | **aavqaii**: Strawberry Tortle (MFR), Hare (MFR) |
+| 18:30 | **l_i8ra7**: Ride-A-Pet Potion | **rhgkehgw**: Capybara (R) |
+| 18:30 | **Kaamyxa**: Purrowl, Alicorn, Fly-A-Pet Potion, Ride-A-Pet Potion | **Mkomwqil**: Biodome Home |
+| 18:30 | **popadastr000**: Catte | **ll_90dfhj**: Black-Footed Ferret (M) |
+| 18:30 | **Mkomwqil**: Puffer Fish | **Solecitalamasbonita**: Kitty Biscuit |
+| 18:30 | **Mkomwqil**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Sentikaza_pikachu**: Biodome Home |
+| 18:30 | **yawmzn**: Rainbow Maker ×2, Unicorn Horn ×2, Rain Cloud Hat ×2, 2022 Birthday Cake, Cotton Candy Hat, 2022 Birthday Confetti Cannon, Spring Bunny Feet, Spring Bunny Hood, Cherry-On-Top, Chocolate Chip Bat Dragon Backpack, Tombstone Ghostify, Dragonfruit Fox (NR), Spring Bunny Nose | **zeejnaa**: Cabbit (MFR) |
+| 18:30 | **randoseruh**: Christmas Pudding Pup (MFR), Rose Quartz Glow Mega Neon Paint | **bunnibakes**: Munchkin Cat (NR), Chocolate Dutch Guinea Pig (M), Amami Rabbit (MFR), Cattuccino (MFR), Catte (MFR), Chihuahua (M) |
+| 18:30 | **franz_1365**: Capybara (MFR) | **themegaplahs**: Unicorn (MFR), Happy Duckling (MR) |
+| 18:30 | **AlphaMax_2951956746**: Peppermint Penguin (R), Pig (FR), Munchkin Cat, Biodome Home, Snow Monkey, Lunar Gold Tiger (NR), Candy Hare, Ride-A-Pet Potion ×4, 1000 Bucks Silk Bag ×7 | **Kety222222222**: Strawberry Shortcake Bat Dragon (R) |
+| 18:30 | **djdjdksoksksks**: Ride-A-Pet Potion ×16 | **zpro_jumpeur**: Candicorn (FR) |
 | 18:25 | **Shehatesme420**: Ride-A-Pet Potion ×5 | **jellyfish1248396**: Catte ×2, Water Rabbit, Eggnog Dog, Clownfish, Inmate Capuchin Monkey, Therapy Dog, Snowball Pug, Red Squirrel, Black Macaque, Tarsier |
 | 18:25 | **1Biahsz_altx**: Ride-A-Pet Potion | **sllwexx**: Irish Setter (M) |
 | 18:25 | **lililili2288_pot**: Shark Puppy (NFR), Ride-A-Pet Potion | **YUMIIMOTHZZ**: Ice Cream Hermit Crab (MFR) |
 | 18:25 | **Jenniea264**: Cherub Chipmunk (M), Stingray (NR) | **Nastya_Mihalyk**: Ride-A-Pet Potion |
-| 18:25 | **nyasabi**: Shark Puppy (NFR), Fairy Bat Dragon (FR) ×2, Fairy Bat Dragon (R), Jester Dragon (FR) | **pawsheens3**: Shark Puppy (MFR) |
-| 18:25 | **s_coki**: Turtle (FR), Turtle (R), Flamingo, Cow (FR) | **drakeoffc_moimyzh**: Hedgehog (FR) |
-| 18:25 | **soslska41**: Arctic Reindeer (NFR), Strawberry Shortcake Bat Dragon (R), Fly-A-Pet Potion | **siesie09_x**: Owl (FR), Ride-A-Pet Potion |
-| 18:25 | **ZASDAAAAAA20**: Dalmatian (MFR) | **ArdaEOYT**: Mechapup (MFR) ×4, Mechapup (NFR) |
-| 18:25 | **Aarlo_SleepLoverR**: Balloon Unicorn (R) | **gold123456love**: Haetae (FR) |
-| 18:25 | **flears_brai**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **BrooklynToxicGam3r**: Snowball Pug (MFR) |
-| 18:25 | **Influuu05**: Dalmatian (MFR), Hot Doggo (MFR), Elephant (MFR), Owl (FR), Shark Puppy (MFR), Goat (MFR) | **Jay_basealters**: African Wild Dog (MFR) |
-| 18:25 | **CFESG8557777**: Giraffe (FR) | **OnlyMeNinik**: Candy Cannon, Flying Broomstick, Cabbit (NFR), Chocolate Dutch Guinea Pig (MFR), Arctic Fox (FR), Spring Bunny Hood |
-| 18:25 | **rhgkehgw**: Goose (R) ×2 | **q_plvio2**: Munchkin Cat (N), Arctic Fox (NFR), Harp Seal (NR) |
-| 18:25 | **d0nkeysilly944**: Hare, Ride-A-Pet Potion | **dhdgnldhk**: Polar Bear |
-| 18:25 | **ruivabelaaj**: Ride-A-Pet Potion, Thinking Hat | **JULI_LOVE48**: Hospital Home |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
