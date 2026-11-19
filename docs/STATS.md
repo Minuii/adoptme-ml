@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 12:01 UTC by the scrape workflow._
+_Updated 2026-11-19 12:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 12:01 UTC by the scrape workflow._
 | amvgg | 9 | 33,413 | 2026-11-19T12:00 |
 | elve | 9 | 6,548 | 2026-11-19T12:01 |
 
-## AMVGG completed trades: 35,393 total
+## AMVGG completed trades: 35,426 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,397 |
+| 2026-11-19 | 1,430 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:00 | **DrDenis21**: Unicorn | **NastiGora**: Pupcicle |
-| 12:00 | **DaBabyLETSGo41**: Arctic Dusk Dragon (MFR), Arctic Dusk Dragon (NFR), Glacier Kitsune (NFR), Alicorn (MFR), Ice Wolf (NFR), Glacier Kitsune (FR), Arctic Dusk Dragon (R), Christmas Pudding Pup (NR), Ram (MR), Ram (NR), Ram (N), Christmas Pudding Pup, Munchkin Cat (NR), Polar Bear (R), Vampire Dragon, Ride-A-Pet Potion ×3 | **Slimeswaztaken44**: Frost Dragon (FR) |
-| 12:00 | **j0eymlp**: Honey Badger (MFR), Jester Dragon (FR) | **kwittenist**: Evil Unicorn (FR) |
-| 12:00 | **Eva994494**: Zombie Wolf (MR), Ride-A-Pet Potion | **superheror125**: Turtle (FR) |
-| 12:00 | **okayamerplay**: Crow (NFR), Evil Unicorn (FR), Arctic Reindeer, Mini Pig (FR), Siamese Cat, Fly-A-Pet Potion, Ride-A-Pet Potion, Mushroom Friend (N) | **Zroxxxxx**: Shadow Dragon (FR) |
-| 12:00 | **theycallmerubbie**: Goose, Caterpillar (FR) | **bunnyblinkP**: Werewolf (FR), Flamingo (FR), Brown Springer Spaniel, Ride-A-Pet Potion ×3, Butter Knife |
-| 12:00 | **ichbinsehhhr**: Copycat | **Mahvin29**: Chocolate Dutch Guinea Pig (N) |
-| 12:00 | **INeverrCap**: Candy Hare (NR) | **Angie_mucc**: Ride-A-Pet Potion ×7 |
-| 12:00 | **qwertyy_xx01**: Crocodile (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **1149218432174291381**: Unicorn Horn |
-| 11:55 | **Bismuth234**: Candicorn (R), Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **ChillerTyr**: Border Collie ×2 |
-| 11:55 | **XiaoFaye1433**: Cow (FR), Kangaroo (FR) | **leidydamelike**: Frost Fury (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 11:55 | **Emmett_Laurent**: Cabbit (R) | **soulbnni**:  |
-| 11:55 | **ataraksuu**: Endangered Egg | **Qwemd4**: Buffalo, Otter, Fennec Fox |
-| 11:55 | **iiamxchris**: Christmas Pudding Pup (NFR) | **skibidimarzenkauwu**: Mermicorn (FR) |
-| 11:55 | **WillowpillowpiggyWL**: Moose Calf (N), Halloween Slime Mega Neon Paint | **lolcryabtit6767**: Snowball Pet (MR) |
+| 12:11 | **5sasasa**: Frost Fury (R), Ride-A-Pet Potion | **Bismuth234**: Christmas Pudding Pup |
+| 12:11 | **ZockerCelina_20**: Flamingo (FR) | **mcbirknekst_xx**: Unicorn (MFR), Unicorn (NFR) |
+| 12:11 | **Pierro0_0hehe**: Elephant | **Aubrey_Prism851**: Ice Wolf (NFR), Ride-A-Pet Potion ×2, Sushi Penguin |
+| 12:11 | **islandicsinger**: Pig (R), Pet Handler Pro Certificate | **roblox_user_8676283275**: Bunny Swirl (MFR) |
+| 12:11 | **AL0HALILYY**: Unicorn Horn, Cryptid, Kangaroo (FR) | **HaramiHUN**: Balloon Unicorn (FR) |
+| 12:11 | **snupiez26**: Hedgehog (FR), Munchkin Cat (NR), Pet Handler Pro Certificate ×2, Fly-A-Pet Potion ×3, Great Pyrenees, Castle Hermit Crab, Feesh | **B3achyMads**: Arctic Reindeer (R) ×2 |
+| 12:11 | **Gooblin_trool**: Sushi Penguin, Ride-A-Pet Potion | **rasediva**: Fly-A-Pet Potion |
+| 12:11 | **gerl708090**: Metal Ox (FR) | **Pashok_q**: Ride-A-Pet Potion |
+| 12:11 | **Laktozik1**: Giant Panda (FR) | **Dorothydavis14**: Dragonfruit Fox, Milk Choccybunny (M), Ram |
+| 12:11 | **obichamte77**: Ghost Bunny (MFR), Pupcicle (MR) | **FaZeTysonF**: Albino Monkey (NFR) |
+| 12:11 | **xolvrxo**: Burger Bear, Clementine Owl (N) | **leesoyul11111111**: Ride-A-Pet Potion |
+| 12:11 | **millesww777**: Siamese Cat (FR) | **cutemoonya**: Candyfloss Chick (R), Ride-A-Pet Potion ×3 |
+| 12:11 | **asokopilay123**: Fly-A-Pet Potion, Puppeteer Hand | **hshdxcmz**: Pet Handler Pro Certificate |
+| 12:11 | **0bjectl3x**: Cow Calf (NR) | **S3rennx**: Cotton Candy Hat, Cattuccino (N), Unfortunate Eyelashes |
+| 12:11 | **xch4rl0ttx3**: Ride-A-Pet Potion | **Katarinamartino**: Pupcicle, Komodo Dragon |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
