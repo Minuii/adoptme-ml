@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 23:11 UTC by the scrape workflow._
+_Updated 2026-11-19 23:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 23:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 43,809 | 2026-11-19T23:00 |
-| elve | 9 | 8,813 | 2026-11-19T23:01 |
+| amvgg | 9 | 44,019 | 2026-11-19T23:15 |
+| elve | 9 | 8,824 | 2026-11-19T23:15 |
 
-## AMVGG completed trades: 37,587 total
+## AMVGG completed trades: 37,615 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,591 |
+| 2026-11-19 | 3,619 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 23:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:11 | **patheticblackcat**: Cryptid (FR), Kangaroo (FR), Kangaroo (R), Munchkin Cat | **Winterqxu**: Crow (FR) |
-| 23:11 | **ophyns**: 2022 Birthday Party Hat, Toaster Hat, Chocolate Dutch Guinea Pig (M) | **slyvls**: Chocolate Chip Bat Dragon (FR) |
-| 23:11 | **ashlullabi**: Flash Weasel (FR) | **Killshot460**: Shiver Wolf (MFR) |
-| 23:11 | **queenyelii_22**: Tiny Wings, Spring Bunny Hood, Pancake Stack, Fly-A-Pet Potion | **YTstaro**: Werewolf (FR) |
-| 23:11 | **D3ATH5521**: Ride-A-Pet Potion ×2, Unicorn (NFR), Lamb (R), Seahorse (R) | **Mishkapesh**: Pig (R) |
-| 23:11 | **Artem_21a2**: Ride-A-Pet Potion ×18 | **Gonzpro5858**: Fly-A-Pet Potion ×10 |
-| 23:11 | **Lilboy_20188**: Chocolate Dutch Guinea Pig | **arisslovers**: Candy Hare |
-| 23:11 | **Mysecond_acc024**: Premium Camping Tent | **MissMaryCornfield**: Retired Egg ×18 |
-| 23:11 | **hii_itsari3**: Fly-A-Pet Potion | **rainbown758**: Rain Boots |
-| 23:11 | **LuxuryxDxrk**: Cryptid (FR) | **Spooky91017**: Latte Kitsune (MFR), Candicorn (NFR) |
-| 23:11 | **Katarinamartino**: Golden Jaguar (N) | **EmmaShad0wRider4737**: Fly-A-Pet Potion |
-| 23:06 | **floralplum**: Catte ×2 | **Alana2K201**: Fly-A-Pet Potion |
-| 23:06 | **Foxy_Bonny28**: Chimera (R), Bakeneko (M), Gumball Caterpillar (N), Shih Tzu (M) | **Varenkarciktwo**: Ride-A-Pet Potion ×2 |
-| 23:06 | **NastiGora**: Purrowl (N), Stray Cat Dragon (N) | **Varenkarciktwo**: Ride-A-Pet Potion |
-| 23:06 | **Panci_Terbang33**: Fly-A-Pet Potion ×3 | **k5ijo**: Tealwood Monster (M), Nurse Shark (M), Samoyed (M), Pupcake (N) |
+| 23:15 | **ezzzzyy3**: Ride-A-Pet Potion ×2 | **Scphiaaxbxdcr**: Hare |
+| 23:15 | **C0PHYAK**: Cow (FR), Cabbit, Siamese Cat (R), Kangaroo (FR) ×3, Kangaroo (R), Ride-A-Pet Potion ×10 | **chaxvznn**: Parrot (FR) |
+| 23:15 | **dianadonatlove**: Soulfire Animated Sticker, 2D Box, Bee Shuttle | **littlefelonies**: Cow Loves This Sticker |
+| 23:15 | **Lilypupper42**: Clover Cow (MR) | **erik_frumos**: Mr. Whiskerpips (NR), Black Macaque, Burning Bunny, Highland Cow, Koala, Mr. Whiskerpips, Pink Betta Fish, Scarecrow Cat, St Bernard, Amber Butterfly, Happy Duckling, Tarsier |
+| 23:15 | **tommylikeroblox2009**: Retired Egg ×3 | **eyebagsq**: Three Blind Mice |
+| 23:15 | **OMG4ZXLA**: Giraffe (NFR), Rain Cloud Hat | **Flashbook6**: Strawberry Tortle (MFR), Jousting Horse (MFR), Red Dutch Guinea Pig (MFR), Haetyphoon (M) |
+| 23:15 | **captaincream74**: Ride-A-Pet Potion | **Esikiiomuru**: Cat Plush |
+| 23:15 | **reiikell**: Pupcicle, Amethyst Skies Mega Neon Paint | **nilajlolxd**: Dumpling Friend Hat |
+| 23:15 | **Kali_girl790**: Ride-A-Pet Potion ×3, Shark Puppy (FR), Lion Cub (R), Alley Cat, Mule, Vanilla Penguin, Cactus Friend, Pupcicle (NR), Snowball Pet | **lola_bear1995**: Peppermint Penguin |
+| 23:15 | **Mistik435858**: Sakura Spirit (FR), Skelicorn (MR), Winged Horse (FR), Ride-A-Pet Potion, Matcha Cat, Cactus Friend, Purrowl ×2, Halloween White Ghost Dragon | **MERCEDESE300COUPE**: Turtle (FR) |
+| 23:15 | **Nikita_berg003**: Pupcicle (N) ×4 | **giovvanna7423**: Munchkin Cat (R) |
+| 23:15 | **LyraFusion**: Jellyfish | **elitro44**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 |
+| 23:15 | **akeks_74**: Mini Pig (FR), Mermicorn, Fly-A-Pet Potion | **selensecretacc**: Strawberry Shortcake Bat Dragon (FR) |
+| 23:15 | **Evaaster**: Ginger Cat (NFR), Yellow Designer Backpack | **afissamuzfirah**: Ride-A-Pet Potion |
+| 23:15 | **floralplum**: Pupcicle ×3 | **afissamuzfirah**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
