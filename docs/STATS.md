@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 01:46 UTC by the scrape workflow._
+_Updated 2026-11-19 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 01:46 UTC by the scrape workflow._
 | amvgg | 9 | 24,392 | 2026-11-19T01:45 |
 | elve | 9 | 4,852 | 2026-11-19T01:46 |
 
-## AMVGG completed trades: 34,227 total
+## AMVGG completed trades: 34,240 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 231 |
+| 2026-11-19 | 244 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 01:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:55 | **jokerako28**: Dragonfruit Fox (NR), Toaster Hat | **Larisa_DiecooleSocke**: Ride-A-Pet Potion, 2022 Birthday Confetti Cannon, Spring Bunny Hood, Dragonfruit Fox, Chihuahua |
+| 01:55 | **GL0Rl0**: Goose (FR), Cow (FR) | **806abby**: Chocolate Chip Bat Dragon (FR), Jester Dragon (R) |
+| 01:55 | **sxmplycutecorex**: Shiver Wolf (MR) | **strawberrycornettos**: Toaster Hat |
+| 01:55 | **Firen_Clo**: Gaelic Fae, Ride-A-Pet Potion, Alley Cat, Glormy Hound, Kraken, Chihuahua, Tealwood Monster (M), Snow Owl (FR), Pupcicle | **jam0khurt**: Shark Puppy |
+| 01:55 | **User4301jn**: Candyfloss Chick, Ice Cream Cone Hat, Lamb (R), Ram, Strawberry Shortcake Bow | **dimetacrine**: Cabbit (R) |
+| 01:55 | **Zocko007**: Cow (R), Jester Dragon, Christmas Pudding Pup, T-Rex (NFR), Copycat, Pupcicle (MFR), Frostbite Bear (NFR) | **notiamjhom**: Crow (FR) |
+| 01:55 | **obichamte77**: Owl (FR), Parrot (FR) | **Jake_b071**: Hot Doggo (MFR) |
+| 01:55 | **booluqx**: Shetland Pony Dark Brown (MR) | **crystalluz14**: Ride-A-Pet Potion ×2 |
+| 01:55 | **GENIFFGAMER**: Arctic Reindeer (FR) | **Irislikesyoufr**: Arctic Reindeer |
+| 01:55 | **1Biahsz_altx**: Ride-A-Pet Potion | **xolvrxo**: Nurse Shark (M) |
+| 01:55 | **teadan0**: White Chef Hat, Strawberry Shortcake Bow | **manucraftyt01tina**: Ride-A-Pet Potion |
+| 01:55 | **Snow_micasita**: Unicorn (M), Ballet Swan (R), Ride-A-Pet Potion | **Miner_Beast34**: Candicorn |
+| 01:55 | **IlikeBr0nies1234**: Red Dutch Guinea Pig (MFR) | **Flashbook6**: Flash Weasel (N) |
 | 01:45 | **ANGELpa2011**: Corn Doggo (NFR), Solaris | **bearlover1314**: Solaris (NFR) |
 | 01:45 | **murid5**: Turtle (FR), Fairy Bat Dragon (FR) ×2, Kangaroo (FR), Kangaroo (R) ×2, Candyfloss Chick (FR), Candyfloss Chick (R), Shrew (NR), Candicorn (R) | **amyggvaI**: Owl (FR) |
-| 01:45 | **crybabydoIl**: Wing Hang Glider | **micaelakdkdn**: Moose Calf |
-| 01:45 | **Nissa_butterfly**: Chihuahua ×4 | **plssnomore**: Mr. Whiskerpips (N) |
-| 01:45 | **spatoro**: Ice Cream Hermit Crab (MR), Tree Kangaroo | **enchantedxmira**: Ice Cream Hermit Crab (MFR) |
-| 01:45 | **re_eee0**: Harp Seal (MR), Sheeeeep | **DtiHelper8**: Field Mouse (NFR), Ride-A-Pet Potion |
-| 01:45 | **Leen124577**: Cabbit (NFR), Rainbow Maker ×3, Magic Girl Wings, 2022 Birthday Party Horn, Unicorn Horn | **Alfie_Albie**: Cabbit (MFR) |
-| 01:45 | **Alfie_Albie**: Balloon Unicorn (FR) ×2 | **Its_socrazy**: Rainbow Maker, 2022 Birthday Cake ×4, Unicorn Horn ×3, 2022 Birthday Cupcake Shoes, Rain Cloud Hat ×2, Toaster Hat, Tiny Wings ×2 |
-| 01:45 | **Robloxiana_xxx2011**: Ice Golem (MFR) | **ItsGaelBlox01**: Alley Cat (MFR) |
-| 01:45 | **ifiwasadragon**: Rainbow Maker, Platypus, Ride-A-Pet Potion | **nilajlolxd**: Halo, Unicorn Horn, Tiny Wings |
-| 01:45 | **Flxxnaa**: Mini Schnauzer (MFR), Diamond Hamster (R) | **comfytwi**: Karate Gorilla (MFR), Pink Cat (FR) |
-| 01:40 | **cxar_25**: Albino Monkey (FR) | **AsmioTakeW**: French Bulldog (MFR) |
-| 01:40 | **Itz_Yashka**: Jellyfish (MFR), Rainbow Maker, Toy Monkey (MFR), Happy Duckling (MFR), Seabed Creeper (MR), Capricorn (NFR) | **rastafarismo10**: Tortoiseshell Guinea Pig (MFR) |
-| 01:40 | **rastafarismo10**: Pupcicle (N), Pupcicle | **soulnesy**: Chocolate Dutch Guinea Pig (N) |
-| 01:40 | **nornomm**: Spring Bunny Hood, Butter Knife, Bunny Plush | **Lxdyxx**: Ram (N) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
