@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 16:16 UTC by the scrape workflow._
+_Updated 2026-11-19 16:26 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 16:16 UTC by the scrape workflow._
 | amvgg | 9 | 37,307 | 2026-11-19T16:15 |
 | elve | 9 | 7,379 | 2026-11-19T16:16 |
 
-## AMVGG completed trades: 36,180 total
+## AMVGG completed trades: 36,229 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,184 |
+| 2026-11-19 | 2,233 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 16:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:15 | **Evaaster**: Chocolate Chip Bat Dragon (FR), Pupcicle | **VIRAB0T_404**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:15 | **lo0vyyu**: Crystal Egg ×15 | **Navilolp**: Ride-A-Pet Potion |
-| 16:15 | **angelinagggcbh**: Flamingo (FR), Puppeteer Hand, Netzooka, Thunderfisher (N), Merry Mistletroll | **Mahvin29**: Siamese Cat (R) |
-| 16:15 | **jypit0410j**: Matcha Cat, Turtle (R) | **kendrito_garcia**: Monkey King (FR) |
-| 16:15 | **LxvelyKamm**: Magma Moose, Salamander, Praying Mantis, Blossom Snake, Snowy Mammoth, Tanuki | **christoqherrr**: Flaming Zebra ×2 |
-| 16:11 | **MysteriousDarksaturn**: Stray Cat Dragon (N), Skelicorn (N), Purrowl, Gemstone Egg, Ocelot (M), Pupcicle, Bat, Halloween Black Mummy Cat, Poodle | **uliiamiqw**: Ride-A-Pet Potion ×3 |
-| 16:11 | **Baleria_547**: Badger (M) ×3, Endangered Egg ×3 | **uliiamiqw**: Ride-A-Pet Potion ×2 |
-| 16:11 | **Its_12x4**: Fallow Deer (R), Velocirooster, Dragonfruit Fox, Clover Cow (NR), Ghost Bunny (R), Sushi Penguin, Dire Wolf (N), Mongoose (R), Squid (R), Cattuccino (R), Dolphin (R), Puptune, Bunny Swirl, Frankenfeline | **kI_Iaxx**: Albino Monkey (FR) |
-| 16:11 | **Sashime_148**: Elf Shoes, Elf Bandana, Santa's Bow, Purrowl | **Wazabbis**: Ride-A-Pet Potion |
-| 16:11 | **NoobMxtek**: Christmas Pudding Pup (MFR), Kitty Bat (N), Mummy Spider (M) ×4 | **Lola242532**: Copycat (MFR) |
-| 16:11 | **einxizz**: Jester Dragon ×2, Cerberus (R), Fly-A-Pet Potion | **ngphooiyuan2678**: Haetyphoon (R) |
-| 16:11 | **dwyames**: Banana Hat ×3 | **Yaret_1424**: Spring Bunny Hood |
-| 16:11 | **XxGavsxX**: Crocodile | **Astral_Knight3**: Flash Weasel |
-| 16:11 | **prettypink123a**: Fly-A-Pet Potion | **kqiluviee**: Ride-A-Pet Potion ×2 |
-| 16:11 | **ferrofl7**: Snow Cat (N), Snow Puma (N) ×2, Chocolate Labrador (N), Rabbit (N), Parakeet (N) ×2, Princess Mare (N), Granny Wolf (N), Beaver (N), Black Rhino (N), Galapagos Sea Lion (N) | **dinax1238**: Ride-A-Pet Potion |
+| 16:26 | **V1ABACKUP**: Ride-A-Pet Potion, Three Blind Mice (N) | **Atsushi1_BSD**: Catte (R) |
+| 16:26 | **C0PHYAK**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **MarkerFanAccount**: Cow (FR) |
+| 16:26 | **C0PHYAK**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **MM2jug**: Snow Owl (NR) |
+| 16:26 | **minusponda**: White Sand Dollar (N) | **zow_98alt**: Ride-A-Pet Potion ×4 |
+| 16:26 | **minusponda**: Bunny Swirl (NR), Ride-A-Pet Potion | **HeyCrystals**: White Sand Dollar (N), Bunny Swirl |
+| 16:26 | **PhoenixEpic85**: Chihuahua ×6 | **minusponda**: Ride-A-Pet Potion ×2 |
+| 16:26 | **Kitty_1b**: Strawberry Shortcake Bow | **Da44ikXD**: Cattuccino, General Sheepdog |
+| 16:26 | **razarvale2z**: Chihuahua ×3 | **KoTik_rbx2010**: Ride-A-Pet Potion |
+| 16:26 | **razarvale2z**: Chihuahua ×12 | **Ranboo9875**: Ride-A-Pet Potion ×4 |
+| 16:26 | **RobloxDevolober**: Snowy Mammoth | **Spion6607**: Endangered Egg ×18 |
+| 16:26 | **0MGSARAY**: Giant Cheetah Mount, Chanekeh (M) | **sona6839**: Crocodile (R) |
+| 16:26 | **mommy_vka123**: Strawberry Penguin (R), Munchkin Cat (FR), Munchkin Cat, Red Squirrel (R) | **fearedmelancholy**: Elephant (R), Crocodile (R) |
+| 16:21 | **12emanuel07**: Kangaroo (FR) | **angelinagggcbh**: Candicorn (R), Pupcake (R), Magical Girl Car |
+| 16:21 | **Cute_Cinabon**: Pineapple Owl (N), Wailing Mr. Whiskerpips Sticker | **rayswardrobe**: Crocodile |
+| 16:21 | **Niruch_Bearly**: Dango Penguins (NFR) | **rayswardrobe**: Shark Puppy (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
