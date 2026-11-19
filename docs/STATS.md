@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 07:46 UTC by the scrape workflow._
+_Updated 2026-11-19 07:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 07:46 UTC by the scrape workflow._
 | amvgg | 9 | 29,744 | 2026-11-19T07:45 |
 | elve | 9 | 5,890 | 2026-11-19T07:46 |
 
-## AMVGG completed trades: 34,915 total
+## AMVGG completed trades: 34,937 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 919 |
+| 2026-11-19 | 941 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 07:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:40 | **Gamerqueen1255**: Gemstone Egg | **hefeltsafe**: Retired Egg ×18 |
-| 07:40 | **Vitamirka**: Pupcicle | **malinka560718**: Ride-A-Pet Potion |
-| 07:40 | **maegrie7**: Latte Kitsune | **safeinthebuble**: Hare |
-| 07:40 | **dababis35**: Halloween Chick Box ×10 | **ikabackflip**: Ride-A-Pet Potion |
-| 07:40 | **dababis35**: Winter 2024 Sticker Pack ×18 | **ikabackflip**: Ride-A-Pet Potion |
-| 07:40 | **foreverforethel**: Cryptid (FR), Candicorn (MFR), Toaster Hat, Momma Moose (M) | **LuxuryxDxrk**: Cryptid (NFR) |
-| 07:40 | **mikiroqz**: Munchkin Cat (MR) | **jokerako28**: Black Chow-Chow (MFR), Chihuahua (MR), Border Collie, 2022 Birthday Confetti Cannon, Toaster Hat, Tiny Wings ×2, Copycat, Ice Cream Cone Hat, Meerkat, Dragonfruit Fox, Ride-A-Pet Potion |
-| 07:40 | **4zuuk1**: Fairy Bat Dragon (NFR), Candicorn (NFR), Candicorn, Tiny Wings, Fly-A-Pet Potion | **j2v73r**: Balloon Unicorn (FR) |
-| 07:40 | **Lizzaa77**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **iaMatthieu1**: Nessie (FR) |
-| 07:40 | **K1MM007**: Strawberry Shortcake Ducky (MFR) | **YuroMiyuk1**: Puptune (MFR) |
-| 07:40 | **aabeeyg**: 2022 Birthday Cake, Mini Pig (FR) | **roblox_user_2880951367**: Rainbow Maker |
-| 07:40 | **Jenniea264**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **iaMatthieu1**: Strawberry Shortcake Bat Dragon (FR) |
-| 07:40 | **MyStarPets1**: French Fries Stroller, Cauldron Stroller | **you_mybro9**: Ride-A-Pet Potion |
-| 07:40 | **naninaaa000**: Crocodile (FR), Pig, Unicorn (MFR) | **AMBER_SOLE**: Goose (FR) |
-| 07:30 | **ohinam**: Pet Handler Pro Certificate ×6, Ride-A-Pet Potion | **Z_Alexis22**: Lion (FR) |
+| 07:55 | **Panci_Terbang33**: Pupcicle ×5 | **alexgameminecraft**: Fly-A-Pet Potion ×2 |
+| 07:55 | **2creme1sucre**: Butter Knife | **Vol4ica77**: Ride-A-Pet Potion |
+| 07:55 | **AsianIceCold**: Pink Cat Ear Headphones | **loli_kuki9**: Ride-A-Pet Potion |
+| 07:55 | **tyt_567r**: Ride-A-Pet Potion ×2, Count Slothula (N) | **ler4ka_391**: Jester Dragon |
+| 07:55 | **Venom_eshkeregg**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Kitsune Sticker, Mini Pig Sticker, Badger (N), Mummy Spider (N) | **Xxshad0wf0xxX**: Dodo (NFR) |
+| 07:55 | **Inganta07**: Fly-A-Pet Potion | **loli_kuki9**: Yule Log Dog |
+| 07:55 | **cmikyn**: Alicorn (R), Alley Cat (R), Yule Log Dog, Ride-A-Pet Potion | **loli_kuki9**: Harp Seal (NR) |
+| 07:55 | **C0PHYAK**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Ride-A-Pet Potion ×6 | **XxRainbowDasher**: Evil Unicorn (FR) |
+| 07:55 | **aabeeyg**: 2022 Birthday Cake, Aussie Egg, Frostbite Cub (NR) | **YerlyDiSar45**: Cherry-On-Top |
+| 07:55 | **itemhouse1**: Unicorn (NFR) | **Bellatriz_Blacky**: Frost Fury (FR) |
+| 07:55 | **inputw**: Pet Handler Pro Certificate ×3 | **minismudgepanda**: Chick (MFR) |
+| 07:55 | **MathildeFX924**: Golden Lettuce | **Gooblin_trool**: Ride-A-Pet Potion ×2 |
+| 07:55 | **NummieNummiegirl**: Cow (FR) ×6, Cow (R), Cow ×4, Goose (FR), Goose (R) ×2, Goose ×3 | **misaki_hagami**: Shadow Dragon (FR) |
+| 07:55 | **Sanster47**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) | **sneganii**: Strawberry Shortcake Bat Dragon (FR) ×2, Cow (FR) ×2, Stray Cat Dragon (M) ×2 |
+| 07:51 | **princess_pizzanice**: Turtle (FR), Turtle (R), Siamese Cat (FR), Elephant (FR) ×2, Crocodile (R), Border Collie (FR), Frost Fury (R) ×2, 2022 Birthday Confetti Cannon | **ii_aldrin20**: Crow (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
