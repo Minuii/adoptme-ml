@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 02:31 UTC by the scrape workflow._
+_Updated 2026-11-19 02:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 02:31 UTC by the scrape workflow._
 | amvgg | 9 | 25,049 | 2026-11-19T02:30 |
 | elve | 9 | 4,988 | 2026-11-19T02:31 |
 
-## AMVGG completed trades: 34,300 total
+## AMVGG completed trades: 34,334 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 304 |
+| 2026-11-19 | 338 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 02:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:25 | **ale_45874**: Chocolate Chip Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (FR), Elephant (FR) | **notiamjhom**: Shadow Dragon (FR) |
-| 02:25 | **MinatoNamikazich**: Kangaroo (FR) | **Imdelulu120**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion |
-| 02:25 | **Elianatrustedd**: Burger Bear (M) | **ELOSOCURIOSO**: Pupcicle ×2, Sushi Penguin, Tortuga de la Isla |
-| 02:25 | **RyukkHolder**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion, Kitty Bat | **ioannboy**: Aestus (NR) |
-| 02:25 | **Panci_Terbang33**: Pupcicle ×5 | **locked_inrn54**: Fly-A-Pet Potion ×2 |
-| 02:25 | **duruaskar**: Horse | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 02:25 | **sunpnkk**: Giant Anteater (NR), Cow (FR), Cow, Unicorn Horn, Frostbite Bear | **TANSKlN**: Giant Anteater (MFR) |
-| 02:25 | **vcloss**: Naughty Mistletroll, Cactus Friend (N), Diamond Griffin (NFR), Ride-A-Pet Potion | **MrRxwr**: Pupcicle ×5 |
-| 02:25 | **Strawberryxm0cha**: Mermicorn (FR) ×2, Goat, Copycat (R), Fly-A-Pet Potion | **Froggyblossom90**: Strawberry Shortcake Bat Dragon (FR) |
-| 02:25 | **justunujede123**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **lianchik_cutee**: Tanuki (MFR) |
-| 02:25 | **criedtogod**: Dragonfruit Fox (MFR), Bush Elephant (R) | **st4rman_sl4ughter**: Mini Pig (FR), Unicorn Horn |
-| 02:25 | **Robloxiana_xxx2011**: Fly-A-Pet Potion | **Carl86B**: Ride-A-Pet Potion, Paint Sealer ×5 |
-| 02:25 | **estehhxx**: Cupid Dragon, Owlbear, Crimson Cape (M) | **chicken_kaka7w7**: Cupid Dragon (FR), Pupcicle (N) |
-| 02:25 | **0MGJENNX0**: Panda (MFR), Pretty Pony (MFR), Black Springer Spaniel (MR) | **RuitLodewijk00**: Purple Butterfly (MFR) |
-| 02:15 | **Amvggtrad3r**: Swan (MFR) | **Cooking1626**: Lamb (MFR) |
+| 02:40 | **MoMtobias**: Hedgehog (FR), Dalmatian (FR), Lion (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Tan Chow-Chow (M), Tan Chow-Chow (R) | **iiSimplylvxy**: Owl (FR) |
+| 02:40 | **tradinguser1210**: Rainbow Maker, Groundhog (MFR) | **Shynekoprincess**: Balloon Unicorn (FR) |
+| 02:40 | **isyaboitroy_56**: Tiny Wings | **Mimismila8**: Ice Cream Cone Hat, Fly-A-Pet Potion, Strawberry Shortcake Bow |
+| 02:40 | **Kahmitt**: Frost Dragon (FR), Bush Elephant (MFR) | **XxlambadguyxX**: Giant Panda (FR), Cabbit (MFR) |
+| 02:36 | **lolcryabtit6767**: Candicorn (NFR) | **Spooky91017**: Ballet Swan (NFR), Candyfloss Chick (FR) |
+| 02:36 | **LuxuryxDxrk**: Fallow Deer (MFR), Harp Seal (MR), Candicorn (NFR), Copycat, Energy Aura Feet | **lolcryabtit6767**: African Wild Dog (FR) |
+| 02:36 | **pawsicfl**: Dalmatian (FR), Cabbit (FR) | **T3bas1**: Cryptid (FR) |
+| 02:36 | **SadiSadie3**: Golden Lettuce, Vol. 2 Pets Plus Sticker Pack, Pet Handler Pro Certificate, Well, Actually Walrus Sticker | **ihitmyheadonwalls2**: Ride-A-Pet Potion ×6 |
+| 02:36 | **sxmplycutecorex**: Red Fox (MR) | **ihitmyheadonwalls2**:  |
+| 02:36 | **camsties**: Snow Leopard (N) | **xSheLost**: Ride-A-Pet Potion |
+| 02:36 | **Angelbatista_me2**: Winged Tiger (NFR), Haetyphoon, Pupcicle (N) | **NoRiskNoFun_12**: Aurora Fox (NFR), Christmas Pudding Pup (NR), Vanilla Penguin (MFR) |
+| 02:36 | **blackaquamarine**: Golden Lettuce | **dnei30fast**: Ride-A-Pet Potion ×2 |
+| 02:36 | **queenmaya773**: Zombie Wolf (M), Fly-A-Pet Potion ×2 | **Idkk_0426**: Strawberry Tortle |
+| 02:36 | **MckDull**: Robo Dog (F) | **Kaiohtic101**: Ride-A-Pet Potion |
+| 02:36 | **Josuwu892**: Crimson Cape ×2 | **misxsuki**: Retired Egg ×6 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
