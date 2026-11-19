@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 22:25 UTC by the scrape workflow._
+_Updated 2026-11-19 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 43,148 | 2026-11-19T22:15 |
-| elve | 9 | 8,617 | 2026-11-19T22:15 |
+| amvgg | 9 | 43,370 | 2026-11-19T22:30 |
+| elve | 9 | 8,686 | 2026-11-19T22:31 |
 
-## AMVGG completed trades: 37,446 total
+## AMVGG completed trades: 37,472 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,450 |
+| 2026-11-19 | 3,476 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:20 | **AutoTradeCommission**: Ballet Swan (FR), Yellow Butterfly (MFR), Shadow Dragon Ducky (MFR), Castle Hermit Crab (MFR), Australian Kelpie (M), Chipmunk (M), Clover Cow (MR), Cow Calf (M) ×2, Gorilla (MFR), Monkey (MFR), Snow Leopard (MR), Lava Wolf (NF), Capricorn (NFR), Candicorn (FR), Shadow Dragon Ducky (M) ×2 | **kittycutecat11130**: Blazing Lion (R) |
-| 22:20 | **kylebarcebas1**: Halloween White Skull Hat, Bat Wings | **charli_fan49**: Ride-A-Pet Potion |
-| 22:20 | **ysaazik_0**: Cake Friend (M), Halloween Black Ponycycle, Ratatoskr (M) | **cherzlolz**: Tortoiseshell Guinea Pig |
-| 22:20 | **cowlol898**: Fly-A-Pet Potion | **Asia08642359011**: Rainbow Trout (M), Jacobin Pigeon (M), Caramelgeist (M), Snowman (F) |
-| 22:20 | **sxmplycutecorex**: Ranger Beaver (MR) | **sleepy_s0ren**: Tiny Wings |
-| 22:20 | **CottonBrxelle**: Cattuccino | **Lera777480_77**: Dire Wolf |
-| 22:20 | **liofe1**: Giraffe (FR), Rainbow Maker, Chocolate Dutch Guinea Pig (MFR), Unicorn Horn, Kangaroo (FR) ×3, Albino Monkey (FR) | **j2v73r**: Shadow Dragon (FR) |
-| 22:20 | **detective_emilly**: Pink Butterfly Wings, Cheesecake Hat | **laky12372**: Rain Hat |
-| 22:20 | **Dian09a**: Orca ×3, Toucan ×2, Sloth (R), Angus Cow (N), Crimson Cape (N) | **AsmioTakeW**: Ride-A-Pet Potion |
-| 22:20 | **jouro_chan**: Stray Cat Dragon ×2 | **ThiagoAnguloS**: Maine Coon |
-| 22:20 | **YUMIIMOTHZZ**: Shark Puppy (NFR), Pupcicle (M), Ride-A-Pet Potion, Crystal Egg | **skullteast**: Winged Tiger (NFR) |
-| 22:20 | **Piper_pig130408**: Peppermint Penguin (MFR), Peppermint Penguin (NFR), Leopard Shark (MFR), Jester Dragon (NR) | **AmvggPi0n41K**: Giant Panda (NFR) |
-| 22:20 | **eyebagsq**: Pain au Chat | **2tayy**: Retired Egg ×15 |
-| 22:20 | **Annsjdnsnjs**: Field Mouse (NFR), Cabbit (FR), 2022 Birthday Cake, Siamese Cat (R), Unicorn Horn, Siamese Cat, Fallow Deer (NR), Border Collie, Dragonfruit Fox (NR), Ice Cream Cone Hat, Jester Dragon | **coldgoodbyes**: Border Collie (MFR) |
-| 22:20 | **wloobb**: 2022 Birthday Party Hat, Great Pyrenees (N), Silly Duck | **aabeeyg**: Cherry-On-Top |
+| 22:30 | **ThePinkDuck17**: Bubblegeist, Ruddy Duck (M), Pupcake, Moon Rabbit, Aye Aye, Crimson Cape ×2, Corgi ×2 | **wrixcte**: Fly-A-Pet Potion |
+| 22:30 | **MinatoNamikazich**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 | **opazoopazo7779**: Cow (FR) |
+| 22:30 | **donnotinteract**: Cow (FR), Harp Seal (N) | **opazoopazo7779**: Mini Pig (FR) |
+| 22:30 | **Terrfier_lover269**: Giant Panda (FR), Turtle (FR) | **Bekhan_omg**: Crow (FR) |
+| 22:30 | **2creme1sucre**: Turtle (FR), Jester Dragon (NFR), Black Macaque (MR), Leopard Shark (NR), Ride-A-Pet Potion | **MERCEDESE300COUPE**: Chocolate Chip Bat Dragon (FR) |
+| 22:30 | **ezzzzyy3**: Ride-A-Pet Potion ×2 | **imclingingtohim**: Ice Wolf |
+| 22:30 | **kelixnz**: Albatross | **himary626**: Royal Egg ×18 |
+| 22:30 | **XxAlexTheBossVibesxX**: Pain au Chat ×2 | **wvuqil**: Cake Friend |
+| 22:30 | **PH_HYPER**: Cow (FR), Cow, Snow Owl (R), Sea Turtle (R), Fly-A-Pet Potion | **dboy_codyxxx**: Cow (NFR) |
+| 22:30 | **Janzirra**: Turtle (FR), Matcha Cat | **4evxer**: Sakura Spirit (NFR) |
+| 22:30 | **Exhowishpers**: Snow Cloud Wings | **trvallx**: Paint Sealer ×3 |
+| 22:30 | **akatsiiii**: Crocodile (R), Crocodile | **TANSKlN**: Frostbite Bear |
+| 22:30 | **lildaminii**: Santa Hat | **Katarinamartino**: Pet Handler Pro Certificate ×3 |
+| 22:30 | **wloobb**: Goose (FR), Munchkin Cat (NFR), Fairy Bat Dragon (FR), Turtle (FR), Alpaca (R) | **xmikaeq**: Siamese Cat (MFR) |
+| 22:30 | **Terrfier_lover269**: Cow (NFR), Kangaroo (NFR), Unicorn Horn, Rain Cloud Hat | **BuenosDias1111**: Strawberry Shortcake Bat Dragon (NFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
