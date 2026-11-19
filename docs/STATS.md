@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 01:40 UTC by the scrape workflow._
+_Updated 2026-11-19 01:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 01:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 24,146 | 2026-11-19T01:30 |
-| elve | 9 | 4,803 | 2026-11-19T01:31 |
+| amvgg | 9 | 24,392 | 2026-11-19T01:45 |
+| elve | 9 | 4,852 | 2026-11-19T01:46 |
 
-## AMVGG completed trades: 34,216 total
+## AMVGG completed trades: 34,227 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 220 |
+| 2026-11-19 | 231 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 01:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:45 | **ANGELpa2011**: Corn Doggo (NFR), Solaris | **bearlover1314**: Solaris (NFR) |
+| 01:45 | **murid5**: Turtle (FR), Fairy Bat Dragon (FR) ×2, Kangaroo (FR), Kangaroo (R) ×2, Candyfloss Chick (FR), Candyfloss Chick (R), Shrew (NR), Candicorn (R) | **amyggvaI**: Owl (FR) |
+| 01:45 | **crybabydoIl**: Wing Hang Glider | **micaelakdkdn**: Moose Calf |
+| 01:45 | **Nissa_butterfly**: Chihuahua ×4 | **plssnomore**: Mr. Whiskerpips (N) |
+| 01:45 | **spatoro**: Ice Cream Hermit Crab (MR), Tree Kangaroo | **enchantedxmira**: Ice Cream Hermit Crab (MFR) |
+| 01:45 | **re_eee0**: Harp Seal (MR), Sheeeeep | **DtiHelper8**: Field Mouse (NFR), Ride-A-Pet Potion |
+| 01:45 | **Leen124577**: Cabbit (NFR), Rainbow Maker ×3, Magic Girl Wings, 2022 Birthday Party Horn, Unicorn Horn | **Alfie_Albie**: Cabbit (MFR) |
+| 01:45 | **Alfie_Albie**: Balloon Unicorn (FR) ×2 | **Its_socrazy**: Rainbow Maker, 2022 Birthday Cake ×4, Unicorn Horn ×3, 2022 Birthday Cupcake Shoes, Rain Cloud Hat ×2, Toaster Hat, Tiny Wings ×2 |
+| 01:45 | **Robloxiana_xxx2011**: Ice Golem (MFR) | **ItsGaelBlox01**: Alley Cat (MFR) |
+| 01:45 | **ifiwasadragon**: Rainbow Maker, Platypus, Ride-A-Pet Potion | **nilajlolxd**: Halo, Unicorn Horn, Tiny Wings |
+| 01:45 | **Flxxnaa**: Mini Schnauzer (MFR), Diamond Hamster (R) | **comfytwi**: Karate Gorilla (MFR), Pink Cat (FR) |
 | 01:40 | **cxar_25**: Albino Monkey (FR) | **AsmioTakeW**: French Bulldog (MFR) |
 | 01:40 | **Itz_Yashka**: Jellyfish (MFR), Rainbow Maker, Toy Monkey (MFR), Happy Duckling (MFR), Seabed Creeper (MR), Capricorn (NFR) | **rastafarismo10**: Tortoiseshell Guinea Pig (MFR) |
 | 01:40 | **rastafarismo10**: Pupcicle (N), Pupcicle | **soulnesy**: Chocolate Dutch Guinea Pig (N) |
 | 01:40 | **nornomm**: Spring Bunny Hood, Butter Knife, Bunny Plush | **Lxdyxx**: Ram (N) |
-| 01:40 | **Ribocoo12**: Hopbop (M) | **AsmioTakeW**: Ride-A-Pet Potion |
-| 01:40 | **ADMaltSUSHI3**: Winged Tiger (FR) | **TwistedK1tty**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion |
-| 01:40 | **mofncufjs**: Soulfire Animated Sticker, Admin Abuse Egg ×3 | **littlefelonies**: Mexican Wolf ×18 |
-| 01:40 | **donnotinteract**: Cabbit (NFR), Propeller Hat, Fly-A-Pet Potion, Spring Bunny Hood ×2, Ride-A-Pet Potion ×10 | **blvvyiiskiies**: Goose (FR) ×2, Hot Doggo (FR) |
-| 01:40 | **violencesoul**: 2022 Birthday Party Hat ×2, Tiny Wings | **BibbleFairy_9**: Goose (R), Siamese Cat, Head Chef |
-| 01:36 | **Roblox_King8751**: Cow (FR) | **RV282**: Jekyll Hydra (FR) |
-| 01:36 | **Lxdyxx**: Dancing Dragon (NFR) | **littlefelonies**: Chocolate Dutch Guinea Pig (N), Ghost Bunny (NR), Cattuccino (M) |
-| 01:36 | **TANSKlN**: 2022 Birthday Party Hat, Shark Puppy (N), Turtle (FR), Irish Water Spaniel (NFR), Albino Monkey (FR), Tiny Wings, Rain Cloud Hat, Ice Wolf (FR) | **gjfurgd1234**: Albino Monkey (MFR) |
-| 01:36 | **exorcciism**: Rainbow Maker ×2, 2022 Birthday Cake ×2, Unicorn Horn, Rain Cloud Hat, 2022 Birthday Confetti Cannon, 2022 Birthday Party Horn, Dango Penguins (MFR) ×2, Bush Elephant (NFR), Puffer Fish (MFR) | **xxSoftiee_xx**: Mini Pig (MFR) |
-| 01:36 | **nornomm**: Aviator Hat, Bat Wings, Ride-A-Pet Potion | **Sp1nd_sh**: Pancake Stack |
-| 01:36 | **jrnics2q226**: Irish Water Spaniel (MFR), Candicorn (NFR), Kangaroo (NFR), Cow (FR), Mermicorn (FR), Turtle (FR), 2022 Birthday Party Hat ×2 | **NathanPlayz83**: Crow (NFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
