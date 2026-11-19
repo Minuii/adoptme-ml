@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 06:25 UTC by the scrape workflow._
+_Updated 2026-11-19 06:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 06:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 28,414 | 2026-11-19T06:15 |
-| elve | 9 | 5,640 | 2026-11-19T06:15 |
+| amvgg | 9 | 28,640 | 2026-11-19T06:30 |
+| elve | 9 | 5,679 | 2026-11-19T06:31 |
 
-## AMVGG completed trades: 34,772 total
+## AMVGG completed trades: 34,779 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 776 |
+| 2026-11-19 | 783 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,13 @@ _Updated 2026-11-19 06:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:30 | **Realemmarbx83**: Zombie Wolf (MFR), Choco Penguin (N), Tarsier (N), Ride-A-Pet Potion ×2 | **sequo1_a**: Fairy Bat Dragon (FR) |
+| 06:30 | **Vixinnty**: Siamese Cat (MFR), Chocolate Chip Bat Dragon (FR), Arctic Dusk Dragon (MR), Latte Kitsune (MFR), Rainbow Maker, Tiny Wings | **IIlllllIIllllIIIll**: Arctic Reindeer (MFR) |
+| 06:30 | **Shehatesme420**: Hare (R) | **Max_999LoLejen**: Hare, Orange Betta Fish, River Otter, Humbug, Yellow Designer Backpack, Thunderfisher, Shiba Inu, Irish Setter, Jacobin Pigeon ×2, Rubber Ducky, Mummy Spider |
+| 06:30 | **mxdmcrza**: Ride-A-Pet Potion ×2 | **Sirswagalishsus**: Pet Handler Pro Certificate |
+| 06:30 | **Eshhk_06**: Dodo (NFR) | **You_kwin666**: Frost Fury (FR) |
+| 06:30 | **polina_miskaa**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **IRoblox_Qoeen**: Munchkin Cat |
+| 06:30 | **xXhimekoXx34**: Jester Dragon (R), Yule Log Dog (NR), Hamster (N), Possum (N), Chick Hat, Gingerbread Reindeer | **NEZZAandVANESSA**: Kangaroo (R) |
 | 06:25 | **Hungry_Sleppy**: Evil Unicorn (FR), Goose | **Xnixht**: African Wild Dog (FR) |
 | 06:25 | **pumpknIatte**: Fly-A-Pet Potion ×5 | **raeshiia**: Tiny Wings |
 | 06:25 | **jevxqz**: Chocolate Chip Bat Dragon (FR), German Shepherd (MFR) | **nameless_95**: Cabbit (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
@@ -42,13 +49,6 @@ _Updated 2026-11-19 06:25 UTC by the scrape workflow._
 | 06:25 | **thafterparty**: Peachick, Count Slothula, Skelebat, Monkey (F) | **altaccount02037**: Ride-A-Pet Potion |
 | 06:20 | **weelk110**: Cow (FR), Kangaroo (FR), Arctic Fox (R), Frosty Glow Mega Neon Paint, Halloween Slime Mega Neon Paint, Mighty Haetyphoon Animated Sticker, Black Chow-Chow, Pupcake, Lemonade Stand, Slothula Transformation Animated Sticker | **CcLuims011x**: Chocolate Chip Bat Dragon (R) |
 | 06:20 | **ellielielielieee**: Purrowl ×3, Stray Cat Dragon, Dragonfly, Pomeranian ×2, Boohoo, Stitches ×3, Starfish, Ribbon Seal, Jacobin Pigeon, Robot ×3, Pelican Stroller | **panda_wolfielover**: Ride-A-Pet Potion |
-| 06:20 | **MrIcedKofi**: Kangaroo (R) | **MiLkas_20111**: Frost Fury (NFR), Ride-A-Pet Potion ×4 |
-| 06:20 | **MrIcedKofi**: Kangaroo (R) | **Maryha0243**: Frost Fury (NFR), Ride-A-Pet Potion ×4 |
-| 06:20 | **iaMatthieu1**: Tortoiseshell Guinea Pig (N) | **flamgofannx**: 2022 Birthday Confetti Cannon, Unicorn Backpack, Alpaca, Candicorn, Diamond Hummingbird |
-| 06:20 | **ZozoPingvin**: Ride-A-Pet Potion ×7 | **iaMatthieu1**: Goat |
-| 06:20 | **robloxer_3614**: Cat Backpack, Princess Mare (N) | **svekoc**: Momma Moose, Irish Setter (N) |
-| 06:15 | **SleepySxturnn**: Rubber Ducky (M), Ice Cube, Gumball Caterpillar (N), Zodiac Minion Chick, Thunderfisher ×2, Metal Ox | **QetiChitashvil**: Ride-A-Pet Potion |
-| 06:15 | **bolsi_06**: Chocolate Dutch Guinea Pig (MFR), Pet Handler Pro Certificate | **liofe1**: Cow (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
