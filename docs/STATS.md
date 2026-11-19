@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 04:46 UTC by the scrape workflow._
+_Updated 2026-11-19 04:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 04:46 UTC by the scrape workflow._
 | amvgg | 9 | 27,130 | 2026-11-19T04:45 |
 | elve | 9 | 5,374 | 2026-11-19T04:46 |
 
-## AMVGG completed trades: 34,612 total
+## AMVGG completed trades: 34,626 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 616 |
+| 2026-11-19 | 630 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 04:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:51 | **epicpulsechaos2024**: Crystal Egg ×18 | **Robloxiana_xxx2011**: Ride-A-Pet Potion ×2 |
+| 04:51 | **itz_arabkap**: Copycat ×2, Fly-A-Pet Potion | **R4kert**: Crocodile (FR) |
+| 04:51 | **Zombie_8803**: Alpaca (R), Siamese Cat, Sugar Axolotl | **nxat_t**: Sugar Glider (R), Unicorn Horn, Spring Bunny Hood |
+| 04:51 | **kittypaws_241**: Cow (R), Siamese Cat (R), Pig (R), Arctic Fox (FR) | **wskdaks**: Arctic Reindeer (FR) |
+| 04:51 | **epicpulsechaos2024**: Crystal Egg ×18 | **Robloxiana_xxx2011**: Ride-A-Pet Potion ×2 |
+| 04:51 | **kyufrhg**: Crystal Egg ×10 | **Panci_Terbang33**: Pupcicle |
+| 04:51 | **s_coki**: Strawberry Shortcake Bat Dragon | **Summerwave2011**: Chocolate Chip Bat Dragon (FR) |
+| 04:51 | **Summerwave2011**: Goose (R), Cabbit (R) | **fawnmariex**: Goose, Cabbit |
+| 04:51 | **Fbrleey**: Peppermint Penguin (FR), Peppermint Penguin, Munchkin Cat, Siamese Cat, Snow Monkey | **Youmyrii**: Hedgehog (R) |
+| 04:51 | **Summerwave2011**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **superfangirlofponies**: Strawberry Shortcake Bat Dragon ×2 |
+| 04:51 | **Lemonz_Die**: Pupcicle, Robot, Thunderfisher | **altaccount02037**: Ride-A-Pet Potion |
+| 04:51 | **Babyofy5**: Strawberry Shortcake Bat Dragon (FR) | **L_person21**: Silverback Gorilla ×2, Many Mackerel ×2, Velocirooster, Jester Dragon, Dancing Dragon (R), Lava Dragon (FR), Meerkat, Mechapup (R), Pig (R), Pet Handler Pro Certificate |
+| 04:51 | **m4rshalI**: African Wild Dog (MFR), Parrot | **1234nenna**: Haetae (MFR), Blazing Lion (NFR) |
+| 04:51 | **036daylan**: Ride-A-Pet Potion | **tiramisuified**: Cake Friend |
 | 04:45 | **criedtogod**: Cow (FR), Turtle (FR), Fairy Bat Dragon (FR) | **Itme_ving**: Alpaca (N) |
-| 04:45 | **wskdaks**: Albino Monkey (FR), Ride-A-Pet Potion, Throwback Egg | **kaylamicmi**: Pig (FR), Arctic Fox |
-| 04:45 | **Ajbojoapple**: Kangaroo (NFR) | **luxsdomain**: Fly-A-Pet Potion ×18 |
-| 04:45 | **Avue_203**: Hydra (MFR) | **3h8d0w**: Ride-A-Pet Potion ×3 |
-| 04:45 | **simplyr0saa**: Mini Pig (MFR), Munchkin Cat (MR), Cabbit (NFR) | **henmxaii**: Giant Panda (NFR) |
-| 04:45 | **Nevaeh_sxfte**: Copycat | **bryanna_yaaa**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
-| 04:45 | **itisfrogtime123**: Dalmatian (FR), Siamese Cat ×3, Pancake Stack, Unicorn (FR) | **Brooklyn_Ohio**: Balloon Unicorn (FR) |
-| 04:40 | **stellbelle1609**: Crow (FR), Albino Monkey (NFR), Cow (NFR), Cow (R), Monkey King (R), Kangaroo (NFR), Elephant (R), Arctic Fox (R), Aussie Egg, Panda, Polar Bear, Brown Bear, Albino Bat (NR), Frog (NR), Australian Kelpie (MR) | **Marilynbrandt662**: Giraffe (FR) |
-| 04:40 | **ItzKiaraWithIce**: Indian Flying Fox (NR), Mr. Whiskerpips (N), Fly-A-Pet Potion | **Jorge4985**: Pupcicle (N) |
-| 04:40 | **xx_xxbummrr**: Rainbow Maker | **13kdiino**: Angel Wings, Unicorn Horn, Tiny Wings |
-| 04:40 | **MorpekoMuncher**: Puffin (R) | **usernamemeeemr**: Fly-A-Pet Potion ×4 |
-| 04:40 | **ItsxCloud5**: Giraffe Backpack, Giraffe Hat, Skelicorn (M) | **adriel_24k**: Orchid Butterfly |
-| 04:40 | **SmallestMascot**: Turtle (MFR), Evil Unicorn (FR) | **joshsawsy**: Owl (FR) |
-| 04:40 | **omlisage_amvgg**: Turtle (NFR), Toaster Hat, Happy Clam (R) | **littlefelonies**: Rainbow Maker |
-| 04:40 | **Edwinisme4th**: Werewolf (NFR), Phoenix (MFR) ×2, Pet Handler Pro Certificate, Shih Tzu (MR) | **joshsawsy**: Evil Unicorn (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
