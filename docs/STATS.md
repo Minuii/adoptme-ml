@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 19:11 UTC by the scrape workflow._
+_Updated 2026-11-19 19:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 19:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 39,928 | 2026-11-19T19:00 |
-| elve | 9 | 7,901 | 2026-11-19T19:01 |
+| amvgg | 9 | 40,191 | 2026-11-19T19:15 |
+| elve | 9 | 7,928 | 2026-11-19T19:15 |
 
-## AMVGG completed trades: 36,778 total
+## AMVGG completed trades: 36,779 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,782 |
+| 2026-11-19 | 2,783 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,7 @@ _Updated 2026-11-19 19:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:15 | **model_kisses**: Gargoyle, Diamond Dragon, Admin Abuse Egg, Eyepatch, Rotating Periscope, Puppeteer Hand, Zamboni | **Vikakelera**: Ride-A-Pet Potion |
 | 19:11 | **16kmfh**: Yule Log Dog (NF) | **XLIVER_P00L**: Goat |
 | 19:11 | **Kxxr9**: Dalmatian (NFR) | **Bubble_TeaLilla**: Cow (MFR) |
 | 19:11 | **saturnestee**: Peppermint Penguin (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **xTrxstedCodee**: Haetae (NR), Unicorn Horn |
@@ -48,7 +49,6 @@ _Updated 2026-11-19 19:11 UTC by the scrape workflow._
 | 19:11 | **Lizyn4kaa**: Turtle (FR), Kangaroo (FR) ×2, Red Dutch Guinea Pig, Ride-A-Pet Potion ×2 | **ARTEM_LOVESHUK**: Chocolate Chip Bat Dragon (FR) |
 | 19:11 | **Night30098**: Ginger Cat (N), Stray Cat Dragon, Grinmoire, Cracked Egg ×2 | **Victoria_Victor9**: Crystal Egg ×6 |
 | 19:11 | **meibel_psycho**: Lion Cub | **pugq33n23**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
-| 19:11 | **ambervgils**: Chocolate Dutch Guinea Pig | **Einhornmagicc**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
