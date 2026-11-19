@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 04:11 UTC by the scrape workflow._
+_Updated 2026-11-19 04:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 04:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 26,415 | 2026-11-19T04:00 |
-| elve | 9 | 5,280 | 2026-11-19T04:01 |
+| amvgg | 9 | 26,655 | 2026-11-19T04:15 |
+| elve | 9 | 5,296 | 2026-11-19T04:15 |
 
-## AMVGG completed trades: 34,538 total
+## AMVGG completed trades: 34,548 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 542 |
+| 2026-11-19 | 552 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 04:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:15 | **pumpknIatte**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion, Pet Handler Pro Certificate ×4 | **Lilyanaa_p**: Candyfloss Chick (FR) |
+| 04:15 | **ismsil_10o**: Ride-A-Pet Potion ×5, Spider Gift ×4 | **KnoW1z**: Frost Fury (FR) |
+| 04:15 | **marchthenewest**: Giraffe (FR), Kangaroo (NFR), Pupcicle (M) | **bolzani001111**: Flash Weasel (M), Haetyphoon (M) |
+| 04:15 | **ekitten9934**: Mighty Haetyphoon Animated Sticker, Jimothy | **chickchickboom101**: Ride-A-Pet Potion |
+| 04:15 | **AndresPatato**: Paint Sealer ×14 | **Shadow_Wilder626**: Ride-A-Pet Potion |
+| 04:15 | **lolcryabtit6767**: Ballet Swan ×3, Tortuga de la Isla (R), Fly-A-Pet Potion | **carolzinhac2009**: Ballet Swan (NFR) |
+| 04:15 | **lovewqnted**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×13, Pet Handler Pro Certificate | **carolzinhac2009**: Turtle (FR) |
+| 04:15 | **ropeiommmm**: Cow (R) | **peepeepoopooa30**: Peppermint Penguin (R) |
+| 04:15 | **itz_Milenixx**: Ride-A-Pet Potion ×2, Cow (FR) | **thealo41**: Pig (NFR), Elephant (FR) |
+| 04:15 | **Zak_0250**: Haetae (FR), Zombie Wolf (MFR) | **carterdelaney1**: Crow (FR) |
 | 04:11 | **raeshiia**: Halloween White Skeleton Dog (R), Orange Butterfly (FR), Ancient Dragon | **okidokischoki24**: Fly-A-Pet Potion |
 | 04:11 | **svekoc**: Sheepdog Ducky (N), Black Tiger (N), Irish Setter (N), Mexican Wolf (N), Galapagos Sea Lion (N) | **littlefelonies**: Dog Backpack |
 | 04:11 | **raeshiia**: Frankenfeline (NR), Dracula Parrot, Quetzalcoatl, Fairytale Egg ×2, Ant | **valentinaemmz**: Ride-A-Pet Potion |
 | 04:11 | **shavlas**: Burger Bear (MR), Irish Water Spaniel, Momma Moose (M) | **Grandmathebrick**: Pupcicle (MFR) |
 | 04:11 | **hellokittyjosi**: Elephant (FR) | **LilMorgie**: Ride-A-Pet Potion ×15 |
-| 04:11 | **m4rshalI**: Cabbit (R) | **NaJaemin120**: Papa Moose (NFR) |
-| 04:11 | **Penny1238lp**: Frostbite Bear (FR), Alley Cat, Golden Tortoise Beetle (MFR) | **wx8zqxx**: Strawberry Tortle (FR) |
-| 04:11 | **Emmanuel14307**: Ride-A-Pet Potion | **Alestiis123**: Snowball Pug (N) |
-| 04:11 | **serspect**: Parakeet (M), Black Tiger (M) | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 04:11 | **Kenia_pgg1**: Arctic Dusk Dragon ×2, Cryptid (FR), Jester Dragon | **goofy_bro20**: Candicorn (MFR) |
-| 04:11 | **You_kwin666**: Dracula Parrot (N) | **Daniel_famous911**: Ride-A-Pet Potion |
-| 04:11 | **Babielily1**: Cotton Candy Hat ×2, Eaten Donut, Ice Cream Heels | **cinnamonsomg**: Pancake Stack |
-| 04:11 | **teadan0**: Bready Necklace, Butter Knife, Strawberry Shortcake Bow | **valeriaUwU30125**: Spring Bunny Nose |
-| 04:11 | **tshszjjakal**: Great Pyrenees (MFR), Cherry Blossom Hang Glider, Ride-A-Pet Potion | **adoptmejourney83**: Unicorn Horn |
-| 04:11 | **luxsdomain**: Ride-A-Pet Potion ×18 | **iaMatthieu1**: Candyfloss Chick (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
