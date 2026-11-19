@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 22:55 UTC by the scrape workflow._
+_Updated 2026-11-19 23:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 22:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 43,598 | 2026-11-19T22:45 |
-| elve | 9 | 8,751 | 2026-11-19T22:46 |
+| amvgg | 9 | 43,809 | 2026-11-19T23:00 |
+| elve | 9 | 8,813 | 2026-11-19T23:01 |
 
-## AMVGG completed trades: 37,546 total
+## AMVGG completed trades: 37,565 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,550 |
+| 2026-11-19 | 3,569 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 22:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:55 | **serspect**: Purrowl (M) | **ameyyass**: Ride-A-Pet Potion ×2 |
-| 22:55 | **Lqvari**: Rain Cloud Hat, Pink Cat Ear Headphones, Pink Heart Glasses, Ride-A-Pet Potion | **strawberrixmilkii**: Unicorn Horn |
-| 22:55 | **kittyvxii**: Ride-A-Pet Potion, Cattuccino (N) | **Aggr0berlin**: Orca (M) |
-| 22:55 | **Mizuyaix**: Chihuahua (M), Rain Hat, Ride-A-Pet Potion | **mini_mitauwuyt**: Toaster Hat |
-| 22:55 | **Alaska_rdx**: Crimson Cape (M), Ms. Muffet (R) | **AndresPatato**: Ride-A-Pet Potion |
-| 22:55 | **Cvhretujhhgia**: Candicorn (R), Chihuahua ×2 | **haiI3yyyy**: Werewolf |
-| 22:55 | **outcrie**: Frostbite Bear (MFR), Munchkin Cat (FR) | **waveyJackiex**: Owl (FR), Evil Unicorn (FR) |
-| 22:55 | **p_awth**: Candicorn (R) | **sufferingtogether**: Momma Moose (M), Dirty Ducky (MR), Easter Bunny (M), Dire Wolf (M), Ghost Wolf (M), Boohoo (M), Amber Butterfly (M), Lunar Tiger (M), Ratatoskr (M), Samoyed (M) |
-| 22:55 | **harpsealpaws**: Giant Panda (NR) | **waveyJackiex**: Arctic Fox (R), Pig (FR), 2022 Birthday Confetti Cannon, Siamese Cat (R), Super Jetpack, Fairy Bat Dragon (FR), Strawberry Tortle (FR), Goose (FR), Turtle (NFR), Siamese Cat (NFR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Cow (NFR), Rainbow Maker ×2, Ride-A-Pet Potion ×3 |
-| 22:55 | **AmvggUser**: Solaris (R) | **Panci_Terbang33**: Pupcicle ×3 |
-| 22:55 | **chaarizegie348**: Undead Jousting Horse (FR) | **Pawwzzed**: Kangaroo (NFR) |
-| 22:55 | **aericii**: Cupid Dragon (NFR) | **refeesv**: Sugar Glider (FR) |
-| 22:55 | **elproXD_7v7**: Chihuahua ×5 | **MckDull**: Ride-A-Pet Potion ×2 |
-| 22:55 | **4evxer**: Mini Pig (FR), Mini Pig (R), Spring Bunny Hood ×2 | **AmvggPi0n41K**: Nessie (MFR) |
-| 22:55 | **Z1j44**: Ring-Tailed Lemur (FR) | **holixd489632**: Tri-horned Treehopper (R) |
+| 23:00 | **iliriano0**: Ride-A-Pet Potion | **TYTkuza2**: Sushi Penguin |
+| 23:00 | **lexiroblox3333**: Ride-A-Pet Potion | **elproXD_7v7**: Pain au Chat ×3 |
+| 23:00 | **Kit_tblmamymav1**: Chocolate Dutch Guinea Pig | **privietpopsik1242**: Cattuccino (N), Pain au Chat, Chihuahua |
+| 23:00 | **Yukiscupcake**: Stray Cat Dragon (M) | **iuvzjules**: Emperor Shrimp (MR) |
+| 23:00 | **Kety222222222**: Biodome Home, Fairytale Egg | **SOY_Ariiii1234**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 23:00 | **FlamingoJunior4594**: Wood Pigeon, Diamond Ladybug (R) | **adoptmecantusee1234**: Kookaburra (R) |
+| 23:00 | **AmvggPi0n41K**: Fly-A-Pet Potion ×2 | **beyondmygrasp**: Maine Coon (M) |
+| 23:00 | **Nutty_1352**: Albino Monkey (FR), Irish Water Spaniel | **avasquad367**: Gargoyle (MFR) |
+| 23:00 | **kennybear2009**: Moonbeam Peacock (MFR), Pirate Ghost Capuchin Monkey (MFR), Emperor Gorilla (MFR), Caterpillar (MFR), Shrew (MFR) | **Shadx_1553**: Dalmatian (MFR) |
+| 23:00 | **soniks554**: Kitsune (FR) | **akatsiiii**: Ride-A-Pet Potion |
+| 23:00 | **batton0955**: Ride-A-Pet Potion, Rubber Ducky (M), Sheepdog Ducky (N) | **LyraFusion**: Rainbow Stroller |
+| 23:00 | **stoyfam123**: Cow (FR), Fallow Deer (MFR) | **DtiHelper8**: Husky (MFR), Field Mouse (NR), Harp Seal (MR), Binturong (MR) |
+| 23:00 | **rttnghumanfl3sh**: Pupcicle (N), Count Slothula (N), Spring Bunny Nose, Pupcicle, Bunny (NR) | **gengargalaxybonne**: French Bulldog (N), Meerkat, Bready Necklace, Mistletroll (N), Snorgle (N) |
+| 23:00 | **Matt_Proofs**: Ride-A-Pet Potion, Bready Necklace, Strawberry Clip | **Kukolka2010**: Dragonfruit Fox |
+| 23:00 | **donnotinteract**: Kiwi | **Autumnisacutie123**: S'mores Raccoon |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
