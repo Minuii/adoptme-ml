@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 14:31 UTC by the scrape workflow._
+_Updated 2026-11-19 14:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 14:31 UTC by the scrape workflow._
 | amvgg | 9 | 35,721 | 2026-11-19T14:30 |
 | elve | 9 | 6,996 | 2026-11-19T14:31 |
 
-## AMVGG completed trades: 35,825 total
+## AMVGG completed trades: 35,858 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,829 |
+| 2026-11-19 | 1,862 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 14:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:30 | **cc0uture16**: Crocodile (FR), Frost Fury (FR) | **milkiway0334**: Siamese Cat (R) |
-| 14:30 | **S3rennx**: Spring Bunny Hood | **moral608**: Fly-A-Pet Potion ×2 |
-| 14:30 | **Vachonpon**: Halloween White Skeleton Dog (M), Dragonfruit Fox | **Pingola_12**: Golden Penguin (NFR) |
-| 14:30 | **artem287473**: 2022 Birthday Party Hat, Goth Shoes, Ride-A-Pet Potion ×2 | **Foxy_poo23**: Fairy Bat Dragon (FR) |
-| 14:30 | **carolzinhac2009**: Pig | **so_funnylike**: Ride-A-Pet Potion ×8 |
-| 14:30 | **Auds191102**: Strawberry Shortcake Bat Dragon (FR), Candicorn (NFR), Candicorn | **ReinMagne**: Candicorn (MFR) |
-| 14:30 | **Ira_20086**: Ride-A-Pet Potion | **8enjineji**: Stitches ×9 |
-| 14:30 | **Lurxell**: Arctic Fox (FR), 2022 Birthday Party Horn | **abcdefghijkl_6701**: Siamese Cat (R), Flying Fairy |
-| 14:30 | **Ira_20086**: Ride-A-Pet Potion | **0MGSARAY**: Mecha R4BBIT ×2 |
-| 14:30 | **Apelcon_lalmola**: Arctic Dusk Dragon (NFR), Turkey (R), Ice Cream Cone Hat ×2, Ride-A-Pet Potion, Fly-A-Pet Potion, Picnic Basket | **avokado_6001**: Frostbite Bear, Candicorn |
-| 14:30 | **Luluy236810**: Border Collie (R), Owlbear (R), Groundhog | **Rital_qwqm**: Owlbear (NFR) |
-| 14:30 | **flears_brai**: Ride-A-Pet Potion ×6 | **mawifa123**: Dire Wolf (MFR), Dire Wolf (MR) |
-| 14:30 | **wggggg000**: St Bernard, Zodiac Minion Chick, Gingerbread Reindeer, Ginger Cat, Toucan, Snow Leopard, Halloween Golden Mummy Cat | **16y97**: Ride-A-Pet Potion |
-| 14:30 | **nornomm**: Pancake Stack | **jauzyp**: Count Slothula ×4, Halloween White Mummy Cat, Halloween Black Mummy Cat |
-| 14:30 | **Usuario30x**: S'mores Raccoon (N) | **PixiePawsTrade**: Fly-A-Pet Potion ×2 |
+| 14:41 | **vioIetinthesun**: Albino Monkey (R) | **lba_fofe**: Pig, Matcha Cat |
+| 14:41 | **RyukkHolder**: Show Pony ×4, Rubber Ducky (N), Red Panda Ducky (N), Ms. Muffet (N), Liger ×4, Jiggly Jerboa (N) ×2, Japanese Snow Fairy (N) | **Indigo_Erin**: Ride-A-Pet Potion |
+| 14:41 | **folow_lera0**: Cow (FR), Ride-A-Pet Potion | **xochyrobaxcoB**: Tortuga de la Isla (NR), Crocodile |
+| 14:41 | **Seancarlosd**: Spring Bunny Feet | **XxlambadguyxX**: Amethyst Skies Mega Neon Paint, Velvet Fuchsia Mega Neon Paint |
+| 14:41 | **moral608**: Fly-A-Pet Potion ×3 | **XxlambadguyxX**: Unicorn (NFR) |
+| 14:41 | **jauzyp**: Count Slothula ×13 | **yblxssomz**: Pig |
+| 14:41 | **SanAndres404**: Happy Duckling (MR) | **Queen_CK26**: Black Springer Spaniel ×2, Sunrise Duckling, Cake Friend ×2, Chameleon ×2, Gecko, Mirai Moth ×4, Koi Carp, Puptune, Leopard Cat, River Otter (M), Shadow Dragon Ducky (N), Tree Sasquatch (M) |
+| 14:41 | **That_0nemogirl**: Peppermint Penguin (FR), Ride-A-Pet Potion | **Sillyseal_026**: Kangaroo (FR), Elephant (R) |
+| 14:41 | **PRODAZA_STARPETS**: Lavender Dragon (MFR) | **Clau3350**: Lavender Dragon (NFR), Pig, T-Rex (MFR) |
+| 14:41 | **miraahuntrix**: Candyfloss Chick (FR), Brown Bear (NR), Polar Bear, Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×4, Pet Handler Pro Certificate ×2 | **odading12318**: Arctic Reindeer (FR) |
+| 14:41 | **TH_lox0**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3, Sandwich Hat, Blue Butterfly Wings, Skelicorn (MR), Rosy Maple Moth (NFR), Rain Hat, Llamalush Purse Pet | **ElixNezuko_chan**: Siamese Cat (R) |
+| 14:41 | **Adoptmestocks3000**: Fly-A-Pet Potion | **officsl_n0t**: Pupcake ×2 |
+| 14:41 | **milka2137396**: Ride-A-Pet Potion | **babyaIxdr**: Bready Necklace |
+| 14:41 | **BR0OKBLOODPOP**: Pet Handler Pro Certificate, Fairytale Egg ×8 | **kakashk2335**: Stray Cat Dragon (M) |
+| 14:41 | **pr3tty_sakuraax**: Lion Cub (MFR), Kitty Bat (MFR), Emu (MFR) | **aavqaii**: Candicorn (MFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
