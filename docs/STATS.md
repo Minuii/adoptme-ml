@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 02:40 UTC by the scrape workflow._
+_Updated 2026-11-19 02:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 02:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 25,049 | 2026-11-19T02:30 |
-| elve | 9 | 4,988 | 2026-11-19T02:31 |
+| amvgg | 9 | 25,276 | 2026-11-19T02:45 |
+| elve | 9 | 5,042 | 2026-11-19T02:46 |
 
-## AMVGG completed trades: 34,334 total
+## AMVGG completed trades: 34,337 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 338 |
+| 2026-11-19 | 341 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,9 @@ _Updated 2026-11-19 02:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:45 | **emoloalt88**: Bat Dragon (FR), Crow (FR) | **hisevermore**: Strawberry Shortcake Bat Dragon (MFR), Chocolate Chip Bat Dragon (MFR), Siamese Cat (NFR) |
+| 02:45 | **fenix085L**: Pupcicle, Ride-A-Pet Potion, Chihuahua, Pain au Chat | **hunikiis**: Latte Kitsune |
+| 02:45 | **Cqttage_Dollface**: Dragon Breath Animated Sticker, Mighty Haetyphoon Animated Sticker, Solaris Animated Sticker, Slothula Transformation Animated Sticker, Soulfire Animated Sticker | **partydoggie123**: Fly-A-Pet Potion ×2 |
 | 02:40 | **MoMtobias**: Hedgehog (FR), Dalmatian (FR), Lion (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Tan Chow-Chow (M), Tan Chow-Chow (R) | **iiSimplylvxy**: Owl (FR) |
 | 02:40 | **tradinguser1210**: Rainbow Maker, Groundhog (MFR) | **Shynekoprincess**: Balloon Unicorn (FR) |
 | 02:40 | **isyaboitroy_56**: Tiny Wings | **Mimismila8**: Ice Cream Cone Hat, Fly-A-Pet Potion, Strawberry Shortcake Bow |
@@ -46,9 +49,6 @@ _Updated 2026-11-19 02:40 UTC by the scrape workflow._
 | 02:36 | **camsties**: Snow Leopard (N) | **xSheLost**: Ride-A-Pet Potion |
 | 02:36 | **Angelbatista_me2**: Winged Tiger (NFR), Haetyphoon, Pupcicle (N) | **NoRiskNoFun_12**: Aurora Fox (NFR), Christmas Pudding Pup (NR), Vanilla Penguin (MFR) |
 | 02:36 | **blackaquamarine**: Golden Lettuce | **dnei30fast**: Ride-A-Pet Potion ×2 |
-| 02:36 | **queenmaya773**: Zombie Wolf (M), Fly-A-Pet Potion ×2 | **Idkk_0426**: Strawberry Tortle |
-| 02:36 | **MckDull**: Robo Dog (F) | **Kaiohtic101**: Ride-A-Pet Potion |
-| 02:36 | **Josuwu892**: Crimson Cape ×2 | **misxsuki**: Retired Egg ×6 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
