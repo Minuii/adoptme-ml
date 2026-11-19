@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 09:11 UTC by the scrape workflow._
+_Updated 2026-11-19 09:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 09:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 30,789 | 2026-11-19T09:00 |
-| elve | 9 | 6,082 | 2026-11-19T09:01 |
+| amvgg | 9 | 30,981 | 2026-11-19T09:15 |
+| elve | 9 | 6,110 | 2026-11-19T09:15 |
 
-## AMVGG completed trades: 35,061 total
+## AMVGG completed trades: 35,074 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,065 |
+| 2026-11-19 | 1,078 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 09:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:15 | **Ellie19_0**: Corn Doggo (NFR), Arctic Dusk Dragon (FR) | **cutemoonya**: Sugar Axolotl (FR), Polar Bear (R) |
+| 09:15 | **prorabik_krytou**: Boohoo (N), Stitches (N), Waffle Wyrm (MR), Little Lamb (N), Huntsman Robin (N) | **AdoptMeHere03**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 09:15 | **Fan_Bogatyrat**: Ride-A-Pet Potion | **Katya700100**: Shiver Cone Bait ×5, Subzero Popsicle Bait ×2 |
+| 09:15 | **perit4733**: Ride-A-Pet Potion | **Caliscat22**: Mochi Meow (NR) |
+| 09:15 | **BarrettVintage**: Bubblegeist, Dragon, Glormy Crab, Parakeet (M) | **Cute_moonXo2**: Peahen |
+| 09:15 | **luvyerh**: Pig (R), Ride-A-Pet Potion | **MousePopHol**: Pig (FR) |
+| 09:15 | **robloxer_3614**: Ride-A-Pet Potion, Hoverboard, Rift Rider | **KotMonster7**: Chef Hat, Unfortunate Eyelashes |
+| 09:15 | **eulien_37**: Tiny Wings, Ride-A-Pet Potion | **prorabik_krytou**: Flash Weasel (R) |
+| 09:15 | **itsmyalt_heh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **2creme1sucre**: Arctic Fox |
+| 09:15 | **TwixTw1x**: Arctic Fox (MFR), Pupcicle (N), Ride-A-Pet Potion ×4 | **hiwhat043**: Dalmatian (FR) |
+| 09:15 | **0MGSARAY**: Humbug (M), Frankenfeline (M) | **itz_smurf1k**: Pet Handler Pro Certificate |
+| 09:15 | **ElevensStorage**: Frost Fury (FR) | **AminaDino**: Fallow Deer (R), Fly-A-Pet Potion, Chihuahua |
+| 09:15 | **hellofriendnicetome**: Bauble Buddies (MFR), Puptune (MFR), Ostrich (MR), St Bernard (MR), Horse (MFR) | **Dobbyplok**: Gaelic Fae (MFR) |
 | 09:06 | **liofe1**: Fly-A-Pet Potion | **sithusari346**: White Chef Hat |
 | 09:06 | **Seancarlosd**: Cow (FR) | **Wolfie4567ty**: Fly-A-Pet Potion ×17 |
-| 09:06 | **fgnbtfsfs**: Momma Moose (MR), Sweetheart Rat (M), Polar Bear (FR), Pig (R) | **yusokini25**: Turtle (FR) |
-| 09:06 | **LuuliUru**: Christmas Pudding Pup (FR) | **Doshi_Wtapkax**: Cupid Dragon (FR) |
-| 09:06 | **Keito_149**: Angel Wings, Bolt (MFR) | **YuroMiyuk1**: Harp Seal (MFR), Chicken (NR) |
-| 09:06 | **BMWSHKA666**: Cherry-On-Top, Mermicorn (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×4 | **KotMonster7**: Strawberry Shortcake Bat Dragon (FR) |
-| 09:06 | **icebaby545**: Turtle (FR) | **Kiwisito1560**: Rain Cloud Hat, Reindeer (NFR), Red Dutch Guinea Pig (R), Ride-A-Pet Potion, Kangaroo Stroller, Admin Abuse Egg ×4 |
-| 09:06 | **curemysorrowsq**: Matcha Cat | **Hahaha_LOL123Abc**: Unicorn (N), Maine Coon (N), Mrs. Whiskerpips (N), Gumball Caterpillar (N), Count Slothula, Jumpscare (N), River Otter (M) |
-| 09:06 | **bloodywings_00**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **KnoW1z**: Pig (FR) |
-| 09:00 | **Yiju0225**: Golden Lettuce | **kiana_deez**: Ride-A-Pet Potion ×2 |
-| 09:00 | **Thesheeeeesh_god**: Candyfloss Chick | **Syshsf237**: French Bulldog (MFR) |
-| 09:00 | **z1_u1**: Royal Mistletroll (FR) ×2, Royal Mistletroll (R) ×3, Royal Mistletroll ×7 | **leruval**: Frost Dragon (FR) |
-| 09:00 | **rainbowpuply_cute**: Balloon Unicorn (FR), Haetae (FR), Haetae | **AL0HALILYY**: Giraffe (FR), Ride-A-Pet Potion |
-| 09:00 | **Lizzaa77**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Allona0122**: Frost Fury (FR) |
-| 08:55 | **Ira_20086**: Pupcicle | **sithusari346**: Pupcake |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
