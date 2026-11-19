@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 03:31 UTC by the scrape workflow._
+_Updated 2026-11-19 03:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 03:31 UTC by the scrape workflow._
 | amvgg | 9 | 25,977 | 2026-11-19T03:30 |
 | elve | 9 | 5,181 | 2026-11-19T03:31 |
 
-## AMVGG completed trades: 34,454 total
+## AMVGG completed trades: 34,473 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 458 |
+| 2026-11-19 | 477 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 03:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:30 | **Jeremibus2012**: Sakura Spirit (F), Red Dutch Guinea Pig (R), Alley Cat | **dnei30fast**: Fly-A-Pet Potion ×4 |
-| 03:30 | **KatsuTatsuya**: Parrot (FR), Chocolate Chip Bat Dragon (FR), Strawberry Tortle (R), Midnight Dragon (F), Dancing Dragon, Fly-A-Pet Potion ×2 | **Dddana20058**: Frost Dragon (FR) |
-| 03:30 | **mniiannie**: Goose (FR), Turtle (FR), Shadow Dragon Ducky (NFR), Dragonfruit Fox | **That_0nemogirl**: Strawberry Shortcake Bat Dragon, Ride-A-Pet Potion |
-| 03:30 | **ra3czr**: Leopard Shark, Sushi Penguin (R) | **burger_boy687**: Dango Penguins (R) |
-| 03:30 | **molqrx**: Tio De Nadal | **Charaznballin**: Pupcicle ×16 |
-| 03:30 | **Kiwisito1560**: Golden Lettuce | **stoIencorpses**: Spring Bunny Nose |
-| 03:25 | **Outgoing_Recluse**: Axolotl | **pop3791020**: Cotton Candy Hat |
-| 03:25 | **Tralaleritos7654321**: Goose (FR), Pet Handler Pro Certificate ×2, Fly-A-Pet Potion | **clavio000**: Mini Pig (FR), Ride-A-Pet Potion |
-| 03:25 | **sarahang3la**: Goat (MFR), Candicorn (NFR), Chocolate Dutch Guinea Pig (MR), Horse (MFR) | **EMSCH4RM**: Copycat (MFR), Tree Kangaroo (MFR), Pupcicle (MFR), Kiwi (MFR), Choco Penguin (MFR) |
-| 03:25 | **sorvetinha7012**: Ride-A-Pet Potion ×2 | **Papitascongaseosa_xD**: Urban Egg, Throwback Egg, Gemstone Egg |
-| 03:25 | **kitty9x3asd7**: Ride-A-Pet Potion ×2 | **vryxsian**: Rainbow Stroller |
-| 03:25 | **Penny1238lp**: Kangaroo (NFR) | **sweetn6thing**: Strawberry Tortle (FR) |
-| 03:25 | **Cutie_wolfie20**: Ride-A-Pet Potion ×17 | **zpro_jumpeur**: Kangaroo (FR) |
-| 03:25 | **powerlee01**: Copycat (MFR) | **queenmaya773**: Evil Unicorn (FR) |
-| 03:25 | **xXOmq_Ellen123xX**: Rainbow Maker, Tiny Wings, Siamese Cat (FR), Tortoiseshell Guinea Pig (FR) | **Princenezha23**: Cryptid (FR) |
+| 03:40 | **carolzinhac2009**: Halloween White Ghost Dragon (NFR) | **muhuwn**: Ride-A-Pet Potion ×13 |
+| 03:40 | **withlovealwaysx**: Standard Gibbon Box, Retired Egg ×10 | **Ellaspring5**: Frostbite Bear and Cub Animated Sticker |
+| 03:40 | **MLC_lav3nder**: Badger (M) | **ElceePlaysAdoptMe**: Golden Lettuce |
+| 03:40 | **MorpekoMuncher**: Retired Egg ×18 | **joshsawsy**: Ride-A-Pet Potion |
+| 03:40 | **Quean_33**: Admin Abuse Egg ×18 | **diiorrvi**: Ride-A-Pet Potion |
+| 03:40 | **004FAscend004**: Blue Ringed Octopus | **burger_boy687**: Black Macaque |
+| 03:40 | **Liquidsmooth33**: Penguin (NFR), Lava Wolf | **LIAXMLV**: Black Dog (M), Villain Gibbon |
+| 03:40 | **dnei30fast**: Ride-A-Pet Potion ×2 | **That_0nemogirl**: Alley Cat |
+| 03:40 | **svekoc**: Irish Setter ×17, Kitty Bat | **seongjohanJ**: Royal Moon Egg |
+| 03:40 | **Robloxiana_xxx2011**: Fly-A-Pet Potion | **jellofox2009**: Crystal Egg ×18 |
+| 03:40 | **powerlee01**: Safari Egg | **sweetn6thing**: Owl (FR), Kangaroo (FR) |
+| 03:40 | **AmberCrystalPlayz**: Unicorn | **anekalubitnaruto**: Pupcicle |
+| 03:40 | **muhuwn**: Pupcicle ×16 | **Milo_vxy**: Haetyphoon |
+| 03:40 | **lantongzp**: Parrot, African Wild Dog (FR), Mule (MFR) | **kaibodydump**: Cabbit (MFR) |
+| 03:40 | **RyanNintendo**: Ride-A-Pet Potion | **smart1hill**: Chihuahua ×4 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
