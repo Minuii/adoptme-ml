@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 03:40 UTC by the scrape workflow._
+_Updated 2026-11-19 03:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 03:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 25,977 | 2026-11-19T03:30 |
-| elve | 9 | 5,181 | 2026-11-19T03:31 |
+| amvgg | 9 | 26,190 | 2026-11-19T03:45 |
+| elve | 9 | 5,239 | 2026-11-19T03:46 |
 
-## AMVGG completed trades: 34,473 total
+## AMVGG completed trades: 34,484 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 477 |
+| 2026-11-19 | 488 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 03:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:45 | **MonicaWazowski**: Unicorn (MFR), Fly-A-Pet Potion ×4 | **ZockerCelina_20**: Siamese Cat (FR) |
+| 03:45 | **RyanNintendo**: Pet Handler Pro Certificate | **smart1hill**: Chihuahua ×6 |
+| 03:45 | **cat_anna2003**: Caramelgeist (M), Pain au Chat, Chihuahua, Retired Egg ×3, Burger Bun Hat, Jimothy | **vertaocsi**: Fly-A-Pet Potion |
+| 03:45 | **sweetsugrbunni**: Lionfish (M), Little Lamb (M), Lunar Ox (M), Lunar White Tiger (MR), Oakee Knight (M), Onza (M), Orca (MR), Pangolin (M), Persian Cat (M), Pine Marten (M), Red Panda (M), Ribbon Seal (M), Robot (MR), Salamander (MR), White Choccybunny (MR), Wildfire Hawk (MFR), Wyvern (MFR), Abyssinian Cat (M) | **Oweniscrazyyy**: Shark Puppy (NFR) |
+| 03:45 | **nornomm**: Chocolate Chip Bat Dragon (NFR) | **pushainanegjsk**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon, Cabbit |
+| 03:45 | **dxllyluvs2**: Fly-A-Pet Potion | **IIuvbr**: Crystal Egg ×18 |
+| 03:45 | **bolzani001111**: Haetyphoon (M), Flash Weasel (N), Flash Weasel | **guillemoran**: Frost Dragon (FR) |
+| 03:45 | **Alohagurl1234**: Evil Unicorn (FR), Mermicorn (NR) | **glaxygirl96**: Parrot (FR) |
+| 03:45 | **RealXenZitsu**: Frostbite Bear ×14 | **Japenav**: Frostbite Bear (MFR) |
+| 03:45 | **blvdpawzi**: Royal Fairytale Egg ×2, Glyptodon Ducky ×4, Milk Choccybunny ×4, Caramelgeist ×4, Oakee | **s6ythed**: Ride-A-Pet Potion |
+| 03:45 | **Legolasisonlymine**: Volcanic Rhino (R), Volcanic Rhino, Rainbow Dragon, Yule Log Dog, Kookaburra, Emberlight, Ride-A-Pet Potion, Ratatoskr (MFR), Pupcake | **Babyofy5**: Albino Monkey |
 | 03:40 | **carolzinhac2009**: Halloween White Ghost Dragon (NFR) | **muhuwn**: Ride-A-Pet Potion ×13 |
 | 03:40 | **withlovealwaysx**: Standard Gibbon Box, Retired Egg ×10 | **Ellaspring5**: Frostbite Bear and Cub Animated Sticker |
 | 03:40 | **MLC_lav3nder**: Badger (M) | **ElceePlaysAdoptMe**: Golden Lettuce |
 | 03:40 | **MorpekoMuncher**: Retired Egg ×18 | **joshsawsy**: Ride-A-Pet Potion |
-| 03:40 | **Quean_33**: Admin Abuse Egg ×18 | **diiorrvi**: Ride-A-Pet Potion |
-| 03:40 | **004FAscend004**: Blue Ringed Octopus | **burger_boy687**: Black Macaque |
-| 03:40 | **Liquidsmooth33**: Penguin (NFR), Lava Wolf | **LIAXMLV**: Black Dog (M), Villain Gibbon |
-| 03:40 | **dnei30fast**: Ride-A-Pet Potion ×2 | **That_0nemogirl**: Alley Cat |
-| 03:40 | **svekoc**: Irish Setter ×17, Kitty Bat | **seongjohanJ**: Royal Moon Egg |
-| 03:40 | **Robloxiana_xxx2011**: Fly-A-Pet Potion | **jellofox2009**: Crystal Egg ×18 |
-| 03:40 | **powerlee01**: Safari Egg | **sweetn6thing**: Owl (FR), Kangaroo (FR) |
-| 03:40 | **AmberCrystalPlayz**: Unicorn | **anekalubitnaruto**: Pupcicle |
-| 03:40 | **muhuwn**: Pupcicle ×16 | **Milo_vxy**: Haetyphoon |
-| 03:40 | **lantongzp**: Parrot, African Wild Dog (FR), Mule (MFR) | **kaibodydump**: Cabbit (MFR) |
-| 03:40 | **RyanNintendo**: Ride-A-Pet Potion | **smart1hill**: Chihuahua ×4 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
