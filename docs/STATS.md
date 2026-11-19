@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 12:11 UTC by the scrape workflow._
+_Updated 2026-11-19 12:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 12:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 33,413 | 2026-11-19T12:00 |
-| elve | 9 | 6,548 | 2026-11-19T12:01 |
+| amvgg | 9 | 33,649 | 2026-11-19T12:15 |
+| elve | 9 | 6,579 | 2026-11-19T12:15 |
 
-## AMVGG completed trades: 35,426 total
+## AMVGG completed trades: 35,441 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,430 |
+| 2026-11-19 | 1,445 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 12:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:11 | **5sasasa**: Frost Fury (R), Ride-A-Pet Potion | **Bismuth234**: Christmas Pudding Pup |
-| 12:11 | **ZockerCelina_20**: Flamingo (FR) | **mcbirknekst_xx**: Unicorn (MFR), Unicorn (NFR) |
-| 12:11 | **Pierro0_0hehe**: Elephant | **Aubrey_Prism851**: Ice Wolf (NFR), Ride-A-Pet Potion ×2, Sushi Penguin |
-| 12:11 | **islandicsinger**: Pig (R), Pet Handler Pro Certificate | **roblox_user_8676283275**: Bunny Swirl (MFR) |
-| 12:11 | **AL0HALILYY**: Unicorn Horn, Cryptid, Kangaroo (FR) | **HaramiHUN**: Balloon Unicorn (FR) |
-| 12:11 | **snupiez26**: Hedgehog (FR), Munchkin Cat (NR), Pet Handler Pro Certificate ×2, Fly-A-Pet Potion ×3, Great Pyrenees, Castle Hermit Crab, Feesh | **B3achyMads**: Arctic Reindeer (R) ×2 |
-| 12:11 | **Gooblin_trool**: Sushi Penguin, Ride-A-Pet Potion | **rasediva**: Fly-A-Pet Potion |
-| 12:11 | **gerl708090**: Metal Ox (FR) | **Pashok_q**: Ride-A-Pet Potion |
-| 12:11 | **Laktozik1**: Giant Panda (FR) | **Dorothydavis14**: Dragonfruit Fox, Milk Choccybunny (M), Ram |
-| 12:11 | **obichamte77**: Ghost Bunny (MFR), Pupcicle (MR) | **FaZeTysonF**: Albino Monkey (NFR) |
-| 12:11 | **xolvrxo**: Burger Bear, Clementine Owl (N) | **leesoyul11111111**: Ride-A-Pet Potion |
-| 12:11 | **millesww777**: Siamese Cat (FR) | **cutemoonya**: Candyfloss Chick (R), Ride-A-Pet Potion ×3 |
-| 12:11 | **asokopilay123**: Fly-A-Pet Potion, Puppeteer Hand | **hshdxcmz**: Pet Handler Pro Certificate |
-| 12:11 | **0bjectl3x**: Cow Calf (NR) | **S3rennx**: Cotton Candy Hat, Cattuccino (N), Unfortunate Eyelashes |
-| 12:11 | **xch4rl0ttx3**: Ride-A-Pet Potion | **Katarinamartino**: Pupcicle, Komodo Dragon |
+| 12:15 | **disapp6ar**: Parrot (FR), Strawberry Tortle, Chocolate Chip Bat Dragon (FR) | **apyramidbuilder**: Cabbit (NFR) ×3 |
+| 12:15 | **mommy_vka123**: Ride-A-Pet Potion ×5 | **joee123514**: Platypus (R), Llama (R) |
+| 12:15 | **KAKOiTO_KB**: Flash Weasel | **XTREYT**: Moonlight Moth (MR) |
+| 12:15 | **KAKOiTO_KB**: Ermine (M) | **roblox_user_1554000708**: Ride-A-Pet Potion ×3, Puppeteer Hand |
+| 12:15 | **helloimfromamvorelve**: Back Taco | **Cute_moonXo2**: Endangered Egg ×18 |
+| 12:15 | **Smileydreamx21**: Jousting Horse (R), Halloween White Ghost Dragon (R), Many Mackerel ×2, Cerberus (FR) | **Adopt_LAFI**: Unicorn Horn |
+| 12:15 | **Marilynbrandt662**: Fairy Bat Dragon (FR), Pink Cat (N), Fly-A-Pet Potion | **yxvhchcgxyf_1234**: Monkey King |
+| 12:15 | **alesa_ee**: Mini Pig (FR), Strawberry Shortcake Bat Dragon (FR) | **sakuraplays_beanie**: Cryptid (FR) |
+| 12:15 | **caycay_3800**: Frost Dragon (FR) | **D_o0x5**:  |
+| 12:15 | **star_mo0ney**: Pet Handler Pro Certificate | **Traderieeeeeeeee1**: Dire Wolf (M) |
+| 12:15 | **sofiaozonopros**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **szoozin**: Ballet Swan (FR) |
+| 12:15 | **wolfieplaysrbx1**: Golden Griffin (FR) | **MCrossing0203**: Retired Egg ×13 |
+| 12:15 | **Fr0styZo3streamsDev**: Copycat (R) | **Bembi_Flowers**: Pet Handler Pro Certificate ×3 |
+| 12:15 | **stasplay9074**: Fairy Bat Dragon (FR), Arctic Dusk Dragon (NFR), Fly-A-Pet Potion, Yule Log Dog, Blue Cat Ear Headphones, Ride-A-Pet Potion | **flonn_2013**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:15 | **7yasmin10**: Vanilla Penguin | **Brxtvnny**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
