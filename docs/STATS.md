@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 11:25 UTC by the scrape workflow._
+_Updated 2026-11-19 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 32,740 | 2026-11-19T11:15 |
-| elve | 9 | 6,449 | 2026-11-19T11:15 |
+| amvgg | 9 | 32,991 | 2026-11-19T11:31 |
+| elve | 9 | 6,474 | 2026-11-19T11:31 |
 
-## AMVGG completed trades: 35,318 total
+## AMVGG completed trades: 35,342 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,322 |
+| 2026-11-19 | 1,346 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:25 | **yanipepetin787**: Spring Bunny Hood, Bready Necklace, Cupid Dragon (FR), Rose Dragon (FR), Llama, Candy Hare | **00iAngell**: Unicorn Horn |
-| 11:25 | **UltimateLionMantis**: Chihuahua | **Queenas_World**: Golden Jaguar |
-| 11:25 | **cutetel350**: Dragon ×10 | **Cookie_lover13232**: Ride-A-Pet Potion |
-| 11:20 | **a_2lisaa**: Christmas Pudding Pup ×2, Leopard Cat (MR), Ride-A-Pet Potion ×3, Pet Handler Pro Certificate ×2, Ice Cream Stroller | **Reterirbair1989**: Sugar Glider (FR) |
-| 11:20 | **Vanlyzn26**: Unicorn | **w0Lops**: Ride-A-Pet Potion |
-| 11:20 | **Joycline2013**: Sushi Penguin ×4, Ride-A-Pet Potion | **Kira9975335**: Sushi Penguin (N) |
-| 11:20 | **Its_besty0**: Fly-A-Pet Potion, Ride-A-Pet Potion, Lunar White Tiger (R) | **linksss12401**: Lunar White Tiger (MFR) |
-| 11:20 | **NotSweatyOnion**: Ride-A-Pet Potion, Water Moon Bear (N) | **deadpo0l293**: Fly-A-Pet Potion |
-| 11:20 | **AsianIceCold**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×6 | **PRODAZA_STARPETS**: Cabbit (FR) |
-| 11:20 | **cat_anna2003**: Ride-A-Pet Potion | **tisha_sally**: Pain au Chat ×3 |
-| 11:20 | **8enjineji**: Ladybug ×6, King Penguin, Penguin | **GYUGYUBINIM**: Ride-A-Pet Potion |
-| 11:20 | **hello_oliya**: Retired Egg ×2 | **dayn_toxic**: Paint Sealer |
-| 11:20 | **Annsjdnsnjs**: Siamese Cat (MFR) | **bloodymedsss**: Hare (MFR), Arctic Fox (MFR) |
-| 11:20 | **perit4733**: Ride-A-Pet Potion | **Alisa_R00**: Alicorn (NR) |
-| 11:20 | **poortorichy28**: Fly-A-Pet Potion, Ride-A-Pet Potion, Lava Dragon (FR), Chihuahua (R), Axolotl (FR), Robo Dog (FR), Frost Fury (FR), Sushi Penguin (FR), Unicorn (NFR), Dragonfruit Fox (FR), Capricorn (FR), Aussie Egg, Kitsune (FR), Retired Egg ×5 | **NotSweatyOnion**: Silly Duck (MFR) |
+| 11:30 | **ApexPrime09**: Clover Cow (M), Fly-A-Pet Potion | **Jayd_enLight36**: Matcha Cat |
+| 11:30 | **wx8zqxx**: Matcha Cat ×2 | **stevenzon574**: Tortoiseshell Guinea Pig |
+| 11:30 | **cxltwaste**: Dango Penguins ×2 | **Pashok_q**: Ride-A-Pet Potion ×4 |
+| 11:30 | **Jaeebirddd**: Ride-A-Pet Potion ×2 | **2nvkl**: Cherry Blossom Flower Sticker ×9, Cherry Blossom Tree Sticker ×9 |
+| 11:30 | **vampixxx00**: Dango Penguins | **vniIlas**: Dragonfruit Fox |
+| 11:30 | **Egor114812**: Fly-A-Pet Potion ×6 | **cutetel350**: Unicorn ×12 |
+| 11:30 | **irishazu_2014**: Pain au Chat | **catwoman0709**: Chihuahua |
+| 11:30 | **xgxbr1ellex**: Husky (NR) | **Arni_lovelove**: Arctic Fox (R) |
+| 11:30 | **Nicoleee_ily**: Giant Black Scarab, Blue Ringed Octopus, Mahi Mahi (M) | **Popa67742**: Ride-A-Pet Potion |
+| 11:30 | **marviecarable12**: Kangaroo (FR) | **adoptmexx626**: Ride-A-Pet Potion ×5, Mushroom Friend (NFR), Alicorn (NFR), King Bee (R), Sushi Penguin, Zombie Buffalo (FR) |
+| 11:30 | **yonski_50**: Crow (FR), Hot Doggo (R), Vanilla Penguin (MFR), Brown Bear (NR), Happy Duckling (MFR), Kitty Bat (MR), Goose, Fly-A-Pet Potion ×4 | **catgirlhaha19**: Frost Dragon (FR), Panda (MFR), Spring Bunny Feet |
+| 11:30 | **unilums**: Ride-A-Pet Potion ×4, Paint Sealer ×14 | **nzjtla**: Copycat |
+| 11:30 | **jokerako28**: Munchkin Cat (MR), Goose (FR), Cabbit (R), French Bulldog (NR), Ice Wolf | **rararawrdinosaur_7**: Parrot (FR) |
+| 11:30 | **C0PHYAK**: Ride-A-Pet Potion | **Jsjskdldkdndndn**: Poodle (M), Rubber Ducky (M), Gumball Caterpillar (N) |
+| 11:30 | **xXcaxapokXx_off**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Bubblegeist (N) | **anert131**: Jester Dragon |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
