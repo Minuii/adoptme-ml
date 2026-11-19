@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 09:26 UTC by the scrape workflow._
+_Updated 2026-11-19 09:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 09:26 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 30,981 | 2026-11-19T09:15 |
-| elve | 9 | 6,110 | 2026-11-19T09:15 |
+| amvgg | 9 | 31,214 | 2026-11-19T09:30 |
+| elve | 9 | 6,162 | 2026-11-19T09:31 |
 
-## AMVGG completed trades: 35,089 total
+## AMVGG completed trades: 35,100 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,093 |
+| 2026-11-19 | 1,104 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 09:26 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:30 | **Allona0122**: Fly-A-Pet Potion | **Yejichan34**: Pupcicle, Starfish (M) |
+| 09:30 | **purpleshimmerstars**: Copycat (FR), Jester Dragon (R), Tortoiseshell Guinea Pig, Ride-A-Pet Potion ×2 | **Cutewaeilae**: Mule (MFR) |
+| 09:30 | **rbwax**: Cotton Candy Hat | **mariellatomic**: Ride-A-Pet Potion |
+| 09:30 | **NOBODYknows_1100**: Pain au Chat (N), Pain au Chat ×2 | **uqxiyeol**: Fly-A-Pet Potion |
+| 09:30 | **gh0steddsoull**: Skelicorn (M) | **domavik**: Ride-A-Pet Potion ×2 |
+| 09:30 | **sugar_lover61**: Owl (R), Haetae (FR), Crocodile (NFR), Hot Doggo (FR), Hot Doggo, Cow | **anutik_awesome**: Frost Dragon (NFR) |
+| 09:30 | **Eshhk_06**: Skelicorn (NR) | **LOL_140152**: Ride-A-Pet Potion |
+| 09:30 | **Smookgans**: Pupcicle | **Fan_Bogatyrat**: Ride-A-Pet Potion |
+| 09:30 | **NotSweatyOnion**: Cow (FR), Skelicorn ×4 | **Trading2883388382**: Silly Duck (MFR), Christmas Pudding Pup |
+| 09:30 | **Sirswagalishsus**: Ride-A-Pet Potion ×15 | **candyuser2008**: Kangaroo (FR) |
+| 09:30 | **albina_7807**: Ride-A-Pet Potion | **aabeeyg**: Frostbite Bear and Cub Animated Sticker, Round Fallow Deer Sticker, Dinner Discourse Cat Sticker, Top Hat, Angus Calf (N) |
 | 09:26 | **Red1zes**: Ride-A-Pet Potion ×6 | **4vxdav**: Copycat |
 | 09:26 | **lera5132**: Fly-A-Pet Potion ×10, Pet Handler Pro Certificate, Ride-A-Pet Potion ×7 | **4vxdav**: Goose |
 | 09:26 | **0MGSARAY**: Pig (FR) ×2, Pig (R), Polar Bear (R) | **luvyerh**: Cow (FR) |
 | 09:26 | **Tanay_789**: Pain au Chat | **rrnmaaaa**: Retired Egg ×18 |
-| 09:26 | **CharlesJo4**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×3 | **EcommonSense**: Turtle (NFR), Turtle (FR) |
-| 09:26 | **eivylia**: Harp Seal (N), Ice Cube (M), Onza (MR), Ride-A-Pet Potion | **lushlyr**: Tiny Wings |
-| 09:26 | **clarspry**: Ring-Tailed Lemur (MFR), Ranger Beaver (MFR), Clownfish (MFR), Cozy Mistletroll (MR), Irish Elk (MFR), Monkey (MFR) | **sleepy_s0ren**: Hedgehog (FR) |
-| 09:21 | **grijfe8r**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **UwwUw2009**: Dango Penguins ×2 |
-| 09:21 | **Vol4ica77**: Fly-A-Pet Potion, Ride-A-Pet Potion | **elcob65**: Stitches (M) ×2 |
-| 09:21 | **Timon5453**: Fairy Bat Dragon (NFR) | **disyvx**: Fairy Bat Dragon (FR), Turtle (NFR), Latte Kitsune (R), Vanilla Penguin |
-| 09:21 | **Lynn_n77**: Amami Rabbit (NR), Sushi Penguin | **Gooblin_trool**: Moon Rabbit (N) |
-| 09:21 | **2creme1sucre**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cabbit (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **yelllley8**: Parrot (FR) |
-| 09:21 | **Rat_bat08**: Flamingo (R), Frostbite Bear (R), Count Slothula (N), Dire Wolf (MFR), Dire Wolf (MR), Dire Wolf (M), Samoyed (MFR), Ice Cream Cone Hat, Scarebear (NR) | **kawaiifaintedgirl**: Chocolate Chip Bat Dragon (FR) |
-| 09:21 | **vainovapup**: Cow (FR), Ride-A-Pet Potion ×2 | **4vxdav**: Hot Doggo (FR) |
-| 09:21 | **guten_14**: Cow (FR), Ride-A-Pet Potion | **NotSweatyOnion**: Goose (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
