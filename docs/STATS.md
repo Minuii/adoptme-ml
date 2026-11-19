@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 21:41 UTC by the scrape workflow._
+_Updated 2026-11-19 21:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 21:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 42,475 | 2026-11-19T21:30 |
-| elve | 9 | 8,422 | 2026-11-19T21:31 |
+| amvgg | 9 | 42,688 | 2026-11-19T21:45 |
+| elve | 9 | 8,490 | 2026-11-19T21:46 |
 
-## AMVGG completed trades: 37,295 total
+## AMVGG completed trades: 37,319 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,299 |
+| 2026-11-19 | 3,323 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 21:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:36 | **nikiph9w**: Orchid Butterfly (NFR), Sugar Glider (FR), Ride-A-Pet Potion | **Maggpib**: Arctic Reindeer (MFR) |
-| 21:36 | **Rxddie_panda**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6, Alley Cat | **LalayS2z**: Shark Puppy |
-| 21:36 | **buckshot599**: Crocodile (R), Peppermint Penguin (R), Strawberry Shortcake Bat Dragon (FR) | **rainbown758**: Cryptid (FR) |
-| 21:36 | **AlekdandraSasha**: Shark (FR) | **gl0winq_angel**: Reindeer (FR) |
-| 21:36 | **ploB_666**: Amethyst Skies Mega Neon Paint | **onyx11414**: Tropical Surge Mega Neon Paint |
-| 21:36 | **C0PHYAK**: Pet Handler Pro Certificate ×9, Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **Z_Alexis22**: Cow (FR) |
-| 21:36 | **PatoPollo7777**: Ride-A-Pet Potion ×2, Crystal Egg | **aleeyah51092**: Golden Griffin (M) |
-| 21:36 | **LightningCheetah2451**: Hippo, Binturong, Rain Hat ×2 | **By_millsjos**: Ride-A-Pet Potion |
-| 21:36 | **haylie90kmkh**: Ride-A-Pet Potion ×4 | **Ddwkfmr**: Christmas Spirit (M) |
-| 21:36 | **rainbow28546**: Jester Dragon | **Nanax_8907**: Ride-A-Pet Potion ×5 |
-| 21:36 | **himary626**: Santa Hat | **Nanax_8907**: Jester Dragon |
-| 21:36 | **zTRyHemmmmy**: Cattuccino, Trapdoor Snail, Thunderfisher, Chihuahua, Chanekeh (N), Sheepdog Ducky (N) | **Amojiio_5**: Pupcicle |
-| 21:36 | **Vespellai**: Goose (R), Spring Bunny Feet | **sleepy_s0ren**: Halo |
-| 21:36 | **MascaKeith17**: Brown Bear (NR) | **Nikolka5290**: Cake Friend (MFR) |
-| 21:36 | **roplex123480**: Monkey King (FR), Frost Fury (FR), Dalmatian (FR), Turtle (NFR) | **laila53749**: Parrot (FR) |
+| 21:45 | **ArneBjetent**: Owl (FR), Evil Unicorn (FR), Kangaroo (MFR), Dalmatian, Turtle (NR), Unicorn Horn, Elephant ×2, Turkey | **NummieNummiegirl**: Shadow Dragon (FR) |
+| 21:45 | **sweetie_pi48**: Happy Clam | **heladitoooUnU**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 21:45 | **SIMSTERGAMER**: Strawberry Tortle (FR), Vampire Dragon (FR), Squid (R), Panda (NFR), Pupcicle ×2 | **KirbyCubee**: Elephant (NFR) |
+| 21:45 | **MHE_PL0XO00**: Axolotl (FR), Wyvern (FR) | **cobayo_cuy**: Pupcicle (FR) |
+| 21:45 | **eyebagsq**: Pain au Chat (MFR), Chihuahua (M), Badger (M), Lunar Tiger (M), Rubber Ducky (M) | **sufferingtogether**: Siamese Cat (FR) |
+| 21:45 | **traher15cm**: Ride-A-Pet Potion ×3 | **sweetie_pi48**: Kitsune (NFR) |
+| 21:45 | **bbkxrby**: Alley Cat (MFR), Dragonfruit Fox (MFR), Tree Kangaroo (MFR), Sheeeeep (MFR) | **zeejnaa**: Rainbow Maker ×2, Angel Wings, Unicorn Horn ×2, Rain Cloud Hat ×2, 2022 Birthday Confetti Cannon, Spring Bunny Hood, Spring Bunny Nose |
+| 21:45 | **grijfe8r**: Harp Seal, Fly-A-Pet Potion | **Lulikawaii300**: Owlbear |
+| 21:45 | **xezviii**: Strawberry Shortcake Bat Dragon (MFR) | **AyeshaStxrs**: Peppermint Penguin (MFR) |
+| 21:45 | **Moqqiz**: Munchkin Cat (MFR), Turtle (FR) ×2, Kangaroo (FR), Ride-A-Pet Potion | **Den_826uhwk**: Arctic Reindeer (FR), Grim Dragon (FR), Kangaroo (NFR), Candicorn (FR), Flamingo (FR) |
+| 21:45 | **namerb11**: Glacier Kitsune (MFR) | **Angelbatista_me2**: Flash Weasel ×8 |
+| 21:45 | **fragilefeelling**: Kangaroo (FR), Brown Bear, Hare | **sleepy_s0ren**: 2022 Birthday Cake |
+| 21:45 | **H111VZ**: Chocolate Dutch Guinea Pig, Seabed Creeper (N) | **azxpredxtorn**: Puffer Fish, Zombie Wolf, Burger Bear, Slime |
+| 21:45 | **NotT3rr0**: Ring-Tailed Lemur (NFR) | **251412Dana**:  |
+| 21:45 | **sleepy_s0ren**: Parrot (FR), Mini Pig (FR) | **opazoopazo7779**: Cow (FR) ×4, Goose (FR) ×2 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
