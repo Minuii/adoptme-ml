@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 15:01 UTC by the scrape workflow._
+_Updated 2026-11-19 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 15:01 UTC by the scrape workflow._
 | amvgg | 9 | 36,168 | 2026-11-19T15:00 |
 | elve | 9 | 7,143 | 2026-11-19T15:01 |
 
-## AMVGG completed trades: 35,924 total
+## AMVGG completed trades: 35,949 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,928 |
+| 2026-11-19 | 1,953 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:00 | **xiparo**: Pain au Chat ×9 | **Lizard123997**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 15:00 | **Robloxiana_xxx2011**: Chocolate Dutch Guinea Pig (MFR), Lamb (MFR), Kookaburra (MFR), Alley Cat (MFR), Giant Cheetah Mount | **1lx_1O**: Werewolf (MFR) |
-| 15:00 | **Alex_oop82**: Werewolf (MFR) | **1lx_1O**: Parrot (FR) |
-| 15:00 | **Sharpie_pies**: Cat (MR), Snow Cat (M) | **1lx_1O**: Ride-A-Pet Potion |
-| 15:00 | **16y97**: Well, Actually Walrus Sticker | **Gamesta_YT**: Round Fallow Deer Sticker |
-| 15:00 | **the3reveng**: Albino Bat (R) ×3 | **admtradeonly**: Ride-A-Pet Potion ×3 |
-| 15:00 | **ffffff246500**: Ride-A-Pet Potion | **serafima271120**: Purrowl, Lunar Ox, Ice Cube, Admin Abuse Egg, Mrs. Whiskerpips, Bobageist, Snowy Mammoth, Stitches, Shiba Inu, Badger, Gold Mahi Mahi, Clownfish, Australian Kelpie, Stygian Owl, Deinonychus, Beaver, Dilophosaurus, Abyssinian Cat |
-| 15:00 | **DogePro865**: Fairy Bat Dragon (FR), Nessie (R), Candicorn, Crocodile (R), Rose Dragon (R), Unicorn, Ride-A-Pet Potion, Shark | **Zocko007**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:00 | **LissyH2011**: Strawberry Shortcake Bat Dragon (FR), Cow (NR), Cupid Dragon (R), Chocolate Chip Bat Dragon (FR), Jester Dragon | **jakeslers**: Owl (FR) |
-| 15:00 | **Ksysq3**: Chocolate Chip Bat Dragon (FR), Dalmatian (FR), Fly-A-Pet Potion | **Erikaa_3455**: African Wild Dog (FR) |
-| 15:00 | **CDOXHI_TE**: 2022 Birthday Party Hat | **sleepy_s0ren**: Turtle (FR) |
-| 15:00 | **Jupiter2Jupi**: Border Collie | **Hellooby231**: Matcha Cat, Spring Bunny Hood |
-| 15:00 | **gingerbean134456**: Matcha Cat (R), Ram, Fly-A-Pet Potion | **werreriss0**: Shark Puppy |
-| 15:00 | **ballerin0cappuccin02**: Candicorn, Pet Handler Pro Certificate ×4, Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×3 | **MarkerFanAccount**: Cow (FR) |
-| 15:00 | **mommy_vka123**: Fly-A-Pet Potion | **luvyerh**: Dango Penguins |
+| 15:06 | **fyllipyn**: Field Mouse (MFR), Ride-A-Pet Potion ×4 | **sillygoober4001**: Dalmatian (FR), Cow |
+| 15:06 | **DirectorRobby**: Santa Hat, Pancake Stack, Sandwich Hat, Halloween Black Axe Guitar Accessory, Copter Hat, Invisible Wings, Cotton Candy Hat, Chicken Hat, 2022 Birthday 5 Badge, Butter Knife, Bat Backpack, Back Taco, Rain Hat, Respectful Mustache | **fIuorines**: Unicorn Horn |
+| 15:06 | **asol1234560**: Patchy Bear (N), Chinese Lantern, Jousting Horse (R), Boohoo | **1lx_1O**: Giant Cheetah Mount |
+| 15:06 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 | **1lx_1O**: Jellyfish (FR) |
+| 15:06 | **TheGamerNoob555Xd**: Fly-A-Pet Potion ×11, Pet Handler Pro Certificate ×5 | **MarkerFanAccount**: Cow (FR) |
+| 15:06 | **Rongirl02**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **1lx_1O**: Copycat |
+| 15:06 | **stefkazzz**: Hot Doggo | **ANGELpa2011**: Goose (FR) |
+| 15:06 | **anihao17**: Aussie Egg | **s11lena**: Fly-A-Pet Potion ×3 |
+| 15:06 | **fIuorines**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Tiny Wings, Santa Hat, Fly-A-Pet Potion ×2 | **AMOANICOLE78**: Hive Backpack |
+| 15:06 | **cowicutesy**: Cow | **yk_xlea**: Cabbit (FR), Spring Bunny Hood |
+| 15:06 | **SanAndres404**: Turtle (FR) | **cesarx_o**: Many Mackerel (N), Chihuahua |
+| 15:06 | **flower_1851**: Pig (R) | **wsiaxx00s**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 |
+| 15:06 | **booluqx**: Munchkin Cat, Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×8 | **LalayS2z**: Cow (FR) |
+| 15:06 | **gabsotuff**: Caterpillar (NFR) | **coocof6**: Sakura Spirit (NFR), Great Pyrenees (MFR), Pancake Stack, Bready Necklace, Snowball Pug (NR) |
+| 15:06 | **Quizzaff**: Jester Dragon | **Mochistarx1**: Frost Fury (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
