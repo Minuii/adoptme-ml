@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 20:31 UTC by the scrape workflow._
+_Updated 2026-11-19 20:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 20:31 UTC by the scrape workflow._
 | amvgg | 9 | 41,535 | 2026-11-19T20:30 |
 | elve | 9 | 8,222 | 2026-11-19T20:31 |
 
-## AMVGG completed trades: 37,082 total
+## AMVGG completed trades: 37,094 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,086 |
+| 2026-11-19 | 3,098 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 20:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:36 | **aaliyah0284**: Fly-A-Pet Potion | **absent_228**: King Bee (FR), Ox (NR) |
+| 20:36 | **Khonsou_29**: Pig (R), Mochi Meow (MFR), Christmas Spirit (MFR), Onza (M), Pupcicle, Blue Boohoo Mega Neon Paint, Classic Trade Stand | **cowlol898**: Siamese Cat (FR) |
+| 20:36 | **SyndromGG**: Frog (FR), Kirin (N) | **absent_228**: Fly-A-Pet Potion |
+| 20:36 | **Navilolp**: Skelicorn (N), Admin Abuse Egg ×2 | **Pingola_12**: Ride-A-Pet Potion |
+| 20:36 | **izzztya**: Lamb (MFR) | **Gabrielotalamejors0**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Alley Cat, Unicorn Horn |
+| 20:36 | **Furret4130**: Cow (FR), Ride-A-Pet Potion ×2 | **LikeVar4ek**: Kangaroo (NFR) |
+| 20:36 | **k155m**: Siamese Cat (R) | **leidydamelike**: Ermine (M), Shrew (R), Dragonfruit Fox (N), Fly-A-Pet Potion |
+| 20:36 | **diannwx09**: Ride-A-Pet Potion ×3, Puffer Fish, 2D Doggy, Toxic Kaijunior (N), Red Fox (N), Catte | **lirika_5554**: Copycat |
+| 20:36 | **Happydreamercloud**: Ride-A-Pet Potion ×3, Chocolate Dutch Guinea Pig | **AnneFabrel2005**: Sweetheart Rat (M) |
+| 20:36 | **pinkysworn**: Crow (FR) ×2, Owl (FR), Hedgehog (FR), Monkey King (FR), Copycat (N) | **supreme_iby**: Evil Unicorn (MFR) |
+| 20:36 | **rainbowpuply_cute**: Crocodile (NFR), Ride-A-Pet Potion | **slip_1010**: Mini Pig |
+| 20:36 | **reaper_pickles**: Velvet Fuchsia Mega Neon Paint, Tropical Surge Mega Neon Paint | **WuWravenWuW**: Ride-A-Pet Potion |
 | 20:30 | **iuvzjules**: Ride-A-Pet Potion | **Sasha_Sasha748**: Shadow Dragon Animated Sticker |
 | 20:30 | **MyCrowned_Conure**: Fairy Bat Dragon (NFR), Lavender Dragon (MFR), Sakura Spirit (NFR), Candicorn (FR), Flamingo (FR), Flamingo (R), Arctic Fox (NFR), Goose, Swan (NR) ×2 | **Slimeswaztaken44**: Frost Dragon (FR) |
 | 20:30 | **nerkym_life1331**: Black Rhino, Black-Footed Ferret, Shiba Inu, Wolpertinger, Tasmanian Tiger, Persian Cat, Triceratops, Slug, Halloween White Mummy Cat, Caramelgeist (N), Stingray, Salamander, Trapdoor Snail, Clownfish | **aaliyah0284**: Ride-A-Pet Potion |
-| 20:30 | **Cooking1626**: Kangaroo (MFR), Kangaroo (NFR) ×3, Kangaroo (FR), Glacier Kitsune (NFR), Snow Owl (MFR), Copycat, Frost Fury (FR), Maine Coon (MFR) | **Slimeswaztaken44**: Frost Dragon (FR) |
-| 20:30 | **wloobb**: Mini Pig (FR), Lion Cub (FR) | **haiI3yyyy**: Dragonfruit Fox (MFR) |
-| 20:30 | **wixxoql**: Ride-A-Pet Potion ×17 | **iaMatthieu1**: Kangaroo (FR) |
-| 20:30 | **kittylounger2**: Balloon Unicorn (FR), Cryptid (FR), Munchkin Cat, Mongoose (MFR), Fly-A-Pet Potion | **viviinlovewithcats**: Frost Dragon (FR) |
-| 20:30 | **dianadonatlove**: Fly-A-Pet Potion | **laokratia**: Subzero Scorpion, Birthday Butterfly 2024 (N), Urchin (R), Wolf, Summer Walrus, Robin, Bloodhound, Scarecrow, Irish Setter, Rat, Urchin, Capuchin Monkey |
-| 20:30 | **shdiNikitos9**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **mariasnezinka**: Copycat (FR) |
-| 20:30 | **wiqxos**: Cabbit (R) | **superstarleanne**: Fairy Bat Dragon (FR) |
-| 20:30 | **Daniel11122255**: Pet Handler Pro Certificate | **TH_lox0**: Ride-A-Pet Potion ×2 |
-| 20:30 | **Gamechar1015**: Dragonfruit Fox (NFR), Fairy Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Cow (R), Turtle (FR), Kitty Bat (MFR) | **sleepy_s0ren**: Parrot (FR) |
-| 20:30 | **aurifiy**: Owlbear (MFR), Unicorn Horn, Rain Cloud Hat | **brainrotaccgems2**: Copycat (MFR) |
-| 20:30 | **pawincesscadence**: Shark Puppy (MFR), Latte Kitsune (MFR), Harp Seal (MR), Spring Bunny Hood | **brainrotaccgems2**: Winged Tiger (MFR) |
-| 20:30 | **iaMatthieu1**: Latte Kitsune (MFR), Toaster Hat | **aya8a123**: Turtle (FR), Kangaroo (FR) ×2 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
