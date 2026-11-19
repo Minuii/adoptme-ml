@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 01:25 UTC by the scrape workflow._
+_Updated 2026-11-19 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 01:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 23,904 | 2026-11-19T01:15 |
-| elve | 9 | 4,743 | 2026-11-19T01:15 |
+| amvgg | 9 | 24,146 | 2026-11-19T01:30 |
+| elve | 9 | 4,803 | 2026-11-19T01:31 |
 
-## AMVGG completed trades: 34,189 total
+## AMVGG completed trades: 34,190 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 193 |
+| 2026-11-19 | 194 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,7 @@ _Updated 2026-11-19 01:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:30 | **OBVADDISONN0**: Moon Rabbit (M) | **catsr0dina**: Phantom Dragon (F), Aurora Fox (R) |
 | 01:25 | **hwnjhyunnjj**: Haetae (FR) | **sleepy_s0ren**: Cabbit (NFR), Mini Pig (FR) |
 | 01:25 | **Dateflud**: Karate Gorilla ×2 | **AsmioTakeW**: Fly-A-Pet Potion |
 | 01:25 | **minv9a**: Sasquatch (MFR) | **littlefelonies**: Amami Rabbit (N) ×2, Stygian Owl (M) |
@@ -48,7 +49,6 @@ _Updated 2026-11-19 01:25 UTC by the scrape workflow._
 | 01:25 | **yuri_dragon32**: Candyfloss Chick (MFR), Toaster Hat, Ice Cream Hermit Crab (MFR), Moon Rabbit (M), Firefly | **Antonnyalexander2009**: Owl (FR), Balloon Unicorn (R) |
 | 01:25 | **gg_01841**: Munchkin Cat (MR), Binturong (MFR), Hare (NFR), Ghostly Cat (MR), Fly-A-Pet Potion | **decayinggdollzz**: Jellyfish (MFR) |
 | 01:25 | **natedgreatGotBanned**: 2022 Birthday Confetti Cannon | **ST3LL4_II**: Haetyphoon |
-| 01:25 | **TMDung20**: Border Collie (MFR), Kangaroo (R) | **taki_2taki**: Owl (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
