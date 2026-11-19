@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 04:40 UTC by the scrape workflow._
+_Updated 2026-11-19 04:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 04:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 26,888 | 2026-11-19T04:30 |
-| elve | 9 | 5,340 | 2026-11-19T04:31 |
+| amvgg | 9 | 27,130 | 2026-11-19T04:45 |
+| elve | 9 | 5,374 | 2026-11-19T04:46 |
 
-## AMVGG completed trades: 34,605 total
+## AMVGG completed trades: 34,612 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 609 |
+| 2026-11-19 | 616 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,13 @@ _Updated 2026-11-19 04:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:45 | **criedtogod**: Cow (FR), Turtle (FR), Fairy Bat Dragon (FR) | **Itme_ving**: Alpaca (N) |
+| 04:45 | **wskdaks**: Albino Monkey (FR), Ride-A-Pet Potion, Throwback Egg | **kaylamicmi**: Pig (FR), Arctic Fox |
+| 04:45 | **Ajbojoapple**: Kangaroo (NFR) | **luxsdomain**: Fly-A-Pet Potion ×18 |
+| 04:45 | **Avue_203**: Hydra (MFR) | **3h8d0w**: Ride-A-Pet Potion ×3 |
+| 04:45 | **simplyr0saa**: Mini Pig (MFR), Munchkin Cat (MR), Cabbit (NFR) | **henmxaii**: Giant Panda (NFR) |
+| 04:45 | **Nevaeh_sxfte**: Copycat | **bryanna_yaaa**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
+| 04:45 | **itisfrogtime123**: Dalmatian (FR), Siamese Cat ×3, Pancake Stack, Unicorn (FR) | **Brooklyn_Ohio**: Balloon Unicorn (FR) |
 | 04:40 | **stellbelle1609**: Crow (FR), Albino Monkey (NFR), Cow (NFR), Cow (R), Monkey King (R), Kangaroo (NFR), Elephant (R), Arctic Fox (R), Aussie Egg, Panda, Polar Bear, Brown Bear, Albino Bat (NR), Frog (NR), Australian Kelpie (MR) | **Marilynbrandt662**: Giraffe (FR) |
 | 04:40 | **ItzKiaraWithIce**: Indian Flying Fox (NR), Mr. Whiskerpips (N), Fly-A-Pet Potion | **Jorge4985**: Pupcicle (N) |
 | 04:40 | **xx_xxbummrr**: Rainbow Maker | **13kdiino**: Angel Wings, Unicorn Horn, Tiny Wings |
@@ -42,13 +49,6 @@ _Updated 2026-11-19 04:40 UTC by the scrape workflow._
 | 04:40 | **SmallestMascot**: Turtle (MFR), Evil Unicorn (FR) | **joshsawsy**: Owl (FR) |
 | 04:40 | **omlisage_amvgg**: Turtle (NFR), Toaster Hat, Happy Clam (R) | **littlefelonies**: Rainbow Maker |
 | 04:40 | **Edwinisme4th**: Werewolf (NFR), Phoenix (MFR) ×2, Pet Handler Pro Certificate, Shih Tzu (MR) | **joshsawsy**: Evil Unicorn (FR) |
-| 04:40 | **Caliscat22**: Binturong (N), Koala (NFR) | **StreamSlimeCraze2016**: Shrew |
-| 04:40 | **Robloxiana_xxx2011**: Ride-A-Pet Potion ×2 | **epicpulsechaos2024**: Crystal Egg ×18 |
-| 04:40 | **wskdaks**: Tio De Nadal (R) | **Vacia_m78**: Pig (R), Ride-A-Pet Potion ×4, Pink Betta Fish (M) |
-| 04:40 | **KaiSaboAceCC**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×9 | **iaMatthieu1**: Candicorn (FR) |
-| 04:40 | **ellielielielieee**: Boohoo ×18 | **Ira_20086**: Ride-A-Pet Potion |
-| 04:40 | **v1talcult**: Vanilla Penguin (NR), Harp Seal (NR), Ice Cream Cone Hat | **viltpool**: Groundhog (NR) |
-| 04:40 | **ellielielielieee**: White Choccybunny ×4, Little Lamb ×2, Ride-A-Pet Potion, Spring Bunny Feet | **Babielily1**: Pancake Stack |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
