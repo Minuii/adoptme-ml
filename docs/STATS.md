@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 10:11 UTC by the scrape workflow._
+_Updated 2026-11-19 10:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 10:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 31,675 | 2026-11-19T10:00 |
-| elve | 9 | 6,256 | 2026-11-19T10:01 |
+| amvgg | 9 | 31,884 | 2026-11-19T10:15 |
+| elve | 9 | 6,278 | 2026-11-19T10:15 |
 
-## AMVGG completed trades: 35,180 total
+## AMVGG completed trades: 35,182 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,184 |
+| 2026-11-19 | 1,186 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,8 @@ _Updated 2026-11-19 10:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:15 | **Inganta07**: Ride-A-Pet Potion | **0MGSARAY**: Puffer Fish |
+| 10:15 | **rubioOnYTalt1**: Haetyphoon (M), Haetyphoon (N), Haetyphoon ×3 | **GeneralPatrick_14**: Frost Dragon (FR) |
 | 10:11 | **tisha_sally**: Haetyphoon (R) | **Tree092109**: Fly-A-Pet Potion ×6 |
 | 10:11 | **PuhonaBeri**: Frost Dragon (FR) ×2, Turtle (FR) | **kamiqwees**: Shadow Dragon (FR) |
 | 10:11 | **HEARTS4_MELAINE**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pet Handler Pro Certificate | **egmizie8**: Zombie Wolf (N), Zombie Wolf |
@@ -47,8 +49,6 @@ _Updated 2026-11-19 10:11 UTC by the scrape workflow._
 | 10:06 | **hubaks_02**: Winter Doe (M) ×6, Eel (M) ×4 | **OG_Kylen44840**: Turtle (FR) |
 | 10:06 | **YerlyDiSar45**: Peppermint Penguin, Amami Rabbit (MR), Moose Calf | **oIdyellowbricks**: Dragonfruit Fox (MFR) |
 | 10:06 | **vvvvvveli**: Sneak Weasel (M), Pine Marten (N), Baku | **realpdrilla1**: Fly-A-Pet Potion |
-| 10:06 | **Willowstorm_WaCa**: Pretty Pony, Rotating Periscope | **preppygirlyalt12**: Eyepatch |
-| 10:06 | **inferecal0_0**: Samoyed (M), Chihuahua (N), Bunny (MFR), Patchy Bear (M), Rubber Ducky (M) | **21ssaappcc**: Jester Dragon (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
