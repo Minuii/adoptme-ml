@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 04:25 UTC by the scrape workflow._
+_Updated 2026-11-19 04:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 04:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 26,655 | 2026-11-19T04:15 |
-| elve | 9 | 5,296 | 2026-11-19T04:15 |
+| amvgg | 9 | 26,888 | 2026-11-19T04:30 |
+| elve | 9 | 5,340 | 2026-11-19T04:31 |
 
-## AMVGG completed trades: 34,563 total
+## AMVGG completed trades: 34,575 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 567 |
+| 2026-11-19 | 579 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 04:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:30 | **stefkazzz**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 | **personal_stalker69**: Sugar Glider (FR) |
+| 04:30 | **RiordanFan19**: Jellyfish (MFR), Ride-A-Pet Potion ×9, Fly-A-Pet Potion | **austin_1230003**: Balloon Unicorn (FR) |
+| 04:30 | **inferecal0_0**: Jester Dragon, Rabbit (MR), Unicorn (NFR) | **pestolina23**: Shark Puppy (FR) |
+| 04:30 | **wq0rty2**: Patchy Bear (M) | **Tenshi_Neeshi**: Ride-A-Pet Potion |
+| 04:30 | **picklesyumyy**: Evil Unicorn (FR), Goose, Rain Hat ×3 | **TrixieeLulamoon**: African Wild Dog (FR) |
+| 04:30 | **qlltm**: Fly-A-Pet Potion ×7 | **Jillian_Clarice**: Ride-A-Pet Potion ×13 |
+| 04:30 | **Halaaa7397**: Fly-A-Pet Potion ×7, Unicorn | **nokia23pop**: Border Collie (FR) |
+| 04:30 | **ahonaui**: Bunny Swirl (N), Gecko (N), Flaming Fox, Mr. Whiskerpips (N), Halloween Evil Dachshund (N), Pink Betta Fish (N), Halloween White Skeleton Dog (N), Sprout Snail (N), Elasmosaurus (N), Gingerbread Mouse (NR), Undead Elk (NR), Clownfish (N), Clover Cow (N), Grave Owl (N), Red Fox (N), Angus Calf (N) | **Babyofy5**: Unicorn Horn |
+| 04:30 | **Babyofy5**: Chihuahua | **littlefelonies**: Fennec Fox ×18 |
+| 04:30 | **zxl0106**: Cow (FR) ×3 | **ProPro2021**: Evil Unicorn (FR) |
+| 04:30 | **HonetXCake**: Cow (MFR), Border Collie (MFR), Puffer Fish (MFR), Reindeer (MFR), Sunglider (MFR), 2021 Uplift Butterfly (MFR) | **disapp6ar**: Peppermint Penguin (MFR) |
+| 04:30 | **ellielielielieee**: Skelicorn (N), Bobageist (N) ×2, Abyssinian Cat (N), Stygian Owl (N), Galapagos Sea Lion (N) | **valentinaemmz**: Ride-A-Pet Potion |
 | 04:20 | **ellielielielieee**: Ride-A-Pet Potion | **xx_xxbummrr**: Bready Necklace |
 | 04:20 | **anjhienicole00**: Copycat, Ice Moth Dragon | **Lindaunicornio30990**: Cupid Dragon |
 | 04:20 | **cazzy123abc**: Giraffe (NFR) | **OMG4ZXLA**: Cabbit (MFR), Papa Moose (MFR), Fallow Deer (MFR), Rose Dragon (MFR), Dancing Dragon (MFR), Latte Kitsune (MFR), Dango Penguins (MFR), Golden Chow-Chow (MFR), Cuddly Candle (MFR), Ice Cream Cone Hat |
-| 04:20 | **milkwars**: Turtle (FR), Cow, Tiny Wings, Spring Bunny Hood, Tortuga de la Isla, Kangaroo (FR), Unicorn, Strawberry Tortle, Harp Seal (MR) | **Sankup928**: Balloon Unicorn (FR) |
-| 04:20 | **Youmyrii**: Parrot (FR) | **Wizi1298**: Hedgehog (R), Cabbit (FR), Elephant (FR), Caterpillar, Pig (R), Fly-A-Pet Potion |
-| 04:20 | **princesssugarbunni**: Cabbit (NFR), Tiny Wings | **itzmecut**: Goose (NFR), Banana Hat, Cotton Candy Hat ×2 |
-| 04:20 | **856nhy5hyg**: Jester Dragon (N), Jester Dragon, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Alley Cat | **iv0nyxx**: Cow (FR) |
-| 04:20 | **suki_unsupervised**: Candicorn, Pig (R) | **prorabik_krytou**: Royal Mistletroll (FR) |
-| 04:20 | **meownie_u**: Phantom Dragon, Pupcicle (N) | **frillrotdoll**: Munchkin Cat (R) |
-| 04:20 | **ellielielielieee**: Ride-A-Pet Potion, Bready Necklace | **TMDung20**: Spring Bunny Feet |
-| 04:20 | **Brooklyn_Ohio**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3 | **qlltm**: Head Chef, Unicorn Backpack |
-| 04:20 | **1Biahsz_altx**: Ride-A-Pet Potion | **xolvrxo**: Angus Cow (M) |
-| 04:20 | **hannah_lioo**: Feesh (MR) | **WolfyKeshai**: Sheeeeep (R) |
-| 04:20 | **kittyunicornlover657**: Border Collie, Siamese Cat | **Bismuth234**: Cow |
-| 04:20 | **Frs_88xx**: Jester Dragon (NFR), Jester Dragon (FR), Jester Dragon | **Parisirisx**: Candicorn (NFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
