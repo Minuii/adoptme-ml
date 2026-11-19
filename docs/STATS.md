@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 08:31 UTC by the scrape workflow._
+_Updated 2026-11-19 08:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 08:31 UTC by the scrape workflow._
 | amvgg | 9 | 30,375 | 2026-11-19T08:30 |
 | elve | 9 | 5,978 | 2026-11-19T08:31 |
 
-## AMVGG completed trades: 35,000 total
+## AMVGG completed trades: 35,014 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,004 |
+| 2026-11-19 | 1,018 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:40 | **kotaprincess2011**: Siamese Cat (MFR), Shark Puppy (MFR), Border Collie (MFR), Goat (MFR), Hare (MFR), Kangaroo (NFR), Arctic Fox (NFR), Chocolate Dutch Guinea Pig (MFR) | **XxxivaxxX10**: Dalmatian (MFR) |
+| 08:40 | **nika_lovee12**: Pig (R), Arctic Fox (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Munchkin Cat (R) | **luvyerh**: Cow (FR) |
+| 08:40 | **Biscvidi29**: Arctic Reindeer (FR) | **babymargo237**: Frostbite Bear (FR), Kangaroo (FR), Candicorn (FR), Copycat, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 08:40 | **iaMatthieu1**: Frost Unicorn (FR), Peppermint Penguin | **C0rps3vzzx**: Sugar Glider (FR), Jousting Horse (R), Mermicorn (R) |
+| 08:40 | **Amjelgamar21**: Stray Cat Dragon ×10 | **vivisam1100**: Ride-A-Pet Potion |
+| 08:40 | **6_6hn**: Strawberry Shortcake Bat Dragon (FR) ×2, Ride-A-Pet Potion ×5 | **shakiruchki**: African Wild Dog (FR) |
+| 08:40 | **caroesel**: Peppermint Penguin (MFR) | **Violet20191dd**: Strawberry Tortle (MFR) |
+| 08:36 | **luvyerh**: Crocodile (R), Ride-A-Pet Potion | **itsme_claire000**: Crocodile (FR) |
+| 08:36 | **Real_Dream90z**: Ride-A-Pet Potion ×2 | **u1znrx**: Stray Cat Dragon ×16 |
+| 08:36 | **aydachan200311**: Pet Handler Pro Certificate | **Real_Dream90z**: Ride-A-Pet Potion ×2 |
+| 08:36 | **KnifeonKeys**: Cow (MFR), Goat (MFR) ×2, Sheeeeep (MFR) ×2, Groundhog (MFR) ×2, Fallow Deer (MFR), Hare (MFR), Goose (NFR), Arctic Reindeer, Arctic Reindeer (FR) | **bnuliv**: Frost Dragon (MFR) |
+| 08:36 | **daikinnw1**: Ride-A-Pet Potion ×8 | **thescriptofficials**: Chihuahua (M) |
+| 08:36 | **leidydamelike**: Unicorn (M), Kitsune (FR), 2022 Birthday Confetti Drape, T-Rex | **grandmother_izabela**: Crocodile (FR) |
+| 08:36 | **userulikk**: Pig (R) ×2, Crocodile (R), Glider, Fly-A-Pet Potion | **luvyerh**: Cow (FR) |
 | 08:30 | **mommy_vka123**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **NotSweatyOnion**: Strawberry Penguin (R), Ancient Dragon (NR) |
-| 08:30 | **kingbob9293**: Hedgehog (FR) | **misaki_hagami**: Cow ×3 |
-| 08:30 | **Puresksxz**: Goat (MFR) ×2 | **NathanPlayz83**: Owl (FR), Cow (FR) |
-| 08:30 | **yeobviiiii**: Toy Monkey (MFR) | **Caba7Senpai**: Jester Dragon (NFR) |
-| 08:30 | **IconsChew**: Goat (MFR) ×4, Sheeeeep (MFR) ×2 | **Puresksxz**: Parrot (FR) ×4 |
-| 08:30 | **Belen7267**: Matcha Cat (NFR), Fly-A-Pet Potion | **yuioedf**: Cow (FR) |
-| 08:30 | **RyukkHolder**: Eel, Ermine, Dracula Fish, Dolphin, Cute-A-Cabra, Clubtail Dragonfly (N), Chickatrice, Borhyaena Gigantica, Wren, Summer Walrus | **lisalixzahablueback**: Ride-A-Pet Potion |
-| 08:30 | **andrii911706**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion | **Sirswagalishsus**: Winged Tiger |
-| 08:30 | **liofe1**: Polar Bear (NFR), Golden Penguin (NFR), Sunrise Duckling | **Babielily1**: Unicorn Horn |
-| 08:30 | **ExpertChipmunkPro**: Cabbit (R), Golden Chow-Chow (R) | **HELL0J0SEPH**: Strawberry Penguin (NR) |
-| 08:30 | **Pebble_llShelly**: Chihuahua ×2, Onza, Purrowl ×3 | **Helia123446**: Ride-A-Pet Potion |
-| 08:30 | **Random1513**: Paint Sealer ×18 | **Shynisocool**: Ride-A-Pet Potion |
-| 08:30 | **LostKeksik**: Evil Unicorn (FR), Maine Coon (M) | **girl45unicornmagic**: Rainbow Maker, Siamese Cat (R), Tiny Wings, Field Mouse, Spring Bunny Hood, Chef Hat, Thinking Hat, Bewitched Hat, Rain Hat |
-| 08:30 | **EcommonSense**: Pink Cat (R) | **lolo247243**: Ride-A-Pet Potion ×7 |
-| 08:25 | **ARLEKIN4Ok1**: Granny Wolf (M), Budgie Witch (M), Pinkypillar (M), Sneak Weasel (N), Black-Footed Ferret (N), 2D Box, Admin Abuse Box ×3 | **mariaaaa13111**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
