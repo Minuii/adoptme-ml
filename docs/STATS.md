@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 23:31 UTC by the scrape workflow._
+_Updated 2026-11-19 23:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 23:31 UTC by the scrape workflow._
 | amvgg | 9 | 44,240 | 2026-11-19T23:30 |
 | elve | 9 | 8,858 | 2026-11-19T23:31 |
 
-## AMVGG completed trades: 37,642 total
+## AMVGG completed trades: 37,664 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,646 |
+| 2026-11-19 | 3,668 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 23:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:25 | **svrodrii2**: Ice Cream Cone Hat | **heladitoooUnU**: Fly-A-Pet Potion ×3 |
-| 23:25 | **ADoptytmedk**: Owl (FR), Hare (MFR), Balloon Unicorn (FR), Ride-A-Pet Potion | **Gxlhsp80**: Peppermint Penguin (MFR) |
-| 23:25 | **Jadameigo**: Turtle (FR), Turtle (R) ×2, Ice Cream Cone Hat, Ride-A-Pet Potion ×2, Strawberry Shortcake Bow | **svrodrii2**: Dalmatian |
-| 23:25 | **ArneBjetent**: Unicorn (NFR) ×2, Sweetheart Rat (M), Indian Leopard (M) | **fox997130**: Kangaroo (FR) |
-| 23:25 | **StrangerthingFofinha**: Golden Egg | **Lotteisking**: Paint Sealer ×3 |
-| 23:25 | **chocolatelover123426**: Ride-A-Pet Potion | **xolvrxo**: Alien Eyes Hat |
-| 23:25 | **awrriah**: Candyfloss Chick (R), Bush Elephant (NFR), Shark Puppy (FR), Alpaca (R), Candicorn (FR), Strawberry Tortle (R) | **ExpertChipmunkPro**: Balloon Unicorn (FR) |
-| 23:25 | **Scphiaaxbxdcr**: Sugar Glider (MFR) | **wwjd2344**: Balloon Unicorn (FR), Cow (FR), Angel Wings, 2022 Birthday Cake ×2, Unicorn Horn, Moon Rabbit (MFR), Burger Bear (MR), Winged Tiger (R), Chocolate Dutch Guinea Pig |
-| 23:25 | **queenyelii_22**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **Angel_louise012**: Ice Cream Cone Hat |
-| 23:25 | **ReadyWest**: Pupcicle, Purrowl | **kiril629958kiril6**: Ride-A-Pet Potion |
-| 23:25 | **HeartsForEli_1406**: Cotton Candy Hat | **batdbxp8429**: Ice Cream Heels |
-| 23:25 | **Angelfromdarkness_0**: Cryptid (NFR) | **Helloozzie**: Strawberry Shortcake Bat Dragon (NFR), Dalmatian (FR), Mermicorn (FR), Cake Friend, Ranger Beaver, Chocolate Dutch Guinea Pig, Pupcake |
-| 23:25 | **dojejebegsid**: Parrot (MFR) | **Tates1ush**: Munchkin Cat (MFR), Giant Anteater (MFR), Christmas Pudding Pup (MFR), Leopard Shark (MFR), Dango Penguins (MFR), Golden Rat (MFR), Water Rabbit (MFR), Arctic Reindeer (MFR), Cuddly Candle (MFR) |
-| 23:25 | **vuxsa1t**: Fly-A-Pet Potion | **Queenas_World**: Frost Phoenix |
-| 23:25 | **Spartik20**: Ride-A-Pet Potion ×13 | **frecalsplogeok9**: Fly-A-Pet Potion ×7 |
+| 23:40 | **Angelfromdarkness_0**: Emperor Gorilla, Goat (R) | **tsitp_secret**: Red Dutch Guinea Pig (N) |
+| 23:40 | **pawthetiic**: Swan, Fire Foal, Chanekeh (N), Swordfish | **erynne_me**: Fly-A-Pet Potion |
+| 23:40 | **Angelfromdarkness_0**: Border Collie (MFR), Werewolf (FR) | **Jofab96**: Copycat (MFR), Glormy Leo (MFR), Royal Corgi (MFR) |
+| 23:40 | **gato12345129**: Ride-A-Pet Potion, Banana Hat | **gh0steddsoull**: Super Saru Animated Sticker |
+| 23:40 | **gato12345129**: Cryptid (N) | **Bia_salgadin**: Cryptid (NFR), Spring Bunny Nose, Cherry Blossom Tree Sticker, Cherry Blossom Flower Sticker |
+| 23:40 | **kynnonefan**: Mini Pig (MFR), Giant Panda (FR), Balloon Unicorn (FR) ×2 | **auzreti**: Bat Dragon (FR) |
+| 23:40 | **Laniell04**: Cow (FR), Munchkin Cat (NR) | **Xxskibidy67**: Arctic Reindeer (FR) |
+| 23:40 | **Queen_CK26**: Cabbit (MFR) | **spyily1234**: Giant Panda (FR), Dragonfruit Fox (MFR), Copycat (NR), Chocolate Dutch Guinea Pig (MFR), Grim Dragon (FR), Unicorn Horn, Kitty Bat (MFR), Pretty Pony (MFR), Pink Cat Ear Headphones, Elf Hat, Purple Heart Glasses, Fly-A-Pet Potion ×2 |
+| 23:40 | **reserbadong2**: Cryptid, Fly-A-Pet Potion, Ride-A-Pet Potion | **YTstaro**: Amethyst Penguin (R) |
+| 23:40 | **sweettailzx**: Cryptid (FR), Quokka (M), Peachick (M) | **baby_sosabackup**: Peppermint Penguin (NFR) |
+| 23:36 | **The_Werewolf098**: Ibis (M), Eggnog Hare (R), Water Moon Bear, Evil Chick | **aleeyah51092**: Oakee Wizard (M), Milk Choccybunny (M), Pilot Gull (M) |
+| 23:36 | **bloodymedsss**: Latte Kitsune (MFR), Dragonfruit Fox (MFR) | **dojejebegsid**: Christmas Pudding Pup (MFR) |
+| 23:36 | **Angelbatista_me2**: Grim Dragon (NFR), Kitty Bat (M) | **TESTACC1114_0**: Strawberry Shortcake Bat Dragon (FR) |
+| 23:36 | **Klaysi_flayra**: Chihuahua ×5 | **vertaocsi**: Fly-A-Pet Potion |
+| 23:36 | **RyukkHolder**: Siamese Cat | **Presbraltacc**: Unicorn Horn |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
