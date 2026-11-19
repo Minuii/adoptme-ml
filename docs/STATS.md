@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 11:46 UTC by the scrape workflow._
+_Updated 2026-11-19 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 11:46 UTC by the scrape workflow._
 | amvgg | 9 | 33,196 | 2026-11-19T11:45 |
 | elve | 9 | 6,502 | 2026-11-19T11:46 |
 
-## AMVGG completed trades: 35,355 total
+## AMVGG completed trades: 35,384 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,359 |
+| 2026-11-19 | 1,388 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 11:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:41 | **OwO98759**: Cozy Mistletroll, Koi Carp, Fossa, Koala, Ocelot (N), Black Springer Spaniel | **milka_offO1**: Golden Penguin |
-| 11:41 | **cutetel350**: Dragon ×18 | **caycay_3800**: Fly-A-Pet Potion |
-| 11:41 | **uqxiyeol**: Ride-A-Pet Potion | **roblox_user_1554000708**: Bready Necklace |
-| 11:41 | **ericsfootsteps**: Caterpillar (NFR), Cow (FR), Mini Pig (FR), Copycat (FR) | **adoptmeplayerhi10**: Pirate Ghost Capuchin Monkey (MFR) |
-| 11:41 | **hiwhat043**: Siamese Cat (R), Ride-A-Pet Potion ×2 | **zukabrokerheart**: Turtle (R) |
-| 11:41 | **ESAHAHAHA**: Cow (R) | **0Adoptlme**: Fly-A-Pet Potion ×16 |
-| 11:41 | **codasty15**: Pig, Gemstone Egg | **Mikeoten0923**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion |
-| 11:41 | **nnnettolll**: Frostbite Bear (R) | **NastiGora**: Pig (NFR), Fly-A-Pet Potion |
-| 11:41 | **KatsuTatsuya**: Parrot (FR) ×2, Velocirooster (NFR), Goose (FR), Pink Cat | **Shadx_1553**: Giraffe (FR) |
-| 11:41 | **carlou245**: Chihuahua (MR), Chocolate Dutch Guinea Pig (NR), Ride-A-Pet Potion | **gooo734**: Candicorn (FR) |
-| 11:41 | **qpicni**: Giraffe (FR), Santa Hat | **KatsuTatsuya**: African Wild Dog (R), Balloon Unicorn (FR), Goose (NFR), Goose (FR) |
-| 11:41 | **x1x1xIx1x1x1xI**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **rainbow72679**: Frost Fury |
-| 11:36 | **Ksysq3**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion | **cyberwarriorsuper**: Caterpillar, Munchkin Cat ×2, Copycat, Lion Cub, Sheeeeep, Border Collie, Ring-Tailed Lemur (R) |
-| 11:30 | **ApexPrime09**: Clover Cow (M), Fly-A-Pet Potion | **Jayd_enLight36**: Matcha Cat |
-| 11:30 | **wx8zqxx**: Matcha Cat ×2 | **stevenzon574**: Tortoiseshell Guinea Pig |
+| 11:55 | **Bismuth234**: Candicorn (R), Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **ChillerTyr**: Border Collie ×2 |
+| 11:55 | **XiaoFaye1433**: Cow (FR), Kangaroo (FR) | **leidydamelike**: Frost Fury (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 11:55 | **Emmett_Laurent**: Cabbit (R) | **soulbnni**:  |
+| 11:55 | **ataraksuu**: Endangered Egg | **Qwemd4**: Buffalo, Otter, Fennec Fox |
+| 11:55 | **iiamxchris**: Christmas Pudding Pup (NFR) | **skibidimarzenkauwu**: Mermicorn (FR) |
+| 11:55 | **WillowpillowpiggyWL**: Moose Calf (N), Halloween Slime Mega Neon Paint | **lolcryabtit6767**: Snowball Pet (MR) |
+| 11:55 | **Trixcaughtlackin**: Glacier Kitsune (MFR), 2022 Birthday Party Hat | **vfiffj574**: Goose (FR), Cow (FR), Kangaroo (FR), Albino Monkey (FR), Crocodile (FR) |
+| 11:51 | **darksouls_258**: Cherry-On-Top, 2022 Birthday Cake | **Liza10kis**: Mermicorn ×2, Pet Handler Pro Certificate |
+| 11:51 | **999666Gucci999666**: King Bee (R), Unicorn, Dragon | **Brxtvnny**: Fly-A-Pet Potion |
+| 11:51 | **chichiyasaranghe**: Royal Mistletroll (R) | **asdfDimaFA**: Pupcicle (MFR) |
+| 11:51 | **dnqlifee**: Mexican Wolf (N), Black Rhino (N), Clumpty (N) ×2, Glyptodon Ducky (N) ×2, Gummy Guana (N), Ox (N), Parakeet (N), Zebra (N) | **Bunny_189659**: Ride-A-Pet Potion |
+| 11:51 | **xolvrxo**: Goldhorn | **GAV_6066**: Unfortunate Eyelashes |
+| 11:51 | **Amvgg_Amvggg**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **Lizabro228768**: Turtle (FR) |
+| 11:51 | **lolcryabtit6767**: Frost Fury (NFR), Ice Cream Hermit Crab (R), Ride-A-Pet Potion | **theropywasted**: Red Dutch Guinea Pig (N) |
+| 11:51 | **Junjyungg**: Leviathan (NR) | **l0w_whisper**: Ride-A-Pet Potion ×8 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
