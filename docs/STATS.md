@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 05:40 UTC by the scrape workflow._
+_Updated 2026-11-19 05:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 05:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 27,787 | 2026-11-19T05:30 |
-| elve | 9 | 5,503 | 2026-11-19T05:31 |
+| amvgg | 9 | 28,004 | 2026-11-19T05:45 |
+| elve | 9 | 5,538 | 2026-11-19T05:46 |
 
-## AMVGG completed trades: 34,692 total
+## AMVGG completed trades: 34,700 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 696 |
+| 2026-11-19 | 704 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,14 @@ _Updated 2026-11-19 05:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:45 | **disapp6ar**: Alley Cat (MFR) | **TT_0qwerty45**: Lava Dragon (MFR) |
+| 05:45 | **Cinnamor0llBaby**: Werewolf (FR), Pig, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **El_t1ntero**: Kangaroo (NFR) |
+| 05:45 | **IconsChew**: Royal Mistletroll (R) | **piercedscorpion**: Lion Cub (NFR) |
+| 05:45 | **Polinamasha123**: Pupcicle | **Hellobyeheyhihello**: Vanilla Penguin |
+| 05:45 | **angel6_625**: Zombie Wolf (M), Goose (FR), Shark Puppy (R) | **aguamexicana9**: Rainbow Maker |
+| 05:45 | **TANSKlN**: Flamingo (MFR), Mini Pig (FR), Goose (FR), Cow | **roblox_user_8676283275**: Tio De Nadal (MFR) |
+| 05:45 | **cutekitty82467**: Candicorn (NFR), Arctic Fox (NFR), Unicorn Horn | **Shynekoprincess**: Groundhog (MFR) |
+| 05:45 | **WeirdKage**: Arctic Reindeer (FR), Strawberry Tortle (FR), Fairy Bat Dragon (FR), Turtle (FR) ×2, Kangaroo (FR) | **murid5**: Evil Unicorn (NFR) |
 | 05:40 | **BudakBaran7**: Gumball Caterpillar (M) | **valentinaajuwu**: Boohoo (M) |
 | 05:40 | **werlianess**: Lava Wolf, Moose Calf (R), Puffin, Ice Wolf (FR), Pig, Swan (NFR), Ride-A-Pet Potion ×3, Chick Backpack, Pink Hightops, Pink Butterfly Wings, Cheesecake Hat, Flying Fairy, Knitted Pumpkin Hat, Burger Bun Hat, Security Spotlight | **BudakBaran7**: Cow (FR) |
 | 05:40 | **copyvoting**: Flamingo, Candicorn, Kangaroo (FR) | **coolkidd9641**: Bush Elephant (NFR) |
@@ -41,14 +49,6 @@ _Updated 2026-11-19 05:40 UTC by the scrape workflow._
 | 05:40 | **artem_rbz18**: Fly-A-Pet Potion ×17 | **didxodid1**: Cow (FR) |
 | 05:40 | **loy6**: Fly-A-Pet Potion, Ride-A-Pet Potion | **micaistcool7**: Schoolhouse Home |
 | 05:40 | **Usuario30x**: Sushi Penguin | **yaroslavshepon**: Ride-A-Pet Potion |
-| 05:40 | **exotic_plot**: Cryptid (NFR), Haetae (FR), Evil Unicorn (FR), Strawberry Shortcake Bat Dragon Backpack, Giant Anteater, Vampire Dragon (R) | **BaconxrichYT**: Owl (NFR) |
-| 05:40 | **Usuario30x**: Diamond Hamster (R) | **Babyofy5**: Fly-A-Pet Potion |
-| 05:40 | **L_person21**: Wyvern (FR), Pine Marten (FR), Golden Unicorn (R) | **love_sry0**: Ride-A-Pet Potion ×2 |
-| 05:40 | **wskdaks**: Cow (R) | **Artem_milkSG**: Elephant (FR), Crocodile, Pupcicle (NFR) |
-| 05:40 | **ylyzacanete**: Tiny Wings, Eaten Donut | **Vampxx2449**: Toaster Hat |
-| 05:40 | **E20MLL**: Mythic Egg ×2 | **Panci_Terbang33**: Pupcicle |
-| 05:40 | **Panci_Terbang33**: Pupcicle ×4 | **didxodid1**: Fly-A-Pet Potion ×2 |
-| 05:40 | **00iAngell**: Dire Wolf (MFR), Christmas Pudding Pup | **lese4ka_em**: Pupcake (MFR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
