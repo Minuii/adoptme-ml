@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 05:46 UTC by the scrape workflow._
+_Updated 2026-11-19 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 05:46 UTC by the scrape workflow._
 | amvgg | 9 | 28,004 | 2026-11-19T05:45 |
 | elve | 9 | 5,538 | 2026-11-19T05:46 |
 
-## AMVGG completed trades: 34,700 total
+## AMVGG completed trades: 34,717 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 704 |
+| 2026-11-19 | 721 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 05:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:45 | **disapp6ar**: Alley Cat (MFR) | **TT_0qwerty45**: Lava Dragon (MFR) |
-| 05:45 | **Cinnamor0llBaby**: Werewolf (FR), Pig, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **El_t1ntero**: Kangaroo (NFR) |
-| 05:45 | **IconsChew**: Royal Mistletroll (R) | **piercedscorpion**: Lion Cub (NFR) |
-| 05:45 | **Polinamasha123**: Pupcicle | **Hellobyeheyhihello**: Vanilla Penguin |
-| 05:45 | **angel6_625**: Zombie Wolf (M), Goose (FR), Shark Puppy (R) | **aguamexicana9**: Rainbow Maker |
-| 05:45 | **TANSKlN**: Flamingo (MFR), Mini Pig (FR), Goose (FR), Cow | **roblox_user_8676283275**: Tio De Nadal (MFR) |
-| 05:45 | **cutekitty82467**: Candicorn (NFR), Arctic Fox (NFR), Unicorn Horn | **Shynekoprincess**: Groundhog (MFR) |
-| 05:45 | **WeirdKage**: Arctic Reindeer (FR), Strawberry Tortle (FR), Fairy Bat Dragon (FR), Turtle (FR) ×2, Kangaroo (FR) | **murid5**: Evil Unicorn (NFR) |
-| 05:40 | **BudakBaran7**: Gumball Caterpillar (M) | **valentinaajuwu**: Boohoo (M) |
-| 05:40 | **werlianess**: Lava Wolf, Moose Calf (R), Puffin, Ice Wolf (FR), Pig, Swan (NFR), Ride-A-Pet Potion ×3, Chick Backpack, Pink Hightops, Pink Butterfly Wings, Cheesecake Hat, Flying Fairy, Knitted Pumpkin Hat, Burger Bun Hat, Security Spotlight | **BudakBaran7**: Cow (FR) |
-| 05:40 | **copyvoting**: Flamingo, Candicorn, Kangaroo (FR) | **coolkidd9641**: Bush Elephant (NFR) |
-| 05:40 | **ellielielielieee**: Ride-A-Pet Potion | **love_sry0**: Bready Necklace |
-| 05:40 | **artem_rbz18**: Fly-A-Pet Potion ×17 | **didxodid1**: Cow (FR) |
-| 05:40 | **loy6**: Fly-A-Pet Potion, Ride-A-Pet Potion | **micaistcool7**: Schoolhouse Home |
-| 05:40 | **Usuario30x**: Sushi Penguin | **yaroslavshepon**: Ride-A-Pet Potion |
+| 05:55 | **Xerces_04**: Jekyll Hydra (FR) | **you_no099**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×2 |
+| 05:55 | **Erizien**: Cabbit (NFR) | **swe3tyums**: Phantom Dragon (MFR) |
+| 05:55 | **E20MLL**: Mythic Egg ×2 | **Panci_Terbang33**: Pupcicle |
+| 05:55 | **nerkym_life1331**: 2022 Uplift Butterfly, Pterodactyl, Dilophosaurus, Black Moon Bear, Beaver, Icy Porcupine, Jumpscare, Mummy Spider, Metal Ox, Lunar Tiger (N) | **itsvaleriaotz**: Ride-A-Pet Potion |
+| 05:51 | **zaffy46**: Angus Calf, Business Monkey, Choco Penguin | **Shehatesme420**: Ride-A-Pet Potion |
+| 05:51 | **cvvxsen**: Winged Tiger (FR), Border Collie (FR) | **re_eee0**: Fairy Bat Dragon (FR) |
+| 05:51 | **nornomm**: Unicorn Horn, Chef Hat, Halloween Evil Barrel Backpack | **cloudy_cloudimup**: 2022 Birthday Confetti Cannon, Munchkin Cat |
+| 05:51 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Bunny (M) | **evvixks**: Fly-A-Pet Potion |
+| 05:51 | **xisaa_sr**: Unicorn ×2 | **evvixks**: Fly-A-Pet Potion |
+| 05:51 | **chlo333_alt**: Flower Power Duckling | **itsmyalt_heh**: Bauble Buddies |
+| 05:51 | **UnforgivablyMe**: Flash Weasel | **sore1017**: Fly-A-Pet Potion ×7 |
+| 05:51 | **Ent3r_UsernameHere**: Flash Weasel, Narwhal (NR), Fly-A-Pet Potion, 2D Box | **sore1017**: Pupcicle (N) ×3, Pupcicle ×4 |
+| 05:51 | **barbiequeuu**: Royal Capuchin Monkey (NR), Unicorn (NR), Owlbear, Axolotl (NFR) | **oh_eql**: Candicorn |
+| 05:51 | **wskdaks**: Alley Cat, Mochi Meow (R) | **Fruit_Kittie**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 05:51 | **Panci_Terbang33**: Ride-A-Pet Potion, Ghost | **itsvaleriaotz**: Christmas Spirit (N) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
