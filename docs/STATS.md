@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 16:26 UTC by the scrape workflow._
+_Updated 2026-11-19 16:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 16:26 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 37,307 | 2026-11-19T16:15 |
-| elve | 9 | 7,379 | 2026-11-19T16:16 |
+| amvgg | 9 | 37,541 | 2026-11-19T16:30 |
+| elve | 9 | 7,442 | 2026-11-19T16:31 |
 
-## AMVGG completed trades: 36,229 total
+## AMVGG completed trades: 36,234 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,233 |
+| 2026-11-19 | 2,238 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,6 +34,11 @@ _Updated 2026-11-19 16:26 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 16:30 | **off_Shadow13**: Winged Tiger (MFR), Shrew (R) | **Cinzsins**: Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (FR), Ice Wolf (MFR) |
+| 16:30 | **kiara_ham3tet**: Kangaroo (FR), Copycat, Polar Bear (R) | **faikubjotch**: Strawberry Tortle |
+| 16:30 | **belltiny**: Jumpscare (M) | **Unicorn_Galaxy020**: Ride-A-Pet Potion |
+| 16:30 | **Sharker_Lolx**: Retired Egg ×6 | **05211lad**: Orca |
+| 16:30 | **11Anime_Love1**: Dalmatian (FR) | **Angelbatista_me2**: Cabbit (NFR) |
 | 16:26 | **V1ABACKUP**: Ride-A-Pet Potion, Three Blind Mice (N) | **Atsushi1_BSD**: Catte (R) |
 | 16:26 | **C0PHYAK**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **MarkerFanAccount**: Cow (FR) |
 | 16:26 | **C0PHYAK**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **MM2jug**: Snow Owl (NR) |
@@ -44,11 +49,6 @@ _Updated 2026-11-19 16:26 UTC by the scrape workflow._
 | 16:26 | **razarvale2z**: Chihuahua ×3 | **KoTik_rbx2010**: Ride-A-Pet Potion |
 | 16:26 | **razarvale2z**: Chihuahua ×12 | **Ranboo9875**: Ride-A-Pet Potion ×4 |
 | 16:26 | **RobloxDevolober**: Snowy Mammoth | **Spion6607**: Endangered Egg ×18 |
-| 16:26 | **0MGSARAY**: Giant Cheetah Mount, Chanekeh (M) | **sona6839**: Crocodile (R) |
-| 16:26 | **mommy_vka123**: Strawberry Penguin (R), Munchkin Cat (FR), Munchkin Cat, Red Squirrel (R) | **fearedmelancholy**: Elephant (R), Crocodile (R) |
-| 16:21 | **12emanuel07**: Kangaroo (FR) | **angelinagggcbh**: Candicorn (R), Pupcake (R), Magical Girl Car |
-| 16:21 | **Cute_Cinabon**: Pineapple Owl (N), Wailing Mr. Whiskerpips Sticker | **rayswardrobe**: Crocodile |
-| 16:21 | **Niruch_Bearly**: Dango Penguins (NFR) | **rayswardrobe**: Shark Puppy (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
