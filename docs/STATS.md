@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-19 18:11 UTC by the scrape workflow._
+_Updated 2026-11-19 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 16 | 2026-11-11T1036Z | 2026-11-19T0015Z |
-| amvgg | 49 | 2026-11-11T1036Z | 2026-11-19T1716Z |
+| amvgg | 50 | 2026-11-11T1036Z | 2026-11-19T1816Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 38,957 | 2026-11-19T18:00 |
-| elve | 9 | 7,674 | 2026-11-19T18:01 |
+| amvgg | 9 | 39,202 | 2026-11-19T18:15 |
+| elve | 9 | 7,692 | 2026-11-19T18:15 |
 
-## AMVGG completed trades: 36,583 total
+## AMVGG completed trades: 36,598 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,587 |
+| 2026-11-19 | 2,602 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 18:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:11 | **VeronBW**: Black Moon Bear (NR), Gemstone Egg, Emu | **lyawwq7x**: Ride-A-Pet Potion |
-| 18:11 | **Harleyquinnfloofy**: Mini Schnauzer (MR), Wooly Rhino | **daydreamzgirl**: Ring-Tailed Lemur (NFR) |
-| 18:11 | **1ovIIy**: Chihuahua ×2 | **sophiaswoof**: Ride-A-Pet Potion |
-| 18:11 | **Youmyrii**: Elephant (FR), Pig (R), Arctic Fox (FR) | **luvyerh**: Goose (FR) |
-| 18:11 | **Cqttage_Dollface**: S'mores Raccoon (MR) | **malak_ahmed321**: 2022 Birthday Cupcake Shoes |
-| 18:11 | **TANSKlN**: Parrot (FR), Tio De Nadal (MFR), Arctic Reindeer | **AntiqueDesignz**: Shadow Dragon (FR) |
-| 18:11 | **3amlaufey**: Golden Lettuce | **clarisse_tubeuse**: Pupcicle ×3 |
-| 18:11 | **42ief**: Pupcicle, Gumball Caterpillar (N) | **araiiw0**: Ride-A-Pet Potion |
-| 18:11 | **Cloudy_xxxlex**: Cryptid (FR), Cow (FR) | **chip40060**: Strawberry Shortcake Bat Dragon (NFR) |
-| 18:11 | **itwas_f4te**: Binturong (MFR), Kitsune (MFR) | **Jeansppk**: Unicorn Horn, Spring Bunny Feet |
-| 18:11 | **Undercover_YTF**: Polar Bear (MFR), Polar Bear (R), Pet Handler Pro Certificate | **Jeansppk**: Goose, Turtle (FR) |
-| 18:11 | **rikialt_1234**: Bat Dragon (FR), Frost Dragon (FR), African Wild Dog (FR), Strawberry Shortcake Bat Dragon (FR) | **NummieNummiegirl**: Frost Dragon (MFR) |
-| 18:11 | **IzeaEboy**: Mini Pig (MFR), Happy Clam (MFR), Puffer Fish (MFR), S'mores Raccoon (MFR), Happy Duckling (MFR), Balloon Unicorn (FR) ×2, Candyfloss Chick (FR) | **nzx3o**: Bat Dragon (FR) |
-| 18:11 | **Xnixht**: Strawberry Tortle (FR) | **xay_111225**: Fairy Bat Dragon (FR) |
-| 18:11 | **sneganii**: Copycat (NR) | **xay_111225**: Frostbite Bear (FR) |
+| 18:15 | **textsickk**: Ride-A-Pet Potion, Sushi Penguin | **NotSweatyOnion**: Count Slothula ×3 |
+| 18:15 | **C0PHYAK**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **S4nsett8**: Cow (FR) |
+| 18:15 | **Pawwzzed**: Queen Bee (F), Gecko Ducky (N), Blue Whale (N) | **EliBell333**: Dilophosaurus (M) |
+| 18:15 | **a_a16711**: Dalmatian (FR) | **joakhidk129**: Cabbit (NFR) |
+| 18:15 | **UltttraHamsterGang**: Peppermint Penguin (MFR), Cryptid (NFR) | **Liaaa_sukakucing**: Giant Panda (NFR), 2022 Birthday Cake, Unicorn Horn, 2022 Birthday Cupcake Shoes, Rain Cloud Hat, Tiny Wings, Ice Cream Cone Hat |
+| 18:15 | **Arracheurdetacos224**: Fairy Bat Dragon (FR), Sugar Glider (FR), Ghostly Cat (M), Dire Wolf (M), Zombie Wolf (R), Phantom Dragon (FR), Australian Kelpie (MFR), Burger Bear (MFR) | **Spidy_shalapaykin**: Kangaroo (FR), Chocolate Chip Bat Dragon (FR) |
+| 18:15 | **IIuvbr**: Crystal Egg ×18 | **msgarcia4**: Fly-A-Pet Potion |
+| 18:15 | **Max051812**: Moon Rabbit (MFR) | **junoblehh**: Merry Mistletroll (MFR), Latte Kitsune (R), Mistletroll (M) |
+| 18:15 | **Andy_kj8**: Retired Egg ×18 | **amr1taax**: Ride-A-Pet Potion |
+| 18:15 | **Andy_kj8**: Retired Egg ×18 | **aleeyah51092**: Ancient Dragon (N) |
+| 18:15 | **hisd3sires**: Winged Tiger (MFR), Cow (R), Meerkat (NFR) | **xyfcamyx**: Frost Dragon (FR) |
+| 18:15 | **Rainbow2011k**: Ride-A-Pet Potion, Mighty Haetyphoon Animated Sticker, Fairytale Egg | **SoyNoel11**: Trapdoor Snail (N) ×2 |
+| 18:15 | **limohq**: Pet Handler Pro Certificate ×5, Fly-A-Pet Potion, Ride-A-Pet Potion ×8 | **Siuyuiq654**: Turtle (FR) |
+| 18:15 | **rayfofakawaii**: Unicorn ×4 | **Arinagrande_cute**: Unicorn (N) |
+| 18:15 | **1Biahsz_altx**: Pet Handler Pro Certificate ×4, Fly-A-Pet Potion ×3 | **hellofriendnicetome**: Black-Footed Ferret (M) ×18 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
