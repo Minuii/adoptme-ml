@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 01:16 UTC by the scrape workflow._
+_Updated 2026-11-19 01:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 01:16 UTC by the scrape workflow._
 | amvgg | 9 | 23,904 | 2026-11-19T01:15 |
 | elve | 9 | 4,743 | 2026-11-19T01:15 |
 
-## AMVGG completed trades: 34,166 total
+## AMVGG completed trades: 34,189 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 170 |
+| 2026-11-19 | 193 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 01:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:15 | **Noahisthebestaltx**: Owl (FR), 2022 Birthday Cake, Lava Wolf (NFR) | **TMDung20**: Fairy Bat Dragon (MFR) |
-| 01:15 | **pankrasiia**: Paint Sealer ×15 | **EriOnSuMa**: Ride-A-Pet Potion |
-| 01:15 | **kaylamicmi**: Goose (R), Alpaca (R) | **wjredmind**: Purple Butterfly (MFR), Fly-A-Pet Potion |
-| 01:15 | **aabeeyg**: Unicorn Horn, Tiny Wings, Cow (NFR) | **J4YNEES**: Cryptid (FR) |
-| 01:15 | **TMDung20**: Strawberry Shortcake Bat Dragon (FR), Goose | **BuenosDias1111**: Evil Unicorn (FR) |
-| 01:15 | **JorgeEduardo_123**: Strawberry Shortcake Bow, Tutu, Flower Beret | **Aslie_17**: Ride-A-Pet Potion |
-| 01:15 | **elproXD_7v7**: Pain au Chat ×5 | **dududdhdjdhd**: Ride-A-Pet Potion ×2 |
-| 01:15 | **Bunny_SuperKawai**: Cupid Dragon (R) | **chicken_kaka7w7**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 |
-| 01:15 | **KiwiKaii21**: Glyptodon (MR) | **Dad_TheGamer528**: Fly-A-Pet Potion ×3 |
-| 01:15 | **cutesyghali**: Swan (MFR), Brown Springer Spaniel (MFR), Water Rabbit (MFR), Mini Schnauzer (MFR), Harp Seal (MFR), Unicorn Horn, Pain au Chat (MFR) | **guiderno1234**: Jellyfish (MFR) |
-| 01:15 | **MaxBoom486**: Peppermint Penguin (R), Munchkin Cat (N), Elf Hat | **guiderno1234**: Strawberry Shortcake Bat Dragon (FR) |
-| 01:15 | **iiMushroom_00**: Fairy Bat Dragon (NFR), Moon Rabbit (MFR), Stray Cat Dragon (M), Goth Shoes, Jeff's Nametag, Cotton Candy Hat | **M00N_122113**: Cryptid (R) |
-| 01:15 | **That0n3DumbG1rl**: Fairy Bat Dragon (FR), Shark Puppy (NFR) | **niyashimo**: Strawberry Shortcake Bat Dragon (FR) |
-| 01:15 | **booluqx**: Cow (FR) | **GrindAccount_N1**: Goldhorn (FR), Golden Rat (FR), Golden Ladybug (FR) ×3, Dragon (FR) ×5, Guardian Lion (FR) ×4, Ring-Tailed Lemur, Munchkin Cat, Skele-Rex (NFR), Stray Cat Dragon (FR) |
-| 01:15 | **Idk_justmeloll**: Ballet Swan (MFR) | **IDFeelAnything**: Fairy Bat Dragon (NFR) |
+| 01:25 | **hwnjhyunnjj**: Haetae (FR) | **sleepy_s0ren**: Cabbit (NFR), Mini Pig (FR) |
+| 01:25 | **Dateflud**: Karate Gorilla ×2 | **AsmioTakeW**: Fly-A-Pet Potion |
+| 01:25 | **minv9a**: Sasquatch (MFR) | **littlefelonies**: Amami Rabbit (N) ×2, Stygian Owl (M) |
+| 01:25 | **AMOANICOLE78**: Fairy Bat Dragon (FR) | **TURQUESAPLUSHD**: Hive Backpack |
+| 01:25 | **xch4rl0ttx3**: Goose (MFR), Chihuahua (MFR), Copycat | **Doodleboodle654**: Mermicorn (MFR) |
+| 01:25 | **Stevieicecream16**: Clementine Owl (N), Pupcake (N), Chocolate Dutch Guinea Pig (R) | **BR4Y4N1027**: Pupcicle (N) |
+| 01:25 | **joshsawsy**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 | **ikabackflip**: Elephant (FR) |
+| 01:25 | **chocolatelover123426**: Siamese Cat | **Cinder_222**: Unicorn Horn, Ride-A-Pet Potion |
+| 01:25 | **SanAndres404**: Alley Cat (MFR), Firefly (NFR) | **zarmeowz**: Munchkin Cat (NR), Peppermint Penguin (FR) |
+| 01:25 | **wafy_3mk**: Strawberry Shortcake Bat Dragon (FR) ×2, Kangaroo (FR), Meerkat | **mdz_1219**: Crow (FR) |
+| 01:25 | **N0AH_XRM**: Bee (MFR), Catte (N), Skelicorn | **dorito_elpro2020**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
+| 01:25 | **yuri_dragon32**: Candyfloss Chick (MFR), Toaster Hat, Ice Cream Hermit Crab (MFR), Moon Rabbit (M), Firefly | **Antonnyalexander2009**: Owl (FR), Balloon Unicorn (R) |
+| 01:25 | **gg_01841**: Munchkin Cat (MR), Binturong (MFR), Hare (NFR), Ghostly Cat (MR), Fly-A-Pet Potion | **decayinggdollzz**: Jellyfish (MFR) |
+| 01:25 | **natedgreatGotBanned**: 2022 Birthday Confetti Cannon | **ST3LL4_II**: Haetyphoon |
+| 01:25 | **TMDung20**: Border Collie (MFR), Kangaroo (R) | **taki_2taki**: Owl (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
