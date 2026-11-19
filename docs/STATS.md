@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 13:46 UTC by the scrape workflow._
+_Updated 2026-11-19 13:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 13:46 UTC by the scrape workflow._
 | amvgg | 9 | 35,075 | 2026-11-19T13:45 |
 | elve | 9 | 6,864 | 2026-11-19T13:46 |
 
-## AMVGG completed trades: 35,651 total
+## AMVGG completed trades: 35,679 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,655 |
+| 2026-11-19 | 1,683 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 13:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:40 | **mxdmcrza**: Blue Butterfly (M), Pain au Chat | **avokado_6001**: Ride-A-Pet Potion |
-| 13:40 | **Lorenlsalone**: Huntsman Robin (N) | **Nicckie_Min42**: Crimson Cape ×4 |
-| 13:40 | **INeverrCap**: Mrs. Whiskerpips (MFR) | **ksenia_unicorn67**: Ride-A-Pet Potion ×4 |
-| 13:40 | **aloneiremgamer**: Glyptodon Ducky (M), Bone Wings, Blue Snowboard | **Kimyeonii**: Ride-A-Pet Potion |
-| 13:40 | **ariaeaea**: Harp Seal (MR), Pancake Stack, Propeller Hat | **24tyra**: 2022 Birthday Cake, Spring Bunny Hood |
-| 13:40 | **Bismuth234**: Mini Pig (R) | **St1tch_l0ver101**: Peppermint Penguin (R), Copycat (R), Aussie Egg |
-| 13:40 | **Esikiiomuru**: Copycat (N) | **sjak696**: Turtle (FR) |
-| 13:40 | **razarvale2z**: Chihuahua ×3 | **Leviodas**: Ride-A-Pet Potion |
-| 13:40 | **AsianIceCold**: Fairy Bat Dragon (FR), Turtle (FR), Candicorn (FR) | **kmj081022**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 13:40 | **Sunoo56298**: Pet Handler Pro Certificate | **Kurocuash**: Stray Cat Dragon (M) |
-| 13:40 | **Scentoftea**: Cattuccino, Electric Hornet, Pinkypillar (N) | **Jjne576**: Boohoo (N) |
-| 13:40 | **YuroMiyuk1**: Bolt (MFR) | **tbnrpangit**: Pet Handler Pro Certificate |
-| 13:40 | **ihamoda**: Owl (FR), Crow (FR), Blazing Lion (FR), Hedgehog (FR) ×2, Arctic Reindeer (NFR), Nessie (MFR), Candicorn (MFR), Candicorn (N), Turtle (NFR), Grim Dragon (R) | **kittycutecat11130**: Shadow Dragon (NFR) |
-| 13:40 | **adoptmexx626**: Fairy Bat Dragon (FR), Kangaroo (FR), Elephant (FR), Ride-A-Pet Potion ×2 | **lillygames_xx**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:40 | **Adoptmestocks3000**: Ride-A-Pet Potion | **roblox_user_1554000708**: Thinking Hat |
+| 13:51 | **kxtrennn**: Giant Panda (FR), Strawberry Tortle, Sushi Penguin (MR), Candicorn, Cherry-On-Top, Goat, Sugar Glider (R) | **mamadmasa0111**: Frost Dragon (FR) |
+| 13:51 | **enchantedxmira**: Ride-A-Pet Potion, Pet Handler Pro Certificate | **Smookgans**: Moose Calf |
+| 13:51 | **litlsicub**: Skelicorn (NFR), Chihuahua | **Moqqiz**: Fly-A-Pet Potion |
+| 13:51 | **Yamajyjopyvazelinov1**: Pupcicle, Kage Crow | **cake2014929**: Ride-A-Pet Potion |
+| 13:51 | **loveturtlencow**: Ride-A-Pet Potion | **Dragonlegend2130**: Mochi Meow ×10 |
+| 13:51 | **toti_6394**: Moose Calf (MFR), Toaster Hat | **enchantedxmira**: Puffer Fish (MFR), Snow Monkey (MFR) |
+| 13:51 | **Rizz67sigmaBrain**: Fly-A-Pet Potion | **Dragonlegend2130**: Mochi Meow ×18 |
+| 13:51 | **Brixer_Holder**: Great Pyrenees (MFR), Preppy Capuchin Monkey (MFR) | **MinhLovesFurriess**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×4 |
+| 13:51 | **franek1234444444**: Copycat (R) | **jofnor0**: Ride-A-Pet Potion ×6 |
+| 13:51 | **Puddingxcutoy**: Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Niruch_Bearly**: Turtle (FR) |
+| 13:51 | **bl0xby**: Cow (NFR), Tortuga de la Isla (NFR) ×2 | **ARON00808**: Turtle (FR) ×4, Hare (NFR), Majestic Pony (NFR) |
+| 13:51 | **Dragonlegend2130**: Ballet Swan (NFR), Lion (R) | **kva3626**: Cow (FR) |
+| 13:51 | **krikikriki56**: Mochi Meow ×2, Purrowl ×2, Three Blind Mice, Huntsman Robin | **CandyLover31235**: Ride-A-Pet Potion |
+| 13:51 | **NarutoDegenerat**: Copycat | **rayfofakawaii**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 13:51 | **BlazingLion_225**: Goose (FR) | **JUBGEEEEEE**: Panda (MFR), Border Collie, Chocolate Dutch Guinea Pig (N) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
