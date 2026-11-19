@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 10:46 UTC by the scrape workflow._
+_Updated 2026-11-19 10:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 10:46 UTC by the scrape workflow._
 | amvgg | 9 | 32,321 | 2026-11-19T10:45 |
 | elve | 9 | 6,385 | 2026-11-19T10:46 |
 
-## AMVGG completed trades: 35,237 total
+## AMVGG completed trades: 35,253 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,241 |
+| 2026-11-19 | 1,257 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 10:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:45 | **biirdyyy2**: Giant Panda (FR) | **Furret4130**: Strawberry Shortcake Bat Dragon (NFR) |
-| 10:45 | **ll_90dfhj**: Tuxedo Cat (N) ×2, Tuxedo Cat ×8, Peahen, Black Chow-Chow, Peach Owl, Spring Bunny Feet | **yblxssomz**: Tuxedo Cat (MFR) |
-| 10:45 | **rightygf_343**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion, Stray Cat Dragon (N) | **alexandmartinareg**: Siamese Cat (NFR), Rain Cloud Hat |
-| 10:41 | **trainingpilot12**: Elephant (FR) ×9 | **luvyerh**: Crow (FR) |
-| 10:41 | **flears_brai**: Monkey King (FR) | **lnH3II**: Vampire Dragon (NFR) |
-| 10:41 | **Inganta07**: Fly-A-Pet Potion ×3 | **JulianKHV**: Frost Fury (FR) |
-| 10:41 | **littlelizard_7**: Shark Puppy (MFR) | **Killkillmaster2345**: Kangaroo (MFR), Pineapple Owl (M) |
-| 10:41 | **ItsSunMan**: Pet Handler Pro Certificate ×2 | **mdmdnkevsjsvaj**: Fly-A-Pet Potion ×2 |
-| 10:41 | **Leafiieee**: Peacock (R) | **mdmdnkevsjsvaj**: Ride-A-Pet Potion |
-| 10:41 | **BertixBostka**: Frost Phoenix (FR), Frost Phoenix, Arctic Fox (R), Christmas Pudding Pup, Snowman (R) | **nikitaloooll7**: Kangaroo (FR) |
-| 10:41 | **nikitaloooll7**: Copycat (R), Ride-A-Pet Potion ×11 | **Moon_Cloud609859**: Kangaroo (FR) |
-| 10:41 | **Bismuth234**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×2 | **Malinamyn**: Mermicorn (R), Arctic Fox (FR) |
-| 10:36 | **carlou245**: Gemstone Egg ×2 | **imxwwq**: Stray Cat Dragon (N) |
-| 10:36 | **XWanwanxX**: Cabbit (MFR), Spring Bunny Hood | **Mimiplayztz123**: Sugar Glider (MFR) |
-| 10:36 | **LunaAqua5849**: Rain Cloud Hat | **Kui_Yeager**: Great Pyrenees (MFR), Ride-A-Pet Potion |
+| 10:55 | **snula33**: Dalmatian (FR), Reindeer (N) | **PozziBroihs**: Frost Fury (NFR), Mini Pig (FR), Peppermint Penguin (FR) |
+| 10:55 | **hiwhat043**: Albino Monkey (FR), Kangaroo (FR) | **PozziBroihs**: Cow (FR) |
+| 10:51 | **wskdaks**: Lion Cub (MFR), Fly-A-Pet Potion ×2 | **ItsAidengamingrbx200**: Evil Unicorn (FR), Pig (R) |
+| 10:51 | **kirw_eqq**: Three Blind Mice ×2, Alicorn ×2, Dragonfly, Clover Cow, Easter Bunny, Ermine, Pomeranian | **wrawixx**: Ride-A-Pet Potion |
+| 10:51 | **Sone4ka_cloudlet**: Ride-A-Pet Potion ×6 | **Ksnooq**: Husky (N) |
+| 10:51 | **ffffff246500**: Lion Cub (FR) | **Ggyyuhhhj**: Ride-A-Pet Potion ×4, Spring Bunny Nose, Ladybug (N) |
+| 10:51 | **Dragonlegend2130**: Arctic Reindeer (FR), Jester Dragon (FR), Frost Fury (FR), Jacobin Pigeon (M) | **Nika_Roblox16stars**: Dalmatian (R) |
+| 10:51 | **ABCDEFDHIJF**: Volcanic Rhino (NR) | **the3reveng**: Ancient Dragon (MFR) |
+| 10:51 | **Haipookie26**: Elephant (FR), Waffle Wyrm (MFR), Ride-A-Pet Potion | **6d7d6d66**: Flamingo (FR) |
+| 10:51 | **bnuliv**: Groundhog (MFR) ×2, Hare (MFR) | **iiPurplegalaxy127**: 2022 Birthday Cake ×3, Halo, 2022 Birthday Party Hat ×2, 2022 Birthday Confetti Cannon, Unicorn Horn, Rain Cloud Hat ×2 |
+| 10:51 | **arandomanimewebb**: Crow (NFR) ×2 | **theyoutugeegg**: Haetyphoon (M), Dalmatian (FR), Mini Pig (R), Shark Puppy (FR), Chicken (NFR), Fairy Bat Dragon, Farm Egg ×3, Flash Weasel (N), Elephant |
+| 10:51 | **ShadowDragonLoverN1**: Tuxedo Cat | **xXMoonlight_DreamXx0**: Ride-A-Pet Potion |
+| 10:51 | **furunkl99**: Kangaroo (FR), Great Pyrenees (MR), Unicorn (NR) | **PozziBroihs**: Cow (FR) |
+| 10:51 | **Bismuth234**: Fly-A-Pet Potion ×7 | **evqwss**: Glormy Leo (N) |
+| 10:51 | **Nastya_367367**: Purple Heart Glasses, Glormy Backpack, Gold Circle Glasses, Love Letter | **flozzabozza07**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
