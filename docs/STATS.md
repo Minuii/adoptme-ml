@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 21:16 UTC by the scrape workflow._
+_Updated 2026-11-19 21:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 21:16 UTC by the scrape workflow._
 | amvgg | 9 | 42,237 | 2026-11-19T21:15 |
 | elve | 9 | 8,361 | 2026-11-19T21:15 |
 
-## AMVGG completed trades: 37,212 total
+## AMVGG completed trades: 37,241 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 3,216 |
+| 2026-11-19 | 3,245 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 21:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:15 | **yuuooosefalu**: Giraffe (FR), Siamese Cat (NR), Unicorn (M), Munchkin Cat (R), Giant Cheetah Mount | **CFESG8557777**: Frost Dragon (NFR) |
-| 21:15 | **Colcid888666**: Kangaroo (R), Grave Owl, Fanghorn Tortoise | **Friday427hd**: Fly-A-Pet Potion ×9 |
-| 21:15 | **TYTkuza2**: Turtle (FR) | **Bismuth234**: Kangaroo (FR), Ride-A-Pet Potion ×5 |
-| 21:15 | **GorobetsZP**: Ride-A-Pet Potion | **Cejlcnaslhfsdav**: Albino Bat ×2 |
-| 21:15 | **wlyppyxx1**: Turtle (NFR), Sugar Glider (R) | **sleepy_s0ren**: Arctic Reindeer (FR) |
-| 21:15 | **SkaterPlayzQueen2016**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R) | **Star_accdeleted3**: Glacier Kitsune (NFR) ×2, Arctic Dusk Dragon (NFR), Blue Dog, Ranger Beaver (M), Sweetheart Rat (NR), Jester Dragon (N), Mule, Ghostly Cat (N), Sasquatch (N) |
-| 21:15 | **ArneBjetent**: Frost Dragon (FR) | **SkaterPlayzQueen2016**: Owl (FR), Chocolate Chip Bat Dragon (FR) |
-| 21:15 | **DxRCnA**: Moonbeam Butterfly (NFR), Ride-A-Pet Potion | **AgePotFarm128**: Tiny Wings |
-| 21:06 | **staceylo12**: Ride-A-Pet Potion | **AnneFabrel2005**: Chocolate Dutch Guinea Pig |
-| 21:06 | **NokadotakAU3U**: Mighty Haetyphoon Animated Sticker, Ride-A-Pet Potion, Paint Sealer | **Penguinis_icey**: Pet Handler Pro Certificate |
-| 21:06 | **rhituaIls**: Dragonfruit Fox (MFR), Husky (MFR), 2022 Birthday Cake, Pig (R), Kitty Bat (M), Angel Wings | **Kiandra13kiandra**: Crow (FR) |
-| 21:06 | **cutesyghali**: Caelum Cervi (MFR), Goldhorn (MFR) | **Loveflowers871**: Giant Anteater (MFR) |
-| 21:06 | **ulysqw**: Pizza Stroller, Banana Stroller, Ride-A-Pet Potion | **dashavazhina**: Cradle Stroller |
-| 21:06 | **lera5132**: Turtle (FR) ×2, Cow (FR), Kangaroo (FR), Unicorn (NFR) | **Moqqiz**: Cryptid (FR) |
-| 21:06 | **s1m4kk**: Crystal Egg, Kiwi Kiwi, Sunflower Friend (N) | **fzxfrf**: Ride-A-Pet Potion |
+| 21:20 | **frecalsplogeok9**: Indian Leopard ×3, Ice Cube ×2, Ibex, Ibis, Halloween White Mummy Cat, Granny Wolf ×3, Goldfish | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 21:20 | **north1chan**: Candyfloss Chick (R), Ride-A-Pet Potion ×3 | **KnoW1z**: Siamese Cat (FR) |
+| 21:20 | **astrid35j**: Turtle (FR), Hare (R) | **carolzinhac2009**: Strawberry Tortle |
+| 21:20 | **U9l9y**: Lion (FR), Ride-A-Pet Potion ×6 | **dwqnimeow**: Werewolf (FR) |
+| 21:20 | **Ebonyaqt**: Candicorn (NFR) | **dwqnimeow**: Unicorn Horn ×2 |
+| 21:20 | **frecalsplogeok9**: Chick, Mouse, Brachiosaurus, Bluebottle Fly, Warthog, Tanuki, Gorilla ×3, Glyptodon Ducky, Gibbon ×5 | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 21:20 | **wragom_fikk**: Tuxedo Cat (MFR), Pet Handler Pro Certificate ×2, Ride-A-Pet Potion | **xo1qn**: 2022 Birthday Party Hat |
+| 21:20 | **frecalsplogeok9**: Glyptodon ×4 | **Sillykily0**: Ride-A-Pet Potion |
+| 21:20 | **HayeyaAjajami**: Count Slothula ×2 | **themudwizard**: Ride-A-Pet Potion |
+| 21:20 | **carterdelaney1**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Rain Cloud Hat | **dippersonally**: Zombie Wolf (MFR), Cherry-On-Top |
+| 21:20 | **Squid_GamerS11**: Dalmatian (MFR), Arctic Reindeer (MFR), Fairy Bat Dragon (MFR), Owl (MFR), Crow (MFR), Frost Dragon (MFR), Dalmatian (NFR), Border Collie (N), Lynx (MFR) | **24KsolarrrrxX**: Bat Dragon (MFR) |
+| 21:20 | **hanb3ki**: Stray Cat Dragon (M) | **elenakrytaya333**: Ride-A-Pet Potion ×2 |
+| 21:20 | **frecalsplogeok9**: Tarsier, Sweetheart Rat, Summer Walrus, Subzero Scorpion | **themudwizard**: Ride-A-Pet Potion |
+| 21:20 | **nylee_psh**: Frog, Penguin, Seagull, Gingerbread Mouse, Tan Chow-Chow, Ibex, Emu | **arisslovers**: French Bulldog |
+| 21:20 | **dloxasteq2**: Chocolate Chip Bat Dragon (FR), Candicorn (R), Pet Handler Pro Certificate ×2 | **triflebat**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
