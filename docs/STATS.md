@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 03:01 UTC by the scrape workflow._
+_Updated 2026-11-19 03:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 03:01 UTC by the scrape workflow._
 | amvgg | 9 | 25,518 | 2026-11-19T03:00 |
 | elve | 9 | 5,086 | 2026-11-19T03:01 |
 
-## AMVGG completed trades: 34,379 total
+## AMVGG completed trades: 34,415 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 383 |
+| 2026-11-19 | 419 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 03:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:00 | **Queenvessy**: Clover Cow (MR), Pig (FR) | **Kinl3ann**: Flash Weasel (FR) |
-| 03:00 | **yuumiuro**: Nautilus ×3, Nautilus (R) | **Panci_Terbang33**: Ride-A-Pet Potion ×2 |
-| 03:00 | **iiWxllowCloudz**: Pain au Chat ×4, Scarlet Butterfly | **Kinl3ann**: Pain au Chat (N) |
-| 03:00 | **kofiok_sweet**: Tiny Wings, Spring Bunny Feet, Ride-A-Pet Potion ×4 | **sxmplycutecorex**: Latte Kitsune (NFR) |
-| 03:00 | **DesiredLaughs**: Phoenix (NFR), Ghostly Cat (MR), Black Tiger (MFR) | **sophie_pie9991**: Munchkin Cat |
-| 03:00 | **cwuurz**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **Gabrielotalamejors0**: Moon Rabbit (N) ×3, Moon Rabbit ×2 |
-| 03:00 | **Biscvidi29**: Kangaroo (FR) | **Wolfie4567ty**: Ride-A-Pet Potion ×17 |
-| 03:00 | **Disurvz**: Christmas Pudding Pup (N), Ride-A-Pet Potion | **smart1hill**: Christmas Pudding Pup ×4 |
-| 03:00 | **Dateflud**: Yeti | **AsmioTakeW**: Ride-A-Pet Potion |
-| 03:00 | **SirCartier410**: Musk Ox (MR), Seahorse (MFR), Narwhal (MFR), Lunar Ox (MFR), Dingo (MFR), Purrowl ×13 | **nessapawz**: Turtle (FR) |
-| 02:55 | **PURUNRI**: Jacobin Pigeon (M) | **Puda1950**: Robin |
-| 02:55 | **turtletofrost7**: Hedgehog (FR) | **Inaxii77**: Strawberry Shortcake Bat Dragon (FR), Goat (NR), Shrew (R), Lion Cub |
-| 02:55 | **tjandhannah34**: Chocolate Chip Bat Dragon (FR), Pirate Ghost Capuchin Monkey (R) | **juandiego25251**: Siamese Cat (FR), Candyfloss Chick (R), Fairy Bat Dragon (FR) |
-| 02:55 | **Ch0Manh**: Tio De Nadal (M), Shrew (MFR) ×2, Evil Unicorn (FR), Yule Log Dog (MFR) ×2 | **joyutuitjy**: Diamond Butterfly (MFR) |
-| 02:51 | **Fortnitedoodawe**: Border Collie, Shark Puppy (FR) | **Preppypeppa122**: Alpaca (FR) |
+| 03:11 | **BhaabieeRaaii**: Pineapple Owl (MFR), Moose Calf | **lizzy45677l**: Dango Penguins (MFR), Red Sand Dollar (MFR) |
+| 03:11 | **BUS5ED**: Ride-A-Pet Potion | **DomieDum_Lol**: Dragonfly (NFR) |
+| 03:06 | **iXxBrixX**: Werewolf (NFR), Jester Dragon (NFR) ×2, Sloth (MFR) | **lolcryabtit6767**: Arctic Dusk Dragon (MFR), Arctic Dusk Dragon (NFR) |
+| 03:06 | **Fbrleey**: Siamese Cat (R), Munchkin Cat, Fly-A-Pet Potion | **Cutie_wolfie20**: Peppermint Penguin |
+| 03:06 | **Omar2002548**: Pig, Polar Bear (FR), Many Mackerel (R), Happy Clam | **skarknado4_death**: Grim Dragon |
+| 03:06 | **Arilovesyou1232**: Copycat (MFR) | **Cinzsins**: Munchkin Cat (MFR) |
+| 03:06 | **LIAXMLV**: Aurora Fox (NFR), Pain au Chat (N) ×4, Burning Bunny (MR), Penguin (NFR) | **Cherridoll76**: Dragonfruit Fox (MFR) |
+| 03:06 | **856nhy5hyg**: Cow (FR), Cabbit (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **BAJl03**: Strawberry Shortcake Bat Dragon (FR) |
+| 03:06 | **yesterboni0**: Haetyphoon (R) | **dnei30fast**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 |
+| 03:06 | **kaylamicmi**: Polar Bear (NFR), Fly-A-Pet Potion | **Juvellia_5**: Happy Duckling (MFR), Harp Seal (N) |
+| 03:06 | **wskdaks**: Ice Cream Hermit Crab (MFR), Fly-A-Pet Potion | **YUMIIMOTHZZ**: Brown Bear (NFR), Chihuahua (M), Arctic Fox (FR), Black Springer Spaniel (NFR), Santa Hat, Elf Hat |
+| 03:06 | **CookieCrumbs_l**: Siamese Cat (R), Tiny Wings | **MatiXD12306**: Cerberus (MFR) |
+| 03:06 | **sweetn6thing**: Toaster Hat | **playerbunbready**: Tiny Wings |
+| 03:06 | **wskdaks**: Ballet Swan | **Miqaima_3**: Skelicorn (MFR) |
+| 03:06 | **goofy_bro20**: Ballet Swan (MFR), Ride-A-Pet Potion ×5 | **LeonardBass28273**: Candicorn (NFR), 2022 Birthday Party Hat, Turtle (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
