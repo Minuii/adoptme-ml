@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 16:55 UTC by the scrape workflow._
+_Updated 2026-11-19 17:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 16:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 37,778 | 2026-11-19T16:45 |
-| elve | 9 | 7,506 | 2026-11-19T16:46 |
+| amvgg | 9 | 38,026 | 2026-11-19T17:00 |
+| elve | 9 | 7,533 | 2026-11-19T17:01 |
 
-## AMVGG completed trades: 36,321 total
+## AMVGG completed trades: 36,338 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,325 |
+| 2026-11-19 | 2,342 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 16:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:55 | **deadpo0l293**: Water Moon Bear (N), Eaten Donut | **Vikakelera**: Ride-A-Pet Potion |
-| 16:55 | **darr1erbxxs**: Turtle (R) | **Secret_Secretov321**: Ice Cream Cone Hat ×2, Head Chef, Ginger Cat (M), Chocolate Dutch Guinea Pig |
-| 16:55 | **itsalinenka**: Field Mouse (N) | **xMaddieglolx**: Alpaca (FR) |
-| 16:55 | **Ryou_senpai05**: Paint Sealer ×9 | **Sains9811**: Magic House Door |
-| 16:55 | **ii0_0qes**: Ride-A-Pet Potion ×8, Chimera (N), Maneki-Neko (NR), Hippogriff (N), Husky, Dodo (FR) | **oh_eql**: Red Sand Dollar (MFR) |
-| 16:55 | **kotenochekalisa**: French Bulldog | **Fidelia2131415**: Ride-A-Pet Potion |
-| 16:55 | **smudgepuffs**: Danger Egg | **sushi_kawaii789**: Ride-A-Pet Potion |
-| 16:55 | **Sargasmic_Fae**: Admin Abuse Egg ×17, Parakeet (N) | **sushi_kawaii789**: Ride-A-Pet Potion |
-| 16:55 | **liofe1**: Strawberry Shortcake Bow, Heart Bow | **sushi_kawaii789**: Ride-A-Pet Potion |
-| 16:55 | **margini_mini**: Cabbit (FR), Albino Monkey (R), Border Collie (R) | **xv1oh**: Pig (NFR), Flamingo (FR), Shark Puppy (R), Lion Cub (R) |
-| 16:55 | **Katarinamartino**: Guardian Lion (R) | **BendyWendy_SIKE**: Ride-A-Pet Potion |
-| 16:55 | **kumasfavv**: Jester Dragon ×2 | **Lost_inTheCl0uds**: Shiver Wolf (M), Black Tiger (M) |
-| 16:51 | **Alili2323134**: Skele-Rex (MFR), Phoenix (MFR), Dodo (MFR) | **SXMKYII**: Arctic Reindeer (FR) |
-| 16:51 | **wassupwithu**: Gaelic Fae (N) | **grijfe8r**: Chocolate Dutch Guinea Pig (NR) |
-| 16:51 | **prorabik_krytou**: Haetyphoon (MFR) | **Oxivqa**: Shark Puppy (MFR), Naughty Mistletroll (MFR), Count Slothula (MFR), Kitty Bat (NFR) |
+| 17:00 | **RyukkHolder**: Phoenix (FR) | **BendyWendy_SIKE**: Cerberus (R) |
+| 17:00 | **Vitek_228666**: Pig | **Zzz_64671**: Ride-A-Pet Potion ×7 |
+| 17:00 | **kzcallista**: Cherry-On-Top, 2022 Birthday Party Hat, Unicorn Horn, Rain Cloud Hat, 2022 Birthday Confetti Cannon, 2022 Birthday Party Horn, Toaster Hat, Ice Cream Cone Hat, Goose, Great Pyrenees | **akeks_74**: Parrot (FR) |
+| 17:00 | **lnH3II**: Snowball Pug (MR), Bunny Swirl (NR) | **El_t1ntero**: Pig |
+| 17:00 | **dear_tedie**: Fly-A-Pet Potion ×3 | **NotSweatyOnion**: Frost Fury (FR) |
+| 17:00 | **Zhackpogi**: Ride-A-Pet Potion ×4 | **Chicken_Drumsticksss**: Fallow Deer |
+| 17:00 | **cofe2_rbx**: Crocodile, Flamingo (R), Bee (NFR), Snow Owl (R), Business Monkey, Choco Penguin (N), Pet Handler Pro Certificate | **FROSTVIBXZYT**: Kangaroo (NFR) |
+| 17:00 | **podashka77**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **eragon1000bc**: Ring-Tailed Lemur (FR) |
+| 17:00 | **RyukkHolder**: Copycat (NFR) | **FunDayDwH**: Turtle (FR) |
+| 17:00 | **lonelynymous**: Starfish (M), Fly-A-Pet Potion | **RyukkHolder**: Electric Hornet (M) |
+| 17:00 | **lo0vyyu**: Crystal Egg ×15 | **Giulia_SatoruPs4**: Ride-A-Pet Potion |
+| 17:00 | **rune4kaa0**: Strawberry Tortle, Fly-A-Pet Potion ×3 | **Nurmukhan15**: Undead Jousting Horse (FR) |
+| 17:00 | **vcniIIa**: Water Rabbit (MFR), Ride-A-Pet Potion ×2, Chef Hat | **stefany1062**: S'mores Raccoon (MFR) |
+| 17:00 | **wx8zqxx**: Blue Dog (FR) | **Swan_Couture**: Blue Dog, Chocolate Chip Bat Dragon Backpack |
+| 17:00 | **supersuspens**: Golden Rat (NFR) | **laur3star**: Glacier Kitsune (FR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
