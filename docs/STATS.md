@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 15:46 UTC by the scrape workflow._
+_Updated 2026-11-19 15:56 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-19 15:46 UTC by the scrape workflow._
 | amvgg | 9 | 36,847 | 2026-11-19T15:45 |
 | elve | 9 | 7,299 | 2026-11-19T15:46 |
 
-## AMVGG completed trades: 36,085 total
+## AMVGG completed trades: 36,113 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 2,089 |
+| 2026-11-19 | 2,117 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 15:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:45 | **BlizzardvwQuantumO13**: Alley Cat (MFR), Kookaburra (MFR), Sheeeeep (NR), Pig (NR), Goose (FR), Happy Clam (NFR), Candyfloss Chick (FR), Candyfloss Chick (R), Candyfloss Chick, Cupid Dragon (R), Kookaburra (N), Copycat, Rain Cloud Hat, Tiny Wings | **summerg6mes**: Candyfloss Chick (MFR) |
-| 15:45 | **Fakel_780**: Copycat (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 |
-| 15:45 | **Tim03062010**: Frost Fury (NFR) | **milkiway0334**: Pet Handler Pro Certificate, Crocodile (FR) |
-| 15:45 | **roxzyydoll**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×4 | **ictswito30**: Munchkin Cat (FR) |
-| 15:45 | **aavqaii**: Goat (MFR) | **adorespoppyx**: Wooly Rhino (MFR), Husky (MFR), Vanilla Penguin (MFR), German Shepherd (MFR), Burger Bear, Flower Power Duckling, Fly-A-Pet Potion |
-| 15:45 | **1qeers**: Pets Plus Sticker Pack ×4 | **Penguinis_icey**: Ride-A-Pet Potion ×4 |
-| 15:45 | **xyfcamyx**: Frost Dragon (FR), Waffle Wyrm (MFR), Ride-A-Pet Potion ×2, Angus Calf (M) | **Frs_88xx**: Ram (MFR), Ghost Bunny (MFR), Mule (MFR), Ice Wolf (MFR), Alley Cat (MFR), Munchkin Cat (MFR) |
-| 15:45 | **oliviaa_0872**: Moose Calf (MFR), Alley Cat (MFR), Rain Cloud Hat, Unicorn Horn, Spring Bunny Hood | **roblox_user_8676283275**: Balloon Unicorn (FR) |
-| 15:45 | **soccerchamp0637**: Snow Monkey | **MyStarPets1**: Popsicle Stroller, Ice Cream Stroller |
-| 15:45 | **6_zeb**: Dragonfruit Fox (N), Happy Clam, Dragonfruit Fox, Pet Handler Pro Certificate ×2, Tree Sasquatch (M) | **Julieta_pika**: Candyfloss Chick |
-| 15:45 | **quVare_PDF**: Goldhorn (NFR) | **XZ_XZ9**: Pet Handler Pro Certificate ×2, Unicorn (FR) |
-| 15:45 | **qxzwo0**: Hare, Husky | **Hugchamb**: Ride-A-Pet Potion ×4 |
-| 15:45 | **Sains9811**: Retired Egg ×18 | **flowerist0w04577**: Paint Sealer ×9 |
-| 15:45 | **Mikeoten0923**: Irish Water Spaniel (FR) | **Olesia1949**: Arctic Fox (R) |
-| 15:45 | **MapleLull**: Ginger Cat (N), Little Lamb (N), Thunderfisher (N), Jiggly Jerboa (N), 2D Box ×2 | **Cookie_lover13232**: Ride-A-Pet Potion |
+| 15:56 | **Bleh_xxo**: Cattuccino, Tuxedo Cat, Admin Abuse Egg ×3 | **ITZKIYAX**: Elf Hat |
+| 15:56 | **bunnyblinkP**: Pig (R), Ride-A-Pet Potion ×4 | **Lolaa_chn**: Haetyphoon (R) |
+| 15:56 | **dinax1238**: Cow (FR), Ride-A-Pet Potion | **WeiYing_Editor**: Arctic Fox (N), Elephant (R) |
+| 15:56 | **Mimimmiiimimmmiimim**: 2D Doggy | **masonreiGN18**: Ride-A-Pet Potion |
+| 15:56 | **XxBad_2PotatoxX**: Fly-A-Pet Potion ×2 | **kkaatEEe2**: Latte Kitsune, Koi Carp (N) |
+| 15:56 | **Altforamvggtrading67**: Owl, Crow (FR), Grim Dragon (FR), Dalmatian (FR), Pink Cat (FR), Ballet Swan | **sleepy_s0ren**: Frost Dragon (NFR) |
+| 15:56 | **Zzym6**: Evil Chick, Winter Buck (R), Paint Sealer | **Fidelia2131415**: Ride-A-Pet Potion |
+| 15:56 | **dianadonatlove**: Endangered Egg | **zzzzzxxxxxwr9**: Galapagos Sea Lion, Milk Choccybunny |
+| 15:51 | **carlkilling**: Sandwich Hat | **pinkybunnycue**: Fly-A-Pet Potion |
+| 15:51 | **Vikitoria19590**: Turtle (FR), Fly-A-Pet Potion ×4 | **Harriet_trades**: Munchkin Cat (NFR) |
+| 15:51 | **n0tl1ia**: Arctic Fox (FR) | **Ntyfoth**: Ride-A-Pet Potion, Arctic Fox (R) |
+| 15:51 | **ZzGhoul_RileyzZ**: Fly-A-Pet Potion | **kkaatEEe2**: Pupcicle ×2 |
+| 15:51 | **seb_ihhh**: Unicorn ×4 | **im_a1star4**: Rose Dragon |
+| 15:51 | **XIRABRIN36**: Unicorn, Ocelot ×2 | **Ashdorae**: Ride-A-Pet Potion |
+| 15:51 | **3amlaufey**: Vol. 2 Pets Plus Sticker Pack | **Penguinis_icey**: Pupcicle ×2 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
