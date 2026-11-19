@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-19 13:11 UTC by the scrape workflow._
+_Updated 2026-11-19 13:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-19 13:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 9 | 34,353 | 2026-11-19T13:00 |
-| elve | 9 | 6,727 | 2026-11-19T13:01 |
+| amvgg | 9 | 34,602 | 2026-11-19T13:15 |
+| elve | 9 | 6,750 | 2026-11-19T13:15 |
 
-## AMVGG completed trades: 35,559 total
+## AMVGG completed trades: 35,576 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-19 | 1,563 |
+| 2026-11-19 | 1,580 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
 | 2026-11-16 | 3,994 |
@@ -34,21 +34,21 @@ _Updated 2026-11-19 13:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:06 | **XxbobaloverXx565**: Blazing Lion (FR), Pancake Stack, Pet Handler Pro Certificate, Toasty Red Panda ×2 | **12anastasiya2008**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
-| 13:06 | **l_i8ra7**: Fly-A-Pet Potion, Ride-A-Pet Potion | **xXtheBesssssttttttXx**: Sloth (R), Black Panther, Desert Egg, Golden Ladybug, Blue Butterfly (N), Three Blind Mice, Huntsman Robin, Ancient Dragon, Purrowl |
-| 13:06 | **yuumiuro**: Ice Cream Hermit Crab ×3 | **Xxxxashhhh**: Ride-A-Pet Potion ×6 |
-| 13:06 | **bydaylight7931**: Cherry Blossom Tree Sticker ×9, Cherry Blossom Flower Sticker ×9 | **lisalixzahablueback**: Ride-A-Pet Potion |
-| 13:06 | **Hilsplos1**: Copycat, Pink Cat (R), Jester Dragon (FR) | **mdmdnkevsjsvaj**: Candicorn (FR) |
-| 13:06 | **bunny_splash4**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) | **LoriDreamy123**: African Wild Dog (FR) |
-| 13:06 | **Bnnifettii**: Cabbit (MFR), Cabbit (NFR), Mini Pig, 2022 Birthday Party Horn | **vampxlorvd**: Strawberry Shortcake Bat Dragon (MFR) |
-| 13:06 | **Cosmo_syx**: Turtle (R), Fly-A-Pet Potion | **QUliaka**: Unicorn (MR), Pig (FR), Ride-A-Pet Potion ×2 |
-| 13:06 | **qkrbed**: Rainbow Maker ×2 | **bermido80**: Haetae (FR) |
-| 13:06 | **FcNikita24**: Sushi Penguin | **slinx5267**: Ride-A-Pet Potion |
-| 13:06 | **alxymrn**: Retired Egg | **themegaplahs**: Hopbop |
-| 13:06 | **AsianIceCold**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **s_coki**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:06 | **GeneralPatrick_14**: Haetae (R), Grim Dragon (FR), Grim Dragon (R) ×2, Undead Jousting Horse, Brown Bear (MFR) | **Den_826uhwk**: Frost Dragon (FR) |
-| 13:06 | **yuumiuro**: Cuddly Candle (N) | **quietlyangel**: Ride-A-Pet Potion ×3 |
-| 13:00 | **foodyx**: African Wild Dog (FR), Balloon Unicorn (R), Hedgehog (FR), Siamese Cat (NR) | **Berryavenueslag**: Peppermint Penguin (MFR) |
+| 13:15 | **BLACKCAT202015**: Turtle (R) | **milkiway0334**: Siamese Cat (FR), Ride-A-Pet Potion |
+| 13:15 | **sllwexx**: Goldfish (N) | **meiikoraa**: Ride-A-Pet Potion |
+| 13:15 | **moral608**: Unicorn (NFR) | **magicalxmoon**: Fallow Deer (R) |
+| 13:15 | **HEARTS4_MELAINE**: Chipmunk (M) | **altmityanitsa**: Zombie Wolf (NR), Fly-A-Pet Potion |
+| 13:15 | **IvanGinSenpai**: Fly-A-Pet Potion ×11, Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **sowylx**: Turtle (FR) |
+| 13:15 | **mary0313mary**: Hawk (MR), Diamond Amazon (NFR), Flower Power Duckling (MFR), Black-Chested Pheasant (R), Moonbeam Peacock (FR), Black-Chested Pheasant, Evil Chickatrice (MR), Ostrich (MFR), Silly Duck (NFR), Evil Chick (M), Partridge (MR), Nightmare Owl (MR), Cassowary (MR), Kage Crow (MFR), Love Bird (MFR), Cassowary (M), Diamond Amazon (FR), Dodo (NR) | **leruval**: Crow (FR) |
+| 13:15 | **animatownermile3**: Retired Egg ×3 | **LittleMiaMin_Playz**: Arctic Hare |
+| 13:15 | **xKatexkittyxUwUx**: Woolly Mammoth (M) | **k155m**: Cute-A-Cabra (MR) |
+| 13:15 | **XTREYT**: 2022 Birthday Party Horn, Propeller Hat | **HAJK102**: Rain Cloud Hat |
+| 13:15 | **veroNIKA_star016**: Arctic Fox (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **kfyhdr**: Elephant (FR) |
+| 13:15 | **rrnmaaaa**: Modern Mansion | **dayn_toxic**: Spring Bunny Feet |
+| 13:15 | **ccortiemma**: Cryptid (NFR), Haetae (R), Strawberry Shortcake Bat Dragon (FR), Cabbit, Siamese Cat, Jellyfish, Leopard Shark (N), Turkey (R) | **RuthJavxn**: Mermicorn (NR), Cabbit (NFR), Undead Jousting Horse (FR) ×2, Jekyll Hydra (R), Goose (R), Peppermint Penguin (FR), Pelican (FR), Prismatic Butterfly (N), Frostbite Bear (FR), Sugar Glider, Candyfloss Chick (NFR), Gaelic Fae (NR), Bald Eagle |
+| 13:15 | **Zzz_64671**: Fly-A-Pet Potion ×2 | **Alllllkos**: Ride-A-Pet Potion ×4 |
+| 13:15 | **evieebunnii**: Ride-A-Pet Potion | **6k_minss**: Admin Abuse Egg ×18 |
+| 13:15 | **qngelicalz**: Ride-A-Pet Potion | **roblox_user_1554000708**: Frosty Glow Mega Neon Paint |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
