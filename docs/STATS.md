@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 00:41 UTC by the scrape workflow._
+_Updated 2026-11-20 00:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 00:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 22,688 | 2026-11-20T00:30 |
-| elve | 10 | 4,534 | 2026-11-20T00:31 |
+| amvgg | 10 | 22,936 | 2026-11-20T00:45 |
+| elve | 10 | 4,576 | 2026-11-20T00:46 |
 
-## AMVGG completed trades: 37,802 total
+## AMVGG completed trades: 37,826 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 109 |
+| 2026-11-20 | 133 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 00:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:40 | **Y0UFAIL3D**: Rainbow Stroller | **Lofi95775**: Pet Handler Pro Certificate |
-| 00:40 | **T3bas1**: Cryptid, Cabbit (FR) | **numbedsorrow**: Evil Unicorn (FR), Undead Jousting Horse (R) |
-| 00:40 | **bassie123284**: Shark Puppy (NFR), Lion Cub, Arctic Dusk Dragon (NFR), Fly-A-Pet Potion, Pupcicle | **kaylamicmi**: Strawberry Shortcake Bat Dragon (FR) |
-| 00:40 | **SmolbeanxEggyman**: Cake Friend (MFR), T-Rex (NFR), Lobster (M), Fly-A-Pet Potion, Ride-A-Pet Potion | **Xxfortnite401kxX**: Turtle (FR) |
-| 00:40 | **dethxhellgrl**: Ride-A-Pet Potion | **Panci_Terbang33**: Retired Egg ×18 |
-| 00:40 | **Just_Kerri4nnnnn**: Tio De Nadal | **bob4_boy**: Binturong (MFR) |
-| 00:40 | **E_RockLOVE123**: Dango Penguins (MFR), Frost Unicorn (FR), Fly-A-Pet Potion ×2 | **koeinaway1**: Cow (NFR) |
-| 00:40 | **1994_Speed**: Admin Abuse Egg ×11, Admin Abuse Box | **TomasinRBX_13**: Pupcicle |
-| 00:36 | **jellycatmar**: Binturong (MFR) | **mah_kkh**: Panda (MFR) |
-| 00:36 | **Lluvvmiles**: Strawberry Shortcake Bat Dragon (FR) | **WinYari2**: Cow (FR), Cabbit (FR) |
-| 00:36 | **numbedsorrow**: Frostbite Bear, Scarebear (MFR), Copycat ×3, Pink Betta Fish (MR), Slimingo (MR), Kitty Bat (M), Chihuahua (MR) | **S3r3nacayne**: Evil Unicorn (FR) |
-| 00:36 | **Yukiscupcake**: Snow Monkey (MFR), Spring Bunny Hood | **koeinaway1**: Mini Pig, Tiny Wings |
-| 00:36 | **mzrxxq**: Fly-A-Pet Potion, Chihuahua | **wqingss**: Amami Rabbit (N) |
-| 00:36 | **1994_Speed**: Admin Abuse Egg ×12 | **M1lKYxC00KIES**: Pupcicle |
-| 00:36 | **Arnoud_08**: Bat Dragon (NFR) | **Mopmyfoot**: Haetae (MFR), Border Collie (MFR), African Wild Dog (FR), Halo, Angel Wings, Candicorn, 2022 Birthday Cake, Unicorn Horn |
+| 00:45 | **shushu992**: Ride-A-Pet Potion ×3 | **Lvpix**: Pupcicle (N) |
+| 00:45 | **AngelKattyOwO**: Shark Puppy (NFR), Hot Doggo (FR) | **4evxer**: Cow (NFR) |
+| 00:45 | **X0LuvyouX0**: Balloon Unicorn (FR), Puffer Fish (NR), Ride-A-Pet Potion | **HaramiHUN**: Crow (FR) |
+| 00:45 | **prun_es**: Giraffe (FR), Fly-A-Pet Potion | **EliteMangoes**: Alpaca (NFR), Goat (NFR), Latte Kitsune (NFR), Kangaroo (FR), Elephant (FR), Border Collie (R), Goat, Halo, 2022 Birthday Party Hat, 2022 Birthday Party Horn, Rainbow Maker ×2, Unicorn Horn, Rain Boots |
+| 00:45 | **cannotaffordme**: Snow Monkey (M) ×2, Goose (R), Golden Walrus (M), Wooly Rhino (M) ×2, Pudding Cat (MFR), Snowball Pet (MFR) | **coolbanana_30**: Owl (FR) |
+| 00:45 | **Whonayou12**: Sushi Penguin ×2 | **iliriano0**: Fly-A-Pet Potion |
+| 00:45 | **dethxhellgrl**: Ride-A-Pet Potion | **vanteluvstaee**: Retired Egg ×18 |
+| 00:45 | **lexifox513**: Red Dutch Guinea Pig (MFR), Ram (MFR), German Shepherd (MFR) | **fluffyunicorns_932**: Ice Cream Hermit Crab (MFR), Queen Bee (MFR), Harp Seal (MFR) |
+| 00:45 | **axlqvxra_c00L**: Halloween White Ghost Dragon (FR), Dango Penguins, Kitty Biscuit | **TzxSttar**: Copycat (FR) |
+| 00:45 | **axlqvxra_c00L**: Halloween White Ghost Dragon (FR), Dango Penguins, Kitty Biscuit | **TzxSttar**: Copycat (FR) |
+| 00:45 | **A1waysB0r3d**: Toaster Hat | **auiciq_isp**: Tiny Wings |
+| 00:45 | **gifjdjchxfffjf**: Pupcicle, Glormy Leo (FR) ×2, Glormy Leo (R), Glormy Leo ×3 | **anayrp**: 2D Kitty (MFR) |
+| 00:45 | **gattitakawaii16**: Axolotl (FR), Unicorn (R), T-Rex (R), Goldhorn (FR), Dodo (R), Golden Albatross (FR), White Amazon, Business Monkey (R) | **Babyofy5**: Munchkin Cat |
+| 00:45 | **ssillymizukii**: Cryptid (NFR), Irish Water Spaniel (NFR) | **mafuyutofu**: Frost Dragon (FR) |
+| 00:45 | **ruralurbanmigration**: Haetae (MFR), Angel Wings | **Shadx_1553**: Goose (MFR) ×5 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
