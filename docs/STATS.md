@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 04:25 UTC by the scrape workflow._
+_Updated 2026-11-20 04:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 04:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 26,118 | 2026-11-20T04:15 |
-| elve | 10 | 5,166 | 2026-11-20T04:15 |
+| amvgg | 10 | 26,364 | 2026-11-20T04:30 |
+| elve | 10 | 5,225 | 2026-11-20T04:31 |
 
-## AMVGG completed trades: 38,286 total
+## AMVGG completed trades: 38,297 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 593 |
+| 2026-11-20 | 604 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 04:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:30 | **okokoknever2**: Munchkin Cat (MFR), Chocolate Chip Bat Dragon (FR), Turtle (FR) ×2, Tiny Wings | **beth_tam10ALT**: Winged Tiger (MFR) |
+| 04:30 | **valentinaajuwu**: Snowball Pet | **makaroshka_1339**: Ride-A-Pet Potion |
+| 04:30 | **wodyslol**: Arctic Reindeer (MFR), Santa Hat | **4evxer**: Cryptid (NFR), Orchid Butterfly (FR), Goose (R), Turtle (FR) |
+| 04:30 | **lvrptv**: Jester Dragon, Leopard Shark (NR), Evil Basilisk (N), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **kissofwoe**: Jester Dragon (NFR) |
+| 04:30 | **milkwars**: Cow (FR), Cow, Alpaca, Siamese Cat (R), Bush Elephant (R), Kangaroo (FR), Ride-A-Pet Potion | **Niruch_Bearly**: Balloon Unicorn (FR) |
+| 04:30 | **kaylamicmi**: Flamingo (MFR), Cow (MFR), Albino Monkey (MFR), Majestic Pony (MFR), Moose Calf (M), Alley Cat (MFR), Tortuga de la Isla (MFR) | **Spamforchristmas2**: Hedgehog (MFR) |
+| 04:30 | **DJ_4348**: Arctic Fox (FR) ×2, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Harp Seal (N) | **3uneo**: Fairy Bat Dragon |
+| 04:30 | **F4TTYMCP4TTYS**: Ride-A-Pet Potion | **MistletoeMeg**: Campfire Stories Mega Neon Paint |
+| 04:30 | **truxalot**: Flash Weasel, Fly-A-Pet Potion ×2 | **Bloop_child**: Fairy Bat Dragon (FR) |
+| 04:30 | **Benitosepultacio**: Sushi Penguin, Chihuahua, Pangolin (N) | **R4kert**: Boohoo (M) |
+| 04:30 | **Adoptmestocks3000**: Ride-A-Pet Potion | **Bobaateaaddict**: Poltergeist Box ×18 |
 | 04:25 | **guillemoran**: Shadow Dragon (FR) | **rosesarelovely20**: Haetyphoon (M) ×3, Haetyphoon ×8 |
 | 04:25 | **Heybolloboom**: Alpaca (MFR) | **Elysia_4387**: Crocodile (MFR), Unicorn Horn, Shark Puppy (MFR), Halo, 2022 Birthday Party Hat, 2022 Birthday Party Horn |
 | 04:25 | **dababis35**: Halloween Chick Box ×7 | **Panci_Terbang33**: Ride-A-Pet Potion |
 | 04:25 | **KawaiiGauges**: Fly-A-Pet Potion ×2 | **itsvaleriaotz**: Great Pyrenees (N) |
-| 04:25 | **chaluvxely**: Ghost Bunny (R) | **dollinrot**: Dango Penguins |
-| 04:25 | **Makkertjesfilmpies**: Alley Cat (MFR), Tiny Wings, Red Dutch Guinea Pig, Moon Rabbit (FR) | **HE4RTSFORELS**: Chocolate Chip Bat Dragon (FR) |
-| 04:25 | **crizz_pr0**: Blue Butterfly ×4 | **pozitivhik989**: Paint Sealer |
-| 04:25 | **asfaltoukladchik21**: Ride-A-Pet Potion, Electric Hornet | **turbo142142**: Thunderfisher (M) |
-| 04:25 | **AngelsHarxx_Lilyluvz**: Ride-A-Pet Potion, River Otter (M), Crystal Egg | **h4_cd**: Pet Handler Pro Certificate |
-| 04:25 | **Gamechar1015**: Parrot (FR), Turtle (FR), Rain Cloud Hat, Ride-A-Pet Potion | **wekwew70**: Owl (FR) |
-| 04:25 | **Papa_Ghost94**: Fly-A-Pet Potion | **opazoopazo7779**: Skelicorn ×18 |
-| 04:25 | **Papa_Ghost94**: Pet Handler Pro Certificate | **opazoopazo7779**: Skelicorn ×18 |
-| 04:25 | **TMDung20**: Bready Necklace | **uqxiyeol**: Ride-A-Pet Potion |
-| 04:25 | **johnmark121004**: Brown Bear (NFR), Ice Golem (FR), Frostclaw (N), Ancient Dragon (R) | **imthebigbird97**: Kangaroo (FR) |
-| 04:25 | **lvrptv**: Irish Setter (M), Nurse Shark (M) | **LotusEr11**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
