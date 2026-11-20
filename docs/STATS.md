@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 04:31 UTC by the scrape workflow._
+_Updated 2026-11-20 04:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 04:31 UTC by the scrape workflow._
 | amvgg | 10 | 26,364 | 2026-11-20T04:30 |
 | elve | 10 | 5,225 | 2026-11-20T04:31 |
 
-## AMVGG completed trades: 38,297 total
+## AMVGG completed trades: 38,315 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 604 |
+| 2026-11-20 | 622 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 04:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:30 | **okokoknever2**: Munchkin Cat (MFR), Chocolate Chip Bat Dragon (FR), Turtle (FR) ×2, Tiny Wings | **beth_tam10ALT**: Winged Tiger (MFR) |
-| 04:30 | **valentinaajuwu**: Snowball Pet | **makaroshka_1339**: Ride-A-Pet Potion |
-| 04:30 | **wodyslol**: Arctic Reindeer (MFR), Santa Hat | **4evxer**: Cryptid (NFR), Orchid Butterfly (FR), Goose (R), Turtle (FR) |
-| 04:30 | **lvrptv**: Jester Dragon, Leopard Shark (NR), Evil Basilisk (N), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **kissofwoe**: Jester Dragon (NFR) |
-| 04:30 | **milkwars**: Cow (FR), Cow, Alpaca, Siamese Cat (R), Bush Elephant (R), Kangaroo (FR), Ride-A-Pet Potion | **Niruch_Bearly**: Balloon Unicorn (FR) |
-| 04:30 | **kaylamicmi**: Flamingo (MFR), Cow (MFR), Albino Monkey (MFR), Majestic Pony (MFR), Moose Calf (M), Alley Cat (MFR), Tortuga de la Isla (MFR) | **Spamforchristmas2**: Hedgehog (MFR) |
-| 04:30 | **DJ_4348**: Arctic Fox (FR) ×2, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Harp Seal (N) | **3uneo**: Fairy Bat Dragon |
-| 04:30 | **F4TTYMCP4TTYS**: Ride-A-Pet Potion | **MistletoeMeg**: Campfire Stories Mega Neon Paint |
-| 04:30 | **truxalot**: Flash Weasel, Fly-A-Pet Potion ×2 | **Bloop_child**: Fairy Bat Dragon (FR) |
-| 04:30 | **Benitosepultacio**: Sushi Penguin, Chihuahua, Pangolin (N) | **R4kert**: Boohoo (M) |
-| 04:30 | **Adoptmestocks3000**: Ride-A-Pet Potion | **Bobaateaaddict**: Poltergeist Box ×18 |
-| 04:25 | **guillemoran**: Shadow Dragon (FR) | **rosesarelovely20**: Haetyphoon (M) ×3, Haetyphoon ×8 |
-| 04:25 | **Heybolloboom**: Alpaca (MFR) | **Elysia_4387**: Crocodile (MFR), Unicorn Horn, Shark Puppy (MFR), Halo, 2022 Birthday Party Hat, 2022 Birthday Party Horn |
-| 04:25 | **dababis35**: Halloween Chick Box ×7 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 04:25 | **KawaiiGauges**: Fly-A-Pet Potion ×2 | **itsvaleriaotz**: Great Pyrenees (N) |
+| 04:40 | **tjandhannah34**: Siamese Cat (FR) | **KoTuK_176**: Dragonfruit Fox (NR), Dango Penguins (NR) |
+| 04:40 | **fayeandwho**: Alpaca (MFR), Jellyfish, Tiny Wings, Ride-A-Pet Potion ×2 | **xezviii**: Mini Pig (MFR) |
+| 04:40 | **xx_xxbummrr**: Rainbow Stroller | **MoMtobias**: Amethyst Skies Mega Neon Paint |
+| 04:40 | **3amlaufey**: Pet Handler Pro Certificate | **Bewiitchdd**: Pupcicle ×3 |
+| 04:40 | **stoIencorpses**: Fly-A-Pet Potion ×12 | **faikubjotch**: Grim Dragon (FR) |
+| 04:40 | **thesuperkid0**: Turtle Doves (MR) | **dnei30fast**: Fly-A-Pet Potion |
+| 04:40 | **faikubjotch**: Polar Bear (NR) | **Moonlight_Sun33**: Fly-A-Pet Potion ×7 |
+| 04:40 | **Bumble_Lou**: Purrowl ×3 | **nellik_karomelik**: Retired Egg ×18 |
+| 04:40 | **esabella0_o**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) | **fayeandwho**: Balloon Unicorn (FR), Ride-A-Pet Potion ×2 |
+| 04:40 | **yelllley8**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×2 | **TANSKlN**: Cow (FR) ×2 |
+| 04:40 | **thesuperkid0**: Pupcake (N) | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 04:40 | **TacR_ToP7001**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Vanilla Penguin | **Elis_thxx**: Arctic Reindeer (FR) |
+| 04:40 | **ldfeeode**: Crow (NFR), Parrot (NFR), Haetae (R), Crocodile (NFR), Pig, Ride-A-Pet Potion | **4evxer**: Bat Dragon (FR) |
+| 04:40 | **Babyofy5**: Winged Tiger (FR), Pain au Chat | **KIWIGrbx**: Frost Phoenix (FR), Pupcicle (FR), Leopard Shark (R), Tuxedo Cat (R), Kitty Bat (FR), Frostbite Cub (NFR), Alley Cat (R) |
+| 04:40 | **faikubjotch**: Goth Shoes, Cherry Blossom Flower Sticker | **cliuic**: Ride-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
