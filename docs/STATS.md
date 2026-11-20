@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 21:31 UTC by the scrape workflow._
+_Updated 2026-11-20 21:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 21:31 UTC by the scrape workflow._
 | amvgg | 10 | 42,039 | 2026-11-20T21:30 |
 | elve | 10 | 8,708 | 2026-11-20T21:31 |
 
-## AMVGG completed trades: 41,335 total
+## AMVGG completed trades: 41,371 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,642 |
+| 2026-11-20 | 3,678 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 21:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:30 | **melinaftu**: Munchkin Cat (MFR), Ghost Dog (M) | **blankblank_gone**: Cryptid (FR) |
-| 21:30 | **Pancakes7240**: Groundhog (MFR), Hare (MFR), Cheetah (MFR), Cow (FR), Goose, Goat (NR), Unicorn Horn, Border Collie (R), Matcha Cat, Spring Bunny Hood, Fly-A-Pet Potion, Blue Boohoo Mega Neon Paint, Candyfloss Mega Neon Paint, Rose Quartz Glow Mega Neon Paint, Amethyst Skies Mega Neon Paint, Campfire Stories Mega Neon Paint, Velvet Fuchsia Mega Neon Paint ×2 | **Markopolisen9**: Crow (NFR) |
-| 21:30 | **Zephyr1930**: Frozen Penguin, Kakapo (N) | **charbellplays**: Paint Sealer |
-| 21:30 | **Mama_mama978**: Evil Unicorn (FR), Hot Doggo, Albino Monkey (FR), Ride-A-Pet Potion | **ammadOwO2**: Crow (FR) |
-| 21:30 | **AutoTradeCommission**: Fly-A-Pet Potion ×4 | **stoIencorpses**: Diamond Unicorn (M) |
-| 21:30 | **b3autifulpoisxn**: Endangered Egg ×18 | **Lotteisking**: Paint Sealer ×6 |
-| 21:30 | **aleks2u**: Chocolate Chip Bat Dragon (FR), Cow (FR), Ride-A-Pet Potion | **adopmetrede0**: Evil Unicorn (FR) |
-| 21:30 | **Synx_backupacc**: Alpaca (MFR), Cabbit (MFR), Alpaca (NR), Harp Seal (MR), Cabbit (R), Tiny Wings | **Xxskibidy67**: Bat Dragon (FR) |
-| 21:30 | **tiffney24**: Paint Sealer | **Not_thedevilUwU**: Fairytale Egg ×3 |
-| 21:30 | **Lucky_may67**: Ride-A-Pet Potion ×11, Fly-A-Pet Potion, Pet Handler Pro Certificate ×4, Jeff's Nametag | **Z_Alexis22**: Alpaca (FR) |
-| 21:30 | **Robloksersha666piska**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **HuGe_123cAt**: Santa Hat |
-| 21:30 | **fartronic_3**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (NFR), Peppermint Penguin (FR), Cow (FR) | **lifeisMAGIC003**: Owl (FR) |
-| 21:30 | **Evelina22super**: Fly-A-Pet Potion | **s1vurn**: Tealwood Monster (MR) |
-| 21:25 | **tommylikeroblox2009**: Electric Hornet | **oOWilDig0n0oO**: Retired Egg ×6 |
-| 21:25 | **clumhsy**: S'mores Raccoon (MFR), Sushi Penguin (NR), Maine Coon (MFR), Dango Penguins | **mylolovescats**: Munchkin Cat (NFR) |
+| 21:40 | **rosa8700b**: Snow Monkey | **guiltyaya**: Dragonfruit Fox |
+| 21:40 | **Roblox_1Gal**: Strawberry Shortcake Bat Dragon (FR), Flaming Fox (NR), Brown Bear (R), Brown Bear, Castle Hermit Crab (MFR), Count Slothula (MFR), Sakura Spirit (R), Sheeeeep (R), English Sheepdog (NFR), Candy Hare (R), Giant Gold Scarab (R), Giant Black Scarab (MR), Chihuahua (N), Water Rabbit (N), Skele-Rex (NFR), Kiwi Kiwi, Dragonfruit Fox, Ride-A-Pet Potion | **XxGh0stNs4tan_Ax3lxX**: Balloon Unicorn (FR) |
+| 21:40 | **9vvdx**: Tuxedo Cat (MFR), Peach Owl (MFR) | **juandxmm2**: Mini Pig (FR) |
+| 21:40 | **cowicutesy**: Cow, Cabbit (FR), Spring Bunny Hood | **ELL4SV1BEY**: Chocolate Chip Bat Dragon (FR) |
+| 21:40 | **F0xNinja**: Stray Cat Dragon ×8, Paint Sealer | **Djdjyehsk**: Skelicorn ×8 |
+| 21:40 | **skullteast**: Pupcicle (MFR), Lion (FR), Candicorn, Munchkin Cat (R), Hare (NR) | **renalavani**: Strawberry Shortcake Bat Dragon (FR) |
+| 21:40 | **valeeu123654**: Chocolate Chip Bat Dragon (FR), Turtle (FR) | **D8RYY**: Dalmatian (FR) |
+| 21:40 | **Coralmnm**: Ride-A-Pet Potion | **HuGe_123cAt**: Purrowl ×12 |
+| 21:40 | **sirnasikkedioz**: Yeti (MR) | **fygramvgg**: Albino Monkey (FR) |
+| 21:40 | **Delulufutiful**: Spring Bunny Hood | **brbrpatapimmm310**: Monkey King Crown, 2022 Birthday Confetti Drape, Bat Wings, Thinking Hat |
+| 21:40 | **AyiGamerUwu**: Pink Butterfly Wings, Chick Hat, Gold Circle Glasses | **alik_28429**: Pupcicle |
+| 21:40 | **943049209d**: Fly-A-Pet Potion ×4 | **DragonjJDusta107130**: Pig |
+| 21:40 | **alik_28429**: Jester Dragon (R), Halloween White Ghost Dragon (FR), Cerberus (R), Skelicorn (N), Dragonfruit Fox, Fly-A-Pet Potion, Ride-A-Pet Potion ×4, Zombie Wolf, Rosy Maple Moth (N) | **Da44ikXD**: Strawberry Shortcake Bat Dragon (FR) |
+| 21:40 | **JuliashaMeow**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 | **departedlifecrisis**: Peppermint Penguin (FR), Unicorn |
+| 21:40 | **assapickle**: Feesh | **P3nnyTheR4t**: Kid Goat (N) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
