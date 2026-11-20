@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 01:25 UTC by the scrape workflow._
+_Updated 2026-11-20 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 01:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 23,404 | 2026-11-20T01:15 |
-| elve | 10 | 4,638 | 2026-11-20T01:15 |
+| amvgg | 10 | 23,659 | 2026-11-20T01:30 |
+| elve | 10 | 4,681 | 2026-11-20T01:31 |
 
-## AMVGG completed trades: 37,922 total
+## AMVGG completed trades: 37,934 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 229 |
+| 2026-11-20 | 241 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 01:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:30 | **CharlesJo4**: Strawberry Tortle, Ride-A-Pet Potion | **KittyBatty67**: Candicorn (R), Pig (FR), Fly-A-Pet Potion |
+| 01:30 | **B282728**: Platypus, Fly-A-Pet Potion, Ride-A-Pet Potion | **Adoptmetakc**: Strawberry Shortcake Bat Dragon Backpack |
+| 01:30 | **B282728**: Unicorn (NFR), Platypus, Ride-A-Pet Potion | **Adoptmetakc**: Albino Bat (M) |
+| 01:30 | **B282728**: African Wild Dog (FR), Winged Tiger (FR), Fly-A-Pet Potion | **Adoptmetakc**: Chocolate Chip Bat Dragon (NFR) |
+| 01:30 | **0n1yAlaina**: Tarsier (MR), Ride-A-Pet Potion, Pupcicle | **Yelena_nat820**: King Bee (MR) |
+| 01:30 | **coolguy192459**: Frost Dragon (FR), Diamond Butterfly (FR), Kangaroo (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **auzreti**: Crow (NFR) |
+| 01:30 | **lolojojo10o**: Peach Owl (MFR), Catte (MFR) ×2, French Bulldog (MFR), Ice Cream Hermit Crab (MFR), Red Squirrel (MFR), Tarsier (MR) | **DoughnutDucks**: Goat (MFR) |
+| 01:30 | **Omar2002548**: Midnight Dragon (FR) | **Vkxilol**: Midnight Dragon |
+| 01:30 | **LaZy_PoPtArTs**: Arctic Fox (MFR), Puffin (NFR) | **Vanny_Vanessa30**: Copycat (MFR) |
+| 01:30 | **giyuncuring**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **xSxaz00**: Unicorn Backpack, Cotton Candy Hat |
+| 01:30 | **lipton_milksh**: Cow (FR), Fairy Bat Dragon, Drake ×4 | **fakeaccountfortr**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:30 | **Strawberryxm0cha**: Mini Pig (R) | **Vkxilol**: Siamese Cat (R), Candicorn (FR) |
 | 01:25 | **the3reveng**: Cozy Mistletroll ×4 | **AsmioTakeW**: Ride-A-Pet Potion |
 | 01:25 | **beatsvic**: Elasmosaurus (M) ×2, Clementine Owl (MFR), Lion (FR), Copycat, Summer Walrus (MR) | **kaylamicmi**: Turtle (R), Albino Monkey (FR) |
 | 01:25 | **jessie4isaac**: Kangaroo (NFR), Albino Monkey (FR), Irish Elk (M), Snowball Pug (MFR), Kangaroo (FR) ×2, Spring Bunny Hood, Turtle (FR), Pelican (FR), Royal Mistletroll (R), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon | **xKashaf**: Frost Dragon (FR) |
-| 01:25 | **xx_xxbummrr**: Halo, Tiny Wings, Ride-A-Pet Potion ×2 | **kaylamicmi**: Dragonfruit Fox (MFR) |
-| 01:25 | **baconandchicken007**: Pupcicle (N), Owlbear | **sprinkll_bat**: Munchkin Cat |
-| 01:25 | **Paletazow**: Alpaca (MFR), Giant Panda (FR) | **slushymynoobs**: Balloon Unicorn (NFR) |
-| 01:25 | **Disney_child55**: Groundhog | **lildaminii**: Pet Handler Pro Certificate ×2 |
-| 01:25 | **ivrquiz**: Cow (FR), Pupcicle (MFR) | **selensecretacc**: Mini Pig (FR) |
-| 01:25 | **Itsme_Jaliyahh**: Cabbit, Ride-A-Pet Potion, Tree Sasquatch (M), Velvet Fuchsia Mega Neon Paint | **Msmsmsmsjmsmsm8**: Tarsier (MR), Royal Palace Spaniel (MR), Pudding Cat (MR), Green Amazon (MFR) |
-| 01:25 | **Kaylamadetorock**: Pupcake (MFR), Happy Duckling (MFR) | **Callmehjolly3**: Unicorn Horn |
-| 01:25 | **bgfjm6fytfthfjytjkhb**: Siamese Cat (MFR) | **Sadieworldz**: Munchkin Cat (MFR), Harp Seal (MFR), Lynx (MFR) |
-| 01:25 | **ytw2099**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×5 | **Lynnn12340**: Kangaroo (R) |
-| 01:25 | **terrylonsoyjerry**: Cabbit (R), Copycat | **Xxskibidy67**: Halo |
-| 01:25 | **minimal_juasjuas**: Vanilla Penguin (NFR), Vol. 2 Pets Plus Sticker Pack ×2 | **aniwe57**: Matcha Cat (R) |
-| 01:25 | **kaomjiji**: Flash Weasel, Ride-A-Pet Potion | **M1dnight_v0id52**: Alley Cat (NR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
