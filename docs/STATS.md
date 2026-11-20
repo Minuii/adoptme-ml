@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 22:16 UTC by the scrape workflow._
+_Updated 2026-11-20 22:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 22:16 UTC by the scrape workflow._
 | amvgg | 10 | 42,809 | 2026-11-20T22:15 |
 | elve | 10 | 8,888 | 2026-11-20T22:15 |
 
-## AMVGG completed trades: 41,489 total
+## AMVGG completed trades: 41,501 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,796 |
+| 2026-11-20 | 3,808 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 22:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:20 | **FrNotSummer**: German Shepherd (M), Great Pyrenees (MFR), 2022 Birthday Party Horn | **Shhdhehdneirjndnd**: Egg Stroller |
+| 22:20 | **Artem_21a2**: Candyfloss Chick (FR), Fly-A-Pet Potion ×2 | **Maylove_196orhidea76**: Turtle (FR) |
+| 22:20 | **tannerisaprincess**: Dango Penguins, Red Dutch Guinea Pig, German Shepherd (N) | **milltsk**: Munchkin Cat |
+| 22:20 | **Zeyqvz**: African Wild Dog (FR), Parrot (FR), Chocolate Chip Bat Dragon (FR), Cow (FR) | **Penny_isa2**: Crow (NFR), Kangaroo (R), Munchkin Cat, Cow, Ride-A-Pet Potion |
+| 22:20 | **holixd489632**: Diamond Amazon (R) | **0002000200020021LIA4**: Ride-A-Pet Potion ×5 |
+| 22:20 | **roninbeautfort**: Christmas Pudding Pup (R), Aurora Fox (R), Fly-A-Pet Potion | **emsgrax**: Pupcicle (M) |
+| 22:20 | **kaibodydump**: Peppermint Penguin (NFR), Fly-A-Pet Potion | **MOIK0K**: Cryptid (FR), Pupcicle (M) |
+| 22:20 | **Kxh7k**: French Bulldog, Pancake Stack, Spring Bunny Nose | **JhanKiwin**: Ice Cream Cone Hat |
+| 22:20 | **siesie09_x**: Strawberry Shortcake Bat Dragon (NFR), Siamese Cat (NFR), Sheeeeep (NR), Frost Unicorn (FR), Siamese Cat (R), Unicorn Horn, Goose (R), Pig (R), Pink Cat Ear Headphones | **veildesire**: Cabbit (MFR) |
+| 22:20 | **Milcia723**: Ride-A-Pet Potion ×6 | **Kredi150**: Sheeeeep (FR) |
+| 22:20 | **Omar2002548**: Winged Tiger (R), Stray Cat Dragon, Skelicorn, Crystal Egg ×4, Admin Abuse Egg ×4, Throwback Egg ×7 | **DILGERDAV**: Winged Tiger |
+| 22:20 | **mikiroqz**: Toaster Hat, 2022 Birthday Confetti Cannon, Tiny Wings | **lili270811**: Cabbit (R), Goth Shoes, Ride-A-Pet Potion |
 | 22:15 | **iamfoxy2008**: Irish Water Spaniel (FR), Matcha Cat (R), Owlbear, Red Dutch Guinea Pig | **bestfriend373737**: Unicorn Horn, Spring Bunny Nose, Koi Carp |
 | 22:15 | **xxxxproxxxx5500**: Ice Cream Cone Hat | **captaincream74**: Santa Hat |
 | 22:15 | **unilums**: Fly-A-Pet Potion ×4 | **0mgJose**: Haetyphoon |
-| 22:15 | **locked_inrn54**: Pupcicle | **Tomas_will18**: Admin Abuse Egg ×15, Glormy Crab, Sunglider |
-| 22:15 | **zeusgray24**: Bush Elephant (NFR) | **zeejnaa**: Cow (FR), Turtle (FR) |
-| 22:15 | **milanakim12**: Mini Pig (MFR) | **Berryavenueslag**: Siamese Cat (MFR), Goose (NFR), Chocolate Dutch Guinea Pig (MFR), Golden Chow-Chow (MFR), Happy Clam (MFR) |
-| 22:15 | **Gnkhfcd**: Ride-A-Pet Potion ×11, Fly-A-Pet Potion ×3, Ratatoskr (M) | **DragonjJDusta107130**: Kangaroo (FR) |
-| 22:15 | **valeeu123654**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **starofthe555**: Dalmatian (FR) |
-| 22:15 | **puredl0vee**: Border Collie (MFR), Sakura Spirit (MFR), Field Mouse (MFR) | **Rbd_JP**: Goat (MFR), Sheeeeep (MFR) |
-| 22:15 | **Henrique54626**: Owlbear (NR), Pandaguin Glooptodog (M) | **GI4MMAGL4SMX0**: Kangaroo (FR) |
-| 22:15 | **FadeToBlackCat**: Lynx (MFR), Dragonfruit Fox (N), Giant Anteater | **TheGamerNoob555Xd**: Peppermint Penguin |
-| 22:15 | **vnessiia**: Moose Calf (MFR), Cake Friend (MR) | **Niloyaaboba**: Chocolate Dutch Guinea Pig (MFR), Ram (MFR), Shark Puppy (R) |
-| 22:15 | **sun1zzzo**: Kangaroo (R), Therapy Dog (N), Kiwi Kiwi, Royal Fairytale Egg | **Lera_253507**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×5 |
-| 22:15 | **kpopdemonhunterzeo**: Giraffe (FR), German Shepherd, Ride-A-Pet Potion | **Moqqiz**: Mini Pig (MFR) |
-| 22:15 | **kirumba_768**: Ginger Cat (N), Robot (N), Ladybug (N) | **Popa67742**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
