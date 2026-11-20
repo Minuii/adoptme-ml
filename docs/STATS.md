@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 12:01 UTC by the scrape workflow._
+_Updated 2026-11-20 12:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 12:01 UTC by the scrape workflow._
 | amvgg | 10 | 33,109 | 2026-11-20T12:00 |
 | elve | 10 | 6,679 | 2026-11-20T12:01 |
 
-## AMVGG completed trades: 39,236 total
+## AMVGG completed trades: 39,266 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,543 |
+| 2026-11-20 | 1,573 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:00 | **danyypizza121**: Snowball Pet (NFR) | **YAJAIRA289**: Red Dutch Guinea Pig |
-| 12:00 | **kittiemiss**: Rainbow Maker, Ghost (MFR), Sugar Glider (R) | **zarmeowz**: Alpaca (NFR) |
-| 12:00 | **TYTkuza2**: Kangaroo (FR) | **Wolfie4567ty**: Ride-A-Pet Potion ×17 |
-| 12:00 | **reenaw11**: Winged Horse (MFR) | **Dobbyplok**: Burger Bear (MFR) |
-| 12:00 | **Qwertyni07**: Cake Friend (R), Sloth (R), Diamond Dragon (R) | **Mary_202401**: Ride-A-Pet Potion ×2 |
-| 12:00 | **wq_xil**: Ride-A-Pet Potion | **komod4562**: Unicorn |
-| 12:00 | **Kit_tblmamymav1**: Hamster (MR) | **4revolutions**: Ride-A-Pet Potion ×4 |
-| 12:00 | **coqoqek**: Kangaroo (FR), Patchy Bear (M), Ride-A-Pet Potion | **Crystal_andLisa**: Candyfloss Chick (FR) |
-| 12:00 | **K_KLOPQ**: Turtle (FR), Candicorn, Tortuga de la Isla (N), Mermicorn, Amami Rabbit (MR), Toxic Kaijunior (MR) | **leruval**: Evil Unicorn (FR) |
-| 12:00 | **pawthetiic**: Donkey (M), Ocelot (M), Galaxy Explorer Helmet | **JULI_LOVE48**: Ride-A-Pet Potion |
-| 12:00 | **skibidimarzenkauwu**: Owl (NFR), Cow (NFR) | **Dodo_DelRey**: Shadow Dragon (FR) |
-| 12:00 | **chrmbunnie**: Endangered Egg ×10, Royal Fairytale Egg ×2, Pandaguin Glooptodog (N), Clumpty (N), Shih Tzu (N), Camel (N), Budgie Witch (N), Poltergeist Box | **llPizza_Eaterll**: Ride-A-Pet Potion |
-| 12:00 | **Amvgtrading5**: Apple Owl (MFR), Golden Chow-Chow (MFR) | **SantiGlam0**: Moose Calf (MFR) |
-| 12:00 | **konma7777**: Ghost (M) | **Xxsunflower_watherxX**: Ride-A-Pet Potion |
-| 12:00 | **kok225677**: Cobra (FR) ×2 | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
+| 12:11 | **blossopeony**: Retired Egg ×12 | **Ineffa08**: Starfish ×6 |
+| 12:11 | **Sarah_dzalg**: Snow Owl (MFR) | **crazycattan16**: Rain Cloud Hat |
+| 12:11 | **okayamerplay**: Giraffe (FR), Mini Pig (FR), Unicorn Horn, Albino Monkey (NFR), Elephant (R), Frog (MFR), Many Mackerel (R), Midnight Dragon (NFR), Pretty Pony (NFR), French Bulldog (N), Hyena, Latte Kitsune, Goat, Gecko (N), Fly-A-Pet Potion, Samoyed (N), Ride-A-Pet Potion | **Kiandra13kiandra**: Shadow Dragon (FR) |
+| 12:11 | **caritoo_zmor**: Werewolf (R) | **luxsdomain**: Ride-A-Pet Potion ×16 |
+| 12:11 | **caritoo_zmor**: Peppermint Penguin | **luxsdomain**: Fly-A-Pet Potion ×16 |
+| 12:11 | **dghhh45900**: Strawberry Shortcake Bat Dragon (FR), Zombie Wolf (MFR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **amvggalt1**: Hedgehog (FR) |
+| 12:11 | **Vanlyzn26**: Crystal Egg ×14 | **altttaaaaacccaa**: Ride-A-Pet Potion |
+| 12:11 | **biq_at222**: Black Macaque (MFR), Blue Ringed Octopus (MFR), Gaelic Fae (MFR), French Bulldog (MFR), Harp Seal (MFR) | **SlL3NTHILL**: Yule Log Dog (MFR) ×2, Frost Phoenix (MFR) |
+| 12:11 | **mdmdnkevsjsvaj**: Gumball Caterpillar (R) | **U1WEST0**: White Choccybunny (R) |
+| 12:11 | **3busl**: Munchkin Cat (MR), Mini Pig (FR), Frostbite Bear (FR) ×2, Frostbite Bear, Albino Monkey (FR) | **leruval**: Owl (FR) |
+| 12:11 | **Masha133_love**: Hedgehog (FR), Zombie Wolf, Gemstone Egg, Mighty Haetyphoon Animated Sticker, Dance Arcade Stand | **KXNlol**: Evil Unicorn (FR) |
+| 12:11 | **Perawat_123**: Chihuahua (N) | **izzyxovibe**: Fly-A-Pet Potion |
+| 12:11 | **itzreweris**: Ride-A-Pet Potion | **HadyTheOneAndOnly**: Elf Hat |
+| 12:11 | **Pumkin3588**: Matcha Cat | **Candy_Cats73**: Arctic Dusk Dragon (R) |
+| 12:11 | **KinaToons**: Giraffe (FR), Turtle (FR), Pig (NFR), Unicorn Horn ×3, Kangaroo (FR), Border Collie, Kitty Bat (MR), Frostbite Cub (MR), Toaster Hat, Blue Ringed Octopus (M), Ride-A-Pet Potion | **Kiandra13kiandra**: Shadow Dragon (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
