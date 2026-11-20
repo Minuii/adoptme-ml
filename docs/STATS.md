@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 10:01 UTC by the scrape workflow._
+_Updated 2026-11-20 10:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 10:01 UTC by the scrape workflow._
 | amvgg | 10 | 31,323 | 2026-11-20T10:00 |
 | elve | 10 | 6,247 | 2026-11-20T10:01 |
 
-## AMVGG completed trades: 38,941 total
+## AMVGG completed trades: 38,961 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,248 |
+| 2026-11-20 | 1,268 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 10:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:00 | **mario1209z1**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×4 | **iamnoonetobehere**: Alpaca (FR) |
-| 10:00 | **ROBLOX379830**: Skelicorn (MR) | **AgaT_Wayy**: Fly-A-Pet Potion ×2 |
-| 10:00 | **R3alBznix**: Pupcicle | **vryxsian**: Count Slothula |
-| 10:00 | **XxElmmzxX**: Christmas Pudding Pup | **kica55**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 10:00 | **LALAwp7**: Haetyphoon | **SleepySxturnn**: Munchkin Cat (R), Amethyst Skies Mega Neon Paint |
-| 10:00 | **Matejusko789**: Oryx (MR), Blossom Snake (MFR), Angus Bull (M), Zebra (MR), Milk Choccybunny (M), Ninja Monkey (FR), Wild Boar (R) | **victoria95YTpt19za09**: French Bulldog (M) |
-| 10:00 | **fr_alex8**: Giant Panda (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6, Pandaguin Glooptodog (M) | **add_mymaintotrademe**: Parrot (FR) |
-| 10:00 | **roblox_user_4753536563**: Fly-A-Pet Potion | **R4kert**: Sushi Penguin ×2 |
-| 10:00 | **1ovIIy**: Turtle (FR), Jester Dragon (NFR), Ride-A-Pet Potion, Haetyphoon, Halloween White Skeleton Dog (MR) | **Wxndxrxt**: Strawberry Shortcake Bat Dragon (FR) |
-| 10:00 | **Cute_CocoMouse**: Fairy Bat Dragon, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Eaten Donut | **xxxUwUxxx3008**: Cow (R) |
-| 10:00 | **OnlyMeNinik**: Strawberry Shortcake Bat Dragon (NFR), Fly-A-Pet Potion, Cat | **KIWIGrbx**: Balloon Unicorn (FR) |
-| 10:00 | **monstrrr6565**: Chihuahua ×2, Pain au Chat | **Kinia756**: Ride-A-Pet Potion |
-| 10:00 | **V4mp_Z4yd3n**: Red Crowned Crane, Magma Moose, Ruddy Duck, Blue Cat, Kaijunior, Shoebill, Beluga Whale, Stingray, Garden Snake, Ground Sloth, Snorgle, Oakee, Chickatrice, Borhyaena Gigantica, Pilot Gull, Halloween White Mummy Cat, Mummy Spider, Angus Cow | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 10:00 | **eseniiis**: Grim Dragon (R), Fallow Deer (R), Harp Seal, Choco Penguin ×3, Gemstone Egg | **XxElmmzxX**: Fairy Bat Dragon (FR) |
-| 10:00 | **princess_pizzanice**: Dragonfruit Fox (NFR), Capricorn (N), Zombie Buffalo, Zombie Wolf, Unicorn | **p_awth**: Turtle (R) |
+| 10:11 | **OnlyMeNinik**: Balloon Unicorn (FR) ×3, Siamese Cat, Pig (FR) | **Vansderrl**: Frost Dragon (NFR) |
+| 10:11 | **vkclay**: Dumpling Friend Hat | **sl100xxxx**: Ride-A-Pet Potion |
+| 10:11 | **Elf_Deme**: Ring-Tailed Lemur (MFR), Chocolate Chip Bat Dragon Backpack | **Dessertsandfoods**: Arctic Fox (MFR) |
+| 10:11 | **Goodbyes26**: Gemstone Egg ×2 | **dudukaAdoptme2016**: Pupcicle |
+| 10:11 | **Pruazes1**: Haetyphoon | **abrei2**: Ride-A-Pet Potion ×9 |
+| 10:11 | **Fabigenialol**: Christmas Pudding Pup | **NotSweatyOnion**: Ice Cream Cone Hat |
+| 10:11 | **Momopolo209**: Ride-A-Pet Potion | **pluma_elgato2**: Cattuccino, Diamond Unicorn, Kelp Raider Box ×3 |
+| 10:11 | **V4mp_Z4yd3n**: Indian Leopard (N), Beluga Whale (N), Wolpertinger (N) | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 10:06 | **Li0nH3r086**: Evil Unicorn (R), Strawberry Shortcake Bat Dragon, Cow (FR) ×2, Siamese Cat (R), Albino Monkey (FR), Lion Cub (FR) | **TulipPetal_1**: Frost Dragon (FR) |
+| 10:06 | **wsiaxx00s**: Kangaroo (FR), Elephant (FR), Ride-A-Pet Potion | **yanchik0067**: Goose (FR) |
+| 10:06 | **qwerk2222**: Phantom Dragon | **Yumi_Rose8**: Ride-A-Pet Potion ×5 |
+| 10:06 | **qwerk2222**: Lion Cub (R) | **doomer780**: Phantom Dragon |
+| 10:06 | **SpinsStars_8**: Tasmanian Devil (NR) | **afissamuzfirah**: Fly-A-Pet Potion, Chihuahua |
+| 10:06 | **Holybanana400**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Golden Walrus Crown, Ferris Wheel Hat | **meibel_psycho**: Arctic Fox (FR) |
+| 10:06 | **Vitamirka**: Pain au Chat ×3 | **vivisam1100**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
