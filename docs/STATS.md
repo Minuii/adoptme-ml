@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 15:16 UTC by the scrape workflow._
+_Updated 2026-11-20 15:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 15:16 UTC by the scrape workflow._
 | amvgg | 10 | 35,999 | 2026-11-20T15:15 |
 | elve | 10 | 7,387 | 2026-11-20T15:16 |
 
-## AMVGG completed trades: 39,888 total
+## AMVGG completed trades: 39,945 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 2,195 |
+| 2026-11-20 | 2,252 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 15:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:11 | **P4wzuii**: Candyfloss Chick (NFR) | **Ebonyaqt**: Munchkin Cat (NFR), 2022 Birthday Cupcake Shoes ×2, Spring Bunny Feet |
-| 15:11 | **Supermen0157**: Chameleon | **Zoomek62**: Christmas Pudding House |
-| 15:11 | **amyggvaI**: Strawberry Shortcake Bat Dragon (NFR) ×2 | **Robloxiand3i0y7p1c**: Frost Dragon (FR), Cracked Egg |
-| 15:11 | **ollxcq**: Cryptid (FR), Jellyfish (NFR), Jester Dragon, Maine Coon (MR), Ride-A-Pet Potion, Unicorn, Praying Mantis (NR), Chameleon ×2 | **leruval**: Crow (FR) |
-| 15:11 | **Vanlyzn26**: Unicorn | **ItsPixieplayzz0**: Ride-A-Pet Potion |
-| 15:11 | **lkmsdfw**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **3mis_alttt**: Neon Pink Scooter, Neon Blue Skateboard |
-| 15:11 | **Zombie_8803**: Ride-A-Pet Potion | **meowxsv_r**: Arctic Hare (N), Onza |
-| 15:11 | **ilusixnary**: Christmas Egg | **sleepy_s0ren**: Kangaroo (FR), Ride-A-Pet Potion |
-| 15:11 | **Tennlys4**: Cow (FR), Sugar Glider, Frost Unicorn, Crocodile, Goat, Copycat | **xBellaCupcakex**: Cryptid |
-| 15:11 | **Bumble_Lou**: Ride-A-Pet Potion | **tessapointessa**: Sushi Penguin |
-| 15:11 | **iaMatthieu1**: Ice Wolf (NFR), Tuxedo Cat (NFR), Jester Dragon, Jousting Horse (R), Latte Kitsune, Golden Lettuce ×2, Brachiosaurus (M) | **emoboiilestatxx**: Cow (FR) |
-| 15:11 | **Dessertsandfoods**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **Lila_Chanbibi**: Dango Penguins (NFR) |
-| 15:11 | **XDturtlee**: Rose Quartz Glow Mega Neon Paint, Golden Unicorn ×4, Mighty Haetyphoon Animated Sticker, Purrowl, Dragonfly, Paint Sealer, Donut Stroller, Salamander | **Shynisocool**: Fly-A-Pet Potion |
-| 15:11 | **HANBIBI20**: Count Slothula | **detective_emilly**: Moon Rabbit |
-| 15:11 | **quVare_PDF**: Evil Unicorn (FR), Ride-A-Pet Potion ×3 | **0FpyKtiK0**: Undead Jousting Horse (NFR) |
+| 15:25 | **Justlovetae**: Arctic Dusk Dragon, Sakura Spirit (FR), Ermine (M) | **3mis_alttt**: Frostbite Cub (MR) |
+| 15:25 | **the3reveng**: Bat (R) ×2, Bat (F), Bat (N) | **crystalluz14**: Ride-A-Pet Potion ×3 |
+| 15:25 | **lildaminii**: Kangaroo (R) | **NotSweatyOnion**: Ride-A-Pet Potion ×15 |
+| 15:25 | **Sonya73p**: Candyfloss Chick (FR), Ice Cream Cone Hat ×2 | **obv1joowe**: Halo |
+| 15:25 | **SkaterinDeltat140964**: Crocodile (FR), Puffer Fish, Ride-A-Pet Potion ×2 | **luvyerh**: Elephant (R) |
+| 15:25 | **the3reveng**: Cozy Mistletroll ×4, Irish Setter ×4, Stygian Owl ×4, Rainbow Trout ×4 | **janaqgo_0**: Fly-A-Pet Potion |
+| 15:25 | **Yana_Fox19**: Velocirooster, Dragonfruit Fox, Black-Footed Ferret (NR) | **EmiliaMika2010**: Arctic Fox |
+| 15:25 | **mightberachele**: Squid | **ALTACCOUNTTT435**: Retired Egg ×17 |
+| 15:25 | **Berryavenueslag**: Bat Dragon (NFR) | **dalmatianarchives**: Frost Dragon (FR), Giraffe (FR), Crow (FR), Balloon Unicorn (FR), Cryptid (FR), Giant Anteater (MFR), Goose (MFR), Goose (NFR) ×2, Siamese Cat (MFR), Jester Dragon (MFR) |
+| 15:25 | **ribbonnuusama**: Frankenfeline (M) | **FRIK_RR**: Ride-A-Pet Potion |
+| 15:25 | **traashaq**: Ride-A-Pet Potion ×14, Emu (N) | **Vitek_228666**: Kangaroo (R) |
+| 15:25 | **Kids_535353**: Caterpillar (R) | **Thatrandomguydann**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×4, Pet Handler Pro Certificate |
+| 15:25 | **Riaaisaa**: Flaming Fox (NR), Pupcake | **EAILABCD**: Canadian Goose (MFR) |
+| 15:25 | **shakiruchki**: Strawberry Shortcake Bat Dragon (FR) ×2, Ride-A-Pet Potion ×5 | **Illitfofasbr2**: Arctic Reindeer (NFR) |
+| 15:25 | **The_Mery24**: Bee (N), Komodo Dragon (R) | **califxrmula**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
