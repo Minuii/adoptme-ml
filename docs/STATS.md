@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 03:31 UTC by the scrape workflow._
+_Updated 2026-11-20 03:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 03:31 UTC by the scrape workflow._
 | amvgg | 10 | 25,473 | 2026-11-20T03:30 |
 | elve | 10 | 4,996 | 2026-11-20T03:31 |
 
-## AMVGG completed trades: 38,175 total
+## AMVGG completed trades: 38,186 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 482 |
+| 2026-11-20 | 493 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 03:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:36 | **jvfgjfsh**: Jester Dragon (R) | **0o0Username0o0**: Ride-A-Pet Potion ×3, Pet Handler Pro Certificate |
+| 03:36 | **pmpjmg1**: Peppermint Penguin (FR) | **arseniylolol**: Kangaroo (R), Elephant (R) |
+| 03:36 | **PH_HYPER**: Cow (NFR) | **Lem0nstqr**: Sugar Glider, Flamingo (FR), Candicorn, Frostbite Cub (MFR), Harp Seal (R) |
+| 03:36 | **l4vcina**: Gemstone Egg | **lynnedcool**: Mythic Egg |
+| 03:36 | **berry_karie**: Ring-Tailed Lemur | **nimalina463**: Meerkat |
+| 03:36 | **BloodMenCloud**: Cabbit (FR), Unicorn (MFR), Crocodile, Jester Dragon, Dango Penguins, Pancake Stack | **archaicpurse258**: Chocolate Chip Bat Dragon (FR) |
+| 03:36 | **SleepySxturnn**: Crystal Egg ×12 | **looter_love**: Pupcicle |
+| 03:36 | **f9llin**: Giraffe (FR) | **saturnestee**: Arctic Reindeer (MFR) |
+| 03:36 | **Uquewyraursutsiydpug**: Balloon Unicorn (MFR), Rainbow Maker ×2, 2022 Birthday Cupcake Shoes ×2, Bunny Swirl (MFR), Dango Penguins (N), Red Dutch Guinea Pig (N), Husky (R) | **TANSKlN**: Haetae (MFR), Hot Doggo (MFR) |
+| 03:36 | **quesodrilo**: Mini Pig (FR) | **Thatscute18**: Siamese Cat (FR), Goat, Munchkin Cat (R), Harp Seal |
+| 03:36 | **franz_1365**: Tarsier (MFR) | **kaylamicmi**: Horse (MFR), Pupcicle |
 | 03:30 | **TinyBunnyhere**: Moon Rabbit (R), Chihuahua, Shiver Wolf, 2D Kitty, Angus Calf, Eaten Donut, Butter Knife | **shn_nq1**: Amami Rabbit (NFR) |
 | 03:30 | **the3reveng**: Three Blind Mice, Easter Bunny, Purrowl, Tealwood Monster, Huntsman Robin, Ancient Dragon, Cozy Mistletroll | **Cookie_lover13232**: Ride-A-Pet Potion |
 | 03:30 | **Its1jeje**: Fly-A-Pet Potion | **TinyBunnyhere**: Rainbow Stroller |
 | 03:30 | **superpretygirl567**: Moose Calf, Pink Dog (M), Vulture (N), Basilisk (N) | **KaiaAnn15**: Velocirooster |
-| 03:30 | **lildaminii**: 2022 Birthday Cake | **AutoTradeCommission**: Pet Handler Pro Certificate ×9 |
-| 03:30 | **sweetie_pi48**: Ram (NR), Black Panther (NFR), Lavender Dragon (R), Lavender Dragon, Unicorn, Cold Cube (N), Maleo Bird (N), Winter Fawn, Gorilla | **AutoTradeCommission**: Fly-A-Pet Potion ×7 |
-| 03:30 | **0n1yAlaina**: Gemstone Egg | **lynnedcool**: Mythic Egg |
-| 03:30 | **Benutzername3707**: Turtle (R) | **lolcryabtit6767**: Arctic Fox (NFR) |
-| 03:30 | **Panci_Terbang33**: Fly-A-Pet Potion ×3 | **LyraFusion**: Black Macaque, Blue Ringed Octopus, Seabed Creeper, Toasty Red Panda, Castle Hermit Crab ×2, Chipmunk, Musk Ox, Leopard Cat, Pink Betta Fish, Hummingbird, Indian Flying Fox, Sweetheart Rat, Clementine Owl, Basilisk, Peregrine Falcon, Komodo Dragon, Cold Cube |
-| 03:30 | **serspect**: Ride-A-Pet Potion ×4 | **the3reveng**: Winged Horse (NFR), Cozy Mistletroll ×3 |
-| 03:30 | **coolsers28**: Mini Pig (FR), Zombie Wolf (MFR), Halo, Angel Wings, Cherry-On-Top, 2022 Birthday Cake ×2, Unicorn Horn | **Tates1ush**: Bush Elephant (MFR) |
-| 03:30 | **Panci_Terbang33**: Solaris (R) | **Caat_Worl**: Kitsune (FR), Ride-A-Pet Potion |
-| 03:30 | **millesww777**: Candyfloss Chick (R), Arctic Fox (FR), Ride-A-Pet Potion ×6, Purrowl | **kiiurmah**: Cow (FR) |
-| 03:30 | **Sarahi23685**: Ride-A-Pet Potion | **m_uf1n**: Dimension Drifter (N) |
-| 03:30 | **Babyofy5**: Sugar Axolotl (FR) | **blobxxfish**: Seabed Creeper, Flower Power Duckling ×2, Clover Cow (R), Cake Friend ×2, Scarecrow Cat (R), Shadow Dragon Ducky (R), Happy Duckling (R), Business Monkey, Koala (FR), Chipmunk, Cattuccino |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
