@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 10:31 UTC by the scrape workflow._
+_Updated 2026-11-20 10:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 10:31 UTC by the scrape workflow._
 | amvgg | 10 | 31,778 | 2026-11-20T10:30 |
 | elve | 10 | 6,334 | 2026-11-20T10:31 |
 
-## AMVGG completed trades: 38,990 total
+## AMVGG completed trades: 39,052 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,297 |
+| 2026-11-20 | 1,359 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:25 | **943049209d**: Pupcicle, Ride-A-Pet Potion, Pupcake | **Par_acetamoll**: Gemstone Egg, Fly-A-Pet Potion |
-| 10:25 | **The_Mery24**: Ocean Egg ×2 | **wi0qwi**: Ride-A-Pet Potion |
-| 10:25 | **Scphiaaxbxdcr**: Ride-A-Pet Potion ×2 | **Smookgans**: Mr. Whiskerpips (N), Mrs. Whiskerpips (N) |
-| 10:25 | **Vitamirka**: Pain au Chat ×3 | **2tayy**: Ride-A-Pet Potion |
-| 10:25 | **Sirswagalishsus**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **Nika_Roblox16stars**: Frost Fury (FR) |
-| 10:25 | **aabeeyg**: Royal Fairytale Egg, Sour Glider | **PlayOfHappy**: Amethyst Skies Mega Neon Paint |
-| 10:25 | **Princessunicornplzz**: Fly-A-Pet Potion ×13, Ride-A-Pet Potion, Pink Cat | **carlkilling**: Cow (FR) |
-| 10:25 | **fiasmail**: Matcha Cat (MFR), Owlbear ×2 | **rainbow_shiny152**: Crow (FR) |
-| 10:25 | **Kit_tblmamymav1**: Munchkin Cat (NFR) | **Mochi24Kitten**: Glormy Leo (NFR), Ice Cream Cone Hat, Christmas Pudding Pup, Ride-A-Pet Potion, Elf Hat |
-| 10:25 | **Ponpon2300**: Alpaca (FR), Candicorn (FR), Winged Tiger (FR), Ride-A-Pet Potion ×2, Goose (R), Undead Jousting Horse (FR), Shrew (R) | **prorabik_krytou**: Hyena (R), Shark Puppy (R), Cow (FR), Dragonfruit Fox (N), Lion (R), Slimingo (MFR), Mini Pig (FR), Dodo (NFR) |
-| 10:20 | **ameyyass**: Ride-A-Pet Potion | **Catyuushy**: Cherub Chipmunk (M), Cocoadile (M) |
-| 10:20 | **ameyyass**: Ride-A-Pet Potion ×2 | **thesuperkid0**: Dark Choccybunny (M) |
-| 10:20 | **ameyyass**: Pupcicle | **Koritsa_aromat**: Ride-A-Pet Potion |
-| 10:20 | **m4rshalI**: Munchkin Cat (MFR), Winged Tiger (FR) | **Traderieeeeeeeee1**: Amethyst Penguin |
-| 10:20 | **goofy_bro20**: Amethyst Penguin (NFR) | **m4rshalI**: Royal Mistletroll (MFR), Silverback Gorilla (MFR) |
+| 10:40 | **Cinnamonroll_xKuromi**: Stray Cat Dragon ×7 | **nik_to969**: Ride-A-Pet Potion |
+| 10:40 | **WANFIREyt**: Strawberry Tortle, Ride-A-Pet Potion | **Gummyy_3**: Fairy Bat Dragon (R) |
+| 10:40 | **Hirohitoh3**: Arctic Reindeer (FR) | **DeazLize**: Kangaroo (NFR) ×2 |
+| 10:40 | **Niruch_Bearly**: Fly-A-Pet Potion | **syxnonym**: Crystal Egg ×18 |
+| 10:40 | **The_Mery24**: Halloween White Mummy Cat (N), Sprout Snail ×2 | **kh6rin**: Ride-A-Pet Potion |
+| 10:40 | **The_Mery24**: Capricorn, Snorgle (N) | **EmiliOnlyMyy**: Ride-A-Pet Potion |
+| 10:40 | **The_Mery24**: Flower Power Duckling, Orange Butterfly | **EmiliOnlyMyy**: Ride-A-Pet Potion |
+| 10:40 | **Aastr0_child**: Golden Hummingbird | **Laura_ja1230**: Spinosaurus |
+| 10:40 | **KinaToons**: Mule (N) | **riler0982**: Fly-A-Pet Potion ×3 |
+| 10:40 | **Dominat0r_Sha**: Fly-A-Pet Potion ×2 | **Lost_inTheCl0uds**: Crescent Moon Car |
+| 10:40 | **GL0SSY4XIS**: Arctic Reindeer (FR) ×2 | **alina39482**: Giant Panda (FR) |
+| 10:40 | **obv1mamasha**: Copycat | **elsociopepe**: Ride-A-Pet Potion ×6 |
+| 10:40 | **The_Mery24**: Oakee Wizard (M) | **h4_cd**: Fly-A-Pet Potion |
+| 10:40 | **mashalook2013**: Queen Bee (NFR), Axolotl (NFR), Sabertooth (MFR), Sea Turtle (MR), Sabertooth (N) | **WIINDY_311**: Christmas Pudding Pup (NR) |
+| 10:40 | **lenyvai2010pro**: Tortoiseshell Guinea Pig | **Traderieeeeeeeee1**: Winged Tiger (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
