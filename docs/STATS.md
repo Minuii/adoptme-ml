@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 07:55 UTC by the scrape workflow._
+_Updated 2026-11-20 08:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 07:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 29,266 | 2026-11-20T07:45 |
-| elve | 10 | 5,782 | 2026-11-20T07:46 |
+| amvgg | 10 | 29,504 | 2026-11-20T08:00 |
+| elve | 10 | 5,854 | 2026-11-20T08:01 |
 
-## AMVGG completed trades: 38,690 total
+## AMVGG completed trades: 38,698 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 997 |
+| 2026-11-20 | 1,005 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,14 @@ _Updated 2026-11-20 07:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:00 | **thesuperkid0**: Parrot (FR), Chocolate Chip Bat Dragon (FR), Unicorn Horn, Brown Bear (NR), Ram (NR) | **Vansderrl**: Frost Dragon (FR) |
+| 08:00 | **usingforamvgg44**: Border Collie | **KinaToons**: Cake Friend (M), Ride-A-Pet Potion ×2 |
+| 08:00 | **Panci_Terbang33**: Pupcicle ×3 | **rahhkat**: Ancient Dragon (NFR) ×2 |
+| 08:00 | **Omar2002548**: Winged Tiger (R) | **therighteousss**: Winged Tiger |
+| 08:00 | **ribbonnuusama**: Frankenfeline (M) | **h4_cd**: Ride-A-Pet Potion |
+| 08:00 | **h4_cd**: Ride-A-Pet Potion ×2 | **vixxi05**: Dango Penguins |
+| 08:00 | **Zues_Potter**: Strawberry Tortle | **therighteousss**: Jester Dragon (NFR) |
+| 08:00 | **unicornfanxddd**: Fly-A-Pet Potion | **S4tin3**: Dango Penguins |
 | 07:55 | **abbhjsxjnsijs**: Sugar Glider (FR), Cow Calf (NR), Angus Bull (N) | **Nexidus_Official**: Fairy Bat Dragon (FR) |
 | 07:55 | **soullike_0**: Turtle (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **Z_Alexis22**: Fairy Bat Dragon (FR) |
 | 07:55 | **jam0khurt**: Ride-A-Pet Potion ×5 | **lirvi_kiti**: Sheeeeep |
@@ -42,14 +50,6 @@ _Updated 2026-11-20 07:55 UTC by the scrape workflow._
 | 07:55 | **faikubjotch**: Burger Boots, Donkey (M) | **pawthetiic**: Ride-A-Pet Potion |
 | 07:55 | **vryxsian**: Fly-A-Pet Potion | **viivieraa**: Pet Handler Pro Certificate |
 | 07:55 | **q_culvs**: Kookaburra (MFR), Lamb (MFR) | **amy_atethat1**: Ninja Monkey (MFR), Castle Hermit Crab (MFR), Golden Chow-Chow (MFR) |
-| 07:55 | **roblox_user_2880951367**: Gold Circle Glasses, Unfortunate Eyelashes, Strawberry Clip, Strawberry Shortcake Bow, Police Cap, Picnic Basket, Rubber Ducks | **beatsvic**: Goth Shoes |
-| 07:55 | **iwasbornin13000**: Turtle (R), Unicorn Backpack | **Andres_agent**: Cabbit (R) |
-| 07:55 | **ExileAri**: Mrs. Whiskerpips (N), Milk Choccybunny (N), Maine Coon, Mr. Whiskerpips, Snowy Mammoth | **Ira_20086**: Ride-A-Pet Potion |
-| 07:55 | **1994_Speed**: Admin Abuse Box ×15, Admin Abuse Egg | **Allysonplayzrobloxz**: Pupcicle |
-| 07:55 | **Leviiiiiiii2005**: Kangaroo (FR), Dodo (NFR) | **CAXAROK_NBK**: Frost Unicorn (FR) |
-| 07:55 | **gag_gaag**: Chocolate Chip Bat Dragon (FR) | **Alisjdfhh**: 2022 Birthday Party Hat, Rose Dragon (NFR), 2022 Birthday Party Horn, Shark Puppy |
-| 07:55 | **blexberrie_alt**: Highland Cow, Onza (M), Ghost Wolf (N) | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 07:51 | **20O2_s**: Copycat (R) | **littlefelonies**: Happy Duckling (N), Gecko (N), Cattuccino (N), Magma Snail (N), Lunar Ox (N) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
