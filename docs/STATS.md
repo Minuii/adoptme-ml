@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 04:55 UTC by the scrape workflow._
+_Updated 2026-11-20 05:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 04:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 26,579 | 2026-11-20T04:45 |
-| elve | 10 | 5,258 | 2026-11-20T04:46 |
+| amvgg | 10 | 26,788 | 2026-11-20T05:00 |
+| elve | 10 | 5,295 | 2026-11-20T05:01 |
 
-## AMVGG completed trades: 38,347 total
+## AMVGG completed trades: 38,357 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 654 |
+| 2026-11-20 | 664 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 04:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:00 | **Addo_Cit**: Giant Anteater, Dango Penguins, Pupcicle, Squid (R) | **adrncldrn**: Tiny Wings |
+| 05:00 | **036daylan**: Ride-A-Pet Potion | **itsvaleriaotz**: Sushi Penguin |
+| 05:00 | **AugustTrading2025**: Princess Carriage ×2, Poodle (N) | **MyacountJohnwcrtba**: Ride-A-Pet Potion |
+| 05:00 | **Crystal_andLisa**: Ride-A-Pet Potion ×16 | **Z_Alexis22**: Kangaroo (FR) |
+| 05:00 | **weaxrr_YT**: Fly-A-Pet Potion ×4 | **Awesomeboi9872**: Pig (R) |
+| 05:00 | **vasilisa11rus1**: Slime (N), Blue Cat Ear Headphones, Bee (NF), Bison (NR), Magic House Door, Banana Stroller | **re_eee0**: Pig (FR) |
+| 05:00 | **dimetacrine**: Super Saru (NR) | **afissamuzfirah**: Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 05:00 | **serspect**: Panda, Golden Griffin, Dragonfly | **afissamuzfirah**: Ride-A-Pet Potion |
+| 05:00 | **ImN0TheOnly1**: Thunderfisher ×5 | **Jenniiee_1000**: Thunderfisher (N) |
+| 05:00 | **ellielielielieee**: Pudding Cat, Seahorse | **Tyyyyy_tyy1**: Chihuahua |
 | 04:55 | **yesterboni0**: Fly-A-Pet Potion ×16 | **stoIencorpses**: Cow |
 | 04:55 | **La_boyMich15**: Blazing Lion (NFR), Giraffe, Pancake Stack | **X0LuvyouX0**: Bat Dragon (FR), Crocodile (FR), Tiny Wings, Matcha Cat |
 | 04:55 | **dababis35**: Aberdeen Angus Box ×18 | **Panci_Terbang33**: Ride-A-Pet Potion |
 | 04:55 | **KittyCyberThing**: Red Dutch Guinea Pig, Desert Egg | **PolinaPlayMini**: Chocolate Dutch Guinea Pig, Fly-A-Pet Potion |
 | 04:51 | **ellielielielieee**: Cattuccino ×2, Pink Dog, Blue Cat, Caramelgeist, Chocolate Labrador, Orangutan, Bunny, Tree Frog, Gummy Guana, Rubber Ducky, Ruddy Duck Waddler, Glyptodon Van, Unicorn Ducky | **Snoopyyvaal**: Pudding Cat |
-| 04:51 | **Bunnieeelvrr**: Ride-A-Pet Potion | **soraidazibely**: Bready Necklace |
-| 04:51 | **Xwebbr**: Ride-A-Pet Potion | **Nanax_8907**: Elf Hat |
-| 04:51 | **strawb3rr7CAKE3**: Ride-A-Pet Potion ×4 | **Nanax_8907**: Santa Hat |
-| 04:51 | **Nanax_8907**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion ×3 | **donnotinteract**: Moon Rabbit (M) |
-| 04:51 | **qlltm**: Strawberry Shortcake Bat Dragon (N) | **AdrianGaming777777**: Arctic Reindeer (FR) ×2 |
-| 04:51 | **Bobbyhuddy6**: Crow (FR), Hot Doggo (FR), Gaelic Fae (MFR), Turtle (R) ×2, Kangaroo (FR), Shetland Pony Light Brown (MFR), Matcha Cat, Arctic Fox, Glass Snowboard, Neon Black Skateboard, Brown Bear, Orange Neon Snowboard, Jeff's Nametag, Ride-A-Pet Potion | **hanb3ki**: Parrot (NFR) |
-| 04:51 | **dababis35**: Aberdeen Angus Box ×18 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 04:51 | **gthstnr**: Easter Egg Friends, Blue Boohoo Mega Neon Paint | **liofe1**: Glamicorn Purse Pet |
-| 04:51 | **gthstnr**: Crystal Egg ×3 | **N1elsen_PAIN03**: Cherry Blossom Flower Sticker ×2 |
-| 04:51 | **MoMtobias**: Rainbow Stroller | **Ashdorae**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
