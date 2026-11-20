@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 08:46 UTC by the scrape workflow._
+_Updated 2026-11-20 08:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 08:46 UTC by the scrape workflow._
 | amvgg | 10 | 30,199 | 2026-11-20T08:45 |
 | elve | 10 | 5,989 | 2026-11-20T08:46 |
 
-## AMVGG completed trades: 38,797 total
+## AMVGG completed trades: 38,810 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,104 |
+| 2026-11-20 | 1,117 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 08:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:55 | **Julesknocker12**: Pancake Stack ×2 | **danu123456i7**: Ride-A-Pet Potion ×4 |
+| 08:55 | **lauriqa13**: Therapy Dog (MR) | **danu123456i7**: Red Fox (MFR), Ride-A-Pet Potion |
+| 08:55 | **KiaXias**: Naga Dragon (NFR), Cactus Friend (N), Gumball Caterpillar (MR), Scarebear, Maine Coon (N), Flaming Fox, Stray Cat Dragon (MFR), Ride-A-Pet Potion ×5, Emu (M) | **Thomatooss**: Fairy Bat Dragon (FR) |
+| 08:55 | **track10s**: Fly-A-Pet Potion ×3 | **alzyxhaaii26**: Copycat |
+| 08:55 | **mankaccmiraevb13**: Polar Bear (NFR) | **e2kk_121003**: Shark Puppy (R), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 08:55 | **NotSweatyOnion**: Turkey (NFR) | **daanz2**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion |
+| 08:55 | **Eldrian06**: Ghost Dog (MFR) | **AqilGaming_222**: Elephant (R) |
+| 08:51 | **angel_19213**: Ninja Monkey (FR) | **baconboykindly**: Fly-A-Pet Potion |
+| 08:51 | **Mentosvcxz**: Peppermint Penguin (FR) | **renewizzz**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
+| 08:51 | **saylah0814_10**: Zombie Wolf (MFR), Pumpkin Friend (MR) | **Artem_21a2**: Haetyphoon ×3 |
+| 08:51 | **Gems_PT**: Dalmatian (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **pesnyaups9**: Parrot (FR), Cow (R) |
+| 08:51 | **Gap4481**: Retired Egg ×2 | **HAPPY0978954**: Little Lamb |
+| 08:51 | **l4nwhl**: Ride-A-Pet Potion | **F0xNinja**: Stray Cat Dragon ×10 |
 | 08:45 | **Zukosaysloveurself**: Mummy Spider (M), Little Lamb (N), Bolt (N), Electric Hornet ×2 | **yusri297**: Ride-A-Pet Potion |
 | 08:45 | **LVSXYUR1**: Copycat (N) | **Moa_spelar1234**: Water Rabbit (M), Ride-A-Pet Potion, Count Slothula (N) |
-| 08:45 | **ZxZx_Michael**: Phantom Dragon (R) | **lirvi_kiti**: Honey Badger (R) |
-| 08:45 | **magnol1a4**: Fairy Bat Dragon (FR), Giant Anteater, Sushi Penguin (R) | **GalaWaarda123**: Hot Doggo (FR) |
-| 08:45 | **dtOvsq**: Toy Poodle (N) | **Xlebushek_borebushek**: Ride-A-Pet Potion |
-| 08:45 | **Vanlyzn26**: Unicorn | **Luffeyys_ezss**: Ride-A-Pet Potion |
-| 08:45 | **Vikitoria19590**: Tri-horned Treehopper (NFR), Fly-A-Pet Potion | **NathanPlayz83**: Mermicorn (FR) |
-| 08:45 | **Halloween_Goat**: Flash Weasel (FR), Pupcicle (MFR), Starfish (MFR), Fly-A-Pet Potion | **novashion_123**: Undead Jousting Horse |
-| 08:45 | **KnifeonKeys**: Vanilla Penguin (MFR), Hot Doggo (FR), 2022 Birthday Party Hat, Bush Elephant | **xEpiphxnny**: Cupid Dragon (MFR) |
-| 08:45 | **afiqshtm**: Leopard Cat (MR) | **Robloxianj0h9v2j1p**: Copycat (FR) |
-| 08:45 | **Vanlyzn26**: Unicorn | **Sofashka_Owl**: Ride-A-Pet Potion |
-| 08:45 | **h4_cd**: Fly-A-Pet Potion | **Ladyromijuri**: Unicorn ×2 |
-| 08:45 | **Vanlyzn26**: Unicorn ×5 | **h4_cd**: Ride-A-Pet Potion ×5 |
-| 08:45 | **Masha_milashka67**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **iaMatthieu1**: Kangaroo (FR) |
-| 08:45 | **1264Foxs**: Pink Cat Ear Headphones | **soonyaa13**: Walrus Box, Ribcage Carriage |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
