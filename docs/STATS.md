@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 00:01 UTC by the scrape workflow._
+_Updated 2026-11-20 00:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,10 +16,11 @@ _Updated 2026-11-20 00:01 UTC by the scrape workflow._
 | amvgg | 10 | 22,150 | 2026-11-20T00:00 |
 | elve | 10 | 4,413 | 2026-11-20T00:01 |
 
-## AMVGG completed trades: 37,693 total
+## AMVGG completed trades: 37,733 total
 
 | Day (UTC) | Trades |
 |---|---|
+| 2026-11-20 | 40 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -34,21 +35,21 @@ _Updated 2026-11-20 00:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:55 | **tishpretty**: Stray Cat Dragon ×3, Stitches ×3, Pandaguin Glooptodog ×3, Boohoo ×3, Jumpscare ×3, Mummy Spider ×3 | **DILANCASTIEL1**: Ride-A-Pet Potion |
-| 23:55 | **cutesyghali**: Winged Tiger (MFR), Albino Monkey (MFR), Lynx (MFR), Snowball Pet (MFR), Cow Calf (MFR), 2022 Birthday Party Hat | **puchainela77**: Strawberry Tortle (MFR) |
-| 23:55 | **meow4miioo**: Ride-A-Pet Potion | **the3reveng**: Cozy Mistletroll ×5 |
-| 23:55 | **tendertalk**: Phantom Dragon (NR), Ride-A-Pet Potion | **Vacia_m78**: Frost Unicorn (FR) |
-| 23:55 | **Spartik20**: Rubber Ducky (M) | **CursedWitigo**: Christmas Pudding House |
-| 23:55 | **ALE7W7XIS**: Parrot (FR), Mini Pig (FR), DJ Snooze (MR) | **OMGITSMACKENZIE6**: Owl (FR) |
-| 23:55 | **Hii_Lovely83**: Cabbit (FR), Fly-A-Pet Potion ×17 | **justaboringperson9**: Chocolate Chip Bat Dragon (FR) |
-| 23:55 | **muniradypa**: Guardian Lion (R) | **KennyMcCormick067**: Ride-A-Pet Potion |
-| 23:55 | **Cinzsins**: Winged Tiger (MFR), Candicorn (MFR), Border Collie (MFR), Parrot (FR), Evil Unicorn (R), Candicorn (NFR), Tiny Wings, Alley Cat (R) | **Kiandra13kiandra**: Bat Dragon |
-| 23:55 | **bolzani001111**: Haetyphoon (M), Haetyphoon (N) ×2 | **KennyMcCormick067**: Frost Dragon (FR) |
-| 23:55 | **Elliehehe16**: Hot Doggo (FR), Pupcicle ×4 | **wassupwithu**: Flaming Fox (MFR) |
-| 23:51 | **vgssXoxo3**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (N) | **qlltm**: Mini Pig (FR), Cow (FR), Cow (R), Turtle (FR) ×2, Turtle (R), Elephant (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate, Fallow Deer (F) |
-| 23:45 | **clarisse_tubeuse**: Count Slothula | **playerbunbready**: Retired Egg ×18 |
-| 23:45 | **ssundylan**: Dragonfruit Fox (MFR), Puffer Fish (MFR), Capybara (MFR), Rain Cloud Hat | **santrababaaa**: Pink Cat (MFR) |
-| 23:45 | **xxjohnjokexx**: Shadow Dragon (FR) | **Aftonsparvsarec00l**: Owl (NFR) |
+| 00:11 | **dojejebegsid**: Arctic Reindeer (MFR) | **cannotaffordme**: Ice Golem (MFR), Yule Log Dog (MFR), Frost Phoenix (MFR), Latte Kitsune (MFR), Siamese Cat (MFR), Polar Bear (MFR) |
+| 00:11 | **Yelyzaveta_125**: Ride-A-Pet Potion | **iiN044**: Pain au Chat ×2, Admin Abuse Egg ×3, Crystal Egg |
+| 00:06 | **luvsyumi1x**: Cow (NFR), Scarebear (MFR), Mini Pig, Baku (MFR), Chick (MFR), Red Dutch Guinea Pig (MFR), Winged Horse (MFR), Peachick (MFR) | **koeinaway1**: Fairy Bat Dragon (MFR) |
+| 00:06 | **Antonnyalexander2009**: Moon Rabbit (M) | **macykhiep2**: Ice Cream Cone Hat |
+| 00:06 | **salman_SAD123**: Strawberry Shortcake Bat Dragon (FR) ×4 | **babobi1123**: Frost Dragon (FR) |
+| 00:06 | **ElimonZa**: Pupcicle | **littlefelonies**: Count Slothula |
+| 00:06 | **NICKNAYF009**: Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Turtle (NFR), Candicorn (NFR), Fairy Bat Dragon (FR), Frostbite Bear ×2, Siamese Cat (FR), Candicorn (R) | **babobi1123**: Giraffe (FR) |
+| 00:06 | **evieebunnii**: Ride-A-Pet Potion | **elproXD_7v7**: Chihuahua ×3 |
+| 00:06 | **cxar_25**: French Bulldog (MFR) | **frecalsplogeok9**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×10 |
+| 00:06 | **Julee_Lov**: Cabbit (R) | **zarmeowz**: S'mores Raccoon (MR), Shiver Wolf (MFR), Firefly (NFR), Ride-A-Pet Potion ×2 |
+| 00:06 | **elproXD_7v7**: Chihuahua ×10 | **ImInKissland**: Ride-A-Pet Potion ×4 |
+| 00:06 | **youchi_nagi**: Owl (FR) | **Kiandra13kiandra**: Winged Tiger (MFR) |
+| 00:06 | **pandita110gamer**: Christmas Gift, Flaming Fox (N) | **sleepy_s0ren**: Turtle (FR) |
+| 00:06 | **herfaklo**: Field Mouse, Hamster (N), White Amazon (R) | **Vacia_m78**: Slime (N) |
+| 00:06 | **Babyofy5**: Ratatoskr (MFR), Turtle Doves (M), Aye Aye (MR), Samoyed (M) | **littlefelonies**: Catte ×3, Magma Moose (R), Toy Poodle, Praying Mantis, Magma Moose, Seahorse, Woolly Mammoth, Trapdoor Snail, Unicorn ×2 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
