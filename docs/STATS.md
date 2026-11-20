@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 07:01 UTC by the scrape workflow._
+_Updated 2026-11-20 07:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 07:01 UTC by the scrape workflow._
 | amvgg | 10 | 28,593 | 2026-11-20T07:00 |
 | elve | 10 | 5,665 | 2026-11-20T07:01 |
 
-## AMVGG completed trades: 38,573 total
+## AMVGG completed trades: 38,584 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 880 |
+| 2026-11-20 | 891 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:06 | **Nicoleee_ily**: Icy Porcupine (N), Water Opossum (N), Pangolin (N), Shadow Dragon Ducky, Granny Wolf (N) | **Luffeyys_ezss**: Ride-A-Pet Potion |
+| 07:06 | **xiparo**: Pain au Chat ×10 | **hellofriendnicetome**: Ride-A-Pet Potion ×3 |
+| 07:06 | **Nicoleee_ily**: Thunderfisher (N), Frozen Penguin (N), River Otter (N), Toucan (N), Samoyed (N) | **Ashdorae**: Ride-A-Pet Potion |
+| 07:06 | **crkcookie_tree**: Midnight Dragon (FR), Chick Hat, Cherry Blossom Tree Sticker, Cherry Blossom Flower Sticker | **z_qchx0n**: Sakura Spirit (FR) |
+| 07:06 | **Xx_Alex1046**: Vanilla Penguin (MFR), Blue Ringed Octopus (MFR), Moon Rabbit (MFR) | **q_culvs**: Alley Cat (MFR) |
+| 07:06 | **beaaarr2**: Cupid Dragon, Munchkin Cat (R) | **IvanGinSenpai**: Elephant (FR) |
+| 07:06 | **mandy363846**: Pain au Chat | **Itz_CoffeeMochi**: Cat (FR) |
+| 07:06 | **Babyofy5**: Christmas Pudding Pup | **kath10890**: Pupcicle, Catte, Clownfish ×2, Green Amazon, Maine Coon, Sloth ×2, Water Moon Bear, St Bernard, Koi Carp ×2, Leopard Cat, Steppe Lion, Summer Walrus ×2, Sweetheart Rat, Momma Moose |
+| 07:06 | **liofe1**: Shetland Pony Dark Brown (NR), Chilling Spider, Deinonychus, Gumball Caterpillar (N) | **Ali_12xx1**: Ride-A-Pet Potion |
+| 07:06 | **quazza2**: Ride-A-Pet Potion ×5 | **shyfaint**: Field Mouse |
+| 07:06 | **anihao17**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) ×3, Strawberry Shortcake Bat Dragon (R) | **MatthewsAltAccc**: Giraffe (FR) |
 | 07:00 | **Krismasterdang**: Candicorn (FR), Goldhorn (MR), Snow Owl (MFR), Peppermint Penguin (NFR), Peppermint Penguin (R), Ride-A-Pet Potion ×2 | **leruval**: Owl (FR) |
 | 07:00 | **darr1erbxxs**: Copycat | **Luffeyys_ezss**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
 | 07:00 | **Fan_Bogatyrat**: Kangaroo (NFR), Cow, Pet Handler Pro Certificate, Fly-A-Pet Potion ×6, French Bulldog, Ride-A-Pet Potion ×3, Dancing Tube Hat, Duck Floatie, Classic Trade Stand, Elf Shoes, Strawberry Toast Flying Disc | **icebaby545**: Dalmatian (FR) |
 | 07:00 | **herfaklo**: Royal Palace Spaniel (FR), Fanghorn Tortoise (R) | **myd666vil**: Red Squirrel (R), Space Whale (R) |
-| 07:00 | **josuebogarr**: Cabbit (R) | **miriam89300**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 |
-| 07:00 | **Yuwu_gh0st**: Pupcicle (N) | **pmpjmg1**: Ride-A-Pet Potion ×3 |
-| 07:00 | **stoIencorpses**: Border Collie (R) | **miriam89300**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×4 |
-| 07:00 | **MoMtobias**: Ride-A-Pet Potion | **xiparo**: Pain au Chat ×3 |
-| 07:00 | **lider9809**: Giraffe (FR), Frost Dragon (FR), Balloon Unicorn (R), Cabbit (R), Tiny Wings, Spring Bunny Hood | **cydo0206**: Bat Dragon (FR) |
-| 07:00 | **starswirl_64**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5 | **KinaToons**: Munchkin Cat (FR) |
-| 07:00 | **Lvpix**: Chocolate Dutch Guinea Pig ×3, Ride-A-Pet Potion ×7 | **calampianojames**: Sea Slug |
-| 07:00 | **gamercaty6**: Fairy Bat Dragon (NFR), Frost Fury (FR), Caelum Cervi, Pupcicle (N), Tarantula (M) | **calampianojames**: Munchkin Cat (MR) |
-| 07:00 | **fififetti**: Pupcicle ×4, Butter Knife | **anxi15**: Pupcicle (N) |
-| 07:00 | **bolzani001111**: Peppermint Penguin (MFR), Giant Panda (FR), Flash Weasel, Haetyphoon | **unicorn_queen90919**: Shadow Dragon (FR) |
-| 06:45 | **Tota52Mota**: Red Fox (MFR), Spring Bunny Hood, Ride-A-Pet Potion ×6 | **danu123456i7**: Highland Cow (MFR), Choco Penguin (MFR), Bready Necklace |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
