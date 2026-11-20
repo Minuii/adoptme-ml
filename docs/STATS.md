@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 19:31 UTC by the scrape workflow._
+_Updated 2026-11-20 19:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 19:31 UTC by the scrape workflow._
 | amvgg | 10 | 40,071 | 2026-11-20T19:30 |
 | elve | 10 | 8,327 | 2026-11-20T19:31 |
 
-## AMVGG completed trades: 40,920 total
+## AMVGG completed trades: 40,958 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,227 |
+| 2026-11-20 | 3,265 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 19:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:30 | **shellyy_026**: Kitty Bat (NR), Fossil Egg | **raindow_ivan**: Celebrity Mansion |
-| 19:30 | **Meowkittiikat**: Candicorn, Candy Hare (MFR), Siamese Cat (NR) | **jett_isthebest28**: Copycat (MFR) |
-| 19:30 | **Noah1k1n**: Mighty Haetyphoon Animated Sticker | **Fet4moh**: Kitsune (FR) |
-| 19:30 | **lifesregrets**: Dango Penguins (MFR), Dango Penguins (MR), Peppermint Penguin, Werewolf (R), Pet Handler Pro Certificate, Monkey (M) | **xmikaeq**: Balloon Unicorn (FR) |
-| 19:30 | **muniradypa**: Guardian Lion (R) | **aaliyah0284**: Ride-A-Pet Potion |
-| 19:30 | **souIsIostt**: Jekyll Hydra (NR), Copycat (N), Santa Hat | **copyvoting**: Candicorn (MFR) |
-| 19:30 | **Tyyyyy_tyy1**: Star Sunglasses | **booseoks0on**: Retired Egg ×9 |
-| 19:30 | **reserbadong2**: Fairy Bat Dragon (NFR) | **KnifeonKeys**: Sugar Glider (NFR) |
-| 19:30 | **txhoxie**: Ghost Wolf (N), Dire Wolf (N), Stray Cat Dragon, Skelicorn, Mummy Spider (N) | **krikikriki56**: Ride-A-Pet Potion |
-| 19:30 | **haiI3yyyy**: Candicorn (R) | **darina6767boi**: Llama (FR), Nessie (FR), Owlbear (FR), Golden Penguin (R), Red Sand Dollar (R), Ghost Bunny (R) |
-| 19:30 | **ni1zuua**: Fly-A-Pet Potion, Spring Bunny Nose | **lalsakjsja**: Mochi Meow (MFR) |
-| 19:30 | **MM_Cloud**: Crystal Egg ×15 | **PrincessSweetness111**: Ride-A-Pet Potion |
-| 19:30 | **MONSTERS_INC52**: Chocolate Chip Bat Dragon (NFR), Bush Elephant (NR), Sugar Axolotl (NR) | **FestiveNotCupcake**: Cryptid (NFR) |
-| 19:30 | **bella94255**: Ride-A-Pet Potion ×2 | **ni1zuua**: Butter Knife, Bready Necklace |
-| 19:30 | **Happy_PlayerWizard**: Halo, Jeff's Nametag, Eco Orange Pumpkin Pie Wings, Strawberry Hat, Jade Moth Wings, White Designer Backpack | **Eceuni**: Mini Pig (FR) |
+| 19:40 | **k4cezz**: Cryptid (FR), Strawberry Shortcake Bat Dragon (FR), Siamese Cat (MFR), Cabbit (NFR), Goose (FR), 2022 Birthday Party Hat | **Marilynbrandt662**: Strawberry Shortcake Bat Dragon (MFR) |
+| 19:40 | **anto_7670**: Ancient Dragon | **oOWilDig0n0oO**: Retired Egg ×3 |
+| 19:40 | **Sonicka525**: Ride-A-Pet Potion | **Malina8491**: Blue Boohoo Mega Neon Paint |
+| 19:40 | **Espresso_Signora901**: Rhino (R) | **das_mer1**: Fly-A-Pet Potion |
+| 19:40 | **Alana_enna22**: Corgi (M), Corgi (N) | **wrawixx**: Ride-A-Pet Potion |
+| 19:40 | **localbanxx**: Fly-A-Pet Potion | **7ckyy**: Rainbow Stroller |
+| 19:40 | **bulbashine**: Goose (MFR), Goldhorn (N) | **bbbbbbbbbbbbbbiuu**: Mermicorn (MFR) |
+| 19:40 | **tessapointessa**: Zodiac Minion Chick (N), Zodiac Minion Chick ×4, Swordfish | **silliegur**: Fly-A-Pet Potion |
+| 19:40 | **demonic_duck2007**: Solaris (R) | **tessapointessa**: Chick (N) ×2 |
+| 19:36 | **Swan_Couture**: Kangaroo (R), Albino Monkey (FR), Elephant (R), 2022 Birthday Party Horn, Sheeeeep (NFR), Latte Kitsune, Unicorn (NFR) ×2, Kitsune (NFR) | **ADOPMEBAT5**: Chocolate Dutch Guinea Pig (MFR), Slime (MFR), Wooly Rhino (MFR), Happy Duckling (MR) |
+| 19:36 | **Lxdyxx**: Samoyed (M) | **Mnryyrm**: Ride-A-Pet Potion, Ms. Muffet (N) |
+| 19:36 | **Popa67742**: Dango Penguins | **Evelina22super**: Fly-A-Pet Potion |
+| 19:36 | **Babyofy5**: Silverback Gorilla, Zombie Buffalo (R) | **wjredmind**: Blue Ringed Octopus (MR) |
+| 19:36 | **Cupidschokehold5**: Candicorn (NFR) | **iloveiceecreamm**: Pink Cat (NFR), Rain Cloud Hat |
+| 19:36 | **59DAMAGE**: Strawberry Shortcake Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (FR) | **disyvx**: Owl (NFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
