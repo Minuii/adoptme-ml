@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 11:41 UTC by the scrape workflow._
+_Updated 2026-11-20 11:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 11:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 32,674 | 2026-11-20T11:30 |
-| elve | 10 | 6,521 | 2026-11-20T11:31 |
+| amvgg | 10 | 32,901 | 2026-11-20T11:45 |
+| elve | 10 | 6,590 | 2026-11-20T11:46 |
 
-## AMVGG completed trades: 39,176 total
+## AMVGG completed trades: 39,189 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,483 |
+| 2026-11-20 | 1,496 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 11:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:45 | **eeveelover2007lover**: Admin Abuse Egg ×18 | **Gullu_hhru**: Ride-A-Pet Potion |
+| 11:45 | **FlyToTheSaturn**: Heart Bow ×3, Elf Hat, Eyepatch, Police Cap ×5, Propeller Hat, Respectful Mustache, Bready Necklace ×2, Butter Knife, Mythic Egg, Ocean Egg, Danger Egg | **stoIencorpses**: Fly-A-Pet Potion ×6 |
+| 11:45 | **wldnsdlrnldudna**: Elephant (R), Latte Kitsune (NR), Shark Puppy, Pig (FR), Prismatic Butterfly (NFR), Dodo (NFR), Field Mouse, Spring Bunny Hood, 2D Kitty (N), Glass Snowboard ×3, Count Slothula (N) ×3, Latte Kitsune, Skelicorn (M), Moose Calf | **MissaBloxluck**: Copycat (MFR) |
+| 11:45 | **KimikoYuka**: Polar Bear (R) | **Zuffsa12**: Birthday Butterfly 2024 (MFR) |
+| 11:45 | **xiparo**: Pain au Chat ×16 | **NotSweatyOnion**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 11:45 | **nagumo2226**: Cow (FR), Flamingo (FR), Munchkin Cat (FR) | **rhubararian**: Chocolate Chip Bat Dragon (FR) |
+| 11:45 | **ilikecheese4evrduh1**: Snowball Pug (MR), Double Stroller | **PlIJsAq**: Fly-A-Pet Potion ×3 |
+| 11:45 | **Sh1r0_23Lol**: Boohoo (M), Ghost Chick (N) | **Lianana53**: Pet Handler Pro Certificate |
+| 11:45 | **Kety222222222**: Ride-A-Pet Potion | **Dragonlegend2130**: Mochi Meow ×10 |
+| 11:45 | **LIAXMLV**: Turtle, 2D Kitty (NR), Green-Chested Pheasant | **acc3m_400**: Strawberry Tortle |
+| 11:45 | **iraklel**: Chocolate Chip Bat Dragon (FR), Cow (FR) ×2, Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×5, Golden Lettuce, Pet Handler Pro Certificate ×2 | **Amvgg_Amvggg**: Crow (FR) |
+| 11:45 | **ddolls1nss**: Cryptid (MFR), Crow (NFR), Giraffe (FR), Frost Dragon (FR), Copycat (N) | **Skiaksn**: Bat Dragon (NFR) |
+| 11:45 | **sjskbdbsnsks**: Goldfish (MR) | **Iittlx**: Glacier Kitsune |
 | 11:41 | **16kmfh**: Stingray (N), Hydra, Pomeranian (R), Rabbit (F), Toasty Red Panda, Pink Betta Fish, Rat (R), Pudding Cat, Slug (N), Arctic Hare (N), Penguin (R), Pupcicle, Flower Power Duckling, Koala (R), Dingo (N), Dolphin (N) | **NastiGora**: Ride-A-Pet Potion ×4 |
 | 11:41 | **vvvvvveli**: Wren (N), Water Moon Bear, Eggnog Hare | **I_AlexisAgi**: Cockroach (N) |
-| 11:41 | **MissaBloxluck**: Cryptid | **luvaholicc**: Copycat (MFR), Bunny Swirl (MR), Rock (MR), Fire Stallion (N) |
-| 11:41 | **dianadonatlove**: Cotton Candy Stand, Classic Trade Stand, Dalmatian Sticker | **wrixcte**: Ride-A-Pet Potion |
-| 11:41 | **Auds191102**: Moose Calf (NR), Moose Calf (N) | **sleepy_s0ren**: 2022 Birthday Cake |
-| 11:41 | **anja_gamer99**: S'mores Raccoon (MR), Dragon Balloon | **xxxxproxxxx5500**: Werewolf (R) |
-| 11:41 | **gTheGamerProYTg**: Copycat (MFR), Turtle (FR) | **xeo1h**: Haetae (FR) |
-| 11:36 | **Vanlyzn26**: Crystal Egg ×14 | **Niruch_Bearly**: Ride-A-Pet Potion |
-| 11:36 | **rilaxlly**: Sugar Glider, Goat (R), Spring Bunny Hood, Ride-A-Pet Potion ×3 | **Niruch_Bearly**: Mini Pig (FR) |
-| 11:36 | **jonasgato363**: Cerberus (MFR) | **AstridXox2**: Monkey King (FR), Ginger Cat (MFR), Boohoo (M), Back Taco |
-| 11:36 | **LilithCGEye**: Winged Tiger, Hare (MR), Cow (R), Candicorn (NFR), Spring Bunny Nose | **sleepy_s0ren**: Siamese Cat (MFR) |
-| 11:36 | **raraa_cute61**: Bush Elephant, Ride-A-Pet Potion ×2 | **8enjineji**: Kangaroo (FR) |
-| 11:36 | **prince_onepator**: Crocodile (R), Copycat, Ride-A-Pet Potion ×6, Fly-A-Pet Potion, Classic Trade Stand | **acc3m_400**: Strawberry Tortle |
-| 11:36 | **KFC_C0nya**: Fly-A-Pet Potion, Mahi Mahi (N) | **Avi_ator12**: Ride-A-Pet Potion ×2 |
-| 11:36 | **limohq**: Witch's Caravan ×2, Spinning Teacup Vehicle, Dolphin Cruiser, Soulfire Animated Sticker | **xromosa2**: Rose Quartz Glow Mega Neon Paint |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
