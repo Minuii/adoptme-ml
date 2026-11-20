@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 21:11 UTC by the scrape workflow._
+_Updated 2026-11-20 21:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 21:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 41,540 | 2026-11-20T21:00 |
-| elve | 10 | 8,626 | 2026-11-20T21:01 |
+| amvgg | 10 | 41,790 | 2026-11-20T21:15 |
+| elve | 10 | 8,656 | 2026-11-20T21:15 |
 
-## AMVGG completed trades: 41,283 total
+## AMVGG completed trades: 41,288 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,590 |
+| 2026-11-20 | 3,595 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,11 @@ _Updated 2026-11-20 21:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:15 | **6Dolbank6**: Frost Dragon (FR) | **cookieuxblox**: Cryptid (R), Evil Unicorn (FR), Cow (FR), Blue Dog (R), Alpaca (FR) |
+| 21:15 | **vivicacke17**: Dark Choccybunny | **HelloIamnotsannaa**: Alicorn |
+| 21:15 | **livelycouture**: Pet Handler Pro Certificate | **Maexnzz**: Fly-A-Pet Potion |
+| 21:15 | **tiaamisuu**: Kangaroo (FR) | **superawesome0528**: Border Collie (FR), Spring Bunny Hood |
+| 21:15 | **Robloxian19039878**: 2D Kitty, Frankenfeline (M) | **Its_soulseek**: Fly-A-Pet Potion |
 | 21:11 | **ilovebelleblossom**: Crow (FR), Turtle (FR), Cow (FR), Elephant (R), Flamingo (R), Caterpillar (R), Jester Dragon (R), Lava Dragon (FR), Tree Kangaroo (FR), Platypus | **Flux_puck**: Frost Dragon (FR) |
 | 21:11 | **giovvanna7423**: Fly-A-Pet Potion | **Polita721**: Crystal Egg ×9, Retired Egg ×9 |
 | 21:11 | **aleks2u**: Cabbit (FR) ×2, Fly-A-Pet Potion ×4 | **iaMatthieu1**: Chocolate Chip Bat Dragon (FR) |
@@ -45,11 +50,6 @@ _Updated 2026-11-20 21:11 UTC by the scrape workflow._
 | 21:11 | **myfav_QUOICOUBEH**: Arctic Reindeer (FR) | **ViscaBarca_44**: Cow (NFR) |
 | 21:11 | **ABBYSXCH4RM**: Bat Dragon (FR), Peach Owl (MFR), Bauble Buddies (MR) | **bartixoxoxx**: Parrot (MFR) |
 | 21:11 | **NummieNummiegirl**: Jellyfish (MFR), Cabbit (FR) | **Alex_oop82**: Parrot (FR) |
-| 21:11 | **Violetano03**: Admin Abuse Egg ×18 | **looter_love**: Ride-A-Pet Potion |
-| 21:11 | **razarvale2z**: Pain au Chat ×3 | **fluffyunicorns_932**: Ride-A-Pet Potion |
-| 21:11 | **AMINO4KA7U**: Ice Golem (R) | **Foxy_Bonny28**: Cactus Friend (R), Stray Cat Dragon (R) |
-| 21:11 | **VirKa_SUPER2**: Great Pyrenees (N), Christmas Future Egg | **keiiwwq**: Goth Shoes |
-| 21:11 | **ash1merskk**: Goat (R), Fairy Bat Dragon (R) | **Dasha_catlapa2008**: Goose (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
