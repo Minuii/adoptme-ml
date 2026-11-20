@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 18:15 UTC by the scrape workflow._
+_Updated 2026-11-20 18:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 18:15 UTC by the scrape workflow._
 | amvgg | 10 | 38,830 | 2026-11-20T18:15 |
 | elve | 10 | 8,077 | 2026-11-20T18:15 |
 
-## AMVGG completed trades: 40,628 total
+## AMVGG completed trades: 40,648 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 2,935 |
+| 2026-11-20 | 2,955 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 18:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:15 | **theropywasted**: Space Fleet House | **varmitrof**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 18:15 | **astra_ww8**: Ice Cream Hermit Crab | **Xxxxashhhh**: Fly-A-Pet Potion |
-| 18:15 | **personal_stalker69**: Tortuga de la Isla (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 18:15 | **NF_FAN45**: Tuxedo Cat ×2, Pupcicle, Pupcake, Hamster | **OBVADDISONN0**: Copycat |
-| 18:15 | **abbyissocool_lol**: Crystal Egg ×5 | **sugarblossomxoxx**: Royal Palace Spaniel |
-| 18:15 | **BMReuter**: Unicorn (MFR), Gemstone Egg, Elf Shoes | **don2p**: Ghost Dog (MFR) |
-| 18:15 | **TANSKlN**: Haetae (MFR), Monkey King (FR), Turtle (FR) | **The1AndOnlyClyde**: Giraffe (NFR), Giraffe (FR), Elephant (MFR), Siamese Cat (MFR), Golden Chow-Chow (MFR), Munchkin Cat (MFR) |
-| 18:15 | **HonetXCake**: Peacock (MFR) | **werlianess**: Peahen (MFR) |
-| 18:15 | **adriel_24k**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Toaster Hat, Ice Cream Cone Hat ×2, Ballet Swan | **Kvammletitraketa**: Frost Unicorn (NFR) |
-| 18:15 | **aaliyah0284**: Ride-A-Pet Potion | **elproXD_7v7**: Chihuahua ×2 |
-| 18:15 | **xoadmq**: Kitty Bat (N) | **Leck_aia181**: Alley Cat |
-| 18:15 | **danmantoglory**: Giraffe (NFR), Fairy Bat Dragon (MFR), Cow (FR), Candicorn (NFR) | **hmmhh8**: Crow (MFR) |
-| 18:15 | **ElimonZa**: Bush Elephant, Alley Cat, Pain au Chat | **zow_98alt**: Candyfloss Chick (FR) |
-| 18:15 | **zow_98alt**: Ghost Dog (MR) | **don2p**: Elephant |
-| 18:15 | **Bruno_Games76**: Llamalush Purse Pet | **pon153463547**: Chick Backpack |
+| 18:25 | **prueba22337**: Turtle (FR) ×3, Fairy Bat Dragon (R) | **Huge_Soda**: Hedgehog (FR) |
+| 18:25 | **sdfssdggertfhfg**: Pig (R) | **Xxxxashhhh**: Vampire Dragon (FR) |
+| 18:25 | **kreker0900**: Flaming Fox (MFR), Skunk (MFR) | **999Luzy**: Sugar Glider (FR), Unicorn Horn |
+| 18:25 | **angelphyzea12**: Shadow Dragon Ducky (M), Three Blind Mice (M) | **cosa_azul**: Castle Hermit Crab (M) |
+| 18:25 | **Urfavorite1225**: Orchid Butterfly (FR), Goat (NFR), Goat (R) | **TANSKlN**: African Wild Dog (FR) |
+| 18:25 | **Amalk88**: Goose (FR), Munchkin Cat, Pupcicle, S'mores Raccoon, Irish Elk, Pupcake, Adopt Me Boy Scooter | **16y97**: Turtle (NFR) |
+| 18:25 | **Dr9iser**: Fly-A-Pet Potion ×2 | **R4kert**: Unicorn Backpack |
+| 18:25 | **s1m4kk**: Violet Friend (N), Partridge | **ALTERNATIVEACCKAY**: Kiwi Kiwi |
+| 18:25 | **xXcaxapokXx_off**: Pupcicle (NR), Cherub Chipmunk (M), Momma Moose, Ghost Chick, Lunar Moon Bear, Galapagos Sea Lion (N) | **ch0colatadafresca**: Jester Dragon |
+| 18:25 | **Priskona0**: Haetyphoon (MFR) | **cuteprincessgirl861**: African Wild Dog (FR) |
+| 18:25 | **9vvdx**: Kangaroo (FR) | **Paipapaprapaa**: Brown Springer Spaniel (MFR) |
+| 18:25 | **catgirlhaha19**: Pupcicle ×3 | **UhChip**: Fly-A-Pet Potion |
+| 18:25 | **Elis_thxx**: Vanilla Penguin | **1Mikusia1**: S'mores Raccoon |
+| 18:25 | **KennedyHilfiger**: Hare | **Lola242532**: Ride-A-Pet Potion ×2 |
+| 18:25 | **itsvaleriaotz**: Ride-A-Pet Potion, Chick Backpack | **justunujede123**: Chihuahua, Black Macaque, Flower Power Duckling |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
