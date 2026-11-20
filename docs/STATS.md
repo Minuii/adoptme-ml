@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 01:55 UTC by the scrape workflow._
+_Updated 2026-11-20 02:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 01:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 23,855 | 2026-11-20T01:45 |
-| elve | 10 | 4,716 | 2026-11-20T01:46 |
+| amvgg | 10 | 24,078 | 2026-11-20T02:00 |
+| elve | 10 | 4,743 | 2026-11-20T02:01 |
 
-## AMVGG completed trades: 37,978 total
+## AMVGG completed trades: 38,000 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 285 |
+| 2026-11-20 | 307 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 01:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:51 | **1nxsii**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 | **EnotikTea**: Chihuahua ×16 |
-| 01:51 | **Reya426**: Chihuahua ×6 | **YORITCI0**: Dire Wolf (M), S'mores Raccoon |
-| 01:51 | **DragonSlayerProXO**: Goose (FR), Ride-A-Pet Potion, Fly-A-Pet Potion ×2, General Sheepdog | **js_elizz**: Mini Pig (FR) |
-| 01:51 | **Nita208901**: Munchkin Cat (R), Pet Handler Pro Certificate ×2, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7 | **narcicil654**: Strawberry Tortle |
-| 01:51 | **desiredzxs**: Flaming Fox, Alicorn (NR) | **himary626**: Propeller Hat |
-| 01:51 | **reserbadong2**: Cow, Ride-A-Pet Potion | **ch4rliesde4d**: Peppermint Penguin (F) |
-| 01:51 | **asmornn**: Ride-A-Pet Potion | **cuttIef1sh**: Dire Wolf (NR) |
-| 01:51 | **L4nsd**: Cow (MFR), Goose (NFR), Cabbit (NFR), 2022 Birthday Party Hat, 2022 Birthday Cake, Unicorn Horn | **djcausa_0**: Peppermint Penguin (MFR) |
-| 01:51 | **Toffy200512**: Bready Necklace, Butter Knife, Fishbone Badge | **nini_theminisalt**: Mochi Meow (M) |
-| 01:51 | **moff24**: Strawberry Shortcake Bat Dragon (FR) ×2, Pet Handler Pro Certificate, Turtle (FR), T-Rex (R) | **angelmoi7010**: Chocolate Chip Bat Dragon (NFR) |
-| 01:51 | **lildaminii**: Turtle (R) | **austin_1230003**: Ride-A-Pet Potion ×18 |
-| 01:51 | **foreveryoung_2017**: Gecko | **iiChxlseii**: Frostbite Cub |
-| 01:51 | **Skylerx2011**: Kangaroo (FR), Kangaroo (R), Elephant (R), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Tiny Wings, Rain Boots, Rain Hat, Spring Bunny Feet | **TMDung20**: Evil Unicorn (FR) |
-| 01:51 | **TMDung20**: Ride-A-Pet Potion ×3 | **DrinklngMilk**: Velocirooster |
-| 01:51 | **PaleAxe**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **LittleHeartPlays**: Chocolate |
+| 02:00 | **bicepenthusiest**: Field Mouse (NFR), Harp Seal (NR), Fly-A-Pet Potion | **Aliya_nothere**: Chocolate Dutch Guinea Pig (MFR) |
+| 02:00 | **qkrbed**: Slime (MFR) | **q_culvs**: Sugar Glider (FR) |
+| 02:00 | **TheKindAndOnly**: Skelicorn (M) | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 02:00 | **appleberryyynanaaa**: Border Collie (MFR) | **saturnestee**: Ballet Swan (MFR), Christmas Pudding Pup (MFR) |
+| 02:00 | **Panci_Terbang33**: Ride-A-Pet Potion ×5 | **ponyelgamer**: Lynx, Pumpkin Friend (F), Axolotl, Latte Kitsune |
+| 02:00 | **TwistedK1tty**: Balloon Unicorn | **ImJustBug**: Strawberry Shortcake Bat Dragon (FR), Candy Hare (MR), Unicorn (MFR), Arctic Dusk Dragon (FR), Meerkat (FR), Shrew, Unicorn (NR), Beluga Whale (MF), Pet Handler Pro Certificate, Lamb, Silly Duck (R), Latte Kitsune, Chocolate Dutch Guinea Pig |
+| 02:00 | **Babyofy5**: Goat (R) | **gattitakawaii16**: King Bee (R), Peacock (FR), Robo Dog (R), Chimera (R), Sloth (FR), Frostbite Cub, Red Squirrel (FR), Puptune, Sloth |
+| 02:00 | **himary626**: Festive Beard, Elf Shoes, Festive Scarf, Festive Stocking Shoes, Gold Circle Glasses | **looter_love**: Pet Handler Pro Certificate |
+| 02:00 | **Nanax_8907**: Grim Dragon (R) | **chesnock204**: Water Rabbit (MR) |
+| 02:00 | **cyptiaI**: White Chef Hat | **e1isess**: Ride-A-Pet Potion |
+| 02:00 | **tri_xx19**: Owl (FR) | **daxprouwu**: Haetae (FR), Hot Doggo (FR), Cow (FR), Fly-A-Pet Potion ×5 |
+| 02:00 | **draike_tzu8262**: Retired Egg ×18 | **Elleaveyard**: Gemstone Egg |
+| 02:00 | **OflineGirlx**: Ride-A-Pet Potion | **Bow_trader**: Festive Wagon ×2, Candy Camper |
+| 02:00 | **ch4rliesde4d**: Giraffe (FR), Parrot (NFR), Dalmatian (FR), Cow | **TANSKlN**: Bat Dragon (FR) |
+| 02:00 | **7llpr**: Ride-A-Pet Potion ×2 | **Paipapaprapaa**: Alley Cat |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
