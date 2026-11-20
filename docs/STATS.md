@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 14:01 UTC by the scrape workflow._
+_Updated 2026-11-20 14:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 14:01 UTC by the scrape workflow._
 | amvgg | 10 | 34,906 | 2026-11-20T14:00 |
 | elve | 10 | 7,101 | 2026-11-20T14:01 |
 
-## AMVGG completed trades: 39,613 total
+## AMVGG completed trades: 39,633 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,920 |
+| 2026-11-20 | 1,940 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:00 | **GlimmerRose27**: Munchkin Cat (NFR), Siamese Cat (FR), Spring Bunny Feet | **Ebonyaqt**: Winged Tiger (NFR) |
-| 14:00 | **qwertyy_xx01**: Munchkin Cat (FR), Arctic Fox (R) | **hello_kittyxvr**: Unicorn Horn |
-| 14:00 | **frecalsplogeok9**: Ride-A-Pet Potion | **Naryto_yzumaki123**: Mini Schnauzer |
-| 14:00 | **milzz7e_247**: Stray Cat Dragon ×16, Ride-A-Pet Potion | **catiecatsi**: Stray Cat Dragon (M) |
-| 14:00 | **Zero_Queen5**: Spring Bunny Hood | **Niruch_Bearly**: Ride-A-Pet Potion ×4 |
-| 14:00 | **LightningCheetah2451**: Golden Chow-Chow | **Junjyungg**: Ride-A-Pet Potion |
-| 14:00 | **Angelsss_81**: Ride-A-Pet Potion | **ALTACCOUNTTT435**: Maine Coon (N) |
-| 14:00 | **Niruch_Bearly**: Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **varushka1985**: Siamese Cat (R) |
-| 14:00 | **Ricover2929**: Chocolate Chip Bat Dragon (FR) | **camiilita_7w7**: Aurora Fox (NFR), Grim Dragon (FR), Pet Handler Pro Certificate ×3, Fly-A-Pet Potion |
-| 14:00 | **Viktoria_11942**: Chocolate Chip Bat Dragon (FR), Candyfloss Chick (FR), Ride-A-Pet Potion | **Vitek_228666**: Dalmatian (FR) |
-| 14:00 | **lera5132**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 | **Vitek_228666**: Turtle (FR) |
-| 14:00 | **ImN0TheOnly1**: Parakeet ×6, Muskrat | **Kir4kaa**: Parakeet (N) |
-| 14:00 | **ImN0TheOnly1**: Parakeet ×6, Zebra | **Kir4kaa**: Parakeet (N) |
-| 14:00 | **pmpjmg1**: Ride-A-Pet Potion ×4 | **sugarxcer**: Jester Dragon |
-| 14:00 | **lizaa_46k**: Cryptid (FR), Unicorn Horn, Munchkin Cat (R), Tiny Wings, Ride-A-Pet Potion | **LoriDreamy123**: Balloon Unicorn (FR) |
+| 14:11 | **Trixcaughtlackin**: Cow ×3, Aurora Fox (NFR) | **xurlocalwhateverx**: Frost Unicorn (FR), Christmas Pudding Pup (MFR) |
+| 14:11 | **Xnixht**: Turtle (NFR), Cabbit (NFR), Candicorn (FR) | **AvaCometfish961**: Crow (FR) |
+| 14:11 | **MM_Cloud**: Crystal Egg ×15 | **Yvanille_hxvn**: Ride-A-Pet Potion |
+| 14:11 | **zzzzzxxxxxwr9**: Fire Foal (MR), Clumpty (N), Rubber Ducky (N) | **Yvanille_hxvn**: Ride-A-Pet Potion |
+| 14:11 | **COBRA_GAMER26M**: Strawberry Shortcake Bat Dragon (FR) | **Tomatoxxxblizzard**: Unicorn Horn ×3 |
+| 14:11 | **qq0xxx6**: Koala, Skelicorn, Zebra (N), Nutcracker Squirrel, Pomeranian, Dragonfly | **228Caesar_Zeppeli**: Ride-A-Pet Potion |
+| 14:11 | **nikitaloooll7**: Spider Crab (R), Snowman (R) | **lunweup**: Ride-A-Pet Potion |
+| 14:11 | **Spidy_shalapaykin**: Skelicorn (R), Cattuccino (R) | **lunweup**: Ride-A-Pet Potion |
+| 14:11 | **barbiequeuu**: Undead Jousting Horse (FR), Cow (R), Cabbit (R), Grim Dragon (FR) ×2, Turtle (R), Frostbite Bear (R) ×2, Frostbite Bear, Eggnog Dog (MFR), Unicorn (NFR), Aussie Egg, Ride-A-Pet Potion ×2 | **Cute_CocoMouse**: Cryptid (NFR) |
+| 14:11 | **xmikaeq**: Goose (FR), Munchkin Cat (NFR) | **510478**: Red Dutch Guinea Pig (MFR) |
+| 14:11 | **Idci08**: Fairy Bat Dragon (FR) | **WoltWO777**: Kangaroo (FR), Jester Dragon (FR), Glacier Kitsune (FR) |
+| 14:11 | **adopmetrede0**: Owl (FR) ×2, Snow Owl (NFR), Ride-A-Pet Potion ×4 | **ben_nontawat**: Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (NFR) |
+| 14:11 | **ampnothingtorich09**: Ride-A-Pet Potion ×16 | **Vitek_228666**: Kangaroo (FR) |
+| 14:11 | **you35o**: Jekyll Hydra Animated Sticker | **Sentikaza_pikachu**: Biodome Home |
+| 14:11 | **Vathanayiy**: Thunderfisher (M), Brachiosaurus (MFR) | **mymylamoo1**: Celebrity Mansion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
