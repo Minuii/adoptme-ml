@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 22:01 UTC by the scrape workflow._
+_Updated 2026-11-20 22:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 22:01 UTC by the scrape workflow._
 | amvgg | 10 | 42,535 | 2026-11-20T22:00 |
 | elve | 10 | 8,858 | 2026-11-20T22:01 |
 
-## AMVGG completed trades: 41,427 total
+## AMVGG completed trades: 41,460 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,734 |
+| 2026-11-20 | 3,767 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 22:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:00 | **ExpertChipmunkPro**: 2022 Birthday Party Hat, 2022 Birthday Confetti Cannon, Chocolate Dutch Guinea Pig (MFR) | **mostknowniconduh**: Red Dutch Guinea Pig (MFR) |
-| 22:00 | **gyjdqevjaex**: Blue Ringed Octopus (MR), Fly-A-Pet Potion | **ExpertChipmunkPro**: Jellyfish (FR), Dragonfruit Fox |
-| 21:55 | **joshsawsy**: Fly-A-Pet Potion ×3 | **isabella68078**: Unicorn (NFR) |
-| 21:55 | **Artem_21a2**: Haetyphoon | **ingravved**: Ride-A-Pet Potion ×2, Spring Bunny Hood, Alley Cat (R) |
-| 21:55 | **Lumina20265**: Fly-A-Pet Potion | **HuGe_123cAt**: Merry Mistletroll (N) |
-| 21:55 | **dianadonatlove**: Dragon Breath Animated Sticker, Super Saru Animated Sticker, Mermicorn Animated Sticker, Solaris Animated Sticker | **lantongzp**: Copycat |
-| 21:55 | **Angelbatista_me2**: Pain au Chat | **Kxh7k**: Eaten Donut |
-| 21:55 | **Mnryyrm**: Muskrat (M), Fennec Fox (N), Three Blind Mice ×2, Snow Puma, Jacobin Pigeon (N), Retired Egg ×4 | **XzFoxC4CrazeMzX**: Ride-A-Pet Potion |
-| 21:55 | **Adoptmestocks3000**: Fly-A-Pet Potion ×3 | **UNLIMITET01**: Santa Hat |
-| 21:55 | **ampnothingtorich09**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion | **Vitek_228666**: Kangaroo (FR) |
-| 21:55 | **dloxasteq2**: Peppermint Penguin (NFR), Dalmatian (FR) | **laokratia**: Owl (FR) |
-| 21:55 | **943049209d**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×3, Dire Wolf (N) | **Vitek_228666**: Crocodile (R) |
-| 21:55 | **holaxertu**: Cryptid (FR), Snow Monkey | **a_2lisaa**: Peppermint Penguin (R), Sugar Glider (R), Hot Doggo (R), Munchkin Cat, Munchkin Cat (R) |
-| 21:55 | **heesuukey**: White Choccybunny (NR), Ocean Egg, Eggnog Dog | **Yaret_1424**: Chocolate Dutch Guinea Pig |
-| 21:55 | **wqingss**: Ride-A-Pet Potion ×2 | **Kir4kaa**: Chihuahua ×4 |
+| 22:06 | **honeydew_pancakes101**: Cow (FR) | **GalaxyCat_X5**: Fly-A-Pet Potion ×17 |
+| 22:06 | **Sains9811**: Ride-A-Pet Potion, Happy Duckling, Paint Sealer ×2 | **pixeltayler123**: Spring Bunny Feet |
+| 22:06 | **DarkLightopq**: Arctic Reindeer (FR), Sakura Spirit (FR), Jester Dragon (R), Jester Dragon, Fly-A-Pet Potion | **multicuenta_defran**: Dalmatian (FR) |
+| 22:06 | **GL0SSY4XIS**: Fairy Bat Dragon (FR), Candicorn (FR), Kangaroo (FR) | **ImInYourCloset_Hi1**: Strawberry Shortcake Bat Dragon (FR) |
+| 22:06 | **Yourlocalpotato012**: Cow (FR) ×2, Fairy Bat Dragon (FR), Peppermint Penguin, Sugar Glider (FR), Polar Bear, Jester Dragon, Ride-A-Pet Potion ×2, Harp Seal | **warriors1gamig**: Parrot (FR) |
+| 22:06 | **kelixnz**: Cattuccino | **Zoo_Eli**: Fairytale Egg ×18 |
+| 22:06 | **aydachan200311**: Pet Handler Pro Certificate | **Samxl27**: Ride-A-Pet Potion ×2 |
+| 22:06 | **ameyyass**: Fly-A-Pet Potion | **Matt_Proofs**: Bolt (M), Japanese Snow Fairy (M), Nurse Shark (M) |
+| 22:06 | **ameyyass**: Fly-A-Pet Potion | **littlefelonies**: Samoyed (M), Pinkypillar (M) |
+| 22:06 | **newheroltu**: Ballet Swan (NR) ×4 | **rayswardrobe**: Strawberry Shortcake Bat Dragon (FR), Jellyfish (FR) |
+| 22:06 | **dloxasteq2**: Arctic Dusk Dragon (MFR), Mini Pig, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate | **rayswardrobe**: Peppermint Penguin (NFR) |
+| 22:06 | **Cravecuts**: Chihuahua ×3 | **ellidingus**: Chocolate Dutch Guinea Pig |
+| 22:06 | **NOOBASHA121278**: Ride-A-Pet Potion ×3, Koala (NFR) | **yRafah_Bloxinha**: Zombie Buffalo (R) |
+| 22:06 | **mo0nyii**: Dark Choccybunny (N), Mochi Meow ×4, Purrowl, Black-Footed Ferret, Ginger Cat | **giscena**: Pupcicle |
+| 22:06 | **criedtogod**: Alpaca (NFR), Alpaca (N), Cabbit (NFR), Unicorn Horn, Amami Rabbit (MFR), Mini Pig (FR), Alpaca (R), Banana Hat | **Xxskibidy67**: Alpaca (MFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
