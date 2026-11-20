@@ -489,6 +489,34 @@ footer a { color: var(--muted); }
 </div>
 
 <script>
+// TEMPORARY: hide where the data comes from. Set to false (or delete this block) to show the sources again.
+const HIDE_SOURCES = true;
+if (HIDE_SOURCES) {
+  const RULES = [[/\S*(?:amvgg|elvebredd)\.com\S*/gi, "its website"], [/(?:www\.)?playadopt\.me\S*/gi, "the official Adopt Me site"],
+    [/Elvebredd|\bElve\b/g, "List B"], [/amvgg/gi, "List A"]];
+  const mask = s => RULES.reduce((t, [re, to]) => t.replace(re, to), s);
+  const hit = s => /amvgg|elve|playadopt/i.test(s);
+  const fix = root => {
+    if (root.nodeType === 3) { if (hit(root.data)) root.data = mask(root.data); return; }
+    if (root.nodeType !== 1) return;
+    [root, ...root.querySelectorAll("a[href]")].filter(a => a.matches("a[href]")).forEach(a => {
+      if (/amvgg|elvebredd/i.test(a.href)) a.remove();
+      else if (/playadopt/i.test(a.href)) a.replaceWith(...a.childNodes);
+    });
+    for (const el of [root, ...(root.querySelectorAll?.("[title],[aria-label],[placeholder]") || [])])
+      for (const at of ["title", "aria-label", "placeholder"]) { const v = el.getAttribute?.(at); if (v && hit(v)) el.setAttribute(at, mask(v)); }
+    const w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+    for (let n; (n = w.nextNode());) if (hit(n.data)) n.data = mask(n.data);
+  };
+  document.querySelector("details")?.remove();   // "Where this data comes from"
+  document.querySelector("footer").textContent = "Not affiliated with Adopt Me or Uplift Games.";
+  document.querySelector(".brand small").textContent = "value tracker";
+  document.querySelector('meta[name="description"]').content = "Adopt Me values from two lists side by side, with full value history.";
+  fix(document.body);
+  new MutationObserver(ms => ms.forEach(m => m.type === "characterData" ? fix(m.target)
+    : m.type === "attributes" ? fix(m.target) : m.addedNodes.forEach(fix)))
+    .observe(document.body, { subtree: true, childList: true, characterData: true, attributes: true, attributeFilter: ["title", "aria-label", "placeholder"] });
+}
 const RC = { common: "var(--common)", uncommon: "var(--uncommon)", rare: "var(--rare)", "ultra rare": "var(--ultra)", legendary: "var(--legendary)" };
 const SRC = { A: "amvgg", E: "Elvebredd" }, COL = { A: "var(--amvgg)", E: "var(--elve)" };
 const VAR = { r: "Normal", n: "Neon", m: "Mega" }, POT = { fr: "Fly Ride", f: "Fly", r: "Ride", np: "No Potion" };
