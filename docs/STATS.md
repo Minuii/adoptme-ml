@@ -1,20 +1,20 @@
 # Collected data
 
-_Updated 2026-11-20 03:11 UTC by the scrape workflow._
+_Updated 2026-11-20 03:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 16 | 2026-11-11T1036Z | 2026-11-19T0015Z |
+| elve | 17 | 2026-11-11T1036Z | 2026-11-20T0316Z |
 | amvgg | 50 | 2026-11-11T1036Z | 2026-11-19T1816Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 25,007 | 2026-11-20T03:00 |
-| elve | 10 | 4,925 | 2026-11-20T03:01 |
+| amvgg | 10 | 25,253 | 2026-11-20T03:15 |
+| elve | 10 | 4,945 | 2026-11-20T03:15 |
 
 ## AMVGG completed trades: 38,133 total
 
@@ -51,25 +51,25 @@ _Updated 2026-11-20 03:11 UTC by the scrape workflow._
 | 03:06 | **wx8zqxx**: Strawberry Shortcake Bat Dragon (NFR) | **monkrillaz**: Goose (NFR), Cow (FR), Copycat (NR) |
 | 03:00 | **Babyofy5**: Sea Slug (R), Dancing Tube Hat | **pyetrogamer2345**: Ram, Vanilla Penguin, Great Pyrenees, Ghost Dog, Chihuahua ×2, German Shepherd, Harp Seal, Leopard Shark, Brown Springer Spaniel, Puffer Fish, Frog (R) |
 
-## Elvebredd value changes: 62,375 since 2023-09-16
+## Elvebredd value changes: 62,468 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-19 00:06 | Flash Weasel | mega fly ride | 312 | 304 |
-| 2026-11-19 00:06 | Flash Weasel | neon fly ride | 74 | 72 |
-| 2026-11-19 00:06 | Flash Weasel | default no potion | 17 | 16.75 |
-| 2026-11-19 00:06 | Haetyphoon | mega fly ride | 320 | 308 |
-| 2026-11-19 00:06 | Haetyphoon | neon fly ride | 76 | 73 |
-| 2026-11-19 00:06 | Haetyphoon | default no potion | 17.5 | 17 |
-| 2026-11-19 00:06 | Copycat | mega fly ride | 130 | 126 |
-| 2026-11-19 00:06 | Copycat | neon fly ride | 32 | 31 |
-| 2026-11-19 00:06 | Copycat | default no potion | 7 | 6.75 |
-| 2026-11-19 00:06 | Jester Dragon | mega fly ride | 112 | 108 |
-| 2026-11-19 00:06 | Jester Dragon | neon fly ride | 29 | 28 |
-| 2026-11-19 00:06 | Strawberry Tortle | mega fly ride | 580 | 568 |
-| 2026-11-19 00:06 | Strawberry Tortle | neon fly ride | 143 | 140 |
-| 2026-11-19 00:06 | Strawberry Tortle | default no potion | 34.5 | 34 |
-| 2026-11-19 00:06 | Arctic Dusk Dragon | mega fly ride | 100 | 96 |
+| 2026-11-20 02:24 | Flash Weasel | mega fly ride | 304 | 252 |
+| 2026-11-20 02:24 | Flash Weasel | neon fly ride | 72 | 61 |
+| 2026-11-20 02:24 | Flash Weasel | default no potion | 16.75 | 14 |
+| 2026-11-20 02:24 | Haetyphoon | mega fly ride | 308 | 252 |
+| 2026-11-20 02:24 | Haetyphoon | neon fly ride | 73 | 61 |
+| 2026-11-20 02:24 | Haetyphoon | default no potion | 17 | 14 |
+| 2026-11-20 02:24 | Copycat | mega fly ride | 126 | 122 |
+| 2026-11-20 02:24 | Copycat | neon fly ride | 31 | 30 |
+| 2026-11-20 02:24 | Copycat | default no potion | 6.75 | 6.5 |
+| 2026-11-20 02:24 | Jester Dragon | mega fly ride | 108 | 100 |
+| 2026-11-20 02:24 | Jester Dragon | neon fly ride | 28 | 26 |
+| 2026-11-20 02:24 | Jester Dragon | default no potion | 6.5 | 6 |
+| 2026-11-20 02:24 | Amethyst Penguin | mega fly ride | 2224 | 2160 |
+| 2026-11-20 02:24 | Amethyst Penguin | neon fly ride | 546 | 530 |
+| 2026-11-20 02:24 | Amethyst Penguin | default fly ride | 134 | 130 |
 
 ## AMVGG value changes: 7,978 since 2026-06-02
 
