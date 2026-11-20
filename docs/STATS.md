@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 21:55 UTC by the scrape workflow._
+_Updated 2026-11-20 22:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 21:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 42,293 | 2026-11-20T21:45 |
-| elve | 10 | 8,789 | 2026-11-20T21:46 |
+| amvgg | 10 | 42,535 | 2026-11-20T22:00 |
+| elve | 10 | 8,858 | 2026-11-20T22:01 |
 
-## AMVGG completed trades: 41,425 total
+## AMVGG completed trades: 41,427 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,732 |
+| 2026-11-20 | 3,734 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,8 @@ _Updated 2026-11-20 21:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:00 | **ExpertChipmunkPro**: 2022 Birthday Party Hat, 2022 Birthday Confetti Cannon, Chocolate Dutch Guinea Pig (MFR) | **mostknowniconduh**: Red Dutch Guinea Pig (MFR) |
+| 22:00 | **gyjdqevjaex**: Blue Ringed Octopus (MR), Fly-A-Pet Potion | **ExpertChipmunkPro**: Jellyfish (FR), Dragonfruit Fox |
 | 21:55 | **joshsawsy**: Fly-A-Pet Potion ×3 | **isabella68078**: Unicorn (NFR) |
 | 21:55 | **Artem_21a2**: Haetyphoon | **ingravved**: Ride-A-Pet Potion ×2, Spring Bunny Hood, Alley Cat (R) |
 | 21:55 | **Lumina20265**: Fly-A-Pet Potion | **HuGe_123cAt**: Merry Mistletroll (N) |
@@ -48,8 +50,6 @@ _Updated 2026-11-20 21:55 UTC by the scrape workflow._
 | 21:55 | **holaxertu**: Cryptid (FR), Snow Monkey | **a_2lisaa**: Peppermint Penguin (R), Sugar Glider (R), Hot Doggo (R), Munchkin Cat, Munchkin Cat (R) |
 | 21:55 | **heesuukey**: White Choccybunny (NR), Ocean Egg, Eggnog Dog | **Yaret_1424**: Chocolate Dutch Guinea Pig |
 | 21:55 | **wqingss**: Ride-A-Pet Potion ×2 | **Kir4kaa**: Chihuahua ×4 |
-| 21:55 | **Drain_Lemon123x**: Sea Slug (MFR) | **T3bas1**: Owl (FR) |
-| 21:55 | **1IbUkIbRoOkE**: Wing Hang Glider | **Manga11998**: Skelicorn (M) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
