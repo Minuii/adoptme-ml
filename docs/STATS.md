@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 19:11 UTC by the scrape workflow._
+_Updated 2026-11-20 19:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 19:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 39,594 | 2026-11-20T19:00 |
-| elve | 10 | 8,226 | 2026-11-20T19:01 |
+| amvgg | 10 | 39,846 | 2026-11-20T19:15 |
+| elve | 10 | 8,265 | 2026-11-20T19:15 |
 
-## AMVGG completed trades: 40,843 total
+## AMVGG completed trades: 40,869 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,150 |
+| 2026-11-20 | 3,176 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 19:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:10 | **calm_if**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Evelina22super**: Arctic Fox (FR) |
-| 19:10 | **AdoptMeProkachka909**: Ride-A-Pet Potion, Cracked Egg | **Lovely_bug123458**: Mummy Spider (M), Golden Unicorn, Stray Cat Dragon ×4 |
-| 19:10 | **amvgg_nyphiix**: Giraffe (FR), Strawberry Shortcake Bat Dragon (R) | **h4ppysunsh1ine**: Blazing Lion (NFR) |
-| 19:10 | **1Biahsz_altx**: Ride-A-Pet Potion | **Syshsf237**: Little Lamb (M) |
-| 19:10 | **siria20144**: Blue Betta Fish (N), Dragon (N), Golden Dragon (N), Ancient Dragon (N), Dragonfly (N), Golden Griffin (N), Kraken (N), Purrowl (N) | **InloveWh1mm**: Dodo (NFR) |
-| 19:10 | **LiekeLuvsWillow**: Hedgehog (FR), Purrowl | **ksMW846**: Chocolate Chip Bat Dragon (FR), Kangaroo (FR), Fly-A-Pet Potion ×9, Ride-A-Pet Potion |
-| 19:10 | **67hvttestchip**: Kiwi (MFR), Dango Penguins | **nimalina463**: French Bulldog (MFR) |
-| 19:06 | **cesarx_o**: Fairy Bat Dragon (R), Christmas Pudding Pup (NFR), Flaming Fox (NR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Ride-A-Pet Potion ×8, Unicorn Horn | **splead565**: Haetae (FR) |
-| 19:06 | **cosa_azul**: Three Blind Mice (M) | **hellokittyjosi**: Ride-A-Pet Potion ×2 |
-| 19:06 | **Dmytro0705**: Kangaroo (FR), Albino Monkey (FR), Count Slothula | **AnneFabrel2005**: Hot Doggo (FR), Ride-A-Pet Potion |
-| 19:06 | **Eceuni**: Flaming Fox (MFR) | **missy_Artz**: Rain Cloud Hat, Tiny Wings ×2, Fly-A-Pet Potion |
-| 19:06 | **hobbydeer2008**: Slime | **roximeuwu**: Wooly Rhino (R) |
-| 19:06 | **MM_Cloud**: Crystal Egg ×15 | **lotvsec**: Ride-A-Pet Potion |
-| 19:06 | **iluvkhattafya**: Ride-A-Pet Potion ×2 | **lotvsec**: Dango Penguins |
-| 19:06 | **MONjjdjr**: Hamster (R), Cowboy Saddle | **ninja847310**: Ride-A-Pet Potion |
+| 19:15 | **CloudAMs**: Crystal Egg ×15 | **lotvsec**: Ride-A-Pet Potion |
+| 19:15 | **AdoptMeHere03**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Cmetanka14ca**: Dimorphodon (NFR) |
+| 19:15 | **mellqxxrb**: Pupcicle, Jacobin Pigeon (N), California Condor (N), Dog (N), Ant (N) | **regretmebby**: Ride-A-Pet Potion |
+| 19:15 | **deustchla**: Fairy Bat Dragon (FR), Frostbite Bear (FR), Strawberry Shortcake Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Bunny Swirl (MFR) | **Slimeswaztaken44**: Frost Dragon (FR) |
+| 19:15 | **Furryinreallaif**: Capricorn | **bella94255**: Ride-A-Pet Potion |
+| 19:15 | **blvdpawzi**: Galaxy Explorer Helmet | **CursedWitigo**: Paint Sealer ×4 |
+| 19:15 | **St_locki1**: Celebrity Mansion | **skibididumb015**: Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 19:15 | **joshsawsy**: Ride-A-Pet Potion ×2 | **ii_DxscaKun**: Skele-Rex |
+| 19:15 | **StrawberryKiitten**: Haetyphoon, Mini Schnauzer, Pupcicle | **priencesQwinn**: Irish Water Spaniel, Flaming Fox, Jester Dragon, Skelicorn (M) |
+| 19:15 | **Islaxluca**: Vol. 2 Pets Plus Sticker Pack | **Bruno_Games76**: Pupcicle |
+| 19:15 | **Car1os_xd**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×7 | **docedelets**: Lion (NFR) |
+| 19:15 | **rubisanuyam**: Cow (FR) ×2, Spring Bunny Feet, Ride-A-Pet Potion, Cattuccino (N) | **luvyerh**: Cow (NFR) |
+| 19:15 | **zerotocupiddragon**: Ride-A-Pet Potion | **SovertinhaGelada**: Crystal Egg ×15 |
+| 19:15 | **MICROCELE6BRITY**: Haetae (FR) | **xolvrxo**: Polar Bear (MFR), Halo, 2022 Birthday Party Horn, Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Count Slothula |
+| 19:15 | **calm_if**: Unicorn | **souiiijaaa**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
