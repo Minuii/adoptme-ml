@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 05:25 UTC by the scrape workflow._
+_Updated 2026-11-20 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 27,013 | 2026-11-20T05:15 |
-| elve | 10 | 5,337 | 2026-11-20T05:15 |
+| amvgg | 10 | 27,255 | 2026-11-20T05:30 |
+| elve | 10 | 5,399 | 2026-11-20T05:31 |
 
-## AMVGG completed trades: 38,404 total
+## AMVGG completed trades: 38,406 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 711 |
+| 2026-11-20 | 713 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,8 @@ _Updated 2026-11-20 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **KinaToons**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Flashbook6**: Trapdoor Snail (MR) |
+| 05:30 | **cat_lover14q**: Velocirooster (MFR), Unicorn Horn | **Andres_agent**: Silverback Gorilla (MFR) |
 | 05:25 | **yourmyrara**: Fly-A-Pet Potion | **CcLuims011x**: Pet Handler Pro Certificate |
 | 05:25 | **Jennys_17**: Cattuccino, Badger (N) ×2, Mummy Spider | **iMaL_S3R**: Choo Choo Train |
 | 05:25 | **robloxer_3614**: Zombie Chick, Emu, Seahorse, Bee, Snowy Mammoth, Stingray, Boohoo, Amber Butterfly, Stray Cat Dragon, Sea Angel, Clubtail Dragonfly, Stitches | **superheror125**: Robin (N), Flower Power Duckling |
@@ -48,8 +50,6 @@ _Updated 2026-11-20 05:25 UTC by the scrape workflow._
 | 05:25 | **m4rshalI**: Groundhog (MFR), Shark Puppy (MFR) | **aawesomepawsomesauce**: Bush Elephant (MFR) |
 | 05:25 | **fayeandwho**: Alpaca (MFR), Goose (NFR), Tiny Wings | **kkxamiii**: Chocolate Chip Bat Dragon (NR), Goose (MFR) |
 | 05:25 | **Summer_pookie11**: Brown Bear (NR), Corn Doggo (NFR) | **americayume**: Groundhog (NFR), Spring Bunny Nose |
-| 05:25 | **Flux_puck**: Bat Dragon (FR), Panda (NFR) | **nerdoitdabest**: Parrot (R), Parrot (FR), Crow (NFR), Chocolate Chip Bat Dragon (NFR), Pig (NFR) |
-| 05:25 | **80Sofa08**: Thunderfisher (M), Thunderfisher (N), Starfish (N), Soulfire Animated Sticker, Pandaguin Glooptodog, Toucan | **rinmeganjimmy**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
