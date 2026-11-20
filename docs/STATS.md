@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 08:31 UTC by the scrape workflow._
+_Updated 2026-11-20 08:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 08:31 UTC by the scrape workflow._
 | amvgg | 10 | 29,976 | 2026-11-20T08:30 |
 | elve | 10 | 5,920 | 2026-11-20T08:31 |
 
-## AMVGG completed trades: 38,769 total
+## AMVGG completed trades: 38,773 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,076 |
+| 2026-11-20 | 1,080 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,10 @@ _Updated 2026-11-20 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:36 | **mindflaree**: Mummy Spider (M), Caramelgeist (M) | **omgimbann**: Ride-A-Pet Potion |
+| 08:36 | **ItsMeYoshiChaN**: Turtle (FR) | **snupiez27**: Frostbite Bear (FR) |
+| 08:36 | **iiheartzb**: Crocodile (MFR), Glacier Kitsune (MFR) | **fluffyunicorns_932**: Sugar Axolotl (MFR), Golden Chow-Chow (MFR) |
+| 08:36 | **Minimeme1112**: Shadow Dragon (FR), Frost Dragon (FR) | **Traderie_Acc200**: Bat Dragon (FR) |
 | 08:30 | **Zukosaysloveurself**: Copycat, Fly-A-Pet Potion, Ride-A-Pet Potion | **Wolfie4567ty**: Albino Bat (MR) |
 | 08:30 | **Demon_alternacc**: Chihuahua (NR) | **24k_ichi**: Pupcicle ×3 |
 | 08:30 | **Prinssxlq**: Aztec Egg, Three Blind Mice | **ExileAri**: Mochi Meow |
@@ -46,10 +50,6 @@ _Updated 2026-11-20 08:31 UTC by the scrape workflow._
 | 08:30 | **5amantha2**: Turtle (FR) | **0Adoptlme**: Alpaca (FR) |
 | 08:30 | **Alina62306**: Scarecrow Horse | **vryxsian**: Robot ×2 |
 | 08:30 | **Alina62306**: Black-Footed Ferret | **vryxsian**: Red Panda |
-| 08:30 | **syavcas**: Bee, Ginger Cat ×2, Gorilla ×3, Nurse Shark ×2, Ruddy Duck, Sunflower Friend, Thunderfisher, Pilot Gull ×2, Lunar Tiger, Waffle Wyrm ×2, Milk Choccybunny ×2 | **i111kwm**: Ride-A-Pet Potion |
-| 08:30 | **Vanlyzn26**: Unicorn ×4 | **afissamuzfirah**: Ride-A-Pet Potion ×4 |
-| 08:30 | **Lalilyn_12**: Jester Dragon | **liofe1**: Spring Bunny Feet, Ride-A-Pet Potion, Alien Eyes Hat, Bolt (M), Corndog Mustache |
-| 08:30 | **mxlodiqe**: Skelicorn (M) | **wldnsdlrnldudna**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
