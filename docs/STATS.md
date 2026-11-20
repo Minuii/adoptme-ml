@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 19:46 UTC by the scrape workflow._
+_Updated 2026-11-20 19:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 19:46 UTC by the scrape workflow._
 | amvgg | 10 | 40,336 | 2026-11-20T19:45 |
 | elve | 10 | 8,389 | 2026-11-20T19:46 |
 
-## AMVGG completed trades: 40,958 total
+## AMVGG completed trades: 41,002 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,265 |
+| 2026-11-20 | 3,309 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 19:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:40 | **k4cezz**: Cryptid (FR), Strawberry Shortcake Bat Dragon (FR), Siamese Cat (MFR), Cabbit (NFR), Goose (FR), 2022 Birthday Party Hat | **Marilynbrandt662**: Strawberry Shortcake Bat Dragon (MFR) |
-| 19:40 | **anto_7670**: Ancient Dragon | **oOWilDig0n0oO**: Retired Egg ×3 |
-| 19:40 | **Sonicka525**: Ride-A-Pet Potion | **Malina8491**: Blue Boohoo Mega Neon Paint |
-| 19:40 | **Espresso_Signora901**: Rhino (R) | **das_mer1**: Fly-A-Pet Potion |
-| 19:40 | **Alana_enna22**: Corgi (M), Corgi (N) | **wrawixx**: Ride-A-Pet Potion |
-| 19:40 | **localbanxx**: Fly-A-Pet Potion | **7ckyy**: Rainbow Stroller |
-| 19:40 | **bulbashine**: Goose (MFR), Goldhorn (N) | **bbbbbbbbbbbbbbiuu**: Mermicorn (MFR) |
-| 19:40 | **tessapointessa**: Zodiac Minion Chick (N), Zodiac Minion Chick ×4, Swordfish | **silliegur**: Fly-A-Pet Potion |
-| 19:40 | **demonic_duck2007**: Solaris (R) | **tessapointessa**: Chick (N) ×2 |
-| 19:36 | **Swan_Couture**: Kangaroo (R), Albino Monkey (FR), Elephant (R), 2022 Birthday Party Horn, Sheeeeep (NFR), Latte Kitsune, Unicorn (NFR) ×2, Kitsune (NFR) | **ADOPMEBAT5**: Chocolate Dutch Guinea Pig (MFR), Slime (MFR), Wooly Rhino (MFR), Happy Duckling (MR) |
-| 19:36 | **Lxdyxx**: Samoyed (M) | **Mnryyrm**: Ride-A-Pet Potion, Ms. Muffet (N) |
-| 19:36 | **Popa67742**: Dango Penguins | **Evelina22super**: Fly-A-Pet Potion |
-| 19:36 | **Babyofy5**: Silverback Gorilla, Zombie Buffalo (R) | **wjredmind**: Blue Ringed Octopus (MR) |
-| 19:36 | **Cupidschokehold5**: Candicorn (NFR) | **iloveiceecreamm**: Pink Cat (NFR), Rain Cloud Hat |
-| 19:36 | **59DAMAGE**: Strawberry Shortcake Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (FR) | **disyvx**: Owl (NFR) |
+| 19:55 | **meliailen8**: Fairy Bat Dragon (FR), Sheeeeep (R), Pupcicle | **M4r1_4nn**: Goose (FR) |
+| 19:55 | **JustMeYito**: Frost Fury (FR), Alley Cat (M), Ride-A-Pet Potion, Narwhal (N) | **FestiveNotCupcake**: Bush Elephant (NR) |
+| 19:55 | **kayxlillies**: Dango Penguins, Tree Kangaroo | **Solecitalamasbonita**: Hare (FR) |
+| 19:55 | **noahiix5**: Strawberry Tortle, Mini Schnauzer (MFR), Copycat, Phantom Dragon | **warrior_catsmember**: Alley Cat (MFR) |
+| 19:51 | **nastvii3**: Jester Dragon (R) | **xxxxproxxxx5500**: Fly-A-Pet Potion ×2 |
+| 19:51 | **Miner_Beast34**: Ride-A-Pet Potion | **Beronika_40**: Reindeer |
+| 19:51 | **pktyce**: Dalmatian (FR) ×2, Dalmatian (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3 | **frecalsplogeok9**: Frost Dragon (FR) |
+| 19:51 | **LostKeksik**: Ride-A-Pet Potion ×4 | **iloveicecream34159**: Merhorse (NR), 2022 Uplift Butterfly (N), Ruff, Jacobin Pigeon (M), Summer Walrus Sunhat, Kelp Raider (N) |
+| 19:51 | **flov3ry**: Mini Pig (NR), Tiny Wings | **xo1qn**: Peppermint Penguin (NFR) |
+| 19:51 | **luvyerh**: Spring Bunny Feet, Cattuccino (N) | **Popa67742**: Fly-A-Pet Potion |
+| 19:51 | **auroricsoul**: Fairy Bat Dragon (R), Arctic Fox ×2, Munchkin Cat ×3, Munchkin Cat (R), Frost Unicorn (R), Cupid Dragon (R), Ballet Swan, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **Dima_98909**: Goat (MFR) |
+| 19:51 | **7MS23**: Retired Egg ×18 | **VoidApo2**: Ride-A-Pet Potion |
+| 19:51 | **SweetVqniIIa**: Harp Seal (MR), Toaster Hat | **xluvvmel**: Pupcake (MFR), Chihuahua (M), Unicorn Backpack, Pancake Stack, Goth Shoes, Pink Cat Ear Headphones, Sandwich Hat, Burger Boots |
+| 19:51 | **BverlyBlue**: Bubblegeist (N), Bubblegeist ×8 | **aaliyah0284**: Fly-A-Pet Potion |
+| 19:51 | **Ailya2_20**: Caramelgeist (M) ×2, Bolt (M) | **Kira9975335**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
