@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 00:17 UTC by the scrape workflow._
+_Updated 2026-11-20 00:26 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 00:17 UTC by the scrape workflow._
 | amvgg | 10 | 22,423 | 2026-11-20T00:15 |
 | elve | 10 | 4,450 | 2026-11-20T00:15 |
 
-## AMVGG completed trades: 37,751 total
+## AMVGG completed trades: 37,771 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 58 |
+| 2026-11-20 | 78 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 00:17 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:15 | **01iixEndii**: Flash Weasel (M) | **snowfalkeisthebest**: Lion Cub (MFR) |
-| 00:15 | **iaMatthieu1**: Pelican | **werreriss0**: Arctic Fox (R), Matcha Cat (R), Fly-A-Pet Potion ×4, Unicorn, Ride-A-Pet Potion |
-| 00:15 | **lo0vyyu**: Crystal Egg ×15 | **Elwanizk**: Ride-A-Pet Potion |
-| 00:15 | **A1d3n_L1ve**: Harp Seal | **lo0vyyu**: Crystal Egg ×18 |
-| 00:15 | **Robloxiana_xxx2011**: Phantom Dragon (MFR), Honey Badger (MFR) | **GiraffeGirI1**: Werewolf (MFR) |
-| 00:15 | **gattitakawaii16**: Jellyfish, Munchkin Cat ×2, Lion Cub (FR) | **fawnmariex**: Goose (FR) |
-| 00:15 | **Henrique54626**: Grim Dragon (FR) | **camiilita_7w7**: Frostbite Bear (FR) |
-| 00:15 | **X3uphoria**: Evil Unicorn (FR), Parrot (FR), Owl (FR) | **Kui_Yeager**: Frost Dragon (NFR) |
-| 00:15 | **lnvaiding**: Fairy Bat Dragon (FR), Copycat (N), Pupcicle (M) | **blankblank_gone**: Chocolate Chip Bat Dragon (FR) |
-| 00:15 | **Leo4cestud1oTV**: Pain au Chat ×3 | **luninh512**: Ride-A-Pet Potion |
-| 00:15 | **lolppp0vld**: Turtle (NFR), Kangaroo (FR) | **Rysan1234567**: Strawberry Shortcake Bat Dragon (FR) |
-| 00:15 | **bgfjm6fytfthfjytjkhb**: Bat Dragon (FR) | **cakeheheheheheh**: Peppermint Penguin (MFR), Cryptid (NFR), 2022 Birthday Cupcake Shoes ×2, 2022 Birthday Cake ×2, Unicorn Horn ×3, Spring Bunny Nose, Spring Bunny Feet, 2022 Birthday Confetti Cannon, Ride-A-Pet Potion ×3 |
-| 00:15 | **lxnxlyXfrxvxr**: Ehecatl (M) | **mikaiii_016**: Ride-A-Pet Potion |
-| 00:15 | **lxnxlyXfrxvxr**: Tree Sasquatch (N), Black Rhino (M), Snowy Mammoth (N), Thunderfisher ×2, Jumping Spider | **mikaiii_016**: Ride-A-Pet Potion |
-| 00:15 | **mikaiii_016**: Fly-A-Pet Potion, Retired Egg ×5 | **AsianIceCold**: Triceratops (MR) |
+| 00:26 | **Sadieworldz**: Tio De Nadal, Red Dutch Guinea Pig (NFR), Cracked Egg ×6 | **kaylamicmi**: Chocolate Dutch Guinea Pig (M) |
+| 00:26 | **Vixinnty**: Arctic Reindeer (MFR), Jester Dragon (MFR), Arctic Fox (FR), Tiny Wings | **disapp6ar**: Chocolate Chip Bat Dragon (MFR) |
+| 00:26 | **rainbown758**: Ninja Monkey (R) | **cristhianxd2006**: Rain Boots |
+| 00:21 | **thesuperkid0**: Crow (FR), Christmas Pudding Pup (NR), Kangaroo (FR), Haetyphoon, Fly-A-Pet Potion, Ride-A-Pet Potion | **Kiandra13kiandra**: Owl (FR) |
+| 00:21 | **SSninjas**: Munchkin Cat, Border Collie (R), Copycat (R) | **Aslie_17**: Strawberry Tortle (FR) |
+| 00:21 | **XXroblox_rosie**: Jousting Horse | **ItzAina_JPN**: Alley Cat (R) |
+| 00:21 | **aff6ctionnn**: Fairy Bat Dragon (R), Siamese Cat (R), Great Pyrenees (MFR) | **kaylamicmi**: Cabbit (FR), Sugar Glider (FR) |
+| 00:21 | **Margoshka_Zaychik**: Bunny Swirl (N), Capricorn, Pupcicle, Puptune, Puffer Fish, Onza | **itsxxazra**: Frost Fury (R) |
+| 00:21 | **love4lonee**: Mochi Meow (NR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **puttypie111**: Unicorn (NFR) |
+| 00:21 | **pexrldiver**: Pupcicle ×2, Ride-A-Pet Potion, S'mores Raccoon, Corgi (R) | **Antonipes**: Dango Penguins |
+| 00:21 | **jelliekats**: Chocolate Dutch Guinea Pig (M), Ice Cream Cone Hat | **Arieonalt67**: Mini Pig |
+| 00:21 | **Jimmyfish350**: Balloon Unicorn (FR), Caterpillar (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **OMGITSMACKENZIE6**: Parrot (FR) |
+| 00:21 | **vqstarxzz**: Cryptid (R), Siamese Cat (NFR) | **Bloodyskyxes**: Chocolate Chip Bat Dragon (NFR) |
+| 00:21 | **Coolbirdy40**: Rainbow Maker, Fly-A-Pet Potion ×2 | **vilskg**: Goat (NR), Rain Cloud Hat, Unicorn Horn |
+| 00:21 | **koeinaway1**: Cryptid (FR) | **Kamila_33309**: Munchkin Cat (MFR), Kitty Bat (M), Bunny Swirl |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
