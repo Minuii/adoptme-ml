@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 16:01 UTC by the scrape workflow._
+_Updated 2026-11-20 16:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 16:01 UTC by the scrape workflow._
 | amvgg | 10 | 36,707 | 2026-11-20T16:00 |
 | elve | 10 | 7,567 | 2026-11-20T16:01 |
 
-## AMVGG completed trades: 40,069 total
+## AMVGG completed trades: 40,105 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 2,376 |
+| 2026-11-20 | 2,412 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 16:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:00 | **Unicornfav_animal**: Parrot (R) | **KIBERBUNNY**: Cow (NFR), Kangaroo (MFR), Midnight Dragon (R), Frost Fury (FR), Ride-A-Pet Potion |
-| 16:00 | **MADERPADER910**: Shadow Dragon (FR), Blazing Lion ×2, Turtle (FR) | **ZzzTrades7**: Bat Dragon (FR) |
-| 16:00 | **llxnn1**: Crow (NFR), Peppermint Penguin (MFR), Fairy Bat Dragon (NFR), Honey Badger (NFR) | **MADERPADER910**: Bat Dragon (FR) |
-| 16:00 | **BCEM_NP2**: Candicorn, Shark Puppy (FR), Jester Dragon (R), Jacobin Pigeon (M) | **immaterialdivafm**: Cow (R) |
-| 16:00 | **Siren_AriaBlaze**: Ice Cream Hermit Crab (N), Pain au Chat | **lililili2288_pot**: Ice Cream Hermit Crab (NR) |
-| 16:00 | **FrontalSphere85**: Cryptid (FR), Harp Seal (MFR), Chocolate Dutch Guinea Pig (N), Skelicorn (M), Irish Elk (N), Great Pyrenees (NFR) | **Billyontop505**: Balloon Unicorn (FR) |
-| 16:00 | **quietlyangel**: Mini Schnauzer (N) | **frecalsplogeok9**: Mini Schnauzer ×4 |
-| 16:00 | **nemoloe13**: Frost Dragon (FR), Owl (FR), Goose (FR), Flaming Fox | **j0eymlp**: Balloon Unicorn (NFR) |
-| 16:00 | **ra3czr**: Pet Handler Pro Certificate | **danialmandoz07142**: Dango Penguins |
-| 16:00 | **orlika2011**: Mini Pig (FR) | **Wolfie4567ty**: Kangaroo (FR), Candyfloss Chick (FR) |
-| 16:00 | **pskijydy**: Candicorn (R) | **mobimaa**: Copycat, Glacier Kitsune (FR), Brown Bear, 2D Kitty, Irish Elk |
-| 16:00 | **admtradeonly**: Candicorn (R) | **kitty9x3asd7**: Unicorn Horn |
-| 16:00 | **Moticia20**: Yule Log Dog (MFR) | **virtueror**: Kitty Bat (MFR), Great Pyrenees (MR), Green Amazon (MR), Scarlet Butterfly (MR), Glormy Dolphin (MR), Ride-A-Pet Potion ×2 |
-| 16:00 | **morze68**: Turtle (FR), Kangaroo (NFR), Flamingo (R), Cabbit (R) | **4ebyrek_16cmqwq**: Evil Unicorn (FR) |
-| 16:00 | **Tr0ubledD0ll**: Cryptid, Moon Rabbit (MR), Chihuahua (MR), Ghostly Cat (MR), Singularity Pisces (MR), Stray Cat Dragon (M), Pupcicle, Praying Mantis, Diamond Dragon, Ride-A-Pet Potion, Burger Boots | **kori_sansan**: Balloon Unicorn (FR) |
+| 16:11 | **moxlls**: Fire Foal (N), Chestnut Glyptodon (N), Tegu (N), Jiggly Jerboa (N), Jacobin Pigeon (N), Milk Choccybunny (N), Humbug (N), Dog (N), Muskrat (N), Ant (N), Shih Tzu (N), California Condor (N) | **mellqxxrb**: Ride-A-Pet Potion |
+| 16:11 | **cherrymoon4441**: Strawberry Shortcake Bat Dragon (R) | **p_lutoni**: Tio De Nadal, Copycat ×2, Field Mouse, Many Mackerel, Chocolate Dutch Guinea Pig, Giant Cheetah Mount, Toaster Hat, Pet Handler Pro Certificate, Ride-A-Pet Potion ×3 |
+| 16:11 | **REALjaylarp**: Cabbit (FR), Peppermint Penguin (R), Pupcicle, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×7 | **OG_Kylen44840**: Arctic Reindeer (FR) |
+| 16:11 | **VitcoryA**: Arctic Reindeer (FR), Peppermint Penguin (FR) | **C0PHYAK**: Evil Unicorn (FR) |
+| 16:11 | **Attilafluffy16**: Ice Golem (MFR), Goose | **4nGeL2002**: Glacier Moth (MFR) |
+| 16:11 | **flears_brai**: Fly-A-Pet Potion ×3 | **kittychankawaii96419**: Christmas Pudding Pup |
+| 16:11 | **AbramIsBack**: Peppermint Penguin (FR), Ride-A-Pet Potion ×2 | **dinozavrik2913**: Goose (FR) |
+| 16:11 | **Justformoneybrolol**: Shadow Dragon (FR), Giant Panda (FR), Border Collie (MFR), Chocolate Dutch Guinea Pig (MFR), Chihuahua (M) | **unuunu82**: Cryptid (MFR) |
+| 16:11 | **mimimusasusu**: Ride-A-Pet Potion | **24h_adoptmecow**: Glyptodon Ducky (M), Unicorn Ducky (M) |
+| 16:11 | **s_coki**: Chocolate Dutch Guinea Pig, Shiver Wolf | **admtradeonly**: Fly-A-Pet Potion |
+| 16:11 | **elproXD_7v7**: Pain au Chat ×8 | **SophiaY305**: Ride-A-Pet Potion ×3 |
+| 16:11 | **YOKOZ303**: Peahen (N) | **Angie_mucc**: Ride-A-Pet Potion ×4 |
+| 16:11 | **Coolbaby10100**: Copycat (NFR), Copycat (N) ×2, Copycat ×4 | **lolmael_1**: Copycat (MFR) |
+| 16:11 | **Xxxxashhhh**: Orchid Butterfly (R), Dalmatian (FR), Fallow Deer (NFR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Goodnews2013**: Owl (FR) |
+| 16:11 | **Sasunaru45109**: Hopbop (N), Ladybug (R), Spider Crab, Icy Porcupine, Cat (N), Gold Circle Glasses | **burger_boy687**: Water Opossum (M) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
