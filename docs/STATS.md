@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 11:55 UTC by the scrape workflow._
+_Updated 2026-11-20 12:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 11:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 32,901 | 2026-11-20T11:45 |
-| elve | 10 | 6,590 | 2026-11-20T11:46 |
+| amvgg | 10 | 33,109 | 2026-11-20T12:00 |
+| elve | 10 | 6,679 | 2026-11-20T12:01 |
 
-## AMVGG completed trades: 39,208 total
+## AMVGG completed trades: 39,236 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,515 |
+| 2026-11-20 | 1,543 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 11:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:55 | **mzSqw0**: Crimson Cape (NR), Mummy Spider (N), Caramelgeist (N), Granny Wolf (N), Cattuccino, Thunderfisher, Bobageist, Witch's Caravan, Motorized Sofa | **lunweup**: Ride-A-Pet Potion |
-| 11:55 | **lyydhjd**: Evil Chick (M), Ghost Chick (M) | **BeenuttBudder**: Dragonfruit Fox (NR) |
-| 11:55 | **Kety222222222**: Fly-A-Pet Potion ×2, Fairytale Egg | **11arina_zaika1**: Velocirooster |
-| 11:55 | **Strawberryxm0cha**: Strawberry Shortcake Bat Dragon (FR) | **CheeseThePug2**: Cow (FR), Fairy Bat Dragon (FR), Ride-A-Pet Potion ×2 |
-| 11:55 | **sincasts**: Dango Penguins | **Yumi_Rose8**: Pet Handler Pro Certificate |
-| 11:55 | **luxsdomain**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×11 | **caritoo_zmor**: Turtle (FR) |
-| 11:55 | **hopia00**: Dragonfruit Fox (N) ×2, Dragonfruit Fox (NR) | **DaphiePafie**: Jester Dragon (NFR), Flaming Fox (NR), Tarsier (N) |
-| 11:51 | **WeAreTheStars_3**: Fairytale Egg ×18 | **altttaaaaacccaa**: Purrowl (N) |
-| 11:51 | **ALIYAIRA1234**: Strawberry Shortcake Bat Dragon (FR) | **L_person21**: Undead Jousting Horse (FR), Fairy Bat Dragon (FR) |
-| 11:51 | **fIuorines**: Pancake Stack | **kneesurgeryreminder**: Sandwich Hat |
-| 11:51 | **venomshabezbantika**: Stray Cat Dragon (N), Black-Footed Ferret (N), Ms. Muffet (N), Purrowl | **Gigs194**: Pupcicle |
-| 11:51 | **0Neizvestnost0**: 2021 Uplift Butterfly (MFR) | **holasoyzuri_yt**: Zombie Buffalo |
-| 11:51 | **vgg77vgg**: Kangaroo (FR), Fly-A-Pet Potion ×3 | **arseniylolol**: Turtle (FR) |
-| 11:51 | **ejayellama**: Ride-A-Pet Potion, Sea Turtle | **The_Mery24**: Magma Snail (NR) |
-| 11:51 | **hensij3n**: Kangaroo (NFR), Ballet Swan (NR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Caxapok_Polinka67**: Peppermint Penguin, Fairy Bat Dragon (R) |
+| 12:00 | **danyypizza121**: Snowball Pet (NFR) | **YAJAIRA289**: Red Dutch Guinea Pig |
+| 12:00 | **kittiemiss**: Rainbow Maker, Ghost (MFR), Sugar Glider (R) | **zarmeowz**: Alpaca (NFR) |
+| 12:00 | **TYTkuza2**: Kangaroo (FR) | **Wolfie4567ty**: Ride-A-Pet Potion ×17 |
+| 12:00 | **reenaw11**: Winged Horse (MFR) | **Dobbyplok**: Burger Bear (MFR) |
+| 12:00 | **Qwertyni07**: Cake Friend (R), Sloth (R), Diamond Dragon (R) | **Mary_202401**: Ride-A-Pet Potion ×2 |
+| 12:00 | **wq_xil**: Ride-A-Pet Potion | **komod4562**: Unicorn |
+| 12:00 | **Kit_tblmamymav1**: Hamster (MR) | **4revolutions**: Ride-A-Pet Potion ×4 |
+| 12:00 | **coqoqek**: Kangaroo (FR), Patchy Bear (M), Ride-A-Pet Potion | **Crystal_andLisa**: Candyfloss Chick (FR) |
+| 12:00 | **K_KLOPQ**: Turtle (FR), Candicorn, Tortuga de la Isla (N), Mermicorn, Amami Rabbit (MR), Toxic Kaijunior (MR) | **leruval**: Evil Unicorn (FR) |
+| 12:00 | **pawthetiic**: Donkey (M), Ocelot (M), Galaxy Explorer Helmet | **JULI_LOVE48**: Ride-A-Pet Potion |
+| 12:00 | **skibidimarzenkauwu**: Owl (NFR), Cow (NFR) | **Dodo_DelRey**: Shadow Dragon (FR) |
+| 12:00 | **chrmbunnie**: Endangered Egg ×10, Royal Fairytale Egg ×2, Pandaguin Glooptodog (N), Clumpty (N), Shih Tzu (N), Camel (N), Budgie Witch (N), Poltergeist Box | **llPizza_Eaterll**: Ride-A-Pet Potion |
+| 12:00 | **Amvgtrading5**: Apple Owl (MFR), Golden Chow-Chow (MFR) | **SantiGlam0**: Moose Calf (MFR) |
+| 12:00 | **konma7777**: Ghost (M) | **Xxsunflower_watherxX**: Ride-A-Pet Potion |
+| 12:00 | **kok225677**: Cobra (FR) ×2 | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
