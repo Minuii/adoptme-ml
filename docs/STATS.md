@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 17:25 UTC by the scrape workflow._
+_Updated 2026-11-20 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 17:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 37,906 | 2026-11-20T17:15 |
-| elve | 10 | 7,856 | 2026-11-20T17:15 |
+| amvgg | 10 | 38,153 | 2026-11-20T17:30 |
+| elve | 10 | 7,931 | 2026-11-20T17:31 |
 
-## AMVGG completed trades: 40,426 total
+## AMVGG completed trades: 40,449 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 2,733 |
+| 2026-11-20 | 2,756 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 17:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:25 | **Hacpu_BHocok**: Arctic Fox (R), Alley Cat ×2, Alley Cat (R), Christmas Pudding Pup (FR), Gemstone Egg | **Xlucasxoi**: Arctic Fox (NFR) |
-| 17:25 | **Venom_eshkeregg**: Fly-A-Pet Potion ×3, Toucan (N) | **TeezYeez**: Christmas Pudding Pup |
-| 17:25 | **xv1oh**: Munchkin Cat (MFR), Spring Bunny Nose, Ride-A-Pet Potion ×2 | **roxzyydoll**: Strawberry Tortle (FR), Pelican (FR), Cow (FR), Munchkin Cat (FR) |
-| 17:25 | **TeezYeez**: Border Collie, Turtle (FR) | **Mnenormalno_0**: Goose (FR) |
-| 17:25 | **Sarah_dzalg**: Hyena (NFR), Skelicorn (M), Unicorn Backpack | **FruitcakeSEALS**: Arctic Fox (NR) |
-| 17:25 | **x0CDs3**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×3 | **leoncitoUwU12345**: Kangaroo (NFR) ×2 |
-| 17:25 | **SantyGamer_4592**: Pelican | **fehrec**: Field Mouse (NFR) |
-| 17:25 | **AmandaaX213**: Ride-A-Pet Potion | **heesuukey**: Pupcake (FR) |
-| 17:25 | **HaramiHUN**: S'mores Raccoon (N), Puffer Fish (NR), Ride-A-Pet Potion, Jiggly Jerboa (N) ×2 | **Red_Spider228**: Tiny Wings |
-| 17:25 | **bunniiangeI**: Chocolate Dutch Guinea Pig (NR) | **Katespaw**: Crystal Egg ×5, Copycat, Ride-A-Pet Potion, White Choccybunny (N), Milk Choccybunny (N) |
-| 17:25 | **jayjay080309**: Owlbear (R), Cupid Dragon (MFR), Snow Monkey (MFR) | **rayswardrobe**: Balloon Unicorn (FR) |
-| 17:25 | **newheroltu**: Ballet Swan ×17 | **SvinaATvar67**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:25 | **Catyuushy**: Mummy Spider (M), Blue Cat (M), Pink Dog (M) | **Julka_Polska157**: Frostbite Cub |
-| 17:25 | **Shapka1000_2**: Koala (NFR) | **6evesvokhaha**: Fly-A-Pet Potion |
-| 17:25 | **hellofriendnicetome**: Ghost Bunny (MFR) | **subv3re**: Ghost Bunny (MR) |
+| 17:30 | **hihihihihihihahahah2**: Balloon Unicorn (FR), Cow (FR) ×3, Albino Monkey (FR), Ice Wolf (NFR), Chocolate Dutch Guinea Pig (MR), Matcha Cat | **amendnenenen**: Sugar Glider (MFR) |
+| 17:30 | **AmandaPandaKawaii123**: Red Dutch Guinea Pig | **teuisi_i2**: Snow Monkey (R), Ride-A-Pet Potion, Mule |
+| 17:30 | **zombiebrain_bleh**: Munchkin Cat (MFR), Sandwich Hat, Spring Bunny Nose, Chocolate Dutch Guinea Pig | **zomqies_alts**: Field Mouse (MFR) |
+| 17:30 | **obichamte77**: Yule Log Dog (MFR) | **zeejnaa**: Kangaroo (NFR) |
+| 17:30 | **AMELIESFABXO**: Sugar Glider (MFR), Owlbear (MFR) | **Kakamakapaka98**: Giraffe (FR) |
+| 17:30 | **gamercaty6**: Munchkin Cat (MR), Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×3, Pet Handler Pro Certificate | **Dys_l3x**: Cryptid (FR) |
+| 17:30 | **Haiifromamvgg**: Bat Dragon (FR) | **1MZ03Y**: Hyena (MFR), Cow (MFR), Swan (MFR), Caelum Cervi (MFR), Goat (MR), Many Mackerel (MFR), Ice Golem (MFR), Dango Penguins (MR), Volcanic Rhino (M), Dragonfruit Fox (MR), Moose Calf (MFR), Fleur De Ice (M) |
+| 17:30 | **Lazypotato4ever_12**: Christmas Pudding House ×4 | **CursedWitigo**: Dinner Discourse Cat Sticker |
+| 17:30 | **adivertirte**: Fairytale Egg ×4 | **awwq_03**: Camel (N) |
+| 17:30 | **Robloxiana_xxx2011**: Ride-A-Pet Potion ×2 | **forto04111**: Pink Cat Ear Headphones |
+| 17:30 | **illitglitterrs**: Bunny Swirl, Grinmoire, Fairytale Egg | **basyatop12345**: Ride-A-Pet Potion |
+| 17:30 | **quinniaqila**: Strawberry Shortcake Bat Dragon (FR), Goose (NFR) | **Liza10kis**: Balloon Unicorn (FR), Chocolate Dutch Guinea Pig (N) |
+| 17:30 | **sof_gygy**: Copycat (NR), Strawberry Shortcake Ducky | **Aliceinw0nderland_33**: Turtle (FR) |
+| 17:30 | **baysan59**: Cow (NFR), Pig (NFR), Jester Dragon, Fly-A-Pet Potion ×2, Pupcicle | **3LL1SV1BE**: Evil Unicorn (FR) |
+| 17:30 | **the_randomgirl1812**: Fly-A-Pet Potion | **pimchesj00**: Chihuahua (N) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
