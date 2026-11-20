@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 14:11 UTC by the scrape workflow._
+_Updated 2026-11-20 14:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 14:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 34,906 | 2026-11-20T14:00 |
-| elve | 10 | 7,101 | 2026-11-20T14:01 |
+| amvgg | 10 | 35,131 | 2026-11-20T14:15 |
+| elve | 10 | 7,122 | 2026-11-20T14:15 |
 
-## AMVGG completed trades: 39,633 total
+## AMVGG completed trades: 39,653 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,940 |
+| 2026-11-20 | 1,960 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 14:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:11 | **Trixcaughtlackin**: Cow ×3, Aurora Fox (NFR) | **xurlocalwhateverx**: Frost Unicorn (FR), Christmas Pudding Pup (MFR) |
-| 14:11 | **Xnixht**: Turtle (NFR), Cabbit (NFR), Candicorn (FR) | **AvaCometfish961**: Crow (FR) |
-| 14:11 | **MM_Cloud**: Crystal Egg ×15 | **Yvanille_hxvn**: Ride-A-Pet Potion |
-| 14:11 | **zzzzzxxxxxwr9**: Fire Foal (MR), Clumpty (N), Rubber Ducky (N) | **Yvanille_hxvn**: Ride-A-Pet Potion |
-| 14:11 | **COBRA_GAMER26M**: Strawberry Shortcake Bat Dragon (FR) | **Tomatoxxxblizzard**: Unicorn Horn ×3 |
-| 14:11 | **qq0xxx6**: Koala, Skelicorn, Zebra (N), Nutcracker Squirrel, Pomeranian, Dragonfly | **228Caesar_Zeppeli**: Ride-A-Pet Potion |
-| 14:11 | **nikitaloooll7**: Spider Crab (R), Snowman (R) | **lunweup**: Ride-A-Pet Potion |
-| 14:11 | **Spidy_shalapaykin**: Skelicorn (R), Cattuccino (R) | **lunweup**: Ride-A-Pet Potion |
-| 14:11 | **barbiequeuu**: Undead Jousting Horse (FR), Cow (R), Cabbit (R), Grim Dragon (FR) ×2, Turtle (R), Frostbite Bear (R) ×2, Frostbite Bear, Eggnog Dog (MFR), Unicorn (NFR), Aussie Egg, Ride-A-Pet Potion ×2 | **Cute_CocoMouse**: Cryptid (NFR) |
-| 14:11 | **xmikaeq**: Goose (FR), Munchkin Cat (NFR) | **510478**: Red Dutch Guinea Pig (MFR) |
-| 14:11 | **Idci08**: Fairy Bat Dragon (FR) | **WoltWO777**: Kangaroo (FR), Jester Dragon (FR), Glacier Kitsune (FR) |
-| 14:11 | **adopmetrede0**: Owl (FR) ×2, Snow Owl (NFR), Ride-A-Pet Potion ×4 | **ben_nontawat**: Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (NFR) |
-| 14:11 | **ampnothingtorich09**: Ride-A-Pet Potion ×16 | **Vitek_228666**: Kangaroo (FR) |
-| 14:11 | **you35o**: Jekyll Hydra Animated Sticker | **Sentikaza_pikachu**: Biodome Home |
-| 14:11 | **Vathanayiy**: Thunderfisher (M), Brachiosaurus (MFR) | **mymylamoo1**: Celebrity Mansion |
+| 14:15 | **Qwerty6766721**: Fly-A-Pet Potion ×4 | **lesea53**: Pig |
+| 14:15 | **batdbxp8429**: Frostclaw, Kage Crow, Waffle Wyrm (N) | **wanda_vision680**: Ride-A-Pet Potion |
+| 14:15 | **kumaripaskangtakbo**: Paint Sealer ×6 | **Darky_side02**: Gemstone Egg |
+| 14:15 | **Iwokale**: Pig (MFR), Sushi Penguin (MFR) | **Elixarty**: Glacier Kitsune (MFR) |
+| 14:15 | **chase_ufficial1**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **ETM_TOPG**: Pig (R) |
+| 14:15 | **Ggoggeggu**: Jester Dragon (R) | **pmpjmg1**: Ride-A-Pet Potion ×5 |
+| 14:15 | **Angelsss_81**: Fly-A-Pet Potion | **Abilka_lololoshka2**: Harp Seal (R) |
+| 14:15 | **COBRA_GAMER26M**: Strawberry Shortcake Bat Dragon (FR) | **Auds191102**: Unicorn Horn ×3 |
+| 14:15 | **Annsjdnsnjs**: Crow (FR) | **coolboy2029_123**: Field Mouse (MFR), French Bulldog (MFR), Puffer Fish (MFR) |
+| 14:15 | **liamstar_019**: Rain Cloud Hat | **elsociopepe**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×4 |
+| 14:15 | **holasoyzuri_yt**: Undead Jousting Horse (FR), Pupcake (MFR) | **Pupppy457**: Mini Pig (FR), Fly-A-Pet Potion |
+| 14:15 | **BulayevaAnastasya**: Evil Unicorn (FR) | **TaPok228pon**: Hedgehog (FR) |
+| 14:15 | **lera_573038**: Munchkin Cat, Alley Cat (N) | **mysty_hyung**: Candyfloss Chick (FR) |
+| 14:15 | **Sains9811**: Purrowl ×11 | **zxcCAXAPOK1337**: Ride-A-Pet Potion |
+| 14:15 | **clumhsy**: Munchkin Cat (MFR) | **KitKat_435**: Cabbit (NFR), Spring Bunny Hood, Spring Bunny Feet ×2, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
