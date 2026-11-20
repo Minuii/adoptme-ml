@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 23:16 UTC by the scrape workflow._
+_Updated 2026-11-20 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 23:16 UTC by the scrape workflow._
 | amvgg | 10 | 43,774 | 2026-11-20T23:15 |
 | elve | 10 | 9,110 | 2026-11-20T23:15 |
 
-## AMVGG completed trades: 41,672 total
+## AMVGG completed trades: 41,717 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,979 |
+| 2026-11-20 | 4,024 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 23:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **7nillvhatessoren**: Ride-A-Pet Potion, Mighty Haetyphoon Animated Sticker, Gemstone Egg, Pain au Chat ×2 | **tillywilliamson89**: Samoyed (M) |
-| 23:15 | **xolvrxo**: Fly-A-Pet Potion | **oxlvrox**: Ride-A-Pet Potion ×2 |
-| 23:15 | **AvokadoJFKfanat**: Copycat (MFR), Flamingo (NFR), Cow (FR), Panda (MFR) | **Arii_SoulShineXx**: Owl (FR) |
-| 23:15 | **seb_ihhh**: Count Slothula ×2 | **krikikriki56**: Ride-A-Pet Potion |
-| 23:15 | **andresnotfound_43**: Ride-A-Pet Potion | **liofe1**: Indian Leopard, Dragonfly, Fire Stallion, DJ Snooze, Glormy Crab, Seahorse, Clownfish |
-| 23:15 | **D8RYY**: Turtle (FR) ×2, Fairy Bat Dragon (FR) | **17kDEAT_Q**: Cheetah (MFR), English Sheepdog (MFR), French Bulldog (MFR) |
-| 23:15 | **leoncitoUwU12345**: Goose (FR) | **MEME_702xd7**: Pig (FR), Red Dutch Guinea Pig, Slime (R), Ermine (NR) ×2, Irish Elk (NR), Chocolate Dutch Guinea Pig (R), Great Pyrenees (NR), Red Fox (N), Bunny Swirl (N), Moon Rabbit (N), Amami Rabbit (N), Swan (R), Tuxedo Cat, German Shepherd, Yule Log Dog, Capybara |
-| 23:15 | **reiikell**: Green Amazon (MR), Flower Aura | **Coralmnm**: Unicorn Backpack |
-| 23:15 | **T3bas1**: Alley Cat (R) | **Stevieicecream16**: Spring Bunny Nose |
-| 23:15 | **xulqupi**: Siamese Cat (R) | **Kukolka2010**: Ride-A-Pet Potion ×16, Fly-A-Pet Potion ×2 |
-| 23:15 | **dshhxwq**: Llama (NR), Dango Penguins (NR), Kangaroo (FR) | **thesef4ngs**: Cow (FR) |
-| 23:15 | **stoIencorpses**: Respectful Mustache | **califxrmula**: Ride-A-Pet Potion |
-| 23:15 | **FestiveNotCupcake**: Sugar Axolotl (NR) | **uiiwiizer**: Flaming Fox (NR), Happy Duckling (M), Shiver Wolf (M), Cow Calf (MR) |
-| 23:15 | **seruzeni**: Fly-A-Pet Potion ×13, Ride-A-Pet Potion ×3 | **cookieuxblox**: Fairy Bat Dragon (FR) |
-| 23:15 | **dearellisdiary**: Border Collie (MFR), Shark Puppy (MFR), Fallow Deer (MFR), Cerberus (MFR), Kitty Bat (M) | **Rarajajarara**: Haetae (NFR) |
+| 23:25 | **sukiwuk1**: Cerberus (FR) | **Yumi_Rose8**: Ride-A-Pet Potion ×2 |
+| 23:25 | **AMBER_SOLE**: Aurora Fox (MFR), Count Slothula (MR) | **BarkingPando**: Cryptid (FR) |
+| 23:25 | **tillywilliamson89**: Strawberry Clip, Demon Wings | **Polita721**: Ride-A-Pet Potion |
+| 23:25 | **harpiealt07**: Dogmobile | **Marsi_2222**:  |
+| 23:25 | **ii_aldrin20**: Evil Unicorn (FR), Fly-A-Pet Potion | **And1s_79**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Candicorn (R), Emberlight (MR) |
+| 23:25 | **Flxxnaa**: Goat (MFR), Tortuga de la Isla (MFR), Dango Penguins (MR), Albino Monkey (FR), King Bee (MFR) | **Ally808101**: Goose (MFR) |
+| 23:25 | **Zeyqvz**: Cow, Kangaroo (R) | **QUliaka**: Cabbit (R), Siamese Cat |
+| 23:25 | **TrapitaAlexa**: Munchkin Cat (R), Zombie Wolf (N), Ride-A-Pet Potion | **ester103636**: Tortoiseshell Guinea Pig, Fly-A-Pet Potion |
+| 23:25 | **BverlyBlue**: Pelican (NFR), Poltergeist Box | **Doodleboodle654**: Hedgehog (FR) |
+| 23:25 | **onyx11414**: Tiny Wings, Fly-A-Pet Potion | **100doggos123**: Ice Cream Cone Hat, Green Amazon (MFR) |
+| 23:25 | **Gamechar1015**: Rainbow Trout (MFR) | **Ladyromijuri**: Fly-A-Pet Potion |
+| 23:25 | **yasmdass**: Cupid Dragon (R) | **ShadowMashy**: Ride-A-Pet Potion ×7 |
+| 23:25 | **1MZ03Y**: Frost Unicorn (MFR), Jellyfish (MFR), Irish Water Spaniel (MFR), Aurora Fox (MFR) | **Robloxain4000**: Shadow Dragon (FR) |
+| 23:25 | **arvenout**: Glider, Tuxedo Cat | **Xclaira_bellaX**: Wing Hang Glider |
+| 23:25 | **9vvdx**: Arctic Dusk Dragon (NFR), Dire Wolf (M) | **MaiaDenisa_2012**: German Shepherd (MFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
