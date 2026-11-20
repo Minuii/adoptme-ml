@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 18:11 UTC by the scrape workflow._
+_Updated 2026-11-20 18:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 18:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 38,609 | 2026-11-20T18:00 |
-| elve | 10 | 8,045 | 2026-11-20T18:01 |
+| amvgg | 10 | 38,830 | 2026-11-20T18:15 |
+| elve | 10 | 8,077 | 2026-11-20T18:15 |
 
-## AMVGG completed trades: 40,592 total
+## AMVGG completed trades: 40,628 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 2,899 |
+| 2026-11-20 | 2,935 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 18:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:11 | **xq0vlis**: Dog (NF), Griffin (R), Oryx (R), Royal Egg ×9 | **aaliyah0284**: Fly-A-Pet Potion |
-| 18:11 | **foovva**: Cow (FR) | **ranashiil**: Turtle (FR), Ride-A-Pet Potion ×9 |
-| 18:11 | **AmandaPandaKawaii123**: Ice Cream Cone Hat, Butter Knife | **booseoks0on**: General Sheepdog (MR) |
-| 18:06 | **varmitrof**: Ride-A-Pet Potion | **Dash35813**: Modern Mansion |
-| 18:06 | **Bleustar36746**: Pupcicle (MFR) | **gatita_garrita0**: Kangaroo |
-| 18:06 | **WoofyWooofyWoof**: Chocolate Chip Bat Dragon (NFR), Slime (NR) | **roronoazoro1gg**: Haetyphoon (M) |
-| 18:06 | **AutoTradeCommission**: Fly-A-Pet Potion ×7 | **FlyToTheSaturn**: Bloodhound (MR), Shetland Pony Dark Brown (MR), Zombie Chick (MR), Gibbon (M), Dog (MFR) ×2, Brachiosaurus (MR), Cat (MR), Kid Goat (MR) |
-| 18:06 | **Cutecupshakes**: Retired Egg ×15 | **Linicatslol**: Pain au Chat |
-| 18:06 | **holacausaanthony123**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Goose (FR), Turtle (FR), Fly-A-Pet Potion ×2 | **NastikXo**: Chocolate Chip Bat Dragon (NFR) |
-| 18:06 | **BABYDenicka_666**: Fly-A-Pet Potion ×2 | **RRremyq**: Biodome Home |
-| 18:06 | **Nastik_My520**: Kangaroo (R) | **sun1zzzo**: Shrew (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Berry Cool Cube (NR), Cerberus, Sea Turtle (N), Ermine (NR) |
-| 18:06 | **leoncitoUwU12345**: Strawberry Shortcake Bat Dragon (FR) | **pyetrogamer2345**: Goose (FR), Sea Slug (R), Groundhog (FR), Great Pyrenees (N), Fly-A-Pet Potion, Dango Penguins, Kookaburra, Yule Log Dog, Candy Hare (R), Banana Hat, Elf Hat ×2, Chihuahua ×6 |
-| 18:06 | **jaljoha**: Pupcicle ×2, Waffle Wyrm (NFR) | **16y97**: Ride-A-Pet Potion ×2 |
-| 18:06 | **aitana_20091**: Strawberry Shortcake Bat Dragon (FR), German Shepherd (MFR) | **luusky29glow**: Goose (NFR) |
-| 18:06 | **janaqgo_0**: Pine Marten (NFR), Chihuahua | **aaliyah0284**: Fly-A-Pet Potion |
+| 18:15 | **theropywasted**: Space Fleet House | **varmitrof**: Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 18:15 | **astra_ww8**: Ice Cream Hermit Crab | **Xxxxashhhh**: Fly-A-Pet Potion |
+| 18:15 | **personal_stalker69**: Tortuga de la Isla (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 18:15 | **NF_FAN45**: Tuxedo Cat ×2, Pupcicle, Pupcake, Hamster | **OBVADDISONN0**: Copycat |
+| 18:15 | **abbyissocool_lol**: Crystal Egg ×5 | **sugarblossomxoxx**: Royal Palace Spaniel |
+| 18:15 | **BMReuter**: Unicorn (MFR), Gemstone Egg, Elf Shoes | **don2p**: Ghost Dog (MFR) |
+| 18:15 | **TANSKlN**: Haetae (MFR), Monkey King (FR), Turtle (FR) | **The1AndOnlyClyde**: Giraffe (NFR), Giraffe (FR), Elephant (MFR), Siamese Cat (MFR), Golden Chow-Chow (MFR), Munchkin Cat (MFR) |
+| 18:15 | **HonetXCake**: Peacock (MFR) | **werlianess**: Peahen (MFR) |
+| 18:15 | **adriel_24k**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Toaster Hat, Ice Cream Cone Hat ×2, Ballet Swan | **Kvammletitraketa**: Frost Unicorn (NFR) |
+| 18:15 | **aaliyah0284**: Ride-A-Pet Potion | **elproXD_7v7**: Chihuahua ×2 |
+| 18:15 | **xoadmq**: Kitty Bat (N) | **Leck_aia181**: Alley Cat |
+| 18:15 | **danmantoglory**: Giraffe (NFR), Fairy Bat Dragon (MFR), Cow (FR), Candicorn (NFR) | **hmmhh8**: Crow (MFR) |
+| 18:15 | **ElimonZa**: Bush Elephant, Alley Cat, Pain au Chat | **zow_98alt**: Candyfloss Chick (FR) |
+| 18:15 | **zow_98alt**: Ghost Dog (MR) | **don2p**: Elephant |
+| 18:15 | **Bruno_Games76**: Llamalush Purse Pet | **pon153463547**: Chick Backpack |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
