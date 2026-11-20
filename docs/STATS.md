@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 15:01 UTC by the scrape workflow._
+_Updated 2026-11-20 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 15:01 UTC by the scrape workflow._
 | amvgg | 10 | 35,779 | 2026-11-20T15:00 |
 | elve | 10 | 7,353 | 2026-11-20T15:01 |
 
-## AMVGG completed trades: 39,841 total
+## AMVGG completed trades: 39,888 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 2,148 |
+| 2026-11-20 | 2,195 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:00 | **swizleq**: Lion (NFR) | **docedelets**: Moonbeam Peacock (NFR) |
-| 15:00 | **Lizzaa77**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **xgxbr1ellex**: Glacier Kitsune (FR) |
-| 15:00 | **The_Mery24**: Skunk (MFR) | **ni1zuua**: Christmas Pudding Pup (R) |
-| 14:55 | **Lazyymimi**: Munchkin Cat (R), Hippo (MR), Pancake Stack, Ride-A-Pet Potion | **cunlainy**: Siamese Cat (R) |
-| 14:55 | **LoriDreamy123**: Crow (FR), Tiny Wings | **farmer_post1**: Strawberry Shortcake Bat Dragon (NFR), Dragonfruit Fox (NR), Unicorn (NR), Arctic Fox (R) |
-| 14:55 | **Ashybella0**: Turtle (MFR), Haetae (FR), Cotton Candy Hat | **PuhonaBeri**: Owl (FR), Fly-A-Pet Potion ×3 |
-| 14:55 | **Evo4ka_Devo4kaMI**: Fairy Bat Dragon (FR), Goose (FR), Ride-A-Pet Potion ×3 | **Soso4ka004**: Strawberry Shortcake Bat Dragon (FR) |
-| 14:55 | **3busl**: Sugar Glider (NFR), Grim Dragon (NFR) | **tokki0000**: African Wild Dog (FR) |
-| 14:55 | **Kittyxh0**: Cupid Dragon (FR), Phantom Dragon (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×5 | **mintyacc1**: Fairy Bat Dragon (FR) |
-| 14:55 | **lildaminii**: 2022 Birthday Party Hat | **ETM_TOPG**: Turtle (FR) |
-| 14:55 | **wivvyxly**: Mirai Moth (MR), Bakeneko (M), Pomeranian (M), Dragon Breath Animated Sticker, Slothula Transformation Animated Sticker, Hammerhead Shark (N), Thorny Devil (N), Frostbite Bear and Cub Animated Sticker, Spring Bunny Hood, Pancake Stack | **Kvammletitraketa**: Count Slothula (MR) |
-| 14:55 | **volkodav0069**: Ghostly Cat (M), Snowball Pug (N), Ride-A-Pet Potion, Puffer Fish, Sushi Penguin, Tuxedo Cat | **Ksy26329**: Munchkin Cat |
-| 14:55 | **Max_game751**: Spring Bunny Hood | **wivvyxly**: Propeller Hat, Jeff's Nametag, Nautilus |
-| 14:55 | **podotrain**: Cabbit, Spring Bunny Hood, Ride-A-Pet Potion | **KaySlay017**: Glormy Hound (MFR) |
-| 14:55 | **Bruno_Games76**: Classic Trade Stand | **the3reveng**: Rubber Ducky Box ×18 |
+| 15:11 | **P4wzuii**: Candyfloss Chick (NFR) | **Ebonyaqt**: Munchkin Cat (NFR), 2022 Birthday Cupcake Shoes ×2, Spring Bunny Feet |
+| 15:11 | **Supermen0157**: Chameleon | **Zoomek62**: Christmas Pudding House |
+| 15:11 | **amyggvaI**: Strawberry Shortcake Bat Dragon (NFR) ×2 | **Robloxiand3i0y7p1c**: Frost Dragon (FR), Cracked Egg |
+| 15:11 | **ollxcq**: Cryptid (FR), Jellyfish (NFR), Jester Dragon, Maine Coon (MR), Ride-A-Pet Potion, Unicorn, Praying Mantis (NR), Chameleon ×2 | **leruval**: Crow (FR) |
+| 15:11 | **Vanlyzn26**: Unicorn | **ItsPixieplayzz0**: Ride-A-Pet Potion |
+| 15:11 | **lkmsdfw**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **3mis_alttt**: Neon Pink Scooter, Neon Blue Skateboard |
+| 15:11 | **Zombie_8803**: Ride-A-Pet Potion | **meowxsv_r**: Arctic Hare (N), Onza |
+| 15:11 | **ilusixnary**: Christmas Egg | **sleepy_s0ren**: Kangaroo (FR), Ride-A-Pet Potion |
+| 15:11 | **Tennlys4**: Cow (FR), Sugar Glider, Frost Unicorn, Crocodile, Goat, Copycat | **xBellaCupcakex**: Cryptid |
+| 15:11 | **Bumble_Lou**: Ride-A-Pet Potion | **tessapointessa**: Sushi Penguin |
+| 15:11 | **iaMatthieu1**: Ice Wolf (NFR), Tuxedo Cat (NFR), Jester Dragon, Jousting Horse (R), Latte Kitsune, Golden Lettuce ×2, Brachiosaurus (M) | **emoboiilestatxx**: Cow (FR) |
+| 15:11 | **Dessertsandfoods**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **Lila_Chanbibi**: Dango Penguins (NFR) |
+| 15:11 | **XDturtlee**: Rose Quartz Glow Mega Neon Paint, Golden Unicorn ×4, Mighty Haetyphoon Animated Sticker, Purrowl, Dragonfly, Paint Sealer, Donut Stroller, Salamander | **Shynisocool**: Fly-A-Pet Potion |
+| 15:11 | **HANBIBI20**: Count Slothula | **detective_emilly**: Moon Rabbit |
+| 15:11 | **quVare_PDF**: Evil Unicorn (FR), Ride-A-Pet Potion ×3 | **0FpyKtiK0**: Undead Jousting Horse (NFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
