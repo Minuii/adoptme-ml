@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 09:25 UTC by the scrape workflow._
+_Updated 2026-11-20 09:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 09:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 30,642 | 2026-11-20T09:15 |
-| elve | 10 | 6,026 | 2026-11-20T09:15 |
+| amvgg | 10 | 30,879 | 2026-11-20T09:30 |
+| elve | 10 | 6,101 | 2026-11-20T09:31 |
 
-## AMVGG completed trades: 38,865 total
+## AMVGG completed trades: 38,866 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,172 |
+| 2026-11-20 | 1,173 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,7 @@ _Updated 2026-11-20 09:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:30 | **popadastr000**: Ride-A-Pet Potion | **batdbxp8429**: River Otter (M) |
 | 09:25 | **Hegr_666876**: Fly-A-Pet Potion | **igabbe4th**: Pet Handler Pro Certificate |
 | 09:25 | **Majdfjfgxf**: Ice Cube (M) | **h4_cd**: Pet Handler Pro Certificate |
 | 09:25 | **Itz_head11**: Copycat (R), Copycat, Jester Dragon (R), Snow Monkey (R), Dango Penguins, Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×4 | **ikabackflip**: Cow (R) |
@@ -49,7 +50,6 @@ _Updated 2026-11-20 09:25 UTC by the scrape workflow._
 | 09:25 | **wistledoe**: African Wild Dog (NFR) | **Felix_itsnotme**: Chocolate Chip Bat Dragon (MFR) |
 | 09:25 | **myBestiVlad2380**: English Sheepdog, Moon Rabbit, Giant Black Scarab, Indian Flying Fox | **rainbow72679**: Fly-A-Pet Potion |
 | 09:25 | **0bjectl3x**: Fairy Bat Dragon (FR), Toaster Hat | **pepapepa333**: Shark Puppy (N) |
-| 09:25 | **Lil_AshleyRoblox**: Shiver Wolf (NR) | **bicepenthusiest**: Fly-A-Pet Potion, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
