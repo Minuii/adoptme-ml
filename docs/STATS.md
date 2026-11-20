@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 10:46 UTC by the scrape workflow._
+_Updated 2026-11-20 10:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 10:46 UTC by the scrape workflow._
 | amvgg | 10 | 32,012 | 2026-11-20T10:45 |
 | elve | 10 | 6,384 | 2026-11-20T10:46 |
 
-## AMVGG completed trades: 39,052 total
+## AMVGG completed trades: 39,084 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,359 |
+| 2026-11-20 | 1,391 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 10:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:40 | **Cinnamonroll_xKuromi**: Stray Cat Dragon ×7 | **nik_to969**: Ride-A-Pet Potion |
-| 10:40 | **WANFIREyt**: Strawberry Tortle, Ride-A-Pet Potion | **Gummyy_3**: Fairy Bat Dragon (R) |
-| 10:40 | **Hirohitoh3**: Arctic Reindeer (FR) | **DeazLize**: Kangaroo (NFR) ×2 |
-| 10:40 | **Niruch_Bearly**: Fly-A-Pet Potion | **syxnonym**: Crystal Egg ×18 |
-| 10:40 | **The_Mery24**: Halloween White Mummy Cat (N), Sprout Snail ×2 | **kh6rin**: Ride-A-Pet Potion |
-| 10:40 | **The_Mery24**: Capricorn, Snorgle (N) | **EmiliOnlyMyy**: Ride-A-Pet Potion |
-| 10:40 | **The_Mery24**: Flower Power Duckling, Orange Butterfly | **EmiliOnlyMyy**: Ride-A-Pet Potion |
-| 10:40 | **Aastr0_child**: Golden Hummingbird | **Laura_ja1230**: Spinosaurus |
-| 10:40 | **KinaToons**: Mule (N) | **riler0982**: Fly-A-Pet Potion ×3 |
-| 10:40 | **Dominat0r_Sha**: Fly-A-Pet Potion ×2 | **Lost_inTheCl0uds**: Crescent Moon Car |
-| 10:40 | **GL0SSY4XIS**: Arctic Reindeer (FR) ×2 | **alina39482**: Giant Panda (FR) |
-| 10:40 | **obv1mamasha**: Copycat | **elsociopepe**: Ride-A-Pet Potion ×6 |
-| 10:40 | **The_Mery24**: Oakee Wizard (M) | **h4_cd**: Fly-A-Pet Potion |
-| 10:40 | **mashalook2013**: Queen Bee (NFR), Axolotl (NFR), Sabertooth (MFR), Sea Turtle (MR), Sabertooth (N) | **WIINDY_311**: Christmas Pudding Pup (NR) |
-| 10:40 | **lenyvai2010pro**: Tortoiseshell Guinea Pig | **Traderieeeeeeeee1**: Winged Tiger (FR) |
+| 10:55 | **admtradeonly**: Fly-A-Pet Potion | **cvetokUwU**: Zombie Wolf, Axolotl, Snowball Pug |
+| 10:55 | **ampnothingtorich09**: Goldhorn (NR) | **Avue_203**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 10:55 | **ExileAri**: Griffin (FR) | **catses232**: Ride-A-Pet Potion |
+| 10:55 | **princesssugarbunni**: Cabbit (FR), Sugar Glider (FR), 2022 Birthday Party Hat, 2022 Birthday Party Horn | **Ixshsea**: Alpaca (NFR) |
+| 10:55 | **kkaatEEe2**: Fly-A-Pet Potion | **twoMammy8**: Eel (M) |
+| 10:55 | **Si1ver13**: Ride-A-Pet Potion ×7, Chick (NR), Thunderfisher (N) | **dwyames**: Golden Jaguar (M) |
+| 10:55 | **kroko182**: Ballet Swan (FR) | **dwyames**: Copter Hat, Eco Brown Earth-Wizard Hat, Cowboy Saddle |
+| 10:55 | **cxbvnniz**: Albino Monkey (FR) | **fluffyunicorns_932**: Great Pyrenees (MFR) |
+| 10:55 | **Lazypotato4ever_12**: Copycat, Ride-A-Pet Potion ×13 | **fox_100l**: Unicorn Horn |
+| 10:55 | **aoorski**: Jester Dragon (N), Unicorn Horn, Arctic Dusk Dragon (NR), Frost Phoenix (NFR) | **fox_100l**: Strawberry Shortcake Bat Dragon (FR) |
+| 10:55 | **waydrown**: Fly-A-Pet Potion, Count Slothula | **eva227831**: Spring Bunny Nose |
+| 10:55 | **Hasiiiiiiiiiiiii**: Pig (R) | **yoojin_nxx**: Majestic Pony (N) |
+| 10:55 | **Niarsom4589**: Cotton Candy Hat | **werreriss0**: Butter Knife |
+| 10:55 | **Hasiiiiiiiiiiiii**: Ride-A-Pet Potion | **tired_ooflifenumb**: Crystal Egg ×18 |
+| 10:55 | **starswirl_64**: Ride-A-Pet Potion ×5 | **Vitamirka**: Pain au Chat ×15 |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
