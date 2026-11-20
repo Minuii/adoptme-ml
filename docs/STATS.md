@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 07:31 UTC by the scrape workflow._
+_Updated 2026-11-20 07:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 07:31 UTC by the scrape workflow._
 | amvgg | 10 | 29,045 | 2026-11-20T07:30 |
 | elve | 10 | 5,738 | 2026-11-20T07:31 |
 
-## AMVGG completed trades: 38,636 total
+## AMVGG completed trades: 38,640 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 943 |
+| 2026-11-20 | 947 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,10 @@ _Updated 2026-11-20 07:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:36 | **Cyxaruk_9877**: Pig (FR), Irish Water Spaniel (R), Sushi Penguin, Ride-A-Pet Potion | **didi_diana20136**: Candyfloss Chick (FR) |
+| 07:36 | **Mor0rojenka**: Burger Boots, Cotton Candy Hat | **hxquip**: Pet Handler Pro Certificate |
+| 07:36 | **guyfarted3**: Strawberry Shortcake Bat Dragon (FR) ×2, Frost Fury (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3 | **Rzwezu_0283**: Giant Panda |
+| 07:36 | **HilmanMyPookie**: Ride-A-Pet Potion ×2 | **cowlol898**: Fly-A-Pet Potion |
 | 07:30 | **Sharpie_pies**: Mini Pig (FR) | **Agnesa_hamster1**: Fairy Bat Dragon (FR), Crocodile (FR) |
 | 07:30 | **mimimusasusu**: Ride-A-Pet Potion | **ixclvoudy**: White Choccybunny (M), Milk Choccybunny (M) |
 | 07:30 | **gengargalaxybonne**: Pig (R) | **PRODAZA_STARPETS**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion |
@@ -46,10 +50,6 @@ _Updated 2026-11-20 07:31 UTC by the scrape workflow._
 | 07:25 | **m4rshalI**: Munchkin Cat (MFR), Zombie Buffalo (MFR), Cow (FR) | **BreadPlayz20**: Winged Tiger (MFR) |
 | 07:25 | **luvdokyeomie**: Count Slothula, Pandaguin Glooptodog (N), Little Lamb (N) | **themudwizard**: Ride-A-Pet Potion |
 | 07:25 | **siria20144**: Evil Unicorn (FR), Turtle (NFR), Hyena | **TMDung20**: Crow (FR) |
-| 07:25 | **Rexgaang39**: Purrowl ×12 | **Luffeyys_ezss**: Ride-A-Pet Potion |
-| 07:25 | **Coolbaby10100**: Dirty Ducky (M), Golden Lettuce | **Light_Moon8461**: Copycat |
-| 07:25 | **uqxiyeol**: Pet Handler Pro Certificate | **CandyBear373**: Burger Bear (N) |
-| 07:25 | **ohinam**: Pet Handler Pro Certificate ×6, Ride-A-Pet Potion | **Z_Alexis22**: Lion (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
