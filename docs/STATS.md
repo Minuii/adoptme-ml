@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 00:31 UTC by the scrape workflow._
+_Updated 2026-11-20 00:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 00:31 UTC by the scrape workflow._
 | amvgg | 10 | 22,688 | 2026-11-20T00:30 |
 | elve | 10 | 4,534 | 2026-11-20T00:31 |
 
-## AMVGG completed trades: 37,771 total
+## AMVGG completed trades: 37,802 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 78 |
+| 2026-11-20 | 109 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 00:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:26 | **Sadieworldz**: Tio De Nadal, Red Dutch Guinea Pig (NFR), Cracked Egg ×6 | **kaylamicmi**: Chocolate Dutch Guinea Pig (M) |
-| 00:26 | **Vixinnty**: Arctic Reindeer (MFR), Jester Dragon (MFR), Arctic Fox (FR), Tiny Wings | **disapp6ar**: Chocolate Chip Bat Dragon (MFR) |
-| 00:26 | **rainbown758**: Ninja Monkey (R) | **cristhianxd2006**: Rain Boots |
-| 00:21 | **thesuperkid0**: Crow (FR), Christmas Pudding Pup (NR), Kangaroo (FR), Haetyphoon, Fly-A-Pet Potion, Ride-A-Pet Potion | **Kiandra13kiandra**: Owl (FR) |
-| 00:21 | **SSninjas**: Munchkin Cat, Border Collie (R), Copycat (R) | **Aslie_17**: Strawberry Tortle (FR) |
-| 00:21 | **XXroblox_rosie**: Jousting Horse | **ItzAina_JPN**: Alley Cat (R) |
-| 00:21 | **aff6ctionnn**: Fairy Bat Dragon (R), Siamese Cat (R), Great Pyrenees (MFR) | **kaylamicmi**: Cabbit (FR), Sugar Glider (FR) |
-| 00:21 | **Margoshka_Zaychik**: Bunny Swirl (N), Capricorn, Pupcicle, Puptune, Puffer Fish, Onza | **itsxxazra**: Frost Fury (R) |
-| 00:21 | **love4lonee**: Mochi Meow (NR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **puttypie111**: Unicorn (NFR) |
-| 00:21 | **pexrldiver**: Pupcicle ×2, Ride-A-Pet Potion, S'mores Raccoon, Corgi (R) | **Antonipes**: Dango Penguins |
-| 00:21 | **jelliekats**: Chocolate Dutch Guinea Pig (M), Ice Cream Cone Hat | **Arieonalt67**: Mini Pig |
-| 00:21 | **Jimmyfish350**: Balloon Unicorn (FR), Caterpillar (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **OMGITSMACKENZIE6**: Parrot (FR) |
-| 00:21 | **vqstarxzz**: Cryptid (R), Siamese Cat (NFR) | **Bloodyskyxes**: Chocolate Chip Bat Dragon (NFR) |
-| 00:21 | **Coolbirdy40**: Rainbow Maker, Fly-A-Pet Potion ×2 | **vilskg**: Goat (NR), Rain Cloud Hat, Unicorn Horn |
-| 00:21 | **koeinaway1**: Cryptid (FR) | **Kamila_33309**: Munchkin Cat (MFR), Kitty Bat (M), Bunny Swirl |
+| 00:40 | **Y0UFAIL3D**: Rainbow Stroller | **Lofi95775**: Pet Handler Pro Certificate |
+| 00:40 | **T3bas1**: Cryptid, Cabbit (FR) | **numbedsorrow**: Evil Unicorn (FR), Undead Jousting Horse (R) |
+| 00:40 | **bassie123284**: Shark Puppy (NFR), Lion Cub, Arctic Dusk Dragon (NFR), Fly-A-Pet Potion, Pupcicle | **kaylamicmi**: Strawberry Shortcake Bat Dragon (FR) |
+| 00:40 | **SmolbeanxEggyman**: Cake Friend (MFR), T-Rex (NFR), Lobster (M), Fly-A-Pet Potion, Ride-A-Pet Potion | **Xxfortnite401kxX**: Turtle (FR) |
+| 00:40 | **dethxhellgrl**: Ride-A-Pet Potion | **Panci_Terbang33**: Retired Egg ×18 |
+| 00:40 | **Just_Kerri4nnnnn**: Tio De Nadal | **bob4_boy**: Binturong (MFR) |
+| 00:40 | **E_RockLOVE123**: Dango Penguins (MFR), Frost Unicorn (FR), Fly-A-Pet Potion ×2 | **koeinaway1**: Cow (NFR) |
+| 00:40 | **1994_Speed**: Admin Abuse Egg ×11, Admin Abuse Box | **TomasinRBX_13**: Pupcicle |
+| 00:36 | **jellycatmar**: Binturong (MFR) | **mah_kkh**: Panda (MFR) |
+| 00:36 | **Lluvvmiles**: Strawberry Shortcake Bat Dragon (FR) | **WinYari2**: Cow (FR), Cabbit (FR) |
+| 00:36 | **numbedsorrow**: Frostbite Bear, Scarebear (MFR), Copycat ×3, Pink Betta Fish (MR), Slimingo (MR), Kitty Bat (M), Chihuahua (MR) | **S3r3nacayne**: Evil Unicorn (FR) |
+| 00:36 | **Yukiscupcake**: Snow Monkey (MFR), Spring Bunny Hood | **koeinaway1**: Mini Pig, Tiny Wings |
+| 00:36 | **mzrxxq**: Fly-A-Pet Potion, Chihuahua | **wqingss**: Amami Rabbit (N) |
+| 00:36 | **1994_Speed**: Admin Abuse Egg ×12 | **M1lKYxC00KIES**: Pupcicle |
+| 00:36 | **Arnoud_08**: Bat Dragon (NFR) | **Mopmyfoot**: Haetae (MFR), Border Collie (MFR), African Wild Dog (FR), Halo, Angel Wings, Candicorn, 2022 Birthday Cake, Unicorn Horn |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
