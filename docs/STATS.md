@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 02:01 UTC by the scrape workflow._
+_Updated 2026-11-20 02:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 02:01 UTC by the scrape workflow._
 | amvgg | 10 | 24,078 | 2026-11-20T02:00 |
 | elve | 10 | 4,743 | 2026-11-20T02:01 |
 
-## AMVGG completed trades: 38,000 total
+## AMVGG completed trades: 38,028 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 307 |
+| 2026-11-20 | 335 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 02:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:00 | **bicepenthusiest**: Field Mouse (NFR), Harp Seal (NR), Fly-A-Pet Potion | **Aliya_nothere**: Chocolate Dutch Guinea Pig (MFR) |
-| 02:00 | **qkrbed**: Slime (MFR) | **q_culvs**: Sugar Glider (FR) |
-| 02:00 | **TheKindAndOnly**: Skelicorn (M) | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 02:00 | **appleberryyynanaaa**: Border Collie (MFR) | **saturnestee**: Ballet Swan (MFR), Christmas Pudding Pup (MFR) |
-| 02:00 | **Panci_Terbang33**: Ride-A-Pet Potion ×5 | **ponyelgamer**: Lynx, Pumpkin Friend (F), Axolotl, Latte Kitsune |
-| 02:00 | **TwistedK1tty**: Balloon Unicorn | **ImJustBug**: Strawberry Shortcake Bat Dragon (FR), Candy Hare (MR), Unicorn (MFR), Arctic Dusk Dragon (FR), Meerkat (FR), Shrew, Unicorn (NR), Beluga Whale (MF), Pet Handler Pro Certificate, Lamb, Silly Duck (R), Latte Kitsune, Chocolate Dutch Guinea Pig |
-| 02:00 | **Babyofy5**: Goat (R) | **gattitakawaii16**: King Bee (R), Peacock (FR), Robo Dog (R), Chimera (R), Sloth (FR), Frostbite Cub, Red Squirrel (FR), Puptune, Sloth |
-| 02:00 | **himary626**: Festive Beard, Elf Shoes, Festive Scarf, Festive Stocking Shoes, Gold Circle Glasses | **looter_love**: Pet Handler Pro Certificate |
-| 02:00 | **Nanax_8907**: Grim Dragon (R) | **chesnock204**: Water Rabbit (MR) |
-| 02:00 | **cyptiaI**: White Chef Hat | **e1isess**: Ride-A-Pet Potion |
-| 02:00 | **tri_xx19**: Owl (FR) | **daxprouwu**: Haetae (FR), Hot Doggo (FR), Cow (FR), Fly-A-Pet Potion ×5 |
-| 02:00 | **draike_tzu8262**: Retired Egg ×18 | **Elleaveyard**: Gemstone Egg |
-| 02:00 | **OflineGirlx**: Ride-A-Pet Potion | **Bow_trader**: Festive Wagon ×2, Candy Camper |
-| 02:00 | **ch4rliesde4d**: Giraffe (FR), Parrot (NFR), Dalmatian (FR), Cow | **TANSKlN**: Bat Dragon (FR) |
-| 02:00 | **7llpr**: Ride-A-Pet Potion ×2 | **Paipapaprapaa**: Alley Cat |
+| 02:11 | **the3reveng**: White Amazon (R) | **cchloecrichtonsecret**: Ride-A-Pet Potion |
+| 02:11 | **Babyofy5**: Ring-Tailed Lemur | **berry_karie**: Sushi Penguin, Tuxedo Cat, Chocolate Dutch Guinea Pig, Rat, Cattuccino, Cobra |
+| 02:11 | **Excopix**: Candicorn (NFR), Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion | **Siimplyxlizzie**: Cryptid (FR) |
+| 02:11 | **ivrquiz**: Arctic Reindeer (FR), Tiny Wings | **TMDung20**: Cabbit (NFR) |
+| 02:11 | **Ashtonlollol1234**: Leopard Shark (MFR), Brown Springer Spaniel (MFR), Ice Cream Hermit Crab (MFR), Hare (MFR), Puptune (MFR), Irish Water Spaniel (MFR) | **awepolarbear**: Candyfloss Chick (MFR) |
+| 02:11 | **Luvx_VXvu**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Pet Handler Pro Certificate | **Thatrandomguydann**: Lion Cub |
+| 02:11 | **Maexnzz**: Peppermint Penguin (R) | **cuttIef1sh**: Alpaca (R), Munchkin Cat, Ride-A-Pet Potion |
+| 02:11 | **violencesoul**: Unicorn Horn ×2, 2022 Birthday Party Hat, Toaster Hat, Ice Cream Cone Hat ×5, Siamese Cat (R), Goose (R), Head Chef, Royal Corgi (N), Copycat ×2, Pancake Stack ×2, Diamond King Penguin (FR) | **Jessica_westry**: Field Mouse (MFR), Moose Calf (MFR), French Bulldog (MR), Alley Cat (NFR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Paint Sealer ×2 |
+| 02:11 | **Avokado_MECSI**: Unicorn Horn, Spring Bunny Feet ×2, Spring Bunny Hood, Cotton Candy Hat | **Mikaylamareex**: Halo |
+| 02:11 | **Proivoe98**: Werewolf (R) | **Emma2009974**: 2022 Birthday Cupcake Shoes |
+| 02:11 | **puuuurrrraaawww**: Ride-A-Pet Potion ×3 | **Sentikaza_pikachu**: Ruler's Castle |
+| 02:11 | **Omar2002548**: Scarecrow Cat | **soisomin**: Retired Egg ×9 |
+| 02:06 | **rayfofakawaii**: Cow | **isabelleadoptme10**: Munchkin Cat (NR) |
+| 02:06 | **ZAYZAY66Y1**: Candyfloss Chick (F) | **Ranmaeldeenmedio**: Kangaroo (FR) |
+| 02:06 | **Z4Z4LORD**: Neon Orange Skateboard | **milkcoffe135**: Neon Red Skateboard |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
