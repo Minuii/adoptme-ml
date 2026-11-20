@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 11:25 UTC by the scrape workflow._
+_Updated 2026-11-20 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 32,434 | 2026-11-20T11:15 |
-| elve | 10 | 6,462 | 2026-11-20T11:15 |
+| amvgg | 10 | 32,674 | 2026-11-20T11:30 |
+| elve | 10 | 6,521 | 2026-11-20T11:31 |
 
-## AMVGG completed trades: 39,157 total
+## AMVGG completed trades: 39,158 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,464 |
+| 2026-11-20 | 1,465 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,7 @@ _Updated 2026-11-20 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:30 | **Allieiiiwiw**: Retired Egg ×5 | **nainalt5**: Alicorn |
 | 11:25 | **Icecrymmxm**: Munchkin Cat (R), Frost Fury (FR), Harp Seal | **rainbow72679**: Candicorn |
 | 11:25 | **sweetangelspaws**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 | **xiparo**: Pain au Chat ×15 |
 | 11:25 | **Heybolloboom**: Toucan, Little Lamb | **flowerist0w04577**: Paint Sealer |
@@ -49,7 +50,6 @@ _Updated 2026-11-20 11:25 UTC by the scrape workflow._
 | 11:25 | **ccdbgt1**: Fly-A-Pet Potion | **KFC_C0nya**: Skele-Rex (R) |
 | 11:25 | **KING_TROLLYT0**: Pig (NFR), Mechapup (R) | **rbn_lvrr**: Fairy Bat Dragon (FR) |
 | 11:20 | **The_Mery24**: Golden Walrus, Glyptodon | **wrixcte**: Ride-A-Pet Potion |
-| 11:20 | **Varen_uo1**: Mini Pig (FR), Goose (FR), Fly-A-Pet Potion ×3 | **funnyvajskclalsnnc**: Fairy Bat Dragon (NFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
