@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 05:31 UTC by the scrape workflow._
+_Updated 2026-11-20 05:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 05:31 UTC by the scrape workflow._
 | amvgg | 10 | 27,255 | 2026-11-20T05:30 |
 | elve | 10 | 5,399 | 2026-11-20T05:31 |
 
-## AMVGG completed trades: 38,406 total
+## AMVGG completed trades: 38,440 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 713 |
+| 2026-11-20 | 747 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 05:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:30 | **KinaToons**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Flashbook6**: Trapdoor Snail (MR) |
-| 05:30 | **cat_lover14q**: Velocirooster (MFR), Unicorn Horn | **Andres_agent**: Silverback Gorilla (MFR) |
-| 05:25 | **yourmyrara**: Fly-A-Pet Potion | **CcLuims011x**: Pet Handler Pro Certificate |
-| 05:25 | **Jennys_17**: Cattuccino, Badger (N) ×2, Mummy Spider | **iMaL_S3R**: Choo Choo Train |
-| 05:25 | **robloxer_3614**: Zombie Chick, Emu, Seahorse, Bee, Snowy Mammoth, Stingray, Boohoo, Amber Butterfly, Stray Cat Dragon, Sea Angel, Clubtail Dragonfly, Stitches | **superheror125**: Robin (N), Flower Power Duckling |
-| 05:25 | **MichaelDASIGMA**: Matcha Cat, Aussie Egg, Cherry Blossom Hang Glider, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **t1mskyy**: Cabbit |
-| 05:25 | **UltttraHamsterGang**: 2022 Birthday Cake, Unicorn Horn ×2, 2022 Birthday Cupcake Shoes, Rain Cloud Hat, 2022 Birthday Party Hat, Tiny Wings, Ice Cream Cone Hat | **missy_Artz**: Harp Seal (MFR), Sheeeeep (MFR) |
-| 05:25 | **wx8zqxx**: Matcha Cat (MFR), Giant Anteater (MFR) | **bgfjm6fytfthfjytjkhb**: Goat (MFR), Lion Cub (MFR), Rain Cloud Hat ×2, Spring Bunny Hood |
-| 05:25 | **dababis35**: Winter 2024 Sticker Pack ×18 | **Shebby7771**: Ride-A-Pet Potion |
-| 05:25 | **X0LuvyouX0**: Ride-A-Pet Potion | **jellofox2009**: Paint Sealer ×12 |
-| 05:25 | **rainthatxx**: Monkey King (FR), Werewolf | **biq_at222**: Yule Log Dog (MFR) |
-| 05:25 | **0_0Forbiddenn**: Fairy Bat Dragon (R), Candicorn | **ammadOwO2**: Mini Pig |
-| 05:25 | **m4rshalI**: Groundhog (MFR), Shark Puppy (MFR) | **aawesomepawsomesauce**: Bush Elephant (MFR) |
-| 05:25 | **fayeandwho**: Alpaca (MFR), Goose (NFR), Tiny Wings | **kkxamiii**: Chocolate Chip Bat Dragon (NR), Goose (MFR) |
-| 05:25 | **Summer_pookie11**: Brown Bear (NR), Corn Doggo (NFR) | **americayume**: Groundhog (NFR), Spring Bunny Nose |
+| 05:40 | **adopmetrede0**: Owl (FR), Ride-A-Pet Potion ×2 | **Slay_queen00074**: Strawberry Shortcake Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) |
+| 05:40 | **CrazyDasha910**: Kitty Bat | **Cookie_lover13232**: Ride-A-Pet Potion |
+| 05:40 | **ChescasBackup**: Giant Panda (R), Turtle (R) | **neggeo_12**: Parrot (FR) |
+| 05:40 | **CrazyDasha910**: Honey | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 05:40 | **Dessertsandfoods**: Flamingo (FR), Candicorn, Sugar Glider, Frostbite Cub (MFR) | **NOBIIIEEE11**: Cow (NFR) |
+| 05:40 | **foovva**: Goose (FR) | **getsdar**: Turtle (FR), Ride-A-Pet Potion ×10 |
+| 05:40 | **Diana_300pk**: Stray Cat Dragon ×8 | **rockyrockybocky**: Cake Friend |
+| 05:40 | **ProZen1257**: Chocolate Chip Bat Dragon (NFR), Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Crocodile (FR), Jousting Horse (NR), Tree Kangaroo (NR), Frost Fury (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ratatyu345gg**: Giraffe (FR) |
+| 05:40 | **lizzy_th3phenomena**: Frost Unicorn (R) | **jessie4isaac**: S'mores Raccoon (MR) |
+| 05:40 | **jessie4isaac**: Moonbeam Peacock, Arctic Fox (FR), Blue Betta Fish | **ZebraGuy2010**: Kangaroo (FR) |
+| 05:40 | **eyebagsq**: Electric Hornet ×2 | **tommylikeroblox2009**: Retired Egg ×5 |
+| 05:40 | **eyebagsq**: Dragon | **tommylikeroblox2009**: Retired Egg ×3 |
+| 05:40 | **Sanster47**: Alicorn ×2, Skelicorn, Bubblegeist, Urban Egg ×3 | **alexgameminecraft**: Fly-A-Pet Potion |
+| 05:40 | **xf3y4a**: Tortoiseshell Guinea Pig, Cow (FR), Latte Kitsune | **wx8zqxx**: Siamese Cat (NFR) |
+| 05:40 | **sunset_blu11111**: Munchkin Cat (MFR), Yule Log Dog (MFR), Chocolate Dutch Guinea Pig (MR) | **K1MM007**: Albino Monkey (MFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
