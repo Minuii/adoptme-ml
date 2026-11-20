@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 03:55 UTC by the scrape workflow._
+_Updated 2026-11-20 04:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 03:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 25,695 | 2026-11-20T03:45 |
-| elve | 10 | 5,073 | 2026-11-20T03:46 |
+| amvgg | 10 | 25,924 | 2026-11-20T04:00 |
+| elve | 10 | 5,136 | 2026-11-20T04:01 |
 
-## AMVGG completed trades: 38,221 total
+## AMVGG completed trades: 38,225 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 528 |
+| 2026-11-20 | 532 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,10 @@ _Updated 2026-11-20 03:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:00 | **itsByte_hunter73**: Zombie Wolf (N) | **kae3eee**: Dragonfruit Fox ×2 |
+| 04:00 | **deathByTheShores**: Lion, Pig (R), Hare | **niyashimo**: Turtle (R) |
+| 04:00 | **elfania_3**: Admin Abuse Egg ×8 | **annie_isokay15**: Gemstone Egg |
+| 04:00 | **pmpjmg1**: Elephant (R) | **junwoo130624**: Crocodile (FR), Latte Kitsune |
 | 03:55 | **Nicworldkids**: Arctic Reindeer (R) | **beautifulratU_u**: Chocolate Chip Bat Dragon (FR), Unicorn (NFR), Solaris, Mochi Meow |
 | 03:55 | **Galapogus7**: Panda (R) | **Ashdorae**: Ride-A-Pet Potion |
 | 03:55 | **cj_hndsm**: Gemstone Egg | **lynnedcool**: Mythic Egg |
@@ -46,10 +50,6 @@ _Updated 2026-11-20 03:55 UTC by the scrape workflow._
 | 03:51 | **areezyss**: Shiver Wolf (MFR) | **Thebossoflaughter**: Shiver Wolf (M) |
 | 03:51 | **Mikaylamareex**: Christmas Pudding Pup | **wongryder**: Pet Handler Pro Certificate |
 | 03:51 | **faikubjotch**: Brown Springer Spaniel (NR) | **Domonic8hard**: Ride-A-Pet Potion ×4 |
-| 03:51 | **JeongwooOnlyMine**: Starfish (MFR) | **Halloween_Goat**: Pupcicle ×3 |
-| 03:51 | **Justlilian7**: Shadow Dragon (FR) | **Fruit_Kittie**: Owl (NFR), Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×2 |
-| 03:51 | **Dessertsandfoods**: Cow (NFR) | **PH_HYPER**: Flamingo (FR), Frostbite Cub (MFR), Sugar Glider, Candicorn, Harp Seal (R) |
-| 03:51 | **Jeremibus2012**: Candicorn (R), Hot Doggo, Strawberry Tortle, Undead Jousting Horse, Werewolf, Flamingo (R), Mini Pig, Peppermint Penguin (R), Siamese Cat (R), Brown Bear (NR), Polar Bear (N), Elephant (R) | **Fan_deJennaO**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
