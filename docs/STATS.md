@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 01:15 UTC by the scrape workflow._
+_Updated 2026-11-20 01:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 01:15 UTC by the scrape workflow._
 | amvgg | 10 | 23,404 | 2026-11-20T01:15 |
 | elve | 10 | 4,638 | 2026-11-20T01:15 |
 
-## AMVGG completed trades: 37,892 total
+## AMVGG completed trades: 37,922 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 199 |
+| 2026-11-20 | 229 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 01:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:15 | **s0ftglow132**: Mini Pig (FR), Candicorn (NFR), Cow (R), Border Collie (FR), Munchkin Cat (NFR) | **natixezq**: Balloon Unicorn (FR) |
-| 01:15 | **Paletazow**: Blazing Lion (MFR), Crow (FR) | **GrowGardenCharlie**: Bat Dragon (NFR) |
-| 01:15 | **Michae_demiurgos**: Albino Monkey (NFR), Turtle (FR), Ride-A-Pet Potion ×2 | **Lazykingufc**: Pig (MFR) |
-| 01:15 | **terrylonsoyjerry**: Latte Kitsune (MFR), Winged Tiger (NFR), Winged Tiger, Ride-A-Pet Potion | **xXxAimeexPlaysxXx**: Blazing Lion (FR) |
-| 01:15 | **00Marina007**: Rock (NR) | **Lazykingufc**: Ride-A-Pet Potion |
-| 01:15 | **2009lovesouls**: Guardian Lion (NFR) | **Lazykingufc**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 01:15 | **riceb4II**: Panda | **IIuvbr**: Crystal Egg ×15 |
-| 01:15 | **noxenii**: Pupcicle | **gl0winq_angel**: Mochi Meow Tumble Animated Sticker |
-| 01:15 | **Darkvega11**: Peahen | **the3reveng**: Gingerbread Reindeer (F) |
-| 01:10 | **sonik_xlp**: Pain au Chat ×2 | **celee_vent4s**: Ride-A-Pet Potion |
-| 01:10 | **cesa_flyr**: Giant Panda (FR), Arctic Fox (FR) ×2 | **nzx3o**: Parrot (FR) |
-| 01:10 | **lo0vyyu**: Crystal Egg ×15 | **Elwanizk**: Ride-A-Pet Potion |
-| 01:10 | **0MGSARAY**: Ride-A-Pet Potion ×15 | **celee_vent4s**: Kangaroo (FR) |
-| 01:10 | **niceplayeruwu**: Ride-A-Pet Potion | **CataleyaThies**: Japan Egg ×3 |
-| 01:10 | **terrylonsoyjerry**: Lava Dragon (NFR) | **isabella68078**: 2022 Birthday Party Horn |
+| 01:25 | **the3reveng**: Cozy Mistletroll ×4 | **AsmioTakeW**: Ride-A-Pet Potion |
+| 01:25 | **beatsvic**: Elasmosaurus (M) ×2, Clementine Owl (MFR), Lion (FR), Copycat, Summer Walrus (MR) | **kaylamicmi**: Turtle (R), Albino Monkey (FR) |
+| 01:25 | **jessie4isaac**: Kangaroo (NFR), Albino Monkey (FR), Irish Elk (M), Snowball Pug (MFR), Kangaroo (FR) ×2, Spring Bunny Hood, Turtle (FR), Pelican (FR), Royal Mistletroll (R), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon | **xKashaf**: Frost Dragon (FR) |
+| 01:25 | **xx_xxbummrr**: Halo, Tiny Wings, Ride-A-Pet Potion ×2 | **kaylamicmi**: Dragonfruit Fox (MFR) |
+| 01:25 | **baconandchicken007**: Pupcicle (N), Owlbear | **sprinkll_bat**: Munchkin Cat |
+| 01:25 | **Paletazow**: Alpaca (MFR), Giant Panda (FR) | **slushymynoobs**: Balloon Unicorn (NFR) |
+| 01:25 | **Disney_child55**: Groundhog | **lildaminii**: Pet Handler Pro Certificate ×2 |
+| 01:25 | **ivrquiz**: Cow (FR), Pupcicle (MFR) | **selensecretacc**: Mini Pig (FR) |
+| 01:25 | **Itsme_Jaliyahh**: Cabbit, Ride-A-Pet Potion, Tree Sasquatch (M), Velvet Fuchsia Mega Neon Paint | **Msmsmsmsjmsmsm8**: Tarsier (MR), Royal Palace Spaniel (MR), Pudding Cat (MR), Green Amazon (MFR) |
+| 01:25 | **Kaylamadetorock**: Pupcake (MFR), Happy Duckling (MFR) | **Callmehjolly3**: Unicorn Horn |
+| 01:25 | **bgfjm6fytfthfjytjkhb**: Siamese Cat (MFR) | **Sadieworldz**: Munchkin Cat (MFR), Harp Seal (MFR), Lynx (MFR) |
+| 01:25 | **ytw2099**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×5 | **Lynnn12340**: Kangaroo (R) |
+| 01:25 | **terrylonsoyjerry**: Cabbit (R), Copycat | **Xxskibidy67**: Halo |
+| 01:25 | **minimal_juasjuas**: Vanilla Penguin (NFR), Vol. 2 Pets Plus Sticker Pack ×2 | **aniwe57**: Matcha Cat (R) |
+| 01:25 | **kaomjiji**: Flash Weasel, Ride-A-Pet Potion | **M1dnight_v0id52**: Alley Cat (NR) |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
