@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 19:16 UTC by the scrape workflow._
+_Updated 2026-11-20 19:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 19:16 UTC by the scrape workflow._
 | amvgg | 10 | 39,846 | 2026-11-20T19:15 |
 | elve | 10 | 8,265 | 2026-11-20T19:15 |
 
-## AMVGG completed trades: 40,869 total
+## AMVGG completed trades: 40,898 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,176 |
+| 2026-11-20 | 3,205 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 19:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:15 | **CloudAMs**: Crystal Egg ×15 | **lotvsec**: Ride-A-Pet Potion |
-| 19:15 | **AdoptMeHere03**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Cmetanka14ca**: Dimorphodon (NFR) |
-| 19:15 | **mellqxxrb**: Pupcicle, Jacobin Pigeon (N), California Condor (N), Dog (N), Ant (N) | **regretmebby**: Ride-A-Pet Potion |
-| 19:15 | **deustchla**: Fairy Bat Dragon (FR), Frostbite Bear (FR), Strawberry Shortcake Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Bunny Swirl (MFR) | **Slimeswaztaken44**: Frost Dragon (FR) |
-| 19:15 | **Furryinreallaif**: Capricorn | **bella94255**: Ride-A-Pet Potion |
-| 19:15 | **blvdpawzi**: Galaxy Explorer Helmet | **CursedWitigo**: Paint Sealer ×4 |
-| 19:15 | **St_locki1**: Celebrity Mansion | **skibididumb015**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 19:15 | **joshsawsy**: Ride-A-Pet Potion ×2 | **ii_DxscaKun**: Skele-Rex |
-| 19:15 | **StrawberryKiitten**: Haetyphoon, Mini Schnauzer, Pupcicle | **priencesQwinn**: Irish Water Spaniel, Flaming Fox, Jester Dragon, Skelicorn (M) |
-| 19:15 | **Islaxluca**: Vol. 2 Pets Plus Sticker Pack | **Bruno_Games76**: Pupcicle |
-| 19:15 | **Car1os_xd**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×7 | **docedelets**: Lion (NFR) |
-| 19:15 | **rubisanuyam**: Cow (FR) ×2, Spring Bunny Feet, Ride-A-Pet Potion, Cattuccino (N) | **luvyerh**: Cow (NFR) |
-| 19:15 | **zerotocupiddragon**: Ride-A-Pet Potion | **SovertinhaGelada**: Crystal Egg ×15 |
-| 19:15 | **MICROCELE6BRITY**: Haetae (FR) | **xolvrxo**: Polar Bear (MFR), Halo, 2022 Birthday Party Horn, Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Count Slothula |
-| 19:15 | **calm_if**: Unicorn | **souiiijaaa**: Ride-A-Pet Potion |
+| 19:25 | **Oliver20717**: Turtle (FR) ×2, Kangaroo (FR), Arctic Fox (FR), Christmas Pudding Pup (NFR), Copycat (N), Unicorn (MFR), King Bee (MFR), Mushroom Friend (MFR), Fly-A-Pet Potion ×3 | **xKashaf**: Parrot (FR) |
+| 19:25 | **natfrmct**: African Wild Dog (R), Fly-A-Pet Potion ×3 | **emsgrax**: Giant Panda (FR) |
+| 19:25 | **FruitcakeSEALS**: Harp Seal (MFR), Harp Seal (NR) | **aestethic_boba12**: Water Rabbit (M), Moon Rabbit (MR), Fly-A-Pet Potion |
+| 19:25 | **CloudAMs**: Crystal Egg ×15 | **silliegur**: Ride-A-Pet Potion |
+| 19:25 | **fragilefeelling**: Goldhorn (MFR) | **joshsawsy**: 2022 Birthday Cake |
+| 19:25 | **Carl86B**: Paint Sealer ×18 | **naka_paka71**: Fly-A-Pet Potion |
+| 19:25 | **Mikeoten0923**: Boohoo (M) | **lxzkentaa**: Lunar Gold Tiger (NFR) |
+| 19:25 | **xmikaeq**: Sugar Axolotl (NFR), Ballet Swan | **baphometisim**: Wood Pigeon (MFR) |
+| 19:25 | **B00R3D0M**: Pain au Chat ×4, Retired Egg ×14 | **ZozoPingvin**: Pain au Chat (N) |
+| 19:25 | **rageuseTwT**: Little Lamb (N) | **SadPaperCat**: Christmas Pudding House |
+| 19:25 | **JustMeYito**: Ice Cream Hermit Crab (MFR), Unicorn (MFR), Ride-A-Pet Potion, Narwhal (N) | **KFCBIRD_5**: Bush Elephant (N) |
+| 19:25 | **Nastya_367367**: Festive Wagon, Waffle Wagon, Candy Camper, Stocked Santa Sleigh | **skibididumb015**: Ride-A-Pet Potion |
+| 19:25 | **YaobendeshoiZ**: Pig (R), Meerkat, Happy Duckling (N), Ride-A-Pet Potion ×3, Clownfish (R) | **carolzinhac2009**: Kangaroo (FR) |
+| 19:25 | **SiamsKt**: Count Slothula ×2, Burger Bear | **elenakrytaya333**: Fly-A-Pet Potion |
+| 19:25 | **Klaysi_flayra**: Urchin (N), Sheepdog Ducky (N), Gecko Ducky (N), California Condor (N), Clumpty (N), Princess Mare (N), Stray Cat Dragon, Weevil, Wren, Ratatoskr, Kelp Crewmate, Dracula Fish, Kaijunior, Jumping Spider | **W1zeryy**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
