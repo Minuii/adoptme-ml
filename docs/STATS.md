@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 02:46 UTC by the scrape workflow._
+_Updated 2026-11-20 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 02:46 UTC by the scrape workflow._
 | amvgg | 10 | 24,764 | 2026-11-20T02:45 |
 | elve | 10 | 4,864 | 2026-11-20T02:46 |
 
-## AMVGG completed trades: 38,075 total
+## AMVGG completed trades: 38,109 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 382 |
+| 2026-11-20 | 416 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 02:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:40 | **DrinklngMilk**: Ride-A-Pet Potion | **keissitojf**: Sheepdog Ducky (M), Bee, Australian Kelpie, Lunar White Tiger, Floral Eggy, Dilophosaurus ×2 |
-| 02:40 | **Tates1ush**: Giant Panda (FR), Mini Pig (MFR), Toaster Hat, Chihuahua (M) | **Justformoneybrolol**: Giant Panda (NFR) |
-| 02:40 | **nfrhectirchis**: Siamese Cat (R) | **Ilana67676**: Candyfloss Chick (FR) |
-| 02:40 | **0MGITSADD1E**: Strawberry Shortcake Bat Dragon (MFR), Owl (FR), Field Mouse (MFR), Snow Monkey (MFR), Cherry-On-Top, Sushi Penguin (MFR) ×2 | **emoloalt88**: Bat Dragon (FR), Ride-A-Pet Potion ×3 |
-| 02:36 | **blobxxfish**: Haetyphoon | **benjamin123benjamin1**: Cake Friend ×2, Happy Duckling (R), Highland Cow (R), Shadow Dragon Ducky (R), Scarecrow Cat (R), Red Squirrel (FR), English Sheepdog (R), Clover Cow (R), Feesh, Cattuccino, Indian Flying Fox, Flower Power Duckling ×2, Business Monkey, Candy Cane Snail, Evil Basilisk, Bee (NFR) |
-| 02:36 | **Roma_1234q**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **Sentikaza_pikachu**: Ruler's Castle |
-| 02:36 | **ALilZyko**: Ride-A-Pet Potion ×3 | **holixd489632**: Hare (R) |
-| 02:36 | **ally_28901**: Unicorn Backpack | **lahermanasofia**: Tea Party Set |
-| 02:36 | **BRAVL_STARS666666**: Turtle (FR), Candicorn (FR), Pink Cat (FR) | **Neoglimmer**: Turtle (NFR) |
-| 02:36 | **minion_310xd**: Christmas Pudding Pup, Lion Cub (R), Moon Rabbit (MFR), Ghostly Cat (M), English Sheepdog (NR), Tiny Wings, Spring Bunny Hood, Halloween White Ghost Dragon (R), Dango Penguins, Queen Bee (R) | **kwaskinnn**: Polar Bear (MFR) |
-| 02:36 | **adriel_24k**: Ice Cream Cone Hat ×2, Head Chef, Spring Bunny Hood | **Graveyardpanda**: 2022 Birthday Party Hat |
-| 02:36 | **AL0HALILYY**: Polar Bear (MFR), Spring Bunny Hood | **Btstvdyndynfy9**: Rainbow Maker |
-| 02:36 | **saturnestee**: Strawberry Shortcake Bat Dragon (FR) | **garlicbread4537**: Grim Dragon (NFR), Copycat, Fly-A-Pet Potion |
-| 02:36 | **zarmeowz**: Orchid Butterfly (FR), Jester Dragon (NR) | **xXfayridreamXx**: Alpaca (NFR) |
-| 02:36 | **qweqweqqqwq**: Pancake Stack | **vrtualxplsn**: Shiver Wolf (N) |
+| 02:55 | **DuckyMuffinz**: Ride-A-Pet Potion | **nellik_karomelik**: Admin Abuse Egg ×18 |
+| 02:55 | **stzrena**: Ride-A-Pet Potion | **soisomin**: Water Opossum (M) |
+| 02:55 | **Babyofy5**: Shark Puppy (FR) | **lilliesautumn**: Vanilla Penguin ×2, Lamb ×2, Brown Springer Spaniel ×5, Cake Friend, Elf Plush |
+| 02:55 | **the3reveng**: Cozy Mistletroll ×4 | **m0rbid_cat**: Ride-A-Pet Potion |
+| 02:55 | **Milechka_Pilmeshka**: Tarantula (M), Moonpine (N) | **jellyfish1248396**: Fly-A-Pet Potion |
+| 02:55 | **pssixotrop**: Golden Penguin (MFR), Mule (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **user9461037**: Chocolate Chip Bat Dragon (FR) |
+| 02:55 | **xezviii**: Peppermint Penguin (MFR) | **posionedtomb**: Haetae (N) |
+| 02:55 | **Aphmau_Cool09**: German Shepherd (MFR), Halo, Tiny Wings | **saturnestee**: Strawberry Shortcake Bat Dragon (FR) |
+| 02:55 | **Babyofy5**: Goat (R) | **444_asleep**: Cheetah ×2, Unicorn, Ride-A-Pet Potion |
+| 02:55 | **saturnestee**: Strawberry Shortcake Bat Dragon (FR) ×6 | **den9ial**: Giraffe (FR) |
+| 02:55 | **Babyofy5**: Flaming Fox | **XNicroyX**: English Sheepdog ×2, Mochi Meow |
+| 02:55 | **Babyofy5**: Pig (R) | **gattitakawaii16**: Shark (R), Snow Owl (FR), Scarecrow Crow (R), Ladybug (R) ×2, Winter Buck, Guardian Lion (R), Cobra (R), Snow Leopard (NF) |
+| 02:55 | **Moqqiz**: Fly-A-Pet Potion, Ride-A-Pet Potion | **arseniylolol**: Skelicorn (MR) |
+| 02:55 | **arseniylolol**: Crocodile (FR), Caterpillar (R), Copycat (R), Copycat | **sleepy_s0ren**: Cow (FR), Fly-A-Pet Potion |
+| 02:55 | **Doodleboodle654**: Chihuahua (MFR) | **kittycat_nlm**: Shark Puppy |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
