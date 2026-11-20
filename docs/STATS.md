@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 01:10 UTC by the scrape workflow._
+_Updated 2026-11-20 01:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 01:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 23,177 | 2026-11-20T01:00 |
-| elve | 10 | 4,618 | 2026-11-20T01:01 |
+| amvgg | 10 | 23,404 | 2026-11-20T01:15 |
+| elve | 10 | 4,638 | 2026-11-20T01:15 |
 
-## AMVGG completed trades: 37,883 total
+## AMVGG completed trades: 37,892 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 190 |
+| 2026-11-20 | 199 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 01:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:15 | **s0ftglow132**: Mini Pig (FR), Candicorn (NFR), Cow (R), Border Collie (FR), Munchkin Cat (NFR) | **natixezq**: Balloon Unicorn (FR) |
+| 01:15 | **Paletazow**: Blazing Lion (MFR), Crow (FR) | **GrowGardenCharlie**: Bat Dragon (NFR) |
+| 01:15 | **Michae_demiurgos**: Albino Monkey (NFR), Turtle (FR), Ride-A-Pet Potion ×2 | **Lazykingufc**: Pig (MFR) |
+| 01:15 | **terrylonsoyjerry**: Latte Kitsune (MFR), Winged Tiger (NFR), Winged Tiger, Ride-A-Pet Potion | **xXxAimeexPlaysxXx**: Blazing Lion (FR) |
+| 01:15 | **00Marina007**: Rock (NR) | **Lazykingufc**: Ride-A-Pet Potion |
+| 01:15 | **2009lovesouls**: Guardian Lion (NFR) | **Lazykingufc**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 01:15 | **riceb4II**: Panda | **IIuvbr**: Crystal Egg ×15 |
+| 01:15 | **noxenii**: Pupcicle | **gl0winq_angel**: Mochi Meow Tumble Animated Sticker |
+| 01:15 | **Darkvega11**: Peahen | **the3reveng**: Gingerbread Reindeer (F) |
 | 01:10 | **sonik_xlp**: Pain au Chat ×2 | **celee_vent4s**: Ride-A-Pet Potion |
 | 01:10 | **cesa_flyr**: Giant Panda (FR), Arctic Fox (FR) ×2 | **nzx3o**: Parrot (FR) |
 | 01:10 | **lo0vyyu**: Crystal Egg ×15 | **Elwanizk**: Ride-A-Pet Potion |
 | 01:10 | **0MGSARAY**: Ride-A-Pet Potion ×15 | **celee_vent4s**: Kangaroo (FR) |
 | 01:10 | **niceplayeruwu**: Ride-A-Pet Potion | **CataleyaThies**: Japan Egg ×3 |
 | 01:10 | **terrylonsoyjerry**: Lava Dragon (NFR) | **isabella68078**: 2022 Birthday Party Horn |
-| 01:10 | **toti_6394**: Puffer Fish (MFR), French Bulldog (MFR), Snow Monkey (MFR), Cherry-On-Top, Unicorn Horn, 2022 Birthday Party Horn | **cinammoroll_bun**: Meerkat (MFR), Happy Clam (MFR) |
-| 01:10 | **Shadow177755**: Frost Dragon (FR) | **12kyanni12k**: Fairy Bat Dragon (MFR), Fairy Bat Dragon (FR) |
-| 01:10 | **TheKindAndOnly**: Harp Seal | **Allyanaph124**: Ride-A-Pet Potion |
-| 01:10 | **Cat2_gir**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **whiplashtempo0**: Tiny Wings |
-| 01:10 | **Slushyunicorn0**: Water Rabbit (MFR), Moon Rabbit (MFR) | **xolvrxo**: 2022 Birthday Party Hat, Ice Cream Cone Hat |
-| 01:06 | **LizaTomura15**: Cabbit (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **FunnyCatus25**: Werewolf (R), German Shepherd (M) |
-| 01:06 | **brentspup**: Pirate Ghost Capuchin Monkey (R), Papa Moose (R), Glacier Kitsune | **Sprinxgle1**: Kangaroo (FR) |
-| 01:06 | **lildaminii**: 2022 Birthday Party Hat | **kjjwwws**: Turtle (FR) |
-| 01:06 | **goofy_bro20**: Cryptid (FR), Owl (FR) | **14pawz**: Haetyphoon (M) ×2 |
 
 ## Elvebredd value changes: 62,375 since 2023-09-16
 
