@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 19:25 UTC by the scrape workflow._
+_Updated 2026-11-20 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 39,846 | 2026-11-20T19:15 |
-| elve | 10 | 8,265 | 2026-11-20T19:15 |
+| amvgg | 10 | 40,071 | 2026-11-20T19:30 |
+| elve | 10 | 8,327 | 2026-11-20T19:31 |
 
-## AMVGG completed trades: 40,898 total
+## AMVGG completed trades: 40,920 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,205 |
+| 2026-11-20 | 3,227 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 19:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:25 | **Oliver20717**: Turtle (FR) ×2, Kangaroo (FR), Arctic Fox (FR), Christmas Pudding Pup (NFR), Copycat (N), Unicorn (MFR), King Bee (MFR), Mushroom Friend (MFR), Fly-A-Pet Potion ×3 | **xKashaf**: Parrot (FR) |
-| 19:25 | **natfrmct**: African Wild Dog (R), Fly-A-Pet Potion ×3 | **emsgrax**: Giant Panda (FR) |
-| 19:25 | **FruitcakeSEALS**: Harp Seal (MFR), Harp Seal (NR) | **aestethic_boba12**: Water Rabbit (M), Moon Rabbit (MR), Fly-A-Pet Potion |
-| 19:25 | **CloudAMs**: Crystal Egg ×15 | **silliegur**: Ride-A-Pet Potion |
-| 19:25 | **fragilefeelling**: Goldhorn (MFR) | **joshsawsy**: 2022 Birthday Cake |
-| 19:25 | **Carl86B**: Paint Sealer ×18 | **naka_paka71**: Fly-A-Pet Potion |
-| 19:25 | **Mikeoten0923**: Boohoo (M) | **lxzkentaa**: Lunar Gold Tiger (NFR) |
-| 19:25 | **xmikaeq**: Sugar Axolotl (NFR), Ballet Swan | **baphometisim**: Wood Pigeon (MFR) |
-| 19:25 | **B00R3D0M**: Pain au Chat ×4, Retired Egg ×14 | **ZozoPingvin**: Pain au Chat (N) |
-| 19:25 | **rageuseTwT**: Little Lamb (N) | **SadPaperCat**: Christmas Pudding House |
-| 19:25 | **JustMeYito**: Ice Cream Hermit Crab (MFR), Unicorn (MFR), Ride-A-Pet Potion, Narwhal (N) | **KFCBIRD_5**: Bush Elephant (N) |
-| 19:25 | **Nastya_367367**: Festive Wagon, Waffle Wagon, Candy Camper, Stocked Santa Sleigh | **skibididumb015**: Ride-A-Pet Potion |
-| 19:25 | **YaobendeshoiZ**: Pig (R), Meerkat, Happy Duckling (N), Ride-A-Pet Potion ×3, Clownfish (R) | **carolzinhac2009**: Kangaroo (FR) |
-| 19:25 | **SiamsKt**: Count Slothula ×2, Burger Bear | **elenakrytaya333**: Fly-A-Pet Potion |
-| 19:25 | **Klaysi_flayra**: Urchin (N), Sheepdog Ducky (N), Gecko Ducky (N), California Condor (N), Clumpty (N), Princess Mare (N), Stray Cat Dragon, Weevil, Wren, Ratatoskr, Kelp Crewmate, Dracula Fish, Kaijunior, Jumping Spider | **W1zeryy**: Ride-A-Pet Potion |
+| 19:30 | **shellyy_026**: Kitty Bat (NR), Fossil Egg | **raindow_ivan**: Celebrity Mansion |
+| 19:30 | **Meowkittiikat**: Candicorn, Candy Hare (MFR), Siamese Cat (NR) | **jett_isthebest28**: Copycat (MFR) |
+| 19:30 | **Noah1k1n**: Mighty Haetyphoon Animated Sticker | **Fet4moh**: Kitsune (FR) |
+| 19:30 | **lifesregrets**: Dango Penguins (MFR), Dango Penguins (MR), Peppermint Penguin, Werewolf (R), Pet Handler Pro Certificate, Monkey (M) | **xmikaeq**: Balloon Unicorn (FR) |
+| 19:30 | **muniradypa**: Guardian Lion (R) | **aaliyah0284**: Ride-A-Pet Potion |
+| 19:30 | **souIsIostt**: Jekyll Hydra (NR), Copycat (N), Santa Hat | **copyvoting**: Candicorn (MFR) |
+| 19:30 | **Tyyyyy_tyy1**: Star Sunglasses | **booseoks0on**: Retired Egg ×9 |
+| 19:30 | **reserbadong2**: Fairy Bat Dragon (NFR) | **KnifeonKeys**: Sugar Glider (NFR) |
+| 19:30 | **txhoxie**: Ghost Wolf (N), Dire Wolf (N), Stray Cat Dragon, Skelicorn, Mummy Spider (N) | **krikikriki56**: Ride-A-Pet Potion |
+| 19:30 | **haiI3yyyy**: Candicorn (R) | **darina6767boi**: Llama (FR), Nessie (FR), Owlbear (FR), Golden Penguin (R), Red Sand Dollar (R), Ghost Bunny (R) |
+| 19:30 | **ni1zuua**: Fly-A-Pet Potion, Spring Bunny Nose | **lalsakjsja**: Mochi Meow (MFR) |
+| 19:30 | **MM_Cloud**: Crystal Egg ×15 | **PrincessSweetness111**: Ride-A-Pet Potion |
+| 19:30 | **MONSTERS_INC52**: Chocolate Chip Bat Dragon (NFR), Bush Elephant (NR), Sugar Axolotl (NR) | **FestiveNotCupcake**: Cryptid (NFR) |
+| 19:30 | **bella94255**: Ride-A-Pet Potion ×2 | **ni1zuua**: Butter Knife, Bready Necklace |
+| 19:30 | **Happy_PlayerWizard**: Halo, Jeff's Nametag, Eco Orange Pumpkin Pie Wings, Strawberry Hat, Jade Moth Wings, White Designer Backpack | **Eceuni**: Mini Pig (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
