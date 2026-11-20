@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 20:46 UTC by the scrape workflow._
+_Updated 2026-11-20 20:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 20:46 UTC by the scrape workflow._
 | amvgg | 10 | 41,296 | 2026-11-20T20:45 |
 | elve | 10 | 8,561 | 2026-11-20T20:46 |
 
-## AMVGG completed trades: 41,191 total
+## AMVGG completed trades: 41,213 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,498 |
+| 2026-11-20 | 3,520 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 20:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:45 | **Rosie_rosefloweers**: Strawberry Shortcake Bat Dragon (FR) ×2, Glormy Leo (NR) | **j2v73r**: Balloon Unicorn (FR) |
-| 20:45 | **zeejnaa**: Naga Dragon (MFR), Ride-A-Pet Potion ×2 | **wuwhikf21**: Unicorn Horn |
-| 20:45 | **ongitos_oficial**: Munchkin Cat (FR), Pancake Stack | **Ww_ded123**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 |
-| 20:45 | **GrindAccount_N1**: Griffin (FR) ×2, Blue Whale (NR), Blue Whale (N), Dracula Parrot (FR), Golden Unicorn (FR), Golden Dragon (FR) ×2 | **lunweup**: Ice Cream Cone Hat |
-| 20:45 | **Yessss12732**: Cabbit (MFR), Unicorn Horn, Rain Cloud Hat, Rain Boots, Spring Bunny Hood | **XxOmgItsFrankie**: Alpaca (MFR) |
-| 20:45 | **XMiss_MusicX**: Werewolf (R), Copycat ×2 | **AN7LY**: Matcha Cat (R), Velocirooster, Nessie, Dragonfruit Fox (R), Harp Seal (R), Count Slothula, Capybara, Ride-A-Pet Potion, Fly-A-Pet Potion, Skelicorn (NFR), Black-Footed Ferret (MR), Hippo (NR) |
-| 20:45 | **youchi_nagi**: Parrot (FR), 2022 Birthday Party Hat, Toaster Hat, Spring Bunny Nose | **pawincesscadence**: Winged Tiger (MFR) |
-| 20:45 | **eeveepro236**: Rubber Ducky (M), Retired Egg ×6 | **LaLas_2009**: Possum (N) |
-| 20:45 | **aitana_20091**: Strawberry Shortcake Bat Dragon (FR) | **cherrymoon4441**: Rainbow Maker, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 |
-| 20:45 | **kaibodydump**: Blazing Lion (FR), Fly-A-Pet Potion | **kitty19ro**: Peppermint Penguin (NFR) |
-| 20:45 | **Angelbatista_me2**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×6 | **gooo734**: Kangaroo (FR) |
-| 20:45 | **tguerx**: Choco Penguin (NR) | **JenYAsha2akk12**: Ride-A-Pet Potion |
-| 20:45 | **AMOANICOLE78**: Cow | **Usuario30x**: Kangaroo (R), Unicorn (MFR) |
-| 20:45 | **purebelly**: Bubblegeist (N), Cocoadile (N) | **JenYAsha2akk12**: Ride-A-Pet Potion |
-| 20:45 | **AMOANICOLE78**: Cow | **aqwrty9**: 2022 Birthday Party Hat, Ice Cream Cone Hat, Banana Hat, Magic House Door |
+| 20:51 | **jebiilerium**: Cow (FR) | **Smileydreamx21**: Aussie Egg ×6 |
+| 20:51 | **jairoandresvivasp**: Puffin (NFR) | **vultuny2**: Sugar Glider |
+| 20:51 | **Yuri5608765**: Copycat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×10, Pet Handler Pro Certificate | **razarvale2z**: Frostbite Bear (FR) |
+| 20:51 | **kitvez**: Spring Bunny Hood, Cotton Candy Hat | **UTU_DianaA**: Cherry Blossom Hang Glider |
+| 20:51 | **Cmetanka14ca**: Cow (FR), Fairy Bat Dragon (R), Meerkat (R) | **NLin_126**: Strawberry Shortcake Bat Dragon (FR) |
+| 20:51 | **nesslixi**: Bee | **clzi_dem**: Black-Footed Ferret ×2 |
+| 20:51 | **itsvaleriaotz**: Lynx (NR), Chihuahua | **BiOnoMani**: Ride-A-Pet Potion ×2, Snow Monkey |
+| 20:51 | **CloudAMs**: Crystal Egg ×15 | **Elwanizk**: Ride-A-Pet Potion |
+| 20:51 | **aaxxllas**: Goose (FR), Meerkat (MFR), Siamese Cat (NFR) | **Lurxell**: Parrot (FR) |
+| 20:51 | **Goodbyes26**: Gemstone Egg ×18 | **Alexand787**: Haetyphoon |
+| 20:51 | **boloxlucas123930**: Water Rabbit, Eaten Donut ×2 | **silliegur**: Gumball Caterpillar (M) |
+| 20:51 | **Sonicka525**: Unicorn Horn, Bunny Swirl (M), Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **icebaby545**: Cow |
+| 20:51 | **iiSimplylvxy**: Cow (FR), Goose (FR), Lion (R) | **Sonya73p**: Sugar Glider (NFR) |
+| 20:51 | **lfjdigvfb**: Cabbit (FR), Arctic Fox (FR) | **leidydamelike**: Undead Jousting Horse (FR) |
+| 20:51 | **Sonya73p**: Goose (FR), Cow (FR), Unicorn Horn ×2, Fly-A-Pet Potion | **Happy_PlayerWizard**: Mini Pig (FR), 2022 Birthday Party Hat ×3, Dog |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
