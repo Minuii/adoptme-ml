@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 13:25 UTC by the scrape workflow._
+_Updated 2026-11-20 13:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 13:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 34,201 | 2026-11-20T13:15 |
-| elve | 10 | 6,912 | 2026-11-20T13:15 |
+| amvgg | 10 | 34,439 | 2026-11-20T13:30 |
+| elve | 10 | 6,969 | 2026-11-20T13:31 |
 
-## AMVGG completed trades: 39,500 total
+## AMVGG completed trades: 39,507 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,807 |
+| 2026-11-20 | 1,814 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,13 @@ _Updated 2026-11-20 13:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 13:30 | **koshka_lima1331**: Lion (R), Ride-A-Pet Potion | **Hazel_hky**: Pupcicle (M) |
+| 13:30 | **doisynan**: Cryptid (FR), German Shepherd (MFR), Spring Bunny Hood, Spring Bunny Nose, Spring Bunny Feet | **DalePearson8409**: African Wild Dog (FR) |
+| 13:30 | **ArdaEOYT**: Haetae (FR) | **Ari_tem**: Candicorn (MFR) |
+| 13:30 | **mofncufjs**: Elf Bandana | **Kat_t0y**: Retired Egg ×18 |
+| 13:30 | **verkaash**: Ruddy Duck (M) ×2 | **kunneshc**: Fly-A-Pet Potion |
+| 13:30 | **vryxsian**: Shih Tzu ×9 | **ava100192**: Red Panda, Toucan |
+| 13:30 | **BonyTuna**: Dalmatian (FR), Kangaroo (NFR), Cow (FR), Elephant (FR), Crocodile (FR), Pig (FR) ×2, Moonbeam Peacock (FR), Jester Dragon (FR), Unicorn (NFR) ×3, Royal Palace Spaniel (NFR), Spinosaurus (NR), Fly-A-Pet Potion ×4 | **meisluvadoptme**: Frost Dragon (FR) |
 | 13:25 | **Its_rbx522**: Fly-A-Pet Potion | **cristianarthur28**: Schoolhouse Home |
 | 13:25 | **cc0uture16**: Muskrat (M), Ocelot (M) | **FRIK_RR**: Ride-A-Pet Potion |
 | 13:25 | **Yelyzaveta_125**: Christmas Pudding House | **usuario_280212**: Green Amazon |
@@ -43,13 +50,6 @@ _Updated 2026-11-20 13:25 UTC by the scrape workflow._
 | 13:25 | **kadlala24**: Gingerbread Mouse, Praying Mantis ×2, Water Moon Bear ×2 | **rainbow72679**: Ride-A-Pet Potion |
 | 13:25 | **Avi_ator12**: Ride-A-Pet Potion ×2 | **fd43730**: Fly-A-Pet Potion |
 | 13:25 | **XiaoFaye1433**: Turtle (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **olddeathcore**: Golden Penguin (MFR) |
-| 13:25 | **PINKNATI4**: Owlbear (NR) | **lacedinpinkbows**: Ring-Tailed Lemur (NFR) |
-| 13:25 | **qeeddn**: Chocolate Chip Bat Dragon (FR), Kangaroo (FR) | **jakeslers**: Dalmatian (FR) |
-| 13:25 | **Violet_Moon11AG**: Kitty Bat (N) ×3, Ride-A-Pet Potion | **awita_92729**: Raccoon (M) |
-| 13:25 | **Violet_Moon11AG**: Pet Handler Pro Certificate | **kiwiwaterrrmelon**: Stray Cat Dragon ×4 |
-| 13:25 | **AutumnVibes57**: Goose (R) | **egoklled**: Unicorn Horn, Flaming Fox (NR), Burger Bear (N), Pupcicle ×4, Shiver Cone Bait, Count Slothula |
-| 13:25 | **adorable_rhian**: Irish Water Spaniel | **flears_brai**: Chihuahua ×18 |
-| 13:25 | **The_Mery24**: Merhorse (N) ×2 | **KalinaMarysia**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
