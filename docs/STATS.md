@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 03:46 UTC by the scrape workflow._
+_Updated 2026-11-20 03:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 03:46 UTC by the scrape workflow._
 | amvgg | 10 | 25,695 | 2026-11-20T03:45 |
 | elve | 10 | 5,073 | 2026-11-20T03:46 |
 
-## AMVGG completed trades: 38,203 total
+## AMVGG completed trades: 38,221 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 510 |
+| 2026-11-20 | 528 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 03:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:45 | **Its_socrazy**: Christmas Pudding Pup, Ride-A-Pet Potion | **OBV_095**: Giant Anteater |
-| 03:45 | **femglxm**: Cryptid (FR), Haetyphoon ×4, Pupcicle ×4 | **Artem_21a2**: Giant Panda (FR) |
-| 03:45 | **Kateva_Russia**: Pet Handler Pro Certificate, Easter Bunny | **Ethernaces**: Ride-A-Pet Potion ×2 |
-| 03:45 | **holixd489632**: Ring-Tailed Lemur (FR) | **Xxxxashhhh**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
-| 03:45 | **adriel_24k**: Ice Cream Cone Hat, Tuxedo Cat (N), Vanilla Penguin (F), Snow Owl (R), Halloween Slime Mega Neon Paint, Rose Quartz Glow Mega Neon Paint | **littlefelonies**: 2022 Birthday Party Horn |
-| 03:45 | **ictswito30**: Polar Bear ×4 | **dnei30fast**: Ride-A-Pet Potion ×14 |
-| 03:45 | **2262096**: Red Sand Dollar (FR), Red Sand Dollar ×4, Rooster (R) ×2, Royal Corgi (R), Royal Corgi, Royal Palace Spaniel (NFR) ×2, Royal Palace Spaniel (NR), Royal Palace Spaniel (FR), Royal Palace Spaniel (R), Slime, Snow Monkey ×2, Snowball Pet (N) | **Myobap**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 |
-| 03:45 | **bassie123284**: Cabbit (R), Field Mouse | **agustin_camilo12**: Peppermint Penguin (FR) |
-| 03:45 | **abbyissocool_lol**: Crystal Egg ×3 | **riceb4II**: Toy Poodle |
-| 03:45 | **LalayS2z**: Candicorn (R) | **xTigrillo06**: Unicorn (NR) ×3, Meerkat (R) |
-| 03:45 | **Theguruguruslay**: Ride-A-Pet Potion | **GreenCC12**: Paint Sealer ×18 |
-| 03:45 | **addmysecondaccount**: Strawberry Shortcake Bat Dragon (FR) | **Darknesskiller2504**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
-| 03:45 | **lupoouu2**: Orchid Butterfly (FR), Goose (FR), Peppermint Penguin | **coolkidd9641**: Parrot (FR) |
-| 03:45 | **ImpossibleG0411**: Matcha Cat, Pancake Stack, Spring Bunny Feet | **saturnaligator**: Munchkin Cat (R) |
-| 03:45 | **wiwiloil**: Fairy Bat Dragon (NFR), Candyfloss Chick, Candicorn (FR), Tortuga de la Isla (R), Owlbear (R), Fly-A-Pet Potion | **saturnaligator**: Blazing Lion (FR) |
+| 03:55 | **Nicworldkids**: Arctic Reindeer (R) | **beautifulratU_u**: Chocolate Chip Bat Dragon (FR), Unicorn (NFR), Solaris, Mochi Meow |
+| 03:55 | **Galapogus7**: Panda (R) | **Ashdorae**: Ride-A-Pet Potion |
+| 03:55 | **cj_hndsm**: Gemstone Egg | **lynnedcool**: Mythic Egg |
+| 03:55 | **faikubjotch**: Unicorn (MFR) | **AutoTradeCommission**: Fly-A-Pet Potion ×7 |
+| 03:55 | **Caat_Worl**: Lunar Ox (N), Puptune, Pink Dog (N), Golden Unicorn, Purrowl ×2 | **Heavy_MetalFamily45**: Ride-A-Pet Potion |
+| 03:55 | **00099hh1**: Elephant (R) | **Domonic8hard**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×10 |
+| 03:55 | **ylyzacanete**: Pupcake (M), Fly-A-Pet Potion | **wtvlanis**: Tiny Wings |
+| 03:55 | **AndresPatato**: Crimson Cape (M), Donkey (M) | **Kimyeonii**: Ride-A-Pet Potion |
+| 03:51 | **areezyss**: Shiver Wolf (MFR) | **Thebossoflaughter**: Shiver Wolf (M) |
+| 03:51 | **Mikaylamareex**: Christmas Pudding Pup | **wongryder**: Pet Handler Pro Certificate |
+| 03:51 | **faikubjotch**: Brown Springer Spaniel (NR) | **Domonic8hard**: Ride-A-Pet Potion ×4 |
+| 03:51 | **JeongwooOnlyMine**: Starfish (MFR) | **Halloween_Goat**: Pupcicle ×3 |
+| 03:51 | **Justlilian7**: Shadow Dragon (FR) | **Fruit_Kittie**: Owl (NFR), Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×2 |
+| 03:51 | **Dessertsandfoods**: Cow (NFR) | **PH_HYPER**: Flamingo (FR), Frostbite Cub (MFR), Sugar Glider, Candicorn, Harp Seal (R) |
+| 03:51 | **Jeremibus2012**: Candicorn (R), Hot Doggo, Strawberry Tortle, Undead Jousting Horse, Werewolf, Flamingo (R), Mini Pig, Peppermint Penguin (R), Siamese Cat (R), Brown Bear (NR), Polar Bear (N), Elephant (R) | **Fan_deJennaO**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
