@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 17:16 UTC by the scrape workflow._
+_Updated 2026-11-20 17:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 17:16 UTC by the scrape workflow._
 | amvgg | 10 | 37,906 | 2026-11-20T17:15 |
 | elve | 10 | 7,856 | 2026-11-20T17:15 |
 
-## AMVGG completed trades: 40,390 total
+## AMVGG completed trades: 40,426 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 2,697 |
+| 2026-11-20 | 2,733 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 17:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:15 | **lolcryabtit6767**: Ice Wolf (MFR), Field Mouse | **PeterlsBTS**: Rainbow Dragon (MFR) |
-| 17:15 | **Yaitz_kayla**: Siamese Cat (NR) | **Andres_agent**: Naughty Mistletroll (MFR) |
-| 17:15 | **Nevaeh_sxfte**: Fly-A-Pet Potion, Ride-A-Pet Potion | **katyanlox**: Gemstone Egg, Crystal Egg ×3, Ghost Wolf, Frozen Penguin ×2, Icy Porcupine, Amber Butterfly, Arctic Hare (N), Musk Ox, Stray Cat Dragon (N), Seafoam Butterfly, Salamander, Black Kite, Deinonychus |
-| 17:15 | **m0rbid_cat**: Chihuahua (N) | **sjskbdbsnsks**: Cotton Candy Hat |
-| 17:15 | **my_frogys**: Toaster Hat, Goth Shoes, Chocolate Dutch Guinea Pig (MR) | **pinkwolfpz_lolo**: Dragonfruit Fox (MFR), Gumball Caterpillar (MFR) |
-| 17:15 | **uqxiyeol**: Red Dutch Guinea Pig ×3 | **K1KASPL4N3T**: Burger Bear (M) |
-| 17:15 | **df_144638**: Arctic Dusk Dragon (FR), Arctic Fox, Ride-A-Pet Potion ×7 | **aliir1875**: Siamese Cat |
-| 17:15 | **Vosukese518**: Fairytale Egg ×15 | **blackaquamarine**: Retired Egg ×11 |
-| 17:15 | **Vanlyzn26**: Crystal Egg ×14 | **bunniiangeI**: Ride-A-Pet Potion |
-| 17:15 | **Tr0ubledD0ll**: Ride-A-Pet Potion | **flowerist0w04577**: Paint Sealer ×15 |
-| 17:15 | **turkeyfish2**: Shoebill (M) ×3 | **LYIZA_1976**: Fly-A-Pet Potion |
-| 17:15 | **Lxdyxx**: Snowy Mammoth (N) ×4, Borhyaena Gigantica (N) | **Bomba333555777**: Snowy Mammoth (M) |
-| 17:15 | **sultan123idk**: Shadow Dragon (MFR), Bat Dragon (NFR), Haetae (NFR), Cryptid (NFR), Owl (FR) | **Squid_GamerS11**: Bat Dragon (MFR) |
-| 17:15 | **copyvoting**: Goose (MFR), 2022 Birthday Party Horn, Fly-A-Pet Potion, Ride-A-Pet Potion | **chipsyZdupy183**: Werewolf (MFR), Munchkin Cat (MFR), Arctic Dusk Dragon (MFR) |
-| 17:15 | **aelmk**: Latte Kitsune | **kakan_tyrbo**: Pineapple Owl |
+| 17:25 | **Hacpu_BHocok**: Arctic Fox (R), Alley Cat ×2, Alley Cat (R), Christmas Pudding Pup (FR), Gemstone Egg | **Xlucasxoi**: Arctic Fox (NFR) |
+| 17:25 | **Venom_eshkeregg**: Fly-A-Pet Potion ×3, Toucan (N) | **TeezYeez**: Christmas Pudding Pup |
+| 17:25 | **xv1oh**: Munchkin Cat (MFR), Spring Bunny Nose, Ride-A-Pet Potion ×2 | **roxzyydoll**: Strawberry Tortle (FR), Pelican (FR), Cow (FR), Munchkin Cat (FR) |
+| 17:25 | **TeezYeez**: Border Collie, Turtle (FR) | **Mnenormalno_0**: Goose (FR) |
+| 17:25 | **Sarah_dzalg**: Hyena (NFR), Skelicorn (M), Unicorn Backpack | **FruitcakeSEALS**: Arctic Fox (NR) |
+| 17:25 | **x0CDs3**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×3 | **leoncitoUwU12345**: Kangaroo (NFR) ×2 |
+| 17:25 | **SantyGamer_4592**: Pelican | **fehrec**: Field Mouse (NFR) |
+| 17:25 | **AmandaaX213**: Ride-A-Pet Potion | **heesuukey**: Pupcake (FR) |
+| 17:25 | **HaramiHUN**: S'mores Raccoon (N), Puffer Fish (NR), Ride-A-Pet Potion, Jiggly Jerboa (N) ×2 | **Red_Spider228**: Tiny Wings |
+| 17:25 | **bunniiangeI**: Chocolate Dutch Guinea Pig (NR) | **Katespaw**: Crystal Egg ×5, Copycat, Ride-A-Pet Potion, White Choccybunny (N), Milk Choccybunny (N) |
+| 17:25 | **jayjay080309**: Owlbear (R), Cupid Dragon (MFR), Snow Monkey (MFR) | **rayswardrobe**: Balloon Unicorn (FR) |
+| 17:25 | **newheroltu**: Ballet Swan ×17 | **SvinaATvar67**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:25 | **Catyuushy**: Mummy Spider (M), Blue Cat (M), Pink Dog (M) | **Julka_Polska157**: Frostbite Cub |
+| 17:25 | **Shapka1000_2**: Koala (NFR) | **6evesvokhaha**: Fly-A-Pet Potion |
+| 17:25 | **hellofriendnicetome**: Ghost Bunny (MFR) | **subv3re**: Ghost Bunny (MR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
