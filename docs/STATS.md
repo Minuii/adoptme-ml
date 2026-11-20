@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 23:01 UTC by the scrape workflow._
+_Updated 2026-11-20 23:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 23:01 UTC by the scrape workflow._
 | amvgg | 10 | 43,526 | 2026-11-20T23:00 |
 | elve | 10 | 9,064 | 2026-11-20T23:01 |
 
-## AMVGG completed trades: 41,610 total
+## AMVGG completed trades: 41,640 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,917 |
+| 2026-11-20 | 3,947 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 23:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:55 | **komanda_2280**: Jacobin Pigeon (M) ×2 | **wrixcte**: Ride-A-Pet Potion |
-| 22:55 | **Imoi716**: Velocirooster | **superpretygirl567**: Ride-A-Pet Potion, Nebula Snake (N), Stray Cat Dragon, Three Blind Mice, Lammergeier (N), Trapdoor Snail (N), Salamander (N), Bready Necklace |
-| 22:55 | **iiStxberryMilkx**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion ×3 | **Z_Alexis22**: Turtle (FR) |
-| 22:55 | **anutik_awesome**: Lunar Ox, Penguin, Swordfish, Space Whale, Praying Mantis, Pine Marten | **itsvaleriaotz**: Ride-A-Pet Potion |
-| 22:55 | **Caua08_Games**: Owl (FR), Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Balloon Unicorn (FR), Border Collie (FR) | **SPARTA9218**: Owl (NFR) |
-| 22:55 | **Adoptme_prety**: Fly-A-Pet Potion ×14 | **WhiteJackk4**: Fairy Bat Dragon (FR) |
-| 22:55 | **uziizvt**: White Choccybunny (M), Dire Wolf (N), Red Panda (N) | **DwWsHZ_2003**: Ride-A-Pet Potion |
-| 22:55 | **Ruperto_1297**: Evil Unicorn (FR) | **Mija1978B**: Cow (FR) ×3 |
-| 22:55 | **rttndesire**: Cabbit, Ride-A-Pet Potion | **darina6767boi**: Polar Bear (NR), Border Collie (R) |
-| 22:55 | **Lqvari**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **stoIencorpses**: Albatross (MFR) |
-| 22:55 | **bell_flowers**: Pupcicle | **Goodbyes26**: Crystal Egg ×9 |
-| 22:55 | **saneL1476**: Jekyll Hydra (R) | **xdlennonYT123**: Jekyll Hydra |
-| 22:55 | **multitaxking**: Brown Bear (MFR) | **altfornewgen**: Haetyphoon (NFR) |
-| 22:55 | **extrysx**: Chocolate Dutch Guinea Pig (MFR), Tiny Wings, Ride-A-Pet Potion | **StrangerthingFofinha**: Dango Penguins (MFR) |
-| 22:55 | **Elwanizk**: Pain au Chat | **Flankbeach02**: Retired Egg ×18 |
+| 23:11 | **lala_399woow**: Thunderfisher (M) | **kokako113377**: Ride-A-Pet Potion |
+| 23:11 | **Tea_found**: Dalmatian (FR), Goose (R), Hedgehog, Cow (R), 2022 Birthday Cake | **missy_Artz**: Frost Dragon (FR) |
+| 23:11 | **Lurxell**: Meerkat (MFR), Royal Palace Spaniel (MFR) | **svtoruuz**: Munchkin Cat (MFR) |
+| 23:11 | **Gamerqueen1255**: Gemstone Egg | **Tea_found**: Retired Egg ×18 |
+| 23:11 | **lolcryabtit6767**: Harp Seal (MR) | **luiscae3**: Turtle (FR) |
+| 23:06 | **ashleyzxx6**: Chicken | **sl100xxxx**: Candy Hare |
+| 23:06 | **StannyStarPets**: Cryptid (R), Bat (MFR), Owlbear, Owlbear (R) | **Maji_kawai67**: Strawberry Shortcake Bat Dragon (FR), Zombie Buffalo (R), Alley Cat (NR), Goose (FR) |
+| 23:06 | **Yumi_Rose8**: Pet Handler Pro Certificate | **sugarblossomxoxx**: Bauble Buddies (N) |
+| 23:06 | **kylebarcebas1**: Harp Seal | **IIuvbr**: Skelicorn ×10 |
+| 23:06 | **La_Guapa0911**: Sushi Penguin (MFR) | **kaylamicmi**: Tarsier (MFR), Pupcake (MR), Fly-A-Pet Potion |
+| 23:06 | **warriors1gamig**: Fairy Bat Dragon (NFR), Ride-A-Pet Potion ×2 | **RainyGamerzzz**: Strawberry Shortcake Bat Dragon (FR), 2022 Birthday Party Horn, German Shepherd (NFR) |
+| 23:06 | **Sanster47**: Gingerbread Reindeer ×4, Mythic Egg | **uczro**: Chocolate Dutch Guinea Pig |
+| 23:06 | **Larisa_DiecooleSocke**: Ride-A-Pet Potion | **alexgameminecraft**: Ram |
+| 23:06 | **angel_w1ngzxoxo**: Arctic Fox | **cherrymoon4441**: Groundhog, Happy Duckling (NR) |
+| 23:06 | **Zeyndhan**: Ride-A-Pet Potion ×2 | **crypticfawnxw**: Pupcicle ×2 |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
