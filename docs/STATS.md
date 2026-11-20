@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 21:15 UTC by the scrape workflow._
+_Updated 2026-11-20 21:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 21:15 UTC by the scrape workflow._
 | amvgg | 10 | 41,790 | 2026-11-20T21:15 |
 | elve | 10 | 8,656 | 2026-11-20T21:15 |
 
-## AMVGG completed trades: 41,288 total
+## AMVGG completed trades: 41,322 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,595 |
+| 2026-11-20 | 3,629 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 21:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:15 | **6Dolbank6**: Frost Dragon (FR) | **cookieuxblox**: Cryptid (R), Evil Unicorn (FR), Cow (FR), Blue Dog (R), Alpaca (FR) |
-| 21:15 | **vivicacke17**: Dark Choccybunny | **HelloIamnotsannaa**: Alicorn |
-| 21:15 | **livelycouture**: Pet Handler Pro Certificate | **Maexnzz**: Fly-A-Pet Potion |
-| 21:15 | **tiaamisuu**: Kangaroo (FR) | **superawesome0528**: Border Collie (FR), Spring Bunny Hood |
-| 21:15 | **Robloxian19039878**: 2D Kitty, Frankenfeline (M) | **Its_soulseek**: Fly-A-Pet Potion |
-| 21:11 | **ilovebelleblossom**: Crow (FR), Turtle (FR), Cow (FR), Elephant (R), Flamingo (R), Caterpillar (R), Jester Dragon (R), Lava Dragon (FR), Tree Kangaroo (FR), Platypus | **Flux_puck**: Frost Dragon (FR) |
-| 21:11 | **giovvanna7423**: Fly-A-Pet Potion | **Polita721**: Crystal Egg ×9, Retired Egg ×9 |
-| 21:11 | **aleks2u**: Cabbit (FR) ×2, Fly-A-Pet Potion ×4 | **iaMatthieu1**: Chocolate Chip Bat Dragon (FR) |
-| 21:11 | **pavel_santexnick**: Crystal Egg ×2 | **MyacountJohnwcrtba**: Paint Sealer |
-| 21:11 | **CloudAMs**: Crystal Egg ×15 | **P8D3L**: Ride-A-Pet Potion |
-| 21:11 | **Yamajyjopyvazelinov1**: Harp Seal (NFR), Snow Monkey, Ride-A-Pet Potion, Amami Rabbit | **malnokeyo**: Munchkin Cat |
-| 21:11 | **ich_binda00**: Count Slothula ×3, Clumpty ×9 | **Nori_Nur**: Catte ×2 |
-| 21:11 | **myfav_QUOICOUBEH**: Arctic Reindeer (FR) | **ViscaBarca_44**: Cow (NFR) |
-| 21:11 | **ABBYSXCH4RM**: Bat Dragon (FR), Peach Owl (MFR), Bauble Buddies (MR) | **bartixoxoxx**: Parrot (MFR) |
-| 21:11 | **NummieNummiegirl**: Jellyfish (MFR), Cabbit (FR) | **Alex_oop82**: Parrot (FR) |
+| 21:25 | **tommylikeroblox2009**: Electric Hornet | **oOWilDig0n0oO**: Retired Egg ×6 |
+| 21:25 | **clumhsy**: S'mores Raccoon (MFR), Sushi Penguin (NR), Maine Coon (MFR), Dango Penguins | **mylolovescats**: Munchkin Cat (NFR) |
+| 21:25 | **xavspup**: Thunderfisher (N), Gumball Caterpillar (N), Red Panda Ducky (N), Hammerhead Shark, Bakeneko, Gummy Guana (N), Electric Hornet, Cattuccino ×2, Poodle (N) | **Lozi_loz**: Ride-A-Pet Potion |
+| 21:25 | **Dazzzle_1**: Water Rabbit (NR), Moon Rabbit (NR), Amami Rabbit (N), Chocolate Dutch Guinea Pig (N), Giant Anteater (R), Meerkat | **Roblox_Cool050**: Fairy Bat Dragon (R) |
+| 21:25 | **Violette_244**: Brown Bear (MFR), Alley Cat (MFR) | **joshsawsy**: Turtle (MFR) |
+| 21:25 | **K_s726**: Alley Cat (MFR) | **roblox_user_8676283275**: Rainbow Dragon (MFR) |
+| 21:25 | **amaielliee**: Cryptid (NFR) | **regalarmealgo12**: Mini Pig (R), Cow (FR), Peppermint Penguin (FR) ×2, Goose ×2, Goat (NFR) |
+| 21:25 | **Kisa_Mika8**: Unicorn (R) | **Slughteer**: Silly Duck |
+| 21:25 | **DarkLightopq**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **liza_moreloll**: Golden Rat (NFR) |
+| 21:25 | **riskyactss**: Matcha Cat (N), Pain au Chat (M), Lion Cub (R), Cake Friend (N) | **ilija0620**: Werewolf (NFR) |
+| 21:25 | **poorbunii**: Sugar Glider (FR), Unicorn Horn | **UltraCircuit506**: Slime (MFR), Gold Circle Glasses, Skelicorn (N), Gold Tiara, Chocolate Chip Bat Dragon Backpack |
+| 21:25 | **INS4N3_M4X**: Cow (FR) ×2, Castle Hermit Crab (M), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **GrindAccount_N1**: Jester Dragon (MFR) |
+| 21:25 | **amyggvaI**: Haetyphoon | **elenakrytaya333**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×2, Pilot Gull (M) |
+| 21:25 | **abbyissocool_lol**: Crystal Egg ×5 | **Fora_1top00453**: Partridge |
+| 21:25 | **Lotti_Emi**: Purrowl (N), Chihuahua | **Pick_me77778**: Pupcicle |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
