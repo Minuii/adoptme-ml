@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 09:11 UTC by the scrape workflow._
+_Updated 2026-11-20 09:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 09:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 30,421 | 2026-11-20T09:00 |
-| elve | 10 | 6,018 | 2026-11-20T09:01 |
+| amvgg | 10 | 30,642 | 2026-11-20T09:15 |
+| elve | 10 | 6,026 | 2026-11-20T09:15 |
 
-## AMVGG completed trades: 38,835 total
+## AMVGG completed trades: 38,836 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,142 |
+| 2026-11-20 | 1,143 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,7 @@ _Updated 2026-11-20 09:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:15 | **dollyzp**: Balloon Unicorn (R), Spring Bunny Hood, Sheeeeep (FR) | **hdhrjejeh**: Giant Panda (FR) |
 | 09:11 | **mofncufjs**: Chocolate Dutch Guinea Pig (MFR) | **La_Guapa0911**: Corn Doggo (MFR) |
 | 09:11 | **Its_niginax**: Kakapo (M), Cherub Chipmunk (M), Urchin (N) | **waruKosh**: Fly-A-Pet Potion |
 | 09:11 | **cosy_sosu**: Firefly (NFR) | **Yamenzoj**: Ride-A-Pet Potion ×5 |
@@ -49,7 +50,6 @@ _Updated 2026-11-20 09:11 UTC by the scrape workflow._
 | 09:00 | **Thomatooss**: Sugar Glider (FR) | **ALV4RYTO**: Naughty Mistletroll (N), Cake Friend (N), Chihuahua (N), Naughty Mistletroll, Purple Butterfly, Count Slothula, Ride-A-Pet Potion ×2, Kappakid (NR), Ice Wolf |
 | 09:00 | **austytedgirl**: Ride-A-Pet Potion | **mzSqw0**: Corgi (N), Ginger Cat (N), Granny Wolf (N), Mummy Spider (N), Stray Cat Dragon ×2, Purrowl, Bobageist |
 | 09:00 | **the3reveng**: Cozy Mistletroll ×4, Purrowl | **iridescenite**: Ride-A-Pet Potion |
-| 09:00 | **lavrikkiti**: Cow (FR), Kangaroo (FR), Shark Puppy (FR) | **Elpepeexd2134**: Chocolate Chip Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
