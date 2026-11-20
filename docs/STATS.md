@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 11:31 UTC by the scrape workflow._
+_Updated 2026-11-20 11:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 11:31 UTC by the scrape workflow._
 | amvgg | 10 | 32,674 | 2026-11-20T11:30 |
 | elve | 10 | 6,521 | 2026-11-20T11:31 |
 
-## AMVGG completed trades: 39,158 total
+## AMVGG completed trades: 39,176 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,465 |
+| 2026-11-20 | 1,483 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 11:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:30 | **Allieiiiwiw**: Retired Egg ×5 | **nainalt5**: Alicorn |
-| 11:25 | **Icecrymmxm**: Munchkin Cat (R), Frost Fury (FR), Harp Seal | **rainbow72679**: Candicorn |
-| 11:25 | **sweetangelspaws**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 | **xiparo**: Pain au Chat ×15 |
-| 11:25 | **Heybolloboom**: Toucan, Little Lamb | **flowerist0w04577**: Paint Sealer |
-| 11:25 | **Some_possessedperson**: Retired Egg ×9 | **nainalt5**: Koi Carp |
-| 11:25 | **millk_coko**: Ride-A-Pet Potion | **Dragonlegend2130**: Mochi Meow ×11 |
-| 11:25 | **Loverliere4**: Naughty Mistletroll (N), Toxic Kaijunior (MFR) | **oh_eql**: Ranger Beaver (M), Axolotl (NFR) |
-| 11:25 | **diswcordkitty**: Goose (MFR), 2022 Birthday Party Horn | **fIuorines**: Parrot (FR), Turtle (FR) ×2, Rainbow Maker, Hive Backpack |
-| 11:25 | **Furryinreallaif**: Chocolate Chip Bat Dragon (NFR), Spring Bunny Hood, Glormy Leo, Glormy Hound, Fly-A-Pet Potion | **citymav**: Parrot (FR) |
-| 11:25 | **ExileAri**: Ermine (NR) | **BLACKCAT202015**: Ride-A-Pet Potion |
-| 11:25 | **MATT_2011901**: Turtle (FR), Albino Monkey (FR), Strawberry Penguin (FR) | **itz_Milenixx**: Turtle (NFR) |
-| 11:25 | **sleepy_s0ren**: Cow (FR) ×2, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **angela_umerez4**: Crocodile (NFR), Crocodile (FR), Crocodile (R) ×2 |
-| 11:25 | **ccdbgt1**: Fly-A-Pet Potion | **KFC_C0nya**: Skele-Rex (R) |
-| 11:25 | **KING_TROLLYT0**: Pig (NFR), Mechapup (R) | **rbn_lvrr**: Fairy Bat Dragon (FR) |
-| 11:20 | **The_Mery24**: Golden Walrus, Glyptodon | **wrixcte**: Ride-A-Pet Potion |
+| 11:41 | **16kmfh**: Stingray (N), Hydra, Pomeranian (R), Rabbit (F), Toasty Red Panda, Pink Betta Fish, Rat (R), Pudding Cat, Slug (N), Arctic Hare (N), Penguin (R), Pupcicle, Flower Power Duckling, Koala (R), Dingo (N), Dolphin (N) | **NastiGora**: Ride-A-Pet Potion ×4 |
+| 11:41 | **vvvvvveli**: Wren (N), Water Moon Bear, Eggnog Hare | **I_AlexisAgi**: Cockroach (N) |
+| 11:41 | **MissaBloxluck**: Cryptid | **luvaholicc**: Copycat (MFR), Bunny Swirl (MR), Rock (MR), Fire Stallion (N) |
+| 11:41 | **dianadonatlove**: Cotton Candy Stand, Classic Trade Stand, Dalmatian Sticker | **wrixcte**: Ride-A-Pet Potion |
+| 11:41 | **Auds191102**: Moose Calf (NR), Moose Calf (N) | **sleepy_s0ren**: 2022 Birthday Cake |
+| 11:41 | **anja_gamer99**: S'mores Raccoon (MR), Dragon Balloon | **xxxxproxxxx5500**: Werewolf (R) |
+| 11:41 | **gTheGamerProYTg**: Copycat (MFR), Turtle (FR) | **xeo1h**: Haetae (FR) |
+| 11:36 | **Vanlyzn26**: Crystal Egg ×14 | **Niruch_Bearly**: Ride-A-Pet Potion |
+| 11:36 | **rilaxlly**: Sugar Glider, Goat (R), Spring Bunny Hood, Ride-A-Pet Potion ×3 | **Niruch_Bearly**: Mini Pig (FR) |
+| 11:36 | **jonasgato363**: Cerberus (MFR) | **AstridXox2**: Monkey King (FR), Ginger Cat (MFR), Boohoo (M), Back Taco |
+| 11:36 | **LilithCGEye**: Winged Tiger, Hare (MR), Cow (R), Candicorn (NFR), Spring Bunny Nose | **sleepy_s0ren**: Siamese Cat (MFR) |
+| 11:36 | **raraa_cute61**: Bush Elephant, Ride-A-Pet Potion ×2 | **8enjineji**: Kangaroo (FR) |
+| 11:36 | **prince_onepator**: Crocodile (R), Copycat, Ride-A-Pet Potion ×6, Fly-A-Pet Potion, Classic Trade Stand | **acc3m_400**: Strawberry Tortle |
+| 11:36 | **KFC_C0nya**: Fly-A-Pet Potion, Mahi Mahi (N) | **Avi_ator12**: Ride-A-Pet Potion ×2 |
+| 11:36 | **limohq**: Witch's Caravan ×2, Spinning Teacup Vehicle, Dolphin Cruiser, Soulfire Animated Sticker | **xromosa2**: Rose Quartz Glow Mega Neon Paint |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
