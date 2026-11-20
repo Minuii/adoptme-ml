@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 07:46 UTC by the scrape workflow._
+_Updated 2026-11-20 07:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 07:46 UTC by the scrape workflow._
 | amvgg | 10 | 29,266 | 2026-11-20T07:45 |
 | elve | 10 | 5,782 | 2026-11-20T07:46 |
 
-## AMVGG completed trades: 38,660 total
+## AMVGG completed trades: 38,690 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 967 |
+| 2026-11-20 | 997 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 07:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:45 | **Galaxy_Magda02**: Cabbit (MFR), Goose (MFR), Alley Cat (MFR), Ring-Tailed Lemur (MFR), Fallow Deer (MFR) | **bytsaremyfavourute**: Bat Dragon (FR) |
-| 07:45 | **ameyyass**: Ride-A-Pet Potion ×2 | **ixclvoudy**: Mochi Meow (M) |
-| 07:45 | **blushbyelle**: Alley Cat (N), Longhorn Cow (MFR) | **Kids_535353**: Fly-A-Pet Potion ×7 |
-| 07:45 | **PolinaHochachko**: Chocolate Chip Bat Dragon (FR), Undead Jousting Horse | **novashion_123**: Evil Unicorn (FR) |
-| 07:45 | **ameyyass**: Ride-A-Pet Potion ×2 | **lotem1901**: Purrowl (M) |
-| 07:45 | **Ellaspring5**: Purrowl (M) | **ameyyass**: Ride-A-Pet Potion ×2 |
-| 07:45 | **Lpoopbxhe**: Haetae (NFR), Cryptid (NFR), Dalmatian (R), Strawberry Shortcake Bat Dragon (FR), Zombie Wolf (NR), Pupcicle (N), Mochi Meow (MR) ×2, Hyena, Kitty Bat (N), Giraffe Hat, Fly-A-Pet Potion ×4, Chicken (R), Spring Bunny Feet, Scarebear | **Cinzsins**: Bat Dragon (FR) |
-| 07:45 | **rainthatxx**: Monkey King (FR), Flamingo (R), Ride-A-Pet Potion ×2 | **Artem_21a2**: Diamond Butterfly (FR) |
-| 07:45 | **Crazez5**: Candicorn (NFR), Tree Kangaroo (NFR), Blossom Snake (MR) | **yoncha77**: Latte Kitsune (MFR) |
-| 07:45 | **vryxsian**: Ice Cream Cone Hat | **adriel_24k**: Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Fly-A-Pet Potion |
-| 07:45 | **dxtxrrr**: German Shepherd | **Demonslayer_fan947**: Harp Seal |
-| 07:45 | **realuseris_sh191125**: Strawberry Tortle (NR) | **unicornsprinkles2827**: Cabbit (NFR), Ballet Swan (N), Burger Bear (M), Pet Handler Pro Certificate |
-| 07:45 | **Altskylsrmajoy**: Fly-A-Pet Potion ×18 | **behwead**: Husky (MFR) |
-| 07:45 | **faikubjotch**: Lavender Dragon | **SVS_88888**: Fly-A-Pet Potion |
-| 07:45 | **Scphiaaxbxdcr**: Burger Bear (MR), Toaster Hat, Tiny Wings | **yutoffee**: Mr. Whiskerpips (MFR), Clover Cow (MFR), Amami Rabbit (MR), Mrs. Whiskerpips (M), Fly-A-Pet Potion |
+| 07:55 | **abbhjsxjnsijs**: Sugar Glider (FR), Cow Calf (NR), Angus Bull (N) | **Nexidus_Official**: Fairy Bat Dragon (FR) |
+| 07:55 | **soullike_0**: Turtle (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **Z_Alexis22**: Fairy Bat Dragon (FR) |
+| 07:55 | **jam0khurt**: Ride-A-Pet Potion ×5 | **lirvi_kiti**: Sheeeeep |
+| 07:55 | **EAILABCD**: Blue Boohoo Mega Neon Paint | **littlefelonies**: Tropical Surge Mega Neon Paint |
+| 07:55 | **faikubjotch**: Burger Boots, Donkey (M) | **pawthetiic**: Ride-A-Pet Potion |
+| 07:55 | **vryxsian**: Fly-A-Pet Potion | **viivieraa**: Pet Handler Pro Certificate |
+| 07:55 | **q_culvs**: Kookaburra (MFR), Lamb (MFR) | **amy_atethat1**: Ninja Monkey (MFR), Castle Hermit Crab (MFR), Golden Chow-Chow (MFR) |
+| 07:55 | **roblox_user_2880951367**: Gold Circle Glasses, Unfortunate Eyelashes, Strawberry Clip, Strawberry Shortcake Bow, Police Cap, Picnic Basket, Rubber Ducks | **beatsvic**: Goth Shoes |
+| 07:55 | **iwasbornin13000**: Turtle (R), Unicorn Backpack | **Andres_agent**: Cabbit (R) |
+| 07:55 | **ExileAri**: Mrs. Whiskerpips (N), Milk Choccybunny (N), Maine Coon, Mr. Whiskerpips, Snowy Mammoth | **Ira_20086**: Ride-A-Pet Potion |
+| 07:55 | **1994_Speed**: Admin Abuse Box ×15, Admin Abuse Egg | **Allysonplayzrobloxz**: Pupcicle |
+| 07:55 | **Leviiiiiiii2005**: Kangaroo (FR), Dodo (NFR) | **CAXAROK_NBK**: Frost Unicorn (FR) |
+| 07:55 | **gag_gaag**: Chocolate Chip Bat Dragon (FR) | **Alisjdfhh**: 2022 Birthday Party Hat, Rose Dragon (NFR), 2022 Birthday Party Horn, Shark Puppy |
+| 07:55 | **blexberrie_alt**: Highland Cow, Onza (M), Ghost Wolf (N) | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 07:51 | **20O2_s**: Copycat (R) | **littlefelonies**: Happy Duckling (N), Gecko (N), Cattuccino (N), Magma Snail (N), Lunar Ox (N) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
