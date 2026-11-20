@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 14:55 UTC by the scrape workflow._
+_Updated 2026-11-20 15:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 14:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 35,554 | 2026-11-20T14:45 |
-| elve | 10 | 7,282 | 2026-11-20T14:46 |
+| amvgg | 10 | 35,779 | 2026-11-20T15:00 |
+| elve | 10 | 7,353 | 2026-11-20T15:01 |
 
-## AMVGG completed trades: 39,838 total
+## AMVGG completed trades: 39,841 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 2,145 |
+| 2026-11-20 | 2,148 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,9 @@ _Updated 2026-11-20 14:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 15:00 | **swizleq**: Lion (NFR) | **docedelets**: Moonbeam Peacock (NFR) |
+| 15:00 | **Lizzaa77**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **xgxbr1ellex**: Glacier Kitsune (FR) |
+| 15:00 | **The_Mery24**: Skunk (MFR) | **ni1zuua**: Christmas Pudding Pup (R) |
 | 14:55 | **Lazyymimi**: Munchkin Cat (R), Hippo (MR), Pancake Stack, Ride-A-Pet Potion | **cunlainy**: Siamese Cat (R) |
 | 14:55 | **LoriDreamy123**: Crow (FR), Tiny Wings | **farmer_post1**: Strawberry Shortcake Bat Dragon (NFR), Dragonfruit Fox (NR), Unicorn (NR), Arctic Fox (R) |
 | 14:55 | **Ashybella0**: Turtle (MFR), Haetae (FR), Cotton Candy Hat | **PuhonaBeri**: Owl (FR), Fly-A-Pet Potion ×3 |
@@ -47,9 +50,6 @@ _Updated 2026-11-20 14:55 UTC by the scrape workflow._
 | 14:55 | **Max_game751**: Spring Bunny Hood | **wivvyxly**: Propeller Hat, Jeff's Nametag, Nautilus |
 | 14:55 | **podotrain**: Cabbit, Spring Bunny Hood, Ride-A-Pet Potion | **KaySlay017**: Glormy Hound (MFR) |
 | 14:55 | **Bruno_Games76**: Classic Trade Stand | **the3reveng**: Rubber Ducky Box ×18 |
-| 14:55 | **oppy_123**: Unicorn, Temple Friend, Penguin | **Kir4kaa**: Ride-A-Pet Potion |
-| 14:55 | **TMDung20**: Spring Bunny Hood | **kadlala24**: Ride-A-Pet Potion ×5 |
-| 14:55 | **Elal2932**: Frost Dragon (FR), Arctic Fox (R), Happy Clam, Sheeeeep | **Xnixht**: Goose, Cabbit (R), Hot Doggo (FR), Strawberry Shortcake Bat Dragon (FR), Cow (R), Cow (FR), Fairy Bat Dragon (FR), Turtle (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
