@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 18:25 UTC by the scrape workflow._
+_Updated 2026-11-20 18:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 18:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 38,830 | 2026-11-20T18:15 |
-| elve | 10 | 8,077 | 2026-11-20T18:15 |
+| amvgg | 10 | 39,084 | 2026-11-20T18:30 |
+| elve | 10 | 8,132 | 2026-11-20T18:31 |
 
-## AMVGG completed trades: 40,648 total
+## AMVGG completed trades: 40,655 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 2,955 |
+| 2026-11-20 | 2,962 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,13 @@ _Updated 2026-11-20 18:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 18:30 | **alessgamer25**: Candicorn (NR), Platypus | **Coffee_alis0**: Albino Monkey (NFR) |
+| 18:30 | **smartes1230**: Goose (MFR), Cow (MFR), Jellyfish (MFR), Goat (MFR), Meerkat (MFR), Llama (MFR), Chocolate Dutch Guinea Pig (MFR) | **HonetXCake**: Cryptid (MFR) |
+| 18:30 | **brbrpatapimmm310**: Dire Stag (M) | **H3av3n_444**: Owlbear (NFR) |
+| 18:30 | **altforamvgg20000**: Haetae (N) | **Desire05**: Parrot (NFR), Albino Monkey (NFR), Turtle (FR), Ice Cream Cone Hat |
+| 18:30 | **kkaatEEe2**: Fossil Egg | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 18:30 | **greycatgf**: 2022 Birthday Party Hat, Chocolate Dutch Guinea Pig (MFR) | **ExpertChipmunkPro**: Groundhog (NR), Sheeeeep (NFR) |
+| 18:30 | **Car1os_xd**: Fly-A-Pet Potion | **superstarleanne**: Ride-A-Pet Potion ×2 |
 | 18:25 | **prueba22337**: Turtle (FR) ×3, Fairy Bat Dragon (R) | **Huge_Soda**: Hedgehog (FR) |
 | 18:25 | **sdfssdggertfhfg**: Pig (R) | **Xxxxashhhh**: Vampire Dragon (FR) |
 | 18:25 | **kreker0900**: Flaming Fox (MFR), Skunk (MFR) | **999Luzy**: Sugar Glider (FR), Unicorn Horn |
@@ -43,13 +50,6 @@ _Updated 2026-11-20 18:25 UTC by the scrape workflow._
 | 18:25 | **Amalk88**: Goose (FR), Munchkin Cat, Pupcicle, S'mores Raccoon, Irish Elk, Pupcake, Adopt Me Boy Scooter | **16y97**: Turtle (NFR) |
 | 18:25 | **Dr9iser**: Fly-A-Pet Potion ×2 | **R4kert**: Unicorn Backpack |
 | 18:25 | **s1m4kk**: Violet Friend (N), Partridge | **ALTERNATIVEACCKAY**: Kiwi Kiwi |
-| 18:25 | **xXcaxapokXx_off**: Pupcicle (NR), Cherub Chipmunk (M), Momma Moose, Ghost Chick, Lunar Moon Bear, Galapagos Sea Lion (N) | **ch0colatadafresca**: Jester Dragon |
-| 18:25 | **Priskona0**: Haetyphoon (MFR) | **cuteprincessgirl861**: African Wild Dog (FR) |
-| 18:25 | **9vvdx**: Kangaroo (FR) | **Paipapaprapaa**: Brown Springer Spaniel (MFR) |
-| 18:25 | **catgirlhaha19**: Pupcicle ×3 | **UhChip**: Fly-A-Pet Potion |
-| 18:25 | **Elis_thxx**: Vanilla Penguin | **1Mikusia1**: S'mores Raccoon |
-| 18:25 | **KennedyHilfiger**: Hare | **Lola242532**: Ride-A-Pet Potion ×2 |
-| 18:25 | **itsvaleriaotz**: Ride-A-Pet Potion, Chick Backpack | **justunujede123**: Chihuahua, Black Macaque, Flower Power Duckling |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
