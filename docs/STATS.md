@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 21:25 UTC by the scrape workflow._
+_Updated 2026-11-20 21:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 21:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 41,790 | 2026-11-20T21:15 |
-| elve | 10 | 8,656 | 2026-11-20T21:15 |
+| amvgg | 10 | 42,039 | 2026-11-20T21:30 |
+| elve | 10 | 8,708 | 2026-11-20T21:31 |
 
-## AMVGG completed trades: 41,322 total
+## AMVGG completed trades: 41,335 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,629 |
+| 2026-11-20 | 3,642 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 21:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:30 | **melinaftu**: Munchkin Cat (MFR), Ghost Dog (M) | **blankblank_gone**: Cryptid (FR) |
+| 21:30 | **Pancakes7240**: Groundhog (MFR), Hare (MFR), Cheetah (MFR), Cow (FR), Goose, Goat (NR), Unicorn Horn, Border Collie (R), Matcha Cat, Spring Bunny Hood, Fly-A-Pet Potion, Blue Boohoo Mega Neon Paint, Candyfloss Mega Neon Paint, Rose Quartz Glow Mega Neon Paint, Amethyst Skies Mega Neon Paint, Campfire Stories Mega Neon Paint, Velvet Fuchsia Mega Neon Paint ×2 | **Markopolisen9**: Crow (NFR) |
+| 21:30 | **Zephyr1930**: Frozen Penguin, Kakapo (N) | **charbellplays**: Paint Sealer |
+| 21:30 | **Mama_mama978**: Evil Unicorn (FR), Hot Doggo, Albino Monkey (FR), Ride-A-Pet Potion | **ammadOwO2**: Crow (FR) |
+| 21:30 | **AutoTradeCommission**: Fly-A-Pet Potion ×4 | **stoIencorpses**: Diamond Unicorn (M) |
+| 21:30 | **b3autifulpoisxn**: Endangered Egg ×18 | **Lotteisking**: Paint Sealer ×6 |
+| 21:30 | **aleks2u**: Chocolate Chip Bat Dragon (FR), Cow (FR), Ride-A-Pet Potion | **adopmetrede0**: Evil Unicorn (FR) |
+| 21:30 | **Synx_backupacc**: Alpaca (MFR), Cabbit (MFR), Alpaca (NR), Harp Seal (MR), Cabbit (R), Tiny Wings | **Xxskibidy67**: Bat Dragon (FR) |
+| 21:30 | **tiffney24**: Paint Sealer | **Not_thedevilUwU**: Fairytale Egg ×3 |
+| 21:30 | **Lucky_may67**: Ride-A-Pet Potion ×11, Fly-A-Pet Potion, Pet Handler Pro Certificate ×4, Jeff's Nametag | **Z_Alexis22**: Alpaca (FR) |
+| 21:30 | **Robloksersha666piska**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **HuGe_123cAt**: Santa Hat |
+| 21:30 | **fartronic_3**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (NFR), Peppermint Penguin (FR), Cow (FR) | **lifeisMAGIC003**: Owl (FR) |
+| 21:30 | **Evelina22super**: Fly-A-Pet Potion | **s1vurn**: Tealwood Monster (MR) |
 | 21:25 | **tommylikeroblox2009**: Electric Hornet | **oOWilDig0n0oO**: Retired Egg ×6 |
 | 21:25 | **clumhsy**: S'mores Raccoon (MFR), Sushi Penguin (NR), Maine Coon (MFR), Dango Penguins | **mylolovescats**: Munchkin Cat (NFR) |
-| 21:25 | **xavspup**: Thunderfisher (N), Gumball Caterpillar (N), Red Panda Ducky (N), Hammerhead Shark, Bakeneko, Gummy Guana (N), Electric Hornet, Cattuccino ×2, Poodle (N) | **Lozi_loz**: Ride-A-Pet Potion |
-| 21:25 | **Dazzzle_1**: Water Rabbit (NR), Moon Rabbit (NR), Amami Rabbit (N), Chocolate Dutch Guinea Pig (N), Giant Anteater (R), Meerkat | **Roblox_Cool050**: Fairy Bat Dragon (R) |
-| 21:25 | **Violette_244**: Brown Bear (MFR), Alley Cat (MFR) | **joshsawsy**: Turtle (MFR) |
-| 21:25 | **K_s726**: Alley Cat (MFR) | **roblox_user_8676283275**: Rainbow Dragon (MFR) |
-| 21:25 | **amaielliee**: Cryptid (NFR) | **regalarmealgo12**: Mini Pig (R), Cow (FR), Peppermint Penguin (FR) ×2, Goose ×2, Goat (NFR) |
-| 21:25 | **Kisa_Mika8**: Unicorn (R) | **Slughteer**: Silly Duck |
-| 21:25 | **DarkLightopq**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **liza_moreloll**: Golden Rat (NFR) |
-| 21:25 | **riskyactss**: Matcha Cat (N), Pain au Chat (M), Lion Cub (R), Cake Friend (N) | **ilija0620**: Werewolf (NFR) |
-| 21:25 | **poorbunii**: Sugar Glider (FR), Unicorn Horn | **UltraCircuit506**: Slime (MFR), Gold Circle Glasses, Skelicorn (N), Gold Tiara, Chocolate Chip Bat Dragon Backpack |
-| 21:25 | **INS4N3_M4X**: Cow (FR) ×2, Castle Hermit Crab (M), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **GrindAccount_N1**: Jester Dragon (MFR) |
-| 21:25 | **amyggvaI**: Haetyphoon | **elenakrytaya333**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×2, Pilot Gull (M) |
-| 21:25 | **abbyissocool_lol**: Crystal Egg ×5 | **Fora_1top00453**: Partridge |
-| 21:25 | **Lotti_Emi**: Purrowl (N), Chihuahua | **Pick_me77778**: Pupcicle |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
