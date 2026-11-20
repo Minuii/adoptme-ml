@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 12:46 UTC by the scrape workflow._
+_Updated 2026-11-20 12:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 12:46 UTC by the scrape workflow._
 | amvgg | 10 | 33,787 | 2026-11-20T12:45 |
 | elve | 10 | 6,824 | 2026-11-20T12:46 |
 
-## AMVGG completed trades: 39,367 total
+## AMVGG completed trades: 39,386 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,674 |
+| 2026-11-20 | 1,693 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 12:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:45 | **Iwokale**: Papa Moose (MFR) | **12kyanni12k**: Glormy Leo (MFR), Harp Seal (MFR), Sushi Penguin (MFR), Frost Fury (FR) |
-| 12:45 | **TMDung20**: Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (FR), Rain Cloud Hat | **horselife_diva**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR) |
-| 12:45 | **Xxrosegirl130_40**: Fly-A-Pet Potion | **rainbow72679**: Ride-A-Pet Potion ×2 |
-| 12:45 | **S0FIYKAZ10**: Pinkypillar, Corgi, Sheepdog Ducky, Ms. Muffet, Raccoon, Winter Fawn, Pomeranian, Ribbon Seal, Shetland Pony White, Robot, Snowy Mammoth, Starfish, Toucan, Basilisk, Ice Cube, Mummy Spider, Red Fox, Cracked Egg | **cliuic**: Ride-A-Pet Potion |
-| 12:45 | **gsac156**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **DeazLize**: Jester Dragon (R) |
-| 12:45 | **foovva**: Turtle (FR) | **Wolfie4567ty**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×11 |
-| 12:45 | **sleepy_s0ren**: Unicorn Horn | **svtoruuz**: Christmas Egg |
-| 12:45 | **trythisrye8**: Bat Dragon (FR), Parrot (NFR), Copycat (R) | **iiPurplegalaxy127**: Chocolate Chip Bat Dragon (FR) ×9, Strawberry Shortcake Bat Dragon (FR) ×5, Dalmatian (R) ×3 |
-| 12:45 | **savynaxdijbxj35**: Kookaburra (NFR), Pet Handler Pro Certificate | **Adim255**: Rainbow Dragon (NFR) |
-| 12:45 | **Angelsss_81**: Fly-A-Pet Potion | **pawthetiic**: Harp Seal (R) |
-| 12:45 | **Stxriiko**: Fairy Bat Dragon (FR) | **GojoNezuko3**: Christmas Pudding Pup ×4, Christmas Pudding Pup Bait |
-| 12:45 | **komikvelet3535**: Shadow Dragon (NFR), Shadow Dragon (FR), Blazing Lion (FR), Cryptid (FR) | **talal2006q8**: Bat Dragon (NFR) |
-| 12:45 | **The_Mery24**: Frankenfeline (M) | **a_k1y0**: Ride-A-Pet Potion |
-| 12:45 | **Pulseq3Void63Echo174**: Scarlet Butterfly, Pink Betta Fish, Sloth, Toasty Red Panda, Halloween White Skeleton Dog, Chihuahua | **rainbow72679**: Fly-A-Pet Potion |
-| 12:40 | **lirvi_kiti**: Rice Cake Rabbit, Gecko, Chipmunk | **rainbow72679**: Ride-A-Pet Potion |
+| 12:55 | **myfav_QUOICOUBEH**: Fairy Bat Dragon (FR), Tiny Wings | **qlltm**: Candyfloss Chick (R), Kangaroo (FR) |
+| 12:55 | **KFC_C0nya**: Ride-A-Pet Potion ×2, Bubblegeist | **Rubydxmn**: Ginger Cat (MFR) |
+| 12:55 | **oceanmoo213**: Pain au Chat (N), Pain au Chat ×3, Chihuahua | **riskyactss**: Catte (N) |
+| 12:55 | **Amvgtrading5**: Ballet Swan (NR), Nessie (NFR) | **pacetes41**: Ice Cream Hermit Crab (MFR) |
+| 12:55 | **kecoze**: Cow (FR) | **oren20050**: Fly-A-Pet Potion ×17 |
+| 12:55 | **MM_Cloud**: Crystal Egg ×15 | **Shynisocool**: Ride-A-Pet Potion |
+| 12:55 | **the3reveng**: Hippogriff | **Zahnreus**: Ride-A-Pet Potion |
+| 12:55 | **PRODAZA_STARPETS**: Alley Cat (MR), Unicorn Horn, Siamese Cat, Unicorn (MFR), Ride-A-Pet Potion | **ItsLuciiaaYT**: Dalmatian (R), Arctic Fox (NFR), Hamster |
+| 12:55 | **The_Mery24**: 2D Doggy, Kitty Bat, Glyptodon | **cliuic**: Fly-A-Pet Potion |
+| 12:55 | **Lurxell**: Ratatoskr (M) | **Danuks135**: Ride-A-Pet Potion |
+| 12:55 | **mitsuri_w5**: Rubber Ducky (M), Thunderfisher (N), Maneki-Neko | **Danuks135**: Ride-A-Pet Potion |
+| 12:55 | **P1xk1t**: Tuxedo Cat, German Shepherd (NFR) | **afissamuzfirah**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 12:55 | **CookieFanOona**: Crow (FR) | **fierce238173**: Giant Panda (FR) |
+| 12:55 | **Liomelle**: Alpaca (NR) | **princesssugarbunni**: Goose (NFR), Spring Bunny Nose |
+| 12:55 | **blvdpawzi**: Phantom Dragon (MFR) | **tapochek_Instasamki**: Jester Dragon (MFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
