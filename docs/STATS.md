@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 13:40 UTC by the scrape workflow._
+_Updated 2026-11-20 13:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 13:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 34,439 | 2026-11-20T13:30 |
-| elve | 10 | 6,969 | 2026-11-20T13:31 |
+| amvgg | 10 | 34,677 | 2026-11-20T13:45 |
+| elve | 10 | 7,022 | 2026-11-20T13:46 |
 
-## AMVGG completed trades: 39,532 total
+## AMVGG completed trades: 39,552 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,839 |
+| 2026-11-20 | 1,859 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 13:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:40 | **c10nNeXx**: Owlbear (MFR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 | **hzmimii**: Honey Badger (MFR) |
-| 13:36 | **jazmine16_You**: Caterpillar (FR) | **Noahisthebestaltx**: Haetyphoon (FR) |
-| 13:36 | **Catyuushy**: Ride-A-Pet Potion | **GUODTIK**: Pupcicle, Cattuccino |
-| 13:36 | **frecalsplogeok9**: Squid, Sea Turtle, Purrowl ×3, Huntsman Robin | **adoppme42**: Ride-A-Pet Potion |
-| 13:36 | **zow_98alt**: Chocolate Dutch Guinea Pig (N), Platypus | **riler0982**: Mechapup (R) |
-| 13:36 | **dadada11032**: Candicorn (FR), Candicorn | **sen_kiTwT**: Cow (FR) |
-| 13:36 | **KalinaMarysia**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×3 | **Fox_micro9311**: Phoenix (MFR) |
-| 13:36 | **Agent007Na**: Owl (FR) | **TMDung20**: Turtle (MFR), Fairy Bat Dragon (NFR), Elephant (R) |
-| 13:36 | **flears_brai**: Chihuahua ×17, Ride-A-Pet Potion | **XxhoneylunaxXx**: Chihuahua (M) |
-| 13:36 | **Andeliz10_3**: Purrowl (N), Admin Abuse Egg ×14, Endangered Egg ×2 | **TheGamerNoob555Xd**: Wooly Rhino |
-| 13:36 | **wiirlutg**: Tarantula ×3, Moon Egg ×3, Aztec Egg ×3, Patchy Bear, DJ Snooze, Sheepdog Ducky (N), Spider Gift ×2 | **wrawixx**: Ride-A-Pet Potion |
-| 13:36 | **Dessertsandfoods**: Ring-Tailed Lemur (MFR), Fly-A-Pet Potion, Arctic Dusk Dragon (FR), Chocolate Chip Bat Dragon Backpack | **hensij3n**: Goose (NFR) |
-| 13:36 | **xurlocalwhateverx**: Flamingo (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Robloxian213723214**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:36 | **nejdo109**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **dianirish**: Pig |
-| 13:36 | **Pulseq3Void63Echo174**: Leopard Cat, Scarlet Butterfly, Scarecrow Cat, Chihuahua, Mr. Whiskerpips, Tarsier | **nicol489way**: Fly-A-Pet Potion |
+| 13:45 | **evqwss**: Ride-A-Pet Potion | **Kir4kaa**: Purrowl ×9 |
+| 13:45 | **miraahuntrix**: Pet Handler Pro Certificate ×2, Amami Rabbit, Quokka, Fly-A-Pet Potion, Bone Wings | **supitchayacatmante**: Puptune (MFR) |
+| 13:45 | **Morphe_altr**: Bush Elephant (R), S'mores Raccoon (N) | **shwriiimp**: S'mores Raccoon (M) |
+| 13:45 | **Alisa_R00**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×2 | **speedatom95**: Crocodile (R) |
+| 13:45 | **kittycatkathy7523**: Sushi Penguin (MFR) | **ll_90dfhj**: Catte (MFR) |
+| 13:45 | **jebiilerium**: Cow (R) | **Dfhavhs**: Aussie Egg ×6 |
+| 13:45 | **MEM583992**: Dire Wolf (M), Puppeteer Hand | **Capybara_tacticoo**: Dango Penguins |
+| 13:45 | **m4rshalI**: Cabbit (NFR), Mermicorn (R) | **Roblox_topik7**: Turtle (MFR) |
+| 13:45 | **qwerk2222**: Ride-A-Pet Potion ×17 | **lildaminii**: Kangaroo (FR) |
+| 13:45 | **Angel382935**: Influencer Gibbon | **UltimateLionMantis**: Ride-A-Pet Potion |
+| 13:45 | **itz_Milenixx**: Dodo (FR), Jacobin Pigeon (MFR) | **Chiki_cou**: Ride-A-Pet Potion ×2 |
+| 13:45 | **Rint0ru**: Toasty Red Panda (MFR), Pain au Chat (MFR), Mongoose (M) | **Annsjdnsnjs**: Majestic Pony (NFR), Field Mouse, Harp Seal (N), Flaming Fox |
+| 13:45 | **arseniylolol**: Caramelgeist (M), Mummy Spider (M), Ocelot (M), Milk Choccybunny (R) | **FRIK_RR**: Fly-A-Pet Potion |
+| 13:45 | **AquatanaOf_Amyr**: Strawberry Shortcake Bat Dragon (NFR) | **sleepy_s0ren**: Matcha Cat (MFR) |
+| 13:45 | **lildaminii**: 2022 Birthday Party Hat | **Sonya73p**: Turtle (FR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
