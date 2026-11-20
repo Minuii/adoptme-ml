@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 06:55 UTC by the scrape workflow._
+_Updated 2026-11-20 07:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 06:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 28,365 | 2026-11-20T06:45 |
-| elve | 10 | 5,621 | 2026-11-20T06:46 |
+| amvgg | 10 | 28,593 | 2026-11-20T07:00 |
+| elve | 10 | 5,665 | 2026-11-20T07:01 |
 
-## AMVGG completed trades: 38,559 total
+## AMVGG completed trades: 38,573 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 866 |
+| 2026-11-20 | 880 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 06:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:00 | **Krismasterdang**: Candicorn (FR), Goldhorn (MR), Snow Owl (MFR), Peppermint Penguin (NFR), Peppermint Penguin (R), Ride-A-Pet Potion ×2 | **leruval**: Owl (FR) |
+| 07:00 | **darr1erbxxs**: Copycat | **Luffeyys_ezss**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 07:00 | **Fan_Bogatyrat**: Kangaroo (NFR), Cow, Pet Handler Pro Certificate, Fly-A-Pet Potion ×6, French Bulldog, Ride-A-Pet Potion ×3, Dancing Tube Hat, Duck Floatie, Classic Trade Stand, Elf Shoes, Strawberry Toast Flying Disc | **icebaby545**: Dalmatian (FR) |
+| 07:00 | **herfaklo**: Royal Palace Spaniel (FR), Fanghorn Tortoise (R) | **myd666vil**: Red Squirrel (R), Space Whale (R) |
+| 07:00 | **josuebogarr**: Cabbit (R) | **miriam89300**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 |
+| 07:00 | **Yuwu_gh0st**: Pupcicle (N) | **pmpjmg1**: Ride-A-Pet Potion ×3 |
+| 07:00 | **stoIencorpses**: Border Collie (R) | **miriam89300**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×4 |
+| 07:00 | **MoMtobias**: Ride-A-Pet Potion | **xiparo**: Pain au Chat ×3 |
+| 07:00 | **lider9809**: Giraffe (FR), Frost Dragon (FR), Balloon Unicorn (R), Cabbit (R), Tiny Wings, Spring Bunny Hood | **cydo0206**: Bat Dragon (FR) |
+| 07:00 | **starswirl_64**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5 | **KinaToons**: Munchkin Cat (FR) |
+| 07:00 | **Lvpix**: Chocolate Dutch Guinea Pig ×3, Ride-A-Pet Potion ×7 | **calampianojames**: Sea Slug |
+| 07:00 | **gamercaty6**: Fairy Bat Dragon (NFR), Frost Fury (FR), Caelum Cervi, Pupcicle (N), Tarantula (M) | **calampianojames**: Munchkin Cat (MR) |
+| 07:00 | **fififetti**: Pupcicle ×4, Butter Knife | **anxi15**: Pupcicle (N) |
+| 07:00 | **bolzani001111**: Peppermint Penguin (MFR), Giant Panda (FR), Flash Weasel, Haetyphoon | **unicorn_queen90919**: Shadow Dragon (FR) |
 | 06:45 | **Tota52Mota**: Red Fox (MFR), Spring Bunny Hood, Ride-A-Pet Potion ×6 | **danu123456i7**: Highland Cow (MFR), Choco Penguin (MFR), Bready Necklace |
-| 06:45 | **DJ_4348**: Ride-A-Pet Potion, Tuxedo Cat, Chocolate Dutch Guinea Pig | **PolinaPlayMini**: Red Dutch Guinea Pig |
-| 06:45 | **Fiujdloslah875**: Fly-A-Pet Potion ×17, Corgi | **flower_1851**: Cow (FR) |
-| 06:45 | **Summerwave2011**: Chocolate Chip Bat Dragon (FR) | **iiPurplegalaxy127**: Strawberry Shortcake Bat Dragon |
-| 06:45 | **RohanXianCreates_YT**: Happy Clam (R) | **bublek1332**: Lava Dragon (FR) |
-| 06:45 | **Elliehehe16**: Flaming Fox (MFR), Alley Cat (MR) | **00dxiniwoe**: Dalmatian (R), Dragonfruit Fox |
-| 06:45 | **ana_zombie13**: Unicorn (MFR), Golden Unicorn (N), Fly-A-Pet Potion | **Majdfjfgxf**: Matcha Cat ×2 |
-| 06:45 | **AbramIsBack**: Arctic Dusk Dragon, Harp Seal (N) | **Lvpix**: Flash Weasel |
-| 06:45 | **thatdevilisacrybaby**: 2D Kitty | **himary626**: Mighty Haetyphoon Animated Sticker |
-| 06:45 | **Friedb3ansAndcheese**: Turtle, Ride-A-Pet Potion | **Summerwave2011**: Turtle (FR) |
-| 06:40 | **gabdoptme**: Chocolate Dutch Guinea Pig | **itsxxazra**: Snow Owl (FR) |
-| 06:40 | **cookiefanmercat**: Alley Cat | **milkaKoPiLkAUnU**: Purple Butterfly |
-| 06:40 | **haiI3yyyy**: Purple Butterfly (N) | **unicorn_queen90919**: Flash Weasel |
-| 06:40 | **lizzy_th3phenomena**: Mighty Haetyphoon Animated Sticker, Soulfire Animated Sticker ×3 | **MoMtobias**: Mochi Meow Tumble Animated Sticker |
-| 06:40 | **ooohhff85**: Parrot (FR) | **Flutterieshyy**: Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Pupcake (N) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
