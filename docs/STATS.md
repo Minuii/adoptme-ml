@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 06:16 UTC by the scrape workflow._
+_Updated 2026-11-20 06:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 06:16 UTC by the scrape workflow._
 | amvgg | 10 | 27,920 | 2026-11-20T06:15 |
 | elve | 10 | 5,529 | 2026-11-20T06:15 |
 
-## AMVGG completed trades: 38,489 total
+## AMVGG completed trades: 38,527 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 796 |
+| 2026-11-20 | 834 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 06:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:10 | **azxpredxtorn**: Chocolate Dutch Guinea Pig (MFR) | **annaannaaannnnn**: French Bulldog (M), Seabed Creeper (M) |
-| 06:10 | **tifany_kats**: Puffin | **WeiYing_Editor**: Ride-A-Pet Potion ×5 |
-| 06:10 | **jypit0410j**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **NLin_126**: Strawberry Shortcake Bat Dragon (FR) |
-| 06:10 | **DalePearson8409**: Strawberry Shortcake Bat Dragon (FR), Siamese Cat (NFR), Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×3 | **TwistedK1tty**: African Wild Dog (FR) |
-| 06:10 | **adoptmememe68**: Strawberry Shortcake Bat Dragon (FR), Turtle (NFR), Siamese Cat, Crocodile (R), Copycat (R) | **Flux_puck**: Crow (FR) |
-| 06:10 | **MoMtobias**: Chocolate Chip Bat Dragon (NFR) | **SleepyHampter**: Strawberry Shortcake Bat Dragon (FR) ×2, Sugar Glider (FR), Pain au Chat, Snow Leopard, Chihuahua ×2 |
-| 06:10 | **Exleer**: Retired Egg ×6 | **gingercats12adoptme**: Three Blind Mice |
-| 06:10 | **ccdbgt1**: Fly-A-Pet Potion | **Riaaisaa**: Husky |
-| 06:10 | **999666Gucci999666**: Alicorn, Ancient Dragon, Beaver (N), Rubber Ducky (N), Admin Abuse Egg, Gumball Caterpillar, Shiba Inu ×2, Red Panda ×3, Black-Footed Ferret, Crimson Cape, Beaver ×2, Rabbit ×2, Snow Puma | **Fruit_Kittie**: Ride-A-Pet Potion |
-| 06:06 | **Antonnyalexander2009**: Sandwich Hat, Spring Bunny Feet, Spring Bunny Hood, Hare | **littlefelonies**: Toaster Hat |
-| 06:06 | **YTstaro**: Fly-A-Pet Potion | **opazoopazo7779**: Skelicorn ×18 |
-| 06:06 | **SleepySxturnn**: Muskrat (M), Tanuki, Sea Skeleton Panda (N), Mistletroll, Ermine, Arctic Hare, Red Fox, Indian Leopard, Blue Jay, Culinary Wizard Hat, Santa's Bow, Burger Bun Hat, Pink Butterfly Wings, Monkey (N), Woodpecker (N), Mongoose, Festive Antlers | **TheEndlessFlower**: Ride-A-Pet Potion ×4 |
-| 06:06 | **FlyToTheSaturn**: Baku, Berry Cool Cube ×2, Blue Betta Fish, Blue Whale ×2, Chimera, Diamond Egg, Diamond Griffin, Dimension Drifter, Evil Chick, Fire Stallion, Fleur De Ice, Fossil Egg, Endangered Egg ×4 | **L0VEKARS0N**: Unicorn (NFR) |
-| 06:06 | **briannjermaine**: Choco Penguin (N) ×2 | **altaccount02037**: Ride-A-Pet Potion |
-| 06:06 | **TMDung20**: Ride-A-Pet Potion ×2 | **Nanax_8907**: Latte Kitsune |
+| 06:25 | **Noa_N15**: African Wild Dog (FR), Elephant (FR) | **Flux_puck**: Crow (FR) |
+| 06:25 | **Animedefense152**: Dragon ×2, Purrowl, Golden Griffin, Mighty Haetyphoon Animated Sticker, Classic Trade Stand, Dog (M) | **nens1a**: Ride-A-Pet Potion ×2 |
+| 06:25 | **Palestine_2801**: Water Rabbit (MR) | **lolcryabtit6767**: Squid (MFR) |
+| 06:25 | **XiaoFaye1433**: Cow (FR) | **Wolfie4567ty**: Corn Doggo (MFR), Ride-A-Pet Potion |
+| 06:25 | **dameslapsosbflfndk**: Candicorn ×2, Ride-A-Pet Potion | **Summerwave2011**: Cow (FR) |
+| 06:25 | **rianasfanboy**: Unicorn (N) | **Luffeyys_ezss**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 06:25 | **LuxuryxDxrk**: Candicorn (NFR), Pig (NFR), Unicorn Horn, Kangaroo (FR), Kitty Bat (MR), Munchkin Cat (FR), Toaster Hat, Mule (N), Vanilla Penguin (NR) | **KinaToons**: Shark Puppy (MFR) |
+| 06:25 | **Flux_puck**: Parrot (R) | **Unicornfav_animal**: Cryptid (FR), Cow, Kangaroo (FR) |
+| 06:25 | **SleepySxturnn**: Field Mouse, Ride-A-Pet Potion ×4 | **Fbrleey**: Munchkin Cat (R) |
+| 06:25 | **jake_andrew417**: Werewolf (MFR), Kangaroo (FR) | **z1_u1**: Haetyphoon (MFR) |
+| 06:25 | **Ashybella0**: Cryptid (FR), Arctic Fox (R), Matcha Cat, Halloween White Ghost Dragon, Fly-A-Pet Potion ×2 | **sweetiepie07141**: Haetae (FR) |
+| 06:25 | **AmvggPi0n41K**: Peppermint Penguin (NFR), Candicorn (R) | **NummieNummiegirl**: African Wild Dog (FR) |
+| 06:25 | **ST4R_OMGXD**: Ride-A-Pet Potion ×2 | **beth_tam10ALT**: Harp Seal |
+| 06:25 | **iamcute630**: Shark, Duck Floatie | **Papitascongaseosa_xD**: Ride-A-Pet Potion |
+| 06:25 | **Str3amN0va2024**: Haetyphoon | **ARKIN_gamingChannel1**: Copycat ×2 |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
