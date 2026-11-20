@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 11:11 UTC by the scrape workflow._
+_Updated 2026-11-20 11:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-20 11:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 32,226 | 2026-11-20T11:00 |
-| elve | 10 | 6,427 | 2026-11-20T11:01 |
+| amvgg | 10 | 32,434 | 2026-11-20T11:15 |
+| elve | 10 | 6,462 | 2026-11-20T11:15 |
 
-## AMVGG completed trades: 39,123 total
+## AMVGG completed trades: 39,127 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,430 |
+| 2026-11-20 | 1,434 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,6 +35,10 @@ _Updated 2026-11-20 11:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:15 | **rbx_angel45**: Tortuga de la Isla | **Gummyy_3**: Arctic Dusk Dragon (FR) |
+| 11:15 | **NotSweatyOnion**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×5 | **Avi_ator12**: Frostbite Bear (R) |
+| 11:15 | **mila_milk1710**: Cracked Egg ×4 | **flowerist0w04577**: Paint Sealer |
+| 11:15 | **REALjaylarp**: Paint Sealer ×14 | **4revolutions**: Ride-A-Pet Potion |
 | 11:11 | **The_Mery24**: Zombie Wolf | **Addo_Cit**: Ride-A-Pet Potion |
 | 11:11 | **yvx_lys**: Burger Bear (MFR), Three Blind Mice, Dark Choccybunny, Ginger Cat (N) | **Mytradeaccountforme**: Scarecrow Cat (MR), Ibex (MR), Fly-A-Pet Potion |
 | 11:11 | **werreriss0**: Siamese Cat (R), Cotton Candy Hat | **Taemin_chaeunwoo**: Ice Cream Cone Hat, Ride-A-Pet Potion ×2, Tuxedo Cat (NR), Fly-A-Pet Potion ×3, Pet Handler Pro Certificate |
@@ -46,10 +50,6 @@ _Updated 2026-11-20 11:11 UTC by the scrape workflow._
 | 11:11 | **xluvvmel**: Jester Dragon (MFR), Phantom Dragon (MFR), Husky (NFR), Husky (N), Dire Stag (MFR) | **leruval**: Owl (FR) |
 | 11:11 | **Rint0ru**: Ride-A-Pet Potion ×2 | **Zuminkikiki**: Flaming Fox |
 | 11:11 | **queenmaya773**: Frostbite Cub (MR), Frostbite Bear (R), Goth Shoes | **Iamnoobfaker**: Goose (FR) |
-| 11:11 | **lvrnkx**: Ankylosaurus (N) | **albina_7807**: Cherry Blossom Flower Sticker ×9, Cherry Blossom Tree Sticker ×9 |
-| 11:11 | **CloudAMs**: Crystal Egg ×15 | **Astral_Knight3**: Ride-A-Pet Potion |
-| 11:11 | **Josee_maanuel**: Cow (NFR) | **chmo6661**: Arctic Reindeer (FR) |
-| 11:11 | **defen42h**: Cow (NFR) | **Josee_maanuel**: Glormy Leo (MFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
