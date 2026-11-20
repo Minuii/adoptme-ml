@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 12:16 UTC by the scrape workflow._
+_Updated 2026-11-20 12:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 12:16 UTC by the scrape workflow._
 | amvgg | 10 | 33,326 | 2026-11-20T12:15 |
 | elve | 10 | 6,694 | 2026-11-20T12:15 |
 
-## AMVGG completed trades: 39,280 total
+## AMVGG completed trades: 39,300 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 1,587 |
+| 2026-11-20 | 1,607 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 12:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:15 | **xiparo**: Pain au Chat ×12 | **Kit_tblmamymav1**: Ride-A-Pet Potion ×4 |
-| 12:15 | **0bjectl3x**: Fly-A-Pet Potion ×7, Pet Handler Pro Certificate | **wekwew70**: Rain Cloud Hat |
-| 12:15 | **fizzyyxz**: Copycat (R) | **Nori_Nur**: Ride-A-Pet Potion ×6 |
-| 12:15 | **bonjibott1**: Kangaroo (FR) | **DoughnutDucks**: Peach Owl (MFR) |
-| 12:15 | **bonjibott1**: Mini Pig (FR), Unicorn (NF), Ride-A-Pet Potion | **dczcscdsdfcxddd**: Dragonfruit Fox (MFR) |
-| 12:15 | **vallieo_o**: Catte (N) | **no_namebns06**: Fly-A-Pet Potion |
-| 12:15 | **osito_pro800**: Ride-A-Pet Potion ×17 | **carolzinhac2009**: Kangaroo (FR) |
-| 12:15 | **Milana_zxo4**: Crocodile (FR) | **Dimacahcu123**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 |
-| 12:15 | **princesssugarbunni**: French Bulldog (N), Hare | **userulikk**: Goat |
-| 12:15 | **LuminaCinth**: Strawberry Shortcake Bat Dragon (FR) | **osito_pro800**: Cabbit, Goose (R), Ride-A-Pet Potion ×4 |
-| 12:15 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **ilusixnary**: Aussie Egg |
-| 12:15 | **Lanota151**: Frostbite Bear (R) | **twojstarydzikitygrys**: Turtle (R) |
-| 12:15 | **hh666ww**: Pretty Pony, Rubber Ducky (N) ×4 | **Zuminkikiki**: Kitty Biscuit |
-| 12:15 | **SilverMissyMae**: Sheeeeep (NR), Chocolate Dutch Guinea Pig (NR), Border Collie, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **urgbsfduh**: Polar Bear (MFR) |
-| 12:11 | **blossopeony**: Retired Egg ×12 | **Ineffa08**: Starfish ×6 |
+| 12:20 | **booseoks0on**: Spring Bunny Hood | **safeinthebuble**: Pancake Stack, Duck Floatie, White Chef Hat, Corndog Mustache, Heart Lock Necklace |
+| 12:20 | **1042456linfo**: Pandaguin Glooptodog ×4, Pandaguin Glooptodog (N) | **Malinka_top1408**: King Bee |
+| 12:20 | **0bjectl3x**: Rain Cloud Hat | **Larisa_DiecooleSocke**: Toaster Hat, Binturong (N), Ride-A-Pet Potion |
+| 12:20 | **Croquinou_Lover**: Chocolate Chip Bat Dragon (FR), Latte Kitsune (NR), Cow (FR), Fairy Bat Dragon (FR), Ride-A-Pet Potion ×2 | **xXxLunightxXx**: Strawberry Shortcake Bat Dragon (NFR) |
+| 12:20 | **Inganta07**: Fly-A-Pet Potion ×3 | **fosfat2**: Frost Fury (FR) |
+| 12:20 | **Saji_Ls**: Kangaroo (FR), Ride-A-Pet Potion ×12, Fly-A-Pet Potion, Shark (R) | **Moon_Cloud609859**: Cow (FR) |
+| 12:20 | **Moon_Cloud609859**: Kangaroo (FR) | **Dragonlegend2130**: Ride-A-Pet Potion ×17 |
+| 12:20 | **ayiiishapot_2010**: Water Rabbit (MFR), Moon Rabbit (MFR), Canadian Goose (M), Winter Fawn (MFR) | **2M1K0**: Chocolate Dutch Guinea Pig (MFR), Bunny Swirl (MFR) |
+| 12:20 | **Wolfie4567ty**: Turtle (FR), Pancake Stack ×2 | **ybiosajoshua**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×7 |
+| 12:20 | **AMOANICOLE78**: Fly-A-Pet Potion | **himary626**: Pet Handler Pro Certificate |
+| 12:20 | **ApexPrime09**: Fairy Bat Dragon (FR), Turtle (FR) ×2, Turtle (R), Kangaroo (FR), Lion (NFR), Goat, Sheeeeep, Peppermint Penguin (R), Puffin | **leruval**: Owl (FR) |
+| 12:20 | **deutsche_kart0ffell4**: Black Widow | **lWeirdPhyscol**: Harp Seal |
+| 12:20 | **ohinam**: Peppermint Penguin (FR) ×2, Peppermint Penguin (R) ×4, Peppermint Penguin ×2 | **Kakashonec2**: Frost Dragon (FR) |
+| 12:20 | **radialami**: Cow (NFR), Cow (FR) ×2, Crocodile (NFR), Crocodile (FR), Elephant (NFR), Unicorn (MFR), Jester Dragon (NFR), Rhino (NR) | **Kakashonec2**: Frost Dragon (FR) |
+| 12:20 | **vcxitb_new**: Cabbit (MFR), Chocolate Chip Bat Dragon | **joee123514**: Mini Pig (MFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
