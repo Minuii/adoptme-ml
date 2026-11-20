@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 20:16 UTC by the scrape workflow._
+_Updated 2026-11-20 20:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 20:16 UTC by the scrape workflow._
 | amvgg | 10 | 40,826 | 2026-11-20T20:15 |
 | elve | 10 | 8,463 | 2026-11-20T20:15 |
 
-## AMVGG completed trades: 41,086 total
+## AMVGG completed trades: 41,110 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 3,393 |
+| 2026-11-20 | 3,417 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 20:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:15 | **Moa_spelar1234**: Unicorn Horn, Pink Cat Ear Headphones, Milk Choccybunny (M) | **cookiesmilet**: Copycat (N) |
-| 20:15 | **falconplayerpro123**: Dango Penguins (FR) | **kyronatka77**: Alley Cat (R) |
-| 20:15 | **Gabriele143love**: Chameleon, Baku ×2, Ancient Dragon, Zodiac Minion Chick, Clementine Owl ×2 | **waruKosh**: Fly-A-Pet Potion |
-| 20:15 | **3mis_alttt**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×12 | **Vitek_228666**: Turtle (FR) |
-| 20:15 | **seaottersalt239**: Ghostly Cat (M), Chocolate Dutch Guinea Pig, Pain au Chat | **D1SREU**: Rice Cake Rabbit (M) |
-| 20:15 | **serspect**: Tan Chow-Chow (N), Pomeranian (N) | **Name_robloxx02**: Ride-A-Pet Potion |
-| 20:15 | **PrettyxDino**: Frostbite Cub (MFR) | **blake_shortie**: King Bee (MFR) |
-| 20:15 | **dwstartertomainchal**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×6 | **katja8123**: Sugar Glider |
-| 20:15 | **Sonya73p**: Ice Cream Cone Hat, Pet Handler Pro Certificate, Ride-A-Pet Potion | **Eceuni**: Tiny Wings |
-| 20:15 | **xArsheda**: Scarebear (MR), Christmas Pudding Pup (NFR), Great Pyrenees (M), Ice Cream Cone Hat | **Lola_ant34**: Strawberry Shortcake Bat Dragon (FR) |
-| 20:15 | **LPPlay42302**: Christmas Pudding Pup | **koto_roblou**: Ride-A-Pet Potion ×5 |
-| 20:15 | **amvggcomtrad**: Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **Vitek_228666**: Turtle (FR) |
-| 20:15 | **LoVe_ToP3**: Ram (MR) | **Lucky_Moon803**: Sugar Glider (FR) |
-| 20:15 | **leidydamelike**: Frost Fury (MFR), Ride-A-Pet Potion, Spring Bunny Nose | **XiaoFaye1433**: Cow (FR), Kangaroo (FR) |
-| 20:15 | **cbmelissa**: Halo, Tiny Wings, Fly-A-Pet Potion | **s0larzxxxx**: Turtle (FR), German Shepherd (MFR), Paint Sealer ×2 |
+| 20:25 | **stoIencorpses**: Danger Egg | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 20:25 | **stoIencorpses**: Ocean Egg, Mythic Egg | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 20:25 | **xiakusu**: Chocolate Dutch Guinea Pig (MFR) | **9vvdx**: Chihuahua (MFR), Gecko (MFR), Easter Bunny (M) |
+| 20:25 | **oxoglockz**: Bat Dragon | **ZzzTrades7**: Cryptid (NFR), Cryptid (FR), Giraffe (FR), Haetyphoon ×5, Haetyphoon (R), Albino Monkey (FR), Albino Monkey (R), Alley Cat (NR), Ride-A-Pet Potion ×3 |
+| 20:25 | **Myobap**: Ride-A-Pet Potion ×5 | **valor_6f4**: Shetland Pony White (N) ×2, Shetland Pony White ×8 |
+| 20:25 | **holacausaanthony123**: Albino Monkey (FR), Tuxedo Cat (N) ×2, Winter Fawn (MR) | **abdoosaad**: Turtle (FR) |
+| 20:25 | **Gothzru1ns**: Cryptid (FR), Peppermint Penguin (R), Cow, Cow (FR), Polar Bear | **Shadowmoon_light1**: Owl (FR) |
+| 20:25 | **vrqaxs**: Fly-A-Pet Potion | **cowlol898**: Electric Hornet (N), Pupcicle, Snowman (F), Bobageist (N), Red Panda ×5 |
+| 20:25 | **Namgyu3004**: Giant Anteater (R) | **Llllllllllo0ow**: Giant Gold Scarab (R), Ride-A-Pet Potion, Leopard Shark |
+| 20:25 | **SebasMendesLoL**: Husky (MFR), Hot Doggo (FR) | **BlitzW3Galaxyr2002**: Arctic Reindeer (FR) |
+| 20:25 | **krikikriki56**: Panda, Corgi (N) | **Ashdorae**: Ride-A-Pet Potion |
+| 20:25 | **hihihihihihihahahah2**: Sugar Glider (MFR), Goose (MFR), Cow (MFR) | **02Lucas024**: Bat Dragon (FR) |
+| 20:25 | **adoptmememe68**: Mini Pig (FR), Munchkin Cat (NFR), Candicorn (R), Dango Penguins (N), Meerkat | **xKashaf**: Evil Unicorn (FR) |
+| 20:25 | **mariagrigoryan1**: Pet Handler Pro Certificate | **IIuvbr**: Crystal Egg ×18 |
+| 20:25 | **Glope200**: Badger (M), Dango Penguins (R) | **kok225677**: Liger (M) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
