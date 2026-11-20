@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 06:31 UTC by the scrape workflow._
+_Updated 2026-11-20 06:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-20 06:31 UTC by the scrape workflow._
 | amvgg | 10 | 28,138 | 2026-11-20T06:30 |
 | elve | 10 | 5,575 | 2026-11-20T06:31 |
 
-## AMVGG completed trades: 38,527 total
+## AMVGG completed trades: 38,549 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-20 | 834 |
+| 2026-11-20 | 856 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
 | 2026-11-17 | 4,004 |
@@ -35,21 +35,21 @@ _Updated 2026-11-20 06:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:25 | **Noa_N15**: African Wild Dog (FR), Elephant (FR) | **Flux_puck**: Crow (FR) |
-| 06:25 | **Animedefense152**: Dragon ×2, Purrowl, Golden Griffin, Mighty Haetyphoon Animated Sticker, Classic Trade Stand, Dog (M) | **nens1a**: Ride-A-Pet Potion ×2 |
-| 06:25 | **Palestine_2801**: Water Rabbit (MR) | **lolcryabtit6767**: Squid (MFR) |
-| 06:25 | **XiaoFaye1433**: Cow (FR) | **Wolfie4567ty**: Corn Doggo (MFR), Ride-A-Pet Potion |
-| 06:25 | **dameslapsosbflfndk**: Candicorn ×2, Ride-A-Pet Potion | **Summerwave2011**: Cow (FR) |
-| 06:25 | **rianasfanboy**: Unicorn (N) | **Luffeyys_ezss**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 06:25 | **LuxuryxDxrk**: Candicorn (NFR), Pig (NFR), Unicorn Horn, Kangaroo (FR), Kitty Bat (MR), Munchkin Cat (FR), Toaster Hat, Mule (N), Vanilla Penguin (NR) | **KinaToons**: Shark Puppy (MFR) |
-| 06:25 | **Flux_puck**: Parrot (R) | **Unicornfav_animal**: Cryptid (FR), Cow, Kangaroo (FR) |
-| 06:25 | **SleepySxturnn**: Field Mouse, Ride-A-Pet Potion ×4 | **Fbrleey**: Munchkin Cat (R) |
-| 06:25 | **jake_andrew417**: Werewolf (MFR), Kangaroo (FR) | **z1_u1**: Haetyphoon (MFR) |
-| 06:25 | **Ashybella0**: Cryptid (FR), Arctic Fox (R), Matcha Cat, Halloween White Ghost Dragon, Fly-A-Pet Potion ×2 | **sweetiepie07141**: Haetae (FR) |
-| 06:25 | **AmvggPi0n41K**: Peppermint Penguin (NFR), Candicorn (R) | **NummieNummiegirl**: African Wild Dog (FR) |
-| 06:25 | **ST4R_OMGXD**: Ride-A-Pet Potion ×2 | **beth_tam10ALT**: Harp Seal |
-| 06:25 | **iamcute630**: Shark, Duck Floatie | **Papitascongaseosa_xD**: Ride-A-Pet Potion |
-| 06:25 | **Str3amN0va2024**: Haetyphoon | **ARKIN_gamingChannel1**: Copycat ×2 |
+| 06:40 | **gabdoptme**: Chocolate Dutch Guinea Pig | **itsxxazra**: Snow Owl (FR) |
+| 06:40 | **cookiefanmercat**: Alley Cat | **milkaKoPiLkAUnU**: Purple Butterfly |
+| 06:40 | **haiI3yyyy**: Purple Butterfly (N) | **unicorn_queen90919**: Flash Weasel |
+| 06:40 | **lizzy_th3phenomena**: Mighty Haetyphoon Animated Sticker, Soulfire Animated Sticker ×3 | **MoMtobias**: Mochi Meow Tumble Animated Sticker |
+| 06:40 | **ooohhff85**: Parrot (FR) | **Flutterieshyy**: Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Pupcake (N) |
+| 06:40 | **niceboydiorr**: Ride-A-Pet Potion | **Rates_54**: Unicorn |
+| 06:40 | **nerkym_life1331**: Indian Leopard, Mexican Wolf, Ox, Lunar Ox, Dolphin, Seahorse, Kirin, Woodpecker, St Bernard, Red Panda, Clownfish | **andresnotfound_43**: Ride-A-Pet Potion |
+| 06:40 | **liofe1**: Blue Boohoo Mega Neon Paint, Invisible Wings | **littlefelonies**: Fly-A-Pet Potion |
+| 06:40 | **Coolbaby10100**: Glyptodon Ducky (M), Red Panda Ducky (M) | **Angelsss_81**: Ride-A-Pet Potion |
+| 06:40 | **Vanlyzn26**: Unicorn ×3 | **martins10530**: Ride-A-Pet Potion ×3 |
+| 06:36 | **adoptme4lyyfe**: Siamese Cat (R), Fly-A-Pet Potion | **littlefelonies**: Alpaca (R) |
+| 06:36 | **iangallagher_s1**: Chocolate Chip Bat Dragon (NFR), White Chef Hat | **Furryinreallaif**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Fairy Bat Dragon (R) |
+| 06:36 | **heluvpiper**: Sushi Penguin, Fly-A-Pet Potion, Ride-A-Pet Potion | **Luffeyys_ezss**: Unicorn (N) |
+| 06:36 | **LilacDrift_SoCool06**: Partridge (MR) | **TibetanMotor5122**: Ride-A-Pet Potion ×5 |
+| 06:36 | **TANSKlN**: Werewolf (MFR) | **woofwizz**: Mecha Meow (MFR), African Wild Dog (FR), Harp Seal (MFR), Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
