@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 17:01 UTC by the scrape workflow._
+_Updated 2026-11-21 17:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 17:01 UTC by the scrape workflow._
 | amvgg | 11 | 39,643 | 2026-11-21T17:00 |
 | elve | 11 | 8,565 | 2026-11-21T17:01 |
 
-## AMVGG completed trades: 45,259 total
+## AMVGG completed trades: 45,349 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 3,460 |
+| 2026-11-21 | 3,550 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 17:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:00 | **KarlotaRaquel**: Fly-A-Pet Potion ×5 | **olddeathcore**: Quokka (MFR) |
-| 17:00 | **Fayba42123**: Bready Necklace | **MonkeyMartlegend**: Ride-A-Pet Potion |
-| 17:00 | **Furry_lechuga**: Ride-A-Pet Potion ×2, Thorny Devil | **ItzmeZie_Aamiaww24**: Dragon (NF), Dark Choccybunny (N), Skelicorn, Scarecrow Crow |
-| 17:00 | **Kamila_33309**: Cryptid (FR) | **Irislikesyoufr**: Great Pyrenees (MFR), Frostbite Cub (MR), Gecko (MR), Toasty Red Panda (MR), Leopard Cat (MR), Sea Angel (MFR), Toy Poodle (MR), Clover Cow (MR), Sweetheart Rat (M), Sabertooth (M), Pet Handler Pro Certificate, Ratatoskr (M), Yule Log Dog, Gaelic Fae (R), Owlbear (FR), Tortuga de la Isla (FR), Munchkin Cat (R) |
-| 17:00 | **lifestyle1312**: Frostbite Bear, Crocodile (R) | **piespix**: Goose (R) |
-| 17:00 | **aliyacoolgirl09**: Copycat | **themilkeywayz**: Pet Handler Pro Certificate ×2, Fly-A-Pet Potion |
-| 17:00 | **hanb3ki**: Cryptid, Unicorn Horn, Kangaroo (NFR), Cabbit, 2022 Birthday Cupcake Shoes, Fly-A-Pet Potion | **Kyrbii1**: Owl (FR) |
-| 17:00 | **guchi_puchi95**: Ice Cream Hermit Crab (NFR) | **RavenStormy1991**: Pig (FR) |
-| 17:00 | **MILKA_NN765**: Haetyphoon (R) | **Lunagamer2053**: Arctic Fox (R) |
-| 17:00 | **perit4733**: Fly-A-Pet Potion | **C1LDGAMING**: Alicorn ×18 |
-| 17:00 | **MichaelDASIGMA**: Amami Rabbit | **Z4Z4LORD**: Mighty Haetyphoon Animated Sticker |
-| 17:00 | **itzzz_luisa01**: Crow (FR), Jester Dragon (N) ×2, Jester Dragon | **012e0122**: Glacier Moth (MFR), Evil Unicorn (FR) |
-| 17:00 | **yk_xlea**: Turtle (FR), Goth Shoes, Pancake Stack | **HITMANH2WO**: Silly Duck (MFR) |
-| 17:00 | **yeobviiiii**: Frostbite Cub (MFR), Strawberry Penguin (FR) | **cookiesmilet**: Unicorn Horn |
-| 17:00 | **billiesweetbillie13**: Pig (R), Ride-A-Pet Potion, Squid ×2, Platypus, Leopard Cat (N) | **Charlotte_art2**: Cuddly Candle (MFR) |
+| 17:11 | **7angelicial**: Chicken Hat | **SanjiMyBeloveddd**: Ride-A-Pet Potion |
+| 17:11 | **neliixoxo**: Scarebear (NFR), Ride-A-Pet Potion ×2 | **Arsmy_love**: Christmas Pudding Pup (FR) |
+| 17:11 | **dsxzv567**: Cow (FR) | **Gehteme37**: Strawberry Tortle (FR) |
+| 17:11 | **the3reveng**: Cozy Mistletroll, Ginger Cat, Abyssinian Cat, Ribbon Seal, Black-Footed Ferret, Orca, Stygian Owl, 2026 Birthday Butterfly, Milk Choccybunny | **wi0qwi**: Ride-A-Pet Potion |
+| 17:11 | **Lazykingufc**: Guardian Lion (NFR) | **Koshechkina102**: Ride-A-Pet Potion ×4 |
+| 17:11 | **izzybprezleyfan**: Cow (MFR) | **snodoes**: Cow (NFR) ×2, Cow (R), Cabbit (R) |
+| 17:11 | **St_locki1**: Copycat | **themilkeywayz**: Fly-A-Pet Potion ×3 |
+| 17:11 | **funsashamen**: Ox Box, Gemstone Egg, Kakapo (M) | **Kira9975335**: Ride-A-Pet Potion |
+| 17:11 | **BonieeUwUJxHv**: Volcanic Rhino (NR) | **Nastya_Mihalyk**: Spring Bunny Nose, Spring Bunny Feet |
+| 17:11 | **starneverlandsAlt**: Squid | **3LL1SV1BE**: Purrowl (N) |
+| 17:11 | **mynikwxs**: Kiwi (MFR), Fly-A-Pet Potion | **mylolovescats**: Sushi Penguin (NR), Water Rabbit (MR), Burger Bun Hat |
+| 17:11 | **princess_magdayao**: Ride-A-Pet Potion | **ssceneury**: Crystal Egg ×17 |
+| 17:11 | **vivicacke17**: Dango Penguins (N) | **3LL1SV1BE**: Bunny Swirl (MR), Llama |
+| 17:11 | **Leokarim138**: Owl (MFR), Frost Dragon (FR) | **C0okiesAndCreammm**: Balloon Unicorn (MFR), Fallow Deer (MFR) |
+| 17:11 | **3LL1SV1BE**: Gecko (N), Orca (N) | **Yoonie_Alisha**: Dango Penguins |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
