@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 10:41 UTC by the scrape workflow._
+_Updated 2026-11-21 10:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 10:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 33,006 | 2026-11-21T10:30 |
-| elve | 11 | 7,003 | 2026-11-21T10:31 |
+| amvgg | 11 | 33,249 | 2026-11-21T10:45 |
+| elve | 11 | 7,066 | 2026-11-21T10:46 |
 
-## AMVGG completed trades: 43,478 total
+## AMVGG completed trades: 43,495 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,679 |
+| 2026-11-21 | 1,696 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 10:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:41 | **1nesssi**: Chihuahua, Moon Egg, Sea Skeleton Panda (N) | **Pandalovedogss**: Ride-A-Pet Potion |
-| 10:41 | **Bumble_Lou**: Pet Handler Pro Certificate ×3 | **xiparo**: Chihuahua ×16, Pain au Chat ×2 |
-| 10:41 | **jauzyp**: Count Slothula ×4 | **mellqxxrb**: Fly-A-Pet Potion |
-| 10:41 | **11eeeszz**: Copycat, Ride-A-Pet Potion ×3 | **Darky_side02**: Goat (R) |
-| 10:41 | **Robloxian19039878**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×2, Copycat, Blue Cat (M) | **Hi_IamLinet**: Turtle (FR) |
-| 10:41 | **Catto_anowl**: Hippo (R) | **carlou245**: Irish Elk (R) |
-| 10:41 | **Dasha_KITKA**: Frost Fury (FR), Pig, Fly-A-Pet Potion | **samir123445457**: Albino Monkey (FR) |
-| 10:41 | **brqddz**: Turtle, Turtle (R), Fairy Bat Dragon (FR) ×2 | **ashplayingrobloxwith**: Evil Unicorn (FR) |
-| 10:41 | **v3esoul**: Copycat, Count Slothula, Spring Bunny Hood | **Summer_wanda**: Vampire Dragon (FR) |
-| 10:41 | **hamurasha**: Cryptid (FR) | **ashplayingrobloxwith**: Munchkin Cat (MFR) |
-| 10:41 | **pesnyaups9**: Dalmatian (NFR), Chocolate Chip Bat Dragon (FR), Lion Cub (R), Ride-A-Pet Potion, Fly-A-Pet Potion, Dumpling Friend Hat | **sopita2602xd**: Parrot (FR), Evil Unicorn (FR), Fly-A-Pet Potion |
-| 10:41 | **TotallyNotCorazon**: Parrot (FR), Shadow Dragon Ducky (R) | **004FAscend004**: Parrot |
-| 10:41 | **govnisho0**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 | **NotSweatyOnion**: Turtle (FR) |
-| 10:41 | **U_sulla**: Ride-A-Pet Potion | **Girl150400**: Hopbop, Forest Sprite, Irish Setter, Blue Butterfly, Angus Calf, Samoyed, Onza, Ratatoskr, Bakeneko, Kid Goat, Waffle Wyrm, Dire Wolf, Winter Fawn, Bat, Arctic Hare, Cattuccino, Easter Bunny, Kelp Raider |
-| 10:41 | **tisha_sally**: Chihuahua ×4 | **qruinty**: Ride-A-Pet Potion |
+| 10:45 | **Qwerty6766721**: Ride-A-Pet Potion | **millionmoloko**: Regal Roller |
+| 10:45 | **monstrrr6565**: Ride-A-Pet Potion ×10 | **SELLERMM2STARPETS**: Pig (FR) |
+| 10:45 | **ni1zuua**: Rabbit (M), Shiba Inu, Retired Egg | **ugl4st3phan**: Aye Aye (M) |
+| 10:45 | **Grinding2evil**: Mermicorn (MFR) | **Manekie_Nekoo**: Haetae (FR), Alpaca ×2, Strawberry Shortcake Bat Dragon (R), Goose (R), Candicorn (NFR) |
+| 10:45 | **dannyboyboy8**: Hot Doggo (FR), Dango Penguins | **jauzyp**: Mini Pig (FR) |
+| 10:45 | **Shark_MAYSHA**: Fairy Bat Dragon (R), Cow (FR), Turtle (FR), Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×2, Lunar New Year Shoes, Fishbowl Hat, Summer Walrus Sunhat | **okok6767676716**: Evil Unicorn (FR) |
+| 10:45 | **okok6767676716**: Happy Clam | **Mspiskarpips1432**: Ride-A-Pet Potion ×3 |
+| 10:45 | **Queenayeshacutegirl**: Canadian Goose (MFR), Kiwi (N) ×2, Matcha Cat | **v3esoul**: Turtle (FR) |
+| 10:45 | **Homey_milk1**: Ride-A-Pet Potion | **adoptmel781**: Burger Bear, Kiwi Kiwi |
+| 10:45 | **folow_lera0**: Paint Sealer ×2 | **quinniaqila**: Retired Egg ×6 |
+| 10:45 | **wskdaks**: Diamond Unicorn (MFR) | **m1so_02**: Birthday Butterfly 2023 (MFR), Peachick (MR), Persian Cat (MR) |
+| 10:45 | **KsuKsuVzlomali**: Stray Cat Dragon (MFR) | **itz_Dizz01**: Maine Coon (M) |
+| 10:45 | **zwxiaa**: Ride-A-Pet Potion ×9 | **U_sulla**: Munchkin Cat |
+| 10:45 | **flears_brai**: Pain au Chat ×18 | **ula12579**: Ride-A-Pet Potion ×6 |
+| 10:45 | **poor_trichadm**: Cow (FR), Goose, Ride-A-Pet Potion | **RyukkHolder**: Strawberry Shortcake Bat Dragon (FR), Cotton Candy Hat |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
