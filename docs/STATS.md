@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 13:31 UTC by the scrape workflow._
+_Updated 2026-11-21 13:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 13:31 UTC by the scrape workflow._
 | amvgg | 11 | 36,061 | 2026-11-21T13:30 |
 | elve | 11 | 7,651 | 2026-11-21T13:31 |
 
-## AMVGG completed trades: 44,152 total
+## AMVGG completed trades: 44,222 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 2,353 |
+| 2026-11-21 | 2,423 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:25 | **irisjgh6**: Long Ermine Sticker | **AlyonaTheLove**: Paint Sealer ×6 |
-| 13:25 | **Itz_w1sker**: Ride-A-Pet Potion ×2 | **EtherealSeeker**: Lunar White Tiger (N), Cozy Mistletroll (N), Ornate Horned Frog (N) |
-| 13:25 | **231dandy132**: Fly-A-Pet Potion | **mdmdnkevsjsvaj**: Black Scooter |
-| 13:25 | **KADJDIS**: Pupcicle, Pain au Chat, Caramelgeist (N), Admin Abuse Egg | **ILKATT252**: Ride-A-Pet Potion |
-| 13:25 | **herosan83**: Fly-A-Pet Potion | **zzzshadowolfzzz**: Purrowl (M) |
-| 13:25 | **vxainn**: Pig (R), Pain au Chat | **jauzyp**: Gaelic Fae (N), Fly-A-Pet Potion |
-| 13:25 | **muq1ngg**: Indian Flying Fox, Pet Handler Pro Certificate | **darr1erbxxs**: Ride-A-Pet Potion ×2 |
-| 13:25 | **SkyeRemy0821**: Velocirooster (MR), Duck Floatie, Picnic Basket | **xmikaeq**: Zombie Buffalo (MFR), Spring Bunny Hood, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 13:25 | **zxc_ph0enix**: Unicorn (MFR), Candicorn ×2, Silverback Gorilla (R), Meerkat (R), Frost Unicorn (R), Turtle (FR), Ride-A-Pet Potion | **sleepy_s0ren**: Hedgehog (FR) |
-| 13:25 | **Saji_Ls**: Lion (R), Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×5 | **cayg1004**: Cow (FR) |
-| 13:25 | **Aggr0berlin**: Mole (M), Moonpine (N), Mummy Spider (M) | **nuhhun41**: Dango Penguins |
-| 13:25 | **Bromless**: Winged Horse (FR) ×2 | **prettyakeisha24**: Shoebill (MFR) |
-| 13:25 | **xxlovetereza**: English Sheepdog (R) | **Paifrennnn**: Ride-A-Pet Potion |
-| 13:25 | **bestfriend373737**: Alley Cat (NFR), Matcha Cat (R) | **Laurinha_cake**: Ballet Swan (NFR) |
-| 13:25 | **AADAM233**: Zombie Wolf (N), Spring Bunny Feet, Spring Bunny Hood | **ICanT_SE33**: Haetyphoon (R) |
+| 13:41 | **TrapitaAlexa**: Cupid Dragon (FR), Velocirooster (R), Ride-A-Pet Potion | **carolzinhac2009**: Tortoiseshell Guinea Pig |
+| 13:41 | **FlyToTheSaturn**: Panda Pal, Easter Bunny Plush, Banana Plush, Duck Balloon ×2, Sock Chew Toy, Elf Plush | **Kvammletitraketa**: Fly-A-Pet Potion |
+| 13:41 | **chrxmaxc**: Yule Log Dog (MFR) | **lmao_fyp**: Goose (FR) |
+| 13:41 | **AmandaaX213**: Dalmatian (FR) | **lyymenaas**: Cow (NFR), Ride-A-Pet Potion ×4 |
+| 13:41 | **imthebigbird97**: Chihuahua ×2 | **M00NL1GHT_S7AR**: Yeti, Penguin |
+| 13:41 | **xiparo**: Pain au Chat ×16 | **pinkbear11133**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 13:41 | **eyeofrahismymom**: Haetae (FR) | **K_KLOPQ**: Groundhog (MFR) |
+| 13:41 | **sleepy_s0ren**: Hugging Egg | **Terranese**: Fly-A-Pet Potion |
+| 13:41 | **larisa1214**: Meerkat (MR), Flying Fairy | **milanakim12**: Happy Clam (MFR), Amami Rabbit (MFR), 2022 Birthday 5 Badge, Tutu |
+| 13:41 | **ninix_tt3**: Yule Log Dog ×2 | **IIIJavixIII**: Fly-A-Pet Potion ×2 |
+| 13:41 | **Halseyrs**: Chihuahua | **BLUEBEIIESS**: Pupcake |
+| 13:41 | **daran_waren**: Boohoo (M) | **waruKosh**: Ride-A-Pet Potion |
+| 13:41 | **doisynan**: African Wild Dog (FR), Candicorn (R) | **daran_waren**: Crow (FR) |
+| 13:41 | **Sanster47**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon, Candicorn (R) | **hiwhat043**: Strawberry Shortcake Bat Dragon (NF) |
+| 13:41 | **Mongmkng**: Cow (FR), Candicorn (FR) | **XAJXINZ**: Alley Cat (MFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
