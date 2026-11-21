@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 05:11 UTC by the scrape workflow._
+_Updated 2026-11-21 05:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 05:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 27,503 | 2026-11-21T05:00 |
-| elve | 11 | 5,911 | 2026-11-21T05:01 |
+| amvgg | 11 | 27,739 | 2026-11-21T05:15 |
+| elve | 11 | 5,924 | 2026-11-21T05:15 |
 
-## AMVGG completed trades: 42,588 total
+## AMVGG completed trades: 42,591 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 789 |
+| 2026-11-21 | 792 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,9 @@ _Updated 2026-11-21 05:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:15 | **xxjohnjokexx**: Owl (FR), Turtle (FR), Kangaroo (NFR), Kangaroo (FR) ×2, 2022 Birthday Cupcake Shoes, Spinning Cat Animated Sticker, Albino Monkey (R), Siamese Cat, Panda (NFR), Panda (NR), Count Slothula (N), Koala (NR), Cherry Blossom Hang Glider, Fly-A-Pet Potion, Cotton Candy Hat | **hanb3ki**: Giraffe (FR) |
+| 05:15 | **00099hh1**: Kangaroo (FR) | **CharlesJo4**: Crocodile (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 05:15 | **Itz_CoffeeMochi**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×8 | **U_sulla**: Sugar Glider |
 | 05:11 | **limohq**: Strawberry Shortcake Bat Dragon (FR) | **Siuyuiq654**: Cow (FR) ×2 |
 | 05:11 | **YumitsuLol**: French Bulldog (N), Mini Schnauzer (N) | **teamindonesiamu**: Arctic Fox |
 | 05:11 | **charli_fan49**: Boohoo (M), Sushi Penguin, Chihuahua | **ElceePlaysAdoptMe**: Alley Cat |
@@ -48,9 +51,6 @@ _Updated 2026-11-21 05:11 UTC by the scrape workflow._
 | 05:11 | **diiorrvi**: Ride-A-Pet Potion ×2 | **ItsUnicornCat_Plays**: Fly-A-Pet Potion |
 | 05:11 | **plrbxs**: Ride-A-Pet Potion ×18 | **diiorrvi**: Unicorn Horn |
 | 05:11 | **TheDarkLui**: Christmas Pudding Pup | **dnei30fast**: Ride-A-Pet Potion ×6 |
-| 05:11 | **misu0326S2**: Solaris (FR) | **XxLipton_LemonxX**: Glormy Hound (FR) |
-| 05:11 | **l0ve978**: Gorilla (M) ×2, Squid (R) | **caash20s**: Jester Dragon |
-| 05:11 | **iuvzjules**: Woolly Mammoth | **xMoon_289**: Grim Dragon Sticker |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
