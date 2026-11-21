@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 11:31 UTC by the scrape workflow._
+_Updated 2026-11-21 11:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 11:31 UTC by the scrape workflow._
 | amvgg | 11 | 33,987 | 2026-11-21T11:30 |
 | elve | 11 | 7,224 | 2026-11-21T11:31 |
 
-## AMVGG completed trades: 43,644 total
+## AMVGG completed trades: 43,670 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,845 |
+| 2026-11-21 | 1,871 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 11:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:30 | **qhar26**: Bat Dragon (FR), Parrot (FR), Chocolate Chip Bat Dragon (NFR) ×2, Strawberry Shortcake Bat Dragon (NFR) ×2, 2022 Birthday Party Hat, Unicorn Horn ×2, Goose (FR), Kangaroo (FR), Copycat | **akzoad**: Balloon Unicorn (MFR) |
-| 11:25 | **huheuuik**: Monkey King (FR), Turtle (FR), Peppermint Penguin (R), Royal Mistletroll, Ride-A-Pet Potion | **qkrbed**: Cryptid (FR) |
-| 11:25 | **KoTuK_176**: Alley Cat, Ride-A-Pet Potion ×2, Arctic Fox (FR) | **Mwlexxs**: Lion (R), Banana Plush, Tutu |
-| 11:25 | **h4_cd**: Pet Handler Pro Certificate, Alicorn | **deffoluciee**: Ride-A-Pet Potion ×2 |
-| 11:25 | **magicalxmoon**: Ride-A-Pet Potion ×2 | **deffoluciee**: Unicorn ×2 |
-| 11:25 | **limohq**: Cow (FR) ×2 | **the_gido9fan2**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion |
-| 11:25 | **Idk_justmeloll**: Goldhorn (MFR) | **vanillawwu**: S'mores Raccoon (MFR) |
-| 11:25 | **Robloxian19039878**: Candicorn (R) | **elitro44**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion |
-| 11:25 | **Robloxian19039878**: Pupcicle (FR), Sunglider | **HaiiTchteru**: Fly-A-Pet Potion |
-| 11:25 | **Kamila_33309**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **HaiiTchteru**: Copycat |
-| 11:25 | **HaiiTchteru**: Fly-A-Pet Potion | **Yumi_Rose8**: Pet Handler Pro Certificate |
-| 11:25 | **AKI10PLAY**: Velocirooster | **varmitrof**: Ride-A-Pet Potion ×4 |
-| 11:25 | **riler0982**: Ghost Bunny (MFR), Propeller Hat, Eco Brown Earth-Wizard Hat, Eco Orange Pumpkin Pie Wings, Strawberry Hat, Back Taco | **akbasakit**: Monkey King (FR) |
-| 11:25 | **BIazender**: Lynx (NR) | **Unicornich0**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 11:25 | **nastushapobeda15**: Winged Tiger (R) | **aliir1875**: Arctic Fox, Ride-A-Pet Potion ×6 |
+| 11:36 | **atracttion**: Frost Dragon (FR), Owl (FR), African Wild Dog (FR), Haetae (FR) ×2, Peppermint Penguin (NR), Evil Unicorn (FR), Arctic Reindeer (FR), Hot Doggo (NFR), Tortoiseshell Guinea Pig (NFR), Rainbow Maker, Latte Kitsune (MFR), Frost Fury (MFR) ×2, Violet Butterfly (MFR), Hot Doggo (FR), Christmas Pudding Pup (MFR), Sugar Glider (R) | **akzoad**: Balloon Unicorn (MFR) |
+| 11:36 | **TMDung20**: Ride-A-Pet Potion ×2 | **Leg0Car1Jellyfish**: Hare |
+| 11:36 | **Sayuri_23149**: Cattuccino (M) | **Leg0Car1Jellyfish**: Rose Dragon (R) |
+| 11:36 | **ILoveCupcakes33123**: Chocolate Dutch Guinea Pig | **Emiliaspot_1012**: Swan |
+| 11:36 | **sfchibko**: Kid Goat (MR) | **lamasbrainrotpro**: Praying Mantis (NR) |
+| 11:36 | **xmikaeq**: Swan (MFR), Albino Monkey (NFR), Ride-A-Pet Potion | **Ari_Blays**: Owlbear (MFR) |
+| 11:36 | **Robloxian19039878**: Candicorn (R) | **yardsides**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion |
+| 11:36 | **kristi_matv2287**: Ride-A-Pet Potion ×5, Chanekeh (M) | **fhgureu67**: Jester Dragon (FR) |
+| 11:36 | **poordiors**: Crystal Egg ×13 | **Astral_Knight3**: Ride-A-Pet Potion |
+| 11:36 | **caroesel**: Border Collie (MFR) | **gg_01841**: Latte Kitsune (MFR), Honey Badger (MFR), Harp Seal (MFR), Kiwi (MFR) |
+| 11:36 | **fluffybunbunchunchun**: Cake Friend (MR) | **mylolovescats**: King Bee (MFR) |
+| 11:36 | **NummieNummiegirl**: Chocolate Chip Bat Dragon (FR) | **Smookgans**: Fairy Bat Dragon (FR), Kangaroo (FR), Polar Bear (NFR), Pet Handler Pro Certificate, Fly-A-Pet Potion ×2 |
+| 11:36 | **avamaxindonesia**: Bunny Swirl (MFR) | **quietlyangel**: Sweetheart Rat (MFR), Ride-A-Pet Potion ×3 |
+| 11:36 | **6utszz**: Fly-A-Pet Potion | **FlyToTheSaturn**: Pink Cat Ear Headphones, Respectful Mustache |
+| 11:36 | **nornomm**: Groundhog (N), 2022 Birthday 5 Badge | **bestfriend373737**: 2022 Birthday Cake |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
