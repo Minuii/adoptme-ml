@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-20 23:55 UTC by the scrape workflow._
+_Updated 2026-11-21 00:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,13 +13,14 @@ _Updated 2026-11-20 23:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 10 | 44,274 | 2026-11-20T23:45 |
-| elve | 10 | 9,232 | 2026-11-20T23:46 |
+| amvgg | 11 | 22,485 | 2026-11-21T00:00 |
+| elve | 11 | 4,921 | 2026-11-21T00:01 |
 
-## AMVGG completed trades: 41,799 total
+## AMVGG completed trades: 41,804 total
 
 | Day (UTC) | Trades |
 |---|---|
+| 2026-11-21 | 5 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -35,6 +36,11 @@ _Updated 2026-11-20 23:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:00 | **Sn3akyw0lfBloxgames**: Rainbow Maker, Angel Wings | **Sofik_oc**: Munchkin Cat (MFR) |
+| 00:00 | **evieebunnii**: Toaster Hat, Chihuahua | **1irxms9**: Shark Puppy |
+| 00:00 | **FelixUwUCute**: Rainbow Maker, Unicorn Horn, Pig (MFR), Rose Dragon (MFR) | **lunacolombiana33**: Owl (FR) |
+| 00:00 | **Jimmyfish350**: Silly Duck (NFR), Harp Seal (NFR) | **Bismuth234**: Winged Tiger (FR) |
+| 00:00 | **1MZ03Y**: Frost Dragon (FR), Candicorn (MFR), Christmas Pudding Pup (MR) | **highdecor**: Frost Dragon (NFR) |
 | 23:55 | **Dyra_228050**: Frostbite Bear (R) | **itzzme_ken**: Dire Wolf (M), Cozy Mistletroll (M), Halloween Black Axe Guitar Accessory, Halloween White Skull Hat, Heart Bow, Dumpling Friend Hat, Jeff's Nametag, Butter Knife, Tutu, Spring Bunny Feet, Pink Heart Glasses, Chef Hat, Eaten Donut, Strawberry Hat, Alien Eyes Hat, Cotton Candy Hat, Fly-A-Pet Potion |
 | 23:55 | **12kyanni12k**: Dancing Dragon (R) | **Deinabiluana**: Ride-A-Pet Potion ×3 |
 | 23:55 | **thesef4ngs**: Pancake Stack | **departedlifecrisis**: Count Slothula (N) |
@@ -45,11 +51,6 @@ _Updated 2026-11-20 23:55 UTC by the scrape workflow._
 | 23:55 | **Sn3akyw0lfBloxgames**: Sugar Glider (MFR), 2022 Birthday Cake, 2022 Birthday Party Hat, Toaster Hat | **icarushed**: Alpaca (MFR) |
 | 23:55 | **evxniicsvv**: Aestus (M), Husky (MR), Scarebear (MR), Spinosaurus (M), Rhino (MFR), Unicorn (MFR), Golden Unicorn (MFR), Maneki-Neko (MR), Gecko (MR), Sakura Spirit (R) | **AutoTradeCommission**: Dragonfruit Fox (MR), Sunglider (MR), Flaming Fox (M), Tuxedo Cat (M), Kiwi (MFR), Kelp Captain (M), Evil Chickatrice (M), Ghost Chick (M), Indian Flying Fox (MFR), Ram (NR), Ram (N) |
 | 23:55 | **Sains9811**: Moon Rabbit, Water Rabbit | **nzerdy**: Fly-A-Pet Potion |
-| 23:55 | **Yumi_Rose8**: Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **nancyxmi**: Halloween White Ghost Dragon (FR) |
-| 23:55 | **enhypnize**: Fairy Bat Dragon (FR) | **razarvale2z**: Elephant (FR), Copycat (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
-| 23:55 | **batton0955**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **kylebarcebas1**: Irish Water Spaniel |
-| 23:51 | **Whonayou12**: Evil Unicorn, Mermicorn, Siamese Cat (FR) | **AmvggPi0n41K**: Giant Panda (FR) |
-| 23:51 | **evieebunnii**: Chihuahua ×4 | **Pochla_naxyu2**: Snowball Pug (NFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
