@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 23:15 UTC by the scrape workflow._
+_Updated 2026-11-21 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 23:15 UTC by the scrape workflow._
 | amvgg | 11 | 46,171 | 2026-11-21T23:15 |
 | elve | 11 | 10,040 | 2026-11-21T23:15 |
 
-## AMVGG completed trades: 47,158 total
+## AMVGG completed trades: 47,173 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 5,359 |
+| 2026-11-21 | 5,374 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 23:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **elfania_3**: Jousting Horse (NFR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **by_SofiYT**: Turtle (FR) |
-| 23:15 | **cesarx_o**: Tortoiseshell Guinea Pig (NFR), Mermicorn (FR) | **TANSKlN**: Fairy Bat Dragon (NFR), Ride-A-Pet Potion ×5 |
-| 23:15 | **Oreobut_cat**: Coyote (MR), Feesh (MR) | **Deamh_1**: Gecko (N) ×2, Shadow Dragon Ducky (N), Leopard Cat (N), Ermine (NR), Snowball Pet (NR) |
-| 23:15 | **deeplishpou**: Tiny Wings | **Foodie_Caat**: Bunny Swirl (MFR) |
-| 23:15 | **lolcryabtit6767**: Goat (MFR), Giant Gold Scarab | **pawthetiic**: Irish Water Spaniel (MFR) |
-| 23:15 | **p1nkunicornsparkles1**: Pink Cat (MFR) | **Gabriele143love**: Field Mouse (MFR) |
-| 23:15 | **dollxx_zz**: Pet Handler Pro Certificate ×9 | **EthanNovaZoom2024**: Kangaroo (FR) |
-| 23:15 | **le_774**: Crow (NFR), Crow (FR), Frost Dragon (FR), Kangaroo (FR) | **kvbuss010**: Giraffe (NFR) |
-| 23:15 | **Sonykirl**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **iaMatthieu1**: Cow (FR) |
-| 23:15 | **Iluvhotcocox**: Peppermint Penguin (R) | **Rylo122414**: Goose |
-| 23:15 | **lildaminii**: Ride-A-Pet Potion ×5 | **ZEK34COMODIN**: Jester Dragon (R) |
-| 23:15 | **Shxdow_scxobs**: Chocolate Chip Bat Dragon (R), Nautilus (MFR), Wolf (MR) | **FcNikita24**: Arctic Reindeer (FR) |
-| 23:11 | **HELENA_GUEMER12494**: Pupcicle (N), Fly-A-Pet Potion | **jazunica22**: Tanuki (M) |
-| 23:11 | **Hahahjajajo**: Frostbite Bear (MFR), Rainbow Maker, Ghost Bunny (MR), Rain Cloud Hat, Cake Friend (MFR), Unicorn (NFR), Pig (FR) | **ziggylili0**: Giraffe (FR) |
-| 23:11 | **Lxdyxx**: Amami Rabbit (MFR), Amami Rabbit (M), General Sheepdog (M), Chocolate Dutch Guinea Pig (N), Winter Deer Family Sticker | **Carashelper13**: Husky (MFR) |
+| 23:25 | **Reset50394152**: Polar Bear, Meerkat, Reindeer, Ride-A-Pet Potion ×4, Goldhorn, Unicorn, Frog (N), Quetzalcoatl (N), Urban Egg, Fossil Egg, King Bee, Dodo, Caramelgeist (M), Monkey (N), Sushi Penguin | **rikalomas**: Strawberry Tortle |
+| 23:25 | **xlux_latte**: Puffer Fish (MFR), Unicorn (R), Unicorn ×3, Fly-A-Pet Potion | **Supr3meAlex**: Fairy Bat Dragon (FR) |
+| 23:20 | **urdtdfhgklhljbk**: Matcha Cat | **AvokadoJFKfanat**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 23:20 | **korneli4aa**: Chihuahua | **cesarx_o**: Christmas Pudding House |
+| 23:20 | **snowfres**: Puptune (R), Pretty Pony, Indian Flying Fox, Choco Penguin, Easter Bunny, Peachick (N), Pomeranian (N), Red Panda (N), Blue Jay (N), Poodle (M), Ant (M), Black Tiger (M), Camel (N), Puma (N), Eaten Donut | **Carolyncat100**: Clover Cow (M) |
+| 23:20 | **1MZ03Y**: Black Panther (MFR), Bunny Swirl (M), Ash Zebra (MR), Therapy Dog (MR) | **yk_xlea**: Cow (FR) |
+| 23:20 | **Holicomoestas2323**: German Shepherd (MFR), Toasty Red Panda (M) | **kaylamicmi**: Harp Seal (MFR) |
+| 23:20 | **Yumi_Rose8**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **crybabydoIl**: Halloween White Ghost Dragon (FR) |
+| 23:20 | **DoughnutDucks**: Kookaburra (MFR), Jester Dragon, French Bulldog (MFR) | **noaboa678**: Glormy Leo (MFR) |
+| 23:20 | **XxcammyXdreamzxX**: Toasty Red Panda (MR) | **silvermoondragon10**: Frostbite Cub (M) |
+| 23:20 | **thegiddys14**: Dalmatian (FR) | **Luna_SanUwuUvu**: Goose (FR), Kangaroo (FR), Fly-A-Pet Potion, Cow (FR) |
+| 23:20 | **AMOANICOLE78**: Unicorn (MFR), Shark Puppy (FR), Catte (N) | **00099hh1**: Cow (FR) |
+| 23:20 | **faizanbhai1**: Bat Dragon (FR), Blazing Lion (N), Giraffe (FR), Cryptid (NFR) | **Marilynbrandt662**: Frost Dragon (FR) ×7 |
+| 23:20 | **Baddiedivaisme**: Diamond Amazon (MFR), Lamb (MFR) | **beatsvic**: Matcha Cat (MFR) |
+| 23:20 | **Aninha_Lya**: Vanilla Penguin, Borhyaena Gigantica (R), Galapagos Sea Lion (M), S'mores Raccoon, Tegu (M) | **purplebutterboos**: Dragonfruit Fox (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
