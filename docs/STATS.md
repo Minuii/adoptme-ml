@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 20:25 UTC by the scrape workflow._
+_Updated 2026-11-21 20:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 20:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 43,065 | 2026-11-21T20:15 |
-| elve | 11 | 9,325 | 2026-11-21T20:15 |
+| amvgg | 11 | 43,297 | 2026-11-21T20:30 |
+| elve | 11 | 9,406 | 2026-11-21T20:31 |
 
-## AMVGG completed trades: 46,412 total
+## AMVGG completed trades: 46,437 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,613 |
+| 2026-11-21 | 4,638 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 20:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:25 | **Danila121219**: Fly-A-Pet Potion ×3 | **Kftftykrfykf**: Frost Fury (FR) |
-| 20:25 | **Sharking_off**: Evil Unicorn (FR) | **Kftftykrfykf**: Hedgehog (FR) |
-| 20:25 | **Shareli999**: Chocolate Chip Bat Dragon (FR), Ice Cream Cone Hat, Spring Bunny Nose, Spring Bunny Feet, Bready Necklace, Ride-A-Pet Potion | **Andres_agent**: Jester Dragon (MFR) |
-| 20:25 | **dosh1kk_dasha**: Fly-A-Pet Potion ×2 | **nice2306_alt**: Pet Handler Pro Certificate ×2 |
-| 20:25 | **nice2306_alt**: Stray Cat Dragon ×15 | **st1rawsiee**: Fly-A-Pet Potion |
-| 20:25 | **Rtuta_kotofei**: Yule Log Dog (R), Squid | **ikabackflip**: Fly-A-Pet Potion |
-| 20:25 | **h4_cd**: Ride-A-Pet Potion | **Megustaulii**: Billy Goat ×2 |
-| 20:25 | **Spartik20**: Zebra (N), Stygian Owl (N) | **SPIDRAN56DOORS**: Christmas Pudding House |
-| 20:25 | **elfania_3**: Crocodile | **cheekymonkey0126**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 |
-| 20:25 | **CandyBear373**: Toaster Hat ×2, Tiny Wings ×2, Rain Cloud Hat, Panda (MFR) | **D00dle_C4t**: Ballet Swan (MFR) |
-| 20:25 | **wuxxal**: African Wild Dog (NFR), Arctic Dusk Dragon (MFR) | **KinaToons**: Shadow Dragon (FR) |
-| 20:20 | **milasha_5557**: Lion Cub (MFR), Cherry-On-Top, Great Pyrenees (FR) | **AvokadoJFKfanat**: Irish Water Spaniel (MFR), Ice Cream Cone Hat |
-| 20:20 | **Rias_sama4Depo**: Hot Doggo (FR), Munchkin Cat | **foxylive2012**: Kangaroo (FR), Turtle (FR), Ride-A-Pet Potion ×3 |
-| 20:20 | **booseoks0on**: Butter Knife ×2, White Chef Hat, Bready Necklace, Cotton Candy Hat | **Hahaha_LOL123Abc**: Unicorn Backpack |
-| 20:20 | **lba_fofe**: Black-Chested Pheasant (FR), Cerberus (NFR), Prismatic Butterfly (NR), Chocolate Dutch Guinea Pig (N), Red Dutch Guinea Pig, Frost Fury (FR), Christmas Pudding Pup (R), Princess Capuchin Monkey (FR), Arctic Dusk Dragon, Ride-A-Pet Potion | **vynllama**: Candicorn (NFR), Elephant |
+| 20:30 | **APA11234567891**: Frostbite Bear (M) | **1tz_Lucaaa2**: Frostbite Bear (MFR) |
+| 20:30 | **tellnt**: Hedgehog (R), Mini Pig (FR) | **femglxm**: Giant Panda (FR) |
+| 20:30 | **AL_foK**: Strawberry Shortcake Bat Dragon (FR), Cow (FR) | **kjjwwws**: Arctic Reindeer (FR), Fairy Bat Dragon (FR) |
+| 20:30 | **hexyzbagoc31**: Fairy Bat Dragon (NFR), Ring-Tailed Lemur (R) | **kartoshka_spogriba**: Arctic Reindeer (FR), Lion (R) |
+| 20:30 | **Lolaa_chn**: Paint Sealer ×3 | **3htrio**: Retired Egg ×9 |
+| 20:30 | **JustMeYito**: Werewolf, Ride-A-Pet Potion ×4 | **kotya112735**: Nessie (NFR) |
+| 20:30 | **Ruperto_1297**: Matcha Cat | **Pipotatini568**: Copycat, Ride-A-Pet Potion ×2 |
+| 20:30 | **spooke537**: Slime (NR), Husky (NR) | **BLACKCAT202015**: Border Collie (FR) |
+| 20:30 | **Lera_mi863**: Rain Cloud Hat, Unicorn Horn, Dango Penguins | **Paipapaprapaa**: 2022 Birthday Party Hat, 2022 Birthday Party Horn |
+| 20:30 | **qwsrt_oiWx**: Candicorn (NFR), Goose (R), Alpaca (FR), Border Collie | **Paipapaprapaa**: Turtle (NFR), Chocolate Chip Bat Dragon (R), Ride-A-Pet Potion |
+| 20:30 | **peppeRBXx**: Ride-A-Pet Potion, Cat | **soonyaa13**: Gemstone Egg, Halloween Chick Box, Thunderfisher (N) |
+| 20:30 | **banani_Offishal**: Fly-A-Pet Potion | **kayleigh_glitter**: Stygian Owl (MFR) |
+| 20:30 | **banani_Offishal**: Ride-A-Pet Potion | **Aubrey_Giga54**: Stygian Owl (M) |
+| 20:30 | **BJsrxv**: Gold Mahi Mahi (M), Irish Setter (NR) | **h4_cd**: Ride-A-Pet Potion |
+| 20:30 | **wskdaks**: Cow (FR), Emu (MFR) | **2019khwjueg**: Turtle (FR), Brown Bear (NFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
