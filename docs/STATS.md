@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 15:01 UTC by the scrape workflow._
+_Updated 2026-11-21 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 15:01 UTC by the scrape workflow._
 | amvgg | 11 | 37,557 | 2026-11-21T15:00 |
 | elve | 11 | 8,052 | 2026-11-21T15:01 |
 
-## AMVGG completed trades: 44,586 total
+## AMVGG completed trades: 44,656 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 2,787 |
+| 2026-11-21 | 2,857 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:55 | **aavqaii**: Lion Cub (MFR) | **roblox_user_8676283275**: Mule (MFR), Puffer Fish (MFR), Harp Seal (MR), Ram (MFR), Albino Bat (MFR) |
-| 14:55 | **imoowip**: Field Mouse | **dollxx_zz**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 14:55 | **Feli_456443**: Quokka | **immimi36**: Ride-A-Pet Potion |
-| 14:55 | **oofwoof_fart**: Starfish | **tommylikeroblox2009**: Retired Egg ×2 |
-| 14:55 | **nona200986**: Ride-A-Pet Potion | **zqxurllee**: Crystal Egg ×18 |
-| 14:55 | **Feli_456443**: Husky | **BubbleGumSplashplays**: Ride-A-Pet Potion ×2 |
-| 14:55 | **Kotosonoha**: Elephant (NFR), Siamese Cat, Husky (MFR), Rain Cloud Hat, Spring Bunny Nose, Fairy Bat Dragon (FR), Kangaroo (FR), Spring Bunny Feet | **leruval**: Parrot (FR) |
-| 14:55 | **munchiells**: Chocolate Dutch Guinea Pig | **eggsmayoketchup**: Ride-A-Pet Potion, Retired Egg ×10 |
-| 14:55 | **anxme_lol**: Water Rabbit (N) | **Addy18432**: Pupcicle (N) |
-| 14:55 | **Pandora_xsx2**: Ride-A-Pet Potion ×7, Cherry Blossom Flower Sticker | **eggsmayoketchup**: Swan (NR) |
-| 14:55 | **caxarberdok**: Toy Monkey (N) | **userulikk**: Fly-A-Pet Potion ×2 |
-| 14:55 | **OmegaRider_D4**: Werewolf (MFR), Rainbow Maker ×2, Halo, Unicorn Horn, Rain Cloud Hat ×2, 2022 Birthday Confetti Cannon | **yuyu_tik**: Hot Doggo (MFR) |
-| 14:55 | **h4_cd**: Fly-A-Pet Potion, Mochi Meow, Budgie Witch (N) | **Bunny_189659**: Ride-A-Pet Potion ×2 |
-| 14:55 | **h4_cd**: Pet Handler Pro Certificate, Mochi Meow, Cat (N) | **tommylikeroblox2009**: Ride-A-Pet Potion ×2 |
-| 14:55 | **xXxLunightxXx**: Canadian Goose | **SEBASTIAN_030513**: Rubber Ducky ×18 |
+| 15:10 | **0_0ship21**: Monkey King (FR), Cerberus (FR) | **Lonny_Mensch**: Chocolate Dutch Guinea Pig (MFR) |
+| 15:10 | **Alliexxzc**: Raccoon (N), Ms. Muffet (N) | **chunlihasora**: Ride-A-Pet Potion |
+| 15:10 | **Pulseq3Void63Echo174**: Pain au Chat, Castle Hermit Crab, Chihuahua, Pink Betta Fish, Toasty Red Panda | **anika_plant**: Fly-A-Pet Potion |
+| 15:10 | **iiN044**: Pain au Chat (N) | **anika_plant**: Pet Handler Pro Certificate |
+| 15:10 | **cinammoroll_bun**: Dango Penguins (MFR) | **Nathan221220**: Sea Slug (NFR) |
+| 15:10 | **adoptmerewardsjesse**: Cryptid, Chocolate Dutch Guinea Pig (N) | **tr4d3s_adoptnew**: Hedgehog (FR) |
+| 15:10 | **vivicacke17**: Crystal Egg ×5 | **mymelodyhehex**: Cattuccino ×4 |
+| 15:10 | **lo0vyyu**: Crystal Egg ×18 | **svrodrii2**: Fly-A-Pet Potion |
+| 15:10 | **svrodrii2**: Fly-A-Pet Potion | **IIuvbr**: Crystal Egg ×18 |
+| 15:10 | **Cookie_Berry4234**: Moon Rabbit (N) | **skibidiswag85**: Ride-A-Pet Potion ×2 |
+| 15:10 | **Spidy_shalapaykin**: Yule Log Dog (MFR), Burger Bear (MFR), Crocodile (R), Australian Kelpie (MFR), Zombie Wolf (R) | **josuecres16**: Arctic Reindeer (FR) |
+| 15:10 | **Cookie_Berry4234**: Albino Bat, Lammergeier, Magma Snail, Penguin | **Shehatesme420**: Ride-A-Pet Potion |
+| 15:10 | **Adopacount**: Candyfloss Chick (MFR), Happy Clam (NR), Unicorn Horn, Fairy Bat Dragon (NFR) | **MessiMaaz10**: Giraffe (FR) |
+| 15:10 | **wskdaks**: Ice Golem (R) | **berymmler**: Red Panda (NR), Lunar Gold Tiger (R), Persian Cat (NR), Ginger Cat (R), Caramelgeist (N) |
+| 15:10 | **Dyra_228050**: Cow (FR) ×2, Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×5 | **Candysakura3**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
