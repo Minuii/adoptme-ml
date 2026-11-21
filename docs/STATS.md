@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 13:46 UTC by the scrape workflow._
+_Updated 2026-11-21 13:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 13:46 UTC by the scrape workflow._
 | amvgg | 11 | 36,310 | 2026-11-21T13:45 |
 | elve | 11 | 7,733 | 2026-11-21T13:46 |
 
-## AMVGG completed trades: 44,222 total
+## AMVGG completed trades: 44,283 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 2,423 |
+| 2026-11-21 | 2,484 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 13:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:41 | **TrapitaAlexa**: Cupid Dragon (FR), Velocirooster (R), Ride-A-Pet Potion | **carolzinhac2009**: Tortoiseshell Guinea Pig |
-| 13:41 | **FlyToTheSaturn**: Panda Pal, Easter Bunny Plush, Banana Plush, Duck Balloon ×2, Sock Chew Toy, Elf Plush | **Kvammletitraketa**: Fly-A-Pet Potion |
-| 13:41 | **chrxmaxc**: Yule Log Dog (MFR) | **lmao_fyp**: Goose (FR) |
-| 13:41 | **AmandaaX213**: Dalmatian (FR) | **lyymenaas**: Cow (NFR), Ride-A-Pet Potion ×4 |
-| 13:41 | **imthebigbird97**: Chihuahua ×2 | **M00NL1GHT_S7AR**: Yeti, Penguin |
-| 13:41 | **xiparo**: Pain au Chat ×16 | **pinkbear11133**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 13:41 | **eyeofrahismymom**: Haetae (FR) | **K_KLOPQ**: Groundhog (MFR) |
-| 13:41 | **sleepy_s0ren**: Hugging Egg | **Terranese**: Fly-A-Pet Potion |
-| 13:41 | **larisa1214**: Meerkat (MR), Flying Fairy | **milanakim12**: Happy Clam (MFR), Amami Rabbit (MFR), 2022 Birthday 5 Badge, Tutu |
-| 13:41 | **ninix_tt3**: Yule Log Dog ×2 | **IIIJavixIII**: Fly-A-Pet Potion ×2 |
-| 13:41 | **Halseyrs**: Chihuahua | **BLUEBEIIESS**: Pupcake |
-| 13:41 | **daran_waren**: Boohoo (M) | **waruKosh**: Ride-A-Pet Potion |
-| 13:41 | **doisynan**: African Wild Dog (FR), Candicorn (R) | **daran_waren**: Crow (FR) |
-| 13:41 | **Sanster47**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon, Candicorn (R) | **hiwhat043**: Strawberry Shortcake Bat Dragon (NF) |
-| 13:41 | **Mongmkng**: Cow (FR), Candicorn (FR) | **XAJXINZ**: Alley Cat (MFR) |
+| 13:55 | **may_tereza**: Chihuahua | **BLUEBEIIESS**: Count Slothula |
+| 13:55 | **O1iverr_00**: German Shepherd (NR), Oakee (M) | **hasi168**: German Shepherd (NFR) |
+| 13:55 | **Lolaa_chn**: Ride-A-Pet Potion, Stitches | **unboxingBRop**: Stitches (M) |
+| 13:55 | **Derp10109**: Cabbit (R), Arctic Fox (R) | **fotm_dio**: Cow (FR) |
+| 13:55 | **KEVINRAM1453**: Ride-A-Pet Potion ×8, Dragonfruit Fox | **CAXAPOK_1122332**: Dragonfruit Fox (NR) |
+| 13:55 | **Kali_girl790**: Tan Chow-Chow (R), Chihuahua ×2, Cold Cube, Hamster ×2, Choco Penguin, Nutcracker Squirrel, Sunflower Friend (N), Temple Friend, Cattuccino ×2, Ice Cube, Frozen Penguin | **Evelina22super**: Ride-A-Pet Potion ×2 |
+| 13:55 | **NotSweatyOnion**: Chihuahua ×10, Shiba Inu (NR) | **143roblox1431**: Ride-A-Pet Potion ×4 |
+| 13:55 | **WuWravenWuW**: Caterpillar, Lunar Gold Tiger | **KAKAE_BMECTE36**: Harp Seal (NR), Toaster Hat |
+| 13:55 | **icanbeyougirl3**: Waffle Wyrm (M), Ghost Chick (M), Frozen Penguin (M), Stygian Owl (M) | **sonosuoradaunpo**: Copycat (FR) |
+| 13:55 | **rottingroyaltyyy**: Cabbit (FR), Winged Tiger (FR), Border Collie (FR), Tiny Wings | **Mx1shu**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:55 | **LaymushkaUwU**: Ride-A-Pet Potion | **Shynisocool**: White Choccybunny (M) |
+| 13:55 | **akosilerry**: Llama, Chocolate Dutch Guinea Pig, Count Slothula | **NotSweatyOnion**: Ride-A-Pet Potion ×3 |
+| 13:55 | **TeezYeez**: Jeff's Nametag | **HaiiTchteru**: Ride-A-Pet Potion |
+| 13:55 | **sleepy_s0ren**: Candyfloss Chick | **j4sp3r101**: Flamingo (FR) |
+| 13:55 | **nkkwqmr**: Pig (FR), Copycat (R), Chocolate Dutch Guinea Pig ×3, Happy Clam, Mummy Spider (M), Boohoo (M), Cocoadile (MR), Ghost Bunny (R), Stray Cat Dragon (N), Snow Owl (FR), Cerberus (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2, Pupcicle | **cayg1004**: Cow (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
