@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 10:01 UTC by the scrape workflow._
+_Updated 2026-11-21 10:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 10:01 UTC by the scrape workflow._
 | amvgg | 11 | 32,484 | 2026-11-21T10:00 |
 | elve | 11 | 6,920 | 2026-11-21T10:01 |
 
-## AMVGG completed trades: 43,321 total
+## AMVGG completed trades: 43,380 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,522 |
+| 2026-11-21 | 1,581 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 10:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:00 | **ngisepmobil2**: Classic Trade Stand | **superytka8**: Squid |
-| 10:00 | **fhuybx556**: Turtle (FR) ×2, Elephant (FR) | **Sirswagalishsus**: Chocolate Chip Bat Dragon (FR) |
-| 10:00 | **Certifiedbwunnii**: Alpaca (MFR), Strawberry Tortle, Fly-A-Pet Potion, Ride-A-Pet Potion | **jypit0410j**: Giraffe (FR) |
-| 10:00 | **ARLEKIN4Ok1**: Flying Fairy, Admin Abuse Egg ×2, Rabbit (N), Admin Abuse Box | **helloiam_spongebob**: Chihuahua |
-| 10:00 | **asmornn**: Snorgle (N) | **cypirr**: Retired Egg ×9 |
-| 10:00 | **crazycattan16**: Matcha Cat (FR), Zebra (MR) | **wx8zqxx**: Tiny Wings |
-| 09:51 | **Dessertsandfoods**: Fly-A-Pet Potion ×8 | **pinkven0mrockst4r**: Border Collie (FR) |
-| 09:51 | **hahatyn2024**: Fly-A-Pet Potion ×6 | **3mis_alttt**: Shiver Wolf (MFR) |
-| 09:51 | **beyondmygrasp**: Sea Turtle (NFR), Lavender Dragon (N), Arctic Dusk Dragon (R), Fly-A-Pet Potion ×3 | **ABOBUS_CATME**: Frostbite Bear |
-| 09:51 | **miathebunny000**: Goose (FR) ×2 | **CryingFor_HeIp**: Werewolf (NFR), Tiny Wings |
-| 09:51 | **LUVS3MELON**: Ride-A-Pet Potion ×3, Blue Boohoo Mega Neon Paint | **Tiddlechip**: Green Amazon (MR) |
-| 09:51 | **Itme_ving**: Arctic Dusk Dragon (FR), Arctic Fox | **eshkere_BPOOOO**: Pet Handler Pro Certificate ×3, Lion Cub (R) |
-| 09:51 | **berritrades**: Mini Pig (R), Yeti (MFR), Latte Kitsune, Pancake Stack | **xx_sunny2003**: Snow Monkey (MFR) |
-| 09:51 | **Amjelgamar21**: Stray Cat Dragon ×18 | **Nancy_280117**: Pet Handler Pro Certificate |
-| 09:51 | **Eli_Ukraine12**: Frost Phoenix (FR) | **LYIZA_1976**: Ride-A-Pet Potion ×2 |
+| 10:10 | **Lucie_Dreemurr2**: Fire Stallion (N), Purrowl (N) | **headshotw0**: Pain au Chat ×2 |
+| 10:10 | **flears_brai**: Fly-A-Pet Potion ×3 | **ashplayingrobloxwith**: Christmas Pudding Pup |
+| 10:10 | **realacckeira8v**: Shadow Dragon Animated Sticker, Blue Boohoo Mega Neon Paint | **BrittanyLynne2002**: Fly-A-Pet Potion |
+| 10:10 | **realacckeira8v**: Mermicorn Animated Sticker, Amethyst Skies Mega Neon Paint | **BrittanyLynne2002**: Fly-A-Pet Potion |
+| 10:10 | **gemxdewdrop**: Snow Owl (R), Rosy Maple Moth, Poltergeist Box ×2, Motorized Sofa | **xxlovetereza**: Swan |
+| 10:10 | **pinkytedslovie**: Siamese Cat (R) | **MATT_2011901**: Ride-A-Pet Potion ×17, Fly-A-Pet Potion |
+| 10:10 | **PrettyxDino**: Red Squirrel (MFR) | **Liazockt2705**: Frostbite Cub (MFR) |
+| 10:10 | **pr3tty_L0st**: Aussie Egg, Ghostly Cat, Skunk | **V4mp_1respitt**: Ride-A-Pet Potion ×5 |
+| 10:10 | **wskdaks**: Koi Carp (MR) | **Quueen_Juliiaa**: Hamster (MFR) |
+| 10:10 | **Mary_Andrev1213**: Fairy Bat Dragon (FR) | **ashplayingrobloxwith**: Christmas Pudding Pup (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 10:10 | **ashplayingrobloxwith**: Spinning Cat Animated Sticker | **WorldisthebestSimo**: Kangaroo (FR) |
+| 10:10 | **angela_umerez4**: Giraffe (FR), Cryptid (FR), Cabbit (NR), Strawberry Shortcake Bat Dragon (FR), Kangaroo (NFR), Kangaroo (FR), Kangaroo (R), Dalmatian (FR), Meerkat (NR), Ice Cream Cone Hat, Candicorn (R), Dodo (NFR) | **dannysniche**: Bat Dragon (FR) |
+| 10:10 | **OwO98759**: Bunny Swirl, Leopard Cat, Ermine | **cloudWavedog87**: Ride-A-Pet Potion |
+| 10:10 | **blessedconnections**: Undead Jousting Horse (FR), Pretty Pony (MFR), Christmas Pudding Pup | **KimikoYuka**: Sugar Glider (FR), Christmas Pudding Pup (NR) |
+| 10:10 | **sup_nuub**: Frost Dragon (FR), Evil Unicorn | **jypit0410j**: Alpaca (MFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
