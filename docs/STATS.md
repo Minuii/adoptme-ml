@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 02:55 UTC by the scrape workflow._
+_Updated 2026-11-21 03:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 02:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 25,332 | 2026-11-21T02:45 |
-| elve | 11 | 5,482 | 2026-11-21T02:46 |
+| amvgg | 11 | 25,587 | 2026-11-21T03:00 |
+| elve | 11 | 5,543 | 2026-11-21T03:01 |
 
-## AMVGG completed trades: 42,271 total
+## AMVGG completed trades: 42,290 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 472 |
+| 2026-11-21 | 491 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 02:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:55 | **lolcryabtit6767**: Jester Dragon (NFR), Fleur De Ice (MFR) | **YoSouYcaro**: Angel Wings |
-| 02:55 | **CloudAMs**: Crystal Egg ×15 | **silliegur**: Ride-A-Pet Potion |
-| 02:55 | **YoSouYcaro**: Fleur De Ice (MFR) | **I_KermitDEATH**: Mr. Whiskerpips (M), Ride-A-Pet Potion |
-| 02:55 | **wx8zqxx**: Cow (FR) | **lol1bahia**: Matcha Cat (N) |
-| 02:55 | **09tz7**: Jellyfish (FR) | **stoIencorpses**: Ride-A-Pet Potion ×10 |
-| 02:55 | **eelizaxo**: Diamond Amazon | **yTka2937_2akk**: Brown Springer Spaniel (N) |
-| 02:55 | **elowzie**: 2D Kitty | **reigninharmonyy**: Ride-A-Pet Potion |
-| 02:55 | **qxll_o0**: Bat Dragon (FR), Rainbow Maker | **fishyemma221**: Cryptid (MFR) |
-| 02:55 | **shiromeowi**: Chihuahua (M), Pet Handler Pro Certificate, Ginger Cat (M), Red Squirrel (N) | **Cookie_g3rl258**: Moose Calf (NFR) |
-| 02:55 | **AutoTradeCommission**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion | **Lesun_ChenHao**: Turtle (FR) ×2, Copycat (NR) |
-| 02:55 | **phonky_phonkacc2**: Munchkin Cat, Groundhog | **MEME_702xd7**: Robo Dog ×3, Pirate Hermit Crab, Lunar Moon Bear ×2, Phoenix, Snow Owl, Yule Log Dog, Hawk ×2, Squid, Golden Hamster, Sunrise Duckling ×2, Maneki-Neko, Baku, Violet Butterfly (N) |
-| 02:55 | **NoLimitJr526**: Golden Lettuce | **wongryder**: Turkey (R) |
-| 02:55 | **itskayeeee**: Ride-A-Pet Potion ×16 | **Zyrox_13aa**: Kangaroo (FR) |
-| 02:55 | **lolaaItacc**: Moose Calf (MR) | **obv1kylxx**: Cheetah (MFR), Blue Ringed Octopus (MFR) |
-| 02:55 | **Green_cocoa1**: Happy Duckling (MR) | **diiorrvi**: Pupcake (MFR) |
+| 03:00 | **elbrens001**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion, Pancake Stack | **Xyzxelle**: Goth Shoes, Tiny Wings |
+| 03:00 | **jiaego**: Turtle (FR), Ride-A-Pet Potion | **Nicoleee_ily**: Werewolf (FR), Frost Fury (FR) |
+| 03:00 | **WeAreTheStars_3**: Fairytale Egg ×15 | **CatToBat0405**: Purrowl (N) |
+| 03:00 | **sxii20**: Border Collie, Dragonfly Fairy Wings | **elbrens001**: Grim Dragon (FR) |
+| 03:00 | **chrisslayer1000**: Shadow Dragon (FR) | **m4rshalI**: Balloon Unicorn (NFR) |
+| 03:00 | **astarlingss**: Alley Cat (MFR), Hare (MFR), Kookaburra (MFR), German Shepherd (MFR), Candyfloss Chick (FR) ×2, Goldhorn (MFR), Sheeeeep (MFR), Goat (MFR), Highland Cow (MFR), Red Dutch Guinea Pig | **fragilefeelling**: Strawberry Tortle (MFR) |
+| 03:00 | **astarlingss**: Candyfloss Chick (FR) ×2, Alley Cat (MFR), Hare (MFR), Kookaburra (MFR), German Shepherd (MFR), Toy Monkey (MFR), Panda (MFR), Rose Dragon (NFR) ×2, Hippo (MR) | **No_R3gretz**: Frostbite Bear (MFR) |
+| 03:00 | **Angelsss_81**: Ride-A-Pet Potion | **slaught3rxz**: Maine Coon (N) |
+| 03:00 | **Luvbambii**: Alpaca (NR), Spring Bunny Nose, Spring Bunny Feet | **hyr9fw**: Hedgehog (FR) |
+| 03:00 | **ImJustBug**: Balloon Unicorn | **trythisrye8**: Giant Panda (FR) |
+| 03:00 | **N30N_SH4DE**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Platypus (NFR), Dimorphodon (NFR), Copycat | **imma_addyou004**: Cryptid |
+| 03:00 | **cya_adoptmechallange**: Turtle (FR), Albino Monkey (FR) | **Leon555s5**: Lion (NFR) |
+| 03:00 | **Sac_Girl**: Chocolate Chip Bat Dragon (NFR), Arctic Reindeer (NFR), Dalmatian (R), Dalmatian, Chocolate Chip Bat Dragon (FR) ×2, Arctic Reindeer (FR), Hedgehog (R), Strawberry Shortcake Bat Dragon (FR) | **angelkittyyy444**: Shadow Dragon (FR), Frost Dragon (FR) |
+| 03:00 | **the3reveng**: Desert Egg, Aztec Egg ×2, Endangered Egg ×2, Throwback Egg ×3 | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 03:00 | **neliixoxo**: Crystal Egg ×18 | **Yvanille_hxvn**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
