@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 16:55 UTC by the scrape workflow._
+_Updated 2026-11-21 17:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 16:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 39,389 | 2026-11-21T16:45 |
-| elve | 11 | 8,494 | 2026-11-21T16:46 |
+| amvgg | 11 | 39,643 | 2026-11-21T17:00 |
+| elve | 11 | 8,565 | 2026-11-21T17:01 |
 
-## AMVGG completed trades: 45,235 total
+## AMVGG completed trades: 45,259 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 3,436 |
+| 2026-11-21 | 3,460 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 16:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:55 | **Marina83899545**: Ride-A-Pet Potion, Stray Cat Dragon (M) | **cbmelissa**: Mermaid Mansion |
-| 16:55 | **1qwerty6709**: Jousting Horse (MFR), Ballet Swan (MFR), Glormy Leo (MFR), Copycat (MFR), Jester Dragon (MFR), Frost Phoenix (MFR) | **iiheartzb**: Strawberry Tortle (MFR) |
-| 16:55 | **XXScorpionXX2121**: Jekyll Hydra (NFR), Candicorn (R), Elephant (R) | **jhstower**: Candyfloss Chick (NFR) ×2 |
-| 16:55 | **follow2join**: Hippo (MFR), Christmas Pudding Pup (R) | **Jaeebirddd**: Black Springer Spaniel (MFR) |
-| 16:55 | **Krismasterdang**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×7 | **olddeathcore**: Kangaroo (FR) |
-| 16:55 | **DV8WYBF8YWS**: Chocolate Chip Bat Dragon (FR), Glormy Leo (MFR), Fly-A-Pet Potion ×5 | **smccon007**: Giant Panda (FR) |
-| 16:55 | **Kv1cel**: Latte Kitsune (F) | **mxrriedx**: Cake Friend (N) |
-| 16:55 | **harpiealt07**: Paint Sealer, Chick Backpack | **EduardaVeilmont**: Caticorn Rattle |
-| 16:55 | **C00KIE_0w0**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **finnbouwers**: Frost Fury (FR) |
-| 16:55 | **leidydamelike**: Parrot (FR), Siamese Cat (R) | **Lupaeis**: Kangaroo (MFR), Lion Cub (MFR) |
-| 16:55 | **Th3S4dP3rs0n**: Cabbit (FR), Boohoo (M) | **Kiritto1415**: Groundhog (NFR), Ride-A-Pet Potion, Kitty Biscuit |
-| 16:55 | **SUPERPENGUIN0111**: Alicorn (MFR) | **elcob65**: Gemstone Egg ×8 |
-| 16:55 | **8272AXEL**: Goth Shoes, Bready Necklace | **Abaddon_Kisser666**: Pet Handler Pro Certificate, Fly-A-Pet Potion |
-| 16:55 | **milanahelmi**: Giant Panda (FR) | **asi_kurdin2010**: Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon (FR), Arctic Fox (FR), Spring Bunny Hood |
-| 16:55 | **vlados_krash**: Elephant (R) | **Flydershaa**: Dodo (NR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3 |
+| 17:00 | **KarlotaRaquel**: Fly-A-Pet Potion ×5 | **olddeathcore**: Quokka (MFR) |
+| 17:00 | **Fayba42123**: Bready Necklace | **MonkeyMartlegend**: Ride-A-Pet Potion |
+| 17:00 | **Furry_lechuga**: Ride-A-Pet Potion ×2, Thorny Devil | **ItzmeZie_Aamiaww24**: Dragon (NF), Dark Choccybunny (N), Skelicorn, Scarecrow Crow |
+| 17:00 | **Kamila_33309**: Cryptid (FR) | **Irislikesyoufr**: Great Pyrenees (MFR), Frostbite Cub (MR), Gecko (MR), Toasty Red Panda (MR), Leopard Cat (MR), Sea Angel (MFR), Toy Poodle (MR), Clover Cow (MR), Sweetheart Rat (M), Sabertooth (M), Pet Handler Pro Certificate, Ratatoskr (M), Yule Log Dog, Gaelic Fae (R), Owlbear (FR), Tortuga de la Isla (FR), Munchkin Cat (R) |
+| 17:00 | **lifestyle1312**: Frostbite Bear, Crocodile (R) | **piespix**: Goose (R) |
+| 17:00 | **aliyacoolgirl09**: Copycat | **themilkeywayz**: Pet Handler Pro Certificate ×2, Fly-A-Pet Potion |
+| 17:00 | **hanb3ki**: Cryptid, Unicorn Horn, Kangaroo (NFR), Cabbit, 2022 Birthday Cupcake Shoes, Fly-A-Pet Potion | **Kyrbii1**: Owl (FR) |
+| 17:00 | **guchi_puchi95**: Ice Cream Hermit Crab (NFR) | **RavenStormy1991**: Pig (FR) |
+| 17:00 | **MILKA_NN765**: Haetyphoon (R) | **Lunagamer2053**: Arctic Fox (R) |
+| 17:00 | **perit4733**: Fly-A-Pet Potion | **C1LDGAMING**: Alicorn ×18 |
+| 17:00 | **MichaelDASIGMA**: Amami Rabbit | **Z4Z4LORD**: Mighty Haetyphoon Animated Sticker |
+| 17:00 | **itzzz_luisa01**: Crow (FR), Jester Dragon (N) ×2, Jester Dragon | **012e0122**: Glacier Moth (MFR), Evil Unicorn (FR) |
+| 17:00 | **yk_xlea**: Turtle (FR), Goth Shoes, Pancake Stack | **HITMANH2WO**: Silly Duck (MFR) |
+| 17:00 | **yeobviiiii**: Frostbite Cub (MFR), Strawberry Penguin (FR) | **cookiesmilet**: Unicorn Horn |
+| 17:00 | **billiesweetbillie13**: Pig (R), Ride-A-Pet Potion, Squid ×2, Platypus, Leopard Cat (N) | **Charlotte_art2**: Cuddly Candle (MFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
