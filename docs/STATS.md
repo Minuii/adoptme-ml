@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 03:16 UTC by the scrape workflow._
+_Updated 2026-11-21 03:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 03:16 UTC by the scrape workflow._
 | amvgg | 11 | 25,805 | 2026-11-21T03:15 |
 | elve | 11 | 5,562 | 2026-11-21T03:15 |
 
-## AMVGG completed trades: 42,342 total
+## AMVGG completed trades: 42,371 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 543 |
+| 2026-11-21 | 572 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 03:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:15 | **xenovyjay**: Crystal Egg ×15 | **funfwetticake**: Ride-A-Pet Potion |
-| 03:15 | **silliegur**: Pupcicle | **Omar2002548**: Crystal Egg ×9 |
-| 03:15 | **The_Mery24**: Sunrise Duckling ×2 | **Valerie_12342**: Ride-A-Pet Potion |
-| 03:15 | **mawifa123**: Siamese Cat (R) | **Moonlight_Sun33**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion |
-| 03:15 | **razarvale2z**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×4 | **wskdaks**: Cow (R) |
-| 03:15 | **UniversePaladin**: Count Slothula ×9, Retired Egg | **SpBiggestFan876**: Copycat |
-| 03:15 | **seongjohanJ**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×3 | **0n1yAlaina**: Bunny Swirl (M) |
-| 03:15 | **GrindAccount_N1**: Naga Dragon (FR), Bee (NFR) ×4, Kitty Bat (FR) ×2, Robot (MR), Axolotl (R) ×4, Golden Griffin (FR), Ancient Dragon (R) | **wskdaks**: Lion (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 03:15 | **MM_Cloud**: Crystal Egg ×15 | **auixiss**: Ride-A-Pet Potion |
-| 03:15 | **Lola_ant34**: Evil Unicorn (FR), Shark Puppy (NFR), Goose (R), Race Car Stroller, Moped, Spring Bunny Feet, Elf Hat, Pumpkin Carriage, Ice Cream Cone Hat, Lunar New Year Shoes | **snyyyp**: Fairy Bat Dragon (NFR), Jester Dragon (MFR), Copycat (NR) |
-| 03:15 | **carolzinhac2009**: Candicorn | **reigninharmonyy**: Ride-A-Pet Potion ×15 |
-| 03:15 | **chefbeardardee2**: Ram (NFR) | **Celia4160**: Christmas Pudding Pup |
-| 03:15 | **carolzinhac2009**: Jester Dragon | **lmp_666**: Ride-A-Pet Potion ×4 |
-| 03:15 | **VICTOR_AV01**: Hare (MFR), Ride-A-Pet Potion | **Missgurl_0675**: Caterpillar (NFR), Bunny Swirl (MR) |
-| 03:15 | **ByteU2Crimson3**: Cabbit (MFR), Cat | **Flashbook6**: 2022 Birthday Party Hat, Cryptid (NFR), Alpaca (R), 2022 Birthday Cake |
+| 03:25 | **Aodpwsnwo**: Dango Penguins (MFR) | **Angelfromdarkness_0**: Mini Pig, Lion Cub, Ride-A-Pet Potion ×2, Pupcake |
+| 03:25 | **mo0nyii**: Parrot (FR) ×2 | **Aodpwsnwo**: Parrot (NFR) |
+| 03:25 | **Jorfan90**: Frost Dragon (FR) | **TwistedK1tty**: Cryptid (N), Flamingo (FR), Spring Bunny Hood |
+| 03:25 | **Imoi716**: Ride-A-Pet Potion, Bison (M) | **assapickle**: Reindeer |
+| 03:25 | **mychemgeek**: Cryptid (FR) | **luiscae3**: Goose (FR), Peppermint Penguin (FR), Harp Seal (MR), Spring Bunny Hood, Shark Puppy (FR) |
+| 03:25 | **Shehatesme420**: Albino Monkey (FR) | **GrindAccount_N1**: Peachick (N), Eggnog Hare (N), Bloodhound (N), Seagull (N), Clover Cow (N), Love Bird (N), Flaming Zebra (N), Sprout Snail (N), Koala (N), Castle Hermit Crab (N), Tuxedo Cat (N) |
+| 03:25 | **C2222BA**: Pig (FR), Corn Doggo | **RainBOW_Vam47**: Pupcicle (M) |
+| 03:25 | **Zydac1**: Velociraptor ×2, Triceratops, Stegosaurus ×2, Halloween Black Mummy Cat ×5 | **Kc_siris**: Ride-A-Pet Potion |
+| 03:25 | **Youdi_off**: Fly-A-Pet Potion ×7 | **Xxxxashhhh**: Pet Handler Pro Certificate ×7 |
+| 03:25 | **epicpulsechaos2024**: Dragon ×18 | **Inganta07**: Ride-A-Pet Potion ×2 |
+| 03:25 | **the3reveng**: Cozy Mistletroll ×4, Rainbow Trout ×4, Stygian Owl ×4, Irish Setter ×4 | **Snoopyyvaal**: Ride-A-Pet Potion, Mochi Meow |
+| 03:25 | **THOLING1232**: Classic Trade Stand | **hjhjfjfjfy**: Gemstone Egg |
+| 03:25 | **Sains9811**: Ranger Beaver, Quokka, Zodiac Minion Chick | **iiAsquate**: Ride-A-Pet Potion |
+| 03:25 | **kkhhys_09771**: Shadow Dragon (FR), Frost Dragon (FR), Cow (NFR), Arctic Fox, Fly-A-Pet Potion | **YTstaro**: Hedgehog (MFR) |
+| 03:25 | **Sains9811**: Black Dog (N), Stray Cat Dragon (N) | **vanyapro3697**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
