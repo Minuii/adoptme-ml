@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 03:25 UTC by the scrape workflow._
+_Updated 2026-11-21 03:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 03:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 25,805 | 2026-11-21T03:15 |
-| elve | 11 | 5,562 | 2026-11-21T03:15 |
+| amvgg | 11 | 26,035 | 2026-11-21T03:30 |
+| elve | 11 | 5,607 | 2026-11-21T03:31 |
 
-## AMVGG completed trades: 42,371 total
+## AMVGG completed trades: 42,373 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 572 |
+| 2026-11-21 | 574 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,8 @@ _Updated 2026-11-21 03:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:30 | **js_elizz**: Chocolate Chip Bat Dragon (FR), Hot Doggo, Goose (FR) | **TwistedK1tty**: African Wild Dog (FR) |
+| 03:30 | **reigninharmonyy**: Chocolate Dutch Guinea Pig | **dnei30fast**: Ride-A-Pet Potion |
 | 03:25 | **Aodpwsnwo**: Dango Penguins (MFR) | **Angelfromdarkness_0**: Mini Pig, Lion Cub, Ride-A-Pet Potion ×2, Pupcake |
 | 03:25 | **mo0nyii**: Parrot (FR) ×2 | **Aodpwsnwo**: Parrot (NFR) |
 | 03:25 | **Jorfan90**: Frost Dragon (FR) | **TwistedK1tty**: Cryptid (N), Flamingo (FR), Spring Bunny Hood |
@@ -49,8 +51,6 @@ _Updated 2026-11-21 03:25 UTC by the scrape workflow._
 | 03:25 | **the3reveng**: Cozy Mistletroll ×4, Rainbow Trout ×4, Stygian Owl ×4, Irish Setter ×4 | **Snoopyyvaal**: Ride-A-Pet Potion, Mochi Meow |
 | 03:25 | **THOLING1232**: Classic Trade Stand | **hjhjfjfjfy**: Gemstone Egg |
 | 03:25 | **Sains9811**: Ranger Beaver, Quokka, Zodiac Minion Chick | **iiAsquate**: Ride-A-Pet Potion |
-| 03:25 | **kkhhys_09771**: Shadow Dragon (FR), Frost Dragon (FR), Cow (NFR), Arctic Fox, Fly-A-Pet Potion | **YTstaro**: Hedgehog (MFR) |
-| 03:25 | **Sains9811**: Black Dog (N), Stray Cat Dragon (N) | **vanyapro3697**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
