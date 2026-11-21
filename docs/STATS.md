@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 18:55 UTC by the scrape workflow._
+_Updated 2026-11-21 19:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 18:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 41,485 | 2026-11-21T18:45 |
-| elve | 11 | 8,988 | 2026-11-21T18:46 |
+| amvgg | 11 | 41,747 | 2026-11-21T19:00 |
+| elve | 11 | 9,076 | 2026-11-21T19:01 |
 
-## AMVGG completed trades: 45,971 total
+## AMVGG completed trades: 45,973 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,172 |
+| 2026-11-21 | 4,174 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,8 @@ _Updated 2026-11-21 18:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:00 | **Callumgggg5**: Kangaroo (NFR), Cabbit (FR), Polar Bear (R) | **arseniylolol**: Strawberry Shortcake Bat Dragon (FR) |
+| 19:00 | **AnaPatricia1987_ola**: Zebra (M), Little Lamb (N), Stray Cat Dragon | **Joelzoz**: Little Lamb ×18 |
 | 18:55 | **yeobviiiii**: Goose (R), Cow (R) | **Anelchik_i**: Strawberry Shortcake Bat Dragon (FR) |
 | 18:55 | **kirumba_768**: Persian Cat (N) ×2, Gorilla (N) | **aaliyah0284**: Ride-A-Pet Potion |
 | 18:55 | **XiaoFaye1433**: Evil Unicorn (FR) | **mxrgan66**: Aurora Fox (MFR) |
@@ -49,8 +51,6 @@ _Updated 2026-11-21 18:55 UTC by the scrape workflow._
 | 18:55 | **puuuurrrraaawww**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **Littlelizzie2012**: Ruler's Castle |
 | 18:55 | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **pivozkranu**: Pink Cat |
 | 18:55 | **Kaiisxe**: Ride-A-Pet Potion ×8 | **cchloecrichtonsecret**: Toasty Red Panda (MFR) |
-| 18:55 | **elizabeth_circus1228**: Black Rhino (MR), Rubber Ducky (M), Golden Griffin (N) | **millka11111111**: Fly-A-Pet Potion |
-| 18:55 | **caycay_3800**: Pupcicle (M) | **0XBONNIEX0**: Lion (R) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
