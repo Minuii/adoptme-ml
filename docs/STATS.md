@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 21:11 UTC by the scrape workflow._
+_Updated 2026-11-21 21:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 21:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 43,823 | 2026-11-21T21:00 |
-| elve | 11 | 9,531 | 2026-11-21T21:01 |
+| amvgg | 11 | 44,110 | 2026-11-21T21:15 |
+| elve | 11 | 9,553 | 2026-11-21T21:15 |
 
-## AMVGG completed trades: 46,657 total
+## AMVGG completed trades: 46,682 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,858 |
+| 2026-11-21 | 4,883 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 21:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:11 | **jypit0410j**: Glyptodon (MR), Pine Marten (MFR), Flaming Fox, Husky, Therapy Dog (N) | **DumpySister**: Kangaroo (FR) |
-| 21:11 | **FestiveNotCupcake**: Dragonfruit Fox ×3, Fly-A-Pet Potion, Ride-A-Pet Potion | **DaphiePafie**: Flaming Fox (NR) |
-| 21:11 | **yourloversstaymyage3**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Lamb (R), Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×2 | **Ob3sityPhobia**: Strawberry Shortcake Bat Dragon (NFR) |
-| 21:11 | **Kukolka2010**: Diamond Ladybug (R), Cactus Friend (R), 2D Doggy (R), 2D Doggy, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **Mfrstellaa**: Rain Cloud Hat |
-| 21:11 | **Eliplazroblox800**: Retired Egg ×15 | **sweetlittlegf**: Chihuahua |
-| 21:11 | **Arisha9038**: Gemstone Egg, Chihuahua, Pain au Chat, Fairytale Egg | **Meow7121**: Ride-A-Pet Potion |
-| 21:11 | **GT_HEADSHOT**: Papa Moose (MR), Papa Moose (MFR), Lion (MFR), Peppermint Penguin (R), Chocolate Dutch Guinea Pig (MR) ×2, Highland Cow (MFR), Cake Friend (MR), Blue Dog, Dalmatian (FR), Cow (FR) | **bubbleaxolot**: Evil Unicorn (MFR) |
-| 21:11 | **TheGodx555**: Unicorn ×13 | **kallythecatisthebest**: Jester Dragon (R), Jester Dragon |
-| 21:11 | **vlados_krash**: Crocodile (FR), Shark Puppy (FR), Dodo (NR), Fly-A-Pet Potion ×3 | **Livxhze**: Hot Doggo (FR) |
-| 21:11 | **FisheYT3**: Water Rabbit, Binturong | **Kata_16381**: Chocolate Dutch Guinea Pig |
-| 21:11 | **deeplishpou**: Chocolate Dutch Guinea Pig (MFR) | **lildaminii**: 2022 Birthday Cupcake Shoes |
-| 21:11 | **cosy_sosu**: Magic House Door, Chick Backpack | **velnexst**: Ride-A-Pet Potion |
-| 21:11 | **cxbvnniz**: Elephant Plush, Bunny Plush | **blvvyiiskiies**: Ride-A-Pet Potion |
-| 21:11 | **xMoon_289**: Ride-A-Pet Potion, Festive Antlers, Love Letter | **usuaria_1008291928**: Chicken |
-| 21:11 | **strawberry560976**: Jester Dragon (NR), Shiver Wolf (MFR), S'mores Raccoon (MR) | **zarmeowz**: Dragonfruit Fox (MFR) |
+| 21:15 | **Milo_5284**: Dragonfruit Fox (NR), Dango Penguins (N) | **faikubjotch**: Siamese Cat (R) |
+| 21:15 | **jiigu0**: Thunderfisher ×2 | **rafaelousthecrazy**: Bunch Of Balloons |
+| 21:15 | **namerb11**: Winged Tiger (NFR), Elephant (R), Lion (FR), Pig (FR), Chihuahua (MFR), Dire Wolf (MFR), Ice Wolf (FR), Wolf (NFR) | **haaayaaa12312**: Cryptid (FR) |
+| 21:15 | **Gay5242**: Fairy Bat Dragon (FR), Frostbite Bear (FR), Tio De Nadal | **Ob3sityPhobia**: Strawberry Shortcake Bat Dragon (FR) |
+| 21:15 | **xfluffibunni**: Lunar Gold Tiger (N) | **awhleil**: Ride-A-Pet Potion |
+| 21:15 | **LazyLibra_64**: Sushi Penguin (M) | **Tussiwet**: Siamese Cat |
+| 21:15 | **Laryxn00**: Tiny Wings, Spring Bunny Hood, Rain Boots | **Caveenx**: Candicorn (R) |
+| 21:15 | **ALTACCOUNTTT435**: Retired Egg ×17 | **katsizu3901**: Pain au Chat |
+| 21:15 | **dulcedeleche03114**: Matcha Cat (R) | **manucraftyt01tina**: Haetyphoon |
+| 21:15 | **pltnkv_ka**: Mouse (NFR), Mighty Haetyphoon Animated Sticker | **SelfL0vktwt**: Ride-A-Pet Potion |
+| 21:15 | **pltnkv_ka**: Ghost (MR) | **slothloverforever6**: Ride-A-Pet Potion ×2 |
+| 21:15 | **glxvixlll**: Latte Kitsune (FR) | **Hio_san0**: Ride-A-Pet Potion ×3 |
+| 21:15 | **Sytinely**: Apple Owl ×9 | **Babyofy5**: Matcha Cat, Dango Penguins |
+| 21:15 | **Varvara08921**: Fly-A-Pet Potion ×3, Ant (MFR) | **Artem_21a2**: Toy Poodle (MR), Zombie Wolf |
+| 21:15 | **KayleeSt0rm147**: Diamond Amazon (MFR), Red Dutch Guinea Pig (NFR) | **KeimoKaiAlr**: Nessie (MFR), Unicorn Horn |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
