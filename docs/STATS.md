@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 16:31 UTC by the scrape workflow._
+_Updated 2026-11-21 16:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 16:31 UTC by the scrape workflow._
 | amvgg | 11 | 39,127 | 2026-11-21T16:30 |
 | elve | 11 | 8,397 | 2026-11-21T16:31 |
 
-## AMVGG completed trades: 45,083 total
+## AMVGG completed trades: 45,129 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 3,284 |
+| 2026-11-21 | 3,330 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:30 | **HOCOKKU**: Ride-A-Pet Potion | **the3reveng**: 2026 Birthday Butterfly (M), Clubtail Dragonfly (N), Mochi Meow |
-| 16:30 | **viviinlovewithcats**: Munchkin Cat, Chihuahua, Black-Footed Ferret (N) | **SkaterinDeltat140964**: Tiny Wings |
-| 16:30 | **HITME_HITME**: Space Fleet House | **jetedispas212**: Ride-A-Pet Potion ×3 |
-| 16:30 | **Leafmoon_Sasha2022**: Snow Owl, Retired Egg | **yanohka_77**: Merry Mistletroll (R) |
-| 16:30 | **Gigachatboy76**: Snow Owl (R), Chocolate Dutch Guinea Pig, Sea Turtle (M), Ride-A-Pet Potion | **nikitaloooll7**: Frost Fury (R) |
-| 16:30 | **mamyy_344**: Kangaroo (FR) | **yardsides**: Ride-A-Pet Potion ×2, Candicorn (FR) |
-| 16:30 | **mamyy_344**: Candicorn (FR), Ride-A-Pet Potion | **mdmdnkevsjsvaj**: Kangaroo (FR) |
-| 16:30 | **yuyu_tik**: Sugar Glider (MFR), Latte Kitsune (N) | **Meowkittiikat**: Cabbit (M) |
-| 16:30 | **kirumba_768**: Ground Sloth ×4, Garden Snake ×4, Bullfrog ×4, Stegosaurus ×4, Shih Tzu (N), Poodle (N) | **melynagamer3**: Ride-A-Pet Potion |
-| 16:30 | **xheartzpearlx**: Yule Log Dog | **zaffy46**: Mule |
-| 16:30 | **quietlyangel**: Chocolate Chip Bat Dragon (FR) | **cannotaffordme**: Wooly Rhino (MFR) ×2 |
-| 16:30 | **Flashbook6**: Strawberry Shortcake Bat Dragon (R), Siamese Cat (FR) | **anasarubio**: Goose (NFR) |
-| 16:30 | **xmikaeq**: Owlbear (MFR) ×3, Ring-Tailed Lemur (MFR) | **zeejnaa**: Goose (MFR) |
-| 16:30 | **KarlotaRaquel**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **doisynan**: Panda (NFR) |
-| 16:30 | **CEMEH_HOCKOB**: Unicorn ×4 | **h4_cd**: Ride-A-Pet Potion ×4 |
+| 16:40 | **martha_almeyda**: Strawberry Tortle (NFR) | **namerb11**: Cryptid (FR) |
+| 16:40 | **Bluethekittem**: Giant Cheetah Mount, 2022 Birthday Cake, Arctic Dusk Dragon (NFR) | **strawberrycornettos**: Hive Backpack |
+| 16:40 | **larisa1214**: Tutu | **Gu_chek**: Glormy Backpack |
+| 16:40 | **aminka_wq1**: Jester Dragon | **AwfulxLilly**: Copycat |
+| 16:40 | **madislimeg**: Pupcicle (M) ×2 | **miss5you**: Grim Dragon (FR) |
+| 16:40 | **KADJDIS**: Turtle (R) | **Klik_Kuromi**: Spring Bunny Nose, Tiny Wings, Christmas Pudding Pup Bait, Ride-A-Pet Potion ×5, Harp Seal |
+| 16:40 | **HeartsForEli_1406**: Ride-A-Pet Potion, White Sand Dollar | **Vasilisa_srt**: Pet Handler Pro Certificate |
+| 16:40 | **JuanBeastMode_1**: Copycat (N), Ride-A-Pet Potion ×2 | **Siimplyxlizzie**: Turtle (FR) |
+| 16:40 | **Gehteme37**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×2 | **simpledimpl1931**: Strawberry Tortle |
+| 16:40 | **Klaysi_flayra**: Scarecrow Horse, Dolphin, Pterodactyl, Snow Leopard, Sabertooth, Seagull, Triceratops ×2, Stegosaurus, Bandicoot ×3, Tasmanian Tiger, Ground Sloth | **SuperIndo_123**: Ride-A-Pet Potion |
+| 16:40 | **seb_ihhh**: Turtle (FR), Dango Penguins ×2, Ride-A-Pet Potion ×2 | **moral608**: Cabbit (FR) |
+| 16:40 | **svtoruuz**: Candyfloss Chick (NFR) | **Opsequl**: Munchkin Cat (MFR) |
+| 16:40 | **GL0Rl0**: Ride-A-Pet Potion | **ItzLuxic**: Blue Boohoo Mega Neon Paint |
+| 16:40 | **Boypizza132**: Turtle (FR) | **sun1zzzo**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×3, Mule, Happy Duckling |
+| 16:40 | **quietlyangel**: Skele-Rex (NFR) | **awhleil**: Ride-A-Pet Potion ×6 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
