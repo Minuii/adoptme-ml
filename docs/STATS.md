@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 02:31 UTC by the scrape workflow._
+_Updated 2026-11-21 02:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 02:31 UTC by the scrape workflow._
 | amvgg | 11 | 25,098 | 2026-11-21T02:30 |
 | elve | 11 | 5,406 | 2026-11-21T02:31 |
 
-## AMVGG completed trades: 42,212 total
+## AMVGG completed trades: 42,239 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 413 |
+| 2026-11-21 | 440 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 02:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:30 | **Robloxiana_xxx2011**: Rain Cloud Hat, Ride-A-Pet Potion ×2, Ice Cream Cone Hat | **cnn1b1lsm**: Turtle (FR) |
-| 02:30 | **RainBOW_Vam47**: Rainbow Maker, Copycat (N), Jester Dragon (NFR) | **wskdaks**: Evil Unicorn (FR) |
-| 02:30 | **BarkingPando**: Jester Dragon (MFR), Kitty Bat (MFR), Ride-A-Pet Potion ×9 | **MumfxX**: Cryptid (FR) |
-| 02:30 | **Robloxiana_xxx2011**: Elf Hat | **Junjyungg**: Ride-A-Pet Potion |
-| 02:30 | **farmer_post1**: Tiny Wings, S'mores Raccoon (N), Christmas Pudding Pup | **Cust3rdNemesis**: Kangaroo (FR) |
-| 02:30 | **Nathan221220**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR) | **Illitfofasbr2**: Parrot (FR) |
-| 02:30 | **1712meII**: Pain au Chat, Unicorn Ducky | **Green_cocoa1**: Burger Bear |
-| 02:30 | **Sargasmic_Fae**: Crystal Egg ×3, Admin Abuse Egg ×15 | **iiSimplyxSkyexx**: Ride-A-Pet Potion |
-| 02:30 | **jayjay080309**: Fairy Bat Dragon (FR), Hedgehog (F), Goose (NFR), Hot Doggo (R), Mermicorn, Ride-A-Pet Potion ×2 | **Flutterieshyy**: Frost Dragon (FR) |
-| 02:30 | **D1SREU**: 2022 Birthday Cake | **AMOANICOLE78**: Flamingo (FR) |
-| 02:30 | **4nsiic**: Hot Doggo (FR) | **CheeseThePug2**: Flower Power Duckling (MFR), Happy Duckling (MR), Ice Cream Cone Hat, Spring Bunny Hood, Ride-A-Pet Potion ×3 |
-| 02:30 | **MoronicKat_the7th**: Happy Duckling (MFR) | **Thecatonthemat8**: Ice Cream Hermit Crab (NFR) |
-| 02:30 | **XGiveMeUrFoodX**: Goose (FR) ×2, Kangaroo (FR) | **Luna_SanUwuUvu**: Dalmatian (FR) |
-| 02:30 | **TornCuiped**: Catte (MFR), S'mores Raccoon (M), Kitty Bat (MFR), Ranger Beaver (MFR), Castle Hermit Crab (MFR), Pudding Cat (MFR) | **youlocalrats1**: Cabbit (NFR) |
-| 02:30 | **yan_heso030**: Dragonfruit Fox (MR) | **funfwetticake**: Pupcicle (MFR), Pupcicle (MR), Squid (M), Green Amazon (MFR), Spring Bunny Feet |
+| 02:41 | **puchainela77**: Ride-A-Pet Potion, Ghost Dog | **itsvaleriaotz**: Wood Pigeon |
+| 02:41 | **stoIencorpses**: Strawberry Shortcake Bat Dragon Backpack | **dnei30fast**: Fly-A-Pet Potion ×3 |
+| 02:41 | **sxii20**: Cryptid (R) | **CamilleandJustina100**: Goose (FR), Alpaca, Grim Dragon (FR), Border Collie, Pig (FR), Spring Bunny Feet, Spring Bunny Nose |
+| 02:41 | **Zydac1**: Flower Power Duckling, Bloodhound ×2, Ghost Wolf | **Yiju0225**: Ride-A-Pet Potion |
+| 02:41 | **epicpulsechaos2024**: Crystal Egg ×18 | **TrueValll**: Pet Handler Pro Certificate |
+| 02:41 | **AxolotlLove11**: Groundhog (MFR), 2022 Birthday Party Horn | **KiaXias**: Field Mouse (MFR) |
+| 02:41 | **Dessertsandfoods**: Munchkin Cat (FR) | **reigninharmonyy**: Fly-A-Pet Potion ×6 |
+| 02:41 | **angela_umerez4**: Cryptid (N), Cryptid (FR), Cow (FR), 2022 Birthday Confetti Cannon | **thesuperkid0**: Giraffe (FR) |
+| 02:41 | **Nyxie_OwO**: Blazing Lion (NFR), Pelican (MFR) | **don5556**: Parrot (MFR) |
+| 02:41 | **Sarahi23685**: Cerberus (R), Halloween White Ghost Dragon (R) | **29espresso**: Brown Bear (FR) |
+| 02:36 | **Justformoneybrolol**: Bat Dragon (FR), Shadow Dragon (FR), Frost Dragon (FR), African Wild Dog (R), Giant Panda (FR) | **natesctrl**: Bat Dragon (NFR) |
+| 02:36 | **Trixieli0000**: Skelicorn (N) ×2 | **Hey_Dant123**: Ride-A-Pet Potion |
+| 02:36 | **xolvrxo**: Fossa (N) | **0MGSARAY**: Unfortunate Eyelashes |
+| 02:36 | **Starlight_ZolsGirl**: Cattuccino ×2, Abyssinian Cat (N) | **Amirdl**: Candle |
+| 02:36 | **Cc1n0x**: Kangaroo (FR) | **0MGSARAY**: Quokka (M), Tutu, Spring Bunny Hood, Spring Bunny Feet, Butter Knife |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
