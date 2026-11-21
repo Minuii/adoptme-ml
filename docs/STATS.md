@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 08:25 UTC by the scrape workflow._
+_Updated 2026-11-21 08:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 08:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 30,732 | 2026-11-21T08:15 |
-| elve | 11 | 6,554 | 2026-11-21T08:15 |
+| amvgg | 11 | 30,973 | 2026-11-21T08:30 |
+| elve | 11 | 6,618 | 2026-11-21T08:31 |
 
-## AMVGG completed trades: 43,041 total
+## AMVGG completed trades: 43,051 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,242 |
+| 2026-11-21 | 1,252 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 08:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:30 | **HaiiTchteru**: Cryptid | **Lila_Chanbibi**: Munchkin Cat (MFR), Giant Anteater, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 08:30 | **Elf_Deme**: Munchkin Cat (NFR) | **spooke537**: 2022 Birthday Confetti Cannon, Unicorn Horn |
+| 08:30 | **niceplayeruwu**: Ride-A-Pet Potion | **roblox_wert34**: Royal Moon Egg |
+| 08:30 | **niceplayeruwu**: Ride-A-Pet Potion | **roblox_wert34**: Royal Moon Egg |
+| 08:30 | **russelroblox1234**: Hot Doggo (NFR), Chocolate Chip Bat Dragon (FR), Turtle (NFR), Mini Pig (R), Fairy Bat Dragon (FR), Sugar Glider (R) | **unstableloves**: Kangaroo (NFR), Munchkin Cat (NFR), Fairy Bat Dragon (FR), Cabbit (R), Pink Cat (NFR), Sugar Glider (FR), Mermicorn (FR), Alpaca, Siamese Cat (R), Kangaroo (R), Border Collie (R), Winged Tiger (R), Lion, Caelum Cervi (R), Many Mackerel (R) |
+| 08:30 | **Happyalt61**: Sugar Glider (FR), 2022 Birthday Cake, Tiny Wings, Ice Cream Cone Hat | **BaconsAreCool3210**: Rainbow Maker |
+| 08:30 | **luvyerh**: Arctic Fox (R), Ride-A-Pet Potion ×2 | **hqapui**: Pig (FR) |
+| 08:30 | **UwUvU1234**: Hedgehog (FR), Glider, Shadow Dragon Ducky (N), Mr. Whiskerpips, Winter Deer Bait | **Puresksxz**: Evil Unicorn (FR) |
+| 08:30 | **Aupaccs**: Latte Kitsune (N) | **amvggrey**: Aestus (N), Moonlight Moth (N) |
+| 08:30 | **Pupppy457**: Frost Unicorn, Pupcake (MFR) | **olddeathcore**: Strawberry Tortle (FR) |
 | 08:20 | **siria20144**: Owl (FR), Monkey King, Albino Monkey (FR) | **Li0nH3r086**: Frost Dragon (FR) |
 | 08:20 | **syavcas**: Royal Palace Spaniel, Sloth, Shadow Dragon Ducky | **evapro67lol**: Ride-A-Pet Potion |
 | 08:20 | **minv9a**: Naga Dragon (F), Classic Trade Stand | **WowKeramica1**: Princess Capuchin Monkey (FR) |
 | 08:20 | **lol1bahia**: Castle Hermit Crab (N) | **love_anime12393**: Ride-A-Pet Potion |
 | 08:20 | **amimellaman3**: Majestic Pony (N) | **erik_frumos**: Chocolate Dutch Guinea Pig, Pupcicle, Binturong, Ranger Beaver, Castle Hermit Crab, Flower Power Duckling, Happy Duckling, Black Macaque, Tarsier, Koala, Highland Cow, Irish Elk, Eggnog Dog, Pink Betta Fish, Mr. Whiskerpips, Mirai Moth, Scarecrow Cat, Indian Flying Fox |
-| 08:20 | **wekwew70**: Lion (FR) | **isabella68078**: Fly-A-Pet Potion ×7 |
-| 08:20 | **tengiketao123443**: Fly-A-Pet Potion, Red Sand Dollar (R) | **folow_lera0**: Pupcicle (N) |
-| 08:20 | **userulikk**: 2022 Birthday Cake, Shark Puppy (R), Ride-A-Pet Potion | **Hasiiiiiiiiiiiii**: Cow (FR) |
-| 08:20 | **xiakusu**: Grim Dragon (MFR), Siamese Cat (MFR) | **my_frogys**: Cabbit (MFR) |
-| 08:20 | **trendypopcon**: Elephant (R) ×2, Pig (NR), Shrew, Red Dutch Guinea Pig (R), Red Dutch Guinea Pig, Banana Hat, Chocolate Dutch Guinea Pig, Bauble Buddies (MR), Ride-A-Pet Potion | **Ilovedarya35**: Chocolate Chip Bat Dragon (FR) |
-| 08:20 | **avervuu**: Turtle (FR), Turtle, Turtle (NFR), Rainbow Maker, Cow (FR), Candicorn (FR) | **uwumaska5**: Owl (FR) |
-| 08:20 | **yshikza**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **AdmXyleenah_Alt**: Spring Bunny Hood |
-| 08:20 | **HOCOKKU**: Bat Wings, Chicken Hat, Duck Floatie, Elf Shoes, Pink Hightops, Flower Wings | **Alecsandra3107**: Fly-A-Pet Potion |
-| 08:20 | **forso_manyacc**: Ride-A-Pet Potion ×4 | **remuplayz301**: Halloween White Ghost Dragon (FR) |
-| 08:20 | **NjOjwIvjTxQ**: Silverback Gorilla ×7 | **oxokm1**: Cactus Friend (MFR), Chameleon (MFR), Shark Puppy, Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
