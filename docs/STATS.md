@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 10:25 UTC by the scrape workflow._
+_Updated 2026-11-21 10:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 10:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 32,742 | 2026-11-21T10:15 |
-| elve | 11 | 6,939 | 2026-11-21T10:15 |
+| amvgg | 11 | 33,006 | 2026-11-21T10:30 |
+| elve | 11 | 7,003 | 2026-11-21T10:31 |
 
-## AMVGG completed trades: 43,411 total
+## AMVGG completed trades: 43,437 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,612 |
+| 2026-11-21 | 1,638 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 10:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:25 | **non_nomer11**: Violet Butterfly | **aurorafox679**: Binturong, Cattuccino (N), Cattuccino ×2, Crystal Egg |
-| 10:25 | **altego002**: Naughty Mistletroll (MFR), Dragonfruit Fox | **Andres_agent**: Ice Golem (MFR) |
-| 10:25 | **ohinam**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **korylory67**: Blue Dog (FR) |
-| 10:25 | **PH_HYPER**: Munchkin Cat (R), Ride-A-Pet Potion | **megamind123924**: Shark Puppy (FR) |
-| 10:25 | **babya85X**: Silverback Gorilla (FR), Sushi Penguin | **sonosuoradaunpo**: Copycat (FR) |
-| 10:25 | **NotSweatyOnion**: Fly-A-Pet Potion ×3 | **xiparo**: Pain au Chat ×18 |
-| 10:20 | **cxltwaste**: Dalmatian (FR), Rain Cloud Hat, Fly-A-Pet Potion | **Ruben87Yt1**: Royal Mistletroll (NFR) |
-| 10:20 | **Aggr0berlin**: Mahi Mahi (M), Mexican Wolf (M), Milk Choccybunny (M) | **Ruben87Yt1**: Golden Walrus |
-| 10:20 | **Stephanie58241**: Frost Unicorn (R), Fly-A-Pet Potion ×2 | **Kotik_tommi1**: Turtle (FR) |
-| 10:20 | **oatt1e**: African Wild Dog (FR), Giant Panda (FR) | **dannysniche**: Cryptid (NFR), Unicorn Horn, Spring Bunny Nose |
-| 10:20 | **Basilisk345s**: Cow (FR), Peppermint Penguin (FR), Fly-A-Pet Potion ×3 | **i111kwm**: Arctic Reindeer (FR) |
-| 10:20 | **iamnoonetobehere**: Matcha Cat | **trafuol**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 10:20 | **cjut1i**: Royal Egg ×4 | **M1cahsWRLD**: Choco Penguin |
-| 10:20 | **MM_Cloud**: Crystal Egg ×15 | **starswirl_64**: Ride-A-Pet Potion |
-| 10:20 | **itz_ChenJianYan9**: 2022 Birthday Confetti Cannon, Fly-A-Pet Potion | **Sour_L3mon34**: Border Collie (R) |
+| 10:30 | **cloudy_cloudimup**: Munchkin Cat | **flears_brai**: Haetyphoon |
+| 10:30 | **oneofmymanyaltts11**: Hot Doggo, Goose, Pig, Flaming Fox (N), Praying Mantis (M), Red Dutch Guinea Pig, Donut Cycle, Sheeeeep | **GHALA704**: Evil Unicorn (R) |
+| 10:30 | **Kui_Yeager**: Fairy Bat Dragon (NFR), Zombie Wolf (MFR), Unicorn Horn, Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **1mpactOO**: African Wild Dog (R) |
+| 10:30 | **good_vibesgirl09**: Ride-A-Pet Potion ×5 | **Peeps_chan25**: Harp Seal (N) |
+| 10:30 | **PK87138**: Halloween White Ghost Dragon (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×2 |
+| 10:30 | **xiparo**: Pain au Chat ×18 | **Bumble_Lou**: Fly-A-Pet Potion ×3 |
+| 10:30 | **Duality_RBLX**: Mini Pig (MFR) | **SavageFox_Alpha1**: Giraffe (FR) |
+| 10:30 | **Elwanizk**: Chihuahua | **Jenniea264**: Retired Egg ×18 |
+| 10:30 | **kj_1xa**: Giant Panda (FR), Candyfloss Chick (FR), Albino Bat (NFR), Black Chow-Chow (NR), Ghostly Cat (NR), Sneak Weasel (M) | **aabeeyg**: Parrot (FR) |
+| 10:30 | **Star_Lord010**: Silverback Gorilla (MFR), Frostbite Bear (R), Frostbite Bear, Siamese Cat, Orchid Butterfly (FR), Orchid Butterfly (F) | **rayswardrobe**: Cabbit (MFR), Cow (FR) |
+| 10:30 | **Crystal_34530**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Skiaksn**: Santa Hat, Elf Hat |
+| 10:30 | **elliema_4**: Mini Pig (MFR), Flamingo (MFR), French Bulldog (MFR) | **cuthbertbean**: Goose (MFR), Sugar Glider (MFR) |
+| 10:30 | **Arose_bells**: Easter 2020 Egg ×2 | **ymniy_natasha**: Ride-A-Pet Potion ×2 |
+| 10:30 | **elcob65**: Gemstone Egg ×11 | **HJKGVNib**: Copycat |
+| 10:30 | **Lvxverhim**: Unicorn Horn, Cake Friend (MFR) | **Max051812**: Cow (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
