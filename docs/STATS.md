@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 22:46 UTC by the scrape workflow._
+_Updated 2026-11-21 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 22:46 UTC by the scrape workflow._
 | amvgg | 11 | 45,654 | 2026-11-21T22:45 |
 | elve | 11 | 9,927 | 2026-11-21T22:46 |
 
-## AMVGG completed trades: 47,032 total
+## AMVGG completed trades: 47,080 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 5,233 |
+| 2026-11-21 | 5,281 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 22:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **dfyuisdhfyusdavgbyhu**: Owl (FR), Evil Unicorn (FR), Ride-A-Pet Potion ×3 | **AvokadoJFKfanat**: Goat (MFR), Honey Badger (MFR), Ring-Tailed Lemur (MFR), Tiny Wings |
-| 22:45 | **OBSESSI0NSESS1ON**: Frostbite Bear (MFR), Arctic Dusk Dragon (MR), Aurora Fox (MFR), Kookaburra (MFR) | **DoughnutDucks**: Blazing Lion (NFR) |
-| 22:41 | **amvggtradingalt9**: Strawberry Shortcake Bat Dragon (FR) ×2, Tio De Nadal (R) ×3, Frostbite Bear (FR), Frostbite Bear, Strawberry Tortle, Bush Elephant (FR) | **bruh_what2207**: Frost Dragon (FR) |
-| 22:41 | **xxrobinxx6359**: Cow (FR) | **Hewi2491**: Peppermint Penguin (FR), Ride-A-Pet Potion |
-| 22:41 | **zombi_Meow67**: Maine Coon, Albino Bat (R) | **42ief**: Ride-A-Pet Potion |
-| 22:41 | **joveon23**: Turtle (NFR), Turtle (FR) | **EthanNovaZoom2024**: Arctic Reindeer (FR) |
-| 22:41 | **aabeeyg**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **AMOANICOLE78**: Tiny Wings |
-| 22:41 | **3lind3r**: Turtle (R), Ride-A-Pet Potion | **extrellasi**: Alpaca (R) |
-| 22:41 | **Star_Lord010**: Cryptid (R), Caelum Cervi (N), Flaming Fox (NR), Ride-A-Pet Potion ×5 | **20O2_s**: African Wild Dog (FR) |
-| 22:41 | **Russischx**: Giant Panda (FR), Cryptid (NFR), Head Chef | **Green_cocoa1**: Giraffe (FR) |
-| 22:41 | **RACHGL4MXO**: Skelicorn (MFR), River Otter (M) | **elenakrytaya333**: Fly-A-Pet Potion ×3 |
-| 22:41 | **gabsotuff**: Ride-A-Pet Potion ×3 | **XxxSachaxxX1**: Respectful Mustache, Butter Knife, Balloon Dog, Cheese Hat, Summer Straw Hat |
-| 22:41 | **phisho7is**: Ride-A-Pet Potion ×4 | **R4kert**: Fallow Deer (R) |
-| 22:41 | **jellofox2009**: Fly-A-Pet Potion ×18 | **iaMatthieu1**: Goose (FR) |
-| 22:41 | **unuunu82**: Frost Dragon (MFR) | **cannotaffordme**: Arctic Reindeer (MFR) ×3, Hare (MFR) ×2 |
+| 22:51 | **Lunaflower2020**: Matcha Cat, Unicorn (MFR), Zombie Buffalo (FR) | **yasukie7u7**: 2022 Birthday Party Hat |
+| 22:51 | **d3d3d89**: Fly-A-Pet Potion, Monkey (R) | **xxxxproxxxx5500**: Pet Handler Pro Certificate |
+| 22:51 | **Benutzername3707**: Retired Egg ×18 | **Hellokitty_loves941**: Admin Abuse Egg ×8 |
+| 22:51 | **iaMatthieu1**: Sugar Glider (R) | **tr4d3s_adoptnew**: Border Collie (R), Christmas Pudding Pup, Shrew, Elf Hat, Elf Shoes, Elf Bandana, Ride-A-Pet Potion |
+| 22:51 | **ssceneury**: Crystal Egg ×17 | **irusik_rbx0**: Paint Sealer ×12 |
+| 22:51 | **Hehe_hehehehehehehh0**: Retired Egg ×2, Royal Egg ×2, Admin Abuse Egg, Endangered Egg ×2, Fairytale Egg ×11 | **Lera_mi863**: Ride-A-Pet Potion |
+| 22:51 | **b1beHw4tzurnim**: Retired Egg ×12 | **abbyissocool_lol**: Chihuahua |
+| 22:51 | **Kuboyasu_saiki**: Snow Monkey (MFR), Ice Cream Cone Hat | **7a1sha**: Turtle (NFR) |
+| 22:51 | **backsiz**: Chocolate Chip Bat Dragon (R), Ride-A-Pet Potion | **iiSadMango**: Strawberry Shortcake Bat Dragon (R) |
+| 22:51 | **3lind3r**: Jumpscare (M), Thunderfisher (N), Clumpty (N), Snow Cat (N) | **Sleepy_Sonya112**: Ride-A-Pet Potion |
+| 22:51 | **KanskjeMatilde**: Latte Kitsune (FR), Ride-A-Pet Potion | **CutestAstro**: Jester Dragon (FR) |
+| 22:51 | **Darihkc**: Dalmatian (FR), Ride-A-Pet Potion | **6ldmoney**: Munchkin Cat (MFR) |
+| 22:51 | **jArYnAa**: Crow (FR) | **ELVEAMVGGTRADER890**: Kangaroo (FR) ×5, Candicorn (FR), Candicorn, Turtle (FR) |
+| 22:51 | **aIcremie_s**: Albino Bat (F), Ice Cream Heels | **stoIencorpses**: Fly-A-Pet Potion |
+| 22:51 | **Arialt395**: Muskrat (M), 2026 Birthday Butterfly (M), Border Collie (FR) | **f_eeshy**: Elephant (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
