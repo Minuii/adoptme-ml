@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 11:25 UTC by the scrape workflow._
+_Updated 2026-11-21 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 33,721 | 2026-11-21T11:15 |
-| elve | 11 | 7,153 | 2026-11-21T11:15 |
+| amvgg | 11 | 33,987 | 2026-11-21T11:30 |
+| elve | 11 | 7,224 | 2026-11-21T11:31 |
 
-## AMVGG completed trades: 43,643 total
+## AMVGG completed trades: 43,644 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,844 |
+| 2026-11-21 | 1,845 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,7 @@ _Updated 2026-11-21 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:30 | **qhar26**: Bat Dragon (FR), Parrot (FR), Chocolate Chip Bat Dragon (NFR) ×2, Strawberry Shortcake Bat Dragon (NFR) ×2, 2022 Birthday Party Hat, Unicorn Horn ×2, Goose (FR), Kangaroo (FR), Copycat | **akzoad**: Balloon Unicorn (MFR) |
 | 11:25 | **huheuuik**: Monkey King (FR), Turtle (FR), Peppermint Penguin (R), Royal Mistletroll, Ride-A-Pet Potion | **qkrbed**: Cryptid (FR) |
 | 11:25 | **KoTuK_176**: Alley Cat, Ride-A-Pet Potion ×2, Arctic Fox (FR) | **Mwlexxs**: Lion (R), Banana Plush, Tutu |
 | 11:25 | **h4_cd**: Pet Handler Pro Certificate, Alicorn | **deffoluciee**: Ride-A-Pet Potion ×2 |
@@ -50,7 +51,6 @@ _Updated 2026-11-21 11:25 UTC by the scrape workflow._
 | 11:25 | **riler0982**: Ghost Bunny (MFR), Propeller Hat, Eco Brown Earth-Wizard Hat, Eco Orange Pumpkin Pie Wings, Strawberry Hat, Back Taco | **akbasakit**: Monkey King (FR) |
 | 11:25 | **BIazender**: Lynx (NR) | **Unicornich0**: Fly-A-Pet Potion, Ride-A-Pet Potion |
 | 11:25 | **nastushapobeda15**: Winged Tiger (R) | **aliir1875**: Arctic Fox, Ride-A-Pet Potion ×6 |
-| 11:25 | **hanb3ki**: Spinning Cat Animated Sticker, Fly-A-Pet Potion | **ccryingsorrows**: Unicorn Horn |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
