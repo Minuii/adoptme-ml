@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 01:46 UTC by the scrape workflow._
+_Updated 2026-11-21 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 01:46 UTC by the scrape workflow._
 | amvgg | 11 | 24,297 | 2026-11-21T01:45 |
 | elve | 11 | 5,266 | 2026-11-21T01:46 |
 
-## AMVGG completed trades: 42,080 total
+## AMVGG completed trades: 42,096 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 281 |
+| 2026-11-21 | 297 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 01:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:40 | **batton0955**: Ride-A-Pet Potion ×4 | **loiol1004**: Grave Owl (M) |
-| 01:40 | **MM_Cloud**: Crystal Egg ×15 | **abbyissocool_lol**: Ride-A-Pet Potion |
-| 01:40 | **niyashimo**: Kangaroo (FR), Kangaroo, Peachick (N) | **ii_aldrin20**: Kangaroo (NFR) |
-| 01:40 | **goodvibez_forlife**: Great Pyrenees (MFR) | **StanleyHayden5**: Chocolate Chow-Chow (MFR) |
-| 01:40 | **Elysia_4387**: Pupcake (MFR), Majestic Pony (NFR), Rain Cloud Hat, 2022 Birthday Confetti Cannon, Tiny Wings, Spring Bunny Nose | **PixiePawsTrade**: Rainbow Maker |
-| 01:40 | **Luna_pumpkin2011**: Flamingo (FR), Chihuahua (N) | **Tea_found**: Chihuahua (M), Ice Cream Cone Hat, Spring Bunny Hood |
-| 01:40 | **martins10530**: Ride-A-Pet Potion ×2 | **mimi240666**: Dragonfruit Fox |
-| 01:40 | **0o0Username0o0**: Ibex (M), Fly-A-Pet Potion | **Nasha1ra**: Jester Dragon |
-| 01:40 | **Panci_Terbang33**: Pupcicle ×3 | **silliegur**: Fly-A-Pet Potion |
-| 01:40 | **donnotinteract**: Haetae (FR) | **soy_anonim6**: Mini Pig (FR), Cow (FR), Cow (R), Unicorn Horn |
-| 01:40 | **SerenaWolfWarrior**: Blazing Lion (FR) | **xezviii**: Rainbow Maker ×2 |
-| 01:40 | **Qyung_1**: Pupcake (MFR), Emu (MFR), Ghost (NFR), River Otter (M) | **nasakiffykoangrosas**: Elephant (FR) |
-| 01:40 | **Xyzxelle**: Strawberry Shortcake Bat Dragon Backpack, Head Chef, Spring Bunny Feet, Butter Knife, Police Cap | **PixiePawsTrade**: Rain Cloud Hat |
-| 01:40 | **itskayeeee**: Ride-A-Pet Potion ×16 | **Z_Alexis22**: Kangaroo (FR) |
-| 01:40 | **shenshenzzz14**: Phoenix | **VvK1e**: Ride-A-Pet Potion |
+| 01:55 | **Shareli999**: Giant Panda (R), Spring Bunny Nose | **manualep8**: Giant Panda (FR) |
+| 01:55 | **Ridon2093**: Bat Dragon (MFR), Cryptid (FR) ×2, Lava Dragon (NFR) | **roblox_user_4904540593**: Shadow Dragon (MFR), Frost Dragon (MFR), Bat Dragon (FR) ×2 |
+| 01:55 | **gthstnr**: Undead Jousting Horse (FR) | **manualep8**: Goose (FR) |
+| 01:55 | **AlastorDanger**: Matcha Cat (FR), Ride-A-Pet Potion | **mochaberryss**: Munchkin Cat |
+| 01:55 | **Preppy_cleoooo**: Munchkin Cat (R), Fly-A-Pet Potion | **mychemgeek**: Shark Puppy (FR) |
+| 01:55 | **mellqxxrb**: Count Slothula ×3 | **noobek8282**: Fly-A-Pet Potion |
+| 01:55 | **lifestyle1312**: S'mores Raccoon | **fallingmist_vic**: Harp Seal |
+| 01:55 | **elmenpobre8**: Caterpillar (MFR) | **kuachileo3**: Sugar Axolotl (MFR) |
+| 01:55 | **hhearts44danaa**: Cow (NFR), Pain au Chat (MFR) | **D0nni3Dark0s**: Munchkin Cat (MFR) |
+| 01:55 | **sufferingtogether**: Ride-A-Pet Potion ×3, Pet Handler Pro Certificate ×2, Unicorn ×4, Shiba Inu (M), Bunny (M), Jumpscare (M), Poodle (M), Blue Butterfly (M), Cat (M), Dog (M), Ms. Muffet (M), Amethyst Skies Mega Neon Paint | **eyebagsq**: Candicorn (R) |
+| 01:55 | **sufferingtogether**: Goose (FR), Ride-A-Pet Potion ×3, Pet Handler Pro Certificate ×2 | **eyebagsq**: Candicorn (NFR) |
+| 01:55 | **sufferingtogether**: Goose (FR) | **eyebagsq**:  |
+| 01:55 | **qlltm**: Head Chef, Werewolf (R), Tortuga de la Isla (FR) | **Tea_found**: Seabed Creeper (MR), Crocodile (FR), Caelum Cervi |
+| 01:55 | **Omar2002548**: Winged Tiger (FR) | **Y4N_D3V**: Winged Tiger |
+| 01:55 | **sufferingtogether**: Shiba Inu (M), Bunny (M), Poodle (M), Blue Butterfly (M), Cat (M), Dog (M), Ms. Muffet (M), Pinkypillar (M) | **eyebagsq**: Ride-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
