@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 02:41 UTC by the scrape workflow._
+_Updated 2026-11-21 02:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 02:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 25,098 | 2026-11-21T02:30 |
-| elve | 11 | 5,406 | 2026-11-21T02:31 |
+| amvgg | 11 | 25,332 | 2026-11-21T02:45 |
+| elve | 11 | 5,482 | 2026-11-21T02:46 |
 
-## AMVGG completed trades: 42,239 total
+## AMVGG completed trades: 42,241 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 440 |
+| 2026-11-21 | 442 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,8 @@ _Updated 2026-11-21 02:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:45 | **NatsukiNekoCat**: Ride-A-Pet Potion, Pro Ghost Blaster | **alyssaistuffyy**: Pupcicle ×2 |
+| 02:45 | **Pulseq3Void63Echo174**: Pain au Chat, Chihuahua, Scarecrow Cat, Scarlet Butterfly, Koi Carp, Water Moon Bear | **auixiss**: Fly-A-Pet Potion |
 | 02:41 | **puchainela77**: Ride-A-Pet Potion, Ghost Dog | **itsvaleriaotz**: Wood Pigeon |
 | 02:41 | **stoIencorpses**: Strawberry Shortcake Bat Dragon Backpack | **dnei30fast**: Fly-A-Pet Potion ×3 |
 | 02:41 | **sxii20**: Cryptid (R) | **CamilleandJustina100**: Goose (FR), Alpaca, Grim Dragon (FR), Border Collie, Pig (FR), Spring Bunny Feet, Spring Bunny Nose |
@@ -49,8 +51,6 @@ _Updated 2026-11-21 02:41 UTC by the scrape workflow._
 | 02:36 | **Justformoneybrolol**: Bat Dragon (FR), Shadow Dragon (FR), Frost Dragon (FR), African Wild Dog (R), Giant Panda (FR) | **natesctrl**: Bat Dragon (NFR) |
 | 02:36 | **Trixieli0000**: Skelicorn (N) ×2 | **Hey_Dant123**: Ride-A-Pet Potion |
 | 02:36 | **xolvrxo**: Fossa (N) | **0MGSARAY**: Unfortunate Eyelashes |
-| 02:36 | **Starlight_ZolsGirl**: Cattuccino ×2, Abyssinian Cat (N) | **Amirdl**: Candle |
-| 02:36 | **Cc1n0x**: Kangaroo (FR) | **0MGSARAY**: Quokka (M), Tutu, Spring Bunny Hood, Spring Bunny Feet, Butter Knife |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
