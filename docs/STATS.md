@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 23:11 UTC by the scrape workflow._
+_Updated 2026-11-21 23:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 23:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 45,912 | 2026-11-21T23:00 |
-| elve | 11 | 10,005 | 2026-11-21T23:01 |
+| amvgg | 11 | 46,171 | 2026-11-21T23:15 |
+| elve | 11 | 10,040 | 2026-11-21T23:15 |
 
-## AMVGG completed trades: 47,146 total
+## AMVGG completed trades: 47,158 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 5,347 |
+| 2026-11-21 | 5,359 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 23:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:15 | **elfania_3**: Jousting Horse (NFR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **by_SofiYT**: Turtle (FR) |
+| 23:15 | **cesarx_o**: Tortoiseshell Guinea Pig (NFR), Mermicorn (FR) | **TANSKlN**: Fairy Bat Dragon (NFR), Ride-A-Pet Potion ×5 |
+| 23:15 | **Oreobut_cat**: Coyote (MR), Feesh (MR) | **Deamh_1**: Gecko (N) ×2, Shadow Dragon Ducky (N), Leopard Cat (N), Ermine (NR), Snowball Pet (NR) |
+| 23:15 | **deeplishpou**: Tiny Wings | **Foodie_Caat**: Bunny Swirl (MFR) |
+| 23:15 | **lolcryabtit6767**: Goat (MFR), Giant Gold Scarab | **pawthetiic**: Irish Water Spaniel (MFR) |
+| 23:15 | **p1nkunicornsparkles1**: Pink Cat (MFR) | **Gabriele143love**: Field Mouse (MFR) |
+| 23:15 | **dollxx_zz**: Pet Handler Pro Certificate ×9 | **EthanNovaZoom2024**: Kangaroo (FR) |
+| 23:15 | **le_774**: Crow (NFR), Crow (FR), Frost Dragon (FR), Kangaroo (FR) | **kvbuss010**: Giraffe (NFR) |
+| 23:15 | **Sonykirl**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **iaMatthieu1**: Cow (FR) |
+| 23:15 | **Iluvhotcocox**: Peppermint Penguin (R) | **Rylo122414**: Goose |
+| 23:15 | **lildaminii**: Ride-A-Pet Potion ×5 | **ZEK34COMODIN**: Jester Dragon (R) |
+| 23:15 | **Shxdow_scxobs**: Chocolate Chip Bat Dragon (R), Nautilus (MFR), Wolf (MR) | **FcNikita24**: Arctic Reindeer (FR) |
 | 23:11 | **HELENA_GUEMER12494**: Pupcicle (N), Fly-A-Pet Potion | **jazunica22**: Tanuki (M) |
 | 23:11 | **Hahahjajajo**: Frostbite Bear (MFR), Rainbow Maker, Ghost Bunny (MR), Rain Cloud Hat, Cake Friend (MFR), Unicorn (NFR), Pig (FR) | **ziggylili0**: Giraffe (FR) |
 | 23:11 | **Lxdyxx**: Amami Rabbit (MFR), Amami Rabbit (M), General Sheepdog (M), Chocolate Dutch Guinea Pig (N), Winter Deer Family Sticker | **Carashelper13**: Husky (MFR) |
-| 23:11 | **Wwwaaa_681**: Indian Flying Fox (MFR) | **frecalsplogeok9**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 |
-| 23:11 | **avneetkool**: Frost Fury (FR) ×2, Cocoadile (MFR), Angus Cow (N) | **Imrahmirthegreat9**: Frost Fury (NFR) |
-| 23:11 | **licycosmic**: Tortuga de la Isla (MFR), Munchkin Cat (MFR), Tuxedo Cat (MFR) | **alwyzchlqe**: Caterpillar (MFR) |
-| 23:11 | **xXLixoradkaXx**: Pterodactyl (NFR), Snowy Mammoth (N), Frozen Penguin (N), Icy Porcupine (N) | **6evesvokhaha**: Indian Flying Fox (NFR) |
-| 23:11 | **GTXZR9_z**: Count Slothula (MR), Skelicorn (M), Fly-A-Pet Potion ×2, Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×5 | **crybabydoIl**: Mule (MR) |
-| 23:11 | **dannysniche**: Cryptid (NFR), Copycat | **ADOPTME_TRADE596**: Parrot (FR), Dalmatian (R) |
-| 23:11 | **Lumina20265**: Ride-A-Pet Potion | **zarmeowz**: Zombie Wolf |
-| 23:11 | **jjuussttiinnaa**: Strawberry Shortcake Bat Dragon (NFR), Papa Moose (R), Arctic Fox | **VoidYTWasTaken**: Cryptid |
-| 23:11 | **lovewqnted**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **stoIencorpses**: Love Bird (MFR) |
-| 23:11 | **TrueGemz**: Pirate Ghost Capuchin Monkey (MFR), Sugar Axolotl (MFR), Snow Monkey (MFR) | **beatsvic**: Sugar Glider (MFR) |
-| 23:11 | **HannaMontanasing**: Owl (FR), Crow (FR), Strawberry Shortcake Bat Dragon (FR) ×3, Dalmatian (FR) | **AddmainDeinemam_667**: Cow (MFR), Sugar Glider (MFR), Groundhog (MFR), Tiny Wings |
-| 23:11 | **ki1wilov**: Maine Coon (N), Halloween Black Mummy Cat (N), Bandicoot (N), Dolphin (NR) | **pinky_96702**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
