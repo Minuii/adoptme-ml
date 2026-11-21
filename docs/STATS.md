@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 11:01 UTC by the scrape workflow._
+_Updated 2026-11-21 11:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 11:01 UTC by the scrape workflow._
 | amvgg | 11 | 33,481 | 2026-11-21T11:00 |
 | elve | 11 | 7,133 | 2026-11-21T11:01 |
 
-## AMVGG completed trades: 43,523 total
+## AMVGG completed trades: 43,579 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,724 |
+| 2026-11-21 | 1,780 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 11:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:00 | **Pandalovedogss**: Ride-A-Pet Potion, Chick Hat | **NyctophilianDelusion**: Chihuahua ×3 |
-| 11:00 | **MiLa_qtx14**: Kangaroo (FR) ×2 | **Vitek_228666**: Kangaroo (NFR) |
-| 10:55 | **p_awth**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 | **i111kwm**: Peppermint Penguin (FR) |
-| 10:55 | **Dinkarrt**: Kangaroo (FR), Shark Puppy | **cerialconchocomil**: Fairy Bat Dragon (FR) |
-| 10:55 | **xiparo**: Pet Handler Pro Certificate ×3 | **kotik_2011080**: Fly-A-Pet Potion ×3 |
-| 10:55 | **rvlixrisa**: Tiny Wings, Purrowl (N), Fire Horse Apple, Heart Bow | **ashplayingrobloxwith**: Toaster Hat |
-| 10:55 | **starswirl_64**: Halloween Evil Dachshund ×4 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 10:55 | **7pctuxx**: Hot Doggo (R) | **Gdgcxhggg**: Cow (FR) |
-| 10:55 | **Adoptic2**: Rain Cloud Hat, Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Queenayeshacutegirl**: Turtle (FR) |
-| 10:55 | **aoorski**: Frostbite Bear (NR) | **misterbobbyes**: Arctic Reindeer (FR) |
-| 10:55 | **shabsiscute**: Nessie (FR), Sheeeeep (FR) | **VvK1e**: Shark Puppy (FR), Ride-A-Pet Potion |
-| 10:55 | **Babielily1**: Tiny Wings, Unicorn Horn, Spring Bunny Hood, Cotton Candy Hat, Pretty Please Snowball Sticker, Eaten Donut ×2, Ride-A-Pet Potion | **Josefine30082011**: Mini Pig (FR) |
-| 10:55 | **Sonyaccccccc**: Sushi Penguin, Badger (R), Ginger Cat (R), Merhorse (R), Purrowl, Halloween Black Ponycycle, Lava Racer, Banana Car | **wskdaks**: Lynx (NFR) |
-| 10:55 | **Yupiterd**: Crystal Egg ×12 | **ALTUSHKA_80**: Ride-A-Pet Potion |
-| 10:55 | **tisha_sally**: Kiwi Kiwi ×2, Pain au Chat ×3, Chihuahua ×2 | **ALTUSHKA_80**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 11:11 | **lolo247243**: Peach Owl (NR), Pain au Chat | **quietlyangel**: Ride-A-Pet Potion ×4 |
+| 11:11 | **FlyToTheSaturn**: Millionaire Mansion | **varmitrof**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 11:11 | **evnsyrq**: French Bulldog (NR), Polar Bear (NR), Frost Fury (FR) | **derbesteglebe**: Turtle (FR) |
+| 11:11 | **wskdaks**: Mochi Meow (M) | **luzmi119**: Unicorn, Pupcicle, Cuddly Candle |
+| 11:11 | **HOFIISNUKR**: Dimension Drifter (NR), Puptune (R), Ice Moth Dragon (R), Griffin (R), Garden Snake (R) | **adopt201433**: Reindeer (NFR) |
+| 11:11 | **Kiki_sunik**: Peppermint Penguin, Ride-A-Pet Potion | **cillatuebaddie**: Goose |
+| 11:11 | **asia2023k**: Copycat (N), Copycat (R), Ride-A-Pet Potion ×4, Turtle (FR), Arctic Fox, Fly-A-Pet Potion ×3, King Bee (NR) | **xerkatra**: Arctic Reindeer (FR) |
+| 11:11 | **l3gavaya**: Snow Cat (M), Jacobin Pigeon (M) | **Amina2013Amina2**: Ride-A-Pet Potion |
+| 11:11 | **s_coki**: Water Rabbit ×2, Amami Rabbit | **gottloveemayaa**: Ride-A-Pet Potion ×2 |
+| 11:11 | **Llllllllllo0ow**: Tiny Wings ×2, Arctic Dusk Dragon (R) | **cocothemoco1231**: 2022 Birthday Party Hat |
+| 11:06 | **Chase_34796**: Goat (MFR), Jekyll Hydra (MFR), Bald Eagle (NFR) | **KinaToons**: Shadow Dragon (FR) |
+| 11:06 | **s0larzxxxx**: Cherry-On-Top, 2022 Birthday Party Hat, 2022 Birthday Cake, Rain Cloud Hat, Ballet Swan (NFR) ×2 | **quietlyangel**: Irish Water Spaniel (MFR) |
+| 11:06 | **Im_DonntKnow**: Leopard Shark | **Shanslaaaaaaay**: Pupcake, Yeti, Bloodhound |
+| 11:06 | **Lazykingufc**: Fly-A-Pet Potion | **SpaghettiBolognese_w**: Dugong (M) |
+| 11:06 | **Cinzsins**: Werewolf (MFR), Haetae (R), Copycat (MFR), Munchkin Cat (MFR), 2022 Birthday Party Hat, Chef Hat, Hero Mask, Ride-A-Pet Potion | **oxoglockz**: Owl (NFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
