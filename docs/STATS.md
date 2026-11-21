@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 19:40 UTC by the scrape workflow._
+_Updated 2026-11-21 19:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 19:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 42,271 | 2026-11-21T19:30 |
-| elve | 11 | 9,162 | 2026-11-21T19:31 |
+| amvgg | 11 | 42,536 | 2026-11-21T19:45 |
+| elve | 11 | 9,227 | 2026-11-21T19:46 |
 
-## AMVGG completed trades: 46,218 total
+## AMVGG completed trades: 46,241 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,419 |
+| 2026-11-21 | 4,442 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 19:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:40 | **Tyyyyy_tyy1**: Picnic Basket | **MissMaryCornfield**: Retired Egg ×12 |
-| 19:40 | **Idoquicktrades**: Cow (FR) | **MacarronCheese**: Frost Phoenix (MFR) |
-| 19:40 | **Dasha_melasha212**: Pet Handler Pro Certificate | **diiorrvi**: Ride-A-Pet Potion ×2 |
-| 19:40 | **4qbxania**: Lion Cub (MFR), Mule (MFR) | **carterdelaney1**: Irish Water Spaniel (MFR) |
-| 19:40 | **Free_Bro428**: Moonbeam Butterfly, Chick | **chantellehatesyou**: Moonbeam Butterfly (R) |
-| 19:40 | **piano29th**: Cryptid (FR), Cow (NFR), Many Mackerel (FR) | **vika000rrr**: Diamond Butterfly (NFR) |
-| 19:40 | **KanskjeMatilde**: Strawberry Shortcake Bat Dragon (NFR), Ride-A-Pet Potion | **NIKA647374**: Strawberry Shortcake Bat Dragon, Arctic Reindeer (FR), Tiny Wings |
-| 19:40 | **dracullascastle**: Matcha Cat, River Otter (M), Nurse Shark (R), Pain au Chat, Slimingo (F) | **dusk_moon23**: Munchkin Cat |
-| 19:40 | **q_culvs**: Red Squirrel (MFR), Flower Power Duckling (MFR), Moonlight Moth (MFR) | **Xavit_860**: Chocolate Dutch Guinea Pig (MFR) |
-| 19:40 | **north1chan**: Unfortunate Eyelashes, Summer Walrus Sunhat, Heart Bow | **emsterf42**: Ride-A-Pet Potion |
-| 19:40 | **Swetti_5meow**: Turtle (FR) ×2, Siamese Cat (FR), Munchkin Cat, Lion Cub, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×9, Catte (NR) | **BabyBacon_PoorSad**: Cryptid (FR) |
-| 19:40 | **cutezxnat**: Royal Palace Spaniel (MFR), Sunglider (MFR), Gecko (M), Irish Elk (MR), Hippo (MR), Grave Owl (MR) | **AnneFabrel2005**: Kangaroo (FR), Albino Monkey (FR), Blue Ringed Octopus (MFR) |
-| 19:40 | **cowlol898**: Border Collie (FR), Crocodile (R), Ride-A-Pet Potion ×2, Christmas Spirit (MFR) | **AdoptMe_noob087**: Cow (FR) |
-| 19:40 | **Amvgg_Amvggg**: Albino Monkey, Border Collie, Ride-A-Pet Potion ×6 | **daanz2**: Cow (FR) |
-| 19:40 | **matejs75**: Burger Bear (N) | **LotusEr11**: Ride-A-Pet Potion ×2 |
+| 19:45 | **Youdi_off**: Fly-A-Pet Potion ×3 | **rosi_7v70**: Frost Fury (FR) |
+| 19:45 | **RyukkHolder**: Kangaroo (FR), Matcha Cat, Toaster Hat | **RRegina_07**: Undead Jousting Horse (FR) |
+| 19:45 | **AER0NZ1X**: Pupcicle ×14, Pupcicle (N) | **Kattyloni**: Pupcicle (M) |
+| 19:45 | **XTREYT**: Butter Knife, Spring Bunny Feet | **milka2137396**: Spring Bunny Nose |
+| 19:45 | **Gamerqueen1255**: Gemstone Egg | **yxxrzzcoow**: Retired Egg ×18 |
+| 19:45 | **PrettyxDino**: Ram (MFR) | **ahmad_ali19**: Vanilla Penguin (MFR) |
+| 19:45 | **vynllama**: Evil Unicorn (FR) | **santii_css**: Aurora Fox (NR), Tuxedo Cat (MR), Happy Duckling (M), Golden Jaguar (MR), Glormy Hound (NFR), Tree Kangaroo (NR), Pirate Ghost Capuchin Monkey (FR), Highland Cow (M), Pink Betta Fish (M) |
+| 19:45 | **zeejnaa**: Owlbear (MFR), Lion (NFR), Spring Bunny Hood, Fly-A-Pet Potion ×2 | **unicornsprinkles2827**: Candicorn (MFR) |
+| 19:45 | **i0chei**: Dragonfruit Fox | **heltobrex**: Pandaguin Glooptodog (N), Pinkypillar (N), Pupcicle (R), Gemstone Egg |
+| 19:45 | **Callumgggg5**: Turtle (FR) ×2, Kangaroo (FR) | **httpxsari**: Strawberry Shortcake Bat Dragon (FR) |
+| 19:45 | **Lauti12pro**: Silverback Gorilla ×2, Silverback Gorilla (R), Catte (N) | **elves_2010**: Kangaroo (FR) |
+| 19:45 | **BabyBacon_PoorSad**: Ride-A-Pet Potion ×9, White Chef Hat | **diiorrvi**: Tiny Wings |
+| 19:45 | **toxicasfb**: Ride-A-Pet Potion, Happy Duckling | **Ebanko_rblx**: Chocolate Dutch Guinea Pig |
+| 19:45 | **JustJordan744**: Choco Penguin, Arctic Hare, Waffle Wyrm, Ginger Cat | **booseoks0on**: Highland Cow |
+| 19:45 | **EleNinja11**: Candicorn (R) | **M0wkaChan**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×6 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
