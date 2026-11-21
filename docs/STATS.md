@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 15:25 UTC by the scrape workflow._
+_Updated 2026-11-21 15:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 15:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 37,826 | 2026-11-21T15:15 |
-| elve | 11 | 8,073 | 2026-11-21T15:15 |
+| amvgg | 11 | 38,093 | 2026-11-21T15:30 |
+| elve | 11 | 8,149 | 2026-11-21T15:31 |
 
-## AMVGG completed trades: 44,719 total
+## AMVGG completed trades: 44,779 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 2,920 |
+| 2026-11-21 | 2,980 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 15:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:25 | **Junjyungg**: Chocolate Dutch Guinea Pig ×2 | **slothloverforever6**: Ride-A-Pet Potion ×3 |
-| 15:25 | **FlyToTheSaturn**: Mochi Meow (M), Black-Footed Ferret (MR), Muskrat (M), Shih Tzu (M), Triceratops (M) | **huntssr**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 15:25 | **Elwanizk**: Chihuahua | **Helpthisisanalt**: Retired Egg ×18 |
-| 15:25 | **Selus76**: Snowball Pet (R) | **eniaska_4**: Frostbite Cub (R) |
-| 15:25 | **hibiscusummer**: Candicorn, Jellyfish (R) | **0qwc0**: Alley Cat (NFR), Jellyfish (FR) |
-| 15:25 | **enmaanl0**: Cobra (R), Bolt (M), Pupcicle, Dragonfly | **galaxyx106**: Fly-A-Pet Potion |
-| 15:25 | **igvxruu**: Frost Fury (NFR), French Bulldog, Polar Bear, Ride-A-Pet Potion | **xxxxproxxxx5500**: Flamingo |
-| 15:25 | **stark_1025**: Sakura Spirit (NFR), Meerkat (R), Dire Wolf (M) | **Kinder_Pal**: Chocolate Dutch Guinea Pig (MFR) |
-| 15:25 | **ariaeaea**: Strawberry Shortcake Bat Dragon (FR) | **lemon_pizza1**: Aurora Fox (NR), Unicorn Horn, Tiny Wings, Goat (R), Fly-A-Pet Potion, Pupcicle |
-| 15:25 | **CloudAMs**: Crystal Egg ×15 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 15:25 | **Sofia1278458**: Arctic Fox (R), Chihuahua | **Xxxxashhhh**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
-| 15:25 | **yasmdass**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×3 | **MNJKLIPP**: Kangaroo (FR) |
-| 15:25 | **viksaaavn0**: Copycat, Fallow Deer (R) | **Molosonik**: Munchkin Cat |
-| 15:25 | **yxxrzzcoow**: Clover Cow (N), Three Blind Mice (N), Triple Stroller | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 15:25 | **lolo_gils**: Unicorn (NFR) | **MikB22**: Sheeeeep (R) |
+| 15:30 | **Elwanizk**: Chihuahua | **GirlyLaffy124**: Retired Egg ×18 |
+| 15:30 | **puchainela77**: Turkey (NFR) | **Ignxtius**: Wood Pigeon (N) |
+| 15:30 | **Wqe4xx**: Turtle (FR), Hyena (NFR), Crocodile, Pig (FR), Skele-Rex (NR) | **toybeau772**: Chocolate Chip Bat Dragon (FR) |
+| 15:30 | **0HD1v1n3**: 2021 Uplift Butterfly (N) | **chunlihasora**: Ride-A-Pet Potion |
+| 15:30 | **izviiyze**: Kangaroo (FR), Ride-A-Pet Potion | **shabsiscute**: Ice Cream Hermit Crab (NFR), Matcha Cat, Chocolate Dutch Guinea Pig, Royal Palace Spaniel |
+| 15:30 | **luvyerh**: Cow (FR) | **ki1wilov**: Crocodile (FR), Crocodile (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 |
+| 15:30 | **Danila121219**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×3 | **Cookie_Berry4234**: Crocodile (R) |
+| 15:30 | **tifany_kats**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **ariaeaea**: Goat (FR) |
+| 15:30 | **santazgrotto**: Retired Egg ×15 | **mofncufjs**: Pain au Chat |
+| 15:30 | **NLin_126**: Ride-A-Pet Potion ×9 | **s1m4kk**: Munchkin Cat |
+| 15:30 | **Dazzzle_1**: Crow (R), Cryptid, Hedgehog (R), Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cow ×2, Fairy Bat Dragon (R), Cabbit, Turtle (FR), Siamese Cat (R), Sheeeeep, Copycat, Hedgehog (FR) | **hanb3ki**: Bat Dragon (FR) |
+| 15:30 | **kawaiifaintedgirl**: Shadow Dragon Ducky (MFR) | **chezzycherrie08756**: Frost Fury (FR), Fly-A-Pet Potion |
+| 15:30 | **NastyaCat_Play2**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 | **kawaiifaintedgirl**: Turtle (FR) |
+| 15:30 | **Alina_2342164**: Bloodhound, Poodle ×3, Dog ×2 | **toybeau772**: Stray Cat Dragon |
+| 15:30 | **Klaysi_flayra**: Guardian Lion, Purrowl, Skelicorn, Robot ×4, Starfish ×2 | **slothloverforever6**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
