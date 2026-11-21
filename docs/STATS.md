@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 06:25 UTC by the scrape workflow._
+_Updated 2026-11-21 06:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 06:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 28,752 | 2026-11-21T06:15 |
-| elve | 11 | 6,146 | 2026-11-21T06:15 |
+| amvgg | 11 | 28,977 | 2026-11-21T06:30 |
+| elve | 11 | 6,213 | 2026-11-21T06:31 |
 
-## AMVGG completed trades: 42,755 total
+## AMVGG completed trades: 42,770 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 956 |
+| 2026-11-21 | 971 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 06:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:25 | **stoIencorpses**: Fly-A-Pet Potion ×18 | **P50**: Candy Hare (MFR) |
-| 06:25 | **yanahaltacc1**: Chihuahua ×3 | **roblox_user_5264045140**: Tuxedo Cat (R) |
-| 06:25 | **XiaoFaye1433**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2 | **krimpriiz**: Pupcicle (MFR) |
-| 06:25 | **Sanki56757**: Unicorn Backpack, Ant | **lou1slove**: Robo Dog (NFR) |
-| 06:25 | **Panci_Terbang33**: Pupcicle ×6 | **ikabackflip**: Fly-A-Pet Potion ×2 |
-| 06:25 | **Celineerr**: Panda (MFR), Red Dutch Guinea Pig, Ride-A-Pet Potion ×3 | **Elroy_maktum**: Harp Seal (MFR) |
-| 06:25 | **Bismuth234**: Fly-A-Pet Potion ×6, Green-Chested Pheasant ×2 | **NotSweatyOnion**: Frost Fury (NFR) |
-| 06:25 | **assapickle**: Ride-A-Pet Potion, Bison (M) | **BrooklynToxicGam3r**: Harp Seal |
-| 06:25 | **Marines_Natalia**: Unicorn | **Eurysnvge207785**: Capricorn (R) |
-| 06:25 | **UniversePaladin**: Copycat ×3, Count Slothula ×4 | **fallfashionn**: Candyfloss Chick (FR) |
-| 06:25 | **Bobothatdudehaha**: Zombie Wolf (M) | **starswirl_64**: Frostbite Bear (FR) |
-| 06:25 | **Minera_v1**: Ride-A-Pet Potion | **midnight215781**: Purrowl ×18 |
-| 06:25 | **Haipookie26**: Fishbone Badge, Red & Yellow Beads | **kobii_x**: Halloween White Skull Hat |
-| 06:25 | **DRZeBRol**: Frost Fury (NFR), Nautilus (MFR), Fly-A-Pet Potion ×3 | **NotSweatyOnion**: Turtle (FR) |
-| 06:25 | **1uvinqmarr**: Tutu, Jester Hat | **rainbow72679**: Thinking Hat |
+| 06:30 | **sonicpikmin7**: Jester Dragon (R) | **xoxsasha0**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 06:30 | **Penguinis_icey**: Cow (NFR) | **inlovewithyxuu**: 2022 Birthday Cake, Unicorn Horn, Rain Cloud Hat, Toaster Hat |
+| 06:30 | **Gillit_ariii**: Sugar Glider (R), Dango Penguins | **Starboy_3337**: Cabbit |
+| 06:30 | **rain_aas**: Frostbite Bear (NR) | **aoorski**: Arctic Reindeer (FR) |
+| 06:30 | **Kayorilate**: Goose (FR), Turtle (FR), Harp Seal (M), Spring Bunny Feet, Ride-A-Pet Potion | **Bread67pokoyo**: Dalmatian (FR) |
+| 06:30 | **TheRealChickenGem**: Chocolate Chip Bat Dragon (FR) | **Sydrexus**: Strawberry Shortcake Bat Dragon (R) |
+| 06:30 | **madislimeg**: Dragonfruit Fox (NFR) ×5 | **Sydrexus**: Chocolate Chip Bat Dragon (FR) |
+| 06:30 | **Z_Alexis22**: Bush Elephant (FR) | **relativeevidence**: Ride-A-Pet Potion ×15 |
+| 06:30 | **BrooklynToxicGam3r**: Ride-A-Pet Potion, Chocolate Chow-Chow, Hamster | **cotrot14**: Rat (M) |
+| 06:30 | **phonky_phonkacc2**: Fairy Bat Dragon (FR), Sugar Glider (R), Munchkin Cat, Groundhog | **naysa72**: Strawberry Shortcake Bat Dragon (FR) |
+| 06:30 | **ryz2e**: Dirty Ducky, Dog | **Daniel11122255**: Sandbox Island |
+| 06:30 | **addmysecondaccount**: Pretty Pony (MFR), Ride-A-Pet Potion ×2 | **dumdadadat0p**: Candicorn (FR) |
+| 06:30 | **nagumomimic2**: Ride-A-Pet Potion ×2 | **Halloween_Goat**: Pupcicle ×3 |
+| 06:30 | **ryz2e**: Golden Egg | **Daniel11122255**: Fairytale Castle |
+| 06:30 | **HaiiTchteru**: Rainbow Maker, Pupcicle (N) ×2, Pupcicle ×3, Dolphin (M) | **BaconsAreCool3210**: Arctic Dusk Dragon (MFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
