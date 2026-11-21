@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 05:25 UTC by the scrape workflow._
+_Updated 2026-11-21 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 27,739 | 2026-11-21T05:15 |
-| elve | 11 | 5,924 | 2026-11-21T05:15 |
+| amvgg | 11 | 28,000 | 2026-11-21T05:30 |
+| elve | 11 | 6,002 | 2026-11-21T05:31 |
 
-## AMVGG completed trades: 42,603 total
+## AMVGG completed trades: 42,628 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 804 |
+| 2026-11-21 | 829 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:25 | **milkwars**: Pupcicle (FR), Axolotl (R), Candy Hare (R), Bunny Swirl (R), Lamb (R), Primal Kaijunior (R), Purrowl (N), Frog (R) | **misu0326S2**: Matcha Cat (R) |
-| 05:25 | **xxXchange_Vibe**: Evil Unicorn (FR) ×2, Pupcicle (MR), Chihuahua (MFR), Chihuahua (M), Sloth (MFR), Turtle (FR), Spring Bunny Hood | **king_93071**: African Wild Dog (FR) ×2 |
-| 05:20 | **lydiabunii**: African Wild Dog (MFR), Peppermint Penguin (FR) | **Lvrsbrii**: Balloon Unicorn (MFR) |
-| 05:20 | **cya_adoptmechallange**: Pig | **poortorichy28**: Fly-A-Pet Potion ×4 |
-| 05:20 | **Bumble_Lou**: Fly-A-Pet Potion | **YourfriendAnisha**: Mochi Meow (M) |
-| 05:20 | **BrooklynToxicGam3r**: Spring Bunny Hood | **araawi3u**: Ride-A-Pet Potion, Harp Seal, Mrs. Whiskerpips (M), Paint Sealer |
-| 05:20 | **Pulseq3Void63Echo174**: Shadow Dragon Ducky, St Bernard, Toasty Red Panda, Water Moon Bear, Wildfire Hawk, Castle Hermit Crab | **itsvaleriaotz**: Fly-A-Pet Potion |
-| 05:20 | **jacksons_party7**: Chocolate Chow-Chow (R) | **Yhiko_AFAFAF**: Ride-A-Pet Potion |
-| 05:20 | **DawnL9Lighti9Chill19**: Winged Tiger (R) | **eEri_405**: Sea Slug (R) |
-| 05:20 | **narwhalslov**: Chocolate Dutch Guinea Pig (MFR), Sunrise Duckling (MR) | **ZF_adoptme123**: Ice Cream Hermit Crab (MFR) |
-| 05:20 | **mooyakko**: Cow (FR) ×3 | **copyvoting**: Groundhog (M) |
-| 05:20 | **TheDarkLui**: Silverback Gorilla | **diiorrvi**: Ride-A-Pet Potion ×6 |
-| 05:15 | **xxjohnjokexx**: Owl (FR), Turtle (FR), Kangaroo (NFR), Kangaroo (FR) ×2, 2022 Birthday Cupcake Shoes, Spinning Cat Animated Sticker, Albino Monkey (R), Siamese Cat, Panda (NFR), Panda (NR), Count Slothula (N), Koala (NR), Cherry Blossom Hang Glider, Fly-A-Pet Potion, Cotton Candy Hat | **hanb3ki**: Giraffe (FR) |
-| 05:15 | **00099hh1**: Kangaroo (FR) | **CharlesJo4**: Crocodile (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 05:15 | **Itz_CoffeeMochi**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×8 | **U_sulla**: Sugar Glider |
+| 05:30 | **stefkazzz**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **TheDarkLui**: Arctic Fox (FR) |
+| 05:30 | **curemysorrowsq**: Phantom Dragon (NFR) | **Xxfortnite401kxX**: Koala (M), Space Whale (MR), Mistletroll (MR) |
+| 05:30 | **Pennylivn**: Pupcicle (MR) | **3uneo**: Copycat ×3 |
+| 05:30 | **angela_umerez4**: Unicorn Horn, Tiny Wings | **Hachiwarr1**: Cabbit (FR) |
+| 05:30 | **Yamajyjopyvazelinov1**: Water Rabbit, Moon Rabbit | **admtradeonly**: Chocolate Dutch Guinea Pig |
+| 05:30 | **gg986gg**: Arctic Fox (R), Pig (R), Ride-A-Pet Potion, Chameleon | **Varvara08921**: Kangaroo (FR) |
+| 05:30 | **leruval**: Owl | **La_boyMich15**: Cow (NFR), Candicorn (NFR), Unicorn (MFR), Scarebear (MR), Zombie Wolf (MFR), Crocodile (FR), Candyfloss Chick (FR) |
+| 05:30 | **KING_TROLLYT0**: Strawberry Tortle (FR), Copycat | **airiska_iriska3**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×3 |
+| 05:30 | **Vol4ica77**: Jester Dragon, Ride-A-Pet Potion ×2 | **nolosew22445**: Copycat |
+| 05:30 | **20O2_s**: Clover Cow (M) | **BXNNIELoVE**: Snow Leopard (M) |
+| 05:30 | **v3ndettq**: Halloween Black Axe Guitar Accessory, Burger Boots | **meliodas999q**: Space Fleet House |
+| 05:30 | **Spamforchristmas2**: Monkey King (MFR) | **ItssManguito**: Matcha Cat (MFR) ×3 |
+| 05:30 | **Omar2002548**: Winged Tiger (R), Stray Cat Dragon ×2, Admin Abuse Egg ×4, Throwback Egg ×6, Basic Egg ×5 | **NathyVanessa2929**: Winged Tiger |
+| 05:30 | **asdw4ad**: Spring Bunny Hood | **Marwaxadoptme**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 05:30 | **VICTOR_AV01**: Giant Panda (FR), Mini Pig (FR), Unicorn Horn | **reserbadong2**: Owl (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
