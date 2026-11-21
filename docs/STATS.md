@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-21 18:11 UTC by the scrape workflow._
+_Updated 2026-11-21 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 18 | 2026-11-11T1036Z | 2026-11-21T0115Z |
-| amvgg | 57 | 2026-11-11T1036Z | 2026-11-21T1615Z |
+| amvgg | 58 | 2026-11-11T1036Z | 2026-11-21T1816Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 40,737 | 2026-11-21T18:00 |
-| elve | 11 | 8,822 | 2026-11-21T18:01 |
+| amvgg | 11 | 40,998 | 2026-11-21T18:15 |
+| elve | 11 | 8,847 | 2026-11-21T18:15 |
 
-## AMVGG completed trades: 45,665 total
+## AMVGG completed trades: 45,725 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 3,866 |
+| 2026-11-21 | 3,926 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 18:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:06 | **krnss73**: Chocolate Chip Bat Dragon Backpack | **Gluminnn**: Ride-A-Pet Potion |
-| 18:06 | **goregoy67**: Chocolate Dutch Guinea Pig | **Tanas_4567**: Pupcicle ×2 |
-| 18:06 | **Adoptmee8954**: Dango Penguins (M), Ice Cream Hermit Crab (MR), Copycat, Flower Power Duckling (MFR) | **NummieNummiegirl**: Many Mackerel (MFR) |
-| 18:06 | **Hi_IamLinet**: Crystal Egg ×12 | **Lifeautumns**: Ride-A-Pet Potion |
-| 18:06 | **Munchkin_Catlover6**: Ride-A-Pet Potion ×2, Karate Gorilla (NR) | **Honeymoney522**: Silverback Gorilla (R) |
-| 18:06 | **KnifeonKeys**: Dalmatian (FR), Border Collie (R) | **Syshsf237**: Lion Cub (MFR) |
-| 18:06 | **Cute_girlWolfy**: Magpie (N), Jiggly Jerboa (N), Chocolate Dutch Guinea Pig, Rock Pigeon (N), Merry Mistletroll (N), Aye Aye (N), Milk Choccybunny (N), Badger (N), Emu (N), Glyptodon Ducky (N), Sneak Weasel (N) | **MyacountJohnwcrtba**: Ride-A-Pet Potion ×3 |
-| 18:06 | **Dimash_bash**: Skelicorn, Mummy Spider ×4 | **lesasham1**: Penguin |
-| 18:06 | **Yancapl_5**: Count Slothula, Admin Abuse Egg ×5, Maine Coon | **Vikakelera**: Ride-A-Pet Potion |
-| 18:06 | **Alexa183199**: Sheeeeep (MFR) | **kdkejwjsjd**: Queen Bee Slippers, 2022 Birthday Party Hat, 2022 Birthday Cupcake Shoes |
-| 18:06 | **sofiapopup**: Fly-A-Pet Potion | **Fmadfs**: Unicorn (FR) |
-| 18:06 | **Zarina89117**: Sakura Spirit (FR), Hare (R), Dancing Dragon (FR), Fly-A-Pet Potion ×2 | **LEJE56_l**: Elephant (FR) |
-| 18:06 | **AnnekeStevens**: Cow (FR), Ride-A-Pet Potion | **XxSorvetyxX**: Goose (FR) |
-| 18:06 | **peppeRBXx**: Tuxedo Cat (FR) | **jellofox2009**: Fly-A-Pet Potion |
-| 18:06 | **Hasiiiiiiiiiiiii**: Polar Bear (NR) | **brumgildav**: Munchkin Cat, Fly-A-Pet Potion ×2 |
+| 18:15 | **izzmogizmo**: Candyfloss Mega Neon Paint ×2 | **defwaults**: Cheetah |
+| 18:15 | **masloboynay**: Ride-A-Pet Potion, Hotdog Stand | **terezaxchapa**: Ketchup and Mustard Jetpack |
+| 18:15 | **Cmetanka14ca**: Giant Panda (FR) | **sakuraa_rvn**:  |
+| 18:15 | **starswirl_64**: Glyptodon ×4 | **pwaranoiia**: Ride-A-Pet Potion |
+| 18:15 | **awita_92729**: Cabbit (FR), Dark Choccybunny (N), Prism Snake (N), Ghost Kitty Backpack, Ice Cream Heels | **igvxruu**: Silly Duck (MFR) |
+| 18:15 | **cutesyxkai**: Irish Water Spaniel (MFR) ×2, 2022 Birthday Party Horn, Spring Bunny Hood | **cuthbertbean**: Candyfloss Chick (MFR) |
+| 18:15 | **corsaphic**: Fly-A-Pet Potion, Pain au Chat | **nens1a**: Tea Party Chair |
+| 18:15 | **ADOREKAIXO**: Dodo, Ginger Cat (N), Icy Porcupine (N) | **free123yas**: Violet Butterfly |
+| 18:15 | **blueplaysphearts**: Chihuahua (MFR), Show Pony (M), Dire Wolf (N) | **ssceneury**: Kitty Bat (MFR) |
+| 18:15 | **Holasoy_Ryu**: Crystal Egg ×8 | **moxlls**: Castle Hermit Crab |
+| 18:15 | **userulikk**: Malaysian Tapir (N), Arctic Hare | **iqitotoru**: Toy Monkey |
+| 18:15 | **Spi_bxys**: Magma Moose (FR) | **Andy_kj8**: Ride-A-Pet Potion |
+| 18:15 | **gachadtoasti**: Ice Wolf (NR), Horse (NR), Evil Basilisk (NR), Hummingbird (N), Winter Doe (N), Subzero Scorpion (N), Tanuki (N) | **austytedgirl**: Kangaroo (FR) |
+| 18:15 | **loloclematovee**: Crow (FR), Tiny Wings, Spring Bunny Hood | **reserbadong2**: Parrot (FR) |
+| 18:15 | **darksouls_258**: Spring Bunny Hood | **iqitotoru**: Velocirooster |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
