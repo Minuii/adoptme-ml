@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 03:55 UTC by the scrape workflow._
+_Updated 2026-11-21 04:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 03:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 26,268 | 2026-11-21T03:45 |
-| elve | 11 | 5,671 | 2026-11-21T03:46 |
+| amvgg | 11 | 26,501 | 2026-11-21T04:00 |
+| elve | 11 | 5,712 | 2026-11-21T04:01 |
 
-## AMVGG completed trades: 42,438 total
+## AMVGG completed trades: 42,449 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 639 |
+| 2026-11-21 | 650 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 03:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:00 | **Andres_agent**: Ballet Swan (MFR) | **itscatnoirpeople**: Jester Dragon (MFR) |
+| 04:00 | **xXCloudyXxFloralXx**: Moose Calf (MFR) ×2, White Sand Dollar (MFR) | **2025adoptmepetsuwu**: Goat (MFR) |
+| 04:00 | **Sargasmic_Fae**: Three Blind Mice | **grijfe8r**: Ant ×18 |
+| 04:00 | **magicalxmoon**: Ride-A-Pet Potion, Octopus (FR) | **Ali_12xx1**: Crab (MR) |
+| 04:00 | **Ffaa_bom**: Field Mouse (MFR), Copycat (MFR), Munchkin Cat (MFR), Chocolate Dutch Guinea Pig (MR), Cake Friend (MFR) | **Eddensss**: Goose (MFR) |
+| 04:00 | **UniversePaladin**: Count Slothula ×9 | **renalavani**: Copycat |
+| 04:00 | **blackaquamarine**: Evil Unicorn (NFR), Ride-A-Pet Potion ×10 | **R2tti**: Owl (FR) |
+| 04:00 | **seb_ihhh**: Count Slothula (MFR), Elephant (FR) | **Cookie_13738jg**: Cabbit (FR) |
+| 04:00 | **SoloGhost442149**: Goose (R), Kangaroo (R), Kangaroo (FR) | **xyna68**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:00 | **knorwiq**: Giant Panda (FR) | **Cookie_13738jg**: Balloon Unicorn (FR) |
+| 04:00 | **0_2lips**: Strawberry Shortcake Bat Dragon (N) | **1tz_Lucaaa2**: Strawberry Shortcake Bat Dragon (NFR) |
 | 03:55 | **Lqvari**: Gemstone Egg | **Makimaoff**: Retired Egg ×18 |
 | 03:55 | **ARLEKIN4Ok1**: Pain au Chat ×3 | **NotSweatyOnion**: Chihuahua ×3 |
 | 03:55 | **Paletazow**: Amethyst Penguin (FR), Irish Water Spaniel | **reserbadong2**: Blazing Lion (FR) |
 | 03:55 | **ljwempire777**: Frost Unicorn | **painkissed**: Unicorn Horn |
-| 03:55 | **evxniicsvv**: Wooly Rhino (MFR), Kiwi (MFR) | **littlelizard_7**: Halo, Binturong (MR) |
-| 03:55 | **likeablezebra56**: Haetyphoon (NFR), Dragonfruit Fox (MFR), Queen Bee (MFR), Unicorn (MFR), Sunglider (MFR), Chocolate Dutch Guinea Pig (MFR), Chihuahua (MFR), Sushi Penguin (MFR), Dark Choccybunny (MFR), Snowball Pug (MFR), Alicorn (MR), Mochi Meow (M), Stitches (M), White Choccybunny (M), Black-Footed Ferret (M), Rainbow Trout (M) | **leruval**: Owl (FR) |
-| 03:55 | **Zydac1**: Nutcracker Squirrel, Undead Elk, Raccoon ×2, Scarecrow Horse, Toy Poodle | **itsvaleriaotz**: Ride-A-Pet Potion |
-| 03:55 | **qlltm**: Ice Cream Hermit Crab, Flaming Fox, Golden Rat, Green Butterfly, Vanilla Penguin | **alex_25girl333**: Goat, Black Chow-Chow |
-| 03:55 | **sladekio**: Haetae (FR), Dalmatian (R), Strawberry Shortcake Bat Dragon (FR) | **hyr9fw**: Frost Dragon (FR) |
-| 03:55 | **XxMonty18xX**: Pet Handler Pro Certificate | **Makimaoff**: Ride-A-Pet Potion ×2 |
-| 03:55 | **BrooklynToxicGam3r**: Fly-A-Pet Potion | **3velina_Mary00**: Gumball Caterpillar (M), Irish Setter (M), Irish Setter (N) ×2 |
-| 03:55 | **trialbunny**: African Wild Dog (R), Pig (R) | **mariehaley12**: Alpaca (NFR), Alley Cat (MFR) |
-| 03:55 | **soyelmas_capito132**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×6 | **Bleustar36746**: Alpaca (R) |
-| 03:55 | **FelixUwUCute**: Strawberry Shortcake Bat Dragon (FR) ×2, Cow (NFR), Rainbow Maker, Unicorn Horn, Spring Bunny Feet, Peppermint Penguin (R), Kangaroo, Goat (R), Elephant (R), Cabbit (FR), Munchkin Cat (R), Dragonfruit Fox (R), Swan (FR), Ride-A-Pet Potion | **psithurism_729**: Giraffe (FR) |
-| 03:55 | **leruval**: Owl | **TreasureChest033**: Halloween White Ghost Dragon (MFR), Midnight Dragon (NFR), Hero Gibbon (N), Tio De Nadal (R), Pelican, Werewolf (R), Hot Doggo (FR), Goat (R) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
