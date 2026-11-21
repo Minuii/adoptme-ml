@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 05:55 UTC by the scrape workflow._
+_Updated 2026-11-21 06:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 05:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 28,256 | 2026-11-21T05:45 |
-| elve | 11 | 6,068 | 2026-11-21T05:46 |
+| amvgg | 11 | 28,501 | 2026-11-21T06:00 |
+| elve | 11 | 6,122 | 2026-11-21T06:01 |
 
-## AMVGG completed trades: 42,682 total
+## AMVGG completed trades: 42,699 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 883 |
+| 2026-11-21 | 900 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 05:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:55 | **cya_adoptmechallange**: Christmas Pudding Pup | **dnei30fast**: Fly-A-Pet Potion ×3 |
-| 05:55 | **activexchxrli**: Gingerbread Reindeer ×3, Chihuahua | **228Caesar_Zeppeli**: Ride-A-Pet Potion |
-| 05:55 | **TaimeKero**: Purrowl ×4, Black-Footed Ferret | **Disney_child55**: Purrowl (N) |
-| 05:55 | **patricia92132**: Arctic Reindeer (FR), Yellow Butterfly (NFR), Maine Coon (MFR), Skunk (MR) | **owlsaremylife1234567**: Dalmatian (FR) |
-| 05:55 | **adoptmefein0824**: Strawberry Shortcake Bat Dragon (FR), Moon Rabbit (MFR) | **omniprese_nt**: Cabbit (NFR) |
-| 05:55 | **Chipotlee_211**: Turtle | **MADERPADER910**: Honey Badger (NFR) |
-| 05:55 | **DalePearson8409**: Balloon Unicorn (FR), Pet Handler Pro Certificate | **tezza4real**: Peppermint Penguin (NFR), Goose (FR) |
-| 05:55 | **gh0steddsoull**: Fly-A-Pet Potion | **diiorrvi**: Ride-A-Pet Potion ×2 |
-| 05:55 | **xezviii**: Blazing Lion (FR) | **romoko_00**: Munchkin Cat (MFR), Lion (FR) |
-| 05:55 | **diiorrvi**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **FouWait1**: Panda (NFR) |
-| 05:55 | **rottingroyaltyyy**: Goose (NR), Spring Bunny Hood | **kaylamicmi**: Unicorn Horn ×2, S'mores Raccoon (MFR), Tiny Wings, Unicorn (MFR) |
-| 05:55 | **cya_adoptmechallange**: Christmas Pudding Pup | **dnei30fast**: Fly-A-Pet Potion ×3 |
-| 05:55 | **itsvaleriaotz**: Fly-A-Pet Potion | **Crystal_andLisa**: Lynx, Glyptodon, Wolf, Sweetheart Rat ×2, Winter Doe, Rat, Winter Fawn |
-| 05:55 | **EllieBTS12345GO**: Solaris Animated Sticker | **Sh1r0_23Lol**: Mochi Meow Tumble Animated Sticker |
-| 05:55 | **amado2317**: Dalmatian (FR), Candicorn (FR) | **TMDung20**: Evil Unicorn (FR) |
+| 06:00 | **pwaranoiia**: Owlbear (R), Owlbear (NFR), Firey Aura | **sww_tea**: Unicorn Horn, Hare |
+| 06:00 | **ItzAina_JPN**: Jousting Horse | **diiorrvi**: Ride-A-Pet Potion ×3 |
+| 06:00 | **nejdo109**: 2022 Birthday Confetti Cannon | **Abaddon_Kisser666**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×2 |
+| 06:00 | **Javier_Noob100**: Aestus (NR), Wyvern (N) | **NotSweatyOnion**: Matcha Cat, Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 06:00 | **personal_stalker69**: Turtle (FR) | **NotSweatyOnion**: Tortuga de la Isla (FR) ×2, Firefighter Gibbon (MR), Ride-A-Pet Potion, Unicorn (NFR), Dragonfruit Fox (FR) |
+| 06:00 | **SvinaATvar67**: Ballet Swan, Ostrich | **Mxso_soup8**: Ballet Swan |
+| 06:00 | **inkxr2**: Flamingo (FR), Ride-A-Pet Potion ×2, Blue Cat Ear Headphones | **meileAdrytea**: Puffer Fish (MFR) |
+| 06:00 | **copyvoting**: Ballet Swan (MFR), Flaming Fox (MFR), Rain Cloud Hat | **obv1kylxx**: Siamese Cat (MFR) |
+| 06:00 | **Adoreshellokittys**: Galapagos Sea Lion (M), Easter Bunny (M), Pupcicle (N), Pupcicle ×12 | **Eliaam0_0**: Pupcicle (M) |
+| 06:00 | **Hazeon29**: Fly-A-Pet Potion ×3, Thunderfisher (N) | **wsxzzq0**: Copycat (R) |
+| 06:00 | **kdkejwjsjd**: Monkey King (MFR), Pirate Ghost Capuchin Monkey (MFR) | **Robloxian663027334**: Shadow Dragon (FR), Steampunk Clock Hat |
+| 06:00 | **starswirl_64**: Koi Carp ×4 | **jedemcrnce67**: Ride-A-Pet Potion |
+| 06:00 | **Lola242532**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7 | **diiorrvi**: Munchkin Cat |
+| 06:00 | **enhypnize**: Elephant (FR) | **omniprese_nt**: Moon Rabbit (MFR) |
+| 06:00 | **MyAccountGoneForeve**: Bat Dragon (FR), Frost Dragon (FR), Silly Duck (MFR), Halloween White Ghost Dragon | **pedrobeteir0**: Shadow Dragon (NFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
