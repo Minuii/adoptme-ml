@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 19:55 UTC by the scrape workflow._
+_Updated 2026-11-21 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 42,536 | 2026-11-21T19:45 |
-| elve | 11 | 9,227 | 2026-11-21T19:46 |
+| amvgg | 11 | 42,799 | 2026-11-21T20:00 |
+| elve | 11 | 9,301 | 2026-11-21T20:01 |
 
-## AMVGG completed trades: 46,292 total
+## AMVGG completed trades: 46,333 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,493 |
+| 2026-11-21 | 4,534 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:55 | **dreemusername**: Gumball Caterpillar (M), Monkey (NFR) | **GagaPapa114**: Stray Cat Dragon (M) |
-| 19:55 | **delfinaberna12**: Snow Monkey (MR) | **toxicasfb**: Goose (FR) |
-| 19:55 | **Yzoox7**: Robo Dog | **3risluv**: Admin Abuse Box ×15 |
-| 19:55 | **AN7LY**: Swan, Cattuccino, Hippo (R), Chocolate Chip Bat Dragon Backpack, Great Pyrenees | **mima90100**: Jester Dragon (R) |
-| 19:51 | **dolginlao**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×2 | **QueenVfFlamec91**: Pig (FR) |
-| 19:51 | **Kvammletitraketa**: Pomeranian (M) | **erditiri03**: Ride-A-Pet Potion |
-| 19:51 | **iaMatthieu1**: Samoyed (MR) | **ksMW846**: Fly-A-Pet Potion |
-| 19:51 | **erditiri03**: Cryptid (FR), Balloon Unicorn (FR), Dragonfruit Fox (MFR), Matcha Cat | **reserbadong2**: Frost Dragon (FR), Goose |
-| 19:51 | **XItzZuzuX**: Pangolin (N) | **Fifi_hasflowers**: Snow Cat (N) ×2 |
-| 19:51 | **mylolovescats**: Fairy Bat Dragon (NFR) | **cowlol898**: Cow (FR), Goose, Arctic Fox, Mochi Meow (MFR), Fly-A-Pet Potion |
-| 19:51 | **frecalsplogeok9**: Dragon, Dragonfly, Diamond Griffin, Cuddly Candle | **erditiri03**: Ride-A-Pet Potion |
-| 19:51 | **Cutepatate088**: Haetae (MFR), Owl (FR), Evil Unicorn, Strawberry Shortcake Bat Dragon (FR) ×2 | **kittivqls**: Bat Dragon (NFR) |
-| 19:51 | **Lera_253507**: Lion (FR), Emu (M) | **stasplay9074**: Elephant (R), Mrs. Whiskerpips (R) |
-| 19:51 | **wskdaks**: Halloween White Ghost Dragon (NFR), Panda (NFR) | **GrindAccount_N1**: King Bee (FR) ×3, Cactus Friend (R) ×2, Berry Cool Cube (R), Skelicorn (FR), Shiba Inu (NR), Red Panda (NR), Christmas Spirit (R), Angus Cow (NFR), Cobra (R) ×2, Chimera (R), Chimera (F), Chocolate Chow-Chow (R), Monkey (NR), Unicorn (NFR) |
-| 19:51 | **rrnmaaaa**: Fly-A-Pet Potion ×4 | **Lerafjfffj4548**: Ice Cream Cone Hat, Ride-A-Pet Potion |
+| 20:00 | **HappyBrenda44**: Copycat (MFR), Jester Dragon (NFR) | **Zoskiloc**: Silverback Gorilla (MFR) |
+| 20:00 | **CalliplayzRoBlOx8**: African Wild Dog (FR), Tiny Wings | **starburstandevie**: Balloon Unicorn (FR) |
+| 20:00 | **vilskg**: Frost Dragon (FR) ×2, Goose, Sheeeeep (FR), Fly-A-Pet Potion | **BallerinaCappux**: Balloon Unicorn (NFR), Rainbow Maker |
+| 20:00 | **Beronika_40**: Ride-A-Pet Potion | **rip_rijoe24**: Maine Coon (N) |
+| 20:00 | **Fmadfs**: Unicorn (FR) | **BR4Y4N1027**: Chocolate Dutch Guinea Pig (R) |
+| 20:00 | **dethxhellgrl**: Ride-A-Pet Potion | **Onyx_ctr**: Retired Egg ×18 |
+| 20:00 | **Hshjeb51**: Candicorn (R) | **amirb1577leilei**: Black Panther (NR), Jester Dragon |
+| 20:00 | **iitsxMunozz**: 2D Kitty | **cloe76547**: Solar Burst Mega Neon Paint |
+| 20:00 | **kamaphernelia**: Ride-A-Pet Potion ×8 | **FrostyLife8382**: Fly-A-Pet Potion ×4 |
+| 20:00 | **Tates1ush**: Diamond Ladybug (MFR), Pirate Hermit Crab (MFR) | **alwyzchlqe**: Alley Cat (MR) |
+| 20:00 | **FrostyLife8382**: Fly-A-Pet Potion ×4 | **kamaphernelia**: Ride-A-Pet Potion ×8 |
+| 20:00 | **yasukie7u7**: Sugar Glider (MFR), Halo, Unicorn Horn | **boo_itsme23**: Royal Mistletroll (M) |
+| 20:00 | **lercheeg1234**: Copycat (FR), Sheeeeep, Christmas Pudding Pup | **rafael32087**: Kangaroo (FR) |
+| 20:00 | **Yourlocalpotato012**: Farm Egg, Silly Duck | **TANSKlN**: Arctic Reindeer (FR) |
+| 20:00 | **Lycheeeev**: Fairy Bat Dragon (FR), Goose (FR) | **hexyzbagoc31**: Fairy Bat Dragon, Fairy Bat Dragon (R), Copycat, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
