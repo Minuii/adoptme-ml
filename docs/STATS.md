@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 17:55 UTC by the scrape workflow._
+_Updated 2026-11-21 18:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 17:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 40,448 | 2026-11-21T17:45 |
-| elve | 11 | 8,733 | 2026-11-21T17:46 |
+| amvgg | 11 | 40,737 | 2026-11-21T18:00 |
+| elve | 11 | 8,822 | 2026-11-21T18:01 |
 
-## AMVGG completed trades: 45,583 total
+## AMVGG completed trades: 45,619 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 3,784 |
+| 2026-11-21 | 3,820 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 17:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:55 | **phoenixspotYT**: Evil Unicorn (FR), Fly-A-Pet Potion | **trichedwasteerss**: Kangaroo (FR) ×3, Kangaroo (R) ×2, Arctic Fox, Pig |
-| 17:55 | **sursyrzytxurzutzutz**: Ride-A-Pet Potion | **vupxric**: Mud Ball ×2 |
-| 17:55 | **RyukkHolder**: Turtle (NFR), Ride-A-Pet Potion | **Altaccountamvgg1**: Hot Doggo (FR), Unicorn (MFR) |
-| 17:55 | **zxl0106**: Ride-A-Pet Potion ×5 | **ivank1nnirl**: Copycat |
-| 17:55 | **glotznd_1324**: Ride-A-Pet Potion | **H4rm0nicdsires**: Cattuccino (N) ×2 |
-| 17:55 | **Usudidksk**: Mr. Whiskerpips (MFR) | **ni1zuua**: Pupcake (MR), Ride-A-Pet Potion |
-| 17:55 | **honeydew_pancakes101**: Great Pyrenees (MR) | **lovewqnted**: Ride-A-Pet Potion ×11 |
-| 17:55 | **GhostyShrimp_YT**: Chihuahua (N), Pomeranian (N), Granny Wolf (M), Orangutan (M) | **Vasilisa_srt**: Fly-A-Pet Potion |
-| 17:55 | **ongitos_oficial**: Siamese Cat (FR), Cow (FR), General Sheepdog, Koi Carp, Angus Bull, Diamond Dragon, Christmas Spirit | **Ihatesomber11**: Flamingo (R), Shark Puppy (R) ×3, Many Mackerel |
-| 17:55 | **mamyy_344**: Candicorn (FR), Ride-A-Pet Potion | **JAYKEYUU**: Kangaroo (FR) |
-| 17:55 | **iqitotoru**: Slime (N) | **cupidx_skyz**: Malaysian Tapir (M) |
-| 17:55 | **Kvammletitraketa**: Evil Unicorn (FR) | **ETM_TOPG**: Cryptid (FR) |
-| 17:55 | **iiEvenstar**: Seabed Creeper, Cattuccino (N) | **leesoyul11111111**: Ride-A-Pet Potion |
-| 17:55 | **Candron6**: Ride-A-Pet Potion ×5 | **fastfrog3335**: Arctic Dusk Dragon (FR) |
-| 17:55 | **amvggholder**: Bat Dragon (FR), Dodo (MFR), 2022 Birthday Cake, Toaster Hat ×2, Tiny Wings | **akzoad**: Hedgehog (MFR) |
+| 18:00 | **littlefelonies**: Jester Dragon (M) | **gTheGamerProYTg**: Arctic Reindeer (FR) |
+| 18:00 | **Boypizza132**: Fly-A-Pet Potion, Billy Goat (R) | **azyyus**: Pet Handler Pro Certificate |
+| 18:00 | **noypop123**: Crow (FR) | **BlackVoyager12**: Fairy Bat Dragon (FR) ×5 |
+| 18:00 | **pricpalAC_trubilimb**: Rain Hat, Fishbone Badge | **house_mirans**: Admin Abuse Box ×18 |
+| 18:00 | **Lumina20265**: Ride-A-Pet Potion ×2 | **Cupcake_Stefy**: Bunny Swirl (NR) |
+| 18:00 | **zeejnaa**: Cow (MFR) | **violencesoul**: Ring-Tailed Lemur (MFR), Dragonfruit Fox (MFR), Dango Penguins (MFR), Tree Kangaroo (MFR) |
+| 18:00 | **rainbow_shiny152**: Mini Pig (R) | **Kagem1_rbx**: Sugar Glider (FR), Toaster Hat |
+| 18:00 | **d4rlingjazzy**: Parrot (FR) | **ongitos_oficial**: Flamingo (R) ×2, Sugar Glider (FR) ×2, Cow (FR), Goose, Many Mackerel, Fly-A-Pet Potion, Ride-A-Pet Potion, Lemonade Stand |
+| 18:00 | **Xz_Infern0UlCircuitR**: Cryptid (MFR), Alpaca (MFR), Balloon Unicorn (FR) ×2, Strawberry Shortcake Bat Dragon (FR), Rainbow Maker | **Vluxbuy**: African Wild Dog (MFR) |
+| 18:00 | **wekwew70**: Fly-A-Pet Potion ×13 | **pote01351**: Fairy Bat Dragon (FR) |
+| 18:00 | **monkeycutebow**: Aurora Fox (MFR) | **Aaliyah83720**: Groundhog (MFR) |
+| 18:00 | **draike_tzu8262**: Black-Footed Ferret (N), Black-Footed Ferret ×3 | **1velvetpaw**: Retired Egg ×18 |
+| 18:00 | **the3reveng**: Kid Goat (N), Jiggly Jerboa (N), Ratatoskr (N), Gecko Ducky (N), Forest Sprite (N) | **NikolSokol2014**: Ride-A-Pet Potion |
+| 18:00 | **XxkfirxbushxX**: Mr. Whiskerpips (M), Vanilla Penguin | **Itz_w1sker**: Llama (N) |
+| 18:00 | **bydaylight7931**: Retired Egg ×5 | **BMWSHKA666**: Alicorn |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
