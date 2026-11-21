@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 04:16 UTC by the scrape workflow._
+_Updated 2026-11-21 04:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 04:16 UTC by the scrape workflow._
 | amvgg | 11 | 26,754 | 2026-11-21T04:15 |
 | elve | 11 | 5,744 | 2026-11-21T04:15 |
 
-## AMVGG completed trades: 42,480 total
+## AMVGG completed trades: 42,500 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 681 |
+| 2026-11-21 | 701 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 04:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:15 | **Mochi_Bunno**: Retired Egg ×3 | **einxizz**: DJ Snooze |
-| 04:15 | **z1_u1**: Unicorn Horn | **Niruch_Bearly**: Ride-A-Pet Potion ×18 |
-| 04:15 | **najla777777**: Red Dutch Guinea Pig (NFR), Ice Cream Hermit Crab (N) | **CloudyFalconpro4**: 2022 Birthday Party Hat, Ride-A-Pet Potion |
-| 04:15 | **shyfaint**: Ride-A-Pet Potion ×2 | **tarrace_house**: Icy Porcupine (M) |
-| 04:15 | **2025adoptmepetsuwu**: White Sand Dollar (MFR) | **sshanao_o**: German Shepherd (MFR) |
-| 04:15 | **Imcool1257lol**: Pupcicle (M), Kitty Biscuit | **Sp1nd_sh**: Dire Wolf (M), Flash Weasel, Pupcicle (N) |
-| 04:15 | **amon_amvggaacount**: Octopus Plush, Chihuahua, Gummy Guana ×3, Crystal Egg | **farm2266**: Gummy Guana (M) |
-| 04:11 | **HJKGVNib**: Jester Dragon (FR), Naughty Mistletroll (FR), Glacier Kitsune (MFR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion | **joindoekx**: Evil Unicorn (FR) |
-| 04:11 | **XiuLi1234**: Zombie Wolf (NFR), Owlbear (R), Ride-A-Pet Potion | **inferecal0_0**: Shark Puppy (FR) |
-| 04:11 | **m00ns_milk**: Unicorn Horn, Turtle (NFR), Ride-A-Pet Potion, Fly-A-Pet Potion | **ii_aldrin20**: Cow (NFR) |
-| 04:11 | **iamnoonetobehere**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×6 | **jebiilerium**: Cabbit (FR) |
-| 04:11 | **Junjyungg**: Fly-A-Pet Potion | **67hvttestchip**: Ride-A-Pet Potion ×2 |
-| 04:11 | **IloveBramStoker**: Chicken | **lisa062834**: Reindeer (R) |
-| 04:11 | **thekyiomst**: Flower Power Duckling (MFR), Shiver Wolf (MR), Chihuahua (MFR), German Shepherd (MFR) | **0MoonlitXMeadow0**: Polar Bear (MFR) |
-| 04:11 | **0MoonlitXMeadow0**: Rose Dragon, Ride-A-Pet Potion ×4 | **itzz_Keys**: Mr. Whiskerpips (N), Mrs. Whiskerpips (N) |
+| 04:20 | **Vanlyzn26**: Unicorn ×2 | **magicalxmoon**: Ride-A-Pet Potion ×2 |
+| 04:20 | **UwUvU1234**: Frostbite Bear (NR), Frostbite Bear ×3, Diamond Mahi Mahi ×2, Orca | **Arenn_1010**: Hedgehog (FR), Alley Cat (N), Mermicorn, Husky Sled ×2, Slimingo Feather Teleporter, Reindeer Stroller, Cannon Stroller, Kitty Biscuit |
+| 04:20 | **Kgell777**: Turtle | **NotSweatyOnion**: Candicorn (FR), Latte Kitsune (FR) |
+| 04:20 | **GuineaPigGirl2987**: Gecko (N) | **insano_6678**: Fly-A-Pet Potion |
+| 04:20 | **razarvale2z**: Pain au Chat ×9 | **camsties**: Ride-A-Pet Potion ×3 |
+| 04:20 | **OG_Kylen44840**: Ice Wolf (MFR), Fly-A-Pet Potion | **Uh_TotallynotKaiah1**: Turtle (NFR) |
+| 04:20 | **dntwnabinluv**: Ride-A-Pet Potion | **yliannasuper**: Frostbite Bear and Cub Animated Sticker, Chanekeh (N), Temple Friend |
+| 04:20 | **johnmark121004**: Kangaroo (FR), Candyfloss Chick (FR), Cupid Dragon (FR), Hamster (MR), Mr. Whiskerpips (MR), Dire Stag (N), Mrs. Whiskerpips (MR), Cuddly Candle (N), Harp Seal (R) | **josuecres16**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:20 | **Powerpopo1234**: Latte Kitsune, Dragonfruit Fox | **florence_23111**: Spring Bunny Hood |
+| 04:20 | **Depondip**: Turtle (NFR), Kangaroo (FR) | **makoyw766w89**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:20 | **Vanlyzn26**: Unicorn | **miyuki0_5**: Ride-A-Pet Potion |
+| 04:20 | **lolcryabtit6767**: Arctic Fox (NFR) | **killua_kawai19**: Turtle (FR) |
+| 04:20 | **etsyauaiz**: Silverback Gorilla (N), Fairy Bat Dragon (NFR) | **MichaelDASIGMA**: Toaster Hat, Giraffe Hat, Giraffe Backpack |
+| 04:20 | **mariee20_03**: Hummingbird (M) | **Bumble_Lou**: Turtle (FR) |
+| 04:20 | **AHHA6281**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR) | **AsianIceCold**: Parrot (FR), Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
