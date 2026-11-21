@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 07:11 UTC by the scrape workflow._
+_Updated 2026-11-21 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 07:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 29,463 | 2026-11-21T07:00 |
-| elve | 11 | 6,300 | 2026-11-21T07:01 |
+| amvgg | 11 | 29,722 | 2026-11-21T07:15 |
+| elve | 11 | 6,333 | 2026-11-21T07:15 |
 
-## AMVGG completed trades: 42,847 total
+## AMVGG completed trades: 42,871 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,048 |
+| 2026-11-21 | 1,072 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 07:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:06 | **Alili2323134**: Diamond Butterfly, Tiny Wings | **kaylamicmi**: Purple Butterfly (MFR) |
-| 07:06 | **deftgytq**: Snowy Mammoth (N), Ruddy Duck (N), Electric Hornet, Icy Porcupine, Huntsman Robin ×2, Purrowl (N) | **GUESTROBLOX666I**: Ride-A-Pet Potion |
-| 07:06 | **s_coki**: Ride-A-Pet Potion ×7, Fly-A-Pet Potion ×3 | **sorrowthethird**: Winged Tiger (FR) |
-| 07:06 | **Papitascongaseosa_xD**: Elf Hat, Sailor Cap | **STEKLO_FOREST**: Arctic Dusk Dragon |
-| 07:06 | **arquilo11**: Harp Seal | **NOBODYknows_1100**: Fly-A-Pet Potion |
-| 07:06 | **kawiilkris**: Fly-A-Pet Potion ×2 | **simnjaeyun**: Ruler's Castle |
-| 07:06 | **TheLightKick**: Silverback Gorilla (MFR), Hare (MFR) | **iv2yec**: Parrot (FR) |
-| 07:06 | **Vasilisa_srt**: Owl (FR) | **trendypopcon**: Strawberry Shortcake Bat Dragon (R), Cow (R), Peppermint Penguin (R), Cabbit (FR), Siamese Cat, Munchkin Cat (NR) |
-| 07:06 | **Dgz_2222**: Fairy Bat Dragon (FR), Frost Fury (R), Winter Buck, Winter Fawn | **yuioedf**: Cow (FR) |
-| 07:06 | **hayleydoescheer**: English Sheepdog (MR) | **melissaalt02**: Brown Bear (NFR) |
-| 07:06 | **bolsi_06**: S'mores Raccoon (MR) | **rottnghoul**: Unicorn Horn |
-| 06:55 | **liofe1**: White Chef Hat, Ice Cream Heels | **stoIencorpses**: Ride-A-Pet Potion |
-| 06:55 | **chromkaa1**: Jacobin Pigeon (M) ×2 | **Evelina22super**: Ride-A-Pet Potion |
-| 06:55 | **02_iiiSofi**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **miuehla**: Spring Bunny Hood |
-| 06:55 | **loiol1004**: Unicorn (R) ×3, Unicorn | **stoIencorpses**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 07:15 | **TRex_2911**: Copycat (FR) | **lolo247243**: Ride-A-Pet Potion ×6 |
+| 07:15 | **SierraPlayzADM**: Retired Egg ×15 | **aleeyah51092**: Winter Buck |
+| 07:15 | **SierraPlayzADM**: Retired Egg ×10 | **aleeyah51092**: Kraken |
+| 07:15 | **SierraPlayzADM**: Retired Egg ×10 | **aleeyah51092**: Sunglider |
+| 07:15 | **Qu33nDQCrimsonO19932**: Chihuahua ×2 | **typol1235y6**: Ride-A-Pet Potion |
+| 07:15 | **tarrace_house**: Rubber Ducky Box ×18 | **typol1235y6**: Ride-A-Pet Potion |
+| 07:15 | **CloudAMs**: Crystal Egg ×15 | **typol1235y6**: Ride-A-Pet Potion |
+| 07:15 | **Monalin879**: Husky (MFR), Fairy Bat Dragon (NFR), Christmas Pudding Pup (MFR), Malaysian Tapir (MFR), Tan Chow-Chow (MFR), Pancake Stack, Ice Cream Heels, Blue Cat Ear Headphones | **lsagifanboy**: Cryptid (NFR) |
+| 07:15 | **DALZIM06**: Parrot (FR), Candicorn (FR) | **AmAmHardi**: Border Collie (MFR) |
+| 07:15 | **NotSweatyOnion**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×4 | **vanillqsz**: Candicorn, Copycat, Velocirooster, Chocolate Dutch Guinea Pig |
+| 07:15 | **Mhtrading**: Bat Dragon (FR), Shadow Dragon (FR), Giraffe (FR), Parrot (NFR), Parrot (FR) | **lemxrz**: Giant Panda (MFR) |
+| 07:15 | **Pls_Donat99965**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 | **U_sulla**: Goose (FR) |
+| 07:15 | **ellielielielieee**: Thunderfisher (N), Granny Wolf (N), Jacobin Pigeon (N) | **Mcflurryem123456**: White Chef Hat |
+| 07:15 | **GUESTROBLOX666I**: Fly-A-Pet Potion | **gg986gg**: Skelicorn (N), Corgi (N), Crimson Cape (N), Robot (N), Swordfish (N), Caramelgeist (N), Mummy Spider (N), Clumpty (N), Princess Mare (N), Zebra (N), Camel (N) |
+| 07:15 | **Qu33nDQCrimsonO19932**: Chihuahua ×13 | **picugtvpriviegucii**: Fly-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
