@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 10:55 UTC by the scrape workflow._
+_Updated 2026-11-21 11:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 10:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 33,249 | 2026-11-21T10:45 |
-| elve | 11 | 7,066 | 2026-11-21T10:46 |
+| amvgg | 11 | 33,481 | 2026-11-21T11:00 |
+| elve | 11 | 7,133 | 2026-11-21T11:01 |
 
-## AMVGG completed trades: 43,521 total
+## AMVGG completed trades: 43,523 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,722 |
+| 2026-11-21 | 1,724 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,8 @@ _Updated 2026-11-21 10:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:00 | **Pandalovedogss**: Ride-A-Pet Potion, Chick Hat | **NyctophilianDelusion**: Chihuahua ×3 |
+| 11:00 | **MiLa_qtx14**: Kangaroo (FR) ×2 | **Vitek_228666**: Kangaroo (NFR) |
 | 10:55 | **p_awth**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 | **i111kwm**: Peppermint Penguin (FR) |
 | 10:55 | **Dinkarrt**: Kangaroo (FR), Shark Puppy | **cerialconchocomil**: Fairy Bat Dragon (FR) |
 | 10:55 | **xiparo**: Pet Handler Pro Certificate ×3 | **kotik_2011080**: Fly-A-Pet Potion ×3 |
@@ -49,8 +51,6 @@ _Updated 2026-11-21 10:55 UTC by the scrape workflow._
 | 10:55 | **Sonyaccccccc**: Sushi Penguin, Badger (R), Ginger Cat (R), Merhorse (R), Purrowl, Halloween Black Ponycycle, Lava Racer, Banana Car | **wskdaks**: Lynx (NFR) |
 | 10:55 | **Yupiterd**: Crystal Egg ×12 | **ALTUSHKA_80**: Ride-A-Pet Potion |
 | 10:55 | **tisha_sally**: Kiwi Kiwi ×2, Pain au Chat ×3, Chihuahua ×2 | **ALTUSHKA_80**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 10:55 | **Itzz_Hannah56**: Fly-A-Pet Potion | **Certifiedbwunnii**: Llama, Skelicorn |
-| 10:55 | **LYIZA_1976**: Fly-A-Pet Potion, Purrowl ×2 | **wrny_lays**: Aestus |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
