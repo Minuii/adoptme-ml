@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 11:46 UTC by the scrape workflow._
+_Updated 2026-11-21 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 11:46 UTC by the scrape workflow._
 | amvgg | 11 | 34,251 | 2026-11-21T11:45 |
 | elve | 11 | 7,272 | 2026-11-21T11:46 |
 
-## AMVGG completed trades: 43,706 total
+## AMVGG completed trades: 43,727 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,907 |
+| 2026-11-21 | 1,928 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 11:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:45 | **sufferingtogether**: Flash Weasel, Unicorn ×4, Shiba Inu (M), Bunny (M), Jumpscare (M), Poodle (M), Blue Butterfly (M), Ms. Muffet (M), Pinkypillar (M) | **NAT4L1Ex**: Candicorn (R) |
-| 11:45 | **rottingroyaltyyy**: Alpaca (NFR), Sheeeeep (FR), Tiny Wings, Fly-A-Pet Potion, Cow (FR) | **Scphiaaxbxdcr**: Balloon Unicorn (FR) |
-| 11:45 | **Zydac1**: Diamond Griffin ×8 | **SweetArtist_w**: Ride-A-Pet Potion |
-| 11:45 | **Addmymainamv**: Parrot (NFR) | **CNGMA_BYMEH11222336**: Neon Black Scooter |
-| 11:45 | **Lem0n_org**: Purrowl ×9 | **evqwss**: Ride-A-Pet Potion |
-| 11:45 | **princess_pizzanice**: Fly-A-Pet Potion | **kagurasgl0w**: Pupcicle ×3 |
-| 11:45 | **Alina_Savr**: Fly-A-Pet Potion ×3 | **cerialconchocomil**: Christmas Pudding Pup |
-| 11:45 | **Isalu050112**: Polar Bear, Gummy Guana (M), Abyssinian Cat (N) | **h4_cd**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 11:45 | **itz_BATMAN0957**: Spring Bunny Hood | **cocothemoco1231**: Arctic Dusk Dragon (R) |
-| 11:45 | **xXcaxapokXx_off**: Ride-A-Pet Potion ×2 | **V4mp_1respitt**: Fly-A-Pet Potion, Skunk |
-| 11:45 | **coolelay456**: Caterpillar (MFR), Matcha Cat (MFR), Hero Gibbon (MFR) | **Poppycatplays909**: Strawberry Tortle (MFR) |
-| 11:45 | **Kitti_59350**: Frogspawn (N), 2026 Birthday Butterfly (M), Caramelgeist (N) | **tresh_blin12**: Ride-A-Pet Potion |
-| 11:45 | **bunniegifs_x**: Rain Cloud Hat, German Shepherd (MFR), Moon Rabbit (MFR), Snowball Pug (MFR), Pain au Chat (M) | **ddrwcullazx**: Rainbow Maker |
-| 11:45 | **sima_kit30**: Candicorn (R), Matcha Cat (R) | **Ari_Blays**: Siamese Cat (FR) |
-| 11:45 | **luvyerh**: Cow (FR) ×2 | **Fbrleey**: Pig (FR) ×2, Pig (R) ×3, Meerkat (NFR) |
+| 11:51 | **Cristelmylovelove**: Rainbow Maker, Ride-A-Pet Potion | **Sillyseal_026**: Unicorn Horn ×3 |
+| 11:51 | **Scphiaaxbxdcr**: 2022 Birthday Cake, Unicorn Horn, Fly-A-Pet Potion | **Cristelmylovelove**: Dragonfruit Fox (MFR) |
+| 11:51 | **rlysaturn**: Crow (NFR), Turtle (NFR), Tree Kangaroo (NR), Pain au Chat (M) | **AVAPAWSXO**: Giraffe (FR) |
+| 11:51 | **theydkmeso123**: Ride-A-Pet Potion ×4, Gemstone Egg | **cutesyaeris**: Ballet Swan |
+| 11:51 | **SkoObYDoOLOLZ**: Golden Penguin (MFR) | **Cristelmylovelove**: Goose (FR) |
+| 11:51 | **xxxxproxxxx5500**: Pet Handler Pro Certificate | **Rosebud13457**: Reindeer (FR) |
+| 11:51 | **grijfe8r**: Ride-A-Pet Potion ×7 | **fakeaccountfortr**: Haetyphoon |
+| 11:51 | **K0qwry**: Zombie Buffalo (FR), Squid (NR) | **molqrx**: Haetyphoon |
+| 11:51 | **vivicacke17**: Cow (R), Turtle (R), Ride-A-Pet Potion ×6, Unicorn ×3 | **67hvttestchip**: Chocolate Chip Bat Dragon (R) |
+| 11:51 | **ichmag_godzilla**: Christmas Pudding Pup (R), Spring Bunny Hood, Neon Orange Skateboard, Easter 2020 Egg, Goldhorn (R), 2D Doggy, Skelicorn (NR), Bethink Skateboard, Wood Skateboard, Guardian Lion, Tegu (M), Boohoo (N), Ribbon Seal (N), Huntsman Robin, Mexican Wolf (N), Firey Aura, Halloween Evil Barrel Backpack, Love Letter | **Laktozik1**: Haetyphoon (R), Flash Weasel |
+| 11:51 | **xiparo**: Chihuahua ×9 | **Yamenzoj**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 11:51 | **liaxcz0**: Fly-A-Pet Potion, Chihuahua | **Klaysi_flayra**: Corgi (M), Toucan (MR) |
+| 11:51 | **liaxcz0**: Haetyphoon (FR), Hydra (MFR), Chocolate Labrador (MR), Badger (M), Ox (M), Red Fox (MFR) | **penguindonor**: 2022 Birthday Party Hat |
+| 11:51 | **starswirl_64**: Glyptodon ×4 | **Ignxtius**: Ride-A-Pet Potion |
+| 11:51 | **Nattsukiixsakuraa**: Dragonfruit Fox | **kitty_wotriz**: Highland Cow (NR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
