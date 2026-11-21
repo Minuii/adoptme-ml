@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 00:01 UTC by the scrape workflow._
+_Updated 2026-11-21 00:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 00:01 UTC by the scrape workflow._
 | amvgg | 11 | 22,485 | 2026-11-21T00:00 |
 | elve | 11 | 4,921 | 2026-11-21T00:01 |
 
-## AMVGG completed trades: 41,804 total
+## AMVGG completed trades: 41,844 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 5 |
+| 2026-11-21 | 45 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 00:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:00 | **Sn3akyw0lfBloxgames**: Rainbow Maker, Angel Wings | **Sofik_oc**: Munchkin Cat (MFR) |
-| 00:00 | **evieebunnii**: Toaster Hat, Chihuahua | **1irxms9**: Shark Puppy |
-| 00:00 | **FelixUwUCute**: Rainbow Maker, Unicorn Horn, Pig (MFR), Rose Dragon (MFR) | **lunacolombiana33**: Owl (FR) |
-| 00:00 | **Jimmyfish350**: Silly Duck (NFR), Harp Seal (NFR) | **Bismuth234**: Winged Tiger (FR) |
-| 00:00 | **1MZ03Y**: Frost Dragon (FR), Candicorn (MFR), Christmas Pudding Pup (MR) | **highdecor**: Frost Dragon (NFR) |
-| 23:55 | **Dyra_228050**: Frostbite Bear (R) | **itzzme_ken**: Dire Wolf (M), Cozy Mistletroll (M), Halloween Black Axe Guitar Accessory, Halloween White Skull Hat, Heart Bow, Dumpling Friend Hat, Jeff's Nametag, Butter Knife, Tutu, Spring Bunny Feet, Pink Heart Glasses, Chef Hat, Eaten Donut, Strawberry Hat, Alien Eyes Hat, Cotton Candy Hat, Fly-A-Pet Potion |
-| 23:55 | **12kyanni12k**: Dancing Dragon (R) | **Deinabiluana**: Ride-A-Pet Potion ×3 |
-| 23:55 | **thesef4ngs**: Pancake Stack | **departedlifecrisis**: Count Slothula (N) |
-| 23:55 | **frecalsplogeok9**: Ride-A-Pet Potion ×16, Fly-A-Pet Potion | **pigizak**: Panda (MFR) |
-| 23:55 | **AndyIsMineerrr222**: Frostbite Bear (NFR), Frostbite Bear (FR), Strawberry Tortle (FR), Kiwi Kiwi (MFR) ×2, Velocirooster (FR), Pain au Chat (MFR) ×4, Dire Wolf (MFR), Chihuahua (MFR) ×4, Stitches (MFR) ×3 | **Slimeswaztaken44**: Frost Dragon (FR) |
-| 23:55 | **avokado78o**: Pomeranian (MR), Stray Cat Dragon, Aztec Egg | **Chignug17**: Fly-A-Pet Potion |
-| 23:55 | **Biabr105**: Ride-A-Pet Potion, Kaijunior (N), Golden Unicorn ×2 | **tillywilliamson89**: Black Scooter |
-| 23:55 | **Sn3akyw0lfBloxgames**: Sugar Glider (MFR), 2022 Birthday Cake, 2022 Birthday Party Hat, Toaster Hat | **icarushed**: Alpaca (MFR) |
-| 23:55 | **evxniicsvv**: Aestus (M), Husky (MR), Scarebear (MR), Spinosaurus (M), Rhino (MFR), Unicorn (MFR), Golden Unicorn (MFR), Maneki-Neko (MR), Gecko (MR), Sakura Spirit (R) | **AutoTradeCommission**: Dragonfruit Fox (MR), Sunglider (MR), Flaming Fox (M), Tuxedo Cat (M), Kiwi (MFR), Kelp Captain (M), Evil Chickatrice (M), Ghost Chick (M), Indian Flying Fox (MFR), Ram (NR), Ram (N) |
-| 23:55 | **Sains9811**: Moon Rabbit, Water Rabbit | **nzerdy**: Fly-A-Pet Potion |
+| 00:11 | **xZgoQqWnzzM**: Moonlight Moth (M) | **Blackmushroom90**: Eggnog Dog (M) |
+| 00:11 | **eeliasxcx**: Ride-A-Pet Potion | **miuehla**: Mexican Wolf (M), Jacobin Pigeon (M) |
+| 00:11 | **serspect**: Black Tiger (M), Snow Puma (M) | **eeliasxcx**: Ride-A-Pet Potion |
+| 00:11 | **serspect**: Sneak Weasel (M), Black Rhino (M) | **eeliasxcx**: Ride-A-Pet Potion |
+| 00:11 | **NekoZero4**: Ride-A-Pet Potion | **itsnottt_mexx**: Paint Sealer ×18 |
+| 00:11 | **dereckpr12**: Spring Bunny Hood | **Biabr105**: Ride-A-Pet Potion ×4 |
+| 00:11 | **zwxiaa**: Purrowl ×12 | **gggpppgggppp1**: Ride-A-Pet Potion |
+| 00:11 | **blessedconnections**: Red Dutch Guinea Pig (NFR), Majestic Pony (NFR) | **anutik_awesome**: Unicorn Horn, Sakura Spirit |
+| 00:11 | **9911police**: Blue Dog (MFR), Cherry-On-Top | **ilovekiwi32**: Bush Elephant (MFR) |
+| 00:11 | **no_name12345654321**: Sea Slug (FR), Catte | **eEri_405**: Shark Puppy (FR) |
+| 00:11 | **Unknown_Entity1213**: Arctic Fox (FR) | **elin5201**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 |
+| 00:11 | **jett_isthebest28**: Candy Hare (MFR), Tanuki (MFR) | **iuvzjules**: Mini Pig (FR) |
+| 00:11 | **LUV_H3L1OK1TTY**: Meerkat (R) | **chip40060**: Nessie (R) |
+| 00:11 | **addmysecondaccount**: Cabbit (FR), Sugar Glider (FR), Alpaca (R) | **moonlarielle**: Strawberry Shortcake Bat Dragon (FR) |
+| 00:11 | **Kelly_lovezz**: Haetyphoon (N) | **M3LANl3_MARTIN3Z**: Copycat (NR), Munchkin Cat, Fleur De Ice (MFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
