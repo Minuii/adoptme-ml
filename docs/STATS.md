@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 07:16 UTC by the scrape workflow._
+_Updated 2026-11-21 07:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 07:16 UTC by the scrape workflow._
 | amvgg | 11 | 29,722 | 2026-11-21T07:15 |
 | elve | 11 | 6,333 | 2026-11-21T07:15 |
 
-## AMVGG completed trades: 42,871 total
+## AMVGG completed trades: 42,898 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,072 |
+| 2026-11-21 | 1,099 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 07:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:15 | **TRex_2911**: Copycat (FR) | **lolo247243**: Ride-A-Pet Potion ×6 |
-| 07:15 | **SierraPlayzADM**: Retired Egg ×15 | **aleeyah51092**: Winter Buck |
-| 07:15 | **SierraPlayzADM**: Retired Egg ×10 | **aleeyah51092**: Kraken |
-| 07:15 | **SierraPlayzADM**: Retired Egg ×10 | **aleeyah51092**: Sunglider |
-| 07:15 | **Qu33nDQCrimsonO19932**: Chihuahua ×2 | **typol1235y6**: Ride-A-Pet Potion |
-| 07:15 | **tarrace_house**: Rubber Ducky Box ×18 | **typol1235y6**: Ride-A-Pet Potion |
-| 07:15 | **CloudAMs**: Crystal Egg ×15 | **typol1235y6**: Ride-A-Pet Potion |
-| 07:15 | **Monalin879**: Husky (MFR), Fairy Bat Dragon (NFR), Christmas Pudding Pup (MFR), Malaysian Tapir (MFR), Tan Chow-Chow (MFR), Pancake Stack, Ice Cream Heels, Blue Cat Ear Headphones | **lsagifanboy**: Cryptid (NFR) |
-| 07:15 | **DALZIM06**: Parrot (FR), Candicorn (FR) | **AmAmHardi**: Border Collie (MFR) |
-| 07:15 | **NotSweatyOnion**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×4 | **vanillqsz**: Candicorn, Copycat, Velocirooster, Chocolate Dutch Guinea Pig |
-| 07:15 | **Mhtrading**: Bat Dragon (FR), Shadow Dragon (FR), Giraffe (FR), Parrot (NFR), Parrot (FR) | **lemxrz**: Giant Panda (MFR) |
-| 07:15 | **Pls_Donat99965**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 | **U_sulla**: Goose (FR) |
-| 07:15 | **ellielielielieee**: Thunderfisher (N), Granny Wolf (N), Jacobin Pigeon (N) | **Mcflurryem123456**: White Chef Hat |
-| 07:15 | **GUESTROBLOX666I**: Fly-A-Pet Potion | **gg986gg**: Skelicorn (N), Corgi (N), Crimson Cape (N), Robot (N), Swordfish (N), Caramelgeist (N), Mummy Spider (N), Clumpty (N), Princess Mare (N), Zebra (N), Camel (N) |
-| 07:15 | **Qu33nDQCrimsonO19932**: Chihuahua ×13 | **picugtvpriviegucii**: Fly-A-Pet Potion ×3 |
+| 07:25 | **juliietz**: Ginger Cat (N) | **slaught3rxz**: Christmas Pudding House |
+| 07:25 | **personal_stalker69**: Matcha Cat ×2, Ride-A-Pet Potion ×2 | **M1cahsWRLD**: Lion (R), Polar Bear (FR) |
+| 07:25 | **0qwc0**: Pig (FR), Ram | **luvyerh**: Jellyfish (FR) |
+| 07:25 | **vanillqsz**: Ride-A-Pet Potion, Admin Abuse Box ×2, Rubber Ducky Box, Endangered Egg ×2, Fairytale Egg ×5, Retired Egg ×4 | **LYIZA_1976**: Golden Chow-Chow |
+| 07:25 | **jeangot19**: Shark Puppy (FR), Harp Seal (NR), Ride-A-Pet Potion ×7 | **soraidazibely**: Alpaca (FR) |
+| 07:25 | **its_yukari0**: Chocolate Dutch Guinea Pig | **Ponqao**: Harp Seal |
+| 07:25 | **nastyauwuregina**: Dalmatian (R), Santa Hat, Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Pupcicle (N), Copycat, Maine Coon, Snowball Pug | **folow_lera0**: Hedgehog |
+| 07:25 | **folow_lera0**: Copycat | **littlefelonies**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 07:25 | **UniversePaladin**: Kangaroo (FR) ×5, Kangaroo (R), Fairy Bat Dragon (R) | **TMDung20**: Evil Unicorn (FR), Goose (FR) |
+| 07:25 | **yan_heso030**: Pupcicle (MFR), Pupcicle (MR), Flash Weasel (FR), Halloween White Skeleton Dog (MFR), Slime (NR), Purrowl (MFR), Snowy Mammoth (MFR), Dire Wolf (MR), Onza (MR), Icy Porcupine (M) | **josuecres16**: Strawberry Shortcake Bat Dragon (FR) |
+| 07:25 | **kdkejwjsjd**: Owl (FR), Turtle (R) ×2, Fly-A-Pet Potion ×3 | **Noa_N15**: Amethyst Penguin (R), Crow (FR) |
+| 07:25 | **TESLIK456**: Turtle (FR), Munchkin Cat | **savememyangel**: Jekyll Hydra (FR) |
+| 07:25 | **Groyidd_gg**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×9, Pet Handler Pro Certificate ×2 | **meowieboogie**: Fairy Bat Dragon (FR) |
+| 07:25 | **LinArtzzz**: Blue Whale, Crimson Cape ×2 | **AngelMimujizx**: Ermine |
+| 07:25 | **loiol1004**: Ride-A-Pet Potion ×5 | **ur_lungzz**: Santa Hat |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
