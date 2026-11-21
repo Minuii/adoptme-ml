@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 20:15 UTC by the scrape workflow._
+_Updated 2026-11-21 20:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 20:15 UTC by the scrape workflow._
 | amvgg | 11 | 43,065 | 2026-11-21T20:15 |
 | elve | 11 | 9,325 | 2026-11-21T20:15 |
 
-## AMVGG completed trades: 46,384 total
+## AMVGG completed trades: 46,412 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,585 |
+| 2026-11-21 | 4,613 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 20:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:15 | **Soso4ka004**: Kangaroo (NFR), Turtle (NFR), Alley Cat (N), Spring Bunny Hood, Banana Hat | **xKashaf**: Evil Unicorn (FR) |
-| 20:15 | **FestiveNotCupcake**: Cow Calf (MR) | **ula12579**: Fly-A-Pet Potion ×3, Pain au Chat |
-| 20:15 | **ALV4RYTO**: Fly-A-Pet Potion ×10 | **DragonjJDusta107130**: Ride-A-Pet Potion ×18 |
-| 20:15 | **vynllama**: Elephant (FR), Fly-A-Pet Potion | **Eugenia873**: Fallow Deer (NFR) |
-| 20:15 | **princess_pizzanice**: Magma Snail (N), 2021 Uplift Butterfly (N) | **hhhhhjhgff77**: Fly-A-Pet Potion |
-| 20:15 | **fasfud5363**: Unicorn | **przeczulenie**: Ride-A-Pet Potion |
-| 20:15 | **C0PHYAK**: Ride-A-Pet Potion ×16 | **Vitek_228666**: Kangaroo (FR) |
-| 20:15 | **ileeleluis**: Candicorn (R), Candy Hare (MFR), 2022 Birthday Cake, Berry Cool Cube (MR), Dragonfruit Fox, Ride-A-Pet Potion ×10, Magic House Door, Space Fleet House, Orange Butterfly (N) | **Kiandra13kiandra**: Cryptid (FR) |
-| 20:15 | **iaMatthieu1**: Cow (FR) | **sww_tea**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 |
-| 20:15 | **cbmelissa**: Candyfloss Chick (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion ×4, Arctic Hare (N) | **loafactory**: Angel Wings |
-| 20:15 | **estevyxs**: Fairy Bat Dragon (FR), Jellyfish (NFR), Unicorn (NFR), Ride-A-Pet Potion ×4 | **CloudyFalconpro4**: Arctic Reindeer (FR) |
-| 20:15 | **ocelitor**: Unicorn (NFR), Bunny Swirl (MR), Ring-Tailed Lemur, Ermine (M), Ram, Phoenix, Choco Penguin (N) | **coolbanana_30**: Turtle (FR) |
-| 20:15 | **stoIencorpses**: Fly-A-Pet Potion ×14 | **Galer568**: Sheeeeep (NFR) |
-| 20:15 | **alexandmartinareg**: Halo, Flamingo (FR), Alpaca, Ride-A-Pet Potion ×2 | **iaMatthieu1**: Mermicorn (NFR), Kitty Bat |
-| 20:15 | **camie_k1tty**: Diamond Mahi Mahi | **MAxl0ser107**: Fairytale Egg ×18 |
+| 20:25 | **Danila121219**: Fly-A-Pet Potion ×3 | **Kftftykrfykf**: Frost Fury (FR) |
+| 20:25 | **Sharking_off**: Evil Unicorn (FR) | **Kftftykrfykf**: Hedgehog (FR) |
+| 20:25 | **Shareli999**: Chocolate Chip Bat Dragon (FR), Ice Cream Cone Hat, Spring Bunny Nose, Spring Bunny Feet, Bready Necklace, Ride-A-Pet Potion | **Andres_agent**: Jester Dragon (MFR) |
+| 20:25 | **dosh1kk_dasha**: Fly-A-Pet Potion ×2 | **nice2306_alt**: Pet Handler Pro Certificate ×2 |
+| 20:25 | **nice2306_alt**: Stray Cat Dragon ×15 | **st1rawsiee**: Fly-A-Pet Potion |
+| 20:25 | **Rtuta_kotofei**: Yule Log Dog (R), Squid | **ikabackflip**: Fly-A-Pet Potion |
+| 20:25 | **h4_cd**: Ride-A-Pet Potion | **Megustaulii**: Billy Goat ×2 |
+| 20:25 | **Spartik20**: Zebra (N), Stygian Owl (N) | **SPIDRAN56DOORS**: Christmas Pudding House |
+| 20:25 | **elfania_3**: Crocodile | **cheekymonkey0126**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 |
+| 20:25 | **CandyBear373**: Toaster Hat ×2, Tiny Wings ×2, Rain Cloud Hat, Panda (MFR) | **D00dle_C4t**: Ballet Swan (MFR) |
+| 20:25 | **wuxxal**: African Wild Dog (NFR), Arctic Dusk Dragon (MFR) | **KinaToons**: Shadow Dragon (FR) |
+| 20:20 | **milasha_5557**: Lion Cub (MFR), Cherry-On-Top, Great Pyrenees (FR) | **AvokadoJFKfanat**: Irish Water Spaniel (MFR), Ice Cream Cone Hat |
+| 20:20 | **Rias_sama4Depo**: Hot Doggo (FR), Munchkin Cat | **foxylive2012**: Kangaroo (FR), Turtle (FR), Ride-A-Pet Potion ×3 |
+| 20:20 | **booseoks0on**: Butter Knife ×2, White Chef Hat, Bready Necklace, Cotton Candy Hat | **Hahaha_LOL123Abc**: Unicorn Backpack |
+| 20:20 | **lba_fofe**: Black-Chested Pheasant (FR), Cerberus (NFR), Prismatic Butterfly (NR), Chocolate Dutch Guinea Pig (N), Red Dutch Guinea Pig, Frost Fury (FR), Christmas Pudding Pup (R), Princess Capuchin Monkey (FR), Arctic Dusk Dragon, Ride-A-Pet Potion | **vynllama**: Candicorn (NFR), Elephant |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
