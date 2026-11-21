@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 01:16 UTC by the scrape workflow._
+_Updated 2026-11-21 01:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 01:16 UTC by the scrape workflow._
 | amvgg | 11 | 23,797 | 2026-11-21T01:15 |
 | elve | 11 | 5,160 | 2026-11-21T01:15 |
 
-## AMVGG completed trades: 41,991 total
+## AMVGG completed trades: 42,034 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 192 |
+| 2026-11-21 | 235 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 01:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:15 | **Alaska_rdx**: Cuddly Candle (FR), Classic Trade Stand | **Yumi_Rose8**: Magic House Door, Ride-A-Pet Potion |
-| 01:15 | **pwaranoiia**: Toaster Hat | **lapotaxie_ECM**: Unicorn, Kiwi, Sloth (R), Squid, Toasty Red Panda, Puptune, Skunk, Pink Betta Fish ×2, Alley Cat (FR), Tutu, Rain Hat |
-| 01:11 | **X0LuvyouX0**: Blazing Lion (NFR), Giraffe (FR), Chocolate Chip Bat Dragon (FR), Lion, Pancake Stack | **austinbest123**: Cryptid (MFR) |
-| 01:11 | **Flutterieshyy**: Candicorn (R), Bush Elephant, Albino Monkey (FR) ×2, Polar Bear (NR), Lion (R), Munchkin Cat, Copycat (FR), Sakura Spirit (FR), Flamingo (FR), Kangaroo (FR) | **ElFanan_Asser**: Crow (FR) |
-| 01:11 | **Cutesy_BEONCEY**: Rainbow Maker, Arctic Reindeer (NFR), Spring Bunny Hood | **grlfri7nd**: Evil Unicorn (NFR), Shark Puppy (R), Ice Cream Cone Hat |
-| 01:11 | **cirocrack2020**: Rhino, Chicken (FR), Leviathan, Diamond Unicorn, Evil Rock (MR) | **user9461037**: Kangaroo (FR) |
-| 01:11 | **Kit_tblmamymav1**: Mochi Meow, Rocket Ship Stroller | **Anto_wst0**: Christmas Pudding House |
-| 01:11 | **Cutie_wolfie20**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion | **elbrens001**: Grim Dragon (FR) |
-| 01:11 | **gogo549**: Aurora Fox (R), Goat (R), Pink Cat (FR), Jester Dragon, Copycat | **shisuiziya**: Fairy Bat Dragon (FR) |
-| 01:11 | **qqkarsa**: Sushi Penguin | **dahoody2k3**: Ride-A-Pet Potion |
-| 01:11 | **SvinaATvar67**: Elephant (R), Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×3 | **vlados_krash**: Cow (FR) |
-| 01:06 | **zwxiaa**: Purrowl (R), Purrowl ×8 | **sssssalll1**: Ride-A-Pet Potion |
-| 01:06 | **m1xa_0**: Strawberry Shortcake Bat Dragon (FR), Rainbow Maker, Pig | **Star4tickelshin**: Jellyfish (MFR) |
-| 01:06 | **warriors1gamig**: Rainbow Maker ×2, Cherry-On-Top, 2022 Birthday Party Hat, 2022 Birthday Party Horn, Tiny Wings ×2, Ice Cream Cone Hat ×2, Rain Cloud Hat, 2022 Birthday Confetti Cannon, Spring Bunny Hood, Rain Boots, Rain Hat, Blue Cat Ear Headphones, Elf Hat, Pancake Stack | **ElFanan_Asser**: Frost Dragon (FR) |
-| 01:06 | **avokado78o**: Unicorn, Skelicorn ×2 | **MAMAMOCKA1**: Ride-A-Pet Potion |
+| 01:25 | **llovesagee**: Christmas Pudding Pup (R) | **StannyStarPets**: Zombie Buffalo (R), Ride-A-Pet Potion |
+| 01:25 | **pwaranoiia**: Cow (R), Pancake Stack | **maryli_50**: Owlbear (R), Unicorn Horn, Cake Friend, Alley Cat (R), Christmas Pudding Pup (R) |
+| 01:25 | **aIcremie_s**: Cryptid (FR), Unicorn Horn, Alpaca (R) | **HaramiHUN**: Balloon Unicorn (FR) |
+| 01:25 | **00099hh1**: Cow (FR) | **TANSKlN**: Kangaroo (FR), Crocodile (FR) |
+| 01:25 | **wiirex12o2**: Fairy Bat Dragon (FR), Turtle (FR), Copycat ×2, Dango Penguins, Little Lamb (NFR), Ride-A-Pet Potion | **kxil_008**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:25 | **carterdelaney1**: Goose (MFR), Pupcake (MFR) | **Elysia_4387**: Cabbit (MFR) |
+| 01:25 | **shenshenzzz14**: Lammergeier ×4, Kelp Hunter ×4 | **batton0955**: Ride-A-Pet Potion |
+| 01:25 | **iaMatthieu1**: Kangaroo (FR), Japanese Snow Fairy (M) | **starofthe555**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×6, Spring Bunny Hood |
+| 01:25 | **PlayOfHappy**: Rose Quartz Glow Mega Neon Paint | **Aftonsparvsarec00l**:  |
+| 01:25 | **eyeofrahismymom**: Christmas Pudding Pup (NR), Axolotl (NFR), Harp Seal (MR) | **joshsawsy**: Alley Cat (MFR) |
+| 01:25 | **XxShadow_CorruptxX**: Schoolhouse Home, Ride-A-Pet Potion, White Sand Dollar | **HeartsForEli_1406**: Toyshop House, Stocked Santa Sleigh |
+| 01:25 | **Flux_puck**: Jellyfish (MFR), Arctic Fox (R) | **nikiph9w**: Flaming Fox (MFR), Turtle (MFR) |
+| 01:25 | **Artem_milkSG**: Alpaca (FR), Fly-A-Pet Potion | **NongBow555**: Cabbit (FR) |
+| 01:25 | **frecalsplogeok9**: Cherry-On-Top | **juandxmm2**: Moon Rabbit (MFR), Seabed Creeper (MFR) |
+| 01:25 | **TESTACC1114_0**: Grim Dragon (NFR), Black Panther (NFR) | **20O2_s**: Flaming Fox (MFR), Turtle (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
