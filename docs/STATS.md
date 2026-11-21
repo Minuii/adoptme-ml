@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 02:01 UTC by the scrape workflow._
+_Updated 2026-11-21 02:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 02:01 UTC by the scrape workflow._
 | amvgg | 11 | 24,548 | 2026-11-21T02:00 |
 | elve | 11 | 5,318 | 2026-11-21T02:01 |
 
-## AMVGG completed trades: 42,126 total
+## AMVGG completed trades: 42,147 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 327 |
+| 2026-11-21 | 348 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 02:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:00 | **TABLETKI_01**: Monkey (MR), Grave Owl (NR), Ride-A-Pet Potion ×2, Hippogriff (R), Chocolate Dutch Guinea Pig, Harp Seal, Fly-A-Pet Potion | **leoncitoUwU12345**: Pig (FR) |
-| 02:00 | **bassie123284**: Matcha Cat, Dragonfruit Fox, Dango Penguins | **Fbrleey**: Munchkin Cat (FR) |
-| 02:00 | **cannotaffordme**: Cabbit (MFR), Border Collie (MFR), Cupid Dragon (MFR), Mini Pig (MFR), Crow (FR), Elephant (FR), Dog | **Iittlx**: Bat Dragon (FR), Frost Dragon (FR), Cow (FR), Cow (R) |
-| 02:00 | **WierdoVanilla**: Happy Duckling (MR), Quokka (MR), Chick (MFR), Leopard Cat (M), Pudding Cat (M), Kappakid (M), Christmas Spirit (M), Choco Penguin (M), Toasty Red Panda (M) | **Green_cocoa1**: Polar Bear (MFR) |
-| 02:00 | **q_culvs**: Shark Puppy (MFR) | **littlelizard_7**: Brown Bear (MFR), Flaming Fox (MFR), Firefly (MFR), Black Macaque (MFR) |
-| 02:00 | **Abdulazizm_2011**: Unicorn (MFR), Pupcicle, Ride-A-Pet Potion ×2 | **Paipapaprapaa**: Candicorn (R) |
-| 02:00 | **GiraffeGirI1**: Moon Rabbit (N) | **Fbrleey**: S'mores Raccoon (N) |
-| 02:00 | **alexgameminecraft**: Nessie (NFR) | **elbrens001**: Grim Dragon |
-| 02:00 | **leoncitoUwU12345**: Fly-A-Pet Potion ×2, Kookaburra | **PLolchik_2000**: Copycat |
-| 02:00 | **HoliviaGold**: Rain Cloud Hat | **Bunnyhopps068**: Pet Handler Pro Certificate ×7 |
-| 02:00 | **BIazender**: Crystal Egg ×10 | **Panci_Terbang33**: Pupcicle |
-| 02:00 | **knorwiq**: Tiny Wings | **cuteanya_7**: Chihuahua (MFR) |
-| 02:00 | **donnotinteract**: Binturong (MR), Ride-A-Pet Potion | **shimotheseal**: Goth Shoes, Propeller Hat ×3, Spring Bunny Feet, Fallow Deer |
-| 02:00 | **epicpulsechaos2024**: Crystal Egg ×18 | **K4YSCH4RMXO**: Fly-A-Pet Potion |
-| 02:00 | **Haydendogboy789**: Ranger Beaver (M), Matcha Cat | **StanleyHayden5**: Great Pyrenees (MFR) |
+| 02:06 | **lotsobluemelon**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **donnotinteract**: Fallow Deer |
+| 02:06 | **Ali_12xx1**: Ride-A-Pet Potion ×3, Chihuahua | **shenshenzzz14**: Crab (MR), Wren (M) |
+| 02:06 | **2262096**: Snowball Pet (FR), Toy Monkey (FR), Toy Monkey, White Sand Dollar (FR) ×2, White Sand Dollar ×3, Castle Hermit Crab (R), French Bulldog ×3, Husky (FR), Husky ×2, Leopard Shark (NR), Leopard Shark, Ring-Tailed Lemur | **Panci_Terbang33**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 |
+| 02:06 | **Robloxain4000**: Water Rabbit (MR) | **loveminari_6**: Moon Rabbit (MFR) |
+| 02:06 | **Cinzsins**: Matcha Cat (MFR) | **funfwetticake**: Chocolate Dutch Guinea Pig (MFR), Dragonfruit Fox (MFR), Dango Penguins (MFR), Catte (MFR) |
+| 02:06 | **candi1222255**: Frost Dragon (FR) | **Shiv_er**: Fairy Bat Dragon (MFR), Cabbit (R), Spring Bunny Hood |
+| 02:06 | **lovelygirlheha**: Matcha Cat, Christmas Pudding Pup, Spring Bunny Hood | **Howareyoutodayoreo**: Frostbite Bear |
+| 02:06 | **TwiXq0**: Matcha Cat (FR), Fly-A-Pet Potion | **sweetiepie07141**: Arctic Fox (R), Halloween White Ghost Dragon |
+| 02:06 | **epicpulsechaos2024**: Crystal Egg ×11 | **TrueValll**: Ride-A-Pet Potion |
+| 02:06 | **Melonlover406**: Goose (MFR) | **crybabydoIl**: Matcha Cat (MFR) |
+| 02:06 | **Random1513**: Paint Sealer ×18 | **floralplum**: Ride-A-Pet Potion |
+| 02:06 | **holixd489632**: Grim Dragon (FR), Pain au Chat | **wave2enzo**: Copycat (NFR) |
+| 02:06 | **chrisslayer1000**: Crow (FR) | **youchi_nagi**: Balloon Unicorn (FR) |
+| 02:06 | **gabbydoyglas**: Pupcicle | **3amlaufey**: Retired Egg ×18 |
+| 02:06 | **barbiequeuu**: Cryptid (NFR), Ride-A-Pet Potion | **100doggos123**: Cryptid (FR), Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
