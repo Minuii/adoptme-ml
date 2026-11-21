@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 10:15 UTC by the scrape workflow._
+_Updated 2026-11-21 10:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 10:15 UTC by the scrape workflow._
 | amvgg | 11 | 32,742 | 2026-11-21T10:15 |
 | elve | 11 | 6,939 | 2026-11-21T10:15 |
 
-## AMVGG completed trades: 43,380 total
+## AMVGG completed trades: 43,411 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,581 |
+| 2026-11-21 | 1,612 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 10:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:10 | **Lucie_Dreemurr2**: Fire Stallion (N), Purrowl (N) | **headshotw0**: Pain au Chat ×2 |
-| 10:10 | **flears_brai**: Fly-A-Pet Potion ×3 | **ashplayingrobloxwith**: Christmas Pudding Pup |
-| 10:10 | **realacckeira8v**: Shadow Dragon Animated Sticker, Blue Boohoo Mega Neon Paint | **BrittanyLynne2002**: Fly-A-Pet Potion |
-| 10:10 | **realacckeira8v**: Mermicorn Animated Sticker, Amethyst Skies Mega Neon Paint | **BrittanyLynne2002**: Fly-A-Pet Potion |
-| 10:10 | **gemxdewdrop**: Snow Owl (R), Rosy Maple Moth, Poltergeist Box ×2, Motorized Sofa | **xxlovetereza**: Swan |
-| 10:10 | **pinkytedslovie**: Siamese Cat (R) | **MATT_2011901**: Ride-A-Pet Potion ×17, Fly-A-Pet Potion |
-| 10:10 | **PrettyxDino**: Red Squirrel (MFR) | **Liazockt2705**: Frostbite Cub (MFR) |
-| 10:10 | **pr3tty_L0st**: Aussie Egg, Ghostly Cat, Skunk | **V4mp_1respitt**: Ride-A-Pet Potion ×5 |
-| 10:10 | **wskdaks**: Koi Carp (MR) | **Quueen_Juliiaa**: Hamster (MFR) |
-| 10:10 | **Mary_Andrev1213**: Fairy Bat Dragon (FR) | **ashplayingrobloxwith**: Christmas Pudding Pup (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 10:10 | **ashplayingrobloxwith**: Spinning Cat Animated Sticker | **WorldisthebestSimo**: Kangaroo (FR) |
-| 10:10 | **angela_umerez4**: Giraffe (FR), Cryptid (FR), Cabbit (NR), Strawberry Shortcake Bat Dragon (FR), Kangaroo (NFR), Kangaroo (FR), Kangaroo (R), Dalmatian (FR), Meerkat (NR), Ice Cream Cone Hat, Candicorn (R), Dodo (NFR) | **dannysniche**: Bat Dragon (FR) |
-| 10:10 | **OwO98759**: Bunny Swirl, Leopard Cat, Ermine | **cloudWavedog87**: Ride-A-Pet Potion |
-| 10:10 | **blessedconnections**: Undead Jousting Horse (FR), Pretty Pony (MFR), Christmas Pudding Pup | **KimikoYuka**: Sugar Glider (FR), Christmas Pudding Pup (NR) |
-| 10:10 | **sup_nuub**: Frost Dragon (FR), Evil Unicorn | **jypit0410j**: Alpaca (MFR) |
+| 10:25 | **non_nomer11**: Violet Butterfly | **aurorafox679**: Binturong, Cattuccino (N), Cattuccino ×2, Crystal Egg |
+| 10:25 | **altego002**: Naughty Mistletroll (MFR), Dragonfruit Fox | **Andres_agent**: Ice Golem (MFR) |
+| 10:25 | **ohinam**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **korylory67**: Blue Dog (FR) |
+| 10:25 | **PH_HYPER**: Munchkin Cat (R), Ride-A-Pet Potion | **megamind123924**: Shark Puppy (FR) |
+| 10:25 | **babya85X**: Silverback Gorilla (FR), Sushi Penguin | **sonosuoradaunpo**: Copycat (FR) |
+| 10:25 | **NotSweatyOnion**: Fly-A-Pet Potion ×3 | **xiparo**: Pain au Chat ×18 |
+| 10:20 | **cxltwaste**: Dalmatian (FR), Rain Cloud Hat, Fly-A-Pet Potion | **Ruben87Yt1**: Royal Mistletroll (NFR) |
+| 10:20 | **Aggr0berlin**: Mahi Mahi (M), Mexican Wolf (M), Milk Choccybunny (M) | **Ruben87Yt1**: Golden Walrus |
+| 10:20 | **Stephanie58241**: Frost Unicorn (R), Fly-A-Pet Potion ×2 | **Kotik_tommi1**: Turtle (FR) |
+| 10:20 | **oatt1e**: African Wild Dog (FR), Giant Panda (FR) | **dannysniche**: Cryptid (NFR), Unicorn Horn, Spring Bunny Nose |
+| 10:20 | **Basilisk345s**: Cow (FR), Peppermint Penguin (FR), Fly-A-Pet Potion ×3 | **i111kwm**: Arctic Reindeer (FR) |
+| 10:20 | **iamnoonetobehere**: Matcha Cat | **trafuol**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 10:20 | **cjut1i**: Royal Egg ×4 | **M1cahsWRLD**: Choco Penguin |
+| 10:20 | **MM_Cloud**: Crystal Egg ×15 | **starswirl_64**: Ride-A-Pet Potion |
+| 10:20 | **itz_ChenJianYan9**: 2022 Birthday Confetti Cannon, Fly-A-Pet Potion | **Sour_L3mon34**: Border Collie (R) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
