@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 17:11 UTC by the scrape workflow._
+_Updated 2026-11-21 17:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 17:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 39,643 | 2026-11-21T17:00 |
-| elve | 11 | 8,565 | 2026-11-21T17:01 |
+| amvgg | 11 | 39,902 | 2026-11-21T17:15 |
+| elve | 11 | 8,594 | 2026-11-21T17:15 |
 
-## AMVGG completed trades: 45,349 total
+## AMVGG completed trades: 45,366 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 3,550 |
+| 2026-11-21 | 3,567 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 17:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:11 | **7angelicial**: Chicken Hat | **SanjiMyBeloveddd**: Ride-A-Pet Potion |
-| 17:11 | **neliixoxo**: Scarebear (NFR), Ride-A-Pet Potion ×2 | **Arsmy_love**: Christmas Pudding Pup (FR) |
-| 17:11 | **dsxzv567**: Cow (FR) | **Gehteme37**: Strawberry Tortle (FR) |
-| 17:11 | **the3reveng**: Cozy Mistletroll, Ginger Cat, Abyssinian Cat, Ribbon Seal, Black-Footed Ferret, Orca, Stygian Owl, 2026 Birthday Butterfly, Milk Choccybunny | **wi0qwi**: Ride-A-Pet Potion |
-| 17:11 | **Lazykingufc**: Guardian Lion (NFR) | **Koshechkina102**: Ride-A-Pet Potion ×4 |
-| 17:11 | **izzybprezleyfan**: Cow (MFR) | **snodoes**: Cow (NFR) ×2, Cow (R), Cabbit (R) |
-| 17:11 | **St_locki1**: Copycat | **themilkeywayz**: Fly-A-Pet Potion ×3 |
-| 17:11 | **funsashamen**: Ox Box, Gemstone Egg, Kakapo (M) | **Kira9975335**: Ride-A-Pet Potion |
-| 17:11 | **BonieeUwUJxHv**: Volcanic Rhino (NR) | **Nastya_Mihalyk**: Spring Bunny Nose, Spring Bunny Feet |
-| 17:11 | **starneverlandsAlt**: Squid | **3LL1SV1BE**: Purrowl (N) |
-| 17:11 | **mynikwxs**: Kiwi (MFR), Fly-A-Pet Potion | **mylolovescats**: Sushi Penguin (NR), Water Rabbit (MR), Burger Bun Hat |
-| 17:11 | **princess_magdayao**: Ride-A-Pet Potion | **ssceneury**: Crystal Egg ×17 |
-| 17:11 | **vivicacke17**: Dango Penguins (N) | **3LL1SV1BE**: Bunny Swirl (MR), Llama |
-| 17:11 | **Leokarim138**: Owl (MFR), Frost Dragon (FR) | **C0okiesAndCreammm**: Balloon Unicorn (MFR), Fallow Deer (MFR) |
-| 17:11 | **3LL1SV1BE**: Gecko (N), Orca (N) | **Yoonie_Alisha**: Dango Penguins |
+| 17:15 | **lounaa_sbst**: Ghost Bunny (R), Cotton Candy Hat, Pink Butterfly Wings, Eaten Donut ×2, Pupcicle, Yellow Taxi Cab, Bone Wings, Love Letter | **Larryy7890**: Spring Bunny Hood |
+| 17:15 | **Happy_PlayerWizard**: Butter Knife, Dumpling Friend Hat, White Chef Hat | **piespix**: Jeff's Nametag |
+| 17:15 | **vilskg**: Goat (NR), Unicorn Horn, Rain Cloud Hat | **Coolbirdy40**: Rainbow Maker, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 17:15 | **Enhypen_is7obvii**: Goth Shoes, Fly-A-Pet Potion | **pauurft**: Copycat |
+| 17:15 | **aveilqaa**: Ride-A-Pet Potion ×3 | **DragonjJDusta107130**: Mule, Fly-A-Pet Potion |
+| 17:15 | **milkwars**: Strawberry Shortcake Bat Dragon (FR) ×10, Strawberry Shortcake Bat Dragon (R) ×4, Strawberry Shortcake Bat Dragon ×2, Goose (FR), Candyfloss Chick (FR) | **WhinyBuny**: Bat Dragon (FR), Frost Dragon (FR) |
+| 17:15 | **Pulseq3Void63Echo174**: Scarlet Butterfly, Pink Betta Fish, Pain au Chat, Chihuahua, Water Moon Bear, Leopard Cat | **Bloop_child**: Pet Handler Pro Certificate |
+| 17:15 | **Manga11998**: Panda (NR) | **Kira9975335**: Fly-A-Pet Potion ×2 |
+| 17:15 | **noahiix5**: Royal Palace Spaniel (MFR) | **TaPok228pon**: Matcha Cat (FR) |
+| 17:15 | **noahiix5**: Alley Cat (MR), Astronaut Gorilla | **HE4RTSFORELS**: Alley Cat (MFR) |
+| 17:15 | **coolfoulz**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×3 | **kralkrm78**: Kangaroo (FR) |
+| 17:15 | **1Biahsz_altx**: Mini Pig (FR) ×2, Mini Pig (R) ×2, Cabbit (FR) ×4, Peppermint Penguin (FR) ×2, Happy Duckling (MFR), Halloween White Mummy Cat (MFR), Hamster (MFR), Caelum Cervi (FR), Chihuahua (MR) | **Kiandra13kiandra**: Mini Pig (MFR) |
+| 17:15 | **By_millsjos**: Sushi Penguin (N), Sushi Penguin (NFR), Dango Penguins (R), Dango Penguins, Bobageist | **viki_423**: Border Collie (FR) |
+| 17:15 | **xichbin_kuhlxd**: Influencer Gibbon ×4, Crystal Egg ×3 | **viki_423**: Influencer Gibbon (N) |
+| 17:15 | **alexsteadh**: Dragonfruit Fox, Dango Penguins | **viki_423**: Nessie |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
