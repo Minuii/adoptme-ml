@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 17:31 UTC by the scrape workflow._
+_Updated 2026-11-21 17:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 17:31 UTC by the scrape workflow._
 | amvgg | 11 | 40,166 | 2026-11-21T17:30 |
 | elve | 11 | 8,654 | 2026-11-21T17:31 |
 
-## AMVGG completed trades: 45,406 total
+## AMVGG completed trades: 45,484 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 3,607 |
+| 2026-11-21 | 3,685 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 17:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:30 | **wekwew70**: Mini Pig (FR) | **KAKAEMBMECTECOMHO**: Turtle (FR), Kangaroo (FR) |
-| 17:30 | **Altaccountamvgg1**: Kangaroo (NFR) | **evcngelions**: Hot Doggo (FR) |
-| 17:30 | **peqchsxftiee**: Strawberry Shortcake Bat Dragon (R), Unicorn | **Molosonik**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:30 | **Austrian_Capybara1**: Puffin | **Vibing_Werdo**: Nessie (R) |
-| 17:30 | **KimikoYuka**: Undead Jousting Horse (FR), Strawberry Tortle (R), Turtle (R), Purple Butterfly (NR), Goldhorn (NR), Shiba Inu (MFR) | **Trumba95**: Cryptid (FR) |
-| 17:30 | **yyauigui**: Ride-A-Pet Potion, Rooster (R), Highland Cow | **Vasilisa_srt**: Pet Handler Pro Certificate |
-| 17:30 | **gh0sttcat0**: Orca (N), Angus Cow (N) ×2, Ice Cube (N), Seahorse (N), Turtle Doves (N), Dolphin (N), Humbug (N) ×2, Mistletroll (N), Patchy Bear (N) | **Lekssa**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 17:30 | **jessica020705**: Chocolate Dutch Guinea Pig ×2 | **m3rinaandthediamonds**: Hare |
-| 17:30 | **XxstarunicornoxX**: Pink Cat (NR), Arctic Fox (F), Happy Duckling (NR), Ride-A-Pet Potion, Snow Cat (N) | **gTheGamerProYTg**: Goose |
-| 17:30 | **muka_hi123**: Harp Seal (N), Pain au Chat | **I_Exist75**: Pancake Stack, Bready Necklace, Butter Knife ×2 |
-| 17:30 | **AutoTradeCommission**: Fly-A-Pet Potion, Sweetheart Rat (R) | **deadlockXH**: Skelicorn (M) |
-| 17:30 | **tjandhannah34**: Dango Penguins (NR) ×2, Dango Penguins (N), Dango Penguins ×2 | **AutoTradeCommission**: Halo |
-| 17:30 | **lyncshen**: Harp Seal (MR) | **cirocrack2020**: Unicorn Horn, Hammerhead Shark (M), Pupcicle |
-| 17:25 | **epicpulsechaos2024**: Dragon ×18 | **meowgirlava**: Ride-A-Pet Potion ×2 |
-| 17:25 | **UnUcreepy**: Matcha Cat (R), Pet Handler Pro Certificate ×2, Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Mason_lol424**: Candyfloss Chick (R) |
+| 17:40 | **6evesvokhaha**: Sushi Penguin | **MrTunnel92**: Ride-A-Pet Potion |
+| 17:40 | **Love1234008**: Pupcicle, Ermine, Ms. Muffet (N), Stray Cat Dragon, Admin Abuse Egg ×2 | **MrTunnel92**: Ride-A-Pet Potion |
+| 17:40 | **morze68**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Goat (FR), Ride-A-Pet Potion | **Mason_lol424**: Arctic Reindeer (NFR) |
+| 17:40 | **SAMIRA_GACHA0**: Sugar Glider (MFR), Sheeeeep (MFR) | **TreshMilana**: Mini Pig (MFR), Hot Doggo ×2 |
+| 17:40 | **ddff_j**: Persian Cat (M) | **yardsides**: Pet Handler Pro Certificate |
+| 17:40 | **Tuana_dieprinzessin**: Gecko (MR) | **Lunarysqwwx**: Matcha Cat, Ride-A-Pet Potion |
+| 17:40 | **Dominicanpapiheh**: Glormy Dolphin (R), Catte, Shark (R), Chocolate Chow-Chow (NR) | **Wixxktxxoria**: Zombie Buffalo (R) |
+| 17:40 | **llanprolol1**: Goose (NFR) | **bajsungen62**: Dalmatian (FR) |
+| 17:40 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 | **SadiSadie3**: Pig (FR) |
+| 17:40 | **h4_cd**: Ride-A-Pet Potion ×2 | **krimpriiz**: Stray Cat Dragon (M) |
+| 17:40 | **karagolgeTR10**: Turtle (R), Dodo (MFR), Arctic Dusk Dragon (NFR) | **qndsav**: Chocolate Chip Bat Dragon (FR) |
+| 17:40 | **sllwexx**: Dalmatian (FR), Munchkin Cat (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **toniya2001**: Hedgehog (FR) |
+| 17:40 | **Roy_zem**: Jekyll Hydra (FR) | **luiscae3**: Cow (FR) |
+| 17:40 | **PRODAZA_STARPETS**: Fly-A-Pet Potion ×10 | **mawifa123**: Flamingo (R), Unicorn, Ice Cube (N) |
+| 17:40 | **Sky_Hero108**: Owl (FR), Cow (FR) ×4, Kangaroo (FR) ×2, Kangaroo (R) | **bunnyblinkP**: Giraffe (FR), Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
