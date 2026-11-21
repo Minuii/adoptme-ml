@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 04:46 UTC by the scrape workflow._
+_Updated 2026-11-21 04:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 04:46 UTC by the scrape workflow._
 | amvgg | 11 | 27,266 | 2026-11-21T04:45 |
 | elve | 11 | 5,833 | 2026-11-21T04:46 |
 
-## AMVGG completed trades: 42,535 total
+## AMVGG completed trades: 42,553 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 736 |
+| 2026-11-21 | 754 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 04:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:45 | **kittycatkathy7523**: Pupcake (MR) | **Nasha1ra**: Mirai Moth (MFR) |
-| 04:45 | **albbays**: Alpaca (R), Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig, Tiny Wings, Unicorn, Count Slothula (N) | **Cherx_9**: Mini Pig (R) |
-| 04:45 | **funfwetticake**: Yeti (MFR), Ghost Dog (MR) | **angela_umerez4**: Silly Duck (MFR) |
-| 04:45 | **niceplayeruwu**: Fly-A-Pet Potion | **Judy_ll02**: Hermit Crab Box ×2 |
-| 04:45 | **Thymilesman**: Binturong (MR), Chocolate Dutch Guinea Pig (MFR) | **DoughnutDucks**: Ice Wolf (MFR) |
-| 04:45 | **RainBOW_Vam47**: Kappakid (M), Golden Corn | **Muichiro_Tokito21098**: Copycat |
-| 04:45 | **reserbadong2**: Frost Dragon (FR) | **Backupdoinky**: Rainbow Maker ×2, Giant Panda (FR) |
-| 04:45 | **MM_Cloud**: Crystal Egg ×15 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 04:45 | **chunkymunkava0**: Copycat (R) | **noo_basha123456**: Field Mouse (R) |
-| 04:45 | **shawnkenneth1**: Yellow Butterfly (R) | **dssfwds9**: Classic Trade Stand |
-| 04:45 | **Nolimit_J3sus**: Tiny Wings, Crocodile (R), Ride-A-Pet Potion ×2, Grim Dragon (F) | **xxSilence_IsBetterxx**: Turtle (NFR) |
-| 04:45 | **xxSharkyox**: Frost Dragon (FR), 2022 Birthday Confetti Cannon | **cunlainy**: Balloon Unicorn, African Wild Dog |
-| 04:40 | **JOSUESINIBANANIN**: Cow (FR), Hot Doggo (FR), Angel Wings | **iiSimplylvxy**: Cryptid (FR) |
-| 04:40 | **the3reveng**: Kaijunior (R), Stygian Owl (N), 2026 Birthday Butterfly (N), Oakee (N), Forest Sprite (N) | **Constancee_Starr**: Ride-A-Pet Potion |
-| 04:40 | **8enjineji**: Stray Cat Dragon (M) | **ameyyass**: Ride-A-Pet Potion ×2 |
+| 04:55 | **addmysecondaccount**: Deathstalker Scorpion, Shih Tzu (N), Oakee Wizard, Arctic Hare, Puma (N), Dracula Fish, Winter Fawn, Jumping Spider, Wren, Thunderfisher, Ocelot ×8 | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 04:55 | **FouWait1**: Evil Unicorn (FR), Fly-A-Pet Potion ×2 | **Elenaasooo**: Fairy Bat Dragon (NFR), Turtle (FR) |
+| 04:55 | **Roo_tookey123**: Strawberry Shortcake Bat Dragon (FR) | **cherrymoon4441**: 2022 Birthday Party Hat, Tiny Wings, Border Collie, Pancake Stack, Toaster Hat |
+| 04:55 | **cinammoroll_bun**: Kangaroo (R) | **angela_umerez4**: Yeti (MFR) |
+| 04:55 | **p001torich**: Classic Trade Stand ×3 | **santiagoyrjf**: Ride-A-Pet Potion |
+| 04:55 | **NeonGamerStar20**: Sugar Glider, Aurora Fox (FR) | **dumdadadat0p**: Cow (FR) |
+| 04:55 | **AL1C3W0RLDD**: Fly-A-Pet Potion ×5, Pet Handler Pro Certificate ×12 | **Siuyuiq654**: Cow (FR) |
+| 04:55 | **the3reveng**: Pomeranian (R), Abyssinian Cat (N), Milk Choccybunny (N), Gecko Ducky (N), 2026 Birthday Butterfly (N), Irish Setter (N) | **Constancee_Starr**: Ride-A-Pet Potion |
+| 04:55 | **MissaBloxluck**: Werewolf (MFR), Owlbear (MFR) | **isabella68078**: Flamingo (MFR) |
+| 04:55 | **sakuraplays_beanie**: Ghost Wolf (M), Shadow Dragon Ducky (N) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 04:55 | **cherryyz2008**: Munchkin Cat (NFR), Christmas Pudding Pup (NFR), Binturong (MFR), Canadian Goose (MFR) | **HE4RTS_4CECE**: Munchkin Cat (MFR) |
+| 04:55 | **DoughnutDucks**: Blazing Lion (R), Rainbow Maker, Hare (MFR), Turtle (NFR), Ice Cream Hermit Crab (MFR), Yule Log Dog (MR), Cabbit, Cherry-On-Top, Catte (MFR), Copycat (NR) | **Jimmyjon_JRJR**: Blazing Lion (NFR) |
+| 04:55 | **n1ghtm5**: Winged Tiger (R), Meerkat, Fly-A-Pet Potion ×2 | **SuperIndo_123**: Siamese Cat |
+| 04:55 | **MM_Cloud**: Crystal Egg ×15 | **Constancee_Starr**: Ride-A-Pet Potion |
+| 04:55 | **kobii_x**: Water Rabbit (NR) | **blake_shortie**: Fallow Deer |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
