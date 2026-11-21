@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 14:46 UTC by the scrape workflow._
+_Updated 2026-11-21 14:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 14:46 UTC by the scrape workflow._
 | amvgg | 11 | 37,303 | 2026-11-21T14:45 |
 | elve | 11 | 7,981 | 2026-11-21T14:46 |
 
-## AMVGG completed trades: 44,511 total
+## AMVGG completed trades: 44,586 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 2,712 |
+| 2026-11-21 | 2,787 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 14:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:45 | **Lem0n_org**: Sprout Snail | **KinaToons**: Purrowl ×3 |
-| 14:45 | **NomZixxx**: Crocodile (R) | **v6mpireeee**: Fly-A-Pet Potion ×6 |
-| 14:45 | **rafaelousthecrazy**: Hedgehog (FR), Ride-A-Pet Potion, RB Battles Trophy Hat | **Amvgg_Amvggg**: Evil Unicorn (FR) |
-| 14:45 | **Cutepatate088**: Bat Dragon (FR), Rain Cloud Hat, Fly-A-Pet Potion, Gemstone Egg | **MyAccountGoneForeve**: Giraffe (FR), Ballet Swan (M) ×3, Mermicorn (NFR), Cow (NFR), Cow (R), Mini Pig (FR) |
-| 14:45 | **cyptiaI**: Pet Handler Pro Certificate | **whyushine**: Ride-A-Pet Potion ×2 |
-| 14:45 | **SkittlesQueen_456**: Dragonfruit Fox (N), Ride-A-Pet Potion | **hahagirlfreind**: Munchkin Cat |
-| 14:45 | **Adoptmestocks3000**: Fly-A-Pet Potion ×3 | **Pandalovedogss**: Santa Hat |
-| 14:45 | **traashaq**: Pupcake (MFR) | **Fluffbxiii25**: Fly-A-Pet Potion ×5 |
-| 14:45 | **Artem_21a2**: Spring Bunny Hood | **speddsongswwa**: Ride-A-Pet Potion ×2, Halloween Blue Scorpion (MR), Green-Chested Pheasant (R) |
-| 14:45 | **emi28na**: Cryptid (MFR), Hedgehog (MFR), Sugar Glider (MFR) | **talal2006q8**: Bat Dragon (NFR), Candicorn (MFR), Cow (NFR) |
-| 14:45 | **leruval**: Evil Unicorn (FR), Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **lba_fofe**: Cerberus (MFR), Strawberry Tortle, Pupcicle (M), Scarebear (NR), Peppermint Penguin |
-| 14:45 | **H0LLYSHAUL**: Ride-A-Pet Potion ×4 | **CMETAHKA_13535**: Spring Bunny Hood |
-| 14:45 | **5hhhvv**: Frost Fury, Snow Monkey | **OBVIMILLSxx**: Matcha Cat |
-| 14:45 | **missy_Artz**: Unicorn Horn | **fenekitfixismymain**: Ride-A-Pet Potion ×18 |
-| 14:45 | **FlyToTheSaturn**: Christmas Doge Rattle, Cookie Dough Plush ×2, Candle ×2, Dragon Balloon ×2, Caticorn Rattle, Puppy Plush, Banana Plush, Elf Plush, Turkey Plush | **mofncufjs**: Fly-A-Pet Potion |
+| 14:55 | **aavqaii**: Lion Cub (MFR) | **roblox_user_8676283275**: Mule (MFR), Puffer Fish (MFR), Harp Seal (MR), Ram (MFR), Albino Bat (MFR) |
+| 14:55 | **imoowip**: Field Mouse | **dollxx_zz**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 14:55 | **Feli_456443**: Quokka | **immimi36**: Ride-A-Pet Potion |
+| 14:55 | **oofwoof_fart**: Starfish | **tommylikeroblox2009**: Retired Egg ×2 |
+| 14:55 | **nona200986**: Ride-A-Pet Potion | **zqxurllee**: Crystal Egg ×18 |
+| 14:55 | **Feli_456443**: Husky | **BubbleGumSplashplays**: Ride-A-Pet Potion ×2 |
+| 14:55 | **Kotosonoha**: Elephant (NFR), Siamese Cat, Husky (MFR), Rain Cloud Hat, Spring Bunny Nose, Fairy Bat Dragon (FR), Kangaroo (FR), Spring Bunny Feet | **leruval**: Parrot (FR) |
+| 14:55 | **munchiells**: Chocolate Dutch Guinea Pig | **eggsmayoketchup**: Ride-A-Pet Potion, Retired Egg ×10 |
+| 14:55 | **anxme_lol**: Water Rabbit (N) | **Addy18432**: Pupcicle (N) |
+| 14:55 | **Pandora_xsx2**: Ride-A-Pet Potion ×7, Cherry Blossom Flower Sticker | **eggsmayoketchup**: Swan (NR) |
+| 14:55 | **caxarberdok**: Toy Monkey (N) | **userulikk**: Fly-A-Pet Potion ×2 |
+| 14:55 | **OmegaRider_D4**: Werewolf (MFR), Rainbow Maker ×2, Halo, Unicorn Horn, Rain Cloud Hat ×2, 2022 Birthday Confetti Cannon | **yuyu_tik**: Hot Doggo (MFR) |
+| 14:55 | **h4_cd**: Fly-A-Pet Potion, Mochi Meow, Budgie Witch (N) | **Bunny_189659**: Ride-A-Pet Potion ×2 |
+| 14:55 | **h4_cd**: Pet Handler Pro Certificate, Mochi Meow, Cat (N) | **tommylikeroblox2009**: Ride-A-Pet Potion ×2 |
+| 14:55 | **xXxLunightxXx**: Canadian Goose | **SEBASTIAN_030513**: Rubber Ducky ×18 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
