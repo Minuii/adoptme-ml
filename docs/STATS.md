@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 12:16 UTC by the scrape workflow._
+_Updated 2026-11-21 12:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 12:16 UTC by the scrape workflow._
 | amvgg | 11 | 34,752 | 2026-11-21T12:15 |
 | elve | 11 | 7,363 | 2026-11-21T12:15 |
 
-## AMVGG completed trades: 43,812 total
+## AMVGG completed trades: 43,873 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 2,013 |
+| 2026-11-21 | 2,074 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 12:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:10 | **MM_Cloud**: Crystal Egg ×15 | **kirw_eqq**: Ride-A-Pet Potion |
-| 12:10 | **obsxssedx**: Ride-A-Pet Potion ×13, Fly-A-Pet Potion ×3 | **TeezYeez**: Frostbite Bear |
-| 12:10 | **Japvaxx**: Ride-A-Pet Potion | **liksichadoptik**: Pancake Stack |
-| 12:10 | **sufferingtogether**: Flash Weasel, Unicorn | **eyebagsq**: Tiny Wings |
-| 12:10 | **sufferingtogether**: Flash Weasel, Unicorn ×4, Shiba Inu (M), Bunny (M), Jumpscare (M), Poodle (M), Blue Butterfly (M), Ms. Muffet (M), Pinkypillar (M) | **eyebagsq**: Candicorn (FR) |
-| 12:10 | **21Luciaunicornio**: Frost Unicorn | **0Sofia_Kem0**: Kangaroo (FR), Chihuahua (N) |
-| 12:10 | **Lovely_lunch**: Puffer Fish (MFR), Purrowl (N), Rubber Ducky (M), Angler Fish (F), Ride-A-Pet Potion | **Vitek_228666**: Turtle (FR) |
-| 12:10 | **jauzyp**: Copycat | **ggggg113323**: Ride-A-Pet Potion ×5 |
-| 12:10 | **typol1235y6**: Dragonfruit Fox (FR), Pet Handler Pro Certificate, Pupcicle, Pangolin (N) | **By_millsjos**: Copycat |
-| 12:10 | **vanillawwu**: Goldhorn (MFR) | **Gooblin_trool**: Unicorn Horn |
-| 12:10 | **Viktoria_11942**: Dalmatian (FR), Crocodile (R), Fly-A-Pet Potion | **TaPok228pon**: Hedgehog (FR) |
-| 12:10 | **0FpyKtiK0**: Evil Unicorn (FR) ×2, Turtle (FR), Kangaroo (FR), Pig (FR), Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×6 | **mgjgmwg**: Frost Dragon (FR) |
-| 12:10 | **snula33**: Kangaroo (FR) ×2, Kangaroo (R), Tiny Wings, Ride-A-Pet Potion | **Sydrexus**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:10 | **SonicTheHedgedog_123**: Turtle (FR), Frost Fury (R), Latte Kitsune (N), Purple Butterfly (NR), Candicorn (FR) | **revo4_ka**: Chocolate Chip Bat Dragon (FR) |
-| 12:10 | **Dlya_amvgg**: Chocolate Chip Bat Dragon (NFR) | **anikaaww**: Hedgehog (FR), Alpaca (R), Goose (FR) |
+| 12:25 | **FunDayDwH**: Shiver Wolf, Black Dog ×2, Chick, Snowman, Grave Owl | **Elixarty**: Ride-A-Pet Potion |
+| 12:25 | **cerialconchocomil**: Kangaroo (FR), Pet Handler Pro Certificate ×3 | **juliusxpw**: Border Collie (FR), Tiny Wings |
+| 12:25 | **JenYAsha2akk12**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **MidLOL42**: Frost Fury (FR) |
+| 12:25 | **vanillawwu**: Unicorn Horn, Sandwich Hat, Choco Penguin | **nornomm**: 2022 Birthday Cake |
+| 12:25 | **Bchikago67**: Ride-A-Pet Potion ×2 | **CAXAROK_NBK**: Snow Monkey (R) |
+| 12:25 | **lona262**: Rainbow Maker, Sushi Penguin (MFR), Unicorn Horn, Candyfloss Chick (FR), Tiny Wings ×2, Ketchup and Mustard Jetpack, Pink Cat Ear Headphones, Pink Heart Glasses ×2, Blue Butterfly Wings, Back Taco, Sugar Axolotl (FR) | **obv1joowe**: Elephant (MFR) |
+| 12:25 | **rainbow_shiny152**: Parrot (FR), Crow (FR), Sugar Glider (R), Alpaca (R), Broken Egg | **NummieNummiegirl**: Alpaca (MFR) |
+| 12:25 | **luvyerh**: Cow (FR) | **3mis_alttt**: Tiny Wings, Pig (R), Lion (FR), Ride-A-Pet Potion |
+| 12:25 | **christoqherrr**: Mermicorn (FR) | **Starr_0073**: S'mores Raccoon (MFR), Ballet Swan, Rainbow Stroller |
+| 12:25 | **OceanXSeas_YT**: Ride-A-Pet Potion ×18 | **Adoptmestocks3000**: Werewolf (R) |
+| 12:25 | **bacon_deken**: Hedgehog (MFR) | **cannotaffordme**: Frostbite Bear (MFR), Glacier Kitsune (MFR), Arctic Dusk Dragon (MFR), Ice Wolf (MFR) ×2, Arctic Dusk Dragon (M) ×2, Wooly Rhino (MFR), Glacier Moth (MFR), Arctic Fox (MFR) |
+| 12:25 | **nic0l3xxe**: Strawberry Tortle (R), Spring Bunny Hood, Spring Bunny Nose | **Kamila_33309**: Goose |
+| 12:25 | **gdhjsbdhhsbs**: Jekyll Hydra (MFR) | **capta1nEllaplayzPlay**: Owl |
+| 12:25 | **hiitsmekent10**: Sneak Weasel, Corgi ×2, Pangolin, Maleo Bird, Borhyaena Gigantica, Frozen Penguin, Ghost, Waffle Wyrm ×2, Cattuccino, Dotted Eggy, Mochi Meow ×2, Diamond Mahi Mahi, Dragonfly ×2 | **KyraPidgorn**: Ride-A-Pet Potion |
+| 12:25 | **Officalyuichi**: Pupcake (R), Corn Doggo (R) | **MinhQnyu**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
