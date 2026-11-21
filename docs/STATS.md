@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 06:16 UTC by the scrape workflow._
+_Updated 2026-11-21 06:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 06:16 UTC by the scrape workflow._
 | amvgg | 11 | 28,752 | 2026-11-21T06:15 |
 | elve | 11 | 6,146 | 2026-11-21T06:15 |
 
-## AMVGG completed trades: 42,725 total
+## AMVGG completed trades: 42,755 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 926 |
+| 2026-11-21 | 956 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 06:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:15 | **1ovIIy**: Pain au Chat ×3 | **cutesyaeris**: Ride-A-Pet Potion |
-| 06:15 | **XxRainbowDasher**: Candicorn (MFR) | **K_KLOPQ**: Evil Unicorn (FR), Caterpillar (R), Glormy Crab (MFR), Clownfish (MR) |
-| 06:15 | **caroesel**: Candyfloss Chick (MFR), Dango Penguins (MFR) | **obv1kylxx**: Majestic Pony (MFR), Flaming Fox (MFR), Ballet Swan (MFR), Rose Dragon (MFR), Royal Corgi (MFR), Moose Calf (MR), Rain Cloud Hat |
-| 06:15 | **BulbyChallenges**: Pupcicle | **nornomm**: Count Slothula |
-| 06:15 | **aarxcia**: African Wild Dog (FR) | **Cynor0x**: Hot Doggo (NFR), Fairy Bat Dragon (FR) |
-| 06:15 | **xSweetie_Candyxx**: Flamingo (FR), Ride-A-Pet Potion, Goat (R) | **ZockerCelina_20**: Fairy Bat Dragon (FR) |
-| 06:15 | **awx_mili**: Fly-A-Pet Potion, Chihuahua | **balen_112**: Unicorn ×2 |
-| 06:15 | **02harvA_A**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Winged Horse (R) | **nolosew22445**: Jester Dragon (FR) |
-| 06:15 | **gabdoptme**: Snow Owl (FR) | **AmorxAeternus**: River Otter (M), Ruddy Duck (M) |
-| 06:15 | **numbedsorrow**: Harp Seal (MFR), Ride-A-Pet Potion ×2, Cattuccino (M) | **ellielielielieee**: Cabbit (FR) |
-| 06:15 | **Amulia837**: Munchkin Cat (MFR), Unicorn Horn ×2 | **numbedsorrow**: African Wild Dog (FR) |
-| 06:15 | **DxxxDemon_WolfxxxD**: Chocolate Chip Bat Dragon (FR), Kookaburra (NFR), Kitty Bat (MR) | **Soffi_nas7**: Munchkin Cat (MFR) |
-| 06:15 | **sillva_042**: Cow (FR), Alley Cat (N), Christmas Pudding Pup, Skelicorn (M) | **HELL0J0SEPH**: Winged Tiger (NFR) |
-| 06:15 | **Melonlover406**: Strawberry Shortcake Bat Dragon (MFR), Matcha Cat (MFR) ×2, Rain Cloud Hat | **trendypopcon**: Dalmatian (MFR) |
-| 06:10 | **Addmymainamv**: Turtle (FR), Dalmatian (FR), Cow (MFR), Ride-A-Pet Potion, Nautilus | **bananage_07**: Parrot (NFR) |
+| 06:25 | **stoIencorpses**: Fly-A-Pet Potion ×18 | **P50**: Candy Hare (MFR) |
+| 06:25 | **yanahaltacc1**: Chihuahua ×3 | **roblox_user_5264045140**: Tuxedo Cat (R) |
+| 06:25 | **XiaoFaye1433**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2 | **krimpriiz**: Pupcicle (MFR) |
+| 06:25 | **Sanki56757**: Unicorn Backpack, Ant | **lou1slove**: Robo Dog (NFR) |
+| 06:25 | **Panci_Terbang33**: Pupcicle ×6 | **ikabackflip**: Fly-A-Pet Potion ×2 |
+| 06:25 | **Celineerr**: Panda (MFR), Red Dutch Guinea Pig, Ride-A-Pet Potion ×3 | **Elroy_maktum**: Harp Seal (MFR) |
+| 06:25 | **Bismuth234**: Fly-A-Pet Potion ×6, Green-Chested Pheasant ×2 | **NotSweatyOnion**: Frost Fury (NFR) |
+| 06:25 | **assapickle**: Ride-A-Pet Potion, Bison (M) | **BrooklynToxicGam3r**: Harp Seal |
+| 06:25 | **Marines_Natalia**: Unicorn | **Eurysnvge207785**: Capricorn (R) |
+| 06:25 | **UniversePaladin**: Copycat ×3, Count Slothula ×4 | **fallfashionn**: Candyfloss Chick (FR) |
+| 06:25 | **Bobothatdudehaha**: Zombie Wolf (M) | **starswirl_64**: Frostbite Bear (FR) |
+| 06:25 | **Minera_v1**: Ride-A-Pet Potion | **midnight215781**: Purrowl ×18 |
+| 06:25 | **Haipookie26**: Fishbone Badge, Red & Yellow Beads | **kobii_x**: Halloween White Skull Hat |
+| 06:25 | **DRZeBRol**: Frost Fury (NFR), Nautilus (MFR), Fly-A-Pet Potion ×3 | **NotSweatyOnion**: Turtle (FR) |
+| 06:25 | **1uvinqmarr**: Tutu, Jester Hat | **rainbow72679**: Thinking Hat |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
