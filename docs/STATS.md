@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 01:25 UTC by the scrape workflow._
+_Updated 2026-11-21 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 01:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 23,797 | 2026-11-21T01:15 |
-| elve | 11 | 5,160 | 2026-11-21T01:15 |
+| amvgg | 11 | 24,050 | 2026-11-21T01:30 |
+| elve | 11 | 5,206 | 2026-11-21T01:31 |
 
-## AMVGG completed trades: 42,034 total
+## AMVGG completed trades: 42,037 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 235 |
+| 2026-11-21 | 238 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,9 @@ _Updated 2026-11-21 01:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:30 | **Teddybearaddmymain**: Arctic Reindeer (FR), Winged Tiger (R), Cupid Dragon (FR), Candy Hare, 2022 Birthday Party Horn, Ride-A-Pet Potion | **cat6queen**: Cupid Dragon (MFR) |
+| 01:30 | **selensecretacc**: Shrew (NFR), Ride-A-Pet Potion | **sweetlynnxx**: 2022 Birthday Cake |
+| 01:30 | **RxchelPlxyz**: Goose (NFR), Ride-A-Pet Potion ×2 | **mellosbunny**: Munchkin Cat (MR) |
 | 01:25 | **llovesagee**: Christmas Pudding Pup (R) | **StannyStarPets**: Zombie Buffalo (R), Ride-A-Pet Potion |
 | 01:25 | **pwaranoiia**: Cow (R), Pancake Stack | **maryli_50**: Owlbear (R), Unicorn Horn, Cake Friend, Alley Cat (R), Christmas Pudding Pup (R) |
 | 01:25 | **aIcremie_s**: Cryptid (FR), Unicorn Horn, Alpaca (R) | **HaramiHUN**: Balloon Unicorn (FR) |
@@ -48,9 +51,6 @@ _Updated 2026-11-21 01:25 UTC by the scrape workflow._
 | 01:25 | **eyeofrahismymom**: Christmas Pudding Pup (NR), Axolotl (NFR), Harp Seal (MR) | **joshsawsy**: Alley Cat (MFR) |
 | 01:25 | **XxShadow_CorruptxX**: Schoolhouse Home, Ride-A-Pet Potion, White Sand Dollar | **HeartsForEli_1406**: Toyshop House, Stocked Santa Sleigh |
 | 01:25 | **Flux_puck**: Jellyfish (MFR), Arctic Fox (R) | **nikiph9w**: Flaming Fox (MFR), Turtle (MFR) |
-| 01:25 | **Artem_milkSG**: Alpaca (FR), Fly-A-Pet Potion | **NongBow555**: Cabbit (FR) |
-| 01:25 | **frecalsplogeok9**: Cherry-On-Top | **juandxmm2**: Moon Rabbit (MFR), Seabed Creeper (MFR) |
-| 01:25 | **TESTACC1114_0**: Grim Dragon (NFR), Black Panther (NFR) | **20O2_s**: Flaming Fox (MFR), Turtle (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
