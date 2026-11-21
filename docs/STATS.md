@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 03:40 UTC by the scrape workflow._
+_Updated 2026-11-21 03:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 03:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 26,035 | 2026-11-21T03:30 |
-| elve | 11 | 5,607 | 2026-11-21T03:31 |
+| amvgg | 11 | 26,268 | 2026-11-21T03:45 |
+| elve | 11 | 5,671 | 2026-11-21T03:46 |
 
-## AMVGG completed trades: 42,407 total
+## AMVGG completed trades: 42,413 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 608 |
+| 2026-11-21 | 614 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,12 @@ _Updated 2026-11-21 03:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:45 | **AdoptMe_pro6969**: Evil Unicorn (FR) | **jasminesep16**: Field Mouse (MFR) |
+| 03:45 | **Xwebbr**: Retired Egg ×2 | **reigninharmonyy**: Boohoo |
+| 03:45 | **razarvale2z**: Pain au Chat ×18 | **Jvlausy**: Ride-A-Pet Potion ×6 |
+| 03:45 | **mychemgeek**: Goose (FR), Harp Seal (MR), Munchkin Cat (R) | **kaylamicmi**: Strawberry Shortcake Bat Dragon (FR) |
+| 03:45 | **wx8zqxx**: Rain Cloud Hat | **Stevieicecream16**: Matcha Cat, Spring Bunny Hood, Alley Cat (R) |
+| 03:45 | **ARto_Kyn666**: Pet Handler Pro Certificate | **teamindonesiamu**: Ride-A-Pet Potion ×2 |
 | 03:36 | **xXrainbow4lifeXxx**: Ride-A-Pet Potion ×2 | **lucas2350518**: Sandwich Hat, Roadrunner, Crystal Egg |
 | 03:36 | **Euphoria_72**: Fairy Bat Dragon (FR), Munchkin Cat (NR), Fly-A-Pet Potion, Ride-A-Pet Potion | **tatukarainbow**: Chocolate Chip Bat Dragon (FR) |
 | 03:36 | **kxil_008**: Grim Dragon (FR) | **Xxxxashhhh**: Pet Handler Pro Certificate ×11 |
@@ -45,12 +51,6 @@ _Updated 2026-11-21 03:40 UTC by the scrape workflow._
 | 03:36 | **faikubjotch**: Yule Log Dog (MFR), Grim Dragon (R), Grim Dragon, Gargoyle (MFR), Bee (MFR), Copycat, Scarecrow Crow (NR), Werewolf (FR), Golden Lettuce, Pink Heart Glasses, Pink Cat Ear Headphones, Gemstone Egg, Tortoiseshell Guinea Pig (R), Caelum Cervi, Rose Dragon, Fly-A-Pet Potion ×2 | **Strawberry_Swirls0**: Crow (FR) |
 | 03:36 | **LalayS2z**: Crocodile (R) | **sonasha0445**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×8 |
 | 03:36 | **LalayS2z**: Bush Elephant (R) | **PrisonLifePro106**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×3 |
-| 03:36 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **SUPERPENGUIN0111**: Dragonfruit Fox |
-| 03:36 | **DuckyMuffinz**: Pupcicle | **jxylvvvvvv**: Admin Abuse Egg ×18 |
-| 03:36 | **Allyanaph124**: Fairy Bat Dragon (FR) ×2, Albino Monkey (FR), Kangaroo (R), Goat (R), Fly-A-Pet Potion | **lupsgrl**: Evil Unicorn (FR) |
-| 03:36 | **thyum_56**: Emperor Gorilla (FR), Ride-A-Pet Potion ×5 | **Blazebrycechubs**: Candicorn |
-| 03:36 | **testaccounformysoul**: Ibex (N) | **Mnryyrm**: Trapdoor Snail (N) |
-| 03:36 | **EmmaFlame548**: Cow (FR) | **HOONMINLIXGYU**: Chocolate Dutch Guinea Pig (MR), Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
