@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 04:40 UTC by the scrape workflow._
+_Updated 2026-11-21 04:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 04:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 27,015 | 2026-11-21T04:30 |
-| elve | 11 | 5,785 | 2026-11-21T04:31 |
+| amvgg | 11 | 27,266 | 2026-11-21T04:45 |
+| elve | 11 | 5,833 | 2026-11-21T04:46 |
 
-## AMVGG completed trades: 42,523 total
+## AMVGG completed trades: 42,535 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 724 |
+| 2026-11-21 | 736 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 04:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:45 | **kittycatkathy7523**: Pupcake (MR) | **Nasha1ra**: Mirai Moth (MFR) |
+| 04:45 | **albbays**: Alpaca (R), Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig, Tiny Wings, Unicorn, Count Slothula (N) | **Cherx_9**: Mini Pig (R) |
+| 04:45 | **funfwetticake**: Yeti (MFR), Ghost Dog (MR) | **angela_umerez4**: Silly Duck (MFR) |
+| 04:45 | **niceplayeruwu**: Fly-A-Pet Potion | **Judy_ll02**: Hermit Crab Box ×2 |
+| 04:45 | **Thymilesman**: Binturong (MR), Chocolate Dutch Guinea Pig (MFR) | **DoughnutDucks**: Ice Wolf (MFR) |
+| 04:45 | **RainBOW_Vam47**: Kappakid (M), Golden Corn | **Muichiro_Tokito21098**: Copycat |
+| 04:45 | **reserbadong2**: Frost Dragon (FR) | **Backupdoinky**: Rainbow Maker ×2, Giant Panda (FR) |
+| 04:45 | **MM_Cloud**: Crystal Egg ×15 | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 04:45 | **chunkymunkava0**: Copycat (R) | **noo_basha123456**: Field Mouse (R) |
+| 04:45 | **shawnkenneth1**: Yellow Butterfly (R) | **dssfwds9**: Classic Trade Stand |
+| 04:45 | **Nolimit_J3sus**: Tiny Wings, Crocodile (R), Ride-A-Pet Potion ×2, Grim Dragon (F) | **xxSilence_IsBetterxx**: Turtle (NFR) |
+| 04:45 | **xxSharkyox**: Frost Dragon (FR), 2022 Birthday Confetti Cannon | **cunlainy**: Balloon Unicorn, African Wild Dog |
 | 04:40 | **JOSUESINIBANANIN**: Cow (FR), Hot Doggo (FR), Angel Wings | **iiSimplylvxy**: Cryptid (FR) |
 | 04:40 | **the3reveng**: Kaijunior (R), Stygian Owl (N), 2026 Birthday Butterfly (N), Oakee (N), Forest Sprite (N) | **Constancee_Starr**: Ride-A-Pet Potion |
 | 04:40 | **8enjineji**: Stray Cat Dragon (M) | **ameyyass**: Ride-A-Pet Potion ×2 |
-| 04:40 | **129x956**: Fairy Bat Dragon (FR), Fairy Bat Dragon | **altfornewgen**: Brown Bear (MFR) |
-| 04:40 | **plushioss**: French Bulldog (MFR) | **awita_92729**: Panda (MFR), Strawberry Hat, Burger Boots |
-| 04:36 | **Kgell777**: Spring Bunny Hood, Latte Kitsune (R), Electric Tide Mega Neon Paint, Thunderfisher | **Lorenlsalone**: Eggnog Dog (MR) |
-| 04:36 | **Bismuth234**: Peppermint Penguin (FR), Ride-A-Pet Potion ×4 | **deandrapisang**: Cabbit (FR), Munchkin Cat (FR) |
-| 04:36 | **Aliya_nothere**: Harp Seal (NFR), Puffer Fish (N) | **j2nrrz**: Unicorn (MFR) |
-| 04:36 | **Tota52Mota**: Propeller Hat | **silencer282**: Ride-A-Pet Potion ×3 |
-| 04:36 | **Jeremibus2012**: Brown Bear (N), Frost Phoenix (R) | **Quizzaff**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion |
-| 04:36 | **Aodpwsnwo**: Mini Pig | **Fl3urDel_3Ve**: Munchkin Cat (NFR), Latte Kitsune (R), Chihuahua (N), Happy Duckling (N) |
-| 04:36 | **ndjJidjfhbnmnbvbmfg**: Turtle (FR), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **painkissed**: Chocolate Dutch Guinea Pig (MFR) |
-| 04:36 | **m1xa_0**: Strawberry Shortcake Bat Dragon (MFR) | **addmymain62**: Mini Pig (MFR), Harp Seal (MFR), Ram (MFR), Tiny Wings |
-| 04:36 | **La_boyMich15**: Shadow Dragon (NFR), Bat Dragon (FR), Frost Dragon (NFR), Owl (FR), Mini Pig (FR), Tiny Wings, Rainbow Maker | **moniaIa**: Shadow Dragon (MFR) |
-| 04:36 | **Wwalwal_2**: Gemstone Egg ×3 | **cherzfjdgthd**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
