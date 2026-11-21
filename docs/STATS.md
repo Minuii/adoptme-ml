@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 22:01 UTC by the scrape workflow._
+_Updated 2026-11-21 22:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 22:01 UTC by the scrape workflow._
 | amvgg | 11 | 44,866 | 2026-11-21T22:00 |
 | elve | 11 | 9,751 | 2026-11-21T22:01 |
 
-## AMVGG completed trades: 46,858 total
+## AMVGG completed trades: 46,904 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 5,059 |
+| 2026-11-21 | 5,105 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 22:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:00 | **adoptmexx626**: Purrowl, Mummy Spider, Pandaguin Glooptodog | **eusouajully1**: Mrs. Whiskerpips |
-| 22:00 | **Ameera_109**: Crow (FR), Evil Unicorn (FR) | **Itz_Yashka**: Tortoiseshell Guinea Pig (MFR) |
-| 22:00 | **iaMatthieu1**: Cabbit (FR) | **xxxxxxxx01010108**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×6 |
-| 22:00 | **martins10530**: Ride-A-Pet Potion ×11, Fly-A-Pet Potion ×7 | **Frander2983**: Strawberry Tortle |
-| 22:00 | **Queen_bee30**: Ride-A-Pet Potion ×5 | **cowlol898**: Jester Dragon |
-| 22:00 | **V4MPIR3_001**: Alley Cat | **kayleighkittycat123**: Rhino ×2, Singularity Beetle |
-| 22:00 | **hopia00**: Love Letter | **Exphemia**: Skelicorn (N) |
-| 22:00 | **Anderqxzz**: Pirate Hermit Crab (MFR), Gaelic Fae (MFR), Amami Rabbit (MFR), Lynx (MFR), Yeti (MFR), Mule (MFR), Ride-A-Pet Potion ×2, Sushi Penguin | **q_culvs**: Irish Water Spaniel (MFR) |
-| 22:00 | **2000animalgirl**: Owl (FR), Christmas Pudding Pup (MR), Latte Kitsune (MR), Flaming Fox (MFR), Harp Seal (MR), Zombie Wolf (MR), Bunny Swirl (MR), Elephant (NFR), Pupcake (M), Ghostly Cat (M), Emu (M), Ice Cube (N), Orca, Green Amazon, Clementine Owl | **atracttion**: Owl (NFR) |
-| 22:00 | **Alex_vk06**: Retired Egg ×18 | **JelenaGold**: Hippo |
-| 22:00 | **diiorrvi**: Ride-A-Pet Potion | **ded_valera9586**: Bakeneko (M) |
-| 22:00 | **User017238**: Cattuccino (N), Ride-A-Pet Potion | **glotznd_1324**: Boohoo (M), Jumpscare (N), Thunderfisher ×5 |
-| 22:00 | **Boiledfoott**: Alpaca (FR), Phoenix (NFR), Chocolate Dutch Guinea Pig (R) | **lildaminii**: Chocolate Dutch Guinea Pig (MFR) |
-| 22:00 | **roxzyydoll**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 | **lildaminii**: 2022 Birthday Party Horn |
-| 22:00 | **Brian_Fayx**: Pet Handler Pro Certificate | **s_snoupyy**: Ride-A-Pet Potion ×2 |
+| 22:10 | **Biscvidi29**: Candicorn (FR) | **grcee_rose**: Fly-A-Pet Potion ×9 |
+| 22:10 | **DracisestraCZ1**: Crow (FR) | **fishtaili**: Flash Weasel, Mermicorn (FR), Strawberry Tortle (R), Kangaroo (MFR), Caterpillar |
+| 22:10 | **Byeedontmindme1234**: Fly-A-Pet Potion, Ride-A-Pet Potion | **AprilMaeJune0**: Alley Cat |
+| 22:10 | **YOKOZ303**: Milk Choccybunny (M) | **ziiwca**: Ride-A-Pet Potion |
+| 22:10 | **The_Mery24**: Frog, Ringmaster Gibbon (N), Diamond Dragon | **Gabo_XD202**: Ride-A-Pet Potion |
+| 22:10 | **Gabo_XD202**: Fly-A-Pet Potion ×2, Alley Cat | **kawiilkris**: Indian Flying Fox (M) |
+| 22:10 | **stoIencorpses**: Angus Calf (M) | **Sleepy_Sonya112**: Fly-A-Pet Potion |
+| 22:10 | **bazychko**: Fly-A-Pet Potion ×16, Pet Handler Pro Certificate, Cake Friend (N) | **lollucio251**: Cow (FR) |
+| 22:10 | **Celia4160**: Ride-A-Pet Potion ×3 | **linuured**: Chocolate Egg |
+| 22:10 | **Boiledfoott**: Aestus (FR) | **diiorrvi**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 22:10 | **1MZ03Y**: Ice Wolf (MR), Queen Bee (MFR), Naughty Mistletroll (M), Frost Phoenix (MR), Glormy Hound (MR), Leopard Shark (M) | **murid5**: Owl (FR) |
+| 22:10 | **zpro_jumpeur**: Snow Owl (NFR) | **diiorrvi**: Ride-A-Pet Potion ×4 |
+| 22:10 | **Allieiiiwiw**: Christmas Pudding House, Billy Goat | **Kkristiksy**: Ride-A-Pet Potion |
+| 22:10 | **boniboniya**: Turtle (FR) ×4, Arctic Dusk Dragon | **xKashaf**: Evil Unicorn (FR) |
+| 22:10 | **dimon221221332**: Ride-A-Pet Potion ×10 | **misreca4lled**: Unicorn (M) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
