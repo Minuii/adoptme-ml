@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-21 01:11 UTC by the scrape workflow._
+_Updated 2026-11-21 01:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 17 | 2026-11-11T1036Z | 2026-11-20T0316Z |
+| elve | 18 | 2026-11-11T1036Z | 2026-11-21T0115Z |
 | amvgg | 53 | 2026-11-11T1036Z | 2026-11-20T1715Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 23,548 | 2026-11-21T01:00 |
-| elve | 11 | 5,148 | 2026-11-21T01:01 |
+| amvgg | 11 | 23,797 | 2026-11-21T01:15 |
+| elve | 11 | 5,160 | 2026-11-21T01:15 |
 
-## AMVGG completed trades: 41,989 total
+## AMVGG completed trades: 41,991 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 190 |
+| 2026-11-21 | 192 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,8 @@ _Updated 2026-11-21 01:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:15 | **Alaska_rdx**: Cuddly Candle (FR), Classic Trade Stand | **Yumi_Rose8**: Magic House Door, Ride-A-Pet Potion |
+| 01:15 | **pwaranoiia**: Toaster Hat | **lapotaxie_ECM**: Unicorn, Kiwi, Sloth (R), Squid, Toasty Red Panda, Puptune, Skunk, Pink Betta Fish ×2, Alley Cat (FR), Tutu, Rain Hat |
 | 01:11 | **X0LuvyouX0**: Blazing Lion (NFR), Giraffe (FR), Chocolate Chip Bat Dragon (FR), Lion, Pancake Stack | **austinbest123**: Cryptid (MFR) |
 | 01:11 | **Flutterieshyy**: Candicorn (R), Bush Elephant, Albino Monkey (FR) ×2, Polar Bear (NR), Lion (R), Munchkin Cat, Copycat (FR), Sakura Spirit (FR), Flamingo (FR), Kangaroo (FR) | **ElFanan_Asser**: Crow (FR) |
 | 01:11 | **Cutesy_BEONCEY**: Rainbow Maker, Arctic Reindeer (NFR), Spring Bunny Hood | **grlfri7nd**: Evil Unicorn (NFR), Shark Puppy (R), Ice Cream Cone Hat |
@@ -49,28 +51,26 @@ _Updated 2026-11-21 01:11 UTC by the scrape workflow._
 | 01:06 | **m1xa_0**: Strawberry Shortcake Bat Dragon (FR), Rainbow Maker, Pig | **Star4tickelshin**: Jellyfish (MFR) |
 | 01:06 | **warriors1gamig**: Rainbow Maker ×2, Cherry-On-Top, 2022 Birthday Party Hat, 2022 Birthday Party Horn, Tiny Wings ×2, Ice Cream Cone Hat ×2, Rain Cloud Hat, 2022 Birthday Confetti Cannon, Spring Bunny Hood, Rain Boots, Rain Hat, Blue Cat Ear Headphones, Elf Hat, Pancake Stack | **ElFanan_Asser**: Frost Dragon (FR) |
 | 01:06 | **avokado78o**: Unicorn, Skelicorn ×2 | **MAMAMOCKA1**: Ride-A-Pet Potion |
-| 01:06 | **den13xxl**: Cerberus (R) | **afissamuzfirah**: Fly-A-Pet Potion |
-| 01:06 | **irlaugust13**: Chocolate Dutch Guinea Pig (MFR), Kangaroo (FR), Pain au Chat (MFR) | **l0v3pure**: Rainbow Maker |
 
-## Elvebredd value changes: 62,468 since 2023-09-16
+## Elvebredd value changes: 62,569 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-20 02:24 | Flash Weasel | mega fly ride | 304 | 252 |
-| 2026-11-20 02:24 | Flash Weasel | neon fly ride | 72 | 61 |
-| 2026-11-20 02:24 | Flash Weasel | default no potion | 16.75 | 14 |
-| 2026-11-20 02:24 | Haetyphoon | mega fly ride | 308 | 252 |
-| 2026-11-20 02:24 | Haetyphoon | neon fly ride | 73 | 61 |
-| 2026-11-20 02:24 | Haetyphoon | default no potion | 17 | 14 |
-| 2026-11-20 02:24 | Copycat | mega fly ride | 126 | 122 |
-| 2026-11-20 02:24 | Copycat | neon fly ride | 31 | 30 |
-| 2026-11-20 02:24 | Copycat | default no potion | 6.75 | 6.5 |
-| 2026-11-20 02:24 | Jester Dragon | mega fly ride | 108 | 100 |
-| 2026-11-20 02:24 | Jester Dragon | neon fly ride | 28 | 26 |
-| 2026-11-20 02:24 | Jester Dragon | default no potion | 6.5 | 6 |
-| 2026-11-20 02:24 | Amethyst Penguin | mega fly ride | 2224 | 2160 |
-| 2026-11-20 02:24 | Amethyst Penguin | neon fly ride | 546 | 530 |
-| 2026-11-20 02:24 | Amethyst Penguin | default fly ride | 134 | 130 |
+| 2026-11-21 00:58 | Flash Weasel | mega fly ride | 252 | 212 |
+| 2026-11-21 00:58 | Flash Weasel | neon fly ride | 61 | 51 |
+| 2026-11-21 00:58 | Flash Weasel | default no potion | 14 | 11.5 |
+| 2026-11-21 00:58 | Haetyphoon | mega fly ride | 252 | 212 |
+| 2026-11-21 00:58 | Haetyphoon | neon fly ride | 61 | 51 |
+| 2026-11-21 00:58 | Haetyphoon | default no potion | 14 | 11.5 |
+| 2026-11-21 00:58 | Copycat | mega fly ride | 122 | 114 |
+| 2026-11-21 00:58 | Copycat | neon fly ride | 30 | 28 |
+| 2026-11-21 00:58 | Copycat | default no potion | 6.5 | 6 |
+| 2026-11-21 00:58 | Jester Dragon | mega fly ride | 100 | 92 |
+| 2026-11-21 00:58 | Jester Dragon | neon fly ride | 26 | 24 |
+| 2026-11-21 00:58 | Jester Dragon | default no potion | 6 | 5.5 |
+| 2026-11-21 00:58 | Matcha Cat | mega fly ride | 136 | 144 |
+| 2026-11-21 00:58 | Matcha Cat | neon fly ride | 33 | 35 |
+| 2026-11-21 00:58 | Matcha Cat | default no potion | 7 | 7.5 |
 
 ## AMVGG value changes: 8,035 since 2026-06-02
 
