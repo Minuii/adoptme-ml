@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 06:40 UTC by the scrape workflow._
+_Updated 2026-11-21 06:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 06:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 28,977 | 2026-11-21T06:30 |
-| elve | 11 | 6,213 | 2026-11-21T06:31 |
+| amvgg | 11 | 29,228 | 2026-11-21T06:45 |
+| elve | 11 | 6,248 | 2026-11-21T06:46 |
 
-## AMVGG completed trades: 42,800 total
+## AMVGG completed trades: 42,803 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,001 |
+| 2026-11-21 | 1,004 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,9 @@ _Updated 2026-11-21 06:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:45 | **Papitascongaseosa_xD**: Moon Egg | **Dashichka_lifee**: Garden Egg |
+| 06:45 | **NOBODYknows_1100**: Bunny Swirl, Gingerbread Mouse (N), Patchy Bear (N), Black-Footed Ferret (N), Onza (N), Dirty Ducky (N) | **SELLERMM2STARPETS**: Fly-A-Pet Potion |
+| 06:45 | **Potatoislife184**: Wolf, Wolf (R), Peachick | **wskdaks**: Ride-A-Pet Potion |
 | 06:40 | **Fluffbxiii25**: Siamese Cat (R) | **pinkytedslovie**: Water Rabbit (M), Harp Seal (NFR) |
 | 06:40 | **RyukkHolder**: Aestus (MFR), Matcha Cat | **Bineydex0**: Cabbit, Cabbit (R) |
 | 06:40 | **K1MM007**: African Wild Dog (FR), Alley Cat (MFR), Great Pyrenees (MFR), Spring Bunny Hood | **pawthetiic**: Rainbow Maker ×2, Arctic Dusk Dragon (MFR), Matcha Cat, Fly-A-Pet Potion |
@@ -48,9 +51,6 @@ _Updated 2026-11-21 06:40 UTC by the scrape workflow._
 | 06:40 | **lipgloss**: Strawberry Shortcake Bat Dragon (NFR) | **Mapu_0081**: Balloon Unicorn (FR) |
 | 06:40 | **Bl00di3d_canines**: Retired Egg ×17 | **qruinty**: Chihuahua |
 | 06:40 | **0bjectl3x**: Ride-A-Pet Potion | **xlux_latte**: Water Rabbit, Pupcicle |
-| 06:40 | **love_73659**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×8, Pet Handler Pro Certificate | **Abaddon_Kisser666**: Kangaroo (FR) |
-| 06:40 | **MiniAbbychan**: Owlbear (MFR), Alley Cat, Kitty Bat (NR), Matcha Cat | **KayleeSt0rm147**: Dalmatian (FR) |
-| 06:40 | **pawthetiic**: Ring-Tailed Lemur (MFR), Fly-A-Pet Potion | **sorryimsweetx_v**: Moon Rabbit (MFR), S'mores Raccoon (MFR), Ghost Bunny (MFR), Zombie Wolf (MFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
