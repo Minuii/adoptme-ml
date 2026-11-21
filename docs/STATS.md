@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 09:10 UTC by the scrape workflow._
+_Updated 2026-11-21 09:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 09:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 31,454 | 2026-11-21T09:00 |
-| elve | 11 | 6,720 | 2026-11-21T09:01 |
+| amvgg | 11 | 31,689 | 2026-11-21T09:15 |
+| elve | 11 | 6,743 | 2026-11-21T09:15 |
 
-## AMVGG completed trades: 43,181 total
+## AMVGG completed trades: 43,184 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,382 |
+| 2026-11-21 | 1,385 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,9 @@ _Updated 2026-11-21 09:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:15 | **isthesunny**: Glacier Kitsune (NFR) | **Lookingforacabbit**: Dragonfruit Fox (NFR), Dango Penguins (NR) |
+| 09:15 | **Xxxxashhhh**: Frost Dragon (FR), Owl (FR), Cow (FR) ×2, Elephant, Fly-A-Pet Potion ×9 | **Tuti89975**: Shadow Dragon (FR) |
+| 09:15 | **pankrasiia**: Ride-A-Pet Potion ×7 | **avokado78o**: Cupid Dragon (R) |
 | 09:10 | **HOCOKKU**: Strawberry Hat | **Laktozik1**: Ride-A-Pet Potion |
 | 09:10 | **ApexPrime09**: Fly-A-Pet Potion, Endangered Egg | **roblox_wert34**: Dango Penguins |
 | 09:10 | **spook_jhon**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×8, Copycat (R), Midnight Dragon (R), Jester Dragon | **govnisho0**: Cow (FR) |
@@ -48,9 +51,6 @@ _Updated 2026-11-21 09:10 UTC by the scrape workflow._
 | 09:10 | **baldi_baddie**: Hummingbird (N) | **NICOLE_fofinha3578**: Unicorn |
 | 09:10 | **ru_theresa**: Golden Jaguar (R) | **Hqppy_D2y**: Pupcicle |
 | 09:10 | **ismsil_10o**: Parrot (FR) | **Zeyqvz**: Strawberry Shortcake Bat Dragon (NFR), Copycat, Fly-A-Pet Potion ×6 |
-| 09:10 | **Homey_milk1**: Pain au Chat ×4, Gold Tiara | **karamelka486**: Fly-A-Pet Potion |
-| 09:10 | **Krosh_200**: Turtle (R), Chihuahua | **ja8sjxjjs**: Royal Mistletroll (R) |
-| 09:06 | **prun_es**: Latte Kitsune (NFR), Goat (NFR), Harp Seal (N) | **Silver06123**: Turtle (NFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
