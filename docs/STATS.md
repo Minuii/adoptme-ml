@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 12:46 UTC by the scrape workflow._
+_Updated 2026-11-21 12:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 12:46 UTC by the scrape workflow._
 | amvgg | 11 | 35,259 | 2026-11-21T12:45 |
 | elve | 11 | 7,495 | 2026-11-21T12:46 |
 
-## AMVGG completed trades: 43,934 total
+## AMVGG completed trades: 43,975 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 2,135 |
+| 2026-11-21 | 2,176 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 12:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:45 | **shabsiscute**: Ride-A-Pet Potion ×6 | **kagurasgl0w**: Chocolate Dutch Guinea Pig (N) |
-| 12:45 | **DesignedRose**: Kitty Bat (MR) | **xtansdoll**: Tiny Wings |
-| 12:45 | **A1d3n_L1ve**: Cozy Mistletroll (M), Brachiosaurus (MR), Komodo Dragon (M) | **Pandalovedogss**: Australian Kelpie (MFR), Axolotl (NFR) |
-| 12:45 | **FlyToTheSaturn**: Frozen Penguin, Officer Gibbon, Pangolin, Persian Cat, Pine Marten, Red Panda ×2, Salamander, Wyvern, Bloodhound, Ibex (N), Winter Fawn, Dingo (N), Robin | **KnoW1z**: Fly-A-Pet Potion |
-| 12:45 | **Qu33nDQCrimsonO19932**: Ride-A-Pet Potion | **rushiab0ingboin**: Skelicorn ×10 |
-| 12:45 | **xGracie_1234x**: Moose Calf, Frost Phoenix (F), Ride-A-Pet Potion | **Namgyu3004**: Tri-horned Treehopper |
-| 12:45 | **Artem_21a2**: Candyfloss Chick (FR) | **AL1C3W0RLDD**: Fly-A-Pet Potion ×10 |
-| 12:45 | **adeathIullaby**: Giraffe (NFR), Ride-A-Pet Potion ×7, Chihuahua (M) | **Certifiedbwunnii**: Giraffe (FR) ×2 |
-| 12:45 | **Emiliaspot_1012**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Luvly_BobaX**: Ring-Tailed Lemur |
-| 12:45 | **943049209d**: Fly-A-Pet Potion ×6, Gemstone Egg ×2 | **natsskq**: Crocodile (R) |
-| 12:45 | **sp4rklepinkcupcake**: Hot Doggo (NFR) | **cannotaffordme**: Puffin (MFR) |
-| 12:45 | **Elal2932**: Elephant (MFR) | **thegiddys14**: Crow (FR) |
-| 12:45 | **jellycatmar**: Goat (MFR), Unicorn Horn, Yeti (MFR) | **XxOmgItsFrankie**: Honey Badger (MFR), Ring-Tailed Lemur (MFR) |
-| 12:45 | **urfavhumanlen**: Sushi Penguin | **kitten_snn**: Pupcicle |
-| 12:45 | **iqoix0_lsq**: Corn Doggo (R) | **Adoptme_08773**: Pet Handler Pro Certificate |
+| 12:51 | **antuco_tuco909**: Cabbit (FR), Cabbit, Peppermint Penguin (FR), Christmas Pudding Pup (N), Tortuga de la Isla, Halo | **leruval**: Crow (FR) |
+| 12:51 | **lolacc1234567890**: Strawberry Shortcake Bat Dragon (FR), Moonbeam Peacock (R) | **ejayellama**: Tio De Nadal (NR) |
+| 12:51 | **Inganta07**: Fly-A-Pet Potion, Lemonade Stand | **avlxdk**: Cerberus (FR) |
+| 12:51 | **yelllley8**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion | **VITAMINKA_YOU2**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:51 | **fergyhater**: Bat Dragon (FR), Shadow Dragon (FR), Crow (NFR), Peppermint Penguin (NFR), Kangaroo (MFR) | **aqvartzo**: Bat Dragon (NFR) |
+| 12:51 | **V1RTU3LL0**: Owl (FR), Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Rainbow Maker, Mini Pig (FR), Goose (R) | **CredibleEmaballerina**: Shadow Dragon (FR) |
+| 12:51 | **Lila_Chanbibi**: Goose (FR), Goose (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **clixtoria**: Cow (NFR) |
+| 12:51 | **princess_pizzanice**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 | **Ugcihdi**: Tortoiseshell Guinea Pig (R), Camel (NR) |
+| 12:51 | **Felix71_34**: Peppermint Penguin (R), Cattuccino (MF), Cow (NFR) | **clixtoria**: Christmas Pudding Pup (MFR) |
+| 12:51 | **ARKIN_gamingChannel1**: Candicorn ×2 | **clixtoria**: Peppermint Penguin (FR) |
+| 12:51 | **Saji_Ls**: Turtle (R), Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×3 | **Trixcaughtlackin**: Cow (FR) |
+| 12:51 | **BryAMillion**: Highland Cow (R), Tan Chow-Chow (R), Eggnog Hare (R), Golden Egg, Rabbit (N) | **admtradeonly**: Fly-A-Pet Potion |
+| 12:51 | **Mainbelow**: Kitty Bat | **admtradeonly**: Ride-A-Pet Potion |
+| 12:51 | **teadan0**: Bat Backpack, Sakura Wings ×2, Police Cap ×2 | **Ranboo9875**: Ratatoskr (MFR) |
+| 12:51 | **en20205**: Elephant, Pupcake (M), Drake | **Kui_Yeager**: Many Mackerel (N) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
