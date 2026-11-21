@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 05:46 UTC by the scrape workflow._
+_Updated 2026-11-21 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 05:46 UTC by the scrape workflow._
 | amvgg | 11 | 28,256 | 2026-11-21T05:45 |
 | elve | 11 | 6,068 | 2026-11-21T05:46 |
 
-## AMVGG completed trades: 42,665 total
+## AMVGG completed trades: 42,682 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 866 |
+| 2026-11-21 | 883 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 05:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:45 | **youchi_nagi**: Crocodile ×2 | **imma_addyou004**: 2022 Birthday Party Hat |
-| 05:45 | **cut1ecakepop**: Spring Bunny Hood, Ride-A-Pet Potion | **fabriciogael597**: Ruler's Castle |
-| 05:45 | **shadow82172sad**: Siamese Cat (R), Ride-A-Pet Potion, Ballet Swan | **dumdadadat0p**: Sugar Glider |
-| 05:45 | **lemxrz**: Hedgehog (FR), Cow (FR), Winged Tiger (NFR), Strawberry Tortle, Munchkin Cat ×2, Turtle (FR), Winged Tiger, Ride-A-Pet Potion ×2 | **AvaCometfish961**: Frost Dragon (FR) |
-| 05:45 | **CloudAMs**: Crystal Egg ×15 | **Callme_Mary45**: Ride-A-Pet Potion |
-| 05:45 | **princesssugarbunni**: Goat, Spring Bunny Hood, Pancake Stack, Spring Bunny Feet, Rain Boots | **pretty_siblings**: Bush Elephant (FR) |
-| 05:45 | **Moa_spelar1234**: English Sheepdog (MR), Ride-A-Pet Potion ×3 | **hicxiev**: Copycat ×3 |
-| 05:45 | **lilysbaco**: Chihuahua ×2 | **Ex0ticP3nny**: Sushi Penguin |
-| 05:45 | **Boypizza132**: Tiny Wings | **RyukkHolder**: Tarsier (M), Wild Boar, Black Panther |
-| 05:45 | **NotSweatyOnion**: Tortuga de la Isla (FR) | **Yumi_Rose8**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
-| 05:45 | **iamnoonetobehere**: Ride-A-Pet Potion ×5, Alley Cat | **dnei30fast**: Fly-A-Pet Potion ×4 |
-| 05:45 | **electrolytia**: Evil Unicorn (NFR), Tiny Wings, Pain au Chat (M) | **R2tti**: Owl (FR) |
-| 05:45 | **chesnock204**: Frost Fury (FR) | **Masynya_2457**: Ride-A-Pet Potion ×6 |
-| 05:45 | **wtvlanis**: Angel Wings | **cocothemoco1231**: Tiny Wings ×2, Spring Bunny Hood ×2 |
-| 05:45 | **veroNIKA_star016**: Pig | **29espresso**: Arctic Fox (R) |
+| 05:55 | **cya_adoptmechallange**: Christmas Pudding Pup | **dnei30fast**: Fly-A-Pet Potion ×3 |
+| 05:55 | **activexchxrli**: Gingerbread Reindeer ×3, Chihuahua | **228Caesar_Zeppeli**: Ride-A-Pet Potion |
+| 05:55 | **TaimeKero**: Purrowl ×4, Black-Footed Ferret | **Disney_child55**: Purrowl (N) |
+| 05:55 | **patricia92132**: Arctic Reindeer (FR), Yellow Butterfly (NFR), Maine Coon (MFR), Skunk (MR) | **owlsaremylife1234567**: Dalmatian (FR) |
+| 05:55 | **adoptmefein0824**: Strawberry Shortcake Bat Dragon (FR), Moon Rabbit (MFR) | **omniprese_nt**: Cabbit (NFR) |
+| 05:55 | **Chipotlee_211**: Turtle | **MADERPADER910**: Honey Badger (NFR) |
+| 05:55 | **DalePearson8409**: Balloon Unicorn (FR), Pet Handler Pro Certificate | **tezza4real**: Peppermint Penguin (NFR), Goose (FR) |
+| 05:55 | **gh0steddsoull**: Fly-A-Pet Potion | **diiorrvi**: Ride-A-Pet Potion ×2 |
+| 05:55 | **xezviii**: Blazing Lion (FR) | **romoko_00**: Munchkin Cat (MFR), Lion (FR) |
+| 05:55 | **diiorrvi**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **FouWait1**: Panda (NFR) |
+| 05:55 | **rottingroyaltyyy**: Goose (NR), Spring Bunny Hood | **kaylamicmi**: Unicorn Horn ×2, S'mores Raccoon (MFR), Tiny Wings, Unicorn (MFR) |
+| 05:55 | **cya_adoptmechallange**: Christmas Pudding Pup | **dnei30fast**: Fly-A-Pet Potion ×3 |
+| 05:55 | **itsvaleriaotz**: Fly-A-Pet Potion | **Crystal_andLisa**: Lynx, Glyptodon, Wolf, Sweetheart Rat ×2, Winter Doe, Rat, Winter Fawn |
+| 05:55 | **EllieBTS12345GO**: Solaris Animated Sticker | **Sh1r0_23Lol**: Mochi Meow Tumble Animated Sticker |
+| 05:55 | **amado2317**: Dalmatian (FR), Candicorn (FR) | **TMDung20**: Evil Unicorn (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
