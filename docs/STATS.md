@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 21:55 UTC by the scrape workflow._
+_Updated 2026-11-21 22:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 21:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 44,619 | 2026-11-21T21:45 |
-| elve | 11 | 9,697 | 2026-11-21T21:46 |
+| amvgg | 11 | 44,866 | 2026-11-21T22:00 |
+| elve | 11 | 9,751 | 2026-11-21T22:01 |
 
-## AMVGG completed trades: 46,838 total
+## AMVGG completed trades: 46,858 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 5,039 |
+| 2026-11-21 | 5,059 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 21:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:55 | **Maviixiaa**: Pig, Fly-A-Pet Potion, Ride-A-Pet Potion, Butter Knife | **sweetcandycinamonn**: Caterpillar |
-| 21:55 | **lilystarn_2**: Turtle (R), Ride-A-Pet Potion | **sweetcandycinamonn**: Mermicorn (R) |
-| 21:55 | **stoIencorpses**: Unicorn | **elisethefireninja**: Ride-A-Pet Potion |
-| 21:55 | **Literallystardust**: Rainbow Maker, Spring Bunny Nose | **atracttion**: Red Dutch Guinea Pig (NFR), Unicorn Horn, Rain Cloud Hat, Tiny Wings |
-| 21:55 | **zow_98alt**: Elephant | **meowmeowkittyyuh**: Moon Rabbit (MFR) |
-| 21:55 | **xGracie_1234x**: Alpaca (R) ×3, Siamese Cat, Fly-A-Pet Potion | **ivrquiz**: Alpaca (NFR) |
-| 21:55 | **mgjgmwg**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×6 | **Trixcaughtlackin**: Turtle (R) |
-| 21:55 | **roblox_user_4753536563**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate ×2, Frost Fury (R) | **daanz2**: Turtle (R) |
-| 21:55 | **kallythecatisthebest**: Owl (R), Goose (FR), Momma Moose (MFR) | **Moon_black852**: Cryptid (NFR) |
-| 21:55 | **ghuslam**: Cabbit (R) | **liza_sigma666**: Sugar Glider (R), Ride-A-Pet Potion |
-| 21:55 | **YakarKizBanuu**: Frost Dragon (FR) | **amandastetic77**: Owl (FR), Snow Monkey (MR), Frostbite Bear (FR), Lion Cub, Sloth (N) |
-| 21:55 | **Ems090311**: Rose Dragon (MFR), Slimingo (M) | **KnifeonKeys**: Glormy Leo (MFR) |
-| 21:55 | **Wrjttenletters**: Werewolf (MFR), Owlbear (MFR), Count Slothula (M), Pupcicle (M), Panda (MFR), Ghost Dog (MFR) | **lina200r**: Frost Dragon (FR) |
-| 21:55 | **Lemmitink**: Chihuahua | **Ami_Mixed**: Admin Abuse Box ×18 |
-| 21:55 | **bell1418**: Skelicorn (M), Bubblegeist (N) | **Teddy1456gamer**: Unicorn (N) |
+| 22:00 | **adoptmexx626**: Purrowl, Mummy Spider, Pandaguin Glooptodog | **eusouajully1**: Mrs. Whiskerpips |
+| 22:00 | **Ameera_109**: Crow (FR), Evil Unicorn (FR) | **Itz_Yashka**: Tortoiseshell Guinea Pig (MFR) |
+| 22:00 | **iaMatthieu1**: Cabbit (FR) | **xxxxxxxx01010108**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×6 |
+| 22:00 | **martins10530**: Ride-A-Pet Potion ×11, Fly-A-Pet Potion ×7 | **Frander2983**: Strawberry Tortle |
+| 22:00 | **Queen_bee30**: Ride-A-Pet Potion ×5 | **cowlol898**: Jester Dragon |
+| 22:00 | **V4MPIR3_001**: Alley Cat | **kayleighkittycat123**: Rhino ×2, Singularity Beetle |
+| 22:00 | **hopia00**: Love Letter | **Exphemia**: Skelicorn (N) |
+| 22:00 | **Anderqxzz**: Pirate Hermit Crab (MFR), Gaelic Fae (MFR), Amami Rabbit (MFR), Lynx (MFR), Yeti (MFR), Mule (MFR), Ride-A-Pet Potion ×2, Sushi Penguin | **q_culvs**: Irish Water Spaniel (MFR) |
+| 22:00 | **2000animalgirl**: Owl (FR), Christmas Pudding Pup (MR), Latte Kitsune (MR), Flaming Fox (MFR), Harp Seal (MR), Zombie Wolf (MR), Bunny Swirl (MR), Elephant (NFR), Pupcake (M), Ghostly Cat (M), Emu (M), Ice Cube (N), Orca, Green Amazon, Clementine Owl | **atracttion**: Owl (NFR) |
+| 22:00 | **Alex_vk06**: Retired Egg ×18 | **JelenaGold**: Hippo |
+| 22:00 | **diiorrvi**: Ride-A-Pet Potion | **ded_valera9586**: Bakeneko (M) |
+| 22:00 | **User017238**: Cattuccino (N), Ride-A-Pet Potion | **glotznd_1324**: Boohoo (M), Jumpscare (N), Thunderfisher ×5 |
+| 22:00 | **Boiledfoott**: Alpaca (FR), Phoenix (NFR), Chocolate Dutch Guinea Pig (R) | **lildaminii**: Chocolate Dutch Guinea Pig (MFR) |
+| 22:00 | **roxzyydoll**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2 | **lildaminii**: 2022 Birthday Party Horn |
+| 22:00 | **Brian_Fayx**: Pet Handler Pro Certificate | **s_snoupyy**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
