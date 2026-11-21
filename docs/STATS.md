@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 16:46 UTC by the scrape workflow._
+_Updated 2026-11-21 16:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 16:46 UTC by the scrape workflow._
 | amvgg | 11 | 39,389 | 2026-11-21T16:45 |
 | elve | 11 | 8,494 | 2026-11-21T16:46 |
 
-## AMVGG completed trades: 45,176 total
+## AMVGG completed trades: 45,235 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 3,377 |
+| 2026-11-21 | 3,436 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 16:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:45 | **sweetang4ll**: Frost Phoenix (NFR) | **girl536370**: Tiny Wings |
-| 16:45 | **Pollito_conpap1308**: Ring-Tailed Lemur (R) | **marr_foxx**: Fallow Deer (R) |
-| 16:45 | **Hdhsbjsja**: Parrot, Turtle (FR), Ride-A-Pet Potion ×9, Fly-A-Pet Potion ×3 | **Divarase1**: Owl (FR) |
-| 16:45 | **Kwiatrozyyy**: Happy Clam | **elifanaekinci**: Polar Bear |
-| 16:45 | **Krismasterdang**: Red Panda (NFR), Water Rabbit, Sea Turtle (N) | **KarlotaRaquel**: Fly-A-Pet Potion |
-| 16:45 | **Mytradeaccountforme**: Candicorn (NFR) | **TMDung20**: Flaming Fox (MR), Fly-A-Pet Potion, Butter Knife |
-| 16:45 | **ReinMagne**: Bee (N), Puffer Fish | **sofiapopup**: Fly-A-Pet Potion |
-| 16:45 | **qkdesirena**: Fairy Bat Dragon (FR), Fly-A-Pet Potion | **cookieswirlcee123333**: Cabbit (FR) |
-| 16:45 | **Kiritto1415**: Bunny Swirl (NR) | **cutesyaeris**: Ride-A-Pet Potion ×3 |
-| 16:45 | **Cinzsins**: Honey Badger (MFR), Strawberry Shortcake Bat Dragon (FR) ×2, Cow (FR), Chocolate Chip Bat Dragon (FR), Dalmatian (FR), Puffer Fish (MR) | **gag_gaag**: Cryptid (NFR), Sea Slug (MFR) |
-| 16:45 | **you_no099**: Christmas Pudding House | **Vxarisottle**: Ride-A-Pet Potion |
-| 16:45 | **Elouisepanda**: Spring Bunny Hood, Bready Necklace ×2, Butter Knife | **helisabet_fabi20**: Matcha Cat |
-| 16:45 | **ooohhff85**: Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR) | **CloudyFalconpro4**: Fairy Bat Dragon (MFR) |
-| 16:45 | **itskayeeee**: Fairy Bat Dragon (FR), Turtle (FR), Fly-A-Pet Potion ×8, Ride-A-Pet Potion | **docedelets**: Arctic Reindeer (FR) |
-| 16:45 | **misakoyr**: Owl (FR) | **NastyaCat_Play2**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×2 |
+| 16:55 | **Marina83899545**: Ride-A-Pet Potion, Stray Cat Dragon (M) | **cbmelissa**: Mermaid Mansion |
+| 16:55 | **1qwerty6709**: Jousting Horse (MFR), Ballet Swan (MFR), Glormy Leo (MFR), Copycat (MFR), Jester Dragon (MFR), Frost Phoenix (MFR) | **iiheartzb**: Strawberry Tortle (MFR) |
+| 16:55 | **XXScorpionXX2121**: Jekyll Hydra (NFR), Candicorn (R), Elephant (R) | **jhstower**: Candyfloss Chick (NFR) ×2 |
+| 16:55 | **follow2join**: Hippo (MFR), Christmas Pudding Pup (R) | **Jaeebirddd**: Black Springer Spaniel (MFR) |
+| 16:55 | **Krismasterdang**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×7 | **olddeathcore**: Kangaroo (FR) |
+| 16:55 | **DV8WYBF8YWS**: Chocolate Chip Bat Dragon (FR), Glormy Leo (MFR), Fly-A-Pet Potion ×5 | **smccon007**: Giant Panda (FR) |
+| 16:55 | **Kv1cel**: Latte Kitsune (F) | **mxrriedx**: Cake Friend (N) |
+| 16:55 | **harpiealt07**: Paint Sealer, Chick Backpack | **EduardaVeilmont**: Caticorn Rattle |
+| 16:55 | **C00KIE_0w0**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **finnbouwers**: Frost Fury (FR) |
+| 16:55 | **leidydamelike**: Parrot (FR), Siamese Cat (R) | **Lupaeis**: Kangaroo (MFR), Lion Cub (MFR) |
+| 16:55 | **Th3S4dP3rs0n**: Cabbit (FR), Boohoo (M) | **Kiritto1415**: Groundhog (NFR), Ride-A-Pet Potion, Kitty Biscuit |
+| 16:55 | **SUPERPENGUIN0111**: Alicorn (MFR) | **elcob65**: Gemstone Egg ×8 |
+| 16:55 | **8272AXEL**: Goth Shoes, Bready Necklace | **Abaddon_Kisser666**: Pet Handler Pro Certificate, Fly-A-Pet Potion |
+| 16:55 | **milanahelmi**: Giant Panda (FR) | **asi_kurdin2010**: Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon (FR), Arctic Fox (FR), Spring Bunny Hood |
+| 16:55 | **vlados_krash**: Elephant (R) | **Flydershaa**: Dodo (NR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
