@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 05:01 UTC by the scrape workflow._
+_Updated 2026-11-21 05:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 05:01 UTC by the scrape workflow._
 | amvgg | 11 | 27,503 | 2026-11-21T05:00 |
 | elve | 11 | 5,911 | 2026-11-21T05:01 |
 
-## AMVGG completed trades: 42,553 total
+## AMVGG completed trades: 42,588 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 754 |
+| 2026-11-21 | 789 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 05:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:55 | **addmysecondaccount**: Deathstalker Scorpion, Shih Tzu (N), Oakee Wizard, Arctic Hare, Puma (N), Dracula Fish, Winter Fawn, Jumping Spider, Wren, Thunderfisher, Ocelot ×8 | **TheEndlessFlower**: Ride-A-Pet Potion |
-| 04:55 | **FouWait1**: Evil Unicorn (FR), Fly-A-Pet Potion ×2 | **Elenaasooo**: Fairy Bat Dragon (NFR), Turtle (FR) |
-| 04:55 | **Roo_tookey123**: Strawberry Shortcake Bat Dragon (FR) | **cherrymoon4441**: 2022 Birthday Party Hat, Tiny Wings, Border Collie, Pancake Stack, Toaster Hat |
-| 04:55 | **cinammoroll_bun**: Kangaroo (R) | **angela_umerez4**: Yeti (MFR) |
-| 04:55 | **p001torich**: Classic Trade Stand ×3 | **santiagoyrjf**: Ride-A-Pet Potion |
-| 04:55 | **NeonGamerStar20**: Sugar Glider, Aurora Fox (FR) | **dumdadadat0p**: Cow (FR) |
-| 04:55 | **AL1C3W0RLDD**: Fly-A-Pet Potion ×5, Pet Handler Pro Certificate ×12 | **Siuyuiq654**: Cow (FR) |
-| 04:55 | **the3reveng**: Pomeranian (R), Abyssinian Cat (N), Milk Choccybunny (N), Gecko Ducky (N), 2026 Birthday Butterfly (N), Irish Setter (N) | **Constancee_Starr**: Ride-A-Pet Potion |
-| 04:55 | **MissaBloxluck**: Werewolf (MFR), Owlbear (MFR) | **isabella68078**: Flamingo (MFR) |
-| 04:55 | **sakuraplays_beanie**: Ghost Wolf (M), Shadow Dragon Ducky (N) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 04:55 | **cherryyz2008**: Munchkin Cat (NFR), Christmas Pudding Pup (NFR), Binturong (MFR), Canadian Goose (MFR) | **HE4RTS_4CECE**: Munchkin Cat (MFR) |
-| 04:55 | **DoughnutDucks**: Blazing Lion (R), Rainbow Maker, Hare (MFR), Turtle (NFR), Ice Cream Hermit Crab (MFR), Yule Log Dog (MR), Cabbit, Cherry-On-Top, Catte (MFR), Copycat (NR) | **Jimmyjon_JRJR**: Blazing Lion (NFR) |
-| 04:55 | **n1ghtm5**: Winged Tiger (R), Meerkat, Fly-A-Pet Potion ×2 | **SuperIndo_123**: Siamese Cat |
-| 04:55 | **MM_Cloud**: Crystal Egg ×15 | **Constancee_Starr**: Ride-A-Pet Potion |
-| 04:55 | **kobii_x**: Water Rabbit (NR) | **blake_shortie**: Fallow Deer |
+| 05:11 | **limohq**: Strawberry Shortcake Bat Dragon (FR) | **Siuyuiq654**: Cow (FR) ×2 |
+| 05:11 | **YumitsuLol**: French Bulldog (N), Mini Schnauzer (N) | **teamindonesiamu**: Arctic Fox |
+| 05:11 | **charli_fan49**: Boohoo (M), Sushi Penguin, Chihuahua | **ElceePlaysAdoptMe**: Alley Cat |
+| 05:11 | **Tylerxxxiq**: Rainbow Maker | **kaylamicmi**: Alpaca (R), Water Rabbit (MR), Siamese Cat (R), Husky |
+| 05:11 | **sshanao_o**: Scarebear (MFR) | **kaylamicmi**: Unicorn (MR), Harp Seal (N) |
+| 05:11 | **owowowoowowwowooowo**: Kitty Bat (MFR) | **Omar2002548**: Burger Bear (M) |
+| 05:11 | **la_gameuse654**: Cozy Mistletroll (M) | **Chasyyrose**: Ride-A-Pet Potion ×4 |
+| 05:11 | **Pulseq3Void63Echo174**: Mr. Whiskerpips, Leopard Cat, Scarlet Butterfly, Pink Betta Fish, Pain au Chat, Water Moon Bear | **admtradeonly**: Fly-A-Pet Potion |
+| 05:11 | **Pulseq3Void63Echo174**: Chihuahua, Pain au Chat, Scarlet Butterfly, Pink Betta Fish, Mr. Whiskerpips, Magma Moose | **admtradeonly**: Fly-A-Pet Potion |
+| 05:11 | **diiorrvi**: Ride-A-Pet Potion ×2 | **ItsUnicornCat_Plays**: Fly-A-Pet Potion |
+| 05:11 | **plrbxs**: Ride-A-Pet Potion ×18 | **diiorrvi**: Unicorn Horn |
+| 05:11 | **TheDarkLui**: Christmas Pudding Pup | **dnei30fast**: Ride-A-Pet Potion ×6 |
+| 05:11 | **misu0326S2**: Solaris (FR) | **XxLipton_LemonxX**: Glormy Hound (FR) |
+| 05:11 | **l0ve978**: Gorilla (M) ×2, Squid (R) | **caash20s**: Jester Dragon |
+| 05:11 | **iuvzjules**: Woolly Mammoth | **xMoon_289**: Grim Dragon Sticker |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
