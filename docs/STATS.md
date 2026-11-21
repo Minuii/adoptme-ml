@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 04:11 UTC by the scrape workflow._
+_Updated 2026-11-21 04:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 04:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 26,501 | 2026-11-21T04:00 |
-| elve | 11 | 5,712 | 2026-11-21T04:01 |
+| amvgg | 11 | 26,754 | 2026-11-21T04:15 |
+| elve | 11 | 5,744 | 2026-11-21T04:15 |
 
-## AMVGG completed trades: 42,473 total
+## AMVGG completed trades: 42,480 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 674 |
+| 2026-11-21 | 681 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,13 @@ _Updated 2026-11-21 04:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:15 | **Mochi_Bunno**: Retired Egg ×3 | **einxizz**: DJ Snooze |
+| 04:15 | **z1_u1**: Unicorn Horn | **Niruch_Bearly**: Ride-A-Pet Potion ×18 |
+| 04:15 | **najla777777**: Red Dutch Guinea Pig (NFR), Ice Cream Hermit Crab (N) | **CloudyFalconpro4**: 2022 Birthday Party Hat, Ride-A-Pet Potion |
+| 04:15 | **shyfaint**: Ride-A-Pet Potion ×2 | **tarrace_house**: Icy Porcupine (M) |
+| 04:15 | **2025adoptmepetsuwu**: White Sand Dollar (MFR) | **sshanao_o**: German Shepherd (MFR) |
+| 04:15 | **Imcool1257lol**: Pupcicle (M), Kitty Biscuit | **Sp1nd_sh**: Dire Wolf (M), Flash Weasel, Pupcicle (N) |
+| 04:15 | **amon_amvggaacount**: Octopus Plush, Chihuahua, Gummy Guana ×3, Crystal Egg | **farm2266**: Gummy Guana (M) |
 | 04:11 | **HJKGVNib**: Jester Dragon (FR), Naughty Mistletroll (FR), Glacier Kitsune (MFR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion | **joindoekx**: Evil Unicorn (FR) |
 | 04:11 | **XiuLi1234**: Zombie Wolf (NFR), Owlbear (R), Ride-A-Pet Potion | **inferecal0_0**: Shark Puppy (FR) |
 | 04:11 | **m00ns_milk**: Unicorn Horn, Turtle (NFR), Ride-A-Pet Potion, Fly-A-Pet Potion | **ii_aldrin20**: Cow (NFR) |
@@ -44,13 +51,6 @@ _Updated 2026-11-21 04:11 UTC by the scrape workflow._
 | 04:11 | **IloveBramStoker**: Chicken | **lisa062834**: Reindeer (R) |
 | 04:11 | **thekyiomst**: Flower Power Duckling (MFR), Shiver Wolf (MR), Chihuahua (MFR), German Shepherd (MFR) | **0MoonlitXMeadow0**: Polar Bear (MFR) |
 | 04:11 | **0MoonlitXMeadow0**: Rose Dragon, Ride-A-Pet Potion ×4 | **itzz_Keys**: Mr. Whiskerpips (N), Mrs. Whiskerpips (N) |
-| 04:11 | **0MoonlitXMeadow0**: Ride-A-Pet Potion ×3 | **Sains9811**: Chihuahua ×4 |
-| 04:11 | **addy_cat100**: Silly Duck, Catte | **totallynotfayme**: Spring Bunny Nose |
-| 04:11 | **killerEzekiel99**: Shiver Wolf (MFR) | **sweetlynnxx**: Munchkin Cat (FR) |
-| 04:11 | **lupsgrl**: Field Mouse (MFR) | **Mija1978B**: Evil Unicorn (FR) |
-| 04:11 | **heluvpiper**: Rainbow Maker, 2022 Birthday Party Hat ×2, Spring Bunny Hood | **cnn1b1lsm**: Mini Pig (NFR) |
-| 04:11 | **XxElmmzxX**: Copycat | **elcob65**: Gemstone Egg ×11 |
-| 04:11 | **numbedsorrow**: Cryptid, Cabbit (FR) | **fiasmail**: African Wild Dog (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
