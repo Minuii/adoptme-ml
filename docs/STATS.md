@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 00:55 UTC by the scrape workflow._
+_Updated 2026-11-21 01:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 00:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 23,279 | 2026-11-21T00:45 |
-| elve | 11 | 5,094 | 2026-11-21T00:46 |
+| amvgg | 11 | 23,548 | 2026-11-21T01:00 |
+| elve | 11 | 5,148 | 2026-11-21T01:01 |
 
-## AMVGG completed trades: 41,963 total
+## AMVGG completed trades: 41,968 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 164 |
+| 2026-11-21 | 169 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,11 @@ _Updated 2026-11-21 00:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:00 | **baconboykindly**: Bunny (MFR) | **Ari_love754**: Reindeer (FR) |
+| 01:00 | **fayeandwho**: Chocolate Chip Bat Dragon (NFR), Ride-A-Pet Potion ×2, Ghost Bunny | **Silver06123**: Strawberry Shortcake Bat Dragon (NFR), Goat (NFR) |
+| 01:00 | **wjwj7890**: Strawberry Shortcake Bat Dragon (R), German Shepherd (M), Dango Penguins (NFR) | **Lila_Chanbibi**: Dalmatian (FR), Ride-A-Pet Potion ×4 |
+| 01:00 | **selfisho_0**: Giant Panda (NFR) | **ruralurbanmigration**: Shadow Dragon (FR) |
+| 01:00 | **iiskye_0**: Chocolate Dutch Guinea Pig | **larachania**: Harp Seal ×2 |
 | 00:55 | **xGracie_1234x**: Sugar Glider (FR) | **bri5hellokitty**: Alpaca (R), Alley Cat |
 | 00:55 | **ameyyass**: Ride-A-Pet Potion ×2 | **weoiuds**: Mochi Meow (M) |
 | 00:55 | **Julee_Lov**: Possum (N), Stegosaurus (N), Frankenfeline (N) | **eeveepro236**: Ride-A-Pet Potion |
@@ -46,11 +51,6 @@ _Updated 2026-11-21 00:55 UTC by the scrape workflow._
 | 00:55 | **Cinzsins**: Balloon Unicorn (NFR) | **puredl0vee**: Field Mouse (MFR), Aurora Fox (MFR), Glacier Kitsune (MFR), Arctic Dusk Dragon (MFR), Latte Kitsune (MFR), Goat (MFR) |
 | 00:55 | **RandyES233**: Flash Weasel (R) | **yapplie**: Maine Coon (M), Ride-A-Pet Potion |
 | 00:55 | **avokado78o**: 2D Kitty, Badger (N) | **zxcCAXAPOK1337**: Ride-A-Pet Potion |
-| 00:55 | **misu0326S2**: Ghost Dog (NR), Pupcicle (N), Choco Penguin (R), Castle Hermit Crab (R), Cocoadile (R) | **youngmi363**: Matcha Cat (R) |
-| 00:55 | **Anyel_004**: Rainbow Maker, Kiwi Kiwi (N), Pink Betta Fish (NR) | **PixiePawsTrade**: Strawberry Shortcake Bat Dragon (FR) |
-| 00:55 | **kxil_008**: Turtle (FR) | **dollxx_zz**: Pet Handler Pro Certificate ×11 |
-| 00:55 | **svrodrii2**: Turtle (FR) | **dollxx_zz**: Fly-A-Pet Potion ×12 |
-| 00:55 | **appleberryyynanaaa**: Ballet Swan (MFR) | **Loveflowers871**: Meerkat (MFR) |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
