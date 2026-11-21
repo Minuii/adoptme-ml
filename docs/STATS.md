@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 00:25 UTC by the scrape workflow._
+_Updated 2026-11-21 00:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 00:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 22,754 | 2026-11-21T00:15 |
-| elve | 11 | 4,962 | 2026-11-21T00:15 |
+| amvgg | 11 | 23,014 | 2026-11-21T00:30 |
+| elve | 11 | 5,034 | 2026-11-21T00:31 |
 
-## AMVGG completed trades: 41,882 total
+## AMVGG completed trades: 41,887 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 83 |
+| 2026-11-21 | 88 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,11 @@ _Updated 2026-11-21 00:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:30 | **Robloxiana_xxx2011**: Werewolf (MFR) | **V0ID1FY**: Hare (MFR), Dragonfruit Fox (MR), Hyena (MFR) |
+| 00:30 | **ameyyass**: Ride-A-Pet Potion ×2 | **IIuvbr**: Purrowl (M) |
+| 00:30 | **CIU2004**: Fly-A-Pet Potion | **ameyyass**: Pupcicle ×3 |
+| 00:30 | **Artem_21a2**: Alley Cat (R) | **Domonic8hard**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 00:30 | **syavcas**: Jumpscare ×3, Forest Sprite ×3, Oakee Knight ×3, 2026 Birthday Butterfly ×2, Stitches, Jiggly Jerboa (N), Jacobin Pigeon (N), Gecko Ducky (N), Velociraptor, Tasmanian Tiger, Mole | **DrinklngMilk**: Ride-A-Pet Potion |
 | 00:25 | **sxmplycutecorex**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **ikabackflip**: Munchkin Cat |
 | 00:25 | **Eugenia873**: Border Collie (FR) | **Blue_Spri**: Copycat, Arctic Dusk Dragon (FR), Christmas Pudding Pup |
 | 00:25 | **razarvale2z**: Pain au Chat ×6 | **hayleydoescheer**: Ride-A-Pet Potion ×2 |
@@ -46,11 +51,6 @@ _Updated 2026-11-21 00:25 UTC by the scrape workflow._
 | 00:25 | **Shadx_1553**: Haetae (MFR), Parrot (FR), Halo | **capta1nEllaplayzPlay**: African Wild Dog (MFR) |
 | 00:25 | **grlfri7nd**: Tiny Wings | **Inclemnc**: Hippo (MR), Fly-A-Pet Potion |
 | 00:25 | **ItsOscarYT6233**: Turtle (FR) ×3, Kangaroo (NFR), Albino Monkey (NFR), Kangaroo (FR), Rain Cloud Hat, Elephant (R), Frost Fury (FR), Reindeer (NR), Count Slothula, Ride-A-Pet Potion | **sleepy_s0ren**: Owl (FR) |
-| 00:25 | **amaielliee**: Mini Pig (R), Peppermint Penguin (FR), Candicorn | **Ellaplayz91206**: Cabbit (NR) |
-| 00:25 | **shwriiimp**: Pupcicle (MR) | **lianelys5**: Water Rabbit (M) |
-| 00:25 | **sxmplycutecorex**: Puppeteer Hand ×2, Strawberry Shortcake Bow, Hamster (N), Cotton Candy Hat, Butter Knife ×2 | **neliadaaa**: Spring Bunny Hood |
-| 00:25 | **iSxmple_xx**: Alpaca (MFR), Cabbit (MFR) | **egoklled**: Haetae (NFR), Balloon Unicorn (FR), Goose (NFR), Peppermint Penguin (R), Goose (R), Tiny Wings |
-| 00:25 | **fahrodupencheng**: Fly-A-Pet Potion | **razarvale2z**: Pain au Chat ×6 |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
