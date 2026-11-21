@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 15:31 UTC by the scrape workflow._
+_Updated 2026-11-21 15:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 15:31 UTC by the scrape workflow._
 | amvgg | 11 | 38,093 | 2026-11-21T15:30 |
 | elve | 11 | 8,149 | 2026-11-21T15:31 |
 
-## AMVGG completed trades: 44,779 total
+## AMVGG completed trades: 44,808 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 2,980 |
+| 2026-11-21 | 3,009 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 15:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:30 | **Elwanizk**: Chihuahua | **GirlyLaffy124**: Retired Egg ×18 |
-| 15:30 | **puchainela77**: Turkey (NFR) | **Ignxtius**: Wood Pigeon (N) |
-| 15:30 | **Wqe4xx**: Turtle (FR), Hyena (NFR), Crocodile, Pig (FR), Skele-Rex (NR) | **toybeau772**: Chocolate Chip Bat Dragon (FR) |
-| 15:30 | **0HD1v1n3**: 2021 Uplift Butterfly (N) | **chunlihasora**: Ride-A-Pet Potion |
-| 15:30 | **izviiyze**: Kangaroo (FR), Ride-A-Pet Potion | **shabsiscute**: Ice Cream Hermit Crab (NFR), Matcha Cat, Chocolate Dutch Guinea Pig, Royal Palace Spaniel |
-| 15:30 | **luvyerh**: Cow (FR) | **ki1wilov**: Crocodile (FR), Crocodile (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 |
-| 15:30 | **Danila121219**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×3 | **Cookie_Berry4234**: Crocodile (R) |
-| 15:30 | **tifany_kats**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **ariaeaea**: Goat (FR) |
-| 15:30 | **santazgrotto**: Retired Egg ×15 | **mofncufjs**: Pain au Chat |
-| 15:30 | **NLin_126**: Ride-A-Pet Potion ×9 | **s1m4kk**: Munchkin Cat |
-| 15:30 | **Dazzzle_1**: Crow (R), Cryptid, Hedgehog (R), Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cow ×2, Fairy Bat Dragon (R), Cabbit, Turtle (FR), Siamese Cat (R), Sheeeeep, Copycat, Hedgehog (FR) | **hanb3ki**: Bat Dragon (FR) |
-| 15:30 | **kawaiifaintedgirl**: Shadow Dragon Ducky (MFR) | **chezzycherrie08756**: Frost Fury (FR), Fly-A-Pet Potion |
-| 15:30 | **NastyaCat_Play2**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×15 | **kawaiifaintedgirl**: Turtle (FR) |
-| 15:30 | **Alina_2342164**: Bloodhound, Poodle ×3, Dog ×2 | **toybeau772**: Stray Cat Dragon |
-| 15:30 | **Klaysi_flayra**: Guardian Lion, Purrowl, Skelicorn, Robot ×4, Starfish ×2 | **slothloverforever6**: Ride-A-Pet Potion |
+| 15:41 | **fgteev_fan1119**: Fairy Bat Dragon (R), Cow (NFR), Cotton Candy Hat, Slimingo Feather Teleporter, Picnic Basket, Bee Hive, Purple Heart Glasses, Bunny Swirl | **Alice_Fpe2567**: Evil Unicorn (R) |
+| 15:41 | **GI4MMAGL4SMX0**: Strawberry Shortcake Bat Dragon | **Arabik_XD228**: Chocolate Chip Bat Dragon (R) |
+| 15:41 | **Yamajyjopyvazelinov1**: Pro Ghost Blaster | **mofncufjs**: Retired Egg ×18 |
+| 15:41 | **leryas_4**: Black-Footed Ferret (NR), Mummy Spider (M), Mummy Spider (N) ×2, Ox (N) ×3, Galapagos Sea Lion (N) | **cat_mimimilka**: Ride-A-Pet Potion ×2 |
+| 15:41 | **gamereldark_YT**: Candicorn (R), Fly-A-Pet Potion | **kits_Sc**: Kangaroo (FR) |
+| 15:41 | **PixelRider43545**: Kitsune (FR), Dire Wolf (N) | **lapotaxie_ECM**: Back Taco ×2 |
+| 15:41 | **Nasty_7392**: Turtle (FR), Cow (FR), Munchkin Cat (R), Ride-A-Pet Potion ×8, Fly-A-Pet Potion, Gemstone Egg, Homeing Rocket, Ice Cube (N) | **mawifa123**: Fairy Bat Dragon (NFR) |
+| 15:41 | **Itsserena108**: Dalmatian (FR), Cabbit (FR), Ride-A-Pet Potion | **Bismuth234**: Hedgehog (FR), Shark Puppy (FR) |
+| 15:41 | **VitorHugoRoblox10**: Giraffe (FR), Meerkat (FR), Horse (FR) | **TANSKlN**: Parrot (NFR), Cow (FR), Peppermint Penguin (FR) |
+| 15:41 | **La_boyMich15**: Matcha Cat, White Sand Dollar (R), Pink Cat Ear Headphones, Bready Necklace ×2 | **ysaazik_0**: Dragonfruit Fox (NFR) |
+| 15:41 | **fakeaccountfortr**: Drake ×4, Snow Owl (FR), Gargoyle | **SweetArtist_w**: Copycat |
+| 15:41 | **carnivoro_fuerte**: Owlbear (MFR), Dodo (NFR), Shadow Dragon Ducky (MFR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion, Jacobin Pigeon (M) | **Kiandra13kiandra**: Cryptid |
+| 15:41 | **Tates1ush**: Chocolate Chip Bat Dragon (MFR) | **KittyC6t21**: Cryptid (NFR), Werewolf (MFR), Dragonfruit Fox (MFR), Toaster Hat, Tiny Wings, Unicorn Horn |
+| 15:41 | **ch3yluvsdj**: Cow (FR), Cow (R), Peppermint Penguin (R), Parakeet (MFR), Ride-A-Pet Potion | **snyyyp**: Evil Unicorn (FR) |
+| 15:41 | **bacon_deken**: Ice Wolf (MFR) | **KimikoYuka**: Arctic Dusk Dragon (NFR), Frostbite Cub (MR), Pretty Pony (MFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
