@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 02:25 UTC by the scrape workflow._
+_Updated 2026-11-21 02:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 02:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 24,838 | 2026-11-21T02:15 |
-| elve | 11 | 5,350 | 2026-11-21T02:15 |
+| amvgg | 11 | 25,098 | 2026-11-21T02:30 |
+| elve | 11 | 5,406 | 2026-11-21T02:31 |
 
-## AMVGG completed trades: 42,196 total
+## AMVGG completed trades: 42,212 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 397 |
+| 2026-11-21 | 413 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 02:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:25 | **p001torich**: Classic Trade Stand ×3 | **Sxquencx**: Ride-A-Pet Potion |
-| 02:25 | **moff24**: Chocolate Chip Bat Dragon (NFR), Frost Fury (MFR), Cactus Friend (NR) | **starfire_33334**: Owl (FR) |
-| 02:20 | **Bruno_Games76**: Chick Backpack | **plushrafa**: Winter Deer Bait, Fire Horse Apple, Snapdragon Flower |
-| 02:20 | **mawifa123**: Rain Cloud Hat | **IIuvbr**: Fly-A-Pet Potion ×8 |
-| 02:20 | **Cute_Cinabon**: Ride-A-Pet Potion ×2 | **Bruno_Games76**: Pupcicle ×2 |
-| 02:20 | **Theonly_Naomi89**: Yule Log Dog (MFR) | **gonewiththesln**: Goose (FR) |
-| 02:20 | **riceb4II**: Dango Penguins | **3LL1SV1BE**: Shetland Pony Light Brown (R) |
-| 02:20 | **Wolde899**: Turtle (FR) ×3 | **ii_aldrin20**: Cow (NFR) |
-| 02:20 | **xLovey_Doveyyx**: Ride-A-Pet Potion ×2 | **lipton_milksh**: Chihuahua ×3, Kiwi Kiwi |
-| 02:20 | **the_gido9fan2**: Christmas Pudding Pup | **Ashdorae**: Ride-A-Pet Potion ×5 |
-| 02:20 | **pmpjmg1**: Ride-A-Pet Potion ×4 | **St_locki1**: Jester Dragon |
-| 02:20 | **Avue_203**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Furry_lechuga**: Copycat (R) |
-| 02:20 | **akhikic**: Bat Dragon (FR) ×3, Frost Dragon (FR) ×2 | **cannotaffordme**: Hedgehog (MFR), Dalmatian (MFR) ×3 |
-| 02:20 | **Hetty_Daanun**: Fennec Fox (MFR), Milk Choccybunny (MR), Pancake Stack, Ice Cream Heels, Bewitched Hat, Pirate Hat, Chick Backpack, Bunny Ear Tiara, Galaxy Explorer Helmet, Chick Hat, Pink Butterfly Wings | **diiorrvi**: Chihuahua (M) |
-| 02:20 | **kaisithefirist**: Arctic Reindeer (FR), Field Mouse (NR), Munchkin Cat, Siamese Cat, Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **soraidazibely**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 02:30 | **Robloxiana_xxx2011**: Rain Cloud Hat, Ride-A-Pet Potion ×2, Ice Cream Cone Hat | **cnn1b1lsm**: Turtle (FR) |
+| 02:30 | **RainBOW_Vam47**: Rainbow Maker, Copycat (N), Jester Dragon (NFR) | **wskdaks**: Evil Unicorn (FR) |
+| 02:30 | **BarkingPando**: Jester Dragon (MFR), Kitty Bat (MFR), Ride-A-Pet Potion ×9 | **MumfxX**: Cryptid (FR) |
+| 02:30 | **Robloxiana_xxx2011**: Elf Hat | **Junjyungg**: Ride-A-Pet Potion |
+| 02:30 | **farmer_post1**: Tiny Wings, S'mores Raccoon (N), Christmas Pudding Pup | **Cust3rdNemesis**: Kangaroo (FR) |
+| 02:30 | **Nathan221220**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR) | **Illitfofasbr2**: Parrot (FR) |
+| 02:30 | **1712meII**: Pain au Chat, Unicorn Ducky | **Green_cocoa1**: Burger Bear |
+| 02:30 | **Sargasmic_Fae**: Crystal Egg ×3, Admin Abuse Egg ×15 | **iiSimplyxSkyexx**: Ride-A-Pet Potion |
+| 02:30 | **jayjay080309**: Fairy Bat Dragon (FR), Hedgehog (F), Goose (NFR), Hot Doggo (R), Mermicorn, Ride-A-Pet Potion ×2 | **Flutterieshyy**: Frost Dragon (FR) |
+| 02:30 | **D1SREU**: 2022 Birthday Cake | **AMOANICOLE78**: Flamingo (FR) |
+| 02:30 | **4nsiic**: Hot Doggo (FR) | **CheeseThePug2**: Flower Power Duckling (MFR), Happy Duckling (MR), Ice Cream Cone Hat, Spring Bunny Hood, Ride-A-Pet Potion ×3 |
+| 02:30 | **MoronicKat_the7th**: Happy Duckling (MFR) | **Thecatonthemat8**: Ice Cream Hermit Crab (NFR) |
+| 02:30 | **XGiveMeUrFoodX**: Goose (FR) ×2, Kangaroo (FR) | **Luna_SanUwuUvu**: Dalmatian (FR) |
+| 02:30 | **TornCuiped**: Catte (MFR), S'mores Raccoon (M), Kitty Bat (MFR), Ranger Beaver (MFR), Castle Hermit Crab (MFR), Pudding Cat (MFR) | **youlocalrats1**: Cabbit (NFR) |
+| 02:30 | **yan_heso030**: Dragonfruit Fox (MR) | **funfwetticake**: Pupcicle (MFR), Pupcicle (MR), Squid (M), Green Amazon (MFR), Spring Bunny Feet |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
