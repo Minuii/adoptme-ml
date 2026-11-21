@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 20:01 UTC by the scrape workflow._
+_Updated 2026-11-21 20:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 20:01 UTC by the scrape workflow._
 | amvgg | 11 | 42,799 | 2026-11-21T20:00 |
 | elve | 11 | 9,301 | 2026-11-21T20:01 |
 
-## AMVGG completed trades: 46,333 total
+## AMVGG completed trades: 46,334 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,534 |
+| 2026-11-21 | 4,535 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,7 @@ _Updated 2026-11-21 20:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:10 | **doumalov34**: Strawberry Tortle (FR), Rose Dragon (NFR), Fairy Bat Dragon | **sleepy_s0ren**: Strawberry Shortcake Bat Dragon (FR) |
 | 20:00 | **HappyBrenda44**: Copycat (MFR), Jester Dragon (NFR) | **Zoskiloc**: Silverback Gorilla (MFR) |
 | 20:00 | **CalliplayzRoBlOx8**: African Wild Dog (FR), Tiny Wings | **starburstandevie**: Balloon Unicorn (FR) |
 | 20:00 | **vilskg**: Frost Dragon (FR) ×2, Goose, Sheeeeep (FR), Fly-A-Pet Potion | **BallerinaCappux**: Balloon Unicorn (NFR), Rainbow Maker |
@@ -50,7 +51,6 @@ _Updated 2026-11-21 20:01 UTC by the scrape workflow._
 | 20:00 | **yasukie7u7**: Sugar Glider (MFR), Halo, Unicorn Horn | **boo_itsme23**: Royal Mistletroll (M) |
 | 20:00 | **lercheeg1234**: Copycat (FR), Sheeeeep, Christmas Pudding Pup | **rafael32087**: Kangaroo (FR) |
 | 20:00 | **Yourlocalpotato012**: Farm Egg, Silly Duck | **TANSKlN**: Arctic Reindeer (FR) |
-| 20:00 | **Lycheeeev**: Fairy Bat Dragon (FR), Goose (FR) | **hexyzbagoc31**: Fairy Bat Dragon, Fairy Bat Dragon (R), Copycat, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
