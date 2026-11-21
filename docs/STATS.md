@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 22:41 UTC by the scrape workflow._
+_Updated 2026-11-21 22:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 22:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 45,385 | 2026-11-21T22:30 |
-| elve | 11 | 9,879 | 2026-11-21T22:31 |
+| amvgg | 11 | 45,654 | 2026-11-21T22:45 |
+| elve | 11 | 9,927 | 2026-11-21T22:46 |
 
-## AMVGG completed trades: 47,030 total
+## AMVGG completed trades: 47,032 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 5,231 |
+| 2026-11-21 | 5,233 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,8 @@ _Updated 2026-11-21 22:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:45 | **dfyuisdhfyusdavgbyhu**: Owl (FR), Evil Unicorn (FR), Ride-A-Pet Potion ×3 | **AvokadoJFKfanat**: Goat (MFR), Honey Badger (MFR), Ring-Tailed Lemur (MFR), Tiny Wings |
+| 22:45 | **OBSESSI0NSESS1ON**: Frostbite Bear (MFR), Arctic Dusk Dragon (MR), Aurora Fox (MFR), Kookaburra (MFR) | **DoughnutDucks**: Blazing Lion (NFR) |
 | 22:41 | **amvggtradingalt9**: Strawberry Shortcake Bat Dragon (FR) ×2, Tio De Nadal (R) ×3, Frostbite Bear (FR), Frostbite Bear, Strawberry Tortle, Bush Elephant (FR) | **bruh_what2207**: Frost Dragon (FR) |
 | 22:41 | **xxrobinxx6359**: Cow (FR) | **Hewi2491**: Peppermint Penguin (FR), Ride-A-Pet Potion |
 | 22:41 | **zombi_Meow67**: Maine Coon, Albino Bat (R) | **42ief**: Ride-A-Pet Potion |
@@ -49,8 +51,6 @@ _Updated 2026-11-21 22:41 UTC by the scrape workflow._
 | 22:41 | **phisho7is**: Ride-A-Pet Potion ×4 | **R4kert**: Fallow Deer (R) |
 | 22:41 | **jellofox2009**: Fly-A-Pet Potion ×18 | **iaMatthieu1**: Goose (FR) |
 | 22:41 | **unuunu82**: Frost Dragon (MFR) | **cannotaffordme**: Arctic Reindeer (MFR) ×3, Hare (MFR) ×2 |
-| 22:41 | **bgfjm6fytfthfjytjkhb**: Cabbit (MFR), Sugar Glider (MFR), 2022 Birthday Cake ×2, Rain Cloud Hat ×2, Spring Bunny Feet | **TazerNik**: Giant Panda (NFR), Candicorn (MR), Fly-A-Pet Potion |
-| 22:41 | **Josuwu892**: Alicorn | **n0tanang3I**: Retired Egg ×9 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
