@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 11:16 UTC by the scrape workflow._
+_Updated 2026-11-21 11:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 11:16 UTC by the scrape workflow._
 | amvgg | 11 | 33,721 | 2026-11-21T11:15 |
 | elve | 11 | 7,153 | 2026-11-21T11:15 |
 
-## AMVGG completed trades: 43,609 total
+## AMVGG completed trades: 43,643 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,810 |
+| 2026-11-21 | 1,844 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 11:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:15 | **Ravachy28**: Phoenix (MFR), Fly-A-Pet Potion | **Lazykingufc**: Turtle (FR) |
-| 11:15 | **xKo4kax**: Bobageist (R), Gorilla (R), Purrowl (R), Purrowl | **SelfL0vktwt**: Ride-A-Pet Potion |
-| 11:15 | **Qoqolka**: Pancake Stack, Spring Bunny Feet | **Koshka_Alinka8**: Toyshop House |
-| 11:15 | **xKo4kax**: Unicorn | **souiiijaaa**: Ride-A-Pet Potion |
-| 11:15 | **jhaneashley1**: Sea Angel (M), Samoyed (M), Orca, Gumball Caterpillar | **gatita_garrita0**: Ram (NR) |
-| 11:15 | **Viktoria_11942**: Ghostly Cat (N) | **girlbyegirl12**: Ride-A-Pet Potion |
-| 11:15 | **ampnothingtorich09**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion | **viivieraa**: Turtle (FR) |
-| 11:15 | **HalloweenUpdTesting2**: Scarecrow Cat (MR), Eggnog Dog (MFR), Goldhorn (NFR) | **ula12579**: Kangaroo (FR) |
-| 11:15 | **starswirl_64**: Koi Carp ×4 | **Valerie_12342**: Ride-A-Pet Potion |
-| 11:15 | **Spartik20**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **TaPok228pon**: Matcha Cat (FR) |
-| 11:15 | **ARKIN_gamingChannel1**: Peppermint Penguin (FR) ×2 | **shadowxxx14jl**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion |
-| 11:15 | **lxnxlyXfrxvxr**: Blue Butterfly (M), Sneak Weasel (N) | **tresh_blin12**: Ride-A-Pet Potion |
-| 11:15 | **Sharkie0020**: Classic Trade Stand | **ulia_bomba697**: Moonlight Moth |
-| 11:15 | **Briana_Boubi**: T-Rex (FR) | **0o0Username0o0**: Bubblegeist ×11 |
-| 11:15 | **myfav_QUOICOUBEH**: Cow (NFR), Elephant (FR) | **cbmelissa**: Goose (NFR) |
+| 11:25 | **huheuuik**: Monkey King (FR), Turtle (FR), Peppermint Penguin (R), Royal Mistletroll, Ride-A-Pet Potion | **qkrbed**: Cryptid (FR) |
+| 11:25 | **KoTuK_176**: Alley Cat, Ride-A-Pet Potion ×2, Arctic Fox (FR) | **Mwlexxs**: Lion (R), Banana Plush, Tutu |
+| 11:25 | **h4_cd**: Pet Handler Pro Certificate, Alicorn | **deffoluciee**: Ride-A-Pet Potion ×2 |
+| 11:25 | **magicalxmoon**: Ride-A-Pet Potion ×2 | **deffoluciee**: Unicorn ×2 |
+| 11:25 | **limohq**: Cow (FR) ×2 | **the_gido9fan2**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion |
+| 11:25 | **Idk_justmeloll**: Goldhorn (MFR) | **vanillawwu**: S'mores Raccoon (MFR) |
+| 11:25 | **Robloxian19039878**: Candicorn (R) | **elitro44**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion |
+| 11:25 | **Robloxian19039878**: Pupcicle (FR), Sunglider | **HaiiTchteru**: Fly-A-Pet Potion |
+| 11:25 | **Kamila_33309**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **HaiiTchteru**: Copycat |
+| 11:25 | **HaiiTchteru**: Fly-A-Pet Potion | **Yumi_Rose8**: Pet Handler Pro Certificate |
+| 11:25 | **AKI10PLAY**: Velocirooster | **varmitrof**: Ride-A-Pet Potion ×4 |
+| 11:25 | **riler0982**: Ghost Bunny (MFR), Propeller Hat, Eco Brown Earth-Wizard Hat, Eco Orange Pumpkin Pie Wings, Strawberry Hat, Back Taco | **akbasakit**: Monkey King (FR) |
+| 11:25 | **BIazender**: Lynx (NR) | **Unicornich0**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 11:25 | **nastushapobeda15**: Winged Tiger (R) | **aliir1875**: Arctic Fox, Ride-A-Pet Potion ×6 |
+| 11:25 | **hanb3ki**: Spinning Cat Animated Sticker, Fly-A-Pet Potion | **ccryingsorrows**: Unicorn Horn |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
