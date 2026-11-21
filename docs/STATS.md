@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 22:55 UTC by the scrape workflow._
+_Updated 2026-11-21 23:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 22:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 45,654 | 2026-11-21T22:45 |
-| elve | 11 | 9,927 | 2026-11-21T22:46 |
+| amvgg | 11 | 45,912 | 2026-11-21T23:00 |
+| elve | 11 | 10,005 | 2026-11-21T23:01 |
 
-## AMVGG completed trades: 47,080 total
+## AMVGG completed trades: 47,084 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 5,281 |
+| 2026-11-21 | 5,285 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,10 @@ _Updated 2026-11-21 22:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:00 | **thesegirls_mad**: Cryptid (FR), Dalmatian (FR), Peppermint Penguin (FR), Mini Pig (FR), Jekyll Hydra (FR), Munchkin Cat (FR), Grim Dragon (FR), Wooly Rhino (MR), Headless Horse (MFR), Royal Corgi (MFR) | **murid5**: Giraffe (FR) |
+| 23:00 | **fyllipyn**: Evil Unicorn (FR) ×2, Fairy Bat Dragon (NFR) ×2, Turtle (FR), Ride-A-Pet Potion, Bready Necklace | **dReal_Boss**: Arctic Reindeer (MFR) |
+| 23:00 | **Omar2002548**: Reindeer (FR) | **direXdlol**: Ride-A-Pet Potion ×2 |
+| 23:00 | **zqwuhl**: Yellow Butterfly ×4 | **b_cwx**: Ride-A-Pet Potion |
 | 22:51 | **Lunaflower2020**: Matcha Cat, Unicorn (MFR), Zombie Buffalo (FR) | **yasukie7u7**: 2022 Birthday Party Hat |
 | 22:51 | **d3d3d89**: Fly-A-Pet Potion, Monkey (R) | **xxxxproxxxx5500**: Pet Handler Pro Certificate |
 | 22:51 | **Benutzername3707**: Retired Egg ×18 | **Hellokitty_loves941**: Admin Abuse Egg ×8 |
@@ -47,10 +51,6 @@ _Updated 2026-11-21 22:55 UTC by the scrape workflow._
 | 22:51 | **backsiz**: Chocolate Chip Bat Dragon (R), Ride-A-Pet Potion | **iiSadMango**: Strawberry Shortcake Bat Dragon (R) |
 | 22:51 | **3lind3r**: Jumpscare (M), Thunderfisher (N), Clumpty (N), Snow Cat (N) | **Sleepy_Sonya112**: Ride-A-Pet Potion |
 | 22:51 | **KanskjeMatilde**: Latte Kitsune (FR), Ride-A-Pet Potion | **CutestAstro**: Jester Dragon (FR) |
-| 22:51 | **Darihkc**: Dalmatian (FR), Ride-A-Pet Potion | **6ldmoney**: Munchkin Cat (MFR) |
-| 22:51 | **jArYnAa**: Crow (FR) | **ELVEAMVGGTRADER890**: Kangaroo (FR) ×5, Candicorn (FR), Candicorn, Turtle (FR) |
-| 22:51 | **aIcremie_s**: Albino Bat (F), Ice Cream Heels | **stoIencorpses**: Fly-A-Pet Potion |
-| 22:51 | **Arialt395**: Muskrat (M), 2026 Birthday Butterfly (M), Border Collie (FR) | **f_eeshy**: Elephant (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
