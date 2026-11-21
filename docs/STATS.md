@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 19:11 UTC by the scrape workflow._
+_Updated 2026-11-21 19:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 19:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 41,747 | 2026-11-21T19:00 |
-| elve | 11 | 9,076 | 2026-11-21T19:01 |
+| amvgg | 11 | 42,026 | 2026-11-21T19:15 |
+| elve | 11 | 9,111 | 2026-11-21T19:15 |
 
-## AMVGG completed trades: 46,058 total
+## AMVGG completed trades: 46,071 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,259 |
+| 2026-11-21 | 4,272 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 19:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:15 | **incisingg**: Balloon Unicorn (FR), Goose (NFR), Hot Doggo, Dango Penguins | **XiaoFaye1433**: Frost Dragon (FR) |
+| 19:15 | **h4_cd**: Ride-A-Pet Potion ×2, Mochi Meow | **mm2FORever374**: Mochi Meow (M) |
+| 19:15 | **w00xtxs**: Ride-A-Pet Potion ×5 | **gg986gg**: Copycat |
+| 19:15 | **rainthatxx**: Candyfloss Chick (FR) | **cbmelissa**: Candicorn (FR) |
+| 19:15 | **ksMW846**: Fly-A-Pet Potion | **ALEASN2907**: Mrs. Whiskerpips (M) |
+| 19:15 | **Rita_086097**: Unicorn | **ymniy_natasha**: Ride-A-Pet Potion |
+| 19:15 | **Xxfoxygirl125xX**: Chimera, Koala, Pudding Cat | **ludmila07935**: Pirate Ship House |
+| 19:15 | **marmelat_564**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion | **15xAuroa**: Pig (FR) |
+| 19:15 | **Lina_657210**: 2022 Birthday Party Horn | **DirectorRobby**: 2022 Birthday Confetti Cannon |
+| 19:15 | **diiorrvi**: Ride-A-Pet Potion ×2 | **Xxxxashhhh**: Pet Handler Pro Certificate |
+| 19:15 | **Las_name7**: Admin Abuse Egg ×18 | **kiwiemss**: Ride-A-Pet Potion |
+| 19:15 | **valentinoelpro_12**: Tiny Wings | **12kyanni12k**: Queen Bee (NFR) |
+| 19:15 | **pluma_elgato2**: Velociraptor (N), Mummy Spider (N), Royal Fairytale Egg, Deathstalker Scorpion ×2 | **AER0NZ1X**: Catte |
 | 19:11 | **ithGrts_tt**: Strawberry Tortle (R) ×2, Candicorn | **WhiteJackk4**: Strawberry Shortcake Bat Dragon (FR) |
 | 19:11 | **ChallengeTO_5k**: Giant Panda (FR) | **ayothat_sus1**: Siamese Cat (MFR), Copycat |
-| 19:11 | **kakan_tyrbo**: Retired Egg ×4 | **Safka221**: Jimothy |
-| 19:11 | **wskdaks**: Vampire Dragon (NFR) | **GrindAccount_N1**: Cow Calf (NFR), Diamond Ladybug (FR), Cherub Chipmunk (MFR), Phoenix (FR) ×2, Shark (FR), Firefly (FR), Spinosaurus (FR), Skele-Rex (FR), Choco Penguin (NFR), Ladybug (NFR), Pterodactyl (NFR), Cerberus, Ginger Cat (M) ×2, Glyptodon Ducky (NR), Dango Penguins (FR), Sushi Penguin (FR) |
-| 19:11 | **KawaiMilky5**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2, Mr. Whiskerpips | **AKI10PLAY**: Matcha Cat |
-| 19:11 | **Vanlyzn26**: Crystal Egg ×15 | **AKI10PLAY**: Ride-A-Pet Potion |
-| 19:11 | **Aurodestrunza**: Aye Aye (M), Bakeneko (M) | **MILANArynu1**: Fly-A-Pet Potion |
-| 19:11 | **ezzzzyy3**: Fly-A-Pet Potion ×2 | **grxzsc**: Fallow Deer |
-| 19:11 | **floralplum**: Evil Basilisk | **elenastjjo**: Vermilion Butterfly |
-| 19:11 | **KARIN_ZO5**: Panda (NFR), Ghost (MFR) | **so_funnylike**: Pig |
-| 19:11 | **kelixnz**: Choco Penguin | **Lillyistdiebesteamq**: Royal Egg ×18 |
-| 19:11 | **elifanaekinci**: Unicorn, Retired Egg ×3 | **h4_cd**: Ride-A-Pet Potion |
-| 19:11 | **KARIN_ZO5**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 | **Aupaccs**: Turtle (FR) |
-| 19:11 | **tamaramillka097**: Evil Unicorn (FR) | **Bekon_MuilfaMeow**: Hedgehog (FR) |
-| 19:11 | **ballerin0cappuccin02**: Fairy Bat Dragon, Snow Monkey (MFR), Arctic Fox | **s0larzxxxx**: Arctic Reindeer (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
