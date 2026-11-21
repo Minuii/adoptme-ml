@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 00:40 UTC by the scrape workflow._
+_Updated 2026-11-21 00:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 00:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 23,014 | 2026-11-21T00:30 |
-| elve | 11 | 5,034 | 2026-11-21T00:31 |
+| amvgg | 11 | 23,279 | 2026-11-21T00:45 |
+| elve | 11 | 5,094 | 2026-11-21T00:46 |
 
-## AMVGG completed trades: 41,914 total
+## AMVGG completed trades: 41,916 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 115 |
+| 2026-11-21 | 117 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,8 @@ _Updated 2026-11-21 00:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:45 | **lWeirdPhyscol**: Cabbit | **eldiabloo646**: Sugar Glider (FR) |
+| 00:45 | **wi0qwi**: Rain Hat, Chick Backpack, Unfortunate Eyelashes | **Lofi95775**: Ride-A-Pet Potion |
 | 00:40 | **razarvale2z**: Pain au Chat ×5, Chihuahua ×5 | **0UwUCuteGirlUwU0**: Ride-A-Pet Potion ×4 |
 | 00:40 | **Ilovehersomuchlol1**: Chihuahua, Donut Stroller, Trapdoor Snail, Admin Abuse Egg ×2 | **v4mp_f1r**: Cute-A-Cabra (N) |
 | 00:40 | **u66e**: Burger Bear (MR) | **topidund**: Blue Ringed Octopus (MR) |
@@ -49,8 +51,6 @@ _Updated 2026-11-21 00:40 UTC by the scrape workflow._
 | 00:40 | **aidencool9050**: Admin Abuse Egg ×18 | **gggpppgggppp1**: Ride-A-Pet Potion |
 | 00:40 | **holixd489632**: Ride-A-Pet Potion ×16, Fly-A-Pet Potion | **Z_Alexis22**: Grim Dragon (FR) |
 | 00:40 | **OmegaRider_D4**: Werewolf (R), Candicorn (R), Spring Bunny Hood, Fly-A-Pet Potion ×2 | **Amvggtrad3r**: Cheetah (MFR) |
-| 00:36 | **7yasmin10**: Purrowl ×3, Retired Egg ×8 | **hswdundertale**: Purrowl (N) |
-| 00:36 | **wwjd2344**: Strawberry Shortcake Bat Dragon (MFR) | **AaronsAltAcc223**: Cabbit (MFR), Ring-Tailed Lemur (MFR), 2022 Birthday Cake, Unicorn Horn |
 
 ## Elvebredd value changes: 62,468 since 2023-09-16
 
