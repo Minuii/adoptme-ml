@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-21 11:11 UTC by the scrape workflow._
+_Updated 2026-11-21 11:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 18 | 2026-11-11T1036Z | 2026-11-21T0115Z |
-| amvgg | 53 | 2026-11-11T1036Z | 2026-11-20T1715Z |
+| amvgg | 54 | 2026-11-11T1036Z | 2026-11-21T1115Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 33,481 | 2026-11-21T11:00 |
-| elve | 11 | 7,133 | 2026-11-21T11:01 |
+| amvgg | 11 | 33,721 | 2026-11-21T11:15 |
+| elve | 11 | 7,153 | 2026-11-21T11:15 |
 
-## AMVGG completed trades: 43,579 total
+## AMVGG completed trades: 43,609 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,780 |
+| 2026-11-21 | 1,810 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 11:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:11 | **lolo247243**: Peach Owl (NR), Pain au Chat | **quietlyangel**: Ride-A-Pet Potion ×4 |
-| 11:11 | **FlyToTheSaturn**: Millionaire Mansion | **varmitrof**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 11:11 | **evnsyrq**: French Bulldog (NR), Polar Bear (NR), Frost Fury (FR) | **derbesteglebe**: Turtle (FR) |
-| 11:11 | **wskdaks**: Mochi Meow (M) | **luzmi119**: Unicorn, Pupcicle, Cuddly Candle |
-| 11:11 | **HOFIISNUKR**: Dimension Drifter (NR), Puptune (R), Ice Moth Dragon (R), Griffin (R), Garden Snake (R) | **adopt201433**: Reindeer (NFR) |
-| 11:11 | **Kiki_sunik**: Peppermint Penguin, Ride-A-Pet Potion | **cillatuebaddie**: Goose |
-| 11:11 | **asia2023k**: Copycat (N), Copycat (R), Ride-A-Pet Potion ×4, Turtle (FR), Arctic Fox, Fly-A-Pet Potion ×3, King Bee (NR) | **xerkatra**: Arctic Reindeer (FR) |
-| 11:11 | **l3gavaya**: Snow Cat (M), Jacobin Pigeon (M) | **Amina2013Amina2**: Ride-A-Pet Potion |
-| 11:11 | **s_coki**: Water Rabbit ×2, Amami Rabbit | **gottloveemayaa**: Ride-A-Pet Potion ×2 |
-| 11:11 | **Llllllllllo0ow**: Tiny Wings ×2, Arctic Dusk Dragon (R) | **cocothemoco1231**: 2022 Birthday Party Hat |
-| 11:06 | **Chase_34796**: Goat (MFR), Jekyll Hydra (MFR), Bald Eagle (NFR) | **KinaToons**: Shadow Dragon (FR) |
-| 11:06 | **s0larzxxxx**: Cherry-On-Top, 2022 Birthday Party Hat, 2022 Birthday Cake, Rain Cloud Hat, Ballet Swan (NFR) ×2 | **quietlyangel**: Irish Water Spaniel (MFR) |
-| 11:06 | **Im_DonntKnow**: Leopard Shark | **Shanslaaaaaaay**: Pupcake, Yeti, Bloodhound |
-| 11:06 | **Lazykingufc**: Fly-A-Pet Potion | **SpaghettiBolognese_w**: Dugong (M) |
-| 11:06 | **Cinzsins**: Werewolf (MFR), Haetae (R), Copycat (MFR), Munchkin Cat (MFR), 2022 Birthday Party Hat, Chef Hat, Hero Mask, Ride-A-Pet Potion | **oxoglockz**: Owl (NFR) |
+| 11:15 | **Ravachy28**: Phoenix (MFR), Fly-A-Pet Potion | **Lazykingufc**: Turtle (FR) |
+| 11:15 | **xKo4kax**: Bobageist (R), Gorilla (R), Purrowl (R), Purrowl | **SelfL0vktwt**: Ride-A-Pet Potion |
+| 11:15 | **Qoqolka**: Pancake Stack, Spring Bunny Feet | **Koshka_Alinka8**: Toyshop House |
+| 11:15 | **xKo4kax**: Unicorn | **souiiijaaa**: Ride-A-Pet Potion |
+| 11:15 | **jhaneashley1**: Sea Angel (M), Samoyed (M), Orca, Gumball Caterpillar | **gatita_garrita0**: Ram (NR) |
+| 11:15 | **Viktoria_11942**: Ghostly Cat (N) | **girlbyegirl12**: Ride-A-Pet Potion |
+| 11:15 | **ampnothingtorich09**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion | **viivieraa**: Turtle (FR) |
+| 11:15 | **HalloweenUpdTesting2**: Scarecrow Cat (MR), Eggnog Dog (MFR), Goldhorn (NFR) | **ula12579**: Kangaroo (FR) |
+| 11:15 | **starswirl_64**: Koi Carp ×4 | **Valerie_12342**: Ride-A-Pet Potion |
+| 11:15 | **Spartik20**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **TaPok228pon**: Matcha Cat (FR) |
+| 11:15 | **ARKIN_gamingChannel1**: Peppermint Penguin (FR) ×2 | **shadowxxx14jl**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion |
+| 11:15 | **lxnxlyXfrxvxr**: Blue Butterfly (M), Sneak Weasel (N) | **tresh_blin12**: Ride-A-Pet Potion |
+| 11:15 | **Sharkie0020**: Classic Trade Stand | **ulia_bomba697**: Moonlight Moth |
+| 11:15 | **Briana_Boubi**: T-Rex (FR) | **0o0Username0o0**: Bubblegeist ×11 |
+| 11:15 | **myfav_QUOICOUBEH**: Cow (NFR), Elephant (FR) | **cbmelissa**: Goose (NFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
