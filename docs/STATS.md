@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 01:55 UTC by the scrape workflow._
+_Updated 2026-11-21 02:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 01:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 24,297 | 2026-11-21T01:45 |
-| elve | 11 | 5,266 | 2026-11-21T01:46 |
+| amvgg | 11 | 24,548 | 2026-11-21T02:00 |
+| elve | 11 | 5,318 | 2026-11-21T02:01 |
 
-## AMVGG completed trades: 42,096 total
+## AMVGG completed trades: 42,126 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 297 |
+| 2026-11-21 | 327 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 01:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:55 | **Shareli999**: Giant Panda (R), Spring Bunny Nose | **manualep8**: Giant Panda (FR) |
-| 01:55 | **Ridon2093**: Bat Dragon (MFR), Cryptid (FR) ×2, Lava Dragon (NFR) | **roblox_user_4904540593**: Shadow Dragon (MFR), Frost Dragon (MFR), Bat Dragon (FR) ×2 |
-| 01:55 | **gthstnr**: Undead Jousting Horse (FR) | **manualep8**: Goose (FR) |
-| 01:55 | **AlastorDanger**: Matcha Cat (FR), Ride-A-Pet Potion | **mochaberryss**: Munchkin Cat |
-| 01:55 | **Preppy_cleoooo**: Munchkin Cat (R), Fly-A-Pet Potion | **mychemgeek**: Shark Puppy (FR) |
-| 01:55 | **mellqxxrb**: Count Slothula ×3 | **noobek8282**: Fly-A-Pet Potion |
-| 01:55 | **lifestyle1312**: S'mores Raccoon | **fallingmist_vic**: Harp Seal |
-| 01:55 | **elmenpobre8**: Caterpillar (MFR) | **kuachileo3**: Sugar Axolotl (MFR) |
-| 01:55 | **hhearts44danaa**: Cow (NFR), Pain au Chat (MFR) | **D0nni3Dark0s**: Munchkin Cat (MFR) |
-| 01:55 | **sufferingtogether**: Ride-A-Pet Potion ×3, Pet Handler Pro Certificate ×2, Unicorn ×4, Shiba Inu (M), Bunny (M), Jumpscare (M), Poodle (M), Blue Butterfly (M), Cat (M), Dog (M), Ms. Muffet (M), Amethyst Skies Mega Neon Paint | **eyebagsq**: Candicorn (R) |
-| 01:55 | **sufferingtogether**: Goose (FR), Ride-A-Pet Potion ×3, Pet Handler Pro Certificate ×2 | **eyebagsq**: Candicorn (NFR) |
-| 01:55 | **sufferingtogether**: Goose (FR) | **eyebagsq**:  |
-| 01:55 | **qlltm**: Head Chef, Werewolf (R), Tortuga de la Isla (FR) | **Tea_found**: Seabed Creeper (MR), Crocodile (FR), Caelum Cervi |
-| 01:55 | **Omar2002548**: Winged Tiger (FR) | **Y4N_D3V**: Winged Tiger |
-| 01:55 | **sufferingtogether**: Shiba Inu (M), Bunny (M), Poodle (M), Blue Butterfly (M), Cat (M), Dog (M), Ms. Muffet (M), Pinkypillar (M) | **eyebagsq**: Ride-A-Pet Potion ×4 |
+| 02:00 | **TABLETKI_01**: Monkey (MR), Grave Owl (NR), Ride-A-Pet Potion ×2, Hippogriff (R), Chocolate Dutch Guinea Pig, Harp Seal, Fly-A-Pet Potion | **leoncitoUwU12345**: Pig (FR) |
+| 02:00 | **bassie123284**: Matcha Cat, Dragonfruit Fox, Dango Penguins | **Fbrleey**: Munchkin Cat (FR) |
+| 02:00 | **cannotaffordme**: Cabbit (MFR), Border Collie (MFR), Cupid Dragon (MFR), Mini Pig (MFR), Crow (FR), Elephant (FR), Dog | **Iittlx**: Bat Dragon (FR), Frost Dragon (FR), Cow (FR), Cow (R) |
+| 02:00 | **WierdoVanilla**: Happy Duckling (MR), Quokka (MR), Chick (MFR), Leopard Cat (M), Pudding Cat (M), Kappakid (M), Christmas Spirit (M), Choco Penguin (M), Toasty Red Panda (M) | **Green_cocoa1**: Polar Bear (MFR) |
+| 02:00 | **q_culvs**: Shark Puppy (MFR) | **littlelizard_7**: Brown Bear (MFR), Flaming Fox (MFR), Firefly (MFR), Black Macaque (MFR) |
+| 02:00 | **Abdulazizm_2011**: Unicorn (MFR), Pupcicle, Ride-A-Pet Potion ×2 | **Paipapaprapaa**: Candicorn (R) |
+| 02:00 | **GiraffeGirI1**: Moon Rabbit (N) | **Fbrleey**: S'mores Raccoon (N) |
+| 02:00 | **alexgameminecraft**: Nessie (NFR) | **elbrens001**: Grim Dragon |
+| 02:00 | **leoncitoUwU12345**: Fly-A-Pet Potion ×2, Kookaburra | **PLolchik_2000**: Copycat |
+| 02:00 | **HoliviaGold**: Rain Cloud Hat | **Bunnyhopps068**: Pet Handler Pro Certificate ×7 |
+| 02:00 | **BIazender**: Crystal Egg ×10 | **Panci_Terbang33**: Pupcicle |
+| 02:00 | **knorwiq**: Tiny Wings | **cuteanya_7**: Chihuahua (MFR) |
+| 02:00 | **donnotinteract**: Binturong (MR), Ride-A-Pet Potion | **shimotheseal**: Goth Shoes, Propeller Hat ×3, Spring Bunny Feet, Fallow Deer |
+| 02:00 | **epicpulsechaos2024**: Crystal Egg ×18 | **K4YSCH4RMXO**: Fly-A-Pet Potion |
+| 02:00 | **Haydendogboy789**: Ranger Beaver (M), Matcha Cat | **StanleyHayden5**: Great Pyrenees (MFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
