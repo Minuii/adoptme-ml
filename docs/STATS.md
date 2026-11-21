@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 20:40 UTC by the scrape workflow._
+_Updated 2026-11-21 20:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 20:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 43,297 | 2026-11-21T20:30 |
-| elve | 11 | 9,406 | 2026-11-21T20:31 |
+| amvgg | 11 | 43,565 | 2026-11-21T20:45 |
+| elve | 11 | 9,451 | 2026-11-21T20:46 |
 
-## AMVGG completed trades: 46,503 total
+## AMVGG completed trades: 46,522 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,704 |
+| 2026-11-21 | 4,723 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 20:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:40 | **tattletelI**: German Shepherd (MFR), Ram (MFR) | **Queenparis2714**: Dragonfruit Fox (MFR) |
-| 20:40 | **Pierro0_0hehe**: Albino Monkey (FR), Sushi Penguin, Fly-A-Pet Potion, Ride-A-Pet Potion | **melzinha_2472**: Arctic Dusk Dragon (NFR) |
-| 20:40 | **S0ul_kiss0**: Arctic Fox (FR) | **lirvi_kiti**: Phantom Dragon (R), Jester Dragon |
-| 20:40 | **kobii_x**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Certifiedbwunnii**: Fallow Deer (FR) |
-| 20:40 | **danieljuegavip**: Turkey, Queen Bee (FR) | **firegrumpjaw**: Velocirooster |
-| 20:40 | **ALTACCOUNTTT435**: Crystal Egg ×13 | **Elwanizk**: Ride-A-Pet Potion |
-| 20:40 | **KADJDIS**: Tiny Wings | **liofe1**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
-| 20:40 | **ampnothingtorich09**: Lion (R) | **kok225677**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×4 |
-| 20:40 | **Mimismila8**: Elephant (R) | **lenyvai2010pro**: Border Collie (FR) |
-| 20:40 | **Hello_kitty220514**: Many Mackerel, Glacier Kitsune (FR), Reindeer (NFR), Golden Penguin (FR), Queen Bee, Gorilla (N) | **qndsav**: Kangaroo (FR) |
-| 20:40 | **swirlsfawn**: Toaster Hat | **princess0088123**: Snowball Pug (M), Hamster (M) |
-| 20:40 | **north1chan**: Siamese Cat (FR), Frostbite Bear (FR), Turtle (FR), Fly-A-Pet Potion | **sluha6709**: Strawberry Shortcake Bat Dragon (FR) |
-| 20:40 | **ArdaEOYT**: Mechapup (MFR), Candicorn | **CallMeAyoubee**: Emperor Gorilla (MFR), Fairy Bat Dragon (FR) |
-| 20:40 | **illitglitterrs**: Unicorn | **Mily2013xx**: Ride-A-Pet Potion |
-| 20:40 | **roplex123480**: Strawberry Shortcake Bat Dragon (NFR), Albino Monkey (FR), Sheeeeep (FR), Arctic Reindeer (FR) | **ke3xhae**: Cryptid (NFR) |
+| 20:45 | **oscarfeo15**: Admin Abuse Egg ×16, 2D Box | **toxica990066**: Ride-A-Pet Potion |
+| 20:45 | **bunnystrikee**: Chocolate Dutch Guinea Pig | **arisslovers**: Jeff's Nametag |
+| 20:45 | **BLACKCAT202015**: Slime (NR) | **Ash453_new**: Lion Cub (R) |
+| 20:45 | **Spartik20**: Red Panda (N) | **ari_by2002**: Christmas Pudding House |
+| 20:45 | **Arsen92346**: Hedgehog (FR), Mini Pig (FR), Arctic Fox (FR) | **matiasclavereria**: Crow (FR) |
+| 20:45 | **22medaa**: Ram, Sweetheart Rat (NR), Slug (NR), Glormy Dolphin (NR), Cuddly Candle (R), Gingerbread Mouse, Red Fox, Ride-A-Pet Potion | **sandyneapolitancat**: Candy Hare (N) |
+| 20:45 | **smccon007**: Chocolate Chip Bat Dragon (FR) | **Kxxr9**: Cow (R), Cow |
+| 20:45 | **Hi_IamLinet**: Crystal Egg ×12 | **Iovefromeva**: Ride-A-Pet Potion |
+| 20:45 | **awsrrex**: Ride-A-Pet Potion ×6 | **Exleer**: Frost Fury (FR) |
+| 20:45 | **AryaBran12114**: Chocolate Dutch Guinea Pig (MFR) | **pucheina_gogogo88**: Snowball Pet (MFR), Mr. Whiskerpips (MFR), Pupcake (MFR) |
+| 20:45 | **sleepy_s0ren**: Kangaroo (R) | **tyzzzlox**: Aussie Egg ×3, Ride-A-Pet Potion, Kitty Biscuit ×3 |
+| 20:45 | **christoqherrr**: Clownfish | **Hungry_Sleppy**: Trapdoor Snail |
+| 20:45 | **Its_niginax**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 | **QueenVfFlamec91**: Turtle (FR) |
+| 20:45 | **KXNlol**: Mighty Haetyphoon Animated Sticker | **sleepyguy0k**: Ride-A-Pet Potion |
+| 20:45 | **Kiritto1415**: Hedgehog (NFR), Crocodile (FR) | **AbigailLightSpark201**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
