@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 17:25 UTC by the scrape workflow._
+_Updated 2026-11-21 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 17:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 39,902 | 2026-11-21T17:15 |
-| elve | 11 | 8,594 | 2026-11-21T17:15 |
+| amvgg | 11 | 40,166 | 2026-11-21T17:30 |
+| elve | 11 | 8,654 | 2026-11-21T17:31 |
 
-## AMVGG completed trades: 45,393 total
+## AMVGG completed trades: 45,406 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 3,594 |
+| 2026-11-21 | 3,607 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 17:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 17:30 | **wekwew70**: Mini Pig (FR) | **KAKAEMBMECTECOMHO**: Turtle (FR), Kangaroo (FR) |
+| 17:30 | **Altaccountamvgg1**: Kangaroo (NFR) | **evcngelions**: Hot Doggo (FR) |
+| 17:30 | **peqchsxftiee**: Strawberry Shortcake Bat Dragon (R), Unicorn | **Molosonik**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:30 | **Austrian_Capybara1**: Puffin | **Vibing_Werdo**: Nessie (R) |
+| 17:30 | **KimikoYuka**: Undead Jousting Horse (FR), Strawberry Tortle (R), Turtle (R), Purple Butterfly (NR), Goldhorn (NR), Shiba Inu (MFR) | **Trumba95**: Cryptid (FR) |
+| 17:30 | **yyauigui**: Ride-A-Pet Potion, Rooster (R), Highland Cow | **Vasilisa_srt**: Pet Handler Pro Certificate |
+| 17:30 | **gh0sttcat0**: Orca (N), Angus Cow (N) ×2, Ice Cube (N), Seahorse (N), Turtle Doves (N), Dolphin (N), Humbug (N) ×2, Mistletroll (N), Patchy Bear (N) | **Lekssa**: Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 17:30 | **jessica020705**: Chocolate Dutch Guinea Pig ×2 | **m3rinaandthediamonds**: Hare |
+| 17:30 | **XxstarunicornoxX**: Pink Cat (NR), Arctic Fox (F), Happy Duckling (NR), Ride-A-Pet Potion, Snow Cat (N) | **gTheGamerProYTg**: Goose |
+| 17:30 | **muka_hi123**: Harp Seal (N), Pain au Chat | **I_Exist75**: Pancake Stack, Bready Necklace, Butter Knife ×2 |
+| 17:30 | **AutoTradeCommission**: Fly-A-Pet Potion, Sweetheart Rat (R) | **deadlockXH**: Skelicorn (M) |
+| 17:30 | **tjandhannah34**: Dango Penguins (NR) ×2, Dango Penguins (N), Dango Penguins ×2 | **AutoTradeCommission**: Halo |
+| 17:30 | **lyncshen**: Harp Seal (MR) | **cirocrack2020**: Unicorn Horn, Hammerhead Shark (M), Pupcicle |
 | 17:25 | **epicpulsechaos2024**: Dragon ×18 | **meowgirlava**: Ride-A-Pet Potion ×2 |
 | 17:25 | **UnUcreepy**: Matcha Cat (R), Pet Handler Pro Certificate ×2, Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Mason_lol424**: Candyfloss Chick (R) |
-| 17:25 | **cxltwaste**: Jester Dragon (NFR) | **amendmecancel**: Frost Unicorn (FR) |
-| 17:25 | **ALTACCOUNTTT435**: Crystal Egg ×12 | **cherryhazelss**: Ride-A-Pet Potion |
-| 17:25 | **vixxi05**: Copycat, Fly-A-Pet Potion | **Amita277**: Matcha Cat |
-| 17:25 | **iampibbleslool**: Castle Hermit Crab (MR), Mochi Meow (MR), Waffle Wyrm (MFR), Copycat, Butter Knife, Purple Heart Glasses, Cake Friend, Yule Log Dog (R) | **Larryy7890**: Turtle (R) |
-| 17:25 | **pinponkgoku2**: Grim Dragon (NFR), Cryptid (FR), Arctic Fox (MFR), Ring-Tailed Lemur (MFR) | **Kiandra13kiandra**: Parrot (NFR) |
-| 17:25 | **funsashamen**: Caramelgeist (M), Corgi (N), Muskrat (N), Ox Box | **TheEndlessFlower**: Ride-A-Pet Potion |
-| 17:25 | **OMGITSMACKENZIE6**: Balloon Unicorn (FR), Arctic Reindeer (FR), Cow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×5, Head Chef, Goth Shoes, Burger Boots | **00iAngell**: Frost Dragon (FR) |
-| 17:25 | **Lotti_Emi**: Admin Abuse Egg ×6 | **LittlemissEvie5555**: Crystal Egg ×6 |
-| 17:25 | **deftgytq**: Mistletroll (N), Halloween Black Mummy Cat (N), Ancient Dragon, Black-Footed Ferret, Pomeranian, Ibis, Snow Puma (N) | **loli_kuki9**: Ride-A-Pet Potion |
-| 17:25 | **awita_92729**: Sheeeeep (NFR), Beluga Whale (M) | **bloomysweetea**: Cabbit (FR) |
-| 17:25 | **meowwweweww**: Goose (R), Fairy Bat Dragon (R), Propeller Hat, Fly-A-Pet Potion ×2 | **vikatopchik_00**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:25 | **elifanaekinci**: Unicorn, Retired Egg ×3 | **h4_cd**: Ride-A-Pet Potion |
-| 17:25 | **Josuwu892**: Huntsman Robin | **NightfallwIGh0st7200**: Retired Egg ×9 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
