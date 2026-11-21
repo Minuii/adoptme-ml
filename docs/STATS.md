@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 02:10 UTC by the scrape workflow._
+_Updated 2026-11-21 02:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 02:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 24,548 | 2026-11-21T02:00 |
-| elve | 11 | 5,318 | 2026-11-21T02:01 |
+| amvgg | 11 | 24,838 | 2026-11-21T02:15 |
+| elve | 11 | 5,350 | 2026-11-21T02:15 |
 
-## AMVGG completed trades: 42,147 total
+## AMVGG completed trades: 42,174 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 348 |
+| 2026-11-21 | 375 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 02:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:06 | **lotsobluemelon**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **donnotinteract**: Fallow Deer |
-| 02:06 | **Ali_12xx1**: Ride-A-Pet Potion ×3, Chihuahua | **shenshenzzz14**: Crab (MR), Wren (M) |
-| 02:06 | **2262096**: Snowball Pet (FR), Toy Monkey (FR), Toy Monkey, White Sand Dollar (FR) ×2, White Sand Dollar ×3, Castle Hermit Crab (R), French Bulldog ×3, Husky (FR), Husky ×2, Leopard Shark (NR), Leopard Shark, Ring-Tailed Lemur | **Panci_Terbang33**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 |
-| 02:06 | **Robloxain4000**: Water Rabbit (MR) | **loveminari_6**: Moon Rabbit (MFR) |
-| 02:06 | **Cinzsins**: Matcha Cat (MFR) | **funfwetticake**: Chocolate Dutch Guinea Pig (MFR), Dragonfruit Fox (MFR), Dango Penguins (MFR), Catte (MFR) |
-| 02:06 | **candi1222255**: Frost Dragon (FR) | **Shiv_er**: Fairy Bat Dragon (MFR), Cabbit (R), Spring Bunny Hood |
-| 02:06 | **lovelygirlheha**: Matcha Cat, Christmas Pudding Pup, Spring Bunny Hood | **Howareyoutodayoreo**: Frostbite Bear |
-| 02:06 | **TwiXq0**: Matcha Cat (FR), Fly-A-Pet Potion | **sweetiepie07141**: Arctic Fox (R), Halloween White Ghost Dragon |
-| 02:06 | **epicpulsechaos2024**: Crystal Egg ×11 | **TrueValll**: Ride-A-Pet Potion |
-| 02:06 | **Melonlover406**: Goose (MFR) | **crybabydoIl**: Matcha Cat (MFR) |
-| 02:06 | **Random1513**: Paint Sealer ×18 | **floralplum**: Ride-A-Pet Potion |
-| 02:06 | **holixd489632**: Grim Dragon (FR), Pain au Chat | **wave2enzo**: Copycat (NFR) |
-| 02:06 | **chrisslayer1000**: Crow (FR) | **youchi_nagi**: Balloon Unicorn (FR) |
-| 02:06 | **gabbydoyglas**: Pupcicle | **3amlaufey**: Retired Egg ×18 |
-| 02:06 | **barbiequeuu**: Cryptid (NFR), Ride-A-Pet Potion | **100doggos123**: Cryptid (FR), Balloon Unicorn (FR) |
+| 02:15 | **lotsobluemelon**: Peppermint Penguin (FR) | **WierdoVanilla**: Candicorn, Fallow Deer (NR) |
+| 02:15 | **AvaNari2010**: Fly-A-Pet Potion | **WeAreTheStars_3**: Purrowl (M) |
+| 02:15 | **vupxric**: Parrot (FR), Werewolf (R) | **neonpets78i**: Mini Pig (R), Kangaroo (NFR), Crocodile (FR), Lion (FR), Elephant (R), Elephant, Llama (MFR) |
+| 02:15 | **milecasam1234**: Bready Necklace ×2 | **uqxiyeol**: Pet Handler Pro Certificate |
+| 02:15 | **avokado78o**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **reigninharmonyy**: Turtle (FR) |
+| 02:15 | **Lelouchsbf**: Chocolate Dutch Guinea Pig (MFR), Owlbear (NR), Pupcicle (M), Bready Necklace, Pancake Stack | **Gymnasticfruitpunch**: Chocolate Chip Bat Dragon (FR) |
+| 02:15 | **silkenrainfall**: Cattuccino (M) | **Eliaam0_0**: Easter Bunny (M) |
+| 02:15 | **FabbllWaffle**: Purrowl (N) | **JacobeanLifestyle**: Cocoadile (N) |
+| 02:15 | **magicalxmoon**: Biodome Home | **hellin_flames**: Unicorn ×2 |
+| 02:15 | **Yiju0225**: Ride-A-Pet Potion | **val12n**: Puffer Fish |
+| 02:15 | **TANSKlN**: Crow (FR), Unicorn Horn, Spring Bunny Hood, Spring Bunny Nose | **soy_anonim6**: Cow (R), Glormy Leo (MFR), Golden Chow-Chow (MFR), Leopard Shark (MFR), Lynx (MFR) |
+| 02:15 | **ccdbgt1**: Fly-A-Pet Potion | **wjsjdgbdjdjf**: Husky |
+| 02:15 | **xxxUwUxxx3008**: Unicorn (MFR), Nessie (R), Pig (FR), Fly-A-Pet Potion, Pancake Stack | **wskdaks**: Cow (FR) |
+| 02:15 | **XxBELINDA02xX**: Platypus | **kurmancivaravara**: Ride-A-Pet Potion ×3 |
+| 02:15 | **kurmancivaravara**: Ride-A-Pet Potion ×3 | **XxBELINDA02xX**: Platypus |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
