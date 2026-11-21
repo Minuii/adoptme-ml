@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 20:10 UTC by the scrape workflow._
+_Updated 2026-11-21 20:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 20:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 42,799 | 2026-11-21T20:00 |
-| elve | 11 | 9,301 | 2026-11-21T20:01 |
+| amvgg | 11 | 43,065 | 2026-11-21T20:15 |
+| elve | 11 | 9,325 | 2026-11-21T20:15 |
 
-## AMVGG completed trades: 46,334 total
+## AMVGG completed trades: 46,384 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,535 |
+| 2026-11-21 | 4,585 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 20:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:10 | **doumalov34**: Strawberry Tortle (FR), Rose Dragon (NFR), Fairy Bat Dragon | **sleepy_s0ren**: Strawberry Shortcake Bat Dragon (FR) |
-| 20:00 | **HappyBrenda44**: Copycat (MFR), Jester Dragon (NFR) | **Zoskiloc**: Silverback Gorilla (MFR) |
-| 20:00 | **CalliplayzRoBlOx8**: African Wild Dog (FR), Tiny Wings | **starburstandevie**: Balloon Unicorn (FR) |
-| 20:00 | **vilskg**: Frost Dragon (FR) ×2, Goose, Sheeeeep (FR), Fly-A-Pet Potion | **BallerinaCappux**: Balloon Unicorn (NFR), Rainbow Maker |
-| 20:00 | **Beronika_40**: Ride-A-Pet Potion | **rip_rijoe24**: Maine Coon (N) |
-| 20:00 | **Fmadfs**: Unicorn (FR) | **BR4Y4N1027**: Chocolate Dutch Guinea Pig (R) |
-| 20:00 | **dethxhellgrl**: Ride-A-Pet Potion | **Onyx_ctr**: Retired Egg ×18 |
-| 20:00 | **Hshjeb51**: Candicorn (R) | **amirb1577leilei**: Black Panther (NR), Jester Dragon |
-| 20:00 | **iitsxMunozz**: 2D Kitty | **cloe76547**: Solar Burst Mega Neon Paint |
-| 20:00 | **kamaphernelia**: Ride-A-Pet Potion ×8 | **FrostyLife8382**: Fly-A-Pet Potion ×4 |
-| 20:00 | **Tates1ush**: Diamond Ladybug (MFR), Pirate Hermit Crab (MFR) | **alwyzchlqe**: Alley Cat (MR) |
-| 20:00 | **FrostyLife8382**: Fly-A-Pet Potion ×4 | **kamaphernelia**: Ride-A-Pet Potion ×8 |
-| 20:00 | **yasukie7u7**: Sugar Glider (MFR), Halo, Unicorn Horn | **boo_itsme23**: Royal Mistletroll (M) |
-| 20:00 | **lercheeg1234**: Copycat (FR), Sheeeeep, Christmas Pudding Pup | **rafael32087**: Kangaroo (FR) |
-| 20:00 | **Yourlocalpotato012**: Farm Egg, Silly Duck | **TANSKlN**: Arctic Reindeer (FR) |
+| 20:15 | **Soso4ka004**: Kangaroo (NFR), Turtle (NFR), Alley Cat (N), Spring Bunny Hood, Banana Hat | **xKashaf**: Evil Unicorn (FR) |
+| 20:15 | **FestiveNotCupcake**: Cow Calf (MR) | **ula12579**: Fly-A-Pet Potion ×3, Pain au Chat |
+| 20:15 | **ALV4RYTO**: Fly-A-Pet Potion ×10 | **DragonjJDusta107130**: Ride-A-Pet Potion ×18 |
+| 20:15 | **vynllama**: Elephant (FR), Fly-A-Pet Potion | **Eugenia873**: Fallow Deer (NFR) |
+| 20:15 | **princess_pizzanice**: Magma Snail (N), 2021 Uplift Butterfly (N) | **hhhhhjhgff77**: Fly-A-Pet Potion |
+| 20:15 | **fasfud5363**: Unicorn | **przeczulenie**: Ride-A-Pet Potion |
+| 20:15 | **C0PHYAK**: Ride-A-Pet Potion ×16 | **Vitek_228666**: Kangaroo (FR) |
+| 20:15 | **ileeleluis**: Candicorn (R), Candy Hare (MFR), 2022 Birthday Cake, Berry Cool Cube (MR), Dragonfruit Fox, Ride-A-Pet Potion ×10, Magic House Door, Space Fleet House, Orange Butterfly (N) | **Kiandra13kiandra**: Cryptid (FR) |
+| 20:15 | **iaMatthieu1**: Cow (FR) | **sww_tea**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 |
+| 20:15 | **cbmelissa**: Candyfloss Chick (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion ×4, Arctic Hare (N) | **loafactory**: Angel Wings |
+| 20:15 | **estevyxs**: Fairy Bat Dragon (FR), Jellyfish (NFR), Unicorn (NFR), Ride-A-Pet Potion ×4 | **CloudyFalconpro4**: Arctic Reindeer (FR) |
+| 20:15 | **ocelitor**: Unicorn (NFR), Bunny Swirl (MR), Ring-Tailed Lemur, Ermine (M), Ram, Phoenix, Choco Penguin (N) | **coolbanana_30**: Turtle (FR) |
+| 20:15 | **stoIencorpses**: Fly-A-Pet Potion ×14 | **Galer568**: Sheeeeep (NFR) |
+| 20:15 | **alexandmartinareg**: Halo, Flamingo (FR), Alpaca, Ride-A-Pet Potion ×2 | **iaMatthieu1**: Mermicorn (NFR), Kitty Bat |
+| 20:15 | **camie_k1tty**: Diamond Mahi Mahi | **MAxl0ser107**: Fairytale Egg ×18 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
