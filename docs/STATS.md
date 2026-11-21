@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 18:41 UTC by the scrape workflow._
+_Updated 2026-11-21 18:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 18:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 41,228 | 2026-11-21T18:30 |
-| elve | 11 | 8,923 | 2026-11-21T18:31 |
+| amvgg | 11 | 41,485 | 2026-11-21T18:45 |
+| elve | 11 | 8,988 | 2026-11-21T18:46 |
 
-## AMVGG completed trades: 45,870 total
+## AMVGG completed trades: 45,884 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 4,071 |
+| 2026-11-21 | 4,085 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 18:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 18:45 | **Boiledfoott**: Copycat | **elenakrytaya333**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
+| 18:45 | **cinammoroll_bun**: Border Collie | **jauzyp**: Pet Handler Pro Certificate, Pig, Pancake Stack |
+| 18:45 | **wuxxal**: Haetae (NFR), Unicorn Horn, Bat Dragon Cuddle Animated Sticker, Seagull Yell Animated Sticker, Cryptid (NFR) | **NoobA0M**: Dalmatian (MFR) |
+| 18:45 | **Kiandra13kiandra**: Cryptid (FR) | **Larryy7890**: Mochi Meow (MFR), Waffle Wyrm (MFR), Yule Log Dog (R), Cake Friend, Castle Hermit Crab (MFR), Ghost Bunny (R), Lynx (NR), Glormy Leo (R), Mermicorn (R), Jester Dragon (R), Skelicorn (M), Munchkin Cat (R), Ride-A-Pet Potion, General Sheepdog (N), Border Collie, Alley Cat, Copycat, Spring Bunny Hood |
+| 18:45 | **xaniccx**: Ride-A-Pet Potion ×3, Magic House Door | **vjhjskh456**: Owlbear |
+| 18:45 | **samyul10100**: Rainbow Maker, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Lost_Cvpid**: Chocolate Chip Bat Dragon (FR) |
+| 18:45 | **BellaElsker**: Harp Seal ×4, Ride-A-Pet Potion | **realacckeira8v**: Copycat (R) |
+| 18:45 | **BLACKGLITTERKITTY**: Goth Shoes | **notmain12_q**: Pancake Stack, Ride-A-Pet Potion |
+| 18:45 | **Lua175367**: Monkey King Crown, Pet Handler Pro Certificate | **pinkypieiscute0**: Gold Crown |
+| 18:45 | **bluebell2241**: Spring Bunny Hood | **littlefelonies**: Strawberry Clip, Unfortunate Eyelashes, Unicorn (N) |
+| 18:45 | **Puresksxz**: Goose ×5, Goose (R) ×3 | **CuteGirDaniela**: Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR) |
+| 18:45 | **exxiexh**: Jester Dragon | **b1beHw4tzurnim**: Unicorn (NR) |
+| 18:45 | **carterdelaney1**: Candicorn (MFR), Peppermint Penguin (FR) | **cannotaffordme**: Wooly Rhino (MFR) ×4, Giant Anteater (N) |
+| 18:45 | **Vasilisa_srt**: Chihuahua (N) | **silliegur**: Fly-A-Pet Potion |
 | 18:41 | **Sargasmic_Fae**: Crystal Egg ×3, Admin Abuse Egg ×15 | **aIexswrIdd**: Ride-A-Pet Potion |
-| 18:41 | **xo1qn**: Halloween White Ghost Dragon (NFR) | **mell0rxs**: Elephant |
-| 18:41 | **Aslie_17**: Unicorn Horn, Ride-A-Pet Potion | **Jckiezzalttt**: 2022 Birthday Cake |
-| 18:41 | **rikyxik**: Trapdoor Snail (N) ×2 | **Callme_Mary45**: Pet Handler Pro Certificate |
-| 18:41 | **0Leonie03**: Fairy Bat Dragon (FR), Mr. Whiskerpips (FR) | **WowKeramica1**: Bunny Swirl (MFR), Copycat, Arctic Dusk Dragon (FR), Unicorn (N), Ride-A-Pet Potion, Polar Bear |
-| 18:41 | **ni1zuua**: Baby Basket Stroller | **puppy_2011owo**: Bunny Stroller |
-| 18:41 | **Wizard_6321**: Pink Cat (N), Ride-A-Pet Potion | **0MoonlitXMeadow0**: Tiny Wings, Ice Cream Cone Hat, Santa Hat, Spring Bunny Feet, Spring Bunny Nose |
-| 18:41 | **wrixcte**: Ride-A-Pet Potion, Gemstone Egg | **Ebanko_rblx**: Chocolate Dutch Guinea Pig |
-| 18:41 | **JacobeanLifestyle**: Lynx (R) | **Malina8491**: Blue Boohoo Mega Neon Paint |
-| 18:41 | **Ira_20086**: Ride-A-Pet Potion | **Kir4kaa**: Tealwood Monster ×6 |
-| 18:41 | **adoptmefanqwerty1**: Red Dutch Guinea Pig (MFR), Fly-A-Pet Potion, Pain au Chat | **XxkfirxbushxX**: Strawberry Shortcake Bat Dragon (FR) |
-| 18:41 | **Extraalt_forval**: Sugar Glider (MFR) | **obv1kylxx**: Candyfloss Chick (MFR), Puffer Fish (MFR), Mr. Whiskerpips (M) |
-| 18:41 | **muniradypa**: Pain au Chat ×3 | **silliegur**: Ride-A-Pet Potion |
-| 18:41 | **HBT_c6TwqiHVXO**: Chocolate Dutch Guinea Pig, Gemstone Egg, Sushi Penguin, Urban Egg | **Livxhze**: Red Dutch Guinea Pig |
-| 18:41 | **just_someone1105**: Strawberry Shortcake Bat Dragon (FR) ×4 | **SimxplyDaisyYT**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
