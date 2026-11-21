@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 05:31 UTC by the scrape workflow._
+_Updated 2026-11-21 05:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 05:31 UTC by the scrape workflow._
 | amvgg | 11 | 28,000 | 2026-11-21T05:30 |
 | elve | 11 | 6,002 | 2026-11-21T05:31 |
 
-## AMVGG completed trades: 42,628 total
+## AMVGG completed trades: 42,646 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 829 |
+| 2026-11-21 | 847 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 05:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:30 | **stefkazzz**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **TheDarkLui**: Arctic Fox (FR) |
-| 05:30 | **curemysorrowsq**: Phantom Dragon (NFR) | **Xxfortnite401kxX**: Koala (M), Space Whale (MR), Mistletroll (MR) |
-| 05:30 | **Pennylivn**: Pupcicle (MR) | **3uneo**: Copycat ×3 |
-| 05:30 | **angela_umerez4**: Unicorn Horn, Tiny Wings | **Hachiwarr1**: Cabbit (FR) |
-| 05:30 | **Yamajyjopyvazelinov1**: Water Rabbit, Moon Rabbit | **admtradeonly**: Chocolate Dutch Guinea Pig |
-| 05:30 | **gg986gg**: Arctic Fox (R), Pig (R), Ride-A-Pet Potion, Chameleon | **Varvara08921**: Kangaroo (FR) |
-| 05:30 | **leruval**: Owl | **La_boyMich15**: Cow (NFR), Candicorn (NFR), Unicorn (MFR), Scarebear (MR), Zombie Wolf (MFR), Crocodile (FR), Candyfloss Chick (FR) |
-| 05:30 | **KING_TROLLYT0**: Strawberry Tortle (FR), Copycat | **airiska_iriska3**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×3 |
-| 05:30 | **Vol4ica77**: Jester Dragon, Ride-A-Pet Potion ×2 | **nolosew22445**: Copycat |
-| 05:30 | **20O2_s**: Clover Cow (M) | **BXNNIELoVE**: Snow Leopard (M) |
-| 05:30 | **v3ndettq**: Halloween Black Axe Guitar Accessory, Burger Boots | **meliodas999q**: Space Fleet House |
-| 05:30 | **Spamforchristmas2**: Monkey King (MFR) | **ItssManguito**: Matcha Cat (MFR) ×3 |
-| 05:30 | **Omar2002548**: Winged Tiger (R), Stray Cat Dragon ×2, Admin Abuse Egg ×4, Throwback Egg ×6, Basic Egg ×5 | **NathyVanessa2929**: Winged Tiger |
-| 05:30 | **asdw4ad**: Spring Bunny Hood | **Marwaxadoptme**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 05:30 | **VICTOR_AV01**: Giant Panda (FR), Mini Pig (FR), Unicorn Horn | **reserbadong2**: Owl (FR) |
+| 05:40 | **cya_adoptmechallange**: Shark Puppy (FR) | **Furry_lechuga**: Fly-A-Pet Potion, Ride-A-Pet Potion ×9, Nutcracker Squirrel, Australian Kelpie, Narwhal, Lunar White Tiger |
+| 05:40 | **jessie4isaac**: Dango Penguins (NFR), Dango Penguins (N) ×3, Strawberry Tortle ×9 | **leruval**: Frost Dragon (FR) |
+| 05:40 | **TRex_2911**: Fly-A-Pet Potion ×3 | **StanleyHayden5**: Copycat (FR) |
+| 05:40 | **prorabik_krytou**: Goose, Caelum Cervi (NFR) | **irisjgh6**: Rainbow Maker, Ride-A-Pet Potion |
+| 05:36 | **yyanwa19**: Red Squirrel | **bleedquiet**: Burger Bear |
+| 05:36 | **stzrena**: Ride-A-Pet Potion | **ilycameli**: Shadow Dragon Animated Sticker |
+| 05:36 | **hvlynixx**: Bush Elephant (MFR) | **TheLightKick**: Owl (FR) |
+| 05:36 | **mixu1i**: Purrowl ×3 | **LaLas_2009**: Christmas Pudding House ×2 |
+| 05:36 | **cxbvnniz**: Ice Moth Dragon (FR) | **dnei30fast**: Ride-A-Pet Potion |
+| 05:36 | **dashe4kavbb**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×4 | **iamnoonetobehere**: Kangaroo (FR) |
+| 05:36 | **GYUGYUBINIM**: Count Slothula | **mixu1i**: Pandaguin Glooptodog ×15 |
+| 05:36 | **Jok_a2**: Crystal Egg ×18 | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 05:36 | **Crims0n_Dusk**: Christmas Pudding House | **Myobap**: Crystal Egg ×6 |
+| 05:36 | **MM_Cloud**: Crystal Egg ×15 | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 05:36 | **Gluminnn**: Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR) | **whannahbeyours98**: Cryptid (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
