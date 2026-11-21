@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 08:46 UTC by the scrape workflow._
+_Updated 2026-11-21 08:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 08:46 UTC by the scrape workflow._
 | amvgg | 11 | 31,213 | 2026-11-21T08:45 |
 | elve | 11 | 6,661 | 2026-11-21T08:46 |
 
-## AMVGG completed trades: 43,090 total
+## AMVGG completed trades: 43,137 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,291 |
+| 2026-11-21 | 1,338 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 08:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:41 | **avolynx**: California Condor ×2, Galapagos Sea Lion, Rock, Koala, Mr. Whiskerpips, Snowy Mammoth ×2, Red Crowned Crane, Black Tiger ×4, Mrs. Whiskerpips | **vikis_rbeix**: Ride-A-Pet Potion |
-| 08:41 | **the3reveng**: Mexican Wolf (N), Jiggly Jerboa (N), Milk Choccybunny (N), Rainbow Trout (N), Forest Sprite (N), Black Tiger (N) | **NikolSokol2014**: Ride-A-Pet Potion |
-| 08:41 | **Halloween_Goat**: Fly-A-Pet Potion, Ride-A-Pet Potion | **floatiinqz**: Pupcicle (N) |
-| 08:41 | **the3reveng**: Purrowl ×8 | **juanitox646566**: Ride-A-Pet Potion |
-| 08:41 | **yshikza**: Ride-A-Pet Potion ×9 | **altmityanitsa**: Tiny Wings |
-| 08:41 | **FlickCod32015**: Ride-A-Pet Potion ×4 | **sweetcandycinamonn**: Fallow Deer |
-| 08:41 | **sweetcandycinamonn**: Rainbow Maker, Cow (FR), Jester Dragon (N) | **revo4_ka**: Cryptid (FR) |
-| 08:41 | **JanaJanjoon11**: Cattuccino (MFR) | **Yupiterd**: Ride-A-Pet Potion ×4 |
-| 08:36 | **coffeebeanworld**: Bee (MFR), Tanuki (MFR), Koi Carp (MR), Ghost Dog (NR), Vermilion Butterfly (NR), Thunderfisher (M), Chicken (NFR), Propeller Hat ×2, Spring Bunny Hood, Spring Bunny Nose, Spring Bunny Feet | **P1nkteeth**: Haetyphoon (NFR) |
-| 08:36 | **juhyun_130105**: Fairy Bat Dragon (R), Arctic Fox | **ARKIN_gamingChannel1**: Cow (FR) |
-| 08:36 | **cxbvnniz**: Rain Cloud Hat, Ride-A-Pet Potion ×5, Half Egg Stroller, Candyfloss Mega Neon Paint, Halloween Slime Mega Neon Paint | **Yourgrandadpullsfr**: 2022 Birthday Party Hat |
-| 08:36 | **lol1bahia**: Coconut Friend (N) | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 08:36 | **Hasen_queen5**: Sunglider (R), Caramelgeist ×4 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 08:36 | **v6mpireeee**: Fly-A-Pet Potion ×6, Mrs. Whiskerpips (N), Amethyst Skies Mega Neon Paint | **NotSweatyOnion**: Crocodile (R) |
-| 08:36 | **itz_abi134**: Toyshop House | **Sprout228777**: French Bulldog ×3 |
+| 08:55 | **YaobendeshoiZ**: Fairy Bat Dragon (FR), Ride-A-Pet Potion, Skelicorn (N) ×2, Retired Egg, Fly-A-Pet Potion | **hellokids6pp**: Cow (R) |
+| 08:55 | **iamnoonetobehere**: Fly-A-Pet Potion ×8 | **NotSweatyOnion**: Elephant (FR) |
+| 08:55 | **gthstnr**: Heart Stroller, Festive Scarf | **sunFoxoxx**: Cherry Blossom Hang Glider |
+| 08:55 | **kierraotheracc2**: Cow Calf (N), Merry Mistletroll, Milk Choccybunny (N) | **nornomm**: Rain Boots |
+| 08:55 | **itzbluery**: Ride-A-Pet Potion | **0o0Username0o0**: Bubblegeist ×7 |
+| 08:55 | **kwaskinnn**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×10 | **Hi_IamLinet**: Kangaroo (FR) |
+| 08:55 | **Yumi_Rose8**: Pet Handler Pro Certificate | **scou9t**: Ride-A-Pet Potion ×2 |
+| 08:55 | **AryaBran12114**: 2022 Birthday Party Horn, Cattuccino (M) | **scou9t**: Moon Rabbit (MFR) |
+| 08:55 | **EGOATHENOOB**: Unicorn (NFR) | **Yupiterd**: Ride-A-Pet Potion ×5 |
+| 08:55 | **SiamsKt**: Purrowl (NR) | **eqfqriz**: Ride-A-Pet Potion |
+| 08:55 | **folow_lera0**: Ride-A-Pet Potion ×4, Banana Hat | **miuehla**: Pancake Stack ×2 |
+| 08:55 | **sun1zzzo**: Kangaroo (FR) | **KADJDIS**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion |
+| 08:55 | **meowwweweww**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat | **Fluffy_cat3103**: Kangaroo (NFR), Goose (R), Christmas Pudding Pup, Fly-A-Pet Potion, Mrs. Whiskerpips (M) |
+| 08:55 | **C00KIE_0w0**: Frost Fury (FR) | **flopps227den**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 08:55 | **pollylemonlollyscwol**: Chocolate Chip Bat Dragon (FR) ×2, Halo, Ride-A-Pet Potion ×2 | **No_99573834**: Parrot (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
