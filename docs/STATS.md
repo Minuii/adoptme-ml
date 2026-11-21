@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 14:01 UTC by the scrape workflow._
+_Updated 2026-11-21 14:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 14:01 UTC by the scrape workflow._
 | amvgg | 11 | 36,562 | 2026-11-21T14:00 |
 | elve | 11 | 7,803 | 2026-11-21T14:01 |
 
-## AMVGG completed trades: 44,283 total
+## AMVGG completed trades: 44,345 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 2,484 |
+| 2026-11-21 | 2,546 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:55 | **may_tereza**: Chihuahua | **BLUEBEIIESS**: Count Slothula |
-| 13:55 | **O1iverr_00**: German Shepherd (NR), Oakee (M) | **hasi168**: German Shepherd (NFR) |
-| 13:55 | **Lolaa_chn**: Ride-A-Pet Potion, Stitches | **unboxingBRop**: Stitches (M) |
-| 13:55 | **Derp10109**: Cabbit (R), Arctic Fox (R) | **fotm_dio**: Cow (FR) |
-| 13:55 | **KEVINRAM1453**: Ride-A-Pet Potion ×8, Dragonfruit Fox | **CAXAPOK_1122332**: Dragonfruit Fox (NR) |
-| 13:55 | **Kali_girl790**: Tan Chow-Chow (R), Chihuahua ×2, Cold Cube, Hamster ×2, Choco Penguin, Nutcracker Squirrel, Sunflower Friend (N), Temple Friend, Cattuccino ×2, Ice Cube, Frozen Penguin | **Evelina22super**: Ride-A-Pet Potion ×2 |
-| 13:55 | **NotSweatyOnion**: Chihuahua ×10, Shiba Inu (NR) | **143roblox1431**: Ride-A-Pet Potion ×4 |
-| 13:55 | **WuWravenWuW**: Caterpillar, Lunar Gold Tiger | **KAKAE_BMECTE36**: Harp Seal (NR), Toaster Hat |
-| 13:55 | **icanbeyougirl3**: Waffle Wyrm (M), Ghost Chick (M), Frozen Penguin (M), Stygian Owl (M) | **sonosuoradaunpo**: Copycat (FR) |
-| 13:55 | **rottingroyaltyyy**: Cabbit (FR), Winged Tiger (FR), Border Collie (FR), Tiny Wings | **Mx1shu**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:55 | **LaymushkaUwU**: Ride-A-Pet Potion | **Shynisocool**: White Choccybunny (M) |
-| 13:55 | **akosilerry**: Llama, Chocolate Dutch Guinea Pig, Count Slothula | **NotSweatyOnion**: Ride-A-Pet Potion ×3 |
-| 13:55 | **TeezYeez**: Jeff's Nametag | **HaiiTchteru**: Ride-A-Pet Potion |
-| 13:55 | **sleepy_s0ren**: Candyfloss Chick | **j4sp3r101**: Flamingo (FR) |
-| 13:55 | **nkkwqmr**: Pig (FR), Copycat (R), Chocolate Dutch Guinea Pig ×3, Happy Clam, Mummy Spider (M), Boohoo (M), Cocoadile (MR), Ghost Bunny (R), Stray Cat Dragon (N), Snow Owl (FR), Cerberus (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2, Pupcicle | **cayg1004**: Cow (FR) |
+| 14:11 | **lili95640**: Evil Unicorn (FR), Cotton Candy Stand | **larisochka_gudeeva98**: Turtle (FR) ×3, Kangaroo (FR), Shark Puppy (FR) |
+| 14:11 | **Klaysi_flayra**: Halloween White Skeleton Dog (N), Blue Whale | **Vikakelera**: Ride-A-Pet Potion |
+| 14:11 | **L0VINGLISSA**: Cherry Blossom Flower Sticker ×8, Cocoadile Sticker | **Slitwirez**: Dalmatian Sticker |
+| 14:11 | **Alice_Fpe2567**: Cow (FR) ×2, Peppermint Penguin | **fightergaming11**: Evil Unicorn (R) |
+| 14:11 | **Kvammletitraketa**: Amber Butterfly (M) | **STAZ638**: Ride-A-Pet Potion |
+| 14:11 | **Angelsss_81**: Fly-A-Pet Potion | **vaporeonxD300**: Harp Seal (R) |
+| 14:11 | **qsnmnn**: Yeti (MFR) ×2, 2022 Birthday Party Horn | **obv1joowe**: Candyfloss Chick (FR), 2022 Birthday Party Hat, Fly-A-Pet Potion |
+| 14:11 | **cinnamqndol**: Ride-A-Pet Potion | **Hdhsjwjakakal**: Stray Cat Dragon ×9 |
+| 14:11 | **59ghrvs**: Shark Puppy (NFR), 2022 Birthday Party Hat, Fly-A-Pet Potion, Ride-A-Pet Potion | **JianParent**: Chocolate Chip Bat Dragon (FR) |
+| 14:11 | **bigolgooglyeyescap**: Velocirooster ×4 | **cirocrack2020**: Kangaroo (FR) |
+| 14:11 | **Shadow_Wilder626**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Pig, Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **JianParent**: Strawberry Shortcake Bat Dragon (NFR) |
+| 14:11 | **JianParent**: Binturong (N) | **admegghatcher8**: Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 14:11 | **mef_2692**: Munchkin Cat (R), Ride-A-Pet Potion, Dango Penguins | **mavissx_0**: Christmas Pudding Pup ×2 |
+| 14:11 | **olddeathcore**: Ride-A-Pet Potion ×9, Lavender Dragon | **HuGe_123cAt**: Super Saru (M) |
+| 14:11 | **unice_unicoo**: Lamb (FR), Red Fox (MFR), Pupcake (N), Aviator Hat, Pupcicle | **ItsUnicornCat_Plays**: Flash Weasel (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
