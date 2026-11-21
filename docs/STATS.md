@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 09:25 UTC by the scrape workflow._
+_Updated 2026-11-21 09:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 09:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 31,689 | 2026-11-21T09:15 |
-| elve | 11 | 6,743 | 2026-11-21T09:15 |
+| amvgg | 11 | 31,965 | 2026-11-21T09:30 |
+| elve | 11 | 6,795 | 2026-11-21T09:31 |
 
-## AMVGG completed trades: 43,222 total
+## AMVGG completed trades: 43,250 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,423 |
+| 2026-11-21 | 1,451 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 09:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:25 | **xxDeAdSoS1Sxx**: Ginger Cat, Princess Mare, Gold Mahi Mahi, Fairytale Egg ×2 | **PREPPY_ROBLOXWORLD1**: Skelicorn |
-| 09:25 | **jessica020705**: Sakura Spirit (R) | **Traderieeeeeeeee1**: Feesh (MFR) |
-| 09:25 | **flears_brai**: Fairy Bat Dragon (FR) | **BigGirlieOu0**: Vampire Dragon (NFR) |
-| 09:25 | **BigGirlieOu0**: Ride-A-Pet Potion | **Dian09a**: Count Slothula |
-| 09:25 | **I_KermitDEATH**: Black Rhino (M), Snow Cat (N) ×2, Orangutan (N), Chocolate Labrador (N), Tan Chow-Chow ×2 | **NikolSokol2014**: Ride-A-Pet Potion |
-| 09:25 | **awx_mili**: Purple Butterfly, Polar Bear (R), Fly-A-Pet Potion | **Koshka_Alinka8**: Latte Kitsune, Pancake Stack, Dango Penguins |
-| 09:25 | **bigbbl589**: Cow (FR) | **3mis_alttt**: Giant Anteater (NR) |
-| 09:25 | **Astral_Knight3**: Bunny (NR), Purrowl, Gemstone Egg | **milksima6767**: Ride-A-Pet Potion |
-| 09:25 | **Ebanko_rblx**: Copycat ×2 | **yamma_lamma3546**: Arctic Fox (FR) |
-| 09:25 | **typol1235y6**: Chocolate Dutch Guinea Pig (R), Halloween Black Mummy Cat (NR) | **Kotik11121314**: Fly-A-Pet Potion |
-| 09:25 | **milksima6767**: Fossil Egg, Kitty Biscuit | **dosthttt**: Chocolate Dutch Guinea Pig |
-| 09:25 | **Homey_milk1**: Pupcicle ×2, Pain au Chat, Chihuahua | **jam0khurt**: Ride-A-Pet Potion ×2 |
-| 09:25 | **Viktoria_11942**: Muskrat (MFR) | **Caveenx**: Ride-A-Pet Potion |
-| 09:20 | **luvyerh**: Elephant (FR) | **fhuybx556**: Crocodile (FR), Ride-A-Pet Potion ×2 |
-| 09:20 | **Oldffcdf**: Crow (NFR), Elephant, Cow (R), Frost Fury (FR), Ride-A-Pet Potion ×2 | **Ishabns01**: Giraffe (FR) |
+| 09:30 | **Koshka_Alinka8**: Snow Leopard | **avaovrdrive**: Puptune |
+| 09:30 | **Nika_Roblox16stars**: Ride-A-Pet Potion ×2 | **miuehla**: Spring Bunny Feet, Tutu |
+| 09:30 | **By_millsjos**: Nessie (F), Fly-A-Pet Potion | **adrncldrn**: Caelum Cervi (FR) |
+| 09:30 | **yshikza**: Fly-A-Pet Potion ×2 | **Dessertsandfoods**: Spring Bunny Hood |
+| 09:30 | **purple_girlX09**: Shark Puppy (R) | **Uk_3800**: Caterpillar |
+| 09:30 | **angela_umerez4**: Mini Pig (NFR) | **Iijadf**: Cryptid (FR), Bready Necklace |
+| 09:30 | **4zuuk1**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Polar Bear | **folow_lera0**: Giant Blue Scarab (MFR) |
+| 09:30 | **kaylascvm**: Pangolin (N), Shiba Inu (N), Toxic Kaijunior (N), Chanekeh (N), White Choccybunny (N), Kelp Raider (N), Milk Choccybunny (N), Orangutan (N), Pilot Gull (N), Sneak Weasel (N), Water Opossum (N), Wren (N), Zebra (NFR) | **n_atirah**: Ride-A-Pet Potion ×3 |
+| 09:30 | **L4dyBrav3DollphinRBL**: Amami Rabbit (M), Sushi Penguin, Diamond Egg, Three Blind Mice ×2 | **vanteluvstaee**: Pupcicle (M) |
+| 09:30 | **amvggalt1**: Burger Bear (MFR) | **don2p**: Unicorn (MFR) |
+| 09:30 | **Auds191102**: Chocolate Chip Bat Dragon (FR) | **jasminesep16**: Flaming Fox (MFR), Bunny Swirl (MFR), Moon Rabbit (MFR) |
+| 09:30 | **fairyqxfaee**: Ride-A-Pet Potion | **kttnk_qn0**: Crystal Egg ×16 |
+| 09:30 | **MEME_702xd7**: Pretty Pony, Puffer Fish, Ram, Snowball Pet ×2, Chocolate Dutch Guinea Pig, Quokka ×3, Moon Rabbit ×4, Koi Carp (N), Great Pyrenees ×3, Ermine (NR) | **xXfayridreamXx**: Shark Puppy (R) |
+| 09:30 | **alex0popa**: Matcha Cat (M) | **lydiabunii**: Giant Panda (FR) |
+| 09:30 | **6evesvokhaha**: Criosphinx, Frostclaw, Golden Unicorn | **jam0khurt**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
