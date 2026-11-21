@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 10:31 UTC by the scrape workflow._
+_Updated 2026-11-21 10:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 10:31 UTC by the scrape workflow._
 | amvgg | 11 | 33,006 | 2026-11-21T10:30 |
 | elve | 11 | 7,003 | 2026-11-21T10:31 |
 
-## AMVGG completed trades: 43,437 total
+## AMVGG completed trades: 43,478 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,638 |
+| 2026-11-21 | 1,679 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:30 | **cloudy_cloudimup**: Munchkin Cat | **flears_brai**: Haetyphoon |
-| 10:30 | **oneofmymanyaltts11**: Hot Doggo, Goose, Pig, Flaming Fox (N), Praying Mantis (M), Red Dutch Guinea Pig, Donut Cycle, Sheeeeep | **GHALA704**: Evil Unicorn (R) |
-| 10:30 | **Kui_Yeager**: Fairy Bat Dragon (NFR), Zombie Wolf (MFR), Unicorn Horn, Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **1mpactOO**: African Wild Dog (R) |
-| 10:30 | **good_vibesgirl09**: Ride-A-Pet Potion ×5 | **Peeps_chan25**: Harp Seal (N) |
-| 10:30 | **PK87138**: Halloween White Ghost Dragon (FR) | **Xxxxashhhh**: Fly-A-Pet Potion ×2 |
-| 10:30 | **xiparo**: Pain au Chat ×18 | **Bumble_Lou**: Fly-A-Pet Potion ×3 |
-| 10:30 | **Duality_RBLX**: Mini Pig (MFR) | **SavageFox_Alpha1**: Giraffe (FR) |
-| 10:30 | **Elwanizk**: Chihuahua | **Jenniea264**: Retired Egg ×18 |
-| 10:30 | **kj_1xa**: Giant Panda (FR), Candyfloss Chick (FR), Albino Bat (NFR), Black Chow-Chow (NR), Ghostly Cat (NR), Sneak Weasel (M) | **aabeeyg**: Parrot (FR) |
-| 10:30 | **Star_Lord010**: Silverback Gorilla (MFR), Frostbite Bear (R), Frostbite Bear, Siamese Cat, Orchid Butterfly (FR), Orchid Butterfly (F) | **rayswardrobe**: Cabbit (MFR), Cow (FR) |
-| 10:30 | **Crystal_34530**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Skiaksn**: Santa Hat, Elf Hat |
-| 10:30 | **elliema_4**: Mini Pig (MFR), Flamingo (MFR), French Bulldog (MFR) | **cuthbertbean**: Goose (MFR), Sugar Glider (MFR) |
-| 10:30 | **Arose_bells**: Easter 2020 Egg ×2 | **ymniy_natasha**: Ride-A-Pet Potion ×2 |
-| 10:30 | **elcob65**: Gemstone Egg ×11 | **HJKGVNib**: Copycat |
-| 10:30 | **Lvxverhim**: Unicorn Horn, Cake Friend (MFR) | **Max051812**: Cow (FR) |
+| 10:41 | **1nesssi**: Chihuahua, Moon Egg, Sea Skeleton Panda (N) | **Pandalovedogss**: Ride-A-Pet Potion |
+| 10:41 | **Bumble_Lou**: Pet Handler Pro Certificate ×3 | **xiparo**: Chihuahua ×16, Pain au Chat ×2 |
+| 10:41 | **jauzyp**: Count Slothula ×4 | **mellqxxrb**: Fly-A-Pet Potion |
+| 10:41 | **11eeeszz**: Copycat, Ride-A-Pet Potion ×3 | **Darky_side02**: Goat (R) |
+| 10:41 | **Robloxian19039878**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×2, Copycat, Blue Cat (M) | **Hi_IamLinet**: Turtle (FR) |
+| 10:41 | **Catto_anowl**: Hippo (R) | **carlou245**: Irish Elk (R) |
+| 10:41 | **Dasha_KITKA**: Frost Fury (FR), Pig, Fly-A-Pet Potion | **samir123445457**: Albino Monkey (FR) |
+| 10:41 | **brqddz**: Turtle, Turtle (R), Fairy Bat Dragon (FR) ×2 | **ashplayingrobloxwith**: Evil Unicorn (FR) |
+| 10:41 | **v3esoul**: Copycat, Count Slothula, Spring Bunny Hood | **Summer_wanda**: Vampire Dragon (FR) |
+| 10:41 | **hamurasha**: Cryptid (FR) | **ashplayingrobloxwith**: Munchkin Cat (MFR) |
+| 10:41 | **pesnyaups9**: Dalmatian (NFR), Chocolate Chip Bat Dragon (FR), Lion Cub (R), Ride-A-Pet Potion, Fly-A-Pet Potion, Dumpling Friend Hat | **sopita2602xd**: Parrot (FR), Evil Unicorn (FR), Fly-A-Pet Potion |
+| 10:41 | **TotallyNotCorazon**: Parrot (FR), Shadow Dragon Ducky (R) | **004FAscend004**: Parrot |
+| 10:41 | **govnisho0**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 | **NotSweatyOnion**: Turtle (FR) |
+| 10:41 | **U_sulla**: Ride-A-Pet Potion | **Girl150400**: Hopbop, Forest Sprite, Irish Setter, Blue Butterfly, Angus Calf, Samoyed, Onza, Ratatoskr, Bakeneko, Kid Goat, Waffle Wyrm, Dire Wolf, Winter Fawn, Bat, Arctic Hare, Cattuccino, Easter Bunny, Kelp Raider |
+| 10:41 | **tisha_sally**: Chihuahua ×4 | **qruinty**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
