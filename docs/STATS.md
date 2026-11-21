@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 22:25 UTC by the scrape workflow._
+_Updated 2026-11-21 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 45,133 | 2026-11-21T22:15 |
-| elve | 11 | 9,780 | 2026-11-21T22:15 |
+| amvgg | 11 | 45,385 | 2026-11-21T22:30 |
+| elve | 11 | 9,879 | 2026-11-21T22:31 |
 
-## AMVGG completed trades: 46,961 total
+## AMVGG completed trades: 46,982 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 5,162 |
+| 2026-11-21 | 5,183 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:25 | **frecalsplogeok9**: Ginger Cat (M) | **lovewqnted**: Ride-A-Pet Potion |
-| 22:25 | **foxymoo7**: Tuxedo Cat ×3, Space Whale ×3, Ghost Chick, Gingerbread Reindeer, Pupcake, Pumpkin Friend (R), Chipmunk, Chocolate Dutch Guinea Pig, Chihuahua, Water Moon Bear, Pain au Chat, Inmate Capuchin Monkey, Kelp Hunter, Frostbite Cub | **narwhalslov**: Lynx (MFR) |
-| 22:25 | **diiorrvi**: Ride-A-Pet Potion | **irusik_rbx0**: Paint Sealer ×15 |
-| 22:25 | **Sorixiee**: Capuchin Monkey, Clownfish, Orange Betta Fish, Gumball Caterpillar, Golden Griffin ×2, Diamond Dragon, Diamond Unicorn, Diamond Griffin, Lunar Gold Tiger, Diamond Mahi Mahi, Gold Mahi Mahi ×2 | **frecalsplogeok9**: Ride-A-Pet Potion |
-| 22:25 | **karagolgeTR10**: Cow (R), Turtle (FR), Yule Log Dog (NFR), Lavender Dragon (N), Ride-A-Pet Potion, Green Amazon (R) | **36278r9**: Arctic Reindeer (FR) |
-| 22:25 | **ALTACCOUNTTT435**: Crystal Egg ×12 | **auixiss**: Ride-A-Pet Potion |
-| 22:25 | **iise_lov**: Velocirooster (NR) | **Danikl6704**: Copycat ×4 |
-| 22:25 | **xXxjoongixXx**: Fly-A-Pet Potion, Gumball Caterpillar (N) | **VauFrezhBar_LizaVau**: Ride-A-Pet Potion ×2 |
-| 22:25 | **miirxlla**: Irish Setter (M), Robin (N) | **Navilolp**: Ride-A-Pet Potion |
-| 22:25 | **tatianachan1713**: Munchkin Cat (FR), Munchkin Cat (R), Jellyfish (R) | **Nas2funny12**: Goose |
-| 22:25 | **Kishissa**: Irish Setter (M), Irish Setter (N) ×3, Irish Setter, Purrowl ×2 | **MakiraLive**: Ride-A-Pet Potion, Paint Sealer |
-| 22:25 | **Rbd_JP**: Orchid Butterfly (R) | **LacieiiAltAcc**: Tortoiseshell Guinea Pig (NFR), Tortoiseshell Guinea Pig, Mermicorn, Ride-A-Pet Potion ×2 |
-| 22:25 | **xXNorthenlightX**: Ride-A-Pet Potion | **M1ssd3ath_x**: Crystal Egg ×16 |
-| 22:25 | **idctbf11**: Goldhorn, Sushi Penguin | **wi0qwi**: Fly-A-Pet Potion |
-| 22:25 | **4ngxl_4195**: Paint Sealer ×2 | **Demonized_Bagel**: Snow Cloud Wings |
+| 22:30 | **AzamatR11**: Copycat (MFR) | **Emil00940**: Dalmatian (FR), Fly-A-Pet Potion ×2 |
+| 22:30 | **FrIeNdLeSs_TrIni**: Moose Calf (R) | **Emil00940**: Pupcicle (N) |
+| 22:30 | **daanz2**: Pig (NFR) | **MM234861**: Shark Puppy (R), Red Dutch Guinea Pig, Many Mackerel, Cerberus (FR) |
+| 22:30 | **Allieiiiwiw**: Ride-A-Pet Potion ×2, Strawberry Stroller, Tulip Stroller, Puppeteer Hand | **Yourlocalbreadshore**: Red Dutch Guinea Pig |
+| 22:30 | **elproXD_7v7**: Pain au Chat ×6 | **Yourlocalbreadshore**: Ride-A-Pet Potion ×2 |
+| 22:30 | **HELENA_GUEMER12494**: Chihuahua (M), Ride-A-Pet Potion | **SPRINGTREP57546**: Merry Mistletroll (MFR) |
+| 22:30 | **Paipapaprapaa**: Cow (R) | **1MZ03Y**: Prismatic Butterfly (MR), Maneki-Neko (MR), Lunar White Tiger (M), Chocolate Chow-Chow (N) |
+| 22:30 | **S4turnstarr**: Hare (N), Sushi Penguin (NFR) | **Green_cocoa1**: Horse (MFR), Koala (MFR) |
+| 22:30 | **v3esoul**: Arctic Fox, Matcha Cat, Kiwi (N) | **Paipapaprapaa**: Rain Cloud Hat |
+| 22:30 | **1MZ03Y**: Firefly (MFR), Shark (MR), Vanilla Penguin (MR), Phoenix (MFR), Green Butterfly (M), Capybara (MR), Wild Boar (MFR), Puffer Fish (M), 2D Kitty (MR), German Shepherd (MR) | **CrazyAlt516**: Owl (FR) |
+| 22:30 | **Xxskibidy67**: Cow (FR), Ride-A-Pet Potion ×2 | **PyBy25**: Aurora Fox (NFR), Shark Puppy (R) |
+| 22:30 | **roblox_user_4753536563**: Turtle (R) | **1MZ03Y**: Frostclaw (M), Coconut Friend (M), Royal Palace Spaniel (MR), Toasty Red Panda (MR), Winter Fawn (MR) |
+| 22:30 | **aIcremie_s**: Rice Cake Rabbit, Sloth, Flying Fairy, Pudding Cat | **abbyissocool_lol**: Ride-A-Pet Potion |
+| 22:30 | **rainbowfortkitty**: Cabbit (MFR), Grim Dragon (NFR) | **QueenNeverCry1213**: Munchkin Cat (MR), Cryptid (NFR), 2022 Birthday Party Hat, 2022 Birthday Party Horn |
+| 22:30 | **Alina_2342164**: Pupcicle (N) | **Hahahahaha123885**: Fly-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
