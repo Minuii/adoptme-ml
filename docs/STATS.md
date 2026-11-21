@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 08:01 UTC by the scrape workflow._
+_Updated 2026-11-21 08:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 08:01 UTC by the scrape workflow._
 | amvgg | 11 | 30,487 | 2026-11-21T08:00 |
 | elve | 11 | 6,522 | 2026-11-21T08:01 |
 
-## AMVGG completed trades: 42,978 total
+## AMVGG completed trades: 43,012 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,179 |
+| 2026-11-21 | 1,213 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 08:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:00 | **Nellisxl**: Ghost Dog, Thunderfisher, Electric Hornet | **Crims0n_Dusk**: Kitty Biscuit |
-| 08:00 | **FisheYT3**: Glacier Moth (MFR), Moon Rabbit (MR), Jester Dragon, Fly-A-Pet Potion | **MASMichael1**: Cryptid (FR) |
-| 08:00 | **jjuhanssong**: Giant Panda (FR) | **nuggets0162**: Evil Unicorn (FR), Cow (FR), Ice Cream Cone Hat |
-| 08:00 | **Hasen_queen5**: Vanilla Penguin | **shyfaint**: Ride-A-Pet Potion |
-| 08:00 | **Evil_Girl50**: Owlbear (NFR), Christmas Pudding Pup, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **lili270811**: Cabbit (FR) |
-| 08:00 | **mms_119**: Haetyphoon | **Imoi716**: Gumball Caterpillar (MR), Bobageist (M), Ant (MR), 2026 Birthday Butterfly (M), Jacobin Pigeon (M), Nebula Snake (N), Salamander (N), Trapdoor Snail (N), Fire Foal (M), Fire Stallion (N), Golden Tortoise Beetle (N), Unicorn Ducky (N) |
-| 08:00 | **EvadeGirrafe**: Sugar Axolotl | **7H3ST**: Fly-A-Pet Potion ×4 |
-| 08:00 | **Ilovedarya35**: Arctic Dusk Dragon (F), Christmas Pudding Pup (R), Arctic Fox, Shrew | **Reterirbair1989**: Turtle (FR) |
-| 08:00 | **starswirl_64**: Glyptodon ×4 | **NightVoidRealm**: Ride-A-Pet Potion |
-| 07:55 | **Itzz_Leonie453**: Fairy Bat Dragon (FR), Sakura Spirit (R), Ride-A-Pet Potion | **queenmaya773**: Goose (FR) |
-| 07:55 | **kittyywtx**: King Penguin (R), Orange Betta Fish (R) | **HOCOKKU**: Ride-A-Pet Potion |
-| 07:55 | **Enola63732**: Shadow Dragon Ducky (FR) | **HOCOKKU**: Ride-A-Pet Potion |
-| 07:55 | **realacckeira8v**: Pupcicle (N), Ride-A-Pet Potion, Fly-A-Pet Potion | **Harp_seaaal**: Copycat (R) |
-| 07:55 | **k_sybom**: Huntsman Robin ×2, Alicorn ×2, Diamond Dragon, Bat (N), Electric Hornet ×2 | **HOCOKKU**: Ride-A-Pet Potion |
-| 07:55 | **bless77777**: Copycat ×2, Copycat (FR), Arctic Dusk Dragon, Pancake Stack, Princess Mare (N), Bubblegeist | **hayopanima**: Turtle (FR) |
+| 08:11 | **WHOISY4NAA**: Frost Unicorn (F) | **LIAXMLV**: German Shepherd (NFR) ×3 |
+| 08:11 | **Arisha32000**: Sheeeeep, Red & Yellow Beads, Puppeteer Hand | **Mentosvcxz**: Shrew (FR) |
+| 08:11 | **Kali_girl790**: Corn Doggo (NR) | **qngelicalz**: Moon Rabbit (R), Alley Cat (R), Tan Chow-Chow (R), Happy Duckling, Flower Power Duckling, Pupcake, Giant Blue Scarab, Bauble Buddies, Winter Doe, Puptune, Unicorn Ducky, Hamster, Ride-A-Pet Potion |
+| 08:11 | **Vitalik_tyrbina999**: Fly-A-Pet Potion, Ride-A-Pet Potion, Pet Handler Pro Certificate, Magma Snail (N) | **cnn1b1lsm**: Copycat |
+| 08:11 | **rain_aas**: Arctic Reindeer (FR) | **taekkaun**: Turtle (FR) ×3 |
+| 08:11 | **H08ni**: Turtle (NFR) | **starfire_33334**: Frost Fury (MFR) |
+| 08:11 | **DuckyMuffinz**: Kitty Biscuit | **BAPBAPA200**: Admin Abuse Egg ×18 |
+| 08:11 | **Omar2002548**: Flaming Zebra (NR) ×2 | **veiqxz_x**: Jester Dragon, Rainbow Dragon |
+| 08:11 | **immimi36**: Turtle (FR) | **lera_frostfury**: Caterpillar (FR), Jester Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 08:11 | **SavageFox_Alpha1**: Cryptid (FR) ×2, Evil Unicorn (FR), Turtle (FR), Kangaroo (NFR), Unicorn Horn | **Jeremibus2012**: Giraffe (FR) |
+| 08:11 | **Jeremibus2012**: Shadow Dragon (FR), Owl (NFR) | **yuri_dragon32**: Strawberry Shortcake Bat Dragon (FR) ×12, Balloon Unicorn (FR), Haetae (FR) |
+| 08:11 | **ellielielielieee**: Cattuccino (M), Chihuahua | **nicourata4**: Pancake Stack |
+| 08:11 | **Pandan_bambu56**: Chocolate Dutch Guinea Pig (NFR) | **not_alex53956**: Tiny Wings |
+| 08:11 | **Sara707852**: Jester Dragon (MFR) | **11Anime_Love1**: Cabbit (NFR) |
+| 08:11 | **cbmelissa**: Goose (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Paint Sealer ×2 | **sugar_lover61**: Mini Pig (R) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
