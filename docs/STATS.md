@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 04:25 UTC by the scrape workflow._
+_Updated 2026-11-21 04:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 04:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 26,754 | 2026-11-21T04:15 |
-| elve | 11 | 5,744 | 2026-11-21T04:15 |
+| amvgg | 11 | 27,015 | 2026-11-21T04:30 |
+| elve | 11 | 5,785 | 2026-11-21T04:31 |
 
-## AMVGG completed trades: 42,500 total
+## AMVGG completed trades: 42,504 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 701 |
+| 2026-11-21 | 705 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,10 @@ _Updated 2026-11-21 04:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:30 | **alex_25girl333**: Matcha Cat, Vanilla Penguin | **NotSweatyOnion**: Pain au Chat ×18 |
+| 04:30 | **Cookie_13738jg**: Pig (NFR) | **U9l9y**: Phantom Dragon (NFR) |
+| 04:30 | **syavcas**: Pupcicle, Dragon ×2, Peachick, Sheepdog Ducky (N) ×2 | **Mnryyrm**: Ride-A-Pet Potion |
+| 04:30 | **Happyboi61082**: Clover Cow (MFR), Ostrich (MR), Sweetheart Rat (NR) | **sicklosergirl**: Happy Duckling (MFR) |
 | 04:20 | **Vanlyzn26**: Unicorn ×2 | **magicalxmoon**: Ride-A-Pet Potion ×2 |
 | 04:20 | **UwUvU1234**: Frostbite Bear (NR), Frostbite Bear ×3, Diamond Mahi Mahi ×2, Orca | **Arenn_1010**: Hedgehog (FR), Alley Cat (N), Mermicorn, Husky Sled ×2, Slimingo Feather Teleporter, Reindeer Stroller, Cannon Stroller, Kitty Biscuit |
 | 04:20 | **Kgell777**: Turtle | **NotSweatyOnion**: Candicorn (FR), Latte Kitsune (FR) |
@@ -47,10 +51,6 @@ _Updated 2026-11-21 04:25 UTC by the scrape workflow._
 | 04:20 | **Powerpopo1234**: Latte Kitsune, Dragonfruit Fox | **florence_23111**: Spring Bunny Hood |
 | 04:20 | **Depondip**: Turtle (NFR), Kangaroo (FR) | **makoyw766w89**: Strawberry Shortcake Bat Dragon (FR) |
 | 04:20 | **Vanlyzn26**: Unicorn | **miyuki0_5**: Ride-A-Pet Potion |
-| 04:20 | **lolcryabtit6767**: Arctic Fox (NFR) | **killua_kawai19**: Turtle (FR) |
-| 04:20 | **etsyauaiz**: Silverback Gorilla (N), Fairy Bat Dragon (NFR) | **MichaelDASIGMA**: Toaster Hat, Giraffe Hat, Giraffe Backpack |
-| 04:20 | **mariee20_03**: Hummingbird (M) | **Bumble_Lou**: Turtle (FR) |
-| 04:20 | **AHHA6281**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR) | **AsianIceCold**: Parrot (FR), Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
