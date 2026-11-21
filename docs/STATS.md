@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 09:55 UTC by the scrape workflow._
+_Updated 2026-11-21 10:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 09:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 32,214 | 2026-11-21T09:45 |
-| elve | 11 | 6,873 | 2026-11-21T09:46 |
+| amvgg | 11 | 32,484 | 2026-11-21T10:00 |
+| elve | 11 | 6,920 | 2026-11-21T10:01 |
 
-## AMVGG completed trades: 43,315 total
+## AMVGG completed trades: 43,321 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 1,516 |
+| 2026-11-21 | 1,522 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,6 +36,12 @@ _Updated 2026-11-21 09:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:00 | **ngisepmobil2**: Classic Trade Stand | **superytka8**: Squid |
+| 10:00 | **fhuybx556**: Turtle (FR) ×2, Elephant (FR) | **Sirswagalishsus**: Chocolate Chip Bat Dragon (FR) |
+| 10:00 | **Certifiedbwunnii**: Alpaca (MFR), Strawberry Tortle, Fly-A-Pet Potion, Ride-A-Pet Potion | **jypit0410j**: Giraffe (FR) |
+| 10:00 | **ARLEKIN4Ok1**: Flying Fairy, Admin Abuse Egg ×2, Rabbit (N), Admin Abuse Box | **helloiam_spongebob**: Chihuahua |
+| 10:00 | **asmornn**: Snorgle (N) | **cypirr**: Retired Egg ×9 |
+| 10:00 | **crazycattan16**: Matcha Cat (FR), Zebra (MR) | **wx8zqxx**: Tiny Wings |
 | 09:51 | **Dessertsandfoods**: Fly-A-Pet Potion ×8 | **pinkven0mrockst4r**: Border Collie (FR) |
 | 09:51 | **hahatyn2024**: Fly-A-Pet Potion ×6 | **3mis_alttt**: Shiver Wolf (MFR) |
 | 09:51 | **beyondmygrasp**: Sea Turtle (NFR), Lavender Dragon (N), Arctic Dusk Dragon (R), Fly-A-Pet Potion ×3 | **ABOBUS_CATME**: Frostbite Bear |
@@ -45,12 +51,6 @@ _Updated 2026-11-21 09:55 UTC by the scrape workflow._
 | 09:51 | **berritrades**: Mini Pig (R), Yeti (MFR), Latte Kitsune, Pancake Stack | **xx_sunny2003**: Snow Monkey (MFR) |
 | 09:51 | **Amjelgamar21**: Stray Cat Dragon ×18 | **Nancy_280117**: Pet Handler Pro Certificate |
 | 09:51 | **Eli_Ukraine12**: Frost Phoenix (FR) | **LYIZA_1976**: Ride-A-Pet Potion ×2 |
-| 09:51 | **sufferingtogether**: Gumball Caterpillar ×4 | **keisha_123654**: Paint Sealer |
-| 09:51 | **Itsjustthevibez**: Shark Puppy (R), Munchkin Cat (R) | **D1SREU**: Siamese Cat (FR) |
-| 09:51 | **gggpppgggppp1**: Snowball Pet, Toy Monkey (R) | **janaqgo_0**: Fly-A-Pet Potion |
-| 09:51 | **MiaGutu201**: Cherry Blossom Flower Sticker ×8, Cherry Blossom Tree Sticker ×10 | **darr1erbxxs**: Ride-A-Pet Potion |
-| 09:51 | **MrIcedKofi**: Temple Friend (N), English Sheepdog | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 09:51 | **xakerxa7235**: Dalmatian (FR), Mini Pig, Sugar Glider, Flamingo (R), Elephant, Pig, Pink Cat, Goat (R), Meerkat (R), Polar Bear | **Crystal_andLisa**: Owl (FR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
