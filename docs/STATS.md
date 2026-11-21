@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 06:01 UTC by the scrape workflow._
+_Updated 2026-11-21 06:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-21 06:01 UTC by the scrape workflow._
 | amvgg | 11 | 28,501 | 2026-11-21T06:00 |
 | elve | 11 | 6,122 | 2026-11-21T06:01 |
 
-## AMVGG completed trades: 42,699 total
+## AMVGG completed trades: 42,711 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 900 |
+| 2026-11-21 | 912 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 06:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:10 | **Addmymainamv**: Turtle (FR), Dalmatian (FR), Cow (MFR), Ride-A-Pet Potion, Nautilus | **bananage_07**: Parrot (NFR) |
+| 06:10 | **hijodefrutaXdd9**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×12, Bakeneko (N) | **meowieboogie**: Turtle (FR) |
+| 06:10 | **luvvvvrabbit**: Hedgehog (FR), Fly-A-Pet Potion | **kaylamicmi**: Rainbow Maker, Spring Bunny Hood ×5, Rain Cloud Hat |
+| 06:10 | **BulbyChallenges**: Clover Cow (N), Grinmoire (N) | **lowerbunny**: Ride-A-Pet Potion |
+| 06:10 | **pmpjmg1**: Ride-A-Pet Potion ×4 | **di44ri**: Jester Dragon |
+| 06:10 | **hduwkso**: Frost Dragon (FR) ×2, Mini Pig (FR) | **Esok_Sek0lah18**: Shadow Dragon (FR) |
+| 06:10 | **Froggy41020**: Cabbit (NFR) | **LAROBIKYT**: Kangaroo (NFR), Albino Monkey (NFR), Fly-A-Pet Potion |
+| 06:10 | **MARIATISHKA**: Parrot (NFR), Parrot (FR), Cabbit (NFR) | **Esok_Sek0lah18**: Shadow Dragon (FR) |
+| 06:10 | **Violet_Moon11AG**: Shoebill (N), Electric Hornet ×2, Gold Mahi Mahi | **Nanax_8907**: Soulfire Animated Sticker ×4 |
+| 06:10 | **lolo247243**: Dragon (NR), Unicorn ×4 | **Leck_aia181**: Sushi Penguin (N) |
+| 06:10 | **IconsChew**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) ×2 | **illumisluxurioushair**: Owl (FR) |
+| 06:10 | **Zxtemily**: Wood Pigeon, Chocolate Dutch Guinea Pig, 2021 Uplift Butterfly (N) | **MothxxLover123**: Catte, Winter Buck (N), Lamb (R) |
 | 06:00 | **pwaranoiia**: Owlbear (R), Owlbear (NFR), Firey Aura | **sww_tea**: Unicorn Horn, Hare |
 | 06:00 | **ItzAina_JPN**: Jousting Horse | **diiorrvi**: Ride-A-Pet Potion ×3 |
 | 06:00 | **nejdo109**: 2022 Birthday Confetti Cannon | **Abaddon_Kisser666**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×2 |
-| 06:00 | **Javier_Noob100**: Aestus (NR), Wyvern (N) | **NotSweatyOnion**: Matcha Cat, Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 06:00 | **personal_stalker69**: Turtle (FR) | **NotSweatyOnion**: Tortuga de la Isla (FR) ×2, Firefighter Gibbon (MR), Ride-A-Pet Potion, Unicorn (NFR), Dragonfruit Fox (FR) |
-| 06:00 | **SvinaATvar67**: Ballet Swan, Ostrich | **Mxso_soup8**: Ballet Swan |
-| 06:00 | **inkxr2**: Flamingo (FR), Ride-A-Pet Potion ×2, Blue Cat Ear Headphones | **meileAdrytea**: Puffer Fish (MFR) |
-| 06:00 | **copyvoting**: Ballet Swan (MFR), Flaming Fox (MFR), Rain Cloud Hat | **obv1kylxx**: Siamese Cat (MFR) |
-| 06:00 | **Adoreshellokittys**: Galapagos Sea Lion (M), Easter Bunny (M), Pupcicle (N), Pupcicle ×12 | **Eliaam0_0**: Pupcicle (M) |
-| 06:00 | **Hazeon29**: Fly-A-Pet Potion ×3, Thunderfisher (N) | **wsxzzq0**: Copycat (R) |
-| 06:00 | **kdkejwjsjd**: Monkey King (MFR), Pirate Ghost Capuchin Monkey (MFR) | **Robloxian663027334**: Shadow Dragon (FR), Steampunk Clock Hat |
-| 06:00 | **starswirl_64**: Koi Carp ×4 | **jedemcrnce67**: Ride-A-Pet Potion |
-| 06:00 | **Lola242532**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7 | **diiorrvi**: Munchkin Cat |
-| 06:00 | **enhypnize**: Elephant (FR) | **omniprese_nt**: Moon Rabbit (MFR) |
-| 06:00 | **MyAccountGoneForeve**: Bat Dragon (FR), Frost Dragon (FR), Silly Duck (MFR), Halloween White Ghost Dragon | **pedrobeteir0**: Shadow Dragon (NFR) |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
