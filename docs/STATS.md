@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-21 03:11 UTC by the scrape workflow._
+_Updated 2026-11-21 03:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-21 03:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 11 | 25,587 | 2026-11-21T03:00 |
-| elve | 11 | 5,543 | 2026-11-21T03:01 |
+| amvgg | 11 | 25,805 | 2026-11-21T03:15 |
+| elve | 11 | 5,562 | 2026-11-21T03:15 |
 
-## AMVGG completed trades: 42,325 total
+## AMVGG completed trades: 42,342 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-21 | 526 |
+| 2026-11-21 | 543 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
 | 2026-11-18 | 3,923 |
@@ -36,21 +36,21 @@ _Updated 2026-11-21 03:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:11 | **neliixoxo**: Crystal Egg ×18 | **HaiiTchteru**: Ride-A-Pet Potion |
-| 03:11 | **riler0982**: Golden Rat (MFR), Ride-A-Pet Potion ×7 | **Kandiedbybr3n**: Cow (FR) |
-| 03:11 | **Zydac1**: Walrus ×3, Snowman ×2, Snow Leopard, Flower Power Duckling | **diiorrvi**: Ride-A-Pet Potion |
-| 03:11 | **LynnDW2**: Ride-A-Pet Potion ×2 | **liza8498**: Harp Seal |
-| 03:11 | **whitekitty778**: Orchid Butterfly (FR), Cow (R) | **Ems090311**: Chocolate Chip Bat Dragon (FR) ×2 |
-| 03:11 | **GL0Rl0**: Haetae (FR), Copycat | **Luna_SanUwuUvu**: Chocolate Chip Bat Dragon (FR) ×2 |
-| 03:11 | **Panci_Terbang33**: Pupcicle ×3, Clumpty ×3 | **llkkiop12345**: Fly-A-Pet Potion |
-| 03:11 | **Trading2883388382**: Cow (FR) | **4evxer**: Goat (NFR) |
-| 03:11 | **wx8zqxx**: Unicorn Horn, Bready Necklace, Chocolate Chip Bat Dragon Backpack | **lou1slove**: Ice Cream Cone Hat, Matcha Cat ×2 |
-| 03:11 | **iiWxllowCloudz**: Flaming Fox (MFR), Spring Bunny Hood | **puchainela77**: Billy Goat (MR), Great Pyrenees (M), Super Saru (MFR), Flaming Zebra (M) |
-| 03:11 | **itsvaleriaotz**: Ride-A-Pet Potion, Sea Angel | **Gillit_ariii**: Rock Pigeon, Chick, Onza, Bloodhound, Blue Jay, Eggnog Hare, Sasquatch, Bunny (R) |
-| 03:06 | **Tylerxxxiq**: Mini Pig (R), Cow (R), Cow (FR), Fairy Bat Dragon (R) | **wskdaks**: Goose (FR), Rainbow Maker, Munchkin Cat (R), Sugar Glider (FR) |
-| 03:06 | **Zydac1**: Brachiosaurus ×6, Dugong ×2, Gecko Ducky | **melynagamer3**: Ride-A-Pet Potion |
-| 03:06 | **Mooheismoo**: Sugar Glider (F), Ride-A-Pet Potion, Fly-A-Pet Potion ×2, Caelum Cervi (FR) | **GrindAccount_N1**: Ninja Monkey (M) |
-| 03:06 | **epicpulsechaos2024**: Crystal Egg ×18 | **CatToBat0405**: Ride-A-Pet Potion ×2 |
+| 03:15 | **xenovyjay**: Crystal Egg ×15 | **funfwetticake**: Ride-A-Pet Potion |
+| 03:15 | **silliegur**: Pupcicle | **Omar2002548**: Crystal Egg ×9 |
+| 03:15 | **The_Mery24**: Sunrise Duckling ×2 | **Valerie_12342**: Ride-A-Pet Potion |
+| 03:15 | **mawifa123**: Siamese Cat (R) | **Moonlight_Sun33**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion |
+| 03:15 | **razarvale2z**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×4 | **wskdaks**: Cow (R) |
+| 03:15 | **UniversePaladin**: Count Slothula ×9, Retired Egg | **SpBiggestFan876**: Copycat |
+| 03:15 | **seongjohanJ**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×3 | **0n1yAlaina**: Bunny Swirl (M) |
+| 03:15 | **GrindAccount_N1**: Naga Dragon (FR), Bee (NFR) ×4, Kitty Bat (FR) ×2, Robot (MR), Axolotl (R) ×4, Golden Griffin (FR), Ancient Dragon (R) | **wskdaks**: Lion (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 03:15 | **MM_Cloud**: Crystal Egg ×15 | **auixiss**: Ride-A-Pet Potion |
+| 03:15 | **Lola_ant34**: Evil Unicorn (FR), Shark Puppy (NFR), Goose (R), Race Car Stroller, Moped, Spring Bunny Feet, Elf Hat, Pumpkin Carriage, Ice Cream Cone Hat, Lunar New Year Shoes | **snyyyp**: Fairy Bat Dragon (NFR), Jester Dragon (MFR), Copycat (NR) |
+| 03:15 | **carolzinhac2009**: Candicorn | **reigninharmonyy**: Ride-A-Pet Potion ×15 |
+| 03:15 | **chefbeardardee2**: Ram (NFR) | **Celia4160**: Christmas Pudding Pup |
+| 03:15 | **carolzinhac2009**: Jester Dragon | **lmp_666**: Ride-A-Pet Potion ×4 |
+| 03:15 | **VICTOR_AV01**: Hare (MFR), Ride-A-Pet Potion | **Missgurl_0675**: Caterpillar (NFR), Bunny Swirl (MR) |
+| 03:15 | **ByteU2Crimson3**: Cabbit (MFR), Cat | **Flashbook6**: 2022 Birthday Party Hat, Cryptid (NFR), Alpaca (R), 2022 Birthday Cake |
 
 ## Elvebredd value changes: 62,569 since 2023-09-16
 
