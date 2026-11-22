@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 12:15 UTC by the scrape workflow._
+_Updated 2026-11-22 12:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 12:15 UTC by the scrape workflow._
 | amvgg | 12 | 36,846 | 2026-11-22T12:15 |
 | elve | 12 | 8,035 | 2026-11-22T12:15 |
 
-## AMVGG completed trades: 49,653 total
+## AMVGG completed trades: 49,685 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,345 |
+| 2026-11-22 | 2,377 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 12:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:15 | **hahagirlfreind**: Green Amazon (MR) | **DVSeyb**: Vanilla Penguin, Pupcicle, Tuxedo Cat, Chihuahua, Tarsier, Puptune, Koi Carp, Stitches, Thunderfisher |
-| 12:15 | **PinkyPieFoSho**: Giant Panda (FR), Mini Pig (NFR), Harp Seal (NR), Bready Necklace, Ice Cream Heels, Chihuahua (M) | **Iezabella7**: Frost Dragon (FR) |
-| 12:15 | **funbunicake**: Ice Cube (M) | **adoptmeplayer293791**: Fly-A-Pet Potion |
-| 12:15 | **ZzzTrades7**: Burger Bear (MFR), Ride-A-Pet Potion ×3 | **hisd3sires**: Tortoiseshell Guinea Pig (R) |
-| 12:15 | **flowerist0w04577**: Munchkin Cat, Owlbear, Arctic Fox (R), Haetyphoon (FR), Ride-A-Pet Potion, Fly-A-Pet Potion | **karas_mihail**: Cow (FR) |
-| 12:15 | **wongryder**: Great Pyrenees (MR), Love Bird (M), Mistletroll (M), Fly-A-Pet Potion | **Txskiicatzz**: Unicorn Horn |
-| 12:15 | **voidedkevv**: Cattuccino ×2, St Bernard, Clumpty | **Milleacka_Girl**: Chihuahua |
-| 12:15 | **itsnottt_mexx**: Blue Ringed Octopus, Pine Marten, Admin Abuse Egg ×7 | **BlingQueen123476**: Ride-A-Pet Potion |
-| 12:15 | **starswirl_64**: Pink Betta Fish, Tarsier, Hydra, Koi Carp | **Bruniepie**: Ride-A-Pet Potion |
-| 12:15 | **lirvi_kiti**: Sprout Snail, Candy Cane Snail, Rooster, Heart Hat | **BIg_BoRdy**: Ride-A-Pet Potion |
-| 12:15 | **mommy_vka123**: Candicorn (R) | **cpenk3211**: Ride-A-Pet Potion ×16 |
-| 12:15 | **EGOATHENOOB**: Wyvern (R), Ginger Cat (R), Rubber Ducky (N), Beluga Whale (M) | **love_anime12393**: Ride-A-Pet Potion ×2 |
-| 12:15 | **freakynoob123**: Shark Puppy (MFR), Irish Water Spaniel (MFR), Unicorn Horn | **cuthbertbean**: Candyfloss Chick (MFR) |
-| 12:15 | **1220birth1005100**: Jester Dragon (FR), Count Slothula | **xXLixoradkaXx**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 12:15 | **women_7031**: Chocolate Labrador (MR) | **tdtfhgjzsrl228**: Ride-A-Pet Potion |
+| 12:25 | **URAMAZINGBOB**: 2022 Birthday Cake, Unicorn Horn, Spring Bunny Hood | **tessadegroot2009**: Lamb (MFR), Hamster (MFR), Snowball Pug (MFR) |
+| 12:25 | **T_T10604**: Unicorn Horn, Tiny Wings, Zombie Wolf (N) | **prince_onepator**: Hot Doggo |
+| 12:25 | **trainingpilot12**: Shark Puppy (FR) ×4, Shark Puppy (R) ×8, Shark Puppy ×5, Albino Monkey (R) | **leruval**: Owl (FR) |
+| 12:25 | **BIg_BoRdy**: Candy Snowmobile | **Bow_trader**: Christmas Dog Sticker ×2, Sledding Penguin Sticker ×2 |
+| 12:25 | **LaSaraaa_2011**: Undead Jousting Horse (R) | **Marwani_lol**: Puffin (NFR), Snow Monkey (N) |
+| 12:25 | **ILoveCupcakes33123**: Puffer Fish | **XYRMA_524**: Zombie Wolf |
+| 12:25 | **Smookgans**: Hare (MFR), Flaming Fox (FR) | **Typay604**: Mini Pig (R), Polar Bear (NR), Santa Hat |
+| 12:25 | **add1wxDDD**: Ride-A-Pet Potion | **CAXAROK_NBK**: Pain au Chat ×3 |
+| 12:25 | **sofcheke**: Stitches (MFR) | **Wer0n14ka**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 12:25 | **pozitivhik989**: Chihuahua, Blue Butterfly (N) | **jauzyp**: Count Slothula |
+| 12:25 | **asdshfshs**: Mochi Meow (M), Ribbon Seal (M) | **uliiamiqw**: Ride-A-Pet Potion ×3 |
+| 12:25 | **kikish1m**: Turtle (FR), Ride-A-Pet Potion ×2 | **DRA25466**: Zombie Wolf (MFR) |
+| 12:25 | **sofcheke**: Chocolate Chip Bat Dragon (FR), Hot Doggo (FR), Lion (FR) | **Killkillmaster2345**: Sheeeeep (MFR) |
+| 12:25 | **lostralaleritos_685**: Aurora Fox (MFR) | **CR1MINALCRIMSON**: Christmas Pudding Pup (MFR) |
+| 12:25 | **H4rm0nicdsires**: Candicorn (MFR) | **dollregistry**: Cryptid (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
