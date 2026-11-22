@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 03:01 UTC by the scrape workflow._
+_Updated 2026-11-22 03:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 03:01 UTC by the scrape workflow._
 | amvgg | 12 | 27,734 | 2026-11-22T03:00 |
 | elve | 12 | 5,965 | 2026-11-22T03:01 |
 
-## AMVGG completed trades: 47,829 total
+## AMVGG completed trades: 47,843 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 521 |
+| 2026-11-22 | 535 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 03:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:11 | **pijgryj**: Black-Chested Pheasant (NFR), Arctic Fox (FR), Pet Handler Pro Certificate | **Rbd_JP**: Lava Dragon (M) |
+| 03:11 | **lifestyle1312**: Evil Unicorn (FR), Red Squirrel (FR) | **femglxm**: Hedgehog (FR) |
+| 03:11 | **tonyyy133378**: Strawberry Shortcake Bat Dragon (FR), Blazing Lion (R), Siamese Cat (FR) | **MIA_AA27**: Owl (FR) |
+| 03:11 | **blushiibuns**: Rainbow Maker ×3, 2022 Birthday Party Hat, Chocolate Dutch Guinea Pig (R) | **NebulastHyperftVenat**: Owl (FR) |
+| 03:11 | **Sk4tesItsAriaBlox**: Count Slothula ×15 | **pigizak**: Ride-A-Pet Potion ×9 |
+| 03:11 | **pancakepandapal**: Frost Dragon (FR), Tio De Nadal (M), Strawberry Shortcake Bat Dragon (NFR), Sugar Glider (N), Grim Dragon (FR), Lion (FR) ×2, Maneki-Neko (MR) | **MyAccountGoneForeve**: Bat Dragon (FR) |
+| 03:11 | **elifanaekinci**: Unicorn, Retired Egg ×3 | **h4_cd**: Ride-A-Pet Potion |
+| 03:11 | **DarcyUnicorn123456**: Balloon Unicorn (NFR), Snow Monkey (MFR) | **Soniapol10**: Cabbit (MFR), Candicorn (MFR), Field Mouse (MFR) |
+| 03:11 | **GlimmerRose27**: Skelicorn (NFR), Ride-A-Pet Potion ×2, Unicorn Ducky (NR), Tawny Frogmouth (N) | **vfiffj574**: Pterodactyl (NR), Australian Kelpie (NR), Red Squirrel (R), Halloween Evil Dachshund (R), Albino Bat (R) |
+| 03:11 | **Amira_917181**: Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig (R), Rainbow Stroller, Ice Cream Stroller, Pancake Stack | **mimikjuice7**: Pig (FR) |
+| 03:11 | **coolsers28**: 2022 Birthday 5 Badge, Green-Chested Pheasant, Singularity Pisces | **Spooky_Aniyah**: 2022 Birthday Confetti Drape |
+| 03:11 | **Frs_88xx**: Ride-A-Pet Potion ×4 | **asdshfshs**: Zebra (NFR), Dragon (NFR), Golden Unicorn (NR), Ginger Cat (NFR) |
+| 03:11 | **anxme_lol**: 2022 Birthday Party Hat | **AMOANICOLE78**: 2022 Birthday Cake, Fly-A-Pet Potion |
+| 03:11 | **archi_chozza**: Pupcicle, Wyvern, Purrowl ×3 | **Av4xtrx4n**: Ride-A-Pet Potion |
 | 03:00 | **Yoogurt_Latte**: Starfish (N) | **SammBleu**: Raccoon |
-| 03:00 | **bakerbunn1s**: Frostbite Cub (MFR) | **robloxnaomi3**: Dango Penguins (NFR) |
-| 03:00 | **lantongzp**: Evil Unicorn (FR), Fly-A-Pet Potion | **gavinOMG_66**: Flamingo (R), Matcha Cat (R), Ring-Tailed Lemur ×3, Super Saru (MFR), Alpaca (FR), Arctic Fox, Frostclaw (MR) |
-| 03:00 | **caritoo_zmor**: Fairy Bat Dragon (FR) | **ShadowMashy**: Fly-A-Pet Potion ×15 |
-| 03:00 | **FestiveNotCupcake**: Shiver Wolf (M) | **kreker0900**: Arctic Fox (FR) |
-| 03:00 | **caritoo_zmor**: Mermicorn (FR) | **Wolfie4567ty**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 |
-| 03:00 | **OnlyZizzz**: Undead Elk, Yellow Butterfly ×9, Bat (NF), Bat (N) ×3, Birthday Butterfly 2023 ×4 | **blvvyiiskiies**: Ride-A-Pet Potion ×4 |
-| 03:00 | **Giovana333233**: Cow (NFR), Elephant (FR), Fossil Egg | **Mwsjdhw**: Dalmatian (FR) |
-| 03:00 | **spook_jhon**: Turtle (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **Dhdhdhehsdhdheyeye**: Cow (FR) |
-| 03:00 | **AsianIceCold**: Bobageist (M) | **looter_love**: Ride-A-Pet Potion |
-| 03:00 | **blushiibuns**: Balloon Unicorn (NFR) | **matthewisI2here**: Owl (NFR) |
-| 03:00 | **chantking0910**: Kangaroo (FR) | **DinnieLildina**: Ride-A-Pet Potion ×17 |
-| 03:00 | **Xxskibidy67**: Albino Monkey (FR), Albino Monkey (R) | **Jadameigo**: Sugar Glider (FR) |
-| 03:00 | **luzmi119**: Golden Hamster | **catucata28**: Winged Horse |
-| 03:00 | **P1nkteeth**: Chocolate Dutch Guinea Pig (R) | **Y4r3tzy09**: Cherry Blossom Flower Sticker ×9, Cherry Blossom Tree Sticker ×9 |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
