@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 01:31 UTC by the scrape workflow._
+_Updated 2026-11-22 01:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 01:31 UTC by the scrape workflow._
 | amvgg | 12 | 26,176 | 2026-11-22T01:30 |
 | elve | 12 | 5,639 | 2026-11-22T01:31 |
 
-## AMVGG completed trades: 47,574 total
+## AMVGG completed trades: 47,586 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 266 |
+| 2026-11-22 | 278 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 01:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:40 | **lizacka_milk**: Boohoo (MR) | **queenalwaysslayxx**: Ride-A-Pet Potion ×2 |
+| 01:40 | **kurumisbff**: Snow Cone Stand, Cotton Candy Stand, Lemonade Stand ×2, Hotdog Stand, Premium Camping Tent, Camping Tent, Stygian Hang Glider | **iridescenite**: Fly-A-Pet Potion |
+| 01:40 | **Dawnavae**: Blazing Lion (R), Cow (R) | **tonyyy133378**: Arctic Reindeer (NFR) |
+| 01:40 | **tonyyy133378**: Werewolf (FR), Jousting Horse (R) | **AvaNari2010**: Siamese Cat (FR) |
+| 01:40 | **EthanNovaZoom2024**: Turtle (FR) | **ykardYT**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 |
+| 01:40 | **cheseyyyyyyyyy**: Gold Tiara | **mariagmia**: Marshmallow Friend |
+| 01:40 | **caroesel**: Unicorn Horn | **URAMAZINGBOB**: Toy Monkey (MFR) |
+| 01:40 | **LIAXMLV**: Lava Wolf, Moonbeam Butterfly | **Luna_97932**: Burger Bear (N), Koala |
+| 01:40 | **defaultplayer12450**: Candicorn (NFR), Candicorn (NR), Bunny Swirl (MR), Elephant, Sushi Penguin (M) | **gamer_girly81233**: Candicorn (MFR) |
+| 01:40 | **themudwizard**: Bat Dragon (FR), Crow (FR), Kangaroo (FR) ×4, Strawberry Shortcake Bat Dragon (FR) | **x3mzv**: Shadow Dragon (NFR) |
+| 01:40 | **SIMPita_DeJona**: Ride-A-Pet Potion ×4 | **silvannah122**: Jester Dragon |
+| 01:36 | **itzz_Keys**: Latte Kitsune, Galaxy Explorer Helmet, Paint Sealer | **natfrmct**: Latte Kitsune (R) |
 | 01:30 | **Manga11998**: Goose (R) | **katakuri_RBL**: Kangaroo (NFR) |
 | 01:30 | **kurumisbff**: Triple Stroller, Tractor Stroller, Red Wagon Stroller, Wheelbarrow Stroller, Woodland Cradle Stroller, Lunar Stroller, Donut Stroller | **iridescenite**: Ride-A-Pet Potion |
 | 01:30 | **Madspantsfelloff**: Border Collie (R), Christmas Pudding Pup, Dugong (MR), Tanuki (M), Hammerhead Shark (M) | **abdoosaad**: Cabbit (FR), Chocolate Dutch Guinea Pig |
-| 01:30 | **loserbunnygf**: Bat Dragon (FR), Bush Elephant (FR), Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×6, Amami Rabbit (N), Choco Penguin (MR) | **MICROCELE6BRITY**: Cryptid (MFR) |
-| 01:30 | **Kipperlekangaroo**: Tiny Wings ×3, 2022 Birthday Confetti Cannon, Happy Clam (NR), Amami Rabbit (MR) | **L_person21**: Strawberry Shortcake Bat Dragon (FR) |
-| 01:30 | **Ethernaces**: Stray Cat Dragon ×16 | **Mwsjdhw**: Pet Handler Pro Certificate |
-| 01:25 | **dead_pool455**: Jekyll Hydra Animated Sticker | **b_cwx**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 01:25 | **Tyatya03**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×9, Strawberry Clip | **SilentlyNobody**: Elephant (FR) |
-| 01:25 | **Gmyiluv**: Giant Anteater ×3, Scorching Kaijunior | **Skrippies**: 2022 Birthday Cake |
-| 01:25 | **Gojos_butteryfoot**: African Wild Dog (FR), Angel Wings, Halo, Moon Rabbit (MFR), Water Rabbit (MFR) | **Ghostkittyin**: Siamese Cat (MFR), Rainbow Maker, Sheeeeep (NFR), Ghost Bunny (N) |
-| 01:25 | **MM_Cloud**: Crystal Egg ×15 | **rikalomas**: Ride-A-Pet Potion |
-| 01:25 | **blake_shortie**: Corn Doggo | **kylebarcebas1**: Pizza Stroller |
-| 01:25 | **kurumisbff**: Budgie Witch (MR), Chocolate Labrador (R) | **love_sry0**: Ride-A-Pet Potion |
-| 01:25 | **Yupiterd**: Crystal Egg ×18 | **ouh5750**: Fly-A-Pet Potion |
-| 01:20 | **AIexPIaysRBX**: Hedgehog (FR), Turtle (NFR), Kangaroo (FR), Pig (FR) | **starfire_33334**: Dalmatian (FR), Dalmatian (R) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
