@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 12:01 UTC by the scrape workflow._
+_Updated 2026-11-22 12:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 12:01 UTC by the scrape workflow._
 | amvgg | 12 | 36,590 | 2026-11-22T12:00 |
 | elve | 12 | 8,009 | 2026-11-22T12:01 |
 
-## AMVGG completed trades: 49,585 total
+## AMVGG completed trades: 49,589 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,277 |
+| 2026-11-22 | 2,281 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,10 @@ _Updated 2026-11-22 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:06 | **Robloxianj0h9v2j1p**: Golden Jaguar (N), Blue Cat Ear Headphones, Pupcicle, Ruddy Duck (M), Arctic Fox | **Soophiiiiiia**: Golden Jaguar (MFR) |
+| 12:06 | **ameyyass**: Ride-A-Pet Potion ×2 | **JULI_LOVE48**: Easter Bunny (M) |
+| 12:06 | **hanb3ki**: Frost Dragon (FR) ×2, Siamese Cat (R), Festive Deliveries Present Truck | **herb23012**: Shadow Dragon (FR) |
+| 12:06 | **0wzxc**: Orange Butterfly, Drake, Ox (N), Corgi (N), Jacobin Pigeon (N), Black Tiger (N) | **LYIZA_1976**: Fly-A-Pet Potion |
 | 12:00 | **ItsMeowwTimee**: Turtle (NFR), Urchin (MFR), Shrew (R), Propeller Hat, Spring Bunny Nose | **TT3VLD**: Chocolate Chip Bat Dragon (FR) |
 | 12:00 | **evescupid**: Moose Calf (MFR) | **Ffaa_bom**: Dango Penguins (MFR) |
 | 12:00 | **Nikash_g4**: Gemstone Egg, Fire Mare, Fire Foal (N), Fire Stallion, Onza, Little Lamb ×2, Diamond Griffin ×2 | **dasha_123qwr**: Ride-A-Pet Potion |
@@ -48,10 +52,6 @@ _Updated 2026-11-22 12:01 UTC by the scrape workflow._
 | 12:00 | **bE33UbNK**: Red Dutch Guinea Pig | **grijfe8r**: Ride-A-Pet Potion ×3 |
 | 12:00 | **jokerako28**: Cow (FR), Mule (MFR), Arctic Fox (FR) | **rblx_mask**: Arctic Reindeer (FR) |
 | 12:00 | **lirvi_kiti**: Hare, Seabed Creeper | **quietlyangel**: Ride-A-Pet Potion ×3 |
-| 12:00 | **Puddingxcutoy**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Veraca2900**: Arctic Fox (FR) |
-| 12:00 | **AzureMinesAreCool**: Amethyst Skies Mega Neon Paint | **Georgy30015**: Velvet Fuchsia Mega Neon Paint |
-| 12:00 | **kotek_bla**: Ride-A-Pet Potion ×2 | **HappyBrenda44**: Spring Bunny Feet |
-| 12:00 | **lhfshkg**: Fly-A-Pet Potion ×15, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **DragonjJDusta107130**: Cow (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
