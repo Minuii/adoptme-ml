@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 15:31 UTC by the scrape workflow._
+_Updated 2026-11-22 15:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 15:31 UTC by the scrape workflow._
 | amvgg | 12 | 40,244 | 2026-11-22T15:30 |
 | elve | 12 | 8,870 | 2026-11-22T15:31 |
 
-## AMVGG completed trades: 50,633 total
+## AMVGG completed trades: 50,689 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 3,325 |
+| 2026-11-22 | 3,381 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 15:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:30 | **Sabrina_Spellment**: Chocolate Dutch Guinea Pig, Cattuccino, Shoebill ×4, Pandaguin Glooptodog ×2, Admin Abuse Egg | **oreocatking**: Chef Gorilla |
-| 15:30 | **Kiki_sunik**: Happy Duckling | **May31kate**: Pupcicle |
-| 15:30 | **luvyerh**: Cow (FR) | **Dyudadaham03**: Crocodile (FR), Pig (FR) ×2 |
-| 15:30 | **mrsyxlv**: Fly-A-Pet Potion | **typol1235y6**: Ride-A-Pet Potion ×2 |
-| 15:30 | **Amvggtrad3r**: Rainbow Maker | **karagolgeTR10**: Tortoiseshell Guinea Pig (NFR), Hippo (NR) |
-| 15:30 | **tbx_scarlet**: Strawberry Shortcake Bat Dragon (R), Ride-A-Pet Potion ×2 | **XxlambadguyxX**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:30 | **splashJuggernaut**: Fly-A-Pet Potion ×6 | **larisochka_gudeeva98**: Pupcicle (M) |
-| 15:30 | **Akaisz032**: Frankenfeline (M), Princess Mare (N), Ms. Muffet (N), Caramelgeist (N), Mummy Spider (N) | **naebalova1000_7**: Ride-A-Pet Potion |
-| 15:30 | **cuttiiesara**: Billy Goat (M), Kitty Biscuit | **Mytradeaccountforme**: Dango Penguins (NFR) |
-| 15:30 | **ilovebelleblossom**: Parrot (FR), Lamb (MFR), Apple Owl (MFR), Cow (R), Caterpillar (FR), Lamb (NFR) | **Nati_ati73**: Frost Dragon (FR) |
-| 15:30 | **W1NT3R_991224**: Pig (R), Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **Charlotte_art2**: 2022 Birthday Cake |
-| 15:30 | **itsByte_hunter73**: Dragonfruit Fox, Pupcicle (N), Pain au Chat ×2 | **piinkttape**: Copycat |
-| 15:30 | **Mnenormalno_0**: Cow (R) | **Waysrrsd**: Border Collie (FR), Fly-A-Pet Potion ×5, Munchkin Cat |
-| 15:30 | **Halimaxonjik_k**: Diamond Griffin (NR) | **AceTheWolf_XxNight**: Ride-A-Pet Potion |
-| 15:30 | **elproXD_7v7**: Chihuahua ×3 | **Armybtsluv12**: Ride-A-Pet Potion |
+| 15:40 | **evidencz**: Rain Cloud Hat, Unicorn Horn, 2022 Birthday Party Hat | **v1qwui**: Rainbow Maker |
+| 15:40 | **darlinglaufey**: Crow (MFR), Royal Corgi (MFR) | **fluffyunicorns_932**: Bat Dragon (FR), Flaming Fox (MFR), Chocolate Dutch Guinea Pig (MFR), Great Pyrenees (MFR), Ram (MFR), Ballet Swan (MFR), Lynx (MFR) |
+| 15:40 | **CaroPYt**: Munchkin Cat | **Kali_girl790**: Ride-A-Pet Potion ×9 |
+| 15:40 | **21canyoudosfm**: Flaming Fox, Yule Log Dog, Shark Puppy (R), Brachiosaurus (M), 2D Doggy, Stitches (M) ×3 | **hasi168**: Siamese Cat (R) |
+| 15:40 | **atracttion**: Elephant (NFR), Birthday Butterfly 2023 (MR) | **emqa_03**: Cow (FR), Pupcake (MFR), Snowball Pug (M) |
+| 15:40 | **iratcowews**: Propeller Hat | **Sillyseal_026**: Spring Bunny Nose |
+| 15:40 | **ArdaEOYT**: Caterpillar (MFR), Cow (MFR) | **CL0VR0**: Strawberry Shortcake Bat Dragon (MFR), Cherry-On-Top |
+| 15:40 | **NoRiskNoFun_12**: Winged Tiger (NFR), Field Mouse (NFR), Ride-A-Pet Potion ×2 | **marsel_bananov**: Arctic Reindeer (FR) |
+| 15:40 | **Spartik20**: Thunderfisher (N) | **zianagirls**: Christmas Pudding House |
+| 15:40 | **Vitamirka**: Pain au Chat ×6 | **BluemonkeyD123**: Ride-A-Pet Potion ×2 |
+| 15:40 | **bae_hyeinie**: Siamese Cat | **dogtocrowadopt1**: Albino Gorilla (FR), Lavender Dragon (FR), Tree Kangaroo, Shark (R), Skele-Rex (R), Green Butterfly (R), Latte Kitsune, Fly-A-Pet Potion, Cerberus (FR), Harp Seal ×2 |
+| 15:40 | **its_catik7**: Munchkin Cat (R) | **SoSo_Sonnixx**: Fly-A-Pet Potion ×5 |
+| 15:40 | **adoptmesuchti1707**: Kakapo ×6 | **Kir4kaa**: Kakapo (N) |
+| 15:36 | **Dima_98909**: Fly-A-Pet Potion ×3 | **NotSweatyOnion**: Frost Fury (FR) |
+| 15:36 | **ccdbgt1**: Fly-A-Pet Potion | **Bubble_Tea2002**: Lamb |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
