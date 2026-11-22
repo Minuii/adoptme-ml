@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 10:46 UTC by the scrape workflow._
+_Updated 2026-11-22 10:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 10:46 UTC by the scrape workflow._
 | amvgg | 12 | 35,323 | 2026-11-22T10:45 |
 | elve | 12 | 7,688 | 2026-11-22T10:46 |
 
-## AMVGG completed trades: 49,237 total
+## AMVGG completed trades: 49,306 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,929 |
+| 2026-11-22 | 1,998 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 10:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:41 | **lostinawinterstorm**: Alpaca (FR), Siamese Cat (FR), Christmas Pudding Pup (FR), Cow (FR), Cattuccino (N) | **akeks_74**: Dalmatian (FR) |
-| 10:41 | **Lextus_3**: Lion (R), Ride-A-Pet Potion ×2 | **luvyerh**: Border Collie (FR) |
-| 10:41 | **hihihihihihihahahah2**: Munchkin Cat ×2, Fallow Deer (R), Jester Dragon, Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **Makie0104**: Munchkin Cat (NFR) |
-| 10:41 | **Bibisiwan**: Albino Monkey (NFR), Kangaroo (NFR), Frostbite Bear (FR), Dragonfruit Fox (MFR), Alley Cat (MFR), Shrew (NR), Jellyfish (NR), Unicorn Horn | **kittycutecat11130**: Frost Dragon (FR), Ride-A-Pet Potion ×2 |
-| 10:41 | **FadeToBlackCat**: Goose, Chocolate Chip Bat Dragon (FR) | **xo1qn**: Hedgehog, Shrew (R) |
-| 10:41 | **CEMEH_HOCKOB**: Ride-A-Pet Potion | **Pashakatkofff**: Scarebear |
-| 10:41 | **nfrmikey1**: Copycat ×2, Copycat (R), Fly-A-Pet Potion | **Dasha122456777**: Candyfloss Chick (R) |
-| 10:41 | **Addmymainamv**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Cabbit (FR) | **Crystal_andLisa**: Hedgehog (FR), Flamingo (R) |
-| 10:41 | **AwhxXiu**: Giraffe (FR), Ride-A-Pet Potion | **GrindAccount_N1**: Mini Pig (MFR) |
-| 10:41 | **rrgxetss**: Unicorn (NR) | **lalaboo230**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 10:36 | **daandy44566**: Strawberry Shortcake Bat Dragon (MFR), Chocolate Chip Bat Dragon (MFR) | **iiheartzb**: Goat (MFR), Groundhog (MFR), Honey Badger (MFR), Lion Cub (MFR), Peppermint Penguin (MFR), Puffin (MFR) |
-| 10:36 | **frostdragon_furyfree**: Basic Egg ×18 | **cutiepie_ally2407**: Retired Egg ×12 |
-| 10:36 | **mekwx0**: Aviator Hat, Little Lamb (N) | **cesarx_o**: Ride-A-Pet Potion |
-| 10:36 | **Kxn14k**: Kangaroo (FR), Baku (N) | **Eva_EvaKBAC**: Flamingo (FR) |
-| 10:36 | **TYTkuza2**: Fly-A-Pet Potion ×10 | **megasupper_profi**: Ride-A-Pet Potion ×18 |
+| 10:55 | **Zoomek62**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×2 | **Ashera115**: Munchkin Cat |
+| 10:55 | **arbigamer8**: Mermicorn (NFR), Spring Bunny Hood | **Chxssxn**: Sheeeeep (NFR), Goat (R), Siamese Cat (R), Pig, Cupid Dragon (R), Leopard Shark, Rhino, Ram |
+| 10:55 | **VauFrezhBar_LizaVau**: Fly-A-Pet Potion, Badger (N) | **kiara_lotos**: Pet Handler Pro Certificate |
+| 10:55 | **Robloxian19039878**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×4 | **H08ni**: Turtle (FR) |
+| 10:51 | **Charlotte_art2**: Peach Owl (MR), Ride-A-Pet Potion ×5 | **c4rrxblushh**: Turtle (FR) |
+| 10:51 | **U9l9y**: Pig (NFR) | **Mentosvcxz**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×7 |
+| 10:51 | **LAHNLAHNLAHN**: Christmas Pudding House | **hanifrog14**: Ride-A-Pet Potion |
+| 10:51 | **LoriDreamy123**: Evil Unicorn (FR), Arctic Fox (R), Chocolate Dutch Guinea Pig (N), Frost Fury (FR), Halloween White Ghost Dragon (R), Ride-A-Pet Potion | **Bibisiwan**: Haetae (FR) |
+| 10:51 | **thryxle**: Candicorn, Chocolate Dutch Guinea Pig, Fly-A-Pet Potion ×2 | **lolipopbunni16**: Siamese Cat (FR) |
+| 10:51 | **megasupper_profi**: Kangaroo (R), Mouse (NR), Gemstone Egg | **AlleyCatDR**: Ride-A-Pet Potion ×17 |
+| 10:51 | **asdw4ad**: Fly-A-Pet Potion, Paint Sealer, Boohoo | **lushlyr**: Ride-A-Pet Potion ×2 |
+| 10:51 | **batton0955**: Ride-A-Pet Potion ×4 | **GobbleWobble132**: Christmas Spirit (M) |
+| 10:51 | **CASSIEGL4MSXO**: Unicorn Horn | **Roblo_mmm**: Bush Elephant (FR), Ride-A-Pet Potion ×2 |
+| 10:51 | **odading12318**: Hero Gibbon (N) | **Evelina22super**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion |
+| 10:51 | **Ri3verr**: Classic Trade Stand | **nasciel_12**: Tutu |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
