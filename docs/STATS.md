@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 20:16 UTC by the scrape workflow._
+_Updated 2026-11-22 20:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 20:16 UTC by the scrape workflow._
 | amvgg | 12 | 45,371 | 2026-11-22T20:15 |
 | elve | 12 | 10,004 | 2026-11-22T20:15 |
 
-## AMVGG completed trades: 52,315 total
+## AMVGG completed trades: 52,359 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,007 |
+| 2026-11-22 | 5,051 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 20:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:15 | **catvlq**: Ride-A-Pet Potion ×3, Count Slothula, Aviator Hat | **Merozaa1337**: Toyshop House |
-| 20:15 | **Gamer_Girl1094286**: Tortuga de la Isla (FR), Winged Tiger (FR) | **Oreo_Sofija**: Kangaroo (FR) |
-| 20:15 | **s0larzxxxx**: Ride-A-Pet Potion | **Zlota_Sofa**: Jester Hat |
-| 20:15 | **Zjdzgfwa**: Arctic Dusk Dragon (R) | **corgicat122**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 |
-| 20:15 | **Evelyy_na**: Tree Kangaroo (MFR), Black Springer Spaniel (MFR), Chef Gorilla (MFR), Tiny Wings ×2, Ice Cream Cone Hat ×2 | **alwyzchlqe**: Goat (MFR) |
-| 20:15 | **grijfe8r**: Munchkin Cat ×2, Ride-A-Pet Potion | **toybeau772**: Jester Dragon (NR), Chocolate Dutch Guinea Pig, Cute-A-Cabra (M) |
-| 20:15 | **bella102935**: Unicorn Horn | **sleepy_s0ren**: Flamingo (FR) |
-| 20:15 | **Sleepy_Aishe**: Japanese Snow Fairy (NF) | **Janewillnever**: Pupcicle |
-| 20:15 | **razarvale2z**: Chihuahua ×5 | **djwestie**: Chihuahua (N) |
-| 20:15 | **Gamechar1015**: Pig (FR) | **Vika4ka20q**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
-| 20:15 | **Elleaveyard**: Pain au Chat | **PiesekTubson**: Kirin (N) |
-| 20:15 | **daanz2**: Pet Handler Pro Certificate | **purinsitoelmejor**: Fly-A-Pet Potion |
-| 20:15 | **sonyalove643**: Undead Jousting Horse (NFR), Frost Unicorn (FR), Fly-A-Pet Potion, Alley Cat (R) | **Sofhia0934**: Giant Panda (FR) |
-| 20:15 | **Elf_Deme**: Arctic Reindeer (FR), Cow (FR), Arctic Reindeer (F) | **W1NT3R_991224**: 2022 Birthday Party Hat, 2022 Birthday Cake ×2, Unicorn Horn ×2, 2022 Birthday Party Horn ×3, Toaster Hat ×2, Spring Bunny Nose, Spring Bunny Feet, Santa Hat, Elf Hat |
-| 20:15 | **miicxza**: Flamingo Sticker, Dalmatian Sticker | **Cat2_gir**: Balloon Unicorn Sticker |
+| 20:25 | **Ami_Mixed**: Huntsman Robin ×2, Glormy Crab, Golden Tortoise Beetle, Easter Bunny, Chihuahua | **dilanfabian13**: Ride-A-Pet Potion |
+| 20:25 | **razarvale2z**: Chihuahua (N) ×4, Chihuahua ×4 | **Xz_CodeOLDriftdLBliz**: Chihuahua (M) |
+| 20:25 | **peachieskiwi**: Unicorn Horn, Fly-A-Pet Potion | **missy_Artz**: Rain Cloud Hat, Spring Bunny Hood, Ride-A-Pet Potion ×2 |
+| 20:25 | **XxClaudiaWolfy1912xX**: Phantom Dragon (NFR), Kitty Bat (M), Skelicorn (M) ×2, Fire Mare (M), Fire Stallion (M), Fleur De Ice (M), Sea Angel (M), Pumpkin Friend (N), Samoyed (M), Badger (M), Abyssinian Cat (M) | **tsitp_secret**: Naughty Mistletroll (MR) |
+| 20:20 | **Artem_21a2**: Pumpkin Friend (MR) | **Boo_kittykitty**: Fly-A-Pet Potion ×5 |
+| 20:20 | **anelyoda**: Fly-A-Pet Potion ×3 | **Niyagirl24265**: Kappakid (MR) |
+| 20:20 | **martins10530**: Crystal Egg ×18 | **hugsformy_sisfinjaa**: Fly-A-Pet Potion |
+| 20:20 | **RV282**: Owl (NFR), Balloon Unicorn (FR), Chocolate Chip Bat Dragon (NFR), Goose (R) | **4evxer**: Bat Dragon (FR) |
+| 20:20 | **pedrobeteir0**: Fairy Bat Dragon (MFR), Polar Bear (FR) | **Skiaksn**: Crow (FR), Dalmatian (FR) |
+| 20:20 | **evieebunnii**: Ride-A-Pet Potion | **Pewciall**: Admin Abuse Egg ×18 |
+| 20:20 | **NoahRift5224**: Count Slothula (N), Santa Hat, Sheeeeep (MFR), Pupcicle (MR) | **TANSKlN**: Flash Weasel (M) |
+| 20:20 | **astronomyieshas**: Pupcicle (MFR), Ghostly Cat (M) | **Robloxiana_xxx2011**: Super Saru (MFR) |
+| 20:20 | **YOKOZ303**: Fairytale Egg ×18 | **Rawrtonimous**: Ride-A-Pet Potion |
+| 20:20 | **PREPPY_ROBLOXWORLD1**: Elephant (R) | **themegaplahs**: Unicorn (MFR), Pet Handler Pro Certificate |
+| 20:20 | **aguamexicana9**: Matcha Cat (NFR) ×4 | **Touseamvgg**: Rainbow Maker ×2, 2022 Birthday Cupcake Shoes, Toaster Hat |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
