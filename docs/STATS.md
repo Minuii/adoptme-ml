@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 17:25 UTC by the scrape workflow._
+_Updated 2026-11-22 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 17:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 42,144 | 2026-11-22T17:15 |
-| elve | 12 | 9,347 | 2026-11-22T17:15 |
+| amvgg | 12 | 42,396 | 2026-11-22T17:30 |
+| elve | 12 | 9,392 | 2026-11-22T17:31 |
 
-## AMVGG completed trades: 51,331 total
+## AMVGG completed trades: 51,396 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 4,023 |
+| 2026-11-22 | 4,088 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 17:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:25 | **martins10530**: Ride-A-Pet Potion ×6 | **Fidelia2131415**: Unicorn ×6 |
-| 17:25 | **martins10530**: Ride-A-Pet Potion, Crystal Egg | **floralplum**: Unicorn |
-| 17:25 | **Robloxiano0h0d5q0**: Munchkin Cat (MFR) | **rb_feel**: Wood Pigeon (MFR), Turtle (FR), Kangaroo (FR) |
-| 17:25 | **HE4RTZK**: Unicorn | **martins10530**: Ride-A-Pet Potion |
-| 17:25 | **1nxsii**: Elephant (R), Crocodile (FR), Strawberry Penguin | **oso_toilet**: Halloween White Skeleton Dog (MFR), Chocolate Dutch Guinea Pig (NR), Chocolate Dutch Guinea Pig (N) ×2, Great Pyrenees (NR), Chocolate Dutch Guinea Pig ×2, Pupcicle ×2 |
-| 17:25 | **don2p**: Mongoose (M), Ratatoskr (M) | **nameless_95**: Hamster (MR) |
-| 17:25 | **Terranese**: Fly-A-Pet Potion | **09tz7**: Flaming Fox |
-| 17:25 | **eloqu4vx**: Moon Rabbit | **everytmii**: Stitches ×12 |
-| 17:25 | **faeriiful**: Ghost Bunny (MFR) | **1MZ03Y**: Flaming Zebra (MR), Pudding Cat (M), St Bernard (M) |
-| 17:25 | **Frits_Snoek**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Pashakatkofff**: Jester Dragon (FR) |
-| 17:25 | **Emmo_emmaji**: Copycat, Toaster Hat, Pet Handler Pro Certificate | **pdscatalex**: Kangaroo (FR) |
-| 17:25 | **xd_xd3493**: Copycat (NR) | **traher15cm**: Pig (NFR) |
-| 17:25 | **lockefoo**: Candyfloss Chick (R) | **traher15cm**: Dancing Dragon (NR), Striped Eggy (MFR) |
-| 17:25 | **Whitecandy001**: Stray Cat Dragon (MR), Count Slothula, Shoebill (M), Tasmanian Tiger (M), Wolpertinger (M), Ghost (M), Unicorn ×3, Blue Cat (M), Peach Owl | **Ghost_ff213**: Flash Weasel (FR) |
-| 17:25 | **Cosmo_syx**: Turtle (FR) | **mayoinnaisse**: Fly-A-Pet Potion ×12 |
+| 17:30 | **Hacpu_BHocok**: Ride-A-Pet Potion ×6, Clownfish | **16_Lizi**: Jester Dragon (R) |
+| 17:30 | **Amyisfunnyha**: Dango Penguins (MFR), Panda (MFR), Ride-A-Pet Potion | **Theguruguruslay**: Rainbow Maker, Tiny Wings |
+| 17:30 | **GXZmanu**: Bat Dragon (MFR), Ride-A-Pet Potion | **aamvgg_trading**: Bat Dragon (NFR), Shadow Dragon (NFR), Frost Dragon (MFR), Cryptid (FR), Crow (FR), Dalmatian (MFR), Sugar Glider (NFR), Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR) ×2 |
+| 17:30 | **g0rekw1tties**: 2022 Birthday Party Hat, 2022 Birthday Party Horn | **mimoiroblox1**: Goat (NFR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 |
+| 17:30 | **Heybolloboom**: Hare (MFR), Peachick (M), Web Stroller, Cauldron Stroller, Mummy Spider (M) | **littleprettydolllx**: Hyena (MFR) |
+| 17:30 | **CKaiser5689**: Snow Monkey | **scarIitta**: Dango Penguins |
+| 17:30 | **A1S6JI**: Spring Bunny Hood, Catte | **leora_101**: Green Amazon (MFR) |
+| 17:30 | **CloudAMs**: Crystal Egg ×15 | **Ariwsfx**: Ride-A-Pet Potion |
+| 17:30 | **gumiiitooo**: Siamese Cat, Alpaca (R), Cabbit (R) | **pyetrogamer2345**: Arctic Reindeer (FR) |
+| 17:30 | **WaguriMywaifu1**: Matcha Cat, Balloon Unicorn (FR) | **harpstheunicorn0405**: Crow (FR) |
+| 17:30 | **Khadiheart**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **smartes1230**: Hare (N) |
+| 17:30 | **booluqx**: Ride-A-Pet Potion ×7, Hawk | **Khadiheart**: Fly-A-Pet Potion ×4 |
+| 17:30 | **DNV_M**: Hare (NR), Ride-A-Pet Potion ×2 | **Khadiheart**: Elephant |
+| 17:30 | **themegaplahs**: Albino Monkey (FR), Polar Bear (FR) | **Aminapro111222**: Kangaroo (FR) |
+| 17:30 | **hzmimii**: Ride-A-Pet Potion ×2 | **ksuwexi12**: Stray Cat Dragon (M) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
