@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 15:01 UTC by the scrape workflow._
+_Updated 2026-11-22 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 15:01 UTC by the scrape workflow._
 | amvgg | 12 | 39,717 | 2026-11-22T15:00 |
 | elve | 12 | 8,754 | 2026-11-22T15:01 |
 
-## AMVGG completed trades: 50,488 total
+## AMVGG completed trades: 50,529 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 3,180 |
+| 2026-11-22 | 3,221 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:00 | **Artem_21a2**: Squid (N) | **EGOATHENOOB**: Ride-A-Pet Potion ×2 |
-| 15:00 | **morphling_whater**: Classic Trade Stand ×3 | **varvara76be**: Ride-A-Pet Potion |
-| 15:00 | **Artem_21a2**: Cow (FR), Crocodile (R) | **228_AUDITOR66**: Turtle (FR), Siamese Cat (R), Ride-A-Pet Potion, Pink Cat Ear Headphones, Chocolate Dutch Guinea Pig |
-| 15:00 | **Mumay_DaMoves**: Amami Rabbit (MR), Bready Necklace, Butter Knife, Cotton Candy Hat, Tutu, Jester Hat, Burger Boots ×2, Monkey King Crown, Rain Boots, Rain Hat | **Zlota_Sofa**: Jester Dragon (NFR) |
-| 15:00 | **x0CDs3**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×2 | **TYTkuza2**: Kangaroo (FR) |
-| 15:00 | **Special_Foxi**: Unicorn Horn | **SoSo_Sonnixx**: Fly-A-Pet Potion ×10 |
-| 15:00 | **yrnfsj**: Turtle (FR), Fly-A-Pet Potion ×2, Happy Duckling | **akeks_74**: Fairy Bat Dragon (FR) |
-| 15:00 | **Artem_21a2**: Cow (R) | **AdecamRaymond**: Giant Gold Scarab (NR), Cobra (NFR), Golden Hamster (N), Peahen (N), Red Dutch Guinea Pig, Squid (N), Chihuahua ×4, Zombie Wolf (R), Ghost Bunny, Drake |
-| 15:00 | **Kevinp11orange**: Shark Puppy (FR), Ride-A-Pet Potion ×2 | **Mnenormalno_0**: Border Collie |
-| 15:00 | **kraket127**: Jester Dragon (FR) | **kiyanntheboss**: Fly-A-Pet Potion ×3 |
-| 15:00 | **Adoptme_prety**: Count Slothula, Gemstone Egg | **Sofia1118308**: Ride-A-Pet Potion |
-| 15:00 | **Ggoggeggu**: Ice Cream Cone Hat | **Squidgamefan_54321**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 15:00 | **aleks2u**: Giant Panda (FR) | **Hhtkto**: Arctic Reindeer (NFR) |
-| 15:00 | **rooz_thedemon266**: Mongoose | **Rosalama9**: Christmas Pudding House |
-| 15:00 | **meeeeowey2**: Candicorn, Ride-A-Pet Potion ×3, Giant Anteater (R), Owlbear, Llama, Chicken (R) | **op_con0**: Cow (FR) |
+| 15:11 | **OKAK_BOTAK61**: Pig (R) | **k4azt**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 15:11 | **ferrofl7**: Shiba Inu (N) ×2, Mummy Spider (N), Black Tiger (N), Snow Puma (N), Granny Wolf (N), Muskrat (N), Zebra (N), Poodle (N) | **awwweyui**: Ride-A-Pet Potion |
+| 15:11 | **anutik_awesome**: Haetae (FR), Dalmatian, Strawberry Shortcake Bat Dragon (FR) ×2, Turtle (NFR), Ice Cream Hermit Crab (MFR), Phoenix (MR), Siamese Cat (FR), Kangaroo (FR), Peach Owl (MR), Kitty Bat (MR), Dragonfruit Fox (N), Cow (FR), Halloween Evil Dachshund (MFR), Slime (MFR), Ballet Swan (NFR), Moose Calf (N) | **Ravachy28**:  |
+| 15:11 | **Jiha_BN2**: Ram (MFR) | **buymemorehellokitty**: Mule (MFR) |
+| 15:11 | **sun1zzzo**: Angus Cow (N), Clumpty (N), Ghost Wolf (N), Granny Wolf (N), Marabou Stork (N), Fairytale Egg | **extrellasi**: Ride-A-Pet Potion |
+| 15:11 | **antuco_tuco909**: Waffle Wyrm (MR) | **Rtifjgkdclka**: Fly-A-Pet Potion |
+| 15:11 | **antuco_tuco909**: Samoyed (M) | **Kirill123Valiev**: Ride-A-Pet Potion |
+| 15:11 | **dhellyyx**: Goose (FR), Turtle (FR), Fly-A-Pet Potion ×3 | **getsdar**: Chocolate Chip Bat Dragon (FR) |
+| 15:11 | **kiiioplki**: Harp Seal, Samoyed (MR) | **toilet_7070**: Spring Bunny Feet, Dolphin Cruiser |
+| 15:11 | **Paparpizza6**: Frost Fury (FR), Ride-A-Pet Potion | **mommy_vka123**: Sheeeeep (R) |
+| 15:11 | **raya1325416**: Shark Puppy (FR) | **anyafor1232**: Black Macaque (MFR) |
+| 15:11 | **rycnqdq**: Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **wongryder**: Maine Coon (MR) |
+| 15:11 | **09tz7**: Peppermint Penguin (R) | **DariI226I**: Pig (R), Munchkin Cat (R), Maine Coon (NR), Midnight Dragon (FR), Polar Bear (R), Platypus, Bear Hood, Donut Stroller |
+| 15:11 | **larrvqx**: Peppermint Penguin (R) | **LIAXMLV**: Moon Rabbit (MFR), Water Rabbit (MFR), Koala |
+| 15:11 | **NotSweatyOnion**: Pain au Chat ×5 | **ll_90dfhj**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
