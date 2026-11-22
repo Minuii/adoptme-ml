@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 09:01 UTC by the scrape workflow._
+_Updated 2026-11-22 09:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 09:01 UTC by the scrape workflow._
 | amvgg | 12 | 33,576 | 2026-11-22T09:00 |
 | elve | 12 | 7,199 | 2026-11-22T09:01 |
 
-## AMVGG completed trades: 48,854 total
+## AMVGG completed trades: 48,898 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,546 |
+| 2026-11-22 | 1,590 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 09:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:00 | **XxlambadguyxX**: Cryptid (FR), Wing Hang Glider | **micaelakdkdn**: Kangaroo (FR), Kangaroo (NFR), Lion Cub (NFR), Meerkat (NFR), Tortuga de la Isla (FR) |
-| 09:00 | **shy28299732983**: Fly-A-Pet Potion | **ssaiito**: Malaysian Tapir (N) ×2 |
-| 08:55 | **mommy_vka123**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×5 | **odading12318**: Goat (R), Sheeeeep (R) |
-| 08:55 | **odading12318**: Goose | **ampnothingtorich09**: Fly-A-Pet Potion ×16 |
-| 08:55 | **angela_umerez4**: Owl (FR), Crow (FR), Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (FR), Zombie Buffalo (R) | **lotiedoll**: Shadow Dragon (FR) |
-| 08:55 | **clalouetciedh**: Ancient Dragon ×14 | **slivka_76**: Ride-A-Pet Potion |
-| 08:55 | **sakotfzg**: Fly-A-Pet Potion, Electric Hornet, Angus Cow (N) | **Bunny_189659**: Ride-A-Pet Potion ×2 |
-| 08:55 | **FranzKianGeducos10**: Ride-A-Pet Potion ×5, French Bulldog ×2 | **Queenayeshacutegirl**: Koala (MFR) |
-| 08:55 | **AnimeshnicaGELA**: Hedgehog (FR), Hedgehog (R), Fly-A-Pet Potion, Ride-A-Pet Potion, Llama (FR), Black-Footed Ferret (MR), Gingerbread Mouse (NR) | **ambersugoi**: Owl (FR) |
-| 08:55 | **king_93071**: Pink Cat (MR), Cow (FR), Cabbit, Spring Bunny Feet | **obv1skaily**: Parrot (FR) |
-| 08:55 | **wxollii**: Cryptid (FR) | **hxmun7**: Cow (FR) ×3 |
-| 08:55 | **sorrowpage**: Pupcicle, Stray Cat Dragon (N) | **headshotw0**: Chihuahua ×2, Dire Wolf, Ghost Wolf ×2 |
-| 08:55 | **zow_98alt**: Tiny Wings, Alley Cat | **wassupwithu**: Lava Dragon (NFR) |
-| 08:55 | **Aslyloving123**: Halloween White Ghost Dragon (FR) | **Yumi_Rose8**: Fly-A-Pet Potion ×2 |
-| 08:55 | **odading12318**: Unicorn (N) ×4, Unicorn (FR), Unicorn ×4 | **He_odtam**: Fly-A-Pet Potion ×10 |
+| 09:06 | **C0PHYAK**: Mini Pig (R) | **elpopas6**: Kangaroo (FR), Shark Puppy, Fly-A-Pet Potion ×5 |
+| 09:06 | **beatsvic**: Crow (MFR), Strawberry Tortle (MFR), Golden Chow-Chow (MFR) | **1vkx3**: Haetae (MFR) |
+| 09:06 | **Its_love59**: Pupcicle | **Kir4kaa**: Christmas Pudding House |
+| 09:06 | **dumbcheq**: Starfish (N), Stitches (N), Ginger Cat (N), Black Tiger (N), Blue Cat (N), Chocolate Labrador (N) | **Kir4kaa**: Ride-A-Pet Potion |
+| 09:06 | **Mason04onlyMaddiePar**: Pain au Chat ×18 | **xenovyjay**: Ride-A-Pet Potion ×6 |
+| 09:06 | **glotznd_1324**: Catte | **foodforlife729**: Cattuccino (N) |
+| 09:06 | **Ariqnale**: Tuxedo Cat, Pterodactyl (N) | **mellqxxrb**: Ride-A-Pet Potion |
+| 09:06 | **Ariqnale**: Seahorse (N) ×2 | **KOMOVI9990**: Ride-A-Pet Potion |
+| 09:06 | **NotSweatyOnion**: Halloween White Skeleton Dog (R), Maneki-Neko, Golden Ladybug, Floral Eggy (R), Chickatrice (N) | **You_kwin666**: Ride-A-Pet Potion ×2 |
+| 09:06 | **NotSweatyOnion**: Swan (FR), Jeff's Nametag | **iiFr0gs33**: Ride-A-Pet Potion ×3 |
+| 09:06 | **Ameliexki**: Balloon Unicorn (FR), Kangaroo (FR) | **NummieNummiegirl**: Parrot (FR) |
+| 09:06 | **AdoptMeProkachka909**: Ride-A-Pet Potion, Cracked Egg | **Lunarysqwwx**: Toucan (F), Bobageist (N), Badger (N), Stygian Owl (N), Bubblegeist, Stray Cat Dragon, Choco Penguin |
+| 09:06 | **p9ssessed**: 2022 Birthday Party Hat, Unicorn Horn, 2022 Birthday Cupcake Shoes, 2022 Birthday Party Horn, Pomeranian (M) | **Btstvdyndynfy9**: Goose (NFR) |
+| 09:06 | **Moa_spelar1234**: Sushi Penguin (M), Bat (M), Gemstone Egg, 2022 Birthday 5 Badge, Butter Knife, Glamicorn Purse Pet, Pink Instant Camera | **6ftxxe**: Copycat (N) |
+| 09:06 | **6ftxxe**: Kangaroo (NFR), Halloween White Ghost Dragon (FR), Chocolate Dutch Guinea Pig | **nancyxmi**: Candicorn (NFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
