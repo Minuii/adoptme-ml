@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-22 09:11 UTC by the scrape workflow._
+_Updated 2026-11-22 09:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 21 | 2026-11-11T1036Z | 2026-11-22T0316Z |
-| amvgg | 58 | 2026-11-11T1036Z | 2026-11-21T1816Z |
+| amvgg | 59 | 2026-11-11T1036Z | 2026-11-22T0915Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 33,576 | 2026-11-22T09:00 |
-| elve | 12 | 7,199 | 2026-11-22T09:01 |
+| amvgg | 12 | 33,819 | 2026-11-22T09:15 |
+| elve | 12 | 7,244 | 2026-11-22T09:15 |
 
-## AMVGG completed trades: 48,898 total
+## AMVGG completed trades: 48,910 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,590 |
+| 2026-11-22 | 1,602 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 09:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:15 | **clalouetciedh**: Alicorn ×18 | **mARVERGI2**: Ride-A-Pet Potion ×2 |
+| 09:15 | **clalouetciedh**: Ancient Dragon ×14 | **mARVERGI2**: Ride-A-Pet Potion |
+| 09:15 | **dogsier02**: Ride-A-Pet Potion ×11 | **Tree092109**: Fly-A-Pet Potion ×6 |
+| 09:15 | **HeySoriya**: Strawberry Shortcake Bat Dragon (R), Ride-A-Pet Potion | **Ob3sityPhobia**: Chocolate Chip Bat Dragon (FR) |
+| 09:15 | **GorobetsZP**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7 | **odading12318**: Glormy Hound (N), Glormy Dolphin (N) |
+| 09:15 | **Ob3sityPhobia**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **ianbpb8**: Strawberry Shortcake Bat Dragon (FR) |
+| 09:15 | **P1nkteeth**: Blazing Lion | **XNicroyX**: Jekyll Hydra (NFR), Thinking Hat |
+| 09:15 | **odading12318**: Hot Doggo | **Bismuth234**: Fly-A-Pet Potion ×17 |
+| 09:15 | **Alllllkos**: Chihuahua ×3 | **M1cahsWRLD**: Ride-A-Pet Potion |
+| 09:15 | **Rac0dy**: Crocodile (FR) | **Eva_EvaKBAC**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
+| 09:15 | **Amvggtrad3r**: Alley Cat (M), Fly-A-Pet Potion, Ride-A-Pet Potion, Cotton Candy Hat, Discosplosion | **Theyluviviiii**: Tortoiseshell Guinea Pig (NFR) |
+| 09:15 | **asgdhfefhfhru1**: Ride-A-Pet Potion | **gensuhaxx**: Unicorn |
 | 09:06 | **C0PHYAK**: Mini Pig (R) | **elpopas6**: Kangaroo (FR), Shark Puppy, Fly-A-Pet Potion ×5 |
 | 09:06 | **beatsvic**: Crow (MFR), Strawberry Tortle (MFR), Golden Chow-Chow (MFR) | **1vkx3**: Haetae (MFR) |
 | 09:06 | **Its_love59**: Pupcicle | **Kir4kaa**: Christmas Pudding House |
-| 09:06 | **dumbcheq**: Starfish (N), Stitches (N), Ginger Cat (N), Black Tiger (N), Blue Cat (N), Chocolate Labrador (N) | **Kir4kaa**: Ride-A-Pet Potion |
-| 09:06 | **Mason04onlyMaddiePar**: Pain au Chat ×18 | **xenovyjay**: Ride-A-Pet Potion ×6 |
-| 09:06 | **glotznd_1324**: Catte | **foodforlife729**: Cattuccino (N) |
-| 09:06 | **Ariqnale**: Tuxedo Cat, Pterodactyl (N) | **mellqxxrb**: Ride-A-Pet Potion |
-| 09:06 | **Ariqnale**: Seahorse (N) ×2 | **KOMOVI9990**: Ride-A-Pet Potion |
-| 09:06 | **NotSweatyOnion**: Halloween White Skeleton Dog (R), Maneki-Neko, Golden Ladybug, Floral Eggy (R), Chickatrice (N) | **You_kwin666**: Ride-A-Pet Potion ×2 |
-| 09:06 | **NotSweatyOnion**: Swan (FR), Jeff's Nametag | **iiFr0gs33**: Ride-A-Pet Potion ×3 |
-| 09:06 | **Ameliexki**: Balloon Unicorn (FR), Kangaroo (FR) | **NummieNummiegirl**: Parrot (FR) |
-| 09:06 | **AdoptMeProkachka909**: Ride-A-Pet Potion, Cracked Egg | **Lunarysqwwx**: Toucan (F), Bobageist (N), Badger (N), Stygian Owl (N), Bubblegeist, Stray Cat Dragon, Choco Penguin |
-| 09:06 | **p9ssessed**: 2022 Birthday Party Hat, Unicorn Horn, 2022 Birthday Cupcake Shoes, 2022 Birthday Party Horn, Pomeranian (M) | **Btstvdyndynfy9**: Goose (NFR) |
-| 09:06 | **Moa_spelar1234**: Sushi Penguin (M), Bat (M), Gemstone Egg, 2022 Birthday 5 Badge, Butter Knife, Glamicorn Purse Pet, Pink Instant Camera | **6ftxxe**: Copycat (N) |
-| 09:06 | **6ftxxe**: Kangaroo (NFR), Halloween White Ghost Dragon (FR), Chocolate Dutch Guinea Pig | **nancyxmi**: Candicorn (NFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
