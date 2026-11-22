@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 10:25 UTC by the scrape workflow._
+_Updated 2026-11-22 10:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 10:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 34,811 | 2026-11-22T10:15 |
-| elve | 12 | 7,535 | 2026-11-22T10:15 |
+| amvgg | 12 | 35,065 | 2026-11-22T10:30 |
+| elve | 12 | 7,624 | 2026-11-22T10:31 |
 
-## AMVGG completed trades: 49,179 total
+## AMVGG completed trades: 49,185 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,871 |
+| 2026-11-22 | 1,877 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,12 @@ _Updated 2026-11-22 10:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:30 | **s1vurn**: Cabbit (FR), Fly-A-Pet Potion | **aLiEnGiRl_e**: Rain Cloud Hat ×2 |
+| 10:30 | **aydachan200311**: Ride-A-Pet Potion ×7 | **Mentosvcxz**: Fly-A-Pet Potion ×4 |
+| 10:30 | **luvxxadi**: Classic Trade Stand ×3 | **Martinotschka**: Ride-A-Pet Potion |
+| 10:30 | **skyfovaa**: Harp Seal (NR), Bubble Car, Cupid's Coupe, Hippogriff (FR), Royal Fairytale Egg, Muskrat (R), Pupcicle | **doge_supremacy2**: Munchkin Cat |
+| 10:30 | **Navilolp**: Purrowl (M) | **TrueGemz**: Fly-A-Pet Potion, Pet Handler Pro Certificate |
+| 10:30 | **1tz_Lucaaa2**: Orchid Butterfly (FR), Munchkin Cat (M), Jester Dragon (MFR), Clementine Owl (M), Jester Dragon, Fly-A-Pet Potion | **Whitemen5323**: Frostbite Bear (MFR) |
 | 10:25 | **JustDo_It097**: Mrs. Whiskerpips (MR) | **Floppybunny_4662**: Ride-A-Pet Potion ×2 |
 | 10:25 | **1ndca6**: Dalmatian (FR), Cow (NFR), Arctic Fox (FR), Scarebear (R), Lamb (R) | **Bobbyhuddy6**: Parrot (FR) |
 | 10:25 | **rottingroyaltyyy**: Cabbit (R) | **margini_mini**: Alpaca (FR) |
@@ -46,12 +52,6 @@ _Updated 2026-11-22 10:25 UTC by the scrape workflow._
 | 10:25 | **lildaminii**: Winged Tiger (FR) | **Elpepeexd2134**: Ride-A-Pet Potion ×12 |
 | 10:25 | **That0neArcher**: Goat (FR), Panda (NFR), Jousting Horse (FR) | **Rumi_Grlz**: Candicorn (FR) |
 | 10:25 | **XZ_XZ9**: Ride-A-Pet Potion ×4 | **V1RTU3LL0**: Polar Bear (R) |
-| 10:25 | **Kevinp11orange**: Fly-A-Pet Potion | **Crystal_xyts**: Ride-A-Pet Potion ×2 |
-| 10:25 | **maryysa_I**: Matcha Cat, Chocolate Dutch Guinea Pig | **3iixyy**: Chicken (NFR) |
-| 10:25 | **Only_Gio123**: Strawberry Shortcake Bat Dragon (R) | **marchthenewest**: Dango Penguins (MFR), Copycat, Diamond Amazon (R), Lion Cub (R), Ride-A-Pet Potion |
-| 10:20 | **943049209d**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **gosha2ji**: Pig (R) |
-| 10:20 | **summerdounut123**: Shetland Pony Dark Brown (MR), Puptune (NR), Chocolate Dutch Guinea Pig ×3, Lamb, Toxic Kaijunior (NFR), Easter Bunny (M), Ride-A-Pet Potion ×2 | **JULI_LOVE48**: Unicorn (MFR) |
-| 10:20 | **abdoosaad**: Chocolate Chip Bat Dragon (FR) | **GrindAccount_N1**: Arctic Fox (FR), Eggnog Dog (M), Irish Water Spaniel, Ice Cream Cone Hat, Caelum Cervi (FR), Wooly Rhino (N), Water Moon Bear (MFR), Panda (NFR), Dragonfruit Fox (FR), Frost Phoenix (FR) ×2, Yule Log Dog (FR), Pomeranian (NFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
