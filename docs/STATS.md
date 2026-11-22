@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 19:16 UTC by the scrape workflow._
+_Updated 2026-11-22 19:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 19:16 UTC by the scrape workflow._
 | amvgg | 12 | 44,281 | 2026-11-22T19:15 |
 | elve | 12 | 9,765 | 2026-11-22T19:15 |
 
-## AMVGG completed trades: 51,940 total
+## AMVGG completed trades: 52,023 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 4,632 |
+| 2026-11-22 | 4,715 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 19:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:10 | **you35o**: Stray Cat Dragon ×9 | **mochiloV7**: Ride-A-Pet Potion |
-| 19:10 | **2025adoptmepetsuwu**: Flower Power Duckling (MFR), Red Squirrel (MFR) | **jamjamwannaplaygame**: Puffer Fish (MFR) |
-| 19:10 | **rrtrades**: Crystal Egg ×13 | **l_ewes**: Ride-A-Pet Potion |
-| 19:10 | **neapol1tanz**: Bunny Swirl (MFR) | **jamjamwannaplaygame**: Tiny Wings |
-| 19:10 | **P3RPLEONYT**: Count Slothula | **gamerguy19023**: Great Pyrenees |
-| 19:10 | **Hermionelapro**: Bat Dragon (FR), Frost Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) ×2, Crow (FR), Shadow Dragon (FR) ×2 | **devveya**: Shadow Dragon (MFR) |
-| 19:10 | **lilangelssss**: Poodle (MR), Purrowl, Zebra (N) | **1Eva_2025**: Ride-A-Pet Potion |
-| 19:10 | **elitemangonator**: Chocolate Chip Bat Dragon (NFR), Ride-A-Pet Potion, Red Dutch Guinea Pig, Grinmoire (M), Onza (M), Scarebear | **Oliver20717**: Parrot (FR) |
-| 19:10 | **ZayrinthQuartel1609**: Ride-A-Pet Potion | **SuperMagicFaith**: Crystal Egg ×18 |
-| 19:06 | **TwistedK1tty**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 | **hijodefrutaXdd9**: Turtle (FR) |
-| 19:06 | **ffffff246500**: Sheeeeep (NR) | **jux_iess1**: Pig (FR), Crocodile (FR), Fly-A-Pet Potion ×2 |
-| 19:06 | **vasilisa11rus1**: Pig (FR), Discosplosion | **DanielgamerXD125**: Hero Gibbon, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 |
-| 19:06 | **XYoureaDISGRACE**: Stray Cat Dragon ×4, Stray Cat Dragon (N) | **danmantoglory**: Ride-A-Pet Potion |
-| 19:06 | **St3llaisMy_BFF**: Shadow Dragon (FR) ×2 | **Hermionelapro**: Shadow Dragon (NFR) |
-| 19:06 | **Just_TradingUser**: Copycat, Burger Bear | **Omar2002548**: Puffin |
+| 19:25 | **krxadm3**: Crystal Egg ×16, Ride-A-Pet Potion | **gondown29096**: Ride-A-Pet Potion |
+| 19:25 | **gjeijke132**: Turtle (FR) | **Soso4ka004**: Mermicorn (R) |
+| 19:25 | **Cutelover3579**: Turtle (FR), Lynx (R), Ride-A-Pet Potion, Lunar Gold Tiger (FR) | **Flux_puck**: Strawberry Tortle (FR) |
+| 19:25 | **1Wrgte**: Ride-A-Pet Potion | **luninh512**: Reindeer |
+| 19:25 | **Eis_memo**: Super Saru (MR), Lion Cub | **Gabo_XD202**: Werewolf (R), Ride-A-Pet Potion |
+| 19:25 | **mooyakko**: Volcanic Rhino (MFR) | **RBstela**: Volcanic Rhino (M) |
+| 19:25 | **sweetie_pi48**: Matcha Cat (MFR) | **ariesdesire**: Leopard Shark (MFR), Chef Gorilla (MFR), Toy Monkey (MFR), Pretty Pony (MFR), White Amazon (MFR), Turkey (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 19:25 | **zeejnaa**: Sheeeeep (MFR), Ballet Swan (MFR), Alley Cat (MFR) | **dustystormss**: Tortoiseshell Guinea Pig (MFR) |
+| 19:25 | **ilove_milkywayss**: Mochi Meow (M) | **nsf772**: Ride-A-Pet Potion ×2 |
+| 19:25 | **nsf772**: Pupcake (N), Highland Cow | **estrella_gamer132**: Ride-A-Pet Potion ×2 |
+| 19:25 | **ALEASN2907**: Ride-A-Pet Potion ×3 | **Qu33nDQCrimsonO19932**: Chihuahua ×7 |
+| 19:25 | **murid5**: Crow (FR), Clover Cow (M), Pancake Stack, Diamond Dragon (M), Tealwood Monster (M), Diamond Mahi Mahi (M), Princess Mare (M), 2026 Birthday Butterfly (M), Little Lamb (N) | **Midasyeet283**: Dalmatian (FR), Kangaroo (MFR) |
+| 19:25 | **Bobplays0908**: Sakura Spirit (MFR), Unicorn Horn | **Henni153**: Tortuga de la Isla (MFR) |
+| 19:25 | **bubuBUbu0897**: Cryptid (FR), Strawberry Shortcake Bat Dragon (FR), Kangaroo, Sakura Spirit (R), Shrew (R), Happy Clam, Kitsune (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion, Unicorn ×2 | **Dimash_bash**: Owl (FR) |
+| 19:25 | **ilovesnorgle**: Pink Cat, Arctic Fox, Giant Anteater (R) | **Laktozik1**: Candyfloss Chick (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
