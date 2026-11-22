@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 11:25 UTC by the scrape workflow._
+_Updated 2026-11-22 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 35,817 | 2026-11-22T11:15 |
-| elve | 12 | 7,762 | 2026-11-22T11:15 |
+| amvgg | 12 | 36,069 | 2026-11-22T11:30 |
+| elve | 12 | 7,828 | 2026-11-22T11:31 |
 
-## AMVGG completed trades: 49,425 total
+## AMVGG completed trades: 49,448 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,117 |
+| 2026-11-22 | 2,140 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:25 | **ALTACCOUNTTT435**: Crystal Egg ×12 | **lotvsec**: Ride-A-Pet Potion |
-| 11:25 | **ThatGirlDude61**: Owl (NFR) ×2, Owl (FR) ×2, Cryptid (FR) | **capta1nEllaplayzPlay**: Owl (MFR) |
-| 11:25 | **definitelynotleona**: Angus Bull (M) | **MapleLull**: Ride-A-Pet Potion ×3 |
-| 11:25 | **sllwexx**: Thunderfisher, Cookie Dough Plush | **Boo_kittykitty**: Fire Mare ×2 |
-| 11:25 | **jjanaaae**: Dalmatian (FR), Goose (FR), Fairy Bat Dragon (FR), Persian Cat (MFR), Galapagos Sea Lion (M) | **Divarase1**: Crow (FR) |
-| 11:25 | **Supr3meAlex**: Fairy Bat Dragon (MFR), Lion Cub (MFR), Aestus (MFR), Munchkin Cat (MFR), Hare (MFR), Glormy Leo (MFR), Cerberus (MFR), Flaming Fox (MFR), Queen Bee (MFR), Rainbow Dragon (MFR), Many Mackerel (MFR), Brown Bear (MFR) | **Honeymochi_oo**: Hedgehog (MFR) |
-| 11:25 | **vikka734**: Admin Abuse Egg ×18 | **Yancapl_5**: Choco Penguin |
-| 11:25 | **M1li888**: Bat Dragon (FR), Rainbow Maker | **kiaraaalol1**: Cryptid (MFR) |
-| 11:25 | **kiaraaalol1**: Owl (MFR) | **Marilynbrandt662**: Frost Dragon (FR) ×5, African Wild Dog (FR) |
-| 11:25 | **yuujchaan**: Ride-A-Pet Potion ×13, Purrowl, Thunderfisher | **iaMatthieu1**: Border Collie (R) |
-| 11:25 | **kagurasgl0w**: Sugar Glider (R) | **starburstandevie**: Alley Cat (N), Candyfloss Chick (R) |
-| 11:25 | **Anya_gg8884**: Ride-A-Pet Potion, Jacobin Pigeon (N) ×3 | **lushlyr**: Onza (M) |
-| 11:25 | **prince_onepator**: Turtle (FR) | **Sofik_oc**: Frost Unicorn (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 11:25 | **VikeShow7**: Kangaroo (R) | **nano_2012a**: Pig (R) ×2 |
-| 11:25 | **clalouetciedh**: Dragonfly ×15 | **so_funnylike**: Ride-A-Pet Potion |
+| 11:30 | **Youdi_off**: Fly-A-Pet Potion ×5 | **KotMonster7**: Pet Handler Pro Certificate ×5 |
+| 11:30 | **Biannca_7**: Tuxedo Cat, Abyssinian Cat (N), Stray Cat Dragon | **mellqxxrb**: Ride-A-Pet Potion |
+| 11:30 | **LadyHappyHamsterPlay**: Cabbit (R), Kangaroo (FR) | **TMDung20**: Candicorn (NFR), Ride-A-Pet Potion ×4 |
+| 11:30 | **Bliss_mistx**: Cow (FR), Ride-A-Pet Potion, Chihuahua, Pupcicle, Princess Mare (M), Mexican Wolf (M) | **LikeVar4ek**: Kangaroo (NFR) |
+| 11:30 | **Bumble_Lou**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Zjdzgfwa**: Copycat |
+| 11:30 | **Fur0kan_344**: Ride-A-Pet Potion, Ancient Dragon | **Zjdzgfwa**: Chihuahua ×4 |
+| 11:30 | **Rosi_oke**: Kangaroo (FR) | **ICholestrol**: Unicorn (MFR) |
+| 11:30 | **JanaBFFVivi**: Cupid Dragon (MFR), Fallow Deer (MFR), Chicken (MFR), Alpaca, Cake Friend (M), Bunny Swirl (MR) | **auqalia**: Cryptid (NFR) |
+| 11:30 | **cupid_be13**: Happy Duckling (MR) | **sunyxmisty_Bigfan**: Pig (FR) |
+| 11:30 | **angela_umerez4**: Yeti (NFR) | **LUVS3MELON**: Green Amazon (MR) |
+| 11:30 | **ChillerTyr**: Frost Unicorn (FR) | **gweop_pe0**: Kangaroo (FR), Fly-A-Pet Potion |
+| 11:30 | **elcob65**: Gemstone Egg ×11 | **gweop_pe0**: Copycat |
+| 11:30 | **Adopt_LAFI**: Flamingo (R) | **Lucky_may67**: Frost Fury (FR), Caelum Cervi (FR), Copycat (R) |
+| 11:30 | **L3mon_Pl4ys**: Haetae (FR), Arctic Reindeer (FR), Turtle (NFR), Meerkat (NR), Hot Doggo (R), Goose, Ride-A-Pet Potion, Spring Bunny Nose | **marchthenewest**: Parrot (NFR) |
+| 11:30 | **Ruperto_1297**: Hedgehog (FR), Fly-A-Pet Potion ×4 | **geBochka_bega3**: Arctic Reindeer (FR), Cow (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
