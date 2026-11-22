@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 20:11 UTC by the scrape workflow._
+_Updated 2026-11-22 20:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 20:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 45,102 | 2026-11-22T20:00 |
-| elve | 12 | 9,963 | 2026-11-22T20:01 |
+| amvgg | 12 | 45,371 | 2026-11-22T20:15 |
+| elve | 12 | 10,004 | 2026-11-22T20:15 |
 
-## AMVGG completed trades: 52,273 total
+## AMVGG completed trades: 52,315 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 4,965 |
+| 2026-11-22 | 5,007 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 20:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:11 | **violet4everofc**: Chihuahua (MR), Burger Bear, Pain au Chat ×2 | **Kinl3ann**: Flower Power Duckling (MFR) |
-| 20:11 | **wizngs**: Munchkin Cat (MFR) | **Ehhh_09110**: 2022 Birthday Party Hat, Toaster Hat, Tiny Wings, Spring Bunny Hood, Grim Dragon (R), Vampire Dragon (FR) |
-| 20:11 | **Penutbutter1567**: Ladybug (R), Count Slothula | **Ashdorae**: Ride-A-Pet Potion |
-| 20:11 | **Shehatesme420**: Ride-A-Pet Potion | **maiivus1**: Eggnog Dog, Starhopper, Arctic Hare, Birthday Butterfly 2024, Chanekeh, Tree Frog, Cherub Chipmunk, Classic Teapot (N) |
-| 20:11 | **missy_Artz**: Sheeeeep (MFR) | **Ari_Blays**: 2022 Birthday Cake, Unicorn Horn, Rain Cloud Hat, Majestic Pony (MFR), Snowball Pet (MR) |
-| 20:11 | **bad_boss1235**: Pink Cat Ear Headphones | **ahojkakacahoj**: 1000 Bucks Silk Bag |
-| 20:11 | **evieebunnii**: Unicorn Horn, Rose Dragon (FR), Glacier Kitsune (R) | **iamfoxy2008**: Alpaca (R), Ride-A-Pet Potion, Unicorn, Bready Necklace |
-| 20:11 | **reserbadong2**: Crow (FR), Ride-A-Pet Potion | **vasya_mochnaya25**: Balloon Unicorn (FR), Christmas Pudding Pup |
-| 20:11 | **La_boyMich15**: Giraffe (NFR), Diamond Butterfly (NFR), Chocolate Chip Bat Dragon (NFR), Unicorn Horn, Arctic Fox (R), Ride-A-Pet Potion | **DarkPixel818**: Shadow Dragon (NFR) |
-| 20:11 | **RealisticAbbie**: Skelebat (N) | **jessica020705**: Pain au Chat |
-| 20:11 | **Martinple13**: Pain au Chat ×18 | **naomiloots**: Fly-A-Pet Potion ×4 |
-| 20:11 | **hotociara**: Thunderfisher | **jessica020705**: Retired Egg ×5 |
-| 20:11 | **happyfluffy510**: Rice Cake Rabbit (MFR), Black Macaque (MFR) | **AMBER_SOLE**: Unicorn Horn |
-| 20:06 | **Julee_Lov**: Ghost Wolf (M), Jiggly Jerboa (M) | **rioo0o123**: Fly-A-Pet Potion |
-| 20:06 | **krxadm3**: Crystal Egg ×16 | **0hhNatalia**: Ride-A-Pet Potion |
+| 20:15 | **catvlq**: Ride-A-Pet Potion ×3, Count Slothula, Aviator Hat | **Merozaa1337**: Toyshop House |
+| 20:15 | **Gamer_Girl1094286**: Tortuga de la Isla (FR), Winged Tiger (FR) | **Oreo_Sofija**: Kangaroo (FR) |
+| 20:15 | **s0larzxxxx**: Ride-A-Pet Potion | **Zlota_Sofa**: Jester Hat |
+| 20:15 | **Zjdzgfwa**: Arctic Dusk Dragon (R) | **corgicat122**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 |
+| 20:15 | **Evelyy_na**: Tree Kangaroo (MFR), Black Springer Spaniel (MFR), Chef Gorilla (MFR), Tiny Wings ×2, Ice Cream Cone Hat ×2 | **alwyzchlqe**: Goat (MFR) |
+| 20:15 | **grijfe8r**: Munchkin Cat ×2, Ride-A-Pet Potion | **toybeau772**: Jester Dragon (NR), Chocolate Dutch Guinea Pig, Cute-A-Cabra (M) |
+| 20:15 | **bella102935**: Unicorn Horn | **sleepy_s0ren**: Flamingo (FR) |
+| 20:15 | **Sleepy_Aishe**: Japanese Snow Fairy (NF) | **Janewillnever**: Pupcicle |
+| 20:15 | **razarvale2z**: Chihuahua ×5 | **djwestie**: Chihuahua (N) |
+| 20:15 | **Gamechar1015**: Pig (FR) | **Vika4ka20q**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
+| 20:15 | **Elleaveyard**: Pain au Chat | **PiesekTubson**: Kirin (N) |
+| 20:15 | **daanz2**: Pet Handler Pro Certificate | **purinsitoelmejor**: Fly-A-Pet Potion |
+| 20:15 | **sonyalove643**: Undead Jousting Horse (NFR), Frost Unicorn (FR), Fly-A-Pet Potion, Alley Cat (R) | **Sofhia0934**: Giant Panda (FR) |
+| 20:15 | **Elf_Deme**: Arctic Reindeer (FR), Cow (FR), Arctic Reindeer (F) | **W1NT3R_991224**: 2022 Birthday Party Hat, 2022 Birthday Cake ×2, Unicorn Horn ×2, 2022 Birthday Party Horn ×3, Toaster Hat ×2, Spring Bunny Nose, Spring Bunny Feet, Santa Hat, Elf Hat |
+| 20:15 | **miicxza**: Flamingo Sticker, Dalmatian Sticker | **Cat2_gir**: Balloon Unicorn Sticker |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
