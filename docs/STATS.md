@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 22:15 UTC by the scrape workflow._
+_Updated 2026-11-22 22:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 22:15 UTC by the scrape workflow._
 | amvgg | 12 | 47,498 | 2026-11-22T22:15 |
 | elve | 12 | 10,405 | 2026-11-22T22:15 |
 
-## AMVGG completed trades: 52,879 total
+## AMVGG completed trades: 52,917 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,571 |
+| 2026-11-22 | 5,609 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 22:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:15 | **0pocalips**: Hot Air Balloon | **0mimiberry**: Malaysian Tapir |
-| 22:15 | **helisabet_fabi20**: Chocolate Dutch Guinea Pig | **Goku_Gaming4753**: Crystal Egg ×18 |
-| 22:15 | **brunabakinha**: Munchkin Cat, Hare (R), Binturong | **PizzaFoxyyyy1**: Polar Bear (NFR) |
-| 22:15 | **AdoptMe_pro6969**: Munchkin Cat, Toasty Red Panda (MFR) | **Dangermousefan0**: Chick (MFR), White Amazon (NFR), Hare (FR), Brown Bear, Mochi Meow, Sea Turtle, Blue Whale, Huntsman Robin, Stray Cat Dragon |
-| 22:15 | **vasya_mochnaya25**: Crow (FR), Bush Elephant (R) | **qwtalia**: Parrot (FR), Fly-A-Pet Potion |
-| 22:15 | **namerb11**: Evil Unicorn (FR), Ride-A-Pet Potion ×2 | **NOOBinROBLOX2022**: Cryptid (FR) |
-| 22:15 | **AmvggPi0n41K**: Fly-A-Pet Potion ×7, Pet Handler Pro Certificate ×5 | **svrodrii2**: Turtle (FR) |
-| 22:15 | **hannahsfaeriixo**: Grim Dragon (FR) | **Xxxxashhhh**: Pet Handler Pro Certificate ×11 |
-| 22:15 | **Nathan_kosloski2010**: Border Collie (MFR), Goose (R) | **missy_Artz**: Goat (MFR), 2022 Birthday Cake, Rain Cloud Hat ×2, Snowball Pet (MR), Toaster Hat |
-| 22:15 | **juan71831a**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Kozinak_k**: Velocirooster |
-| 22:15 | **gengargalaxybonne**: Jester Dragon (MFR), Kookaburra (MFR), Husky (MR) | **Kozinak_k**: Crow (FR) |
-| 22:15 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 | **Themr_harlen0220**: Pig (FR) |
-| 22:11 | **0MGITSADD1E**: Bat Dragon (FR) | **gagi128ss**: Sugar Glider (MFR), Sea Slug (MFR) ×2, Ballet Swan (MR), Vanilla Penguin (MFR), Candicorn, Sugar Axolotl, Tri-horned Treehopper |
-| 22:11 | **Dinkarrt**: Flying Fairy, Strawberry Clip, Picnic Basket | **Kkpopstar981**: Ride-A-Pet Potion |
-| 22:11 | **yuyu_tik**: Rainbow Maker, Rain Cloud Hat | **lmao_fyp**: Fallow Deer (MFR) |
+| 22:25 | **abelhagalatica**: Unicorn Horn, 2022 Birthday Cake, Tiny Wings, Spring Bunny Hood, Turtle (NFR) | **candi1222255**: Hedgehog (FR) |
+| 22:25 | **cheymahouda**: Mermicorn (FR) | **vyqwaint0870**: Sugar Glider (FR) |
+| 22:25 | **DarkxxRoseee**: Frost Unicorn, Pig (R), Matcha Cat | **Ananananmeme**: Goose (FR) |
+| 22:25 | **itz_mefede099**: Catte, Moon Rabbit | **robloxer_3614**: Chef Hat |
+| 22:25 | **Aysel587778**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **Lulugamerg0607**: Bauble Buddies (MFR) |
+| 22:25 | **UNICORNGEMINIS4444**: Admin Abuse Egg ×18 | **ongitos_oficial**: 2022 Birthday 5 Badge |
+| 22:25 | **mylove_koheri**: Mini Pig (NFR), Siamese Cat, Fly-A-Pet Potion ×2 | **loafactory**: Strawberry Shortcake Bat Dragon (FR) ×2 |
+| 22:25 | **rycnqdq**: Pink Cat (FR), Sakura Spirit (FR), Frost Fury (FR) | **rafael32087**: Siamese Cat |
+| 22:25 | **hunterfenix20**: Ram, Kiwi, Binturong | **robloxer_3614**: Corn Doggo (R), Moon Rabbit, Leopard Cat |
+| 22:25 | **lalzvs**: Harp Seal (MR) | **djwestie**: Pupcicle (MFR), Harp Seal (NR) |
+| 22:25 | **FisheYT3**: Angel Wings, Cow (FR), Kangaroo (NFR), Ride-A-Pet Potion | **Yakkuji**: Cryptid (FR) |
+| 22:25 | **goddess_godcatreal**: Copycat (N) | **Sociable_EG**: Kangaroo (FR) |
+| 22:25 | **OMGITSMACKENZIE6**: Cryptid (NFR), Turtle (FR) | **SanyFox2**: Frost Dragon (FR) |
+| 22:25 | **Depondip**: Black Panther (MFR), Retired Egg ×3, Fairytale Egg | **Love_O756**: St Bernard (MFR), Mule (N), Hare, Ladybug (NFR), Brown Bear, Hamster (NR) |
+| 22:20 | **Yumi_Rose8**: Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **Dangermousefan0**: Halloween White Ghost Dragon (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
