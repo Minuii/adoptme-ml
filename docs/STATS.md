@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 15:16 UTC by the scrape workflow._
+_Updated 2026-11-22 15:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 15:16 UTC by the scrape workflow._
 | amvgg | 12 | 39,986 | 2026-11-22T15:15 |
 | elve | 12 | 8,788 | 2026-11-22T15:16 |
 
-## AMVGG completed trades: 50,562 total
+## AMVGG completed trades: 50,613 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 3,254 |
+| 2026-11-22 | 3,305 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 15:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:15 | **sshanao_o**: Christmas Pudding Pup (NR) | **lelesayuru**: Unicorn (M), Lamb (NFR), Spring Bunny Hood |
-| 15:15 | **FruitcakeSEALS**: Cerberus (NFR) | **lelesayuru**: Hyena (R), Propeller Hat, Ride-A-Pet Potion |
-| 15:15 | **oliviaa_0872**: Cherry-On-Top, Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **tessadegroot2009**: Tree Kangaroo (MFR) |
-| 15:15 | **ArdaEOYT**: Giraffe (NFR), Cabbit (MFR), Sugar Glider (MFR), Winged Tiger (MFR), Owlbear (MFR), Elephant (R), Malaysian Tapir (MR), Dugong (MR), Coyote (MR), Liger (MR) | **akzoad**: African Wild Dog (MFR) |
-| 15:15 | **YeleTale**: Ride-A-Pet Potion, Royal Fairytale Egg | **cuttiiesara**: Kid Goat (M) |
-| 15:15 | **Robloxian19039878**: Fly-A-Pet Potion ×12 | **saralinn_200**: Turtle (FR) |
-| 15:15 | **ziiwca**: Turtle (FR), Goose (FR), Fly-A-Pet Potion ×3, Pet Handler Pro Certificate, Ride-A-Pet Potion | **saralinn_200**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:15 | **Basilisk345s**: Ride-A-Pet Potion ×2 | **definitelynotleona**: Mrs. Whiskerpips (M) |
-| 15:15 | **carolzinhac2009**: Turtle (FR) | **ARON00808**: Shrew (R), Ballet Swan, Unicorn (N), Shark Puppy (FR) |
-| 15:15 | **carolzinhac2009**: Happy Duckling (N) | **Nikitapetk**: Pet Handler Pro Certificate |
-| 15:15 | **maks070706**: Mrs. Whiskerpips (N), Alicorn, Bunny Ear Tiara, Admin Abuse Egg ×6 | **Vikakelera**: Ride-A-Pet Potion |
-| 15:15 | **Nastymiopi**: Cow (FR), Pink Cat (NFR), Crocodile | **bri5hellokitty**: Arctic Reindeer (FR) |
-| 15:15 | **justi1cee**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion | **Ravachy28**: Fairy Bat Dragon (FR) |
-| 15:15 | **Mrcatsyz**: Squid, Grinmoire, Gold Mahi Mahi, Swordfish | **NastiGora**: Chihuahua |
-| 15:15 | **Cheeselover8295**: Tealwood Monster (N), Pomeranian (N), Toucan (N) | **Vikakelera**: Sea Skeleton Panda (N) |
+| 15:25 | **Leen124577**: Rainbow Maker, Halo, Angel Wings ×2, Cherry-On-Top, 2022 Birthday Party Hat, 2022 Birthday Cake, Unicorn Horn, 2022 Birthday Cupcake Shoes, Rain Cloud Hat ×2, Tiny Wings, Ice Cream Cone Hat | **ANNAPAGAME**: Cabbit (MFR) |
+| 15:25 | **FIRSTGERA**: Ride-A-Pet Potion ×3, Purrowl, Easter Egg Friends | **yopkkeem**: Glormy Leo (R) |
+| 15:25 | **Waysrrsd**: Naga Dragon (R) | **UltimateLionMantis**: Ride-A-Pet Potion |
+| 15:25 | **Lolaa_chn**: Paint Sealer ×3 | **Enhypen_is7obvii**: Retired Egg ×9 |
+| 15:25 | **Waysrrsd**: Poodle (MR), Shetland Pony Dark Brown (R) | **mellqxxrb**: Ride-A-Pet Potion |
+| 15:25 | **mika_24583**: Evil Unicorn (FR), Milk Choccybunny (MR), White Choccybunny (N) | **AnimeshnicaGELA**: Cryptid |
+| 15:25 | **adoptmerewardsjesse**: Catte, Catte (N), Chocolate Dutch Guinea Pig, Silly Duck, Ride-A-Pet Potion, Puffer Fish, Count Slothula | **Jaauhyaggyiyigqieue**: Pig |
+| 15:25 | **MinhLovesFurriess**: Kookaburra (NFR) | **Appelkruimell**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5 |
+| 15:25 | **fotm_dio**: Kangaroo (FR), Vampire Dragon (R), Arctic Fox (R), Ride-A-Pet Potion | **Yagyest**: Cow (FR) |
+| 15:25 | **kaidealt2**: Dalmatian (FR), Solaris, Glacier Moth, Pet Handler Pro Certificate | **siria20144**: Arctic Reindeer (FR), Turtle (FR) |
+| 15:25 | **Breadon_t0ast**: Aurora Fox (N), Glacier Kitsune, Fallow Deer | **ImBeingV_V**: Ring-Tailed Lemur (N), Toaster Hat |
+| 15:25 | **ploB_666**: Space Fleet House | **jetedispas212**: Ride-A-Pet Potion ×3 |
+| 15:25 | **itzz_starxlight**: Birthday Butterfly 2024 (M), Waffle Wyrm (N), Red Fox, 2026 Birthday Butterfly (N) | **kittyangela23**: Mr. Whiskerpips (N) |
+| 15:25 | **goodnightbuni**: Arctic Reindeer (FR), Goose (FR) | **bbylolabunny**: Hedgehog (FR), Ride-A-Pet Potion ×2 |
+| 15:25 | **Polita721**: Candy Cane (Pet Wear), Gingerbread Wings, Festive Scarf, Marshmallow Friend, Santa's Bow | **looter_love**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
