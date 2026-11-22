@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 07:40 UTC by the scrape workflow._
+_Updated 2026-11-22 07:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 07:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 32,044 | 2026-11-22T07:30 |
-| elve | 12 | 6,873 | 2026-11-22T07:31 |
+| amvgg | 12 | 32,294 | 2026-11-22T07:45 |
+| elve | 12 | 6,936 | 2026-11-22T07:46 |
 
-## AMVGG completed trades: 48,590 total
+## AMVGG completed trades: 48,611 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,282 |
+| 2026-11-22 | 1,303 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 07:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:36 | **kshusa2240**: Midnight Dragon (F), Nautilus (NFR), Dodo (R), Shark (R), Snow Owl (FR), Winged Horse (FR), Peacock (R), Frost Fury (FR), Red Sand Dollar (R), Muskrat (MR), Scarecrow Cat (R), Poodle (NR), Diamond Dragon, Diamond Griffin | **kawaiifaintedgirl**: Turtle (FR) |
-| 07:36 | **no_xwifi1**: Jousting Horse (MFR), Zombie Wolf (MFR) | **Whitemen5323**: Munchkin Cat (M) |
-| 07:36 | **lelesayuru**: Frost Dragon (FR), Cow (FR) ×5, Cow (R) ×3, Candicorn (R), Arctic Fox (FR) | **frjn9**: Shadow Dragon (FR) |
-| 07:36 | **Elixarty**: Sushi Penguin (MFR), Pain au Chat, Grave Owl, Black Dog | **pktpnn**: Ghost Bunny (MFR) |
-| 07:36 | **frecalsplogeok9**: Ride-A-Pet Potion | **liofe1**: Space Whale ×2, Snowball Pug |
-| 07:36 | **zovrza**: Dango Penguins (NR) | **Babielily1**: Tiny Wings |
-| 07:36 | **Crims0n_Dusk**: Christmas Pudding House | **TheEndlessFlower**: Ride-A-Pet Potion ×2 |
-| 07:36 | **Inganta07**: Ride-A-Pet Potion | **qwerty99ooo**: Capybara |
-| 07:36 | **ocean_lilly2021**: Red Squirrel | **Fiat_ouo**: Gemstone Egg |
-| 07:36 | **XxAcie_ArtistxX**: Ice Golem (NFR) | **xean1zm**: Chihuahua (M), Ride-A-Pet Potion ×2 |
-| 07:36 | **Twinklingstar30**: Hot Doggo (FR), Candicorn (NFR), Border Collie (FR), Goose (FR) | **mrluxx999**: Giant Panda (FR) |
-| 07:36 | **princess_magdayao**: Ride-A-Pet Potion | **blushbyelle**: Crystal Egg ×17 |
-| 07:36 | **nejdo109**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Skelicorn (N), Pandaguin Glooptodog (N) | **xbubblezxxlyn**: Panda (NFR) |
-| 07:36 | **s1nvix**: Balloon Unicorn (FR), Spring Bunny Hood | **Ishrixxo**: Crow (FR) |
-| 07:36 | **carolzinhac2009**: Glormy Dolphin (NR), Snowy Mammoth (N) | **Ukulaul**: Pet Handler Pro Certificate |
+| 07:45 | **Aslyloving123**: Spring Bunny Hood | **XxlambadguyxX**: Ride-A-Pet Potion ×4 |
+| 07:45 | **NotSoAfraid**: Dragon's Castle | **LauraTheDummyyy**: Christmas Pudding House |
+| 07:45 | **Hasiiiiiiiiiiiii**: Goat (R) | **quesodrilo**: Chocolate Dutch Guinea Pig ×3, Golden Chow-Chow, Giant Blue Scarab ×2, Tan Chow-Chow (R), Flower Power Duckling ×4 |
+| 07:45 | **just_shapeofmyheart**: Dragonfruit Fox, Corgi (N), Diamond Unicorn, Robot (N) | **ANNADOG444**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 07:45 | **arseniylolol**: Firefly (MFR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **larisochka_gudeeva98**: Elephant (R) ×2 |
+| 07:45 | **INeverrCap**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **Mentosvcxz**: Sheeeeep |
+| 07:45 | **DragonjJDusta107130**: Kangaroo (FR), Swan, Ratatoskr (M) | **Diaja2345**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×9 |
+| 07:45 | **ziiwca**: Ride-A-Pet Potion ×2 | **milkas_lipton3**: Mochi Meow (M) |
+| 07:45 | **DJ_4348**: Round Fallow Deer Sticker | **simplyr0saa**: Bunny Swirl |
+| 07:45 | **AdoptMeHere03**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate | **not_bety1**: Gemstone Egg ×3, Skelicorn (MR), Black Panther (FR) |
+| 07:45 | **simplyr0saa**: Mini Pig (MFR), Cabbit (NFR), Munchkin Cat (MR) | **henmxaii**: Giant Panda (NFR) |
+| 07:45 | **Lizard123997**: Special Lunar New Year Gift Box | **GYUGYUBINIM**: Ride-A-Pet Potion |
+| 07:45 | **wrixcte**: Ride-A-Pet Potion, Bee, Robot | **ka3003mi**: Vanilla Penguin |
+| 07:45 | **Hunned9**: Pet Handler Pro Certificate | **JAYKEYUU**: Alley Cat |
+| 07:45 | **PrisonLifePro106**: Ride-A-Pet Potion ×2 | **blushbyelle**: Dango Penguins |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
