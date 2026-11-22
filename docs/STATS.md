@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 03:46 UTC by the scrape workflow._
+_Updated 2026-11-22 03:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 03:46 UTC by the scrape workflow._
 | amvgg | 12 | 28,445 | 2026-11-22T03:45 |
 | elve | 12 | 6,113 | 2026-11-22T03:46 |
 
-## AMVGG completed trades: 47,955 total
+## AMVGG completed trades: 47,962 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 647 |
+| 2026-11-22 | 654 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,13 @@ _Updated 2026-11-22 03:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:55 | **leoncitoUwU12345**: Pet Handler Pro Certificate | **Idkk_0426**: Fly-A-Pet Potion |
+| 03:55 | **Jadameigo**: Chocolate Chip Bat Dragon (FR), Siamese Cat (FR) | **Strawberryxm0cha**: Dalmatian (FR) |
+| 03:55 | **sweetn6thing**: Jellyfish (MFR) | **Auds191102**: Shark Puppy (MFR) |
+| 03:55 | **yrnfsj**: Turtle (FR) | **PugpunterZev**: Werewolf (R), Fly-A-Pet Potion, Unicorn (NR) |
+| 03:55 | **Night_Shadow0912**: Shark Puppy (NR) | **Sains9811**: Shark Puppy (R), Shark Puppy ×2, Matcha Cat (R) |
+| 03:55 | **aveilqaa**: Retired Egg ×15 | **preppygirlyalt12**: Chihuahua |
+| 03:55 | **yomoiki**: Crow (FR) | **AL0HALILYY**: Rainbow Maker ×2, Toaster Hat, Spring Bunny Feet |
 | 03:45 | **Realzholuiq13**: Griffin (FR) | **BUS5ED**: Ride-A-Pet Potion |
 | 03:45 | **alittlerandomthing**: Candicorn (NFR) ×2, Candicorn (NR), Gecko (MR) | **lockefoo**: Candicorn (MFR) |
 | 03:45 | **lowerbunny**: Ride-A-Pet Potion, Stray Cat Dragon ×4 | **terezaxchapa**: Zodiac Minion Chick (NR), Ox (R), Cockroach, Slug |
@@ -45,13 +52,6 @@ _Updated 2026-11-22 03:46 UTC by the scrape workflow._
 | 03:45 | **yeenDitto1**: Dango Penguins | **kdnjdiwhd**: Ride-A-Pet Potion ×2 |
 | 03:45 | **Rosy_Moon82Alt**: Unicorn (MR) | **s4rennz**: Candicorn |
 | 03:45 | **nuhhun41**: Red Dutch Guinea Pig | **AvaNari2010**: Boohoo (M) |
-| 03:40 | **Chxssxn**: Retired Egg ×18 | **Itz_robloxdae**: Ride-A-Pet Potion |
-| 03:40 | **DrinklngMilk**: Kangaroo (FR), Ride-A-Pet Potion ×4, Salamander (N), Gila Monster (NR), Stingray (M) | **OLESIK_3456**: Turtle (R) |
-| 03:40 | **Thecupofkindness**: Binturong (MFR) | **A1waysB0r3d**: Brown Springer Spaniel (MFR) |
-| 03:40 | **FlyToTheSaturn**: T-Rex, Metal Ox (R), Pangolin, Red Panda ×2, Ribbon Seal, Robot, Shiba Inu, Spider Crab, Dilophosaurus, Starfish, Toucan, Cat (N), Dog (N), Wolf | **tutritam174**: Fly-A-Pet Potion |
-| 03:40 | **Mizumi_yiku**: Daisymobile | **diiorrvi**: Ride-A-Pet Potion ×2 |
-| 03:40 | **mariarita2000**: Halloween Evil Dachshund | **biyita_rblx**: Cobra |
-| 03:40 | **strawbearilatte**: Pet Handler Pro Certificate ×7, Ride-A-Pet Potion | **Zyrox_13aa**: Rain Cloud Hat |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
