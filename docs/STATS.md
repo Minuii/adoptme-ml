@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 02:11 UTC by the scrape workflow._
+_Updated 2026-11-22 02:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 02:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 26,723 | 2026-11-22T02:00 |
-| elve | 12 | 5,741 | 2026-11-22T02:01 |
+| amvgg | 12 | 27,000 | 2026-11-22T02:15 |
+| elve | 12 | 5,774 | 2026-11-22T02:15 |
 
-## AMVGG completed trades: 47,685 total
+## AMVGG completed trades: 47,694 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 377 |
+| 2026-11-22 | 386 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 02:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:15 | **violencesoul**: Cabbit (FR) | **ixclvoudy**: Mermicorn (FR), Purrowl (M), Sea Turtle (M) |
+| 02:15 | **aimyyys**: Kangaroo (FR), Dango Penguins (R), Pupcake (NFR), Llama (FR), Irish Water Spaniel, Rainbow Dragon, Banana Hat, Pink Cat Ear Headphones, Ghost Bunny, French Bulldog (R), Happy Duckling (R) | **shwriiimp**: Mini Pig (FR) |
+| 02:15 | **Sunset_seaii**: Pineapple Owl (MFR), Longhorn Cow (MFR), Unicorn Horn | **Max_game751**: Meerkat (MFR) |
+| 02:15 | **Xen1c4l**: Shadow Dragon (FR), Evil Unicorn (MFR), Owl (NFR), Giraffe (FR), Parrot (FR) ×2, Evil Unicorn (FR) ×2, Turtle (FR) ×2, Goose (FR), Cow (R) ×2 | **method611491**: Shadow Dragon (MFR) |
+| 02:15 | **w1enfok**: Pupcicle (MFR), Fly-A-Pet Potion | **Quizzaff**: Shark Puppy (FR) |
+| 02:15 | **jujube_XD**: Dalmatian | **PipEerrSsPinKY**: Border Collie (NFR), Fairy Bat Dragon (FR) |
+| 02:15 | **stellalovessyou**: Ride-A-Pet Potion | **jazunica22**: Winter Deer Family Sticker, Well, Actually Walrus Sticker |
+| 02:15 | **reserbadong2**: Ballet Swan (N) | **quesidella**: Kangaroo (FR) |
+| 02:15 | **MatthewTheJitAlt**: Cow (FR) | **pookie1917**: Peppermint Penguin (FR), Ride-A-Pet Potion |
 | 02:11 | **Rbd_JP**: Halo, Angel Wings, 2022 Birthday Party Hat, Ride-A-Pet Potion | **pepapepa333**: Tortoiseshell Guinea Pig (NR), Velocirooster (N), Bathtub |
 | 02:11 | **apples_oopp1**: Albino Monkey (FR), Snowball Pet (MFR) | **ContentOtter9075**: Angel Wings |
 | 02:11 | **puchainela77**: Fly-A-Pet Potion | **myd666vil**: Wood Pigeon |
 | 02:11 | **Alexawingsparty**: Latte Kitsune (MFR), Hot Doggo | **Andres_agent**: Ballet Swan (MFR) |
 | 02:11 | **Jasmine_officially1**: Dragonfly (NR), Dragonfly, Huntsman Robin, Thunderfisher | **xilawn2023**: Ride-A-Pet Potion |
 | 02:11 | **Robloxian663027334**: Frostbite Bear (NR), Cow (R) | **Emil00940**: Evil Unicorn (FR) |
-| 02:11 | **Isaticas**: Chocolate Dutch Guinea Pig (N) | **lovechaeyaa**: Ghost Bunny (NFR) |
-| 02:11 | **Cloudy_xxxlex**: Strawberry Shortcake Bat Dragon | **cookiesmilet**: Peppermint Penguin, Polar Bear, Christmas Pudding Pup, Arctic Fox, Arctic Dusk Dragon, Ice Golem (FR), Frost Fury, Strawberry Penguin (FR) |
-| 02:11 | **laceddbowss**: Owl (FR), Cryptid (FR), Frost Unicorn (MFR), Elephant | **hanb3ki**: Shadow Dragon (FR) |
-| 02:11 | **kasouluxe**: Christmas Pudding Pup | **lilysbaco**: Chihuahua ×13 |
-| 02:11 | **meqwsv**: Kappakid (M) | **miuehla**: Ride-A-Pet Potion ×4 |
-| 02:11 | **raeshiia**: Sea Turtle (NR) | **xilawn2023**: Ride-A-Pet Potion |
-| 02:11 | **Ali_12xx1**: Octopus (FR), Wren (M) | **xilawn2023**: Ride-A-Pet Potion ×2 |
-| 02:11 | **0nlqm3**: Solaris (MFR) | **Certifiedbwunnii**: Albino Monkey (FR), Tiny Wings ×2, Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
-| 02:11 | **crybabydoIl**: Hyena (R) | **xGracie_1234x**: Alley Cat, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
