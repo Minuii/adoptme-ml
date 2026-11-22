@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 02:25 UTC by the scrape workflow._
+_Updated 2026-11-22 02:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 02:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 27,000 | 2026-11-22T02:15 |
-| elve | 12 | 5,774 | 2026-11-22T02:15 |
+| amvgg | 12 | 27,244 | 2026-11-22T02:30 |
+| elve | 12 | 5,844 | 2026-11-22T02:31 |
 
-## AMVGG completed trades: 47,701 total
+## AMVGG completed trades: 47,717 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 393 |
+| 2026-11-22 | 409 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 02:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:21 | **Roxielover120**: Arctic Fox, Pupcicle (N) | **arvenout**: Munchkin Cat |
-| 02:21 | **lamako1999**: Pirate Ghost Capuchin Monkey (M), Vampire Dragon (M), Blazing Lion (FR), Border Collie (MFR), Unicorn (M), Ghost Dog (M), Moonbeam Peacock (FR), Moonbeam Peacock (R) | **lelesayuru**: Shadow Dragon (FR) |
-| 02:21 | **alex_25girl333**: Border Collie, Caterpillar (R), Shark Puppy, Tortoiseshell Guinea Pig, Goat | **AdoptMe_pro6969**: Alley Cat (MFR) |
-| 02:21 | **rattychan03**: Scarebear (MFR) | **nolosew22445**: Jester Dragon (NFR) |
-| 02:21 | **hanb3ki**: Cryptid (FR), Sheeeeep, Copycat | **klown_karr**: Hot Doggo (R), Munchkin Cat (NFR), Harp Seal (MFR), Unicorn (NFR), Unicorn (N) ×2, Unicorn, Ride-A-Pet Potion ×10 |
-| 02:21 | **CloudAMs**: Crystal Egg ×15 | **MinhQnyu**: Ride-A-Pet Potion |
-| 02:21 | **dahoody2k3**: Ice Cream Cone Hat, Ride-A-Pet Potion, German Shepherd | **KITTYKITTY1234567888**: Munchkin Cat |
-| 02:15 | **violencesoul**: Cabbit (FR) | **ixclvoudy**: Mermicorn (FR), Purrowl (M), Sea Turtle (M) |
-| 02:15 | **aimyyys**: Kangaroo (FR), Dango Penguins (R), Pupcake (NFR), Llama (FR), Irish Water Spaniel, Rainbow Dragon, Banana Hat, Pink Cat Ear Headphones, Ghost Bunny, French Bulldog (R), Happy Duckling (R) | **shwriiimp**: Mini Pig (FR) |
-| 02:15 | **Sunset_seaii**: Pineapple Owl (MFR), Longhorn Cow (MFR), Unicorn Horn | **Max_game751**: Meerkat (MFR) |
-| 02:15 | **Xen1c4l**: Shadow Dragon (FR), Evil Unicorn (MFR), Owl (NFR), Giraffe (FR), Parrot (FR) ×2, Evil Unicorn (FR) ×2, Turtle (FR) ×2, Goose (FR), Cow (R) ×2 | **method611491**: Shadow Dragon (MFR) |
-| 02:15 | **w1enfok**: Pupcicle (MFR), Fly-A-Pet Potion | **Quizzaff**: Shark Puppy (FR) |
-| 02:15 | **jujube_XD**: Dalmatian | **PipEerrSsPinKY**: Border Collie (NFR), Fairy Bat Dragon (FR) |
-| 02:15 | **stellalovessyou**: Ride-A-Pet Potion | **jazunica22**: Winter Deer Family Sticker, Well, Actually Walrus Sticker |
-| 02:15 | **reserbadong2**: Ballet Swan (N) | **quesidella**: Kangaroo (FR) |
+| 02:30 | **xsp0d3**: Dragonfruit Fox, Chocolate Dutch Guinea Pig, Pupcicle (N), Chihuahua ×3 | **AvaNari2010**: Flash Weasel |
+| 02:30 | **MaelleGrace1**: Sugar Glider (FR) | **4evxer**: Harp Seal (MFR) |
+| 02:30 | **prettykittybows**: Haetyphoon (MR) | **amaekii**: Vampire Dragon (MFR) |
+| 02:30 | **xJI_CHx**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **TwistedK1tty**: Cow (NR) |
+| 02:30 | **polina_miskaa**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **chantking0910**: Frost Fury (FR) |
+| 02:30 | **baconandchicken007**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Froggyblossom90**: Groundhog |
+| 02:30 | **gavinOMG_66**: Cupid Dragon (NFR), Ring-Tailed Lemur | **kreker0900**: Mermicorn (R), Arctic Fox (FR) |
+| 02:30 | **MATIzyzy**: Goose (NR), Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR) | **xiadoilla**: Owl (FR), Toaster Hat, Brown Bear |
+| 02:30 | **lildaminii**: Ride-A-Pet Potion ×4 | **iiFr0gs33**: Pet Handler Pro Certificate ×2 |
+| 02:30 | **shwriiimp**: Bush Elephant (R) | **ii_kiiv**: Brown Bear (FR), Great Pyrenees (MR), Snow Monkey |
+| 02:30 | **kaylamicmi**: Frost Dragon (FR) ×2, Owl (FR), Werewolf (F), Tio De Nadal, Kangaroo (R), Platypus (NR), Christmas Pudding Pup, Frost Fury (FR), Pig (FR) | **josuecres16**: Bat Dragon (FR) |
+| 02:30 | **p4wqii**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Gamechar1015**: DJ Snooze (MR) |
+| 02:30 | **ItsxCloud5**: Orchid Butterfly (FR), Orchid Butterfly (R), Halo | **kathlike82210**: Cryptid (NFR) |
+| 02:30 | **tofallishuman**: Flash Weasel, Emberlight | **jellybean_yello**: Moonbeam Peacock |
+| 02:30 | **jellybean_yello**: Hamster Selfie Sticker ×3, Pretty Please Snowball Sticker, Long Ermine Sticker | **luvzfa1thh**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
