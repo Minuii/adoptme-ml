@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 04:31 UTC by the scrape workflow._
+_Updated 2026-11-22 04:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 04:31 UTC by the scrape workflow._
 | amvgg | 12 | 29,214 | 2026-11-22T04:30 |
 | elve | 12 | 6,265 | 2026-11-22T04:31 |
 
-## AMVGG completed trades: 48,107 total
+## AMVGG completed trades: 48,129 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 799 |
+| 2026-11-22 | 821 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 04:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:30 | **mattblehh**: Alley Cat (MFR), Tiny Wings | **Spooky_Aniyah**: Rainbow Maker |
-| 04:30 | **elpapoydeastro**: Mochi Meow | **hannahsfaeriixo**: Mrs. Whiskerpips |
-| 04:30 | **Qu33nDQCrimsonO19932**: Chihuahua ×9 | **miriam89300**: Ride-A-Pet Potion ×4 |
-| 04:30 | **v1xctoriaa**: Pupcicle (N) | **Livxhze**: Fly-A-Pet Potion |
-| 04:30 | **w1le_uu**: Gemstone Egg, Mistletroll (N), Pandaguin Glooptodog (N) | **Livxhze**: Ride-A-Pet Potion |
-| 04:30 | **Angelsss_81**: Ride-A-Pet Potion | **Valentita800191**: Gumball Caterpillar (M) |
-| 04:30 | **Bumble_Lou**: Peach Owl (MFR), Phoenix, Prismatic Butterfly, Pain au Chat ×4 | **xyza_starsmonica**: Copycat (N) |
-| 04:30 | **Vluxbuy**: Cow (FR) ×2 | **amvggaltaccxox**: 2022 Birthday Party Hat ×2, 2022 Birthday Party Horn |
-| 04:30 | **djaRobl0xx**: Papa Moose, Cattuccino (MR) | **Tree092109**: Haetyphoon |
-| 04:30 | **KNOBHEAD1115**: Kangaroo (R), Tree Sasquatch (N), Otter (M) | **Garrickelliot**: Reindeer (MFR) |
-| 04:30 | **cottoncandybike**: Crystal Egg ×12 | **mjthe_bard**: Ride-A-Pet Potion |
-| 04:30 | **KikiChoco55**: Mini Pig (FR) | **xmarlarx**: Cabbit, Shark Puppy, Ride-A-Pet Potion, Onza (M) |
-| 04:30 | **addmysecondaccount**: Jester Dragon (R) | **02harvA_A**: Ride-A-Pet Potion ×5 |
-| 04:30 | **avervuu**: Fairy Bat Dragon (NFR), Arctic Reindeer (FR) ×3, Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon, Fairy Bat Dragon (FR) ×2 | **s1vurn**: Owl (NFR) |
-| 04:30 | **Yumi_Rose8**: Cow (FR) | **kollooks**: Fly-A-Pet Potion ×18 |
+| 04:36 | **My_belovedwonwooo**: Unicorn (NFR), Candicorn (NFR), Panda (FR), French Bulldog (NR) | **JAJAJAN9199**: Turtle (NFR) |
+| 04:36 | **lapulisra**: Frost Unicorn (R) | **cherrymoon4441**: Lion, Ballet Swan, Dingo (M), Turkey (R), Dog (M) ×2 |
+| 04:36 | **CandyXXBloxyFam**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **GOGOLI_34258**: Sakura Spirit |
+| 04:36 | **sweetn6thing**: Ride-A-Pet Potion ×5 | **Bismuth234**: Spring Bunny Hood |
+| 04:36 | **Aranpro10101**: 2022 Birthday Cake, Dog | **frogie_948**: French Bulldog (MFR), Jeff's Nametag, 2022 Birthday 5 Badge |
+| 04:36 | **violencesoul**: Pupcake (MFR), Dugong (M), Hippo (MR), Fly-A-Pet Potion | **abdoosaad**: Candyfloss Chick (FR), Orange Butterfly, Kiwi Kiwi ×2, Diamond Griffin |
+| 04:36 | **FlyToTheSaturn**: Otter (NR), Mouse (NR), Ant (R), Dingo (N), Seahorse, Pilot Gull, Wolf ×2, Chick, Kid Goat (N), Robin, Tasmanian Tiger | **rainbowuncorngirly**: Fly-A-Pet Potion |
+| 04:36 | **itzme_Mochiforever**: Moon Rabbit (MR), Chicken | **ITSMECINNAADDMEBACKK**: Pretty Pony (MFR) |
+| 04:36 | **PuhonaBeri**: Owl (FR) ×3, Owl (R), Ride-A-Pet Potion | **cnjsdmonlu**: Bat Dragon (FR) |
+| 04:36 | **cnjsdmonlu**: Giraffe (NFR), Arctic Reindeer (FR), Ride-A-Pet Potion | **tokki0000**: Bat Dragon (FR) |
+| 04:36 | **MissCupcakeAlexYt**: Ghostly Cat (M) | **adoptmejourney83**: Spring Bunny Hood |
+| 04:36 | **bigmacburger_0**: Grim Dragon (NFR) | **PeterlsBTS**: Polar Bear (MFR), Fly-A-Pet Potion |
+| 04:36 | **Pulseq3Void63Echo174**: Lunar Moon Bear, Pain au Chat, Chihuahua, Scarlet Butterfly, Pink Betta Fish | **Idkk_0426**: Fly-A-Pet Potion |
+| 04:36 | **000200ABELLA**: Balloon Unicorn (NFR), Cryptid (NFR), Munchkin Cat (MFR), Dango Penguins (MFR), Dragonfruit Fox (MFR) | **amaialolwonder**: Cryptid (MFR) |
+| 04:36 | **SophieGulosona**: Velocirooster (MFR) | **Bi_WaterBuffalo**: Copycat (MFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
