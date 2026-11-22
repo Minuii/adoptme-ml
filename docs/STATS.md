@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 20:55 UTC by the scrape workflow._
+_Updated 2026-11-22 21:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 20:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 45,921 | 2026-11-22T20:45 |
-| elve | 12 | 10,128 | 2026-11-22T20:46 |
+| amvgg | 12 | 46,214 | 2026-11-22T21:00 |
+| elve | 12 | 10,185 | 2026-11-22T21:01 |
 
-## AMVGG completed trades: 52,507 total
+## AMVGG completed trades: 52,513 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,199 |
+| 2026-11-22 | 5,205 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,12 @@ _Updated 2026-11-22 20:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:00 | **carlkilling**: Mini Pig (FR) | **krismeow10**: Kangaroo (FR) ×2, Ride-A-Pet Potion ×3 |
+| 21:00 | **Cinzsins**: Dragonfruit Fox (MFR), Owlbear (MFR), Purple Butterfly (MFR) | **adorxelian**: Sea Slug (MFR) |
+| 21:00 | **abehde2134**: Tree Kangaroo (MR) | **edmunds15**: Cow (FR) |
+| 21:00 | **cesarx_o**: Amami Rabbit (MFR), Spring Bunny Hood, Spring Bunny Nose, Chef Hat, Butter Knife, Ride-A-Pet Potion ×2 | **nothingto_crowww**: Turtle (FR) |
+| 21:00 | **cazzy123abc**: Balloon Unicorn (MFR) | **Sofi02575**: Haetae (MFR), Christmas Pudding Pup (MFR), Crocodile (NFR), Cow (FR), Cabbit (FR), Harp Seal (MR), Unicorn Horn, Rain Cloud Hat, Spring Bunny Hood |
+| 21:00 | **mary0313mary**: Parrot (FR), Brown Bear (NFR) | **izzztya**: Cow (FR) ×3, Crocodile (R), Crocodile (FR), Elephant (FR), Elephant (R), Lion (R) |
 | 20:55 | **Lxvoddd**: Fairy Bat Dragon (MFR) | **TT_0qwerty45**: Turtle (NFR), Candicorn (NR), Goose (R), Bald Eagle (NFR), Unicorn Horn, Dango Penguins, Fairy Bat Dragon (FR), Irish Water Spaniel (NR), Onza (M) |
 | 20:55 | **lovewqnted**: Harp Seal (MR) | **0Leonie03**: Candicorn (FR), Tree Kangaroo (NFR) |
 | 20:55 | **SupernaycatUwO**: Gemstone Egg, Chihuahua | **itzzzz_emi1**: Snow Owl |
@@ -46,12 +52,6 @@ _Updated 2026-11-22 20:55 UTC by the scrape workflow._
 | 20:55 | **Cam3o_8**: Bat Dragon (MFR) | **mell0rxs**: Shadow Dragon (MFR), Frost Dragon (MFR), Owl (MFR), Crow (FR) |
 | 20:55 | **bcataliiina**: Candicorn (R), 2022 Birthday Cake, Fly-A-Pet Potion | **Sonya73p**: Candicorn (NFR) |
 | 20:55 | **Ba123773**: DJ Snooze (MFR), Jacobin Pigeon (M), Galactic Hoverboard | **meliodas999q**: Ghost Bunny (NFR) |
-| 20:55 | **mamut_524**: Bush Elephant (NFR) | **A13N4XX**: Goose (FR), Pelican (FR) |
-| 20:55 | **HoliviaGold**: Pet Handler Pro Certificate ×2, Mighty Haetyphoon Animated Sticker | **MakiraLive**: Fly-A-Pet Potion ×2 |
-| 20:55 | **Pierro0_0hehe**: Unicorn (MFR), Unicorn (NFR), Ride-A-Pet Potion ×2 | **vrqaxs**: Copycat (NR) |
-| 20:55 | **anikaaww**: Aurora Fox (MFR), Latte Kitsune (MFR), Yule Log Dog (MFR), Copycat (NFR), Spring Bunny Feet | **sickie_m0use**: Owl (FR) |
-| 20:55 | **anxme_lol**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **rr11nSk**: Ice Cream Cone Hat |
-| 20:55 | **Milk_147017**: Magpie (MR) | **AndresPatato**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
