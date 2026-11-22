@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 08:25 UTC by the scrape workflow._
+_Updated 2026-11-22 08:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 08:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 32,801 | 2026-11-22T08:15 |
-| elve | 12 | 7,024 | 2026-11-22T08:15 |
+| amvgg | 12 | 33,044 | 2026-11-22T08:30 |
+| elve | 12 | 7,086 | 2026-11-22T08:31 |
 
-## AMVGG completed trades: 48,748 total
+## AMVGG completed trades: 48,764 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,440 |
+| 2026-11-22 | 1,456 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 08:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:25 | **carolzinhac2009**: Puffin | **milesgabrie12**: Ride-A-Pet Potion ×5 |
-| 08:25 | **luvdokyeomie**: Ride-A-Pet Potion ×6, Ground Sloth (NR) | **milesgabrie12**: Sheeeeep |
-| 08:25 | **Zydac1**: Diamond Griffin ×16 | **Bryce_blr**: Fly-A-Pet Potion |
-| 08:25 | **herfaklo**: Lava Wolf | **Vii_TheLittleZ0mbie**: Slime |
-| 08:25 | **luvyerh**: Lion (R), Ride-A-Pet Potion | **loome587**: Lion (FR) |
-| 08:25 | **aydachan200311**: Ride-A-Pet Potion ×13 | **megasupper_profi**: Fly-A-Pet Potion ×7 |
-| 08:25 | **Yaypii3**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4, Brachiosaurus (MR), Count Slothula, Kiwi Kiwi ×2, Ranger Beaver, Bee (N), Dragon, Bubblegeist | **Glebasik_game**: Latte Kitsune (NFR) |
-| 08:25 | **SOAPpenup_2025**: Peppermint Penguin (R), 2022 Birthday Party Hat | **777pawzz**: Harp Seal (MFR), Moon Rabbit (MFR), Amami Rabbit (MFR) |
-| 08:25 | **didi_qwqq**: Winged Tiger (FR) | **ni1zuua**: Cake Friend (MR) |
-| 08:25 | **kiwipoq**: Crystal Egg ×18 | **mommy_vka123**: Ride-A-Pet Potion |
-| 08:25 | **NummieNummiegirl**: Ice Cream Hermit Crab (MR), Flower Power Duckling (MFR) | **isabella68078**: Blue Dog (N) |
-| 08:25 | **itsobvzxra**: Shark Puppy (MFR), Pupcicle (MFR) | **Btstvdyndynfy9**: African Wild Dog (FR), Cherry Blossom Hang Glider |
-| 08:25 | **ani6835**: Cupid Dragon (FR) | **MyWorldBloxGamer**: Vampire Dragon (FR) |
-| 08:25 | **peppeRBXx**: Ride-A-Pet Potion | **YupItsMe_Tyyu3**: Frankenfeline (N), Galapagos Sea Lion (N), Warthog (N), Little Lamb (N), Zebra (N), Budgie Witch (N), Mummy Spider (N) |
-| 08:25 | **Dodgemyhooks**: Mecha R4BBIT | **mjthe_bard**: Ride-A-Pet Potion |
+| 08:30 | **Inganta07**: Fly-A-Pet Potion | **ikamisatka**: Cerberus (F) |
+| 08:30 | **Arisha32000**: Fly-A-Pet Potion ×6 | **megasupper_profi**: Munchkin Cat (FR) |
+| 08:30 | **morgen67svo**: Turtle (FR) ×2, Fly-A-Pet Potion ×9 | **Fox7Art**: Chocolate Chip Bat Dragon (FR) |
+| 08:30 | **Inganta07**: Ride-A-Pet Potion | **luvvvvrabbit**: Capybara |
+| 08:30 | **TaPok228pon**: Fly-A-Pet Potion, Kitty Biscuit | **sneganii**: Cockroach (MR) |
+| 08:30 | **OBVADDISONN0**: Royal Palace Spaniel (FR) | **lovelybwunnii**: Red Squirrel ×2 |
+| 08:30 | **wloobb**: Munchkin Cat (MFR), Cabbit (R), Angel Wings | **Anastasika_agent**: Giant Panda, Pink Heart Glasses |
+| 08:30 | **Akrwnkp_0**: Cow (FR), Kangaroo (FR), Candicorn (R), German Shepherd (MFR), Dragonfruit Fox (NR), Spring Bunny Hood | **YakarKizBanuu**: Cryptid (FR) |
+| 08:30 | **Ksenia_pet5k**: Fly-A-Pet Potion, Snow Cone Stand | **kskxkxkskd**: Dodo (FR) |
+| 08:30 | **YumSleepy**: Glormy Leo (MFR), Goat (FR), Chihuahua (M) | **Hasiiiiiiiiiiiii**: 2022 Birthday Cake, Unicorn Horn, Majestic Pony (MFR) |
+| 08:30 | **urielelpro909**: Monkey King (NFR), Cow (NFR), Glacier Kitsune (MFR), Pupcake (M), Platypus | **pepe546653**: Frost Dragon (FR) |
+| 08:30 | **silencedsweet**: Horse (FR), Ocelot (MR) | **KOMOVI9990**: Fly-A-Pet Potion |
+| 08:30 | **Helrandom48**: Owl (FR), Parrot (R), Goose | **F1uffybun1**: Giraffe (FR), Fly-A-Pet Potion ×2, Easter Egg Stroller, Floating Hand Stroller, Adopt Me Girl Scooter, Ice Cream Stroller |
+| 08:30 | **clalouetciedh**: Ancient Dragon ×14 | **so_funnylike**: Ride-A-Pet Potion |
+| 08:30 | **XGiveMeUrFoodX**: Dalmatian (FR), Octopus (NFR), Corn Doggo (N) | **Dxv1ls_Workxr**: Strawberry Shortcake Bat Dragon (FR), Goose (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
