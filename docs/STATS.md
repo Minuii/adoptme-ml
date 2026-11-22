@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 14:01 UTC by the scrape workflow._
+_Updated 2026-11-22 14:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 14:01 UTC by the scrape workflow._
 | amvgg | 12 | 38,666 | 2026-11-22T14:00 |
 | elve | 12 | 8,480 | 2026-11-22T14:01 |
 
-## AMVGG completed trades: 50,179 total
+## AMVGG completed trades: 50,214 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,871 |
+| 2026-11-22 | 2,906 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:00 | **wskdaks**: Solaris (R) | **dashe4kavbb**: King Bee (R), Zodiac Minion Chick (R), Beluga Whale (NR) |
-| 14:00 | **Spralliiig**: Werewolf (NFR) | **hhhauntedddd**: Nessie (NFR), Latte Kitsune (NFR), Cerberus (NFR), Stegosaurus (N), Giant Anteater, Tan Chow-Chow (N) |
-| 14:00 | **SapphireMindK472**: Fairy Bat Dragon (R), Turtle (FR), Elephant (FR), Rain Cloud Hat, Munchkin Cat, Velocirooster (R), Jester Dragon, Sandwich Hat, Spring Bunny Hood, Aussie Egg, Spring Bunny Nose, Goth Shoes | **Oliver20717**: Peppermint Penguin (NFR) |
-| 14:00 | **lapulisra**: Crocodile (R), Lion | **Autumnisacutie123**: Pig (FR), Pink Cat, Silly Duck (NR) |
-| 14:00 | **Tea_Teica245**: Gemstone Egg, Catte | **ula12579**: Ride-A-Pet Potion |
-| 14:00 | **arseniylolol**: Strawberry Shortcake Bat Dragon (FR) | **Polufabrikatik_465**: Kangaroo (NFR), Mermicorn (FR), Arctic Fox (R) |
-| 14:00 | **Evelina22super**: Dango Penguins ×2, Ride-A-Pet Potion | **leailsake**: Copycat |
-| 14:00 | **MM_Cloud**: Crystal Egg ×15 | **yxxrzzcoow**: Ride-A-Pet Potion |
-| 14:00 | **RyukkHolder**: Fairy Bat Dragon (FR), Borhyaena Gigantica (NR), Ride-A-Pet Potion | **murid5**: Jekyll Hydra (FR) |
-| 14:00 | **elliy5792**: Rainbow Maker | **hugsformy_sisfinjaa**: Firefly (MFR), Mini Schnauzer (M), White Sand Dollar (MFR) |
-| 14:00 | **htd6754j**: Ride-A-Pet Potion ×5 | **cpenk3211**: Copycat |
-| 14:00 | **Kevinp11orange**: Phoenix (NFR), Hawk (NFR), Ride-A-Pet Potion ×2 | **ROBOZVN**: Pig (FR) |
-| 14:00 | **rainbowpuply_cute**: Strawberry Shortcake Bat Dragon (FR) | **MICROCELE6BRITY**: Mini Pig (FR), Puffer Fish (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 14:00 | **puppyplayz198**: Angel Wings, Harp Seal | **Babielily1**: Unicorn Horn, Tiny Wings |
-| 14:00 | **torivfr**: Dragonfruit Fox | **cute_babess**: Binturong, Berry Cool Cube, Dire Wolf (N), Irish Elk, Chick |
+| 14:06 | **ch3yluvsdj**: Kangaroo (NFR) | **faebnny**: Great Pyrenees (MFR), Gingerbread Mouse (MFR), Choco Penguin (MR), Ibex (MR), Winter Fawn (MR), Birthday Butterfly 2024 (MR), Seahorse (MR) |
+| 14:06 | **xJI_CHx**: Shark Puppy (NFR) | **neonpet145**: Mini Pig (FR) |
+| 14:06 | **el_granadero**: Diamond Butterfly (R) | **neonpet145**: Dragonfruit Fox (MFR) |
+| 14:06 | **floralplum**: Cactus Friend | **LimmaKiten**: Ride-A-Pet Potion |
+| 14:06 | **murid5**: Munchkin Cat (MFR), Dalmatian (FR) | **Fer_TheCat3**: Chocolate Chip Bat Dragon (NFR), Winged Tiger (FR), Pancake Stack, Banana Hat, Propeller Hat, Eco Brown Hiking Backpack |
+| 14:06 | **rattychan03**: Lynx (MFR), Pancake Stack, Fly-A-Pet Potion | **anelyoda**: Jester Dragon (NFR) |
+| 14:06 | **nfrmikey1**: Black Springer Spaniel (MFR) | **ilivistarss**: Kangaroo (FR) |
+| 14:06 | **h4_cd**: Ride-A-Pet Potion | **pandaearedd**: Bobageist (M) |
+| 14:06 | **liofe1**: Brachiosaurus, Ash Zebra, Winter Fawn, Badger (M) | **Angelich_MM2**: Ride-A-Pet Potion |
+| 14:06 | **XL4IL4_FGYX**: Siamese Cat (NFR), Candicorn (R), Pet Handler Pro Certificate, Tree Kangaroo (R), Sushi Penguin | **kawaixi_xgamer**: Goose (FR), Toaster Hat, Sugar Glider (R) |
+| 14:06 | **p001torich**: Classic Trade Stand ×3 | **morphling_whater**: Ride-A-Pet Potion |
+| 14:06 | **4AdrianaJensen**: Cattuccino (R), Alicorn (R), Watermelon Backpack, Tree Kangaroo (NR), Lamb (NFR), Brown Bear (FR) | **p001torich**: Super Jetpack |
+| 14:06 | **Dinkarrt**: Black Macaque, Mr. Whiskerpips | **mushromsubstrate**: Ride-A-Pet Potion |
+| 14:06 | **gosha2ji**: Bauble Buddies, Gingerbread Mouse, Arctic Hare | **mushromsubstrate**: Ride-A-Pet Potion |
+| 14:06 | **Kishiharu1**: Flower Power Duckling (MFR), Pupcicle (NFR), Christmas Pudding Pup | **AsianIceCold**: Candicorn (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
