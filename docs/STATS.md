@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 05:25 UTC by the scrape workflow._
+_Updated 2026-11-22 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 29,945 | 2026-11-22T05:15 |
-| elve | 12 | 6,422 | 2026-11-22T05:15 |
+| amvgg | 12 | 30,151 | 2026-11-22T05:30 |
+| elve | 12 | 6,489 | 2026-11-22T05:31 |
 
-## AMVGG completed trades: 48,250 total
+## AMVGG completed trades: 48,259 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 942 |
+| 2026-11-22 | 951 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **24nothingtofairybat**: Chick Backpack, Chick Hat | **Emiliagis0_0**: Cuddly Candle |
+| 05:30 | **iiSimplylvxy**: Cow (FR), 2022 Birthday Party Horn | **Kkrrrlltr4ppy**: Dango Penguins (MFR) |
+| 05:30 | **knorwiq**: Admin Abuse Egg ×3, Admin Abuse Box ×3 | **Bow_trader**: Candy Camper |
+| 05:30 | **buba_gfjdl**: Jousting Horse (NFR) | **piespix**: Goldhorn (NR), Copycat (FR), Pink Cat Ear Headphones, Pink Heart Glasses |
+| 05:30 | **Xz_CodeOLDriftdLBliz**: Mochi Meow | **cesarx_o**: Christmas Pudding House |
+| 05:30 | **valor_6f4**: Croc Plush, Polar Bear Plush, Horse Plush | **immimi36**: Ride-A-Pet Potion |
+| 05:30 | **loiol1004**: Cockroach (MR) | **kaitlyn_candyapple**: Ride-A-Pet Potion ×3 |
+| 05:30 | **Jollyfun213**: Space Fleet House | **yxxrzzcoow**: Ride-A-Pet Potion |
+| 05:30 | **stezsm**: Eggnog Dog (N) ×2, Ranger Beaver (N) | **BaconsAreCool3210**: Octopus (N) |
 | 05:25 | **wtvlanis**: 2022 Birthday Party Horn, Tiny Wings, Spring Bunny Hood, Rain Boots | **JustDo_It097**: Angel Wings |
 | 05:25 | **sofia_sofiko**: Rain Cloud Hat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Lynn_n77**: Unicorn Horn |
 | 05:25 | **Fidelia2131415**: Ride-A-Pet Potion ×5 | **Kali_girl790**: Puptune, Bauble Buddies ×2, Merry Mistletroll, Flower Power Duckling, Happy Duckling, Pupcicle, Kitty Bat, Amami Rabbit, Catte, Snowball Pug |
 | 05:25 | **Preppy_5800**: Bunny Swirl (MFR), Fly-A-Pet Potion | **angelicpretti**: Pupcicle (MFR) |
 | 05:25 | **WierdoVanilla**: German Shepherd (N), Unicorn (N), Yeti (FR) | **rightbackatright**: Matcha Cat |
 | 05:25 | **tarrace_house**: Ride-A-Pet Potion | **Flesh1z4635**: Stray Cat Dragon (FR) |
-| 05:25 | **m4rshalI**: Mermicorn (M), Candicorn (M) | **whiplashtempo0**: Grim Dragon (MFR), Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Elephant (R) |
-| 05:25 | **lilanderm**: Retired Egg ×18 | **darinochka20119**: Mochi Meow (R) |
-| 05:25 | **Xz_CodeOLDriftdLBliz**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Haneul_039**: Flash Weasel |
-| 05:25 | **donnotinteract**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **carolzinhac2009**: Unicorn Backpack |
-| 05:25 | **carolzinhac2009**: Ice Cream Cone Hat | **Manekie_Nekoo**: Ride-A-Pet Potion ×6 |
-| 05:25 | **rottingroyaltyyy**: Strawberry Shortcake Bat Dragon (FR), Bush Elephant (NFR), Fairy Bat Dragon (FR) | **thesuperkid0**: Balloon Unicorn (FR), Dragonfruit Fox (FR), Ride-A-Pet Potion ×2 |
-| 05:25 | **Preppy_5800**: Bunny Swirl (MFR), Fly-A-Pet Potion, Starfish (MFR) | **ilove_demi123**: Pupcicle (M) |
-| 05:25 | **lol1bahia**: Chameleon (N) | **Snow_Girl123678**: Ride-A-Pet Potion ×2 |
-| 05:25 | **oscarfeo15**: Cabbit (MFR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, 2022 Birthday Cupcake Shoes, Ice Cream Cone Hat, Tiny Wings, Mono-Moped, Panda Pal, Shadow Dragon Ducky, Crystal Egg ×2, Endangered Egg ×5, Admin Abuse Egg, Rotating Periscope | **mimilelina**: Giraffe (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
