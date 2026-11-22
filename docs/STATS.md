@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 11:15 UTC by the scrape workflow._
+_Updated 2026-11-22 11:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 11:15 UTC by the scrape workflow._
 | amvgg | 12 | 35,817 | 2026-11-22T11:15 |
 | elve | 12 | 7,762 | 2026-11-22T11:15 |
 
-## AMVGG completed trades: 49,376 total
+## AMVGG completed trades: 49,425 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,068 |
+| 2026-11-22 | 2,117 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 11:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:15 | **leileirtt**: Fly-A-Pet Potion, Ride-A-Pet Potion, Leopard Cat, Hippo, Lynx, Sabertooth, Shiver Wolf, Dugong ×3, Snowball Pug, Mecha R4BBIT | **Coralmnm**: Jester Dragon (FR) |
-| 11:15 | **aydachan200311**: Turtle (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Artem_21a2**: Cabbit (FR) |
-| 11:15 | **melinaftu**: Arctic Dusk Dragon (MFR), Cow (FR), Leopard Shark (MFR), Zombie Wolf (MR), Pig (NFR), Black Panther (MFR) | **Ashybella0**: Owl (FR) |
-| 11:15 | **Belen7267**: Matcha Cat (NFR), Fly-A-Pet Potion ×2 | **Tena_IsPeakfr**: Mini Pig (FR) |
-| 11:15 | **Kirikamu**: Balloon Unicorn (FR), Christmas Pudding Pup, Fly-A-Pet Potion | **vasya_mochnaya25**: Dalmatian (FR), Chocolate Chip Bat Dragon (FR) |
-| 11:15 | **Emmasloth346**: Yeti (MFR), Count Slothula (MFR) | **danu123456i7**: Golden Rat (MFR) |
-| 11:15 | **vasya_mochnaya25**: Dalmatian (FR), Munchkin Cat (NFR), Peppermint Penguin, Glacier Kitsune (FR), Unicorn (NFR), Spring Bunny Hood, Dragonfruit Fox | **kiff_shik**: Parrot (FR) |
-| 11:15 | **miuehla**: Copycat | **JenYAsha2akk12**: Fly-A-Pet Potion ×2 |
-| 11:10 | **clalouetciedh**: Dragonfly ×15 | **rotee51**: Ride-A-Pet Potion |
-| 11:10 | **Polufabrikatik_465**: Cow (FR) ×2, Turtle (FR) | **Dina0239**: Dalmatian (FR) |
-| 11:10 | **roksy3910**: Rain Cloud Hat, 2022 Birthday Cake, Elephant (R), Mermicorn (R), Aussie Egg | **Ari_Blays**: Fairy Bat Dragon (NFR) |
-| 11:10 | **Ricover2929**: Sakura Spirit (FR) | **YuriYuriforal**: Aurora Fox (FR) |
-| 11:10 | **bellettuce20**: Panda (R) | **DubrotmitBanana**: Snow Cat (MFR) |
-| 11:10 | **DRA25466**: Fly-A-Pet Potion ×18 | **odading12318**: Kangaroo (NFR) |
-| 11:10 | **strawb3rr7CAKE3**: Tropical Surge Mega Neon Paint, Classic Trade Stand | **IamCool123Andunot**: Ride-A-Pet Potion |
+| 11:25 | **ALTACCOUNTTT435**: Crystal Egg ×12 | **lotvsec**: Ride-A-Pet Potion |
+| 11:25 | **ThatGirlDude61**: Owl (NFR) ×2, Owl (FR) ×2, Cryptid (FR) | **capta1nEllaplayzPlay**: Owl (MFR) |
+| 11:25 | **definitelynotleona**: Angus Bull (M) | **MapleLull**: Ride-A-Pet Potion ×3 |
+| 11:25 | **sllwexx**: Thunderfisher, Cookie Dough Plush | **Boo_kittykitty**: Fire Mare ×2 |
+| 11:25 | **jjanaaae**: Dalmatian (FR), Goose (FR), Fairy Bat Dragon (FR), Persian Cat (MFR), Galapagos Sea Lion (M) | **Divarase1**: Crow (FR) |
+| 11:25 | **Supr3meAlex**: Fairy Bat Dragon (MFR), Lion Cub (MFR), Aestus (MFR), Munchkin Cat (MFR), Hare (MFR), Glormy Leo (MFR), Cerberus (MFR), Flaming Fox (MFR), Queen Bee (MFR), Rainbow Dragon (MFR), Many Mackerel (MFR), Brown Bear (MFR) | **Honeymochi_oo**: Hedgehog (MFR) |
+| 11:25 | **vikka734**: Admin Abuse Egg ×18 | **Yancapl_5**: Choco Penguin |
+| 11:25 | **M1li888**: Bat Dragon (FR), Rainbow Maker | **kiaraaalol1**: Cryptid (MFR) |
+| 11:25 | **kiaraaalol1**: Owl (MFR) | **Marilynbrandt662**: Frost Dragon (FR) ×5, African Wild Dog (FR) |
+| 11:25 | **yuujchaan**: Ride-A-Pet Potion ×13, Purrowl, Thunderfisher | **iaMatthieu1**: Border Collie (R) |
+| 11:25 | **kagurasgl0w**: Sugar Glider (R) | **starburstandevie**: Alley Cat (N), Candyfloss Chick (R) |
+| 11:25 | **Anya_gg8884**: Ride-A-Pet Potion, Jacobin Pigeon (N) ×3 | **lushlyr**: Onza (M) |
+| 11:25 | **prince_onepator**: Turtle (FR) | **Sofik_oc**: Frost Unicorn (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 11:25 | **VikeShow7**: Kangaroo (R) | **nano_2012a**: Pig (R) ×2 |
+| 11:25 | **clalouetciedh**: Dragonfly ×15 | **so_funnylike**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
