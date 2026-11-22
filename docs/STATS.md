@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 08:55 UTC by the scrape workflow._
+_Updated 2026-11-22 09:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 08:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 33,303 | 2026-11-22T08:45 |
-| elve | 12 | 7,139 | 2026-11-22T08:46 |
+| amvgg | 12 | 33,576 | 2026-11-22T09:00 |
+| elve | 12 | 7,199 | 2026-11-22T09:01 |
 
-## AMVGG completed trades: 48,852 total
+## AMVGG completed trades: 48,854 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,544 |
+| 2026-11-22 | 1,546 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,8 @@ _Updated 2026-11-22 08:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:00 | **XxlambadguyxX**: Cryptid (FR), Wing Hang Glider | **micaelakdkdn**: Kangaroo (FR), Kangaroo (NFR), Lion Cub (NFR), Meerkat (NFR), Tortuga de la Isla (FR) |
+| 09:00 | **shy28299732983**: Fly-A-Pet Potion | **ssaiito**: Malaysian Tapir (N) ×2 |
 | 08:55 | **mommy_vka123**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×5 | **odading12318**: Goat (R), Sheeeeep (R) |
 | 08:55 | **odading12318**: Goose | **ampnothingtorich09**: Fly-A-Pet Potion ×16 |
 | 08:55 | **angela_umerez4**: Owl (FR), Crow (FR), Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (FR), Zombie Buffalo (R) | **lotiedoll**: Shadow Dragon (FR) |
@@ -50,8 +52,6 @@ _Updated 2026-11-22 08:55 UTC by the scrape workflow._
 | 08:55 | **zow_98alt**: Tiny Wings, Alley Cat | **wassupwithu**: Lava Dragon (NFR) |
 | 08:55 | **Aslyloving123**: Halloween White Ghost Dragon (FR) | **Yumi_Rose8**: Fly-A-Pet Potion ×2 |
 | 08:55 | **odading12318**: Unicorn (N) ×4, Unicorn (FR), Unicorn ×4 | **He_odtam**: Fly-A-Pet Potion ×10 |
-| 08:55 | **waydrown**: Goat (R), Dango Penguins, Fly-A-Pet Potion, Swan (R) | **plrbxs**: Alley Cat (NFR) |
-| 08:55 | **noname777skibidi**: Slimingo (NR), Ms. Muffet (N), Rubber Ducky (N), Aztec Egg, Dragonfly, Admin Abuse Box ×2 | **xenovyjay**: Fly-A-Pet Potion, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
