@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 21:31 UTC by the scrape workflow._
+_Updated 2026-11-22 21:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 21:31 UTC by the scrape workflow._
 | amvgg | 12 | 46,753 | 2026-11-22T21:30 |
 | elve | 12 | 10,270 | 2026-11-22T21:31 |
 
-## AMVGG completed trades: 52,666 total
+## AMVGG completed trades: 52,715 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,358 |
+| 2026-11-22 | 5,407 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 21:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:30 | **Natali_2684**: Turtle (FR) ×3, Bunny Swirl (M), Haetyphoon, Tuxedo Cat (N), Unicorn Backpack, Strawberry Shortcake Bat Dragon Backpack, Chocolate Chip Bat Dragon Backpack, Pink Cat Ear Headphones, Peahen, Pineapple Owl, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Milk Choccybunny (N), White Choccybunny (N) | **MegaPoslaTV**: Cryptid (FR) |
-| 21:30 | **Natali_2684**: Fly-A-Pet Potion ×13 | **MegaPoslaTV**: 2022 Birthday Party Hat |
-| 21:30 | **boloxlucas123930**: Stray Cat Dragon (M) | **esmeesavoryxxxxxxx**: Dango Penguins |
-| 21:30 | **zakytakynooob**: Jellyfish (MFR) | **002002002LE0**: Meerkat (MFR), Bloodhound (MFR), Alley Cat (MFR) |
-| 21:30 | **Waysrrsd**: Cow (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **psantos1983**: Mini Pig |
-| 21:30 | **eliasjosh8**: Chocolate Dutch Guinea Pig (MR), Spring Bunny Hood | **jevxqz**: Goose (R) |
-| 21:30 | **Elwanizk**: Chihuahua | **Hellokitty_loves941**: Retired Egg ×18 |
-| 21:30 | **Waysrrsd**: Tree Sasquatch (M) | **Mentosvcxz**: Ride-A-Pet Potion |
-| 21:30 | **camila_melfsilv**: Munchkin Cat (NR) | **Oneran0**: Cabbit (FR) |
-| 21:30 | **lavamanos88**: Bat Dragon (FR) | **Jsk7919**: Cryptid (MFR) |
-| 21:30 | **blushmewi**: Dragon ×2, Purrowl ×3, Badger (N), Galapagos Sea Lion (N), Kid Goat (N), Starfish (N) | **4M_GEEG**: Ride-A-Pet Potion |
-| 21:30 | **lisathefunnypig**: Catte | **povnobodylikesqyou**: Sushi Penguin |
-| 21:30 | **Ye_amhere**: Arctic Reindeer (NFR), Peppermint Penguin (R), Border Collie (FR) | **mikepower240508**: Border Collie (MFR) |
-| 21:30 | **aestethic_boba12**: Highland Cow (MFR), Spring Bunny Hood, Owlbear (R) ×2 | **ni1zuua**: S'mores Raccoon (MR), Ride-A-Pet Potion, Fly-A-Pet Potion, Feesh ×2 |
-| 21:30 | **krxadm3**: Crystal Egg ×16, Ride-A-Pet Potion | **aoqweza**: Ride-A-Pet Potion |
+| 21:40 | **Noahisthebestaltx**: Frost Dragon (FR) ×3, Hare (NR), Cow Calf (MR) | **AseesCr7GoesBoom**: Bat Dragon (FR) |
+| 21:40 | **ALTACCOUNTTT435**: Crystal Egg ×12 | **P8D3L**: Ride-A-Pet Potion |
+| 21:40 | **A_A3193**: Crystal Egg ×9 | **poshol_naxouPwP**: Pupcicle |
+| 21:40 | **MrMasterLTU**: Ride-A-Pet Potion ×2, Lion (R), Frost Fury | **nestinas**: Kangaroo (R) |
+| 21:40 | **Tofifi_1214**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Pet Handler Pro Certificate | **Manggo_Pie40**: Frost Fury (FR) |
+| 21:40 | **p_awth**: Arctic Reindeer | **aliir1875**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Dragon (NFR), Albino Bat (FR) |
+| 21:40 | **MistletoeMeg**: Frost Unicorn (R), Spring Bunny Feet | **eggsandtoast1232**: Unicorn Horn |
+| 21:40 | **sofcheke**: Matcha Cat (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×2, Unicorn | **estry_alas**: Sushi Penguin (MFR) |
+| 21:40 | **s_tvvrn**: Sugar Glider (FR) | **KBNHKA1246**: Ram (MFR) |
+| 21:40 | **ihitmyheadonwalls2**: Christmas Pudding Pup, Ride-A-Pet Potion | **isabella68078**: Pudding Cat (M) |
+| 21:40 | **thegiddys14**: Frost Dragon (FR), Crow (FR) | **PugpunterZev**: Evil Unicorn (FR) ×2, African Wild Dog (R), Turtle (FR), 2022 Birthday Party Hat, Unicorn Horn, Shark Puppy, Chocolate Dutch Guinea Pig |
+| 21:40 | **stoIencorpses**: Bready Necklace | **4qbxania**: Ride-A-Pet Potion |
+| 21:40 | **caxar_ok2351**: Scorching Kaijunior (NR) | **Rbd_JP**: Pet Handler Pro Certificate, Unicorn (NFR) |
+| 21:40 | **meliodas999q**: Ride-A-Pet Potion | **Leg0Car1Jellyfish**: Three Blind Mice (N) |
+| 21:40 | **kotikdimnvrt**: Axolotl (N), Fly-A-Pet Potion, Electric Hornet (N) | **MahaUbivaha323567**: Aurora Fox (R) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
