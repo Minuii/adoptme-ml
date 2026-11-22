@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 20:01 UTC by the scrape workflow._
+_Updated 2026-11-22 20:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 20:01 UTC by the scrape workflow._
 | amvgg | 12 | 45,102 | 2026-11-22T20:00 |
 | elve | 12 | 9,963 | 2026-11-22T20:01 |
 
-## AMVGG completed trades: 52,203 total
+## AMVGG completed trades: 52,273 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 4,895 |
+| 2026-11-22 | 4,965 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 20:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:00 | **Vathanayiy**: Candicorn (FR) | **franmdust**: Cozy Cabin |
-| 20:00 | **nothingto_crowww**: Cabbit (R), Spring Bunny Nose | **meg2270**: Chocolate Dutch Guinea Pig (MFR) |
-| 20:00 | **rubioOnYTalt1**: Strawberry Tortle (M) | **Gretavorxd**: Fairy Bat Dragon (MFR), Fairy Bat Dragon (FR) ×2, Fairy Bat Dragon (R), Fairy Bat Dragon ×2, Turtle (FR), Goth Shoes, Fly-A-Pet Potion ×3, Pupcicle |
-| 20:00 | **YTKA_StrayKids**: Gorilla (N), Albino Bat, Bobageist, Starfish, Frozen Penguin, Pomeranian, Fire Foal, Fairytale Egg, Endangered Egg | **TheEndlessFlower**: Ride-A-Pet Potion |
-| 20:00 | **illegalfartss**: Werewolf (FR), Tiny Wings | **Cutelover3579**: Strawberry Tortle (R) |
-| 20:00 | **Kxh7k**: Golden Petunia | **TheEndlessFlower**: Ride-A-Pet Potion |
-| 20:00 | **fksdkeoakam**: Munchkin Cat (MFR) | **KeineAhnungvonnix1**: Goose (NFR) |
-| 20:00 | **ariesdesire**: Copycat (MFR) | **ExpertChipmunkPro**: Red Dutch Guinea Pig (MFR), Fly-A-Pet Potion ×3 |
-| 20:00 | **chsyxj7**: Pupcicle | **iiam_nikiii**: Puffer Fish |
-| 20:00 | **Solcher_Ship**: Mr. Whiskerpips (MR), Banana Hat ×2 | **Quint0nxn**: Emberlight (M) |
-| 20:00 | **zombiemilkshakeEM**: Turtle (FR), Ghostly Cat (MR), Christmas Spirit (M), Golden Lettuce, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2, Winter Fawn (M) | **xXDestroyerCatXx**: Cow (FR) |
-| 20:00 | **ETM_TOPG**: Albino Monkey (R) | **seb_ihhh**: Pupcicle (M) |
-| 20:00 | **seb_ihhh**: Count Slothula (MFR) | **AMBER_SOLE**: Crocodile (FR) |
-| 20:00 | **ADOPMEBAT5**: Aussie Egg, Jester Dragon (NFR) | **sleepy_s0ren**: Siamese Cat (R) |
-| 20:00 | **EvadeCats1_2**: Dragonfruit Fox, Easter Egg Friends | **n0rmal_w1tch**: Yule Log Dog, Ride-A-Pet Potion |
+| 20:11 | **violet4everofc**: Chihuahua (MR), Burger Bear, Pain au Chat ×2 | **Kinl3ann**: Flower Power Duckling (MFR) |
+| 20:11 | **wizngs**: Munchkin Cat (MFR) | **Ehhh_09110**: 2022 Birthday Party Hat, Toaster Hat, Tiny Wings, Spring Bunny Hood, Grim Dragon (R), Vampire Dragon (FR) |
+| 20:11 | **Penutbutter1567**: Ladybug (R), Count Slothula | **Ashdorae**: Ride-A-Pet Potion |
+| 20:11 | **Shehatesme420**: Ride-A-Pet Potion | **maiivus1**: Eggnog Dog, Starhopper, Arctic Hare, Birthday Butterfly 2024, Chanekeh, Tree Frog, Cherub Chipmunk, Classic Teapot (N) |
+| 20:11 | **missy_Artz**: Sheeeeep (MFR) | **Ari_Blays**: 2022 Birthday Cake, Unicorn Horn, Rain Cloud Hat, Majestic Pony (MFR), Snowball Pet (MR) |
+| 20:11 | **bad_boss1235**: Pink Cat Ear Headphones | **ahojkakacahoj**: 1000 Bucks Silk Bag |
+| 20:11 | **evieebunnii**: Unicorn Horn, Rose Dragon (FR), Glacier Kitsune (R) | **iamfoxy2008**: Alpaca (R), Ride-A-Pet Potion, Unicorn, Bready Necklace |
+| 20:11 | **reserbadong2**: Crow (FR), Ride-A-Pet Potion | **vasya_mochnaya25**: Balloon Unicorn (FR), Christmas Pudding Pup |
+| 20:11 | **La_boyMich15**: Giraffe (NFR), Diamond Butterfly (NFR), Chocolate Chip Bat Dragon (NFR), Unicorn Horn, Arctic Fox (R), Ride-A-Pet Potion | **DarkPixel818**: Shadow Dragon (NFR) |
+| 20:11 | **RealisticAbbie**: Skelebat (N) | **jessica020705**: Pain au Chat |
+| 20:11 | **Martinple13**: Pain au Chat ×18 | **naomiloots**: Fly-A-Pet Potion ×4 |
+| 20:11 | **hotociara**: Thunderfisher | **jessica020705**: Retired Egg ×5 |
+| 20:11 | **happyfluffy510**: Rice Cake Rabbit (MFR), Black Macaque (MFR) | **AMBER_SOLE**: Unicorn Horn |
+| 20:06 | **Julee_Lov**: Ghost Wolf (M), Jiggly Jerboa (M) | **rioo0o123**: Fly-A-Pet Potion |
+| 20:06 | **krxadm3**: Crystal Egg ×16 | **0hhNatalia**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
