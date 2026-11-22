@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 19:55 UTC by the scrape workflow._
+_Updated 2026-11-22 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 44,839 | 2026-11-22T19:45 |
-| elve | 12 | 9,902 | 2026-11-22T19:46 |
+| amvgg | 12 | 45,102 | 2026-11-22T20:00 |
+| elve | 12 | 9,963 | 2026-11-22T20:01 |
 
-## AMVGG completed trades: 52,179 total
+## AMVGG completed trades: 52,203 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 4,871 |
+| 2026-11-22 | 4,895 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:55 | **luvyerh**: Lion (FR) | **Imrahmirthegreat9**: Crocodile (FR) |
-| 19:55 | **Emmieio**: Giraffe (FR), Pink Betta Fish (M), Pink Cat Ear Headphones, Pink Heart Glasses | **YouthfulNaivety**: Peppermint Penguin (MFR) |
-| 19:55 | **dorthew**: Christmas Pudding House | **ByteSt0rmrLR0cketV19**: Crystal Egg ×2 |
-| 19:55 | **bad_boss1235**: Bauble Buddies (NR), Pterodactyl (R), Frostbite Cub, Super Saru (R), Robo Dog (FR) | **hahatyn2024**: Pet Handler Pro Certificate ×2 |
-| 19:55 | **LAV1OMGXFAIRY**: Rain Cloud Hat, Sheeeeep, Polar Bear (R), Kookaburra ×2, Yule Log Dog, Binturong, Yeti, Lynx | **lolsoqrai46**: Lamb (MFR) |
-| 19:55 | **carlkilling**: Jester Dragon (FR) | **XDsmac1**: Fly-A-Pet Potion ×3 |
-| 19:55 | **Cutepatate088**: Dalmatian (FR), Candyfloss Chick (FR), Candyfloss Chick, Kangaroo (FR) ×2, Sailor Cap | **ongitos_oficial**: Parrot (FR) |
-| 19:55 | **sgtdcdtf**: Kangaroo (FR) ×2, Turtle (FR), Ride-A-Pet Potion ×12 | **Ilovedarya35**: Arctic Reindeer (FR) |
-| 19:55 | **AL1C3W0RLDD**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **meowieboogie**: Turtle (FR) |
-| 19:55 | **w1lllww**: Ice Cream Cone Hat | **Tena_IsPeakfr**: Unicorn (NFR) |
-| 19:55 | **BloodMenCloud**: Strawberry Tortle, Polar Bear (MFR) | **Chroniss0x**: Fairy Bat Dragon (NFR) |
-| 19:55 | **lQw0kss**: Dalmatian (FR) | **rr11nSk**: Siamese Cat (FR) ×4 |
-| 19:55 | **franmdust**: Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **00099hh1**: Siamese Cat (FR) |
-| 19:51 | **BLACKCAT202015**: Siamese Cat (FR), Siamese Cat (R), Siamese Cat, Lion Cub (R), Munchkin Cat (R), Fly-A-Pet Potion | **rr11nSk**: Fairy Bat Dragon (NFR) |
-| 19:51 | **Scarrscarrscar**: Pupcicle (MR), Panda (MFR), Strawberry Clip | **PR1NC3SS3_T4SNIM3**: Chocolate Dutch Guinea Pig (MFR) |
+| 20:00 | **Vathanayiy**: Candicorn (FR) | **franmdust**: Cozy Cabin |
+| 20:00 | **nothingto_crowww**: Cabbit (R), Spring Bunny Nose | **meg2270**: Chocolate Dutch Guinea Pig (MFR) |
+| 20:00 | **rubioOnYTalt1**: Strawberry Tortle (M) | **Gretavorxd**: Fairy Bat Dragon (MFR), Fairy Bat Dragon (FR) ×2, Fairy Bat Dragon (R), Fairy Bat Dragon ×2, Turtle (FR), Goth Shoes, Fly-A-Pet Potion ×3, Pupcicle |
+| 20:00 | **YTKA_StrayKids**: Gorilla (N), Albino Bat, Bobageist, Starfish, Frozen Penguin, Pomeranian, Fire Foal, Fairytale Egg, Endangered Egg | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 20:00 | **illegalfartss**: Werewolf (FR), Tiny Wings | **Cutelover3579**: Strawberry Tortle (R) |
+| 20:00 | **Kxh7k**: Golden Petunia | **TheEndlessFlower**: Ride-A-Pet Potion |
+| 20:00 | **fksdkeoakam**: Munchkin Cat (MFR) | **KeineAhnungvonnix1**: Goose (NFR) |
+| 20:00 | **ariesdesire**: Copycat (MFR) | **ExpertChipmunkPro**: Red Dutch Guinea Pig (MFR), Fly-A-Pet Potion ×3 |
+| 20:00 | **chsyxj7**: Pupcicle | **iiam_nikiii**: Puffer Fish |
+| 20:00 | **Solcher_Ship**: Mr. Whiskerpips (MR), Banana Hat ×2 | **Quint0nxn**: Emberlight (M) |
+| 20:00 | **zombiemilkshakeEM**: Turtle (FR), Ghostly Cat (MR), Christmas Spirit (M), Golden Lettuce, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2, Winter Fawn (M) | **xXDestroyerCatXx**: Cow (FR) |
+| 20:00 | **ETM_TOPG**: Albino Monkey (R) | **seb_ihhh**: Pupcicle (M) |
+| 20:00 | **seb_ihhh**: Count Slothula (MFR) | **AMBER_SOLE**: Crocodile (FR) |
+| 20:00 | **ADOPMEBAT5**: Aussie Egg, Jester Dragon (NFR) | **sleepy_s0ren**: Siamese Cat (R) |
+| 20:00 | **EvadeCats1_2**: Dragonfruit Fox, Easter Egg Friends | **n0rmal_w1tch**: Yule Log Dog, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
