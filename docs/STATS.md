@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-22 03:11 UTC by the scrape workflow._
+_Updated 2026-11-22 03:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 20 | 2026-11-11T1036Z | 2026-11-22T0116Z |
+| elve | 21 | 2026-11-11T1036Z | 2026-11-22T0316Z |
 | amvgg | 58 | 2026-11-11T1036Z | 2026-11-21T1816Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 27,734 | 2026-11-22T03:00 |
-| elve | 12 | 5,965 | 2026-11-22T03:01 |
+| amvgg | 12 | 27,980 | 2026-11-22T03:15 |
+| elve | 12 | 5,999 | 2026-11-22T03:15 |
 
-## AMVGG completed trades: 47,843 total
+## AMVGG completed trades: 47,848 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 535 |
+| 2026-11-22 | 540 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,11 @@ _Updated 2026-11-22 03:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:15 | **lolghwy3**: Goldhorn (MFR), Peachick (M) | **pdscatalex**: Harp Seal (MFR) |
+| 03:15 | **dnei30fast**: Ride-A-Pet Potion ×4 | **arseniylolol**: Lava Dragon (FR), Red Squirrel (FR) |
+| 03:15 | **it_isMushu**: Christmas Pudding House | **Wockillzzz2**: Ride-A-Pet Potion |
+| 03:15 | **lirancraft**: Cow (FR) | **vampmo_123**: Candicorn ×2 |
+| 03:15 | **0nlqm3**: Silverback Gorilla (MFR), Albino Monkey (FR), Tiny Wings | **xngelwingss**: Kangaroo (NFR), Goose (FR), Cow (FR), Turtle (FR) |
 | 03:11 | **pijgryj**: Black-Chested Pheasant (NFR), Arctic Fox (FR), Pet Handler Pro Certificate | **Rbd_JP**: Lava Dragon (M) |
 | 03:11 | **lifestyle1312**: Evil Unicorn (FR), Red Squirrel (FR) | **femglxm**: Hedgehog (FR) |
 | 03:11 | **tonyyy133378**: Strawberry Shortcake Bat Dragon (FR), Blazing Lion (R), Siamese Cat (FR) | **MIA_AA27**: Owl (FR) |
@@ -47,11 +52,6 @@ _Updated 2026-11-22 03:11 UTC by the scrape workflow._
 | 03:11 | **DarcyUnicorn123456**: Balloon Unicorn (NFR), Snow Monkey (MFR) | **Soniapol10**: Cabbit (MFR), Candicorn (MFR), Field Mouse (MFR) |
 | 03:11 | **GlimmerRose27**: Skelicorn (NFR), Ride-A-Pet Potion ×2, Unicorn Ducky (NR), Tawny Frogmouth (N) | **vfiffj574**: Pterodactyl (NR), Australian Kelpie (NR), Red Squirrel (R), Halloween Evil Dachshund (R), Albino Bat (R) |
 | 03:11 | **Amira_917181**: Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig (R), Rainbow Stroller, Ice Cream Stroller, Pancake Stack | **mimikjuice7**: Pig (FR) |
-| 03:11 | **coolsers28**: 2022 Birthday 5 Badge, Green-Chested Pheasant, Singularity Pisces | **Spooky_Aniyah**: 2022 Birthday Confetti Drape |
-| 03:11 | **Frs_88xx**: Ride-A-Pet Potion ×4 | **asdshfshs**: Zebra (NFR), Dragon (NFR), Golden Unicorn (NR), Ginger Cat (NFR) |
-| 03:11 | **anxme_lol**: 2022 Birthday Party Hat | **AMOANICOLE78**: 2022 Birthday Cake, Fly-A-Pet Potion |
-| 03:11 | **archi_chozza**: Pupcicle, Wyvern, Purrowl ×3 | **Av4xtrx4n**: Ride-A-Pet Potion |
-| 03:00 | **Yoogurt_Latte**: Starfish (N) | **SammBleu**: Raccoon |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
