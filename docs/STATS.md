@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 08:46 UTC by the scrape workflow._
+_Updated 2026-11-22 08:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 08:46 UTC by the scrape workflow._
 | amvgg | 12 | 33,303 | 2026-11-22T08:45 |
 | elve | 12 | 7,139 | 2026-11-22T08:46 |
 
-## AMVGG completed trades: 48,788 total
+## AMVGG completed trades: 48,852 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,480 |
+| 2026-11-22 | 1,544 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 08:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:45 | **nnseoi**: Kangaroo (FR), Border Collie (FR), Ride-A-Pet Potion | **M1cahsWRLD**: Cow (FR) |
-| 08:45 | **wskdaks**: Unicorn (M), Ride-A-Pet Potion, Crystal Egg ×7 | **PREPPY_ROBLOXWORLD1**: Unicorn (NFR), Arctic Fox (R) |
-| 08:40 | **NecorXax**: Goat (NFR), Pancake Stack | **adriel_24k**: Cow (FR) |
-| 08:40 | **glorimin21**: Frankenfeline, Hopbop, Garden Snake, Moonpine, Starmite, Scarecrow Cat | **Dasha_catlapa2008**: Flower Beret |
-| 08:40 | **pakhychHE**: Halloween White Ghost Dragon | **AutoTradeCommission**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 08:40 | **zpro_jumpeur**: Stray Cat Dragon ×7 | **Martinotschka**: Ride-A-Pet Potion |
-| 08:40 | **didi_qwqq**: Goose (FR), Pet Handler Pro Certificate | **Taseli934**: Yule Log Dog (M) |
-| 08:40 | **amethystpearlruby**: Cuddly Candle (R), Three Blind Mice, Admin Abuse Egg ×2 | **roblox_user_2641599159**: Ride-A-Pet Potion |
-| 08:40 | **NummieNummiegirl**: Dalmatian (NFR), Rhino (NFR), Polar Bear | **Ksusha_broooooo**: Balloon Unicorn, Goose, Fairy Bat Dragon (FR) |
-| 08:40 | **megasupper_profi**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat (FR), Ride-A-Pet Potion ×2 | **santiagoxdeleon**: Cabbit (NFR) |
-| 08:40 | **SEBY6105**: Cryptid (FR), Evil Unicorn (FR), Rosy Maple Moth (NFR) | **Takeitraw2**: Owl (FR) |
-| 08:40 | **dethxhellgrl**: Ride-A-Pet Potion | **bydaylight7931**: Retired Egg ×18 |
-| 08:40 | **clalouetciedh**: Ancient Dragon ×14 | **Martinotschka**: Ride-A-Pet Potion |
-| 08:40 | **Kirill123Valiev**: Brown Springer Spaniel (FR), Paint Sealer, 2026 Birthday Butterfly (N), Swordfish, Orca, Clumpty ×4, Granny Wolf ×4 | **iiSimplyxSkyexx**: Fly-A-Pet Potion |
-| 08:40 | **mapIedoIIy**: Cryptid (FR), Munchkin Cat (FR), Ghostly Cat (MFR), Golden Jaguar (MFR), Toaster Hat, Tiny Wings | **leruval**: Crow (FR) |
+| 08:55 | **mommy_vka123**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×5 | **odading12318**: Goat (R), Sheeeeep (R) |
+| 08:55 | **odading12318**: Goose | **ampnothingtorich09**: Fly-A-Pet Potion ×16 |
+| 08:55 | **angela_umerez4**: Owl (FR), Crow (FR), Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (FR), Zombie Buffalo (R) | **lotiedoll**: Shadow Dragon (FR) |
+| 08:55 | **clalouetciedh**: Ancient Dragon ×14 | **slivka_76**: Ride-A-Pet Potion |
+| 08:55 | **sakotfzg**: Fly-A-Pet Potion, Electric Hornet, Angus Cow (N) | **Bunny_189659**: Ride-A-Pet Potion ×2 |
+| 08:55 | **FranzKianGeducos10**: Ride-A-Pet Potion ×5, French Bulldog ×2 | **Queenayeshacutegirl**: Koala (MFR) |
+| 08:55 | **AnimeshnicaGELA**: Hedgehog (FR), Hedgehog (R), Fly-A-Pet Potion, Ride-A-Pet Potion, Llama (FR), Black-Footed Ferret (MR), Gingerbread Mouse (NR) | **ambersugoi**: Owl (FR) |
+| 08:55 | **king_93071**: Pink Cat (MR), Cow (FR), Cabbit, Spring Bunny Feet | **obv1skaily**: Parrot (FR) |
+| 08:55 | **wxollii**: Cryptid (FR) | **hxmun7**: Cow (FR) ×3 |
+| 08:55 | **sorrowpage**: Pupcicle, Stray Cat Dragon (N) | **headshotw0**: Chihuahua ×2, Dire Wolf, Ghost Wolf ×2 |
+| 08:55 | **zow_98alt**: Tiny Wings, Alley Cat | **wassupwithu**: Lava Dragon (NFR) |
+| 08:55 | **Aslyloving123**: Halloween White Ghost Dragon (FR) | **Yumi_Rose8**: Fly-A-Pet Potion ×2 |
+| 08:55 | **odading12318**: Unicorn (N) ×4, Unicorn (FR), Unicorn ×4 | **He_odtam**: Fly-A-Pet Potion ×10 |
+| 08:55 | **waydrown**: Goat (R), Dango Penguins, Fly-A-Pet Potion, Swan (R) | **plrbxs**: Alley Cat (NFR) |
+| 08:55 | **noname777skibidi**: Slimingo (NR), Ms. Muffet (N), Rubber Ducky (N), Aztec Egg, Dragonfly, Admin Abuse Box ×2 | **xenovyjay**: Fly-A-Pet Potion, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
