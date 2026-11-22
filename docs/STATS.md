@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 21:10 UTC by the scrape workflow._
+_Updated 2026-11-22 21:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 21:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 46,214 | 2026-11-22T21:00 |
-| elve | 12 | 10,185 | 2026-11-22T21:01 |
+| amvgg | 12 | 46,485 | 2026-11-22T21:15 |
+| elve | 12 | 10,205 | 2026-11-22T21:15 |
 
-## AMVGG completed trades: 52,582 total
+## AMVGG completed trades: 52,599 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,274 |
+| 2026-11-22 | 5,291 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 21:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:10 | **RIANAAAAA_293ue**: Biodome Home | **Flopsy154**: Ride-A-Pet Potion, Chocolate Dutch Guinea Pig |
-| 21:10 | **qSaori**: Mighty Haetyphoon Animated Sticker | **dead_pool455**: Rock (N) |
-| 21:10 | **ni1zuua**: Winged Tiger (FR) | **4revolutions**: Tiny Wings, Puptune (M) |
-| 21:10 | **lobo_16340**: Amethyst Skies Mega Neon Paint | **P50**: Chihuahua ×2 |
-| 21:10 | **vale_alzamora123**: Mermicorn | **crytihaamm**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×8 |
-| 21:10 | **d4rlingjazzy**: Ride-A-Pet Potion ×2 | **Zlota_Sofa**: Rain Hat, Rain Boots |
-| 21:10 | **flytomars67**: Kangaroo (R) | **zhqwexq**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×11 |
-| 21:10 | **Tijqertje**: Snowman (N) | **LaraIphone16e**: Gingerbread Hare ×2 |
-| 21:10 | **foramvgg8**: Dalmatian (MFR), Glormy Leo (MFR), Ring-Tailed Lemur (MFR), Brown Bear (MFR), Crocodile | **TrapitaAlexa**: Hedgehog (MFR) |
-| 21:10 | **Cutestbunny133ALT**: Arctic Fox (R) | **Getmeout_hai**: Lion Cub, Ride-A-Pet Potion |
-| 21:10 | **mikoseung**: Admin Abuse Egg ×8, Snow Cloud Wings | **DJ_4348**: Strawberry Stroller |
-| 21:10 | **flytomars67**: Ride-A-Pet Potion ×5 | **vrslztx0**: Chihuahua (N), Chihuahua ×4, Highland Cow, Great Pyrenees (R), Raccoon |
-| 21:10 | **B00R3D0M**: Chihuahua (N) | **bacon_clt0103**: Chocolate Dutch Guinea Pig |
-| 21:10 | **ilija0620**: Kangaroo (FR) ×8 | **carlkilling**: Crow (FR) |
-| 21:10 | **lovechaeyaa**: Kangaroo (NFR) | **thgbgu**: Cow (FR) |
+| 21:15 | **BLACKGLITTERKITTY**: Mini Pig | **Heloveskinsley_1**: Cow (FR), Spring Bunny Hood |
+| 21:15 | **C0PHYAK**: Copycat | **loveitjesuss**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 21:15 | **ButterMjlk**: Candicorn (FR), Border Collie (FR) | **Angelbatista_me2**: Cabbit (FR) |
+| 21:15 | **Altaccount14775**: Fairy Bat Dragon (MFR), Goose (FR), Rainbow Maker, Mini Schnauzer (N) | **KayleeSt0rm147**: Royal Mistletroll (MFR) |
+| 21:15 | **LUISMATEO3112**: Ride-A-Pet Potion | **ALTAMERANO10**: Pain au Chat, Kitty Bat |
+| 21:15 | **Yakkuji**: Fly-A-Pet Potion ×3 | **Milk_147017**: Nessie (FR) |
+| 21:15 | **DragonjJDusta107130**: Mermicorn | **AdoptMeHere03**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion |
+| 21:15 | **MiaGutu201**: Copycat (MFR), Ballet Swan (NFR), Stray Cat Dragon (MR), Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×3 | **qtplaysadoptme**: Arctic Reindeer (NFR) |
+| 21:15 | **TaPok228pon**: Turtle (NFR), Turtle (R), Crocodile, Amami Rabbit (MR) | **maks06062000**: Dalmatian (FR) |
+| 21:15 | **Kyrbii1**: Chocolate Dutch Guinea Pig (N) | **ambervgils**: Fly-A-Pet Potion ×3 |
+| 21:15 | **kiff_shik**: Dalmatian (FR) | **NoobA0M**: Unicorn Horn, Tiny Wings, Jellyfish (R), Seagull Yell Animated Sticker, Toaster Hat, Pupcicle (M), Great Pyrenees (M), Fly-A-Pet Potion, Amethyst Skies Mega Neon Paint |
+| 21:15 | **sukiwuk1**: Pet Handler Pro Certificate | **kiiurmah**: Ride-A-Pet Potion ×2 |
+| 21:15 | **crazykid2537**: Tree Sasquatch (M) | **Waysrrsd**: Catte |
+| 21:15 | **1moawajjunnie**: Count Slothula | **Yamenzoj**: Pupcicle |
+| 21:15 | **ThisIsntMyAcc9**: Unicorn Horn, Ride-A-Pet Potion ×2, Arctic Hare (N), Unfortunate Eyelashes, Leaf Hat ×2, Galaxy Explorer Helmet | **yurielui**: Sugar Glider |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
