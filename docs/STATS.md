@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 08:15 UTC by the scrape workflow._
+_Updated 2026-11-22 08:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 08:15 UTC by the scrape workflow._
 | amvgg | 12 | 32,801 | 2026-11-22T08:15 |
 | elve | 12 | 7,024 | 2026-11-22T08:15 |
 
-## AMVGG completed trades: 48,708 total
+## AMVGG completed trades: 48,748 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,400 |
+| 2026-11-22 | 1,440 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 08:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:10 | **hexyzbagoc31**: Strawberry Shortcake Bat Dragon (FR), Stray Cat Dragon (M) | **deltatheranga**: Pig, Cow, Fairy Bat Dragon (FR) |
-| 08:10 | **1velvetpaw**: Retired Egg ×18 | **unknown_282012a**: Ancient Dragon, Three Blind Mice, Purrowl ×3, Snow Puma |
-| 08:10 | **unknown_282012a**: Winter Doe, Samoyed, Ginger Cat, Japanese Snow Fairy, Tree Sasquatch, Gingerbread Wings | **1velvetpaw**: Retired Egg ×15 |
-| 08:10 | **kiwipoq**: Mexican Wolf (M), Pangolin (M) | **MakiraLive**: Ride-A-Pet Potion |
-| 08:10 | **stinky1906x**: White Chef Hat, Heart Hat, Orca | **neliadaaa**: Galaxy Explorer Helmet |
-| 08:10 | **Exx_mexUnU**: 2022 Birthday Cake, Unicorn Horn, 2022 Birthday Cupcake Shoes, 2022 Birthday Confetti Cannon ×2, 2022 Birthday Party Horn, Tiny Wings, Spring Bunny Hood, Spring Bunny Nose, 2022 Birthday Party Hat, Pig, Husky, Skeleton Winged Glider | **leruval**: Crow (FR) |
-| 08:10 | **impiggyomggggggggggg**: Alley Cat (MFR) | **M1NKIY**: Kiwi (MFR), Candyfloss Chick (R), Caterpillar (R), Sloth (R) |
-| 08:10 | **ETM_TOPG**: Strawberry Tortle, Ride-A-Pet Potion | **liofe1**: 2022 Birthday Party Hat, Chick Backpack, Chick Hat, Tan Chow-Chow, Chanekeh (M), Steppe Lion, Tealwood Monster, Water Opossum (N), Easter Egg Friends |
-| 08:10 | **ghljg7**: Lamb, Ram (R), Nautilus (NFR) | **lipton_milksh**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 08:10 | **kiwipoq**: River Otter (M) | **Kisa_Mika8**: Ride-A-Pet Potion |
-| 08:10 | **LaymushkaUwU**: Fly-A-Pet Potion | **Zlota_Sofa**: Mrs. Whiskerpips (M) |
-| 08:10 | **tguerx**: Crimson Cape (N), Pomeranian (N), Angus Cow (N), Gibbon (N), Ice Cube (N) | **evapro67lol**: Ride-A-Pet Potion |
-| 08:10 | **krovavaya_lyna**: Stray Cat Dragon, Dragonfly, Purrowl ×2, Mochi Meow, Admin Abuse Egg ×5, Fairytale Egg ×5, Gemstone Egg | **princess_pizzanice**: Ride-A-Pet Potion |
-| 08:10 | **Martinotschka**: Ride-A-Pet Potion | **kiwipoq**: Sushi Penguin |
-| 08:10 | **Ineedcake67**: Cow, Yule Log Dog (M), Scarlet Butterfly (MFR), Meerkat, Pet Handler Pro Certificate | **Taseli934**: Jester Dragon (MFR) |
+| 08:25 | **carolzinhac2009**: Puffin | **milesgabrie12**: Ride-A-Pet Potion ×5 |
+| 08:25 | **luvdokyeomie**: Ride-A-Pet Potion ×6, Ground Sloth (NR) | **milesgabrie12**: Sheeeeep |
+| 08:25 | **Zydac1**: Diamond Griffin ×16 | **Bryce_blr**: Fly-A-Pet Potion |
+| 08:25 | **herfaklo**: Lava Wolf | **Vii_TheLittleZ0mbie**: Slime |
+| 08:25 | **luvyerh**: Lion (R), Ride-A-Pet Potion | **loome587**: Lion (FR) |
+| 08:25 | **aydachan200311**: Ride-A-Pet Potion ×13 | **megasupper_profi**: Fly-A-Pet Potion ×7 |
+| 08:25 | **Yaypii3**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4, Brachiosaurus (MR), Count Slothula, Kiwi Kiwi ×2, Ranger Beaver, Bee (N), Dragon, Bubblegeist | **Glebasik_game**: Latte Kitsune (NFR) |
+| 08:25 | **SOAPpenup_2025**: Peppermint Penguin (R), 2022 Birthday Party Hat | **777pawzz**: Harp Seal (MFR), Moon Rabbit (MFR), Amami Rabbit (MFR) |
+| 08:25 | **didi_qwqq**: Winged Tiger (FR) | **ni1zuua**: Cake Friend (MR) |
+| 08:25 | **kiwipoq**: Crystal Egg ×18 | **mommy_vka123**: Ride-A-Pet Potion |
+| 08:25 | **NummieNummiegirl**: Ice Cream Hermit Crab (MR), Flower Power Duckling (MFR) | **isabella68078**: Blue Dog (N) |
+| 08:25 | **itsobvzxra**: Shark Puppy (MFR), Pupcicle (MFR) | **Btstvdyndynfy9**: African Wild Dog (FR), Cherry Blossom Hang Glider |
+| 08:25 | **ani6835**: Cupid Dragon (FR) | **MyWorldBloxGamer**: Vampire Dragon (FR) |
+| 08:25 | **peppeRBXx**: Ride-A-Pet Potion | **YupItsMe_Tyyu3**: Frankenfeline (N), Galapagos Sea Lion (N), Warthog (N), Little Lamb (N), Zebra (N), Budgie Witch (N), Mummy Spider (N) |
+| 08:25 | **Dodgemyhooks**: Mecha R4BBIT | **mjthe_bard**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
