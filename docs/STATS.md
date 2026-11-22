@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 04:46 UTC by the scrape workflow._
+_Updated 2026-11-22 04:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 04:46 UTC by the scrape workflow._
 | amvgg | 12 | 29,462 | 2026-11-22T04:45 |
 | elve | 12 | 6,344 | 2026-11-22T04:46 |
 
-## AMVGG completed trades: 48,133 total
+## AMVGG completed trades: 48,177 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 825 |
+| 2026-11-22 | 869 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 04:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:45 | **Gojos_butteryfoot**: Rainbow Maker, Sheeeeep (NFR) | **numbedsorrow**: Munchkin Cat (MFR) |
-| 04:45 | **ciciixpup**: Caelum Cervi (MFR), Elephant (MFR), Sandwich Hat | **kaylamicmi**: Sea Slug (MFR), Unicorn Horn, Purple Butterfly (MFR) |
-| 04:45 | **ael0v3**: Paint Sealer ×3, Admin Abuse Egg ×5, Admin Abuse Box ×5 | **Mikaylamareex**: Amethyst Skies Mega Neon Paint |
-| 04:45 | **eva_LovesBlue**: Dragonfruit Fox (FR), Phantom Dragon, Jester Dragon, Zombie Buffalo, Diamond Albatross | **samneva8614**: Red Dutch Guinea Pig |
-| 04:36 | **My_belovedwonwooo**: Unicorn (NFR), Candicorn (NFR), Panda (FR), French Bulldog (NR) | **JAJAJAN9199**: Turtle (NFR) |
-| 04:36 | **lapulisra**: Frost Unicorn (R) | **cherrymoon4441**: Lion, Ballet Swan, Dingo (M), Turkey (R), Dog (M) ×2 |
-| 04:36 | **CandyXXBloxyFam**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **GOGOLI_34258**: Sakura Spirit |
-| 04:36 | **sweetn6thing**: Ride-A-Pet Potion ×5 | **Bismuth234**: Spring Bunny Hood |
-| 04:36 | **Aranpro10101**: 2022 Birthday Cake, Dog | **frogie_948**: French Bulldog (MFR), Jeff's Nametag, 2022 Birthday 5 Badge |
-| 04:36 | **violencesoul**: Pupcake (MFR), Dugong (M), Hippo (MR), Fly-A-Pet Potion | **abdoosaad**: Candyfloss Chick (FR), Orange Butterfly, Kiwi Kiwi ×2, Diamond Griffin |
-| 04:36 | **FlyToTheSaturn**: Otter (NR), Mouse (NR), Ant (R), Dingo (N), Seahorse, Pilot Gull, Wolf ×2, Chick, Kid Goat (N), Robin, Tasmanian Tiger | **rainbowuncorngirly**: Fly-A-Pet Potion |
-| 04:36 | **itzme_Mochiforever**: Moon Rabbit (MR), Chicken | **ITSMECINNAADDMEBACKK**: Pretty Pony (MFR) |
-| 04:36 | **PuhonaBeri**: Owl (FR) ×3, Owl (R), Ride-A-Pet Potion | **cnjsdmonlu**: Bat Dragon (FR) |
-| 04:36 | **cnjsdmonlu**: Giraffe (NFR), Arctic Reindeer (FR), Ride-A-Pet Potion | **tokki0000**: Bat Dragon (FR) |
-| 04:36 | **MissCupcakeAlexYt**: Ghostly Cat (M) | **adoptmejourney83**: Spring Bunny Hood |
+| 04:55 | **BryAMillion**: Mule (MFR), Mini Schnauzer (MR) | **sil3nttiger81**: Diamond Butterfly (FR) |
+| 04:55 | **Fan_deJennaO**: Tiny Wings | **CAXAPOK_1122332**: Ride-A-Pet Potion ×9 |
+| 04:55 | **cowicutesy**: Cabbit, Sugar Glider (FR), Polar Bear, Zombie Buffalo, Christmas Pudding Pup | **Roblo_mmm**: Chocolate Chip Bat Dragon (FR) |
+| 04:55 | **AyiGamerUwu**: Velvet Fuchsia Mega Neon Paint, Pink Designer Backpack | **Barssformarss**: Ride-A-Pet Potion |
+| 04:55 | **JorgeEduardo_123**: Tortoiseshell Guinea Pig, Jester Dragon, Princess Carriage, Prince Carriage | **wx8zqxx**: Kangaroo (FR) |
+| 04:55 | **lavamanos88**: Ride-A-Pet Potion ×9 | **Bumble_Lou**: Rooster (MFR) |
+| 04:55 | **Robloxiant7s9h4u0b**: Fairy Bat Dragon (NFR), Werewolf (R), Spring Bunny Hood, Ride-A-Pet Potion ×2, Chihuahua | **lovelygirlheha**: Cryptid (FR) |
+| 04:55 | **723mik**: Little Lamb ×2 | **Candytheunicorn93**: Bee |
+| 04:55 | **DeoKyleSonic**: Shark Puppy, Alpaca (R), Munchkin Cat (N), Ride-A-Pet Potion | **eliijahnextdoor**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:55 | **kelixnz**: Cattuccino | **Cuc0_Sad**: Retired Egg ×18 |
+| 04:55 | **arseniylolol**: Fairy Bat Dragon (FR), Kangaroo (FR), Sushi Penguin (M) | **reserbadong2**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:55 | **fairyqxfaee**: Blue Ringed Octopus, Gingerbread Reindeer, Clownfish | **Marwinjrrr**: Ride-A-Pet Potion |
+| 04:55 | **Ilikemycat201**: Angus Bull ×3, Bubblegeist ×2, Green-Chested Pheasant ×3, Dragon ×3, Dragonfly ×2, Huntsman Robin | **Ryandelpozo28**: Yeti ×2, Binturong |
+| 04:55 | **hellin_flames**: Bunny ×12 | **Thebossoflaughter**: Lemonade Stand |
+| 04:55 | **nekoDoraemon**: Winged Tiger (R), Platypus (FR) | **Tomas_will18**: Pupcicle (M) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
