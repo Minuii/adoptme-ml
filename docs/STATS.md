@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 06:16 UTC by the scrape workflow._
+_Updated 2026-11-22 06:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 06:16 UTC by the scrape workflow._
 | amvgg | 12 | 30,846 | 2026-11-22T06:15 |
 | elve | 12 | 6,643 | 2026-11-22T06:15 |
 
-## AMVGG completed trades: 48,374 total
+## AMVGG completed trades: 48,381 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,066 |
+| 2026-11-22 | 1,073 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,13 @@ _Updated 2026-11-22 06:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:25 | **Ruperto_1297**: Matcha Cat | **ajoloteflac1900**: Copycat, Ride-A-Pet Potion ×2 |
+| 06:25 | **ellielielielieee**: Fly-A-Pet Potion | **ajoloteflac1900**: Easter Egg Stroller |
+| 06:25 | **wivvyxly**: Billy Goat (MFR), Rainbow Stroller, 2022 Birthday Confetti Drape, Water Rabbit | **anyonecanwish**: Lynx (MFR) |
+| 06:25 | **girlbyegirl12**: Ride-A-Pet Potion ×2 | **ajoloteflac1900**: Glider |
+| 06:25 | **L0VEKARS0N**: Rainbow Maker | **LionTamer163**: Tortoiseshell Guinea Pig (NFR) |
+| 06:25 | **Smileydreamx21**: Aussie Egg | **winterbaby528**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
+| 06:25 | **ann_kiki44**: Velocirooster, Cow Calf (FR), Pandaguin Glooptodog (N), Ant (M), Shoebill (N), Ginger Cat (N), Purrowl, Stray Cat Dragon, English Sheepdog, Highland Cow, Chihuahua, Hovertible ×2, Hot Rod Sleigh, Hot Air Balloon, Paint Sealer, Kraken Hat, Growing Flower Hat | **Joelzoz**: Flash Weasel |
 | 06:15 | **qeruigo**: Fly-A-Pet Potion ×2 | **mymylamoo1**: Millionaire Mansion |
 | 06:15 | **OnlyZizzz**: Hotdog Stand ×2, Lemonade Stand ×6, Kangaroo Pogo ×2 | **flasguim**: Ride-A-Pet Potion |
 | 06:15 | **Lqvari**: 2022 Birthday Cake, Fairy Bat Dragon (R), Crow | **fr_xdude**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR), Goose (FR) |
@@ -45,13 +52,6 @@ _Updated 2026-11-22 06:16 UTC by the scrape workflow._
 | 06:15 | **realacckeira8v**: Frosty Glow Mega Neon Paint, Halloween Slime Mega Neon Paint, Candyfloss Mega Neon Paint, Tropical Surge Mega Neon Paint, Velvet Fuchsia Mega Neon Paint, Amethyst Skies Mega Neon Paint, Electric Tide Mega Neon Paint, Candy Flare Mega Neon Paint | **Fr0styZo3streamsDev**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
 | 06:15 | **Magic_1234nya**: Purrowl ×10 | **dilanfabian13**: Ride-A-Pet Potion |
 | 06:15 | **Aranpro10101**: Unicorn Horn | **violencesoul**: Golden Walrus (MFR) |
-| 06:15 | **TeddyBear20q**: Shiver Wolf (MFR), Scarlet Butterfly (MFR) | **TANSKlN**: Mecha Meow (MFR) |
-| 06:15 | **itz_nastyalik**: Squid, Kiwi Kiwi | **farm2266**: Ride-A-Pet Potion |
-| 06:15 | **Reya426**: Vanilla Penguin (N), Matcha Cat, Kitty Bat (NFR), Golden Lettuce, Husky (FR), Dire Wolf (M), Chihuahua ×4 | **evvixks**: Turtle (FR) |
-| 06:15 | **obvits_asianaa**: Snow Owl (R) | **wiirlutg**: Puptune, Zodiac Minion Chick, Coconut Friend, Kelp Raider Box ×3 |
-| 06:15 | **kaxuu_u**: Thunderfisher ×4, Fairytale Egg ×5 | **Worth1c**: Crystal Egg ×4 |
-| 06:15 | **kristi1i1i**: Skelicorn, Mummy Spider | **ari_by2002**: Ocelot ×9 |
-| 06:15 | **Ruperto_1297**: Kangaroo (R) | **tunyaooi**: Ride-A-Pet Potion ×15 |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
