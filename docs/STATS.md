@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 17:01 UTC by the scrape workflow._
+_Updated 2026-11-22 17:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 17:01 UTC by the scrape workflow._
 | amvgg | 12 | 41,863 | 2026-11-22T17:00 |
 | elve | 12 | 9,311 | 2026-11-22T17:01 |
 
-## AMVGG completed trades: 51,174 total
+## AMVGG completed trades: 51,245 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 3,866 |
+| 2026-11-22 | 3,937 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 17:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:55 | **sofia_sofiko**: Malaysian Tapir (N), Sweetheart Rat (N), Alien Eyes Hat, Reindeer, Count Slothula, Reindeer (FR), Respectful Mustache, Corndog Mustache, Retired Egg ×10 | **shinobukoX3**: Goat (F) |
-| 16:55 | **callme_maska**: Panda (MFR), Red Sand Dollar (N) | **amvggholder**: S'mores Raccoon (M), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 16:55 | **DED_XD60**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **carlkilling**: Munchkin Cat (R) |
-| 16:55 | **viltpool**: Cattuccino (MR), Chicken | **mateomylove0**: Waffle Wyrm (MFR) |
-| 16:55 | **BnnmOPQ**: Turtle (NFR), Shark Puppy (FR), Zombie Buffalo (R), Black Dog (N), Ride-A-Pet Potion ×3 | **Sydrexus**: Chocolate Chip Bat Dragon |
-| 16:55 | **obvitiana**: Harp Seal (MR), Rhino, Ghostly Cat (N) | **yutoffee**: Field Mouse (NFR) |
-| 16:55 | **idontknowman981**: Giant Panda (NFR), Peahen (N), 2D Doggy | **nikiph9w**: Haetae (NFR), Christmas Pudding Pup (MFR), Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Horn |
-| 16:55 | **simbabycool77**: Sasquatch (M) | **Aysel587778**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 16:55 | **jazunica22**: Pupcicle (N), Ride-A-Pet Potion ×2 | **Kanei_olks**: Jester Dragon (R) |
-| 16:55 | **6_zeb**: Peppermint Penguin (NFR), Candyfloss Chick, Ride-A-Pet Potion ×5, Pet Handler Pro Certificate ×3 | **goku233289**: Giant Panda (FR) |
-| 16:55 | **Skz_bts176**: Christmas Pudding Pup (NFR), Christmas Pudding Pup (R), Spring Bunny Nose | **Mary_Andrev1213**: Peppermint Penguin (FR), Fly-A-Pet Potion |
-| 16:55 | **DrinklngMilk**: Dingo (M) | **Alisa_cool2005**: Ride-A-Pet Potion |
-| 16:55 | **saints22819**: Hot Doggo (FR), Kangaroo (NFR), Cow (R) | **xngelwingss**: Ride-A-Pet Potion ×3, Evil Unicorn (FR) |
-| 16:55 | **fayesweet13**: Munchkin Cat (R) | **igvxruu**: Bunny Swirl (MFR) |
-| 16:55 | **saints22819**: Jester Dragon (NR), Ride-A-Pet Potion | **narasha34de**: Cow |
+| 17:11 | **xXfayridreamXx**: Cabbit (R), Ride-A-Pet Potion | **fabulous123Jess**: Alpaca (FR), Jousting Horse (R), Copycat |
+| 17:11 | **ssoftasabunny**: Werewolf (R), Cerberus (FR) | **Helenao6edn**: Siamese Cat |
+| 17:11 | **MM_Cloud**: Crystal Egg ×15 | **pusheen83210**: Ride-A-Pet Potion |
+| 17:11 | **gjfurgd1234**: Majestic Pony (MFR) | **floatiinqz**: Goose (FR), Chihuahua (M), Ride-A-Pet Potion |
+| 17:11 | **elproXD_7v7**: Pain au Chat ×3 | **kvzttn**: Ride-A-Pet Potion |
+| 17:11 | **ali_dekutodoroki**: Rosy Maple Moth, Tanuki | **u180Danka180u**: Tarsier |
+| 17:11 | **Speeddrawaccaount2**: Halo | **rastafarismo10**: Cow (FR) |
+| 17:11 | **Cats_forerina**: Sloth (NFR), Chocolate Dutch Guinea Pig (R) | **monte_mt3OwO**: Corn Doggo (R) |
+| 17:11 | **hgfctfdyt**: Easter Bunny (N), Diamond Dragon ×2, Alicorn, Mochi Meow, Purrowl, Birthday Butterfly 2024 (R), Gemstone Egg ×2 | **lipton_milksh**: Fly-A-Pet Potion |
+| 17:11 | **TheAddictedSpider**: Crystal Egg ×8 | **mjthe_bard**: Pain au Chat |
+| 17:11 | **fiasmail**: Matcha Cat (NFR), Matcha Cat (NR), Matcha Cat (N), Matcha Cat (R), Matcha Cat ×3, Ice Cream Cone Hat, Fly-A-Pet Potion | **peachieskiwi**: Matcha Cat (MFR) |
+| 17:11 | **Tanya_tot**: Meerkat (R) | **Cats_ILike5**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 17:11 | **Cloudyxxvibezzz545**: Ram (MFR), Unicorn Horn | **jayleen_cute100**: Dragonfruit Fox (MFR) |
+| 17:11 | **detective_emilly**: Zombie Wolf (MR) | **ddeonuml**: Harp Seal (MFR) |
+| 17:11 | **10maya_140311**: Snowball Pet (NR), Royal Palace Spaniel (NFR), Sloth (NFR), Scarlet Butterfly (NR), Clownfish (MFR), Ride-A-Pet Potion | **Cwqxlly**: Water Rabbit (MFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
