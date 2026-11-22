@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 06:40 UTC by the scrape workflow._
+_Updated 2026-11-22 06:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 06:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 31,096 | 2026-11-22T06:30 |
-| elve | 12 | 6,694 | 2026-11-22T06:31 |
+| amvgg | 12 | 31,317 | 2026-11-22T06:45 |
+| elve | 12 | 6,744 | 2026-11-22T06:46 |
 
-## AMVGG completed trades: 48,423 total
+## AMVGG completed trades: 48,424 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,115 |
+| 2026-11-22 | 1,116 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,7 @@ _Updated 2026-11-22 06:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:45 | **Vannesa45123**: Happy Clam (R) | **mmand_arinka**: Owlbear |
 | 06:36 | **asdshfshs**: Lamb (R), Lamb | **serspect**: Ride-A-Pet Potion ×3 |
 | 06:36 | **sibbilllll**: Copycat ×2, Cupid Dragon, Fly-A-Pet Potion ×2 | **PIasticTree**: German Shepherd (MFR) |
 | 06:36 | **deadlylifty**: Pet Handler Pro Certificate, Bee (N) | **thebiteof87x7**: Ride-A-Pet Potion ×2 |
@@ -51,7 +52,6 @@ _Updated 2026-11-22 06:40 UTC by the scrape workflow._
 | 06:36 | **Yizukixx**: Bat (MFR) | **SaltnPepperStuff**: Ride-A-Pet Potion ×4 |
 | 06:36 | **candi1222255**: Meerkat (NFR) | **Nyutka2010**: Unicorn Horn |
 | 06:36 | **silkenrainfall**: Copycat | **Bumble_Lou**: Monkey (MFR), Ladybug (N) |
-| 06:36 | **lpsaie**: 2022 Birthday Cupcake Shoes | **meg2270**: Pupcicle (MFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
