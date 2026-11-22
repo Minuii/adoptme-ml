@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 22:41 UTC by the scrape workflow._
+_Updated 2026-11-22 22:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 22:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 47,768 | 2026-11-22T22:30 |
-| elve | 12 | 10,496 | 2026-11-22T22:31 |
+| amvgg | 12 | 48,027 | 2026-11-22T22:45 |
+| elve | 12 | 10,535 | 2026-11-22T22:46 |
 
-## AMVGG completed trades: 52,968 total
+## AMVGG completed trades: 52,990 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,660 |
+| 2026-11-22 | 5,682 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 22:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:41 | **LazyLibra_64**: Haetae (FR) ×2, Haetae (R), Winged Tiger (R) | **altheheyk**: Mini Pig (MFR) |
-| 22:41 | **mylolovescats**: Polar Bear (FR), Arctic Fox, Skunk (MR), Cattuccino (MFR) | **Dangermousefan0**: Ranger Beaver (MFR), Toasty Red Panda (MFR) |
-| 22:41 | **Jollyfun213**: Crystal Egg ×14 | **EdenTheClown07**: Ride-A-Pet Potion |
-| 22:41 | **TuffTuffTuff_Sahur67**: Cryptid (FR), Cryptid | **AnimeshnicaGELA**: Owl (FR) |
-| 22:41 | **C0PHYAK**: Kangaroo (FR) ×11 | **theseller63**: Owl (FR) |
-| 22:41 | **kelixnz**: Cattuccino | **oOWilDig0n0oO**: Fairytale Egg ×18 |
-| 22:41 | **Light_Moon8461**: Silly Duck (MFR), Fly-A-Pet Potion ×2 | **Trop1cxlMe1on**: Matcha Cat (N) |
-| 22:36 | **qzxes4r**: Catte, Cattuccino | **scvnilla**: Ride-A-Pet Potion |
-| 22:36 | **toybeau772**: Unicorn (N) | **putridiecro**: Ostrich, Punk Pony, Bauble Buddies, Clownfish ×2, Gingerbread Reindeer, Sweetheart Rat, Toy Poodle, Deinonychus, Hydra, Kappakid ×2, Gingerbread Hare, Steppe Lion ×2, Snow Leopard, Brown-Chested Pheasant, Giant Black Scarab |
-| 22:36 | **pwlushyyzz**: Owl (FR), Evil Unicorn (MFR) | **6smng**: Cryptid (MFR) |
-| 22:36 | **rooz_thedemon266**: Skelicorn (NR) | **valentinaemmz**: Ride-A-Pet Potion |
-| 22:36 | **KimikoYuka**: Ride-A-Pet Potion | **rrstockxadm**: Crystal Egg ×17 |
-| 22:36 | **x3mzv**: Goose (MFR), Crow (FR), Blazing Lion (R), Strawberry Shortcake Bat Dragon (FR), Cow (FR), Alpaca ×2, Cherry-On-Top, Rain Cloud Hat | **Fortnite_gawd59onyt**: Giraffe (NFR) |
-| 22:36 | **shimotheseal**: Sweetheart Rat (MR) | **S3rennx**: Rice Cake Rabbit (M) |
-| 22:36 | **hgd8381**: Blazing Lion (R), Blue Egg | **AutoTradeCommission**: Crow |
+| 22:45 | **Etherpixie4321**: Red Dutch Guinea Pig (MFR), Chocolate Dutch Guinea Pig (MFR) | **ccrowfeather**: Cryptid (FR) |
+| 22:45 | **Danila121219**: Fly-A-Pet Potion ×12 | **svrodrii2**: Turtle (FR) |
+| 22:45 | **BLACKCAT202015**: Gingerbread Reindeer | **XDonaltroniskersonX**: Snow Leopard |
+| 22:45 | **cutesydals**: Chihuahua (M) | **Applceider**: Feesh (MFR) |
+| 22:45 | **urm4mx**: Crystal Egg ×12 | **P8D3L**: Ride-A-Pet Potion |
+| 22:45 | **popadastr000**: Christmas Pudding Pup, Christmas Pudding Pup (R) | **emsgrax**: Dango Penguins (NR) |
+| 22:45 | **1Wrgte**: Unicorn | **Kitty5645129**: Bunny Swirl |
+| 22:45 | **reaper_pickles**: Halloween Slime Mega Neon Paint, Candy Flare Mega Neon Paint | **iridescenite**: Ride-A-Pet Potion |
+| 22:45 | **jetedispas212**: Arctic Fox (R), Strawberry Penguin, Wood Pigeon | **ghostqsinz**: Elephant (FR) |
+| 22:45 | **1mpactOO**: Mecha Meow (MFR), Cute-A-Cabra (M), Malaysian Tapir (M), Amami Rabbit (MFR), Water Moon Bear (MR), Bloodhound (M) | **theseller63**: Winged Tiger (NFR) |
+| 22:45 | **gavinmrgoon**: Banana Hat, Ice Cream Hermit Crab, Cotton Candy Hat | **Panci_Terbang33**: Fly-A-Pet Potion ×2 |
+| 22:45 | **Carinacatalinasa**: Cow (FR), Chocolate Dutch Guinea Pig (MFR), Kangaroo (FR) ×2, Kangaroo, Mini Pig (FR), Drake (N), Alley Cat, Stray Cat Dragon (M), Pupcicle ×2, Sneak Weasel (M), T-Rex, Ride-A-Pet Potion | **Heybrohs1526**: Parrot (FR) |
+| 22:45 | **Jupiter2Jupi**: Shiver Wolf, Chocolate Dutch Guinea Pig ×2, Yeti, Bunny Swirl, Puptune, Ride-A-Pet Potion | **Pidilypops2nd**: Cupid Dragon (FR) |
+| 22:45 | **Aggr0berlin**: Snow Cat (M), Spider Crab, St Bernard | **antonia_0266**: Moon Rabbit |
+| 22:45 | **Glizzyvvs_0**: Chocolate Dutch Guinea Pig, Firefly, Moon Rabbit, Pain au Chat | **antonia_0266**: Red Dutch Guinea Pig |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
