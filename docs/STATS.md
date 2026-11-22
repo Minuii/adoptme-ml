@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 21:46 UTC by the scrape workflow._
+_Updated 2026-11-22 21:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 21:46 UTC by the scrape workflow._
 | amvgg | 12 | 46,974 | 2026-11-22T21:45 |
 | elve | 12 | 10,316 | 2026-11-22T21:46 |
 
-## AMVGG completed trades: 52,754 total
+## AMVGG completed trades: 52,760 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,446 |
+| 2026-11-22 | 5,452 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,12 @@ _Updated 2026-11-22 21:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:51 | **miirxlla**: Ride-A-Pet Potion ×5, Golden Petunia | **Lxdyxx**: Jester Dragon |
+| 21:51 | **Starlightstarzz**: Giraffe (FR), Chocolate Dutch Guinea Pig (NR), Chocolate Dutch Guinea Pig (N), Tuxedo Cat (MFR), Kangaroo (NFR), Cow (FR), Candicorn (NR), Swan (NFR), Snowman (MFR), Frostbite Bear, Catte (NR), Ride-A-Pet Potion ×2 | **theseller63**: Shadow Dragon (FR) |
+| 21:51 | **Xxxxashhhh**: Fly-A-Pet Potion ×4 | **Angelbatista_me2**: Arctic Fox (R) |
+| 21:51 | **Olusia_219**: Chocolate Dutch Guinea Pig ×3 | **iloveicecream34159**: Field Mouse |
+| 21:51 | **Xxxxashhhh**: Pet Handler Pro Certificate ×15 | **rafael32087**: Cow |
+| 21:51 | **Xxxxashhhh**: Pet Handler Pro Certificate ×16 | **rafael32087**: Goose (FR) |
 | 21:45 | **kdkejwjsjd**: Kelp Captain (MFR) | **Addisonraeee25**: Sushi Penguin (MFR) |
 | 21:45 | **Imheretoplay_doors**: Copycat, Retired Egg ×11, Dotted Eggy | **enggg0o0**: Dragonfruit Fox |
 | 21:45 | **theseller63**: Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **kjm_5741**: Balloon Unicorn (FR), African Wild Dog (FR), Irish Water Spaniel (MFR), Peppermint Penguin (NFR), Ballet Swan (MFR), Shark Puppy (NFR), Siamese Cat (NFR), Mini Pig (FR) ×2, Alpaca (R), Frost Unicorn (FR), Kangaroo (R) |
@@ -46,12 +52,6 @@ _Updated 2026-11-22 21:46 UTC by the scrape workflow._
 | 21:45 | **xx_sunny2003**: Panda (MFR) | **Robloxiana_xxx2011**: Unicorn Horn |
 | 21:45 | **xx_sunny2003**: Fly-A-Pet Potion ×3 | **s_tvvrn**: Ice Cream Cone Hat |
 | 21:45 | **lala543210g**: Boohoo (N), Caramelgeist (N) | **nimalina463**: Christmas Pudding House |
-| 21:45 | **mellstroy620**: Fly-A-Pet Potion | **floralplum**: Pet Handler Pro Certificate |
-| 21:45 | **hensij3n**: Fairy Bat Dragon (R) | **elys1anaa**: Cabbit (R), Retired Egg ×17 |
-| 21:45 | **K0qwry**: Ghost Kitty Backpack | **PiesekTubson**: Lunar New Year Collar |
-| 21:45 | **adoptmetrading1543**: Red Sand Dollar | **PiesekTubson**: Brain Jar |
-| 21:45 | **Robloxiscool_921**: Cow (FR), Ride-A-Pet Potion | **DragonjJDusta107130**: Goose (FR) |
-| 21:45 | **ogigiutfftf**: Bat Dragon (FR), Ghost Bunny (MFR), Winged Horse (MFR), Drake (MFR) | **6smng**: Cryptid (MFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
