@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-22 01:11 UTC by the scrape workflow._
+_Updated 2026-11-22 01:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 19 | 2026-11-11T1036Z | 2026-11-22T0015Z |
+| elve | 20 | 2026-11-11T1036Z | 2026-11-22T0116Z |
 | amvgg | 58 | 2026-11-11T1036Z | 2026-11-21T1816Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 25,651 | 2026-11-22T01:00 |
-| elve | 12 | 5,542 | 2026-11-22T01:01 |
+| amvgg | 12 | 25,908 | 2026-11-22T01:15 |
+| elve | 12 | 5,572 | 2026-11-22T01:15 |
 
-## AMVGG completed trades: 47,511 total
+## AMVGG completed trades: 47,528 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 203 |
+| 2026-11-22 | 220 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,41 +37,41 @@ _Updated 2026-11-22 01:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:11 | **BrittanyLynne2002**: Shark Puppy (FR) | **perrito_bluberry**: Spinning Cat Animated Sticker |
-| 01:11 | **Eddensss**: Queen Bee (MFR), Cerberus (MFR) ×3, Volcanic Rhino (MFR), Spinosaurus (MR), Gargoyle (MFR), Phantom Dragon (NR), Cake Friend (MFR), Kitty Bat (MFR), Black Macaque (MFR), Siamese Cat, Undead Jousting Horse, Aestus (MFR), Pink Cat, Candicorn (NR), Propeller Hat, Kangaroo (NFR) | **ANDY_245780**: Strawberry Shortcake Bat Dragon (MFR) |
-| 01:11 | **jungkookmykookie4**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate ×2, Pancake Stack | **Luxuriousnights**: 2022 Birthday Confetti Cannon |
-| 01:06 | **Addmymainpls2332**: Fairy Bat Dragon (MFR), Great Pyrenees (MFR), Alley Cat | **faebnny**: Caterpillar (MFR), Scorching Kaijunior (MFR) |
-| 01:06 | **ImInKissland**: Ride-A-Pet Potion ×5 | **Lunarysqwwx**: Unicorn (NFR) |
-| 01:06 | **op_con0**: Turtle (FR) | **LyraFusion**: Frost Fury (FR), Dodo (FR), Alley Cat (NR), Cactus Friend, Candy Hare, Mushroom Friend, Mochi Meow (NR) |
-| 01:06 | **chhcciijjjkk**: Elephant (FR), Ride-A-Pet Potion ×2 | **AsichkaAAQ**: Kangaroo (FR) |
-| 01:06 | **Lex_3332**: Shadow Dragon Ducky (NFR), Shadow Dragon Ducky (NR) | **Xxsunflower_watherxX**: Fly-A-Pet Potion ×2 |
-| 01:06 | **biq_at222**: Kangaroo (MFR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Charli15490**: Turtle (NFR), Shark (MFR), Puffer Fish (MFR) |
-| 01:06 | **xXxjoongixXx**: Sakura Spirit | **thyrrone1**: Ride-A-Pet Potion ×5 |
-| 01:06 | **bobafavoruite173**: Christmas Pudding Pup, Catte | **AawHxLucY**: Eggnog Dog (M) |
-| 01:06 | **MARYM3E**: Fairy Bat Dragon (NFR), Zombie Wolf (NFR), Ginger Cat (MR), Ride-A-Pet Potion | **wldnsdlrnldudna**: Goose (NFR) |
-| 01:06 | **KirbyCubee**: 2022 Birthday Cupcake Shoes, Rain Cloud Hat, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **MallyaFFka**: Mini Pig (R) |
-| 01:06 | **pepe546653**: Owl (FR), Strawberry Shortcake Bat Dragon (FR), Jester Dragon, Ride-A-Pet Potion | **KennyMcCormick067**: Frost Dragon (FR) |
-| 01:06 | **tezza4real**: Cryptid (NFR), Tiny Wings | **yandere2002chan**: Strawberry Shortcake Bat Dragon (FR), Unicorn Horn, Balloon Unicorn (FR), 2022 Birthday Party Horn |
+| 01:15 | **adoptmelover67684**: Ride-A-Pet Potion | **jellofox2009**: Paint Sealer ×15 |
+| 01:15 | **Famixvx**: Turtle (FR) | **zombiemilkshakeEM**: Ghost Bunny (MFR), Shiver Wolf (N) |
+| 01:15 | **zombiemilkshakeEM**: Pangolin (M), Bolt (M) | **tripawisy**: Ride-A-Pet Potion |
+| 01:15 | **zombiemilkshakeEM**: DJ Snooze (N) | **Usagymnastics8**: Jacobin Pigeon (M) |
+| 01:15 | **ellielielielieee**: Hamster Selfie Sticker, Eaten Donut | **pmpjmg1**: Unicorn Leash |
+| 01:15 | **Kxxr9**: African Wild Dog (FR), Cupid Dragon (NFR), Frost Unicorn (FR), Kangaroo (FR), Chocolate Chip Bat Dragon (FR) | **tokki0000**: Parrot, Evil Unicorn |
+| 01:15 | **Scarrscarrscar**: Frostbite Cub (MFR), Ride-A-Pet Potion, Tan Chow-Chow (MFR) | **RoseGold_101010**: Panda (MFR) |
+| 01:15 | **star_mo0ney**: Pet Handler Pro Certificate | **Kitty5645129**: Mochi Meow (M) |
+| 01:15 | **dsjquw72hs**: Ride-A-Pet Potion ×7 | **KomaruDissapear**: Chinese Lantern |
+| 01:15 | **ale_45874**: Shadow Dragon (FR), Cow (FR) | **therealkayt67**: Giraffe (FR), Owl (FR) |
+| 01:15 | **saturnestee**: Goose (MFR), Christmas Pudding Pup (MFR), Halo | **Sofi02575**: Strawberry Tortle (MFR) |
+| 01:15 | **xGracie_1234x**: Alpaca (R) | **Bridge_Jumper690**: Unicorn Horn, Spring Bunny Nose, Unicorn Backpack |
+| 01:15 | **fallpjs**: Haetae (R) | **yuri_dragon32**: Kangaroo (MFR), Panda (MFR), Turtle (FR) |
+| 01:15 | **Zuminkikiki**: Ride-A-Pet Potion | **vclisia**: Tree Sasquatch (M) |
+| 01:15 | **DeoKyleSonic**: Alpaca (R) | **manicpupdoll**: Ghost Bunny (MFR), Field Mouse, Banana Hat |
 
-## Elvebredd value changes: 62,569 since 2023-09-16
+## Elvebredd value changes: 62,734 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-21 00:58 | Flash Weasel | mega fly ride | 252 | 212 |
-| 2026-11-21 00:58 | Flash Weasel | neon fly ride | 61 | 51 |
-| 2026-11-21 00:58 | Flash Weasel | default no potion | 14 | 11.5 |
-| 2026-11-21 00:58 | Haetyphoon | mega fly ride | 252 | 212 |
-| 2026-11-21 00:58 | Haetyphoon | neon fly ride | 61 | 51 |
-| 2026-11-21 00:58 | Haetyphoon | default no potion | 14 | 11.5 |
-| 2026-11-21 00:58 | Copycat | mega fly ride | 122 | 114 |
-| 2026-11-21 00:58 | Copycat | neon fly ride | 30 | 28 |
-| 2026-11-21 00:58 | Copycat | default no potion | 6.5 | 6 |
-| 2026-11-21 00:58 | Jester Dragon | mega fly ride | 100 | 92 |
-| 2026-11-21 00:58 | Jester Dragon | neon fly ride | 26 | 24 |
-| 2026-11-21 00:58 | Jester Dragon | default no potion | 6 | 5.5 |
-| 2026-11-21 00:58 | Matcha Cat | mega fly ride | 136 | 144 |
-| 2026-11-21 00:58 | Matcha Cat | neon fly ride | 33 | 35 |
-| 2026-11-21 00:58 | Matcha Cat | default no potion | 7 | 7.5 |
+| 2026-11-22 00:13 | Pupcicle | mega fly ride | 24.4 | 20.2 |
+| 2026-11-22 00:13 | Pupcicle | neon fly ride | 5.85 | 4.8 |
+| 2026-11-22 00:13 | Pupcicle | default no potion | 1 | 0.8 |
+| 2026-11-22 00:13 | Thunderfisher | mega fly ride | 5 | 4 |
+| 2026-11-22 00:13 | Thunderfisher | neon fly ride | 1.3 | 1.1 |
+| 2026-11-22 00:13 | Thunderfisher | default no potion | 0.11 | 0.07 |
+| 2026-11-22 00:13 | Flash Weasel | mega fly ride | 212 | 180 |
+| 2026-11-22 00:13 | Flash Weasel | neon fly ride | 51 | 43 |
+| 2026-11-22 00:13 | Flash Weasel | default no potion | 11.5 | 9.5 |
+| 2026-11-22 00:13 | Haetyphoon | mega fly ride | 212 | 180 |
+| 2026-11-22 00:13 | Haetyphoon | neon fly ride | 51 | 43 |
+| 2026-11-22 00:13 | Haetyphoon | default no potion | 11.5 | 9.5 |
+| 2026-11-22 00:13 | Electric Hornet | mega fly ride | 8.5 | 7.5 |
+| 2026-11-22 00:13 | Electric Hornet | neon fly ride | 2 | 1.8 |
+| 2026-11-22 00:13 | Electric Hornet | default no potion | 0.24 | 0.2 |
 
 ## AMVGG value changes: 8,087 since 2026-06-02
 
