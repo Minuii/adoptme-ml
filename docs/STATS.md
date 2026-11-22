@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 11:10 UTC by the scrape workflow._
+_Updated 2026-11-22 11:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 11:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 35,565 | 2026-11-22T11:00 |
-| elve | 12 | 7,740 | 2026-11-22T11:01 |
+| amvgg | 12 | 35,817 | 2026-11-22T11:15 |
+| elve | 12 | 7,762 | 2026-11-22T11:15 |
 
-## AMVGG completed trades: 49,368 total
+## AMVGG completed trades: 49,376 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,060 |
+| 2026-11-22 | 2,068 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,14 @@ _Updated 2026-11-22 11:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:15 | **leileirtt**: Fly-A-Pet Potion, Ride-A-Pet Potion, Leopard Cat, Hippo, Lynx, Sabertooth, Shiver Wolf, Dugong ×3, Snowball Pug, Mecha R4BBIT | **Coralmnm**: Jester Dragon (FR) |
+| 11:15 | **aydachan200311**: Turtle (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Artem_21a2**: Cabbit (FR) |
+| 11:15 | **melinaftu**: Arctic Dusk Dragon (MFR), Cow (FR), Leopard Shark (MFR), Zombie Wolf (MR), Pig (NFR), Black Panther (MFR) | **Ashybella0**: Owl (FR) |
+| 11:15 | **Belen7267**: Matcha Cat (NFR), Fly-A-Pet Potion ×2 | **Tena_IsPeakfr**: Mini Pig (FR) |
+| 11:15 | **Kirikamu**: Balloon Unicorn (FR), Christmas Pudding Pup, Fly-A-Pet Potion | **vasya_mochnaya25**: Dalmatian (FR), Chocolate Chip Bat Dragon (FR) |
+| 11:15 | **Emmasloth346**: Yeti (MFR), Count Slothula (MFR) | **danu123456i7**: Golden Rat (MFR) |
+| 11:15 | **vasya_mochnaya25**: Dalmatian (FR), Munchkin Cat (NFR), Peppermint Penguin, Glacier Kitsune (FR), Unicorn (NFR), Spring Bunny Hood, Dragonfruit Fox | **kiff_shik**: Parrot (FR) |
+| 11:15 | **miuehla**: Copycat | **JenYAsha2akk12**: Fly-A-Pet Potion ×2 |
 | 11:10 | **clalouetciedh**: Dragonfly ×15 | **rotee51**: Ride-A-Pet Potion |
 | 11:10 | **Polufabrikatik_465**: Cow (FR) ×2, Turtle (FR) | **Dina0239**: Dalmatian (FR) |
 | 11:10 | **roksy3910**: Rain Cloud Hat, 2022 Birthday Cake, Elephant (R), Mermicorn (R), Aussie Egg | **Ari_Blays**: Fairy Bat Dragon (NFR) |
@@ -44,14 +52,6 @@ _Updated 2026-11-22 11:10 UTC by the scrape workflow._
 | 11:10 | **bellettuce20**: Panda (R) | **DubrotmitBanana**: Snow Cat (MFR) |
 | 11:10 | **DRA25466**: Fly-A-Pet Potion ×18 | **odading12318**: Kangaroo (NFR) |
 | 11:10 | **strawb3rr7CAKE3**: Tropical Surge Mega Neon Paint, Classic Trade Stand | **IamCool123Andunot**: Ride-A-Pet Potion |
-| 11:10 | **icupcakecandy1001**: Nautilus (NR), Purrowl | **ukr_a9**: Ride-A-Pet Potion ×2 |
-| 11:10 | **IconsChew**: Haetae (FR), Shark Puppy (NFR) | **Afkkziyad**: Parrot (FR) |
-| 11:10 | **wskdaks**: Cow (FR) ×2 | **spook_jhon**: Kangaroo (FR), Crocodile (FR), Crocodile (R) ×2, Arctic Fox (R), Hare |
-| 11:10 | **krnss73**: Ride-A-Pet Potion ×2 | **6evesvokhaha**: Fly-A-Pet Potion |
-| 11:10 | **nevesska_officiel**: Tuxedo Cat (NR), Polar Bear (FR), Pet Handler Pro Certificate, Sloth (NFR), Black Springer Spaniel (R), Puptune (R), Ride-A-Pet Potion ×5, Chanekeh (M), Red Panda (NR), Red Panda (F), Zodiac Minion Chick, Snowball Pug (R), Stray Cat Dragon (N) | **Uw0kitii**: Puffer Fish (MFR) |
-| 11:10 | **SamXweirdo**: Golden Walrus (MFR) | **Ojitobonito2017**: Yeti (MFR), Dango Penguins |
-| 11:10 | **Yamajyjopyvazelinov1**: Electric Hornet ×2 | **Bl00di3d_canines**: Retired Egg ×18 |
-| 11:10 | **polenka027**: Arctic Dusk Dragon (FR) | **KEKS1TOP**: Copycat (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
