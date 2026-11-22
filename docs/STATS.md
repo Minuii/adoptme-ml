@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 23:11 UTC by the scrape workflow._
+_Updated 2026-11-22 23:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 23:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 48,275 | 2026-11-22T23:00 |
-| elve | 12 | 10,596 | 2026-11-22T23:01 |
+| amvgg | 12 | 48,503 | 2026-11-22T23:15 |
+| elve | 12 | 10,635 | 2026-11-22T23:15 |
 
-## AMVGG completed trades: 53,075 total
+## AMVGG completed trades: 53,102 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,767 |
+| 2026-11-22 | 5,794 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 23:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:11 | **kiwipoq**: Icy Porcupine ×5, Frozen Penguin ×2, Woolly Mammoth, Snowy Mammoth, Ginger Cat ×5, Magma Snail ×2, Starfish ×2 | **DwWsHZ_2003**: Ride-A-Pet Potion |
-| 23:11 | **6smng**: Cryptid (MFR) ×2 | **adoptmeplayerhi10**: Bat Dragon (FR) ×2 |
-| 23:11 | **Leon555s5**: Strawberry Shortcake Bat Dragon (R), Alpaca (R) | **Jdjdiejdjwidjdm**: Cryptid (FR) |
-| 23:11 | **ReallyCuteLavender**: Strawberry Tortle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Chocolate Dutch Guinea Pig, Ginger Cat (N), Mrs. Whiskerpips (N) | **SOAPpenup_2025**: Peppermint Penguin (FR) |
-| 23:11 | **kiwipoq**: Pink Cat Ear Headphones | **lovewqnted**: Ride-A-Pet Potion |
-| 23:11 | **acidrotslo**: Ride-A-Pet Potion | **sun1zzzo**: Pink Dog (N), Princess Mare (N), Aye Aye (N), Galapagos Sea Lion (N), Kid Goat (N), Ms. Muffet (N) ×2, Chameleon, Royal Egg ×2 |
-| 23:11 | **TheShayway111**: Diamond Hummingbird (MFR), Purple Butterfly (N) | **fluffyunicorns_932**: Puffin (M) |
-| 23:11 | **lapulisra**: Crocodile (R), Pig (FR) | **anutik_awesome**: Siamese Cat (FR) |
-| 23:11 | **toybeau772**: Hyena (NFR), Tuxedo Cat | **KayleeSt0rm147**: Matcha Cat, Pink Cat |
-| 23:11 | **Puppycakelily1**: Mini Pig (MFR), Munchkin Cat, Majestic Pony, Ride-A-Pet Potion | **Annsjdnsnjs**: Giraffe (FR) |
-| 23:11 | **kiwipoq**: Crystal Egg ×2, Admin Abuse Egg ×5, Garden Egg ×3, Aztec Egg ×2, Choccybunny Box ×6 | **Fox_micro9311**: Ride-A-Pet Potion |
-| 23:11 | **P1nkteeth**: Propeller Hat | **Loverliere4**: Fly-A-Pet Potion, White Chef Hat |
-| 23:11 | **thegiddys14**: Goldhorn, Chocolate Dutch Guinea Pig | **Panci_Terbang33**: Ride-A-Pet Potion ×2 |
-| 23:11 | **le_774**: Red Fox (N) | **adoremaddie_x**: Lunar Tiger (NFR) |
-| 23:11 | **Xxxxashhhh**: Pet Handler Pro Certificate ×11 | **lildaminii**: Turtle (FR) |
+| 23:15 | **kiwipoq**: Black-Footed Ferret ×4, Bee ×3, Dire Wolf (R), King Penguin ×2, Pink Betta Fish | **valentinaemmz**: Ride-A-Pet Potion |
+| 23:15 | **alvarconXD**: Ride-A-Pet Potion ×10 | **mariema454**: Kitty Bat (MFR) |
+| 23:15 | **awepolarbear**: Ice Cream Hermit Crab (MFR), Dragonfruit Fox (MFR), Goat (MFR) | **cazzy123abc**: Ice Cream Hermit Crab (M), Pirate Ghost Capuchin Monkey (M), Christmas Pudding Pup (N) |
+| 23:15 | **Cute_CocoMouse**: Balloon Unicorn (FR), Frostbite Bear (R) | **XxAcie_ArtistxX**: Parrot (FR) |
+| 23:15 | **ylyzacanete**: Eaten Donut | **Officially_Allie101**: Bunch Of Balloons ×2 |
+| 23:15 | **PrincezzNatty**: Hare (MFR), Puffer Fish (MFR), Moon Rabbit (MFR) | **q_culvs**: Groundhog (MFR) |
+| 23:15 | **fuyu_ma1**: Cow (FR) | **MorpekoMuncher**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
+| 23:15 | **fallpjs**: Great Pyrenees (NFR), Propeller Hat, Gingerbread Reindeer | **iaMatthieu1**: Spring Bunny Hood, Spring Bunny Feet |
+| 23:15 | **67gabbie**: Ride-A-Pet Potion | **sasukex0609**: Chocolate Dutch Guinea Pig |
+| 23:15 | **fuyu_ma1**: Kangaroo (FR) | **dollxx_zz**: Fly-A-Pet Potion ×9 |
+| 23:15 | **rrstockxadm67**: Crystal Egg ×17 | **xxxMelodyxxx58**: Ride-A-Pet Potion |
+| 23:15 | **wanda_vision680**: Ride-A-Pet Potion | **stoIencorpses**: Glamicorn Purse Pet, Police Cap |
+| 23:15 | **SOAPpenup_2025**: Strawberry Tortle (FR), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **lizzy_th3phenomena**: Bunny Swirl (MFR), S'mores Raccoon (MR) |
+| 23:15 | **lupsgrl**: Strawberry Shortcake Bat Dragon (R), Cabbit (FR), Goat (FR), Goat (R), Kangaroo (R), Rainbow Stroller, Ride-A-Pet Potion | **lexcor3**: Goat (MFR) |
+| 23:15 | **Flyffycowboy**: Dango Penguins ×16, Kiwi Kiwi ×2 | **jayden190614**: Puffer Fish (MR), Nessie (NR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
