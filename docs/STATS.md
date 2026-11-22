@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 12:25 UTC by the scrape workflow._
+_Updated 2026-11-22 12:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 12:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 36,846 | 2026-11-22T12:15 |
-| elve | 12 | 8,035 | 2026-11-22T12:15 |
+| amvgg | 12 | 37,105 | 2026-11-22T12:30 |
+| elve | 12 | 8,104 | 2026-11-22T12:31 |
 
-## AMVGG completed trades: 49,685 total
+## AMVGG completed trades: 49,713 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,377 |
+| 2026-11-22 | 2,405 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 12:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:25 | **URAMAZINGBOB**: 2022 Birthday Cake, Unicorn Horn, Spring Bunny Hood | **tessadegroot2009**: Lamb (MFR), Hamster (MFR), Snowball Pug (MFR) |
-| 12:25 | **T_T10604**: Unicorn Horn, Tiny Wings, Zombie Wolf (N) | **prince_onepator**: Hot Doggo |
-| 12:25 | **trainingpilot12**: Shark Puppy (FR) ×4, Shark Puppy (R) ×8, Shark Puppy ×5, Albino Monkey (R) | **leruval**: Owl (FR) |
-| 12:25 | **BIg_BoRdy**: Candy Snowmobile | **Bow_trader**: Christmas Dog Sticker ×2, Sledding Penguin Sticker ×2 |
-| 12:25 | **LaSaraaa_2011**: Undead Jousting Horse (R) | **Marwani_lol**: Puffin (NFR), Snow Monkey (N) |
-| 12:25 | **ILoveCupcakes33123**: Puffer Fish | **XYRMA_524**: Zombie Wolf |
-| 12:25 | **Smookgans**: Hare (MFR), Flaming Fox (FR) | **Typay604**: Mini Pig (R), Polar Bear (NR), Santa Hat |
-| 12:25 | **add1wxDDD**: Ride-A-Pet Potion | **CAXAROK_NBK**: Pain au Chat ×3 |
-| 12:25 | **sofcheke**: Stitches (MFR) | **Wer0n14ka**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 12:25 | **pozitivhik989**: Chihuahua, Blue Butterfly (N) | **jauzyp**: Count Slothula |
-| 12:25 | **asdshfshs**: Mochi Meow (M), Ribbon Seal (M) | **uliiamiqw**: Ride-A-Pet Potion ×3 |
-| 12:25 | **kikish1m**: Turtle (FR), Ride-A-Pet Potion ×2 | **DRA25466**: Zombie Wolf (MFR) |
-| 12:25 | **sofcheke**: Chocolate Chip Bat Dragon (FR), Hot Doggo (FR), Lion (FR) | **Killkillmaster2345**: Sheeeeep (MFR) |
-| 12:25 | **lostralaleritos_685**: Aurora Fox (MFR) | **CR1MINALCRIMSON**: Christmas Pudding Pup (MFR) |
-| 12:25 | **H4rm0nicdsires**: Candicorn (MFR) | **dollregistry**: Cryptid (FR) |
+| 12:30 | **XxlambadguyxX**: Lion Cub (NFR), Fly-A-Pet Potion | **SnowChannel_yt**: Cabbit (FR) |
+| 12:30 | **Zydac1**: Chihuahua ×2 | **Einhornmagicc**: Ride-A-Pet Potion |
+| 12:30 | **hisevermore**: Giraffe (MFR) ×2, Goose (MFR), Crow (FR) ×2, Cow (NR) | **BlizzardvwQuantumO13**: Bat Dragon (MFR) |
+| 12:30 | **robloxplayerzzxxc**: Arctic Reindeer (FR), Cow (FR), Peppermint Penguin (R), Cabbit, Ketchup and Mustard Jetpack | **NomZixxx**: Parrot (FR) |
+| 12:30 | **regina_12z**: Chocolate Dutch Guinea Pig (NR) | **Danila121219**: Frost Fury (FR) |
+| 12:30 | **ZzzTrades7**: Tiny Wings, Fly-A-Pet Potion, Chef Hat ×2, Pink Heart Glasses | **ava100192**: Tortoiseshell Guinea Pig |
+| 12:30 | **prorabik_krytou**: Candicorn (R), Werewolf (R) | **sufferingtogether**: Goose (R), Black Skateboard, Wood Scooter, Ride-A-Pet Potion |
+| 12:30 | **d3d3d89**: Christmas Spirit, Bobageist ×2, Frozen Penguin, Little Lamb, Angus Cow, Halloween White Mummy Cat, Parakeet (N), Violet Friend, Ant (N) ×3, Mouse (N), Pinkypillar (N), Ms. Muffet (N), Rubber Ducky (N), Maleo Bird ×2 | **purebelly**: Ride-A-Pet Potion |
+| 12:30 | **aestethic_boba12**: Sheeeeep (NR), Blue Ringed Octopus, Fantastical Wings | **misakoyr**: Sugar Glider (FR), Banana Hat |
+| 12:30 | **tryadoptme1**: Ride-A-Pet Potion | **Ggggsiijs76**: Pupcicle (R) |
+| 12:30 | **KUTU_KET06**: Ride-A-Pet Potion ×3, Chocolate Dutch Guinea Pig | **daridaridari222**: Jester Dragon |
+| 12:30 | **verkaash**: Ride-A-Pet Potion, Coyote ×4 | **Dominat0r_Sha**: Fly-A-Pet Potion |
+| 12:30 | **billygrace4jeffy**: Parrot (R), Owl (FR), Rainbow Maker, Pomeranian (MFR), Jekyll Hydra (FR), Red Sand Dollar (MR), Penguin (MFR), Leopard Cat (MFR), Ranger Beaver (MFR) | **bubbleaxolot**: Frost Dragon (NFR) |
+| 12:30 | **iibancaxx**: Capricorn (NFR) | **Yoseniri_38**: Unicorn (NFR) |
+| 12:30 | **sufferingtogether**: Amethyst Skies Mega Neon Paint, Classic Trade Stand | **eyebagsq**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
