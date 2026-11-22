@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 10:15 UTC by the scrape workflow._
+_Updated 2026-11-22 10:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 10:15 UTC by the scrape workflow._
 | amvgg | 12 | 34,811 | 2026-11-22T10:15 |
 | elve | 12 | 7,535 | 2026-11-22T10:15 |
 
-## AMVGG completed trades: 49,148 total
+## AMVGG completed trades: 49,179 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,840 |
+| 2026-11-22 | 1,871 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 10:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:15 | **lili270811**: Reindeer | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 10:15 | **gTheGamerProYTg**: Fairy Bat Dragon (FR) | **asya_ticTocer01**: Copycat (NFR), Fly-A-Pet Potion ×3 |
-| 10:15 | **HOCOKKU**: Kangaroo (FR), Bush Elephant (FR), Silverback Gorilla | **FeRicebear**: Mini Pig (FR) |
-| 10:15 | **tapochek_Instasamki**: Goldhorn (NF) | **ploB_666**: Copycat |
-| 10:15 | **AMINO4KA7U**: Kangaroo (FR) | **Lady_unicorn3807**: Dragonfruit Fox (R), Lion Cub (FR), Ram (R), Unicorn (NFR), Winged Horse (NR) |
-| 10:15 | **Inganta07**: Fly-A-Pet Potion, Bolt (N), Puma (N), Frankenfeline (N), Dog (N) ×2 | **lilmsVirgo**: Aestus (R) |
-| 10:15 | **Vika4ka20q**: Ancient Dragon, Zodiac Minion Chick | **xy_hmayy**: Crystal Egg ×6 |
-| 10:15 | **bless77777**: Cow (R), Cabbit, Unicorn (NFR), Copycat | **Ob3sityPhobia**: Strawberry Shortcake Bat Dragon (FR) |
-| 10:15 | **yyanwa19**: Water Rabbit, Admin Abuse Egg ×2 | **Yokiimono**: Panda |
-| 10:15 | **Vitamirka**: Pain au Chat ×3 | **ificial2345**: Ride-A-Pet Potion |
-| 10:15 | **KUTU_KET06**: Ride-A-Pet Potion, Royal Palace Spaniel | **ificial2345**: Chocolate Dutch Guinea Pig |
-| 10:15 | **Vernite_chat0**: Golden Bone, Cow (FR), Turtle (FR), Elephant (FR), Pig (FR), Ride-A-Pet Potion | **verxxoke**: Dalmatian (R) |
-| 10:15 | **turtlereef24**: Paint Sealer | **YkItzDino**: Cold Cube |
-| 10:15 | **missbetty62**: Fly-A-Pet Potion ×11 | **odading12318**: Siamese Cat (FR) |
-| 10:15 | **Marines_Natalia**: Chihuahua ×2 | **kajaterezka**: Unicorn |
+| 10:25 | **JustDo_It097**: Mrs. Whiskerpips (MR) | **Floppybunny_4662**: Ride-A-Pet Potion ×2 |
+| 10:25 | **1ndca6**: Dalmatian (FR), Cow (NFR), Arctic Fox (FR), Scarebear (R), Lamb (R) | **Bobbyhuddy6**: Parrot (FR) |
+| 10:25 | **rottingroyaltyyy**: Cabbit (R) | **margini_mini**: Alpaca (FR) |
+| 10:25 | **bq1r_35**: Fly-A-Pet Potion | **L3mon_Pl4ys**: Dire Wolf (M) |
+| 10:25 | **nastysa14888**: Strawberry Shortcake Bat Dragon (FR), Candicorn (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ssceneury**: Dalmatian (R) |
+| 10:25 | **gotbenimcanim**: Munchkin Cat (R), Chocolate Dutch Guinea Pig, Fly-A-Pet Potion | **unicorntimedabeast**: Tortoiseshell Guinea Pig (R) |
+| 10:25 | **lildaminii**: Winged Tiger (FR) | **Elpepeexd2134**: Ride-A-Pet Potion ×12 |
+| 10:25 | **That0neArcher**: Goat (FR), Panda (NFR), Jousting Horse (FR) | **Rumi_Grlz**: Candicorn (FR) |
+| 10:25 | **XZ_XZ9**: Ride-A-Pet Potion ×4 | **V1RTU3LL0**: Polar Bear (R) |
+| 10:25 | **Kevinp11orange**: Fly-A-Pet Potion | **Crystal_xyts**: Ride-A-Pet Potion ×2 |
+| 10:25 | **maryysa_I**: Matcha Cat, Chocolate Dutch Guinea Pig | **3iixyy**: Chicken (NFR) |
+| 10:25 | **Only_Gio123**: Strawberry Shortcake Bat Dragon (R) | **marchthenewest**: Dango Penguins (MFR), Copycat, Diamond Amazon (R), Lion Cub (R), Ride-A-Pet Potion |
+| 10:20 | **943049209d**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **gosha2ji**: Pig (R) |
+| 10:20 | **summerdounut123**: Shetland Pony Dark Brown (MR), Puptune (NR), Chocolate Dutch Guinea Pig ×3, Lamb, Toxic Kaijunior (NFR), Easter Bunny (M), Ride-A-Pet Potion ×2 | **JULI_LOVE48**: Unicorn (MFR) |
+| 10:20 | **abdoosaad**: Chocolate Chip Bat Dragon (FR) | **GrindAccount_N1**: Arctic Fox (FR), Eggnog Dog (M), Irish Water Spaniel, Ice Cream Cone Hat, Caelum Cervi (FR), Wooly Rhino (N), Water Moon Bear (MFR), Panda (NFR), Dragonfruit Fox (FR), Frost Phoenix (FR) ×2, Yule Log Dog (FR), Pomeranian (NFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
