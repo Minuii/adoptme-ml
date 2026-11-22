@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 01:25 UTC by the scrape workflow._
+_Updated 2026-11-22 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 01:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 25,908 | 2026-11-22T01:15 |
-| elve | 12 | 5,572 | 2026-11-22T01:15 |
+| amvgg | 12 | 26,176 | 2026-11-22T01:30 |
+| elve | 12 | 5,639 | 2026-11-22T01:31 |
 
-## AMVGG completed trades: 47,568 total
+## AMVGG completed trades: 47,574 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 260 |
+| 2026-11-22 | 266 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,12 @@ _Updated 2026-11-22 01:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:30 | **Manga11998**: Goose (R) | **katakuri_RBL**: Kangaroo (NFR) |
+| 01:30 | **kurumisbff**: Triple Stroller, Tractor Stroller, Red Wagon Stroller, Wheelbarrow Stroller, Woodland Cradle Stroller, Lunar Stroller, Donut Stroller | **iridescenite**: Ride-A-Pet Potion |
+| 01:30 | **Madspantsfelloff**: Border Collie (R), Christmas Pudding Pup, Dugong (MR), Tanuki (M), Hammerhead Shark (M) | **abdoosaad**: Cabbit (FR), Chocolate Dutch Guinea Pig |
+| 01:30 | **loserbunnygf**: Bat Dragon (FR), Bush Elephant (FR), Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×6, Amami Rabbit (N), Choco Penguin (MR) | **MICROCELE6BRITY**: Cryptid (MFR) |
+| 01:30 | **Kipperlekangaroo**: Tiny Wings ×3, 2022 Birthday Confetti Cannon, Happy Clam (NR), Amami Rabbit (MR) | **L_person21**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:30 | **Ethernaces**: Stray Cat Dragon ×16 | **Mwsjdhw**: Pet Handler Pro Certificate |
 | 01:25 | **dead_pool455**: Jekyll Hydra Animated Sticker | **b_cwx**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
 | 01:25 | **Tyatya03**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×9, Strawberry Clip | **SilentlyNobody**: Elephant (FR) |
 | 01:25 | **Gmyiluv**: Giant Anteater ×3, Scorching Kaijunior | **Skrippies**: 2022 Birthday Cake |
@@ -46,12 +52,6 @@ _Updated 2026-11-22 01:25 UTC by the scrape workflow._
 | 01:25 | **kurumisbff**: Budgie Witch (MR), Chocolate Labrador (R) | **love_sry0**: Ride-A-Pet Potion |
 | 01:25 | **Yupiterd**: Crystal Egg ×18 | **ouh5750**: Fly-A-Pet Potion |
 | 01:20 | **AIexPIaysRBX**: Hedgehog (FR), Turtle (NFR), Kangaroo (FR), Pig (FR) | **starfire_33334**: Dalmatian (FR), Dalmatian (R) |
-| 01:20 | **Rosi_oke**: Cow (FR) | **afissamuzfirah**: Strawberry Tortle, Ride-A-Pet Potion |
-| 01:20 | **amaielliee**: Ranger Beaver (N), Red Fox (N) | **Letizia00000000**: Pet Handler Pro Certificate |
-| 01:20 | **auqalia**: Irish Water Spaniel (NFR), Cupid Dragon (NFR), Glacier Kitsune (NFR), Shrew (NFR), Polar Bear (NFR), 2022 Birthday Cake, 2022 Birthday Cupcake Shoes, Border Collie (FR), Caterpillar (R), Great Pyrenees (MR), Frostbite Cub (MR), Unicorn Backpack, Chocolate Dutch Guinea Pig (N) | **P1nkteeth**: Cryptid (NFR) |
-| 01:20 | **MM_Cloud**: Crystal Egg ×15 | **starswirl_64**: Ride-A-Pet Potion |
-| 01:20 | **saturnestee**: Angel Wings, Unicorn Horn | **qlltm**: Dango Penguins (MFR) |
-| 01:20 | **lolololol_maxarooroo**: Kelp Captain (MFR) | **Rbd_JP**: Unicorn Horn |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
