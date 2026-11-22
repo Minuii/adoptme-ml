@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 04:15 UTC by the scrape workflow._
+_Updated 2026-11-22 04:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 04:15 UTC by the scrape workflow._
 | amvgg | 12 | 28,952 | 2026-11-22T04:15 |
 | elve | 12 | 6,189 | 2026-11-22T04:15 |
 
-## AMVGG completed trades: 48,041 total
+## AMVGG completed trades: 48,089 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 733 |
+| 2026-11-22 | 781 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 04:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:11 | **Bumble_Lou**: Matcha Cat, Copycat, Inmate Capuchin Monkey (MR), Dragonfruit Fox | **PIasticTree**: Copycat (N) |
-| 04:11 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **Valentita800191**: Bauble Buddies (NR) |
-| 04:11 | **razarvale2z**: Pain au Chat ×6 | **starswirl_64**: Ride-A-Pet Potion ×2 |
-| 04:11 | **Lilyanaa_p**: Cabbit, Cow (FR), Rain Cloud Hat | **cottoncandybike**: Munchkin Cat (MFR) |
-| 04:11 | **strawbearilatte**: Pet Handler Pro Certificate ×10 | **kofiok_sweet**: Unicorn Horn |
-| 04:11 | **Furry_lechuga**: Matcha Cat, Phantom Dragon (R), Rainbow Stroller, Blue Cat Ear Headphones, Snowball Pet (R), Kitty Bat, Ghost Wolf (NR), Puddleducks Hood, Dark Choccybunny (N), Scarecrow Crow, Chick Backpack, Bear Hood, Chick Hat, Glyptodon, Lunar Gold Tiger | **nasciel_12**: Kangaroo (FR) |
-| 04:11 | **esabella0_o**: Balloon Unicorn (FR), Cabbit (NFR), Pancake Stack, Dumpling Friend Hat, Eaten Donut | **JAJAJAN9199**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (NFR) |
-| 04:11 | **ellielielielieee**: Dragonfruit Fox | **Shailyn09**: Spring Bunny Feet |
-| 04:11 | **kelixnz**: Peachick | **betterwatchmerot**: Retired Egg ×18 |
-| 04:11 | **OMGATERGFF**: Alpaca (NFR), Copycat | **Pastel_Angel16**: Cabbit (NFR), Alpaca |
-| 04:11 | **CamilleandJustina100**: Pilot Gull (M), Oakee (M), 2026 Birthday Butterfly (M) | **Serolyns**: Pupcicle ×2 |
-| 04:11 | **Heybolloboom**: Shark Puppy (MFR) | **Auds191102**: Strawberry Penguin (MFR), Bunny Swirl (MFR) |
-| 04:11 | **cinnierollz**: Cryptid (NFR) | **CloudyFalconpro4**: Fairy Bat Dragon (MFR) |
-| 04:11 | **betterwatchmerot**: Pain au Chat | **App1e_ju1c33**: Retired Egg ×15 |
-| 04:11 | **Marilynbrandt662**: Arctic Reindeer (FR), Monkey King (R), Crocodile (FR) ×2, Platypus (N), Moose Calf (NFR), Cabbit (NFR), Grim Dragon (FR), 2022 Birthday Party Horn | **leruval**: Frost Dragon (FR) |
+| 04:25 | **100PercentWinRateHax**: Ride-A-Pet Potion | **mjthe_bard**: Crystal Egg ×12 |
+| 04:25 | **avavHAY745**: Pig (R), Dodo (NFR), Ride-A-Pet Potion ×2 | **franzaine**: Glormy Leo (NFR) |
+| 04:25 | **crismeee**: Arctic Dusk Dragon (MFR), Unicorn Backpack | **poposopapiso**: Jester Dragon (MFR) |
+| 04:25 | **TinyBunnyhere**: Christmas Pudding Pup (NFR), Harp Seal (MFR), Arctic Fox (FR), Christmas Pudding Pup (FR), Christmas Pudding Pup (R) ×2, Cupid Dragon (FR) | **Skz_bts176**: Alpaca ×3 |
+| 04:25 | **v1xctoriaa**: Alicorn (M) | **limohq**: Fly-A-Pet Potion |
+| 04:25 | **FlyToTheSaturn**: Sock Chew Toy ×2, Reindeer Plush, Heart Balloon ×2, Elf Plush ×2, Cookie Dough Plush ×3, Duck Balloon, Christmas Cat Rattle, Dragon Balloon ×2, Candle ×2 | **altaccount02037**: Fly-A-Pet Potion |
+| 04:25 | **SIMPita_DeJona**: Fly-A-Pet Potion, Dog (NFR) | **mdmdnkevsjsvaj**: Ride-A-Pet Potion ×2 |
+| 04:25 | **pyonyo1130**: Parrot (NFR), Crow (FR) | **129x956**: Chocolate Chip Bat Dragon (MFR) |
+| 04:20 | **realacckeira8v**: Cerberus (NFR), Fly-A-Pet Potion | **justinepaje123**: Flaming Fox (NFR) |
+| 04:20 | **xDxvil777**: Ride-A-Pet Potion ×18 | **llkkiop12345**: Turtle (FR) |
+| 04:20 | **shainikss**: Fennec Fox (R), Bunny Ear Tiara, Shih Tzu (N), Pinkypillar (N), Zebra (N), Camel (N), Purrowl ×2, Quetzalcoatl, Cold Cube, Admin Abuse Egg, Ehecatl, Gemstone Egg | **SiennaVyx**: Ride-A-Pet Potion |
+| 04:20 | **missy_Artz**: Ride-A-Pet Potion ×2 | **deadpo0l293**: Dango Penguins |
+| 04:20 | **wskdaks**: Axolotl (R) | **pinky_96702**: Dolphin (NR), Bandicoot (N) |
+| 04:20 | **soy_prohalc**: Chocolate Dutch Guinea Pig | **gattitakawaii16**: Dire Wolf (N) ×2, Chick ×2 |
+| 04:20 | **Twinklingstar30**: Goose (FR), Mirai Moth | **1xxluvsxx1**: Cupid Dragon (FR), Hare (NFR), Spring Bunny Hood, Mirai Moth (MFR), German Shepherd (R) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
