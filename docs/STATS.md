@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 23:01 UTC by the scrape workflow._
+_Updated 2026-11-22 23:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 23:01 UTC by the scrape workflow._
 | amvgg | 12 | 48,275 | 2026-11-22T23:00 |
 | elve | 12 | 10,596 | 2026-11-22T23:01 |
 
-## AMVGG completed trades: 53,011 total
+## AMVGG completed trades: 53,075 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,703 |
+| 2026-11-22 | 5,767 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 23:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:00 | **JorgeEduardo_123**: Pink Betta Fish (MFR), Ride-A-Pet Potion | **yayaunicorne166**: Cupid Dragon (FR) |
-| 23:00 | **Petsimx991100**: Jester Dragon (FR) | **dollxx_zz**: Ride-A-Pet Potion ×5 |
-| 23:00 | **babiddgon**: Chihuahua ×3 | **M1cahsWRLD**: Ride-A-Pet Potion |
-| 23:00 | **BLACKGLITTERKITTY**: Turtle (NFR) | **Eva994494**: Turtle (FR) ×2 |
-| 23:00 | **NoahRift5224**: Ice Cream Hermit Crab (MFR), Dango Penguins (MFR), Koi Carp (MR) | **pedrobeteir0**: Groundhog (MFR) |
-| 23:00 | **LemonKoiFish**: Alpaca (MFR), Sugar Glider (MFR), Tiny Wings | **Ffaa_bom**: Cabbit (MFR), Goose (MFR), 2022 Birthday Party Hat ×2, Water Rabbit (MR) |
-| 22:51 | **1qeers**: Celebrity Mansion | **16kubqx**: Hyena |
-| 22:51 | **dollxx_zz**: Pet Handler Pro Certificate ×8, Fly-A-Pet Potion | **https_Mutanaaa**: Kangaroo (FR) |
-| 22:51 | **Depondip**: Hare, Brown Bear, Black-Footed Ferret ×4 | **cutenadk77**: Mule (N) |
-| 22:51 | **Yurishi_Kashigava**: Dimension Drifter ×3, Orangutan (N), Zebra, Budgie Witch, Dog, Mouse | **NightVoidRealm**: Ride-A-Pet Potion |
-| 22:51 | **ADOPTME_TRADE596**: Candy Hare (NR) | **unicornio1205i**: Glormy Dolphin (MFR) |
-| 22:51 | **TortaDeMapache**: Zombie Wolf, Ice Cube ×4, Seafoam Butterfly | **lordityy**: Fly-A-Pet Potion |
-| 22:51 | **Altacct3_3**: 2022 Birthday Cake | **donnotinteract**: Rain Cloud Hat, Spring Bunny Hood, Pet Handler Pro Certificate |
-| 22:51 | **janaqgo_0**: Ride-A-Pet Potion ×2 | **Pinky_Darckling**: Ketchup and Mustard Jetpack |
-| 22:51 | **Samxl27**: Pancake Stack | **gamereldark_YT**: Banana Hat, Pirate Hat, Blue Cat Ear Headphones |
+| 23:11 | **kiwipoq**: Icy Porcupine ×5, Frozen Penguin ×2, Woolly Mammoth, Snowy Mammoth, Ginger Cat ×5, Magma Snail ×2, Starfish ×2 | **DwWsHZ_2003**: Ride-A-Pet Potion |
+| 23:11 | **6smng**: Cryptid (MFR) ×2 | **adoptmeplayerhi10**: Bat Dragon (FR) ×2 |
+| 23:11 | **Leon555s5**: Strawberry Shortcake Bat Dragon (R), Alpaca (R) | **Jdjdiejdjwidjdm**: Cryptid (FR) |
+| 23:11 | **ReallyCuteLavender**: Strawberry Tortle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Chocolate Dutch Guinea Pig, Ginger Cat (N), Mrs. Whiskerpips (N) | **SOAPpenup_2025**: Peppermint Penguin (FR) |
+| 23:11 | **kiwipoq**: Pink Cat Ear Headphones | **lovewqnted**: Ride-A-Pet Potion |
+| 23:11 | **acidrotslo**: Ride-A-Pet Potion | **sun1zzzo**: Pink Dog (N), Princess Mare (N), Aye Aye (N), Galapagos Sea Lion (N), Kid Goat (N), Ms. Muffet (N) ×2, Chameleon, Royal Egg ×2 |
+| 23:11 | **TheShayway111**: Diamond Hummingbird (MFR), Purple Butterfly (N) | **fluffyunicorns_932**: Puffin (M) |
+| 23:11 | **lapulisra**: Crocodile (R), Pig (FR) | **anutik_awesome**: Siamese Cat (FR) |
+| 23:11 | **toybeau772**: Hyena (NFR), Tuxedo Cat | **KayleeSt0rm147**: Matcha Cat, Pink Cat |
+| 23:11 | **Puppycakelily1**: Mini Pig (MFR), Munchkin Cat, Majestic Pony, Ride-A-Pet Potion | **Annsjdnsnjs**: Giraffe (FR) |
+| 23:11 | **kiwipoq**: Crystal Egg ×2, Admin Abuse Egg ×5, Garden Egg ×3, Aztec Egg ×2, Choccybunny Box ×6 | **Fox_micro9311**: Ride-A-Pet Potion |
+| 23:11 | **P1nkteeth**: Propeller Hat | **Loverliere4**: Fly-A-Pet Potion, White Chef Hat |
+| 23:11 | **thegiddys14**: Goldhorn, Chocolate Dutch Guinea Pig | **Panci_Terbang33**: Ride-A-Pet Potion ×2 |
+| 23:11 | **le_774**: Red Fox (N) | **adoremaddie_x**: Lunar Tiger (NFR) |
+| 23:11 | **Xxxxashhhh**: Pet Handler Pro Certificate ×11 | **lildaminii**: Turtle (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
