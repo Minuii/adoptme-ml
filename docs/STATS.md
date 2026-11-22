@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 07:31 UTC by the scrape workflow._
+_Updated 2026-11-22 07:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 07:31 UTC by the scrape workflow._
 | amvgg | 12 | 32,044 | 2026-11-22T07:30 |
 | elve | 12 | 6,873 | 2026-11-22T07:31 |
 
-## AMVGG completed trades: 48,575 total
+## AMVGG completed trades: 48,590 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,267 |
+| 2026-11-22 | 1,282 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 07:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:30 | **Dudossik**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×4 | **Fox7Art**: Fairy Bat Dragon (FR) |
-| 07:30 | **mawifa123**: Jousting Horse (R) | **yuioedf**: Ride-A-Pet Potion ×3 |
-| 07:30 | **1katR1**: Ride-A-Pet Potion ×2 | **Krashiha_Karolina26**: Ketchup and Mustard Jetpack |
-| 07:30 | **AD7LX**: Arctic Dusk Dragon, Coconut Friend (NR), Jester Dragon (FR) ×2, Jester Dragon (R), Lava Dragon (FR), Lava Dragon (R), Silverback Gorilla (R), Ice Cream Hermit Crab, Ram (NR), Brown Bear (FR), Hare, Munchkin Cat (R), Goose (R) ×2, Goose | **Moon_Cloud609859**: Strawberry Shortcake Bat Dragon (NFR) |
-| 07:30 | **fyffddt5**: Cerberus (R), Bunny Ear Tiara | **LYIZA_1976**: Pet Handler Pro Certificate |
-| 07:30 | **caxarberdok**: Copycat (N), Tortoiseshell Guinea Pig | **bob4_boy**: Cow (FR) |
-| 07:30 | **lacandon1235**: Fly-A-Pet Potion | **epicpulsechaos2024**: Crystal Egg ×18 |
-| 07:30 | **likoadopt**: Frost Unicorn (FR), Pet Handler Pro Certificate | **Ricover2929**: Turtle (FR) |
-| 07:30 | **pmpjmg1**: Kitty Bat (MR) | **Youalreadyknowme803**: Slimingo (MR) |
-| 07:30 | **Inganta07**: Fly-A-Pet Potion ×3 | **mwojeny**: Frost Fury (FR) |
-| 07:30 | **43kzynpqq**: Kangaroo (FR) ×2, Elephant (FR), Flamingo (R), Polar Bear (R), Brown Bear (R), Hyena (R) | **CommonTotravelerAx3**: Cow (FR) ×2, Werewolf |
-| 07:30 | **Puresksxz**: Crow (FR) | **SPIKI77228**: Chocolate Chip Bat Dragon (FR), Cow (FR), Fairy Bat Dragon (R), Turtle (FR), Ride-A-Pet Potion |
-| 07:30 | **luvyerh**: Arctic Fox (R), Ride-A-Pet Potion ×2 | **habchik004**: Pig (FR) |
-| 07:30 | **Dodgemyhooks**: Mecha R4BBIT | **TheEndlessFlower**: Ride-A-Pet Potion |
-| 07:30 | **nuggets0162**: Strawberry Shortcake Bat Dragon (NFR) | **SussyKidsRBLX**: Balloon Unicorn (FR) |
+| 07:36 | **kshusa2240**: Midnight Dragon (F), Nautilus (NFR), Dodo (R), Shark (R), Snow Owl (FR), Winged Horse (FR), Peacock (R), Frost Fury (FR), Red Sand Dollar (R), Muskrat (MR), Scarecrow Cat (R), Poodle (NR), Diamond Dragon, Diamond Griffin | **kawaiifaintedgirl**: Turtle (FR) |
+| 07:36 | **no_xwifi1**: Jousting Horse (MFR), Zombie Wolf (MFR) | **Whitemen5323**: Munchkin Cat (M) |
+| 07:36 | **lelesayuru**: Frost Dragon (FR), Cow (FR) ×5, Cow (R) ×3, Candicorn (R), Arctic Fox (FR) | **frjn9**: Shadow Dragon (FR) |
+| 07:36 | **Elixarty**: Sushi Penguin (MFR), Pain au Chat, Grave Owl, Black Dog | **pktpnn**: Ghost Bunny (MFR) |
+| 07:36 | **frecalsplogeok9**: Ride-A-Pet Potion | **liofe1**: Space Whale ×2, Snowball Pug |
+| 07:36 | **zovrza**: Dango Penguins (NR) | **Babielily1**: Tiny Wings |
+| 07:36 | **Crims0n_Dusk**: Christmas Pudding House | **TheEndlessFlower**: Ride-A-Pet Potion ×2 |
+| 07:36 | **Inganta07**: Ride-A-Pet Potion | **qwerty99ooo**: Capybara |
+| 07:36 | **ocean_lilly2021**: Red Squirrel | **Fiat_ouo**: Gemstone Egg |
+| 07:36 | **XxAcie_ArtistxX**: Ice Golem (NFR) | **xean1zm**: Chihuahua (M), Ride-A-Pet Potion ×2 |
+| 07:36 | **Twinklingstar30**: Hot Doggo (FR), Candicorn (NFR), Border Collie (FR), Goose (FR) | **mrluxx999**: Giant Panda (FR) |
+| 07:36 | **princess_magdayao**: Ride-A-Pet Potion | **blushbyelle**: Crystal Egg ×17 |
+| 07:36 | **nejdo109**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Skelicorn (N), Pandaguin Glooptodog (N) | **xbubblezxxlyn**: Panda (NFR) |
+| 07:36 | **s1nvix**: Balloon Unicorn (FR), Spring Bunny Hood | **Ishrixxo**: Crow (FR) |
+| 07:36 | **carolzinhac2009**: Glormy Dolphin (NR), Snowy Mammoth (N) | **Ukulaul**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
