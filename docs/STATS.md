@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 22:01 UTC by the scrape workflow._
+_Updated 2026-11-22 22:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 22:01 UTC by the scrape workflow._
 | amvgg | 12 | 47,235 | 2026-11-22T22:00 |
 | elve | 12 | 10,387 | 2026-11-22T22:01 |
 
-## AMVGG completed trades: 52,808 total
+## AMVGG completed trades: 52,867 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,500 |
+| 2026-11-22 | 5,559 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 22:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:00 | **hellocook1662**: Ride-A-Pet Potion | **rrstockxadm67**: Crystal Egg ×17 |
-| 22:00 | **anutik_awesome**: Phoenix (MR) | **basicgenn**: Fly-A-Pet Potion ×11 |
-| 22:00 | **vixxi05**: Ride-A-Pet Potion ×6 | **XccarrottX**: Sheeeeep |
-| 22:00 | **vixxi05**: Matcha Cat | **ysaazik_0**: Sheeeeep, Ride-A-Pet Potion |
-| 22:00 | **LittleHeartPlays**: Yellow Butterfly (MR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **iloveicecream34159**: Pig (FR) |
-| 22:00 | **chapa4ka579**: St Bernard ×4 | **altaccount02037**: Ride-A-Pet Potion |
-| 22:00 | **namerb11**: Fly-A-Pet Potion | **Dominat0r_Sha**: Diamond Hamster (FR) |
-| 22:00 | **ADORBSXREMY**: Blazing Lion | **kyovd1r**: Evil Unicorn (FR), Munchkin Cat |
-| 22:00 | **Addisonraeee25**: Sugar Glider (FR), Robo Dog (MFR), Frost Phoenix (NR), Yule Log Dog | **MatsGerro98**: Scorching Kaijunior (MFR) |
-| 22:00 | **abdoosaad**: Goose (FR), Gecko (MR) | **BaconManBest128**: Frostbite Cub (MR), Easter Bunny (M), S'mores Raccoon (MR), Mochi Meow (M), Dark Choccybunny (M), Maine Coon (M) ×2 |
-| 22:00 | **Tomatoxxxblizzard**: Crocodile (FR), Kangaroo (R), Kangaroo (FR) | **itmemyayall123**: Alley Cat (MFR) |
-| 22:00 | **NoRiskNoFun_12**: Ride-A-Pet Potion | **Furry_lechuga**: Happy Duckling, Glyptodon, Snowman, Indian Leopard, Crab, Orange Betta Fish, Amber Butterfly, Urchin, Ratatoskr |
-| 22:00 | **caycay_3800**: Red Panda (N) ×2 | **GrEstbn**: Red Panda Ducky ×18 |
-| 22:00 | **Hugchamb**: Sunrise Duckling, Gingerbread Reindeer | **V4MP1R3_MM2lol**: Ride-A-Pet Potion |
-| 22:00 | **rafaelousthecrazy**: Space Whale (FR) | **V4MP1R3_MM2lol**: Ride-A-Pet Potion |
+| 22:11 | **0MGITSADD1E**: Bat Dragon (FR) | **gagi128ss**: Sugar Glider (MFR), Sea Slug (MFR) ×2, Ballet Swan (MR), Vanilla Penguin (MFR), Candicorn, Sugar Axolotl, Tri-horned Treehopper |
+| 22:11 | **Dinkarrt**: Flying Fairy, Strawberry Clip, Picnic Basket | **Kkpopstar981**: Ride-A-Pet Potion |
+| 22:11 | **yuyu_tik**: Rainbow Maker, Rain Cloud Hat | **lmao_fyp**: Fallow Deer (MFR) |
+| 22:11 | **sun1zzzo**: Black-Footed Ferret ×3, Floral Eggy, Ginger Cat ×3, Gumball Caterpillar, Orca ×2, Praying Mantis, Peachick, Black Moon Bear, Bunny, Jumpscare, Monkey, Prism Snake | **Kxxxkx782**: Ride-A-Pet Potion |
+| 22:11 | **HeartsForEli_1406**: Chihuahua (M), Mummy Spider (M), Pandaguin Glooptodog (N), Mystic Wing Crown, Star Sunglasses | **Uh_TotallynotKaiah1**: Ranger Beaver (M) |
+| 22:11 | **f1lenrazE**: Goose (FR) | **sofia_sofiko**: Alpaca, Goat (F) |
+| 22:11 | **snyyyp**: Happy Clam (MFR) | **skibskibskib237**: Cabbit (FR), Cow (FR) |
+| 22:11 | **catvlq**: Pupcicle, Golden Bone, 2022 Birthday Confetti Drape, 2022 Birthday 5 Badge | **3yntkl**: Mermaid Mansion |
+| 22:11 | **ongitos_oficial**: Leopard Cat, Pterodactyl, Glormy Crab, Alicorn ×2, Ocelot (N), Kakapo (N), California Condor (N), Ms. Muffet (N) | **guten_14**: Ride-A-Pet Potion |
+| 22:11 | **razarvale2z**: Chihuahua ×5 | **kelixnz**: Chihuahua (N) |
+| 22:11 | **kelixnz**: Choco Penguin | **LAHNLAHNLAHN**: Fairytale Egg ×18 |
+| 22:11 | **Deamh_1**: Dalmatian (FR) | **Floppybunny_4662**: Strawberry Shortcake Bat Dragon (FR), Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion, Pupcicle |
+| 22:11 | **d4rlingjazzy**: Unicorn Horn, Toaster Hat, 2022 Birthday Confetti Cannon, Munchkin Cat | **Pr8viUse**: Cow, Pig, Lion |
+| 22:11 | **bbgsarethebest_1**: Hawk, Ride-A-Pet Potion | **AHHA6281**: Elf Hat |
+| 22:11 | **AHHA6281**: Sushi Penguin | **Pia_ditzon**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
