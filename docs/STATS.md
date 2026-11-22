@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 13:55 UTC by the scrape workflow._
+_Updated 2026-11-22 14:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 13:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 38,419 | 2026-11-22T13:45 |
-| elve | 12 | 8,404 | 2026-11-22T13:46 |
+| amvgg | 12 | 38,666 | 2026-11-22T14:00 |
+| elve | 12 | 8,480 | 2026-11-22T14:01 |
 
-## AMVGG completed trades: 50,136 total
+## AMVGG completed trades: 50,179 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,828 |
+| 2026-11-22 | 2,871 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 13:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:55 | **bae_hyeinie**: Puffer Fish, Merry Mistletroll, Mini Schnauzer, French Bulldog | **Meow7121**: King Bee (NFR) |
-| 13:55 | **Qu33nDQCrimsonO19932**: Chihuahua ×2 | **Meow7121**: Ride-A-Pet Potion |
-| 13:55 | **akeks_74**: Alpaca | **kagurasgl0w**: Crocodile (R), Arctic Fox (FR), Banana Hat, Kitty Biscuit, Cotton Candy Hat |
-| 13:55 | **polia_catBars**: Dragonfly ×2, Diamond Mahi Mahi, Diamond Dragon, Blue Whale, Stray Cat Dragon (N), Red Panda ×2 | **ArtemSer2008**: Ride-A-Pet Potion |
-| 13:55 | **DanaRoblox_YT**: Alpaca (NR), Ride-A-Pet Potion | **OBDYL011**: Alpaca (NFR) |
-| 13:55 | **Sofik_oc**: Candicorn, Frost Unicorn (R) | **xosleepybunny**: Cabbit (FR), Velocirooster, Pupcicle (N), Invisible Wings |
-| 13:55 | **Bumble_Lou**: Pain au Chat, Ancient Dragon | **sct_sct1999**: Old King Coal (N) |
-| 13:55 | **Fish_cat28**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×5 | **popkaBysiTaksy228**: Queen Bee (NFR), Frost Phoenix (NFR) |
-| 13:55 | **unilums**: Ride-A-Pet Potion ×5 | **Killkillmaster2345**: Copycat (FR) |
-| 13:55 | **araiiw0**: Ride-A-Pet Potion ×2 | **milkiway0334**: Pupcicle ×3 |
-| 13:55 | **Tree092109**: Ride-A-Pet Potion | **CKaiser5689**: Panda |
-| 13:55 | **sun1zzzo**: Moon Rabbit, Amami Rabbit | **Aslie_17**: Ride-A-Pet Potion |
-| 13:55 | **alreadytwink**: Demon Wings, Winter Bow Wings | **Aslie_17**: Ride-A-Pet Potion |
-| 13:55 | **Suboxow**: Dragonfruit Fox (FR) | **Its_3clipse1**: Dango Penguins (FR) |
-| 13:55 | **VauFrezhBar_LizaVau**: Black Springer Spaniel (MFR) | **violencesoul**: Influencer Gibbon (MFR) |
+| 14:00 | **wskdaks**: Solaris (R) | **dashe4kavbb**: King Bee (R), Zodiac Minion Chick (R), Beluga Whale (NR) |
+| 14:00 | **Spralliiig**: Werewolf (NFR) | **hhhauntedddd**: Nessie (NFR), Latte Kitsune (NFR), Cerberus (NFR), Stegosaurus (N), Giant Anteater, Tan Chow-Chow (N) |
+| 14:00 | **SapphireMindK472**: Fairy Bat Dragon (R), Turtle (FR), Elephant (FR), Rain Cloud Hat, Munchkin Cat, Velocirooster (R), Jester Dragon, Sandwich Hat, Spring Bunny Hood, Aussie Egg, Spring Bunny Nose, Goth Shoes | **Oliver20717**: Peppermint Penguin (NFR) |
+| 14:00 | **lapulisra**: Crocodile (R), Lion | **Autumnisacutie123**: Pig (FR), Pink Cat, Silly Duck (NR) |
+| 14:00 | **Tea_Teica245**: Gemstone Egg, Catte | **ula12579**: Ride-A-Pet Potion |
+| 14:00 | **arseniylolol**: Strawberry Shortcake Bat Dragon (FR) | **Polufabrikatik_465**: Kangaroo (NFR), Mermicorn (FR), Arctic Fox (R) |
+| 14:00 | **Evelina22super**: Dango Penguins ×2, Ride-A-Pet Potion | **leailsake**: Copycat |
+| 14:00 | **MM_Cloud**: Crystal Egg ×15 | **yxxrzzcoow**: Ride-A-Pet Potion |
+| 14:00 | **RyukkHolder**: Fairy Bat Dragon (FR), Borhyaena Gigantica (NR), Ride-A-Pet Potion | **murid5**: Jekyll Hydra (FR) |
+| 14:00 | **elliy5792**: Rainbow Maker | **hugsformy_sisfinjaa**: Firefly (MFR), Mini Schnauzer (M), White Sand Dollar (MFR) |
+| 14:00 | **htd6754j**: Ride-A-Pet Potion ×5 | **cpenk3211**: Copycat |
+| 14:00 | **Kevinp11orange**: Phoenix (NFR), Hawk (NFR), Ride-A-Pet Potion ×2 | **ROBOZVN**: Pig (FR) |
+| 14:00 | **rainbowpuply_cute**: Strawberry Shortcake Bat Dragon (FR) | **MICROCELE6BRITY**: Mini Pig (FR), Puffer Fish (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 14:00 | **puppyplayz198**: Angel Wings, Harp Seal | **Babielily1**: Unicorn Horn, Tiny Wings |
+| 14:00 | **torivfr**: Dragonfruit Fox | **cute_babess**: Binturong, Berry Cool Cube, Dire Wolf (N), Irish Elk, Chick |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
