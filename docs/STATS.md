@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 20:46 UTC by the scrape workflow._
+_Updated 2026-11-22 20:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 20:46 UTC by the scrape workflow._
 | amvgg | 12 | 45,921 | 2026-11-22T20:45 |
 | elve | 12 | 10,128 | 2026-11-22T20:46 |
 
-## AMVGG completed trades: 52,450 total
+## AMVGG completed trades: 52,507 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,142 |
+| 2026-11-22 | 5,199 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 20:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:45 | **linacat203793**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6 | **yrnfsj**: Dango Penguins (NFR) |
-| 20:45 | **kwerixe50**: Kiwi Kiwi | **SAMASITOCKA55**: Chihuahua |
-| 20:45 | **Ninipini20**: Chocolate Chip Bat Dragon Backpack | **5lureeee**: Mule Baskets |
-| 20:45 | **lavamanos88**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R) | **Itsjustthevibez**: African Wild Dog (FR) |
-| 20:45 | **Masha7930**: Arctic Fox (R) ×2, Ride-A-Pet Potion ×13, Fly-A-Pet Potion ×2 | **LacienegaRodriguez20**: Cow (FR) |
-| 20:45 | **emiivsqss2**: Red Sand Dollar (MFR), Space Whale (MFR), Burning Bunny (MFR), 2022 Birthday Cake, Tiny Wings, Unicorn Horn | **serpentibendi**: Aurora Fox (MFR) |
-| 20:45 | **carlkilling**: Sugar Glider (FR) | **girlgameraaaaaaa**: Fly-A-Pet Potion ×14 |
-| 20:45 | **Robloxiana_xxx2011**: Frost Fury (FR), Ghostly Cat (M) | **ambervgils**: Ride-A-Pet Potion ×8 |
-| 20:45 | **shakesqueeer**: Blue Ringed Octopus (MFR), Ranger Beaver (MFR), Panda (MFR) | **siikoreangirl**: Ice Cream Hermit Crab (MFR) |
-| 20:45 | **catvlq**: Christmas Pudding House | **Penutbutter1567**: Ride-A-Pet Potion |
-| 20:45 | **s0larzxxxx**: Balloon Unicorn (FR) | **deathp1ts**: Giant Panda (FR) |
-| 20:45 | **carlkilling**: Turtle (FR) | **clarisse_tubeuse**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion |
-| 20:45 | **flonn_2013**: Crocodile (FR), Jester Dragon (FR) | **yRafah_Bloxinha**: Kangaroo (FR) |
-| 20:40 | **ooohhff85**: Siamese Cat (N), Chick (M), Halloween Evil Dachshund (MFR), Owl (FR) | **CFESG8557777**: Frost Dragon (FR) |
-| 20:40 | **xXcaxapokXx_off**: Fire Mare, Fire Stallion, Red Panda (N), Ginger Cat (N), Bobageist (N), Komodo Dragon | **Sl3epy_giy4**: Ride-A-Pet Potion |
+| 20:55 | **Lxvoddd**: Fairy Bat Dragon (MFR) | **TT_0qwerty45**: Turtle (NFR), Candicorn (NR), Goose (R), Bald Eagle (NFR), Unicorn Horn, Dango Penguins, Fairy Bat Dragon (FR), Irish Water Spaniel (NR), Onza (M) |
+| 20:55 | **lovewqnted**: Harp Seal (MR) | **0Leonie03**: Candicorn (FR), Tree Kangaroo (NFR) |
+| 20:55 | **SupernaycatUwO**: Gemstone Egg, Chihuahua | **itzzzz_emi1**: Snow Owl |
+| 20:55 | **Robloxiana_xxx2011**: Fly-A-Pet Potion | **lovewqnted**: Ride-A-Pet Potion, Paint Sealer ×3 |
+| 20:55 | **Mar_YT550**: Halloween Evil Dachshund | **PiesekTubson**: Halloween Green Zombie Bat Wings |
+| 20:55 | **ilove_milkywayss**: Christmas Pudding House | **miccairns162**: Paint Sealer ×6 |
+| 20:55 | **Cam3o_8**: Bat Dragon (MFR) | **mell0rxs**: Shadow Dragon (MFR), Frost Dragon (MFR), Owl (MFR), Crow (FR) |
+| 20:55 | **bcataliiina**: Candicorn (R), 2022 Birthday Cake, Fly-A-Pet Potion | **Sonya73p**: Candicorn (NFR) |
+| 20:55 | **Ba123773**: DJ Snooze (MFR), Jacobin Pigeon (M), Galactic Hoverboard | **meliodas999q**: Ghost Bunny (NFR) |
+| 20:55 | **mamut_524**: Bush Elephant (NFR) | **A13N4XX**: Goose (FR), Pelican (FR) |
+| 20:55 | **HoliviaGold**: Pet Handler Pro Certificate ×2, Mighty Haetyphoon Animated Sticker | **MakiraLive**: Fly-A-Pet Potion ×2 |
+| 20:55 | **Pierro0_0hehe**: Unicorn (MFR), Unicorn (NFR), Ride-A-Pet Potion ×2 | **vrqaxs**: Copycat (NR) |
+| 20:55 | **anikaaww**: Aurora Fox (MFR), Latte Kitsune (MFR), Yule Log Dog (MFR), Copycat (NFR), Spring Bunny Feet | **sickie_m0use**: Owl (FR) |
+| 20:55 | **anxme_lol**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **rr11nSk**: Ice Cream Cone Hat |
+| 20:55 | **Milk_147017**: Magpie (MR) | **AndresPatato**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
