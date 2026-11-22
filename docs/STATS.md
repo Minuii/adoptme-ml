@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 09:40 UTC by the scrape workflow._
+_Updated 2026-11-22 09:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 09:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 34,072 | 2026-11-22T09:30 |
-| elve | 12 | 7,333 | 2026-11-22T09:31 |
+| amvgg | 12 | 34,329 | 2026-11-22T09:45 |
+| elve | 12 | 7,401 | 2026-11-22T09:46 |
 
-## AMVGG completed trades: 49,015 total
+## AMVGG completed trades: 49,037 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,707 |
+| 2026-11-22 | 1,729 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 09:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:40 | **Kaneki_Damba**: Jacobin Pigeon (M), Mummy Spider (N), Bolt (N), Stray Cat Dragon ×2, Skelicorn | **HOCOKKU**: Ride-A-Pet Potion |
-| 09:40 | **Samira_pro10**: Double Stroller | **lera_573038**: Snowman Stroller |
-| 09:40 | **Smertn1k010**: Border Collie (R) ×2 | **piespix**: Fairy Bat Dragon (FR) |
-| 09:40 | **ddolls1nss**: Crow (MFR), Frost Dragon (FR), Giraffe (FR), Owl (R), Kangaroo (R), Albino Monkey (R), Pig (FR) | **Cutepatate088**: Bat Dragon (NFR) |
-| 09:40 | **sufferingtogether**: Goose (R) | **eyebagsq**:  |
-| 09:40 | **gabsotuff**: Pupcicle ×2 | **nornomm**: Respectful Mustache, Dragon Balloon |
-| 09:40 | **00099hh1**: Cow (NFR) | **Jillian_Clarice**: Cow (FR) ×2, Fly-A-Pet Potion |
-| 09:40 | **Theyhate_Noah33**: Pupcicle, Ancient Dragon, Purrowl | **augustlllo**: Pupcicle |
-| 09:40 | **mariagrigoryan1**: Ride-A-Pet Potion | **Rainey_39**: Crystal Egg ×15 |
-| 09:40 | **Kirill123Valiev**: Fly-A-Pet Potion | **imsobored101impoor**: Pet Handler Pro Certificate |
-| 09:40 | **tyt_567r**: Ride-A-Pet Potion | **getmobilethings**: Jumpscare (M), Jacobin Pigeon (M) |
-| 09:36 | **DeoKyleSonic**: Rainbow Maker | **violencesoul**: Cow (FR), Cabbit (FR) |
-| 09:36 | **poor_trichadm**: Cow (FR) ×2 | **s0larzxxxx**: Strawberry Shortcake Bat Dragon (FR) |
-| 09:36 | **mariagrigoryan1**: Pomeranian (M) | **GermidOMika**: Ride-A-Pet Potion |
-| 09:36 | **Sirswagalishsus**: Hot Doggo (R) | **fendi_iix**: Candicorn (FR) ×2, Ride-A-Pet Potion |
+| 09:45 | **chuuiaescutealt**: Squid, Gumball Caterpillar (N), Diamond Dragon, Mrs. Whiskerpips, Stray Cat Dragon | **almavillal6**: Snow Owl (R) |
+| 09:45 | **Dartinome**: Undead Elk, Pinkypillar (M) | **Pypsik111z**: Classic Trade Stand |
+| 09:45 | **emi28na**: Glacier Kitsune (MFR), Cow (NFR) | **zena0812**: Vampire Dragon (MFR), Pain au Chat (M), Zombie Wolf (MR), Flaming Fox (NR), Indian Flying Fox (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 09:45 | **BubicaAndSofia**: Dalmatian, Fly-A-Pet Potion | **finik4901**: Dalmatian (FR) |
+| 09:45 | **Fan89912**: Border Collie (R) | **daanz2**: Ride-A-Pet Potion ×13 |
+| 09:45 | **avokado_6001**: Ride-A-Pet Potion ×4 | **AppleAndMel0n**: Copycat |
+| 09:45 | **flowercat154**: Rat, Tree Sasquatch ×2, Tarantula | **EatenBakery**: Koi Carp |
+| 09:45 | **Amvgg_nul**: Tuxedo Cat (MFR) | **blushbyelle**: Winged Tiger (FR), Puffin (FR), Pomeranian (M) |
+| 09:45 | **Saji_Ls**: Turtle (FR), Sugar Glider (FR), Bush Elephant (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **AMINO4KA7U**: Cow (NFR) |
+| 09:45 | **Zzeero000r**: Pupcicle ×2 | **krot_bo11**: Fly-A-Pet Potion |
+| 09:45 | **NotSweatyOnion**: Green-Chested Pheasant ×2, Nutcracker Squirrel (N), Orangutan (M) | **gh0sttcat0**: Fly-A-Pet Potion |
+| 09:45 | **LikaMoc**: Golden Griffin ×3, Alicorn, Dragon, Oakee Wizard, Winged Horse | **Lord_gg20**: Ride-A-Pet Potion |
+| 09:45 | **taburetkablo**: Spring Bunny Hood, Halloween White Skeleton Dog | **cbmelissa**: Pet Handler Pro Certificate, Spring Bunny Feet, Ride-A-Pet Potion |
+| 09:45 | **Kirill123Valiev**: Pet Handler Pro Certificate | **Lera_mi863**: Ride-A-Pet Potion ×2 |
+| 09:45 | **larisochka_gudeeva98**: Turtle (FR), Unicorn (NFR), Ride-A-Pet Potion ×5 | **megasupper_profi**: Cow (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
