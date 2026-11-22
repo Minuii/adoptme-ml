@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 07:15 UTC by the scrape workflow._
+_Updated 2026-11-22 07:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 07:15 UTC by the scrape workflow._
 | amvgg | 12 | 31,802 | 2026-11-22T07:15 |
 | elve | 12 | 6,814 | 2026-11-22T07:15 |
 
-## AMVGG completed trades: 48,538 total
+## AMVGG completed trades: 48,548 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,230 |
+| 2026-11-22 | 1,240 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 07:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:25 | **vstxcey**: Cow (NFR), Hedgehog, Mini Pig (R), SSBD Beanie, Toaster Hat ×2, Tiny Wings | **4evxer**: Frost Dragon (FR) |
+| 07:25 | **Addmymainamv**: Hedgehog (FR), Arctic Reindeer (FR), Kangaroo (FR) | **icebaby545**: Chocolate Chip Bat Dragon (FR) ×3 |
+| 07:25 | **dereck8036**: Puffin | **gxrxjy360**: Ride-A-Pet Potion ×5 |
+| 07:25 | **azha2921**: Ride-A-Pet Potion | **rrgxetss**: Zombie Wolf |
+| 07:25 | **xKo4kax**: Kangaroo (FR), Ride-A-Pet Potion ×12, Pet Handler Pro Certificate | **Ruperto_1297**: Cow (FR) |
+| 07:25 | **Youdi_off**: Fly-A-Pet Potion ×2 | **blushbyelle**: Pet Handler Pro Certificate ×2 |
+| 07:25 | **sar1ahkn1ght**: Candicorn (FR), Ketchup and Mustard Jetpack, Glider, Water Rabbit | **Krashiha_Karolina26**: Siamese Cat (FR) |
+| 07:25 | **1MZ03Y**: River Otter (M) | **Dudossik**: Ride-A-Pet Potion |
+| 07:25 | **Ikaxchu**: Giant Panda, Chocolate Dutch Guinea Pig | **Anastasika_agent**: Giant Panda (R) |
+| 07:25 | **RitaHi15**: Turtle (FR), Mini Pig (FR) ×2, Alpaca (R), Siamese Cat (FR), Kangaroo (FR) | **caehoon**: Parrot (FR) |
 | 07:15 | **Robloxians7j0j0f6h**: Copycat | **Sofiko_135791**: Unicorn (NFR) |
 | 07:15 | **folow_lera0**: Dalmatian (R), Cow (R), Peppermint Penguin (R), Tortuga de la Isla (NR), Flamingo (FR), Ice Cream Cone Hat, Spring Bunny Hood, Admin Abuse Box | **AlinaAtRoblox**: Owl (FR) |
 | 07:15 | **tr4d3s_adoptnew**: Dalmatian (FR) | **Nas2736tia**: Dalmatian (R), Ride-A-Pet Potion |
 | 07:15 | **aidencool9050**: Admin Abuse Egg ×18 | **Crims0n_Dusk**: Ride-A-Pet Potion |
 | 07:15 | **Artem_milkSG**: Halloween Black Mummy Cat (N), Mummy Spider (N), Ancient Dragon, Purrowl, Mochi Meow, Golden Griffin, Alicorn, Bobageist (N) | **pSYch1cx**: Ride-A-Pet Potion |
-| 07:15 | **valor_6f4**: Postie Van, Celestial Carrier, Dapper Friend Carrier, Dino Truck, Canine Cruiser, Zamboni, Clown Car, Candy Camper, Spinning Teacup Vehicle, Hot Air Balloon, Galleon, Tractor, Harvest Truck, Rift Rider, Galactic Hoverboard, Stocked Santa Sleigh, Ruddy Duck Waddler, Mongoose | **kolbasca_top**: Ride-A-Pet Potion ×2 |
-| 07:15 | **JuliaCat_Roblox1**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×9 | **llkkiop12345**: Turtle (FR) |
-| 07:15 | **splashJuggernaut**: Copycat (NR) | **RainBOW_Vam47**: Ride-A-Pet Potion, Fly-A-Pet Potion ×5, Crocodile |
-| 07:15 | **FouWait1**: Strawberry Shortcake Bat Dragon (FR), Turtle (NFR), Cow (FR), Kangaroo (FR) | **naysa72**: Parrot (FR) |
-| 07:15 | **regina_12z**: Fly-A-Pet Potion | **w1w1w_1010**: Ride-A-Pet Potion ×2 |
-| 07:15 | **Evelina22super**: Jacobin Pigeon (M) ×2 | **q_weey**: Ride-A-Pet Potion |
-| 07:15 | **imxwwq**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **splashJuggernaut**: Mermicorn (FR) |
-| 07:15 | **imxwwq**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **splashJuggernaut**: Mermicorn (FR) |
-| 07:15 | **angela_umerez4**: Orchid Butterfly (FR), Orchid Butterfly (R), Dango Penguins (N) | **TANSKlN**: Owl (FR) |
-| 07:15 | **dianadonatlove**: Ride-A-Pet Potion ×2 | **Mnryyrm**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
