@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 09:46 UTC by the scrape workflow._
+_Updated 2026-11-22 09:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 09:46 UTC by the scrape workflow._
 | amvgg | 12 | 34,329 | 2026-11-22T09:45 |
 | elve | 12 | 7,401 | 2026-11-22T09:46 |
 
-## AMVGG completed trades: 49,037 total
+## AMVGG completed trades: 49,069 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,729 |
+| 2026-11-22 | 1,761 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 09:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:45 | **chuuiaescutealt**: Squid, Gumball Caterpillar (N), Diamond Dragon, Mrs. Whiskerpips, Stray Cat Dragon | **almavillal6**: Snow Owl (R) |
-| 09:45 | **Dartinome**: Undead Elk, Pinkypillar (M) | **Pypsik111z**: Classic Trade Stand |
-| 09:45 | **emi28na**: Glacier Kitsune (MFR), Cow (NFR) | **zena0812**: Vampire Dragon (MFR), Pain au Chat (M), Zombie Wolf (MR), Flaming Fox (NR), Indian Flying Fox (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 09:45 | **BubicaAndSofia**: Dalmatian, Fly-A-Pet Potion | **finik4901**: Dalmatian (FR) |
-| 09:45 | **Fan89912**: Border Collie (R) | **daanz2**: Ride-A-Pet Potion ×13 |
-| 09:45 | **avokado_6001**: Ride-A-Pet Potion ×4 | **AppleAndMel0n**: Copycat |
-| 09:45 | **flowercat154**: Rat, Tree Sasquatch ×2, Tarantula | **EatenBakery**: Koi Carp |
-| 09:45 | **Amvgg_nul**: Tuxedo Cat (MFR) | **blushbyelle**: Winged Tiger (FR), Puffin (FR), Pomeranian (M) |
-| 09:45 | **Saji_Ls**: Turtle (FR), Sugar Glider (FR), Bush Elephant (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **AMINO4KA7U**: Cow (NFR) |
-| 09:45 | **Zzeero000r**: Pupcicle ×2 | **krot_bo11**: Fly-A-Pet Potion |
-| 09:45 | **NotSweatyOnion**: Green-Chested Pheasant ×2, Nutcracker Squirrel (N), Orangutan (M) | **gh0sttcat0**: Fly-A-Pet Potion |
-| 09:45 | **LikaMoc**: Golden Griffin ×3, Alicorn, Dragon, Oakee Wizard, Winged Horse | **Lord_gg20**: Ride-A-Pet Potion |
-| 09:45 | **taburetkablo**: Spring Bunny Hood, Halloween White Skeleton Dog | **cbmelissa**: Pet Handler Pro Certificate, Spring Bunny Feet, Ride-A-Pet Potion |
-| 09:45 | **Kirill123Valiev**: Pet Handler Pro Certificate | **Lera_mi863**: Ride-A-Pet Potion ×2 |
-| 09:45 | **larisochka_gudeeva98**: Turtle (FR), Unicorn (NFR), Ride-A-Pet Potion ×5 | **megasupper_profi**: Cow (FR) |
+| 09:51 | **odading12318**: Jester Dragon, Copycat | **Kitsune2287**: Fly-A-Pet Potion ×5 |
+| 09:51 | **gffdjddd23_4**: Ranger Beaver (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **ammera2330**: Kangaroo (FR) |
+| 09:51 | **GUODTIK**: Fly-A-Pet Potion, Halloween Evil Dachshund (NR), Sea Angel (N), Pupcicle | **Milechka_Pilmeshka**: Cold Cube (MFR) |
+| 09:51 | **violencesoul**: Diamond Amazon (NFR) | **astarlingss**: Brown Springer Spaniel (MFR), Hippo (MFR) |
+| 09:51 | **3htrio**: Cryptid (FR) | **pivozkranu**: Copycat (MFR), Crocodile (FR), Peachick, Dugong, Island Tarsier |
+| 09:51 | **kagurasgl0w**: Cabbit | **lirvi_kiti**: Crocodile (R), Arctic Fox (FR), Cerberus (R), Pancake Stack, Banana Hat, Jeff's Nametag, Kitty Biscuit, Propeller Hat |
+| 09:51 | **Yulia33326**: Malaysian Tapir (N), Lamb (R), Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Dalmatian (FR), Pig (FR), Nessie (MFR) | **J4DEDUHH**: Giant Panda (FR) |
+| 09:51 | **DelightfulCoolRay**: Turtle (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion ×6 | **LikeVar4ek**: Cow (FR) |
+| 09:51 | **CHOZABRETOOOOOO**: Royal Palace Spaniel (FR) | **036daylan**: Ride-A-Pet Potion |
+| 09:51 | **aurorafox679**: Velocirooster, Ride-A-Pet Potion, Fly-A-Pet Potion | **Someone0_qwq**: Arctic Fox |
+| 09:51 | **sleepysmi**: Ride-A-Pet Potion, Frostbite Bear and Cub Animated Sticker | **oreo23990**: Amethyst Skies Mega Neon Paint, Mighty Haetyphoon Animated Sticker |
+| 09:51 | **fyffddt5**: Sloth (R) | **ITZLERA3567**: Ride-A-Pet Potion |
+| 09:51 | **Giyou_Tomoko**: Ride-A-Pet Potion | **larisochka_gudeeva98**: Cannon Stroller, Strawberry Stroller |
+| 09:51 | **KUTU_KET06**: Poodle (N), Pangolin (N), Angus Calf (N), Bobageist (N), Crimson Cape (N), Clumpty (N), Gecko Ducky (N), Pinkypillar (N), Princess Mare (N) | **kh6rin**: Ride-A-Pet Potion |
+| 09:51 | **dtzombii**: Emperor Gorilla (R) | **mewkaiso**: Flash Weasel (F) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
