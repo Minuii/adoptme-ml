@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 16:31 UTC by the scrape workflow._
+_Updated 2026-11-22 16:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 16:31 UTC by the scrape workflow._
 | amvgg | 12 | 41,323 | 2026-11-22T16:30 |
 | elve | 12 | 9,110 | 2026-11-22T16:31 |
 
-## AMVGG completed trades: 50,971 total
+## AMVGG completed trades: 51,044 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 3,663 |
+| 2026-11-22 | 3,736 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:30 | **Austa_675**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Panda39643**: Gemstone Egg ×6 |
-| 16:30 | **Lerixiss**: Jester Dragon | **Cookie_lover13232**: Ride-A-Pet Potion ×4 |
-| 16:30 | **Onyx_ctr**: Ride-A-Pet Potion | **L0x_BoX**: Sunglider (N) |
-| 16:30 | **miiia121297**: Peppermint Penguin (MFR), Tiny Wings, Toaster Hat | **SeverusSnape103184**: Strawberry Tortle (MFR) |
-| 16:30 | **nfrmikey1**: Frost Fury (FR) | **marmelat_564**: Nessie (FR) |
-| 16:30 | **batton0955**: Fly-A-Pet Potion | **Yaruna_10735**: Pancake Stack |
-| 16:30 | **andzdza**: Prismatic Butterfly (MFR), Super Saru (MFR), Snow Monkey (MFR), Drake (MFR), Chocolate Dutch Guinea Pig (MFR), Princess Capuchin Monkey (MFR), Business Monkey (MFR), Panda (MFR), Mirai Moth (MFR) | **Supr3meAlex**: Sea Slug (MFR) |
-| 16:30 | **Ifrbedyingouthere**: Winged Tiger (FR), Werewolf (R), Pupcicle (N) | **0_CyberSpace0**: Cow (FR) |
-| 16:30 | **Asi_niki**: Zombie Chick (N), Crystal Egg | **leonbravlstars228**: Wrapped Doll |
-| 16:30 | **elproXD_7v7**: Chihuahua ×6 | **Hugchamb**: Ride-A-Pet Potion ×2 |
-| 16:30 | **0NekimNick0**: Fly-A-Pet Potion | **ewnnie_alt**: Pangolin (M) ×2, Bubblegeist |
-| 16:30 | **luiscae3**: Jester Dragon (FR) | **clxdy_dreamsYT**: Panda (NFR) |
-| 16:30 | **pawthetiic**: Spring Bunny Hood, Rain Cloud Hat, Ride-A-Pet Potion | **XxAngelXPxXGamer**: Unicorn Horn |
-| 16:30 | **notkakqwe8**: Ride-A-Pet Potion | **nastyxx_ww**: S'mores Raccoon |
-| 16:30 | **DefinitelyNotCha6**: Sock Chew Toy, Marsh Plush, Heart Balloon, Gift Throw Toy, Cookie Dough Plush ×3, Candle ×2, Banana Plush, Turkey Plush, Ornament Throw Toy | **xXKan_CanadaXx**: Fly-A-Pet Potion |
+| 16:40 | **luiscae3**: Ice Cream Hermit Crab (NFR), Tree Kangaroo (NR) | **Balqis_BM182**: Owlbear (NFR) |
+| 16:40 | **hbdk447**: Easter Bunny (MR) | **aikouwu27**: Ride-A-Pet Potion ×2 |
+| 16:40 | **Defnot_kaisalt**: Cabbit (NFR), French Bulldog (MFR), Great Pyrenees (MR) | **Sonya73p**: Sheeeeep (MFR) |
+| 16:40 | **scrossgirl**: Bat Wings | **detective_emilly**: Bready Necklace |
+| 16:40 | **Eva110081**: Field Mouse, Little Lamb ×2, Thunderfisher ×3, Unfortunate Eyelashes, Bat Backpack, Pink Hightops, Hovertible, Orbweaver Glider, Paint Sealer, Witch's Caravan ×2, Gold Circle Glasses | **definitelynotleona**: Flash Weasel |
+| 16:40 | **grcee_rose**: Siamese Cat (R), Munchkin Cat (NR), Candicorn (FR), Dango Penguins (NR), Sugar Glider (R), Alpaca (R), Shark Puppy | **Kozinak_k**: Siamese Cat (MFR) |
+| 16:40 | **irvan34154**: Cryptid (FR) ×2, Parrot (FR), Strawberry Shortcake Bat Dragon (FR) | **jeklooni**: Strawberry Shortcake Bat Dragon (MFR) |
+| 16:40 | **miki3072**: Jester Dragon (R) | **kraket127**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 16:40 | **Shiroooaltt**: Ride-A-Pet Potion ×16 | **Vitek_228666**: Kangaroo (FR) |
+| 16:40 | **RANDYRENO_ALT**: Phantom Dragon (R), Chocolate Dutch Guinea Pig ×2 | **XxLipton_LemonxX**: Cupid Dragon (FR) |
+| 16:40 | **kiara_lotos**: Copycat, Guardian Lion (FR), Skelicorn (M) | **detective_emilly**: Happy Duckling (M) |
+| 16:40 | **cocse00**: Albino Monkey (FR) | **princessjulietah**: Copycat, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2, Diamond Hamster, Chocolate Dutch Guinea Pig, Octopus (R), Cerberus (R), 2D Kitty (R) |
+| 16:40 | **sleepy_s0ren**: Skelicorn ×3, Kitty Biscuit | **terpkha**: Ride-A-Pet Potion |
+| 16:40 | **hotta_whp**: Mini Pig (FR), Ice Cream Cone Hat ×2 | **ANNAPAGAME**: Dango Penguins (MFR) |
+| 16:40 | **fenekitfixismymain**: Halloween Slime Mega Neon Paint, Pink Betta Fish | **unicorn_gliters12**: Zombie Wolf |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
