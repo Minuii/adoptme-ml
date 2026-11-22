@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 07:11 UTC by the scrape workflow._
+_Updated 2026-11-22 07:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 07:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 31,559 | 2026-11-22T07:00 |
-| elve | 12 | 6,787 | 2026-11-22T07:01 |
+| amvgg | 12 | 31,802 | 2026-11-22T07:15 |
+| elve | 12 | 6,814 | 2026-11-22T07:15 |
 
-## AMVGG completed trades: 48,519 total
+## AMVGG completed trades: 48,538 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,211 |
+| 2026-11-22 | 1,230 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 07:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:10 | **Summerboy_246**: Frost Dragon (FR), Velocirooster (NFR), Ride-A-Pet Potion, Oakee Knight (MFR) | **TANSKlN**: Candyfloss Chick (MFR) |
-| 07:10 | **Bumble_Lou**: Ride-A-Pet Potion ×5 | **Geo4EverLul**: Copycat |
-| 07:10 | **1ovIIy**: Chihuahua ×2 | **Natsumik_Life**: Ride-A-Pet Potion |
-| 07:10 | **P1nkteeth**: Christmas Pudding Pup (NR), Jeff's Nametag | **Rita_086097**: Crocodile (FR), Crocodile (R) |
-| 07:10 | **Fan_deJennaO**: Jester Dragon (R) | **02harvA_A**: Ride-A-Pet Potion ×5 |
-| 07:10 | **vasamgw**: Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **CutieShadowBunny1**: Copycat |
-| 07:10 | **nejdo109**: Ride-A-Pet Potion ×2 | **pranavsen**: Frog (NFR) |
-| 07:10 | **pranavsen**: Kangaroo (FR) ×9 | **cya_adoptmechallange**: Parrot (FR) |
-| 07:10 | **Rence834**: Spring Bunny Hood ×2, Ride-A-Pet Potion | **skullteast**: Tiny Wings |
-| 07:10 | **adopme2acute**: Turtle (FR), Pet Handler Pro Certificate ×2, Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **meowieboogie**: Cow (FR) |
-| 07:10 | **Malina_90247**: Fairy Bat Dragon (FR), Werewolf (FR), Pirate Hermit Crab (NR) | **lelesayuru**: Winged Tiger (NFR) |
-| 07:10 | **Yupiterd**: Irish Water Spaniel (NFR), Cherry-On-Top | **kaitlyn_candyapple**: Rainbow Maker |
-| 07:10 | **10maya_140311**: Candyfloss Chick (NFR), Mini Pig (R), Pink Betta Fish (M), Pink Cat Ear Headphones | **Kvammletitraketa**: Hedgehog (FR), Flower Power Duckling (MFR) |
-| 07:10 | **FestiveNotCupcake**: Alley Cat (M) | **Amvggtrad3r**: Dango Penguins (MFR) |
-| 07:10 | **moral608**: Copycat | **SAS7225**: Unicorn (NFR) |
+| 07:15 | **Robloxians7j0j0f6h**: Copycat | **Sofiko_135791**: Unicorn (NFR) |
+| 07:15 | **folow_lera0**: Dalmatian (R), Cow (R), Peppermint Penguin (R), Tortuga de la Isla (NR), Flamingo (FR), Ice Cream Cone Hat, Spring Bunny Hood, Admin Abuse Box | **AlinaAtRoblox**: Owl (FR) |
+| 07:15 | **tr4d3s_adoptnew**: Dalmatian (FR) | **Nas2736tia**: Dalmatian (R), Ride-A-Pet Potion |
+| 07:15 | **aidencool9050**: Admin Abuse Egg ×18 | **Crims0n_Dusk**: Ride-A-Pet Potion |
+| 07:15 | **Artem_milkSG**: Halloween Black Mummy Cat (N), Mummy Spider (N), Ancient Dragon, Purrowl, Mochi Meow, Golden Griffin, Alicorn, Bobageist (N) | **pSYch1cx**: Ride-A-Pet Potion |
+| 07:15 | **valor_6f4**: Postie Van, Celestial Carrier, Dapper Friend Carrier, Dino Truck, Canine Cruiser, Zamboni, Clown Car, Candy Camper, Spinning Teacup Vehicle, Hot Air Balloon, Galleon, Tractor, Harvest Truck, Rift Rider, Galactic Hoverboard, Stocked Santa Sleigh, Ruddy Duck Waddler, Mongoose | **kolbasca_top**: Ride-A-Pet Potion ×2 |
+| 07:15 | **JuliaCat_Roblox1**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×9 | **llkkiop12345**: Turtle (FR) |
+| 07:15 | **splashJuggernaut**: Copycat (NR) | **RainBOW_Vam47**: Ride-A-Pet Potion, Fly-A-Pet Potion ×5, Crocodile |
+| 07:15 | **FouWait1**: Strawberry Shortcake Bat Dragon (FR), Turtle (NFR), Cow (FR), Kangaroo (FR) | **naysa72**: Parrot (FR) |
+| 07:15 | **regina_12z**: Fly-A-Pet Potion | **w1w1w_1010**: Ride-A-Pet Potion ×2 |
+| 07:15 | **Evelina22super**: Jacobin Pigeon (M) ×2 | **q_weey**: Ride-A-Pet Potion |
+| 07:15 | **imxwwq**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **splashJuggernaut**: Mermicorn (FR) |
+| 07:15 | **imxwwq**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **splashJuggernaut**: Mermicorn (FR) |
+| 07:15 | **angela_umerez4**: Orchid Butterfly (FR), Orchid Butterfly (R), Dango Penguins (N) | **TANSKlN**: Owl (FR) |
+| 07:15 | **dianadonatlove**: Ride-A-Pet Potion ×2 | **Mnryyrm**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
