@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 08:40 UTC by the scrape workflow._
+_Updated 2026-11-22 08:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 08:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 33,044 | 2026-11-22T08:30 |
-| elve | 12 | 7,086 | 2026-11-22T08:31 |
+| amvgg | 12 | 33,303 | 2026-11-22T08:45 |
+| elve | 12 | 7,139 | 2026-11-22T08:46 |
 
-## AMVGG completed trades: 48,786 total
+## AMVGG completed trades: 48,788 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,478 |
+| 2026-11-22 | 1,480 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,8 @@ _Updated 2026-11-22 08:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:45 | **nnseoi**: Kangaroo (FR), Border Collie (FR), Ride-A-Pet Potion | **M1cahsWRLD**: Cow (FR) |
+| 08:45 | **wskdaks**: Unicorn (M), Ride-A-Pet Potion, Crystal Egg ×7 | **PREPPY_ROBLOXWORLD1**: Unicorn (NFR), Arctic Fox (R) |
 | 08:40 | **NecorXax**: Goat (NFR), Pancake Stack | **adriel_24k**: Cow (FR) |
 | 08:40 | **glorimin21**: Frankenfeline, Hopbop, Garden Snake, Moonpine, Starmite, Scarecrow Cat | **Dasha_catlapa2008**: Flower Beret |
 | 08:40 | **pakhychHE**: Halloween White Ghost Dragon | **AutoTradeCommission**: Fly-A-Pet Potion, Ride-A-Pet Potion |
@@ -50,8 +52,6 @@ _Updated 2026-11-22 08:40 UTC by the scrape workflow._
 | 08:40 | **clalouetciedh**: Ancient Dragon ×14 | **Martinotschka**: Ride-A-Pet Potion |
 | 08:40 | **Kirill123Valiev**: Brown Springer Spaniel (FR), Paint Sealer, 2026 Birthday Butterfly (N), Swordfish, Orca, Clumpty ×4, Granny Wolf ×4 | **iiSimplyxSkyexx**: Fly-A-Pet Potion |
 | 08:40 | **mapIedoIIy**: Cryptid (FR), Munchkin Cat (FR), Ghostly Cat (MFR), Golden Jaguar (MFR), Toaster Hat, Tiny Wings | **leruval**: Crow (FR) |
-| 08:40 | **Imabeehehe300**: Field Mouse (MFR) | **wloobb**: 2022 Birthday Cake, 2022 Birthday Party Hat, Unicorn Horn ×2, Ice Cream Cone Hat, Pancake Stack |
-| 08:40 | **XxBETEPO4EK_kekcukxX**: Haetyphoon (FR), Matcha Cat | **im_noob999915**: Crocodile (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
