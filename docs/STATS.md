@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 02:40 UTC by the scrape workflow._
+_Updated 2026-11-22 02:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 02:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 27,244 | 2026-11-22T02:30 |
-| elve | 12 | 5,844 | 2026-11-22T02:31 |
+| amvgg | 12 | 27,474 | 2026-11-22T02:45 |
+| elve | 12 | 5,910 | 2026-11-22T02:46 |
 
-## AMVGG completed trades: 47,779 total
+## AMVGG completed trades: 47,783 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 471 |
+| 2026-11-22 | 475 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,10 @@ _Updated 2026-11-22 02:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:45 | **Zocko007**: Parrot (FR), Elephant (FR) | **KotMonster7**: Evil Unicorn (NFR) |
+| 02:45 | **Lynn_n77**: Spring Bunny Hood, Ride-A-Pet Potion ×3 | **Angelbatista_me2**: Giant Anteater |
+| 02:45 | **Lynn_n77**: Moon Rabbit (N), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **luna2028192**: Giant Anteater (FR) |
+| 02:45 | **blushmewi**: Hopbop (M) | **sarahang3la**: Ride-A-Pet Potion |
 | 02:40 | **4ngxl_4195**: Unicorn (R) | **elifanaekinci**: Ride-A-Pet Potion |
 | 02:40 | **cnqrls**: Black Macaque (MFR) | **miruadm**: Hamster (MR), Ginger Cat (M), Monkey (M), Zebra (MR), Count Slothula |
 | 02:40 | **OneVLOG99**: Gemstone Egg | **cesarx_o**: Christmas Pudding House |
@@ -48,10 +52,6 @@ _Updated 2026-11-22 02:40 UTC by the scrape workflow._
 | 02:40 | **Tzatziki123**: African Wild Dog, Munchkin Cat (R) | **MIA_AA27**: Balloon Unicorn (FR) |
 | 02:40 | **K1TTY_HEREE**: Lion Cub (NR), Hare (N) | **Xxskibidy67**: Mini Pig (FR) |
 | 02:40 | **MIA_AA27**: German Shepherd (MFR) | **jkristoff_4**: Unicorn Horn |
-| 02:40 | **roblox_user_8676283275**: Orchid Butterfly (MFR), Kangaroo (R), Pig (R) | **KiaXias**: Owl (NFR), Giraffe (FR) ×2, Parrot (FR) |
-| 02:40 | **hunterfenix20**: Sheeeeep | **MAYAPLAYZ13Y**:  |
-| 02:40 | **CloudAMs**: Crystal Egg ×15 | **Elwanizk**: Ride-A-Pet Potion |
-| 02:40 | **Green_cocoa1**: Cerberus (NR) | **TwistedK1tty**: Copycat (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
