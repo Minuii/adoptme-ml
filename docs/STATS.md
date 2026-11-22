@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 17:40 UTC by the scrape workflow._
+_Updated 2026-11-22 17:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 17:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 42,396 | 2026-11-22T17:30 |
-| elve | 12 | 9,392 | 2026-11-22T17:31 |
+| amvgg | 12 | 42,674 | 2026-11-22T17:45 |
+| elve | 12 | 9,460 | 2026-11-22T17:46 |
 
-## AMVGG completed trades: 51,434 total
+## AMVGG completed trades: 51,472 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 4,126 |
+| 2026-11-22 | 4,164 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 17:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:40 | **wavehrt**: 2022 Birthday Party Hat, Halo ×2, Strawberry Hat ×2, Cotton Candy Hat | **KatesArrow**: Cryptid (FR) |
-| 17:40 | **nestinas**: Ride-A-Pet Potion, Paint Sealer | **Angel_perez12345**: Rhino |
-| 17:40 | **nfrmikey1**: Dodo (MFR), Happy Duckling (MR), Water Rabbit (N) | **as3r4phsz**: Solaris (MFR) |
-| 17:40 | **f0rgettablegirl**: Polar Bear (MFR), Brown Bear (MFR), Gaelic Fae (MFR), Golden Penguin (MFR), Chocolate Dutch Guinea Pig (M), Green Butterfly (MFR), Peach Owl (MFR), Ghost Bunny (MFR), Puffer Fish (MFR), Harp Seal (MR) | **obv1kylxx**: Sugar Glider (MFR) |
-| 17:40 | **HOWABOUT_NoORYesIDC**: Ride-A-Pet Potion ×2, Angus Calf (NR) | **s_tvvrn**: Pancake Stack |
-| 17:40 | **sonyalove643**: Dragonfly (N) | **fyffddt5**: Dragonfly (R) |
-| 17:40 | **Jayd_enLight36**: Kangaroo (FR), Pet Handler Pro Certificate ×3, Ride-A-Pet Potion ×8, Chick Backpack, Chick Hat | **IROBINSHARK1**: Cow (R) |
-| 17:40 | **lolcryabtit6767**: Polar Bear (MFR), Kangaroo (NFR), Spring Bunny Hood, Ride-A-Pet Potion | **TradeMehOnMahMain**: Nessie (MFR) |
-| 17:40 | **Good_Girl5550**: Ride-A-Pet Potion, Pupcicle | **Cutelover3579**: Snow Owl (FR) |
-| 17:40 | **xMoon_289**: Muskrat (M), Beluga Whale (N), Toy Poodle, Woolly Mammoth | **SOuLKeY61**: Ride-A-Pet Potion |
-| 17:40 | **awx_mili**: Christmas Pudding Pup, Brown Bear, Latte Kitsune ×2, Dango Penguins, Majestic Pony, Unicorn, Copycat (R) | **op_con0**: Turtle (FR) |
-| 17:40 | **TheAddictedSpider**: Crystal Egg ×16 | **bell_flowers**: Panda |
-| 17:40 | **Violetano03**: Alpaca (R), Chihuahua, Gemstone Egg, Ride-A-Pet Potion ×2 | **NaomiUnicorn25**: Cabbit (R) |
-| 17:40 | **alexsteadh**: Great Pyrenees ×3, Strawberry Clip | **Cocicka272**: Fly-A-Pet Potion |
-| 17:40 | **SavageFox_Alpha1**: Giraffe (R), German Shepherd | **catDJpop17**: Giraffe (FR) |
+| 17:45 | **Agyra11**: Horse Plush, Unicorn Zombie Ponycycle, Heart Hoverboard | **Furry_lechuga**: Ride-A-Pet Potion |
+| 17:45 | **XxxRynaxxXX**: Cow (FR), Moon Rabbit, Ride-A-Pet Potion ×3 | **pikmon4ik**: Kangaroo (NFR) |
+| 17:45 | **VikaQuiet**: Christmas Pudding House | **Quite_Owl**: Butter Knife |
+| 17:45 | **Shynisocool**: Candicorn (MFR), Siamese Cat, Pet Handler Pro Certificate, Fly-A-Pet Potion ×3 | **RuthJavxn**: Balloon Unicorn (FR) |
+| 17:45 | **LikeVar4ek**: Pupcicle, Chihuahua, Lemonade Stand | **Zoescats111**: Ride-A-Pet Potion |
+| 17:45 | **catgirlhaha19**: Goose | **rb_feel**: Wood Pigeon (N), Ghost Bunny (MFR), Flaming Fox, Dimension Drifter (N) |
+| 17:45 | **helloiam_spongebob**: Turtle (FR) ×2, Lion (FR), Zombie Buffalo (FR), Ride-A-Pet Potion | **NOOBinROBLOX2022**: Cow (FR) ×2 |
+| 17:45 | **Santywut1**: Shiver Wolf (MFR), Toaster Hat, Fly-A-Pet Potion, Ride-A-Pet Potion | **Kaylax_104**: Nessie (NFR) |
+| 17:45 | **Omar2002548**: Corgi (M) | **everytmii**: Admin Abuse Egg ×18 |
+| 17:45 | **Eldrian06**: Strawberry Shortcake Bat Dragon (R), Copycat ×5, Toaster Hat | **rizzimurarikiiz**: Evil Unicorn (FR) |
+| 17:45 | **Imsorryroblox826**: Aussie Egg, Dango Penguins | **Alorasdreem**: Vampire Dragon (R) |
+| 17:45 | **Omar2002548**: Zebra (M) | **everytmii**: Admin Abuse Egg ×18 |
+| 17:45 | **Blueboi308**: Ice Cream Hermit Crab (NR) | **Piska_sanLoshara666**: Flash Weasel (FR) |
+| 17:45 | **Omar2002548**: Midnight Dragon, Eggnog Dog (N), Purrowl, Electric Hornet, Thunderfisher ×2, Fire Foal ×4, Admin Abuse Egg ×5 | **amogus_228q**: Midnight Dragon |
+| 17:45 | **Cocicka272**: Chocolate Chip Bat Dragon (FR), Mini Pig, Sugar Glider (R), Copycat (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **simplyxarv**: Cow (FR) ×3, 2022 Birthday Cake, Unicorn Horn |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
