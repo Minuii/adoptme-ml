@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 16:01 UTC by the scrape workflow._
+_Updated 2026-11-22 16:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 16:01 UTC by the scrape workflow._
 | amvgg | 12 | 40,786 | 2026-11-22T16:00 |
 | elve | 12 | 9,013 | 2026-11-22T16:01 |
 
-## AMVGG completed trades: 50,778 total
+## AMVGG completed trades: 50,835 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 3,470 |
+| 2026-11-22 | 3,527 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 16:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:00 | **Makkertjesfilmpies**: Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR) | **Viktoria_11942**: Frost Dragon (FR) |
-| 16:00 | **DONT_BEPICKY0**: Sea Angel (N), Ribbon Seal (N) ×2, Ocelot (N), Gummy Guana (N) ×2, Ginger Cat (N) ×2 | **Joelzoz**: Zebra (M), Cow Calf (FR), Highland Cow |
-| 16:00 | **roblox_bille12109**: Pet Handler Pro Certificate, Fairytale Egg ×8, Cat (M) | **Sunny_Frinch**: Alley Cat |
-| 16:00 | **QUliaka**: Jester Dragon | **theJDgamer161**: Ride-A-Pet Potion ×4 |
-| 16:00 | **XxOmgItsFrankie**: Goat (MFR), Pretty Pony (MFR), Amami Rabbit (MFR), Unicorn Horn ×2, Rain Cloud Hat, Spring Bunny Hood ×2 | **akzoad**: Frost Unicorn (MFR) |
-| 16:00 | **russelroblox1234**: Kangaroo (NFR), Munchkin Cat (NFR), Fairy Bat Dragon (FR), Cabbit (R), Pink Cat (NFR), Mermicorn (FR) | **Siren_AriaBlaze**: Siamese Cat (R) ×6, Lion (R) ×4 |
-| 16:00 | **sct_sct1999**: Red Panda (N), Mummy Spider (N), Mahi Mahi (M), Blue Cat (N), Bolt (N), Puma (N) ×2, Rat, Beaver, Onza | **uuukabzhxj78**: Ride-A-Pet Potion |
-| 16:00 | **v5tsok**: Jester Dragon (R), Ride-A-Pet Potion | **xXdie_Mika**: Frost Fury (R) |
-| 16:00 | **Aslie_17**: Pink Cat Ear Headphones | **tessadegroot2009**: Fly-A-Pet Potion |
-| 16:00 | **Cinzsins**: Jellyfish (MFR), French Bulldog (MFR), Flaming Fox | **iqtxlia**: Field Mouse (M), Munchkin Cat (M) |
-| 16:00 | **xKo4kax**: Clementine Owl (R), Alicorn ×2, Metal Ox, Bobageist (N) | **uuukabzhxj78**: Ride-A-Pet Potion |
-| 16:00 | **Amvgg_Amvggg**: Hedgehog (FR), Cow (FR) | **hbdk447**: Evil Unicorn (FR), Mini Pig (FR) |
-| 16:00 | **FruitcakeSEALS**: Spring Bunny Hood, Propeller Hat, Pancake Stack | **s_tvvrn**: Toaster Hat |
-| 16:00 | **Vitamirka**: Kiwi Kiwi, Admin Abuse Egg ×7 | **Cookie_lover13232**: Ride-A-Pet Potion |
-| 16:00 | **Addo_Cit**: Neon White Scooter | **puppyman246**: Ride-A-Pet Potion, Bloodhound (N) |
+| 16:06 | **KarlotaRaquel**: Fly-A-Pet Potion ×4 | **UNLIMITET01**: Ice Cream Cone Hat |
+| 16:06 | **Ebonyaqt**: Candyfloss Chick (NFR), Halo, 2022 Birthday Cake, Unicorn Horn | **shailalovesjesus**: Balloon Unicorn (FR) |
+| 16:06 | **Elf_Deme**: Ice Cream Cone Hat, Cherry-On-Top, 2022 Birthday Cake, Unicorn Horn ×2, Ride-A-Pet Potion | **zeejnaa**: Evil Unicorn (FR) |
+| 16:06 | **ferminoi7**: Purrowl, Ancient Dragon, Bubblegeist, Dragonfly, Three Blind Mice, Crimson Cape (N) | **adoppme42**: Ride-A-Pet Potion |
+| 16:06 | **SUPER_TREMPE**: Albino Monkey (FR), Ice Cream Cone Hat | **s_tvvrn**: 2022 Birthday Party Hat |
+| 16:06 | **zombi_Meow67**: Frost Dragon (NFR), Owl (FR), Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR) | **Ryxnisgoofy3**: Bat Dragon (FR) |
+| 16:06 | **sufferingtogether**: Pinkypillar (MR) | **eyebagsq**: Ride-A-Pet Potion |
+| 16:06 | **nimalina463**: Pretty Pony (MFR) | **Ameera_109**: Super Saru (MFR) |
+| 16:06 | **cravingnep**: Ice Golem (MFR), Ice Wolf (MR), Puffin (FR) | **lolppp0vld**: Copycat (MFR) |
+| 16:06 | **Deinabiluana**: Glormy Hound (N), Owlbear (FR), Nessie (R), Ride-A-Pet Potion ×2 | **grijfe8r**: Owlbear (NFR) |
+| 16:06 | **yasukie7u7**: Ride-A-Pet Potion ×4 | **dia40r**: Dango Penguins ×2 |
+| 16:06 | **mellqxxrb**: Golden Tortoise Beetle, Count Slothula | **kraket127**: Ride-A-Pet Potion |
+| 16:06 | **SIMPita_DeJona**: Ride-A-Pet Potion ×4 | **lzxsre**: Jester Dragon |
+| 16:06 | **Rint0ru**: Puffin | **Siren_AriaBlaze**: Harp Seal (N) |
+| 16:06 | **last3_222**: Dango Penguins (MFR), Dango Penguins, Bunny Swirl (N) | **yasukie7u7**: Alley Cat (MFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
