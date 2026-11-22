@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 04:01 UTC by the scrape workflow._
+_Updated 2026-11-22 04:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 04:01 UTC by the scrape workflow._
 | amvgg | 12 | 28,691 | 2026-11-22T04:00 |
 | elve | 12 | 6,175 | 2026-11-22T04:01 |
 
-## AMVGG completed trades: 48,004 total
+## AMVGG completed trades: 48,041 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 696 |
+| 2026-11-22 | 733 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 04:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:00 | **MM_Cloud**: Crystal Egg ×15 | **miuehla**: Ride-A-Pet Potion |
-| 04:00 | **Umoyaees**: 2022 Birthday Party Hat, Ride-A-Pet Potion ×7 | **3iixyy**: Munchkin Cat (NFR) |
-| 04:00 | **Haipookie26**: Dancing Tube Hat, Science Hat | **justbob147**: Ride-A-Pet Potion |
-| 04:00 | **asdshfshs**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×4 | **Smileydreamx21**: Candicorn (FR) |
-| 04:00 | **P1xk1t**: Mermicorn (FR), Ride-A-Pet Potion | **hanb3ki**: Harp Seal (MFR) |
-| 04:00 | **Blum_Anifer**: Energy Aura Feet, White Chef Hat | **nasciel_12**: Burger Boots |
-| 04:00 | **yk_xlea**: Cow | **Rexnnora**: Turtle (FR), Swan (NR), Ride-A-Pet Potion |
-| 04:00 | **abdoosaad**: Lion Cub (R) | **forso_manyacc**: German Shepherd (N), Pupcake (NR) |
-| 04:00 | **MM_Cloud**: Crystal Egg ×15 | **aloechickejnugget**: Ride-A-Pet Potion |
-| 04:00 | **cesarx_o**: Copycat | **cr0x_YT**: Ride-A-Pet Potion ×5, Black Hightops |
-| 04:00 | **yanahaltacc1**: Chihuahua | **Sandra_GG689**: Personal Cannon Launcher |
-| 04:00 | **madislimeg**: Happy Duckling (M), Chihuahua (M), Cassowary (MR), Chocolate Dutch Guinea Pig (NFR), Yeti (NR), Grim Dragon (FR), Pig (FR) | **AutoTradeCommission**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:00 | **Chunli1737**: Fallow Deer (R), Super Saru (R), Pancake Stack | **star_adelina**: Haetyphoon |
-| 04:00 | **WierdoVanilla**: Panda (MFR), Tortoiseshell Guinea Pig | **noriakikakyoinluver**: Cherry-On-Top, French Fries Stroller, Ice Cream Heels, Candyfloss Mega Neon Paint |
-| 04:00 | **cherrymoon4441**: Mermicorn, Frost Unicorn (FR), Frostbite Bear (R), Blue Dog (R), Irish Water Spaniel, Grave Owl (MFR), Copycat, Ride-A-Pet Potion, Shrew (R) | **leruval**: Evil Unicorn (FR) |
+| 04:11 | **Bumble_Lou**: Matcha Cat, Copycat, Inmate Capuchin Monkey (MR), Dragonfruit Fox | **PIasticTree**: Copycat (N) |
+| 04:11 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **Valentita800191**: Bauble Buddies (NR) |
+| 04:11 | **razarvale2z**: Pain au Chat ×6 | **starswirl_64**: Ride-A-Pet Potion ×2 |
+| 04:11 | **Lilyanaa_p**: Cabbit, Cow (FR), Rain Cloud Hat | **cottoncandybike**: Munchkin Cat (MFR) |
+| 04:11 | **strawbearilatte**: Pet Handler Pro Certificate ×10 | **kofiok_sweet**: Unicorn Horn |
+| 04:11 | **Furry_lechuga**: Matcha Cat, Phantom Dragon (R), Rainbow Stroller, Blue Cat Ear Headphones, Snowball Pet (R), Kitty Bat, Ghost Wolf (NR), Puddleducks Hood, Dark Choccybunny (N), Scarecrow Crow, Chick Backpack, Bear Hood, Chick Hat, Glyptodon, Lunar Gold Tiger | **nasciel_12**: Kangaroo (FR) |
+| 04:11 | **esabella0_o**: Balloon Unicorn (FR), Cabbit (NFR), Pancake Stack, Dumpling Friend Hat, Eaten Donut | **JAJAJAN9199**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (NFR) |
+| 04:11 | **ellielielielieee**: Dragonfruit Fox | **Shailyn09**: Spring Bunny Feet |
+| 04:11 | **kelixnz**: Peachick | **betterwatchmerot**: Retired Egg ×18 |
+| 04:11 | **OMGATERGFF**: Alpaca (NFR), Copycat | **Pastel_Angel16**: Cabbit (NFR), Alpaca |
+| 04:11 | **CamilleandJustina100**: Pilot Gull (M), Oakee (M), 2026 Birthday Butterfly (M) | **Serolyns**: Pupcicle ×2 |
+| 04:11 | **Heybolloboom**: Shark Puppy (MFR) | **Auds191102**: Strawberry Penguin (MFR), Bunny Swirl (MFR) |
+| 04:11 | **cinnierollz**: Cryptid (NFR) | **CloudyFalconpro4**: Fairy Bat Dragon (MFR) |
+| 04:11 | **betterwatchmerot**: Pain au Chat | **App1e_ju1c33**: Retired Egg ×15 |
+| 04:11 | **Marilynbrandt662**: Arctic Reindeer (FR), Monkey King (R), Crocodile (FR) ×2, Platypus (N), Moose Calf (NFR), Cabbit (NFR), Grim Dragon (FR), 2022 Birthday Party Horn | **leruval**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
