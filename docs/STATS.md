@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 17:31 UTC by the scrape workflow._
+_Updated 2026-11-22 17:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 17:31 UTC by the scrape workflow._
 | amvgg | 12 | 42,396 | 2026-11-22T17:30 |
 | elve | 12 | 9,392 | 2026-11-22T17:31 |
 
-## AMVGG completed trades: 51,396 total
+## AMVGG completed trades: 51,434 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 4,088 |
+| 2026-11-22 | 4,126 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 17:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:30 | **Hacpu_BHocok**: Ride-A-Pet Potion ×6, Clownfish | **16_Lizi**: Jester Dragon (R) |
-| 17:30 | **Amyisfunnyha**: Dango Penguins (MFR), Panda (MFR), Ride-A-Pet Potion | **Theguruguruslay**: Rainbow Maker, Tiny Wings |
-| 17:30 | **GXZmanu**: Bat Dragon (MFR), Ride-A-Pet Potion | **aamvgg_trading**: Bat Dragon (NFR), Shadow Dragon (NFR), Frost Dragon (MFR), Cryptid (FR), Crow (FR), Dalmatian (MFR), Sugar Glider (NFR), Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR) ×2 |
-| 17:30 | **g0rekw1tties**: 2022 Birthday Party Hat, 2022 Birthday Party Horn | **mimoiroblox1**: Goat (NFR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 |
-| 17:30 | **Heybolloboom**: Hare (MFR), Peachick (M), Web Stroller, Cauldron Stroller, Mummy Spider (M) | **littleprettydolllx**: Hyena (MFR) |
-| 17:30 | **CKaiser5689**: Snow Monkey | **scarIitta**: Dango Penguins |
-| 17:30 | **A1S6JI**: Spring Bunny Hood, Catte | **leora_101**: Green Amazon (MFR) |
-| 17:30 | **CloudAMs**: Crystal Egg ×15 | **Ariwsfx**: Ride-A-Pet Potion |
-| 17:30 | **gumiiitooo**: Siamese Cat, Alpaca (R), Cabbit (R) | **pyetrogamer2345**: Arctic Reindeer (FR) |
-| 17:30 | **WaguriMywaifu1**: Matcha Cat, Balloon Unicorn (FR) | **harpstheunicorn0405**: Crow (FR) |
-| 17:30 | **Khadiheart**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **smartes1230**: Hare (N) |
-| 17:30 | **booluqx**: Ride-A-Pet Potion ×7, Hawk | **Khadiheart**: Fly-A-Pet Potion ×4 |
-| 17:30 | **DNV_M**: Hare (NR), Ride-A-Pet Potion ×2 | **Khadiheart**: Elephant |
-| 17:30 | **themegaplahs**: Albino Monkey (FR), Polar Bear (FR) | **Aminapro111222**: Kangaroo (FR) |
-| 17:30 | **hzmimii**: Ride-A-Pet Potion ×2 | **ksuwexi12**: Stray Cat Dragon (M) |
+| 17:40 | **wavehrt**: 2022 Birthday Party Hat, Halo ×2, Strawberry Hat ×2, Cotton Candy Hat | **KatesArrow**: Cryptid (FR) |
+| 17:40 | **nestinas**: Ride-A-Pet Potion, Paint Sealer | **Angel_perez12345**: Rhino |
+| 17:40 | **nfrmikey1**: Dodo (MFR), Happy Duckling (MR), Water Rabbit (N) | **as3r4phsz**: Solaris (MFR) |
+| 17:40 | **f0rgettablegirl**: Polar Bear (MFR), Brown Bear (MFR), Gaelic Fae (MFR), Golden Penguin (MFR), Chocolate Dutch Guinea Pig (M), Green Butterfly (MFR), Peach Owl (MFR), Ghost Bunny (MFR), Puffer Fish (MFR), Harp Seal (MR) | **obv1kylxx**: Sugar Glider (MFR) |
+| 17:40 | **HOWABOUT_NoORYesIDC**: Ride-A-Pet Potion ×2, Angus Calf (NR) | **s_tvvrn**: Pancake Stack |
+| 17:40 | **sonyalove643**: Dragonfly (N) | **fyffddt5**: Dragonfly (R) |
+| 17:40 | **Jayd_enLight36**: Kangaroo (FR), Pet Handler Pro Certificate ×3, Ride-A-Pet Potion ×8, Chick Backpack, Chick Hat | **IROBINSHARK1**: Cow (R) |
+| 17:40 | **lolcryabtit6767**: Polar Bear (MFR), Kangaroo (NFR), Spring Bunny Hood, Ride-A-Pet Potion | **TradeMehOnMahMain**: Nessie (MFR) |
+| 17:40 | **Good_Girl5550**: Ride-A-Pet Potion, Pupcicle | **Cutelover3579**: Snow Owl (FR) |
+| 17:40 | **xMoon_289**: Muskrat (M), Beluga Whale (N), Toy Poodle, Woolly Mammoth | **SOuLKeY61**: Ride-A-Pet Potion |
+| 17:40 | **awx_mili**: Christmas Pudding Pup, Brown Bear, Latte Kitsune ×2, Dango Penguins, Majestic Pony, Unicorn, Copycat (R) | **op_con0**: Turtle (FR) |
+| 17:40 | **TheAddictedSpider**: Crystal Egg ×16 | **bell_flowers**: Panda |
+| 17:40 | **Violetano03**: Alpaca (R), Chihuahua, Gemstone Egg, Ride-A-Pet Potion ×2 | **NaomiUnicorn25**: Cabbit (R) |
+| 17:40 | **alexsteadh**: Great Pyrenees ×3, Strawberry Clip | **Cocicka272**: Fly-A-Pet Potion |
+| 17:40 | **SavageFox_Alpha1**: Giraffe (R), German Shepherd | **catDJpop17**: Giraffe (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
