@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 04:40 UTC by the scrape workflow._
+_Updated 2026-11-22 04:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 04:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 29,214 | 2026-11-22T04:30 |
-| elve | 12 | 6,265 | 2026-11-22T04:31 |
+| amvgg | 12 | 29,462 | 2026-11-22T04:45 |
+| elve | 12 | 6,344 | 2026-11-22T04:46 |
 
-## AMVGG completed trades: 48,129 total
+## AMVGG completed trades: 48,133 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 821 |
+| 2026-11-22 | 825 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,10 @@ _Updated 2026-11-22 04:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:45 | **Gojos_butteryfoot**: Rainbow Maker, Sheeeeep (NFR) | **numbedsorrow**: Munchkin Cat (MFR) |
+| 04:45 | **ciciixpup**: Caelum Cervi (MFR), Elephant (MFR), Sandwich Hat | **kaylamicmi**: Sea Slug (MFR), Unicorn Horn, Purple Butterfly (MFR) |
+| 04:45 | **ael0v3**: Paint Sealer ×3, Admin Abuse Egg ×5, Admin Abuse Box ×5 | **Mikaylamareex**: Amethyst Skies Mega Neon Paint |
+| 04:45 | **eva_LovesBlue**: Dragonfruit Fox (FR), Phantom Dragon, Jester Dragon, Zombie Buffalo, Diamond Albatross | **samneva8614**: Red Dutch Guinea Pig |
 | 04:36 | **My_belovedwonwooo**: Unicorn (NFR), Candicorn (NFR), Panda (FR), French Bulldog (NR) | **JAJAJAN9199**: Turtle (NFR) |
 | 04:36 | **lapulisra**: Frost Unicorn (R) | **cherrymoon4441**: Lion, Ballet Swan, Dingo (M), Turkey (R), Dog (M) ×2 |
 | 04:36 | **CandyXXBloxyFam**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **GOGOLI_34258**: Sakura Spirit |
@@ -48,10 +52,6 @@ _Updated 2026-11-22 04:40 UTC by the scrape workflow._
 | 04:36 | **PuhonaBeri**: Owl (FR) ×3, Owl (R), Ride-A-Pet Potion | **cnjsdmonlu**: Bat Dragon (FR) |
 | 04:36 | **cnjsdmonlu**: Giraffe (NFR), Arctic Reindeer (FR), Ride-A-Pet Potion | **tokki0000**: Bat Dragon (FR) |
 | 04:36 | **MissCupcakeAlexYt**: Ghostly Cat (M) | **adoptmejourney83**: Spring Bunny Hood |
-| 04:36 | **bigmacburger_0**: Grim Dragon (NFR) | **PeterlsBTS**: Polar Bear (MFR), Fly-A-Pet Potion |
-| 04:36 | **Pulseq3Void63Echo174**: Lunar Moon Bear, Pain au Chat, Chihuahua, Scarlet Butterfly, Pink Betta Fish | **Idkk_0426**: Fly-A-Pet Potion |
-| 04:36 | **000200ABELLA**: Balloon Unicorn (NFR), Cryptid (NFR), Munchkin Cat (MFR), Dango Penguins (MFR), Dragonfruit Fox (MFR) | **amaialolwonder**: Cryptid (MFR) |
-| 04:36 | **SophieGulosona**: Velocirooster (MFR) | **Bi_WaterBuffalo**: Copycat (MFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
