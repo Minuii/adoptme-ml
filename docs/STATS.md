@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 02:16 UTC by the scrape workflow._
+_Updated 2026-11-22 02:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 02:16 UTC by the scrape workflow._
 | amvgg | 12 | 27,000 | 2026-11-22T02:15 |
 | elve | 12 | 5,774 | 2026-11-22T02:15 |
 
-## AMVGG completed trades: 47,694 total
+## AMVGG completed trades: 47,701 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 386 |
+| 2026-11-22 | 393 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,13 @@ _Updated 2026-11-22 02:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:21 | **Roxielover120**: Arctic Fox, Pupcicle (N) | **arvenout**: Munchkin Cat |
+| 02:21 | **lamako1999**: Pirate Ghost Capuchin Monkey (M), Vampire Dragon (M), Blazing Lion (FR), Border Collie (MFR), Unicorn (M), Ghost Dog (M), Moonbeam Peacock (FR), Moonbeam Peacock (R) | **lelesayuru**: Shadow Dragon (FR) |
+| 02:21 | **alex_25girl333**: Border Collie, Caterpillar (R), Shark Puppy, Tortoiseshell Guinea Pig, Goat | **AdoptMe_pro6969**: Alley Cat (MFR) |
+| 02:21 | **rattychan03**: Scarebear (MFR) | **nolosew22445**: Jester Dragon (NFR) |
+| 02:21 | **hanb3ki**: Cryptid (FR), Sheeeeep, Copycat | **klown_karr**: Hot Doggo (R), Munchkin Cat (NFR), Harp Seal (MFR), Unicorn (NFR), Unicorn (N) ×2, Unicorn, Ride-A-Pet Potion ×10 |
+| 02:21 | **CloudAMs**: Crystal Egg ×15 | **MinhQnyu**: Ride-A-Pet Potion |
+| 02:21 | **dahoody2k3**: Ice Cream Cone Hat, Ride-A-Pet Potion, German Shepherd | **KITTYKITTY1234567888**: Munchkin Cat |
 | 02:15 | **violencesoul**: Cabbit (FR) | **ixclvoudy**: Mermicorn (FR), Purrowl (M), Sea Turtle (M) |
 | 02:15 | **aimyyys**: Kangaroo (FR), Dango Penguins (R), Pupcake (NFR), Llama (FR), Irish Water Spaniel, Rainbow Dragon, Banana Hat, Pink Cat Ear Headphones, Ghost Bunny, French Bulldog (R), Happy Duckling (R) | **shwriiimp**: Mini Pig (FR) |
 | 02:15 | **Sunset_seaii**: Pineapple Owl (MFR), Longhorn Cow (MFR), Unicorn Horn | **Max_game751**: Meerkat (MFR) |
@@ -45,13 +52,6 @@ _Updated 2026-11-22 02:16 UTC by the scrape workflow._
 | 02:15 | **jujube_XD**: Dalmatian | **PipEerrSsPinKY**: Border Collie (NFR), Fairy Bat Dragon (FR) |
 | 02:15 | **stellalovessyou**: Ride-A-Pet Potion | **jazunica22**: Winter Deer Family Sticker, Well, Actually Walrus Sticker |
 | 02:15 | **reserbadong2**: Ballet Swan (N) | **quesidella**: Kangaroo (FR) |
-| 02:15 | **MatthewTheJitAlt**: Cow (FR) | **pookie1917**: Peppermint Penguin (FR), Ride-A-Pet Potion |
-| 02:11 | **Rbd_JP**: Halo, Angel Wings, 2022 Birthday Party Hat, Ride-A-Pet Potion | **pepapepa333**: Tortoiseshell Guinea Pig (NR), Velocirooster (N), Bathtub |
-| 02:11 | **apples_oopp1**: Albino Monkey (FR), Snowball Pet (MFR) | **ContentOtter9075**: Angel Wings |
-| 02:11 | **puchainela77**: Fly-A-Pet Potion | **myd666vil**: Wood Pigeon |
-| 02:11 | **Alexawingsparty**: Latte Kitsune (MFR), Hot Doggo | **Andres_agent**: Ballet Swan (MFR) |
-| 02:11 | **Jasmine_officially1**: Dragonfly (NR), Dragonfly, Huntsman Robin, Thunderfisher | **xilawn2023**: Ride-A-Pet Potion |
-| 02:11 | **Robloxian663027334**: Frostbite Bear (NR), Cow (R) | **Emil00940**: Evil Unicorn (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
