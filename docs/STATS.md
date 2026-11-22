@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 03:40 UTC by the scrape workflow._
+_Updated 2026-11-22 03:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 03:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 28,206 | 2026-11-22T03:30 |
-| elve | 12 | 6,043 | 2026-11-22T03:31 |
+| amvgg | 12 | 28,445 | 2026-11-22T03:45 |
+| elve | 12 | 6,113 | 2026-11-22T03:46 |
 
-## AMVGG completed trades: 47,947 total
+## AMVGG completed trades: 47,955 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 639 |
+| 2026-11-22 | 647 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,14 @@ _Updated 2026-11-22 03:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:45 | **Realzholuiq13**: Griffin (FR) | **BUS5ED**: Ride-A-Pet Potion |
+| 03:45 | **alittlerandomthing**: Candicorn (NFR) ×2, Candicorn (NR), Gecko (MR) | **lockefoo**: Candicorn (MFR) |
+| 03:45 | **lowerbunny**: Ride-A-Pet Potion, Stray Cat Dragon ×4 | **terezaxchapa**: Zodiac Minion Chick (NR), Ox (R), Cockroach, Slug |
+| 03:45 | **kelixnz**: Peachick | **blobxxfish**: Retired Egg ×18 |
+| 03:45 | **Vampxx2449**: 2022 Birthday Party Hat, 2022 Birthday Party Horn | **Eceuni**: Unicorn Horn, Tiny Wings, Ermine (MFR) |
+| 03:45 | **yeenDitto1**: Dango Penguins | **kdnjdiwhd**: Ride-A-Pet Potion ×2 |
+| 03:45 | **Rosy_Moon82Alt**: Unicorn (MR) | **s4rennz**: Candicorn |
+| 03:45 | **nuhhun41**: Red Dutch Guinea Pig | **AvaNari2010**: Boohoo (M) |
 | 03:40 | **Chxssxn**: Retired Egg ×18 | **Itz_robloxdae**: Ride-A-Pet Potion |
 | 03:40 | **DrinklngMilk**: Kangaroo (FR), Ride-A-Pet Potion ×4, Salamander (N), Gila Monster (NR), Stingray (M) | **OLESIK_3456**: Turtle (R) |
 | 03:40 | **Thecupofkindness**: Binturong (MFR) | **A1waysB0r3d**: Brown Springer Spaniel (MFR) |
@@ -44,14 +52,6 @@ _Updated 2026-11-22 03:40 UTC by the scrape workflow._
 | 03:40 | **Mizumi_yiku**: Daisymobile | **diiorrvi**: Ride-A-Pet Potion ×2 |
 | 03:40 | **mariarita2000**: Halloween Evil Dachshund | **biyita_rblx**: Cobra |
 | 03:40 | **strawbearilatte**: Pet Handler Pro Certificate ×7, Ride-A-Pet Potion | **Zyrox_13aa**: Rain Cloud Hat |
-| 03:40 | **quesidella**: Siamese Cat (NFR), Fly-A-Pet Potion ×2 | **sube14567**: Mini Pig (FR), Border Collie (R) |
-| 03:40 | **janiireth**: Reindeer | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 03:40 | **Rbd_JP**: Cow (R), Strawberry Shortcake Bat Dragon (FR), 2022 Birthday Party Hat | **Ryuchoaa**: Candicorn (MFR) |
-| 03:40 | **ddeonuml**: 2022 Birthday Cake, Rain Cloud Hat | **sweetn6thing**: Zombie Wolf (MFR) |
-| 03:40 | **pinkmandalorian09**: Dragonfruit Fox (MFR), Siamese Cat (NFR), Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Golden Lettuce | **0nlyMeBri**: Rainbow Maker, Rain Cloud Hat ×2, 2022 Birthday Party Horn |
-| 03:40 | **MM_Cloud**: Crystal Egg ×15 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 03:40 | **tlswk027asdg**: Winged Horse (FR) | **gatito_nwn1**: Hippogriff (FR) |
-| 03:40 | **mmira2006**: Peachick | **Mooheismoo**: Christmas Pudding House |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
