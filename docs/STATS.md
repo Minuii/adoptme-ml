@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 16:16 UTC by the scrape workflow._
+_Updated 2026-11-22 16:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 16:16 UTC by the scrape workflow._
 | amvgg | 12 | 41,044 | 2026-11-22T16:15 |
 | elve | 12 | 9,032 | 2026-11-22T16:15 |
 
-## AMVGG completed trades: 50,903 total
+## AMVGG completed trades: 50,949 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 3,595 |
+| 2026-11-22 | 3,641 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 16:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:15 | **hgfctfdyt**: Undead Jousting Horse (R) | **cowicutesy**: Cow (FR) |
-| 16:15 | **Mydreamiscosmo**: Caterpillar (R), General Sheepdog, Black Moon Bear (N) | **HOCOKKU**: Lion, Dragonfruit Fox |
-| 16:15 | **16y97**: Chihuahua | **javvyvt**: Purrowl ×2 |
-| 16:15 | **Robloxiana4o3q0j2e**: Hedgehog, Balloon Unicorn (FR), Candicorn (FR) ×2, Frost Unicorn (FR), Tiny Wings | **Jasperz0id**: Goose (MFR) |
-| 16:15 | **Manggo_Pie40**: Chihuahua ×3 | **Marines_Natalia**: Ride-A-Pet Potion |
-| 16:15 | **Islaxluca**: Catte (M), Ride-A-Pet Potion | **2illiberal**: Jester Dragon (NFR) |
-| 16:15 | **MilanaPetr1111**: Ride-A-Pet Potion ×2 | **aveilqaa**: Alley Cat |
-| 16:15 | **tessadegroot2009**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **xZetherx**: Ice Cream Cone Hat |
-| 16:15 | **arseniylolol**: Pandaguin Glooptodog (N), Subzero Scorpion, Shoebill (N), Caramelgeist (N), Mummy Spider (N), Clumpty (N) ×2, Skelicorn ×2 | **AdoptMeLovery**: Ride-A-Pet Potion |
-| 16:15 | **Luca_vii1**: Airplane Stroller, Elf Shoes, Elf Bandana | **deathp1ts**: Baby Basket Stroller |
-| 16:15 | **MistletoeMeg**: Strawberry Shortcake Bat Dragon (FR), Spring Bunny Nose | **SapphireMindK472**: Halo, Rain Cloud Hat, Frost Unicorn (R) |
-| 16:15 | **bnuliv**: Majestic Pony (MR) | **pwupi_spwinkl**: Hot Doggo (FR) |
-| 16:15 | **Eslemyfjjjg**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **Kvammletitraketa**: Gold Crown, Pink Cat Ear Headphones, Pink Heart Glasses |
-| 16:15 | **obv1mariyko**: Ride-A-Pet Potion ×2 | **RRegina_07**: Mochi Meow (M) |
-| 16:15 | **dnei30fast**: Frost Fury (R), Fly-A-Pet Potion | **moral608**: Jester Dragon, Dango Penguins |
+| 16:25 | **v2lx**: Rubber Ducky (M), California Condor (M), Gecko Ducky (N), Red Panda Ducky (N), Purrowl, Red Panda | **funsashamen**: Ride-A-Pet Potion |
+| 16:25 | **Cute_moonXo2**: Ride-A-Pet Potion ×2 | **larisochka_gudeeva98**: Stray Cat Dragon (M) |
+| 16:25 | **1nikaroctik**: Groundhog (NR), Ride-A-Pet Potion ×3 | **Waq1uxx**: Siamese Cat (R) |
+| 16:25 | **Lunazebaddie**: Zombie Wolf (NR), Ride-A-Pet Potion ×2 | **BlxxdyBad**: Pupcake (M) |
+| 16:25 | **margo33249**: Siamese Cat (FR), Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **213lauri_1976**: Fairy Bat Dragon (FR) |
+| 16:25 | **gogo549**: Kangaroo, Alicorn (M) | **hello392919**: Kangaroo (FR) |
+| 16:25 | **obvmelwi**: African Wild Dog (FR) | **Jay_basealters**: Goat (MFR), Ride-A-Pet Potion, Christmas Pudding Pup |
+| 16:25 | **XTREYT**: Spring Bunny Nose, Bready Necklace, 2022 Birthday 5 Badge | **therealkayt67**: Spring Bunny Hood |
+| 16:25 | **Ethernaces**: Stray Cat Dragon ×8 | **adoppme42**: Ride-A-Pet Potion |
+| 16:25 | **wikt0ria_xsv**: Lamb (MFR), Glormy Hound, Bunny Swirl | **1LYLUN4A**: Cow (FR) |
+| 16:25 | **59ghrvs**: Ride-A-Pet Potion | **Anastasika_agent**: Tree Decorating Animated Sticker |
+| 16:25 | **kraket127**: Copycat | **wandafuluni**: Jester Dragon (FR) |
+| 16:25 | **DefinitelyNotCha6**: Modern Mansion | **213lauri_1976**: Ride-A-Pet Potion |
+| 16:25 | **lilpepeng150**: Head Chef | **UNLIMITET01**: Fly-A-Pet Potion ×3 |
+| 16:25 | **DragonjJDusta107130**: Goose, Bandicoot (M) | **tr4d3s_adoptnew**: Cow (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
