@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 09:15 UTC by the scrape workflow._
+_Updated 2026-11-22 09:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 09:15 UTC by the scrape workflow._
 | amvgg | 12 | 33,819 | 2026-11-22T09:15 |
 | elve | 12 | 7,244 | 2026-11-22T09:15 |
 
-## AMVGG completed trades: 48,910 total
+## AMVGG completed trades: 48,952 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,602 |
+| 2026-11-22 | 1,644 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 09:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:15 | **clalouetciedh**: Alicorn ×18 | **mARVERGI2**: Ride-A-Pet Potion ×2 |
-| 09:15 | **clalouetciedh**: Ancient Dragon ×14 | **mARVERGI2**: Ride-A-Pet Potion |
-| 09:15 | **dogsier02**: Ride-A-Pet Potion ×11 | **Tree092109**: Fly-A-Pet Potion ×6 |
-| 09:15 | **HeySoriya**: Strawberry Shortcake Bat Dragon (R), Ride-A-Pet Potion | **Ob3sityPhobia**: Chocolate Chip Bat Dragon (FR) |
-| 09:15 | **GorobetsZP**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7 | **odading12318**: Glormy Hound (N), Glormy Dolphin (N) |
-| 09:15 | **Ob3sityPhobia**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **ianbpb8**: Strawberry Shortcake Bat Dragon (FR) |
-| 09:15 | **P1nkteeth**: Blazing Lion | **XNicroyX**: Jekyll Hydra (NFR), Thinking Hat |
-| 09:15 | **odading12318**: Hot Doggo | **Bismuth234**: Fly-A-Pet Potion ×17 |
-| 09:15 | **Alllllkos**: Chihuahua ×3 | **M1cahsWRLD**: Ride-A-Pet Potion |
-| 09:15 | **Rac0dy**: Crocodile (FR) | **Eva_EvaKBAC**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
-| 09:15 | **Amvggtrad3r**: Alley Cat (M), Fly-A-Pet Potion, Ride-A-Pet Potion, Cotton Candy Hat, Discosplosion | **Theyluviviiii**: Tortoiseshell Guinea Pig (NFR) |
-| 09:15 | **asgdhfefhfhru1**: Ride-A-Pet Potion | **gensuhaxx**: Unicorn |
-| 09:06 | **C0PHYAK**: Mini Pig (R) | **elpopas6**: Kangaroo (FR), Shark Puppy, Fly-A-Pet Potion ×5 |
-| 09:06 | **beatsvic**: Crow (MFR), Strawberry Tortle (MFR), Golden Chow-Chow (MFR) | **1vkx3**: Haetae (MFR) |
-| 09:06 | **Its_love59**: Pupcicle | **Kir4kaa**: Christmas Pudding House |
+| 09:20 | **Fox7Art**: Turtle (FR) | **Eva_EvaKBAC**: Fly-A-Pet Potion ×12 |
+| 09:20 | **clalouetciedh**: Alicorn ×12 | **FUR_INAAAA**: Ride-A-Pet Potion |
+| 09:20 | **alinnkes**: Red Panda (MFR) | **Wasgehtabbb10**: Ride-A-Pet Potion ×2 |
+| 09:20 | **alinnkes**: Thunderfisher ×2 | **justbob147**: Ride-A-Pet Potion |
+| 09:20 | **QetiChitashvil**: Tegu (N), Ms. Muffet (N), Mouse (N), Kid Goat (N), Galapagos Sea Lion (N), Princess Mare (N), Pangolin (N), Crimson Cape (N), Frankenfeline (N) | **FUR_INAAAA**: Ride-A-Pet Potion |
+| 09:20 | **s0larzxxxx**: Cabbit (R), Chocolate Dutch Guinea Pig, Frostclaw Animated Sticker | **itz_ckaM1441**: Wooly Rhino (M) |
+| 09:20 | **Addjustonemorepet**: Ghost Bunny | **v1xctoriaa**: Zombie Wolf |
+| 09:20 | **altmityanitsa**: Fairy Bat Dragon (R), Mermicorn (FR), Bunny Swirl (MFR), Quokka (N), Great Pyrenees | **mmaayois**: Strawberry Shortcake Bat Dragon |
+| 09:20 | **qqxichan**: Cryptid, Husky (MFR), Christmas Pudding Pup, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **angela_umerez4**: Balloon Unicorn (FR) |
+| 09:20 | **KinaToons**: Arctic Dusk Dragon (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **OKAK_BOTAK61**: Silly Duck (MFR), Gilded Snake (MR), Alley Cat (NR), Munchkin Cat, Coconut Friend (MFR), Harp Seal (NR) |
+| 09:20 | **alymiria**: Dragonfruit Fox, Swan, Wooly Rhino, Kiwi, Water Rabbit, White Amazon, Squid, Kitsune, Happy Duckling, Chihuahua, Frog, Elasmosaurus (R), Rice Cake Rabbit, Clownfish, Skunk, Pine Marten, Praying Mantis, Water Moon Bear | **impiggyomggggggggggg**: Kiwi (MFR) |
+| 09:20 | **Lvrsbrii**: Peppermint Penguin (FR) | **VEESW0RLD**: SSBD Beanie |
+| 09:20 | **ich_binda00**: Bolt (M) | **Andres_agent**: Baku |
+| 09:20 | **daanz2**: Aussie Egg | **AdoptMeHere03**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 09:20 | **NoahRift5224**: Diamond King Penguin (MFR), Alley Cat (MR) | **RBstela**: Honey Badger (MFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
