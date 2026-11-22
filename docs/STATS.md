@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 02:55 UTC by the scrape workflow._
+_Updated 2026-11-22 03:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 02:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 27,474 | 2026-11-22T02:45 |
-| elve | 12 | 5,910 | 2026-11-22T02:46 |
+| amvgg | 12 | 27,734 | 2026-11-22T03:00 |
+| elve | 12 | 5,965 | 2026-11-22T03:01 |
 
-## AMVGG completed trades: 47,808 total
+## AMVGG completed trades: 47,829 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 500 |
+| 2026-11-22 | 521 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 02:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:55 | **Sirswagalishsus**: Candicorn (R) | **aikosha_rdx**: Ride-A-Pet Potion ×16 |
-| 02:55 | **XNicroyX**: Alley Cat, Mochi Meow ×2 | **Laktozik1**: Hare |
-| 02:55 | **wekwew70**: Kangaroo (FR) | **Pashok_q**: Fly-A-Pet Potion ×10 |
-| 02:55 | **Elyy_o**: Cobra (FR) | **Pashok_q**: Ride-A-Pet Potion |
-| 02:55 | **Omar2002548**: Winged Tiger (R), Fire Foal ×4, Crystal Egg ×4, Admin Abuse Egg ×4, Throwback Egg ×5 | **Itz_Xxnicole715xX**: Winged Tiger |
-| 02:55 | **demolay28**: Fairy Bat Dragon (FR), Candicorn (FR), Candicorn, Fly-A-Pet Potion ×3 | **arseniylolol**: Strawberry Shortcake Bat Dragon (FR) |
-| 02:55 | **L_person21**: Tiny Wings, Fairytale Egg | **xJI_CHx**: Pig, Ride-A-Pet Potion ×2 |
-| 02:55 | **misoup67**: Pupcicle | **FEDEWOPER**: Unfortunate Eyelashes |
-| 02:55 | **deadlylifty**: Pet Handler Pro Certificate, Emberlight | **siesie09_x**: Ride-A-Pet Potion ×2 |
-| 02:55 | **donnotinteract**: Border Collie (R) | **wavehrt**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×3 |
-| 02:55 | **klown_karr**: Sheeeeep, Copycat, Sushi Penguin | **xitzlinda**: Harp Seal (N) |
-| 02:55 | **milkcoffe135**: Flaming Fox, White Chef Hat | **Sillyseal_026**: Dragonfruit Fox |
-| 02:55 | **AveryBaby529**: Kitsune (R), Fire Foal (M), Unicorn Ducky (M), Red Panda Ducky (M) | **4M_GEEG**: Pet Handler Pro Certificate |
-| 02:55 | **Balbiii_Vb**: Alley Cat (R) | **queenalwaysslayxx**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 02:55 | **wtvlanis**: Angel Wings | **cocothemoco1231**: Tiny Wings ×2, Spring Bunny Hood ×2 |
+| 03:00 | **Yoogurt_Latte**: Starfish (N) | **SammBleu**: Raccoon |
+| 03:00 | **bakerbunn1s**: Frostbite Cub (MFR) | **robloxnaomi3**: Dango Penguins (NFR) |
+| 03:00 | **lantongzp**: Evil Unicorn (FR), Fly-A-Pet Potion | **gavinOMG_66**: Flamingo (R), Matcha Cat (R), Ring-Tailed Lemur ×3, Super Saru (MFR), Alpaca (FR), Arctic Fox, Frostclaw (MR) |
+| 03:00 | **caritoo_zmor**: Fairy Bat Dragon (FR) | **ShadowMashy**: Fly-A-Pet Potion ×15 |
+| 03:00 | **FestiveNotCupcake**: Shiver Wolf (M) | **kreker0900**: Arctic Fox (FR) |
+| 03:00 | **caritoo_zmor**: Mermicorn (FR) | **Wolfie4567ty**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10 |
+| 03:00 | **OnlyZizzz**: Undead Elk, Yellow Butterfly ×9, Bat (NF), Bat (N) ×3, Birthday Butterfly 2023 ×4 | **blvvyiiskiies**: Ride-A-Pet Potion ×4 |
+| 03:00 | **Giovana333233**: Cow (NFR), Elephant (FR), Fossil Egg | **Mwsjdhw**: Dalmatian (FR) |
+| 03:00 | **spook_jhon**: Turtle (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **Dhdhdhehsdhdheyeye**: Cow (FR) |
+| 03:00 | **AsianIceCold**: Bobageist (M) | **looter_love**: Ride-A-Pet Potion |
+| 03:00 | **blushiibuns**: Balloon Unicorn (NFR) | **matthewisI2here**: Owl (NFR) |
+| 03:00 | **chantking0910**: Kangaroo (FR) | **DinnieLildina**: Ride-A-Pet Potion ×17 |
+| 03:00 | **Xxskibidy67**: Albino Monkey (FR), Albino Monkey (R) | **Jadameigo**: Sugar Glider (FR) |
+| 03:00 | **luzmi119**: Golden Hamster | **catucata28**: Winged Horse |
+| 03:00 | **P1nkteeth**: Chocolate Dutch Guinea Pig (R) | **Y4r3tzy09**: Cherry Blossom Flower Sticker ×9, Cherry Blossom Tree Sticker ×9 |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
