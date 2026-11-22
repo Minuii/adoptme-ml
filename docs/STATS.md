@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 23:16 UTC by the scrape workflow._
+_Updated 2026-11-22 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 23:16 UTC by the scrape workflow._
 | amvgg | 12 | 48,503 | 2026-11-22T23:15 |
 | elve | 12 | 10,635 | 2026-11-22T23:15 |
 
-## AMVGG completed trades: 53,102 total
+## AMVGG completed trades: 53,162 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,794 |
+| 2026-11-22 | 5,854 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 23:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **kiwipoq**: Black-Footed Ferret ×4, Bee ×3, Dire Wolf (R), King Penguin ×2, Pink Betta Fish | **valentinaemmz**: Ride-A-Pet Potion |
-| 23:15 | **alvarconXD**: Ride-A-Pet Potion ×10 | **mariema454**: Kitty Bat (MFR) |
-| 23:15 | **awepolarbear**: Ice Cream Hermit Crab (MFR), Dragonfruit Fox (MFR), Goat (MFR) | **cazzy123abc**: Ice Cream Hermit Crab (M), Pirate Ghost Capuchin Monkey (M), Christmas Pudding Pup (N) |
-| 23:15 | **Cute_CocoMouse**: Balloon Unicorn (FR), Frostbite Bear (R) | **XxAcie_ArtistxX**: Parrot (FR) |
-| 23:15 | **ylyzacanete**: Eaten Donut | **Officially_Allie101**: Bunch Of Balloons ×2 |
-| 23:15 | **PrincezzNatty**: Hare (MFR), Puffer Fish (MFR), Moon Rabbit (MFR) | **q_culvs**: Groundhog (MFR) |
-| 23:15 | **fuyu_ma1**: Cow (FR) | **MorpekoMuncher**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion |
-| 23:15 | **fallpjs**: Great Pyrenees (NFR), Propeller Hat, Gingerbread Reindeer | **iaMatthieu1**: Spring Bunny Hood, Spring Bunny Feet |
-| 23:15 | **67gabbie**: Ride-A-Pet Potion | **sasukex0609**: Chocolate Dutch Guinea Pig |
-| 23:15 | **fuyu_ma1**: Kangaroo (FR) | **dollxx_zz**: Fly-A-Pet Potion ×9 |
-| 23:15 | **rrstockxadm67**: Crystal Egg ×17 | **xxxMelodyxxx58**: Ride-A-Pet Potion |
-| 23:15 | **wanda_vision680**: Ride-A-Pet Potion | **stoIencorpses**: Glamicorn Purse Pet, Police Cap |
-| 23:15 | **SOAPpenup_2025**: Strawberry Tortle (FR), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **lizzy_th3phenomena**: Bunny Swirl (MFR), S'mores Raccoon (MR) |
-| 23:15 | **lupsgrl**: Strawberry Shortcake Bat Dragon (R), Cabbit (FR), Goat (FR), Goat (R), Kangaroo (R), Rainbow Stroller, Ride-A-Pet Potion | **lexcor3**: Goat (MFR) |
-| 23:15 | **Flyffycowboy**: Dango Penguins ×16, Kiwi Kiwi ×2 | **jayden190614**: Puffer Fish (MR), Nessie (NR) |
+| 23:25 | **snorlax7976**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **KewlUserHere**: Copycat |
+| 23:25 | **Jasmine_officially1**: Badger (N) ×4, Corgi (N) ×2, Red Panda (N), Dragonfly | **tory17190**: Ride-A-Pet Potion |
+| 23:25 | **Lissqu0**: Bison (R), Shiba Inu (N), Mahi Mahi (N), Poodle (N), Puma (N), Ant (N), Buffalo (N), Cat (N), Mouse (N) | **tory17190**: Ride-A-Pet Potion |
+| 23:25 | **itoxiclulll**: Skelicorn ×2, Pandaguin Glooptodog ×2 | **tory17190**: Royal Palace Spaniel |
+| 23:25 | **wlyppyxx1**: Elephant (R), Cow (FR), Flamingo (R) | **daanz2**: Strawberry Shortcake Bat Dragon (FR) |
+| 23:25 | **i97thig**: Ride-A-Pet Potion | **BlueSakura9310**: Unicorn |
+| 23:25 | **Miro_1006**: Arctic Fox (R), Frost Fury (FR), Dragonfruit Fox (R), Unicorn (R) | **LAROBIKYT**: Candicorn (R) |
+| 23:25 | **1MZ03Y**: Snowball Pet (MFR), Merry Mistletroll (M), Eggnog Dog (M), Ostrich (MR), Lunar Gold Tiger (M) | **daanz2**: Cow (FR) |
+| 23:25 | **Sweet_Butter1049**: Ride-A-Pet Potion | **rrstockxadm**: Crystal Egg ×17 |
+| 23:25 | **psyylips**: Candicorn (NFR), Unicorn (FR), Ride-A-Pet Potion ×3 | **K_s726**: Chocolate Dutch Guinea Pig (MFR), Mecha Meow (MR) |
+| 23:25 | **0Neizvestnost0**: Frostbite Bear (FR), Frostbite Bear | **Kit1yyzzz**: Solaris (MFR) |
+| 23:25 | **babiddgon**: Chihuahua ×3 | **therookiefan_22**: Ride-A-Pet Potion |
+| 23:25 | **Mrsprettyxo**: Mecha R4BBIT (MR), Gingerbread Sleigh | **AMBER_SOLE**: Shooting Star Board |
+| 23:25 | **EleNinja11**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **nassty_ava**: Apple Owl (NFR) |
+| 23:25 | **Lolaa_chn**: Skunk (MR), Fly-A-Pet Potion | **luvly_xio**: Arctic Fox |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
