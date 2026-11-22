@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 14:10 UTC by the scrape workflow._
+_Updated 2026-11-22 14:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 14:10 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 38,666 | 2026-11-22T14:00 |
-| elve | 12 | 8,480 | 2026-11-22T14:01 |
+| amvgg | 12 | 38,925 | 2026-11-22T14:15 |
+| elve | 12 | 8,509 | 2026-11-22T14:15 |
 
-## AMVGG completed trades: 50,214 total
+## AMVGG completed trades: 50,259 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,906 |
+| 2026-11-22 | 2,951 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 14:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:06 | **ch3yluvsdj**: Kangaroo (NFR) | **faebnny**: Great Pyrenees (MFR), Gingerbread Mouse (MFR), Choco Penguin (MR), Ibex (MR), Winter Fawn (MR), Birthday Butterfly 2024 (MR), Seahorse (MR) |
-| 14:06 | **xJI_CHx**: Shark Puppy (NFR) | **neonpet145**: Mini Pig (FR) |
-| 14:06 | **el_granadero**: Diamond Butterfly (R) | **neonpet145**: Dragonfruit Fox (MFR) |
-| 14:06 | **floralplum**: Cactus Friend | **LimmaKiten**: Ride-A-Pet Potion |
-| 14:06 | **murid5**: Munchkin Cat (MFR), Dalmatian (FR) | **Fer_TheCat3**: Chocolate Chip Bat Dragon (NFR), Winged Tiger (FR), Pancake Stack, Banana Hat, Propeller Hat, Eco Brown Hiking Backpack |
-| 14:06 | **rattychan03**: Lynx (MFR), Pancake Stack, Fly-A-Pet Potion | **anelyoda**: Jester Dragon (NFR) |
-| 14:06 | **nfrmikey1**: Black Springer Spaniel (MFR) | **ilivistarss**: Kangaroo (FR) |
-| 14:06 | **h4_cd**: Ride-A-Pet Potion | **pandaearedd**: Bobageist (M) |
-| 14:06 | **liofe1**: Brachiosaurus, Ash Zebra, Winter Fawn, Badger (M) | **Angelich_MM2**: Ride-A-Pet Potion |
-| 14:06 | **XL4IL4_FGYX**: Siamese Cat (NFR), Candicorn (R), Pet Handler Pro Certificate, Tree Kangaroo (R), Sushi Penguin | **kawaixi_xgamer**: Goose (FR), Toaster Hat, Sugar Glider (R) |
-| 14:06 | **p001torich**: Classic Trade Stand ×3 | **morphling_whater**: Ride-A-Pet Potion |
-| 14:06 | **4AdrianaJensen**: Cattuccino (R), Alicorn (R), Watermelon Backpack, Tree Kangaroo (NR), Lamb (NFR), Brown Bear (FR) | **p001torich**: Super Jetpack |
-| 14:06 | **Dinkarrt**: Black Macaque, Mr. Whiskerpips | **mushromsubstrate**: Ride-A-Pet Potion |
-| 14:06 | **gosha2ji**: Bauble Buddies, Gingerbread Mouse, Arctic Hare | **mushromsubstrate**: Ride-A-Pet Potion |
-| 14:06 | **Kishiharu1**: Flower Power Duckling (MFR), Pupcicle (NFR), Christmas Pudding Pup | **AsianIceCold**: Candicorn (FR) |
+| 14:15 | **XxCiasto_xX**: Ride-A-Pet Potion, Happy Duckling | **devansayank**: Wooly Rhino (R) |
+| 14:15 | **TrxstedAinhoken**: Diamond Butterfly (MFR), Dragonfruit Fox (NR), Ice Cream Hermit Crab (NR), Ice Cream Cone Hat ×2 | **lightxdesire**: Royal Mistletroll (MFR), Frost Dragon (FR), Crow (FR) |
+| 14:15 | **princessjulietah**: Chocolate Chip Bat Dragon Backpack, Fly-A-Pet Potion | **Robloxiant3x7a4m9v**: Diamond Hamster, Chocolate Dutch Guinea Pig |
+| 14:15 | **Dinkarrt**: Burger Bear, Koala | **melynagamer3**: Ride-A-Pet Potion |
+| 14:15 | **xmikaeq**: Parrot (MFR), Pet Handler Pro Certificate, Spring Bunny Hood | **akhikic**: Dalmatian (MFR), Crow (FR) |
+| 14:15 | **milk001148**: Pet Handler Pro Certificate | **Pingola_12**: Dire Wolf (M) |
+| 14:15 | **hipnotizwd**: Strawberry Shortcake Bat Dragon (FR) | **jasminecoq**: Hero Gibbon (MFR) |
+| 14:15 | **AnitaGame08**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×3 | **Cosmo_syx**: Candicorn (R) |
+| 14:15 | **Adoptme_prety**: Winter Doe (MR) | **LYIZA_1976**: Pet Handler Pro Certificate ×2 |
+| 14:15 | **zin_che**: Arctic Dusk Dragon (FR), Koi Carp (N), Alicorn (NFR), Fire Foal (N) | **shwriiimp**: Vampire Dragon (FR) |
+| 14:15 | **cher_namagandaa**: Dragon's Castle | **mofncufjs**: Christmas Pudding House |
+| 14:15 | **Angelsss_81**: Fly-A-Pet Potion | **Pingola_12**: Harp Seal (R) |
+| 14:15 | **danu123456i7**: T-Rex (MFR), Yeti (MFR), Count Slothula (MFR), Shoebill (MFR), Pancake Stack | **altego002**: Polar Bear (MFR) |
+| 14:15 | **whereismyl0ver**: Retired Egg ×17 | **qwe11223393**: Slimingo |
+| 14:15 | **Inganta07**: Fly-A-Pet Potion | **mentholdy**: Lavender Dragon |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
