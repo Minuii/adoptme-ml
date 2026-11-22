@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 22:55 UTC by the scrape workflow._
+_Updated 2026-11-22 23:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 22:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 48,027 | 2026-11-22T22:45 |
-| elve | 12 | 10,535 | 2026-11-22T22:46 |
+| amvgg | 12 | 48,275 | 2026-11-22T23:00 |
+| elve | 12 | 10,596 | 2026-11-22T23:01 |
 
-## AMVGG completed trades: 53,005 total
+## AMVGG completed trades: 53,011 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 5,697 |
+| 2026-11-22 | 5,703 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,12 @@ _Updated 2026-11-22 22:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:00 | **JorgeEduardo_123**: Pink Betta Fish (MFR), Ride-A-Pet Potion | **yayaunicorne166**: Cupid Dragon (FR) |
+| 23:00 | **Petsimx991100**: Jester Dragon (FR) | **dollxx_zz**: Ride-A-Pet Potion ×5 |
+| 23:00 | **babiddgon**: Chihuahua ×3 | **M1cahsWRLD**: Ride-A-Pet Potion |
+| 23:00 | **BLACKGLITTERKITTY**: Turtle (NFR) | **Eva994494**: Turtle (FR) ×2 |
+| 23:00 | **NoahRift5224**: Ice Cream Hermit Crab (MFR), Dango Penguins (MFR), Koi Carp (MR) | **pedrobeteir0**: Groundhog (MFR) |
+| 23:00 | **LemonKoiFish**: Alpaca (MFR), Sugar Glider (MFR), Tiny Wings | **Ffaa_bom**: Cabbit (MFR), Goose (MFR), 2022 Birthday Party Hat ×2, Water Rabbit (MR) |
 | 22:51 | **1qeers**: Celebrity Mansion | **16kubqx**: Hyena |
 | 22:51 | **dollxx_zz**: Pet Handler Pro Certificate ×8, Fly-A-Pet Potion | **https_Mutanaaa**: Kangaroo (FR) |
 | 22:51 | **Depondip**: Hare, Brown Bear, Black-Footed Ferret ×4 | **cutenadk77**: Mule (N) |
@@ -46,12 +52,6 @@ _Updated 2026-11-22 22:55 UTC by the scrape workflow._
 | 22:51 | **Altacct3_3**: 2022 Birthday Cake | **donnotinteract**: Rain Cloud Hat, Spring Bunny Hood, Pet Handler Pro Certificate |
 | 22:51 | **janaqgo_0**: Ride-A-Pet Potion ×2 | **Pinky_Darckling**: Ketchup and Mustard Jetpack |
 | 22:51 | **Samxl27**: Pancake Stack | **gamereldark_YT**: Banana Hat, Pirate Hat, Blue Cat Ear Headphones |
-| 22:51 | **Jenniiee_1000**: Admin Abuse Egg ×18 | **ingravved**: Ride-A-Pet Potion |
-| 22:51 | **Lovmyhotda99yZach**: Kangaroo (NFR), Kangaroo (FR), Turtle (FR) ×2, Unicorn (MFR), Cow (FR), Mouse (MR) | **MatsGerro98**: Crow (FR) |
-| 22:51 | **women_7031**: Stocked Santa Sleigh, Ratatoskr | **iridescenite**: Ride-A-Pet Potion |
-| 22:51 | **babiddgon**: Boohoo (M) | **Mxso_soup8**: Ride-A-Pet Potion |
-| 22:51 | **4crylo**: Parrot (FR), Hedgehog (FR), Kitty Bat (M) | **adoptmeplayerhi10**: Frost Dragon (FR) |
-| 22:51 | **Themr_harlen0220**: Black Scooter | **lovewqnted**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
