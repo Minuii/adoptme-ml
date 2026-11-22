@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 09:55 UTC by the scrape workflow._
+_Updated 2026-11-22 10:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-22 09:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 12 | 34,329 | 2026-11-22T09:45 |
-| elve | 12 | 7,401 | 2026-11-22T09:46 |
+| amvgg | 12 | 34,569 | 2026-11-22T10:00 |
+| elve | 12 | 7,494 | 2026-11-22T10:01 |
 
-## AMVGG completed trades: 49,069 total
+## AMVGG completed trades: 49,074 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,761 |
+| 2026-11-22 | 1,766 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,6 +37,11 @@ _Updated 2026-11-22 09:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:00 | **Irek3008**: Jester Dragon (FR) | **miki3072**: Ride-A-Pet Potion ×5 |
+| 10:00 | **sono_sempre622**: Dalmatian (R) | **vikavrach**: Kangaroo (MFR) |
+| 10:00 | **amvggcomtrad**: Ride-A-Pet Potion ×6 | **Lunarysqwwx**: Jester Dragon (R), Cerberus (R) |
+| 10:00 | **Lumina20265**: Ride-A-Pet Potion | **cbmelissa**: Scarebear |
+| 10:00 | **grijfe8r**: Strawberry Penguin | **Segzee_Bij**: Ride-A-Pet Potion ×6 |
 | 09:51 | **odading12318**: Jester Dragon, Copycat | **Kitsune2287**: Fly-A-Pet Potion ×5 |
 | 09:51 | **gffdjddd23_4**: Ranger Beaver (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **ammera2330**: Kangaroo (FR) |
 | 09:51 | **GUODTIK**: Fly-A-Pet Potion, Halloween Evil Dachshund (NR), Sea Angel (N), Pupcicle | **Milechka_Pilmeshka**: Cold Cube (MFR) |
@@ -47,11 +52,6 @@ _Updated 2026-11-22 09:55 UTC by the scrape workflow._
 | 09:51 | **DelightfulCoolRay**: Turtle (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion ×6 | **LikeVar4ek**: Cow (FR) |
 | 09:51 | **CHOZABRETOOOOOO**: Royal Palace Spaniel (FR) | **036daylan**: Ride-A-Pet Potion |
 | 09:51 | **aurorafox679**: Velocirooster, Ride-A-Pet Potion, Fly-A-Pet Potion | **Someone0_qwq**: Arctic Fox |
-| 09:51 | **sleepysmi**: Ride-A-Pet Potion, Frostbite Bear and Cub Animated Sticker | **oreo23990**: Amethyst Skies Mega Neon Paint, Mighty Haetyphoon Animated Sticker |
-| 09:51 | **fyffddt5**: Sloth (R) | **ITZLERA3567**: Ride-A-Pet Potion |
-| 09:51 | **Giyou_Tomoko**: Ride-A-Pet Potion | **larisochka_gudeeva98**: Cannon Stroller, Strawberry Stroller |
-| 09:51 | **KUTU_KET06**: Poodle (N), Pangolin (N), Angus Calf (N), Bobageist (N), Crimson Cape (N), Clumpty (N), Gecko Ducky (N), Pinkypillar (N), Princess Mare (N) | **kh6rin**: Ride-A-Pet Potion |
-| 09:51 | **dtzombii**: Emperor Gorilla (R) | **mewkaiso**: Flash Weasel (F) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
