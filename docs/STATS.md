@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 05:46 UTC by the scrape workflow._
+_Updated 2026-11-22 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 05:46 UTC by the scrape workflow._
 | amvgg | 12 | 30,371 | 2026-11-22T05:45 |
 | elve | 12 | 6,554 | 2026-11-22T05:46 |
 
-## AMVGG completed trades: 48,294 total
+## AMVGG completed trades: 48,312 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 986 |
+| 2026-11-22 | 1,004 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 05:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:45 | **DJ_4348**: Catte, Pupcicle, Pain au Chat, Halloween White Mummy Cat | **Shrecklover203**: Ride-A-Pet Potion ×2 |
-| 05:45 | **XxMonty18xX**: Pet Handler Pro Certificate | **Lovebunny_131**: Ride-A-Pet Potion ×2 |
-| 05:45 | **Rostik_treidir3000**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7 | **HoneyMochipuffile**: Lion (FR) |
-| 05:45 | **sonicpikmin7**: Pig (FR) | **elcob65**: Gemstone Egg ×18 |
-| 05:45 | **White_YTBT**: Crocodile (FR), Pig (FR) | **wskdaks**: Turtle (FR) |
-| 05:45 | **Josiep2020**: Arctic Fox (R) | **channelkriss**: Haetyphoon |
-| 05:45 | **TANSKlN**: Giant Panda (FR), Fly-A-Pet Potion | **emily_lup36**: African Wild Dog (R), Border Collie |
-| 05:41 | **afissamuzfirah**: Ride-A-Pet Potion ×2, Pain au Chat | **lockefoo**: Kitty Bat (N) |
-| 05:41 | **Xz_CodeOLDriftdLBliz**: Paint Sealer | **SummerSunX**: Christmas Pudding House |
-| 05:41 | **valer_xixzzz**: Cabbit (FR) | **jypit0410j**: Sugar Glider (FR), German Shepherd (R) |
-| 05:41 | **lovinme_arii**: Giant Panda (MFR), Giant Anteater (MFR) | **method611491**: Giraffe (MFR) |
-| 05:41 | **Arose_bells**: Rainbow Maker, Fly-A-Pet Potion, Ride-A-Pet Potion | **luvvvvrabbit**: Rain Cloud Hat ×2, Toaster Hat, Turtle (R) |
-| 05:41 | **Bismuth234**: Turtle (R) | **ydoch1213**: Border Collie (FR), Goat (FR) |
-| 05:41 | **p_lutoni**: Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon (FR) ×2, Tortuga de la Isla (FR), Alley Cat, Pupcicle (N), Pain au Chat (N), Ram (R), Mongoose (M) | **Fox7Art**: Owl (FR) |
-| 05:41 | **LOL_140152**: Solaris Animated Sticker | **headshotw0**: Sakura Spirit Sticker, Long Ermine Sticker, Squished Red Pandorama Sticker |
+| 05:51 | **JustDo_It097**: Pancake Stack, Bready Necklace, Butter Knife | **Sara707852**: Spring Bunny Hood |
+| 05:51 | **said1244566**: Owl (FR), Goose (R), Fairy Bat Dragon (FR), Cow (FR) | **cvsssidy**: Crow (FR) ×2 |
+| 05:51 | **SENATOR22855**: Fly-A-Pet Potion ×9 | **moral608**: Kangaroo (FR) |
+| 05:51 | **jandabi2006**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **sofia_sofiko**: Fallow Deer (R) |
+| 05:51 | **DalePearson8409**: Crow (FR), Ride-A-Pet Potion ×2 | **karl_koto**: Chocolate Chip Bat Dragon (NFR) |
+| 05:51 | **bomi_2013**: Ride-A-Pet Potion, Fly-A-Pet Potion | **v3stl0vie**: Pupcicle (N) |
+| 05:51 | **brisreal1**: Cheetah (MFR) | **wishkatara**: Snowball Pet (MFR), Majestic Pony (N), Copycat ×3 |
+| 05:51 | **Endlesspurplequirl**: Bunny (MFR), Harp Seal | **LunaPlaysYOO**: Pet Handler Pro Certificate, Urchin (N), Quokka ×2 |
+| 05:51 | **KUTU_KET06**: Panda (F) | **Tenshi_Neeshi**: Ride-A-Pet Potion |
+| 05:51 | **kawaixi_xgamer**: Copycat, Fly-A-Pet Potion, Chef Hat, Ride-A-Pet Potion | **w1w1w_1010**: Toaster Hat |
+| 05:51 | **Pumqueen72**: Indian Flying Fox (MFR), Elephant (R) | **lolghwy3**: Puffer Fish (MFR) |
+| 05:51 | **Niruch_Bearly**: Chocolate Chip Bat Dragon (FR), Turtle (FR), Jester Dragon, Aussie Egg | **Cloudyxxvibezzz545**: Mini Pig (FR), Kangaroo (FR), Siamese Cat (R), Unicorn Horn |
+| 05:51 | **Zukiemido_07**: Black Dog (M), Rubber Ducky (M) | **lemonadexx1**: Spring Bunny Nose |
+| 05:51 | **Japvaxx**: Cow (FR) | **cesarx_o**: Fairy Bat Dragon (FR), Fly-A-Pet Potion ×3 |
+| 05:51 | **AMINO4KA7U**: Turkey | **lelesayuru**: Sweetheart Rat (NR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
