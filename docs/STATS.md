@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 12:31 UTC by the scrape workflow._
+_Updated 2026-11-22 12:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 12:31 UTC by the scrape workflow._
 | amvgg | 12 | 37,105 | 2026-11-22T12:30 |
 | elve | 12 | 8,104 | 2026-11-22T12:31 |
 
-## AMVGG completed trades: 49,713 total
+## AMVGG completed trades: 49,760 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,405 |
+| 2026-11-22 | 2,452 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 12:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:30 | **XxlambadguyxX**: Lion Cub (NFR), Fly-A-Pet Potion | **SnowChannel_yt**: Cabbit (FR) |
-| 12:30 | **Zydac1**: Chihuahua ×2 | **Einhornmagicc**: Ride-A-Pet Potion |
-| 12:30 | **hisevermore**: Giraffe (MFR) ×2, Goose (MFR), Crow (FR) ×2, Cow (NR) | **BlizzardvwQuantumO13**: Bat Dragon (MFR) |
-| 12:30 | **robloxplayerzzxxc**: Arctic Reindeer (FR), Cow (FR), Peppermint Penguin (R), Cabbit, Ketchup and Mustard Jetpack | **NomZixxx**: Parrot (FR) |
-| 12:30 | **regina_12z**: Chocolate Dutch Guinea Pig (NR) | **Danila121219**: Frost Fury (FR) |
-| 12:30 | **ZzzTrades7**: Tiny Wings, Fly-A-Pet Potion, Chef Hat ×2, Pink Heart Glasses | **ava100192**: Tortoiseshell Guinea Pig |
-| 12:30 | **prorabik_krytou**: Candicorn (R), Werewolf (R) | **sufferingtogether**: Goose (R), Black Skateboard, Wood Scooter, Ride-A-Pet Potion |
-| 12:30 | **d3d3d89**: Christmas Spirit, Bobageist ×2, Frozen Penguin, Little Lamb, Angus Cow, Halloween White Mummy Cat, Parakeet (N), Violet Friend, Ant (N) ×3, Mouse (N), Pinkypillar (N), Ms. Muffet (N), Rubber Ducky (N), Maleo Bird ×2 | **purebelly**: Ride-A-Pet Potion |
-| 12:30 | **aestethic_boba12**: Sheeeeep (NR), Blue Ringed Octopus, Fantastical Wings | **misakoyr**: Sugar Glider (FR), Banana Hat |
-| 12:30 | **tryadoptme1**: Ride-A-Pet Potion | **Ggggsiijs76**: Pupcicle (R) |
-| 12:30 | **KUTU_KET06**: Ride-A-Pet Potion ×3, Chocolate Dutch Guinea Pig | **daridaridari222**: Jester Dragon |
-| 12:30 | **verkaash**: Ride-A-Pet Potion, Coyote ×4 | **Dominat0r_Sha**: Fly-A-Pet Potion |
-| 12:30 | **billygrace4jeffy**: Parrot (R), Owl (FR), Rainbow Maker, Pomeranian (MFR), Jekyll Hydra (FR), Red Sand Dollar (MR), Penguin (MFR), Leopard Cat (MFR), Ranger Beaver (MFR) | **bubbleaxolot**: Frost Dragon (NFR) |
-| 12:30 | **iibancaxx**: Capricorn (NFR) | **Yoseniri_38**: Unicorn (NFR) |
-| 12:30 | **sufferingtogether**: Amethyst Skies Mega Neon Paint, Classic Trade Stand | **eyebagsq**: Ride-A-Pet Potion |
+| 12:40 | **XIVrsen**: Grim Dragon (FR), Candicorn (FR), Dragonfruit Fox (NFR), Ride-A-Pet Potion ×4 | **curemysorrowsq**: Grim Dragon (NFR) |
+| 12:40 | **Alina_2342164**: Fly-A-Pet Potion | **AADAM233**: Pet Handler Pro Certificate |
+| 12:40 | **fabrielpanapro**: Copycat, Happy Duckling | **RGAKL10**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
+| 12:40 | **QxQ_L1**: Shark Puppy (FR), Dragonfruit Fox, Ride-A-Pet Potion ×2 | **iaMatthieu1**: Border Collie (R) |
+| 12:40 | **Cyxaruk_9877**: Sheeeeep (N) | **Pipotatini568**: Fairy Bat Dragon (R) |
+| 12:40 | **deceasedbvnn1**: 2022 Birthday Party Hat, Unicorn Horn, 2022 Birthday Cupcake Shoes | **ETM_TOPG**: Rainbow Maker |
+| 12:40 | **summerg6mes**: Cryptid (FR), Kitty Bat (M) | **MADDI3DRE4MS**: Turtle (FR) ×2, Dragonfruit Fox (MFR), T-Rex (MFR) |
+| 12:40 | **itzz_me584**: Christmas Pudding Pup (NR), Fly-A-Pet Potion | **SugarIoIIi**: Frostbite Bear |
+| 12:40 | **silkenrainfall**: Urchin (N) | **crunchyiess**: Paint Sealer ×4 |
+| 12:40 | **the3reveng**: Pterodactyl (R), Black Tiger (N), Forest Sprite (N), 2026 Birthday Butterfly (N), Milk Choccybunny (N) | **DommePA3355**: Ride-A-Pet Potion |
+| 12:40 | **3htrio**: Copycat (MFR), Crocodile (FR) | **6ldmoney**: Hedgehog (FR) |
+| 12:40 | **Vikakelera**: Pet Handler Pro Certificate | **Pablo_pro6752**: Christmas Future Egg ×3, Rotating Periscope |
+| 12:40 | **NotSoAfraid**: Dragon's Castle | **alyssaistuffyy**: Christmas Pudding House |
+| 12:40 | **kittycutecat11130**: African Wild Dog | **pupgenderr**: Evil Unicorn (FR), Grim Dragon (FR), Shark Puppy, Dango Penguins, Ride-A-Pet Potion |
+| 12:40 | **Ilovedarya35**: Pink Heart Glasses, Tan Chow-Chow (M) | **Sleepy_Sonya112**: Fly-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
