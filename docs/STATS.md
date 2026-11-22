@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 13:01 UTC by the scrape workflow._
+_Updated 2026-11-22 13:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 13:01 UTC by the scrape workflow._
 | amvgg | 12 | 37,650 | 2026-11-22T13:00 |
 | elve | 12 | 8,246 | 2026-11-22T13:01 |
 
-## AMVGG completed trades: 49,837 total
+## AMVGG completed trades: 49,900 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 2,529 |
+| 2026-11-22 | 2,592 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 13:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:55 | **fendi_iix**: Hot Doggo (FR) ×2 | **sleepy_s0ren**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:55 | **jauzyp**: Werewolf (R) | **Middo_Adventures1**: Candicorn (FR) |
-| 12:55 | **aydachan200311**: Ride-A-Pet Potion ×4 | **liofe1**: Fallow Deer |
-| 12:55 | **fishymiss_y**: Spring Bunny Nose, Ride-A-Pet Potion | **NotSweatyOnion**: Eggnog Dog (N), 2021 Uplift Butterfly (N), Blue Butterfly (M) |
-| 12:55 | **Eceuni**: Strawberry Tortle | **Milka_Milk87**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×6 |
-| 12:55 | **miki3072**: Aurora Fox (FR), Frost Unicorn (R), Fly-A-Pet Potion | **ayanyyka**: Fairy Bat Dragon (FR) |
-| 12:55 | **privetiloxev**: Pupcicle, Pain au Chat | **Nothing_ToSugaglider**: Ride-A-Pet Potion |
-| 12:55 | **Crystalcyncyn**: Fly-A-Pet Potion | **one_chanel11**: Indian Flying Fox (NR) |
-| 12:55 | **bubbleaxolot**: Penguin (MFR) | **kiracd227**: Velocirooster |
-| 12:55 | **cute_bunny123456p**: Candyfloss Chick (MFR), Pig, Pet Handler Pro Certificate, Ride-A-Pet Potion, Kitty Biscuit | **NathanPlayz83**: Goat (MFR), Harp Seal (MR), Gaelic Fae (MFR), Lion Cub (MFR) |
-| 12:55 | **dishkaaa_qqii**: Royal Palace Spaniel, General Sheepdog, Tan Chow-Chow, Australian Kelpie, Admin Abuse Egg ×5 | **nicoleta171727**: Ride-A-Pet Potion |
-| 12:55 | **Navilolp**: Fly-A-Pet Potion | **L3mon_Pl4ys**: Dire Wolf (M) |
-| 12:55 | **v3esoul**: Rain Cloud Hat, Field Mouse (FR), Pupcicle | **milkaKoPiLkAUnU**: Unicorn Horn |
-| 12:55 | **odading12318**: Mini Pig (FR) | **krimpriiz**: Siamese Cat (R), Munchkin Cat (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 12:55 | **NotSweatyOnion**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×6 | **EnverA2006**: Kangaroo (FR) |
+| 13:11 | **Stxrrynight0303**: Fly-A-Pet Potion | **NotSweatyOnion**: Amethyst Skies Mega Neon Paint, Vanilla Penguin |
+| 13:11 | **guchi_puchi95**: Ride-A-Pet Potion, Count Slothula | **mellqxxrb**: Christmas Spirit (NR) |
+| 13:11 | **PyBy25**: Kangaroo (FR), Kangaroo (R) | **viltpool**: Undead Jousting Horse (FR) |
+| 13:11 | **Qoqolka**: Giant Anteater (NFR), Goose (FR) | **sleepy_s0ren**: Frost Unicorn (NFR) |
+| 13:11 | **DeoKyleSonic**: Munchkin Cat (N) | **MaxSilverLi0n2020**: Copycat (NR), Ride-A-Pet Potion, Pancake Stack, Arctic Fox (R) |
+| 13:06 | **Bruniepie**: Alpaca, Pink Betta Fish, Tarsier | **sofia_sofiko**: Unicorn Horn, Polar Bear, Eggnog Dog |
+| 13:06 | **Ruperto_1297**: Cow (FR) | **Pelmeshik2007**: Fly-A-Pet Potion ×17 |
+| 13:06 | **Evo4ka_Devo4kaMI**: Tarantula (NFR), Purrowl (N), Corgi (M), Corgi (N), Pomeranian (N), Red Panda (N), Gemstone Egg, Mahi Mahi (N), Shiba Inu (N), Ant (N) | **feliyammr**: Fly-A-Pet Potion ×2 |
+| 13:06 | **Happy_PlayerWizard**: Strawberry Shortcake Bow | **Hzm740**: Pink Hightops |
+| 13:06 | **aikouwu27**: Ride-A-Pet Potion | **Valentita800191**: River Otter (M) |
+| 13:06 | **CrosS3dz**: Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon, Arctic Reindeer (FR) | **Wwetty38**: Frost Dragon (FR) |
+| 13:06 | **monkeycutebow**: Ride-A-Pet Potion ×2 | **krikikriki56**: Pet Handler Pro Certificate |
+| 13:06 | **GrumpDummy**: Cabbit (R), Unicorn Horn, 2022 Birthday Cupcake Shoes | **Khmerangel4130**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:06 | **banani_Offishal**: Fly-A-Pet Potion, Stray Cat Dragon ×3 | **Pingola_12**: Dango Penguins |
+| 13:06 | **leahrobynboo**: Admin Abuse Egg ×3 | **Im_HappyXuXi**: Electric Hornet |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
