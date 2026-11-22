@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 18:01 UTC by the scrape workflow._
+_Updated 2026-11-22 18:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 18:01 UTC by the scrape workflow._
 | amvgg | 12 | 42,928 | 2026-11-22T18:00 |
 | elve | 12 | 9,520 | 2026-11-22T18:01 |
 
-## AMVGG completed trades: 51,520 total
+## AMVGG completed trades: 51,609 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 4,212 |
+| 2026-11-22 | 4,301 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 18:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:55 | **narcicil654**: Ride-A-Pet Potion, Dog | **floralplum**: Unicorn |
-| 17:55 | **Tena_IsPeakfr**: Ranger Beaver (MFR) | **xv3mpirezZ**: Amami Rabbit (MFR) |
-| 17:55 | **xpinkpearlss**: Ride-A-Pet Potion ×8 | **Shiroooaltt**: Goat (FR) |
-| 17:55 | **Katerryrka**: Spring Bunny Feet | **MakylaThePandaLover**: Ride-A-Pet Potion ×2 |
-| 17:55 | **Aimep3apesta**: Arctic Dusk Dragon (NFR), Alley Cat (NR), Alpaca (FR), Copycat, Mrs. Whiskerpips (MR), Fly-A-Pet Potion | **igvxruu**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:55 | **ificial2345**: Royal Palace Spaniel | **Zoescats111**: Pain au Chat |
-| 17:55 | **Gu_chek**: Mini Pig | **Harriet_trades**: Turtle (FR), Winged Tiger (FR), Pet Handler Pro Certificate, Chihuahua |
-| 17:55 | **W1zeryy**: Copycat (R) | **JuanasSecret**: Chocolate Dutch Guinea Pig (N) |
-| 17:55 | **joeyharri12**: Cow (MFR), Goat (MFR), Unicorn Horn, Pupcicle (MFR), Elephant (FR) | **leoegern40**: Giraffe (FR) |
-| 17:55 | **51lly_Skyl1ghtz**: Peppermint Penguin (FR) | **Mar56060**: Jellyfish (R), Christmas Pudding Pup, Arctic Dusk Dragon (FR), Pupcicle (N), Fly-A-Pet Potion, Ride-A-Pet Potion, Cupid Dragon (R) |
-| 17:55 | **qwertldq**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×3 | **KemmasRoblox**: Peppermint Penguin (FR) |
-| 17:55 | **quesodrilo**: Catte, Chihuahua ×4, Highland Cow, Water Rabbit, Happy Duckling, Irish Elk, Moon Rabbit, Harp Seal, Ash Zebra, Sea Angel ×3, Scarecrow Cat, Respectful Mustache, 2022 Birthday 5 Badge | **mxrgan66**: Goat |
-| 17:55 | **mynikwxs**: Golden Bone | **Teach_baby**: Moon Rabbit |
-| 17:55 | **viksksq**: Pomeranian (N), Fly-A-Pet Potion | **Katie_proshkaa**: Pet Handler Pro Certificate |
-| 17:55 | **purinsitoelmejor**: Fly-A-Pet Potion | **kiracd227**: Pet Handler Pro Certificate |
+| 18:11 | **kelixnz**: Capuchin Monkey | **Kami_162013**: Fairytale Egg ×18 |
+| 18:11 | **elba_llenato**: Candicorn (NFR) | **sugar_lover61**: Mini Schnauzer (MFR), Water Rabbit (MFR), Velocirooster |
+| 18:11 | **Chase_34796**: Husky (MFR), French Bulldog (MFR), Ride-A-Pet Potion | **astarising**: Bush Elephant (NFR) |
+| 18:11 | **GirlyLaffy124**: Shiver Wolf (MR), Angus Bull (M), Black Moon Bear (M), Fly-A-Pet Potion | **Theguruguruslay**: Panda (MFR) |
+| 18:11 | **annaannaaannnnn**: Cabbit (MFR), Arctic Reindeer (R) | **emmy_thepea**: Giraffe (FR) |
+| 18:11 | **LyraFusion**: Kiwi ×5, Moonbeam Butterfly, Moon Rabbit, Owlbear, Drake, Cheetah (R), Ice Cream Hermit Crab | **Rubberduckington1103**: Phantom Dragon (NFR) |
+| 18:11 | **Hikooji8**: Siamese Cat (R) | **franfrann09**: Happy Duckling (MFR), Red Fox (MF), Amami Rabbit (NR), Fly-A-Pet Potion, Tanuki (NFR) |
+| 18:11 | **robloxer_3614**: Caelum Cervi (R), Bear Hood | **aangelss11**: Lion Cub (R) |
+| 18:11 | **ingravved**: Fairytale Egg ×18 | **PerritoBobu**: Admin Abuse Egg ×6 |
+| 18:11 | **antonella_3137**: Thunderfisher, Blue Whale ×2, Diamond Griffin, Admin Abuse Egg ×5, Alicorn | **Mihka14lee**: Ride-A-Pet Potion |
+| 18:11 | **queenofindia123**: Turtle (FR) | **Miley_zzz**: Elephant (R), Pig (R), Ride-A-Pet Potion |
+| 18:11 | **progalaksi22**: Cabbit (FR), Pet Handler Pro Certificate ×2, Sea Slug (NR), White Chef Hat | **Max051812**: Cabbit (NFR) |
+| 18:11 | **Irinanewrobloxian**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×4 | **DragonjJDusta107130**: Turtle (FR) |
+| 18:11 | **riskyactss**: Matcha Cat | **TheGamerNoob555Xd**: Golden Mistletoe ×2 |
+| 18:11 | **youchi_nagi**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×10 | **0_0ship21**: Sugar Glider (FR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
