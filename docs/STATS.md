@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-22 08:01 UTC by the scrape workflow._
+_Updated 2026-11-22 08:10 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-22 08:01 UTC by the scrape workflow._
 | amvgg | 12 | 32,553 | 2026-11-22T08:00 |
 | elve | 12 | 6,989 | 2026-11-22T08:01 |
 
-## AMVGG completed trades: 48,664 total
+## AMVGG completed trades: 48,708 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-22 | 1,356 |
+| 2026-11-22 | 1,400 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
 | 2026-11-19 | 3,697 |
@@ -37,21 +37,21 @@ _Updated 2026-11-22 08:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:00 | **jebiilerium**: Kangaroo (NFR) | **ded_valera9586**: Kangaroo (FR), Ride-A-Pet Potion ×16 |
-| 08:00 | **EGOATHENOOB**: Pig (FR), Ride-A-Pet Potion | **xean1zm**: Ice Golem (NFR) |
-| 08:00 | **yutoffee**: Mochi Meow (M) | **h4_cd**: Ride-A-Pet Potion ×2, Mochi Meow |
-| 08:00 | **chantking0910**: Balloon Unicorn (FR), Peppermint Penguin (FR), Unicorn (MFR) | **mommy_oni0623**: Dalmatian (NFR) |
-| 08:00 | **chantking0910**: Turtle (FR) | **likedyour3**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 |
-| 08:00 | **Dimash_bash**: Cow (FR), Arctic Fox (NR), Arctic Fox (FR), Pupcicle (N) | **CHEBURASHKAAA123**: Chocolate Chip Bat Dragon (FR) |
-| 08:00 | **fairyqxfaee**: Christmas Pudding House | **B0ringPErs0n_1**: Ride-A-Pet Potion |
-| 08:00 | **Pulseq3Void63Echo174**: Castle Hermit Crab, Highland Cow, Pain au Chat ×2, Pink Betta Fish | **austin_1230003**: Fly-A-Pet Potion |
-| 08:00 | **avoldence**: African Wild Dog (FR), Evil Unicorn (FR), Quokka (M), Momma Moose (M) | **belovez_21**: Cryptid (NFR) |
-| 08:00 | **Lizard123997**: Standard Gorilla Box, Standard Gibbon Box, Kaijunior Box, Kelp Raider Box, Spider Gift | **FUR_INAAAA**: Ride-A-Pet Potion |
-| 08:00 | **Nastya_367367**: Retired Egg ×18 | **xy_hmayy**: Crystal Egg ×9 |
-| 08:00 | **OneVLOG99**: Christmas Pudding House, Bubblegeist | **pinkytedslovie**: Ostrich |
-| 08:00 | **Cutie_wolfie20**: Cow (FR) ×4, Munchkin Cat, Fly-A-Pet Potion ×3 | **milltsk**: Crow (FR) |
-| 08:00 | **VelenoDiVipera**: Dragonfruit Fox | **double_blackxx**: Ride-A-Pet Potion ×3 |
-| 08:00 | **Yupiterd**: Crystal Egg ×12 | **lacandon1235**: Ride-A-Pet Potion |
+| 08:10 | **hexyzbagoc31**: Strawberry Shortcake Bat Dragon (FR), Stray Cat Dragon (M) | **deltatheranga**: Pig, Cow, Fairy Bat Dragon (FR) |
+| 08:10 | **1velvetpaw**: Retired Egg ×18 | **unknown_282012a**: Ancient Dragon, Three Blind Mice, Purrowl ×3, Snow Puma |
+| 08:10 | **unknown_282012a**: Winter Doe, Samoyed, Ginger Cat, Japanese Snow Fairy, Tree Sasquatch, Gingerbread Wings | **1velvetpaw**: Retired Egg ×15 |
+| 08:10 | **kiwipoq**: Mexican Wolf (M), Pangolin (M) | **MakiraLive**: Ride-A-Pet Potion |
+| 08:10 | **stinky1906x**: White Chef Hat, Heart Hat, Orca | **neliadaaa**: Galaxy Explorer Helmet |
+| 08:10 | **Exx_mexUnU**: 2022 Birthday Cake, Unicorn Horn, 2022 Birthday Cupcake Shoes, 2022 Birthday Confetti Cannon ×2, 2022 Birthday Party Horn, Tiny Wings, Spring Bunny Hood, Spring Bunny Nose, 2022 Birthday Party Hat, Pig, Husky, Skeleton Winged Glider | **leruval**: Crow (FR) |
+| 08:10 | **impiggyomggggggggggg**: Alley Cat (MFR) | **M1NKIY**: Kiwi (MFR), Candyfloss Chick (R), Caterpillar (R), Sloth (R) |
+| 08:10 | **ETM_TOPG**: Strawberry Tortle, Ride-A-Pet Potion | **liofe1**: 2022 Birthday Party Hat, Chick Backpack, Chick Hat, Tan Chow-Chow, Chanekeh (M), Steppe Lion, Tealwood Monster, Water Opossum (N), Easter Egg Friends |
+| 08:10 | **ghljg7**: Lamb, Ram (R), Nautilus (NFR) | **lipton_milksh**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 08:10 | **kiwipoq**: River Otter (M) | **Kisa_Mika8**: Ride-A-Pet Potion |
+| 08:10 | **LaymushkaUwU**: Fly-A-Pet Potion | **Zlota_Sofa**: Mrs. Whiskerpips (M) |
+| 08:10 | **tguerx**: Crimson Cape (N), Pomeranian (N), Angus Cow (N), Gibbon (N), Ice Cube (N) | **evapro67lol**: Ride-A-Pet Potion |
+| 08:10 | **krovavaya_lyna**: Stray Cat Dragon, Dragonfly, Purrowl ×2, Mochi Meow, Admin Abuse Egg ×5, Fairytale Egg ×5, Gemstone Egg | **princess_pizzanice**: Ride-A-Pet Potion |
+| 08:10 | **Martinotschka**: Ride-A-Pet Potion | **kiwipoq**: Sushi Penguin |
+| 08:10 | **Ineedcake67**: Cow, Yule Log Dog (M), Scarlet Butterfly (MFR), Meerkat, Pet Handler Pro Certificate | **Taseli934**: Jester Dragon (MFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
