@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 13:01 UTC by the scrape workflow._
+_Updated 2026-11-23 13:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 13:01 UTC by the scrape workflow._
 | amvgg | 13 | 37,313 | 2026-11-23T13:00 |
 | elve | 13 | 7,903 | 2026-11-23T13:01 |
 
-## AMVGG completed trades: 55,124 total
+## AMVGG completed trades: 55,162 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,887 |
+| 2026-11-23 | 1,925 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 13:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:00 | **yudaswoiew**: Ride-A-Pet Potion ×2 | **Kir4kaa**: Skelicorn ×10 |
-| 13:00 | **Fruit_Kittie**: Ride-A-Pet Potion | **JpinkyJ**: Bunny Swirl |
-| 13:00 | **Teach_baby**: Elephant (R), Ginger Cat (N), Chanekeh (N) | **fchdhfjggch**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×3 |
-| 13:00 | **aloiv484**: Fly-A-Pet Potion ×2 | **Kvammletitraketa**: Harp Seal, Cake Friend, Binturong, German Shepherd |
-| 12:55 | **16y97**: Pet Handler Pro Certificate, Purrowl | **chapa4ka579**: Summer Walrus ×10 |
-| 12:55 | **Panci_Terbang33**: Fly-A-Pet Potion | **tw1nkle3788**: Pupcake (N) |
-| 12:55 | **Max_game751**: Ride-A-Pet Potion ×2, Unicorn Horn, Longhorn Cow (MFR) | **obv1joowe**: Mule (MR), Fly-A-Pet Potion, Back Taco |
-| 12:55 | **maxim2511top**: Count Slothula | **roblox_user_1554000708**: Ride-A-Pet Potion |
-| 12:55 | **clarisse_tubeuse**: Owlbear | **Panci_Terbang33**: Fly-A-Pet Potion ×2 |
-| 12:55 | **Danila121219**: Fly-A-Pet Potion ×9 | **Gglecyl0**: Kangaroo (FR) |
-| 12:55 | **supernova_cloud**: Border Collie (FR), Shark Puppy (R), Ride-A-Pet Potion | **Jesabell_2612**: Sugar Glider (FR) |
-| 12:55 | **Panci_Terbang33**: Fly-A-Pet Potion | **loiol1004**: Sweetheart Rat ×2, Puptune, Glyptodon (N) |
-| 12:55 | **Whitemen5323**: Mrs. Whiskerpips (M) | **poortorichy28**: Fly-A-Pet Potion |
-| 12:55 | **Callme_Mary45**: Stray Cat Dragon ×11, Skelicorn ×7 | **lhfshkg**: Ride-A-Pet Potion ×2 |
-| 12:51 | **Tamara_dieloste2010**: Swan (NFR), Horse (NFR), Dango Penguins (NR), Aussie Egg, Apple Owl (N), Woolly Mammoth (NR), Wild Boar, Phoenix (N), Unicorn | **MinhLovesFurriess**: Cow (FR) |
+| 13:11 | **Ruperto_1297**: Cow (FR) | **iiLxy_MoonStxr**: Fly-A-Pet Potion ×17 |
+| 13:11 | **Slender202404**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **DragonjJDusta107130**: Border Collie (R) |
+| 13:11 | **speedatom95**: Ancient Dragon ×3, Dragonfly ×3, Golden Griffin, Diamond Griffin, Dracula Parrot, Stray Cat Dragon | **chiefkeezzf**: Classic Trade Stand ×2 |
+| 13:11 | **twoj_starykomar**: Burger Boots | **FunnyAnaminegirl**: Tropical Surge Mega Neon Paint |
+| 13:11 | **ere30004**: Chocolate Chip Bat Dragon (MFR) | **RuthJavxn**: Cryptid (NFR) ×2 |
+| 13:11 | **larisochka_gudeeva98**: Crystal Egg ×12, Space Whale, Skelicorn (R) | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 13:11 | **liofe1**: Eggnog Hare, Eggnog Dog ×2, Tanuki, Dilophosaurus, Sasquatch | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 13:11 | **J0LYNECXTE**: Goose (MFR) | **ELASTICHXRT**: Winged Tiger (MFR), Halloween White Ghost Dragon (MFR), German Shepherd (MFR), Nautilus (MFR) |
+| 13:11 | **q_culvs**: Red Dutch Guinea Pig (MFR), Blue Ringed Octopus (MFR), Eggnog Dog (MFR), Choco Penguin (MFR), Green Amazon (MFR) | **Lingling111206**: Chocolate Dutch Guinea Pig (MFR), Wood Pigeon (MFR), Silly Duck (MFR) |
+| 13:11 | **Ksenka866**: Magic House Door, Chihuahua | **Jiji_sidi**: Ride-A-Pet Potion, Throwback Egg |
+| 13:11 | **Flower55Power0**: Dragonfruit Fox (MFR), German Shepherd (MFR), Border Collie (FR), Strawberry Penguin (FR) | **lol_whateverx67hsk81**: Dalmatian (FR) |
+| 13:11 | **CFESG8557777**: Border Collie (MFR), Ginger Cat | **ELASTICHXRT**: Matcha Cat (MFR), Drake (MFR), Irish Elk (MFR), Longhorn Cow (MFR) |
+| 13:11 | **maxwertaq**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (R) | **kitty_2309403**: Hedgehog (FR), Turtle (FR), Ride-A-Pet Potion |
+| 13:11 | **vcloss**: Coconut Friend, Bunny Swirl | **kiara_lotos**: Pupcicle |
+| 13:11 | **Sociable_EG**: Copycat (N) | **pizdinavolosina**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×8 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
