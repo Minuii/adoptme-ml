@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 18:16 UTC by the scrape workflow._
+_Updated 2026-11-23 18:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 18:16 UTC by the scrape workflow._
 | amvgg | 13 | 42,357 | 2026-11-23T18:15 |
 | elve | 13 | 9,047 | 2026-11-23T18:15 |
 
-## AMVGG completed trades: 56,376 total
+## AMVGG completed trades: 56,422 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,139 |
+| 2026-11-23 | 3,185 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 18:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:15 | **BrooklynToxicGam3r**: Fly-A-Pet Potion, Stray Cat Dragon, Starfish ×2 | **discoboomzz**: Ride-A-Pet Potion ×2 |
-| 18:15 | **jellycatmar**: Yeti (MFR), Brown Springer Spaniel (MFR) | **scrifiice**: Candy Hare (MFR) |
-| 18:15 | **hensij3n**: Fossil Egg | **rrnmaaaa**: Christmas Pudding House |
-| 18:15 | **ler4eg645209**: Frostbite Bear (N) | **patotective41**: Balloon Unicorn (FR) |
-| 18:15 | **awhbubblessss**: Cabbit (FR), Harp Seal (N), Christmas Pudding Pup, Axolotl (NFR) | **VirKa_SUPER2**: Ice Cream Hermit Crab (MR) |
-| 18:15 | **ni1zuua**: Mochi Meow (MFR), Spring Bunny Feet | **Just_me20202**: Caelum Cervi |
-| 18:15 | **EricCasper**: Moose Calf (N) | **ILASW1SHES**: Crocodile |
-| 18:15 | **ni1zuua**: Mr. Whiskerpips (MFR) | **Scphiaaxbxdcr**: Sheeeeep (FR), Ride-A-Pet Potion ×2 |
-| 18:15 | **Haiealysososo**: Rainbow Maker, 2022 Birthday Party Hat, Rain Cloud Hat, Unicorn Horn, 2022 Birthday Party Horn | **mm2FORever374**: African Wild Dog (FR) |
-| 18:15 | **DefinitelyNotCha6**: Modern Mansion | **Lulugamerg0607**: Ride-A-Pet Potion |
-| 18:15 | **HOCOKKU**: Ride-A-Pet Potion ×2 | **Laryxn00**: Boohoo (M), Jumpscare (M) |
-| 18:15 | **DefinitelyNotCha6**: Wolpertinger ×3, Tasmanian Tiger ×2, Walrus, Stingray ×3, Robin ×2, Malaysian Tapir, Chick, Bandicoot ×3, Dingo ×2 | **Dresstoimpressque33**: Fly-A-Pet Potion |
-| 18:15 | **HoliviaGold**: Ride-A-Pet Potion | **rrstockxadm**: Crystal Egg ×17 |
-| 18:15 | **dorthew**: Christmas Pudding House | **maaaiaus**: Admin Abuse Egg ×2 |
-| 18:15 | **arturo7pose12345**: Mahi Mahi (N), Toucan ×2, Kakapo (N), Orangutan ×9 | **sarahang3la**: Metal Ox |
+| 18:21 | **ObxiouslyEllicia**: Owl (FR) | **xZetherx**: Arctic Reindeer (FR), Evil Unicorn (FR), Elephant (FR) ×2 |
+| 18:21 | **Xxxxashhhh**: Ride-A-Pet Potion, Pet Handler Pro Certificate ×3 | **therealkayt67**: Puffin (FR) |
+| 18:21 | **Brok3n_Clocks**: Ride-A-Pet Potion ×2, Pupcicle, Mighty Haetyphoon Animated Sticker | **Dorebears**: Mermaid Mansion |
+| 18:21 | **prorabik_krytou**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Ride-A-Pet Potion ×5, Capybara (R), Black Panther (FR), Chocolate Dutch Guinea Pig (R), Turkey, French Bulldog, Ghost Dog, Catte | **84382g**: Arctic Reindeer (FR) ×2 |
+| 18:21 | **xsu_px**: Copycat (R), Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion, Mummy Spider (M) | **84382g**: Arctic Reindeer (FR) |
+| 18:21 | **CandyCane90g**: Strawberry Tortle (R) | **MiLkas_20111**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×3 |
+| 18:21 | **miirxlla**: Fly-A-Pet Potion, Ride-A-Pet Potion | **52queen_roblox52**: Dango Penguins |
+| 18:21 | **lolololol_maxarooroo**: Dragonfruit Fox (N), Seafoam Butterfly (MFR) | **ihitmyheadonwalls2**: Tortoiseshell Guinea Pig, Ride-A-Pet Potion ×2 |
+| 18:21 | **84382g**: Ride-A-Pet Potion ×17 | **myBestiVlad2380**: Fly-A-Pet Potion ×9 |
+| 18:21 | **Ianis5089**: Bunny Swirl (N) | **Nikita_berg003**: Fly-A-Pet Potion |
+| 18:21 | **moonlarielle**: Pain au Chat ×3, Cattuccino ×3, Bat (N) | **kaxuu_u**: Christmas Pudding House |
+| 18:21 | **DijaBint2**: Sheeeeep (MFR) | **Lolbaddie1205**: Pig (MFR), Majestic Pony (MFR) |
+| 18:21 | **sarahang3la**: Shetland Pony Dark Brown (MR) | **Kamila12mm3newacc**: Oakee (M), Black-Footed Ferret (M), Chestnut Glyptodon (M) |
+| 18:21 | **Sasuke01919199**: Spring Bunny Feet ×2 | **fabilikesyoux**: Goth Shoes |
+| 18:21 | **itz_grigoriy**: Ocelot ×18 | **Mia_xloves**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
