@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 21:16 UTC by the scrape workflow._
+_Updated 2026-11-23 21:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 21:16 UTC by the scrape workflow._
 | amvgg | 13 | 45,417 | 2026-11-23T21:15 |
 | elve | 13 | 9,649 | 2026-11-23T21:15 |
 
-## AMVGG completed trades: 57,172 total
+## AMVGG completed trades: 57,186 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,935 |
+| 2026-11-23 | 3,949 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 21:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:25 | **klrmnn**: Pig (FR) | **Kalasara0**: Arctic Fox (FR), Pupcicle (FR), Ride-A-Pet Potion |
+| 21:25 | **Z_Alexis22**: Turtle (FR) | **Furry_lechuga**: Kangaroo (FR), Ride-A-Pet Potion ×5 |
+| 21:25 | **prince_onepator**: Christmas Pudding Pup (NFR), Frost Unicorn (FR) | **9vvdx**: Mermicorn (FR), German Shepherd (MFR), Sneak Weasel (MR) |
+| 21:25 | **floatiinqz**: Mule (MFR), Great Pyrenees (MR) | **Dinkarrt**: Mini Pig (FR) |
+| 21:25 | **FestiveNotCupcake**: Dango Penguins (MR), Ride-A-Pet Potion | **LewALTacc7**: Unicorn Horn, 2022 Birthday Party Horn, Tuxedo Cat (MFR) |
+| 21:25 | **arqvve1**: Fly-A-Pet Potion ×2 | **Raposinha_GamesBr5**: Mochi Meow (M), Milk Choccybunny (M) ×2 |
+| 21:25 | **adoptmememe68**: Strawberry Shortcake Bat Dragon (NFR), Jester Dragon | **Aeiker_Ake**: Crow (FR) |
+| 21:25 | **elproXD_7v7**: Pain au Chat ×3 | **Yamenzoj**: Ride-A-Pet Potion |
+| 21:25 | **cutestbrunettes**: Chocolate Chip Bat Dragon (FR), Slime | **aleks2u**: Cow (FR) ×2 |
+| 21:25 | **Cristoferpro73739**: Owlbear (MFR), Unicorn Horn, Unicorn Backpack | **zeejnaa**: Alpaca (NFR) |
+| 21:25 | **iaMatthieu1**: Strawberry Shortcake Bat Dragon (FR) | **gxnvsiss_wrld**: Fairy Bat Dragon (FR), Sheeeeep, Meerkat (R), Ride-A-Pet Potion ×3, Fairy Bat Dragon |
+| 21:25 | **akeks_77**: Dalmatian (FR), Ring-Tailed Lemur (NR), Kangaroo (FR), Fly-A-Pet Potion ×5 | **roronoazoro1gg**: African Wild Dog (FR) |
+| 21:25 | **ihyMellyy**: Strawberry Shortcake Bat Dragon (FR), Cabbit (FR) | **KennedyHilfiger**: Cryptid (FR) |
+| 21:25 | **transxripts**: Cryptid (FR) | **XxXPanda_Gamer586**: Alpaca (NFR) |
 | 21:15 | **aweapolarbear**: Cactus Friend, Puma (N), Sheepdog Ducky (N) ×3, Pinkypillar (N), Black Moon Bear (N), Gecko Ducky (N), Mouse (N) ×2, Cat (N) | **EmmaShad0wRider4737**: Fly-A-Pet Potion |
-| 21:15 | **IamCool123Andunot**: Llama (MFR), Ride-A-Pet Potion, Fly-A-Pet Potion, Frostclaw (N), Glyptodon (N) | **firegrumpjaw**: Sushi Penguin (MFR), Sushi Penguin (MR) |
-| 21:15 | **Eslemyfjjjg**: Rain Cloud Hat, Spring Bunny Hood, Spring Bunny Feet, Pancake Stack, Flying Fairy | **oso_toilet**: Copycat (NR), Jester Dragon |
-| 21:15 | **cazzy123abc**: Frost Dragon (FR), Crow (FR), Shark Puppy (NFR), Shark Puppy | **Haunting_Eden**: Undead Jousting Horse (MFR) |
-| 21:15 | **xsu_px**: Bat (F) | **xmarlarx**: Christmas Pudding House |
-| 21:15 | **d4rlingjazzy**: Ladybug (NFR), Swan, Tarantula (N) | **so_imJoys**: Fly-A-Pet Potion, Ride-A-Pet Potion, Snowy Mammoth, Basic Egg ×12, Admin Abuse Egg ×3 |
-| 21:15 | **dixrvalzz**: Ride-A-Pet Potion ×2 | **quupeei**: Amami Rabbit (N) |
-| 21:15 | **Benjy_toby7**: Dalmatian (R) | **vstxcey**: Honey Badger (MFR) |
-| 21:15 | **d4rlingjazzy**: Fairy Bat Dragon (NFR) | **Alice_Fpe2567**: Elephant (NR), Elephant (R), Shark Puppy, Lion Cub, Ram, Ride-A-Pet Potion, Harp Seal ×2 |
-| 21:15 | **Linwtx**: Hare (MFR) | **Marinela_chimie**: Hare (M) |
-| 21:15 | **victorymoreva**: Ride-A-Pet Potion ×3 | **Waq1uxx**: Soccer Stadium |
-| 21:15 | **ydoch1213**: Husky (MFR) | **Iwokale**: Harp Seal (MFR) |
-| 21:15 | **2tayy**: Crystal Egg ×13 | **JelenaGold**: Ride-A-Pet Potion |
-| 21:15 | **Ellibu76**: Winter Fawn (M), Ocelot (MR), Beluga Whale (M), Ride-A-Pet Potion, Unicorn Stroller | **SkobolG**: Ram (N) |
-| 21:15 | **bella94255**: Turtle (FR) | **Vhsdollie03**: Lamb (NFR), Ram (NR), Camel (MFR), Spring Bunny Hood, Pancake Stack, Bready Necklace |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
