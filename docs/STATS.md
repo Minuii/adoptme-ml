@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 07:41 UTC by the scrape workflow._
+_Updated 2026-11-23 07:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 07:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 32,206 | 2026-11-23T07:30 |
-| elve | 13 | 6,753 | 2026-11-23T07:31 |
+| amvgg | 13 | 32,428 | 2026-11-23T07:45 |
+| elve | 13 | 6,838 | 2026-11-23T07:46 |
 
-## AMVGG completed trades: 54,307 total
+## AMVGG completed trades: 54,309 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,070 |
+| 2026-11-23 | 1,072 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,8 @@ _Updated 2026-11-23 07:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:45 | **WhinyBuny**: Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×4, Mrs. Whiskerpips (N) | **liza_moreloll**: Strawberry Shortcake Bat Dragon (FR) |
+| 07:45 | **moral608**: Arctic Reindeer (FR), Kangaroo (FR), Naga Dragon (FR) | **camiilita_7w7**: Strawberry Shortcake Bat Dragon (R), Turtle (FR), Ride-A-Pet Potion ×2 |
 | 07:36 | **ihyMellyy**: Leopard Shark (NR), Rhino (R) | **AvaNari2010**: Ice Cream Cone Hat |
 | 07:36 | **xXAestheticxSkyX**: Frost Dragon (FR) | **edwi1x**: Cow (MFR) |
 | 07:30 | **Seancarlosd**: Peppermint Penguin (FR), Goose (FR) | **Jjjba_4**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion |
@@ -51,8 +53,6 @@ _Updated 2026-11-23 07:41 UTC by the scrape workflow._
 | 07:30 | **Red_Spider228**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **iiLxy_MoonStxr**: Copycat (R) |
 | 07:25 | **SANANELANISMIMDEN_LA**: Ride-A-Pet Potion | **RIANAAAAA_293ue**:  |
 | 07:25 | **Reset26566741**: Turtle (FR), Kangaroo (R) | **beyondmygrasp**: Mini Pig (FR) |
-| 07:25 | **7H3ST**: Fly-A-Pet Potion ×4 | **neggeo_12**: Sugar Axolotl |
-| 07:25 | **7H3ST**: Fly-A-Pet Potion ×4 | **neggeo_12**: Sugar Axolotl |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
