@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 16:25 UTC by the scrape workflow._
+_Updated 2026-11-23 16:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 16:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 40,362 | 2026-11-23T16:15 |
-| elve | 13 | 8,622 | 2026-11-23T16:15 |
+| amvgg | 13 | 40,596 | 2026-11-23T16:30 |
+| elve | 13 | 8,674 | 2026-11-23T16:31 |
 
-## AMVGG completed trades: 55,918 total
+## AMVGG completed trades: 55,932 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,681 |
+| 2026-11-23 | 2,695 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 16:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 16:30 | **ll_90dfhj**: Fly-A-Pet Potion ×2, Huntsman Robin ×4 | **Koshechkina102**: Ride-A-Pet Potion ×4 |
+| 16:30 | **Lozi_loz**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2 | **DragonjJDusta107130**: Elephant (FR) |
+| 16:30 | **xxManreetxxplayz**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Alliexxzc**: Skele-Rex (NFR) |
+| 16:30 | **xiparo**: Pain au Chat ×6 | **viviinlovewithcats**: Fly-A-Pet Potion |
+| 16:30 | **KinaToons**: Shadow Dragon (FR), Goat (MFR) | **Lurxell**: African Wild Dog (NFR), Parrot (FR), Goose (FR) |
+| 16:30 | **cassforlife8**: Jellyfish (R), Moose Calf (N), Ride-A-Pet Potion, Fly-A-Pet Potion | **EricCasper**: Nessie (NFR) |
+| 16:30 | **abcdefghijkl_6701**: Sugar Glider (R), Toaster Hat | **TMDung20**: Cabbit (R), Aviator Hat, Spring Bunny Hood, Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 16:30 | **MariPolykar**: Ride-A-Pet Potion | **liza8498**: Unfortunate Eyelashes ×2 |
+| 16:30 | **Cinzsins**: Aurora Fox (MFR), Arctic Dusk Dragon (MFR), Ice Cream Cone Hat | **marsel_bananov**: Werewolf (MFR) |
+| 16:30 | **Unicorns4life20000**: Dalmatian, Ride-A-Pet Potion | **anutik_awesome**: Halloween Evil Dachshund (MFR), Kangaroo (FR), Kangaroo (R), Slime (MFR), Pink Cat, Spring Bunny Hood |
+| 16:30 | **lolcryabtit6767**: Queen Bee Slippers | **whiplashtempo0**: Strawberry Shortcake Bat Dragon (FR) |
+| 16:30 | **cutesyxkai**: Puffin (MFR), Goat (MFR), Munchkin Cat (M), Strawberry Shortcake Bat Dragon (FR) | **iratcowews**: Mini Pig (MFR) |
+| 16:30 | **tearia_03**: Cryptid (NFR) ×2, Rainbow Maker ×2, Halo ×2, Angel Wings ×2, Unicorn Horn ×2, Rain Cloud Hat ×2, 2022 Birthday Party Horn ×2, 2022 Birthday Cupcake Shoes | **1vkx3**: Cryptid (MFR) |
+| 16:30 | **unicornio120957**: Ride-A-Pet Potion, Mrs. Whiskerpips | **CyricccxALT**: Crystal Egg ×18 |
 | 16:25 | **GrumpDummy**: Strawberry Shortcake Bat Dragon (FR) ×4 | **maybetryitlater**: Frost Dragon (FR) |
-| 16:25 | **Evelina22super**: Copycat | **roronoazoro1gg**: Fly-A-Pet Potion ×3 |
-| 16:25 | **draike_tzu8262**: Black Rhino ×3 | **tokiyeuo**: Retired Egg ×6 |
-| 16:25 | **akeks_74**: Red Squirrel (MR), Cake Friend (M), Koala (MFR), Ice Cream Hermit Crab (NR), Puffer Fish (N), Axolotl (NFR), Aussie Egg, Owlbear (R), Green Amazon (MR), Persian Cat (M), Thunderfisher (MR), Majestic Pony (NFR) | **lelesayuru**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:25 | **draike_tzu8262**: Ghost Wolf | **Sianacooll**: Retired Egg ×9 |
-| 16:25 | **traashaq**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **D_o0x5**: Moonbeam Peacock (FR) |
-| 16:25 | **Dilara_67826**: Pain au Chat ×6 | **vilewhip**: Fly-A-Pet Potion |
-| 16:25 | **terrylonsoyjerry**: Ghost Bunny (NR), Christmas Pudding Pup, Tiny Wings, Alley Cat | **ni1zuua**: 2022 Birthday Cake |
-| 16:25 | **luvmi1w0k**: Ride-A-Pet Potion | **st4rinthesky_sayhi**: Gargoyle |
-| 16:25 | **clarisse_tubeuse**: Fly-A-Pet Potion, Pain au Chat | **XxXlusebaXxXUwU**: Frostbite Cub (N) |
-| 16:25 | **mymylamoo1**: Space Fleet House | **dghhh45900**: Fly-A-Pet Potion |
-| 16:25 | **SmallestMascot**: Evil Unicorn (NFR), Crow (FR) | **Eejdnsnsnnswbss**: Crow (NFR) |
-| 16:25 | **Alice_Fpe2567**: Albino Monkey (NFR) | **calampianojames**: Elephant (NFR) |
-| 16:25 | **Lumina20265**: Ride-A-Pet Potion | **y_nfromua**: Ghost Bunny |
-| 16:25 | **zephyrgoatt**: Ride-A-Pet Potion | **yanahaltacc1**: Stray Cat Dragon ×9 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
