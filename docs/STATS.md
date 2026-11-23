@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 04:55 UTC by the scrape workflow._
+_Updated 2026-11-23 05:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 04:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 29,698 | 2026-11-23T04:45 |
-| elve | 13 | 6,356 | 2026-11-23T04:46 |
+| amvgg | 13 | 29,926 | 2026-11-23T05:00 |
+| elve | 13 | 6,398 | 2026-11-23T05:01 |
 
-## AMVGG completed trades: 54,002 total
+## AMVGG completed trades: 54,013 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 765 |
+| 2026-11-23 | 776 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 04:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:00 | **teetehejej**: Fly-A-Pet Potion, Ride-A-Pet Potion | **valentina_nic90**: Biodome Home |
+| 05:00 | **cazzy123abc**: Nessie (MFR) | **ifiwasadragon**: Halo, Unicorn Horn, Crocodile, Lion, Shiver Wolf (MFR), Haetyphoon, Tiny Wings |
+| 05:00 | **xXCloudyXxFloralXx**: Strawberry Shortcake Bat Dragon (NFR) | **AbbyIzCoOl1**: Balloon Unicorn (FR), Fly-A-Pet Potion, Spring Bunny Hood |
+| 05:00 | **priencesQwinn**: Haetyphoon, Ride-A-Pet Potion | **Boiledfoott**: Chinese Lantern |
+| 05:00 | **fenekitfixismymain**: Unicorn Horn, Fly-A-Pet Potion, Pink Betta Fish | **myd666vil**: Harp Seal (M) |
+| 05:00 | **Yakkuji**: Crocodile (R), Llama | **myd666vil**: Caterpillar, Fly-A-Pet Potion |
+| 05:00 | **manicpupdoll**: Cryptid (MFR) | **adoptmegolden93**: Bat Dragon (FR) |
+| 05:00 | **DefinitelyNotCha6**: Modern Mansion | **LillyC00kiess**: Ride-A-Pet Potion |
+| 05:00 | **OPEX_OPESHIK1**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×3 | **AsmioTakeW**: Flamingo (R) |
+| 05:00 | **Robloxiana_xxx2011**: Kage Crow (MR) | **AndresPatato**: Ride-A-Pet Potion ×4 |
+| 05:00 | **Omar2002548**: Werewolf (R) | **ShadepyHyper2199043**: Velocirooster, Phantom Dragon, Arctic Dusk Dragon, Lava Dragon ×2 |
 | 04:51 | **kyovd1r**: Tio De Nadal (R), Cerberus (NR), Dragonfruit Fox | **mawifa123**: Turtle (FR) |
 | 04:51 | **Frs_88xx**: Ride-A-Pet Potion, Malaysian Tapir | **devansayank**: Magpie (MFR) |
 | 04:51 | **Frs_88xx**: Ride-A-Pet Potion ×2 | **devansayank**: Kitty Bat (NR) |
 | 04:51 | **dashe4kavbb**: Guardian Lion (FR) | **staceyschafer**: Spring Bunny Feet |
-| 04:51 | **jam0khurt**: Ride-A-Pet Potion ×5, Pet Handler Pro Certificate | **Juliancar62**: Giant Anteater |
-| 04:51 | **Inganta07**: Ride-A-Pet Potion | **wjredmind**: Rhino |
-| 04:51 | **knorwiq**: Pig (FR) | **RlNSCUTE**: Chihuahua (MFR) |
-| 04:51 | **helpthepoorBaconmanx**: Arctic Reindeer (FR) | **Santywut1**: Fallow Deer (MFR) |
-| 04:51 | **Frs_88xx**: Ride-A-Pet Potion, Basic Egg | **devansayank**: Onza (MR) |
-| 04:51 | **izzyxrblx00**: Strawberry Shortcake Bat Dragon (MFR), Rainbow Maker, Werewolf (NFR), 2022 Birthday Party Hat, 2022 Birthday Cake, Unicorn Horn ×2, 2022 Birthday Cupcake Shoes, Rain Cloud Hat, 2022 Birthday Confetti Cannon, 2022 Birthday Party Horn, Toaster Hat, Munchkin Cat, Spring Bunny Hood, Siamese Cat (MFR), Arctic Dusk Dragon (NFR) | **adoptmegolden93**: Cryptid (MFR) |
-| 04:51 | **LEODAGOATT710**: Golden Jaguar (MFR), Ermine (M) | **adoptmegolden93**: Crocodile (FR) |
-| 04:51 | **angelphyzea12**: Crystal Egg ×4 | **Night_starBoM**: Starfish (N) |
-| 04:51 | **devansayank**: Ancient Dragon (NFR) | **Frs_88xx**: Ride-A-Pet Potion |
-| 04:45 | **carlitosuwuagua**: Dalmatian (FR), 2022 Birthday Party Horn | **caycay_3800**: Cow (FR) ×3 |
-| 04:45 | **ccdbgt1**: Fly-A-Pet Potion | **baby_bloomz**: Scarebear |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
