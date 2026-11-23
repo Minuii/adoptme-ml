@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 00:16 UTC by the scrape workflow._
+_Updated 2026-11-23 00:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 00:16 UTC by the scrape workflow._
 | amvgg | 13 | 25,101 | 2026-11-23T00:15 |
 | elve | 13 | 5,557 | 2026-11-23T00:15 |
 
-## AMVGG completed trades: 53,319 total
+## AMVGG completed trades: 53,348 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 82 |
+| 2026-11-23 | 111 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 00:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:15 | **Banana_peanut67**: Ermine (M), Jester Dragon, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Kety222222222**: Pig (FR) |
-| 00:15 | **AngIefromhellalt**: Pink Cat (FR), Zombie Wolf (N), Halloween White Ghost Dragon (R), Reindeer (N), Albino Bat (NFR), Burger Bear (N), Wolf (N), Halloween White Skeleton Dog (N), Chicken, Hermit Crab Box ×2, Wolf Box, Walrus Box, Emu (N), Zombie Chick (N) | **Reterirbair1989**: Cow (FR) |
-| 00:15 | **just_vailan4**: Sakura Spirit (FR), Jester Dragon (FR), Pupcicle (NR) | **luxsdomain**: 2022 Birthday Party Horn, Spring Bunny Feet |
-| 00:15 | **Kayorilate**: Tiny Wings, Pig (FR), Jellyfish, Zombie Buffalo (R) | **Reterirbair1989**: Cow (FR) |
-| 00:15 | **Altacct3_3**: Alpaca (NFR), Unicorn Horn, Spring Bunny Hood, Fly-A-Pet Potion | **nilajlolxd**: Cabbit (NFR), Mini Pig |
-| 00:15 | **tsitp_secret**: Pumpkin Friend (N), Badger (M) | **Bumble_Lou**: Pain au Chat ×4, Chihuahua ×2 |
-| 00:15 | **d1g1talcats**: Cryptid (NFR) | **Ashkey094**: Frost Unicorn (MFR) |
-| 00:15 | **Mx1shu**: Evil Unicorn (FR), Fly-A-Pet Potion ×3 | **AngIefromhellalt**: Arctic Reindeer (FR), Cow (FR) |
-| 00:15 | **LzIyz**: Elasmosaurus (N) | **CrystalSkellie**: Ride-A-Pet Potion |
-| 00:15 | **niivce**: Lion Cub, Fly-A-Pet Potion | **Vani_vqn**: Haetyphoon |
-| 00:15 | **sassy_queen123470**: Giraffe (FR), Owl (FR) ×2, Parrot (FR) ×2, Balloon Unicorn (FR) ×2, Cryptid (NFR), Cryptid, Diamond Butterfly (FR), Cabbit (R) ×2, Sugar Glider (FR) ×2, Siamese Cat (FR) ×2 | **Berryavenueslag**: Bat Dragon (NFR) |
-| 00:15 | **cxXxgisellexX**: Alpaca (MFR), Moon Rabbit (MFR), Pink Cat (MFR), Field Mouse (MFR), Owlbear (MFR), Cow (NFR), Candicorn (NFR), Mule (MFR), Burger Bear (MR), Eggnog Dog (MFR), Candy Hare (NFR), Tanuki (MFR), Unicorn Horn | **cheekysnail329**: Bat Dragon (FR) |
-| 00:15 | **qbhd_zoo**: Ice Cream Heels | **Sleepy_Aishe**: Ghost Kitty Backpack |
-| 00:15 | **blake_shortie**: Hot Doggo (FR), Pink Cat | **rinconbrandon2012**: Mini Pig (FR) |
-| 00:15 | **JAJAJAN9199**: Jester Dragon (FR), French Bulldog (NR), Pancake Stack, Chameleon (N) | **yRafah_Bloxinha**: Crocodile (FR) |
+| 00:25 | **hearts4evan**: Frost Dragon (FR) | **Ernozil**: Bush Elephant (MFR), Alpaca (R), Spring Bunny Hood |
+| 00:25 | **skyeeeeeeeee_999**: Fairy Bat Dragon (NFR), Ride-A-Pet Potion | **eydgdtdfsg**: Cabbit (NFR) |
+| 00:25 | **DuckyMuffinz**: 2x Bucks Potion | **pinkkittymiaumiau**: Admin Abuse Egg ×12 |
+| 00:25 | **aveilqaa**: Royal Palace Spaniel (MFR) | **basicgenn**: Ride-A-Pet Potion ×9 |
+| 00:25 | **SvinaATvar67**: Hedgehog (FR) | **mankaccmiraevb13**: Cow (NFR), Turtle (FR), Shark Puppy (R), Ride-A-Pet Potion ×2 |
+| 00:25 | **dmxdmoi**: Crocodile (FR), Shark Puppy (FR) | **Imrahmirthegreat9**: Turtle (FR) |
+| 00:25 | **UltraSwiftbunnyboyTV**: Strawberry Shortcake Bat Dragon (FR), Frostbite Bear (R), Kangaroo (FR) | **cxbvnniz**: Cryptid (FR) |
+| 00:25 | **cxbvnniz**: Munchkin Cat (MFR), Spring Bunny Hood, Strawberry Shortcake Bat Dragon Backpack ×2 | **Jdjdiejdjwidjdm**: Cryptid (FR) |
+| 00:25 | **Vixinnty**: Cow (R) | **Bex0100**: Christmas Pudding Pup (NR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 |
+| 00:25 | **no_anniaomg**: Cow (FR), Sea Slug (FR) | **sweetn6thing**: Mini Pig |
+| 00:25 | **luvyerh**: Pig, Capybara | **allqonexa**: Pig (R) |
+| 00:25 | **DuckyMuffinz**: 2x Bucks Potion | **playerbunbready**: Admin Abuse Egg ×12 |
+| 00:25 | **bubble_lolx**: Purrowl (N) | **nimalina463**: Snowball Pug |
+| 00:25 | **Gr3vess**: Werewolf (R), Chocolate Dutch Guinea Pig (N) | **M4kCh3z**: Mermicorn (FR) |
+| 00:25 | **chapa4ka579**: Glyptodon ×8 | **Kxxr9**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
