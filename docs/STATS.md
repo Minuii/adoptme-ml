@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 03:11 UTC by the scrape workflow._
+_Updated 2026-11-23 03:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 03:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 28,025 | 2026-11-23T03:00 |
-| elve | 13 | 6,067 | 2026-11-23T03:01 |
+| amvgg | 13 | 28,248 | 2026-11-23T03:15 |
+| elve | 13 | 6,090 | 2026-11-23T03:15 |
 
-## AMVGG completed trades: 53,758 total
+## AMVGG completed trades: 53,765 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 521 |
+| 2026-11-23 | 528 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,13 @@ _Updated 2026-11-23 03:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:15 | **Idkk_0426**: Hedgehog (FR), Kangaroo (FR) | **jam_es12348**: Haetae (FR) |
+| 03:15 | **I1ous**: Tortoiseshell Guinea Pig ×2, Pet Handler Pro Certificate | **Luna_SanUwuUvu**: Munchkin Cat (N) |
+| 03:15 | **splashJuggernaut**: Fly-A-Pet Potion ×6 | **Deamh_1**: Pupcicle (M) |
+| 03:15 | **aloiv484**: Fly-A-Pet Potion ×3 | **Irislikesyoufr**: Candy Hare (R), Harp Seal ×2, Cake Friend |
+| 03:15 | **aloiv484**: Fly-A-Pet Potion | **123luna958**: Candy Hare |
+| 03:15 | **ydoch1213**: Mexican Wolf (N), Pupcicle ×2, Momma Moose (N), Chihuahua | **inyiuhf**: Mochi Meow (M) |
+| 03:15 | **Ashtonlollol1234**: Alley Cat (MFR), Puffer Fish (MFR), Black Springer Spaniel (MFR), Ibex (MFR), Alley Cat ×2, Ride-A-Pet Potion | **fluffyunicorns_932**: Hare (MFR), S'mores Raccoon (MFR), Mini Schnauzer (MFR) |
 | 03:11 | **ya_slay5**: Spring Bunny Hood, Spring Bunny Feet | **fwthaclout**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
 | 03:11 | **OflineGirlx**: Pupcicle | **mspizzaloverr**: Alicorn (NR) |
 | 03:11 | **leftmyhoodie**: Goose (NFR), Turtle (NFR), Elephant (FR), Elephant (R), Unicorn (MFR) | **pedrobeteir0**: Ice Cream Hermit Crab (MFR), Christmas Pudding Pup (MFR), Gaelic Fae (MFR), Ride-A-Pet Potion |
@@ -46,13 +53,6 @@ _Updated 2026-11-23 03:11 UTC by the scrape workflow._
 | 03:11 | **Willowstorm_WaCa**: Unfortunate Eyelashes | **IidoxxiniI**: Chihuahua |
 | 03:11 | **R_yutaa**: Kangaroo (R) | **HUGONITEYT99999**: Candicorn (R) |
 | 03:11 | **AngelKattyOwO**: Chocolate Chip Bat Dragon (FR) | **TANSKlN**: Tortoiseshell Guinea Pig (NFR) |
-| 03:11 | **Rosiebomb7272**: Rain Cloud Hat, Bat (M), Pupcake (N), Sandwich Hat, Boohoo (M) | **SavannahPlayz_D4**: Unicorn Horn |
-| 03:11 | **qwerk2222**: Harp Seal (NR) | **Rosiebomb7272**: Lion Cub (FR) |
-| 03:11 | **avokado78o**: Turtle (R), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×3 | **unicornfartzlolzz**: Kangaroo (NFR) |
-| 03:11 | **Itx_Cloudyy**: Flaming Fox (N) | **Rosiebomb7272**: Stray Cat Dragon (MR) |
-| 03:11 | **xGothiycx**: Moon Rabbit ×3, Water Rabbit | **iiShxrty_Bxerry**: Pupcicle ×4 |
-| 03:11 | **cesarx_o**: Turtle (FR), Spring Bunny Nose, Ride-A-Pet Potion ×11, Blue Cat Ear Headphones | **Z_Alexis22**: Mini Pig (FR) |
-| 03:11 | **xXrainbow4lifeXxx**: Ride-A-Pet Potion ×16 | **Z_Alexis22**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
