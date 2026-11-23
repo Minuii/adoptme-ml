@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 08:01 UTC by the scrape workflow._
+_Updated 2026-11-23 08:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 08:01 UTC by the scrape workflow._
 | amvgg | 13 | 32,655 | 2026-11-23T08:00 |
 | elve | 13 | 6,883 | 2026-11-23T08:01 |
 
-## AMVGG completed trades: 54,361 total
+## AMVGG completed trades: 54,379 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,124 |
+| 2026-11-23 | 1,142 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 08:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:55 | **anihao17**: Berry Cool Cube (MFR) | **basicgenn**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
-| 07:55 | **xiparo**: Pain au Chat ×3 | **Zombie_8803**: Ride-A-Pet Potion |
-| 07:55 | **xisaa_sr**: Red Panda (M), Shiba Inu (M), Bunny (M) | **XisokoGame**: Fly-A-Pet Potion |
-| 07:55 | **rb_feel**: Angus Cow (M), Wren (M), Lunar Moon Bear (N) | **DrinklngMilk**: Ride-A-Pet Potion ×3 |
-| 07:55 | **TYTkuza2**: Kangaroo (FR) | **NotSweatyOnion**: Ride-A-Pet Potion ×17 |
-| 07:55 | **Navilolp**: Scarecrow Crow (N) | **Snow_Girl123678**: Fly-A-Pet Potion |
-| 07:55 | **ZeroNoBlight**: Tiny Wings, Butter Knife, Strawberry Shortcake Bow | **Xxxpandaxxxplayz**: Cozy Cabin |
-| 07:55 | **villatoro_17**: Vanilla Penguin (R) | **afissamuzfirah**: Ride-A-Pet Potion |
-| 07:55 | **Ira_20086**: Ride-A-Pet Potion | **lollipopleah7861**: Mochi Meow ×6 |
-| 07:55 | **Vitamirka**: Chihuahua ×3 | **aveilqaa**: Ride-A-Pet Potion |
-| 07:55 | **Melaniemartinezst42**: Chihuahua ×4, Retired Egg ×5 | **PATY_BLOY**: Fly-A-Pet Potion |
-| 07:51 | **ksuwexi12**: Sushi Penguin, Zebra (N) | **Jamego_NotFake**: Ride-A-Pet Potion |
-| 07:51 | **LyraFusion**: Kangaroo (FR), Fly-A-Pet Potion | **kadashoc**: Unicorn Horn |
-| 07:51 | **sacredwarp**: Kappakid, Zombie Wolf (R), Ride-A-Pet Potion ×4 | **estrella_gamer132**: Harp Seal (NR) |
-| 07:51 | **ccdbgt1**: Fly-A-Pet Potion | **Abietis**: Tree Kangaroo |
+| 08:11 | **Afk123_lol**: Black Tiger (M) | **Flowericia77**: Gecko |
+| 08:11 | **Kenia_pgg1**: Alpaca (FR), Hot Doggo (FR), Unicorn Horn, Border Collie (F) | **Just_Kerri4nnnnn**: Alpaca (NFR) |
+| 08:11 | **KotMonster7**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **twixxiss1**: Cow (FR) |
+| 08:11 | **anekalubitnaruto**: Fly-A-Pet Potion ×3 | **xiparo**: Pain au Chat ×17 |
+| 08:11 | **L0VEM3SSAGE**: Ride-A-Pet Potion | **loiol1004**: Hamster (N), Sabertooth, Water Moon Bear |
+| 08:11 | **sufferingtogether**: Crimson Cape, Pangolin, Red Panda ×2, Shiba Inu ×3, Starfish, Swordfish, Toucan, Orangutan ×3, Parakeet, Granny Wolf, Clumpty, Chocolate Labrador ×2 | **eyebagsq**: Burger Bear |
+| 08:11 | **xiparo**: Pain au Chat ×14 | **MochiMilki_yt**: Copycat |
+| 08:11 | **xiparo**: Pain au Chat ×12 | **coffeelovrdiego**: Jester Dragon |
+| 08:11 | **Inganta07**: Fly-A-Pet Potion ×3 | **hiwhat043**: Santa Hat |
+| 08:11 | **mochiloV7**: Peahen, Golden Hamster, Pain au Chat, Pupcake | **Leviodas**: Latte Kitsune |
+| 08:11 | **angelphyzea12**: Ride-A-Pet Potion | **Zombie_8803**: Nurse Shark (M), Sneak Weasel (M) |
+| 08:06 | **z1_u1**: Balloon Unicorn (FR), Owl | **Ryze_kd**: Chocolate Chip Bat Dragon (NFR) ×2, Unicorn Horn |
+| 08:06 | **mdmdnkevsjsvaj**: Zodiac Minion Chick (N) | **Snow_Girl123678**: Ride-A-Pet Potion |
+| 08:06 | **urannoyingkids**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **xiparo**: Pain au Chat ×18 |
+| 08:06 | **muniradypa**: Pain au Chat ×6 | **missmeowsalottle**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
