@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 00:46 UTC by the scrape workflow._
+_Updated 2026-11-23 00:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 00:46 UTC by the scrape workflow._
 | amvgg | 13 | 25,666 | 2026-11-23T00:45 |
 | elve | 13 | 5,644 | 2026-11-23T00:46 |
 
-## AMVGG completed trades: 53,401 total
+## AMVGG completed trades: 53,432 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 164 |
+| 2026-11-23 | 195 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 00:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:45 | **nighttrvedsss**: Shark Puppy (FR), Tuxedo Cat, Hippogriff, Happy Duckling (M) | **TocaSummerplayz**: Candicorn (FR) |
-| 00:45 | **iconicdollist**: Balloon Unicorn (MFR), Strawberry Shortcake Bat Dragon (FR), Ballet Swan (MFR), Hare (MFR), Rain Cloud Hat | **kdkejwjsjd**: Bat Dragon (NFR) |
-| 00:45 | **Sofiesyie**: Tombstone Ghostify | **king_93071**: Husky (MFR) |
-| 00:45 | **lacandon1235**: Hot Doggo (R), Christmas Pudding Pup (R), Shark Puppy (R) | **abdoosaad**: Dango Penguins (MFR) |
-| 00:45 | **mia67673**: Arctic Reindeer (FR), Peppermint Penguin (FR), Alpaca (R), Polar Bear (NFR) | **Oro29194**: African Wild Dog (FR), Munchkin Cat |
-| 00:45 | **cxbvnniz**: Head Chef, Strawberry Shortcake Bat Dragon (FR) | **Robert_mila**: Arctic Reindeer (FR) |
-| 00:45 | **gorevqx**: Goose | **iuvzjules**: Candy Hare (MFR) |
-| 00:45 | **fartbag89900**: African Wild Dog (FR), Spring Bunny Hood | **meliailen8**: Arctic Reindeer (NFR) |
-| 00:45 | **TMDung20**: Evil Unicorn, French Bulldog (MR), Unicorn (MFR) | **mamadmasa010**: African Wild Dog (FR) |
-| 00:45 | **basicgenn**: Ride-A-Pet Potion | **Elis_thxx**: Little Lamb (M) |
-| 00:45 | **obvicarsonxo**: Dalmatian (FR) | **Kayorilate**: Hare (MFR), Cow (FR) |
-| 00:45 | **kakalikays**: Giraffe (MFR) | **ZOliverTurboz**: Bat Dragon (FR), Shadow Dragon (FR), Giraffe (FR), Frost Dragon (FR), Owl (FR), Crow (FR) |
-| 00:45 | **Unicornfav_animal**: Owl (FR), Ride-A-Pet Potion | **GL0Rl0**: Owl |
-| 00:45 | **Kirill123Valiev**: Guardian Lion (R) | **D3ATH5521**: Ride-A-Pet Potion |
-| 00:45 | **Angusip03299**: Munchkin Cat (MFR) | **diantybwni**: Cabbit (NFR), Copycat, Ride-A-Pet Potion |
+| 00:55 | **XxSorvetyxX**: Turtle (FR), Ride-A-Pet Potion, Pig (R) | **meowieboogie**: Cow (FR) |
+| 00:55 | **c0mpoo**: Turtle (FR), Alpaca (FR), Siamese Cat, Fly-A-Pet Potion, Ride-A-Pet Potion | **YesqueenUwO**: Arctic Reindeer (FR) |
+| 00:55 | **SlayAllDay22881**: Gummy Guana | **Shy_G0n9**: Jacobin Pigeon |
+| 00:55 | **EriOnSuMa**: Pet Handler Pro Certificate | **JxsYBe**: Fly-A-Pet Potion |
+| 00:55 | **wjredmind**: Jellyfish (R), Aestus, Jimothy | **arturo7pose12345**: Baku ×4, Cobra (R), Cobra (F), Hawk ×2, T-Rex (R), Octopus, Guardian Lion (R), Golden King Penguin (R), Shark (R), Goldhorn, Ride-A-Pet Potion |
+| 00:55 | **adoptmetradeacc7**: Strawberry Tortle, Pupcicle (M), Copycat | **bhjrjei**: Shark Puppy (NFR) |
+| 00:55 | **Doro4ka0015**: Rotating Periscope ×3, Science Hat ×2, Grinder Hat | **KJCT654300**: Chocolate Chip Bat Dragon Backpack |
+| 00:55 | **Linwtx**: Harp Seal (MR), Ice Cream Hermit Crab | **ccs_42**: Lion Cub (N) |
+| 00:55 | **ghostqsinz**: Christmas Pudding Pup (R) | **ophyns**: Arctic Dusk Dragon (FR) |
+| 00:55 | **reserbadong2**: Strawberry Shortcake Bat Dragon (FR) ×2 | **mm2onlytrading**: Amethyst Penguin, Candicorn, Christmas Pudding Pup (R) |
+| 00:55 | **1qwerty6709**: Candicorn, Fly-A-Pet Potion | **n016839**: Fallow Deer (NFR) |
+| 00:55 | **rastafarismo10**: Hedgehog | **GalaxyCat_X5**: Strawberry Shortcake Bat Dragon (FR), Mini Pig (FR), Ride-A-Pet Potion |
+| 00:55 | **rastafarismo10**: Strawberry Shortcake Bat Dragon (FR), Candicorn (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **jArYnAa**: Dalmatian (FR) |
+| 00:55 | **MM_Cloud**: Crystal Egg ×15 | **lacandon1235**: Ride-A-Pet Potion |
+| 00:55 | **Babycook378**: Peppermint Penguin (FR), Crocodile | **Bismuth234**: Mini Pig (FR), Snow Monkey |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
