@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 12:31 UTC by the scrape workflow._
+_Updated 2026-11-23 12:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 12:31 UTC by the scrape workflow._
 | amvgg | 13 | 36,821 | 2026-11-23T12:30 |
 | elve | 13 | 7,789 | 2026-11-23T12:31 |
 
-## AMVGG completed trades: 55,037 total
+## AMVGG completed trades: 55,069 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,800 |
+| 2026-11-23 | 1,832 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 12:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:30 | **myBestiVlad2380**: Fly-A-Pet Potion ×6 | **cat6queen**: Ride-A-Pet Potion ×11 |
-| 12:30 | **poke_balz**: Fly-A-Pet Potion, Rain Hat, Knitted Pumpkin Hat, Space Whale Sticker, Round Fallow Deer Sticker | **OBVM1LLS_X0**: Blue Whale (MFR) |
-| 12:30 | **lxnxlyXfrxvxr**: Crystal Egg ×17 | **lzxsre**: Ride-A-Pet Potion |
-| 12:30 | **TYTkuza2**: Kangaroo (FR) | **Finek357**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×6 |
-| 12:30 | **xxxXJ001**: Haetyphoon (M), Ride-A-Pet Potion | **ADOPTME_tr4dingAlt**: Goose (FR), Munchkin Cat (MR), Unicorn Horn, Pupcicle (N) |
-| 12:30 | **abdoosaad**: Chocolate Chip Bat Dragon (FR) | **miao2611**: Fairy Bat Dragon (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion ×4, Husky, Ice Cream Hermit Crab |
-| 12:30 | **fayeandwho**: Mini Pig (FR), Ring-Tailed Lemur | **Taratafud**: Goose (R), Munchkin Cat |
-| 12:30 | **cutiearynz11**: Cow (FR), Goose | **Nastya_Mihalyk**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:30 | **probably_ems**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4, Copter Hat, Chef Hat, Eco Brown Earth-Wizard Hat, Cotton Candy Hat, Halloween White Skull Hat, Rain Hat, Strawberry Shortcake Bow ×2, Strawberry Clip, Butter Knife | **kiff_shik**: Seagull Yell Animated Sticker |
-| 12:30 | **carterdelaney1**: Yeti (MFR), Lava Wolf (MFR), Peahen (M) | **OlaPL5432151**: Giant Anteater (NFR), Rain Cloud Hat, Unicorn Horn |
-| 12:30 | **starswirl_64**: Glyptodon ×4 | **ki_ra201345**: Ride-A-Pet Potion |
-| 12:30 | **1Biahsz_altx**: Ride-A-Pet Potion | **choco_bamowo**: Angus Cow (M) |
-| 12:30 | **adoptmesuchti1707**: Ride-A-Pet Potion | **lxnxlyXfrxvxr**: Crystal Egg ×18 |
-| 12:30 | **MrsJane07**: Crocodile (FR), Ride-A-Pet Potion ×2 | **x6qwr**: Elephant (FR) |
-| 12:30 | **nfrmikey1**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **amyzondelivery**: Cow (FR) ×2 |
+| 12:41 | **DefinitelyNotCha6**: Catapult Stroller ×2, Swan Stroller, Triple Stroller ×5, Crate Stroller ×6, Dog House Stroller, Froggy Stroller ×2, Hatched Egg Stroller | **popkor844**: Fly-A-Pet Potion |
+| 12:41 | **clalouetciedh**: Alicorn ×13 | **kkaatEEe2**: Ride-A-Pet Potion |
+| 12:41 | **robloxer_3614**: Propeller Hat | **Agyra11**: Elf Hat, Pupcicle, Burger Bun Hat |
+| 12:41 | **oxvivv**: Flamingo (FR), Mochi Meow Tumble Animated Sticker | **robloxer_3614**: Arctic Dusk Dragon (NFR) |
+| 12:41 | **WhinyBuny**: Frost Dragon (FR), Fly-A-Pet Potion ×2, Icey Aura | **arilhack1**: Strawberry Shortcake Bat Dragon (FR), Owl (FR) |
+| 12:41 | **0Neizvestnost0**: Cabbit (FR) | **isle_123123**: Fairy Bat Dragon (FR), Ride-A-Pet Potion |
+| 12:41 | **TMDung20**: Candicorn (R), Candicorn ×3 | **bl0xby**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:41 | **meropq1**: Ride-A-Pet Potion ×4 | **KoshkkaFurry**: Fly-A-Pet Potion, Pet Handler Pro Certificate |
+| 12:41 | **puuuurrrraaawww**: Fly-A-Pet Potion ×2 | **CyricccxALT**: Pet Handler Pro Certificate ×2 |
+| 12:41 | **leidydamelike**: Hedgehog (FR) | **amyzondelivery**: Chocolate Chip Bat Dragon (FR), Goose (FR), Goldfish (MFR), Sushi Penguin ×2 |
+| 12:41 | **ariesdesire**: Cabbit (MFR) | **olddeathcore**: Emperor Gorilla (MFR), Pirate Ghost Capuchin Monkey (MFR) |
+| 12:41 | **krashka_5670**: Crocodile (FR), Arctic Dusk Dragon (R) | **eshkere_BPOOOO**: Kangaroo (FR) |
+| 12:41 | **bq1r_35**: Lion Cub (NFR) | **Trop1cxlMe1on**: Ice Cream Cone Hat, Fly-A-Pet Potion ×6, Pet Handler Pro Certificate, Ride-A-Pet Potion ×6, Glormy Hound |
+| 12:41 | **Patata_Pataki**: Candyfloss Chick (FR), Werewolf (R), Border Collie, Lion Cub (FR), Owlbear, Munchkin Cat (R), Goose (FR), Peppermint Penguin, Leopard Cat (M), Ghost Dog | **cutebwunnygirl**: Giant Panda (FR) |
+| 12:41 | **wak33_upp**: Giraffe (FR), Banana Hat | **mouwrae**: Parrot (NFR), Arctic Fox (NFR), Unicorn Horn ×2 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
