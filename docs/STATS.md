@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 12:55 UTC by the scrape workflow._
+_Updated 2026-11-23 13:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 12:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 37,071 | 2026-11-23T12:45 |
-| elve | 13 | 7,849 | 2026-11-23T12:46 |
+| amvgg | 13 | 37,313 | 2026-11-23T13:00 |
+| elve | 13 | 7,903 | 2026-11-23T13:01 |
 
-## AMVGG completed trades: 55,120 total
+## AMVGG completed trades: 55,124 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,883 |
+| 2026-11-23 | 1,887 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,10 @@ _Updated 2026-11-23 12:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 13:00 | **yudaswoiew**: Ride-A-Pet Potion ×2 | **Kir4kaa**: Skelicorn ×10 |
+| 13:00 | **Fruit_Kittie**: Ride-A-Pet Potion | **JpinkyJ**: Bunny Swirl |
+| 13:00 | **Teach_baby**: Elephant (R), Ginger Cat (N), Chanekeh (N) | **fchdhfjggch**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×3 |
+| 13:00 | **aloiv484**: Fly-A-Pet Potion ×2 | **Kvammletitraketa**: Harp Seal, Cake Friend, Binturong, German Shepherd |
 | 12:55 | **16y97**: Pet Handler Pro Certificate, Purrowl | **chapa4ka579**: Summer Walrus ×10 |
 | 12:55 | **Panci_Terbang33**: Fly-A-Pet Potion | **tw1nkle3788**: Pupcake (N) |
 | 12:55 | **Max_game751**: Ride-A-Pet Potion ×2, Unicorn Horn, Longhorn Cow (MFR) | **obv1joowe**: Mule (MR), Fly-A-Pet Potion, Back Taco |
@@ -49,10 +53,6 @@ _Updated 2026-11-23 12:55 UTC by the scrape workflow._
 | 12:55 | **Whitemen5323**: Mrs. Whiskerpips (M) | **poortorichy28**: Fly-A-Pet Potion |
 | 12:55 | **Callme_Mary45**: Stray Cat Dragon ×11, Skelicorn ×7 | **lhfshkg**: Ride-A-Pet Potion ×2 |
 | 12:51 | **Tamara_dieloste2010**: Swan (NFR), Horse (NFR), Dango Penguins (NR), Aussie Egg, Apple Owl (N), Woolly Mammoth (NR), Wild Boar, Phoenix (N), Unicorn | **MinhLovesFurriess**: Cow (FR) |
-| 12:51 | **Cluvdi4**: Sushi Penguin | **urm4mx**: Crystal Egg ×15 |
-| 12:51 | **clarisse_tubeuse**: Spring Bunny Hood | **Yupiterd**: Ride-A-Pet Potion ×4 |
-| 12:51 | **vtoriii0**: Bat Dragon (FR), Winged Tiger (FR) | **IIzmemories**: Winged Tiger (MFR), Shadow Dragon (FR), Alley Cat (MFR) |
-| 12:51 | **Xxxxashhhh**: Goose (FR), Cow (FR) ×2, Cow, Pig (FR) | **luvyerh**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
