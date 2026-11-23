@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 05:15 UTC by the scrape workflow._
+_Updated 2026-11-23 05:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 05:15 UTC by the scrape workflow._
 | amvgg | 13 | 30,152 | 2026-11-23T05:15 |
 | elve | 13 | 6,439 | 2026-11-23T05:15 |
 
-## AMVGG completed trades: 54,066 total
+## AMVGG completed trades: 54,082 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 829 |
+| 2026-11-23 | 845 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 05:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:15 | **devansayank**: Primal Kaijunior (R), Dracula Fish (NR) | **AndresPatato**: Ride-A-Pet Potion |
-| 05:15 | **gatorade1234563**: Lamb (NFR), Lava Dragon (FR) | **jdkfj38**: Crocodile |
-| 05:15 | **micaelakdkdn**: Unicorn Horn, Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Wing Hang Glider | **KendraisaBword**: Cloud Car |
-| 05:15 | **caycay_3800**: 2022 Birthday Party Horn | **RileyforSure28**: Lion |
-| 05:15 | **MoonintheEarth_Luna**: Royal Egg ×18 | **xy_hmayy**: Crystal Egg ×9 |
-| 05:15 | **SP0NGEB0BSW3ATPANTS**: Chocolate Dutch Guinea Pig | **RitaHi15**: Boohoo (M) |
-| 05:15 | **fufutfufutrer**: Sushi Penguin | **dahoody2k3**: Ride-A-Pet Potion |
-| 05:15 | **laughlive7**: Pink Betta Fish (M) | **Irislikesyoufr**: Copycat |
-| 05:15 | **acctradeforamvgg**: Aurora Fox (MFR), Glacier Kitsune (MFR), Mini Pig (FR), Fairy Bat Dragon (NFR) | **T4CT1C4L_D1V1N3**: Giant Panda (FR) ×2 |
-| 05:15 | **iuvzjules**: Beluga Whale (M) | **XxzoeyxX553**: Ride-A-Pet Potion |
-| 05:15 | **TMDung20**: Ride-A-Pet Potion ×3 | **XxzoeyxX553**: Ballet Swan |
-| 05:15 | **BloodMenCloud**: Chihuahua ×2, Pain au Chat ×2 | **Ira_20086**: Ride-A-Pet Potion |
-| 05:15 | **Inganta07**: Ride-A-Pet Potion | **rimas77713**: Puffer Fish |
-| 05:15 | **adoptmememe68**: Dalmatian (FR), Goose (R), Turtle (FR), Homeing Rocket | **Penguu_woosh**: Balloon Unicorn (FR) |
-| 05:15 | **iiWxllowCloudz**: Strawberry Tortle (NFR), Matcha Cat, Brown Bear, Propeller Hat | **iv2yec**: Alley Cat (MFR), Mini Pig (FR), Strawberry Tortle |
+| 05:25 | **Oneran0**: Strawberry Shortcake Bat Dragon (R) | **deadpo0l293**: Chocolate Chip Bat Dragon (FR) |
+| 05:25 | **RileyforSure28**: Evil Unicorn (FR), Kangaroo (FR) ×2, 2022 Birthday Party Horn | **notiamjhom**: Crow (FR) |
+| 05:25 | **hihellohihello6788**: Musk Ox (MR) | **RileyforSure28**: Fly-A-Pet Potion ×4 |
+| 05:25 | **Doodleboodle654**: Chocolate Chip Bat Dragon (MFR) | **TANSKlN**: Giraffe (FR), Mermicorn (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 05:25 | **asmornn**: Pain au Chat ×2, Crystal Egg ×3 | **laycakees**: Ride-A-Pet Potion |
+| 05:25 | **iiSimplylvxy**: Pupcicle (R), Bee (NR) | **Kepkapkarlo_alts**: Pet Handler Pro Certificate |
+| 05:25 | **doggyxxp1**: Polar Bear (MFR), Queen Bee Slippers, Husky (NR), Chihuahua (MFR), Unicorn Backpack, Spring Bunny Hood, Pink Heart Glasses, Bready Necklace, Pain au Chat (M), Pain au Chat (N) | **adoptmegolden93**: Siamese Cat (MFR) |
+| 05:25 | **clalouetciedh**: Alicorn ×18 | **RELLdep**: Fly-A-Pet Potion |
+| 05:25 | **xaoichaanx**: English Sheepdog, Frost Fury (R), Pupcicle | **tnike1**: Silverback Gorilla (R) |
+| 05:25 | **Yorkshire_2020**: Copycat (MFR), Moose Calf (MFR), Tiny Wings | **gatorade1234563**: Haetyphoon (MFR) |
+| 05:25 | **Billyontop505**: Great Pyrenees (NFR) | **HeartsForEli_1406**: Schoolhouse Home |
+| 05:25 | **sen_kiTwT**: Fly-A-Pet Potion ×2, Arctic Dusk Dragon (NFR) | **RileyforSure28**: 2022 Birthday Cupcake Shoes |
+| 05:25 | **KinaToons**: Frost Dragon (NFR), Silly Duck (MFR), Sheeeeep (NFR), Gilded Snake (MR), Alley Cat (NR), Tiny Wings, Munchkin Cat, Fly-A-Pet Potion | **notiamjhom**: Shadow Dragon (FR) |
+| 05:25 | **Jadameigo**: Sugar Glider (FR), Sugar Glider (R), Albino Monkey (R) | **mommy_oni0623**: Strawberry Shortcake Bat Dragon (FR) |
+| 05:25 | **DefinitelyNotCha6**: Banana Car ×4, Choo Choo Train ×3, Dolphin Cruiser, Donut Cycle, Douglas, Emperor's Chariot, Hoverboard ×4, Ice Cream Truck, Monocycle, Postie Van | **luminescentchrysalis**: Fly-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
