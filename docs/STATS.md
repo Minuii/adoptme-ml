@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 02:40 UTC by the scrape workflow._
+_Updated 2026-11-23 02:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 02:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 27,524 | 2026-11-23T02:30 |
-| elve | 13 | 5,948 | 2026-11-23T02:31 |
+| amvgg | 13 | 27,776 | 2026-11-23T02:45 |
+| elve | 13 | 5,988 | 2026-11-23T02:46 |
 
-## AMVGG completed trades: 53,701 total
+## AMVGG completed trades: 53,702 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 464 |
+| 2026-11-23 | 465 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,7 @@ _Updated 2026-11-23 02:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:45 | **carterdelaney1**: Wooly Rhino (MFR) ×4, Mule (MR) | **caroesel**: Giant Anteater (MFR) |
 | 02:40 | **1MZ03Y**: Kangaroo (FR), Berry Cool Cube (M), Clover Cow (M), Deathstalker Scorpion (M), Ride-A-Pet Potion ×2 | **ii_aldrin20**: Cow (FR) |
 | 02:40 | **13kdiino**: Llama (NFR) | **Patto_Cuack**: Cheetah (N) |
 | 02:40 | **HeartsForEli_1406**: Shiba Inu (N) | **CursedWitigo**: Paint Sealer ×2 |
@@ -52,7 +53,6 @@ _Updated 2026-11-23 02:40 UTC by the scrape workflow._
 | 02:40 | **Alex_x05228**: Dragonfruit Fox (MFR) | **syperstar71**: Ice Golem (MFR) |
 | 02:40 | **Iluvmyself356**: Fairytale Egg | **797sinalei**: Sunflower Friend |
 | 02:40 | **Firefrtho12**: Balloon Unicorn (MFR) | **doggyxxp1**: Mini Pig (MFR), Goose (MFR), Cow (MFR), Dalmatian (NFR), Shark Puppy (MFR), Arctic Dusk Dragon (MFR), 2022 Birthday Party Horn, Rainbow Maker, Siamese Cat (MFR), Munchkin Cat (MFR), Buzzing Honeypot Hat, Angel Wings, Halo, 2022 Birthday Cupcake Shoes |
-| 02:40 | **killerEzekiel99**: Kangaroo (R), Chocolate Chip Bat Dragon (FR), Cabbit (FR), 2022 Birthday Party Hat, Chihuahua (N) | **rastafarismo10**: African Wild Dog (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
