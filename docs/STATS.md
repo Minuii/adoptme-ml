@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 08:31 UTC by the scrape workflow._
+_Updated 2026-11-23 08:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 08:31 UTC by the scrape workflow._
 | amvgg | 13 | 33,161 | 2026-11-23T08:30 |
 | elve | 13 | 7,019 | 2026-11-23T08:31 |
 
-## AMVGG completed trades: 54,433 total
+## AMVGG completed trades: 54,459 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,196 |
+| 2026-11-23 | 1,222 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:30 | **larisochka_gudeeva98**: Ride-A-Pet Potion ×11, Leopard Cat (MFR) | **NotSweatyOnion**: Flamingo (FR) |
-| 08:25 | **ElsaRolbox9**: Moon Rabbit | **V4ETH**: Pupcicle |
-| 08:25 | **GL0SSY4XIS**: Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR), Ride-A-Pet Potion ×2 | **ALV4RYTO**: Matcha Cat (MFR) |
-| 08:25 | **it_isMushu**: Candy Flare Mega Neon Paint | **zianagirls**: Rose Quartz Glow Mega Neon Paint |
-| 08:25 | **polina11562**: Fly-A-Pet Potion | **nona200986**: Samoyed (M) |
-| 08:25 | **Ksenka866**: Arctic Fox (R), Ram (NR), Firefly (NR), Hawk (N), Ride-A-Pet Potion ×4, Spring Bunny Feet | **lockefoo**: Turtle (FR) |
-| 08:25 | **ItsPixieplayzz0**: Candicorn (NR), Strawberry Hat, Puffer Fish | **TrapitaAlexa**: Rain Cloud Hat, Capybara (MR), Ride-A-Pet Potion ×2 |
-| 08:25 | **RownanHT26**: Turtle (FR) ×2, Ride-A-Pet Potion, Turtle (R) | **nnam2400**: Farm Egg |
-| 08:25 | **kdkejwjsjd**: Frost Unicorn (MFR), Puffin (MFR) | **ljwempire777**: Strawberry Penguin (MFR), Lion Cub (MFR), Red Dutch Guinea Pig (MFR), Vanilla Penguin (MFR), Chocolate Dutch Guinea Pig (MFR), Goth Shoes, Rain Boots |
-| 08:25 | **roronoazoro1gg**: Mrs. Whiskerpips (M) | **twixxiss1**: Fly-A-Pet Potion |
-| 08:25 | **ballerin0cappuccin02**: Giant Panda (FR) | **Reset26566741**: Mini Pig (FR), Goose, Alpaca (R), Bush Elephant (R), Munchkin Cat (N), Clover Cow (MR) |
-| 08:25 | **clalouetciedh**: Ancient Dragon ×16 | **ll_90dfhj**: Ride-A-Pet Potion |
-| 08:25 | **AliceAvokadi**: Pain au Chat, Orca, Ginger Cat, Pomeranian, Nurse Shark, River Otter, Blue Whale, Ice Cube, Zebra | **Constancee_Starr**: Ride-A-Pet Potion |
-| 08:25 | **DrinklngMilk**: Ride-A-Pet Potion ×3 | **loiol1004**: Priceless Shrimp, Clownfish (N), Water Moon Bear (N), Sabertooth (NR) |
-| 08:25 | **00099hh1**: Pig (FR) | **Leviodas**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 |
+| 08:40 | **xiparo**: Pain au Chat ×6 | **PIasticTree**: Fly-A-Pet Potion |
+| 08:40 | **AliceAvokadi**: Rose Dragon (R), Stray Cat Dragon, Squid | **NguyenTheFox**: Fly-A-Pet Potion ×2 |
+| 08:40 | **Ashley_q019**: Seahorse (N), Wolf, Woolly Mammoth | **KOMOVI9990**: Ride-A-Pet Potion |
+| 08:40 | **clalouetciedh**: Ancient Dragon ×16 | **Liverpool_Rules2009**: Ride-A-Pet Potion |
+| 08:40 | **clalouetciedh**: Alicorn ×14 | **ll_90dfhj**: Chocolate Dutch Guinea Pig |
+| 08:40 | **carlkilling**: Unicorn (NFR) | **Psychotic_foxy**: Fly-A-Pet Potion ×3 |
+| 08:40 | **Omar2002548**: Midnight Dragon, Unicorn, Fairytale Egg ×5, Throwback Egg ×4, Fire Foal ×3, Tree Sasquatch ×2, Ribbon Seal ×2 | **MANUEL2314567**: Midnight Dragon |
+| 08:40 | **roronoazoro1gg**: Fly-A-Pet Potion ×3 | **archi_chozza**: Copycat |
+| 08:40 | **mellqxxrb**: Fly-A-Pet Potion | **NotSweatyOnion**: Pet Handler Pro Certificate |
+| 08:40 | **roronoazoro1gg**: Emberlight (MFR) | **Constancee_Starr**: Fly-A-Pet Potion ×6 |
+| 08:40 | **KIM_07050**: Red Dutch Guinea Pig (MFR), Chocolate Dutch Guinea Pig (NR), Chocolate Dutch Guinea Pig (N) ×2, Chocolate Dutch Guinea Pig ×4, Alley Cat (MFR) | **akzoad**: Haetyphoon (MFR) |
+| 08:40 | **SwxIIenThoughts**: Chocolate Chip Bat Dragon (NFR) | **charli_fan49**: Cow (NFR), Siamese Cat (NR), Harp Seal (N), Panda (MFR) |
+| 08:36 | **XxLipton_LemonxX**: Ride-A-Pet Potion | **Y00SELIN**: Christmas Pudding House |
+| 08:36 | **2kDisappointment**: Pet Handler Pro Certificate | **goodbyekisses**: Inmate Capuchin Monkey (N) |
+| 08:36 | **avervuu**: Haetae (FR), Goose (FR), Goose (R), Tiny Wings, Pet Handler Pro Certificate | **pedrosanchixx**: Owl (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
