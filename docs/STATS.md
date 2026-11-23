@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 07:01 UTC by the scrape workflow._
+_Updated 2026-11-23 07:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 07:01 UTC by the scrape workflow._
 | amvgg | 13 | 31,751 | 2026-11-23T07:00 |
 | elve | 13 | 6,685 | 2026-11-23T07:01 |
 
-## AMVGG completed trades: 54,233 total
+## AMVGG completed trades: 54,248 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 996 |
+| 2026-11-23 | 1,011 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:55 | **Kirill123Valiev**: Fly-A-Pet Potion, 2026 Birthday Butterfly ×4 | **Bunny_189659**: Ride-A-Pet Potion ×2 |
-| 06:55 | **Itsjustthevibez**: Copycat, Christmas Pudding Pup (R) | **roblox_user_5264045140**: Shark Puppy (FR) |
-| 06:55 | **sa0irse_5**: Halloween White Skeleton Dog (MFR), Jester Dragon, Monkey (MR), Green Butterfly (N) | **Glockcode17**: Unicorn Horn |
-| 06:55 | **sun1zzzo**: Water Opossum (M) | **Bunny_189659**: Ride-A-Pet Potion |
-| 06:55 | **Omar2002548**: Wyvern (MFR) | **laughlive7**: Copycat |
-| 06:55 | **nice2306_alt**: Candicorn (FR), Shark Puppy (R), Copycat (FR) | **Manggo_Pie40**: Cow (FR) |
-| 06:55 | **q1ilxx**: Bubblegeist ×2, Mummy Spider (N), Pandaguin Glooptodog (N) ×3, Giant Blue Scarab (R) | **DrinklngMilk**: Ride-A-Pet Potion ×2 |
-| 06:55 | **angela_umerez4**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR), Copycat | **shur00u**: Parrot (FR) |
-| 06:55 | **Ethernaces**: Stray Cat Dragon ×8 | **Bunny_189659**: Ride-A-Pet Potion |
-| 06:55 | **lamako1999**: Moonbeam Peacock | **s0lxii**: Ride-A-Pet Potion ×9 |
-| 06:55 | **Alllllkos**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7, Shrew (FR) | **Ashtoo009**: Candyfloss Chick |
-| 06:55 | **kirw_eqq**: Copycat (FR) | **Yumi_Rose8**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 06:55 | **babyfollicle**: Pomeranian | **adopter_trading**: Crimson Cape |
-| 06:51 | **Minita_Enanita0**: 2022 Birthday Party Hat, Water Rabbit | **Llululinda2312**: 2022 Birthday Cake, Pancake Stack |
-| 06:45 | **iiLxy_MoonStxr**: Ginger Cat (MR) | **Scarlet_xxdd**: Copycat (R) |
+| 07:06 | **ally_28901**: Husky | **thgbgu**: Dimension Drifter, Red Squirrel |
+| 07:06 | **bababababeell**: Ride-A-Pet Potion | **Nasty_7392**: Polar Bear Plush, Easter Bunny Plush |
+| 07:06 | **AsianIceCold**: Fairy Bat Dragon, Siamese Cat (R), Ride-A-Pet Potion | **margini_mini**: Mini Pig (FR), Christmas Pudding Pup (R), Fly-A-Pet Potion |
+| 07:06 | **micaelakdkdn**: Munchkin Cat (R) | **milltsk**: Tiny Wings |
+| 07:06 | **aliir1875**: Mummy Spider (MR), Dragon (FR), Cuddly Candle (R), Golden Unicorn (R), Metal Ox (R), King Bee (R), Moonpine (NR), Purrowl ×2, Stray Cat Dragon ×2, Parakeet (N) | **DrinklngMilk**: Fly-A-Pet Potion ×3 |
+| 07:06 | **the3reveng**: Frankenfeline (N), Garden Snake (N), Jiggly Jerboa (N), Beluga Whale (N), Snorgle (N), Shih Tzu (N) | **Cookie_lover13232**: Ride-A-Pet Potion |
+| 07:06 | **annaa_hsr**: Polar Bear | **alien_lol34**: Fly-A-Pet Potion, Ride-A-Pet Potion, Bready Necklace |
+| 07:06 | **idk_girl537**: French Bulldog (MFR), Frostbite Cub (MFR), Kappakid (MR) | **Lingling111206**: Tuxedo Cat (M), Panda (MFR) |
+| 07:06 | **qkrbed**: Zombie Wolf (MFR) | **ITSMECINNAADDMEBACKK**: Turtle (FR) |
+| 07:06 | **O71Mythical**: Many Mackerel (NFR), Sandwich Hat, Ride-A-Pet Potion | **metanight3d**: Cabbit (FR) |
+| 07:06 | **DefinitelyNotCha6**: Bee ×2, Bee (R), Clownfish, Penguin ×3, Pink Betta Fish, Sloth, Australian Kelpie, Emu, Seahorse, Bat (NR), Glyptodon ×2, Wolf ×2, Chick | **flytomars67**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 07:06 | **robloxiana_79943**: Fly-A-Pet Potion ×2, Pig (R) | **OKAK_BOTAK61**: Alley Cat (NR), Golden Tortoise Beetle, Ribbon Seal (N) |
+| 07:06 | **Allyanaph124**: Fairy Bat Dragon (R), Fairy Bat Dragon (FR) ×2, Turtle (FR), Cow (FR), Pink Cat (FR) | **SoLost666**: Crow (FR) |
+| 07:06 | **Vitamirka**: Chihuahua ×6 | **Heart_01205**: Ride-A-Pet Potion ×2 |
+| 07:06 | **Inganta07**: Fly-A-Pet Potion, Clumpty (N) | **Kotik_tommi1**: Cerberus (F) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
