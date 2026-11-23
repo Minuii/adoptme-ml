@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 00:01 UTC by the scrape workflow._
+_Updated 2026-11-23 00:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 00:01 UTC by the scrape workflow._
 | amvgg | 13 | 24,803 | 2026-11-23T00:00 |
 | elve | 13 | 5,532 | 2026-11-23T00:01 |
 
-## AMVGG completed trades: 53,249 total
+## AMVGG completed trades: 53,300 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 12 |
+| 2026-11-23 | 63 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 00:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:00 | **cya_adoptmechallange**: Owl (FR) | **dollxx_zz**: Turtle (NFR), Turtle (FR), Turtle (R), Chocolate Chip Bat Dragon (FR), Kangaroo (FR) ×2, Fly-A-Pet Potion ×2, Jester Dragon (FR), Ride-A-Pet Potion |
-| 00:00 | **lolasroom123**: Copycat (NR) | **leileirtt**: Siamese Cat (R) |
-| 00:00 | **OMGPREPPYXSTARIE1**: Quokka (MFR), Sheeeeep (FR) | **kiro4ka_hellokitti**: Squid (MFR) |
-| 00:00 | **kiro4ka_hellokitti**: Mermicorn (NFR), Jester Dragon, Ride-A-Pet Potion, Scarlet Butterfly (M) | **Potado01od_3**: Frost Unicorn (NFR) |
-| 00:00 | **Aseggfdeccdfggdd**: Kitsune (R), Paint Sealer ×5 | **queenalwaysslayxx**: Ride-A-Pet Potion |
-| 00:00 | **Heyyygirllypopss**: Pupcicle (MFR), Goat (MFR), Coyote (M) | **serpentibendi**: Giant Panda (FR) |
-| 00:00 | **MimimiTheHedgehog**: Fly-A-Pet Potion ×14, Paint Sealer | **stoIencorpses**: Fairy Bat Dragon (FR) |
-| 00:00 | **Th_PlanetMars**: Dango Penguins (MFR), German Shepherd (MR), Dire Wolf (M), Brachiosaurus (M), Purrowl (N), Glormy Dolphin (N) | **Oudommm**: Arctic Reindeer (FR) |
-| 00:00 | **SOSIGMA_92**: Sheeeeep (FR), Goat (FR), Christmas Pudding Pup, Toaster Hat | **ddrwcullazx**: Munchkin Cat (N) |
-| 00:00 | **minismudgepanda**: Sea Turtle (N) ×2 | **SweetSofiiOwO**: Chocolate Dutch Guinea Pig |
-| 00:00 | **Stvrlene**: Dango Penguins (NR), Dragon (N) | **3LL1SV1BE**: Fly-A-Pet Potion, Stray Cat Dragon (M), Onza (M), Abyssinian Cat (M), Squid, Jester Dragon, Pupcicle |
-| 00:00 | **Random1513**: Velocirooster (MFR) | **lostralaleritos_685**: Copycat (MFR), Santa Hat |
-| 23:55 | **MrIcedKofi**: Kangaroo (R), Spider Crab (R) | **emi_elf123**: Candicorn (FR) |
-| 23:55 | **Matchazpearlz**: SSBD Beanie, Queen Bee Slippers | **lolcryabtit6767**: Rainbow Maker, Angel Wings |
-| 23:55 | **svqh12**: Panda (NFR), Little Lamb (M) | **AmandaPandaKawaii123**: Shooting Star Board |
+| 00:11 | **Xxxpandaxxxplayz**: Skele-Rex (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion, Chick (NFR), Cattuccino (N) | **Oro29194**: Fairy Bat Dragon (FR) |
+| 00:11 | **assapickle**: Mini Pig (R), Sugar Glider (FR), Arctic Fox (R), Arctic Fox | **kitvez**: Sugar Glider (NFR) |
+| 00:11 | **Lucky_Bonono10**: African Wild Dog, Fly-A-Pet Potion, Bready Necklace | **Yakkuji**: Kangaroo (NFR), Cow (FR) ×2, Cow (R) |
+| 00:11 | **Mar56060**: Shark Puppy (FR) | **Blake_skyhigh**: Winged Tiger (R) |
+| 00:11 | **Car1os_xd**: Amethyst Skies Mega Neon Paint | **iridescenite**: Ride-A-Pet Potion |
+| 00:11 | **hondje78910**: Caelum Cervi (R), Fly-A-Pet Potion ×3, Leopard Cat (M), Groundhog (R), Pancake Stack, Ride-A-Pet Potion ×5 | **DJslushaa**: Goose (R) |
+| 00:11 | **jellycatmar**: Goat (MFR) | **Lingling111206**: Kangaroo (MFR), Chef Gorilla (MFR), Binturong (MFR) |
+| 00:11 | **pizzupizzpro**: Monkey King (MFR) | **cannotaffordme**: Siamese Cat (M), Goat (MFR), Snowball Pet (MFR), Golden Chow-Chow (MFR), Swan (MFR), Fly-A-Pet Potion, Glacier Moth (MFR), Arctic Fox (FR) |
+| 00:11 | **TC_VENJAMIN**: Castle Hermit Crab (MR), Capricorn (NR), Seahorse (M) | **BurningWithRoses**: Unicorn (MFR), Diamond Dragon, Parakeet (N), Purrowl ×3, Mouse (N), Orca ×2, Frozen Penguin, Bobageist, Gumball Caterpillar, Black-Footed Ferret |
+| 00:11 | **MoronicKat_the7th**: Happy Duckling (MFR) | **Bex0100**: Ice Cream Hermit Crab (NFR) |
+| 00:11 | **claire78234**: Alpaca (MFR), Dalmatian, Polar Bear (MFR), Sushi Penguin (MFR), Groundhog, Rainbow Maker ×2, Unicorn Horn ×2, 2022 Birthday Party Horn, Count Slothula (MFR) | **xmikaeq**: Dalmatian (MFR) |
+| 00:11 | **Tr_Matias99D**: Giant Anteater, Copycat (R), Ice Cream Cone Hat, Shrew, Ride-A-Pet Potion ×3, Unicorn (NFR), Monkey Box | **Rylo122414**: Peppermint Penguin (R) |
+| 00:11 | **Zacawetomaia**: Paint Sealer ×5 | **AnaLuvsMoths**: Retired Egg ×15 |
+| 00:11 | **BLACKGLITTERKITTY**: Giraffe (FR) ×2, Candicorn (NFR), Pancake Stack | **mamadmasa010**: Bat Dragon (FR) |
+| 00:11 | **ValentinoHilld**: Candyfloss Chick (MFR), Wood Pigeon (MFR) | **Alessandro_00019**: Cabbit (MFR) |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
