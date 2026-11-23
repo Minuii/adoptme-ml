@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 02:46 UTC by the scrape workflow._
+_Updated 2026-11-23 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 02:46 UTC by the scrape workflow._
 | amvgg | 13 | 27,776 | 2026-11-23T02:45 |
 | elve | 13 | 5,988 | 2026-11-23T02:46 |
 
-## AMVGG completed trades: 53,702 total
+## AMVGG completed trades: 53,731 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 465 |
+| 2026-11-23 | 494 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 02:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:45 | **carterdelaney1**: Wooly Rhino (MFR) ×4, Mule (MR) | **caroesel**: Giant Anteater (MFR) |
-| 02:40 | **1MZ03Y**: Kangaroo (FR), Berry Cool Cube (M), Clover Cow (M), Deathstalker Scorpion (M), Ride-A-Pet Potion ×2 | **ii_aldrin20**: Cow (FR) |
-| 02:40 | **13kdiino**: Llama (NFR) | **Patto_Cuack**: Cheetah (N) |
-| 02:40 | **HeartsForEli_1406**: Shiba Inu (N) | **CursedWitigo**: Paint Sealer ×2 |
-| 02:40 | **Charlotte61299**: Flying Fairy, Snow Cloud Wings | **R4T_LUCY**: Quokka |
-| 02:40 | **BarbiesRevolution**: Mini Pig (MFR), Rain Cloud Hat, Ice Cream Cone Hat | **vcxitb_new**: Arctic Reindeer (MFR) |
-| 02:40 | **meyich4up**: Crystal Egg ×10 | **Unicornwoman256**: Ride-A-Pet Potion |
-| 02:40 | **sophsroblocxacc2**: Crow (NFR), Skelicorn (MFR) | **Froggyblossom90**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (NFR) |
-| 02:40 | **MM_Cloud**: Crystal Egg ×15 | **nimalina463**: Ride-A-Pet Potion |
-| 02:40 | **Deamh_1**: Dalmatian (FR), Feesh (MR) | **Vvrqxz**: Cow, Cow (NFR) |
-| 02:40 | **Iamonaphoneok**: Goth Shoes | **JumpingFangs**: Ruler's Castle |
-| 02:40 | **AsianIceCold**: Squid (MFR), Chameleon (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **mylolovescats**: Fairy Bat Dragon |
-| 02:40 | **Alex_x05228**: Dragonfruit Fox (MFR) | **syperstar71**: Ice Golem (MFR) |
-| 02:40 | **Iluvmyself356**: Fairytale Egg | **797sinalei**: Sunflower Friend |
-| 02:40 | **Firefrtho12**: Balloon Unicorn (MFR) | **doggyxxp1**: Mini Pig (MFR), Goose (MFR), Cow (MFR), Dalmatian (NFR), Shark Puppy (MFR), Arctic Dusk Dragon (MFR), 2022 Birthday Party Horn, Rainbow Maker, Siamese Cat (MFR), Munchkin Cat (MFR), Buzzing Honeypot Hat, Angel Wings, Halo, 2022 Birthday Cupcake Shoes |
+| 02:55 | **loafactory**: Mini Pig (NFR), Corn Doggo (MFR), Cabbit (FR), Siamese Cat, Munchkin Cat (FR) | **sultan123idk**: Border Collie (MFR) |
+| 02:55 | **Kipperlekangaroo**: Mistletroll (MR) | **iloveicecream34159**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 02:55 | **zad2930**: Chocolate Dutch Guinea Pig ×3, Pet Handler Pro Certificate ×2 | **unicornfartzlolzz**: Indian Leopard (MR) |
+| 02:55 | **ramos_49**: Turtle (FR) | **Deamh_1**: Aestus (FR), Jester Dragon (F), Chihuahua (M), Feesh (MR), Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 02:55 | **clumhsy**: Dango Penguins, Dango Penguins (R), Kitty Bat (N), Samoyed (M), Shiver Wolf (N) | **Peyton_kitty1010**: Blue Ringed Octopus (M) |
+| 02:55 | **Blum_Anifer**: Patchy Bear (M) | **bundledbatss**: Halloween Blue Scorpion (NR) |
+| 02:55 | **carlitosuwuagua**: Moose Calf (MFR), Ride-A-Pet Potion | **joee123514**: Hare (MFR) |
+| 02:55 | **blushbyelle**: Shadow Dragon (FR), Sheeeeep (MFR), Jekyll Hydra (FR) | **nerdoitdabest**: Dalmatian (MFR) |
+| 02:55 | **Flux_puck**: Ride-A-Pet Potion ×12 | **cat6queen**: 2022 Birthday Party Horn |
+| 02:55 | **Panci_Terbang33**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **L_person21**: Capybara, Chocolate Dutch Guinea Pig, Hare |
+| 02:55 | **micaelakdkdn**: Cryptid (FR), Cow (R) | **kikix_82**: African Wild Dog (FR) |
+| 02:55 | **Unknown_Entity1213**: Spring Bunny Hood | **chip40060**: Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 02:55 | **Lumina20265**: Fly-A-Pet Potion | **borisgabrielcinc**: Cerberus (R) |
+| 02:55 | **AceDTArrovos**: Soulfire Animated Sticker, Ride-A-Pet Potion | **apollon_adoptme**: Pets Plus Sticker Pack |
+| 02:55 | **AceDTArrovos**: Ride-A-Pet Potion, Mrs. Whiskerpips ×3 | **apollon_adoptme**: Pets Plus Sticker Pack |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
