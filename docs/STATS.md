@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 05:40 UTC by the scrape workflow._
+_Updated 2026-11-23 05:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 05:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 30,384 | 2026-11-23T05:30 |
-| elve | 13 | 6,481 | 2026-11-23T05:31 |
+| amvgg | 13 | 30,606 | 2026-11-23T05:45 |
+| elve | 13 | 6,515 | 2026-11-23T05:46 |
 
-## AMVGG completed trades: 54,104 total
+## AMVGG completed trades: 54,115 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 867 |
+| 2026-11-23 | 878 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 05:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:45 | **Cat_197s**: Hedgehog (FR), Evil Unicorn (FR), Unicorn Horn, Tortoiseshell Guinea Pig, Crocodile, Chocolate Dutch Guinea Pig (N), Tanuki (MR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Spring Bunny Feet, Peachick (N) | **notiamjhom**: Frost Dragon (FR) |
+| 05:45 | **meowieboogie**: Turtle (FR) | **Reset26566741**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 |
+| 05:45 | **l0ve1y_br00k**: Owl (FR), Cow (NFR) | **GeneralPatrick_14**: Frost Dragon (FR) |
+| 05:45 | **pssixotrop**: Arctic Dusk Dragon (MFR), Fairy Bat Dragon (NFR), Christmas Pudding Pup (NR), Fallow Deer (NFR), Tiny Wings | **notiamjhom**: Owl (FR) |
+| 05:45 | **arturo7pose12345**: Kiwi Kiwi ×8, Pain au Chat ×4, Chihuahua ×2 | **AvaNari2010**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 |
+| 05:45 | **clalouetciedh**: Dragonfly ×15 | **Ridingpro657**: Ride-A-Pet Potion |
+| 05:45 | **nicebaconfg**: S'mores Raccoon, Sushi Penguin, Moon Rabbit, Jiggly Jerboa (M), Glyptodon Ducky (M), Burger Bear | **daridaridari222**: Pet Handler Pro Certificate ×2 |
+| 05:45 | **gonewiththesln**: Mini Pig | **kaylamicmi**: Goat (R), Polar Bear ×2, Fly-A-Pet Potion ×3, Yeti (MFR) |
+| 05:45 | **s1ltn0w**: Alpaca (MFR) ×3, Ice Cream Cone Hat | **IzeaEboy**: Bat Dragon (FR), Candyfloss Chick (MFR) |
+| 05:45 | **copyvoting**: Ring-Tailed Lemur (N), Scorching Kaijunior (NR), Platypus, Ride-A-Pet Potion | **L_person21**: Goose (R) |
+| 05:45 | **mdmdnkevsjsvaj**: Dog (NFR), Cat (MFR) | **MatsukiMakima**: Pet Handler Pro Certificate |
 | 05:40 | **Nugg3tsito1**: Christmas Pudding Pup, Christmas Pudding Pup (R), Arctic Fox (R), Kappakid (MR), Gemstone Egg ×2 | **xqvuri**: Christmas Pudding Pup (NFR) |
 | 05:40 | **Gamerqueen1255**: Gemstone Egg | **CMETANKA30708**: Retired Egg ×18 |
 | 05:40 | **Robles6498369**: Peppermint Penguin (NFR), Christmas Pudding Pup (R) | **realreal545**: Rainbow Maker ×2 |
 | 05:40 | **S30u1x**: Hot Doggo (FR), Siamese Cat (R), Arctic Fox (FR) | **j3nxy000**: Chocolate Chip Bat Dragon (FR) |
-| 05:40 | **itzlexi63737**: Evil Unicorn, Copycat (F), Ride-A-Pet Potion ×2 | **hiwhat043**: Hedgehog (FR) |
-| 05:40 | **jhopebts_10**: Siamese Cat (NR) | **lyeinjune**: Border Collie (NFR) |
-| 05:36 | **Kailaffie**: Dalmatian (FR), Cow (FR) ×3, Burger Bear (MR), Peppermint Penguin (FR) ×2 | **notiamjhom**: Frost Dragon (FR) |
-| 05:30 | **luvly_xio**: Maneki-Neko, Dracula Parrot, Lunar Gold Tiger | **apples_oopp1**: Ride-A-Pet Potion |
-| 05:30 | **erickproari**: Ride-A-Pet Potion ×2 | **martins10530**: Stray Cat Dragon ×18 |
-| 05:30 | **floralplum**: Unicorn ×3 | **martins10530**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 05:30 | **tunyaooi**: Kitty Biscuit, Abyssinian Cat (N) | **martins10530**: Ride-A-Pet Potion |
-| 05:30 | **ccdbgt1**: Fly-A-Pet Potion | **BubbleGumSplashplays**: Husky |
-| 05:30 | **viddy_kama287**: Balloon Unicorn (FR), Grim Dragon (FR), Flamingo (R), Matcha Cat (R), Skelicorn (MR), Blue Whale (MR), Ride-A-Pet Potion ×2, Tutu, Strawberry Shortcake Bow, Winter Bow Wings | **notiamjhom**: Owl (FR) |
-| 05:30 | **rinconbrandon2012**: Elephant (R) | **Leon555s5**: Arctic Dusk Dragon (N) |
-| 05:30 | **Jadameigo**: Fairy Bat Dragon (FR), Unicorn Horn, Albino Monkey (FR) | **mommy_oni0623**: Chocolate Chip Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
