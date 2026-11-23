@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 02:11 UTC by the scrape workflow._
+_Updated 2026-11-23 02:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 02:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 26,970 | 2026-11-23T02:00 |
-| elve | 13 | 5,852 | 2026-11-23T02:01 |
+| amvgg | 13 | 27,249 | 2026-11-23T02:15 |
+| elve | 13 | 5,900 | 2026-11-23T02:15 |
 
-## AMVGG completed trades: 53,637 total
+## AMVGG completed trades: 53,647 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 400 |
+| 2026-11-23 | 410 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 02:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:15 | **bbbsbnhf**: Cryptid (FR) | **XxGalactus_hypix6**: Evil Unicorn (FR) |
+| 02:15 | **Erickztt16**: Sheeeeep (NR) | **Swan_Couture**: Alpaca (FR) |
+| 02:15 | **CaroPYt**: Catte (M), S'mores Raccoon (M), Peach Owl (MFR), Squid (MR), Burger Bear (MR), Chameleon (M) | **Cindysaccount39**: Munchkin Cat (MFR) |
+| 02:15 | **Rosi_oke**: Cow (FR), Kangaroo (FR) | **Iheartstars7**: Albino Monkey (NFR) |
+| 02:15 | **TMDung20**: Owl (FR), Goose (FR), Turtle (FR), Pancake Stack | **OMGITSMACKENZIE6**: Frost Dragon (FR) |
+| 02:15 | **Sains9811**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **staceyschafer**: Goth Shoes, Rain Boots |
+| 02:15 | **sophsroblocxacc2**: Candicorn (N), Pretty Pony (MFR), Candicorn (R) | **visceralXD**: Arctic Reindeer (FR) |
+| 02:15 | **Mamacocoisskinny**: Copycat (MFR), Rain Cloud Hat | **004FAscend004**: Christmas Pudding Pup (MFR) |
+| 02:15 | **ghostqsinz**: Arctic Fox (R) | **Testsubject0_217**: Strawberry Penguin (FR) |
+| 02:15 | **nyrvxe**: Jester Dragon (NR), Vampire Dragon (FR), Fly-A-Pet Potion ×2 | **manglespaws**: Cabbit (FR) |
 | 02:11 | **vertaocsi**: Bready Necklace | **rainbow28546**: Ride-A-Pet Potion |
 | 02:11 | **elimax124**: Golden Hummingbird (R) | **rainbow28546**: Ride-A-Pet Potion |
 | 02:11 | **leesoyul11111111**: Ride-A-Pet Potion ×5 | **not_alex53956**: Copycat (FR) |
 | 02:11 | **lujustIu**: Ribbon Seal ×2 | **elimax124**: Gold Mahi Mahi |
 | 02:11 | **xxXchange_Vibe**: Strawberry Shortcake Bat Dragon (FR), Tiny Wings, Fly-A-Pet Potion | **Arri0028**: Ring-Tailed Lemur (MFR) |
-| 02:11 | **themilkeywayz**: Ice Cream Cone Hat | **milesgabrie12**: Field Mouse, Skunk (N) |
-| 02:11 | **Flux_puck**: Cow (FR) ×3, Turtle (FR), Turtle (R) | **caycay_3800**: Balloon Unicorn (FR) |
-| 02:11 | **nevaeh_jim3nez**: Siamese Cat (FR), Monkey (MFR), Unicorn (NR), French Bulldog (R), Dragonfruit Fox | **viellynnnn**: Cow (FR) |
-| 02:11 | **aawesomepawsomesauce**: Unicorn Horn | **PugpunterZev**: Werewolf (R), Chocolate Dutch Guinea Pig |
-| 02:11 | **XMizuki_chenX**: Harp Seal | **olila959**: Ram |
-| 02:11 | **minismudgepanda**: Forest Sprite (M) | **04752956**: Pupcake |
-| 02:11 | **admare553**: Castle Hermit Crab (MR) | **Irislikesyoufr**: Amami Rabbit (N), Alley Cat, Hamster (NFR), Vol. 2 Pets Plus Sticker Pack, Rice Cake Rabbit (N), Cattuccino (N) |
-| 02:11 | **Zak_0250**: Spring Bunny Hood | **FruitcakeSEALS**: Unicorn Backpack |
-| 02:11 | **ya_slay5**: Spring Bunny Hood, Tiny Wings | **donnotinteract**: Ride-A-Pet Potion ×5, Munchkin Cat |
-| 02:11 | **avolynx**: Zombie Chick, Yellow Butterfly, Rabbit, Merry Mistletroll, Gold Mahi Mahi, Bee, Nightmare Owl, Gummy Guana, Parakeet, Swordfish, Camel ×2 | **Panci_Terbang33**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
