@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 11:55 UTC by the scrape workflow._
+_Updated 2026-11-23 12:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 11:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 36,117 | 2026-11-23T11:45 |
-| elve | 13 | 7,651 | 2026-11-23T11:46 |
+| amvgg | 13 | 36,354 | 2026-11-23T12:00 |
+| elve | 13 | 7,710 | 2026-11-23T12:01 |
 
-## AMVGG completed trades: 54,915 total
+## AMVGG completed trades: 54,948 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,678 |
+| 2026-11-23 | 1,711 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 11:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:55 | **caxapo501505**: Skelicorn (NR) | **naka_paka71**: Ride-A-Pet Potion |
-| 11:55 | **Pidilypops2nd**: Hedgehog (FR) | **q_plvio2**: German Shepherd (MFR), French Bulldog (M), Black Springer Spaniel (MFR), Amami Rabbit (MR), Goose (R) |
-| 11:55 | **uqxiyeol**: Pet Handler Pro Certificate | **Lynx12609**: Ride-A-Pet Potion, Bready Necklace |
-| 11:55 | **victorymoreva**: Pig (R) | **Spartik20**: Christmas Pudding Pup (R), Christmas Pudding House |
-| 11:55 | **DefinitelyNotCha6**: Banana Plush, Candle ×2, Turkey Plush, Santa Rattle, Ornament Throw Toy, Octopus Plush, Ice Cream Plush, Dragon Balloon ×2, Donut Rattle, Banana Pogo, Balloons, Axe Rattle, Sleigh Bells Rattle ×2 | **virbiveth**: Fly-A-Pet Potion |
-| 11:55 | **Vitamirka**: Kiwi Kiwi ×4 | **Callme_Mary45**: Ride-A-Pet Potion ×2 |
-| 11:55 | **D_o0x5**: Christmas Pudding Pup (FR) | **Navilolp**: Fly-A-Pet Potion ×3 |
-| 11:55 | **iamfoxy2008**: Tree Kangaroo, Mr. Whiskerpips (N) | **localbanxx**: Pupcicle, Undead Elk (R), Striped Eggy, Halloween White Skeleton Dog, 2025 Birthday Butterfly (N), Halloween Black Mummy Cat (N), Snorgle, Hopbop, Capuchin Monkey, Forest Sprite, White Choccybunny, Jiggly Jerboa, Japanese Snow Fairy, Gummy Guana, Stygian Owl, Cherub Chipmunk, Aye Aye, Ghost Wolf |
-| 11:55 | **34Kotenok9**: Burger Bear, Squid | **Vikakelera**: Ride-A-Pet Potion |
-| 11:55 | **KIDS_501**: Mummy Spider (M), Golden Griffin, Alicorn, Ancient Dragon, Dragonfly | **dnei30fast**: Ride-A-Pet Potion |
-| 11:55 | **FlyToTheSaturn**: Panda Pal, Cookie Dough Plush ×2, Candle ×2, Sock Chew Toy ×2, Elf Rattle, Elf Plush | **dnei30fast**: Fly-A-Pet Potion |
-| 11:55 | **Killkillmaster2345**: Turtle (FR), Hot Doggo (FR), Kangaroo (FR), Fly-A-Pet Potion ×2 | **faikubjotch**: Owlbear (MFR) |
-| 11:55 | **Soffi_nas7**: Ride-A-Pet Potion ×7 | **GOGOLI_34258**: Matcha Cat |
-| 11:55 | **MeltinqWxlfie**: Rainbow Maker | **L4dyBrav3DollphinRBL**: Werewolf (NFR), Fly-A-Pet Potion |
-| 11:55 | **nice2306_alt**: Stray Cat Dragon ×15, Retired Egg | **morgen67svo**: Fly-A-Pet Potion |
+| 12:00 | **Eliplazroblox800**: Retired Egg ×15 | **dizeri_sak**: Chihuahua |
+| 12:00 | **XxMonty18xX**: Pet Handler Pro Certificate | **Mimiiixq0**: Ride-A-Pet Potion ×2 |
+| 12:00 | **liofe1**: Rainbow Stroller | **St_locki1**: Ride-A-Pet Potion |
+| 12:00 | **Son5chka753**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10, Red Squirrel | **Avi_ator12**: Turtle (R) |
+| 12:00 | **FFGYHSFFH**: Pig (FR), Ride-A-Pet Potion ×2, Starfish (R), Hoverboard | **KADJDIS**: Crocodile (R) |
+| 12:00 | **HET3AKOHAM**: Fly-A-Pet Potion ×6 | **Finek357**: Ride-A-Pet Potion ×11 |
+| 12:00 | **kakasha_156**: Drake (R), Dragonfruit Fox | **anekalubitnaruto**: Rose Dragon |
+| 12:00 | **Roblo_mmm**: Bready Necklace, Pancake Stack, Butter Knife ×2, White Chef Hat, Ride-A-Pet Potion ×3, Spring Bunny Hood, Burger Boots | **DJ_4348**: Rain Cloud Hat |
+| 12:00 | **mellqxxrb**: Mummy Spider (N), Ocelot (N), Pandaguin Glooptodog (N), Zebra (N), Black Tiger (N), Budgie Witch (N), Mahi Mahi (N) ×2 | **herb23012**: Ride-A-Pet Potion |
+| 12:00 | **Svniqla**: Fly-A-Pet Potion | **adoptmexx626**: Stitches (N) |
+| 12:00 | **KoshkkaFurry**: Ostrich (N), Ride-A-Pet Potion, Royal Fairytale Egg | **NayeonEatsBricksAlt**: Pupcicle (NR) |
+| 12:00 | **orangebackup3**: Seahorse (NR) | **Sofyasha_Rbx523**: Cattuccino (N) |
+| 12:00 | **xmikaeq**: Rainbow Maker ×2, 2022 Birthday Party Horn, Groundhog | **x7qir**: Siamese Cat (MFR) |
+| 12:00 | **DragonBaconeBoss1**: Mermicorn (NFR), Goat (NFR), Sugar Glider (FR), Sugar Glider (R), Turtle (FR), Meerkat (NFR), Chocolate Dutch Guinea Pig | **leruval**: Owl (FR) |
+| 12:00 | **princess_pizzanice**: Ice Cream Cone Hat, Ballet Swan, Glormy Dolphin (M) | **agusha_lol90**: Kangaroo (R) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
