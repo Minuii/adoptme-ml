@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 23:31 UTC by the scrape workflow._
+_Updated 2026-11-23 23:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 23:31 UTC by the scrape workflow._
 | amvgg | 13 | 47,626 | 2026-11-23T23:30 |
 | elve | 13 | 10,114 | 2026-11-23T23:31 |
 
-## AMVGG completed trades: 57,577 total
+## AMVGG completed trades: 57,616 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 4,340 |
+| 2026-11-23 | 4,379 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 23:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:25 | **Sunsettiia**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×3, Pet Handler Pro Certificate ×3 | **carlkilling**: Kangaroo (FR) |
-| 23:25 | **St0rm_Sniper89**: Evil Unicorn (FR) | **Lulugamerg0607**: Zombie Wolf (MFR), Cake Friend (MFR), Mirai Moth (MFR), Wolf (MFR), Chick (MFR), Astronaut Gorilla (MFR), Snowball Pet (MR) |
-| 23:25 | **fishtaili**: Happy Clam, Stitches (M), Rose Quartz Glow Mega Neon Paint | **niragichurrasquinhoo**: Shrew |
-| 23:25 | **renalavani**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **swa66ed**: Strawberry Shortcake Bat Dragon (FR) |
-| 23:25 | **NokadotakAU3U**: Ride-A-Pet Potion ×4, Pet Handler Pro Certificate | **minismudgepanda**: Lion Cub |
-| 23:25 | **krxadm3**: Crystal Egg ×17 | **starswirl_64**: Ride-A-Pet Potion |
-| 23:25 | **vanteluvstaee**: Crystal Egg ×15 | **Flowergirlxxx123xxx**: Ride-A-Pet Potion |
-| 23:25 | **CutestAstro**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Nasha1ra**: Sakura Spirit (FR) |
-| 23:25 | **CutestAstro**: Ride-A-Pet Potion, Fly-A-Pet Potion | **cassiemeowss**: Latte Kitsune (R) |
-| 23:25 | **Cristelmylovelove**: Frost Dragon (FR) | **ELVEAMVGGTRADER890**: Fairy Bat Dragon (FR) ×5, Evil Unicorn (FR), Tiny Wings, Ice Cream Cone Hat, Vanilla Penguin (NR), Ride-A-Pet Potion |
-| 23:25 | **iileesxv**: Shark Puppy (R) | **antuco_tuco909**: Arctic Fox (R), Pretty Pony (N) |
-| 23:25 | **vertaocsi**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion | **XTREYT**: Cow (FR) |
-| 23:25 | **Omar2002548**: Octopus (NFR) | **michifuBv18462**: Copycat |
-| 23:25 | **rrstockxadm**: Crystal Egg ×17 | **Flowergirlxxx123xxx**: Ride-A-Pet Potion |
-| 23:25 | **yeetimaheadout7**: Fairy Bat Dragon (NFR), Kangaroo (NFR), Turtle (R), Kangaroo (FR), Spring Bunny Hood, Fly-A-Pet Potion | **Hellokitty1244522**: Parrot (FR) |
+| 23:36 | **Nothing_About6**: Evil Unicorn (NFR), Cryptid (FR), Turtle (NFR) | **DomenicoWakkos**: Parrot (NFR) |
+| 23:36 | **Speeddrawaccaount2**: S'mores Raccoon (MR), Ride-A-Pet Potion | **Elve_ii**: Unicorn Horn |
+| 23:36 | **raccoonybaloony**: Skelicorn (M), Bobageist (M) | **yudaswoiew**: Ride-A-Pet Potion ×5 |
+| 23:36 | **Robles6498369**: Arctic Reindeer (FR) | **tomatosandwish**: Mini Pig (FR), Goose (FR) |
+| 23:36 | **bwunnifection**: Honey Badger (MFR), Ride-A-Pet Potion ×2 | **itsnottt_mexx**: Cryptid |
+| 23:36 | **MM234861**: Therapy Dog ×2 | **Yamenzoj**: Chihuahua |
+| 23:36 | **hanb3ki**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **ICholestrol**: Kangaroo (FR) |
+| 23:36 | **Clapfair**: Goldhorn (N) | **WeiYing_Editor**: Pet Handler Pro Certificate, Fly-A-Pet Potion |
+| 23:36 | **krxadm3**: Crystal Egg ×17 | **qxciine**: Ride-A-Pet Potion |
+| 23:36 | **TT_0qwerty45**: Caterpillar (MFR) | **Little_n0te**: Haetae, Munchkin Cat (M), Pancake Stack |
+| 23:36 | **Banana_peanut67**: Ring-Tailed Lemur (MFR), Toaster Hat, Tiny Wings, Scarecrow Cat (M), Copycat | **kaylamicmi**: Sheeeeep (MFR) |
+| 23:36 | **d4rlingjazzy**: Strawberry Tortle (R), Frost Unicorn (FR), Copycat ×2 | **yoncha77**: Elephant (FR), Sea Slug, Pig ×2, Blossom Snake (MR), Latte Kitsune (R), Hare, Fly-A-Pet Potion, Bready Necklace |
+| 23:36 | **QueenBee246010**: Alpaca (FR), Winged Tiger (MFR), Groundhog (MFR), Unicorn Horn, Moose Calf (MFR) | **deqxla**: Mini Pig (MFR) |
+| 23:36 | **milkshakedeer**: Ride-A-Pet Potion | **Tradinginadoptme_673**: S'mores Raccoon |
+| 23:36 | **Baldyellowwoman**: Peppermint Penguin, Spring Bunny Hood | **Mnenormalno_0**: Cow (FR), Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
