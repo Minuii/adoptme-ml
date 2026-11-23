@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 08:16 UTC by the scrape workflow._
+_Updated 2026-11-23 08:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 08:16 UTC by the scrape workflow._
 | amvgg | 13 | 32,922 | 2026-11-23T08:15 |
 | elve | 13 | 6,911 | 2026-11-23T08:15 |
 
-## AMVGG completed trades: 54,392 total
+## AMVGG completed trades: 54,432 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,155 |
+| 2026-11-23 | 1,195 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 08:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:15 | **LIMONALISA_777**: Aye Aye (MR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Sofiko_135791**: Copycat |
-| 08:15 | **1LYMathilde**: Honey Badger (MFR) | **ekaryfaaa**: Munchkin Cat (MFR) |
-| 08:15 | **SxmLxme**: Fly-A-Pet Potion | **lapit228**: Phoenix ×2 |
-| 08:15 | **qwtalia**: Peppermint Penguin (FR), Flamingo (R), Copycat, Goat, Bush Elephant (R), Panda (MFR), Rice Cake Rabbit (M), Caterpillar (FR), Cow (R), Great Pyrenees (R), Kiwi | **leruval**: Crow (FR) |
-| 08:15 | **wldnsdlrnldudna**: Kangaroo (FR) | **clarisse_tubeuse**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion, Spring Bunny Feet |
-| 08:15 | **dianka_roblox0**: Hydra (R), Electric Hornet, Admin Abuse Box | **cher_namagandaa**: Hollywood House, Hermit Crab (N) |
-| 08:15 | **Deinabiluana**: Halloween White Ghost Dragon (FR) | **Monika56430**: Ride-A-Pet Potion ×4 |
-| 08:15 | **ONNYchiiwa**: Fly-A-Pet Potion | **InfernapeMaster462**: Ice Cream Hermit Crab |
-| 08:15 | **muniradypa**: Pain au Chat ×3 | **Zombie_8803**: Ride-A-Pet Potion |
-| 08:15 | **qiqi_uxx**: Frost Dragon (FR), Parrot (FR) | **cookieuxblox**: Strawberry Shortcake Bat Dragon (MFR) |
-| 08:15 | **tkmbfr**: Christmas Pudding Pup (MFR) | **come_backllll**: Evil Unicorn (FR) |
-| 08:15 | **tkmbfr**: Elephant (FR) | **Bowieflower6**: Ride-A-Pet Potion ×15 |
-| 08:15 | **FunnyAnaminegirl**: Burger Boots, Stygian Owl (M) | **just_vailan4**: Spring Bunny Feet |
-| 08:11 | **Afk123_lol**: Black Tiger (M) | **Flowericia77**: Gecko |
-| 08:11 | **Kenia_pgg1**: Alpaca (FR), Hot Doggo (FR), Unicorn Horn, Border Collie (F) | **Just_Kerri4nnnnn**: Alpaca (NFR) |
+| 08:25 | **ElsaRolbox9**: Moon Rabbit | **V4ETH**: Pupcicle |
+| 08:25 | **GL0SSY4XIS**: Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR), Ride-A-Pet Potion ×2 | **ALV4RYTO**: Matcha Cat (MFR) |
+| 08:25 | **it_isMushu**: Candy Flare Mega Neon Paint | **zianagirls**: Rose Quartz Glow Mega Neon Paint |
+| 08:25 | **polina11562**: Fly-A-Pet Potion | **nona200986**: Samoyed (M) |
+| 08:25 | **Ksenka866**: Arctic Fox (R), Ram (NR), Firefly (NR), Hawk (N), Ride-A-Pet Potion ×4, Spring Bunny Feet | **lockefoo**: Turtle (FR) |
+| 08:25 | **ItsPixieplayzz0**: Candicorn (NR), Strawberry Hat, Puffer Fish | **TrapitaAlexa**: Rain Cloud Hat, Capybara (MR), Ride-A-Pet Potion ×2 |
+| 08:25 | **RownanHT26**: Turtle (FR) ×2, Ride-A-Pet Potion, Turtle (R) | **nnam2400**: Farm Egg |
+| 08:25 | **kdkejwjsjd**: Frost Unicorn (MFR), Puffin (MFR) | **ljwempire777**: Strawberry Penguin (MFR), Lion Cub (MFR), Red Dutch Guinea Pig (MFR), Vanilla Penguin (MFR), Chocolate Dutch Guinea Pig (MFR), Goth Shoes, Rain Boots |
+| 08:25 | **roronoazoro1gg**: Mrs. Whiskerpips (M) | **twixxiss1**: Fly-A-Pet Potion |
+| 08:25 | **ballerin0cappuccin02**: Giant Panda (FR) | **Reset26566741**: Mini Pig (FR), Goose, Alpaca (R), Bush Elephant (R), Munchkin Cat (N), Clover Cow (MR) |
+| 08:25 | **clalouetciedh**: Ancient Dragon ×16 | **ll_90dfhj**: Ride-A-Pet Potion |
+| 08:25 | **AliceAvokadi**: Pain au Chat, Orca, Ginger Cat, Pomeranian, Nurse Shark, River Otter, Blue Whale, Ice Cube, Zebra | **Constancee_Starr**: Ride-A-Pet Potion |
+| 08:25 | **DrinklngMilk**: Ride-A-Pet Potion ×3 | **loiol1004**: Priceless Shrimp, Clownfish (N), Water Moon Bear (N), Sabertooth (NR) |
+| 08:25 | **00099hh1**: Pig (FR) | **Leviodas**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 |
+| 08:25 | **hoschakaI**: Siamese Cat (MFR) ×2 | **lucaMT967**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
