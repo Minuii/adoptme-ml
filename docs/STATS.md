@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 03:40 UTC by the scrape workflow._
+_Updated 2026-11-23 03:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 03:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 28,459 | 2026-11-23T03:30 |
-| elve | 13 | 6,148 | 2026-11-23T03:31 |
+| amvgg | 13 | 28,701 | 2026-11-23T03:45 |
+| elve | 13 | 6,186 | 2026-11-23T03:46 |
 
-## AMVGG completed trades: 53,826 total
+## AMVGG completed trades: 53,829 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 589 |
+| 2026-11-23 | 592 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,9 @@ _Updated 2026-11-23 03:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:45 | **Ems090311**: Arctic Reindeer (FR), Sloth (R) | **aliir1875**: Arctic Reindeer |
+| 03:45 | **cxbvnniz**: Hare (MFR), Spring Bunny Hood ×2, Spring Bunny Feet ×2, 2022 Birthday Confetti Drape | **sugarbunn3i**: Candyfloss Chick (NFR) |
+| 03:45 | **BaconManBest128**: Gecko (MR) | **Jamestown1607_1699**: Matcha Cat |
 | 03:40 | **xXxjoongixXx**: Dango Penguins | **maybenanaosaki**: Ride-A-Pet Potion ×3 |
 | 03:40 | **QueenFrostChill2005**: Puffer Fish, Koi Carp | **playerbunbready**: Puffer Fish |
 | 03:40 | **0o0Username0o0**: Skunk (N) | **themilkeywayz**: Ride-A-Pet Potion |
@@ -50,9 +53,6 @@ _Updated 2026-11-23 03:40 UTC by the scrape workflow._
 | 03:40 | **Nighty_811**: Dalmatian (R), Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR) | **angelkittyyy444**: Frost Dragon (FR) |
 | 03:40 | **Panci_Terbang33**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **ii_aldrin20**: Nurse Shark (M), River Otter (M), Samoyed (M), Turtle Doves (M), 2026 Birthday Butterfly (M), Black Tiger (M), Caramelgeist (MR), Irish Setter (M), Patchy Bear (M), Aye Aye (M) ×2 |
 | 03:40 | **H0LLYSHAUL**: Owl | **KeimoKaiAlr**: Caterpillar (MFR) |
-| 03:40 | **Inganta07**: Ride-A-Pet Potion | **isopawedd**: Puffer Fish |
-| 03:40 | **lHisashi**: Aestus (FR), Kitsune (FR), Frog (R) | **lipton_milksh**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 03:36 | **Computerdude127**: Fly-A-Pet Potion | **chocolatebonnbonn**: Chicken |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
