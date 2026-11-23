@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 11:01 UTC by the scrape workflow._
+_Updated 2026-11-23 11:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 11:01 UTC by the scrape workflow._
 | amvgg | 13 | 35,452 | 2026-11-23T11:00 |
 | elve | 13 | 7,504 | 2026-11-23T11:01 |
 
-## AMVGG completed trades: 54,751 total
+## AMVGG completed trades: 54,789 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,514 |
+| 2026-11-23 | 1,552 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 11:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:00 | **youngmi363**: Fly-A-Pet Potion, Ride-A-Pet Potion, Ice Cube (N) | **KotMonster7**: Unicorn (N) |
-| 11:00 | **StankFart_Jr**: 2022 Birthday Party Horn | **frogie_948**: Spring Bunny Hood, Spring Bunny Nose ×2, Propeller Hat |
-| 11:00 | **luvdokyeomie**: Pupcicle, Oryx, Chocolate Labrador (M) | **Las_name7**: Ride-A-Pet Potion |
-| 11:00 | **cheymahouda**: Werewolf (FR) | **NathanPlayz83**: Frostbite Bear (R) |
-| 11:00 | **Star_Margarine9**: Turtle (FR), Count Slothula (N) ×2, Catte (N), Fly-A-Pet Potion | **pepapepa333**: Angel Wings |
-| 11:00 | **August0hey**: Crystal Egg ×2, Stray Cat Dragon | **Kseniatop4ik468586**: Christmas Pudding House |
-| 11:00 | **Pidilypops2nd**: Copycat, Glormy Leo, Chocolate Dutch Guinea Pig | **Derp10109**: English Sheepdog (N), Cow Calf (N), Great Pyrenees (N), Kappakid (N), Amami Rabbit |
-| 11:00 | **random_77667**: Candicorn (FR), Copycat | **nicekaykay0**: Frost Unicorn (R) |
-| 11:00 | **Vitamirka**: Kiwi Kiwi ×2 | **jokerako28**: Ride-A-Pet Potion |
-| 11:00 | **BosCaxapkovUWU2021**: Munchkin Cat | **dwzxwer**: Pig (R) |
-| 11:00 | **vanyagames_yt**: Frost Phoenix (MFR), Dango Penguins (MR), Evil Rock (MR), Snowball Pet (MFR), Happy Duckling (MR), Chipmunk (MR) | **BosCaxapkovUWU2021**: Shark Puppy (MFR) |
-| 11:00 | **Sweet_Butter1049**: Gold Mahi Mahi (N), Muskrat ×4 | **Kir4kaa**: Robot (N) |
-| 11:00 | **Msmsmsmsjmsmsm8**: Lamb (MFR), Silly Duck (MFR), Husky (MR), Flaming Fox (MFR) | **Lingling111206**: Irish Water Spaniel (MFR) |
-| 10:51 | **TheGodx555**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion | **youchi_nagi**: Cow (FR), Unicorn (MFR) ×2, Unicorn (NFR) |
-| 10:51 | **Vitamirka**: Chihuahua ×3 | **Spartik20**: Ride-A-Pet Potion |
+| 11:11 | **Tyyyyy_tyy1**: Picnic Basket | **ester3Eclipse**: Retired Egg ×12 |
+| 11:11 | **vgssXoxo3**: Cryptid (NR) | **VelicuDeea**: Cryptid (FR), Cryptid (R), Cherry-On-Top, Munchkin Cat (R) |
+| 11:11 | **CMETANKA30708**: Retired Egg ×18 | **kagurasgl0w**: Gemstone Egg |
+| 11:11 | **Vitamirka**: Kiwi Kiwi ×2 | **DwWsHZ_2003**: Ride-A-Pet Potion |
+| 11:11 | **XxlambadguyxX**: Gold Fairy Crown | **Xxyukixx84**: White Chef Hat |
+| 11:11 | **Kalasara0**: Christmas Pudding House ×6 | **Kir4kaa**: Ride-A-Pet Potion |
+| 11:11 | **Doshi_Wtapkax**: Matcha Cat (R) | **t88lmnc424**: Christmas Pudding Pup (FR) |
+| 11:11 | **Vitamirka**: Chihuahua ×3 | **cinamonroll_girls0**: Ride-A-Pet Potion |
+| 11:11 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **KyraPidgorn**: Cerberus (FR) |
+| 11:11 | **Ggoggeggu**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×9, Caelum Cervi (R) | **Vitek_228666**: Peppermint Penguin (R) |
+| 11:11 | **Frog_min8**: Turtle (R) ×2, Elephant (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
+| 11:11 | **janluvxne**: Cabbit (R) | **Lazyymimi**: Siamese Cat (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Cattuccino (N) |
+| 11:11 | **Saji_Ls**: Turtle (FR) ×2, Kangaroo (FR) | **Vitek_228666**: Strawberry Shortcake Bat Dragon (FR) |
+| 11:11 | **2019khwjueg**: Parrot (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **abdoosaad**: Crow (NFR) |
+| 11:11 | **eventHorizonas**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×9 | **safiqa99**: Turtle (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
