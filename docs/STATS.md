@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 01:46 UTC by the scrape workflow._
+_Updated 2026-11-23 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 01:46 UTC by the scrape workflow._
 | amvgg | 13 | 26,710 | 2026-11-23T01:45 |
 | elve | 13 | 5,796 | 2026-11-23T01:46 |
 
-## AMVGG completed trades: 53,584 total
+## AMVGG completed trades: 53,596 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 347 |
+| 2026-11-23 | 359 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 01:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:55 | **1Raat**: Bat (MFR), Pupcake (N) | **Ebanko_rblx**: Chihuahua ×13 |
+| 01:55 | **KayleeSt0rm147**: Frost Fury (FR), Christmas Pudding Pup, Kitty Biscuit | **Miner_Beast34**: Border Collie |
+| 01:55 | **lovinme_arii**: Cabbit (MFR) | **Altacct3_3**: African Wild Dog (FR), Owlbear (MFR), 2022 Birthday Party Hat, Rainbow Maker, Rain Cloud Hat |
+| 01:55 | **youngdreamer76**: Fairy Bat Dragon (FR), Arctic Reindeer (NFR) | **kokogomg**: Strawberry Shortcake Bat Dragon (NFR), Arctic Fox (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 01:55 | **AmberChiChii**: Wailing Mr. Whiskerpips Sticker | **Galapogus7**: Jimothy ×3 |
+| 01:55 | **YOKOZ303**: Ride-A-Pet Potion ×9 | **1Biahsz_altx**: Fly-A-Pet Potion ×5 |
+| 01:55 | **cxbvnniz**: Tio De Nadal (FR) | **JuicyPorkBelly**: Kangaroo (FR) |
+| 01:55 | **jam0khurt**: Ride-A-Pet Potion ×4, Pet Handler Pro Certificate | **JEROMENPI_1**: Sheeeeep (R) |
+| 01:55 | **Harrywoods54321**: Matcha Cat, Chocolate Dutch Guinea Pig, Fly-A-Pet Potion, Cattuccino (N), Peahen, Peachick, White Amazon, Momma Moose, Snowy Mammoth | **Tates1ush**: Red Squirrel (MFR) |
+| 01:51 | **renjdudjdjjd**: Cuddly Candle | **RandomHuman_ll**: 2x Bucks Potion ×2 |
+| 01:51 | **1Biahsz_altx**: Fly-A-Pet Potion | **elifanaekinci**: Violet Friend (M) ×2 |
+| 01:51 | **ThisGuyWorks**: Frost Dragon (FR), Ice Cream Cone Hat | **kddjose**: Silverback Gorilla (MFR) ×2 |
 | 01:45 | **mawifa123**: Albino Monkey (FR) | **Flux_puck**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×6 |
 | 01:45 | **2000sidol**: Frost Fury (R) | **unicornsun_BD2**: Frost Fury |
 | 01:45 | **Panci_Terbang33**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **Kipperlekangaroo**: Puffer Fish (N) ×3, Toy Poodle (N) |
-| 01:45 | **Lololoska1258**: Peppermint Penguin (FR) | **rxy3e**: Spring Bunny Nose, Fairy Bat Dragon (FR), Fly-A-Pet Potion |
-| 01:45 | **Addisonraeee25**: Chocolate Chip Bat Dragon (R), Haetyphoon, Ballet Swan (NFR) | **goodqueenp**: Copycat (MFR) |
-| 01:45 | **LEODAGOATT710**: Leviathan (NFR) | **metanight3d**: Tiny Wings |
-| 01:45 | **malinaaa489**: Hedgehog (FR) | **queenbella2626**: Cryptid (FR) |
-| 01:45 | **4ngelicCanibal**: Fly-A-Pet Potion | **stoIencorpses**: Kaijunior (M), Snapdragon Flower |
-| 01:45 | **karoltherobloxian109**: Retired Egg ×3 | **Cnewok121**: Purrowl |
-| 01:45 | **TurningToYou**: Ride-A-Pet Potion ×2 | **ChevelleIsLord**: Stitches (M) |
-| 01:45 | **i97thig**: Ride-A-Pet Potion | **soisomin**: Vanilla Penguin |
-| 01:45 | **whannahbeyours98**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR), Dalmatian (R), Candyfloss Chick (FR) | **RXL_017**: Giraffe (FR) |
-| 01:45 | **BREEZY_LOVER1**: Jester Dragon, Rhino | **12emanuel07**: Copycat |
-| 01:45 | **LostKeksik**: Ride-A-Pet Potion | **jellofox2009**: Paint Sealer ×13 |
-| 01:45 | **puchainela77**: Fly-A-Pet Potion | **ghostqsinz**: Wood Pigeon |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
