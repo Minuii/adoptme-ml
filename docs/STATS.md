@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 06:25 UTC by the scrape workflow._
+_Updated 2026-11-23 06:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 06:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 31,051 | 2026-11-23T06:15 |
-| elve | 13 | 6,552 | 2026-11-23T06:15 |
+| amvgg | 13 | 31,282 | 2026-11-23T06:30 |
+| elve | 13 | 6,603 | 2026-11-23T06:31 |
 
-## AMVGG completed trades: 54,170 total
+## AMVGG completed trades: 54,179 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 933 |
+| 2026-11-23 | 942 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 06:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:30 | **BUS5ED**: Pupcicle, Rain Hat | **asmornn**: Golden Hamster (R) |
+| 06:30 | **popadastr000**: Ox (NFR) | **BUS5ED**: Ride-A-Pet Potion |
+| 06:30 | **devansayank**: Ocelot (NR), Chocolate Labrador (NR) | **BUS5ED**: Ride-A-Pet Potion |
+| 06:30 | **Lolhaha456789**: Rubber Ducky (MFR), Golden Dragon | **raeshiia**: Ride-A-Pet Potion |
+| 06:30 | **Babyofy5**: Snow Monkey | **LyraFusion**: Sloth ×3, Halloween Evil Dachshund ×3 |
+| 06:30 | **Monkeys_fly777**: Arctic Reindeer (FR) | **Bleustar36746**: Cow (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 06:30 | **martins10530**: Ride-A-Pet Potion ×16 | **TMDung20**: Candicorn |
+| 06:30 | **Yourlocalpotato012**: Cow (FR) ×2, Fairy Bat Dragon (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **RownanHT26**: Hedgehog (R) |
+| 06:30 | **hello_oliya**: Bunny Carriage, Ride-A-Pet Potion, Butter Knife | **cookies_fernanda**: Toaster Hat |
 | 06:20 | **ruryrhsxgryuf**: Jester Dragon (FR), Phantom Dragon (R) | **Yamajyjopyvazelinov1**: Munchkin Cat |
 | 06:20 | **DefinitelyNotCha6**: Sock Chew Toy, Snowball Launcher, Reindeer Plush, Polar Bear Plush, Marsh Plush, Heart Balloon, Gift Throw Toy, Elf Plush, Creepy Balloon, Cookie Dough Plush ×3, Candle ×2, Banana Plush | **stoIencorpses**: Fly-A-Pet Potion |
 | 06:20 | **rinconbrandon2012**: Cabbit (R) | **ProMysticWraith**: Border Collie, Elephant (R) |
 | 06:20 | **Zacawetomaia**: Kakapo (M), California Condor (M) | **lalagirlhehe8**: Ermine (N) |
 | 06:20 | **D3vi1zone**: Arctic Reindeer (FR), Fairy Bat Dragon (FR) | **jsspiscis_2802**: Evil Unicorn (FR) |
 | 06:20 | **jsspiscis_2802**: Frost Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ooohhff85**: Owl (FR), Chocolate Chip Bat Dragon (FR) |
-| 06:20 | **cyptiaI**: Bready Necklace | **silencer282**: Fly-A-Pet Potion |
-| 06:20 | **kxil_008**: Grim Dragon (FR) | **silencer282**: Fly-A-Pet Potion ×15 |
-| 06:20 | **yu6iio**: Goat (NR) | **fizzyyxz**: Silly Duck (MFR), Harp Seal |
-| 06:20 | **Sirswagalishsus**: Mermicorn, Border Collie (R), Slimingo (M), Goat (R), Jester Dragon (FR), Alicorn (MFR), Dancing Dragon (FR), Cerberus (R) | **ambervgils**: Strawberry Shortcake Bat Dragon (FR) |
-| 06:20 | **draike_tzu8262**: Koi Carp | **S24k_lanae**: Retired Egg ×18 |
-| 06:20 | **Flux_puck**: Turtle (FR), 2022 Birthday Party Horn | **sprxngbonnie**: Cow (FR) |
-| 06:20 | **Ilovebordercollie129**: Werewolf (R) | **dhryeu1234**: Velocirooster (NFR) |
-| 06:20 | **Vexspera**: Velocirooster (NFR) | **dhryeu1234**: Haetyphoon (FR) |
-| 06:20 | **hzmimii**: Ride-A-Pet Potion ×2 | **sandyneapolitancat**: Stray Cat Dragon (M) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
