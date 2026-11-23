@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 04:25 UTC by the scrape workflow._
+_Updated 2026-11-23 04:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 04:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 29,187 | 2026-11-23T04:15 |
-| elve | 13 | 6,269 | 2026-11-23T04:15 |
+| amvgg | 13 | 29,448 | 2026-11-23T04:30 |
+| elve | 13 | 6,314 | 2026-11-23T04:31 |
 
-## AMVGG completed trades: 53,919 total
+## AMVGG completed trades: 53,934 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 682 |
+| 2026-11-23 | 697 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 04:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:20 | **lollucio251**: Fly-A-Pet Potion ×17 | **bolzani001111**: Flash Weasel (N) |
-| 04:20 | **mia67673**: African Wild Dog (FR), Munchkin Cat | **mychemgeek**: Giant Panda (FR) |
-| 04:20 | **cherry_blast2**: Pet Handler Pro Certificate | **HamFam1090**: Glormy Hound |
-| 04:20 | **Lila_Chanbibi**: Cow (FR) ×2, Siamese Cat (R), Siamese Cat, Ice Cream Cone Hat, Ride-A-Pet Potion ×3 | **copyvoting**: Peppermint Penguin (NFR) |
-| 04:20 | **Maruchita_com**: German Shepherd, Drake | **unicornfartzlolzz**: Pet Handler Pro Certificate |
-| 04:20 | **gucciflipflop5162**: Shrew (MFR), Shrew (NFR), Turtle (FR), Candicorn | **lakkalexis1237**: Balloon Unicorn (FR) |
-| 04:20 | **Reya426**: Alley Cat, Harp Seal (N), Great Pyrenees (N), Chihuahua (MFR), Dragonfruit Fox (R), Amami Rabbit (N), Bunny Swirl (NR) | **Astra_nov**: Cabbit (R) |
-| 04:20 | **Cool_Evka77**: Tio De Nadal ×2 | **xXfayridreamXx**: Goose (FR) |
-| 04:20 | **Cutesy_BEONCEY**: Goose (R), Bat Wings, Halloween White Skull Hat | **p_awth**: SSBD Beanie |
-| 04:20 | **Whonayou12**: Giant Panda (FR), Fly-A-Pet Potion ×11 | **b31ens**: Parrot (FR) |
-| 04:20 | **shyb_0yalt**: Gilded Snake | **PerritoBobu**: Purrowl ×2, California Condor ×2, Pinkypillar, Rubber Ducky, Ant ×2, Fairytale Egg ×10 |
-| 04:20 | **luvly_xio**: Drake (R) | **Kirill123Valiev**: Ride-A-Pet Potion |
-| 04:20 | **thegiddys14**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **U_U7n7**: Lynx (MFR) |
-| 04:20 | **milanolover0**: Puffer Fish (MFR), Lynx (MR) | **U_U7n7**: Glormy Hound (MFR) |
-| 04:20 | **Whitemen5323**: Cryptid (FR) | **Bekon_MuilfaMeow**: Evil Unicorn (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 04:30 | **22Emerson3**: Bat Dragon (NFR), Halloween Black Axe Guitar Accessory, Thinking Hat, Black Hightops, Street Drifter, Douglas, Axel | **Jorfan90**: Bat Dragon (FR), Giraffe (FR), Frost Dragon (NFR), Cryptid (N) |
+| 04:30 | **DefinitelyNotCha6**: T-Rex, Albino Bat, Black Macaque, Frog ×2, Halloween White Skeleton Dog ×2, Penguin, Pretty Pony, Snowball Pet, Yeti, Castle Hermit Crab, Leopard Cat ×2, Leopard Shark, Tarsier, Camel (MR), Wolf | **Panci_Terbang33**: Fly-A-Pet Potion ×5 |
+| 04:30 | **sct_sct1999**: Bobageist (N), Corgi (N), Grinmoire (N), Pangolin (N), Boohoo (N), Shiba Inu (N) | **Ridingpro657**: Ride-A-Pet Potion |
+| 04:30 | **Thecupofkindness**: Boohoo (M) | **Ridingpro657**: Ride-A-Pet Potion |
+| 04:30 | **nikiph9w**: Giant Panda (NFR), Cow (FR) | **kathlike82210**: Strawberry Shortcake Bat Dragon (NFR) ×2, Fairy Bat Dragon (NFR), Balloon Unicorn (FR), Evil Unicorn (FR) |
+| 04:30 | **LeonardoEC14**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **Bautista123456890**: Cow (FR) ×2 |
+| 04:30 | **volkodav0069**: Harp Seal (NFR), Pancake Stack, Bready Necklace | **Player2012_Kapa**: Munchkin Cat (R) |
+| 04:30 | **knorwiq**: Pig (FR) | **ELVEAMVGGTRADER890**: Chihuahua (MR), Ride-A-Pet Potion |
+| 04:30 | **knorwiq**: Chihuahua (MR), Ride-A-Pet Potion | **kxrina_oficeal**: Shark Puppy |
+| 04:30 | **sickgirl074**: Goose (R), Mini Pig (FR), Cabbit, Hot Doggo (R), Great Pyrenees (MR), Dango Penguins (N) | **adoptmegolden93**: Balloon Unicorn (FR) |
+| 04:30 | **madurra012**: Kirin ×2, Gila Monster, Purrowl, Dragonfly, Blue Whale, Sandbox Island, Catapult Stroller, Rotating Periscope, Knitted Pumpkin Hat, Cocoadile Sticker, Sunrise Duckling Sticker, Phantom Dragon Sticker, Christmas Dog Sticker, Skele-Rex Sticker | **El_t1ntero**: Unicorn |
+| 04:30 | **1ovIIy**: Chihuahua ×2 | **BREEZY_LOVER1**: Ride-A-Pet Potion |
+| 04:30 | **personal_stalker69**: Fly-A-Pet Potion ×2, Peahen (NR), Pig (R), Ride-A-Pet Potion ×2 | **AsmioTakeW**: Siamese Cat |
+| 04:30 | **rottingroyaltyyy**: Praying Mantis, Grave Owl, Pink Betta Fish, Skunk, Malaysian Tapir, Toxic Kaijunior | **AsmioTakeW**: Ride-A-Pet Potion |
+| 04:30 | **Tree092109**: Ride-A-Pet Potion | **XxMyDilaxKocoboKaRxX**: Panda |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
