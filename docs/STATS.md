@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 12:01 UTC by the scrape workflow._
+_Updated 2026-11-23 12:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 12:01 UTC by the scrape workflow._
 | amvgg | 13 | 36,354 | 2026-11-23T12:00 |
 | elve | 13 | 7,710 | 2026-11-23T12:01 |
 
-## AMVGG completed trades: 54,948 total
+## AMVGG completed trades: 54,959 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,711 |
+| 2026-11-23 | 1,722 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:11 | **Inganta07**: Fly-A-Pet Potion | **Olesya5885**: Yule Log Dog |
+| 12:11 | **Lem0n_org**: Pet Handler Pro Certificate | **Olesya5885**: Unicorn ×2 |
+| 12:11 | **Galapogus7**: Munchkin Cat, Pet Handler Pro Certificate ×4 | **4qvssz**: Kangaroo (FR) |
+| 12:11 | **ameyyass**: Pupcicle ×2 | **toxicasfb**: Ride-A-Pet Potion |
+| 12:11 | **Vitamirka**: Fly-A-Pet Potion, Admin Abuse Egg ×6, Purrowl, Three Blind Mice | **Sove_1111**: Ride-A-Pet Potion ×2 |
+| 12:11 | **dorthew**: Christmas Pudding House | **miccairns162**: Pangolin ×2 |
+| 12:06 | **RownanHT26**: Border Collie (NFR), Ride-A-Pet Potion | **UnknownRace1332**: Turtle (NFR) |
+| 12:06 | **XxlambadguyxX**: Nessie | **Snow_Girl123678**: Ride-A-Pet Potion ×5 |
+| 12:06 | **Avi_ator12**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×8 | **Vitek_228666**: Turtle (R) |
+| 12:06 | **Avi_ator12**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×8 | **Vitek_228666**: Turtle (R) |
+| 12:06 | **obvmelwi**: Chocolate Chip Bat Dragon (NFR) | **999Luzy**: Meerkat (MFR), Strawberry Shortcake Bat Dragon (FR), Santa Hat, Elf Hat ×2, Fly-A-Pet Potion, Bauble Buddies (M), Cotton Candy Hat |
 | 12:00 | **Eliplazroblox800**: Retired Egg ×15 | **dizeri_sak**: Chihuahua |
 | 12:00 | **XxMonty18xX**: Pet Handler Pro Certificate | **Mimiiixq0**: Ride-A-Pet Potion ×2 |
 | 12:00 | **liofe1**: Rainbow Stroller | **St_locki1**: Ride-A-Pet Potion |
 | 12:00 | **Son5chka753**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×10, Red Squirrel | **Avi_ator12**: Turtle (R) |
-| 12:00 | **FFGYHSFFH**: Pig (FR), Ride-A-Pet Potion ×2, Starfish (R), Hoverboard | **KADJDIS**: Crocodile (R) |
-| 12:00 | **HET3AKOHAM**: Fly-A-Pet Potion ×6 | **Finek357**: Ride-A-Pet Potion ×11 |
-| 12:00 | **kakasha_156**: Drake (R), Dragonfruit Fox | **anekalubitnaruto**: Rose Dragon |
-| 12:00 | **Roblo_mmm**: Bready Necklace, Pancake Stack, Butter Knife ×2, White Chef Hat, Ride-A-Pet Potion ×3, Spring Bunny Hood, Burger Boots | **DJ_4348**: Rain Cloud Hat |
-| 12:00 | **mellqxxrb**: Mummy Spider (N), Ocelot (N), Pandaguin Glooptodog (N), Zebra (N), Black Tiger (N), Budgie Witch (N), Mahi Mahi (N) ×2 | **herb23012**: Ride-A-Pet Potion |
-| 12:00 | **Svniqla**: Fly-A-Pet Potion | **adoptmexx626**: Stitches (N) |
-| 12:00 | **KoshkkaFurry**: Ostrich (N), Ride-A-Pet Potion, Royal Fairytale Egg | **NayeonEatsBricksAlt**: Pupcicle (NR) |
-| 12:00 | **orangebackup3**: Seahorse (NR) | **Sofyasha_Rbx523**: Cattuccino (N) |
-| 12:00 | **xmikaeq**: Rainbow Maker ×2, 2022 Birthday Party Horn, Groundhog | **x7qir**: Siamese Cat (MFR) |
-| 12:00 | **DragonBaconeBoss1**: Mermicorn (NFR), Goat (NFR), Sugar Glider (FR), Sugar Glider (R), Turtle (FR), Meerkat (NFR), Chocolate Dutch Guinea Pig | **leruval**: Owl (FR) |
-| 12:00 | **princess_pizzanice**: Ice Cream Cone Hat, Ballet Swan, Glormy Dolphin (M) | **agusha_lol90**: Kangaroo (R) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
