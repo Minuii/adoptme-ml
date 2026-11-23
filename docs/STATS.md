@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 13:31 UTC by the scrape workflow._
+_Updated 2026-11-23 13:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 13:31 UTC by the scrape workflow._
 | amvgg | 13 | 37,800 | 2026-11-23T13:30 |
 | elve | 13 | 8,003 | 2026-11-23T13:31 |
 
-## AMVGG completed trades: 55,231 total
+## AMVGG completed trades: 55,286 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,994 |
+| 2026-11-23 | 2,049 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:30 | **Angel_020601**: Ride-A-Pet Potion | **ameyyass**: Pupcicle ×2 |
-| 13:30 | **Ilovedarya35**: Cerberus (NFR) | **Yupiterd**: Ride-A-Pet Potion ×6 |
-| 13:30 | **Gglecyl0**: Fly-A-Pet Potion ×3 | **zzzlavs**: Unicorn (NFR) |
-| 13:30 | **DefinitelyNotCha6**: Modern Mansion | **adorbsX_Conney**: Ride-A-Pet Potion |
-| 13:30 | **ROBLOXBLUECUP**: Copycat, Purrowl, Monkey | **jimni13300**: Ride-A-Pet Potion ×5 |
-| 13:30 | **DefinitelyNotCha6**: Pumpkin Rattle ×2, Discosplosion ×2, Crossbow Grappling Hook ×2, Unicorn Leash, Magic House Door ×2, Phoenix Plush, Chick Plush, Creator Rattle (NewFissy), Egg Rattle, Bunny Plush, Easter Bunny Plush, Hotdog Stand ×2, Lemonade Stand | **stoIencorpses**: Fly-A-Pet Potion ×4 |
-| 13:30 | **Lumina20265**: Ride-A-Pet Potion ×2 | **Cooking1626**: Bunny Swirl (N) |
-| 13:30 | **nika_lovee12**: Goose (R), Turtle (FR), Arctic Fox (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Banana Hat | **NaJaemin120**: Candyfloss Chick (NFR) |
-| 13:30 | **POTATOEZRgods**: Dalmatian (R), Hedgehog, Arctic Reindeer (FR), Cabbit (NFR), Yule Log Dog (MFR), Mini Pig (R), Alpaca (R), Siamese Cat (FR), Candicorn ×2, Ring-Tailed Lemur (N), Turtle (FR), Munchkin Cat ×4 | **LoriDreamy123**: Shadow Dragon (FR) |
-| 13:30 | **liofe1**: Ride-A-Pet Potion ×7, Fly-A-Pet Potion | **mommy_vka123**: Arctic Fox (FR) |
-| 13:30 | **meowwheart**: Hippo, Clover Cow, Praying Mantis | **EmiliOnlyMyy**: Ride-A-Pet Potion |
-| 13:30 | **kecoze**: Pig (R) | **Xxxxashhhh**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 13:30 | **disapp6ar**: Purple Butterfly (MFR) | **Boxx172**: Lava Dragon (MFR) |
-| 13:30 | **Avi_ator12**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×2 | **VON_200977**: Turtle (FR) |
-| 13:30 | **Thresh_1234**: Fly-A-Pet Potion, Diamond Griffin, Zodiac Minion Chick | **JoJo818299**: Millionaire Mansion |
+| 13:41 | **mnam2ciacho**: Electric Hornet, Dragonfly, Red Panda ×2, Shoebill, Starfish, Icy Porcupine, Stitches, Happy Duckling, Ms. Muffet, Ox Box | **dasha_123qwr**: Ride-A-Pet Potion |
+| 13:41 | **KeineAhnungvonnix1**: Latte Kitsune (MFR) | **Backup_accout146**: Dragonfruit Fox (MFR) |
+| 13:41 | **Belle_love888**: Festive Antlers, Woodpecker | **BR4Y4N1027**: Mr. Whiskerpips |
+| 13:41 | **itsliwww**: Bush Elephant (FR) | **Bigback_ruki**: Candicorn (FR) |
+| 13:41 | **starswirl_64**: Koi Carp ×4 | **12Maickel**: Ride-A-Pet Potion |
+| 13:41 | **gerl708090**: Pain au Chat ×5 | **noor_san0**: Fly-A-Pet Potion |
+| 13:41 | **Danila121219**: Frost Fury (FR) | **tatatataaaa89**: Ride-A-Pet Potion ×6 |
+| 13:41 | **Ayayayyasab**: Arctic Reindeer (FR), Ride-A-Pet Potion ×2 | **maryamcin**: Owlbear (MFR) |
+| 13:41 | **0FF_L1MIT**: Shadow Dragon (NFR), Fairy Bat Dragon (NFR), Crocodile (FR) | **17Nexz**: Bat Dragon (FR), Giraffe (FR) |
+| 13:41 | **Frits_Snoek**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **nikysha009**: Jester Dragon (FR) |
+| 13:41 | **guillemoran**: Owl (FR) ×2, Crow (FR) | **kwnaw00**: Shadow Dragon (FR) |
+| 13:41 | **kelsey_1815**: Ride-A-Pet Potion ×2 | **tisha_sally**: Pain au Chat ×2, Kiwi Kiwi ×2 |
+| 13:41 | **chelseacarol1ne**: Shiba Inu (NFR), Chameleon, Villain Gibbon, White Amazon, Ride-A-Pet Potion, Amber Butterfly (N), Snorgle (N), Stingray (N), Hydra (NR) | **megafandetanjiro345**: Copycat |
+| 13:41 | **notmain12_q**: Border Collie (MFR), Alpaca (R), Caterpillar (R) | **Kristyjunio_r**: Crow (FR), Rainbow Maker, Spring Bunny Hood |
+| 13:41 | **BUS5ED**: Glider ×2, Elf Hat | **mildredhouse**: Jester Dragon (FR), Chairlift |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
