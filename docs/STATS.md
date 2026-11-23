@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-23 23:11 UTC by the scrape workflow._
+_Updated 2026-11-23 23:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 22 | 2026-11-11T1036Z | 2026-11-23T0115Z |
-| amvgg | 65 | 2026-11-11T1036Z | 2026-11-23T1715Z |
+| amvgg | 66 | 2026-11-11T1036Z | 2026-11-23T2316Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 47,155 | 2026-11-23T23:00 |
-| elve | 13 | 10,051 | 2026-11-23T23:01 |
+| amvgg | 13 | 47,379 | 2026-11-23T23:15 |
+| elve | 13 | 10,074 | 2026-11-23T23:15 |
 
-## AMVGG completed trades: 57,541 total
+## AMVGG completed trades: 57,551 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 4,304 |
+| 2026-11-23 | 4,314 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 23:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:15 | **00iAngell**: Cow (FR), Kangaroo (R), Ride-A-Pet Potion ×3 | **syvanahprim**: Dango Penguins (MFR) |
+| 23:15 | **krxadm3**: Crystal Egg ×17 | **Crims0n_Dusk**: Ride-A-Pet Potion |
+| 23:15 | **SVS_88888**: Ride-A-Pet Potion ×5 | **lacandon1235**: Groundhog |
+| 23:15 | **Max_C0r3**: Goose, Sweetheart Rat | **ysaazik_0**: Peppermint Penguin (FR) |
+| 23:15 | **Kayorilate**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Turtle (R) | **Waysrrsd**: Siamese Cat, Munchkin Cat (R) |
+| 23:15 | **cutesyghali**: Giant Anteater (MFR), Bush Elephant (MFR), Tiny Wings | **thekingoatttttt**: Fairy Bat Dragon (MFR), Dango Penguins (MFR), Ice Cream Hermit Crab (MFR), Flaming Fox (MFR), Unicorn Horn |
+| 23:15 | **quVare_PDF**: Lunar New Year Shoes | **adoptmetrading1543**: Ride-A-Pet Potion |
+| 23:15 | **URDAILY_D1VINE**: Cow, Turtle (FR), Copycat, Jester Dragon, Unicorn (FR), Kitty Bat (NR), Moose Calf (NR), Chihuahua (MR), Pig (NF), Pig, Ice Cream Cone Hat, Crocodile, Turkey, Moon Rabbit (N), Silly Duck, Flamingo, Rose Dragon, Arctic Fox (R) | **Nastya_Mihalyk**: Parrot (FR) |
+| 23:15 | **Leon555s5**: Candicorn, Polar Bear (R) | **raraa_cute61**: Frost Unicorn (FR) |
+| 23:15 | **ghxzstt4ales**: Albino Monkey (MFR), Hyena (NR) | **Tizzyzxh**: Crow (FR), Undead Jousting Horse (FR) |
 | 23:11 | **AMVGGACCINFOLLOWING**: Moose Calf (N), Matcha Cat, Catte | **Jckiezzalttt**: Unicorn Horn |
 | 23:11 | **Vicky_200804**: Lavender Dragon (MFR) | **LMAAAA61**: Candy Hare (MFR) |
 | 23:11 | **dutiewx**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×7 | **TYTkuza2**: Kangaroo (R) |
 | 23:11 | **dairymilk_111**: Albino Monkey (FR), French Bulldog | **raraa_cute61**: Candicorn |
 | 23:11 | **gag_gaag**: Bush Elephant (MFR), Pink Cat (R) | **MarcusTradesAMVGG**: Ballet Swan (M), Strawberry Shortcake Bat Dragon (FR), Dalmatian (FR) |
-| 23:11 | **xMoon_289**: Stray Cat Dragon, Kelp Crewmate ×2, Ginger Cat, Orca ×2, Pomeranian ×2, Toucan, Thunderfisher, Mole ×3, Black-Footed Ferret, Pangolin ×2, Tan Chow-Chow, Snowy Mammoth | **aleonio_ses**: Ride-A-Pet Potion |
-| 23:11 | **AlastorDanger**: Haetyphoon, Space Fleet House | **rlx20x**: Slimingo (MR) |
-| 23:11 | **tocino_chocolate**: Rainbow Trout (M), Fire Stallion (N), Black Marlin | **MakiraLive**: Ride-A-Pet Potion |
-| 23:11 | **wavehrt**: Sugar Glider (FR) ×3 | **callme_star13**: Cryptid (FR) |
-| 23:11 | **sweetie_pi48**: Sunglider (MFR), Punk Pony | **Irislikesyoufr**: Castle Hermit Crab (MR) |
-| 23:11 | **RobloxDevolober**: Frostbite Bear (FR), Ride-A-Pet Potion ×4, Flying Fairy | **welove_deborah**: Strawberry Tortle |
-| 23:11 | **dfyuisdhfyusdavgbyhu**: Owl (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3 | **laceylovesmaccies**: Arctic Reindeer (NFR), Candyfloss Chick (NFR) |
-| 23:11 | **iloveitqww**: Cow (NFR), Ride-A-Pet Potion, Pupcicle (N) | **QueenVfFlamec91**: Arctic Reindeer (FR) |
-| 23:11 | **NebulastHyperftVenat**: Frost Dragon (FR) | **12kyanni12k**: Bush Elephant (MFR), Arctic Fox, Pig (R), Dancing Dragon (FR), Dancing Dragon (F), Meerkat, Fly-A-Pet Potion, Coconut Friend (MFR) |
-| 23:11 | **q_culvs**: Giant Anteater (MFR) | **Lingling111206**: Harp Seal (MFR), Peach Owl (MFR), English Sheepdog (MFR), Moose Calf (MFR), Pain au Chat (MFR), Blue Ringed Octopus (MFR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
