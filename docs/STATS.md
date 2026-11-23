@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 20:11 UTC by the scrape workflow._
+_Updated 2026-11-23 20:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 20:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 44,136 | 2026-11-23T20:00 |
-| elve | 13 | 9,434 | 2026-11-23T20:01 |
+| amvgg | 13 | 44,388 | 2026-11-23T20:15 |
+| elve | 13 | 9,464 | 2026-11-23T20:15 |
 
-## AMVGG completed trades: 56,904 total
+## AMVGG completed trades: 56,926 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,667 |
+| 2026-11-23 | 3,689 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 20:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:11 | **trashy_plays123**: Water Moon Bear (M), Kirin (MFR), Koi Carp (N) ×2, Ghost Dog, Binturong, Zombie Wolf | **gabrielcore123**: Cozy Cabin |
-| 20:11 | **AlexArtEllasisi**: 2026 Birthday Butterfly (MR) | **Sofixiskiller**: Pain au Chat ×2 |
-| 20:11 | **darina_2011m**: Candicorn (R), Turtle (FR) | **wherearewenow5**: Candicorn (NR) |
-| 20:11 | **z1_u1**: Goose (MFR) | **meowqi_08**: Royal Mistletroll (MFR) |
-| 20:11 | **karoltherobloxian109**: Catte (N) | **therealkayt67**: Unicorn (N) |
-| 20:11 | **Traderieeeeeeeee1**: Retired Egg ×18 | **Lilit_rbx7**: Cherry Blossom Flower Sticker ×18 |
-| 20:11 | **milkoh14**: Goose (FR), Ride-A-Pet Potion ×4, Huntsman Robin, Puppeteer Hand | **HuGe_123cAt**: Fairy Bat Dragon (FR), Arctic Fox (R), Fly-A-Pet Potion ×2 |
-| 20:11 | **ramos_49**: Chihuahua (M) | **ashjvw**: Swan (NFR) |
-| 20:11 | **fayesweet13**: Ride-A-Pet Potion, Fly-A-Pet Potion | **M4ngle_gob1tes**: Kitsune (NFR) |
-| 20:11 | **gag_gaag**: Nessie (MFR), Goose (FR), Hot Doggo (R), Fairy Bat Dragon (FR), Pig (NFR), 2022 Birthday Party Horn | **Soy7xol**: Frostbite Bear (MFR) |
-| 20:11 | **IitIbuny**: Forest Sprite (M) | **fyffddt5**: Cocoadile (M) |
-| 20:11 | **skyblxex**: Goldhorn (NFR), Caramelgeist (N), Tree Frog (N) | **Pineapple_GirlXDD**: Fly-A-Pet Potion ×3 |
-| 20:11 | **phisho7is**: Fly-A-Pet Potion, Ride-A-Pet Potion ×9 | **Zlota_Sofa**: Amami Rabbit (MR) |
-| 20:11 | **leidydamelike**: Strawberry Shortcake Bat Dragon (FR), Winged Horse | **Sharking_off**: Goose (FR), Cow (FR) |
-| 20:11 | **By_millsjos**: Fly-A-Pet Potion ×8, Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×4 | **Angelbatista_me2**: Strawberry Tortle |
+| 20:15 | **stirch896**: Peach Owl (N) | **Hugchamb**: Ride-A-Pet Potion ×3 |
+| 20:15 | **cleontje12**: Turtle (FR) | **Soso4ka004**: Mermicorn (R) |
+| 20:15 | **VICTOR_AV01**: Phantom Dragon (M) | **LUCASV4MPS**: Chocolate Chip Bat Dragon (FR), Green Butterfly (NR), Ginger Cat (MFR) |
+| 20:15 | **Larisa_DiecooleSocke**: Nessie (FR), Lion Cub (R), Harp Seal (NR) | **stark_1025**: Owlbear (NFR) |
+| 20:15 | **elproXD_7v7**: Pain au Chat ×3 | **luna2028192**: Ride-A-Pet Potion |
+| 20:15 | **Alana2K201**: Pet Handler Pro Certificate | **Ribbeth_2**: Catte ×2 |
+| 20:15 | **RACHGL4MXO**: Red Dutch Guinea Pig (MFR), Husky (MFR), Harp Seal (MFR), Banana Hat, Butter Knife, Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Castle Hermit Crab (MFR) | **athena_cheka**: Balloon Unicorn (R) |
+| 20:15 | **Lucifer_Kotik4**: Crocodile (R), Alley Cat (R), Cake Friend (N) | **coolgamergirl0091**: Bush Elephant (FR) |
+| 20:15 | **iqitotoru**: Dodo (NFR) | **Vlakuu**: Ride-A-Pet Potion ×5 |
+| 20:15 | **elproXD_7v7**: Chihuahua ×9 | **Vadjik12**: Ride-A-Pet Potion ×3 |
+| 20:15 | **AnaSophia3445**: Dango Penguins, Sushi Penguin | **Munchkin_Catlover6**: Unicorn (N) |
+| 20:15 | **xx_sunny2003**: Border Collie (NFR) | **sweetang4ll**: Goose, 2022 Birthday Party Horn, Great Pyrenees (N) |
+| 20:15 | **xx_sunny2003**: Spring Bunny Nose, Rock (M) | **blvvyiiskiies**: Ice Cream Cone Hat |
+| 20:15 | **Game_Girlssx**: Crow (FR), Chocolate Chip Bat Dragon (FR), Arctic Fox | **loumiku**: Cryptid (NFR) |
+| 20:15 | **AvokadoJFKfanat**: Shark Puppy (MFR), Wild Boar (MR) | **paulvibesss**: Crow (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
