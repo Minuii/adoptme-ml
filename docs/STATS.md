@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 15:31 UTC by the scrape workflow._
+_Updated 2026-11-23 15:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 15:31 UTC by the scrape workflow._
 | amvgg | 13 | 39,686 | 2026-11-23T15:30 |
 | elve | 13 | 8,457 | 2026-11-23T15:31 |
 
-## AMVGG completed trades: 55,686 total
+## AMVGG completed trades: 55,719 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,449 |
+| 2026-11-23 | 2,482 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 15:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:30 | **Real_namehiden24**: Zombie Wolf (N), Ice Cream Hermit Crab (N), Ranger Beaver (N), Scarebear | **Peyton_kitty1010**: Owlbear (N) |
-| 15:30 | **Fllo_1357**: Burger Bear, Dolphin (N) | **leesoyul11111111**: Ride-A-Pet Potion |
-| 15:30 | **melodyardy**: Ancient Dragon | **Mimiiixq0**: Abyssinian Cat ×2, Parakeet ×3, Cracked Egg, Shih Tzu |
-| 15:30 | **muniradypa**: Pain au Chat ×3 | **LiFoMeX_XXO**: Ride-A-Pet Potion |
-| 15:30 | **Martinotschka**: Unicorn | **martins10530**: Ride-A-Pet Potion |
-| 15:30 | **kaidealt2**: Peppermint Penguin (NR), Turtle (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **16kmfh**: Strawberry Shortcake Bat Dragon (NFR) |
-| 15:30 | **xiparo**: Pain au Chat ×6 | **nimalina463**: Dango Penguins |
-| 15:30 | **kelixnz**: Choco Penguin | **MiNa067789**: Royal Egg ×18 |
-| 15:30 | **UNLIMITET01**: Cattuccino (N) | **gerl708090**: Pain au Chat |
-| 15:30 | **KAK_TO003**: Birthday Butterfly 2024 (NR), Garden Snake (NR) | **lika_xD122**: Ride-A-Pet Potion |
-| 15:30 | **KAK_TO003**: Robin (NR), Seahorse (N) | **HeizolRetri**: Ride-A-Pet Potion |
-| 15:30 | **you_no099**: Tarsier (NR) | **svetap112233**: Ride-A-Pet Potion ×2 |
-| 15:30 | **trashbag_lorelei**: Cryptid (FR), Rain Cloud Hat, S'mores Raccoon (NFR), Ride-A-Pet Potion, Jeff's Nametag | **FelonatedFawn**: Haetae (FR) |
-| 15:30 | **ni1zuua**: Spring Bunny Hood | **Oliver20717**: Red Dutch Guinea Pig, Ride-A-Pet Potion |
-| 15:30 | **Vol4ica77**: Peach Owl (MFR) | **isabella68078**: Frost Fury (NFR) |
+| 15:40 | **CyricccxALT**: Crystal Egg ×17 | **lisamod65321**: Ride-A-Pet Potion |
+| 15:40 | **doiii_yen**: Haetyphoon (R) | **Mjplayz_am**: Sea Slug (R) |
+| 15:40 | **Meowkittiikat**: Halo, Ice Cream Cone Hat, Pet Handler Pro Certificate | **MistletoeMeg**: 2022 Birthday Cake, Unicorn Horn |
+| 15:40 | **MashaZahar123**: Kitty Bat (MFR) | **sorvetinhodapandinha**: Blue Dog (FR) |
+| 15:40 | **kelixnz**: Ice Cube | **Catyuushy**: Retired Egg ×18 |
+| 15:40 | **kelixnz**: Cold Cube | **Catyuushy**: Retired Egg ×18 |
+| 15:36 | **ZockerCelina_20**: Fly-A-Pet Potion ×3 | **Boiledfoott**: Frost Fury (FR) |
+| 15:36 | **sweetiescurse**: Groundhog (R), Harp Seal | **Loe191119**: Harp Seal (NFR) |
+| 15:36 | **selensecretacc**: Alpaca (R), Ride-A-Pet Potion | **GalaxyCat_X5**: 2022 Birthday Party Horn, Caterpillar (R), Pet Handler Pro Certificate |
+| 15:36 | **11kiradog**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Gglrd0**: Quad Stroller |
+| 15:36 | **mmaayois**: Matcha Cat | **aerivision**: Unicorn (NFR) |
+| 15:36 | **amvggaccbi0**: Leviathan (MFR), Naughty Mistletroll (MFR), Snow Monkey (MFR), Kookaburra (M), Aestus (MFR), Jousting Horse (MFR), Glormy Leo (MFR), Pirate Ghost Capuchin Monkey (NR) | **Rbd_JP**: Orchid Butterfly (N) |
+| 15:36 | **Whyisyourpeeblue**: Admin Abuse Egg ×9, Retired Egg ×9 | **Falxxrie**: Skelicorn ×4 |
+| 15:36 | **eeliasxcx**: Ride-A-Pet Potion ×2 | **y2k_sally**: Pilot Gull (M) ×4 |
+| 15:36 | **gattitakawaii16**: Ice Cream Cone Hat, Pink Cat, Shrew (R), Fly-A-Pet Potion ×2, Hare (NR) | **minalocatuliiiiii**: Goose (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
