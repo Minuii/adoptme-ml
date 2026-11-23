@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 03:15 UTC by the scrape workflow._
+_Updated 2026-11-23 03:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 03:15 UTC by the scrape workflow._
 | amvgg | 13 | 28,248 | 2026-11-23T03:15 |
 | elve | 13 | 6,090 | 2026-11-23T03:15 |
 
-## AMVGG completed trades: 53,765 total
+## AMVGG completed trades: 53,791 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 528 |
+| 2026-11-23 | 554 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 03:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:15 | **Idkk_0426**: Hedgehog (FR), Kangaroo (FR) | **jam_es12348**: Haetae (FR) |
-| 03:15 | **I1ous**: Tortoiseshell Guinea Pig ×2, Pet Handler Pro Certificate | **Luna_SanUwuUvu**: Munchkin Cat (N) |
-| 03:15 | **splashJuggernaut**: Fly-A-Pet Potion ×6 | **Deamh_1**: Pupcicle (M) |
-| 03:15 | **aloiv484**: Fly-A-Pet Potion ×3 | **Irislikesyoufr**: Candy Hare (R), Harp Seal ×2, Cake Friend |
-| 03:15 | **aloiv484**: Fly-A-Pet Potion | **123luna958**: Candy Hare |
-| 03:15 | **ydoch1213**: Mexican Wolf (N), Pupcicle ×2, Momma Moose (N), Chihuahua | **inyiuhf**: Mochi Meow (M) |
-| 03:15 | **Ashtonlollol1234**: Alley Cat (MFR), Puffer Fish (MFR), Black Springer Spaniel (MFR), Ibex (MFR), Alley Cat ×2, Ride-A-Pet Potion | **fluffyunicorns_932**: Hare (MFR), S'mores Raccoon (MFR), Mini Schnauzer (MFR) |
-| 03:11 | **ya_slay5**: Spring Bunny Hood, Spring Bunny Feet | **fwthaclout**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
-| 03:11 | **OflineGirlx**: Pupcicle | **mspizzaloverr**: Alicorn (NR) |
-| 03:11 | **leftmyhoodie**: Goose (NFR), Turtle (NFR), Elephant (FR), Elephant (R), Unicorn (MFR) | **pedrobeteir0**: Ice Cream Hermit Crab (MFR), Christmas Pudding Pup (MFR), Gaelic Fae (MFR), Ride-A-Pet Potion |
-| 03:11 | **arseniylolol**: Frostbite Bear (R) | **STHJOSE00**: Kangaroo (FR) |
-| 03:11 | **LinuxPlayerOff**: Strawberry Shortcake Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NR), Peppermint Penguin (N), Cow (FR) ×4, Tortoiseshell Guinea Pig (FR), Copycat, Owlbear (FR) | **misa67973**: Shadow Dragon (FR) |
-| 03:11 | **Willowstorm_WaCa**: Unfortunate Eyelashes | **IidoxxiniI**: Chihuahua |
-| 03:11 | **R_yutaa**: Kangaroo (R) | **HUGONITEYT99999**: Candicorn (R) |
-| 03:11 | **AngelKattyOwO**: Chocolate Chip Bat Dragon (FR) | **TANSKlN**: Tortoiseshell Guinea Pig (NFR) |
+| 03:25 | **Kirill123Valiev**: Patchy Bear (M), Angus Cow (M), Mochi Meow ×4 | **Pashok_q**: Ride-A-Pet Potion ×2 |
+| 03:25 | **4nGeL2002**: Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Solaris (MFR), Frost Phoenix (MFR) | **theg0atadm**: Frost Dragon (FR) |
+| 03:25 | **valentina_nic90**: Diamond Egg, Japan Egg, Deinonychus, Hydra, Cozy Mistletroll, Clementine Owl, Brown-Chested Pheasant, Choco Penguin, Alicorn, Ancient Dragon, Bloodhound | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 03:25 | **Arracheurdetacos224**: Dalmatian (NFR), Crow (FR), Tree Kangaroo (MFR) | **urlqdy**: Giraffe (FR) |
+| 03:25 | **taylah81**: Alley Cat (NFR), Alley Cat (NR) | **anyonecanwish**: Billy Goat (MFR), Sheeeeep (FR) |
+| 03:25 | **Mnryyrm**: Dango Penguins, Thunderfisher (N) | **Pashok_q**: Ride-A-Pet Potion ×3 |
+| 03:25 | **Jake_b071**: Winged Horse (MFR) | **Vxlyrics**: Orange Butterfly (MFR) |
+| 03:25 | **Panci_Terbang33**: Fly-A-Pet Potion ×7 | **cat6queen**: Brown Bear (R), Kitty Bat (N), Latte Kitsune, Waffle Wyrm (MR), Frost Phoenix, Red Fox (NR) |
+| 03:25 | **loiol1004**: Steppe Lion, Shetland Pony Dark Brown ×3, Sasquatch ×3, Summer Walrus, Sea Angel | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 03:25 | **loiol1004**: Tarsier ×2, Tasmanian Devil, Thorny Devil (N), Thorny Devil | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 03:25 | **ggggg113323**: Ride-A-Pet Potion | **frogie_948**: Respectful Mustache |
+| 03:25 | **EPICgurl6665**: Ride-A-Pet Potion | **frogie_948**: Cupcake Sprinkle Wings |
+| 03:25 | **gabsotuff**: Ride-A-Pet Potion | **frogie_948**: Respectful Mustache |
+| 03:25 | **xMoon_289**: Ride-A-Pet Potion, Cow Sticker | **purinsitoelmejor**: Rose Quartz Glow Mega Neon Paint, Amethyst Skies Mega Neon Paint |
+| 03:25 | **DiamondDivaCake**: Chocolate Dutch Guinea Pig (R), California Condor (M) | **Yumi_Rose8**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
