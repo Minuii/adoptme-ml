@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 05:01 UTC by the scrape workflow._
+_Updated 2026-11-23 05:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 05:01 UTC by the scrape workflow._
 | amvgg | 13 | 29,926 | 2026-11-23T05:00 |
 | elve | 13 | 6,398 | 2026-11-23T05:01 |
 
-## AMVGG completed trades: 54,013 total
+## AMVGG completed trades: 54,042 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 776 |
+| 2026-11-23 | 805 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 05:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:00 | **teetehejej**: Fly-A-Pet Potion, Ride-A-Pet Potion | **valentina_nic90**: Biodome Home |
-| 05:00 | **cazzy123abc**: Nessie (MFR) | **ifiwasadragon**: Halo, Unicorn Horn, Crocodile, Lion, Shiver Wolf (MFR), Haetyphoon, Tiny Wings |
-| 05:00 | **xXCloudyXxFloralXx**: Strawberry Shortcake Bat Dragon (NFR) | **AbbyIzCoOl1**: Balloon Unicorn (FR), Fly-A-Pet Potion, Spring Bunny Hood |
-| 05:00 | **priencesQwinn**: Haetyphoon, Ride-A-Pet Potion | **Boiledfoott**: Chinese Lantern |
-| 05:00 | **fenekitfixismymain**: Unicorn Horn, Fly-A-Pet Potion, Pink Betta Fish | **myd666vil**: Harp Seal (M) |
-| 05:00 | **Yakkuji**: Crocodile (R), Llama | **myd666vil**: Caterpillar, Fly-A-Pet Potion |
-| 05:00 | **manicpupdoll**: Cryptid (MFR) | **adoptmegolden93**: Bat Dragon (FR) |
-| 05:00 | **DefinitelyNotCha6**: Modern Mansion | **LillyC00kiess**: Ride-A-Pet Potion |
-| 05:00 | **OPEX_OPESHIK1**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×3 | **AsmioTakeW**: Flamingo (R) |
-| 05:00 | **Robloxiana_xxx2011**: Kage Crow (MR) | **AndresPatato**: Ride-A-Pet Potion ×4 |
-| 05:00 | **Omar2002548**: Werewolf (R) | **ShadepyHyper2199043**: Velocirooster, Phantom Dragon, Arctic Dusk Dragon, Lava Dragon ×2 |
-| 04:51 | **kyovd1r**: Tio De Nadal (R), Cerberus (NR), Dragonfruit Fox | **mawifa123**: Turtle (FR) |
-| 04:51 | **Frs_88xx**: Ride-A-Pet Potion, Malaysian Tapir | **devansayank**: Magpie (MFR) |
-| 04:51 | **Frs_88xx**: Ride-A-Pet Potion ×2 | **devansayank**: Kitty Bat (NR) |
-| 04:51 | **dashe4kavbb**: Guardian Lion (FR) | **staceyschafer**: Spring Bunny Feet |
+| 05:11 | **Caua08_Games**: Zombie Wolf (R), Candy Hare | **Panci_Terbang33**: Ride-A-Pet Potion ×3 |
+| 05:11 | **999Luzy**: Flaming Fox (MFR), Peppermint Penguin (R) | **Caba7Senpai**: Strawberry Shortcake Bat Dragon (FR) |
+| 05:11 | **l0v3y0u_o**: Blue Jay (MFR) | **Tylersocoolwow**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 05:11 | **Lazyymimi**: Flamingo, Spring Bunny Hood | **Crystal_andLisa**: Siamese Cat (R), Ride-A-Pet Potion |
+| 05:11 | **Robloxiana_xxx2011**: Sabertooth (MR) | **AndresPatato**: Ride-A-Pet Potion ×3 |
+| 05:06 | **Sebipod0**: Cow (FR), Catte ×2 | **tyryytt1000**: Hot Doggo (R) |
+| 05:06 | **ShoxVerat**: Cryptid (N), Sea Slug (MFR), Arctic Reindeer (NFR) | **sar1ahkn1ght**: Shadow Dragon (FR) |
+| 05:06 | **devansayank**: Rattlesnake (NFR) | **Frs_88xx**: Ride-A-Pet Potion |
+| 05:06 | **alicehe0601**: Parrot (NFR), Bat Dragon (NFR) | **nmfj**: Giant Panda (MFR) |
+| 05:06 | **devansayank**: Kitty Bat (N) ×2 | **Panci_Terbang33**: Fly-A-Pet Potion ×2 |
+| 05:06 | **iiNxla_YourFxvourite**: Goose (FR), Elephant (R), Mechapup, Glormy Dolphin (MFR), Haetyphoon | **Quizzaff**: Strawberry Shortcake Bat Dragon (FR) |
+| 05:06 | **Scar_3090**: Slime (MFR) | **AngelsHarxx_Lilyluvz**: Leopard Shark (MFR) |
+| 05:06 | **Loviks018**: Admin Abuse Egg ×18 | **DuckyMuffinz**: Ride-A-Pet Potion |
+| 05:06 | **DeepIn_YourSolace**: Skelicorn (MR), Golden Dragon (NR), Bubblegeist (N) | **basicgenn**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 05:06 | **Flux_puck**: Albino Monkey (FR), Candyfloss Chick (R) | **wjredmind**: Goose (R) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
