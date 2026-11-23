@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 18:55 UTC by the scrape workflow._
+_Updated 2026-11-23 19:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 18:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 42,884 | 2026-11-23T18:45 |
-| elve | 13 | 9,177 | 2026-11-23T18:46 |
+| amvgg | 13 | 43,139 | 2026-11-23T19:00 |
+| elve | 13 | 9,220 | 2026-11-23T19:01 |
 
-## AMVGG completed trades: 56,586 total
+## AMVGG completed trades: 56,591 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,349 |
+| 2026-11-23 | 3,354 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,11 @@ _Updated 2026-11-23 18:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:00 | **grijfe8r**: Hare, Ride-A-Pet Potion | **Popa67742**: Ring-Tailed Lemur |
+| 19:00 | **Yumi_Rose8**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **Angels_201071**: Fallow Deer (R) |
+| 19:00 | **Bruno_Games76**: Spring Bunny Feet | **Samrose0005**: Flying Cloud |
+| 19:00 | **carlkilling**: Rain Boots, Butter Knife | **3486_alt**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 19:00 | **maya201013s**: Ring-Tailed Lemur (MFR) | **KnifeonKeys**: Candy Hare (MFR), Great Pyrenees (MFR), Red Dutch Guinea Pig (NFR), Spring Bunny Feet, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
 | 18:55 | **chocolatebonnbonn**: Fly-A-Pet Potion, Mochi Meow, Old King Coal | **oxvivv**: Dire Wolf (M) |
 | 18:55 | **Cute_EnotikUwU**: Ride-A-Pet Potion | **sab_brew**: Magma Snail (N) |
 | 18:55 | **ubnnyz**: Gemstone Egg ×4 | **fehrec**: Admin Vision Cap |
@@ -48,11 +53,6 @@ _Updated 2026-11-23 18:55 UTC by the scrape workflow._
 | 18:55 | **axuerilyt**: Electric Hornet, Thunderfisher ×3 | **flowerist0w04577**: Paint Sealer ×3 |
 | 18:55 | **84382g**: Fly-A-Pet Potion ×10, Pet Handler Pro Certificate | **DPOYYYYYYYY**: Siamese Cat (FR) |
 | 18:55 | **runw1thscissorz**: Balloon Dog | **mcfloatp**: Rain Hat |
-| 18:55 | **Lux0u**: Unicorn (MFR), Unicorn | **likoadopt**: Elephant (R) |
-| 18:55 | **5lureeee**: Munchkin Cat | **Larisa_DiecooleSocke**: Field Mouse, S'mores Raccoon (NR), Ride-A-Pet Potion |
-| 18:55 | **Sui_sa**: Owl (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×3, Kangaroo (R) | **ADASArfs**: Parrot (FR), Chocolate Chip Bat Dragon (FR) |
-| 18:55 | **mmiixxrroonnaa**: Border Collie (NFR) | **Lu_Namm2**: Siamese Cat (NFR) |
-| 18:55 | **ADASArfs**: Goose (R), Hot Doggo (R) | **pesnyaups9**: Chocolate Chip Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
