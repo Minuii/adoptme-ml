@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 12:46 UTC by the scrape workflow._
+_Updated 2026-11-23 12:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 12:46 UTC by the scrape workflow._
 | amvgg | 13 | 37,071 | 2026-11-23T12:45 |
 | elve | 13 | 7,849 | 2026-11-23T12:46 |
 
-## AMVGG completed trades: 55,082 total
+## AMVGG completed trades: 55,120 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,845 |
+| 2026-11-23 | 1,883 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 12:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:45 | **wak33_upp**: Cow (FR), Flamingo (FR), Arctic Fox (NFR), Unicorn Horn ×2, Ride-A-Pet Potion ×9 | **LxckeHeart**: Haetae (FR) |
-| 12:45 | **rrnmaaaa**: Border Collie, Arctic Fox, Flaming Fox, Lamb, Puffer Fish, Tuxedo Cat, Ride-A-Pet Potion | **Blake_skyhigh**: Fairy Bat Dragon (FR) |
-| 12:45 | **Ethernaces**: Stray Cat Dragon ×8 | **sjak696**: Ride-A-Pet Potion |
-| 12:45 | **Ruperto_1297**: Goose (R) | **Oliver20717**: Fly-A-Pet Potion ×16 |
-| 12:45 | **anya1kaX4**: Fly-A-Pet Potion, Premium Gibbon Box | **Ksyusha_19385**: Biodome Home |
-| 12:45 | **FlyToTheSaturn**: Swan ×3, Capybara ×3 | **Panci_Terbang33**: Fly-A-Pet Potion ×5 |
-| 12:45 | **FlyToTheSaturn**: Swan, Shiba Inu ×4, Toucan ×2, Ghost Wolf ×2, Gorilla ×2, Swordfish ×2 | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 12:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×8 | **loiol1004**: Queen Bee ×8 |
-| 12:45 | **Zak_0250**: Goose, Cow (FR), Bush Elephant (R), Pink Cat (NFR), Siamese Cat (R), Unicorn Horn, Ride-A-Pet Potion | **Xx_inyixX**: Crow (FR) |
-| 12:45 | **poma5660**: Chocolate Chip Bat Dragon (FR) | **Oneran0**: Turtle (NFR), Jester Dragon (N), Ride-A-Pet Potion ×3 |
-| 12:45 | **RelTrader**: Fly-A-Pet Potion ×2 | **xbubblezxxlyn**: Peacock (NFR) |
-| 12:45 | **cher_namagandaa**: T-Rex (NR) | **4ebyrek_16cmqwq**: Octopus (NFR) |
-| 12:45 | **OG_Kylen44840**: Chocolate Chip Bat Dragon (FR) | **Helo_imonyouwalls**: Rainbow Maker, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 12:41 | **DefinitelyNotCha6**: Catapult Stroller ×2, Swan Stroller, Triple Stroller ×5, Crate Stroller ×6, Dog House Stroller, Froggy Stroller ×2, Hatched Egg Stroller | **popkor844**: Fly-A-Pet Potion |
-| 12:41 | **clalouetciedh**: Alicorn ×13 | **kkaatEEe2**: Ride-A-Pet Potion |
+| 12:55 | **16y97**: Pet Handler Pro Certificate, Purrowl | **chapa4ka579**: Summer Walrus ×10 |
+| 12:55 | **Panci_Terbang33**: Fly-A-Pet Potion | **tw1nkle3788**: Pupcake (N) |
+| 12:55 | **Max_game751**: Ride-A-Pet Potion ×2, Unicorn Horn, Longhorn Cow (MFR) | **obv1joowe**: Mule (MR), Fly-A-Pet Potion, Back Taco |
+| 12:55 | **maxim2511top**: Count Slothula | **roblox_user_1554000708**: Ride-A-Pet Potion |
+| 12:55 | **clarisse_tubeuse**: Owlbear | **Panci_Terbang33**: Fly-A-Pet Potion ×2 |
+| 12:55 | **Danila121219**: Fly-A-Pet Potion ×9 | **Gglecyl0**: Kangaroo (FR) |
+| 12:55 | **supernova_cloud**: Border Collie (FR), Shark Puppy (R), Ride-A-Pet Potion | **Jesabell_2612**: Sugar Glider (FR) |
+| 12:55 | **Panci_Terbang33**: Fly-A-Pet Potion | **loiol1004**: Sweetheart Rat ×2, Puptune, Glyptodon (N) |
+| 12:55 | **Whitemen5323**: Mrs. Whiskerpips (M) | **poortorichy28**: Fly-A-Pet Potion |
+| 12:55 | **Callme_Mary45**: Stray Cat Dragon ×11, Skelicorn ×7 | **lhfshkg**: Ride-A-Pet Potion ×2 |
+| 12:51 | **Tamara_dieloste2010**: Swan (NFR), Horse (NFR), Dango Penguins (NR), Aussie Egg, Apple Owl (N), Woolly Mammoth (NR), Wild Boar, Phoenix (N), Unicorn | **MinhLovesFurriess**: Cow (FR) |
+| 12:51 | **Cluvdi4**: Sushi Penguin | **urm4mx**: Crystal Egg ×15 |
+| 12:51 | **clarisse_tubeuse**: Spring Bunny Hood | **Yupiterd**: Ride-A-Pet Potion ×4 |
+| 12:51 | **vtoriii0**: Bat Dragon (FR), Winged Tiger (FR) | **IIzmemories**: Winged Tiger (MFR), Shadow Dragon (FR), Alley Cat (MFR) |
+| 12:51 | **Xxxxashhhh**: Goose (FR), Cow (FR) ×2, Cow, Pig (FR) | **luvyerh**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
