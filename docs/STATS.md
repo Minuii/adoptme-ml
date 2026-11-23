@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 21:46 UTC by the scrape workflow._
+_Updated 2026-11-23 21:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 21:46 UTC by the scrape workflow._
 | amvgg | 13 | 45,923 | 2026-11-23T21:45 |
 | elve | 13 | 9,735 | 2026-11-23T21:46 |
 
-## AMVGG completed trades: 57,251 total
+## AMVGG completed trades: 57,293 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 4,014 |
+| 2026-11-23 | 4,056 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 21:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:45 | **DragonjJDusta107130**: Alpaca (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **gattitakawaii16**: Goose (R) |
-| 21:45 | **Cat_Dog866**: Purple Heart Glasses | **BL00DP0PP3RZ**: Star Sunglasses |
-| 21:45 | **pancakepandapal**: Dalmatian (FR), Peppermint Penguin | **blushbyelle**: Haetae |
-| 21:45 | **Vol4ica77**: Unicorn (NR) | **edzegr8**: Ride-A-Pet Potion ×4 |
-| 21:45 | **spojIfed**: Ice Wolf (MFR), Glacier Kitsune (NFR), Royal Mistletroll (R), Caterpillar, Giant Anteater, Ride-A-Pet Potion, White Chef Hat | **HeavenlySylvie**: Cryptid (R) |
-| 21:45 | **Coolbirdy40**: Shrew (NR) | **dtzombii**: Jester Dragon (NFR) |
-| 21:45 | **kellisynh**: Goose (NFR), Chocolate Chip Bat Dragon Backpack, Retired Egg ×4 | **Natalize8D**: Dalmatian (R) |
-| 21:45 | **kwaskinnn**: Fallow Deer (MFR), Hare (MFR), Solaris (NFR) | **Candy_100OO**: Giant Anteater (MFR) |
-| 21:45 | **mommy_vka123**: Fly-A-Pet Potion ×7, Pet Handler Pro Certificate, Ride-A-Pet Potion ×7 | **roronoazoro1gg**: Turtle (FR) |
-| 21:45 | **almagul83**: Hoverboard, Banana Car, Boohoo | **ertyiop665645**: Ride-A-Pet Potion |
-| 21:45 | **aiixyq**: Bat Dragon (FR), Bat Dragon, Fairy Bat Dragon (NFR), Jester Dragon (MFR), Arctic Dusk Dragon (MFR) | **sunset_s0ul**: Bat Dragon (NFR) |
-| 21:45 | **raven_rampag**: Alpaca (MFR) | **nicole282758**: Goose (MFR), Angel Wings |
-| 21:36 | **Lirannn_12345**: Ice Wolf (MFR) | **Lingling111206**: Water Moon Bear (MFR), Green Amazon (MFR), Choco Penguin (MFR), Sasquatch (MFR), Gingerbread Hare (MFR), Toy Poodle (MFR) |
-| 21:36 | **K0TIIX**: Owl (FR), Turtle (NFR), Cow (FR) ×2, Turtle (FR), Elephant, Cow, Lion (FR) | **don5556**: Giraffe |
-| 21:36 | **abdoosaad**: Fairy Bat Dragon (FR) | **xmarlarx**: Maine Coon (M), Turtle Doves (M), Mrs. Whiskerpips (NFR), St Bernard (MR), Skelicorn (MFR), German Shepherd (NR), French Bulldog (N), Pupcake (N) |
+| 21:55 | **disapp6ar**: Velocirooster (MFR), Latte Kitsune (NFR) | **K1MM007**: Turtle (MFR) |
+| 21:55 | **Lolbaddie1205**: Turtle (MFR), Chocolate Chow-Chow | **K1MM007**: Christmas Pudding Pup (MFR) |
+| 21:55 | **JhanKiwin**: Lion Cub, Ride-A-Pet Potion ×4, Pancake Stack, Pet Handler Pro Certificate, Thinking Hat, Gold Fairy Crown, Burger Bun Hat | **YUMIIMOTHZZ**: Rain Cloud Hat |
+| 21:55 | **mellqxxrb**: Unicorn | **souiiijaaa**: Ride-A-Pet Potion |
+| 21:55 | **foreverforethel**: Gaelic Fae (MFR), Pig (NFR), Border Collie, Munchkin Cat, Polar Bear, Copycat | **eggokeeeeee**: Munchkin Cat (MFR) |
+| 21:55 | **Hubxhu_bb**: Haetyphoon, Skunk (N) | **LacienegaRodriguez20**: Arctic Fox (R) |
+| 21:55 | **Zam0cek**: Candicorn (FR) | **lenyvai2010pro**: Sea Slug (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 21:55 | **jam_bam10**: Pupcicle (N) | **5ttyryggbh**: Angus Calf (MR), Mexican Wolf (M) |
+| 21:51 | **Yazzyboba**: Cow (FR), Turtle (FR), Kangaroo (FR), Ride-A-Pet Potion ×2 | **catsrmygods**: Fairy Bat Dragon (NFR) |
+| 21:51 | **izzyxrblx00**: Ring-Tailed Lemur (NR) | **qxynaee**: Copycat (NFR) |
+| 21:51 | **leticia_manu057**: German Shepherd (N) | **xolvrxo**: Ride-A-Pet Potion ×4, Count Slothula |
+| 21:51 | **ECC0NY**: Ride-A-Pet Potion | **ew_darsky**: Pain au Chat ×3 |
+| 21:51 | **puchainela77**: Copycat (MFR), Silverback Gorilla (R), Silverback Gorilla, Aestus (NFR) | **Sigatotkaka**: Silverback Gorilla (MFR) |
+| 21:51 | **ECC0NY**: Fly-A-Pet Potion | **ew_darsky**: Pain au Chat ×5 |
+| 21:51 | **C0PHYAK**: Fly-A-Pet Potion ×7, Pet Handler Pro Certificate ×2 | **roronoazoro1gg**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
