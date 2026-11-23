@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 16:31 UTC by the scrape workflow._
+_Updated 2026-11-23 16:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 16:31 UTC by the scrape workflow._
 | amvgg | 13 | 40,596 | 2026-11-23T16:30 |
 | elve | 13 | 8,674 | 2026-11-23T16:31 |
 
-## AMVGG completed trades: 55,932 total
+## AMVGG completed trades: 55,996 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,695 |
+| 2026-11-23 | 2,759 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:30 | **ll_90dfhj**: Fly-A-Pet Potion ×2, Huntsman Robin ×4 | **Koshechkina102**: Ride-A-Pet Potion ×4 |
-| 16:30 | **Lozi_loz**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2 | **DragonjJDusta107130**: Elephant (FR) |
-| 16:30 | **xxManreetxxplayz**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Alliexxzc**: Skele-Rex (NFR) |
-| 16:30 | **xiparo**: Pain au Chat ×6 | **viviinlovewithcats**: Fly-A-Pet Potion |
-| 16:30 | **KinaToons**: Shadow Dragon (FR), Goat (MFR) | **Lurxell**: African Wild Dog (NFR), Parrot (FR), Goose (FR) |
-| 16:30 | **cassforlife8**: Jellyfish (R), Moose Calf (N), Ride-A-Pet Potion, Fly-A-Pet Potion | **EricCasper**: Nessie (NFR) |
-| 16:30 | **abcdefghijkl_6701**: Sugar Glider (R), Toaster Hat | **TMDung20**: Cabbit (R), Aviator Hat, Spring Bunny Hood, Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 16:30 | **MariPolykar**: Ride-A-Pet Potion | **liza8498**: Unfortunate Eyelashes ×2 |
-| 16:30 | **Cinzsins**: Aurora Fox (MFR), Arctic Dusk Dragon (MFR), Ice Cream Cone Hat | **marsel_bananov**: Werewolf (MFR) |
-| 16:30 | **Unicorns4life20000**: Dalmatian, Ride-A-Pet Potion | **anutik_awesome**: Halloween Evil Dachshund (MFR), Kangaroo (FR), Kangaroo (R), Slime (MFR), Pink Cat, Spring Bunny Hood |
-| 16:30 | **lolcryabtit6767**: Queen Bee Slippers | **whiplashtempo0**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:30 | **cutesyxkai**: Puffin (MFR), Goat (MFR), Munchkin Cat (M), Strawberry Shortcake Bat Dragon (FR) | **iratcowews**: Mini Pig (MFR) |
-| 16:30 | **tearia_03**: Cryptid (NFR) ×2, Rainbow Maker ×2, Halo ×2, Angel Wings ×2, Unicorn Horn ×2, Rain Cloud Hat ×2, 2022 Birthday Party Horn ×2, 2022 Birthday Cupcake Shoes | **1vkx3**: Cryptid (MFR) |
-| 16:30 | **unicornio120957**: Ride-A-Pet Potion, Mrs. Whiskerpips | **CyricccxALT**: Crystal Egg ×18 |
-| 16:25 | **GrumpDummy**: Strawberry Shortcake Bat Dragon (FR) ×4 | **maybetryitlater**: Frost Dragon (FR) |
+| 16:41 | **Kxh7k**: Ride-A-Pet Potion, Goth Shoes | **o1Vanaty**: Toyshop House |
+| 16:41 | **arseniylolol**: Evil Unicorn (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Shadow Dragon Ducky (R) | **yyscalp**: Hedgehog (FR) |
+| 16:41 | **kourabies31415**: Albino Monkey (FR) | **lenyvai2010pro**: Elephant (R) |
+| 16:41 | **xiparo**: Pet Handler Pro Certificate ×2, Count Slothula | **m00ns_milk**: Ride-A-Pet Potion ×4 |
+| 16:41 | **arqvve1**: Pet Handler Pro Certificate ×2, Fly-A-Pet Potion | **fyjnds9**: Frost Fury (FR) |
+| 16:41 | **Vanthoria**: Mini Pig (FR), Classic Trade Stand, Peachick | **TMDung20**: Candicorn (N) |
+| 16:41 | **RACHGL4MXO**: Chihuahua (MFR), Gingerbread Mouse (MFR) | **ni1zuua**: Burger Bear (M), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Butter Knife |
+| 16:41 | **heeseungspookie**: Munchkin Cat (MFR), Copycat ×2, Ride-A-Pet Potion ×3 | **Dawnyyy17**: Cryptid (FR) |
+| 16:41 | **Amvgg_Amvggg**: African Wild Dog (FR) | **Doggylovertucker**: Goose, Sugar Glider (FR), Alpaca (R), Candicorn, Sheeeeep (R), Shark Puppy (R), Yeti (MFR), Hare |
+| 16:36 | **Viktoria_11942**: Dalmatian (FR) ×2 | **megasupper_profi**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×4 |
+| 16:36 | **elproXD_7v7**: Chihuahua ×15 | **dollynurrse**: Ride-A-Pet Potion ×5 |
+| 16:36 | **dashay5585**: Standard Gibbon Box ×10 | **TheEndlessFlower**: Ride-A-Pet Potion ×2 |
+| 16:36 | **niceplayeruwu**: Ride-A-Pet Potion | **Stormxo124**: Hare Box |
+| 16:36 | **eliasjosh8**: Goose (R) | **Yakkuji**: Siamese Cat (R), General Sheepdog (M), Lion Cub |
+| 16:36 | **b1beHw4tzurnim**: Chihuahua ×2 | **kajaterezka**: Unicorn |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
