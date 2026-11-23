@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 14:46 UTC by the scrape workflow._
+_Updated 2026-11-23 14:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 14:46 UTC by the scrape workflow._
 | amvgg | 13 | 39,014 | 2026-11-23T14:45 |
 | elve | 13 | 8,293 | 2026-11-23T14:46 |
 
-## AMVGG completed trades: 55,497 total
+## AMVGG completed trades: 55,557 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,260 |
+| 2026-11-23 | 2,320 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 14:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:45 | **eeliasxcx**: Ride-A-Pet Potion | **thunder_lunder531**: Mummy Spider (M), Bolt (M) |
-| 14:45 | **eeliasxcx**: Ride-A-Pet Potion ×2 | **saskitima**: Mummy Spider (M) ×2, Caramelgeist (M), Blue Cat (M) |
-| 14:45 | **Coolchikkaa**: Cabbit (FR) | **Siuyuiq654**: Cow (FR) |
-| 14:45 | **vdgyda**: Matcha Cat, Matcha Cat (FR) | **Itz_w1sker**: Mr. Whiskerpips (MFR), Mr. Whiskerpips (M) |
-| 14:45 | **1lx_1O**: Evil Unicorn (FR), Alley Cat | **lolppp0vld**: Cryptid (FR) |
-| 14:45 | **Roo_tookey123**: Pancake Stack | **Sharkie0020**: Stray Cat Dragon (M) |
-| 14:45 | **Reveknalt1**: Ride-A-Pet Potion ×2 | **Kris30087**: Tree Kangaroo |
-| 14:45 | **joshywoshydooda67**: Frost Dragon (NFR), Kangaroo (FR), Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×2 | **hanb3ki**: Owl (NFR) |
-| 14:45 | **hergare3**: Ram (NFR), Sakura Spirit (FR), Strawberry Penguin, Unicorn (R), Harp Seal, Chocolate Dutch Guinea Pig, Ice Cream Hermit Crab, Unicorn (NFR) | **benyluo**: Cabbit (FR) |
-| 14:45 | **maxim2511top**: Pupcicle, Ocean Egg, Skelicorn (N), Golden Unicorn, Bubblegeist, Three Blind Mice | **araiiw0**: Fly-A-Pet Potion |
-| 14:45 | **cocse00**: Fly-A-Pet Potion ×7, Pet Handler Pro Certificate, Cerberus (R) | **hexyzbagoc31**: Happy Clam (NFR) |
-| 14:45 | **amvggaltaccxox**: Owl (MFR) | **itzSilentr4vengirl86**: Peppermint Penguin (MFR), Mermicorn (MFR), Shark Puppy (MFR), Matcha Cat (MFR), Strawberry Penguin (MFR), Monkey King (MFR), Firefly (MFR) |
-| 14:45 | **chapa4ka579**: Pet Handler Pro Certificate, Stray Cat Dragon ×2 | **Ethernaces**: Ride-A-Pet Potion ×2 |
-| 14:45 | **cuttiiesara**: Dimorphodon (MFR) | **plushrafa**: Bunny Swirl (M), Sea Turtle (MFR), Duck Floatie, Burger Bun Hat |
-| 14:40 | **moral608**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Jenniea264**: Frost Fury (FR) |
+| 14:55 | **darincha1595**: Haetyphoon | **N0_ID3A5**: Fly-A-Pet Potion ×4 |
+| 14:55 | **Sofi02575**: Sunglider (MR), Spring Bunny Hood, Fly-A-Pet Potion ×2 | **loafactory**: Rain Cloud Hat |
+| 14:55 | **MM_Cloud**: Crystal Egg ×18 | **detective_emilly**: Ride-A-Pet Potion |
+| 14:55 | **00iAngell**: Alicorn ×10 | **zephyrgoatt**: Ride-A-Pet Potion |
+| 14:55 | **edgarsroblox2013**: Copycat, Red Dutch Guinea Pig, Dragonfruit Fox, Hare, Pet Handler Pro Certificate | **anekalubitnaruto**: Tortoiseshell Guinea Pig (FR) |
+| 14:55 | **cookieimcoco**: Harp Seal (MFR), Ride-A-Pet Potion ×10 | **Webelive_you**: Cow (FR) |
+| 14:55 | **1Meow_838995**: Arctic Fox (R), S'mores Raccoon (R), Ginger Cat (NFR), Clover Cow (N) | **Uk_3800**: Shark Puppy (R) |
+| 14:55 | **44HxH44**: Skele-Rex (N), Fly-A-Pet Potion, Ride-A-Pet Potion | **scythe_thenumber25**: Bat Dragon Cuddle Animated Sticker |
+| 14:55 | **beaaarr2**: Elephant, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **babygirl_2021029**: Mini Schnauzer (MFR) |
+| 14:55 | **katakuri_RBL**: Strawberry Tortle, Bush Elephant (R) | **sleepy_s0ren**: Mini Pig (FR) |
+| 14:55 | **thunder_lunder531**: Kangaroo (FR) | **xx_sunny2003**: Ghostly Cat (MFR), Goldfish (MR), Skelicorn (MR), Stray Cat Dragon (NFR), Albino Bat (NFR) |
+| 14:55 | **Ez50**: Pet Handler Pro Certificate | **Bismuth234**: Fly-A-Pet Potion |
+| 14:55 | **eeliasxcx**: Ride-A-Pet Potion | **Ggyyuhhhj**: Jiggly Jerboa (M), Cocoadile (M) |
+| 14:55 | **eeliasxcx**: Ride-A-Pet Potion ×3 | **Maayas_17alt1**: White Choccybunny (M), Sneak Weasel (M), Abyssinian Cat (M), Mexican Wolf (M), Snow Puma (M), Black Tiger (M) |
+| 14:55 | **1MZ03Y**: Ghost Bunny (MFR), Cuddly Candle (MR), Golden Jaguar (M) | **yusokini25**: Cow (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
