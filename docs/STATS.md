@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 12:16 UTC by the scrape workflow._
+_Updated 2026-11-23 12:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 12:16 UTC by the scrape workflow._
 | amvgg | 13 | 36,580 | 2026-11-23T12:15 |
 | elve | 13 | 7,740 | 2026-11-23T12:16 |
 
-## AMVGG completed trades: 54,995 total
+## AMVGG completed trades: 55,002 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,758 |
+| 2026-11-23 | 1,765 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,13 @@ _Updated 2026-11-23 12:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:21 | **clarisse_tubeuse**: Tuxedo Cat | **m_uf1n**: Ride-A-Pet Potion |
+| 12:21 | **miserylit**: Fly-A-Pet Potion ×2 | **TwistedK1tty**: Crescent Moon Car |
+| 12:21 | **Junior23khale**: Gummy Guana (M), Prism Snake, Waffle Wyrm (N), Frankenfeline, Gumball Caterpillar | **roblox_user_2880951367**: Ride-A-Pet Potion |
+| 12:21 | **liofe1**: Shetland Pony White ×2, Pistachio, Tanuki, Prism Snake | **Sadochok_456**: Ride-A-Pet Potion |
+| 12:21 | **Inganta07**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Lilly_candyhare1**: Dancing Dragon (FR) |
+| 12:21 | **polina11562**: Fly-A-Pet Potion | **OBVM1LLS_X0**: Onza (M) |
+| 12:21 | **Inganta07**: Fly-A-Pet Potion ×3 | **MikuGoesBeam**: Frost Fury (FR) |
 | 12:15 | **Its_soulseek**: Fly-A-Pet Potion | **Malinamyn**: Dire Wolf (M) |
 | 12:15 | **kica55**: Crimson Cape | **sarahang3la**: Grinmoire ×2 |
 | 12:15 | **SiOfLuxurie**: Quetzalcoatl (F), Skelicorn (N), Ride-A-Pet Potion, Stitches (N), Christmas Spirit ×3, Pupcicle | **elimax124**: Brown Bear |
@@ -46,13 +53,6 @@ _Updated 2026-11-23 12:16 UTC by the scrape workflow._
 | 12:15 | **sofia_sofiko**: Gaelic Fae | **Snow_Girl123678**: Fly-A-Pet Potion |
 | 12:15 | **Vitamirka**: Kiwi Kiwi ×2 | **Snow_Girl123678**: Ride-A-Pet Potion |
 | 12:15 | **audl3y3**: Cow (FR), Turtle (FR), Siamese Cat (FR), Kangaroo (NFR), Cabbit (FR), Mermicorn (FR), Pig (R), Pig, Arctic Fox (R), Green Amazon (MFR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **calampianojames**: Owl (FR) |
-| 12:15 | **adoptmexx626**: Ride-A-Pet Potion | **lxnxlyXfrxvxr**: Crystal Egg ×17 |
-| 12:15 | **Shynisocool**: Moon Rabbit (N), Purrowl | **ally_28901**: Invisible Wings ×2 |
-| 12:15 | **blushbyelle**: Mini Pig (MFR), Turtle (FR) | **1dayto100dayrich09**: Peppermint Penguin (MFR) |
-| 12:15 | **TANSKlN**: Candyfloss Chick (MFR), Albino Monkey (MFR), Cerberus (MFR) | **1dayto100dayrich09**: Chocolate Chip Bat Dragon (MFR) |
-| 12:15 | **Malinamyn**: Haetyphoon (R) | **Fox_micro9311**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
-| 12:15 | **Anastasika_agent**: Kiwi Kiwi | **lisha_antat1234**: Pupcicle |
-| 12:15 | **gggpppgggppp1**: Black-Footed Ferret (M), Angus Cow (M) | **1Biahsz_altx**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
