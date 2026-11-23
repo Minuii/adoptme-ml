@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 06:01 UTC by the scrape workflow._
+_Updated 2026-11-23 06:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 06:01 UTC by the scrape workflow._
 | amvgg | 13 | 30,816 | 2026-11-23T06:00 |
 | elve | 13 | 6,537 | 2026-11-23T06:01 |
 
-## AMVGG completed trades: 54,126 total
+## AMVGG completed trades: 54,146 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 889 |
+| 2026-11-23 | 909 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 06:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:55 | **darrylin_mendz**: Bush Elephant (NFR) | **iiSimplylvxy**: Rainbow Maker |
-| 05:55 | **lizzy_th3phenomena**: Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **lollipopleah7861**: Easter Bunny (M) |
-| 05:55 | **Tyyyyy_tyy1**: Admin Abuse Box ×3 | **l1n_yourgf**: Rubber Ducky Box |
-| 05:55 | **justforfun02188**: Cabbit (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **L_person21**: Dragonfruit Fox (M), Mini Pig (R) |
-| 05:55 | **Scar_3090**: Chocolate Chip Bat Dragon (FR), Cow (FR) | **qlltm**: Cabbit (R), Siamese Cat (R), Rain Cloud Hat, Spring Bunny Nose, Frost Unicorn, Hare (N) |
-| 05:55 | **clarisse_tubeuse**: Turtle (FR) ×3 | **TMDung20**: Candicorn (FR) ×4, Spring Bunny Feet |
-| 05:55 | **dandysworldfan_L0L**: Unicorn ×2 | **hijodefrutaXdd9**: Fly-A-Pet Potion |
-| 05:55 | **SwxIIenThoughts**: Frost Unicorn (FR), Copycat, Propeller Hat | **miriam89300**: Harp Seal (MFR) |
-| 05:55 | **star_adelina**: Super Saru (R), Ancient Dragon, Huntsman Robin | **hxrry12345678**: Ride-A-Pet Potion |
-| 05:55 | **z1_u1**: Ride-A-Pet Potion | **meowwwwwww326**: Skelicorn ×8 |
-| 05:55 | **eicncn**: Copycat (NFR) | **HabaundSamira13**: Arctic Fox (NFR) |
-| 05:45 | **Cat_197s**: Hedgehog (FR), Evil Unicorn (FR), Unicorn Horn, Tortoiseshell Guinea Pig, Crocodile, Chocolate Dutch Guinea Pig (N), Tanuki (MR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Spring Bunny Feet, Peachick (N) | **notiamjhom**: Frost Dragon (FR) |
-| 05:45 | **meowieboogie**: Turtle (FR) | **Reset26566741**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 |
-| 05:45 | **l0ve1y_br00k**: Owl (FR), Cow (NFR) | **GeneralPatrick_14**: Frost Dragon (FR) |
-| 05:45 | **pssixotrop**: Arctic Dusk Dragon (MFR), Fairy Bat Dragon (NFR), Christmas Pudding Pup (NR), Fallow Deer (NFR), Tiny Wings | **notiamjhom**: Owl (FR) |
+| 06:11 | **ZafiY_hay**: Arctic Reindeer (FR), Mini Pig (R) | **itzlexi63737**: Hedgehog (FR), Giant Anteater (FR) |
+| 06:11 | **gorevqx**: Angel Wings | **youchi_nagi**: Fairy Bat Dragon (FR) |
+| 06:11 | **neapol1tanz**: Copycat (R), Dragonfruit Fox | **MelodycurielGamer**: Chick (MR) |
+| 06:11 | **D8RYY**: Evil Unicorn (FR), Elephant (FR), Unicorn Horn, Tiny Wings, Ride-A-Pet Potion ×2, Pink Cat Ear Headphones | **adoptmeplayerhi10**: Crow (FR) |
+| 06:11 | **Flux_puck**: Flamingo (R) | **pinksugarcookiesruu**: Spring Bunny Hood, Ice Cream Cone Hat ×2 |
+| 06:06 | **NotSweatyOnion**: Siamese Cat (R) | **dasha_123qwr**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion ×2 |
+| 06:06 | **dnei30fast**: Fly-A-Pet Potion ×3 | **RiderCyber5886**: Harp Seal ×4 |
+| 06:06 | **wjredmind**: Goose, Peppermint Penguin (R), Alpaca (R), Gaelic Fae | **fenekitfixismymain**: Cupid Dragon (R), Cupid Dragon (FR) ×2, Pig (R), Munchkin Cat ×2, Shark Puppy (R), Border Collie (R), Candicorn |
+| 06:06 | **Suboxow**: Dragonfruit Fox (N), Ride-A-Pet Potion | **bundledbatss**: Dango Penguins (N) |
+| 06:06 | **lizesndk**: Kangaroo (FR), Ride-A-Pet Potion ×3 | **flex0mp**: Unicorn Horn |
+| 06:06 | **YTstaro**: Frost Phoenix (NFR), Frost Phoenix (N) | **RiiceCurry**: Candicorn (FR) |
+| 06:06 | **valentina_nic90**: Gecko Ducky (M), Bluebottle Fly (N), Snowman, Merhorse, Walrus, Waffle Wyrm | **UmU976432**: Ride-A-Pet Potion |
+| 06:06 | **Aflramii**: Cherry-On-Top, Cotton Candy Hat, Pain au Chat | **blu3berrydoughnut**: Angel Wings |
+| 06:06 | **Itzzz_V1v1**: Candy Cane Snail, Retired Egg ×2 | **Slayqueen23079**: Magma Snail ×2 |
+| 06:06 | **BOISTER0011**: Kangaroo (R) | **clarisse_tubeuse**: Candicorn (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
