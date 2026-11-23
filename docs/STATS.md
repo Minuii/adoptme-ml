@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 18:46 UTC by the scrape workflow._
+_Updated 2026-11-23 18:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 18:46 UTC by the scrape workflow._
 | amvgg | 13 | 42,884 | 2026-11-23T18:45 |
 | elve | 13 | 9,177 | 2026-11-23T18:46 |
 
-## AMVGG completed trades: 56,533 total
+## AMVGG completed trades: 56,586 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,296 |
+| 2026-11-23 | 3,349 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 18:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:45 | **iiSimplylvxy**: Rainbow Maker, 2022 Birthday Party Hat, Spring Bunny Hood, Unicorn Backpack | **NoobA0M**: Dalmatian (FR) |
-| 18:45 | **xxjohnjokexx**: Frost Fury (NR), Count Slothula (M), Winged Tiger, Blue Ringed Octopus (M), Chameleon (MR), Pink Cat (FR), King Bee (NFR), Frost Phoenix (FR), Stray Cat Dragon (M), Eggnog Dog (N), Therapy Dog (NR), Drake (R), Jacobin Pigeon (M), Muskrat (M) | **Z1NCHES**: Strawberry Shortcake Bat Dragon (FR) |
-| 18:45 | **Dasha_melody123**: Diamond Unicorn, Sprout Snail, Rosy Maple Moth | **Aggr0berlin**: Bee (NF) |
-| 18:45 | **Dasha_melody123**: Diamond Unicorn, Blue Jay (N), Arctic Hare (N), Pilot Gull (M), Three Blind Mice, Glyptodon Ducky | **wi0qwi**: Fly-A-Pet Potion |
-| 18:45 | **Mary1235175**: Arctic Fox | **Dinkarrt**: Copycat (FR), Ride-A-Pet Potion |
-| 18:45 | **durkthevoicee**: Sugar Glider (FR), Caelum Cervi (R), Ranger Beaver | **Rysan1234567**: Goose |
-| 18:45 | **Yumi_Rose8**: Ride-A-Pet Potion | **therealkayt67**: Strawberry Shortcake Ducky (N) |
-| 18:45 | **chezpage1992**: Siamese Cat (FR), Winter Deer Family Sticker | **Tryingtogetafrican**: Aurora Fox (NFR) |
-| 18:45 | **Xxxxashhhh**: Shadow Dragon (FR), Balloon Unicorn (FR), Turtle (FR), Peppermint Penguin (R), Flamingo, Werewolf, Albino Monkey (R), Black-Chested Pheasant, Fly-A-Pet Potion ×2 | **envymiax**: Bat Dragon (FR) |
-| 18:45 | **NLin_126**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion | **foovva**: Shark Puppy (FR) |
-| 18:45 | **itz_nastyalik**: Squid, Kiwi Kiwi | **erditiri03**: Ride-A-Pet Potion |
-| 18:45 | **ekaryfaaa**: Pain au Chat | **Sofyaestheticc**: Paint Sealer ×6 |
-| 18:45 | **silvergrillx**: Kangaroo (R), Ride-A-Pet Potion | **ongitos_oficial**: Candyfloss Chick |
-| 18:45 | **yatta_thedistractor**: Crystal Egg ×15 | **bigstinkyfoot3**: Ride-A-Pet Potion |
-| 18:45 | **greysmudge**: Tree Kangaroo (NFR), Ride-A-Pet Potion ×2 | **Addyourstruly_cait**: Caterpillar |
+| 18:55 | **chocolatebonnbonn**: Fly-A-Pet Potion, Mochi Meow, Old King Coal | **oxvivv**: Dire Wolf (M) |
+| 18:55 | **Cute_EnotikUwU**: Ride-A-Pet Potion | **sab_brew**: Magma Snail (N) |
+| 18:55 | **ubnnyz**: Gemstone Egg ×4 | **fehrec**: Admin Vision Cap |
+| 18:55 | **d1orkira**: Crystal Egg ×2 | **RBaba2013**: Golden Griffin |
+| 18:55 | **vampixxx00**: Boohoo (M) | **nerkym_life1331**: Snow Puma, Puma, Frog, Bubblegeist, Lunar Gold Tiger, Halloween Blue Scorpion, Spider Crab, Tan Chow-Chow, Snow Cat |
+| 18:55 | **TheAddictedSpider**: Crystal Egg ×16 | **RBaba2013**: Peahen |
+| 18:55 | **SanAndres404**: Momma Moose (MR), Koala (NFR), Shih Tzu (M) | **teddycutie7**: Ballet Swan, Latte Kitsune (R) |
+| 18:55 | **axuerilyt**: Electric Hornet, Thunderfisher ×3 | **flowerist0w04577**: Paint Sealer ×3 |
+| 18:55 | **84382g**: Fly-A-Pet Potion ×10, Pet Handler Pro Certificate | **DPOYYYYYYYY**: Siamese Cat (FR) |
+| 18:55 | **runw1thscissorz**: Balloon Dog | **mcfloatp**: Rain Hat |
+| 18:55 | **Lux0u**: Unicorn (MFR), Unicorn | **likoadopt**: Elephant (R) |
+| 18:55 | **5lureeee**: Munchkin Cat | **Larisa_DiecooleSocke**: Field Mouse, S'mores Raccoon (NR), Ride-A-Pet Potion |
+| 18:55 | **Sui_sa**: Owl (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×3, Kangaroo (R) | **ADASArfs**: Parrot (FR), Chocolate Chip Bat Dragon (FR) |
+| 18:55 | **mmiixxrroonnaa**: Border Collie (NFR) | **Lu_Namm2**: Siamese Cat (NFR) |
+| 18:55 | **ADASArfs**: Goose (R), Hot Doggo (R) | **pesnyaups9**: Chocolate Chip Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
