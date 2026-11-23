@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 17:46 UTC by the scrape workflow._
+_Updated 2026-11-23 17:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 17:46 UTC by the scrape workflow._
 | amvgg | 13 | 41,864 | 2026-11-23T17:45 |
 | elve | 13 | 8,975 | 2026-11-23T17:46 |
 
-## AMVGG completed trades: 56,236 total
+## AMVGG completed trades: 56,292 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,999 |
+| 2026-11-23 | 3,055 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 17:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **alipolinax**: Aestus (FR) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 17:45 | **iihavepotatowifii**: Goose (NFR), Siamese Cat (R) | **LaraCroftFurry**: Hedgehog (FR) |
-| 17:45 | **rizzimurarikiiz**: Strawberry Shortcake Bat Dragon (R), Toaster Hat | **bloomysweetea**: Arctic Reindeer (FR) |
-| 17:45 | **Catzini_1**: Frost Dragon (FR), Owl (FR), Arctic Reindeer (FR), Frost Fury (FR) ×2, Zombie Buffalo (R), Ride-A-Pet Potion ×3 | **smbf22**: Shadow Dragon (FR) |
-| 17:45 | **kjm_5741**: Frost Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Albino Monkey (NFR), Matcha Cat (N), Cow (FR), Chocolate Dutch Guinea Pig (MR), Fairy Bat Dragon (FR) ×3, Fairy Bat Dragon, Mermicorn (R), Unicorn Horn, Strawberry Shortcake Bat Dragon, Kangaroo (FR) | **Hermionelapro**: Bat Dragon (FR) |
-| 17:45 | **DefinitelyNotCha6**: Trapdoor Snail, Australian Kelpie ×3, Emu ×2, Monkey ×4, Ghost Wolf ×2, Triceratops, Stegosaurus ×2, Chick, Dingo ×2 | **Catyuushy**: Fly-A-Pet Potion |
-| 17:45 | **Vanlyzn26**: Crystal Egg ×18 | **Siren_AriaBlaze**: Ride-A-Pet Potion |
-| 17:45 | **psiink4**: Candicorn, Arctic Fox (R), Spring Bunny Hood, Fly-A-Pet Potion ×3 | **AngieYT4759**: Cow (FR) |
-| 17:45 | **vxzzz632**: Leopard Shark (MFR) | **zeejnaa**: Cherry-On-Top |
-| 17:45 | **lostralaleritos_685**: Arctic Dusk Dragon (MFR) | **ST4R_L1GHT1281**: Arctic Fox (MFR) |
-| 17:45 | **discoboomzz**: Chocolate Dutch Guinea Pig | **24konlyyy**: Fly-A-Pet Potion |
-| 17:45 | **Cherrytheonlyberry**: Ghost Bunny (NFR), Ride-A-Pet Potion, Rabbit | **daanz2**: Ostrich (MR) |
-| 17:45 | **cannotaffordme**: Goat (MFR) | **Ellie_face2**: Candicorn (MFR) |
-| 17:45 | **foxymoo7**: Alley Cat (MFR) | **Ellie_face2**: Preppy Capuchin Monkey (MFR), Australian Kelpie (MFR), Bloodhound (MFR), Clover Cow (MFR), Ghost Wolf (MFR), Indian Leopard (MFR), Love Bird (MFR), Punk Pony (MFR), Samoyed (MFR), Snow Leopard (MFR) |
-| 17:45 | **Youalreadyknowme803**: Fly-A-Pet Potion | **SuperMagicFaith**: Ride-A-Pet Potion ×2 |
+| 17:55 | **iamnoonetobehere**: Cake Friend | **wi0qwi**: Ride-A-Pet Potion |
+| 17:55 | **megasupper_profi**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **ithGrts_tt**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:55 | **Sharpie_pies**: Cow (FR), Alley Cat (R), Fly-A-Pet Potion, Unicorn | **Bxumble_5**: Mini Pig (FR) |
+| 17:51 | **Aurora_Galaxy197**: Hamster (N), Stray Cat Dragon (N) ×2 | **Merlimrs**: Snowball Pug (N) |
+| 17:51 | **LilyLikesCooki3_YT**: Cow (R) | **Kvammletitraketa**: Munchkin Cat (NR), Fly-A-Pet Potion |
+| 17:51 | **evieebunnii**: Ride-A-Pet Potion | **Martinotschka**: Amami Rabbit |
+| 17:51 | **ZockerCelina_20**: Siamese Cat (R), Ice Cream Heels | **asvfdu_12**: Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 17:51 | **givno_sobacze**: Kangaroo (NFR), Unicorn (NR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Gemstone Egg | **ewzhxre**: Turtle (NFR) |
+| 17:51 | **Siren_AriaBlaze**: Crystal Egg ×15 | **Void88881**: Ride-A-Pet Potion |
+| 17:51 | **BMS_Kevin140**: Cryptid (FR) | **cwstza**: Evil Unicorn (FR) |
+| 17:51 | **Pxiiiqv**: Grim Dragon (NFR) ×2, Ride-A-Pet Potion | **mochiloV7**: Blazing Lion |
+| 17:51 | **nornomm**: Alpaca (FR), Chicken Hat | **gthstnr**: Cloud Car |
+| 17:51 | **AL0HALILYY**: Arctic Reindeer (R) | **Frdvhev**: Cow (NFR) |
+| 17:51 | **scottmalkinson2114**: Lava Dragon (FR), Shadow Dragon Ducky, Chocolate Dutch Guinea Pig, Flying Fairy, Pet Handler Pro Certificate, Hovertible, Paint Sealer | **Iyahra1**: Flash Weasel |
+| 17:51 | **Sofi_deli**: Frost Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Peppermint Penguin (R), Arctic Fox (R), Christmas Pudding Pup ×2, Arctic Dusk Dragon (FR), Polar Bear, Pet Handler Pro Certificate | **Frdvhev**: Giraffe (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
