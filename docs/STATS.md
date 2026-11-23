@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-23 01:10 UTC by the scrape workflow._
+_Updated 2026-11-23 01:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 21 | 2026-11-11T1036Z | 2026-11-22T0316Z |
+| elve | 22 | 2026-11-11T1036Z | 2026-11-23T0115Z |
 | amvgg | 62 | 2026-11-11T1036Z | 2026-11-22T1616Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 25,948 | 2026-11-23T01:00 |
-| elve | 13 | 5,679 | 2026-11-23T01:01 |
+| amvgg | 13 | 26,210 | 2026-11-23T01:15 |
+| elve | 13 | 5,695 | 2026-11-23T01:15 |
 
-## AMVGG completed trades: 53,478 total
+## AMVGG completed trades: 53,479 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 241 |
+| 2026-11-23 | 242 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,7 @@ _Updated 2026-11-23 01:10 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:15 | **Nighty_811**: Huntsman Robin (N) | **elimax124**: Golden Albatross |
 | 01:10 | **Ahipith**: Munchkin Cat (MFR), Mini Pig (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **rastafarismo10**: Goat (MFR) |
 | 01:10 | **Liaehgdnigwvhgsl**: Haetyphoon | **tokiplayz_omila**: Arctic Fox, Ride-A-Pet Potion |
 | 01:10 | **WeAreTheStars_3**: Admin Abuse Box ×18 | **KS_9270**: Ride-A-Pet Potion |
@@ -52,27 +53,26 @@ _Updated 2026-11-23 01:10 UTC by the scrape workflow._
 | 01:10 | **caitlinc26**: Siamese Cat (FR), Candicorn (N), Polar Bear (NR) | **cxbvnniz**: Arctic Reindeer (FR) |
 | 01:10 | **avolynx**: Diamond Ladybug | **D3ATH5521**: Ride-A-Pet Potion |
 | 01:10 | **bgfjm6fytfthfjytjkhb**: Velocirooster (MFR) | **aguamexicana9**: Rainbow Maker, Halo, Ride-A-Pet Potion |
-| 01:10 | **fwthaclout**: Goose (NFR), Goose (R), Cow (R), Ice Cream Cone Hat, Fly-A-Pet Potion | **S3rennx**: African Wild Dog (FR), Alpaca (R) |
 
-## Elvebredd value changes: 62,734 since 2023-09-16
+## Elvebredd value changes: 62,835 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-22 00:13 | Pupcicle | mega fly ride | 24.4 | 20.2 |
-| 2026-11-22 00:13 | Pupcicle | neon fly ride | 5.85 | 4.8 |
-| 2026-11-22 00:13 | Pupcicle | default no potion | 1 | 0.8 |
-| 2026-11-22 00:13 | Thunderfisher | mega fly ride | 5 | 4 |
-| 2026-11-22 00:13 | Thunderfisher | neon fly ride | 1.3 | 1.1 |
-| 2026-11-22 00:13 | Thunderfisher | default no potion | 0.11 | 0.07 |
-| 2026-11-22 00:13 | Flash Weasel | mega fly ride | 212 | 180 |
-| 2026-11-22 00:13 | Flash Weasel | neon fly ride | 51 | 43 |
-| 2026-11-22 00:13 | Flash Weasel | default no potion | 11.5 | 9.5 |
-| 2026-11-22 00:13 | Haetyphoon | mega fly ride | 212 | 180 |
-| 2026-11-22 00:13 | Haetyphoon | neon fly ride | 51 | 43 |
-| 2026-11-22 00:13 | Haetyphoon | default no potion | 11.5 | 9.5 |
-| 2026-11-22 00:13 | Electric Hornet | mega fly ride | 8.5 | 7.5 |
-| 2026-11-22 00:13 | Electric Hornet | neon fly ride | 2 | 1.8 |
-| 2026-11-22 00:13 | Electric Hornet | default no potion | 0.24 | 0.2 |
+| 2026-11-23 01:10 | Flash Weasel | default no potion | 9.5 | 8 |
+| 2026-11-23 01:10 | Haetyphoon | default no potion | 9.5 | 8 |
+| 2026-11-23 01:10 | Copycat | mega fly ride | 110 | 102 |
+| 2026-11-23 01:10 | Copycat | neon fly ride | 27 | 25 |
+| 2026-11-23 01:10 | Copycat | default no potion | 5.75 | 5.25 |
+| 2026-11-23 01:10 | Jester Dragon | mega fly ride | 84 | 80 |
+| 2026-11-23 01:10 | Jester Dragon | neon fly ride | 22 | 21 |
+| 2026-11-23 01:10 | Jester Dragon | default no potion | 5 | 4.75 |
+| 2026-11-23 01:10 | Matcha Cat | mega fly ride | 156 | 164 |
+| 2026-11-23 01:10 | Matcha Cat | neon fly ride | 37 | 39 |
+| 2026-11-23 01:10 | Matcha Cat | default no potion | 8 | 8.5 |
+| 2026-11-23 01:10 | Strawberry Tortle | mega fly ride | 530 | 515 |
+| 2026-11-23 01:10 | Strawberry Tortle | neon fly ride | 130 | 126 |
+| 2026-11-23 01:10 | Strawberry Tortle | default no potion | 31 | 30 |
+| 2026-11-23 01:10 | Tortoiseshell Guinea Pig | mega fly ride | 282 | 290 |
 
 ## AMVGG value changes: 8,132 since 2026-06-02
 
