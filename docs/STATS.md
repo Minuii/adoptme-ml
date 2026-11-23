@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 06:40 UTC by the scrape workflow._
+_Updated 2026-11-23 06:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 06:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 31,282 | 2026-11-23T06:30 |
-| elve | 13 | 6,603 | 2026-11-23T06:31 |
+| amvgg | 13 | 31,503 | 2026-11-23T06:45 |
+| elve | 13 | 6,640 | 2026-11-23T06:46 |
 
-## AMVGG completed trades: 54,196 total
+## AMVGG completed trades: 54,219 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 959 |
+| 2026-11-23 | 982 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 06:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:36 | **maha_kohka56**: Grim Dragon (FR), Siamese Cat (FR), Shark Puppy (R), Pupcake (M), Dire Wolf (MFR) | **ambervgils**: Chocolate Chip Bat Dragon (FR) |
-| 06:36 | **Sirswagalishsus**: Ride-A-Pet Potion ×2 | **Sofixx_xie**: Cerberus (FR) |
-| 06:36 | **dethxhellgrl**: Ride-A-Pet Potion | **1velvetpaw**: Retired Egg ×18 |
-| 06:36 | **m0rbid_cat**: Blue Jay (N), Japanese Snow Fairy (M) | **personal_stalker69**: Singularity Beetle (N) |
-| 06:36 | **Fresa123_356**: Pink Cat Ear Headphones | **vxntageghost_67**: Fly-A-Pet Potion |
-| 06:36 | **devansayank**: Ride-A-Pet Potion ×2 | **BubbleGumSplashplays**: Fly-A-Pet Potion |
-| 06:36 | **Gamerqueen1255**: Gemstone Egg | **Hellobyeheyhihello**: Retired Egg ×18 |
-| 06:36 | **Gamerqueen1255**: Gemstone Egg | **Hellobyeheyhihello**: Retired Egg ×18 |
-| 06:36 | **Killshot460**: Binturong (MR) | **track10s**: Ride-A-Pet Potion ×14 |
-| 06:36 | **larisochka_gudeeva98**: Fly-A-Pet Potion ×4, Pet Handler Pro Certificate, Ride-A-Pet Potion ×13 | **meowieboogie**: Turtle (FR) |
-| 06:36 | **DrinklngMilk**: Turtle (R) | **nassty_ava**: Field Mouse, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7, Mecha Meow (FR), Camel (MR), Pterodactyl (FR), Bewitched Hat, Hydra (R), Stars Egg, Pink Instant Camera |
-| 06:36 | **DefinitelyNotCha6**: Easter Egg Stroller, Rainbow Stroller ×3, Ice Cream Stroller ×3, Flower Stroller, French Fries Stroller, Kangaroo Stroller ×2, Balloon Stroller, Popsicle Stroller ×3, Reindeer Stroller, Strawberry Stroller, Throne Stroller | **stoIencorpses**: Fly-A-Pet Potion ×7 |
-| 06:36 | **kdkejwjsjd**: Moose Calf (MFR) | **gag_gaag**: Giant Gold Scarab (N), Unicorn Horn, Rain Cloud Hat |
-| 06:36 | **Sirswagalishsus**: Ride-A-Pet Potion ×15 | **DrinklngMilk**: Kangaroo (FR) |
-| 06:36 | **Keona_Zoy**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Angelbatista_me2**: Copycat (FR) |
+| 06:45 | **iiLxy_MoonStxr**: Ginger Cat (MR) | **Scarlet_xxdd**: Copycat (R) |
+| 06:45 | **teryyyrttgfy**: Kiwi ×2 | **helldead123**: Ride-A-Pet Potion ×2 |
+| 06:45 | **KIM_07050**: Peahen (MR), Golden Jaguar (MR), Black-Footed Ferret (M) | **arturo7pose12345**: Pain au Chat (M), Pain au Chat (N) ×10 |
+| 06:45 | **Cinnimon42**: Giant Panda (FR) | **copyvoting**: Groundhog (MFR), 2022 Birthday Party Horn, 2022 Birthday Party Hat |
+| 06:45 | **St_locki1**: Fly-A-Pet Potion, Latte Kitsune (R), Hawk (R) | **ONNYchiiwa**: Copycat (R) |
+| 06:45 | **kaylamicmi**: Frost Dragon (FR) | **cookies_fernanda**: Cryptid (NR), 2022 Birthday Cake, Spring Bunny Nose, Heart Potion ×2, Bunny Carriage |
+| 06:45 | **itzfoxpawzzz**: Giant Anteater (MFR) | **nfrmikey1**: Ice Wolf (MFR) ×2, Kangaroo (FR) ×2, Ride-A-Pet Potion ×4 |
+| 06:45 | **jebiilerium**: Cow (FR) | **kawaiipenguin9**: Aussie Egg ×6 |
+| 06:45 | **RobloxianGiaLinh**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **jebiilerium**: Kangaroo (FR) |
+| 06:45 | **h4_cd**: Fly-A-Pet Potion | **MemeFox_67**: Skelicorn (M) |
+| 06:45 | **vtoriii0**: Shadow Dragon (NFR) | **jakii_030**: Crow (MFR), Turtle (FR), Werewolf, Harp Seal (MFR), Siamese Cat (R) |
+| 06:45 | **blobxxfish**: Retired Egg ×6 | **0o0Username0o0**: Paint Sealer ×2 |
+| 06:45 | **Rainey_39**: Crystal Egg ×15 | **bell_flowers**: Ride-A-Pet Potion |
+| 06:45 | **Yamajyjopyvazelinov1**: Jester Dragon (FR), Phantom Dragon (R) | **nikysha009**: Munchkin Cat (R) |
+| 06:45 | **Eska13065**: Bubblegeist (N), Retired Egg ×3, Poltergeist Box, Picnic Basket, Pink Butterfly Wings | **DrinklngMilk**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
