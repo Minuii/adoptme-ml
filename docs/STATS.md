@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 10:31 UTC by the scrape workflow._
+_Updated 2026-11-23 10:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 10:31 UTC by the scrape workflow._
 | amvgg | 13 | 35,008 | 2026-11-23T10:30 |
 | elve | 13 | 7,370 | 2026-11-23T10:31 |
 
-## AMVGG completed trades: 54,686 total
+## AMVGG completed trades: 54,707 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,449 |
+| 2026-11-23 | 1,470 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:30 | **don5556**: Peppermint Penguin, Kangaroo (NFR) | **Fbrleey**: Strawberry Shortcake Bat Dragon (FR) |
-| 10:30 | **Gxnein**: Sea Slug (NFR), Shark Puppy (R), Fly-A-Pet Potion | **XL4IL4_FGYX**: Goose (FR), Sugar Glider (R) |
-| 10:30 | **quietlyangel**: Ride-A-Pet Potion | **mhelx05**: Preppy Capuchin Monkey (N) |
-| 10:30 | **Tyyyyy_tyy1**: Pink Hightops | **Kitty65844**: Retired Egg ×6 |
-| 10:30 | **Tyyyyy_tyy1**: Ponytail | **Kitty65844**: Retired Egg ×14 |
-| 10:30 | **angvmosddww**: Hot Doggo (FR), Dalmatian (FR) | **78akgd**: Goat (MFR) |
-| 10:30 | **Vitamirka**: Pain au Chat ×18 | **cemen346t**: Ride-A-Pet Potion ×6 |
-| 10:30 | **Kimkim2734**: Werewolf, Moonbeam Peacock, Strawberry Penguin | **AutoTradeCommission**: Jekyll Hydra (FR) |
-| 10:30 | **XiaoFaye1433**: Turtle (FR) | **gigffuuyfy**: Flash Weasel (R) |
-| 10:30 | **XiaoFaye1433**: Turtle (FR) | **gigffuuyfy**: Flash Weasel (R) |
-| 10:30 | **Ruperto_1297**: Cow (FR) | **growkittycat325**: Fly-A-Pet Potion ×17 |
-| 10:30 | **coralthefishh**: Snow Owl (R) | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 10:30 | **coralthefishh**: Kitsune (R) | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 10:30 | **Panci_Terbang33**: Fly-A-Pet Potion, Ride-A-Pet Potion | **s11lena**: Rhino (FR), Volcanic Rhino (R) |
-| 10:30 | **Lozi_loz**: Capybara (FR) | **itsmeRa3lyn**: Fly-A-Pet Potion |
+| 10:41 | **lolppp0vld**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×5 | **yacineplanet5I**: Arctic Reindeer (FR) |
+| 10:41 | **Straxdery**: Arctic Reindeer (FR), Cow (FR) | **yacineplanet5I**: Cryptid (FR) |
+| 10:41 | **monkeycutebow**: Cryptid (FR) | **yacineplanet5I**: Hedgehog (FR) |
+| 10:41 | **Ackosender**: Chocolate Dutch Guinea Pig | **svyataya_svs**: Ride-A-Pet Potion |
+| 10:41 | **robloxer_3614**: Ride-A-Pet Potion, Banana Hat | **Eldrian06**: Shadow Aura, Butter Knife |
+| 10:41 | **roblox_user_8676283275**: Hot Doggo (R) | **Like_youall59**: Gaelic Fae (MFR) |
+| 10:41 | **zpro_jumpeur**: Chocolate Dutch Guinea Pig (R) | **jebiilerium**: Ride-A-Pet Potion ×2 |
+| 10:41 | **DALZIM06**: 2022 Birthday Cupcake Shoes | **s0larzxxxx**: Ride-A-Pet Potion ×3, Matcha Cat ×2, Paint Sealer ×2 |
+| 10:41 | **diiv_iine**: Chocolate Chip Bat Dragon (FR) | **xxjohnjokexx**: Flamingo (NFR), Aurora Fox (R), Ride-A-Pet Potion |
+| 10:41 | **kylebarcebas1**: Pupcicle, Puptune | **Ggyyuhhhj**: Dragon, Alicorn ×3, Golden Unicorn ×3 |
+| 10:36 | **Vitamirka**: Pain au Chat ×10 | **roblox_user_2880951367**: Fly-A-Pet Potion ×2 |
+| 10:36 | **Iammrburt**: Munchkin Cat (MFR), Glacier Moth (MFR), German Shepherd (MFR), Ice Wolf (MFR) | **sIeepylui**: Candicorn (MFR), Ballet Swan (MFR) |
+| 10:36 | **sleepy_4ng3l**: Pupcicle, Ride-A-Pet Potion | **malpjcr**: St Bernard (NFR) |
+| 10:36 | **s0larzxxxx**: Gargoyle (NFR) | **Yupiterd**: Ride-A-Pet Potion ×4 |
+| 10:36 | **heltobrex**: Magic House Door, Amethyst Skies Mega Neon Paint, Stray Cat Dragon | **tencza23512**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
