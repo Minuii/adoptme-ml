@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 21:55 UTC by the scrape workflow._
+_Updated 2026-11-23 22:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 21:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 45,923 | 2026-11-23T21:45 |
-| elve | 13 | 9,735 | 2026-11-23T21:46 |
+| amvgg | 13 | 46,159 | 2026-11-23T22:00 |
+| elve | 13 | 9,815 | 2026-11-23T22:01 |
 
-## AMVGG completed trades: 57,293 total
+## AMVGG completed trades: 57,308 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 4,056 |
+| 2026-11-23 | 4,071 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 21:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:55 | **disapp6ar**: Velocirooster (MFR), Latte Kitsune (NFR) | **K1MM007**: Turtle (MFR) |
-| 21:55 | **Lolbaddie1205**: Turtle (MFR), Chocolate Chow-Chow | **K1MM007**: Christmas Pudding Pup (MFR) |
-| 21:55 | **JhanKiwin**: Lion Cub, Ride-A-Pet Potion ×4, Pancake Stack, Pet Handler Pro Certificate, Thinking Hat, Gold Fairy Crown, Burger Bun Hat | **YUMIIMOTHZZ**: Rain Cloud Hat |
-| 21:55 | **mellqxxrb**: Unicorn | **souiiijaaa**: Ride-A-Pet Potion |
-| 21:55 | **foreverforethel**: Gaelic Fae (MFR), Pig (NFR), Border Collie, Munchkin Cat, Polar Bear, Copycat | **eggokeeeeee**: Munchkin Cat (MFR) |
-| 21:55 | **Hubxhu_bb**: Haetyphoon, Skunk (N) | **LacienegaRodriguez20**: Arctic Fox (R) |
-| 21:55 | **Zam0cek**: Candicorn (FR) | **lenyvai2010pro**: Sea Slug (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 21:55 | **jam_bam10**: Pupcicle (N) | **5ttyryggbh**: Angus Calf (MR), Mexican Wolf (M) |
-| 21:51 | **Yazzyboba**: Cow (FR), Turtle (FR), Kangaroo (FR), Ride-A-Pet Potion ×2 | **catsrmygods**: Fairy Bat Dragon (NFR) |
-| 21:51 | **izzyxrblx00**: Ring-Tailed Lemur (NR) | **qxynaee**: Copycat (NFR) |
-| 21:51 | **leticia_manu057**: German Shepherd (N) | **xolvrxo**: Ride-A-Pet Potion ×4, Count Slothula |
-| 21:51 | **ECC0NY**: Ride-A-Pet Potion | **ew_darsky**: Pain au Chat ×3 |
-| 21:51 | **puchainela77**: Copycat (MFR), Silverback Gorilla (R), Silverback Gorilla, Aestus (NFR) | **Sigatotkaka**: Silverback Gorilla (MFR) |
-| 21:51 | **ECC0NY**: Fly-A-Pet Potion | **ew_darsky**: Pain au Chat ×5 |
-| 21:51 | **C0PHYAK**: Fly-A-Pet Potion ×7, Pet Handler Pro Certificate ×2 | **roronoazoro1gg**: Kangaroo (FR) |
+| 22:00 | **Deinabiluana**: Unicorn Horn | **copyvoting**: Space Whale (MFR), Ride-A-Pet Potion ×3, Velocirooster (FR) |
+| 22:00 | **Fel1xx_qi**: Hare (MFR), Chihuahua (MFR), Toucan (MFR) | **meowqi_08**: Chocolate Chip Bat Dragon (FR) |
+| 22:00 | **simf4l**: Chihuahua, Golden Griffin | **carolzaothecreator**: Pain au Chat |
+| 22:00 | **detective_emilly**: Pretty Pony (MFR), Ice Cream Heels | **Emankakshi**: Elephant (FR) |
+| 22:00 | **TANSKlN**: Cupid Dragon (MFR), Strawberry Tortle, Haetyphoon (FR), Flash Weasel, Pirate Ghost Capuchin Monkey, Frost Fury, Purple Heart Glasses | **kittencute_gamerXD**: Parrot (FR), Pet Handler Pro Certificate, Golden Tortoise Beetle (R) |
+| 22:00 | **Flux_puck**: Mini Pig (FR), Cow (FR) ×3, Goose (R), Hare (MFR), Spring Bunny Hood | **santii_css**: Bush Elephant (MFR) |
+| 22:00 | **knorwiq**: Golden Griffin | **Purdilara**: Strawberry Shortcake Bow |
+| 22:00 | **IMAO_Kiy23ALT**: Golden Unicorn (MFR) | **megafandetanjiro345**: Jester Dragon (R) |
+| 22:00 | **GrEstbn**: Diamond Griffin ×2, Ancient Dragon, Golden Griffin, Skelicorn, Stray Cat Dragon, Three Blind Mice, Huntsman Robin ×2 | **aleonio_ses**: Ride-A-Pet Potion |
+| 22:00 | **CutieShadowBunny1**: Ride-A-Pet Potion ×4 | **Mm2_girlybo**: Velocirooster |
+| 22:00 | **elfania_3**: Pinkypillar (F), Abyssinian Cat (M), Parakeet (M), Mummy Spider (N), Orangutan (N), Forest Sprite (N), Praying Mantis, Shiba Inu, Admin Abuse Egg, Budgie Witch (N) | **sarahtalksstuff**: Fly-A-Pet Potion |
+| 22:00 | **fyffddt5**: Lavender Dragon (FR) | **Kit1yyzzz**: Cerberus, Pupcicle ×2 |
+| 22:00 | **GrEstbn**: 2x Bucks Potion, Gemstone Egg, Royal Fairytale Egg, Red Panda Ducky ×15 | **MakiraLive**: Ride-A-Pet Potion |
+| 22:00 | **takemichiismywaify**: Boohoo (M) | **Zombie_8803**: Shoebill (M) |
+| 22:00 | **Omar2002548**: Midnight Dragon (R) | **xadore_brookex**: Midnight Dragon |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
