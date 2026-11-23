@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 05:31 UTC by the scrape workflow._
+_Updated 2026-11-23 05:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 05:31 UTC by the scrape workflow._
 | amvgg | 13 | 30,384 | 2026-11-23T05:30 |
 | elve | 13 | 6,481 | 2026-11-23T05:31 |
 
-## AMVGG completed trades: 54,097 total
+## AMVGG completed trades: 54,104 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 860 |
+| 2026-11-23 | 867 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,13 @@ _Updated 2026-11-23 05:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:40 | **Nugg3tsito1**: Christmas Pudding Pup, Christmas Pudding Pup (R), Arctic Fox (R), Kappakid (MR), Gemstone Egg ×2 | **xqvuri**: Christmas Pudding Pup (NFR) |
+| 05:40 | **Gamerqueen1255**: Gemstone Egg | **CMETANKA30708**: Retired Egg ×18 |
+| 05:40 | **Robles6498369**: Peppermint Penguin (NFR), Christmas Pudding Pup (R) | **realreal545**: Rainbow Maker ×2 |
+| 05:40 | **S30u1x**: Hot Doggo (FR), Siamese Cat (R), Arctic Fox (FR) | **j3nxy000**: Chocolate Chip Bat Dragon (FR) |
+| 05:40 | **itzlexi63737**: Evil Unicorn, Copycat (F), Ride-A-Pet Potion ×2 | **hiwhat043**: Hedgehog (FR) |
+| 05:40 | **jhopebts_10**: Siamese Cat (NR) | **lyeinjune**: Border Collie (NFR) |
+| 05:36 | **Kailaffie**: Dalmatian (FR), Cow (FR) ×3, Burger Bear (MR), Peppermint Penguin (FR) ×2 | **notiamjhom**: Frost Dragon (FR) |
 | 05:30 | **luvly_xio**: Maneki-Neko, Dracula Parrot, Lunar Gold Tiger | **apples_oopp1**: Ride-A-Pet Potion |
 | 05:30 | **erickproari**: Ride-A-Pet Potion ×2 | **martins10530**: Stray Cat Dragon ×18 |
 | 05:30 | **floralplum**: Unicorn ×3 | **martins10530**: Ride-A-Pet Potion, Fly-A-Pet Potion |
@@ -46,13 +53,6 @@ _Updated 2026-11-23 05:31 UTC by the scrape workflow._
 | 05:30 | **viddy_kama287**: Balloon Unicorn (FR), Grim Dragon (FR), Flamingo (R), Matcha Cat (R), Skelicorn (MR), Blue Whale (MR), Ride-A-Pet Potion ×2, Tutu, Strawberry Shortcake Bow, Winter Bow Wings | **notiamjhom**: Owl (FR) |
 | 05:30 | **rinconbrandon2012**: Elephant (R) | **Leon555s5**: Arctic Dusk Dragon (N) |
 | 05:30 | **Jadameigo**: Fairy Bat Dragon (FR), Unicorn Horn, Albino Monkey (FR) | **mommy_oni0623**: Chocolate Chip Bat Dragon (FR) |
-| 05:30 | **asmornn**: Fly-A-Pet Potion | **cutetel350**: Unicorn ×2 |
-| 05:30 | **clalouetciedh**: Dragonfly ×15 | **dahoody2k3**: Ride-A-Pet Potion |
-| 05:30 | **HeartSpiked**: Giraffe (FR), Chihuahua (M), Sea Angel (M), Chocolate Dutch Guinea Pig, Catte | **S4R4S3G0**: Strawberry Shortcake Bat Dragon (NFR), African Wild Dog (FR), Haetae (R) |
-| 05:30 | **femaIetoji**: 2022 Birthday Party Hat | **liaxcz0**: 2022 Birthday Cake |
-| 05:30 | **ff_lysmqww**: Great Pyrenees (M), Cowboy Saddle | **shine4ever20013**: Fly-A-Pet Potion ×6 |
-| 05:30 | **POPUTTSY**: Elephant (FR), Lion (R), Fly-A-Pet Potion ×2, Pet Handler Pro Certificate | **roblox_user_8676283275**: Goose (FR) |
-| 05:30 | **angelkittyyy444**: Aurora Fox (MFR), Toaster Hat | **kimh099**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
