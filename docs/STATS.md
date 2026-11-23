@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 21:31 UTC by the scrape workflow._
+_Updated 2026-11-23 21:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 21:31 UTC by the scrape workflow._
 | amvgg | 13 | 45,672 | 2026-11-23T21:30 |
 | elve | 13 | 9,693 | 2026-11-23T21:31 |
 
-## AMVGG completed trades: 57,198 total
+## AMVGG completed trades: 57,239 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,961 |
+| 2026-11-23 | 4,002 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 21:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:30 | **ExpertChipmunkPro**: Frost Dragon (MFR) | **awhjulia2**: Crow (MFR), Parrot (FR), Kangaroo (FR) ×2, Unicorn (MFR) ×6 |
-| 21:30 | **Altacct3_3**: Goose, Mini Pig | **Froggyblossom90**: Dragonfruit Fox (MFR), 2022 Birthday Party Hat |
-| 21:30 | **Rosiebomb7272**: Fly-A-Pet Potion | **aria4567Adf**: Candy Hare |
-| 21:30 | **reserbadong2**: Cryptid (FR), Ride-A-Pet Potion ×2 | **Wolde899**: Amethyst Penguin (FR) |
-| 21:30 | **nona200986**: Ride-A-Pet Potion | **Ami_Mixed**: Crystal Egg ×18 |
-| 21:30 | **HeartsForEli_1406**: Unicorn Horn, Great Pyrenees (NFR), Haunted House | **Fluffykitty_08**: 2022 Birthday Party Hat |
-| 21:30 | **aleks2u**: Slime (MFR), Fly-A-Pet Potion | **cutestbrunettes**: Cow (FR) |
-| 21:30 | **Cunuwkakv**: Goose (R), Candyfloss Chick (R), Border Collie, Fly-A-Pet Potion, Ride-A-Pet Potion | **aleks2u**: Chocolate Chip Bat Dragon (FR) |
-| 21:30 | **Caua08_Games**: Ride-A-Pet Potion ×14 | **sedamanga212**: Albino Monkey (FR) |
-| 21:30 | **ins1der672**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 | **sedamanga212**: Turtle (FR) |
-| 21:30 | **sedamanga212**: Werewolf (FR) | **Xxxxashhhh**: Pet Handler Pro Certificate ×9 |
-| 21:30 | **namerb11**: Moose Calf | **inputw**: Ride-A-Pet Potion ×2 |
-| 21:25 | **klrmnn**: Pig (FR) | **Kalasara0**: Arctic Fox (FR), Pupcicle (FR), Ride-A-Pet Potion |
-| 21:25 | **Z_Alexis22**: Turtle (FR) | **Furry_lechuga**: Kangaroo (FR), Ride-A-Pet Potion ×5 |
-| 21:25 | **prince_onepator**: Christmas Pudding Pup (NFR), Frost Unicorn (FR) | **9vvdx**: Mermicorn (FR), German Shepherd (MFR), Sneak Weasel (MR) |
+| 21:36 | **Lirannn_12345**: Ice Wolf (MFR) | **Lingling111206**: Water Moon Bear (MFR), Green Amazon (MFR), Choco Penguin (MFR), Sasquatch (MFR), Gingerbread Hare (MFR), Toy Poodle (MFR) |
+| 21:36 | **K0TIIX**: Owl (FR), Turtle (NFR), Cow (FR) ×2, Turtle (FR), Elephant, Cow, Lion (FR) | **don5556**: Giraffe |
+| 21:36 | **abdoosaad**: Fairy Bat Dragon (FR) | **xmarlarx**: Maine Coon (M), Turtle Doves (M), Mrs. Whiskerpips (NFR), St Bernard (MR), Skelicorn (MFR), German Shepherd (NR), French Bulldog (N), Pupcake (N) |
+| 21:36 | **pawinccess**: Goose, Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **JacobeanLifestyle**: Ghost Dog (MFR), Brown Springer Spaniel (MFR) |
+| 21:36 | **kiff_shik**: Aurora Fox (FR), Jester Dragon (R) | **ALEX_SEG400**: Tiny Wings |
+| 21:36 | **sharie_lovelife**: Tortoiseshell Guinea Pig, Red Dutch Guinea Pig ×2, Sushi Penguin ×2 | **Jana_ashtetic**: Strawberry Tortle |
+| 21:36 | **corbin374**: Ride-A-Pet Potion ×18 | **icebaby545**: Fly-A-Pet Potion ×9 |
+| 21:36 | **EthanNovaZoom2024**: Alpaca (R) | **DragonjJDusta107130**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 |
+| 21:36 | **rasyanoobbacon**: Unicorn Horn ×2, 2022 Birthday Confetti Cannon, Rain Cloud Hat ×2, Rainbow Maker | **qlltm**: Glormy Leo (MFR), Rose Dragon (MFR), Red Squirrel (MFR) |
+| 21:36 | **vtoriii0**: Crow (MFR) | **qlltm**: Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Winged Tiger (FR), Turtle (R), Kangaroo (FR), Border Collie (FR), Copycat (NR) |
+| 21:36 | **mellqxxrb**: Gecko Ducky (MR) | **cnqrls**: Ride-A-Pet Potion |
+| 21:36 | **Agustin_xd2009**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 | **Gamerqueen1255**: Gemstone Egg ×12 |
+| 21:36 | **User017238**: Haetyphoon | **MotzarellaSticks2**: Spring Bunny Hood, Snow Monkey (R) |
+| 21:36 | **the1nonlyst4rz**: Unicorn Horn, Tiny Wings, Candicorn (FR), Alpaca | **shailalovesjesus**: Chocolate Chip Bat Dragon (FR) |
+| 21:36 | **IamCool123Andunot**: Zodiac Minion Chick (N), Purrowl (N), Shetland Pony Dark Brown (N), Cherub Chipmunk (M) | **EmmaShad0wRider4737**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
