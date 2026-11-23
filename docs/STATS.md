@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 19:01 UTC by the scrape workflow._
+_Updated 2026-11-23 19:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 19:01 UTC by the scrape workflow._
 | amvgg | 13 | 43,139 | 2026-11-23T19:00 |
 | elve | 13 | 9,220 | 2026-11-23T19:01 |
 
-## AMVGG completed trades: 56,591 total
+## AMVGG completed trades: 56,629 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,354 |
+| 2026-11-23 | 3,392 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 19:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:00 | **grijfe8r**: Hare, Ride-A-Pet Potion | **Popa67742**: Ring-Tailed Lemur |
-| 19:00 | **Yumi_Rose8**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **Angels_201071**: Fallow Deer (R) |
-| 19:00 | **Bruno_Games76**: Spring Bunny Feet | **Samrose0005**: Flying Cloud |
-| 19:00 | **carlkilling**: Rain Boots, Butter Knife | **3486_alt**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 19:00 | **maya201013s**: Ring-Tailed Lemur (MFR) | **KnifeonKeys**: Candy Hare (MFR), Great Pyrenees (MFR), Red Dutch Guinea Pig (NFR), Spring Bunny Feet, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 18:55 | **chocolatebonnbonn**: Fly-A-Pet Potion, Mochi Meow, Old King Coal | **oxvivv**: Dire Wolf (M) |
-| 18:55 | **Cute_EnotikUwU**: Ride-A-Pet Potion | **sab_brew**: Magma Snail (N) |
-| 18:55 | **ubnnyz**: Gemstone Egg ×4 | **fehrec**: Admin Vision Cap |
-| 18:55 | **d1orkira**: Crystal Egg ×2 | **RBaba2013**: Golden Griffin |
-| 18:55 | **vampixxx00**: Boohoo (M) | **nerkym_life1331**: Snow Puma, Puma, Frog, Bubblegeist, Lunar Gold Tiger, Halloween Blue Scorpion, Spider Crab, Tan Chow-Chow, Snow Cat |
-| 18:55 | **TheAddictedSpider**: Crystal Egg ×16 | **RBaba2013**: Peahen |
-| 18:55 | **SanAndres404**: Momma Moose (MR), Koala (NFR), Shih Tzu (M) | **teddycutie7**: Ballet Swan, Latte Kitsune (R) |
-| 18:55 | **axuerilyt**: Electric Hornet, Thunderfisher ×3 | **flowerist0w04577**: Paint Sealer ×3 |
-| 18:55 | **84382g**: Fly-A-Pet Potion ×10, Pet Handler Pro Certificate | **DPOYYYYYYYY**: Siamese Cat (FR) |
-| 18:55 | **runw1thscissorz**: Balloon Dog | **mcfloatp**: Rain Hat |
+| 19:11 | **adoptmel781**: Skelicorn (NR) | **0tohedgehog**: Ride-A-Pet Potion |
+| 19:11 | **Billyontop505**: Harp Seal (MFR), Chocolate Dutch Guinea Pig (N), Skelicorn (M), Irish Elk (N) | **sherifffries3**: Munchkin Cat (NR) |
+| 19:11 | **luvly_xio**: Arctic Fox | **cookiearianna9210**: Red Dutch Guinea Pig |
+| 19:11 | **chiromux**: Thunderfisher | **valiyayao**: Ostrich |
+| 19:11 | **XxlambadguyxX**: Cow (FR), Goose (R) | **Brokencyyde**: Strawberry Shortcake Bat Dragon (FR) |
+| 19:11 | **The1AndOnlyClyde**: Giant Panda | **lemisavocaa**: Siamese Cat (MFR) |
+| 19:06 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **emoticoc34**: Cerberus (FR) |
+| 19:06 | **Sprout228777**: Dire Stag (MFR) | **Kvammletitraketa**: Jester Dragon (N) |
+| 19:06 | **Hxunted_lv**: Goose (FR), Bat Wings | **rinconbrandon2012**: Border Collie, Kitty Bat (M), Ride-A-Pet Potion, Matcha Cat (FR), Chocolate Dutch Guinea Pig, Moon Rabbit |
+| 19:06 | **xas3llx**: Retired Egg ×5 | **0o0Username0o0**: Paint Sealer ×2 |
+| 19:06 | **weelk110**: Shiver Wolf (MFR) | **Mitchellita_Alt**: Glormy Hound (NFR) |
+| 19:06 | **rrstockxadm**: Crystal Egg ×17 | **SelfL0vktwt**: Ride-A-Pet Potion |
+| 19:06 | **cursedqxxx**: Ride-A-Pet Potion ×2 | **RBaba2013**: Dragonfruit Fox |
+| 19:06 | **aloiv484**: Fly-A-Pet Potion | **localbanxx**: Tree Kangaroo |
+| 19:06 | **545364536vc**: Border Collie (R), Chocolate Dutch Guinea Pig (NR), Discosplosion | **SincerelyZandra**: Siamese Cat (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
