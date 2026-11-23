@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 22:01 UTC by the scrape workflow._
+_Updated 2026-11-23 22:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 22:01 UTC by the scrape workflow._
 | amvgg | 13 | 46,159 | 2026-11-23T22:00 |
 | elve | 13 | 9,815 | 2026-11-23T22:01 |
 
-## AMVGG completed trades: 57,308 total
+## AMVGG completed trades: 57,332 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 4,071 |
+| 2026-11-23 | 4,095 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 22:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:00 | **Deinabiluana**: Unicorn Horn | **copyvoting**: Space Whale (MFR), Ride-A-Pet Potion ×3, Velocirooster (FR) |
-| 22:00 | **Fel1xx_qi**: Hare (MFR), Chihuahua (MFR), Toucan (MFR) | **meowqi_08**: Chocolate Chip Bat Dragon (FR) |
-| 22:00 | **simf4l**: Chihuahua, Golden Griffin | **carolzaothecreator**: Pain au Chat |
-| 22:00 | **detective_emilly**: Pretty Pony (MFR), Ice Cream Heels | **Emankakshi**: Elephant (FR) |
-| 22:00 | **TANSKlN**: Cupid Dragon (MFR), Strawberry Tortle, Haetyphoon (FR), Flash Weasel, Pirate Ghost Capuchin Monkey, Frost Fury, Purple Heart Glasses | **kittencute_gamerXD**: Parrot (FR), Pet Handler Pro Certificate, Golden Tortoise Beetle (R) |
-| 22:00 | **Flux_puck**: Mini Pig (FR), Cow (FR) ×3, Goose (R), Hare (MFR), Spring Bunny Hood | **santii_css**: Bush Elephant (MFR) |
-| 22:00 | **knorwiq**: Golden Griffin | **Purdilara**: Strawberry Shortcake Bow |
-| 22:00 | **IMAO_Kiy23ALT**: Golden Unicorn (MFR) | **megafandetanjiro345**: Jester Dragon (R) |
-| 22:00 | **GrEstbn**: Diamond Griffin ×2, Ancient Dragon, Golden Griffin, Skelicorn, Stray Cat Dragon, Three Blind Mice, Huntsman Robin ×2 | **aleonio_ses**: Ride-A-Pet Potion |
-| 22:00 | **CutieShadowBunny1**: Ride-A-Pet Potion ×4 | **Mm2_girlybo**: Velocirooster |
-| 22:00 | **elfania_3**: Pinkypillar (F), Abyssinian Cat (M), Parakeet (M), Mummy Spider (N), Orangutan (N), Forest Sprite (N), Praying Mantis, Shiba Inu, Admin Abuse Egg, Budgie Witch (N) | **sarahtalksstuff**: Fly-A-Pet Potion |
-| 22:00 | **fyffddt5**: Lavender Dragon (FR) | **Kit1yyzzz**: Cerberus, Pupcicle ×2 |
-| 22:00 | **GrEstbn**: 2x Bucks Potion, Gemstone Egg, Royal Fairytale Egg, Red Panda Ducky ×15 | **MakiraLive**: Ride-A-Pet Potion |
-| 22:00 | **takemichiismywaify**: Boohoo (M) | **Zombie_8803**: Shoebill (M) |
-| 22:00 | **Omar2002548**: Midnight Dragon (R) | **xadore_brookex**: Midnight Dragon |
+| 22:11 | **donnotinteract**: Water Rabbit (FR), Shark Puppy (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **cioriiiiiiii**: Water Rabbit (MR) |
+| 22:11 | **NothinggToSiameseCat**: Shiver Wolf (N) | **YUMIIMOTHZZ**: Ride-A-Pet Potion ×2 |
+| 22:11 | **ew_darsky**: Pain au Chat ×9 | **0XBONNIEX0**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 22:11 | **012e0122**: Emperor Gorilla (NFR), Vampire Dragon (FR), Flash Weasel | **noaboa678**: Pirate Ghost Capuchin Monkey (NFR), Ring-Tailed Lemur (NFR) |
+| 22:11 | **Scentoftea**: Hot Doggo (FR) | **doelullaby**: Siamese Cat (R), Candicorn |
+| 22:11 | **C0PHYAK**: Ride-A-Pet Potion ×16 | **Z_Alexis22**: Kangaroo (FR) |
+| 22:11 | **luvmiellyy**: Ride-A-Pet Potion ×3 | **madurra012**: 2D Kitty (R), Chihuahua, Amami Rabbit, Unicorn |
+| 22:11 | **CrystalGem_999**: Border Collie | **gleeblegleeby**: Pupcicle (M), Fly-A-Pet Potion |
+| 22:11 | **Lilu2383**: Chocolate Chip Bat Dragon (FR), Blue Boohoo Mega Neon Paint ×2 | **enmaanl0**: Strawberry Shortcake Bat Dragon (FR) |
+| 22:11 | **carlkilling**: Moonbeam Peacock | **Addisonfrs**: Fly-A-Pet Potion ×5 |
+| 22:11 | **floricica_0502**: African Wild Dog (NFR), Cotton Candy Hat, Butter Knife, Chicken Hat, Music Box Hat, Festive Scarf | **1vkx3**: Cryptid (NFR) ×2, Halo |
+| 22:11 | **akeks_77**: Sugar Glider, Elephant (R), Fly-A-Pet Potion ×10, Ride-A-Pet Potion | **Davy9745**: Rainbow Maker |
+| 22:11 | **bunny9_tsuki**: Strawberry Shortcake Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) ×2 | **enmaanl0**: Owl (FR) |
+| 22:11 | **XyTk111**: Strawberry Shortcake Bat Dragon (FR), Aussie Egg | **heavsns**: Turtle (FR) ×3 |
+| 22:11 | **enmaanl0**: Jester Dragon (NF), White Amazon (MFR) | **Zocko007**: Strawberry Shortcake Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
