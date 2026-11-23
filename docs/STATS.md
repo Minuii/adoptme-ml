@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 11:25 UTC by the scrape workflow._
+_Updated 2026-11-23 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 35,654 | 2026-11-23T11:15 |
-| elve | 13 | 7,547 | 2026-11-23T11:15 |
+| amvgg | 13 | 35,883 | 2026-11-23T11:30 |
+| elve | 13 | 7,602 | 2026-11-23T11:31 |
 
-## AMVGG completed trades: 54,824 total
+## AMVGG completed trades: 54,832 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,587 |
+| 2026-11-23 | 1,595 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,14 @@ _Updated 2026-11-23 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:30 | **Klik_Kuromi**: Balloon Unicorn (FR), Kangaroo (R), Ride-A-Pet Potion | **x6qwr**: Parrot (FR) |
+| 11:30 | **wrixcte**: Glyptodon (N), Starmite (FR) | **Brxtvnny**: Fly-A-Pet Potion |
+| 11:30 | **Dhdhdhehsdhdheyeye**: Ride-A-Pet Potion ×5, Sloth (R) | **pop3791020**: Brown Bear (R), Swan |
+| 11:30 | **Kaito_Hunter130**: Fly-A-Pet Potion ×3, Chihuahua | **mimimusasusu**: Ride-A-Pet Potion ×6 |
+| 11:30 | **s0larzxxxx**: Emu (M), Pupcicle, Stray Cat Dragon, Paint Sealer | **Vikakelera**: Ride-A-Pet Potion ×2 |
+| 11:30 | **Vitamirka**: Chihuahua ×3 | **naka_paka71**: Ride-A-Pet Potion |
+| 11:30 | **verkaash**: Skunk (MR) | **vincybubble**: Christmas Pudding Pup (R) |
+| 11:30 | **Xx_inyixX**: Parrot (FR), Cupid Dragon, Fly-A-Pet Potion, Ride-A-Pet Potion | **Bekhan_omg**: Crow (FR), Turtle (FR) |
 | 11:25 | **ilove_milkywayss**: Octopus (R) | **dosolwn**: Ride-A-Pet Potion |
 | 11:25 | **AzureDrifted**: Frostbite Cub (FR) | **lzxsre**: Ride-A-Pet Potion |
 | 11:25 | **ificial2345**: Firefly | **wmwmwm029**: Cattuccino |
@@ -45,14 +53,6 @@ _Updated 2026-11-23 11:25 UTC by the scrape workflow._
 | 11:25 | **TheGodx555**: Strawberry Shortcake Bat Dragon (FR) | **KitKat96777**: Ride-A-Pet Potion ×5, Elephant (FR), Frost Fury (FR) ×2, Cow (FR) |
 | 11:25 | **DefinitelyNotCha6**: Sock Chew Toy, Snowball Launcher, Marsh Plush, Heart Balloon, Gift Throw Toy, Elf Plush, Elephant Plush, Cookie Dough Plush ×3, Candle ×2, Caticorn Rattle, Turkey Plush | **vika777120**: Fly-A-Pet Potion |
 | 11:25 | **Cosmo_syx**: Glacier Kitsune (FR) | **mdmdnkevsjsvaj**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
-| 11:25 | **Lumina20265**: Ride-A-Pet Potion | **OBVIMILLSxx**: Glormy Dolphin (N) |
-| 11:25 | **OBVM1LLS_X0**: St Bernard (M) | **charlie_0grayAlt**: Leopard Cat (NR), Cow Calf (N), Tan Chow-Chow (N), Dirty Ducky (N), Ride-A-Pet Potion, Snow Leopard, Burning Bunny |
-| 11:25 | **Irliniquette_1804**: Crow (NFR), Kangaroo (FR) | **Justlilian7**: Crow (FR), Dalmatian (FR), Brown Bear (NFR), Cow (NFR) |
-| 11:25 | **Angel_cute1339**: Mini Pig (N), Griffin (FR), Ride-A-Pet Potion | **sweetang4ll**: Fairy Bat Dragon (NFR), Turtle (FR), Diamond Ladybug (NR) |
-| 11:25 | **Sona_tnm**: Ride-A-Pet Potion | **plushrafa**: Bunny Swirl |
-| 11:25 | **TheGodx555**: Chocolate Chip Bat Dragon (FR) | **personal_stalker69**: Turtle (FR) ×2, Pink Cat (FR), Shrew (R), Shrew |
-| 11:20 | **eddsworldfan27494**: Tanuki (N) | **Callme_Mary45**: Ride-A-Pet Potion |
-| 11:20 | **Xxsunflower_watherxX**: Dragonfruit Fox, Chihuahua, Pain au Chat | **Fox_micro9311**: Fly-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
