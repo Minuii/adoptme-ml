@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 08:25 UTC by the scrape workflow._
+_Updated 2026-11-23 08:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 08:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 32,922 | 2026-11-23T08:15 |
-| elve | 13 | 6,911 | 2026-11-23T08:15 |
+| amvgg | 13 | 33,161 | 2026-11-23T08:30 |
+| elve | 13 | 7,019 | 2026-11-23T08:31 |
 
-## AMVGG completed trades: 54,432 total
+## AMVGG completed trades: 54,433 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,195 |
+| 2026-11-23 | 1,196 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,7 @@ _Updated 2026-11-23 08:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:30 | **larisochka_gudeeva98**: Ride-A-Pet Potion ×11, Leopard Cat (MFR) | **NotSweatyOnion**: Flamingo (FR) |
 | 08:25 | **ElsaRolbox9**: Moon Rabbit | **V4ETH**: Pupcicle |
 | 08:25 | **GL0SSY4XIS**: Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR), Ride-A-Pet Potion ×2 | **ALV4RYTO**: Matcha Cat (MFR) |
 | 08:25 | **it_isMushu**: Candy Flare Mega Neon Paint | **zianagirls**: Rose Quartz Glow Mega Neon Paint |
@@ -52,7 +53,6 @@ _Updated 2026-11-23 08:25 UTC by the scrape workflow._
 | 08:25 | **AliceAvokadi**: Pain au Chat, Orca, Ginger Cat, Pomeranian, Nurse Shark, River Otter, Blue Whale, Ice Cube, Zebra | **Constancee_Starr**: Ride-A-Pet Potion |
 | 08:25 | **DrinklngMilk**: Ride-A-Pet Potion ×3 | **loiol1004**: Priceless Shrimp, Clownfish (N), Water Moon Bear (N), Sabertooth (NR) |
 | 08:25 | **00099hh1**: Pig (FR) | **Leviodas**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 |
-| 08:25 | **hoschakaI**: Siamese Cat (MFR) ×2 | **lucaMT967**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
