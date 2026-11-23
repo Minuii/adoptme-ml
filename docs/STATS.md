@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 19:55 UTC by the scrape workflow._
+_Updated 2026-11-23 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 43,870 | 2026-11-23T19:45 |
-| elve | 13 | 9,368 | 2026-11-23T19:46 |
+| amvgg | 13 | 44,136 | 2026-11-23T20:00 |
+| elve | 13 | 9,434 | 2026-11-23T20:01 |
 
-## AMVGG completed trades: 56,841 total
+## AMVGG completed trades: 56,842 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,604 |
+| 2026-11-23 | 3,605 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,7 @@ _Updated 2026-11-23 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:00 | **AdamBawaaneh6**: Hedgehog, Paint Sealer, Admin Abuse Egg ×4 | **Car1os_xd**: Hedgehog (R) |
 | 19:55 | **LolBoop21**: Zombie Chick (N), Stray Cat Dragon (N), Shiba Inu (N), Red Panda (N), Thunderfisher (N), Little Lamb (N) | **adopt_pandik**: Fly-A-Pet Potion |
 | 19:55 | **erickproari**: Cerberus | **VEE_MICWEEZER**: Ride-A-Pet Potion ×2 |
 | 19:55 | **fayesweet13**: Ride-A-Pet Potion ×3 | **kauwixz**: Kitsune (NFR) |
@@ -52,7 +53,6 @@ _Updated 2026-11-23 19:55 UTC by the scrape workflow._
 | 19:55 | **kalyahlovee**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Chocolate Dutch Guinea Pig | **24h_adoptmecow**: Jester Dragon |
 | 19:55 | **Frits_Snoek**: Ride-A-Pet Potion ×2 | **momomopo622**: Stray Cat Dragon (M) |
 | 19:55 | **Amvgg_Amvggg**: Frost Dragon (FR) | **MrsJane07**: Owl (FR), Turtle (FR) ×2, Elephant (FR) |
-| 19:55 | **Sk4tesItsAriaBlox**: Count Slothula ×3 | **alina36_r**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
