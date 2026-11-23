@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 00:55 UTC by the scrape workflow._
+_Updated 2026-11-23 01:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 00:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 25,666 | 2026-11-23T00:45 |
-| elve | 13 | 5,644 | 2026-11-23T00:46 |
+| amvgg | 13 | 25,948 | 2026-11-23T01:00 |
+| elve | 13 | 5,679 | 2026-11-23T01:01 |
 
-## AMVGG completed trades: 53,432 total
+## AMVGG completed trades: 53,449 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 195 |
+| 2026-11-23 | 212 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 00:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:55 | **XxSorvetyxX**: Turtle (FR), Ride-A-Pet Potion, Pig (R) | **meowieboogie**: Cow (FR) |
-| 00:55 | **c0mpoo**: Turtle (FR), Alpaca (FR), Siamese Cat, Fly-A-Pet Potion, Ride-A-Pet Potion | **YesqueenUwO**: Arctic Reindeer (FR) |
-| 00:55 | **SlayAllDay22881**: Gummy Guana | **Shy_G0n9**: Jacobin Pigeon |
-| 00:55 | **EriOnSuMa**: Pet Handler Pro Certificate | **JxsYBe**: Fly-A-Pet Potion |
-| 00:55 | **wjredmind**: Jellyfish (R), Aestus, Jimothy | **arturo7pose12345**: Baku ×4, Cobra (R), Cobra (F), Hawk ×2, T-Rex (R), Octopus, Guardian Lion (R), Golden King Penguin (R), Shark (R), Goldhorn, Ride-A-Pet Potion |
-| 00:55 | **adoptmetradeacc7**: Strawberry Tortle, Pupcicle (M), Copycat | **bhjrjei**: Shark Puppy (NFR) |
-| 00:55 | **Doro4ka0015**: Rotating Periscope ×3, Science Hat ×2, Grinder Hat | **KJCT654300**: Chocolate Chip Bat Dragon Backpack |
-| 00:55 | **Linwtx**: Harp Seal (MR), Ice Cream Hermit Crab | **ccs_42**: Lion Cub (N) |
-| 00:55 | **ghostqsinz**: Christmas Pudding Pup (R) | **ophyns**: Arctic Dusk Dragon (FR) |
-| 00:55 | **reserbadong2**: Strawberry Shortcake Bat Dragon (FR) ×2 | **mm2onlytrading**: Amethyst Penguin, Candicorn, Christmas Pudding Pup (R) |
-| 00:55 | **1qwerty6709**: Candicorn, Fly-A-Pet Potion | **n016839**: Fallow Deer (NFR) |
-| 00:55 | **rastafarismo10**: Hedgehog | **GalaxyCat_X5**: Strawberry Shortcake Bat Dragon (FR), Mini Pig (FR), Ride-A-Pet Potion |
-| 00:55 | **rastafarismo10**: Strawberry Shortcake Bat Dragon (FR), Candicorn (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **jArYnAa**: Dalmatian (FR) |
-| 00:55 | **MM_Cloud**: Crystal Egg ×15 | **lacandon1235**: Ride-A-Pet Potion |
-| 00:55 | **Babycook378**: Peppermint Penguin (FR), Crocodile | **Bismuth234**: Mini Pig (FR), Snow Monkey |
+| 01:00 | **Cindysaccount39**: Dragonfruit Fox (NFR) | **bhjrjei**: Pupcicle (M) |
+| 01:00 | **Trop1cxlMe1on**: Goose (MFR) | **nilajlolxd**: Alpaca (NFR), Fairy Bat Dragon (FR), Mermicorn (FR), Bush Elephant (FR), Rainbow Maker, Angel Wings, Toaster Hat, Unicorn Horn, Tiny Wings, Ice Cream Cone Hat, Spring Bunny Hood |
+| 01:00 | **svqh12**: Quokka (MFR) | **Countmeowww**: Tiny Wings |
+| 01:00 | **LeaNavarro98**: Golden Rat (N) | **NATOESEEENYT**: Jester Dragon (R) |
+| 01:00 | **Stopan820**: Ride-A-Pet Potion ×10 | **ADOPMEBAT5**: Ice Cream Cone Hat, Husky (R), Husky |
+| 01:00 | **serpentibendi**: Strawberry Shortcake Bat Dragon (MFR), Ice Cream Cone Hat | **Cute_CocoMouse**: Parrot (FR), Haetae (FR), Strawberry Shortcake Bat Dragon (NFR) |
+| 01:00 | **Exhowishpers**: African Wild Dog (FR), 2022 Birthday Party Hat, 2022 Birthday Party Horn | **starfire_33334**: Balloon Unicorn (FR), 2022 Birthday Cake |
+| 01:00 | **nyasabi**: Strawberry Shortcake Bat Dragon (MFR), Balloon Unicorn (FR), Fly-A-Pet Potion | **serpentibendi**: Giant Panda (NFR) |
+| 01:00 | **aawesomepawsomesauce**: Shark Puppy (MFR) | **Pancakes7240**: Mermicorn (NR), Cabbit (FR), Unicorn Horn |
+| 01:00 | **Gabriele143love**: Black Macaque (MR) | **n1noBl**: Fly-A-Pet Potion ×6 |
+| 01:00 | **reaper_pickles**: Ride-A-Pet Potion | **irusik_rbx0**: Paint Sealer ×14 |
+| 01:00 | **addy_cat100**: Siamese Cat (FR), Rain Boots, Red Squirrel (R), Lamb (R), Chihuahua | **moundedmonkii**: Sugar Glider (FR) |
+| 01:00 | **evieebunnii**: Chihuahua ×3 | **Stydnn0**: Ride-A-Pet Potion |
+| 01:00 | **betterwatchmerot**: Emu, Mummy Spider ×2 | **Onyx_ctr**: Retired Egg ×5 |
+| 01:00 | **yaelthebannana**: Sushi Penguin, Aye Aye (N) | **Stydnn0**: Pupcicle |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
