@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 06:16 UTC by the scrape workflow._
+_Updated 2026-11-23 06:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 06:16 UTC by the scrape workflow._
 | amvgg | 13 | 31,051 | 2026-11-23T06:15 |
 | elve | 13 | 6,552 | 2026-11-23T06:15 |
 
-## AMVGG completed trades: 54,146 total
+## AMVGG completed trades: 54,170 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 909 |
+| 2026-11-23 | 933 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 06:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:11 | **ZafiY_hay**: Arctic Reindeer (FR), Mini Pig (R) | **itzlexi63737**: Hedgehog (FR), Giant Anteater (FR) |
-| 06:11 | **gorevqx**: Angel Wings | **youchi_nagi**: Fairy Bat Dragon (FR) |
-| 06:11 | **neapol1tanz**: Copycat (R), Dragonfruit Fox | **MelodycurielGamer**: Chick (MR) |
-| 06:11 | **D8RYY**: Evil Unicorn (FR), Elephant (FR), Unicorn Horn, Tiny Wings, Ride-A-Pet Potion ×2, Pink Cat Ear Headphones | **adoptmeplayerhi10**: Crow (FR) |
-| 06:11 | **Flux_puck**: Flamingo (R) | **pinksugarcookiesruu**: Spring Bunny Hood, Ice Cream Cone Hat ×2 |
-| 06:06 | **NotSweatyOnion**: Siamese Cat (R) | **dasha_123qwr**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion ×2 |
-| 06:06 | **dnei30fast**: Fly-A-Pet Potion ×3 | **RiderCyber5886**: Harp Seal ×4 |
-| 06:06 | **wjredmind**: Goose, Peppermint Penguin (R), Alpaca (R), Gaelic Fae | **fenekitfixismymain**: Cupid Dragon (R), Cupid Dragon (FR) ×2, Pig (R), Munchkin Cat ×2, Shark Puppy (R), Border Collie (R), Candicorn |
-| 06:06 | **Suboxow**: Dragonfruit Fox (N), Ride-A-Pet Potion | **bundledbatss**: Dango Penguins (N) |
-| 06:06 | **lizesndk**: Kangaroo (FR), Ride-A-Pet Potion ×3 | **flex0mp**: Unicorn Horn |
-| 06:06 | **YTstaro**: Frost Phoenix (NFR), Frost Phoenix (N) | **RiiceCurry**: Candicorn (FR) |
-| 06:06 | **valentina_nic90**: Gecko Ducky (M), Bluebottle Fly (N), Snowman, Merhorse, Walrus, Waffle Wyrm | **UmU976432**: Ride-A-Pet Potion |
-| 06:06 | **Aflramii**: Cherry-On-Top, Cotton Candy Hat, Pain au Chat | **blu3berrydoughnut**: Angel Wings |
-| 06:06 | **Itzzz_V1v1**: Candy Cane Snail, Retired Egg ×2 | **Slayqueen23079**: Magma Snail ×2 |
-| 06:06 | **BOISTER0011**: Kangaroo (R) | **clarisse_tubeuse**: Candicorn (FR) |
+| 06:20 | **ruryrhsxgryuf**: Jester Dragon (FR), Phantom Dragon (R) | **Yamajyjopyvazelinov1**: Munchkin Cat |
+| 06:20 | **DefinitelyNotCha6**: Sock Chew Toy, Snowball Launcher, Reindeer Plush, Polar Bear Plush, Marsh Plush, Heart Balloon, Gift Throw Toy, Elf Plush, Creepy Balloon, Cookie Dough Plush ×3, Candle ×2, Banana Plush | **stoIencorpses**: Fly-A-Pet Potion |
+| 06:20 | **rinconbrandon2012**: Cabbit (R) | **ProMysticWraith**: Border Collie, Elephant (R) |
+| 06:20 | **Zacawetomaia**: Kakapo (M), California Condor (M) | **lalagirlhehe8**: Ermine (N) |
+| 06:20 | **D3vi1zone**: Arctic Reindeer (FR), Fairy Bat Dragon (FR) | **jsspiscis_2802**: Evil Unicorn (FR) |
+| 06:20 | **jsspiscis_2802**: Frost Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ooohhff85**: Owl (FR), Chocolate Chip Bat Dragon (FR) |
+| 06:20 | **cyptiaI**: Bready Necklace | **silencer282**: Fly-A-Pet Potion |
+| 06:20 | **kxil_008**: Grim Dragon (FR) | **silencer282**: Fly-A-Pet Potion ×15 |
+| 06:20 | **yu6iio**: Goat (NR) | **fizzyyxz**: Silly Duck (MFR), Harp Seal |
+| 06:20 | **Sirswagalishsus**: Mermicorn, Border Collie (R), Slimingo (M), Goat (R), Jester Dragon (FR), Alicorn (MFR), Dancing Dragon (FR), Cerberus (R) | **ambervgils**: Strawberry Shortcake Bat Dragon (FR) |
+| 06:20 | **draike_tzu8262**: Koi Carp | **S24k_lanae**: Retired Egg ×18 |
+| 06:20 | **Flux_puck**: Turtle (FR), 2022 Birthday Party Horn | **sprxngbonnie**: Cow (FR) |
+| 06:20 | **Ilovebordercollie129**: Werewolf (R) | **dhryeu1234**: Velocirooster (NFR) |
+| 06:20 | **Vexspera**: Velocirooster (NFR) | **dhryeu1234**: Haetyphoon (FR) |
+| 06:20 | **hzmimii**: Ride-A-Pet Potion ×2 | **sandyneapolitancat**: Stray Cat Dragon (M) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
