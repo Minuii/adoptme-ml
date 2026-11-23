@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 20:31 UTC by the scrape workflow._
+_Updated 2026-11-23 20:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 20:31 UTC by the scrape workflow._
 | amvgg | 13 | 44,654 | 2026-11-23T20:30 |
 | elve | 13 | 9,536 | 2026-11-23T20:31 |
 
-## AMVGG completed trades: 56,967 total
+## AMVGG completed trades: 57,038 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,730 |
+| 2026-11-23 | 3,801 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 20:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:25 | **mateomylove0**: Mole (N) | **PiesekTubson**: Snow Cloud Wings |
-| 20:25 | **abbhjsxjnsijs**: Turtle (FR), Ice Golem, Ride-A-Pet Potion | **HEKITA_KOT**: Lion Cub (NFR) |
-| 20:25 | **m_uf1n**: Ninja Monkey (FR) | **Vlakuu**: Ride-A-Pet Potion ×2 |
-| 20:25 | **XAxelX88**: Moose Calf (MFR), Lion (NFR), Kangaroo (R) | **AstroBerry8082**: Alpaca (NFR) |
-| 20:25 | **luvyerh**: Cow (FR) | **LEODAGOATT710**: Munchkin Cat (R), Pig (FR), Crocodile (FR) |
-| 20:25 | **pinkie_piee232**: Tortoiseshell Guinea Pig, Flash Weasel, Red Dutch Guinea Pig, Sushi Penguin | **sharie_lovelife**: Cabbit |
-| 20:25 | **BREEZY_LOVER1**: Turtle (FR) ×2, Ghost Bunny (MFR), Panda (MFR) | **copyvoting**: Munchkin Cat (MFR) |
-| 20:25 | **lolppp0vld**: Evil Unicorn (FR), Huntsman Robin (N) | **RistovN**: Cryptid (FR) |
-| 20:25 | **lavamanos88**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR) ×2 | **ALTACCOUNT1333475**: Frost Dragon (FR), Fly-A-Pet Potion |
-| 20:25 | **ILMIRAGINI120**: Crocodile (FR), Arctic Fox (R), Ride-A-Pet Potion, Lava Wolf, Puffer Fish | **luvyerh**: Turtle (FR) |
-| 20:25 | **abobus3484665**: Owl (FR) | **x6qwr**: Parrot (FR), Turtle (FR), Crocodile (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion |
-| 20:25 | **BLACK_LK11**: Giraffe (FR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Many Mackerel, Shark Puppy (NFR), Burnt Bites Bait | **BlizzardvwQuantumO13**: Frost Dragon (NFR) |
-| 20:25 | **Zlota_Sofa**: Monkey King Crown | **Secret_Secretov321**: Ride-A-Pet Potion |
-| 20:25 | **atracttion**: Christmas Pudding Pup (MFR), Pancake Stack, Harp Seal (MFR), Snowball Pug (M), Fly-A-Pet Potion | **1nlouv**: Siamese Cat (M) |
-| 20:25 | **ALTACCOUNTTT435**: Crystal Egg ×15 | **banani_Offishal**: Ride-A-Pet Potion |
+| 20:41 | **yyLalameloYT**: Admin Vision Wings | **AvokadoJFKfanat**:  |
+| 20:41 | **prince_onepator**: Border Collie (R), Tiny Wings, Ride-A-Pet Potion, Cotton Candy Hat | **Special_Foxi**: Christmas Pudding Pup (NFR) |
+| 20:41 | **ddeonuml**: Zombie Wolf (MFR) | **Xily_cerise**: Goldhorn (MFR) |
+| 20:41 | **The1AndOnlyClyde**: Strawberry Penguin (MFR), Happy Duckling (MR), Leopard Cat (M), Fly-A-Pet Potion ×3 | **wishkatara**: Siamese Cat (MFR) |
+| 20:41 | **lytkinnik**: Yule Log Dog (MFR), Husky (MFR), Frostbite Cub (MFR), Great Pyrenees (MFR) | **Mija1978B**: Field Mouse (MFR) |
+| 20:41 | **XxlambadguyxX**: Gold Fairy Crown | **PiesekTubson**: White Chef Hat |
+| 20:41 | **lolsoqrai46**: Goat (MFR), Irish Water Spaniel (MFR), Ice Cream Cone Hat, Sheeeeep, Chocolate Dutch Guinea Pig (M), Harp Seal (M) | **summerg6mes**: Goose (MFR) |
+| 20:41 | **Vicky_200804**: Lavender Dragon (MFR), Harp Seal (MFR) | **joeyharri12**: Rose Dragon (MFR) |
+| 20:41 | **Addisonraeee25**: Strawberry Shortcake Bat Dragon (NFR) | **crown12256**: Tri-horned Treehopper (MFR), Tri-horned Treehopper (NR), Unicorn (MFR) |
+| 20:41 | **Angelbatista_me2**: Strawberry Tortle (R) | **outcIubbin**: Pelican |
+| 20:41 | **GrEstbn**: Orca (M), Pomeranian (N), Red Panda (N), Shiba Inu (N) ×2, Swordfish (N) | **cxbvnniz**: Fly-A-Pet Potion |
+| 20:41 | **Secret_Secretov321**: Ride-A-Pet Potion | **zariahaff**: Mermaid Mansion |
+| 20:41 | **SignedByPen**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (NFR), Munchkin Cat (NFR), Candyfloss Chick (FR) | **gogo549**: Frost Dragon (FR) |
+| 20:41 | **cxlliomiaw**: Turtle (FR), Choco Penguin (MR), Fly-A-Pet Potion | **Patto_Cuack**: Fairy Bat Dragon (FR) |
+| 20:41 | **LxckeHeart**: Unicorn Horn | **1nt0x1csweet**: Tortoiseshell Guinea Pig, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
