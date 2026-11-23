@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 05:46 UTC by the scrape workflow._
+_Updated 2026-11-23 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 05:46 UTC by the scrape workflow._
 | amvgg | 13 | 30,606 | 2026-11-23T05:45 |
 | elve | 13 | 6,515 | 2026-11-23T05:46 |
 
-## AMVGG completed trades: 54,115 total
+## AMVGG completed trades: 54,126 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 878 |
+| 2026-11-23 | 889 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 05:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:55 | **darrylin_mendz**: Bush Elephant (NFR) | **iiSimplylvxy**: Rainbow Maker |
+| 05:55 | **lizzy_th3phenomena**: Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **lollipopleah7861**: Easter Bunny (M) |
+| 05:55 | **Tyyyyy_tyy1**: Admin Abuse Box ×3 | **l1n_yourgf**: Rubber Ducky Box |
+| 05:55 | **justforfun02188**: Cabbit (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **L_person21**: Dragonfruit Fox (M), Mini Pig (R) |
+| 05:55 | **Scar_3090**: Chocolate Chip Bat Dragon (FR), Cow (FR) | **qlltm**: Cabbit (R), Siamese Cat (R), Rain Cloud Hat, Spring Bunny Nose, Frost Unicorn, Hare (N) |
+| 05:55 | **clarisse_tubeuse**: Turtle (FR) ×3 | **TMDung20**: Candicorn (FR) ×4, Spring Bunny Feet |
+| 05:55 | **dandysworldfan_L0L**: Unicorn ×2 | **hijodefrutaXdd9**: Fly-A-Pet Potion |
+| 05:55 | **SwxIIenThoughts**: Frost Unicorn (FR), Copycat, Propeller Hat | **miriam89300**: Harp Seal (MFR) |
+| 05:55 | **star_adelina**: Super Saru (R), Ancient Dragon, Huntsman Robin | **hxrry12345678**: Ride-A-Pet Potion |
+| 05:55 | **z1_u1**: Ride-A-Pet Potion | **meowwwwwww326**: Skelicorn ×8 |
+| 05:55 | **eicncn**: Copycat (NFR) | **HabaundSamira13**: Arctic Fox (NFR) |
 | 05:45 | **Cat_197s**: Hedgehog (FR), Evil Unicorn (FR), Unicorn Horn, Tortoiseshell Guinea Pig, Crocodile, Chocolate Dutch Guinea Pig (N), Tanuki (MR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Spring Bunny Feet, Peachick (N) | **notiamjhom**: Frost Dragon (FR) |
 | 05:45 | **meowieboogie**: Turtle (FR) | **Reset26566741**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×13 |
 | 05:45 | **l0ve1y_br00k**: Owl (FR), Cow (NFR) | **GeneralPatrick_14**: Frost Dragon (FR) |
 | 05:45 | **pssixotrop**: Arctic Dusk Dragon (MFR), Fairy Bat Dragon (NFR), Christmas Pudding Pup (NR), Fallow Deer (NFR), Tiny Wings | **notiamjhom**: Owl (FR) |
-| 05:45 | **arturo7pose12345**: Kiwi Kiwi ×8, Pain au Chat ×4, Chihuahua ×2 | **AvaNari2010**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 |
-| 05:45 | **clalouetciedh**: Dragonfly ×15 | **Ridingpro657**: Ride-A-Pet Potion |
-| 05:45 | **nicebaconfg**: S'mores Raccoon, Sushi Penguin, Moon Rabbit, Jiggly Jerboa (M), Glyptodon Ducky (M), Burger Bear | **daridaridari222**: Pet Handler Pro Certificate ×2 |
-| 05:45 | **gonewiththesln**: Mini Pig | **kaylamicmi**: Goat (R), Polar Bear ×2, Fly-A-Pet Potion ×3, Yeti (MFR) |
-| 05:45 | **s1ltn0w**: Alpaca (MFR) ×3, Ice Cream Cone Hat | **IzeaEboy**: Bat Dragon (FR), Candyfloss Chick (MFR) |
-| 05:45 | **copyvoting**: Ring-Tailed Lemur (N), Scorching Kaijunior (NR), Platypus, Ride-A-Pet Potion | **L_person21**: Goose (R) |
-| 05:45 | **mdmdnkevsjsvaj**: Dog (NFR), Cat (MFR) | **MatsukiMakima**: Pet Handler Pro Certificate |
-| 05:40 | **Nugg3tsito1**: Christmas Pudding Pup, Christmas Pudding Pup (R), Arctic Fox (R), Kappakid (MR), Gemstone Egg ×2 | **xqvuri**: Christmas Pudding Pup (NFR) |
-| 05:40 | **Gamerqueen1255**: Gemstone Egg | **CMETANKA30708**: Retired Egg ×18 |
-| 05:40 | **Robles6498369**: Peppermint Penguin (NFR), Christmas Pudding Pup (R) | **realreal545**: Rainbow Maker ×2 |
-| 05:40 | **S30u1x**: Hot Doggo (FR), Siamese Cat (R), Arctic Fox (FR) | **j3nxy000**: Chocolate Chip Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
