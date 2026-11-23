@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 09:31 UTC by the scrape workflow._
+_Updated 2026-11-23 09:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 09:31 UTC by the scrape workflow._
 | amvgg | 13 | 34,112 | 2026-11-23T09:30 |
 | elve | 13 | 7,199 | 2026-11-23T09:31 |
 
-## AMVGG completed trades: 54,542 total
+## AMVGG completed trades: 54,583 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,305 |
+| 2026-11-23 | 1,346 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 09:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:30 | **sweetang4ll**: Spring Bunny Hood, Ride-A-Pet Potion ×2, Spring Bunny Feet, Pet Handler Pro Certificate | **cocse00**: Tiny Wings |
-| 09:30 | **VelicuDeea**: Candicorn (NR), Turtle (FR), Mermicorn (FR), Unicorn (M), Munchkin Cat | **Elroy_maktum**: Cryptid (FR) |
-| 09:30 | **TheHatecupid**: Pet Handler Pro Certificate, Fairytale Egg ×2 | **Gooblin_trool**: Albino Bat (N) |
-| 09:30 | **Gooblin_trool**: Albino Bat (N), Cracked Egg | **TheHatecupid**: Ride-A-Pet Potion ×2 |
-| 09:30 | **Gooblin_trool**: Red Sand Dollar | **Bloop_child**: Ride-A-Pet Potion |
-| 09:30 | **AsianIceCold**: Christmas Pudding Pup (R) | **DiesDasundAnanas**: Ride-A-Pet Potion ×7 |
-| 09:30 | **Ducko_heh**: Admin Abuse Egg ×8, Hydra, Admin Abuse Box ×4, Paint Sealer ×3 | **ihatescammers2008**: Unicorn |
-| 09:30 | **DefinitelyNotCha6**: Bone Wings ×2, Pink Hightops, Strawberry Shortcake Bow, White Designer Backpack, Bat Wings, Festive Scarf, Founder's Crown, Ghost Hat, Halloween White Skull Hat, Pirate Hat, Summer Walrus Sunhat, Watermelon Backpack, Yellow Instant Camera, Candy Cane (Pet Wear) | **robloxer_3614**: Fly-A-Pet Potion ×2 |
-| 09:30 | **hello_oliya**: Wildfire Hawk (R) | **Nokia266253**: Mighty Haetyphoon Animated Sticker |
-| 09:30 | **cxar_25**: Winged Horse (MFR) | **mypinktiaraa**: Rain Cloud Hat |
-| 09:20 | **Utenok_Jackii**: Ride-A-Pet Potion | **ilove_milkywayss**: Crystal Egg ×17 |
-| 09:20 | **alt22_master**: Goose (FR), Goose (R), Caterpillar (FR) | **AerialVix**: Fairy Bat Dragon (NFR) |
-| 09:20 | **sakuraeblossom**: Pig (FR), Gold Crown | **garinha_500**: Crocodile (FR) |
-| 09:20 | **rhubararian**: African Wild Dog (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) ×2, Goose (FR), Cow (FR), Cabbit (FR) | **wherearewenow5**: Owl (NFR) |
-| 09:20 | **KyraPidgorn**: Bauble Buddies (N) | **Yumi_Rose8**: Pet Handler Pro Certificate |
+| 09:40 | **LUISMATEO3112**: Ride-A-Pet Potion | **xq0vlis**: Kitty Bat |
+| 09:40 | **INeverrCap**: Magma Moose (M) | **AdoptMeHere03**: Ride-A-Pet Potion ×4 |
+| 09:40 | **Xz_CodeOLDriftdLBliz**: Matcha Cat | **DewrattlSR**: Gemstone Egg ×15 |
+| 09:40 | **Princess_Kourtney900**: Ride-A-Pet Potion ×13 | **Whonayou12**: Panda (NR), Penguin (MR), Pumpkin Friend (N), Horse (NR), Toasty Red Panda (N) |
+| 09:40 | **the3reveng**: Black-Footed Ferret (N), Ribbon Seal (N), Milk Choccybunny (N), Pilot Gull (N), Gecko Ducky (N) | **Stopan820**: Ride-A-Pet Potion |
+| 09:40 | **Sunflower_Play235**: Christmas Pudding House | **Wypsikarr_Wrr**: Chihuahua |
+| 09:40 | **Vitamirka**: Pain au Chat ×3 | **quupeei**: Ride-A-Pet Potion |
+| 09:40 | **DefinitelyNotCha6**: Space Fleet House | **AlastorDanger**: Fly-A-Pet Potion |
+| 09:40 | **aliyah_v2**: Sheeeeep (MFR), Groundhog (MFR), Snow Monkey (MFR) | **RBstela**: Bush Elephant (MFR) |
+| 09:40 | **ljwempire777**: Cherry Blossom Hang Glider, Stray Cat Dragon (M) | **xxXchange_Vibe**: Santa Hat |
+| 09:40 | **clumsibunsi**: Pain au Chat | **ahojkakacahoj**: Paint Sealer ×6 |
+| 09:40 | **calampianojames**: Giant Panda (FR), Aestus (NFR), Latte Kitsune (NFR), Matcha Cat ×3, Owlbear (NR) | **leruval**: Owl (FR) |
+| 09:40 | **qeruigo**: Crow (FR), Strawberry Tortle (FR), Cow (NFR), Tortoiseshell Guinea Pig, Velocirooster | **AvaCometfish961**: Frost Dragon (FR) |
+| 09:40 | **cutiemoonplalmira**: Arctic Dusk Dragon (NFR), Jester Dragon (NFR), Fairy Bat Dragon (FR) | **phoniex_20103**: Strawberry Shortcake Bat Dragon (FR) |
+| 09:40 | **Ayenagaming_15**: Pig, Dango Penguins | **rhian_nn08**: Quad Stroller |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
