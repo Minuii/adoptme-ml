@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 19:11 UTC by the scrape workflow._
+_Updated 2026-11-23 19:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 19:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 43,139 | 2026-11-23T19:00 |
-| elve | 13 | 9,220 | 2026-11-23T19:01 |
+| amvgg | 13 | 43,383 | 2026-11-23T19:15 |
+| elve | 13 | 9,247 | 2026-11-23T19:15 |
 
-## AMVGG completed trades: 56,629 total
+## AMVGG completed trades: 56,677 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,392 |
+| 2026-11-23 | 3,440 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 19:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:11 | **adoptmel781**: Skelicorn (NR) | **0tohedgehog**: Ride-A-Pet Potion |
-| 19:11 | **Billyontop505**: Harp Seal (MFR), Chocolate Dutch Guinea Pig (N), Skelicorn (M), Irish Elk (N) | **sherifffries3**: Munchkin Cat (NR) |
-| 19:11 | **luvly_xio**: Arctic Fox | **cookiearianna9210**: Red Dutch Guinea Pig |
-| 19:11 | **chiromux**: Thunderfisher | **valiyayao**: Ostrich |
-| 19:11 | **XxlambadguyxX**: Cow (FR), Goose (R) | **Brokencyyde**: Strawberry Shortcake Bat Dragon (FR) |
-| 19:11 | **The1AndOnlyClyde**: Giant Panda | **lemisavocaa**: Siamese Cat (MFR) |
-| 19:06 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **emoticoc34**: Cerberus (FR) |
-| 19:06 | **Sprout228777**: Dire Stag (MFR) | **Kvammletitraketa**: Jester Dragon (N) |
-| 19:06 | **Hxunted_lv**: Goose (FR), Bat Wings | **rinconbrandon2012**: Border Collie, Kitty Bat (M), Ride-A-Pet Potion, Matcha Cat (FR), Chocolate Dutch Guinea Pig, Moon Rabbit |
-| 19:06 | **xas3llx**: Retired Egg ×5 | **0o0Username0o0**: Paint Sealer ×2 |
-| 19:06 | **weelk110**: Shiver Wolf (MFR) | **Mitchellita_Alt**: Glormy Hound (NFR) |
-| 19:06 | **rrstockxadm**: Crystal Egg ×17 | **SelfL0vktwt**: Ride-A-Pet Potion |
-| 19:06 | **cursedqxxx**: Ride-A-Pet Potion ×2 | **RBaba2013**: Dragonfruit Fox |
-| 19:06 | **aloiv484**: Fly-A-Pet Potion | **localbanxx**: Tree Kangaroo |
-| 19:06 | **545364536vc**: Border Collie (R), Chocolate Dutch Guinea Pig (NR), Discosplosion | **SincerelyZandra**: Siamese Cat (FR) |
+| 19:15 | **FcNikita24**: Frost Fury (FR), Jester Dragon (FR), Velocirooster, Copycat ×2 | **ZockerCelina_20**: Turtle (FR) |
+| 19:15 | **sofia123098359**: Unicorn (M), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **LYIZA_1976**: Jellyfish (R) |
+| 19:15 | **Xnixht**: Frost Dragon (FR), Chihuahua (N), Catte, Chihuahua ×2 | **aykoo600**: Crow (FR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Candicorn (FR), Kangaroo |
+| 19:15 | **pianuevo17**: Chihuahua | **TRVASIACAT2020**: Thunderfisher (N), Golden Unicorn, Golden Dragon |
+| 19:15 | **zxc_ph0enix**: Dalmatian (FR), Wolf (MFR) | **mymylamoo1**: Cryptid (FR) |
+| 19:15 | **lnH3II**: Munchkin Cat (M), 2022 Birthday Party Hat, Tiny Wings, Sweetheart Rat (MR) | **Koko73464**: Haetae (FR) |
+| 19:15 | **skarknado4_death**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) | **Mnenormalno_0**: Hedgehog (FR), Turtle (R), Flamingo (FR), Puffer Fish (NFR), Ride-A-Pet Potion ×2, Halloween Golden Mummy Cat, Mochi Meow (NR) |
+| 19:15 | **lesya_nyashk**: Goat (NR), Fly-A-Pet Potion | **Diamond161012**: Goose |
+| 19:15 | **josuebogarr**: Pet Handler Pro Certificate, Chocolate Dutch Guinea Pig | **kristal_dana0**: Dango Penguins (R) |
+| 19:15 | **fwthaclout**: Goose ×3, Mini Pig, Hot Doggo (FR), Fairy Bat Dragon, Peppermint Penguin, Fly-A-Pet Potion | **M1dnight_moons**: Bush Elephant (MFR) |
+| 19:15 | **ch4rliesde4d**: Undead Jousting Horse (NR), Arctic Dusk Dragon (FR) | **Anelchik_i**: Blazing Lion (FR) |
+| 19:15 | **zeejnaa**: Cow (FR) ×2, 2022 Birthday Cake, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **pepapepa333**: Velocirooster (MR) |
+| 19:15 | **La_danonee**: Cryptid (R) | **Yuri_gatwo**: Strawberry Shortcake Bat Dragon (FR), Siamese Cat (FR), Kitty Bat, Butter Knife, White Chef Hat, Puddleducks Hood, Puptune, Cattuccino, Ghostly Cat, Onza, Ermine |
+| 19:15 | **sherifffries3**: Chocolate Dutch Guinea Pig (N), Strawberry Penguin, Unicorn (N), Skelicorn (M), Fly-A-Pet Potion, Irish Elk (N), Ride-A-Pet Potion ×4, Ghostly Cat (N) | **JesusChristSaves19**: Fairy Bat Dragon (FR) |
+| 19:15 | **IKSBmusicI**: Unicorn ×4 | **akeks_77**: Fly-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
