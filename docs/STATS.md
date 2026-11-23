@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 19:25 UTC by the scrape workflow._
+_Updated 2026-11-23 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 43,383 | 2026-11-23T19:15 |
-| elve | 13 | 9,247 | 2026-11-23T19:15 |
+| amvgg | 13 | 43,623 | 2026-11-23T19:30 |
+| elve | 13 | 9,303 | 2026-11-23T19:31 |
 
-## AMVGG completed trades: 56,695 total
+## AMVGG completed trades: 56,749 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,458 |
+| 2026-11-23 | 3,512 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 19:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:25 | **fayesweet13**: Evil Chick, Diamond Dragon, Golden Griffin, Skelicorn ×4 | **alina36_r**: Ride-A-Pet Potion |
-| 19:25 | **iqitotoru**: Golden Rat (NFR) | **Vlakuu**: Ride-A-Pet Potion ×5 |
-| 19:25 | **BELLYS_SUMMERr**: Ride-A-Pet Potion, Crystal Egg ×11 | **Danila121219**: Fly-A-Pet Potion |
-| 19:25 | **Amvgg_Amvggg**: Arctic Reindeer (NFR), Evil Unicorn (FR), Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Jocamax10**: Frost Dragon (FR) |
-| 19:25 | **Dinkarrt**: Pain au Chat, Hamster, Skunk | **av1ly**: Ride-A-Pet Potion |
-| 19:25 | **AdamBawaaneh6**: Copycat | **dawg1723**: Fly-A-Pet Potion, Ride-A-Pet Potion, Queen Bee (FR) |
-| 19:21 | **KeimoKaiAlr**: Kangaroo (FR), Mermicorn (R), Cabbit (R), Cabbit, Cow, Sea Slug (R), Peppermint Penguin, Goose (FR), Munchkin Cat, Caterpillar | **Adopacount**: Cow (MFR) |
-| 19:21 | **bbbbbbbbbbbbbbiuu**: Copycat (R) | **guchi_puchi95**: Diamond Amazon |
-| 19:21 | **Dora_MS1**: Sugar Glider (NFR), Cabbit (NFR) | **reserbadong2**: Chocolate Chip Bat Dragon (NFR) |
-| 19:21 | **oso_toilet**: Dragonfruit Fox (MFR), Christmas Pudding Pup (MFR) | **rip_kazukieeeee**: Flash Weasel (MFR), Copycat (NR) |
-| 19:21 | **Dorebears**: Soccer Stadium | **vasilisa11rus1**: Ride-A-Pet Potion |
-| 19:21 | **C0rpsel0re**: Munchkin Cat (M), Owlbear (R), Spinosaurus (N) | **lnH3II**: Phantom Dragon (MFR), Pig, Arctic Fox (R) |
-| 19:21 | **Gan_Nakimushi**: Peppermint Penguin, Strawberry Shortcake Bat Dragon (FR), Hare (MFR), Moon Rabbit (M) | **KinaToons**: Parrot (FR) |
-| 19:21 | **turbo142142**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion, Crimson Cape (N) | **1kweezzee**: Unicorn (NFR) |
-| 19:21 | **k1ttyluvvnz**: Clementine Owl (MFR) | **VauFrezhBar_LizaVau**: Bloodhound (MFR) |
+| 19:30 | **Lanawolf17**: Fairy Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion, Glormy Leo | **Computerdude127**: Munchkin Cat (NFR) |
+| 19:30 | **Milka_1230230**: Werewolf (FR), Ride-A-Pet Potion | **fregh533**: Candyfloss Chick (FR) |
+| 19:30 | **Zlota_Sofa**: Unicorn (MFR), Fly-A-Pet Potion ×2 | **camiilita_7w7**: Kangaroo (FR) |
+| 19:30 | **tyuydf1235**: Burger Bear (MR), Ride-A-Pet Potion | **strawberrycornettos**: Giant Cheetah Mount |
+| 19:30 | **XxOMGBROUNSSxX**: Golden Chow-Chow (MFR) | **quietlyangel**: Tuxedo Cat (MFR), Snowball Pet (MFR) |
+| 19:30 | **Mya_strawberryz**: Balloon Unicorn (FR), Cow (MFR), Rain Cloud Hat, German Shepherd (MR) | **TANSKlN**: Giraffe (FR), Fly-A-Pet Potion |
+| 19:30 | **Mya_strawberryz**: Crystal Egg ×10 | **Panci_Terbang33**: Pupcicle |
+| 19:30 | **DefinitelyNotCha6**: Mermaid Mansion | **flex0mp**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 19:30 | **Ruperto_1297**: Cow (FR) | **iiLxy_MoonStxr**: Fly-A-Pet Potion ×17 |
+| 19:30 | **amountme**: Siamese Cat | **mmiixxrroonnaa**: Fly-A-Pet Potion ×10 |
+| 19:30 | **iiLxy_MoonStxr**: Ride-A-Pet Potion ×8 | **M1cahsWRLD**: Fly-A-Pet Potion ×4 |
+| 19:30 | **Paletazow**: Alpaca (MFR), Zombie Buffalo (MFR), Hare (NR), Turtle (NFR) | **Penny_isa2**: Owl (NFR) |
+| 19:30 | **YTstaro**: Jekyll Hydra (R) | **amountme**: Halo |
+| 19:30 | **epicpulsechaos2024**: Dragon ×18 | **lhfshkg**: Ride-A-Pet Potion ×2 |
+| 19:30 | **getsdar**: Goose (FR), Fly-A-Pet Potion | **HuGe_123cAt**: Kangaroo (FR) ×2 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
