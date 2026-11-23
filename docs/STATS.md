@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 08:40 UTC by the scrape workflow._
+_Updated 2026-11-23 08:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 08:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 33,161 | 2026-11-23T08:30 |
-| elve | 13 | 7,019 | 2026-11-23T08:31 |
+| amvgg | 13 | 33,370 | 2026-11-23T08:45 |
+| elve | 13 | 7,060 | 2026-11-23T08:46 |
 
-## AMVGG completed trades: 54,459 total
+## AMVGG completed trades: 54,462 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,222 |
+| 2026-11-23 | 1,225 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,9 @@ _Updated 2026-11-23 08:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:45 | **Vitek_228666**: Arctic Fox | **meow_cat2310**: Ride-A-Pet Potion ×7 |
+| 08:45 | **Vitek_228666**: Fairy Bat Dragon (FR) | **NotSweatyOnion**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 |
+| 08:45 | **Irma16k**: Fly-A-Pet Potion, Mermaid Mansion, Husky | **Sharkie0020**: Lion Cub (R) |
 | 08:40 | **xiparo**: Pain au Chat ×6 | **PIasticTree**: Fly-A-Pet Potion |
 | 08:40 | **AliceAvokadi**: Rose Dragon (R), Stray Cat Dragon, Squid | **NguyenTheFox**: Fly-A-Pet Potion ×2 |
 | 08:40 | **Ashley_q019**: Seahorse (N), Wolf, Woolly Mammoth | **KOMOVI9990**: Ride-A-Pet Potion |
@@ -50,9 +53,6 @@ _Updated 2026-11-23 08:40 UTC by the scrape workflow._
 | 08:40 | **roronoazoro1gg**: Emberlight (MFR) | **Constancee_Starr**: Fly-A-Pet Potion ×6 |
 | 08:40 | **KIM_07050**: Red Dutch Guinea Pig (MFR), Chocolate Dutch Guinea Pig (NR), Chocolate Dutch Guinea Pig (N) ×2, Chocolate Dutch Guinea Pig ×4, Alley Cat (MFR) | **akzoad**: Haetyphoon (MFR) |
 | 08:40 | **SwxIIenThoughts**: Chocolate Chip Bat Dragon (NFR) | **charli_fan49**: Cow (NFR), Siamese Cat (NR), Harp Seal (N), Panda (MFR) |
-| 08:36 | **XxLipton_LemonxX**: Ride-A-Pet Potion | **Y00SELIN**: Christmas Pudding House |
-| 08:36 | **2kDisappointment**: Pet Handler Pro Certificate | **goodbyekisses**: Inmate Capuchin Monkey (N) |
-| 08:36 | **avervuu**: Haetae (FR), Goose (FR), Goose (R), Tiny Wings, Pet Handler Pro Certificate | **pedrosanchixx**: Owl (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
