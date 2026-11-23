@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 10:01 UTC by the scrape workflow._
+_Updated 2026-11-23 10:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 10:01 UTC by the scrape workflow._
 | amvgg | 13 | 34,567 | 2026-11-23T10:00 |
 | elve | 13 | 7,276 | 2026-11-23T10:01 |
 
-## AMVGG completed trades: 54,619 total
+## AMVGG completed trades: 54,633 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,382 |
+| 2026-11-23 | 1,396 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 10:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:11 | **plushioss**: Dragonfruit Fox (MFR), Chocolate Dutch Guinea Pig (MFR), French Bulldog (MFR), Black Springer Spaniel (MR), Unicorn Horn, Pink Betta Fish (M), Alley Cat | **SussyKidsRBLX**: Strawberry Shortcake Bat Dragon (NFR) |
+| 10:11 | **nuggets0162**: Mrs. Whiskerpips (M) | **kiara_lotos**: Orca (NR), Royal Palace Spaniel (FR), Cattuccino (R) |
+| 10:11 | **XiaoFaye1433**: Cow (FR), Kangaroo (FR) | **diswcordkitty**: Hive Backpack |
+| 10:11 | **XiaoFaye1433**: Cow (FR), Kangaroo (FR) | **diswcordkitty**: Hive Backpack |
+| 10:11 | **clalouetciedh**: Alicorn ×18 | **chiefkeezzf**: Fly-A-Pet Potion |
+| 10:11 | **DefinitelyNotCha6**: Red Panda ×4, Robot, Salamander, Seabed Creeper, Shiba Inu ×2, Starfish, Australian Kelpie ×2, Emu ×3, Monkey ×2, Narwhal | **ameyyass**: Fly-A-Pet Potion |
+| 10:11 | **Xerces_04**: Fairy Bat Dragon (FR), Cabbit (FR), Cupid Dragon (NFR), Siamese Cat | **RyukkHolder**: Cryptid (FR) |
+| 10:11 | **arqvve1**: Fly-A-Pet Potion, Pet Handler Pro Certificate ×2 | **InfernapeMaster462**: Frost Fury (FR) |
+| 10:11 | **0Amyvale0**: Fairy Bat Dragon | **Aisyzxu**: Haetyphoon ×3 |
+| 10:11 | **Vitamirka**: Chihuahua ×3 | **Shy_G0n9**: Ride-A-Pet Potion |
+| 10:11 | **za_Donbasss2014**: Sea Turtle (MR) | **SweetKiokio**: Ride-A-Pet Potion ×3 |
+| 10:11 | **Vitamirka**: Pain au Chat ×5 | **roblox_user_2880951367**: Fly-A-Pet Potion |
+| 10:11 | **Lozi_loz**: Momma Moose, Gummy Guana (N), Sunflower Friend, Water Opossum, Black Tiger (N), Walrus, Wolpertinger, Ratatoskr, Ground Sloth | **kiara_lotos**: Christmas Pudding House |
+| 10:11 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **1220birth1005100**: Aussie Egg |
 | 10:00 | **xXcaxapokXx_off**: Fly-A-Pet Potion | **marr_foxx**: Zombie Wolf ×2 |
-| 10:00 | **St4rs_443**: Unicorn Horn | **Tory135731**: Werewolf (FR) |
-| 10:00 | **Kotenok_Vitalina**: 2D Kitty, Mrs. Whiskerpips | **P1nkteeth**: 2D Doggy |
-| 10:00 | **cwupidbrae**: Pupcicle (MFR) | **conanxx0**: Dango Penguins (NR) |
-| 10:00 | **SVS_88888**: Copycat (R) | **ikabackflip**: Ride-A-Pet Potion ×5 |
-| 10:00 | **forneonblazinglion**: Chocolate Chip Bat Dragon (MFR), Chocolate Chip Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) ×3, Unicorn Horn, Blue Dog (R), Ride-A-Pet Potion | **izzyxrblx00**: Cryptid (MFR) |
-| 10:00 | **calampianojames**: Golden Rat (MFR), Copycat ×10, Happy Clam (N), Ankylosaurus (M), Lunar White Tiger (M), Giant Gold Scarab, Griffin (NFR), Dimorphodon (N) | **leruval**: Evil Unicorn (FR) |
-| 10:00 | **Yakkuji**: Unicorn Horn ×2, Dodo (NFR), Owlbear | **Xz_Infern0UlCircuitR**: Caterpillar (NR) |
-| 10:00 | **myBestiVlad2380**: Fly-A-Pet Potion ×9 | **Whonayou12**: Ride-A-Pet Potion ×17 |
-| 10:00 | **44HxH44**: Happy Duckling | **qssbruh**: Ride-A-Pet Potion |
-| 10:00 | **iluvmyselfsmmmmm**: Panda (NFR), Onza, Mochi Meow | **LIAXMLV**: S'mores Raccoon (NR) |
-| 10:00 | **larrvqx**: Moon Rabbit (MFR), Unicorn ×2, Ride-A-Pet Potion, Pink Cat Ear Headphones, Panda (R) | **Flyffycowboy**: Nessie (NR) |
-| 10:00 | **cloudy_cloudimup**: Haetyphoon, Alley Cat | **AlastorDanger**: Munchkin Cat |
-| 10:00 | **Eva_EvaKBAC**: Arctic Reindeer (NFR), Pink Heart Glasses | **16kmfh**: Strawberry Shortcake Bat Dragon (NFR) |
-| 10:00 | **likedyour3**: Golden Walrus | **Laktozik1**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
