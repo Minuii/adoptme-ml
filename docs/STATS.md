@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 15:55 UTC by the scrape workflow._
+_Updated 2026-11-23 16:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 15:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 39,891 | 2026-11-23T15:45 |
-| elve | 13 | 8,521 | 2026-11-23T15:46 |
+| amvgg | 13 | 40,135 | 2026-11-23T16:00 |
+| elve | 13 | 8,595 | 2026-11-23T16:01 |
 
-## AMVGG completed trades: 55,795 total
+## AMVGG completed trades: 55,819 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,558 |
+| 2026-11-23 | 2,582 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 15:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:55 | **Notso875**: Fly-A-Pet Potion ×17 | **getsdar**: Cow (FR) |
-| 15:55 | **v1rulence**: Goose, Goose (FR) | **Maddie2WinQuinn07**: Chocolate Chip Bat Dragon (FR) |
-| 15:55 | **Slender202404**: Border Collie (R) | **pprincess614**: Jester Dragon (N) |
-| 15:55 | **irishazu_2014**: Golden Wheat, Mighty Haetyphoon Animated Sticker | **ylka201320**: Ride-A-Pet Potion |
-| 15:55 | **HUGONITEYT99999**: Purrowl (N), Pain au Chat | **Ariwsfx**: Ride-A-Pet Potion |
-| 15:55 | **kuromi_BRD**: Peppermint Penguin (NFR) ×2, 2022 Birthday Cupcake Shoes, Rain Cloud Hat | **Jana_ashtetic**: Frost Dragon (FR) |
-| 15:55 | **st4rman_sl4ughter**: Giant Panda (FR), Fly-A-Pet Potion ×2 | **Amiuty445**: Balloon Unicorn (FR) |
-| 15:55 | **floralplum**: Unicorn | **martins10530**: Ride-A-Pet Potion |
-| 15:55 | **megasupper_profi**: Arctic Reindeer (FR) | **mxdmcrza**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
-| 15:55 | **NomZixxx**: Dalmatian (FR) | **HET3AKOHAM**: Arctic Reindeer (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×11 |
-| 15:55 | **urm4mx**: Crystal Egg ×12 | **MrTunnel92**: Ride-A-Pet Potion |
-| 15:55 | **NomZixxx**: Dalmatian (FR), Candyfloss Chick (R), Peppermint Penguin (R) | **Hc_pink**: African Wild Dog, Fly-A-Pet Potion, Groundhog |
-| 15:55 | **im_espiamba2010**: Cupid Dragon (NFR), Zombie Wolf (R) | **Hotdog67572**: Cabbit (FR) |
-| 15:51 | **muzzledbunnybites**: Matcha Cat ×3 | **dosh1kk_dasha**: Unicorn Horn |
-| 15:51 | **muzzledbunnybites**: Peppermint Penguin, Matcha Cat | **Shadow_Wilder626**: Goose (FR) |
+| 16:00 | **Lolxdbraez**: Lava Wolf (MFR) | **ixB4dVib3ssxi**: Undead Jousting Horse (FR) |
+| 16:00 | **6ftxxe**: Crocodile (NFR), Goldhorn (MFR), Green Butterfly (NR) | **Luna_Loud096**: Chocolate Chip Bat Dragon (FR) |
+| 16:00 | **CyricccxALT**: Crystal Egg ×17 | **MrTunnel92**: Ride-A-Pet Potion |
+| 16:00 | **Vanthoria**: 2022 Birthday Party Hat, Ice Cream Cone Hat, Ride-A-Pet Potion | **artem_rbz18**: Munchkin Cat (NFR) |
+| 16:00 | **pollylemonlollyscwol**: Strawberry Shortcake Bat Dragon (NFR), Cow (FR), Arctic Reindeer (FR), Arctic Fox (FR), Brown Springer Spaniel ×3 | **kaveri_tiimilainen**: Frost Dragon (FR) |
+| 16:00 | **ferrofl7**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Mini Pig (FR), Ride-A-Pet Potion ×2 | **samyul10100**: Frost Dragon (FR) |
+| 16:00 | **CalliplayzRoBlOx8**: Goose (NFR), Ice Cream Cone Hat | **violet4everofc**: Dalmatian (FR) |
+| 16:00 | **Zuminkikiki**: Ride-A-Pet Potion | **daanz2**: Sushi Penguin |
+| 16:00 | **Cosmo_syx**: Black Springer Spaniel (NR) | **BOXINGEVERYONESHEAD**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 16:00 | **elproXD_7v7**: Chihuahua ×6 | **FRIEND_FRIEND5**: Ride-A-Pet Potion ×2 |
+| 16:00 | **flameodeX3**: Ice Golem (FR), Ghost Wolf (N) | **Kir4kaa**: Ice Golem, Ride-A-Pet Potion |
+| 16:00 | **Rysan1234567**: Border Collie | **MasterTheOwO**: Unicorn (MFR) |
+| 16:00 | **saralinn_200**: Ride-A-Pet Potion ×11 | **myBestiVlad2380**: Fly-A-Pet Potion ×6 |
+| 16:00 | **Gh0styUnknown**: Chocolate Chip Bat Dragon (NFR), Bunny Swirl (NR), Pupcake (NFR), Albino Bat (N) | **Gemstar232**: Parrot (FR) |
+| 16:00 | **dorthew**: Christmas Pudding House | **MrTunnel92**: Crystal Egg ×2 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
