@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 03:46 UTC by the scrape workflow._
+_Updated 2026-11-23 03:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 03:46 UTC by the scrape workflow._
 | amvgg | 13 | 28,701 | 2026-11-23T03:45 |
 | elve | 13 | 6,186 | 2026-11-23T03:46 |
 
-## AMVGG completed trades: 53,829 total
+## AMVGG completed trades: 53,854 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 592 |
+| 2026-11-23 | 617 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 03:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:45 | **Ems090311**: Arctic Reindeer (FR), Sloth (R) | **aliir1875**: Arctic Reindeer |
-| 03:45 | **cxbvnniz**: Hare (MFR), Spring Bunny Hood ×2, Spring Bunny Feet ×2, 2022 Birthday Confetti Drape | **sugarbunn3i**: Candyfloss Chick (NFR) |
-| 03:45 | **BaconManBest128**: Gecko (MR) | **Jamestown1607_1699**: Matcha Cat |
-| 03:40 | **xXxjoongixXx**: Dango Penguins | **maybenanaosaki**: Ride-A-Pet Potion ×3 |
-| 03:40 | **QueenFrostChill2005**: Puffer Fish, Koi Carp | **playerbunbready**: Puffer Fish |
-| 03:40 | **0o0Username0o0**: Skunk (N) | **themilkeywayz**: Ride-A-Pet Potion |
-| 03:40 | **gabsotuff**: Ride-A-Pet Potion | **frogie_948**: Respectful Mustache |
-| 03:40 | **Panci_Terbang33**: Fly-A-Pet Potion ×7 | **ii_aldrin20**: Badger (M), Black-Footed Ferret (M) ×2, Gumball Caterpillar (M) ×2, Maine Coon (M), Stygian Owl (M), Waffle Wyrm (M), White Choccybunny (M), Abyssinian Cat (M), Angus Cow (M) ×2, Chanekeh (M) |
-| 03:40 | **mawifa123**: Rainbow Stroller | **Ashdorae**: Ride-A-Pet Potion |
-| 03:40 | **ameyyass**: Fly-A-Pet Potion | **mrxshy_vibezzz**: Samoyed (M), Sunflower Friend (M) |
-| 03:40 | **yygethhhhukkj**: Dalmatian (NFR), Giant Panda, Peppermint Penguin (NR), Mini Pig (NR), Cryptid (FR), Turtle (FR), Elephant (R), Great Pyrenees (MR), Arctic Fox, 2022 Birthday Cupcake Shoes, Rain Cloud Hat, 2022 Birthday Party Horn, 2022 Birthday Confetti Cannon, Peppermint Penguin (R), Peppermint Penguin (FR) | **serpentibendi**: Cryptid (MFR) |
-| 03:40 | **xershaa**: Tiny Wings | **n1noBl**: Fly-A-Pet Potion ×6 |
-| 03:40 | **Nighty_811**: Dalmatian (R), Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR) | **angelkittyyy444**: Frost Dragon (FR) |
-| 03:40 | **Panci_Terbang33**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **ii_aldrin20**: Nurse Shark (M), River Otter (M), Samoyed (M), Turtle Doves (M), 2026 Birthday Butterfly (M), Black Tiger (M), Caramelgeist (MR), Irish Setter (M), Patchy Bear (M), Aye Aye (M) ×2 |
-| 03:40 | **H0LLYSHAUL**: Owl | **KeimoKaiAlr**: Caterpillar (MFR) |
+| 03:55 | **5starz_izabella**: Scarebear (R) | **Milchie06**: Monkey (N) |
+| 03:55 | **asanlorenzo**: Ride-A-Pet Potion | **PerritoBobu**: Chihuahua ×2, Purrowl, Fairytale Egg ×2 |
+| 03:55 | **cerialconchocomil**: Strawberry Tortle (FR), Fly-A-Pet Potion ×3 | **MyloveTrzxvi**: Goose (FR) |
+| 03:55 | **Bellathegamer459**: Turtle (R), Tortoiseshell Guinea Pig (R) | **copyvoting**: Goose (FR) |
+| 03:55 | **XzB3arL3Synth7zX1088**: Ram (M) | **xadore_brookex**: Cow Calf (MR), Glormy Leo, Leviathan, Gaelic Fae, Cupid Dragon (F), Lava Wolf (R) |
+| 03:55 | **kaylamicmi**: Water Rabbit (MFR), Moon Rabbit (MFR), Pupcake (MFR), Spring Bunny Hood, Chocolate Dutch Guinea Pig, Spring Bunny Nose, Ride-A-Pet Potion | **alex_25girl333**: Alley Cat (MFR) |
+| 03:55 | **PATY_BLOY**: Canadian Goose (MR) | **7743utu**: Fly-A-Pet Potion ×5 |
+| 03:55 | **Natsumik_Life**: Lynx (R) | **anggelmrr**: Ride-A-Pet Potion |
+| 03:55 | **Junjyungg**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **lHisashi**: Jester Dragon (FR) |
+| 03:55 | **Inganta07**: Fly-A-Pet Potion ×3 | **lHisashi**: Frost Fury (FR) |
+| 03:55 | **kecoze**: Strawberry Tortle, Fly-A-Pet Potion, Ride-A-Pet Potion | **Potatofarmsdrag**: Arctic Fox (NFR) |
+| 03:55 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **W_ElliOr**: Flaming Fox (R) |
+| 03:55 | **nico_ffgamer**: Goat (NFR), Angel Wings | **Trop1cxlMe1on**: Rainbow Maker |
+| 03:55 | **Cutecupshakes**: Retired Egg ×15 | **lunarodlox38**: Pain au Chat |
+| 03:55 | **superfangirlofponies**: Cow (R), Cow ×2, Munchkin Cat, Pig, Turkey, Llama, Swan, Admin Vision Glasses, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Frost Fury, Yeti, Polar Bear, Zombie Wolf | **misakoyr**: Strawberry Shortcake Bat Dragon (R) ×2 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
