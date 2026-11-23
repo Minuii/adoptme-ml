@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 21:11 UTC by the scrape workflow._
+_Updated 2026-11-23 21:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 21:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 45,143 | 2026-11-23T21:00 |
-| elve | 13 | 9,637 | 2026-11-23T21:01 |
+| amvgg | 13 | 45,417 | 2026-11-23T21:15 |
+| elve | 13 | 9,649 | 2026-11-23T21:15 |
 
-## AMVGG completed trades: 57,139 total
+## AMVGG completed trades: 57,172 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,902 |
+| 2026-11-23 | 3,935 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 21:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:06 | **veronicasue2**: Pupcicle, Retired Egg ×14 | **abbyissocool_lol**: Ride-A-Pet Potion |
-| 21:06 | **polina_polinka23774**: Halloween Evil Dachshund (R), Shiba Inu (N), Thunderfisher (N) | **Livxhze**: Ride-A-Pet Potion |
-| 21:06 | **kendrito_garcia**: Cryptid (NFR), Balloon Unicorn (FR) | **AngelsHarxx_Lilyluvz**: Alpaca (MFR), Werewolf (R) |
-| 21:06 | **Pinkmalinky123**: 2022 Birthday Cupcake Shoes | **djwestie**: Capricorn (MFR) |
-| 21:06 | **guardacheloso**: Mermicorn (NFR) | **joyutuitjy**: Fairy Bat Dragon (NFR) |
-| 21:06 | **robloxer_3614**: Ride-A-Pet Potion | **hhhauntedddd**: Zeopod (N), Tree Sasquatch (N), Blue Butterfly (N), Flying Fish (N), Hopbop (N) |
-| 21:06 | **abdoosaad**: Irish Water Spaniel | **MissySendy**: Rooster (M) |
-| 21:06 | **N3ssii0**: Kangaroo (FR) | **QuantumPandaPlayz93**: Copycat (N) |
-| 21:06 | **PRODAZA_STARPETS**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×4 | **fhis64**: Ranger Beaver (MFR) |
-| 21:06 | **Ailya2_20**: Mummy Spider (M), Jumpscare (M) | **Gabo_XD202**: Fly-A-Pet Potion |
-| 21:06 | **LewALTacc7**: Peppermint Penguin (NFR), Frostbite Bear (FR) | **STHJOSE00**: Frost Unicorn (NFR), Cabbit, Yule Log Dog (MFR), Headless Horse (MFR) |
-| 21:06 | **happyhaleigh707**: Sea Slug (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **lenyvai2010pro**: Albino Monkey (FR) |
-| 21:06 | **0Neizvestnost0**: Dragonfruit Fox (NFR) | **kiff_shik**: Kitty Bat (MFR) |
-| 21:06 | **DVSeyb**: Retired Egg ×15 | **cowlol898**: Chihuahua |
-| 21:06 | **alicex3x3**: Tiny Wings, Unicorn Horn, Siamese Cat, Pet Handler Pro Certificate | **TuffTuffTuff_Sahur67**: Brown Springer Spaniel (MFR), Goose, Peach Owl |
+| 21:15 | **aweapolarbear**: Cactus Friend, Puma (N), Sheepdog Ducky (N) ×3, Pinkypillar (N), Black Moon Bear (N), Gecko Ducky (N), Mouse (N) ×2, Cat (N) | **EmmaShad0wRider4737**: Fly-A-Pet Potion |
+| 21:15 | **IamCool123Andunot**: Llama (MFR), Ride-A-Pet Potion, Fly-A-Pet Potion, Frostclaw (N), Glyptodon (N) | **firegrumpjaw**: Sushi Penguin (MFR), Sushi Penguin (MR) |
+| 21:15 | **Eslemyfjjjg**: Rain Cloud Hat, Spring Bunny Hood, Spring Bunny Feet, Pancake Stack, Flying Fairy | **oso_toilet**: Copycat (NR), Jester Dragon |
+| 21:15 | **cazzy123abc**: Frost Dragon (FR), Crow (FR), Shark Puppy (NFR), Shark Puppy | **Haunting_Eden**: Undead Jousting Horse (MFR) |
+| 21:15 | **xsu_px**: Bat (F) | **xmarlarx**: Christmas Pudding House |
+| 21:15 | **d4rlingjazzy**: Ladybug (NFR), Swan, Tarantula (N) | **so_imJoys**: Fly-A-Pet Potion, Ride-A-Pet Potion, Snowy Mammoth, Basic Egg ×12, Admin Abuse Egg ×3 |
+| 21:15 | **dixrvalzz**: Ride-A-Pet Potion ×2 | **quupeei**: Amami Rabbit (N) |
+| 21:15 | **Benjy_toby7**: Dalmatian (R) | **vstxcey**: Honey Badger (MFR) |
+| 21:15 | **d4rlingjazzy**: Fairy Bat Dragon (NFR) | **Alice_Fpe2567**: Elephant (NR), Elephant (R), Shark Puppy, Lion Cub, Ram, Ride-A-Pet Potion, Harp Seal ×2 |
+| 21:15 | **Linwtx**: Hare (MFR) | **Marinela_chimie**: Hare (M) |
+| 21:15 | **victorymoreva**: Ride-A-Pet Potion ×3 | **Waq1uxx**: Soccer Stadium |
+| 21:15 | **ydoch1213**: Husky (MFR) | **Iwokale**: Harp Seal (MFR) |
+| 21:15 | **2tayy**: Crystal Egg ×13 | **JelenaGold**: Ride-A-Pet Potion |
+| 21:15 | **Ellibu76**: Winter Fawn (M), Ocelot (MR), Beluga Whale (M), Ride-A-Pet Potion, Unicorn Stroller | **SkobolG**: Ram (N) |
+| 21:15 | **bella94255**: Turtle (FR) | **Vhsdollie03**: Lamb (NFR), Ram (NR), Camel (MFR), Spring Bunny Hood, Pancake Stack, Bready Necklace |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
