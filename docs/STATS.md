@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 09:46 UTC by the scrape workflow._
+_Updated 2026-11-23 09:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 09:46 UTC by the scrape workflow._
 | amvgg | 13 | 34,344 | 2026-11-23T09:45 |
 | elve | 13 | 7,234 | 2026-11-23T09:46 |
 
-## AMVGG completed trades: 54,583 total
+## AMVGG completed trades: 54,591 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,346 |
+| 2026-11-23 | 1,354 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,14 @@ _Updated 2026-11-23 09:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:51 | **Reyeyerafifp**: Pupcicle, Scarecrow Cat, Persian Cat, Ocelot (N) | **Misty_0919**: Red Squirrel (FR) |
+| 09:51 | **34Kotenok9**: Ash Zebra, Water Moon Bear, Boohoo (N), Beaver (N), Mummy Spider (N), Raccoon | **Leviodas**: Ride-A-Pet Potion |
+| 09:51 | **Flyffycowboy**: Black Springer Spaniel (MFR) ×2, Gargoyle (NFR), Jester Dragon, Pupcicle, Stray Cat Dragon | **s0larzxxxx**: Snow Monkey (MFR) |
+| 09:51 | **Dragonlegend2130**: Copycat (R), Fly-A-Pet Potion | **ImpossibleG0411**: Matcha Cat |
+| 09:51 | **viivieraa**: Fly-A-Pet Potion ×5 | **lilianorre**: Ride-A-Pet Potion ×9 |
+| 09:51 | **Vitamirka**: Chihuahua ×6 | **Alwaysneverx1**: Ride-A-Pet Potion ×2 |
+| 09:51 | **DefinitelyNotCha6**: Mermaid Mansion | **NastiGora**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 09:51 | **XxLipton_LemonxX**: Snow Owl (R) | **Panci_Terbang33**: Ride-A-Pet Potion |
 | 09:40 | **LUISMATEO3112**: Ride-A-Pet Potion | **xq0vlis**: Kitty Bat |
 | 09:40 | **INeverrCap**: Magma Moose (M) | **AdoptMeHere03**: Ride-A-Pet Potion ×4 |
 | 09:40 | **Xz_CodeOLDriftdLBliz**: Matcha Cat | **DewrattlSR**: Gemstone Egg ×15 |
@@ -45,14 +53,6 @@ _Updated 2026-11-23 09:46 UTC by the scrape workflow._
 | 09:40 | **the3reveng**: Black-Footed Ferret (N), Ribbon Seal (N), Milk Choccybunny (N), Pilot Gull (N), Gecko Ducky (N) | **Stopan820**: Ride-A-Pet Potion |
 | 09:40 | **Sunflower_Play235**: Christmas Pudding House | **Wypsikarr_Wrr**: Chihuahua |
 | 09:40 | **Vitamirka**: Pain au Chat ×3 | **quupeei**: Ride-A-Pet Potion |
-| 09:40 | **DefinitelyNotCha6**: Space Fleet House | **AlastorDanger**: Fly-A-Pet Potion |
-| 09:40 | **aliyah_v2**: Sheeeeep (MFR), Groundhog (MFR), Snow Monkey (MFR) | **RBstela**: Bush Elephant (MFR) |
-| 09:40 | **ljwempire777**: Cherry Blossom Hang Glider, Stray Cat Dragon (M) | **xxXchange_Vibe**: Santa Hat |
-| 09:40 | **clumsibunsi**: Pain au Chat | **ahojkakacahoj**: Paint Sealer ×6 |
-| 09:40 | **calampianojames**: Giant Panda (FR), Aestus (NFR), Latte Kitsune (NFR), Matcha Cat ×3, Owlbear (NR) | **leruval**: Owl (FR) |
-| 09:40 | **qeruigo**: Crow (FR), Strawberry Tortle (FR), Cow (NFR), Tortoiseshell Guinea Pig, Velocirooster | **AvaCometfish961**: Frost Dragon (FR) |
-| 09:40 | **cutiemoonplalmira**: Arctic Dusk Dragon (NFR), Jester Dragon (NFR), Fairy Bat Dragon (FR) | **phoniex_20103**: Strawberry Shortcake Bat Dragon (FR) |
-| 09:40 | **Ayenagaming_15**: Pig, Dango Penguins | **rhian_nn08**: Quad Stroller |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
