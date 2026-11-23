@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 22:25 UTC by the scrape workflow._
+_Updated 2026-11-23 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 46,408 | 2026-11-23T22:15 |
-| elve | 13 | 9,842 | 2026-11-23T22:15 |
+| amvgg | 13 | 46,653 | 2026-11-23T22:30 |
+| elve | 13 | 9,914 | 2026-11-23T22:31 |
 
-## AMVGG completed trades: 57,372 total
+## AMVGG completed trades: 57,411 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 4,135 |
+| 2026-11-23 | 4,174 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:20 | **svtoruuz**: Scorching Kaijunior (MFR), Musk Ox (MFR) | **lelesayuru**: Polar Bear (MFR) |
-| 22:20 | **Veroni4ka_rbxl**: Christmas Future Egg, Ermine, Rock, Stingray ×2, Bullfrog, Classic Trade Stand | **batton0955**: Ride-A-Pet Potion |
-| 22:20 | **Kamila12mm3newacc**: Chihuahua ×4, Pain au Chat | **Yamenzoj**: Chihuahua (N) |
-| 22:20 | **muzzledbunnybites**: Binturong ×3, Cake Friend, Blue Ringed Octopus, Pupcake, Brown Springer Spaniel ×4, Toasty Red Panda | **Cwqxlly**: Flaming Fox ×4 |
-| 22:20 | **Dustin_Steve14**: Amethyst Skies Mega Neon Paint, 2025 Birthday Butterfly | **Starliumms2ndACC**: Count Slothula |
-| 22:20 | **mm2c_nylya**: Strawberry Shortcake Bat Dragon (FR), Cow (FR) | **jojo_kilphp**: Dalmatian (FR), Fly-A-Pet Potion ×3 |
-| 22:20 | **Vski_87**: Owl (FR), Turtle (FR), Candyfloss Chick, Fly-A-Pet Potion ×3, Spring Bunny Hood, Ice Cream Hermit Crab, Ride-A-Pet Potion | **terrylonsoyjerry**: African Wild Dog, Haetae (R) |
-| 22:20 | **VictoriaDimond12345**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **qq0xxx6**: Winged Horse (NFR) |
-| 22:20 | **lolppp0vld**: Evil Unicorn (FR), Huntsman Robin (N), Bunny Ear Tiara, Bone Wings | **iaMatthieu1**: Cryptid (FR) |
-| 22:20 | **Eslemyfjjjg**: Ram (MFR) | **M4RC0S_R0SSI2**: Red Sand Dollar (MFR), Fly-A-Pet Potion, Blue Cat Ear Headphones, Ride-A-Pet Potion |
-| 22:20 | **poorbunii**: Grim Dragon (FR), Copycat (NFR) | **ADodyc1256**: Cabbit (FR) |
-| 22:20 | **muIadeptt**: Samoyed (M) | **LVSXYUR1**: Golden Hamster (R), Angus Calf, Nutcracker Squirrel |
-| 22:20 | **Celia4160**: Dire Wolf (MFR), 2x Bucks Potion ×2 | **facedcookie**: Dim Sum |
-| 22:20 | **muIadeptt**: Alley Cat (R) | **unicornsun_BD2**: Hare |
-| 22:20 | **ezzzzyy3**: Christmas Pudding House | **Prinssxlq**: Retired Egg ×9 |
+| 22:30 | **mellqxxrb**: Patchy Bear (M) | **vxntageghost_67**: Ride-A-Pet Potion |
+| 22:30 | **pivozkranu**: Fly-A-Pet Potion ×4, Pet Handler Pro Certificate, Swan, Ride-A-Pet Potion, Bewitched Hat ×2 | **Smookgans**: Polar Bear (NR) |
+| 22:30 | **HOCOKKU**: Ride-A-Pet Potion ×17 | **Danila121219**: Kangaroo (FR) |
+| 22:30 | **orangebackup3**: Violet Friend (NR), Pilot Gull (N) | **Kir4kaa**: Cattuccino (N) |
+| 22:30 | **Veroni4ka_rbxl**: Three Blind Mice (R), Mexican Wolf, Bullfrog, Red Cardinal, Halloween Black Mummy Cat ×2, Jiggly Jerboa, 2026 Birthday Butterfly, Snow Puma, Puma, Fennec Fox, Snow Cat ×2, Chocolate Labrador, Parakeet | **1Ulya_62**: Ride-A-Pet Potion |
+| 22:30 | **UrMyHallucination143**: Peahen | **EpKaneIntenseMonkeys**: Catte |
+| 22:30 | **Inganta07**: Ride-A-Pet Potion | **1Ulya_62**: Capybara |
+| 22:30 | **starofthe555**: Cow (FR) ×2 | **nfrmikey1**: Strawberry Shortcake Bat Dragon (FR) |
+| 22:30 | **Kozinak_k**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×5 | **Manggo_Pie40**: Turtle (FR) |
+| 22:30 | **estehhxx**: Pink Cat (FR), Pupcicle (N), Royal Corgi (R), Capybara (R), Chameleon | **1Ulya_62**: Elephant (FR) |
+| 22:30 | **lapropia778**: Strawberry Shortcake Bat Dragon (R), Goose (R), Cabbit (R) | **kulveqq**: Candicorn (MFR) |
+| 22:30 | **2000sidol**: Shadow Dragon (R), Farm Egg, Toaster Hat | **RuthJavxn**: Frost Dragon (FR), Owl (FR), Parrot (FR) |
+| 22:30 | **detective_emilly**: Guardian Lion (FR) | **plushrafa**: Golden Egg, Tropical Surge Mega Neon Paint, Eaten Donut |
+| 22:30 | **cutezxnat**: African Wild Dog (FR) | **6kenziee**: Evil Unicorn (FR), Cabbit (FR), Tree Kangaroo (N) |
+| 22:30 | **STEKLO_FOREST**: Bat Dragon (MFR), Chocolate Chip Bat Dragon (MFR), Frost Dragon (FR) | **LovelinessFluffiness**: Bat Dragon (M) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
