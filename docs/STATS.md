@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 01:15 UTC by the scrape workflow._
+_Updated 2026-11-23 01:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 01:15 UTC by the scrape workflow._
 | amvgg | 13 | 26,210 | 2026-11-23T01:15 |
 | elve | 13 | 5,695 | 2026-11-23T01:15 |
 
-## AMVGG completed trades: 53,479 total
+## AMVGG completed trades: 53,506 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 242 |
+| 2026-11-23 | 269 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 01:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:15 | **Nighty_811**: Huntsman Robin (N) | **elimax124**: Golden Albatross |
-| 01:10 | **Ahipith**: Munchkin Cat (MFR), Mini Pig (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **rastafarismo10**: Goat (MFR) |
-| 01:10 | **Liaehgdnigwvhgsl**: Haetyphoon | **tokiplayz_omila**: Arctic Fox, Ride-A-Pet Potion |
-| 01:10 | **WeAreTheStars_3**: Admin Abuse Box ×18 | **KS_9270**: Ride-A-Pet Potion |
-| 01:10 | **Judecuts**: Jester Dragon (NR), Copycat | **icebaby545**: Unicorn Horn |
-| 01:10 | **Kattyloni**: Stray Cat Dragon (N) ×2 | **Hey_Dant123**: Ride-A-Pet Potion |
-| 01:10 | **Iasttwords**: Crystal Egg ×16 | **JanaJanjoon11**: Ride-A-Pet Potion |
-| 01:10 | **hipnotizwd**: Bush Elephant (MFR) | **ariesdesire**: Candicorn (MFR), Sakura Spirit (MFR), White Sand Dollar (MFR) |
-| 01:10 | **holixd489632**: Burger Bear (N) | **dnei30fast**: Ride-A-Pet Potion ×2 |
-| 01:10 | **Axelltooonpro12**: Frost Dragon (FR) | **Myobap**: Strawberry Shortcake Bat Dragon (FR) ×4 |
-| 01:10 | **mylolovescats**: Cabbit (R), S'mores Raccoon (N) | **someone202355**: French Bulldog (MFR), Chihuahua (MFR) |
-| 01:10 | **cxar_25**: Toaster Hat | **anayrp**: Winged Horse (MFR) |
-| 01:10 | **caitlinc26**: Siamese Cat (FR), Candicorn (N), Polar Bear (NR) | **cxbvnniz**: Arctic Reindeer (FR) |
-| 01:10 | **avolynx**: Diamond Ladybug | **D3ATH5521**: Ride-A-Pet Potion |
-| 01:10 | **bgfjm6fytfthfjytjkhb**: Velocirooster (MFR) | **aguamexicana9**: Rainbow Maker, Halo, Ride-A-Pet Potion |
+| 01:20 | **foramvgg8**: Jekyll Hydra (MFR), Albino Monkey (MFR), Mechapup (MFR), Dango Penguins (MR), Lion Cub (MFR), Pink Cat (MFR), Sheeeeep (MFR), Vampire Dragon (MFR), Caelum Cervi (MFR), Goose (MFR), Mermicorn (MFR), Irish Water Spaniel (MFR), Hot Doggo (MFR), Frost Unicorn (MFR), Cabbit (MFR), Tortuga de la Isla (MFR), Christmas Pudding Pup (MFR), Pig (MFR) | **ruralurbanmigration**: Giraffe (MFR), Hedgehog (MFR) |
+| 01:20 | **oursomeday**: Giraffe (FR), Owl (FR), Mermicorn (MFR), Goat | **ruralurbanmigration**: Hedgehog (MFR) |
+| 01:20 | **rrstockxadm67**: Crystal Egg ×16 | **ONNYchiiwa**: Ride-A-Pet Potion |
+| 01:20 | **AvaNari2010**: Sheeeeep | **Roxielover120**: Matcha Cat |
+| 01:20 | **Sayuri_23149**: Spring Bunny Nose, Ride-A-Pet Potion ×2, Cattuccino (N), Banana Hat, Black Cab | **Martinple13**: Chihuahua ×16 |
+| 01:20 | **Reinkoshix**: Bat Dragon (FR), Cabbit (N) | **Shadx_1553**: Strawberry Shortcake Bat Dragon (MFR), Chocolate Chip Bat Dragon (MFR) |
+| 01:20 | **tinawatsonqwe1234**: Owlbear (MFR), Strawberry Tortle, Chocolate Dutch Guinea Pig (R), Chocolate Dutch Guinea Pig | **Shadx_1553**: Evil Unicorn (FR) |
+| 01:20 | **cxbvnniz**: Kangaroo (FR), Frostbite Bear (R), Candicorn (N), Siamese Cat (FR), Polar Bear (NR), 2022 Birthday Confetti Cannon | **lelesayuru**: Vampire Dragon (M), Spring Bunny Hood, Spring Bunny Feet |
+| 01:20 | **Loveflowers871**: Arctic Reindeer (FR) | **Arri0028**: Fallow Deer (MFR) |
+| 01:20 | **Xxxxashhhh**: Fly-A-Pet Potion ×11 | **carlitosuwuagua**: Grim Dragon (FR) |
+| 01:20 | **krxadm3**: Crystal Egg ×16 | **BugShot_2**: Ride-A-Pet Potion |
+| 01:20 | **krxadm3**: Crystal Egg ×15 | **EdenTheClown07**: Ride-A-Pet Potion |
+| 01:20 | **15xAuroa**: Fly-A-Pet Potion ×9 | **SanyFox2**: Ride-A-Pet Potion ×17 |
+| 01:20 | **Illemx**: Ride-A-Pet Potion | **toglivss**: Unicorn |
+| 01:20 | **dawg1723**: Bat Dragon (FR), Ride-A-Pet Potion ×3, Goldfish (MR), Goat (R), Chihuahua (NR) | **ebrookes2020**: Strawberry Shortcake Bat Dragon (MFR), Peppermint Penguin (MFR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
