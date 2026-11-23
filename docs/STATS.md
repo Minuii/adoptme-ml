@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 15:01 UTC by the scrape workflow._
+_Updated 2026-11-23 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 15:01 UTC by the scrape workflow._
 | amvgg | 13 | 39,236 | 2026-11-23T15:00 |
 | elve | 13 | 8,348 | 2026-11-23T15:01 |
 
-## AMVGG completed trades: 55,557 total
+## AMVGG completed trades: 55,604 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,320 |
+| 2026-11-23 | 2,367 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:55 | **darincha1595**: Haetyphoon | **N0_ID3A5**: Fly-A-Pet Potion ×4 |
-| 14:55 | **Sofi02575**: Sunglider (MR), Spring Bunny Hood, Fly-A-Pet Potion ×2 | **loafactory**: Rain Cloud Hat |
-| 14:55 | **MM_Cloud**: Crystal Egg ×18 | **detective_emilly**: Ride-A-Pet Potion |
-| 14:55 | **00iAngell**: Alicorn ×10 | **zephyrgoatt**: Ride-A-Pet Potion |
-| 14:55 | **edgarsroblox2013**: Copycat, Red Dutch Guinea Pig, Dragonfruit Fox, Hare, Pet Handler Pro Certificate | **anekalubitnaruto**: Tortoiseshell Guinea Pig (FR) |
-| 14:55 | **cookieimcoco**: Harp Seal (MFR), Ride-A-Pet Potion ×10 | **Webelive_you**: Cow (FR) |
-| 14:55 | **1Meow_838995**: Arctic Fox (R), S'mores Raccoon (R), Ginger Cat (NFR), Clover Cow (N) | **Uk_3800**: Shark Puppy (R) |
-| 14:55 | **44HxH44**: Skele-Rex (N), Fly-A-Pet Potion, Ride-A-Pet Potion | **scythe_thenumber25**: Bat Dragon Cuddle Animated Sticker |
-| 14:55 | **beaaarr2**: Elephant, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **babygirl_2021029**: Mini Schnauzer (MFR) |
-| 14:55 | **katakuri_RBL**: Strawberry Tortle, Bush Elephant (R) | **sleepy_s0ren**: Mini Pig (FR) |
-| 14:55 | **thunder_lunder531**: Kangaroo (FR) | **xx_sunny2003**: Ghostly Cat (MFR), Goldfish (MR), Skelicorn (MR), Stray Cat Dragon (NFR), Albino Bat (NFR) |
-| 14:55 | **Ez50**: Pet Handler Pro Certificate | **Bismuth234**: Fly-A-Pet Potion |
-| 14:55 | **eeliasxcx**: Ride-A-Pet Potion | **Ggyyuhhhj**: Jiggly Jerboa (M), Cocoadile (M) |
-| 14:55 | **eeliasxcx**: Ride-A-Pet Potion ×3 | **Maayas_17alt1**: White Choccybunny (M), Sneak Weasel (M), Abyssinian Cat (M), Mexican Wolf (M), Snow Puma (M), Black Tiger (M) |
-| 14:55 | **1MZ03Y**: Ghost Bunny (MFR), Cuddly Candle (MR), Golden Jaguar (M) | **yusokini25**: Cow (FR) |
+| 15:11 | **ImANiceDude_J**: Rose Quartz Glow Mega Neon Paint | **Stxrrynight0303**: Velvet Fuchsia Mega Neon Paint |
+| 15:11 | **s11lena**: Chick (MFR) | **SantaniyxRBLX**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 15:06 | **YoitJocelynx**: Lamb (FR) | **LzIyz**: Cattuccino (M) |
+| 15:06 | **shlvNash**: Frostbite Bear (FR) | **St0pid_DeVil**: Jester Dragon (NFR) |
+| 15:06 | **Alic_105**: Spring Bunny Nose, Spring Bunny Feet, Fly-A-Pet Potion, Tutu | **misakoyr**: Santa Hat |
+| 15:06 | **0Neizvestnost0**: Haetyphoon (FR), Frost Fury (FR), Alicorn (MF), Axolotl (FR), Chocolate Dutch Guinea Pig, Highland Cow, Ride-A-Pet Potion | **haram0909071**: Dragonfruit Fox (NFR), Solaris (N), Puffer Fish, Cerberus |
+| 15:06 | **MihaiGiovanni**: Ride-A-Pet Potion ×18 | **mika_24583**: Panda (MFR) |
+| 15:06 | **murid5**: Sea Slug (MFR) | **slyvls**: Haetae (FR), Chocolate Dutch Guinea Pig (M), 2022 Birthday Party Hat, General Sheepdog (MR) |
+| 15:06 | **1MZ03Y**: Ride-A-Pet Potion ×18 | **Vitek_228666**: Kangaroo (FR) |
+| 15:06 | **Mimiiixq0**: Sasquatch (R), Gold Mahi Mahi (N), Ocelot (N), Mouse (N) ×2, Cat (N), Swordfish ×2, Beaver ×2, Sabertooth, Cracked Egg | **privetiloxev**: Ride-A-Pet Potion |
+| 15:06 | **Guestgermarnyboy**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **nuggets0162**: Hedgehog (FR), Kangaroo (FR), Alley Cat, Fly-A-Pet Potion ×2 |
+| 15:06 | **sjionnsch**: Mermicorn (R), Jellyfish (R) | **31kDracoMalfoyFan**: Goose (R) |
+| 15:06 | **Umoyaees**: Pig | **NekitPolyakov18**: Matcha Cat (R) |
+| 15:06 | **1Dems4**: Ginger Cat | **Trofim_0v0**: Bee |
+| 15:06 | **loafactory**: Unicorn Horn, 2022 Birthday Party Horn | **0_0ship21**: Chocolate Dutch Guinea Pig (MFR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
