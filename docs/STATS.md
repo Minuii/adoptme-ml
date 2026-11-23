@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 07:31 UTC by the scrape workflow._
+_Updated 2026-11-23 07:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 07:31 UTC by the scrape workflow._
 | amvgg | 13 | 32,206 | 2026-11-23T07:30 |
 | elve | 13 | 6,753 | 2026-11-23T07:31 |
 
-## AMVGG completed trades: 54,305 total
+## AMVGG completed trades: 54,307 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,068 |
+| 2026-11-23 | 1,070 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,6 +38,8 @@ _Updated 2026-11-23 07:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:36 | **ihyMellyy**: Leopard Shark (NR), Rhino (R) | **AvaNari2010**: Ice Cream Cone Hat |
+| 07:36 | **xXAestheticxSkyX**: Frost Dragon (FR) | **edwi1x**: Cow (MFR) |
 | 07:30 | **Seancarlosd**: Peppermint Penguin (FR), Goose (FR) | **Jjjba_4**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion |
 | 07:30 | **ITSMECINNAADDMEBACKK**: Dragonfruit Fox (MFR), Kiwi (MFR), Black Springer Spaniel (MFR), Cake Friend (N) | **Lingling111206**: Moon Rabbit (MFR), Water Rabbit (M), Candy Hare (MFR), Toasty Red Panda (MR), Amami Rabbit (M) |
 | 07:30 | **l0v3y0u_o**: Dolphin (NR), Moon Rabbit, Seabed Creeper | **Xxyukixx84**: Schoolhouse Home |
@@ -51,8 +53,6 @@ _Updated 2026-11-23 07:31 UTC by the scrape workflow._
 | 07:25 | **Reset26566741**: Turtle (FR), Kangaroo (R) | **beyondmygrasp**: Mini Pig (FR) |
 | 07:25 | **7H3ST**: Fly-A-Pet Potion ×4 | **neggeo_12**: Sugar Axolotl |
 | 07:25 | **7H3ST**: Fly-A-Pet Potion ×4 | **neggeo_12**: Sugar Axolotl |
-| 07:25 | **Bananasummers12123**: Tarsier | **fififetti**: Chihuahua |
-| 07:25 | **rimas77713**: Ride-A-Pet Potion, Alicorn | **Vitamirka**: Kiwi Kiwi ×2 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
