@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 14:31 UTC by the scrape workflow._
+_Updated 2026-11-23 14:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 14:31 UTC by the scrape workflow._
 | amvgg | 13 | 38,780 | 2026-11-23T14:30 |
 | elve | 13 | 8,242 | 2026-11-23T14:31 |
 
-## AMVGG completed trades: 55,461 total
+## AMVGG completed trades: 55,483 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,224 |
+| 2026-11-23 | 2,246 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 14:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:30 | **wherearewenow5**: Vampire Dragon (MFR), Grim Dragon (NFR) | **amimellaman3**: Turtle (NFR) ×2, Albino Monkey (NFR), Binturong (MFR), Dimorphodon (MFR) |
-| 14:30 | **Gabriele143love**: Puffer Fish, Panda, Water Rabbit, S'mores Raccoon, Leopard Shark, Husky, Koi Carp ×2 | **Panci_Terbang33**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 14:30 | **Hirohitoh3**: Baku (MF), Hydra (MFR), Merhorse (MF) | **MegaPoslaTV**: Kangaroo (FR) |
-| 14:30 | **ugl4st3phan**: Turtle (FR), Fly-A-Pet Potion ×3, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **getsdar**: Cow (FR) |
-| 14:30 | **wolllll11**: Ride-A-Pet Potion | **Yukitooo123**: Chihuahua ×3 |
-| 14:30 | **KittyCrustalt2**: Ride-A-Pet Potion | **Yukitooo123**: Admin Abuse Egg ×5, Crystal Egg ×5 |
-| 14:30 | **XxlambadguyxX**: Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (R) ×2, Ride-A-Pet Potion | **adopmetrede0**: Frost Dragon (FR) |
-| 14:30 | **Yukitooo123**: Chihuahua | **M1cahsWRLD**: Retired Egg ×18 |
-| 14:30 | **DewrattlSR**: Gemstone Egg ×2 | **iiSimplyxSkyexx**: Ride-A-Pet Potion |
-| 14:30 | **DIANO4KAJ**: Ride-A-Pet Potion ×16 | **Cute_CocoMouse**: Frostbite Bear |
-| 14:30 | **Smookgans**: Mini Pig (R) | **xyudrocher666**: Cow (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 14:30 | **Xwixx1obv**: Groundhog | **bczlivz**: Amami Rabbit (N) ×2 |
-| 14:30 | **kaylamicmi**: Cryptid (NR), Evil Unicorn (FR), 2022 Birthday Party Horn, 2022 Birthday Cake, Rain Cloud Hat | **YUMIIMOTHZZ**: Giraffe (FR) |
-| 14:30 | **roblox_bille12109**: Paint Sealer, White Chef Hat | **robloxnaomi3**: Chihuahua |
-| 14:30 | **qSaori**: Mighty Haetyphoon Animated Sticker ×2 | **hartik_120**: Banana Hat |
+| 14:40 | **moral608**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Jenniea264**: Frost Fury (FR) |
+| 14:40 | **RBstela**: Giant Anteater (MFR) | **Haiifromamvgg**: Many Mackerel (MFR), Volcanic Rhino (M), Golden Walrus (R), Chimera (MFR), Fleur De Ice (M) |
+| 14:40 | **fatnekoi**: Chihuahua ×12 | **Oliver20717**: Aussie Egg |
+| 14:40 | **rioo0o123**: Fairy Bat Dragon (FR), Kitsune (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **BaconetteNoobs**: Cow (FR) |
+| 14:40 | **RAiishiN3**: Border Collie (R), Ride-A-Pet Potion | **sukiwuk1**: Rain Cloud Hat |
+| 14:40 | **alimohamd00**: Evil Unicorn (FR), Goose, Candicorn | **boundedmoney**: Matcha Cat (MFR) |
+| 14:40 | **lookformeinvietnam**: Polar Bear (NFR), Unicorn Horn, Tiny Wings | **L4dyBrav3DollphinRBL**: Werewolf (NFR) |
+| 14:40 | **Lana_339**: Cow (FR) | **1MZ03Y**: S'mores Raccoon (M), Quokka (M), Fossa (M), Hippo (M), Armadillo (M) |
+| 14:40 | **0Neizvestnost0**: Sushi Penguin (MFR) | **4AdrianaJensen**: Frost Fury (FR), Haetyphoon (FR), Alicorn (MF), Fly-A-Pet Potion, Axolotl (FR), Ride-A-Pet Potion |
+| 14:40 | **carlothegemer_ph**: Glormy Dolphin (MR), Fly-A-Pet Potion | **xXDestroyerCatXx**: Clementine Owl (MFR), Skelicorn (MFR) |
+| 14:36 | **Artem_21a2**: Flamingo (FR) | **Mazyny0**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×4, Silly Duck (FR) |
+| 14:36 | **Klik_Kuromi**: Parrot (FR), Haetae (R) | **Th3S4dP3rs0n**: Frost Dragon (FR), Fly-A-Pet Potion, Tiny Wings, Ride-A-Pet Potion ×5, Groundhog, Kitty Biscuit |
+| 14:36 | **Alisa_cool2005**: Kangaroo (FR), Matcha Cat, Fly-A-Pet Potion, Ride-A-Pet Potion | **PikaPika12466**: Fairy Bat Dragon (FR) |
+| 14:36 | **1MZ03Y**: Ride-A-Pet Potion ×18 | **Zhykpererostushhu**: Kangaroo (FR) |
+| 14:36 | **clearlythorn**: Huntsman Robin ×11 | **Zhykpererostushhu**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
