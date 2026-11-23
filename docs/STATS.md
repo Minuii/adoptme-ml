@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 10:16 UTC by the scrape workflow._
+_Updated 2026-11-23 10:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 10:16 UTC by the scrape workflow._
 | amvgg | 13 | 34,783 | 2026-11-23T10:15 |
 | elve | 13 | 7,303 | 2026-11-23T10:15 |
 
-## AMVGG completed trades: 54,633 total
+## AMVGG completed trades: 54,664 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,396 |
+| 2026-11-23 | 1,427 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 10:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:11 | **plushioss**: Dragonfruit Fox (MFR), Chocolate Dutch Guinea Pig (MFR), French Bulldog (MFR), Black Springer Spaniel (MR), Unicorn Horn, Pink Betta Fish (M), Alley Cat | **SussyKidsRBLX**: Strawberry Shortcake Bat Dragon (NFR) |
-| 10:11 | **nuggets0162**: Mrs. Whiskerpips (M) | **kiara_lotos**: Orca (NR), Royal Palace Spaniel (FR), Cattuccino (R) |
-| 10:11 | **XiaoFaye1433**: Cow (FR), Kangaroo (FR) | **diswcordkitty**: Hive Backpack |
-| 10:11 | **XiaoFaye1433**: Cow (FR), Kangaroo (FR) | **diswcordkitty**: Hive Backpack |
-| 10:11 | **clalouetciedh**: Alicorn ×18 | **chiefkeezzf**: Fly-A-Pet Potion |
-| 10:11 | **DefinitelyNotCha6**: Red Panda ×4, Robot, Salamander, Seabed Creeper, Shiba Inu ×2, Starfish, Australian Kelpie ×2, Emu ×3, Monkey ×2, Narwhal | **ameyyass**: Fly-A-Pet Potion |
-| 10:11 | **Xerces_04**: Fairy Bat Dragon (FR), Cabbit (FR), Cupid Dragon (NFR), Siamese Cat | **RyukkHolder**: Cryptid (FR) |
-| 10:11 | **arqvve1**: Fly-A-Pet Potion, Pet Handler Pro Certificate ×2 | **InfernapeMaster462**: Frost Fury (FR) |
-| 10:11 | **0Amyvale0**: Fairy Bat Dragon | **Aisyzxu**: Haetyphoon ×3 |
-| 10:11 | **Vitamirka**: Chihuahua ×3 | **Shy_G0n9**: Ride-A-Pet Potion |
-| 10:11 | **za_Donbasss2014**: Sea Turtle (MR) | **SweetKiokio**: Ride-A-Pet Potion ×3 |
-| 10:11 | **Vitamirka**: Pain au Chat ×5 | **roblox_user_2880951367**: Fly-A-Pet Potion |
-| 10:11 | **Lozi_loz**: Momma Moose, Gummy Guana (N), Sunflower Friend, Water Opossum, Black Tiger (N), Walrus, Wolpertinger, Ratatoskr, Ground Sloth | **kiara_lotos**: Christmas Pudding House |
-| 10:11 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **1220birth1005100**: Aussie Egg |
-| 10:00 | **xXcaxapokXx_off**: Fly-A-Pet Potion | **marr_foxx**: Zombie Wolf ×2 |
+| 10:25 | **clalouetciedh**: Dragonfly ×18 | **Pandalovedogss**: Ride-A-Pet Potion |
+| 10:25 | **Puddingxcutoy**: Kangaroo (FR), Arctic Fox (FR) | **mommy_vka123**: Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 10:25 | **DefinitelyNotCha6**: Modern Mansion | **Acezxxo**: Ride-A-Pet Potion |
+| 10:25 | **TheGodx555**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×6 | **Alana2K201**: Jester Dragon (NFR) |
+| 10:25 | **xiparo**: Pain au Chat ×12, Admin Abuse Box | **w1ngedchwrryel**: Jester Dragon |
+| 10:25 | **xiparo**: Pain au Chat ×18 | **gerl708090**: Fly-A-Pet Potion ×3 |
+| 10:25 | **sushiiyushii**: Ride-A-Pet Potion ×2 | **shainikss**: Dragonfruit Fox |
+| 10:25 | **Itsserena108**: Unicorn Stroller, Spring Bunny Feet | **floperaserving**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 10:25 | **Vitamirka**: Pain au Chat ×3 | **UNLIMITET01**: Ride-A-Pet Potion |
+| 10:25 | **eddsworldfan27494**: Cow (FR), Ride-A-Pet Potion | **BudgieLoverGirl239**: Goose (FR) |
+| 10:25 | **Todream2**: Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR), Zombie Chick (M), Show Pony (MFR), Ride-A-Pet Potion ×3 | **AdrianGaming777777**: Strawberry Shortcake Bat Dragon (NFR) |
+| 10:20 | **beatsvic**: Goat (MFR) | **78akgd**: Pirate Ghost Capuchin Monkey (MFR) |
+| 10:20 | **Happyalt61**: Giant Anteater (MFR), Rainbow Maker, Tiny Wings, Pupcicle (M) | **RBstela**: Caterpillar (MFR) |
+| 10:20 | **lIIIllIllllIIIIIIII**: Dalmatian (FR), Elephant (R) | **Aptobolom**: Hedgehog (FR) |
+| 10:20 | **Vitamirka**: Chihuahua ×9 | **Glebasik_game**: Ride-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
