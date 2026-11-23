@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 11:31 UTC by the scrape workflow._
+_Updated 2026-11-23 11:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 11:31 UTC by the scrape workflow._
 | amvgg | 13 | 35,883 | 2026-11-23T11:30 |
 | elve | 13 | 7,602 | 2026-11-23T11:31 |
 
-## AMVGG completed trades: 54,832 total
+## AMVGG completed trades: 54,854 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 1,595 |
+| 2026-11-23 | 1,617 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 11:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:30 | **Klik_Kuromi**: Balloon Unicorn (FR), Kangaroo (R), Ride-A-Pet Potion | **x6qwr**: Parrot (FR) |
-| 11:30 | **wrixcte**: Glyptodon (N), Starmite (FR) | **Brxtvnny**: Fly-A-Pet Potion |
-| 11:30 | **Dhdhdhehsdhdheyeye**: Ride-A-Pet Potion ×5, Sloth (R) | **pop3791020**: Brown Bear (R), Swan |
-| 11:30 | **Kaito_Hunter130**: Fly-A-Pet Potion ×3, Chihuahua | **mimimusasusu**: Ride-A-Pet Potion ×6 |
-| 11:30 | **s0larzxxxx**: Emu (M), Pupcicle, Stray Cat Dragon, Paint Sealer | **Vikakelera**: Ride-A-Pet Potion ×2 |
-| 11:30 | **Vitamirka**: Chihuahua ×3 | **naka_paka71**: Ride-A-Pet Potion |
-| 11:30 | **verkaash**: Skunk (MR) | **vincybubble**: Christmas Pudding Pup (R) |
-| 11:30 | **Xx_inyixX**: Parrot (FR), Cupid Dragon, Fly-A-Pet Potion, Ride-A-Pet Potion | **Bekhan_omg**: Crow (FR), Turtle (FR) |
-| 11:25 | **ilove_milkywayss**: Octopus (R) | **dosolwn**: Ride-A-Pet Potion |
-| 11:25 | **AzureDrifted**: Frostbite Cub (FR) | **lzxsre**: Ride-A-Pet Potion |
-| 11:25 | **ificial2345**: Firefly | **wmwmwm029**: Cattuccino |
-| 11:25 | **M4elle4**: Toucan (R), Starfish, Golden Egg, Fairytale Egg ×3, Royal Egg, Poodle (R) | **xxBloxyCat2**: Unicorn |
-| 11:25 | **TheGodx555**: Strawberry Shortcake Bat Dragon (FR) | **KitKat96777**: Ride-A-Pet Potion ×5, Elephant (FR), Frost Fury (FR) ×2, Cow (FR) |
-| 11:25 | **DefinitelyNotCha6**: Sock Chew Toy, Snowball Launcher, Marsh Plush, Heart Balloon, Gift Throw Toy, Elf Plush, Elephant Plush, Cookie Dough Plush ×3, Candle ×2, Caticorn Rattle, Turkey Plush | **vika777120**: Fly-A-Pet Potion |
-| 11:25 | **Cosmo_syx**: Glacier Kitsune (FR) | **mdmdnkevsjsvaj**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 11:36 | **robloxer_3614**: Jester Hat, Halloween White Skull Hat, Golden Egg | **rainbow72679**: Ride-A-Pet Potion |
+| 11:36 | **qwtalia**: Goat (MFR), Jellyfish (MFR), Cow (MFR), Cow (R) | **Angelfromdarkness_0**: Balloon Unicorn (NFR), Pupcicle |
+| 11:36 | **Amvggtrad3r**: Ride-A-Pet Potion | **kylebarcebas1**: Invisible Wings |
+| 11:36 | **Mallow_07737**: Lunar Moon Bear (MFR) | **ihitmyheadonwalls2**: Burger Bear (M) |
+| 11:36 | **MinhQnyu**: Glider, Ride-A-Pet Potion | **Mallow_07737**: Wing Hang Glider |
+| 11:36 | **Panci_Terbang33**: Ride-A-Pet Potion ×5 | **s0larzxxxx**: Jester Dragon, Chicken |
+| 11:36 | **epicpulsechaos2024**: Crystal Egg ×11 | **Jragon543**: Ride-A-Pet Potion |
+| 11:36 | **Ackosender**: Kitsune (R), Koala | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 11:36 | **Fiujdloslah875**: Ride-A-Pet Potion ×2 | **Mimiiixq0**: Unicorn ×2 |
+| 11:36 | **Cupcake0verload**: Count Slothula ×2, Koala (R) | **Zoescats111**: Ride-A-Pet Potion ×2 |
+| 11:36 | **Zoescats111**: Wildfire Hawk, Tan Chow-Chow, Subzero Scorpion, Ringmaster Gibbon, Thunderfisher, Kage Crow, Chilling Spider | **abbyissocool_lol**: Ride-A-Pet Potion |
+| 11:36 | **nona200986**: Ride-A-Pet Potion ×16 | **safiqa99**: Kangaroo (FR) |
+| 11:36 | **atr1xry**: Cow (FR), Cow, 2022 Birthday Cake, Fly-A-Pet Potion, Ride-A-Pet Potion | **sunFoxoxx**: Dalmatian (FR) |
+| 11:36 | **atr1xry**: Munchkin Cat (R) | **BLACKCAT202015**: Fly-A-Pet Potion ×5 |
+| 11:36 | **atr1xry**: Strawberry Shortcake Bat Dragon (FR), Drake (MFR), Moonbeam Peacock (R) | **lolacc1234567890**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
