@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 17:16 UTC by the scrape workflow._
+_Updated 2026-11-23 17:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 17:16 UTC by the scrape workflow._
 | amvgg | 13 | 41,376 | 2026-11-23T17:15 |
 | elve | 13 | 8,856 | 2026-11-23T17:15 |
 
-## AMVGG completed trades: 56,146 total
+## AMVGG completed trades: 56,171 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,909 |
+| 2026-11-23 | 2,934 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 17:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:15 | **Lunarwolves83**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (NFR), Shark Puppy (R) | **Feli_456443**: Peppermint Penguin (NFR) |
-| 17:15 | **K1MM007**: Jester Dragon (MFR), Grave Owl (MFR), Velocirooster, Love Bird (M) | **IceCreak2021**: Dalmatian (FR) |
-| 17:15 | **lolppp0vld**: Evil Unicorn (FR) | **Lefty43434**: Cryptid (FR) |
-| 17:15 | **elproXD_7v7**: Chihuahua ×18 | **shainikss**: Ride-A-Pet Potion ×6 |
-| 17:15 | **0kLadno**: Fly-A-Pet Potion ×2 | **Certifiedbwunnii**: Mermaid Mansion |
-| 17:15 | **mitsI_194**: Ride-A-Pet Potion | **Abilka_lololoshka2**: Pupcicle ×2 |
-| 17:15 | **Bobo_Tsuya**: Kangaroo (FR) ×2, Border Collie (FR), Tortoiseshell Guinea Pig (FR), Cow (FR) | **mk1qez**: Evil Unicorn (FR) |
-| 17:15 | **aydachan200311**: Turtle (FR) | **Marry14_1**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 |
-| 17:15 | **dprd22**: Chocolate Chip Bat Dragon (NFR), Pet Handler Pro Certificate, Arctic Fox (R), Ride-A-Pet Potion | **Ksusha_broooooo**: Strawberry Shortcake Bat Dragon (NFR), Turtle (FR) |
-| 17:15 | **butterflysandfairys**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR), Frost Phoenix (N) | **Bismuth234**: Parrot (FR) |
-| 17:15 | **aziatka_247**: Chocolate Chip Bat Dragon Backpack | **daisyrose1357x**: Ride-A-Pet Potion |
-| 17:15 | **Prettyme9110**: Chocolate Chip Bat Dragon (FR) | **pinksugarcookiesruu**: Peppermint Penguin (FR), Unicorn (MFR), 2022 Birthday Confetti Cannon, Ice Cream Cone Hat |
-| 17:15 | **MATIzyzy**: Parrot (NFR), Owl (FR), Blazing Lion, Evil Unicorn (FR), Frost Unicorn (NFR), Turtle (FR) | **iloveadoptme541**: Bat Dragon (FR) |
-| 17:15 | **MinhLovesFurriess**: Purrowl (N) ×3, Dragon, Bee, Bobageist, Frozen Penguin, Ginger Cat, Starfish, Toucan, Crimson Cape, Corgi, Gold Mahi Mahi, Purrowl ×5 | **komakaenngbehl4t**: Ride-A-Pet Potion ×2 |
-| 17:15 | **PR0BMEMO**: Bush Elephant (MFR), Candicorn (FR) | **Xxcoralia_omgxX**: Goat (MFR), Sheeeeep (MFR), Unicorn Horn |
+| 17:25 | **elifanaekinci**: Unicorn | **roblox_user_1554000708**: Bready Necklace |
+| 17:25 | **cannotaffordme**: Christmas Pudding Pup (MFR), 2022 Birthday Party Hat | **triangulaamv**: Candicorn (MFR) |
+| 17:25 | **MM_Cloud**: Crystal Egg ×18 | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 17:25 | **M1cahsWRLD**: Fly-A-Pet Potion, Ride-A-Pet Potion | **therealkayt67**: Hare |
+| 17:25 | **Zjdzgfwa**: Crocodile (FR), Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **ITS_DaDaAgent**: Candyfloss Chick (R) |
+| 17:25 | **Youmyrii**: Sugar Glider, Border Collie (R) | **BR4Y4N1027**: Mini Pig (FR) |
+| 17:25 | **0nlqm3**: Balloon Unicorn (FR), Fairy Bat Dragon (FR) ×2 | **cya_adoptmechallange**: Owl (FR) |
+| 17:25 | **andro012233**: Pet Handler Pro Certificate | **fabrielpanapro**: Harp Seal |
+| 17:25 | **Sigatotkaka**: Christmas Pudding House, General Sheepdog, Slimingo Feather Teleporter | **silencer282**: Fly-A-Pet Potion |
+| 17:25 | **Chasyyrose**: Llama (MFR), Hyena (MFR) | **gogosicavesela1**: Zombie Buffalo (MFR), Bauble Buddies (MFR) |
+| 17:25 | **Amvgg_Amvggg**: Shark Puppy (R), Pig (R) | **yanchik0067**: Kangaroo (FR), Fly-A-Pet Potion |
+| 17:25 | **obvmelwi**: Bauble Buddies (M), Elf Hat ×2, Ride-A-Pet Potion ×4, Pupcake (R), Cotton Candy Hat, Nautilus (R) | **spojIfed**: Super Saru (MFR) |
+| 17:25 | **59ghrvs**: Peppermint Penguin, Goth Shoes, Ride-A-Pet Potion | **Mimie_Cool**: Hot Doggo (FR) |
+| 17:25 | **MM_Cloud**: Crystal Egg ×18 | **nimalina463**: Ride-A-Pet Potion |
+| 17:25 | **ARS123965**: Merhorse (R), Santa's Bow, Elf Shoes, Three Blind Mice, Huntsman Robin, Purrowl | **Gaming_Birdie**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
