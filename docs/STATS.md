@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 21:40 UTC by the scrape workflow._
+_Updated 2026-11-23 21:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 21:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 45,672 | 2026-11-23T21:30 |
-| elve | 13 | 9,693 | 2026-11-23T21:31 |
+| amvgg | 13 | 45,923 | 2026-11-23T21:45 |
+| elve | 13 | 9,735 | 2026-11-23T21:46 |
 
-## AMVGG completed trades: 57,239 total
+## AMVGG completed trades: 57,251 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 4,002 |
+| 2026-11-23 | 4,014 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 21:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:45 | **DragonjJDusta107130**: Alpaca (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **gattitakawaii16**: Goose (R) |
+| 21:45 | **Cat_Dog866**: Purple Heart Glasses | **BL00DP0PP3RZ**: Star Sunglasses |
+| 21:45 | **pancakepandapal**: Dalmatian (FR), Peppermint Penguin | **blushbyelle**: Haetae |
+| 21:45 | **Vol4ica77**: Unicorn (NR) | **edzegr8**: Ride-A-Pet Potion ×4 |
+| 21:45 | **spojIfed**: Ice Wolf (MFR), Glacier Kitsune (NFR), Royal Mistletroll (R), Caterpillar, Giant Anteater, Ride-A-Pet Potion, White Chef Hat | **HeavenlySylvie**: Cryptid (R) |
+| 21:45 | **Coolbirdy40**: Shrew (NR) | **dtzombii**: Jester Dragon (NFR) |
+| 21:45 | **kellisynh**: Goose (NFR), Chocolate Chip Bat Dragon Backpack, Retired Egg ×4 | **Natalize8D**: Dalmatian (R) |
+| 21:45 | **kwaskinnn**: Fallow Deer (MFR), Hare (MFR), Solaris (NFR) | **Candy_100OO**: Giant Anteater (MFR) |
+| 21:45 | **mommy_vka123**: Fly-A-Pet Potion ×7, Pet Handler Pro Certificate, Ride-A-Pet Potion ×7 | **roronoazoro1gg**: Turtle (FR) |
+| 21:45 | **almagul83**: Hoverboard, Banana Car, Boohoo | **ertyiop665645**: Ride-A-Pet Potion |
+| 21:45 | **aiixyq**: Bat Dragon (FR), Bat Dragon, Fairy Bat Dragon (NFR), Jester Dragon (MFR), Arctic Dusk Dragon (MFR) | **sunset_s0ul**: Bat Dragon (NFR) |
+| 21:45 | **raven_rampag**: Alpaca (MFR) | **nicole282758**: Goose (MFR), Angel Wings |
 | 21:36 | **Lirannn_12345**: Ice Wolf (MFR) | **Lingling111206**: Water Moon Bear (MFR), Green Amazon (MFR), Choco Penguin (MFR), Sasquatch (MFR), Gingerbread Hare (MFR), Toy Poodle (MFR) |
 | 21:36 | **K0TIIX**: Owl (FR), Turtle (NFR), Cow (FR) ×2, Turtle (FR), Elephant, Cow, Lion (FR) | **don5556**: Giraffe |
 | 21:36 | **abdoosaad**: Fairy Bat Dragon (FR) | **xmarlarx**: Maine Coon (M), Turtle Doves (M), Mrs. Whiskerpips (NFR), St Bernard (MR), Skelicorn (MFR), German Shepherd (NR), French Bulldog (N), Pupcake (N) |
-| 21:36 | **pawinccess**: Goose, Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **JacobeanLifestyle**: Ghost Dog (MFR), Brown Springer Spaniel (MFR) |
-| 21:36 | **kiff_shik**: Aurora Fox (FR), Jester Dragon (R) | **ALEX_SEG400**: Tiny Wings |
-| 21:36 | **sharie_lovelife**: Tortoiseshell Guinea Pig, Red Dutch Guinea Pig ×2, Sushi Penguin ×2 | **Jana_ashtetic**: Strawberry Tortle |
-| 21:36 | **corbin374**: Ride-A-Pet Potion ×18 | **icebaby545**: Fly-A-Pet Potion ×9 |
-| 21:36 | **EthanNovaZoom2024**: Alpaca (R) | **DragonjJDusta107130**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 |
-| 21:36 | **rasyanoobbacon**: Unicorn Horn ×2, 2022 Birthday Confetti Cannon, Rain Cloud Hat ×2, Rainbow Maker | **qlltm**: Glormy Leo (MFR), Rose Dragon (MFR), Red Squirrel (MFR) |
-| 21:36 | **vtoriii0**: Crow (MFR) | **qlltm**: Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Winged Tiger (FR), Turtle (R), Kangaroo (FR), Border Collie (FR), Copycat (NR) |
-| 21:36 | **mellqxxrb**: Gecko Ducky (MR) | **cnqrls**: Ride-A-Pet Potion |
-| 21:36 | **Agustin_xd2009**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 | **Gamerqueen1255**: Gemstone Egg ×12 |
-| 21:36 | **User017238**: Haetyphoon | **MotzarellaSticks2**: Spring Bunny Hood, Snow Monkey (R) |
-| 21:36 | **the1nonlyst4rz**: Unicorn Horn, Tiny Wings, Candicorn (FR), Alpaca | **shailalovesjesus**: Chocolate Chip Bat Dragon (FR) |
-| 21:36 | **IamCool123Andunot**: Zodiac Minion Chick (N), Purrowl (N), Shetland Pony Dark Brown (N), Cherub Chipmunk (M) | **EmmaShad0wRider4737**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
