@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 14:25 UTC by the scrape workflow._
+_Updated 2026-11-23 14:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 14:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 38,503 | 2026-11-23T14:15 |
-| elve | 13 | 8,154 | 2026-11-23T14:15 |
+| amvgg | 13 | 38,780 | 2026-11-23T14:30 |
+| elve | 13 | 8,242 | 2026-11-23T14:31 |
 
-## AMVGG completed trades: 55,429 total
+## AMVGG completed trades: 55,461 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,192 |
+| 2026-11-23 | 2,224 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 14:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:25 | **sweetandpoetic**: Hare (NR) | **gattitakawaii16**: Dugong (MFR) |
-| 14:25 | **sleepy_s0ren**: Owl (R), Ride-A-Pet Potion | **jiankam**: Owl (FR) |
-| 14:25 | **Dian_Babybunny**: Dalmatian (NFR), Hare (R), Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **CredibleEmaballerina**: Owl (FR) |
-| 14:25 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Rylo122414**: Unicorn (NFR) |
-| 14:25 | **rxbloxian11**: Turtle (NFR), Mini Pig (FR), Arctic Fox (FR), Arctic Dusk Dragon (R) | **jiankam**: Hedgehog (FR) |
-| 14:25 | **Xnixht**: Alpaca, Sheeeeep | **tiasdiaryx**: Hot Doggo (FR) |
-| 14:25 | **Gabriele143love**: Zombie Wolf, Ghost Bunny | **Snow_Girl123678**: Ride-A-Pet Potion ×2 |
-| 14:25 | **gongseni**: Pupcake (N) | **laycakees**: Fly-A-Pet Potion |
-| 14:25 | **TYKU643**: Kitty Bat (M) | **wwafawdwg_70**: Copycat, Skelicorn (MFR) |
-| 14:25 | **Nastymiopi**: Cow (NFR), Balloon Unicorn (FR), Fairy Bat Dragon (FR), African Wild Dog, Crocodile (FR), Many Mackerel (R) | **Warden937**: Giraffe (FR) |
-| 14:25 | **detective_emilly**: Ermine (N) | **Mira_6113**: Ride-A-Pet Potion |
-| 14:25 | **mellqxxrb**: Pain au Chat ×2 | **ILASW1SHES**: Ride-A-Pet Potion |
-| 14:25 | **Dudossik**: Turtle (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Pet Handler Pro Certificate | **Cosmo_syx**: Cow (FR) |
-| 14:25 | **wsxzzq0**: Fly-A-Pet Potion ×7, Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×6 | **VvK1e**: Turtle (FR) |
-| 14:25 | **Reveknalt1**: Ride-A-Pet Potion ×2 | **MegaPoslaTV**: Tree Kangaroo |
+| 14:30 | **wherearewenow5**: Vampire Dragon (MFR), Grim Dragon (NFR) | **amimellaman3**: Turtle (NFR) ×2, Albino Monkey (NFR), Binturong (MFR), Dimorphodon (MFR) |
+| 14:30 | **Gabriele143love**: Puffer Fish, Panda, Water Rabbit, S'mores Raccoon, Leopard Shark, Husky, Koi Carp ×2 | **Panci_Terbang33**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 14:30 | **Hirohitoh3**: Baku (MF), Hydra (MFR), Merhorse (MF) | **MegaPoslaTV**: Kangaroo (FR) |
+| 14:30 | **ugl4st3phan**: Turtle (FR), Fly-A-Pet Potion ×3, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **getsdar**: Cow (FR) |
+| 14:30 | **wolllll11**: Ride-A-Pet Potion | **Yukitooo123**: Chihuahua ×3 |
+| 14:30 | **KittyCrustalt2**: Ride-A-Pet Potion | **Yukitooo123**: Admin Abuse Egg ×5, Crystal Egg ×5 |
+| 14:30 | **XxlambadguyxX**: Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (R) ×2, Ride-A-Pet Potion | **adopmetrede0**: Frost Dragon (FR) |
+| 14:30 | **Yukitooo123**: Chihuahua | **M1cahsWRLD**: Retired Egg ×18 |
+| 14:30 | **DewrattlSR**: Gemstone Egg ×2 | **iiSimplyxSkyexx**: Ride-A-Pet Potion |
+| 14:30 | **DIANO4KAJ**: Ride-A-Pet Potion ×16 | **Cute_CocoMouse**: Frostbite Bear |
+| 14:30 | **Smookgans**: Mini Pig (R) | **xyudrocher666**: Cow (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 14:30 | **Xwixx1obv**: Groundhog | **bczlivz**: Amami Rabbit (N) ×2 |
+| 14:30 | **kaylamicmi**: Cryptid (NR), Evil Unicorn (FR), 2022 Birthday Party Horn, 2022 Birthday Cake, Rain Cloud Hat | **YUMIIMOTHZZ**: Giraffe (FR) |
+| 14:30 | **roblox_bille12109**: Paint Sealer, White Chef Hat | **robloxnaomi3**: Chihuahua |
+| 14:30 | **qSaori**: Mighty Haetyphoon Animated Sticker ×2 | **hartik_120**: Banana Hat |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
