@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 21:01 UTC by the scrape workflow._
+_Updated 2026-11-23 21:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 21:01 UTC by the scrape workflow._
 | amvgg | 13 | 45,143 | 2026-11-23T21:00 |
 | elve | 13 | 9,637 | 2026-11-23T21:01 |
 
-## AMVGG completed trades: 57,097 total
+## AMVGG completed trades: 57,139 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,860 |
+| 2026-11-23 | 3,902 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 21:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:00 | **gabsotuff**: Ride-A-Pet Potion | **Win234323**: Respectful Mustache |
-| 21:00 | **nikaaaaaattyu**: Cerberus (R), Ancient Dragon (R) | **piespix**: Cerberus (FR) |
-| 21:00 | **mellqxxrb**: Pain au Chat ×4 | **ST4R_L1GHT1281**: Fly-A-Pet Potion |
-| 21:00 | **gabsotuff**: Ride-A-Pet Potion | **ni1zuua**: Respectful Mustache |
-| 21:00 | **elproXD_7v7**: Chihuahua ×6 | **ST4R_L1GHT1281**: Ride-A-Pet Potion ×2 |
-| 21:00 | **P1nkteeth**: Chihuahua (M), Chihuahua (N) | **Pao_ComRequeijaokkj**: Tiny Wings |
-| 21:00 | **Kabachok_119**: Ride-A-Pet Potion | **Alexnaza82**: Christmas Pudding House |
-| 21:00 | **ubnnyz**: Gemstone Egg ×4 | **dt6uyyyyy**: Admin Vision Glasses |
-| 21:00 | **youyyyyhh**: Glormy Hound (M), Scarebear (NR) ×4, Jester Dragon (FR), Ride-A-Pet Potion ×6 | **austytedgirl**: Strawberry Shortcake Bat Dragon (FR) |
-| 21:00 | **hmmhh8**: Arctic Reindeer, Alley Cat (N) | **Littlelizzie2012**: Diamond Hamster (MFR), Golden Chow-Chow (MFR), Golden Hamster (MFR) |
-| 21:00 | **ayeeeAva**: Orange Betta Fish (N), Scarlet Butterfly | **Valentita800191**: Ribbon Seal (M) |
-| 21:00 | **yumanera**: Turtle (FR), Unicorn Horn, Munchkin Cat (FR), Sakura Spirit (FR), Dire Wolf (M), Gumball Caterpillar (MR) | **abdoosaad**: Chocolate Chip Bat Dragon (FR) |
-| 21:00 | **draike_tzu8262**: Trapdoor Snail | **Naye0n_z**: Retired Egg ×18 |
-| 21:00 | **TheAddictedSpider**: Hare (N) | **cookie140507**: Alley Cat (N) |
-| 21:00 | **Imeddkit**: Ghostly Cat (N) | **Dash_2023crashh**: Ride-A-Pet Potion |
+| 21:06 | **veronicasue2**: Pupcicle, Retired Egg ×14 | **abbyissocool_lol**: Ride-A-Pet Potion |
+| 21:06 | **polina_polinka23774**: Halloween Evil Dachshund (R), Shiba Inu (N), Thunderfisher (N) | **Livxhze**: Ride-A-Pet Potion |
+| 21:06 | **kendrito_garcia**: Cryptid (NFR), Balloon Unicorn (FR) | **AngelsHarxx_Lilyluvz**: Alpaca (MFR), Werewolf (R) |
+| 21:06 | **Pinkmalinky123**: 2022 Birthday Cupcake Shoes | **djwestie**: Capricorn (MFR) |
+| 21:06 | **guardacheloso**: Mermicorn (NFR) | **joyutuitjy**: Fairy Bat Dragon (NFR) |
+| 21:06 | **robloxer_3614**: Ride-A-Pet Potion | **hhhauntedddd**: Zeopod (N), Tree Sasquatch (N), Blue Butterfly (N), Flying Fish (N), Hopbop (N) |
+| 21:06 | **abdoosaad**: Irish Water Spaniel | **MissySendy**: Rooster (M) |
+| 21:06 | **N3ssii0**: Kangaroo (FR) | **QuantumPandaPlayz93**: Copycat (N) |
+| 21:06 | **PRODAZA_STARPETS**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×4 | **fhis64**: Ranger Beaver (MFR) |
+| 21:06 | **Ailya2_20**: Mummy Spider (M), Jumpscare (M) | **Gabo_XD202**: Fly-A-Pet Potion |
+| 21:06 | **LewALTacc7**: Peppermint Penguin (NFR), Frostbite Bear (FR) | **STHJOSE00**: Frost Unicorn (NFR), Cabbit, Yule Log Dog (MFR), Headless Horse (MFR) |
+| 21:06 | **happyhaleigh707**: Sea Slug (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **lenyvai2010pro**: Albino Monkey (FR) |
+| 21:06 | **0Neizvestnost0**: Dragonfruit Fox (NFR) | **kiff_shik**: Kitty Bat (MFR) |
+| 21:06 | **DVSeyb**: Retired Egg ×15 | **cowlol898**: Chihuahua |
+| 21:06 | **alicex3x3**: Tiny Wings, Unicorn Horn, Siamese Cat, Pet Handler Pro Certificate | **TuffTuffTuff_Sahur67**: Brown Springer Spaniel (MFR), Goose, Peach Owl |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
