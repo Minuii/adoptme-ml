@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 17:25 UTC by the scrape workflow._
+_Updated 2026-11-23 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 17:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 41,376 | 2026-11-23T17:15 |
-| elve | 13 | 8,856 | 2026-11-23T17:15 |
+| amvgg | 13 | 41,624 | 2026-11-23T17:30 |
+| elve | 13 | 8,921 | 2026-11-23T17:31 |
 
-## AMVGG completed trades: 56,171 total
+## AMVGG completed trades: 56,186 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,934 |
+| 2026-11-23 | 2,949 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 17:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:25 | **elifanaekinci**: Unicorn | **roblox_user_1554000708**: Bready Necklace |
-| 17:25 | **cannotaffordme**: Christmas Pudding Pup (MFR), 2022 Birthday Party Hat | **triangulaamv**: Candicorn (MFR) |
-| 17:25 | **MM_Cloud**: Crystal Egg ×18 | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 17:25 | **M1cahsWRLD**: Fly-A-Pet Potion, Ride-A-Pet Potion | **therealkayt67**: Hare |
-| 17:25 | **Zjdzgfwa**: Crocodile (FR), Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **ITS_DaDaAgent**: Candyfloss Chick (R) |
-| 17:25 | **Youmyrii**: Sugar Glider, Border Collie (R) | **BR4Y4N1027**: Mini Pig (FR) |
-| 17:25 | **0nlqm3**: Balloon Unicorn (FR), Fairy Bat Dragon (FR) ×2 | **cya_adoptmechallange**: Owl (FR) |
-| 17:25 | **andro012233**: Pet Handler Pro Certificate | **fabrielpanapro**: Harp Seal |
-| 17:25 | **Sigatotkaka**: Christmas Pudding House, General Sheepdog, Slimingo Feather Teleporter | **silencer282**: Fly-A-Pet Potion |
-| 17:25 | **Chasyyrose**: Llama (MFR), Hyena (MFR) | **gogosicavesela1**: Zombie Buffalo (MFR), Bauble Buddies (MFR) |
-| 17:25 | **Amvgg_Amvggg**: Shark Puppy (R), Pig (R) | **yanchik0067**: Kangaroo (FR), Fly-A-Pet Potion |
-| 17:25 | **obvmelwi**: Bauble Buddies (M), Elf Hat ×2, Ride-A-Pet Potion ×4, Pupcake (R), Cotton Candy Hat, Nautilus (R) | **spojIfed**: Super Saru (MFR) |
-| 17:25 | **59ghrvs**: Peppermint Penguin, Goth Shoes, Ride-A-Pet Potion | **Mimie_Cool**: Hot Doggo (FR) |
-| 17:25 | **MM_Cloud**: Crystal Egg ×18 | **nimalina463**: Ride-A-Pet Potion |
-| 17:25 | **ARS123965**: Merhorse (R), Santa's Bow, Elf Shoes, Three Blind Mice, Huntsman Robin, Purrowl | **Gaming_Birdie**: Ride-A-Pet Potion |
+| 17:30 | **Beronika_40**: Swan (NFR) | **ewzhxre**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion |
+| 17:30 | **Tomyboschi**: Frost Fury (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ismejenny134**: Pig (R) |
+| 17:30 | **SuperMagicFaith**: Gemstone Egg ×2 | **Mebeegood**: Ride-A-Pet Potion |
+| 17:30 | **GL0SSY4XIS**: Matcha Cat (MFR), Cupid Dragon (NR) | **sar1ahkn1ght**: Sea Slug (MFR) |
+| 17:30 | **INJVR1ES**: Unicorn (MF), Pig (NFR) | **hanb3ki**: Munchkin Cat (NFR) |
+| 17:30 | **omerbcen542009**: Kangaroo (FR), Arctic Reindeer (FR) | **rioo0o123**: Dalmatian (FR) |
+| 17:30 | **jellycatmar**: Frostbite Cub (MFR), Sushi Penguin (MFR), Puffer Fish (MFR) | **xmikaeq**: Dango Penguins (MFR) |
+| 17:30 | **Vosukese518**: Ride-A-Pet Potion ×2 | **Yumi_Rose8**: Pet Handler Pro Certificate |
+| 17:30 | **Alice_toca12345**: Balloon Unicorn (FR), Spring Bunny Feet | **fwthaclout**: Strawberry Shortcake Bat Dragon (NFR) |
+| 17:30 | **Esikiiomuru**: Pupcicle (N), Fly-A-Pet Potion, Ride-A-Pet Potion | **pizdinavolosina**: Bald Eagle |
+| 17:30 | **Ilovedarya35**: Copycat ×2, Red Dutch Guinea Pig (R), Red Dutch Guinea Pig, Dragonfruit Fox, Banana Hat | **N0vaC0r3cPV0rt3xu126**: Kangaroo (FR) |
+| 17:30 | **ojerico432**: Fairy Bat Dragon (FR), Kangaroo (FR), Lava Dragon (FR), Scarlet Butterfly (M), Purrowl (M), Black-Footed Ferret (M), Ribbon Seal (MR), Stitches (M), Kitsune (F), Royal Palace Spaniel (R), Pinkypillar (M), Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Dog | **WhiteJackk4**: Chocolate Chip Bat Dragon (FR) |
+| 17:30 | **vTrustedSaviour**: Farm Egg, Unicorn Horn, Fly-A-Pet Potion ×3 | **Cristelmylovelove**: Evil Unicorn (FR) |
+| 17:30 | **Dora_MS1**: Chocolate Chip Bat Dragon (NFR) | **Puppyl1286**: Sugar Glider (NFR), Cabbit (NFR) |
+| 17:30 | **Robloxianj0h9v2j1p**: Mini Pig (R) | **starburstandevie**: Fairy Bat Dragon (FR), Toaster Hat |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
