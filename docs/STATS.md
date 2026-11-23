@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 23:41 UTC by the scrape workflow._
+_Updated 2026-11-23 23:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 23:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 47,626 | 2026-11-23T23:30 |
-| elve | 13 | 10,114 | 2026-11-23T23:31 |
+| amvgg | 13 | 47,882 | 2026-11-23T23:45 |
+| elve | 13 | 10,148 | 2026-11-23T23:46 |
 
-## AMVGG completed trades: 57,616 total
+## AMVGG completed trades: 57,646 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 4,379 |
+| 2026-11-23 | 4,409 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 23:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:36 | **Nothing_About6**: Evil Unicorn (NFR), Cryptid (FR), Turtle (NFR) | **DomenicoWakkos**: Parrot (NFR) |
-| 23:36 | **Speeddrawaccaount2**: S'mores Raccoon (MR), Ride-A-Pet Potion | **Elve_ii**: Unicorn Horn |
-| 23:36 | **raccoonybaloony**: Skelicorn (M), Bobageist (M) | **yudaswoiew**: Ride-A-Pet Potion ×5 |
-| 23:36 | **Robles6498369**: Arctic Reindeer (FR) | **tomatosandwish**: Mini Pig (FR), Goose (FR) |
-| 23:36 | **bwunnifection**: Honey Badger (MFR), Ride-A-Pet Potion ×2 | **itsnottt_mexx**: Cryptid |
-| 23:36 | **MM234861**: Therapy Dog ×2 | **Yamenzoj**: Chihuahua |
-| 23:36 | **hanb3ki**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **ICholestrol**: Kangaroo (FR) |
-| 23:36 | **Clapfair**: Goldhorn (N) | **WeiYing_Editor**: Pet Handler Pro Certificate, Fly-A-Pet Potion |
-| 23:36 | **krxadm3**: Crystal Egg ×17 | **qxciine**: Ride-A-Pet Potion |
-| 23:36 | **TT_0qwerty45**: Caterpillar (MFR) | **Little_n0te**: Haetae, Munchkin Cat (M), Pancake Stack |
-| 23:36 | **Banana_peanut67**: Ring-Tailed Lemur (MFR), Toaster Hat, Tiny Wings, Scarecrow Cat (M), Copycat | **kaylamicmi**: Sheeeeep (MFR) |
-| 23:36 | **d4rlingjazzy**: Strawberry Tortle (R), Frost Unicorn (FR), Copycat ×2 | **yoncha77**: Elephant (FR), Sea Slug, Pig ×2, Blossom Snake (MR), Latte Kitsune (R), Hare, Fly-A-Pet Potion, Bready Necklace |
-| 23:36 | **QueenBee246010**: Alpaca (FR), Winged Tiger (MFR), Groundhog (MFR), Unicorn Horn, Moose Calf (MFR) | **deqxla**: Mini Pig (MFR) |
-| 23:36 | **milkshakedeer**: Ride-A-Pet Potion | **Tradinginadoptme_673**: S'mores Raccoon |
-| 23:36 | **Baldyellowwoman**: Peppermint Penguin, Spring Bunny Hood | **Mnenormalno_0**: Cow (FR), Ride-A-Pet Potion |
+| 23:45 | **Xz_CodeOLDriftdLBliz**: Chihuahua (M), Skelicorn (M), Stray Cat Dragon (M), Arctic Dusk Dragon (FR), Golden Hamster (R), Pancake Stack, Butter Knife, Cake Friend, Ride-A-Pet Potion | **nimalina463**: Strawberry Tortle |
+| 23:45 | **Nastya_Mihalyk**: Jester Dragon | **dnei30fast**: Ride-A-Pet Potion ×4 |
+| 23:45 | **Brainrot_rebird**: Dalmatian (FR), Mermicorn (R), Fairy Bat Dragon (R), Owlbear, Hare | **M1dnight_moons**: Matcha Cat (MFR) |
+| 23:45 | **BTSDlSBAND**: Tortuga de la Isla (MFR), Santa Hat, Alpaca, Peppermint Penguin (NFR), Jellyfish (N), Unicorn Horn | **xngelwingss**: Mermicorn (MFR) |
+| 23:45 | **poorbunii**: Unicorn | **Papitascongaseosa_xD**: Santa's Bow |
+| 23:45 | **din_cat0**: Ride-A-Pet Potion | **SmA1L_001**: Kiwi Kiwi ×2 |
+| 23:45 | **kelixnz**: Arctic Hare | **Vasiaplayss**: Retired Egg ×18 |
+| 23:45 | **La_boyMich15**: Glyptodon Ducky (M), Rubber Ducky (M), Tree Sasquatch (N) | **MakiraLive**: Ride-A-Pet Potion |
+| 23:45 | **Smookgans**: Swan, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate | **XTREYT**: Santa Hat |
+| 23:45 | **d1g1tal831**: Ninja Monkey (NFR), Fly-A-Pet Potion | **lovsickgirl0**: Pig (R) |
+| 23:45 | **Cutecupshakes**: Crystal Egg ×7 | **riceb4II**: Pain au Chat |
+| 23:45 | **iaMatthieu1**: Arctic Dusk Dragon (MFR), Elephant | **Sunnyxxy12**: Dalmatian (FR) |
+| 23:45 | **OG_Kylen44840**: Arctic Reindeer (FR) | **blushbyelle**: Albino Monkey (NFR), Pig (NFR), Rooster (MFR), Bunny Swirl (MFR) |
+| 23:45 | **bobaa_m**: Retired Egg ×6 | **myouimznw**: Turtle Doves ×2 |
+| 23:45 | **RuinDreamy**: Cryptid (FR), Cabbit (R), Copycat, Pupcicle | **cesarx_o**: African Wild Dog |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
