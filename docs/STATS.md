@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 20:46 UTC by the scrape workflow._
+_Updated 2026-11-23 20:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 20:46 UTC by the scrape workflow._
 | amvgg | 13 | 44,899 | 2026-11-23T20:45 |
 | elve | 13 | 9,605 | 2026-11-23T20:46 |
 
-## AMVGG completed trades: 57,038 total
+## AMVGG completed trades: 57,077 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 3,801 |
+| 2026-11-23 | 3,840 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 20:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:41 | **yyLalameloYT**: Admin Vision Wings | **AvokadoJFKfanat**:  |
-| 20:41 | **prince_onepator**: Border Collie (R), Tiny Wings, Ride-A-Pet Potion, Cotton Candy Hat | **Special_Foxi**: Christmas Pudding Pup (NFR) |
-| 20:41 | **ddeonuml**: Zombie Wolf (MFR) | **Xily_cerise**: Goldhorn (MFR) |
-| 20:41 | **The1AndOnlyClyde**: Strawberry Penguin (MFR), Happy Duckling (MR), Leopard Cat (M), Fly-A-Pet Potion ×3 | **wishkatara**: Siamese Cat (MFR) |
-| 20:41 | **lytkinnik**: Yule Log Dog (MFR), Husky (MFR), Frostbite Cub (MFR), Great Pyrenees (MFR) | **Mija1978B**: Field Mouse (MFR) |
-| 20:41 | **XxlambadguyxX**: Gold Fairy Crown | **PiesekTubson**: White Chef Hat |
-| 20:41 | **lolsoqrai46**: Goat (MFR), Irish Water Spaniel (MFR), Ice Cream Cone Hat, Sheeeeep, Chocolate Dutch Guinea Pig (M), Harp Seal (M) | **summerg6mes**: Goose (MFR) |
-| 20:41 | **Vicky_200804**: Lavender Dragon (MFR), Harp Seal (MFR) | **joeyharri12**: Rose Dragon (MFR) |
-| 20:41 | **Addisonraeee25**: Strawberry Shortcake Bat Dragon (NFR) | **crown12256**: Tri-horned Treehopper (MFR), Tri-horned Treehopper (NR), Unicorn (MFR) |
-| 20:41 | **Angelbatista_me2**: Strawberry Tortle (R) | **outcIubbin**: Pelican |
-| 20:41 | **GrEstbn**: Orca (M), Pomeranian (N), Red Panda (N), Shiba Inu (N) ×2, Swordfish (N) | **cxbvnniz**: Fly-A-Pet Potion |
-| 20:41 | **Secret_Secretov321**: Ride-A-Pet Potion | **zariahaff**: Mermaid Mansion |
-| 20:41 | **SignedByPen**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (NFR), Munchkin Cat (NFR), Candyfloss Chick (FR) | **gogo549**: Frost Dragon (FR) |
-| 20:41 | **cxlliomiaw**: Turtle (FR), Choco Penguin (MR), Fly-A-Pet Potion | **Patto_Cuack**: Fairy Bat Dragon (FR) |
-| 20:41 | **LxckeHeart**: Unicorn Horn | **1nt0x1csweet**: Tortoiseshell Guinea Pig, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 20:55 | **Amvgg_Amvggg**: Frost Dragon (FR), Chocolate Chip Bat Dragon (FR) | **NebulastHyperftVenat**: Crow (NFR) |
+| 20:55 | **iamiisaaaa**: Cattuccino (N), Sasquatch (N) | **AvaNari2010**: Kiwi Kiwi |
+| 20:55 | **Stopan820**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion | **Special_Foxi**: Goose (FR) |
+| 20:55 | **Chibii_Playz**: Copycat (MFR), Strawberry Shortcake Bat Dragon (FR), Queen Bee (MFR), Frost Fury (FR), Crocodile | **ADMTRADING72**: Owl (FR) |
+| 20:55 | **ukekieran**: Ride-A-Pet Potion | **taysfl**: Ice Cream Heels |
+| 20:55 | **fyffddt5**: Panda (R) | **s4mp_nwn**: Patchy Bear (MR) |
+| 20:55 | **WoofyWooofyWoof**: Haetyphoon (MR) | **Penguinzzzzzzzzzzzzs**: Siamese Cat (MFR) |
+| 20:55 | **xmarlarx**: Purrowl, Blue Whale, Dragon, Dark Choccybunny, Mochi Meow, Dragonfly, Dracula Parrot, Diamond Griffin, Fire Stallion | **heladitoooUnU**: Ride-A-Pet Potion |
+| 20:55 | **EnotikTea**: Pain au Chat ×5 | **CMETAHKA_LOVElp**: Ride-A-Pet Potion ×2 |
+| 20:55 | **0BV1J3NN1E**: Dragonfruit Fox (MFR) | **fluffyunicorns_932**: Unicorn Horn, Black Springer Spaniel (MFR), Ibex (MFR) |
+| 20:55 | **foovva**: Sugar Glider (FR) | **erditiri03**: Turtle (FR), Ride-A-Pet Potion ×2 |
+| 20:55 | **elys1anaa**: Christmas Pudding Pup (NFR), Sea Slug (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **happyhaleigh707**: Mini Pig (FR) |
+| 20:55 | **4cosha**: Caterpillar (MFR) | **yygethhhhukkj**: Owl (FR) |
+| 20:55 | **imxwwq**: Ermine (N), Pudding Cat | **polina_polinka23774**: Ride-A-Pet Potion |
+| 20:55 | **jalchipapa_4AkT**: Rainbow Maker, Frost Unicorn (FR), Frost Unicorn (R), Lion Cub (FR), Ice Cream Cone Hat, Vampire Dragon (R), Tuxedo Cat, White Amazon | **lockefoo**: Haetae |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
