@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 22:46 UTC by the scrape workflow._
+_Updated 2026-11-23 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-23 22:46 UTC by the scrape workflow._
 | amvgg | 13 | 46,901 | 2026-11-23T22:45 |
 | elve | 13 | 9,957 | 2026-11-23T22:46 |
 
-## AMVGG completed trades: 57,448 total
+## AMVGG completed trades: 57,468 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 4,211 |
+| 2026-11-23 | 4,231 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 22:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:41 | **izzyxrblx00**: Arctic Reindeer (FR), Turtle (FR), Unicorn Horn ×2, Fly-A-Pet Potion | **dshhxwq**: Siamese Cat (MFR) |
-| 22:41 | **elproXD_7v7**: Chihuahua ×3 | **okajjajj**: Ride-A-Pet Potion |
-| 22:41 | **M1cahsWRLD**: Admin Abuse Egg, Royal Egg ×2, Retired Egg ×12 | **haylie90kmkh**: Chihuahua |
-| 22:41 | **unicornsparkles0926**: Jester Dragon | **b1beHw4tzurnim**: Chihuahua ×9 |
-| 22:41 | **lilanderm**: Retired Egg ×7 | **haylie90kmkh**: Mochi Meow |
-| 22:41 | **haylie90kmkh**: Shark (FR) | **Yumi_Rose8**: Fly-A-Pet Potion |
-| 22:41 | **FroztedCook31**: Unicorn Horn, Sweetheart Rat (N), Sweetheart Rat, Pancake Stack | **HeartsForEli_1406**: 2022 Birthday Party Hat |
-| 22:41 | **W1NT3R_991224**: Crow (NFR) | **anikaaww**: Giant Panda (FR), Cherry-On-Top, Unicorn Horn, Owlbear (NFR), Candicorn, Albino Monkey (FR), Dango Penguins (NFR), Lion (R), Moose Calf (NR), Alley Cat (NR), Dango Penguins (N), Ostrich (MFR), Aussie Egg ×2, Pancake Stack, Pig, Pupcake (N), Matcha Cat |
-| 22:41 | **kkyn6**: Candicorn (NFR) | **RuthJavxn**: Munchkin Cat (NFR) |
-| 22:41 | **Nastya_Mihalyk**: Quetzalcoatl (NFR), Flower Power Duckling | **chicken_banana4884**: Ride-A-Pet Potion ×2 |
-| 22:41 | **xaoichaanx**: Ride-A-Pet Potion ×4, Pupcake (N), Samoyed (M) | **goodqueenp**: Flash Weasel |
-| 22:41 | **starswirl_64**: Glyptodon ×4 | **hhhauntedddd**: Ride-A-Pet Potion |
-| 22:41 | **BINKY5085**: Undead Jousting Horse (NFR), Velocirooster (M), Cerberus (MFR) | **12kyanni12k**: Frostbite Bear (MFR) |
-| 22:41 | **Lumina20265**: Ride-A-Pet Potion | **Eliaam0_0**: Ghost Bunny |
-| 22:41 | **7743utu**: Fly-A-Pet Potion ×3 | **mistywhiskerzx**: Gingerbread Mouse (MFR) |
+| 22:55 | **Angelbatista_me2**: Fly-A-Pet Potion ×8, Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×4 | **XxElmmzxX**: Turtle (FR) |
+| 22:55 | **Colossious**: Ride-A-Pet Potion | **Illemx**: Crystal Egg ×18 |
+| 22:55 | **Altforamvgg1**: Sushi Penguin (N) | **2kDisappointment**: Sushi Penguin (F), Sushi Penguin ×3, Ride-A-Pet Potion |
+| 22:55 | **Nastya_Mihalyk**: Cow (FR) ×2, Goose (R), Goose, Turtle (FR), Ride-A-Pet Potion ×5, Fly-A-Pet Potion, Flower Power Duckling | **jebiilerium**: Parrot (FR) |
+| 22:55 | **adoptmememe68**: Cow (NFR), Cow, Dire Stag (MFR), Flamingo (R), Unicorn (NFR) | **kittycutecat11130**: Balloon Unicorn (FR) |
+| 22:55 | **pavonaco**: Sheeeeep (MFR) | **Rbd_JP**: Pink Cat (MFR) |
+| 22:51 | **Tori_vega098**: Field Mouse (MFR), Hare (MFR) | **Miawilliams2512**: Jellyfish (MFR) |
+| 22:51 | **nerdoitdabest**: Owl (MFR) | **Shhdhehdneirjndnd**: Cryptid (MFR), Blazing Lion (NFR), Flamingo (MFR), Christmas Pudding Pup (NR) |
+| 22:51 | **emi28na**: Unicorn Horn | **bykoyn**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2, Lava Wolf (NR), Chocolate Dutch Guinea Pig (NR), Cheetah |
+| 22:51 | **aydachan200311**: Turtle (FR) | **iiStxberryMilkx**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 |
+| 22:51 | **jjvyne**: Moose Calf (MFR) | **TANSKlN**: Dango Penguins (MFR) |
+| 22:51 | **lolppp0vld**: Evil Unicorn (FR) | **TANSKlN**: Cryptid (FR) |
+| 22:51 | **Sunzeliv**: Bat Dragon (MFR), Goat (MFR) | **Shadx_1553**: Shadow Dragon (MFR), Owl (MFR), Frost Dragon (MFR) |
+| 22:51 | **truerulaa**: Ride-A-Pet Potion | **nnseoi**: Halloween Black Ponycycle |
+| 22:51 | **atracttion**: Flaming Fox (MFR), Tuxedo Cat (MFR), Alley Cat (MR) | **luiscae3**: Peppermint Penguin (NR) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
