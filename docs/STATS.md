@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 15:40 UTC by the scrape workflow._
+_Updated 2026-11-23 15:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 15:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 39,686 | 2026-11-23T15:30 |
-| elve | 13 | 8,457 | 2026-11-23T15:31 |
+| amvgg | 13 | 39,891 | 2026-11-23T15:45 |
+| elve | 13 | 8,521 | 2026-11-23T15:46 |
 
-## AMVGG completed trades: 55,719 total
+## AMVGG completed trades: 55,765 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 2,482 |
+| 2026-11-23 | 2,528 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 15:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:40 | **CyricccxALT**: Crystal Egg ×17 | **lisamod65321**: Ride-A-Pet Potion |
-| 15:40 | **doiii_yen**: Haetyphoon (R) | **Mjplayz_am**: Sea Slug (R) |
-| 15:40 | **Meowkittiikat**: Halo, Ice Cream Cone Hat, Pet Handler Pro Certificate | **MistletoeMeg**: 2022 Birthday Cake, Unicorn Horn |
-| 15:40 | **MashaZahar123**: Kitty Bat (MFR) | **sorvetinhodapandinha**: Blue Dog (FR) |
-| 15:40 | **kelixnz**: Ice Cube | **Catyuushy**: Retired Egg ×18 |
-| 15:40 | **kelixnz**: Cold Cube | **Catyuushy**: Retired Egg ×18 |
-| 15:36 | **ZockerCelina_20**: Fly-A-Pet Potion ×3 | **Boiledfoott**: Frost Fury (FR) |
-| 15:36 | **sweetiescurse**: Groundhog (R), Harp Seal | **Loe191119**: Harp Seal (NFR) |
-| 15:36 | **selensecretacc**: Alpaca (R), Ride-A-Pet Potion | **GalaxyCat_X5**: 2022 Birthday Party Horn, Caterpillar (R), Pet Handler Pro Certificate |
-| 15:36 | **11kiradog**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Gglrd0**: Quad Stroller |
-| 15:36 | **mmaayois**: Matcha Cat | **aerivision**: Unicorn (NFR) |
-| 15:36 | **amvggaccbi0**: Leviathan (MFR), Naughty Mistletroll (MFR), Snow Monkey (MFR), Kookaburra (M), Aestus (MFR), Jousting Horse (MFR), Glormy Leo (MFR), Pirate Ghost Capuchin Monkey (NR) | **Rbd_JP**: Orchid Butterfly (N) |
-| 15:36 | **Whyisyourpeeblue**: Admin Abuse Egg ×9, Retired Egg ×9 | **Falxxrie**: Skelicorn ×4 |
-| 15:36 | **eeliasxcx**: Ride-A-Pet Potion ×2 | **y2k_sally**: Pilot Gull (M) ×4 |
-| 15:36 | **gattitakawaii16**: Ice Cream Cone Hat, Pink Cat, Shrew (R), Fly-A-Pet Potion ×2, Hare (NR) | **minalocatuliiiiii**: Goose (FR) |
+| 15:45 | **xiparo**: Chihuahua ×12 | **bomi_2013**: Fly-A-Pet Potion ×2 |
+| 15:45 | **510478**: Unicorn Horn | **lostinjerusalem**: Ghost Bunny (MFR) |
+| 15:45 | **Gabirelinha_eu**: Caramelgeist (M), Jacobin Pigeon (M), Pterodactyl (N) | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 15:45 | **splashJuggernaut**: Emberlight (MFR), Chihuahua | **xXCry_b4bysXx**: Pupcicle (M) |
+| 15:45 | **1l0v3v4mp1r3**: Chameleon | **abraxxee**: Three Blind Mice (R) |
+| 15:45 | **Sofiko_135791**: Copycat | **roronoazoro1gg**: Fly-A-Pet Potion ×3 |
+| 15:45 | **Queen_bee30**: Turtle (NFR), Turtle (FR) ×2, Jester Dragon (NFR), Munchkin Cat, Naughty Mistletroll (N), Nautilus (MFR), Brown Bear | **Maksimal_228**: Siamese Cat (MFR) |
+| 15:45 | **elproXD_7v7**: Chihuahua ×9 | **Yamenzoj**: Ride-A-Pet Potion ×3 |
+| 15:45 | **p1xl_moonz**: Goat (MFR), Sheeeeep (MFR) | **Xxcoralia_omgxX**: Cow (MFR), Toaster Hat |
+| 15:45 | **dead_pool455**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **mawifa123**: Peahen (NR) |
+| 15:45 | **Biabr105**: Black Scooter | **elin5201**: Fly-A-Pet Potion |
+| 15:45 | **mushromsubstrate**: Ride-A-Pet Potion | **CyricccxALT**: Crystal Egg ×17 |
+| 15:45 | **snowfall_avatars**: Pig (FR), Rhino (FR), Gemstone Egg, 2D Kitty, Ermine (N), Ride-A-Pet Potion, Chick (R) | **Dima_98909**: Border Collie (FR) |
+| 15:45 | **Peyton_kitty1010**: Harp Seal (MR) | **Itz_Ashleyurgir**: Zombie Wolf (M) |
+| 15:45 | **Sytinely**: Matcha Cat, Matcha Cat (FR) | **AnitaGame08**: Fly-A-Pet Potion ×9 |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
