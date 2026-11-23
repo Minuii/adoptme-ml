@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-23 00:40 UTC by the scrape workflow._
+_Updated 2026-11-23 00:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-23 00:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 13 | 25,405 | 2026-11-23T00:30 |
-| elve | 13 | 5,594 | 2026-11-23T00:31 |
+| amvgg | 13 | 25,666 | 2026-11-23T00:45 |
+| elve | 13 | 5,644 | 2026-11-23T00:46 |
 
-## AMVGG completed trades: 53,378 total
+## AMVGG completed trades: 53,401 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-23 | 141 |
+| 2026-11-23 | 164 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
 | 2026-11-20 | 4,106 |
@@ -38,21 +38,21 @@ _Updated 2026-11-23 00:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:40 | **duckksoupp**: Well, Actually Walrus Sticker, Frost Dragon (FR) | **XiuLi1234**: Mahi Mahi (MFR) |
-| 00:40 | **ponyelgamer**: Business Monkey | **Gabrielle9058**: Axolotl |
-| 00:40 | **pedrobeteir0**: Parrot (NFR), Owl (FR), Turtle (FR) | **Str_ge46**: Shadow Dragon (FR) |
-| 00:40 | **Illemx**: Crystal Egg ×18 | **L0x_BoX**: Unicorn |
-| 00:40 | **VampirinaGirl18**: Arctic Reindeer (R), Arctic Reindeer (FR) | **rastafarismo10**: Arctic Reindeer (NFR) |
-| 00:40 | **PH_HYPER**: Siamese Cat (FR), Ice Cream Cone Hat, Red Dutch Guinea Pig, Fly-A-Pet Potion | **soyelmas_capito132**: Cow (FR) |
-| 00:40 | **nico_ffgamer**: Tio De Nadal (MR), Strawberry Shortcake Bat Dragon (FR), Royal Mistletroll | **drag3nrich**: Frost Dragon (FR), Cow (NFR) |
-| 00:40 | **TMDung20**: Bready Necklace | **Lalilyn_12**: Ride-A-Pet Potion |
-| 00:40 | **Robloxian19039878**: Fly-A-Pet Potion ×12 | **vladstatpets**: Turtle (FR) |
-| 00:40 | **kecoze**: Strawberry Tortle | **vjhjskh456**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×15 |
-| 00:40 | **CEMEH_HOCKOB**: Ride-A-Pet Potion | **corney125**: Skele-Rex |
-| 00:40 | **quesidella**: Fairy Bat Dragon (NFR), Ride-A-Pet Potion ×2, Aye Aye (MFR) | **pupgenderr**: Strawberry Shortcake Bat Dragon (R), Kangaroo (FR) |
-| 00:40 | **nkosovaa**: Dalmatian (FR), Lion (R), Lion Cub (R) | **CommonTotravelerAx3**: Sheeeeep (MFR) |
-| 00:30 | **Theguruguruslay**: Kiwi (NFR), Sushi Penguin (NFR), Ride-A-Pet Potion | **footeater99999**: Dragonfruit Fox (NFR) |
-| 00:30 | **Yuri_gatwo**: Fallow Deer (NFR), Dango Penguins | **lim7rince**: Siamese Cat |
+| 00:45 | **nighttrvedsss**: Shark Puppy (FR), Tuxedo Cat, Hippogriff, Happy Duckling (M) | **TocaSummerplayz**: Candicorn (FR) |
+| 00:45 | **iconicdollist**: Balloon Unicorn (MFR), Strawberry Shortcake Bat Dragon (FR), Ballet Swan (MFR), Hare (MFR), Rain Cloud Hat | **kdkejwjsjd**: Bat Dragon (NFR) |
+| 00:45 | **Sofiesyie**: Tombstone Ghostify | **king_93071**: Husky (MFR) |
+| 00:45 | **lacandon1235**: Hot Doggo (R), Christmas Pudding Pup (R), Shark Puppy (R) | **abdoosaad**: Dango Penguins (MFR) |
+| 00:45 | **mia67673**: Arctic Reindeer (FR), Peppermint Penguin (FR), Alpaca (R), Polar Bear (NFR) | **Oro29194**: African Wild Dog (FR), Munchkin Cat |
+| 00:45 | **cxbvnniz**: Head Chef, Strawberry Shortcake Bat Dragon (FR) | **Robert_mila**: Arctic Reindeer (FR) |
+| 00:45 | **gorevqx**: Goose | **iuvzjules**: Candy Hare (MFR) |
+| 00:45 | **fartbag89900**: African Wild Dog (FR), Spring Bunny Hood | **meliailen8**: Arctic Reindeer (NFR) |
+| 00:45 | **TMDung20**: Evil Unicorn, French Bulldog (MR), Unicorn (MFR) | **mamadmasa010**: African Wild Dog (FR) |
+| 00:45 | **basicgenn**: Ride-A-Pet Potion | **Elis_thxx**: Little Lamb (M) |
+| 00:45 | **obvicarsonxo**: Dalmatian (FR) | **Kayorilate**: Hare (MFR), Cow (FR) |
+| 00:45 | **kakalikays**: Giraffe (MFR) | **ZOliverTurboz**: Bat Dragon (FR), Shadow Dragon (FR), Giraffe (FR), Frost Dragon (FR), Owl (FR), Crow (FR) |
+| 00:45 | **Unicornfav_animal**: Owl (FR), Ride-A-Pet Potion | **GL0Rl0**: Owl |
+| 00:45 | **Kirill123Valiev**: Guardian Lion (R) | **D3ATH5521**: Ride-A-Pet Potion |
+| 00:45 | **Angusip03299**: Munchkin Cat (MFR) | **diantybwni**: Cabbit (NFR), Copycat, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,734 since 2023-09-16
 
