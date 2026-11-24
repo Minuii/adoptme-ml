@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 20:11 UTC by the scrape workflow._
+_Updated 2026-11-24 20:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 20:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 42,238 | 2026-11-24T20:00 |
-| elve | 14 | 8,673 | 2026-11-24T20:01 |
+| amvgg | 14 | 42,457 | 2026-11-24T20:15 |
+| elve | 14 | 8,710 | 2026-11-24T20:15 |
 
-## AMVGG completed trades: 60,940 total
+## AMVGG completed trades: 60,944 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,278 |
+| 2026-11-24 | 3,282 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,10 @@ _Updated 2026-11-24 20:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:15 | **jellystarpink**: Ghostly Cat (N) | **laura_qi1**: Maine Coon (N) |
+| 20:15 | **M1n3_4everrrr**: Retired Egg ×5 | **saba_ka567**: Skelicorn |
+| 20:15 | **Caliscat22**: Munchkin Cat (FR), Jester Dragon (FR), Shiba Inu (N), Heart Bow, Cheesecake Hat, Festive Antlers, Micro Car, Classic Trade Stand, Admin Abuse Box ×7 | **sb_biggestfan56**: Kangaroo (FR) |
+| 20:15 | **Misiaa54**: Copycat (R) | **roronoazoro1gg**: Fly-A-Pet Potion ×3 |
 | 20:11 | **ZGraysonMaxFoxs**: Crystal Egg ×17 | **Terranese**: Ride-A-Pet Potion |
 | 20:11 | **435Nurenfatehah**: Huntsman Robin ×4, Crystal Egg, Fairytale Egg ×3 | **EchoGhost14045**: Huntsman Robin (N) |
 | 20:11 | **PrincezzNatty**: Goat | **Kiseise**: Jester Dragon, Ride-A-Pet Potion ×3 |
@@ -50,10 +54,6 @@ _Updated 2026-11-24 20:11 UTC by the scrape workflow._
 | 20:11 | **luvyerh**: Cow (FR) | **ariana_grande535**: Flamingo (FR), Lion (FR), Ride-A-Pet Potion |
 | 20:11 | **CutesyMaddieee**: Winter Fawn (MFR) | **helou_motoG8**: Fly-A-Pet Potion, Strawberry Shortcake Bow, Bear Hood, Jeff's Nametag |
 | 20:11 | **docedelets**: Blue Ringed Octopus (N) | **Gamer_girlanimes**: Fly-A-Pet Potion |
-| 20:11 | **Noivern_04**: Chihuahua | **Robloxiant3x7a4m9v**: Classic Trade Stand |
-| 20:06 | **ExpertChipmunkPro**: Bat Dragon (FR), Parrot (FR), Kangaroo (FR) | **BugShot_2**: Crow (MFR) |
-| 20:06 | **ExpertChipmunkPro**: Bat Dragon (FR), Parrot (FR), Kangaroo (FR) | **BugShot_2**: Crow (MFR) |
-| 20:06 | **Lqvari**: Ride-A-Pet Potion ×6 | **poordiors**: Ice Cream Cone Hat |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
