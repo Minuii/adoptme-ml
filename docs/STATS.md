@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 03:25 UTC by the scrape workflow._
+_Updated 2026-11-24 03:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 03:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 26,661 | 2026-11-24T03:15 |
-| elve | 14 | 5,349 | 2026-11-24T03:15 |
+| amvgg | 14 | 26,859 | 2026-11-24T03:30 |
+| elve | 14 | 5,404 | 2026-11-24T03:31 |
 
-## AMVGG completed trades: 58,184 total
+## AMVGG completed trades: 58,195 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 522 |
+| 2026-11-24 | 533 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 03:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:30 | **Mikaylamareex**: Cabbit (NFR) | **sweetn6thing**: Arctic Reindeer (FR) |
+| 03:30 | **nornomm**: Unicorn Horn, Butter Knife ×2 | **xom6ie**: 2022 Birthday Cake |
+| 03:30 | **bwunnifection**: Black Moon Bear (N), Pangolin (N), Icy Porcupine (N), Onza ×2, Australian Kelpie, Dilophosaurus | **Adore_Pandaz**: Ride-A-Pet Potion |
+| 03:30 | **DefinitelyNotCha6**: Sock Chew Toy, Snowball Launcher, Heart Balloon, Elf Plush, Cookie Dough Plush ×3, Caticorn Rattle, Candle ×2, Banana Plush, Turkey Plush, Ornament Throw Toy, Dragon Balloon ×3 | **adoptmejourney83**: Fly-A-Pet Potion |
+| 03:30 | **poorbunii**: Cabbit (FR), Ride-A-Pet Potion ×3 | **snyyyp**: Munchkin Cat (NFR) |
+| 03:30 | **shuvakshurik**: Dalmatian (FR), Ghost (MR), Arctic Fox (FR), Dodo (R), Kitty Bat (NF) | **Krvsvha**: Cryptid (FR) |
+| 03:30 | **0FFBXEE**: Badger (M) ×2 | **altaccount02037**: Ride-A-Pet Potion |
+| 03:30 | **Sanster47**: Villain Gibbon (N), Huntsman Robin (N), Dragonfly, Ancient Dragon | **queenalwaysslayxx**: Ride-A-Pet Potion ×2 |
+| 03:30 | **starswirl_64**: Strawberry Tortle | **RGAKL10**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion |
+| 03:30 | **KeimoKaiAlr**: Giraffe (FR), Frost Dragon (FR) ×2, Parrot (FR) | **copyvoting**: Caelum Cervi (MFR), Jekyll Hydra (NFR), Turtle (MFR) ×2, Pink Cat (MFR), Candy Cannon, Goose (MFR), Rain Cloud Hat, 2022 Birthday Cake |
+| 03:30 | **012e0122**: Arctic Reindeer (FR), Cow (FR) | **copyvoting**: Vampire Dragon (MFR) |
 | 03:25 | **0FFBXEE**: Sushi Penguin, Ermine | **ALTERNATIVEACCKAY**: Ride-A-Pet Potion |
 | 03:25 | **zbingzjjjjj**: Ghost Bunny (NR), Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig, Hovertible, Orbweaver Glider, Thunderfisher ×4, Throwback Egg ×6 | **Masonplays497**: Shark Puppy |
 | 03:25 | **DuckyMuffinz**: Solar Burst Mega Neon Paint | **Inclemnc**: Crystal Egg ×18 |
 | 03:25 | **Deinabiluana**: Phantom Dragon (F) | **BurBur588**: Ride-A-Pet Potion ×5 |
-| 03:25 | **PATY_BLOY**: Dango Penguins (NR), Spring Bunny Hood, Spring Bunny Feet | **elizaz2zombi**: Fallow Deer (NFR) |
-| 03:25 | **gardenfences748**: Ride-A-Pet Potion | **tbnrmoon7**: Leprechaun Hat |
-| 03:25 | **Haipookie26**: Polar Bear Plush, Festive Scarf, Festive Antlers, Elf Shoes | **Aslie_17**: Ride-A-Pet Potion |
-| 03:25 | **aveilqaa**: Christmas Pudding Pup (MFR), Harp Seal (M), Panda (MFR), Great Pyrenees (MFR) | **sweetn6thing**: Matcha Cat (MFR) |
-| 03:25 | **rereyasqueen0102**: Copycat | **berdecol**: Fly-A-Pet Potion ×2 |
-| 03:25 | **Damienxito**: Phantom Dragon (MFR) | **ALM0STLOGAN**: Fairy Bat Dragon (NFR) |
-| 03:20 | **Yupiterd**: Crystal Egg ×12 | **lacandon1235**: Ride-A-Pet Potion |
-| 03:20 | **Ethernaces**: Stray Cat Dragon ×8 | **That0n3DumbG1rl**: Ride-A-Pet Potion |
-| 03:20 | **PICOpro876**: Candicorn (FR) | **cookie_lilymagic**: Copycat (NFR) |
-| 03:20 | **Jollyfun213**: Crystal Egg ×14 | **RoseUg1**: Ride-A-Pet Potion |
-| 03:20 | **Galapogus7**: Burger Bear, Sasquatch, Dolphin, Mouse (N) | **Vidaris_marie21**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
