@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 13:16 UTC by the scrape workflow._
+_Updated 2026-11-24 13:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 13:16 UTC by the scrape workflow._
 | amvgg | 14 | 35,791 | 2026-11-24T13:15 |
 | elve | 14 | 7,066 | 2026-11-24T13:15 |
 
-## AMVGG completed trades: 59,391 total
+## AMVGG completed trades: 59,443 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,729 |
+| 2026-11-24 | 1,781 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 13:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:11 | **GalaxyCat_X5**: Cow (FR) ×3, Frost Fury (FR) | **fara_garant**: Hedgehog (FR) |
-| 13:11 | **AMOANICOLE78**: Therapy Dog (N), Pupcicle | **Amy_baum0nice3**: Pet Handler Pro Certificate |
-| 13:11 | **ploB_666**: Llama (R) | **Lindaunicornio30990**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 13:11 | **Bismuth234**: Turtle (R) | **FcNikita24**: Matcha Cat (R), Arctic Fox (R), Matcha Cat |
-| 13:11 | **niceplayeruwu**: Ride-A-Pet Potion | **grapapa_aa**: Hare Box |
-| 13:11 | **Vxmptomato**: Munchkin Cat (R) | **runnex566**: Emu (MFR), Woolly Mammoth (MFR) |
-| 13:11 | **veraania9**: Reindeer, Jacobin Pigeon (M) | **anggelmrr**: Ride-A-Pet Potion |
-| 13:11 | **MM_Cloud**: Crystal Egg ×18 | **yasukie7u7**: Ride-A-Pet Potion |
-| 13:11 | **Ggggsiijs76**: Electric Hornet ×2, Skelicorn, Chihuahua ×2, Jacobin Pigeon (N) | **MapleLull**: Ride-A-Pet Potion |
-| 13:11 | **iiLxy_MoonStxr**: Mythic Egg ×18 | **ProsstoFilya**: Fly-A-Pet Potion ×6 |
-| 13:11 | **Pinkiepiesbabe**: Cabbit (FR), Lava Wolf (R) | **BUBBLESGIRL5678**: Mule (MFR) |
-| 13:11 | **flozzabozza07**: Caelum Cervi (MFR), Diamond Dragon (MFR) | **KatsuTatsuya**: Silverback Gorilla (MFR) |
-| 13:11 | **IvAntiiill8970**: Ride-A-Pet Potion ×7, Fly-A-Pet Potion ×5 | **tufvfffdjdg**: Candicorn (FR) |
-| 13:11 | **QwQ_oreog**: Ride-A-Pet Potion ×2 | **VvK1e**: Fly-A-Pet Potion, Alicorn |
-| 13:11 | **LunaPlaysYOO**: Lion (R), Jester Dragon, Red Squirrel (NR), Ride-A-Pet Potion | **kartoshka_spogriba**: Jester Dragon (NFR) |
+| 13:25 | **clalouetciedh**: Pain au Chat ×3 | **Amy_baum0nice3**: Ride-A-Pet Potion |
+| 13:25 | **elproXD_7v7**: Chihuahua ×6 | **polinalollipolly**: Ride-A-Pet Potion ×2 |
+| 13:25 | **addmysecondaccount**: Ride-A-Pet Potion | **yshikza**: Crystal Egg ×18 |
+| 13:25 | **dorthew**: Christmas Pudding House | **yshikza**: Crystal Egg ×2 |
+| 13:25 | **Kvammletitraketa**: Ride-A-Pet Potion ×2, Spider Crab | **Abilka_lololoshka2**: Pancake Stack |
+| 13:25 | **yshikza**: Crystal Egg ×15 | **RBLX_Towerq**: Thinking Hat |
+| 13:25 | **mario1209z1**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×6 | **adoptmeplayerhi10**: Turtle (FR) |
+| 13:25 | **Vernite_chat0**: Ride-A-Pet Potion | **HuGe_123cAt**: Dogmobile |
+| 13:25 | **ItzLaylasWorld**: Ghost (MR), Winter Fawn (MR) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×5 |
+| 13:25 | **Rainbow_kitty5050**: Tarsier (N) | **qwet00xx**: Sunrise Hang Glider |
+| 13:25 | **Rainbow_kitty5050**: Onza (N) | **auapaprules**: Crystal Egg ×4 |
+| 13:25 | **TulipPetal_1**: Cow (FR) ×3, Kangaroo (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×8 | **cat_27637**: Strawberry Shortcake Bat Dragon (FR) ×2 |
+| 13:25 | **wistfulheartsclub**: Pancake Stack | **Kittensraa**: Cattuccino (M) |
+| 13:25 | **ll_90dfhj**: Drake | **GYUGYUBINIM**: Ride-A-Pet Potion |
+| 13:25 | **Cutelover3579**: Werewolf (FR), Matcha Cat | **sleepy_s0ren**: Strawberry Tortle (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
