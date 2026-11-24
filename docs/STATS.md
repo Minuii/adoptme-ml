@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 11:11 UTC by the scrape workflow._
+_Updated 2026-11-24 11:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 11:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 33,732 | 2026-11-24T11:00 |
-| elve | 14 | 6,677 | 2026-11-24T11:01 |
+| amvgg | 14 | 33,961 | 2026-11-24T11:15 |
+| elve | 14 | 6,696 | 2026-11-24T11:15 |
 
-## AMVGG completed trades: 59,054 total
+## AMVGG completed trades: 59,056 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,392 |
+| 2026-11-24 | 1,394 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,8 @@ _Updated 2026-11-24 11:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:15 | **XiaoFaye1433**: Ride-A-Pet Potion ×2 | **uskewjjw**: Admin Vision Wings |
+| 11:15 | **loiol1004**: Giant Blue Scarab (MFR) | **Cattychiee**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
 | 11:11 | **Lila_Chanbibi**: Turtle (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **lolcryabtit6767**: Cow (FR) |
 | 11:11 | **AseesCr7GoesBoom**: Strawberry Tortle (M) | **2rigolo2**: Orchid Butterfly (NFR), 2022 Birthday Confetti Cannon |
 | 11:11 | **Summerwave2011**: Cryptid (FR) | **inputw**: Cryptid |
@@ -52,8 +54,6 @@ _Updated 2026-11-24 11:11 UTC by the scrape workflow._
 | 11:11 | **vecscv**: Skelicorn, Purrowl ×2 | **graham_kristofer**: Bubblegeist |
 | 11:11 | **CristalZu5**: Retired Egg ×18 | **graham_kristofer**: Tutu |
 | 11:11 | **overdonebeast**: Dalmatian (FR) | **L1xts**:  |
-| 11:11 | **Robloxain4000**: Copycat (MFR), Evil Unicorn (FR), Turtle (NFR) ×2, Cow (FR) | **olddeathcore**: Cabbit (MFR) |
-| 11:11 | **nfrmikey1**: Brown Bear (R), Dango Penguins, Dragonfruit Fox, Hare, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **fayesweet13**: Elephant (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
