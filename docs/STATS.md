@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 18:16 UTC by the scrape workflow._
+_Updated 2026-11-24 18:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 18:16 UTC by the scrape workflow._
 | amvgg | 14 | 40,596 | 2026-11-24T18:15 |
 | elve | 14 | 8,297 | 2026-11-24T18:15 |
 
-## AMVGG completed trades: 60,501 total
+## AMVGG completed trades: 60,532 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,839 |
+| 2026-11-24 | 2,870 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 18:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:15 | **YTKA_StrayKids**: Black Panther (R) | **Queqnwo**: Ride-A-Pet Potion |
-| 18:15 | **aurorafox679**: Unicorn Ducky (MR) | **Queqnwo**: Fly-A-Pet Potion |
-| 18:15 | **SecretlyRage**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **teryyyrttgfy**: Border Collie |
-| 18:15 | **Julkakulka123o**: Jacobin Pigeon (M), Bolt (M) | **chiefkeezzf**: Coyote (N) |
-| 18:15 | **tristemuaLxjkx**: Giant Panda (FR) | **roleniumasma**: Christmas Pudding Pup (MFR) |
-| 18:15 | **ABOBA_VILI**: Arctic Reindeer (FR), Candyfloss Chick (FR), Arctic Fox, Watermelon Backpack, Jeff's Nametag, Pink Butterfly Wings | **xas3llx**: Evil Unicorn (FR) |
-| 18:15 | **Addmymainpls2332**: African Wild Dog (FR), Nessie (MFR), Haetae (FR), Haetae (R), Arctic Fox, Ice Cream Cone Hat | **iiplxzmx_alt**: African Wild Dog (NFR) |
-| 18:15 | **oooopppppaad**: Giant Panda (FR), Dango Penguins ×4 | **thegiddys14**: Balloon Unicorn (FR) |
-| 18:15 | **TristemuaLxjkx3**: Goose (NFR), Fairy Bat Dragon (FR) | **tristemuaLxjkx**: Christmas Pudding Pup (MFR) |
-| 18:15 | **TristemuaLxjkx3**: Christmas Pudding Pup (NFR), Haetae | **1nlouv**: Christmas Pudding Pup (MFR) |
-| 18:15 | **Reimii00**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **turbo142142**: Matcha Cat (FR) |
-| 18:15 | **JanaJanjoon11**: Dragonfruit Fox | **DeepIn_YourSolace**: Purrowl (M) |
-| 18:15 | **OG_Kylen44840**: Chocolate Chip Bat Dragon (FR) | **Lisalove_398**: Rainbow Maker, Fly-A-Pet Potion ×4 |
-| 18:15 | **x7qir**: Cryptid (R) | **worthsneak**: Strawberry Shortcake Bat Dragon (FR), Candicorn (FR) |
-| 18:15 | **NastyA_Maximovna**: Fairy Bat Dragon (NFR), Arctic Fox (R), Copycat, Ride-A-Pet Potion ×2, Shrew | **TomatoKetchup1999**: Cryptid (FR) |
+| 18:25 | **Daniel_Hackenbush**: Lammergeier (N), Ginger Cat (N) | **fujiappleluvzz**: Ride-A-Pet Potion |
+| 18:20 | **kskxkxkskd**: Shrew (FR), 2022 Birthday 5 Badge | **Oqulentity**: Midnight Dragon (FR) |
+| 18:20 | **cxbvnniz**: Fallow Deer (M), Toaster Hat, 2022 Birthday Confetti Cannon | **Sonya73p**: Dalmatian (FR) |
+| 18:20 | **LeaNavarro98**: Hare, Chocolate Dutch Guinea Pig | **S0ul151**: Jester Dragon |
+| 18:20 | **XALEXX30005**: Crystal Egg ×18 | **S0ul151**: Ride-A-Pet Potion |
+| 18:20 | **ariesdesire**: Chocolate Dutch Guinea Pig (MFR), Copycat | **4ssure**: Matcha Cat (NFR) |
+| 18:20 | **Kali_girl790**: Bunny Swirl, Cake Friend, Snowball Pug (R), Brown Springer Spaniel, Chocolate Dutch Guinea Pig | **quietlyangel**: Ride-A-Pet Potion ×4 |
+| 18:20 | **c0ward1y**: Haetae, Grim Dragon (NFR) | **atracttion**: Werewolf (MFR) |
+| 18:20 | **pepapepa333**: Turtle (FR) ×4, 2022 Birthday Cake | **carlkilling**: Blazing Lion (FR) |
+| 18:20 | **Daniel_Hackenbush**: Love Bird (N) ×2 | **fujiappleluvzz**: Ride-A-Pet Potion ×2 |
+| 18:20 | **Kali_girl790**: Orange Butterfly, Royal Corgi, Amami Rabbit (N), Alley Cat (R) | **quietlyangel**: Ride-A-Pet Potion ×7 |
+| 18:20 | **coqoqek**: Thunderfisher (M), Thunderfisher (N) | **Hehe_hehehehehehehh0**: Ride-A-Pet Potion |
+| 18:20 | **Youmyrii**: Goose (FR), Cow (FR), Siamese Cat, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **ThatgirlAyano**: Dalmatian (FR) |
+| 18:20 | **MidnightNotBee**: Copycat, Goose (R), Copycat (N), Cow (FR), Munchkin Cat (NR), Cabbit, Choco Penguin (NR), Mythic Egg | **rainpub**: Crow (FR) |
+| 18:20 | **Cluvdi4**: Pain au Chat | **TheEerthh**: Crystal Egg ×7 |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
