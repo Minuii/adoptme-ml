@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 11:46 UTC by the scrape workflow._
+_Updated 2026-11-24 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 11:46 UTC by the scrape workflow._
 | amvgg | 14 | 34,418 | 2026-11-24T11:45 |
 | elve | 14 | 6,778 | 2026-11-24T11:46 |
 
-## AMVGG completed trades: 59,129 total
+## AMVGG completed trades: 59,155 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,467 |
+| 2026-11-24 | 1,493 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 11:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:36 | **rhian_nn08**: Pig | **Veroni4ka_rbxl**: Fly-A-Pet Potion ×4 |
-| 11:36 | **clalouetciedh**: Pain au Chat ×4 | **Sereverie**: Chocolate Dutch Guinea Pig |
-| 11:36 | **CELKAPOPKA**: Shark Puppy (FR), Punk Pony (MR), Tan Chow-Chow (MFR), Snow Owl (NFR) | **yusokini25**: Fairy Bat Dragon (FR) |
-| 11:36 | **caxarberdok**: Pupcicle (MFR), Dango Penguins (NFR), Dodo (NFR), Ride-A-Pet Potion ×3 | **si0ro**: Mini Pig (R) |
-| 11:36 | **qO_Opli**: Werewolf (MFR), Solaris (MR), Chihuahua (MFR) | **sirnasikkedioz**: Arctic Dusk Dragon (MFR), Aurora Fox (MFR), Frost Fury (MFR) |
-| 11:36 | **clalouetciedh**: Pain au Chat ×5 | **sisburitto**: Fly-A-Pet Potion |
-| 11:36 | **arseniylolol**: Aurora Fox (MFR), Ride-A-Pet Potion ×2 | **sisburitto**: Dalmatian (FR) |
-| 11:36 | **plushimeds**: Blue Cat Ear Headphones, Ride-A-Pet Potion, Bee Hive | **Liekyme**: Yule Log Dog, Pupcicle |
-| 11:36 | **4rteemis**: Admin Abuse Egg ×2, Admin Abuse Box | **dorthew**: Christmas Pudding House |
-| 11:36 | **li2yxa**: Arctic Fox | **cliuic**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
-| 11:36 | **AMINO4KA7U**: Halloween White Ghost Dragon (FR) | **ARKIN_gamingChannel1**: Snowball Pug (NFR), Pretty Pony (FR) |
-| 11:36 | **VBBVZVM**: Ride-A-Pet Potion ×4, Garden Snake (N) | **dwstartertomainchal**: Jester Dragon |
-| 11:36 | **sab_brew**: Hare Box | **VBBVZVM**: Ride-A-Pet Potion |
-| 11:36 | **Roble_2023**: Frostbite Bear (R) | **cleanmeowis**: Werewolf (FR) |
-| 11:36 | **myBestiVlad2380**: Fly-A-Pet Potion ×7 | **ziiwca**: Ride-A-Pet Potion ×13 |
+| 11:55 | **akhikic**: Parrot (NFR), Frost Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **MallyaFFka**: Crow (NFR), Balloon Unicorn (FR), Cabbit (NFR), Turtle (FR), Kangaroo (FR) |
+| 11:55 | **MM_Cloud**: Crystal Egg ×18 | **Aslie_17**: Ride-A-Pet Potion |
+| 11:55 | **VrittiMahindru**: Unicorn Horn | **UltttraHamsterGang**: Candyfloss Chick (FR) |
+| 11:55 | **princess_pizzanice**: Pig (R), Frost Fury (FR), Pet Handler Pro Certificate, Cotton Candy Hat | **iaMatthieu1**: Kangaroo (R) |
+| 11:51 | **dianka_roblox0**: Flamingo (R), Kangaroo (FR), Fly-A-Pet Potion, Hermit Crab (N) | **Mochimoka_swirl**: Mini Pig (FR) |
+| 11:51 | **MiLkas_20111**: Cherry-On-Top | **whiplashtempo0**: Strawberry Tortle, Tortuga de la Isla (R) |
+| 11:51 | **MiLkas_20111**: Admin Vision Wings, Admin Vision Glasses | **imjsaverage**: Ride-A-Pet Potion ×4 |
+| 11:51 | **wl0ws**: Unicorn (NFR) | **yyour_beauty**: Frost Fury (R) |
+| 11:51 | **yudaswoiew**: Ride-A-Pet Potion | **qwertyAwerty14**: Bubblegeist ×2 |
+| 11:51 | **tired_ooflifenumb**: Dire Wolf (M) | **instaSamkaV**: Ride-A-Pet Potion ×3 |
+| 11:51 | **NotSoAfraid**: Latte Kitsune (R), Floral Eggy | **yeuksyrudtry56**: Hare |
+| 11:51 | **aydachan200311**: Ride-A-Pet Potion ×7 | **Manggo_Pie40**: Fly-A-Pet Potion ×4 |
+| 11:51 | **Sk4tesItsAriaBlox**: Count Slothula ×3 | **Amy_baum0nice3**: Pet Handler Pro Certificate |
+| 11:51 | **Majdfjfgxf**: Skelicorn (N), Zodiac Minion Chick (R) | **Hey_Dant123**: Ride-A-Pet Potion |
+| 11:51 | **AsianIceCold**: Chihuahua ×2, Corgi, Red Panda ×3 | **eva_rokstar0**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
