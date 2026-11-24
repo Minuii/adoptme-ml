@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 02:16 UTC by the scrape workflow._
+_Updated 2026-11-24 02:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 02:16 UTC by the scrape workflow._
 | amvgg | 14 | 25,703 | 2026-11-24T02:15 |
 | elve | 14 | 5,174 | 2026-11-24T02:16 |
 
-## AMVGG completed trades: 58,013 total
+## AMVGG completed trades: 58,043 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 351 |
+| 2026-11-24 | 381 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 02:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:15 | **magicalxmoon**: Kappakid (NR) | **anekalubitnaruto**: Unicorn, Penguin |
-| 02:15 | **DarkGod_fiuuu**: Candicorn (R), Polar Bear, Aussie Egg, Aestus | **Lefty43434**: Mermicorn (FR) |
-| 02:15 | **NummieNummiegirl**: Jekyll Hydra (FR), Ride-A-Pet Potion ×2 | **lapropia778**: Cow (FR) |
-| 02:15 | **CutieShadowBunny1**: Pet Handler Pro Certificate, Shiver Wolf (N), Cold Cube (N) ×2, Frost Phoenix, Zombie Wolf, Firefly, Raccoon (N), Australian Kelpie (N), Possum (N), Gumball Caterpillar (N), Dire Wolf (N), Hydra, Fanghorn Tortoise | **hauont1**: Winged Tiger (R) |
-| 02:15 | **H3ARTBROOKE**: Husky (MFR) | **sweetn6thing**: Silly Duck (MFR) |
-| 02:15 | **proxy_matt**: Christmas Pudding House | **Hekerin771**: Gingerbread Hare |
-| 02:15 | **Mia_xloves**: Snowball Pet (N) | **Niyagirl24265**: Hare |
-| 02:15 | **NotSoAfraid**: Nessie (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Anime4ever50**: Alley Cat (N) |
-| 02:15 | **Biscvidi29**: Ride-A-Pet Potion | **EpKaneIntenseMonkeys**: Stray Cat Dragon (N), Three Blind Mice (N) |
-| 02:15 | **destinedtobethegoat**: Frost Dragon (FR) ×2, Tio De Nadal (R), Royal Mistletroll | **21kStock**: Shadow Dragon (FR) |
-| 02:15 | **AMINO4KA7U**: Cupid Dragon (R) | **Irislikesyoufr**: Frostbite Cub (R), Lunar Moon Bear (R), Alicorn (R), DJ Snooze (R), Bee (R), Pupcake (R), Ghostly Cat (R), Yeti (R), Naga Dragon (R), Red Sand Dollar (F), Golden Unicorn (R) |
-| 02:15 | **acciomass**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **classicsxmmy**: Cupid Dragon |
-| 02:15 | **15kgxbe**: Jellyfish (MFR), Strawberry Shortcake Bat Dragon (FR) | **Blazemaster12345667**: Owl (FR) |
-| 02:11 | **OscarSantiss**: Strawberry Shortcake Bat Dragon (NFR) | **ra3czr**: Strawberry Shortcake Bat Dragon (FR) ×2, Nessie (R), Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
-| 02:11 | **aleks2u**: Alpaca (R), Frost Fury (FR), Ride-A-Pet Potion | **GalaxyCat_X5**: Cow (FR) |
+| 02:25 | **towngameplaysiiii3**: Tealwood Monster (M) | **That0n3DumbG1rl**: Fly-A-Pet Potion |
+| 02:25 | **Brooklyn_Ohio**: 2022 Birthday Party Hat, Unicorn Horn ×2, Rain Cloud Hat, Ride-A-Pet Potion | **Froggyblossom90**: Sugar Glider (NFR) |
+| 02:25 | **denjisguilt**: Goose (MFR), Sheeeeep (MFR) | **nerdoitdabest**: Alpaca (MFR), Unicorn Horn, Rain Cloud Hat |
+| 02:25 | **laulau0007**: Shih Tzu (N), Huntsman Robin, Black Rhino (N), Mummy Spider (N) ×2, Japanese Snow Fairy (N), Mouse (N), Tarantula (N) | **snowgravesai**: Ride-A-Pet Potion |
+| 02:25 | **flmziia**: Orchid Butterfly (FR), Shark Puppy (FR), Fly-A-Pet Potion ×4 | **Henryzlx**: Peppermint Penguin (NFR) |
+| 02:25 | **draike_tzu8262**: Capuchin Monkey | **stvrestial**: Retired Egg ×6 |
+| 02:25 | **Polina_lana3**: Mahi Mahi (N), Fairytale Egg ×3 | **littlefelonies**: Snowy Mammoth |
+| 02:25 | **swa66ed**: Chocolate Chip Bat Dragon (FR), Unicorn Horn | **isabella68078**: Goose (NFR) |
+| 02:25 | **NOBIIIEEE11**: Spring Bunny Hood | **MistletoeMeg**: Fly-A-Pet Potion ×2 |
+| 02:25 | **4qvssz**: Munchkin Cat, Pet Handler Pro Certificate ×2 | **flmziia**: Dango Penguins (N) |
+| 02:21 | **MEMEelgatito**: Candicorn (R), Frostbite Bear, Aestus, Husky ×3, Yeti (R), Turkey (R), Banana Hat | **AutoTradeCommission**: Aestus (MFR) |
+| 02:21 | **Taseli934**: Fly-A-Pet Potion ×11 | **bg_waa**: Siamese Cat (FR) |
+| 02:21 | **milkanaru2_13**: Chihuahua | **unicornsparkles0926**: Pupcake |
+| 02:21 | **elproXD_7v7**: Chihuahua ×12 | **isaiahswrdd**: Ride-A-Pet Potion ×4 |
+| 02:21 | **aveilqaa**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **copyvoting**: Amami Rabbit (M) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
