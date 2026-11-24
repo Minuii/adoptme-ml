@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 07:01 UTC by the scrape workflow._
+_Updated 2026-11-24 07:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 07:01 UTC by the scrape workflow._
 | amvgg | 14 | 30,121 | 2026-11-24T07:00 |
 | elve | 14 | 5,988 | 2026-11-24T07:01 |
 
-## AMVGG completed trades: 58,585 total
+## AMVGG completed trades: 58,611 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 923 |
+| 2026-11-24 | 949 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:55 | **clalouetciedh**: Chihuahua ×5 | **PIasticTree**: Fly-A-Pet Potion |
-| 06:55 | **clalouetciedh**: Pain au Chat ×16 | **hisforeverndalways**: Ride-A-Pet Potion ×5 |
-| 06:55 | **Jimmyfish350**: Siamese Cat, Munchkin Cat (R), Hare, Winged Horse (R) | **4nabo_x**: Peppermint Penguin (FR) |
-| 06:55 | **TMDung20**: Fly-A-Pet Potion | **therealkayt67**: Dragonfruit Fox |
-| 06:55 | **akhikic**: Dalmatian (MFR), Crow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **agarcia03434**: Frost Dragon (FR) ×2, Parrot (NFR) |
-| 06:55 | **MM_Cloud**: Crystal Egg ×18 | **svekoc**: Ride-A-Pet Potion |
-| 06:55 | **Keona_Zoy**: Ride-A-Pet Potion | **lo0vyyu**: Crystal Egg ×18 |
-| 06:55 | **brisreal1**: Majestic Pony (N), Snowball Pet (MFR), Jester Dragon | **kobii_x**: Dango Penguins ×8 |
-| 06:55 | **2M1K0**: Moon Rabbit (MFR) | **xluvr3nYT**: Teddy Skele, Unicorn Plush, Skeleton Winged Glider, Panda Pal, Zombie Buffalo Plush, Bunny Plush, Phoenix Plush, Llama Plush, Elephant Plush, Easter Bunny Plush, Puppy Plush, Slimingo Feather Teleporter |
-| 06:55 | **vika000rrr**: Strawberry Tortle, Shark Puppy | **fluffy_hair5**: Cow (FR) |
-| 06:55 | **WHOISY4NAA**: Tiny Wings | **francii123417**: Bunny Swirl (MFR) |
-| 06:55 | **baby_sosabackup**: Flash Weasel | **Snowvvar**: Arctic Fox |
-| 06:55 | **80Sofa08**: Black-Chested Pheasant (R), Chihuahua (N), Mighty Haetyphoon Animated Sticker, Electric Hornet (N) | **NaJaemin120**: Fly-A-Pet Potion ×7 |
-| 06:45 | **ITSMECINNAADDMEBACKK**: Ride-A-Pet Potion | **Zak_0250**: Soulfire Animated Sticker, Tree Decorating Animated Sticker |
-| 06:45 | **Omar2002548**: Copycat (N), Admin Abuse Egg ×4, Throwback Egg ×4, Fire Foal ×4, Tree Sasquatch ×2, Old King Coal (N), Black Tiger ×2 | **Soobin_c4kes**: Copycat (N) |
+| 07:11 | **razarvale2z**: Pain au Chat ×9 | **Kitty_55511i**: Ride-A-Pet Potion ×3 |
+| 07:11 | **Junjyungg**: Mochi Meow ×18 | **yaroslavshepon**: Ride-A-Pet Potion ×2 |
+| 07:11 | **hxmun7**: Cow (FR), Pig (R) | **joresse123456**: Candicorn (NFR) |
+| 07:11 | **bubbleaxolot**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR) | **Mason_lol424**: Tri-horned Treehopper (MFR) |
+| 07:11 | **TMDung20**: Arctic Fox (R), Elephant | **Ksenka866**: Turtle (FR) |
+| 07:11 | **MM_Cloud**: Crystal Egg ×18 | **cutesyyxharleyss**: Ride-A-Pet Potion |
+| 07:11 | **Junjyungg**: Mochi Meow ×9 | **hdhvsjosh**: Ride-A-Pet Potion |
+| 07:11 | **itsmiacatherine**: Candicorn (NFR), Fairy Bat Dragon (FR), Copycat (FR), Copycat ×2, Unicorn Horn, 2022 Birthday Party Hat | **CloudyFalconpro4**: Haetae (FR) |
+| 07:11 | **Anxbetwen**: Golden Albatross (MFR), Hydra (MFR), Ride-A-Pet Potion | **thisismikamarlo**: Frostbite Bear (FR) |
+| 07:11 | **Coralmnm**: Ride-A-Pet Potion | **Tyyyyy_tyy1**: Christmas Pudding House |
+| 07:11 | **L_person21**: Goose (R), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion | **sheeemfffffff**: Ring-Tailed Lemur (N), Giant Anteater (R) ×2, Ring-Tailed Lemur (F) |
+| 07:06 | **Catzini_1**: Strawberry Shortcake Bat Dragon (MFR), Goose (MFR), Turtle (NFR), Chocolate Chip Bat Dragon (FR) | **IloveOwls427**: Bat Dragon (FR) |
+| 07:06 | **epicpulsechaos2024**: Dragonfly ×11 | **You_kwin666**: Ride-A-Pet Potion |
+| 07:06 | **karl_koto**: Giant Panda (NFR), Velocirooster (FR) ×2 | **Noa_N15**: Shadow Dragon (FR) |
+| 07:06 | **Car1os_xd**: Fly-A-Pet Potion | **pelotocino320jdjej**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
