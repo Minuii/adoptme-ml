@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 20:01 UTC by the scrape workflow._
+_Updated 2026-11-24 20:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 20:01 UTC by the scrape workflow._
 | amvgg | 14 | 42,238 | 2026-11-24T20:00 |
 | elve | 14 | 8,673 | 2026-11-24T20:01 |
 
-## AMVGG completed trades: 60,913 total
+## AMVGG completed trades: 60,940 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,251 |
+| 2026-11-24 | 3,278 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 20:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:00 | **Kitti_59350**: Chihuahua ×2, Alicorn, Little Lamb | **eulsstepstool**: Ride-A-Pet Potion |
-| 20:00 | **rycnqdq**: Ride-A-Pet Potion | **ZGraysonMaxFoxs**: Crystal Egg ×18 |
-| 20:00 | **imdaagoatt123**: Pupcicle | **Minimalama0**: Dark Choccybunny (N) |
-| 20:00 | **docedelets**: Capybara, Angus Cow (R), Urchin (N), General Sheepdog, Skelicorn (N) | **krikikriki56**: Fly-A-Pet Potion |
-| 20:00 | **Stumblediot**: Lamb (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ericaissoocool**: Dragonfruit Fox (N) |
-| 20:00 | **lWeirdPhyscol**: Angel Wings | **kittyarchivies**: Fairy Bat Dragon (FR), Ride-A-Pet Potion |
-| 20:00 | **felixwq332**: Owl (NFR) ×2, German Shepherd (MFR) | **hestabbedme**: Crow (MFR) |
-| 20:00 | **Spookysquid7**: Owl (NFR), Giant Anteater (MFR) | **m4ritx7**: Giraffe (FR), Hedgehog (NFR) |
-| 20:00 | **aleks2u**: Strawberry Shortcake Bat Dragon (R), Cabbit (FR), Fairy Bat Dragon (FR) | **playerbunbready**: Haetae (FR) |
-| 20:00 | **vynllama**: Evil Unicorn (R) | **luciano230409**: Frost Unicorn (R), Rain Cloud Hat, Pupcake (N), German Shepherd (R), Arctic Dusk Dragon (F), Unicorn (NFR) ×2, Unicorn (MFR), Crocodile (FR), Elephant (FR) |
-| 20:00 | **Candy_Mishti**: General Sheepdog (M), Royal Palace Spaniel (NR) | **belltiny**: Pain au Chat (M), Lemonade Stand |
-| 20:00 | **roblox1526free**: Strawberry Tortle ×4 | **ratonsita12309**: Cryptid (FR) |
-| 20:00 | **licycosmic**: Flower Power Duckling ×2 | **Belen7267**: Catte |
-| 20:00 | **Omar2002548**: Happy Clam (NR) | **LostKeksik**: Happy Clam (N) |
-| 20:00 | **Jassychi**: Peppermint Penguin (FR) | **sleepy_s0ren**: Cherry-On-Top, Spring Bunny Nose |
+| 20:11 | **ZGraysonMaxFoxs**: Crystal Egg ×17 | **Terranese**: Ride-A-Pet Potion |
+| 20:11 | **435Nurenfatehah**: Huntsman Robin ×4, Crystal Egg, Fairytale Egg ×3 | **EchoGhost14045**: Huntsman Robin (N) |
+| 20:11 | **PrincezzNatty**: Goat | **Kiseise**: Jester Dragon, Ride-A-Pet Potion ×3 |
+| 20:11 | **Robloxian613444997**: Count Slothula, Diamond Unicorn | **cutepupspaw**: Pupcicle |
+| 20:11 | **elys1anaa**: Gemstone Egg, Water Moon Bear, Alicorn, Mochi Meow, Mexican Wolf (N), Orca, Little Lamb ×4 | **eulsstepstool**: Ride-A-Pet Potion |
+| 20:11 | **Angelbatista_me2**: Copycat (NR), Skelicorn (MFR), Ride-A-Pet Potion | **NotSweatyOnion**: Turtle (FR) |
+| 20:11 | **maria_rmb09**: Elephant (NR), Turtle (FR), Unicorn (NFR), Ring-Tailed Lemur (R) | **rosekitten321**: Cow (NFR) |
+| 20:11 | **adoptmesuchti1707**: Pupcicle | **horimiyaa_13**: Crystal Egg ×12 |
+| 20:11 | **luvyerh**: Cow (FR) | **ariana_grande535**: Flamingo (FR), Lion (FR), Ride-A-Pet Potion |
+| 20:11 | **CutesyMaddieee**: Winter Fawn (MFR) | **helou_motoG8**: Fly-A-Pet Potion, Strawberry Shortcake Bow, Bear Hood, Jeff's Nametag |
+| 20:11 | **docedelets**: Blue Ringed Octopus (N) | **Gamer_girlanimes**: Fly-A-Pet Potion |
+| 20:11 | **Noivern_04**: Chihuahua | **Robloxiant3x7a4m9v**: Classic Trade Stand |
+| 20:06 | **ExpertChipmunkPro**: Bat Dragon (FR), Parrot (FR), Kangaroo (FR) | **BugShot_2**: Crow (MFR) |
+| 20:06 | **ExpertChipmunkPro**: Bat Dragon (FR), Parrot (FR), Kangaroo (FR) | **BugShot_2**: Crow (MFR) |
+| 20:06 | **Lqvari**: Ride-A-Pet Potion ×6 | **poordiors**: Ice Cream Cone Hat |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
