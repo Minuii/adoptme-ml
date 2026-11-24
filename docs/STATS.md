@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 18:01 UTC by the scrape workflow._
+_Updated 2026-11-24 18:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 18:01 UTC by the scrape workflow._
 | amvgg | 14 | 40,365 | 2026-11-24T18:00 |
 | elve | 14 | 8,258 | 2026-11-24T18:01 |
 
-## AMVGG completed trades: 60,446 total
+## AMVGG completed trades: 60,475 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,784 |
+| 2026-11-24 | 2,813 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 18:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:00 | **BhaabieeRaaii**: Giant Panda (R) | **PapiTense**: Tio De Nadal (NFR), Dango Penguins (MFR), Aurora Fox (NR) |
-| 18:00 | **qwxgwx**: Kangaroo (NFR) ×2 | **naysa72**: Strawberry Shortcake Bat Dragon (FR) |
-| 18:00 | **IWantofFeelAlive**: Matcha Cat ×3, Fly-A-Pet Potion | **9vvdx**: 2022 Birthday Party Hat |
-| 18:00 | **chapa4ka579**: Glyptodon ×4 | **fujiappleluvzz**: Ride-A-Pet Potion |
-| 18:00 | **Tiddlechip**: Ride-A-Pet Potion ×3 | **prittiEmEm**: Borhyaena Gigantica (MFR) |
-| 18:00 | **belltiny**: Pet Handler Pro Certificate, Triple Stroller | **Remonaplo**: Schoolhouse Home |
-| 18:00 | **ljwempire777**: Honey Badger (MFR), Golden Walrus (MFR) | **roblox_user_8676283275**: Lion Cub (MFR) |
-| 18:00 | **hhhauntedddd**: Roadrunner (N), King Penguin (N), Toucan (NF) | **fujiappleluvzz**: Ride-A-Pet Potion ×2 |
-| 18:00 | **Par_acetamoll**: Golden Dragon (R), Sloth (R) | **HOCOKKU**: Ride-A-Pet Potion |
-| 18:00 | **glorpingstinky**: Hyena (R), Dango Penguins, Snowball Pet (NR), Royal Palace Spaniel (N) | **obv1ale2012**: Majestic Pony (NFR) |
-| 18:00 | **shatasha31**: 2022 Birthday Cake ×2, Chihuahua (MFR), Unicorn Horn ×2, Toaster Hat, Tiny Wings, Spring Bunny Hood, 2022 Birthday Party Horn, 2022 Birthday Confetti Cannon, Cattuccino (M), Spring Bunny Feet | **lol_whateverx67hsk81**: Balloon Unicorn (FR) |
-| 18:00 | **Robloxian613444997**: Badger, Starfish | **teddycutie7**: Crimson Cape |
-| 18:00 | **Dora_MS1**: Cow (R), Kangaroo (NFR) | **jebiilerium**: Chocolate Chip Bat Dragon (FR) |
-| 18:00 | **d4rlingjazzy**: Owlbear (R), Latte Kitsune (R), Fleur De Ice (NR), Ribbon Seal (MFR) | **AdoptMe_noob087**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×7 |
-| 18:00 | **Lxdyxx**: Ride-A-Pet Potion, Ms. Muffet (M) | **roronoazoro1gg**: Pink Heart Glasses |
+| 18:11 | **h4_cd**: Fly-A-Pet Potion ×4, Mochi Meow | **Goodnews2013**: Arctic Fox (R) |
+| 18:11 | **radkiitty**: Ride-A-Pet Potion | **pote01351**: Crystal Egg ×16 |
+| 18:11 | **cxbvnniz**: Fly-A-Pet Potion ×5, Retired Egg | **chiefkeezzf**: Toaster Hat |
+| 18:11 | **roronoazoro1gg**: River Otter (M) | **gabrielcore123**: Ride-A-Pet Potion |
+| 18:11 | **XALEXX30005**: Crystal Egg ×18 | **hhhauntedddd**: Ride-A-Pet Potion |
+| 18:11 | **licycosmic**: Flower Power Duckling ×2 | **lobbybd**: Pupcicle |
+| 18:11 | **psxwer**: Moon Rabbit (M), Australian Kelpie (M) | **adorable_rhian**: Tortoiseshell Guinea Pig |
+| 18:11 | **adorable_rhian**: Fly-A-Pet Potion | **Oliver20717**: Stitches (M), Chihuahua ×2 |
+| 18:11 | **XiaoFaye1433**: Strawberry Shortcake Bat Dragon (FR) ×2, Winged Tiger (R), Ride-A-Pet Potion | **Chelovekpypsik**: Balloon Unicorn (FR) |
+| 18:11 | **Chelovekpypsik**: Turtle (R), Copycat | **81xbanan3k**: Fairy Bat Dragon (R) |
+| 18:11 | **mellqxxrb**: Glyptodon Ducky (M), Lunar Tiger (R) | **HOCOKKU**: Ride-A-Pet Potion |
+| 18:11 | **dily123477**: Pretty Pony (MFR), Mochi Meow (MR), Chicken (FR), Skele-Rex (R), Spring Bunny Hood | **starcode_slowww**: Turtle (FR) |
+| 18:11 | **Xohy_veroniky**: Elephant (FR), Crocodile (R), Ride-A-Pet Potion ×3 | **FOR3VERL1LS**: Cow (R) |
+| 18:11 | **roblox_user_8676283275**: Candicorn (NR), Cupid Dragon (NR), Cow (R) | **FOR3VERL1LS**: Pelican (NFR) |
+| 18:11 | **iffy_lalaroblox**: Rainbow Maker, Ice Cream Cone Hat, Arctic Fox (R) | **dishmala**: Cow (NFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
