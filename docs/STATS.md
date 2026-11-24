@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 04:01 UTC by the scrape workflow._
+_Updated 2026-11-24 04:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 04:01 UTC by the scrape workflow._
 | amvgg | 14 | 27,363 | 2026-11-24T04:00 |
 | elve | 14 | 5,528 | 2026-11-24T04:01 |
 
-## AMVGG completed trades: 58,265 total
+## AMVGG completed trades: 58,290 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 603 |
+| 2026-11-24 | 628 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 04:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:00 | **Zak_0250**: Cauldron Stroller | **dreampuppy8160**: Ride-A-Pet Potion |
-| 04:00 | **Yxian_029**: Candicorn (FR), Frost Unicorn (FR), Chimera (R) | **POPUTTSY**: Goose (FR), Jester Dragon (R) |
-| 04:00 | **mawifa123**: Nightmare Owl (R), Gemstone Egg, Puppeteer Hand | **pykizavertina**: Ride-A-Pet Potion |
-| 04:00 | **mawifa123**: Cerberus (NR) | **Jasmine32456778**: Ride-A-Pet Potion ×6 |
-| 04:00 | **LittleHeartPlays**: Ratatoskr (MR), Snowman (NR), Ermine (NR), Guardian Lion, Snowman (N), Ice Cube (N), Monkey (N), Dolphin (N), Cattuccino (N), Squid, Seahorse (R), Chihuahua | **TiffyLam**: Fly-A-Pet Potion ×4 |
-| 04:00 | **corney125**: Peach Owl (MR) | **MersuJanhir13**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2, Ice Cream Cone Hat |
-| 04:00 | **Lunathegreek**: Ride-A-Pet Potion | **dog_COBAKS**: Orca (M) |
-| 04:00 | **La_boyMich15**: Rubber Ducky (M), Cattuccino (N), Gorilla (N) | **altaccount02037**: Ride-A-Pet Potion |
-| 04:00 | **Zak_0250**: Jekyll Hydra Animated Sticker | **farm2266**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 04:00 | **iiheartzb**: Puffin (MFR), Siamese Cat (MFR), Sakura Spirit (MFR) | **Aranpro10101**: Goose (MFR) |
-| 04:00 | **Bismuth234**: African Wild Dog (FR), Cow (FR), Halo, Turtle (NFR), Fly-A-Pet Potion ×3 | **Haunting_Eden**: Frost Dragon (FR) |
-| 04:00 | **prueba22337**: Strawberry Shortcake Bat Dragon (NFR) ×2, Strawberry Shortcake Bat Dragon (FR) ×2, Turtle (R), Kangaroo (FR), Propeller Hat, Rain Boots | **shyb_0yalt**: Frost Dragon (FR), Owl (FR) |
-| 04:00 | **epicpulsechaos2024**: Alicorn ×10 | **magicalxmoon**: Unicorn |
-| 04:00 | **wavehrt**: Canadian Goose (FR) | **silencer282**: Fly-A-Pet Potion |
-| 04:00 | **NICKLEMEILLEUR3**: Rain Boots, Cotton Candy Hat | **Ella_gamerrblx100**: Propeller Hat |
+| 04:11 | **DanielgamerXD125**: Fairy Bat Dragon (FR), Squid | **sxmplycutecorex**: Cabbit (FR) |
+| 04:11 | **Maybeimnotbig**: Turtle (NFR), Cabbit (R), Fairy Bat Dragon (FR), Flamingo (R), Candicorn (FR), Candicorn (R), Many Mackerel, Fly-A-Pet Potion, Ride-A-Pet Potion | **meisluvadoptme**: Parrot (FR) |
+| 04:11 | **WHOISY4NAA**: Spring Bunny Hood | **aluveqq**: Dango Penguins (FR) |
+| 04:11 | **GagaPapa114**: Lionfish (N) | **Kim_fr1end**: Frozen Penguin (N) |
+| 04:11 | **AvaNari2010**: Strawberry Shortcake Bat Dragon (FR) | **Lazyymimi**: Cabbit (R), Goose, Butter Knife |
+| 04:11 | **Puddingxcutoy**: Mini Pig (FR), Cow (FR) | **Bismuth234**: Arctic Reindeer (FR) |
+| 04:11 | **EleNinja11**: Fly-A-Pet Potion | **WhinyBuny**: Glormy Hound |
+| 04:11 | **talonaltgrinding**: Capricorn (FR), Kiwi Kiwi, Unicorn ×2 | **babyunicornkitti**: Haetyphoon |
+| 04:11 | **Zak_0250**: Shadow Dragon Animated Sticker | **XxlambadguyxX**: Ride-A-Pet Potion |
+| 04:06 | **Blake76947**: Evil Unicorn (FR), Queen Bee (NFR), Mini Pig (NR), Mini Pig (R), Elephant (R) | **lupsgrl**: Frost Dragon (FR) |
+| 04:06 | **dxllyluvs2**: Balloon Unicorn (FR), Sheeeeep (NFR), Alley Cat (MFR), Mecha Meow (MFR), Halo, Unicorn Horn ×2, 2022 Birthday Cake, Spring Bunny Hood ×3, Spinning Cat Animated Sticker, German Shepherd (MFR) | **Lingling111206**: Alpaca (MFR) |
+| 04:06 | **candipoquer1532**: Ride-A-Pet Potion, Dark Choccybunny (N), Mrs. Whiskerpips (N), Easter Bunny | **MGchocolate20**: Pet Handler Pro Certificate |
+| 04:06 | **FlyToTheSaturn**: Bee (FR), Penguin, Capybara, Starfish ×2, Toucan ×2, Swordfish ×2, Ghost Wolf | **scvnilla**: Fly-A-Pet Potion |
+| 04:06 | **XiaoFaye1433**: Crow (FR) | **7tealdog7**: Matcha Cat (MFR), Ride-A-Pet Potion |
+| 04:06 | **Mahvin29**: Sakura Spirit (FR), Sakura Spirit, Fly-A-Pet Potion | **rainthatxx**: Elephant (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
