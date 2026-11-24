@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 01:40 UTC by the scrape workflow._
+_Updated 2026-11-24 01:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 01:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 24,960 | 2026-11-24T01:30 |
-| elve | 14 | 5,042 | 2026-11-24T01:31 |
+| amvgg | 14 | 25,223 | 2026-11-24T01:45 |
+| elve | 14 | 5,109 | 2026-11-24T01:46 |
 
-## AMVGG completed trades: 57,934 total
+## AMVGG completed trades: 57,937 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 272 |
+| 2026-11-24 | 275 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,9 @@ _Updated 2026-11-24 01:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:45 | **1Biahsz_altx**: Ride-A-Pet Potion | **soisomin**: Irish Setter (M) |
+| 01:45 | **AMINO4KA7U**: Flaming Fox (R) | **Snoxs545**: Binturong (R), Count Slothula (R) |
+| 01:45 | **szoozin**: Candyfloss Mega Neon Paint, Rose Quartz Glow Mega Neon Paint, Amethyst Skies Mega Neon Paint, Paint Sealer ×5, Count Slothula | **minion_310xd**: Moon Rabbit (N) |
 | 01:40 | **reaInyancat**: Ice Cream Stroller | **Stormy_303**: Ride-A-Pet Potion |
 | 01:40 | **Babyofy5**: Fly-A-Pet Potion | **Rubberduckington1103**: Bee ×2, Indian Leopard ×2, Dilophosaurus, Black Kite, Praying Mantis, Australian Kelpie, King Penguin, Tan Chow-Chow, Electric Hornet, Arctic Tern ×2, Cattuccino, Purrowl, Lunar Ox, Woodpecker, Old King Coal |
 | 01:40 | **iiStxberryMilkx**: Crow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **flex0mp**: Chocolate Chip Bat Dragon (NFR) |
@@ -51,9 +54,6 @@ _Updated 2026-11-24 01:40 UTC by the scrape workflow._
 | 01:40 | **Lingling111206**: S'mores Raccoon (MR), Frostbite Cub (MFR), Great Pyrenees (M), Cake Friend (M), Burger Bear (MFR), Therapy Dog (MFR) | **abdoosaad**: Dragonfruit Fox (MFR), Munchkin Cat (NR) |
 | 01:40 | **hellokittylover0485**: Ranger Beaver | **HELENA_GUEMER12494**: Cauldron Stroller |
 | 01:40 | **PaintingRainbows221**: Tanuki ×2, Purrowl ×2, Marabou Stork, Electric Hornet, Fire Mare, Dire Wolf ×2 | **Aslie_17**: Ride-A-Pet Potion |
-| 01:40 | **R0NHere**: Crow (FR), Rainbow Maker, Unicorn Horn, 2022 Birthday Confetti Cannon, Eaten Donut, Pretty Pony (NR), Grim Dragon (R), Sea Slug (FR) | **cookies_fernanda**: Frost Dragon (FR) |
-| 01:40 | **roblox_avocado1235**: Panda (MFR), Moon Rabbit (MR), Amami Rabbit (M), Rain Cloud Hat | **kaylamicmi**: Dango Penguins (MFR) |
-| 01:40 | **belljack225**: Water Walking Potion | **AriCruzStreams**: Brown Springer Spaniel (MFR), Puffer Fish (MFR), Catte (MFR), Chocolate Dutch Guinea Pig (MFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
