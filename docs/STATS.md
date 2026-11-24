@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 10:31 UTC by the scrape workflow._
+_Updated 2026-11-24 10:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 10:31 UTC by the scrape workflow._
 | amvgg | 14 | 33,279 | 2026-11-24T10:30 |
 | elve | 14 | 6,597 | 2026-11-24T10:31 |
 
-## AMVGG completed trades: 58,941 total
+## AMVGG completed trades: 58,974 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,279 |
+| 2026-11-24 | 1,312 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:25 | **helisabet_fabi20**: Ride-A-Pet Potion, Pomeranian | **lo0vyyu**: Crystal Egg ×18 |
-| 10:25 | **Hirohitoh3**: Kangaroo (R) | **Majdfjfgxf**: Ride-A-Pet Potion ×17 |
-| 10:25 | **zxl0106**: Cow (FR) ×2 | **pusheen11w3**: Chocolate Chip Bat Dragon (FR) |
-| 10:25 | **wx8zqxx**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **Sk4tesItsAriaBlox**: Count Slothula ×6 |
-| 10:25 | **Chiikaaae**: Mexican Wolf (M), Unicorn Ducky (M) | **gggpppgggppp1**: Pet Handler Pro Certificate |
-| 10:25 | **Officalyuichi**: Owl (FR), Siamese Cat (FR), Candicorn (FR), Alpaca | **Zolombo7**: Frost Dragon (FR) |
-| 10:25 | **AsianIceCold**: Silverback Gorilla (NFR) | **chxrl_ott3**: Fairy Bat Dragon (FR) |
-| 10:25 | **AiBike_2akk**: Spring Bunny Hood, Ride-A-Pet Potion | **Lilith_LuvsYou**: Pupcicle (NFR), Pancake Stack |
-| 10:25 | **arina_kir2**: Dalmatian (FR), Ride-A-Pet Potion | **yuujchaan**: Strawberry Shortcake Bat Dragon (FR), Alpaca (R) |
-| 10:25 | **SavcimizDepot55**: Cryptid (FR), Balloon Unicorn, Kangaroo (FR), Dancing Dragon (FR) | **Zolombo7**: Frost Dragon (FR) |
-| 10:25 | **Lorenlsalone**: Cow (MFR), Unicorn Horn, Spring Bunny Feet, Dolphin (NR), Snow Cat (M), Rabbit (M), Blue Cat (M), Pink Dog (M) | **yeetimaheadout7**: Cryptid (NFR) |
-| 10:25 | **vtoriii0**: Bush Elephant (MFR) | **eslam_Gamer**: Cryptid (FR) ×2 |
-| 10:25 | **Ent3r_UsernameHere**: Butter Knife, Eaten Donut, Flying Fairy, Leaf Hat, Diamond Unicorn | **kneesurgeryreminder**: Chihuahua (N) |
-| 10:21 | **pusheen_resya**: Turtle (R) | **mikepower240508**: Turtle |
-| 10:21 | **Popka_durak47**: Turtle (FR) | **xXziaGirlzX**: Mirai Moth (M), Clover Cow (MFR), Chipmunk (MFR) |
+| 10:41 | **andro012233**: Crocodile (FR) | **Sigatotkaka**: Aestus (NFR) |
+| 10:41 | **KEKS1TOP**: Arctic Dusk Dragon (FR), Stray Cat Dragon (N), Squid Plush | **Kot789906**: Aurora Fox (FR) |
+| 10:41 | **Masiyiko**: Diamond Butterfly (FR) | **m6onvr**: Turtle (FR) ×2 |
+| 10:41 | **Sunseticicle_YT8**: Hedgehog (FR), Dalmatian (FR), Fairy Bat Dragon (NFR), Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cow (FR), Turtle (FR), Kangaroo (FR), Gingerbread Reindeer (MFR), Dango Penguins | **xZetherx**: Shadow Dragon (FR) |
+| 10:41 | **chol_eezies**: Border Collie, Arctic Fox, Fly-A-Pet Potion | **TempeBuriq**: Mermicorn (R) |
+| 10:41 | **Zak_0250**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion | **Yumi_Rose8**: Cow (FR) |
+| 10:41 | **Yumi_Rose8**: Pet Handler Pro Certificate | **KarinaGirl560**: Dragonfruit Fox |
+| 10:41 | **luvdokyeomie**: Ride-A-Pet Potion | **lo0vyyu**: Crystal Egg ×17 |
+| 10:36 | **Sytinely**: Fly-A-Pet Potion ×3 | **nastyxx_ww**: Ride-A-Pet Potion ×6 |
+| 10:36 | **dccdles**: Owl (FR) | **Zh_ind**: Rainbow Maker ×2, Angel Wings, Unicorn Horn ×2, Spring Bunny Hood |
+| 10:36 | **Zydac1**: Gingerbread Mouse ×2, Peachick ×2, Maine Coon | **Mintsunooi**: Ride-A-Pet Potion |
+| 10:36 | **Tuti89975**: Cow (NFR), Gaelic Fae (MFR), Cow (FR) ×2, Angel Wings, Candyfloss Chick (FR), Kangaroo (FR), Elephant (FR), Field Mouse (R) | **Zolombo7**: Frost Dragon (FR) |
+| 10:36 | **shikiimorii1**: Ride-A-Pet Potion ×2 | **myBestiVlad2380**: Fly-A-Pet Potion |
+| 10:36 | **KADJDIS**: Cow (FR) | **prince_onepator**: Mermicorn (FR), Ice Cream Cone Hat, Mrs. Whiskerpips (N), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 10:36 | **roblox_user_8676283275**: Elephant (FR) | **Walerishka_sim2214**: Pineapple Owl (NFR), Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
