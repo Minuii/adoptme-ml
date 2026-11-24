@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 15:01 UTC by the scrape workflow._
+_Updated 2026-11-24 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 15:01 UTC by the scrape workflow._
 | amvgg | 14 | 37,442 | 2026-11-24T15:00 |
 | elve | 14 | 7,445 | 2026-11-24T15:01 |
 
-## AMVGG completed trades: 59,754 total
+## AMVGG completed trades: 59,789 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,092 |
+| 2026-11-24 | 2,127 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:00 | **IIzmemories**: Arctic Reindeer (MFR), Winged Tiger (MFR), Munchkin Cat (MFR), 2022 Birthday Party Horn, Grim Dragon (NFR), Strawberry Tortle, Winged Tiger (FR), Pink Betta Fish (MFR), Ghost Bunny (NFR) | **evokefairy**: Owl (NFR), Parrot (NFR) |
-| 15:00 | **tocino_chocolate**: Possum, Rattlesnake ×4, Water Opossum ×2, Bakeneko ×3, Velociraptor ×4, Banded Palm Civet, Yellow-Lipped Sea Krait ×2, Rock | **mell0rxs**: Ride-A-Pet Potion |
-| 15:00 | **GalaxyCat_X5**: Cow (R), 2022 Birthday Party Hat, Harp Seal (MR), Crocodile (R), Munchkin Cat, Midnight Dragon (R) | **kittycutecat11130**: Hedgehog (FR) |
-| 15:00 | **clalouetciedh**: Pain au Chat ×18 | **ula12579**: Ride-A-Pet Potion ×5 |
-| 15:00 | **Kubikrubik_163**: Admin Abuse Egg ×17 | **looter_love**: Ride-A-Pet Potion |
-| 15:00 | **TradingInD**: Frostbite Bear (R), Fly-A-Pet Potion, Jester Dragon | **xMaddieglolx**: Zombie Wolf (MFR) |
-| 15:00 | **polina_polinka23774**: Unicorn, Mummy Spider | **17bxnjiitaaa**: Ride-A-Pet Potion |
-| 15:00 | **bl0xby**: Chocolate Chip Bat Dragon (FR) | **Dahom_Bili**: Mini Pig (FR), Fairy Bat Dragon (FR) |
-| 15:00 | **tufvfffdjdg**: Golden Lettuce, Chocolate Dutch Guinea Pig, Kiwi Kiwi ×2, Pet Handler Pro Certificate ×5, Ride-A-Pet Potion, Diamond Unicorn | **thatonebobalover4**: Candicorn (FR) |
-| 15:00 | **elproXD_7v7**: Pain au Chat ×9 | **OBV1XIVA**: Ride-A-Pet Potion ×3 |
-| 15:00 | **kittycatkathy7523**: Catte (MFR), Chipmunk (MR), Propeller Hat | **Sofik_oc**: Goat (NFR) |
-| 15:00 | **Dazai_osamis**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×8 | **odading12318**: Fairy Bat Dragon (FR) |
-| 15:00 | **LUISMATEO3112**: Ride-A-Pet Potion | **mei_mei1579**: Kitty Bat |
-| 15:00 | **olddeathcore**: Fly-A-Pet Potion ×2 | **berdecol**: Diamond Hummingbird |
-| 15:00 | **xf3y4a**: Parrot (R), Parrot (FR), Frost Dragon (FR), Owl (FR), Tiny Wings, Goose (R) | **aceplayz_24**: Bat Dragon (FR) |
+| 15:11 | **SANANELANISMIMDEN_LA**: Muskrat (M), Swordfish (N), Red Panda (N), Grinmoire (N) | **seek0300**: Ride-A-Pet Potion |
+| 15:11 | **Nutellagua**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×6, Propeller Hat, Ride-A-Pet Potion ×2 | **deandrapisang**: Cabbit (FR), Peppermint Penguin (FR), Unicorn Horn, Ride-A-Pet Potion ×2 |
+| 15:11 | **Hahahjajajo**: Cotton Candy Hat ×2 | **MckDull**: Fly-A-Pet Potion |
+| 15:11 | **LevelMisisAnastasiya**: Great Pyrenees (M), Ride-A-Pet Potion ×2 | **ificial2345**: Great Pyrenees (MFR) |
+| 15:11 | **The_Mery24**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion | **tarrace_house**: Haetyphoon |
+| 15:11 | **xGracie_1234x**: S'mores Raccoon | **Leviodas**: Solar Burst Mega Neon Paint |
+| 15:11 | **majawhiskk**: Pig (NR) | **Flydershaa**: Frost Unicorn (R) |
+| 15:11 | **XxSummerxX_0123**: Catte | **KIVALI_006**: Pain au Chat ×2 |
+| 15:11 | **natedgreatGotBanned**: Aestus | **sadu_bestespielerin**: Ornate Horned Frog (N) |
+| 15:11 | **ALTACCOUNTTT435**: Crystal Egg ×12 | **KIVALI_006**: Ride-A-Pet Potion |
+| 15:11 | **roronoazoro1gg**: Shih Tzu (MR) | **mynameiszuzie25**: Ride-A-Pet Potion |
+| 15:11 | **chapa4ka579**: Musk Ox ×3 | **aloiv484**: Ride-A-Pet Potion |
+| 15:11 | **lIIIllIllllIIIIIIII**: Rainbow Maker, Aussie Egg, Fly-A-Pet Potion | **Puddingxcutoy**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:11 | **aloiv484**: Fly-A-Pet Potion | **XxlambadguyxX**: Tree Kangaroo |
+| 15:11 | **bonnitasarita**: Owl (FR) | **lupoouu2**: Crow (FR), Peppermint Penguin (FR), Elephant (R), Copycat, Spring Bunny Nose |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
