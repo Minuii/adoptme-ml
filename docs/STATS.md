@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 04:55 UTC by the scrape workflow._
+_Updated 2026-11-24 05:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 04:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 28,050 | 2026-11-24T04:45 |
-| elve | 14 | 5,626 | 2026-11-24T04:46 |
+| amvgg | 14 | 28,301 | 2026-11-24T05:00 |
+| elve | 14 | 5,682 | 2026-11-24T05:01 |
 
-## AMVGG completed trades: 58,362 total
+## AMVGG completed trades: 58,384 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 700 |
+| 2026-11-24 | 722 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 04:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:55 | **6kenziee**: Pupcake (N) | **0NekimNick0**: Fly-A-Pet Potion |
-| 04:55 | **Shiky388**: Ride-A-Pet Potion ×2 | **archi_chozza**: Dire Wolf (M) |
-| 04:55 | **Diamondpanda_2009**: Siamese Cat (MFR), 2022 Birthday Party Horn | **Addmymainpls2332**: Giant Anteater (MFR), Tiny Wings |
-| 04:55 | **Yukiscupcake**: Turtle (NFR) | **UnknownRace1332**: Glormy Hound (MFR), T-Rex (NR), Cuddly Candle (NR), Turtle Doves (MR), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion, Mrs. Whiskerpips (M) |
-| 04:55 | **Btstvdyndynfy9**: Shark Puppy (MFR), 2022 Birthday Cupcake Shoes | **Auds191102**: Balloon Unicorn (FR) |
-| 04:55 | **Mikaylamareex**: Goldhorn (NR) | **Faefaeplays01**: Reindeer (FR) |
-| 04:55 | **sleepykimis**: Copycat (MFR), Hamster (N), Spring Bunny Feet | **Mandydacutie**: Christmas Pudding Pup (MFR) |
-| 04:55 | **SANANELANISMIMDEN_LA**: Turtle (FR) | **J4YNEES**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×6 |
-| 04:55 | **jakii_030**: Fly-A-Pet Potion | **DefinitelyNotCha6**: Stripes Egg ×3, Patterns Egg ×4, Stars Egg ×2 |
-| 04:55 | **Viphiel**: Copter Hat | **jellofox2009**: Paint Sealer ×18 |
-| 04:55 | **BellaxDerp**: Tri-horned Treehopper (N) | **Samir_1782**: Alpaca (R), Ride-A-Pet Potion |
-| 04:55 | **LoveRancee**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (F) | **goblincore_emor**: Arctic Reindeer (FR), Fairy Bat Dragon (FR), Siamese Cat (FR), Silly Duck (NFR), Polar Bear (R) |
-| 04:45 | **superheror125**: Zombie Wolf (MR), Shadow Dragon Ducky (M), Fly-A-Pet Potion, Floating Hand Stroller | **GrindAccount_N1**: Chicken, Ram, Capybara, Sea Angel (N), Drake, Black Panther, Brown Bear, Polar Bear (R), Hyena, Swan, Rhino, Platypus, Reindeer, Turkey, Wild Boar, Emperor Shrimp (N), Hermit Crab (N), Silly Duck |
-| 04:45 | **Ethernaces**: Crystal Egg ×15 | **Stella_Vortex**: Ride-A-Pet Potion |
-| 04:45 | **archi_chozza**: Dire Wolf (M) | **J4YNEES**: Ride-A-Pet Potion ×2 |
+| 05:00 | **cwutesy_1ai**: Field Mouse (NFR) | **ContentOtter9075**: 2022 Birthday Cake |
+| 05:00 | **rainthatxx**: Sugar Glider (R), Ride-A-Pet Potion ×2 | **lWeirdPhyscol**: Cabbit (R) |
+| 05:00 | **WhiteJackk4**: Crow | **Artem_21a2**: Cow (FR) ×2, Turtle (FR) ×3, Ride-A-Pet Potion ×2 |
+| 05:00 | **Theonly_Naomi89**: Chocolate Chip Bat Dragon (FR), Copycat | **Ariannie201cow**: Cow (NFR) |
+| 05:00 | **OG_Kylen44840**: Chocolate Chip Bat Dragon (FR) | **Theonly_Naomi89**: Copycat ×7, Cupid Dragon (NFR), Goldhorn (R), Pain au Chat ×2 |
+| 05:00 | **cirocrack2020**: Chihuahua (M) | **Irewuisz**: Tiny Wings |
+| 05:00 | **cirocrack2020**: Glormy Leo (NR) | **klelopokjh**: Lion Cub (R), Copycat (R), Ice Wolf (FR), Jekyll Hydra Animated Sticker |
+| 05:00 | **Izan500**: Onza (M) | **testaccounformysoul**: S'mores Raccoon, Sunflower Friend, Violet Friend |
+| 05:00 | **emmy_thepea**: Arctic Reindeer (F), Fly-A-Pet Potion | **TRINITYYBESTIE**: Arctic Reindeer (FR) |
+| 05:00 | **bajsungen62**: 2022 Birthday Cupcake Shoes, Ride-A-Pet Potion | **d9intyy**: Unicorn Horn |
+| 05:00 | **Valery_Unicorn2011**: Solaris (MFR), Candicorn (FR), Ice Cream Hermit Crab | **d9intyy**: Rainbow Maker |
+| 05:00 | **nonas2009**: Red Squirrel (N), Puptune (N), Happy Duckling (N), Kappakid (N), Cute-A-Cabra (N), Turtle Doves (N) | **d9intyy**: Silverback Gorilla (FR) |
+| 05:00 | **Nxlas_PlayzRblx**: Octopus (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **10whiteroses**: Phoenix (MFR) |
+| 05:00 | **human4691236**: Arctic Reindeer, Turtle (FR), Kangaroo (R) | **PsychoBrats5**: Blazing Lion (FR) |
+| 05:00 | **1Shiikigamii6**: Chocolate Chip Bat Dragon (FR) | **Insano_V48**: Sakura Spirit (N), Dango Penguins (NFR), Peppermint Penguin (R) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
