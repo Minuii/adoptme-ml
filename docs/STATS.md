@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 09:46 UTC by the scrape workflow._
+_Updated 2026-11-24 09:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 09:46 UTC by the scrape workflow._
 | amvgg | 14 | 32,552 | 2026-11-24T09:45 |
 | elve | 14 | 6,448 | 2026-11-24T09:46 |
 
-## AMVGG completed trades: 58,860 total
+## AMVGG completed trades: 58,884 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,198 |
+| 2026-11-24 | 1,222 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 09:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:45 | **Junjyungg**: Mochi Meow ×18 | **HET3AKOHAM**: Ride-A-Pet Potion ×2 |
-| 09:45 | **Gglecyl0**: Fly-A-Pet Potion ×2, Pet Handler Pro Certificate | **maks070706**: Unicorn (NFR) |
-| 09:45 | **tresh_blin12**: Blue Egg | **PlayerFff_0**: Siamese Cat (FR), Kangaroo (FR) |
-| 09:45 | **thafterparty**: Puptune (NR) | **GYUGYUBINIM**: Ride-A-Pet Potion |
-| 09:45 | **prae5512**: Kitty Biscuit, Ride-A-Pet Potion, Pupcicle, Chocolate Dutch Guinea Pig | **RobloxIsLif3z**: Red Dutch Guinea Pig |
-| 09:45 | **prae5512**: Cupid Dragon (NFR) | **stella_1bym**: Field Mouse (NFR) |
-| 09:45 | **AestxStella**: Ride-A-Pet Potion ×4 | **pusheen_resya**: Capricorn (NFR) |
-| 09:45 | **Vitek_228666**: Kangaroo (FR) | **ghljg7**: Crocodile (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 09:45 | **Vitek_228666**: Chocolate Chip Bat Dragon (R) | **LIAXMLV**: Peppermint Penguin (FR), Peppermint Penguin (R) |
-| 09:45 | **Its_soulseek**: Ride-A-Pet Potion ×13, Pet Handler Pro Certificate ×5 | **Vitek_228666**: Turtle (FR) |
-| 09:45 | **jebiilerium**: Princess Mare ×11, Princess Mare (N), Granny Wolf ×6 | **blessedconnections**: Halloween Slime Mega Neon Paint |
-| 09:41 | **0tohero_rahul**: Evil Unicorn (R), Dalmatian, Strawberry Shortcake Bat Dragon (FR), Pig, Pupcicle (N), Chameleon (NR) | **Gu_chek**: Frost Dragon (FR) |
-| 09:41 | **kotenokoops**: Parrot (FR), Elephant | **Milkachka9998**: Hedgehog (FR), Arctic Reindeer (FR) |
-| 09:41 | **tresh_blin12**: Elephant (R), Copycat ×2 | **PlayerFff_0**: Christmas Gift ×2 |
-| 09:41 | **TheEerthh**: Crystal Egg ×18 | **miuehla**: Fly-A-Pet Potion |
+| 09:55 | **rottingroyaltyyy**: African Wild Dog (FR), Unicorn Horn | **Ella116Gisela**: Balloon Unicorn (FR), Ice Cream Cone Hat |
+| 09:55 | **picxy_gone3**: Kangaroo (NFR), Albino Monkey (FR), Ride-A-Pet Potion | **Maayas_17alt1**: Cow (R), Silly Duck (NFR), Burger Bear (NR), Canadian Goose (MFR), Bandicoot (NR) |
+| 09:55 | **LadyHappyHamsterPlay**: Cupid Dragon (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **zhaidsito8**: Pupcicle (MFR) |
+| 09:55 | **miuehla**: Fly-A-Pet Potion | **Rainey_39**: Crystal Egg ×18 |
+| 09:55 | **Horse_LoveKsk**: Elephant (R), Cow (FR), Fly-A-Pet Potion, Kangaroo (FR), Ride-A-Pet Potion ×3 | **Vitek_228666**: Arctic Reindeer (FR) |
+| 09:55 | **arseniylolol**: Drake (MFR) | **Ilovdsonics**: Fly-A-Pet Potion ×9 |
+| 09:55 | **ljwempire777**: Kangaroo (FR) | **L4dyBrav3DollphinRBL**: Golden Walrus (M) |
+| 09:55 | **Lolbaddie1205**: Honey Badger (MFR), Pirate Ghost Capuchin Monkey (MFR), Brown Springer Spaniel (MFR), Dragon (MR), Puddleducks Hood, Duck Floatie | **ZzzTrades7**: Flamingo (MFR) |
+| 09:55 | **AngelKattyOwO**: Bush Elephant (R), Munchkin Cat (R) | **Belinka_200**: Sugar Glider (FR) |
+| 09:55 | **1nikaroctik**: Cow (FR), Turtle (FR) | **flonn_2013**: Mini Pig (FR), Kangaroo (FR), Ride-A-Pet Potion |
+| 09:55 | **KatsuTatsuya**: Strawberry Shortcake Bat Dragon (FR), Tio De Nadal ×2, Ride-A-Pet Potion ×3 | **MVS_Y3LLOW**: Evil Unicorn (FR) |
+| 09:55 | **robloxer_3614**: Pancake Stack, White Designer Backpack | **lakaishaisthebest**: Chihuahua, Horse (R), Strawberry Clip, Alien Eyes Hat, Bee Hive, Ponytail, Chick Hat |
+| 09:55 | **kossshkameow**: Arctic Reindeer (FR) | **qlltm**: Cow (NFR), Polar Bear |
+| 09:55 | **thousandbabyoil**: Mini Pig (NFR), Unicorn Horn | **fksdkeoakam**: Peppermint Penguin (NFR), Toaster Hat |
+| 09:55 | **Itshayaaahe**: Dango Penguins (NFR), Strawberry Shortcake Bat Dragon (R), Burger Bear (MR), Siamese Cat | **Grom_CraftinGYT**: Silverback Gorilla (MFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
