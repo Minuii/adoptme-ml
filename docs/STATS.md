@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 08:31 UTC by the scrape workflow._
+_Updated 2026-11-24 08:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 08:31 UTC by the scrape workflow._
 | amvgg | 14 | 31,456 | 2026-11-24T08:30 |
 | elve | 14 | 6,259 | 2026-11-24T08:31 |
 
-## AMVGG completed trades: 58,726 total
+## AMVGG completed trades: 58,761 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,064 |
+| 2026-11-24 | 1,099 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:25 | **thecutecatma3**: Christmas Pudding Pup (MFR), Pet Handler Pro Certificate | **NathanPlayz83**: Cow (FR) ×2, Goose (FR) |
-| 08:25 | **beebodooo**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR), Ride-A-Pet Potion | **yeahimswagyeah**: Parrot (FR) |
-| 08:25 | **zncxxq**: Border Collie, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **minismudgepanda**: Siamese Cat |
-| 08:25 | **Uhmskdudgbeme**: Dalmatian (FR) | **Eldrian06**: Jester Dragon (MFR), 2022 Birthday Party Horn, Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Jeff's Nametag |
-| 08:25 | **thekingoatttttt**: Dango Penguins, Pancake Stack | **unicorn_queen90919**: Australian Kelpie (MFR) |
-| 08:25 | **Killed_HGH7**: Cheetah | **lakaishaisthebest**: Pet Handler Pro Certificate, Ride-A-Pet Potion |
-| 08:21 | **Zuffsa12**: Munchkin Cat (NR), Ride-A-Pet Potion | **alexandmartinareg**: Alpaca (R), Spring Bunny Hood |
-| 08:21 | **tresh_blin12**: Ride-A-Pet Potion | **CAXAROK_0953032396**: Mochi Meow (N), Mochi Meow |
-| 08:21 | **clalouetciedh**: Chihuahua ×3 | **ALTACCOUNTTT435**: Ride-A-Pet Potion |
-| 08:21 | **Aafgrowagarden**: Elephant (FR) | **kkimssak**: Fallow Deer (NR) |
-| 08:21 | **Pandalovedogss**: Lamb (NFR) | **Gamer_Girl1094286**: Mistletroll (MR), Birthday Butterfly 2024 (M), Snowball Pet (R), Ride-A-Pet Potion, Ice Cube (NR) |
-| 08:21 | **rottingroyaltyyy**: Rainbow Maker, Chihuahua | **Alemys2011**: Unicorn Horn ×3 |
-| 08:21 | **Catzini_1**: Shadow Dragon (FR), Crow (FR), Evil Unicorn (FR) | **kwnaw00**: Bat Dragon (FR) |
-| 08:21 | **Maliaanna20**: Lion Cub (MFR), Flaming Fox (MFR), Hamster (MR), Ermine (MR), Clover Cow (MR) | **KeineAhnungvonnix1**: Giant Panda (FR), Blue Ringed Octopus (MFR) |
-| 08:21 | **3L1EE**: Kelp Captain | **HorsegirlEms12**: Ride-A-Pet Potion |
+| 08:40 | **v6mpireeee**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **aurorafox679**: Crocodile (R) |
+| 08:40 | **missy_Artz**: Hedgehog, Balloon Unicorn (FR), Elephant (R) | **dw4rkz**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (R) |
+| 08:40 | **Testforuselol**: Panda (NFR), Pink Cat Ear Headphones, Ride-A-Pet Potion ×2 | **Caxarok_45641**: Chihuahua ×18 |
+| 08:40 | **joresse123456**: Cow (FR), Pig (R), Snowman (FR), Winter Buck, Fleur De Ice, Bee (FR), Persian Cat (N), Penguin (FR), Dingo (NFR), Red Squirrel (R), Halloween Golden Mummy Cat (R), Lunar Gold Tiger (R), Chihuahua, Hawk, Berry Cool Cube | **USA0foming**: Turtle (NFR) |
+| 08:40 | **stark_1025**: Shark Puppy (NFR), Lion (NFR), Chocolate Dutch Guinea Pig (MFR), Border Collie (R), Many Mackerel (NR), Sea Slug, Tiny Wings, Pig (F), Ice Cream Hermit Crab (N), Lion Cub (R), Nessie (FR), Harp Seal (NR) | **leruval**: Owl (FR) |
+| 08:40 | **ameyyass**: Fly-A-Pet Potion | **kendirealmi**: Samoyed (M) |
+| 08:40 | **clavio000**: Strawberry Shortcake Bat Dragon (NFR), Pet Handler Pro Certificate | **Yourgrandadpullsfr**: Balloon Unicorn (FR) |
+| 08:40 | **clalouetciedh**: Chihuahua ×16 | **HorsegirlEms12**: Ride-A-Pet Potion ×5 |
+| 08:40 | **HGFAKN**: Seagull (M), Silly Duck (NFR), Mochi Meow (M), Ride-A-Pet Potion, Cattuccino (N), Tealwood Monster (N) | **Yourgrandadpullsfr**: Snowball Pet (MFR) |
+| 08:40 | **ameyyass**: Ride-A-Pet Potion ×2 | **Quandrosz**: Stray Cat Dragon (M) |
+| 08:40 | **efterbliv3n**: Toaster Hat, Ice Cream Cone Hat | **Morph_Math**: Kangaroo (R) |
+| 08:40 | **Stupid_OMGFiwi**: Maine Coon ×3, Tan Chow-Chow, Blue Whale, Skunk, Clover Cow, Angus Bull, Arctic Hare | **izumii_yuna**: Ride-A-Pet Potion |
+| 08:40 | **realpdrilla1**: Fly-A-Pet Potion | **kendirealmi**: Thunderfisher (M) ×2 |
+| 08:40 | **Quandrosz**: Dylan, Eggnog Dog, Moon Egg ×2 | **realpdrilla1**: Ride-A-Pet Potion |
+| 08:40 | **razarvale2z**: Chihuahua ×5 | **lokiki099**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
