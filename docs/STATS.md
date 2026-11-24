@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 20:16 UTC by the scrape workflow._
+_Updated 2026-11-24 20:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 20:16 UTC by the scrape workflow._
 | amvgg | 14 | 42,457 | 2026-11-24T20:15 |
 | elve | 14 | 8,710 | 2026-11-24T20:15 |
 
-## AMVGG completed trades: 60,944 total
+## AMVGG completed trades: 61,016 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,282 |
+| 2026-11-24 | 3,354 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 20:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:15 | **jellystarpink**: Ghostly Cat (N) | **laura_qi1**: Maine Coon (N) |
-| 20:15 | **M1n3_4everrrr**: Retired Egg ×5 | **saba_ka567**: Skelicorn |
-| 20:15 | **Caliscat22**: Munchkin Cat (FR), Jester Dragon (FR), Shiba Inu (N), Heart Bow, Cheesecake Hat, Festive Antlers, Micro Car, Classic Trade Stand, Admin Abuse Box ×7 | **sb_biggestfan56**: Kangaroo (FR) |
-| 20:15 | **Misiaa54**: Copycat (R) | **roronoazoro1gg**: Fly-A-Pet Potion ×3 |
-| 20:11 | **ZGraysonMaxFoxs**: Crystal Egg ×17 | **Terranese**: Ride-A-Pet Potion |
-| 20:11 | **435Nurenfatehah**: Huntsman Robin ×4, Crystal Egg, Fairytale Egg ×3 | **EchoGhost14045**: Huntsman Robin (N) |
-| 20:11 | **PrincezzNatty**: Goat | **Kiseise**: Jester Dragon, Ride-A-Pet Potion ×3 |
-| 20:11 | **Robloxian613444997**: Count Slothula, Diamond Unicorn | **cutepupspaw**: Pupcicle |
-| 20:11 | **elys1anaa**: Gemstone Egg, Water Moon Bear, Alicorn, Mochi Meow, Mexican Wolf (N), Orca, Little Lamb ×4 | **eulsstepstool**: Ride-A-Pet Potion |
-| 20:11 | **Angelbatista_me2**: Copycat (NR), Skelicorn (MFR), Ride-A-Pet Potion | **NotSweatyOnion**: Turtle (FR) |
-| 20:11 | **maria_rmb09**: Elephant (NR), Turtle (FR), Unicorn (NFR), Ring-Tailed Lemur (R) | **rosekitten321**: Cow (NFR) |
-| 20:11 | **adoptmesuchti1707**: Pupcicle | **horimiyaa_13**: Crystal Egg ×12 |
-| 20:11 | **luvyerh**: Cow (FR) | **ariana_grande535**: Flamingo (FR), Lion (FR), Ride-A-Pet Potion |
-| 20:11 | **CutesyMaddieee**: Winter Fawn (MFR) | **helou_motoG8**: Fly-A-Pet Potion, Strawberry Shortcake Bow, Bear Hood, Jeff's Nametag |
-| 20:11 | **docedelets**: Blue Ringed Octopus (N) | **Gamer_girlanimes**: Fly-A-Pet Potion |
+| 20:25 | **GorobetsZP**: Ride-A-Pet Potion, Tan Chow-Chow | **TeezYeez**: Rainbow Stroller |
+| 20:25 | **almighty_duckllings**: Werewolf | **Baldyellowwoman**: Blue Ringed Octopus (N), Chocolate Dutch Guinea Pig (N), Ram (N), Moon Rabbit (N) |
+| 20:25 | **Angel_020601**: Pink Butterfly Wings, Easter Egg Friends, Mule Baskets, Pink Hightops, Cheesecake Hat | **Rkuamgrh6**: Ride-A-Pet Potion |
+| 20:25 | **XALEXX30005**: Crystal Egg ×18 | **Aslie_17**: Ride-A-Pet Potion |
+| 20:25 | **saturnestee**: Flash Weasel (MFR), Golden Chow-Chow (MFR) | **sgHappiness1238**: Munchkin Cat (MFR), Jester Dragon (MFR) |
+| 20:25 | **SlawaKrustik**: Jester Dragon (R) | **Vitalik_tyrbina999**: Ride-A-Pet Potion ×5 |
+| 20:25 | **nehemiasOriz**: Werewolf (FR), Candicorn (R) | **galaxie_sister6**: Cow (R) |
+| 20:25 | **Adoptmeexd23**: Goose (FR), Alpaca, Harp Seal (MFR), Orca (NR), Fly-A-Pet Potion ×6 | **Soy7xol**: Nessie (MFR) |
+| 20:25 | **Robloxiana_xxx2011**: Fly-A-Pet Potion | **jux_iess1**: Ride-A-Pet Potion, Paint Sealer ×2 |
+| 20:25 | **sasha2009190**: Water Rabbit (MR), Ride-A-Pet Potion, Flying Fairy | **Harpsealpup1**: Elephant (FR) |
+| 20:25 | **ZGraysonMaxFoxs**: Crystal Egg ×17 | **GGYHBH68**: Ride-A-Pet Potion |
+| 20:25 | **KiraChalaya**: Arctic Fox (R), Jellyfish (R), Unfortunate Eyelashes, Frankenfeline (MR) | **ash_stupidUnU**: Shark Puppy, Ice Cream Cone Hat, Sushi Penguin, Chicken Hat, Blue Cat Ear Headphones |
+| 20:25 | **rrstockxadm**: Crystal Egg ×16, Ride-A-Pet Potion | **nimalina463**: Ride-A-Pet Potion |
+| 20:25 | **lotvsec**: Neon White Scooter | **DwWsHZ_2003**: Ride-A-Pet Potion |
+| 20:25 | **aleks2u**: Owl (FR) | **Nastya_Mihalyk**: Evil Unicorn (FR) ×2, Fly-A-Pet Potion ×2, Shiba Inu (NR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
