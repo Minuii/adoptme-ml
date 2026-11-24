@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 15:41 UTC by the scrape workflow._
+_Updated 2026-11-24 15:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 15:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 37,926 | 2026-11-24T15:30 |
-| elve | 14 | 7,522 | 2026-11-24T15:31 |
+| amvgg | 14 | 38,171 | 2026-11-24T15:45 |
+| elve | 14 | 7,602 | 2026-11-24T15:46 |
 
-## AMVGG completed trades: 59,870 total
+## AMVGG completed trades: 59,887 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,208 |
+| 2026-11-24 | 2,225 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 15:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:40 | **BoonieStar06**: Red Dutch Guinea Pig, Hare | **unicornsun_BD2**: Lion Cub |
-| 15:40 | **megumi_isambitious**: Cow (FR) ×2 | **andres2004671**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:40 | **DeWoChKa_2282280**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×2 | **Angelbatista_me2**: Vampire Dragon (FR) |
-| 15:40 | **ideaalive**: Dango Penguins ×2, Bobageist (N) ×2, Pain au Chat | **SanAndres404**: Harp Seal (N) |
-| 15:40 | **xiparo**: Pain au Chat ×13 | **nuggets0162**: Fly-A-Pet Potion ×2 |
-| 15:40 | **xXAestheticxSkyX**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×4 | **ADASArfs**: Kangaroo (R) |
-| 15:40 | **whisskar**: Ratatoskr (N), Bakeneko (N), Jacobin Pigeon (N), Clubtail Dragonfly (N), Rubber Ducky (N), Pinkypillar (N) ×2, California Condor (N), Ancient Dragon | **Albaliala5**: Ride-A-Pet Potion |
-| 15:40 | **aloiv484**: Fly-A-Pet Potion ×10 | **Red_Spider228**: Snowball Pet, Brown Bear, Llama, Turkey, Pupcake (N), Slime, Rhino (R), Zombie Wolf, Happy Duckling, Leopard Shark, Drake, Kitty Bat |
-| 15:40 | **1MZ03Y**: Fly-A-Pet Potion ×10 | **kourabies31415**: Kangaroo (FR) |
-| 15:40 | **Ira_20086**: Ride-A-Pet Potion | **Ballerina_capachina**: Choccybunny Box ×15 |
-| 15:40 | **Tal_Kazman**: Bat Dragon (FR), Toaster Hat | **leewpy**: Owl (FR) ×3, Dalmatian (FR), Arctic Reindeer (R), Chocolate Chip Bat Dragon (FR) |
-| 15:40 | **daniils140926**: Turtle (NFR) | **2019khwjueg**: Dragonfruit Fox (MFR), Fly-A-Pet Potion |
-| 15:40 | **Dash_2023crashh**: Ride-A-Pet Potion ×5 | **HuGe_123cAt**: Chicken (NR) |
-| 15:40 | **shodidodi**: Unicorn Horn, Ride-A-Pet Potion, Tree Decorating Animated Sticker | **Rossella154**: Strawberry Tortle |
-| 15:40 | **Noahisthebestaltx**: Fly-A-Pet Potion ×3 | **Proboygamer1085**: Diamond Amazon (R) |
+| 15:45 | **TheEerthh**: Crystal Egg ×18 | **ii_martaGamer18**: Fly-A-Pet Potion |
+| 15:45 | **aleks2u**: Kangaroo (FR), Crocodile (FR), Fly-A-Pet Potion | **luvyerh**: Cow (FR) |
+| 15:45 | **richbaddie2282**: Chocolate Dutch Guinea Pig ×2, Snorgle (M), Chihuahua, Glormy Dolphin (R) | **sensntive**: Jester Dragon |
+| 15:45 | **vdlad9875**: Ride-A-Pet Potion ×17 | **Orphixia**: Kangaroo (FR) |
+| 15:45 | **lolcryabtit6767**: Cow (FR) | **V0ID1FY**: Golden Chow-Chow (MR) |
+| 15:45 | **BrooklynToxicGam3r**: Ride-A-Pet Potion | **rrgxetss**: Angus Cow (M) |
+| 15:45 | **Lucky_Bonono10**: Bubblegeist | **lacybace**: Clumpty ×7 |
+| 15:45 | **The_Mery24**: Chick (R), Crystal Egg ×7 | **habchik004**: Ride-A-Pet Potion |
+| 15:45 | **xmarlarx**: Blue Cat (M), Kid Goat (M) | **AKI10PLAY**: Fly-A-Pet Potion |
+| 15:45 | **xiparo**: Pain au Chat ×11 | **Hugchamb**: Ride-A-Pet Potion ×3 |
+| 15:45 | **jqsminaaaa**: Chocolate Dutch Guinea Pig (MFR), Munchkin Cat (MFR), Aurora Fox (MFR), Latte Kitsune (MFR), Hamster (MR), Rain Cloud Hat, Unicorn Horn ×2, Spring Bunny Hood ×2, Spring Bunny Feet ×2, Unicorn Backpack, Thinking Hat | **Cinzsins**: Tortoiseshell Guinea Pig (MFR) |
+| 15:45 | **Typay604**: Sheeeeep (MFR) | **sofcheke**: Hedgehog (FR) |
+| 15:45 | **cam_ushek**: Catte, Pain au Chat | **Liverpool_Rules2009**: Ride-A-Pet Potion |
+| 15:45 | **clalouetciedh**: Chihuahua ×18 | **ula12579**: Ride-A-Pet Potion ×5 |
+| 15:45 | **alohaxstephhh**: Badger ×2 | **Nvllixy**: Little Lamb |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
