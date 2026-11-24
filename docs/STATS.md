@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 19:55 UTC by the scrape workflow._
+_Updated 2026-11-24 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 42,038 | 2026-11-24T19:45 |
-| elve | 14 | 8,597 | 2026-11-24T19:46 |
+| amvgg | 14 | 42,238 | 2026-11-24T20:00 |
+| elve | 14 | 8,673 | 2026-11-24T20:01 |
 
-## AMVGG completed trades: 60,898 total
+## AMVGG completed trades: 60,913 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,236 |
+| 2026-11-24 | 3,251 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:55 | **aikosha_rdx**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion, Pet Handler Pro Certificate ×3 | **ii_AceKun**: Cow (FR) |
-| 19:55 | **ishibana0967**: Unicorn | **SillyMilk_m**: Ride-A-Pet Potion |
-| 19:55 | **msgarcia4**: Matcha Cat, Dango Penguins (N), Dango Penguins, Chick (MFR), Glyptodon (MFR), Kiwi Kiwi | **j2v73r**: Matcha Cat (NFR) |
-| 19:55 | **FunnyAnaminegirl**: Royal Corgi (NFR), Bunny (MFR) | **Alice_Fpe2567**: Pig (R) |
-| 19:55 | **fartingpook367**: Tiny Wings, Cabbit (FR) | **kittyarchivies**: 2022 Birthday Party Hat, 2022 Birthday Party Horn |
-| 19:55 | **ZGraysonMaxFoxs**: Crystal Egg ×18 | **NomZixxx**: Ride-A-Pet Potion |
-| 19:55 | **Jasmine_officially1**: Tasmanian Tiger (N), Tarantula (N) ×2, Boohoo (N) | **altaccount02037**: Ride-A-Pet Potion |
-| 19:55 | **fishymiss_y**: Ice Cream Cone Hat | **realpdrilla1**: Ride-A-Pet Potion ×6 |
-| 19:55 | **AnaSophia3445**: Munchkin Cat | **slinx5267**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×2, Flying Fairy |
-| 19:55 | **Car1os_xd**: Fly-A-Pet Potion | **Mya_strawberryz**: Ride-A-Pet Potion ×2 |
-| 19:55 | **olddeathcore**: Sheeeeep (MFR), Frost Unicorn, Munchkin Cat | **Ilyastyconne**: Silverback Gorilla (MFR), Chocolate Dutch Guinea Pig (MFR) |
-| 19:55 | **Atchepihinka228**: Ride-A-Pet Potion ×12, Aurora Fox | **Artem_21a2**: Glormy Leo (NF) |
-| 19:55 | **snyyyp**: Dango Penguins (MFR) | **spojIfed**: Turtle (FR), Ram (MFR), Sandwich Hat, Spring Bunny Feet, Ride-A-Pet Potion, Kaijunior (M), Rice Cake Rabbit (NFR), Bready Necklace, Blue Cat Ear Headphones |
-| 19:55 | **Artem_21a2**: Cow | **Lefty43434**: Albino Monkey (FR), Halloween White Ghost Dragon (NFR), Polar Bear |
-| 19:55 | **snyyyp**: Copycat (NFR) | **Katemala2021**: Siamese Cat (R) |
+| 20:00 | **Kitti_59350**: Chihuahua ×2, Alicorn, Little Lamb | **eulsstepstool**: Ride-A-Pet Potion |
+| 20:00 | **rycnqdq**: Ride-A-Pet Potion | **ZGraysonMaxFoxs**: Crystal Egg ×18 |
+| 20:00 | **imdaagoatt123**: Pupcicle | **Minimalama0**: Dark Choccybunny (N) |
+| 20:00 | **docedelets**: Capybara, Angus Cow (R), Urchin (N), General Sheepdog, Skelicorn (N) | **krikikriki56**: Fly-A-Pet Potion |
+| 20:00 | **Stumblediot**: Lamb (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ericaissoocool**: Dragonfruit Fox (N) |
+| 20:00 | **lWeirdPhyscol**: Angel Wings | **kittyarchivies**: Fairy Bat Dragon (FR), Ride-A-Pet Potion |
+| 20:00 | **felixwq332**: Owl (NFR) ×2, German Shepherd (MFR) | **hestabbedme**: Crow (MFR) |
+| 20:00 | **Spookysquid7**: Owl (NFR), Giant Anteater (MFR) | **m4ritx7**: Giraffe (FR), Hedgehog (NFR) |
+| 20:00 | **aleks2u**: Strawberry Shortcake Bat Dragon (R), Cabbit (FR), Fairy Bat Dragon (FR) | **playerbunbready**: Haetae (FR) |
+| 20:00 | **vynllama**: Evil Unicorn (R) | **luciano230409**: Frost Unicorn (R), Rain Cloud Hat, Pupcake (N), German Shepherd (R), Arctic Dusk Dragon (F), Unicorn (NFR) ×2, Unicorn (MFR), Crocodile (FR), Elephant (FR) |
+| 20:00 | **Candy_Mishti**: General Sheepdog (M), Royal Palace Spaniel (NR) | **belltiny**: Pain au Chat (M), Lemonade Stand |
+| 20:00 | **roblox1526free**: Strawberry Tortle ×4 | **ratonsita12309**: Cryptid (FR) |
+| 20:00 | **licycosmic**: Flower Power Duckling ×2 | **Belen7267**: Catte |
+| 20:00 | **Omar2002548**: Happy Clam (NR) | **LostKeksik**: Happy Clam (N) |
+| 20:00 | **Jassychi**: Peppermint Penguin (FR) | **sleepy_s0ren**: Cherry-On-Top, Spring Bunny Nose |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
