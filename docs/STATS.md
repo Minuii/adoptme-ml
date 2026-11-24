@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 00:55 UTC by the scrape workflow._
+_Updated 2026-11-24 01:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 00:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 24,187 | 2026-11-24T00:45 |
-| elve | 14 | 4,913 | 2026-11-24T00:46 |
+| amvgg | 14 | 24,463 | 2026-11-24T01:00 |
+| elve | 14 | 4,974 | 2026-11-24T01:01 |
 
-## AMVGG completed trades: 57,836 total
+## AMVGG completed trades: 57,841 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 174 |
+| 2026-11-24 | 179 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,11 @@ _Updated 2026-11-24 00:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:00 | **KanskjeMatilde**: Jester Dragon (FR) | **dahoody2k3**: Spring Bunny Hood |
+| 01:00 | **goku233289**: Giant Panda (FR), Turtle (NFR) | **Lynniestarrrr**: Dalmatian (FR), Cryptid (FR) |
+| 01:00 | **tarrace_house**: Ride-A-Pet Potion ×4 | **dahoody2k3**: Jester Dragon (FR) |
+| 01:00 | **giozioll327**: Fairy Bat Dragon | **wynterxskies**: Lion (FR), Unicorn (MFR) |
+| 01:00 | **VenchTables0**: Count Slothula, Gargoyle (R), Chihuahua | **chhcciijjjkk**: Turkey (FR) |
 | 00:55 | **serspect**: Diamond Unicorn, Ginger Cat (N), Chanekeh (N), Angus Cow (N), Grinmoire (N) | **tigersx_o**: Ride-A-Pet Potion |
 | 00:55 | **Xz_CodeOLDriftdLBliz**: Ride-A-Pet Potion ×8, Haetyphoon, Golden Hamster (R), General Sheepdog (N), Spring Bunny Nose, Spring Bunny Feet, Fly-A-Pet Potion, Thinking Hat | **Cat_gun18**: Strawberry Tortle (R) |
 | 00:55 | **Ashleyisforyou_123**: Frost Dragon (NFR) | **RealKrispyKris**: Giraffe (FR), Evil Unicorn (FR) |
@@ -49,11 +54,6 @@ _Updated 2026-11-24 00:55 UTC by the scrape workflow._
 | 00:55 | **zzz1msleepy**: Tan Chow-Chow (M) | **xxpeachyxx82**: Ride-A-Pet Potion ×3 |
 | 00:55 | **lollipopleah7861**: Strawberry Tortle (FR) | **0zxphx**: Chef Gorilla (MFR) |
 | 00:55 | **VintageMaxx**: Ride-A-Pet Potion ×2 | **Dinkarrt**: Pet Handler Pro Certificate |
-| 00:55 | **evvelxy**: Llama | **aloiv484**: Ride-A-Pet Potion ×2 |
-| 00:55 | **Sherine_0807**: Moon Rabbit, Prism Snake, Black Moon Bear, Praying Mantis | **dahoody2k3**: Butter Knife |
-| 00:55 | **whimsyyblues**: Goose (FR) | **YourfriendAnisha**: Giant Anteater (NFR) |
-| 00:55 | **kaylamicmi**: Jester Dragon (MFR) | **cvbnmjuyghuu**: Dango Penguins (MFR), Dango Penguins ×2, Jellyfish (R) |
-| 00:55 | **Agnes_Tachyon20077**: Pet Handler Pro Certificate, King Bee (R), Diamond Ladybug (R), Golden Lettuce, Chihuahua (N) | **sammysteal6741**: Cerberus (NFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
