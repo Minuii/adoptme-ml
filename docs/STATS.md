@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 16:31 UTC by the scrape workflow._
+_Updated 2026-11-24 16:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 16:31 UTC by the scrape workflow._
 | amvgg | 14 | 38,880 | 2026-11-24T16:30 |
 | elve | 14 | 7,812 | 2026-11-24T16:31 |
 
-## AMVGG completed trades: 60,062 total
+## AMVGG completed trades: 60,107 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,400 |
+| 2026-11-24 | 2,445 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:30 | **opalenizna1**: Ride-A-Pet Potion ×5, Glormy Dolphin (N) | **LumDayy**: Harp Seal (NR) |
-| 16:30 | **dinadu135**: Goose (NFR) | **nunnulee_012310**:  |
-| 16:30 | **ALV4RYTO**: Fly-A-Pet Potion ×10 | **DragonjJDusta107130**: Ride-A-Pet Potion ×18 |
-| 16:30 | **lovealleycats**: Balloon Unicorn (FR) | **A1603_roblox**: Balloon Unicorn, Ride-A-Pet Potion ×2 |
-| 16:30 | **saitama14708**: Dango Penguins (NFR), Ride-A-Pet Potion ×2, Frost Phoenix (FR) | **starneverlandsAlt**: Jester Dragon (NR) |
-| 16:30 | **Stumblediot**: Chihuahua (MR) | **daikinnw1**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×6 |
-| 16:30 | **Iateyourdogstoenail1**: Cow (NFR), Unicorn Horn, Ride-A-Pet Potion ×2 | **sleepyguy0k**: Velocirooster (MFR) |
-| 16:30 | **DaphiePafie**: Cow (FR), Shark Puppy (FR), Unicorn Horn, Koi Carp (M) | **sleepyguy0k**: Cow (NFR) |
-| 16:30 | **Dinaofdi**: Peachick (NR) | **xuei2alt**: Ride-A-Pet Potion |
-| 16:30 | **C_Darragh123**: Ghost Bunny (MR), Chocolate Dutch Guinea Pig (MR), Mule (M), Black Springer Spaniel (M), Moon Rabbit (M), Burning Bunny (M), Gecko (MR), Hippo (MR), Lynx (MR), Rose Dragon (NR), Baku (MFR) | **leruval**: Parrot (FR) |
-| 16:30 | **Ella116Gisela**: Cow (MFR), African Wild Dog (FR), Unicorn Horn | **IDFeelAnything**: Alpaca (MFR) |
-| 16:30 | **Moon_Cloud609859**: Ballet Swan (MFR), Ride-A-Pet Potion ×2 | **fiasmail**: Matcha Cat (NFR), Matcha Cat (N), Matcha Cat (R), Matcha Cat |
-| 16:30 | **Keksmonster202**: Onza (M), Caramelgeist (M), Camel (N), Chanekeh (N) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×2 |
-| 16:30 | **elproXD_7v7**: Pain au Chat ×3 | **loveFire900**: Ride-A-Pet Potion |
-| 16:30 | **cxltwaste**: Caterpillar (R), Cabbit (R) | **Froggyblossom90**: Unicorn Horn ×2 |
+| 16:41 | **minismudgepanda**: Toaster Hat, Moose Calf, Chocolate Dutch Guinea Pig | **Ashvr_s0ul9**: Border Collie |
+| 16:41 | **veiixzlj**: Red Dutch Guinea Pig (MFR), Sushi Penguin (MFR), Panda (MFR), Pupcicle (MFR), Tiny Wings, Burger Boots, Back Taco, Strawberry Shortcake Bow, Corndog Mustache | **Sypex612**: Giant Anteater (MFR) |
+| 16:41 | **qwirtiksss**: Golden Bone | **catvlq**: Christmas Pudding House |
+| 16:41 | **Soyy_Ericctrio**: Snow Monkey (MFR) | **4saulius66**: Ice Cream Hermit Crab (MFR), Ride-A-Pet Potion |
+| 16:41 | **v1rulence**: Harp Seal (MR), Unicorn Horn, Sugar Glider (R) | **OG_Kylen44840**: Chocolate Chip Bat Dragon (FR) |
+| 16:41 | **florence_23111**: Unfortunate Eyelashes, Ice Cream Heels | **REBEKA_5176**: Alien Eyes Hat |
+| 16:41 | **VLADkAURAINDOV**: Ride-A-Pet Potion ×3, Hare (R), Turtle (R), Sushi Penguin | **Polinrebhe**: Fairy Bat Dragon (FR) |
+| 16:41 | **12kyanni12k**: Dango Penguins (MFR), Canadian Goose (MFR) | **Dollxcod**: Red Dutch Guinea Pig (MFR) |
+| 16:41 | **Horse_LoveKsk**: Cow (FR), Kangaroo (FR), Shark Puppy (FR), Nessie (R) | **Sydrexus**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion |
+| 16:41 | **Veraca2900**: Fly-A-Pet Potion ×8, Yule Log Dog | **51lly_Skyl1ghtz**: Copycat (N) |
+| 16:41 | **Kenzie_kenz140**: Copycat | **oeoifdolk**: Cerberus (R) ×3, Cerberus (FR) |
+| 16:41 | **chapa4ka579**: Glyptodon ×8 | **WintErSnowy1**: Fly-A-Pet Potion |
+| 16:41 | **xmarlarx**: Cabbit (FR), Fly-A-Pet Potion ×2 | **Siuyuiq654**: Goose (FR) |
+| 16:41 | **Crystalpastel17**: Chocolate Chip Bat Dragon (FR), Kangaroo (FR) | **vasilii6752**: Cryptid (FR) |
+| 16:41 | **Xwixx1obv**: Catte (MFR) | **By_millsjos**: Pancake Stack, Banana Hat, Peachick (NR), Aviator Hat, Kappakid (NR), Tuxedo Cat (N), Fly-A-Pet Potion ×3, Gecko (N), Pupcicle |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
