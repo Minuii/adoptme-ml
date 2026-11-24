@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 19:31 UTC by the scrape workflow._
+_Updated 2026-11-24 19:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 19:31 UTC by the scrape workflow._
 | amvgg | 14 | 41,808 | 2026-11-24T19:30 |
 | elve | 14 | 8,543 | 2026-11-24T19:31 |
 
-## AMVGG completed trades: 60,790 total
+## AMVGG completed trades: 60,851 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,128 |
+| 2026-11-24 | 3,189 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 19:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:30 | **XxOmgItsFrankie**: Mini Pig (MFR), Frost Unicorn (MFR) | **jacobsocool022**: Balloon Unicorn (NFR), Strawberry Shortcake Bat Dragon Backpack, Candicorn |
-| 19:30 | **sweetbwunnii**: Pink Dog (M) | **DylanNeon233227**: Donkey (M) |
-| 19:30 | **skyeeviex**: Frost Dragon (FR), Goose (NFR), Goose (FR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Peppermint Penguin (NR), Border Collie (NFR), Cow, Tortuga de la Isla (NFR), Arctic Reindeer (FR), Lion Cub (NR) | **regalarmealgo12**: Bat Dragon (FR) |
-| 19:25 | **TheEerthh**: Crystal Egg ×7 | **Cluvdi4**: Pain au Chat |
-| 19:25 | **Livxhze**: Pig (R) | **cwstza**: Moonbeam Butterfly (NFR), Ride-A-Pet Potion |
-| 19:25 | **XALEXX30005**: Crystal Egg ×17 | **Giulia_SatoruPs4**: Ride-A-Pet Potion |
-| 19:25 | **avokado78o**: Shoebill (M), Sloth (R), King Bee (R) | **Mr_iziponik**: Ride-A-Pet Potion ×2 |
-| 19:25 | **avokado78o**: Tree Frog (M), Mummy Spider (M), Blue Betta Fish, Skelicorn | **Mr_iziponik**: Fly-A-Pet Potion |
-| 19:25 | **vioIetinthesun**: Ride-A-Pet Potion | **XALEXX30005**: Crystal Egg ×18 |
-| 19:25 | **kourabies31415**: Ride-A-Pet Potion ×17 | **carlkilling**: Kangaroo (FR) |
-| 19:25 | **snupiez30**: Balloon Unicorn (NFR) | **Xxcoralia_omgxX**:  |
-| 19:25 | **pdoxoijj**: Haetae (FR), Cow (FR) | **2boots20**: Parrot (FR) |
-| 19:25 | **princess2016pony**: Cow (MFR), Dango Penguins (MFR) ×2, Hare (MFR), Cerberus (MFR), Panda (MFR), Water Rabbit (MFR), Chihuahua (MFR), Arctic Reindeer (FR), Maine Coon (MFR), Owl (FR), Chocolate Chip Bat Dragon (FR), Sugar Glider (FR), Hamster (MFR) | **ll_90dfhj**: Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 19:25 | **cutesyiza**: Field Mouse (MFR), Wildfire Hawk ×4 | **fluffyunicorns_932**: Cheetah (MFR), Royal Corgi (MFR) |
-| 19:25 | **fwaiza**: Retired Egg ×18 | **OwO_5002**: Sandbox Island |
+| 19:40 | **yiiiiiiiiiiboooop**: Phoenix (MFR) | **nalu101008**: Kitty Biscuit ×18 |
+| 19:40 | **roseboba124**: Cake Friend (N) | **adoptmesuchti1707**: Dango Penguins |
+| 19:40 | **charniiiq**: Ride-A-Pet Potion | **Hahahjajajo**: Strawberry Hat |
+| 19:40 | **reaInyancat**: Spring Bunny Nose | **xhvz_m**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 19:40 | **amelikaww**: Fly-A-Pet Potion ×2 | **FIRSTGERA**: Glormy Leo (R) |
+| 19:40 | **Kamelia07125**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Mcdonaldsofaustralia**: Arctic Reindeer (FR) |
+| 19:40 | **sukiwuk1**: Fly-A-Pet Potion | **ii_AceKun**: Pet Handler Pro Certificate |
+| 19:40 | **youchi_nagi**: Mini Pig (FR) | **diiv_iine**: Ice Golem (MFR) |
+| 19:40 | **AngelsHarxx_Lilyluvz**: Strawberry Tortle (NFR) | **Orchid62311**: Nessie (MFR) |
+| 19:40 | **noahiix5**: Diamond Hamster (R), Diamond Hamster ×2, Wood Pigeon, Fly-A-Pet Potion, Ride-A-Pet Potion | **Froggyblossom90**: Toasty Red Panda (MFR) |
+| 19:40 | **wakeupbrighteyes**: Chihuahua (MFR), Ride-A-Pet Potion ×2 | **Gabriele143love**: Moose Calf (NR) |
+| 19:40 | **alexicupcake7**: Flaming Zebra (MR) | **MyMelody8992**: Chocolate Dutch Guinea Pig, Unicorn, Pirate Hermit Crab, Moon Rabbit ×3, Emberlight, Momma Moose, Vermilion Butterfly, Clementine Owl, Flaming Zebra, Steppe Lion ×2, Love Bird, Ibex, Trapdoor Snail, Mecha R4BBIT, Mr. Whiskerpips |
+| 19:40 | **horimiyaa_13**: Red Sand Dollar, Ermine (N), Pain au Chat | **dasha_123qwr**: Fly-A-Pet Potion |
+| 19:40 | **Vikitoria19590**: Fly-A-Pet Potion ×2 | **misswoodhouseyear1**: Lynx (NFR) |
+| 19:36 | **FidelityGamer**: Haetae (FR) | **2boots20**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
