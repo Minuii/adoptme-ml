@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 01:46 UTC by the scrape workflow._
+_Updated 2026-11-24 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 01:46 UTC by the scrape workflow._
 | amvgg | 14 | 25,223 | 2026-11-24T01:45 |
 | elve | 14 | 5,109 | 2026-11-24T01:46 |
 
-## AMVGG completed trades: 57,937 total
+## AMVGG completed trades: 57,954 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 275 |
+| 2026-11-24 | 292 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 01:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:45 | **1Biahsz_altx**: Ride-A-Pet Potion | **soisomin**: Irish Setter (M) |
-| 01:45 | **AMINO4KA7U**: Flaming Fox (R) | **Snoxs545**: Binturong (R), Count Slothula (R) |
-| 01:45 | **szoozin**: Candyfloss Mega Neon Paint, Rose Quartz Glow Mega Neon Paint, Amethyst Skies Mega Neon Paint, Paint Sealer ×5, Count Slothula | **minion_310xd**: Moon Rabbit (N) |
-| 01:40 | **reaInyancat**: Ice Cream Stroller | **Stormy_303**: Ride-A-Pet Potion |
-| 01:40 | **Babyofy5**: Fly-A-Pet Potion | **Rubberduckington1103**: Bee ×2, Indian Leopard ×2, Dilophosaurus, Black Kite, Praying Mantis, Australian Kelpie, King Penguin, Tan Chow-Chow, Electric Hornet, Arctic Tern ×2, Cattuccino, Purrowl, Lunar Ox, Woodpecker, Old King Coal |
-| 01:40 | **iiStxberryMilkx**: Crow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 | **flex0mp**: Chocolate Chip Bat Dragon (NFR) |
-| 01:40 | **ANNrocks15**: Chocolate Dutch Guinea Pig, Fly-A-Pet Potion, Ride-A-Pet Potion | **minismudgepanda**: Spring Bunny Hood |
-| 01:40 | **reaInyancat**: Ice Cream Cone Hat | **BR4Y4N1027**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 01:40 | **sar1ahkn1ght**: Matcha Cat (MFR), Cryptid (N) | **Marilynbrandt662**: Mini Pig (MFR) |
-| 01:40 | **Ivannarblox**: Mermicorn (MFR) | **hipnotizwd**: Dango Penguins (MFR) ×5 |
-| 01:40 | **KennedyHilfiger**: Pupcake ×3, Ride-A-Pet Potion ×3 | **Luxuriousnights**: Spring Bunny Hood |
-| 01:40 | **q_culvs**: Silly Duck (MFR), Chocolate Dutch Guinea Pig (MFR), Shark (MFR) | **lelesayuru**: Winged Horse (MFR), Snow Owl (MFR), Leopard Shark (MFR), Unicorn (MFR), Shiver Wolf (MFR) |
-| 01:40 | **Lingling111206**: S'mores Raccoon (MR), Frostbite Cub (MFR), Great Pyrenees (M), Cake Friend (M), Burger Bear (MFR), Therapy Dog (MFR) | **abdoosaad**: Dragonfruit Fox (MFR), Munchkin Cat (NR) |
-| 01:40 | **hellokittylover0485**: Ranger Beaver | **HELENA_GUEMER12494**: Cauldron Stroller |
-| 01:40 | **PaintingRainbows221**: Tanuki ×2, Purrowl ×2, Marabou Stork, Electric Hornet, Fire Mare, Dire Wolf ×2 | **Aslie_17**: Ride-A-Pet Potion |
+| 01:55 | **pedrobeteir0**: Frost Dragon (FR), Owl (FR), Crow (FR), Parrot (FR) ×2, Turtle (NFR), Elephant (R) | **AsherHawkBlast2015**: Crow (MFR) |
+| 01:55 | **AlphaTaToxicv1047**: Kangaroo (FR) | **heavsns**: 2022 Birthday Cupcake Shoes |
+| 01:55 | **elproXD_7v7**: Pain au Chat ×3 | **PIasticTree**: Ride-A-Pet Potion |
+| 01:55 | **REALjaylarp**: Paint Sealer ×14 | **anicyhot**: Ride-A-Pet Potion |
+| 01:55 | **Kandy_lover2009**: Bush Elephant (MFR), Alpaca, Goose (FR), Hot Doggo (R), Peppermint Penguin, Cherry-On-Top | **LovelyGirl23033**: Mini Pig (MFR) |
+| 01:55 | **adoptmeloverdude13**: Undead Jousting Horse (FR) | **Mjplayz_am**: Monkey King (R) |
+| 01:51 | **arturo7pose12345**: Kiwi Kiwi ×18 | **batton0955**: Ride-A-Pet Potion ×10 |
+| 01:51 | **batton0955**: Ride-A-Pet Potion | **theyluvmel_33**: Shih Tzu (MFR) |
+| 01:51 | **NADA_urfavgirlduh**: Goat (R) | **Esteban_robloxiano0**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Evil Rock |
+| 01:51 | **katakuri_RBL**: Goose (R), Cabbit (R), Alpaca, Ride-A-Pet Potion ×6 | **aIcremie_s**: Dalmatian (FR) |
+| 01:51 | **elproXD_7v7**: Chihuahua ×9 | **lunarodlox38**: Ride-A-Pet Potion ×3 |
+| 01:51 | **STHJOSE00**: Peppermint Penguin (NFR) | **L1zl1n_l1zer**: Peppermint Penguin (FR), Fairy Bat Dragon (NFR) |
+| 01:51 | **Angelbatista_me2**: Mini Pig (FR), Cow (FR), Shark Puppy ×2, Pig (R), Unicorn (NFR), Fly-A-Pet Potion | **lkmsdfw**: Hedgehog (FR) |
+| 01:51 | **Cloudy_xxxlex**: Peppermint Penguin | **littlefelonies**: Puffin (R), Candicorn, Dango Penguins, Ice Cream Hermit Crab, Pupcicle ×2, Pangolin ×3, Choco Penguin (MR) |
+| 01:51 | **Cloudy_xxxlex**: Count Slothula | **littlefelonies**: Chocolate Labrador ×18 |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
