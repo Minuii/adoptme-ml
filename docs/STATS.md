@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 20:25 UTC by the scrape workflow._
+_Updated 2026-11-24 20:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 20:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 42,457 | 2026-11-24T20:15 |
-| elve | 14 | 8,710 | 2026-11-24T20:15 |
+| amvgg | 14 | 42,715 | 2026-11-24T20:30 |
+| elve | 14 | 8,785 | 2026-11-24T20:31 |
 
-## AMVGG completed trades: 61,016 total
+## AMVGG completed trades: 61,020 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,354 |
+| 2026-11-24 | 3,358 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,10 @@ _Updated 2026-11-24 20:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:30 | **DES1R333333**: Ride-A-Pet Potion | **XALEXX30005**: Crystal Egg ×18 |
+| 20:30 | **Booriq**: Cabbit | **B4BY_W1NGS**: Alpaca |
+| 20:30 | **Booriq**: Cabbit (FR) | **Mcdonaldsofaustralia**: Alpaca (FR) |
+| 20:30 | **p_awth**: Cherry-On-Top, Pink Heart Glasses, Ride-A-Pet Potion | **ixqsix**: Chocolate Dutch Guinea Pig (MFR) |
 | 20:25 | **GorobetsZP**: Ride-A-Pet Potion, Tan Chow-Chow | **TeezYeez**: Rainbow Stroller |
 | 20:25 | **almighty_duckllings**: Werewolf | **Baldyellowwoman**: Blue Ringed Octopus (N), Chocolate Dutch Guinea Pig (N), Ram (N), Moon Rabbit (N) |
 | 20:25 | **Angel_020601**: Pink Butterfly Wings, Easter Egg Friends, Mule Baskets, Pink Hightops, Cheesecake Hat | **Rkuamgrh6**: Ride-A-Pet Potion |
@@ -50,10 +54,6 @@ _Updated 2026-11-24 20:25 UTC by the scrape workflow._
 | 20:25 | **Robloxiana_xxx2011**: Fly-A-Pet Potion | **jux_iess1**: Ride-A-Pet Potion, Paint Sealer ×2 |
 | 20:25 | **sasha2009190**: Water Rabbit (MR), Ride-A-Pet Potion, Flying Fairy | **Harpsealpup1**: Elephant (FR) |
 | 20:25 | **ZGraysonMaxFoxs**: Crystal Egg ×17 | **GGYHBH68**: Ride-A-Pet Potion |
-| 20:25 | **KiraChalaya**: Arctic Fox (R), Jellyfish (R), Unfortunate Eyelashes, Frankenfeline (MR) | **ash_stupidUnU**: Shark Puppy, Ice Cream Cone Hat, Sushi Penguin, Chicken Hat, Blue Cat Ear Headphones |
-| 20:25 | **rrstockxadm**: Crystal Egg ×16, Ride-A-Pet Potion | **nimalina463**: Ride-A-Pet Potion |
-| 20:25 | **lotvsec**: Neon White Scooter | **DwWsHZ_2003**: Ride-A-Pet Potion |
-| 20:25 | **aleks2u**: Owl (FR) | **Nastya_Mihalyk**: Evil Unicorn (FR) ×2, Fly-A-Pet Potion ×2, Shiba Inu (NR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
