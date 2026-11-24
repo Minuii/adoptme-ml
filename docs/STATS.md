@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 21:40 UTC by the scrape workflow._
+_Updated 2026-11-24 21:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 21:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 43,669 | 2026-11-24T21:30 |
-| elve | 14 | 8,995 | 2026-11-24T21:31 |
+| amvgg | 14 | 43,922 | 2026-11-24T21:45 |
+| elve | 14 | 9,054 | 2026-11-24T21:46 |
 
-## AMVGG completed trades: 61,282 total
+## AMVGG completed trades: 61,294 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,620 |
+| 2026-11-24 | 3,632 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 21:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:45 | **Lucifer_Kotik4**: Frostbite Bear (FR), Strawberry Penguin (R), Diamond Hummingbird | **dermo12327**: Fairy Bat Dragon (FR) |
+| 21:45 | **lynnedcool**: Mythic Egg ×3 | **abraxxee**: Gemstone Egg ×3 |
+| 21:45 | **Aldalina0**: Chihuahua (N), Chihuahua | **szoozin**: Chihuahua (NR) |
+| 21:45 | **quinniaqila**: Velociraptor (NR), Paint Sealer ×4 | **Sh1r0_23Lol**: Halloween Golden Mummy Cat (N) |
+| 21:45 | **lolllbarbzv**: Bunny Swirl (MR) | **islandicsinger**: Spring Bunny Hood, Spring Bunny Nose |
+| 21:45 | **lacandon1235**: Frost Dragon (FR), Tree Kangaroo (NFR), Strawberry Shortcake Bat Dragon Backpack | **Extraalt_forval**: Candyfloss Chick (MFR) |
+| 21:45 | **Adore_Pandaz**: Snow Monkey (FR) | **kotenokoops**: Leopard Cat (NR), Onza (NR), Cozy Mistletroll, Golden Unicorn, Humbug (N) |
+| 21:45 | **Cookie_PlaysYT3**: Munchkin Cat (MFR) | **wvuqil**: Copycat (MFR) |
+| 21:45 | **Sosoooosososs**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **robloxchanelleplus2**: Scarebear (N) |
+| 21:45 | **masterofsponges**: Fly-A-Pet Potion ×5 | **sofcheke**: Ride-A-Pet Potion ×9 |
+| 21:45 | **You_SooCringe**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion | **1mpactOO**: Cabbit (FR) |
+| 21:45 | **kuwixss**: Unicorn Horn, Spring Bunny Hood, Spring Bunny Nose, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Red Fox (N) | **6utszz**: Peppermint Penguin (R) |
 | 21:40 | **NaNa_whatsup67**: Haetae (FR), Hot Doggo (FR), Fly-A-Pet Potion | **1vkx3**: Parrot (FR) |
 | 21:40 | **eliasjosh8**: Christmas Pudding Pup (NFR) | **BriellaJazara2013**: Harp Seal (MFR) |
 | 21:40 | **zow_98alt**: Unicorn Horn, Fly-A-Pet Potion | **0BVSLUCA**: Reindeer (MFR), Nessie (FR) |
-| 21:40 | **iamamazinglalalal**: Vanilla Penguin | **beabadubiia2026amvgg**: Solar Burst Mega Neon Paint |
-| 21:40 | **souIsIostt**: Jester Dragon (NFR) | **fenekitfixismymain**: Tiny Wings, Pancake Stack |
-| 21:40 | **Antonnyalexander2009**: Pelican (MFR) | **serpentibendi**: Cow (MFR), Caterpillar (MFR) |
-| 21:40 | **Chcd_baby**: Cow (R) | **Bruh_raciiuz**: Fairy Bat Dragon (R), Chocolate Dutch Guinea Pig (NR) |
-| 21:40 | **Eugenia873**: Caterpillar (R) | **Soophiiiiiia**: Arctic Fox, Polar Bear, Blue Cat Ear Headphones, Ride-A-Pet Potion |
-| 21:40 | **nizokoOwO**: Sushi Penguin | **irishazu_2014**: Ride-A-Pet Potion |
-| 21:40 | **Adoree_nevaeh13**: Kangaroo (FR), Haetyphoon (FR), 2022 Birthday Party Hat, Ice Cream Cone Hat ×3, Pancake Stack ×2 | **serpentibendi**: Jester Dragon (MFR), Cattuccino (MFR) |
-| 21:40 | **jetedispas212**: Ice Cream Hermit Crab (FR), Brown Bear (R), Polar Bear (R), Happy Duckling (NFR), Pretty Pony (N), Latte Kitsune (FR), Fly-A-Pet Potion | **Artloverpaintlover**: Candyfloss Chick (FR) |
-| 21:40 | **AmvggPi0n41K**: Rainbow Maker, Kitty Bat (M), Siamese Cat (FR), Rain Cloud Hat, Meerkat (R) | **Artloverpaintlover**: Cryptid (FR) |
-| 21:40 | **jumex2j4**: African Wild Dog, Arctic Reindeer (N) | **sursyrzytxurzutzutz**: Frost Dragon (FR) |
-| 21:40 | **Cris2025213F**: Kitty Bat (MR), Abyssinian Cat (M), Kelp Raider (M), Arctic Hare (MR), Flying Fish (MFR), Gilded Snake (N), Fly-A-Pet Potion | **kkaatEEe2**: Copycat (NFR) |
-| 21:36 | **BINKY5085**: Goose (R) | **KayleeSt0rm147**: Christmas Egg, Ice Cream Cone Hat |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
