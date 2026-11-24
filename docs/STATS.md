@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 00:16 UTC by the scrape workflow._
+_Updated 2026-11-24 00:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 00:16 UTC by the scrape workflow._
 | amvgg | 14 | 23,663 | 2026-11-24T00:15 |
 | elve | 14 | 4,770 | 2026-11-24T00:15 |
 
-## AMVGG completed trades: 57,718 total
+## AMVGG completed trades: 57,723 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 56 |
+| 2026-11-24 | 61 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,11 @@ _Updated 2026-11-24 00:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:25 | **Stormy_303**: Toasty Red Panda | **evokedcurse**: Pain au Chat |
+| 00:25 | **miss_lpb31**: Snowball Pet (MR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Kui_Yeager**: S'mores Raccoon (MFR) |
+| 00:25 | **vertaocsi**: Cow (FR), Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×7 | **QueenVfFlamec91**: Strawberry Shortcake Bat Dragon (FR) |
+| 00:25 | **Kozinak_k**: Cow (FR), Turtle (FR) ×3, Turtle, Sugar Glider (R) | **Flutterieshyy**: Crow (FR) |
+| 00:25 | **CookieFanOona**: African Wild Dog (FR), Flaming Fox (NFR) | **jayjay080309**: Balloon Unicorn (FR) |
 | 00:15 | **elpopas6**: Turtle (FR), Kangaroo (R), Elephant (R), Elephant, Border Collie (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×3 | **iaMatthieu1**: Evil Unicorn (FR) |
 | 00:15 | **iaMatthieu1**: Dalmatian (FR) | **Ggyyuhhhj**: Arctic Reindeer (FR), Ice Cream Cone Hat, Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×6 |
 | 00:15 | **Contingency_Queen645**: Sea Slug (MFR), Munchkin Cat (MFR), Alley Cat (M), Kangaroo (FR), S'mores Raccoon (MFR), Puptune (MFR), Green Amazon (MFR), Strawberry Tortle, Halloween White Skeleton Dog (MR), Blue Ringed Octopus (MFR) | **Depondip**: Mini Pig (MFR) |
@@ -49,11 +54,6 @@ _Updated 2026-11-24 00:16 UTC by the scrape workflow._
 | 00:11 | **rainthatxx**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **aleks2u**: Cupid Dragon (FR) |
 | 00:11 | **ADOPTME_TRADE596**: Christmas Pudding Pup (MFR) | **TANSKlN**: Nessie (MFR) |
 | 00:11 | **iluv27backflip**: Christmas Pudding Pup | **playerbunbready**: Ride-A-Pet Potion ×6 |
-| 00:11 | **Reubz_z**: Unicorn, Shadow Dragon Ducky (NFR) | **Adore_Pandaz**: Dragonfruit Fox |
-| 00:11 | **RealKrispyKris**: Frost Dragon (MFR) | **Shadx_1553**: Giraffe (NFR), Owl (NFR) |
-| 00:11 | **realbritt5**: Mr. Whiskerpips | **Black_rain246**: Pupcake |
-| 00:11 | **coolguy192459**: Strawberry Shortcake Bat Dragon (FR) | **QueenVfFlamec91**: Cow (NFR) |
-| 00:11 | **Brian_Fayx**: Goose (FR) | **MakiraLive**: Fly-A-Pet Potion ×17 |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
