@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 04:46 UTC by the scrape workflow._
+_Updated 2026-11-24 04:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 04:46 UTC by the scrape workflow._
 | amvgg | 14 | 28,050 | 2026-11-24T04:45 |
 | elve | 14 | 5,626 | 2026-11-24T04:46 |
 
-## AMVGG completed trades: 58,350 total
+## AMVGG completed trades: 58,362 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 688 |
+| 2026-11-24 | 700 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 04:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:55 | **6kenziee**: Pupcake (N) | **0NekimNick0**: Fly-A-Pet Potion |
+| 04:55 | **Shiky388**: Ride-A-Pet Potion ×2 | **archi_chozza**: Dire Wolf (M) |
+| 04:55 | **Diamondpanda_2009**: Siamese Cat (MFR), 2022 Birthday Party Horn | **Addmymainpls2332**: Giant Anteater (MFR), Tiny Wings |
+| 04:55 | **Yukiscupcake**: Turtle (NFR) | **UnknownRace1332**: Glormy Hound (MFR), T-Rex (NR), Cuddly Candle (NR), Turtle Doves (MR), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion, Mrs. Whiskerpips (M) |
+| 04:55 | **Btstvdyndynfy9**: Shark Puppy (MFR), 2022 Birthday Cupcake Shoes | **Auds191102**: Balloon Unicorn (FR) |
+| 04:55 | **Mikaylamareex**: Goldhorn (NR) | **Faefaeplays01**: Reindeer (FR) |
+| 04:55 | **sleepykimis**: Copycat (MFR), Hamster (N), Spring Bunny Feet | **Mandydacutie**: Christmas Pudding Pup (MFR) |
+| 04:55 | **SANANELANISMIMDEN_LA**: Turtle (FR) | **J4YNEES**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×6 |
+| 04:55 | **jakii_030**: Fly-A-Pet Potion | **DefinitelyNotCha6**: Stripes Egg ×3, Patterns Egg ×4, Stars Egg ×2 |
+| 04:55 | **Viphiel**: Copter Hat | **jellofox2009**: Paint Sealer ×18 |
+| 04:55 | **BellaxDerp**: Tri-horned Treehopper (N) | **Samir_1782**: Alpaca (R), Ride-A-Pet Potion |
+| 04:55 | **LoveRancee**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (F) | **goblincore_emor**: Arctic Reindeer (FR), Fairy Bat Dragon (FR), Siamese Cat (FR), Silly Duck (NFR), Polar Bear (R) |
 | 04:45 | **superheror125**: Zombie Wolf (MR), Shadow Dragon Ducky (M), Fly-A-Pet Potion, Floating Hand Stroller | **GrindAccount_N1**: Chicken, Ram, Capybara, Sea Angel (N), Drake, Black Panther, Brown Bear, Polar Bear (R), Hyena, Swan, Rhino, Platypus, Reindeer, Turkey, Wild Boar, Emperor Shrimp (N), Hermit Crab (N), Silly Duck |
 | 04:45 | **Ethernaces**: Crystal Egg ×15 | **Stella_Vortex**: Ride-A-Pet Potion |
 | 04:45 | **archi_chozza**: Dire Wolf (M) | **J4YNEES**: Ride-A-Pet Potion ×2 |
-| 04:45 | **boundedmoney**: Angel Wings, Ram (MFR) | **kaylamicmi**: Dango Penguins (MFR) |
-| 04:40 | **191919y2**: Jacobin Pigeon (M), Rattlesnake (N), Red Panda (N) | **altaccount02037**: Ride-A-Pet Potion |
-| 04:40 | **kaitlyn_trades**: Admin Abuse Box ×6, Fairytale Egg | **rainbow72679**: Retired Egg ×9 |
-| 04:40 | **67_master67676721**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Iaaysx**: Christmas Pudding Pup |
-| 04:40 | **s1ltn0w**: Caterpillar (MFR) ×2, Bush Elephant (MFR), Candyfloss Chick (MFR), Goose (MFR), Kookaburra (MFR) | **pwrecioushweart**: Frost Dragon (MFR) |
-| 04:36 | **M4NDY822**: Kiwi Kiwi | **ITSMECINNAADDMEBACKK**: Gold Fairy Crown |
-| 04:36 | **Ebanko_rblx**: Ride-A-Pet Potion ×4 | **lsagifanboy**: Latte Kitsune ×2 |
-| 04:36 | **maha_kohka56**: Siamese Cat (N), Sugar Glider (FR) | **xR0S4Xx**: Arctic Reindeer (FR) |
-| 04:36 | **WorldWar2Bomb**: Ride-A-Pet Potion ×5 | **ItzLaylasWorld**: Ice Cream Cone Hat |
-| 04:36 | **nightgamerz101**: Chocolate Dutch Guinea Pig | **KATANA_R0SE**: Ride-A-Pet Potion |
-| 04:36 | **Lefty43434**: Arctic Reindeer (NFR), Frost Unicorn (FR) | **TMDung20**: Parrot (FR) |
-| 04:36 | **ypeixoto_00**: Dire Wolf (M) ×5 | **archi_chozza**: Pet Handler Pro Certificate ×5 |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
