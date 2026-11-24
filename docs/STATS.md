@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 01:11 UTC by the scrape workflow._
+_Updated 2026-11-24 01:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 01:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 24,463 | 2026-11-24T01:00 |
-| elve | 14 | 4,974 | 2026-11-24T01:01 |
+| amvgg | 14 | 24,719 | 2026-11-24T01:15 |
+| elve | 14 | 5,002 | 2026-11-24T01:15 |
 
-## AMVGG completed trades: 57,866 total
+## AMVGG completed trades: 57,871 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 204 |
+| 2026-11-24 | 209 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,11 @@ _Updated 2026-11-24 01:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:15 | **prokilers7**: Shadow Dragon (FR) | **amvggaltaccxox**: Monkey King (MFR), Cow (FR) ×2, Strawberry Shortcake Bat Dragon (FR) |
+| 01:15 | **jetedispas212**: Pink Betta Fish (MFR) | **J4YNEES**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 01:15 | **AsherHawkBlast2015**: Cake Friend (MR), Blue Ringed Octopus (MFR) | **OL1YSGL4M**: Turtle (FR) |
+| 01:15 | **OliviaOmega58**: Honey Badger (R) | **awntza**: Honey Badger |
+| 01:15 | **Lunathegreek**: Ride-A-Pet Potion | **sanaapea**: Jumpscare (M) |
 | 01:10 | **krxadm3**: Crystal Egg ×17 | **111ary111**: Ride-A-Pet Potion |
 | 01:10 | **cyptiaI**: Kangaroo (FR), Fly-A-Pet Potion ×2 | **QueenVfFlamec91**: Turtle (FR) |
 | 01:10 | **earth2starnyy**: Jester Dragon (N), Sushi Penguin (MFR) | **NOBIIIEEE11**: Cow (FR) |
@@ -49,11 +54,6 @@ _Updated 2026-11-24 01:11 UTC by the scrape workflow._
 | 01:10 | **fairyqxfaee**: Lion Cub (R) | **Wockillzzz2**: Ride-A-Pet Potion ×6 |
 | 01:10 | **VON_200977**: Turtle (R) | **I_KermitDEATH**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion ×3 |
 | 01:10 | **krxadm3**: Crystal Egg ×17, Ride-A-Pet Potion | **Pia_ditzon**: Ride-A-Pet Potion |
-| 01:10 | **Hirohitoh3**: Pterodactyl (MF), Pain au Chat (M), Merhorse (MF) ×2 | **AutoTradeCommission**: Kangaroo (FR) |
-| 01:10 | **therookiefan_22**: Ride-A-Pet Potion | **SweetieFoxReaI**: Chihuahua, Pupcicle |
-| 01:10 | **Krvsvha**: Cow (R), Turtle (FR), Kangaroo (FR) | **AutoTradeCommission**: Arctic Reindeer (FR) |
-| 01:10 | **AutoTradeCommission**: Pet Handler Pro Certificate ×8, Ride-A-Pet Potion ×7 | **carolzinhac2009**: Turtle (FR) |
-| 01:10 | **cyptiaI**: White Chef Hat | **Tr0ubledD0ll**: Unfortunate Eyelashes |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
