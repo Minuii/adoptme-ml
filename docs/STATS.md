@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 11:55 UTC by the scrape workflow._
+_Updated 2026-11-24 12:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 11:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 34,418 | 2026-11-24T11:45 |
-| elve | 14 | 6,778 | 2026-11-24T11:46 |
+| amvgg | 14 | 34,637 | 2026-11-24T12:00 |
+| elve | 14 | 6,821 | 2026-11-24T12:01 |
 
-## AMVGG completed trades: 59,155 total
+## AMVGG completed trades: 59,158 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,493 |
+| 2026-11-24 | 1,496 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,9 @@ _Updated 2026-11-24 11:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:00 | **Vitamirka**: Kiwi Kiwi ×2 | **Callme_Mary45**: Ride-A-Pet Potion |
+| 12:00 | **Ds_MUVE**: Amethyst Skies Mega Neon Paint, Polar Bear Plush, Discosplosion, Candle | **endercreeper5395**: Fly-A-Pet Potion |
+| 12:00 | **666StarMoon999**: Lunar White Tiger | **flqraaa06**: Christmas Pudding House |
 | 11:55 | **akhikic**: Parrot (NFR), Frost Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **MallyaFFka**: Crow (NFR), Balloon Unicorn (FR), Cabbit (NFR), Turtle (FR), Kangaroo (FR) |
 | 11:55 | **MM_Cloud**: Crystal Egg ×18 | **Aslie_17**: Ride-A-Pet Potion |
 | 11:55 | **VrittiMahindru**: Unicorn Horn | **UltttraHamsterGang**: Candyfloss Chick (FR) |
@@ -51,9 +54,6 @@ _Updated 2026-11-24 11:55 UTC by the scrape workflow._
 | 11:51 | **tired_ooflifenumb**: Dire Wolf (M) | **instaSamkaV**: Ride-A-Pet Potion ×3 |
 | 11:51 | **NotSoAfraid**: Latte Kitsune (R), Floral Eggy | **yeuksyrudtry56**: Hare |
 | 11:51 | **aydachan200311**: Ride-A-Pet Potion ×7 | **Manggo_Pie40**: Fly-A-Pet Potion ×4 |
-| 11:51 | **Sk4tesItsAriaBlox**: Count Slothula ×3 | **Amy_baum0nice3**: Pet Handler Pro Certificate |
-| 11:51 | **Majdfjfgxf**: Skelicorn (N), Zodiac Minion Chick (R) | **Hey_Dant123**: Ride-A-Pet Potion |
-| 11:51 | **AsianIceCold**: Chihuahua ×2, Corgi, Red Panda ×3 | **eva_rokstar0**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
