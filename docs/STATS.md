@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 17:55 UTC by the scrape workflow._
+_Updated 2026-11-24 18:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 17:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 40,124 | 2026-11-24T17:45 |
-| elve | 14 | 8,183 | 2026-11-24T17:46 |
+| amvgg | 14 | 40,365 | 2026-11-24T18:00 |
+| elve | 14 | 8,258 | 2026-11-24T18:01 |
 
-## AMVGG completed trades: 60,419 total
+## AMVGG completed trades: 60,446 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,757 |
+| 2026-11-24 | 2,784 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 17:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:55 | **tradingg_account**: Turtle (FR), Mini Pig (R), Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **yeetimaheadout7**: Copycat (MFR) |
-| 17:55 | **Roby_SoulShinexX**: Dalmatian (FR), Flamingo (NFR), Cow (FR), Black Springer Spaniel (MFR) | **akzoad**: Owl (FR) |
-| 17:55 | **cxbvnniz**: Rain Cloud Hat, 2022 Birthday Party Hat, Catte (MFR), Cattuccino (MFR), Pain au Chat (MFR), Fly-A-Pet Potion | **yeetimaheadout7**: Fallow Deer (M) |
-| 17:55 | **lindaberdo**: Dragon | **chiefkeezzf**: Winter Fawn |
-| 17:55 | **ALTACCOUNT1333475**: Frost Fury (NFR), Siamese Cat (FR) | **Zhackpogi**: Cow (FR) |
-| 17:55 | **oooopppppaad**: Giant Panda (FR) | **BhaabieeRaaii**: African Wild Dog (FR) |
-| 17:55 | **athena_cheka**: Red Dutch Guinea Pig (MFR), Husky (MFR), Harp Seal (MFR), Spring Bunny Nose, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **pommes4289**: African Wild Dog |
-| 17:55 | **anihao17**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **QueenVfFlamec91**: Cow (FR) |
-| 17:55 | **AdoptMeHere03**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion | **vxzzz632**: English Sheepdog (MFR) |
-| 17:55 | **mellqxxrb**: Bobageist (M) | **xjamiebond**: Ride-A-Pet Potion |
-| 17:55 | **AltForAmvggXD**: Cow (FR) ×2, Cattuccino (N) | **AubreyHunter721**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:55 | **Micx_ss**: 2022 Birthday Confetti Cannon, Chihuahua (M), Villain Gibbon (M), Blue Cat Ear Headphones, Gorilla (M), Scarecrow Crow (N) | **nzemniece1**: Irish Water Spaniel (N) |
-| 17:55 | **Vixinnty**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Elf Hat | **mapiwvsv**: Shiver Wolf (MR) |
-| 17:55 | **x7qir**: Goose | **Esikiiomuru**: Peppermint Penguin (R) |
-| 17:55 | **Anelchik_i**: Peppermint Penguin (NFR), Candicorn (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **akzoad**: Parrot (FR) |
+| 18:00 | **BhaabieeRaaii**: Giant Panda (R) | **PapiTense**: Tio De Nadal (NFR), Dango Penguins (MFR), Aurora Fox (NR) |
+| 18:00 | **qwxgwx**: Kangaroo (NFR) ×2 | **naysa72**: Strawberry Shortcake Bat Dragon (FR) |
+| 18:00 | **IWantofFeelAlive**: Matcha Cat ×3, Fly-A-Pet Potion | **9vvdx**: 2022 Birthday Party Hat |
+| 18:00 | **chapa4ka579**: Glyptodon ×4 | **fujiappleluvzz**: Ride-A-Pet Potion |
+| 18:00 | **Tiddlechip**: Ride-A-Pet Potion ×3 | **prittiEmEm**: Borhyaena Gigantica (MFR) |
+| 18:00 | **belltiny**: Pet Handler Pro Certificate, Triple Stroller | **Remonaplo**: Schoolhouse Home |
+| 18:00 | **ljwempire777**: Honey Badger (MFR), Golden Walrus (MFR) | **roblox_user_8676283275**: Lion Cub (MFR) |
+| 18:00 | **hhhauntedddd**: Roadrunner (N), King Penguin (N), Toucan (NF) | **fujiappleluvzz**: Ride-A-Pet Potion ×2 |
+| 18:00 | **Par_acetamoll**: Golden Dragon (R), Sloth (R) | **HOCOKKU**: Ride-A-Pet Potion |
+| 18:00 | **glorpingstinky**: Hyena (R), Dango Penguins, Snowball Pet (NR), Royal Palace Spaniel (N) | **obv1ale2012**: Majestic Pony (NFR) |
+| 18:00 | **shatasha31**: 2022 Birthday Cake ×2, Chihuahua (MFR), Unicorn Horn ×2, Toaster Hat, Tiny Wings, Spring Bunny Hood, 2022 Birthday Party Horn, 2022 Birthday Confetti Cannon, Cattuccino (M), Spring Bunny Feet | **lol_whateverx67hsk81**: Balloon Unicorn (FR) |
+| 18:00 | **Robloxian613444997**: Badger, Starfish | **teddycutie7**: Crimson Cape |
+| 18:00 | **Dora_MS1**: Cow (R), Kangaroo (NFR) | **jebiilerium**: Chocolate Chip Bat Dragon (FR) |
+| 18:00 | **d4rlingjazzy**: Owlbear (R), Latte Kitsune (R), Fleur De Ice (NR), Ribbon Seal (MFR) | **AdoptMe_noob087**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×7 |
+| 18:00 | **Lxdyxx**: Ride-A-Pet Potion, Ms. Muffet (M) | **roronoazoro1gg**: Pink Heart Glasses |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
