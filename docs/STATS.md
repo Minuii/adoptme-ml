@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 00:46 UTC by the scrape workflow._
+_Updated 2026-11-24 00:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 00:46 UTC by the scrape workflow._
 | amvgg | 14 | 24,187 | 2026-11-24T00:45 |
 | elve | 14 | 4,913 | 2026-11-24T00:46 |
 
-## AMVGG completed trades: 57,780 total
+## AMVGG completed trades: 57,836 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 118 |
+| 2026-11-24 | 174 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 00:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:40 | **XYoureaDISGRACE**: Black Springer Spaniel (MFR), Cockroach (M), Picnic Basket ×2 | **Princessrubyrose6**: Ghost Bunny (MFR) |
-| 00:40 | **gh0steddsoull**: Siamese Cat, Ride-A-Pet Potion ×13 | **iaMatthieu1**: Cow (FR) |
-| 00:40 | **krxadm3**: Crystal Egg ×16, Ride-A-Pet Potion | **wjsjdgbdjdjf**: Ride-A-Pet Potion |
-| 00:40 | **rainbow192287**: Corn Doggo, Nautilus, Clownfish, Seagull, Fennec Fox (N) | **diiorrvi**: Ride-A-Pet Potion ×2 |
-| 00:40 | **Le_Mew0**: Sakura Spirit, Jester Dragon, Lava Dragon (F), Mochi Meow (M), Royal Mistletroll (FR), Kitty Bat (M), Pink Egg, Moonbeam Peacock | **L4dyBrav3DollphinRBL**: Haetyphoon (N), Flash Weasel (N) |
-| 00:40 | **Eddensss**: Giraffe (FR), Turkey (R), Sea Skeleton Panda (M), Bee (M), Hermit Crab (M) | **joeyharri12**: Arctic Reindeer (MFR) |
-| 00:40 | **oDonnY_o**: Ride-A-Pet Potion | **sanaapea**: Sea Turtle |
-| 00:40 | **abdoosaad**: Unicorn Horn | **IloveFrillish**: Ermine (MFR), Winter Buck (NFR), Kid Goat (MFR), Sunglider (NFR), Icy Porcupine (MR), Candy Cane Snail (NR), Skelicorn (NFR), Dragonfruit Fox |
-| 00:40 | **jojamojap**: Cow, Pancake Stack, Classic Trade Stand, Heart Balloon | **deltatheranga**: Siamese Cat, Kangaroo |
-| 00:40 | **IIuvbr**: Cake Friend (MFR), Burger Bear (MFR), Pain au Chat (MFR), Chihuahua (MFR) | **abdoosaad**: Dragonfruit Fox (MFR) |
-| 00:40 | **0MGITSADD1E**: Ballet Swan (MR), Candicorn, Tri-horned Treehopper, Sugar Axolotl | **hanb3ki**: Amethyst Penguin (FR) |
-| 00:40 | **bbkxrby**: Chocolate Dutch Guinea Pig (MFR), Cabbit (FR), Harp Seal (MFR), Ice Cream Hermit Crab (MFR), Kangaroo (FR) ×2, Rain Cloud Hat, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **1lydanielcaesar**: Border Collie (MFR) |
-| 00:40 | **rrstockxadm67**: Crystal Egg ×17 | **0tohedgehog**: Ride-A-Pet Potion |
-| 00:40 | **karasikshop_20028**: Ride-A-Pet Potion | **rrstockxadm67**: Crystal Egg ×17 |
-| 00:40 | **rrstockxadm67**: Crystal Egg ×17 | **Navilolp**: Ride-A-Pet Potion |
+| 00:55 | **serspect**: Diamond Unicorn, Ginger Cat (N), Chanekeh (N), Angus Cow (N), Grinmoire (N) | **tigersx_o**: Ride-A-Pet Potion |
+| 00:55 | **Xz_CodeOLDriftdLBliz**: Ride-A-Pet Potion ×8, Haetyphoon, Golden Hamster (R), General Sheepdog (N), Spring Bunny Nose, Spring Bunny Feet, Fly-A-Pet Potion, Thinking Hat | **Cat_gun18**: Strawberry Tortle (R) |
+| 00:55 | **Ashleyisforyou_123**: Frost Dragon (NFR) | **RealKrispyKris**: Giraffe (FR), Evil Unicorn (FR) |
+| 00:55 | **OBVIXALIX**: Cupid Dragon (MFR) | **bypalmas**: Sheeeeep (MFR) |
+| 00:55 | **XTREYT**: Leopard Shark, Mini Schnauzer, Swan | **zzsegundozz**: Spring Bunny Hood |
+| 00:55 | **emz_82**: Mini Pig (R) | **awita_92729**: Giant Anteater (NFR) |
+| 00:55 | **diiorrvi**: Ride-A-Pet Potion ×2 | **valentinaajuwu**: Rainbow Stroller |
+| 00:55 | **zzz1msleepy**: Tan Chow-Chow (M) | **xxpeachyxx82**: Ride-A-Pet Potion ×3 |
+| 00:55 | **lollipopleah7861**: Strawberry Tortle (FR) | **0zxphx**: Chef Gorilla (MFR) |
+| 00:55 | **VintageMaxx**: Ride-A-Pet Potion ×2 | **Dinkarrt**: Pet Handler Pro Certificate |
+| 00:55 | **evvelxy**: Llama | **aloiv484**: Ride-A-Pet Potion ×2 |
+| 00:55 | **Sherine_0807**: Moon Rabbit, Prism Snake, Black Moon Bear, Praying Mantis | **dahoody2k3**: Butter Knife |
+| 00:55 | **whimsyyblues**: Goose (FR) | **YourfriendAnisha**: Giant Anteater (NFR) |
+| 00:55 | **kaylamicmi**: Jester Dragon (MFR) | **cvbnmjuyghuu**: Dango Penguins (MFR), Dango Penguins ×2, Jellyfish (R) |
+| 00:55 | **Agnes_Tachyon20077**: Pet Handler Pro Certificate, King Bee (R), Diamond Ladybug (R), Golden Lettuce, Chihuahua (N) | **sammysteal6741**: Cerberus (NFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
