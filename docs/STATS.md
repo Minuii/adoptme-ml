@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 02:01 UTC by the scrape workflow._
+_Updated 2026-11-24 02:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 02:01 UTC by the scrape workflow._
 | amvgg | 14 | 25,451 | 2026-11-24T02:00 |
 | elve | 14 | 5,157 | 2026-11-24T02:01 |
 
-## AMVGG completed trades: 57,989 total
+## AMVGG completed trades: 58,000 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 327 |
+| 2026-11-24 | 338 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 02:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:11 | **OscarSantiss**: Strawberry Shortcake Bat Dragon (NFR) | **ra3czr**: Strawberry Shortcake Bat Dragon (FR) ×2, Nessie (R), Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
+| 02:11 | **aleks2u**: Alpaca (R), Frost Fury (FR), Ride-A-Pet Potion | **GalaxyCat_X5**: Cow (FR) |
+| 02:11 | **borrengenshienimpact**: Velocirooster | **Shiroo_Luvssfood**: Frost Fury |
+| 02:11 | **cxbvnniz**: Cryptid (FR) | **Addisonraeee25**: Pain au Chat (MR), Lunar Moon Bear (MFR), Frost Phoenix (NFR), Strawberry Shortcake Bat Dragon (R), Zombie Buffalo |
+| 02:11 | **Pinkmalinky123**: Chef Gorilla (MFR), Capricorn (MFR), Ice Cream Cone Hat | **jellycatmar**: Alley Cat (MFR) |
+| 02:11 | **simf4l**: Huntsman Robin, Boohoo, Strawberry Shortcake Ducky | **Milleacka_Girl**: Cattuccino |
+| 02:11 | **Rosi_oke**: Cow (FR) | **ice_ido**: Cabbit (FR) |
+| 02:11 | **Rosi_oke**: Turtle (NFR), Fly-A-Pet Potion ×2 | **sweetn6thing**: Blue Dog (NFR) |
+| 02:11 | **q_culvs**: Ram (MFR) | **elffycomb361112**: Vanilla Penguin (MFR) |
+| 02:11 | **q_culvs**: Moon Rabbit (MFR), Ride-A-Pet Potion | **Eugenia873**: Yeti (MFR) |
+| 02:11 | **cxXxgisellexX**: Arctic Fox (MFR), Rainbow Maker, Brown Bear (NFR), Bready Necklace | **sweetn6thing**: Giant Panda (FR) |
 | 02:00 | **penideater**: Goose (NFR), Cow (NFR), Cow (FR), Arctic Dusk Dragon (N) | **Summerwave2011**: Owl (FR) |
 | 02:00 | **cliuic**: Border Collie, Ride-A-Pet Potion ×2 | **ycuspamacc6**: Arctic Fox ×2 |
 | 02:00 | **CarlSimp2s**: Giant Panda (FR) ×4, Cattuccino (M), Ride-A-Pet Potion | **nerdoitdabest**: Shadow Dragon (FR) |
 | 02:00 | **0mimiberry**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **84382g**: Shrew (R) |
-| 02:00 | **boaazqx**: Field Mouse (MFR) | **erikastqrr**: Owlbear (MFR), Kiwi Kiwi (MFR) |
-| 02:00 | **Anime_Fan244298**: S'mores Raccoon (M), Flaming Fox (MFR), Turtle (FR), Hippo (M), Koi Carp (M) | **yaiols**: Groundhog (MFR) |
-| 02:00 | **Babyofy5**: Fly-A-Pet Potion | **Rubberduckington1103**: Gila Monster ×3, Kaijunior ×2, Icy Porcupine ×2, Angus Calf, Thunderfisher ×3, Moonbeam Butterfly |
-| 02:00 | **Fluffystar25719**: Winged Horse (FR), Kitty Bat (N), Leopard Cat ×3 | **Jaauhyaggyiyigqieue**: Jousting Horse (FR) |
-| 02:00 | **Chase_wm6**: Chanekeh (N), Thunderfisher (N) | **helldead123**: Christmas Pudding House |
-| 02:00 | **Ashdorae**: Chocolate Dutch Guinea Pig (MR), Fly-A-Pet Potion | **ariesdesire**: Peppermint Penguin (FR) |
-| 02:00 | **Slug013**: Siamese Cat, Rain Boots, Propeller Hat, Goth Shoes, Ice Cream Cone Hat, Pupcake (M), Jeff's Nametag | **abdoosaad**: Candicorn (NFR) |
-| 02:00 | **abdoosaad**: Cow (FR) | **fa_yp**: Goat (FR) ×2, Goat (R), Christmas Pudding Pup (R), Kookaburra (FR), Ride-A-Pet Potion |
-| 02:00 | **rrstockxadm**: Crystal Egg ×17, Ride-A-Pet Potion | **SelfL0vktwt**: Ride-A-Pet Potion |
-| 02:00 | **hdfbyx**: Bush Elephant (NFR), Munchkin Cat (R), Ride-A-Pet Potion ×2 | **AngelKattyOwO**: Cow (NFR) |
-| 02:00 | **BR4Y4N1027**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×9 | **KennedyHilfiger**: Puffer Fish (M) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
