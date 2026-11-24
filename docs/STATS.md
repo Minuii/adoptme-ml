@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 07:11 UTC by the scrape workflow._
+_Updated 2026-11-24 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 07:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 30,121 | 2026-11-24T07:00 |
-| elve | 14 | 5,988 | 2026-11-24T07:01 |
+| amvgg | 14 | 30,346 | 2026-11-24T07:15 |
+| elve | 14 | 6,021 | 2026-11-24T07:15 |
 
-## AMVGG completed trades: 58,611 total
+## AMVGG completed trades: 58,616 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 949 |
+| 2026-11-24 | 954 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,11 @@ _Updated 2026-11-24 07:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:15 | **unicorn_queen90919**: Ride-A-Pet Potion | **Lilu2383**: Drake |
+| 07:15 | **Lemony10867**: Hedgehog (FR), 2022 Birthday Party Horn | **it_isMushu**: Peppermint Penguin (NFR) |
+| 07:15 | **Tyyyyy_tyy1**: Retired Egg | **Popa67742**: Pomeranian |
+| 07:15 | **gxnvsiss_wrld**: Shark Puppy (FR), Tan Chow-Chow (MFR), Snow Owl (NFR), Punk Pony (MR) | **CELKAPOPKA**: Strawberry Tortle |
+| 07:15 | **camiilita_7w7**: Jester Dragon | **Michellemirandilla7**: Snow Monkey, Snow Monkey (R) |
 | 07:11 | **razarvale2z**: Pain au Chat ×9 | **Kitty_55511i**: Ride-A-Pet Potion ×3 |
 | 07:11 | **Junjyungg**: Mochi Meow ×18 | **yaroslavshepon**: Ride-A-Pet Potion ×2 |
 | 07:11 | **hxmun7**: Cow (FR), Pig (R) | **joresse123456**: Candicorn (NFR) |
@@ -49,11 +54,6 @@ _Updated 2026-11-24 07:11 UTC by the scrape workflow._
 | 07:11 | **itsmiacatherine**: Candicorn (NFR), Fairy Bat Dragon (FR), Copycat (FR), Copycat ×2, Unicorn Horn, 2022 Birthday Party Hat | **CloudyFalconpro4**: Haetae (FR) |
 | 07:11 | **Anxbetwen**: Golden Albatross (MFR), Hydra (MFR), Ride-A-Pet Potion | **thisismikamarlo**: Frostbite Bear (FR) |
 | 07:11 | **Coralmnm**: Ride-A-Pet Potion | **Tyyyyy_tyy1**: Christmas Pudding House |
-| 07:11 | **L_person21**: Goose (R), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion | **sheeemfffffff**: Ring-Tailed Lemur (N), Giant Anteater (R) ×2, Ring-Tailed Lemur (F) |
-| 07:06 | **Catzini_1**: Strawberry Shortcake Bat Dragon (MFR), Goose (MFR), Turtle (NFR), Chocolate Chip Bat Dragon (FR) | **IloveOwls427**: Bat Dragon (FR) |
-| 07:06 | **epicpulsechaos2024**: Dragonfly ×11 | **You_kwin666**: Ride-A-Pet Potion |
-| 07:06 | **karl_koto**: Giant Panda (NFR), Velocirooster (FR) ×2 | **Noa_N15**: Shadow Dragon (FR) |
-| 07:06 | **Car1os_xd**: Fly-A-Pet Potion | **pelotocino320jdjej**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
