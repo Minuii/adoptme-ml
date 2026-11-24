@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 05:46 UTC by the scrape workflow._
+_Updated 2026-11-24 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 05:46 UTC by the scrape workflow._
 | amvgg | 14 | 28,955 | 2026-11-24T05:45 |
 | elve | 14 | 5,785 | 2026-11-24T05:46 |
 
-## AMVGG completed trades: 58,465 total
+## AMVGG completed trades: 58,489 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 803 |
+| 2026-11-24 | 827 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 05:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:45 | **BryAMillion**: Dark Choccybunny | **MMALUMABEIBIIII**: Retired Egg ×4 |
-| 05:45 | **serpentibendi**: Haetae (FR) | **itmeaaa2321**: Turtle (FR), Candicorn (R), Tortoiseshell Guinea Pig, Pink Cat (FR) ×2, Pink Cat, Silverback Gorilla, Albino Bat (MFR), Sprout Snail (MFR), Tan Chow-Chow (MFR) |
-| 05:45 | **LilyLOLMaster1211**: Puffer Fish (MR), Alpaca (R), Ballet Swan (FR), Spring Bunny Hood, Dango Penguins, Dragonfruit Fox (R), Bunny Swirl (NR) | **Sankup928**: Chocolate Chip Bat Dragon |
-| 05:45 | **X0LuvyouX0**: Rain Cloud Hat | **Babielily1**: Tiny Wings, Spring Bunny Hood |
-| 05:45 | **EEEEEEEEZEEEEEEZEEEE**: Jester Dragon (MFR), Cow (NFR), Ring-Tailed Lemur (R), Jester Dragon (FR), Bat (MFR), Pet Handler Pro Certificate, Dire Wolf (M), Peahen | **AvaCometfish961**: Crow (FR) |
-| 05:45 | **truxalot**: Candicorn | **kreker0900**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion |
-| 05:40 | **pristinepalace**: Fly-A-Pet Potion, Ride-A-Pet Potion | **MEGAWARRIOR254**: Dango Penguins |
-| 05:40 | **vTrustedSaviour**: Chocolate Chip Bat Dragon (FR) | **zombiifangs**: Farm Egg |
-| 05:40 | **0MoonlitXMeadow0**: Hedgehog (NFR), Haetae (R), African Wild Dog (R), Fairy Bat Dragon (FR) ×4, Elephant (R) | **jW54gJY35h6pO7X9N722**: Evil Unicorn (FR), Blazing Lion (FR), Dalmatian (R), Turtle (NFR), Goose (FR), Goose (R) ×3, Cow, Turtle (FR), Cow (FR), Christmas Pudding Pup (N), Kangaroo (FR), Pet Handler Pro Certificate |
-| 05:40 | **Ritzu_CX**: Heart Plushie ×10 | **Dxv1ls_Workxr**: Dalmatian (FR) |
-| 05:40 | **Cinzsins**: Goose (NFR), Mini Pig (R) ×2, Albino Monkey (NFR), Turtle (NFR), Ride-A-Pet Potion | **0MoonlitXMeadow0**: Frost Dragon (FR) |
-| 05:40 | **dahirxdxd**: Kangaroo (FR) | **0MoonlitXMeadow0**: Ride-A-Pet Potion ×18 |
-| 05:40 | **addisynl11**: Paint Sealer ×11 | **Grandeurer13**: Solar Burst Mega Neon Paint |
-| 05:40 | **realsainnee**: Fairy Bat Dragon (NFR), Turtle (NFR), Kangaroo (NFR) ×2 | **bermido80**: Parrot (FR) |
-| 05:40 | **hubaks_02**: Eel (M) ×10 | **mrs_Belut**: Turtle (FR) |
+| 05:55 | **Brian_Fayx**: Ride-A-Pet Potion ×5 | **clalouetciedh**: Phoenix (NFR) |
+| 05:55 | **donnotinteract**: Unfortunate Eyelashes, Malaysian Tapir (M), Moon Rabbit (NFR) | **R5en_oo**: Giant Anteater (R), Pain au Chat ×2 |
+| 05:55 | **RileyforSure28**: Owl (FR), Kangaroo (NFR), Tortuga de la Isla (NFR) | **StarlightBatsXx**: Frost Dragon (FR) |
+| 05:55 | **Auds191102**: Cow (FR), Puffer Fish (MFR) | **Arizonauwu1450**: Hare (MFR) |
+| 05:55 | **ARLEKIN4Ok1**: Retired Egg ×3 | **Vidaris_marie21**: Cattuccino |
+| 05:55 | **SILLYBREAS**: Count Slothula, Purrowl | **yyanwa19**: Chihuahua |
+| 05:55 | **dmdrk_03**: Puffer Fish (MR) | **sashanneontop**: Red Sand Dollar (MFR), Butter Knife |
+| 05:55 | **luigin55610**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Sugar Glider (FR), Solaris (NFR) | **unlimited_food**: Parrot (FR) |
+| 05:55 | **R5en_oo**: Copycat (NFR), Mermicorn (FR) | **Chadreedpalmares07**: Border Collie, Munchkin Cat, Unicorn (NFR), Copycat, Glacier Moth, Jester Dragon (R) |
+| 05:55 | **epngle**: Mini Pig | **Imdelulu120**: Ghostly Cat (MR), Pupcake (M), Cabbit (R) |
+| 05:55 | **volt435**: Halloween Golden Mummy Cat, Basic Egg | **epngle**: Cobra |
+| 05:55 | **MckDull**: Great Pyrenees, Tanuki, Clownfish, Lunar Gold Tiger | **XzB3arL3Synth7zX1088**: Ride-A-Pet Potion |
+| 05:55 | **megumi_isambitious**: Cow (FR) ×2 | **D1SREU**: Strawberry Shortcake Bat Dragon (FR) |
+| 05:51 | **SOFIA_HAN7**: Thunderfisher ×12 | **Lunathegreek**: Chihuahua |
+| 05:51 | **donnotinteract**: Water Moon Bear (M) | **Sara707852**: Unicorn Backpack |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
