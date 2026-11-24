@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 05:01 UTC by the scrape workflow._
+_Updated 2026-11-24 05:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 05:01 UTC by the scrape workflow._
 | amvgg | 14 | 28,301 | 2026-11-24T05:00 |
 | elve | 14 | 5,682 | 2026-11-24T05:01 |
 
-## AMVGG completed trades: 58,384 total
+## AMVGG completed trades: 58,410 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 722 |
+| 2026-11-24 | 748 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 05:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:00 | **cwutesy_1ai**: Field Mouse (NFR) | **ContentOtter9075**: 2022 Birthday Cake |
-| 05:00 | **rainthatxx**: Sugar Glider (R), Ride-A-Pet Potion ×2 | **lWeirdPhyscol**: Cabbit (R) |
-| 05:00 | **WhiteJackk4**: Crow | **Artem_21a2**: Cow (FR) ×2, Turtle (FR) ×3, Ride-A-Pet Potion ×2 |
-| 05:00 | **Theonly_Naomi89**: Chocolate Chip Bat Dragon (FR), Copycat | **Ariannie201cow**: Cow (NFR) |
-| 05:00 | **OG_Kylen44840**: Chocolate Chip Bat Dragon (FR) | **Theonly_Naomi89**: Copycat ×7, Cupid Dragon (NFR), Goldhorn (R), Pain au Chat ×2 |
-| 05:00 | **cirocrack2020**: Chihuahua (M) | **Irewuisz**: Tiny Wings |
-| 05:00 | **cirocrack2020**: Glormy Leo (NR) | **klelopokjh**: Lion Cub (R), Copycat (R), Ice Wolf (FR), Jekyll Hydra Animated Sticker |
-| 05:00 | **Izan500**: Onza (M) | **testaccounformysoul**: S'mores Raccoon, Sunflower Friend, Violet Friend |
-| 05:00 | **emmy_thepea**: Arctic Reindeer (F), Fly-A-Pet Potion | **TRINITYYBESTIE**: Arctic Reindeer (FR) |
-| 05:00 | **bajsungen62**: 2022 Birthday Cupcake Shoes, Ride-A-Pet Potion | **d9intyy**: Unicorn Horn |
-| 05:00 | **Valery_Unicorn2011**: Solaris (MFR), Candicorn (FR), Ice Cream Hermit Crab | **d9intyy**: Rainbow Maker |
-| 05:00 | **nonas2009**: Red Squirrel (N), Puptune (N), Happy Duckling (N), Kappakid (N), Cute-A-Cabra (N), Turtle Doves (N) | **d9intyy**: Silverback Gorilla (FR) |
-| 05:00 | **Nxlas_PlayzRblx**: Octopus (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **10whiteroses**: Phoenix (MFR) |
-| 05:00 | **human4691236**: Arctic Reindeer, Turtle (FR), Kangaroo (R) | **PsychoBrats5**: Blazing Lion (FR) |
-| 05:00 | **1Shiikigamii6**: Chocolate Chip Bat Dragon (FR) | **Insano_V48**: Sakura Spirit (N), Dango Penguins (NFR), Peppermint Penguin (R) |
+| 05:11 | **Skylerx2011**: Evil Unicorn (FR), Mini Pig (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×9, Dragon ×4 | **youchi_nagi**: Crow (FR) |
+| 05:11 | **DefinitelyNotCha6**: Bone Wings ×2, Founder's Crown ×2, Pirate Hat, Summer Walrus Sunhat, White Chef Hat, Gold Circle Glasses, Yellow Designer Backpack, Pink Designer Backpack, Purple Heart Glasses ×2 | **cheetahcoffeehouse**: Fly-A-Pet Potion |
+| 05:11 | **ggguner4**: Copycat | **cirocrack2020**: Invisible Wings |
+| 05:11 | **Dababychip**: Gemstone Egg, Boohoo (N) ×2 | **layla_Marie456**: Ride-A-Pet Potion |
+| 05:11 | **Qyung_1**: Elephant (FR), Dragonfruit Fox (NFR), Fly-A-Pet Potion | **settlingpetals**: Fairy Bat Dragon (FR) |
+| 05:11 | **ii_AceKun**: Cow (FR) | **berdecol**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion |
+| 05:11 | **Btstvdyndynfy9**: Balloon Unicorn (FR), Chocolate Dutch Guinea Pig (NR) | **Zombie_8803**: Haetae (FR), Copycat (NFR) |
+| 05:11 | **Like_youall59**: Pupcake (MFR), Dango Penguins (NFR), Hot Doggo (R) | **CloudyFalconpro4**: Dango Penguins (MFR) |
+| 05:11 | **jessie4isaac**: Hedgehog (MFR), Owl (FR) ×2, Frost Dragon (FR), African Wild Dog (R), Hedgehog (FR), Dalmatian (FR), Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR), Goose (FR), Cow (FR), Swan (MR), Frost Unicorn (R), Ride-A-Pet Potion, Catte | **Adoptmetradingalt82**: Giant Panda (MFR) |
+| 05:11 | **Artem_21a2**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion | **p001torich**: Cow |
+| 05:11 | **30w3Ow**: Munchkin Cat, Copycat, Owlbear, Peach Owl | **TheyLov3Kristy**: Arctic Dusk Dragon (NFR) |
+| 05:11 | **chhcciijjjkk**: Polar Bear | **jesus_yt299**: Dango Penguins (R) |
+| 05:11 | **anaataccia**: Pain au Chat, Hamster, Cattuccino ×2, Persian Cat, Pink Dog, 2D Box ×2 | **Aslie_17**: Ride-A-Pet Potion |
+| 05:11 | **p001torich**: Unicorn (N), T-Rex (NFR), Dodo (NFR), Maine Coon (M) | **Paul4xxx**: Candicorn (FR) |
+| 05:11 | **jellycatmar**: Pretty Pony (MFR), Panda (MFR), Binturong (MFR), Vanilla Penguin (MFR) | **astronomyiesha**: Owlbear (MFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
