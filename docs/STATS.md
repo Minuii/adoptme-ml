@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 02:55 UTC by the scrape workflow._
+_Updated 2026-11-24 03:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 02:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 26,156 | 2026-11-24T02:45 |
-| elve | 14 | 5,272 | 2026-11-24T02:46 |
+| amvgg | 14 | 26,390 | 2026-11-24T03:00 |
+| elve | 14 | 5,317 | 2026-11-24T03:01 |
 
-## AMVGG completed trades: 58,117 total
+## AMVGG completed trades: 58,134 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 455 |
+| 2026-11-24 | 472 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 02:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:55 | **PerritoBobu**: Three Blind Mice (NR), Clumpty | **puppylovernataly13**: Ride-A-Pet Potion |
-| 02:55 | **Arcyyicyy**: Respectful Mustache | **sweetlittlegf**: Candyfloss Mega Neon Paint, Blue Boohoo Mega Neon Paint |
-| 02:55 | **aloiv484**: Fly-A-Pet Potion | **x30lyxkt**: Husky |
-| 02:55 | **whiplashtempo0**: Arctic Reindeer (FR), Cow (FR) | **kaylamicmi**: Buzzing Honeypot Hat |
-| 02:55 | **Maywa_Sauzky02**: Burger Bear | **inyiuhf**: Purrowl (N) |
-| 02:55 | **hobbydeer2008**: Goose (MFR), Cow (MFR), Fairy Bat Dragon (FR), Phantom Dragon (FR), Strawberry Tortle | **Catzini_1**: Shadow Dragon (FR) |
-| 02:55 | **lHisashi**: Mini Pig (FR), Ride-A-Pet Potion, Skelicorn (N), Waffle Wyrm (N) | **Puddingxcutoy**: Turtle (R), Kangaroo (FR) |
-| 02:55 | **Kenady6767**: Ranger Beaver | **AilinSelene010**: Fairytale Castle |
-| 02:55 | **bgfjm6fytfthfjytjkhb**: Alpaca (MFR), Goose (MFR), Hyena (MFR) | **Lingling111206**: Matcha Cat (MFR), Lion Cub (MFR), Meerkat (MFR), Owlbear (MFR), Honey Badger (MFR), Brown Bear (MFR), Rainbow Maker, 2022 Birthday Cake ×2, Rain Cloud Hat ×2, Tiny Wings ×4, Spring Bunny Nose, Spring Bunny Feet |
-| 02:55 | **Jollyfun213**: Crystal Egg ×14 | **chuutill**: Ride-A-Pet Potion |
-| 02:55 | **Aileenmorrison1**: Goose (FR), Turtle (FR) | **mylolovescats**: Mule (MFR), Owlbear (NFR), Toasty Red Panda (MFR) |
-| 02:55 | **astronomyiesha**: Groundhog (MFR), Sheeeeep (MFR) | **4evxer**: Elephant (MFR) |
-| 02:55 | **maddiea1982**: Pancake Stack | **coolsers28**: Elf Hat, Alien Eyes Hat |
-| 02:55 | **withlovealwaysx**: Fly-A-Pet Potion | **silliegur**: Ride-A-Pet Potion, Chihuahua ×2 |
-| 02:55 | **bg_waa**: Strawberry Shortcake Bat Dragon (FR), Mini Pig (FR), Ride-A-Pet Potion | **Rainbowunicorn5303**: Goose (FR), Cow (FR), Turtle (FR), Rain Cloud Hat |
+| 03:00 | **Officalyuichi**: Monkey (M) | **ALTERNATIVEACCKAY**: Fly-A-Pet Potion |
+| 03:00 | **vwampirebitealt**: Dancing Dragon (NFR) | **zhaidsito8**: Pupcicle (M) |
+| 03:00 | **Lunathegreek**: Winged Horse, Purrowl, Dragonfly | **Darknesskiller2504**: Ride-A-Pet Potion |
+| 03:00 | **Darknesskiller2504**: Fly-A-Pet Potion | **terezaxchapa**: Water Moon Bear (N), Pomeranian (N), Icy Porcupine (N) |
+| 03:00 | **vrykiiann**: Jeff's Nametag, Ghost Wolf (N), Chihuahua ×3 | **endcup1d**: Cheetah |
+| 03:00 | **lalagirlhehe8**: Ride-A-Pet Potion ×6 | **shyfaint**: Ice Cream Cone Hat |
+| 03:00 | **fabrielpanapro**: Candicorn (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Elis_thxx**: Siamese Cat (R) |
+| 03:00 | **shyb_0yalt**: Bush Elephant (MFR), Cow (FR), Ice Cream Cone Hat | **AdrianGaming777777**: Frost Dragon (FR) |
+| 03:00 | **lalagirlhehe8**: Boohoo (M) | **Mikeoten0923**: Ride-A-Pet Potion |
+| 03:00 | **roronoazoro1gg**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Black_rain246**: Copycat |
+| 03:00 | **Haipookie26**: Unfortunate Eyelashes, Red & Yellow Beads, Mystic Wing Crown | **liza8498**: Bewitched Hat |
+| 03:00 | **danyypizza121**: Sea Slug (FR) | **Byeedontmindme1234**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6 |
+| 03:00 | **Kyla_Slater**: Ginger Cat (M), Ride-A-Pet Potion | **sd_pgi**: Spring Bunny Nose |
+| 03:00 | **FazzuBazzu2**: Mummy Spider (M), Kitty Bat, Jacobin Pigeon (M), Muskrat (M), Pro Ghost Blaster, Pandaguin Glooptodog (N), Maine Coon, Red Fox, Shoebill (N), Bolt (N), Caramelgeist (N) ×2, Zebra (N), Shih Tzu (N), Blue Whale, Toxic Kaijunior, 2026 Birthday Butterfly (N), Tegu (N) | **booluqx**: Ring-Tailed Lemur |
+| 03:00 | **adoptmeloverdude13**: Evil Unicorn (NFR) | **itzzdxavid**: Frostbite Bear (NFR) ×3 |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
