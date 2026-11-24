@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 11:16 UTC by the scrape workflow._
+_Updated 2026-11-24 11:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 11:16 UTC by the scrape workflow._
 | amvgg | 14 | 33,961 | 2026-11-24T11:15 |
 | elve | 14 | 6,696 | 2026-11-24T11:15 |
 
-## AMVGG completed trades: 59,056 total
+## AMVGG completed trades: 59,088 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,394 |
+| 2026-11-24 | 1,426 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 11:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:15 | **XiaoFaye1433**: Ride-A-Pet Potion ×2 | **uskewjjw**: Admin Vision Wings |
-| 11:15 | **loiol1004**: Giant Blue Scarab (MFR) | **Cattychiee**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
-| 11:11 | **Lila_Chanbibi**: Turtle (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **lolcryabtit6767**: Cow (FR) |
-| 11:11 | **AseesCr7GoesBoom**: Strawberry Tortle (M) | **2rigolo2**: Orchid Butterfly (NFR), 2022 Birthday Confetti Cannon |
-| 11:11 | **Summerwave2011**: Cryptid (FR) | **inputw**: Cryptid |
-| 11:11 | **Machaddkkj**: Fly-A-Pet Potion, Chicken (FR) | **bobabibas**: Lava Dragon (FR) |
-| 11:11 | **Roksismy**: Candy Hare (FR), Panda (R), Sunglider (R), Ride-A-Pet Potion, Skelicorn | **R5en_oo**: Unicorn (NFR) |
-| 11:11 | **clalouetciedh**: Pain au Chat ×4 | **K4TN1SS_Everdeen**: Chocolate Dutch Guinea Pig |
-| 11:11 | **Jungkook12647**: Alley Cat | **Yumi_Rose8**: Dango Penguins |
-| 11:11 | **Yuumiborgoor**: Chihuahua | **lnH3II**: Pain au Chat |
-| 11:11 | **Asthadm**: Fly-A-Pet Potion ×10 | **mika_24583**: Ride-A-Pet Potion ×18 |
-| 11:11 | **arqvve1**: Golden Jaguar (MR) | **alleyrot**: Kitty Bat (MR), Coyote (N) |
-| 11:11 | **vecscv**: Skelicorn, Purrowl ×2 | **graham_kristofer**: Bubblegeist |
-| 11:11 | **CristalZu5**: Retired Egg ×18 | **graham_kristofer**: Tutu |
-| 11:11 | **overdonebeast**: Dalmatian (FR) | **L1xts**:  |
+| 11:20 | **AMINO4KA7U**: Sheeeeep (R) | **arina_kir2**: Dodo (R), Lynx (FR), Shark (R), Halloween White Mummy Cat (R), Turkey (R) |
+| 11:20 | **OBLAKO_74**: Ride-A-Pet Potion | **lo0vyyu**: Crystal Egg ×18 |
+| 11:20 | **angela_umerez4**: Mochi Meow ×9 | **Kirill123Valiev**: Ride-A-Pet Potion |
+| 11:20 | **FlyToTheSaturn**: Celebrity Mansion | **12hehe_22**: Fly-A-Pet Potion |
+| 11:20 | **HOCOKKU**: Cabbit (FR), Sugar Glider (FR), Kangaroo (FR), Pet Handler Pro Certificate | **rainbow_shiny152**: Sheeeeep ×2, Halo, Angel Wings |
+| 11:20 | **HOCOKKU**: Flamingo (FR), Brown Bear (R), Christmas Pudding Pup | **Its_love59**: Cabbit (FR) |
+| 11:20 | **z1ooam**: Love Bird (MFR) | **mikepower240508**: Chicken (NFR) |
+| 11:20 | **Rossella154**: Unicorn Horn | **addmysecondaccount**: Strawberry Tortle |
+| 11:20 | **kotik_2011080**: Fly-A-Pet Potion ×4 | **Zolombo7**: Pet Handler Pro Certificate ×4 |
+| 11:20 | **thafterparty**: Pain au Chat ×2, Chihuahua | **eva_rokstar0**: Ride-A-Pet Potion |
+| 11:20 | **elproXD_7v7**: Pain au Chat ×3 | **sunf10w33rr**: Ride-A-Pet Potion |
+| 11:20 | **nastyxx_ww**: French Bulldog | **l1dxllz07**: Ride-A-Pet Potion |
+| 11:20 | **nastyxx_ww**: Puffer Fish | **l1dxllz07**: Ride-A-Pet Potion |
+| 11:20 | **Roblo_mmm**: Goose (FR) | **tezza4real**: Unicorn Horn, 2022 Birthday Party Horn, Hare (R) |
+| 11:20 | **Hi_IamLinet**: Crystal Egg ×18 | **OBV1MXCIE**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
