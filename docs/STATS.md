@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 04:40 UTC by the scrape workflow._
+_Updated 2026-11-24 04:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 04:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 27,816 | 2026-11-24T04:30 |
-| elve | 14 | 5,583 | 2026-11-24T04:31 |
+| amvgg | 14 | 28,050 | 2026-11-24T04:45 |
+| elve | 14 | 5,626 | 2026-11-24T04:46 |
 
-## AMVGG completed trades: 58,346 total
+## AMVGG completed trades: 58,350 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 684 |
+| 2026-11-24 | 688 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,10 @@ _Updated 2026-11-24 04:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:45 | **superheror125**: Zombie Wolf (MR), Shadow Dragon Ducky (M), Fly-A-Pet Potion, Floating Hand Stroller | **GrindAccount_N1**: Chicken, Ram, Capybara, Sea Angel (N), Drake, Black Panther, Brown Bear, Polar Bear (R), Hyena, Swan, Rhino, Platypus, Reindeer, Turkey, Wild Boar, Emperor Shrimp (N), Hermit Crab (N), Silly Duck |
+| 04:45 | **Ethernaces**: Crystal Egg ×15 | **Stella_Vortex**: Ride-A-Pet Potion |
+| 04:45 | **archi_chozza**: Dire Wolf (M) | **J4YNEES**: Ride-A-Pet Potion ×2 |
+| 04:45 | **boundedmoney**: Angel Wings, Ram (MFR) | **kaylamicmi**: Dango Penguins (MFR) |
 | 04:40 | **191919y2**: Jacobin Pigeon (M), Rattlesnake (N), Red Panda (N) | **altaccount02037**: Ride-A-Pet Potion |
 | 04:40 | **kaitlyn_trades**: Admin Abuse Box ×6, Fairytale Egg | **rainbow72679**: Retired Egg ×9 |
 | 04:40 | **67_master67676721**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Iaaysx**: Christmas Pudding Pup |
@@ -50,10 +54,6 @@ _Updated 2026-11-24 04:40 UTC by the scrape workflow._
 | 04:36 | **nightgamerz101**: Chocolate Dutch Guinea Pig | **KATANA_R0SE**: Ride-A-Pet Potion |
 | 04:36 | **Lefty43434**: Arctic Reindeer (NFR), Frost Unicorn (FR) | **TMDung20**: Parrot (FR) |
 | 04:36 | **ypeixoto_00**: Dire Wolf (M) ×5 | **archi_chozza**: Pet Handler Pro Certificate ×5 |
-| 04:36 | **BLACKGLITTERKITTY**: Frost Dragon (FR), Owl (R), African Wild Dog, Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (FR), 2022 Birthday Party Hat, Cow (R) | **uest5215**: Bat Dragon (FR) |
-| 04:36 | **FcNikita24**: Old King Coal (N), Skelicorn (N), Ancient Dragon (N), Shiba Inu (N), Robot (N), Bolt (N), Gold Mahi Mahi (N) ×2, Clumpty (N) ×2, Granny Wolf (N), Muskrat (N), Parakeet (N) ×2, Glyptodon Ducky (N), Forest Sprite (N), Jiggly Jerboa (N), Pinkypillar (N) | **crazycatlady2712**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 04:36 | **Honeymochi_oo**: Husky (MFR) ×2, Puffer Fish (MFR), Zombie Wolf (MFR), Business Monkey (MFR), Chocolate Dutch Guinea Pig (MFR), Cerberus (MFR) | **D00dle_C4t**: Frostbite Bear (MFR) |
-| 04:36 | **Honeymochi_oo**: Tortoiseshell Guinea Pig (MFR), Husky (MFR), Zombie Wolf (MFR), Puffer Fish (MFR), Coconut Friend (MFR) | **astronomyiesha**: Monkey King (MFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
