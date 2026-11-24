@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 05:55 UTC by the scrape workflow._
+_Updated 2026-11-24 06:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 05:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 28,955 | 2026-11-24T05:45 |
-| elve | 14 | 5,785 | 2026-11-24T05:46 |
+| amvgg | 14 | 29,198 | 2026-11-24T06:00 |
+| elve | 14 | 5,836 | 2026-11-24T06:01 |
 
-## AMVGG completed trades: 58,489 total
+## AMVGG completed trades: 58,494 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 827 |
+| 2026-11-24 | 832 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,11 @@ _Updated 2026-11-24 05:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:00 | **Samuelpro0748**: Polar Bear (MFR) | **2slweepy50**: Dango Penguins (MFR) |
+| 06:00 | **NatsBackup26**: Strawberry Shortcake Bat Dragon (FR) | **Imatellya1**: Border Collie (NFR) |
+| 06:00 | **Anelchik_i**: Arctic Dusk Dragon (FR) | **Panci_Terbang33**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 06:00 | **zpro_jumpeur**: Scarebear | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 06:00 | **whimsyyblues**: Giant Anteater (NFR), Candicorn (R) | **O71Mythical**: Ghost Bunny (MFR), Rain Cloud Hat, 2022 Birthday Confetti Cannon |
 | 05:55 | **Brian_Fayx**: Ride-A-Pet Potion ×5 | **clalouetciedh**: Phoenix (NFR) |
 | 05:55 | **donnotinteract**: Unfortunate Eyelashes, Malaysian Tapir (M), Moon Rabbit (NFR) | **R5en_oo**: Giant Anteater (R), Pain au Chat ×2 |
 | 05:55 | **RileyforSure28**: Owl (FR), Kangaroo (NFR), Tortuga de la Isla (NFR) | **StarlightBatsXx**: Frost Dragon (FR) |
@@ -49,11 +54,6 @@ _Updated 2026-11-24 05:55 UTC by the scrape workflow._
 | 05:55 | **luigin55610**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Sugar Glider (FR), Solaris (NFR) | **unlimited_food**: Parrot (FR) |
 | 05:55 | **R5en_oo**: Copycat (NFR), Mermicorn (FR) | **Chadreedpalmares07**: Border Collie, Munchkin Cat, Unicorn (NFR), Copycat, Glacier Moth, Jester Dragon (R) |
 | 05:55 | **epngle**: Mini Pig | **Imdelulu120**: Ghostly Cat (MR), Pupcake (M), Cabbit (R) |
-| 05:55 | **volt435**: Halloween Golden Mummy Cat, Basic Egg | **epngle**: Cobra |
-| 05:55 | **MckDull**: Great Pyrenees, Tanuki, Clownfish, Lunar Gold Tiger | **XzB3arL3Synth7zX1088**: Ride-A-Pet Potion |
-| 05:55 | **megumi_isambitious**: Cow (FR) ×2 | **D1SREU**: Strawberry Shortcake Bat Dragon (FR) |
-| 05:51 | **SOFIA_HAN7**: Thunderfisher ×12 | **Lunathegreek**: Chihuahua |
-| 05:51 | **donnotinteract**: Water Moon Bear (M) | **Sara707852**: Unicorn Backpack |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
