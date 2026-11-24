@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 17:46 UTC by the scrape workflow._
+_Updated 2026-11-24 17:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 17:46 UTC by the scrape workflow._
 | amvgg | 14 | 40,124 | 2026-11-24T17:45 |
 | elve | 14 | 8,183 | 2026-11-24T17:46 |
 
-## AMVGG completed trades: 60,363 total
+## AMVGG completed trades: 60,419 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,701 |
+| 2026-11-24 | 2,757 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 17:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **fygramvgg**: Flamingo (FR) | **altego002**: Yeti (MFR), Pancake Stack |
-| 17:45 | **ljwempire777**: Red Dutch Guinea Pig (MFR), Head Chef | **cutezxnat**: Owlbear (MFR) |
-| 17:45 | **SoNNy_KAKAXA228GG**: Red Panda (N), Ocelot (N), Granny Wolf (N), Orangutan (N), Bunny (N) ×3, Beaver (N) ×2 | **ArtemSer2008**: Ride-A-Pet Potion |
-| 17:45 | **shatasha31**: Rainbow Rattle, Dalmatian (MFR), Frost Dragon (MFR) ×2, Giraffe (MFR), Shadow Dragon (MFR), Shadow Dragon (NFR), Parrot (MFR), Bat Dragon (MFR), Dalmatian (FR) ×3, Diamond Butterfly (FR) | **Oioioilov13**: Bat Dragon (M) ×2, Owl (MFR), Bat Dragon (N), Giant Panda (MFR) |
-| 17:45 | **przeczulenie**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×9 | **qw_bbl**: Unicorn Horn |
-| 17:45 | **m0chalka_1**: Fairy Bat Dragon (FR), Cabbit (R), Flamingo (FR) ×2, Dodo (MFR), Matcha Cat (FR), Border Collie (R), Unicorn (NFR), Candicorn (FR), Fly-A-Pet Potion | **akzoad**: Parrot (FR) |
-| 17:45 | **idcwhatuthinkorsay**: Fairy Bat Dragon (FR), Siamese Cat (R), Cerberus (NFR), Arctic Fox (R), Unicorn (NFR), Pancake Stack, Halloween White Ghost Dragon (R) | **Sydrexus**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:45 | **vrsqxxv**: Spring Bunny Hood | **Zhackpogi**: Jester Dragon |
-| 17:45 | **Zhackpogi**: Ride-A-Pet Potion ×6 | **shotvzn**: Fallow Deer (FR) |
-| 17:45 | **xosleepybunny**: Frost Unicorn (R) | **SweetieStrawberryw**: Copycat (N) |
-| 17:45 | **Dlya_amvgg**: Fairy Bat Dragon (NFR), Fly-A-Pet Potion | **Hel_a1na**: Cabbit (NR) |
-| 17:45 | **DoughnutDucks**: Parrot (FR), Aurora Fox (MFR), Arctic Dusk Dragon (MR), Rainbow Dragon (MR), Kangaroo (NFR), Yeti (MFR) | **akzoad**: Blazing Lion (NFR) |
-| 17:45 | **yeetimaheadout7**: Alley Cat (MFR), Aurora Fox (MFR), Toaster Hat, Fly-A-Pet Potion, Ride-A-Pet Potion | **lollolllllooolllllll**: Copycat (MFR), Fallow Deer (M) |
-| 17:45 | **galaxie_sister6**: Unicorn Horn, Rice Cake Rabbit (R) | **PREPPY_ROBLOXWORLD1**: Siamese Cat (R) |
-| 17:45 | **xitzlinda**: Ride-A-Pet Potion ×3 | **NotSweatyOnion**: Water Rabbit (N) |
+| 17:55 | **tradingg_account**: Turtle (FR), Mini Pig (R), Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **yeetimaheadout7**: Copycat (MFR) |
+| 17:55 | **Roby_SoulShinexX**: Dalmatian (FR), Flamingo (NFR), Cow (FR), Black Springer Spaniel (MFR) | **akzoad**: Owl (FR) |
+| 17:55 | **cxbvnniz**: Rain Cloud Hat, 2022 Birthday Party Hat, Catte (MFR), Cattuccino (MFR), Pain au Chat (MFR), Fly-A-Pet Potion | **yeetimaheadout7**: Fallow Deer (M) |
+| 17:55 | **lindaberdo**: Dragon | **chiefkeezzf**: Winter Fawn |
+| 17:55 | **ALTACCOUNT1333475**: Frost Fury (NFR), Siamese Cat (FR) | **Zhackpogi**: Cow (FR) |
+| 17:55 | **oooopppppaad**: Giant Panda (FR) | **BhaabieeRaaii**: African Wild Dog (FR) |
+| 17:55 | **athena_cheka**: Red Dutch Guinea Pig (MFR), Husky (MFR), Harp Seal (MFR), Spring Bunny Nose, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **pommes4289**: African Wild Dog |
+| 17:55 | **anihao17**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **QueenVfFlamec91**: Cow (FR) |
+| 17:55 | **AdoptMeHere03**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion | **vxzzz632**: English Sheepdog (MFR) |
+| 17:55 | **mellqxxrb**: Bobageist (M) | **xjamiebond**: Ride-A-Pet Potion |
+| 17:55 | **AltForAmvggXD**: Cow (FR) ×2, Cattuccino (N) | **AubreyHunter721**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:55 | **Micx_ss**: 2022 Birthday Confetti Cannon, Chihuahua (M), Villain Gibbon (M), Blue Cat Ear Headphones, Gorilla (M), Scarecrow Crow (N) | **nzemniece1**: Irish Water Spaniel (N) |
+| 17:55 | **Vixinnty**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Elf Hat | **mapiwvsv**: Shiver Wolf (MR) |
+| 17:55 | **x7qir**: Goose | **Esikiiomuru**: Peppermint Penguin (R) |
+| 17:55 | **Anelchik_i**: Peppermint Penguin (NFR), Candicorn (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **akzoad**: Parrot (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
