@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 01:55 UTC by the scrape workflow._
+_Updated 2026-11-24 02:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 01:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 25,223 | 2026-11-24T01:45 |
-| elve | 14 | 5,109 | 2026-11-24T01:46 |
+| amvgg | 14 | 25,451 | 2026-11-24T02:00 |
+| elve | 14 | 5,157 | 2026-11-24T02:01 |
 
-## AMVGG completed trades: 57,954 total
+## AMVGG completed trades: 57,989 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 292 |
+| 2026-11-24 | 327 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 01:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:55 | **pedrobeteir0**: Frost Dragon (FR), Owl (FR), Crow (FR), Parrot (FR) ×2, Turtle (NFR), Elephant (R) | **AsherHawkBlast2015**: Crow (MFR) |
-| 01:55 | **AlphaTaToxicv1047**: Kangaroo (FR) | **heavsns**: 2022 Birthday Cupcake Shoes |
-| 01:55 | **elproXD_7v7**: Pain au Chat ×3 | **PIasticTree**: Ride-A-Pet Potion |
-| 01:55 | **REALjaylarp**: Paint Sealer ×14 | **anicyhot**: Ride-A-Pet Potion |
-| 01:55 | **Kandy_lover2009**: Bush Elephant (MFR), Alpaca, Goose (FR), Hot Doggo (R), Peppermint Penguin, Cherry-On-Top | **LovelyGirl23033**: Mini Pig (MFR) |
-| 01:55 | **adoptmeloverdude13**: Undead Jousting Horse (FR) | **Mjplayz_am**: Monkey King (R) |
-| 01:51 | **arturo7pose12345**: Kiwi Kiwi ×18 | **batton0955**: Ride-A-Pet Potion ×10 |
-| 01:51 | **batton0955**: Ride-A-Pet Potion | **theyluvmel_33**: Shih Tzu (MFR) |
-| 01:51 | **NADA_urfavgirlduh**: Goat (R) | **Esteban_robloxiano0**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Evil Rock |
-| 01:51 | **katakuri_RBL**: Goose (R), Cabbit (R), Alpaca, Ride-A-Pet Potion ×6 | **aIcremie_s**: Dalmatian (FR) |
-| 01:51 | **elproXD_7v7**: Chihuahua ×9 | **lunarodlox38**: Ride-A-Pet Potion ×3 |
-| 01:51 | **STHJOSE00**: Peppermint Penguin (NFR) | **L1zl1n_l1zer**: Peppermint Penguin (FR), Fairy Bat Dragon (NFR) |
-| 01:51 | **Angelbatista_me2**: Mini Pig (FR), Cow (FR), Shark Puppy ×2, Pig (R), Unicorn (NFR), Fly-A-Pet Potion | **lkmsdfw**: Hedgehog (FR) |
-| 01:51 | **Cloudy_xxxlex**: Peppermint Penguin | **littlefelonies**: Puffin (R), Candicorn, Dango Penguins, Ice Cream Hermit Crab, Pupcicle ×2, Pangolin ×3, Choco Penguin (MR) |
-| 01:51 | **Cloudy_xxxlex**: Count Slothula | **littlefelonies**: Chocolate Labrador ×18 |
+| 02:00 | **penideater**: Goose (NFR), Cow (NFR), Cow (FR), Arctic Dusk Dragon (N) | **Summerwave2011**: Owl (FR) |
+| 02:00 | **cliuic**: Border Collie, Ride-A-Pet Potion ×2 | **ycuspamacc6**: Arctic Fox ×2 |
+| 02:00 | **CarlSimp2s**: Giant Panda (FR) ×4, Cattuccino (M), Ride-A-Pet Potion | **nerdoitdabest**: Shadow Dragon (FR) |
+| 02:00 | **0mimiberry**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **84382g**: Shrew (R) |
+| 02:00 | **boaazqx**: Field Mouse (MFR) | **erikastqrr**: Owlbear (MFR), Kiwi Kiwi (MFR) |
+| 02:00 | **Anime_Fan244298**: S'mores Raccoon (M), Flaming Fox (MFR), Turtle (FR), Hippo (M), Koi Carp (M) | **yaiols**: Groundhog (MFR) |
+| 02:00 | **Babyofy5**: Fly-A-Pet Potion | **Rubberduckington1103**: Gila Monster ×3, Kaijunior ×2, Icy Porcupine ×2, Angus Calf, Thunderfisher ×3, Moonbeam Butterfly |
+| 02:00 | **Fluffystar25719**: Winged Horse (FR), Kitty Bat (N), Leopard Cat ×3 | **Jaauhyaggyiyigqieue**: Jousting Horse (FR) |
+| 02:00 | **Chase_wm6**: Chanekeh (N), Thunderfisher (N) | **helldead123**: Christmas Pudding House |
+| 02:00 | **Ashdorae**: Chocolate Dutch Guinea Pig (MR), Fly-A-Pet Potion | **ariesdesire**: Peppermint Penguin (FR) |
+| 02:00 | **Slug013**: Siamese Cat, Rain Boots, Propeller Hat, Goth Shoes, Ice Cream Cone Hat, Pupcake (M), Jeff's Nametag | **abdoosaad**: Candicorn (NFR) |
+| 02:00 | **abdoosaad**: Cow (FR) | **fa_yp**: Goat (FR) ×2, Goat (R), Christmas Pudding Pup (R), Kookaburra (FR), Ride-A-Pet Potion |
+| 02:00 | **rrstockxadm**: Crystal Egg ×17, Ride-A-Pet Potion | **SelfL0vktwt**: Ride-A-Pet Potion |
+| 02:00 | **hdfbyx**: Bush Elephant (NFR), Munchkin Cat (R), Ride-A-Pet Potion ×2 | **AngelKattyOwO**: Cow (NFR) |
+| 02:00 | **BR4Y4N1027**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×9 | **KennedyHilfiger**: Puffer Fish (M) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
