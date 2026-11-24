@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 20:31 UTC by the scrape workflow._
+_Updated 2026-11-24 20:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 20:31 UTC by the scrape workflow._
 | amvgg | 14 | 42,715 | 2026-11-24T20:30 |
 | elve | 14 | 8,785 | 2026-11-24T20:31 |
 
-## AMVGG completed trades: 61,020 total
+## AMVGG completed trades: 61,068 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,358 |
+| 2026-11-24 | 3,406 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 20:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:30 | **DES1R333333**: Ride-A-Pet Potion | **XALEXX30005**: Crystal Egg ×18 |
-| 20:30 | **Booriq**: Cabbit | **B4BY_W1NGS**: Alpaca |
-| 20:30 | **Booriq**: Cabbit (FR) | **Mcdonaldsofaustralia**: Alpaca (FR) |
-| 20:30 | **p_awth**: Cherry-On-Top, Pink Heart Glasses, Ride-A-Pet Potion | **ixqsix**: Chocolate Dutch Guinea Pig (MFR) |
-| 20:25 | **GorobetsZP**: Ride-A-Pet Potion, Tan Chow-Chow | **TeezYeez**: Rainbow Stroller |
-| 20:25 | **almighty_duckllings**: Werewolf | **Baldyellowwoman**: Blue Ringed Octopus (N), Chocolate Dutch Guinea Pig (N), Ram (N), Moon Rabbit (N) |
-| 20:25 | **Angel_020601**: Pink Butterfly Wings, Easter Egg Friends, Mule Baskets, Pink Hightops, Cheesecake Hat | **Rkuamgrh6**: Ride-A-Pet Potion |
-| 20:25 | **XALEXX30005**: Crystal Egg ×18 | **Aslie_17**: Ride-A-Pet Potion |
-| 20:25 | **saturnestee**: Flash Weasel (MFR), Golden Chow-Chow (MFR) | **sgHappiness1238**: Munchkin Cat (MFR), Jester Dragon (MFR) |
-| 20:25 | **SlawaKrustik**: Jester Dragon (R) | **Vitalik_tyrbina999**: Ride-A-Pet Potion ×5 |
-| 20:25 | **nehemiasOriz**: Werewolf (FR), Candicorn (R) | **galaxie_sister6**: Cow (R) |
-| 20:25 | **Adoptmeexd23**: Goose (FR), Alpaca, Harp Seal (MFR), Orca (NR), Fly-A-Pet Potion ×6 | **Soy7xol**: Nessie (MFR) |
-| 20:25 | **Robloxiana_xxx2011**: Fly-A-Pet Potion | **jux_iess1**: Ride-A-Pet Potion, Paint Sealer ×2 |
-| 20:25 | **sasha2009190**: Water Rabbit (MR), Ride-A-Pet Potion, Flying Fairy | **Harpsealpup1**: Elephant (FR) |
-| 20:25 | **ZGraysonMaxFoxs**: Crystal Egg ×17 | **GGYHBH68**: Ride-A-Pet Potion |
+| 20:36 | **Epic777378**: Dango Penguins | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion ×3 |
+| 20:36 | **zoe01678**: Count Slothula, Chihuahua ×5, Royal Palace Spaniel, Elasmosaurus, Unicorn | **blessedbyvicksx**: Unicorn (FR), Unicorn ×3 |
+| 20:36 | **AutoTradeCommission**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion | **Proboygamer1085**: Jousting Horse (NR), Narwhal (MR), Toasty Red Panda (MR) |
+| 20:36 | **Eaosjg1**: Hare, Goldhorn | **richbaddie2282**: Jester Dragon |
+| 20:36 | **l_i8ra7**: Fly-A-Pet Potion ×5 | **ALTACCOUNT1333475**: Frost Fury (R), Capricorn (NFR) |
+| 20:36 | **melynagamer3**: Pig (R) | **KRASOTA_I**: Ride-A-Pet Potion ×9 |
+| 20:36 | **mawifa123**: Chihuahua ×3 | **peachieskiwi**: Ride-A-Pet Potion |
+| 20:36 | **Violet_cutetwin28**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, 2x Bucks Potion ×2 | **Vitalik_tyrbina999**: Copycat |
+| 20:36 | **emmy_thepea**: Jumpscare (M), Happy Duckling, Pudding Cat, Amber Butterfly (N), Ginger Cat (N), Stitches (N), Black-Footed Ferret (N), Blue Cat (N), Jiggly Jerboa (N), California Condor (N), Galapagos Sea Lion (N), Purrowl ×4 | **Secret_Secretov321**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 20:36 | **elproXD_7v7**: Pain au Chat ×9 | **Violet_cutetwin28**: Ride-A-Pet Potion ×3 |
+| 20:36 | **docedelets**: Spring Bunny Feet | **shine4ever20013**: Ride-A-Pet Potion |
+| 20:36 | **robloxer_3614**: Kangaroo (FR) | **Vikysik_2056**: Caterpillar (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pink Butterfly Wings, Rain Hat |
+| 20:36 | **cannotaffordme**: Dalmatian (MFR), Yule Log Dog (MFR) ×2, Polar Bear (MFR) | **Jungito_4**: Bat Dragon (F) |
+| 20:36 | **oxeriaxx**: Bush Elephant (FR) | **youchi_nagi**: Fallow Deer (NR) |
+| 20:36 | **Cluvdi4**: Siamese Cat (MFR), Chocolate Dutch Guinea Pig (MFR), Halo, Tiny Wings | **DragonBaconeBoss1**: Owl (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
