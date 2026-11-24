@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 12:31 UTC by the scrape workflow._
+_Updated 2026-11-24 12:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 12:31 UTC by the scrape workflow._
 | amvgg | 14 | 35,095 | 2026-11-24T12:30 |
 | elve | 14 | 6,910 | 2026-11-24T12:31 |
 
-## AMVGG completed trades: 59,242 total
+## AMVGG completed trades: 59,271 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,580 |
+| 2026-11-24 | 1,609 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 12:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:30 | **unlimited_food**: Frost Dragon (FR), Ride-A-Pet Potion | **ixB4dVib3ssxi**: Cryptid, Arctic Reindeer (FR), Dalmatian (FR), Alley Cat (NR) |
-| 12:30 | **Vitamirka**: Kiwi Kiwi ×4 | **neversshy**: Ride-A-Pet Potion ×2 |
-| 12:30 | **44HxH44**: Ballet Swan (R) | **stafhnel**: Arctic Dusk Dragon |
-| 12:30 | **L0VINGLISSA**: Gumball Caterpillar, Gummy Guana, Toucan, Angus Cow, Thunderfisher, Budgie Witch, Fennec Fox, Tree Frog ×2, Ant, Cat, Mouse | **Micky_0950**: Chihuahua |
-| 12:30 | **clalouetciedh**: Chihuahua ×18 | **archi_chozza**: Ride-A-Pet Potion ×5 |
-| 12:30 | **puuuurrrraaawww**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **gkfnjdyn**: Biodome Home |
-| 12:30 | **elfania_3**: Dalmatian (FR), Turtle (NFR) | **Krvsvha**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
-| 12:30 | **clalouetciedh**: Pain au Chat ×4 | **Ihope_youknow**: Chocolate Dutch Guinea Pig |
-| 12:30 | **cxar_25**: Bat Dragon (NFR) | **puppies_forever60606**: Bat Dragon (FR), Giraffe (FR), Chocolate Chip Bat Dragon (MFR), Dalmatian (NFR), Border Collie, Fairy Bat Dragon (FR) |
-| 12:30 | **Addo_Cit**: Peppermint Penguin (FR), Tiny Wings, Ice Cream Cone Hat, Sloth (M), Tri-horned Treehopper (R), Latte Kitsune (R), Ninja Monkey (R), Chocolate Dutch Guinea Pig, Corn Doggo | **yusokini25**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:30 | **Elisa_hollands**: Cryptid (MFR), Peppermint Penguin (NFR), Shark Puppy (FR) | **cxar_25**: Hedgehog (MFR) |
-| 12:30 | **Certifiedbwunnii**: Bat Dragon (FR) | **cxar_25**: Cryptid (MFR) |
-| 12:30 | **PS_Keiken**: Cow (FR), Goose (FR) | **roronoazoro1gg**: Arctic Dusk Dragon (MFR) |
-| 12:25 | **Vitamirka**: Chihuahua ×18 | **hdfbyx**: Ride-A-Pet Potion ×6 |
-| 12:25 | **method611491**: Giraffe (FR), Spring Bunny Hood | **dloxasteq2**: Arctic Reindeer (MFR) |
+| 12:40 | **incisingg**: Owl (FR), Arctic Reindeer (FR), Cow (FR), Ride-A-Pet Potion | **roman68548ddf**: Cabbit (MFR) |
+| 12:40 | **elfiltx**: Alley Cat (MFR) | **floricica_0502**: Dragonfruit Fox (MFR), Spring Bunny Hood |
+| 12:40 | **puuuurrrraaawww**: Fairytale Egg ×9 | **dorthew**: Christmas Pudding House |
+| 12:40 | **Vxmptomato**: Munchkin Cat (R), Diamond Hummingbird | **Y4r3tzy09**: Dilophosaurus (MR), Woolly Mammoth (MR), Peachick (M), Sasquatch (M) |
+| 12:40 | **eva_rokstar0**: Ride-A-Pet Potion | **Vitamirka**: Pain au Chat ×3 |
+| 12:40 | **Priskona0**: Hare (MFR), Dragonfruit Fox (MFR) | **K1MM007**: Nessie (MFR) |
+| 12:40 | **fygramvgg**: Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR) | **gag_gaag**: Irish Water Spaniel (MFR) |
+| 12:40 | **Zoescats111**: Lion Cub (MFR) | **behwead**: Kookaburra (MFR), Flaming Fox (MFR), Capybara (MFR) |
+| 12:40 | **VBBVZVM**: Green-Chested Pheasant, Arctic Hare (N) | **Fiat_ouo**: Ride-A-Pet Potion |
+| 12:40 | **kartoshka_spogriba**: Arctic Reindeer (FR), Lion (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **fara_garant**: Dalmatian (FR) |
+| 12:40 | **Tuti89975**: Crow (FR), Maine Coon (M), Fly-A-Pet Potion ×2 | **Jilliantbh**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 12:40 | **Allyanaph124**: Elephant (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **I_KermitDEATH**: Kangaroo (FR) |
+| 12:40 | **heesuukey**: Kangaroo Stroller, Donut Stroller ×2 | **ManILYMozzle**: Rainbow Stroller |
+| 12:40 | **epicpulsechaos2024**: Dragon ×18 | **zephyrgoatt**: Ride-A-Pet Potion ×2 |
+| 12:40 | **polinalollipolly**: Turtle (FR) ×2, Kangaroo (R), King Bee (R), Ride-A-Pet Potion | **ii_aldrin20**: Chocolate Chip Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
