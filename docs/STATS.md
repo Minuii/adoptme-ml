@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 19:25 UTC by the scrape workflow._
+_Updated 2026-11-24 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 41,542 | 2026-11-24T19:15 |
-| elve | 14 | 8,486 | 2026-11-24T19:15 |
+| amvgg | 14 | 41,808 | 2026-11-24T19:30 |
+| elve | 14 | 8,543 | 2026-11-24T19:31 |
 
-## AMVGG completed trades: 60,787 total
+## AMVGG completed trades: 60,790 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,125 |
+| 2026-11-24 | 3,128 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,9 @@ _Updated 2026-11-24 19:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:30 | **XxOmgItsFrankie**: Mini Pig (MFR), Frost Unicorn (MFR) | **jacobsocool022**: Balloon Unicorn (NFR), Strawberry Shortcake Bat Dragon Backpack, Candicorn |
+| 19:30 | **sweetbwunnii**: Pink Dog (M) | **DylanNeon233227**: Donkey (M) |
+| 19:30 | **skyeeviex**: Frost Dragon (FR), Goose (NFR), Goose (FR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Peppermint Penguin (NR), Border Collie (NFR), Cow, Tortuga de la Isla (NFR), Arctic Reindeer (FR), Lion Cub (NR) | **regalarmealgo12**: Bat Dragon (FR) |
 | 19:25 | **TheEerthh**: Crystal Egg ×7 | **Cluvdi4**: Pain au Chat |
 | 19:25 | **Livxhze**: Pig (R) | **cwstza**: Moonbeam Butterfly (NFR), Ride-A-Pet Potion |
 | 19:25 | **XALEXX30005**: Crystal Egg ×17 | **Giulia_SatoruPs4**: Ride-A-Pet Potion |
@@ -51,9 +54,6 @@ _Updated 2026-11-24 19:25 UTC by the scrape workflow._
 | 19:25 | **princess2016pony**: Cow (MFR), Dango Penguins (MFR) ×2, Hare (MFR), Cerberus (MFR), Panda (MFR), Water Rabbit (MFR), Chihuahua (MFR), Arctic Reindeer (FR), Maine Coon (MFR), Owl (FR), Chocolate Chip Bat Dragon (FR), Sugar Glider (FR), Hamster (MFR) | **ll_90dfhj**: Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
 | 19:25 | **cutesyiza**: Field Mouse (MFR), Wildfire Hawk ×4 | **fluffyunicorns_932**: Cheetah (MFR), Royal Corgi (MFR) |
 | 19:25 | **fwaiza**: Retired Egg ×18 | **OwO_5002**: Sandbox Island |
-| 19:25 | **jetedispas212**: Pet Handler Pro Certificate ×3, Ride-A-Pet Potion ×7, Fly-A-Pet Potion | **EthanNovaZoom2024**: Elephant (FR) |
-| 19:25 | **EthanNovaZoom2024**: Turtle (FR) | **NotSweatyOnion**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×6, Pet Handler Pro Certificate |
-| 19:25 | **queenyelii_22**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×6, Pet Handler Pro Certificate | **EthanNovaZoom2024**: Turtle (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
