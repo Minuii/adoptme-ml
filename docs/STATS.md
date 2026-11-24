@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 17:11 UTC by the scrape workflow._
+_Updated 2026-11-24 17:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 17:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 39,388 | 2026-11-24T17:00 |
-| elve | 14 | 7,979 | 2026-11-24T17:01 |
+| amvgg | 14 | 39,647 | 2026-11-24T17:15 |
+| elve | 14 | 8,007 | 2026-11-24T17:15 |
 
-## AMVGG completed trades: 60,201 total
+## AMVGG completed trades: 60,208 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,539 |
+| 2026-11-24 | 2,546 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,13 @@ _Updated 2026-11-24 17:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 17:15 | **bg_waa**: Parrot (R), Shark Puppy (NFR), Pet Handler Pro Certificate | **INS4N3_M4X**: Owl (FR) |
+| 17:15 | **Scorpio_Vaeh**: Shadow Dragon (R), Frost Dragon (FR) | **Bibisiwan**: Bat Dragon (FR) |
+| 17:15 | **GetSorority**: Fairy Bat Dragon (FR) ×2, Capricorn (FR) ×2, Hare (R), Pupcicle (N), Cerberus (R), Count Slothula (R), Snow Leopard (NFR), Bat (NR), German Shepherd, Ninja Monkey (R), Ride-A-Pet Potion, Yeti (FR), King Bee (R), Aussie Egg, Unicorn ×2 | **lolcamilka0**: Fairy Bat Dragon (NFR) |
+| 17:15 | **itemhouse1**: Candicorn (FR) | **Ami_Mixed**: Fly-A-Pet Potion ×11 |
+| 17:15 | **MouneXS**: Retired Egg ×18 | **afiqshtm**: Cattuccino (N) |
+| 17:15 | **Cosmo_syx**: Evil Unicorn (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **ExpertChipmunkPro**: Kangaroo (FR), Unicorn (MFR) ×5, Unicorn (M) |
+| 17:15 | **dashe4kavbb**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×4 | **flower_1851**: Candicorn (R) |
 | 17:06 | **carlo_pro28**: Cow (FR) ×3, Cow (R) ×3, Cow, Siamese Cat (R), Pig (R) | **AsherHawkBlast2015**: Frost Dragon (FR) |
 | 17:06 | **Crazygirlfire10**: Fly-A-Pet Potion, Chocolate Dutch Guinea Pig, Ranger Beaver | **rannodi2012**: Pupcicle (N) |
 | 17:06 | **ccrybz**: Purrowl ×4, Fairytale Egg ×4 | **kraket127**: Purrowl (N) |
@@ -47,13 +54,6 @@ _Updated 2026-11-24 17:11 UTC by the scrape workflow._
 | 17:06 | **queenyelii_22**: Cow (FR) ×2 | **ii_aldrin20**: Strawberry Shortcake Bat Dragon (FR) |
 | 17:06 | **rhubararian**: Giraffe (FR), Owl (FR) ×2, Parrot (FR), Evil Unicorn (FR), Turtle (FR), Kangaroo (FR), Frost Fury (FR) | **FaZeTysonF**: Shadow Dragon (NFR) |
 | 17:06 | **vxzzz632**: St Bernard (N), Pupcicle | **Dash_2023crashh**: Fly-A-Pet Potion |
-| 17:06 | **Lefty43434**: Cryptid (FR), Kangaroo (FR) | **rblx_tortik**: Blazing Lion (FR) |
-| 17:06 | **Lozi_loz**: Mr. Whiskerpips (N), Mrs. Whiskerpips (N) | **userulikk**: Fly-A-Pet Potion |
-| 17:06 | **Pollito_Amarillito45**: Fairy Bat Dragon | **iiFr0gs33**: Haetyphoon ×4 |
-| 17:06 | **xjamiebond**: Candicorn, Ride-A-Pet Potion ×2 | **Cute_CocoMouse**: Ballet Swan (N) |
-| 17:06 | **nuevoenforni34**: Santa Hat | **Proboygamer1085**: Haetyphoon (R), Fly-A-Pet Potion |
-| 17:06 | **clalouetciedh**: Chihuahua ×5 | **OBLAKO_74**: Fly-A-Pet Potion |
-| 17:06 | **iiWaterqxStarqz**: Bobageist (N), Corgi (N), Black-Footed Ferret (N), Pomeranian (N), Snowy Mammoth (N) | **Vernite_chat0**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
