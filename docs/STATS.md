@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 00:01 UTC by the scrape workflow._
+_Updated 2026-11-24 00:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 00:01 UTC by the scrape workflow._
 | amvgg | 14 | 23,430 | 2026-11-24T00:00 |
 | elve | 14 | 4,743 | 2026-11-24T00:01 |
 
-## AMVGG completed trades: 57,690 total
+## AMVGG completed trades: 57,715 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 28 |
+| 2026-11-24 | 53 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 00:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:00 | **sleepinhisarms**: Peppermint Penguin (R), Great Pyrenees, Fly-A-Pet Potion | **BL00DP0PP3RZ**: Goose (FR) |
-| 00:00 | **altaltalt2679**: Aurora Fox (R), Ride-A-Pet Potion ×2 | **hrt_s0ulz**: Merry Mistletroll (MR) |
-| 00:00 | **Yourfav_PeRsOn33**: Copycat (NFR), Albino Monkey (FR), Head Chef | **AutoTradeCommission**: Mini Pig (FR) |
-| 00:00 | **ilynvmihyjkilysm**: Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **aleks2u**: Siamese Cat (R) |
-| 00:00 | **reaInyancat**: Chocolate Chip Bat Dragon Backpack | **sofiaozonopros**: Ride-A-Pet Potion |
-| 00:00 | **boundedmoney**: Alley Cat (MFR), Rain Cloud Hat, Happy Clam | **Xxskibidy67**: Glormy Leo (MFR) |
-| 00:00 | **disapp6ar**: Peppermint Penguin (NF), Cupid Dragon (NFR), Frost Phoenix (N), Bunny Ear Tiara | **kaylamicmi**: Strawberry Shortcake Bat Dragon (NFR) |
-| 00:00 | **Adore_Pandaz**: Arctic Fox | **nevaehthefirst10**: Jester Dragon, Dragonfruit Fox |
-| 00:00 | **XXScorpionXX2121**: Owl (FR), Hot Doggo (FR) | **Lefty43434**: Evil Unicorn (FR) ×2, Mini Pig (FR) |
-| 00:00 | **BananaMonkeyGirl22**: Unicorn Horn | **1nxsii**: Caterpillar (FR) |
-| 00:00 | **AvaNari2010**: Kiwi Kiwi | **ST4R_L1GHT1281**: Ride-A-Pet Potion |
-| 00:00 | **cuteisabella54567**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 | **Nika_Roblox16stars**: Arctic Reindeer (FR) |
-| 00:00 | **rrstockxadm**: Crystal Egg ×16 | **Bubblesby_bailey1234**: Ride-A-Pet Potion |
-| 00:00 | **MITKOVX**: Cow (FR) | **Exleer**: Goose (R) |
-| 00:00 | **said1244566**: Lion, Pig (R), Ride-A-Pet Potion, Platypus | **mommy_vka123**: Turtle (FR) |
+| 00:11 | **4revolutions**: Alley Cat (NR), Ride-A-Pet Potion | **4NGELICS0UL**: Tortoiseshell Guinea Pig |
+| 00:11 | **saturnestee**: Frostbite Bear (MFR), Spring Bunny Hood | **AzureDrifted**: Haetyphoon (MFR), Flash Weasel (MFR) |
+| 00:11 | **roronoazoro1gg**: Cabbit (R), Ride-A-Pet Potion | **lilzola81289**: Siamese Cat (FR), Goat (FR) |
+| 00:11 | **Zoescats111**: Brown Springer Spaniel (MFR), Black Springer Spaniel (MFR) | **spatoro**: Swan (MFR) |
+| 00:11 | **rainthatxx**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **aleks2u**: Cupid Dragon (FR) |
+| 00:11 | **ADOPTME_TRADE596**: Christmas Pudding Pup (MFR) | **TANSKlN**: Nessie (MFR) |
+| 00:11 | **iluv27backflip**: Christmas Pudding Pup | **playerbunbready**: Ride-A-Pet Potion ×6 |
+| 00:11 | **Reubz_z**: Unicorn, Shadow Dragon Ducky (NFR) | **Adore_Pandaz**: Dragonfruit Fox |
+| 00:11 | **RealKrispyKris**: Frost Dragon (MFR) | **Shadx_1553**: Giraffe (NFR), Owl (NFR) |
+| 00:11 | **realbritt5**: Mr. Whiskerpips | **Black_rain246**: Pupcake |
+| 00:11 | **coolguy192459**: Strawberry Shortcake Bat Dragon (FR) | **QueenVfFlamec91**: Cow (NFR) |
+| 00:11 | **Brian_Fayx**: Goose (FR) | **MakiraLive**: Fly-A-Pet Potion ×17 |
+| 00:11 | **BR4Y4N1027**: Crow (FR), Border Collie (FR), Chef Hat | **Bobo_Tsuya**: Parrot (FR) |
+| 00:11 | **fyffddt5**: Cobra (FR), Donkey (N) | **regina_12z**: Ride-A-Pet Potion |
+| 00:11 | **Flux_puck**: Shadow Dragon (MFR), Arctic Reindeer (NFR) | **RuthJavxn**: Shadow Dragon (FR) ×4, Shadow Dragon (R) |
 
 ## Elvebredd value changes: 62,835 since 2023-09-16
 
