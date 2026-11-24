@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 18:11 UTC by the scrape workflow._
+_Updated 2026-11-24 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 18:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 40,365 | 2026-11-24T18:00 |
-| elve | 14 | 8,258 | 2026-11-24T18:01 |
+| amvgg | 14 | 40,596 | 2026-11-24T18:15 |
+| elve | 14 | 8,297 | 2026-11-24T18:15 |
 
-## AMVGG completed trades: 60,475 total
+## AMVGG completed trades: 60,501 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,813 |
+| 2026-11-24 | 2,839 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 18:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:11 | **h4_cd**: Fly-A-Pet Potion ×4, Mochi Meow | **Goodnews2013**: Arctic Fox (R) |
-| 18:11 | **radkiitty**: Ride-A-Pet Potion | **pote01351**: Crystal Egg ×16 |
-| 18:11 | **cxbvnniz**: Fly-A-Pet Potion ×5, Retired Egg | **chiefkeezzf**: Toaster Hat |
-| 18:11 | **roronoazoro1gg**: River Otter (M) | **gabrielcore123**: Ride-A-Pet Potion |
-| 18:11 | **XALEXX30005**: Crystal Egg ×18 | **hhhauntedddd**: Ride-A-Pet Potion |
-| 18:11 | **licycosmic**: Flower Power Duckling ×2 | **lobbybd**: Pupcicle |
-| 18:11 | **psxwer**: Moon Rabbit (M), Australian Kelpie (M) | **adorable_rhian**: Tortoiseshell Guinea Pig |
-| 18:11 | **adorable_rhian**: Fly-A-Pet Potion | **Oliver20717**: Stitches (M), Chihuahua ×2 |
-| 18:11 | **XiaoFaye1433**: Strawberry Shortcake Bat Dragon (FR) ×2, Winged Tiger (R), Ride-A-Pet Potion | **Chelovekpypsik**: Balloon Unicorn (FR) |
-| 18:11 | **Chelovekpypsik**: Turtle (R), Copycat | **81xbanan3k**: Fairy Bat Dragon (R) |
-| 18:11 | **mellqxxrb**: Glyptodon Ducky (M), Lunar Tiger (R) | **HOCOKKU**: Ride-A-Pet Potion |
-| 18:11 | **dily123477**: Pretty Pony (MFR), Mochi Meow (MR), Chicken (FR), Skele-Rex (R), Spring Bunny Hood | **starcode_slowww**: Turtle (FR) |
-| 18:11 | **Xohy_veroniky**: Elephant (FR), Crocodile (R), Ride-A-Pet Potion ×3 | **FOR3VERL1LS**: Cow (R) |
-| 18:11 | **roblox_user_8676283275**: Candicorn (NR), Cupid Dragon (NR), Cow (R) | **FOR3VERL1LS**: Pelican (NFR) |
-| 18:11 | **iffy_lalaroblox**: Rainbow Maker, Ice Cream Cone Hat, Arctic Fox (R) | **dishmala**: Cow (NFR) |
+| 18:15 | **YTKA_StrayKids**: Black Panther (R) | **Queqnwo**: Ride-A-Pet Potion |
+| 18:15 | **aurorafox679**: Unicorn Ducky (MR) | **Queqnwo**: Fly-A-Pet Potion |
+| 18:15 | **SecretlyRage**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **teryyyrttgfy**: Border Collie |
+| 18:15 | **Julkakulka123o**: Jacobin Pigeon (M), Bolt (M) | **chiefkeezzf**: Coyote (N) |
+| 18:15 | **tristemuaLxjkx**: Giant Panda (FR) | **roleniumasma**: Christmas Pudding Pup (MFR) |
+| 18:15 | **ABOBA_VILI**: Arctic Reindeer (FR), Candyfloss Chick (FR), Arctic Fox, Watermelon Backpack, Jeff's Nametag, Pink Butterfly Wings | **xas3llx**: Evil Unicorn (FR) |
+| 18:15 | **Addmymainpls2332**: African Wild Dog (FR), Nessie (MFR), Haetae (FR), Haetae (R), Arctic Fox, Ice Cream Cone Hat | **iiplxzmx_alt**: African Wild Dog (NFR) |
+| 18:15 | **oooopppppaad**: Giant Panda (FR), Dango Penguins ×4 | **thegiddys14**: Balloon Unicorn (FR) |
+| 18:15 | **TristemuaLxjkx3**: Goose (NFR), Fairy Bat Dragon (FR) | **tristemuaLxjkx**: Christmas Pudding Pup (MFR) |
+| 18:15 | **TristemuaLxjkx3**: Christmas Pudding Pup (NFR), Haetae | **1nlouv**: Christmas Pudding Pup (MFR) |
+| 18:15 | **Reimii00**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **turbo142142**: Matcha Cat (FR) |
+| 18:15 | **JanaJanjoon11**: Dragonfruit Fox | **DeepIn_YourSolace**: Purrowl (M) |
+| 18:15 | **OG_Kylen44840**: Chocolate Chip Bat Dragon (FR) | **Lisalove_398**: Rainbow Maker, Fly-A-Pet Potion ×4 |
+| 18:15 | **x7qir**: Cryptid (R) | **worthsneak**: Strawberry Shortcake Bat Dragon (FR), Candicorn (FR) |
+| 18:15 | **NastyA_Maximovna**: Fairy Bat Dragon (NFR), Arctic Fox (R), Copycat, Ride-A-Pet Potion ×2, Shrew | **TomatoKetchup1999**: Cryptid (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
