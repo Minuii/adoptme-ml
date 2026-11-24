@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 12:11 UTC by the scrape workflow._
+_Updated 2026-11-24 12:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 12:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 34,637 | 2026-11-24T12:00 |
-| elve | 14 | 6,821 | 2026-11-24T12:01 |
+| amvgg | 14 | 34,868 | 2026-11-24T12:15 |
+| elve | 14 | 6,853 | 2026-11-24T12:15 |
 
-## AMVGG completed trades: 59,183 total
+## AMVGG completed trades: 59,186 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,521 |
+| 2026-11-24 | 1,524 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,9 @@ _Updated 2026-11-24 12:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:15 | **chocllii**: Ride-A-Pet Potion ×5, Golden Griffin | **QUliaka**: Sakura Spirit (R) |
+| 12:15 | **angela_umerez4**: Arctic Dusk Dragon (MFR), Chocolate Dutch Guinea Pig (MR) | **Lxdyxx**: Cryptid (FR) |
+| 12:15 | **macdemarcolover707**: Kitty Bat (NFR) | **afissamuzfirah**: Ride-A-Pet Potion ×3 |
 | 12:06 | **clalouetciedh**: Pain au Chat ×18 | **archi_chozza**: Ride-A-Pet Potion ×5 |
 | 12:06 | **pollylemonlollyscwol**: Arctic Reindeer (FR), Alley Cat (MFR), Cow (R), Flower Power Duckling (MR) | **yeetimaheadout7**: Parrot (FR) |
 | 12:06 | **emily_lovli1234**: Ride-A-Pet Potion ×2 | **tw1nkle3788**: Snow Monkey |
@@ -51,9 +54,6 @@ _Updated 2026-11-24 12:11 UTC by the scrape workflow._
 | 12:06 | **ItzMackenzieLol910**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat (R), Ice Cream Hermit Crab, Ride-A-Pet Potion | **bermido80**: Fairy Bat Dragon (NFR) |
 | 12:06 | **CloudAMs**: Crystal Egg ×18 | **Aseggfdeccdfggdd**: Ride-A-Pet Potion |
 | 12:06 | **0MoonlitXMeadow0**: Strawberry Penguin (NFR), Elephant, Owlbear (NFR), Goat (NFR), Frost Unicorn (FR) | **LeonardBass28273**: Evil Unicorn |
-| 12:06 | **0MoonlitXMeadow0**: Turtle (NFR), Blue Dog (NFR), Crocodile (FR) | **TMDung20**: Evil Unicorn (FR) |
-| 12:06 | **Vitamirka**: Chihuahua ×9 | **MATT_2011901**: Ride-A-Pet Potion ×3 |
-| 12:06 | **kittieqwo**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Burger Boots | **forthorizon2345**: Merhorse (MFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
