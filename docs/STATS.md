@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 19:46 UTC by the scrape workflow._
+_Updated 2026-11-24 19:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 19:46 UTC by the scrape workflow._
 | amvgg | 14 | 42,038 | 2026-11-24T19:45 |
 | elve | 14 | 8,597 | 2026-11-24T19:46 |
 
-## AMVGG completed trades: 60,868 total
+## AMVGG completed trades: 60,898 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,206 |
+| 2026-11-24 | 3,236 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 19:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:45 | **aleks2u**: Haetae (FR), Cabbit (FR), Fairy Bat Dragon (FR), Siamese Cat (FR), Fly-A-Pet Potion | **Amvgg_Amvggg**: Owl (FR) |
-| 19:45 | **Jassychi**: Goose (NFR), 2022 Birthday Cupcake Shoes, Rain Cloud Hat | **pursel23**: Peppermint Penguin (NFR) |
-| 19:45 | **KanskjeMatilde**: Munchkin Cat (R) | **Kateyboil**: Arctic Fox (FR) |
-| 19:45 | **On3gtive**: Fly-A-Pet Potion | **ii_AceKun**: Pet Handler Pro Certificate |
-| 19:45 | **emiliachanowo**: Blue Dog (N) | **ariesdesire**: Chocolate Dutch Guinea Pig (MFR), 2022 Birthday Cake |
-| 19:45 | **Ollybear200909**: Giant Panda (R) | **ArdaEOYT**: Arctic Dusk Dragon (MFR), Dango Penguins (MFR), Bunny Swirl (MFR), Mr. Whiskerpips (MFR) |
-| 19:45 | **KotIIk_hehe**: Strawberry Shortcake Bat Dragon (FR) ×2, Alley Cat (NR), Glormy Leo (FR), Gemstone Egg, Mrs. Whiskerpips (N), Rainbow Dragon Hat, Admin Abuse Egg ×3 | **girl536370**: Crow (FR), Fly-A-Pet Potion |
-| 19:45 | **LightningCheetah2451**: Diamond Hummingbird | **Gabo_XD202**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
-| 19:45 | **larisochka_gudeeva98**: Albino Monkey (FR) | **Lefty43434**: Diamond Amazon (FR) ×2, Aussie Egg |
-| 19:45 | **no_namebns06**: Chocolate Dutch Guinea Pig, Lion Cub | **Luvx_VXvu**: Matcha Cat |
-| 19:45 | **ZGraysonMaxFoxs**: Crystal Egg ×18 | **Alaska_rdx**: Ride-A-Pet Potion |
-| 19:45 | **Kristyjunio_r**: Haetae (FR), Fly-A-Pet Potion | **Demon_alternacc**: Nessie (MFR), Pig (NFR), Matcha Cat |
-| 19:45 | **Nita208901**: Ride-A-Pet Potion | **Froggy_top229**: Kitsune (FR) |
-| 19:45 | **melynagamer3**: Fly-A-Pet Potion | **ii_AceKun**: Pet Handler Pro Certificate |
-| 19:45 | **MiLkas_20111**: Unicorn Horn, Shark Puppy (R), Fly-A-Pet Potion | **6utszz**: Cow (R) |
+| 19:55 | **aikosha_rdx**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion, Pet Handler Pro Certificate ×3 | **ii_AceKun**: Cow (FR) |
+| 19:55 | **ishibana0967**: Unicorn | **SillyMilk_m**: Ride-A-Pet Potion |
+| 19:55 | **msgarcia4**: Matcha Cat, Dango Penguins (N), Dango Penguins, Chick (MFR), Glyptodon (MFR), Kiwi Kiwi | **j2v73r**: Matcha Cat (NFR) |
+| 19:55 | **FunnyAnaminegirl**: Royal Corgi (NFR), Bunny (MFR) | **Alice_Fpe2567**: Pig (R) |
+| 19:55 | **fartingpook367**: Tiny Wings, Cabbit (FR) | **kittyarchivies**: 2022 Birthday Party Hat, 2022 Birthday Party Horn |
+| 19:55 | **ZGraysonMaxFoxs**: Crystal Egg ×18 | **NomZixxx**: Ride-A-Pet Potion |
+| 19:55 | **Jasmine_officially1**: Tasmanian Tiger (N), Tarantula (N) ×2, Boohoo (N) | **altaccount02037**: Ride-A-Pet Potion |
+| 19:55 | **fishymiss_y**: Ice Cream Cone Hat | **realpdrilla1**: Ride-A-Pet Potion ×6 |
+| 19:55 | **AnaSophia3445**: Munchkin Cat | **slinx5267**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×2, Flying Fairy |
+| 19:55 | **Car1os_xd**: Fly-A-Pet Potion | **Mya_strawberryz**: Ride-A-Pet Potion ×2 |
+| 19:55 | **olddeathcore**: Sheeeeep (MFR), Frost Unicorn, Munchkin Cat | **Ilyastyconne**: Silverback Gorilla (MFR), Chocolate Dutch Guinea Pig (MFR) |
+| 19:55 | **Atchepihinka228**: Ride-A-Pet Potion ×12, Aurora Fox | **Artem_21a2**: Glormy Leo (NF) |
+| 19:55 | **snyyyp**: Dango Penguins (MFR) | **spojIfed**: Turtle (FR), Ram (MFR), Sandwich Hat, Spring Bunny Feet, Ride-A-Pet Potion, Kaijunior (M), Rice Cake Rabbit (NFR), Bready Necklace, Blue Cat Ear Headphones |
+| 19:55 | **Artem_21a2**: Cow | **Lefty43434**: Albino Monkey (FR), Halloween White Ghost Dragon (NFR), Polar Bear |
+| 19:55 | **snyyyp**: Copycat (NFR) | **Katemala2021**: Siamese Cat (R) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
