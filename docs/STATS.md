@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 07:25 UTC by the scrape workflow._
+_Updated 2026-11-24 07:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 07:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 30,346 | 2026-11-24T07:15 |
-| elve | 14 | 6,021 | 2026-11-24T07:15 |
+| amvgg | 14 | 30,580 | 2026-11-24T07:30 |
+| elve | 14 | 6,105 | 2026-11-24T07:31 |
 
-## AMVGG completed trades: 58,641 total
+## AMVGG completed trades: 58,648 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 979 |
+| 2026-11-24 | 986 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,13 @@ _Updated 2026-11-24 07:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:30 | **milks_1931**: Pig (R), Frost Fury (FR), Red Dutch Guinea Pig, Snow Owl | **Itz_head11**: Kangaroo (FR) |
+| 07:30 | **Itz_head11**: Jester Dragon | **liceer_ksenia923073**: Ride-A-Pet Potion ×4, Kitty Biscuit |
+| 07:30 | **Itz_head11**: Fly-A-Pet Potion, Endangered Egg, Aztec Egg, Admin Abuse Egg ×2, Crystal Egg | **Giodg2006**: Ride-A-Pet Potion ×2 |
+| 07:30 | **pikmon4ik**: Kangaroo (FR), Kangaroo (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×8 | **dermo12327**: Turtle (NFR) |
+| 07:30 | **mavissx_0**: S'mores Raccoon (NR) | **tsuqies**: Sushi Penguin (N) |
+| 07:30 | **uskewjjw**: Purrowl ×3 | **Tyyyyy_tyy1**: Christmas Pudding House |
+| 07:30 | **purple_girlX09**: Scarebear (R) | **34Kotenok9**: Vanilla Penguin (R) |
 | 07:25 | **Ezzasway9**: Phantom Dragon (FR) | **Yumi_Rose8**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
 | 07:25 | **R5en_oo**: Malaysian Tapir (MR), Moon Rabbit (NFR), Love Letter | **meow4miioo**: Chocolate Dutch Guinea Pig (NFR), Butter Knife |
 | 07:25 | **KOTIK001230**: Dalmatian (FR), 2022 Birthday Party Horn, Ketchup and Mustard Jetpack, Ride-A-Pet Potion | **princess0088123**: Hedgehog (FR) |
@@ -47,13 +54,6 @@ _Updated 2026-11-24 07:25 UTC by the scrape workflow._
 | 07:25 | **rvlixrisa**: Cake Friend (MFR), Ladybug (MFR), Starfish (MFR) | **c4rrxblushh**: Copycat (NFR) |
 | 07:25 | **TMDung20**: Strawberry Shortcake Bat Dragon (FR), Cabbit (FR) | **pawthetiic**: Evil Unicorn (FR) |
 | 07:25 | **cerberusUwU23419**: Cupid Dragon (NFR) | **Urfavorite1225**: Fairy Bat Dragon (FR) |
-| 07:25 | **dily123477**: Goose (FR), Cow (FR) ×2, Turtle (FR), Fairy Bat Dragon (FR) ×2, Flamingo (FR) | **QueenVfFlamec91**: Owl (FR) |
-| 07:25 | **Dailylone0901alt1**: Border Collie (FR), Shark Puppy (R), Arctic Hare (M), Chihuahua | **ttttfrrf530**: Sugar Glider (FR) |
-| 07:25 | **angvmosddww**: Peppermint Penguin (R) | **c9bweb**: Chocolate Dutch Guinea Pig (MFR) |
-| 07:25 | **ishibana0967**: Purrowl (N) ×2 | **hdhvsjosh**: Ride-A-Pet Potion |
-| 07:25 | **ST3LL4_II**: Polar Bear (F), Fly-A-Pet Potion | **razarvale2z**: Pain au Chat ×12 |
-| 07:25 | **pipoca_edisonfa12**: Kangaroo (FR) ×2 | **Sofik_oc**: Kangaroo (NFR) |
-| 07:25 | **mymylamoo1**: Space Fleet House | **Youalreadyknowme803**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
