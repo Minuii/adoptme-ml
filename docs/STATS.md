@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 05:25 UTC by the scrape workflow._
+_Updated 2026-11-24 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 28,516 | 2026-11-24T05:15 |
-| elve | 14 | 5,696 | 2026-11-24T05:15 |
+| amvgg | 14 | 28,721 | 2026-11-24T05:30 |
+| elve | 14 | 5,753 | 2026-11-24T05:31 |
 
-## AMVGG completed trades: 58,441 total
+## AMVGG completed trades: 58,449 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 779 |
+| 2026-11-24 | 787 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,14 @@ _Updated 2026-11-24 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **BarbaraAmongUs**: Purrowl (N), Dragon, Dragonfly, Fire Mare, Zodiac Minion Chick | **dilanfabian13**: Ride-A-Pet Potion |
+| 05:30 | **28_siuu**: Ride-A-Pet Potion | **yshikza**: Crystal Egg ×18 |
+| 05:30 | **Rendeme_YETE**: Ride-A-Pet Potion, Mochi Meow | **yshikza**: Crystal Egg ×18 |
+| 05:30 | **La_boyMich15**: Cattuccino (N), Milk Choccybunny (N), Monkey (NR), Blue Jay (N) | **flmziia**: Fly-A-Pet Potion |
+| 05:30 | **CcLuims011x**: Pupcicle ×2, Pupcake | **gabimerchan**: Fly-A-Pet Potion |
+| 05:30 | **0FF_L1MIT**: Cow (FR) ×7, Elephant (R) | **Lu_DJhoan**: Frost Dragon (FR) |
+| 05:30 | **AlphaTaToxicv1047**: Peppermint Penguin (FR), Fly-A-Pet Potion | **quris841**: Kangaroo (NFR) |
+| 05:30 | **GamerMarty06_yt**: Owl (FR), Bush Elephant (R) | **pinkytedslovie**: Goat (MFR), Hare (MFR), Chocolate Dutch Guinea Pig (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×6 |
 | 05:25 | **yshikza**: Crystal Egg ×16 | **yopkkeem**: Ride-A-Pet Potion |
 | 05:25 | **MOONLITSONATA_08**: Cow (FR), Kitty Bat (M), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **BaconetteNoobs**: Turtle (NFR) |
 | 05:25 | **razarvale2z**: Pain au Chat ×9 | **arquilo11**: Ride-A-Pet Potion ×3 |
@@ -46,14 +54,6 @@ _Updated 2026-11-24 05:25 UTC by the scrape workflow._
 | 05:25 | **kdkejwjsjd**: Owl (MFR) | **Theguruguruslay**: Bat Dragon (FR), Shadow Dragon (FR), Tarsier (MR), Jekyll Hydra Animated Sticker, Pancake Stack, Fly-A-Pet Potion ×3, Sushi Penguin (MFR) ×4 |
 | 05:25 | **StellaStella123450**: Pet Handler Pro Certificate, Blossom Snake (NR), Frankenfeline (M) | **Daisyfun_1**: Jester Dragon |
 | 05:25 | **ophyns**: Strawberry Tortle, Hare (NR), Latte Kitsune (NFR), Lunar Moon Bear (MFR), Propeller Hat, Spring Bunny Hood, T-Rex (NFR) | **yusokini25**: Strawberry Shortcake Bat Dragon (FR) |
-| 05:25 | **enggg0o0**: Puffer Fish | **Estrellitagamer108**: German Shepherd |
-| 05:25 | **pupgenderr**: Ride-A-Pet Potion | **lo0vyyu**: Crystal Egg ×18 |
-| 05:25 | **elzqys**: Goose (R), Peppermint Penguin (R), Mermicorn (R), Burger Bear (MFR) | **jeklooni**: Kangaroo (MFR), Crocodile (FR) |
-| 05:25 | **51lly_Skyl1ghtz**: Cow (FR), Fly-A-Pet Potion | **Amy_hhd**: Copycat (N), Shadow Dragon Ducky (MFR), Pupcicle (N) ×3 |
-| 05:25 | **puchainela77**: Cow Calf (MFR), Cow Calf (MR), Lava Wolf (NFR), Moon Rabbit (MFR), Pain au Chat (MFR), Villain Gibbon (MFR), Irish Elk (MFR), Mr. Whiskerpips (MFR), Mr. Whiskerpips (MR), Vermilion Butterfly (MR), Lynx (MFR) | **trigore11**: Silverback Gorilla (MFR) |
-| 05:25 | **Mafacrazy**: Naga Dragon, Admin Abuse Egg ×3 | **Dfhavhs**: Naga Dragon |
-| 05:25 | **Inganta07**: Ride-A-Pet Potion | **magicalxmoon**: Puffer Fish |
-| 05:25 | **PREPPY_ROBLOXWORLD1**: Turtle (FR) | **RebelDigitalZero**: Turtle (R), Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
