@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 16:46 UTC by the scrape workflow._
+_Updated 2026-11-24 16:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 16:46 UTC by the scrape workflow._
 | amvgg | 14 | 39,130 | 2026-11-24T16:45 |
 | elve | 14 | 7,906 | 2026-11-24T16:46 |
 
-## AMVGG completed trades: 60,107 total
+## AMVGG completed trades: 60,169 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,445 |
+| 2026-11-24 | 2,507 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 16:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:41 | **minismudgepanda**: Toaster Hat, Moose Calf, Chocolate Dutch Guinea Pig | **Ashvr_s0ul9**: Border Collie |
-| 16:41 | **veiixzlj**: Red Dutch Guinea Pig (MFR), Sushi Penguin (MFR), Panda (MFR), Pupcicle (MFR), Tiny Wings, Burger Boots, Back Taco, Strawberry Shortcake Bow, Corndog Mustache | **Sypex612**: Giant Anteater (MFR) |
-| 16:41 | **qwirtiksss**: Golden Bone | **catvlq**: Christmas Pudding House |
-| 16:41 | **Soyy_Ericctrio**: Snow Monkey (MFR) | **4saulius66**: Ice Cream Hermit Crab (MFR), Ride-A-Pet Potion |
-| 16:41 | **v1rulence**: Harp Seal (MR), Unicorn Horn, Sugar Glider (R) | **OG_Kylen44840**: Chocolate Chip Bat Dragon (FR) |
-| 16:41 | **florence_23111**: Unfortunate Eyelashes, Ice Cream Heels | **REBEKA_5176**: Alien Eyes Hat |
-| 16:41 | **VLADkAURAINDOV**: Ride-A-Pet Potion ×3, Hare (R), Turtle (R), Sushi Penguin | **Polinrebhe**: Fairy Bat Dragon (FR) |
-| 16:41 | **12kyanni12k**: Dango Penguins (MFR), Canadian Goose (MFR) | **Dollxcod**: Red Dutch Guinea Pig (MFR) |
-| 16:41 | **Horse_LoveKsk**: Cow (FR), Kangaroo (FR), Shark Puppy (FR), Nessie (R) | **Sydrexus**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion |
-| 16:41 | **Veraca2900**: Fly-A-Pet Potion ×8, Yule Log Dog | **51lly_Skyl1ghtz**: Copycat (N) |
-| 16:41 | **Kenzie_kenz140**: Copycat | **oeoifdolk**: Cerberus (R) ×3, Cerberus (FR) |
-| 16:41 | **chapa4ka579**: Glyptodon ×8 | **WintErSnowy1**: Fly-A-Pet Potion |
-| 16:41 | **xmarlarx**: Cabbit (FR), Fly-A-Pet Potion ×2 | **Siuyuiq654**: Goose (FR) |
-| 16:41 | **Crystalpastel17**: Chocolate Chip Bat Dragon (FR), Kangaroo (FR) | **vasilii6752**: Cryptid (FR) |
-| 16:41 | **Xwixx1obv**: Catte (MFR) | **By_millsjos**: Pancake Stack, Banana Hat, Peachick (NR), Aviator Hat, Kappakid (NR), Tuxedo Cat (N), Fly-A-Pet Potion ×3, Gecko (N), Pupcicle |
+| 16:55 | **AL1C3W0RLDD**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×10 | **hijodefrutaXdd9**: Turtle (FR) |
+| 16:55 | **rishalIls**: Sugar Glider (FR), Ride-A-Pet Potion | **WoltWO777**: Flamingo (FR), Goat (FR) |
+| 16:55 | **arseniylolol**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion | **spooke537**: Strawberry Shortcake Bat Dragon (FR) |
+| 16:55 | **departedlifecrisis**: Parrot (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **gosha_sovkaA**: Dalmatian (FR), Arctic Reindeer (FR) |
+| 16:55 | **putridiecro**: Nessie (NFR) | **Siggma794**: Grim Dragon, Ride-A-Pet Potion |
+| 16:55 | **flower_1851**: Arctic Reindeer (FR), Fly-A-Pet Potion | **ad_optme025**: Sugar Glider (FR), Siamese Cat (FR), Candicorn (R), Crocodile (FR) |
+| 16:55 | **Cosmo_syx**: Hare (NFR) | **sursyrzytxurzutzutz**: Pig (R), Frost Fury |
+| 16:55 | **ARLEKIN4Ok1**: Ride-A-Pet Potion | **Savage_Nessa22**: Urban Egg, Southeast Asia Egg |
+| 16:55 | **Katress09**: Bat Dragon (FR) | **adoptmeplayerhi10**: Giant Panda (FR), Balloon Unicorn (FR), Haetae (FR), Cabbit (MFR) |
+| 16:55 | **funfwetticake**: Pupcake (MFR), Burger Bear (M), Rice Cake Rabbit (M), Mexican Wolf (M), Bunny (M) | **aavqaii**: Toy Monkey (MFR) |
+| 16:55 | **nastyxx_ww**: Bunny Swirl, Burger Bear, Skunk | **arqvve1**: Ride-A-Pet Potion |
+| 16:55 | **ALTAMERANO10**: Haetyphoon (M) | **Artem_21a2**: Blazing Lion (FR) |
+| 16:55 | **XxBxd_TomboyxX**: Samoyed (N) | **Chiyothebestrust**: Cherry Blossom Flower Sticker ×5 |
+| 16:55 | **NotSweatyOnion**: Golden Lettuce, Ride-A-Pet Potion, Retired Egg ×5 | **Kirill123Valiev**: Propeller Hat ×2 |
+| 16:55 | **cloudy_cloudimup**: 2022 Birthday Confetti Cannon, Spring Bunny Hood, Jeff's Nametag | **adorelui**: 2022 Birthday Cupcake Shoes |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
