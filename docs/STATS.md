@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 21:31 UTC by the scrape workflow._
+_Updated 2026-11-24 21:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 21:31 UTC by the scrape workflow._
 | amvgg | 14 | 43,669 | 2026-11-24T21:30 |
 | elve | 14 | 8,995 | 2026-11-24T21:31 |
 
-## AMVGG completed trades: 61,224 total
+## AMVGG completed trades: 61,282 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,562 |
+| 2026-11-24 | 3,620 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 21:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:25 | **gzds_cass**: Owl (FR) | **N0T_ASQ1T**: Dalmatian (FR) ×2, Flamingo (R) |
-| 21:25 | **S24k_lanae**: Munchkin Cat (R), Pain au Chat | **therealkayt67**: Sea Slug (R) |
-| 21:25 | **0mgnacho2**: Alley Cat (MFR) | **xadore_brookex**: Glacier Moth, Cherry Blossom Hang Glider, Lava Dragon (R), Queen Bee (FR), Rainbow Dragon, Green Butterfly (R), Astronaut Gorilla, Kelp Captain, Glacier Kitsune, Winged Horse ×3, Gilded Snake ×2, T-Rex ×3, Diamond Ladybug |
-| 21:25 | **deeplishpou**: Harp Seal (MFR) | **Tal_Kazman**: Burger Boots, 2022 Birthday Cake |
-| 21:25 | **aaaaa2aaaaaaa16**: Cow (FR), Sugar Glider (R) | **aitana_aiii**: Alpaca (R), Owlbear (FR), Mermicorn, Ride-A-Pet Potion ×2 |
-| 21:25 | **WolfNinjaCraze**: Munchkin Cat (MFR) | **sar1ahkn1ght**: Fairy Bat Dragon (NFR) |
-| 21:25 | **Jiluvssria**: Count Slothula, Ride-A-Pet Potion, Ash Zebra | **HuGe_123cAt**: Fly-A-Pet Potion |
-| 21:25 | **Jiluvssria**: Pupcicle ×2 | **mell0rxs**: Ride-A-Pet Potion |
-| 21:25 | **ADDMYMAIN_puppie019**: Tan Chow-Chow (N) | **galaxyx106**: Pupcicle, Dragonfly |
-| 21:25 | **Zoescats111**: Ride-A-Pet Potion | **QUliaka**: Lunar Moon Bear, Chimera |
-| 21:25 | **2REALFORYOUU1**: Christmas Pudding Pup (MFR), Chocolate Dutch Guinea Pig (MFR), Rain Cloud Hat | **RuthJavxn**: Haetyphoon (MFR) |
-| 21:25 | **FunnyAnaminegirl**: Crystal Egg ×15 | **Elwanizk**: Ride-A-Pet Potion |
-| 21:25 | **mellqxxrb**: Nebula Snake (NFR), Rubber Ducky (N) | **eulsstepstool**: Fly-A-Pet Potion |
-| 21:25 | **Mytradeaccountforme**: Ghost Dog (MFR) | **lelesayuru**: Pupcake (MFR), Goldfish (MFR) |
-| 21:25 | **fergyhater**: Frost Dragon (MFR), Giraffe, Dalmatian (NFR), Frostbite Bear, Arctic Fox (NR) | **RuthJavxn**: Cryptid (MFR), Dalmatian (MFR), Frost Dragon (FR), Candicorn (MFR) |
+| 21:40 | **NaNa_whatsup67**: Haetae (FR), Hot Doggo (FR), Fly-A-Pet Potion | **1vkx3**: Parrot (FR) |
+| 21:40 | **eliasjosh8**: Christmas Pudding Pup (NFR) | **BriellaJazara2013**: Harp Seal (MFR) |
+| 21:40 | **zow_98alt**: Unicorn Horn, Fly-A-Pet Potion | **0BVSLUCA**: Reindeer (MFR), Nessie (FR) |
+| 21:40 | **iamamazinglalalal**: Vanilla Penguin | **beabadubiia2026amvgg**: Solar Burst Mega Neon Paint |
+| 21:40 | **souIsIostt**: Jester Dragon (NFR) | **fenekitfixismymain**: Tiny Wings, Pancake Stack |
+| 21:40 | **Antonnyalexander2009**: Pelican (MFR) | **serpentibendi**: Cow (MFR), Caterpillar (MFR) |
+| 21:40 | **Chcd_baby**: Cow (R) | **Bruh_raciiuz**: Fairy Bat Dragon (R), Chocolate Dutch Guinea Pig (NR) |
+| 21:40 | **Eugenia873**: Caterpillar (R) | **Soophiiiiiia**: Arctic Fox, Polar Bear, Blue Cat Ear Headphones, Ride-A-Pet Potion |
+| 21:40 | **nizokoOwO**: Sushi Penguin | **irishazu_2014**: Ride-A-Pet Potion |
+| 21:40 | **Adoree_nevaeh13**: Kangaroo (FR), Haetyphoon (FR), 2022 Birthday Party Hat, Ice Cream Cone Hat ×3, Pancake Stack ×2 | **serpentibendi**: Jester Dragon (MFR), Cattuccino (MFR) |
+| 21:40 | **jetedispas212**: Ice Cream Hermit Crab (FR), Brown Bear (R), Polar Bear (R), Happy Duckling (NFR), Pretty Pony (N), Latte Kitsune (FR), Fly-A-Pet Potion | **Artloverpaintlover**: Candyfloss Chick (FR) |
+| 21:40 | **AmvggPi0n41K**: Rainbow Maker, Kitty Bat (M), Siamese Cat (FR), Rain Cloud Hat, Meerkat (R) | **Artloverpaintlover**: Cryptid (FR) |
+| 21:40 | **jumex2j4**: African Wild Dog, Arctic Reindeer (N) | **sursyrzytxurzutzutz**: Frost Dragon (FR) |
+| 21:40 | **Cris2025213F**: Kitty Bat (MR), Abyssinian Cat (M), Kelp Raider (M), Arctic Hare (MR), Flying Fish (MFR), Gilded Snake (N), Fly-A-Pet Potion | **kkaatEEe2**: Copycat (NFR) |
+| 21:36 | **BINKY5085**: Goose (R) | **KayleeSt0rm147**: Christmas Egg, Ice Cream Cone Hat |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
