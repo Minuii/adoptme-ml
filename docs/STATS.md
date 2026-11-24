@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 21:46 UTC by the scrape workflow._
+_Updated 2026-11-24 21:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 21:46 UTC by the scrape workflow._
 | amvgg | 14 | 43,922 | 2026-11-24T21:45 |
 | elve | 14 | 9,054 | 2026-11-24T21:46 |
 
-## AMVGG completed trades: 61,294 total
+## AMVGG completed trades: 61,325 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,632 |
+| 2026-11-24 | 3,663 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 21:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:45 | **Lucifer_Kotik4**: Frostbite Bear (FR), Strawberry Penguin (R), Diamond Hummingbird | **dermo12327**: Fairy Bat Dragon (FR) |
-| 21:45 | **lynnedcool**: Mythic Egg ×3 | **abraxxee**: Gemstone Egg ×3 |
-| 21:45 | **Aldalina0**: Chihuahua (N), Chihuahua | **szoozin**: Chihuahua (NR) |
-| 21:45 | **quinniaqila**: Velociraptor (NR), Paint Sealer ×4 | **Sh1r0_23Lol**: Halloween Golden Mummy Cat (N) |
-| 21:45 | **lolllbarbzv**: Bunny Swirl (MR) | **islandicsinger**: Spring Bunny Hood, Spring Bunny Nose |
-| 21:45 | **lacandon1235**: Frost Dragon (FR), Tree Kangaroo (NFR), Strawberry Shortcake Bat Dragon Backpack | **Extraalt_forval**: Candyfloss Chick (MFR) |
-| 21:45 | **Adore_Pandaz**: Snow Monkey (FR) | **kotenokoops**: Leopard Cat (NR), Onza (NR), Cozy Mistletroll, Golden Unicorn, Humbug (N) |
-| 21:45 | **Cookie_PlaysYT3**: Munchkin Cat (MFR) | **wvuqil**: Copycat (MFR) |
-| 21:45 | **Sosoooosososs**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **robloxchanelleplus2**: Scarebear (N) |
-| 21:45 | **masterofsponges**: Fly-A-Pet Potion ×5 | **sofcheke**: Ride-A-Pet Potion ×9 |
-| 21:45 | **You_SooCringe**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion | **1mpactOO**: Cabbit (FR) |
-| 21:45 | **kuwixss**: Unicorn Horn, Spring Bunny Hood, Spring Bunny Nose, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Red Fox (N) | **6utszz**: Peppermint Penguin (R) |
-| 21:40 | **NaNa_whatsup67**: Haetae (FR), Hot Doggo (FR), Fly-A-Pet Potion | **1vkx3**: Parrot (FR) |
-| 21:40 | **eliasjosh8**: Christmas Pudding Pup (NFR) | **BriellaJazara2013**: Harp Seal (MFR) |
-| 21:40 | **zow_98alt**: Unicorn Horn, Fly-A-Pet Potion | **0BVSLUCA**: Reindeer (MFR), Nessie (FR) |
+| 21:55 | **cauejikook2**: Dango Penguins (NR), Panda (NR), Tutu | **Chelsiowxx**: Candicorn (FR) |
+| 21:55 | **sweetlyscar**: Bready Necklace, Heart Bow | **kneesurgeryreminder**: Pink Heart Glasses |
+| 21:55 | **Hi_IamLinet**: Crystal Egg ×14 | **cxbvnniz**: Ride-A-Pet Potion |
+| 21:55 | **mgodson6**: Cryptid (NFR), Cryptid (FR), Halo, Tiny Wings ×2 | **D34thn0t340**: Peppermint Penguin (MFR) |
+| 21:55 | **den9ial**: Evil Unicorn (FR) ×3, Rainbow Maker, Queen Bee (NFR), Aestus (N), Tiny Wings, Pancake Stack, Banana Hat ×2, Shadow Aura, Chocolate Chip Bat Dragon Backpack, Burger Bun Hat, White Chef Hat, Llamalush Purse Pet | **roblox_user_8676283275**: Giraffe (FR) |
+| 21:55 | **guillemoran**: Glacier Kitsune (MFR), Arctic Dusk Dragon (MFR), Arctic Fox (MFR), Puffin (MFR), Arctic Dusk Dragon (M) | **1Sxphii1**: Arctic Reindeer (MFR) |
+| 21:51 | **horimiyaa_13**: Latte Kitsune, Ride-A-Pet Potion ×2, Ranger Beaver, Admin Abuse Egg | **isabelleadoptme10**: Spring Bunny Hood |
+| 21:51 | **Cocoxmistyyt**: Lamb (MFR), Llama (MFR) | **Finleyjxx**: Queen Bee (MFR), Prismatic Butterfly (MFR) |
+| 21:51 | **Hi_IamLinet**: Crystal Egg ×14 | **l1ngenrr**: Ride-A-Pet Potion |
+| 21:51 | **nightwalkintherain**: Dragonfruit Fox (NR) | **WeAreTheStars_3**: Ride-A-Pet Potion ×7, Fly-A-Pet Potion ×2 |
+| 21:51 | **89Xqbx**: Cow (NR), Ride-A-Pet Potion, Zebra (MFR) | **cxbvnniz**: Arctic Reindeer (FR) |
+| 21:51 | **Samathaxpotions**: Panda (R), Sushi Penguin ×4 | **Presentformery**: Sushi Penguin (N) |
+| 21:51 | **rrstockxadm**: Crystal Egg ×17 | **Elwanizk**: Ride-A-Pet Potion |
+| 21:51 | **Swimguwin**: Ride-A-Pet Potion | **CrimsonBlaze8609**: Crystal Egg ×18 |
+| 21:51 | **lunarodlox38**: Copycat (R), Chihuahua ×2 | **hskthrblx**: Rose Dragon (R), Dango Penguins |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
