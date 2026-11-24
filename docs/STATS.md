@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 18:25 UTC by the scrape workflow._
+_Updated 2026-11-24 18:32 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 18:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 40,596 | 2026-11-24T18:15 |
-| elve | 14 | 8,297 | 2026-11-24T18:15 |
+| amvgg | 14 | 40,813 | 2026-11-24T18:30 |
+| elve | 14 | 8,347 | 2026-11-24T18:32 |
 
-## AMVGG completed trades: 60,532 total
+## AMVGG completed trades: 60,565 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,870 |
+| 2026-11-24 | 2,903 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 18:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:25 | **Daniel_Hackenbush**: Lammergeier (N), Ginger Cat (N) | **fujiappleluvzz**: Ride-A-Pet Potion |
-| 18:20 | **kskxkxkskd**: Shrew (FR), 2022 Birthday 5 Badge | **Oqulentity**: Midnight Dragon (FR) |
-| 18:20 | **cxbvnniz**: Fallow Deer (M), Toaster Hat, 2022 Birthday Confetti Cannon | **Sonya73p**: Dalmatian (FR) |
-| 18:20 | **LeaNavarro98**: Hare, Chocolate Dutch Guinea Pig | **S0ul151**: Jester Dragon |
-| 18:20 | **XALEXX30005**: Crystal Egg ×18 | **S0ul151**: Ride-A-Pet Potion |
-| 18:20 | **ariesdesire**: Chocolate Dutch Guinea Pig (MFR), Copycat | **4ssure**: Matcha Cat (NFR) |
-| 18:20 | **Kali_girl790**: Bunny Swirl, Cake Friend, Snowball Pug (R), Brown Springer Spaniel, Chocolate Dutch Guinea Pig | **quietlyangel**: Ride-A-Pet Potion ×4 |
-| 18:20 | **c0ward1y**: Haetae, Grim Dragon (NFR) | **atracttion**: Werewolf (MFR) |
-| 18:20 | **pepapepa333**: Turtle (FR) ×4, 2022 Birthday Cake | **carlkilling**: Blazing Lion (FR) |
-| 18:20 | **Daniel_Hackenbush**: Love Bird (N) ×2 | **fujiappleluvzz**: Ride-A-Pet Potion ×2 |
-| 18:20 | **Kali_girl790**: Orange Butterfly, Royal Corgi, Amami Rabbit (N), Alley Cat (R) | **quietlyangel**: Ride-A-Pet Potion ×7 |
-| 18:20 | **coqoqek**: Thunderfisher (M), Thunderfisher (N) | **Hehe_hehehehehehehh0**: Ride-A-Pet Potion |
-| 18:20 | **Youmyrii**: Goose (FR), Cow (FR), Siamese Cat, Pet Handler Pro Certificate, Ride-A-Pet Potion ×2 | **ThatgirlAyano**: Dalmatian (FR) |
-| 18:20 | **MidnightNotBee**: Copycat, Goose (R), Copycat (N), Cow (FR), Munchkin Cat (NR), Cabbit, Choco Penguin (NR), Mythic Egg | **rainpub**: Crow (FR) |
-| 18:20 | **Cluvdi4**: Pain au Chat | **TheEerthh**: Crystal Egg ×7 |
+| 18:30 | **kita_karamelka**: Dalmatian (FR), Elephant (FR) | **Cristoferpro73739**: Lion Cub (MFR) |
+| 18:30 | **LoveRancee**: Arctic Reindeer (FR), Cabbit (FR) ×2, Fairy Bat Dragon (FR), Siamese Cat (FR), Peach Owl (MFR), Silly Duck (NFR) | **aleks2u**: Owl (FR) |
+| 18:30 | **egoklled**: Ride-A-Pet Potion | **cornogeeiii**: Bat Backpack |
+| 18:30 | **Vasiaplayss**: Pangolin (M), Cattuccino, Ancient Dragon | **7ckyy**: Ride-A-Pet Potion |
+| 18:30 | **rexy_7830**: Crow (NFR), Goose (R), Chocolate Dutch Guinea Pig (NR) | **Shhdhehdneirjndnd**: Alpaca (MFR) |
+| 18:30 | **1lyybow**: Giant Anteater | **Rylo122414**: Toasty Red Panda (MFR) |
+| 18:30 | **9vvdx**: Dalmatian (FR) | **violet4everofc**: Goose (NFR), Flower Power Duckling (MFR) |
+| 18:30 | **Rylo122414**: Toasty Red Panda (MFR) | **1lyybow**: Giant Anteater |
+| 18:30 | **xosleepybunny**: Candicorn, King Bee, Solar Burst Mega Neon Paint, Blue Boohoo Mega Neon Paint, Halloween Slime Mega Neon Paint | **lohdyjdivuvjpywb**: Copycat (N) |
+| 18:30 | **Waq1uxx**: Ride-A-Pet Potion ×5, Spring Bunny Feet | **lohdyjdivuvjpywb**: Matcha Cat |
+| 18:30 | **mhydvh0**: Mini Pig (R), Arctic Reindeer (FR), Fairy Bat Dragon (FR), Pig (R), Candicorn (R), Goat (R), Copycat, Kangaroo, Munchkin Cat, Lava Dragon (FR) | **yanchik0067**: Owl (FR), Ride-A-Pet Potion |
+| 18:30 | **cozymikoriaa**: Jellyfish (MFR), Unicorn Horn | **imreaIIIypretty**: Chocolate Chip Bat Dragon (NFR) |
+| 18:30 | **MOIK0K**: Harp Seal (MFR), Ram (MFR), Turtle (FR), Siamese Cat (R), Rice Cake Rabbit (NFR), Bready Necklace, Sandwich Hat, Spring Bunny Feet, Cattuccino | **spojIfed**: Cryptid (R) |
+| 18:30 | **kiostockers**: Balloon Unicorn (NFR), Ride-A-Pet Potion | **PrincezzNatty**: Balloon Unicorn (NFR) |
+| 18:30 | **AndresPatato**: Paint Sealer ×13 | **D_o0x5**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
