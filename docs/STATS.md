@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 23:46 UTC by the scrape workflow._
+_Updated 2026-11-24 23:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 23:46 UTC by the scrape workflow._
 | amvgg | 14 | 45,792 | 2026-11-24T23:45 |
 | elve | 14 | 9,478 | 2026-11-24T23:46 |
 
-## AMVGG completed trades: 61,647 total
+## AMVGG completed trades: 61,699 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,985 |
+| 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 23:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:41 | **Vadjik12**: Pupcake (NR) | **Byeedontmindme1234**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 23:41 | **Shehatesme420**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **9nvls**: Chicken ×2, Horse, Gecko, Toy Monkey, Cute-A-Cabra |
-| 23:41 | **ates_yurek**: Goat (NR) | **9nvls**: Jellyfish, 2022 Birthday Cake, Santa Hat |
-| 23:41 | **4URANZ3**: Crow (FR), Cabbit (NFR), Rainbow Maker, Chocolate Chip Bat Dragon (FR), Unicorn Horn | **pusilups**: Alpaca (MFR) |
-| 23:41 | **xXfayridreamXx**: Cryptid (NFR) | **s6ythed**: Strawberry Shortcake Bat Dragon (NFR), Cow (FR), Border Collie (NFR), Polar Bear (NFR) |
-| 23:41 | **Banvadis**: Blazing Lion (FR), Ride-A-Pet Potion | **Puppylover227331**: Blazing Lion |
-| 23:41 | **maks070706**: Chihuahua | **XxBxd_TomboyxX**: Slimingo Feather Teleporter |
-| 23:41 | **Acorn0930**: Crystal Egg ×10 | **bunnyyclips**: Ride-A-Pet Potion |
-| 23:41 | **wldnsdlrnldudna**: Chocolate Dutch Guinea Pig (MFR), Chocolate Dutch Guinea Pig (MR), Prismatic Butterfly (MR), Space Whale (MFR) | **fluffyunicorns_932**: Munchkin Cat (MFR), Purple Butterfly (N), Dango Penguins |
-| 23:41 | **TOXICDOLLIEZ**: Border Collie (MFR), Balloon Unicorn (FR), Copycat, Spring Bunny Hood, Rainbow Maker | **lol_whateverx67hsk81**: Mini Pig (MFR) |
-| 23:41 | **TradersCart**: Cow (FR) | **lol_whateverx67hsk81**: SSBD Beanie |
-| 23:41 | **themudwizard**: Ride-A-Pet Potion | **YOKOZ303**: Strawberry Shortcake Bow, Koi Carp |
-| 23:41 | **Panci_Terbang33**: Fly-A-Pet Potion | **littyamelia**: Tree Sasquatch, Boohoo, Ghost Wolf, Patchy Bear, Jumpscare, River Otter, Electric Hornet, Halloween White Mummy Cat, Robin, Ice Cube ×2, DJ Snooze, Milk Choccybunny (N), Stitches, Pomeranian, Brown-Chested Pheasant, Gingerbread Mouse, Ladybug |
-| 23:41 | **Sentikaza_pikachu**: Dalmatian (FR) | **lIIIllIllllIIIIIIII**: Munchkin Cat (MFR) |
-| 23:41 | **chii_t3alatte**: Ride-A-Pet Potion, Pet Handler Pro Certificate | **Puppylover227331**: Enchanted Broomstick |
+| 23:55 | **puppies_forever60606**: Giraffe (NFR), Candicorn, Alley Cat (NFR) | **AMOANICOLE78**: Giraffe, Giraffe (FR) |
+| 23:55 | **butterflieshi**: Kangaroo (FR) | **marcita1114**: Candicorn, Ride-A-Pet Potion |
+| 23:55 | **Idkk_0426**: Rose Quartz Glow Mega Neon Paint, Halloween Slime Mega Neon Paint | **Jimmytron15**: Frosty Glow Mega Neon Paint |
+| 23:55 | **iiParisoutlet**: Cuddly Candle (MFR), Mini Schnauzer (MFR), Kookaburra (MFR) | **astronomyiesha**: Glacier Moth (MFR) |
+| 23:55 | **Laurinha_cake**: Turtle (FR), Unicorn (NR), Dragonfruit Fox | **lovewqnted**: Flash Weasel (N) |
+| 23:55 | **happyfluffy510**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×8, Happy Clam | **fatlotto**: Fairy Bat Dragon (FR) |
+| 23:55 | **krxadm3**: Crystal Egg ×17 | **Bubblesby_bailey1234**: Ride-A-Pet Potion |
+| 23:55 | **BREEZY_LOVER1**: Ride-A-Pet Potion | **krxadm3**: Crystal Egg ×16 |
+| 23:55 | **TeezYeez**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **Xxfortnite401kxX**: King Bee (NFR) |
+| 23:55 | **Ozello_1**: German Shepherd | **Jasmine32456778**: Fly-A-Pet Potion |
+| 23:55 | **XYoureaDISGRACE**: Burger Boots | **nimalina463**: Pain au Chat, Chihuahua |
+| 23:51 | **abdoosaad**: Candicorn (NFR) ×3 | **Mika_Akkerman**: Cow (FR), Turtle (FR), Candicorn (R) ×3, Candicorn |
+| 23:51 | **Vasilisa_srt**: Ride-A-Pet Potion | **Alison_3422**: Tuxedo Cat, Purrowl |
+| 23:51 | **fluffyunicorns_932**: Mule (MFR) | **mangomonsterlove**: Bald Eagle (NR) |
+| 23:51 | **A1d3n_L1ve**: Fly-A-Pet Potion, Water Rabbit (FR) | **maks070706**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
