@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 10:41 UTC by the scrape workflow._
+_Updated 2026-11-24 10:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 10:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 33,279 | 2026-11-24T10:30 |
-| elve | 14 | 6,597 | 2026-11-24T10:31 |
+| amvgg | 14 | 33,503 | 2026-11-24T10:45 |
+| elve | 14 | 6,644 | 2026-11-24T10:46 |
 
-## AMVGG completed trades: 58,974 total
+## AMVGG completed trades: 58,979 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,312 |
+| 2026-11-24 | 1,317 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,11 @@ _Updated 2026-11-24 10:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:45 | **Pollito_conpap1308**: Binturong, Chihuahua ×3, Water Rabbit (R) | **michifuBv18462**: Latte Kitsune |
+| 10:45 | **Goku_Gaming4753**: Crystal Egg ×17 | **Xxsunflower_watherxX**: Ride-A-Pet Potion |
+| 10:45 | **shadowxxx14jl**: Shark Puppy (NR), Sea Slug (NR), 2022 Birthday Party Hat, Unicorn Horn | **Btstvdyndynfy9**: Haetae (FR), Pomeranian (M) |
+| 10:45 | **Vitamirka**: Kiwi Kiwi ×6 | **Dinkarrt**: Ride-A-Pet Potion ×3 |
+| 10:45 | **Gumballcookielover**: Arctic Dusk Dragon (NFR), Christmas Pudding Pup, Ride-A-Pet Potion | **paola_thebee**: Christmas Pudding Pup (NFR) |
 | 10:41 | **andro012233**: Crocodile (FR) | **Sigatotkaka**: Aestus (NFR) |
 | 10:41 | **KEKS1TOP**: Arctic Dusk Dragon (FR), Stray Cat Dragon (N), Squid Plush | **Kot789906**: Aurora Fox (FR) |
 | 10:41 | **Masiyiko**: Diamond Butterfly (FR) | **m6onvr**: Turtle (FR) ×2 |
@@ -49,11 +54,6 @@ _Updated 2026-11-24 10:41 UTC by the scrape workflow._
 | 10:41 | **luvdokyeomie**: Ride-A-Pet Potion | **lo0vyyu**: Crystal Egg ×17 |
 | 10:36 | **Sytinely**: Fly-A-Pet Potion ×3 | **nastyxx_ww**: Ride-A-Pet Potion ×6 |
 | 10:36 | **dccdles**: Owl (FR) | **Zh_ind**: Rainbow Maker ×2, Angel Wings, Unicorn Horn ×2, Spring Bunny Hood |
-| 10:36 | **Zydac1**: Gingerbread Mouse ×2, Peachick ×2, Maine Coon | **Mintsunooi**: Ride-A-Pet Potion |
-| 10:36 | **Tuti89975**: Cow (NFR), Gaelic Fae (MFR), Cow (FR) ×2, Angel Wings, Candyfloss Chick (FR), Kangaroo (FR), Elephant (FR), Field Mouse (R) | **Zolombo7**: Frost Dragon (FR) |
-| 10:36 | **shikiimorii1**: Ride-A-Pet Potion ×2 | **myBestiVlad2380**: Fly-A-Pet Potion |
-| 10:36 | **KADJDIS**: Cow (FR) | **prince_onepator**: Mermicorn (FR), Ice Cream Cone Hat, Mrs. Whiskerpips (N), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 10:36 | **roblox_user_8676283275**: Elephant (FR) | **Walerishka_sim2214**: Pineapple Owl (NFR), Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
