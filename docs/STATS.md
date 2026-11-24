@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 15:55 UTC by the scrape workflow._
+_Updated 2026-11-24 16:02 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 15:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 38,171 | 2026-11-24T15:45 |
-| elve | 14 | 7,602 | 2026-11-24T15:46 |
+| amvgg | 14 | 38,398 | 2026-11-24T16:01 |
+| elve | 14 | 7,679 | 2026-11-24T16:02 |
 
-## AMVGG completed trades: 59,921 total
+## AMVGG completed trades: 59,939 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,259 |
+| 2026-11-24 | 2,277 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 15:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:55 | **chapa4ka579**: Glyptodon ×4 | **Kortoxa177**: Ride-A-Pet Potion |
-| 15:55 | **6I_dasic**: Fly-A-Pet Potion ×4 | **NjOjwIvjTxQ**: Cupid Dragon (FR) |
-| 15:55 | **fluffybunny686809**: Leopard Shark (NFR), White Chef Hat | **xXCreamy_starXx0**: Goat (FR) |
-| 15:55 | **elproXD_7v7**: Pain au Chat ×15 | **hifyou15**: Ride-A-Pet Potion ×5 |
-| 15:55 | **CHEBURASHKAAA123**: Irish Water Spaniel, Strawberry Shortcake Bat Dragon (FR) | **Teach_baby**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 |
-| 15:55 | **Keksmonster202**: Pangolin (N), Ocelot (N), Shetland Pony Dark Brown (N) ×2, Water Opossum (N), Zeopod (N) | **viktoriapotrivay**: Ride-A-Pet Potion |
-| 15:55 | **v3zxsless**: Turtle (NFR), Border Collie (FR), Australian Kelpie (MR), Bee (NFR) | **yoonicornlover**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:55 | **1MZ03Y**: Fly-A-Pet Potion ×10 | **Yupiterd**: Kangaroo (FR) |
-| 15:55 | **tradingg_account**: Polar Bear (MFR), Leopard Shark (MFR) | **Max051812**: Copycat (MR), Ride-A-Pet Potion ×2 |
-| 15:55 | **roronoazoro1gg**: Fly-A-Pet Potion ×2, Chameleon | **dudinha8y8**: Copycat |
-| 15:51 | **LotusEr11**: Retired Egg ×18 | **Asya_foxii**: Catte |
-| 15:51 | **noahiix5**: Ride-A-Pet Potion, Raccoon ×2 | **tired_ooflifenumb**: Golden Tortoise Beetle (NR) |
-| 15:51 | **1MZ03Y**: Kangaroo (FR) ×2 | **Tal_Kazman**: Cow (FR) |
-| 15:51 | **uiokgg1**: Fly-A-Pet Potion ×2, Emberlight (N) | **Callme_Mary45**: Punk Pony (M) |
-| 15:51 | **ula12579**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×3 | **Artem_21a2**: Midnight Dragon (NFR) |
+| 16:00 | **Lolxdbraez**: Slime (MFR), Copycat (N) | **gabrielcore123**: Frostbite Bear (NFR) |
+| 16:00 | **botoxedbody**: Cow (NFR), Goose | **ljwempire777**: Puffin (MFR) |
+| 16:00 | **ALV4RYTO**: Ride-A-Pet Potion ×2 | **Jaeebirddd**: Pineapple Owl |
+| 16:00 | **Bearsarecool500**: Frostbite Bear, Alpaca (R), Alpaca, Sea Slug, Moonbeam Peacock (FR), Copycat ×2, Grave Owl (MFR), Happy Clam, Snow Monkey, Chef Hat ×2 | **v1rU666**: Cryptid |
+| 16:00 | **wowohaha17**: Copycat | **Jasmine32456778**: Ride-A-Pet Potion ×6 |
+| 16:00 | **WhinyBuny**: Dalmatian (FR), Fly-A-Pet Potion, Pet Handler Pro Certificate ×3 | **Nastya_367367**: Strawberry Shortcake Bat Dragon (FR), Peppermint Penguin (FR) |
+| 16:00 | **rainbow28546**: Pig (R), Capybara (R), Magic House Door | **avokado78o**: Golden Jaguar (N), Pig (R) |
+| 16:00 | **Void88881**: Arctic Reindeer (FR), Ride-A-Pet Potion ×3 | **aleks2u**: Mermicorn (NFR) |
+| 16:00 | **Usuario30x**: Jester Dragon (N) | **versaiIless**: Elephant (R), Ride-A-Pet Potion |
+| 16:00 | **Goodbyes26**: Crystal Egg ×15 | **Kamila12mm3newacc**: Snowball Pet (R) |
+| 16:00 | **bunny1236523**: Giant Cheetah Mount, Ride-A-Pet Potion ×5 | **Kazuha0302**: Tortoiseshell Guinea Pig (R) |
+| 16:00 | **luciano230409**: Unicorn (MR), Ride-A-Pet Potion ×2, Classic Trade Stand, Fly-A-Pet Potion, Hot Doggo (FR), Kitty Bat | **MatsGerro98**: Lava Dragon (MFR) |
+| 16:00 | **Stxrrynight0303**: Pet Handler Pro Certificate | **MISCHANYA1890**: Ride-A-Pet Potion ×2 |
+| 16:00 | **iaMatthieu1**: Turtle (FR) ×3 | **Vitek_228666**: Arctic Reindeer (FR) |
+| 16:00 | **kumasfavv**: Pig (FR), Pig (R) | **leesoyul11111111**: Flamingo (R) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
