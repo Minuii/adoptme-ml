@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 14:56 UTC by the scrape workflow._
+_Updated 2026-11-24 15:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 14:56 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 37,188 | 2026-11-24T14:45 |
-| elve | 14 | 7,370 | 2026-11-24T14:46 |
+| amvgg | 14 | 37,442 | 2026-11-24T15:00 |
+| elve | 14 | 7,445 | 2026-11-24T15:01 |
 
-## AMVGG completed trades: 59,736 total
+## AMVGG completed trades: 59,754 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 2,074 |
+| 2026-11-24 | 2,092 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 14:56 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:56 | **Konst_ant1nos22748**: Crystal Egg ×17 | **fairyqxfaee**: Ride-A-Pet Potion |
-| 14:56 | **The_Mery24**: Harp Seal (N) | **Fidelia2131415**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
-| 14:56 | **Good_Girl5550**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion | **kreker0900**: Candicorn |
-| 14:56 | **Indigo_Erin**: Black Chow-Chow ×2 | **Chiyothebestrust**: Cherry Blossom Flower Sticker ×18 |
-| 14:56 | **alorahdavis123456**: Ride-A-Pet Potion ×2 | **inputw**: Pet Handler Pro Certificate |
-| 14:56 | **Ethernaces**: Stray Cat Dragon ×16 | **morgen67svo**: Ride-A-Pet Potion ×2 |
-| 14:56 | **iisakurarblx**: Crow (FR), Dalmatian (FR), Alpaca | **MallyaFFka**: Frost Dragon (FR) |
-| 14:56 | **enggg0o0**: Ride-A-Pet Potion | **0Neizvestnost0**: Puffer Fish |
-| 14:56 | **HuGe_123cAt**: Giant Black Scarab (M) | **inputw**: Ride-A-Pet Potion ×2, Pain au Chat (R) |
-| 14:56 | **Babielily1**: Cabbit (NFR), Spring Bunny Hood | **qihuahuas**: Goose (NFR) |
-| 14:56 | **me_shawrma**: Stitches ×4, Retired Egg ×5 | **izumii_yuna**: Stitches (N) |
-| 14:56 | **Kvammletitraketa**: Copycat (NR) | **xosleepybunny**: Fallow Deer (NR), Chocolate Dutch Guinea Pig, Pet Handler Pro Certificate |
-| 14:56 | **Antonipes**: Ride-A-Pet Potion | **NinjaBladeElijah_360**: Gummy Guana (M), Quetzalcoatl (R) |
-| 14:56 | **DrendyRobLox**: Stray Cat Dragon ×17 | **Tiltedtyler2012**: Pet Handler Pro Certificate |
-| 14:56 | **XALEXX30005**: Crystal Egg ×17 | **ebrookes2020**: Ride-A-Pet Potion |
+| 15:00 | **IIzmemories**: Arctic Reindeer (MFR), Winged Tiger (MFR), Munchkin Cat (MFR), 2022 Birthday Party Horn, Grim Dragon (NFR), Strawberry Tortle, Winged Tiger (FR), Pink Betta Fish (MFR), Ghost Bunny (NFR) | **evokefairy**: Owl (NFR), Parrot (NFR) |
+| 15:00 | **tocino_chocolate**: Possum, Rattlesnake ×4, Water Opossum ×2, Bakeneko ×3, Velociraptor ×4, Banded Palm Civet, Yellow-Lipped Sea Krait ×2, Rock | **mell0rxs**: Ride-A-Pet Potion |
+| 15:00 | **GalaxyCat_X5**: Cow (R), 2022 Birthday Party Hat, Harp Seal (MR), Crocodile (R), Munchkin Cat, Midnight Dragon (R) | **kittycutecat11130**: Hedgehog (FR) |
+| 15:00 | **clalouetciedh**: Pain au Chat ×18 | **ula12579**: Ride-A-Pet Potion ×5 |
+| 15:00 | **Kubikrubik_163**: Admin Abuse Egg ×17 | **looter_love**: Ride-A-Pet Potion |
+| 15:00 | **TradingInD**: Frostbite Bear (R), Fly-A-Pet Potion, Jester Dragon | **xMaddieglolx**: Zombie Wolf (MFR) |
+| 15:00 | **polina_polinka23774**: Unicorn, Mummy Spider | **17bxnjiitaaa**: Ride-A-Pet Potion |
+| 15:00 | **bl0xby**: Chocolate Chip Bat Dragon (FR) | **Dahom_Bili**: Mini Pig (FR), Fairy Bat Dragon (FR) |
+| 15:00 | **tufvfffdjdg**: Golden Lettuce, Chocolate Dutch Guinea Pig, Kiwi Kiwi ×2, Pet Handler Pro Certificate ×5, Ride-A-Pet Potion, Diamond Unicorn | **thatonebobalover4**: Candicorn (FR) |
+| 15:00 | **elproXD_7v7**: Pain au Chat ×9 | **OBV1XIVA**: Ride-A-Pet Potion ×3 |
+| 15:00 | **kittycatkathy7523**: Catte (MFR), Chipmunk (MR), Propeller Hat | **Sofik_oc**: Goat (NFR) |
+| 15:00 | **Dazai_osamis**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×8 | **odading12318**: Fairy Bat Dragon (FR) |
+| 15:00 | **LUISMATEO3112**: Ride-A-Pet Potion | **mei_mei1579**: Kitty Bat |
+| 15:00 | **olddeathcore**: Fly-A-Pet Potion ×2 | **berdecol**: Diamond Hummingbird |
+| 15:00 | **xf3y4a**: Parrot (R), Parrot (FR), Frost Dragon (FR), Owl (FR), Tiny Wings, Goose (R) | **aceplayz_24**: Bat Dragon (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
