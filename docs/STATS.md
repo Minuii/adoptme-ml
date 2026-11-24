@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 12:25 UTC by the scrape workflow._
+_Updated 2026-11-24 12:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 12:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 34,868 | 2026-11-24T12:15 |
-| elve | 14 | 6,853 | 2026-11-24T12:15 |
+| amvgg | 14 | 35,095 | 2026-11-24T12:30 |
+| elve | 14 | 6,910 | 2026-11-24T12:31 |
 
-## AMVGG completed trades: 59,229 total
+## AMVGG completed trades: 59,242 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,567 |
+| 2026-11-24 | 1,580 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 12:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:30 | **unlimited_food**: Frost Dragon (FR), Ride-A-Pet Potion | **ixB4dVib3ssxi**: Cryptid, Arctic Reindeer (FR), Dalmatian (FR), Alley Cat (NR) |
+| 12:30 | **Vitamirka**: Kiwi Kiwi ×4 | **neversshy**: Ride-A-Pet Potion ×2 |
+| 12:30 | **44HxH44**: Ballet Swan (R) | **stafhnel**: Arctic Dusk Dragon |
+| 12:30 | **L0VINGLISSA**: Gumball Caterpillar, Gummy Guana, Toucan, Angus Cow, Thunderfisher, Budgie Witch, Fennec Fox, Tree Frog ×2, Ant, Cat, Mouse | **Micky_0950**: Chihuahua |
+| 12:30 | **clalouetciedh**: Chihuahua ×18 | **archi_chozza**: Ride-A-Pet Potion ×5 |
+| 12:30 | **puuuurrrraaawww**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **gkfnjdyn**: Biodome Home |
+| 12:30 | **elfania_3**: Dalmatian (FR), Turtle (NFR) | **Krvsvha**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 12:30 | **clalouetciedh**: Pain au Chat ×4 | **Ihope_youknow**: Chocolate Dutch Guinea Pig |
+| 12:30 | **cxar_25**: Bat Dragon (NFR) | **puppies_forever60606**: Bat Dragon (FR), Giraffe (FR), Chocolate Chip Bat Dragon (MFR), Dalmatian (NFR), Border Collie, Fairy Bat Dragon (FR) |
+| 12:30 | **Addo_Cit**: Peppermint Penguin (FR), Tiny Wings, Ice Cream Cone Hat, Sloth (M), Tri-horned Treehopper (R), Latte Kitsune (R), Ninja Monkey (R), Chocolate Dutch Guinea Pig, Corn Doggo | **yusokini25**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:30 | **Elisa_hollands**: Cryptid (MFR), Peppermint Penguin (NFR), Shark Puppy (FR) | **cxar_25**: Hedgehog (MFR) |
+| 12:30 | **Certifiedbwunnii**: Bat Dragon (FR) | **cxar_25**: Cryptid (MFR) |
+| 12:30 | **PS_Keiken**: Cow (FR), Goose (FR) | **roronoazoro1gg**: Arctic Dusk Dragon (MFR) |
 | 12:25 | **Vitamirka**: Chihuahua ×18 | **hdfbyx**: Ride-A-Pet Potion ×6 |
 | 12:25 | **method611491**: Giraffe (FR), Spring Bunny Hood | **dloxasteq2**: Arctic Reindeer (MFR) |
-| 12:25 | **MM_Cloud**: Crystal Egg ×18 | **cxbvnniz**: Ride-A-Pet Potion |
-| 12:25 | **ALV4RYTO**: Turtle (FR) | **AnnDemon_12**: Fly-A-Pet Potion ×12 |
-| 12:25 | **kzcallista**: Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR) ×2, Cow (FR), Ice Cream Cone Hat ×7, Ride-A-Pet Potion | **ii_aldrin20**: Owl (FR) |
-| 12:25 | **ii_AceKun**: Cow (R) | **Zak_0250**: Fly-A-Pet Potion ×17 |
-| 12:25 | **GLxWassim103**: Donut Stroller ×18 | **aliir1875**: Fly-A-Pet Potion |
-| 12:25 | **arisussn**: Red Dutch Guinea Pig, Arctic Dusk Dragon (R) | **Fox_micro9311**: Arctic Fox (R) |
-| 12:25 | **Yamajyjopyvazelinov1**: Scarebear (R), Electric Hornet | **afissamuzfirah**: Fly-A-Pet Potion |
-| 12:25 | **kich1qu**: Dragonfruit Fox ×4, Fly-A-Pet Potion, Ride-A-Pet Potion | **StrawberryKiitten**: Cozy Cabin |
-| 12:25 | **DES1R333333**: Ride-A-Pet Potion | **yshikza**: Crystal Egg ×18 |
-| 12:25 | **andro012233**: Kangaroo (FR) | **Sk4tesItsAriaBlox**: Brown Bear (NFR) |
-| 12:25 | **stargamer_5425**: 2022 Birthday Party Horn ×2 | **sleepy_s0ren**: Turtle (FR) |
-| 12:25 | **NerVhana**: Goose (FR), Goose | **Lazyymimi**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:25 | **staceyschafer**: Love Bird (N), Tree Kangaroo (R), Winter Doe (R) | **Yumi_Rose8**: Ride-A-Pet Potion, Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
