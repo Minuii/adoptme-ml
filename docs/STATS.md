@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 04:11 UTC by the scrape workflow._
+_Updated 2026-11-24 04:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 04:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 27,363 | 2026-11-24T04:00 |
-| elve | 14 | 5,528 | 2026-11-24T04:01 |
+| amvgg | 14 | 27,585 | 2026-11-24T04:15 |
+| elve | 14 | 5,536 | 2026-11-24T04:15 |
 
-## AMVGG completed trades: 58,290 total
+## AMVGG completed trades: 58,304 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 628 |
+| 2026-11-24 | 642 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 04:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:15 | **kocbz_64**: Mini Pig (R), Sakura Spirit (FR), Frost Fury (FR), Frost Fury (R), Ride-A-Pet Potion, Fly-A-Pet Potion | **xoK3R3Mxo**: Chocolate Chip Bat Dragon (FR) |
+| 04:15 | **yugfy21**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **notmymainaccount216**: Christmas Pudding Pup |
+| 04:15 | **Eceuni**: Harp Seal, Pupcicle, Back Taco | **notmymainaccount216**: Fly-A-Pet Potion |
+| 04:15 | **xiakusu**: Unicorn Horn, Toaster Hat, Chihuahua (MFR) | **4evxer**: Halo |
+| 04:15 | **iiheartzb**: Frostbite Bear (MFR) | **D00dle_C4t**: Black-Chested Pheasant (MFR) |
+| 04:15 | **puppiesxpawws**: Mummy Spider (M) | **Random1513**: Paint Sealer ×6 |
+| 04:15 | **PrincezzNatty**: Strawberry Shortcake Bat Dragon (R) | **santiago645980**: Rainbow Maker, Copycat |
+| 04:15 | **Yumi_Rose8**: Fly-A-Pet Potion ×4 | **ypeixoto_00**: Dire Wolf (M) ×4 |
+| 04:15 | **BryAMillion**: Pig (FR) | **neerdlover**: Pupcake (MFR) |
+| 04:15 | **Poco234923**: Dalmatian (FR) ×2, Arctic Reindeer (FR) ×2 | **emmy_thepea**: Chocolate Chip Bat Dragon (FR) ×5 |
+| 04:15 | **antuco_tuco909**: Copycat (NFR), Shark Puppy (R), Panda (FR) | **Hollywoodavalon**: Cow (FR) |
+| 04:15 | **yshikza**: Crystal Egg ×18 | **Aslie_17**: Ride-A-Pet Potion |
+| 04:15 | **Inganta07**: Ride-A-Pet Potion | **Aodpwsnwo**: Shark |
+| 04:15 | **0FF_L1MIT**: Nessie (MFR), Nessie (NR) | **iiheartzb**: Haetae (FR) |
 | 04:11 | **DanielgamerXD125**: Fairy Bat Dragon (FR), Squid | **sxmplycutecorex**: Cabbit (FR) |
-| 04:11 | **Maybeimnotbig**: Turtle (NFR), Cabbit (R), Fairy Bat Dragon (FR), Flamingo (R), Candicorn (FR), Candicorn (R), Many Mackerel, Fly-A-Pet Potion, Ride-A-Pet Potion | **meisluvadoptme**: Parrot (FR) |
-| 04:11 | **WHOISY4NAA**: Spring Bunny Hood | **aluveqq**: Dango Penguins (FR) |
-| 04:11 | **GagaPapa114**: Lionfish (N) | **Kim_fr1end**: Frozen Penguin (N) |
-| 04:11 | **AvaNari2010**: Strawberry Shortcake Bat Dragon (FR) | **Lazyymimi**: Cabbit (R), Goose, Butter Knife |
-| 04:11 | **Puddingxcutoy**: Mini Pig (FR), Cow (FR) | **Bismuth234**: Arctic Reindeer (FR) |
-| 04:11 | **EleNinja11**: Fly-A-Pet Potion | **WhinyBuny**: Glormy Hound |
-| 04:11 | **talonaltgrinding**: Capricorn (FR), Kiwi Kiwi, Unicorn ×2 | **babyunicornkitti**: Haetyphoon |
-| 04:11 | **Zak_0250**: Shadow Dragon Animated Sticker | **XxlambadguyxX**: Ride-A-Pet Potion |
-| 04:06 | **Blake76947**: Evil Unicorn (FR), Queen Bee (NFR), Mini Pig (NR), Mini Pig (R), Elephant (R) | **lupsgrl**: Frost Dragon (FR) |
-| 04:06 | **dxllyluvs2**: Balloon Unicorn (FR), Sheeeeep (NFR), Alley Cat (MFR), Mecha Meow (MFR), Halo, Unicorn Horn ×2, 2022 Birthday Cake, Spring Bunny Hood ×3, Spinning Cat Animated Sticker, German Shepherd (MFR) | **Lingling111206**: Alpaca (MFR) |
-| 04:06 | **candipoquer1532**: Ride-A-Pet Potion, Dark Choccybunny (N), Mrs. Whiskerpips (N), Easter Bunny | **MGchocolate20**: Pet Handler Pro Certificate |
-| 04:06 | **FlyToTheSaturn**: Bee (FR), Penguin, Capybara, Starfish ×2, Toucan ×2, Swordfish ×2, Ghost Wolf | **scvnilla**: Fly-A-Pet Potion |
-| 04:06 | **XiaoFaye1433**: Crow (FR) | **7tealdog7**: Matcha Cat (MFR), Ride-A-Pet Potion |
-| 04:06 | **Mahvin29**: Sakura Spirit (FR), Sakura Spirit, Fly-A-Pet Potion | **rainthatxx**: Elephant (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
