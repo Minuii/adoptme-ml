@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 03:31 UTC by the scrape workflow._
+_Updated 2026-11-24 03:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 03:31 UTC by the scrape workflow._
 | amvgg | 14 | 26,859 | 2026-11-24T03:30 |
 | elve | 14 | 5,404 | 2026-11-24T03:31 |
 
-## AMVGG completed trades: 58,195 total
+## AMVGG completed trades: 58,221 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 533 |
+| 2026-11-24 | 559 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 03:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:30 | **Mikaylamareex**: Cabbit (NFR) | **sweetn6thing**: Arctic Reindeer (FR) |
-| 03:30 | **nornomm**: Unicorn Horn, Butter Knife ×2 | **xom6ie**: 2022 Birthday Cake |
-| 03:30 | **bwunnifection**: Black Moon Bear (N), Pangolin (N), Icy Porcupine (N), Onza ×2, Australian Kelpie, Dilophosaurus | **Adore_Pandaz**: Ride-A-Pet Potion |
-| 03:30 | **DefinitelyNotCha6**: Sock Chew Toy, Snowball Launcher, Heart Balloon, Elf Plush, Cookie Dough Plush ×3, Caticorn Rattle, Candle ×2, Banana Plush, Turkey Plush, Ornament Throw Toy, Dragon Balloon ×3 | **adoptmejourney83**: Fly-A-Pet Potion |
-| 03:30 | **poorbunii**: Cabbit (FR), Ride-A-Pet Potion ×3 | **snyyyp**: Munchkin Cat (NFR) |
-| 03:30 | **shuvakshurik**: Dalmatian (FR), Ghost (MR), Arctic Fox (FR), Dodo (R), Kitty Bat (NF) | **Krvsvha**: Cryptid (FR) |
-| 03:30 | **0FFBXEE**: Badger (M) ×2 | **altaccount02037**: Ride-A-Pet Potion |
-| 03:30 | **Sanster47**: Villain Gibbon (N), Huntsman Robin (N), Dragonfly, Ancient Dragon | **queenalwaysslayxx**: Ride-A-Pet Potion ×2 |
-| 03:30 | **starswirl_64**: Strawberry Tortle | **RGAKL10**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion |
-| 03:30 | **KeimoKaiAlr**: Giraffe (FR), Frost Dragon (FR) ×2, Parrot (FR) | **copyvoting**: Caelum Cervi (MFR), Jekyll Hydra (NFR), Turtle (MFR) ×2, Pink Cat (MFR), Candy Cannon, Goose (MFR), Rain Cloud Hat, 2022 Birthday Cake |
-| 03:30 | **012e0122**: Arctic Reindeer (FR), Cow (FR) | **copyvoting**: Vampire Dragon (MFR) |
-| 03:25 | **0FFBXEE**: Sushi Penguin, Ermine | **ALTERNATIVEACCKAY**: Ride-A-Pet Potion |
-| 03:25 | **zbingzjjjjj**: Ghost Bunny (NR), Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig, Hovertible, Orbweaver Glider, Thunderfisher ×4, Throwback Egg ×6 | **Masonplays497**: Shark Puppy |
-| 03:25 | **DuckyMuffinz**: Solar Burst Mega Neon Paint | **Inclemnc**: Crystal Egg ×18 |
-| 03:25 | **Deinabiluana**: Phantom Dragon (F) | **BurBur588**: Ride-A-Pet Potion ×5 |
+| 03:40 | **star_adelina**: Pancake Stack | **NaLuJoa2**: Bunny Swirl (N) |
+| 03:40 | **Pinkmalinky123**: Unicorn Horn, Catte (N) | **Hetty_Daanun**: Christmas Pudding Pup (N) |
+| 03:40 | **MM_Cloud**: Crystal Egg ×18 | **mommy_vka123**: Ride-A-Pet Potion |
+| 03:40 | **rainthatxx**: Mini Pig (FR) | **jakii_030**: Candy Hare (MFR) |
+| 03:40 | **puuuurrrraaawww**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **cut1ecakepop**: Ruler's Castle |
+| 03:40 | **jirovx0**: White Choccybunny (M), Ride-A-Pet Potion | **LaymushkaUwU**: Pet Handler Pro Certificate |
+| 03:40 | **takemichiismywaify**: Mecha R4BBIT (MFR), Ostrich (M) | **Cravecuts**: Rice Cake Rabbit (MFR), Ride-A-Pet Potion ×2 |
+| 03:40 | **0FFBXEE**: Little Lamb ×2, Turtle Doves (NR), Icy Porcupine (N), Orca (N) | **Adore_Pandaz**: Ride-A-Pet Potion |
+| 03:40 | **XiaoFaye1433**: Ride-A-Pet Potion ×2 | **Nene_133120**: Admin Vision Cap |
+| 03:40 | **BlueSakura9310**: Clumpty (M), Ant (M), Fennec Fox (M), Snow Puma (M), Orangutan (M) | **4M_GEEG**: Fly-A-Pet Potion |
+| 03:40 | **nornomm**: Fly-A-Pet Potion, Butter Knife, Japan Egg | **Strawberryykitten**: Cake Friend (NR) |
+| 03:40 | **vanyagames_yt**: Yeti (MFR), Musk Ox (M) | **magicalxmoon**: Unicorn Horn, Spring Bunny Hood |
+| 03:36 | **daydreamzgirl**: Cattuccino | **CallMehNevaeh3**: Basic Egg ×9, Retired Egg ×9 |
+| 03:36 | **kdkejwjsjd**: Queen Bee Slippers, 2022 Birthday Cake | **XiaoFaye1433**: Strawberry Plushie Rider |
+| 03:36 | **QuinniskooI**: Cabbit (NFR), Candicorn | **jrelski**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
