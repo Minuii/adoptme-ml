@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 23:01 UTC by the scrape workflow._
+_Updated 2026-11-24 23:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 23:01 UTC by the scrape workflow._
 | amvgg | 14 | 45,096 | 2026-11-24T23:00 |
 | elve | 14 | 9,332 | 2026-11-24T23:01 |
 
-## AMVGG completed trades: 61,503 total
+## AMVGG completed trades: 61,552 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,841 |
+| 2026-11-24 | 3,890 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 23:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:51 | **arielel_elfirfiicf**: Strawberry Shortcake Bat Dragon (FR) | **tvxically**: Cabbit (FR), Turtle (FR), Kangaroo (FR) |
-| 22:51 | **zoe01678**: Unicorn (FR), Unicorn ×3 | **Swimguwin**: Space Fleet House |
-| 22:51 | **Babyofy5**: Dragonfruit Fox, Vanilla Penguin | **szoozin**: Baku (R), Baku, Bunny Swirl (R), Irish Elk, St Bernard ×3 |
-| 22:51 | **xGracie_1234x**: Peppermint Penguin | **electrolytia**: Dragonfruit Fox (N), Tiny Wings, Munchkin Cat, Dragonfruit Fox |
-| 22:51 | **juzavast**: Turtle (NFR), Fly-A-Pet Potion | **Lem0n_org**: Frost Fury (MFR) |
-| 22:51 | **Pro_Szuszelka**: Cabbit (R), Fly-A-Pet Potion, Ride-A-Pet Potion | **XiuLi1234**: Elephant ×2 |
-| 22:51 | **aloiv484**: Fly-A-Pet Potion ×3 | **cunlainy**: Wild Boar (R), Black Panther, Chicken, Silly Duck |
-| 22:51 | **stirch896**: Brachiosaurus (MR), Rubber Ducky (N) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×2 |
-| 22:51 | **corney125**: Ice Cream Cone Hat, Dimorphodon | **AvaNari2010**: Leopard Shark (NR) |
-| 22:51 | **Sherine_0807**: Wolf, Pupcicle, Red Fox, Ermine | **TinyBunnyhere**: Bready Necklace |
-| 22:51 | **Riaaisaa**: Canadian Goose (MFR) | **Tena_IsPeakfr**: Goat (FR), Ride-A-Pet Potion |
-| 22:51 | **krxadm3**: Crystal Egg ×17 | **Imeddkit**: Ride-A-Pet Potion |
-| 22:51 | **Vickyvaiii**: Cryptid (FR), Ice Cream Cone Hat | **trezehel**: Christmas Pudding Pup (MFR) |
-| 22:51 | **Shinroa6**: Stray Cat Dragon (M) | **6evesvokhaha**: Fly-A-Pet Potion |
-| 22:51 | **Viphiel**: Winged Tiger (NFR), Silverback Gorilla (MFR), Gaelic Fae (MFR) | **saturnestee**: Winged Tiger (MFR) |
+| 23:11 | **Sakura_Chan2803**: Fly-A-Pet Potion ×3 | **GlitchPTWardenZ**: Rice Cake Rabbit (MFR) |
+| 23:11 | **Babyofy5**: Dango Penguins (R), Black Chow-Chow | **gggpppgggppp1**: Zombie Wolf ×3 |
+| 23:11 | **EpKaneIntenseMonkeys**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×11 | **Fan_deJennaO**: Grim Dragon (FR) |
+| 23:11 | **Sains9811**: Ride-A-Pet Potion ×2 | **JH0YCE**: Pet Handler Pro Certificate |
+| 23:06 | **Shinroa6**: Stray Cat Dragon (M) | **Sleepy_Sonya112**: Fly-A-Pet Potion |
+| 23:06 | **paraparcosas897**: Sugar Glider (FR), Jellyfish (R), Red Panda Ducky (M), Gecko Ducky (M), Squid, Stitches (N) | **ollie_lovesStars**: Glormy Hound (MFR) |
+| 23:06 | **6evesvokhaha**: Stray Cat Dragon (M) | **ameyyass**: Ride-A-Pet Potion ×2, Stray Cat Dragon |
+| 23:06 | **Jeheon07**: Parrot (FR), Owl, Frost Unicorn (MFR), Fly-A-Pet Potion ×6 | **guillemoran**: Frostbite Bear (MFR), Arctic Reindeer (MFR) |
+| 23:06 | **Strawberrymilkdreams**: Spring Bunny Hood, Chihuahua, Burger Boots, Ice Cream Heels | **Mnryyrm**: Haetyphoon |
+| 23:06 | **lololog741**: Siamese Cat (MFR) | **Ariwsfx**: Alley Cat (MFR), Vanilla Penguin (M), Goose, Cow (FR) |
+| 23:06 | **2tayy**: Crystal Egg ×12 | **Gmyiluv**: Ride-A-Pet Potion |
+| 23:06 | **xxWitheredWidow**: Cattuccino (N), Sloth (R), Monkey (N), Sunflower Friend (M), Glamicorn Purse Pet, Cat Backpack, Buttoned Ushanka, Crimson Cape (N) | **mellqxxrb**: Pet Handler Pro Certificate |
+| 23:06 | **KRISI5486**: Little Lamb (N), Snowy Mammoth (N), Unicorn Ducky (N), Rubber Ducky (M), Scarecrow Horse (N), Black Tiger (N), Rock Pigeon (N), Tawny Frogmouth (N), Ant (N), Japanese Snow Fairy (N), Jiggly Jerboa (N) | **mzrxxq**: Fly-A-Pet Potion |
+| 23:06 | **lexiroblox3333**: Husky (MFR), Caramelgeist (M) | **lilia_bane**: Glormy Hound (MFR) |
+| 23:06 | **urm4mx**: Field Mouse (NFR) | **lilia_bane**: Lion Cub (NFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
