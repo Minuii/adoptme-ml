@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 09:55 UTC by the scrape workflow._
+_Updated 2026-11-24 10:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 09:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 32,552 | 2026-11-24T09:45 |
-| elve | 14 | 6,448 | 2026-11-24T09:46 |
+| amvgg | 14 | 32,797 | 2026-11-24T10:00 |
+| elve | 14 | 6,508 | 2026-11-24T10:01 |
 
-## AMVGG completed trades: 58,884 total
+## AMVGG completed trades: 58,886 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,222 |
+| 2026-11-24 | 1,224 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,8 @@ _Updated 2026-11-24 09:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:00 | **Brixer_Holder**: Chihuahua ×18 | **XccarrottX**: Ride-A-Pet Potion ×6 |
+| 10:00 | **Jenniea264**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **Tasip_tiii**: Frost Fury (FR) |
 | 09:55 | **rottingroyaltyyy**: African Wild Dog (FR), Unicorn Horn | **Ella116Gisela**: Balloon Unicorn (FR), Ice Cream Cone Hat |
 | 09:55 | **picxy_gone3**: Kangaroo (NFR), Albino Monkey (FR), Ride-A-Pet Potion | **Maayas_17alt1**: Cow (R), Silly Duck (NFR), Burger Bear (NR), Canadian Goose (MFR), Bandicoot (NR) |
 | 09:55 | **LadyHappyHamsterPlay**: Cupid Dragon (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **zhaidsito8**: Pupcicle (MFR) |
@@ -52,8 +54,6 @@ _Updated 2026-11-24 09:55 UTC by the scrape workflow._
 | 09:55 | **KatsuTatsuya**: Strawberry Shortcake Bat Dragon (FR), Tio De Nadal ×2, Ride-A-Pet Potion ×3 | **MVS_Y3LLOW**: Evil Unicorn (FR) |
 | 09:55 | **robloxer_3614**: Pancake Stack, White Designer Backpack | **lakaishaisthebest**: Chihuahua, Horse (R), Strawberry Clip, Alien Eyes Hat, Bee Hive, Ponytail, Chick Hat |
 | 09:55 | **kossshkameow**: Arctic Reindeer (FR) | **qlltm**: Cow (NFR), Polar Bear |
-| 09:55 | **thousandbabyoil**: Mini Pig (NFR), Unicorn Horn | **fksdkeoakam**: Peppermint Penguin (NFR), Toaster Hat |
-| 09:55 | **Itshayaaahe**: Dango Penguins (NFR), Strawberry Shortcake Bat Dragon (R), Burger Bear (MR), Siamese Cat | **Grom_CraftinGYT**: Silverback Gorilla (MFR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
