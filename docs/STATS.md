@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 19:40 UTC by the scrape workflow._
+_Updated 2026-11-24 19:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-24 19:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 14 | 41,808 | 2026-11-24T19:30 |
-| elve | 14 | 8,543 | 2026-11-24T19:31 |
+| amvgg | 14 | 42,038 | 2026-11-24T19:45 |
+| elve | 14 | 8,597 | 2026-11-24T19:46 |
 
-## AMVGG completed trades: 60,851 total
+## AMVGG completed trades: 60,868 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 3,189 |
+| 2026-11-24 | 3,206 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,21 +39,21 @@ _Updated 2026-11-24 19:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:40 | **yiiiiiiiiiiboooop**: Phoenix (MFR) | **nalu101008**: Kitty Biscuit ×18 |
-| 19:40 | **roseboba124**: Cake Friend (N) | **adoptmesuchti1707**: Dango Penguins |
-| 19:40 | **charniiiq**: Ride-A-Pet Potion | **Hahahjajajo**: Strawberry Hat |
-| 19:40 | **reaInyancat**: Spring Bunny Nose | **xhvz_m**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 19:40 | **amelikaww**: Fly-A-Pet Potion ×2 | **FIRSTGERA**: Glormy Leo (R) |
-| 19:40 | **Kamelia07125**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Mcdonaldsofaustralia**: Arctic Reindeer (FR) |
-| 19:40 | **sukiwuk1**: Fly-A-Pet Potion | **ii_AceKun**: Pet Handler Pro Certificate |
-| 19:40 | **youchi_nagi**: Mini Pig (FR) | **diiv_iine**: Ice Golem (MFR) |
-| 19:40 | **AngelsHarxx_Lilyluvz**: Strawberry Tortle (NFR) | **Orchid62311**: Nessie (MFR) |
-| 19:40 | **noahiix5**: Diamond Hamster (R), Diamond Hamster ×2, Wood Pigeon, Fly-A-Pet Potion, Ride-A-Pet Potion | **Froggyblossom90**: Toasty Red Panda (MFR) |
-| 19:40 | **wakeupbrighteyes**: Chihuahua (MFR), Ride-A-Pet Potion ×2 | **Gabriele143love**: Moose Calf (NR) |
-| 19:40 | **alexicupcake7**: Flaming Zebra (MR) | **MyMelody8992**: Chocolate Dutch Guinea Pig, Unicorn, Pirate Hermit Crab, Moon Rabbit ×3, Emberlight, Momma Moose, Vermilion Butterfly, Clementine Owl, Flaming Zebra, Steppe Lion ×2, Love Bird, Ibex, Trapdoor Snail, Mecha R4BBIT, Mr. Whiskerpips |
-| 19:40 | **horimiyaa_13**: Red Sand Dollar, Ermine (N), Pain au Chat | **dasha_123qwr**: Fly-A-Pet Potion |
-| 19:40 | **Vikitoria19590**: Fly-A-Pet Potion ×2 | **misswoodhouseyear1**: Lynx (NFR) |
-| 19:36 | **FidelityGamer**: Haetae (FR) | **2boots20**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 19:45 | **aleks2u**: Haetae (FR), Cabbit (FR), Fairy Bat Dragon (FR), Siamese Cat (FR), Fly-A-Pet Potion | **Amvgg_Amvggg**: Owl (FR) |
+| 19:45 | **Jassychi**: Goose (NFR), 2022 Birthday Cupcake Shoes, Rain Cloud Hat | **pursel23**: Peppermint Penguin (NFR) |
+| 19:45 | **KanskjeMatilde**: Munchkin Cat (R) | **Kateyboil**: Arctic Fox (FR) |
+| 19:45 | **On3gtive**: Fly-A-Pet Potion | **ii_AceKun**: Pet Handler Pro Certificate |
+| 19:45 | **emiliachanowo**: Blue Dog (N) | **ariesdesire**: Chocolate Dutch Guinea Pig (MFR), 2022 Birthday Cake |
+| 19:45 | **Ollybear200909**: Giant Panda (R) | **ArdaEOYT**: Arctic Dusk Dragon (MFR), Dango Penguins (MFR), Bunny Swirl (MFR), Mr. Whiskerpips (MFR) |
+| 19:45 | **KotIIk_hehe**: Strawberry Shortcake Bat Dragon (FR) ×2, Alley Cat (NR), Glormy Leo (FR), Gemstone Egg, Mrs. Whiskerpips (N), Rainbow Dragon Hat, Admin Abuse Egg ×3 | **girl536370**: Crow (FR), Fly-A-Pet Potion |
+| 19:45 | **LightningCheetah2451**: Diamond Hummingbird | **Gabo_XD202**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
+| 19:45 | **larisochka_gudeeva98**: Albino Monkey (FR) | **Lefty43434**: Diamond Amazon (FR) ×2, Aussie Egg |
+| 19:45 | **no_namebns06**: Chocolate Dutch Guinea Pig, Lion Cub | **Luvx_VXvu**: Matcha Cat |
+| 19:45 | **ZGraysonMaxFoxs**: Crystal Egg ×18 | **Alaska_rdx**: Ride-A-Pet Potion |
+| 19:45 | **Kristyjunio_r**: Haetae (FR), Fly-A-Pet Potion | **Demon_alternacc**: Nessie (MFR), Pig (NFR), Matcha Cat |
+| 19:45 | **Nita208901**: Ride-A-Pet Potion | **Froggy_top229**: Kitsune (FR) |
+| 19:45 | **melynagamer3**: Fly-A-Pet Potion | **ii_AceKun**: Pet Handler Pro Certificate |
+| 19:45 | **MiLkas_20111**: Unicorn Horn, Shark Puppy (R), Fly-A-Pet Potion | **6utszz**: Cow (R) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
