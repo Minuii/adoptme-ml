@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-24 09:16 UTC by the scrape workflow._
+_Updated 2026-11-24 09:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-24 09:16 UTC by the scrape workflow._
 | amvgg | 14 | 32,127 | 2026-11-24T09:15 |
 | elve | 14 | 6,363 | 2026-11-24T09:15 |
 
-## AMVGG completed trades: 58,805 total
+## AMVGG completed trades: 58,812 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-24 | 1,143 |
+| 2026-11-24 | 1,150 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
 | 2026-11-21 | 5,509 |
@@ -39,6 +39,13 @@ _Updated 2026-11-24 09:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:25 | **cwstza**: Cryptid (FR) | **NOOBinROBLOX2022**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 09:25 | **yBunny_x**: Copycat (NR) | **Kvammletitraketa**: Dango Penguins (NFR) |
+| 09:25 | **rasediva**: Ride-A-Pet Potion ×2, Mochi Meow (N) | **vanni1aapuppi**: Purple Butterfly |
+| 09:25 | **P1nkteeth**: Ghost Bunny (NFR), Moon Rabbit (N), Cattuccino (NFR), Chocolate Chip Bat Dragon Backpack, Ride-A-Pet Potion | **ksenia_unicorn67**: Snow Monkey (NFR) |
+| 09:25 | **xXOmq_Ellen123xX**: Glormy Dolphin (M) | **HorsegirlEms12**: Fly-A-Pet Potion ×3 |
+| 09:25 | **yaroslavshepon**: Ride-A-Pet Potion | **yshikza**: Crystal Egg ×18 |
+| 09:25 | **rainbow_shiny152**: Sugar Glider (FR), Chihuahua (M) | **No_99573834**: Halo |
 | 09:14 | **daikinnw1**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3 | **renewizzz**: Chihuahua (MFR) |
 | 09:14 | **clalouetciedh**: Chihuahua ×4 | **Irek3008**: Chocolate Dutch Guinea Pig |
 | 09:14 | **C0PHYAK**: Werewolf (R), Ride-A-Pet Potion | **Themr_harlen0220**: Kangaroo (FR) |
@@ -47,13 +54,6 @@ _Updated 2026-11-24 09:16 UTC by the scrape workflow._
 | 09:14 | **aweapolarbear**: Temple Friend ×2, Ancient Dragon, Burning Bunny (N), Kitty Bat | **snehathebest22**: Fly-A-Pet Potion |
 | 09:14 | **aveilqaa**: Mule (MFR), Moon Rabbit (MFR), Water Rabbit (M), Amami Rabbit (M), Chihuahua (N) ×3, Fly-A-Pet Potion ×4 | **amvggalt1**: Owlbear (MFR) |
 | 09:14 | **bigstinkyfoot3**: Tuxedo Cat | **moezamoza**: Admin Abuse Egg ×14 |
-| 09:14 | **Stupid_OMGFiwi**: Gumball Caterpillar ×3, Waffle Wyrm ×3, White Choccybunny ×2, Milk Choccybunny ×3, Angus Cow (N), Cow Calf, Halloween White Mummy Cat ×2 | **eyosgkxbqrupdhlcn**: Ride-A-Pet Potion |
-| 09:14 | **Ye_amhere**: African Wild Dog (MFR), Fairy Bat Dragon (MFR), Cow (MFR), Hare (MFR), Peppermint Penguin (FR), Peppermint Penguin, Rainbow Maker | **alicehe0601**: Giant Panda (MFR) |
-| 09:14 | **Klik_Kuromi**: Halo, Cabbit (FR) | **bunniteacuparty**: Rainbow Maker |
-| 09:14 | **Minimejuhack12**: Mini Pig (MFR), Pupcicle (MFR), Tiny Wings | **veiixzlj**: Haetae (N) |
-| 09:00 | **Aggr0berlin**: Gummy Guana (M), Halloween White Skeleton Dog, Hopbop (M) | **RyunJinLeoNin**: Glormy Hound |
-| 09:00 | **LUVS3MELON**: Harp Seal (MFR), Green Amazon (MR), German Shepherd (NR) | **your_angelbby**: Cake Friend (MFR), Pupcake (MFR), Royal Palace Spaniel (NFR), Ghost Bunny (NFR), Ride-A-Pet Potion ×2 |
-| 09:00 | **rainthatxx**: Balloon Unicorn (FR) | **idctbf11**: Rainbow Maker, Rain Cloud Hat, Ride-A-Pet Potion ×2, Alpaca (R), Tiny Wings, Goose |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
