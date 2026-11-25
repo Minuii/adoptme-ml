@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 13:41 UTC by the scrape workflow._
+_Updated 2026-11-25 13:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 13:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 35,010 | 2026-11-25T13:30 |
-| elve | 15 | 7,400 | 2026-11-25T13:31 |
+| amvgg | 15 | 35,233 | 2026-11-25T13:45 |
+| elve | 15 | 7,463 | 2026-11-25T13:46 |
 
-## AMVGG completed trades: 63,540 total
+## AMVGG completed trades: 63,555 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,841 |
+| 2026-11-25 | 1,856 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 13:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:41 | **batton0955**: Ride-A-Pet Potion | **Phoeb3_Chan**: Golden Dragon (R), Golden Griffin, King Penguin, Tan Chow-Chow, Lionfish |
-| 13:41 | **Tree092109**: Ride-A-Pet Potion | **The_BadPuppy1**: Panda |
-| 13:41 | **batton0955**: Ride-A-Pet Potion, Muskrat (M) | **Ebanko_rblx**: Leviathan |
-| 13:41 | **Katerryrka**: Ride-A-Pet Potion ×9 | **Tree092109**: Fly-A-Pet Potion ×5 |
-| 13:41 | **SoLost666**: Jousting Horse (NFR) | **recos0401**: Alley Cat (NFR) |
-| 13:41 | **hillpis88**: Pig (FR) | **xlux_latte**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion |
-| 13:41 | **Cosmo_syx**: Flamingo (R) | **kris10_snx**: Pig (R) ×2 |
-| 13:41 | **KatsuTatsuya**: Caelum Cervi (MFR), Giant Panda (FR), Arctic Reindeer (NFR), Fly-A-Pet Potion | **adoptmeplayerhi10**: Giraffe (FR) |
-| 13:41 | **Autumnisacutie123**: Balloon Unicorn (FR), Candicorn | **mamadmasa0111**: Parrot (FR) |
-| 13:41 | **denyhope**: Raccoon (M), Ginger Cat (M) | **xXElizabethPrecious**: Ride-A-Pet Potion ×5 |
-| 13:41 | **beatsvic**: Giraffe (FR) | **mamadmasa0111**: Arctic Reindeer (MFR) |
-| 13:41 | **Catzini_1**: Arctic Reindeer (MFR), Parrot (FR), Snow Owl (NFR), Shadow Dragon Ducky (NR), Fly-A-Pet Potion, Swan | **mamadmasa0111**: Shadow Dragon (FR) |
-| 13:41 | **Msmsmsmsjmsmsm8**: Bush Elephant (MFR) | **PolinkaValentinka007**: Cow (MFR) |
-| 13:41 | **catoqd**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×3, Three Blind Mice (N) | **Dolletteindollhouse**: Sushi Penguin (NFR) |
-| 13:41 | **marus12332128**: Munchkin Cat (MFR), Candicorn | **lololog741**: Cryptid (FR) |
+| 13:45 | **Ghost_Sparkly435**: Unicorn, Hamster, Panda, Pomeranian, Praying Mantis | **Tree092109**: Fly-A-Pet Potion |
+| 13:45 | **Countmeowww**: Cherry-On-Top, Unicorn Horn, Shark Puppy (R), Fly-A-Pet Potion | **ekitten9934**: Rainbow Maker |
+| 13:45 | **mawifa123**: Crystal Egg ×18 | **Allyanaph124**: Ride-A-Pet Potion |
+| 13:45 | **Auds191102**: Frost Dragon (FR), Red Dutch Guinea Pig (R), Fly-A-Pet Potion | **Cinzsins**: Werewolf (MFR), Unicorn Horn, Sakura Spirit (NFR), Candicorn (NFR), 2022 Birthday Cake |
+| 13:45 | **ezzzzyy3**: Three Blind Mice | **bloomysweetea**: Retired Egg ×8 |
+| 13:45 | **ki_ra201345**: Fly-A-Pet Potion ×2, Glyptodon (N) | **xean1zm**: Velocirooster |
+| 13:45 | **4ngxl_4195**: Cotton Candy Hat, Candy Cane Snail | **kykykykyky_yy**: Ride-A-Pet Potion |
+| 13:45 | **bnnievs**: Fly-A-Pet Potion | **8_lsr**: Panda Pal |
+| 13:45 | **ViktorJopin**: Strawberry Shortcake Bat Dragon (FR), Winged Tiger (R) | **matthewisI2here**: Arctic Reindeer (FR), Pupcicle (N), Ride-A-Pet Potion ×2 |
+| 13:45 | **Elianaisthebesttt**: Pain au Chat ×4, DJ Snooze ×2 | **b4tdc**: Pain au Chat (N) |
+| 13:45 | **xxjohnjokexx**: Dragon (MFR) | **sophsroblocxacc2**: Fly-A-Pet Potion ×2 |
+| 13:45 | **fluffyunicorns_932**: Dango Penguins (N), Chocolate Dutch Guinea Pig ×2 | **Uquewyraursutsiydpug**: Border Collie (FR) |
+| 13:45 | **zephyrgoatt**: Ride-A-Pet Potion | **Appelkruimell**: Alicorn ×9 |
+| 13:45 | **10kxkaash**: Goose (MFR), 2022 Birthday Cake | **Auds191102**: Shark Puppy (MFR), Cupid Dragon (MFR), Red Dutch Guinea Pig (MFR) |
+| 13:45 | **XxBloXxBb**: African Wild Dog (FR), Rain Cloud Hat | **Diamond161012**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
