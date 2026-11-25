@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 13:16 UTC by the scrape workflow._
+_Updated 2026-11-25 13:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 13:16 UTC by the scrape workflow._
 | amvgg | 15 | 34,773 | 2026-11-25T13:15 |
 | elve | 15 | 7,337 | 2026-11-25T13:16 |
 
-## AMVGG completed trades: 63,463 total
+## AMVGG completed trades: 63,485 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,764 |
+| 2026-11-25 | 1,786 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 13:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:15 | **AASDRT_II**: Hydra (NFR) | **mdmdnkevsjsvaj**: Ride-A-Pet Potion |
-| 13:15 | **polina11562**: Fly-A-Pet Potion | **kuqwae4**: Onza (M) |
-| 13:15 | **DylanNeon233227**: Candicorn (NFR), Ring-Tailed Lemur (NR), Chocolate Chow-Chow (MFR), Corgi (M), Robot (M), Swordfish (M), Orangutan (M), Parakeet (M), Zebra (M), Pink Dog (M), Poodle (M) | **gag_gaag**: Arctic Reindeer (FR) |
-| 13:15 | **golden_hopper4890237**: Crystal Egg ×18 | **Joelzoz**: Ride-A-Pet Potion |
-| 13:15 | **Sytinely**: Kangaroo (R) | **Lalacoast4**: Fly-A-Pet Potion ×9 |
-| 13:15 | **AlphaTaToxicv1047**: Turtle (FR) | **ilymbunnies**: Kangaroo (FR), Ride-A-Pet Potion ×5, Squid |
-| 13:15 | **cxbvnniz**: Chihuahua ×4 | **haileyrxo**: Fly-A-Pet Potion |
-| 13:15 | **ZOmbi_kittyXD**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Flying Fairy, Human Feet Shoes, Dog Backpack, Pink Butterfly Wings | **Lissqu0**: Meerkat (R) |
-| 13:15 | **AlphaTaToxicv1047**: Shark Puppy (R) | **Lalacoast4**: Ride-A-Pet Potion ×11 |
-| 13:15 | **Autumnisacutie123**: Alley Cat (MFR), Harp Seal (MR), Puffer Fish (M), Christmas Pudding Pup (NR), Munchkin Cat (N) | **Tal_Kazman**: Balloon Unicorn (FR) |
-| 13:15 | **iaMatthieu1**: Candicorn (FR) ×2 | **ARKIN_gamingChannel1**: Christmas Pudding Pup, Pink Cat, Border Collie (FR), Harp Seal, Arctic Dusk Dragon (R), Spring Bunny Feet |
-| 13:15 | **Abilka_lololoshka2**: Ride-A-Pet Potion | **yshikza**: Crystal Egg ×18 |
-| 13:15 | **lushlyr**: Chocolate Dutch Guinea Pig (NFR) ×2, Arctic Dusk Dragon (FR), Sea Turtle (NR), Chocolate Dutch Guinea Pig (NR), Arctic Dusk Dragon (NFR) ×2, Ride-A-Pet Potion ×2 | **sara5mohamad**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:15 | **iaMatthieu1**: Arctic Reindeer (FR), Peacock (NFR) | **Eb2loOFF**: Cabbit (NR) |
-| 13:15 | **iiSimplyxSkyexx**: S'mores Raccoon (MR), Cuddly Candle (FR) | **Elfik1k**: Sheeeeep (R), Polar Bear (NFR) |
+| 13:25 | **LAHNLAHNLAHN**: Ride-A-Pet Potion | **AyiGamerUwu**: Pain au Chat, Ladybug, Indian Leopard, Cattuccino, Cow Calf |
+| 13:25 | **supitchayacatmante**: Crow (FR) | **llamaderau1**: African Wild Dog (R), Frostbite Bear (R) |
+| 13:25 | **FlushedEgg**: Puffin (MFR), Flamingo (FR), Ice Cream Cone Hat | **Lookingforkiwiii**: Goat (MFR) |
+| 13:25 | **TradingInD**: Cow (NFR) | **FcNikita24**: Turtle (R) ×2, Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion, Huntsman Robin |
+| 13:25 | **aurorafox679**: Fly-A-Pet Potion | **prettyalien9826**: Ice Cream Hermit Crab |
+| 13:25 | **jandabi2006**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Speeddrawaccaount2**: Fallow Deer (R) |
+| 13:25 | **anihao17**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 | **Joelzoz**: Turtle (FR) |
+| 13:25 | **kikio123760**: Hot Doggo (FR), Chocolate Chip Bat Dragon (FR), Munchkin Cat | **XxkfirxbushxX**: Hedgehog |
+| 13:25 | **Yamajyjopyvazelinov1**: Irish Elk, Christmas Spirit, Toy Poodle | **Pia_ditzon**: Ride-A-Pet Potion |
+| 13:25 | **Amvgg_Amvggg**: Evil Unicorn (FR), French Bulldog (MFR), Skelicorn (MFR) | **ii_aldrin20**: Haetae (FR) |
+| 13:25 | **Gdgdd110**: Crystal Egg ×4, Bobageist ×2, Golden Dragon (F), Retired Egg ×7, Starfish ×2 | **Hey_Dant123**: Ride-A-Pet Potion |
+| 13:25 | **Cdg91400**: Ride-A-Pet Potion, Fly-A-Pet Potion ×4 | **QUliaka**: Winged Horse (FR), Violet Butterfly (N) |
+| 13:25 | **obv1davs**: Turtle (FR), Flamingo (FR), Elephant (R), Pig (R), Flash Weasel, Arctic Fox, Fly-A-Pet Potion, Frost Fury (FR) | **cami_97625**: Ring-Tailed Lemur (MFR) |
+| 13:25 | **carlkilling**: Frost Dragon (FR), Lion Cub | **Unicornfav_animal**: Cow (NFR) ×3, Elephant (NFR), Elephant (FR) |
+| 13:25 | **golden_hopper4890237**: Crystal Egg ×18 | **dasha_123qwr**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
