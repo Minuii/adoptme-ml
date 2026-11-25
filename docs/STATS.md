@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 03:16 UTC by the scrape workflow._
+_Updated 2026-11-25 03:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 03:16 UTC by the scrape workflow._
 | amvgg | 15 | 25,810 | 2026-11-25T03:15 |
 | elve | 15 | 5,526 | 2026-11-25T03:15 |
 
-## AMVGG completed trades: 62,129 total
+## AMVGG completed trades: 62,161 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 430 |
+| 2026-11-25 | 462 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 03:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:11 | **mooyakko**: Goat (MFR) | **liviedancess**: Goat (M) |
-| 03:11 | **Sireen2009sha**: Snowball Pug ×3, Flower Power Duckling | **Panci_Terbang33**: Snowball Pug (N) |
-| 03:11 | **Vitalina2384**: Chocolate Dutch Guinea Pig | **Ami_Mixed**: Gaelic Fae |
-| 03:11 | **Shaylynn2255**: Bush Elephant (R) | **Sugar_theduck**: Red Dutch Guinea Pig (NFR) |
-| 03:11 | **zephyrgoatt**: Ride-A-Pet Potion | **DrendyRobLox**: Stray Cat Dragon ×9 |
-| 03:11 | **Shinroa6**: Stray Cat Dragon (M) | **ameyyass**: Fly-A-Pet Potion |
-| 03:11 | **sleepysyamz**: Borhyaena Gigantica (M), Gummy Guana (M), Cattuccino, Bunny (N) | **cathxdral**: Ride-A-Pet Potion ×2 |
-| 03:11 | **Vanlyzn30**: Crystal Egg ×18 | **Pia_ditzon**: Ride-A-Pet Potion |
-| 03:11 | **HeartsForEli_1406**: Burger Bun Hat | **sugarplumesweet**: Paint Sealer ×5 |
-| 03:11 | **9nvls**: Arctic Fox, Tortuga de la Isla (R), Chicken (NR), Puffin, Field Mouse (R), Ice Cream Hermit Crab (R), Golden Rat (FR), Cerberus, Lamb | **dumdadadat0p**: Cow (FR) |
-| 03:11 | **Maira_Martinezxdd**: Flaming Fox, Chihuahua ×2 | **chicken_banana4884**: Pupcicle (N) |
-| 03:11 | **Tomatoxxxblizzard**: Harp Seal (MFR), Snow Monkey (M) | **BaconetteNoobs**: Strawberry Shortcake Bat Dragon (FR) |
-| 03:11 | **floralplum**: Capricorn (R) | **Arina_010145**: Ride-A-Pet Potion |
-| 03:06 | **Idkk_0426**: Dango Penguins (MFR), Dragonfruit Fox (MFR) | **lionine159**: Puffin (MFR) |
-| 03:06 | **zerotocupiddragon**: Cake Friend, Burger Bear | **Shaylynn2255**: Ride-A-Pet Potion |
+| 03:25 | **JAYKEYUU**: Cow (FR), Arctic Fox (FR) | **noob1962963**: Candicorn (NFR) |
+| 03:25 | **cutesyiza**: Cheetah (MFR) | **RBstela**: Orange Butterfly (MFR), Toy Monkey (MFR), Pancake Stack |
+| 03:25 | **cutesyiza**: Unicorn Backpack | **Aslie_17**: Blue Whale (M) |
+| 03:25 | **s6ythed**: Cryptid (FR), Alley Cat (MFR), Goose (R) | **robloxnaomi3**: Balloon Unicorn (FR), Harp Seal (MR), Skunk (MR) |
+| 03:25 | **tomioka1453792**: Cabbit (FR), Horse And Carriage, Copycat, Ice Cream Hermit Crab, River Otter (MR) | **love_sry0**: Candicorn (N) |
+| 03:25 | **rainbowgirl10821**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **sacrifzt**: Peppermint Penguin (FR) ×2 |
+| 03:25 | **zbingzjjjjj**: Shark Puppy, Matcha Cat, Strawberry Shortcake Bat Dragon (FR), Poodle (N), Donkey (N), Camel (N), Mouse (N) ×3, Well, Actually Walrus Sticker ×9 | **bluebeetle164864**: Frostbite Bear (R) |
+| 03:25 | **carlosvinicius231**: Arctic Reindeer (FR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Mini Pig, Goose (R), Sugar Glider (FR), Albino Monkey (FR) | **qlltm**: Chocolate Chip Bat Dragon (FR), Blue Dog (NFR), Albino Monkey (NFR), Goose (FR), Cow (FR) ×2, Cow (R), Fairy Bat Dragon (FR) |
+| 03:25 | **qlltm**: Mini Pig | **adoptmelover67684**: Puffin (NR), Border Collie (R), Ride-A-Pet Potion ×2 |
+| 03:25 | **1qwerty6709**: Ride-A-Pet Potion ×2 | **anjhienicole00**: Admin Vision Glasses |
+| 03:25 | **Max051812**: Mermicorn (NFR), Ice Cream Cone Hat, Glider | **lolayummy444**: Cabbit (NFR), Pupcicle (NFR) |
+| 03:25 | **isopawedd**: Octopus, Sabertooth | **DellaxKenneth**: Ride-A-Pet Potion |
+| 03:25 | **lolayummy444**: African Wild Dog (NFR), Mermicorn (NFR) | **c10nNeXx**: Giant Panda (NFR) |
+| 03:25 | **4ngxl_4195**: Spring Bunny Nose | **Z0mb1e_R1ot**: Ride-A-Pet Potion ×2 |
+| 03:25 | **overloadeddddddddddd**: Chocolate Chip Bat Dragon (FR) | **ANNAPAGAME**: Jester Dragon (MFR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
