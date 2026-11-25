@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 10:31 UTC by the scrape workflow._
+_Updated 2026-11-25 10:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 10:31 UTC by the scrape workflow._
 | amvgg | 15 | 32,375 | 2026-11-25T10:30 |
 | elve | 15 | 6,799 | 2026-11-25T10:31 |
 
-## AMVGG completed trades: 63,020 total
+## AMVGG completed trades: 63,045 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,321 |
+| 2026-11-25 | 1,346 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:30 | **angela_umerez4**: Strawberry Shortcake Bat Dragon (FR) | **GeneralPatrick_14**: Chocolate Chip Bat Dragon (FR) |
-| 10:30 | **0MoonlitXMeadow0**: Goose (FR), Goose (R) ×3, Elephant (NR) | **adoptmememe68**: Crow (FR) |
-| 10:30 | **Youmyrii**: Chocolate Chip Bat Dragon (FR) | **chantking0910**: Peppermint Penguin (R) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 10:30 | **NOOBinROBLOX2022**: Cryptid (FR), Spring Bunny Hood, Fly-A-Pet Potion, Maine Coon (R), Diamond Unicorn, Golden Unicorn, Golden Ladybug, Robo Dog, Jacobin Pigeon (M), Sea Turtle (N), Priceless Shrimp, Stray Cat Dragon, Sloth, Husky Sled, Flying Cloud, Santa's Sleigh | **kykykykyky_yy**: Evil Unicorn (FR) |
-| 10:30 | **batton0955**: Fly-A-Pet Potion | **AASDRT_II**: Pancake Stack |
-| 10:30 | **Dinkarrt**: Ride-A-Pet Potion | **frrisstaill**: Mr. Whiskerpips, Kiwi Kiwi |
-| 10:30 | **lennaypenny**: Koi Carp (M) | **Thomatheus12**: Fly-A-Pet Potion ×2 |
-| 10:30 | **luvyerh**: Elephant (R) | **samesame1279**: Crocodile (FR), Ride-A-Pet Potion ×2 |
-| 10:30 | **lba_fofe**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) ×2, Cow (FR) ×2, Goose (FR), Fairy Bat Dragon (FR), Cow (R), Sugar Glider (FR), Turtle (FR) ×2, Alpaca (FR), Kangaroo (R), Kangaroo, Elephant (FR) ×2, Elephant (R), Aurora Fox (FR) | **0MoonlitXMeadow0**: Parrot (FR) ×2, Evil Unicorn (FR) ×2 |
-| 10:30 | **0MoonlitXMeadow0**: Owl (FR), Pig (R) | **N0T_ASQ1T**: Dalmatian, Cow, Peppermint Penguin, Elephant ×2, Kangaroo, Goose |
-| 10:30 | **LAHNLAHNLAHN**: Ride-A-Pet Potion | **Vadjik12**: Pupcicle, Lunar Ox, Fanghorn Tortoise, Woodpecker |
-| 10:30 | **AASDRT_II**: Fleur De Ice (NR) | **ventisnumb3r1fan**: Ride-A-Pet Potion |
-| 10:30 | **qwersonyarso**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion | **cya_adoptmechallange**: Kangaroo (FR) |
-| 10:30 | **cwstza**: Crow (FR), Dalmatian (FR), Turtle (FR), Ride-A-Pet Potion ×2 | **roboy2911**: Frost Dragon (FR) |
-| 10:30 | **Queenayeshacutegirl**: Chihuahua ×2, Pain au Chat | **adlouise**: Ride-A-Pet Potion |
+| 10:41 | **tenoy757**: Fly-A-Pet Potion, Pupcicle | **cher_namagandaa**: Dragonfruit Fox (R) |
+| 10:41 | **Ira_20086**: Ride-A-Pet Potion | **beth_tam10ALT**: Choccybunny Box ×15 |
+| 10:41 | **Hasiiiiiiiiiiiii**: Glormy Leo (MFR) | **lxceddream**: Rainbow Maker, Tiny Wings |
+| 10:41 | **catrincatcat**: Admin Abuse Egg | **jokerako28**: Ginger Cat, Mouse ×2 |
+| 10:41 | **Gooch012**: Shadow Dragon (FR), Cow (FR), Strawberry Tortle | **BestPlayerEverTrue5**: Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR) ×6 |
+| 10:41 | **prensesecya**: Fly-A-Pet Potion ×17 | **Leehayul_d**: Cow (FR) |
+| 10:41 | **Eva_EvaKBAC**: Crow (FR), Meerkat (MFR) | **Lilly_Happy3006**: Owl (FR), Turtle (R), Snow Monkey |
+| 10:41 | **gogo549**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (R), Strawberry Shortcake Bat Dragon, Moose Calf | **ItzViolet_Plays**: Strawberry Shortcake Bat Dragon (NFR), Rain Cloud Hat |
+| 10:41 | **gdhjsbdhhsbs**: Caterpillar (MFR) | **adoptrade12**: Crocodile (M) |
+| 10:41 | **Inganta07**: Fly-A-Pet Potion | **Eva_EvaKBAC**: Snow Monkey |
+| 10:41 | **PLolchik_2000**: Kookaburra | **Leviodas**: Fly-A-Pet Potion |
+| 10:41 | **qwelxzz**: Ride-A-Pet Potion ×7, Diamond Griffin, Diamond Mahi Mahi, Bee | **Hasiiiiiiiiiiiii**: Husky (N) |
+| 10:41 | **realpdrilla1**: Ride-A-Pet Potion | **nylee_psh**: Milk Choccybunny (M) ×2 |
+| 10:41 | **Heybolloboom**: Egg Stroller, Water Walking Potion, Goth Shoes, Fly-A-Pet Potion, Skeleton Winged Glider, Admin Vision Glasses, Cupid's Coupe, Street Drifter, Regal Roller, Rain Hat ×3, Christmas Cat Rattle, Fossil Paw Helicopter ×2, Butter Knife, Halloween Orange Pumpkin Friend Hat, Banana Car | **wldnsdlrnldudna**: Field Mouse (MFR) |
+| 10:41 | **Aseggfdeccdfggdd**: Gargoyle (R) | **DwWsHZ_2003**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
