@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 22:25 UTC by the scrape workflow._
+_Updated 2026-11-25 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 43,702 | 2026-11-25T22:15 |
-| elve | 15 | 9,269 | 2026-11-25T22:15 |
+| amvgg | 15 | 43,938 | 2026-11-25T22:30 |
+| elve | 15 | 9,308 | 2026-11-25T22:31 |
 
-## AMVGG completed trades: 65,716 total
+## AMVGG completed trades: 65,736 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 4,017 |
+| 2026-11-25 | 4,037 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:20 | **DaniDeyanara456**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **Genesi3wgf**: Matcha Cat |
-| 22:20 | **xGracie_1234x**: Goat, Field Mouse, Munchkin Cat, Ride-A-Pet Potion, Snow Leopard (M) | **S0farbXx**: Alpaca |
-| 22:20 | **v43xj**: Christmas Pudding House | **1tz_Miki**: Mexican Wolf (N), Mexican Wolf ×3 |
-| 22:20 | **flytomars67**: Mirai Moth (MR), Ride-A-Pet Potion ×2 | **needyultragirl3**: Mr. Whiskerpips (M), DJ Snooze (M), Mirai Moth |
-| 22:20 | **fenixprocrack3**: Kangaroo (FR), Lion (FR), Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Golden Lettuce, Tan Chow-Chow (MFR) | **yk_xlea**: Llama (MFR) |
-| 22:20 | **Ashlet_TWT**: Cryptid (MFR), Jester Dragon (NFR), Pig | **BatDra0gon**: Bat Dragon (FR) |
-| 22:20 | **Kyza_222222223**: Ride-A-Pet Potion | **CrimsonSummit1483**: Crystal Egg ×18 |
-| 22:20 | **itspponcaci**: Feesh ×2, Cake Friend ×2, Castle Hermit Crab ×2 | **1lyybow**: Cake Friend (N) |
-| 22:20 | **lubachaka228**: Spring Bunny Feet | **eledaxo**: Husky |
-| 22:20 | **yummiixq**: Werewolf (FR), Ride-A-Pet Potion | **Awlivia0**: Siamese Cat |
-| 22:20 | **Spwrinklebun**: Toy Poodle (MFR), Amami Rabbit (MFR), Samoyed (M) | **Awlivia0**: Sushi Penguin (M) |
-| 22:20 | **MICROCELE6BRITY**: 2022 Birthday Party Hat | **soapybunnie_0**: Zombie Wolf (MFR) |
-| 22:20 | **Vanitas_Death**: Pancake Stack ×2, Ocean Egg, Tan Chow-Chow (N) | **o8ayn**: Ice Cream Cone Hat |
-| 22:20 | **OffisalUwU**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×4 | **Sofi_sp117**: Flamingo (FR) |
-| 22:20 | **picucurt123456**: Dango Penguins | **baconboykindly**: Reindeer (FR) |
+| 22:30 | **Hiaddmebackpls9**: Sheeeeep (MFR) | **x_whips0**: Many Mackerel (MFR) |
+| 22:30 | **lolpopmomuse**: Crow (FR) | **scrpchc**: Hedgehog, Sugar Glider, Munchkin Cat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate |
+| 22:30 | **PugpunterZev**: Werewolf (NFR) | **Imabeehehe300**: Cabbit (R), Unicorn Horn |
+| 22:30 | **iiiPinkyBlossomx**: Panda | **Tree092109**: Ride-A-Pet Potion |
+| 22:30 | **maaaiaus**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5, Dragonfruit Fox, Unicorn (R), Lynx (FR), Count Slothula ×2 | **rafael32087**: Candicorn (R) |
+| 22:30 | **water_plankton**: Ride-A-Pet Potion | **stesh_q**:  |
+| 22:30 | **niceplayeruwu**: Ride-A-Pet Potion | **therealkayt67**: Hare Box |
+| 22:30 | **Queenayeshacutegirl**: Dragonfruit Fox (N) | **NotSweatyOnion**: Ride-A-Pet Potion ×9 |
+| 22:30 | **Yumi_Rose8**: Ride-A-Pet Potion | **lollipopleah7861**: Shadow Dragon Ducky (N) |
+| 22:30 | **coolguy192459**: Crow (NFR), Giant Panda (FR), Arctic Reindeer (FR), Fairy Bat Dragon (NFR), Kangaroo (MFR), Alley Cat (MFR), S'mores Raccoon (MFR), Pig (FR) ×2, Crocodile (FR), 2022 Birthday Confetti Cannon, Fly-A-Pet Potion, Ride-A-Pet Potion | **theseller63**: Bat Dragon (FR) |
+| 22:30 | **reserbadong2**: Owl (FR) | **Frs_88xx**: Strawberry Shortcake Bat Dragon (FR) ×2, Cabbit (FR), Fairy Bat Dragon (R), Skelicorn (MFR), Copycat, Dire Wolf (MFR) |
+| 22:30 | **mk1qez**: Dragonfruit Fox, Husky, Tortuga de la Isla, Lamb (R), Ram, Rose Dragon (FR), Fly-A-Pet Potion | **aloiv484**: Fallow Deer (NFR) |
+| 22:30 | **Machaddkkj**: Paint Sealer ×15 | **otonite7**: Ride-A-Pet Potion |
+| 22:30 | **tom2mcg**: Sheeeeep (MFR), Ballet Swan (MFR), Sugar Glider (R) | **iizzy_banne**: Cow (MFR) |
+| 22:30 | **mmhns2**: Huntsman Robin | **catoqd**: Retired Egg ×3 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
