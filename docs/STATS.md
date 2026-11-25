@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 14:25 UTC by the scrape workflow._
+_Updated 2026-11-25 14:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 14:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 35,688 | 2026-11-25T14:15 |
-| elve | 15 | 7,550 | 2026-11-25T14:15 |
+| amvgg | 15 | 35,945 | 2026-11-25T14:30 |
+| elve | 15 | 7,632 | 2026-11-25T14:31 |
 
-## AMVGG completed trades: 63,680 total
+## AMVGG completed trades: 63,718 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,981 |
+| 2026-11-25 | 2,019 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 14:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:25 | **Taylorisamazing127**: Giraffe (FR), Matcha Cat (MR), Turtle (FR), Munchkin Cat (R), Fly-A-Pet Potion | **joee123514**: Shadow Dragon (FR) |
-| 14:25 | **Papitascongaseosa_xD**: Chocolate Chip Bat Dragon (FR), Butter Knife | **XxllT3ll3zLx**: Strawberry Shortcake Bat Dragon (FR) |
-| 14:25 | **Bartoxo2007**: Arctic Reindeer (R), Ride-A-Pet Potion | **swe3tyums**: Arctic Reindeer |
-| 14:25 | **ARLEKIN4Ok1**: Camel (M), Princess Mare (M), Starfish (N), Admin Abuse Box | **adoptmeplayer293791**: Ride-A-Pet Potion |
-| 14:25 | **mellqxxrb**: Cat Backpack, Glamicorn Purse Pet, Buttoned Ushanka | **Auds191102**: Ride-A-Pet Potion |
-| 14:25 | **lxilaloopsy**: Cow (FR), Dragonfruit Fox (N), Ride-A-Pet Potion, Toasty Red Panda (N) | **sshanao_o**: Dragonfruit Fox (MFR) |
-| 14:25 | **FeliciaSwift**: Haetyphoon | **Jasmine32456778**: Ride-A-Pet Potion ×6 |
-| 14:20 | **flonn_2013**: Cow (FR), Arctic Fox | **kyle_A1T**: Mini Pig (FR) |
-| 14:20 | **Cutecupshakes**: Christmas Pudding Pup Bait | **lIIIllIllllIIIIIIII**: Strawberry Penguin, Ride-A-Pet Potion |
-| 14:20 | **MPLAq9**: Haetae (FR), Arctic Reindeer (FR), Arctic Reindeer, Jimothy | **qlltm**: Cow (NFR), Turtle (NFR) ×3, Cow (FR), Turtle (FR) |
-| 14:20 | **ayamekaj**: Cattuccino, Crystal Egg ×4, Ginger Cat, Little Lamb, Pomeranian, Amber Butterfly, Patchy Bear, Bolt, Pandaguin Glooptodog, Retired Egg ×6 | **BarbiePlaysRobloxHD**: Pupcake |
-| 14:20 | **Ilmartje8**: Ice Cream Hermit Crab, Tuxedo Cat, Badger (N) | **Adore_IvaXx**: Dango Penguins |
-| 14:20 | **fluffyunicorns_932**: Cabbit (NFR), Matcha Cat | **eyeofrahismymom**: Honey Badger (MFR) |
-| 14:20 | **abdoosaad**: Turtle (FR) | **M4RC0S_R0SSI2**: S'mores Raccoon (MFR), Black Panther (R), Unicorn (FR) |
-| 14:20 | **himariiwooosh**: Lion | **tw1nkle3788**: Toaster Hat, Ride-A-Pet Potion |
+| 14:30 | **qwersonyarso**: Elephant (MFR) | **LovelyGirl23033**: Chocolate Chip Bat Dragon (NFR) |
+| 14:30 | **unicornsun_BD2**: Chocolate Dutch Guinea Pig (N), Catte (N), Bready Necklace | **LovelyGirl23033**: Shark Puppy (FR) |
+| 14:30 | **Its_besty0**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6, Pet Handler Pro Certificate ×2 | **XxBxd_TomboyxX**: Lion (R) |
+| 14:30 | **ayeeeAva**: Castle Hermit Crab (MFR), Peach Owl (R), Alicorn, Orca, Sea Angel, Gemstone Egg | **liva_62**: Squid (MFR) |
+| 14:30 | **xxNegarr**: Fairy Bat Dragon (R), Turtle (FR), Werewolf, White Amazon (MFR), Queen Bee (NFR), Capybara (NR), Pink Cat (R), Bald Eagle, Velocirooster, Irish Water Spaniel (FR), Guardian Lion (NFR), Waffle Wyrm (MR), Munchkin Cat, Turkey, Silly Duck (R), Cerberus (FR), Crab (MR) | **leruval**: Crow (FR) |
+| 14:30 | **arqvve1**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **lIIIllIllllIIIIIIII**: Frost Fury (FR) ×2 |
+| 14:30 | **2Freya222**: Strawberry Shortcake Bat Dragon (FR), Angel Wings | **FlushedEgg**: Fallow Deer (MFR), Unicorn Horn, Ride-A-Pet Potion |
+| 14:30 | **Ksy1432**: Witch's Caravan | **gg986gg**: Fairytale Egg ×5 |
+| 14:30 | **LoriDreamy123**: Hot Doggo, Goose (R) ×2, Peppermint Penguin (FR), Peppermint Penguin (R) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **itz_Ema1745**: Owl (FR) |
+| 14:30 | **BUS5ED**: Popsicle Stroller | **werreriss0**: Deinonychus (F) |
+| 14:30 | **Da_Datao**: Kookaburra (FR), Kookaburra (R), Elf Hat, Hawk | **Yupiterd**: Puffin (FR) |
+| 14:30 | **avervuu**: Owl (FR) | **itsjosi_RobloxXX**: Cryptid (FR) ×2 |
+| 14:30 | **itsjosi_RobloxXX**: Ride-A-Pet Potion ×4, Kraken | **anjelitodelcielopet**: Arctic Dusk Dragon |
+| 14:30 | **akhikic**: Crow (NFR), Pig (FR) | **matiasclavereria**: Hedgehog (FR), Hedgehog (R) ×2 |
+| 14:30 | **Skiaksn**: Elf Hat | **Angels_201071**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
