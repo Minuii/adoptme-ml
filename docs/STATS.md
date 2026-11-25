@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 01:25 UTC by the scrape workflow._
+_Updated 2026-11-25 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 01:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 23,936 | 2026-11-25T01:15 |
-| elve | 15 | 5,088 | 2026-11-25T01:15 |
+| amvgg | 15 | 24,179 | 2026-11-25T01:30 |
+| elve | 15 | 5,139 | 2026-11-25T01:31 |
 
-## AMVGG completed trades: 61,911 total
+## AMVGG completed trades: 61,914 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 212 |
+| 2026-11-25 | 215 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,9 @@ _Updated 2026-11-25 01:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:30 | **Kyza_222222223**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×8 | **lukaandrad**: Fairy Bat Dragon (FR) |
+| 01:30 | **zaffy46**: Ride-A-Pet Potion ×3, Capybara ×2, Yule Log Dog, Retired Egg ×5 | **EnotikTea**: Pain au Chat ×15 |
+| 01:30 | **antuco_tuco909**: Elephant (R), Kangaroo (FR), Cow (FR), Blue Ringed Octopus (MR), Pet Handler Pro Certificate | **Gamer_Girl1094286**: Fairy Bat Dragon (NFR) |
 | 01:25 | **catoqd**: Candicorn (R), Fly-A-Pet Potion | **vlados_krash**: Munchkin Cat (FR), Matcha Cat |
 | 01:25 | **SavannahPlayz_D4**: Owlbear (MFR) | **ttzqxov**: Tiny Wings ×2, 2022 Birthday Confetti Cannon, Rain Cloud Hat, Spring Bunny Hood, Rabbit (MFR), Choco Penguin (M), Black Springer Spaniel (N), Ladybug (MFR), Arctic Hare (MR), Shiba Inu (MFR), Spring Bunny Feet, Cotton Candy Hat, Ginger Cat (MFR) |
 | 01:25 | **paulaaau_u**: Frost Dragon (FR), Aussie Egg | **roplex123480**: Owl (FR), Chocolate Chip Bat Dragon (FR) |
@@ -51,9 +54,6 @@ _Updated 2026-11-25 01:25 UTC by the scrape workflow._
 | 01:25 | **KanskjeMatilde**: Strawberry Shortcake Bat Dragon (MR), Turtle (NFR), Spring Bunny Hood, Bat (MFR), Ride-A-Pet Potion, Moon Rabbit (N), Dango Penguins | **nerdoitdabest**: Crow (NFR), African Wild Dog (FR), Back Taco |
 | 01:25 | **Lefty43434**: Aurora Fox (N), Aestus, Platypus (R), Platypus | **Princesitasofia979**: Haetyphoon (N) |
 | 01:25 | **hiimsolucky123**: Giant Anteater (MFR) | **Robloxain4000**: Nessie (MFR), Mini Pig (FR), Fly-A-Pet Potion |
-| 01:25 | **DefinitelyNotCha6**: Caticorn Rattle, Turkey Plush, Santa Rattle, Ornament Throw Toy, Octopus Plush, Ice Cream Plush, Donut Rattle, Banana Pogo, Sleigh Bells Rattle, Sock Chew Toy, Balloons | **Jorge4985**: Fly-A-Pet Potion |
-| 01:25 | **VeroPro3568**: Ginger Cat (NFR) | **Sh1r0_23Lol**: Ride-A-Pet Potion |
-| 01:20 | **autumngrace777**: Great Pyrenees (MFR), Caterpillar (R), Ride-A-Pet Potion ×3, UFO Stroller | **holadiegoxlunaxd**: Unicorn Horn, Tiny Wings |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
