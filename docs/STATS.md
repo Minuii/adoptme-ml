@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 05:55 UTC by the scrape workflow._
+_Updated 2026-11-25 06:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 05:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 28,071 | 2026-11-25T05:45 |
-| elve | 15 | 6,007 | 2026-11-25T05:46 |
+| amvgg | 15 | 28,296 | 2026-11-25T06:00 |
+| elve | 15 | 6,045 | 2026-11-25T06:01 |
 
-## AMVGG completed trades: 62,445 total
+## AMVGG completed trades: 62,451 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 746 |
+| 2026-11-25 | 752 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,12 @@ _Updated 2026-11-25 05:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:00 | **AndresPatato**: Snow Puma (M), Poodle (M), Cat (M) | **dahoody2k3**: Ride-A-Pet Potion |
+| 06:00 | **Omar2002548**: Moon Rabbit (M) | **KIWI_LTP**: Werewolf (FR) |
+| 06:00 | **reserbadong2**: Owl (FR) | **amvggtradingalt9**: Amethyst Penguin (FR), Cabbit (NFR), Bald Eagle (FR) |
+| 06:00 | **JuniorGok**: Fly-A-Pet Potion ×8 | **User017238**: Frostbite Bear |
+| 06:00 | **WillowpillowpiggyWL**: Strawberry Shortcake Bat Dragon (FR) | **Babielily1**: Halo, 2022 Birthday Cupcake Shoes, Tiny Wings, Spring Bunny Hood, Ride-A-Pet Potion, Unfortunate Eyelashes |
+| 06:00 | **Zane_0455**: Goose (FR), Hot Doggo (FR), Hot Doggo (R) | **LuxuryxDxrk**: Alpaca (NFR) |
 | 05:55 | **lovinme_arii**: 2022 Birthday Party Hat, Slime (N) | **swa66ed**: Angel Wings |
 | 05:55 | **vxlvet_vxnner**: German Shepherd (MFR) | **Alexmaster0077**: Sushi Penguin (MFR) |
 | 05:55 | **littlestofcilla**: Stitches, Alicorn, Snowy Mammoth, Cherub Chipmunk, Merhorse, Fire Mare, Purrowl, Black-Footed Ferret, Cold Cube, Grinmoire, Orca, Gumball Caterpillar, Samoyed, Sneak Weasel, Pomeranian, Mexican Wolf, Bobageist, Onza | **dreamingxmaddiee**: Puffer Fish |
@@ -48,12 +54,6 @@ _Updated 2026-11-25 05:55 UTC by the scrape workflow._
 | 05:55 | **CookieCrumbs_l**: Goose (FR), Spring Bunny Feet | **sleepysmi**: Matcha Cat (NFR) |
 | 05:55 | **Robloxians8b6e9k0v**: Cabbit (NFR), Happy Duckling (MFR), Bunny Swirl (MR) | **TTannakot**: Cryptid (FR) |
 | 05:55 | **RileyforSure28**: Evil Unicorn (FR), Caterpillar (NFR), Kangaroo (FR), Turtle (R), Crocodile (R), Ride-A-Pet Potion | **CrazyAlt516**: Owl (FR) |
-| 05:45 | **lol_662720**: Christmas Pudding Pup (R), Lion Cub (R) | **Akeem8903133333**:  |
-| 05:45 | **Panci_Terbang33**: Fly-A-Pet Potion | **startadm0**: Kitsune (FR), Kitsune |
-| 05:45 | **Panci_Terbang33**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **loiol1004**: Sunrise Duckling ×2, Burning Bunny (N), Burning Bunny, Wildfire Hawk (N), Goldfish, Great Pyrenees, Kappakid |
-| 05:45 | **angelkittyyy444**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion, Harp Seal | **Papitascongaseosa_xD**: Strawberry Shortcake Bat Dragon (FR) |
-| 05:45 | **darlinglaufey**: Bat Dragon, Field Mouse (M), Meerkat (MFR) | **copyvoting**: Tortoiseshell Guinea Pig (MFR), Werewolf (MFR), Frost Dragon (NFR), Great Pyrenees (MR) |
-| 05:45 | **copyvoting**: Bush Elephant (NFR), Arctic Fox | **mtrngcuti**: Owlbear (MFR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
