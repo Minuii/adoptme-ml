@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 01:40 UTC by the scrape workflow._
+_Updated 2026-11-25 01:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 01:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 24,179 | 2026-11-25T01:30 |
-| elve | 15 | 5,139 | 2026-11-25T01:31 |
+| amvgg | 15 | 24,417 | 2026-11-25T01:45 |
+| elve | 15 | 5,219 | 2026-11-25T01:46 |
 
-## AMVGG completed trades: 61,953 total
+## AMVGG completed trades: 61,962 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 254 |
+| 2026-11-25 | 263 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 01:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:45 | **HeartsForEli_1406**: Tuxedo Cat (N), Sweetheart Rat (N) | **zephyrgoatt**: 2022 Birthday Confetti Drape, Butter Knife, 2022 Birthday 5 Badge, Popsicle Stroller, Dance Arcade Stand, Golden Walrus Crown |
+| 01:45 | **bloomysweetea**: Dodo (NFR) | **serspect**: Ride-A-Pet Potion ×6 |
+| 01:45 | **Justlovetae**: Amethyst Skies Mega Neon Paint, Toy Poodle (N) | **zlerxr2ndAccount**: Candyfloss Mega Neon Paint |
+| 01:45 | **okayredroses**: Black Springer Spaniel (N), Dolphin (N) | **DellaxKenneth**: Ride-A-Pet Potion ×4 |
+| 01:45 | **Vanlyzn30**: Crystal Egg ×18 | **serspect**: Ride-A-Pet Potion |
+| 01:45 | **jellofox2009**: Space Fleet House | **cindystarsweet3**: Crystal Egg ×18 |
+| 01:45 | **Xxcoralia_omgxX**: Balloon Unicorn (FR) | **N0tKay1a3**: Strawberry Shortcake Bat Dragon (NFR) |
+| 01:45 | **vanillqsz**: Fly-A-Pet Potion, Ride-A-Pet Potion, Rubber Ducky Box, Admin Abuse Box, Endangered Egg, Fairytale Egg ×4, Retired Egg ×6 | **holixddd21**: Happy Clam |
+| 01:45 | **abdoosaad**: Candicorn | **cirocrack2020**: Lion Cub (R), Puptune (M), Ice Wolf (FR), Chihuahua (N) |
 | 01:40 | **User017238**: Mouse (M), Burger Bear | **Vikakelera**: Ride-A-Pet Potion |
 | 01:40 | **cocomdskmm**: Munchkin Cat (MFR), Candyfloss Chick (N) | **BUBBLESGIRL5678**: Crow (FR) |
 | 01:40 | **2Freya222**: Field Mouse (MFR), Angel Wings, Tiny Wings, Pet Handler Pro Certificate | **pinkxmascookie**: Shark Puppy (MFR) |
 | 01:40 | **Mwsjdhw**: Unicorn Horn, Water Rabbit, Paint Sealer | **sunflower_unicorn101**: Arctic Fox (FR), Munchkin Cat, Pancake Stack |
 | 01:40 | **0MG1TSSARAH**: Moonbeam Butterfly (MFR), Tuxedo Cat (M), Orange Butterfly (NR), Ballet Swan, Christmas Pudding Pup (R), Wild Boar ×2 | **Lippy_lulu101**: Chocolate Chip Bat Dragon (FR) |
 | 01:40 | **mtrngcuti**: Christmas Pudding Pup (NR), Candicorn (FR), Slime (N) | **LEODAGOATT710**: Candicorn (NFR) |
-| 01:40 | **Aubrey_Prism851**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R) | **izzyxrblx00**: Frost Dragon (FR) |
-| 01:36 | **0002callum**: Chocolate Dutch Guinea Pig (MFR) | **Lolbaddie1205**: Great Pyrenees (MFR), Toasty Red Panda (MFR), Scarlet Butterfly (MR), Green Amazon (MFR) |
-| 01:36 | **NathanPlayz83**: 2022 Birthday Party Hat, Velocirooster (NR), Husky (MFR), Candicorn (R), Elephant | **Glockcode17**: Undead Jousting Horse (NFR) |
-| 01:36 | **mx_xsey**: Princess Capuchin Monkey (FR) | **floralplum**: Candyfloss Mega Neon Paint |
-| 01:36 | **M4RC0S_R0SSI2**: Owl (NFR) | **shyb_0yalt**: Strawberry Shortcake Bat Dragon (NFR) ×2, Strawberry Shortcake Bat Dragon (FR) ×3, Velocirooster |
-| 01:36 | **saverboy75**: Unicorn (NFR) ×5 | **xxpeenut_butterxxx**: Cabbit (FR) |
-| 01:36 | **Lielaltx**: Field Mouse (NR), Yule Log Dog (N) | **Pinkmalinky123**: Great Pyrenees (MFR), Candy Hare (N), Raccoon (MR), Hopbop (M), Burning Bunny (NR) |
-| 01:36 | **Kxxr9**: Parrot, Evil Unicorn (FR), Elephant (R) | **BUBBLESGIRL5678**: Owl (FR), Arctic Reindeer (FR) |
-| 01:36 | **zozo17181**: Groundhog | **sen_kiTwT**: Fly-A-Pet Potion ×2, Mecha R4BBIT (N) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
