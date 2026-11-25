@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 08:16 UTC by the scrape workflow._
+_Updated 2026-11-25 08:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 08:16 UTC by the scrape workflow._
 | amvgg | 15 | 30,320 | 2026-11-25T08:15 |
 | elve | 15 | 6,405 | 2026-11-25T08:15 |
 
-## AMVGG completed trades: 62,747 total
+## AMVGG completed trades: 62,751 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,048 |
+| 2026-11-25 | 1,052 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,10 @@ _Updated 2026-11-25 08:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:25 | **Hahahjajajo**: Narwhal (MFR), Rain Cloud Hat | **helloimfromamvorelve**: Mini Schnauzer (MFR) |
+| 08:25 | **Yamajyjopyvazelinov1**: Gingerbread Hare, Gingerbread Reindeer, Gingerbread Mouse | **milk59012**: Ride-A-Pet Potion |
+| 08:25 | **Str3amN0va2024**: Octopus (MFR) | **user9461037**: Kangaroo (FR), Ride-A-Pet Potion |
+| 08:25 | **Vivixpups**: Balloon Unicorn (FR), Evil Unicorn (FR), Mermicorn (FR) | **KayleeSt0rm147**: Frost Dragon (FR) |
 | 08:15 | **Leafiieee**: Cherub Chipmunk (NR), Ghost Wolf (R), Bunny (R) | **hi30o10**: Ride-A-Pet Potion |
 | 08:15 | **N0tt_Mada3**: Black Chow-Chow | **yoshi_shrine**: Rose Quartz Glow Mega Neon Paint |
 | 08:15 | **df_144638**: Crow (FR), African Wild Dog (FR) | **pedrobeteir0**: Frost Dragon (FR) |
@@ -50,10 +54,6 @@ _Updated 2026-11-25 08:16 UTC by the scrape workflow._
 | 08:15 | **millka11111111**: Onza (R), Red Fox (N), Ms. Muffet (N) | **i111kwm**: Ride-A-Pet Potion |
 | 08:15 | **mateofelisunu**: Dalmatian (F) | **NathanPlayz83**: Cryptid (FR) |
 | 08:15 | **vvamppuppy**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR), Goose (FR) | **goku233289**: Frost Dragon (FR) |
-| 08:15 | **Coralmnm**: Ride-A-Pet Potion ×3 | **loiol1004**: Ibex (N), Ibex ×3, Clownfish, Toasty Red Panda ×2, Wooly Rhino, Wren ×2 |
-| 08:15 | **DefinitelyNotCha6**: Sock Chew Toy, Heart Balloon, Elf Plush, Cookie Dough Plush ×3, Candle ×2, Banana Plush, Turkey Plush, Santa Rattle, Dragon Balloon, Sleigh Bells Rattle ×3, Kangaroo Pogo ×3 | **Mr_iziponik**: Fly-A-Pet Potion |
-| 08:15 | **0ali_ice0**: Puptune (NR) | **typol1235y6**: Lunar White Tiger (NFR) |
-| 08:15 | **TwizzyCrafty**: Crystal Egg ×18 | **gggpppgggppp1**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
