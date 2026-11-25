@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 21:46 UTC by the scrape workflow._
+_Updated 2026-11-25 21:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 21:46 UTC by the scrape workflow._
 | amvgg | 15 | 43,211 | 2026-11-25T21:45 |
 | elve | 15 | 9,176 | 2026-11-25T21:46 |
 
-## AMVGG completed trades: 65,555 total
+## AMVGG completed trades: 65,618 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,856 |
+| 2026-11-25 | 3,919 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 21:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:45 | **ilovftf_t**: Kitty Bat (M) | **sleepy_s0ren**: Dolphin (MFR) |
-| 21:45 | **Bennferoo00**: Frost Dragon (NFR) | **Flick_Pixel2010**: Frost Dragon (FR), Owl (FR) |
-| 21:45 | **xpys20**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **Helo_imonyouwalls**: Owl (FR) |
-| 21:45 | **Evo4ka_Devo4kaMI**: Snowman (MR), Skele-Rex (R), Wren (F), Boohoo (N), Thunderfisher (N), Caramelgeist (N), Donkey (N), Ant (N), Dragonfly | **eulsstepstool**: Fly-A-Pet Potion ×3 |
-| 21:45 | **glowingangel1234**: Retired Egg ×6 | **Unicornwoman256**: Dragon ×2 |
-| 21:45 | **Milana_Tundro4ka**: Owl (FR), Siamese Cat (FR), Alley Cat (N), Munchkin Cat (R), Giant Anteater, Maine Coon (M), Fly-A-Pet Potion ×4, Elf Hat, Candy Hare (R), Ride-A-Pet Potion ×2 | **ElFanan_Asser**: Frost Dragon (FR) |
-| 21:45 | **Cute_CocoMouse**: Pancake Stack | **jarenyW**: Ride-A-Pet Potion ×2 |
-| 21:45 | **Abietis**: Ox (MFR) | **eulsstepstool**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 21:45 | **gggpppgggppp1**: Sweetheart Rat (N), Jacobin Pigeon (M), Stray Cat Dragon ×2 | **lyawwq7x**: Pet Handler Pro Certificate |
-| 21:36 | **Mytradeaccountforme**: Shark Puppy (NFR) | **lvqmpyx**: Flaming Fox (MFR) |
-| 21:36 | **diorrqts**: Catte, Cattuccino, Pain au Chat ×2 | **eulsstepstool**: Fly-A-Pet Potion |
-| 21:36 | **evelincik_0**: Ride-A-Pet Potion | **Appelkruimell**: Alicorn ×11 |
-| 21:36 | **Sara707852**: Cow (NFR), Husky, Fallow Deer (FR), Clover Cow (R), Snowball Pug (MFR), Alley Cat, Pig (FR) | **Bluetikto_k**: Cryptid (R) |
-| 21:36 | **M4RC0S_R0SSI2**: Owl (FR) | **lIIIllIllllIIIIIIII**: Strawberry Shortcake Bat Dragon (FR), Cow (FR) ×4, Ride-A-Pet Potion |
-| 21:36 | **Baby_flor01**: Chocolate Chip Bat Dragon (FR), 2022 Birthday Confetti Cannon, Tiny Wings | **Avlyxa**: Cryptid (FR) |
+| 21:55 | **Lina_657210**: Chihuahua (N), Ride-A-Pet Potion, Boohoo (M) | **steamrepack**: Fallow Deer |
+| 21:55 | **wawwpp**: Ice Cream Cone Hat | **wsiaxx00s**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 21:55 | **Haiealysososo**: Dango Penguins (MFR) ×2 | **Leichisme3**: Sugar Glider (NFR) |
+| 21:55 | **Pruazes1**: Strawberry Shortcake Bat Dragon (FR) ×4, Chocolate Chip Bat Dragon (FR), Unicorn Horn, Rain Cloud Hat, Candicorn (MFR), Chocolate Chip Bat Dragon (R) | **lukaspro23317**: Shadow Dragon (FR) |
+| 21:55 | **Ameera_109**: Parrot (FR) | **youchi_nagi**: Puffin (MFR), Lava Wolf (MFR), Fairy Bat Dragon (FR) |
+| 21:55 | **rrstockxadm**: Crystal Egg ×14, Ride-A-Pet Potion | **Tree092109**: Fly-A-Pet Potion |
+| 21:55 | **iiWxllowCloudz**: Alley Cat (MFR) | **kaibodydump**: Pupcicle (M), Cow Calf (M), Majestic Pony (NFR), Flaming Fox (NR), Ghost Bunny (N), Cupid Dragon (R), Arctic Dusk Dragon |
+| 21:55 | **loiol1004**: Space Whale (NFR), Space Whale (NR), Space Whale (N), Space Whale ×4 | **FranzKianGeducos10**: Ride-A-Pet Potion ×8 |
+| 21:55 | **Auds191102**: Sakura Spirit (NFR), Panda (MFR) | **WillmyFF**: Snow Monkey (MFR) |
+| 21:55 | **Xxxxashhhh**: Pet Handler Pro Certificate | **terrylonsoyjerry**: Ice Cream Hermit Crab |
+| 21:55 | **diorrqts**: Scarecrow Horse (FR), Stitches (N) | **xilawn2023**: Ride-A-Pet Potion |
+| 21:55 | **diorrqts**: Gingerbread Reindeer (FR) | **xilawn2023**: Ride-A-Pet Potion |
+| 21:55 | **ixqsix**: Lynx (MFR), Spring Bunny Hood | **ItsAmelia_Xx**: Unicorn Horn |
+| 21:55 | **MICROCELE6BRITY**: 2022 Birthday Cake | **gato12345129**: 2022 Birthday Party Hat |
+| 21:55 | **PityGh0ul**: Rain Cloud Hat, Chihuahua (M), Fairy Bat Dragon (FR), Tiny Wings, Candyfloss Chick (FR) | **cxbvnniz**: Meerkat (MFR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
