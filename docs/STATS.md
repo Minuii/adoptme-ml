@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 17:01 UTC by the scrape workflow._
+_Updated 2026-11-25 17:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 17:01 UTC by the scrape workflow._
 | amvgg | 15 | 38,392 | 2026-11-25T17:00 |
 | elve | 15 | 8,217 | 2026-11-25T17:01 |
 
-## AMVGG completed trades: 64,315 total
+## AMVGG completed trades: 64,367 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 2,616 |
+| 2026-11-25 | 2,668 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 17:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:00 | **itz_nastyalik**: Squid, Kiwi Kiwi, Endangered Egg ×2 | **batton0955**: Ride-A-Pet Potion |
-| 17:00 | **luvyerh**: Unicorn (MFR) | **Angelbatista_me2**: Crocodile (FR) |
-| 17:00 | **varmitrof**: Fly-A-Pet Potion, Chocolate Chip Bat Dragon (R) | **willmaintop**: Glormy Leo (MFR) |
-| 17:00 | **sophsroblocxacc2**: Chocolate Dutch Guinea Pig (MFR), Kangaroo (FR), Cow (FR), Mini Pig (R), Goose (FR), Cow (R) ×2, Unicorn (MR) | **OG_Kylen44840**: Chocolate Chip Bat Dragon (FR), Arctic Reindeer (FR), Dalmatian (R) |
-| 17:00 | **Kisa_niki**: Gummy Guana (N), Clumpty (N), Starfish (N), Garden Snake (N), Jumping Spider (N), Red Cardinal, Bullfrog, Poodle, Tree Frog, Galapagos Sea Lion | **Wolf_Dragun**: Ride-A-Pet Potion |
-| 17:00 | **leesoyul11111111**: Pig (FR), Arctic Fox (FR) ×2 | **fara_garant**: Cow (FR) |
-| 17:00 | **epicpulsechaos2024**: Dragonfly ×11 | **Sofixiskiller**: Ride-A-Pet Potion |
-| 17:00 | **gTheGamerProYTg**: Amethyst Penguin (FR), Unicorn (M), Fly-A-Pet Potion ×9 | **joee123514**: Chocolate Chip Bat Dragon (FR) ×2 |
-| 17:00 | **sxmplycutecorex**: Fly-A-Pet Potion ×2 | **camgzz20**: Ride-A-Pet Potion ×4 |
-| 17:00 | **starlight777697**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **yugfy21**: Christmas Pudding Pup |
-| 17:00 | **scarIetashes**: Bush Elephant (MFR), Parrot (NFR), Velocirooster (MFR), Burger Bear (M), Jellyfish (MFR), Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **lovestrqck**: Cryptid (MFR) |
-| 17:00 | **bq1r_35**: Peppermint Penguin ×2, Aurora Fox (R) | **Niki_tosik22855**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:00 | **2023luzxd**: Bee (M), Catte, Peacock (F), Golden Walrus | **AlastorDanger**: Jester Dragon |
-| 17:00 | **Chiyothebestrust**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Black Chow-Chow, Samoyed (N) | **Annegbe**: Matcha Cat |
-| 17:00 | **v77lz**: Sea Slug, Puffin, Copycat, Ride-A-Pet Potion ×3 | **123luna958**: Strawberry Tortle |
+| 17:11 | **Kenny_thealien**: Field Mouse (MFR), Rainbow Maker, 2022 Birthday Confetti Cannon | **Dragonlegend2130**: Matcha Cat (MFR) |
+| 17:11 | **ghvstvex**: Cabbit (R) | **Babielily1**: 2022 Birthday Cake, Spring Bunny Hood |
+| 17:11 | **iellyzavt**: Hedgehog (FR), Evil Unicorn | **ssolsticx**: Owl (FR) |
+| 17:11 | **snow_idk2**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Cabbit (FR) | **goku233289**: Crow (NFR) |
+| 17:11 | **Vicky_200804**: Rainbow Maker, Pancake Stack | **sashaterebik2014**: Ice Cream Hermit Crab (MFR), Puffer Fish (MFR) |
+| 17:11 | **Ghosthero2020_offici**: Giant Panda (FR) | **Igorskii14**: Giant Panda |
+| 17:11 | **splagoogle**: Strawberry Shortcake Bat Dragon (MFR) | **exorcciism**: Mini Pig (MFR), Chocolate Dutch Guinea Pig (MFR), Unicorn Horn |
+| 17:11 | **mzrxxq**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 17:11 | **notreal_angelazz**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×17 |
+| 17:11 | **Twinsog12**: Monkey (M) | **caash20s**: Ride-A-Pet Potion ×3 |
+| 17:11 | **JuniorGok**: Snowball Pet | **YANA_568646**: Pupcicle |
+| 17:11 | **Giulia_SatoruPs4**: Copycat ×2 | **FOR3VERL1LS**: Ornate Horned Frog (M), Raccoon (M), Jester Dragon |
+| 17:11 | **SANANELANISMIMDEN_LA**: Sushi Penguin | **Kvetka198**: Ride-A-Pet Potion |
+| 17:11 | **bella102935**: Peppermint Penguin (FR) | **i07jdy**: Munchkin Cat (NFR) |
+| 17:11 | **moonlarielle**: Kangaroo (FR) | **luvleebriii**: Chocolate Dutch Guinea Pig (NR), Hamster (NFR), Ballet Swan, Spring Bunny Hood |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
