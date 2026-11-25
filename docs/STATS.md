@@ -1,20 +1,20 @@
 # Collected data
 
-_Updated 2026-11-25 02:11 UTC by the scrape workflow._
+_Updated 2026-11-25 02:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 23 | 2026-11-11T1036Z | 2026-11-24T0016Z |
+| elve | 24 | 2026-11-11T1036Z | 2026-11-25T0216Z |
 | amvgg | 67 | 2026-11-11T1036Z | 2026-11-24T1415Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 24,658 | 2026-11-25T02:00 |
-| elve | 15 | 5,291 | 2026-11-25T02:01 |
+| amvgg | 15 | 24,880 | 2026-11-25T02:15 |
+| elve | 15 | 5,316 | 2026-11-25T02:15 |
 
 ## AMVGG completed trades: 62,001 total
 
@@ -55,25 +55,25 @@ _Updated 2026-11-25 02:11 UTC by the scrape workflow._
 | 02:00 | **St_locki1**: Ride-A-Pet Potion ×5, Rainbow Stroller | **deandrapisang**: Fly-A-Pet Potion ×3 |
 | 02:00 | **ll2Sc**: Tortuga de la Isla (MFR) | **Memes_forthesoulalt**: Puffin (MFR) |
 
-## Elvebredd value changes: 62,952 since 2023-09-16
+## Elvebredd value changes: 63,046 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-23 23:30 | Flash Weasel | mega fly ride | 180 | 132 |
-| 2026-11-23 23:30 | Flash Weasel | neon fly ride | 43 | 31 |
-| 2026-11-23 23:30 | Flash Weasel | default no potion | 8 | 6.5 |
-| 2026-11-23 23:30 | Haetyphoon | mega fly ride | 180 | 132 |
-| 2026-11-23 23:30 | Haetyphoon | neon fly ride | 43 | 31 |
-| 2026-11-23 23:30 | Haetyphoon | default no potion | 8 | 6.5 |
-| 2026-11-23 23:30 | Copycat | mega fly ride | 102 | 98 |
-| 2026-11-23 23:30 | Copycat | neon fly ride | 25 | 24 |
-| 2026-11-23 23:30 | Copycat | default no potion | 5.25 | 5 |
-| 2026-11-23 23:30 | Strawberry Tortle | mega fly ride | 515 | 476 |
-| 2026-11-23 23:30 | Strawberry Tortle | neon fly ride | 126 | 117 |
-| 2026-11-23 23:30 | Strawberry Tortle | default no potion | 30 | 28 |
-| 2026-11-23 23:30 | Red Dutch Guinea Pig | mega fly ride | 74 | 76 |
-| 2026-11-23 23:30 | Red Dutch Guinea Pig | neon fly ride | 17.5 | 18 |
-| 2026-11-23 23:30 | Tortoiseshell Guinea Pig | mega fly ride | 290 | 310 |
+| 2026-11-25 01:39 | Copycat | mega fly ride | 98 | 94 |
+| 2026-11-25 01:39 | Copycat | neon fly ride | 24 | 23 |
+| 2026-11-25 01:39 | Copycat | default no potion | 5 | 4.75 |
+| 2026-11-25 01:39 | Strawberry Tortle | mega fly ride | 476 | 468 |
+| 2026-11-25 01:39 | Strawberry Tortle | neon fly ride | 117 | 115 |
+| 2026-11-25 01:39 | Strawberry Tortle | default no potion | 28 | 27.5 |
+| 2026-11-25 01:39 | Tortoiseshell Guinea Pig | mega fly ride | 310 | 322 |
+| 2026-11-25 01:39 | Tortoiseshell Guinea Pig | neon fly ride | 76 | 79 |
+| 2026-11-25 01:39 | Tortoiseshell Guinea Pig | default no potion | 17.5 | 18 |
+| 2026-11-25 01:39 | Latte Kitsune | mega fly ride | 54 | 52 |
+| 2026-11-25 01:39 | Latte Kitsune | neon fly ride | 12.5 | 12 |
+| 2026-11-25 01:39 | Latte Kitsune | default no potion | 2.35 | 2.25 |
+| 2026-11-25 01:39 | Candicorn | default no potion | 20 | 20.25 |
+| 2026-11-25 01:39 | Arctic Dusk Dragon | mega fly ride | 80 | 76 |
+| 2026-11-25 01:39 | Arctic Dusk Dragon | neon fly ride | 20 | 19 |
 
 ## AMVGG value changes: 8,220 since 2026-06-02
 
