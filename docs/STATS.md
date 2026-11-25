@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 19:41 UTC by the scrape workflow._
+_Updated 2026-11-25 19:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 19:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 40,952 | 2026-11-25T19:30 |
-| elve | 15 | 8,729 | 2026-11-25T19:31 |
+| amvgg | 15 | 41,180 | 2026-11-25T19:45 |
+| elve | 15 | 8,783 | 2026-11-25T19:46 |
 
-## AMVGG completed trades: 65,082 total
+## AMVGG completed trades: 65,097 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,383 |
+| 2026-11-25 | 3,398 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 19:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:41 | **Rubberduckington1103**: Ice Cube (MR), Praying Mantis | **adoptamvggxo**: Halloween Golden Mummy Cat (NFR) |
-| 19:41 | **64kenz**: Water Rabbit (MR), Amami Rabbit (M), Chipmunk (MFR), Easter Bunny (M), Moon Rabbit (MFR), Otter (MFR), Cocoadile (M), Mistletroll (MR) | **Sonya73p**: Dango Penguins (MFR) |
-| 19:41 | **KatesArrow**: Kookaburra (MFR) | **AvokadoJFKfanat**: Matcha Cat (NR) |
-| 19:41 | **Youdi_off**: Ride-A-Pet Potion | **Addisonfrs**: Crystal Egg ×18 |
-| 19:41 | **sunday0_01**: Red Dutch Guinea Pig (FR), Fly-A-Pet Potion ×2 | **Mariam_123xd123**: Gecko (M) |
-| 19:41 | **Nicholexpets**: Ride-A-Pet Potion | **CrimsonSummit1483**: Crystal Egg ×18 |
-| 19:41 | **EmmaFlame548**: Winged Tiger (MFR), Unicorn (MFR), Cake Friend (MFR), Count Slothula (MFR) | **sweetn6thing**: Bush Elephant (MFR) |
-| 19:41 | **Artem_21a2**: Caelum Cervi (R) ×2, Majestic Pony (N), Ride-A-Pet Potion ×3 | **Tal_Kazman**: Turtle (FR) |
-| 19:41 | **Ninaaaaaaaasxx**: Evil Unicorn (FR), Undead Jousting Horse (FR), Cabbit (R), Chocolate Dutch Guinea Pig (MR), Ice Cream Cone Hat, Latte Kitsune, Bunny Swirl (N) | **Tal_Kazman**: Owl (FR) |
-| 19:41 | **SMETAHKA2033**: Kangaroo (FR), Jester Dragon (R), Tarsier (M), Ride-A-Pet Potion ×3, Ketchup and Mustard Jetpack, Llama | **Tal_Kazman**: Hot Doggo (FR) |
-| 19:41 | **chocolatechips1974**: Evil Unicorn (FR), Cow (R), Ballet Swan (FR), Fly-A-Pet Potion, Chihuahua (MR), Chocolate Dutch Guinea Pig ×2 | **lol_whateverx67hsk81**: Crow (FR) |
-| 19:41 | **AMINO4KA7U**: Cryptid (R) | **s0larzxxxx**: Dalmatian (FR), Fly-A-Pet Potion |
-| 19:41 | **juandxmm2**: Vanilla Penguin (MFR), Cake Friend (MFR), Unicorn (MFR), Quokka (MFR) | **lol_whateverx67hsk81**: Rainbow Maker |
-| 19:41 | **Semisunaki**: Crow (F), Parrot (FR), Balloon Unicorn (FR), African Wild Dog (FR), Evil Unicorn (FR), Arctic Reindeer (FR), Goat (NFR), Elephant (FR), Pig (R) | **lol_whateverx67hsk81**: Bat Dragon (FR) |
-| 19:41 | **1mochimiffy**: Cobra, Retired Egg ×12 | **S4rc4st1cs1**: Burger Bear |
+| 19:45 | **deadpo0l293**: Monster Mansion ×2 | **Cdg91400**: Paint Sealer ×6 |
+| 19:45 | **Fur0kan_344**: Candy Cane Snail (MFR) | **xxxAubreexxx123**: Frost Fury (R), Turkey (R), Zodiac Minion Chick (FR), Hippo (R), Ladybug (FR), Dire Wolf (M) |
+| 19:45 | **pinksugarcookiesruu**: Flamingo (R), Ice Cream Cone Hat, Fly-A-Pet Potion, French Bulldog | **igvxruu**: Alpaca (FR) |
+| 19:45 | **lmao_fyp**: Giant Anteater (MFR) | **Ilvvech33seburgers34**: Jellyfish (MFR) |
+| 19:45 | **AdoptMeChallang11**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Jester Dragon (R) | **lol_whateverx67hsk81**: Pig (R) |
+| 19:45 | **hojujuonabeat**: Scarecrow Cat ×2, Musk Ox | **sleepynellixo**: Ride-A-Pet Potion |
+| 19:45 | **Katty12101**: 2x Bucks Potion | **luninh512**: Golden Egg, Ermine |
+| 19:45 | **Shadx_1553**: Emperor Gorilla (MFR) ×2, Cow (NFR), 2022 Birthday Party Horn | **ruralurbanmigration**: Monkey King (MFR) |
+| 19:45 | **SOMbaddi26**: Diamond Amazon (MFR), Leopard Shark (MFR), Diamond Ladybug (MFR), Cake Friend (MFR), Great Pyrenees (MFR), Golden Walrus (MFR), Dango Penguins (MFR), Peach Owl (MFR) ×2 | **zeejnaa**: Tortoiseshell Guinea Pig (MFR) |
+| 19:45 | **ambervgils**: Golden Tortoise Beetle (MR) | **Fur0kan_344**: Haetyphoon |
+| 19:45 | **1s2ll**: Tiny Wings, Mule (NR) | **CoOl_NaMeDuH**: Candicorn |
+| 19:45 | **Adoptme_prety**: Peahen, Bubblegeist | **scvnilla**: Ride-A-Pet Potion |
+| 19:45 | **Artem_21a2**: Polar Bear ×2, Brown Bear (R), Pig (R), Peahen (N), Snowball Pet | **Tal_Kazman**: Turtle (FR) |
+| 19:45 | **Quean_33**: Christmas Pudding House | **vupxric**: Ride-A-Pet Potion |
+| 19:45 | **igor_YTPL**: Shark Puppy, Dragonfruit Fox, Latte Kitsune, Alley Cat | **ll_llllpn**: Candicorn |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
