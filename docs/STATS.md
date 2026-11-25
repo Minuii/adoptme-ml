@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 12:55 UTC by the scrape workflow._
+_Updated 2026-11-25 13:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 12:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 34,337 | 2026-11-25T12:45 |
-| elve | 15 | 7,257 | 2026-11-25T12:46 |
+| amvgg | 15 | 34,552 | 2026-11-25T13:00 |
+| elve | 15 | 7,309 | 2026-11-25T13:01 |
 
-## AMVGG completed trades: 63,386 total
+## AMVGG completed trades: 63,407 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,687 |
+| 2026-11-25 | 1,708 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 12:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:55 | **golden_hopper4890237**: Crystal Egg ×18 | **MinhLovesFurriess**: Ride-A-Pet Potion |
-| 12:55 | **kykykykyky_yy**: Copycat | **sleepy_s0ren**: Polar Bear |
-| 12:55 | **anna_398587**: Chocolate Dutch Guinea Pig (N), Chihuahua (N), Pain au Chat (N), Ride-A-Pet Potion ×2, Urban Egg | **verzlove68**: Border Collie |
-| 12:55 | **Siren_AriaBlaze**: Fairy Bat Dragon (R) | **BrawlEminl**: Harp Seal (MR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Stray Cat Dragon (M), Stitches (M) |
-| 12:55 | **Hahahjajajo**: Cotton Candy Hat ×4 | **itzz_Keys**: Pancake Stack |
-| 12:55 | **Riaaisaa**: Goat (FR), Eggnog Dog | **LyraFusion**: Aurora Fox (R), Pancake Stack |
-| 12:55 | **TT3VLD**: Turtle (FR), Pretty Pony (MR) | **wolf20302035**: Cow (FR) |
-| 12:55 | **KatzenTanga**: Crystal Egg ×17 | **CatMaowss**: Ride-A-Pet Potion |
-| 12:51 | **Its_besty0**: Flash Weasel (R) | **0Jasmine_Melody0**: Ride-A-Pet Potion ×5, Pet Handler Pro Certificate |
-| 12:51 | **Elisa_hollands**: Bat Dragon (FR), Shark Puppy | **Shadx_1553**: Bat Dragon |
-| 12:51 | **Bacon_321087**: Ant ×5 | **butterflieshi**: Bandicoot |
-| 12:51 | **1ztrk**: Cryptid (NFR) | **giqxzo**: Border Collie (MFR), Hare (MFR) |
-| 12:51 | **Mintsnpowder**: Clumpty (M), Granny Wolf (M), Princess Mare (M) | **chaluvxely**: Ride-A-Pet Potion |
-| 12:51 | **xxpeenut_butterxxx**: Fly-A-Pet Potion ×3 | **flower_1851**: Unicorn (NFR) |
-| 12:51 | **chn1r**: Galapagos Sea Lion (MR), Black Rhino (M), Sushi Penguin | **haileyrxo**: Fly-A-Pet Potion |
+| 13:00 | **TheEerthh**: Crystal Egg ×18 | **QiQi6060**: Chihuahua ×4 |
+| 13:00 | **Konst_ant1nos22748**: Crystal Egg ×17 | **lmp_666**: Ride-A-Pet Potion |
+| 13:00 | **waydrown**: Little Lamb (M), Dragonfly (NR), Robo Dog (R), Purrowl (N) | **Alina_02445**: Banana Hat, Jeff's Nametag |
+| 13:00 | **Las_name7**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **yanahaltacc1**: Lion Cub (R) |
+| 13:00 | **queenalwaysslayxx**: Hedgehog, Fly-A-Pet Potion | **plushioss**: Hedgehog (FR) |
+| 13:00 | **meowwweweww**: Siamese Cat, Winged Tiger (FR), Munchkin Cat (FR), Arctic Fox, Christmas Pudding Pup, Mini Pig (R) | **rianasfanboy**: Dalmatian (FR) |
+| 13:00 | **whannahbeyours98**: Dragonfruit Fox | **St4r1890241**: Count Slothula ×3 |
+| 13:00 | **Ghost_Sparkly435**: Royal Palace Spaniel (FR), Ankylosaurus (N), Skunk, Ankylosaurus | **Vikakelera**: Fly-A-Pet Potion |
+| 13:00 | **Dilyara_cat09**: Frost Fury (FR), Copycat, Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×7 | **einxizz**: Sugar Glider (FR) |
+| 13:00 | **Esikiiomuru**: Goose, Golden Penguin (NFR), Mermicorn (FR) | **afkmelly**: Caterpillar (NFR), Arctic Fox, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 13:00 | **Kv1cel**: Toaster Hat, Pancake Stack | **AlinaAW16**: Chocolate Dutch Guinea Pig (N) ×2 |
+| 13:00 | **prorabik_krytou**: Alpaca (FR) ×2, Alpaca ×2, Candicorn (R), Cow Calf (MFR), Pet Handler Pro Certificate | **MITKOVX**: African Wild Dog (FR) |
+| 13:00 | **sleepy_4ng3l**: Ride-A-Pet Potion, Halloween Slime Mega Neon Paint | **haileyrxo**: Fly-A-Pet Potion |
+| 13:00 | **XzB3arL3Synth7zX1088**: Cow Calf (MR), Ride-A-Pet Potion | **liverpool1886**: Pig |
+| 13:00 | **qwerty99ooo**: Chocolate Dutch Guinea Pig | **HorsegirlEms12**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
