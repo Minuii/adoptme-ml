@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 07:25 UTC by the scrape workflow._
+_Updated 2026-11-25 07:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 07:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 29,388 | 2026-11-25T07:15 |
-| elve | 15 | 6,229 | 2026-11-25T07:15 |
+| amvgg | 15 | 29,640 | 2026-11-25T07:30 |
+| elve | 15 | 6,278 | 2026-11-25T07:31 |
 
-## AMVGG completed trades: 62,638 total
+## AMVGG completed trades: 62,641 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 939 |
+| 2026-11-25 | 942 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,9 @@ _Updated 2026-11-25 07:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:30 | **1mochimiffy**: Gumball Caterpillar (N) | **Andy_kj8**: Retired Egg ×18 |
+| 07:30 | **59ghrvs**: Arctic Fox (R) | **milka_offO1**: Happy Clam ×2, Golden Penguin (R) |
+| 07:30 | **mawifa123**: Crystal Egg ×18 | **maiaelain**: Ride-A-Pet Potion |
 | 07:25 | **SirPaulMcCartney4**: Christmas Spirit (NFR) | **iiiPinkyBlossomx**: Puptune ×5 |
 | 07:25 | **pinkysworn**: Evil Unicorn (MFR), Mini Pig (MFR), Christmas Pudding Pup (MFR), Turkey (MFR), Tree Kangaroo (MFR), Cow (R), Strawberry Shortcake Bat Dragon (FR), Cow | **RhodesyMate16**: Frost Dragon (MFR) |
 | 07:25 | **nushido02**: Ride-A-Pet Potion ×2 | **minv9a**: Santa's Sleigh, Choo Choo Train, Pink Scooter, Car Stroller |
@@ -51,9 +54,6 @@ _Updated 2026-11-25 07:25 UTC by the scrape workflow._
 | 07:25 | **ItzViolet_Plays**: Unicorn Horn, Pupcicle (N), Pupcicle, Fly-A-Pet Potion | **qO_Opli**: 2022 Birthday Party Hat |
 | 07:25 | **boundedmoney**: Dango Penguins (MFR) | **RaphaelaXD123**: Hare (MFR) |
 | 07:25 | **Ali_12xx1**: Ride-A-Pet Potion ×2, Unicorn, Fly-A-Pet Potion | **iiiistyloneiiii**: Unicorn (NFR) |
-| 07:25 | **PixelRider43545**: Cabbit (NFR), Mini Pig (FR) | **seriaIkitty**: Haetae (FR) |
-| 07:25 | **Valentntiji**: Cow (R) | **RoyaleWanderer**: Jekyll Hydra (FR) |
-| 07:25 | **Txskiicatzz**: Dragonfly (NR), Purrowl | **Ali_12xx1**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
