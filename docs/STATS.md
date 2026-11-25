@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 13:31 UTC by the scrape workflow._
+_Updated 2026-11-25 13:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 13:31 UTC by the scrape workflow._
 | amvgg | 15 | 35,010 | 2026-11-25T13:30 |
 | elve | 15 | 7,400 | 2026-11-25T13:31 |
 
-## AMVGG completed trades: 63,501 total
+## AMVGG completed trades: 63,540 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,802 |
+| 2026-11-25 | 1,841 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:30 | **Monetachka38**: Border Collie (FR), Crocodile (R) | **KatiLoni**: Cabbit (R) |
-| 13:30 | **Officalyuichi**: Candicorn (R), Munchkin Cat (R), Cuddly Candle (MR), Latte Kitsune (FR), Copycat | **Addison_167368**: Mini Pig (FR) |
-| 13:30 | **Mrpresident20010**: Hedgehog (N) | **violet_DONtTriparmy**: Hedgehog (FR) ×2, Mini Pig (FR) |
-| 13:30 | **Lalacoast4**: Unicorn Horn, Ride-A-Pet Potion ×4 | **TradingInD**: Turtle (FR) |
-| 13:30 | **fluffy_hair5**: Owl (FR), Crow (FR), Strawberry Tortle, Quokka (M), Warthog (M), Burger Bear (N), Choco Penguin (N), Shadow Dragon Ducky, Harp Seal | **lol_whateverx67hsk81**: Giraffe (FR) |
-| 13:30 | **shainikss**: Unicorn (MFR) ×3, Unicorn (MR), Matcha Cat (R), Pancake Stack, Fly-A-Pet Potion | **BaconetteNoobs**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:30 | **ALTAMERANO10**: Purrowl ×11 | **Roblox_Cat41**: Ride-A-Pet Potion |
-| 13:30 | **IsraaxD007**: Monkey (NFR), Chocolate Dutch Guinea Pig | **cats_56282**: Admin Vision Glasses |
-| 13:30 | **floralplum**: Fly-A-Pet Potion ×15, Ride-A-Pet Potion ×2 | **bigmacburger_0**: Chocolate Dutch Guinea Pig (MFR) |
-| 13:30 | **AlphaTaToxicv1047**: Kangaroo (FR) | **lildaminii**: 2022 Birthday Cupcake Shoes |
-| 13:30 | **AlphaTaToxicv1047**: Unicorn Horn | **Rbd_JP**: 2022 Birthday Cupcake Shoes, Ride-A-Pet Potion |
-| 13:30 | **Txskiicatzz**: French Bulldog (MFR), Ride-A-Pet Potion | **you_no099**: Puffer Fish (M) |
-| 13:30 | **yanahaltacc1**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion, Mighty Haetyphoon Animated Sticker, Wailing Mr. Whiskerpips Sticker | **faikubjotch**: Werewolf (R) |
-| 13:30 | **4ngxl_4195**: Skelicorn (N), Granny Wolf (N) ×2, Halloween Black Mummy Cat (N), Pandaguin Glooptodog ×2, Jumpscare | **Viva_1234572**: Ride-A-Pet Potion |
-| 13:30 | **SanAndres404**: Cozy Mistletroll (M) | **xhvz_m**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion |
+| 13:41 | **batton0955**: Ride-A-Pet Potion | **Phoeb3_Chan**: Golden Dragon (R), Golden Griffin, King Penguin, Tan Chow-Chow, Lionfish |
+| 13:41 | **Tree092109**: Ride-A-Pet Potion | **The_BadPuppy1**: Panda |
+| 13:41 | **batton0955**: Ride-A-Pet Potion, Muskrat (M) | **Ebanko_rblx**: Leviathan |
+| 13:41 | **Katerryrka**: Ride-A-Pet Potion ×9 | **Tree092109**: Fly-A-Pet Potion ×5 |
+| 13:41 | **SoLost666**: Jousting Horse (NFR) | **recos0401**: Alley Cat (NFR) |
+| 13:41 | **hillpis88**: Pig (FR) | **xlux_latte**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion |
+| 13:41 | **Cosmo_syx**: Flamingo (R) | **kris10_snx**: Pig (R) ×2 |
+| 13:41 | **KatsuTatsuya**: Caelum Cervi (MFR), Giant Panda (FR), Arctic Reindeer (NFR), Fly-A-Pet Potion | **adoptmeplayerhi10**: Giraffe (FR) |
+| 13:41 | **Autumnisacutie123**: Balloon Unicorn (FR), Candicorn | **mamadmasa0111**: Parrot (FR) |
+| 13:41 | **denyhope**: Raccoon (M), Ginger Cat (M) | **xXElizabethPrecious**: Ride-A-Pet Potion ×5 |
+| 13:41 | **beatsvic**: Giraffe (FR) | **mamadmasa0111**: Arctic Reindeer (MFR) |
+| 13:41 | **Catzini_1**: Arctic Reindeer (MFR), Parrot (FR), Snow Owl (NFR), Shadow Dragon Ducky (NR), Fly-A-Pet Potion, Swan | **mamadmasa0111**: Shadow Dragon (FR) |
+| 13:41 | **Msmsmsmsjmsmsm8**: Bush Elephant (MFR) | **PolinkaValentinka007**: Cow (MFR) |
+| 13:41 | **catoqd**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×3, Three Blind Mice (N) | **Dolletteindollhouse**: Sushi Penguin (NFR) |
+| 13:41 | **marus12332128**: Munchkin Cat (MFR), Candicorn | **lololog741**: Cryptid (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
