@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 22:31 UTC by the scrape workflow._
+_Updated 2026-11-25 22:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 22:31 UTC by the scrape workflow._
 | amvgg | 15 | 43,938 | 2026-11-25T22:30 |
 | elve | 15 | 9,308 | 2026-11-25T22:31 |
 
-## AMVGG completed trades: 65,736 total
+## AMVGG completed trades: 65,784 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 4,037 |
+| 2026-11-25 | 4,085 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 22:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:30 | **Hiaddmebackpls9**: Sheeeeep (MFR) | **x_whips0**: Many Mackerel (MFR) |
-| 22:30 | **lolpopmomuse**: Crow (FR) | **scrpchc**: Hedgehog, Sugar Glider, Munchkin Cat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate |
-| 22:30 | **PugpunterZev**: Werewolf (NFR) | **Imabeehehe300**: Cabbit (R), Unicorn Horn |
-| 22:30 | **iiiPinkyBlossomx**: Panda | **Tree092109**: Ride-A-Pet Potion |
-| 22:30 | **maaaiaus**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5, Dragonfruit Fox, Unicorn (R), Lynx (FR), Count Slothula ×2 | **rafael32087**: Candicorn (R) |
-| 22:30 | **water_plankton**: Ride-A-Pet Potion | **stesh_q**:  |
-| 22:30 | **niceplayeruwu**: Ride-A-Pet Potion | **therealkayt67**: Hare Box |
-| 22:30 | **Queenayeshacutegirl**: Dragonfruit Fox (N) | **NotSweatyOnion**: Ride-A-Pet Potion ×9 |
-| 22:30 | **Yumi_Rose8**: Ride-A-Pet Potion | **lollipopleah7861**: Shadow Dragon Ducky (N) |
-| 22:30 | **coolguy192459**: Crow (NFR), Giant Panda (FR), Arctic Reindeer (FR), Fairy Bat Dragon (NFR), Kangaroo (MFR), Alley Cat (MFR), S'mores Raccoon (MFR), Pig (FR) ×2, Crocodile (FR), 2022 Birthday Confetti Cannon, Fly-A-Pet Potion, Ride-A-Pet Potion | **theseller63**: Bat Dragon (FR) |
-| 22:30 | **reserbadong2**: Owl (FR) | **Frs_88xx**: Strawberry Shortcake Bat Dragon (FR) ×2, Cabbit (FR), Fairy Bat Dragon (R), Skelicorn (MFR), Copycat, Dire Wolf (MFR) |
-| 22:30 | **mk1qez**: Dragonfruit Fox, Husky, Tortuga de la Isla, Lamb (R), Ram, Rose Dragon (FR), Fly-A-Pet Potion | **aloiv484**: Fallow Deer (NFR) |
-| 22:30 | **Machaddkkj**: Paint Sealer ×15 | **otonite7**: Ride-A-Pet Potion |
-| 22:30 | **tom2mcg**: Sheeeeep (MFR), Ballet Swan (MFR), Sugar Glider (R) | **iizzy_banne**: Cow (MFR) |
-| 22:30 | **mmhns2**: Huntsman Robin | **catoqd**: Retired Egg ×3 |
+| 22:41 | **mooyakko**: Happy Clam (MFR) | **jordanllover33**: Happy Clam (M) |
+| 22:41 | **zozo17181**: Glacier Moth | **Jelliyuew1**: Burning Bunny (N), Rice Cake Rabbit (N), Mecha R4BBIT (N) |
+| 22:41 | **joylia2091**: Caterpillar, Giant Anteater, Copycat (R), Copycat | **Julee_Lov**: Cabbit |
+| 22:41 | **G3t_jynxT8**: Ladybug (F), Pupcicle | **luja_2010**: Burger Boots |
+| 22:41 | **mitsuri_w5**: Burger Boots, Deinonychus | **G3t_jynxT8**: Ride-A-Pet Potion |
+| 22:41 | **coffemicha**: Groundhog ×4, Fly-A-Pet Potion ×3 | **zozo17181**: Cabbit (FR) |
+| 22:41 | **trade_toshadow02**: Groundhog (MR), Leviathan (R) | **zozo17181**: Strawberry Shortcake Bat Dragon (FR), Sugar Glider (FR) |
+| 22:41 | **MayMayMayGirl**: Red Dutch Guinea Pig (NR), Pink Betta Fish (M) | **sleepy_s0ren**: Groundhog (NR), Ride-A-Pet Potion |
+| 22:41 | **0tohero_rahul**: Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Blue Dog (NFR), German Shepherd (MFR), Latte Kitsune (MFR), Jester Dragon (NFR) | **Yakubiso**: Frost Dragon (FR) |
+| 22:41 | **aydachan200311**: Fly-A-Pet Potion ×9 | **Xxxxashhhh**: Pet Handler Pro Certificate ×9 |
+| 22:41 | **aydachan200311**: Ride-A-Pet Potion ×7 | **Xxxxashhhh**: Pet Handler Pro Certificate ×4 |
+| 22:41 | **earth2starnyy**: Ride-A-Pet Potion ×2 | **Xxxxashhhh**: Fly-A-Pet Potion |
+| 22:41 | **kayleighkittycat123**: Nature's Crown, Bunny Ear Tiara | **kamiwasredeemed**: 2022 Birthday 5 Badge |
+| 22:41 | **M4RC0S_R0SSI2**: Bat Dragon (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **icebaby545**: Dalmatian (FR) ×9 |
+| 22:41 | **Ray238z**: Clownfish | **stopdropandrole_3**: Retired Egg ×18 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
