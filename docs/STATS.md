@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 00:46 UTC by the scrape workflow._
+_Updated 2026-11-25 00:56 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 00:46 UTC by the scrape workflow._
 | amvgg | 15 | 23,468 | 2026-11-25T00:45 |
 | elve | 15 | 5,001 | 2026-11-25T00:46 |
 
-## AMVGG completed trades: 61,825 total
+## AMVGG completed trades: 61,850 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 126 |
+| 2026-11-25 | 151 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 00:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:45 | **arseniylolol**: Alicorn (R), Alicorn ×2, Ancient Dragon ×2, Diamond Unicorn, Diamond Griffin, Dracula Parrot, Golden Griffin ×2, Gemstone Egg, Three Blind Mice, Huntsman Robin ×2, Purrowl ×2, Stray Cat Dragon, Skelicorn | **capuchino_12121**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 00:45 | **Callebbuchila**: Strawberry Shortcake Bat Dragon (FR), Sea Turtle (MR), Cerberus (R) | **SebasMendesLoL**: Cow (NFR) |
-| 00:45 | **30x_vibingg**: Pet Handler Pro Certificate | **maddiegirl10121**: Fly-A-Pet Potion |
-| 00:45 | **tradingg_account**: Peppermint Penguin (FR), Fairy Bat Dragon (FR), Crocodile (R), Ice Cream Cone Hat, Walrus (MFR) | **iggle699**: Copycat (MFR) |
-| 00:45 | **lildaminii**: Arctic Fox (R) | **Exleer**: Ride-A-Pet Potion ×8 |
-| 00:45 | **Amazing_Amy78**: French Bulldog (N), Cuddly Candle (R) | **Angel_perez12345**: French Bulldog (NR) |
-| 00:45 | **jesus_yt299**: Christmas Spirit (NFR) | **Panci_Terbang33**: Ride-A-Pet Potion ×2 |
-| 00:45 | **TeezYeez**: Polar Bear | **Panci_Terbang33**: Ride-A-Pet Potion ×3 |
-| 00:45 | **FunnyAnaminegirl**: Crystal Egg ×15 | **Alaska_rdx**: Ride-A-Pet Potion |
-| 00:45 | **A1d3n_L1ve**: Count Slothula, Pet Handler Pro Certificate, Bison (M) | **Panci_Terbang33**: Ride-A-Pet Potion ×3 |
-| 00:45 | **sweet_bawls**: Kaijunior (N), Snorgle (N), Scarecrow Horse | **cherry_blast2**: Solar Burst Mega Neon Paint |
-| 00:45 | **NLin_126**: Sea Slug, Lion Cub (R), Jellyfish | **BBLDRIZZYYYYYY2**: Cabbit (R) |
-| 00:45 | **blvdpawzi**: Dragonfruit Fox (MFR), Ride-A-Pet Potion, Eaten Donut | **Thatscute18**: Ghost (MFR), Unicorn Horn, Tiny Wings, Spring Bunny Hood ×2, Spring Bunny Nose, Chocolate Chip Bat Dragon Backpack |
-| 00:45 | **vlados_krash**: Cow, Ride-A-Pet Potion | **cunlainy**: Albino Monkey (R), Munchkin Cat (FR), Matcha Cat |
-| 00:45 | **Aranpro10101**: Siamese Cat (MFR) | **Msmsmsmsjmsmsm8**: Irish Water Spaniel (MFR), Head Chef |
+| 00:56 | **maddiegirl10121**: Fly-A-Pet Potion | **Boo_kittykitty**: Ghost (M) |
+| 00:56 | **Reveknalt1**: Solar Burst Mega Neon Paint, Electric Tide Mega Neon Paint | **ajoloteflac1900**: Ride-A-Pet Potion |
+| 00:56 | **VON_200977**: Evil Unicorn (FR) | **M4RC0S_R0SSI2**: Turtle (FR) ×4 |
+| 00:56 | **2Freya222**: Tortoiseshell Guinea Pig | **2creme1sucre**: Rain Cloud Hat |
+| 00:56 | **wjredmind**: Candyfloss Chick (R), Cake Friend (N), Chihuahua | **LilacDrift_SoCool06**: Moonbeam Peacock, Ballet Swan, Dango Penguins, Moose Calf, Owlbear |
+| 00:56 | **1TZM3K4T**: Winged Tiger (FR), Christmas Pudding Pup, Dango Penguins, Owlbear | **Krvsvha**: Siamese Cat (FR) |
+| 00:51 | **maleel01**: Flamingo (FR) | **Krvsvha**: Candicorn (FR), Cotton Candy Hat, Tutu |
+| 00:51 | **G3t_jynxT8**: St Bernard ×4, Rainbow Trout, Bison, Ice Cube | **amvggbunni_won**: St Bernard (N) |
+| 00:51 | **N0TH1NG_toSSBD**: Oakee Knight (N), Red Panda (N), Caramelgeist (N), Parakeet (N), Clumpty (N), Pandaguin Glooptodog (N), Toucan ×3 | **Masonplays497**: Ride-A-Pet Potion |
+| 00:51 | **gaslightingamers**: Cryptid (MFR), Naughty Mistletroll (MFR) | **Imaxingsx**: Bat Dragon (FR) |
+| 00:51 | **goofy_bro20**: African Wild Dog, Rainbow Maker ×2 | **XxkfirxbushxX**: Nessie (MFR), Giant Anteater (MFR), Goose |
+| 00:51 | **Hellmobama**: Royal Fairytale Egg ×5 | **skymartinsky**: Ride-A-Pet Potion |
+| 00:51 | **iiLilPumpkin**: Hyena (R) | **Panci_Terbang33**: Pet Handler Pro Certificate ×2 |
+| 00:51 | **TuffTuffTuff_Sahur67**: Ride-A-Pet Potion ×5, Happy Duckling (N) | **zephyrgoatt**: Sheeeeep |
+| 00:51 | **likedyour3**: Chihuahua ×3 | **pennychan2010**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
