@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 18:16 UTC by the scrape workflow._
+_Updated 2026-11-25 18:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 18:16 UTC by the scrape workflow._
 | amvgg | 15 | 39,640 | 2026-11-25T18:15 |
 | elve | 15 | 8,466 | 2026-11-25T18:15 |
 
-## AMVGG completed trades: 64,733 total
+## AMVGG completed trades: 64,762 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,034 |
+| 2026-11-25 | 3,063 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 18:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:15 | **Cute_CocoMouse**: Turtle (R), Leopard Cat (MR), Copycat (R), Pancake Stack, Husky, Jeff's Nametag | **lol_whateverx67hsk81**: Lion (NFR) |
-| 18:15 | **MICROCELE6BRITY**: Crow (FR), Fly-A-Pet Potion ×3 | **Esteban_robloxiano0**: Siamese Cat (MFR), Turtle (FR) |
-| 18:15 | **cwutesy_1ai**: Candicorn (MFR), Snow Monkey (MFR), Pet Handler Pro Certificate | **cutesyghali**: Emperor Gorilla (MFR) |
-| 18:15 | **Msmsmsmsjmsmsm8**: Sheeeeep (MFR), Fallow Deer (MFR), Tree Kangaroo (MFR), Golden Hamster (MFR) | **cutesyghali**: Fairy Bat Dragon (MFR) |
-| 18:15 | **milanaxapi**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Influencer Gibbon (M), Chocolate Dutch Guinea Pig (MR), Bush Elephant (F), Candicorn, Pupcake (MFR), Pig (R), Copycat, Ermine (MR), Jester Dragon, Dango Penguins ×2, Flower Power Duckling (NR), Amami Rabbit (N), Fly-A-Pet Potion ×2, Haetyphoon | **i6so1**: Frost Dragon (FR) |
-| 18:15 | **sar1ahkn1ght**: Siamese Cat (R), Strawberry Shortcake Bat Dragon (FR) | **Lpoopbxhe**: Goose (NFR) |
-| 18:15 | **Itz_c4in**: Tortuga de la Isla (MFR) | **gag_gaag**: Chocolate Chip Bat Dragon (FR), Cow (FR), Catte (N) |
-| 18:15 | **Bluberry040**: Kangaroo (FR) ×2 | **Darmay_y**: Goose (FR), Fly-A-Pet Potion |
-| 18:15 | **Ilovedarya35**: Silly Duck (FR), Copycat | **NastiGora**: Fly-A-Pet Potion ×3 |
-| 18:15 | **Sona_tnm**: Ride-A-Pet Potion | **Hotaruqxs**: Bunny Swirl |
-| 18:15 | **Ella116Gisela**: Goose (MFR), Strawberry Shortcake Bat Dragon (FR), Tiny Wings | **Trqshtalk**: Alpaca (MFR) |
-| 18:15 | **blu3berr1z_areBlu3**: Red Dutch Guinea Pig, Banana Hat | **savhrtlocket**: Groundhog |
-| 18:15 | **ekaryfaaa**: Shark Puppy (NFR), Goat | **qlltm**: Sugar Glider (FR), Albino Monkey (FR), Evil Chick (NFR), Rosy Maple Moth (N) |
-| 18:15 | **Nastya_367367**: Retired Egg ×10 | **maria_kittylover123**: Dimension Drifter |
-| 18:15 | **UvU_gg6**: Clover Cow (MFR), 2D Doggy | **Krashiha_Karolina26**: Arctic Fox (R) |
+| 18:25 | **Panci_Terbang33**: Fly-A-Pet Potion ×3 | **shotvzn**: Haetyphoon |
+| 18:25 | **Bebro_boyge**: Sheeeeep (MFR) | **ChubbyyBunniii**: Mini Pig (NFR) |
+| 18:25 | **baophuonghan**: Alley Cat, Flaming Fox ×2, Harp Seal, Cheetah (R), Pig (FR), Caelum Cervi (R), Zombie Wolf | **aloiv484**: Sugar Glider (FR) |
+| 18:25 | **gkruger3**: Candicorn, Fly-A-Pet Potion | **blakesfge**: Jester Dragon (NFR) |
+| 18:25 | **shelinase**: Fly-A-Pet Potion, Banana Hat | **xdParad1se**: Respectful Mustache, Bat Wings, Bat Backpack, Halloween White Skull Hat, Black Hightops |
+| 18:25 | **giacly**: Yule Log Dog (MFR), Rain Cloud Hat | **Ad0ptm3_g1ve**: Toy Poodle (MR), Pomeranian (MFR), Badger (MFR), Clementine Owl (MR), Monkey (MFR), King Penguin (MR), Muskrat (MR), Snowman (MR), Corgi (MR), Flower Power Duckling (MR), Clownfish (MR) |
+| 18:25 | **AJR_ERR0R**: Pain au Chat (MFR), Fly-A-Pet Potion | **nly4sh**: Count Slothula (M) |
+| 18:25 | **OleksandrTheDev**: Crocodile (FR) | **LunaLuve_Good**: Winged Tiger (FR) |
+| 18:25 | **guchi_puchi95**: Copycat (R) ×2, Copycat, Polar Bear (FR), Ride-A-Pet Potion ×2, Great Pyrenees (NFR) | **ZockerCelina_20**: Turtle (FR) |
+| 18:25 | **CrimsonSummit1483**: Crystal Egg ×17 | **sweetlittlegf**: Ride-A-Pet Potion |
+| 18:25 | **heaartipods**: Cherry-On-Top, Snowball Pet (MFR), Black Macaque (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **itz_ckaM1441**: Rainbow Maker |
+| 18:25 | **diiv_iine**: Werewolf (R), Slimingo (NR) | **Coralmnm**: Siamese Cat |
+| 18:25 | **euprism**: Moonbeam Peacock (R), Lava Dragon (FR) | **rb_feel**: Seabed Creeper (M), Ride-A-Pet Potion, Patchy Bear (M) |
+| 18:25 | **GrindAccount_N1**: Floating Hand Stroller, Leopard Cat (N), Ostrich (N), Zombie Wolf, Koi Carp (N) | **Thaly_vz**: Ice Cream Cone Hat |
+| 18:25 | **ashe_2006**: Crystal Egg ×15 | **BINKY5085**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
