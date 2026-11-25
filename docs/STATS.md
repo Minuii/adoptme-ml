@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 08:11 UTC by the scrape workflow._
+_Updated 2026-11-25 08:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 08:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 30,083 | 2026-11-25T08:00 |
-| elve | 15 | 6,393 | 2026-11-25T08:01 |
+| amvgg | 15 | 30,320 | 2026-11-25T08:15 |
+| elve | 15 | 6,405 | 2026-11-25T08:15 |
 
-## AMVGG completed trades: 62,722 total
+## AMVGG completed trades: 62,747 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,023 |
+| 2026-11-25 | 1,048 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 08:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:11 | **Nastya_Mihalyk**: Cow, Flamingo, Crocodile, Pig, Turtle (FR), Turtle (R), Pig (NFR), Moose Calf (NR) | **leruval**: Crow (FR) |
-| 08:11 | **lnH3II**: Phantom Dragon (FR), Ride-A-Pet Potion ×2, Pain au Chat | **illumisluxurioushair**: Pig |
-| 08:11 | **mommy_oni0623**: Cow (R), Ride-A-Pet Potion | **AwPloPlo**: Kangaroo (FR), Albino Monkey (FR) |
-| 08:11 | **IIuvbr**: Angus Cow (N), Bandicoot (N), Jiggly Jerboa (M), Liger (N), Japanese Snow Fairy (M) | **MILANArynu1**: Fly-A-Pet Potion |
-| 08:11 | **Weepy_Ray**: Glormy Hound (MFR) | **forg_297**: Moon Rabbit (MFR), Pet Handler Pro Certificate, Golden Lettuce ×2, Rain Cloud Hat, Sakura Spirit (FR) |
-| 08:11 | **flower_1851**: Strawberry Shortcake Bat Dragon (FR), Siamese Cat (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Tanya_tot**: Dalmatian (FR) |
-| 08:11 | **Shailyn09**: Tea Party Set | **lkmsdfw**: Fly-A-Pet Potion ×2 |
-| 08:11 | **queenmaya773**: White Amazon (MFR) | **franzaine**: Elephant (R) |
-| 08:11 | **tahliaa56**: Cryptid (FR) | **NathanPlayz83**: Cow (FR), Shark Puppy (NFR), Tortuga de la Isla, Ride-A-Pet Potion |
-| 08:06 | **Inganta07**: Fly-A-Pet Potion ×2 | **emsstradingg**: Jester Dragon |
-| 08:06 | **SUAA_MYLOVE**: Lion (R), Ride-A-Pet Potion ×4, Sushi Penguin | **Cutewaeilae**: Kangaroo (R) |
-| 08:06 | **yuumiuro**: Unicorn (R) | **afissamuzfirah**: Fly-A-Pet Potion |
-| 08:06 | **Itz_Labyrinth**: Donut Stroller, Double Stroller, Froggy Stroller, Witch's Caravan, Security Spotlight, Puppeteer Hand | **josuebogarr**: Ride-A-Pet Potion |
-| 08:06 | **Catzini_1**: Strawberry Shortcake Bat Dragon (MFR), Parrot (NFR) | **Lpoopbxhe**: Cryptid (MFR) |
-| 08:06 | **Leafiieee**: Bee (NFR) | **MISCHANYA1890**: Ride-A-Pet Potion |
+| 08:15 | **Leafiieee**: Cherub Chipmunk (NR), Ghost Wolf (R), Bunny (R) | **hi30o10**: Ride-A-Pet Potion |
+| 08:15 | **N0tt_Mada3**: Black Chow-Chow | **yoshi_shrine**: Rose Quartz Glow Mega Neon Paint |
+| 08:15 | **df_144638**: Crow (FR), African Wild Dog (FR) | **pedrobeteir0**: Frost Dragon (FR) |
+| 08:15 | **blushiibuns**: Skelicorn | **DreamNightStar2**: Paint Sealer |
+| 08:15 | **Angelsss_81**: Ride-A-Pet Potion | **iiiistyloneiiii**: Maine Coon (N) |
+| 08:15 | **Leafiieee**: Narwhal (R), Ocelot (NR), Ant (NR) | **l_ewes**: Ride-A-Pet Potion |
+| 08:15 | **mila_milk1710**: Fairytale Egg ×2 | **ILOVE_ELINA5**: Paint Sealer |
+| 08:15 | **bg_waa**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion, Pet Handler Pro Certificate ×3 | **lofi_samuraii**: Arctic Reindeer (FR) |
+| 08:15 | **millka11111111**: Onza (R), Red Fox (N), Ms. Muffet (N) | **i111kwm**: Ride-A-Pet Potion |
+| 08:15 | **mateofelisunu**: Dalmatian (F) | **NathanPlayz83**: Cryptid (FR) |
+| 08:15 | **vvamppuppy**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR), Goose (FR) | **goku233289**: Frost Dragon (FR) |
+| 08:15 | **Coralmnm**: Ride-A-Pet Potion ×3 | **loiol1004**: Ibex (N), Ibex ×3, Clownfish, Toasty Red Panda ×2, Wooly Rhino, Wren ×2 |
+| 08:15 | **DefinitelyNotCha6**: Sock Chew Toy, Heart Balloon, Elf Plush, Cookie Dough Plush ×3, Candle ×2, Banana Plush, Turkey Plush, Santa Rattle, Dragon Balloon, Sleigh Bells Rattle ×3, Kangaroo Pogo ×3 | **Mr_iziponik**: Fly-A-Pet Potion |
+| 08:15 | **0ali_ice0**: Puptune (NR) | **typol1235y6**: Lunar White Tiger (NFR) |
+| 08:15 | **TwizzyCrafty**: Crystal Egg ×18 | **gggpppgggppp1**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
