@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 22:16 UTC by the scrape workflow._
+_Updated 2026-11-25 22:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 22:16 UTC by the scrape workflow._
 | amvgg | 15 | 43,702 | 2026-11-25T22:15 |
 | elve | 15 | 9,269 | 2026-11-25T22:15 |
 
-## AMVGG completed trades: 65,699 total
+## AMVGG completed trades: 65,716 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 4,000 |
+| 2026-11-25 | 4,017 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 22:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:15 | **AL0HALILYY**: Hedgehog (FR), Ride-A-Pet Potion ×4 | **cocowiol**: Blazing Lion (FR) |
-| 22:15 | **Not_mymain930**: Ride-A-Pet Potion ×2, Pet Handler Pro Certificate | **shenshenzzz14**: Dilophosaurus (MR) |
-| 22:15 | **xx_xxbummrr**: Mecha Meow (MFR), Spring Bunny Hood ×2 | **gato12345129**: 2022 Birthday Cake |
-| 22:15 | **jacksbandalt8**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **trendypopcon**: Arctic Fox, Frost Dragon (FR) |
-| 22:15 | **daanz2**: Great Pyrenees (MFR), Admin Abuse Box ×8, Admin Abuse Egg ×5 | **Emanuel_funao**: Chihuahua (MFR), Spring Bunny Feet, Fly-A-Pet Potion |
-| 22:15 | **haleelixer**: Jester Dragon, Dragonfruit Fox | **jfdeitdtf**: Copycat (FR) |
-| 22:15 | **Obv1emxxvv**: Bat Dragon (FR), Hedgehog (MFR) | **Mitribuyyo**: African Wild Dog (MFR), Ring-Tailed Lemur (MFR), Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 22:15 | **makaka_girls0**: Sushi Penguin | **dahoody2k3**: Ride-A-Pet Potion |
-| 22:15 | **xmarlarx**: Ride-A-Pet Potion ×7, Bat (F) | **Tree092109**: Fly-A-Pet Potion ×4 |
-| 22:15 | **LotusEr11**: Retired Egg ×4 | **Nyhxiaaa**: Christmas Pudding House |
-| 22:15 | **YourBirthdayCharm**: Southeast Asia Egg | **Ilikemycat201**: Catte |
-| 22:15 | **YourBirthdayCharm**: Southeast Asia Egg | **Ilikemycat201**: Pupcicle |
-| 22:15 | **Cutepatate088**: Bat Dragon (FR), Owl (FR) ×3, Owl (R), Halo | **VintageMaxx**: African Wild Dog (MFR) |
-| 22:15 | **lmgettingtired0fthis**: Bat Dragon (NFR), Shadow Dragon (NFR), Cryptid (MFR), Owl (NFR), Parrot (NFR), Giraffe (NFR), Frost Fury (NFR) | **BlizzardvwQuantumO13**: Bat Dragon (MFR) |
-| 22:15 | **ghostdiscos**: Alley Cat (MFR), Corn Doggo (MR), Goat (NFR) | **tom2mcg**: Sheeeeep (MFR) |
+| 22:20 | **DaniDeyanara456**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **Genesi3wgf**: Matcha Cat |
+| 22:20 | **xGracie_1234x**: Goat, Field Mouse, Munchkin Cat, Ride-A-Pet Potion, Snow Leopard (M) | **S0farbXx**: Alpaca |
+| 22:20 | **v43xj**: Christmas Pudding House | **1tz_Miki**: Mexican Wolf (N), Mexican Wolf ×3 |
+| 22:20 | **flytomars67**: Mirai Moth (MR), Ride-A-Pet Potion ×2 | **needyultragirl3**: Mr. Whiskerpips (M), DJ Snooze (M), Mirai Moth |
+| 22:20 | **fenixprocrack3**: Kangaroo (FR), Lion (FR), Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Golden Lettuce, Tan Chow-Chow (MFR) | **yk_xlea**: Llama (MFR) |
+| 22:20 | **Ashlet_TWT**: Cryptid (MFR), Jester Dragon (NFR), Pig | **BatDra0gon**: Bat Dragon (FR) |
+| 22:20 | **Kyza_222222223**: Ride-A-Pet Potion | **CrimsonSummit1483**: Crystal Egg ×18 |
+| 22:20 | **itspponcaci**: Feesh ×2, Cake Friend ×2, Castle Hermit Crab ×2 | **1lyybow**: Cake Friend (N) |
+| 22:20 | **lubachaka228**: Spring Bunny Feet | **eledaxo**: Husky |
+| 22:20 | **yummiixq**: Werewolf (FR), Ride-A-Pet Potion | **Awlivia0**: Siamese Cat |
+| 22:20 | **Spwrinklebun**: Toy Poodle (MFR), Amami Rabbit (MFR), Samoyed (M) | **Awlivia0**: Sushi Penguin (M) |
+| 22:20 | **MICROCELE6BRITY**: 2022 Birthday Party Hat | **soapybunnie_0**: Zombie Wolf (MFR) |
+| 22:20 | **Vanitas_Death**: Pancake Stack ×2, Ocean Egg, Tan Chow-Chow (N) | **o8ayn**: Ice Cream Cone Hat |
+| 22:20 | **OffisalUwU**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×4 | **Sofi_sp117**: Flamingo (FR) |
+| 22:20 | **picucurt123456**: Dango Penguins | **baconboykindly**: Reindeer (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
