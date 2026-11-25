@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 04:55 UTC by the scrape workflow._
+_Updated 2026-11-25 05:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 04:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 27,141 | 2026-11-25T04:45 |
-| elve | 15 | 5,826 | 2026-11-25T04:46 |
+| amvgg | 15 | 27,378 | 2026-11-25T05:00 |
+| elve | 15 | 5,872 | 2026-11-25T05:01 |
 
-## AMVGG completed trades: 62,350 total
+## AMVGG completed trades: 62,360 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 651 |
+| 2026-11-25 | 661 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 04:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:00 | **FlyToTheSaturn**: Kitsune, Snow Owl (R), Dylan, Hermit Crab (N), Halloween Black Mummy Cat ×3 | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 05:00 | **Stxriiko**: Fairy Bat Dragon (FR) ×4, Fairy Bat Dragon (R), Red Sand Dollar (MFR), Kangaroo (R), Ranger Beaver (MFR), Christmas Pudding Pup ×3, Siamese Cat (R), Mini Pig (R), Christmas Pudding Pup Bait | **leruval**: Frost Dragon (FR) |
+| 05:00 | **1uvbun1029**: Siamese Cat, Cattuccino (N), Pandaguin Glooptodog (N) ×2 | **Wasnt_ever17**: German Shepherd (MFR) |
+| 05:00 | **TwistedK1tty**: Fly-A-Pet Potion ×17 | **WHOISY4NAA**: Cow (FR) |
+| 05:00 | **lydiabunii**: Matcha Cat (MFR) | **henry122450**: Balloon Unicorn (FR) |
+| 05:00 | **fluffy_hair5**: Undead Jousting Horse (FR) ×2, Copycat ×2, Glacier Moth, Ballet Swan (N), Chihuahua (M), Cake Friend (MR), Pain au Chat (MFR), Hippo (MR), General Sheepdog (M), Narwhal (MR), Canadian Goose (M), Ice Cream Cone Hat, S'mores Raccoon (MR), Fly-A-Pet Potion, Cattuccino (MR), Werewolf (R) | **leruval**: Owl (FR) |
+| 05:00 | **Inganta07**: Fly-A-Pet Potion | **manuaxolotyorignl**: Corn Doggo |
+| 05:00 | **Lheonna5**: Dodo (NR), Pupcicle, Fly-A-Pet Potion, Kitty Biscuit | **diorrqts**: Pupcake (MR) |
+| 05:00 | **PrincessSweetness111**: Cupid Dragon (MFR), Latte Kitsune (MFR) ×2, 2D Doggy (MFR), Blue Ringed Octopus (MFR), Apple Owl (M) | **angela_umerez4**: Frost Unicorn (MFR) |
+| 05:00 | **LadyJ11111**: Copycat (MFR) | **P1PS1E**: Glormy Leo (MFR) |
 | 04:55 | **sickndt**: Crow (FR), Pig (R), Papa Moose | **STHJOSE00**: Parrot (FR) |
 | 04:55 | **4evxer**: Strawberry Shortcake Bat Dragon (NFR) | **CookieGothic**: Crocodile (NFR), Caterpillar (NFR), Elephant (NFR) |
 | 04:55 | **iuvzjules**: Ride-A-Pet Potion, Happy Duckling, Koi Carp | **Cubito_Games**: Skeleton Winged Glider |
 | 04:55 | **kathlike82210**: African Wild Dog (NFR), Haetae (NR), Cabbit (MFR), Munchkin Cat | **nerdoitdabest**: Strawberry Shortcake Bat Dragon (MFR), Giraffe (NFR) |
 | 04:55 | **rainbowgirl10821**: Toaster Hat, Peppermint Penguin (FR), Unicorn Horn | **oc6eanblvd**: Rainbow Maker |
-| 04:55 | **jhgfghjkjytfcv**: Ride-A-Pet Potion | **HelloNoDm**: Frosty Glow Mega Neon Paint |
-| 04:55 | **Zombie_8803**: Jekyll Hydra Animated Sticker | **emoboiilestatxx**: Fly-A-Pet Potion ×2 |
-| 04:55 | **owlsaremylife1234567**: Jellyfish (NFR) | **Luc4r14141**: Cow (FR) |
-| 04:45 | **1994_Speed**: Admin Abuse Egg ×10, Admin Abuse Box ×4, Thunderfisher, Triple Stroller | **Nevaeh_ina**: Unicorn |
-| 04:45 | **NeonGamerStar20**: Chocolate Chip Bat Dragon (NFR) | **CookieGothic**: Cabbit (NFR), Alpaca (NFR) |
-| 04:45 | **epicpulsechaos2024**: Dragonfly ×11 | **adoppme42**: Ride-A-Pet Potion |
-| 04:45 | **Addmymainpls2332**: Dango Penguins (MFR), Spring Bunny Hood, Ride-A-Pet Potion ×2 | **adoptmejourney83**: Cow ×2 |
-| 04:45 | **MinnieLadyYT**: Chihuahua (N) | **VickyLynatica2001**: Ride-A-Pet Potion |
-| 04:45 | **waterfalling5**: Dragonfruit Fox (MFR), Harp Seal (MFR), Pupcake (MFR), Happy Duckling (MFR), Pupcicle (N), Pancake Stack | **Kaylamadetorock**: Christmas Pudding Pup (MFR) |
-| 04:45 | **Ji_rie**: Arctic Fox (R), Goat (R), Pink Cat (R), Pig, Meerkat (R), Frostbite Bear (FR), Werewolf (R), Robin (MFR) | **faikubjotch**: Strawberry Shortcake Bat Dragon (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
