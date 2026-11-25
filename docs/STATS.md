@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 03:40 UTC by the scrape workflow._
+_Updated 2026-11-25 03:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 03:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 26,038 | 2026-11-25T03:30 |
-| elve | 15 | 5,582 | 2026-11-25T03:31 |
+| amvgg | 15 | 26,234 | 2026-11-25T03:45 |
+| elve | 15 | 5,644 | 2026-11-25T03:46 |
 
-## AMVGG completed trades: 62,184 total
+## AMVGG completed trades: 62,187 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 485 |
+| 2026-11-25 | 488 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,9 @@ _Updated 2026-11-25 03:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:45 | **FufuFluffyFlowi**: Ride-A-Pet Potion ×2 | **sxmplycutecorex**: Great Pyrenees, Castle Hermit Crab, Highland Cow, Halloween White Skeleton Dog, Praying Mantis |
+| 03:45 | **clalouetciedh**: Pain au Chat ×4 | **FufuFluffyFlowi**: Chocolate Dutch Guinea Pig |
+| 03:45 | **wsggits_ash**: Jester Dragon, Flower Power Duckling ×5 | **Dodgemyhooks**: Pupcicle ×10 |
 | 03:40 | **ExclusivelyRarity**: Highland Cow (M), Ghost Dog (NR) | **Abrahamspideymickey**: Toaster Hat, Chihuahua |
 | 03:40 | **NathanPlayz83**: Crow (FR), Cow (FR) | **Cinzsins**: Velocirooster (MFR), Polar Bear (MFR), Chocolate Dutch Guinea Pig (MFR) |
 | 03:40 | **Panci_Terbang33**: Ginger Cat ×18 | **Depondip**: Ride-A-Pet Potion |
@@ -51,9 +54,6 @@ _Updated 2026-11-25 03:40 UTC by the scrape workflow._
 | 03:40 | **roplex123480**: Turtle, Kangaroo (FR) ×2, Frost Fury (FR), Aussie Egg | **ii_aldrin20**: Chocolate Chip Bat Dragon (FR) |
 | 03:36 | **lolayummy444**: Hot Doggo (NFR) | **mikepower240508**: Winged Tiger (NFR), Cherry-On-Top, Copycat (NR) |
 | 03:36 | **azxpredxtorn**: Ballet Swan ×2, Moose Calf, Latte Kitsune, Unicorn (NFR) | **Tammieloveyt**: Candicorn (FR) |
-| 03:36 | **JuJuisdecent3742**: Chihuahua (N) | **AleinaSaGa**: Fly-A-Pet Potion |
-| 03:36 | **Tates1ush**: Glacier Moth (MFR) | **hiimsolucky123**: Mini Pig (FR), Leviathan (MFR), Ring-Tailed Lemur |
-| 03:36 | **loiol1004**: Ancient Dragon (N) ×3, Ancient Dragon ×2, Billy Goat | **MEGAWARRIOR254**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
