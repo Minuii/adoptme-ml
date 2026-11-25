@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 02:16 UTC by the scrape workflow._
+_Updated 2026-11-25 02:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 02:16 UTC by the scrape workflow._
 | amvgg | 15 | 24,880 | 2026-11-25T02:15 |
 | elve | 15 | 5,316 | 2026-11-25T02:15 |
 
-## AMVGG completed trades: 62,001 total
+## AMVGG completed trades: 62,037 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 302 |
+| 2026-11-25 | 338 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 02:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:11 | **HELL0J0SEPH**: Spring Bunny Hood, Ice Cream Cone Hat ×2, Fly-A-Pet Potion | **sxmplycutecorex**: Unicorn Horn |
-| 02:11 | **VON_200977**: Turtle (FR) | **2creme1sucre**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×7 |
-| 02:11 | **sshanao_o**: Unicorn (M), Chocolate Dutch Guinea Pig (M), Tree Kangaroo (NFR) | **Thatscute18**: Dragonfruit Fox (MFR) |
-| 02:11 | **soisomin**: Cow (FR), Dragonfruit Fox | **dumdadadat0p**: Goose (FR) |
-| 02:11 | **Hi_IamLinet**: Crystal Egg ×14 | **Janewillnever**: Ride-A-Pet Potion |
-| 02:11 | **Adopacount**: Strawberry Shortcake Bat Dragon (NFR) ×4, Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) ×12, Parrot (FR) | **MrToy40**: Balloon Unicorn (MFR) |
-| 02:11 | **SwampMonster15**: Bush Elephant (MFR) | **mournrasoir**: Cryptid (NFR) |
-| 02:11 | **lona262**: Hedgehog (FR), Fairy Bat Dragon (NFR), Pet Handler Pro Certificate, Ketchup and Mustard Jetpack | **Antonnyalexander2009**: Caterpillar (MFR) |
-| 02:11 | **Papitascongaseosa_xD**: Unicorn | **miyuki0_5**: Ride-A-Pet Potion |
-| 02:11 | **Machaddkkj**: Chocolate Chip Bat Dragon Backpack, Wizard Caravan, RGB Monster Truck, Stygian Hang Glider, Triple Stroller, Wheelbarrow Stroller | **Z0mb1e_R1ot**: Fly-A-Pet Potion |
-| 02:00 | **Softbunnyluvzmami**: Ghostly Cat (M) | **7H3ST**: Pain au Chat ×6 |
-| 02:00 | **zoes_altaccount12**: Frankenfeline (M) | **cruxiczz**: Ride-A-Pet Potion |
-| 02:00 | **LaraIphone16e**: Christmas Pudding House, Gingerbread Reindeer | **FEDEWOPER**: Toy Poodle (N) |
-| 02:00 | **St_locki1**: Ride-A-Pet Potion ×5, Rainbow Stroller | **deandrapisang**: Fly-A-Pet Potion ×3 |
-| 02:00 | **ll2Sc**: Tortuga de la Isla (MFR) | **Memes_forthesoulalt**: Puffin (MFR) |
+| 02:25 | **samesame1279**: Sugar Axolotl (NFR) | **imthebigbird97**: Kangaroo (NFR) |
+| 02:25 | **FlyToTheSaturn**: Modern Mansion | **Sofyasha_Rbx523**: Ride-A-Pet Potion |
+| 02:25 | **cyptiaI**: White Chef Hat | **gthstnr**: Unfortunate Eyelashes |
+| 02:25 | **Edgar_vega0**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **MegaPoslaTV**: Ermine (MFR) |
+| 02:25 | **Baldyellowwoman**: Ride-A-Pet Potion | **PiesekTubson**: Easter Bunny Plush, Cattuccino |
+| 02:25 | **d4rlingjazzy**: Strawberry Tortle, Mummy Spider (M) | **Baldyellowwoman**: Black Springer Spaniel (N), Brown Springer Spaniel (N), Candy Cane Snail (N), Ghostly Cat (N), Nautilus (N), Orange Butterfly (N), Tuxedo Cat (N), English Sheepdog (NR), Toasty Red Panda (N) |
+| 02:25 | **NIKA647374**: Arctic Reindeer (NFR), Dango Penguins | **gamingwithmat5**: Strawberry Shortcake Bat Dragon (NFR) |
+| 02:25 | **Baldyellowwoman**: Strawberry Tortle (R) | **By_millsjos**: Strawberry Tortle |
+| 02:25 | **delightedbagel**: Haetae (FR), Goose (FR) | **RamonaTolete**: Arctic Reindeer (NFR) |
+| 02:25 | **Culimundimulo**: Turtle (FR), Albino Monkey (R) | **Artem_milkSG**: Cow (R), Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
+| 02:25 | **abdoosaad**: Cow (FR) | **St0rm_Sniper89**: Wolf (MFR), Purrowl (MFR), Cute-A-Cabra (MFR), Alicorn (MFR), Praying Mantis (MFR), Christmas Spirit (MR), Orca (M) |
+| 02:25 | **Hiaddmebackpls9**: Burger Bear (MFR), Feesh (N), Hummingbird (N), Cattuccino ×9 | **isabella68078**: Peach Owl (MFR) |
+| 02:25 | **axltzz0**: Rainbow Maker, Strawberry Shortcake Bat Dragon (FR), Unicorn Horn | **kittyarchivies**: Strawberry Shortcake Bat Dragon (NFR) |
+| 02:25 | **donnotinteract**: Groundhog (NFR), Tree Kangaroo (MFR), Unicorn Horn, Toaster Hat | **isabella68078**: Groundhog (MFR) |
+| 02:20 | **AofBog444**: Crow (NFR) | **kolaandpepsi7**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (NFR), Jester Dragon (NFR), Copycat (N) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
