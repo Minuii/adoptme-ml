@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 14:31 UTC by the scrape workflow._
+_Updated 2026-11-25 14:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 14:31 UTC by the scrape workflow._
 | amvgg | 15 | 35,945 | 2026-11-25T14:30 |
 | elve | 15 | 7,632 | 2026-11-25T14:31 |
 
-## AMVGG completed trades: 63,718 total
+## AMVGG completed trades: 63,750 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 2,019 |
+| 2026-11-25 | 2,051 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 14:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:30 | **qwersonyarso**: Elephant (MFR) | **LovelyGirl23033**: Chocolate Chip Bat Dragon (NFR) |
-| 14:30 | **unicornsun_BD2**: Chocolate Dutch Guinea Pig (N), Catte (N), Bready Necklace | **LovelyGirl23033**: Shark Puppy (FR) |
-| 14:30 | **Its_besty0**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6, Pet Handler Pro Certificate ×2 | **XxBxd_TomboyxX**: Lion (R) |
-| 14:30 | **ayeeeAva**: Castle Hermit Crab (MFR), Peach Owl (R), Alicorn, Orca, Sea Angel, Gemstone Egg | **liva_62**: Squid (MFR) |
-| 14:30 | **xxNegarr**: Fairy Bat Dragon (R), Turtle (FR), Werewolf, White Amazon (MFR), Queen Bee (NFR), Capybara (NR), Pink Cat (R), Bald Eagle, Velocirooster, Irish Water Spaniel (FR), Guardian Lion (NFR), Waffle Wyrm (MR), Munchkin Cat, Turkey, Silly Duck (R), Cerberus (FR), Crab (MR) | **leruval**: Crow (FR) |
-| 14:30 | **arqvve1**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **lIIIllIllllIIIIIIII**: Frost Fury (FR) ×2 |
-| 14:30 | **2Freya222**: Strawberry Shortcake Bat Dragon (FR), Angel Wings | **FlushedEgg**: Fallow Deer (MFR), Unicorn Horn, Ride-A-Pet Potion |
-| 14:30 | **Ksy1432**: Witch's Caravan | **gg986gg**: Fairytale Egg ×5 |
-| 14:30 | **LoriDreamy123**: Hot Doggo, Goose (R) ×2, Peppermint Penguin (FR), Peppermint Penguin (R) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **itz_Ema1745**: Owl (FR) |
-| 14:30 | **BUS5ED**: Popsicle Stroller | **werreriss0**: Deinonychus (F) |
-| 14:30 | **Da_Datao**: Kookaburra (FR), Kookaburra (R), Elf Hat, Hawk | **Yupiterd**: Puffin (FR) |
-| 14:30 | **avervuu**: Owl (FR) | **itsjosi_RobloxXX**: Cryptid (FR) ×2 |
-| 14:30 | **itsjosi_RobloxXX**: Ride-A-Pet Potion ×4, Kraken | **anjelitodelcielopet**: Arctic Dusk Dragon |
-| 14:30 | **akhikic**: Crow (NFR), Pig (FR) | **matiasclavereria**: Hedgehog (FR), Hedgehog (R) ×2 |
-| 14:30 | **Skiaksn**: Elf Hat | **Angels_201071**: Pet Handler Pro Certificate |
+| 14:40 | **15xAuroa**: Elephant | **bniicake**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 |
+| 14:40 | **tupitupituta1**: Tiny Wings, Skeleton Winged Glider, White Chef Hat | **pmpjmg1**: 2022 Birthday Party Horn |
+| 14:40 | **Itzz_Leonie453**: Frostbite Bear and Cub Animated Sticker | **Laktozik1**: Bat Dragon Sticker |
+| 14:40 | **urstrulykaar1**: Strawberry Shortcake Bat Dragon (NFR) ×2, Cow (NFR) ×2, Cow (FR), Spring Bunny Hood | **KanskjeMatilde**: African Wild Dog (FR), Crow (NFR) |
+| 14:40 | **notreal_angelazz**: Ride-A-Pet Potion | **ilove_milkywayss**: Crystal Egg ×17 |
+| 14:40 | **xGracie_1234x**: Tiny Wings, Shark Puppy | **XxDark_RiftxX32**: Unicorn Horn, Retired Egg ×8 |
+| 14:40 | **1MZ03Y**: Kangaroo (FR) ×2 | **AwPloPlo**: Cow (FR) |
+| 14:40 | **P3RPLEONYT**: Rainbow Maker, Halo | **amvggtrades81**: Cryptid (FR) |
+| 14:40 | **JuJuisdecent3742**: Catte (N) | **nyasabi**: Pancake Stack |
+| 14:40 | **DeichHD**: Pupcicle (N), Pet Handler Pro Certificate ×2, Golden Lettuce, Icey Aura | **fundogball**: Moonbeam Peacock |
+| 14:40 | **NotSweatyOnion**: Pain au Chat ×7 | **noor_san0**: Ride-A-Pet Potion ×2 |
+| 14:40 | **OflineGirlx**: Frost Dragon (FR), Dalmatian (FR), Chocolate Chip Bat Dragon (FR) ×3 | **Flux_puck**: Shadow Dragon (FR) |
+| 14:40 | **MPLAq9**: Evil Unicorn (FR) | **Aftonsparvsarec00l**: Cow (FR) ×3 |
+| 14:40 | **chn1r**: Cake Friend (NR), Pupcicle | **Panci_Terbang33**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 14:40 | **kobii_x**: Golden Lettuce, Pet Handler Pro Certificate ×2, Alley Cat (NR), Spring Bunny Hood, Fly-A-Pet Potion, Puptune (MR) | **Zombie_8803**: Munchkin Cat (N) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
