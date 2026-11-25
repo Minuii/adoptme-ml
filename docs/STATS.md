@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 01:55 UTC by the scrape workflow._
+_Updated 2026-11-25 02:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 01:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 24,417 | 2026-11-25T01:45 |
-| elve | 15 | 5,219 | 2026-11-25T01:46 |
+| amvgg | 15 | 24,658 | 2026-11-25T02:00 |
+| elve | 15 | 5,291 | 2026-11-25T02:01 |
 
-## AMVGG completed trades: 61,971 total
+## AMVGG completed trades: 61,991 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 272 |
+| 2026-11-25 | 292 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 01:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:51 | **rkdwlgh0104**: Snowball Pug (M), Bunny Swirl (NFR), Fly-A-Pet Potion ×10, Pet Handler Pro Certificate, Ride-A-Pet Potion ×5 | **abdoosaad**: Goose (FR) |
-| 01:51 | **Sirswagalishsus**: Spring Bunny Hood | **jala_boi**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
-| 01:51 | **wishkatara**: Mule (MFR) | **belljack225**: Strawberry Penguin (N) |
-| 01:51 | **mariarita2000**: Goldhorn (R) | **8_lsr**: Easter 2020 Egg |
-| 01:51 | **Softbunnyluvzmami**: Ice Cube (N), Zombie Chick (N) | **Urfavorite1225**: Pain au Chat |
-| 01:51 | **DarcyUnicorn123456**: Field Mouse (MFR), Gaelic Fae (MFR), Snowball Pet (MFR) | **pollito_conalioli222**: Siamese Cat (MFR) |
-| 01:51 | **n3urix**: Stray Cat Dragon (M), Husky, Unicorn, Ride-A-Pet Potion ×2, Kiwi Kiwi | **Notx503**: Haetyphoon (R) |
-| 01:51 | **Ramm03_06**: Spring Bunny Nose, Spring Bunny Feet ×2, Cotton Candy Hat | **ilovepaulbanks**: Ice Cream Cone Hat |
-| 01:51 | **swa66ed**: Chocolate Dutch Guinea Pig (MFR), Fly-A-Pet Potion | **MICROCELE6BRITY**: Cow (FR) |
-| 01:45 | **HeartsForEli_1406**: Tuxedo Cat (N), Sweetheart Rat (N) | **zephyrgoatt**: 2022 Birthday Confetti Drape, Butter Knife, 2022 Birthday 5 Badge, Popsicle Stroller, Dance Arcade Stand, Golden Walrus Crown |
-| 01:45 | **bloomysweetea**: Dodo (NFR) | **serspect**: Ride-A-Pet Potion ×6 |
-| 01:45 | **Justlovetae**: Amethyst Skies Mega Neon Paint, Toy Poodle (N) | **zlerxr2ndAccount**: Candyfloss Mega Neon Paint |
-| 01:45 | **okayredroses**: Black Springer Spaniel (N), Dolphin (N) | **DellaxKenneth**: Ride-A-Pet Potion ×4 |
-| 01:45 | **Vanlyzn30**: Crystal Egg ×18 | **serspect**: Ride-A-Pet Potion |
-| 01:45 | **jellofox2009**: Space Fleet House | **cindystarsweet3**: Crystal Egg ×18 |
+| 02:00 | **Softbunnyluvzmami**: Ghostly Cat (M) | **7H3ST**: Pain au Chat ×6 |
+| 02:00 | **zoes_altaccount12**: Frankenfeline (M) | **cruxiczz**: Ride-A-Pet Potion |
+| 02:00 | **LaraIphone16e**: Christmas Pudding House, Gingerbread Reindeer | **FEDEWOPER**: Toy Poodle (N) |
+| 02:00 | **St_locki1**: Ride-A-Pet Potion ×5, Rainbow Stroller | **deandrapisang**: Fly-A-Pet Potion ×3 |
+| 02:00 | **ll2Sc**: Tortuga de la Isla (MFR) | **Memes_forthesoulalt**: Puffin (MFR) |
+| 02:00 | **BloodMenCloud**: Alpaca, Werewolf, Frost Unicorn (R), Dango Penguins (N), Matcha Cat | **Flutterieshyy**: Cabbit (NFR) |
+| 02:00 | **kaylamicmi**: Evil Unicorn (FR), Parrot (FR) | **armfeet421**: Frost Dragon (FR) |
+| 02:00 | **ALTACCOUNTTT435**: Retired Egg ×6 | **chocolatebunny_14**: Lionfish |
+| 02:00 | **pusilups**: Jellyfish (MFR) | **1MZ03Y**: Jellyfish (NFR), Cow (FR) ×3, Snowball Pet (MR) |
+| 02:00 | **ttechnicaIIy**: Candicorn (R), Christmas Pudding Pup, Ride-A-Pet Potion ×3 | **ilynvmihyjkilysm**: Sugar Glider (R) |
+| 02:00 | **bidyska**: Turtle (FR) | **eliismellyy**: Strawberry Tortle, Unicorn |
+| 02:00 | **Indigo_Erin**: Candicorn (MFR), Vanilla Penguin (MFR), Banana Hat | **xXCloudyXxFloralXx**: Balloon Unicorn (FR) |
+| 02:00 | **no_name12345654321**: Dalmatian (R), Turtle (FR), Goose (FR) | **fabrielpanapro**: Balloon Unicorn (FR) |
+| 02:00 | **zephyrgoatt**: Fly-A-Pet Potion ×7, Sweetheart Rat (N) | **TwistedK1tty**: Ride-A-Pet Potion ×14 |
+| 02:00 | **angela_umerez4**: German Shepherd (M) | **CaityBear1001**: Reindeer (MFR), Angus Calf (MR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
