@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 18:25 UTC by the scrape workflow._
+_Updated 2026-11-25 18:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 18:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 39,640 | 2026-11-25T18:15 |
-| elve | 15 | 8,466 | 2026-11-25T18:15 |
+| amvgg | 15 | 39,906 | 2026-11-25T18:30 |
+| elve | 15 | 8,523 | 2026-11-25T18:31 |
 
-## AMVGG completed trades: 64,762 total
+## AMVGG completed trades: 64,766 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,063 |
+| 2026-11-25 | 3,067 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,10 @@ _Updated 2026-11-25 18:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 18:30 | **Evachka_Soloveva**: Ride-A-Pet Potion ×3 | **BUS5ED**: Invisible Wings, Heart Rattle |
+| 18:30 | **mell0rxs**: Lava Wolf (NR) | **Spectexd**: Lava Wolf (N) |
+| 18:30 | **mnrt362**: Albino Monkey (R), Ride-A-Pet Potion | **Chiyothebestrust**: Matcha Cat ×2 |
+| 18:30 | **9vvdx**: Siamese Cat (R), Shrew (FR) | **LilPumpkin2oo2**: Sheeeeep (NFR) |
 | 18:25 | **Panci_Terbang33**: Fly-A-Pet Potion ×3 | **shotvzn**: Haetyphoon |
 | 18:25 | **Bebro_boyge**: Sheeeeep (MFR) | **ChubbyyBunniii**: Mini Pig (NFR) |
 | 18:25 | **baophuonghan**: Alley Cat, Flaming Fox ×2, Harp Seal, Cheetah (R), Pig (FR), Caelum Cervi (R), Zombie Wolf | **aloiv484**: Sugar Glider (FR) |
@@ -50,10 +54,6 @@ _Updated 2026-11-25 18:25 UTC by the scrape workflow._
 | 18:25 | **guchi_puchi95**: Copycat (R) ×2, Copycat, Polar Bear (FR), Ride-A-Pet Potion ×2, Great Pyrenees (NFR) | **ZockerCelina_20**: Turtle (FR) |
 | 18:25 | **CrimsonSummit1483**: Crystal Egg ×17 | **sweetlittlegf**: Ride-A-Pet Potion |
 | 18:25 | **heaartipods**: Cherry-On-Top, Snowball Pet (MFR), Black Macaque (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **itz_ckaM1441**: Rainbow Maker |
-| 18:25 | **diiv_iine**: Werewolf (R), Slimingo (NR) | **Coralmnm**: Siamese Cat |
-| 18:25 | **euprism**: Moonbeam Peacock (R), Lava Dragon (FR) | **rb_feel**: Seabed Creeper (M), Ride-A-Pet Potion, Patchy Bear (M) |
-| 18:25 | **GrindAccount_N1**: Floating Hand Stroller, Leopard Cat (N), Ostrich (N), Zombie Wolf, Koi Carp (N) | **Thaly_vz**: Ice Cream Cone Hat |
-| 18:25 | **ashe_2006**: Crystal Egg ×15 | **BINKY5085**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
