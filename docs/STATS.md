@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 14:55 UTC by the scrape workflow._
+_Updated 2026-11-25 15:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 14:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 36,169 | 2026-11-25T14:45 |
-| elve | 15 | 7,691 | 2026-11-25T14:46 |
+| amvgg | 15 | 36,389 | 2026-11-25T15:00 |
+| elve | 15 | 7,780 | 2026-11-25T15:01 |
 
-## AMVGG completed trades: 63,828 total
+## AMVGG completed trades: 63,846 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 2,129 |
+| 2026-11-25 | 2,147 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 14:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:55 | **Briana_Boubi**: Sugar Glider (FR) | **baophuonghan**: Unicorn Ducky (MFR) |
-| 14:55 | **baophuonghan**: Unicorn Ducky (MFR), German Shepherd (NFR), Flaming Fox (NR), Gingerbread Mouse (MFR), Snowball Pet (NFR), Happy Duckling (NFR) | **Briana_Boubi**: Sugar Glider (FR) |
-| 14:55 | **JollyFantasticlauren**: Cryptid (MFR), Dalmatian (MFR), Cow (FR) | **Bunniixkayy**: Owl (MFR) |
-| 14:55 | **Brithebarb66**: Pig (MFR), Spring Bunny Hood | **Frejakanin1**: Ice Cream Hermit Crab (MFR), Slime (MFR) |
-| 14:55 | **gul3n3hs**: Siamese Cat (MFR), Sugar Axolotl (NFR) | **CallMehMigz**: Parrot |
-| 14:55 | **luvdokyeomie**: Ride-A-Pet Potion | **AceGhost92YT**: Crystal Egg ×17 |
-| 14:55 | **Belva0603**: Pupcicle (N), Black-Footed Ferret (MR) | **Kety222222222**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 14:55 | **the_randomgirl1812**: Unicorn (NFR), Copycat ×2 | **ZockerCelina_20**: Unicorn (MFR) |
-| 14:55 | **fefepandapro**: Cozy Mistletroll (N) | **Panci_Terbang33**: Seahorse (N) |
-| 14:55 | **Tifteli9**: Ride-A-Pet Potion ×2, Canine Cruiser | **ffffff246500**: Pupcicle (R), Easter Bunny (F), German Shepherd (R) |
-| 14:55 | **endangsujiarto**: Capybara (NFR) | **Ihrtz_angel**: Ride-A-Pet Potion ×5 |
-| 14:55 | **Pyps_lol7**: Lion (FR) | **VanetyBunny**: Munchkin Cat (FR), Chocolate Dutch Guinea Pig |
-| 14:55 | **disgIory**: Owl (NFR), Hot Doggo (R), Albino Monkey (FR) | **MemeAethetic**: Cabbit (MFR), Siamese Cat (MFR), Hedgehog (R) |
-| 14:55 | **xStrawberrieys**: Bobageist (M), Ocelot (M) | **unboxingBRop**: Stitches (M) |
-| 14:55 | **hojujuonabeat**: Arctic Hare (MR) | **catoqd**: Ride-A-Pet Potion ×2 |
+| 15:00 | **ira_main**: Purrowl (N) ×2, Purrowl ×2 | **xXDreamqcloudsXx**: Ride-A-Pet Potion |
+| 15:00 | **archie_290**: Cabbit (R) | **wak33_upp**: Cupid Dragon (NFR) |
+| 15:00 | **XXAllyXX6_6**: Golden Lettuce | **kiiurmah**: Ride-A-Pet Potion ×2 |
+| 15:00 | **TahNyaluvs**: Bat Dragon (FR), Bat Dragon, Elephant (MFR) | **xluvvmel**: Blazing Lion (MFR) |
+| 15:00 | **fromnothing_12**: Stray Cat Dragon, Three Blind Mice, Golden Unicorn, Diamond Dragon, Huntsman Robin, Dragonfly, Golden Griffin, Ancient Dragon, Alicorn | **katerina_ishchak**: Ride-A-Pet Potion |
+| 15:00 | **16y97**: Fly-A-Pet Potion | **mawifa123**: Waffle Wyrm (M) |
+| 15:00 | **AyiGamerUwu**: Mummy Spider (N), Pink Dog (N), Jiggly Jerboa (N), Princess Mare (N), Ms. Muffet (N), Rubber Ducky (N), Forest Sprite (N), Halloween White Mummy Cat (R) | **16y97**: Ride-A-Pet Potion |
+| 15:00 | **ilonka_128**: Kangaroo (NFR), Jester Dragon (N), Unicorn (MFR), Velocirooster (FR) | **otonite7**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:00 | **unlimited_food**: Hedgehog (FR) | **Jocamax10**: Evil Unicorn (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×9 |
+| 15:00 | **roplex123480**: Frost Dragon (FR), Crow (FR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Mini Pig (FR) | **Ella_cool172**: Shadow Dragon (FR), Pig (R), Munchkin Cat |
+| 15:00 | **smartfor_Alex**: Wolpertinger ×11, Walrus (N), Walrus | **SPring_I3H**: Wolpertinger (M) |
+| 15:00 | **lina200r**: Ride-A-Pet Potion | **kittysbu1lds**: Christmas Pudding House, Cherry Blossom Tree Sticker ×17 |
+| 15:00 | **xXDreamqcloudsXx**: Ride-A-Pet Potion ×3 | **1lx_1O**: Peachick (M) |
+| 15:00 | **itz_nastyalik**: Squid, Kiwi Kiwi, Dog | **Rainy_rarr**: Ride-A-Pet Potion |
+| 15:00 | **gg986gg**: Thunderfisher ×2, Electric Hornet | **Ksy1432**: Motorized Sofa |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
