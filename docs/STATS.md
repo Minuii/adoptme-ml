@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 07:11 UTC by the scrape workflow._
+_Updated 2026-11-25 07:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 07:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 29,159 | 2026-11-25T07:00 |
-| elve | 15 | 6,211 | 2026-11-25T07:01 |
+| amvgg | 15 | 29,388 | 2026-11-25T07:15 |
+| elve | 15 | 6,229 | 2026-11-25T07:15 |
 
-## AMVGG completed trades: 62,608 total
+## AMVGG completed trades: 62,612 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 909 |
+| 2026-11-25 | 913 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,10 @@ _Updated 2026-11-25 07:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:15 | **ccdbgt1**: Fly-A-Pet Potion | **elorste**: Candy Hare |
+| 07:15 | **ADASArfs**: Ride-A-Pet Potion ×7, Fly-A-Pet Potion ×6 | **mawifa123**: Flamingo (FR) |
+| 07:15 | **ccdbgt1**: Ride-A-Pet Potion ×4 | **helloimfromamvorelve**: Snow Owl (NFR) |
+| 07:15 | **Papitascongaseosa_xD**: Retired Egg ×18 | **jvealousss01**: Ride-A-Pet Potion |
 | 07:11 | **yyeeeezyy**: Hot Doggo (NFR), Candicorn (NFR), Undead Jousting Horse (FR), Candy Hare (MFR) | **j867harley**: Cryptid (NFR) |
 | 07:11 | **hdhvsjosh**: Ride-A-Pet Potion ×6, Pet Handler Pro Certificate ×2 | **arseniylolol**: Happy Duckling (MR) |
 | 07:11 | **onyx11414**: Border Collie | **danyypizza121**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7 |
@@ -50,10 +54,6 @@ _Updated 2026-11-25 07:11 UTC by the scrape workflow._
 | 07:06 | **plrbxs**: Goat (R), Dango Penguins, Chocolate Dutch Guinea Pig | **Syshsf237**: Black Macaque (MFR) |
 | 07:06 | **NathanPlayz83**: Chocolate Chip Bat Dragon (FR), Mini Pig (FR), Fairy Bat Dragon (FR), Dango Penguins (R), Ride-A-Pet Potion ×5 | **T3bas1**: Sea Slug (MFR) |
 | 07:06 | **Angi_2oo7**: Siamese Cat (MFR) | **pixiedooo**: Haetyphoon (MFR) |
-| 07:06 | **xenovyjay**: Fly-A-Pet Potion | **sneganii**: Christmas Pudding House |
-| 07:06 | **magicalxmoon**: Unicorn (NFR) | **veverka61**: Golden Unicorn (MFR) |
-| 07:06 | **DefinitelyNotCha6**: Triple Stroller ×6, Crate Stroller ×7, Dog House Stroller, Froggy Stroller, Hatched Egg Stroller, High Heel Stroller, Rocket Ship Stroller | **josuebogarr**: Fly-A-Pet Potion |
-| 07:06 | **clalouetciedh**: Dragonfly ×16 | **MorpekoMuncher**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
