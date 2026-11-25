@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 01:11 UTC by the scrape workflow._
+_Updated 2026-11-25 01:15 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 01:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 23,695 | 2026-11-25T01:00 |
-| elve | 15 | 5,062 | 2026-11-25T01:01 |
+| amvgg | 15 | 23,936 | 2026-11-25T01:15 |
+| elve | 15 | 5,088 | 2026-11-25T01:15 |
 
-## AMVGG completed trades: 61,880 total
+## AMVGG completed trades: 61,886 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 181 |
+| 2026-11-25 | 187 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,12 @@ _Updated 2026-11-25 01:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:15 | **sophzuki16**: Lava Dragon (FR) | **BaldAllein**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 01:15 | **sophzuki16**: Fairy Bat Dragon (FR), Endangered Egg | **LYN_ALT069**: Munchkin Cat ×3 |
+| 01:15 | **HGJohnson13**: African Wild Dog (NFR), Orchid Butterfly (FR), Orchid Butterfly (R), Jellyfish (MFR) | **pusilups**: Bat Dragon (FR) |
+| 01:15 | **chxrrq**: Solar Burst Mega Neon Paint | **Justlovetae**: Candyfloss Mega Neon Paint, Cold Cube |
+| 01:15 | **axelatlasdDev11**: Red Dutch Guinea Pig (N) | **cirocrack2020**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
+| 01:15 | **Alana_enna22**: Stingray, Brachiosaurus, Kelp Crewmate, Dolphin, Woolly Mammoth, Singularity Pisces, Moonpine, Mummy Spider, Black Rhino, St Bernard, Black-Footed Ferret, Badger, Electric Hornet | **artbiology**: Ride-A-Pet Potion |
 | 01:11 | **toybeau772**: Bluebottle Fly (MFR) | **Um_HelloImAperson**: Golden Dragon ×2, Diamond Dragon, Dragonfly, Alicorn, Purrowl ×3, Diamond Mahi Mahi ×4, Shark (R), Blue Whale ×3 |
 | 01:11 | **sleepy_s0ren**: Owl (FR), Velocirooster | **lupsgrl**: Siamese Cat (MFR), Owlbear (MFR) |
 | 01:11 | **Brooklyn_Ohio**: Goose (FR) ×2, Rainbow Maker, 2022 Birthday Confetti Cannon, Fly-A-Pet Potion ×2 | **soapybunnie_0**: Giant Panda (FR) |
@@ -48,12 +54,6 @@ _Updated 2026-11-25 01:11 UTC by the scrape workflow._
 | 01:11 | **jatikat**: Cupid Dragon (FR) ×2 | **EriOnSuMa**: Tortoiseshell Guinea Pig |
 | 01:11 | **carlkilling**: Kangaroo (NFR) | **patasconqueso242**: Fly-A-Pet Potion ×18 |
 | 01:11 | **kaylahsz**: Amami Rabbit (M), Momma Moose (M), Tiny Wings, Copycat, Great Pyrenees (MFR) | **Fbrleey**: Mini Pig (FR) |
-| 01:11 | **Sasha_Sasha748**: Round Fallow Deer Sticker | **AyiGamerUwu**: Jimothy ×2 |
-| 01:11 | **zephyrgoatt**: Fly-A-Pet Potion ×9, Popsicle Stroller | **bidyska**: Ride-A-Pet Potion ×16 |
-| 01:11 | **A1d3n_L1ve**: Ride-A-Pet Potion | **CrimsonBlaze8609**: Crystal Egg ×18 |
-| 01:11 | **Belen7267**: Dango Penguins (MFR), Pig, Fly-A-Pet Potion | **dedene123r32**: Chocolate Chip Bat Dragon (FR) |
-| 01:11 | **mtrngcuti**: Arctic Fox | **9nvls**: Harp Seal (N) |
-| 01:11 | **Alana_enna22**: Binturong, Chihuahua | **JesusChristSaves19**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
