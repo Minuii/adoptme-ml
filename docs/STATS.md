@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 18:46 UTC by the scrape workflow._
+_Updated 2026-11-25 18:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 18:46 UTC by the scrape workflow._
 | amvgg | 15 | 40,146 | 2026-11-25T18:45 |
 | elve | 15 | 8,586 | 2026-11-25T18:46 |
 
-## AMVGG completed trades: 64,838 total
+## AMVGG completed trades: 64,865 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,139 |
+| 2026-11-25 | 3,166 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 18:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:45 | **PVIC124**: Sugar Glider, Police Cap | **mnrt362**: Border Collie, Shark Puppy (FR) |
-| 18:45 | **iamiisaaaa**: Sugar Glider (FR), Pelican (FR), Bush Elephant (FR), Winged Tiger (FR), Border Collie (R) | **xngelwingss**: Velocirooster (MFR) |
-| 18:45 | **iiiistyloneiiii**: Halloween White Skeleton Dog (MFR) | **Fur0kan_344**: Unicorn (NFR), Unicorn, Ride-A-Pet Potion, Chihuahua |
-| 18:45 | **somestuff**: African Wild Dog (FR) | **NOTyELL1S**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
-| 18:45 | **amvggholder**: Alley Cat, Bunny Swirl | **AHHA6281**: Platypus |
-| 18:45 | **Robloxiana_xxx2011**: Royal Egg ×18 | **irusik_rbx0**: Paint Sealer ×2 |
-| 18:45 | **xmilwowox**: Cryptid (FR), Jousting Horse (MFR), Hare (MFR), Dire Stag (MFR), Boohoo (M) | **marchthenewest**: Cryptid (NFR) |
-| 18:45 | **SweetVqniIIa**: Copycat (NFR), Pain au Chat (N) | **MarcusTradesAMVGG**: Ballet Swan (NFR) |
-| 18:45 | **stasplay9074**: Tortoiseshell Guinea Pig (R) | **Usuario30x**: Kangaroo (FR) |
-| 18:45 | **cauejikook2**: Strawberry Shortcake Bat Dragon (R), Candicorn (FR), Pancake Stack, Fly-A-Pet Potion, Ice Cream Heels, Halloween Evil Dachshund (R) | **Zen_vxmp**: Cryptid (R) |
-| 18:45 | **kmj081022**: Cow (FR) ×2, Fly-A-Pet Potion ×3 | **thvdexO**: Arctic Reindeer (FR) |
-| 18:45 | **fierce238173**: Puffer Fish (M), Alley Cat (M) | **vTrustedSaviour**: Strawberry Shortcake Bat Dragon (FR) |
-| 18:45 | **yaroslavshepon**: Preppy Capuchin Monkey, Stitches, Eggnog Hare, Black Rhino, Mummy Spider (N), Orangutan (N), Mexican Wolf, Granny Wolf | **Lutos200999**: Ride-A-Pet Potion |
-| 18:45 | **krxadm3**: Crystal Egg ×18 | **msgarcia4**: Fly-A-Pet Potion |
-| 18:45 | **ezgizemfan23**: Retired Egg ×18 | **aleeyah51092**: Purrowl (N) |
+| 18:55 | **Robloxiana_xxx2011**: Royal Egg ×18 | **irusik_rbx0**: Paint Sealer ×2 |
+| 18:55 | **0002callum**: Harp Seal (MFR), Binturong (MFR), St Bernard (M) | **yesway_nahway**: Dragonfruit Fox (MFR) |
+| 18:55 | **ImANiceDude_J**: Ice Cream Hermit Crab (MFR), Happy Duckling (MFR), Dragonfruit Fox | **hahagirlfreind**: Moose Calf (MFR) |
+| 18:55 | **l_i8ra7**: Ride-A-Pet Potion | **LiFoMeX_XXO**: Axolotl (FR) |
+| 18:55 | **anekalubitnaruto**: Fly-A-Pet Potion | **Waysrrsd**: Snow Monkey |
+| 18:55 | **CrimsonSummit1483**: Crystal Egg ×18 | **NvmPar1s**: Ride-A-Pet Potion |
+| 18:55 | **DONTTRADEMEGOD**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Darkvega11**: Singularity Beetle (M) |
+| 18:55 | **Factghq2**: Strawberry Shortcake Bat Dragon (R) | **fitt04_08**: Cow (FR) ×2 |
+| 18:55 | **cornogeeiii**: Dango Penguins (MFR) | **sh9qi**: Rainbow Maker |
+| 18:55 | **0BV1SLILIAX0**: Rubber Ducky (M) | **imadegoogle_51**: Shih Tzu ×9 |
+| 18:55 | **aleeyah51092**: Diamond Griffin | **NaomiMikael1**: Retired Egg ×4 |
+| 18:55 | **KazzuhaaAzz**: Ice Cream Hermit Crab (MFR), Leopard Shark (MFR), Seabed Creeper (MFR) | **hipnotizwd**: Hero Gibbon (MFR) |
+| 18:55 | **aleeyah51092**: Golden Unicorn | **NaomiMikael1**: Retired Egg ×4 |
+| 18:55 | **aleeyah51092**: Diamond Dragon | **NaomiMikael1**: Retired Egg ×4 |
+| 18:55 | **Paipapaprapaa**: Dango Penguins (M) | **ooq_1000**: Cow (FR), Border Collie (FR), Spring Bunny Hood, Bready Necklace, Cotton Candy Hat |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
