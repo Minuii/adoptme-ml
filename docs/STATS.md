@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 20:41 UTC by the scrape workflow._
+_Updated 2026-11-25 20:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 20:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 41,972 | 2026-11-25T20:30 |
-| elve | 15 | 8,930 | 2026-11-25T20:31 |
+| amvgg | 15 | 42,193 | 2026-11-25T20:45 |
+| elve | 15 | 8,982 | 2026-11-25T20:46 |
 
-## AMVGG completed trades: 65,324 total
+## AMVGG completed trades: 65,357 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,625 |
+| 2026-11-25 | 3,658 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 20:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:41 | **milotaikgamer**: Jester Dragon (NFR), Bunny Swirl (M) | **CbonLesPates1**: 2022 Birthday Party Hat |
-| 20:41 | **DubrotmitBanana**: Blue Cat Ear Headphones | **Adore_Pandaz**: Ride-A-Pet Potion |
-| 20:41 | **Ewwsay0**: Chihuahua (N) | **Adore_Pandaz**: Glider |
-| 20:41 | **sun1zzzo**: Bobageist, Boohoo (N), Goldfish, Parakeet (N), Prism Snake, Thunderfisher, Clubtail Dragonfly (N), Eggnog Dog | **16y97**: Ride-A-Pet Potion |
-| 20:41 | **Aggr0berlin**: Ghost (N), Ghost Wolf (N), Ghostly Cat (N) | **ratii_sleepii**: Lamb |
-| 20:41 | **paulvibesss**: Dalmatian (FR), Arctic Reindeer (FR), Cow (FR), Kangaroo (R), Alley Cat (R) | **samesame1279**: Cow (MFR) |
-| 20:41 | **Artem_21a2**: Ghost Bunny (FR), Ghost Bunny | **Byeedontmindme1234**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 20:41 | **X0LuvyouX0**: Fallow Deer (MFR), Strawberry Shortcake Bat Dragon, Tiny Wings, Ride-A-Pet Potion | **PityGh0ul**: Shark Puppy (MFR), Unicorn Horn |
-| 20:41 | **PRODAZA_STARPETS**: Hare (MFR) | **livelycouture**: Cow (FR), Goat (R) |
-| 20:41 | **GPOX0T**: Pet Handler Pro Certificate ×12, Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×2 | **Kety222222222**: Cow (FR) |
-| 20:41 | **anutik_awesome**: Sheeeeep (NFR), Momma Moose (N) | **svqh12**: Siamese Cat (FR), Sheeeeep (FR) |
-| 20:41 | **sshanao_o**: Cow, Fly-A-Pet Potion, Cotton Candy Hat | **MckDull**: Kangaroo (NFR) |
-| 20:41 | **himikoToga447**: Owl (FR) | **icebaby545**: Dalmatian (FR), Hedgehog (FR) |
-| 20:41 | **Ush_8044**: Owl (FR) | **icebaby545**: Hedgehog (FR), Dalmatian (FR) |
-| 20:41 | **jetedispas212**: Jungle Egg | **Dodomkog**: Arctic Reindeer (FR) |
+| 20:45 | **B1ossom_U**: Hedgehog (FR), Dalmatian (FR) | **YasmelyRD**: Dalmatian (NFR) |
+| 20:45 | **pepe4rea1**: Pupcake (NFR), Pain au Chat | **Lofi95775**: Bunny Swirl (NFR) |
+| 20:45 | **sleepy_s0ren**: Dragonfruit Fox (NFR) ×2, Winged Tiger, Sugar Glider (R), Ride-A-Pet Potion | **xGracie_1234x**: Rainbow Maker |
+| 20:45 | **ratikasinghal5**: Evil Unicorn (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **didtje2**: Owl (FR) |
+| 20:45 | **sleepy_s0ren**: Velocirooster | **Egokillerdaniel2x**: Aussie Egg |
+| 20:45 | **Mya_strawberryz**: Ice Cube (N), Icy Porcupine (N), Onza (N), Boohoo (N) | **Tuuu_Madreee2**: Ride-A-Pet Potion |
+| 20:45 | **Leafiieee**: Cat (NR), Dog (MR), Garden Snake (R) | **Tuuu_Madreee2**: Ride-A-Pet Potion |
+| 20:45 | **Queqnwo**: Unicorn Ducky (MR) | **Dinkarrt**: Ride-A-Pet Potion |
+| 20:45 | **Angel_020601**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **supernova_cloud**: Jellyfish (FR) |
+| 20:45 | **sleepy_s0ren**: Rainbow Maker | **JEN_NZY**: Albino Monkey (NFR), Black Macaque (M), Tiny Wings |
+| 20:45 | **SANANELANISMIMDEN_LA**: Ratatoskr (MR) | **16y97**: Ride-A-Pet Potion ×2 |
+| 20:45 | **viktoriapotrivay**: Shetland Pony Dark Brown (N) | **PonyAlex6**: Retired Egg ×18 |
+| 20:45 | **ariadna_grey**: Moon Rabbit (N), Golden Jaguar (N), Flaming Fox (R), Pupcicle, Ice Cream Cone Hat | **doIluv**: Moon Rabbit (MR) |
+| 20:45 | **SweetieStrawberryw**: Frost Unicorn (R), Sakura Spirit (R), Red Dutch Guinea Pig (R), Mule, Fly-A-Pet Potion | **akeks_74**: Cow (R) |
+| 20:45 | **SillyForRealFr**: Goose, Spring Bunny Feet, Ride-A-Pet Potion | **joeemobugeralt**: Matcha Cat (NR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
