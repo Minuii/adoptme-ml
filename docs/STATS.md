@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 02:01 UTC by the scrape workflow._
+_Updated 2026-11-25 02:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 02:01 UTC by the scrape workflow._
 | amvgg | 15 | 24,658 | 2026-11-25T02:00 |
 | elve | 15 | 5,291 | 2026-11-25T02:01 |
 
-## AMVGG completed trades: 61,991 total
+## AMVGG completed trades: 62,001 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 292 |
+| 2026-11-25 | 302 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 02:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:11 | **HELL0J0SEPH**: Spring Bunny Hood, Ice Cream Cone Hat ×2, Fly-A-Pet Potion | **sxmplycutecorex**: Unicorn Horn |
+| 02:11 | **VON_200977**: Turtle (FR) | **2creme1sucre**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×7 |
+| 02:11 | **sshanao_o**: Unicorn (M), Chocolate Dutch Guinea Pig (M), Tree Kangaroo (NFR) | **Thatscute18**: Dragonfruit Fox (MFR) |
+| 02:11 | **soisomin**: Cow (FR), Dragonfruit Fox | **dumdadadat0p**: Goose (FR) |
+| 02:11 | **Hi_IamLinet**: Crystal Egg ×14 | **Janewillnever**: Ride-A-Pet Potion |
+| 02:11 | **Adopacount**: Strawberry Shortcake Bat Dragon (NFR) ×4, Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) ×12, Parrot (FR) | **MrToy40**: Balloon Unicorn (MFR) |
+| 02:11 | **SwampMonster15**: Bush Elephant (MFR) | **mournrasoir**: Cryptid (NFR) |
+| 02:11 | **lona262**: Hedgehog (FR), Fairy Bat Dragon (NFR), Pet Handler Pro Certificate, Ketchup and Mustard Jetpack | **Antonnyalexander2009**: Caterpillar (MFR) |
+| 02:11 | **Papitascongaseosa_xD**: Unicorn | **miyuki0_5**: Ride-A-Pet Potion |
+| 02:11 | **Machaddkkj**: Chocolate Chip Bat Dragon Backpack, Wizard Caravan, RGB Monster Truck, Stygian Hang Glider, Triple Stroller, Wheelbarrow Stroller | **Z0mb1e_R1ot**: Fly-A-Pet Potion |
 | 02:00 | **Softbunnyluvzmami**: Ghostly Cat (M) | **7H3ST**: Pain au Chat ×6 |
 | 02:00 | **zoes_altaccount12**: Frankenfeline (M) | **cruxiczz**: Ride-A-Pet Potion |
 | 02:00 | **LaraIphone16e**: Christmas Pudding House, Gingerbread Reindeer | **FEDEWOPER**: Toy Poodle (N) |
 | 02:00 | **St_locki1**: Ride-A-Pet Potion ×5, Rainbow Stroller | **deandrapisang**: Fly-A-Pet Potion ×3 |
 | 02:00 | **ll2Sc**: Tortuga de la Isla (MFR) | **Memes_forthesoulalt**: Puffin (MFR) |
-| 02:00 | **BloodMenCloud**: Alpaca, Werewolf, Frost Unicorn (R), Dango Penguins (N), Matcha Cat | **Flutterieshyy**: Cabbit (NFR) |
-| 02:00 | **kaylamicmi**: Evil Unicorn (FR), Parrot (FR) | **armfeet421**: Frost Dragon (FR) |
-| 02:00 | **ALTACCOUNTTT435**: Retired Egg ×6 | **chocolatebunny_14**: Lionfish |
-| 02:00 | **pusilups**: Jellyfish (MFR) | **1MZ03Y**: Jellyfish (NFR), Cow (FR) ×3, Snowball Pet (MR) |
-| 02:00 | **ttechnicaIIy**: Candicorn (R), Christmas Pudding Pup, Ride-A-Pet Potion ×3 | **ilynvmihyjkilysm**: Sugar Glider (R) |
-| 02:00 | **bidyska**: Turtle (FR) | **eliismellyy**: Strawberry Tortle, Unicorn |
-| 02:00 | **Indigo_Erin**: Candicorn (MFR), Vanilla Penguin (MFR), Banana Hat | **xXCloudyXxFloralXx**: Balloon Unicorn (FR) |
-| 02:00 | **no_name12345654321**: Dalmatian (R), Turtle (FR), Goose (FR) | **fabrielpanapro**: Balloon Unicorn (FR) |
-| 02:00 | **zephyrgoatt**: Fly-A-Pet Potion ×7, Sweetheart Rat (N) | **TwistedK1tty**: Ride-A-Pet Potion ×14 |
-| 02:00 | **angela_umerez4**: German Shepherd (M) | **CaityBear1001**: Reindeer (MFR), Angus Calf (MR) |
 
 ## Elvebredd value changes: 62,952 since 2023-09-16
 
