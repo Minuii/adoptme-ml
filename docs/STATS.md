@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 22:01 UTC by the scrape workflow._
+_Updated 2026-11-25 22:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 22:01 UTC by the scrape workflow._
 | amvgg | 15 | 43,450 | 2026-11-25T22:00 |
 | elve | 15 | 9,250 | 2026-11-25T22:01 |
 
-## AMVGG completed trades: 65,627 total
+## AMVGG completed trades: 65,667 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,928 |
+| 2026-11-25 | 3,968 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 22:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:00 | **ApplezTYVO_Wdup**: Moose Calf (NR), Slime (NR), Lamb (NR), Ride-A-Pet Potion | **sleepy_s0ren**: Turtle (FR) |
-| 22:00 | **snyyyp**: Candicorn, Ride-A-Pet Potion, City Hat | **Imoi716**: Candicorn (FR) |
-| 22:00 | **ARKIN_gamingChannel1**: Slime, Husky ×2, Dragonfruit Fox, Leopard Shark ×2, Mule, Platypus | **aloiv484**: Ride-A-Pet Potion ×18 |
-| 22:00 | **111ary111**: Crystal Egg ×3, Gemstone Egg, Bee (NFR), Pupcicle | **xilawn2023**: Ride-A-Pet Potion ×2 |
-| 22:00 | **NekoZero4**: Strawberry Tortle (NFR), Strawberry Tortle (N) ×2, Strawberry Tortle ×4, Retired Egg ×11 | **YTstaro**: Strawberry Tortle (MFR) |
-| 22:00 | **Kid26Jellyfish**: Cow (FR), Kangaroo (FR) | **YTstaro**: Turtle (NFR), Fly-A-Pet Potion ×2 |
-| 22:00 | **My_m31lody**: Unicorn Horn, Tiny Wings, Spring Bunny Hood | **imjsaverage**: Goose (FR) |
-| 22:00 | **mgjgmwg**: Evil Unicorn (FR) ×2 | **YTstaro**: Cow (FR) ×5, Cow (R) |
-| 22:00 | **niceplayeruwu**: Ride-A-Pet Potion | **sunday0_01**: Hare Box |
-| 21:55 | **Lina_657210**: Chihuahua (N), Ride-A-Pet Potion, Boohoo (M) | **steamrepack**: Fallow Deer |
-| 21:55 | **wawwpp**: Ice Cream Cone Hat | **wsiaxx00s**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 21:55 | **Haiealysososo**: Dango Penguins (MFR) ×2 | **Leichisme3**: Sugar Glider (NFR) |
-| 21:55 | **Pruazes1**: Strawberry Shortcake Bat Dragon (FR) ×4, Chocolate Chip Bat Dragon (FR), Unicorn Horn, Rain Cloud Hat, Candicorn (MFR), Chocolate Chip Bat Dragon (R) | **lukaspro23317**: Shadow Dragon (FR) |
-| 21:55 | **Ameera_109**: Parrot (FR) | **youchi_nagi**: Puffin (MFR), Lava Wolf (MFR), Fairy Bat Dragon (FR) |
-| 21:55 | **rrstockxadm**: Crystal Egg ×14, Ride-A-Pet Potion | **Tree092109**: Fly-A-Pet Potion |
+| 22:11 | **Ryukyu7336**: Chocolate Chip Bat Dragon (FR), Arctic Fox (R) | **IIBUNNY098**: Fairy Bat Dragon (FR), Siamese Cat (NR) |
+| 22:11 | **ExpertChipmunkPro**: Owl (FR), Parrot (NFR), Parrot (FR), Crow (FR), Dango Penguins (M), Neon White Scooter, Neon Orange Scooter, Neon Blue Scooter | **IsraaxD007**: Bat Dragon (FR), Arctic Reindeer (FR) |
+| 22:11 | **CrimsonSummit1483**: Crystal Egg ×17 | **Coralmnm**: Ride-A-Pet Potion |
+| 22:11 | **alimohamd00**: Candicorn, Fly-A-Pet Potion | **lemonadexx1**: Copycat (NR) |
+| 22:11 | **KanskjeMatilde**: Strawberry Shortcake Bat Dragon (NFR), Kangaroo (FR), Ride-A-Pet Potion | **thegiddys14**: African Wild Dog (FR), Fly-A-Pet Potion ×4, Turtle (FR) |
+| 22:11 | **cxXxgisellexX**: Cabbit (NFR) | **qlltm**: Rainbow Maker, Rain Cloud Hat |
+| 22:11 | **otonite7**: Cryptid (R), Aurora Fox (FR) | **ThisGuyWorks**: Evil Unicorn (FR) |
+| 22:11 | **Tree092109**: Fly-A-Pet Potion ×5 | **daanz2**: Ride-A-Pet Potion ×9 |
+| 22:11 | **Yumi_Rose8**: Ride-A-Pet Potion ×2 | **4532Piggy**: Scarebear (FR) |
+| 22:11 | **claireg0402**: Silverback Gorilla (R) | **Hey_Dant123**: Haetyphoon |
+| 22:11 | **adopmetrede0**: Ride-A-Pet Potion | **Tvink_gadzilla**: Unicorn |
+| 22:06 | **9mikoo9**: Dalmatian (FR), Chocolate Chip Bat Dragon (FR), Narwhal (N), Mongoose (N), Ghost (N), Ride-A-Pet Potion, Elf Hat, Elf Shoes, Elf Bandana, Chocolate Chip Bat Dragon Backpack | **LaZy_PoPtArTs**: Werewolf (MFR) |
+| 22:06 | **La_boyMich15**: Ratatoskr (N), Gecko Ducky (N), Maleo Bird (N), Mummy Spider (N), Red Panda (N), Parakeet (N), Mahi Mahi (N), Otter (N), Cold Cube (N), Ox (N) | **Heyyits_mehhyx**: Fly-A-Pet Potion |
+| 22:06 | **lacedribbns**: Flaming Fox (MR) | **stargxldani**: Turtle (FR), Crocodile (FR) |
+| 22:06 | **Cristelmylovelove**: Turtle (FR) ×3 | **Kirill719982**: Farm Egg |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
