@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 07:31 UTC by the scrape workflow._
+_Updated 2026-11-25 07:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 07:31 UTC by the scrape workflow._
 | amvgg | 15 | 29,640 | 2026-11-25T07:30 |
 | elve | 15 | 6,278 | 2026-11-25T07:31 |
 
-## AMVGG completed trades: 62,641 total
+## AMVGG completed trades: 62,660 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 942 |
+| 2026-11-25 | 961 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 07:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:30 | **1mochimiffy**: Gumball Caterpillar (N) | **Andy_kj8**: Retired Egg ×18 |
-| 07:30 | **59ghrvs**: Arctic Fox (R) | **milka_offO1**: Happy Clam ×2, Golden Penguin (R) |
-| 07:30 | **mawifa123**: Crystal Egg ×18 | **maiaelain**: Ride-A-Pet Potion |
-| 07:25 | **SirPaulMcCartney4**: Christmas Spirit (NFR) | **iiiPinkyBlossomx**: Puptune ×5 |
-| 07:25 | **pinkysworn**: Evil Unicorn (MFR), Mini Pig (MFR), Christmas Pudding Pup (MFR), Turkey (MFR), Tree Kangaroo (MFR), Cow (R), Strawberry Shortcake Bat Dragon (FR), Cow | **RhodesyMate16**: Frost Dragon (MFR) |
-| 07:25 | **nushido02**: Ride-A-Pet Potion ×2 | **minv9a**: Santa's Sleigh, Choo Choo Train, Pink Scooter, Car Stroller |
-| 07:25 | **L0veChocolatel0ve**: Chocolate Dutch Guinea Pig (MR), Chocolate Dutch Guinea Pig ×3, Pet Handler Pro Certificate | **robloxchangergurl**: Siamese Cat, Snowball Pet (MFR) |
-| 07:25 | **Gonfreecss09111**: Stray Cat Dragon (M) ×6 | **RELLdep**: Candicorn (FR) |
-| 07:25 | **Completly_fine**: Goose (FR), Halo, Munchkin Cat ×2, Jester Dragon | **Gonfreecss09111**: Velocirooster (MFR) |
-| 07:25 | **mawifa123**: Crystal Egg ×18 | **Giulia_SatoruPs4**: Ride-A-Pet Potion |
-| 07:25 | **Svnset_st4r2Xx**: Chocolate Dutch Guinea Pig (MR), Fly-A-Pet Potion | **playpretend2**: Munchkin Cat (FR), Chocolate Dutch Guinea Pig (NFR), Tiny Wings, Ride-A-Pet Potion ×2 |
-| 07:25 | **NathanPlayz83**: Sea Slug (MFR), Pink Cat (NFR) | **kotenokoops**: Cupid Dragon (MFR), Arctic Reindeer (FR), Tortuga de la Isla |
-| 07:25 | **ItzViolet_Plays**: Unicorn Horn, Pupcicle (N), Pupcicle, Fly-A-Pet Potion | **qO_Opli**: 2022 Birthday Party Hat |
-| 07:25 | **boundedmoney**: Dango Penguins (MFR) | **RaphaelaXD123**: Hare (MFR) |
-| 07:25 | **Ali_12xx1**: Ride-A-Pet Potion ×2, Unicorn, Fly-A-Pet Potion | **iiiistyloneiiii**: Unicorn (NFR) |
+| 07:41 | **YTKA_StrayKids**: Ginger Cat (MFR), Ride-A-Pet Potion ×2 | **reni2912**: Choco Penguin (MFR) |
+| 07:41 | **Sandra_Gav**: Arctic Fox (R) | **stasplay9074**: Cupid Dragon (FR) |
+| 07:41 | **ItzAina_JPN**: Arctic Fox (R), Pain au Chat (N) | **weelk110**: Glormy Hound (NFR) |
+| 07:41 | **fizzyyxz**: Moon Rabbit (M) | **mikiroqz**: Frostbite Cub (MFR), Ride-A-Pet Potion |
+| 07:41 | **rhubararian**: Capricorn (MFR), Orange Butterfly (MFR), Latte Kitsune (NFR), Clover Cow (MFR), Skelicorn (MFR) ×3, Ride-A-Pet Potion | **AutoTradeCommission**: Strawberry Shortcake Bat Dragon (FR) |
+| 07:41 | **bbddppo78**: Slime (NFR), Chocolate Dutch Guinea Pig (MFR), Zombie Wolf (MFR), Wood Pigeon (MFR) | **AutoTradeCommission**: Evil Unicorn (FR) |
+| 07:41 | **Tyyyyy_tyy1**: Heart Lock Necklace | **rainbow72679**: Retired Egg ×9 |
+| 07:41 | **vikwpy**: Arctic Fox (R), Gemstone Egg | **KIWI_LTP**: Goat (FR) |
+| 07:41 | **sandraaxyx**: Irish Water Spaniel (FR), Goat (R), Lion Cub (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **KIWI_LTP**: Alpaca (R) |
+| 07:36 | **Milechka_Pilmeshka**: Gemstone Egg, Ride-A-Pet Potion | **xMr_stitchx**: Lamb |
+| 07:36 | **1264Foxs**: Cabbit (N) | **j867harley**: Alpaca, Irish Water Spaniel (FR), Candicorn (NFR), Munchkin Cat |
+| 07:36 | **Candron6**: Ride-A-Pet Potion ×5 | **67ITSGONNABENOW**: Arctic Dusk Dragon (FR) |
+| 07:36 | **Ashdorae**: Ride-A-Pet Potion | **JorgeEduardo_123**: Rainbow Stroller |
+| 07:36 | **iamcute630**: T-Rex (NFR) | **Milca_Demon1**: Dango Penguins, Dragonfruit Fox |
+| 07:36 | **DioBrando_pidr**: Velocirooster, Fly-A-Pet Potion, Ride-A-Pet Potion | **CataleyaThies**: Fly-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
