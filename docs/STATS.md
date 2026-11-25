@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 19:31 UTC by the scrape workflow._
+_Updated 2026-11-25 19:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 19:31 UTC by the scrape workflow._
 | amvgg | 15 | 40,952 | 2026-11-25T19:30 |
 | elve | 15 | 8,729 | 2026-11-25T19:31 |
 
-## AMVGG completed trades: 65,037 total
+## AMVGG completed trades: 65,082 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,338 |
+| 2026-11-25 | 3,383 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 19:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:30 | **v3zxsless**: Sheeeeep, Fly-A-Pet Potion, Pet Handler Pro Certificate, Spring Bunny Feet, Ride-A-Pet Potion, Albatross (NFR), Albino Bat (FR), Kitty Biscuit | **Trawaxs**: Elephant (FR) |
-| 19:30 | **f1lenrazE**: Unicorn (FR), Unicorn, Sloth (FR), Fly-A-Pet Potion | **St_locki1**: Frost Fury (FR) |
-| 19:30 | **Pandalovedogss**: Hopbop (M) | **dasha_123qwr**: Ride-A-Pet Potion |
-| 19:30 | **luvyerh**: Toaster Hat | **Bunnyyfluttershy**: Pig (FR) |
-| 19:30 | **soapybunnie_0**: Kangaroo (FR), Shiver Wolf (MFR) | **xx_sunny2003**: Cherry-On-Top |
-| 19:30 | **thvdexO**: Cow (FR) | **userulikk**: Turtle (FR), Pig (R) |
-| 19:30 | **fishymiss_y**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×3 | **docedelets**: Turtle (FR) |
-| 19:30 | **abdoosaad**: Tiny Wings, Amami Rabbit | **S3rennx**: Sweetheart Rat (MR), Pupcake (NR), French Bulldog, Tuxedo Cat, Cattuccino (NR) |
-| 19:30 | **wanda_vision680**: Fly-A-Pet Potion | **kiracd227**: Pet Handler Pro Certificate |
-| 19:30 | **00dolls**: Haetae, Paint Sealer ×4 | **Etsusiica**: Haetae (R) |
-| 19:25 | **Shiky388**: Ride-A-Pet Potion ×2 | **NotSunsetPlaysRoblox**: Dire Wolf (M) |
-| 19:25 | **aleeyah51092**: Quetzalcoatl | **NaomiMikael1**: Fairytale Egg ×4 |
-| 19:25 | **SkaterPlayzQueen2016**: Fairy Bat Dragon (NFR), Farm Egg, Scorching Kaijunior (MFR), Cherry-On-Top, Blue Betta Fish (M), Dragon (MFR), Copycat, Winter Buck (MFR), Squid (MR), Pink Betta Fish (M) | **GrindAccount_N1**: Frost Dragon (FR) |
-| 19:25 | **aleeyah51092**: Dimension Drifter (R) | **avaylaya**: Retired Egg ×18 |
-| 19:25 | **raya1325416**: Dragonfruit Fox (MFR), Nautilus (MFR) | **CandyCatGh0st**: Hare (MFR) |
+| 19:41 | **Rubberduckington1103**: Ice Cube (MR), Praying Mantis | **adoptamvggxo**: Halloween Golden Mummy Cat (NFR) |
+| 19:41 | **64kenz**: Water Rabbit (MR), Amami Rabbit (M), Chipmunk (MFR), Easter Bunny (M), Moon Rabbit (MFR), Otter (MFR), Cocoadile (M), Mistletroll (MR) | **Sonya73p**: Dango Penguins (MFR) |
+| 19:41 | **KatesArrow**: Kookaburra (MFR) | **AvokadoJFKfanat**: Matcha Cat (NR) |
+| 19:41 | **Youdi_off**: Ride-A-Pet Potion | **Addisonfrs**: Crystal Egg ×18 |
+| 19:41 | **sunday0_01**: Red Dutch Guinea Pig (FR), Fly-A-Pet Potion ×2 | **Mariam_123xd123**: Gecko (M) |
+| 19:41 | **Nicholexpets**: Ride-A-Pet Potion | **CrimsonSummit1483**: Crystal Egg ×18 |
+| 19:41 | **EmmaFlame548**: Winged Tiger (MFR), Unicorn (MFR), Cake Friend (MFR), Count Slothula (MFR) | **sweetn6thing**: Bush Elephant (MFR) |
+| 19:41 | **Artem_21a2**: Caelum Cervi (R) ×2, Majestic Pony (N), Ride-A-Pet Potion ×3 | **Tal_Kazman**: Turtle (FR) |
+| 19:41 | **Ninaaaaaaaasxx**: Evil Unicorn (FR), Undead Jousting Horse (FR), Cabbit (R), Chocolate Dutch Guinea Pig (MR), Ice Cream Cone Hat, Latte Kitsune, Bunny Swirl (N) | **Tal_Kazman**: Owl (FR) |
+| 19:41 | **SMETAHKA2033**: Kangaroo (FR), Jester Dragon (R), Tarsier (M), Ride-A-Pet Potion ×3, Ketchup and Mustard Jetpack, Llama | **Tal_Kazman**: Hot Doggo (FR) |
+| 19:41 | **chocolatechips1974**: Evil Unicorn (FR), Cow (R), Ballet Swan (FR), Fly-A-Pet Potion, Chihuahua (MR), Chocolate Dutch Guinea Pig ×2 | **lol_whateverx67hsk81**: Crow (FR) |
+| 19:41 | **AMINO4KA7U**: Cryptid (R) | **s0larzxxxx**: Dalmatian (FR), Fly-A-Pet Potion |
+| 19:41 | **juandxmm2**: Vanilla Penguin (MFR), Cake Friend (MFR), Unicorn (MFR), Quokka (MFR) | **lol_whateverx67hsk81**: Rainbow Maker |
+| 19:41 | **Semisunaki**: Crow (F), Parrot (FR), Balloon Unicorn (FR), African Wild Dog (FR), Evil Unicorn (FR), Arctic Reindeer (FR), Goat (NFR), Elephant (FR), Pig (R) | **lol_whateverx67hsk81**: Bat Dragon (FR) |
+| 19:41 | **1mochimiffy**: Cobra, Retired Egg ×12 | **S4rc4st1cs1**: Burger Bear |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
