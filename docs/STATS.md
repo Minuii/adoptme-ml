@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 12:31 UTC by the scrape workflow._
+_Updated 2026-11-25 12:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 12:31 UTC by the scrape workflow._
 | amvgg | 15 | 34,118 | 2026-11-25T12:30 |
 | elve | 15 | 7,191 | 2026-11-25T12:31 |
 
-## AMVGG completed trades: 63,316 total
+## AMVGG completed trades: 63,351 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,617 |
+| 2026-11-25 | 1,652 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 12:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:30 | **Vitamirka**: Kiwi Kiwi ×6 | **neversshy**: Ride-A-Pet Potion ×3 |
-| 12:30 | **goregoy67**: Purrowl | **coolboy10time**: Milk Choccybunny, White Choccybunny |
-| 12:30 | **XiaoFaye1433**: Strawberry Shortcake Bat Dragon (FR), Mechapup (FR) | **Ezekiel_pro2**: Flying Broomstick |
-| 12:30 | **Vitamirka**: Kiwi Kiwi ×4 | **Vikakelera**: Ride-A-Pet Potion ×2 |
-| 12:30 | **chn1r**: Pet Handler Pro Certificate | **andres2004671**: Fly-A-Pet Potion |
-| 12:30 | **mimimusasusu**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **C4K3YK1TTEN**: Dire Wolf (M), White Choccybunny (M), Cherub Chipmunk (M), Mochi Meow (M) |
-| 12:30 | **Vitamirka**: Kiwi Kiwi ×2 | **SVS_88888**: Ride-A-Pet Potion |
-| 12:30 | **XxllT3ll3zLx**: Giant Panda (FR) | **XxlambadguyxX**: Strawberry Shortcake Bat Dragon (FR) ×2, Pet Handler Pro Certificate |
-| 12:30 | **lusy_1122**: Kangaroo (FR), Copycat (R), Unicorn (NFR) | **yanchik0067**: Fairy Bat Dragon (FR) |
-| 12:30 | **DRZeBRol**: Ride-A-Pet Potion | **rU27na**: Crystal Egg ×18 |
-| 12:30 | **yuumiuro**: Christmas Egg | **adoptmememe68**: Ride-A-Pet Potion ×16, Fly-A-Pet Potion ×2 |
-| 12:30 | **meeeeowey2**: Cow (FR), Pancake Stack | **faikubjotch**: Dango Penguins (N), Lion (R), Goat (R), Fly-A-Pet Potion |
-| 12:30 | **cealovesanimals123**: Shadow Dragon Ducky (N) | **tw1nkle3788**: Christmas Future Egg |
-| 12:30 | **Fayba42123**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×3 | **LikeeVolj**: Frostbite Bear (FR) |
-| 12:30 | **Bebra_2265**: Shark Puppy, Pig (FR), Unicorn | **yanchik0067**: Frost Unicorn (FR) |
+| 12:41 | **powerlee01**: Candy Cannon | **otonite7**: Parrot (FR), Kangaroo (FR) |
+| 12:41 | **Kyza_222222223**: Ranger Beaver (MR) | **ifacftm**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion |
+| 12:41 | **pesnyaups9**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion ×2, Dumpling Friend Hat, Ice Cream Heels | **ellasweetcakelove**: Mermicorn (FR), Mini Pig (FR), Matcha Cat |
+| 12:41 | **xxjohnjokexx**: Phoenix (NR) | **WeiYing_Editor**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 12:41 | **admtradeonly**: Ride-A-Pet Potion | **yshikza**: Crystal Egg ×18 |
+| 12:41 | **HappyDad786**: Albino Monkey (FR), Strawberry Shortcake Bat Dragon, Chocolate Chip Bat Dragon | **splead565**: Strawberry Shortcake Bat Dragon (FR) ×2, 2022 Birthday Confetti Cannon |
+| 12:41 | **yeetimaheadout7**: Cryptid (NFR), 2022 Birthday Party Hat, Rain Cloud Hat ×2, Butter Knife, Border Collie (MFR), Pig (R), Unicorn Horn ×2, Cow (FR) ×2, Cow (R), Mini Pig (R), Fly-A-Pet Potion ×4 | **Ogingagh1011**: Parrot (NFR), Crow (NFR) |
+| 12:41 | **diiv_iine**: Fly-A-Pet Potion ×5 | **xlux_latte**: Cheetah (NR) |
+| 12:41 | **Quueen_Juliiaa**: Fly-A-Pet Potion, Rabbit | **chn1r**: Chihuahua ×3, Mochi Meow (NR) |
+| 12:41 | **Sona_621**: Choco Penguin | **qbhd_zoo**: Toxic Kaijunior |
+| 12:41 | **fyllipyn**: Turtle (FR), Pig | **Sona_621**: Frostbite Bear (FR) |
+| 12:41 | **Kotik_22822883**: Bat Dragon (FR), Fly-A-Pet Potion ×2 | **004FAscend004**: Giraffe (NFR), Strawberry Shortcake Bat Dragon (FR) |
+| 12:41 | **golden_hopper4890237**: Crystal Egg ×18 | **MinhLovesFurriess**: Ride-A-Pet Potion |
+| 12:41 | **Ilxys_hxyu**: Copycat | **kosatka_16**: Fly-A-Pet Potion ×2 |
+| 12:41 | **MiaGutu201**: Fly-A-Pet Potion | **Quueen_Juliiaa**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
