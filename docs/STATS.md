@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 20:46 UTC by the scrape workflow._
+_Updated 2026-11-25 20:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 20:46 UTC by the scrape workflow._
 | amvgg | 15 | 42,193 | 2026-11-25T20:45 |
 | elve | 15 | 8,982 | 2026-11-25T20:46 |
 
-## AMVGG completed trades: 65,357 total
+## AMVGG completed trades: 65,391 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,658 |
+| 2026-11-25 | 3,692 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 20:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:45 | **B1ossom_U**: Hedgehog (FR), Dalmatian (FR) | **YasmelyRD**: Dalmatian (NFR) |
-| 20:45 | **pepe4rea1**: Pupcake (NFR), Pain au Chat | **Lofi95775**: Bunny Swirl (NFR) |
-| 20:45 | **sleepy_s0ren**: Dragonfruit Fox (NFR) ×2, Winged Tiger, Sugar Glider (R), Ride-A-Pet Potion | **xGracie_1234x**: Rainbow Maker |
-| 20:45 | **ratikasinghal5**: Evil Unicorn (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **didtje2**: Owl (FR) |
-| 20:45 | **sleepy_s0ren**: Velocirooster | **Egokillerdaniel2x**: Aussie Egg |
-| 20:45 | **Mya_strawberryz**: Ice Cube (N), Icy Porcupine (N), Onza (N), Boohoo (N) | **Tuuu_Madreee2**: Ride-A-Pet Potion |
-| 20:45 | **Leafiieee**: Cat (NR), Dog (MR), Garden Snake (R) | **Tuuu_Madreee2**: Ride-A-Pet Potion |
-| 20:45 | **Queqnwo**: Unicorn Ducky (MR) | **Dinkarrt**: Ride-A-Pet Potion |
-| 20:45 | **Angel_020601**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **supernova_cloud**: Jellyfish (FR) |
-| 20:45 | **sleepy_s0ren**: Rainbow Maker | **JEN_NZY**: Albino Monkey (NFR), Black Macaque (M), Tiny Wings |
-| 20:45 | **SANANELANISMIMDEN_LA**: Ratatoskr (MR) | **16y97**: Ride-A-Pet Potion ×2 |
-| 20:45 | **viktoriapotrivay**: Shetland Pony Dark Brown (N) | **PonyAlex6**: Retired Egg ×18 |
-| 20:45 | **ariadna_grey**: Moon Rabbit (N), Golden Jaguar (N), Flaming Fox (R), Pupcicle, Ice Cream Cone Hat | **doIluv**: Moon Rabbit (MR) |
-| 20:45 | **SweetieStrawberryw**: Frost Unicorn (R), Sakura Spirit (R), Red Dutch Guinea Pig (R), Mule, Fly-A-Pet Potion | **akeks_74**: Cow (R) |
-| 20:45 | **SillyForRealFr**: Goose, Spring Bunny Feet, Ride-A-Pet Potion | **joeemobugeralt**: Matcha Cat (NR) |
+| 20:55 | **nancyxmi**: Cryptid (FR), Ice Cream Cone Hat, Ride-A-Pet Potion, Cake Friend | **nali2k7**: Mini Pig (NFR) |
+| 20:55 | **vvaryaa58AaS**: Turtle (FR) | **carnivoro_fuerte**: Kangaroo (R), Lamb (R), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion |
+| 20:55 | **0XBONNIEX0**: Fly-A-Pet Potion, Unicorn | **COOK_hani**: Elf Hat |
+| 20:55 | **iaMatthieu1**: Parrot (FR), Shark Puppy (FR) | **Poppycatplays909**: Mechapup (MFR) |
+| 20:55 | **zeejnaa**: Giant Anteater (MFR), Dango Penguins (MFR), Flaming Fox (MFR), Hare (MFR), Dragonfruit Fox (MFR), Alley Cat (MFR) | **daandy44566**: Mini Pig (MFR) |
+| 20:55 | **No_R3gretz**: Owl (NFR), Alpaca (R), Rose Dragon | **rubioOnYTalt1**: Velocirooster (M) ×6 |
+| 20:55 | **ihaveahusxandx**: Wolf (R) | **DragonpVDancerK**: Long Ermine Sticker |
+| 20:55 | **RaphaelaXD123**: Jousting Horse (MFR), Harp Seal (MFR) | **Altacct3_3**: Cabbit (NFR) |
+| 20:55 | **sleepy_s0ren**: Cow (R) | **lIIIllIllllIIIIIIII**: Copycat, Red Dutch Guinea Pig (R), Chocolate Dutch Guinea Pig, Count Slothula (N), Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate, Ice Cream Cone Hat, Spring Bunny Hood, Spring Bunny Nose |
+| 20:55 | **Leafiieee**: Golden Dragon (R), Golden Dragon ×2, Golden Griffin, Mochi Meow | **HOCOKKU**: Ride-A-Pet Potion |
+| 20:55 | **Patxxbobax**: Dango Penguins (MR), Dango Penguins (M) | **sarchive27**: Hedgehog (FR) |
+| 20:55 | **iaMatthieu1**: Cabbit (NR) | **ariadna_grey**: Cabbit (R), Siamese Cat (R), 2022 Birthday Cake, Tiny Wings |
+| 20:55 | **akeks_74**: Cow (R) | **closethedoorbruh**: Halo |
+| 20:55 | **KTO_R3223**: Arctic Fox, Harp Seal | **ze_lolkityqueen**: Munchkin Cat (FR) |
+| 20:55 | **HeidyTime**: Goat (NFR), Ram (NR) | **Elizabeth22926**: Goose (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
