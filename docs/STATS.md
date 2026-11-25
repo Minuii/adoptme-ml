@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 21:01 UTC by the scrape workflow._
+_Updated 2026-11-25 21:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 21:01 UTC by the scrape workflow._
 | amvgg | 15 | 42,451 | 2026-11-25T21:00 |
 | elve | 15 | 9,044 | 2026-11-25T21:01 |
 
-## AMVGG completed trades: 65,391 total
+## AMVGG completed trades: 65,444 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,692 |
+| 2026-11-25 | 3,745 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 21:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:55 | **nancyxmi**: Cryptid (FR), Ice Cream Cone Hat, Ride-A-Pet Potion, Cake Friend | **nali2k7**: Mini Pig (NFR) |
-| 20:55 | **vvaryaa58AaS**: Turtle (FR) | **carnivoro_fuerte**: Kangaroo (R), Lamb (R), Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion |
-| 20:55 | **0XBONNIEX0**: Fly-A-Pet Potion, Unicorn | **COOK_hani**: Elf Hat |
-| 20:55 | **iaMatthieu1**: Parrot (FR), Shark Puppy (FR) | **Poppycatplays909**: Mechapup (MFR) |
-| 20:55 | **zeejnaa**: Giant Anteater (MFR), Dango Penguins (MFR), Flaming Fox (MFR), Hare (MFR), Dragonfruit Fox (MFR), Alley Cat (MFR) | **daandy44566**: Mini Pig (MFR) |
-| 20:55 | **No_R3gretz**: Owl (NFR), Alpaca (R), Rose Dragon | **rubioOnYTalt1**: Velocirooster (M) ×6 |
-| 20:55 | **ihaveahusxandx**: Wolf (R) | **DragonpVDancerK**: Long Ermine Sticker |
-| 20:55 | **RaphaelaXD123**: Jousting Horse (MFR), Harp Seal (MFR) | **Altacct3_3**: Cabbit (NFR) |
-| 20:55 | **sleepy_s0ren**: Cow (R) | **lIIIllIllllIIIIIIII**: Copycat, Red Dutch Guinea Pig (R), Chocolate Dutch Guinea Pig, Count Slothula (N), Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×2, Pet Handler Pro Certificate, Ice Cream Cone Hat, Spring Bunny Hood, Spring Bunny Nose |
-| 20:55 | **Leafiieee**: Golden Dragon (R), Golden Dragon ×2, Golden Griffin, Mochi Meow | **HOCOKKU**: Ride-A-Pet Potion |
-| 20:55 | **Patxxbobax**: Dango Penguins (MR), Dango Penguins (M) | **sarchive27**: Hedgehog (FR) |
-| 20:55 | **iaMatthieu1**: Cabbit (NR) | **ariadna_grey**: Cabbit (R), Siamese Cat (R), 2022 Birthday Cake, Tiny Wings |
-| 20:55 | **akeks_74**: Cow (R) | **closethedoorbruh**: Halo |
-| 20:55 | **KTO_R3223**: Arctic Fox, Harp Seal | **ze_lolkityqueen**: Munchkin Cat (FR) |
-| 20:55 | **HeidyTime**: Goat (NFR), Ram (NR) | **Elizabeth22926**: Goose (FR) |
+| 21:11 | **pizdinavolosina**: Fly-A-Pet Potion, Temple Friend | **Tisha_1ka**: Ride-A-Pet Potion ×2 |
+| 21:11 | **Dashaq60**: Little Lamb (N), Toasty Red Panda, Love Bird, Steppe Lion, Red Fox, Water Rabbit | **karasikshop_20028**: Ride-A-Pet Potion |
+| 21:11 | **PREPPY_ROBLOXWORLD1**: Ride-A-Pet Potion ×6, Chihuahua | **Dangermousefan0**: Arctic Fox |
+| 21:11 | **liza8498**: Goose (R), Owl (FR), Dango Penguins (MFR), Unicorn Horn | **sleepy_s0ren**: Arctic Reindeer (FR), Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 21:11 | **elproXD_7v7**: Pain au Chat ×3 | **irishazu_2014**: Ride-A-Pet Potion |
+| 21:11 | **xGracie_1234x**: Dragonfruit Fox | **klxchzz**: Ride-A-Pet Potion ×2 |
+| 21:11 | **Artem_21a2**: Christmas Pudding Pup (R) | **ira_main**: Ride-A-Pet Potion ×6 |
+| 21:11 | **lxceddream**: Blazing Lion (MFR) | **ZzzTrades7**: Hedgehog (MFR), Emperor Gorilla (MFR), Chocolate Chip Bat Dragon (MFR), Candicorn (MFR), Rainbow Maker, Halo, Unicorn Horn |
+| 21:11 | **themilkeywayz**: Ride-A-Pet Potion | **Piper_pig130408**: Raccoon (N) |
+| 21:11 | **vorvara161**: Ghostly Cat (MR), Gemstone Egg ×2, Stray Cat Dragon, Chihuahua, Glormy Crab, Caramelgeist (N), Kid Goat | **EriOnSuMa**: Matcha Cat |
+| 21:11 | **Bubblesby_bailey1234**: Crystal Egg ×18 | **Piper_pig130408**: Fly-A-Pet Potion |
+| 21:11 | **Charlotte_art2**: Munchkin Cat (NR) | **kumasfavv**: Flamingo (R), Swan, Diamond Amazon (FR), Binturong (NR), Bready Necklace, Pet Handler Pro Certificate |
+| 21:11 | **dazaiizz_7**: Sea Slug (MFR), Sea Slug (NFR) | **yanelox22801**: Cryptid (FR) ×2 |
+| 21:11 | **Felix71_34**: Owl (R), Kangaroo (R) | **amvggtradingalt9**: Dango Penguins (MFR) ×3, Dango Penguins (MR) |
+| 21:11 | **BonyTuna**: Frost Dragon (FR) | **Aftonsparvsarec00l**: Owl (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
