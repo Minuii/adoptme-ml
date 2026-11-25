@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 10:55 UTC by the scrape workflow._
+_Updated 2026-11-25 11:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 10:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 32,602 | 2026-11-25T10:45 |
-| elve | 15 | 6,856 | 2026-11-25T10:46 |
+| amvgg | 15 | 32,805 | 2026-11-25T11:00 |
+| elve | 15 | 6,914 | 2026-11-25T11:01 |
 
-## AMVGG completed trades: 63,063 total
+## AMVGG completed trades: 63,099 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,364 |
+| 2026-11-25 | 1,400 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 10:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:51 | **CHS119**: Ride-A-Pet Potion, Fly-A-Pet Potion, Silly Duck (R) | **gggpppgggppp1**: Kelp Hunter (M) |
-| 10:51 | **Nicckie_Min42**: Haetae (FR), Candyfloss Chick (R), Pet Handler Pro Certificate ×2 | **KeithEwing66**: Strawberry Shortcake Bat Dragon (NFR) |
-| 10:51 | **iloveadoptme541**: Evil Unicorn (FR) | **Str3amN0va2024**: Cherry-On-Top, Turtle (FR) ×2, Kangaroo (FR), Copycat |
-| 10:51 | **CarlSimp2s**: Owl (FR), Turtle (NFR), Kangaroo (FR) | **TrxstedAinhoken**: Frost Dragon (FR) |
-| 10:51 | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion ×3 | **MILK_666997**: Dango Penguins |
-| 10:51 | **Kir4kaa**: Electric Hornet | **EpicBannana00**: Starfish, Stitches, Thunderfisher |
-| 10:51 | **luvyerh**: Elephant (R) | **meow_0pi**: Crocodile (FR), Ride-A-Pet Potion ×2 |
-| 10:51 | **Masha231391**: Christmas Pudding Pup, Pain au Chat (N), Sushi Penguin, Squid, Pupcicle (N), Snowball Pug (R), Reindeer (FR), Cattuccino (N), Chihuahua ×4 | **11Anime_Love1**: Elephant (FR) |
-| 10:51 | **lIIIllIllllIIIIIIII**: Volcanic Rhino (R) | **011FluffyTheCute**: Ride-A-Pet Potion |
-| 10:51 | **Kir4kaa**: Cow Loves This Sticker | **m1m1ww33**: Unicorn Ducky (M) |
-| 10:51 | **Amy_baum0nice3**: Elasmosaurus (M) | **Nanax_8907**: Ride-A-Pet Potion ×6 |
-| 10:51 | **Gooch012**: Giraffe | **dw4rkz**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Pet Handler Pro Certificate |
-| 10:51 | **1MZ03Y**: Buffalo (M), Rubber Ducky (M), Galapagos Sea Lion (M), California Condor (M) | **Austin_Spridz**: Ride-A-Pet Potion |
-| 10:51 | **loiol1004**: Love Bird ×9, Love Bird (N) | **DwWsHZ_2003**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 10:51 | **zscca**: Arctic Fox (R) | **Cinpisdi14**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion |
+| 11:00 | **Santywut1**: Mini Pig (NFR), Frost Unicorn (NFR), Ride-A-Pet Potion ×2 | **xv3mpirezZ**: Haetae (FR), Tiny Wings, Spring Bunny Hood, Halo |
+| 11:00 | **AlphaTaToxicv1047**: Flaming Zebra (MFR) | **xaoichaanx**: Tiny Wings |
+| 11:00 | **mellqxxrb**: Gemstone Egg | **akylonak_genshun**: Classic Trade Stand |
+| 11:00 | **s1ltn0w**: Hot Doggo (MFR), Cabbit (MFR), Strawberry Penguin (MFR), Caelum Cervi (MFR), Alley Cat (MFR), Winged Tiger (F) | **saturnestee**: Crow (MFR) |
+| 11:00 | **epicpulsechaos2024**: Dragonfly ×11 | **hqapui**: Ride-A-Pet Potion |
+| 11:00 | **01_xPhysic**: Peppermint Penguin, Ride-A-Pet Potion ×5 | **viltpool**: Kangaroo (FR) ×2 |
+| 11:00 | **AASDRT_II**: Pancake Stack | **RoseyFlower173**: Fly-A-Pet Potion |
+| 11:00 | **Ilxys_hxyu**: Flaming Fox, Dire Stag | **laycakees**: Fly-A-Pet Potion |
+| 11:00 | **Ilxys_hxyu**: Halloween White Ghost Dragon (FR), Fly-A-Pet Potion | **NyoTheBee**: Jester Dragon |
+| 11:00 | **Ilxys_hxyu**: Well, Actually Walrus Sticker, Robot (N) | **ally_28901**: Frostbite Bear and Cub Animated Sticker |
+| 11:00 | **2creme1sucre**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Crocodile (R) | **2lilly777**: Strawberry Shortcake Bat Dragon (NFR) |
+| 11:00 | **Fifiosi0**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **xas3llx**: African Wild Dog (R) |
+| 11:00 | **LizaTomura15**: Peppermint Penguin (R) | **marsh33567**: Cow (R) |
+| 11:00 | **princess_pizzanice**: Harp Seal (N), Skele-Rex (NFR), Dancing Dragon (R), Halloween White Ghost Dragon (F), Ride-A-Pet Potion | **Cha13ty**: Kangaroo (FR) |
+| 11:00 | **Cupcake_rose201444**: Ice Cream Hermit Crab (MR), Spring Bunny Feet, Spring Bunny Hood, Pancake Stack, Ride-A-Pet Potion ×2 | **milana90618**: Diamond Butterfly (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
