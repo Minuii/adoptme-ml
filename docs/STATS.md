@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 03:46 UTC by the scrape workflow._
+_Updated 2026-11-25 03:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 03:46 UTC by the scrape workflow._
 | amvgg | 15 | 26,234 | 2026-11-25T03:45 |
 | elve | 15 | 5,644 | 2026-11-25T03:46 |
 
-## AMVGG completed trades: 62,187 total
+## AMVGG completed trades: 62,210 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 488 |
+| 2026-11-25 | 511 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 03:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:45 | **FufuFluffyFlowi**: Ride-A-Pet Potion ×2 | **sxmplycutecorex**: Great Pyrenees, Castle Hermit Crab, Highland Cow, Halloween White Skeleton Dog, Praying Mantis |
-| 03:45 | **clalouetciedh**: Pain au Chat ×4 | **FufuFluffyFlowi**: Chocolate Dutch Guinea Pig |
-| 03:45 | **wsggits_ash**: Jester Dragon, Flower Power Duckling ×5 | **Dodgemyhooks**: Pupcicle ×10 |
-| 03:40 | **ExclusivelyRarity**: Highland Cow (M), Ghost Dog (NR) | **Abrahamspideymickey**: Toaster Hat, Chihuahua |
-| 03:40 | **NathanPlayz83**: Crow (FR), Cow (FR) | **Cinzsins**: Velocirooster (MFR), Polar Bear (MFR), Chocolate Dutch Guinea Pig (MFR) |
-| 03:40 | **Panci_Terbang33**: Ginger Cat ×18 | **Depondip**: Ride-A-Pet Potion |
-| 03:40 | **Panci_Terbang33**: Orca ×18 | **Depondip**: Ride-A-Pet Potion |
-| 03:40 | **Panci_Terbang33**: Pomeranian ×18 | **Inganta07**: Ride-A-Pet Potion |
-| 03:40 | **xxjohnjokexx**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Goose (FR), Kangaroo (FR) | **watatatata022**: Frost Dragon (FR) |
-| 03:40 | **WhinyBuny**: Turtle (FR) | **kecoze**: 2022 Birthday Party Hat |
-| 03:40 | **frogan55**: Haetyphoon (M) | **pixiedooo**: Blazing Lion (FR) |
-| 03:40 | **cutesyyxharleyss**: Majestic Pony (MFR), Great Pyrenees (MFR), Sandbox Island | **OMG4ZXLA**: Red Dutch Guinea Pig (MFR) |
-| 03:40 | **roplex123480**: Turtle, Kangaroo (FR) ×2, Frost Fury (FR), Aussie Egg | **ii_aldrin20**: Chocolate Chip Bat Dragon (FR) |
-| 03:36 | **lolayummy444**: Hot Doggo (NFR) | **mikepower240508**: Winged Tiger (NFR), Cherry-On-Top, Copycat (NR) |
-| 03:36 | **azxpredxtorn**: Ballet Swan ×2, Moose Calf, Latte Kitsune, Unicorn (NFR) | **Tammieloveyt**: Candicorn (FR) |
+| 03:55 | **bigbbl589**: Turtle (FR) | **Slushyunicorn0**: Christmas Pudding Pup (N) |
+| 03:55 | **bytsaremyfavourute**: Many Mackerel (MFR), Alpaca (FR), Unicorn Horn, Candyfloss Chick (FR) | **LeonardBass28273**: Honey Badger (MFR), Strawberry Penguin (NFR), Strawberry Penguin (NR), Owlbear (NFR) |
+| 03:55 | **carlo_pro28**: Cow (FR) ×4, Goose ×2 | **Lin68873**: Owl (FR) |
+| 03:55 | **gsysgsgsywgwgwgwge**: Snowball Pug (MFR), Fly-A-Pet Potion | **Julesknocker12**: Munchkin Cat |
+| 03:55 | **xTigrillo06**: Frost Fury (FR), Arctic Fox (FR), Flaming Fox (FR), Hippo (N) | **rafael32087**: Kangaroo (FR) |
+| 03:55 | **angela_umerez4**: Mochi Meow ×9 | **zephyrgoatt**: Ride-A-Pet Potion |
+| 03:55 | **C4K3YK1TTEN**: Elf Hat | **xom6ie**: Pet Handler Pro Certificate |
+| 03:55 | **TMDung20**: Copycat (MFR) ×2, Crocodile (R) | **XxItsYourGirlMiaxX4**: Evil Unicorn (NFR) |
+| 03:55 | **Vanlyzn30**: Crystal Egg ×18 | **Josuwu892**: Ride-A-Pet Potion |
+| 03:55 | **draike_tzu8262**: Humbug, Black Tiger, Muskrat | **rainbow28546**: Retired Egg ×6 |
+| 03:55 | **Robloxiana_xxx2011**: Snow Leopard (MFR) | **Aslie_17**: Ride-A-Pet Potion ×4 |
+| 03:51 | **haileysgirlyx0**: Candicorn (MFR), Husky (MFR), Mule (MFR), Spring Bunny Hood | **RobloxKingEthan724**: Winged Tiger (MFR) |
+| 03:51 | **DefinitelyNotCha6**: Dingo ×4, Woolly Mammoth, Thunderfisher, Sasquatch, Rat, Punk Pony, Orange Betta Fish, Monkey ×4, Merhorse, Ghost Wolf, Emu ×2 | **adoptmejourney83**: Fly-A-Pet Potion |
+| 03:51 | **Antonnyalexander2009**: Hedgehog (FR) | **lifetiger4**: Rainbow Maker, Cabbit (R), Unicorn Horn |
+| 03:51 | **JJJJa02**: Strawberry Shortcake Bat Dragon, Kangaroo (R), Copycat, Copycat (R) | **MILK_666997**: Dalmatian |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
