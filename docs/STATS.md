@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 18:55 UTC by the scrape workflow._
+_Updated 2026-11-25 19:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 18:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 40,146 | 2026-11-25T18:45 |
-| elve | 15 | 8,586 | 2026-11-25T18:46 |
+| amvgg | 15 | 40,405 | 2026-11-25T19:00 |
+| elve | 15 | 8,637 | 2026-11-25T19:01 |
 
-## AMVGG completed trades: 64,865 total
+## AMVGG completed trades: 64,880 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,166 |
+| 2026-11-25 | 3,181 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 18:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:55 | **Robloxiana_xxx2011**: Royal Egg ×18 | **irusik_rbx0**: Paint Sealer ×2 |
-| 18:55 | **0002callum**: Harp Seal (MFR), Binturong (MFR), St Bernard (M) | **yesway_nahway**: Dragonfruit Fox (MFR) |
-| 18:55 | **ImANiceDude_J**: Ice Cream Hermit Crab (MFR), Happy Duckling (MFR), Dragonfruit Fox | **hahagirlfreind**: Moose Calf (MFR) |
-| 18:55 | **l_i8ra7**: Ride-A-Pet Potion | **LiFoMeX_XXO**: Axolotl (FR) |
-| 18:55 | **anekalubitnaruto**: Fly-A-Pet Potion | **Waysrrsd**: Snow Monkey |
-| 18:55 | **CrimsonSummit1483**: Crystal Egg ×18 | **NvmPar1s**: Ride-A-Pet Potion |
-| 18:55 | **DONTTRADEMEGOD**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Darkvega11**: Singularity Beetle (M) |
-| 18:55 | **Factghq2**: Strawberry Shortcake Bat Dragon (R) | **fitt04_08**: Cow (FR) ×2 |
-| 18:55 | **cornogeeiii**: Dango Penguins (MFR) | **sh9qi**: Rainbow Maker |
-| 18:55 | **0BV1SLILIAX0**: Rubber Ducky (M) | **imadegoogle_51**: Shih Tzu ×9 |
-| 18:55 | **aleeyah51092**: Diamond Griffin | **NaomiMikael1**: Retired Egg ×4 |
-| 18:55 | **KazzuhaaAzz**: Ice Cream Hermit Crab (MFR), Leopard Shark (MFR), Seabed Creeper (MFR) | **hipnotizwd**: Hero Gibbon (MFR) |
-| 18:55 | **aleeyah51092**: Golden Unicorn | **NaomiMikael1**: Retired Egg ×4 |
-| 18:55 | **aleeyah51092**: Diamond Dragon | **NaomiMikael1**: Retired Egg ×4 |
-| 18:55 | **Paipapaprapaa**: Dango Penguins (M) | **ooq_1000**: Cow (FR), Border Collie (FR), Spring Bunny Hood, Bready Necklace, Cotton Candy Hat |
+| 19:00 | **Oempaloempia1235**: Cow (FR) | **Martinotschka**: 2022 Birthday Party Hat, Tiny Wings |
+| 19:00 | **T0LMU**: Gemstone Egg ×2 | **Max051812**: Ride-A-Pet Potion |
+| 19:00 | **earth2starnyy**: Balloon Unicorn (N) | **soapybunnie_0**: Strawberry Penguin (MFR), Winged Tiger (MFR), Goose (FR) ×2, Rainbow Maker, Halo, 2022 Birthday Party Hat, 2022 Birthday Confetti Cannon, Tiny Wings, Fly-A-Pet Potion |
+| 19:00 | **MM2TRADE224119**: Frost Dragon (FR), Pig (R), Pig (FR), Shark Puppy (FR), Chocolate Dutch Guinea Pig (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Ruperto_1297**: Parrot (NFR) |
+| 19:00 | **EmmaFlame548**: Goose (FR) | **Cassian_057**: Unicorn (MFR), Cake Friend (MFR), Schoolhouse Home, Onza (M) |
+| 19:00 | **mentholdy**: Crocodile (R), Nessie (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5 | **nenerod23**: Fairy Bat Dragon (FR) |
+| 19:00 | **Sytinely**: Fly-A-Pet Potion ×4 | **martins10530**: Ride-A-Pet Potion ×8 |
+| 19:00 | **martins10530**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×2 | **Shynisocool**: Golden Jaguar (M) |
+| 19:00 | **Kailaffie**: Chocolate Chip Bat Dragon (FR), Cow (FR), Munchkin Cat (NR), Alpaca (FR), Spring Bunny Hood | **shotvzn**: Parrot (FR) |
+| 19:00 | **yeltrah09**: Arctic Reindeer (FR), Goose (FR), Cow (FR), Siamese Cat, Crocodile (R), Frostbite Bear (R), 2022 Birthday Confetti Cannon, Goth Shoes | **akzoad**: Owl (FR) |
+| 19:00 | **Catval511**: Hippo (MFR), Meerkat (FR) | **S0lar_Flarex11**: Tasmanian Devil (MFR) |
+| 19:00 | **C4K3YK1TTEN**: Strawberry Tortle | **Dan_needsyou**: Tortoiseshell Guinea Pig (FR), Winged Horse (R) |
+| 19:00 | **ithGrts_tt**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **Zlatysia1123**: Strawberry Shortcake Bat Dragon (FR) |
+| 19:00 | **cursedqxxx**: Ride-A-Pet Potion ×2 | **DaniDeyanara456**: Dragonfruit Fox |
+| 19:00 | **wsxzzq0**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 | **s0larzxxxx**: Fairy Bat Dragon (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
