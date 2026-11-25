@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 11:11 UTC by the scrape workflow._
+_Updated 2026-11-25 11:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 11:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 32,805 | 2026-11-25T11:00 |
-| elve | 15 | 6,914 | 2026-11-25T11:01 |
+| amvgg | 15 | 33,030 | 2026-11-25T11:15 |
+| elve | 15 | 6,938 | 2026-11-25T11:15 |
 
-## AMVGG completed trades: 63,115 total
+## AMVGG completed trades: 63,120 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,416 |
+| 2026-11-25 | 1,421 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,11 @@ _Updated 2026-11-25 11:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:15 | **amvgg_useonly**: Arctic Reindeer (FR) ×2 | **Mnenormalno_0**: Haetae (FR), Great Pyrenees (MR), Snowball Pug (MFR), Polar Bear (FR) |
+| 11:15 | **mistletwirl**: Werewolf (FR), Kitty Biscuit | **Liberiangirlxaly**: Catte (M) |
+| 11:15 | **1mochimiffy**: Bee (N), Arctic Hare (N) | **DwWsHZ_2003**: Ride-A-Pet Potion |
+| 11:15 | **victory_rouge**: Chocolate Chip Bat Dragon (NFR) | **PityGh0ul**: Matcha Cat (MFR), Rain Cloud Hat |
+| 11:15 | **lezbiyanka83**: Sakura Spirit (FR) | **rianasfanboy**: Christmas Pudding Pup |
 | 11:11 | **bffmade**: Bat Dragon (FR), Dolphin (MR), Ice Cube (M), Kaijunior (MR), Ride-A-Pet Potion | **YakarKizBanuu**: Bat Dragon |
 | 11:11 | **clalouetciedh**: Alicorn ×18 | **ItzAina_JPN**: Fly-A-Pet Potion |
 | 11:11 | **jam0khurt**: Ride-A-Pet Potion ×3 | **Homey_milk1**: Hyena |
@@ -49,11 +54,6 @@ _Updated 2026-11-25 11:11 UTC by the scrape workflow._
 | 11:11 | **Imabarbiegurl_rawr**: Amami Rabbit (MR) | **cheekyxbean**: Candy Cane Snail (MFR), Stitches (M) |
 | 11:11 | **Japvaxx**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×6 | **fara_garant**: Fairy Bat Dragon (FR) |
 | 11:11 | **Sytinely**: Fly-A-Pet Potion ×3 | **avokado_6001**: Ride-A-Pet Potion ×6 |
-| 11:11 | **luvyerh**: Cow (FR) | **XxkfirxbushxX**: Crocodile (FR), Pig (FR), Shark Puppy (R) |
-| 11:11 | **Sytinely**: Frostbite Bear (R) | **oXoGalaxy_YToXo**: Fly-A-Pet Potion ×9 |
-| 11:11 | **happyfluffy510**: Grim Dragon (FR) ×2, Grim Dragon | **IamnotSarathereal**: Strawberry Shortcake Bat Dragon (FR) |
-| 11:11 | **Dinkarrt**: Ride-A-Pet Potion | **pandica323**: Apple Owl, Koi Carp |
-| 11:11 | **Krasotka1060**: Royal Egg ×2 | **Mariia_905**: Retired Egg ×3 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
