@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 03:01 UTC by the scrape workflow._
+_Updated 2026-11-25 03:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 03:01 UTC by the scrape workflow._
 | amvgg | 15 | 25,581 | 2026-11-25T03:00 |
 | elve | 15 | 5,489 | 2026-11-25T03:01 |
 
-## AMVGG completed trades: 62,105 total
+## AMVGG completed trades: 62,129 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 406 |
+| 2026-11-25 | 430 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 03:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:00 | **luvyerh**: Flamingo (FR) | **TwistedK1tty**: Crocodile (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion |
-| 03:00 | **luvyerh**: Bat Dragon (FR) | **nolirina2041**: Frost Dragon (FR) ×2, Elephant (FR) ×3, Lion (R) ×4, Toaster Hat ×2, Lion (FR) ×2, Cow (FR), Cow (NFR), Elephant (R) ×3 |
-| 03:00 | **FrNotSummer**: Evil Unicorn (NFR) ×2, Giant Panda (FR), Werewolf (FR), Werewolf (R), Werewolf | **21kStock**: Shadow Dragon (FR) |
-| 03:00 | **flex0mp**: Dalmatian (FR), Unicorn Horn ×2, Rain Cloud Hat, Ring-Tailed Lemur (R) | **Deamh_1**: Balloon Unicorn (FR) |
-| 03:00 | **Allieiiiwiw**: Apple Owl, Golden Hamster, Spinosaurus, Dragonfruit Fox, Dragon | **Shaylynn2255**: Copycat |
-| 03:00 | **Elis_thxx**: S'mores Raccoon, Halloween Slime Mega Neon Paint, Rose Quartz Glow Mega Neon Paint, Tropical Surge Mega Neon Paint, Velvet Fuchsia Mega Neon Paint, Amethyst Skies Mega Neon Paint, Electric Tide Mega Neon Paint, Candy Flare Mega Neon Paint | **Shehatesme420**: Ride-A-Pet Potion ×5 |
-| 02:51 | **cnn1b1lsm**: Shadow Dragon Ducky (M), Catte (N) | **HeartsForEli_1406**: Toaster Hat |
-| 02:51 | **Homey_milk1**: Ride-A-Pet Potion, Lemonade Stand | **bikosh_s1**: Rhino |
-| 02:51 | **aavqaii**: Ride-A-Pet Potion, Kiwi Kiwi, Flower Power Duckling | **buang2oo**: Fly-A-Pet Potion |
-| 02:51 | **pexrldiver**: Sushi Penguin | **herfaklo**: Ride-A-Pet Potion |
-| 02:51 | **ExclusivelyRarity**: Binturong (MFR) | **C4K3YK1TTEN**: Ghost Dog (NR), Highland Cow (MR), Shark (NR) |
-| 02:51 | **Jassychi**: Snow Monkey (MFR), Rainbow Maker, Spring Bunny Nose, Dango Penguins | **NOBIIIEEE11**: Hot Doggo (NFR) |
-| 02:51 | **MetaWin_cel**: Ride-A-Pet Potion, Unfortunate Eyelashes | **Polina_lana3**: Dolphin Cruiser, Stitches (N), Crimson Cape (N), Pandaguin Glooptodog (N), Clumpty (N), Paint Sealer |
-| 02:51 | **Amy_hhd**: Red Dutch Guinea Pig (N) | **danie13jayne**: Border Collie (FR) |
-| 02:51 | **ShuvalovDmitry**: Owlbear (MFR), Crocodile (NFR), Lion Cub (NFR), Vampire Dragon (FR), Zombie Wolf (N) | **abigailrubytail_2**: Arctic Reindeer (FR) ×2 |
+| 03:11 | **mooyakko**: Goat (MFR) | **liviedancess**: Goat (M) |
+| 03:11 | **Sireen2009sha**: Snowball Pug ×3, Flower Power Duckling | **Panci_Terbang33**: Snowball Pug (N) |
+| 03:11 | **Vitalina2384**: Chocolate Dutch Guinea Pig | **Ami_Mixed**: Gaelic Fae |
+| 03:11 | **Shaylynn2255**: Bush Elephant (R) | **Sugar_theduck**: Red Dutch Guinea Pig (NFR) |
+| 03:11 | **zephyrgoatt**: Ride-A-Pet Potion | **DrendyRobLox**: Stray Cat Dragon ×9 |
+| 03:11 | **Shinroa6**: Stray Cat Dragon (M) | **ameyyass**: Fly-A-Pet Potion |
+| 03:11 | **sleepysyamz**: Borhyaena Gigantica (M), Gummy Guana (M), Cattuccino, Bunny (N) | **cathxdral**: Ride-A-Pet Potion ×2 |
+| 03:11 | **Vanlyzn30**: Crystal Egg ×18 | **Pia_ditzon**: Ride-A-Pet Potion |
+| 03:11 | **HeartsForEli_1406**: Burger Bun Hat | **sugarplumesweet**: Paint Sealer ×5 |
+| 03:11 | **9nvls**: Arctic Fox, Tortuga de la Isla (R), Chicken (NR), Puffin, Field Mouse (R), Ice Cream Hermit Crab (R), Golden Rat (FR), Cerberus, Lamb | **dumdadadat0p**: Cow (FR) |
+| 03:11 | **Maira_Martinezxdd**: Flaming Fox, Chihuahua ×2 | **chicken_banana4884**: Pupcicle (N) |
+| 03:11 | **Tomatoxxxblizzard**: Harp Seal (MFR), Snow Monkey (M) | **BaconetteNoobs**: Strawberry Shortcake Bat Dragon (FR) |
+| 03:11 | **floralplum**: Capricorn (R) | **Arina_010145**: Ride-A-Pet Potion |
+| 03:06 | **Idkk_0426**: Dango Penguins (MFR), Dragonfruit Fox (MFR) | **lionine159**: Puffin (MFR) |
+| 03:06 | **zerotocupiddragon**: Cake Friend, Burger Bear | **Shaylynn2255**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
