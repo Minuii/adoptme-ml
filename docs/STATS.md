@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 08:01 UTC by the scrape workflow._
+_Updated 2026-11-25 08:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 08:01 UTC by the scrape workflow._
 | amvgg | 15 | 30,083 | 2026-11-25T08:00 |
 | elve | 15 | 6,393 | 2026-11-25T08:01 |
 
-## AMVGG completed trades: 62,697 total
+## AMVGG completed trades: 62,722 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 998 |
+| 2026-11-25 | 1,023 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 08:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:00 | **Leafiieee**: Snow Owl ×2, Zodiac Minion Chick (R) | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 08:00 | **Leafiieee**: Shark | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 07:55 | **vladstatpets**: Unicorn Horn | **obv1viella0**: Dango Penguins (NR), Winter Fawn (MR), Cotton Candy Hat, Dango Penguins (R), Ride-A-Pet Potion |
-| 07:55 | **loiol1004**: Dragon (NR), Dragon (N) ×2, Dragon ×3 | **log0uts7**: Ride-A-Pet Potion ×2 |
-| 07:55 | **llIRichie**: Strawberry Tortle, Copycat (R), Brown Springer Spaniel (N), Kitsune (FR), Bee (NR) | **TzxSttar**: Fairy Bat Dragon (FR) |
-| 07:55 | **MISCHANYA1890**: Bobageist (M) | **avatan348**: Ride-A-Pet Potion |
-| 07:55 | **Leafiieee**: Ice Moth Dragon, Quetzalcoatl (R), Quetzalcoatl, Stray Cat Dragon | **ameyyass**: Ride-A-Pet Potion |
-| 07:55 | **clalouetciedh**: Pain au Chat ×13 | **hifyou15**: Ride-A-Pet Potion ×4 |
-| 07:55 | **iamcute630**: Maine Coon (N) ×2, Fly-A-Pet Potion, Praying Mantis | **CrazyDasha910**: Maine Coon (M) |
-| 07:55 | **Aliya_nothere**: Field Mouse (NFR), Aurora Fox (NFR) | **yeetkid982**: Husky (MFR), Ice Cream Hermit Crab (NR), Zombie Wolf (N) |
-| 07:55 | **TwizzyCrafty**: Crystal Egg ×18 | **gggpppgggppp1**: Ride-A-Pet Potion |
-| 07:55 | **HEARTS4_MELAINE**: Dragonfruit Fox (MFR), Sushi Penguin (MFR), Toaster Hat, Spring Bunny Hood, Ride-A-Pet Potion | **ExpertChipmunkPro**: Kangaroo (MFR) |
-| 07:55 | **riversofhope**: Seagull (N) | **NastiGora**: Seagull ×4 |
-| 07:55 | **cut3stbunny**: Fly-A-Pet Potion ×5 | **ItzAina_JPN**: Glormy Hound (NFR) |
-| 07:55 | **Leafiieee**: Robo Dog (FR) | **Yumi_Rose8**: Ride-A-Pet Potion |
+| 08:11 | **Nastya_Mihalyk**: Cow, Flamingo, Crocodile, Pig, Turtle (FR), Turtle (R), Pig (NFR), Moose Calf (NR) | **leruval**: Crow (FR) |
+| 08:11 | **lnH3II**: Phantom Dragon (FR), Ride-A-Pet Potion ×2, Pain au Chat | **illumisluxurioushair**: Pig |
+| 08:11 | **mommy_oni0623**: Cow (R), Ride-A-Pet Potion | **AwPloPlo**: Kangaroo (FR), Albino Monkey (FR) |
+| 08:11 | **IIuvbr**: Angus Cow (N), Bandicoot (N), Jiggly Jerboa (M), Liger (N), Japanese Snow Fairy (M) | **MILANArynu1**: Fly-A-Pet Potion |
+| 08:11 | **Weepy_Ray**: Glormy Hound (MFR) | **forg_297**: Moon Rabbit (MFR), Pet Handler Pro Certificate, Golden Lettuce ×2, Rain Cloud Hat, Sakura Spirit (FR) |
+| 08:11 | **flower_1851**: Strawberry Shortcake Bat Dragon (FR), Siamese Cat (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Tanya_tot**: Dalmatian (FR) |
+| 08:11 | **Shailyn09**: Tea Party Set | **lkmsdfw**: Fly-A-Pet Potion ×2 |
+| 08:11 | **queenmaya773**: White Amazon (MFR) | **franzaine**: Elephant (R) |
+| 08:11 | **tahliaa56**: Cryptid (FR) | **NathanPlayz83**: Cow (FR), Shark Puppy (NFR), Tortuga de la Isla, Ride-A-Pet Potion |
+| 08:06 | **Inganta07**: Fly-A-Pet Potion ×2 | **emsstradingg**: Jester Dragon |
+| 08:06 | **SUAA_MYLOVE**: Lion (R), Ride-A-Pet Potion ×4, Sushi Penguin | **Cutewaeilae**: Kangaroo (R) |
+| 08:06 | **yuumiuro**: Unicorn (R) | **afissamuzfirah**: Fly-A-Pet Potion |
+| 08:06 | **Itz_Labyrinth**: Donut Stroller, Double Stroller, Froggy Stroller, Witch's Caravan, Security Spotlight, Puppeteer Hand | **josuebogarr**: Ride-A-Pet Potion |
+| 08:06 | **Catzini_1**: Strawberry Shortcake Bat Dragon (MFR), Parrot (NFR) | **Lpoopbxhe**: Cryptid (MFR) |
+| 08:06 | **Leafiieee**: Bee (NFR) | **MISCHANYA1890**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
