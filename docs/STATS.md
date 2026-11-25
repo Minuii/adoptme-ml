@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 22:46 UTC by the scrape workflow._
+_Updated 2026-11-25 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 22:46 UTC by the scrape workflow._
 | amvgg | 15 | 44,189 | 2026-11-25T22:45 |
 | elve | 15 | 9,370 | 2026-11-25T22:46 |
 
-## AMVGG completed trades: 65,785 total
+## AMVGG completed trades: 65,814 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 4,086 |
+| 2026-11-25 | 4,115 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 22:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **beatsvic**: Giraffe (NFR), Candicorn (MFR), Hyena (MFR), Ice Cream Hermit Crab (MFR), Binturong (MFR), Snow Owl (MFR) | **kaylamicmi**: Crow (MFR) |
-| 22:41 | **mooyakko**: Happy Clam (MFR) | **jordanllover33**: Happy Clam (M) |
-| 22:41 | **zozo17181**: Glacier Moth | **Jelliyuew1**: Burning Bunny (N), Rice Cake Rabbit (N), Mecha R4BBIT (N) |
-| 22:41 | **joylia2091**: Caterpillar, Giant Anteater, Copycat (R), Copycat | **Julee_Lov**: Cabbit |
-| 22:41 | **G3t_jynxT8**: Ladybug (F), Pupcicle | **luja_2010**: Burger Boots |
-| 22:41 | **mitsuri_w5**: Burger Boots, Deinonychus | **G3t_jynxT8**: Ride-A-Pet Potion |
-| 22:41 | **coffemicha**: Groundhog ×4, Fly-A-Pet Potion ×3 | **zozo17181**: Cabbit (FR) |
-| 22:41 | **trade_toshadow02**: Groundhog (MR), Leviathan (R) | **zozo17181**: Strawberry Shortcake Bat Dragon (FR), Sugar Glider (FR) |
-| 22:41 | **MayMayMayGirl**: Red Dutch Guinea Pig (NR), Pink Betta Fish (M) | **sleepy_s0ren**: Groundhog (NR), Ride-A-Pet Potion |
-| 22:41 | **0tohero_rahul**: Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Blue Dog (NFR), German Shepherd (MFR), Latte Kitsune (MFR), Jester Dragon (NFR) | **Yakubiso**: Frost Dragon (FR) |
-| 22:41 | **aydachan200311**: Fly-A-Pet Potion ×9 | **Xxxxashhhh**: Pet Handler Pro Certificate ×9 |
-| 22:41 | **aydachan200311**: Ride-A-Pet Potion ×7 | **Xxxxashhhh**: Pet Handler Pro Certificate ×4 |
-| 22:41 | **earth2starnyy**: Ride-A-Pet Potion ×2 | **Xxxxashhhh**: Fly-A-Pet Potion |
-| 22:41 | **kayleighkittycat123**: Nature's Crown, Bunny Ear Tiara | **kamiwasredeemed**: 2022 Birthday 5 Badge |
-| 22:41 | **M4RC0S_R0SSI2**: Bat Dragon (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **icebaby545**: Dalmatian (FR) ×9 |
+| 22:55 | **xxsunnydayzxxOwO**: Mini Pig (MFR), Fairy Bat Dragon | **crown12256**: Hot Doggo (MFR) |
+| 22:55 | **Usuario30x**: Strawberry Tortle | **PETUNI2021**: Turtle (R) |
+| 22:55 | **JollyDustyCaleb123**: Cabbit (FR) | **sleepy_s0ren**: Tortuga de la Isla (NFR) |
+| 22:55 | **no_anniaomg**: Tortuga de la Isla (NFR), Ballet Swan (NR) | **JollyDustyCaleb123**: Mini Pig (FR) |
+| 22:55 | **vorvara161**: Cow (FR) | **LittleTeddy_67**: Crocodile (FR), Border Collie, Cotton Candy Hat, Bready Necklace |
+| 22:55 | **aydachan200311**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **karolinaxii**: Aussie Egg |
+| 22:55 | **puszek_okruszek125**: Chocolate Dutch Guinea Pig (R), Tarsier | **ElsaRolbox9**: German Shepherd (FR) |
+| 22:55 | **eepyvii**: Unicorn Horn, Tiny Wings ×2, Spring Bunny Hood ×2, Spring Bunny Nose ×2, Spring Bunny Feet ×2, Cotton Candy Hat, Fly-A-Pet Potion ×7, Flying Fairy | **crvsedkillz**: Munchkin Cat (MFR) |
+| 22:55 | **pizzupizzpro**: Balloon Unicorn (MFR), Fairy Bat Dragon (FR), Turtle (FR) | **arronmamark**: Ring-Tailed Lemur (MFR), Monkey King (MFR), Emperor Gorilla (MFR), Meerkat (MFR), Violet Butterfly (MFR), Jellyfish (MFR), Shark Puppy (MFR), Giant Gold Scarab (MFR), Hare (MFR), Caelum Cervi (MFR), Platypus (MFR), Rainbow Maker, Border Collie (MFR), Goldhorn (MFR), Capybara (MFR), Red Squirrel (MFR), Nessie (MFR), Snowball Pet (MFR) |
+| 22:55 | **pizzupizzpro**: Balloon Unicorn (MFR), Turtle (FR) | **arronmamark**: Mini Pig (MFR), Meerkat (MFR), Ring-Tailed Lemur (MFR), Owlbear (MFR), Fallow Deer (MFR), Platypus (MFR), Brown Bear (MFR), Hare (MFR), Alley Cat (MFR), Monkey King (MFR), Jellyfish (MFR), Violet Butterfly (MFR), Giant Gold Scarab (MFR), Nessie (MFR) |
+| 22:55 | **waydrown**: Snow Monkey (N) ×2, Amami Rabbit (N), Fly-A-Pet Potion, Halloween Evil Dachshund (N) | **mk1qez**: 2022 Birthday Party Hat |
+| 22:55 | **daanz2**: Giant Anteater | **By_millsjos**: Irish Water Spaniel |
+| 22:55 | **daanz2**: Unicorn (N), Unicorn (NR) | **sleepy_s0ren**: Matcha Cat |
+| 22:55 | **kjm_5741**: Cryptid (FR), Goose (NFR), Tree Kangaroo (MFR), Space Whale (MFR), Royal Palace Spaniel (MR), T-Rex (MFR), Strawberry Tortle, Fairy Bat Dragon (NFR), Pupcake (M), Turtle (FR) | **theseller63**: Giraffe (FR) |
+| 22:55 | **streylla**: Fly-A-Pet Potion | **loiol1004**: Orange Butterfly, Scarlet Butterfly, Amber Butterfly ×3, Yellow Butterfly ×5 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
