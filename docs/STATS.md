@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 08:46 UTC by the scrape workflow._
+_Updated 2026-11-25 08:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 08:46 UTC by the scrape workflow._
 | amvgg | 15 | 30,761 | 2026-11-25T08:45 |
 | elve | 15 | 6,492 | 2026-11-25T08:46 |
 
-## AMVGG completed trades: 62,814 total
+## AMVGG completed trades: 62,833 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,115 |
+| 2026-11-25 | 1,134 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 08:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:45 | **gggpppgggppp1**: Tree Kangaroo | **ameyyass**: Ride-A-Pet Potion ×2 |
-| 08:45 | **ameyyass**: Ride-A-Pet Potion | **loiol1004**: Mini Schnauzer |
-| 08:45 | **ameyyass**: Ride-A-Pet Potion | **ItsMeowwTimee**: Mexican Wolf (M), Ocelot (M) |
-| 08:45 | **ptlxvez**: Undead Jousting Horse (R) ×3, Undead Jousting Horse, Sugar Axolotl (FR) | **jomkes67**: Undead Jousting Horse (NFR) |
-| 08:45 | **amvggrey**: Cryptid (NFR), Latte Kitsune (N) | **atracttion**: Cryptid (N), Pupcake (M) |
-| 08:45 | **nornomm**: 2022 Birthday Cake, Chocolate Chip Bat Dragon Backpack | **tw1nkle3788**: Christmas Pudding Pup (NR) |
-| 08:45 | **qwersonyarso**: Pink Dog (M), Blue Cat (M) | **black5786t**: Ride-A-Pet Potion |
-| 08:45 | **regina_12z**: Ride-A-Pet Potion | **J7alexander2**: Kitty Bat (FR) |
-| 08:45 | **nylee_psh**: Stitches (M) | **Kir4kaa**: Ride-A-Pet Potion |
-| 08:45 | **Wasnt_ever17**: Dragonfruit Fox (R), Fly-A-Pet Potion, Pupcicle ×2 | **cher_namagandaa**: Kappakid (MR) |
-| 08:45 | **Leafiieee**: Albino Bat (R), Beaver (R) | **Minoo_6767**: Ride-A-Pet Potion |
-| 08:41 | **yoyo72034**: Flamingo (R), Candicorn (R), Spring Bunny Hood | **itsmyalt_heh**: Mini Pig (FR) |
-| 08:41 | **clalouetciedh**: Alicorn ×12 | **gggpppgggppp1**: Ride-A-Pet Potion |
-| 08:41 | **clalouetciedh**: Dragonfly ×16 | **gggpppgggppp1**: Ride-A-Pet Potion |
-| 08:41 | **Sytinely**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **rotee51**: Elephant (FR) |
+| 08:55 | **Tanay_789**: Bunny (N), Crimson Cape (N), Robot (N), Starfish (N), Toucan (N), Abyssinian Cat (N), Clumpty (N), Orangutan (N) | **XxBxd_TomboyxX**: Ride-A-Pet Potion |
+| 08:55 | **Manggo_Pie40**: Strawberry Shortcake Bat Dragon (FR), Bloodhound (N) | **osvalde585**: Candicorn (FR), Candicorn ×2, Candicorn (R) |
+| 08:55 | **Completly_fine**: Crow (NFR) | **rxy3e**: Goose (MFR), Candicorn |
+| 08:55 | **Waysrrsd**: Halloween White Skeleton Dog (N) | **Snow_Girl123678**: Ride-A-Pet Potion |
+| 08:55 | **Kui_Yeager**: Owl (FR), Cryptid (FR), Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (NFR), Lion Cub (FR) ×2, Cozy Mistletroll (MR) | **bernabe198**: Shadow Dragon (FR) |
+| 08:55 | **lovenewjeans98**: Cow (FR), Tri-horned Treehopper (FR), Meerkat (R) | **dumdadadat0p**: Turtle (NFR) |
+| 08:55 | **nfrmikey1**: Kangaroo (FR), Candicorn, Alpaca (R), Elephant (FR) | **DragonjJDusta107130**: Owlbear (MFR) |
+| 08:55 | **neversshy**: Ride-A-Pet Potion, Beluga Whale (N) | **Leafiieee**: Glyptodon (N) |
+| 08:55 | **najla777777**: Field Mouse (NR) | **Xxskibidy67**: Arctic Fox (NR) |
+| 08:55 | **NathanPlayz83**: Dalmatian (F), Goose, Alpaca (FR) | **pursel23**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Rain Cloud Hat, Ride-A-Pet Potion |
+| 08:55 | **Akrwnkp_0**: Dalmatian (FR), Munchkin Cat | **LechIkLarioP**: Strawberry Shortcake Bat Dragon (FR), Goose |
+| 08:55 | **apidiudu**: Dragonfruit Fox (R), Ice Golem (FR) | **Piska_sanLoshara666**: Jester Dragon (FR) |
+| 08:55 | **jauzyp**: Alpaca | **ll_90dfhj**: Sugar Glider (FR) |
+| 08:55 | **jauzyp**: Fly-A-Pet Potion | **Amzner126**: Naughty Mistletroll |
+| 08:55 | **m4rkyrblx**: Kangaroo (MFR) | **Mimajjhu**: Cabbit (NFR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
