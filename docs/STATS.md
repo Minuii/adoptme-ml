@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 07:55 UTC by the scrape workflow._
+_Updated 2026-11-25 08:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 07:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 29,857 | 2026-11-25T07:45 |
-| elve | 15 | 6,343 | 2026-11-25T07:46 |
+| amvgg | 15 | 30,083 | 2026-11-25T08:00 |
+| elve | 15 | 6,393 | 2026-11-25T08:01 |
 
-## AMVGG completed trades: 62,695 total
+## AMVGG completed trades: 62,697 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 996 |
+| 2026-11-25 | 998 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,8 @@ _Updated 2026-11-25 07:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:00 | **Leafiieee**: Snow Owl ×2, Zodiac Minion Chick (R) | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 08:00 | **Leafiieee**: Shark | **Panci_Terbang33**: Ride-A-Pet Potion |
 | 07:55 | **vladstatpets**: Unicorn Horn | **obv1viella0**: Dango Penguins (NR), Winter Fawn (MR), Cotton Candy Hat, Dango Penguins (R), Ride-A-Pet Potion |
 | 07:55 | **loiol1004**: Dragon (NR), Dragon (N) ×2, Dragon ×3 | **log0uts7**: Ride-A-Pet Potion ×2 |
 | 07:55 | **llIRichie**: Strawberry Tortle, Copycat (R), Brown Springer Spaniel (N), Kitsune (FR), Bee (NR) | **TzxSttar**: Fairy Bat Dragon (FR) |
@@ -52,8 +54,6 @@ _Updated 2026-11-25 07:55 UTC by the scrape workflow._
 | 07:55 | **riversofhope**: Seagull (N) | **NastiGora**: Seagull ×4 |
 | 07:55 | **cut3stbunny**: Fly-A-Pet Potion ×5 | **ItzAina_JPN**: Glormy Hound (NFR) |
 | 07:55 | **Leafiieee**: Robo Dog (FR) | **Yumi_Rose8**: Ride-A-Pet Potion |
-| 07:55 | **Leafiieee**: King Bee (FR) | **Yumi_Rose8**: Ride-A-Pet Potion |
-| 07:55 | **ADASArfs**: Crow (FR), Dalmatian (R), Flamingo (FR), Munchkin Cat | **bri5hellokitty**: Frost Dragon (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
