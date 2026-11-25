@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 07:15 UTC by the scrape workflow._
+_Updated 2026-11-25 07:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 07:15 UTC by the scrape workflow._
 | amvgg | 15 | 29,388 | 2026-11-25T07:15 |
 | elve | 15 | 6,229 | 2026-11-25T07:15 |
 
-## AMVGG completed trades: 62,612 total
+## AMVGG completed trades: 62,638 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 913 |
+| 2026-11-25 | 939 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 07:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:15 | **ccdbgt1**: Fly-A-Pet Potion | **elorste**: Candy Hare |
-| 07:15 | **ADASArfs**: Ride-A-Pet Potion ×7, Fly-A-Pet Potion ×6 | **mawifa123**: Flamingo (FR) |
-| 07:15 | **ccdbgt1**: Ride-A-Pet Potion ×4 | **helloimfromamvorelve**: Snow Owl (NFR) |
-| 07:15 | **Papitascongaseosa_xD**: Retired Egg ×18 | **jvealousss01**: Ride-A-Pet Potion |
-| 07:11 | **yyeeeezyy**: Hot Doggo (NFR), Candicorn (NFR), Undead Jousting Horse (FR), Candy Hare (MFR) | **j867harley**: Cryptid (NFR) |
-| 07:11 | **hdhvsjosh**: Ride-A-Pet Potion ×6, Pet Handler Pro Certificate ×2 | **arseniylolol**: Happy Duckling (MR) |
-| 07:11 | **onyx11414**: Border Collie | **danyypizza121**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×7 |
-| 07:11 | **Straw_shortcakeXD**: Peppermint Penguin (R), Arctic Fox (R), Arctic Fox, Unicorn Horn, Ice Cream Cone Hat, Ride-A-Pet Potion | **ContentOtter9075**: Arctic Reindeer (FR) |
-| 07:06 | **unicorn_queen90919**: Chocolate Dutch Guinea Pig (N), Ride-A-Pet Potion ×4, Drake (NR), Blossom Snake (M) | **nornomm**: Ballet Swan (N) |
-| 07:06 | **Dimka66_Games123**: Kangaroo (FR), Albino Monkey (FR), Ride-A-Pet Potion | **margini_mini**: Cow (FR) |
-| 07:06 | **Anelchik_i**: Ride-A-Pet Potion | **realsainnee**: Soccer Stadium |
-| 07:06 | **Vanlyzn30**: Crystal Egg ×18 | **einxizz**: Ride-A-Pet Potion |
-| 07:06 | **plrbxs**: Goat (R), Dango Penguins, Chocolate Dutch Guinea Pig | **Syshsf237**: Black Macaque (MFR) |
-| 07:06 | **NathanPlayz83**: Chocolate Chip Bat Dragon (FR), Mini Pig (FR), Fairy Bat Dragon (FR), Dango Penguins (R), Ride-A-Pet Potion ×5 | **T3bas1**: Sea Slug (MFR) |
-| 07:06 | **Angi_2oo7**: Siamese Cat (MFR) | **pixiedooo**: Haetyphoon (MFR) |
+| 07:25 | **SirPaulMcCartney4**: Christmas Spirit (NFR) | **iiiPinkyBlossomx**: Puptune ×5 |
+| 07:25 | **pinkysworn**: Evil Unicorn (MFR), Mini Pig (MFR), Christmas Pudding Pup (MFR), Turkey (MFR), Tree Kangaroo (MFR), Cow (R), Strawberry Shortcake Bat Dragon (FR), Cow | **RhodesyMate16**: Frost Dragon (MFR) |
+| 07:25 | **nushido02**: Ride-A-Pet Potion ×2 | **minv9a**: Santa's Sleigh, Choo Choo Train, Pink Scooter, Car Stroller |
+| 07:25 | **L0veChocolatel0ve**: Chocolate Dutch Guinea Pig (MR), Chocolate Dutch Guinea Pig ×3, Pet Handler Pro Certificate | **robloxchangergurl**: Siamese Cat, Snowball Pet (MFR) |
+| 07:25 | **Gonfreecss09111**: Stray Cat Dragon (M) ×6 | **RELLdep**: Candicorn (FR) |
+| 07:25 | **Completly_fine**: Goose (FR), Halo, Munchkin Cat ×2, Jester Dragon | **Gonfreecss09111**: Velocirooster (MFR) |
+| 07:25 | **mawifa123**: Crystal Egg ×18 | **Giulia_SatoruPs4**: Ride-A-Pet Potion |
+| 07:25 | **Svnset_st4r2Xx**: Chocolate Dutch Guinea Pig (MR), Fly-A-Pet Potion | **playpretend2**: Munchkin Cat (FR), Chocolate Dutch Guinea Pig (NFR), Tiny Wings, Ride-A-Pet Potion ×2 |
+| 07:25 | **NathanPlayz83**: Sea Slug (MFR), Pink Cat (NFR) | **kotenokoops**: Cupid Dragon (MFR), Arctic Reindeer (FR), Tortuga de la Isla |
+| 07:25 | **ItzViolet_Plays**: Unicorn Horn, Pupcicle (N), Pupcicle, Fly-A-Pet Potion | **qO_Opli**: 2022 Birthday Party Hat |
+| 07:25 | **boundedmoney**: Dango Penguins (MFR) | **RaphaelaXD123**: Hare (MFR) |
+| 07:25 | **Ali_12xx1**: Ride-A-Pet Potion ×2, Unicorn, Fly-A-Pet Potion | **iiiistyloneiiii**: Unicorn (NFR) |
+| 07:25 | **PixelRider43545**: Cabbit (NFR), Mini Pig (FR) | **seriaIkitty**: Haetae (FR) |
+| 07:25 | **Valentntiji**: Cow (R) | **RoyaleWanderer**: Jekyll Hydra (FR) |
+| 07:25 | **Txskiicatzz**: Dragonfly (NR), Purrowl | **Ali_12xx1**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
