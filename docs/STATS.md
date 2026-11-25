@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 14:01 UTC by the scrape workflow._
+_Updated 2026-11-25 14:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 14:01 UTC by the scrape workflow._
 | amvgg | 15 | 35,479 | 2026-11-25T14:00 |
 | elve | 15 | 7,534 | 2026-11-25T14:01 |
 
-## AMVGG completed trades: 63,618 total
+## AMVGG completed trades: 63,651 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,919 |
+| 2026-11-25 | 1,952 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:00 | **polenka027**: Mini Pig (FR), Copycat (FR), Fly-A-Pet Potion, Kitty Biscuit | **JAYKEYUU**: Turtle (NFR) |
-| 14:00 | **AlphaTaToxicv1047**: Unicorn Horn | **botoxedbody**: 2022 Birthday Cupcake Shoes, Ride-A-Pet Potion |
-| 14:00 | **dtOvsq**: Ride-A-Pet Potion ×2 | **lexytttm22**: Kookaburra |
-| 14:00 | **puppiesxpawws**: Balloon Unicorn (FR), Rainbow Maker, Tiny Wings | **Ishabns01**: Cow (MFR) |
-| 14:00 | **towerlove_gg**: Boohoo (N), Bobageist (N), Pomeranian (N), Bunny (N), Clumpty (N) | **Peaches782014**: Ride-A-Pet Potion |
-| 14:00 | **Ghost_Sparkly435**: Penguin, Sloth, St Bernard, Vulture, Water Moon Bear, Basilisk, Blossom Snake, Gorilla ×2, Koi Carp, Monkey, Pterodactyl, Shetland Pony Dark Brown ×3 | **MakiraLive**: Fly-A-Pet Potion |
-| 14:00 | **botoxedbody**: Unicorn Horn ×3 | **otonite7**: Rainbow Maker |
-| 14:00 | **rainthatxx**: Balloon Unicorn (FR) | **8xczvy**: Cheetah (MFR), Goose (R), Peppermint Penguin (FR), Mule (MR), Jester Dragon, Ride-A-Pet Potion |
-| 14:00 | **iwannabeyours6456**: Chocolate Chip Bat Dragon (R), Turtle (R), Arctic Reindeer (FR), Frost Fury (FR), Kangaroo (R), Werewolf (FR), Lion (NFR), Frost Unicorn (R), Brown Bear (FR), Shrew (FR), Swan (R) | **leruval**: Frost Dragon (FR) |
-| 14:00 | **2046802**: Admin Vision Cap | **XiaoFaye1433**: Pet Handler Pro Certificate |
-| 14:00 | **Naturequeen2342**: Harp Seal (N), Chicken (NR) | **Sxopinxx**: Munchkin Cat (R) |
-| 14:00 | **beatsvic**: Haetae (MFR), Flaming Fox (MFR) | **Rbd_JP**: Owl (MFR), Pink Cat Ear Headphones |
-| 14:00 | **AceGhost92YT**: Crystal Egg ×18 | **Caveenx**: Ride-A-Pet Potion |
-| 14:00 | **GalaxyFrost_D4**: Jellyfish (MFR) | **Loveflowers871**: Rainbow Dragon (MFR), Alley Cat (MFR), Mule (MFR) |
-| 14:00 | **alxymrn**: Mini Pig (FR), Tan Chow-Chow (MR), Bunny Swirl (MR), Happy Clam | **Waq1uxx**: Hare (MFR) |
+| 14:11 | **m1lxnav**: Pain au Chat (N) | **braygraceee**: Ride-A-Pet Potion ×2 |
+| 14:11 | **Svnset_st4r2Xx**: Munchkin Cat (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **lkmsdfw**: Polar Bear (NFR) |
+| 14:11 | **golden_hopper4890237**: Crystal Egg ×18 | **missbacon_01**: Ride-A-Pet Potion |
+| 14:11 | **IsraaxD007**: Cryptid (MFR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6 | **Afkkziyad**: Bat Dragon (FR) |
+| 14:11 | **Sad_Cola1**: Ride-A-Pet Potion | **Naye0n_z**: Little Lamb (M) |
+| 14:11 | **yuumiuro**: Cow (FR) | **stafecas6**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion |
+| 14:11 | **Sytinely**: Kangaroo (FR) | **Pashok_q**: Fly-A-Pet Potion ×10 |
+| 14:11 | **Dodgemyhooks**: Pupcicle ×16 | **dayn_okda12**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion |
+| 14:11 | **eddsworldfan27494**: Arctic Dusk Dragon (FR) | **Kamilalili20**: Jester Dragon (FR) |
+| 14:06 | **MVS_Y3LLOW**: Crow (FR) | **Light_Moon8461**: Strawberry Shortcake Bat Dragon (NFR) |
+| 14:06 | **Belle_love888**: Count Slothula | **cute_babess**: Pangolin, Orca, Ginger Cat, Bobageist ×3, Chilling Spider, Momma Moose, Eggnog Hare |
+| 14:06 | **Skymono_o**: Stray Cat Dragon (M), Stitches (N) | **Ihrtz_angel**: Mistletroll (M) |
+| 14:06 | **Bacontop1of100**: Pig | **liverpool1886**: Ride-A-Pet Potion, Ice Cream Cone Hat |
+| 14:06 | **DRA25466**: Ride-A-Pet Potion ×17 | **Jocamax10**: Kangaroo (FR) |
+| 14:06 | **nasciel_12**: Ride-A-Pet Potion, Fly-A-Pet Potion | **IsraaxD007**: Goldhorn, Glormy Dolphin, Alicorn ×2, Diamond Mahi Mahi, Purrowl ×2, Ancient Dragon ×2, Angus Bull, Skelicorn, Jiggly Jerboa (N), Ocelot (N), Fire Foal (N), Shiba Inu (N), Wolpertinger (N), Pomeranian (N) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
