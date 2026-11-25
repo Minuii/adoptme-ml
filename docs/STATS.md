@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 04:01 UTC by the scrape workflow._
+_Updated 2026-11-25 04:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 04:01 UTC by the scrape workflow._
 | amvgg | 15 | 26,461 | 2026-11-25T04:00 |
 | elve | 15 | 5,681 | 2026-11-25T04:01 |
 
-## AMVGG completed trades: 62,210 total
+## AMVGG completed trades: 62,243 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 511 |
+| 2026-11-25 | 544 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 04:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:55 | **bigbbl589**: Turtle (FR) | **Slushyunicorn0**: Christmas Pudding Pup (N) |
-| 03:55 | **bytsaremyfavourute**: Many Mackerel (MFR), Alpaca (FR), Unicorn Horn, Candyfloss Chick (FR) | **LeonardBass28273**: Honey Badger (MFR), Strawberry Penguin (NFR), Strawberry Penguin (NR), Owlbear (NFR) |
-| 03:55 | **carlo_pro28**: Cow (FR) ×4, Goose ×2 | **Lin68873**: Owl (FR) |
-| 03:55 | **gsysgsgsywgwgwgwge**: Snowball Pug (MFR), Fly-A-Pet Potion | **Julesknocker12**: Munchkin Cat |
-| 03:55 | **xTigrillo06**: Frost Fury (FR), Arctic Fox (FR), Flaming Fox (FR), Hippo (N) | **rafael32087**: Kangaroo (FR) |
-| 03:55 | **angela_umerez4**: Mochi Meow ×9 | **zephyrgoatt**: Ride-A-Pet Potion |
-| 03:55 | **C4K3YK1TTEN**: Elf Hat | **xom6ie**: Pet Handler Pro Certificate |
-| 03:55 | **TMDung20**: Copycat (MFR) ×2, Crocodile (R) | **XxItsYourGirlMiaxX4**: Evil Unicorn (NFR) |
-| 03:55 | **Vanlyzn30**: Crystal Egg ×18 | **Josuwu892**: Ride-A-Pet Potion |
-| 03:55 | **draike_tzu8262**: Humbug, Black Tiger, Muskrat | **rainbow28546**: Retired Egg ×6 |
-| 03:55 | **Robloxiana_xxx2011**: Snow Leopard (MFR) | **Aslie_17**: Ride-A-Pet Potion ×4 |
-| 03:51 | **haileysgirlyx0**: Candicorn (MFR), Husky (MFR), Mule (MFR), Spring Bunny Hood | **RobloxKingEthan724**: Winged Tiger (MFR) |
-| 03:51 | **DefinitelyNotCha6**: Dingo ×4, Woolly Mammoth, Thunderfisher, Sasquatch, Rat, Punk Pony, Orange Betta Fish, Monkey ×4, Merhorse, Ghost Wolf, Emu ×2 | **adoptmejourney83**: Fly-A-Pet Potion |
-| 03:51 | **Antonnyalexander2009**: Hedgehog (FR) | **lifetiger4**: Rainbow Maker, Cabbit (R), Unicorn Horn |
-| 03:51 | **JJJJa02**: Strawberry Shortcake Bat Dragon, Kangaroo (R), Copycat, Copycat (R) | **MILK_666997**: Dalmatian |
+| 04:11 | **7743utu**: Fly-A-Pet Potion ×4 | **S0ul151**: Leopard Cat (M) |
+| 04:11 | **isopawedd**: Cozy Mistletroll, Ladybug, Maine Coon, Tan Chow-Chow, Diamond Dragon, Skelicorn, Easter Bunny, Sea Turtle, Purrowl, Urchin | **XzB3arL3Synth7zX1088**: Ride-A-Pet Potion |
+| 04:11 | **Addmymainpls2332**: Balloon Unicorn (MFR) | **pwrecioushweart**: Goose (MFR), Candyfloss Chick (MFR), Halloween White Ghost Dragon (MFR), Kookaburra (MFR), Husky (MFR), Turtle (FR), Water Rabbit (MFR), Moon Rabbit (MFR), Amami Rabbit (MFR), Tarsier (MFR), Bunny Swirl (MR), Bush Elephant (MFR), Caterpillar (MFR) ×2, Sea Slug (MFR), Siamese Cat (MFR) |
+| 04:06 | **Dasha_melasha212**: Fairy Bat Dragon (FR), Sakura Spirit (FR) | **MinhLovesFurriess**: Cow (FR) |
+| 04:06 | **0n1yAlaina**: Ride-A-Pet Potion ×9 | **Gonzpro5858**: Fly-A-Pet Potion ×5 |
+| 04:06 | **BR4Y4N1027**: Fishbowl Hat | **Lera637154**: Rain Hat |
+| 04:06 | **Martinatu11111**: Cake Friend (MFR), Burger Bear (MFR), Tarsier (MR) | **L0veChocolatel0ve**: Chocolate Dutch Guinea Pig (MFR) |
+| 04:06 | **Vaxcled**: Ride-A-Pet Potion ×15 | **angelkittyyy444**: Kangaroo (FR) |
+| 04:06 | **lavamanos88**: Ballet Swan (NFR), Fly-A-Pet Potion | **dawg1723**: Mermicorn |
+| 04:06 | **robloxgamer_19831**: Strawberry Shortcake Bat Dragon (FR), Munchkin Cat, Chocolate Dutch Guinea Pig | **isabelleadoptme10**: Fairy Bat Dragon (NFR), Ride-A-Pet Potion |
+| 04:06 | **fairyqxfaee**: Ride-A-Pet Potion ×10 | **FlyToTheSaturn**: Shark Puppy (R) |
+| 04:06 | **baconboykindly**: Space Whale, Shetland Pony White | **wvuqil**: Burger Bear |
+| 04:06 | **wvuqil**: Koi Carp ×4, Bunny, Retired Egg ×2 | **sofiaxp0905**: Koi Carp (N) |
+| 04:06 | **qwelvc9**: Cabbit (NFR), Siamese Cat (N), Mini Pig (R), Candicorn (R) | **lupsgrl**: Border Collie (MFR) |
+| 04:06 | **Penguinis_icey**: Giant Panda (FR), African Wild Dog (FR), Haetae (FR) | **Cinzsins**: Haetae (NFR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
