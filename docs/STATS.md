@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 11:01 UTC by the scrape workflow._
+_Updated 2026-11-25 11:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 11:01 UTC by the scrape workflow._
 | amvgg | 15 | 32,805 | 2026-11-25T11:00 |
 | elve | 15 | 6,914 | 2026-11-25T11:01 |
 
-## AMVGG completed trades: 63,099 total
+## AMVGG completed trades: 63,115 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,400 |
+| 2026-11-25 | 1,416 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 11:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:00 | **Santywut1**: Mini Pig (NFR), Frost Unicorn (NFR), Ride-A-Pet Potion ×2 | **xv3mpirezZ**: Haetae (FR), Tiny Wings, Spring Bunny Hood, Halo |
-| 11:00 | **AlphaTaToxicv1047**: Flaming Zebra (MFR) | **xaoichaanx**: Tiny Wings |
-| 11:00 | **mellqxxrb**: Gemstone Egg | **akylonak_genshun**: Classic Trade Stand |
-| 11:00 | **s1ltn0w**: Hot Doggo (MFR), Cabbit (MFR), Strawberry Penguin (MFR), Caelum Cervi (MFR), Alley Cat (MFR), Winged Tiger (F) | **saturnestee**: Crow (MFR) |
-| 11:00 | **epicpulsechaos2024**: Dragonfly ×11 | **hqapui**: Ride-A-Pet Potion |
-| 11:00 | **01_xPhysic**: Peppermint Penguin, Ride-A-Pet Potion ×5 | **viltpool**: Kangaroo (FR) ×2 |
-| 11:00 | **AASDRT_II**: Pancake Stack | **RoseyFlower173**: Fly-A-Pet Potion |
-| 11:00 | **Ilxys_hxyu**: Flaming Fox, Dire Stag | **laycakees**: Fly-A-Pet Potion |
-| 11:00 | **Ilxys_hxyu**: Halloween White Ghost Dragon (FR), Fly-A-Pet Potion | **NyoTheBee**: Jester Dragon |
-| 11:00 | **Ilxys_hxyu**: Well, Actually Walrus Sticker, Robot (N) | **ally_28901**: Frostbite Bear and Cub Animated Sticker |
-| 11:00 | **2creme1sucre**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Crocodile (R) | **2lilly777**: Strawberry Shortcake Bat Dragon (NFR) |
-| 11:00 | **Fifiosi0**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **xas3llx**: African Wild Dog (R) |
-| 11:00 | **LizaTomura15**: Peppermint Penguin (R) | **marsh33567**: Cow (R) |
-| 11:00 | **princess_pizzanice**: Harp Seal (N), Skele-Rex (NFR), Dancing Dragon (R), Halloween White Ghost Dragon (F), Ride-A-Pet Potion | **Cha13ty**: Kangaroo (FR) |
-| 11:00 | **Cupcake_rose201444**: Ice Cream Hermit Crab (MR), Spring Bunny Feet, Spring Bunny Hood, Pancake Stack, Ride-A-Pet Potion ×2 | **milana90618**: Diamond Butterfly (FR) |
+| 11:11 | **bffmade**: Bat Dragon (FR), Dolphin (MR), Ice Cube (M), Kaijunior (MR), Ride-A-Pet Potion | **YakarKizBanuu**: Bat Dragon |
+| 11:11 | **clalouetciedh**: Alicorn ×18 | **ItzAina_JPN**: Fly-A-Pet Potion |
+| 11:11 | **jam0khurt**: Ride-A-Pet Potion ×3 | **Homey_milk1**: Hyena |
+| 11:11 | **rxbloxian11**: Munchkin Cat (FR), Flash Weasel (R) | **Its_besty0**: Kangaroo (R), Dragonfly ×2, Thunderfisher (N) |
+| 11:11 | **ggyyu77y7y2**: Strawberry Shortcake Bat Dragon (FR), Werewolf (FR), Zombie Wolf (NR), Copycat, Moon Rabbit (N), Zombie Wolf (R) | **Frs_88xx**: Cryptid (FR) |
+| 11:11 | **SonicBjjx**: Christmas Pudding Pup | **ARKIN_gamingChannel1**: Ride-A-Pet Potion ×6 |
+| 11:11 | **AsianIceCold**: Turtle (FR), Candicorn (FR), Fly-A-Pet Potion ×3 | **fara_garant**: Turtle (NFR) |
+| 11:11 | **Imabarbiegurl_rawr**: Amami Rabbit (MR) | **cheekyxbean**: Candy Cane Snail (MFR), Stitches (M) |
+| 11:11 | **Japvaxx**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×6 | **fara_garant**: Fairy Bat Dragon (FR) |
+| 11:11 | **Sytinely**: Fly-A-Pet Potion ×3 | **avokado_6001**: Ride-A-Pet Potion ×6 |
+| 11:11 | **luvyerh**: Cow (FR) | **XxkfirxbushxX**: Crocodile (FR), Pig (FR), Shark Puppy (R) |
+| 11:11 | **Sytinely**: Frostbite Bear (R) | **oXoGalaxy_YToXo**: Fly-A-Pet Potion ×9 |
+| 11:11 | **happyfluffy510**: Grim Dragon (FR) ×2, Grim Dragon | **IamnotSarathereal**: Strawberry Shortcake Bat Dragon (FR) |
+| 11:11 | **Dinkarrt**: Ride-A-Pet Potion | **pandica323**: Apple Owl, Koi Carp |
+| 11:11 | **Krasotka1060**: Royal Egg ×2 | **Mariia_905**: Retired Egg ×3 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
