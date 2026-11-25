@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 15:01 UTC by the scrape workflow._
+_Updated 2026-11-25 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 15:01 UTC by the scrape workflow._
 | amvgg | 15 | 36,389 | 2026-11-25T15:00 |
 | elve | 15 | 7,780 | 2026-11-25T15:01 |
 
-## AMVGG completed trades: 63,846 total
+## AMVGG completed trades: 63,890 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 2,147 |
+| 2026-11-25 | 2,191 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:00 | **ira_main**: Purrowl (N) ×2, Purrowl ×2 | **xXDreamqcloudsXx**: Ride-A-Pet Potion |
-| 15:00 | **archie_290**: Cabbit (R) | **wak33_upp**: Cupid Dragon (NFR) |
-| 15:00 | **XXAllyXX6_6**: Golden Lettuce | **kiiurmah**: Ride-A-Pet Potion ×2 |
-| 15:00 | **TahNyaluvs**: Bat Dragon (FR), Bat Dragon, Elephant (MFR) | **xluvvmel**: Blazing Lion (MFR) |
-| 15:00 | **fromnothing_12**: Stray Cat Dragon, Three Blind Mice, Golden Unicorn, Diamond Dragon, Huntsman Robin, Dragonfly, Golden Griffin, Ancient Dragon, Alicorn | **katerina_ishchak**: Ride-A-Pet Potion |
-| 15:00 | **16y97**: Fly-A-Pet Potion | **mawifa123**: Waffle Wyrm (M) |
-| 15:00 | **AyiGamerUwu**: Mummy Spider (N), Pink Dog (N), Jiggly Jerboa (N), Princess Mare (N), Ms. Muffet (N), Rubber Ducky (N), Forest Sprite (N), Halloween White Mummy Cat (R) | **16y97**: Ride-A-Pet Potion |
-| 15:00 | **ilonka_128**: Kangaroo (NFR), Jester Dragon (N), Unicorn (MFR), Velocirooster (FR) | **otonite7**: Strawberry Shortcake Bat Dragon (FR) |
-| 15:00 | **unlimited_food**: Hedgehog (FR) | **Jocamax10**: Evil Unicorn (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×9 |
-| 15:00 | **roplex123480**: Frost Dragon (FR), Crow (FR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Mini Pig (FR) | **Ella_cool172**: Shadow Dragon (FR), Pig (R), Munchkin Cat |
-| 15:00 | **smartfor_Alex**: Wolpertinger ×11, Walrus (N), Walrus | **SPring_I3H**: Wolpertinger (M) |
-| 15:00 | **lina200r**: Ride-A-Pet Potion | **kittysbu1lds**: Christmas Pudding House, Cherry Blossom Tree Sticker ×17 |
-| 15:00 | **xXDreamqcloudsXx**: Ride-A-Pet Potion ×3 | **1lx_1O**: Peachick (M) |
-| 15:00 | **itz_nastyalik**: Squid, Kiwi Kiwi, Dog | **Rainy_rarr**: Ride-A-Pet Potion |
-| 15:00 | **gg986gg**: Thunderfisher ×2, Electric Hornet | **Ksy1432**: Motorized Sofa |
+| 15:11 | **misodoct**: Spring Bunny Hood, Kitsune (NFR), Moose Calf, Chihuahua (N) | **Laktozik1**: Giant Cheetah Mount |
+| 15:11 | **i_slaybruh**: 2021 Uplift Butterfly (NR) | **BarbiePlaysRobloxHD**: Crystal Egg ×12 |
+| 15:11 | **i_slaybruh**: Pilot Gull (MR) | **starswirl_64**: Crystal Egg ×9 |
+| 15:11 | **mamawibi6772**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Midnight Dragon (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **pxrczl**: Strawberry Shortcake Bat Dragon (NFR) |
+| 15:11 | **King1_MoonOpAlt2**: Farm Egg ×2 | **Cristelmylovelove**: Balloon Unicorn (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 15:11 | **SaRa654396**: Siamese Cat (MFR), Munchkin Cat | **ItsLanaMay17**: Strawberry Shortcake Bat Dragon (NFR) |
+| 15:11 | **DrendyRobLox**: Crystal Egg ×15 | **kisrenoalt**: Ride-A-Pet Potion |
+| 15:11 | **acc3m_400**: Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR) | **GeneralPatrick_14**: Frost Dragon (FR) |
+| 15:11 | **Nick_on1Ipad**: Turtle (NFR), Munchkin Cat (MFR), Ice Cream Cone Hat | **manuaxolotyorignl**: African Wild Dog (FR) |
+| 15:11 | **iaMatthieu1**: Arctic Reindeer (FR), Sugar Glider (R) | **ariana_grande535**: Cow (FR) ×3 |
+| 15:11 | **TeezYeez**: Ride-A-Pet Potion ×3 | **opduxl**: Chocolate Chow-Chow (NFR) |
+| 15:11 | **Exx_mexUnU**: Fairy Bat Dragon (NFR) | **kossshkameow**: Munchkin Cat (NFR), Siamese Cat (R), Kangaroo (R), Copycat (R), Owlbear (R), Moose Calf, Ice Cream Hermit Crab |
+| 15:11 | **Baki_bns8**: Cow (FR) | **Slughteer**: Unicorn (MFR) ×2, Spring Bunny Hood |
+| 15:11 | **lolitt4k**: Fairytale Egg ×9 | **coolboy10time**: Mochi Meow |
+| 15:11 | **nuggets0162**: Ride-A-Pet Potion | **muniradypa**: Pain au Chat ×3 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
