@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 22:41 UTC by the scrape workflow._
+_Updated 2026-11-25 22:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 22:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 43,938 | 2026-11-25T22:30 |
-| elve | 15 | 9,308 | 2026-11-25T22:31 |
+| amvgg | 15 | 44,189 | 2026-11-25T22:45 |
+| elve | 15 | 9,370 | 2026-11-25T22:46 |
 
-## AMVGG completed trades: 65,784 total
+## AMVGG completed trades: 65,785 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 4,085 |
+| 2026-11-25 | 4,086 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,7 @@ _Updated 2026-11-25 22:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:45 | **beatsvic**: Giraffe (NFR), Candicorn (MFR), Hyena (MFR), Ice Cream Hermit Crab (MFR), Binturong (MFR), Snow Owl (MFR) | **kaylamicmi**: Crow (MFR) |
 | 22:41 | **mooyakko**: Happy Clam (MFR) | **jordanllover33**: Happy Clam (M) |
 | 22:41 | **zozo17181**: Glacier Moth | **Jelliyuew1**: Burning Bunny (N), Rice Cake Rabbit (N), Mecha R4BBIT (N) |
 | 22:41 | **joylia2091**: Caterpillar, Giant Anteater, Copycat (R), Copycat | **Julee_Lov**: Cabbit |
@@ -53,7 +54,6 @@ _Updated 2026-11-25 22:41 UTC by the scrape workflow._
 | 22:41 | **earth2starnyy**: Ride-A-Pet Potion ×2 | **Xxxxashhhh**: Fly-A-Pet Potion |
 | 22:41 | **kayleighkittycat123**: Nature's Crown, Bunny Ear Tiara | **kamiwasredeemed**: 2022 Birthday 5 Badge |
 | 22:41 | **M4RC0S_R0SSI2**: Bat Dragon (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **icebaby545**: Dalmatian (FR) ×9 |
-| 22:41 | **Ray238z**: Clownfish | **stopdropandrole_3**: Retired Egg ×18 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
