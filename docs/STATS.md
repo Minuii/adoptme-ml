@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 03:31 UTC by the scrape workflow._
+_Updated 2026-11-25 03:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 03:31 UTC by the scrape workflow._
 | amvgg | 15 | 26,038 | 2026-11-25T03:30 |
 | elve | 15 | 5,582 | 2026-11-25T03:31 |
 
-## AMVGG completed trades: 62,161 total
+## AMVGG completed trades: 62,184 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 462 |
+| 2026-11-25 | 485 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 03:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:25 | **JAYKEYUU**: Cow (FR), Arctic Fox (FR) | **noob1962963**: Candicorn (NFR) |
-| 03:25 | **cutesyiza**: Cheetah (MFR) | **RBstela**: Orange Butterfly (MFR), Toy Monkey (MFR), Pancake Stack |
-| 03:25 | **cutesyiza**: Unicorn Backpack | **Aslie_17**: Blue Whale (M) |
-| 03:25 | **s6ythed**: Cryptid (FR), Alley Cat (MFR), Goose (R) | **robloxnaomi3**: Balloon Unicorn (FR), Harp Seal (MR), Skunk (MR) |
-| 03:25 | **tomioka1453792**: Cabbit (FR), Horse And Carriage, Copycat, Ice Cream Hermit Crab, River Otter (MR) | **love_sry0**: Candicorn (N) |
-| 03:25 | **rainbowgirl10821**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **sacrifzt**: Peppermint Penguin (FR) ×2 |
-| 03:25 | **zbingzjjjjj**: Shark Puppy, Matcha Cat, Strawberry Shortcake Bat Dragon (FR), Poodle (N), Donkey (N), Camel (N), Mouse (N) ×3, Well, Actually Walrus Sticker ×9 | **bluebeetle164864**: Frostbite Bear (R) |
-| 03:25 | **carlosvinicius231**: Arctic Reindeer (FR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Mini Pig, Goose (R), Sugar Glider (FR), Albino Monkey (FR) | **qlltm**: Chocolate Chip Bat Dragon (FR), Blue Dog (NFR), Albino Monkey (NFR), Goose (FR), Cow (FR) ×2, Cow (R), Fairy Bat Dragon (FR) |
-| 03:25 | **qlltm**: Mini Pig | **adoptmelover67684**: Puffin (NR), Border Collie (R), Ride-A-Pet Potion ×2 |
-| 03:25 | **1qwerty6709**: Ride-A-Pet Potion ×2 | **anjhienicole00**: Admin Vision Glasses |
-| 03:25 | **Max051812**: Mermicorn (NFR), Ice Cream Cone Hat, Glider | **lolayummy444**: Cabbit (NFR), Pupcicle (NFR) |
-| 03:25 | **isopawedd**: Octopus, Sabertooth | **DellaxKenneth**: Ride-A-Pet Potion |
-| 03:25 | **lolayummy444**: African Wild Dog (NFR), Mermicorn (NFR) | **c10nNeXx**: Giant Panda (NFR) |
-| 03:25 | **4ngxl_4195**: Spring Bunny Nose | **Z0mb1e_R1ot**: Ride-A-Pet Potion ×2 |
-| 03:25 | **overloadeddddddddddd**: Chocolate Chip Bat Dragon (FR) | **ANNAPAGAME**: Jester Dragon (MFR) |
+| 03:40 | **ExclusivelyRarity**: Highland Cow (M), Ghost Dog (NR) | **Abrahamspideymickey**: Toaster Hat, Chihuahua |
+| 03:40 | **NathanPlayz83**: Crow (FR), Cow (FR) | **Cinzsins**: Velocirooster (MFR), Polar Bear (MFR), Chocolate Dutch Guinea Pig (MFR) |
+| 03:40 | **Panci_Terbang33**: Ginger Cat ×18 | **Depondip**: Ride-A-Pet Potion |
+| 03:40 | **Panci_Terbang33**: Orca ×18 | **Depondip**: Ride-A-Pet Potion |
+| 03:40 | **Panci_Terbang33**: Pomeranian ×18 | **Inganta07**: Ride-A-Pet Potion |
+| 03:40 | **xxjohnjokexx**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Goose (FR), Kangaroo (FR) | **watatatata022**: Frost Dragon (FR) |
+| 03:40 | **WhinyBuny**: Turtle (FR) | **kecoze**: 2022 Birthday Party Hat |
+| 03:40 | **frogan55**: Haetyphoon (M) | **pixiedooo**: Blazing Lion (FR) |
+| 03:40 | **cutesyyxharleyss**: Majestic Pony (MFR), Great Pyrenees (MFR), Sandbox Island | **OMG4ZXLA**: Red Dutch Guinea Pig (MFR) |
+| 03:40 | **roplex123480**: Turtle, Kangaroo (FR) ×2, Frost Fury (FR), Aussie Egg | **ii_aldrin20**: Chocolate Chip Bat Dragon (FR) |
+| 03:36 | **lolayummy444**: Hot Doggo (NFR) | **mikepower240508**: Winged Tiger (NFR), Cherry-On-Top, Copycat (NR) |
+| 03:36 | **azxpredxtorn**: Ballet Swan ×2, Moose Calf, Latte Kitsune, Unicorn (NFR) | **Tammieloveyt**: Candicorn (FR) |
+| 03:36 | **JuJuisdecent3742**: Chihuahua (N) | **AleinaSaGa**: Fly-A-Pet Potion |
+| 03:36 | **Tates1ush**: Glacier Moth (MFR) | **hiimsolucky123**: Mini Pig (FR), Leviathan (MFR), Ring-Tailed Lemur |
+| 03:36 | **loiol1004**: Ancient Dragon (N) ×3, Ancient Dragon ×2, Billy Goat | **MEGAWARRIOR254**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
