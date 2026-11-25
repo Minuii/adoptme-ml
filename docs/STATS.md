@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 05:25 UTC by the scrape workflow._
+_Updated 2026-11-25 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 27,630 | 2026-11-25T05:15 |
-| elve | 15 | 5,890 | 2026-11-25T05:15 |
+| amvgg | 15 | 27,849 | 2026-11-25T05:30 |
+| elve | 15 | 5,949 | 2026-11-25T05:31 |
 
-## AMVGG completed trades: 62,399 total
+## AMVGG completed trades: 62,408 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 700 |
+| 2026-11-25 | 709 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **olddeathcore**: Turtle (NFR) | **CookieGothic**: Sunflower Friend (NFR), Violet Friend (NFR), Bakeneko (NFR), Snowy Mammoth (NFR), Bison (NFR), Hippo (MFR), Silverback Gorilla (NFR), Hippogriff (NFR), Tealwood Monster (NFR), Glyptodon (MR), Sloth (NR), Blue Whale (NFR), Winged Horse (NFR), Gumball Caterpillar (NFR), Ghostly Cat (NFR), Bat (NR), Peachick (NFR), Zombie Chick (NFR) |
+| 05:30 | **sore1017**: Christmas Pudding Pup, Chihuahua (N), Ride-A-Pet Potion, 2022 Birthday 5 Badge | **kamiwasredeemed**: Munchkin Cat |
+| 05:30 | **Fourcast008**: Mule (MFR), White Sand Dollar (MFR) | **moonvboba**: Moose Calf (MFR) |
+| 05:30 | **iamcute630**: Narwhal ×3, Merhorse, Scarlet Butterfly ×2, Raccoon | **Secret_Secretov321**: Ride-A-Pet Potion |
+| 05:30 | **vxzzz632**: Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×4 | **VON_200977**: Turtle (FR) |
+| 05:30 | **forso_manyacc**: Goose | **Cubito_Games**: Peppermint Penguin (FR) |
+| 05:30 | **kaibodydump**: Giant Panda (FR) | **P1PS1E**: Honey Badger (MFR) |
+| 05:30 | **beto17521**: Kangaroo (FR), Kangaroo (R) | **cxar_25**: Cow (R), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 05:30 | **ssundylan**: Blue Dog (MFR), Pink Cat (MFR), Red Dutch Guinea Pig (MFR), Chicken (MFR) | **cwupidbrae**: Mini Pig (MFR) |
 | 05:25 | **loiol1004**: Spinosaurus (N), Spinosaurus, Elasmosaurus (N), Dilophosaurus, Ankylosaurus ×2, Brachiosaurus (M), Velociraptor (N), Stegosaurus, Primal Kaijunior ×2, Toxic Kaijunior, Kaijunior (N), Kaijunior (R), Kaijunior ×4 | **iuvzjules**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion |
 | 05:25 | **Yamajyjopyvazelinov1**: Shiver Wolf, Snowman, Ermine | **fallfashionn**: Ride-A-Pet Potion |
 | 05:25 | **User125434665890**: Monkey (M), Giant Anteater | **kagurasgl0w**: Propeller Hat, Sandwich Hat, Jeff's Nametag |
 | 05:25 | **plushioss**: Arctic Dusk Dragon (NFR) | **SUPERPENGUIN0111**: Happy Duckling (MFR), Water Rabbit (N), Ride-A-Pet Potion ×2, Fly-A-Pet Potion |
 | 05:25 | **lokazorriti**: Fly-A-Pet Potion ×5, Pet Handler Pro Certificate ×4, Ride-A-Pet Potion, Copycat | **quu1fx**: Mermicorn (R) |
 | 05:25 | **jayden190614**: Arctic Reindeer (NFR), Dango Penguins (M), Red Sand Dollar (MFR), Ranger Beaver (MFR), Indian Flying Fox (MFR), Unicorn Horn | **xyudrocher666**: Haetae (FR) ×2 |
-| 05:25 | **AndresPatato**: Chocolate Labrador (M), Snow Cat (M), Poodle (M) | **bellettuce20**: Ride-A-Pet Potion |
-| 05:25 | **kdkejwjsjd**: Giant Gold Scarab (R) | **ender_wn**: Giant Gold Scarab |
-| 05:25 | **Emillysnowcat6**: Capricorn (NFR), Dango Penguins | **sceptical46**: Aviator Hat, Icey Aura, Pirate Hat, Strawberry Shortcake Bow, Ruff, Jester Hat, Gold Fairy Crown, Halloween White Skull Hat, Buttoned Ushanka, Gold Circle Glasses, Gold Tiara, Bunch Of Balloons |
-| 05:25 | **settlingpetals**: Little Lamb (M) | **LYIZA_1976**: Ride-A-Pet Potion |
-| 05:25 | **Kjghkkl51**: Goose (FR), Cow (FR) | **ii_aldrin20**: Strawberry Shortcake Bat Dragon (FR) |
-| 05:20 | **BeanXPolarbear**: Diamond Ladybug (MFR), Flaming Zebra (M), 2022 Birthday Confetti Cannon | **Lola_ant34**: Aestus (MFR) |
-| 05:20 | **lilmlp**: Candyfloss Chick (R) | **LinaIsGone**: Candicorn |
-| 05:15 | **Gabo_XD202**: Ride-A-Pet Potion, Naughty Mistletroll | **loiol1004**: Dimorphodon (N) |
-| 05:15 | **vivvlly**: Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion ×3 | **luiscae3**: Matcha Cat |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
