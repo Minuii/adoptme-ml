@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 23:16 UTC by the scrape workflow._
+_Updated 2026-11-25 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 23:16 UTC by the scrape workflow._
 | amvgg | 15 | 44,684 | 2026-11-25T23:15 |
 | elve | 15 | 9,462 | 2026-11-25T23:15 |
 
-## AMVGG completed trades: 65,863 total
+## AMVGG completed trades: 65,884 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 4,164 |
+| 2026-11-25 | 4,185 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 23:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:11 | **hojujuonabeat**: Sheeeeep (MFR), Elephant (R), Shrew (N), Chick (MFR) | **LeticiaFaria_10**: Crow (FR) |
-| 23:11 | **werreriss0**: Primal Kaijunior (MR) | **Vacia_m78**: Christmas Pudding Pup, Sour Glider |
-| 23:11 | **starswirl_64**: Koi Carp ×4 | **Sxquencx**: Ride-A-Pet Potion |
-| 23:11 | **Usuario30x**: Moose Calf (N), Fly-A-Pet Potion | **lilmissbunnycorn**: Crocodile (FR) |
-| 23:11 | **iiWxllowCloudz**: Strawberry Tortle | **AressT40**: Glacier Kitsune (NFR), Count Slothula, Hamster (NR), Ride-A-Pet Potion ×2 |
-| 23:11 | **vamp_0572**: Fly-A-Pet Potion ×5 | **Vxarisottle**: Ride-A-Pet Potion ×9 |
-| 23:11 | **kxoggs**: Crow (FR), Blazing Lion (FR) | **st1assda**: Frost Dragon (FR), Ride-A-Pet Potion ×2 |
-| 23:11 | **waydrown**: Shrew | **Babyofy5**: Spring Bunny Nose, Pancake Stack |
-| 23:11 | **Atchepihinka228**: Beluga Whale (MR) | **jilljaz**: Ride-A-Pet Potion ×2 |
-| 23:11 | **EchoXBZTigerZZSparkl**: Polar Bear (MFR), Cupid Dragon (MFR) | **2019khwjueg**: Haetyphoon (MFR) |
-| 23:11 | **AaronsAltAcc223**: Apple Owl (MFR), Toxic Kaijunior | **baibai_nainai00**: Chihuahua (MFR), Birthday Butterfly 2024 (MFR), Momma Moose (M), White Chef Hat |
-| 23:11 | **Sofi_sp117**: Ride-A-Pet Potion ×5, Koala (R) | **emmy_thepea**: Fly-A-Pet Potion ×3 |
-| 23:11 | **Xnixht**: Crystal Egg, Retired Egg ×3 | **lizacka_milk**: Sasquatch |
-| 23:11 | **Adoptmekid67643**: Halo, 2022 Birthday Confetti Cannon, Kitsune (MFR), Snowball Pug (MR) | **awhmeliqs**: Rainbow Maker |
-| 23:11 | **tuffpose**: Ride-A-Pet Potion | **Artem_21a2**: Vanilla Penguin |
+| 23:20 | **gockipon**: Frost Fury (FR), Kitty Bat (NFR), Munchkin Cat (R) | **jokerako28**: Kangaroo (FR) |
+| 23:20 | **cyptiaI**: Vol. 2 Pets Plus Sticker Pack | **BIg_BoRdy**: Ride-A-Pet Potion |
+| 23:20 | **xiivra**: Munchkin Cat (R) | **adynn12**: Cozy Cabin |
+| 23:20 | **isa4eternity**: Red Squirrel (MFR), Winged Tiger (FR) | **Roblo_mmm**: Ghost Bunny (MFR) |
+| 23:20 | **Ana_princess2013**: Pet Handler Pro Certificate, Fly-A-Pet Potion, Tuxedo Cat (N), Chihuahua (R) | **unicornsparkles0926**: Chihuahua (M) |
+| 23:20 | **shenshenzzz14**: Pet Handler Pro Certificate | **Skz_bts176**: Fly-A-Pet Potion |
+| 23:20 | **Ilikebeyonce1717**: Unicorn Horn, Dragonfruit Fox, Fly-A-Pet Potion, Munchkin Cat, Toaster Hat | **Nezuko_tojiru**: Dango Penguins (MFR) |
+| 23:20 | **6arixia**: Munchkin Cat, Toaster Hat | **Ilikebeyonce1717**: Latte Kitsune (NFR) |
+| 23:20 | **FAKEACCDW123**: Unicorn Horn | **Ilikebeyonce1717**: Mecha Meow (MFR), Matcha Cat |
+| 23:20 | **pigizak**: Peachick (M) | **XxAlexTheBossVibesxX**: Choco Penguin ×4, Cake Friend ×4 |
+| 23:20 | **denis_radinskil**: Three Blind Mice, Ride-A-Pet Potion, Chihuahua | **Roblo_mmm**: Harp Seal |
+| 23:20 | **NADA_urfavgirlduh**: Copycat (NR) | **ll_llllpn**: French Bulldog (MFR) |
+| 23:20 | **chapa4ka579**: Gecko ×9 | **DwWsHZ_2003**: Ride-A-Pet Potion ×3 |
+| 23:20 | **Pasq_nl**: Dango Penguins (MFR) | **Berryavenueslag**: Dango Penguins (M) |
+| 23:20 | **isopawedd**: Retired Egg | **cutorkitten**: Clubtail Dragonfly |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
