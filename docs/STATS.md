@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 10:25 UTC by the scrape workflow._
+_Updated 2026-11-25 10:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 10:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 32,149 | 2026-11-25T10:15 |
-| elve | 15 | 6,761 | 2026-11-25T10:15 |
+| amvgg | 15 | 32,375 | 2026-11-25T10:30 |
+| elve | 15 | 6,799 | 2026-11-25T10:31 |
 
-## AMVGG completed trades: 63,003 total
+## AMVGG completed trades: 63,020 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,304 |
+| 2026-11-25 | 1,321 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 10:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:25 | **hexyzbagoc31**: Peppermint Penguin (FR), Goose (FR), Cow (R), Fly-A-Pet Potion ×4, Pet Handler Pro Certificate, Dragonfruit Fox (R), Cow (FR) | **sophsroblocxacc2**: Balloon Unicorn |
-| 10:25 | **RBstela**: Cheetah (MFR) ×2, Wooly Rhino (M), 2022 Birthday Party Hat, Volcanic Rhino (M), Castle Hermit Crab (MFR), Flaming Fox (MFR), Penguin (MFR), Count Slothula (N), Koala (NR), Ride-A-Pet Potion | **leruval**: Owl (FR) |
-| 10:25 | **h4_cd**: Chihuahua | **kawaixi_xgamer**: Squid |
-| 10:25 | **Crystal_xyts**: Chihuahua ×5 | **kaitlyn_candyapple**: Fly-A-Pet Potion |
-| 10:25 | **Paulabtg335**: Vanilla Penguin, Ride-A-Pet Potion, T-Rex | **ABCDEFDHIJF**: Alley Cat |
-| 10:20 | **cwcfanforlife65r**: Gingerbread Sleigh, Husky Sled, Ice Cream Truck, Douglas, Horse And Carriage, Glider, Toxic Barrel | **ZOliverTurboz**: Giant Cheetah Mount |
-| 10:20 | **AASDRT_II**: Criosphinx (NFR) | **bebengpogi1362**: Fly-A-Pet Potion |
-| 10:20 | **bebengpogi1362**: Copycat ×2, Fly-A-Pet Potion | **rayqalpenang7856**: Mechapup (FR) |
-| 10:20 | **caxar_ok2351**: Unicorn (NFR) | **the_randomgirl1812**: River Otter (M), Black-Footed Ferret (M), Winter Fawn (M), Turtle Doves (N), Winged Horse |
-| 10:20 | **3lind3r**: Glormy Dolphin ×4 | **MuhaTrade**: Ride-A-Pet Potion |
-| 10:20 | **iiPurplegalaxy127**: Orchid Butterfly (R), Parrot (NFR), Crow (NFR), Ride-A-Pet Potion | **Ogingagh1011**: Giraffe (NFR) |
-| 10:20 | **diiv_iine**: Elephant (FR), Elephant (R), Aurora Fox (R), Chocolate Dutch Guinea Pig (N), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **11Anime_Love1**: Elephant (NFR) |
-| 10:20 | **atomicbubu**: Chocolate Chip Bat Dragon (FR), Frost Fury (FR) | **MrCr1msonbeargirlBlo**: Arctic Reindeer (FR) |
-| 10:20 | **RosuMeIi**: Fly-A-Pet Potion, Pet Handler Pro Certificate, Ride-A-Pet Potion ×3 | **XDonaltroniskersonX**: Haetyphoon |
-| 10:20 | **AASDRT_II**: Wolf (NR) | **neversshy**: Ride-A-Pet Potion |
+| 10:30 | **angela_umerez4**: Strawberry Shortcake Bat Dragon (FR) | **GeneralPatrick_14**: Chocolate Chip Bat Dragon (FR) |
+| 10:30 | **0MoonlitXMeadow0**: Goose (FR), Goose (R) ×3, Elephant (NR) | **adoptmememe68**: Crow (FR) |
+| 10:30 | **Youmyrii**: Chocolate Chip Bat Dragon (FR) | **chantking0910**: Peppermint Penguin (R) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 10:30 | **NOOBinROBLOX2022**: Cryptid (FR), Spring Bunny Hood, Fly-A-Pet Potion, Maine Coon (R), Diamond Unicorn, Golden Unicorn, Golden Ladybug, Robo Dog, Jacobin Pigeon (M), Sea Turtle (N), Priceless Shrimp, Stray Cat Dragon, Sloth, Husky Sled, Flying Cloud, Santa's Sleigh | **kykykykyky_yy**: Evil Unicorn (FR) |
+| 10:30 | **batton0955**: Fly-A-Pet Potion | **AASDRT_II**: Pancake Stack |
+| 10:30 | **Dinkarrt**: Ride-A-Pet Potion | **frrisstaill**: Mr. Whiskerpips, Kiwi Kiwi |
+| 10:30 | **lennaypenny**: Koi Carp (M) | **Thomatheus12**: Fly-A-Pet Potion ×2 |
+| 10:30 | **luvyerh**: Elephant (R) | **samesame1279**: Crocodile (FR), Ride-A-Pet Potion ×2 |
+| 10:30 | **lba_fofe**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) ×2, Cow (FR) ×2, Goose (FR), Fairy Bat Dragon (FR), Cow (R), Sugar Glider (FR), Turtle (FR) ×2, Alpaca (FR), Kangaroo (R), Kangaroo, Elephant (FR) ×2, Elephant (R), Aurora Fox (FR) | **0MoonlitXMeadow0**: Parrot (FR) ×2, Evil Unicorn (FR) ×2 |
+| 10:30 | **0MoonlitXMeadow0**: Owl (FR), Pig (R) | **N0T_ASQ1T**: Dalmatian, Cow, Peppermint Penguin, Elephant ×2, Kangaroo, Goose |
+| 10:30 | **LAHNLAHNLAHN**: Ride-A-Pet Potion | **Vadjik12**: Pupcicle, Lunar Ox, Fanghorn Tortoise, Woodpecker |
+| 10:30 | **AASDRT_II**: Fleur De Ice (NR) | **ventisnumb3r1fan**: Ride-A-Pet Potion |
+| 10:30 | **qwersonyarso**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion | **cya_adoptmechallange**: Kangaroo (FR) |
+| 10:30 | **cwstza**: Crow (FR), Dalmatian (FR), Turtle (FR), Ride-A-Pet Potion ×2 | **roboy2911**: Frost Dragon (FR) |
+| 10:30 | **Queenayeshacutegirl**: Chihuahua ×2, Pain au Chat | **adlouise**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
