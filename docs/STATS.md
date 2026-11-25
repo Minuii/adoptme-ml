@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 02:46 UTC by the scrape workflow._
+_Updated 2026-11-25 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 02:46 UTC by the scrape workflow._
 | amvgg | 15 | 25,355 | 2026-11-25T02:45 |
 | elve | 15 | 5,442 | 2026-11-25T02:46 |
 
-## AMVGG completed trades: 62,079 total
+## AMVGG completed trades: 62,099 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 380 |
+| 2026-11-25 | 400 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 02:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:45 | **pusilups**: Crow (FR), Cow (FR) ×2, Jellyfish (NFR) | **NathanPlayz83**: Undead Jousting Horse (NFR), Jekyll Hydra (NFR), Frost Unicorn (FR) |
-| 02:45 | **DefinitelyNotCha6**: Show Pony ×4, Robin ×2, Kid Goat, Ground Sloth ×3, Chick, Bandicoot ×3, Stegosaurus, Rock, Rat ×2 | **chihiro9932**: Fly-A-Pet Potion |
-| 02:45 | **CrownedCarp3964**: Fallow Deer (NR) | **O_ZIROX4**: Werewolf (R) |
-| 02:45 | **LovinxqHev**: Scarebear (MFR) | **leilanigirl1224**: Zombie Wolf (MFR) |
-| 02:45 | **gaslightingamers**: Shadow Dragon (FR), Blazing Lion (FR), Amethyst Penguin, Turtle (NFR) | **hanb3ki**: Bat Dragon (FR) |
-| 02:45 | **RyukkHolder**: Parrot (FR) | **BLISS_CHRISTI**: Cryptid (FR), Jester Dragon (MFR), Dodo (NFR), Snow Owl (NFR) |
-| 02:45 | **qwersonyarso**: Stray Cat Dragon ×9 | **chihiro9932**: Fly-A-Pet Potion |
-| 02:45 | **Proboygamer1085**: Ice Cream Cone Hat, Santa Hat | **helloimfromamvorelve**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×8 |
-| 02:45 | **youchi_nagi**: Bush Elephant (FR), Alley Cat, Winged Tiger, Fly-A-Pet Potion | **X0LuvyouX0**: Cow (FR) |
-| 02:45 | **mgodson6**: Peppermint Penguin (MFR) | **reni2912**: Giraffe (FR) |
-| 02:45 | **christoqherrr**: Chocolate Dutch Guinea Pig, Clownfish | **yoshi_shrine**: Ninja Monkey |
-| 02:45 | **xxdreamywolfxx4**: Diamond Unicorn, Glormy Crab, Baku, Ride-A-Pet Potion | **KATSEYE_8953**: Pet Handler Pro Certificate |
-| 02:45 | **nkosovaa**: Cryptid (FR), Mini Pig (FR), Cupid Dragon (FR), Ride-A-Pet Potion | **DragonClaw7314**: Strawberry Shortcake Bat Dragon (NFR) |
-| 02:45 | **fleshsprinklesz**: Dango Penguins | **ClayTyoof**: Shiver Wolf (NR) |
-| 02:45 | **wolf60_09**: Pupcicle (NR), Pinkypillar (MFR), Pinkypillar (N), Stray Cat Dragon (M), Japanese Snow Fairy (M), Waffle Wyrm (N), Black-Footed Ferret (N), Persian Cat (N), Dracula Parrot, Orca (N), Toy Poodle, Cattuccino ×2, California Condor (N) ×2, Fly-A-Pet Potion, Jester Dragon, Ride-A-Pet Potion | **2sxfyy**: Candicorn |
+| 02:51 | **cnn1b1lsm**: Shadow Dragon Ducky (M), Catte (N) | **HeartsForEli_1406**: Toaster Hat |
+| 02:51 | **Homey_milk1**: Ride-A-Pet Potion, Lemonade Stand | **bikosh_s1**: Rhino |
+| 02:51 | **aavqaii**: Ride-A-Pet Potion, Kiwi Kiwi, Flower Power Duckling | **buang2oo**: Fly-A-Pet Potion |
+| 02:51 | **pexrldiver**: Sushi Penguin | **herfaklo**: Ride-A-Pet Potion |
+| 02:51 | **ExclusivelyRarity**: Binturong (MFR) | **C4K3YK1TTEN**: Ghost Dog (NR), Highland Cow (MR), Shark (NR) |
+| 02:51 | **Jassychi**: Snow Monkey (MFR), Rainbow Maker, Spring Bunny Nose, Dango Penguins | **NOBIIIEEE11**: Hot Doggo (NFR) |
+| 02:51 | **MetaWin_cel**: Ride-A-Pet Potion, Unfortunate Eyelashes | **Polina_lana3**: Dolphin Cruiser, Stitches (N), Crimson Cape (N), Pandaguin Glooptodog (N), Clumpty (N), Paint Sealer |
+| 02:51 | **Amy_hhd**: Red Dutch Guinea Pig (N) | **danie13jayne**: Border Collie (FR) |
+| 02:51 | **ShuvalovDmitry**: Owlbear (MFR), Crocodile (NFR), Lion Cub (NFR), Vampire Dragon (FR), Zombie Wolf (N) | **abigailrubytail_2**: Arctic Reindeer (FR) ×2 |
+| 02:51 | **maurita679**: Violet Butterfly (N) | **MPJ1110**: Ice Cream Cone Hat |
+| 02:51 | **pop3791020**: Glacier Kitsune (FR) | **Alina_gfg890**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
+| 02:51 | **quesidella**: Mini Pig (FR), Munchkin Cat (R) | **Leelolxo**: Flamingo (NFR) |
+| 02:51 | **0R0RY0**: Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **flmziia**: Alley Cat |
+| 02:51 | **Lxdyxx**: Royal Palace Spaniel (MFR), Sugar Glider (FR), Chocolate Dutch Guinea Pig (MR), Dimorphodon (N), Hare, Jeff's Nametag | **K1MM007**: Arctic Dusk Dragon (MFR) |
+| 02:51 | **Josuwu892**: Ride-A-Pet Potion ×2 | **lovealleycats**: Fly-A-Pet Potion, Crystal Egg ×3 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
