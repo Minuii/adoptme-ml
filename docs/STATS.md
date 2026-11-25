@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 12:01 UTC by the scrape workflow._
+_Updated 2026-11-25 12:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 12:01 UTC by the scrape workflow._
 | amvgg | 15 | 33,671 | 2026-11-25T12:00 |
 | elve | 15 | 7,100 | 2026-11-25T12:01 |
 
-## AMVGG completed trades: 63,229 total
+## AMVGG completed trades: 63,253 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,530 |
+| 2026-11-25 | 1,554 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:00 | **Elroy_maktum**: Bunny Swirl (MFR), Mule (N), Pig (R), Ice Cream Hermit Crab (NR) | **lol_whateverx67hsk81**: Cow (FR) |
-| 12:00 | **redjuice362**: Silverback Gorilla (R) | **Keitaro_883**: Ride-A-Pet Potion ×5 |
-| 12:00 | **cms_6295**: Unicorn (MFR) | **ZxCkenji**: Crocodile (FR) |
-| 12:00 | **Inganta07**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion | **Adopt1919w1**: Flash Weasel ×5 |
-| 12:00 | **leidydamelike**: Dalmatian (R), Arctic Fox (FR), Winged Horse | **MARIAina_1**: Strawberry Shortcake Bat Dragon (F), Hot Doggo (R) |
-| 12:00 | **JellyWolfShadow2006**: Haetae (FR), 2022 Birthday Cake | **nokia23pop**: Arctic Reindeer (NFR) |
-| 12:00 | **khaoixx**: Aztec Egg ×18 | **0002000200020021LIA4**: Ride-A-Pet Potion |
-| 12:00 | **Caydyywaydyy**: Tree Kangaroo (MFR), Candy Hare (MFR) | **Auds191102**: Fallow Deer (MFR) |
-| 12:00 | **RU0871**: Kangaroo (NFR), Kangaroo (FR), Candicorn | **KinaToons**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:00 | **LittleHeartPlays**: Catte, Chihuahua, Pain au Chat ×2, Castle Hermit Crab, Irish Elk, Pudding Cat, Eggnog Dog, Frog | **KeineAhnungvonnix1**: Ermine (MR) |
-| 12:00 | **manualep8**: Copycat ×2, Crocodile, Ember Wings, Burger Boots, Rain Hat | **Tal_Kazman**: Monkey King (FR) |
-| 12:00 | **Altforvincent37**: Unicorn Horn, Pet Handler Pro Certificate, Shadow Dragon Ducky (N), 2022 Birthday 5 Badge, White Chef Hat | **Tal_Kazman**: 2022 Birthday Party Hat |
-| 12:00 | **chn1r**: Hare | **EmiliOnlyMyy**: Ride-A-Pet Potion ×2 |
-| 12:00 | **styIeher**: Copycat (NR), Pupcicle, Ride-A-Pet Potion, Mummy Spider (M), Squid | **Chadreedpalmares07**: Siamese Cat (R) |
-| 12:00 | **b1beHw4tzurnim**: Ride-A-Pet Potion ×4 | **ten_ferko**: Ballet Swan |
+| 12:11 | **CEMEH_HOCKOB**: Ride-A-Pet Potion | **clalouetciedh**: Dragonfly ×16 |
+| 12:11 | **ShadowMashy**: Unicorn ×2, Pain au Chat ×4, Hawk (FR) | **varmitrof**: Dango Penguins |
+| 12:11 | **Akeem8903133333**: Pig | **SuperMagicFaith**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 12:11 | **Prettyme9110**: Ride-A-Pet Potion | **AceGhost92YT**: Crystal Egg ×18 |
+| 12:06 | **addmysecondaccount**: Ride-A-Pet Potion | **AceGhost92YT**: Crystal Egg ×18 |
+| 12:06 | **Gu_chek**: Arctic Reindeer (FR), Ride-A-Pet Potion ×2 | **ksjdjsky**: Strawberry Shortcake Bat Dragon (FR), Arctic Fox (R) |
+| 12:06 | **ere30004**: Mermicorn (NFR), Chocolate Chip Bat Dragon (NFR), Arctic Fox (FR), Sakura Spirit (R), Kitty Bat (MFR), Stray Cat Dragon (MR) | **6Dolbank6**: Frost Dragon (FR) |
+| 12:06 | **LaraIphone16e**: Christmas Pudding House | **LotusEr11**: Harvest Truck |
+| 12:06 | **snyyyp**: Flamingo (NR), Ride-A-Pet Potion | **diiv_iine**: Flamingo (NFR) |
+| 12:06 | **snyyyp**: Mini Pig (R), Ride-A-Pet Potion | **diiv_iine**: Mini Pig (FR) |
+| 12:06 | **itzme_Mochiforever**: Pretty Pony (MFR) | **mimi_andtom**: Ram, Mini Schnauzer, S'mores Raccoon, Tuxedo Cat, Black Springer Spaniel, Chocolate Dutch Guinea Pig, Lynx, Cheetah, Swan ×2, Harp Seal, Moon Rabbit, Unicorn, Pupcake |
+| 12:06 | **jilljaz**: Mini Pig (MFR), Siamese Cat (MFR), Winged Tiger (R), Ice Cream Cone Hat | **s1ltn0w**: Balloon Unicorn (NFR) |
+| 12:06 | **Tree092109**: Ride-A-Pet Potion | **Alina_02445**: Panda |
+| 12:06 | **hearts4him01211**: Alpaca (FR), Cabbit (FR) | **KufoXD**: Border Collie (NFR), Tiny Wings |
+| 12:06 | **EVGPOP90**: Fly-A-Pet Potion ×2 | **chn1r**: S'mores Raccoon (N) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
