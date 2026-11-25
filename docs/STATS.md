@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 10:11 UTC by the scrape workflow._
+_Updated 2026-11-25 10:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 10:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 31,891 | 2026-11-25T10:00 |
-| elve | 15 | 6,727 | 2026-11-25T10:01 |
+| amvgg | 15 | 32,149 | 2026-11-25T10:15 |
+| elve | 15 | 6,761 | 2026-11-25T10:15 |
 
-## AMVGG completed trades: 62,981 total
+## AMVGG completed trades: 62,984 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,282 |
+| 2026-11-25 | 1,285 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,9 @@ _Updated 2026-11-25 10:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:15 | **lipt0n_T0p22867**: Ride-A-Pet Potion | **zianagirls**: S'mores Raccoon |
+| 10:15 | **12kyanni12k**: Diamond Amazon (MFR) | **Fourcast008**: Pain au Chat (MFR), Mule (MFR), French Bulldog (MR), White Sand Dollar (MFR), Puffer Fish (MFR), Binturong (NFR), Binturong (N) ×3 |
+| 10:15 | **M1dnight_moons**: Spring Bunny Hood | **FelixUwUCute**: Hero Gibbon (R) |
 | 10:11 | **NOBODYknows_1100**: Fly-A-Pet Potion, Ride-A-Pet Potion | **AlastorDanger**: Alley Cat |
 | 10:11 | **diegxitt**: Unicorn | **peepyplops**: Ride-A-Pet Potion |
 | 10:11 | **ksjdjsky**: Turtle (FR) ×2, Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **7pctuxx**: Strawberry Shortcake Bat Dragon (FR) |
@@ -51,9 +54,6 @@ _Updated 2026-11-25 10:11 UTC by the scrape workflow._
 | 10:11 | **qwersonyarso**: Eggnog Dog (N) | **AHHA10040**: Ride-A-Pet Potion |
 | 10:11 | **jikipikil**: Cow (FR), Turtle (FR), Owl (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion, Ride-A-Pet Potion, Unicorn, Golden Bone, Red Squirrel (R) | **iisakurarblx**: Frost Dragon (FR) |
 | 10:06 | **Ilovdsonics**: Drake (MFR) | **kaylamicmi**: Frostbite Bear, Fly-A-Pet Potion ×2 |
-| 10:06 | **ameyyass**: Fly-A-Pet Potion | **aitana_aiii**: Flaming Fox |
-| 10:06 | **ameyyass**: Ride-A-Pet Potion ×2 | **nly4sh**: Easter Bunny (M) |
-| 10:06 | **AsianIceCold**: Kangaroo (R) | **kossshkameow**: Candicorn (FR) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
