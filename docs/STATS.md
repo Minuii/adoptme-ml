@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 18:01 UTC by the scrape workflow._
+_Updated 2026-11-25 18:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-25 18:01 UTC by the scrape workflow._
 | amvgg | 15 | 39,381 | 2026-11-25T18:00 |
 | elve | 15 | 8,435 | 2026-11-25T18:01 |
 
-## AMVGG completed trades: 64,645 total
+## AMVGG completed trades: 64,678 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 2,946 |
+| 2026-11-25 | 2,979 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 18:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:00 | **sweetn6thing**: Ride-A-Pet Potion ×2 | **kokako113377**: Fly-A-Pet Potion |
-| 18:00 | **sanartes**: Fly-A-Pet Potion, Sushi Penguin | **ilikekpop_2012**: Cake Friend (N) |
-| 18:00 | **arqvve1**: Mirai Moth (MFR), Sprout Snail (MFR), Ostrich (MFR) | **starcode_slowww**: Turtle (FR) |
-| 18:00 | **Cubito_Games**: Turtle (FR), Haetyphoon, Ride-A-Pet Potion, Indian Flying Fox (N), Ghost Chick (N), Sea Angel (N), Zombie Chick (N) | **TheGamerNoob555Xd**: Peppermint Penguin |
-| 18:00 | **qSaori**: Ride-A-Pet Potion, Kitty Biscuit, Mighty Haetyphoon Animated Sticker | **0_0ship21**: Rainbow Dragon |
-| 18:00 | **kraket127**: Purrowl ×4, Fairytale Egg ×4 | **DaaniisCool**: Mochi Meow ×4 |
-| 18:00 | **mhelx05**: Bird of Paradise (N), Ghost (N), Kaijunior (N) | **Kira9975335**: Shadow Dragon Ducky (N) |
-| 18:00 | **goku233289**: Frost Fury (MFR), Cabbit (FR), Turtle (FR) | **kimjennieti34**: Evil Unicorn (FR) |
-| 18:00 | **ploB_666**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Chocolate Dutch Guinea Pig (N), Goldhorn (R) | **amendnenenen**: Dalmatian (FR), Goose (FR), Rain Cloud Hat |
-| 18:00 | **nicolyblox9**: Copycat ×2 | **roronoazoro1gg**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion, Chihuahua |
-| 18:00 | **matteo57th**: Candicorn (FR), 2022 Birthday Party Hat, 2022 Birthday Party Horn, Ice Cream Cone Hat, Gargoyle (MFR), Stray Cat Dragon (MFR), Indian Flying Fox (MFR), Stitches (MR), Emu (MFR) | **GrindAccount_N1**: Cryptid (R) |
-| 18:00 | **Siren_AriaBlaze**: Ride-A-Pet Potion ×11, Pet Handler Pro Certificate, Fly-A-Pet Potion | **N0vaC0r3cPV0rt3xu126**: Albino Monkey (FR) |
-| 18:00 | **cherryberry_99**: Dragonfruit Fox (NFR), Cheetah (R), Burger Bear (MFR), Copycat, Spring Bunny Nose, Ride-A-Pet Potion | **xMaddieglolx**: Peppermint Penguin (FR) |
-| 18:00 | **Jake504pro**: Cabbit (R) ×2, Sugar Glider (FR), Grim Dragon, Candyfloss Chick (R) ×2, Hare (NR), Kookaburra (FR), Unicorn (M), Harp Seal (N), Golden Unicorn (MFR), Diamond Dragon (MFR), Unicorn Horn, Spring Bunny Hood | **lol_whateverx67hsk81**: Owl (FR) |
-| 18:00 | **Berrilicus**: Fly-A-Pet Potion ×13 | **caritoo_zmor**: Sugar Glider |
+| 18:06 | **vrslztx0**: Pain au Chat (N), Chihuahua ×8, Kiwi Kiwi | **annxcheese**: Flash Weasel |
+| 18:06 | **NaomiMikael1**: Mochi Meow Tumble Animated Sticker | **iiiistyloneiiii**: Ride-A-Pet Potion |
+| 18:06 | **vTrustedSaviour**: Strawberry Shortcake Bat Dragon (FR) | **DodyThePro54**: Candyfloss Chick (NFR) |
+| 18:06 | **youtescobag**: Brown Springer Spaniel (R), Black Springer Spaniel | **xMarmur**: Royal Palace Spaniel (N) |
+| 18:06 | **Georgy30015**: Count Slothula, Chihuahua, Blue Whale | **Piska_sanLoshara666**: Ride-A-Pet Potion |
+| 18:06 | **nosy80578**: Caramelgeist (M), Jacobin Pigeon (M) | **Mmoooon_wwh1sp**: Ride-A-Pet Potion |
+| 18:06 | **juni43259**: Werewolf (FR), Dragonfruit Fox (NFR) | **Kvammletitraketa**: Fly-A-Pet Potion ×14 |
+| 18:06 | **KOOLAID_girl10**: Unicorn Horn, Dango Penguins (NR) | **Shynisocool**: Moonbeam Butterfly (MFR) |
+| 18:06 | **PandaL0St0rmyV**: Tiny Wings | **axuerilyt**: Sushi Penguin (N), Fly-A-Pet Potion ×2, Cake Friend, Pupcake, Burger Bear |
+| 18:06 | **WHOISY4NAA**: Fly-A-Pet Potion ×5 | **personal_stalker69**: Bunny Swirl (MFR) |
+| 18:06 | **evsiia**: Giraffe (FR), Hedgehog (FR), Cryptid (NFR), Strawberry Shortcake Bat Dragon | **alolalolaloa**: Giraffe (NFR) |
+| 18:06 | **CrimsonSummit1483**: Crystal Egg ×17 | **vioIetinthesun**: Ride-A-Pet Potion |
+| 18:06 | **Nanax_8907**: Rainbow Maker | **kotenokoops**: Ride-A-Pet Potion ×16, Border Collie (FR), Pink Cat (NFR) |
+| 18:06 | **bell_flowers**: Gecko (M) | **Nanax_8907**: Ride-A-Pet Potion ×8 |
+| 18:06 | **austytedgirl**: Sweetheart Rat (MFR) | **Nanax_8907**: Ride-A-Pet Potion ×6 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
