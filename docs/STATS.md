@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 21:25 UTC by the scrape workflow._
+_Updated 2026-11-25 21:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 21:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 42,683 | 2026-11-25T21:15 |
-| elve | 15 | 9,056 | 2026-11-25T21:15 |
+| amvgg | 15 | 42,948 | 2026-11-25T21:30 |
+| elve | 15 | 9,117 | 2026-11-25T21:31 |
 
-## AMVGG completed trades: 65,518 total
+## AMVGG completed trades: 65,523 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 3,819 |
+| 2026-11-25 | 3,824 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,11 @@ _Updated 2026-11-25 21:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:30 | **Coralmnm**: Ride-A-Pet Potion ×2 | **killerlaura2010**: Mushroom Friend ×3 |
+| 21:30 | **Hobart143**: Peppermint Penguin | **ITZKIYAX**: Jekyll Hydra (FR) |
+| 21:30 | **abobus3484665**: 2022 Birthday Party Hat | **otonite7**: Turtle (FR) |
+| 21:30 | **dloxasteq2**: Parrot (FR), Evil Unicorn (FR), Happy Clam | **emelyalberto**: Frost Dragon (FR) |
+| 21:30 | **Strawluvs_alt2**: King Bee (NFR) | **EmmaShad0wRider4737**: Pet Handler Pro Certificate |
 | 21:25 | **Petyr224**: Pig (NFR), Kangaroo (NFR), Kangaroo (FR) | **alimohamd00**: Arctic Reindeer (FR) |
 | 21:25 | **Elias0160Shiro**: Cattuccino (N) ×2, Frog (N) | **dodzhima**: Capybara, Chick |
 | 21:25 | **y0ur_fellowplayer**: Dango Penguins (MFR), Dango Penguins (NFR), Dango Penguins (N), Chocolate Chip Bat Dragon (FR) | **alimohamd00**: Crow (FR) |
@@ -49,11 +54,6 @@ _Updated 2026-11-25 21:25 UTC by the scrape workflow._
 | 21:25 | **haylie90kmkh**: Ride-A-Pet Potion | **rrstockxadm**: Crystal Egg ×18 |
 | 21:25 | **vcxitb_new**: Velocirooster (MFR), Kangaroo (NFR) | **Yorkshire_2020**: Haetae (FR), Spring Bunny Hood |
 | 21:25 | **SweetPuppy_roblox**: Fly-A-Pet Potion, Starfish (N), Retired Egg ×10 | **annami838**: Chocolate Dutch Guinea Pig, Unicorn |
-| 21:25 | **rrstockxadm**: Crystal Egg ×17 | **varmitrof**: Ride-A-Pet Potion |
-| 21:25 | **Antonipes**: Ride-A-Pet Potion | **rrstockxadm**: Crystal Egg ×17 |
-| 21:25 | **Froggyblossom90**: Fairy Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Shark Puppy (NR), Frost Unicorn (R) | **00iAngell**: Owl (FR) |
-| 21:25 | **gggpppgggppp1**: Kitty Bat, Stray Cat Dragon ×3 | **LUISMATEO3112**: Ride-A-Pet Potion |
-| 21:25 | **Dessertsandfoods**: Candyfloss Chick (NFR) | **Bloom10999**: Mini Pig (FR), Peppermint Penguin (R) |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
