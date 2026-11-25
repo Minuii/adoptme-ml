@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 09:25 UTC by the scrape workflow._
+_Updated 2026-11-25 09:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 09:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 31,208 | 2026-11-25T09:15 |
-| elve | 15 | 6,570 | 2026-11-25T09:15 |
+| amvgg | 15 | 31,436 | 2026-11-25T09:30 |
+| elve | 15 | 6,613 | 2026-11-25T09:31 |
 
-## AMVGG completed trades: 62,880 total
+## AMVGG completed trades: 62,896 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,181 |
+| 2026-11-25 | 1,197 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,21 +39,21 @@ _Updated 2026-11-25 09:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:25 | **dxllyluvs2**: Alpaca (MFR) | **luvvcakezz**: Cryptid (NFR), Chocolate Dutch Guinea Pig (MFR), 2022 Birthday Cake, Unicorn Horn, Spring Bunny Feet |
-| 09:25 | **thesuperkid0**: Haetyphoon, Silverback Gorilla (R), Corn Doggo | **claireg0402**: Turtle (FR) |
-| 09:25 | **hdfbyx**: Chihuahua ×18 | **ItzAina_JPN**: Fly-A-Pet Potion ×4 |
-| 09:25 | **welove_deborah**: Cow (FR) | **growkittycat325**: Fly-A-Pet Potion ×17 |
-| 09:25 | **ilikecheese4evrduh1**: Christmas Pudding Pup (NR) | **marianka_021**: Copycat (NFR) |
-| 09:25 | **Leafiieee**: Galapagos Sea Lion (M), Dog (M), Jiggly Jerboa (M) | **xxRIC_KIYxx**: Ride-A-Pet Potion |
-| 09:25 | **ItzAina_JPN**: 2022 Birthday Party Hat | **lofi_samuraii**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×4, Pet Handler Pro Certificate |
-| 09:25 | **DragonjJDusta107130**: Alpaca (R) | **milkshakedeer**: Cabbit |
-| 09:25 | **activexchxrli**: Frost Dragon (FR), Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR), Cabbit (FR) | **karl_koto**: Shadow Dragon (FR) |
-| 09:25 | **DreamNightStar2**: Christmas Pudding House | **Kir4kaa**: Skelicorn |
-| 09:25 | **DreamNightStar2**: Christmas Pudding House ×2 | **Kir4kaa**: Skelicorn ×2 |
-| 09:25 | **Insxfferabl3**: Gemstone Egg | **DreamNightStar2**: Sledding Penguin Sticker ×3, Christmas Dog Sticker ×3 |
-| 09:20 | **Ch3ryl2021**: Border Collie | **Mnenormalno_0**: Matcha Cat |
-| 09:20 | **urtukasltu11**: Unicorn Horn, Dragonfruit Fox (R), Dragonfruit Fox ×3, Fly-A-Pet Potion, Ride-A-Pet Potion | **harpsealpaws**: Cow (FR) |
-| 09:20 | **qxt_Snow**: Copycat, Shiver Wolf (N), Highland Cow, Swan | **USER261022**: Arctic Fox |
+| 09:30 | **XMARSS557**: Jester Dragon (MFR) | **overloadeddddddddddd**: Chocolate Chip Bat Dragon (FR) |
+| 09:30 | **Fahjiko_543017**: Fairy Bat Dragon (R), Puppeteer Hand, Pain au Chat | **kossshkameow**: Pig (NFR), Matcha Cat |
+| 09:30 | **fightergaming11**: Fairy Bat Dragon (FR) | **veroNIKA_star016**: Shark Puppy (R), Cupid Dragon (FR), Munchkin Cat |
+| 09:30 | **tifany_kats**: Elephant (FR), Ride-A-Pet Potion ×2 | **diiv_iine**: Kangaroo (FR) |
+| 09:30 | **XPrettyGAL20**: Haetyphoon | **w1w1w_1010**: Matcha Cat |
+| 09:30 | **tw1nkle3788**: Fly-A-Pet Potion ×5, Squid | **kawaixi_xgamer**: Toaster Hat |
+| 09:30 | **ObibesHierarchy**: Nurse Shark (N), Ride-A-Pet Potion | **Seb_din976**: Panda (F) |
+| 09:30 | **jandabi2006**: Fly-A-Pet Potion ×3 | **tw1nkle3788**: Fallow Deer (R) |
+| 09:30 | **MYBB89**: Cow (FR) ×2, Science Hat | **jebiilerium**: Strawberry Shortcake Bat Dragon (FR) |
+| 09:30 | **luvkingsley**: Sakura Spirit (FR), Jousting Horse (NFR), Jester Dragon (FR), Jacobin Pigeon (M) | **Jakegameing142**: Copycat (NFR), Haetyphoon |
+| 09:30 | **Sytinely**: Fly-A-Pet Potion | **MacarronCheese**: Ride-A-Pet Potion ×2 |
+| 09:30 | **Sara_Fofa36**: Dango Penguins (NR) | **mariellatomic**: Pupcicle (MFR) |
+| 09:30 | **lili_cupid**: Munchkin Cat (MFR), Ride-A-Pet Potion | **Coral_heartss**: Alley Cat (MFR), Flaming Fox (MFR) |
+| 09:30 | **LostMyMain_Lu**: Pupcicle (N), Chocolate Dutch Guinea Pig, Maine Coon | **younost101001**: Matcha Cat |
+| 09:30 | **ii_ant4x20c**: Fly-A-Pet Potion, Winter Fawn | **mdmdnkevsjsvaj**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
