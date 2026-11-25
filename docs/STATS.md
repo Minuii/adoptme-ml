@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 11:41 UTC by the scrape workflow._
+_Updated 2026-11-25 11:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 11:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 33,242 | 2026-11-25T11:30 |
-| elve | 15 | 6,993 | 2026-11-25T11:31 |
+| amvgg | 15 | 33,452 | 2026-11-25T11:45 |
+| elve | 15 | 7,056 | 2026-11-25T11:46 |
 
-## AMVGG completed trades: 63,181 total
+## AMVGG completed trades: 63,185 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,482 |
+| 2026-11-25 | 1,486 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,10 @@ _Updated 2026-11-25 11:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:45 | **yummiixq**: Candicorn (FR), Ride-A-Pet Potion | **kirkifiedngl**: Werewolf |
+| 11:45 | **vika777120**: Ride-A-Pet Potion | **AceGhost92YT**: Crystal Egg ×18 |
+| 11:45 | **AceGhost92YT**: Crystal Egg ×18 | **gggpppgggppp1**: Ride-A-Pet Potion |
+| 11:45 | **HiroDorothy2022**: Dalmatian (FR), Polar Bear (MFR), Chocolate Dutch Guinea Pig (M), Harp Seal (NR), Binturong (MFR) | **Olive_A11**: Christmas Pudding Pup (MFR) ×2 |
 | 11:41 | **iiShxrty_Bxerry**: Unicorn Horn, Tiny Wings, Arctic Fox (FR) | **faikubjotch**: Goose (FR) |
 | 11:41 | **chn1r**: Velocirooster | **nalu101008**: Fly-A-Pet Potion ×2 |
 | 11:41 | **Ez50**: Kangaroo (FR) ×3, Monkey King (NFR), Ride-A-Pet Potion ×4 | **Anelchik_i**: Parrot (FR) |
@@ -50,10 +54,6 @@ _Updated 2026-11-25 11:41 UTC by the scrape workflow._
 | 11:41 | **wragom_fikk**: Hedgehog (MFR) | **cxar_25**: Bat Dragon (FR), Turtle (FR), Fairy Bat Dragon (FR), Unicorn Horn |
 | 11:41 | **angelsssfounderr**: Cryptid (MFR), Hedgehog (MFR), Halo, Water Moon Bear (MFR) | **ArdaEOYT**: Balloon Unicorn (MFR), Heart Plushie |
 | 11:41 | **closethedoorbruh**: Crow (NFR), Crow (FR) ×2, Cryptid (FR), Kangaroo (NFR), Grim Dragon (R), Kangaroo (FR), Happy Duckling (MR), Wolf (MFR), Irish Elk (M) | **Blocks2CrimsonY2Nebu**: Bat Dragon (FR) |
-| 11:41 | **Vadjik12**: Dragonfruit Fox (R) | **Ashera115**: Ride-A-Pet Potion ×3 |
-| 11:41 | **12kyanni12k**: Velocirooster (M), 2022 Birthday Party Hat | **clubangelz**: Diamond Amazon (MFR) |
-| 11:41 | **chapa4ka579**: Glyptodon ×4 | **Kvetka198**: Ride-A-Pet Potion |
-| 11:41 | **xmarlarx**: Halloween Black Ponycycle | **Kvetka198**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
