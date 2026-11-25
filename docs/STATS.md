@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-25 11:25 UTC by the scrape workflow._
+_Updated 2026-11-25 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-25 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 15 | 33,030 | 2026-11-25T11:15 |
-| elve | 15 | 6,938 | 2026-11-25T11:15 |
+| amvgg | 15 | 33,242 | 2026-11-25T11:30 |
+| elve | 15 | 6,993 | 2026-11-25T11:31 |
 
-## AMVGG completed trades: 63,146 total
+## AMVGG completed trades: 63,147 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-25 | 1,447 |
+| 2026-11-25 | 1,448 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
 | 2026-11-22 | 5,929 |
@@ -39,6 +39,7 @@ _Updated 2026-11-25 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:30 | **kate_rb1239**: Chocolate Dutch Guinea Pig | **HorsegirlEms12**: Fly-A-Pet Potion |
 | 11:25 | **XxDark_RiftxX32**: Cotton Candy Hat ×2 | **fewwral_sing**: Halloween Black Axe Guitar Accessory |
 | 11:25 | **AnaLuvsMoths**: Alley Cat (NFR), Frost Phoenix (M), Maneki-Neko (NR), Moonbeam Butterfly (N) | **recos0401**: Lava Dragon (MFR) |
 | 11:25 | **EmiliOnlyMyy**: Harp Seal (R) | **Yuumiborgoor**: Chocolate Dutch Guinea Pig (R) |
@@ -53,7 +54,6 @@ _Updated 2026-11-25 11:25 UTC by the scrape workflow._
 | 11:20 | **whannahbeyours98**: Dango Penguins | **Zlatysia1123**: Shadow Aura |
 | 11:20 | **Tanya_tot**: Strawberry Shortcake Bat Dragon (FR), Siamese Cat (FR), Fly-A-Pet Potion | **Akeem8903133333**: Dalmatian (R) |
 | 11:20 | **Lingling111206**: Happy Clam (MFR), Ice Cream Hermit Crab (MFR) | **violetxageup**: Ring-Tailed Lemur (MFR), Swan (MFR) |
-| 11:20 | **andres2004671**: Cow (FR) | **veryyronny**: Fly-A-Pet Potion ×17 |
 
 ## Elvebredd value changes: 63,046 since 2023-09-16
 
