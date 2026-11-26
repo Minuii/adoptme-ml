@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 10:11 UTC by the scrape workflow._
+_Updated 2026-11-26 10:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 10:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 32,220 | 2026-11-26T10:00 |
-| elve | 16 | 6,612 | 2026-11-26T10:01 |
+| amvgg | 16 | 32,438 | 2026-11-26T10:15 |
+| elve | 16 | 6,630 | 2026-11-26T10:15 |
 
-## AMVGG completed trades: 67,126 total
+## AMVGG completed trades: 67,133 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,156 |
+| 2026-11-26 | 1,163 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,13 @@ _Updated 2026-11-26 10:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:15 | **simiiseverytimesad**: Cryptid (FR) | **PugpunterZev**: Dalmatian (FR), Candyfloss Chick (FR) |
+| 10:15 | **josuebogarr**: Ride-A-Pet Potion | **Nanax_8907**: Paint Sealer ×12 |
+| 10:15 | **GVMF_757**: Midnight Dragon (FR) | **joehn_do9**: Jester Dragon (FR) |
+| 10:15 | **richbaddie2282**: Hare | **adriel_24k**: Glormy Hound (FR) |
+| 10:15 | **haileyrxo**: Fly-A-Pet Potion | **typol1235y6**: Ghost Bunny (FR) |
+| 10:15 | **004FAscend004**: Ride-A-Pet Potion | **stella_1bym**: Leopard Cat (N) |
+| 10:15 | **itsmyalt_heh**: Pig (R), Ride-A-Pet Potion | **aleks2u**: Munchkin Cat (R) |
 | 10:11 | **LIAXMLV**: Siamese Cat, Fly-A-Pet Potion, Ride-A-Pet Potion | **urfavilaxx**: German Shepherd (MR) |
 | 10:11 | **xJI_CHx**: Peppermint Penguin (FR), Ocelot (MR) | **Mariia_905**: Cow (FR) |
 | 10:11 | **FatCaseOOh**: Copycat (R) | **pinkypieiscute0**: Silverback Gorilla (R) |
@@ -47,13 +54,6 @@ _Updated 2026-11-26 10:11 UTC by the scrape workflow._
 | 10:11 | **paulaaau_u**: Crow (FR) | **deadpo0l293**: Balloon Unicorn (FR) |
 | 10:11 | **Ishabns01**: Dango Penguins (MR) | **Tomatoxxxblizzard**: Ice Cream Cone Hat ×7 |
 | 10:11 | **XMARSS557**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×17 |
-| 10:11 | **v6mpireeee**: Kangaroo (NFR), Ride-A-Pet Potion | **Angelika_13V**: Kangaroo (FR) ×2 |
-| 10:11 | **araawi3u**: Sheeeeep (FR), Dango Penguins (R), Chihuahua | **Yupiterd**: Tiny Wings |
-| 10:11 | **shenshenzzz14**: Grinmoire (M), Muskrat (M) | **Tromdew**: Ride-A-Pet Potion |
-| 10:06 | **vlados_krash**: Fly-A-Pet Potion ×7 | **daanz2**: Frost Fury (FR), Unicorn (NR), Unicorn (N) |
-| 10:06 | **best_hitman9**: Cabbit (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **lnactiveWords**: Goose |
-| 10:06 | **AsianIceCold**: Evil Unicorn (FR), Arctic Reindeer (FR), Kangaroo (NFR), Cow (FR), Turtle (FR) | **La_boyMich15**: Frost Dragon (FR) |
-| 10:06 | **clalouetciedh**: Ancient Dragon ×14 | **so_funnylike**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
