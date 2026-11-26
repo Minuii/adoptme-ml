@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 06:31 UTC by the scrape workflow._
+_Updated 2026-11-26 06:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 06:31 UTC by the scrape workflow._
 | amvgg | 16 | 29,124 | 2026-11-26T06:30 |
 | elve | 16 | 5,990 | 2026-11-26T06:31 |
 
-## AMVGG completed trades: 66,703 total
+## AMVGG completed trades: 66,721 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 733 |
+| 2026-11-26 | 751 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 06:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:30 | **Solecitalamasbonita**: Penguin (R), Stray Cat Dragon, Three Blind Mice, Ancient Dragon, Admin Abuse Egg ×4 | **Dorky_xxx**: Ride-A-Pet Potion |
-| 06:30 | **Chcd_baby**: Majestic Pony (NR) | **dardaruni**: Toaster Hat |
-| 06:30 | **cher_namagandaa**: Pain au Chat ×3, Hydra (R), Little Lamb | **haileyrxo**: Fly-A-Pet Potion |
-| 06:30 | **Sugarfly502**: Clover Cow (MFR), Punk Pony (MR), Mini Schnauzer (M), Millionaire Mansion | **AaronsAltAcc223**: Chocolate Dutch Guinea Pig (MFR) |
-| 06:30 | **ZzGhoul_RileyzZ**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 06:30 | **roblox_user_2880951367**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 06:25 | **pwrecioushweart**: Balloon Unicorn (MFR), Munchkin Cat (MFR), Tuxedo Cat (MFR), Brown Springer Spaniel (MFR), Grim Dragon (NFR), Pink Cat Ear Headphones ×2, Pink Heart Glasses, Glider ×2, Ghost (MFR), Birthday Butterfly 2024 (MFR), Clover Cow (NFR) ×4, Choco Penguin (NR) ×2 | **kdkejwjsjd**: Bat Dragon (NFR) |
-| 06:25 | **C4K3YK1TTEN**: Siamese Cat (MFR), Banana Hat, Santa's Bow, Strawberry Shortcake Bow, Unicorn ×2, Mochi Meow (N), Dark Choccybunny (N), Golden Unicorn, Gingerbread Reindeer (N), Cuddly Candle (R) | **TommySHIDAT**: Goat (MFR), Moon Rabbit (M), Amami Rabbit (M) |
-| 06:25 | **donnotinteract**: Ride-A-Pet Potion ×2 | **JenYAsha2akk12**: Pet Handler Pro Certificate |
-| 06:25 | **Killshot460**: Halloween White Ghost Dragon (NFR), Latte Kitsune (NFR), Latte Kitsune (N), Golden Jaguar (MFR) | **justinepaje123**: Dragonfruit Fox (MFR) |
-| 06:25 | **Caxarok_45641**: Ride-A-Pet Potion ×5 | **w0onlll**: Arctic Dusk Dragon (FR) |
-| 06:25 | **Bismuth234**: Cow, Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Nastik_My520**: Candyfloss Chick (FR), Kangaroo (FR) |
-| 06:25 | **mxzerii**: Ride-A-Pet Potion | **lhx00526**: Crystal Egg ×18 |
-| 06:25 | **Elfik1k**: Crocodile (R), Skelicorn (M), Fly-A-Pet Potion, Silverback Gorilla | **Krvsvha**: S'mores Raccoon (MFR) |
-| 06:25 | **Themr_harlen0220**: Ride-A-Pet Potion ×15, Hopbop (M) | **chhcciijjjkk**: Kangaroo (R) |
+| 06:40 | **SantaniyxRBLX**: Fly-A-Pet Potion ×15 | **arseniylolol**: Fairy Bat Dragon (FR) |
+| 06:40 | **Urfavorite1225**: Peachick ×2, Chihuahua, Gorilla, Sasquatch, Winter Fawn, Ermine | **pinkytedslovie**: Ride-A-Pet Potion |
+| 06:40 | **JorgeEduardo_123**: Flower Power Duckling (NR) | **robloxer_3614**: Fly-A-Pet Potion |
+| 06:40 | **hojujuonabeat**: Candy Hare (N) | **Antonipes**: Ride-A-Pet Potion ×7 |
+| 06:40 | **Leafiieee**: Alicorn ×4, Ancient Dragon (R) | **Tuuu_Madreee2**: Ride-A-Pet Potion |
+| 06:40 | **Jess1kss**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×5 | **carlkilling**: Kangaroo (R) |
+| 06:36 | **XMARSS557**: Ride-A-Pet Potion | **Bruhzoeww**: Crystal Egg ×17 |
+| 06:36 | **JuJu200LoL10**: Ride-A-Pet Potion | **paldoalways34**: Stray Cat Dragon ×8 |
+| 06:36 | **StanleyHayden5**: Count Slothula | **paldoalways34**: Stray Cat Dragon ×4 |
+| 06:36 | **paldoalways34**: Corn Doggo (MFR), Pudding Cat (N), Stray Cat Dragon ×13, Stygian Owl (N), Gumball Caterpillar (N), Pet Handler Pro Certificate | **Vanthoria**: Crocodile (NFR) |
+| 06:36 | **Legolover15687**: Copycat, Admin Abuse Egg ×2, Ride-A-Pet Potion ×2 | **beconisok**: Flash Weasel |
+| 06:36 | **Mizumi_yiku**: Flower Power Duckling ×2 | **Jenniea264**: Cow Calf, Sweetheart Rat, Chihuahua |
+| 06:36 | **nnseoi**: Ice Cream Cone Hat | **C4K3YK1TTEN**: Spring Bunny Hood, Candyfloss Mega Neon Paint |
+| 06:36 | **Rubyko13**: Ghost Kitty Backpack, Bear Hood, Festive Antlers, Growing Flower Hat, Rotating Periscope, Boohoo (N), Caramelgeist (N), Forest Sprite (N), Pinkypillar (N) | **pinkytedslovie**: Ride-A-Pet Potion |
+| 06:36 | **roblox_user_2880951367**: Fly-A-Pet Potion | **AsianIceCold**: Pancake Stack |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
