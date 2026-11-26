@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 12:16 UTC by the scrape workflow._
+_Updated 2026-11-26 12:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 12:16 UTC by the scrape workflow._
 | amvgg | 16 | 34,211 | 2026-11-26T12:15 |
 | elve | 16 | 7,064 | 2026-11-26T12:15 |
 
-## AMVGG completed trades: 67,407 total
+## AMVGG completed trades: 67,440 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,437 |
+| 2026-11-26 | 1,470 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 12:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:15 | **vrslztx0**: Mongoose (N), Malaysian Tapir, Crystal Egg ×3 | **nuhhun41**: Ride-A-Pet Potion |
-| 12:15 | **Sytinely**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion | **Honeyloveyou78**: Werewolf (FR) |
-| 12:15 | **p4sttt**: Giraffe (FR) | **xyudrocher666**: Cryptid (NFR), Chocolate Chip Bat Dragon (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 12:15 | **Galaxywolfie72**: Arctic Dusk Dragon (R) | **Caxarok_45641**: Ride-A-Pet Potion ×5 |
-| 12:15 | **aabeeyg**: Sneak Weasel (M), Amethyst Skies Mega Neon Paint, Security Spotlight ×2 | **ventisnumb3r1fan**: Ride-A-Pet Potion |
-| 12:15 | **golden_hopper4890237**: Crystal Egg ×18 | **werreriss0**: Ride-A-Pet Potion |
-| 12:15 | **dashixx_K**: Ride-A-Pet Potion, Gemstone Egg ×2, Wolf, Ghost Wolf | **RandomHuman_ll**: Golden Lettuce |
-| 12:15 | **mxkeys**: Cryptid (FR), Cryptid | **BigMacz66**: Parrot (FR), Fly-A-Pet Potion ×10 |
-| 12:15 | **d3d3d89**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×7, Dango Penguins (R), Shadow Dragon Ducky (NFR) | **lol_whateverx67hsk81**: Turtle (FR) |
-| 12:15 | **Charlotte_art2**: Turtle (FR), Flamingo (R), Corn Doggo (NR), Puffin (R), Pet Handler Pro Certificate, Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×5 | **lol_whateverx67hsk81**: Arctic Reindeer (FR) |
-| 12:15 | **abobus3484665**: Evil Unicorn (FR), Turtle (NFR), Shrew (R) | **lol_whateverx67hsk81**: Crow (FR) |
-| 12:15 | **hanb3ki**: Mini Pig (FR), Kangaroo (NFR), Fairy Bat Dragon (FR), Turtle (NFR) ×2, Albino Monkey (FR), Kangaroo (FR) ×2, Unicorn (NFR) | **Caveneural5982**: Frost Dragon (FR) |
-| 12:11 | **tink3rb3lld7**: Parrot (FR), Dango Penguins, Ride-A-Pet Potion | **PowersMia2955**: Mechapup (MFR) |
-| 12:11 | **ymniy_natasha**: Sakura Spirit (MFR), Christmas Spirit (MFR) | **urfavourite_fp**: Cryptid (FR) |
-| 12:11 | **Lakelanddjskskdjdjjd**: Giant Panda (NFR), Cerberus (NFR) | **Affgfghec**: Frost Dragon (NFR), Turtle (MFR) |
+| 12:25 | **cherry_blast2**: Amethyst Skies Mega Neon Paint | **tokiyeuo**: Purrowl (N) |
+| 12:25 | **prokachka_s0nulya**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion, Dog | **yeisows**: Pig (FR) |
+| 12:25 | **fahrodupencheng**: Shadow Dragon (FR) | **RhodesyMate16**: Mini Pig (MFR), Christmas Pudding Pup (MFR), Brown Bear (MFR), Tree Kangaroo (MFR) |
+| 12:25 | **elproXD_7v7**: Fly-A-Pet Potion, Chihuahua | **01xfzv**: Ride-A-Pet Potion ×2 |
+| 12:25 | **tu_top67**: Ice Cream Cone Hat | **otonite7**: Fly-A-Pet Potion ×3 |
+| 12:25 | **hoschakaI**: Bat Dragon (MFR), Rain Cloud Hat | **natesctrl**: Bat Dragon (NFR), Bat Dragon (FR) ×3, Shadow Dragon (FR), Frost Dragon (FR), Evil Unicorn (FR) ×2 |
+| 12:25 | **yeetimaheadout7**: Munchkin Cat (MFR), Fairy Bat Dragon, Goose (R) | **XxSorvetyxX**: Giant Panda (FR), Ride-A-Pet Potion |
+| 12:25 | **XoxoBubblyBubbles**: Black Chow-Chow, Green-Chested Pheasant, Fire Stallion, Huntsman Robin | **Mr_iziponik**: Ride-A-Pet Potion |
+| 12:25 | **Kids_535353**: Munchkin Cat (FR) | **arialovegodrule**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion |
+| 12:25 | **Callme_Mary45**: Kiwi Kiwi ×16 | **batton0955**: Ride-A-Pet Potion ×10 |
+| 12:25 | **Amvgg_Amvggg**: Siamese Cat (FR), Hot Doggo (R), Unicorn (MFR), Pig (NFR), Golden Penguin (NFR) | **Paipapaprapaa**: Evil Unicorn (FR) |
+| 12:25 | **msxnr**: Ride-A-Pet Potion, Well, Actually Walrus Sticker | **Loveee270510**: Capybara |
+| 12:25 | **DrendyRobLox**: Crystal Egg ×15 | **MlodyMultiAlterntor**: Ride-A-Pet Potion |
+| 12:25 | **xxManreetxxplayz**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **LeahxAngelx**: Shark (NFR) |
+| 12:25 | **pjpjash**: Fallow Deer (R), Rose Dragon (R), Reindeer (R), Panda (NFR), Fly-A-Pet Potion | **Paipapaprapaa**: Border Collie (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
