@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 13:25 UTC by the scrape workflow._
+_Updated 2026-11-26 13:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,8 +13,8 @@ _Updated 2026-11-26 13:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 35,109 | 2026-11-26T13:15 |
-| elve | 16 | 7,254 | 2026-11-26T13:15 |
+| amvgg | 16 | 35,320 | 2026-11-26T13:30 |
+| elve | 16 | 7,321 | 2026-11-26T13:31 |
 
 ## AMVGG completed trades: 67,648 total
 
