@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 05:55 UTC by the scrape workflow._
+_Updated 2026-11-26 06:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 05:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 28,432 | 2026-11-26T05:45 |
-| elve | 16 | 5,888 | 2026-11-26T05:46 |
+| amvgg | 16 | 28,661 | 2026-11-26T06:00 |
+| elve | 16 | 5,908 | 2026-11-26T06:01 |
 
-## AMVGG completed trades: 66,643 total
+## AMVGG completed trades: 66,646 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 673 |
+| 2026-11-26 | 676 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,9 @@ _Updated 2026-11-26 05:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:00 | **epicpulsechaos2024**: Dragonfly ×11 | **sophsroblocxacc2**: Ride-A-Pet Potion |
+| 06:00 | **RyanNintendo**: T-Rex (M), Ride-A-Pet Potion | **kayy0776**: Unicorn Horn |
+| 06:00 | **dvinedoll**: Strawberry Shortcake Bat Dragon (FR), Dalmatian (FR), Crocodile (FR), Siamese Cat (FR), Frost Fury (NFR), Turtle (FR), Kangaroo (FR), Christmas Egg | **Bismuth234**: Frost Dragon (FR) |
 | 05:55 | **imlikethel**: Mechapup (MFR), Yeti (MFR), Head Chef | **Renatakawaiionichan**: Owl (FR) |
 | 05:55 | **Its_marmeladka0003**: Gemstone Egg, Blue Whale (N), Thunderfisher (N) | **dammam_1234**: Pupcicle |
 | 05:55 | **localbanxx**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **itz_nastyalik**: Biodome Home |
@@ -51,9 +54,6 @@ _Updated 2026-11-26 05:55 UTC by the scrape workflow._
 | 05:51 | **BLACK_LK11**: Zombie Wolf (MR), Slime | **winis3003**: Silverback Gorilla (N) |
 | 05:51 | **xxpeenut_butterxxx**: Fly-A-Pet Potion ×3 | **iiiistyloneiiii**: Unicorn (NFR) |
 | 05:51 | **ophyns**: Arctic Fox (R), Matcha Cat, Christmas Pudding Pup (R), Ice Cream Cone Hat, Munchkin Cat (NFR), Ring-Tailed Lemur (R), Field Mouse (R), Papa Moose, Spring Bunny Hood, Alley Cat, Golden Walrus (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **SilentOtter237**: Cryptid (FR) |
-| 05:51 | **Alina_gfg890**: Mouse (M), Sneak Weasel (M), Dragonfly, Skelicorn, Crimson Cape (N), Three Blind Mice, Huntsman Robin, Mummy Spider (N), Badger (N), Ms. Muffet (N), Blue Cat, Pink Dog, Admin Abuse Egg, Fairytale Egg | **XzB3arL3Synth7zX1088**: Ride-A-Pet Potion |
-| 05:41 | **elpopas6**: Turtle (FR), Strawberry Penguin (R), Ride-A-Pet Potion ×3 | **WHOISY4NAA**: Cow (FR) |
-| 05:41 | **dtOvsq**: Ride-A-Pet Potion, Chameleon | **gvmpyi**: Leopard Shark |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
