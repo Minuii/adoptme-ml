@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 10:41 UTC by the scrape workflow._
+_Updated 2026-11-26 10:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 10:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 32,651 | 2026-11-26T10:30 |
-| elve | 16 | 6,683 | 2026-11-26T10:31 |
+| amvgg | 16 | 32,861 | 2026-11-26T10:45 |
+| elve | 16 | 6,755 | 2026-11-26T10:46 |
 
-## AMVGG completed trades: 67,182 total
+## AMVGG completed trades: 67,189 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,212 |
+| 2026-11-26 | 1,219 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,13 @@ _Updated 2026-11-26 10:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:45 | **vlados_krash**: Frost Fury (FR), Unicorn (NR), Unicorn (N), Fly-A-Pet Potion | **KatsuTatsuya**: Dango Penguins (N), Dango Penguins |
+| 10:45 | **Adore_Pandaz**: Ringmaster Gibbon (N), Angus Cow (N), Ant (N) ×3, Parakeet (N) | **rewwii_u0**: Ride-A-Pet Potion |
+| 10:45 | **11Anime_Love1**: Swan (NFR) | **iiSimplyxSkyexx**: Sheeeeep (FR) |
+| 10:45 | **itemhouse1**: Turtle (FR) | **avokado78o**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×11 |
+| 10:45 | **G1G1S4V1AT0RX0**: Sushi Penguin, Chocolate Dutch Guinea Pig, Rain Hat ×2 | **36k_vibezzzzz12newac**: Dango Penguins |
+| 10:45 | **1tz_Miki**: Toyshop House | **zoe01678**: Space Fleet House |
+| 10:45 | **foreverforethel**: Cryptid (NFR), Candicorn (MFR), Munchkin Cat (M), Rainbow Maker ×2, Caelum Cervi (NFR), Silverback Gorilla (NR), Tri-horned Treehopper (NFR), Turtle (FR), Owlbear (NFR), Arctic Dusk Dragon (NFR), Rain Cloud Hat, Alley Cat (NFR), Cheetah (NFR), Flaming Fox (NFR), Gaelic Fae (NFR), Spring Bunny Hood, Santa Hat | **Cinzsins**: Giraffe (NFR) |
 | 10:41 | **MissLadybug611**: Kangaroo (FR), Arctic Fox (R), Frost Fury (FR), Fly-A-Pet Potion | **fara_garant**: Cow (FR) |
 | 10:41 | **228_AUDITOR66**: Zombie Buffalo (R), Aussie Egg, Ride-A-Pet Potion ×4, Irish Elk | **Potatofarmsdrag**: Crocodile (R) |
 | 10:41 | **Nastai3324**: Elf Hat, Premium Gibbon Box | **personal_stalker69**: Pet Handler Pro Certificate, Ride-A-Pet Potion |
@@ -47,13 +54,6 @@ _Updated 2026-11-26 10:41 UTC by the scrape workflow._
 | 10:41 | **envymiax**: Giraffe (FR), Cryptid (FR) | **Gglrd0**: Chocolate Chip Bat Dragon (MFR) |
 | 10:41 | **Leah_newaccnt**: Parrot (R) | **mitskiixmywakix**: Chocolate Dutch Guinea Pig (MR), Ring-Tailed Lemur (MFR), Ram (MFR), Black Springer Spaniel (MFR), Cake Friend (MFR) |
 | 10:41 | **ALTACCOUNTTT435**: Ride-A-Pet Potion | **Ryou_senpai05**: Chihuahua ×3 |
-| 10:41 | **baby_brooke2007ban**: Pain au Chat ×9, Chihuahua ×6 | **Gamerqueen1255**: Gemstone Egg ×13 |
-| 10:41 | **Timur_djan15**: Field Mouse (R), Ride-A-Pet Potion | **Ex0ticP3nny**: Fly-A-Pet Potion ×3 |
-| 10:41 | **ItzmeZie_Aamiaww24**: Copycat | **Ex0ticP3nny**: Ride-A-Pet Potion ×4 |
-| 10:41 | **poorbunii**: Arctic Dusk Dragon (NFR) | **eulien_37**: Candyfloss Mega Neon Paint, Amethyst Skies Mega Neon Paint, Candy Flare Mega Neon Paint, Velvet Fuchsia Mega Neon Paint, Rose Quartz Glow Mega Neon Paint |
-| 10:41 | **M3lonch0ly_p1x**: Boohoo (M), Stray Cat Dragon (M) | **Ramm03_06**: Mermaid Mansion |
-| 10:41 | **XxElmmzxX**: Grim Dragon (R) | **Roble_2023**: Lion (R), Goat (R), Sushi Penguin |
-| 10:41 | **Al_iceC**: Groundhog (MFR) | **werewolfloverzz**: English Sheepdog (MR), Tasmanian Devil (MR), Great Pyrenees (MR), Toy Poodle (MR), Coyote (MR), Puptune (MR), Maine Coon (MR), Harp Seal (MR), Mr. Whiskerpips (M), Mrs. Whiskerpips (M) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
