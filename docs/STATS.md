@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 14:46 UTC by the scrape workflow._
+_Updated 2026-11-26 14:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 14:46 UTC by the scrape workflow._
 | amvgg | 16 | 36,512 | 2026-11-26T14:45 |
 | elve | 16 | 7,572 | 2026-11-26T14:46 |
 
-## AMVGG completed trades: 67,905 total
+## AMVGG completed trades: 67,944 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,935 |
+| 2026-11-26 | 1,974 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 14:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:45 | **LovYavaYT**: Crow (FR), Tealwood Monster (MR) | **M7XX2007**: Balloon Unicorn (FR) |
-| 14:45 | **Spralliiig**: Fire Mare (M), Fire Stallion (M) | **Kvammletitraketa**: Elasmosaurus (M) |
-| 14:45 | **sammm11240**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Evelyy_na**: Haetyphoon |
-| 14:45 | **misakoyr**: Siamese Cat, Ring-Tailed Lemur, Sheeeeep (NR), Pet Handler Pro Certificate | **xGracie_1234x**: Munchkin Cat (NFR), Unicorn Horn |
-| 14:45 | **mikamikamikalotus**: Sloth, Kage Crow, Mouse (N), Ribbon Seal (N), Ghost (N) | **pearlssslovesyousss**: Burger Bear ×2 |
-| 14:45 | **MissLadybug611**: Therapy Dog ×4 | **TOASTER_17362**: Ride-A-Pet Potion |
-| 14:45 | **Oneran0**: Flamingo (R), Crocodile (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **adoptmel781**: Hot Doggo (FR) |
-| 14:45 | **Usuario30x**: Hedgehog (FR) | **Car1os_xd**: Arctic Reindeer (FR), Turtle (FR), Lion, Ride-A-Pet Potion |
-| 14:45 | **PRODAZA_STARPETS**: 2022 Birthday Party Hat, 2022 Birthday Confetti Cannon, Ice Cream Cone Hat ×2, Goat (R), Fly-A-Pet Potion | **xXsleepydaisyX**: Rainbow Maker |
-| 14:45 | **Kirikocutie8**: Fly-A-Pet Potion ×4 | **AHHA10040**: Corn Doggo (NR) |
-| 14:45 | **Kirikocutie8**: Pine Marten (M), Brachiosaurus (M), Peachick (M), S'mores Raccoon | **Kyza_222222223**: Fly-A-Pet Potion ×5 |
-| 14:45 | **mm2onlytrading**: Crocodile, Halloween Evil Dachshund | **sicklosergirl**: Jester Dragon ×3 |
-| 14:45 | **BhaabieeRaaii**: Dango Penguins (MFR), Dango Penguins (M), Ride-A-Pet Potion | **pristinepalace**: Cryptid (FR), Dango Penguins (NFR) |
-| 14:45 | **zjgdhw**: Fallow Deer, Squid | **fayesweet13**: Arctic Dusk Dragon |
-| 14:45 | **tosluumped**: Chocolate Dutch Guinea Pig | **kalil4456**: Mule |
+| 14:55 | **jjanaaae**: Chocolate Chip Bat Dragon (FR) | **Jillian_Clarice**: Alpaca, Fairy Bat Dragon (FR), Pupcake (MR), Quokka (NR), Pupcake (N), Harp Seal |
+| 14:55 | **jilljaz**: Halloween Evil Dachshund (MFR), Pancake Stack | **boyuancool123**: Burger Bear (M) |
+| 14:55 | **clavio000**: Strawberry Shortcake Bat Dragon (NFR), Pet Handler Pro Certificate | **melody13579xd**: Balloon Unicorn (FR) |
+| 14:55 | **Wherears**: Sushi Penguin (MR) | **NOBIIIEEE11**: Copycat (NR), Pink Cat Ear Headphones, Cotton Candy Hat |
+| 14:55 | **elifanaekinci**: Unicorn, Retired Egg ×2 | **meowgirlava**: Ride-A-Pet Potion |
+| 14:55 | **beth_tam10ALT**: Pink Cat Ear Headphones ×2, Cattuccino (N) ×2, Eaten Donut | **Ana_princess2013**: Unicorn Backpack |
+| 14:55 | **Sweetie_Ofc2**: Dragonfly ×4 | **linda8877150**: Lunar Gold Tiger |
+| 14:55 | **iloveiceecreamm**: Cow (FR), Candicorn (NFR), Queen Bee (MFR), Mermicorn (R), Diamond Amazon (FR), Groundhog (R), Dango Penguins | **Fanzy_GurlXx**: Crow (FR) |
+| 14:55 | **clalouetciedh**: Alicorn ×12 | **so_funnylike**: Ride-A-Pet Potion |
+| 14:55 | **luvleymine**: Giraffe (FR), Strawberry Shortcake Bat Dragon (FR), Candicorn | **lxceddream**: Chocolate Chip Bat Dragon (MFR) |
+| 14:55 | **Rubylllllllb**: Goose (FR), 2022 Birthday Party Hat, 2022 Birthday Cake, 2022 Birthday Party Horn, Cattuccino (M) | **Svdanurrr**: Cryptid (FR) |
+| 14:55 | **wanda_vision680**: Kangaroo (FR), Midnight Dragon (FR), Grave Owl (M), Tiny Wings | **chaxvznn**: Tombstone Ghostify |
+| 14:55 | **smoothlike_butter234**: Pain au Chat (N) ×2 | **ll_llllpn**: Unicorn (N) |
+| 14:55 | **Vova123cool52**: Toaster Hat ×2, Ice Cream Cone Hat, Pancake Stack, Fly-A-Pet Potion ×2 | **clixtoria**: Goose (R) |
+| 14:55 | **ALTAMERANO10**: Polar Bear (MFR), Latte Kitsune (MFR) | **olddeathcore**: Evil Unicorn (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
