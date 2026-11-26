@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 11:41 UTC by the scrape workflow._
+_Updated 2026-11-26 11:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 11:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 33,507 | 2026-11-26T11:30 |
-| elve | 16 | 6,911 | 2026-11-26T11:31 |
+| amvgg | 16 | 33,762 | 2026-11-26T11:45 |
+| elve | 16 | 6,984 | 2026-11-26T11:46 |
 
-## AMVGG completed trades: 67,315 total
+## AMVGG completed trades: 67,332 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,345 |
+| 2026-11-26 | 1,362 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 11:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:41 | **TheEerthh**: Crystal Egg ×11 | **StartEggtofrostdrag0**: Great Pyrenees |
-| 11:41 | **iaMatthieu1**: Owl (FR), Copycat | **dily123477**: Dalmatian (FR), Cow (FR), Cow (R), Peppermint Penguin, Flamingo (FR) |
-| 11:41 | **clalouetciedh**: Dragonfly ×16 | **chhcciijjjkk**: Ride-A-Pet Potion |
-| 11:41 | **Labubu_Love15**: Tuxedo Cat (M), Fallow Deer, Axolotl | **kawaiifaintedgirl**: Puffer Fish (MFR) |
-| 11:41 | **XzB3arL3Synth7zX1088**: Crystal Egg ×15 | **Mintsnpowder**: Ride-A-Pet Potion |
-| 11:41 | **xhuliax**: Cryptid (FR), Goose (R), Harp Seal (MFR) | **lol_whateverx67hsk81**: Crow (FR) |
-| 11:41 | **happymay12319**: Cow (FR) ×2, Elephant (R) ×2, Bush Elephant (R), Lion (R), Bald Eagle (R), Candicorn | **lol_whateverx67hsk81**: Crow (FR) |
-| 11:41 | **happymay12319**: Cow (FR) ×2, Turtle (FR), Turtle (R), Elephant (FR) ×2, Siamese Cat | **lol_whateverx67hsk81**: Parrot (FR) |
-| 11:41 | **Haiao92i**: Moose Calf (MFR), Puffer Fish (MFR) | **12kyanni12k**: 2022 Birthday Party Horn, Tiny Wings, Golden Penguin (MFR), Black Macaque (MR), Fly-A-Pet Potion |
-| 11:41 | **lera5132**: Ride-A-Pet Potion | **CrimsonSummit1483**: Crystal Egg ×18 |
-| 11:41 | **HET3AKOHAM**: Arctic Reindeer (NFR), Ride-A-Pet Potion ×14, Fly-A-Pet Potion | **cat_2025641**: Strawberry Shortcake Bat Dragon (FR), Dalmatian (FR) |
-| 11:41 | **epicpulsechaos2024**: Dragonfly ×11 | **vvaryaa58AaS**: Ride-A-Pet Potion |
-| 11:41 | **igrok6_6**: Ride-A-Pet Potion ×7, Mummy Spider (M) | **ded_55250000**: Matcha Cat (R) |
-| 11:41 | **LuckythecatZ**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **supersillygoobr**: Giant Panda (FR) |
-| 11:41 | **lostedHell**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 11:45 | **ImNotRealyFishyBlox**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion | **DragonjJDusta107130**: Turtle (FR) |
+| 11:45 | **stayter213**: 2022 Birthday Party Hat, 2022 Birthday Cake, Spring Bunny Hood | **0_0ship21**: Turtle (NFR) |
+| 11:45 | **viivxu**: Pink Cat (MFR) | **gag_gaag**: Cow (FR), Fairy Bat Dragon (FR), Kangaroo (NFR), Field Mouse |
+| 11:45 | **peepyplops**: Stray Cat Dragon ×4, Bolt (M) | **Abietis**: Pupcicle |
+| 11:45 | **realKEBShere1**: Christmas Egg | **Kayorilate**: Frost Unicorn (FR) |
+| 11:45 | **aleks2u**: Ninja Monkey (MFR), Spring Bunny Feet | **zeejnaa**: Cow (FR) |
+| 11:45 | **tu_top67**: French Bulldog (N), Ride-A-Pet Potion ×2 | **alina39482**: Ice Cream Cone Hat |
+| 11:45 | **crybabydoIl**: Kangaroo (FR) | **MissLadybug611**: Ride-A-Pet Potion ×17 |
+| 11:45 | **NotSweatyOnion**: Pink Cat (FR), Pain au Chat | **fotm_dio**: Ride-A-Pet Potion ×8 |
+| 11:45 | **ALV4RYTO**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **WhiteBoy19**: Giant Black Scarab (MR) |
+| 11:45 | **SilentOtter237**: Papa Moose | **olddeathcore**: Christmas Pudding Pup |
+| 11:45 | **BLACKCAT202015**: Cryptid (NFR) | **xyudrocher666**: Haetae (FR), Cryptid (FR) |
+| 11:45 | **kzdevilz**: Goose (FR), Mini Pig (FR), Munchkin Cat (NFR), Shark Puppy (FR), Albino Monkey (FR), Fallow Deer, Jellyfish (R), Fly-A-Pet Potion, Vampire Dragon (R), Glacier Kitsune (FR) | **kuutar_moonlight**: Dalmatian (R), Strawberry Shortcake Bat Dragon |
+| 11:45 | **20O2_s**: Sushi Penguin (M), Ride-A-Pet Potion | **Baldyellowwoman**: Binturong (N), Puffer Fish (N), Hippo (N), Gecko (N), Kiwi (N), Lynx (N), Koi Carp (N), Leopard Cat (N) |
+| 11:45 | **ASMR_1585**: Clumpty (N) | **Dfhavhs**: Clumpty ×4, Fairytale Egg ×3 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
