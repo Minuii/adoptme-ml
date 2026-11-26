@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-26 00:11 UTC by the scrape workflow._
+_Updated 2026-11-26 00:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 24 | 2026-11-11T1036Z | 2026-11-25T0216Z |
+| elve | 25 | 2026-11-11T1036Z | 2026-11-26T0015Z |
 | amvgg | 69 | 2026-11-11T1036Z | 2026-11-25T1616Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 22,766 | 2026-11-26T00:00 |
-| elve | 16 | 4,846 | 2026-11-26T00:01 |
+| amvgg | 16 | 23,039 | 2026-11-26T00:15 |
+| elve | 16 | 4,863 | 2026-11-26T00:15 |
 
-## AMVGG completed trades: 65,993 total
+## AMVGG completed trades: 66,008 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 23 |
+| 2026-11-26 | 38 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,41 +39,41 @@ _Updated 2026-11-26 00:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:06 | **heavsns**: Mini Pig (FR), Flamingo (R), Red Dutch Guinea Pig, Spring Bunny Nose, Chocolate Dutch Guinea Pig, Fly-A-Pet Potion, Ride-A-Pet Potion | **lol_whateverx67hsk81**: Chocolate Chip Bat Dragon (FR) |
-| 00:06 | **Adopacount**: Crow (FR), Chocolate Chip Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) ×5, Chocolate Chip Bat Dragon (R), Haetae (FR), Peppermint Penguin (NFR) ×2, Dalmatian (FR), Turtle (MFR), Strawberry Tortle (N), Evil Unicorn (FR), Fairy Bat Dragon (NFR) ×2, Rainbow Maker | **lol_whateverx67hsk81**: African Wild Dog (MFR) |
-| 00:06 | **TheAddictedSpider**: Retired Egg ×16 | **sparta_356YTn**: Pain au Chat |
-| 00:06 | **ViperOfTheUnderworld**: Frost Dragon (FR) | **fluffyunicorns_932**: Cow (NFR), Turtle (NFR), Albino Monkey (FR), Border Collie (FR), Border Collie, Crocodile (FR), Mechapup (R), Many Mackerel (NFR), Bald Eagle (NR), Meerkat (NR) |
-| 00:06 | **realzeno079**: Turtle (FR), Sneak Weasel (M), Robot (MFR), Shiba Inu (MR), Dragon (N) ×2, Dragon ×3, Golden Dragon, Golden Unicorn, Golden Griffin, Metal Ox, Purrowl ×2 | **DanielgamerXD125**: Cabbit (R) |
-| 00:06 | **chapa4ka579**: Musk Ox, Canadian Goose, Gecko | **aloiv484**: Ride-A-Pet Potion |
-| 00:06 | **iiN044**: Pet Handler Pro Certificate ×6, Ride-A-Pet Potion ×2, Spring Bunny Nose | **Adoptmestocks3000**: Frostbite Bear |
-| 00:06 | **tropixallils**: Bat Dragon (FR), Dalmatian (MFR), Parrot (NFR), Rainbow Maker | **BhaabieeRaaii**: Bat Dragon (NFR) |
-| 00:06 | **leoegern40**: Emperor Gorilla (MFR) | **goldmaan1234**: Matcha Cat (MFR), 2022 Birthday Party Hat |
-| 00:06 | **bicepenthusiest**: Balloon Unicorn (FR), Shark Puppy (NFR), Chocolate Dutch Guinea Pig (MFR), Pupcicle (MFR), Shiver Wolf (NR), Siamese Cat (FR), Toy Poodle (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **sleepy_s0ren**: Frost Dragon (FR) |
-| 00:06 | **pusilups**: Cabbit (MFR) | **Tylertylertyler425**: Hedgehog (FR), Chocolate Chip Bat Dragon (FR) ×3, Fly-A-Pet Potion ×2 |
-| 00:06 | **ChummyCheem**: Mermicorn (NFR) ×3, Alley Cat (NFR) | **alolalolaloa**: Cryptid (NFR), Paint Sealer |
-| 00:06 | **kaylamicmi**: Crow (N), Crow, Owl (FR), Bald Eagle (NFR), Water Rabbit (MFR), African Wild Dog (FR) | **Potato_potatoes100**: Hedgehog (MFR) |
-| 00:06 | **declaneden**: Crow (FR), Cow, Cabbit, 2022 Birthday Party Hat, 2022 Birthday Party Horn, Toaster Hat, Arctic Fox, Lion Cub, Happy Clam | **lol_whateverx67hsk81**: Frost Dragon (FR) |
-| 00:06 | **Artem_21a2**: Ram (MFR) | **lol_whateverx67hsk81**: Turtle (FR) |
+| 00:15 | **SadiSadie3**: Pupcicle (N) | **Vadjik12**: Ride-A-Pet Potion ×2 |
+| 00:15 | **KiaXias**: Pig (MFR), Glormy Leo (MFR) | **IDFeelAnything**: African Wild Dog (FR) |
+| 00:15 | **Ernozil**: Frost Dragon (R), Silverback Gorilla (MFR), Siamese Cat (FR) | **Jeheon07**: Arctic Reindeer (MFR) |
+| 00:15 | **imac_1425**: Albino Monkey (FR) | **otonite7**: Ghost Dog (MFR) |
+| 00:15 | **aloiv484**: Fly-A-Pet Potion ×4 | **mnrt362**: Alley Cat (R), Alley Cat, Rhino (FR) |
+| 00:15 | **matthewisI2here**: Parrot (FR), Haetae (FR) ×2, Strawberry Shortcake Bat Dragon (FR), Siamese Cat, Winged Tiger (R), Vanilla Penguin (R), White Chef Hat | **stargxldani**: Owl (NFR), Elephant (R) |
+| 00:15 | **ZOliverTurboz**: Cryptid (FR), Sugar Glider (FR), Flamingo (FR) | **theseller63**: Giant Panda (FR) |
+| 00:15 | **Paipapaprapaa**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion, Sugar Glider (FR), Fly-A-Pet Potion | **onaugust15**: Evil Unicorn (FR) |
+| 00:15 | **DragonClaw7314**: Giraffe (FR) | **JDTHEGOAT12349**: Crow (FR), Owl, Cow (FR) |
+| 00:15 | **LIAXMLV**: Siamese Cat | **soapybunnie_0**: S'mores Raccoon (MFR) |
+| 00:15 | **hopia00**: Siamese Cat (R), Border Collie (R), Border Collie, Munchkin Cat (R), Hot Doggo (FR) | **obesezilla**: Cryptid |
+| 00:15 | **meowmushh**: Cryptid (FR) | **sleepy_s0ren**: Chocolate Chip Bat Dragon (FR), Werewolf (FR) |
+| 00:15 | **madelineabomb**: 2022 Birthday Cake, Cow (FR), Fly-A-Pet Potion ×2, Dolphin (NR) | **Paipapaprapaa**: Rainbow Maker |
+| 00:15 | **Blum_Anifer**: Candyfloss Chick (R) | **daanz2**: Irish Water Spaniel, Tortuga de la Isla (R), Ram (N) |
+| 00:15 | **natixezq**: S'mores Raccoon ×6 | **Pennylivn**: Ride-A-Pet Potion ×6 |
 
-## Elvebredd value changes: 63,046 since 2023-09-16
+## Elvebredd value changes: 63,190 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-25 01:39 | Copycat | mega fly ride | 98 | 94 |
-| 2026-11-25 01:39 | Copycat | neon fly ride | 24 | 23 |
-| 2026-11-25 01:39 | Copycat | default no potion | 5 | 4.75 |
-| 2026-11-25 01:39 | Strawberry Tortle | mega fly ride | 476 | 468 |
-| 2026-11-25 01:39 | Strawberry Tortle | neon fly ride | 117 | 115 |
-| 2026-11-25 01:39 | Strawberry Tortle | default no potion | 28 | 27.5 |
-| 2026-11-25 01:39 | Tortoiseshell Guinea Pig | mega fly ride | 310 | 322 |
-| 2026-11-25 01:39 | Tortoiseshell Guinea Pig | neon fly ride | 76 | 79 |
-| 2026-11-25 01:39 | Tortoiseshell Guinea Pig | default no potion | 17.5 | 18 |
-| 2026-11-25 01:39 | Latte Kitsune | mega fly ride | 54 | 52 |
-| 2026-11-25 01:39 | Latte Kitsune | neon fly ride | 12.5 | 12 |
-| 2026-11-25 01:39 | Latte Kitsune | default no potion | 2.35 | 2.25 |
-| 2026-11-25 01:39 | Candicorn | default no potion | 20 | 20.25 |
-| 2026-11-25 01:39 | Arctic Dusk Dragon | mega fly ride | 80 | 76 |
-| 2026-11-25 01:39 | Arctic Dusk Dragon | neon fly ride | 20 | 19 |
+| 2026-11-25 23:54 | Copycat | mega fly ride | 94 | 90 |
+| 2026-11-25 23:54 | Copycat | neon fly ride | 23 | 22 |
+| 2026-11-25 23:54 | Copycat | default no potion | 4.75 | 4.5 |
+| 2026-11-25 23:54 | Jester Dragon | default no potion | 4.75 | 4.5 |
+| 2026-11-25 23:54 | Amethyst Penguin | mega fly ride | 2160 | 2144 |
+| 2026-11-25 23:54 | Amethyst Penguin | neon fly ride | 530 | 522 |
+| 2026-11-25 23:54 | Amethyst Penguin | default fly ride | 130 | 128 |
+| 2026-11-25 23:54 | Strawberry Tortle | mega fly ride | 468 | 460 |
+| 2026-11-25 23:54 | Strawberry Tortle | neon fly ride | 115 | 113 |
+| 2026-11-25 23:54 | Strawberry Tortle | default no potion | 27.5 | 27 |
+| 2026-11-25 23:54 | Panda Cap | default no potion | 1350 | 1375 |
+| 2026-11-25 23:54 | Red Dutch Guinea Pig | mega fly ride | 76 | 80 |
+| 2026-11-25 23:54 | Red Dutch Guinea Pig | neon fly ride | 18 | 19 |
+| 2026-11-25 23:54 | Red Dutch Guinea Pig | default no potion | 3.5 | 3.75 |
+| 2026-11-25 23:54 | Tortoiseshell Guinea Pig | mega fly ride | 322 | 338 |
 
 ## AMVGG value changes: 8,283 since 2026-06-02
 
