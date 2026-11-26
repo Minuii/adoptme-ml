@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 07:11 UTC by the scrape workflow._
+_Updated 2026-11-26 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 07:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 29,590 | 2026-11-26T07:00 |
-| elve | 16 | 6,092 | 2026-11-26T07:01 |
+| amvgg | 16 | 29,832 | 2026-11-26T07:15 |
+| elve | 16 | 6,124 | 2026-11-26T07:15 |
 
-## AMVGG completed trades: 66,783 total
+## AMVGG completed trades: 66,784 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 813 |
+| 2026-11-26 | 814 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,7 @@ _Updated 2026-11-26 07:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:15 | **faikubjotch**: Ballet Swan (NFR) ×3, Matcha Cat (N) ×2, Matcha Cat (NR) ×2, Emu (MR) | **leruval**: Owl (FR) |
 | 07:11 | **anihao17**: Skelicorn (MFR) | **0bviouslynotdezya**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
 | 07:11 | **wuishdwqkjsh**: Ride-A-Pet Potion ×2 | **ElsaRolbox9**: Chocolate Dutch Guinea Pig (R) |
 | 07:11 | **hoschakaI**: Bat Dragon (NFR) | **MrToy40**: Frost Dragon (FR) ×7 |
@@ -53,7 +54,6 @@ _Updated 2026-11-26 07:11 UTC by the scrape workflow._
 | 07:11 | **Tomatoxxxblizzard**: Haetae (NFR), Fairy Bat Dragon (NFR), Dragonfruit Fox (M), Cow, Ice Cream Hermit Crab (N), Mr. Whiskerpips (M) | **rumpuiz**: Shadow Dragon (FR) |
 | 07:11 | **BUS5ED**: Unicorn Horn | **kayy0776**: Fallow Deer (NFR) |
 | 07:11 | **arqvve1**: Frost Unicorn (MFR), Fairy Bat Dragon (MFR), Dango Penguins (MFR), Fairy Bat Dragon (FR), Sugar Glider (FR), Turtle (FR), 2022 Birthday Cake, Unicorn Horn, Rain Cloud Hat, Kangaroo (FR), Frost Fury (FR), Ride-A-Pet Potion | **elielyande**: Dalmatian (MFR) |
-| 07:11 | **epicpulsechaos2024**: Ancient Dragon ×18 | **Sofixiskiller**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
