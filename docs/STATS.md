@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 19:25 UTC by the scrape workflow._
+_Updated 2026-11-26 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 41,055 | 2026-11-26T19:15 |
-| elve | 16 | 8,582 | 2026-11-26T19:15 |
+| amvgg | 16 | 41,318 | 2026-11-26T19:30 |
+| elve | 16 | 8,657 | 2026-11-26T19:31 |
 
-## AMVGG completed trades: 69,102 total
+## AMVGG completed trades: 69,130 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,132 |
+| 2026-11-26 | 3,160 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 19:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:25 | **meows_370**: Dragonfruit Fox | **Dasha1_Star**: Ride-A-Pet Potion ×2 |
-| 19:25 | **Presentformery**: Panda (R) | **mellqxxrb**: Ride-A-Pet Potion |
-| 19:25 | **cocob4by**: Strawberry Shortcake Bat Dragon (FR), Dango Penguins (R), Dango Penguins, Ride-A-Pet Potion | **gxvupx**: Cow (FR), Turtle (R), Kangaroo (FR) |
-| 19:25 | **epicpulsechaos2024**: Ancient Dragon ×10 | **dia40r**: Ride-A-Pet Potion |
-| 19:25 | **farmer_post1**: Santa Hat | **miraahuntrix**: Ride-A-Pet Potion ×6 |
-| 19:25 | **tr4d3s_adoptnew**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×6 | **gavinmrgoon**: Frost Unicorn (R) |
-| 19:25 | **artem_rbz18**: Christmas Pudding Pup (NR), Fly-A-Pet Potion | **Hankcam05**: Cabbit |
-| 19:25 | **GERDA_6O6**: Ride-A-Pet Potion ×2, Red Squirrel (R) | **chocomallowdrizzle**: Latte Kitsune |
-| 19:25 | **hhhauntedddd**: Tarantula (N), Weevil (N), Lunar Ox (N), Grinmoire (N) | **BROIMBROKEAHHHHH**: Chocolate Dutch Guinea Pig |
-| 19:25 | **caby_vr**: Arctic Dusk Dragon (FR) | **Candron6**: Ride-A-Pet Potion ×5 |
-| 19:25 | **perit4733**: Ride-A-Pet Potion | **Fayba42123**: Classic Trade Stand ×2 |
-| 19:25 | **werreriss0**: Christmas Pudding Pup (R) ×2, Sour Glider, Pomeranian | **Kir4kaa**: Christmas Pudding Pup ×2, Ride-A-Pet Potion |
-| 19:25 | **iimarai3**: Owl (FR), Mini Pig (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×10 | **2Edensh**: Frost Dragon (FR) |
-| 19:25 | **summerdounut123**: Hopbop (MR), Tasmanian Tiger (M) | **roblox_user_2357474083**: Ride-A-Pet Potion ×3 |
-| 19:25 | **mrxic2**: Chihuahua (MR), Christmas Pudding Pup, Fly-A-Pet Potion | **pdscatalex**: Candicorn (FR) |
+| 19:30 | **ivrquiz**: Cow (FR) ×2, Border Collie (FR), Spring Bunny Feet | **Rbd_JP**: Cabbit (NFR) |
+| 19:30 | **AyiGamerUwu**: Mochi Meow (M) | **Nevaeh_sxfte**: Ride-A-Pet Potion ×2 |
+| 19:30 | **xchansrighteyelashx**: Count Slothula (N), Australian Kelpie (NF) | **2000_Nr**: Llama (FR) |
+| 19:30 | **iaintgettinghacked_0**: Shark Puppy (NR), Ice Cream Cone Hat | **mikiroqz**: Moon Rabbit (M), Amami Rabbit (MR), Unicorn Horn, Ride-A-Pet Potion |
+| 19:30 | **FisheYT3**: Chocolate Dutch Guinea Pig (MFR) ×2, Glacier Moth (N), Great Pyrenees (MF) | **marchthenewest**: Cryptid (FR) |
+| 19:30 | **LucygamerYTi**: Fairy Bat Dragon (FR), Pink Cat Ear Headphones | **Erickztt16**: Alpaca (FR) |
+| 19:30 | **TooJazzy2**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×2 | **Coconut_92j**: Munchkin Cat |
+| 19:30 | **1220birth1005100**: Turtle (R), Kangaroo (R), Kangaroo (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Zroxxxxx**: Strawberry Shortcake Bat Dragon (FR) |
+| 19:30 | **JuliaCat_Roblox1**: Turtle (FR), Turtle (R), Munchkin Cat (R), Arctic Fox (FR), Ride-A-Pet Potion ×2 | **Zroxxxxx**: Chocolate Chip Bat Dragon (FR) |
+| 19:30 | **Cwqxlly**: Chocolate Dutch Guinea Pig | **puppyplayz198**: Snowball Pet, Cake Friend, Crystal Egg ×4 |
+| 19:30 | **Chxrry1YT**: Mini Pig (FR), Cow (FR), Goose, Cupid Dragon (FR) | **xxbear_kidsxx**: Dalmatian, Unicorn Horn |
+| 19:30 | **MayMayMayGirl**: Swan, Tuxedo Cat | **suasage_soyum**: Alley Cat |
+| 19:30 | **foovva**: Cow (FR) | **AvokadoJFKfanat**: Kangaroo (FR), Frost Fury (FR), Ride-A-Pet Potion ×9 |
+| 19:30 | **jobma228**: Frost Fury (R), Jacobin Pigeon (M) | **foovva**: Fly-A-Pet Potion ×3 |
+| 19:30 | **foovva**: Fly-A-Pet Potion ×3 | **adopter_trading**: Frost Fury (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
