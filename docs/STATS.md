@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 03:01 UTC by the scrape workflow._
+_Updated 2026-11-26 03:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 03:01 UTC by the scrape workflow._
 | amvgg | 16 | 25,847 | 2026-11-26T03:00 |
 | elve | 16 | 5,386 | 2026-11-26T03:01 |
 
-## AMVGG completed trades: 66,352 total
+## AMVGG completed trades: 66,371 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 382 |
+| 2026-11-26 | 401 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 03:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:00 | **Galapogus7**: Soccer Stadium | **lunarodlox38**: Ride-A-Pet Potion |
-| 03:00 | **cutesyiza**: Burger Bear, Count Slothula | **Puppylover227331**: Burger Boots |
-| 03:00 | **1Biahsz_altx**: Ride-A-Pet Potion, Fairytale Egg ×2 | **Barssformarss**: River Otter (M) |
-| 03:00 | **CYB3R_S0ULZZZ**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Frost Fury (MFR), Diamond Hummingbird (NR), Arctic Dusk Dragon | **TMDung20**: Owl (FR) |
-| 03:00 | **cat_lover14q**: Cryptid (FR), Shrew (NR), Zeopod (M), Admin Vision Glasses, Admin Vision Wings, Admin Vision Cap | **abrei2**: Haetyphoon (MFR) |
-| 03:00 | **Leafiieee**: Zebra (MR), Zebra (NR) | **XzMonolds**: Fly-A-Pet Potion |
-| 03:00 | **thenextbaddie9**: Gumball Caterpillar (M), Pomeranian (M), Gorilla (M), Pilot Gull (M), Zebra (M) | **XzMonolds**: Fly-A-Pet Potion ×2 |
-| 03:00 | **pookie1917**: Cabbit (FR), Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2 | **Maybeimnotbig**: Goose (FR), Turtle (FR) |
-| 03:00 | **A1d3n_L1ve**: Skelicorn ×12 | **Qu33nDQCrimsonO19932**: Ride-A-Pet Potion |
-| 03:00 | **pusilups**: Chocolate Chip Bat Dragon (NFR), Rainbow Maker, Arctic Reindeer (NFR) | **captainmarvel1089**: Peppermint Penguin (MFR) |
-| 03:00 | **candy11246**: Strawberry Penguin (MFR), Dragonfruit Fox (MFR), Cabbit (FR), Sheeeeep (MFR), Matcha Cat (NR), Vanilla Penguin (MFR), Red Dutch Guinea Pig (MFR), Munchkin Cat (MFR), Gaelic Fae (MFR), Slime (MFR), Chocolate Dutch Guinea Pig (MFR), Sunrise Duckling (MFR), Cloud Car, Rainbow Maker, Kiwi (MFR), Alley Cat (MR), 2022 Birthday Cake, Sushi Penguin (MFR) | **serpentibendi**: Cryptid (MFR) |
-| 03:00 | **Chester_Rblx**: Axolotl (R), Kiwi Kiwi, Three Blind Mice | **melynagamer3**: Fly-A-Pet Potion |
-| 03:00 | **La_boyMich15**: Gingerbread Reindeer (NR), Cat (NR), Dog (N), Otter (N), Puma (N) | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 03:00 | **s6ythed**: Dalmatian (FR), Crow (FR), Ride-A-Pet Potion, Skunk (MR) | **Kid26Jellyfish**: Hedgehog (NFR) |
-| 03:00 | **AyiGamerUwu**: Little Lamb (M) | **aoakqhyc**: Ride-A-Pet Potion |
+| 03:11 | **KuyenTime**: Turtle (FR), Werewolf (FR) | **AsianIceCold**: Matcha Cat (NFR), Shrew (R) |
+| 03:11 | **eggnoobppp**: Border Collie (NFR), Turtle (FR), Glacier Moth | **ContentOtter9075**: Rainbow Maker, Toaster Hat |
+| 03:11 | **Rylo122414**: Fly-A-Pet Potion | **Goodbyes26**: Crystal Egg ×18 |
+| 03:11 | **cxar_25**: Giraffe (FR), Owl (FR), Evil Unicorn (FR) ×3 | **Adoptmetradingalt82**: Hedgehog (MFR) |
+| 03:11 | **wwastedcurrency**: Skelicorn (M), Ehecatl (N), Persian Cat (N), Ribbon Seal (N), Mummy Spider (M), Frogspawn (NR), Caramelgeist (N), Bandicoot (N), Ocelot (N), Orangutan (N), Princess Mare (M), Parakeet (N) | **MoMtobias**: Ride-A-Pet Potion ×2 |
+| 03:11 | **chipy8012**: Ride-A-Pet Potion, Pupcicle | **taburetkablo**: Eggnog Dog (N) |
+| 03:11 | **ycvent**: Siamese Cat (NFR), Puffer Fish (MFR), Elephant (NFR), Albino Monkey (NFR) | **4evxer**: Siamese Cat (MFR) |
+| 03:11 | **Chester_Rblx**: Kangaroo (FR), Three Blind Mice | **i_am4Arna**: Candicorn (FR) |
+| 03:11 | **carolzaothecreator**: Chihuahua | **jaundita23**: Police Cap |
+| 03:11 | **terrylonsoyjerry**: Blazing Lion (FR), Goose (FR), Matcha Cat (NFR), Peppermint Penguin (R), Frostbite Bear (R), 2022 Birthday Party Hat, Giraffe Backpack, Unicorn Horn, Giraffe Hat, Halo, Matcha Cat ×3 | **Lpoopbxhe**: Strawberry Shortcake Bat Dragon (MFR), Ride-A-Pet Potion ×2 |
+| 03:11 | **e2kk_121003**: Nessie | **milanessaa_conpure**: Alley Cat, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 03:11 | **amvggbunni_won**: Bunny Swirl (N) | **wonheexiie**: Bunny Swirl (R) ×2, Sweetheart Rat (N) |
+| 03:06 | **AutoTradeCommission**: Giraffe (FR), Fly-A-Pet Potion | **ruralurbanmigration**: Matcha Cat (MFR), Emperor Gorilla (MFR), Zombie Wolf (MFR) ×2, Frost Phoenix (MFR), Tiny Wings |
+| 03:06 | **AutoTradeCommission**: Cow (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Baldyellowwoman**: Sushi Penguin (M), Great Pyrenees (MR), Happy Duckling (MR) |
+| 03:06 | **002002002LE0**: Nessie (MFR), T-Rex (MFR), Sushi Penguin (MFR), Toucan (MFR) | **012e0122**: Diamond Amazon (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
