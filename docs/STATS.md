@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 17:11 UTC by the scrape workflow._
+_Updated 2026-11-26 17:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 17:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 38,730 | 2026-11-26T17:00 |
-| elve | 16 | 8,033 | 2026-11-26T17:01 |
+| amvgg | 16 | 38,974 | 2026-11-26T17:15 |
+| elve | 16 | 8,052 | 2026-11-26T17:15 |
 
-## AMVGG completed trades: 68,473 total
+## AMVGG completed trades: 68,514 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,503 |
+| 2026-11-26 | 2,544 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 17:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:11 | **lollipopleah7861**: Mexican Wolf (M), White Choccybunny ×17 | **Nicole1212Caghuana3**: Ride-A-Pet Potion |
-| 17:11 | **Xxcoralia_omgxX**: Tree Kangaroo (NFR) | **Kristi111l**: Tiny Wings |
-| 17:11 | **jojiurqueen**: Hawk (R) | **poly0950**: Crystal Egg ×12 |
-| 17:11 | **vivi_ivyyy**: Milk Choccybunny (M), Dark Choccybunny (N) | **helloiam_spongebob**: Ride-A-Pet Potion |
-| 17:11 | **Adore_Pandaz**: Dingo (N), Ocelot (N) ×2, Milk Choccybunny (N), Unicorn Ducky (N), Red Panda (N), Frankenfeline (N) | **helloiam_spongebob**: Ride-A-Pet Potion |
-| 17:06 | **vivi_ivyyy**: Gummy Guana (M), Easter Bunny (N) | **Laktozik1**: Ride-A-Pet Potion |
-| 17:06 | **Iamabaconboilol**: Chocolate Chip Bat Dragon (FR) ×2, Pelican | **Light_Moon8461**: Strawberry Shortcake Bat Dragon (FR) ×2, 2022 Birthday Cake |
-| 17:06 | **fluffyunicorns_932**: Goose (FR) | **Emanuel_funao**: Great Pyrenees (MFR), Toasty Red Panda (MFR), Kitty Bat (MR) |
-| 17:06 | **mellqxxrb**: Monkey (N), Sloth (R) | **tresh_blin12**: Ride-A-Pet Potion |
-| 17:06 | **SergiioGamer04**: Frost Dragon (FR), Golden Lettuce ×3 | **Mcdonaldsofaustralia**: Strawberry Shortcake Bat Dragon (FR) ×4 |
-| 17:06 | **w0onlll**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **roblox_user_4753536563**: Unicorn (NFR) |
-| 17:06 | **sd_pgi**: Dango Penguins (NR), Octopus, Cuddly Candle (R) | **varmitrof**: Dango Penguins (NFR) |
-| 17:06 | **c4rrxblushh**: Dango Penguins (MFR), Fly-A-Pet Potion | **Penguinis_icey**: Hare (MFR) |
-| 17:06 | **anutik_awesome**: Strawberry Shortcake Bat Dragon (FR), Tiny Wings, Sheeeeep (FR), Head Chef, Moose Calf | **sakotfzg**: Dalmatian (FR) |
-| 17:06 | **Quueen_Juliiaa**: Diamond Ladybug (FR), Capricorn (FR), Robo Dog (FR), Mochi Meow (NR), Dragon (NR), Axolotl (R), Mochi Meow (N) | **Vitek_228666**: Fly-A-Pet Potion ×5 |
+| 17:15 | **wiirex12o2**: Frankenfeline (NFR) | **women_7031**: Ride-A-Pet Potion |
+| 17:15 | **Lola242532**: Cryptid (R) | **Robloxian19039878**: Dalmatian (FR) |
+| 17:15 | **Adore_Pandaz**: Bee (N), Toucan (N), Ghost (N) | **JAHQUAYKAZII**: Ride-A-Pet Potion |
+| 17:15 | **5689kgf02**: Fairy Bat Dragon (FR) | **fregh533**: Elephant (FR), Crocodile (FR) |
+| 17:15 | **women_7031**: Fly-A-Pet Potion | **TYTkuza2**: Pancake Stack |
+| 17:15 | **xeri_1488**: Flamingo (FR) | **kammalammal**: Royal Mistletroll (FR) |
+| 17:15 | **millesww777**: Sheeeeep (FR) | **Syshsf237**: Christmas Pudding Pup (FR) |
+| 17:15 | **Cinzsins**: Fly-A-Pet Potion ×10 | **IWantofFeelAlive**: Ride-A-Pet Potion ×18 |
+| 17:15 | **wh0slvvnie**: Tree Kangaroo (NFR), Quokka (N), Ride-A-Pet Potion | **justinepaje123**: Latte Kitsune (NFR) |
+| 17:15 | **yu6iio**: Ride-A-Pet Potion | **wavehrt**: Dumpling Friend Hat |
+| 17:15 | **Iobotomyd**: Shadow Dragon (FR), Chocolate Chip Bat Dragon (MFR), Goat (MFR), Cow (FR), Slime (MFR), Silly Duck (MFR), Ghost Bunny (MFR), Great Pyrenees (MR) ×2, Puffer Fish (N) | **Tates1ush**: Frost Dragon (MFR) |
+| 17:15 | **Frodj_xd**: Evil Unicorn (FR) ×2, Fly-A-Pet Potion ×2 | **otonite7**: Owl (FR) |
+| 17:15 | **Rexgaang39**: Huntsman Robin ×12 | **lampoch228**: Ride-A-Pet Potion |
+| 17:15 | **Gamechar1015**: Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Fly-A-Pet Potion ×2, Chocolate Chip Bat Dragon (F) | **samir123445457**: Chocolate Chip Bat Dragon (NFR) |
+| 17:15 | **xXhawa_xX**: Ride-A-Pet Potion ×13, Fly-A-Pet Potion ×2 | **EthanNovaZoom2024**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
