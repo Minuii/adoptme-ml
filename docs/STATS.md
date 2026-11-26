@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 01:31 UTC by the scrape workflow._
+_Updated 2026-11-26 01:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 01:31 UTC by the scrape workflow._
 | amvgg | 16 | 24,331 | 2026-11-26T01:30 |
 | elve | 16 | 5,111 | 2026-11-26T01:31 |
 
-## AMVGG completed trades: 66,183 total
+## AMVGG completed trades: 66,186 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 213 |
+| 2026-11-26 | 216 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,9 @@ _Updated 2026-11-26 01:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:40 | **krimpriiz**: Pupcicle (N) | **zandermarioo**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 01:40 | **Pao_ComRequeijaokkj**: Tiny Wings, Head Chef | **C4K3YK1TTEN**: Rain Cloud Hat, Butter Knife |
+| 01:40 | **monkeytacticxx**: Pet Handler Pro Certificate | **mango4505**: Fly-A-Pet Potion |
 | 01:30 | **Dinkarrt**: Fly-A-Pet Potion | **Boo_kittykitty**: Winter Fawn (M) |
 | 01:30 | **gongseni**: Fly-A-Pet Potion | **7MS23**: Ride-A-Pet Potion ×2 |
 | 01:30 | **Dinkarrt**: Pet Handler Pro Certificate, Show Pony (N) | **Ethernaces**: Ride-A-Pet Potion ×2 |
@@ -51,9 +54,6 @@ _Updated 2026-11-26 01:31 UTC by the scrape workflow._
 | 01:30 | **iibancaxx**: Pig (FR), Ride-A-Pet Potion ×5 | **Furina5556**: Albino Monkey (R) |
 | 01:30 | **reiikell**: Christmas Pudding House ×2, Fairytale Castle | **SalvatoreDollie**: Pirate Ship House |
 | 01:30 | **jacksons_party7**: Arctic Fox (R), S'mores Raccoon, Harp Seal, Ride-A-Pet Potion | **MLP_524**: Munchkin Cat (R) |
-| 01:30 | **Alana_enna22**: Piranha, Bluebottle Fly, Bandicoot, Snorgle, Rodeo Bull, Rock, Red Cardinal, Dracula Fish, Chickatrice, Thunderfisher, Unicorn Ducky, Pain au Chat | **padrushka_romashka**: Ride-A-Pet Potion |
-| 01:30 | **inicio1994**: Christmas Pudding Pup (R), Christmas Pudding Pup | **Lindaunicornio30990**: Munchkin Cat (R), Ride-A-Pet Potion ×2 |
-| 01:30 | **qwutrs**: Christmas Pudding Pup ×6, Christmas Pudding Pup (R) ×4 | **Girliejuststfu**: Arctic Reindeer |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
