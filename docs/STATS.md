@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 12:01 UTC by the scrape workflow._
+_Updated 2026-11-26 12:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 12:01 UTC by the scrape workflow._
 | amvgg | 16 | 33,995 | 2026-11-26T12:00 |
 | elve | 16 | 7,034 | 2026-11-26T12:01 |
 
-## AMVGG completed trades: 67,365 total
+## AMVGG completed trades: 67,395 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,395 |
+| 2026-11-26 | 1,425 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:00 | **personal_stalker69**: Arctic Dusk Dragon (MFR), Fly-A-Pet Potion ×5 | **Mskaelaniii**: Fairy Bat Dragon (NFR) |
-| 12:00 | **Aupaccs**: Crystal Egg ×15 | **CatMaowss**: Ride-A-Pet Potion |
-| 12:00 | **St0pid_DeVil**: Cherub Chipmunk (MR) | **yours_MotherUnU**: Ride-A-Pet Potion |
-| 12:00 | **Ryou_senpai05**: Arctic Fox, Gecko (N) | **Paipapaprapaa**: Matcha Cat, Ride-A-Pet Potion |
-| 12:00 | **Rainy_rarr**: Ride-A-Pet Potion | **queenalwaysslayxx**: Crystal Egg ×18 |
-| 12:00 | **luvhariiz**: Unicorn (MFR) | **cevuar**: Bunny Swirl (MFR), Harp Seal (R), Butter Knife, Bready Necklace, Cotton Candy Hat |
-| 12:00 | **rayswardrobe**: Alpaca (MFR), Siamese Cat, Cabbit (FR) | **lovestrqck**: Velocirooster (MFR), Bush Elephant (MFR), Jellyfish (MFR) |
-| 12:00 | **Nicologrande13**: Arctic Reindeer (FR) | **Pupppy457**: Mermicorn (NFR) |
-| 12:00 | **Allyanaph124**: Rain Hat, Chick Backpack, Candy Corn Hat, Hamster Selfie Sticker | **Piska_sanLoshara666**: Ride-A-Pet Potion |
-| 12:00 | **cya_adoptmechallange**: Kangaroo (FR) | **Niklon4ik**: Fly-A-Pet Potion ×10 |
-| 11:55 | **supersuspens**: Ride-A-Pet Potion, Caramelgeist (M) | **Pyps_lol7**: Chocolate Dutch Guinea Pig |
-| 11:55 | **Puresksxz**: Hedgehog (FR) ×2, Strawberry Shortcake Bat Dragon (FR), Goose (FR) | **Caveneural5982**: Parrot (NFR) |
-| 11:55 | **Puresksxz**: Hedgehog (FR), Chicken (NFR), Ballet Swan | **Junjyungg**: Haetae (FR) |
-| 11:55 | **clalouetciedh**: Ancient Dragon ×14 | **ventisnumb3r1fan**: Ride-A-Pet Potion |
-| 11:55 | **Fbrleey**: Diamond Hamster (R), Sloth (NR), Panda (FR), Unicorn (R), Puptune (R) | **sedrasabah**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 12:11 | **tink3rb3lld7**: Parrot (FR), Dango Penguins, Ride-A-Pet Potion | **PowersMia2955**: Mechapup (MFR) |
+| 12:11 | **ymniy_natasha**: Sakura Spirit (MFR), Christmas Spirit (MFR) | **urfavourite_fp**: Cryptid (FR) |
+| 12:11 | **Lakelanddjskskdjdjjd**: Giant Panda (NFR), Cerberus (NFR) | **Affgfghec**: Frost Dragon (NFR), Turtle (MFR) |
+| 12:11 | **zianagirls**: Fly-A-Pet Potion, Stitches ×3, Skelicorn, Pomeranian | **YourLocalTraderer**: Ride-A-Pet Potion ×2 |
+| 12:11 | **sunday0_01**: Gecko (M) | **XxITzAli_xX**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
+| 12:11 | **d3d3d89**: Dragon (FR), Horse (R), Purrowl (NR) | **qO_Opli**: Ride-A-Pet Potion ×2 |
+| 12:11 | **NotSweatyOnion**: Robo Dog (FR), Griffin (FR), Hawk (FR) | **melynagamer3**: Ride-A-Pet Potion ×3 |
+| 12:11 | **Quean_33**: Ride-A-Pet Potion, Choco Penguin (N), Love Letter | **Vikakelera**: Pet Handler Pro Certificate |
+| 12:11 | **AHHH1231233**: Sushi Penguin ×2 | **melynagamer3**: Fly-A-Pet Potion |
+| 12:11 | **yk_xlea**: Swan (MFR) | **toybeau772**: Crocodile (R), Pink Cat, Polar Bear, Skele-Rex (NR), Frog (NR), Orca (M), Shark (R) |
+| 12:11 | **YOKOZ303**: Flash Weasel | **Abietis**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
+| 12:11 | **CuppysCupcake**: Alley Cat (R) | **Yumi_Rose8**: Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 12:11 | **AlyonaTheLove**: Monkey King, Shrew (R), Jester Dragon (FR), Burger Bear (N), Chick (N), Monkey King Crown, Ride-A-Pet Potion | **lol_whateverx67hsk81**: Chocolate Chip Bat Dragon (FR) |
+| 12:11 | **faikubjotch**: Pig, Pink Cat (R), Vampire Dragon (R), Sushi Penguin (NR), Glacier Kitsune (FR), Meerkat (R), Peahen, Fly-A-Pet Potion | **lol_whateverx67hsk81**: Mini Pig (FR) |
+| 12:06 | **cya_adoptmechallange**: Kangaroo (FR) | **Niklon4ik**: Fly-A-Pet Potion ×10 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
