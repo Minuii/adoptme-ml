@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 03:55 UTC by the scrape workflow._
+_Updated 2026-11-26 04:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 03:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 26,558 | 2026-11-26T03:45 |
-| elve | 16 | 5,505 | 2026-11-26T03:46 |
+| amvgg | 16 | 26,805 | 2026-11-26T04:00 |
+| elve | 16 | 5,546 | 2026-11-26T04:01 |
 
-## AMVGG completed trades: 66,457 total
+## AMVGG completed trades: 66,481 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 487 |
+| 2026-11-26 | 511 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 03:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:55 | **epicpulsechaos2024**: Alicorn ×18 | **valeteam18**: Ride-A-Pet Potion ×2 |
-| 03:51 | **dedeprodc**: Chocolate Chip Bat Dragon (FR), Hare (NR), Skelicorn (N) | **eyeofrahismymom**: Cabbit (NFR) |
-| 03:51 | **boba1ovess**: Hawk (MFR) | **Pinkebunbuns**: Ranger Beaver (MFR) |
-| 03:51 | **franz_1365**: Super Saru (MR), Aestus | **lucozadesportt**: Frostbite Bear (R) |
-| 03:51 | **Cristoferpro73739**: Cryptid (FR) | **CallMehJayGurl**: Honey Badger (MFR) |
-| 03:51 | **FreezingReyy**: Cow (FR), Turtle (FR), German Shepherd (MFR), Frostbite Bear, Pupcake (MFR) | **thyrrone1**: Evil Unicorn (FR) |
-| 03:51 | **fallpjs**: Fallow Deer (MFR), Pupcicle ×4 | **dvesydoll**: Cow (NFR) |
-| 03:51 | **Auds191102**: Red Dutch Guinea Pig (MFR), Invisible Wings | **dvesydoll**: Fallow Deer (MFR) |
-| 03:51 | **kdooo2020**: Goth Shoes | **Xx_lxmwXx**: Fallow Deer |
-| 03:51 | **A_nn890**: Dalmatian (FR), Arctic Fox (FR), Kangaroo (FR), Kangaroo, Turtle | **TANSKlN**: Crow (FR) |
-| 03:51 | **Addisonraeee25**: Cryptid (FR), Snowball Pet (MR) | **LEODAGOATT710**: Shark Puppy (NFR), Jousting Horse (MFR), Slime (N) |
-| 03:51 | **iiStarlight_Midnight**: Arctic Dusk Dragon (NFR) | **ypeixoto_00**: Binturong (MFR) |
-| 03:51 | **GrindAccount_N1**: Goat, Giant Anteater | **Kikidiyu**: Diamond King Penguin (NFR), Pupcicle (NR) |
-| 03:51 | **hearts4sasukee**: Moon Rabbit, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **lucozadesportt**: Meerkat |
-| 03:51 | **nsf772**: Mochi Meow (M) | **albina_52uwu**: Dragonfruit Fox |
+| 04:00 | **httpsshad0w**: Dalmatian (FR), Ride-A-Pet Potion ×2 | **NeonGamerStar20**: Cryptid (R) |
+| 04:00 | **PrisonLifePro106**: Winter Doe (N) | **Leopeo6580**: Ride-A-Pet Potion |
+| 04:00 | **bell_flowers**: Dango Penguins (MFR), Kangaroo (FR), Kangaroo (R), Turtle (FR), Candicorn (R), Siamese Cat (R) | **antuco_tuco909**: Giant Panda (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 04:00 | **LoL22221364**: Pink Cat Ear Headphones, Catte (NR), Spring Bunny Hood | **10kxkaash**: Tiny Wings |
+| 04:00 | **iiSimplylvxy**: Shark Puppy | **Hiaddmebackpls9**: Rose Dragon (R) ×2, Rose Dragon |
+| 04:00 | **Jaeebirddd**: Ride-A-Pet Potion | **Hell0_kitty7v7xd**: Bat (NR) |
+| 04:00 | **Rainbowunicorn5303**: Mini Pig (FR), Shark Puppy (FR), Llama (NFR), Zombie Buffalo, Fly-A-Pet Potion ×2 | **BaconetteNoobs**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:00 | **Zombie2000668**: Werewolf (R), Ride-A-Pet Potion | **HELENA_GUEMER12494**: Moon Rabbit (MFR) |
+| 04:00 | **catvlq**: 2D Kitty, Count Slothula | **meeptaser**: Soccer Stadium |
+| 04:00 | **rU27na**: Starfish ×4, Little Lamb ×4 | **BuriedDoll**: Moon Egg ×2 |
+| 04:00 | **GIANCI_TO1**: Kangaroo (FR) | **luvyerh**: Ride-A-Pet Potion ×17 |
+| 04:00 | **vertaocsi**: African Wild Dog (FR), Tiny Wings | **KeimoKaiAlr**: Strawberry Cupcake Shoes |
+| 04:00 | **Cristal2792**: Chihuahua ×3 | **charlotterae24**: Ride-A-Pet Potion |
+| 04:00 | **Ray238z**: Kangaroo (FR) | **Z1NCHES**: Unicorn (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 04:00 | **SANANELANISMIMDEN_LA**: Ride-A-Pet Potion ×18 | **uniedol1100**: Turtle (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
