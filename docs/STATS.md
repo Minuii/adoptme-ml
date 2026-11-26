@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 08:46 UTC by the scrape workflow._
+_Updated 2026-11-26 08:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 08:46 UTC by the scrape workflow._
 | amvgg | 16 | 31,112 | 2026-11-26T08:45 |
 | elve | 16 | 6,398 | 2026-11-26T08:46 |
 
-## AMVGG completed trades: 66,943 total
+## AMVGG completed trades: 66,954 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 973 |
+| 2026-11-26 | 984 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 08:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:55 | **bus1ikk**: Mouse (MR), Corgi (N), Badger (N), Ant (M) | **FRIK_RR**: Ride-A-Pet Potion |
+| 08:55 | **povcalgary**: Rainbow Dragon (MFR), Glormy Leo (FR), Fossa (MR) | **4evxer**: Dango Penguins (MFR) |
+| 08:51 | **TheEerthh**: Crystal Egg ×11 | **bubuBUbu0897**: Moon Rabbit |
+| 08:51 | **HeavenlySylvie**: Zombie Wolf (MFR) | **misspinkie2008**: Zombie Wolf (M) |
+| 08:51 | **killerman_xd1**: Dragonfly ×12 | **NaomiMikael1**: Ride-A-Pet Potion |
+| 08:51 | **Mya_strawberryz**: Malaysian Tapir ×2, Mongoose (N) | **vrslztx0**: Ride-A-Pet Potion |
+| 08:51 | **lkmsdfw**: Mini Pig (FR), Fly-A-Pet Potion | **voorobushek**: Elephant (FR), Crocodile (FR), Munchkin Cat (FR) |
+| 08:51 | **mxdmcrza**: Arctic Reindeer (FR), Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×4 | **Hokky_q**: Dalmatian (FR) |
+| 08:51 | **Masha231391**: Gemstone Egg | **lordityy**: Pain au Chat |
+| 08:51 | **JorgeEduardo_123**: Rainbow Stroller, Husky Sled, Prince Carriage | **josuebogarr**: Fly-A-Pet Potion |
+| 08:51 | **NOOBinROBLOX2022**: Fairy Bat Dragon (NFR), Cow | **jhmjchxm_dfgjgj**: Hedgehog (FR) |
 | 08:41 | **atomicbubu**: Hedgehog (FR), Cabbit (FR), Fly-A-Pet Potion | **Jadameigo**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) |
 | 08:41 | **Shinroa6**: Stray Cat Dragon (M) | **Marines_Natalia**: Fly-A-Pet Potion |
 | 08:41 | **Zak_0250**: Sushi Penguin (N), Unicorn (MFR), Pupcake (MFR), Pain au Chat (N), Cattuccino (MR), Beluga Whale (M), Trapdoor Snail, Slug (R) | **iIovearabella**: 2022 Birthday Party Hat |
 | 08:41 | **bubuBUbu0897**: Unicorn | **poly0950**: Crystal Egg ×15 |
-| 08:41 | **XMARSS557**: Ride-A-Pet Potion | **poly0950**: Crystal Egg ×17 |
-| 08:41 | **deadpo0l293**: Cabbit (FR), Spring Bunny Hood, Ride-A-Pet Potion | **iaMatthieu1**: Goose (FR) |
-| 08:41 | **bubuBUbu0897**: Pretty Pony | **poly0950**: Crystal Egg ×12 |
-| 08:41 | **Shots_oj**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **0nlqm3**: Ring-Tailed Lemur (FR) |
-| 08:41 | **Fayba42123**: Frostbite Bear ×2 | **WhiteBoy19**: Turtle (FR), Bandicoot (MR), Tarantula (M), Gecko Ducky (M), Flower Power Duckling, Cotton Candy Hat, 2025 Birthday Butterfly (M), Christmas Spirit (NR), Humbug (MF) |
-| 08:41 | **meeeeowey2**: Goat (R), Lion (R), Sushi Penguin | **Roble_2023**: Siamese Cat (R) |
-| 08:41 | **beaaarr2**: Cabbit (R) | **Dona1234535**: Alpaca (R) |
-| 08:41 | **bubuBUbu0897**: Water Rabbit | **TheEerthh**: Crystal Egg ×11 |
-| 08:41 | **bubuBUbu0897**: Great Pyrenees | **TheEerthh**: Crystal Egg ×11 |
-| 08:36 | **UnicornKitycorns**: Fly-A-Pet Potion, Golden Griffin | **shenshenzzz14**: Black Moon Bear (M), Chihuahua |
-| 08:36 | **DefinitelyNotCha6**: Monkey ×4, Merhorse, Halloween White Mummy Cat, Ghost Wolf, Emu ×3, Australian Kelpie ×2, Toucan ×3, Sloth, Shiba Inu ×2 | **RosuMeIi**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
