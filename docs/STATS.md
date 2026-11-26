@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 19:55 UTC by the scrape workflow._
+_Updated 2026-11-26 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 41,595 | 2026-11-26T19:45 |
-| elve | 16 | 8,722 | 2026-11-26T19:46 |
+| amvgg | 16 | 41,838 | 2026-11-26T20:00 |
+| elve | 16 | 8,798 | 2026-11-26T20:01 |
 
-## AMVGG completed trades: 69,181 total
+## AMVGG completed trades: 69,253 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,211 |
+| 2026-11-26 | 3,283 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:55 | **1a25l5**: Kaijunior (N), Chihuahua, Glyptodon | **MapleLull**: Ride-A-Pet Potion |
-| 19:55 | **Tuti89975**: Strawberry Shortcake Bat Dragon (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **Chicken_Drumsticksss**: Fairy Bat Dragon (FR) ×3, Cow (FR), Siamese Cat (FR) |
-| 19:51 | **eyeofrahismymom**: Goose (FR), Cow (FR), Ride-A-Pet Potion, Christmas Pudding Pup (FR), Goth Shoes, Spring Bunny Feet | **v3xxyyy**: Dango Penguins (MFR), Cabbit (R) |
-| 19:45 | **refeesv**: Cow | **jojamojap**: Frost Unicorn (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×8 |
-| 19:45 | **forg_297**: Candyfloss Mega Neon Paint | **xxXchange_Vibe**: Rose Quartz Glow Mega Neon Paint |
-| 19:45 | **Siren_AriaBlaze**: Pandaguin Glooptodog (M) | **lxHatsunexl**: Solar Burst Mega Neon Paint |
-| 19:45 | **Xxcoralia_omgxX**: Alpaca (MFR) | **ten_ferko**: Giraffe (R), Munchkin Cat |
-| 19:45 | **TulipPetal_1**: Sugar Glider (FR), Arctic Fox (FR) | **arina7_g**: Kangaroo (FR), Ride-A-Pet Potion ×8, Shark Puppy (R), Chihuahua |
-| 19:45 | **Amvgg_Amvggg**: Hedgehog (FR), Strawberry Tortle (R), Ride-A-Pet Potion | **Sharking_off**: Strawberry Shortcake Bat Dragon (FR) ×2 |
-| 19:45 | **MILANArynu1**: Ride-A-Pet Potion ×2 | **Dangermousefan0**: Orange Betta Fish (M) |
-| 19:45 | **Ailya2_20**: Cattuccino (N), Cockroach (N), Galapagos Sea Lion (N) | **MILANArynu1**: Ride-A-Pet Potion |
-| 19:45 | **Akaisz032**: Golden Dragon, Golden Griffin, Purrowl, Three Blind Mice, Huntsman Robin, Diamond Griffin | **adoppme42**: Ride-A-Pet Potion |
-| 19:45 | **tyzzzlox**: Kitty Biscuit ×4, Festive Wagon, Witch's Caravan, Double Stroller | **martins10530**: Ride-A-Pet Potion ×4 |
-| 19:45 | **RlNSCUTE**: Lion (R), Warthog (M) | **Gmyiluv**: Snowball Pet (MFR) |
-| 19:45 | **Lotteisking**: Stygian Owl (MFR), Stygian Owl (M) | **araiiw0**: Fly-A-Pet Potion |
+| 20:00 | **polina11562**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **lordityy**: Christmas Pudding Pup |
+| 20:00 | **muniradypa**: Pain au Chat ×3 | **Nevaeh_sxfte**: Ride-A-Pet Potion |
+| 20:00 | **Bruniepie**: Border Collie, Many Mackerel, Ghost Dog, Ghost Bunny (R), Leopard Shark | **Cocicka272**: Unicorn Horn |
+| 20:00 | **Laktozik1**: Strawberry Shortcake Bat Dragon (FR), Mermicorn (FR), Jellyfish (R), Matcha Cat, Fly-A-Pet Potion, Ride-A-Pet Potion | **TaPok228pon**: Hedgehog (FR) |
+| 20:00 | **Vica10_Amie**: Guardian Lion (R), Bubblegeist, Three Blind Mice | **dreamingxmaddiee**: Snow Owl (FR) |
+| 20:00 | **catt_lo1**: Strawberry Shortcake Bat Dragon (R), Pig (R) ×2, Platypus, Brown Bear (R), Swan | **TaPok228pon**: Dalmatian (FR) |
+| 20:00 | **lanajicadoo**: Gemstone Egg ×2 | **Fxderchen2**: Ride-A-Pet Potion |
+| 20:00 | **LaGuNa1347e**: Metal Ox (R), Diamond Griffin, Thunderfisher | **sancow123**: Magic House Door |
+| 20:00 | **alexgameminecraft**: Munchkin Cat | **hdveel66**: Matcha Cat, Harp Seal |
+| 20:00 | **0_Jaexx**: Christmas Pudding Pup (R), Cattuccino (N), Pupcake, Angus Cow, Dragon ×2, Gemstone Egg, Snowy Mammoth, Gorilla | **yRafah_Bloxinha**: Arctic Fox (R) |
+| 20:00 | **DrkeeYT**: Arctic Dusk Dragon (NFR) ×2, Fairy Bat Dragon (FR), Christmas Pudding Pup (NR), Shrew (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **copyvoting**: Hedgehog (FR) |
+| 20:00 | **Cosmo_syx**: Jacobin Pigeon (M) ×3 | **GlockInMyRawriiiiie**: Fly-A-Pet Potion |
+| 20:00 | **2Edensh**: Frost Dragon (NFR), Owl (FR), Mini Pig (FR) | **GXZmanu**: Dalmatian (MFR) |
+| 20:00 | **chapa4ka579**: Glyptodon ×4 | **1a25l5**: Ride-A-Pet Potion |
+| 20:00 | **iaMatthieu1**: Mini Pig (FR), Ride-A-Pet Potion | **Amvgg_Amvggg**: Hot Doggo (FR), Fallow Deer (R) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
