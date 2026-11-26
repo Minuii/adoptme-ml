@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 04:01 UTC by the scrape workflow._
+_Updated 2026-11-26 04:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 04:01 UTC by the scrape workflow._
 | amvgg | 16 | 26,805 | 2026-11-26T04:00 |
 | elve | 16 | 5,546 | 2026-11-26T04:01 |
 
-## AMVGG completed trades: 66,481 total
+## AMVGG completed trades: 66,486 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 511 |
+| 2026-11-26 | 516 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,11 @@ _Updated 2026-11-26 04:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:06 | **z4ni_X**: Turtle (FR) ×2, Turtle (R) | **carlitosuwuagua**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×2 |
+| 04:06 | **dollinrot**: Ride-A-Pet Potion | **ChloeLovxly**: Crystal Egg ×17 |
+| 04:06 | **amaielliee**: Swan (NR), Red Fox (N) | **Oopsididitagain061**: Pet Handler Pro Certificate ×4 |
+| 04:06 | **h4_cd**: Pet Handler Pro Certificate ×4, Mochi Meow | **Oopsididitagain061**: Arctic Fox (R) |
+| 04:06 | **MayMayMayGirl**: Giant Anteater (NFR), Goose (FR), Ride-A-Pet Potion | **BBLDRIZZYYYYYY2**: Strawberry Shortcake Bat Dragon (R) |
 | 04:00 | **httpsshad0w**: Dalmatian (FR), Ride-A-Pet Potion ×2 | **NeonGamerStar20**: Cryptid (R) |
 | 04:00 | **PrisonLifePro106**: Winter Doe (N) | **Leopeo6580**: Ride-A-Pet Potion |
 | 04:00 | **bell_flowers**: Dango Penguins (MFR), Kangaroo (FR), Kangaroo (R), Turtle (FR), Candicorn (R), Siamese Cat (R) | **antuco_tuco909**: Giant Panda (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
@@ -49,11 +54,6 @@ _Updated 2026-11-26 04:01 UTC by the scrape workflow._
 | 04:00 | **Zombie2000668**: Werewolf (R), Ride-A-Pet Potion | **HELENA_GUEMER12494**: Moon Rabbit (MFR) |
 | 04:00 | **catvlq**: 2D Kitty, Count Slothula | **meeptaser**: Soccer Stadium |
 | 04:00 | **rU27na**: Starfish ×4, Little Lamb ×4 | **BuriedDoll**: Moon Egg ×2 |
-| 04:00 | **GIANCI_TO1**: Kangaroo (FR) | **luvyerh**: Ride-A-Pet Potion ×17 |
-| 04:00 | **vertaocsi**: African Wild Dog (FR), Tiny Wings | **KeimoKaiAlr**: Strawberry Cupcake Shoes |
-| 04:00 | **Cristal2792**: Chihuahua ×3 | **charlotterae24**: Ride-A-Pet Potion |
-| 04:00 | **Ray238z**: Kangaroo (FR) | **Z1NCHES**: Unicorn (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 04:00 | **SANANELANISMIMDEN_LA**: Ride-A-Pet Potion ×18 | **uniedol1100**: Turtle (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
