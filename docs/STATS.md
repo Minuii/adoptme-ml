@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 15:40 UTC by the scrape workflow._
+_Updated 2026-11-26 15:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 15:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 37,231 | 2026-11-26T15:30 |
-| elve | 16 | 7,696 | 2026-11-26T15:31 |
+| amvgg | 16 | 37,474 | 2026-11-26T15:45 |
+| elve | 16 | 7,771 | 2026-11-26T15:46 |
 
-## AMVGG completed trades: 68,094 total
+## AMVGG completed trades: 68,115 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,124 |
+| 2026-11-26 | 2,145 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 15:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:40 | **B1ossom_U**: Arctic Fox (FR) ×3, Pancake Stack, Ride-A-Pet Potion ×4 | **luvyerh**: Cow (FR) |
-| 15:40 | **adoptmexx626**: Fly-A-Pet Potion | **typol1235y6**: Ride-A-Pet Potion ×2 |
-| 15:40 | **XiaoFaye1433**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **eggnog1717**: Arctic Reindeer (FR) |
-| 15:40 | **loossembleorbit**: Dragonfruit Fox (MFR) | **RuthJavxn**: Mini Pig (FR) |
-| 15:40 | **is_Hector**: Frostbite Bear (MFR) | **RuthJavxn**: Strawberry Shortcake Bat Dragon (FR) ×3 |
-| 15:40 | **smartes1230**: Nessie (MFR), Peachick (MR) | **uamagodj**: Evil Unicorn (FR) |
-| 15:40 | **Wayda_Jaida**: Christmas Pudding House | **minnelave**: Cattuccino |
-| 15:40 | **savxxkknn**: Cattuccino (M) | **typiceriz**: Mochi Meow (M) |
-| 15:40 | **ilynvmihyjkilysm**: Christmas Pudding Pup (NR), Border Collie, Fly-A-Pet Potion | **1mpactOO**: Mini Pig (FR) |
-| 15:40 | **df_144638**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×14 | **Sofixiskiller**: Siamese Cat (R) |
-| 15:40 | **barrackpalinka1**: Candicorn (FR), Frost Fury (NFR), Phoenix (R), Rainbow Wand | **Savagepeachy5**: Cow (FR) |
-| 15:36 | **Gloriaxiiax**: Choco Penguin (MFR), Bat (MFR), Snorgle (MFR) | **amvgg_useonly**: Count Slothula (MFR) |
-| 15:36 | **altfortrades222**: Hopbop (M) | **kdksksk10_10**: Ride-A-Pet Potion |
-| 15:36 | **wkxcii**: Strawberry Shortcake Bat Dragon (FR) | **Chicken_Drumsticksss**: Goose (FR) ×2 |
-| 15:36 | **GAV_6066**: Dango Penguins | **XoxoBubblyBubbles**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 15:45 | **Agyra11**: Cotton Candy Hat | **IsabellaMystery**: Water Rabbit, Rice Cake Rabbit |
+| 15:45 | **Rbd_JP**: Super Saru (MR), Unicorn Horn, 2022 Birthday Party Hat, Chocolate Dutch Guinea Pig (MFR), Sushi Penguin (MR), Fly-A-Pet Potion | **Haiao92i**: Christmas Pudding Pup (MFR), Ghost Dog (MFR), Black Macaque (MFR) |
+| 15:45 | **Trading2883388382**: Sakura Spirit (NR) | **kayleighkittycat123**: Glyptodon (MFR), Frost Phoenix (NR), Field Mouse |
+| 15:45 | **Veraca2900**: Frostbite Bear | **liaxcz0**: Turtle (FR) |
+| 15:45 | **MrsCinnamonrolll**: Fly-A-Pet Potion, Pet Handler Pro Certificate | **potuzhnaukrainochka**: Toyshop House |
+| 15:45 | **keiiwwq**: Diamond Hummingbird (N), Jester Dragon | **olddeathcore**: Sugar Glider (R) |
+| 15:45 | **unicorn_cute12132**: River Otter (M) | **DiEsE_Lei129**: Ride-A-Pet Potion |
+| 15:45 | **St4r1890241**: Leopard Cat ×2, Halloween Black Mummy Cat, Abyssinian Cat, Ginger Cat ×2, Gumball Caterpillar (N), Halloween White Mummy Cat | **Eceuni**: Ride-A-Pet Potion |
+| 15:45 | **qxciine**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **caby_vr**: Arctic Reindeer (FR) |
+| 15:45 | **St4r1890241**: Shiver Wolf | **beetifuIaIa**: Slimingo |
+| 15:45 | **avokado78o**: Werewolf (NR), Frostbite Bear (FR), Prism Snake (M) | **otonite7**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:45 | **Lerunhi**: Kangaroo (NFR), Turtle (FR), Fly-A-Pet Potion, Elephant (R) | **fitt04_08**: Arctic Reindeer (FR) |
+| 15:45 | **epicpulsechaos2024**: Alicorn ×18 | **Olimp090**: Ride-A-Pet Potion ×2 |
+| 15:45 | **lemechant3**: Maine Coon | **LizaTomura15**: Paint Sealer ×2 |
+| 15:45 | **Ilovedarya35**: Rose Quartz Glow Mega Neon Paint, Fly-A-Pet Potion | **Elena_babi123**: Pet Handler Pro Certificate |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
