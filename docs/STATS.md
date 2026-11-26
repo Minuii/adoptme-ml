@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 18:11 UTC by the scrape workflow._
+_Updated 2026-11-26 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 18:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 39,777 | 2026-11-26T18:00 |
-| elve | 16 | 8,306 | 2026-11-26T18:01 |
+| amvgg | 16 | 40,028 | 2026-11-26T18:15 |
+| elve | 16 | 8,356 | 2026-11-26T18:15 |
 
-## AMVGG completed trades: 68,757 total
+## AMVGG completed trades: 68,773 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,787 |
+| 2026-11-26 | 2,803 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 18:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:06 | **Labrador_7865**: Leopard Cat, Robot (N), Abyssinian Cat (N), Boohoo (N), Caramelgeist (N), Budgie Witch (N) | **nikadance286**: Ride-A-Pet Potion |
-| 18:06 | **Gglrd0**: Giraffe (FR) | **Jay_basealters**: Strawberry Shortcake Bat Dragon (NFR) ×2, Dalmatian (FR) |
-| 18:06 | **dinadu135**: Parrot (NFR), Kangaroo (NFR), Dragonfruit Fox (MFR), Copycat (N), Cheetah (NR), Unicorn (MFR), Unicorn (N) ×2, Sasquatch (M), Tree Sasquatch (M), Bandicoot (M), Skelicorn (M), Stray Cat Dragon (M) | **samara_locks**: Frost Dragon (NFR) |
-| 18:06 | **muniradypa**: Pain au Chat ×3 | **aiiqish**: Ride-A-Pet Potion |
-| 18:06 | **peachieskiwi**: Matcha Cat, Owlbear (R), Chocolate Chip Bat Dragon Backpack | **lili270811**: Dragonfruit Fox (NR), Chocolate Dutch Guinea Pig |
-| 18:06 | **Hiilovepancakes120**: Christmas Pudding Pup (MFR), 2022 Birthday Party Hat | **amvggaltaccxox**: Candicorn (MFR) |
-| 18:06 | **Andrewspaw**: Dango Penguins (MFR), Pink Betta Fish (MR), Pupcake (M), Spring Bunny Hood, Pancake Stack | **melinaftu**: Arctic Dusk Dragon (MFR) |
-| 18:06 | **LeaNavarro98**: Chocolate Dutch Guinea Pig, Unicorn, White Sand Dollar, Baku | **jace_jones3392**: Jester Dragon |
-| 18:06 | **NokadotakAU3U**: Water Moon Bear, Bloodhound, Paint Sealer ×4 | **sashaterebik2014**: Golden Walrus Crown |
-| 18:06 | **beebodooo**: Tortoiseshell Guinea Pig (R), Ride-A-Pet Potion | **karasikshop_20028**: Kangaroo (R) |
-| 18:06 | **mydaymylifeinyt**: Little Lamb (M) | **LaymushkaUwU**: Ride-A-Pet Potion |
-| 18:06 | **powerpuggigi**: Munchkin Cat (MFR), Flaming Fox (MFR) | **Jay_basealters**: Hedgehog (FR) |
-| 18:06 | **DijaBint2**: Pet Handler Pro Certificate | **Hxunted_lv**: Ride-A-Pet Potion, Moon Rabbit |
-| 18:06 | **AvokadoJFKfanat**: Matcha Cat ×2, Scarecrow Cat (M), Beluga Whale (M) | **ppptig6921**: 2022 Birthday Cake |
-| 18:06 | **loveefawn**: Ride-A-Pet Potion ×4 | **TYYLIPOO**: Arctic Dusk Dragon |
+| 18:15 | **caxarberdok**: Jester Dragon (NFR), Winter Doe (M), Singularity Pisces (M) | **Qwerty_11915**: Turtle (FR) |
+| 18:15 | **qxciine**: Unicorn, Retired Egg ×5 | **Kir4kaa**: Ride-A-Pet Potion |
+| 18:15 | **Defnot_kaisalt**: Black Macaque (M) | **omgxpafi**: Fly-A-Pet Potion ×4, Rain Boots |
+| 18:15 | **00Marina007**: Candyfloss Chick (FR) | **vxzzz632**: Fly-A-Pet Potion ×10 |
+| 18:15 | **nhaaaaUwUk**: Fly-A-Pet Potion, Pupcake | **yeuksyrudtry56**: Alley Cat |
+| 18:15 | **Mcdonaldsofaustralia**: Golden Lettuce ×3, Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **akeks_74**: African Wild Dog (FR) |
+| 18:15 | **smartcookiejuly**: Ride-A-Pet Potion ×2 | **Siren_AriaBlaze**: Wolf (N) |
+| 18:15 | **BitolinaTheFox**: Toaster Hat | **ELOSOCURIOSO**: Sea Slug, Pupcicle |
+| 18:15 | **nani67ok**: Alpaca (MR) | **xulqupi**: Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) ×3, Unicorn Horn |
+| 18:15 | **Radiomel7**: Ghost Bunny | **Beeshrxxms**: Blue Boohoo Mega Neon Paint, Soulfire Animated Sticker |
+| 18:15 | **Lulugamerg0607**: Roadrunner, Skelicorn | **BLACKCAT202015**: Snowy Mammoth ×6 |
+| 18:15 | **unki_swagerr**: Brown Springer Spaniel, Pretty Pony, Chihuahua, Space Whale, Yeti, Frostbite Cub, Royal Palace Spaniel | **youchi_nagi**: Fly-A-Pet Potion ×2 |
+| 18:15 | **Sonya73p**: Hamster (NFR), Cocoadile (M) | **Banquitogamer025**: Fly-A-Pet Potion |
+| 18:15 | **GrumpDummy**: Unicorn Horn | **Sonya73p**: Toaster Hat, Tiny Wings |
+| 18:15 | **ZzzTrades7**: Parrot (FR), Cow (FR), 2022 Birthday Party Hat | **2l0l0l8**: Cryptid (NFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
