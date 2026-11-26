@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 19:46 UTC by the scrape workflow._
+_Updated 2026-11-26 19:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 19:46 UTC by the scrape workflow._
 | amvgg | 16 | 41,595 | 2026-11-26T19:45 |
 | elve | 16 | 8,722 | 2026-11-26T19:46 |
 
-## AMVGG completed trades: 69,178 total
+## AMVGG completed trades: 69,181 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,208 |
+| 2026-11-26 | 3,211 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,9 @@ _Updated 2026-11-26 19:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:55 | **1a25l5**: Kaijunior (N), Chihuahua, Glyptodon | **MapleLull**: Ride-A-Pet Potion |
+| 19:55 | **Tuti89975**: Strawberry Shortcake Bat Dragon (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **Chicken_Drumsticksss**: Fairy Bat Dragon (FR) ×3, Cow (FR), Siamese Cat (FR) |
+| 19:51 | **eyeofrahismymom**: Goose (FR), Cow (FR), Ride-A-Pet Potion, Christmas Pudding Pup (FR), Goth Shoes, Spring Bunny Feet | **v3xxyyy**: Dango Penguins (MFR), Cabbit (R) |
 | 19:45 | **refeesv**: Cow | **jojamojap**: Frost Unicorn (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×8 |
 | 19:45 | **forg_297**: Candyfloss Mega Neon Paint | **xxXchange_Vibe**: Rose Quartz Glow Mega Neon Paint |
 | 19:45 | **Siren_AriaBlaze**: Pandaguin Glooptodog (M) | **lxHatsunexl**: Solar Burst Mega Neon Paint |
@@ -51,9 +54,6 @@ _Updated 2026-11-26 19:46 UTC by the scrape workflow._
 | 19:45 | **tyzzzlox**: Kitty Biscuit ×4, Festive Wagon, Witch's Caravan, Double Stroller | **martins10530**: Ride-A-Pet Potion ×4 |
 | 19:45 | **RlNSCUTE**: Lion (R), Warthog (M) | **Gmyiluv**: Snowball Pet (MFR) |
 | 19:45 | **Lotteisking**: Stygian Owl (MFR), Stygian Owl (M) | **araiiw0**: Fly-A-Pet Potion |
-| 19:45 | **xlottiex3x**: Bat Dragon (FR) | **Tomatoxxxblizzard**: Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (NFR), Polar Bear (MFR), Dalmatian (FR) ×3, Balloon Unicorn (FR) |
-| 19:45 | **hmmhh8**: Cryptid (NFR) | **infrxmniiq**: Harp Seal (MFR), Chocolate Dutch Guinea Pig (MFR), Amami Rabbit (MFR), 2022 Birthday Party Hat, Unicorn Horn ×2, Rain Cloud Hat, 2022 Birthday Cupcake Shoes, Ice Cream Cone Hat |
-| 19:45 | **Cmetanka14ca**: Husky (MFR), Cake Friend | **C4K3YK1TTEN**: Turtle (R), Goat (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
