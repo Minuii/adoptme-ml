@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 05:46 UTC by the scrape workflow._
+_Updated 2026-11-26 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 05:46 UTC by the scrape workflow._
 | amvgg | 16 | 28,432 | 2026-11-26T05:45 |
 | elve | 16 | 5,888 | 2026-11-26T05:46 |
 
-## AMVGG completed trades: 66,630 total
+## AMVGG completed trades: 66,643 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 660 |
+| 2026-11-26 | 673 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 05:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:55 | **imlikethel**: Mechapup (MFR), Yeti (MFR), Head Chef | **Renatakawaiionichan**: Owl (FR) |
+| 05:55 | **Its_marmeladka0003**: Gemstone Egg, Blue Whale (N), Thunderfisher (N) | **dammam_1234**: Pupcicle |
+| 05:55 | **localbanxx**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **itz_nastyalik**: Biodome Home |
+| 05:51 | **usmaniscool2**: Strawberry Shortcake Bat Dragon (FR), Unicorn Horn, Arctic Fox (R), Arctic Fox (FR), Hyena (R), Spring Bunny Feet | **Testforuselol**: Hedgehog (FR) |
+| 05:51 | **lQw0kss**: Siamese Cat, Fly-A-Pet Potion, Kiwi Kiwi | **0kayJadee**: Siamese Cat (FR) |
+| 05:51 | **PonyAlex6**: Fairy Bat Dragon (FR) | **DNV_M**: Alpaca (FR) |
+| 05:51 | **Mikmunk12**: Kangaroo (R), Dragonfruit Fox | **LilithCGEye**: Frostbite Bear (R), Jester Dragon |
+| 05:51 | **DNV_M**: Elephant, Cow | **x123nicolex**: Winged Tiger (NFR) |
+| 05:51 | **batateporfavor**: Chocolate Dutch Guinea Pig (NR), Chocolate Dutch Guinea Pig (N), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **FisheYT3**: Candicorn |
+| 05:51 | **BLACK_LK11**: Zombie Wolf (MR), Slime | **winis3003**: Silverback Gorilla (N) |
+| 05:51 | **xxpeenut_butterxxx**: Fly-A-Pet Potion ×3 | **iiiistyloneiiii**: Unicorn (NFR) |
+| 05:51 | **ophyns**: Arctic Fox (R), Matcha Cat, Christmas Pudding Pup (R), Ice Cream Cone Hat, Munchkin Cat (NFR), Ring-Tailed Lemur (R), Field Mouse (R), Papa Moose, Spring Bunny Hood, Alley Cat, Golden Walrus (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion | **SilentOtter237**: Cryptid (FR) |
+| 05:51 | **Alina_gfg890**: Mouse (M), Sneak Weasel (M), Dragonfly, Skelicorn, Crimson Cape (N), Three Blind Mice, Huntsman Robin, Mummy Spider (N), Badger (N), Ms. Muffet (N), Blue Cat, Pink Dog, Admin Abuse Egg, Fairytale Egg | **XzB3arL3Synth7zX1088**: Ride-A-Pet Potion |
 | 05:41 | **elpopas6**: Turtle (FR), Strawberry Penguin (R), Ride-A-Pet Potion ×3 | **WHOISY4NAA**: Cow (FR) |
 | 05:41 | **dtOvsq**: Ride-A-Pet Potion, Chameleon | **gvmpyi**: Leopard Shark |
-| 05:41 | **Musesmia**: Dragonfruit Fox (NR) | **lindagalagtica**: Ride-A-Pet Potion ×10 |
-| 05:41 | **foovva**: Goose (FR) | **Quizzaff**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion |
-| 05:41 | **xosleepybunny**: Copycat (NR) ×2, Copycat (N) ×2, Jester Dragon (FR), Fly-A-Pet Potion | **caticaaa**: Copycat (MFR) |
-| 05:41 | **Antonnyalexander2009**: Hare (FR), Pink Cat Ear Headphones | **7H3ST**: Spring Bunny Hood |
-| 05:41 | **milotaikgamer**: Tiny Wings, Tuxedo Cat (N) | **Egorgoric13**: Caterpillar (FR) |
-| 05:41 | **serpentibendi**: Royal Mistletroll (M) | **Paletazow**: Evil Unicorn (NFR), Evil Unicorn (FR), Cow (FR), Spring Bunny Hood |
-| 05:41 | **chn1r**: Waffle Wyrm (M) | **ameyyass**: Fly-A-Pet Potion |
-| 05:41 | **leonel89038**: Munchkin Cat (MR), Candy Hare (MFR) | **cixvxv**: Blazing Lion (FR) |
-| 05:41 | **MersuJanhir13**: Chocolate Dutch Guinea Pig (MR), Black Springer Spaniel (MFR), Goldhorn (MFR) | **Penguinis_icey**: Chocolate Chip Bat Dragon (FR), Pet Handler Pro Certificate, Ride-A-Pet Potion |
-| 05:41 | **decayinggdollzz**: 2022 Birthday Cupcake Shoes, Hare (NFR), Hare | **UltraCircuit506**: Strawberry Tortle (R), Munchkin Cat (R) |
-| 05:41 | **milagros56467**: Cabbit (NFR), Strawberry Penguin, Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **js_elizz**: Chocolate Chip Bat Dragon (FR), Cabbit (R) |
-| 05:41 | **xyudrocher666**: Leopard Cat (R), St Bernard (R) | **Lizeth_06771**: Ride-A-Pet Potion |
-| 05:41 | **epicpulsechaos2024**: Alicorn ×18 | **lunarodlox38**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
