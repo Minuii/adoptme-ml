@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 13:16 UTC by the scrape workflow._
+_Updated 2026-11-26 13:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 13:16 UTC by the scrape workflow._
 | amvgg | 16 | 35,109 | 2026-11-26T13:15 |
 | elve | 16 | 7,254 | 2026-11-26T13:15 |
 
-## AMVGG completed trades: 67,599 total
+## AMVGG completed trades: 67,648 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,629 |
+| 2026-11-26 | 1,678 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 13:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:15 | **xhappyxdayx**: Moonbeam Butterfly | **Simonegamer16pro**: Peach Owl (FR) |
-| 13:15 | **vxzzz632**: Fly-A-Pet Potion ×5 | **Paipapaprapaa**: Happy Duckling (MR) |
-| 13:15 | **TheShadowOpiym**: Dalmatian (FR) | **LacieiiAltAcc**: Cryptid (FR) |
-| 13:15 | **0_0ship21**: 2022 Birthday Party Hat | **Al_iceC**: Harp Seal (MFR), Sea Turtle (N) |
-| 13:15 | **xxpeenut_butterxxx**: Chocolate Chip Bat Dragon (FR) | **DragonjJDusta107130**: Cow (FR) ×2 |
-| 13:15 | **2nvkl**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 13:15 | **loiol1004**: Golden Hummingbird, Hummingbird ×4, Kelp Hunter, Lammergeier, Black Marlin ×2, Lionfish, Magma Snail, Magma Moose, Golden Tortoise Beetle, Hippogriff, Griffin, Phoenix, Canadian Goose ×2 | **Mr_iziponik**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 13:15 | **BLEIZY1378**: Mochi Meow (NR) | **zqwuhl**: Rose Quartz Glow Mega Neon Paint |
-| 13:15 | **daxalikee2001**: Chocolate Chip Bat Dragon Backpack, Motorized Sofa | **MatinBoring**: Ride-A-Pet Potion |
-| 13:15 | **henrissy0**: Ride-A-Pet Potion ×2 | **magnethoon**: Dango Penguins |
-| 13:15 | **kourabies31415**: Skelicorn (N) | **klrmnn**: Christmas Pudding House |
-| 13:15 | **Akrwnkp_0**: Brown Bear (NFR), Elephant (R) | **ixclvoudy**: Cabbit (FR) |
-| 13:15 | **CrimsonSummit1483**: Crystal Egg ×18 | **sweetlilk64**: Ride-A-Pet Potion |
-| 13:15 | **Hales_Elise**: Jester Dragon (NFR), Pink Betta Fish (N), Chihuahua ×2 | **vikwpy**: Copycat (NR) |
-| 13:15 | **DylanNeon233227**: Shadow Dragon (FR), Arctic Reindeer (FR), Ride-A-Pet Potion, Fly-A-Pet Potion | **Sene4kaf453**: Evil Unicorn (MFR) |
+| 13:25 | **Irinka717**: Stray Cat Dragon (N), Skelicorn (R) | **Kvetka198**: Ride-A-Pet Potion |
+| 13:25 | **ALV4RYTO**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Bolt (M) | **lolcryabtit6767**: Giant Blue Scarab (MR) |
+| 13:25 | **SNIPERTOREEF**: Onza (N), Grinmoire (N), Sasquatch (N), Cherub Chipmunk (N), Abyssinian Cat (N), Muskrat ×2, Pinkypillar ×2, Garden Snake, California Condor ×2 | **fromnothing_12**: Ride-A-Pet Potion |
+| 13:25 | **Killkillmaster2345**: Emperor Gorilla (MFR), Alley Cat (MFR), Owlbear (MFR), Groundhog (M), Majestic Pony (MFR), Candicorn (NFR), Angel Wings, Cheetah (M), 2022 Birthday Cupcake Shoes ×2, Ballet Swan (MFR), Snow Monkey (M), Ballet Swan (N), Candicorn (FR), Cupid Dragon (MFR) | **ArdaEOYT**: Cryptid (MFR) |
+| 13:25 | **footerch**: Huntsman Robin, Skelicorn, Puppeteer Hand | **NaomiMikael1**: Chihuahua |
+| 13:25 | **Julee_Lov**: Wildfire Hawk (NR), Ghost Chick (NR), Golden Tortoise Beetle (N), Irish Elk (M) | **Siren_AriaBlaze**: Shark Puppy |
+| 13:25 | **araawi3u**: Tiny Wings, Spring Bunny Hood, Dango Penguins (R), Chihuahua (N), Catte | **Taemin_chaeunwoo**: Unicorn Horn |
+| 13:25 | **xJI_CHx**: Bush Elephant (R), Unicorn Horn, Ride-A-Pet Potion | **Mytradeaccountforme**: Flaming Fox (MFR) |
+| 13:25 | **omlisage_amvgg**: Chocolate Dutch Guinea Pig (MFR), Cherry-On-Top, Leopard Cat (MR) | **yeeshuki6977**: Strawberry Shortcake Bat Dragon (FR) |
+| 13:25 | **lc_09x**: Christmas Pudding Pup (MFR) | **Alex_12495R7**: Aurora Fox (MFR) |
+| 13:25 | **Num1BakuDekushipper**: Admin Abuse Egg ×18 | **ItsmeEsmeray**: Ride-A-Pet Potion |
+| 13:25 | **milkixis1**: Ride-A-Pet Potion ×6 | **Plwushiiexs**: Harp Seal (NR) |
+| 13:25 | **Vadjik12**: Chick (NR), Cold Cube (FR) | **nafee_xx**: Bunny Swirl (NR) |
+| 13:25 | **AsawaNi_Tsukii**: Balloon Unicorn (FR) | **Mrpresident20010**: Crow (FR) |
+| 13:25 | **ROBLOXBLUECUP**: Spring Bunny Hood, Ride-A-Pet Potion ×2 | **aleks2u**: Caelum Cervi (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
