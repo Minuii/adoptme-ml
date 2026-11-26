@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 07:41 UTC by the scrape workflow._
+_Updated 2026-11-26 07:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 07:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 30,066 | 2026-11-26T07:30 |
-| elve | 16 | 6,164 | 2026-11-26T07:31 |
+| amvgg | 16 | 30,294 | 2026-11-26T07:45 |
+| elve | 16 | 6,232 | 2026-11-26T07:46 |
 
-## AMVGG completed trades: 66,819 total
+## AMVGG completed trades: 66,822 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 849 |
+| 2026-11-26 | 852 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,9 @@ _Updated 2026-11-26 07:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:45 | **xsp0d3**: Catte, Cattuccino ×2 | **Ashybella0**: Crystal Egg ×18 |
+| 07:45 | **emmy_thepea**: Shark Puppy (FR) | **snowgravesai**: Pet Handler Pro Certificate ×7 |
+| 07:45 | **WierdoVanilla**: Munchkin Cat (MFR), Matcha Cat, Silverback Gorilla (R), Dragonfruit Fox | **BaconManBest128**: Goose (FR), Fairy Bat Dragon (FR), Kangaroo (NFR) |
 | 07:41 | **klrmnn**: Stray Cat Dragon ×3 | **gSeoul**: Christmas Pudding House |
 | 07:41 | **Adore_Pandaz**: Orangutan (M) ×2 | **msjenejok8**: Ride-A-Pet Potion |
 | 07:36 | **Kenzie_luvvzU**: Arctic Fox (MFR), Tiny Wings | **Andres_agent**: Groundhog (MFR) |
@@ -51,9 +54,6 @@ _Updated 2026-11-26 07:41 UTC by the scrape workflow._
 | 07:36 | **NotSweatyOnion**: Fly-A-Pet Potion, Unicorn | **Adore_Pandaz**: Business Monkey (N) |
 | 07:36 | **manImHungryforcheese**: Pupcicle (NFR), Leopard Shark | **Hazellikescookies55**: Swan, Moose Calf (R) |
 | 07:36 | **hello_people1406**: Parrot (N), Cryptid, Unicorn (NFR) | **xo1qn**: African Wild Dog (NFR) |
-| 07:30 | **Cat_123840**: Nessie (FR), Mini Pig (FR), Tasmanian Devil, Enchanted Broomstick, Borhyaena Gigantica (N), Rainbow Stroller | **mami_228k1**: Diamond Butterfly (FR) |
-| 07:30 | **love151444**: Ride-A-Pet Potion | **nellik_karomelik**: Muskrat (M), Bat (N), Ratatoskr (N), Ground Sloth (N) |
-| 07:30 | **bbbbbbbbbbbbbbiuu**: Cryptid (NFR), 2022 Birthday Party Hat, Sakura Spirit (NFR), Unicorn Horn, 2022 Birthday Party Horn, Diamond Amazon | **DarkGriffin9635**: Cabbit (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
