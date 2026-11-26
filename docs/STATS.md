@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 07:01 UTC by the scrape workflow._
+_Updated 2026-11-26 07:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 07:01 UTC by the scrape workflow._
 | amvgg | 16 | 29,590 | 2026-11-26T07:00 |
 | elve | 16 | 6,092 | 2026-11-26T07:01 |
 
-## AMVGG completed trades: 66,767 total
+## AMVGG completed trades: 66,783 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 797 |
+| 2026-11-26 | 813 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:00 | **djwestie**: Hopbop (FR) | **nly4sh**: Border Collie (NR) |
-| 07:00 | **Zak_0250**: Unicorn (NR), Pupcake (N), Ride-A-Pet Potion ×3 | **Eurysnvge207785**: Pupcake (MFR) |
-| 07:00 | **Xxcoralia_omgxX**: Tortoiseshell Guinea Pig (MFR), Chef Hat, 2022 Birthday 5 Badge, Blue Cat Ear Headphones | **Amulia837**: Goose (MFR) |
-| 06:55 | **alolalolaloa**: Mermicorn (NFR), Fly-A-Pet Potion | **user9461037**: Fairy Bat Dragon (NFR) |
-| 06:55 | **Natalize8D**: Cabbit (FR), Goat (R) | **elpopas6**: Cow (FR), Ride-A-Pet Potion |
-| 06:55 | **bearmaster1101**: Shadow Dragon (FR) | **IconsChew**: Owl (FR) ×2, Evil Unicorn (FR) |
-| 06:55 | **ShadepyHyper2199043**: Tuxedo Cat (MFR), Werewolf (R), Dancing Dragon (F), Fly-A-Pet Potion | **just_vailan4**: German Shepherd (MFR), 2022 Birthday Party Horn, Chihuahua (MR) |
-| 06:55 | **Elve_ii**: Toaster Hat, Ride-A-Pet Potion | **versaiIless**: Burger Bear (MR) |
-| 06:55 | **Venom_eshkeregg**: Fly-A-Pet Potion, Ride-A-Pet Potion | **0MGSARAY**: Eaten Donut, White Chef Hat, Cotton Candy Hat, Butter Knife, Unfortunate Eyelashes |
-| 06:55 | **snkqna**: Shadow Dragon Ducky (N), Pupcake, Glyptodon Ducky (M), Steppe Lion (N) | **0MGSARAY**: Kid Goat (MFR) |
-| 06:55 | **Caba7Senpai**: Kid Goat (MR), Halloween Slime Mega Neon Paint, Cotton Candy Hat | **0MGSARAY**: Kid Goat (MFR) |
-| 06:55 | **niceplayeruwu**: Pet Handler Pro Certificate | **iDontKnowYou89844**: Desert Egg ×6 |
-| 06:55 | **mxh_ii2347**: Ring-Tailed Lemur (R) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 06:55 | **mxh_ii2347**: Jumpscare (M), Boohoo (M) | **UnicornKitycorns**: Fly-A-Pet Potion |
-| 06:55 | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion, Arctic Hare, Ratatoskr | **christintitin**: Chocolate Dutch Guinea Pig |
+| 07:11 | **anihao17**: Skelicorn (MFR) | **0bviouslynotdezya**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 07:11 | **wuishdwqkjsh**: Ride-A-Pet Potion ×2 | **ElsaRolbox9**: Chocolate Dutch Guinea Pig (R) |
+| 07:11 | **hoschakaI**: Bat Dragon (NFR) | **MrToy40**: Frost Dragon (FR) ×7 |
+| 07:11 | **melinaftu**: Munchkin Cat (MFR), Alley Cat (MFR) | **BeanXPolarbear**: Kangaroo (MFR), Chocolate Dutch Guinea Pig (MFR), Snowball Pet (MFR), Tasmanian Devil (MFR) |
+| 07:11 | **XxLipton_LemonxX**: Ride-A-Pet Potion ×3 | **yohannecotiee**: Hyena |
+| 07:11 | **Typay604**: Frost Unicorn (R) | **w4nd3ringG0d**: Fly-A-Pet Potion ×2, Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×11 |
+| 07:11 | **ccdbgt1**: Fly-A-Pet Potion | **CookiesWithCrexam**: Skele-Rex (R) |
+| 07:11 | **emlikescake2000**: Dragonfruit Fox | **littlecake20002**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 07:11 | **NotSweatyOnion**: Baku (MFR), Golden Hummingbird (M), Solaris (NR), Golden Tortoise Beetle (MR), Queen Bee (NR), Rosy Maple Moth (MR), Halloween White Skeleton Dog (M), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Frs_88xx**: Chocolate Chip Bat Dragon (FR) |
+| 07:11 | **Wolchok8**: Corn Doggo (NFR), Ride-A-Pet Potion | **vikwpy**: Arctic Fox (FR) |
+| 07:11 | **itisfrogtime123**: Balloon Unicorn (FR), Spring Bunny Hood | **xoxsasha0**: Cryptid, Siamese Cat (R), Skunk (M), Leopard Cat (MR), Werewolf (FR), Maine Coon (MR) |
+| 07:11 | **Tomatoxxxblizzard**: Haetae (NFR), Fairy Bat Dragon (NFR), Dragonfruit Fox (M), Cow, Ice Cream Hermit Crab (N), Mr. Whiskerpips (M) | **rumpuiz**: Shadow Dragon (FR) |
+| 07:11 | **BUS5ED**: Unicorn Horn | **kayy0776**: Fallow Deer (NFR) |
+| 07:11 | **arqvve1**: Frost Unicorn (MFR), Fairy Bat Dragon (MFR), Dango Penguins (MFR), Fairy Bat Dragon (FR), Sugar Glider (FR), Turtle (FR), 2022 Birthday Cake, Unicorn Horn, Rain Cloud Hat, Kangaroo (FR), Frost Fury (FR), Ride-A-Pet Potion | **elielyande**: Dalmatian (MFR) |
+| 07:11 | **epicpulsechaos2024**: Ancient Dragon ×18 | **Sofixiskiller**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
