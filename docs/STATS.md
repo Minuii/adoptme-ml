@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 11:25 UTC by the scrape workflow._
+_Updated 2026-11-26 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 33,299 | 2026-11-26T11:15 |
-| elve | 16 | 6,845 | 2026-11-26T11:15 |
+| amvgg | 16 | 33,507 | 2026-11-26T11:30 |
+| elve | 16 | 6,911 | 2026-11-26T11:31 |
 
-## AMVGG completed trades: 67,275 total
+## AMVGG completed trades: 67,294 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,305 |
+| 2026-11-26 | 1,324 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:20 | **LilithCGEye**: Dragonfruit Fox (MFR), Owlbear (MFR), Flaming Fox (MFR), Fallow Deer (MFR) | **mesherinmaz**: Fairy Bat Dragon (MFR) |
-| 11:20 | **woofwizz**: Mini Pig (NFR), Snowball Pug (M), Arctic Fox (MFR), Chocolate Dutch Guinea Pig (MFR), Punk Pony (M), Ride-A-Pet Potion, Pancake Stack | **Looey20072**: Cryptid (NFR) |
-| 11:20 | **vvaryaa58AaS**: Ride-A-Pet Potion | **tarelo4ka_uwu**: Chocolate Chow-Chow (R) |
-| 11:20 | **regina_12z**: Fly-A-Pet Potion | **sky_lilly08**: Snow Owl (FR) |
-| 11:20 | **ILove_OR3OS**: Crystal Egg ×15 | **Mintsnpowder**: Ride-A-Pet Potion |
-| 11:20 | **haileyrxo**: Unicorn (NFR) | **avlxdk**: Mochi Meow (MFR) |
-| 11:20 | **LeonardBass28273**: Jacobin Pigeon (N) ×4, Retired Egg ×8 | **Roro782341**: Sour Glider |
-| 11:20 | **aleks2u**: Mermicorn | **urtukasltu11**: Kangaroo (FR), Fly-A-Pet Potion ×2 |
-| 11:20 | **urtukasltu11**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **vikiey3**: Dragonfruit Fox ×2 |
-| 11:20 | **gawserfdkt**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion ×2, Goat (FR) | **U_sulla**: Pig (NFR) |
-| 11:20 | **Eeclipe**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (R) | **Artiiimiu**: Chocolate Chip Bat Dragon (NFR) |
-| 11:20 | **R33_gl**: Frostbite Bear and Cub Animated Sticker | **fleurdemaisgautier**: Retired Egg ×17 |
-| 11:20 | **Pupsidupsi2**: Fairy Bat Dragon (FR), Lion Cub (R) | **QUliaka**: Cow (FR) |
-| 11:20 | **clalouetciedh**: Ancient Dragon ×14 | **Katarinamartino**: Ride-A-Pet Potion |
-| 11:20 | **itzLogansXroblox**: Strawberry Shortcake Bat Dragon (NFR), Ride-A-Pet Potion, Glormy Crab | **deadpo0l293**: Crow (FR) |
+| 11:30 | **vlados_krash**: Dango Penguins ×2 | **bread99883**: Fly-A-Pet Potion ×3 |
+| 11:30 | **illymcmi1in**: Dango Penguins, Phoenix (F), Pupcake (N), Burger Bear (N) | **Viviiven**: Arctic Fox |
+| 11:30 | **cowlol898**: Cow (FR), Bee (MFR), Scarlet Butterfly (R) | **Laurinha_cake**: Sugar Glider (FR), Matcha Cat (R), Unicorn (NR) |
+| 11:30 | **gamingwithabby8787**: Chocolate Chip Bat Dragon (MFR), Hedgehog (MFR), Blazing Lion (FR), Diamond Butterfly (FR), Cow (MFR) | **beatsvic**: Blazing Lion (MFR) |
+| 11:30 | **Avi_ator12**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×2 | **FeRicebear**: Turtle (FR) |
+| 11:30 | **Alina_gfg890**: Turtle (NFR), Kangaroo (FR), Black-Chested Pheasant (R), Fly-A-Pet Potion | **Bits_rbx**: Arctic Reindeer (FR) |
+| 11:30 | **Jdjdnx269**: Dango Penguins (MFR) ×5, Cow (R), Kangaroo (FR) | **Kesekind**: African Wild Dog (FR), Caterpillar (MFR) |
+| 11:30 | **Cmetanka14ca**: Frostbite Bear (R), Pig (FR), Mechapup, Ride-A-Pet Potion | **hapii_17**: Hot Doggo (FR) |
+| 11:30 | **vampire2169**: Dalmatian (R), Arctic Reindeer, Strawberry Shortcake Bat Dragon (FR), Arctic Fox (FR), Ice Cream Cone Hat, Tortuga de la Isla (R), Spring Bunny Nose, Hare (R), Pet Handler Pro Certificate | **ViperOfTheUnderworld**: Frost Dragon (FR) |
+| 11:30 | **sleepy_4ng3l**: Tri-horned Treehopper (NFR) | **olddeathcore**: Ride-A-Pet Potion ×5, Frost Unicorn |
+| 11:30 | **D1CADI**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×7 | **Ethan_Nissim**: Turtle (FR) |
+| 11:30 | **daanz2**: Kitty Biscuit ×8, Ride-A-Pet Potion ×2 | **ladybug_best53**: Happy Duckling (MR) |
+| 11:30 | **Artem_21a2**: Turtle (FR) ×5, Kangaroo (FR), Albino Monkey (FR) | **serenavip_oficial**: Parrot (FR) |
+| 11:30 | **narmeowmeow**: Munchkin Cat, Admin Abuse Egg ×2 | **Itsjustthevibez**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Shark (R) |
+| 11:30 | **Nanax_8907**: Munchkin Cat (NFR), Hippo, Mirai Moth, Singularity Pisces | **etsyauaiz**: Candyfloss Chick (R), Candy Cane Snail (M), Dire Wolf (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
