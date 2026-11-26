@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 13:31 UTC by the scrape workflow._
+_Updated 2026-11-26 13:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 13:31 UTC by the scrape workflow._
 | amvgg | 16 | 35,320 | 2026-11-26T13:30 |
 | elve | 16 | 7,321 | 2026-11-26T13:31 |
 
-## AMVGG completed trades: 67,648 total
+## AMVGG completed trades: 67,660 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,678 |
+| 2026-11-26 | 1,690 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 13:41 | **Crystal_andLisa**: Flamingo | **TwistedK1tty**: Tortoiseshell Guinea Pig (R), Fly-A-Pet Potion |
+| 13:36 | **xxpeenut_butterxxx**: Goose (FR) | **gjatasab**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion |
+| 13:36 | **xxpeenut_butterxxx**: Cow (FR) | **growkittycat325**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion |
+| 13:36 | **splagoogle**: Mini Pig (MFR), Chocolate Dutch Guinea Pig (MFR) | **Sssilivia**: Parrot (FR), Siamese Cat (MFR), Dalmatian (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
+| 13:36 | **PANDA9994440**: Fairy Bat Dragon (FR), Puffin (NR), Hare (N), Copycat (R), Ballet Swan (R), Haetyphoon, Pig, Ninja Monkey (NR), Firefly (NFR) | **leruval**: Evil Unicorn (FR) |
+| 13:36 | **gabolskie**: Evil Unicorn (F) | **UNLIMITET01**: Cryptid (FR), Fly-A-Pet Potion ×2 |
+| 13:36 | **25k_Robloxgamer**: Winged Tiger (MFR), Dango Penguins (MFR) | **Addmymainamv**: Goat (MFR), Sheeeeep (MFR) |
+| 13:36 | **Cyxaruk_9877**: Alley Cat (FR), Ride-A-Pet Potion | **Masha1I40**: Axolotl (NFR) |
+| 13:36 | **Puresksxz**: Strawberry Shortcake Bat Dragon (FR), Dalmatian (R), Hedgehog (R) | **AsianIceCold**: Frost Dragon (FR), Ride-A-Pet Potion |
+| 13:36 | **Emileah_Xxa**: Summer Walrus (N) | **Lucie_Dreemurr2**: Ride-A-Pet Potion |
+| 13:36 | **byebyeloulou1**: Cryptid (FR), Turtle (FR), Sea Slug, Ram (N), Dango Penguins, Chicken (R), Ride-A-Pet Potion ×4, Cherry Blossom Hang Glider | **Robloxianin_121**: Balloon Unicorn (FR) |
+| 13:36 | **Kui_Yeager**: Cow (NFR), Candyfloss Chick (NR), Flamingo (FR), Dancing Dragon, Gecko (N) | **mamadmasa0111**: Parrot (FR) |
 | 13:25 | **Irinka717**: Stray Cat Dragon (N), Skelicorn (R) | **Kvetka198**: Ride-A-Pet Potion |
 | 13:25 | **ALV4RYTO**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3, Bolt (M) | **lolcryabtit6767**: Giant Blue Scarab (MR) |
 | 13:25 | **SNIPERTOREEF**: Onza (N), Grinmoire (N), Sasquatch (N), Cherub Chipmunk (N), Abyssinian Cat (N), Muskrat ×2, Pinkypillar ×2, Garden Snake, California Condor ×2 | **fromnothing_12**: Ride-A-Pet Potion |
-| 13:25 | **Killkillmaster2345**: Emperor Gorilla (MFR), Alley Cat (MFR), Owlbear (MFR), Groundhog (M), Majestic Pony (MFR), Candicorn (NFR), Angel Wings, Cheetah (M), 2022 Birthday Cupcake Shoes ×2, Ballet Swan (MFR), Snow Monkey (M), Ballet Swan (N), Candicorn (FR), Cupid Dragon (MFR) | **ArdaEOYT**: Cryptid (MFR) |
-| 13:25 | **footerch**: Huntsman Robin, Skelicorn, Puppeteer Hand | **NaomiMikael1**: Chihuahua |
-| 13:25 | **Julee_Lov**: Wildfire Hawk (NR), Ghost Chick (NR), Golden Tortoise Beetle (N), Irish Elk (M) | **Siren_AriaBlaze**: Shark Puppy |
-| 13:25 | **araawi3u**: Tiny Wings, Spring Bunny Hood, Dango Penguins (R), Chihuahua (N), Catte | **Taemin_chaeunwoo**: Unicorn Horn |
-| 13:25 | **xJI_CHx**: Bush Elephant (R), Unicorn Horn, Ride-A-Pet Potion | **Mytradeaccountforme**: Flaming Fox (MFR) |
-| 13:25 | **omlisage_amvgg**: Chocolate Dutch Guinea Pig (MFR), Cherry-On-Top, Leopard Cat (MR) | **yeeshuki6977**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:25 | **lc_09x**: Christmas Pudding Pup (MFR) | **Alex_12495R7**: Aurora Fox (MFR) |
-| 13:25 | **Num1BakuDekushipper**: Admin Abuse Egg ×18 | **ItsmeEsmeray**: Ride-A-Pet Potion |
-| 13:25 | **milkixis1**: Ride-A-Pet Potion ×6 | **Plwushiiexs**: Harp Seal (NR) |
-| 13:25 | **Vadjik12**: Chick (NR), Cold Cube (FR) | **nafee_xx**: Bunny Swirl (NR) |
-| 13:25 | **AsawaNi_Tsukii**: Balloon Unicorn (FR) | **Mrpresident20010**: Crow (FR) |
-| 13:25 | **ROBLOXBLUECUP**: Spring Bunny Hood, Ride-A-Pet Potion ×2 | **aleks2u**: Caelum Cervi (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
