@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 22:55 UTC by the scrape workflow._
+_Updated 2026-11-26 23:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 22:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 44,578 | 2026-11-26T22:45 |
-| elve | 16 | 9,416 | 2026-11-26T22:46 |
+| amvgg | 16 | 44,826 | 2026-11-26T23:00 |
+| elve | 16 | 9,479 | 2026-11-26T23:01 |
 
-## AMVGG completed trades: 69,794 total
+## AMVGG completed trades: 69,825 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,824 |
+| 2026-11-26 | 3,855 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 22:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:55 | **Barbatoeszzz**: Copycat, Ride-A-Pet Potion | **xadore_brookex**: Angus Bull, Mr. Whiskerpips, Sunglider, Ice Moth Dragon, Kitsune, Mistletroll (N), Golden Hamster, Golden Ladybug, Sunrise Duckling, Chocolate Chow-Chow, King Bee, Zodiac Minion Chick |
-| 22:55 | **POLIHHHHHHHHA**: Field Mouse (MFR), Turtle (FR) | **Jdjdnx269**: Hedgehog (FR) |
-| 22:55 | **lordbeam31**: Turtle (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **imran772009**: Cabbit (FR) |
-| 22:55 | **bless77777**: Candicorn (R), Border Collie (R) | **azxpredxtorn**: Cabbit (FR) |
-| 22:55 | **bl0xby**: Parrot (NFR), Red Dutch Guinea Pig (N) | **mygrandpasleftoe**: Strawberry Shortcake Bat Dragon (NFR) ×2, Mule (MFR), Copycat (NR) |
-| 22:55 | **Zuminkikiki**: Ride-A-Pet Potion | **Djeushididh**: Snow Owl (R) |
-| 22:55 | **0kayFranny**: Munchkin Cat (FR), Fly-A-Pet Potion ×2 | **Kety222222222**: Ghost Dog (MFR) |
-| 22:55 | **johannah_me**: Flaming Fox (MFR), Cow (FR) | **Gato_bananaaa0**: Chocolate Chip Bat Dragon (FR), Munchkin Cat (R) |
-| 22:55 | **3L1EE**: Crystal Egg ×16 | **jess21059**: Ride-A-Pet Potion |
-| 22:55 | **SophNic1**: Cozy Cabin, Ribbon Seal (M), Heart Hoverboard, Donut Stroller, High Heel Stroller | **transxripts**: Chihuahua (M) |
-| 22:55 | **Rockmegi**: Black Tiger (M), Beaver (M) | **eeliasxcx**: Ride-A-Pet Potion |
-| 22:51 | **Am1ieh**: Siamese Cat (NFR), Cotton Candy Hat, Strawberry Clip, Chihuahua, Cow Loves This Sticker, Cattuccino ×2, Rose Quartz Glow Mega Neon Paint | **asinskd**: Munchkin Cat (N), Caterpillar, Tiny Wings |
-| 22:51 | **Graveyardpanda**: Alpaca (R), Unicorn Horn ×2 | **GalaxyCat_X5**: Chocolate Chip Bat Dragon (FR) |
-| 22:51 | **Pupsidupsi2**: Owl (FR), Peppermint Penguin (R), Peppermint Penguin | **HOCOK_121**: Frost Dragon (FR) |
-| 22:51 | **Quean_33**: Mini Pig (FR), Ride-A-Pet Potion ×2, Cheesecake Hat ×2, Purple & Green Beads, 2D Box ×3 | **madamemicah**: Diamond Butterfly |
+| 23:00 | **hello545246797**: Border Collie (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Vikysik_2056**: Kangaroo (R) |
+| 23:00 | **Des1redZiah**: Candicorn, Great Pyrenees (N) | **owl_lover0128**: Werewolf (FR) |
+| 23:00 | **okapiprincess**: Cow (R), Hot Doggo (FR) | **quesidella**: Alpaca (FR), Siamese Cat (R), Border Collie (FR) |
+| 23:00 | **iiEvenstar**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 | **memorialbells**: Harp Seal (MFR) |
+| 23:00 | **BhaabieeRaaii**: Jellyfish (MFR) | **Oooo_KittyCat**: Irish Water Spaniel (MFR) |
+| 23:00 | **3L1EE**: Crystal Egg ×15 | **Artloverpaintlover**: Ride-A-Pet Potion |
+| 23:00 | **activexchxrli**: Chihuahua ×3 | **avolynx**: Ride-A-Pet Potion |
+| 23:00 | **BibbleFairy_9**: Burger Bear (MFR), Yule Log Dog (NR), Polar Bear (F) | **sukiwuk1**: Candicorn (R), Pancake Stack, Bready Necklace |
+| 23:00 | **ydenarohka10**: Copycat | **TOASTER_17362**: Spring Bunny Hood |
+| 23:00 | **Duda87682**: Elf Hat, Puppeteer Hand | **tezza4real**: Stray Cat Dragon (M) |
+| 23:00 | **Gothzru1ns**: Owl (FR), Arctic Reindeer (FR), Alpaca (R), Monkey (MFR), Waffle Wyrm (M), Boohoo (M), Lamb | **panqueca_dogg**: Frost Dragon (FR), Latte Kitsune (MFR) |
+| 23:00 | **Robloxian613444997**: Jacobin Pigeon (M) | **teddycutie7**: Shih Tzu (M) |
+| 23:00 | **intr0v3rt_0**: Purrowl (N), Ms. Muffet (M), Bakeneko (M), Forest Sprite (M) | **Hush322**: Ride-A-Pet Potion ×2 |
+| 23:00 | **GL0Rl0**: Blue Boohoo Mega Neon Paint | **dreampuppy8160**: Solar Burst Mega Neon Paint |
+| 23:00 | **sleepy_s0ren**: Dalmatian (FR) | **lololog741**: Cryptid (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
