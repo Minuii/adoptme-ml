@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 09:01 UTC by the scrape workflow._
+_Updated 2026-11-26 09:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 09:01 UTC by the scrape workflow._
 | amvgg | 16 | 31,318 | 2026-11-26T09:00 |
 | elve | 16 | 6,454 | 2026-11-26T09:01 |
 
-## AMVGG completed trades: 66,965 total
+## AMVGG completed trades: 66,997 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 995 |
+| 2026-11-26 | 1,027 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 09:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:00 | **C2222BA**: Ride-A-Pet Potion ×3 | **0MGSARAY**: Solaris |
-| 09:00 | **La_boyMich15**: Winged Tiger (MFR), Cryptid (FR), Parrot (FR), Turtle (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Halk_785**: Owl (NFR) |
-| 09:00 | **XxLisa_ThequeeenXx**: Retired Egg ×5 | **shenshenzzz14**: Water Moon Bear |
-| 09:00 | **EpicBannana00**: Ms. Muffet, Ant, Mouse | **shenshenzzz14**: Poodle ×2 |
-| 09:00 | **arseniylolol**: Cow (FR), Strawberry Tortle, Elephant (FR) | **U_sulla**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion |
-| 09:00 | **misakoyr**: Siamese Cat, Bready Necklace | **hzmimii**: 2022 Birthday Cake |
-| 09:00 | **iamcute630**: Maine Coon (M) | **lipton_milksh**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 09:00 | **leras3008976**: Halloween White Skeleton Dog (R), Discosplosion | **xochyrobaxcoB**: Golden Hamster (R) |
-| 09:00 | **Acorn0930**: Dilophosaurus (NR) | **quantum_B21**: Ride-A-Pet Potion |
-| 09:00 | **thokkiiii**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **itz_Dizz01**: Strawberry Penguin (R) |
-| 09:00 | **ohinam**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **keoss1579**: Albino Monkey (FR) |
-| 08:55 | **bus1ikk**: Mouse (MR), Corgi (N), Badger (N), Ant (M) | **FRIK_RR**: Ride-A-Pet Potion |
-| 08:55 | **povcalgary**: Rainbow Dragon (MFR), Glormy Leo (FR), Fossa (MR) | **4evxer**: Dango Penguins (MFR) |
-| 08:51 | **TheEerthh**: Crystal Egg ×11 | **bubuBUbu0897**: Moon Rabbit |
-| 08:51 | **HeavenlySylvie**: Zombie Wolf (MFR) | **misspinkie2008**: Zombie Wolf (M) |
+| 09:11 | **Arthuradoptmetrading**: Cow (FR) | **dw4rkz**: Tortoiseshell Guinea Pig ×2 |
+| 09:11 | **ohinam**: Pet Handler Pro Certificate ×6, Ride-A-Pet Potion | **NguyenTheFox**: Lion (FR) |
+| 09:11 | **Fidelia2131415**: Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **avokado78o**: Puptune (MR) |
+| 09:11 | **mimimusasusu**: Munchkin Cat (R), Red Dutch Guinea Pig (R), Panda (NFR), Ring-Tailed Lemur, Pink Cat Ear Headphones, Show Pony (N) | **milltsk**: Turtle (FR) |
+| 09:11 | **Musesmia**: Ride-A-Pet Potion ×6, Fly-A-Pet Potion, Classic Trade Stand | **diegxitt**: Snow Monkey (NR) |
+| 09:11 | **ssuinzx**: Stray Cat Dragon (MFR), Zombie Buffalo (R), Fly-A-Pet Potion ×13 | **Thatneyo**: Cow (FR) |
+| 09:11 | **ohinam**: Pet Handler Pro Certificate ×9, Ride-A-Pet Potion | **QueenVfFlamec91**: Flamingo (FR) |
+| 09:11 | **teadan0**: Ride-A-Pet Potion ×9 | **immimi36**: Munchkin Cat (R) |
+| 09:11 | **DefinitelyNotCha6**: Balloons, Axe Rattle, Sleigh Bells Rattle ×3, Kangaroo Pogo, Marsh Balloon, Cymbal Ingredient, Heart Balloon, Cookie Dough Plush ×2, Candle ×2, Banana Plush, Dragon Balloon | **ShadepyHyper2199043**: Fly-A-Pet Potion |
+| 09:11 | **Lindaunicornio30990**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **walking_creep1**: Ice Cream Cone Hat |
+| 09:11 | **Nastikstanos_2018**: 2022 Birthday Cake, 2022 Birthday Party Hat, Ice Cream Cone Hat, Spring Bunny Hood, Unicorn Backpack, Pink Cat Ear Headphones, Candyfloss Chick (R), Cow, Fairy Bat Dragon (R), Meerkat (R), Happy Clam | **Xz_Infern0UlCircuitR**: Strawberry Shortcake Bat Dragon (NFR) |
+| 09:11 | **Diana_9lt**: Boohoo (N), Water Opossum (N), Bubblegeist, Ghostly Cat, Mummy Spider (N), Spider Crab, Bobageist ×2 | **MRBUST_MR**: Ride-A-Pet Potion |
+| 09:11 | **Zak_0250**: 2022 Birthday Party Hat ×2, Ride-A-Pet Potion ×2 | **NotSweatyOnion**: Werewolf (NFR) |
+| 09:11 | **0MGSARAY**: Cattuccino (NR), Cattuccino (N) ×2, Cattuccino ×2 | **Zak_0250**: Pain au Chat, Count Slothula, Kitty Biscuit ×2 |
+| 09:11 | **khyzertumirangtres**: Fly-A-Pet Potion ×4 | **DewrattlSR**: Matcha Cat |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
