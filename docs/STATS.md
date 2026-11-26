@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 01:55 UTC by the scrape workflow._
+_Updated 2026-11-26 02:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 01:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 24,584 | 2026-11-26T01:45 |
-| elve | 16 | 5,138 | 2026-11-26T01:46 |
+| amvgg | 16 | 24,824 | 2026-11-26T02:00 |
+| elve | 16 | 5,200 | 2026-11-26T02:01 |
 
-## AMVGG completed trades: 66,234 total
+## AMVGG completed trades: 66,244 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 264 |
+| 2026-11-26 | 274 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 01:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:00 | **katseye25683**: Werewolf | **iTheDAN**: Candicorn |
+| 02:00 | **Sarahi23685**: Irish Elk, Fly-A-Pet Potion | **melynagamer3**: Ride-A-Pet Potion ×2 |
+| 02:00 | **mxzerii**: Ride-A-Pet Potion | **jordanllover33**: Pudding Cat ×2, Chick ×2 |
+| 02:00 | **AltforamvggBre1**: Hot Doggo ×2, Cow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Susabaoen**: Hot Doggo (N) |
+| 02:00 | **DuckyMuffinz**: Ride-A-Pet Potion | **epngle**: Admin Abuse Egg ×18 |
+| 02:00 | **KOT_PonUwU**: Cat Backpack ×2, Angus Cow (N) ×4, Gold Tiara ×2 | **Anastasia_fp12**: Ride-A-Pet Potion |
+| 02:00 | **roblox_user_9047853614**: Candicorn (MFR), Lion | **911robinn**: Balloon Unicorn (FR) |
+| 02:00 | **petar13alo**: Evil Unicorn (FR) | **BL00DP0PP3RZ**: Cow (NFR), Goose (FR) |
+| 02:00 | **demon_slayer54832**: Zombie Wolf (MFR), Ride-A-Pet Potion ×5, Ice Cream Cone Hat | **Richard20125**: Cow (FR) |
+| 02:00 | **ll2Sc**: Puffin (MFR) | **klaythomp08**: Tri-horned Treehopper (MFR) |
 | 01:55 | **Willowstorm_WaCa**: Frost Phoenix (N) | **BakaMaster39**: Pig |
 | 01:55 | **linaol0a20**: Reindeer (NFR), Dango Penguins, Sushi Penguin, Amami Rabbit, Moon Rabbit | **abdoosaad**: Arctic Fox (FR) |
 | 01:55 | **xaoichaanx**: Flaming Zebra (MFR) | **itsZoestream610**: Cupid Dragon (FR) |
 | 01:55 | **antilucqa**: Caterpillar | **cheehrbechieirbceb**: Albino Bat (MFR), Ride-A-Pet Potion |
 | 01:55 | **zephyrgoatt**: Ride-A-Pet Potion | **valentinoelpro_12**: Purrowl ×9 |
-| 01:55 | **sillva_042**: Crocodile (FR) | **Insano_V48**: Tuxedo Cat (NR), Elf Hat, Spring Bunny Hood, Chocolate Dutch Guinea Pig ×2 |
-| 01:51 | **epicpulsechaos2024**: Alicorn ×18 | **aloiv484**: Ride-A-Pet Potion ×2 |
-| 01:51 | **vertaocsi**: Toaster Hat | **fenekitfixismymain**: Tiny Wings |
-| 01:51 | **deprssdgirls**: Chocolate Chip Bat Dragon (FR), Alpaca (FR) ×2, 2022 Birthday Party Hat, Ring-Tailed Lemur (R), Ride-A-Pet Potion | **Andres_agent**: Balloon Unicorn (FR) |
-| 01:51 | **Ryukyu7336**: Tortoiseshell Guinea Pig, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Butter Knife | **mk1qez**: 2022 Birthday Cake |
-| 01:51 | **zephyrgoatt**: Brown Springer Spaniel (MR), Puffer Fish (M), Butter Knife | **Lisfps123**: Mini Pig (FR) |
-| 01:51 | **pusheen_resya**: Goat | **xXLove_SunWukongXx**: Pet Handler Pro Certificate ×4 |
-| 01:51 | **xXLove_SunWukongXx**: Lion Cub (FR) | **Yumi_Rose8**: Pet Handler Pro Certificate ×4 |
-| 01:51 | **KidzPlayzYT20**: Evil Unicorn (FR), Turtle (FR), Kangaroo (FR) | **insahzz**: Strawberry Shortcake Bat Dragon (FR) ×2 |
-| 01:51 | **corney125**: Halloween White Skeleton Dog (N) | **Dinkarrt**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
