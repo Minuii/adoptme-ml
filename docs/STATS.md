@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 18:31 UTC by the scrape workflow._
+_Updated 2026-11-26 18:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 18:31 UTC by the scrape workflow._
 | amvgg | 16 | 40,282 | 2026-11-26T18:30 |
 | elve | 16 | 8,416 | 2026-11-26T18:31 |
 
-## AMVGG completed trades: 68,869 total
+## AMVGG completed trades: 68,900 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,899 |
+| 2026-11-26 | 2,930 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 18:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:30 | **kylemkaa0**: Reindeer (FR) | **AlekdandraSasha**: Pupcicle (N) |
-| 18:30 | **Lya_vcAcc**: Lion Cub (MFR), Unicorn Horn, Toaster Hat | **iiplxzmx_alt**: African Wild Dog (FR), Pupcicle ×2, Red Squirrel (R), Fly-A-Pet Potion |
-| 18:30 | **D1v1ne_Muse**: Golden Unicorn (M) | **rb_feel**: Patchy Bear (MR), Show Pony (M) |
-| 18:30 | **FunnyCatus25**: Cozy Cabin, Cabbit (FR), Goose (FR) | **sakotfzg**: Strawberry Shortcake Bat Dragon (FR) |
-| 18:30 | **MR_M7MOOD**: Munchkin Cat (MFR), Rain Cloud Hat | **MICROCELE6BRITY**: Evil Unicorn (FR) |
-| 18:30 | **Omar2002548**: Copycat ×3, Copycat (R) | **vrqaxs**: Copycat (N) |
-| 18:30 | **beto17521**: Cow (FR), Cow (R), Cow, Turtle (FR), Flamingo (R) | **Dahom_Bili**: Chocolate Chip Bat Dragon (FR) ×2, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 18:30 | **footerch**: Zebra (N), Skelicorn, Crimson Cape, Admin Abuse Egg ×4, Cracked Egg ×2 | **agato4kaLove**: Chameleon |
-| 18:30 | **bczlivz**: Cryptid, Chocolate Chip Bat Dragon (FR) | **elsociopepe**: Chocolate Chip Bat Dragon (NFR) |
-| 18:30 | **yeeshuki6977**: Cryptid (NFR) | **yeetimaheadout7**: Siamese Cat (MFR), Strawberry Shortcake Bat Dragon (FR), Border Collie (FR) |
-| 18:30 | **Sarahi23685**: Green Butterfly (R) | **Aggr0berlin**: Boohoo (M), Brachiosaurus |
-| 18:30 | **19391pancho**: Ride-A-Pet Potion ×2 | **Kaiisxe**: Soccer Stadium |
-| 18:30 | **irisjgh6**: Spring Bunny Hood, Spring Bunny Nose, Pet Handler Pro Certificate, Ride-A-Pet Potion | **Dasha1_Star**: Tiny Wings |
-| 18:30 | **Goodnews2013**: Cupid Dragon (R), Ride-A-Pet Potion | **itemhouse1**: Fly-A-Pet Potion ×4 |
-| 18:30 | **Brattygurl15**: English Sheepdog (M), 2022 Birthday Confetti Cannon, Toaster Hat, 2022 Birthday Cake, Flaming Fox (MFR) | **4cosha**: Cryptid (FR) |
+| 18:36 | **vivicacke17**: Ram | **RobloxMea2009**: Reindeer (R) |
+| 18:36 | **Omar2002548**: Copycat ×4, Ride-A-Pet Potion | **vrqaxs**: Copycat (N) |
+| 18:36 | **cesarismykingy**: Munchkin Cat (MFR), Candicorn (MFR), Shark Puppy (FR), Drake (NFR) | **milotaikgamer**: Fairy Bat Dragon (MFR) |
+| 18:36 | **Cutecupshakes**: Ride-A-Pet Potion ×6 | **Krashiha_Karolina26**: Strawberry Penguin |
+| 18:36 | **Robloxiana_xxx2011**: Green Amazon (MFR) | **Aslie_17**: Ride-A-Pet Potion ×4 |
+| 18:36 | **noor_san0**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **cuttIef1sh**: Flash Weasel |
+| 18:36 | **4URANZ3**: Strawberry Shortcake Bat Dragon (FR), Spring Bunny Hood | **Snoxs545**: Cow (R), Albino Monkey (FR), Pig (R), Shark Puppy, Frost Fury (R) |
+| 18:36 | **Cookie_Berry4234**: Summer Walrus (MFR) | **maxymiteolindo78**: Hamster (MFR) |
+| 18:36 | **INZD7**: Meerkat (R), Lava Dragon (FR), Ghost Chick (F) | **sakotfzg**: Cozy Cabin |
+| 18:36 | **roblox_user_8008153919**: 2022 Birthday Party Hat | **nona200986**: Siamese Cat (FR) |
+| 18:36 | **T0LMU**: Onza, Chihuahua, Tanuki, Therapy Dog, Kirin, Kelp Crewmate, Rhino Beetle | **patya57893**: Puffer Fish |
+| 18:36 | **Swimguwin**: Ride-A-Pet Potion | **nzjtla**: Crystal Egg ×18 |
+| 18:36 | **EcommonSense**: Strawberry Shortcake Bat Dragon (FR) ×2, Ride-A-Pet Potion ×2 | **xerkatra**: African Wild Dog (FR) |
+| 18:36 | **Isa_anto58**: Cow (R) | **i07jdy**: Jekyll Hydra (FR) |
+| 18:36 | **cannotaffordme**: Giant Panda (FR) | **Bi_WaterBuffalo**: Dango Penguins (MFR), Rainbow Maker, Chef Gorilla (MFR), Blue Ringed Octopus (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
