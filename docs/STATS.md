@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 06:46 UTC by the scrape workflow._
+_Updated 2026-11-26 06:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 06:46 UTC by the scrape workflow._
 | amvgg | 16 | 29,360 | 2026-11-26T06:45 |
 | elve | 16 | 6,032 | 2026-11-26T06:46 |
 
-## AMVGG completed trades: 66,723 total
+## AMVGG completed trades: 66,764 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 753 |
+| 2026-11-26 | 794 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 06:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:45 | **Lilyanaa_p**: Peppermint Penguin (N), Alpaca (NFR), Rainbow Maker, Halo, Rain Cloud Hat ×2, Unicorn Horn, Ring-Tailed Lemur ×2, Pet Handler Pro Certificate ×5 | **Xz_Infern0UlCircuitR**: Alpaca (MFR) |
-| 06:45 | **RileyforSure28**: Arctic Reindeer (FR), Turtle (FR) | **Majicfee**: Evil Unicorn (FR) |
-| 06:40 | **SantaniyxRBLX**: Fly-A-Pet Potion ×15 | **arseniylolol**: Fairy Bat Dragon (FR) |
-| 06:40 | **Urfavorite1225**: Peachick ×2, Chihuahua, Gorilla, Sasquatch, Winter Fawn, Ermine | **pinkytedslovie**: Ride-A-Pet Potion |
-| 06:40 | **JorgeEduardo_123**: Flower Power Duckling (NR) | **robloxer_3614**: Fly-A-Pet Potion |
-| 06:40 | **hojujuonabeat**: Candy Hare (N) | **Antonipes**: Ride-A-Pet Potion ×7 |
-| 06:40 | **Leafiieee**: Alicorn ×4, Ancient Dragon (R) | **Tuuu_Madreee2**: Ride-A-Pet Potion |
-| 06:40 | **Jess1kss**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×5 | **carlkilling**: Kangaroo (R) |
-| 06:36 | **XMARSS557**: Ride-A-Pet Potion | **Bruhzoeww**: Crystal Egg ×17 |
-| 06:36 | **JuJu200LoL10**: Ride-A-Pet Potion | **paldoalways34**: Stray Cat Dragon ×8 |
-| 06:36 | **StanleyHayden5**: Count Slothula | **paldoalways34**: Stray Cat Dragon ×4 |
-| 06:36 | **paldoalways34**: Corn Doggo (MFR), Pudding Cat (N), Stray Cat Dragon ×13, Stygian Owl (N), Gumball Caterpillar (N), Pet Handler Pro Certificate | **Vanthoria**: Crocodile (NFR) |
-| 06:36 | **Legolover15687**: Copycat, Admin Abuse Egg ×2, Ride-A-Pet Potion ×2 | **beconisok**: Flash Weasel |
-| 06:36 | **Mizumi_yiku**: Flower Power Duckling ×2 | **Jenniea264**: Cow Calf, Sweetheart Rat, Chihuahua |
-| 06:36 | **nnseoi**: Ice Cream Cone Hat | **C4K3YK1TTEN**: Spring Bunny Hood, Candyfloss Mega Neon Paint |
+| 06:55 | **alolalolaloa**: Mermicorn (NFR), Fly-A-Pet Potion | **user9461037**: Fairy Bat Dragon (NFR) |
+| 06:55 | **Natalize8D**: Cabbit (FR), Goat (R) | **elpopas6**: Cow (FR), Ride-A-Pet Potion |
+| 06:55 | **bearmaster1101**: Shadow Dragon (FR) | **IconsChew**: Owl (FR) ×2, Evil Unicorn (FR) |
+| 06:55 | **ShadepyHyper2199043**: Tuxedo Cat (MFR), Werewolf (R), Dancing Dragon (F), Fly-A-Pet Potion | **just_vailan4**: German Shepherd (MFR), 2022 Birthday Party Horn, Chihuahua (MR) |
+| 06:55 | **Elve_ii**: Toaster Hat, Ride-A-Pet Potion | **versaiIless**: Burger Bear (MR) |
+| 06:55 | **Venom_eshkeregg**: Fly-A-Pet Potion, Ride-A-Pet Potion | **0MGSARAY**: Eaten Donut, White Chef Hat, Cotton Candy Hat, Butter Knife, Unfortunate Eyelashes |
+| 06:55 | **snkqna**: Shadow Dragon Ducky (N), Pupcake, Glyptodon Ducky (M), Steppe Lion (N) | **0MGSARAY**: Kid Goat (MFR) |
+| 06:55 | **Caba7Senpai**: Kid Goat (MR), Halloween Slime Mega Neon Paint, Cotton Candy Hat | **0MGSARAY**: Kid Goat (MFR) |
+| 06:55 | **niceplayeruwu**: Pet Handler Pro Certificate | **iDontKnowYou89844**: Desert Egg ×6 |
+| 06:55 | **mxh_ii2347**: Ring-Tailed Lemur (R) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 06:55 | **mxh_ii2347**: Jumpscare (M), Boohoo (M) | **UnicornKitycorns**: Fly-A-Pet Potion |
+| 06:55 | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion, Arctic Hare, Ratatoskr | **christintitin**: Chocolate Dutch Guinea Pig |
+| 06:55 | **mlpenjoyerminilop**: Halloween White Ghost Dragon (FR) | **Sussy_Gril10823**: Copycat |
+| 06:51 | **lunicorncookies**: Retired Egg ×12 | **brokoly112**: Electric Hornet ×2 |
+| 06:51 | **epicpulsechaos2024**: Alicorn ×18 | **Tuuu_Madreee2**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
