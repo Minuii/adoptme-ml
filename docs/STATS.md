@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 15:16 UTC by the scrape workflow._
+_Updated 2026-11-26 15:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 15:16 UTC by the scrape workflow._
 | amvgg | 16 | 36,990 | 2026-11-26T15:15 |
 | elve | 16 | 7,645 | 2026-11-26T15:15 |
 
-## AMVGG completed trades: 67,982 total
+## AMVGG completed trades: 68,023 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,012 |
+| 2026-11-26 | 2,053 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 15:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:15 | **epicpulsechaos2024**: Alicorn ×18 | **LuchisLocos1500**: Ride-A-Pet Potion ×2 |
-| 15:15 | **tarrace_house**: Snowy Mammoth (M) | **kurapizo**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 15:15 | **xnikcsooo**: Cryptid (FR) | **toybeau772**: Arctic Reindeer (FR), Siamese Cat (R), Alley Cat |
-| 15:15 | **Harp_seaaal**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4, Sloth, Stray Cat Dragon, Ancient Dragon, Jacobin Pigeon (N), Puppeteer Hand, Candyfloss Chick Sticker, Candicorn Sticker, Grim Dragon Sticker, Scarebear Sticker, Cherry Blossom Flower Sticker ×4 | **MLD_Rotate**: Haetyphoon |
-| 15:15 | **lxceddream**: Giraffe (FR) | **fIuorines**: Alpaca (MFR) |
-| 15:15 | **poly0950**: Crystal Egg ×15 | **bubuBUbu0897**: Unicorn |
-| 15:15 | **zephyrgoatt**: Ride-A-Pet Potion | **clalouetciedh**: Alicorn ×9 |
-| 15:15 | **dsxrve**: Ice Cream Heels, Fishbone Badge, Purple Heart Glasses, Gold Tiara, Gold Circle Glasses | **autnmxblxssom**: Rain Boots |
-| 15:11 | **iiiiSunnyvibesiiii**: Fairy Bat Dragon (N), Cow (FR), King Bee (MFR), Arctic Fox (R), Frost Fury (FR) | **rkdwlgh0104**: African Wild Dog (FR) |
-| 15:11 | **KsuKrizB6**: Dalmatian (FR), Vanilla Penguin (NR), Propeller Hat, Rain Boots, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×7, Kitty Biscuit | **akeks_74**: Hedgehog (FR) |
-| 15:11 | **k0sjh1**: Unicorn (MFR) | **Z1NCHES**: Frost Fury (NFR) |
-| 15:06 | **Wgirl_IG**: Shark (N) | **meowgirlava**: Unicorn (NFR) |
-| 15:06 | **sakotfzg**: Fly-A-Pet Potion ×5 | **Evelyy_na**: Pig (FR) |
-| 15:06 | **Rosycupcake29**: Cryptid (NFR) | **swirlycupcake29**: Owl (NFR) |
-| 15:06 | **Rosycupcake29**: Cryptid (NFR) | **swirlycupcake29**: Balloon Unicorn (NFR) |
+| 15:21 | **mellqxxrb**: Bolt (MFR) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×2 |
+| 15:21 | **naninaaa000**: Parrot (FR) | **dw4rkz**: Mini Pig (R), Cow (FR), Cabbit (FR), Cabbit (R), Siamese Cat, Elephant (R), Ride-A-Pet Potion |
+| 15:21 | **ProTylerRr**: Sugar Glider (R) | **BCOOLECAT11**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×9 |
+| 15:21 | **floralplum**: Chocolate Dutch Guinea Pig | **coloma1000_7**: Lynx (FR) |
+| 15:21 | **floralplum**: Fly-A-Pet Potion | **Quueen_Juliiaa**: Mushroom Friend (FR) |
+| 15:21 | **inyiuhf**: Shiver Wolf (M), Easter Bunny (N), Burger Bear | **kobii_x**: Amami Rabbit (M) |
+| 15:21 | **Lazyymimi**: Cow (FR), Fly-A-Pet Potion | **S3rennx**: Alpaca (FR), Leopard Cat (MR) |
+| 15:21 | **Nastai3324**: Pancake Stack, Ride-A-Pet Potion ×3, Energy Aura Feet | **MARIAina_1**: Christmas Pudding Pup (R) |
+| 15:21 | **EthanNovaZoom2024**: Kangaroo (FR) | **Galaxywolfie72**: Ride-A-Pet Potion ×13, Fly-A-Pet Potion ×2 |
+| 15:21 | **BudyBro3**: Brown Springer Spaniel (R), Long Ermine Sticker | **Cat_123840**: Christmas Pudding House |
+| 15:21 | **clalouetciedh**: Alicorn ×12 | **ariesdesire**: Ride-A-Pet Potion |
+| 15:21 | **SUPERPENGUIN0111**: Ride-A-Pet Potion ×4 | **brbrnatanimtralalel0**: Arctic Dusk Dragon |
+| 15:21 | **yasxzsss**: Aestus (MFR), Ride-A-Pet Potion | **Octolootom**: Flaming Fox (MFR) |
+| 15:21 | **itskayeeee**: Fly-A-Pet Potion ×13, Ride-A-Pet Potion ×2 | **caby_vr**: Fairy Bat Dragon (FR) |
+| 15:21 | **1mpactOO**: Ride-A-Pet Potion | **ariesdesire**: Ghost Bunny |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
