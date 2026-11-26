@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 17:25 UTC by the scrape workflow._
+_Updated 2026-11-26 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 17:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 38,974 | 2026-11-26T17:15 |
-| elve | 16 | 8,052 | 2026-11-26T17:15 |
+| amvgg | 16 | 39,250 | 2026-11-26T17:30 |
+| elve | 16 | 8,145 | 2026-11-26T17:31 |
 
-## AMVGG completed trades: 68,542 total
+## AMVGG completed trades: 68,569 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,572 |
+| 2026-11-26 | 2,599 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 17:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:25 | **Felix71_34**: Dango Penguins (MFR) ×3, Dango Penguins (MR) | **leruval**: Owl (FR), Ice Cream Cone Hat |
-| 17:25 | **Aimeefrearxx**: Harp Seal (NFR), Ride-A-Pet Potion | **Giulia_SatoruPs4**: Dango Penguins ×2, Dragonfruit Fox |
-| 17:25 | **TzuS_meowYu**: Rainbow Maker, 2022 Birthday Party Hat, 2022 Birthday Party Horn | **departedlifecrisis**: Cryptid (FR) |
-| 17:25 | **leras3008976**: Copycat | **MyStarPets1**: Arctic Dusk Dragon (R) |
-| 17:25 | **mewklz**: Great Pyrenees (NFR), Tiny Wings | **princess_pizzanice**: Great Pyrenees (MR) |
-| 17:25 | **h4_cd**: Fly-A-Pet Potion | **lerkkalovaa**: Dark Choccybunny (M) |
-| 17:25 | **Yaret_1424**: Fly-A-Pet Potion | **nzjtla**: Ride-A-Pet Potion, Crystal Egg ×17 |
-| 17:25 | **altaccountzp5**: Orchid Butterfly (NFR), Frost Unicorn (MFR), Peppermint Penguin (NR), Cryptid (FR), Caterpillar, Aestus (NR), Matcha Cat (FR), Cupid Dragon, Cerberus (FR), Taco | **amvggtradingalt9**: Bat Dragon (FR) |
-| 17:25 | **cwutesy_1ai**: 2022 Birthday Confetti Cannon, Shrew (MFR) | **m1xa_0**: Sakura Spirit (MFR) |
-| 17:25 | **ro295614dix**: Owl (FR), Rain Cloud Hat | **Markopolisen9**: Cow (MFR) |
-| 17:25 | **Ethernaces**: Crystal Egg ×15 | **camgzz20**: Ride-A-Pet Potion |
-| 17:25 | **ropeiommmm**: Peppermint Penguin (FR), Albino Monkey (FR), Candicorn (FR), Tree Kangaroo (R), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **megumi_isambitious**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:25 | **Irek3008**: Chihuahua (N) | **OBVIMILLSxx**: Fly-A-Pet Potion |
-| 17:25 | **Yaret_1424**: Fly-A-Pet Potion | **nzjtla**: Ride-A-Pet Potion, Crystal Egg ×17 |
-| 17:25 | **5689kgf02**: Elephant (FR), Border Collie | **lolo_gils**: Fairy Bat Dragon (FR) |
+| 17:30 | **Luna_SanUwuUvu**: Fairy Bat Dragon (FR), Tortoiseshell Guinea Pig ×2, Frost Fury (FR), Ride-A-Pet Potion ×2 | **hanb3ki**: Chocolate Chip Bat Dragon (FR) |
+| 17:30 | **U9l9y**: Pig (R), Copycat (FR) | **M1cahsWRLD**: Hare (NFR) |
+| 17:30 | **missy_Artz**: Parrot (FR), Arctic Reindeer (FR) ×2 | **bbbbbbbbbbbbbbiuu**: Cabbit (MFR) |
+| 17:30 | **ItzSlima**: Bubblegeist (M), Yellow Designer Backpack, Paint Sealer | **mellqxxrb**: Fly-A-Pet Potion |
+| 17:30 | **amandastetic77**: Goose (MFR), Ride-A-Pet Potion | **No_R3gretz**: Candicorn (MFR) ×2, Dango Penguins (MFR) |
+| 17:30 | **Moqqiz**: Evil Unicorn (FR) | **otonite7**: Goose (R), Kangaroo (NFR), Pig (R), Lion Cub (R), Shark Puppy, Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 17:30 | **33k_bruh**: Fairy Bat Dragon (FR) ×2, Turtle (FR), Frostbite Cub (MFR), Ride-A-Pet Potion | **Puresksxz**: Dalmatian (FR) |
+| 17:30 | **HeavenlySylvie**: Giant Anteater, Phantom Dragon (R), Ghost Bunny (N) | **I_dontApeople**: Copycat (N) |
+| 17:30 | **Kelssakura**: Glormy Leo (R), Ride-A-Pet Potion | **alinaya0208**: Ladybug (MFR) |
+| 17:30 | **Spamforchristmas2**: King Bee (MFR) | **Prestoni123457**: Alley Cat (NF) |
+| 17:30 | **karolina_TherealONE**: Alley Cat (R), Field Mouse (R), Vanilla Penguin, Tutu | **fairylih**: Munchkin Cat |
+| 17:30 | **FTGFXH43**: Easter Egg Friends, Strawberry Shortcake Bow | **Itsblualin**: Ride-A-Pet Potion |
+| 17:30 | **khyzertumirangtres**: Dango Penguins ×2, Dragonfruit Fox | **Elouisepanda**: Matcha Cat |
+| 17:30 | **avokado78o**: Dragonfly ×10, Ancient Dragon | **Dan9732224**: Ride-A-Pet Potion |
+| 17:30 | **mishkatedi57**: Candicorn, Ride-A-Pet Potion ×2 | **yeetimaheadout7**: Kangaroo (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
