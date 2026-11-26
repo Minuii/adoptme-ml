@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 22:46 UTC by the scrape workflow._
+_Updated 2026-11-26 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 22:46 UTC by the scrape workflow._
 | amvgg | 16 | 44,578 | 2026-11-26T22:45 |
 | elve | 16 | 9,416 | 2026-11-26T22:46 |
 
-## AMVGG completed trades: 69,776 total
+## AMVGG completed trades: 69,794 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,806 |
+| 2026-11-26 | 3,824 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 22:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **GamerMarty06_yt**: Hedgehog | **Cmetanka14ca**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Munchkin Cat, Frost Fury, Fly-A-Pet Potion ×5, Ride-A-Pet Potion |
-| 22:45 | **Violetxpups**: Candyfloss Chick (MFR), Caterpillar | **SincerelyZandra**: Parrot (FR), African Wild Dog (FR) |
-| 22:45 | **wanda_vision680**: Ride-A-Pet Potion | **Sains9811**: Cattuccino, Huntsman Robin ×3, Dragon ×3, Blue Whale ×2, Paint Sealer ×2, Retired Egg |
-| 22:45 | **rurik66709**: Ride-A-Pet Potion ×4 | **alstnyou**: Polar Bear (R) |
-| 22:45 | **Slug013**: Red Dutch Guinea Pig, Dragonfruit Fox (N) | **C4K3YK1TTEN**: Moon Rabbit (M) |
-| 22:45 | **jomkes67**: Nessie (MFR), German Shepherd (MFR), Evil Chickatrice (MFR), Ride-A-Pet Potion | **s6ythed**: Orchid Butterfly (FR), Goose (FR) |
-| 22:45 | **LotusVanilla4**: Chocolate Chip Bat Dragon (FR), Cabbit (NFR) | **dollfaceangie**: Strawberry Shortcake Bat Dragon (NFR) |
-| 22:45 | **stargxldani**: Parrot (NFR), Parrot (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Haetae (FR), Munchkin Cat (MFR) | **hanb3ki**: Bat Dragon (FR) |
-| 22:45 | **bl0xby**: Kangaroo (R) | **PREPPY_ROBLOXWORLD1**: Matcha Cat (R), Unicorn (NR), Fly-A-Pet Potion, Chocolate Dutch Guinea Pig, Mochi Meow (NR), Unicorn |
-| 22:45 | **Raska_46**: Candyfloss Chick (FR), Pro Ghost Blaster, Ride-A-Pet Potion, Golden Bone, Skelicorn, Gemstone Egg, Ponytail, Rubber Ducks, Duck Floatie | **delfinaberna12**: Turtle (FR) |
-| 22:45 | **atracttion**: Cryptid (NFR) | **ariesdesire**: Mini Pig (R), Emperor Gorilla (NFR), Field Mouse (MFR), Jester Dragon (MFR) |
-| 22:45 | **brooke_cook26**: Tortuga de la Isla (FR) | **Amy_baum0nice3**: Haetyphoon |
-| 22:45 | **Melonlover406**: Chocolate Dutch Guinea Pig (MFR), Sushi Penguin (MFR), Toaster Hat | **cinnabib**: Rainbow Maker |
-| 22:45 | **Saji_Ls**: Chihuahua ×3 | **Artloverpaintlover**: Ride-A-Pet Potion |
-| 22:45 | **Fluffykitty_08**: Tiny Wings | **PHYSIC_WIZARDD**: Flaming Fox (N) |
+| 22:55 | **Barbatoeszzz**: Copycat, Ride-A-Pet Potion | **xadore_brookex**: Angus Bull, Mr. Whiskerpips, Sunglider, Ice Moth Dragon, Kitsune, Mistletroll (N), Golden Hamster, Golden Ladybug, Sunrise Duckling, Chocolate Chow-Chow, King Bee, Zodiac Minion Chick |
+| 22:55 | **POLIHHHHHHHHA**: Field Mouse (MFR), Turtle (FR) | **Jdjdnx269**: Hedgehog (FR) |
+| 22:55 | **lordbeam31**: Turtle (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **imran772009**: Cabbit (FR) |
+| 22:55 | **bless77777**: Candicorn (R), Border Collie (R) | **azxpredxtorn**: Cabbit (FR) |
+| 22:55 | **bl0xby**: Parrot (NFR), Red Dutch Guinea Pig (N) | **mygrandpasleftoe**: Strawberry Shortcake Bat Dragon (NFR) ×2, Mule (MFR), Copycat (NR) |
+| 22:55 | **Zuminkikiki**: Ride-A-Pet Potion | **Djeushididh**: Snow Owl (R) |
+| 22:55 | **0kayFranny**: Munchkin Cat (FR), Fly-A-Pet Potion ×2 | **Kety222222222**: Ghost Dog (MFR) |
+| 22:55 | **johannah_me**: Flaming Fox (MFR), Cow (FR) | **Gato_bananaaa0**: Chocolate Chip Bat Dragon (FR), Munchkin Cat (R) |
+| 22:55 | **3L1EE**: Crystal Egg ×16 | **jess21059**: Ride-A-Pet Potion |
+| 22:55 | **SophNic1**: Cozy Cabin, Ribbon Seal (M), Heart Hoverboard, Donut Stroller, High Heel Stroller | **transxripts**: Chihuahua (M) |
+| 22:55 | **Rockmegi**: Black Tiger (M), Beaver (M) | **eeliasxcx**: Ride-A-Pet Potion |
+| 22:51 | **Am1ieh**: Siamese Cat (NFR), Cotton Candy Hat, Strawberry Clip, Chihuahua, Cow Loves This Sticker, Cattuccino ×2, Rose Quartz Glow Mega Neon Paint | **asinskd**: Munchkin Cat (N), Caterpillar, Tiny Wings |
+| 22:51 | **Graveyardpanda**: Alpaca (R), Unicorn Horn ×2 | **GalaxyCat_X5**: Chocolate Chip Bat Dragon (FR) |
+| 22:51 | **Pupsidupsi2**: Owl (FR), Peppermint Penguin (R), Peppermint Penguin | **HOCOK_121**: Frost Dragon (FR) |
+| 22:51 | **Quean_33**: Mini Pig (FR), Ride-A-Pet Potion ×2, Cheesecake Hat ×2, Purple & Green Beads, 2D Box ×3 | **madamemicah**: Diamond Butterfly |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
