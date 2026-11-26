@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 04:16 UTC by the scrape workflow._
+_Updated 2026-11-26 04:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 04:16 UTC by the scrape workflow._
 | amvgg | 16 | 27,029 | 2026-11-26T04:15 |
 | elve | 16 | 5,575 | 2026-11-26T04:15 |
 
-## AMVGG completed trades: 66,496 total
+## AMVGG completed trades: 66,513 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 526 |
+| 2026-11-26 | 543 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 04:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:15 | **noodlesnchips1**: Arctic Reindeer (FR), Cherry-On-Top | **MayMayMayGirl**: Alpaca (NFR) |
-| 04:15 | **angela_umerez4**: Giraffe (NFR), Candicorn (NR), Pink Cat (NR), Pet Handler Pro Certificate | **Adoptmetradingalt82**: Bat Dragon (R) |
-| 04:15 | **murid5**: Chocolate Chip Bat Dragon (NFR), Giraffe (FR), Evil Unicorn (FR), Peppermint Penguin (FR), Kangaroo (MFR), Frost Unicorn, Kangaroo (R), Cabbit, Silly Duck (NFR) | **Flutterieshyy**: Bat Dragon (FR) |
-| 04:15 | **DragonClaw7314**: Chocolate Chip Bat Dragon (MFR) | **electrolytia**: Dalmatian (FR), Crow (FR), Cow (MFR) |
-| 04:15 | **2rigolo2**: Orchid Butterfly (NFR), 2022 Birthday Cake, Blue Butterfly Wings | **serpentibendi**: Strawberry Tortle (M) |
-| 04:15 | **Rubberduckington1103**: Munchkin Cat ×2, Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **wx8zqxx**: Nessie (NR) |
-| 04:15 | **Bananasummers12123**: King Penguin | **wvuqil**: Sasquatch |
-| 04:15 | **Caua08_Games**: Aurora Fox (MFR), Fairy Bat Dragon (NFR), Mermicorn (FR), Albino Monkey (NFR), Halloween Evil Dachshund (MFR), Pupcake (M), Arctic Fox (NFR) | **leruval**: Frost Dragon (FR) |
-| 04:15 | **MorpekoMuncher**: Cow (FR), Fly-A-Pet Potion ×17 | **xxpeenut_butterxxx**: Strawberry Shortcake Bat Dragon (FR) |
-| 04:15 | **earth2starnyy**: Arctic Reindeer (FR), Cow (FR) | **QUliaka**: Mini Pig (NFR) |
-| 04:06 | **z4ni_X**: Turtle (FR) ×2, Turtle (R) | **carlitosuwuagua**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×2 |
-| 04:06 | **dollinrot**: Ride-A-Pet Potion | **ChloeLovxly**: Crystal Egg ×17 |
-| 04:06 | **amaielliee**: Swan (NR), Red Fox (N) | **Oopsididitagain061**: Pet Handler Pro Certificate ×4 |
-| 04:06 | **h4_cd**: Pet Handler Pro Certificate ×4, Mochi Meow | **Oopsididitagain061**: Arctic Fox (R) |
-| 04:06 | **MayMayMayGirl**: Giant Anteater (NFR), Goose (FR), Ride-A-Pet Potion | **BBLDRIZZYYYYYY2**: Strawberry Shortcake Bat Dragon (R) |
+| 04:25 | **ariaeaea**: Moon Rabbit (N), Water Rabbit (NR) | **numbedsorrow**: Spring Bunny Hood |
+| 04:25 | **4URANZ3**: Sea Angel (MF), Shark Puppy (FR), Fly-A-Pet Potion ×2 | **j3nxy000**: Siamese Cat (R) |
+| 04:25 | **Foxnewstop1**: Cryptid (FR) | **PinkLemonades91**: Dalmatian (FR) |
+| 04:25 | **Themr_harlen0220**: Candicorn | **Alemys2011**: Ride-A-Pet Potion ×16 |
+| 04:25 | **NaJaemin120**: Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **Zh_Vi**: Haetyphoon (FR) |
+| 04:20 | **Eclipzzd**: Ride-A-Pet Potion | **killerman_xd1**: Dragonfly ×13 |
+| 04:20 | **joakhidk129**: Owl (FR), Evil Unicorn (FR), Chocolate Chip Bat Dragon (FR), Turtle (FR), Fly-A-Pet Potion ×2 | **Susabaoen**: Hot Doggo (MFR) |
+| 04:20 | **Ami_Mixed**: Strawberry Shortcake Ducky, Stray Cat Dragon, Purrowl, Bubblegeist, Easter Bunny, Fire Stallion ×2, Sea Turtle, Corgi, Fanghorn Tortoise, Electric Hornet | **NEZZAandVANESSA**: Ride-A-Pet Potion |
+| 04:20 | **Ami_Mixed**: Pupcicle, Chihuahua | **http_melOwO**: Ride-A-Pet Potion |
+| 04:20 | **Ami_Mixed**: Blue Whale, Royal Fairytale Egg, Angus Bull, Bubblegeist, Purrowl, Diamond Dragon | **Dodgemyhooks**: Pupcicle |
+| 04:20 | **killerman_xd1**: Dragonfly ×12 | **Depondip**: Ride-A-Pet Potion |
+| 04:20 | **itmeaaa2321**: Ride-A-Pet Potion ×2, Unicorn | **misakoyr**: Spring Bunny Nose |
+| 04:20 | **kaitlyn_trades**: Retired Egg | **Vidaris_marie21**: Chestnut Glyptodon |
+| 04:20 | **blake_shortie**: Tan Chow-Chow ×4, Binturong, Green Amazon | **Cdg91400**: Tan Chow-Chow (NR) |
+| 04:20 | **Flutterieshyy**: Kangaroo (MFR), Kangaroo (NFR), Cow | **JAHQUAYKAZII**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
