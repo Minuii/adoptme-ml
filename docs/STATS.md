@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 07:25 UTC by the scrape workflow._
+_Updated 2026-11-26 07:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 07:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 29,832 | 2026-11-26T07:15 |
-| elve | 16 | 6,124 | 2026-11-26T07:15 |
+| amvgg | 16 | 30,066 | 2026-11-26T07:30 |
+| elve | 16 | 6,164 | 2026-11-26T07:31 |
 
-## AMVGG completed trades: 66,802 total
+## AMVGG completed trades: 66,807 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 832 |
+| 2026-11-26 | 837 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,11 @@ _Updated 2026-11-26 07:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:30 | **Cat_123840**: Nessie (FR), Mini Pig (FR), Tasmanian Devil, Enchanted Broomstick, Borhyaena Gigantica (N), Rainbow Stroller | **mami_228k1**: Diamond Butterfly (FR) |
+| 07:30 | **love151444**: Ride-A-Pet Potion | **nellik_karomelik**: Muskrat (M), Bat (N), Ratatoskr (N), Ground Sloth (N) |
+| 07:30 | **bbbbbbbbbbbbbbiuu**: Cryptid (NFR), 2022 Birthday Party Hat, Sakura Spirit (NFR), Unicorn Horn, 2022 Birthday Party Horn, Diamond Amazon | **DarkGriffin9635**: Cabbit (MFR) |
+| 07:30 | **Anelchik_i**: Evil Unicorn (NFR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×6 | **KinaToons**: Dalmatian (NFR) |
+| 07:30 | **youngmi363**: Fly-A-Pet Potion, Cracked Egg | **gillyunicorngile**: Count Slothula (N) |
 | 07:25 | **koinxzy**: Husky (N), Husky, Goldhorn (NR) | **z4ni_X**: Dango Penguins (NR) |
 | 07:25 | **qjyqeig**: Parrot (MFR), Crow (FR), Elephant (FR) ×2 | **HEADKLPZ**: Crow (MFR) |
 | 07:25 | **Adore_Pandaz**: Muskrat (M), Jiggly Jerboa (M), Rubber Ducky (N) | **oblachko47**: Ride-A-Pet Potion |
@@ -49,11 +54,6 @@ _Updated 2026-11-26 07:25 UTC by the scrape workflow._
 | 07:25 | **chunkymunkava0**: Chocolate Chip Bat Dragon (FR), Sushi Penguin (NR) | **faikubjotch**: Goose (FR), Kangaroo (NFR) |
 | 07:25 | **Adore_Pandaz**: Jacobin Pigeon (M), Aye Aye (M) | **Antonipes**: Ride-A-Pet Potion |
 | 07:25 | **maya201013s**: Werewolf (R), Turtle (R), Lynx (MFR) | **Rarajajarara**: Dango Penguins (MFR) |
-| 07:20 | **ILove_OR3OS**: Gilded Snake | **shenshenzzz14**: Seabed Creeper |
-| 07:20 | **saturnestee**: Monkey King (MFR), Mini Pig (MFR), Cabbit | **unicornkawai12344**: Cryptid (MFR) |
-| 07:20 | **pro_girl242424**: Ride-A-Pet Potion | **Anngeel_L**: Happy Duckling, Count Slothula |
-| 07:20 | **COCUTE965**: Golden Griffin (R), Golden Unicorn, Golden Dragon, Metal Ox (R), Purrowl | **chhcciijjjkk**: Ride-A-Pet Potion |
-| 07:20 | **epicpulsechaos2024**: Dragonfly ×11 | **NaomiMikael1**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
