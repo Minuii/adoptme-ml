@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 09:25 UTC by the scrape workflow._
+_Updated 2026-11-26 09:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 09:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 31,563 | 2026-11-26T09:15 |
-| elve | 16 | 6,471 | 2026-11-26T09:15 |
+| amvgg | 16 | 31,773 | 2026-11-26T09:30 |
+| elve | 16 | 6,517 | 2026-11-26T09:31 |
 
-## AMVGG completed trades: 67,008 total
+## AMVGG completed trades: 67,032 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,038 |
+| 2026-11-26 | 1,062 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 09:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:15 | **Jenniiee_1000**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Skelicorn, Huntsman Robin, Ocelot (N) | **0MGSARAY**: Corn Doggo (NFR) |
-| 09:15 | **killerman_xd1**: Dragonfly ×12 | **Rawyoubro11**: Ride-A-Pet Potion |
-| 09:15 | **qO_Opli**: Fly-A-Pet Potion ×7 | **nzjtla**: Ride-A-Pet Potion ×13 |
-| 09:15 | **lhfshkg**: Ride-A-Pet Potion ×2 | **clalouetciedh**: Alicorn ×18 |
-| 09:15 | **fyffddt5**: Zodiac Minion Chick (NFR) | **regina_12z**: Ride-A-Pet Potion |
-| 09:15 | **Hirohitoh3**: Kangaroo (R) | **Lizard123997**: Ride-A-Pet Potion ×17 |
-| 09:15 | **bloomysweetea**: Dango Penguins (MFR), Dango Penguins (NR) | **bincujuli**: Strawberry Shortcake Bat Dragon (FR) |
-| 09:15 | **walking_creep1**: Pink Cat (FR) | **NotSweatyOnion**: Fly-A-Pet Potion ×4 |
-| 09:15 | **KinaToons**: Evil Unicorn (NFR), Fly-A-Pet Potion ×10, Ride-A-Pet Potion | **Jeheon07**: Owl (FR) |
-| 09:15 | **Pandalovedogss**: Happy Clam (NR), Jacobin Pigeon (M) | **rikiiuniverse**: Elephant (FR) |
-| 09:15 | **Ethernaces**: Stray Cat Dragon ×8 | **Rawyoubro11**: Ride-A-Pet Potion |
-| 09:11 | **Arthuradoptmetrading**: Cow (FR) | **dw4rkz**: Tortoiseshell Guinea Pig ×2 |
-| 09:11 | **ohinam**: Pet Handler Pro Certificate ×6, Ride-A-Pet Potion | **NguyenTheFox**: Lion (FR) |
-| 09:11 | **Fidelia2131415**: Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **avokado78o**: Puptune (MR) |
-| 09:11 | **mimimusasusu**: Munchkin Cat (R), Red Dutch Guinea Pig (R), Panda (NFR), Ring-Tailed Lemur, Pink Cat Ear Headphones, Show Pony (N) | **milltsk**: Turtle (FR) |
+| 09:30 | **robloxer_3614**: Pet Handler Pro Certificate, Hotdog Stand | **ilovelisa_milisa98**: Admin Vision Wings |
+| 09:30 | **Trxstxd_Nixi**: Goose (R), Fairy Bat Dragon (FR), Copycat ×2, Glacier Kitsune (R) | **kecoze**: Strawberry Shortcake Bat Dragon (FR) |
+| 09:30 | **notreal_angelazz**: Little Lamb (M) | **heart_xi1**: Crystal Egg ×16 |
+| 09:30 | **AdoptMeHere03**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **Emilia92948**: Sea Angel (R), Cocoadile (M), Jumping Spider (N), Bird of Paradise (R), Kirin (NR), Japanese Snow Fairy (N) ×2, Musk Ox (R), Skunk (R), Scarecrow Horse (R), Sprout Snail |
+| 09:30 | **NastyaCat_Play2**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 | **xoxsasha0**: Cow (FR) |
+| 09:30 | **Jadameigo**: Dango Penguins (MFR) | **cozymikoriaa**: Rainbow Maker |
+| 09:30 | **chhcciijjjkk**: Kangaroo (R) | **ocihomu**: Pink Cat (FR), Ride-A-Pet Potion ×8 |
+| 09:30 | **zow_98alt**: Aurora Fox | **lordityy**: Hero Gibbon |
+| 09:30 | **lhfshkg**: Fly-A-Pet Potion | **Marines_Natalia**: Pet Handler Pro Certificate |
+| 09:30 | **Slushyunicorn0**: Candicorn (MFR), Flaming Fox (MFR), Lamb (MFR), Amami Rabbit (MFR), 2022 Birthday Cupcake Shoes, Ride-A-Pet Potion | **sweetenmysoul**: Cryptid (NFR) |
+| 09:30 | **U_sulla**: Strawberry Tortle | **nzjtla**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×4 |
+| 09:30 | **Helennaka**: Mermicorn (FR) | **daanz2**: Harp Seal (MFR) |
+| 09:30 | **FTGFXH43**: Bobageist | **Pandalovedogss**: Retired Egg |
+| 09:30 | **namra2538**: Fairytale Egg ×18 | **Rawyoubro11**: Ride-A-Pet Potion |
+| 09:30 | **0MGSARAY**: Panda (NFR) ×2, Panda (NR), Panda (N) | **roniroblox102030**: Panda ×15, Dancing Dragon (R), Halloween White Ghost Dragon, Panda (R) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
