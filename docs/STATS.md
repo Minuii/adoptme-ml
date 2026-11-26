@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 09:41 UTC by the scrape workflow._
+_Updated 2026-11-26 09:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 09:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 31,773 | 2026-11-26T09:30 |
-| elve | 16 | 6,517 | 2026-11-26T09:31 |
+| amvgg | 16 | 31,990 | 2026-11-26T09:45 |
+| elve | 16 | 6,560 | 2026-11-26T09:46 |
 
-## AMVGG completed trades: 67,072 total
+## AMVGG completed trades: 67,082 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,102 |
+| 2026-11-26 | 1,112 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 09:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:45 | **yeahimcairo**: Puffin (MFR), Dalmatian (FR), Arctic Reindeer (FR), Cow (NFR) ×2, Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Mini Pig (FR) ×2, Mini Pig, Goose (FR), Cow (R), Peppermint Penguin (R), Cryptid (FR), Fly-A-Pet Potion | **realzeno079**: Parrot (MFR) |
+| 09:45 | **avokado78o**: Bolt (M), Orangutan (R), Mexican Wolf (R) | **catses232**: Ride-A-Pet Potion |
+| 09:45 | **sillynido**: Cow, Fly-A-Pet Potion, Ride-A-Pet Potion | **Bxckyx1**: Goose (FR) |
+| 09:45 | **AseesCr7GoesBoom**: Sheeeeep (MFR) | **Maybeimnotbig**: Evil Unicorn (FR) |
+| 09:45 | **auralxqr**: Ride-A-Pet Potion | **s_niaax**: Puffer Fish |
+| 09:45 | **Proivoe98**: Dalmatian (FR), Chocolate Chip Bat Dragon (MFR), Spring Bunny Hood | **True_Noob985768**: Shadow Dragon (FR) |
+| 09:45 | **cwupidbrae**: Chocolate Chip Bat Dragon (FR), Spring Bunny Hood | **TH_lox0**: Munchkin Cat (MFR) |
+| 09:45 | **Girldontplaywithme42**: Hippo (MFR), Matcha Cat (R) | **kkaatEEe2**: Villain Gibbon (MFR), Pancake Stack, Kelp Raider (M), Weevil (M) |
+| 09:45 | **SaRa654396**: Candyfloss Chick (FR), Fairy Bat Dragon, Hot Doggo (R), Mini Pig (R), Turtle (FR), Fly-A-Pet Potion ×2, Candicorn, Ride-A-Pet Potion | **hotjerbear**: Parrot (FR) |
+| 09:45 | **QueenFrostChill2005**: Golden Hamster (MFR), Cake Friend (MFR), King Bee (MFR), Blue Ringed Octopus (MFR), Ranger Beaver (MFR), St Bernard (MFR) | **lqcedluvinq**: Gaelic Fae (MFR), Snowball Pet (MFR), Catte (MFR), Ride-A-Pet Potion ×2 |
 | 09:41 | **AliceAvokadi**: Electric Hornet ×2, Cattuccino, Bobageist ×2, Crimson Cape ×3, Robot ×2, Mummy Spider ×2, Abyssinian Cat, Beaver, Clumpty ×2, Granny Wolf ×2 | **Rawyoubro11**: Ride-A-Pet Potion |
 | 09:41 | **Adore_Pandaz**: Caramelgeist (M), Fennec Fox (M) | **Applceider**: Ride-A-Pet Potion |
 | 09:41 | **clalouetciedh**: Alicorn ×12 | **Rawyoubro11**: Ride-A-Pet Potion |
 | 09:41 | **clalouetciedh**: Dragonfly ×16 | **qO_Opli**: Ride-A-Pet Potion |
 | 09:41 | **Ethernaces**: Stray Cat Dragon ×16 | **poma5660**: Pet Handler Pro Certificate |
-| 09:41 | **awhbubblessss**: Ghostly Cat (M) | **xdlennonYT123**: Tree Decorating Animated Sticker, Mochi Meow Tumble Animated Sticker, Frostbite Bear and Cub Animated Sticker |
-| 09:41 | **dimetacrine**: Strawberry Penguin (NFR), Ride-A-Pet Potion ×2, Count Slothula, Pupcake, Unfortunate Eyelashes | **P1nkteeth**: Irish Water Spaniel (NFR) |
-| 09:41 | **ezzzzyy3**: Gemstone Egg | **Hellobyeheyhihello**: Retired Egg ×18 |
-| 09:41 | **AlastorDanger**: Christmas Pudding House | **typol1235y6**: Ride-A-Pet Potion |
-| 09:41 | **Babielily1**: Rain Cloud Hat, Fly-A-Pet Potion, Ride-A-Pet Potion | **zncxxq**: 2022 Birthday Cupcake Shoes |
-| 09:41 | **ZF_adoptme123**: Snow Monkey (MFR), Sheeeeep, Sugar Glider (FR) | **Lingling111206**: Candyfloss Chick (NFR) |
-| 09:41 | **Aurodestrunza**: Peppermint Penguin (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **memorialbells**: 2022 Birthday Party Hat, Unicorn Horn |
-| 09:41 | **soondooboo2020**: Cow (FR), Goose, Alpaca (R) | **cemeteryG4tessz**: Cryptid (FR) |
-| 09:41 | **Inganta07**: Fly-A-Pet Potion | **AimWhaitOmg2**: Cerberus (R) |
-| 09:41 | **St4r1890241**: Burger Bear, Admin Abuse Egg ×2 | **shenshenzzz14**: Christmas Future Egg |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
