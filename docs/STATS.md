@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 23:25 UTC by the scrape workflow._
+_Updated 2026-11-26 23:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 23:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 45,069 | 2026-11-26T23:15 |
-| elve | 16 | 9,515 | 2026-11-26T23:15 |
+| amvgg | 16 | 45,294 | 2026-11-26T23:30 |
+| elve | 16 | 9,567 | 2026-11-26T23:31 |
 
-## AMVGG completed trades: 69,895 total
+## AMVGG completed trades: 69,898 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,925 |
+| 2026-11-26 | 3,928 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,9 @@ _Updated 2026-11-26 23:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 23:30 | **hanb3ki**: Bat Dragon (NFR), Unicorn (NFR), Fly-A-Pet Potion | **taekkaun**: Bat Dragon (FR) ×2, Frost Dragon (FR) |
+| 23:30 | **hojujuonabeat**: Canadian Goose (MR) | **lupoouu2**: Ride-A-Pet Potion ×7 |
+| 23:30 | **Amo_blood**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3 | **meowieboogie**: Pig (FR) |
 | 23:25 | **athena_cheka**: Balloon Unicorn (FR), Burger Boots, Butter Knife | **Ogingagh1011**: Border Collie (MFR) |
 | 23:25 | **aspenuko**: Cabbit (F), Feesh (MR), Ninja Monkey (FR) | **SanAndres404**: Tuxedo Cat (MFR), Shiver Wolf (M), Skunk (MR) |
 | 23:25 | **SanAndres404**: Fly-A-Pet Potion ×3, Lion Cub | **Smookgans**: Alley Cat (NFR) |
@@ -51,9 +54,6 @@ _Updated 2026-11-26 23:25 UTC by the scrape workflow._
 | 23:25 | **yusufcanadac7**: Dango Penguins (NR), Dango Penguins (FR), Snow Monkey | **Papitascongaseosa_xD**: Rain Cloud Hat |
 | 23:25 | **Gaonasun123**: Cat (MFR), Ride-A-Pet Potion | **Creepy_D0II**: Shadow Dragon Ducky (NFR) |
 | 23:25 | **Timur_djan15**: Guardian Lion (F), Blue Whale (NR) | **ameyyass**: Ride-A-Pet Potion ×2 |
-| 23:25 | **shodidodi**: Cattuccino ×4, Basic Egg ×4 | **The_JuJubee13**: Cattuccino (N) |
-| 23:25 | **adoptmefan9928**: Ice Golem, Candy Hare (R), Halloween White Ghost Dragon (FR), Ice Cream Hermit Crab, Brown Bear, Gecko ×2 | **L0veChocolatel0ve**: Cake Friend (MFR) |
-| 23:25 | **XxSorvetyxX**: Christmas Pudding House | **Leahxilol**: Kitty Biscuit |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
