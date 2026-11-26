@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 06:55 UTC by the scrape workflow._
+_Updated 2026-11-26 07:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 06:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 29,360 | 2026-11-26T06:45 |
-| elve | 16 | 6,032 | 2026-11-26T06:46 |
+| amvgg | 16 | 29,590 | 2026-11-26T07:00 |
+| elve | 16 | 6,092 | 2026-11-26T07:01 |
 
-## AMVGG completed trades: 66,764 total
+## AMVGG completed trades: 66,767 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 794 |
+| 2026-11-26 | 797 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,9 @@ _Updated 2026-11-26 06:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:00 | **djwestie**: Hopbop (FR) | **nly4sh**: Border Collie (NR) |
+| 07:00 | **Zak_0250**: Unicorn (NR), Pupcake (N), Ride-A-Pet Potion ×3 | **Eurysnvge207785**: Pupcake (MFR) |
+| 07:00 | **Xxcoralia_omgxX**: Tortoiseshell Guinea Pig (MFR), Chef Hat, 2022 Birthday 5 Badge, Blue Cat Ear Headphones | **Amulia837**: Goose (MFR) |
 | 06:55 | **alolalolaloa**: Mermicorn (NFR), Fly-A-Pet Potion | **user9461037**: Fairy Bat Dragon (NFR) |
 | 06:55 | **Natalize8D**: Cabbit (FR), Goat (R) | **elpopas6**: Cow (FR), Ride-A-Pet Potion |
 | 06:55 | **bearmaster1101**: Shadow Dragon (FR) | **IconsChew**: Owl (FR) ×2, Evil Unicorn (FR) |
@@ -51,9 +54,6 @@ _Updated 2026-11-26 06:55 UTC by the scrape workflow._
 | 06:55 | **mxh_ii2347**: Ring-Tailed Lemur (R) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
 | 06:55 | **mxh_ii2347**: Jumpscare (M), Boohoo (M) | **UnicornKitycorns**: Fly-A-Pet Potion |
 | 06:55 | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion, Arctic Hare, Ratatoskr | **christintitin**: Chocolate Dutch Guinea Pig |
-| 06:55 | **mlpenjoyerminilop**: Halloween White Ghost Dragon (FR) | **Sussy_Gril10823**: Copycat |
-| 06:51 | **lunicorncookies**: Retired Egg ×12 | **brokoly112**: Electric Hornet ×2 |
-| 06:51 | **epicpulsechaos2024**: Alicorn ×18 | **Tuuu_Madreee2**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
