@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 06:25 UTC by the scrape workflow._
+_Updated 2026-11-26 06:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 06:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 28,901 | 2026-11-26T06:15 |
-| elve | 16 | 5,945 | 2026-11-26T06:15 |
+| amvgg | 16 | 29,124 | 2026-11-26T06:30 |
+| elve | 16 | 5,990 | 2026-11-26T06:31 |
 
-## AMVGG completed trades: 66,697 total
+## AMVGG completed trades: 66,703 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 727 |
+| 2026-11-26 | 733 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,12 @@ _Updated 2026-11-26 06:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:30 | **Solecitalamasbonita**: Penguin (R), Stray Cat Dragon, Three Blind Mice, Ancient Dragon, Admin Abuse Egg ×4 | **Dorky_xxx**: Ride-A-Pet Potion |
+| 06:30 | **Chcd_baby**: Majestic Pony (NR) | **dardaruni**: Toaster Hat |
+| 06:30 | **cher_namagandaa**: Pain au Chat ×3, Hydra (R), Little Lamb | **haileyrxo**: Fly-A-Pet Potion |
+| 06:30 | **Sugarfly502**: Clover Cow (MFR), Punk Pony (MR), Mini Schnauzer (M), Millionaire Mansion | **AaronsAltAcc223**: Chocolate Dutch Guinea Pig (MFR) |
+| 06:30 | **ZzGhoul_RileyzZ**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 06:30 | **roblox_user_2880951367**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
 | 06:25 | **pwrecioushweart**: Balloon Unicorn (MFR), Munchkin Cat (MFR), Tuxedo Cat (MFR), Brown Springer Spaniel (MFR), Grim Dragon (NFR), Pink Cat Ear Headphones ×2, Pink Heart Glasses, Glider ×2, Ghost (MFR), Birthday Butterfly 2024 (MFR), Clover Cow (NFR) ×4, Choco Penguin (NR) ×2 | **kdkejwjsjd**: Bat Dragon (NFR) |
 | 06:25 | **C4K3YK1TTEN**: Siamese Cat (MFR), Banana Hat, Santa's Bow, Strawberry Shortcake Bow, Unicorn ×2, Mochi Meow (N), Dark Choccybunny (N), Golden Unicorn, Gingerbread Reindeer (N), Cuddly Candle (R) | **TommySHIDAT**: Goat (MFR), Moon Rabbit (M), Amami Rabbit (M) |
 | 06:25 | **donnotinteract**: Ride-A-Pet Potion ×2 | **JenYAsha2akk12**: Pet Handler Pro Certificate |
@@ -48,12 +54,6 @@ _Updated 2026-11-26 06:25 UTC by the scrape workflow._
 | 06:25 | **mxzerii**: Ride-A-Pet Potion | **lhx00526**: Crystal Egg ×18 |
 | 06:25 | **Elfik1k**: Crocodile (R), Skelicorn (M), Fly-A-Pet Potion, Silverback Gorilla | **Krvsvha**: S'mores Raccoon (MFR) |
 | 06:25 | **Themr_harlen0220**: Ride-A-Pet Potion ×15, Hopbop (M) | **chhcciijjjkk**: Kangaroo (R) |
-| 06:25 | **Koshka_unicore**: Ride-A-Pet Potion | **Qwertyni07**: Boohoo (N), Jacobin Pigeon (N), Bolt (N), Shoebill (N), Ice Moth Dragon, Bubblegeist |
-| 06:25 | **3486_alt**: Fly-A-Pet Potion | **xom6ie**: River Otter (M) |
-| 06:25 | **robloxer_3614**: Fly-A-Pet Potion | **Qwertyni07**: Unicorn (R), Maine Coon, Emberlight, Old King Coal |
-| 06:25 | **20O2_s**: Rainbow Stroller, Ride-A-Pet Potion | **JorgeEduardo_123**: Skeleton Winged Glider, Hoverboard |
-| 06:25 | **Flutterieshyy**: Peppermint Penguin (R), Peppermint Penguin, Cabbit (FR), Sugar Glider (R), Siamese Cat (R) | **XV7K3ZVX**: African Wild Dog (FR) |
-| 06:25 | **kozyavka_hahatrade**: Owl (FR), Candicorn (FR) | **Catzini_1**: Cow (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
