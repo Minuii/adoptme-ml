@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 14:25 UTC by the scrape workflow._
+_Updated 2026-11-26 14:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 14:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 36,040 | 2026-11-26T14:15 |
-| elve | 16 | 7,448 | 2026-11-26T14:16 |
+| amvgg | 16 | 36,287 | 2026-11-26T14:30 |
+| elve | 16 | 7,495 | 2026-11-26T14:31 |
 
-## AMVGG completed trades: 67,824 total
+## AMVGG completed trades: 67,825 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,854 |
+| 2026-11-26 | 1,855 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,7 @@ _Updated 2026-11-26 14:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 14:30 | **epicpulsechaos2024**: Ancient Dragon ×10 | **Depondip**: Ride-A-Pet Potion |
 | 14:25 | **004FAscend004**: Shark (MFR), Binturong (MR) | **AutumnVibes57**: Ice Wolf (MFR) |
 | 14:25 | **Adrinea_xo**: Giant Panda (FR), Pig | **foguinho_20091**: Crow (FR) |
 | 14:25 | **2Freya222**: Fallow Deer (MFR), Rose Quartz Glow Mega Neon Paint, Candy Flare Mega Neon Paint, Amethyst Skies Mega Neon Paint, Half Egg Stroller | **2REALFORYOUU1**: Haetyphoon (MFR) |
@@ -53,7 +54,6 @@ _Updated 2026-11-26 14:25 UTC by the scrape workflow._
 | 14:25 | **tuw1s**: Choo Choo Train, Classic Trade Stand, Lemonade Stand | **qzeifnx_1**: Ride-A-Pet Potion |
 | 14:25 | **siria20144**: Dalmatian | **blankblank_gone**: Turtle (FR), Ghost Dog (M), Happy Duckling (M), Snow Owl (MFR), Munchkin Cat ×2, Ice Cream Cone Hat, Many Mackerel, Dango Penguins, Fly-A-Pet Potion ×2, Red Dutch Guinea Pig |
 | 14:25 | **Oneran0**: Matcha Cat (R), Field Mouse, Ghost Dog | **qq0xxx6**: Crocodile (R) |
-| 14:25 | **Miss_Lea969**: Cattuccino ×3, Ghost Wolf (N) | **thatsadfreak**: Retired Egg ×18 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
