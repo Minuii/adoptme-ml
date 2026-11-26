@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 08:31 UTC by the scrape workflow._
+_Updated 2026-11-26 08:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 08:31 UTC by the scrape workflow._
 | amvgg | 16 | 30,929 | 2026-11-26T08:30 |
 | elve | 16 | 6,359 | 2026-11-26T08:31 |
 
-## AMVGG completed trades: 66,918 total
+## AMVGG completed trades: 66,943 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 948 |
+| 2026-11-26 | 973 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:25 | **Huge_Soda**: Tuxedo Cat (MFR), Ancient Dragon (MFR), Leopard Shark (N) | **adoptmegolden93**: Cabbit |
-| 08:25 | **deadpo0l293**: Fly-A-Pet Potion | **nzjtla**: Ride-A-Pet Potion, Crystal Egg ×15 |
-| 08:25 | **Shailyn09**: Ride-A-Pet Potion | **nzjtla**: Crystal Egg ×17 |
-| 08:25 | **melodyardy**: Ride-A-Pet Potion ×2 | **EVGPOP90**: Fly-A-Pet Potion |
-| 08:25 | **Lola_Wayne0**: Thunderfisher (M) ×2 | **FRIK_RR**: Ride-A-Pet Potion ×2 |
-| 08:25 | **ccdbgt1**: Fly-A-Pet Potion ×2 | **EGOATHENOOB**: Polar Bear |
-| 08:25 | **Adore_Pandaz**: Australian Kelpie (N), Emu (N) | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 08:25 | **Urfavorite1225**: Pain au Chat, Snowy Mammoth, Blue Jay, Angus Calf, Tan Chow-Chow, Komodo Dragon, DJ Snooze, Shetland Pony Dark Brown | **Panci_Terbang33**: Ride-A-Pet Potion |
-| 08:25 | **mxh_ii2347**: Stitches (M), Jacobin Pigeon (M), Shoebill (M) | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 08:25 | **snqwqrw**: Chocolate Dutch Guinea Pig, Pupcicle, Angus Calf (N) | **itzz_Keys**: Fly-A-Pet Potion |
-| 08:25 | **SoImSoda**: Frostbite Bear (MFR), Werewolf (NFR), Crocodile (NR), Papa Moose (N) | **cvrsedlovve**: Parrot (NFR) |
-| 08:25 | **TheyLov3Kristy**: Aurora Fox, Count Slothula (N) | **Popa67742**: Haetyphoon |
-| 08:25 | **Panci_Terbang33**: Strawberry Penguin | **Krashiha_Karolina26**: Horse (NR), Ride-A-Pet Potion ×4 |
-| 08:25 | **Ali_12xx1**: Chocolate Dutch Guinea Pig, Pain au Chat, Armadillo (R), Diamond Griffin | **FRIK_RR**: Ride-A-Pet Potion ×2 |
-| 08:25 | **zianagirls**: Ride-A-Pet Potion ×4 | **Smookgans**: Copycat |
+| 08:41 | **atomicbubu**: Hedgehog (FR), Cabbit (FR), Fly-A-Pet Potion | **Jadameigo**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 08:41 | **Shinroa6**: Stray Cat Dragon (M) | **Marines_Natalia**: Fly-A-Pet Potion |
+| 08:41 | **Zak_0250**: Sushi Penguin (N), Unicorn (MFR), Pupcake (MFR), Pain au Chat (N), Cattuccino (MR), Beluga Whale (M), Trapdoor Snail, Slug (R) | **iIovearabella**: 2022 Birthday Party Hat |
+| 08:41 | **bubuBUbu0897**: Unicorn | **poly0950**: Crystal Egg ×15 |
+| 08:41 | **XMARSS557**: Ride-A-Pet Potion | **poly0950**: Crystal Egg ×17 |
+| 08:41 | **deadpo0l293**: Cabbit (FR), Spring Bunny Hood, Ride-A-Pet Potion | **iaMatthieu1**: Goose (FR) |
+| 08:41 | **bubuBUbu0897**: Pretty Pony | **poly0950**: Crystal Egg ×12 |
+| 08:41 | **Shots_oj**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **0nlqm3**: Ring-Tailed Lemur (FR) |
+| 08:41 | **Fayba42123**: Frostbite Bear ×2 | **WhiteBoy19**: Turtle (FR), Bandicoot (MR), Tarantula (M), Gecko Ducky (M), Flower Power Duckling, Cotton Candy Hat, 2025 Birthday Butterfly (M), Christmas Spirit (NR), Humbug (MF) |
+| 08:41 | **meeeeowey2**: Goat (R), Lion (R), Sushi Penguin | **Roble_2023**: Siamese Cat (R) |
+| 08:41 | **beaaarr2**: Cabbit (R) | **Dona1234535**: Alpaca (R) |
+| 08:41 | **bubuBUbu0897**: Water Rabbit | **TheEerthh**: Crystal Egg ×11 |
+| 08:41 | **bubuBUbu0897**: Great Pyrenees | **TheEerthh**: Crystal Egg ×11 |
+| 08:36 | **UnicornKitycorns**: Fly-A-Pet Potion, Golden Griffin | **shenshenzzz14**: Black Moon Bear (M), Chihuahua |
+| 08:36 | **DefinitelyNotCha6**: Monkey ×4, Merhorse, Halloween White Mummy Cat, Ghost Wolf, Emu ×3, Australian Kelpie ×2, Toucan ×3, Sloth, Shiba Inu ×2 | **RosuMeIi**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
