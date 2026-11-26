@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 22:25 UTC by the scrape workflow._
+_Updated 2026-11-26 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 44,104 | 2026-11-26T22:15 |
-| elve | 16 | 9,327 | 2026-11-26T22:15 |
+| amvgg | 16 | 44,355 | 2026-11-26T22:30 |
+| elve | 16 | 9,363 | 2026-11-26T22:31 |
 
-## AMVGG completed trades: 69,732 total
+## AMVGG completed trades: 69,742 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,762 |
+| 2026-11-26 | 3,772 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:30 | **C0xrbin**: Strawberry Shortcake Bat Dragon (FR) | **SkaterPlayzQueen2016**: Cheetah (NR), Christmas Pudding Pup, Capybara (NR), Shrew, Capybara (N), Moon Rabbit (N), Ice Golem (FR), Dango Penguins ×2, Super Saru (MFR), Pancake Stack, Spring Bunny Nose ×2, Chocolate Dutch Guinea Pig, Ride-A-Pet Potion ×2, Quokka (N) |
+| 22:30 | **reserbadong2**: Turtle (R) | **exorily**: Sushi Penguin (MFR) |
+| 22:30 | **cooldamjan5555**: Strawberry Shortcake Bat Dragon (R), Turtle (FR), Alpaca, Kangaroo (R), Brown Bear (NFR), Snow Owl (MFR), Wood Pigeon (N), Majestic Pony (N), Ranger Beaver (M), Griffin (MFR), Diamond Dragon (MFR), Flash Weasel (R), Pain au Chat (N), Jekyll Hydra Animated Sticker, Mermicorn Animated Sticker, Shadow Dragon Animated Sticker ×2 | **SkaterPlayzQueen2016**: Owl (FR) |
+| 22:30 | **3L1EE**: Crystal Egg ×15 | **Sanki_xx**: Ride-A-Pet Potion |
+| 22:30 | **Papitascongaseosa_xD**: Duck Floatie | **xXsleepydaisyX**: Ride-A-Pet Potion |
+| 22:30 | **loiol1004**: Merhorse (MR) | **mk1ia**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 22:30 | **zeejnaa**: Ram (MFR) | **Masonplays497**: Harp Seal (MFR) |
+| 22:30 | **elys1anaa**: Candicorn (FR), Frostbite Bear (FR) | **kammalammal**: Cow (FR) |
+| 22:30 | **Anoyyed_95**: Space Whale (NFR), Cow Calf (M), Panda (R), Ride-A-Pet Potion, Choco Penguin (M), Cerberus (R) | **Toriambercat1**: Siamese Cat |
+| 22:30 | **bodnarec**: Cow (NFR), Cow (FR) | **M4RC0S_R0SSI2**: Evil Unicorn (FR), Fly-A-Pet Potion |
 | 22:25 | **iivadx**: Cryptid (FR), Cow (FR), Goose (FR), Golden Lettuce | **Yashizure**: Parrot (FR) |
 | 22:25 | **Soymanuandicrakbanm**: Frost Unicorn (FR) ×12 | **amvggtradingalt9**: Frost Unicorn (MFR) |
 | 22:25 | **kaylascvm**: Owlbear (NFR), Ride-A-Pet Potion ×13 | **OG_Kylen44840**: Peppermint Penguin (FR) |
 | 22:25 | **kaylascvm**: Owlbear (NFR), Ride-A-Pet Potion ×13 | **OG_Kylen44840**: Peppermint Penguin (FR) |
 | 22:25 | **RobloxDevolober**: Crystal Egg ×15 | **BINKY5085**: Ride-A-Pet Potion |
-| 22:25 | **gzagatto**: Arctic Reindeer (FR) | **AdorableStarGirl64**: Turtle (R), Kangaroo (FR) ×2, Dragonfruit Fox (NR), Fly-A-Pet Potion, Pet Handler Pro Certificate |
-| 22:25 | **AyiGamerUwu**: Skunk, Maine Coon, Stray Cat Dragon, Dolphin, Dirty Ducky, Rubber Ducky, Amber Butterfly, Bolt, Clubtail Dragonfly, Orca ×3, Starfish ×2, Corgi, Swordfish ×2, Pinkypillar (N) | **Dangermousefan0**: Ride-A-Pet Potion |
-| 22:25 | **Callebbuchila**: Blazing Lion (R) | **sleepy_s0ren**: Hedgehog (FR) |
-| 22:25 | **Callo_wastak3n**: Cow (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **Suki_boys0**: Jester Dragon (MFR) |
-| 22:25 | **holasoyrafahaha**: Shadow Dragon (FR), Ice Wolf | **Noa_N15**: Giant Panda (NFR) |
-| 22:25 | **tayspups**: Aurora Fox (MFR), Groundhog (MFR), Cheetah (MFR), Count Slothula (M) | **KnifeonKeys**: Bush Elephant (MFR) |
-| 22:25 | **soul1nquestion**: Panda (MFR), Water Rabbit (MFR), Water Rabbit (MR), Christmas Pudding Pup (NFR), Ride-A-Pet Potion | **Yiiinn3**: Cow (FR), Siamese Cat (FR) ×2 |
-| 22:25 | **arronmamark**: Matcha Cat (MFR), Goat (MFR), Sheeeeep (MFR) ×2, Flamingo (MFR), Fallow Deer (MFR), Capybara (MFR), Red Squirrel (MFR) | **edithsbazinga**: Tortoiseshell Guinea Pig (MFR), Bush Elephant (MFR), Candyfloss Chick (MFR), Moose Calf (MFR) |
-| 22:25 | **sombwinhas**: Border Collie (MFR) | **splagoogle**: Parrot (FR) |
-| 22:25 | **ChiRey90**: Parrot (NFR), Strawberry Penguin (NFR), Sushi Penguin (MFR), Munchkin Cat (NFR), Axolotl (MFR), Ballet Swan (NR), Rain Cloud Hat, Spring Bunny Nose, Spring Bunny Feet, Pink Cat Ear Headphones, Thinking Hat | **dfsfsiofjisjigjierji**: Chocolate Chip Bat Dragon (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
