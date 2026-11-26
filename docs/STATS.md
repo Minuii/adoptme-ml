@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 23:46 UTC by the scrape workflow._
+_Updated 2026-11-26 23:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 23:46 UTC by the scrape workflow._
 | amvgg | 16 | 45,517 | 2026-11-26T23:45 |
 | elve | 16 | 9,620 | 2026-11-26T23:46 |
 
-## AMVGG completed trades: 69,929 total
+## AMVGG completed trades: 69,960 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,959 |
+| 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 23:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:45 | **marblezlost**: Giraffe (FR) ×2, Rain Cloud Hat, Unicorn Horn, Albino Monkey (R), Fly-A-Pet Potion ×7, Moose Calf (FR) | **farmer_post1**: Bat Dragon (FR) |
-| 23:45 | **oxoglockz**: Alley Cat (NR) | **azha2921**: Unicorn ×10 |
-| 23:45 | **Monkeys_fly777**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **yuujchaan**: Dalmatian (FR) |
-| 23:45 | **Moch1xv**: Flash Weasel | **1willow2smoky**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Pet Handler Pro Certificate |
-| 23:45 | **pumkinpuppy96**: Harp Seal | **Khloegofotth15**: Ride-A-Pet Potion ×2 |
-| 23:45 | **killerman_xd1**: Dragonfly ×18 | **FreyaX0xo7**: Fly-A-Pet Potion |
-| 23:45 | **yeetimaheadout7**: Strawberry Shortcake Bat Dragon (R) | **muzzledbunnybites**: Goose (R) ×2, Flaming Fox |
-| 23:45 | **ff_lysmqww**: Quokka (NR) | **siincerelyarii**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 23:45 | **Joelzoz**: Cryptid (R), Dalmatian, Fly-A-Pet Potion | **xy0urzx**: Parrot (FR), Turtle (FR) |
-| 23:45 | **X0LuvyouX0**: Arctic Reindeer (MFR), Dalmatian (NFR), Shark Puppy (MFR), Christmas Pudding Pup (MFR), Cloud Car, 2022 Birthday Cake, Unicorn Horn, Chihuahua (M) | **plasfreerb**: Cryptid (MFR) |
-| 23:45 | **carolzinhac2009**: Shrew (FR) | **elys1anaa**: Ride-A-Pet Potion ×5 |
-| 23:45 | **F2PETSIMPLAYER**: Ride-A-Pet Potion, Hummingbird, Retired Egg ×2 | **qsickr**: Dragon (NFR) |
-| 23:45 | **Mallow_07737**: Ghostly Cat (MFR) | **Mochi_isthebestdogo**: Ice Cream Cone Hat |
-| 23:40 | **TreasureChest033**: Bat Dragon (FR), Cabbit (FR), Emperor Gorilla (R) | **bittenbyval**: Cryptid (MFR) |
-| 23:40 | **elproXD_7v7**: Pain au Chat ×15 | **celee_vent4s**: Ride-A-Pet Potion ×5 |
+| 23:55 | **RobloxDevolober**: Crystal Egg ×15 | **Loveflowers871**: Ride-A-Pet Potion |
+| 23:55 | **Wayda_Jaida**: Binturong (MR) | **Paipapaprapaa**: Orange Butterfly (MFR) |
+| 23:51 | **lucianaUvU01**: Blue Butterfly, Caramelgeist, Ms. Muffet ×2, Pinkypillar, Tegu | **Pandalovedogss**: Ant ×13 |
+| 23:51 | **hhhauntedddd**: Alpaca (NR) | **donnotinteract**: Siamese Cat (NFR), Alpaca, Sheeeeep (N), Spring Bunny Feet |
+| 23:51 | **killerman_xd1**: Dragonfly ×18 | **oxoglockz**: Ride-A-Pet Potion ×2 |
+| 23:51 | **iivadx**: Pet Handler Pro Certificate, Vol. 2 Pets Plus Sticker Pack, Unicorn (NFR), Koala (R), Unicorn | **carolzinhac2009**: Arctic Fox (FR) |
+| 23:51 | **silvervuw**: Mummy Spider (M), Dingo (NR), Pet Handler Pro Certificate | **mk1ia**: Red Dutch Guinea Pig |
+| 23:51 | **deandrapisang**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×7 | **Wayda_Jaida**: Amami Rabbit (M) |
+| 23:51 | **Justo_cuentasecu**: Frost Dragon (NFR) | **joshuasalgado6**: Cabbit (MFR), Goose (NFR), Siamese Cat (NFR), Unicorn (NR) |
+| 23:51 | **Itzz_Leonie453**: Ride-A-Pet Potion ×9 | **AliceTheToxic**: Jellyfish (R) |
+| 23:51 | **isabella68078**: Albino Monkey (MFR), Tuxedo Cat (MFR), Kangaroo (MFR) | **reserbadong2**: Frost Dragon (FR) |
+| 23:51 | **ruinedbleeded**: African Wild Dog (NFR), Unicorn Horn, Ride-A-Pet Potion | **xj_045x**: Balloon Unicorn (NFR) |
+| 23:51 | **xj_045x**: Crow (FR), Fallow Deer (MFR), Siamese Cat (MFR), Unicorn Horn ×2, Tiny Wings, Brown Bear, Groundhog | **HappyBrenda44**: Peppermint Penguin (MFR) |
+| 23:51 | **elproXD_7v7**: Chihuahua ×3 | **TrueValll**: Ride-A-Pet Potion |
+| 23:51 | **0pocalips**: Skelicorn, Milk Choccybunny (N), Trapdoor Snail, Red Panda, 2026 Birthday Butterfly, Pink Dog | **Isabellathe1123**: Bunny Swirl |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
