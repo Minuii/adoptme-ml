@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 15:01 UTC by the scrape workflow._
+_Updated 2026-11-26 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 15:01 UTC by the scrape workflow._
 | amvgg | 16 | 36,754 | 2026-11-26T15:00 |
 | elve | 16 | 7,626 | 2026-11-26T15:01 |
 
-## AMVGG completed trades: 67,944 total
+## AMVGG completed trades: 67,974 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,974 |
+| 2026-11-26 | 2,004 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:55 | **jjanaaae**: Chocolate Chip Bat Dragon (FR) | **Jillian_Clarice**: Alpaca, Fairy Bat Dragon (FR), Pupcake (MR), Quokka (NR), Pupcake (N), Harp Seal |
-| 14:55 | **jilljaz**: Halloween Evil Dachshund (MFR), Pancake Stack | **boyuancool123**: Burger Bear (M) |
-| 14:55 | **clavio000**: Strawberry Shortcake Bat Dragon (NFR), Pet Handler Pro Certificate | **melody13579xd**: Balloon Unicorn (FR) |
-| 14:55 | **Wherears**: Sushi Penguin (MR) | **NOBIIIEEE11**: Copycat (NR), Pink Cat Ear Headphones, Cotton Candy Hat |
-| 14:55 | **elifanaekinci**: Unicorn, Retired Egg ×2 | **meowgirlava**: Ride-A-Pet Potion |
-| 14:55 | **beth_tam10ALT**: Pink Cat Ear Headphones ×2, Cattuccino (N) ×2, Eaten Donut | **Ana_princess2013**: Unicorn Backpack |
-| 14:55 | **Sweetie_Ofc2**: Dragonfly ×4 | **linda8877150**: Lunar Gold Tiger |
-| 14:55 | **iloveiceecreamm**: Cow (FR), Candicorn (NFR), Queen Bee (MFR), Mermicorn (R), Diamond Amazon (FR), Groundhog (R), Dango Penguins | **Fanzy_GurlXx**: Crow (FR) |
-| 14:55 | **clalouetciedh**: Alicorn ×12 | **so_funnylike**: Ride-A-Pet Potion |
-| 14:55 | **luvleymine**: Giraffe (FR), Strawberry Shortcake Bat Dragon (FR), Candicorn | **lxceddream**: Chocolate Chip Bat Dragon (MFR) |
-| 14:55 | **Rubylllllllb**: Goose (FR), 2022 Birthday Party Hat, 2022 Birthday Cake, 2022 Birthday Party Horn, Cattuccino (M) | **Svdanurrr**: Cryptid (FR) |
-| 14:55 | **wanda_vision680**: Kangaroo (FR), Midnight Dragon (FR), Grave Owl (M), Tiny Wings | **chaxvznn**: Tombstone Ghostify |
-| 14:55 | **smoothlike_butter234**: Pain au Chat (N) ×2 | **ll_llllpn**: Unicorn (N) |
-| 14:55 | **Vova123cool52**: Toaster Hat ×2, Ice Cream Cone Hat, Pancake Stack, Fly-A-Pet Potion ×2 | **clixtoria**: Goose (R) |
-| 14:55 | **ALTAMERANO10**: Polar Bear (MFR), Latte Kitsune (MFR) | **olddeathcore**: Evil Unicorn (FR) |
+| 15:11 | **iiiiSunnyvibesiiii**: Fairy Bat Dragon (N), Cow (FR), King Bee (MFR), Arctic Fox (R), Frost Fury (FR) | **rkdwlgh0104**: African Wild Dog (FR) |
+| 15:11 | **KsuKrizB6**: Dalmatian (FR), Vanilla Penguin (NR), Propeller Hat, Rain Boots, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×7, Kitty Biscuit | **akeks_74**: Hedgehog (FR) |
+| 15:11 | **k0sjh1**: Unicorn (MFR) | **Z1NCHES**: Frost Fury (NFR) |
+| 15:06 | **Wgirl_IG**: Shark (N) | **meowgirlava**: Unicorn (NFR) |
+| 15:06 | **sakotfzg**: Fly-A-Pet Potion ×5 | **Evelyy_na**: Pig (FR) |
+| 15:06 | **Rosycupcake29**: Cryptid (NFR) | **swirlycupcake29**: Owl (NFR) |
+| 15:06 | **Rosycupcake29**: Cryptid (NFR) | **swirlycupcake29**: Balloon Unicorn (NFR) |
+| 15:06 | **yesdontbanmeplease**: Halo | **ddolls1nss**: Magic Girl Wings, 2022 Birthday Party Horn, Ride-A-Pet Potion |
+| 15:06 | **123luna958**: Turtle (R), Munchkin Cat, Fly-A-Pet Potion | **Pspspskskssk**: Cow (FR) |
+| 15:06 | **ELKOS2345**: Border Collie | **SeekieWeakie**: Winged Tiger, Strawberry Hat, Cute-A-Cabra (N) |
+| 15:06 | **Tradingman120924**: Cow (FR) ×2, Turtle (FR) | **Puresksxz**: Dalmatian (FR) |
+| 15:06 | **Adorbsxste1la**: Peppermint Penguin (R) ×2, Tuxedo Cat ×4, Ride-A-Pet Potion | **Soso4ka004**: Chocolate Chip Bat Dragon (FR) |
+| 15:06 | **Sonya73p**: Fly-A-Pet Potion, Ride-A-Pet Potion ×7 | **dawg1723**: Tiny Wings |
+| 15:06 | **0_0ship21**: Crocodile (FR) | **naryumyum**: Frost Fury (NFR) |
+| 15:06 | **deandrapisang**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **BMWSHKA666**: Spring Bunny Hood |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
