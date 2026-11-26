@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 23:15 UTC by the scrape workflow._
+_Updated 2026-11-26 23:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 23:15 UTC by the scrape workflow._
 | amvgg | 16 | 45,069 | 2026-11-26T23:15 |
 | elve | 16 | 9,515 | 2026-11-26T23:15 |
 
-## AMVGG completed trades: 69,861 total
+## AMVGG completed trades: 69,895 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,891 |
+| 2026-11-26 | 3,925 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 23:15 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:15 | **LAROBIKYT**: Chocolate Dutch Guinea Pig (MFR), S'mores Raccoon (MFR), Turtle (FR), Glormy Leo (NFR) ×2, Glormy Hound (NFR), Glormy Hound (N), Werewolf, Ring-Tailed Lemur (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **sleepy_s0ren**: Strawberry Shortcake Bat Dragon (NFR) |
-| 23:15 | **qxciine**: Swan | **amvggtradingyay**: Fly-A-Pet Potion |
-| 23:15 | **Kid26Jellyfish**: Crow (FR), Arctic Reindeer (NFR), Pink Cat (NFR), Albino Monkey (FR), Punk Pony (N) | **Frdvhev**: Parrot (NFR), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion ×3, Polar Bear |
-| 23:15 | **xAngeL_Drawz**: Chocolate Chip Bat Dragon (MFR), Cryptid (NFR), Ride-A-Pet Potion | **2rigolo2**: Diamond Butterfly (MFR) |
-| 23:15 | **Jdjdnx269**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Arctic Reindeer (FR), Hedgehog (FR) | **DarkGriffin9635**: Goat (MFR), Alpaca (NFR), Water Rabbit (MFR), Pretty Pony (MR), Burger Bear (MFR), 2022 Birthday Party Hat, Sakura Spirit (NFR), Red Squirrel (MFR), Fly-A-Pet Potion |
-| 23:15 | **Mika_Akkerman**: Cabbit (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **soyelmas_capito132**: Hot Doggo (FR) |
-| 23:15 | **yeetimaheadout7**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **xKawaiicatgamerJenni**: African Wild Dog (FR) |
-| 23:15 | **toybeau772**: Munchkin Cat | **Soyun129628**: Santa Hat, Elf Hat |
-| 23:15 | **EmiXMisty**: Bat Dragon (NFR), Owl (FR) ×2 | **Adoptmetradingalt82**: Giraffe (MFR) |
-| 23:15 | **Hiiiii_adoptttmeee**: Swan (NFR), Spring Bunny Hood | **BloodMenCloud**: Dragonfruit Fox (NFR) |
-| 23:15 | **sacrificingmyself19**: Strawberry Shortcake Bat Dragon (FR), Goose (R) | **petar13alo**: Evil Unicorn (FR) |
-| 23:15 | **BibbleFairy_9**: Strawberry Penguin (NFR), Polar Bear (FR), Polar Bear (R) | **robloxismy13threas0n**: Dango Penguins (NFR), Lion Cub, Sheeeeep (R), Pain au Chat (M) |
-| 23:15 | **Lynn_LostHerMainAcc**: Shiba Inu (M), Forest Sprite (M), Muskrat (M), Poodle (M) | **KAIRA_5882**: Stray Cat Dragon (M) |
-| 23:15 | **A_noBoDy174**: Strawberry Tortle | **deadpo0l293**: Siamese Cat (R), Ride-A-Pet Potion ×2 |
-| 23:15 | **hanb3ki**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR) | **Anime_Masha09**: Parrot (FR) |
+| 23:25 | **athena_cheka**: Balloon Unicorn (FR), Burger Boots, Butter Knife | **Ogingagh1011**: Border Collie (MFR) |
+| 23:25 | **aspenuko**: Cabbit (F), Feesh (MR), Ninja Monkey (FR) | **SanAndres404**: Tuxedo Cat (MFR), Shiver Wolf (M), Skunk (MR) |
+| 23:25 | **SanAndres404**: Fly-A-Pet Potion ×3, Lion Cub | **Smookgans**: Alley Cat (NFR) |
+| 23:25 | **SanAndres404**: Dango Penguins ×3 | **98k_Riley27**: Cozy Cabin |
+| 23:25 | **UwUmaks0v0**: Dango Penguins (MFR), Elephant (R) | **1LYELLAAXO**: Strawberry Shortcake Bat Dragon (FR) |
+| 23:25 | **iliriano0**: Strawberry Shortcake Bat Dragon (NFR), Ride-A-Pet Potion | **loiol1004**: Diamond Butterfly (FR), Violet Butterfly (MR), Prismatic Butterfly (MFR), Moonbeam Butterfly (MFR), Green Butterfly (N) ×2 |
+| 23:25 | **barbianna232323**: Frost Dragon (FR), Peppermint Penguin (NFR), Pupcicle (M) | **SmallestMascot**: Giraffe (FR) |
+| 23:25 | **4URANZ3**: Albino Monkey (FR), Purple Butterfly, Ride-A-Pet Potion ×2 | **Mnenormalno_0**: Unicorn Horn |
+| 23:25 | **NOBODYknows_1100**: Sunflower Friend ×2 | **Pugsmam**: Violet Friend |
+| 23:25 | **yusufcanadac7**: Dango Penguins (NR), Dango Penguins (FR), Snow Monkey | **Papitascongaseosa_xD**: Rain Cloud Hat |
+| 23:25 | **Gaonasun123**: Cat (MFR), Ride-A-Pet Potion | **Creepy_D0II**: Shadow Dragon Ducky (NFR) |
+| 23:25 | **Timur_djan15**: Guardian Lion (F), Blue Whale (NR) | **ameyyass**: Ride-A-Pet Potion ×2 |
+| 23:25 | **shodidodi**: Cattuccino ×4, Basic Egg ×4 | **The_JuJubee13**: Cattuccino (N) |
+| 23:25 | **adoptmefan9928**: Ice Golem, Candy Hare (R), Halloween White Ghost Dragon (FR), Ice Cream Hermit Crab, Brown Bear, Gecko ×2 | **L0veChocolatel0ve**: Cake Friend (MFR) |
+| 23:25 | **XxSorvetyxX**: Christmas Pudding House | **Leahxilol**: Kitty Biscuit |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
