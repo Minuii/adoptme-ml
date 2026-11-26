@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 02:01 UTC by the scrape workflow._
+_Updated 2026-11-26 02:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 02:01 UTC by the scrape workflow._
 | amvgg | 16 | 24,824 | 2026-11-26T02:00 |
 | elve | 16 | 5,200 | 2026-11-26T02:01 |
 
-## AMVGG completed trades: 66,244 total
+## AMVGG completed trades: 66,266 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 274 |
+| 2026-11-26 | 296 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 02:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:00 | **katseye25683**: Werewolf | **iTheDAN**: Candicorn |
-| 02:00 | **Sarahi23685**: Irish Elk, Fly-A-Pet Potion | **melynagamer3**: Ride-A-Pet Potion ×2 |
-| 02:00 | **mxzerii**: Ride-A-Pet Potion | **jordanllover33**: Pudding Cat ×2, Chick ×2 |
-| 02:00 | **AltforamvggBre1**: Hot Doggo ×2, Cow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **Susabaoen**: Hot Doggo (N) |
-| 02:00 | **DuckyMuffinz**: Ride-A-Pet Potion | **epngle**: Admin Abuse Egg ×18 |
-| 02:00 | **KOT_PonUwU**: Cat Backpack ×2, Angus Cow (N) ×4, Gold Tiara ×2 | **Anastasia_fp12**: Ride-A-Pet Potion |
-| 02:00 | **roblox_user_9047853614**: Candicorn (MFR), Lion | **911robinn**: Balloon Unicorn (FR) |
-| 02:00 | **petar13alo**: Evil Unicorn (FR) | **BL00DP0PP3RZ**: Cow (NFR), Goose (FR) |
-| 02:00 | **demon_slayer54832**: Zombie Wolf (MFR), Ride-A-Pet Potion ×5, Ice Cream Cone Hat | **Richard20125**: Cow (FR) |
-| 02:00 | **ll2Sc**: Puffin (MFR) | **klaythomp08**: Tri-horned Treehopper (MFR) |
-| 01:55 | **Willowstorm_WaCa**: Frost Phoenix (N) | **BakaMaster39**: Pig |
-| 01:55 | **linaol0a20**: Reindeer (NFR), Dango Penguins, Sushi Penguin, Amami Rabbit, Moon Rabbit | **abdoosaad**: Arctic Fox (FR) |
-| 01:55 | **xaoichaanx**: Flaming Zebra (MFR) | **itsZoestream610**: Cupid Dragon (FR) |
-| 01:55 | **antilucqa**: Caterpillar | **cheehrbechieirbceb**: Albino Bat (MFR), Ride-A-Pet Potion |
-| 01:55 | **zephyrgoatt**: Ride-A-Pet Potion | **valentinoelpro_12**: Purrowl ×9 |
+| 02:10 | **spakle3222**: Shark Puppy (NR) | **D4rkCurse**: Shark Puppy (R), Shark Puppy ×2, Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×3 |
+| 02:10 | **shailalovesjesus**: Alpaca | **Mikmunk12**: Chocolate Dutch Guinea Pig (MR) |
+| 02:10 | **nenerod23**: Crocodile (R), Nessie (FR) | **Potatofarmsdrag**: Munchkin Cat ×2 |
+| 02:10 | **kaylamicmi**: Chocolate Chip Bat Dragon ×5 | **Ob3sityPhobia**: Crow (NFR) |
+| 02:10 | **rimar1o1**: Haetyphoon | **lipotike**: Ice Cream Cone Hat |
+| 02:10 | **FLOR_3PAOLA**: Pomeranian (MR), Angus Calf (M), Royal Palace Spaniel (NR), Boohoo (M), Chihuahua ×3, Gemstone Egg, Samoyed (M), Pain au Chat | **SAF3_W0RD**: Chihuahua (MR) |
+| 02:10 | **Gamerqueen1255**: Gemstone Egg | **Hellobyeheyhihello**: Retired Egg ×18 |
+| 02:10 | **s1ltn0w**: Queen Bee (MFR), Rose Dragon (MR) | **Lapiseroch2**: Silverback Gorilla (MFR) |
+| 02:10 | **obesezilla**: Hot Doggo (FR), Siamese Cat (R), Border Collie (R), Border Collie, Munchkin Cat (R), Jester Dragon (FR), Stray Cat Dragon (M) | **quesidella**: Rainbow Maker, Unicorn Horn, Tiny Wings, Ice Cream Cone Hat |
+| 02:10 | **Sonyon_Lia**: Therapy Dog (R) | **rainbow28546**: Ride-A-Pet Potion |
+| 02:10 | **SANANELANISMIMDEN_LA**: Australian Kelpie (N), Ghost Wolf (N) | **rainbow28546**: Ride-A-Pet Potion |
+| 02:10 | **johnpatricktasunci16**: Catte ×2 | **Backup_accout146**: Moose Calf |
+| 02:10 | **CEMEH_HOCKOB**: Pain au Chat ×4, Chihuahua ×3 | **yanahaltacc1**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 02:06 | **Sugarfly502**: Happy Duckling (M) | **kiril629958kiril6**: Giant Blue Scarab (MFR) |
+| 02:06 | **D4rkCurse**: Water Moon Bear (NR), Burger Bear ×2 | **melynagamer3**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
