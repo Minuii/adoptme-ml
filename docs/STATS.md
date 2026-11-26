@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 16:55 UTC by the scrape workflow._
+_Updated 2026-11-26 17:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 16:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 38,442 | 2026-11-26T16:45 |
-| elve | 16 | 7,962 | 2026-11-26T16:46 |
+| amvgg | 16 | 38,730 | 2026-11-26T17:00 |
+| elve | 16 | 8,033 | 2026-11-26T17:01 |
 
-## AMVGG completed trades: 68,411 total
+## AMVGG completed trades: 68,430 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,441 |
+| 2026-11-26 | 2,460 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 16:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:55 | **Kinglinghi**: Jungle Egg, Harp Seal | **King1_MoonOpAlt2**: Jungle Egg |
-| 16:55 | **amvggholder**: Swan (FR), Ride-A-Pet Potion | **SaRa654396**: Platypus |
-| 16:55 | **lmao_fyp**: Ride-A-Pet Potion | **Malina8491**: Amethyst Skies Mega Neon Paint, Rose Quartz Glow Mega Neon Paint |
-| 16:55 | **Loservamplol**: Hawk (FR) | **Lotteisking**: Paint Sealer ×12 |
-| 16:55 | **TH_lox0**: Kangaroo (FR), Turtle (FR), Turtle (R), Alley Cat (R), Pet Handler Pro Certificate | **cxar_25**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:55 | **yanahaltacc1**: 2022 Birthday Party Hat | **JEN_NZY**: Ram (MFR) |
-| 16:55 | **TheyLoveCaitlin1**: Chocolate Dutch Guinea Pig (MFR), White Sand Dollar (MFR), Great Pyrenees (MFR), 2022 Birthday Cake, Unicorn Horn, Tiny Wings | **Aslyloving123**: Goat (MFR) |
-| 16:55 | **Ethernaces**: Stray Cat Dragon ×16 | **morgen67svo**: Ride-A-Pet Potion ×2 |
-| 16:55 | **fortradingadm3**: Ride-A-Pet Potion ×3 | **hojujuonabeat**: Red Squirrel (NFR) |
-| 16:55 | **qhur59**: Fallow Deer (R) | **DaniDeyanara456**: Tiny Wings |
-| 16:55 | **hojujuonabeat**: Irish Setter (M), Angus Cow (M) | **Viva_1234572**: Ride-A-Pet Potion |
-| 16:55 | **hojujuonabeat**: Frankenfeline (M) | **Nothing_ToSugaglider**: Ride-A-Pet Potion |
-| 16:55 | **Manggo_Pie40**: Copycat (R) | **cherryberry_99**: Frost Fury (FR) |
-| 16:55 | **Eslemyfjjjg**: Copycat (NR) | **xXHoneyO_oXx**: Black Springer Spaniel (MFR) |
-| 16:55 | **orio7555**: Cow (FR), Turtle (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **kawaiifaintedgirl**: Chocolate Chip Bat Dragon (FR) |
+| 17:00 | **thegiddys14**: Arctic Reindeer (FR), Chocolate Chip Bat Dragon (R), Flamingo (NFR), Pig (FR) | **Igorskii14**: Giant Panda (FR), Pig (MFR) |
+| 17:00 | **Adore_Pandaz**: Purrowl (N), Stray Cat Dragon (N), Angus Cow (N) ×2 | **MapleLull**: Ride-A-Pet Potion |
+| 17:00 | **Tree092109**: Ride-A-Pet Potion | **EriOnSuMa**: Panda |
+| 17:00 | **cya_adoptmechallange**: Lava Dragon (NFR) | **DellaxKenneth**: Ride-A-Pet Potion ×12 |
+| 17:00 | **MrToy40**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion | **NecorXax**: Cow (NFR) |
+| 17:00 | **missy_Artz**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R) | **jW54gJY35h6pO7X9N722**: Sugar Glider (FR), Turtle (FR), Kangaroo (FR) ×2, Elephant (R) ×3 |
+| 17:00 | **Lotteisking**: Hawk (FR) | **Vikakelera**: Ride-A-Pet Potion |
+| 17:00 | **cheesecake_2350**: Goat (R) | **glittrswan**: Lion Cub (R) |
+| 17:00 | **Adore_Pandaz**: Corgi (NR), Black Moon Bear (N), Pinkypillar (N) ×2 | **scvnilla**: Ride-A-Pet Potion |
+| 17:00 | **Pupsidupsi2**: Chocolate Chip Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion | **blackpanterxdpr**: African Wild Dog (R), Cow (FR) ×2 |
+| 17:00 | **maybetryitlater**: Strawberry Shortcake Bat Dragon (FR) ×5, Chocolate Chip Bat Dragon (FR) ×2, Peppermint Penguin | **xxjohnjokexx**: Owl (NFR) |
+| 17:00 | **AL1C3W0RLDD**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×6 | **Thresh_1234**: Turtle (FR) |
+| 17:00 | **PrincezzNatty**: Ride-A-Pet Potion | **Bika_1234886**: Paint Sealer ×12 |
+| 17:00 | **adoptrade12**: Turtle (FR) | **siskaeqka23456**: Cupid Dragon (NFR) |
+| 17:00 | **AL1C3W0RLDD**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion | **DragonjJDusta107130**: Turtle (R) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
