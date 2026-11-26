@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 21:55 UTC by the scrape workflow._
+_Updated 2026-11-26 22:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 21:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 43,596 | 2026-11-26T21:45 |
-| elve | 16 | 9,223 | 2026-11-26T21:46 |
+| amvgg | 16 | 43,860 | 2026-11-26T22:00 |
+| elve | 16 | 9,299 | 2026-11-26T22:01 |
 
-## AMVGG completed trades: 69,615 total
+## AMVGG completed trades: 69,680 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,645 |
+| 2026-11-26 | 3,710 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 21:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:45 | **J5YY0**: Dragonfruit Fox (MR), Bunny Swirl (MR), Green Amazon (M) | **evescupid**: Dango Penguins (MFR) |
-| 21:45 | **pollylemonlollyscwol**: Fairy Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Cow (FR), Copycat (NFR) | **nagumo2226**: Owl (FR) |
-| 21:45 | **cazzy123abc**: Giant Panda (FR), Tuxedo Cat (MFR), Happy Clam | **D1o_w**: Sea Slug (MFR) |
-| 21:45 | **HannaMontanasing**: Sugar Glider (MFR), Candicorn (MFR), Pink Cat Ear Headphones, Pink Heart Glasses | **wodyslol**: Cryptid (NFR), Cryptid (N) |
-| 21:45 | **FlamingoJunior4594**: Giant Gold Scarab (MFR), Griffin (MFR), Vanilla Penguin (MFR), Angus Calf (MFR), Husky (NFR) | **cutezxnat**: Arctic Reindeer (NFR) |
-| 21:45 | **aleeyah51092**: Evil Chick | **Klikkledo**: Retired Egg ×11 |
-| 21:45 | **CATNOIR678901**: Pumpkin Friend (MR) | **safir_va**: Haetyphoon |
-| 21:45 | **Shadx_1553**: Arctic Reindeer (NFR) ×2, Arctic Reindeer (FR), Dango Penguins (NFR) ×2 | **idk456950**: Giraffe (FR) |
-| 21:45 | **qxciine**: Sushi Penguin | **CME123TAHKA**: Ride-A-Pet Potion |
-| 21:45 | **Bruno_Games76**: Spring Bunny Feet | **CaityBear1001**: Ride-A-Pet Potion |
-| 21:45 | **luckyy591**: Paint Sealer | **orangebackup3**: Retired Egg ×6 |
-| 21:45 | **C0xrbin**: Strawberry Shortcake Bat Dragon (FR) | **j2v73r**: Binturong (M), Pudding Cat (MR), Dango Penguins (N), Dango Penguins (NR), Dango Penguins, Toasty Red Panda (N), Fly-A-Pet Potion ×2, Border Collie, Butter Knife, Chihuahua |
-| 21:45 | **Xx_bruneta**: Goose (NFR) | **RuthJavxn**: Chocolate Chip Bat Dragon (FR) |
-| 21:40 | **PandaL0St0rmyV**: Nautilus (MFR), Ranger Beaver (MFR) | **teetehejej**: Puffer Fish (MFR) |
-| 21:40 | **maani123123**: Strawberry Shortcake Bat Dragon (FR), Shark Puppy (R), Ride-A-Pet Potion | **Biscvidi29**: Arctic Reindeer (FR), Fly-A-Pet Potion ×3 |
+| 22:00 | **Nola1234512345**: Unicorn Horn, Spring Bunny Hood ×3, Fly-A-Pet Potion ×5 | **putridiecro**: Leviathan (N), Phoenix (N), Gargoyle (N), Unicorn (N), Lynx (N), Mushroom Friend (N), Dango Penguins (R), Maneki-Neko (N), Kitty Bat (N), Berry Cool Cube (N), Shiver Wolf (N), Squid (N), Winter Fawn (M), Dire Wolf (N) |
+| 22:00 | **xpinkpearlss**: Unicorn Horn | **stargxldani**: Siamese Cat |
+| 22:00 | **IWantofFeelAlive**: Fly-A-Pet Potion ×12 | **catlvzz**: Turtle (FR) |
+| 22:00 | **stirch896**: Monkey (NR), Choco Penguin (R), Ghost (R), Hamster (R) | **Mariyansofi**: Ride-A-Pet Potion ×2 |
+| 22:00 | **faebnny**: Goldhorn (MFR), Fly-A-Pet Potion | **detective_emilly**: Harp Seal (MFR) |
+| 22:00 | **victoria95YTpt19za09**: Chocolate Dutch Guinea Pig (MFR) | **leftmyhoodie**: Scarebear (MR), Highland Cow (MFR) |
+| 22:00 | **aaaaa2aaaaaaa16**: Rain Hat | **Klikkledo**: Traveling House |
+| 22:00 | **xRenyyi**: Glider ×3 | **MasterMaks2002uwu**: Moose Calf |
+| 22:00 | **Dominat0r_Sha**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pet Handler Pro Certificate ×2 | **celzieva**: Bunny Swirl (M) |
+| 22:00 | **IMAO_Kiy23ALT**: Jester Dragon (MFR), Fly-A-Pet Potion ×8 | **Elias0160Shiro**: Munchkin Cat (MFR) |
+| 22:00 | **farm2266**: Royal Corgi (MFR) | **fluffyunicorns_932**: Lynx (MFR), Toasty Red Panda (MFR), Cow Calf (MFR) |
+| 22:00 | **mewklekittys**: Dragonfruit Fox | **Yumi_Rose8**: Pet Handler Pro Certificate |
+| 22:00 | **puchainela77**: Giant Panda (FR), Harp Seal (N), Jester Dragon, Dragonfruit Fox (FR), Pancake Stack, Rose Dragon (R) | **itsmeRa3lyn**: Sea Slug (MFR) |
+| 22:00 | **sakotfzg**: Ride-A-Pet Potion | **lollipopleah7861**: Aztec Egg ×18 |
+| 22:00 | **wanda_vision680**: Fly-A-Pet Potion | **typol1235y6**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
