@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 00:41 UTC by the scrape workflow._
+_Updated 2026-11-26 00:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 00:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 23,285 | 2026-11-26T00:30 |
-| elve | 16 | 4,920 | 2026-11-26T00:31 |
+| amvgg | 16 | 23,529 | 2026-11-26T00:45 |
+| elve | 16 | 4,992 | 2026-11-26T00:46 |
 
-## AMVGG completed trades: 66,071 total
+## AMVGG completed trades: 66,086 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 101 |
+| 2026-11-26 | 116 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 00:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:41 | **sxmplycutecorex**: Admin Abuse Egg ×18 | **L0ganBloxFamm35**: Ride-A-Pet Potion |
-| 00:41 | **TwistedK1tty**: Strawberry Shortcake Bat Dragon (FR), Shark Puppy (NR), Goose (R) | **Froggyblossom90**: African Wild Dog (FR) |
-| 00:41 | **Sugar_Viktoria**: Chocolate Dutch Guinea Pig (MFR), Fly-A-Pet Potion, Kitty Biscuit | **whoisavabarone**: Goose (FR) |
-| 00:41 | **poorwaan**: Frost Fury (FR) | **daanz2**: Spring Bunny Feet, Pet Handler Pro Certificate, Fly-A-Pet Potion |
-| 00:41 | **bhavanan**: Dalmatian, Ride-A-Pet Potion | **Summerwave2011**: Dalmatian (FR) |
-| 00:41 | **Inf3ction2**: Bunch Of Balloons | **zin_che**: Bullfrog |
-| 00:41 | **ItsNickk310**: Moose Calf (MFR) | **Aranpro10101**: Moose Calf (M) |
-| 00:41 | **hojujuonabeat**: Pretty Pony (NF) | **Raee356**: Ride-A-Pet Potion ×3 |
-| 00:41 | **apples_oopp1**: Gingerbread Reindeer | **Softbunnyluvzmami**: Fairytale Egg ×18 |
-| 00:41 | **ykonradd**: Sugar Glider (FR), Arctic Fox (FR) | **lol_whateverx67hsk81**: Goose (FR) |
-| 00:41 | **POZOLEUWU109**: Strawberry Shortcake Bat Dragon (FR), Hot Doggo (FR), Cow (FR), Kangaroo (FR), Toaster Hat, Gecko (MFR), Ride-A-Pet Potion | **lol_whateverx67hsk81**: Dalmatian (FR), Arctic Reindeer (FR) |
-| 00:41 | **LovYavaYT**: Frost Dragon (FR), Pig (NFR), Kangaroo (FR) | **lol_whateverx67hsk81**: Balloon Unicorn (FR), Crow (FR) |
-| 00:41 | **lupoouu2**: Fairy Bat Dragon (NFR), Diamond Hamster (NR), Velocirooster, Spring Bunny Feet, Merhorse (M), Burger Bear (N) | **manualep8**: Orchid Butterfly (FR) |
-| 00:41 | **hanb3ki**: Bat Dragon (FR), Bat Dragon, African Wild Dog (FR), 2D Doggy (MFR), Chocolate Chip Bat Dragon (R), Slime (NFR), Toaster Hat | **Marilynbrandt662**: Bat Dragon (NFR) |
-| 00:41 | **Jessica_westry**: Goose (R) | **hensij3n**: Irish Water Spaniel (NFR) |
+| 00:45 | **NOBIIIEEE11**: Jester Dragon (N), Fly-A-Pet Potion | **bigpetman9**: Gecko (MR), Tiny Wings |
+| 00:45 | **xxpeachyxx82**: Ride-A-Pet Potion ×5, Dracula Parrot | **xGracie_1234x**: Tortuga de la Isla |
+| 00:45 | **apples_oopp1**: Goldfish | **skymartinsky**: Retired Egg ×18 |
+| 00:45 | **OliviaOmega58**: Groundhog | **kayisin21agegrou**: Brown Bear, Snowball Pet |
+| 00:45 | **abdoosaad**: Cow (NFR) | **EriOnSuMa**: Goose (FR), Siamese Cat, Hamster (MFR), Purrowl (MFR), Fallow Deer (R), Island Tarsier (MFR) |
+| 00:45 | **21kStock**: Owl, Parrot, Evil Unicorn, Frost Dragon (NFR), Giant Panda (FR) ×2 | **adoptmeplayerhi10**: Frost Dragon (FR) ×4, African Wild Dog (FR) |
+| 00:45 | **GDamazing10**: Evil Unicorn (FR), Dango Penguins (MFR), Snow Owl (MFR), Emberlight (MR) | **adoptmeplayerhi10**: Parrot (FR) |
+| 00:45 | **Quizzaff**: Goose (FR) ×2 | **adoptmeplayerhi10**: Strawberry Shortcake Bat Dragon (FR) |
+| 00:45 | **b3autifulpoisxn**: Munchkin Cat (MFR) | **Bubblesby_bailey1234**: Fairy Bat Dragon (NFR) |
+| 00:45 | **Jeheon07**: Siamese Cat (FR), Banana Hat, Cracked Egg | **wkxcii**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×6 |
+| 00:45 | **niniamvgg**: Frost Dragon (FR) | **lba_fofe**: Arctic Reindeer (NFR), Unicorn Horn |
+| 00:45 | **Lpoopbxhe**: Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR), Siamese Cat, Pet Handler Pro Certificate, Electric Tide Mega Neon Paint | **cocomdskmm**: Parrot (FR) |
+| 00:45 | **LyraFusion**: Goat (FR) | **xadore_brookex**: Bunny Swirl ×13 |
+| 00:45 | **thegiddys14**: African Wild Dog (FR), Ride-A-Pet Potion | **lba_fofe**: Arctic Reindeer (FR), Kangaroo (FR), Albino Monkey (FR), Albino Monkey (R) ×2 |
+| 00:45 | **Gretavorxd**: Ride-A-Pet Potion, Chimera, Clam Wings | **Sillykily0**: Leviathan |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
