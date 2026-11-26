@@ -36,12 +36,21 @@ jobs:
       - name: Rebuild the live site
         env:
           GH_TOKEN: ${{ github.token }}
+        # GitHub's dispatch API sometimes answers HTTP 500, so each dispatch is tried 4 times, 20 s apart. A missed site
+        # rebuild only warns (the next run rebuilds 15 minutes later); a missed forecast fails the run.
         run: |
-          gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
+          dispatch() {
+            for i in 1 2 3 4; do
+              gh workflow run "$1" --ref main --repo "$GITHUB_REPOSITORY" && return 0
+              sleep 20
+            done
+            return 1
+          }
+          dispatch pages.yml || echo "::warning::could not start the site rebuild; the next run will"
           if [ $(( 10#$(date -u +%M) )) -lt 15 ]; then
             # once a day, after Elvebredd's evening updates: refresh the 30-day forecast (forecast.yml rebuilds the site after)
             if [ "$(date -u +%H)" = "01" ]; then
-              gh workflow run forecast.yml --ref main --repo "$GITHUB_REPOSITORY"
+              dispatch forecast.yml
             fi
           fi
       # AMVGG's completed-trades page holds ~100 trades: about 17 minutes at peak, so one poll per 15-minute run lost

@@ -19,10 +19,10 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
@@ -32,5 +32,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v5
         with:
           path: site
+      # About 1 deploy in 5 fails with GitHub's "Fetching artifact metadata failed" / "No artifacts named github-pages":
+      # the artifact isn't visible yet. Wait a minute and try once more.
       - id: deploy
+        uses: actions/deploy-pages@v5
+        continue-on-error: true
+      - if: steps.deploy.outcome == 'failure'
+        run: sleep 60
+      - id: deploy2
+        if: steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v5
