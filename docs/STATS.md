@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 06:40 UTC by the scrape workflow._
+_Updated 2026-11-26 06:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 06:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 29,124 | 2026-11-26T06:30 |
-| elve | 16 | 5,990 | 2026-11-26T06:31 |
+| amvgg | 16 | 29,360 | 2026-11-26T06:45 |
+| elve | 16 | 6,032 | 2026-11-26T06:46 |
 
-## AMVGG completed trades: 66,721 total
+## AMVGG completed trades: 66,723 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 751 |
+| 2026-11-26 | 753 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,8 @@ _Updated 2026-11-26 06:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:45 | **Lilyanaa_p**: Peppermint Penguin (N), Alpaca (NFR), Rainbow Maker, Halo, Rain Cloud Hat ×2, Unicorn Horn, Ring-Tailed Lemur ×2, Pet Handler Pro Certificate ×5 | **Xz_Infern0UlCircuitR**: Alpaca (MFR) |
+| 06:45 | **RileyforSure28**: Arctic Reindeer (FR), Turtle (FR) | **Majicfee**: Evil Unicorn (FR) |
 | 06:40 | **SantaniyxRBLX**: Fly-A-Pet Potion ×15 | **arseniylolol**: Fairy Bat Dragon (FR) |
 | 06:40 | **Urfavorite1225**: Peachick ×2, Chihuahua, Gorilla, Sasquatch, Winter Fawn, Ermine | **pinkytedslovie**: Ride-A-Pet Potion |
 | 06:40 | **JorgeEduardo_123**: Flower Power Duckling (NR) | **robloxer_3614**: Fly-A-Pet Potion |
@@ -52,8 +54,6 @@ _Updated 2026-11-26 06:40 UTC by the scrape workflow._
 | 06:36 | **Legolover15687**: Copycat, Admin Abuse Egg ×2, Ride-A-Pet Potion ×2 | **beconisok**: Flash Weasel |
 | 06:36 | **Mizumi_yiku**: Flower Power Duckling ×2 | **Jenniea264**: Cow Calf, Sweetheart Rat, Chihuahua |
 | 06:36 | **nnseoi**: Ice Cream Cone Hat | **C4K3YK1TTEN**: Spring Bunny Hood, Candyfloss Mega Neon Paint |
-| 06:36 | **Rubyko13**: Ghost Kitty Backpack, Bear Hood, Festive Antlers, Growing Flower Hat, Rotating Periscope, Boohoo (N), Caramelgeist (N), Forest Sprite (N), Pinkypillar (N) | **pinkytedslovie**: Ride-A-Pet Potion |
-| 06:36 | **roblox_user_2880951367**: Fly-A-Pet Potion | **AsianIceCold**: Pancake Stack |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
