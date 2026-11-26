@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 03:11 UTC by the scrape workflow._
+_Updated 2026-11-26 03:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 03:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 25,847 | 2026-11-26T03:00 |
-| elve | 16 | 5,386 | 2026-11-26T03:01 |
+| amvgg | 16 | 26,095 | 2026-11-26T03:15 |
+| elve | 16 | 5,399 | 2026-11-26T03:15 |
 
-## AMVGG completed trades: 66,371 total
+## AMVGG completed trades: 66,373 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 401 |
+| 2026-11-26 | 403 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,8 @@ _Updated 2026-11-26 03:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:15 | **doyourmathworks**: Vanilla Penguin | **melynagamer3**: Ride-A-Pet Potion |
+| 03:15 | **laganxx_vd**: Happy Duckling (NFR) | **KittyCatSa21**: Pupcicle (N) |
 | 03:11 | **KuyenTime**: Turtle (FR), Werewolf (FR) | **AsianIceCold**: Matcha Cat (NFR), Shrew (R) |
 | 03:11 | **eggnoobppp**: Border Collie (NFR), Turtle (FR), Glacier Moth | **ContentOtter9075**: Rainbow Maker, Toaster Hat |
 | 03:11 | **Rylo122414**: Fly-A-Pet Potion | **Goodbyes26**: Crystal Egg ×18 |
@@ -52,8 +54,6 @@ _Updated 2026-11-26 03:11 UTC by the scrape workflow._
 | 03:11 | **e2kk_121003**: Nessie | **milanessaa_conpure**: Alley Cat, Fly-A-Pet Potion, Ride-A-Pet Potion |
 | 03:11 | **amvggbunni_won**: Bunny Swirl (N) | **wonheexiie**: Bunny Swirl (R) ×2, Sweetheart Rat (N) |
 | 03:06 | **AutoTradeCommission**: Giraffe (FR), Fly-A-Pet Potion | **ruralurbanmigration**: Matcha Cat (MFR), Emperor Gorilla (MFR), Zombie Wolf (MFR) ×2, Frost Phoenix (MFR), Tiny Wings |
-| 03:06 | **AutoTradeCommission**: Cow (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Baldyellowwoman**: Sushi Penguin (M), Great Pyrenees (MR), Happy Duckling (MR) |
-| 03:06 | **002002002LE0**: Nessie (MFR), T-Rex (MFR), Sushi Penguin (MFR), Toucan (MFR) | **012e0122**: Diamond Amazon (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
