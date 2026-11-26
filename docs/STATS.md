@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-26 19:11 UTC by the scrape workflow._
+_Updated 2026-11-26 19:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 25 | 2026-11-11T1036Z | 2026-11-26T0015Z |
-| amvgg | 71 | 2026-11-11T1036Z | 2026-11-26T1616Z |
+| amvgg | 72 | 2026-11-11T1036Z | 2026-11-26T1916Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 40,779 | 2026-11-26T19:00 |
-| elve | 16 | 8,552 | 2026-11-26T19:01 |
+| amvgg | 16 | 41,055 | 2026-11-26T19:15 |
+| elve | 16 | 8,582 | 2026-11-26T19:15 |
 
-## AMVGG completed trades: 69,033 total
+## AMVGG completed trades: 69,035 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,063 |
+| 2026-11-26 | 3,065 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,8 @@ _Updated 2026-11-26 19:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:15 | **nvissac**: Mule (N) | **baconandchicken007**: Copycat |
+| 19:15 | **Influuu05**: Flamingo, Elephant | **Gr3vess**: Cow (FR) |
 | 19:06 | **sleepy_s0ren**: Dalmatian ×2, Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon (R), Cow, Mermicorn (FR), Strawberry Penguin, Border Collie | **kjm_5741**: Giraffe (FR) |
 | 19:06 | **Queen_CK26**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **fqlfyfujdyj**: Lava Dragon (FR) |
 | 19:06 | **Kotosonoha**: Jekyll Hydra (R), Caterpillar (FR), French Bulldog (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Freep2603**: Strawberry Shortcake Bat Dragon (FR) |
@@ -52,8 +54,6 @@ _Updated 2026-11-26 19:11 UTC by the scrape workflow._
 | 19:06 | **svqh12**: Sheeeeep (NR) ×2, Sheeeeep (NFR) | **Void88881**: Arctic Reindeer (FR) |
 | 19:06 | **beto17521**: Chocolate Chip Bat Dragon (FR) ×2, Spring Bunny Feet | **xKawaiicatgamerJenni**: Strawberry Shortcake Bat Dragon (FR) ×2 |
 | 19:06 | **VioletLynxie**: Copycat (MFR) | **Sara_Sope1**: Strawberry Shortcake Bat Dragon (FR), Unicorn (NFR) |
-| 19:06 | **StankFart_Jr**: 2022 Birthday Party Hat, Spring Bunny Hood, Spring Bunny Feet ×2, Spring Bunny Nose ×2, Rainbow Stroller, Ibex (NR) | **cxbvnniz**: Snow Monkey (MFR) |
-| 19:06 | **turbo142142**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×5, Electric Hornet ×2 | **Frander2983**: Dango Penguins ×4 |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
