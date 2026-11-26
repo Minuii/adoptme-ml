@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 20:41 UTC by the scrape workflow._
+_Updated 2026-11-26 20:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 20:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 42,379 | 2026-11-26T20:30 |
-| elve | 16 | 8,891 | 2026-11-26T20:31 |
+| amvgg | 16 | 42,640 | 2026-11-26T20:45 |
+| elve | 16 | 8,965 | 2026-11-26T20:46 |
 
-## AMVGG completed trades: 69,407 total
+## AMVGG completed trades: 69,412 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,437 |
+| 2026-11-26 | 3,442 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,11 @@ _Updated 2026-11-26 20:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 20:45 | **irisjgh6**: Candicorn (MFR), Toaster Hat | **bffmade**: Alley Cat (MR), Field Mouse (MFR), Ride-A-Pet Potion |
+| 20:45 | **Amvgg_Amvggg**: Strawberry Shortcake Bat Dragon (FR) | **ongitos_oficial**: Kangaroo (FR) ×2, Kangaroo (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×10 |
+| 20:45 | **RainyGamerzzz**: Strawberry Shortcake Bat Dragon (FR) ×4 | **Sophia_1239878**: Frost Dragon (FR), Vampire Dragon |
+| 20:45 | **MoronicKat_the7th**: Mini Schnauzer | **jisungbi4sed**: German Shepherd |
+| 20:45 | **nic0l3xxe**: Bat Dragon (FR), Cow (FR) | **lxceddream**: Cryptid (MFR) |
 | 20:36 | **BINKY5085**: Fairy Bat Dragon (NFR) | **pixeltayler123**: Flying Broomstick |
 | 20:36 | **bunnilini**: Crow (FR), Cow (NFR), Chocolate Chip Bat Dragon (FR), Hedgehog (R), Dalmatian (R), Matcha Cat (NFR) | **plasfreerb**: Chocolate Chip Bat Dragon (MFR) |
 | 20:36 | **raya1325416**: Hedgehog (FR), Ride-A-Pet Potion | **princess0088123**: Goat (FR), Goat (R), Unicorn Horn, Snowball Pet (MFR), Crocodile (FR), Meerkat (NR), Caterpillar (R), 2022 Birthday Party Horn, Ice Cream Cone Hat |
@@ -49,11 +54,6 @@ _Updated 2026-11-26 20:41 UTC by the scrape workflow._
 | 20:36 | **robloxm656**: Gorilla (N), Ms. Muffet (N), Ant (N), Princess Mare (N), Budgie Witch (N), Caramelgeist (N) ×3, Granny Wolf (N), Clumpty (N), Bunny (N), Golden Dragon ×2, Diamond Dragon, Admin Abuse Egg ×4 | **sursyrzytxurzutzutz**: Ride-A-Pet Potion |
 | 20:36 | **Quean_33**: Christmas Pudding House | **awhbubblessss**: Ride-A-Pet Potion |
 | 20:36 | **chicle1993**: Balloon Unicorn (R) | **dolyxlily**: Haetyphoon (FR), Dalmatian (R), Mini Pig (R), Copycat (R) |
-| 20:36 | **aweapolarbear**: Halloween Golden Mummy Cat, Harp Seal, Stray Cat Dragon, Golden Dragon, Red Fox, Glyptodon | **mk1qez**: Fly-A-Pet Potion |
-| 20:36 | **detective_emilly**: Count Slothula (N), Snowball Pet (MFR) | **Gmyiluv**: Jousting Horse (NFR) |
-| 20:36 | **ishibana0967**: Purrowl (N) ×2 | **kokako113377**: Ride-A-Pet Potion |
-| 20:36 | **dasha_123qwr**: Gemstone Egg ×8 | **Fxderchen2**: Ride-A-Pet Potion ×4 |
-| 20:36 | **itslachlan_X**: Peppermint Penguin (MFR), Dragonfruit Fox (MFR), Strawberry Penguin (FR) | **Ryukyu7336**: Siamese Cat (MFR), Dango Penguins (MFR), Giant Anteater (MFR), 2022 Birthday Cake, Tortoiseshell Guinea Pig (NFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
