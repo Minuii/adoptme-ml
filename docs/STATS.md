@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 16:16 UTC by the scrape workflow._
+_Updated 2026-11-26 16:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 16:16 UTC by the scrape workflow._
 | amvgg | 16 | 37,963 | 2026-11-26T16:15 |
 | elve | 16 | 7,839 | 2026-11-26T16:15 |
 
-## AMVGG completed trades: 68,252 total
+## AMVGG completed trades: 68,284 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,282 |
+| 2026-11-26 | 2,314 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 16:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:15 | **Pandalovedogss**: Ghost (M) | **Crystalpastel17**: Fly-A-Pet Potion |
-| 16:15 | **xlottiex3x**: Goose (MFR), Sheeeeep (MFR) | **Satamoke**: Alpaca (MFR) |
-| 16:15 | **yallpoll**: Fallow Deer (FR) | **jandabi2006**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 16:15 | **DarkxWhite2**: Evil Unicorn (FR), Monkey King (FR), Fairy Bat Dragon (FR), Ride-A-Pet Potion | **melody13579xd**: Strawberry Shortcake Bat Dragon (NFR), Glacier Kitsune (R) |
-| 16:15 | **kakasku_1488**: Chameleon, Golden Griffin, Dragonfly, Mummy Spider (N) ×2, Granny Wolf (N), Admin Abuse Egg ×4, Caramelgeist (N), Electric Hornet, Stygian Owl, Bobageist | **FUR_INAAAA**: Ride-A-Pet Potion |
-| 16:15 | **Xxrosegirl130_40**: Unicorn | **XxlillylovenatureXx**: Ride-A-Pet Potion |
-| 16:15 | **NanoAdoptme9**: Fairy Bat Dragon (NFR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×4 | **Hyper07ChaosH7Miner1**: Dalmatian (FR) |
-| 16:15 | **im_a1star4**: Owl (FR), Unicorn (NR), Golden Tortoise Beetle (N) | **maryaadoptik**: Hedgehog (FR), Evil Unicorn (FR) |
-| 16:15 | **cyptiaI**: Burger Boots | **1Sxphii1**: Ride-A-Pet Potion |
-| 16:15 | **AsherHawkBlast2015**: Toy Monkey (MFR), Axolotl | **The_Mery24**: Turtle (FR) |
-| 16:15 | **strxberriexi**: Tan Chow-Chow (NFR) | **Depondip**: Ride-A-Pet Potion |
-| 16:15 | **fluffyunicorns_932**: Glacier Kitsune (MFR), Giant Anteater | **kacchan_bakugo238**: Glacier Moth (MFR), Ride-A-Pet Potion |
-| 16:15 | **CookieCrumbs_l**: Matcha Cat (NFR) | **Zyniathebaddie1**: Zombie Wolf (MR), Kitty Bat (MFR) |
-| 16:15 | **Irislikesyoufr**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **TRH_JIAN**: Dango Penguins (FR) |
-| 16:15 | **arseniylolol**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR), Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×2 | **CoOl_NaMeDuH**: Hedgehog (FR) |
+| 16:25 | **XL4IL4_FGYX**: Cabbit (FR) | **soul1nquestion**: Black Macaque (MFR), Cake Friend (MR), Sasquatch (MR) |
+| 16:25 | **antuco_tuco909**: Arctic Reindeer (NFR), Fairy Bat Dragon (NFR), Siamese Cat (R), Candicorn (R) | **kittycutecat11130**: Frost Dragon (FR) |
+| 16:25 | **xXsleepydaisyX**: Ride-A-Pet Potion | **Trixcaughtlackin**: Sushi Penguin |
+| 16:25 | **DewrattlSR**: Gemstone Egg ×4 | **fufutfufutrer**: Fly-A-Pet Potion |
+| 16:25 | **Rexgaang39**: Copycat | **berdecol**: Ride-A-Pet Potion ×4 |
+| 16:25 | **sww_tea**: Frost Dragon (FR), Ride-A-Pet Potion | **akeks_74**: Cow (NFR), Evil Unicorn (FR), Cabbit (FR), Turtle (FR), Pig (FR), Kangaroo (FR), Fallow Deer, Hare (N) |
+| 16:25 | **epicpulsechaos2024**: Dragonfly ×11 | **Sofixiskiller**: Ride-A-Pet Potion |
+| 16:25 | **adalnie**: Chihuahua ×3 | **dashe4kavbb**: Ride-A-Pet Potion |
+| 16:25 | **pricpalAC_trubilimb**: Chihuahua | **vivicacke17**: Red Panda ×9 |
+| 16:25 | **Pspspskskssk**: Turtle (R), Copycat, Fly-A-Pet Potion ×3, Chihuahua, Castle Hermit Crab | **TwistedK1tty**: Cow (FR) |
+| 16:25 | **matthewisI2here**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR) ×2, Siamese Cat, Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **karl_koto**: Frost Dragon (NFR) |
+| 16:25 | **lerasryuefj**: Sushi Penguin, Golden Egg | **Pringels_630**: Goldhorn (R) |
+| 16:25 | **Pokerheart5621**: Fly-A-Pet Potion, Dimension Drifter, Cuddly Candle | **chesnock204**: Pancake Stack |
+| 16:25 | **NastyA_Maximovna**: Dalmatian (FR), Brachiosaurus (MR) | **Quicne3232**: Cryptid (FR) |
+| 16:25 | **AsherHawkBlast2015**: Parrot (FR), Crow (FR) | **Snoxs545**: Dalmatian (FR), Hedgehog (FR), Chocolate Chip Bat Dragon (FR), Mini Pig (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
