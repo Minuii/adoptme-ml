@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 14:01 UTC by the scrape workflow._
+_Updated 2026-11-26 14:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 14:01 UTC by the scrape workflow._
 | amvgg | 16 | 35,794 | 2026-11-26T14:00 |
 | elve | 16 | 7,435 | 2026-11-26T14:01 |
 
-## AMVGG completed trades: 67,732 total
+## AMVGG completed trades: 67,778 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,762 |
+| 2026-11-26 | 1,808 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:00 | **adoptmel781**: Ride-A-Pet Potion ×2, Zodiac Minion Chick | **dashadkm**: Coyote, Pet Handler Pro Certificate |
-| 14:00 | **Dinkarrt**: Burger Bear (N) | **ItzAina_JPN**: Ride-A-Pet Potion ×2 |
-| 14:00 | **paldoalways34**: Crystal Egg ×18 | **avokado_6001**: Ride-A-Pet Potion |
-| 14:00 | **Wgirl_IG**: Blue Betta Fish ×4 | **0002000200020021LIA4**: Ride-A-Pet Potion ×2 |
-| 14:00 | **pluma_elgato2**: Ride-A-Pet Potion | **floralplum**: Pink Betta Fish (N) |
-| 14:00 | **Julee_Lov**: Shark Puppy | **FuzzyDayNew**: Christmas Pudding Pup (R), Owlbear (R) |
-| 14:00 | **m0chalka_1**: Ride-A-Pet Potion ×8, Fly-A-Pet Potion ×5, Dodo | **EthanNovaZoom2024**: Kangaroo (FR) |
-| 14:00 | **k1ttyluvvnz**: Turtle (FR), Boohoo (MFR), Ribbon Seal (M) | **cutezxnat**: Scarlet Butterfly (MFR), Choco Penguin (MFR), Penguin (MFR), Cozy Mistletroll (MR), Bloodhound (MR) |
-| 14:00 | **AlyonaTheLove**: Ride-A-Pet Potion ×3 | **Spralliiig**: Golden Lettuce, Electric Tide Mega Neon Paint |
-| 14:00 | **xosleepybunny**: Ride-A-Pet Potion ×6 | **Irislikesyoufr**: Catte (N), Catte, Tuxedo Cat |
-| 14:00 | **loxlikq0212**: Lamb (R), Diamond Griffin, Bobageist (N), Diamond Mahi Mahi, Black Rhino, Blue Jay, Cold Cube, Fairytale Egg, Robot (N) | **dczcscdsdfcxddd**: Husky (FR) |
-| 14:00 | **koalla647**: Dalmatian (FR), Pig (R) | **sursyrzytxurzutzutz**: Evil Unicorn (FR) |
-| 14:00 | **mell0rxs**: Ride-A-Pet Potion | **Aurorahn**: Blue Boohoo Mega Neon Paint |
-| 14:00 | **gotobsession**: Munchkin Cat, Munchkin Cat (MR), Parrot (FR), Candicorn | **sursyrzytxurzutzutz**: Frost Dragon (FR) |
-| 13:55 | **Koshka_unicore**: Candicorn | **Kurocuash**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×7 |
+| 14:11 | **Zoomek62**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 14:11 | **kendrito_garcia**: Matcha Cat (NR), Undead Jousting Horse (FR), Mini Pig (FR), Copycat (FR), Matcha Cat, Ride-A-Pet Potion | **YY0ZU**: Undead Jousting Horse (NFR) |
+| 14:11 | **mzrxxq**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 14:11 | **diegxitt**: Ancient Dragon | **CATCORN_AMINA**: Retired Egg ×4 |
+| 14:11 | **hellohoomans987**: Elephant (R), Spring Bunny Nose | **sSoyAndreu**: Tortoiseshell Guinea Pig (R) |
+| 14:11 | **yeetimaheadout7**: Matcha Cat (MFR), Ride-A-Pet Potion ×8 | **Swan_Couture**: Giant Panda (FR) |
+| 14:11 | **rkfkcldepjfdie**: Fairy Bat Dragon (MFR), Cow (FR) | **SamXweirdo**: Frost Dragon (FR) |
+| 14:11 | **TH_lox0**: Grim Dragon (FR), Ride-A-Pet Potion | **Akeem8903133333**: Turtle (FR) |
+| 14:11 | **giafine**: Balloon Unicorn (NFR), Mermicorn (MFR) ×3, Mermicorn (R), Candicorn (MFR), Candicorn ×2, Rainbow Maker, 2022 Birthday Party Hat ×2, 2022 Birthday Party Horn ×2 | **KemonomimixAvi**: Balloon Unicorn (MFR) |
+| 14:11 | **Jenniea264**: Chocolate Dutch Guinea Pig ×4, Latte Kitsune (R), Latte Kitsune, Frost Fury (FR), Gaelic Fae, Pupcicle ×5, Puptune ×3, Pretty Pony ×2 | **elliy5792**: White Sand Dollar (MFR) |
+| 14:11 | **iiiistyloneiiii**: Chicken (NFR) | **Katenka167**: Fly-A-Pet Potion, Ride-A-Pet Potion, Dragonfruit Fox |
+| 14:11 | **Caua08_Games**: Cow (FR), Turtle (FR), Candyfloss Chick (R), Candicorn (R), Candicorn ×3, Ride-A-Pet Potion ×3 | **yangese**: Crow (FR) |
+| 14:11 | **CrimsonSummit1483**: Crystal Egg ×18 | **Nicckie_Min42**: Ride-A-Pet Potion |
+| 14:11 | **Malinamyn**: Frostbite Bear (FR) | **Akeem8903133333**: Border Collie (FR), Ride-A-Pet Potion |
+| 14:11 | **idctbf11**: Munchkin Cat (MFR) | **Sonya73p**: Cabbit (NFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
