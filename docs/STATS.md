@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 09:31 UTC by the scrape workflow._
+_Updated 2026-11-26 09:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 09:31 UTC by the scrape workflow._
 | amvgg | 16 | 31,773 | 2026-11-26T09:30 |
 | elve | 16 | 6,517 | 2026-11-26T09:31 |
 
-## AMVGG completed trades: 67,032 total
+## AMVGG completed trades: 67,072 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,062 |
+| 2026-11-26 | 1,102 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 09:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:30 | **robloxer_3614**: Pet Handler Pro Certificate, Hotdog Stand | **ilovelisa_milisa98**: Admin Vision Wings |
-| 09:30 | **Trxstxd_Nixi**: Goose (R), Fairy Bat Dragon (FR), Copycat ×2, Glacier Kitsune (R) | **kecoze**: Strawberry Shortcake Bat Dragon (FR) |
-| 09:30 | **notreal_angelazz**: Little Lamb (M) | **heart_xi1**: Crystal Egg ×16 |
-| 09:30 | **AdoptMeHere03**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **Emilia92948**: Sea Angel (R), Cocoadile (M), Jumping Spider (N), Bird of Paradise (R), Kirin (NR), Japanese Snow Fairy (N) ×2, Musk Ox (R), Skunk (R), Scarecrow Horse (R), Sprout Snail |
-| 09:30 | **NastyaCat_Play2**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 | **xoxsasha0**: Cow (FR) |
-| 09:30 | **Jadameigo**: Dango Penguins (MFR) | **cozymikoriaa**: Rainbow Maker |
-| 09:30 | **chhcciijjjkk**: Kangaroo (R) | **ocihomu**: Pink Cat (FR), Ride-A-Pet Potion ×8 |
-| 09:30 | **zow_98alt**: Aurora Fox | **lordityy**: Hero Gibbon |
-| 09:30 | **lhfshkg**: Fly-A-Pet Potion | **Marines_Natalia**: Pet Handler Pro Certificate |
-| 09:30 | **Slushyunicorn0**: Candicorn (MFR), Flaming Fox (MFR), Lamb (MFR), Amami Rabbit (MFR), 2022 Birthday Cupcake Shoes, Ride-A-Pet Potion | **sweetenmysoul**: Cryptid (NFR) |
-| 09:30 | **U_sulla**: Strawberry Tortle | **nzjtla**: Ride-A-Pet Potion ×14, Fly-A-Pet Potion ×4 |
-| 09:30 | **Helennaka**: Mermicorn (FR) | **daanz2**: Harp Seal (MFR) |
-| 09:30 | **FTGFXH43**: Bobageist | **Pandalovedogss**: Retired Egg |
-| 09:30 | **namra2538**: Fairytale Egg ×18 | **Rawyoubro11**: Ride-A-Pet Potion |
-| 09:30 | **0MGSARAY**: Panda (NFR) ×2, Panda (NR), Panda (N) | **roniroblox102030**: Panda ×15, Dancing Dragon (R), Halloween White Ghost Dragon, Panda (R) |
+| 09:41 | **AliceAvokadi**: Electric Hornet ×2, Cattuccino, Bobageist ×2, Crimson Cape ×3, Robot ×2, Mummy Spider ×2, Abyssinian Cat, Beaver, Clumpty ×2, Granny Wolf ×2 | **Rawyoubro11**: Ride-A-Pet Potion |
+| 09:41 | **Adore_Pandaz**: Caramelgeist (M), Fennec Fox (M) | **Applceider**: Ride-A-Pet Potion |
+| 09:41 | **clalouetciedh**: Alicorn ×12 | **Rawyoubro11**: Ride-A-Pet Potion |
+| 09:41 | **clalouetciedh**: Dragonfly ×16 | **qO_Opli**: Ride-A-Pet Potion |
+| 09:41 | **Ethernaces**: Stray Cat Dragon ×16 | **poma5660**: Pet Handler Pro Certificate |
+| 09:41 | **awhbubblessss**: Ghostly Cat (M) | **xdlennonYT123**: Tree Decorating Animated Sticker, Mochi Meow Tumble Animated Sticker, Frostbite Bear and Cub Animated Sticker |
+| 09:41 | **dimetacrine**: Strawberry Penguin (NFR), Ride-A-Pet Potion ×2, Count Slothula, Pupcake, Unfortunate Eyelashes | **P1nkteeth**: Irish Water Spaniel (NFR) |
+| 09:41 | **ezzzzyy3**: Gemstone Egg | **Hellobyeheyhihello**: Retired Egg ×18 |
+| 09:41 | **AlastorDanger**: Christmas Pudding House | **typol1235y6**: Ride-A-Pet Potion |
+| 09:41 | **Babielily1**: Rain Cloud Hat, Fly-A-Pet Potion, Ride-A-Pet Potion | **zncxxq**: 2022 Birthday Cupcake Shoes |
+| 09:41 | **ZF_adoptme123**: Snow Monkey (MFR), Sheeeeep, Sugar Glider (FR) | **Lingling111206**: Candyfloss Chick (NFR) |
+| 09:41 | **Aurodestrunza**: Peppermint Penguin (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **memorialbells**: 2022 Birthday Party Hat, Unicorn Horn |
+| 09:41 | **soondooboo2020**: Cow (FR), Goose, Alpaca (R) | **cemeteryG4tessz**: Cryptid (FR) |
+| 09:41 | **Inganta07**: Fly-A-Pet Potion | **AimWhaitOmg2**: Cerberus (R) |
+| 09:41 | **St4r1890241**: Burger Bear, Admin Abuse Egg ×2 | **shenshenzzz14**: Christmas Future Egg |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
