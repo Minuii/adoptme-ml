@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 19:16 UTC by the scrape workflow._
+_Updated 2026-11-26 19:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 19:16 UTC by the scrape workflow._
 | amvgg | 16 | 41,055 | 2026-11-26T19:15 |
 | elve | 16 | 8,582 | 2026-11-26T19:15 |
 
-## AMVGG completed trades: 69,035 total
+## AMVGG completed trades: 69,102 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 3,065 |
+| 2026-11-26 | 3,132 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 19:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:15 | **nvissac**: Mule (N) | **baconandchicken007**: Copycat |
-| 19:15 | **Influuu05**: Flamingo, Elephant | **Gr3vess**: Cow (FR) |
-| 19:06 | **sleepy_s0ren**: Dalmatian ×2, Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon (R), Cow, Mermicorn (FR), Strawberry Penguin, Border Collie | **kjm_5741**: Giraffe (FR) |
-| 19:06 | **Queen_CK26**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **fqlfyfujdyj**: Lava Dragon (FR) |
-| 19:06 | **Kotosonoha**: Jekyll Hydra (R), Caterpillar (FR), French Bulldog (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Freep2603**: Strawberry Shortcake Bat Dragon (FR) |
-| 19:06 | **LuxuryxDxrk**: Hot Doggo (FR), Hot Doggo (R) | **TrapitaAlexa**: Red Dutch Guinea Pig (MFR) |
-| 19:06 | **AMINO4KA7U**: Polar Bear (NR) | **ploB_666**: Cuddly Candle (R), Great Pyrenees (R), Penguin (NR), Ground Sloth (NFR), Axolotl (R), Dolphin (NR), Ghost (NR), Sunglider (R), Zodiac Minion Chick (R), Alicorn (R), Bunny (NR), Cocoadile (NR), Chocolate Dutch Guinea Pig, Skele-Rex (R) |
-| 19:06 | **M4n0n_02**: Christmas Pudding Pup (MFR), Tasmanian Devil (MR) | **SCARLETTSPUPS**: Vampire Dragon (MFR) |
-| 19:06 | **Inv_Soooya**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion | **merkyrisito**: Cow (FR) |
-| 19:06 | **awhhzaii**: Bush Elephant (MFR), Pomeranian (MFR) | **angx1ilicxclounds**: Cow (MFR) |
-| 19:06 | **Pablo_pro6752**: Christmas Future Egg ×3, Hotdog Stand | **Vikakelera**: Fly-A-Pet Potion |
-| 19:06 | **valentinaajuwu**: Chihuahua ×18 | **Richard20125**: Ride-A-Pet Potion ×6 |
-| 19:06 | **svqh12**: Sheeeeep (NR) ×2, Sheeeeep (NFR) | **Void88881**: Arctic Reindeer (FR) |
-| 19:06 | **beto17521**: Chocolate Chip Bat Dragon (FR) ×2, Spring Bunny Feet | **xKawaiicatgamerJenni**: Strawberry Shortcake Bat Dragon (FR) ×2 |
-| 19:06 | **VioletLynxie**: Copycat (MFR) | **Sara_Sope1**: Strawberry Shortcake Bat Dragon (FR), Unicorn (NFR) |
+| 19:25 | **meows_370**: Dragonfruit Fox | **Dasha1_Star**: Ride-A-Pet Potion ×2 |
+| 19:25 | **Presentformery**: Panda (R) | **mellqxxrb**: Ride-A-Pet Potion |
+| 19:25 | **cocob4by**: Strawberry Shortcake Bat Dragon (FR), Dango Penguins (R), Dango Penguins, Ride-A-Pet Potion | **gxvupx**: Cow (FR), Turtle (R), Kangaroo (FR) |
+| 19:25 | **epicpulsechaos2024**: Ancient Dragon ×10 | **dia40r**: Ride-A-Pet Potion |
+| 19:25 | **farmer_post1**: Santa Hat | **miraahuntrix**: Ride-A-Pet Potion ×6 |
+| 19:25 | **tr4d3s_adoptnew**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×6 | **gavinmrgoon**: Frost Unicorn (R) |
+| 19:25 | **artem_rbz18**: Christmas Pudding Pup (NR), Fly-A-Pet Potion | **Hankcam05**: Cabbit |
+| 19:25 | **GERDA_6O6**: Ride-A-Pet Potion ×2, Red Squirrel (R) | **chocomallowdrizzle**: Latte Kitsune |
+| 19:25 | **hhhauntedddd**: Tarantula (N), Weevil (N), Lunar Ox (N), Grinmoire (N) | **BROIMBROKEAHHHHH**: Chocolate Dutch Guinea Pig |
+| 19:25 | **caby_vr**: Arctic Dusk Dragon (FR) | **Candron6**: Ride-A-Pet Potion ×5 |
+| 19:25 | **perit4733**: Ride-A-Pet Potion | **Fayba42123**: Classic Trade Stand ×2 |
+| 19:25 | **werreriss0**: Christmas Pudding Pup (R) ×2, Sour Glider, Pomeranian | **Kir4kaa**: Christmas Pudding Pup ×2, Ride-A-Pet Potion |
+| 19:25 | **iimarai3**: Owl (FR), Mini Pig (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×10 | **2Edensh**: Frost Dragon (FR) |
+| 19:25 | **summerdounut123**: Hopbop (MR), Tasmanian Tiger (M) | **roblox_user_2357474083**: Ride-A-Pet Potion ×3 |
+| 19:25 | **mrxic2**: Chihuahua (MR), Christmas Pudding Pup, Fly-A-Pet Potion | **pdscatalex**: Candicorn (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
