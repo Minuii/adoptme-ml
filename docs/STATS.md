@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 08:16 UTC by the scrape workflow._
+_Updated 2026-11-26 08:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 08:16 UTC by the scrape workflow._
 | amvgg | 16 | 30,721 | 2026-11-26T08:15 |
 | elve | 16 | 6,299 | 2026-11-26T08:15 |
 
-## AMVGG completed trades: 66,884 total
+## AMVGG completed trades: 66,918 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 914 |
+| 2026-11-26 | 948 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 08:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:11 | **krxma3**: Flaming Fox (MR), Dragonfruit Fox (MR), Stray Cat Dragon (MF), Chihuahua (MR), Sea Angel (M) | **opialisticx**: Strawberry Tortle (NFR) |
-| 08:11 | **NotSweatyOnion**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Egorgoric13**: Tuxedo Cat (N) |
-| 08:11 | **AM4Z1NG78**: Shark Puppy (FR), Santa Hat | **Win234323**: Flamingo (FR) |
-| 08:11 | **DragonjJDusta107130**: Goose (R) | **ammadOwO2**: Fly-A-Pet Potion ×17 |
-| 08:11 | **CanYouLearnToRead**: Chocolate Chip Bat Dragon (NFR) | **Liza10kis**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Caterpillar (FR), Royal Palace Spaniel (MR), Spring Bunny Hood, Ride-A-Pet Potion |
-| 08:11 | **thegiddys14**: Evil Unicorn (NR) | **4evxer**: Evil Unicorn (NFR) |
-| 08:11 | **powerlee01**: Haetae (FR) | **4evxer**: Lion Cub (MFR) |
-| 08:11 | **zwhkyx**: Parrot (FR) | **BlueSteel_40**: Ride-A-Pet Potion, Chocolate Chip Bat Dragon (NFR) |
-| 08:11 | **Catzini_1**: Giraffe (FR), Albino Monkey (R), Papa Moose, Moose Calf (FR) | **marblezlost**: Strawberry Shortcake Bat Dragon (MFR) |
-| 08:11 | **naebalova1000_7**: Blue Whale, Huntsman Robin, Angus Calf, Cassowary, Japanese Snow Fairy, Frozen Penguin (N), Swordfish (N), Ms. Muffet (N), Princess Mare (N) | **ArtemSer2008**: Ride-A-Pet Potion |
-| 08:11 | **DellaxKenneth**: Gecko (MFR) | **wassupwithu**: Ride-A-Pet Potion ×9 |
-| 08:11 | **Gu1neaP1g_3**: Ride-A-Pet Potion ×8, Banana Hat, Butter Knife | **nibrian15**: Kitty Bat (MR) |
-| 08:06 | **Unknown_Entity1213**: Goose (R), Goose, Ride-A-Pet Potion ×2 | **sakotfzg**: Strawberry Shortcake Bat Dragon (FR) |
-| 08:06 | **Boypizza132**: Cow (FR), Persian Cat (M) | **ggyyu77y7y2**: Kangaroo (NFR) |
-| 08:06 | **aloiv484**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **ali_dekutodoroki**: Dragonfruit Fox, Pupcake, Lava Wolf |
+| 08:25 | **Huge_Soda**: Tuxedo Cat (MFR), Ancient Dragon (MFR), Leopard Shark (N) | **adoptmegolden93**: Cabbit |
+| 08:25 | **deadpo0l293**: Fly-A-Pet Potion | **nzjtla**: Ride-A-Pet Potion, Crystal Egg ×15 |
+| 08:25 | **Shailyn09**: Ride-A-Pet Potion | **nzjtla**: Crystal Egg ×17 |
+| 08:25 | **melodyardy**: Ride-A-Pet Potion ×2 | **EVGPOP90**: Fly-A-Pet Potion |
+| 08:25 | **Lola_Wayne0**: Thunderfisher (M) ×2 | **FRIK_RR**: Ride-A-Pet Potion ×2 |
+| 08:25 | **ccdbgt1**: Fly-A-Pet Potion ×2 | **EGOATHENOOB**: Polar Bear |
+| 08:25 | **Adore_Pandaz**: Australian Kelpie (N), Emu (N) | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 08:25 | **Urfavorite1225**: Pain au Chat, Snowy Mammoth, Blue Jay, Angus Calf, Tan Chow-Chow, Komodo Dragon, DJ Snooze, Shetland Pony Dark Brown | **Panci_Terbang33**: Ride-A-Pet Potion |
+| 08:25 | **mxh_ii2347**: Stitches (M), Jacobin Pigeon (M), Shoebill (M) | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 08:25 | **snqwqrw**: Chocolate Dutch Guinea Pig, Pupcicle, Angus Calf (N) | **itzz_Keys**: Fly-A-Pet Potion |
+| 08:25 | **SoImSoda**: Frostbite Bear (MFR), Werewolf (NFR), Crocodile (NR), Papa Moose (N) | **cvrsedlovve**: Parrot (NFR) |
+| 08:25 | **TheyLov3Kristy**: Aurora Fox, Count Slothula (N) | **Popa67742**: Haetyphoon |
+| 08:25 | **Panci_Terbang33**: Strawberry Penguin | **Krashiha_Karolina26**: Horse (NR), Ride-A-Pet Potion ×4 |
+| 08:25 | **Ali_12xx1**: Chocolate Dutch Guinea Pig, Pain au Chat, Armadillo (R), Diamond Griffin | **FRIK_RR**: Ride-A-Pet Potion ×2 |
+| 08:25 | **zianagirls**: Ride-A-Pet Potion ×4 | **Smookgans**: Copycat |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
