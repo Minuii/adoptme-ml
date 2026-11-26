@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 03:16 UTC by the scrape workflow._
+_Updated 2026-11-26 03:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 03:16 UTC by the scrape workflow._
 | amvgg | 16 | 26,095 | 2026-11-26T03:15 |
 | elve | 16 | 5,399 | 2026-11-26T03:15 |
 
-## AMVGG completed trades: 66,373 total
+## AMVGG completed trades: 66,380 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 403 |
+| 2026-11-26 | 410 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,13 @@ _Updated 2026-11-26 03:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:20 | **Penguinis_icey**: Shadow Dragon (FR) | **pedrobeteir0**: Strawberry Shortcake Bat Dragon (MFR), Dragonfruit Fox (MFR), Chocolate Chip Bat Dragon (FR), Unicorn Horn, Admin Vision Glasses, Pet Handler Pro Certificate, Ride-A-Pet Potion, Golden Clam |
+| 03:20 | **lacedribbns**: Turtle (FR), Ride-A-Pet Potion | **4f1f4h_1087**: Mermicorn (FR) |
+| 03:20 | **iiWxllowCloudz**: Glacier Kitsune (NFR), Chocolate Dutch Guinea Pig | **Chadreedpalmares07**: Copycat (NR) |
+| 03:20 | **killerman_xd1**: Dragonfly ×12 | **mochiloV7**: Ride-A-Pet Potion |
+| 03:20 | **Anesxz209**: Chocolate Dutch Guinea Pig (NR), Cupid Dragon (FR), Ride-A-Pet Potion ×2, Black Moon Bear (NFR), Bubblegeist | **holdsheck008**: Kangaroo (FR) |
+| 03:20 | **nnseoi**: Field Mouse (NFR) | **NOBIIIEEE11**: Unicorn Horn |
+| 03:20 | **is_Hector**: Siamese Cat (R), Ride-A-Pet Potion ×7, Magic House Door | **sof_gygy**: Fairy Bat Dragon (FR) |
 | 03:15 | **doyourmathworks**: Vanilla Penguin | **melynagamer3**: Ride-A-Pet Potion |
 | 03:15 | **laganxx_vd**: Happy Duckling (NFR) | **KittyCatSa21**: Pupcicle (N) |
 | 03:11 | **KuyenTime**: Turtle (FR), Werewolf (FR) | **AsianIceCold**: Matcha Cat (NFR), Shrew (R) |
@@ -47,13 +54,6 @@ _Updated 2026-11-26 03:16 UTC by the scrape workflow._
 | 03:11 | **cxar_25**: Giraffe (FR), Owl (FR), Evil Unicorn (FR) ×3 | **Adoptmetradingalt82**: Hedgehog (MFR) |
 | 03:11 | **wwastedcurrency**: Skelicorn (M), Ehecatl (N), Persian Cat (N), Ribbon Seal (N), Mummy Spider (M), Frogspawn (NR), Caramelgeist (N), Bandicoot (N), Ocelot (N), Orangutan (N), Princess Mare (M), Parakeet (N) | **MoMtobias**: Ride-A-Pet Potion ×2 |
 | 03:11 | **chipy8012**: Ride-A-Pet Potion, Pupcicle | **taburetkablo**: Eggnog Dog (N) |
-| 03:11 | **ycvent**: Siamese Cat (NFR), Puffer Fish (MFR), Elephant (NFR), Albino Monkey (NFR) | **4evxer**: Siamese Cat (MFR) |
-| 03:11 | **Chester_Rblx**: Kangaroo (FR), Three Blind Mice | **i_am4Arna**: Candicorn (FR) |
-| 03:11 | **carolzaothecreator**: Chihuahua | **jaundita23**: Police Cap |
-| 03:11 | **terrylonsoyjerry**: Blazing Lion (FR), Goose (FR), Matcha Cat (NFR), Peppermint Penguin (R), Frostbite Bear (R), 2022 Birthday Party Hat, Giraffe Backpack, Unicorn Horn, Giraffe Hat, Halo, Matcha Cat ×3 | **Lpoopbxhe**: Strawberry Shortcake Bat Dragon (MFR), Ride-A-Pet Potion ×2 |
-| 03:11 | **e2kk_121003**: Nessie | **milanessaa_conpure**: Alley Cat, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 03:11 | **amvggbunni_won**: Bunny Swirl (N) | **wonheexiie**: Bunny Swirl (R) ×2, Sweetheart Rat (N) |
-| 03:06 | **AutoTradeCommission**: Giraffe (FR), Fly-A-Pet Potion | **ruralurbanmigration**: Matcha Cat (MFR), Emperor Gorilla (MFR), Zombie Wolf (MFR) ×2, Frost Phoenix (MFR), Tiny Wings |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
