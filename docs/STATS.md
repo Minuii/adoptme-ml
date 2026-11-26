@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 10:25 UTC by the scrape workflow._
+_Updated 2026-11-26 10:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 10:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 32,438 | 2026-11-26T10:15 |
-| elve | 16 | 6,630 | 2026-11-26T10:15 |
+| amvgg | 16 | 32,651 | 2026-11-26T10:30 |
+| elve | 16 | 6,683 | 2026-11-26T10:31 |
 
-## AMVGG completed trades: 67,144 total
+## AMVGG completed trades: 67,148 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 1,174 |
+| 2026-11-26 | 1,178 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,10 @@ _Updated 2026-11-26 10:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:30 | **leidydamelike**: Parrot (FR), Shark Puppy (NFR), Puffin (NFR), Turtle (FR), Munchkin Cat (R), Ghostly Cat (MR) | **Violet20191dd**: Frost Dragon (FR) |
+| 10:30 | **Krisps16**: Parrot (R), Fairy Bat Dragon (FR) ×3, Arctic Fox, Sheeeeep (R), Ballet Swan | **Leah_newaccnt**: Frost Dragon (FR) |
+| 10:30 | **vvaryaa58AaS**: Kangaroo (R) | **Krisps16**: Ice Cream Hermit Crab (N), Latte Kitsune (N) |
+| 10:30 | **fujiappleluvzz**: Ride-A-Pet Potion ×8, Cattuccino | **AliceAvokadi**: Sea Turtle (MFR), Jester Dragon |
 | 10:25 | **Unknown_Entity1213**: Evil Unicorn (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Mini Pig (FR), Cow (FR), Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×3 | **Dimantelu12**: Parrot (NFR) |
 | 10:25 | **andrii911706**: Hedgehog (FR), Dalmatian (FR), Ride-A-Pet Potion | **xxxxxmbin**: Owl (FR) |
 | 10:25 | **Angelika_13V**: Kangaroo (NFR), Kangaroo (FR) ×2, Fly-A-Pet Potion ×5 | **Leqn_20**: Ring-Tailed Lemur (MFR) |
@@ -50,10 +54,6 @@ _Updated 2026-11-26 10:25 UTC by the scrape workflow._
 | 10:25 | **margini_mini**: Fly-A-Pet Potion ×4 | **ijffjgi**: Arctic Fox (R) |
 | 10:25 | **TH_lox0**: Chocolate Chip Bat Dragon (FR), Siamese Cat (R), Pig (R), Classic Trade Stand | **Semisunaki**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Fly-A-Pet Potion ×4, Ride-A-Pet Potion, Pet Handler Pro Certificate |
 | 10:25 | **arseniylolol**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion | **kecoze**: Fairy Bat Dragon (FR) |
-| 10:15 | **simiiseverytimesad**: Cryptid (FR) | **PugpunterZev**: Dalmatian (FR), Candyfloss Chick (FR) |
-| 10:15 | **josuebogarr**: Ride-A-Pet Potion | **Nanax_8907**: Paint Sealer ×12 |
-| 10:15 | **GVMF_757**: Midnight Dragon (FR) | **joehn_do9**: Jester Dragon (FR) |
-| 10:15 | **richbaddie2282**: Hare | **adriel_24k**: Glormy Hound (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
