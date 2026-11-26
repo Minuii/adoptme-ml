@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 00:25 UTC by the scrape workflow._
+_Updated 2026-11-26 00:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 00:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 23,039 | 2026-11-26T00:15 |
-| elve | 16 | 4,863 | 2026-11-26T00:15 |
+| amvgg | 16 | 23,285 | 2026-11-26T00:30 |
+| elve | 16 | 4,920 | 2026-11-26T00:31 |
 
-## AMVGG completed trades: 66,036 total
+## AMVGG completed trades: 66,037 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 66 |
+| 2026-11-26 | 67 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,7 @@ _Updated 2026-11-26 00:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:30 | **TheEerthh**: Unicorn (NFR) | **CEMEH_HOCKOB**: Pain au Chat ×10, Pupcicle |
 | 00:25 | **soapybunnie_0**: 2022 Birthday Party Hat | **KanskjeMatilde**: 2022 Birthday Confetti Cannon, Tiny Wings, Fly-A-Pet Potion |
 | 00:25 | **Dinkarrt**: Ride-A-Pet Potion | **chapa4ka579**: Gecko ×3 |
 | 00:25 | **Berryavenueslag**: Dango Penguins (MFR), Mini Pig (FR) | **mateofelisunu**: Cryptid (FR) |
@@ -53,7 +54,6 @@ _Updated 2026-11-26 00:25 UTC by the scrape workflow._
 | 00:25 | **DuckyMuffinz**: Solar Burst Mega Neon Paint | **hopia00**: Paint Sealer ×15 |
 | 00:25 | **chapa4ka579**: Gecko ×3 | **iiskye_0**: Ride-A-Pet Potion |
 | 00:25 | **garlicbread4537**: Ride-A-Pet Potion, Shark Swimcap | **fluffyunicorns_932**: Banana Hat |
-| 00:25 | **XGiveMeUrFoodX**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Pig (FR), Swan, Kitty Biscuit | **iconmillz**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
