@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 18:41 UTC by the scrape workflow._
+_Updated 2026-11-26 18:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 18:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 40,282 | 2026-11-26T18:30 |
-| elve | 16 | 8,416 | 2026-11-26T18:31 |
+| amvgg | 16 | 40,538 | 2026-11-26T18:45 |
+| elve | 16 | 8,493 | 2026-11-26T18:46 |
 
-## AMVGG completed trades: 68,900 total
+## AMVGG completed trades: 68,937 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,930 |
+| 2026-11-26 | 2,967 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 18:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:36 | **vivicacke17**: Ram | **RobloxMea2009**: Reindeer (R) |
-| 18:36 | **Omar2002548**: Copycat ×4, Ride-A-Pet Potion | **vrqaxs**: Copycat (N) |
-| 18:36 | **cesarismykingy**: Munchkin Cat (MFR), Candicorn (MFR), Shark Puppy (FR), Drake (NFR) | **milotaikgamer**: Fairy Bat Dragon (MFR) |
-| 18:36 | **Cutecupshakes**: Ride-A-Pet Potion ×6 | **Krashiha_Karolina26**: Strawberry Penguin |
-| 18:36 | **Robloxiana_xxx2011**: Green Amazon (MFR) | **Aslie_17**: Ride-A-Pet Potion ×4 |
-| 18:36 | **noor_san0**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **cuttIef1sh**: Flash Weasel |
-| 18:36 | **4URANZ3**: Strawberry Shortcake Bat Dragon (FR), Spring Bunny Hood | **Snoxs545**: Cow (R), Albino Monkey (FR), Pig (R), Shark Puppy, Frost Fury (R) |
-| 18:36 | **Cookie_Berry4234**: Summer Walrus (MFR) | **maxymiteolindo78**: Hamster (MFR) |
-| 18:36 | **INZD7**: Meerkat (R), Lava Dragon (FR), Ghost Chick (F) | **sakotfzg**: Cozy Cabin |
-| 18:36 | **roblox_user_8008153919**: 2022 Birthday Party Hat | **nona200986**: Siamese Cat (FR) |
-| 18:36 | **T0LMU**: Onza, Chihuahua, Tanuki, Therapy Dog, Kirin, Kelp Crewmate, Rhino Beetle | **patya57893**: Puffer Fish |
-| 18:36 | **Swimguwin**: Ride-A-Pet Potion | **nzjtla**: Crystal Egg ×18 |
-| 18:36 | **EcommonSense**: Strawberry Shortcake Bat Dragon (FR) ×2, Ride-A-Pet Potion ×2 | **xerkatra**: African Wild Dog (FR) |
-| 18:36 | **Isa_anto58**: Cow (R) | **i07jdy**: Jekyll Hydra (FR) |
-| 18:36 | **cannotaffordme**: Giant Panda (FR) | **Bi_WaterBuffalo**: Dango Penguins (MFR), Rainbow Maker, Chef Gorilla (MFR), Blue Ringed Octopus (MFR) |
+| 18:45 | **SlL3NTHILL**: Evil Unicorn (FR) | **caxarok_ponosik52**: Blue Ringed Octopus (MR), Snowball Pet (MFR), Mini Schnauzer (MFR), Siamese Cat (R), Cow (FR), Ride-A-Pet Potion ×2 |
+| 18:45 | **ongitos_oficial**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion | **caby_vr**: Goose (FR) |
+| 18:45 | **Xx_lxmwXx**: Amami Rabbit (MFR) | **Omar2002548**: Bunny Swirl (MFR) |
+| 18:45 | **YTKA_StrayKids**: Ride-A-Pet Potion ×7 | **Banquitogamer025**: Frog (MFR) |
+| 18:45 | **footerch**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Anyawww07**: Dire Wolf (MR) |
+| 18:45 | **purifiedblessing**: Aurora Fox (R) | **sweetenmysoul**: Nessie |
+| 18:45 | **F0xNinja**: Great Pyrenees (MR) | **partypupuli**: Munchkin Cat (FR) |
+| 18:45 | **quesodrilo**: Siamese Cat (FR), Flamingo (R) | **KaiAvari**: Goat (NFR), Goat (R), Ride-A-Pet Potion |
+| 18:45 | **gaelapon2**: Pig | **AdoptMePlayer08709**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×2 |
+| 18:45 | **LoveMeganFromKatseye**: Chocolate Chip Bat Dragon (FR), Mini Pig (FR), Unicorn Horn | **ysaazik_0**: Blazing Lion (FR), Spring Bunny Hood, Fly-A-Pet Potion |
+| 18:45 | **LYIZA_1976**: Fly-A-Pet Potion ×17 | **caby_vr**: Cow (FR) |
+| 18:45 | **yuag12345**: Hedgehog (R), Arctic Reindeer (FR), Arctic Fox (N), Christmas Pudding Pup (N), Goose, Munchkin Cat (R), Ride-A-Pet Potion | **Frdvhev**: Frost Dragon (FR) |
+| 18:45 | **raadmlayah**: Parrot (NFR) | **1LYFIREX0**: Fairy Bat Dragon (MFR), Dalmatian (FR) |
+| 18:45 | **noor_san0**: Albatross, Wyvern, Australian Kelpie, Starmite, Hydra, St Bernard, Shiba Inu | **Zahnreus**: Ride-A-Pet Potion |
+| 18:45 | **alis777589**: Fly-A-Pet Potion ×2, Mini Pig (FR), Meerkat (FR), Strawberry Penguin (R) | **simplyxarv**: Fairy Bat Dragon (FR), Sugar Glider (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
