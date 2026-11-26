@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 17:55 UTC by the scrape workflow._
+_Updated 2026-11-26 18:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 17:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 39,491 | 2026-11-26T17:45 |
-| elve | 16 | 8,237 | 2026-11-26T17:46 |
+| amvgg | 16 | 39,777 | 2026-11-26T18:00 |
+| elve | 16 | 8,306 | 2026-11-26T18:01 |
 
-## AMVGG completed trades: 68,711 total
+## AMVGG completed trades: 68,736 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,741 |
+| 2026-11-26 | 2,766 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 17:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:55 | **PRODAZA_STARPETS**: Rainbow Maker, Chocolate Chip Bat Dragon (FR) | **Anastasika_agent**: Hedgehog (FR), Arctic Dusk Dragon (FR), 2022 Birthday Confetti Cannon |
-| 17:55 | **luvyerh**: Tiny Wings | **Tena_IsPeakfr**: Pig (FR) |
-| 17:55 | **f0rgettablegirl**: Sugar Glider (MFR) | **Dahom_Bili**: Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR) |
-| 17:55 | **Lotteisking**: Gemstone Egg, Chihuahua | **Iamgroot2044**: Ride-A-Pet Potion |
-| 17:55 | **Ryou_senpai05**: Matcha Cat | **ph_ianjhie3**: Ride-A-Pet Potion ×7 |
-| 17:55 | **iamnoonetobehere**: 2D Doggy | **ph_ianjhie3**: Ride-A-Pet Potion |
-| 17:55 | **AJR_ERR0R**: Dango Penguins | **seek0300**: Count Slothula (N) |
-| 17:55 | **xXhawa_xX**: Mini Pig (NFR), 2022 Birthday Cake, Arctic Fox, Hare (R), Fly-A-Pet Potion | **2Edensh**: African Wild Dog (FR) |
-| 17:55 | **Penutbutter1567**: Mini Schnauzer (NR), Ketchup and Mustard Jetpack | **foramvgg_elve**: Unicorn (N), Ride-A-Pet Potion ×2 |
-| 17:55 | **Piska_sanLoshara666**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **xerkatra**: Arctic Reindeer (FR) |
-| 17:55 | **b3autifulpoisxn**: Copycat (NFR) ×2, Beluga Whale (MFR) | **Eldrian06**: Ice Cream Hermit Crab (MFR) |
-| 17:55 | **Ashley_q019**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Ilovefoodgimmefud**: Dango Penguins |
-| 17:55 | **Nanax_8907**: Puffer Fish (MFR), Candy Cane Snail (M), Kappakid (MR), Malaysian Tapir (MR), Elasmosaurus (M), Tanuki (M), Puptune (M), Gecko (M), Sweetheart Rat (MFR) | **abdoosaad**: Rainbow Maker |
-| 17:55 | **Soaring_Art**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2, Pupcicle, Count Slothula, Gecko, Kitty Biscuit, Snow Cone Stand, Thunderfisher, Pandaguin Glooptodog (N) | **grlfri7nd**: Hippo (MFR) |
-| 17:55 | **BananaSzymonKing**: Fairy Bat Dragon (FR), Fly-A-Pet Potion | **Croquinou_Lover**: Alpaca |
+| 18:00 | **ConcaveFixture5065**: Haetyphoon (FR), Canadian Goose (MFR), Sakura Spirit (FR), Butter Knife | **starcode_slowww**: Turtle (R) |
+| 18:00 | **tdhdhshjeh**: Shiver Wolf ×4 | **cliuic**: Fly-A-Pet Potion |
+| 18:00 | **Anastasika_agent**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **anihao17**: Strawberry Shortcake Bat Dragon (FR) |
+| 18:00 | **ifrit_3**: Ride-A-Pet Potion | **Its_A3sth3tic**: Fire Foal (M) |
+| 18:00 | **ifrit_3**: Ride-A-Pet Potion | **Ykcharlesduh**: Cherub Chipmunk (M) |
+| 18:00 | **martins10530**: Fly-A-Pet Potion | **Termovalorizzatore45**: Kitty Biscuit ×2 |
+| 18:00 | **25k_Robloxgamer**: Sushi Penguin (MFR), Spring Bunny Hood, Fly-A-Pet Potion | **Edgar_vega0**: Ram (MFR) |
+| 18:00 | **prueba22337**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Santa Hat | **abdoosaad**: African Wild Dog (FR) |
+| 18:00 | **meowieboogie**: Ride-A-Pet Potion, Peppermint Penguin (R) | **iamnoonetobehere**: Peppermint Penguin (FR) |
+| 18:00 | **rycnqdq**: Great Pyrenees (MFR), Chocolate Dutch Guinea Pig (NR) | **kay1igh**: Binturong (MFR) |
+| 18:00 | **lmao_fyp**: Banana Hat | **whois_mal**: Fly-A-Pet Potion |
+| 18:00 | **BLACKGLITTERKITTY**: Pancake Stack ×2, Ride-A-Pet Potion | **o8ayn**: Ice Cream Cone Hat |
+| 18:00 | **Chiikaaae**: Munchkin Cat, Owlbear, Red Dutch Guinea Pig (R), Alley Cat, Snow Monkey, Bunny Swirl, Spring Bunny Hood, Bready Necklace, Cotton Candy Hat, Butter Knife, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **wovyin**: Goose |
+| 18:00 | **Xwebbr**: Pupcicle ×2 | **vincelft0**: Harp Seal |
+| 18:00 | **Chikity19**: Lavender Dragon (MFR) | **lqcedluvinq**: Reindeer (MFR), Brown Springer Spaniel (MR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
