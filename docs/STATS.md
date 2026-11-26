@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 02:46 UTC by the scrape workflow._
+_Updated 2026-11-26 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 02:46 UTC by the scrape workflow._
 | amvgg | 16 | 25,598 | 2026-11-26T02:45 |
 | elve | 16 | 5,313 | 2026-11-26T02:46 |
 
-## AMVGG completed trades: 66,321 total
+## AMVGG completed trades: 66,334 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 351 |
+| 2026-11-26 | 364 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 02:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:55 | **yoongi_mrrymi**: Purrowl ×2 | **nabhatra**: Alicorn ×2 |
+| 02:55 | **Cutecupshakes**: Crystal Egg ×4 | **nabhatra**: Gingerbread Hare |
+| 02:55 | **Cutecupshakes**: Crystal Egg ×4 | **nabhatra**: Gingerbread Hare |
+| 02:55 | **RedQueen_RedBlood12**: Fairytale Egg ×18 | **YAJAIRA289**: Three Blind Mice |
+| 02:55 | **Rbd_JP**: Sugar Glider (MFR) | **oc6eanblvd**: Peppermint Penguin (FR), Cabbit (NFR), Ring-Tailed Lemur (MFR), Alley Cat (MFR), 2022 Birthday Cake, Unicorn Horn, Angel Wings, Toaster Hat |
+| 02:55 | **Rbd_JP**: Shadow Dragon (FR), Flamingo (FR), Haetae (NFR), Haetae, Frost Dragon (FR), 2022 Birthday Cupcake Shoes, Cow ×2, Fairy Bat Dragon (FR) | **lba_fofe**: Haetae (MFR) |
+| 02:55 | **Nooby139543**: Zebra (N) | **Meko0o_3**: Retired Egg ×6 |
+| 02:55 | **TheGodx555**: Unicorn ×7 | **viki_423**: Copycat |
+| 02:55 | **DD_ominika**: Ghostly Cat (MR), Ghost (MR), Ride-A-Pet Potion | **viki_423**: Toaster Hat |
+| 02:55 | **cutestbrunettes**: Capybara (MFR), Ranger Beaver (MR) | **cazador_deitems8**: Chocolate Dutch Guinea Pig (MFR) |
+| 02:55 | **dameslapsosbflfndk**: Cow (FR), Peppermint Penguin (FR), Pig (R) | **Hellokitty1244522**: Arctic Reindeer (FR) |
+| 02:55 | **xxjohnjokexx**: Pink Cat (NFR) | **hwlloaghaj**: Sugar Glider (FR) |
+| 02:55 | **CATNOIR678901**: Chimera (MR) | **Adiell158**: Haetyphoon (FR) |
 | 02:45 | **ADMTRADING72**: Albino Monkey (FR) ×3, Albino Monkey (R) | **wjredmind**: Lion (R) ×4, Lion |
 | 02:45 | **smartes1230**: Siamese Cat | **itsme_claire000**: Crocodile (R), Golden Albatross (MR) |
-| 02:45 | **TwistedK1tty**: African Wild Dog (FR), Unicorn Horn, Turtle (FR), Flamingo (FR), Fly-A-Pet Potion ×2, Easter Egg Stroller | **abdoosaad**: Owl (FR) |
-| 02:45 | **mawifa123**: Crystal Egg ×18 | **magnethoon**: Ride-A-Pet Potion |
-| 02:45 | **J1nxed_Cr0w**: Pet Handler Pro Certificate | **NaLuJoa2**: Chocolate Dutch Guinea Pig |
-| 02:45 | **anxi15**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 02:45 | **C4K3YK1TTEN**: Tiny Wings | **Shailyn09**: Santa Hat, Santa's Bow, Unicorn, Pomeranian (M), Ride-A-Pet Potion |
-| 02:45 | **Panci_Terbang33**: Hyena (R) | **superblackboot**: Polar Bear |
-| 02:45 | **booseoks0on**: Flower Beret, Corndog Mustache | **AcuteRasberry**: Bready Necklace |
-| 02:45 | **kayzilea**: Peppermint Penguin (MFR), Parrot (NFR) | **jailbreak_tystar**: Dalmatian (MFR) |
-| 02:45 | **ayeeeAva**: Lamb (MFR) | **Auds191102**: Corn Doggo (MFR) |
-| 02:45 | **BhaabieeRaaii**: Crow (MFR), Haetae (MFR) ×2, Tri-horned Treehopper (M), Blue Dog (MFR) ×2, Strawberry Cupcake Shoes ×2, Rainbow Maker ×2, Giraffe Backpack ×2, Strawberry Penguin (MFR), Tio De Nadal (NFR), Cabbit (NR) ×2, Elephant (NFR), Munchkin Cat (MR) | **KeimoKaiAlr**: Bat Dragon (MFR) |
-| 02:45 | **xplr_165**: Siamese Cat (FR), Chocolate Chip Bat Dragon (FR), Tiny Wings | **cunlainy**: Goose (FR) ×2, 2022 Birthday Party Hat, Ride-A-Pet Potion ×5 |
-| 02:45 | **violencesoul**: Goose (FR), Goose (R) ×2, Goose ×2, Candyfloss Chick (FR), Cabbit (FR), Mini Pig (FR), Shark Puppy (NR), Strawberry Shortcake Bat Dragon (FR), Peppermint Penguin (FR), Ride-A-Pet Potion | **Roo_tookey123**: Giraffe (FR) |
-| 02:36 | **vallygiur**: Chocolate Chip Bat Dragon (NFR), Spring Bunny Hood, Rainbow Stroller | **catboyHL**: Crow (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
