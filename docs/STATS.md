@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 01:46 UTC by the scrape workflow._
+_Updated 2026-11-26 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 01:46 UTC by the scrape workflow._
 | amvgg | 16 | 24,584 | 2026-11-26T01:45 |
 | elve | 16 | 5,138 | 2026-11-26T01:46 |
 
-## AMVGG completed trades: 66,214 total
+## AMVGG completed trades: 66,234 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 244 |
+| 2026-11-26 | 264 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 01:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:45 | **llIRichie**: Copycat ×4, King Bee | **ii_aldrin20**: Kangaroo (FR) |
-| 01:45 | **Thisvlrd18**: Strawberry Shortcake Bat Dragon (MFR), Fallow Deer (MFR) | **1vkx3**: African Wild Dog (NFR) |
-| 01:45 | **F167Fd**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion | **Yumi_Rose8**: Fairy Bat Dragon (FR) |
-| 01:45 | **Proboygamer1085**: Goose (FR), Fly-A-Pet Potion ×10, Ride-A-Pet Potion ×4 | **Berryavenueslag**: Dango Penguins (MFR) |
-| 01:45 | **activexchxrli**: Crow (FR), Dragonfruit Fox | **curlsn1**: Balloon Unicorn (FR) |
-| 01:45 | **HRVZU8**: Haetae (FR), 2022 Birthday Cupcake Shoes | **RuthJavxn**: African Wild Dog (FR) |
-| 01:45 | **lilmlp**: African Wild Dog (FR), Candicorn (MFR), Unicorn Horn ×2, Winged Tiger | **RuthJavxn**: Mermicorn (MFR) |
-| 01:45 | **rU27na**: Bat Dragon (FR) | **RuthJavxn**: Strawberry Shortcake Bat Dragon (FR) ×11, Turtle (FR) ×2, Pet Handler Pro Certificate |
-| 01:45 | **dreamcatchers091**: Pupcicle, Waffle Wyrm (N) | **MarvelLeader662012**: Mighty Haetyphoon Animated Sticker |
-| 01:45 | **lennaypenny**: Elephant (R), Fly-A-Pet Potion, Spring Bunny Feet, Fishbone Badge, Golden Lettuce | **lol_whateverx67hsk81**: 2022 Birthday Cake |
-| 01:45 | **rafaelousthecrazy**: Cryptid (FR), Cow (R), Shark Puppy, Ride-A-Pet Potion ×2, Chihuahua | **Butterfly99036**: Crow (FR) |
-| 01:45 | **abdoosaad**: Fairy Bat Dragon (FR), Ride-A-Pet Potion | **Jelliyuew1**: Rice Cake Rabbit (MR), Dire Wolf (M), Little Lamb (M), Mecha R4BBIT (M), Red Fox (MFR), Gingerbread Hare (M), Eggnog Dog (M) |
-| 01:45 | **abdoosaad**: Siamese Cat (FR) | **fralexandra1**: Maine Coon (M), Burger Bear (MFR), Snowball Pug, Snowball Pug (M) |
-| 01:45 | **Yo_Wrap**: Hedgehog (FR), Jester Dragon (R), Jumpscare (MR), Ride-A-Pet Potion ×2 | **happymay12319**: Blazing Lion (FR) |
-| 01:45 | **HYP33RRRR**: Harp Seal, Coyote (MFR), Red Fox (NFR), Gingerbread Mouse (M), Penguin (MR), Otter | **abdoosaad**: Candicorn |
+| 01:55 | **Willowstorm_WaCa**: Frost Phoenix (N) | **BakaMaster39**: Pig |
+| 01:55 | **linaol0a20**: Reindeer (NFR), Dango Penguins, Sushi Penguin, Amami Rabbit, Moon Rabbit | **abdoosaad**: Arctic Fox (FR) |
+| 01:55 | **xaoichaanx**: Flaming Zebra (MFR) | **itsZoestream610**: Cupid Dragon (FR) |
+| 01:55 | **antilucqa**: Caterpillar | **cheehrbechieirbceb**: Albino Bat (MFR), Ride-A-Pet Potion |
+| 01:55 | **zephyrgoatt**: Ride-A-Pet Potion | **valentinoelpro_12**: Purrowl ×9 |
+| 01:55 | **sillva_042**: Crocodile (FR) | **Insano_V48**: Tuxedo Cat (NR), Elf Hat, Spring Bunny Hood, Chocolate Dutch Guinea Pig ×2 |
+| 01:51 | **epicpulsechaos2024**: Alicorn ×18 | **aloiv484**: Ride-A-Pet Potion ×2 |
+| 01:51 | **vertaocsi**: Toaster Hat | **fenekitfixismymain**: Tiny Wings |
+| 01:51 | **deprssdgirls**: Chocolate Chip Bat Dragon (FR), Alpaca (FR) ×2, 2022 Birthday Party Hat, Ring-Tailed Lemur (R), Ride-A-Pet Potion | **Andres_agent**: Balloon Unicorn (FR) |
+| 01:51 | **Ryukyu7336**: Tortoiseshell Guinea Pig, Ride-A-Pet Potion ×2, Pet Handler Pro Certificate, Butter Knife | **mk1qez**: 2022 Birthday Cake |
+| 01:51 | **zephyrgoatt**: Brown Springer Spaniel (MR), Puffer Fish (M), Butter Knife | **Lisfps123**: Mini Pig (FR) |
+| 01:51 | **pusheen_resya**: Goat | **xXLove_SunWukongXx**: Pet Handler Pro Certificate ×4 |
+| 01:51 | **xXLove_SunWukongXx**: Lion Cub (FR) | **Yumi_Rose8**: Pet Handler Pro Certificate ×4 |
+| 01:51 | **KidzPlayzYT20**: Evil Unicorn (FR), Turtle (FR), Kangaroo (FR) | **insahzz**: Strawberry Shortcake Bat Dragon (FR) ×2 |
+| 01:51 | **corney125**: Halloween White Skeleton Dog (N) | **Dinkarrt**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
