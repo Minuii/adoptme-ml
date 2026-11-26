@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 04:25 UTC by the scrape workflow._
+_Updated 2026-11-26 04:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 04:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 27,029 | 2026-11-26T04:15 |
-| elve | 16 | 5,575 | 2026-11-26T04:15 |
+| amvgg | 16 | 27,273 | 2026-11-26T04:30 |
+| elve | 16 | 5,618 | 2026-11-26T04:31 |
 
-## AMVGG completed trades: 66,513 total
+## AMVGG completed trades: 66,520 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 543 |
+| 2026-11-26 | 550 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,6 +39,13 @@ _Updated 2026-11-26 04:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 04:30 | **WillowpillowpiggyWL**: Ride-A-Pet Potion, Pupcicle ×3, S'mores Raccoon (R), Unfortunate Eyelashes | **whoscrxsz**: Unicorn Backpack |
+| 04:30 | **XxxZOEYBooxxX**: Fallow Deer | **yukichan_senpai123**: Polar Bear |
+| 04:30 | **prettymochiix**: Cow (NFR) ×2, Cupid Dragon (MFR) | **4evxer**: Cow (MFR) |
+| 04:30 | **kymm_23**: Crow (FR), Pet Handler Pro Certificate, Fly-A-Pet Potion, Ride-A-Pet Potion, Mr. Whiskerpips (M) | **emsstradingg**: Chocolate Chip Bat Dragon (NFR) |
+| 04:30 | **kaylamicmi**: Hot Doggo (FR), Kangaroo (NFR), Hot Doggo, Goose (FR), Goose, Cow, Werewolf (R), Elephant (R), Shark (NR), Groundhog, Copycat, Black Panther (N), Dango Penguins (R), Dango Penguins | **leruval**: Frost Dragon (FR) |
+| 04:30 | **amvlttlefawn**: Crystal Egg ×14 | **kittysbu1lds**: White Chef Hat, Cherry Blossom Flower Sticker ×3, Cherry Blossom Tree Sticker ×3 |
+| 04:30 | **Cat2_gir**: Corgi ×3, Paint Sealer, Crystal Egg | **C4K3YK1TTEN**: Corgi (N) |
 | 04:25 | **ariaeaea**: Moon Rabbit (N), Water Rabbit (NR) | **numbedsorrow**: Spring Bunny Hood |
 | 04:25 | **4URANZ3**: Sea Angel (MF), Shark Puppy (FR), Fly-A-Pet Potion ×2 | **j3nxy000**: Siamese Cat (R) |
 | 04:25 | **Foxnewstop1**: Cryptid (FR) | **PinkLemonades91**: Dalmatian (FR) |
@@ -47,13 +54,6 @@ _Updated 2026-11-26 04:25 UTC by the scrape workflow._
 | 04:20 | **Eclipzzd**: Ride-A-Pet Potion | **killerman_xd1**: Dragonfly ×13 |
 | 04:20 | **joakhidk129**: Owl (FR), Evil Unicorn (FR), Chocolate Chip Bat Dragon (FR), Turtle (FR), Fly-A-Pet Potion ×2 | **Susabaoen**: Hot Doggo (MFR) |
 | 04:20 | **Ami_Mixed**: Strawberry Shortcake Ducky, Stray Cat Dragon, Purrowl, Bubblegeist, Easter Bunny, Fire Stallion ×2, Sea Turtle, Corgi, Fanghorn Tortoise, Electric Hornet | **NEZZAandVANESSA**: Ride-A-Pet Potion |
-| 04:20 | **Ami_Mixed**: Pupcicle, Chihuahua | **http_melOwO**: Ride-A-Pet Potion |
-| 04:20 | **Ami_Mixed**: Blue Whale, Royal Fairytale Egg, Angus Bull, Bubblegeist, Purrowl, Diamond Dragon | **Dodgemyhooks**: Pupcicle |
-| 04:20 | **killerman_xd1**: Dragonfly ×12 | **Depondip**: Ride-A-Pet Potion |
-| 04:20 | **itmeaaa2321**: Ride-A-Pet Potion ×2, Unicorn | **misakoyr**: Spring Bunny Nose |
-| 04:20 | **kaitlyn_trades**: Retired Egg | **Vidaris_marie21**: Chestnut Glyptodon |
-| 04:20 | **blake_shortie**: Tan Chow-Chow ×4, Binturong, Green Amazon | **Cdg91400**: Tan Chow-Chow (NR) |
-| 04:20 | **Flutterieshyy**: Kangaroo (MFR), Kangaroo (NFR), Cow | **JAHQUAYKAZII**: Balloon Unicorn (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
