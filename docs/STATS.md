@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 02:55 UTC by the scrape workflow._
+_Updated 2026-11-26 03:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-26 02:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 25,598 | 2026-11-26T02:45 |
-| elve | 16 | 5,313 | 2026-11-26T02:46 |
+| amvgg | 16 | 25,847 | 2026-11-26T03:00 |
+| elve | 16 | 5,386 | 2026-11-26T03:01 |
 
-## AMVGG completed trades: 66,334 total
+## AMVGG completed trades: 66,352 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 364 |
+| 2026-11-26 | 382 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 02:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:55 | **yoongi_mrrymi**: Purrowl ×2 | **nabhatra**: Alicorn ×2 |
-| 02:55 | **Cutecupshakes**: Crystal Egg ×4 | **nabhatra**: Gingerbread Hare |
-| 02:55 | **Cutecupshakes**: Crystal Egg ×4 | **nabhatra**: Gingerbread Hare |
-| 02:55 | **RedQueen_RedBlood12**: Fairytale Egg ×18 | **YAJAIRA289**: Three Blind Mice |
-| 02:55 | **Rbd_JP**: Sugar Glider (MFR) | **oc6eanblvd**: Peppermint Penguin (FR), Cabbit (NFR), Ring-Tailed Lemur (MFR), Alley Cat (MFR), 2022 Birthday Cake, Unicorn Horn, Angel Wings, Toaster Hat |
-| 02:55 | **Rbd_JP**: Shadow Dragon (FR), Flamingo (FR), Haetae (NFR), Haetae, Frost Dragon (FR), 2022 Birthday Cupcake Shoes, Cow ×2, Fairy Bat Dragon (FR) | **lba_fofe**: Haetae (MFR) |
-| 02:55 | **Nooby139543**: Zebra (N) | **Meko0o_3**: Retired Egg ×6 |
-| 02:55 | **TheGodx555**: Unicorn ×7 | **viki_423**: Copycat |
-| 02:55 | **DD_ominika**: Ghostly Cat (MR), Ghost (MR), Ride-A-Pet Potion | **viki_423**: Toaster Hat |
-| 02:55 | **cutestbrunettes**: Capybara (MFR), Ranger Beaver (MR) | **cazador_deitems8**: Chocolate Dutch Guinea Pig (MFR) |
-| 02:55 | **dameslapsosbflfndk**: Cow (FR), Peppermint Penguin (FR), Pig (R) | **Hellokitty1244522**: Arctic Reindeer (FR) |
-| 02:55 | **xxjohnjokexx**: Pink Cat (NFR) | **hwlloaghaj**: Sugar Glider (FR) |
-| 02:55 | **CATNOIR678901**: Chimera (MR) | **Adiell158**: Haetyphoon (FR) |
-| 02:45 | **ADMTRADING72**: Albino Monkey (FR) ×3, Albino Monkey (R) | **wjredmind**: Lion (R) ×4, Lion |
-| 02:45 | **smartes1230**: Siamese Cat | **itsme_claire000**: Crocodile (R), Golden Albatross (MR) |
+| 03:00 | **Galapogus7**: Soccer Stadium | **lunarodlox38**: Ride-A-Pet Potion |
+| 03:00 | **cutesyiza**: Burger Bear, Count Slothula | **Puppylover227331**: Burger Boots |
+| 03:00 | **1Biahsz_altx**: Ride-A-Pet Potion, Fairytale Egg ×2 | **Barssformarss**: River Otter (M) |
+| 03:00 | **CYB3R_S0ULZZZ**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Frost Fury (MFR), Diamond Hummingbird (NR), Arctic Dusk Dragon | **TMDung20**: Owl (FR) |
+| 03:00 | **cat_lover14q**: Cryptid (FR), Shrew (NR), Zeopod (M), Admin Vision Glasses, Admin Vision Wings, Admin Vision Cap | **abrei2**: Haetyphoon (MFR) |
+| 03:00 | **Leafiieee**: Zebra (MR), Zebra (NR) | **XzMonolds**: Fly-A-Pet Potion |
+| 03:00 | **thenextbaddie9**: Gumball Caterpillar (M), Pomeranian (M), Gorilla (M), Pilot Gull (M), Zebra (M) | **XzMonolds**: Fly-A-Pet Potion ×2 |
+| 03:00 | **pookie1917**: Cabbit (FR), Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2 | **Maybeimnotbig**: Goose (FR), Turtle (FR) |
+| 03:00 | **A1d3n_L1ve**: Skelicorn ×12 | **Qu33nDQCrimsonO19932**: Ride-A-Pet Potion |
+| 03:00 | **pusilups**: Chocolate Chip Bat Dragon (NFR), Rainbow Maker, Arctic Reindeer (NFR) | **captainmarvel1089**: Peppermint Penguin (MFR) |
+| 03:00 | **candy11246**: Strawberry Penguin (MFR), Dragonfruit Fox (MFR), Cabbit (FR), Sheeeeep (MFR), Matcha Cat (NR), Vanilla Penguin (MFR), Red Dutch Guinea Pig (MFR), Munchkin Cat (MFR), Gaelic Fae (MFR), Slime (MFR), Chocolate Dutch Guinea Pig (MFR), Sunrise Duckling (MFR), Cloud Car, Rainbow Maker, Kiwi (MFR), Alley Cat (MR), 2022 Birthday Cake, Sushi Penguin (MFR) | **serpentibendi**: Cryptid (MFR) |
+| 03:00 | **Chester_Rblx**: Axolotl (R), Kiwi Kiwi, Three Blind Mice | **melynagamer3**: Fly-A-Pet Potion |
+| 03:00 | **La_boyMich15**: Gingerbread Reindeer (NR), Cat (NR), Dog (N), Otter (N), Puma (N) | **Panci_Terbang33**: Fly-A-Pet Potion |
+| 03:00 | **s6ythed**: Dalmatian (FR), Crow (FR), Ride-A-Pet Potion, Skunk (MR) | **Kid26Jellyfish**: Hedgehog (NFR) |
+| 03:00 | **AyiGamerUwu**: Little Lamb (M) | **aoakqhyc**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
