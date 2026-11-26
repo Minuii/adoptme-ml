@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 18:01 UTC by the scrape workflow._
+_Updated 2026-11-26 18:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 18:01 UTC by the scrape workflow._
 | amvgg | 16 | 39,777 | 2026-11-26T18:00 |
 | elve | 16 | 8,306 | 2026-11-26T18:01 |
 
-## AMVGG completed trades: 68,736 total
+## AMVGG completed trades: 68,757 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,766 |
+| 2026-11-26 | 2,787 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 18:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:00 | **ConcaveFixture5065**: Haetyphoon (FR), Canadian Goose (MFR), Sakura Spirit (FR), Butter Knife | **starcode_slowww**: Turtle (R) |
-| 18:00 | **tdhdhshjeh**: Shiver Wolf ×4 | **cliuic**: Fly-A-Pet Potion |
-| 18:00 | **Anastasika_agent**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **anihao17**: Strawberry Shortcake Bat Dragon (FR) |
-| 18:00 | **ifrit_3**: Ride-A-Pet Potion | **Its_A3sth3tic**: Fire Foal (M) |
-| 18:00 | **ifrit_3**: Ride-A-Pet Potion | **Ykcharlesduh**: Cherub Chipmunk (M) |
-| 18:00 | **martins10530**: Fly-A-Pet Potion | **Termovalorizzatore45**: Kitty Biscuit ×2 |
-| 18:00 | **25k_Robloxgamer**: Sushi Penguin (MFR), Spring Bunny Hood, Fly-A-Pet Potion | **Edgar_vega0**: Ram (MFR) |
-| 18:00 | **prueba22337**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Santa Hat | **abdoosaad**: African Wild Dog (FR) |
-| 18:00 | **meowieboogie**: Ride-A-Pet Potion, Peppermint Penguin (R) | **iamnoonetobehere**: Peppermint Penguin (FR) |
-| 18:00 | **rycnqdq**: Great Pyrenees (MFR), Chocolate Dutch Guinea Pig (NR) | **kay1igh**: Binturong (MFR) |
-| 18:00 | **lmao_fyp**: Banana Hat | **whois_mal**: Fly-A-Pet Potion |
-| 18:00 | **BLACKGLITTERKITTY**: Pancake Stack ×2, Ride-A-Pet Potion | **o8ayn**: Ice Cream Cone Hat |
-| 18:00 | **Chiikaaae**: Munchkin Cat, Owlbear, Red Dutch Guinea Pig (R), Alley Cat, Snow Monkey, Bunny Swirl, Spring Bunny Hood, Bready Necklace, Cotton Candy Hat, Butter Knife, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **wovyin**: Goose |
-| 18:00 | **Xwebbr**: Pupcicle ×2 | **vincelft0**: Harp Seal |
-| 18:00 | **Chikity19**: Lavender Dragon (MFR) | **lqcedluvinq**: Reindeer (MFR), Brown Springer Spaniel (MR) |
+| 18:06 | **Labrador_7865**: Leopard Cat, Robot (N), Abyssinian Cat (N), Boohoo (N), Caramelgeist (N), Budgie Witch (N) | **nikadance286**: Ride-A-Pet Potion |
+| 18:06 | **Gglrd0**: Giraffe (FR) | **Jay_basealters**: Strawberry Shortcake Bat Dragon (NFR) ×2, Dalmatian (FR) |
+| 18:06 | **dinadu135**: Parrot (NFR), Kangaroo (NFR), Dragonfruit Fox (MFR), Copycat (N), Cheetah (NR), Unicorn (MFR), Unicorn (N) ×2, Sasquatch (M), Tree Sasquatch (M), Bandicoot (M), Skelicorn (M), Stray Cat Dragon (M) | **samara_locks**: Frost Dragon (NFR) |
+| 18:06 | **muniradypa**: Pain au Chat ×3 | **aiiqish**: Ride-A-Pet Potion |
+| 18:06 | **peachieskiwi**: Matcha Cat, Owlbear (R), Chocolate Chip Bat Dragon Backpack | **lili270811**: Dragonfruit Fox (NR), Chocolate Dutch Guinea Pig |
+| 18:06 | **Hiilovepancakes120**: Christmas Pudding Pup (MFR), 2022 Birthday Party Hat | **amvggaltaccxox**: Candicorn (MFR) |
+| 18:06 | **Andrewspaw**: Dango Penguins (MFR), Pink Betta Fish (MR), Pupcake (M), Spring Bunny Hood, Pancake Stack | **melinaftu**: Arctic Dusk Dragon (MFR) |
+| 18:06 | **LeaNavarro98**: Chocolate Dutch Guinea Pig, Unicorn, White Sand Dollar, Baku | **jace_jones3392**: Jester Dragon |
+| 18:06 | **NokadotakAU3U**: Water Moon Bear, Bloodhound, Paint Sealer ×4 | **sashaterebik2014**: Golden Walrus Crown |
+| 18:06 | **beebodooo**: Tortoiseshell Guinea Pig (R), Ride-A-Pet Potion | **karasikshop_20028**: Kangaroo (R) |
+| 18:06 | **mydaymylifeinyt**: Little Lamb (M) | **LaymushkaUwU**: Ride-A-Pet Potion |
+| 18:06 | **powerpuggigi**: Munchkin Cat (MFR), Flaming Fox (MFR) | **Jay_basealters**: Hedgehog (FR) |
+| 18:06 | **DijaBint2**: Pet Handler Pro Certificate | **Hxunted_lv**: Ride-A-Pet Potion, Moon Rabbit |
+| 18:06 | **AvokadoJFKfanat**: Matcha Cat ×2, Scarecrow Cat (M), Beluga Whale (M) | **ppptig6921**: 2022 Birthday Cake |
+| 18:06 | **loveefawn**: Ride-A-Pet Potion ×4 | **TYYLIPOO**: Arctic Dusk Dragon |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
