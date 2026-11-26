@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 16:31 UTC by the scrape workflow._
+_Updated 2026-11-26 16:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-26 16:31 UTC by the scrape workflow._
 | amvgg | 16 | 38,202 | 2026-11-26T16:30 |
 | elve | 16 | 7,899 | 2026-11-26T16:31 |
 
-## AMVGG completed trades: 68,284 total
+## AMVGG completed trades: 68,317 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-26 | 2,314 |
+| 2026-11-26 | 2,347 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
 | 2026-11-23 | 4,425 |
@@ -39,21 +39,21 @@ _Updated 2026-11-26 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:25 | **XL4IL4_FGYX**: Cabbit (FR) | **soul1nquestion**: Black Macaque (MFR), Cake Friend (MR), Sasquatch (MR) |
-| 16:25 | **antuco_tuco909**: Arctic Reindeer (NFR), Fairy Bat Dragon (NFR), Siamese Cat (R), Candicorn (R) | **kittycutecat11130**: Frost Dragon (FR) |
-| 16:25 | **xXsleepydaisyX**: Ride-A-Pet Potion | **Trixcaughtlackin**: Sushi Penguin |
-| 16:25 | **DewrattlSR**: Gemstone Egg ×4 | **fufutfufutrer**: Fly-A-Pet Potion |
-| 16:25 | **Rexgaang39**: Copycat | **berdecol**: Ride-A-Pet Potion ×4 |
-| 16:25 | **sww_tea**: Frost Dragon (FR), Ride-A-Pet Potion | **akeks_74**: Cow (NFR), Evil Unicorn (FR), Cabbit (FR), Turtle (FR), Pig (FR), Kangaroo (FR), Fallow Deer, Hare (N) |
-| 16:25 | **epicpulsechaos2024**: Dragonfly ×11 | **Sofixiskiller**: Ride-A-Pet Potion |
-| 16:25 | **adalnie**: Chihuahua ×3 | **dashe4kavbb**: Ride-A-Pet Potion |
-| 16:25 | **pricpalAC_trubilimb**: Chihuahua | **vivicacke17**: Red Panda ×9 |
-| 16:25 | **Pspspskskssk**: Turtle (R), Copycat, Fly-A-Pet Potion ×3, Chihuahua, Castle Hermit Crab | **TwistedK1tty**: Cow (FR) |
-| 16:25 | **matthewisI2here**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR) ×2, Siamese Cat, Turtle (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **karl_koto**: Frost Dragon (NFR) |
-| 16:25 | **lerasryuefj**: Sushi Penguin, Golden Egg | **Pringels_630**: Goldhorn (R) |
-| 16:25 | **Pokerheart5621**: Fly-A-Pet Potion, Dimension Drifter, Cuddly Candle | **chesnock204**: Pancake Stack |
-| 16:25 | **NastyA_Maximovna**: Dalmatian (FR), Brachiosaurus (MR) | **Quicne3232**: Cryptid (FR) |
-| 16:25 | **AsherHawkBlast2015**: Parrot (FR), Crow (FR) | **Snoxs545**: Dalmatian (FR), Hedgehog (FR), Chocolate Chip Bat Dragon (FR), Mini Pig (FR) |
+| 16:40 | **mamawibi6772**: Arctic Reindeer (FR), Ride-A-Pet Potion ×2 | **ssuinzx**: Cow (FR), Hot Doggo (FR), Arctic Fox (FR) |
+| 16:40 | **Elf_Deme**: Matcha Cat (NR), Tortoiseshell Guinea Pig (FR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×6, Toaster Hat, 2022 Birthday Cupcake Shoes | **kaintiis**: Dalmatian (FR) |
+| 16:40 | **Ewwsay0**: Glider | **oreosaras**: Ketchup and Mustard Jetpack |
+| 16:40 | **AxelCruz266**: Crystal Egg ×18 | **depraved22**: Ride-A-Pet Potion, Cracked Egg |
+| 16:40 | **Lonny_Mensch**: Blue Snowboard ×7 | **jauzyp**: Bubblegeist ×18 |
+| 16:40 | **jauzyp**: Aussie Egg | **PityGh0ul**: Chinese Lantern |
+| 16:40 | **Ryukyu7336**: Owl (FR) | **hanb3ki**: Strawberry Shortcake Bat Dragon (FR) ×3 |
+| 16:40 | **OnlyMeOlia**: Paint Sealer ×4, Shiba Inu (N), Robot (N), Badger (N), Chocolate Labrador (N) | **qsickr**: Peacock |
+| 16:40 | **Bby_Jxyden**: Groundhog, Ride-A-Pet Potion | **brbrnatanimtralalel0**: Aurora Fox (R) |
+| 16:40 | **ytka68886**: Pig (R) | **kammalammal**: Munchkin Cat |
+| 16:36 | **Samurai_SaYas**: Kangaroo (FR) ×2 | **Vitek_228666**: Cow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 16:36 | **caby_vr**: Goose (FR), Ride-A-Pet Potion | **gg986gg**: Fly-A-Pet Potion ×18 |
+| 16:36 | **Impostergogirl**: Jester Dragon (NFR) ×2, Copycat (NR), Owlbear (NR), Frostbite Bear (FR), Frostbite Bear (R) | **Dark_angeliqop**: Evil Unicorn (FR) |
+| 16:36 | **abdoosaad**: Chocolate Chip Bat Dragon (FR) | **DED_XD60**: Fairy Bat Dragon (FR), Border Collie (R), Matcha Cat, Onza (MFR), Munchkin Cat (R), Harp Seal (N), Bunny Swirl, Snowball Pug (R) |
+| 16:36 | **Vadjik12**: Ride-A-Pet Potion ×2 | **makaka90049**: Pupcicle (N) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
