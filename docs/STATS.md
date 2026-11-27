@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 00:16 UTC by the scrape workflow._
+_Updated 2026-11-27 00:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 00:16 UTC by the scrape workflow._
 | amvgg | 17 | 23,323 | 2026-11-27T00:15 |
 | elve | 17 | 4,901 | 2026-11-27T00:15 |
 
-## AMVGG completed trades: 70,036 total
+## AMVGG completed trades: 70,051 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 76 |
+| 2026-11-27 | 91 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 00:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:15 | **Elwanizk**: Unicorn ×2 | **Chiyothebestrust**: Ride-A-Pet Potion ×2 |
-| 00:15 | **vxbezheartz**: Sugar Glider (NFR), Ride-A-Pet Potion ×3 | **pdntcare**: Albino Monkey (NFR) ×2 |
-| 00:15 | **IamCool123Andunot**: Albino Monkey (FR) | **Dangermousefan0**: Ride-A-Pet Potion ×14 |
-| 00:15 | **killerman_xd1**: Ancient Dragon ×9 | **oxoglockz**: Ride-A-Pet Potion |
-| 00:15 | **Jvlausy**: Sugar Glider (FR), Ride-A-Pet Potion | **Anni4090**: Cabbit (FR) |
-| 00:15 | **MINTBUNNYMAGS**: Frost Dragon (FR), Lion Cub (MFR), Werewolf (FR) | **TANSKlN**: Giraffe (FR) |
-| 00:15 | **WhiteBoy19**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Mimi_ryka12**: Golden Corn, Golden Goldfish, Diamond Lavender, Snapdragon Flower, Honey |
-| 00:15 | **bypalmas**: Candicorn (MFR), Orange Butterfly (M) | **lba_fofe**: Crocodile (MFR) |
-| 00:15 | **thescriptofficials**: Unicorn ×7 | **lu_ven5**: Ride-A-Pet Potion ×7 |
-| 00:15 | **Gabo_XD202**: Fly-A-Pet Potion | **lamako1999**: Albino Gorilla (R) |
-| 00:15 | **Oreocrazypans**: Dragonfruit Fox (N) | **EmeraIdEire**: Octopus (N) ×2 |
-| 00:15 | **00Marina007**: Fly-A-Pet Potion ×18 | **xGracie_1234x**: Kangaroo (NFR) |
-| 00:15 | **BreadFloppaPS**: Tanuki (N), Caramelgeist (N) | **splagoogle**: Harp Seal |
-| 00:15 | **clarspry**: Goat (MFR) | **Thing1_608**: Munchkin Cat (MFR), Mini Pig, Pupcicle (N) |
-| 00:15 | **Kcx_jcx123**: Strawberry Shortcake Bat Dragon (NFR), Goose (FR) | **Ryxnisgoofy3**: Mini Pig (NFR), Strawberry Shortcake Bat Dragon (FR) |
+| 00:25 | **fyffddt5**: Purrowl (N), Pupcicle | **4eskz**: Ride-A-Pet Potion |
+| 00:25 | **aydachan200311**: Dalmatian (R), Arctic Reindeer (FR), Cow (FR), Strawberry Shortcake Bat Dragon (FR) | **cutieice336**: Frost Dragon (FR) |
+| 00:25 | **Marilynbrandt662**: Owl (MFR), Mermicorn (MFR), Monkey King (NFR) | **Shadx_1553**: Bat Dragon (NFR) |
+| 00:25 | **GAEL_RLXJ**: Frostbite Bear (MFR), Burning Bunny (M) | **LEODAGOATT710**: Nessie (MFR), Groundhog (MFR), Aurora Fox (NFR), Mini Pig (FR) |
+| 00:25 | **Marilynbrandt662**: Owl (MFR) | **lookmyprofile61**: Chocolate Chip Bat Dragon (MFR), Chocolate Chip Bat Dragon (FR) ×4, Strawberry Shortcake Bat Dragon (FR) ×7, Strawberry Shortcake Bat Dragon (R), Arctic Reindeer (FR) ×3 |
+| 00:25 | **C0xrbin**: Fairy Bat Dragon (FR), Kangaroo (FR) | **Boypizza132**: Unicorn (NFR), Alley Cat (NFR), Sheeeeep, Ice Cream Hermit Crab ×4, Snowball Pet (R), Mr. Whiskerpips (N), Goldhorn, Cotton Candy Hat, Queen Bee (R), Shiver Wolf ×3, Mr. Whiskerpips (MR) |
+| 00:20 | **LovelyAkanexdUwU**: Brown Bear (R), Polar Bear (R) | **Chiyothebestrust**: Matcha Cat |
+| 00:20 | **Shynisocool**: Choco Penguin (M) | **Biabr105**: Rain Hat, Strawberry Clip ×2, Strawberry Shortcake Bow, White Chef Hat, Burger Bun Hat, Chick Hat |
+| 00:20 | **Pixiedied**: Arctic Fox (NFR) | **elys_qn**: Puffer Fish (MFR) |
+| 00:20 | **meowcat5667**: Haetae (FR), Cow (FR), Fly-A-Pet Potion | **aylacool45**: Chocolate Chip Bat Dragon (NFR) |
+| 00:20 | **KazzuhaaAzz**: Tortuga de la Isla (MFR) | **Lapiseroch2**: Honey Badger (MFR) |
+| 00:20 | **cocob4by**: Hedgehog, Dalmatian (FR), Cow (NFR), Turtle (R), Siamese Cat (R) | **kaylamicmi**: Cabbit (MFR) |
+| 00:20 | **CandyIsCooIer**: Candicorn (NFR) ×3, Lion Cub | **gag_gaag**: Candicorn (MFR) |
+| 00:20 | **Cinzsins**: Mechapup (MFR) | **unicornio1205i**: Arctic Reindeer (FR), Fairy Bat Dragon (FR), Rose Dragon (NFR), Goat (R), Border Collie (R), Happy Duckling (MFR), Candy Hare (NR), Great Pyrenees (N), Ballet Swan (R) |
+| 00:20 | **0nlqm3**: Kangaroo (FR) | **Aslie_17**: Panda (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
