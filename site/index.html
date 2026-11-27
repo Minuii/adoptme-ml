@@ -358,6 +358,7 @@ footer a { color: var(--muted); }
       <button class="tab" role="tab" data-tab="wanted"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"/></svg>Most wanted</button>
       <button class="tab" role="tab" data-tab="ads"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4L3 8l4 4M3 8h14M17 20l4-4-4-4M21 16H7"/></svg>Offers</button>
       <button class="tab" role="tab" data-tab="compare"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 7h14M5 7l-3 7a3 3 0 0 0 6 0zM19 7l-3 7a3 3 0 0 0 6 0z"/></svg>Compare</button>
+      <button class="tab" role="tab" data-tab="trades"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg>Trades</button>
     </div>
     <div class="navgroup"><span class="navlabel">Info</span>
       <button class="tab" role="tab" data-tab="journal"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h14v16H6a2 2 0 0 0-2 2zM4 19V5M9 7h7M9 11h5"/></svg>Journal</button>
@@ -431,6 +432,30 @@ footer a { color: var(--muted); }
     </div>
     <button class="more" id="admore" hidden>Show more</button>
     <p class="note">The newest offers (trade listings) from the amvgg and Elvebredd trade centres. They're collected every 15 minutes, and the site picks them up right after, so the newest is at most about 20 minutes old. Trader names are left out. "Offering" is what the poster gives; "Wants" is what they ask for. Values come from the list you pick. If that list doesn't carry an item, or the offer asks for something like "Add", the offer can't be valued.</p>
+  </section>
+
+  <section class="page" id="trades" hidden>
+    <form class="controls" id="tlock" hidden>
+      <label class="field"><span class="label">Code</span><input id="tcode" class="input" type="password" inputmode="numeric" autocomplete="off" placeholder="Enter the code"></label>
+      <div class="field"><span class="label">&nbsp;</span><button class="more" type="submit" style="margin:0">Unlock</button></div>
+      <p class="note" id="tlockmsg" aria-live="polite"></p>
+    </form>
+    <div id="tbody" hidden>
+      <div class="controls">
+        <label class="field grow"><span class="label">Item</span><input id="tq" class="input" type="search" placeholder="e.g. Frost Dragon" autocomplete="off"></label>
+        <label class="field grow"><span class="label">Traded for (optional)</span><input id="tf" class="input" type="search" placeholder="e.g. Shadow Dragon" autocomplete="off"></label>
+        <div class="field"><span class="label">Value with</span><div class="seg" data-key="al" role="group" aria-label="Value with">
+          <button data-v="A">amvgg</button><button data-v="E">Elvebredd</button></div></div>
+        <label class="field"><span class="label">Sort</span><select id="tsort"><option value="new">Newest</option><option value="big">Biggest trades</option><option value="lop">Most lopsided</option></select></label>
+      </div>
+      <div class="status"><span id="tcount" aria-live="polite">Loading…</span><span id="twhen"></span></div>
+      <div class="agwrap">
+        <div class="ag-head" aria-hidden="true"><span>One side</span><span>Other side</span><span>Deal</span><span>Seen</span></div>
+        <div class="adlist" id="tlist"></div>
+      </div>
+      <button class="more" id="tmore" hidden>Show more</button>
+      <p class="note">Every completed trade on amvgg's trade page since 11 Nov 2026, items only (trader names are left out). Values are today's, from the list you pick.</p>
+    </div>
   </section>
 
   <section class="page" id="wanted" hidden>
@@ -533,7 +558,7 @@ const DEF = { tab: "list", src: "both", var: "r", pot: "fr", cat: "pets", dem: "
   ca: "", cb: "", ag: "", ak: "", as: "both", av: "", ap: "", al: "A", adeal: "", amin: "", asort: "new",
   wq: "", ws: "both", wc: "pets", wv: "", wp: "", wsort: "want", hr: "",
   jc: "", j: "", jq: "", jr: "", js: "val" };  // journal: category, entry (slug), search, rarity, sort  // hr: value-history range ("3m", "1y", "2026-01-01_2026-03-31")
-const TABS = ["list", "updates", "compare", "ads", "wanted", "journal", "stats"];
+const TABS = ["list", "updates", "compare", "ads", "wanted", "trades", "journal", "stats"];
 const S = {};
 function load() {
   Object.assign(S, DEF);
@@ -766,8 +791,8 @@ let shown = 0, current = [];
 function render(reset = true) {
   save();
   for (const b of document.querySelectorAll(".tab")) b.setAttribute("aria-selected", String(!S.item && S.tab === b.dataset.tab));
-  const pg = S.item ? "item" : ["stats", "compare", "ads", "wanted", "journal"].includes(S.tab) ? S.tab : "browse";
-  for (const id of ["browse", "item", "stats", "compare", "ads", "wanted", "journal"]) $("#" + id).hidden = id !== pg;
+  const pg = S.item ? "item" : ["stats", "compare", "ads", "wanted", "trades", "journal"].includes(S.tab) ? S.tab : "browse";
+  for (const id of ["browse", "item", "stats", "compare", "ads", "wanted", "trades", "journal"]) $("#" + id).hidden = id !== pg;
   const [title, lede] = S.item ? ["", ""] : PAGES[S.tab] || PAGES.list;
   $(".pagehead").hidden = !!S.item;
   $("#ptitle").textContent = title;
@@ -780,6 +805,7 @@ function render(reset = true) {
   if (S.tab === "stats") return drawStats();
   if (S.tab === "compare") return drawCompare();
   if (S.tab === "ads") return drawAds(reset);
+  if (S.tab === "trades") return drawTrades(reset);
   document.querySelectorAll(".pet-only").forEach(e => e.setAttribute("aria-disabled", String(!["all", "pets"].includes(S.cat))));
   document.querySelectorAll(".list-only").forEach(e => e.style.display = S.tab === "list" ? "" : "none");
   const list = S.tab === "list", tbl = $("#tbl");
@@ -1374,17 +1400,17 @@ function cmpChart(el, all, s) {
 // ---- Offers tab (site/ads.json) ----
 let ADS, adShown = 0, adCurrent = [];
 const tagKey = b => `${b.includes("M") ? "m" : b.includes("N") ? "n" : "r"}-${potOf(b.includes("F"), b.includes("R"))}`;
-function tokInfo(i) {
-  const [name, badge, known] = ADS.tokens[i], it = known ? BYNAME.get(name) : null;
+function tokInfo(i, T = ADS) {
+  const [name, badge, known] = T.tokens[i], it = known ? BYNAME.get(name) : null;
   return { name, badge, it, k: it && it.cat === "pets" ? tagKey(badge) : "v" };
 }
 // full value of one side, or null if any item can't be valued; part() also keeps the partial sum and what's missing
-function adPart(ids, s) {
+function adPart(ids, s, T = ADS) {
   let sum = 0, extra = [];
-  for (const i of ids) { const t = tokInfo(i), v = t.it ? t.it[s][t.k] : null; if (v == null) extra.push(t.name); else sum += v; }
+  for (const i of ids) { const t = tokInfo(i, T), v = t.it ? t.it[s][t.k] : null; if (v == null) extra.push(t.name); else sum += v; }
   return { sum, extra };
 }
-function adSideValue(ids, s) { const p = adPart(ids, s); return ids.length && !p.extra.length ? p.sum : null; }
+function adSideValue(ids, s, T = ADS) { const p = adPart(ids, s, T); return ids.length && !p.extra.length ? p.sum : null; }
 const partTxt = p => !p.extra.length ? fmt(p.sum) : (p.sum ? fmt(p.sum) + " + " : "") + p.extra.join(" + ");
 const BAIT = 1;  // offering 2x+ what they ask is usually bait (a scam lure) or a typo
 // value of each side on the chosen list (cached per ad), and the deal: how much more the poster offers than they ask
@@ -1431,11 +1457,11 @@ function adList() {
 }
 const ago = t => { const m = Math.max(0, Math.round((Date.now() - ts(t)) / 6e4)); return m < 60 ? `${m} min ago` : m < 48 * 60 ? `${Math.round(m / 60)} h ago` : `${Math.round(m / 1440)} days ago`; };
 // amvgg-style item tiles: the picture with its variant badges in the corner; repeats are grouped as "×3"
-function tiles(ids, q) {
+function tiles(ids, q, T = ADS) {
   const groups = new Map();
   for (const i of ids) groups.set(i, (groups.get(i) || 0) + 1);
   return [...groups].map(([i, n]) => {
-    const t = tokInfo(i), hit = q && t.name.toLowerCase().includes(q);
+    const t = tokInfo(i, T), hit = q && t.name.toLowerCase().includes(q);
     const pet = t.it && t.it.cat === "pets", label = `${n > 1 ? n + "× " : ""}${t.name}${pet ? " · " + keyTxt(t.it, t.k) : ""}`;
     const v = t.it ? t.it[S.al][t.k] : null;
     return h(t.it ? "button" : "span", { class: "ag-tile" + (t.it ? "" : " ph") + (hit ? " hit" : ""), title: label + (v != null ? ` · ${SRC[S.al]} ${fmt(v)}` : ""),
@@ -1486,6 +1512,62 @@ async function drawAds(reset = true) {
   $("#adcount").textContent = adCurrent.length ? `${adCurrent.length.toLocaleString()} offer${adCurrent.length === 1 ? "" : "s"}` + (S.asort !== "new" || S.adeal || parseFloat(S.amin) > 0 ? `, valued on ${SRC[S.al]}` : "") : "No offers match these filters.";
   $("#adwhen").textContent = ADS.ads.length ? `Newest offer ${ago(ADS.ads[0][1])} · ${ADS.ads.length.toLocaleString()} offers loaded` : "";
 }
+
+// ---- Trades tab (site/trades.json: every completed amvgg trade, items only), behind a code ----
+// ponytail: the code only hides the tab; trades.json is public like every file on the site (it has no trader names)
+let TR, trShown = 0, trCurrent = [], trUnlocked = false, tqt;
+const TCODE = "6767";
+try { trUnlocked = localStorage.getItem("trades") === TCODE; } catch {}
+const trHas = (ids, q) => ids.some(i => TR.tokens[i][0].toLowerCase().includes(q));
+function trDeal(tr) {
+  const a = adSideValue(tr[1], S.al, TR), b = adSideValue(tr[2], S.al, TR);
+  return { a, b, d: a && b ? Math.max(a, b) / Math.min(a, b) - 1 : null };
+}
+function trList() {
+  const q = $("#tq").value.trim().toLowerCase(), f = $("#tf").value.trim().toLowerCase(), sort = $("#tsort").value;
+  const xs = TR.trades.filter(([, a, b]) => !f ? !q || trHas(a, q) || trHas(b, q)
+    : ((!q || trHas(a, q)) && trHas(b, f)) || ((!q || trHas(b, q)) && trHas(a, f)));
+  if (sort === "new") return xs;
+  const by = sort === "big" ? x => x.a + x.b : x => x.d;
+  return xs.map(t => [t, trDeal(t)]).filter(([, x]) => x.d != null).sort((p, r) => by(r[1]) - by(p[1])).map(x => x[0]);
+}
+function trCard(tr) {
+  const [t, a, b] = tr, { a: va, b: vb, d } = trDeal(tr), q = $("#tq").value.trim().toLowerCase();
+  const side = (ids, v) => h("div", { class: "ag-col" }, h("div", { class: "ag-tiles" }, tiles(ids, q, TR)),
+    h("span", { class: "ag-sum" }, v != null ? `${SRC[S.al]} ${fmt(v)}` : ""));
+  const deal = d == null ? h("div", { class: "ag-deal na" }, h("b", {}, "Can't value"))
+    : d < .05 ? h("div", { class: "ag-deal fair" }, h("b", {}, "Fair"), h("span", {}, `${fmt(va)} for ${fmt(vb)}`))
+    : h("div", { class: "ag-deal over" }, h("b", {}, `+${Math.round(d * 100)}% one way`), h("span", {}, `${fmt(va)} for ${fmt(vb)}`));
+  return h("article", { class: "ag-row" }, side(a, va), side(b, vb), deal,
+    h("div", { class: "ag-when" }, h("span", { title: t.replace("T", " ") + " UTC" }, ago(t))));
+}
+async function drawTrades(reset = true) {
+  $("#tlock").hidden = trUnlocked; $("#tbody").hidden = !trUnlocked;
+  if (!trUnlocked) return $("#tcode").focus();
+  if (!TR) {
+    try { TR = await fetch("trades.json").then(r => r.json()); }
+    catch { $("#tcount").textContent = "Couldn't load the trades. Try refreshing."; return; }
+    if (S.tab !== "trades" || S.item) return;
+  }
+  if (reset) { trShown = 0; trCurrent = trList(); $("#tlist").replaceChildren(); }
+  const next = trCurrent.slice(trShown, trShown + 50);
+  $("#tlist").append(...next.map(trCard));
+  trShown += next.length;
+  $("#tmore").hidden = trShown >= trCurrent.length;
+  $("#tcount").textContent = trCurrent.length ? `${trCurrent.length.toLocaleString()} trade${trCurrent.length === 1 ? "" : "s"}` : "No trades match.";
+  $("#twhen").textContent = `${TR.trades.length.toLocaleString()} trades since ${dateTxt(TR.trades.at(-1)[0])}`;
+}
+$("#tlock").addEventListener("submit", e => {
+  e.preventDefault();
+  if ($("#tcode").value !== TCODE) { $("#tlockmsg").textContent = "Wrong code."; return; }
+  trUnlocked = true;
+  try { localStorage.setItem("trades", TCODE); } catch {}
+  $("#tcode").value = ""; $("#tlockmsg").textContent = "";
+  render();
+});
+for (const id of ["tq", "tf"]) { suggestFill($("#" + id)); $("#" + id).addEventListener("input", () => { clearTimeout(tqt); tqt = setTimeout(render, 200); }); }
+$("#tsort").addEventListener("change", () => render());
+$("#tmore").addEventListener("click", () => render(false));
 
 // ---- Most wanted tab (site/activity.json: per item and variant, offers that ask for it vs offer it, last 7 days) ----
 let wShown = 0, wCurrent = [];
@@ -1549,6 +1631,7 @@ const PAGES = {
   updates: ["Value changes", "Every value change on both lists, newest first."],
   wanted: ["Most wanted", "What traders asked for most in the last 7 days, against what they offered."],
   ads: ["Offers", "The newest trade offers from the amvgg and Elvebredd trade centres."],
+  trades: ["Trades", "Every completed amvgg trade we have collected, searchable by item."],
   compare: ["Compare", "Price two sides of a trade on both lists."],
   journal: ["Journal", "Every pet and item: where it comes from, what it does, and how it trades."],
   stats: ["Stats & track record", "What has been collected, and how the forecasts are doing."],

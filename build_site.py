@@ -427,6 +427,15 @@ activity = {items[k]["name"]: {"t": dict(a["t"]), "o": {s: dict(v) for s, v in a
 print(len(activity), "items with activity,", len(seen_ids), "trades,", ads_n, "offers,",
       round((SITE / "activity.json").stat().st_size / 1e6, 2), "MB")
 
+# ---- Trades tab (behind a code on the site): every completed amvgg trade, items only (no trader names or ids) ----
+tokens, tok_id = [], {}  # a fresh item table for tok(), same format as ads.json
+all_trades = {t["trade_id"]: t for t in trades if len(t.get("sides", [])) == 2}  # union merges can repeat a line
+trade_rows = [[t["first_seen"][:16], *[[tok(f'{i["name"]}|{i.get("badges", "")}') for i in s["items"]] for s in t["sides"]]]
+              for t in sorted(all_trades.values(), key=lambda t: t["first_seen"], reverse=True)]
+(SITE / "trades.json").write_text(json.dumps({"built": now.isoformat(timespec="minutes"), "tokens": tokens, "trades": trade_rows},
+                                             separators=(",", ":")), encoding="utf-8")
+print(len(trade_rows), "trades for the Trades tab,", round((SITE / "trades.json").stat().st_size / 1e6, 2), "MB")
+
 # ---- Item pages: the model's 30-day direction call (results/direction_<7|30|90>d.csv, written daily by forecast.yml) ----
 import csv
 

@@ -28,7 +28,7 @@ Top level: the four programs the bot, the site build and Kaggle run by name (`sc
 | `elve_model.py` | Builds the daily value panel and features, and runs walk-forward tests. Modes are listed in its docstring: (none), `ads`, `events`, `both`, `amvgg`, `size`. Env vars: `H` = horizon in days (default 7), `FLAT` = flat band, `VALUE_FLOOR` = smallest value counted in the "no penny pets" picks (default 0.25). |
 | `tests/` | `python tests/test_scraper.py` (name matching and the page parser, no network; run it after touching `scraper.py`) and `python tests/test_track_record.py`. |
 | `requirements.txt` | What the model needs (the collectors and the site use the standard library only). |
-| `build_site.py` | Builds `site/data.json`, `stats.json`, `ads.json`, `activity.json`, `forecast.json` and `journal.json` (Journal facts + news mentions) from `data/` and `results/`. |
+| `build_site.py` | Builds `site/data.json`, `stats.json`, `ads.json`, `activity.json`, `forecast.json`, `trades.json` (all completed trades, items only) and `journal.json` (Journal facts + news mentions) from `data/` and `results/`. |
 | `site/index.html` | The website (single page, d3). Run locally: `python -m http.server 8767 -d site`. |
 | `track_record.py` | Scores the saved daily 30-day forecasts once their 30 days are over (stdlib; used by `build_site.py`). Tests: `python tests/test_track_record.py`. |
 | `scripts/amvgg_archive.py` | amvgg pet values from before its change log (2026-06-02), from archived copies of its pages on web.archive.org → `data/amvgg_archive/`. Ran once (10 copies, Sep 2025 to May 2026); rerun only if archive.org gains older copies. Site charts only, not used by the model. |
@@ -93,6 +93,7 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 
 ## Current state (2026-11-12)
 
+- **Trades tab (27 Nov):** a code-locked tab (`6767`) lists every completed amvgg trade, items only, from `site/trades.json` (built by `build_site.py`). The code is a soft lock: the file is public, so it must never contain trader names. See log.md.
 - **Sources hidden on the site (20 Nov, temporary):** `HIDE_SOURCES = true` in `site/index.html` shows the lists as "List A" (amvgg) / "List B" (Elvebredd) and removes source credits and links. Set it to `false` when the user wants the sources back. See log.md.
 - Bot, site, all backfills: done and running. The bot now polls completed trades every 5 minutes (3 polls per run) and checks its own collectors at the end of each run.
 - **Site (2026-11-12):** item pages show trading activity for the last 7 days (completed AMVGG trades in total and for the chosen variant, wanted vs offered on each site, the 5 latest trades as item chips, no trader names) from `site/activity.json`, which `build_site.py` writes. Every value also shows "≈ X Frost Dragons (FR)": Frost Dragon fly ride is the yardstick that makes the two lists' scales comparable, also used for the Compare totals. AMVGG values it only calculates from fly ride (773 pets, the `Ad` list in `data.json`) are dotted with a tooltip. Blank 30-day changes show "–" with the reason, offer cards say why they can't be valued, and the Stats tab shows offers collected in the last 24 h. History charts have a soft gradient fill under the step line.
