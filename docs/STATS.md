@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 13:46 UTC by the scrape workflow._
+_Updated 2026-11-27 13:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 13:46 UTC by the scrape workflow._
 | amvgg | 17 | 36,267 | 2026-11-27T13:45 |
 | elve | 17 | 7,581 | 2026-11-27T13:46 |
 
-## AMVGG completed trades: 72,008 total
+## AMVGG completed trades: 72,032 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,048 |
+| 2026-11-27 | 2,072 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 13:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:45 | **natixezq**: Cow (FR), Hedgehog, Hedgehog (R), Kangaroo | **stef070700**: Frost Dragon (FR) |
-| 13:45 | **DalePearson8409**: Chocolate Chip Bat Dragon (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Kvammletitraketa**: Strawberry Shortcake Bat Dragon (R), Alpaca (R), Turtle (FR) ×2, Pet Handler Pro Certificate, Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×5 |
-| 13:45 | **farm2266**: Ride-A-Pet Potion | **nzemniece1**: Gorilla (M) |
-| 13:45 | **chapa4ka579**: Glyptodon ×8 | **Fruit_Kittie**: Ride-A-Pet Potion ×2 |
-| 13:45 | **ezzzzyy3**: Ride-A-Pet Potion | **Puvo_DaluYra**: Bready Necklace |
-| 13:45 | **Shouko_K0mi**: Corn Doggo (MFR), Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig (MR) | **j2v73r**: Strawberry Shortcake Bat Dragon |
-| 13:45 | **Secretaccount12884**: Kangaroo (R), Many Mackerel, Fly-A-Pet Potion | **Sigoretax**: Turtle (FR) |
-| 13:45 | **yena89620**: Hedgehog (FR), Dalmatian (FR) | **kiril4ikGGonlyfan**: Owl (FR) |
-| 13:45 | **kykykykyky_yy**: Elephant (FR), Caterpillar (FR), River Otter (M), Black-Footed Ferret (M), Fly-A-Pet Potion, Ride-A-Pet Potion | **Tamara_dieloste2010**: Cow (FR) |
-| 13:45 | **itsme_zanana**: Orange Betta Fish (M), Komodo Dragon | **Ezyien_vhy**: Fly-A-Pet Potion |
-| 13:45 | **kkaatEEe2**: Kitty Bat (MR) | **GABYPLAZES**: Ride-A-Pet Potion ×11 |
-| 13:45 | **4URANZ3**: Strawberry Shortcake Bat Dragon (FR), Cow (R), Border Collie (R), Shark Puppy | **1nikaroctik**: Haetae (FR) |
-| 13:45 | **kyovd1r**: Candicorn, Turtle (NFR) | **Darkdemon_55555**: Chocolate Chip Bat Dragon (FR) |
-| 13:45 | **y0_0ntofu**: Toy Poodle (N) | **h4_cd**: Ride-A-Pet Potion |
-| 13:45 | **Qt_niyahboo**: Unicorn Horn | **4AdrianaJensen**: Pink Cat (R), Pancake Stack, Alley Cat (R), Majestic Pony (R), Golden Chow-Chow (R), Swan (R), Unicorn (FR) |
+| 13:55 | **lantongzp**: Royal Mistletroll (MFR), Cerberus (MFR), Diamond Butterfly, Turtle, Munchkin Cat | **Cinzsins**: Hot Doggo (MFR) |
+| 13:55 | **svlqutjl**: Balloon Unicorn (FR), Arctic Reindeer (FR), Rainbow Maker ×2, Angel Wings, Rain Cloud Hat, Chihuahua (N) | **sleepy_s0ren**: Giraffe (FR) |
+| 13:55 | **tessadegroot2009**: Ride-A-Pet Potion ×6 | **bell_flowers**: Ice Cream Cone Hat |
+| 13:55 | **Thatscute18**: Moose Calf (MR) | **roblox_user_8676283275**: Alley Cat (MFR) |
+| 13:55 | **beabadubiia2026amvgg**: Rose Quartz Glow Mega Neon Paint, Velvet Fuchsia Mega Neon Paint, Amethyst Skies Mega Neon Paint | **HelloNoDm**: Ride-A-Pet Potion ×2 |
+| 13:55 | **roblox_user_2357474083**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion | **AlastorDanger**: Slimingo (MR) |
+| 13:55 | **eivylia**: Munchkin Cat (N) | **Imcute10088**: Goat (NR), Fly-A-Pet Potion |
+| 13:55 | **Slender202404**: Fallow Deer (NFR) | **Feqriee**: Munchkin Cat ×2 |
+| 13:55 | **Anna_Flora1**: Fly-A-Pet Potion ×2 | **OtVeRtKa08**: Ride-A-Pet Potion ×4 |
+| 13:55 | **YOKOZ303**: Shih Tzu (M), Jacobin Pigeon (M) | **yippieyippieyayaslay**: Ride-A-Pet Potion |
+| 13:55 | **loafactory**: Chocolate Dutch Guinea Pig (MFR), Candy Hare (N), Choco Penguin (MR), Toaster Hat | **nameless_95**: Alley Cat (MFR) |
+| 13:55 | **y0_0ntofu**: Bunny Swirl (R), Maine Coon | **ameyyass**: Ride-A-Pet Potion |
+| 13:55 | **IconsChew**: Dalmatian (FR), Kangaroo (FR), Turtle (FR) | **g0th1c_bxitc**: Crocodile (MFR) |
+| 13:55 | **kindaOwOmeal**: Little Lamb (M) | **ThatPurpleGirl_118**: Cupcake Sprinkle Wings |
+| 13:55 | **nastyauwuregina**: Tiny Wings | **Addyourstruly_cait**: Munchkin Cat (R) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
