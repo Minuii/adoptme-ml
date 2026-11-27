@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 19:25 UTC by the scrape workflow._
+_Updated 2026-11-27 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 41,934 | 2026-11-27T19:15 |
-| elve | 17 | 8,885 | 2026-11-27T19:16 |
+| amvgg | 17 | 42,207 | 2026-11-27T19:30 |
+| elve | 17 | 8,979 | 2026-11-27T19:31 |
 
-## AMVGG completed trades: 73,476 total
+## AMVGG completed trades: 73,491 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 3,516 |
+| 2026-11-27 | 3,531 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 19:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:25 | **restartingalt_accsky**: Dire Wolf (MR), Glormy Dolphin (N) | **tytden333**: Fly-A-Pet Potion ×2 |
-| 19:25 | **Nastya_Mihalyk**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×2 | **Calughm**: Albino Monkey (FR) |
-| 19:25 | **cxar_25**: Turtle (NFR) | **harshwounds**: Alley Cat (MFR) |
-| 19:25 | **sushiunicorn170**: Pain au Chat ×2 | **Zutory_BestSimp**: Ride-A-Pet Potion |
-| 19:25 | **ziiwca**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 | **olddeathcore**: Turtle (FR) |
-| 19:25 | **growagaeden54**: Flower Power Duckling (MFR), Aurora Fox (FR) | **NAT4L1Ex**: Brown Bear (N) |
-| 19:25 | **Blossomgloooom**: Cabbit (NFR), Fly-A-Pet Potion | **itsmeRa3lyn**: Siamese Cat (NFR), Matcha Cat (NFR) |
-| 19:25 | **Indigo_Erin**: Fleur De Ice ×2 | **Waq1uxx**: Gemstone Egg |
-| 19:25 | **gavinmrgoon**: Glamicorn Purse Pet, Llamalush Purse Pet, St Bernard | **DellaxKenneth**: Ride-A-Pet Potion |
-| 19:25 | **m1so_02**: Frog, Black Macaque | **polinchhikk**: Gemstone Egg |
-| 19:25 | **Poppycatplays909**: Kangaroo (FR), 2022 Birthday Party Horn, Strawberry Shortcake Bat Dragon (FR), Ice Cream Cone Hat | **leonel89038**: Turtle (MFR) |
-| 19:25 | **RoBin_So5**: Arctic Reindeer (NFR), Ride-A-Pet Potion | **Yuki_Crossword067**: Strawberry Shortcake Bat Dragon (NFR) |
-| 19:25 | **myd666vil**: Fly-A-Pet Potion ×2, Narwhal (F), Pink Betta Fish | **HAJK102**: Spring Bunny Hood |
-| 19:25 | **AprilMaeJune0**: Hippogriff (R), Ice Moth Dragon (R), Peachick, Emberlight | **Rixy_57**: Fly-A-Pet Potion |
-| 19:25 | **iklerka7228**: Temple Friend ×4, Winter Buck, Zodiac Minion Chick | **lantongzp**: Ride-A-Pet Potion |
+| 19:30 | **qxt_Snow**: Three Blind Mice | **Asi_niki**: Alicorn |
+| 19:30 | **Chicken_Drumsticksss**: Zombie Wolf (N) | **Miancatgameplaylol**: Ride-A-Pet Potion ×5 |
+| 19:30 | **barrackpalinka1**: Candy Hare (NFR), Ram | **Cocoa_top123**: Bunny Swirl (MFR) |
+| 19:30 | **teddycutie7**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3, Jacobin Pigeon (M) ×3, Chihuahua | **oh_eql**: 2D Kitty (NFR), Naughty Mistletroll (N) |
+| 19:30 | **dasha_kotik479**: Mouse (MR), Badger (M) | **Murka_2454**: Ride-A-Pet Potion |
+| 19:30 | **twixyetwix**: Crystal Egg ×10 | **lovee_juliee27**: Ride-A-Pet Potion |
+| 19:30 | **lili270811**: German Shepherd (MFR), Tuxedo Cat (M), Chihuahua (MR), Bunny Swirl (M), Matcha Cat, Hyena | **abdoosaad**: Strawberry Shortcake Bat Dragon (FR) |
+| 19:30 | **BELUGAMER60**: Admin Abuse Box ×11 | **sussiecute12**: Standard Capuchin Box |
+| 19:30 | **puppiestarzzZ**: Chocolate Dutch Guinea Pig (MR) | **pixeltayler123**: Cloud Car |
+| 19:30 | **gato12345129**: Majestic Pony (NFR) | **ExpertChipmunkPro**: Shooting Star Board, Heart Potion, Fly-A-Pet Potion |
+| 19:30 | **Brian_Fayx**: Fly-A-Pet Potion ×3 | **jojamojap**: Frost Fury (FR) |
+| 19:30 | **Panda_thatslocal**: Solar Burst Mega Neon Paint, Giant Black Scarab | **55lvr**: Ride-A-Pet Potion |
+| 19:30 | **jdjdmdjdjdu**: Pain au Chat ×7, Chihuahua | **Aslyloving123**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 19:30 | **santu_xdnt**: Kangaroo (R), Shark Puppy (R) | **Ryukyu7336**: Fairy Bat Dragon (FR) |
+| 19:30 | **JanaJanjoon11**: Berry Cool Cube, Three Blind Mice ×2, Dire Wolf, Magma Snail, Thunderfisher (N) | **lantongzp**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
