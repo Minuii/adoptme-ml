@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 08:46 UTC by the scrape workflow._
+_Updated 2026-11-27 08:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 08:46 UTC by the scrape workflow._
 | amvgg | 17 | 31,432 | 2026-11-27T08:45 |
 | elve | 17 | 6,561 | 2026-11-27T08:46 |
 
-## AMVGG completed trades: 71,117 total
+## AMVGG completed trades: 71,153 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,157 |
+| 2026-11-27 | 1,193 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 08:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:40 | **samesame1279**: Evil Unicorn (FR), Cow (FR), Frost Unicorn (FR), Nessie (R), Red Dutch Guinea Pig | **Violet20191dd**: Parrot (FR) |
-| 08:40 | **cowlol898**: Matcha Cat (R) | **quVare_PDF**: Stitches (MR), Orca (MR), Fennec Fox (MFR), Stitches (M), Caramelgeist (MR), Black Tiger (M) |
-| 08:40 | **itsmeRa3lyn**: Balloon Unicorn (FR), Spring Bunny Nose, Pancake Stack | **clavio000**: Chocolate Chip Bat Dragon (NFR) |
-| 08:40 | **SophiaStormy136**: Crystal Egg ×18 | **C0PHYAK**: Ride-A-Pet Potion |
-| 08:40 | **starswirl_64**: Koi Carp ×4 | **DwWsHZ_2003**: Ride-A-Pet Potion |
-| 08:40 | **LoL22221364**: Catte, Count Slothula | **Evelyy_na**: Fly-A-Pet Potion |
-| 08:40 | **SECRET_AGENT5054**: Copycat, Brown Bear, Pancake Stack, Spring Bunny Nose, Royal Palace Spaniel (NFR), Flower Power Duckling (N), Pet Handler Pro Certificate, Flaming Fox, Spring Bunny Feet, Leopard Shark, Ride-A-Pet Potion ×8 | **calvita682**: Cow |
-| 08:40 | **Kobe242136**: Cow Calf (MFR) | **pe4enka457942**: Albino Bat (MR) |
-| 08:40 | **booksquad1213xx**: Strawberry Tortle | **pizdinavolosina**: Jester Dragon (FR), Jester Dragon, Jousting Horse (R), Ride-A-Pet Potion ×8, Chihuahua |
-| 08:40 | **mystery_panther**: Kangaroo (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion, Capricorn | **X4NNY30TH**: Turtle (FR) |
-| 08:40 | **Inganta07**: Fly-A-Pet Potion ×3 | **Iamabaconboilol**: Haetyphoon |
-| 08:40 | **hdhvsjosh**: Ride-A-Pet Potion ×4, 2022 Birthday Confetti Drape ×2 | **Elmasinsano_392**: Cozy Mistletroll (M), Mrs. Whiskerpips (M) |
-| 08:40 | **INeverrCap**: Fly-A-Pet Potion, Ride-A-Pet Potion ×4 | **vixxi05**: Sheeeeep |
-| 08:40 | **aleeyah51092**: Cake Friend (NR) | **Cust3rdNemesis**: Pupcicle (N), Pupcicle |
-| 08:40 | **MATT_2011901**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×7 | **Zlota_Sofa**: Frost Unicorn (FR) |
+| 08:55 | **KralBombastik60**: Strawberry Shortcake Bat Dragon (FR) ×2, Fairy Bat Dragon (FR) | **KufoXD**: Parrot (FR) |
+| 08:55 | **wimpy_worm**: Sheeeeep (NFR), Spring Bunny Hood | **itIbIush**: Haetyphoon (NFR) |
+| 08:55 | **noaboa678**: Rainbow Maker, Unicorn Horn, Rain Cloud Hat, Rose Dragon | **Bella294958**: Strawberry Tortle (NFR) |
+| 08:55 | **cozyxskyex**: Arctic Fox (R), Field Mouse | **plech_YT000**: Black Macaque (MFR) |
+| 08:55 | **L32ghty6**: Stray Cat Dragon, Diamond Dragon, Ancient Dragon, Purrowl, Ginger Cat, Count Slothula | **EvernightWife**: Ride-A-Pet Potion |
+| 08:55 | **3x4_Jenna**: Unicorn Horn, Tiny Wings, Pancake Stack | **Dlya_amvgg**: Goose |
+| 08:55 | **VanaigSki**: Ghost Wolf (NFR) | **Zuminkikiki**: Ride-A-Pet Potion |
+| 08:55 | **Ilvvech33seburgers34**: Cerberus (NFR) | **Kobe242136**: Vermilion Butterfly (MR) |
+| 08:55 | **Frs_88xx**: Fairytale Egg ×17 | **ilx_sofiaaa**: Gemstone Egg |
+| 08:55 | **Callme_Mary45**: Chihuahua (M), Ponytail | **Fluffbxiii25**: Fly-A-Pet Potion ×4, Bakeneko (M) |
+| 08:55 | **123luna958**: Yeti, Scarlet Butterfly | **DreamWalker_47**: Sushi Penguin |
+| 08:55 | **Ethernaces**: Stray Cat Dragon ×8 | **HOCOKKU**: Ride-A-Pet Potion |
+| 08:55 | **pasha_zara**: Cryptid (NFR) | **copyvoting**: Arctic Reindeer (FR), Arctic Reindeer (NFR), Ride-A-Pet Potion, Copycat |
+| 08:55 | **carlothegemer_ph**: Turtle (FR), Clementine Owl (MFR), Pink Betta Fish (MR), Gemstone Egg | **nainalt5**: Kangaroo (NFR) |
+| 08:51 | **kagurasgl0w**: Fairy Bat Dragon (R) | **aominerplaysrblx**: Cabbit |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
