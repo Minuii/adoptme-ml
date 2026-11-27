@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 00:01 UTC by the scrape workflow._
+_Updated 2026-11-27 00:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 00:01 UTC by the scrape workflow._
 | amvgg | 17 | 23,066 | 2026-11-27T00:00 |
 | elve | 17 | 4,885 | 2026-11-27T00:01 |
 
-## AMVGG completed trades: 69,977 total
+## AMVGG completed trades: 70,004 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 17 |
+| 2026-11-27 | 44 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 00:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:00 | **SophiaStormy136**: Crystal Egg ×18 | **taacr9**: Ride-A-Pet Potion |
-| 00:00 | **9vvdx**: Dalmatian (NFR) | **1s2ll**: Strawberry Shortcake Bat Dragon (NFR), Mini Pig (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 |
-| 00:00 | **1s2ll**: Pig (R) | **MRP611**: Nessie (R), Alley Cat |
-| 00:00 | **aloiv484**: Pig (R), Fly-A-Pet Potion | **1s2ll**: Dragonfruit Fox, Chocolate Dutch Guinea Pig ×3, Flaming Fox, Hare |
-| 00:00 | **fenix085L**: Alicorn (MFR) | **BROIMBROKEAHHHHH**: Copycat |
-| 00:00 | **lalafan966**: Balloon Unicorn (FR), Goose (FR), Unicorn Horn, Flamingo (R) | **esabella0_o**: Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) |
-| 00:00 | **killerman_xd1**: Dragonfly ×18 | **oxoglockz**: Fly-A-Pet Potion |
-| 00:00 | **killerman_xd1**: Dragonfly ×18 | **oxoglockz**: Ride-A-Pet Potion ×2 |
-| 00:00 | **1Biahsz_altx**: Pet Handler Pro Certificate | **ppomkoo**: Ride-A-Pet Potion ×2 |
-| 00:00 | **vital_dan**: Bush Elephant (N), Dango Penguins (MFR), Strawberry Tortle, Pet Handler Pro Certificate, Ornate Horned Frog (M) | **Zroxxxxx**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
-| 00:00 | **elproXD_7v7**: Chihuahua ×18 | **Tuuu_Madreee2**: Ride-A-Pet Potion ×6 |
-| 00:00 | **elproXD_7v7**: Chihuahua ×12 | **lu_ven5**: Ride-A-Pet Potion ×4 |
-| 00:00 | **kittietaiI**: Siamese Cat, Cabbit (R), Alley Cat | **Myobap**: Siamese Cat (NFR) |
-| 00:00 | **JorgeEduardo_123**: Glider, Hoverboard | **dnei30fast**: Fly-A-Pet Potion |
-| 00:00 | **Angelbatista_me2**: Sea Angel (MR) | **BROIMBROKEAHHHHH**: Copycat |
+| 00:06 | **abdoosaad**: Goose (FR) | **kkiryomi**: Pupcake (MR), Puptune (MR), Unicorn (N), Alley Cat (R), Pupcicle (N), Dragonfruit Fox, Bunny Swirl (N), Gumball Caterpillar (MR), Unicorn, Hamster (N), Pudding Cat (R), Cattuccino (N) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 00:06 | **DefinitelyNotCha6**: Sock Chew Toy, Heart Balloon, Gift Throw Toy, Elf Plush, Cookie Dough Plush ×3, Candle ×2, Banana Plush, Turkey Plush, Ornament Throw Toy, Dragon Balloon ×3 | **lba_fofe**: Fly-A-Pet Potion |
+| 00:06 | **Void88881**: Alpaca (R) | **stitchedeyesholder**: Sheeeeep (NFR) |
+| 00:06 | **leras3008976**: Cattuccino (M), Pilot Gull (M) | **Kyza_222222223**: Pet Handler Pro Certificate, Ride-A-Pet Potion |
+| 00:06 | **oxoglockz**: Ride-A-Pet Potion | **killerman_xd1**: Ancient Dragon ×9 |
+| 00:06 | **whimsyyblues**: Ghost Bunny (MFR), Tri-horned Treehopper | **MahaUbivaha323567**: Zombie Wolf (MFR) |
+| 00:06 | **Doory_Dolly**: Red Dutch Guinea Pig | **unicornsun_BD2**: Unicorn (N) |
+| 00:06 | **LoserChl0e**: Shadow Dragon (FR), Arctic Reindeer (FR), Peppermint Penguin (R), Mini Pig, Pretty Pony (MFR), Alpaca, Munchkin Cat (M) | **fahrodupencheng**: Bat Dragon (FR) |
+| 00:06 | **jjyuzii**: Arctic Dusk Dragon | **ajoloteflac1900**: Woolly Mammoth (MR) |
+| 00:06 | **C4K3YK1TTEN**: Dango Penguins (M), Dragonfruit Fox (M), Dalmatian (FR) | **LilithCGEye**: Arctic Fox (MFR), Field Mouse (MFR), Black Springer Spaniel (MFR) |
+| 00:06 | **AdoptMeHere03**: Fly-A-Pet Potion ×11 | **ajoloteflac1900**: Frost Unicorn (FR) |
+| 00:06 | **pop3791020**: Candicorn, Fly-A-Pet Potion ×2 | **XxSorvetyxX**: Siamese Cat (R) |
+| 00:06 | **Giodg2006**: Sushi Penguin (M), Fly-A-Pet Potion, Ride-A-Pet Potion | **vpzqik**: 2022 Birthday Cake |
+| 00:06 | **Elwanizk**: Unicorn ×2 | **Darciesbestie8943**: Ride-A-Pet Potion ×2 |
+| 00:06 | **Klsofley**: Bunny Swirl (MR), Spring Bunny Hood | **JunktradingALT**: Hamster (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
