@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 14:01 UTC by the scrape workflow._
+_Updated 2026-11-27 14:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 14:01 UTC by the scrape workflow._
 | amvgg | 17 | 36,507 | 2026-11-27T14:00 |
 | elve | 17 | 7,654 | 2026-11-27T14:01 |
 
-## AMVGG completed trades: 72,051 total
+## AMVGG completed trades: 72,086 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,091 |
+| 2026-11-27 | 2,126 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 14:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:00 | **rokcu_y2k**: Chocolate Chip Bat Dragon (FR), Turtle (FR), Candicorn (FR) | **Berryvision_fan**: Fairy Bat Dragon (NFR), Cabbit (FR) |
-| 14:00 | **vlv_var1kiz1488868**: Cow (FR), Munchkin Cat (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion | **asdwqaojheiu1238**: Strawberry Shortcake Bat Dragon (FR) |
-| 14:00 | **jauzyp**: Fly-A-Pet Potion | **DefinitelyNotFroggy**: Strawberry Shortcake, Halloween Mummy Cat Box, Walrus Box |
-| 14:00 | **bell_flowers**: Ride-A-Pet Potion ×4 | **jayden190614**: Unicorn Backpack |
-| 14:00 | **Alianboy100**: Cryptid (FR), Jekyll Hydra, Peppermint Penguin (R), Shark Puppy (F) | **Poumaxxing4**: Chocolate Chip Bat Dragon (NFR) |
-| 14:00 | **DV8WYBF8YWS**: Pudding Cat (M) | **poniblush**: Koi Carp (MFR) |
-| 14:00 | **CatalinaApple2**: Tanuki (M), Black Springer Spaniel (N), Bakeneko (M), Strawberry Clip, Mochi Meow Tumble Animated Sticker | **meowqi_08**: Happy Duckling (MFR) |
-| 14:00 | **CarelessAngelx**: Chocolate Chip Bat Dragon (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **ksjdiojioejd**: Parrot (FR) |
-| 14:00 | **FrostPixel5930**: Crystal Egg ×18 | **kefir1Life**: Ride-A-Pet Potion |
-| 14:00 | **hdhvsjosh**: Ride-A-Pet Potion ×2 | **florence_23111**: Bunny Swirl (N) |
-| 14:00 | **DefinitelyNotCha6**: Mermaid Mansion | **hdhvsjosh**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 14:00 | **noaboa678**: Chef Gorilla (N), Leopard Shark (NR), German Shepherd (N), Haetyphoon, Matcha Cat | **bachoypiggy**: 2022 Birthday Party Hat |
-| 14:00 | **Itzz_Hannah56**: Strawberry Shortcake Bat Dragon (FR) | **joustin_89224**: Peppermint Penguin (R), Fairy Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×4 |
-| 14:00 | **cxar_25**: Cabbit (R), Ocean Egg | **NOOBinROBLOX2022**: Fairy Bat Dragon (FR) |
-| 14:00 | **WintErSnowy1**: Chocolate Dutch Guinea Pig, Fly-A-Pet Potion | **rb_feel**: Frogspawn (M), Hopbop (M) |
+| 14:11 | **itzz_roblox89**: Chocolate Chip Bat Dragon (NFR), Hedgehog, Tiny Wings, Christmas Pudding Pup (R), Indian Flying Fox (MR), Arctic Dusk Dragon (R), Fly-A-Pet Potion ×2, Elf Hat ×2, Spring Bunny Feet, Ride-A-Pet Potion, Chocolate Dutch Guinea Pig, Shark (R), Sugar Skull Potion | **BosCaxapkovUWU2021**: Mermicorn (MFR) |
+| 14:11 | **Nanax_8907**: Christmas Pudding Pup (FR) | **KimikoYuka**: Malaysian Tapir (M), Fly-A-Pet Potion |
+| 14:11 | **pizdinavolosina**: Christmas Spirit (N) | **CyberI6Pixel81442**: Ride-A-Pet Potion |
+| 14:11 | **Rbd_JP**: Bat Dragon (FR) | **Notiamchaerin**: Cryptid (MFR) |
+| 14:11 | **beebodooo**: Admin Abuse Egg ×18 | **nhannahbanana**: Ride-A-Pet Potion |
+| 14:11 | **Rbd_JP**: Ballet Swan (M) | **recos0401**: Copycat (MFR) |
+| 14:11 | **imxwwq**: Banana Hat | **nzemniece1**: Fly-A-Pet Potion |
+| 14:11 | **beebodooo**: Admin Abuse Egg ×17, Cattuccino | **nhannahbanana**: Ride-A-Pet Potion |
+| 14:11 | **infrxmniiq**: Cryptid (R) | **Haiealysososo**: Sugar Glider (NFR), Tiny Wings |
+| 14:11 | **COCN_XNY**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 14:11 | **jilljaz**: Panda (NFR) | **jauzyp**: Chihuahua ×12 |
+| 14:11 | **Anshika674**: Mini Pig (FR), Lion Cub (FR), Hare, Dango Penguins, Cerberus (FR), Cerberus, Winged Horse (F), Irish Elk (NFR), Ride-A-Pet Potion ×3, Lunar Ox (MFR), Robin (N), Bee (NFR), Fool Egg, Panda, Happy Duckling, Moon Rabbit | **kuut11r**: Strawberry Shortcake Bat Dragon (FR) |
+| 14:06 | **Reyeyerafifp**: Tortoiseshell Guinea Pig (FR), Arctic Fox (R) | **himariiwooosh**: Mermicorn (FR) |
+| 14:06 | **omlisage_amvgg**: Arctic Fox (R) | **Love_Yuri01**: Lamb (NFR) |
+| 14:06 | **svqh12**: Hedgehog (FR), Ice Cream Cone Hat, Samoyed (MFR), Seahorse (MFR) | **Annsjdnsnjs**: Haetae (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
