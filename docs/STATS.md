@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 03:01 UTC by the scrape workflow._
+_Updated 2026-11-27 03:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 03:01 UTC by the scrape workflow._
 | amvgg | 17 | 26,057 | 2026-11-27T03:00 |
 | elve | 17 | 5,473 | 2026-11-27T03:01 |
 
-## AMVGG completed trades: 70,388 total
+## AMVGG completed trades: 70,412 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 428 |
+| 2026-11-27 | 452 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 03:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:00 | **AMELIESFABXO**: Meerkat (MFR), Cabbit (NFR), Red Dutch Guinea Pig (MFR), Silly Duck (MFR), Halo, Toaster Hat | **kaylamicmi**: Goose (MFR) |
-| 03:00 | **Getting_DreamPetCrow**: Royal Palace Spaniel (MFR), Cuddly Candle (MFR) | **amvggaltaccxox**: Pirate Hermit Crab (MR) |
-| 03:00 | **iwqsso**: Dalmatian (FR) | **idctbf11**: Cryptid (FR) |
-| 03:00 | **Aslyloving123**: Peppermint Penguin (NFR), Tiny Wings, Pancake Stack, Ride-A-Pet Potion ×5 | **abelhagalatica**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) |
-| 03:00 | **NotEllezxo**: Cryptid (N) | **oatsit**: Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR), Turtle (FR), Unicorn Horn, Copycat (N), Candicorn |
-| 03:00 | **xf4wnskull**: Chihuahua (N), Fly-A-Pet Potion | **ophyns**: Robo Dog (N), Golden Walrus (FR) |
-| 02:55 | **Ogingagh1011**: Border Collie (MFR) | **hanb3ki**: Giant Panda (FR), Turtle (FR) |
-| 02:55 | **St0rm_Sniper89**: Werewolf | **l0v3y0u_o**: Clownfish (MR), Cattuccino (M), Boohoo (M), Frankenfeline (M), Ermine (N), Blue Cat (M), Aye Aye (M), Pupcake, Pain au Chat, Poodle (M), Rodeo Bull (N), Ostrich, Icy Porcupine (N), Mole (N), Thunderfisher (N), Wren (N), Clownfish, Rabbit (N) |
-| 02:55 | **ang3licbwnni**: Jester Dragon (N) | **Elias0160Shiro**: Werewolf, Copycat |
-| 02:51 | **SparkleHusky12**: Pandaguin Glooptodog, Bobageist | **littlefelonies**: Fennec Fox ×2 |
-| 02:51 | **antuco_tuco909**: Groundhog (N), Strawberry Shortcake Bat Dragon (FR), Goose, Skele-Rex (NFR) | **Seemydescfortrade**: Haetae (FR) |
-| 02:51 | **pwwaazzz**: Turtle (NFR), Border Collie | **personal_stalker69**: Border Collie (NFR), Arctic Fox, Fly-A-Pet Potion ×4 |
-| 02:51 | **Laryxn00**: Halloween Evil Dachshund | **lianchik_cutee**: Eggnog Dog |
-| 02:51 | **SophiaStormy136**: Crystal Egg ×18 | **Itz_Marsie**: Ride-A-Pet Potion |
-| 02:51 | **solkabuai**: Fly-A-Pet Potion | **zianagirls**: S'mores Raccoon (FR) |
+| 03:11 | **002Jayy**: Shark Puppy (FR), Alley Cat (R), Bunny Swirl (NR) | **lolo_gils**: Elephant (FR) |
+| 03:11 | **antuco_tuco909**: Haetae (FR), Hot Doggo (FR), Copycat (NFR), Kangaroo (FR), Ballet Swan (FR) | **CloudyFalconpro4**: Owl (FR) |
+| 03:11 | **dashadow_thingyzz**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) ×2 | **TMDung20**: Chocolate Chip Bat Dragon (NFR), Candicorn (N), Ride-A-Pet Potion |
+| 03:11 | **matthewisI2here**: Goat (NFR), Rainbow Maker, 2022 Birthday Party Hat, 2022 Birthday Cupcake Shoes, Cherry-On-Top | **nico_ffgamer**: Parrot (FR) |
+| 03:11 | **moonlightbabeess**: Ranger Beaver (MFR), Bunny Swirl (M) | **4ssure**: Tuxedo Cat (MFR) |
+| 03:11 | **Inganta07**: Fly-A-Pet Potion ×3 | **baby_demonakakj**: Flash Weasel |
+| 03:11 | **IWantBGSPets1234**: Shrew, Pain au Chat | **me_logyemad**: Frost Fury (FR) |
+| 03:11 | **LovelinessFluffiness**: Dalmatian (MFR) ×2, Giant Panda (MFR), Hedgehog (MFR) ×2 | **method611491**: Bat Dragon (MFR) |
+| 03:11 | **elproXD_7v7**: Chihuahua ×3 | **Bex0100**: Ride-A-Pet Potion |
+| 03:11 | **jatikat**: Tortoiseshell Guinea Pig | **user9461037**: Albino Monkey (FR) |
+| 03:06 | **T3bas1**: Nessie (MFR) | **yan_heso030**: Jester Dragon (NFR), Candyfloss Chick (R), Crocodile (R), Happy Duckling (MR), Pig (FR), Vampire Dragon (FR), Copycat (FR), Ring-Tailed Lemur (R), English Sheepdog (N), Lamb, Ride-A-Pet Potion |
+| 03:06 | **AyiGamerUwu**: Frostbite Cub (MR) | **estrella_gamer132**: Fly-A-Pet Potion, Ride-A-Pet Potion ×8, Festive Stocking Shoes |
+| 03:06 | **rainthatxx**: Frost Unicorn | **girl45unicornmagic**: 2022 Birthday Cupcake Shoes |
+| 03:06 | **alexgameminecraft**: Toy Poodle (MR) | **rexxevs**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 03:06 | **VictoriaDimond12345**: Budgie Witch (N) | **vivicacke17**: Buffalo (N) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
