@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 07:16 UTC by the scrape workflow._
+_Updated 2026-11-27 07:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 07:16 UTC by the scrape workflow._
 | amvgg | 17 | 30,110 | 2026-11-27T07:15 |
 | elve | 17 | 6,270 | 2026-11-27T07:15 |
 
-## AMVGG completed trades: 70,908 total
+## AMVGG completed trades: 70,936 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 948 |
+| 2026-11-27 | 976 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 07:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:15 | **olddeathcore**: Hippogriff (NFR), Peachick (NFR), Ride-A-Pet Potion | **Ksenka866**: Papa Moose |
-| 07:15 | **Milkis_2352**: Corn Doggo (NFR), German Shepherd (NR), Ride-A-Pet Potion ×5, Christmas Spirit (N), Puptune, Pupcake, Catte | **aikyuurei**: Ring-Tailed Lemur (NFR) |
-| 07:11 | **LUISMATEO3112**: Ride-A-Pet Potion | **Yurishi_Kashigava**: Ant (M), Kitty Bat |
-| 07:11 | **adriel_24k**: Cow, Candicorn (R) | **sprxngbonnie**: Turtle (FR), 2022 Birthday Party Hat |
-| 07:11 | **ciruchiroo**: Cow | **bniicake**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×6 |
-| 07:11 | **lisamod65321**: Ride-A-Pet Potion | **yshikza**: Crystal Egg ×18 |
-| 07:11 | **nwksuv**: Dog (NR), Dog (N) ×4, Beluga Whale (NR) | **noor_san0**: Ride-A-Pet Potion |
-| 07:11 | **virgo228a**: Black-Chested Pheasant (NFR) | **mdmdnkevsjsvaj**: Cow (FR) |
-| 07:11 | **nona200986**: Koi Carp (N) | **Callme_Mary45**: Ride-A-Pet Potion |
-| 07:11 | **peachieskiwi**: Dragonfruit Fox (NR) | **SieunOoOo0**: Dragonfruit Fox (N), Chihuahua |
-| 07:11 | **Kali_girl790**: Dango Penguins (N), Arctic Fox (R) | **peachieskiwi**: Unicorn Horn |
-| 07:11 | **ellielielielieee**: Ride-A-Pet Potion ×2 | **inquireese**: Pet Handler Pro Certificate |
-| 07:11 | **inquireese**: Ride-A-Pet Potion | **Appelkruimell**: Alicorn ×11 |
-| 07:06 | **roblox_user_8676283275**: Kangaroo (FR), Flamingo (FR) | **vanillqsz**: Golden Chow-Chow (MFR), Fly-A-Pet Potion |
-| 07:06 | **Inganta07**: Fly-A-Pet Potion ×3 | **1kweezzee**: Flash Weasel |
+| 07:25 | **xavspup**: Evil Unicorn (FR) | **summerg6mes**: Cryptid (FR), Pet Handler Pro Certificate ×2 |
+| 07:25 | **1Thebigbossboy**: Cabbit (MFR), Spring Bunny Nose | **speedy_coki**: Crow (FR), Goose (NFR), Fairy Bat Dragon (NFR) |
+| 07:25 | **Themr_harlen0220**: Undead Jousting Horse (FR), Fly-A-Pet Potion | **NewSHellYY**: Hot Doggo (FR) |
+| 07:25 | **Endlesspurplequirl**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×6 | **Anabellasilva2**: Arctic Reindeer (FR) |
+| 07:25 | **1rvinn_x4xa**: Ancient Dragon ×3, Blue Whale, Mochi Meow (N), Mochi Meow ×4 | **DwWsHZ_2003**: Ride-A-Pet Potion |
+| 07:25 | **klxchzz**: Fly-A-Pet Potion ×15, Pet Handler Pro Certificate ×3 | **gg986gg**: Goose (FR) |
+| 07:25 | **HappyDad786**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon ×3, Cow (FR) | **forneonblazinglion**: Shadow Dragon (FR) |
+| 07:25 | **Aubrey_Prism851**: Dragonfruit Fox (NR), Haetyphoon (R) | **Icecrymmxm**: Rain Cloud Hat, Adopt Me Girl Scooter |
+| 07:25 | **004FAscend004**: Strawberry Shortcake Bat Dragon (NFR) ×3, Strawberry Shortcake Bat Dragon (FR) ×5, Mini Pig (FR), Copycat (NR) | **YakarKizBanuu**: Bat Dragon (FR) |
+| 07:25 | **BlueNeonSuper**: Christmas Pudding Pup (R), Ride-A-Pet Potion ×2, Chihuahua | **peachieskiwi**: Arctic Fox (R) |
+| 07:20 | **cheseyyyyyyyyy**: Ride-A-Pet Potion ×2 | **1rvinn_x4xa**: Silly Duck (R) |
+| 07:20 | **FlyToTheSaturn**: Black Cab, Choo Choo Train, Dino Truck, Hovercar, Royal Carriage, Magical Girl Car, Imagination Box, SUV, Postie Van, Wizard Caravan, Husky Sled, Flower Wagon, Hot Rod Sleigh | **dnei30fast**: Fly-A-Pet Potion ×2 |
+| 07:20 | **Officalyuichi**: Corgi (MR) | **Popa67742**: Ride-A-Pet Potion |
+| 07:20 | **Mm2_verchixx**: Garden Egg, Golden Egg, Pomeranian, Starfish, Golden Wheat | **dnei30fast**: Ride-A-Pet Potion |
+| 07:20 | **wskdaks**: Cow (FR) | **bsusbgwkw**: Cabbit (FR), Hamster (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
