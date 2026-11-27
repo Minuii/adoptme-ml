@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 22:40 UTC by the scrape workflow._
+_Updated 2026-11-27 22:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 22:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 45,344 | 2026-11-27T22:30 |
-| elve | 17 | 9,720 | 2026-11-27T22:31 |
+| amvgg | 17 | 45,605 | 2026-11-27T22:45 |
+| elve | 17 | 9,797 | 2026-11-27T22:46 |
 
-## AMVGG completed trades: 74,400 total
+## AMVGG completed trades: 74,410 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,440 |
+| 2026-11-27 | 4,450 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 22:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:45 | **sadu_bestespielerin**: Gemstone Egg ×2, Endangered Egg ×2 | **hellin_flames**: Unicorn |
+| 22:45 | **maniyani7**: Pink Heart Glasses | **jisungbi4sed**: Ride-A-Pet Potion |
+| 22:45 | **SaRa654396**: Chocolate Chip Bat Dragon (FR), Ice Cream Cone Hat, Fly-A-Pet Potion ×4, Albino Monkey, Moon Rabbit (R) | **vorvara161**: Cryptid (FR) |
+| 22:45 | **Yakkuji**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 | **dumme_kiwi**: Rain Cloud Hat |
+| 22:45 | **4lt_042**: Diamond Unicorn, Gecko, Moonpine (N), Gibbon (N), Clownfish, Kelp Hunter, Hydra, Count Slothula, Yeti, Pudding Cat, Shetland Pony White, Roadrunner, Salamander, Trapdoor Snail, Kappakid, Prism Snake, Red Crowned Crane, Tan Chow-Chow | **poshol_naxouPwP**: Fly-A-Pet Potion ×2 |
+| 22:45 | **Oljusik_8**: Robot, DJ Snooze, Little Lamb, Thunderfisher, Three Blind Mice, Mummy Spider | **iisunflower_sunyy**: Purrowl (N) |
+| 22:45 | **reserbadong2**: Ride-A-Pet Potion, Chocolate Chip Bat Dragon (FR), Cow (FR) | **Ash_Yumin**: Amethyst Penguin |
+| 22:45 | **943049209d**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×3 | **Reya426**: Crocodile (R) |
+| 22:45 | **ppomkoo**: Ride-A-Pet Potion | **2tayy**: Hooray Pink Mega Neon Paint |
+| 22:45 | **Frits_Snoek**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **XSamxggX**: Jester Dragon (FR) |
 | 22:40 | **dayn_okda12**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×2, Bakeneko (N) | **17layken**: Tilcayo |
 | 22:40 | **newon135**: Jousting Horse (MFR), Mini Pig (FR), Snowball Pug (MFR), Ride-A-Pet Potion ×2 | **Cherryblossom_01580**: Silverback Gorilla (MFR) |
 | 22:40 | **roblox_user_2641599159**: Guardian Lion (R) | **Luffeyys_ezss**: Ride-A-Pet Potion |
 | 22:40 | **FrostyLife8382**: Ride-A-Pet Potion | **Pineapple_GirlXDD**: Gemstone Egg ×2 |
 | 22:40 | **cutesydals**: Sushi Penguin (MFR), Ring-Tailed Lemur (MFR), Castle Hermit Crab (MFR), Feesh (MFR), Halloween Evil Dachshund (M), Panda (MFR), Bauble Buddies (M), Spring Bunny Hood | **t1mskyy**: Border Collie (MFR) |
-| 22:40 | **helloiam_spongebob**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **therealkayt67**: Shrew |
-| 22:40 | **helloiam_spongebob**: Purrowl (N), Milk Choccybunny (M), Dark Choccybunny (N) | **valentinaemmz**: Ride-A-Pet Potion |
-| 22:40 | **perit4733**: Ride-A-Pet Potion | **Smookgans**: Three Blind Mice (NR) |
-| 22:40 | **Nicckie_Min42**: Crocodile (R), Pet Handler Pro Certificate, Ride-A-Pet Potion ×4 | **Reya426**: Kangaroo (FR) |
-| 22:40 | **kiff_shik**: Cryptid (FR) | **Masha25648150**: Candyfloss Chick (FR), Kangaroo (FR) ×2, Jester Dragon, Sugar Glider (R), Christmas Pudding Pup |
-| 22:40 | **Constancee_Starr**: Dragon (NFR) | **krxadm3**: Crystal Egg ×18 |
-| 22:40 | **YOKOZ303**: Badger (N) ×2, Badger (M) | **krxadm3**: Crystal Egg ×15 |
-| 22:40 | **F0rblows**: Mini Pig (NFR), Sugar Glider (FR), Candicorn | **loveyy232**: Crow (FR) |
-| 22:40 | **dumme_kiwi**: Arctic Reindeer (FR), Copycat (FR), Ride-A-Pet Potion ×2 | **Oliver20717**: Copycat (MFR) |
-| 22:40 | **Navilolp**: Crystal Egg ×18 | **itsjustav1**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
