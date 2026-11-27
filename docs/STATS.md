@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 04:31 UTC by the scrape workflow._
+_Updated 2026-11-27 04:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 04:31 UTC by the scrape workflow._
 | amvgg | 17 | 27,490 | 2026-11-27T04:30 |
 | elve | 17 | 5,732 | 2026-11-27T04:31 |
 
-## AMVGG completed trades: 70,573 total
+## AMVGG completed trades: 70,595 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 613 |
+| 2026-11-27 | 635 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 04:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:30 | **heavsns**: Arctic Reindeer (R) | **MemeAethetic**: Hot Doggo (R), Albino Monkey (FR), Bunny Swirl (MFR) |
-| 04:30 | **SophiaStormy136**: Crystal Egg ×18 | **ItssMeBrookie**: Ride-A-Pet Potion |
-| 04:30 | **admtradeonly**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 04:30 | **0mimiberry**: Candicorn (R), Ride-A-Pet Potion ×5 | **sleepy_4ng3l**: Mermicorn |
-| 04:30 | **UmmBakrAlCali**: Unicorn Horn, Tiny Wings | **kaylamicmi**: Angel Wings |
-| 04:30 | **st4rman_sl4ughter**: Cow (NFR), Cow (FR) ×4, Munchkin Cat (FR) | **jaquavisdonaldsonn**: Cow (MFR) |
-| 04:30 | **stefkazzz**: Arctic Reindeer (FR), Elephant (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **rybdsey**: Dalmatian (FR) |
-| 04:30 | **jdjdmdjdjdu**: Chihuahua ×6, Pain au Chat ×2 | **dashe4kavbb**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 04:30 | **dahoody2k3**: Moose Calf, Chihuahua ×2 | **004FAscend004**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 04:30 | **awhbubblessss**: Ride-A-Pet Potion | **Kagem1_rbx**: Sledding Penguin Sticker, Christmas Dog Sticker |
-| 04:30 | **AyiGamerUwu**: Ride-A-Pet Potion ×15 | **Yumi_Rose8**: Pet Handler Pro Certificate ×8 |
-| 04:30 | **stefkazzz**: Fairy Bat Dragon (FR), Shrew, Ride-A-Pet Potion | **otonite7**: Peppermint Penguin (FR) |
-| 04:30 | **staymydear**: Chihuahua ×8 | **Froggyblossom90**: Propeller Hat |
-| 04:30 | **nfrparrotkonahack**: 2022 Birthday Cake, 2022 Birthday Cupcake Shoes, Toaster Hat, Ride-A-Pet Potion ×2, Pink Butterfly Wings, Picnic Basket | **Octolootom**: Dango Penguins (MFR) |
-| 04:20 | **mamawibi6772**: Royal Fairytale Egg | **theonly_aliii**: Retired Egg ×15 |
+| 04:36 | **brooke_alt08**: Dalmatian | **rip_indra12345678912**: Flaming Fox (MFR), Werewolf (FR), Kangaroo (FR), Elephant (FR) |
+| 04:36 | **zoekuo2010**: Strawberry Shortcake Bat Dragon (FR) | **bell_flowers**: Dango Penguins (MFR), Kangaroo (FR) |
+| 04:36 | **likk1_0**: Kangaroo (FR), Lion (R), Pig (R), Frost Fury (FR), Border Collie (R), Ice Cream Cone Hat, Fly-A-Pet Potion | **manualep8**: Chocolate Chip Bat Dragon (FR) |
+| 04:36 | **FruitcakeSEALS**: Cabbit (NFR), Cow (FR), Peppermint Penguin (FR) | **TrapsForFlys**: African Wild Dog (FR), Steppe Lion (MR), Slug (MFR) |
+| 04:36 | **asteryynn**: Fly-A-Pet Potion ×9 | **https_Mutanaaa**: Kangaroo (FR) |
+| 04:36 | **XxBspGirliiixX**: Persian Cat (M) | **mihIaah**: Gaelic Fae |
+| 04:36 | **aIcremie_s**: Balloon Unicorn (FR), Violet Butterfly (N) | **Seancarlosd**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), 2022 Birthday Cake, Ride-A-Pet Potion |
+| 04:36 | **SmallestMascot**: Evil Unicorn (NFR) | **KuyenTime**: Dalmatian (FR) ×2 |
+| 04:36 | **004FAscend004**: Fly-A-Pet Potion | **mihIaah**: Tasmanian Devil (N) |
+| 04:36 | **HeartsForEli_1406**: Banana Hat, Bready Necklace, Bakeneko (N) | **s_snoupyy**: Spring Bunny Nose |
+| 04:36 | **nornomm**: Butter Knife, Bat Wings, Mythic Egg | **mihIaah**: Golden Lettuce |
+| 04:36 | **ayeeeAva**: Kangaroo (FR), Ride-A-Pet Potion | **LittleHeartPlays**: 2D Kitty (MFR) |
+| 04:36 | **B1ossom_U**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion | **Lizyn4kaa**: Arctic Fox (FR) |
+| 04:36 | **Legoknight222**: Dalmatian (FR) | **marchofthefalsettos7**: Goose (NFR), Ice Cream Cone Hat |
+| 04:36 | **missprinqeen12**: Christmas Pudding Pup (NR), Spring Bunny Hood, Maine Coon (M) | **YoungLes1**: Chocolate Dutch Guinea Pig (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
