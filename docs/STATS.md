@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 22:01 UTC by the scrape workflow._
+_Updated 2026-11-27 22:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 22:01 UTC by the scrape workflow._
 | amvgg | 17 | 44,838 | 2026-11-27T22:00 |
 | elve | 17 | 9,645 | 2026-11-27T22:01 |
 
-## AMVGG completed trades: 74,193 total
+## AMVGG completed trades: 74,271 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,233 |
+| 2026-11-27 | 4,311 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 22:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:00 | **1MZ03Y**: Kangaroo (FR) ×2 | **xXfayridreamXx**: Cow (FR) |
-| 22:00 | **Darihkc**: Pain au Chat ×6 | **Artloverpaintlover**: Ride-A-Pet Potion ×2 |
-| 22:00 | **MM234861**: Ride-A-Pet Potion | **frfact**: Metal Ox ×15 |
-| 22:00 | **Countmeowww**: Tiny Wings, Pancake Stack, Pink Heart Glasses | **faebnny**: Moon Rabbit (MFR) |
-| 22:00 | **Mrmeowmeow_02**: Crystal Egg ×9 | **Amiti63920**: Fishbone Badge |
-| 22:00 | **basicgenn**: Rainbow Maker ×2, Unicorn Horn, Tiny Wings | **xXfayridreamXx**: Giant Panda (FR) |
-| 22:00 | **PracticalChive5077**: African Wild Dog (FR), Chocolate Chip Bat Dragon (FR), Cabbit (NFR), Goose, Winged Tiger (FR), Cryptid (FR), Giant Panda (FR) | **Assewsslila**: Giant Panda (NFR) |
-| 21:55 | **bella94255**: Fly-A-Pet Potion | **nimalina463**: Hooray |
-| 21:55 | **moezamoza**: Candicorn (R), Kangaroo (FR), Drake | **dodzhima**: Cow (FR) |
-| 21:55 | **dasha_kotik479**: Zombie Wolf | **Elmasinsano_392**: Ride-A-Pet Potion |
-| 21:55 | **TrapitaAlexa**: Cow (R) | **Mako_kuromy**: Glacier Moth (NFR), 2022 Birthday Confetti Cannon |
-| 21:55 | **trapledy31**: Golden Walrus (FR) | **Yumi_Rose8**: Fly-A-Pet Potion |
-| 21:55 | **snoringkai**: Parrot (NFR), Strawberry Shortcake Bat Dragon (FR) | **divineproblem**: Strawberry Tortle (MFR) |
-| 21:55 | **roblox_user_2310205236**: Bunny Swirl | **MyStarPets1**: Pupcicle ×2 |
-| 21:55 | **xRenyyi**: Glider ×2 | **swagkorm1**: Ring-Tailed Lemur |
+| 22:11 | **hijodefrutaXdd9**: Sushi Penguin ×2 | **Alana2K201**: Ride-A-Pet Potion ×2 |
+| 22:11 | **Amvgg_Amvggg**: Parrot (FR), Evil Unicorn (R), Siamese Cat (NFR), Goose, Albino Monkey (FR), Turtle (FR) | **larastars115**: Giraffe (FR) |
+| 22:11 | **chaecherie**: 2022 Birthday Cake, Tortuga de la Isla (R), Fly-A-Pet Potion | **X0LuvyouX0**: Angel Wings |
+| 22:11 | **crypt1c_225**: Ride-A-Pet Potion ×2 | **picolo_2324**: Star Sunglasses ×2 |
+| 22:11 | **Assewsslila**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Yeti, S'mores Raccoon, Koala, Pupcake, Ice Cream Stroller | **ded_valera9586**: Haetyphoon |
+| 22:11 | **Just_Kerri4nnnnn**: Bat Dragon (FR), Peppermint Penguin | **holasoyrafahaha**: Cryptid (MFR) |
+| 22:11 | **itsmeRa3lyn**: Giant Panda (R) | **Arcyyicyy**: Giant Panda |
+| 22:11 | **Lemonz_Die**: Naughty Mistletroll (FR), Wood Pigeon, Spring Bunny Feet, Dylan | **grijfe8r**: Caelum Cervi (R) |
+| 22:11 | **PixiePawsTrade**: Fly-A-Pet Potion | **0sit0legendari0**: Hooray |
+| 22:11 | **Flutterieshyy**: Hedgehog (F), Hot Doggo (R), Silly Duck (NFR) | **trendypopcon**: Balloon Unicorn (FR) |
+| 22:11 | **unuunu82**: Chocolate Chip Bat Dragon (NFR), Bauble Buddies (MFR) | **Moonbeam490**: Strawberry Cupcake Shoes |
+| 22:11 | **ZzzTrades7**: Frost Fury (NFR), Albino Monkey (FR) | **xhappyxdayx**: Caelum Cervi (NFR), Leopard Shark |
+| 22:11 | **Tater_Puddin86**: Ride-A-Pet Potion | **1Biahsz_altx**: Crystal Egg ×17 |
+| 22:11 | **Dyra_228050**: Cherry-On-Top, Rain Cloud Hat, Toaster Hat, Propeller Hat, Spring Bunny Feet, Spring Bunny Hood, Copycat | **kiff_shik**: Strawberry Shortcake Bat Dragon (FR) |
+| 22:11 | **nevvitfww**: Nessie (NFR), Frost Fury (FR) | **Alinxq0**: Christmas Pudding Pup (NFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
