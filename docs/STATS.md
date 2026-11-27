@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 05:25 UTC by the scrape workflow._
+_Updated 2026-11-27 05:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 05:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 28,203 | 2026-11-27T05:15 |
-| elve | 17 | 5,868 | 2026-11-27T05:15 |
+| amvgg | 17 | 28,452 | 2026-11-27T05:30 |
+| elve | 17 | 5,933 | 2026-11-27T05:31 |
 
-## AMVGG completed trades: 70,680 total
+## AMVGG completed trades: 70,684 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 720 |
+| 2026-11-27 | 724 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,10 @@ _Updated 2026-11-27 05:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:30 | **Cupidmoe**: Pet Handler Pro Certificate, Three Blind Mice, Huntsman Robin | **hijodefrutaXdd9**: Ride-A-Pet Potion ×2 |
+| 05:30 | **naninaaa000**: Chihuahua ×3 | **DelusionalXD3**: Ride-A-Pet Potion |
+| 05:30 | **valentinoelpro_12**: Parrot (FR) | **DearSugarMuffin**: Crow (FR), Nessie (FR), Feesh (M), Skelicorn (M), Unicorn, Chihuahua |
+| 05:30 | **aoqweza**: Ride-A-Pet Potion | **Appelkruimell**: Alicorn ×8 |
 | 05:25 | **Sanster47**: Strawberry Shortcake Bat Dragon (NF), Kangaroo (FR) ×2, Highland Cow (M), Ride-A-Pet Potion | **NxtHusky**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fairy Bat Dragon (FR), Fairy Bat Dragon (R) |
 | 05:25 | **Kv1cel**: Siamese Cat, Butter Knife | **misakoyr**: Tiny Wings ×2 |
 | 05:25 | **PedroElescamoso766**: Bat Dragon (FR) | **IAMKJIEL1**: Frost Dragon (NFR), Frost Dragon (FR), Unicorn (MFR) ×2, Cow (NR), Ride-A-Pet Potion |
@@ -50,10 +54,6 @@ _Updated 2026-11-27 05:25 UTC by the scrape workflow._
 | 05:25 | **White_YTBT**: Flamingo (FR), Irish Water Spaniel, Kitsune (F) | **DeathEl14s**: Fairy Bat Dragon (R) |
 | 05:25 | **BlueSakura9310**: Harp Seal (MR) | **KemmasRoblox**: Arctic Fox (NFR), Ride-A-Pet Potion ×2, Black-Footed Ferret (N) |
 | 05:20 | **Jeheon07**: Parrot (FR) ×2, Fly-A-Pet Potion ×2 | **hanb3ki**: Parrot (NFR) |
-| 05:20 | **0MGSARAY**: Blue Butterfly ×4 | **Frs_88xx**: Crystal Egg ×3 |
-| 05:20 | **Pupsidupsi2**: Fairy Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR), Candicorn (FR) | **Jiren132451**: Parrot (FR) |
-| 05:20 | **LyraFusion**: Frost Unicorn (R) | **ContentOtter9075**: Unicorn Horn |
-| 05:20 | **reserbadong2**: Fairy Bat Dragon (R), Arctic Reindeer (FR), Red Dutch Guinea Pig (R), Ride-A-Pet Potion | **DeathEl14s**: Amethyst Penguin |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
