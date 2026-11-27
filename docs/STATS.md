@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 05:01 UTC by the scrape workflow._
+_Updated 2026-11-27 05:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 05:01 UTC by the scrape workflow._
 | amvgg | 17 | 27,960 | 2026-11-27T05:00 |
 | elve | 17 | 5,837 | 2026-11-27T05:01 |
 
-## AMVGG completed trades: 70,634 total
+## AMVGG completed trades: 70,652 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 674 |
+| 2026-11-27 | 692 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 05:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:55 | **quesodrilo**: Siamese Cat (FR) | **adoptmeholderboang**: Border Collie, Goat, Ride-A-Pet Potion |
-| 04:55 | **Beansgotnuts**: Mermicorn (FR) | **ARKIN_gamingChannel1**: Husky (NR), Munchkin Cat (R), Mule (NR) |
-| 04:55 | **regina_12z**: Fly-A-Pet Potion | **yohannecotiee**: Reindeer (FR) |
-| 04:55 | **asteryynn**: Fly-A-Pet Potion | **TiaNovaTDN**: Chick (NFR) |
-| 04:55 | **J4YIORD**: Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR), Crocodile (R) | **chicaraxyx**: Owl (FR) |
-| 04:55 | **wintercameearly**: Cryptid (NR), Peppermint Penguin (NFR), Sugar Glider (NR) | **LuxuryxDxrk**: Alpaca (MFR) |
-| 04:55 | **rastafarismo10**: Cryptid (FR) ×2, Cryptid (R), Dango Penguins (MR), Rain Cloud Hat | **reserbadong2**: Parrot (NFR), Monkey King (R) |
-| 04:55 | **Robloxiana_xxx2011**: Ride-A-Pet Potion ×2 | **YourLocalTraderer**: Fly-A-Pet Potion |
-| 04:55 | **angel_moon473**: Giraffe, Latte Kitsune (MFR), Fairy Bat Dragon (FR), Arctic Fox (NR), Fly-A-Pet Potion, Ride-A-Pet Potion | **powerlee01**: Owl (NFR) |
-| 04:55 | **rastafarismo10**: Chocolate Chip Bat Dragon (R) ×2, Strawberry Shortcake Bat Dragon (R) | **kotenokoops**: Parrot (FR), Tiny Wings, Pig (R), Goat (R), Fly-A-Pet Potion ×3, Bready Necklace, Catte, Ride-A-Pet Potion |
-| 04:55 | **staymydear**: 2022 Birthday Party Hat, Unicorn Horn, Panda (MFR) | **KitKat96777**: Rainbow Maker |
-| 04:55 | **Polita721**: Pancake Stack, Ride-A-Pet Potion | **lilit17908**: Glormy Leo |
-| 04:55 | **Geigekbsoh**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **THEYLOVEE_AVAAA**: Frost Dragon (FR) |
-| 04:55 | **so_morangone**: Alley Cat (R) | **seek0300**: Dango Penguins, Grinmoire (N), Red Panda (N), Blue Butterfly (N) |
-| 04:51 | **ccdbgt1**: Fly-A-Pet Potion | **yohannecotiee**: Ninja Monkey (FR) |
+| 05:06 | **eggnog1717**: Fairy Bat Dragon (NFR), Red Squirrel (MFR), Ride-A-Pet Potion | **kaylamicmi**: Dalmatian (R) |
+| 05:06 | **PanyPanes**: Chocolate Chip Bat Dragon (FR) | **E_soj123**: Fairy Bat Dragon (FR), Peppermint Penguin (FR), Brown Bear (FR) |
+| 05:06 | **Mallow_07737**: Cake Friend (MFR) | **reigninharmonyy**: Snowball Pet (MR) |
+| 05:06 | **duqinx**: Fly-A-Pet Potion | **dave13546**: Crystal Egg ×18 |
+| 05:06 | **cher_namagandaa**: Mighty Haetyphoon Animated Sticker, Squid (R), Chihuahua | **itsjustav1**: Fly-A-Pet Potion |
+| 05:06 | **Hobart143**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×9 | **cocojkanhi123**: Sugar Glider (FR) |
+| 05:06 | **amvggbunni_won**: Bunny Swirl (R) | **eniaska_4**: Bunny Swirl, Sneak Weasel (N), Thunderfisher, Stray Cat Dragon |
+| 05:06 | **kittycatkathy7523**: Christmas Pudding Pup (NFR) | **PinkLemonades91**: Harp Seal (MFR) |
+| 05:06 | **lolcryabtit6767**: Hare (N), Ride-A-Pet Potion | **love151444**: Pineapple Owl (N) |
+| 05:06 | **alexgameminecraft**: Ride-A-Pet Potion | **Fan_anime148**: Pupcicle |
+| 05:06 | **baconandchicken007**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **cocojkanhi123**: Shark Puppy |
+| 05:06 | **itz_dancer5496**: Kangaroo (FR) | **KitKat96777**: Panda (MFR) |
+| 05:06 | **EpicBannana00**: Icy Porcupine (M), Pinkypillar (M), Ant (M) | **Sleepy_Sonya112**: Fly-A-Pet Potion |
+| 05:06 | **Momopolo209**: Fly-A-Pet Potion | **Thatscute18**: Boohoo (M) |
+| 05:06 | **sem1ona1**: Ride-A-Pet Potion, Scarecrow Cat | **GrEstbn**: Tuxedo Cat |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
