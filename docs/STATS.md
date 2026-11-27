@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 18:55 UTC by the scrape workflow._
+_Updated 2026-11-27 19:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 18:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 41,378 | 2026-11-27T18:45 |
-| elve | 17 | 8,764 | 2026-11-27T18:46 |
+| amvgg | 17 | 41,668 | 2026-11-27T19:00 |
+| elve | 17 | 8,841 | 2026-11-27T19:01 |
 
-## AMVGG completed trades: 73,351 total
+## AMVGG completed trades: 73,388 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 3,391 |
+| 2026-11-27 | 3,428 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 18:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:55 | **Wayda_Jaida**: Giant Black Scarab, Sweetheart Rat (R), Monkey | **Panda_thatslocal**: Ride-A-Pet Potion |
-| 18:55 | **mikepeped**: Ride-A-Pet Potion | **lipec21**: Ginger Cat (NFR) |
-| 18:55 | **Ethernaces**: Stray Cat Dragon ×8 | **xuualo**: Ride-A-Pet Potion |
-| 18:55 | **sicklosergirl**: Candicorn (MFR), Munchkin Cat | **Fazaliauwu**: Chocolate Chip Bat Dragon (FR) ×2 |
-| 18:55 | **evvelxy**: Puffer Fish, Fly-A-Pet Potion | **lu_ven5**: Ride-A-Pet Potion ×3 |
-| 18:55 | **amvggbunni_won**: Aestus (MFR) | **IidoxxiniI**: Dragonfruit Fox (MFR) |
-| 18:55 | **lizaolaolao**: Bolt (M) | **HOCOKKU**: Gemstone Egg |
-| 18:55 | **Korean5434**: Fire Mare (MR), Dirty Ducky (M), Dragon (M), Unicorn Backpack, Pancake Stack, Race Car Stroller, Baby Basket Stroller | **RoBin_So5**: Haetyphoon (FR) |
-| 18:55 | **Youdi_off**: Candicorn (R) | **Pato_Randoom**: Ride-A-Pet Potion ×16 |
-| 18:55 | **Ethernaces**: Crystal Egg ×15 | **ZamiYTRS**: Ride-A-Pet Potion |
-| 18:55 | **dashechkakk**: Hippogriff (FR) | **Bembi_Flowers**: Ride-A-Pet Potion, Crystal Egg ×3 |
-| 18:55 | **Daniel11122255**: Cow (R) | **Cutelover3579**: Kangaroo (FR) ×2 |
-| 18:55 | **mooyakko**: Blazing Lion (MFR), Puffin (MFR) | **Potato_potatoes100**: Blazing Lion (M) |
-| 18:55 | **qpicni**: Alpaca (MFR) | **ivrquiz**: Cabbit (NFR), Rainbow Maker, Alpaca (FR), Alpaca (R) ×3, Sugar Glider (FR), Alpaca (NFR) |
-| 18:55 | **CKaiser5689**: Millionaire Mansion | **Poppy_00586**: Owlbear |
+| 19:00 | **bbbbbbbbbbbbbbiuu**: Arctic Reindeer (FR) | **st1assda**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion ×2, Reindeer (NFR), Copycat |
+| 19:00 | **Nastusha_387**: Ermine (N) | **PennyNakahara**: Fly-A-Pet Potion |
+| 19:00 | **TheCrazyYTGamer**: Unicorn Horn, 2022 Birthday Confetti Cannon, Rain Cloud Hat, Matcha Cat ×2, Banana Hat | **DoughnutDucks**: Matcha Cat (NR), Matcha Cat (N) |
+| 19:00 | **dacha_123561**: Border Collie (R), Goat (R), Shrew | **loveis_is**: Sugar Glider (FR) |
+| 19:00 | **mia123alic**: Retired Egg ×11 | **Olyam66**: Ant (M) |
+| 19:00 | **Crims0n_Dusk**: Mini Pig, Werewolf (R), Pink Cat (R), Strawberry Penguin (FR), Dragonfruit Fox, Kitty Biscuit, Ride-A-Pet Potion | **looperhole2**: Arctic Reindeer (FR) |
+| 19:00 | **iklerka7228**: Chocolate Chow-Chow, Cobra | **hhhauntedddd**: Ride-A-Pet Potion |
+| 19:00 | **iklerka7228**: Diamond Griffin ×3, Fire Stallion ×4, Golden Dragon ×2, Golden Unicorn ×3 | **hhhauntedddd**: Ride-A-Pet Potion |
+| 19:00 | **tvgirl63**: Alley Cat (MFR), Hare (NR), Turtle (FR) | **Dark_angeliqop**: Kangaroo (MFR) |
+| 19:00 | **itemhouse1**: Arctic Dusk Dragon (R) | **bablonek11**: Ride-A-Pet Potion ×5 |
+| 19:00 | **iklerka7228**: Chocolate Dutch Guinea Pig (N) | **ROBOZVN**: Fly-A-Pet Potion ×3 |
+| 19:00 | **thatdevilisacrybaby**: Goose (NFR), Brown Springer Spaniel | **GAV_6066**: Lavender Dragon (MFR), Red Dutch Guinea Pig (NR), Kangaroo (FR), Rose Dragon (NR) |
+| 19:00 | **3htrio**: Retired Egg ×3 | **Mipitaaaa**: Paint Sealer |
+| 19:00 | **staymydear**: Harp Seal (MFR) | **s2aeri**: 2022 Birthday Party Hat |
+| 19:00 | **7nillvhatessoren**: Golden Unicorn (MFR), Copycat, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pupcicle | **abdoosaad**: Munchkin Cat (R) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
