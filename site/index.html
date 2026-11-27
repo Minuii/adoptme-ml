@@ -594,6 +594,8 @@ const fmt = v => v == null ? "—" : v >= 1000 ? Math.round(v).toLocaleString() 
 const pctTxt = p => p == null ? "" : (p = Math.abs(p) < .05 ? 0 : p, (p > 0 ? "+" : p < 0 ? "−" : "") + Math.abs(p).toFixed(Math.abs(p) < 10 ? 1 : 0) + "%");
 const pctCls = p => p == null || Math.abs(p) < .05 ? "flat" : p > 0 ? "up" : "down";
 const ts = t => Date.parse(t + "Z");
+// name search: a full item name ("candy cane") matches only that item; anything else matches names containing it ("dragon")
+const nameHit = (name, q) => { const n = name.toLowerCase(); return BYLOWER.has(q) ? n === q : n.includes(q); };
 const dateTxt = t => new Date(typeof t === "number" ? t : ts(t)).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
 
 let DATA, NOW, START = {}, BYNAME = new Map(), BYLOWER = new Map(), BYSLUG = new Map();
@@ -627,7 +629,7 @@ const derived = (it, s, k = vkey(it)) => s === "A" && (it.Ad || []).includes(k);
 const DERIVED_TIP = "Calculated, not listed: amvgg works this out from the fly ride value with its potion multipliers.";
 const sources = () => S.src === "both" ? ["A", "E"] : [S.src];
 const demandOf = (it, k = vkey(it)) => (it.demand || {})[k];
-const matches = it => (S.cat === "all" || it.cat === S.cat) && (!S.q.trim() || it.name.toLowerCase().includes(S.q.trim().toLowerCase())) &&
+const matches = it => (S.cat === "all" || it.cat === S.cat) && (!S.q.trim() || nameHit(it.name, S.q.trim().toLowerCase())) &&
   (!S.rar || it.rarity === S.rar) && (!S.dem || demandOf(it) === S.dem);
 
 // how far apart the two lists rank an item: difference of its percentile within each list (same category + variant)
@@ -1426,7 +1428,7 @@ function adDeal(ad) {
 // a token matches a typed name (if any) and the variant / potion filters (pets only)
 function tokOk(i, q) {
   const t = tokInfo(i);
-  if (q && !t.name.toLowerCase().includes(q)) return false;
+  if (q && !nameHit(t.name, q)) return false;
   if (!S.av && !S.ap) return true;
   if (!t.it || t.it.cat !== "pets") return false;
   const [v, p] = t.k.split("-");
@@ -1461,7 +1463,7 @@ function tiles(ids, q, T = ADS) {
   const groups = new Map();
   for (const i of ids) groups.set(i, (groups.get(i) || 0) + 1);
   return [...groups].map(([i, n]) => {
-    const t = tokInfo(i, T), hit = q && t.name.toLowerCase().includes(q);
+    const t = tokInfo(i, T), hit = q && nameHit(t.name, q);
     const pet = t.it && t.it.cat === "pets", label = `${n > 1 ? n + "× " : ""}${t.name}${pet ? " · " + keyTxt(t.it, t.k) : ""}`;
     const v = t.it ? t.it[S.al][t.k] : null;
     return h(t.it ? "button" : "span", { class: "ag-tile" + (t.it ? "" : " ph") + (hit ? " hit" : ""), title: label + (v != null ? ` · ${SRC[S.al]} ${fmt(v)}` : ""),
@@ -1475,7 +1477,7 @@ function tiles(ids, q, T = ADS) {
 function adCard(ad) {
   const [src, t, give, get] = ad, s = S.al, { g, w, d } = adDeal(ad);
   const why = () => {
-    const ts = give.concat(get).map(tokInfo), ph = [...new Set(ts.filter(t => !t.it).map(t => `“${t.name}”`))];
+    const ts = give.concat(get).map(i => tokInfo(i)), ph = [...new Set(ts.filter(t => !t.it).map(t => `“${t.name}”`))];
     const miss = [...new Set(ts.filter(t => t.it && t.it[s][t.k] == null).map(t => t.name))];
     if (!give.length || !get.length) return "one side is empty";
     if (ph.length) return `includes ${ph.join(", ")}`;
@@ -1518,7 +1520,7 @@ async function drawAds(reset = true) {
 let TR, trShown = 0, trCurrent = [], trUnlocked = false, tqt;
 const TCODE = "6767";
 try { trUnlocked = localStorage.getItem("trades") === TCODE; } catch {}
-const trHas = (ids, q) => ids.some(i => TR.tokens[i][0].toLowerCase().includes(q));
+const trHas = (ids, q) => ids.some(i => nameHit(TR.tokens[i][0], q));
 function trDeal(tr) {
   const a = adSideValue(tr[1], S.al, TR), b = adSideValue(tr[2], S.al, TR);
   return { a, b, d: a && b ? Math.max(a, b) / Math.min(a, b) - 1 : null };
@@ -1577,7 +1579,7 @@ function wantedRows() {
   const per = s => 1000 / Math.max(1, ACT.ads[s] || 0);  // mentions per 1,000 offers collected on that site
   for (const [name, a] of Object.entries(ACT.items)) {
     const it = BYNAME.get(name);
-    if (!it || (q && !name.toLowerCase().includes(q)) || (S.wc !== "all" && it.cat !== S.wc)) continue;
+    if (!it || (q && !nameHit(name, q)) || (S.wc !== "all" && it.cat !== S.wc)) continue;
     const pet = it.cat === "pets";
     if (!pet && (S.wv || S.wp)) continue;
     const ks = new Set(srcs.flatMap(s => Object.keys((a.o || {})[s] || {})));
@@ -1684,7 +1686,7 @@ function drawJCat(box) {
   const fill = (reset = true) => {
     if (reset) {
       const q = S.jq.trim().toLowerCase();
-      jList = all.filter(i => (!q || i.name.toLowerCase().includes(q) || (i.origin || "").toLowerCase().includes(q)) && (!S.jr || i.rarity === S.jr));
+      jList = all.filter(i => (!q || nameHit(i.name, q) || (!BYLOWER.has(q) && (i.origin || "").toLowerCase().includes(q))) && (!S.jr || i.rarity === S.jr));
       const key = { val: (a, b) => worth(b) - worth(a), az: (a, b) => a.name.localeCompare(b.name), origin: (a, b) => (a.origin || "~").localeCompare(b.origin || "~") }[S.js] || (() => 0);
       jList.sort((a, b) => key(a, b) || a.name.localeCompare(b.name));
       jShown = 0; grid.replaceChildren();
