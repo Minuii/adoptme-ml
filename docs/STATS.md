@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 13:25 UTC by the scrape workflow._
+_Updated 2026-11-27 13:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 13:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 35,765 | 2026-11-27T13:15 |
-| elve | 17 | 7,476 | 2026-11-27T13:15 |
+| amvgg | 17 | 36,031 | 2026-11-27T13:30 |
+| elve | 17 | 7,542 | 2026-11-27T13:31 |
 
-## AMVGG completed trades: 71,941 total
+## AMVGG completed trades: 71,963 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,981 |
+| 2026-11-27 | 2,003 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 13:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:25 | **wjwj7890**: Arctic Dusk Dragon (MFR), Alpaca (R), Harp Seal (N), Haetyphoon | **dimon221221332**: Hedgehog (FR) |
-| 13:25 | **SophiaStormy136**: Crystal Egg ×18 | **AnnDean2005**: Ride-A-Pet Potion |
-| 13:25 | **Robloxiant3x7a4m9v**: Ice Cream Hermit Crab (MFR), S'mores Raccoon (MR), Happy Duckling (MR), Mr. Whiskerpips (MFR), Matcha Cat, Irish Water Spaniel, Red Sand Dollar (NFR) | **meowqi_08**: Nessie (MFR) |
-| 13:25 | **faebnny**: Water Rabbit (MFR), Arctic Hare (MR) | **lmao_fyp**: 2022 Birthday Cupcake Shoes, Cupcake Sprinkle Wings |
-| 13:25 | **I_reallylovedasha**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 13:25 | **FrostPixel5930**: Crystal Egg ×17 | **AMVGGACCINFOLLOWING**: Ride-A-Pet Potion |
-| 13:25 | **shenshenzzz14**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 13:25 | **BloodMenCloud**: Cryptid (FR) | **coveredinyourlove**: Frost Unicorn, Matcha Cat, Werewolf, Alpaca, Unicorn Horn, Dango Penguins (N) |
-| 13:25 | **helloo_kittyy238**: Hamster (NFR) | **Fidelia2131415**: Fly-A-Pet Potion |
-| 13:25 | **DefinitelyNotCha6**: Ancient Dragon (R), Christmas Spirit (R), Cuddly Candle (R), Golden Ladybug (R), Guardian Lion (R), Kitsune (R), Lunar Moon Bear (R), Metal Ox (R), Peacock (R), Robo Dog (R), Black Kite (FR), Alicorn, Dark Choccybunny ×2, Dracula Parrot, Dragon, Easter Bunny ×2 | **Panci_Terbang33**: Fly-A-Pet Potion ×5 |
-| 13:25 | **AmberStarKB**: Flamingo (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Rates_54**: Sugar Glider (FR) |
-| 13:25 | **violetxageup**: Happy Clam (MFR) | **Valery_Unicorn2011**: Rose Dragon (MFR), Fly-A-Pet Potion |
-| 13:25 | **malachaieva**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 13:25 | **Lavend67r67**: Chocolate Chip Bat Dragon (FR), Cabbit (NFR), Gecko (MFR) | **Darkdemon_55555**: Chocolate Chip Bat Dragon (NFR) |
-| 13:25 | **Gooblin_trool**: Pig (NFR), Lion (NFR), Christmas Pudding Pup, Ride-A-Pet Potion | **unstableloves**: Chocolate Chip Bat Dragon (FR) |
+| 13:30 | **SadiSadie3**: Matcha Cat (FR) | **realuseris_sh191125**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
+| 13:30 | **mawifa123**: Kaijunior (MR) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×2 |
+| 13:30 | **maha_kohka56**: Pupcicle (N) | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
+| 13:30 | **Carlin_Fofinho**: Irish Water Spaniel | **Imcute10088**: Frost Phoenix (NFR) |
+| 13:30 | **mgjgmwg**: Crow (FR) | **nuggets0162**: Mini Pig, Cow (FR), Turtle (FR), Kangaroo (FR) ×2, Kangaroo (R), Pain au Chat |
+| 13:30 | **itz_dariinxsss**: Zodiac Minion Chick (FR) | **qO_Opli**: Ride-A-Pet Potion |
+| 13:30 | **zxc_ph0enix**: Chocolate Chip Bat Dragon (FR), Turtle (FR), Siamese Cat (FR), Sheeeeep (N), Arctic Fox (FR), Pancake Stack ×2 | **diwwiss080**: Crow (FR) |
+| 13:30 | **Dlya_amvgg**: Tiny Wings, Pancake Stack, Goose | **Clounifesob**: Unicorn Horn, 2022 Birthday Party Hat |
+| 13:30 | **unstableloves**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Happy Duckling (MR), Chocolate Dutch Guinea Pig | **Gooblin_trool**: Fairy Bat Dragon (NFR), Fairy Bat Dragon (FR), Kangaroo (FR) ×2 |
+| 13:30 | **1nikaroctik**: Nessie (R), Chick Backpack | **vilewhip**: Fly-A-Pet Potion ×3 |
+| 13:30 | **Elyy_o**: Ghost Chick (N), Ghost (N) | **Fruit_Kittie**: Ride-A-Pet Potion |
+| 13:30 | **kaikikaikiplayz**: Space Whale (MFR) | **wldnsdlrnldudna**: Ride-A-Pet Potion ×9 |
+| 13:30 | **chapa4ka579**: Musk Ox ×6 | **qO_Opli**: Ride-A-Pet Potion ×2 |
+| 13:30 | **FrostPixel5930**: Crystal Egg ×18 | **YOKOZ303**: Ride-A-Pet Potion |
+| 13:30 | **AnnDean2005**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
