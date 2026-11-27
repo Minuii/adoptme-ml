@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 18:11 UTC by the scrape workflow._
+_Updated 2026-11-27 18:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 18:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 40,603 | 2026-11-27T18:00 |
-| elve | 17 | 8,604 | 2026-11-27T18:01 |
+| amvgg | 17 | 40,847 | 2026-11-27T18:15 |
+| elve | 17 | 8,625 | 2026-11-27T18:15 |
 
-## AMVGG completed trades: 73,111 total
+## AMVGG completed trades: 73,161 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 3,151 |
+| 2026-11-27 | 3,201 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 18:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:11 | **Unicornfav_animal**: Crocodile (R) | **Tammy_tjs**: Lion (FR) |
-| 18:11 | **Hc_pink**: Tiny Wings | **YKRAIHCKAY_PAHTERA**: Munchkin Cat |
-| 18:11 | **lizi78174**: General Sheepdog (N), Field Mouse | **Moch1xv**: Flash Weasel |
-| 18:11 | **Hankcam05**: Grim Dragon (FR) | **UknownUserrx**: Copycat (N), Unicorn (NR) |
-| 18:11 | **shabsiscute**: Dango Penguins (R) | **gigigiguhuhuh**: Hare |
-| 18:11 | **fwspDania**: Cryptid (MFR), Fallow Deer (MFR) | **xdlennonYT123**: Bat Dragon (FR) |
-| 18:11 | **NutsLovee**: Goose (FR), Albino Monkey (FR), Siamese Cat (R), Alley Cat (NFR), Puffin, Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **N0ugatt**: Cryptid (FR) |
-| 18:11 | **CutestAstro**: Ride-A-Pet Potion ×5 | **XxcammyXdreamzxX**: Arctic Dusk Dragon (FR) |
-| 18:11 | **larcycc**: Crystal Egg ×15 | **XxwizzizxX**: Goldhorn |
-| 18:11 | **princess_pizzanice**: Rock (N), Snowman (N) | **Esmiraks2014**: Ride-A-Pet Potion |
-| 18:11 | **T0rturedSolaris**: Amethyst Penguin (FR), Pupcicle (MFR) | **ELRaulPG50_XD**: Blazing Lion (FR) |
-| 18:11 | **54tdv**: Crystal Egg ×18 | **uczro**: Gingerbread Reindeer |
-| 18:11 | **DefinitelyNotCha6**: Unicorn Leash, Anna Rattle, Magic House Door, Banjo, Cat Plush, Football Throw Toy, Polar Bear Plush, Octopus Plush, Caticorn Rattle, Marsh Plush, Axe Rattle, Skeleton Pogo Stick, Rainbow Wand, Noob Balloon, Turkey Plush, Dragon Balloon, Heart Plushie, Creepy Balloon | **dasha_123qwr**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 18:11 | **ZoLoTo_SeR**: Matcha Cat (R) | **luvnekella**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 18:11 | **chockhxgk5**: Ride-A-Pet Potion ×5 | **bloomysweetea**: Shrew |
+| 18:15 | **FrostPixel5930**: Crystal Egg ×17 | **evqwss**: Ride-A-Pet Potion |
+| 18:15 | **i6so1**: Chocolate Chip Bat Dragon (FR), Subzero Popsicle Bait | **NEC0T1N4**: Goat (NFR) ×2, Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Red Dutch Guinea Pig |
+| 18:15 | **Rryiiaaaoo**: Arctic Dusk Dragon (MFR), Cabbit (MFR) | **14pawz**: Alpaca (MFR) |
+| 18:15 | **karasikshop_20028**: Frostbite Bear, Fly-A-Pet Potion | **Burgundyrox**: Kangaroo (R) |
+| 18:15 | **toni10981**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 18:15 | **poshol_naxouPwP**: Ride-A-Pet Potion | **nzjtla**: Crystal Egg ×18 |
+| 18:15 | **g00dxgh0stl**: Black-Footed Ferret (MR), Bolt (M) | **HOCOKKU**: Fly-A-Pet Potion |
+| 18:15 | **shabsiscute**: Arctic Fox (FR) | **tvz201235**: Irish Water Spaniel (FR) |
+| 18:15 | **T0LMU**: Amami Rabbit ×2, Octopus, Yeti, Toasty Red Panda, Pain au Chat ×4, Sushi Penguin, Squid, Count Slothula, Puffer Fish, Glormy Hound, Black Widow, Peachick | **makehimemo**: Pupcake (MFR) |
+| 18:15 | **3XCLUS1V3_77**: Australian Kelpie (NR) | **FRIK_RR**: Ride-A-Pet Potion |
+| 18:15 | **cheekuisdabest**: Strawberry Shortcake Bat Dragon (NFR), Alpaca (R) | **hiuretic7**: Dalmatian (FR), Arctic Reindeer (FR), Polar Bear (FR), Ride-A-Pet Potion |
+| 18:15 | **Vqmpstqrry**: Rain Cloud Hat, Tiny Wings ×2, Yule Log Dog (MFR) | **darrylin_mendz**: Glormy Leo (MFR) |
+| 18:15 | **mychemgeek**: African Wild Dog, Honey Badger (R) | **skxxli_xx**: Cryptid (R), Cabbit (FR), Unicorn Horn |
+| 18:15 | **Shynisocool**: Fly-A-Pet Potion, Ponytail | **airiska_iriska3**: Dragonfruit Fox (R) |
+| 18:15 | **JoyWasTaken_1**: Bat Wings | **Artofwar_Darkxwolf17**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
