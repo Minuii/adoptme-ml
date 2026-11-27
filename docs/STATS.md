@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-27 01:11 UTC by the scrape workflow._
+_Updated 2026-11-27 01:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 25 | 2026-11-11T1036Z | 2026-11-26T0015Z |
+| elve | 26 | 2026-11-11T1036Z | 2026-11-27T0115Z |
 | amvgg | 72 | 2026-11-11T1036Z | 2026-11-26T1916Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 24,051 | 2026-11-27T01:00 |
-| elve | 17 | 5,106 | 2026-11-27T01:01 |
+| amvgg | 17 | 24,310 | 2026-11-27T01:15 |
+| elve | 17 | 5,140 | 2026-11-27T01:15 |
 
-## AMVGG completed trades: 70,143 total
+## AMVGG completed trades: 70,181 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 183 |
+| 2026-11-27 | 221 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,41 +39,41 @@ _Updated 2026-11-27 01:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:00 | **P1nkteeth**: Panda (N), Pupcake | **Raee356**: Pretty Pony (NF) |
-| 01:00 | **Pulseq3Void63Echo174**: Pupcicle ×6 | **Evelyy_na**: Fly-A-Pet Potion ×2 |
-| 01:00 | **Kyuby201**: Strawberry Shortcake Bat Dragon (FR), Turtle (NR), Fairy Bat Dragon (FR), Cow | **sleepy_s0ren**: Parrot (FR) |
-| 01:00 | **elproXD_7v7**: Pain au Chat ×15 | **MoMtobias**: Ride-A-Pet Potion ×5 |
-| 01:00 | **H4LEYSGLOWX0**: Owl (NFR) | **zombiebrain_bleh**: Sugar Glider (MFR), Border Collie (NR), Rainbow Maker, Field Mouse (MFR) |
-| 01:00 | **aydachan200311**: Chocolate Chip Bat Dragon (FR), Frost Fury (FR), Fly-A-Pet Potion | **2creme1sucre**: Arctic Reindeer (FR) |
-| 01:00 | **XisokoGame**: Capricorn (NFR) | **EliBane742**: Arctic Dusk Dragon (FR) |
-| 01:00 | **PREPPY_ROBLOXWORLD1**: Flamingo (R), Kangaroo (R) | **XxSorvetyxX**: Fly-A-Pet Potion, Cow (FR), Kitty Biscuit |
-| 01:00 | **Orchid62311**: Water Moon Bear (MR), Happy Clam (R), Chihuahua (M), Samoyed (M) | **HamFam1090**: Panda (MFR) |
-| 01:00 | **Boo_kittykitty**: Pterodactyl (MFR), Hydra (NFR), Gumball Caterpillar (NFR), Nautilus (FR), Starfish (MR), Ratatoskr (M) | **Melosito_Trades**: Red Squirrel (MFR) |
-| 01:00 | **natesctrl**: Hedgehog (NFR), Matcha Cat (MFR), Winged Tiger (NR) | **OBV1LUCA**: Strawberry Shortcake Bat Dragon (MFR) |
-| 01:00 | **Boypizza132**: Bloodhound (M), Fly-A-Pet Potion, Ride-A-Pet Potion, Unicorn | **sakunary_1328**: Punk Pony (MFR) |
-| 01:00 | **BREEZY_LOVER1**: Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Cow (FR), Unicorn Horn | **Jana_ashtetic**: Mini Pig (NFR) |
-| 01:00 | **missy_Artz**: Mini Schnauzer (M) | **BROIMBROKEAHHHHH**: French Bulldog (M) |
-| 01:00 | **souIsIostt**: Kraken (MFR), Cozy Mistletroll (MR) | **forso_manyacc**: Pupcake (MFR) |
+| 01:15 | **mimikjuice7**: Munchkin Cat (N), Ballet Swan | **3mis_alttt**: Christmas Pudding Pup (N), Spring Bunny Hood, Spring Bunny Feet, Pet Handler Pro Certificate, Alien Eyes Hat |
+| 01:15 | **KNU17**: Munchkin Cat (MR), Border Collie (NR) | **gag_gaag**: Candicorn (MFR) |
+| 01:15 | **joakhidk129**: Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Kangaroo | **EthelCainns**: Crow (FR) |
+| 01:15 | **natfrmct**: Latte Kitsune (FR), Fly-A-Pet Potion | **dozyzen**: Jousting Horse (R), Harp Seal |
+| 01:15 | **Fibe32**: Strawberry Tortle (FR), Candicorn (NFR) | **rastafarismo10**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:15 | **BlueSakura9310**: Fly-A-Pet Potion, Ride-A-Pet Potion | **personal_stalker69**: Wolpertinger (MFR) |
+| 01:15 | **niceplayeruwu**: Ride-A-Pet Potion ×2 | **personal_stalker69**: Premium Gibbon Box |
+| 01:15 | **niceplayeruwu**: Fly-A-Pet Potion | **personal_stalker69**: Premium Gibbon Box |
+| 01:15 | **nibrian15**: Black-Chested Pheasant | **CR1MINALCRIMSON**: Munchkin Cat |
+| 01:15 | **sq3h7**: Fairy Bat Dragon (FR) | **GalaxyCat_X5**: Alpaca (R) |
+| 01:15 | **La_boyMich15**: Koi Carp (N) | **Tradinginadoptme_673**: Ride-A-Pet Potion |
+| 01:15 | **XxLipton_LemonxX**: Ride-A-Pet Potion ×3 | **Dwakki_kimm**: Biodome Home |
+| 01:15 | **I1ch0**: Lava Dragon (F) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 01:15 | **Chase_wm6**: Sabertooth (R) | **JustDo_It097**: Retired Egg ×18 |
+| 01:15 | **Hildegard_115**: Winter Fawn (M) | **bcbrybry**: Reindeer (FR) |
 
-## Elvebredd value changes: 63,190 since 2023-09-16
+## Elvebredd value changes: 63,297 since 2023-09-16
 
 | When (UTC) | Item | Variant | Old | New |
 |---|---|---|---|---|
-| 2026-11-25 23:54 | Copycat | mega fly ride | 94 | 90 |
-| 2026-11-25 23:54 | Copycat | neon fly ride | 23 | 22 |
-| 2026-11-25 23:54 | Copycat | default no potion | 4.75 | 4.5 |
-| 2026-11-25 23:54 | Jester Dragon | default no potion | 4.75 | 4.5 |
-| 2026-11-25 23:54 | Amethyst Penguin | mega fly ride | 2160 | 2144 |
-| 2026-11-25 23:54 | Amethyst Penguin | neon fly ride | 530 | 522 |
-| 2026-11-25 23:54 | Amethyst Penguin | default fly ride | 130 | 128 |
-| 2026-11-25 23:54 | Strawberry Tortle | mega fly ride | 468 | 460 |
-| 2026-11-25 23:54 | Strawberry Tortle | neon fly ride | 115 | 113 |
-| 2026-11-25 23:54 | Strawberry Tortle | default no potion | 27.5 | 27 |
-| 2026-11-25 23:54 | Panda Cap | default no potion | 1350 | 1375 |
-| 2026-11-25 23:54 | Red Dutch Guinea Pig | mega fly ride | 76 | 80 |
-| 2026-11-25 23:54 | Red Dutch Guinea Pig | neon fly ride | 18 | 19 |
-| 2026-11-25 23:54 | Red Dutch Guinea Pig | default no potion | 3.5 | 3.75 |
-| 2026-11-25 23:54 | Tortoiseshell Guinea Pig | mega fly ride | 322 | 338 |
+| 2026-11-27 00:16 | Copycat | mega fly ride | 90 | 86 |
+| 2026-11-27 00:16 | Copycat | neon fly ride | 22 | 21 |
+| 2026-11-27 00:16 | Copycat | default no potion | 4.5 | 4.25 |
+| 2026-11-27 00:16 | Matcha Cat | mega fly ride | 164 | 160 |
+| 2026-11-27 00:16 | Dango Penguins | mega fly ride | 66 | 62 |
+| 2026-11-27 00:16 | Dango Penguins | neon fly ride | 16 | 15 |
+| 2026-11-27 00:16 | Dango Penguins | default no potion | 3.25 | 3 |
+| 2026-11-27 00:16 | Cryptid | default fly ride | 114 | 111 |
+| 2026-11-27 00:16 | Sea Slug | mega fly ride | 208 | 200 |
+| 2026-11-27 00:16 | Sea Slug | neon fly ride | 52 | 50 |
+| 2026-11-27 00:16 | Sea Slug | default no potion | 11.75 | 11.25 |
+| 2026-11-27 00:16 | Cabbit | neon fly ride | 95 | 96 |
+| 2026-11-27 00:16 | Cabbit | default fly ride | 34 | 34.25 |
+| 2026-11-27 00:16 | Goose | default fly ride | 41 | 41.25 |
+| 2026-11-27 00:16 | Border Collie | mega fly ride | 208 | 200 |
 
 ## AMVGG value changes: 8,323 since 2026-06-02
 
