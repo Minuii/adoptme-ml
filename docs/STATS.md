@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 19:46 UTC by the scrape workflow._
+_Updated 2026-11-27 19:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 19:46 UTC by the scrape workflow._
 | amvgg | 17 | 42,490 | 2026-11-27T19:45 |
 | elve | 17 | 9,041 | 2026-11-27T19:46 |
 
-## AMVGG completed trades: 73,595 total
+## AMVGG completed trades: 73,647 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 3,635 |
+| 2026-11-27 | 3,687 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 19:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:45 | **dollsspell2**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×17 |
-| 19:45 | **peperonibltya**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 19:45 | **tommylikeroblox2009**: Thunderfisher | **jessica020705**: Retired Egg ×3 |
-| 19:45 | **fefepandapro**: Border Collie (NFR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Mermicorn (FR) | **awepolarbear**: Cryptid (NFR) |
-| 19:45 | **jhtdfbjiytvjib**: Kangaroo (FR), Fly-A-Pet Potion, Pupcicle | **caby_vr**: Siamese Cat (R) |
-| 19:45 | **RRUBYDACH3RRYY**: Kid Goat (MR), Dog (MFR), Tegu (M) | **Pat0_n7**: Choco Penguin (M) |
-| 19:45 | **UwUGlitterzUwU**: Candy Corn Hat, Bunny Ear Tiara | **nikaking89**: Jester Hat |
-| 19:45 | **tumulator**: Cryptid (FR) | **H0LLYSHAUL**: Dalmatian (FR) |
-| 19:45 | **karina0097162**: Arctic Fox | **cliuic**: Ride-A-Pet Potion ×7 |
-| 19:45 | **makcik_sakinah30**: Dango Penguins | **Mugina_Li**: Ride-A-Pet Potion ×2 |
-| 19:45 | **iqitotoru**: Criosphinx (N) ×3 | **Yourlocalbreadshore**: Corn Doggo ×3 |
-| 19:45 | **KanskjeMatilde**: Chocolate Chip Bat Dragon (NFR), Ride-A-Pet Potion | **JEN_NZY**: African Wild Dog (FR), 2022 Birthday Party Hat |
-| 19:45 | **Elmasinsano_392**: Capybara (R) | **Yumi_Rose8**: Fly-A-Pet Potion |
-| 19:45 | **WolfNinjaCraze**: Fly-A-Pet Potion ×4 | **reaInyancat**: Pink Cat (R) |
-| 19:45 | **paldoalways34**: Crystal Egg ×18 | **O4LYJAYDA**: Pupcicle ×3 |
+| 19:55 | **ITSMECINNAADDMEBACKK**: Kiwi Kiwi | **Thewhitedove_doggy12**: Red Panda Ducky (M) |
+| 19:55 | **cherry_blast2**: Amethyst Skies Mega Neon Paint | **MyStarPets1**: Princess Carriage |
+| 19:55 | **reaInyancat**: Easter Egg Stroller | **guilt093**: Fly-A-Pet Potion |
+| 19:55 | **wizngs**: Alpaca (R) | **egoklled**: Yule Log Dog (NR), Ice Cream Cone Hat, Mule (N), S'mores Raccoon (N), Goth Shoes, Pupcicle (N) |
+| 19:55 | **mellqxxrb**: Bubblegeist (M) | **star_mo0ney**: Fly-A-Pet Potion ×2 |
+| 19:55 | **AvaNari2010**: Burger Bear | **MyStarPets1**: Pupcicle |
+| 19:55 | **itemhouse1**: Unicorn (NFR), Fly-A-Pet Potion ×2, Grinmoire | **RoseGold_101010**: Pig (R) |
+| 19:55 | **943049209d**: Ride-A-Pet Potion ×5, Pet Handler Pro Certificate ×2, Pink Hightops | **Real_Dream90z**: Pig (R) |
+| 19:55 | **Lycoris_Achlys**: Fly-A-Pet Potion ×7 | **oreocatking**: Border Collie |
+| 19:55 | **Blinxcool**: Rain Cloud Hat | **amiazz_i**: Pretty Pony (MFR) |
+| 19:55 | **kttnk_qn0**: Gemstone Egg ×2 | **ItssMeBrookie**: Ride-A-Pet Potion |
+| 19:55 | **BasketballGod1828**: Ride-A-Pet Potion | **zephyrgoatt**: Aviator Hat |
+| 19:55 | **bq1r_35**: Fly-A-Pet Potion | **hellokid8203**: Dire Wolf (M) |
+| 19:55 | **xTheStitchx**: Harp Seal (N) | **milkixis1**: Ride-A-Pet Potion ×5 |
+| 19:55 | **leoncitoUwU12345**: Elephant (FR), Turtle (FR), Kangaroo (FR), Pig, Crocodile (FR), Ride-A-Pet Potion ×8, Brown Bear | **Kotosonoha**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
