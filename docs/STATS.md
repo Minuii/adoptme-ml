@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 03:25 UTC by the scrape workflow._
+_Updated 2026-11-27 03:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 03:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 26,292 | 2026-11-27T03:15 |
-| elve | 17 | 5,496 | 2026-11-27T03:15 |
+| amvgg | 17 | 26,515 | 2026-11-27T03:30 |
+| elve | 17 | 5,554 | 2026-11-27T03:31 |
 
-## AMVGG completed trades: 70,440 total
+## AMVGG completed trades: 70,443 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 480 |
+| 2026-11-27 | 483 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,9 @@ _Updated 2026-11-27 03:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:30 | **juanitox646566**: Seagull | **r0mmul4s**: Fairytale Egg ×9 |
+| 03:30 | **abbyissocool_lol**: Crystal Egg ×3 | **juanitox646566**: Seagull |
+| 03:30 | **Chuyaria3**: Munchkin Cat (NFR) | **AT0M636**: Copycat (NFR), Shadow Dragon Ducky (MR), Stray Cat Dragon (M), Chihuahua (N), Tasmanian Devil (N), Scarecrow Cat (N), Eggnog Hare (N), Singularity Beetle (N), Scarecrow Horse (N) ×2, Cake Friend, Pupcake |
 | 03:25 | **Belen7267**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Chocolate Chip Bat Dragon (FR), Mini Pig (FR), Turtle (FR), Arctic Fox | **BAJl03**: Frost Dragon (FR) |
 | 03:25 | **St0rm_Sniper89**: Astronaut Gorilla (MFR) | **XxkfirxbushxX**: Sushi Penguin (MFR), Moonlight Moth (MF) |
 | 03:25 | **skibidiipingu**: Paint Sealer ×2 | **JJ_LazyAF**: Admin Abuse Egg |
@@ -51,9 +54,6 @@ _Updated 2026-11-27 03:25 UTC by the scrape workflow._
 | 03:25 | **BIg_BoRdy**: Fly-A-Pet Potion | **Pulseq3Void63Echo174**: Pupcicle ×3 |
 | 03:25 | **quxzqrio**: Glormy Dolphin (MR) | **BROIMBROKEAHHHHH**: Alicorn (MFR), Lunar Ox (N), Mochi Meow (N), Weevil (N), Tarantula (N), Glormy Dolphin, Clownfish, Maine Coon, Penguin, Tan Chow-Chow, Lunar White Tiger |
 | 03:25 | **Beansgotnuts**: Peppermint Penguin (R), Blue Betta Fish (NR) | **Jana_ashtetic**: Cow (FR) |
-| 03:25 | **natixezq**: Balloon Unicorn (FR), Hedgehog (FR), Ride-A-Pet Potion ×2 | **EcommonSense**: Frost Dragon (FR) |
-| 03:25 | **cupidinjury**: Peppermint Penguin (FR) ×2 | **marioxd_1252**: Chocolate Chip Bat Dragon (FR) |
-| 03:25 | **FoxyChanU3U**: Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR), Dalmatian (FR) ×2, Fairy Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) ×4, Chocolate Chip Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (R) ×2, Mini Pig (FR), Mini Pig (R), Cow (FR), Pig (FR) | **0thwe**: Frost Dragon (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
