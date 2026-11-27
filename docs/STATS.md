@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 13:01 UTC by the scrape workflow._
+_Updated 2026-11-27 13:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 13:01 UTC by the scrape workflow._
 | amvgg | 17 | 35,522 | 2026-11-27T13:00 |
 | elve | 17 | 7,440 | 2026-11-27T13:01 |
 
-## AMVGG completed trades: 71,853 total
+## AMVGG completed trades: 71,863 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,893 |
+| 2026-11-27 | 1,903 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 13:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 13:06 | **RyukkHolder**: Blazing Lion (FR) ×2, Giant Anteater (F), Fly-A-Pet Potion ×3 | **Vickersplays**: Frost Unicorn (MFR) |
+| 13:06 | **SOAPpenup_2025**: Ghostly Cat (M) | **Dash_2023crashh**: Spring Bunny Hood |
+| 13:06 | **pxrczl**: Peppermint Penguin (FR) | **Alina_02445**: 2022 Birthday Party Hat, Fly-A-Pet Potion ×4 |
+| 13:06 | **naturespiano**: Golden Penguin | **FrostPixel5930**: Crystal Egg ×18 |
+| 13:06 | **dntwnabinluv**: Giant Anteater, Black Panther (NFR), Moon Rabbit, Fleur De Ice | **chaluvxely**: Owlbear, Munchkin Cat |
+| 13:06 | **IsraaxD007**: Strawberry Shortcake Bat Dragon (NFR), Arctic Reindeer (NFR), Spring Bunny Hood, Neon Orange Scooter, Neon Blue Scooter, Neon White Scooter, Admin Vision Glasses | **angela_umerez4**: Goose (MFR) |
+| 13:06 | **Btstvdyndynfy9**: Munchkin Cat (NFR), Zombie Buffalo (R), Zombie Wolf (NR) | **ksenia_unicorn67**: Shark Puppy (NFR) |
+| 13:06 | **ItzSlima**: Guardian Lion (R), Ancient Dragon | **ameyyass**: Ride-A-Pet Potion |
+| 13:06 | **Shadx_1553**: Arctic Reindeer (FR) ×2, Tortoiseshell Guinea Pig | **sombwinhas**: Parrot (FR) |
+| 13:06 | **eniaska_4**: Pink Heart Glasses | **izzazzozzy**: Ride-A-Pet Potion |
 | 13:00 | **SophiaStormy136**: Crystal Egg ×18 | **71bad**: Ride-A-Pet Potion |
 | 13:00 | **poly0950**: Crystal Egg ×18 | **cutemoonya**: Ride-A-Pet Potion |
 | 13:00 | **iiiNini_Yt145**: Matcha Cat, Ride-A-Pet Potion | **kyo_ro**: Copycat, Spring Bunny Hood |
 | 13:00 | **Gay5242**: Hedgehog, Fairy Bat Dragon (FR), Ring-Tailed Lemur (R) | **ylyzacanete**: Giant Panda (FR) |
 | 13:00 | **adoptmexx626**: Dragonfly, Little Lamb ×3, Clumpty ×3, Starfish ×2, Ginger Cat, Corgi, Pomeranian, Crimson Cape ×2, Gold Mahi Mahi, Granny Wolf, Zebra, Pain au Chat | **Fruit_Kittie**: Ride-A-Pet Potion |
-| 13:00 | **Rimenyi**: Ride-A-Pet Potion ×4 | **MOKORON_MAKORON**: Arctic Dusk Dragon |
-| 13:00 | **balda228lp**: Dragonfruit Fox (R) | **blushbyelle**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 13:00 | **sxftBlossomBR**: Fly-A-Pet Potion ×5 | **soyuzzg**: Red Dutch Guinea Pig ×3 |
-| 13:00 | **rxy3e**: Strawberry Shortcake Bat Dragon (FR), Tealwood Monster (M), Fly-A-Pet Potion ×2, Halloween White Ghost Dragon (R) | **Amvgg_2357**: Elephant (NFR), Flamingo (R), Bush Elephant (R) |
-| 13:00 | **MiawLiv**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 13:00 | **venom_556704**: Polar Bear (R), Llama (FR), Fly-A-Pet Potion | **Musesmia**: Arctic Fox (R) |
-| 13:00 | **Rainy_rarr**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 12:55 | **Anindya1135**: Goose (FR), Shark (MFR), Copycat ×2, Ride-A-Pet Potion ×2 | **boyuancool123**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:55 | **umbrelllaas**: Ride-A-Pet Potion ×2 | **AASDRT_II**: Pancake Stack |
-| 12:55 | **editor16**: Retired Egg ×18 | **FuryMoon29021**: Gemstone Egg |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
