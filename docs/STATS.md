@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 16:41 UTC by the scrape workflow._
+_Updated 2026-11-27 16:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 16:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 39,014 | 2026-11-27T16:30 |
-| elve | 17 | 8,261 | 2026-11-27T16:31 |
+| amvgg | 17 | 39,271 | 2026-11-27T16:45 |
+| elve | 17 | 8,338 | 2026-11-27T16:46 |
 
-## AMVGG completed trades: 72,675 total
+## AMVGG completed trades: 72,681 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,715 |
+| 2026-11-27 | 2,721 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,12 @@ _Updated 2026-11-27 16:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 16:45 | **girlsazaz09**: Dango Penguins (R), Catte | **Lisfps123**: Snow Monkey ×2 |
+| 16:45 | **purebelly**: Cow | **iamiisaaaa**: Peppermint Penguin (R) |
+| 16:45 | **avokado78o**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (NFR) | **personal_stalker69**: Evil Unicorn (FR) |
+| 16:45 | **rip_indra12345678912**: Turtle (R), Caterpillar (FR), Sheeeeep (R), Dancing Dragon (R), Strawberry Penguin | **otonite7**: Turtle (NFR) |
+| 16:45 | **psxwer**: Puffer Fish (MFR), Ice Cream Cone Hat | **Taquitosdesuaderit**: Cherry-On-Top |
+| 16:45 | **TulipPetal_1**: Arctic Reindeer (FR), Turtle (NFR), Munchkin Cat (NR), Fairy Bat Dragon (R), Turtle (FR), Frost Fury (NFR), Crocodile (R), Halloween White Ghost Dragon (R), Polar Bear (R), Shark Puppy (R), Fly-A-Pet Potion ×8 | **kittycutecat11130**: Frost Dragon (FR) |
 | 16:41 | **nimalina463**: King Bee (NFR) | **ROBOZVN**: Ride-A-Pet Potion ×3 |
 | 16:41 | **JeBoyJaden_7**: Strawberry Shortcake Bat Dragon (FR), Pig (NFR), Spring Bunny Hood, Pet Handler Pro Certificate | **Sasha4k8k**: Dalmatian (FR) |
 | 16:41 | **PREPPY_ROBLOXWORLD1**: Cow (R), Matcha Cat (R), Lion Cub, Fly-A-Pet Potion | **cosy_sosu**: Turtle (NFR) |
@@ -48,12 +54,6 @@ _Updated 2026-11-27 16:41 UTC by the scrape workflow._
 | 16:41 | **0Neizvestnost0**: Latte Kitsune (NFR) | **pristinepalace**: Dango Penguins (NFR) |
 | 16:41 | **moonl1ghtsoul**: Turtle (NFR), Fly-A-Pet Potion | **MatinBoring**: Siamese Cat (NFR) |
 | 16:41 | **TD_ROJOS**: Chef Gorilla (MFR), Mule (MFR), Catte (MFR), Panda (MFR), Halloween White Skeleton Dog (MFR) | **Lisfps123**: Goat (MFR) |
-| 16:41 | **Lumina20265**: Gemstone Egg ×2 | **justinepaje123**: Crystal Egg ×18 |
-| 16:41 | **may_01905**: Emberlight | **sarahtalksstuff**: Stray Cat Dragon ×2 |
-| 16:41 | **12M060**: Skelicorn (MR), Squid (R) | **JuniorGok**: Fly-A-Pet Potion ×2 |
-| 16:41 | **bwunniyzabel**: Haetae (MFR), Giant Panda (N), Dalmatian (NFR), Rainbow Maker, Ice Cream Cone Hat | **pawthetiic**: Giant Panda (MFR), Kangaroo (FR), Spring Bunny Hood |
-| 16:41 | **Ethernaces**: Ride-A-Pet Potion ×2 | **lovealleycats**: Pet Handler Pro Certificate, Purrowl |
-| 16:41 | **mzrxxq**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
