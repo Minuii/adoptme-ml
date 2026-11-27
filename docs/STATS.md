@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 16:55 UTC by the scrape workflow._
+_Updated 2026-11-27 17:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 16:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 39,271 | 2026-11-27T16:45 |
-| elve | 17 | 8,338 | 2026-11-27T16:46 |
+| amvgg | 17 | 39,550 | 2026-11-27T17:00 |
+| elve | 17 | 8,384 | 2026-11-27T17:01 |
 
-## AMVGG completed trades: 72,735 total
+## AMVGG completed trades: 72,749 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,775 |
+| 2026-11-27 | 2,789 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 16:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 17:00 | **ziiwca**: Cow (FR) ×2, Ride-A-Pet Potion | **Bismuth234**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:00 | **IsraaxD007**: Fly-A-Pet Potion ×3 | **santiagoxdeleon**: Ice Cream Cone Hat |
+| 17:00 | **BMWSHKA666**: Winter Fawn (N) | **anastasia2_lol**: Chihuahua |
+| 17:00 | **BLACKGLITTERKITTY**: Balloon Unicorn (FR) | **Ulatrtuikieu13**: Crow (FR) |
+| 17:00 | **Milena_Minecrafter08**: Halloween Slime Mega Neon Paint, Icy Porcupine, Gold Mahi Mahi, Egg Basket Stroller, Unicorn Ducky, Scarecrow Horse | **55lvr**: Ride-A-Pet Potion |
+| 17:00 | **tofallishuman**: Catte ×3 | **Alana2K201**: Fly-A-Pet Potion |
+| 17:00 | **qesangrahan**: Velvet Fuchsia Mega Neon Paint, Electric Tide Mega Neon Paint, Candy Flare Mega Neon Paint | **55lvr**: Ride-A-Pet Potion ×3 |
+| 17:00 | **El_tacosbs**: Ride-A-Pet Potion, Skelicorn | **paldoalways34**: Crystal Egg ×18 |
+| 17:00 | **cursedqxxx**: Ride-A-Pet Potion ×2 | **hiuretic7**: Dragonfruit Fox |
+| 17:00 | **itz_dancer5496**: Frost Dragon (FR), Dragonfruit Fox, Golden Chow-Chow | **hiuretic7**: Tio De Nadal (MFR), Unicorn Horn |
+| 17:00 | **lostinawinterstorm**: Dalmatian (FR) | **ZenaSuguru_Get0**: Cryptid (FR) |
+| 17:00 | **Vika4ka20q**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 17:00 | **Crystal_34530**: Hedgehog (FR), Dalmatian (R), Tortuga de la Isla (R), Fly-A-Pet Potion | **brinIeybaddie**: Evil Unicorn (NFR), 2022 Birthday Party Hat |
+| 17:00 | **Susabaoen**: Red Dutch Guinea Pig (NFR), Fly-A-Pet Potion | **laylalooohoo23**: Owlbear (NFR) |
 | 16:55 | **hahagirlfreind**: Cake Friend (M), Pupcicle (MR), Hamster (M), Cattuccino (M) | **starcode_slowww**: Cow (FR) |
-| 16:51 | **Kiizn**: Stray Cat Dragon (N) ×2 | **Special_Foxi**: Gemstone Egg, Admin Abuse Egg ×2 |
-| 16:51 | **insom4nia**: Peppermint Penguin (FR) | **BoisCrossing**: Cow (R) |
-| 16:51 | **isthesunny**: Flash Weasel | **XxMiniC_235xX**: Gemstone Egg ×4 |
-| 16:51 | **ThePurple_Milk**: Munchkin Cat (NFR) | **XxBellaPlayz17xX**: Cow (FR) |
-| 16:51 | **javvyvt**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Kaiisxe**: Toy Poodle (MR) |
-| 16:51 | **Cinzsins**: Matcha Cat (MFR), Dango Penguins (MFR), Chef Hat | **TralaZuza**: Border Collie (MFR), 2022 Birthday Party Hat |
-| 16:51 | **InfinityWave742**: Maine Coon (N) | **Pistenhase83**: Crystal Egg ×18 |
-| 16:51 | **SoulIuv**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 16:51 | **caxarok_ponosik52**: Albino Monkey (R), Fairy Bat Dragon (R), Cow (FR), Goose, Fairy Bat Dragon (N), Turtle (FR), Grim Dragon (FR), Emberlight (MFR), Gecko (M), Glyptodon (M), Goldfish (MR), Vampire Dragon (R) | **kittycutecat11130**: Frost Dragon (FR) |
-| 16:51 | **Sarahi23685**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 16:51 | **leahrobynboo**: Royal Palace Spaniel (F) | **XxMiniC_235xX**: Gemstone Egg ×2 |
-| 16:51 | **COCUTE965**: Hyena (R) | **jeaanoop**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 16:51 | **Ggggsiijs76**: Ride-A-Pet Potion | **22medaa**: Magic House Door |
-| 16:51 | **beatsvic**: Bat Dragon (NFR), Haetae (MFR), Cryptid (MFR), Chocolate Chip Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (MFR), Border Collie (MFR), Irish Water Spaniel (MFR) | **Steventhebest1111**: Bat Dragon (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
