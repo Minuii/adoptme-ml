@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 09:31 UTC by the scrape workflow._
+_Updated 2026-11-27 09:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 09:31 UTC by the scrape workflow._
 | amvgg | 17 | 32,142 | 2026-11-27T09:30 |
 | elve | 17 | 6,702 | 2026-11-27T09:31 |
 
-## AMVGG completed trades: 71,233 total
+## AMVGG completed trades: 71,249 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,273 |
+| 2026-11-27 | 1,289 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 09:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:30 | **JustMeYito**: Strawberry Shortcake Bat Dragon (R), Ride-A-Pet Potion | **Parrot_chanUwU**: Siamese Cat, Halo, Munchkin Cat, Eggnog Dog (M) |
-| 09:30 | **Lira_1354**: Lion (FR), Shark Puppy, Halloween White Skull Hat | **the_gido9fan2**: Turtle (FR) |
-| 09:30 | **SophiaStormy136**: Crystal Egg ×18 | **jess21059**: Ride-A-Pet Potion |
-| 09:30 | **yoojin_nxx**: Crow (FR) | **Lin68873**: Flamingo (NFR), Albino Monkey (NFR), Crocodile, Goose (FR) |
-| 09:30 | **Star_accdeleted3**: Chocolate Chip Bat Dragon (R) | **mikiroqz**: Glacier Moth, Dango Penguins (MFR), Water Moon Bear (MR), Brown Bear (R) |
-| 09:30 | **Anastasiadenk**: Elephant | **gTheGamerProYTg**: Orange Butterfly (MFR) |
-| 09:30 | **Goodbyes26**: Gemstone Egg ×4 | **REALjaylarp**: Fly-A-Pet Potion |
-| 09:30 | **1MZ03Y**: Kangaroo (FR) ×2 | **Samurai_SaYas**: Cow (FR) |
-| 09:30 | **asmornn**: Ride-A-Pet Potion, Chihuahua, Grinmoire (N), Golden Griffin | **BUS5ED**: Strawberry Hat |
-| 09:30 | **Usuario30x**: Lion, Kangaroo (FR) ×2, Turtle (FR) | **odading12318**: Arctic Reindeer (FR) |
-| 09:30 | **Flo_tine**: Arctic Reindeer (MFR), Strawberry Shortcake Bat Dragon (MFR), Arctic Fox (MFR) | **Skiaksn**: Cryptid (MFR) |
-| 09:30 | **deqxla**: Tuxedo Cat (MR), Ride-A-Pet Potion, Zombie Wolf (MFR) | **longletterstoyou**: Dragonfruit Fox (MFR) |
-| 09:30 | **104636419274492**: Cow (FR), Kangaroo (FR), Candicorn (R) | **Anabellasilva2**: Strawberry Shortcake Bat Dragon (FR) |
-| 09:25 | **SophiaStormy136**: Crystal Egg ×18 | **Lannypanada**: Ride-A-Pet Potion |
-| 09:25 | **flmziia**: Fly-A-Pet Potion, Australian Kelpie | **RyukkHolder**: Catte ×2 |
+| 09:41 | **DamienTrade**: Bat Dragon (FR), Giraffe (FR), Munchkin Cat (MFR), Grim Dragon (R), Fairy Bat Dragon (NFR), Cow (FR), Kangaroo (NFR), Turtle (FR), Werewolf (R) | **karviawong**: Owl (MFR) |
+| 09:41 | **Cinzsins**: Alpaca (MFR), Haetae (NFR) | **darlinglaufey**: Dalmatian (MFR), Puffin (MFR) |
+| 09:41 | **rariitiy**: Kangaroo (FR) | **104636419274492**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×5 |
+| 09:41 | **YeoTaeju_Alpha**: Kangaroo (FR) | **xzxuoj**: Ride-A-Pet Potion ×16 |
+| 09:41 | **pxrczl**: Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), 2022 Birthday Confetti Cannon, Chihuahua (N) | **3htrio**: Giraffe (FR), Haetae (NFR), Candicorn (MFR) |
+| 09:41 | **LolaThePrincess54321**: Evil Unicorn (FR) | **personal_stalker69**: Strawberry Shortcake Bat Dragon (F), Cow (R) |
+| 09:41 | **nona200986**: Ride-A-Pet Potion ×16 | **YeoTaeju_Alpha**: Kangaroo (FR) |
+| 09:41 | **plushioss**: Ride-A-Pet Potion, Chihuahua | **itz_dariinxsss**: Yule Log Dog |
+| 09:41 | **Dlya_amvgg**: Mini Pig (FR), Goose, Unicorn Horn | **plushioss**: Dalmatian |
+| 09:41 | **itz_nastyalik**: Ride-A-Pet Potion, Golden Bone | **artemihhx**: Pet Handler Pro Certificate |
+| 09:41 | **GL0Rl0**: Copycat (MFR) ×2, Copycat (M), Kangaroo (R), Elephant | **leruval**: Frost Dragon (FR) |
+| 09:41 | **Siaaxq0**: Copycat | **Ladyromijuri**: Glacier Moth |
+| 09:41 | **Ca4uccino**: Pink Cat Ear Headphones | **rbxnastyw**: Ride-A-Pet Potion |
+| 09:41 | **MARIAina_1**: Fairy Bat Dragon (F), Ride-A-Pet Potion | **margini_mini**: Border Collie (R), 2022 Birthday Confetti Cannon |
+| 09:41 | **fatpigcorn5**: Striped Eggy, Bat (R), Caramelgeist (N) ×2, Rubber Ducky (N), Thunderfisher (N), Grinmoire, Shiba Inu | **avqrly**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
