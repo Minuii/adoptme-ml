@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 07:11 UTC by the scrape workflow._
+_Updated 2026-11-27 07:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 07:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 29,856 | 2026-11-27T07:00 |
-| elve | 17 | 6,230 | 2026-11-27T07:01 |
+| amvgg | 17 | 30,110 | 2026-11-27T07:15 |
+| elve | 17 | 6,270 | 2026-11-27T07:15 |
 
-## AMVGG completed trades: 70,906 total
+## AMVGG completed trades: 70,908 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 946 |
+| 2026-11-27 | 948 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,8 @@ _Updated 2026-11-27 07:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:15 | **olddeathcore**: Hippogriff (NFR), Peachick (NFR), Ride-A-Pet Potion | **Ksenka866**: Papa Moose |
+| 07:15 | **Milkis_2352**: Corn Doggo (NFR), German Shepherd (NR), Ride-A-Pet Potion ×5, Christmas Spirit (N), Puptune, Pupcake, Catte | **aikyuurei**: Ring-Tailed Lemur (NFR) |
 | 07:11 | **LUISMATEO3112**: Ride-A-Pet Potion | **Yurishi_Kashigava**: Ant (M), Kitty Bat |
 | 07:11 | **adriel_24k**: Cow, Candicorn (R) | **sprxngbonnie**: Turtle (FR), 2022 Birthday Party Hat |
 | 07:11 | **ciruchiroo**: Cow | **bniicake**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×6 |
@@ -52,8 +54,6 @@ _Updated 2026-11-27 07:11 UTC by the scrape workflow._
 | 07:11 | **inquireese**: Ride-A-Pet Potion | **Appelkruimell**: Alicorn ×11 |
 | 07:06 | **roblox_user_8676283275**: Kangaroo (FR), Flamingo (FR) | **vanillqsz**: Golden Chow-Chow (MFR), Fly-A-Pet Potion |
 | 07:06 | **Inganta07**: Fly-A-Pet Potion ×3 | **1kweezzee**: Flash Weasel |
-| 07:06 | **perit4733**: Copycat, Ride-A-Pet Potion ×2, Classic Trade Stand | **Auziato25**: Mochi Meow (M) ×3 |
-| 07:06 | **foovva**: Turtle (R) | **sunflower103512**: Kangaroo (R), Frost Fury (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
