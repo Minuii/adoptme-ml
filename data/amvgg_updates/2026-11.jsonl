@@ -1466,3 +1466,5 @@
 {"id": "6b09827527f127cc0e8922bf", "itemName": "Strawberry Plushie Rider", "itemCategory": "PetWear", "previousItemValue": "0.59", "newItemValue": "0.6", "updatedAt": "2026-11-27T13:15:33.449Z"}
 {"id": "6b09828627f127cc0e8922c0", "itemName": "Strawberry Cupcake Shoes", "itemCategory": "PetWear", "previousItemValue": "0.95", "newItemValue": "0.96", "updatedAt": "2026-11-27T13:15:50.526Z"}
 {"id": "6b09828f27f127cc0e8922c1", "itemName": "Queen Bee Slippers", "itemCategory": "PetWear", "previousItemValue": "0.44", "newItemValue": "0.45", "updatedAt": "2026-11-27T13:15:59.563Z"}
+{"id": "6b09829427f127cc0e8922c2", "itemName": "Santa Hat", "itemCategory": "PetWear", "previousItemValue": "0.0425", "newItemValue": "0.045", "updatedAt": "2026-11-27T13:16:04.535Z"}
+{"id": "6b0982a227f127cc0e8922c3", "itemName": "Super Age-Up Potion", "itemCategory": "Food", "previousItemValue": "0.02", "newItemValue": "0.025", "updatedAt": "2026-11-27T13:16:18.173Z"}
