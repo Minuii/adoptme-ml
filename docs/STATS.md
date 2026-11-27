@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 09:25 UTC by the scrape workflow._
+_Updated 2026-11-27 09:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 09:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 31,916 | 2026-11-27T09:15 |
-| elve | 17 | 6,661 | 2026-11-27T09:15 |
+| amvgg | 17 | 32,142 | 2026-11-27T09:30 |
+| elve | 17 | 6,702 | 2026-11-27T09:31 |
 
-## AMVGG completed trades: 71,220 total
+## AMVGG completed trades: 71,233 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,260 |
+| 2026-11-27 | 1,273 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 09:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:30 | **JustMeYito**: Strawberry Shortcake Bat Dragon (R), Ride-A-Pet Potion | **Parrot_chanUwU**: Siamese Cat, Halo, Munchkin Cat, Eggnog Dog (M) |
+| 09:30 | **Lira_1354**: Lion (FR), Shark Puppy, Halloween White Skull Hat | **the_gido9fan2**: Turtle (FR) |
+| 09:30 | **SophiaStormy136**: Crystal Egg ×18 | **jess21059**: Ride-A-Pet Potion |
+| 09:30 | **yoojin_nxx**: Crow (FR) | **Lin68873**: Flamingo (NFR), Albino Monkey (NFR), Crocodile, Goose (FR) |
+| 09:30 | **Star_accdeleted3**: Chocolate Chip Bat Dragon (R) | **mikiroqz**: Glacier Moth, Dango Penguins (MFR), Water Moon Bear (MR), Brown Bear (R) |
+| 09:30 | **Anastasiadenk**: Elephant | **gTheGamerProYTg**: Orange Butterfly (MFR) |
+| 09:30 | **Goodbyes26**: Gemstone Egg ×4 | **REALjaylarp**: Fly-A-Pet Potion |
+| 09:30 | **1MZ03Y**: Kangaroo (FR) ×2 | **Samurai_SaYas**: Cow (FR) |
+| 09:30 | **asmornn**: Ride-A-Pet Potion, Chihuahua, Grinmoire (N), Golden Griffin | **BUS5ED**: Strawberry Hat |
+| 09:30 | **Usuario30x**: Lion, Kangaroo (FR) ×2, Turtle (FR) | **odading12318**: Arctic Reindeer (FR) |
+| 09:30 | **Flo_tine**: Arctic Reindeer (MFR), Strawberry Shortcake Bat Dragon (MFR), Arctic Fox (MFR) | **Skiaksn**: Cryptid (MFR) |
+| 09:30 | **deqxla**: Tuxedo Cat (MR), Ride-A-Pet Potion, Zombie Wolf (MFR) | **longletterstoyou**: Dragonfruit Fox (MFR) |
+| 09:30 | **104636419274492**: Cow (FR), Kangaroo (FR), Candicorn (R) | **Anabellasilva2**: Strawberry Shortcake Bat Dragon (FR) |
 | 09:25 | **SophiaStormy136**: Crystal Egg ×18 | **Lannypanada**: Ride-A-Pet Potion |
 | 09:25 | **flmziia**: Fly-A-Pet Potion, Australian Kelpie | **RyukkHolder**: Catte ×2 |
-| 09:25 | **ccdbgt1**: Fly-A-Pet Potion | **idk_oofy1377**: Husky |
-| 09:25 | **itspartytime097**: Crystal Egg ×15 | **lilliesautumn**: Ride-A-Pet Potion |
-| 09:25 | **S0ul_kiss0**: Unicorn (FR) | **Yupiterd**: Fly-A-Pet Potion |
-| 09:25 | **Lolbaddie1205**: Chocolate Chip Bat Dragon (MFR), Goat (MFR), Caelum Cervi (MFR) | **lxceddream**: Dalmatian (MFR) |
-| 09:25 | **aweapolarbear**: Turtle (NFR), Kangaroo (FR), Werewolf, Copycat, Spring Bunny Hood, Pink Cat (FR) | **yeetimaheadout7**: Cryptid (FR) |
-| 09:25 | **itz_dariinxsss**: 2D Kitty | **MaiclS0sa**: Ride-A-Pet Potion |
-| 09:25 | **Kasbian09**: Blazing Lion (FR), African Wild Dog (FR), Caelum Cervi (MFR), Shark Puppy (MFR), Peppermint Penguin (NFR), Peppermint Penguin (FR), Strawberry Tortle (N), Elephant (FR), Happy Duckling (MFR), Christmas Egg, Aussie Egg, Toaster Hat | **Adopacount**: Bat Dragon (FR) |
-| 09:25 | **josuelovesunicorns**: Chocolate Chip Bat Dragon (NFR), Ride-A-Pet Potion | **hiwhat043**: Haetae, Kangaroo (NFR) |
-| 09:25 | **Waq1uxx**: Ride-A-Pet Potion | **Starry_Gazin**: Pink Cat Ear Headphones |
-| 09:25 | **otonite7**: Sheeeeep (MR) | **nafee_xx**: Evil Unicorn |
-| 09:25 | **cutik_04**: Candyfloss Chick (R) | **swimmbesucces**: Elephant (FR), Unicorn (NR), Ride-A-Pet Potion |
-| 09:25 | **Diana_9lt**: Kangaroo (FR), Ride-A-Pet Potion ×3, Lunar White Tiger, Frozen Penguin, Snowy Mammoth, Starfish | **cutik_04**: Siamese Cat (FR) |
-| 09:25 | **miffy_paris**: Balloon Unicorn (FR), Goose (FR), Turtle (R), Turkey (NR), Ice Cream Cone Hat, Pancake Stack, Pudding Cat (N), Red Panda (MR), Gemstone Egg, Burger Bun Hat, Purple Heart Glasses ×2, Chick Hat, Bee Hive, Eaten Donut, Candy Corn Hat, Flying Fairy, Pink Hightops | **Jiiionloopj**: Dalmatian (FR), African Wild Dog (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
