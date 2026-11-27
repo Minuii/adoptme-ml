@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 02:16 UTC by the scrape workflow._
+_Updated 2026-11-27 02:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 02:16 UTC by the scrape workflow._
 | amvgg | 17 | 25,310 | 2026-11-27T02:15 |
 | elve | 17 | 5,303 | 2026-11-27T02:15 |
 
-## AMVGG completed trades: 70,304 total
+## AMVGG completed trades: 70,309 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 344 |
+| 2026-11-27 | 349 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,11 @@ _Updated 2026-11-27 02:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:25 | **cornogeeiii**: Dango Penguins | **Tradinginadoptme_673**: Ride-A-Pet Potion ×3 |
+| 02:25 | **gamereldark_YT**: Kangaroo (FR) ×2, Kangaroo (R), Unicorn (MFR), Spring Bunny Feet, Pancake Stack, Fly-A-Pet Potion | **heavsns**: Arctic Reindeer (FR) |
+| 02:25 | **CAT_29070**: Copycat, Angus Cow (M) | **VerMora_PLUS**: Ballet Swan (FR) |
+| 02:25 | **merock56798**: Haetae (FR), Haetae (R), Caterpillar (R), Angus Bull (MR), Pink Dog (MFR), Toucan (MFR) | **dyna911**: Frost Dragon (FR) |
+| 02:25 | **cocoabatonxx**: Ride-A-Pet Potion ×2 | **Galaxy_Magda02**:  |
 | 02:15 | **Chiyothebestrust**: Black Chow-Chow (MFR), 2D Kitty ×2, Fly-A-Pet Potion ×2 | **St4rs_443**: Werewolf (FR) |
 | 02:15 | **Papitascongaseosa_xD**: Fairy Bat Dragon (FR), Dango Penguins (NR), Toaster Hat, Spring Bunny Hood ×2, Pancake Stack, Fly-A-Pet Potion ×2, Glass Skateboard | **mamadmasa010**: Strawberry Shortcake Bat Dragon (FR) |
 | 02:15 | **elproXD_7v7**: Pain au Chat ×3 | **wprodi7**: Ride-A-Pet Potion |
@@ -49,11 +54,6 @@ _Updated 2026-11-27 02:16 UTC by the scrape workflow._
 | 02:15 | **TanjiroKamdo24**: Ride-A-Pet Potion | **elproXD_7v7**: Pain au Chat ×3 |
 | 02:15 | **nibrian15**: Ride-A-Pet Potion ×8, Dragonfruit Fox (NR), Burger Bear (N), Pupcicle, Castle Hermit Crab (N) | **C0xrbin**: Turtle (FR) |
 | 02:15 | **Draco_E09**: Dango Penguins | **berdecol**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 02:15 | **Goodbyes26**: Crystal Egg ×18 | **iampibbleslool**: Admin Vision Cap |
-| 02:15 | **minv9a**: Moon Rabbit ×3, Eggnog Dog, Unicorn Ducky | **evvelxy**: Amami Rabbit (N) |
-| 02:15 | **IzRaiaUwUZaia**: Cow (NFR) | **XXIYAXX_123**: Strawberry Shortcake Bat Dragon (FR) |
-| 02:15 | **soapybunnie_0**: Fly-A-Pet Potion ×2 | **0qiuxz**: Half Egg Stroller, Panda Pal |
-| 02:15 | **1lyybow**: Sunglider (MFR), Giant Blue Scarab (MFR) | **MRP611**: Sushi Penguin (N) ×4 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
