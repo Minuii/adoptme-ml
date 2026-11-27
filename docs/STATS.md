@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 00:46 UTC by the scrape workflow._
+_Updated 2026-11-27 00:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 00:46 UTC by the scrape workflow._
 | amvgg | 17 | 23,799 | 2026-11-27T00:45 |
 | elve | 17 | 5,039 | 2026-11-27T00:46 |
 
-## AMVGG completed trades: 70,087 total
+## AMVGG completed trades: 70,124 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 127 |
+| 2026-11-27 | 164 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 00:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:40 | **uandmeforever8**: Strawberry Shortcake Bat Dragon (NFR) ×2, Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Snakemaster609**: Frost Dragon (FR), Mini Pig |
-| 00:40 | **Morphe_altr**: Cryptid (FR), Fairy Bat Dragon (FR), Candicorn, Frostbite Bear | **Lilyanaa_p**: Crow (FR) |
-| 00:40 | **itslizloll**: Chocolate Dutch Guinea Pig ×2 | **ofdc**: Happy Clam |
-| 00:40 | **Rosieisthebestloll**: Goose (NFR), Gecko (MR), Catte | **LoveRancee**: Candicorn, Dragonfruit Fox (MFR), Goose (FR) |
-| 00:40 | **eyeofrahismymom**: Hare (NR), Siamese Cat (NFR), Rain Cloud Hat | **chaluvxely**: Candyfloss Chick (NFR), Pet Handler Pro Certificate |
-| 00:40 | **Kid26Jellyfish**: Frost Dragon (FR) ×2, Cow (FR), Ride-A-Pet Potion ×3 | **BROWNBLASTER11**: Shadow Dragon (FR) |
-| 00:40 | **adriel_24k**: Sea Slug (NR), Happy Clam (NR), 2022 Birthday Confetti Cannon | **Zroxxxxx**: Chocolate Chip Bat Dragon (FR) |
-| 00:40 | **Dangermousefan0**: Tree Frog (M), Sheepdog Ducky (M) | **Vikakelera**: Ride-A-Pet Potion |
-| 00:40 | **missy_Artz**: Giant Panda (FR) | **stxrssemma**: Lion Cub (MR), Shark Puppy (R), Mini Schnauzer (M), Bunny Swirl (N) |
-| 00:40 | **Carlin_Fofinho**: Monkey King (FR) | **chaxvznn**: Giant Anteater (NFR) |
-| 00:36 | **leoncitoUwU12345**: Dodo (NFR) | **Biabr105**: Mrs. Whiskerpips (MFR), Sweetheart Rat (R), Cute-A-Cabra (NR), Halloween Chick Box, Dracula Parrot |
-| 00:36 | **2l0l0l8**: Parrot (FR) | **sleepy_s0ren**: Balloon Unicorn (FR) |
-| 00:36 | **whisb3**: Groundhog, Lion Cub (R) | **kiM_Cl0uds**: Munchkin Cat (FR) |
-| 00:36 | **GrindAccount_N1**: Candy Cannon, Mini Pig (MFR), Fairy Bat Dragon (NFR) ×2, Dango Penguins (MFR), Angel Wings | **samivig**: Cryptid (MFR) |
-| 00:36 | **hyr9fw**: Strawberry Shortcake Bat Dragon (FR) | **robloxismy13threas0n**: Turtle (FR) ×2, Kangaroo (FR) |
+| 00:51 | **Artem_21a2**: Lava Dragon (NFR), Diamond Ladybug (NR), Unicorn (N), Black Panther | **St4rrCandyy**: Turtle (FR) |
+| 00:51 | **elproXD_7v7**: Pain au Chat ×6 | **noobek8282**: Ride-A-Pet Potion ×2 |
+| 00:51 | **KennyMcCormick067**: Polar Bear (FR) | **dnei30fast**: Fly-A-Pet Potion ×2 |
+| 00:51 | **KennyMcCormick067**: Crow (NFR) | **fluffyunicorns_932**: Parrot (FR) ×2 |
+| 00:51 | **Ix0yn**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 00:51 | **starswirl_64**: Koi Carp ×4 | **Wayda_Jaida**: Ride-A-Pet Potion |
+| 00:51 | **starswirl_64**: Halloween Evil Dachshund ×4 | **Wayda_Jaida**: Ride-A-Pet Potion |
+| 00:51 | **kaze_19364**: Alley Cat, Pomeranian (M), Hamster (N), Harp Seal (R), Snowy Mammoth (M) | **0oSamo**: Cupid Dragon (R) |
+| 00:51 | **elproXD_7v7**: Chihuahua ×6 | **Ejay2_1487**: Ride-A-Pet Potion ×2 |
+| 00:51 | **Pebble_llShelly**: Cabbit (R), Candicorn, Turtle (R) | **Silvia_Ch0rlette**: Strawberry Shortcake Bat Dragon (FR) |
+| 00:51 | **Cinzsins**: Mechapup (MFR), Dango Penguins (MFR), 2022 Birthday Party Hat ×2, Spring Bunny Feet | **Jamesbola6721**: Frost Dragon (FR) |
+| 00:51 | **Vamp1r3S0u1**: Fairy Bat Dragon (R), Goat | **sleepy_s0ren**: Cow |
+| 00:51 | **Pulseq3Void63Echo174**: Count Slothula, Pain au Chat, Pink Betta Fish ×2, Scarlet Butterfly | **Evelyy_na**: Fly-A-Pet Potion |
+| 00:51 | **Pulseq3Void63Echo174**: Count Slothula ×3 | **Evelyy_na**: Fly-A-Pet Potion |
+| 00:51 | **chocomallowdrizzle**: Sweetheart Rat (MR) | **addy_cat100**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Water Rabbit |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
