@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 02:31 UTC by the scrape workflow._
+_Updated 2026-11-27 02:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 02:31 UTC by the scrape workflow._
 | amvgg | 17 | 25,538 | 2026-11-27T02:30 |
 | elve | 17 | 5,358 | 2026-11-27T02:31 |
 
-## AMVGG completed trades: 70,332 total
+## AMVGG completed trades: 70,348 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 372 |
+| 2026-11-27 | 388 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 02:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:30 | **elproXD_7v7**: Chihuahua ×3 | **Chocolatedonut8754**: Ride-A-Pet Potion |
-| 02:30 | **J1nxed_Cr0w**: Gargoyle (MFR), Chocolate Dutch Guinea Pig (NFR), Ride-A-Pet Potion, Toy Poodle (MR), Frog (MR) | **Emanuel_funao**: Goose (FR) |
-| 02:30 | **AyiGamerUwu**: Jimothy ×9, Paint Sealer, Sunrise Duckling Sticker | **Lala_land0707**: Ride-A-Pet Potion |
-| 02:30 | **deathbaconhello11**: Silverback Gorilla (R) | **geaon6**: Haetyphoon |
-| 02:30 | **SophiaStormy136**: Crystal Egg ×18 | **batton0955**: Ride-A-Pet Potion |
-| 02:30 | **alohaxstephhh**: Balloon Unicorn (R), Mermicorn (R), Unicorn (MFR), Bunny Swirl (N), Fly-A-Pet Potion ×5, Catte, Cattuccino ×5 | **ElFanan_Asser**: Owl (FR) |
-| 02:30 | **fewwral_sing**: Picnic Basket ×2, Clam Wings, Gold Fairy Crown | **nwksuv**: Ride-A-Pet Potion |
-| 02:30 | **C0xrbin**: Ride-A-Pet Potion ×3 | **h4venst4r**: Burger Bear (N), Pupcicle |
-| 02:30 | **epicpulsechaos2024**: Ancient Dragon ×10 | **juan71831a**: Ride-A-Pet Potion |
-| 02:30 | **amaialolwonder**: Cow (NFR) | **misakoyr**: 2022 Birthday Party Hat, 2022 Birthday Cake, Unicorn Horn |
-| 02:30 | **ameyyass**: Fly-A-Pet Potion ×2 | **Timur_djan15**: Moose Calf, Goldhorn (R) |
-| 02:30 | **C0xrbin**: Kangaroo (FR) ×2 | **Emanuel_funao**: Gargoyle (MFR), Chocolate Dutch Guinea Pig (NFR), Frog (MR), Ride-A-Pet Potion |
-| 02:30 | **ameyyass**: Ride-A-Pet Potion, Pain au Chat | **2lilly777**: Axolotl (FR) |
-| 02:30 | **ameyyass**: Toucan ×18 | **Depondip**: Ride-A-Pet Potion |
-| 02:30 | **nicolasceci444**: Strawberry Tortle (R), Munchkin Cat (N), Tortoiseshell Guinea Pig (R) | **Zroxxxxx**: Strawberry Shortcake Bat Dragon (FR) |
+| 02:36 | **iitzy_kitti**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion | **kiaraaalol1**: African Wild Dog (FR) |
+| 02:36 | **XxStxrly123yt**: Candy Hare (N), Ride-A-Pet Potion | **BLEIZY1378**: Munchkin Cat (R) |
+| 02:36 | **robloxgamer_19831**: Aurora Fox (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **s6ythed**: Cryptid (FR) |
+| 02:36 | **carlkilling**: Jester Dragon (FR) | **XxSummerxX_0123**: Ride-A-Pet Potion ×7 |
+| 02:36 | **Vesolxii**: Crow (FR), Mini Pig (FR), Munchkin Cat (FR), Arctic Fox (R) | **kxzuaa**: Owl (FR) |
+| 02:36 | **lightxdesire**: Frost Dragon (FR), Goose (FR), Caterpillar, Ice Cream Cone Hat | **kxzuaa**: Royal Mistletroll (MFR) |
+| 02:36 | **1Biahsz_altx**: Ride-A-Pet Potion | **minv9a**: Rainbow Trout (M) |
+| 02:36 | **aylacool45**: Siamese Cat (R), Fairy Bat Dragon | **amshakinss**: Turtle (NFR) |
+| 02:36 | **SophiaStormy136**: Crystal Egg ×18 | **Addiisthebestalt2**: Ride-A-Pet Potion |
+| 02:36 | **lin655732**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 02:36 | **9nvls**: Siamese Cat (N) ×2, Dalmatian, Goat (FR) | **Lxdyxx**: Goat (MFR), Mini Pig, Hot Doggo (R) |
+| 02:36 | **FrNotSummer**: Puffin (MFR) ×2, Alley Cat (MFR), Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R) ×2, Arctic Reindeer (FR), Chocolate Chip Bat Dragon (R), Undead Jousting Horse (R), Copycat (N), Frostbite Bear, Hive Backpack, Cherry-On-Top, Arctic Fox (NR), Diamond Butterfly (FR), Siamese Cat | **Marilynbrandt662**: Bat Dragon (FR) |
+| 02:36 | **dearchrysalis**: Retired Egg | **littlefelonies**: Storm Condor |
+| 02:36 | **Themr_harlen0220**: Fairy Bat Dragon (FR), Count Slothula (R) | **peachyrei_8**: Cabbit (FR) |
+| 02:36 | **honiipi**: Owlbear (MFR), Goth Shoes | **pdntcare**: Sugar Glider (NFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
