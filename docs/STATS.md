@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 01:31 UTC by the scrape workflow._
+_Updated 2026-11-27 01:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 01:31 UTC by the scrape workflow._
 | amvgg | 17 | 24,568 | 2026-11-27T01:30 |
 | elve | 17 | 5,180 | 2026-11-27T01:31 |
 
-## AMVGG completed trades: 70,208 total
+## AMVGG completed trades: 70,228 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 248 |
+| 2026-11-27 | 268 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 01:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:30 | **Papitascongaseosa_xD**: Hare Box | **niceplayeruwu**: Ride-A-Pet Potion |
-| 01:30 | **hivent7**: Kangaroo (FR), Pig (FR) | **hergare3**: Fairy Bat Dragon (FR) |
-| 01:30 | **lovealleycats**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion ×4, Pet Handler Pro Certificate | **dumme_kiwi**: 2022 Birthday Party Hat |
-| 01:30 | **xadore_brookex**: Goat (NR), Goat (FR), Shark Puppy (FR), Shooting Star Board, Copycat, Unicorn (FR), Unicorn (R) | **FelonatedFawn**: Rainbow Maker |
-| 01:30 | **Milky_Official0**: Cryptid (MFR) | **4evxer**: Alpaca (MFR), Siamese Cat (MFR), Balloon Unicorn (FR), Cryptid (FR), Rainbow Maker |
-| 01:30 | **isabella68078**: Moon Rabbit (M), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **evvelxy**: Water Rabbit (MFR), Ghost Bunny (R) |
-| 01:30 | **liofe1**: Blue Betta Fish (R), Wyvern, Lammergeier | **batton0955**: Ride-A-Pet Potion |
-| 01:30 | **Lapiseroch2**: Unicorn Horn ×2, Polar Bear (MFR) | **staymydear**: Cryptid (FR) |
-| 01:30 | **Cxrruptxd_Wxxbs**: Humbug (NFR), Fairytale Egg ×4 | **BBQ2217love**: Scarebear |
-| 01:30 | **Oqulentity**: Otter (N), Chocolate Labrador (N), Red Panda (N), Snow Cat (N), Halloween Black Mummy Cat, Thunderfisher, Bee | **Elwanizk**: Retired Egg ×18 |
-| 01:30 | **Kittycuty26**: Ride-A-Pet Potion ×3 | **Cooking1626**: Hare (R) |
-| 01:30 | **victoriano_secreto**: Strawberry Tortle (FR), Jousting Horse (NR), Fly-A-Pet Potion | **opply_pop**: Candicorn (NR) |
-| 01:30 | **nayeon_twice7504**: Goose (R), Kangaroo (R), Aussie Egg, Munchkin Cat (NR), Crocodile | **ImtheOGplug34**: Cryptid (FR) |
-| 01:30 | **lolcryabtit6767**: Sheeeeep (NFR), Dango Penguins (N) | **axuerilyt**: Crocodile (NFR) |
-| 01:25 | **ophyns**: Crocodile (NFR) | **Pineapple_GirlXDD**: Unicorn (NFR), Phoenix (NFR), King Bee (MFR), Crocodile (R), Meerkat, Robo Dog (N) |
+| 01:40 | **Swimguwin**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 01:40 | **myxa5494**: Arctic Reindeer (FR), Lion (R), Ride-A-Pet Potion ×7 | **Mariacooltime**: Dalmatian (FR) |
+| 01:40 | **zandermarioo**: Emu (MFR), Sushi Penguin, Axolotl (FR), Pain au Chat (N), Diamond Unicorn (R), Ride-A-Pet Potion | **Jazz1402939**: Pupcicle (M) |
+| 01:40 | **jkpf8**: Dango Penguins (R) | **pugq33n23**: Queen Bee (FR) |
+| 01:40 | **KennyMcCormick067**: Dalmatian (FR), Goose (FR), Arctic Fox (R), Mechapup (R), Matcha Cat, Chocolate Dutch Guinea Pig | **fluffyunicorns_932**: Crow (FR) |
+| 01:40 | **P1xk1t**: Jester Dragon (FR) ×2 | **AimWhaitOmg2**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
+| 01:40 | **butterflieshi**: Frostbite Bear, Copycat | **alexgameminecraft**: Crocodile (FR) |
+| 01:40 | **mitskiixmywakix**: Black Chow-Chow (MFR), Fly-A-Pet Potion ×2, 2D Kitty ×2 | **Chiyothebestrust**: Kangaroo (R) |
+| 01:40 | **lollipopleah7861**: Dark Choccybunny (N), Dark Choccybunny ×4 | **Hey_Dant123**: Ride-A-Pet Potion |
+| 01:40 | **Princesitasofia979**: Copycat (N), Werewolf | **kaibodydump**: Jekyll Hydra (FR) |
+| 01:40 | **eeveelover2007lover**: Dango Penguins (R) ×2, Dragonfruit Fox, Unicorn, Latte Kitsune (R) | **yRafah_Bloxinha**: Munchkin Cat (FR) |
+| 01:40 | **kaylamicmi**: Chocolate Chip Bat Dragon (FR) ×4, Strawberry Shortcake Bat Dragon ×5, Dalmatian, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **disapp6ar**: Dalmatian (MFR) |
+| 01:40 | **AMVGGTRADES7**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR), Peppermint Penguin (R) | **CommonTotravelerAx3**: Giraffe (FR) |
+| 01:40 | **vcxitb_new**: Strawberry Shortcake Bat Dragon (FR), Jousting Horse, Dragonfruit Fox | **JacobeanLifestyle**: Winged Tiger (NFR) |
+| 01:40 | **Btstvdyndynfy9**: Parrot (FR), Green Amazon (MFR) | **Car1os_xd**: Rainbow Maker, Mini Pig (NFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
