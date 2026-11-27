@@ -1,20 +1,20 @@
 # Collected data
 
-_Updated 2026-11-27 17:11 UTC by the scrape workflow._
+_Updated 2026-11-27 17:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 27 | 2026-11-11T1036Z | 2026-11-27T0916Z |
-| amvgg | 74 | 2026-11-11T1036Z | 2026-11-27T1416Z |
+| amvgg | 75 | 2026-11-11T1036Z | 2026-11-27T1715Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 39,550 | 2026-11-27T17:00 |
-| elve | 17 | 8,384 | 2026-11-27T17:01 |
+| amvgg | 17 | 39,817 | 2026-11-27T17:15 |
+| elve | 17 | 8,418 | 2026-11-27T17:15 |
 
 ## AMVGG completed trades: 72,823 total
 
