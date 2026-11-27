@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 12:25 UTC by the scrape workflow._
+_Updated 2026-11-27 12:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 12:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 34,767 | 2026-11-27T12:15 |
-| elve | 17 | 7,265 | 2026-11-27T12:15 |
+| amvgg | 17 | 35,013 | 2026-11-27T12:30 |
+| elve | 17 | 7,317 | 2026-11-27T12:31 |
 
-## AMVGG completed trades: 71,740 total
+## AMVGG completed trades: 71,746 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,780 |
+| 2026-11-27 | 1,786 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,12 @@ _Updated 2026-11-27 12:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:30 | **KNU17**: Strawberry Shortcake Bat Dragon (FR), Candyfloss Chick, Shark Puppy (R), Golden Lettuce, Lamb (R) | **princess_pizzanice**: Evil Unicorn (FR) |
+| 12:30 | **dtOvsq**: Ride-A-Pet Potion | **YOKOZ303**: Musk Ox, Ranger Beaver, Chocolate Labrador (N) |
+| 12:30 | **AnaStasia_M201212**: Husky | **cliuic**: Fly-A-Pet Potion |
+| 12:30 | **cannotaffordme**: Peppermint Penguin (R), Arctic Dusk Dragon (MFR) | **trythisrye8**: Dango Penguins (MFR) ×2 |
+| 12:30 | **iiPurplegalaxy127**: Arctic Reindeer (FR) ×2, Aussie Egg, Fly-A-Pet Potion | **Lunatssu**: Jellyfish (MFR), Unicorn Horn |
+| 12:30 | **Benutzername3707**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **St4rrCandyy**: Mr. Whiskerpips (MFR) |
 | 12:25 | **diegxitt**: Ride-A-Pet Potion | **Amberkat23**: Unicorn |
 | 12:25 | **kohvhvv**: Purrowl | **SharkuKy_Trades**: Yellow Designer Backpack ×3 |
 | 12:25 | **Its_YukiOnline**: Fairy Bat Dragon (R), Pet Handler Pro Certificate, Bready Necklace | **HOONMINLIXGYU**: Jester Dragon (NFR), Shark Puppy (R) |
@@ -48,12 +54,6 @@ _Updated 2026-11-27 12:25 UTC by the scrape workflow._
 | 12:25 | **Skiaksn**: Arctic Fox (MFR) | **fitt04_08**: Copycat (MFR) |
 | 12:25 | **Leafiieee**: Kaijunior (M), Ms. Muffet (N) | **Crystalpastel17**: Fly-A-Pet Potion |
 | 12:25 | **naturespiano**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 12:25 | **addmysecondaccount**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 12:25 | **Malelou26**: Elephant (R), Crocodile, Pig | **ggyyu77y7y2**: Cow (FR) |
-| 12:25 | **Anoni_541**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×17 |
-| 12:25 | **monkrillaz**: Cow (FR), Great Pyrenees (MR) | **yeetimaheadout7**: Candicorn (NFR), Spring Bunny Hood |
-| 12:25 | **LightningCheetah2451**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 12:25 | **MM_Cloud**: Crystal Egg ×18 | **SayuPaw**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
