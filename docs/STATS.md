@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 16:46 UTC by the scrape workflow._
+_Updated 2026-11-27 16:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 16:46 UTC by the scrape workflow._
 | amvgg | 17 | 39,271 | 2026-11-27T16:45 |
 | elve | 17 | 8,338 | 2026-11-27T16:46 |
 
-## AMVGG completed trades: 72,681 total
+## AMVGG completed trades: 72,735 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,721 |
+| 2026-11-27 | 2,775 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 16:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:45 | **girlsazaz09**: Dango Penguins (R), Catte | **Lisfps123**: Snow Monkey ×2 |
-| 16:45 | **purebelly**: Cow | **iamiisaaaa**: Peppermint Penguin (R) |
-| 16:45 | **avokado78o**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (NFR) | **personal_stalker69**: Evil Unicorn (FR) |
-| 16:45 | **rip_indra12345678912**: Turtle (R), Caterpillar (FR), Sheeeeep (R), Dancing Dragon (R), Strawberry Penguin | **otonite7**: Turtle (NFR) |
-| 16:45 | **psxwer**: Puffer Fish (MFR), Ice Cream Cone Hat | **Taquitosdesuaderit**: Cherry-On-Top |
-| 16:45 | **TulipPetal_1**: Arctic Reindeer (FR), Turtle (NFR), Munchkin Cat (NR), Fairy Bat Dragon (R), Turtle (FR), Frost Fury (NFR), Crocodile (R), Halloween White Ghost Dragon (R), Polar Bear (R), Shark Puppy (R), Fly-A-Pet Potion ×8 | **kittycutecat11130**: Frost Dragon (FR) |
-| 16:41 | **nimalina463**: King Bee (NFR) | **ROBOZVN**: Ride-A-Pet Potion ×3 |
-| 16:41 | **JeBoyJaden_7**: Strawberry Shortcake Bat Dragon (FR), Pig (NFR), Spring Bunny Hood, Pet Handler Pro Certificate | **Sasha4k8k**: Dalmatian (FR) |
-| 16:41 | **PREPPY_ROBLOXWORLD1**: Cow (R), Matcha Cat (R), Lion Cub, Fly-A-Pet Potion | **cosy_sosu**: Turtle (NFR) |
-| 16:41 | **dyna911**: Giant Panda (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Teddyklao**: Fairy Bat Dragon (NFR), Turtle (FR), Cabbit (R), Dodo (MFR) |
-| 16:41 | **PREPPY_ROBLOXWORLD1**: Frost Fury (NFR), Shark Puppy (R), Pig (R), Villain Gibbon | **Charlotte_art2**: Goose |
-| 16:41 | **C0xrbin**: Candicorn (R) | **nolosew22445**: Burger Bear (M), Snow Leopard (M) |
-| 16:41 | **0Neizvestnost0**: Latte Kitsune (NFR) | **pristinepalace**: Dango Penguins (NFR) |
-| 16:41 | **moonl1ghtsoul**: Turtle (NFR), Fly-A-Pet Potion | **MatinBoring**: Siamese Cat (NFR) |
-| 16:41 | **TD_ROJOS**: Chef Gorilla (MFR), Mule (MFR), Catte (MFR), Panda (MFR), Halloween White Skeleton Dog (MFR) | **Lisfps123**: Goat (MFR) |
+| 16:55 | **hahagirlfreind**: Cake Friend (M), Pupcicle (MR), Hamster (M), Cattuccino (M) | **starcode_slowww**: Cow (FR) |
+| 16:51 | **Kiizn**: Stray Cat Dragon (N) ×2 | **Special_Foxi**: Gemstone Egg, Admin Abuse Egg ×2 |
+| 16:51 | **insom4nia**: Peppermint Penguin (FR) | **BoisCrossing**: Cow (R) |
+| 16:51 | **isthesunny**: Flash Weasel | **XxMiniC_235xX**: Gemstone Egg ×4 |
+| 16:51 | **ThePurple_Milk**: Munchkin Cat (NFR) | **XxBellaPlayz17xX**: Cow (FR) |
+| 16:51 | **javvyvt**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Kaiisxe**: Toy Poodle (MR) |
+| 16:51 | **Cinzsins**: Matcha Cat (MFR), Dango Penguins (MFR), Chef Hat | **TralaZuza**: Border Collie (MFR), 2022 Birthday Party Hat |
+| 16:51 | **InfinityWave742**: Maine Coon (N) | **Pistenhase83**: Crystal Egg ×18 |
+| 16:51 | **SoulIuv**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 16:51 | **caxarok_ponosik52**: Albino Monkey (R), Fairy Bat Dragon (R), Cow (FR), Goose, Fairy Bat Dragon (N), Turtle (FR), Grim Dragon (FR), Emberlight (MFR), Gecko (M), Glyptodon (M), Goldfish (MR), Vampire Dragon (R) | **kittycutecat11130**: Frost Dragon (FR) |
+| 16:51 | **Sarahi23685**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 16:51 | **leahrobynboo**: Royal Palace Spaniel (F) | **XxMiniC_235xX**: Gemstone Egg ×2 |
+| 16:51 | **COCUTE965**: Hyena (R) | **jeaanoop**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 16:51 | **Ggggsiijs76**: Ride-A-Pet Potion | **22medaa**: Magic House Door |
+| 16:51 | **beatsvic**: Bat Dragon (NFR), Haetae (MFR), Cryptid (MFR), Chocolate Chip Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (MFR), Border Collie (MFR), Irish Water Spaniel (MFR) | **Steventhebest1111**: Bat Dragon (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
