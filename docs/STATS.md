@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-26 23:55 UTC by the scrape workflow._
+_Updated 2026-11-27 00:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,13 +13,14 @@ _Updated 2026-11-26 23:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 16 | 45,517 | 2026-11-26T23:45 |
-| elve | 16 | 9,620 | 2026-11-26T23:46 |
+| amvgg | 17 | 23,066 | 2026-11-27T00:00 |
+| elve | 17 | 4,885 | 2026-11-27T00:01 |
 
-## AMVGG completed trades: 69,960 total
+## AMVGG completed trades: 69,977 total
 
 | Day (UTC) | Trades |
 |---|---|
+| 2026-11-27 | 17 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -33,27 +34,26 @@ _Updated 2026-11-26 23:55 UTC by the scrape workflow._
 | 2026-11-16 | 3,994 |
 | 2026-11-15 | 5,931 |
 | 2026-11-14 | 5,899 |
-| 2026-11-13 | 4,412 |
 
 ### Latest 15
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:55 | **RobloxDevolober**: Crystal Egg ×15 | **Loveflowers871**: Ride-A-Pet Potion |
-| 23:55 | **Wayda_Jaida**: Binturong (MR) | **Paipapaprapaa**: Orange Butterfly (MFR) |
-| 23:51 | **lucianaUvU01**: Blue Butterfly, Caramelgeist, Ms. Muffet ×2, Pinkypillar, Tegu | **Pandalovedogss**: Ant ×13 |
-| 23:51 | **hhhauntedddd**: Alpaca (NR) | **donnotinteract**: Siamese Cat (NFR), Alpaca, Sheeeeep (N), Spring Bunny Feet |
-| 23:51 | **killerman_xd1**: Dragonfly ×18 | **oxoglockz**: Ride-A-Pet Potion ×2 |
-| 23:51 | **iivadx**: Pet Handler Pro Certificate, Vol. 2 Pets Plus Sticker Pack, Unicorn (NFR), Koala (R), Unicorn | **carolzinhac2009**: Arctic Fox (FR) |
-| 23:51 | **silvervuw**: Mummy Spider (M), Dingo (NR), Pet Handler Pro Certificate | **mk1ia**: Red Dutch Guinea Pig |
-| 23:51 | **deandrapisang**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×7 | **Wayda_Jaida**: Amami Rabbit (M) |
-| 23:51 | **Justo_cuentasecu**: Frost Dragon (NFR) | **joshuasalgado6**: Cabbit (MFR), Goose (NFR), Siamese Cat (NFR), Unicorn (NR) |
-| 23:51 | **Itzz_Leonie453**: Ride-A-Pet Potion ×9 | **AliceTheToxic**: Jellyfish (R) |
-| 23:51 | **isabella68078**: Albino Monkey (MFR), Tuxedo Cat (MFR), Kangaroo (MFR) | **reserbadong2**: Frost Dragon (FR) |
-| 23:51 | **ruinedbleeded**: African Wild Dog (NFR), Unicorn Horn, Ride-A-Pet Potion | **xj_045x**: Balloon Unicorn (NFR) |
-| 23:51 | **xj_045x**: Crow (FR), Fallow Deer (MFR), Siamese Cat (MFR), Unicorn Horn ×2, Tiny Wings, Brown Bear, Groundhog | **HappyBrenda44**: Peppermint Penguin (MFR) |
-| 23:51 | **elproXD_7v7**: Chihuahua ×3 | **TrueValll**: Ride-A-Pet Potion |
-| 23:51 | **0pocalips**: Skelicorn, Milk Choccybunny (N), Trapdoor Snail, Red Panda, 2026 Birthday Butterfly, Pink Dog | **Isabellathe1123**: Bunny Swirl |
+| 00:00 | **SophiaStormy136**: Crystal Egg ×18 | **taacr9**: Ride-A-Pet Potion |
+| 00:00 | **9vvdx**: Dalmatian (NFR) | **1s2ll**: Strawberry Shortcake Bat Dragon (NFR), Mini Pig (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 |
+| 00:00 | **1s2ll**: Pig (R) | **MRP611**: Nessie (R), Alley Cat |
+| 00:00 | **aloiv484**: Pig (R), Fly-A-Pet Potion | **1s2ll**: Dragonfruit Fox, Chocolate Dutch Guinea Pig ×3, Flaming Fox, Hare |
+| 00:00 | **fenix085L**: Alicorn (MFR) | **BROIMBROKEAHHHHH**: Copycat |
+| 00:00 | **lalafan966**: Balloon Unicorn (FR), Goose (FR), Unicorn Horn, Flamingo (R) | **esabella0_o**: Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (FR) |
+| 00:00 | **killerman_xd1**: Dragonfly ×18 | **oxoglockz**: Fly-A-Pet Potion |
+| 00:00 | **killerman_xd1**: Dragonfly ×18 | **oxoglockz**: Ride-A-Pet Potion ×2 |
+| 00:00 | **1Biahsz_altx**: Pet Handler Pro Certificate | **ppomkoo**: Ride-A-Pet Potion ×2 |
+| 00:00 | **vital_dan**: Bush Elephant (N), Dango Penguins (MFR), Strawberry Tortle, Pet Handler Pro Certificate, Ornate Horned Frog (M) | **Zroxxxxx**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 00:00 | **elproXD_7v7**: Chihuahua ×18 | **Tuuu_Madreee2**: Ride-A-Pet Potion ×6 |
+| 00:00 | **elproXD_7v7**: Chihuahua ×12 | **lu_ven5**: Ride-A-Pet Potion ×4 |
+| 00:00 | **kittietaiI**: Siamese Cat, Cabbit (R), Alley Cat | **Myobap**: Siamese Cat (NFR) |
+| 00:00 | **JorgeEduardo_123**: Glider, Hoverboard | **dnei30fast**: Fly-A-Pet Potion |
+| 00:00 | **Angelbatista_me2**: Sea Angel (MR) | **BROIMBROKEAHHHHH**: Copycat |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
