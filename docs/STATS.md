@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 04:01 UTC by the scrape workflow._
+_Updated 2026-11-27 04:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 04:01 UTC by the scrape workflow._
 | amvgg | 17 | 26,993 | 2026-11-27T04:00 |
 | elve | 17 | 5,663 | 2026-11-27T04:01 |
 
-## AMVGG completed trades: 70,507 total
+## AMVGG completed trades: 70,523 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 547 |
+| 2026-11-27 | 563 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 04:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:55 | **florence_23111**: Border Collie (MFR) | **Spamforchristmas2**: Lion Cub (MFR), Ice Cream Hermit Crab (MFR), Pretty Pony (MR), Sea Slug |
-| 03:55 | **PatoPollo7777**: Sushi Penguin, Dango Penguins, Sweetheart Rat, Chocolate Dutch Guinea Pig | **quesidella**: Jester Dragon (FR) |
-| 03:55 | **queensisters4l**: Crimson Cape (N) | **Andy_kj8**: Retired Egg ×9 |
-| 03:55 | **queensisters4l**: Purrowl | **Andy_kj8**: Retired Egg ×9 |
-| 03:55 | **Lpoopbxhe**: Unicorn Horn ×2, Golden Lettuce | **misakoyr**: Spring Bunny Hood, Spring Bunny Feet ×2, Pancake Stack ×2, Invisible Wings, Burger Boots ×2, Butter Knife, 2022 Birthday Cake |
-| 03:55 | **just_vailan4**: Binturong (MR) | **Brithebarb66**: Rain Cloud Hat |
-| 03:55 | **adoptmelover67684**: Werewolf (FR), Crocodile (R), Elephant (R), Husky, Sandwich Hat | **OMGATERGFF**: Alpaca (FR), Candicorn (FR) |
-| 03:55 | **iisunflower_sunyy**: Retired Egg ×18 | **KAIRA_5882**: Cattuccino (N) |
-| 03:55 | **joakhidk129**: Strawberry Shortcake Bat Dragon (NFR), Kangaroo (FR) | **Itz_CoffeeMochi**: Parrot (FR) |
-| 03:55 | **Starry_Gazin**: Dalmatian (FR), Hedgehog (FR) | **Agnes_Tachyon20077**: Dalmatian (NFR), Cerberus (NFR), Ride-A-Pet Potion |
-| 03:55 | **Varogh6421**: Eco Natural Earth House | **loveyy232**: Ride-A-Pet Potion ×4 |
-| 03:55 | **kagurasgl0w**: Pancake Stack | **mdz_1219**: Ride-A-Pet Potion ×3 |
-| 03:55 | **ten_ferko**: Partridge (MFR), Puptune (MFR), Scarlet Butterfly (MFR) | **Yourgirlkim120**: German Shepherd (MFR) |
-| 03:55 | **HE4RTZK**: Frog (FR) | **melynagamer3**: Ride-A-Pet Potion |
-| 03:55 | **HE4RTZK**: Albino Bat (FR) | **melynagamer3**: Ride-A-Pet Potion |
+| 04:11 | **GABYPLAZES**: Strawberry Shortcake Bat Dragon (FR) ×3, Ride-A-Pet Potion ×3 | **Queenayeshacutegirl**: Owl (FR) |
+| 04:11 | **Lifesword_PlaysYT**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 04:11 | **leachkid284**: Slimingo (NFR) | **Erika_Ayye**: Unicorn (NFR) |
+| 04:06 | **unicornpoop198123**: Moose Calf (MFR), Chihuahua ×8 | **staymydear**: Polar Bear (MFR) |
+| 04:06 | **Andreameli_23**: Cow (FR), Kangaroo (FR), Water Rabbit (MR), Bee (MFR), Mrs. Whiskerpips (MFR), Shetland Pony White (MR), Orca (N), Parakeet (N) | **ymniy_natasha**: Arctic Reindeer (FR) |
+| 04:06 | **1MZ03Y**: Kiwi (MR), Brown Springer Spaniel (M), Mrs. Whiskerpips (M) | **Beansgotnuts**: Cow (FR) |
+| 04:06 | **uliiamiqw**: Fly-A-Pet Potion ×11, Cow (FR), Lion Cub (FR), Copycat (R), Glacier Kitsune (R) | **yelllley8**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:06 | **afissamuzfirah**: Fly-A-Pet Potion | **UrMyHallucination143**: Ermine (NR), Ginger Cat (NR) |
+| 04:06 | **panqueca_dogg**: Arctic Reindeer (FR), Alpaca (R) | **Mahvin29**: Cryptid (FR) |
+| 04:06 | **AyiGamerUwu**: Harp Seal | **WIINDY_311**: Ride-A-Pet Potion, Tutu |
+| 04:06 | **iamnoonetobehere**: Red Squirrel, Chihuahua ×2, Koala, Koi Carp | **amvggaltaccxox**: Fly-A-Pet Potion |
+| 04:06 | **vsqxlw**: Cryptid (FR), Unicorn Horn, Kangaroo (NFR), Turtle (NFR), Haetyphoon (NFR) ×2, Unicorn (NFR), Spring Bunny Hood, Dire Wolf (MFR), Fleur De Ice (NR), Honey Badger (NFR), Winter Fawn (MFR), White Chef Hat, Black Tiger (MR), Cute-A-Cabra (MR), Amethyst Skies Mega Neon Paint, Skeleton Winged Glider | **Glovesanimals500**: Frost Dragon (FR) |
+| 04:06 | **jandabi2006**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **misakoyr**: Fallow Deer |
+| 04:06 | **WeAreTheStars_3**: Fly-A-Pet Potion ×17 | **dagam78**: Cow (FR) |
+| 04:06 | **Aslyloving123**: Alicorn (MFR), Elf Hat, Pupcicle ×2 | **Yumi_Rose8**: Ride-A-Pet Potion ×6 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
