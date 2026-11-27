@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 13:41 UTC by the scrape workflow._
+_Updated 2026-11-27 13:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 13:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 36,031 | 2026-11-27T13:30 |
-| elve | 17 | 7,542 | 2026-11-27T13:31 |
+| amvgg | 17 | 36,267 | 2026-11-27T13:45 |
+| elve | 17 | 7,581 | 2026-11-27T13:46 |
 
-## AMVGG completed trades: 71,985 total
+## AMVGG completed trades: 72,008 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,025 |
+| 2026-11-27 | 2,048 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 13:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:41 | **Pimbo_Peep2011**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×3 | **oooooo_12456748**: Kangaroo (FR) |
-| 13:41 | **AsianIceCold**: Dalmatian (R), Strawberry Shortcake Bat Dragon (FR) ×2, Hot Doggo (FR), Fly-A-Pet Potion ×2 | **i6so1**: Frost Dragon (FR) |
-| 13:41 | **Tree092109**: Ride-A-Pet Potion | **4qbxania**: Panda |
-| 13:41 | **chapa4ka579**: Summer Walrus ×10 | **qO_Opli**: Ride-A-Pet Potion ×2 |
-| 13:41 | **lmao_fyp**: Eco Brown Earth-Wizard Hat, Eco Orange Pumpkin Pie Wings | **qO_Opli**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 13:41 | **SophiaStormy136**: Crystal Egg ×18 | **COCN_XNY**: Ride-A-Pet Potion |
-| 13:41 | **C0xrbin**: Cow (FR) | **Crystal_andLisa**: Kangaroo (FR), Unicorn (NFR), Harp Seal (N), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 13:41 | **R_yutaa**: Shadow Dragon (FR), Frost Dragon (FR) ×2 | **Poopyhead677617**: Shadow Dragon (NFR) |
-| 13:41 | **looperhole2**: Tortoiseshell Guinea Pig (NR), Crocodile (NFR), Sugar Glider, Kangaroo (R), Candicorn (FR) | **Aubrey_Prism851**: Balloon Unicorn (FR) |
-| 13:36 | **ginpawesome**: Matcha Cat | **Kit_tblmamymav1**: Dragonfruit Fox, Spring Bunny Hood |
-| 13:36 | **CAXAROK_0953032396**: Golden Tortoise Beetle | **diupzp**: Mr. Whiskerpips |
-| 13:36 | **jam0khurt**: Ride-A-Pet Potion ×7 | **Madlilz100**: Irish Water Spaniel (R) |
-| 13:36 | **CMETANKA_H24**: Unfortunate Eyelashes ×2, Puppeteer Hand | **xom6ie**: Amethyst Skies Mega Neon Paint |
-| 13:36 | **Ti_rubolanutella034**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Fly-A-Pet Potion | **uamagodj**: Evil Unicorn (FR) |
-| 13:36 | **chapa4ka579**: Musk Ox ×6 | **jauzyp**: Ride-A-Pet Potion ×2 |
+| 13:45 | **natixezq**: Cow (FR), Hedgehog, Hedgehog (R), Kangaroo | **stef070700**: Frost Dragon (FR) |
+| 13:45 | **DalePearson8409**: Chocolate Chip Bat Dragon (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Kvammletitraketa**: Strawberry Shortcake Bat Dragon (R), Alpaca (R), Turtle (FR) ×2, Pet Handler Pro Certificate, Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×5 |
+| 13:45 | **farm2266**: Ride-A-Pet Potion | **nzemniece1**: Gorilla (M) |
+| 13:45 | **chapa4ka579**: Glyptodon ×8 | **Fruit_Kittie**: Ride-A-Pet Potion ×2 |
+| 13:45 | **ezzzzyy3**: Ride-A-Pet Potion | **Puvo_DaluYra**: Bready Necklace |
+| 13:45 | **Shouko_K0mi**: Corn Doggo (MFR), Red Dutch Guinea Pig, Chocolate Dutch Guinea Pig (MR) | **j2v73r**: Strawberry Shortcake Bat Dragon |
+| 13:45 | **Secretaccount12884**: Kangaroo (R), Many Mackerel, Fly-A-Pet Potion | **Sigoretax**: Turtle (FR) |
+| 13:45 | **yena89620**: Hedgehog (FR), Dalmatian (FR) | **kiril4ikGGonlyfan**: Owl (FR) |
+| 13:45 | **kykykykyky_yy**: Elephant (FR), Caterpillar (FR), River Otter (M), Black-Footed Ferret (M), Fly-A-Pet Potion, Ride-A-Pet Potion | **Tamara_dieloste2010**: Cow (FR) |
+| 13:45 | **itsme_zanana**: Orange Betta Fish (M), Komodo Dragon | **Ezyien_vhy**: Fly-A-Pet Potion |
+| 13:45 | **kkaatEEe2**: Kitty Bat (MR) | **GABYPLAZES**: Ride-A-Pet Potion ×11 |
+| 13:45 | **4URANZ3**: Strawberry Shortcake Bat Dragon (FR), Cow (R), Border Collie (R), Shark Puppy | **1nikaroctik**: Haetae (FR) |
+| 13:45 | **kyovd1r**: Candicorn, Turtle (NFR) | **Darkdemon_55555**: Chocolate Chip Bat Dragon (FR) |
+| 13:45 | **y0_0ntofu**: Toy Poodle (N) | **h4_cd**: Ride-A-Pet Potion |
+| 13:45 | **Qt_niyahboo**: Unicorn Horn | **4AdrianaJensen**: Pink Cat (R), Pancake Stack, Alley Cat (R), Majestic Pony (R), Golden Chow-Chow (R), Swan (R), Unicorn (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
