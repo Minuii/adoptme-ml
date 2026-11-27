@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 10:46 UTC by the scrape workflow._
+_Updated 2026-11-27 10:56 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 10:46 UTC by the scrape workflow._
 | amvgg | 17 | 33,336 | 2026-11-27T10:45 |
 | elve | 17 | 6,973 | 2026-11-27T10:46 |
 
-## AMVGG completed trades: 71,395 total
+## AMVGG completed trades: 71,457 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,435 |
+| 2026-11-27 | 1,497 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 10:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:41 | **KityStil3**: Chihuahua | **Pugsmam**: Crystal Egg ×9 |
-| 10:41 | **bermido80**: Ice Cream Hermit Crab ×4 | **aloiv484**: Ride-A-Pet Potion ×8 |
-| 10:41 | **Anyawww07**: Arctic Hare (MFR) | **dnei30fast**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 10:41 | **Saji_Ls**: Dalmatian (FR), Cow (FR), Kangaroo (R) | **r1nvafi**: Strawberry Shortcake Bat Dragon (FR) ×2, Munchkin Cat (R) |
-| 10:41 | **ikeumw**: Candicorn (NFR) | **SCP096OMAGAD**: Mini Pig (FR) |
-| 10:41 | **lona262**: Jellyfish (NFR), French Bulldog (MFR), Mermicorn (FR), Fairy Bat Dragon (FR) | **mikiroqz**: Chocolate Chip Bat Dragon (R), Shark Puppy (NR), Pink Heart Glasses |
-| 10:41 | **ilostmyaccountz3alt**: Unicorn Horn | **noob1962963**: Ride-A-Pet Potion ×18 |
-| 10:41 | **YukiPlays_0**: Fly-A-Pet Potion | **33mac33**: Albatross, Chihuahua, Sabertooth, Ghost Dog, Musk Ox |
-| 10:41 | **luvyerh**: Skelicorn (N) ×2 | **cat_cute135**: Ride-A-Pet Potion |
-| 10:41 | **YukiPlays_0**: Ride-A-Pet Potion | **ItzAina_JPN**: Chihuahua ×3 |
-| 10:41 | **Kumikohy**: Hedgehog (FR), Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) | **Zydac1**: Frost Dragon (FR) |
-| 10:41 | **33mac33**: Alicorn, Ancient Dragon, Bubblegeist, Diamond Dragon ×3, Diamond Mahi Mahi ×2, Diamond Unicorn, Dragonfly, Dragon, Easter Bunny | **Max89422yr**: Fly-A-Pet Potion |
-| 10:41 | **starswirl_64**: Koi Carp ×4 | **skibidiswag85**: Ride-A-Pet Potion |
-| 10:41 | **Legion_Army15**: Eggnog Dog (M), Chihuahua | **abdoosaad**: Fly-A-Pet Potion ×4 |
-| 10:41 | **RobloxDevolober**: Crystal Egg ×15 | **REALjaylarp**: Ride-A-Pet Potion |
+| 10:56 | **abdoosaad**: Crow (FR) | **lara_lara1410**: Strawberry Shortcake Bat Dragon (FR), Bunny Swirl (MFR), Candicorn (NFR), Unicorn Horn, Frostbite Cub (MFR) |
+| 10:56 | **MILK_666997**: Fairy Bat Dragon (R), Kangaroo (FR), Werewolf, Fly-A-Pet Potion, Cerberus (FR), Tree Kangaroo (R) | **Kety222222222**: Strawberry Shortcake Bat Dragon (FR) |
+| 10:56 | **Anabellasilva2**: Werewolf, Ride-A-Pet Potion | **Pebble_llShelly**: Kangaroo (FR) |
+| 10:56 | **33mac33**: Skelebat (N), White Choccybunny (N), Australian Kelpie (N), Bunny (NR), Ghost Wolf (N) | **6evesvokhaha**: Fly-A-Pet Potion |
+| 10:56 | **sjskbdbsnsks**: Business Monkey (N) | **laycakees**: Fly-A-Pet Potion ×2 |
+| 10:56 | **Haiifromamvgg**: 2022 Birthday Cake, Unicorn Horn, 2022 Birthday Cupcake Shoes, Ice Cream Cone Hat, Spring Bunny Hood, Chihuahua | **misakoyr**: Cow (NFR) |
+| 10:56 | **Vodpka**: Ride-A-Pet Potion | **syedkabir**: Crystal Egg ×18 |
+| 10:56 | **sjskbdbsnsks**: Chocolate Dutch Guinea Pig | **smetanka_191011**: Ride-A-Pet Potion |
+| 10:56 | **PM_CYRUS23**: Crystal Egg ×16 | **Piper_pig130408**: Ride-A-Pet Potion |
+| 10:56 | **Skiaksn**: Strawberry Shortcake Bat Dragon (MFR), Arctic Reindeer (MFR) | **add_mymaintotrademe**: Cryptid (MFR) |
+| 10:56 | **1Biahsz_altx**: Ride-A-Pet Potion | **khvitti**: Angus Cow (M) |
+| 10:56 | **123LoKe321lol**: Fairy Bat Dragon (FR), Crocodile (FR), Chihuahua (MFR), Fly-A-Pet Potion ×4, Copycat, Ride-A-Pet Potion ×4 | **Kety222222222**: Chocolate Chip Bat Dragon (FR) |
+| 10:56 | **Aubrey_Prism851**: Crow (FR), Ride-A-Pet Potion | **Thayluv_Joy**: Balloon Unicorn (FR) |
+| 10:56 | **leidydamelike**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×17 |
+| 10:56 | **Pupsidupsi2**: Mermicorn (FR), Cow (FR) ×2, Ride-A-Pet Potion | **kiff_shik**: Dalmatian (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
