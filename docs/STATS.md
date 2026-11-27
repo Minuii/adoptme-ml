@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 15:25 UTC by the scrape workflow._
+_Updated 2026-11-27 15:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 15:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 37,750 | 2026-11-27T15:15 |
-| elve | 17 | 7,949 | 2026-11-27T15:15 |
+| amvgg | 17 | 37,995 | 2026-11-27T15:30 |
+| elve | 17 | 8,005 | 2026-11-27T15:31 |
 
-## AMVGG completed trades: 72,404 total
+## AMVGG completed trades: 72,411 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,444 |
+| 2026-11-27 | 2,451 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,13 @@ _Updated 2026-11-27 15:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 15:30 | **abelhagalatica**: Peppermint Penguin (NFR), Mini Pig (R) | **JenPlaysBS**: Balloon Unicorn (FR) |
+| 15:30 | **moral608**: Cow (FR), Ride-A-Pet Potion | **NomZixxx**: Polar Bear (NFR), Brown Bear (NFR), White Sand Dollar (NFR) |
+| 15:30 | **iamnoonetobehere**: Musk Ox ×4 | **vxzzz632**: Fly-A-Pet Potion |
+| 15:30 | **starwargirl1334**: Magma Moose (R), Irish Setter (M), Lunar Tiger Box | **Starliumms2ndACC**: Catte |
+| 15:30 | **addmysecondaccount**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 15:30 | **Vikysik_2056**: Bready Necklace, Pink Hightops | **EggyPerez**: Ride-A-Pet Potion |
+| 15:30 | **diecoole10976**: Snow Monkey, Ram, Yeti (R), Muskrat (M), Rubber Ducky (M), Donkey (M) | **love_iska9**: Frost Fury (R) |
 | 15:25 | **Angelbatista_me2**: Frost Fury (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **Cosmo_syx**: Unicorn (MFR) |
 | 15:25 | **FrostPixel5930**: Crystal Egg ×18 | **cutemoonya**: Ride-A-Pet Potion |
 | 15:25 | **Cosmo_syx**: Fairy Bat Dragon (R) | **richtopoorsofiahajam**: Unicorn (NFR), Panda (MFR), Dragonfruit Fox ×2 |
@@ -47,13 +54,6 @@ _Updated 2026-11-27 15:25 UTC by the scrape workflow._
 | 15:25 | **chapa4ka579**: Musk Ox ×6 | **iamnoonetobehere**: Ride-A-Pet Potion ×2 |
 | 15:25 | **ellabellabibgo**: Crystal Egg ×17 | **Fastewetyr**: Ride-A-Pet Potion |
 | 15:25 | **richtopoorsofiahajam**: Kangaroo (R), Brown Springer Spaniel (MFR), Vanilla Penguin (MFR), Green Butterfly (MFR) | **Annshdchh**: Arctic Fox (MFR) |
-| 15:25 | **nenerod23**: Unicorn Horn, Munchkin Cat | **Adinator_1**: Jekyll Hydra (R) |
-| 15:25 | **izzztya**: Hedgehog (FR), Dalmatian (R), Arctic Reindeer (NFR), Cow (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **FcNikita24**: Shadow Dragon (FR) |
-| 15:25 | **Pvnk_0x**: Water Rabbit (MFR), Bat Backpack | **Mytradeaccountforme**: Border Collie (FR), Invisible Wings, Alien Eyes Hat |
-| 15:25 | **Beronika_40**: Crystal Egg ×15 | **glitterronmypawz**: Ride-A-Pet Potion |
-| 15:25 | **wiwiloil**: Strawberry Shortcake Bat Dragon (FR), Turtle (R) | **rip_indra12345678912**: Dalmatian |
-| 15:25 | **Tone_ton2**: Fly-A-Pet Potion, Gargoyle, Glormy Crab, Easter Bunny, Diamond Egg | **Lvx1lyn**: Ride-A-Pet Potion ×3 |
-| 15:25 | **heart2jian**: Goat | **veronicalen9**: Velocirooster |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
