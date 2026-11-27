@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 02:01 UTC by the scrape workflow._
+_Updated 2026-11-27 02:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 02:01 UTC by the scrape workflow._
 | amvgg | 17 | 25,071 | 2026-11-27T02:00 |
 | elve | 17 | 5,270 | 2026-11-27T02:01 |
 
-## AMVGG completed trades: 70,271 total
+## AMVGG completed trades: 70,278 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 311 |
+| 2026-11-27 | 318 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,13 @@ _Updated 2026-11-27 02:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 02:11 | **cazzy123abc**: Undead Jousting Horse (MFR), Jekyll Hydra (MFR), Fairy Bat Dragon (MFR), Bat Dragon (R), Strawberry Shortcake Bat Dragon (NFR) ×2, Werewolf (NFR), Chocolate Dutch Guinea Pig (MR), Candicorn, Groundhog (R) | **akhikic**: Hedgehog (MFR), Parrot (MFR), Peppermint Penguin (MFR), Balloon Unicorn (FR), Dragonfruit Fox (MFR), Kangaroo (FR), Monkey King (R), Ride-A-Pet Potion |
+| 02:11 | **gold145_bibi**: Cryptid (FR), Alley Cat (NFR), Midnight Dragon, Princess Capuchin Monkey (N) | **RuthJavxn**: Hedgehog (FR) |
+| 02:11 | **AutoTradeCommission**: Zombie Wolf (MFR), Fly-A-Pet Potion ×2 | **C4K3YK1TTEN**: Silly Duck (MFR) |
+| 02:11 | **Kid26Jellyfish**: French Bulldog (MR) | **G3t_jynxT8**: Hamster (MFR), Peachick (M), Golden Rat (NFR), Dire Wolf (M), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 02:11 | **Jiiionloopj**: Frost Dragon (FR), Candicorn (NFR), Ride-A-Pet Potion | **Gabriele143love**: African Wild Dog (FR), Dalmatian (FR), Mermicorn (NFR) |
+| 02:11 | **0hhNatalia**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×17 |
+| 02:11 | **rainthatxx**: Dango Penguins (NFR), Fly-A-Pet Potion | **Xxxpandaxxxplayz**: Unicorn (MFR) |
 | 02:00 | **TD_ROJOS**: Candyfloss Chick (MFR), Bush Elephant (MFR), Sakura Spirit (MFR), Dango Penguins (MFR) ×2 | **cwupidbrae**: Dalmatian (MFR) |
 | 02:00 | **TMDung20**: Rain Hat | **lucozadesportt**: Ride-A-Pet Potion |
 | 02:00 | **Hxunted_lv**: African Wild Dog (R), Matcha Cat (FR) | **rastafarismo10**: Cryptid (FR), Munchkin Cat (FR), Goose (FR), Ride-A-Pet Potion ×2 |
@@ -47,13 +54,6 @@ _Updated 2026-11-27 02:01 UTC by the scrape workflow._
 | 02:00 | **PugpunterZev**: Unicorn Horn, 2022 Birthday Cupcake Shoes, 2022 Birthday Confetti Cannon, Tiny Wings, Siamese Cat (NFR), Peppermint Penguin (R), Harp Seal (N), Chicken Hat | **Btstvdyndynfy9**: Mini Pig (NFR), Rainbow Maker |
 | 02:00 | **Ruperto_1297**: Shark Puppy (FR) | **Byeedontmindme1234**: Ride-A-Pet Potion ×11 |
 | 02:00 | **EthanNovaZoom2024**: Fly-A-Pet Potion ×11 | **TwistedK1tty**: Ride-A-Pet Potion ×18 |
-| 02:00 | **Lapiseroch2**: Moose Calf (MFR), Queen Bee (MFR), Toasty Red Panda (MFR) | **rastafarismo10**: Cryptid (FR) |
-| 02:00 | **TheEerthh**: Crystal Egg ×10 | **lulucagames310**: Pupcicle |
-| 02:00 | **cabbitfann1**: Chocolate Chip Bat Dragon (NFR) ×2, Chocolate Chip Bat Dragon (FR) | **Graveyardpanda**: Giraffe (FR) |
-| 02:00 | **Cratedin**: Kangaroo (FR) ×2 | **carolzinhac2009**: Cow (FR) |
-| 02:00 | **staymydear**: Kiwi (NFR) | **7H3ST**: Spring Bunny Hood |
-| 02:00 | **glorpingstinky**: Parrot (FR), Chocolate Chip Bat Dragon (NFR), Mini Pig (NFR) | **copyvoting**: Candicorn (MFR), Hedgehog (FR), Hyena (MFR), Brown Bear (MFR), Chocolate Chip Bat Dragon (FR), 2022 Birthday Party Hat |
-| 02:00 | **vuxsa1t**: Fly-A-Pet Potion | **KenyaSharp**: Half Egg Stroller |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
