@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 16:31 UTC by the scrape workflow._
+_Updated 2026-11-27 16:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 16:31 UTC by the scrape workflow._
 | amvgg | 17 | 39,014 | 2026-11-27T16:30 |
 | elve | 17 | 8,261 | 2026-11-27T16:31 |
 
-## AMVGG completed trades: 72,623 total
+## AMVGG completed trades: 72,675 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,663 |
+| 2026-11-27 | 2,715 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 16:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:25 | **lovealleycats**: 2022 Birthday Party Hat | **Giodg2006**: Unicorn Horn, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 16:25 | **gojoismyfav26**: Count Slothula | **123amyt123**: Retired Egg ×18 |
-| 16:25 | **carlkilling**: Turtle (FR) | **nastyxx_ww**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×11 |
-| 16:25 | **luvvr4him**: Cow (MFR), African Wild Dog (FR), 2022 Birthday Party Hat, Ice Cream Cone Hat ×2 | **sobbingcvrpse**: Alpaca (MFR) |
-| 16:25 | **GenePool0808**: Peppermint Penguin (FR), Sugar Glider (R), Arctic Fox (F) | **xxbear_kidsxx**: Chocolate Chip Bat Dragon (FR) |
-| 16:25 | **ApexPrime09**: Pet Handler Pro Certificate ×4, Ride-A-Pet Potion ×2, Fly-A-Pet Potion ×8 | **foovva**: Fairy Bat Dragon (R) |
-| 16:25 | **fergyhater**: Cryptid (MFR), Candicorn (MFR), Royal Mistletroll (NR), Arctic Reindeer (MFR) | **Firefrtho12**: Bat Dragon (FR), Giant Panda (NFR), Brown Bear (NFR), Arctic Dusk Dragon (NFR) |
-| 16:25 | **Devel01q**: Ride-A-Pet Potion | **Appelkruimell**: Dragonfly ×16 |
-| 16:25 | **Elyy_o**: Skelicorn (N) ×2, Mummy Spider (N) | **AdoptMeProkachka909**: Ride-A-Pet Potion |
-| 16:25 | **4532Piggy**: Balloon Unicorn (R), Husky, Cat (M) | **blogssz**: Balloon Unicorn (FR) |
-| 16:25 | **FrostPixel5930**: Crystal Egg ×18 | **51lly_Skyl1ghtz**: Ride-A-Pet Potion |
-| 16:25 | **puppyman246**: Fossil Egg | **papaw02468**: King Bee |
-| 16:25 | **shatternara**: Border Collie | **tobirama20202009**: Matcha Cat (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×4, Gemstone Egg |
-| 16:25 | **rokcu_y2k**: Munchkin Cat | **Rexgaang39**: Ride-A-Pet Potion ×9 |
-| 16:25 | **hejhxgcn**: Strawberry Shortcake Bat Dragon (FR) ×2, Ride-A-Pet Potion ×5 | **FiresMiress**: Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR) |
+| 16:41 | **nimalina463**: King Bee (NFR) | **ROBOZVN**: Ride-A-Pet Potion ×3 |
+| 16:41 | **JeBoyJaden_7**: Strawberry Shortcake Bat Dragon (FR), Pig (NFR), Spring Bunny Hood, Pet Handler Pro Certificate | **Sasha4k8k**: Dalmatian (FR) |
+| 16:41 | **PREPPY_ROBLOXWORLD1**: Cow (R), Matcha Cat (R), Lion Cub, Fly-A-Pet Potion | **cosy_sosu**: Turtle (NFR) |
+| 16:41 | **dyna911**: Giant Panda (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Teddyklao**: Fairy Bat Dragon (NFR), Turtle (FR), Cabbit (R), Dodo (MFR) |
+| 16:41 | **PREPPY_ROBLOXWORLD1**: Frost Fury (NFR), Shark Puppy (R), Pig (R), Villain Gibbon | **Charlotte_art2**: Goose |
+| 16:41 | **C0xrbin**: Candicorn (R) | **nolosew22445**: Burger Bear (M), Snow Leopard (M) |
+| 16:41 | **0Neizvestnost0**: Latte Kitsune (NFR) | **pristinepalace**: Dango Penguins (NFR) |
+| 16:41 | **moonl1ghtsoul**: Turtle (NFR), Fly-A-Pet Potion | **MatinBoring**: Siamese Cat (NFR) |
+| 16:41 | **TD_ROJOS**: Chef Gorilla (MFR), Mule (MFR), Catte (MFR), Panda (MFR), Halloween White Skeleton Dog (MFR) | **Lisfps123**: Goat (MFR) |
+| 16:41 | **Lumina20265**: Gemstone Egg ×2 | **justinepaje123**: Crystal Egg ×18 |
+| 16:41 | **may_01905**: Emberlight | **sarahtalksstuff**: Stray Cat Dragon ×2 |
+| 16:41 | **12M060**: Skelicorn (MR), Squid (R) | **JuniorGok**: Fly-A-Pet Potion ×2 |
+| 16:41 | **bwunniyzabel**: Haetae (MFR), Giant Panda (N), Dalmatian (NFR), Rainbow Maker, Ice Cream Cone Hat | **pawthetiic**: Giant Panda (MFR), Kangaroo (FR), Spring Bunny Hood |
+| 16:41 | **Ethernaces**: Ride-A-Pet Potion ×2 | **lovealleycats**: Pet Handler Pro Certificate, Purrowl |
+| 16:41 | **mzrxxq**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
