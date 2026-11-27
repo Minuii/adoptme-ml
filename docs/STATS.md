@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 21:31 UTC by the scrape workflow._
+_Updated 2026-11-27 21:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 21:31 UTC by the scrape workflow._
 | amvgg | 17 | 44,314 | 2026-11-27T21:30 |
 | elve | 17 | 9,526 | 2026-11-27T21:31 |
 
-## AMVGG completed trades: 74,100 total
+## AMVGG completed trades: 74,126 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,140 |
+| 2026-11-27 | 4,166 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 21:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:30 | **valya45667iy553445**: Cow (FR), Turtle (FR), Fly-A-Pet Potion ×3, Pet Handler Pro Certificate, Ride-A-Pet Potion | **Mila_qwe6**: Chocolate Chip Bat Dragon (FR) |
-| 21:30 | **HOCOKKU**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **frfact**: Halloween Golden Mummy Cat ×18 |
-| 21:30 | **mgodson6**: Siamese Cat (MFR), Shark Puppy, Pet Handler Pro Certificate | **HannaMontanasing**: Goose (NFR), Goose (FR), Peppermint Penguin (R) |
-| 21:30 | **YourfavSTARBOY17**: Alien Eyes Hat, Clover Cow (NR) | **rotpargamer**: Amami Rabbit (N) |
-| 21:30 | **Anime_Masha09**: Parrot (FR) | **Flutterieshyy**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cow (FR) |
-| 21:30 | **Diamondprinces32**: Giraffe (FR) | **3LL1SV1BE**: Frost Dragon (FR) |
-| 21:30 | **CrazyDasha910**: Ride-A-Pet Potion | **Diana83_milk02**: Hooray |
-| 21:30 | **XARYCHIOSI**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion | **ksenia_warrior8**: Kangaroo (FR) |
-| 21:30 | **OrbitGolden201053**: Candicorn (FR), Candicorn | **xXNorthenlightX**: Fairy Bat Dragon (FR), Spring Bunny Hood, Pancake Stack |
-| 21:30 | **Flutterieshyy**: Dalmatian (FR), Chocolate Chip Bat Dragon (FR) | **0nlqm3**: Balloon Unicorn (FR) |
-| 21:30 | **25kkdile3**: Ice Wolf | **Sleepy_Sonya112**: Pet Handler Pro Certificate |
-| 21:30 | **lgdhdjtf**: Vampire Dragon (R) | **0Miss_Ellis0**: Goat (FR) |
-| 21:30 | **Nothingtohedgehog2**: Pets Plus Sticker Pack | **Giodg2006**: Cow Loves This Sticker, Slothula Transformation Animated Sticker |
-| 21:30 | **EricCasper**: Fallow Deer | **lgdhdjtf**: Jester Dragon (FR) |
-| 21:30 | **x1qzw5**: Cocoadile (M) | **goodvibes_only211**: Banana Car |
+| 21:40 | **IzRaiaUwUZaia**: Amethyst Penguin | **reserbadong2**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Fly-A-Pet Potion |
+| 21:40 | **Vitek_228666**: Pig (FR) | **Chicken_Drumsticksss**: Ride-A-Pet Potion ×10 |
+| 21:40 | **Vitek_228666**: Caelum Cervi (R), Ride-A-Pet Potion | **grijfe8r**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 |
+| 21:40 | **Vitek_228666**: Cupid Dragon (FR) | **itemhouse1**: Ride-A-Pet Potion ×7 |
+| 21:40 | **Oneran0**: Hot Doggo (FR), Kangaroo (NFR), Fly-A-Pet Potion | **joakhidk129**: Arctic Reindeer (R) |
+| 21:40 | **xx_xxbummrr**: Unicorn Horn ×2 | **ImANiceDude_J**: Snow Monkey (MFR) |
+| 21:40 | **GrindAccount_N1**: Crow (MFR) | **Swarlivir_V2**: Cryptid (MFR), Parrot (FR) |
+| 21:40 | **ELOSOCURIOSO**: Hedgehog (R), Fly-A-Pet Potion | **17kDEAT_Q**: Mini Pig (FR), Turkey (NR), Papa Moose, Velocirooster, Pancake Stack, Fly-A-Pet Potion, Catte, Turtle (NFR) |
+| 21:40 | **Artem_21a2**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Mermicorn (FR), Kangaroo (NFR) | **joakhidk129**: Chocolate Chip Bat Dragon (FR) |
+| 21:40 | **jellyfish1248396**: Flamingo (FR), Kangaroo (FR), Munchkin Cat (FR) | **abdoosaad**: Turtle (NFR), Drake (R) |
+| 21:40 | **21canyoudosfm**: Siamese Cat (R), Dragonfruit Fox (MFR), Cow (R), Snowball Pet (MFR), Arctic Fox (FR), Arctic Fox (R), Snow Leopard (MFR), Spring Bunny Hood, 2022 Birthday Party Horn | **abdoosaad**: Crow (FR), Jeff's Nametag |
+| 21:40 | **indie_gxrll**: Ride-A-Pet Potion, Onza | **krxadm3**: Crystal Egg ×18 |
+| 21:40 | **SaRa654396**: Dalmatian (FR), Merhorse (MR) | **KittyFlower2211**: Cryptid (FR) |
+| 21:40 | **krxadm3**: Crystal Egg ×17 | **1uvvampp**: Ride-A-Pet Potion |
+| 21:40 | **qqxichan**: Cryptid (NFR) ×2 | **urstrulykaar1**: Balloon Unicorn (FR) ×2, African Wild Dog (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
