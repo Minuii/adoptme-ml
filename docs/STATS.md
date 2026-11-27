@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 15:31 UTC by the scrape workflow._
+_Updated 2026-11-27 15:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 15:31 UTC by the scrape workflow._
 | amvgg | 17 | 37,995 | 2026-11-27T15:30 |
 | elve | 17 | 8,005 | 2026-11-27T15:31 |
 
-## AMVGG completed trades: 72,411 total
+## AMVGG completed trades: 72,463 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,451 |
+| 2026-11-27 | 2,503 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 15:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:30 | **abelhagalatica**: Peppermint Penguin (NFR), Mini Pig (R) | **JenPlaysBS**: Balloon Unicorn (FR) |
-| 15:30 | **moral608**: Cow (FR), Ride-A-Pet Potion | **NomZixxx**: Polar Bear (NFR), Brown Bear (NFR), White Sand Dollar (NFR) |
-| 15:30 | **iamnoonetobehere**: Musk Ox ×4 | **vxzzz632**: Fly-A-Pet Potion |
-| 15:30 | **starwargirl1334**: Magma Moose (R), Irish Setter (M), Lunar Tiger Box | **Starliumms2ndACC**: Catte |
-| 15:30 | **addmysecondaccount**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 15:30 | **Vikysik_2056**: Bready Necklace, Pink Hightops | **EggyPerez**: Ride-A-Pet Potion |
-| 15:30 | **diecoole10976**: Snow Monkey, Ram, Yeti (R), Muskrat (M), Rubber Ducky (M), Donkey (M) | **love_iska9**: Frost Fury (R) |
-| 15:25 | **Angelbatista_me2**: Frost Fury (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **Cosmo_syx**: Unicorn (MFR) |
-| 15:25 | **FrostPixel5930**: Crystal Egg ×18 | **cutemoonya**: Ride-A-Pet Potion |
-| 15:25 | **Cosmo_syx**: Fairy Bat Dragon (R) | **richtopoorsofiahajam**: Unicorn (NFR), Panda (MFR), Dragonfruit Fox ×2 |
-| 15:25 | **tarrace_house**: Ride-A-Pet Potion | **stxrrx_0**: Admin Vision Cap |
-| 15:25 | **prorabik_krytou**: Copycat (M), Ride-A-Pet Potion, Kangaroo (NFR), Candyfloss Chick (R), Polar Bear (R), Husky, Chocolate Dutch Guinea Pig | **tsareena13567**: Giant Panda (FR) |
-| 15:25 | **chapa4ka579**: Musk Ox ×6 | **iamnoonetobehere**: Ride-A-Pet Potion ×2 |
-| 15:25 | **ellabellabibgo**: Crystal Egg ×17 | **Fastewetyr**: Ride-A-Pet Potion |
-| 15:25 | **richtopoorsofiahajam**: Kangaroo (R), Brown Springer Spaniel (MFR), Vanilla Penguin (MFR), Green Butterfly (MFR) | **Annshdchh**: Arctic Fox (MFR) |
+| 15:41 | **kouxhiii**: Fairytale Egg ×12 | **Nio8568**: Unfortunate Eyelashes |
+| 15:41 | **mzrxxq**: Albino Bat (R), Mr. Whiskerpips (R) | **dnei30fast**: Ride-A-Pet Potion |
+| 15:41 | **simplyxarv**: Ride-A-Pet Potion ×2 | **Nio8568**: Spring Bunny Feet |
+| 15:41 | **gudnnni**: Siamese Cat (FR), Great Pyrenees (N) | **runevyl**: Harp Seal (MFR) |
+| 15:41 | **4cosha**: Sheeeeep (MFR) | **ixB4dVib3ssxi**: Evil Unicorn (FR) |
+| 15:41 | **serspect**: Ride-A-Pet Potion ×5 | **swirlycupcake29**: Goldhorn (NR) |
+| 15:41 | **xxbear_kidsxx**: Strawberry Shortcake Bat Dragon (FR) ×3, Matcha Cat | **Wyatt89PaisleyFalcon**: Goose (FR), Cow (FR) ×2, Cabbit (FR), Fairy Bat Dragon (R) ×2, Kangaroo (FR) |
+| 15:41 | **Samuelpro0748**: Caterpillar (NFR), Bush Elephant, Black Panther | **sweetestkitticorn**: Strawberry Shortcake Bat Dragon (FR) |
+| 15:41 | **KARoIINA24367**: Siamese Cat (FR), Harp Seal (NFR), Ride-A-Pet Potion | **margini_mini**: Fairy Bat Dragon (FR) |
+| 15:41 | **oren20050**: Copycat (R), Copycat ×6, Jester Dragon | **olddeathcore**: Cow (FR) |
+| 15:41 | **DefinitelyNotCha6**: Celebrity Mansion | **Laktozik1**: Fly-A-Pet Potion |
+| 15:41 | **swirlycupcake29**: Golden Unicorn (NFR) | **serspect**: Ride-A-Pet Potion |
+| 15:41 | **Bupicollie**: Pet Handler Pro Certificate ×2, Ride-A-Pet Potion | **Karicha1621**: Dire Wolf (MFR) |
+| 15:41 | **Kozinak_k**: Ride-A-Pet Potion ×16 | **YeoTaeju_Alpha**: Kangaroo (FR) |
+| 15:41 | **nevaletugo**: Strawberry Shortcake Bat Dragon (FR) | **mizyx3**: Fairy Bat Dragon (FR), Cow (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
