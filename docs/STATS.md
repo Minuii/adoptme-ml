@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 20:31 UTC by the scrape workflow._
+_Updated 2026-11-27 20:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 20:31 UTC by the scrape workflow._
 | amvgg | 17 | 43,257 | 2026-11-27T20:30 |
 | elve | 17 | 9,231 | 2026-11-27T20:31 |
 
-## AMVGG completed trades: 73,835 total
+## AMVGG completed trades: 73,864 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 3,875 |
+| 2026-11-27 | 3,904 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 20:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 20:30 | **tokyozxvi**: African Wild Dog (FR) ×3, African Wild Dog (R), Mini Pig (FR), Hot Doggo (R), Alpaca (NFR) ×2 | **AccountMadeIn20242**: Balloon Unicorn (FR) ×2, Cabbit (MFR), Cabbit (NFR), Chocolate Chip Bat Dragon (FR), Halo, Angel Wings, Unicorn Horn ×2 |
-| 20:30 | **Moondolllescent7**: Ice Cream Hermit Crab (R) | **graceeeace**: Pupcake (NR) |
-| 20:30 | **Iwish_440**: Frog (NR) | **Dashweflyyy**: Crystal Egg ×18 |
-| 20:30 | **bluebell200923**: Arctic Hare (M), Capybara | **ise_0889**: Glormy Leo |
-| 20:30 | **wragom_fikk**: Glacier Kitsune | **agenthollydoom**: Fallow Deer |
-| 20:30 | **Zahnreus**: Fly-A-Pet Potion | **Iwish_440**: Cuddly Candle (FR) |
-| 20:30 | **Ameera_109**: Diamond Amazon (MFR) | **MICROCELE6BRITY**: Candicorn (MFR) |
-| 20:30 | **Ryukyu7336**: Shark Puppy (R) | **MckDull**: Fly-A-Pet Potion ×6 |
-| 20:30 | **reaInyancat**: Fly-A-Pet Potion ×4 | **AdoptmeJamy**: Cozy Cabin |
-| 20:30 | **Kobe242136**: Kitty Bat (MFR), Scarebear (NR), Onza (M) | **user9461037**: Kangaroo (FR) |
-| 20:30 | **chicken_lover53**: Harp Seal (N), Rhino | **yamma_lamma3546**: Haetyphoon |
-| 20:30 | **Kayorilate**: Kangaroo (NFR), Candicorn (FR), Munchkin Cat (R) | **AbstrackDarck**: Chocolate Chip Bat Dragon (FR) |
-| 20:30 | **Angelbatista_me2**: Siamese Cat (R), Spring Bunny Hood ×2 | **lnactiveWords**: Cabbit (FR) |
-| 20:30 | **0nlyMeBri**: Cow | **ampoorhehe**: Fly-A-Pet Potion ×17 |
-| 20:30 | **fries2like**: Turtle (NFR), Fly-A-Pet Potion | **Hana24643**: Dango Penguins (MFR) |
+| 20:41 | **Izack_575**: Candyfloss Mega Neon Paint | **gameroir6**: Crimson Heatwave Mega Neon Paint |
+| 20:41 | **reaInyancat**: Flower Stroller, Throne Stroller | **Theprotectorof4**: Ride-A-Pet Potion |
+| 20:41 | **FcNikita24**: Dalmatian (FR), Arctic Reindeer (F), Arctic Reindeer (R), Cow (NFR), Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR), Turtle (NFR), Matcha Cat, Ride-A-Pet Potion | **pusilups**: Shadow Dragon (FR) |
+| 20:41 | **X0LuvyouX0**: Peppermint Penguin (MFR), Goose (MFR), Rainbow Maker ×2, Rain Cloud Hat, Toaster Hat | **x3mzv**: Bat Dragon (FR) |
+| 20:41 | **BeenuttBudder**: Amethyst Penguin, Evil Chick (M), Cerberus (N) | **dishmala**: Evil Unicorn (FR) |
+| 20:41 | **helloiamaakt**: Strawberry Shortcake Bat Dragon (FR), Gemstone Egg | **coldgoodbyes**: Cow (FR) ×2 |
+| 20:41 | **laurenn_133**: Strawberry Tortle (NR) | **RuthJavxn**: Cow (NFR), Unicorn Horn |
+| 20:41 | **Xxfortnite401kxX**: Kitty Bat (MR), T-Rex (NFR), Australian Kelpie (MFR), Fly-A-Pet Potion | **Theprotectorof4**: Grim Dragon (FR) |
+| 20:41 | **bu_altacct727**: Mini Pig (R), Hot Doggo (R), Unicorn (NR), Spring Bunny Feet, Banana Hat, Strawberry Hat, Puffer Fish, 2022 Birthday 5 Badge, Butter Knife, Influencer Gibbon, Fleur De Ice (R), Strawberry Clip, Alley Cat, Gumball Caterpillar (M), Ride-A-Pet Potion | **princess0088123**: Dalmatian |
+| 20:41 | **Kisa_Mika8**: Banana Hat, Strawberry Shortcake Bow, Eaten Donut | **eom64060**: Alley Cat |
+| 20:41 | **m_shaner**: Papa Moose (MFR), Cow (MFR) | **oc6eanblvd**: Sugar Glider (MFR) |
+| 20:41 | **eom64060**: Ride-A-Pet Potion | **DiEsE_Lei129**: Pizza Stroller |
+| 20:41 | **bolzani001111**: Haetyphoon (M), Flash Weasel ×5 | **eom64060**: Frost Dragon (FR) |
+| 20:41 | **DvmbMya**: Kangaroo (NFR), Pet Handler Pro Certificate | **Theprotectorof4**: Mini Pig (FR) |
+| 20:41 | **Bcrocho11**: Ride-A-Pet Potion | **DoRa675000**: Rainbow Stroller |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
