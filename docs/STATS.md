@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 22:11 UTC by the scrape workflow._
+_Updated 2026-11-27 22:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 22:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 44,838 | 2026-11-27T22:00 |
-| elve | 17 | 9,645 | 2026-11-27T22:01 |
+| amvgg | 17 | 45,076 | 2026-11-27T22:15 |
+| elve | 17 | 9,668 | 2026-11-27T22:15 |
 
-## AMVGG completed trades: 74,271 total
+## AMVGG completed trades: 74,299 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,311 |
+| 2026-11-27 | 4,339 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 22:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:11 | **hijodefrutaXdd9**: Sushi Penguin ×2 | **Alana2K201**: Ride-A-Pet Potion ×2 |
-| 22:11 | **Amvgg_Amvggg**: Parrot (FR), Evil Unicorn (R), Siamese Cat (NFR), Goose, Albino Monkey (FR), Turtle (FR) | **larastars115**: Giraffe (FR) |
-| 22:11 | **chaecherie**: 2022 Birthday Cake, Tortuga de la Isla (R), Fly-A-Pet Potion | **X0LuvyouX0**: Angel Wings |
-| 22:11 | **crypt1c_225**: Ride-A-Pet Potion ×2 | **picolo_2324**: Star Sunglasses ×2 |
-| 22:11 | **Assewsslila**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion, Yeti, S'mores Raccoon, Koala, Pupcake, Ice Cream Stroller | **ded_valera9586**: Haetyphoon |
-| 22:11 | **Just_Kerri4nnnnn**: Bat Dragon (FR), Peppermint Penguin | **holasoyrafahaha**: Cryptid (MFR) |
-| 22:11 | **itsmeRa3lyn**: Giant Panda (R) | **Arcyyicyy**: Giant Panda |
-| 22:11 | **Lemonz_Die**: Naughty Mistletroll (FR), Wood Pigeon, Spring Bunny Feet, Dylan | **grijfe8r**: Caelum Cervi (R) |
-| 22:11 | **PixiePawsTrade**: Fly-A-Pet Potion | **0sit0legendari0**: Hooray |
-| 22:11 | **Flutterieshyy**: Hedgehog (F), Hot Doggo (R), Silly Duck (NFR) | **trendypopcon**: Balloon Unicorn (FR) |
-| 22:11 | **unuunu82**: Chocolate Chip Bat Dragon (NFR), Bauble Buddies (MFR) | **Moonbeam490**: Strawberry Cupcake Shoes |
-| 22:11 | **ZzzTrades7**: Frost Fury (NFR), Albino Monkey (FR) | **xhappyxdayx**: Caelum Cervi (NFR), Leopard Shark |
-| 22:11 | **Tater_Puddin86**: Ride-A-Pet Potion | **1Biahsz_altx**: Crystal Egg ×17 |
-| 22:11 | **Dyra_228050**: Cherry-On-Top, Rain Cloud Hat, Toaster Hat, Propeller Hat, Spring Bunny Feet, Spring Bunny Hood, Copycat | **kiff_shik**: Strawberry Shortcake Bat Dragon (FR) |
-| 22:11 | **nevvitfww**: Nessie (NFR), Frost Fury (FR) | **Alinxq0**: Christmas Pudding Pup (NFR) |
+| 22:15 | **IShadow_spotI**: Ride-A-Pet Potion | **giraffepupies**: Pupcake ×2 |
+| 22:15 | **Angelbatista_me2**: Strawberry Tortle, Jester Dragon | **ZzzTrades7**: Grim Dragon, Giant Gold Scarab |
+| 22:15 | **Lqvari**: Unicorn Horn ×3, Tiny Wings, Spring Bunny Hood, Fly-A-Pet Potion, Ride-A-Pet Potion | **kitty9x3asd7**: Cryptid (FR) |
+| 22:15 | **krikikriki56**: River Otter (N) ×3, 2x Bucks Potion, Orca, Starfish | **4eskz**: Ride-A-Pet Potion |
+| 22:15 | **frfact**: Metal Ox ×18 | **luffygodxd23**: Ride-A-Pet Potion ×2 |
+| 22:15 | **axltzz0**: Burger Boots ×2 | **Elmasinsano_392**: Pet Handler Pro Certificate |
+| 22:15 | **Deamh_1**: Dalmatian (FR), Bready Necklace ×2 | **MaYsIe_GiRl13**: Cryptid (FR) |
+| 22:15 | **exorstiionn**: Dalmatian (FR) | **Adoptme_prety**: Munchkin Cat (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 22:15 | **salman_SAD123**: Dalmatian (FR), Arctic Reindeer (FR) | **mapledkazuha**: Parrot (FR) |
+| 22:15 | **Ruperto_1297**: Fly-A-Pet Potion ×5 | **QUliaka**: Ride-A-Pet Potion ×9 |
+| 22:15 | **adoptrade12**: Cow (FR) | **theg0atadm**: Solaris (MFR) |
+| 22:15 | **yesterboni0**: Ride-A-Pet Potion ×12, Fly-A-Pet Potion ×2 | **akkumalt**: Albino Monkey (FR) |
+| 22:15 | **fungasytyy**: Strawberry Shortcake Bat Dragon (FR) ×2, Fly-A-Pet Potion | **HARPY_DV**: African Wild Dog (FR) |
+| 22:15 | **molk5op9**: Ride-A-Pet Potion ×9 | **jazmins_corner**: Arctic Fox (FR) |
+| 22:15 | **discoboomzz**: Yeti (NR) | **C_Darragh123**: Haetyphoon |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
