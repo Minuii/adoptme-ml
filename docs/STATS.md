@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 10:11 UTC by the scrape workflow._
+_Updated 2026-11-27 10:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 10:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 32,611 | 2026-11-27T10:00 |
-| elve | 17 | 6,813 | 2026-11-27T10:01 |
+| amvgg | 17 | 32,836 | 2026-11-27T10:15 |
+| elve | 17 | 6,830 | 2026-11-27T10:15 |
 
-## AMVGG completed trades: 71,313 total
+## AMVGG completed trades: 71,326 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,353 |
+| 2026-11-27 | 1,366 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 10:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:15 | **Cute_Kayla225**: Arctic Reindeer (NFR) | **Gay5242**: Giant Panda (FR) |
+| 10:15 | **aloiv484**: Fly-A-Pet Potion ×2 | **BUS5ED**: Glormy Leo |
+| 10:15 | **muniradypa**: Pain au Chat ×3 | **Kwiitty_0x0**: Ride-A-Pet Potion |
+| 10:15 | **DamienTrade**: Sugar Axolotl (R), Rose Dragon (FR) | **Leviodas**: Tiny Wings |
+| 10:15 | **Tuti89975**: Strawberry Shortcake Bat Dragon (FR), Siamese Cat (FR), Dragonfruit Fox (N), Fly-A-Pet Potion | **ImFromThePast2019**: Fairy Bat Dragon (NFR), Arctic Fox (NFR), Ride-A-Pet Potion |
+| 10:15 | **luvyerh**: Cow (FR) | **ugl4st3phan**: Pig (FR) ×2, Pig (R), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 10:15 | **Frs_88xx**: Gemstone Egg ×4 | **GAB5GAMMER**: Spinning Teacup Vehicle ×18 |
+| 10:15 | **tvizzer999**: Halloween White Ghost Dragon (MFR) | **IconsChew**: White Sand Dollar (MFR), Kitty Bat (MFR), Yeti (MFR), Rooster (MFR) |
+| 10:15 | **Crystal_andLisa**: Sheeeeep (R), Many Mackerel (R), Kitsune (NFR), Ride-A-Pet Potion | **darina_2011m**: Tortoiseshell Guinea Pig |
+| 10:15 | **LightningCheetah2451**: Unicorn Leash, Firey Aura, Icey Aura | **Leviodas**: Ride-A-Pet Potion |
+| 10:15 | **disapp6ar**: Strawberry Shortcake Bat Dragon (FR) ×6 | **xyudrocher666**: Giraffe |
+| 10:15 | **Tradeaccountonlycris**: Siamese Cat, Ride-A-Pet Potion | **hzmimii**: 2022 Birthday Cake |
+| 10:15 | **QueenofNerdssss**: Pet Handler Pro Certificate ×3 | **Elmasinsano_392**: Fallow Deer (R), Ride-A-Pet Potion |
 | 10:11 | **xlottiex3x**: Mini Pig (MFR), Strawberry Shortcake Bat Dragon (FR) | **amvggaltaccxox**: Shark Puppy (NFR) ×3, Caterpillar (NR), Frost Unicorn (MFR), Siamese Cat, Goat (R) |
 | 10:11 | **amvggaltaccxox**: Shark Puppy (NFR), Copter Hat | **bunnidylln**: 2022 Birthday Cake, Unicorn Horn |
-| 10:11 | **sleewipyy**: Chocolate Chip Bat Dragon (MFR), Shark Puppy (NR) | **pxrczl**: Giraffe (FR), Candicorn (MFR) |
-| 10:11 | **lera5132**: Ride-A-Pet Potion | **ribbonnuusama**: Crystal Egg ×18 |
-| 10:11 | **vaanilye**: Goose (FR), Ram (MR), Matcha Cat, Husky (R), Tuxedo Cat | **JuniorGok**: Chocolate Chip Bat Dragon (FR) |
-| 10:11 | **XxArmy_UvUxX**: Shark Puppy (R) | **Luvx_VXvu**: Pain au Chat (MFR) |
-| 10:11 | **didi_diana20136**: Vanilla Penguin (MR) | **jetedispas212**: Pig (NFR) |
-| 10:06 | **Ryou_senpai05**: Ride-A-Pet Potion ×3 | **margini_mini**: Chocolate Dutch Guinea Pig, Chihuahua (N) |
-| 10:06 | **5689kgf02**: Pig (NFR), Matcha Cat | **jetedispas212**: Fairy Bat Dragon (FR) |
-| 10:06 | **8qgdiw9**: Ride-A-Pet Potion ×3 | **Yukitooo123**: Chihuahua ×8 |
-| 10:06 | **Yukitooo123**: Chihuahua ×3 | **8qgdiw9**: Ride-A-Pet Potion |
-| 10:06 | **method611491**: Giant Panda (MFR) | **pawthetiic**: African Wild Dog (MFR), Frost Dragon (FR), Crow (FR), Evil Unicorn (FR), Candicorn (NR), Candicorn (R), Turtle (FR) |
-| 10:06 | **starswirl_64**: Glyptodon ×4 | **tttttttttpo328**: Ride-A-Pet Potion |
-| 10:06 | **realacciidreambearii**: Ride-A-Pet Potion ×2, Goose (FR), Border Collie, Panda (MFR), Cherub Chipmunk (N) | **ADDIEISCHEAP**: Strawberry Shortcake Bat Dragon (FR) |
-| 10:06 | **SushiExpressOfficial**: Dango Penguins (NR) | **neversshy**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
