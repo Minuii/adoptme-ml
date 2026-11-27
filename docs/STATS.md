@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 21:55 UTC by the scrape workflow._
+_Updated 2026-11-27 22:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 21:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 44,577 | 2026-11-27T21:45 |
-| elve | 17 | 9,577 | 2026-11-27T21:46 |
+| amvgg | 17 | 44,838 | 2026-11-27T22:00 |
+| elve | 17 | 9,645 | 2026-11-27T22:01 |
 
-## AMVGG completed trades: 74,186 total
+## AMVGG completed trades: 74,193 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,226 |
+| 2026-11-27 | 4,233 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,13 @@ _Updated 2026-11-27 21:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 22:00 | **1MZ03Y**: Kangaroo (FR) ×2 | **xXfayridreamXx**: Cow (FR) |
+| 22:00 | **Darihkc**: Pain au Chat ×6 | **Artloverpaintlover**: Ride-A-Pet Potion ×2 |
+| 22:00 | **MM234861**: Ride-A-Pet Potion | **frfact**: Metal Ox ×15 |
+| 22:00 | **Countmeowww**: Tiny Wings, Pancake Stack, Pink Heart Glasses | **faebnny**: Moon Rabbit (MFR) |
+| 22:00 | **Mrmeowmeow_02**: Crystal Egg ×9 | **Amiti63920**: Fishbone Badge |
+| 22:00 | **basicgenn**: Rainbow Maker ×2, Unicorn Horn, Tiny Wings | **xXfayridreamXx**: Giant Panda (FR) |
+| 22:00 | **PracticalChive5077**: African Wild Dog (FR), Chocolate Chip Bat Dragon (FR), Cabbit (NFR), Goose, Winged Tiger (FR), Cryptid (FR), Giant Panda (FR) | **Assewsslila**: Giant Panda (NFR) |
 | 21:55 | **bella94255**: Fly-A-Pet Potion | **nimalina463**: Hooray |
 | 21:55 | **moezamoza**: Candicorn (R), Kangaroo (FR), Drake | **dodzhima**: Cow (FR) |
 | 21:55 | **dasha_kotik479**: Zombie Wolf | **Elmasinsano_392**: Ride-A-Pet Potion |
@@ -47,13 +54,6 @@ _Updated 2026-11-27 21:55 UTC by the scrape workflow._
 | 21:55 | **snoringkai**: Parrot (NFR), Strawberry Shortcake Bat Dragon (FR) | **divineproblem**: Strawberry Tortle (MFR) |
 | 21:55 | **roblox_user_2310205236**: Bunny Swirl | **MyStarPets1**: Pupcicle ×2 |
 | 21:55 | **xRenyyi**: Glider ×2 | **swagkorm1**: Ring-Tailed Lemur |
-| 21:55 | **amvggbannedmewrongly**: Shrew (MFR) | **LewALTacc7**: Ballet Swan (MFR), Ride-A-Pet Potion ×2 |
-| 21:51 | **Mwlexxs**: Moonbeam Peacock, Many Mackerel, Pet Handler Pro Certificate ×2, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **tjandhannah34**: Fairy Bat Dragon (FR) |
-| 21:51 | **Ameera_109**: Sheeeeep (MFR), Red Squirrel (MFR) | **lostralaleritos_685**: Goat (MFR) |
-| 21:51 | **dimon221221332**: Zombie Buffalo (MFR) | **Noahisthebestaltx**: Copycat (MFR) |
-| 21:51 | **xXcaxapokXx_off**: Count Slothula, Pupcicle | **ItzAina_JPN**: Ride-A-Pet Potion |
-| 21:51 | **Sonic4567902**: Cow (R), Albino Monkey, Goose (FR), Irish Water Spaniel (R), Fly-A-Pet Potion ×4, Moon Rabbit (R) | **SaRa654396**: Cryptid (FR) |
-| 21:51 | **DianaKoles5**: Ride-A-Pet Potion | **vioIetinthesun**: Hooray |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
