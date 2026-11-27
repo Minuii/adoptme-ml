@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 10:31 UTC by the scrape workflow._
+_Updated 2026-11-27 10:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 10:31 UTC by the scrape workflow._
 | amvgg | 17 | 33,079 | 2026-11-27T10:30 |
 | elve | 17 | 6,906 | 2026-11-27T10:31 |
 
-## AMVGG completed trades: 71,357 total
+## AMVGG completed trades: 71,395 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,397 |
+| 2026-11-27 | 1,435 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:30 | **nona200986**: 2022 Birthday Party Hat | **austin_1230003**: Strawberry Tortle (FR) |
-| 10:30 | **Lapiseroch2**: Werewolf (MFR), Corn Doggo (MFR), Ride-A-Pet Potion ×2 | **anekalubitnaruto**: Cryptid (FR) ×2 |
-| 10:30 | **Masha7930**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **c0r_ps33**: Border Collie (R) |
-| 10:30 | **Dimash_bash**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR), Elephant (NFR), Shrew (R), Fly-A-Pet Potion ×2 | **omlisage_amvgg**: Frost Dragon (FR) |
-| 10:30 | **Nxdya_1439**: Jellyfish (N) | **XxBad_2PotatoxX**: Jellyfish (NFR) |
-| 10:30 | **AsianIceCold**: Narwhal (MR), Discosplosion, Purple Heart Glasses | **dnei30fast**: Ride-A-Pet Potion ×3 |
-| 10:30 | **star_adelina**: Fly-A-Pet Potion | **MILK_666997**: Bunny Swirl (N) |
-| 10:30 | **Yukitooo123**: Chihuahua ×9 | **lalasagnasburosa**: Copycat |
-| 10:25 | **REALjaylarp**: Ballet Swan | **71bad**: Ride-A-Pet Potion ×4 |
-| 10:25 | **MalikaHitam27**: Pink Betta Fish (N) ×2 | **Callme_Mary45**: Fly-A-Pet Potion |
-| 10:25 | **o277o**: Shark Puppy (NFR), Munchkin Cat (NFR), Corn Doggo (MFR), Jekyll Hydra (R), Leopard Shark (MFR), Sugar Glider (FR), Many Mackerel (NFR), Harp Seal (MFR), Ring-Tailed Lemur (NFR), Owlbear (NFR), Werewolf (R), Border Collie (FR), Lynx (MR), Alley Cat (NFR), Great Pyrenees (MR), Shark Puppy (R), Amami Rabbit (MR), Happy Duckling (M) | **AvaCometfish961**: Giraffe (FR) |
-| 10:25 | **TMDung20**: Chocolate Dutch Guinea Pig (NR) | **tired_ooflifenumb**: Ride-A-Pet Potion ×7 |
-| 10:25 | **BIg_BoRdy**: Cake Friend, Pretty Pony, Frostbite Cub, Black Springer Spaniel, Brown Springer Spaniel, Highland Cow, Pupcicle ×3, Pink Betta Fish, Snowball Pug, Castle Hermit Crab, Hippo ×2, Ranger Beaver, Goldfish, Leopard Cat, Summer Walrus | **ItzAina_JPN**: Ride-A-Pet Potion ×10 |
-| 10:25 | **kolgotkanb**: Parrot (NFR) | **lockefoo**: Frost Dragon (FR), Turtle (FR), Fairy Bat Dragon (FR) |
-| 10:25 | **GAB5GAMMER**: Spinning Teacup Vehicle ×18 | **xxRIC_KIYxx**: Ride-A-Pet Potion |
+| 10:41 | **KityStil3**: Chihuahua | **Pugsmam**: Crystal Egg ×9 |
+| 10:41 | **bermido80**: Ice Cream Hermit Crab ×4 | **aloiv484**: Ride-A-Pet Potion ×8 |
+| 10:41 | **Anyawww07**: Arctic Hare (MFR) | **dnei30fast**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 10:41 | **Saji_Ls**: Dalmatian (FR), Cow (FR), Kangaroo (R) | **r1nvafi**: Strawberry Shortcake Bat Dragon (FR) ×2, Munchkin Cat (R) |
+| 10:41 | **ikeumw**: Candicorn (NFR) | **SCP096OMAGAD**: Mini Pig (FR) |
+| 10:41 | **lona262**: Jellyfish (NFR), French Bulldog (MFR), Mermicorn (FR), Fairy Bat Dragon (FR) | **mikiroqz**: Chocolate Chip Bat Dragon (R), Shark Puppy (NR), Pink Heart Glasses |
+| 10:41 | **ilostmyaccountz3alt**: Unicorn Horn | **noob1962963**: Ride-A-Pet Potion ×18 |
+| 10:41 | **YukiPlays_0**: Fly-A-Pet Potion | **33mac33**: Albatross, Chihuahua, Sabertooth, Ghost Dog, Musk Ox |
+| 10:41 | **luvyerh**: Skelicorn (N) ×2 | **cat_cute135**: Ride-A-Pet Potion |
+| 10:41 | **YukiPlays_0**: Ride-A-Pet Potion | **ItzAina_JPN**: Chihuahua ×3 |
+| 10:41 | **Kumikohy**: Hedgehog (FR), Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) | **Zydac1**: Frost Dragon (FR) |
+| 10:41 | **33mac33**: Alicorn, Ancient Dragon, Bubblegeist, Diamond Dragon ×3, Diamond Mahi Mahi ×2, Diamond Unicorn, Dragonfly, Dragon, Easter Bunny | **Max89422yr**: Fly-A-Pet Potion |
+| 10:41 | **starswirl_64**: Koi Carp ×4 | **skibidiswag85**: Ride-A-Pet Potion |
+| 10:41 | **Legion_Army15**: Eggnog Dog (M), Chihuahua | **abdoosaad**: Fly-A-Pet Potion ×4 |
+| 10:41 | **RobloxDevolober**: Crystal Egg ×15 | **REALjaylarp**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
