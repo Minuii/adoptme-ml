@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 17:25 UTC by the scrape workflow._
+_Updated 2026-11-27 17:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 17:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 39,817 | 2026-11-27T17:15 |
-| elve | 17 | 8,418 | 2026-11-27T17:15 |
+| amvgg | 17 | 40,077 | 2026-11-27T17:30 |
+| elve | 17 | 8,484 | 2026-11-27T17:31 |
 
-## AMVGG completed trades: 72,888 total
+## AMVGG completed trades: 72,940 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,928 |
+| 2026-11-27 | 2,980 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 17:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:25 | **fl1xs288**: Ride-A-Pet Potion ×2 | **anaataccia**: Pet Handler Pro Certificate |
-| 17:25 | **nikiph9w**: Kangaroo (FR), Golden Penguin (R) | **tazxkyts**: Unicorn Horn |
-| 17:25 | **akhayrzamanova**: Peppermint Penguin (FR) | **DewrattlSR**: Fly-A-Pet Potion ×17 |
-| 17:25 | **Tkoelzer10**: Floral Eggy | **adoptmetr4dechalleng**: Dotted Eggy |
-| 17:25 | **K1MM007**: English Sheepdog (MFR), Moonlight Moth (MFR), Fleur De Ice (MFR), Golden Tortoise Beetle (MFR) | **saturnestee**: Dango Penguins (MFR) |
-| 17:25 | **kikio123760**: Catte ×2 | **keti_tan**: Chocolate Dutch Guinea Pig |
-| 17:25 | **heart_xi1**: Crystal Egg ×9 | **blackcupkakeuwu**: Gemstone Egg |
-| 17:25 | **Mar56060**: Axolotl (MFR), Halloween White Ghost Dragon (N), Dango Penguins (NR), Kitty Bat (M), Unicorn (NFR), Winged Tiger (R) | **itz_ckaM1441**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:25 | **djjoha298**: Cryptid (R) | **XV7K3ZVX**: Cryptid |
-| 17:25 | **aff6ctionnn**: Chef Gorilla, Black Springer Spaniel | **lollipopleah7861**: Ride-A-Pet Potion ×2 |
-| 17:25 | **Violette_244**: Irish Water Spaniel (MFR), Shark Puppy (MFR) | **RobloxRules_890**: Candyfloss Chick (MFR) |
-| 17:25 | **Its_socrazy**: Cow (FR) ×3, Goose (R), Fly-A-Pet Potion | **Diego_2013ult**: African Wild Dog (FR) |
-| 17:25 | **Coconut_92j**: Border Collie (FR), Chocolate Chow-Chow (NR), Butter Knife | **sleewpydollettee**: Candyfloss Chick (R) |
-| 17:25 | **Luna_Bear2019**: Pancake Stack | **Bunniixkayy**: Toyshop House |
-| 17:25 | **valentinaajuwu**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **N0_ID3A5**: Gemstone Egg ×5 |
+| 17:30 | **Kvas_028473**: Fly-A-Pet Potion ×6, Spring Bunny Feet ×3, Ride-A-Pet Potion | **KiriK_87**: Kangaroo (R) |
+| 17:30 | **xxxAubreexxx123**: Dodo (MFR), Copycat (NFR), Elephant (FR), Albino Monkey (FR), Happy Duckling (MR), Frankenfeline (MFR), Purrowl (MFR), Angus Calf (MR) | **lol_whateverx67hsk81**: Dalmatian (FR) |
+| 17:30 | **Evachka_Soloveva**: Purrowl (N) ×2 | **Maddie2WinQuinn07**: Gingerbread Mansion |
+| 17:30 | **bcbrybry**: Ride-A-Pet Potion | **Nikitapetk**: Shark |
+| 17:30 | **Sweet_spr**: Ride-A-Pet Potion | **kingutgvvt777**: Ermine ×2 |
+| 17:30 | **LotusVanilla4**: Strawberry Shortcake Bat Dragon (NFR) | **cheekuisdabest**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 17:30 | **booseoks0on**: Lamb (MFR), Sushi Penguin | **yutoffee**: Chihuahua (MR), Candy Cane Snail (MFR), Ornate Horned Frog (MFR), Ice Cream Hermit Crab (N) |
+| 17:30 | **Yakkuji**: Harp Seal (NFR) | **emcupcake20**: Fallow Deer (FR), Ride-A-Pet Potion |
+| 17:30 | **Sharpie_pies**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **sarchive27**: Hedgehog (FR) |
+| 17:30 | **vacuta_milk65**: Cupid Dragon (NFR), Evil Chick (NFR) | **Fahjiko_543017**: Fairy Bat Dragon (FR) |
+| 17:30 | **melke_lem**: Turtle (NFR), Crocodile (FR), Frost Fury (FR) | **vampire2169**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:30 | **Officalyuichi**: Bee (MFR), Alicorn (MR) | **H08ni**: Fly-A-Pet Potion ×3 |
+| 17:30 | **m0chalka_1**: Cow (MFR), African Wild Dog (R), Evil Unicorn (FR), Dalmatian, Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR) ×3, Unicorn Horn, Fly-A-Pet Potion | **ljwempire777**: Giraffe (NFR) |
+| 17:30 | **purebelly**: Eggnog Dog, Gemstone Egg, Narwhal, Purrowl | **ilonka_128**: Ride-A-Pet Potion |
+| 17:30 | **ew_darsky**: Snowball Pug (M) | **flears_brai**: Fly-A-Pet Potion ×3 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
