@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 21:40 UTC by the scrape workflow._
+_Updated 2026-11-27 21:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 21:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 44,314 | 2026-11-27T21:30 |
-| elve | 17 | 9,526 | 2026-11-27T21:31 |
+| amvgg | 17 | 44,577 | 2026-11-27T21:45 |
+| elve | 17 | 9,577 | 2026-11-27T21:46 |
 
-## AMVGG completed trades: 74,126 total
+## AMVGG completed trades: 74,151 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,166 |
+| 2026-11-27 | 4,191 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 21:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:40 | **IzRaiaUwUZaia**: Amethyst Penguin | **reserbadong2**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Fly-A-Pet Potion |
-| 21:40 | **Vitek_228666**: Pig (FR) | **Chicken_Drumsticksss**: Ride-A-Pet Potion ×10 |
-| 21:40 | **Vitek_228666**: Caelum Cervi (R), Ride-A-Pet Potion | **grijfe8r**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 |
-| 21:40 | **Vitek_228666**: Cupid Dragon (FR) | **itemhouse1**: Ride-A-Pet Potion ×7 |
-| 21:40 | **Oneran0**: Hot Doggo (FR), Kangaroo (NFR), Fly-A-Pet Potion | **joakhidk129**: Arctic Reindeer (R) |
-| 21:40 | **xx_xxbummrr**: Unicorn Horn ×2 | **ImANiceDude_J**: Snow Monkey (MFR) |
-| 21:40 | **GrindAccount_N1**: Crow (MFR) | **Swarlivir_V2**: Cryptid (MFR), Parrot (FR) |
-| 21:40 | **ELOSOCURIOSO**: Hedgehog (R), Fly-A-Pet Potion | **17kDEAT_Q**: Mini Pig (FR), Turkey (NR), Papa Moose, Velocirooster, Pancake Stack, Fly-A-Pet Potion, Catte, Turtle (NFR) |
-| 21:40 | **Artem_21a2**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Mermicorn (FR), Kangaroo (NFR) | **joakhidk129**: Chocolate Chip Bat Dragon (FR) |
-| 21:40 | **jellyfish1248396**: Flamingo (FR), Kangaroo (FR), Munchkin Cat (FR) | **abdoosaad**: Turtle (NFR), Drake (R) |
-| 21:40 | **21canyoudosfm**: Siamese Cat (R), Dragonfruit Fox (MFR), Cow (R), Snowball Pet (MFR), Arctic Fox (FR), Arctic Fox (R), Snow Leopard (MFR), Spring Bunny Hood, 2022 Birthday Party Horn | **abdoosaad**: Crow (FR), Jeff's Nametag |
-| 21:40 | **indie_gxrll**: Ride-A-Pet Potion, Onza | **krxadm3**: Crystal Egg ×18 |
-| 21:40 | **SaRa654396**: Dalmatian (FR), Merhorse (MR) | **KittyFlower2211**: Cryptid (FR) |
-| 21:40 | **krxadm3**: Crystal Egg ×17 | **1uvvampp**: Ride-A-Pet Potion |
-| 21:40 | **qqxichan**: Cryptid (NFR) ×2 | **urstrulykaar1**: Balloon Unicorn (FR) ×2, African Wild Dog (FR) |
+| 21:45 | **rxy3e**: Strawberry Shortcake Bat Dragon (NFR) | **CrystalGem_999**: Peppermint Penguin (NFR), Fly-A-Pet Potion ×2, Silverback Gorilla (NFR) |
+| 21:45 | **aabeeyg**: Paint Sealer ×4, Thunderfisher | **DoRa675000**: Cherry Blossom Flower Sticker ×9 |
+| 21:45 | **lil_coocies**: Amami Rabbit (N), Mochi Meow (MR) | **Lilypupper42**: Red Fox (MFR) |
+| 21:45 | **frfact**: Halloween Golden Mummy Cat ×18 | **roman_cool586**: Ride-A-Pet Potion ×4, Taco |
+| 21:45 | **coffeelovrdiego**: Winged Tiger, Catte | **ST4R_LOVESS**: Dango Penguins (NFR) |
+| 21:45 | **ST4R_LOVESS**: Peppermint Penguin (FR), Peppermint Penguin (R) | **lelesayuru**: Angel Wings, 2022 Birthday Confetti Cannon, Tiny Wings, Zombie Wolf (N), Honey Badger (R) |
+| 21:45 | **batton0955**: Ride-A-Pet Potion | **Lilypupper42**: 2D Doggy |
+| 21:45 | **Zlota_Sofa**: Hooray | **DianaKoles5**: Ride-A-Pet Potion |
+| 21:45 | **Shynisocool**: Ride-A-Pet Potion | **krxadm3**: Crystal Egg ×18 |
+| 21:45 | **IconsChew**: Goose (FR) | **Nxdya_1439**: Jellyfish (NFR) |
+| 21:45 | **Sleepy_Sonya112**: Burger Bear (MR) | **tattletelI**: Leopard Cat (MFR), Jester Dragon |
+| 21:45 | **lunicorncookies**: Gemstone Egg ×4, Retired Egg ×8, Cracked Egg ×3 | **Polita721**: Ride-A-Pet Potion ×2 |
+| 21:45 | **1Biahsz_altx**: Pet Handler Pro Certificate | **Cybvrsz**: Stygian Owl (M) ×2 |
+| 21:45 | **Robloxian663027334**: Cherub Chipmunk ×4, Paint Sealer | **xikell**: Gingerbread Mansion |
+| 21:45 | **jalchipapa_4AkT**: 2022 Birthday Cake, Rain Cloud Hat, Unicorn Horn, Siamese Cat, 2022 Birthday Confetti Cannon | **HorsegirlEms12**: Cryptid (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
