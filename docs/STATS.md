@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 08:16 UTC by the scrape workflow._
+_Updated 2026-11-27 08:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 08:16 UTC by the scrape workflow._
 | amvgg | 17 | 30,979 | 2026-11-27T08:15 |
 | elve | 17 | 6,442 | 2026-11-27T08:15 |
 
-## AMVGG completed trades: 71,059 total
+## AMVGG completed trades: 71,080 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,099 |
+| 2026-11-27 | 1,120 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 08:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:11 | **baby_demonakakj**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Pain au Chat | **Babyofy5**: Flash Weasel |
-| 08:11 | **Babyofy5**: Cheetah, 2D Kitty, Snow Owl (NR) | **justinepaje123**: Flash Weasel |
-| 08:11 | **INeverrCap**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **Zirylsegovia**: Sheeeeep |
-| 08:11 | **roblox_user_8676283275**: Chocolate Chip Bat Dragon (FR) ×2, Lion Cub (R), Banana Hat | **forneonblazinglion**: Sugar Axolotl (MFR) |
-| 08:11 | **nika_lovee12**: Grim Dragon (R), Frost Unicorn (R), Red Dutch Guinea Pig, Flamingo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **Kotosonoha**: Strawberry Shortcake Bat Dragon (FR) |
-| 08:11 | **Panci_Terbang33**: Puffer Fish (N) | **iamnotafan12345**: Puffer Fish ×4, Paint Sealer ×3 |
-| 08:11 | **stezsm**: Latte Kitsune (MFR), S'mores Raccoon (M), Candicorn, Ranger Beaver (N) ×3 | **jagarelsa2007**: Nessie (MFR) |
-| 08:11 | **Pebble_llShelly**: Fairy Bat Dragon (FR) | **KING_TROLLYT0**: Cabbit (R) |
-| 08:11 | **iamnoonetobehere**: Mini Pig (R) | **MM2TRADE224119**: Fly-A-Pet Potion ×2, Goose (FR) |
-| 08:11 | **themudwizard**: Crystal Egg ×2 | **Cheoeden**: Mochi Meow |
-| 08:11 | **Mary_202401**: Ice Moth Dragon (FR) | **Robloxiank4y5s6t0g**: Unicorn (R) |
-| 08:11 | **LAWENX09**: Butter Knife, Sweetheart Rat | **gSeoul**: Ride-A-Pet Potion |
-| 08:11 | **pawhness**: Dragon (F), Vanilla Penguin, Water Opossum (N), Black Tiger (N), Rubber Ducky (N), Tegu (N), Mochi Meow, Banana Hat | **Bajjajajajkdks**: Fly-A-Pet Potion |
-| 08:11 | **Strawberry_vanillay**: Harp Seal (MFR), Ride-A-Pet Potion ×4 | **kotenokoops**: Christmas Pudding Pup (NR) |
-| 08:11 | **camiilita_7w7**: Ride-A-Pet Potion ×6, Yeti, Irish Elk, Ermine | **Zuminkikiki**: Matcha Cat |
+| 08:25 | **Cherryblossom_01580**: Strawberry Shortcake Bat Dragon (R) ×2, Strawberry Shortcake Bat Dragon, Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Dalmatian (R), Fairy Bat Dragon (FR) ×2, Turtle | **powerlee01**: Owl (NFR) |
+| 08:25 | **USER261022**: Cow (FR), Goose (R), Chocolate Dutch Guinea Pig | **Penny_isa2**: Strawberry Shortcake Bat Dragon (FR) |
+| 08:25 | **Zuminkikiki**: Ride-A-Pet Potion | **123luna958**: Snow Owl (R) |
+| 08:25 | **Akeem8903133333**: Grim Dragon (FR) | **Tana_rbx1234**: Arctic Dusk Dragon (NFR) |
+| 08:25 | **daydreamzgirl**: Sakura Spirit (FR) ×2 | **JuniorGok**: Caterpillar |
+| 08:25 | **Sealeoxs**: Giraffe Hat, Ice Cream Cone Hat, Cozy Mistletroll (M) | **angel6_625**: Zombie Wolf (M), Cherry-On-Top |
+| 08:25 | **jandabi2006**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **INZD7**: Fallow Deer (FR) |
+| 08:25 | **preppygurl_787**: Albino Monkey (R), Winged Tiger (FR), Fly-A-Pet Potion | **KING_TROLLYT0**: Fairy Bat Dragon (FR) |
+| 08:25 | **purebelly**: Mrs. Whiskerpips (NR), Soulfire Animated Sticker ×2 | **ilonka_128**: Ride-A-Pet Potion |
+| 08:25 | **killerman_xd1**: Dragonfly ×12 | **sursyrzytxurzutzutz**: Ride-A-Pet Potion |
+| 08:25 | **1rvinn_x4xa**: Golden Rat (R), Gargoyle (R) | **ameyyass**: Ride-A-Pet Potion ×2 |
+| 08:25 | **ameyyass**: Ride-A-Pet Potion ×2 | **Star_accdeleted3**: Cerberus, Kitsune (R) |
+| 08:25 | **gillyunicorngile**: Cuddly Candle (FR) | **ameyyass**: Ride-A-Pet Potion |
+| 08:20 | **SophiaStormy136**: Crystal Egg ×18 | **yabadabadooisthatrue**: Ride-A-Pet Potion |
+| 08:20 | **zpdanila2**: Diamond Hummingbird (MFR), Matcha Cat, Jester Dragon, Pain au Chat (M), Fly-A-Pet Potion ×2 | **hanb3ki**: Hedgehog (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
