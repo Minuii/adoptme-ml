@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 00:25 UTC by the scrape workflow._
+_Updated 2026-11-27 00:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 00:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 23,323 | 2026-11-27T00:15 |
-| elve | 17 | 4,901 | 2026-11-27T00:15 |
+| amvgg | 17 | 23,547 | 2026-11-27T00:30 |
+| elve | 17 | 4,967 | 2026-11-27T00:31 |
 
-## AMVGG completed trades: 70,051 total
+## AMVGG completed trades: 70,069 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 91 |
+| 2026-11-27 | 109 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 00:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:25 | **fyffddt5**: Purrowl (N), Pupcicle | **4eskz**: Ride-A-Pet Potion |
-| 00:25 | **aydachan200311**: Dalmatian (R), Arctic Reindeer (FR), Cow (FR), Strawberry Shortcake Bat Dragon (FR) | **cutieice336**: Frost Dragon (FR) |
-| 00:25 | **Marilynbrandt662**: Owl (MFR), Mermicorn (MFR), Monkey King (NFR) | **Shadx_1553**: Bat Dragon (NFR) |
-| 00:25 | **GAEL_RLXJ**: Frostbite Bear (MFR), Burning Bunny (M) | **LEODAGOATT710**: Nessie (MFR), Groundhog (MFR), Aurora Fox (NFR), Mini Pig (FR) |
-| 00:25 | **Marilynbrandt662**: Owl (MFR) | **lookmyprofile61**: Chocolate Chip Bat Dragon (MFR), Chocolate Chip Bat Dragon (FR) ×4, Strawberry Shortcake Bat Dragon (FR) ×7, Strawberry Shortcake Bat Dragon (R), Arctic Reindeer (FR) ×3 |
-| 00:25 | **C0xrbin**: Fairy Bat Dragon (FR), Kangaroo (FR) | **Boypizza132**: Unicorn (NFR), Alley Cat (NFR), Sheeeeep, Ice Cream Hermit Crab ×4, Snowball Pet (R), Mr. Whiskerpips (N), Goldhorn, Cotton Candy Hat, Queen Bee (R), Shiver Wolf ×3, Mr. Whiskerpips (MR) |
-| 00:20 | **LovelyAkanexdUwU**: Brown Bear (R), Polar Bear (R) | **Chiyothebestrust**: Matcha Cat |
-| 00:20 | **Shynisocool**: Choco Penguin (M) | **Biabr105**: Rain Hat, Strawberry Clip ×2, Strawberry Shortcake Bow, White Chef Hat, Burger Bun Hat, Chick Hat |
-| 00:20 | **Pixiedied**: Arctic Fox (NFR) | **elys_qn**: Puffer Fish (MFR) |
-| 00:20 | **meowcat5667**: Haetae (FR), Cow (FR), Fly-A-Pet Potion | **aylacool45**: Chocolate Chip Bat Dragon (NFR) |
-| 00:20 | **KazzuhaaAzz**: Tortuga de la Isla (MFR) | **Lapiseroch2**: Honey Badger (MFR) |
-| 00:20 | **cocob4by**: Hedgehog, Dalmatian (FR), Cow (NFR), Turtle (R), Siamese Cat (R) | **kaylamicmi**: Cabbit (MFR) |
-| 00:20 | **CandyIsCooIer**: Candicorn (NFR) ×3, Lion Cub | **gag_gaag**: Candicorn (MFR) |
-| 00:20 | **Cinzsins**: Mechapup (MFR) | **unicornio1205i**: Arctic Reindeer (FR), Fairy Bat Dragon (FR), Rose Dragon (NFR), Goat (R), Border Collie (R), Happy Duckling (MFR), Candy Hare (NR), Great Pyrenees (N), Ballet Swan (R) |
-| 00:20 | **0nlqm3**: Kangaroo (FR) | **Aslie_17**: Panda (MFR) |
+| 00:30 | **Omar2002548**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 00:30 | **Cutecupshakes**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 00:30 | **ipodlace**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 00:30 | **shiromeowi**: Moose Calf (NR), Pet Handler Pro Certificate | **Dinkarrt**: Dango Penguins (NFR) |
+| 00:30 | **Annegbe**: Turtle (NFR), Kangaroo (FR) | **Zroxxxxx**: Chocolate Chip Bat Dragon (FR) |
+| 00:30 | **Kayorilate**: Turtle (FR), Christmas Egg, Frost Unicorn (R) | **rastafarismo10**: Chocolate Chip Bat Dragon (FR) |
+| 00:30 | **GABYPLAZES**: Strawberry Shortcake Bat Dragon (FR) ×2 | **lba_fofe**: Candicorn (MFR) |
+| 00:30 | **nucIearseasonss**: Ride-A-Pet Potion, Rose Quartz Glow Mega Neon Paint, Unicorn | **mightberachele**: Fly-A-Pet Potion, Snowball Pet |
+| 00:30 | **uh_dulciee**: Kitty Biscuit | **valentinaajuwu**: Chihuahua ×2 |
+| 00:30 | **pavonaco**: Hedgehog (MFR), Dalmatian (MFR), Shrew (MFR), Zombie Buffalo (MFR), Brown Bear (MFR), Pig (MFR), Santa Hat | **Marilynbrandt662**: Bat Dragon (NFR) |
+| 00:30 | **hrtlovr**: Cabbit (FR), Brown Bear, Leopard Cat, Cotton Candy Hat | **Okami_cross**: Peppermint Penguin (FR) |
+| 00:30 | **zephyrgoatt**: Copter Hat, Duck Floatie | **LostKeksik**: Ride-A-Pet Potion ×2 |
+| 00:30 | **puuuurrrraaawww**: Ride-A-Pet Potion, Pet Handler Pro Certificate | **Styliferouss**: Biodome Home |
+| 00:30 | **GABYPLAZES**: Chocolate Chip Bat Dragon (FR) ×4, Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR) | **LucaG9999**: Bush Elephant (MFR), Goat (MFR), Candyfloss Chick (FR) |
+| 00:30 | **zwombiixz**: S'mores Raccoon (N), Burger Bear (N), Chick (N) | **HamFam1090**: Matcha Cat |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
