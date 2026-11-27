@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 11:31 UTC by the scrape workflow._
+_Updated 2026-11-27 11:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 11:31 UTC by the scrape workflow._
 | amvgg | 17 | 34,056 | 2026-11-27T11:30 |
 | elve | 17 | 7,137 | 2026-11-27T11:31 |
 
-## AMVGG completed trades: 71,556 total
+## AMVGG completed trades: 71,573 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,596 |
+| 2026-11-27 | 1,613 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 11:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:30 | **dnei30fast**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **sspookygurl**: Brown Bear (FR) |
-| 11:30 | **epicpulsechaos2024**: Ancient Dragon ×10 | **Yourlocalbreadshore**: Ride-A-Pet Potion |
-| 11:30 | **Calughm**: Candicorn (R) | **cupcakechaeryeong**: Kangaroo |
-| 11:30 | **naturespiano**: Ride-A-Pet Potion | **austin_1230003**: Crystal Egg ×17 |
-| 11:30 | **naturespiano**: Ride-A-Pet Potion, Red Panda | **syedkabir**: Crystal Egg ×18 |
-| 11:30 | **FrostPixel5930**: Crystal Egg ×18 | **LuckyRiderofSpirit**: Ride-A-Pet Potion |
-| 11:30 | **Itz_CoffeeMochi**: Phoenix (MFR), Albino Bat (MFR), Lammergeier (M) | **Pinkebunbuns**: Husky (MFR) |
-| 11:30 | **50yvl**: Chocolate Chip Bat Dragon (NFR), Strawberry Shortcake Bat Dragon (NFR), Dalmatian, Ride-A-Pet Potion | **AquatanaOf_Amyr**: Alpaca (MFR) |
-| 11:30 | **Sytinely**: Fly-A-Pet Potion ×6 | **Evelyy_na**: Crocodile (FR) |
-| 11:25 | **meowwweweww**: Strawberry Shortcake Bat Dragon (FR) | **sona6839**: Hot Doggo (FR), Goose (R) |
-| 11:25 | **r1nvafi**: Dalmatian (FR), Arctic Reindeer (FR) | **agyhxttrxp3**: Parrot (FR) |
-| 11:25 | **Ameera_109**: Cabbit (FR), Cow (FR), Ride-A-Pet Potion ×3 | **Sharpie_pies**: Strawberry Shortcake Bat Dragon (FR) |
-| 11:25 | **gabolskie**: Owl (FR) | **clawpandaflame93**: Strawberry Shortcake Bat Dragon (FR) ×3 |
-| 11:25 | **Fracti0us**: Toy Monkey (MFR) | **MOMMY_LI4**: Siamese Cat (FR) |
-| 11:25 | **C0xrbin**: Pig (R) | **UnBotheredQueenAnna**: Shark (NFR), Cake Friend (N) |
+| 11:40 | **dorthew**: Christmas Pudding House | **Kir4kaa**: Crystal Egg ×2 |
+| 11:40 | **pipuka201023**: Lion (FR), Ride-A-Pet Potion ×6, Fly-A-Pet Potion ×5 | **fishymiss_y**: Fairy Bat Dragon (FR) |
+| 11:40 | **sleepy_s0ren**: Arctic Reindeer (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Tatka123nej**: Crow (FR) |
+| 11:40 | **sleepy_s0ren**: Arctic Reindeer (NFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Tatka123nej**: Crow (FR) |
+| 11:40 | **nnseoi**: Spring Bunny Hood, Ride-A-Pet Potion | **OBVM1LLS_X0**: Toy Poodle (MR) |
+| 11:40 | **Lira_GoshUwU**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Turtle (FR), Munchkin Cat (R) | **Jiren132451**: Parrot (FR) |
+| 11:40 | **botoxedbody**: Unicorn Horn ×2, Rain Cloud Hat, Tiny Wings, 2022 Birthday Party Hat, Ice Cream Cone Hat, Mini Pig (R), Cow, Cow (FR), Cabbit (R) | **GDamazing10**: Cryptid (NFR) |
+| 11:40 | **vgssXoxo3**: Unicorn Horn, Strawberry Shortcake Bat Dragon (FR), Candicorn (R) | **ItzLuxic**: Dango Penguins (MFR), Alley Cat (MR), Fly-A-Pet Potion |
+| 11:40 | **meow_25958**: Chocolate Chip Bat Dragon (FR), Hot Doggo (FR), Fly-A-Pet Potion ×3, Pet Handler Pro Certificate, Ride-A-Pet Potion, Spring Bunny Feet, Sunrise Hang Glider | **maxwertaq**: Hedgehog (FR) |
+| 11:40 | **ARKIN_gamingChannel1**: Kangaroo (FR), Arctic Fox (R), Fly-A-Pet Potion | **mlrxhy**: Fairy Bat Dragon (FR) |
+| 11:40 | **Akyma_zxcyrsed**: Pinkypillar (N), Ms. Muffet (N), Fire Foal (N), Caramelgeist (N), Little Lamb (N), Crimson Cape (N), Corgi (N), Badger (N), Thunderfisher, Toucan, Magma Moose, Skelicorn, Black Moon Bear, Nutcracker Squirrel, Subzero Scorpion, Sabertooth, Quokka | **Berrysalad01**: Ride-A-Pet Potion ×2 |
+| 11:36 | **Angi_2oo7**: Strawberry Shortcake Bat Dragon (NFR), Munchkin Cat (MFR) | **sleepy_s0ren**: Owl (FR) |
+| 11:36 | **fasfa0**: Crocodile (NFR) | **laila53749**: Mini Pig (FR) |
+| 11:36 | **D0LLSPACE**: S'mores Raccoon (MFR), Pupcake (MFR) | **abdoosaad**: Cabbit (FR) |
+| 11:36 | **Pewciall**: Easter Bunny (M) | **abdoosaad**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
