@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 11:55 UTC by the scrape workflow._
+_Updated 2026-11-27 12:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 11:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 34,304 | 2026-11-27T11:45 |
-| elve | 17 | 7,192 | 2026-11-27T11:46 |
+| amvgg | 17 | 34,535 | 2026-11-27T12:00 |
+| elve | 17 | 7,248 | 2026-11-27T12:01 |
 
-## AMVGG completed trades: 71,644 total
+## AMVGG completed trades: 71,649 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,684 |
+| 2026-11-27 | 1,689 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,11 @@ _Updated 2026-11-27 11:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:00 | **ptlxvez**: Giant Panda (FR), Rain Cloud Hat, Caterpillar (R) | **RistovN**: Border Collie (MFR) |
+| 12:00 | **Avocadk12309**: Thunderfisher (N), Stygian Owl (N), Muskrat (N), Mummy Spider (N), Flying Fairy, Paint Sealer ×4 | **kh6rin**: Ride-A-Pet Potion |
+| 12:00 | **infrxmniiq**: Shark Puppy (MFR), Moose Calf (MFR), Rain Cloud Hat, 2022 Birthday Cupcake Shoes | **KiaXias**: Peppermint Penguin (R), Alpaca (R), Sugar Glider (FR), Tortoiseshell Guinea Pig (R), Shark Puppy (R), Goose (R), Hot Doggo (FR), Kangaroo (R) |
+| 12:00 | **BAJl03**: Strawberry Shortcake Bat Dragon (NFR), Dalmatian (FR), Frost Phoenix (NF), Dragonfruit Fox (N), Tortuga de la Isla (R), Coconut Friend (NR), Alley Cat, Stray Cat Dragon (M), Copycat | **leruval**: Frost Dragon (FR) |
+| 12:00 | **TulipPetal_1**: Chocolate Dutch Guinea Pig, Ruddy Duck (M), Crimson Cape (N), Shih Tzu (N), Amber Butterfly | **dnei30fast**: Fly-A-Pet Potion |
 | 11:55 | **isjdiburmalda**: Dalmatian (FR), Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2 | **CHOZABRETOOOOOO**: Haetae (FR) |
 | 11:55 | **AngelKattyOwO**: Sugar Glider (FR) | **zee55510**: Mermicorn (FR), Ride-A-Pet Potion ×2 |
 | 11:55 | **omlisage_amvgg**: Pink Cat (NFR) | **cocse00**: Elephant (FR), Pink Cat (FR), Ride-A-Pet Potion |
@@ -49,11 +54,6 @@ _Updated 2026-11-27 11:55 UTC by the scrape workflow._
 | 11:55 | **Inganta07**: Fly-A-Pet Potion | **berry_karie**: Turkey |
 | 11:55 | **vgssXoxo3**: Alicorn ×2 | **Crystal_andLisa**: Bullfrog (N) |
 | 11:55 | **rinzwql**: Mirai Moth (M) | **6vynix**: Sushi Penguin (N), Sushi Penguin |
-| 11:55 | **Aubrey_Prism851**: Kangaroo (NR), Werewolf (FR), Border Collie, Rain Cloud Hat, Cake Friend (MR), Arctic Fox (R), Rose Dragon (FR), Fly-A-Pet Potion ×2, Adopt Me Girl Scooter, Ride-A-Pet Potion | **Laktozik1**: Hedgehog (FR) |
-| 11:55 | **bermido80**: Ride-A-Pet Potion ×4, Cracked Egg | **lemon82974**: Copycat |
-| 11:55 | **paldoalways34**: Crystal Egg ×18 | **JeongwooOnlyMine**: Ride-A-Pet Potion |
-| 11:55 | **33mac33**: Bee Shuttle, Black Cab, Dino Truck, Festive Deliveries Sleigh, Hoverboard ×2, Hovertible, Hovercar, Imagination Box, Postie Van, Yellow Taxi Cab | **dnei30fast**: Fly-A-Pet Potion |
-| 11:55 | **Yshsjaksnbean**: Dango Penguins (MR), Dragonfruit Fox (NFR), Ride-A-Pet Potion ×2 | **Robloxian19039878**: Rainbow Maker |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
