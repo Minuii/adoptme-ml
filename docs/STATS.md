@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 23:01 UTC by the scrape workflow._
+_Updated 2026-11-27 23:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 23:01 UTC by the scrape workflow._
 | amvgg | 17 | 45,848 | 2026-11-27T23:00 |
 | elve | 17 | 9,881 | 2026-11-27T23:01 |
 
-## AMVGG completed trades: 74,473 total
+## AMVGG completed trades: 74,505 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,513 |
+| 2026-11-27 | 4,545 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 23:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 23:00 | **animegirlfan121**: Unicorn (R) | **roxipalo123128**: Ride-A-Pet Potion ×2 |
-| 23:00 | **Liliamedjek789**: Giraffe (FR) | **Mitsuri_Chan0w**: Alpaca (MFR) |
-| 23:00 | **JoymiX_120**: Gemstone Egg ×2 | **YeleTale**: Ride-A-Pet Potion |
-| 23:00 | **Freep2603**: Christmas Pudding Pup (MFR), Sea Angel (M) | **L0VEKARS0N**: Haetyphoon (MFR) |
-| 23:00 | **ixwzs1**: Happy Clam, Stray Cat Dragon ×2 | **rodwavethegoated**: Stray Cat Dragon (M) |
-| 23:00 | **roblox_user_2641599159**: Stray Cat Dragon (M) | **Navilolp**: Ride-A-Pet Potion ×2 |
-| 23:00 | **SoloGhost442149**: Turtle (FR) | **Annie_isgiving**: Tilcayo (FR) |
-| 23:00 | **Elwanizk**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 23:00 | **nfrhectirchis**: Candyfloss Chick (FR), Papa Moose, Fly-A-Pet Potion, Chocolate Chip Bat Dragon Backpack | **benju_16**: Cabbit (FR) |
-| 23:00 | **2Freya222**: Rainbow Maker, Cow, Harp Seal (MFR), Unicorn Horn, Rain Cloud Hat, Spring Bunny Hood | **Slimeswaztaken44**: Balloon Unicorn (FR) |
-| 23:00 | **sorrowpage**: Balloon Unicorn (FR), Unicorn Horn, Spring Bunny Hood, Dragonfruit Fox (M), Chihuahua (M), Dire Wolf (MFR), Shiver Wolf (M), Unicorn (N), Pet Handler Pro Certificate ×7, Amber Butterfly (M), Stray Cat Dragon (M), Stray Cat Dragon (N) | **Slimeswaztaken44**: Frost Dragon (FR) |
-| 23:00 | **sofito4ka007_a**: Angus Bull, Chameleon, Dimension Drifter, Black Chow-Chow, Temple Friend | **0002callum**: Brown Springer Spaniel |
-| 23:00 | **m4ritx7**: Tri-horned Treehopper (MFR), Fairy Bat Dragon (FR), Christmas Pudding Pup | **cutesyghali**: Matcha Cat (MFR) |
-| 23:00 | **Delightefull**: Crocodile (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **v6mpireeee**: Kangaroo (R) |
-| 23:00 | **K0qwry**: Harp Seal (MFR), Peppermint Penguin Sticker, Sledding Penguin Sticker, Volcanic Rhino Sticker, Cherry Blossom Flower Sticker ×2, Cherry Blossom Tree Sticker ×2 | **Emma2009974**: Ram (MFR) |
+| 23:11 | **escupirv**: Hot Doggo (R), Green-Chested Pheasant (MFR) ×2 | **themastergabo**: Turtle (NFR) |
+| 23:11 | **Halaaa7397**: Hooray Pink Mega Neon Paint | **Aslie_17**: Ride-A-Pet Potion |
+| 23:11 | **onllylena**: Hooray | **Aslie_17**: Ride-A-Pet Potion |
+| 23:11 | **Beluga_cat184**: Bolt (M) | **urfavilaxx**: Shiver Wolf, Koi Carp |
+| 23:11 | **Gamerqueen1255**: Gemstone Egg | **Hellobyeheyhihello**: Retired Egg ×18 |
+| 23:11 | **Krismasterdang**: Turtle (NFR), Albino Monkey (NFR), Cow (FR), Flamingo (FR), Goose, Turtle (FR), Fairy Bat Dragon, Mini Pig (FR) | **kittycutecat11130**: Frost Dragon (FR) |
+| 23:11 | **ameyyass**: Ride-A-Pet Potion | **oxeriaxx**: Rhino (R) |
+| 23:11 | **ameyyass**: Fly-A-Pet Potion | **MaYsIe_GiRl13**: Samoyed (M), Cocoadile (M) |
+| 23:11 | **matimigirl555e**: Boohoo (N) ×3, Boohoo ×2, Rubber Ducky (M) | **batton0955**: Ride-A-Pet Potion |
+| 23:11 | **snkkis**: Hot Doggo (R) | **Ush_8044**: Goose (FR) |
+| 23:11 | **mango4505**: Pet Handler Pro Certificate, Fly-A-Pet Potion ×2, Three Blind Mice, Irish Setter (M) | **PECESITASIRENITA**: Christmas Pudding Pup (R) |
+| 23:11 | **Antonipes**: Paint Sealer ×5 | **kelsey_1815**: 2x Bucks Potion |
+| 23:11 | **kelsey_1815**: Ride-A-Pet Potion | **sandouda222**: Undead Elk (N), Burger Bun Hat |
+| 23:11 | **iconic_eb**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 23:06 | **skyeszhi**: Ring-Tailed Lemur (MFR), Alley Cat (MFR), African Wild Dog (NR), Alpaca (NR), Cryptid (FR) | **clihello**: Bat Dragon (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
