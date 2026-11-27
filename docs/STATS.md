@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 11:46 UTC by the scrape workflow._
+_Updated 2026-11-27 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 11:46 UTC by the scrape workflow._
 | amvgg | 17 | 34,304 | 2026-11-27T11:45 |
 | elve | 17 | 7,192 | 2026-11-27T11:46 |
 
-## AMVGG completed trades: 71,603 total
+## AMVGG completed trades: 71,644 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,643 |
+| 2026-11-27 | 1,684 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 11:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:45 | **prettymochiix**: Balloon Unicorn (NFR), Rainbow Maker, Water Rabbit (MFR) | **Ghostkittyin**: Giant Panda (NFR) |
-| 11:45 | **Dragonlegend2130**: Owl (FR), Chanekeh (M) | **Ilovefortnighttehe**: Hedgehog, Cryptid (FR) |
-| 11:45 | **wragom_fikk**: Skelicorn (FR) | **6evesvokhaha**: Ride-A-Pet Potion |
-| 11:45 | **Thomatheus12**: Solar Burst Mega Neon Paint | **Mnenormalno_0**: Ride-A-Pet Potion |
-| 11:45 | **C0xrbin**: Dalmatian (FR) | **mikepower240508**: Peach Owl (M), Fallow Deer (NR), Glormy Leo (NR), Cow (FR), Cake Friend (N), Mochi Meow (MR), Chocolate Dutch Guinea Pig, Black Panther, Woodland Egg |
-| 11:45 | **Horse_LoveKsk**: Pink Cat (FR) | **yyour_beauty**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion |
-| 11:45 | **gikuffryfrtfryttg**: Ride-A-Pet Potion, Santa's Bow | **haileyrxo**: Fly-A-Pet Potion |
-| 11:45 | **C0xrbin**: Alpaca | **you_no099**: Ice Cream Hermit Crab (N), Santa Hat, Fallow Deer (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 11:45 | **vh4unted**: Frost Dragon (NFR), Chocolate Chip Bat Dragon (FR), Copycat (R), Grim Dragon (R), Latte Kitsune | **riley_gamer12389**: Shadow Dragon (FR) |
-| 11:45 | **Blak_popa**: Horse (FR) | **Bembi_Flowers**: Ride-A-Pet Potion |
-| 11:45 | **xJI_CHx**: Tiny Wings, 2022 Birthday Confetti Cannon | **OMGluvz**: Christmas Egg |
-| 11:45 | **iqtxlia**: Groundhog (MFR), Lamb (MFR), Panda (MFR) | **Swan_Couture**: Candicorn (MFR) |
-| 11:45 | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion ×2 | **nic0l3xxe**: Pumpkin Friend (N) |
-| 11:45 | **nic0l3xxe**: Hedgehog (FR) ×2 | **pesnyaups9**: Mini Pig (FR), Goose (R), Jellyfish (NR), Sugar Glider (FR), Hot Doggo ×2, Turtle (FR) |
-| 11:45 | **r1nvafi**: Monkey King (FR), Kangaroo (R) ×3, Werewolf (R), Pet Handler Pro Certificate | **sleepy_s0ren**: Cryptid (FR) |
+| 11:55 | **isjdiburmalda**: Dalmatian (FR), Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2 | **CHOZABRETOOOOOO**: Haetae (FR) |
+| 11:55 | **AngelKattyOwO**: Sugar Glider (FR) | **zee55510**: Mermicorn (FR), Ride-A-Pet Potion ×2 |
+| 11:55 | **omlisage_amvgg**: Pink Cat (NFR) | **cocse00**: Elephant (FR), Pink Cat (FR), Ride-A-Pet Potion |
+| 11:55 | **33mac33**: Frozen Penguin, Gemstone Egg, Royal Fairytale Egg, Squid, Bee, Black Kite, Deathstalker Scorpion, Ginger Cat (F), Onza ×4 | **Lekssa**: Fly-A-Pet Potion |
+| 11:55 | **daxalikee2001**: Brown Bear, Paint Sealer | **ccdbgt1**: Fly-A-Pet Potion ×2 |
+| 11:55 | **nellik_karomelik**: Retired Egg ×18 | **hiledina1**: Gemstone Egg |
+| 11:55 | **keiiwwq**: Christmas Pudding Pup (NR) | **jefx045**: Frost Unicorn (FR), Ride-A-Pet Potion ×2 |
+| 11:55 | **Inganta07**: Fly-A-Pet Potion | **berry_karie**: Turkey |
+| 11:55 | **vgssXoxo3**: Alicorn ×2 | **Crystal_andLisa**: Bullfrog (N) |
+| 11:55 | **rinzwql**: Mirai Moth (M) | **6vynix**: Sushi Penguin (N), Sushi Penguin |
+| 11:55 | **Aubrey_Prism851**: Kangaroo (NR), Werewolf (FR), Border Collie, Rain Cloud Hat, Cake Friend (MR), Arctic Fox (R), Rose Dragon (FR), Fly-A-Pet Potion ×2, Adopt Me Girl Scooter, Ride-A-Pet Potion | **Laktozik1**: Hedgehog (FR) |
+| 11:55 | **bermido80**: Ride-A-Pet Potion ×4, Cracked Egg | **lemon82974**: Copycat |
+| 11:55 | **paldoalways34**: Crystal Egg ×18 | **JeongwooOnlyMine**: Ride-A-Pet Potion |
+| 11:55 | **33mac33**: Bee Shuttle, Black Cab, Dino Truck, Festive Deliveries Sleigh, Hoverboard ×2, Hovertible, Hovercar, Imagination Box, Postie Van, Yellow Taxi Cab | **dnei30fast**: Fly-A-Pet Potion |
+| 11:55 | **Yshsjaksnbean**: Dango Penguins (MR), Dragonfruit Fox (NFR), Ride-A-Pet Potion ×2 | **Robloxian19039878**: Rainbow Maker |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
