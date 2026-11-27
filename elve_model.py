@@ -13,6 +13,8 @@ using only Elvebredd's own change log (no AMVGG, no trades yet).
                                     # (features/amvgg_features.py), plus the "AMVGG moved first" rule as a baseline -> results/amvgg_model.md
     python elve_model.py size [N]   # how much, not just which way: expected % change + 10-90% range (offers + news),
                                     # tested walk-forward -> results/size_model.md, plus results/forecast.csv for today
+    python elve_model.py tiers [N]  # the site's model (offers + news), scored inside value tiers (<= 1, 1-10, 10-60, 60-100,
+                                    # > 100) against repeat-last-change -> results/tiers_model.md
     python elve_model.py forecast   # no test: train the offers + news classifier on every row with a known outcome and call
                                     # the newest day up / flat / down -> results/direction_<H>d.csv (the site shows it;
                                     # the daily forecast workflow runs H=30), and keeps a copy in results/forecast_log/<H>d/<day>.csv.gz
@@ -488,6 +490,103 @@ def size_main(df, feats, V, lab, last):
     print(bsum.round(3).to_string())
 
 
+# value tiers (Elvebredd units, value on the forecast day): a 5% move means something different at 0.5 than at 500
+TIERS = [(0, 1, "<= 1"), (1, 10, "1-10"), (10, 60, "10-60"), (60, 100, "60-100"), (100, np.inf, "> 100")]
+TIER_K = 5  # picks per day inside one tier (the 60-100 tier has only ~50 variants, so 20 would be most of it)
+
+
+def tier_of(log_value):
+    v = np.exp(log_value)
+    return pd.Series(np.select([(v > lo) & (v <= hi) for lo, hi, _ in TIERS], [n for *_, n in TIERS], "?"), index=log_value.index)
+
+
+def tiers_main(df, feats, V, last):
+    """The site's model (gradient boosting + offers + events), walk-forward as in both mode, scored inside each value
+    tier, next to repeat-last-change. Precision etc. are pooled over all test rows (small tiers make monthly numbers noisy);
+    picks are per month, with the month-resampled range."""
+    from sklearn.metrics import average_precision_score
+    data = df[df.y >= 0]
+    months = sorted(data.day.dt.to_period("M").unique())
+    test_months = [m for m in months if m.start_time - pd.Timedelta(days=H) - data.day.min() >= pd.Timedelta(days=50)]
+    parts = []
+    for mo in test_months[-last:] if last else test_months:
+        test = data[data.day.dt.to_period("M") == mo]
+        train = data[data.day < test.day.min() - pd.Timedelta(days=H)]
+        f = varying(train, feats)
+        P = _classifier().fit(train[f].values, train.y.values).predict_proba(test[f].values)
+        rep = baselines(test)["repeat last change (30d)"]
+        parts.append(test[["day", "name", "label", "kind", "log_value", "target", "y"]].assign(
+            month=str(mo), p_down=P[:, 0], p_up=P[:, 2], r_down=rep[:, 0], r_up=rep[:, 2]))
+        print(f"{mo}: train {len(train):,} rows, test {len(test):,}", flush=True)
+    t = pd.concat(parts)
+    t["tier"] = tier_of(t.log_value)
+    t["chg"] = np.expm1(t.target)
+    tier_names = [n for *_, n in TIERS]
+    groups = {n: t[t.tier == n] for n in tier_names} | {"<= 10 (all)": t[np.exp(t.log_value) <= 10], "all pets": t}
+
+    def prec(call, hit):
+        return (call & hit).sum() / max(call.sum(), 1)
+
+    rows = []
+    for g, d in groups.items():
+        pu, pd_ = d.p_up.values, d.p_down.values
+        cu, cd = (pu > np.maximum(pd_, 1 - pu - pd_)), (pd_ > np.maximum(pu, 1 - pu - pd_))  # likeliest class
+        up, dn = (d.y == 2).values, (d.y == 0).values
+        movers = d.chg[d.y != 1].abs()
+        rows.append({"tier": g, "pet variants (newest day)": (d.day == d.day.max()).sum(), "test rows": len(d),
+                     "share up": up.mean(), "share down": dn.mean(), "median size of a move": movers.median(),
+                     "up calls": cu.sum(), "up precision": prec(cu, up), "up recall": prec(up, cu),
+                     "down precision": prec(cd, dn), "down recall": prec(dn, cd),
+                     "up avg precision": average_precision_score(up, pu) if 0 < up.sum() < len(up) else np.nan,
+                     "repeat-last: up precision": prec(d.r_up.values > 0, up),
+                     "repeat-last: down precision": prec(d.r_down.values > 0, dn)})
+    pooled = pd.DataFrame(rows).set_index("tier")
+
+    def picks(d, score, k, every=False):  # mean H-day change of the top k per day (score > 0), per month
+        d = d.assign(s=score)[score > 0]
+        if every:
+            d = d[(d.day - d.groupby("month").day.transform("min")).dt.days % H == 0]
+        return d.sort_values("s", ascending=False).groupby("day").head(k).groupby("month").chg.mean()
+
+    prow, boot_in = [], []
+    for g, d in groups.items():
+        k = TOP_K if g in ("all pets", "<= 10 (all)") else TIER_K
+        s_m, s_r = (d.p_up - d.p_down).values, (d.r_up - d.r_down).values
+        mon = {f"model top-{k}": picks(d, s_m, k), f"model top-{k}, new picks every {H}d": picks(d, s_m, k, True),
+               f"repeat-last top-{k}": picks(d, s_r + 1e-6 * np.random.default_rng(0).random(len(d)), k),
+               "tier mean": d.groupby("month").chg.mean()}
+        prow.append({"tier": g, **{c.replace(f"-{k}", "-k"): v.mean() for c, v in mon.items()}})
+        for c, v in mon.items():
+            if c.startswith("model"):
+                boot_in.append(pd.DataFrame({"model": g, c.replace(f"-{k}", "-k"): v, "universe mean change": mon["tier mean"]}))
+    pick_tab = pd.DataFrame(prow).set_index("tier")
+    boot = pd.concat([boot_table(b, [c for c in b.columns if c.startswith("model top")]) for b in boot_in])
+    # where the overall top 20 comes from
+    a = t.assign(s=t.p_up - t.p_down)[t.p_up > t.p_down].sort_values("s", ascending=False).groupby("day").head(TOP_K)
+    mix = a.groupby("tier").chg.agg(share_of_picks="size", mean_change="mean")
+    mix["share_of_picks"] /= len(a)
+    mix = mix.reindex(tier_names)
+
+    out = f"tiers_model{SUFFIX}"
+    OUT.mkdir(exist_ok=True)
+    md = [f"# Model by value tier: {H}-day up/flat/down (gradient boosting + offers + events, the site's model)\n",
+          f"_Window {V.index[0].date()} to {V.index[-1].date()}, {t.month.nunique()} test months ({t.month.min()} to "
+          f"{t.month.max()}), {len(t):,} test rows. Tier = Elvebredd value on the forecast day. Flat = move under "
+          f"{np.expm1(FLAT):.0%} in every tier._\n",
+          "## Calls, pooled over all test rows\n",
+          "*median size of a move* = median |change| of rows that moved more than the flat band. *up recall* = share of "
+          "real rises the model called. *repeat-last* = repeat the last change's direction (the baseline).\n",
+          pooled.to_markdown(floatfmt=".3f"),
+          f"\n\n## Picks inside each tier: mean {H}-day change\n",
+          f"Top {TIER_K} per day inside a tier (top {TOP_K} for *all pets* and *<= 10 (all)*), averaged over months. "
+          f"*tier mean* = the average pet of that tier.\n",
+          pick_tab.to_markdown(floatfmt=".3f"),
+          "\n\n### Range over months (90%, months resampled 2,000 times)\n", boot.to_markdown(index=False, floatfmt=".3f"),
+          f"\n\n## Where the overall top {TOP_K} comes from\n", mix.to_markdown(floatfmt=".3f")]
+    (OUT / f"{out}.md").write_text("\n".join(md), encoding="utf-8")
+    print(pooled.round(3).to_string()); print(pick_tab.round(3).to_string()); print(mix.round(3).to_string())
+
+
 def forecast_main(df, feats, V, tag=""):
     """Today's direction call per pet variant, for the site. Same model as in both mode (whose walk-forward results are
     the backtest the site quotes): "gradient boosting + offers + events", except at 90 days, where "logistic regression +
@@ -541,6 +640,11 @@ def main():
         trial = "amvgg" in sys.argv[2:]
         df, cols = add_groups(df, V, ("offers", "events") + (("amvgg",) if trial else ()), optional=("amvgg",))
         forecast_main(df, base + [c for cs in cols.values() for c in cs], V, "_amvgg" if trial else "")
+        return
+    if mode == "tiers":
+        base = [c for c in df.columns if c not in NOT_FEATURES]
+        df, cols = add_groups(df, V, ("offers", "events"))
+        tiers_main(df, base + [c for cs in cols.values() for c in cs], V, last)
         return
     if mode == "size":
         base = [c for c in df.columns if c not in NOT_FEATURES]

@@ -175,6 +175,8 @@ tr.click { cursor: pointer; } tr.click:hover td { background: var(--hover); }
 @media (prefers-color-scheme: dark) { .stale { background: #3a2f12; color: #f3d98b; border-color: #6b5520; } }
 .rise .rtoggles { display: flex; flex-wrap: wrap; gap: 8px; }
 .rise .seg button { padding: 6px 10px; min-height: 32px; }
+.rise .seg.tiers { display: flex; width: 100%; }
+.rise .seg.tiers button { flex: 1; padding: 6px 4px; white-space: nowrap; }
 @media (max-width: 900px) {
   .browse-grid { grid-template-columns: minmax(0, 1fr); }
   .rise { position: static; order: -1; }
@@ -854,7 +856,9 @@ function drawItem() {
 
 // ---- Values tab: the 20 pets most likely to rise, or to drop, over 30 days (one row per pet: its likeliest variant) ----
 const RISE_N = 20, RISE_SHORT = 5;
-let riseOpen = false, riseMode = "up", riseH = "30";
+let riseOpen = false, riseMode = "up", riseH = "30", riseTier = "all";
+// value tiers (Elvebredd value): a 5% move means something different at 5 than at 500 (results/tiers_model_30d.md)
+const RISE_TIERS = { all: ["All", 0, Infinity], t10: ["≤10", 0, 10], t60: ["10–60", 10, 60], t100: ["60–100", 60, 100], top: ["100+", 100, Infinity] };
 const fcFor = hz => hz === "30" ? FC : (FC.h || {})[hz];  // forecast block for a horizon (days)
 async function drawRise() {
   const box = $("#rise");
@@ -863,11 +867,15 @@ async function drawRise() {
   if (!fcFor(riseH)) riseH = "30";
   const F = fcFor(riseH) || {}, flat = F.flat || 5;
   const up = riseMode === "up", slot = up ? 0 : 1;  // forecast.json: [P(up), P(down), call]
+  const [, lo, hi] = RISE_TIERS[riseTier];
   const rows = Object.entries(F.items || {}).map(([name, f]) => {
-    const [k, v] = Object.entries(f).sort((a, b) => b[1][slot] - a[1][slot])[0];
-    return { it: BYNAME.get(name), k, p: v[slot] };
-  }).filter(r => r.it).sort((a, b) => b.p - a.p).slice(0, RISE_N);
-  box.hidden = S.tab !== "list" || S.item || !rows.length;
+    const it = BYNAME.get(name);
+    // the pet's likeliest variant among those inside the chosen value tier
+    const [k, v] = Object.entries(f).filter(([k]) => riseTier === "all" || (it && it.E[k] > lo && it.E[k] <= hi))
+      .sort((a, b) => b[1][slot] - a[1][slot])[0] || [];
+    return { it, k, p: v && v[slot] };
+  }).filter(r => r.it && r.k).sort((a, b) => b.p - a.p).slice(0, RISE_N);
+  box.hidden = S.tab !== "list" || S.item || !F.items;
   if (box.hidden) return;
   const narrow = matchMedia("(max-width: 900px)").matches, show = narrow && !riseOpen ? rows.slice(0, RISE_SHORT) : rows;
   const bt = F.backtest || {}, days = F.days || 30, word = up ? "rise" : "drop", col = up ? "var(--up)" : "var(--down)";
@@ -877,8 +885,11 @@ async function drawRise() {
   box.replaceChildren(
     h("h2", {}, up ? "Most likely to rise" : "Most likely to drop"),
     h("div", { class: "rtoggles" }, h("div", { class: "seg", role: "group", "aria-label": "Rise or drop" }, mode("up", "Rise"), mode("down", "Drop")),
-      h("div", { class: "seg", role: "group", "aria-label": "How far ahead" }, hz("7"), hz("30"), hz("90"))),
+      h("div", { class: "seg", role: "group", "aria-label": "How far ahead" }, hz("7"), hz("30"), hz("90")),
+      h("div", { class: "seg tiers", role: "group", "aria-label": "Value range" }, Object.entries(RISE_TIERS).map(([t, [label]]) =>
+        h("button", { "aria-pressed": String(riseTier === t), onclick: () => { riseTier = t; drawRise(); } }, label)))),
     h("span", { class: "sub" }, `Chance of a ${flat}%+ ${word} on Elvebredd in the next ${days} days · as of ${F.asof}`),
+    rows.length ? "" : h("p", { class: "empty" }, "No pets in this value range."),
     h("ol", {}, show.map((r, i) => h("li", { tabindex: 0, role: "link", title: `${r.it.name} · ${keyTxt(r.it, r.k)}: ${pc(r.p)} chance of a ${flat}%+ ${word} in ${days} days`,
         onclick: () => go(r), onkeydown: e => { if (e.key === "Enter") go(r); } },
       h("span", { class: "rk" }, i + 1), icon(r.it) || h("span"),
@@ -887,8 +898,9 @@ async function drawRise() {
       h("span", { class: "pct", style: `color:${col}` }, pc(r.p)),
       h("span", { class: "bar" }, h("i", { style: `width:${100 * r.p}%;background:${col}` }))))),
     narrow && rows.length > RISE_SHORT ? h("button", { class: "more", onclick: () => { riseOpen = !riseOpen; drawRise(); } },
-      riseOpen ? "Show fewer" : `Show all ${rows.length}`) : null,
-    h("p", { class: "note" }, `One row per pet, its likeliest variant. ` +
+      riseOpen ? "Show fewer" : `Show all ${rows.length}`) : "",
+    h("p", { class: "note" }, `One row per pet, its likeliest variant${riseTier === "all" ? "" : " in this value range"}. ` +
+      (riseTier === "t10" && up ? "Rise calls are least reliable on cheap pets, whose values rarely move. " : "") +
       (bt.months ? (up ? `In tests over ${bt.months} months, "likely up" calls rose ${flat}%+ ${pc(bt.up_precision)} of the time, and the top 20 gained ` +
           `${pctTxt(100 * bt.top20)} per ${days} days on average (all pets ${pctTxt(100 * bt.all_pets)}). `
         : `In tests over ${bt.months} months, "likely down" calls dropped ${flat}%+ ${pc(bt.down_precision)} of the time; most values don't move. `)

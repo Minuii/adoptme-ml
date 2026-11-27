@@ -4,7 +4,7 @@ For any AI (or person) picking this project up. It tells you what exists, what s
 The full history of every decision and finding is in `log.md` (newest at the bottom). **Add to `log.md` whenever you decide
 or find something**, and update the "Current state" and "Next steps" sections here when they change.
 
-_Last updated: 2026-11-20._
+_Last updated: 2026-11-27._
 
 ## What this project is
 
@@ -107,6 +107,7 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 - **Offer features count a pet once per poster per day** (spam / repeat filter, 2026-11-13): no harm in the test, slightly better ranking.
 - **Site forecast (2026-11-13):** `elve_model.py forecast` trains the offers + news classifier on all rows with a known 30-day outcome and calls the newest day; `build_site.py` turns `results/direction_30d.csv` into `site/forecast.json`; item pages show it. Runs daily on GitHub (scikit-learn); the calls agree with Kaggle's XGBoost (correlation 0.95 on P(up) and P(down)). Most calls are "no clear move" (2,245 of 2,406), ~130 down, ~30 up.
 - **7-day top-20 check (20 Nov):** of the 20 pets the 12 Nov forecast rated most likely to rise 2%+ in 7 days, 7 did (35%, vs the model's 62% average chance and 48% in earlier tests); average change −3.0%. One week, small sample; `checks/top20_rise_7d_2026-11-12.xlsx`, see log.md.
+- **Value tiers (27 Nov, `elve_model.py tiers`, `results/tiers_model_30d.md`):** calls get more accurate as value rises (up precision 20% for pets <= 1 up to 52% for > 100; <= 1 up calls lose to repeat-last-change), but top picks beat their tier's average in every tier (+10 to +19% a month). No separate models needed; the rise / drop panel now has value-range buttons (All / ≤10 / 10–60 / 60–100 / 100+). See log.md.
 - **Full-history Kaggle results with the stricter scoring are in (2026-11-12, see the summary above and log.md).** The 30-day classifier's gain survives every check. The **size model does not** clear the bar for showing amounts: its rank IC (0.35 for the median, 0.33 for the two-part) is barely above repeat-last-change (0.33), and its 10–90% range covers 82% of all outcomes but only 29% of real moves (it is a narrow band around "no change"). At 7 days half its ranges have zero width. Today's forecast is in `results/forecast_30d.csv`.
 
 ## Next steps
@@ -119,4 +120,5 @@ Recall is low everywhere (the model calls few moves, but is right about half the
 6. **Size and growth (measured 2026-11-13, see log.md):** the repo grows ~1.8 MB a day (offers 1.2, value snapshots 0.34, trades 0.25); the pack is ~54 MB, so ~700 MB after a year. No cheap win: offers hold no duplicates and are already ~40 bytes each; merging a day's offer files saves only 12–23% and would add duplicate blobs to history; shorter poster ids save ~1%. `site/data.json` is 3.9 MB but GitHub serves it gzipped (0.6 MB), and own-snapshot history is already trimmed to where the logs fall short. Actions and Kaggle clone with depth 1, so only a full local clone feels it. Revisit when the pack passes ~500 MB: then move finished months of offers out of git (e.g. release archives) and store value snapshots as changes only.
 7. Rerun `python elve_model.py amvgg` (7 and 30 days) monthly, and watch the live AMVGG trial on the Stats tab (from ~21 Nov). Promote it to the real forecast (drop `amvgg` from the trial runs, add the group to the real one) once it beats the real model over a few months or the backtest reaches 6+ test months.
 8. Later: trade-volume features once trades have a few months of history (complete since 2026-11-12).
-9. Optional: size model retry (train the range on movers only), or show the typical past rise / drop size per pet instead.
+9. Value tiers (27 Nov): per-tier lists are on the site (value-range buttons on the rise / drop panel). Still open: leave pets <= 1 out of the rise list, or test a per-pet flat band.
+10. Optional: size model retry (train the range on movers only), or show the typical past rise / drop size per pet instead.
