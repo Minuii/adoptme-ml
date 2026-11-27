@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-27 09:11 UTC by the scrape workflow._
+_Updated 2026-11-27 09:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
-| elve | 26 | 2026-11-11T1036Z | 2026-11-27T0115Z |
+| elve | 27 | 2026-11-11T1036Z | 2026-11-27T0916Z |
 | amvgg | 72 | 2026-11-11T1036Z | 2026-11-26T1916Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 31,664 | 2026-11-27T09:00 |
-| elve | 17 | 6,634 | 2026-11-27T09:01 |
+| amvgg | 17 | 31,916 | 2026-11-27T09:15 |
+| elve | 17 | 6,661 | 2026-11-27T09:15 |
 
-## AMVGG completed trades: 71,191 total
+## AMVGG completed trades: 71,192 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,231 |
+| 2026-11-27 | 1,232 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,7 @@ _Updated 2026-11-27 09:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:15 | **1116LO**: Cow (NFR), Copycat | **Tuti89975**: Arctic Reindeer (FR) |
 | 09:11 | **Finek357**: Fairy Bat Dragon (FR) | **walking_creep1**: Fly-A-Pet Potion ×15 |
 | 09:11 | **k5ijo**: Ram (N), Cow Calf (M) | **1OOVO**: Unicorn Plush, Christmas Doge Rattle, Anna Rattle, Reindeer Stroller, Neon Black Skateboard, Neon Green Skateboard, Neon Blue Skateboard |
 | 09:11 | **qqxichan**: Strawberry Shortcake Bat Dragon (NFR), Fairy Bat Dragon (NFR) | **vstxcey**: Cryptid (NFR) |
@@ -53,7 +54,6 @@ _Updated 2026-11-27 09:11 UTC by the scrape workflow._
 | 09:11 | **varenikkxz**: Diamond Griffin (FR), Golden Dragon | **BUS5ED**: Ride-A-Pet Potion |
 | 09:11 | **aziatka_247**: Chihuahua ×2, Eggnog Dog | **L32ghty6**: Pain au Chat ×2 |
 | 09:11 | **Jenniiee_1000**: Ride-A-Pet Potion | **BUS5ED**: Anna Rattle, Rainbow Wand |
-| 09:11 | **xXL0TTY**: Balloon Unicorn (FR), Canadian Goose (M), Irish Elk (M), Leopard Cat (MR), Ride-A-Pet Potion | **zjKC7l**: Parrot (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
