@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 17:16 UTC by the scrape workflow._
+_Updated 2026-11-27 17:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 17:16 UTC by the scrape workflow._
 | amvgg | 17 | 39,817 | 2026-11-27T17:15 |
 | elve | 17 | 8,418 | 2026-11-27T17:15 |
 
-## AMVGG completed trades: 72,823 total
+## AMVGG completed trades: 72,888 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,863 |
+| 2026-11-27 | 2,928 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 17:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:11 | **Backupdoinky**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 17:11 | **Rbd_JP**: Kookaburra (M) | **Xavit_860**: Diamond Hummingbird (NR), Pain au Chat (M), Longhorn Cow (MR), Toy Poodle (MR), Fly-A-Pet Potion |
-| 17:11 | **slothloverforever6**: Purrowl (M) | **Jqwuop**: Ride-A-Pet Potion ×2 |
-| 17:11 | **turbo142142**: Hoverboard, Fly-A-Pet Potion | **lovealleycats**: Ride-A-Pet Potion ×2 |
-| 17:11 | **olddeathcore**: Kangaroo (FR) | **Draggondung**: Copycat (NFR) |
-| 17:11 | **4URANZ3**: Frostbite Bear (FR), Unicorn Horn, Jester Dragon, Copycat | **Adhenry2014**: Dragonfruit Fox (MFR) |
-| 17:11 | **lox_78630**: Ride-A-Pet Potion ×2 | **1220birth1005100**: Lamb (FR) |
-| 17:11 | **4iix_rII**: Alley Cat (MFR), Cow (FR), Shark Puppy (FR), Alley Cat (R), Alley Cat, Candy Hare (NR), Ride-A-Pet Potion | **0MGITSADD1E**: Hedgehog (FR) |
-| 17:11 | **lordbeam31**: Pig (NFR), Lamb (NFR), Field Mouse (R), Ride-A-Pet Potion ×2 | **SPRINGTREP57546**: Cow (FR) |
-| 17:11 | **lisamod65321**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 17:11 | **hiuretic7**: Frost Dragon (FR), Golden Chow-Chow, Ride-A-Pet Potion ×2 | **trjstantristam**: Owl (FR), Strawberry Shortcake Bat Dragon (R) |
-| 17:11 | **Mcdonaldsofaustralia**: Hedgehog (FR) ×3, Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **urstrulykaar1**: Crow (NFR) |
-| 17:11 | **quesodrilo**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 17:11 | **urstrulykaar1**: Owl (FR) ×2 | **dw4rkz**: Balloon Unicorn (FR), Balloon Unicorn, Cow (FR) ×3 |
-| 17:11 | **userulikk**: Cow (FR), Toy Monkey (MFR), Octopus (MFR), Blue Ringed Octopus (M), Ninja Monkey (NFR), Gaelic Fae (NFR), Mechapup, Kangaroo (R), Flamingo (R), Tree Kangaroo (N), Goldhorn (NFR), Dodo (NR), Cactus Friend (NFR), Turtle (FR), Shetland Pony Light Brown (NR), French Bulldog (N), Banana Hat | **theseller63**: Owl (FR) |
+| 17:25 | **fl1xs288**: Ride-A-Pet Potion ×2 | **anaataccia**: Pet Handler Pro Certificate |
+| 17:25 | **nikiph9w**: Kangaroo (FR), Golden Penguin (R) | **tazxkyts**: Unicorn Horn |
+| 17:25 | **akhayrzamanova**: Peppermint Penguin (FR) | **DewrattlSR**: Fly-A-Pet Potion ×17 |
+| 17:25 | **Tkoelzer10**: Floral Eggy | **adoptmetr4dechalleng**: Dotted Eggy |
+| 17:25 | **K1MM007**: English Sheepdog (MFR), Moonlight Moth (MFR), Fleur De Ice (MFR), Golden Tortoise Beetle (MFR) | **saturnestee**: Dango Penguins (MFR) |
+| 17:25 | **kikio123760**: Catte ×2 | **keti_tan**: Chocolate Dutch Guinea Pig |
+| 17:25 | **heart_xi1**: Crystal Egg ×9 | **blackcupkakeuwu**: Gemstone Egg |
+| 17:25 | **Mar56060**: Axolotl (MFR), Halloween White Ghost Dragon (N), Dango Penguins (NR), Kitty Bat (M), Unicorn (NFR), Winged Tiger (R) | **itz_ckaM1441**: Strawberry Shortcake Bat Dragon (FR) |
+| 17:25 | **djjoha298**: Cryptid (R) | **XV7K3ZVX**: Cryptid |
+| 17:25 | **aff6ctionnn**: Chef Gorilla, Black Springer Spaniel | **lollipopleah7861**: Ride-A-Pet Potion ×2 |
+| 17:25 | **Violette_244**: Irish Water Spaniel (MFR), Shark Puppy (MFR) | **RobloxRules_890**: Candyfloss Chick (MFR) |
+| 17:25 | **Its_socrazy**: Cow (FR) ×3, Goose (R), Fly-A-Pet Potion | **Diego_2013ult**: African Wild Dog (FR) |
+| 17:25 | **Coconut_92j**: Border Collie (FR), Chocolate Chow-Chow (NR), Butter Knife | **sleewpydollettee**: Candyfloss Chick (R) |
+| 17:25 | **Luna_Bear2019**: Pancake Stack | **Bunniixkayy**: Toyshop House |
+| 17:25 | **valentinaajuwu**: Pet Handler Pro Certificate, Ride-A-Pet Potion | **N0_ID3A5**: Gemstone Egg ×5 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
