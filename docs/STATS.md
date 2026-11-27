@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 17:46 UTC by the scrape workflow._
+_Updated 2026-11-27 17:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 17:46 UTC by the scrape workflow._
 | amvgg | 17 | 40,347 | 2026-11-27T17:45 |
 | elve | 17 | 8,552 | 2026-11-27T17:46 |
 
-## AMVGG completed trades: 73,001 total
+## AMVGG completed trades: 73,044 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 3,041 |
+| 2026-11-27 | 3,084 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 17:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:45 | **ssuinzx**: Crystal Egg ×9 | **sjak696**: Ride-A-Pet Potion |
-| 17:45 | **ILASW1SHES**: Turtle (FR) | **ICanT_SE33**: Giant Anteater, Irish Water Spaniel, Matcha Cat, Ride-A-Pet Potion, Alley Cat |
-| 17:45 | **egoklled**: Kitty Biscuit ×4 | **rose846797**: Goth Shoes |
-| 17:45 | **Zak_0250**: Enchanted Broomstick | **silencer282**: Fly-A-Pet Potion |
-| 17:45 | **urstrulykaar1**: Balloon Unicorn | **Morphe_altr**: Ride-A-Pet Potion, Crow (FR), Fly-A-Pet Potion, Pancake Stack |
-| 17:45 | **Diamondpanda_2009**: Giant Anteater (MFR) | **dyna911**: Haetae (FR) |
-| 17:45 | **likosha6**: Gemstone Egg ×2 | **TwistedK1tty**: Ride-A-Pet Potion |
-| 17:45 | **STAZ638**: Catte, Hamster | **booseoks0on**: Ride-A-Pet Potion |
-| 17:45 | **191919y2**: Chocolate Chow-Chow, Purrowl (N), Robot (N), Corgi (N) | **Dan9732224**: Ride-A-Pet Potion |
-| 17:45 | **Butyeli**: Kangaroo (NFR), Dodo (MFR), Frost Unicorn, Frost Fury (FR), Rock (M), Elf Hat, Ride-A-Pet Potion, Leopard Cat (R), King Penguin (R) | **i6so1**: Dalmatian (FR) |
-| 17:45 | **sheeemfffffff**: Strawberry Shortcake Bat Dragon (FR), Turtle (R) | **Fonseca_235**: Cryptid (FR) |
-| 17:45 | **ponshick9**: Ride-A-Pet Potion | **coloma1000_7**: Skelicorn (FR) |
-| 17:45 | **BonyTuna**: Cattuccino (M) | **starneverlandsAlt**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 17:45 | **sxmplycutecorex**: Peahen | **daran_waren**: Hooray Pink Mega Neon Paint |
-| 17:45 | **Nastya2345981**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion | **1220birth1005100**: Turtle (FR) |
+| 17:51 | **rompi448179**: Huntsman Robin ×11 | **adoppme42**: Ride-A-Pet Potion |
+| 17:51 | **chrxmaxc**: Snow Owl (NR), Arctic Dusk Dragon (F), Red Dutch Guinea Pig, Christmas Pudding Pup, Pink Cat Ear Headphones | **ITS_DaDaAgent**: Kangaroo (FR) |
+| 17:51 | **ILoveCupcakes33123**: Mini Pig (FR), Goose (FR), Siamese Cat (FR), Jellyfish (R), Pink Cat (FR), Lion Cub, Tortuga de la Isla (FR), Clumpty | **amvggalt1**: Candicorn (MFR) |
+| 17:51 | **Urfavorite1225**: Pain au Chat ×3 | **Ddwkfmr**: Ride-A-Pet Potion |
+| 17:51 | **DefinitelyNotCha6**: Mermaid Mansion | **Sweet_Butter1049**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 17:51 | **karl_koto**: Strawberry Shortcake Bat Dragon (NFR), Fairy Bat Dragon (NFR), Turtle (FR), Siamese Cat, Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **isabella68078**: Frost Dragon (FR) |
+| 17:51 | **ladovkz1**: Chocolate Chow-Chow, Blue Whale, Admin Abuse Egg ×3 | **jorgee_roblox7**: Jumpscare (M) |
+| 17:51 | **zjgdhw**: Maine Coon (N) | **42ief**: Fly-A-Pet Potion |
+| 17:51 | **Jay_basealters**: Hedgehog (FR), Dalmatian | **adrncldrn**: Blazing Lion (FR), Munchkin Cat (FR), Tiny Wings ×5, Toaster Hat, Spring Bunny Hood, Propeller Hat, Rain Boots, Jeff's Nametag, Strawberry Hat |
+| 17:51 | **Random1513**: Gemstone Egg, Paint Sealer ×7 | **TwistedK1tty**: Ride-A-Pet Potion |
+| 17:51 | **shizulechkins**: Ride-A-Pet Potion | **0wzxc**: Sushi Penguin, Crystal Egg |
+| 17:51 | **jW54gJY35h6pO7X9N722**: Dango Penguins (N), Sheeeeep (R), Fly-A-Pet Potion, Honey Badger, Giant Cheetah Mount, Elephant (R) | **C0xrbin**: Cow (FR), Kangaroo (FR) |
+| 17:51 | **Lizard123997**: 2D Kitty | **silencer282**: Fly-A-Pet Potion |
+| 17:51 | **joeyharri12**: Balloon Unicorn (FR) | **Hhto123**: Dalmatian (FR), Cow (FR), Unicorn Horn, Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
+| 17:51 | **Danielstarling16**: Bush Elephant (R) | **Gamerqueen1255**: Gemstone Egg ×18 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
