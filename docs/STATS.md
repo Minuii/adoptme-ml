@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 21:16 UTC by the scrape workflow._
+_Updated 2026-11-27 21:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 21:16 UTC by the scrape workflow._
 | amvgg | 17 | 44,052 | 2026-11-27T21:15 |
 | elve | 17 | 9,441 | 2026-11-27T21:15 |
 
-## AMVGG completed trades: 74,020 total
+## AMVGG completed trades: 74,081 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,060 |
+| 2026-11-27 | 4,121 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 21:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:15 | **Nastai3324**: Christmas Pudding Pup (R), Spring Bunny Hood ×2 | **chrxmaxc**: Tortuga de la Isla (FR), Ice Cream Hermit Crab, Puffer Fish (NR), Flaming Fox |
-| 21:15 | **Proboygamer1085**: Goldhorn (MFR), Axolotl (MFR), Kangaroo (FR), Ride-A-Pet Potion, Jeff's Nametag | **vvivxxs**: Rainbow Maker |
-| 21:15 | **aleks2u**: Cow (FR) ×2, Elephant (R), Ratatoskr (MFR), Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **XARYCHIOSI**: Evil Unicorn (FR) |
-| 21:15 | **helloiamaakt**: Cow (FR) | **barrackpalinka1**: Cabbit (FR), Ballet Swan (R) |
-| 21:15 | **Qwerty6766721**: Fly-A-Pet Potion | **Milk_20392**: Dragon (M) |
-| 21:15 | **CutestAstro**: Shrew | **qwertyy_xx01**: Fly-A-Pet Potion ×2 |
-| 21:15 | **lnactiveWords**: Fly-A-Pet Potion ×2, Ermine (N) | **polka_616**: Copycat |
-| 21:15 | **Ryukyu7336**: Strawberry Shortcake Bat Dragon (NFR), Fly-A-Pet Potion ×6 | **Arracheurdetacos224**: Sea Slug (MFR) |
-| 21:15 | **dumme_kiwi**: Shadow Dragon (NFR) | **nerdoitdabest**: Goose (MFR), Border Collie (MFR), Parrot (FR), Crow (FR), Munchkin Cat (MFR), Siamese Cat (NFR), Mini Pig (FR), Kangaroo (NFR), Sheeeeep (MFR), Rain Cloud Hat, Ride-A-Pet Potion ×8 |
-| 21:15 | **ItzSlima**: Ride-A-Pet Potion ×2 | **Leviodas**: Fly-A-Pet Potion |
-| 21:15 | **Adhenry2014**: Snow Monkey (MFR) | **Pinkmalinky123**: Zombie Wolf (MFR) |
-| 21:15 | **alohaxstephhh**: Tri-horned Treehopper, Green Butterfly (R) | **cUtE_Nefelh**: Ballet Swan ×2 |
-| 21:15 | **donnotinteract**: Unicorn Horn | **orangutan0ava**: 2022 Birthday Cupcake Shoes, Fly-A-Pet Potion |
-| 21:11 | **lupoouu2**: Unicorn | **Aslie_17**: White Chef Hat |
-| 21:11 | **ALTACCOUNTTT435**: Crystal Egg ×15 | **vmpiahs**: Ride-A-Pet Potion |
+| 21:25 | **HolaestimadasPepos**: Cryptid (FR), Crocodile (FR) | **maybetryitlater**: Hedgehog (FR) |
+| 21:25 | **jukijajaja**: Strawberry Shortcake Bat Dragon (FR), Candyfloss Chick (R), Shark Puppy | **ZenaSuguru_Get0**: Cryptid (FR) |
+| 21:25 | **ToberRain**: Evil Unicorn (MFR), Chocolate Chip Bat Dragon (FR), Winged Tiger (MFR) | **yutoffee**: Cryptid (MFR) |
+| 21:25 | **cutezxnat**: Golden Chow-Chow (MFR), Ice Cream Hermit Crab (MFR), Corn Doggo (MFR), Tree Kangaroo (MFR), Husky (NFR) | **MICROCELE6BRITY**: Diamond Amazon (MFR), Red Sand Dollar (MFR) |
+| 21:25 | **simf4l**: Rabbit, Bobageist, Corgi | **oiiwqioo**: Rabbit |
+| 21:25 | **krxadm3**: Crystal Egg ×17 | **Smookgans**: Ride-A-Pet Potion |
+| 21:25 | **Sashok_566**: Harp Seal ×2, Dodo (NFR) | **Friendforever_kelly**: Frost Phoenix (N) |
+| 21:25 | **DosHik37917**: Munchkin Cat (R) | **sleewpydollettee**: Shark Puppy (R) |
+| 21:25 | **unicodrk**: Red Dutch Guinea Pig (MFR) | **rosez29099**: Red Sand Dollar (MFR), Pupcake (MFR), Chocolate Dutch Guinea Pig (MFR), Pretty Pony (MFR) |
+| 21:25 | **dayn_okda12**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×2 | **QuantumPandaPlayz93**: Tilcayo |
+| 21:25 | **xTvnee**: Unicorn Cycle | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 21:25 | **fluffyunicorns_932**: Brown Bear (MFR), Hyena (MFR), Prismatic Butterfly (MFR) | **Vqmpstqrry**: Strawberry Penguin (MFR), Vanilla Penguin (MFR) |
+| 21:25 | **doggie_328**: Chocolate Dutch Guinea Pig (MFR), Alley Cat (FR) | **Nio8568**: Cow |
+| 21:25 | **clairolvr67**: Bunny (M), Mummy Spider (M) | **simf4l**: Ride-A-Pet Potion |
+| 21:25 | **Moon_black852**: Balloon Unicorn (FR), Pancake Stack, Rain Boots, Spring Bunny Hood | **N0ugatt**: Werewolf (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
