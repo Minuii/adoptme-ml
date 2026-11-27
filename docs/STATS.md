@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 22:25 UTC by the scrape workflow._
+_Updated 2026-11-27 22:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 22:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 45,076 | 2026-11-27T22:15 |
-| elve | 17 | 9,668 | 2026-11-27T22:15 |
+| amvgg | 17 | 45,344 | 2026-11-27T22:30 |
+| elve | 17 | 9,720 | 2026-11-27T22:31 |
 
-## AMVGG completed trades: 74,343 total
+## AMVGG completed trades: 74,364 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,383 |
+| 2026-11-27 | 4,404 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 22:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:25 | **Xz_CodeOLDriftdLBliz**: Gingerbread Mansion | **lunarodlox38**: Ride-A-Pet Potion |
-| 22:25 | **VictoriaDimond12345**: Ride-A-Pet Potion, Strawberry Shortcake Bow | **Elmasinsano_392**: Panda (FR) |
-| 22:25 | **ttechnicaIIy**: Cabbit (R) | **pipsiclebx**: Munchkin Cat (NFR) |
-| 22:25 | **RamoneTheRamona**: Turtle (FR) ×2 | **Kvammletitraketa**: 2022 Birthday Party Hat, 2022 Birthday Party Horn, Ice Cream Cone Hat, Pancake Stack |
-| 22:25 | **Lolaa_chn**: Paint Sealer ×6 | **jayden_5757xx**: Frostbite Bear and Cub Animated Sticker |
-| 22:25 | **chapa4ka579**: Tarsier ×3 | **Vikakelera**: Ride-A-Pet Potion |
-| 22:25 | **lolcwittyyayy**: Candicorn (NFR) | **Reya426**: Ice Cream Hermit Crab (MFR) |
-| 22:25 | **Ruperto_1297**: Fly-A-Pet Potion | **0sit0legendari0**: Hooray |
-| 22:25 | **YOKOZ303**: Chihuahua | **Hahaha_LOL123Abc**: Crystal Egg ×7 |
-| 22:25 | **adoptrade12**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×3 | **M4RC0S_R0SSI2**: Turtle (FR) |
-| 22:25 | **ALTACCOUNTTT435**: Crystal Egg ×15 | **Caydyywaydyy**: Ride-A-Pet Potion |
-| 22:25 | **Pudge2k13**: Unicorn (MFR), Winged Tiger (FR), Tortoiseshell Guinea Pig | **AutoTradeCommission**: Mini Pig (FR), Fly-A-Pet Potion |
-| 22:25 | **iampibbleslool**: Cupid Dragon (FR), Matcha Cat, Dragonfruit Fox, Dango Penguins (R), Aurora Fox (FR) | **PanyPanes**: Turtle (FR) |
-| 22:25 | **COCN_XNY**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 22:25 | **Asahi_vu**: Skelicorn (MR) | **AutoTradeCommission**: Ride-A-Pet Potion ×3 |
+| 22:30 | **jdjdmdjdjdu**: Chihuahua ×4, Picnic Basket, Rain Hat | **Floppybunny_4662**: Ride-A-Pet Potion ×2 |
+| 22:30 | **frfact**: Lunar Gold Tiger ×18 | **XSad_CharaX**: Ride-A-Pet Potion ×2 |
+| 22:30 | **ALTACCOUNTTT435**: Crystal Egg ×15 | **Bambooeater128**: Ride-A-Pet Potion |
+| 22:30 | **BibbleFairy_9**: Goose (R), Sugar Glider (FR), Harp Seal (N), Ride-A-Pet Potion ×3 | **Papitascongaseosa_xD**: Strawberry Shortcake Bat Dragon (FR) |
+| 22:30 | **ZEK0G**: Sakura Spirit, Silly Duck, Drake, Ride-A-Pet Potion ×2 | **Elmasinsano_392**: Arctic Fox (FR) |
+| 22:30 | **silenceddfeelings**: Retired Egg ×17 | **vivicacke17**: Chihuahua |
+| 22:30 | **aIexswrIdd**: Turtle (FR) | **haggynionn**: Frost Unicorn (R), Unicorn (N) |
+| 22:30 | **nfrmikey1**: Candicorn (MFR), Orange Butterfly (MFR) | **delreydiaries**: Cupid Dragon (MFR), Kangaroo (NFR) |
+| 22:30 | **Sofi_sp117**: Ride-A-Pet Potion ×7, Zodiac Minion Chick (R) | **Yourlocal_happykid0**: Fly-A-Pet Potion ×4 |
+| 22:30 | **xXhawa_xX**: Fly-A-Pet Potion ×16, Ride-A-Pet Potion ×2 | **chark3233**: Cow (F) |
+| 22:30 | **fenix085L**: Rock (N) | **Dashweflyyy**: Crystal Egg ×12 |
+| 22:30 | **marsel_bananov**: Sheeeeep (MFR) | **PrisiGamernwn**: Strawberry Shortcake Bat Dragon (FR), Cow (FR) |
+| 22:30 | **Chase_wm6**: Pandaguin Glooptodog (N) | **Makimaoff**: Retired Egg ×7 |
+| 22:30 | **pwupi_spwinkl**: Mini Pig (FR), Spring Bunny Hood | **donnotinteract**: Spring Bunny Nose, Gingerbread Mansion, Border Collie, Propeller Hat, Sheeeeep (NR) |
+| 22:30 | **n44xtt_0**: Dango Penguins (NR), Gemstone Egg, Chihuahua | **mili2001677**: Dango Penguins, Tiny Wings |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
