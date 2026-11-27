@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 22:46 UTC by the scrape workflow._
+_Updated 2026-11-27 22:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 22:46 UTC by the scrape workflow._
 | amvgg | 17 | 45,605 | 2026-11-27T22:45 |
 | elve | 17 | 9,797 | 2026-11-27T22:46 |
 
-## AMVGG completed trades: 74,410 total
+## AMVGG completed trades: 74,439 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,450 |
+| 2026-11-27 | 4,479 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 22:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:45 | **sadu_bestespielerin**: Gemstone Egg ×2, Endangered Egg ×2 | **hellin_flames**: Unicorn |
-| 22:45 | **maniyani7**: Pink Heart Glasses | **jisungbi4sed**: Ride-A-Pet Potion |
-| 22:45 | **SaRa654396**: Chocolate Chip Bat Dragon (FR), Ice Cream Cone Hat, Fly-A-Pet Potion ×4, Albino Monkey, Moon Rabbit (R) | **vorvara161**: Cryptid (FR) |
-| 22:45 | **Yakkuji**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 | **dumme_kiwi**: Rain Cloud Hat |
-| 22:45 | **4lt_042**: Diamond Unicorn, Gecko, Moonpine (N), Gibbon (N), Clownfish, Kelp Hunter, Hydra, Count Slothula, Yeti, Pudding Cat, Shetland Pony White, Roadrunner, Salamander, Trapdoor Snail, Kappakid, Prism Snake, Red Crowned Crane, Tan Chow-Chow | **poshol_naxouPwP**: Fly-A-Pet Potion ×2 |
-| 22:45 | **Oljusik_8**: Robot, DJ Snooze, Little Lamb, Thunderfisher, Three Blind Mice, Mummy Spider | **iisunflower_sunyy**: Purrowl (N) |
-| 22:45 | **reserbadong2**: Ride-A-Pet Potion, Chocolate Chip Bat Dragon (FR), Cow (FR) | **Ash_Yumin**: Amethyst Penguin |
-| 22:45 | **943049209d**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×3 | **Reya426**: Crocodile (R) |
-| 22:45 | **ppomkoo**: Ride-A-Pet Potion | **2tayy**: Hooray Pink Mega Neon Paint |
-| 22:45 | **Frits_Snoek**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **XSamxggX**: Jester Dragon (FR) |
-| 22:40 | **dayn_okda12**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×2, Bakeneko (N) | **17layken**: Tilcayo |
-| 22:40 | **newon135**: Jousting Horse (MFR), Mini Pig (FR), Snowball Pug (MFR), Ride-A-Pet Potion ×2 | **Cherryblossom_01580**: Silverback Gorilla (MFR) |
-| 22:40 | **roblox_user_2641599159**: Guardian Lion (R) | **Luffeyys_ezss**: Ride-A-Pet Potion |
-| 22:40 | **FrostyLife8382**: Ride-A-Pet Potion | **Pineapple_GirlXDD**: Gemstone Egg ×2 |
-| 22:40 | **cutesydals**: Sushi Penguin (MFR), Ring-Tailed Lemur (MFR), Castle Hermit Crab (MFR), Feesh (MFR), Halloween Evil Dachshund (M), Panda (MFR), Bauble Buddies (M), Spring Bunny Hood | **t1mskyy**: Border Collie (MFR) |
+| 22:51 | **XxwizzizxX**: Scarebear | **wqdg_q**: Crystal Egg ×18 |
+| 22:51 | **VirKa_SUPER2**: Red Squirrel (MFR), Clownfish (M), Kitsune (NFR) | **StfvNat**: Siamese Cat |
+| 22:51 | **luvlycalista**: Mochi Meow ×7 | **Bellaistherockstar_9**: Ride-A-Pet Potion |
+| 22:51 | **skibidiipingu**: Crimson Cape (M), Starfish (M), Bolt (M) | **Rxddie_panda**: Count Slothula (N) |
+| 22:51 | **XxkfirxbushxX**: Evil Unicorn (FR) | **GAV_6066**: Cryptid, Papa Moose, Pet Handler Pro Certificate, Ride-A-Pet Potion |
+| 22:51 | **SophiaStormy136**: Crystal Egg ×17 | **ayamekaj**: Ride-A-Pet Potion |
+| 22:51 | **Wolfffks**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 22:51 | **SophiaStormy136**: Crystal Egg ×18 | **cuttiiesara**: Ride-A-Pet Potion |
+| 22:51 | **zombiifangs**: Strawberry Shortcake Bat Dragon (MFR), Chocolate Chip Bat Dragon (FR), Flaming Fox (MR) | **amvgg_fortrades**: Balloon Unicorn (FR) ×3 |
+| 22:51 | **hii_itsari3**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **aylasxjellycat**: Goat |
+| 22:51 | **x0xGamesx0x**: Retired Egg ×18 | **izkzari**: Squid |
+| 22:51 | **D4rkCurse**: Dodo (MFR), Jousting Horse (NR) | **Ameera_109**: Lava Wolf (MFR) |
+| 22:51 | **rayswardrobe**: Jellyfish (MFR), Ride-A-Pet Potion | **Leck_aia181**: Emperor Gorilla (MFR) |
+| 22:51 | **Fxderchen2**: Jester Dragon | **Poppycatplays909**: Hooray ×2 |
+| 22:51 | **LVNA_XVZ**: Ride-A-Pet Potion ×3 | **silenceddfeelings**: Otter (M) ×11, Boohoo (N) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
