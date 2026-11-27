@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 00:11 UTC by the scrape workflow._
+_Updated 2026-11-27 00:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 00:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 23,066 | 2026-11-27T00:00 |
-| elve | 17 | 4,885 | 2026-11-27T00:01 |
+| amvgg | 17 | 23,323 | 2026-11-27T00:15 |
+| elve | 17 | 4,901 | 2026-11-27T00:15 |
 
-## AMVGG completed trades: 70,004 total
+## AMVGG completed trades: 70,036 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 44 |
+| 2026-11-27 | 76 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 00:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:06 | **abdoosaad**: Goose (FR) | **kkiryomi**: Pupcake (MR), Puptune (MR), Unicorn (N), Alley Cat (R), Pupcicle (N), Dragonfruit Fox, Bunny Swirl (N), Gumball Caterpillar (MR), Unicorn, Hamster (N), Pudding Cat (R), Cattuccino (N) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 00:06 | **DefinitelyNotCha6**: Sock Chew Toy, Heart Balloon, Gift Throw Toy, Elf Plush, Cookie Dough Plush ×3, Candle ×2, Banana Plush, Turkey Plush, Ornament Throw Toy, Dragon Balloon ×3 | **lba_fofe**: Fly-A-Pet Potion |
-| 00:06 | **Void88881**: Alpaca (R) | **stitchedeyesholder**: Sheeeeep (NFR) |
-| 00:06 | **leras3008976**: Cattuccino (M), Pilot Gull (M) | **Kyza_222222223**: Pet Handler Pro Certificate, Ride-A-Pet Potion |
-| 00:06 | **oxoglockz**: Ride-A-Pet Potion | **killerman_xd1**: Ancient Dragon ×9 |
-| 00:06 | **whimsyyblues**: Ghost Bunny (MFR), Tri-horned Treehopper | **MahaUbivaha323567**: Zombie Wolf (MFR) |
-| 00:06 | **Doory_Dolly**: Red Dutch Guinea Pig | **unicornsun_BD2**: Unicorn (N) |
-| 00:06 | **LoserChl0e**: Shadow Dragon (FR), Arctic Reindeer (FR), Peppermint Penguin (R), Mini Pig, Pretty Pony (MFR), Alpaca, Munchkin Cat (M) | **fahrodupencheng**: Bat Dragon (FR) |
-| 00:06 | **jjyuzii**: Arctic Dusk Dragon | **ajoloteflac1900**: Woolly Mammoth (MR) |
-| 00:06 | **C4K3YK1TTEN**: Dango Penguins (M), Dragonfruit Fox (M), Dalmatian (FR) | **LilithCGEye**: Arctic Fox (MFR), Field Mouse (MFR), Black Springer Spaniel (MFR) |
-| 00:06 | **AdoptMeHere03**: Fly-A-Pet Potion ×11 | **ajoloteflac1900**: Frost Unicorn (FR) |
-| 00:06 | **pop3791020**: Candicorn, Fly-A-Pet Potion ×2 | **XxSorvetyxX**: Siamese Cat (R) |
-| 00:06 | **Giodg2006**: Sushi Penguin (M), Fly-A-Pet Potion, Ride-A-Pet Potion | **vpzqik**: 2022 Birthday Cake |
-| 00:06 | **Elwanizk**: Unicorn ×2 | **Darciesbestie8943**: Ride-A-Pet Potion ×2 |
-| 00:06 | **Klsofley**: Bunny Swirl (MR), Spring Bunny Hood | **JunktradingALT**: Hamster (MFR) |
+| 00:15 | **Elwanizk**: Unicorn ×2 | **Chiyothebestrust**: Ride-A-Pet Potion ×2 |
+| 00:15 | **vxbezheartz**: Sugar Glider (NFR), Ride-A-Pet Potion ×3 | **pdntcare**: Albino Monkey (NFR) ×2 |
+| 00:15 | **IamCool123Andunot**: Albino Monkey (FR) | **Dangermousefan0**: Ride-A-Pet Potion ×14 |
+| 00:15 | **killerman_xd1**: Ancient Dragon ×9 | **oxoglockz**: Ride-A-Pet Potion |
+| 00:15 | **Jvlausy**: Sugar Glider (FR), Ride-A-Pet Potion | **Anni4090**: Cabbit (FR) |
+| 00:15 | **MINTBUNNYMAGS**: Frost Dragon (FR), Lion Cub (MFR), Werewolf (FR) | **TANSKlN**: Giraffe (FR) |
+| 00:15 | **WhiteBoy19**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Mimi_ryka12**: Golden Corn, Golden Goldfish, Diamond Lavender, Snapdragon Flower, Honey |
+| 00:15 | **bypalmas**: Candicorn (MFR), Orange Butterfly (M) | **lba_fofe**: Crocodile (MFR) |
+| 00:15 | **thescriptofficials**: Unicorn ×7 | **lu_ven5**: Ride-A-Pet Potion ×7 |
+| 00:15 | **Gabo_XD202**: Fly-A-Pet Potion | **lamako1999**: Albino Gorilla (R) |
+| 00:15 | **Oreocrazypans**: Dragonfruit Fox (N) | **EmeraIdEire**: Octopus (N) ×2 |
+| 00:15 | **00Marina007**: Fly-A-Pet Potion ×18 | **xGracie_1234x**: Kangaroo (NFR) |
+| 00:15 | **BreadFloppaPS**: Tanuki (N), Caramelgeist (N) | **splagoogle**: Harp Seal |
+| 00:15 | **clarspry**: Goat (MFR) | **Thing1_608**: Munchkin Cat (MFR), Mini Pig, Pupcicle (N) |
+| 00:15 | **Kcx_jcx123**: Strawberry Shortcake Bat Dragon (NFR), Goose (FR) | **Ryxnisgoofy3**: Mini Pig (NFR), Strawberry Shortcake Bat Dragon (FR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
