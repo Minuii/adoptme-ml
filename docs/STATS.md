@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 19:11 UTC by the scrape workflow._
+_Updated 2026-11-27 19:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 19:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 41,668 | 2026-11-27T19:00 |
-| elve | 17 | 8,841 | 2026-11-27T19:01 |
+| amvgg | 17 | 41,934 | 2026-11-27T19:15 |
+| elve | 17 | 8,885 | 2026-11-27T19:16 |
 
-## AMVGG completed trades: 73,417 total
+## AMVGG completed trades: 73,431 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 3,457 |
+| 2026-11-27 | 3,471 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 19:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 19:15 | **iklerka7228**: Ancient Dragon ×2, Angus Bull, Blue Whale ×3, Cuddly Candle | **valentinaemmz**: Ride-A-Pet Potion |
+| 19:15 | **Dinkarrt**: Munchkin Cat (NFR), Ride-A-Pet Potion ×2, Ram | **jordy_elayne**: Goose (FR) |
+| 19:15 | **H08ni**: Fly-A-Pet Potion ×6 | **therealkayt67**: Guardian Lion (NFR), Sea Turtle (NR), Angus Cow (NR), Fennec Fox (MFR), Badger (MFR), Flower Power Duckling (NR), Frankenfeline (NFR) |
+| 19:15 | **Barbosic_11**: Magpie (M), Dark Choccybunny ×5, Ocelot (N) | **mort_love7**: Ride-A-Pet Potion |
+| 19:15 | **mochiloV7**: Gemstone Egg, Goldfish | **undyingdurin**: Ride-A-Pet Potion |
+| 19:15 | **watterarethebest**: Mummy Spider (M), Burger Bun Hat | **mort_love7**: Ride-A-Pet Potion |
+| 19:15 | **fallawwi**: Seafoam Butterfly, Royal Fairytale Egg, Bobageist (N), Ginger Cat, Electric Hornet, Gold Mahi Mahi (N), Thunderfisher, Snow Cat (N), Arctic Hare | **lantongzp**: Ride-A-Pet Potion |
+| 19:15 | **mort_love7**: Diamond Ladybug | **Esmiraks2014**: Ride-A-Pet Potion |
+| 19:15 | **Apocosi10268**: Strawberry Shortcake Bat Dragon (FR), Pig (NFR), Spring Bunny Hood, Pet Handler Pro Certificate | **JeBoyJaden_7**: Cryptid (FR) |
+| 19:15 | **chocolatedippedbun**: Retired Egg ×2 | **Mipitaaaa**: Mouse (N) |
+| 19:15 | **Bika_1234886**: Gemstone Egg, Admin Abuse Egg ×8 | **papaw02468**: Ride-A-Pet Potion |
+| 19:15 | **nasttt210**: Ride-A-Pet Potion | **dasha_kotik479**: Cattuccino (N), Bison (M) |
+| 19:15 | **angelbutterbear**: Ride-A-Pet Potion ×10 | **imjsaverage**: Tiny Wings |
+| 19:15 | **ProsstoFilya**: Fly-A-Pet Potion, Ancient Dragon | **XxItsYourGirlMiaxX4**: Lavender Dragon |
 | 19:11 | **Lozi_loz**: Ride-A-Pet Potion ×16, Fly-A-Pet Potion | **1220birth1005100**: Kangaroo (FR) |
-| 19:11 | **d3d3d89**: Kitsune (FR) | **serspect**: Ride-A-Pet Potion |
-| 19:11 | **V1vid_iris**: Strawberry Penguin (MFR) | **Ameera_109**: Silverback Gorilla (MFR) |
-| 19:11 | **luvnekoomi**: Cattuccino (N), Black Rhino (M) | **DwWsHZ_2003**: Ride-A-Pet Potion |
-| 19:11 | **ximblim123**: Dog (MR) | **mnam2ciacho**: Gemstone Egg |
-| 19:11 | **Farre_me**: Ride-A-Pet Potion | **Dash_2023crashh**: Gingerbread Mansion |
-| 19:11 | **Leah_newaccnt**: Emperor Gorilla (MFR), Ring-Tailed Lemur (MFR), Chocolate Dutch Guinea Pig (MR), Ram (MFR), Black Springer Spaniel (MFR), Owlbear (MFR) | **Nicosuchti2**: Mini Pig (MFR) |
-| 19:11 | **FrostPixel5930**: Crystal Egg ×17 | **msgarcia4**: Ride-A-Pet Potion |
-| 19:11 | **MYKAHHH_x**: Turtle (NFR), Siamese Cat (FR), Ride-A-Pet Potion | **reserbadong2**: Cow (NFR) |
-| 19:11 | **BLOODA4OK**: Dragonfruit Fox | **egoklled**: Kitty Biscuit ×3 |
-| 19:11 | **Bubblesby_bailey1234**: Crystal Egg ×12 | **Aslyloving123**: Ride-A-Pet Potion |
-| 19:06 | **Alina_gfg890**: Jester Dragon (N), Fly-A-Pet Potion, Ride-A-Pet Potion | **sedrasabah**: Kangaroo (FR) |
-| 19:06 | **yutoffee**: Fly-A-Pet Potion ×2 | **Dinaofdi**: Copycat |
-| 19:06 | **princess_pizzanice**: Vampire Dragon (FR), Glacier Moth (FR), Ballet Swan, Fly-A-Pet Potion | **sedrasabah**: Kangaroo (FR) |
-| 19:06 | **realpdrilla1**: Crystal Egg ×9 | **theonly_aliii**: Vol. 2 Pets Plus Sticker Pack |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
