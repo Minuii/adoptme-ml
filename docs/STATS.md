@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 06:01 UTC by the scrape workflow._
+_Updated 2026-11-27 06:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 06:01 UTC by the scrape workflow._
 | amvgg | 17 | 28,910 | 2026-11-27T06:00 |
 | elve | 17 | 6,027 | 2026-11-27T06:01 |
 
-## AMVGG completed trades: 70,760 total
+## AMVGG completed trades: 70,776 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 800 |
+| 2026-11-27 | 816 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 06:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:00 | **Inganta07**: Fly-A-Pet Potion ×2 | **zee55510**: Jester Dragon |
-| 06:00 | **G0RDATRABA**: Chihuahua ×12, Pain au Chat ×2 | **manImHungryforcheese**: Unicorn (NFR) |
-| 06:00 | **iridescenite**: Fairy Bat Dragon (MFR), Cozy Mistletroll (MFR), Triple Stroller, Fire Stallion (N), Shiver Wolf, Ghostly Cat (N), Mistletroll (N) | **Moticia20**: Dango Penguins (MFR) ×3, Ballet Swan (MFR) |
-| 06:00 | **jaquavisdonaldsonn**: Dalmatian (FR), Arctic Fox (R) | **9nvls**: Cabbit (NFR), Siamese Cat (R) |
-| 06:00 | **lxceddream**: Bat Dragon (FR) | **nerdoitdabest**: Dalmatian (MFR), Copycat (MFR), Halo, Tiny Wings |
-| 06:00 | **17Nexz**: Parrot (R) | **Hi_playz1462**: Balloon Unicorn (FR), Jacobin Pigeon (M), Eaten Donut |
-| 06:00 | **Sweetyiskitty**: Chocolate Chip Bat Dragon (FR) ×3, Fly-A-Pet Potion ×2 | **Queenayeshacutegirl**: Owl (FR) |
-| 06:00 | **billyjeansnotmyluver**: Meerkat | **Imatellya1**: Raccoon (M) |
-| 06:00 | **Cynor0x**: Chocolate Chip Bat Dragon (NR), Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (R) | **Vski_87**: African Wild Dog, Haetae (R) |
-| 06:00 | **muniradypa**: Pain au Chat ×3 | **Siren_AriaBlaze**: Ride-A-Pet Potion |
-| 06:00 | **FlyToTheSaturn**: Guardian Lion (FR), Rat ×3, Hermit Crab ×2, Kirin ×2, Dingo, Bandicoot ×2, Stingray, Monkey ×2, Wolpertinger ×2 | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 06:00 | **Yzoox7**: Strawberry Tortle, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **easonchen13**: Santa Hat ×4 |
-| 06:00 | **4AdrianaJensen**: Tealwood Monster (F), Snow Puma (FR), Alicorn (R) ×2, Golden Griffin, Ribbon Seal (NR), Toucan (FR), Puptune (R) | **Panci_Terbang33**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 06:00 | **Alana_enna22**: Desert Egg ×4, Endangered Egg ×2, Garden Egg ×3, Gemstone Egg | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 06:00 | **zoekuo2010**: Bat Dragon (FR) | **pedrobeteir0**: Mini Pig (MFR), African Wild Dog (FR), African Wild Dog, Cow (FR) ×3, Hot Doggo, Cabbit, Elephant (FR) |
+| 06:11 | **Lilyanaa_p**: Cryptid (FR) | **smartes1230**: Dalmatian (FR) |
+| 06:11 | **Bismuth234**: Strawberry Shortcake Bat Dragon (FR), Pet Handler Pro Certificate ×6, Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **ChvrlieMorningstvr**: Cow (FR), Fairy Bat Dragon (FR), Fairy Bat Dragon (R) |
+| 06:11 | **xolvrxo**: Copycat (N), Ride-A-Pet Potion ×8 | **El_t1ntero**: Werewolf (FR), Cupid Dragon (FR) |
+| 06:11 | **muniradypa**: Pain au Chat ×9 | **santi57974**: Ride-A-Pet Potion ×3 |
+| 06:11 | **Diane6282011**: Cabbit (NFR) | **rebipiu**: Cabbit (NR), Ride-A-Pet Potion |
+| 06:11 | **hondje78910**: Phantom Dragon (R) | **7tfotxdt7put**: Ride-A-Pet Potion ×6 |
+| 06:11 | **addmymain_01**: Goat (NFR) | **M1ssd3ath_x**: Peppermint Penguin (FR) |
+| 06:11 | **TrapitaAlexa**: Werewolf (FR), Winged Tiger | **n11st_0**: Papa Moose (NR) |
+| 06:11 | **0MGSARAY**: Moon Egg ×7 | **j2941s**: Ride-A-Pet Potion |
+| 06:11 | **SophiaStormy136**: Crystal Egg ×18 | **alinaya0208**: Ride-A-Pet Potion |
+| 06:11 | **ylyzacanete**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (R) | **E1IN37852**: Giant Panda (FR) |
+| 06:06 | **1MZ03Y**: Cow (FR) ×2, Hamster (MR) | **jolypearll**: Cow (NFR) |
+| 06:06 | **ItssManguito**: Strawberry Shortcake Bat Dragon (FR), Dalmatian (R) | **aIcremie_s**: Blazing Lion (FR), Cabbit (R), Ride-A-Pet Potion ×11 |
+| 06:06 | **Mhtrading**: Goose (R), Peppermint Penguin, Candy Hare (MFR) | **afks1eepys**: Cryptid (FR) |
+| 06:06 | **Omar2002548**: Red Dutch Guinea Pig | **killerEzekiel99**: Velocirooster |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
