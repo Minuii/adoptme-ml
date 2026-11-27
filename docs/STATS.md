@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 12:41 UTC by the scrape workflow._
+_Updated 2026-11-27 12:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 12:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 35,013 | 2026-11-27T12:30 |
-| elve | 17 | 7,317 | 2026-11-27T12:31 |
+| amvgg | 17 | 35,254 | 2026-11-27T12:45 |
+| elve | 17 | 7,380 | 2026-11-27T12:46 |
 
-## AMVGG completed trades: 71,786 total
+## AMVGG completed trades: 71,790 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,826 |
+| 2026-11-27 | 1,830 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,10 @@ _Updated 2026-11-27 12:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 12:45 | **Sara_Sope1**: Peppermint Penguin (NFR), Meerkat (R), Fly-A-Pet Potion ×2 | **No_R3gretz**: Candicorn (MFR) |
+| 12:45 | **Dash_2023crashh**: Ride-A-Pet Potion ×2 | **typol1235y6**: Longhorn Cow (NR), Little Lamb (N), Chihuahua |
+| 12:45 | **Beavercatnz123**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 12:45 | **serspect**: Water Moon Bear (N) | **Dash_2023crashh**: Ride-A-Pet Potion |
 | 12:41 | **MckDull**: Evil Chick (N) | **shenshenzzz14**: Crystal Egg ×18 |
 | 12:41 | **uniicorn20119**: Fallow Deer (FR) | **Anna_Flora1**: Ride-A-Pet Potion ×5 |
 | 12:41 | **SophiaStormy136**: Crystal Egg ×17 | **Beavercatnz123**: Ride-A-Pet Potion |
@@ -50,10 +54,6 @@ _Updated 2026-11-27 12:41 UTC by the scrape workflow._
 | 12:41 | **Cookieswarsie33**: Albino Monkey (MFR), Puffer Fish (MFR) | **Kakamakapaka98**: Caterpillar (MFR) |
 | 12:41 | **Ryou_senpai05**: Ride-A-Pet Potion | **Kingbee_lol39**: Paint Sealer ×18 |
 | 12:41 | **CaptainMinesweeper**: Winged Tiger (FR), Hare (R), Munchkin Cat, Ice Cream Hermit Crab | **Popp_902**: Fairy Bat Dragon (FR) |
-| 12:41 | **milapka9087**: Strawberry Shortcake Bat Dragon (NFR), Dalmatian (FR) ×2, Dalmatian, Strawberry Shortcake Bat Dragon (FR), Arctic Fox (FR), Fly-A-Pet Potion | **DJpixel1456**: Owl (NFR) |
-| 12:41 | **coocof6**: Balloon Unicorn (FR), Guardian Lion (MFR), Spring Bunny Nose | **AllyySco**: Strawberry Shortcake Bat Dragon (NFR), Unicorn Horn |
-| 12:41 | **skyeszhi**: Cabbit (MFR), Flaming Fox (MFR), Dragonfruit Fox (MFR) | **rasyanoobbacon**: Giraffe (FR) |
-| 12:41 | **TMDung20**: Halloween White Ghost Dragon (FR) | **NoobToNorthernLands**: Ride-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
