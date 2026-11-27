@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 06:55 UTC by the scrape workflow._
+_Updated 2026-11-27 07:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 06:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 29,614 | 2026-11-27T06:45 |
-| elve | 17 | 6,160 | 2026-11-27T06:46 |
+| amvgg | 17 | 29,856 | 2026-11-27T07:00 |
+| elve | 17 | 6,230 | 2026-11-27T07:01 |
 
-## AMVGG completed trades: 70,860 total
+## AMVGG completed trades: 70,880 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 900 |
+| 2026-11-27 | 920 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 06:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:55 | **TMDung20**: Arctic Fox (R) | **D3vi1zone**: Ride-A-Pet Potion ×8 |
-| 06:55 | **00iAngell**: Frost Dragon (FR), Balloon Unicorn (FR), Llama (NR), Lamb (NFR), Arctic Fox (R), Spring Bunny Hood, Rose Dragon (FR), Pancake Stack, Pupcake (N), Turkey (FR), Llama, Candy Hare, Bee (R), Bunny Ear Tiara, Ride-A-Pet Potion, Growing Flower Hat | **enokipiki**: Frost Dragon (NFR) |
-| 06:55 | **XxxSasha_aaaXxx**: African Wild Dog (FR), Cow (FR), Peppermint Penguin, Pretty Pony (NR), Ride-A-Pet Potion ×2, Cat Plush, White Designer Backpack, Chicken Hat | **enokipiki**: Owl (FR) |
-| 06:51 | **UDKAAMIYLA**: Parrot (FR), Crow (FR), Balloon Unicorn (FR), Arctic Reindeer (FR), Candicorn (MFR), Shark Puppy (M), Rainbow Maker, Crocodile (FR) | **MrToy40**: Cryptid (MFR) |
-| 06:51 | **clalouetciedh**: Dragonfly ×16 | **JanaJanjoon11**: Ride-A-Pet Potion |
-| 06:51 | **asmadguintu**: Nessie (R), Blue Jay (M) | **NastiGora**: Ride-A-Pet Potion ×7 |
-| 06:51 | **SophiaStormy136**: Crystal Egg ×18 | **JanaJanjoon11**: Ride-A-Pet Potion |
-| 06:51 | **TANSKlN**: Arctic Reindeer (NFR) ×3, Strawberry Shortcake Bat Dragon (NFR), Dalmatian (FR) ×7, Dalmatian (R), Dalmatian, Cerberus (MFR) | **Mhtrading**: Orchid Butterfly (MFR) |
-| 06:51 | **AstridXox2**: Sakura Spirit (FR) | **Kitty65844**: Golden Unicorn (NFR) ×2 |
-| 06:51 | **kaylamicmi**: Bat Dragon | **Affgfghec**: Giant Panda (NFR), Candy Cannon, Lava Dragon (MFR), Diamond Unicorn (MFR), Tiny Wings |
-| 06:51 | **cakeheheheheheh**: Giraffe (FR), Parrot (FR), Christmas Pudding Pup (N) | **Affgfghec**: Giant Panda (NFR) |
-| 06:51 | **xxjohnjokexx**: Shark (FR), Shrew (FR) | **Panci_Terbang33**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 06:51 | **Frost90white**: Peacock (R) ×2, Owlbear (FR), Cerberus (R), Chameleon ×2 | **Randomiix_3**: Horse (MFR) |
-| 06:51 | **didi_qwqq**: Prism Snake (MFR), Lunar Moon Bear (NR) | **putridiecro**: Eggnog Dog (M) |
-| 06:45 | **paldoalways34**: Crystal Egg ×18 | **Yumi_Rose8**: Ride-A-Pet Potion |
+| 07:00 | **NathanPlayz83**: Honey Badger (MFR) | **Iwokale**: Diamond Hummingbird (MFR) |
+| 07:00 | **clalouetciedh**: Ancient Dragon ×14 | **sheetyoupoop**: Ride-A-Pet Potion |
+| 07:00 | **PARAZITKA14888**: Retired Egg ×7 | **robloxplayer36708**: Ginger Cat ×2 |
+| 07:00 | **sonya201529**: Parrot (FR) | **Shukra_fr**: Balloon Unicorn (FR), Crocodile (R) |
+| 07:00 | **L0V4ERR**: Dragonfruit Fox (MR) | **alushka_kity**: Dragonfruit Fox (M) |
+| 07:00 | **TheGodx555**: Ride-A-Pet Potion ×4 | **EGOATHENOOB**: Unicorn (NR), Electric Hornet |
+| 07:00 | **jakii_030**: Cryptid (R) | **djjoha298**: Dalmatian (FR) |
+| 07:00 | **Karolechek30**: Ginger Cat (MR), Ride-A-Pet Potion | **ABOBASADA**: Snow Monkey |
+| 07:00 | **nikita_dobryachok**: Chihuahua ×2 | **ericuhfartuh**: Ride-A-Pet Potion |
+| 07:00 | **Chipotlee_211**: Candicorn (FR), Ride-A-Pet Potion | **Cris2025213F**: Dragonfruit Fox (N), Vampire Dragon (FR) |
+| 07:00 | **SophiaStormy136**: Crystal Egg ×18 | **Elshakila**: Ride-A-Pet Potion |
+| 07:00 | **KOqin10**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **Elleaveyard**: Tanuki (M), Kirin (M) |
+| 07:00 | **Lynn_n77**: Bush Elephant (R), Siamese Cat, Water Rabbit (M) | **Aubrey_Prism851**: Kiwi (R), Dragonfruit Fox, Bunny Swirl (MFR), River Otter (M), Cabbit (FR) |
+| 07:00 | **smartes1230**: Arctic Reindeer (FR), Sakura Spirit | **tokki0000**: Phantom Dragon (MFR) |
+| 07:00 | **ubnnyz**: Shark Puppy, Phantom Dragon | **Mason_lol424**: Tortoiseshell Guinea Pig |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
