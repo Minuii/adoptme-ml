@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 00:55 UTC by the scrape workflow._
+_Updated 2026-11-27 01:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 00:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 23,799 | 2026-11-27T00:45 |
-| elve | 17 | 5,039 | 2026-11-27T00:46 |
+| amvgg | 17 | 24,051 | 2026-11-27T01:00 |
+| elve | 17 | 5,106 | 2026-11-27T01:01 |
 
-## AMVGG completed trades: 70,124 total
+## AMVGG completed trades: 70,143 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 164 |
+| 2026-11-27 | 183 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 00:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:51 | **Artem_21a2**: Lava Dragon (NFR), Diamond Ladybug (NR), Unicorn (N), Black Panther | **St4rrCandyy**: Turtle (FR) |
-| 00:51 | **elproXD_7v7**: Pain au Chat ×6 | **noobek8282**: Ride-A-Pet Potion ×2 |
-| 00:51 | **KennyMcCormick067**: Polar Bear (FR) | **dnei30fast**: Fly-A-Pet Potion ×2 |
-| 00:51 | **KennyMcCormick067**: Crow (NFR) | **fluffyunicorns_932**: Parrot (FR) ×2 |
-| 00:51 | **Ix0yn**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 00:51 | **starswirl_64**: Koi Carp ×4 | **Wayda_Jaida**: Ride-A-Pet Potion |
-| 00:51 | **starswirl_64**: Halloween Evil Dachshund ×4 | **Wayda_Jaida**: Ride-A-Pet Potion |
-| 00:51 | **kaze_19364**: Alley Cat, Pomeranian (M), Hamster (N), Harp Seal (R), Snowy Mammoth (M) | **0oSamo**: Cupid Dragon (R) |
-| 00:51 | **elproXD_7v7**: Chihuahua ×6 | **Ejay2_1487**: Ride-A-Pet Potion ×2 |
-| 00:51 | **Pebble_llShelly**: Cabbit (R), Candicorn, Turtle (R) | **Silvia_Ch0rlette**: Strawberry Shortcake Bat Dragon (FR) |
-| 00:51 | **Cinzsins**: Mechapup (MFR), Dango Penguins (MFR), 2022 Birthday Party Hat ×2, Spring Bunny Feet | **Jamesbola6721**: Frost Dragon (FR) |
-| 00:51 | **Vamp1r3S0u1**: Fairy Bat Dragon (R), Goat | **sleepy_s0ren**: Cow |
-| 00:51 | **Pulseq3Void63Echo174**: Count Slothula, Pain au Chat, Pink Betta Fish ×2, Scarlet Butterfly | **Evelyy_na**: Fly-A-Pet Potion |
-| 00:51 | **Pulseq3Void63Echo174**: Count Slothula ×3 | **Evelyy_na**: Fly-A-Pet Potion |
-| 00:51 | **chocomallowdrizzle**: Sweetheart Rat (MR) | **addy_cat100**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Water Rabbit |
+| 01:00 | **P1nkteeth**: Panda (N), Pupcake | **Raee356**: Pretty Pony (NF) |
+| 01:00 | **Pulseq3Void63Echo174**: Pupcicle ×6 | **Evelyy_na**: Fly-A-Pet Potion ×2 |
+| 01:00 | **Kyuby201**: Strawberry Shortcake Bat Dragon (FR), Turtle (NR), Fairy Bat Dragon (FR), Cow | **sleepy_s0ren**: Parrot (FR) |
+| 01:00 | **elproXD_7v7**: Pain au Chat ×15 | **MoMtobias**: Ride-A-Pet Potion ×5 |
+| 01:00 | **H4LEYSGLOWX0**: Owl (NFR) | **zombiebrain_bleh**: Sugar Glider (MFR), Border Collie (NR), Rainbow Maker, Field Mouse (MFR) |
+| 01:00 | **aydachan200311**: Chocolate Chip Bat Dragon (FR), Frost Fury (FR), Fly-A-Pet Potion | **2creme1sucre**: Arctic Reindeer (FR) |
+| 01:00 | **XisokoGame**: Capricorn (NFR) | **EliBane742**: Arctic Dusk Dragon (FR) |
+| 01:00 | **PREPPY_ROBLOXWORLD1**: Flamingo (R), Kangaroo (R) | **XxSorvetyxX**: Fly-A-Pet Potion, Cow (FR), Kitty Biscuit |
+| 01:00 | **Orchid62311**: Water Moon Bear (MR), Happy Clam (R), Chihuahua (M), Samoyed (M) | **HamFam1090**: Panda (MFR) |
+| 01:00 | **Boo_kittykitty**: Pterodactyl (MFR), Hydra (NFR), Gumball Caterpillar (NFR), Nautilus (FR), Starfish (MR), Ratatoskr (M) | **Melosito_Trades**: Red Squirrel (MFR) |
+| 01:00 | **natesctrl**: Hedgehog (NFR), Matcha Cat (MFR), Winged Tiger (NR) | **OBV1LUCA**: Strawberry Shortcake Bat Dragon (MFR) |
+| 01:00 | **Boypizza132**: Bloodhound (M), Fly-A-Pet Potion, Ride-A-Pet Potion, Unicorn | **sakunary_1328**: Punk Pony (MFR) |
+| 01:00 | **BREEZY_LOVER1**: Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Cow (FR), Unicorn Horn | **Jana_ashtetic**: Mini Pig (NFR) |
+| 01:00 | **missy_Artz**: Mini Schnauzer (M) | **BROIMBROKEAHHHHH**: French Bulldog (M) |
+| 01:00 | **souIsIostt**: Kraken (MFR), Cozy Mistletroll (MR) | **forso_manyacc**: Pupcake (MFR) |
 
 ## Elvebredd value changes: 63,190 since 2023-09-16
 
