@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 10:25 UTC by the scrape workflow._
+_Updated 2026-11-27 10:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 10:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 32,836 | 2026-11-27T10:15 |
-| elve | 17 | 6,830 | 2026-11-27T10:15 |
+| amvgg | 17 | 33,079 | 2026-11-27T10:30 |
+| elve | 17 | 6,906 | 2026-11-27T10:31 |
 
-## AMVGG completed trades: 71,349 total
+## AMVGG completed trades: 71,357 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,389 |
+| 2026-11-27 | 1,397 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,14 @@ _Updated 2026-11-27 10:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:30 | **nona200986**: 2022 Birthday Party Hat | **austin_1230003**: Strawberry Tortle (FR) |
+| 10:30 | **Lapiseroch2**: Werewolf (MFR), Corn Doggo (MFR), Ride-A-Pet Potion ×2 | **anekalubitnaruto**: Cryptid (FR) ×2 |
+| 10:30 | **Masha7930**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **c0r_ps33**: Border Collie (R) |
+| 10:30 | **Dimash_bash**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR), Elephant (NFR), Shrew (R), Fly-A-Pet Potion ×2 | **omlisage_amvgg**: Frost Dragon (FR) |
+| 10:30 | **Nxdya_1439**: Jellyfish (N) | **XxBad_2PotatoxX**: Jellyfish (NFR) |
+| 10:30 | **AsianIceCold**: Narwhal (MR), Discosplosion, Purple Heart Glasses | **dnei30fast**: Ride-A-Pet Potion ×3 |
+| 10:30 | **star_adelina**: Fly-A-Pet Potion | **MILK_666997**: Bunny Swirl (N) |
+| 10:30 | **Yukitooo123**: Chihuahua ×9 | **lalasagnasburosa**: Copycat |
 | 10:25 | **REALjaylarp**: Ballet Swan | **71bad**: Ride-A-Pet Potion ×4 |
 | 10:25 | **MalikaHitam27**: Pink Betta Fish (N) ×2 | **Callme_Mary45**: Fly-A-Pet Potion |
 | 10:25 | **o277o**: Shark Puppy (NFR), Munchkin Cat (NFR), Corn Doggo (MFR), Jekyll Hydra (R), Leopard Shark (MFR), Sugar Glider (FR), Many Mackerel (NFR), Harp Seal (MFR), Ring-Tailed Lemur (NFR), Owlbear (NFR), Werewolf (R), Border Collie (FR), Lynx (MR), Alley Cat (NFR), Great Pyrenees (MR), Shark Puppy (R), Amami Rabbit (MR), Happy Duckling (M) | **AvaCometfish961**: Giraffe (FR) |
@@ -46,14 +54,6 @@ _Updated 2026-11-27 10:25 UTC by the scrape workflow._
 | 10:25 | **BIg_BoRdy**: Cake Friend, Pretty Pony, Frostbite Cub, Black Springer Spaniel, Brown Springer Spaniel, Highland Cow, Pupcicle ×3, Pink Betta Fish, Snowball Pug, Castle Hermit Crab, Hippo ×2, Ranger Beaver, Goldfish, Leopard Cat, Summer Walrus | **ItzAina_JPN**: Ride-A-Pet Potion ×10 |
 | 10:25 | **kolgotkanb**: Parrot (NFR) | **lockefoo**: Frost Dragon (FR), Turtle (FR), Fairy Bat Dragon (FR) |
 | 10:25 | **GAB5GAMMER**: Spinning Teacup Vehicle ×18 | **xxRIC_KIYxx**: Ride-A-Pet Potion |
-| 10:25 | **xsp0d3**: Chihuahua, Catte | **TheCrazyYTGamer**: Crystal Egg ×18 |
-| 10:25 | **Zydac1**: Sloth, Snowy Mammoth, Toxic Kaijunior, Frozen Penguin ×4, Primal Kaijunior | **melynagamer3**: Ride-A-Pet Potion |
-| 10:25 | **faebnny**: Ram (MFR), Ride-A-Pet Potion, Fly-A-Pet Potion ×2 | **0_0ship21**: Cupid Dragon (FR), 2022 Birthday Cake |
-| 10:25 | **rayswardrobe**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR), Albino Monkey (F) | **ll2Sc**: Tri-horned Treehopper (MFR) |
-| 10:25 | **zoeshawaiiii**: Nessie (MFR), Ice Wolf (MFR), Yule Log Dog (MFR), Snow Monkey (MFR), Polar Bear (MFR), Ice Golem (MFR), Ghost Dog (MFR), Blue Dog, Hippo (MFR) | **rayswardrobe**: Cabbit (MFR) |
-| 10:25 | **p0xompurin**: Alley Cat (MFR), Sheeeeep (MFR) | **Marysik8754**: Crow (FR) |
-| 10:25 | **superawesome0528**: Cow, Alpaca, Monkey King Crown | **Babielily1**: 2022 Birthday Cake, Unicorn Horn, 2022 Birthday Cupcake Shoes |
-| 10:25 | **clalouetciedh**: Ancient Dragon ×14 | **Kir4kaa**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
