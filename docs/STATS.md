@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 12:46 UTC by the scrape workflow._
+_Updated 2026-11-27 12:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 12:46 UTC by the scrape workflow._
 | amvgg | 17 | 35,254 | 2026-11-27T12:45 |
 | elve | 17 | 7,380 | 2026-11-27T12:46 |
 
-## AMVGG completed trades: 71,790 total
+## AMVGG completed trades: 71,841 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,830 |
+| 2026-11-27 | 1,881 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 12:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:45 | **Sara_Sope1**: Peppermint Penguin (NFR), Meerkat (R), Fly-A-Pet Potion ×2 | **No_R3gretz**: Candicorn (MFR) |
-| 12:45 | **Dash_2023crashh**: Ride-A-Pet Potion ×2 | **typol1235y6**: Longhorn Cow (NR), Little Lamb (N), Chihuahua |
-| 12:45 | **Beavercatnz123**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 12:45 | **serspect**: Water Moon Bear (N) | **Dash_2023crashh**: Ride-A-Pet Potion |
-| 12:41 | **MckDull**: Evil Chick (N) | **shenshenzzz14**: Crystal Egg ×18 |
-| 12:41 | **uniicorn20119**: Fallow Deer (FR) | **Anna_Flora1**: Ride-A-Pet Potion ×5 |
-| 12:41 | **SophiaStormy136**: Crystal Egg ×17 | **Beavercatnz123**: Ride-A-Pet Potion |
-| 12:41 | **donnotinteract**: Alpaca (NR), Unicorn Backpack, Propeller Hat, Tanuki | **jayden190614**: Hedgehog (FR) |
-| 12:41 | **Miasgossping**: Retired Egg ×5 | **Its_YukiOnline**: Pink Hightops |
-| 12:41 | **FiresMiress**: Unicorn (NR), Cotton Candy Hat | **Jenniiee_1000**: Unicorn (NFR) |
-| 12:41 | **axelatlasdDev11**: Chocolate Chip Bat Dragon, Puffin (R) | **FiresMiress**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:41 | **Thomatheus12**: Ride-A-Pet Potion, White Choccybunny, Milk Choccybunny | **No_Well56**: Bee (NFR) |
-| 12:41 | **Cookieswarsie33**: Albino Monkey (MFR), Puffer Fish (MFR) | **Kakamakapaka98**: Caterpillar (MFR) |
-| 12:41 | **Ryou_senpai05**: Ride-A-Pet Potion | **Kingbee_lol39**: Paint Sealer ×18 |
-| 12:41 | **CaptainMinesweeper**: Winged Tiger (FR), Hare (R), Munchkin Cat, Ice Cream Hermit Crab | **Popp_902**: Fairy Bat Dragon (FR) |
+| 12:55 | **Anindya1135**: Goose (FR), Shark (MFR), Copycat ×2, Ride-A-Pet Potion ×2 | **boyuancool123**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:55 | **umbrelllaas**: Ride-A-Pet Potion ×2 | **AASDRT_II**: Pancake Stack |
+| 12:55 | **editor16**: Retired Egg ×18 | **FuryMoon29021**: Gemstone Egg |
+| 12:55 | **NoobToNorthernLands**: Midnight Dragon (FR) | **fqlfyfujdyj**: Ride-A-Pet Potion ×7 |
+| 12:55 | **tradeaccountjov**: Snowman (MR) | **preppy_girll137**: Scarecrow (MR), Forest Sprite (M), Patchy Bear (MR) |
+| 12:55 | **DimaShark23**: Skele-Rex (MFR), Tombstone Ghostify, Ice Cream Cone Hat, Ride-A-Pet Potion | **Darkdemon_55555**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:55 | **mdmdnkevsjsvaj**: Stray Cat Dragon | **Amvgg_2357**: Paint Sealer |
+| 12:55 | **naturespiano**: Ride-A-Pet Potion, Red Panda | **paldoalways34**: Crystal Egg ×18 |
+| 12:55 | **bermido80**: Ride-A-Pet Potion ×4 | **ashplayingrobloxwith**: Copycat |
+| 12:55 | **svqh12**: Dalmatian (FR), Fly-A-Pet Potion ×9 | **Jeheon07**: Hedgehog (FR) |
+| 12:55 | **ashplayingrobloxwith**: Dalmatian | **Belinka_200**: Arctic Reindeer (FR), Kangaroo (R) |
+| 12:55 | **AerialVix**: Goose (R) | **ashplayingrobloxwith**: Cow (FR) |
+| 12:55 | **Jeheon07**: Frost Dragon (FR), Parrot (FR) ×4, Cryptid (FR), Strawberry Shortcake Bat Dragon (FR) | **AlinaAtRoblox**: Hedgehog (FR) ×3, Dalmatian (FR) ×7, Dalmatian (R) |
+| 12:55 | **slasabi**: Ride-A-Pet Potion ×6, Ocelot (M) | **MyStarPets1**: Quad Stroller |
+| 12:55 | **miicxza**: Cryptid (MFR) | **TrxstedAinhoken**: Parrot (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
