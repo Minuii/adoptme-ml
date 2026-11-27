@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 06:11 UTC by the scrape workflow._
+_Updated 2026-11-27 06:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 06:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 28,910 | 2026-11-27T06:00 |
-| elve | 17 | 6,027 | 2026-11-27T06:01 |
+| amvgg | 17 | 29,133 | 2026-11-27T06:15 |
+| elve | 17 | 6,053 | 2026-11-27T06:15 |
 
-## AMVGG completed trades: 70,776 total
+## AMVGG completed trades: 70,784 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 816 |
+| 2026-11-27 | 824 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,14 @@ _Updated 2026-11-27 06:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 06:15 | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion | **M1ssd3ath_x**: Kangaroo (FR) |
+| 06:15 | **jisungbi4sed**: Mini Pig (FR) | **Akeem8903133333**: Hot Doggo (FR), Fly-A-Pet Potion ×2 |
+| 06:15 | **qpicni**: Frost Dragon (FR), Tree Kangaroo (MFR), Goose (FR), 2022 Birthday Party Hat | **kaylamicmi**: Cow (FR) ×5, Unicorn Horn, Balloon Unicorn (FR), Candicorn (R) |
+| 06:15 | **flex0mp**: Cow (FR), Ride-A-Pet Potion | **bermido80**: Goose (FR) |
+| 06:15 | **serspect**: Icy Porcupine (N), Orca (N), Snowy Mammoth (N), Starfish (N), Cozy Mistletroll | **Crims0n_Dusk**: Ride-A-Pet Potion |
+| 06:15 | **roblox_user_4904540593**: Strawberry Tortle (R), Ride-A-Pet Potion | **rrtjkdcmd**: Turtle (FR) |
+| 06:15 | **antilucqa**: Ride-A-Pet Potion | **chicaraxyx**: Electric Tide Mega Neon Paint |
+| 06:15 | **smartes1230**: Chocolate Chip Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (FR) ×3, Ice Cream Cone Hat, Clover Cow (NFR) | **unicorn_queen90919**: Ballet Swan (MFR), Lamb (MFR), Leopard Shark (MFR), Fairy Bat Dragon (FR), 2022 Birthday Party Hat, Shark (MFR), Harp Seal (M), Puffer Fish (MR), Siamese Cat, Kangaroo (FR), Elephant (FR), Rain Cloud Hat, Unicorn (MFR) |
 | 06:11 | **Lilyanaa_p**: Cryptid (FR) | **smartes1230**: Dalmatian (FR) |
 | 06:11 | **Bismuth234**: Strawberry Shortcake Bat Dragon (FR), Pet Handler Pro Certificate ×6, Ride-A-Pet Potion ×6, Fly-A-Pet Potion | **ChvrlieMorningstvr**: Cow (FR), Fairy Bat Dragon (FR), Fairy Bat Dragon (R) |
 | 06:11 | **xolvrxo**: Copycat (N), Ride-A-Pet Potion ×8 | **El_t1ntero**: Werewolf (FR), Cupid Dragon (FR) |
@@ -46,14 +54,6 @@ _Updated 2026-11-27 06:11 UTC by the scrape workflow._
 | 06:11 | **Diane6282011**: Cabbit (NFR) | **rebipiu**: Cabbit (NR), Ride-A-Pet Potion |
 | 06:11 | **hondje78910**: Phantom Dragon (R) | **7tfotxdt7put**: Ride-A-Pet Potion ×6 |
 | 06:11 | **addmymain_01**: Goat (NFR) | **M1ssd3ath_x**: Peppermint Penguin (FR) |
-| 06:11 | **TrapitaAlexa**: Werewolf (FR), Winged Tiger | **n11st_0**: Papa Moose (NR) |
-| 06:11 | **0MGSARAY**: Moon Egg ×7 | **j2941s**: Ride-A-Pet Potion |
-| 06:11 | **SophiaStormy136**: Crystal Egg ×18 | **alinaya0208**: Ride-A-Pet Potion |
-| 06:11 | **ylyzacanete**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (R) | **E1IN37852**: Giant Panda (FR) |
-| 06:06 | **1MZ03Y**: Cow (FR) ×2, Hamster (MR) | **jolypearll**: Cow (NFR) |
-| 06:06 | **ItssManguito**: Strawberry Shortcake Bat Dragon (FR), Dalmatian (R) | **aIcremie_s**: Blazing Lion (FR), Cabbit (R), Ride-A-Pet Potion ×11 |
-| 06:06 | **Mhtrading**: Goose (R), Peppermint Penguin, Candy Hare (MFR) | **afks1eepys**: Cryptid (FR) |
-| 06:06 | **Omar2002548**: Red Dutch Guinea Pig | **killerEzekiel99**: Velocirooster |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
