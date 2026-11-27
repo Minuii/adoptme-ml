@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 03:11 UTC by the scrape workflow._
+_Updated 2026-11-27 03:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 03:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 26,057 | 2026-11-27T03:00 |
-| elve | 17 | 5,473 | 2026-11-27T03:01 |
+| amvgg | 17 | 26,292 | 2026-11-27T03:15 |
+| elve | 17 | 5,496 | 2026-11-27T03:15 |
 
-## AMVGG completed trades: 70,412 total
+## AMVGG completed trades: 70,420 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 452 |
+| 2026-11-27 | 460 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,14 @@ _Updated 2026-11-27 03:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:15 | **shenshenzzz14**: Ride-A-Pet Potion | **Appelkruimell**: Ancient Dragon ×11 |
+| 03:15 | **yu6iio**: Ride-A-Pet Potion | **wavehrt**: Dumpling Friend Hat |
+| 03:15 | **rainthatxx**: Jekyll Hydra (FR) | **forso_manyacc**: Alpaca (FR) |
+| 03:15 | **lupoouu2**: Orchid Butterfly (FR), Alpaca, 2022 Birthday Party Hat, Turtle (FR), Kangaroo (R), Candicorn (R), Frostbite Cub (MFR), Canadian Goose (MR), Nessie, Mr. Whiskerpips (M), Shadow Dragon Ducky | **hanb3ki**: Fairy Bat Dragon (MFR) |
+| 03:15 | **Dora_Aliska**: Cabbit (FR), Fairy Bat Dragon (FR), Kangaroo (FR) | **joakhidk129**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×3 |
+| 03:15 | **serspect**: Mexican Wolf (N) ×2, Black Rhino (N) ×3, Beaver (N), Angus Cow (N), Grinmoire (N) ×2, Storm Condor (N) | **Amnada202199**: Ride-A-Pet Potion |
+| 03:15 | **AxelCruz266**: Crystal Egg ×18 | **koviuh**: French Bulldog |
+| 03:15 | **Elwanizk**: Ride-A-Pet Potion | **AxelCruz266**: Crystal Egg ×18 |
 | 03:11 | **002Jayy**: Shark Puppy (FR), Alley Cat (R), Bunny Swirl (NR) | **lolo_gils**: Elephant (FR) |
 | 03:11 | **antuco_tuco909**: Haetae (FR), Hot Doggo (FR), Copycat (NFR), Kangaroo (FR), Ballet Swan (FR) | **CloudyFalconpro4**: Owl (FR) |
 | 03:11 | **dashadow_thingyzz**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) ×2 | **TMDung20**: Chocolate Chip Bat Dragon (NFR), Candicorn (N), Ride-A-Pet Potion |
@@ -46,14 +54,6 @@ _Updated 2026-11-27 03:11 UTC by the scrape workflow._
 | 03:11 | **moonlightbabeess**: Ranger Beaver (MFR), Bunny Swirl (M) | **4ssure**: Tuxedo Cat (MFR) |
 | 03:11 | **Inganta07**: Fly-A-Pet Potion ×3 | **baby_demonakakj**: Flash Weasel |
 | 03:11 | **IWantBGSPets1234**: Shrew, Pain au Chat | **me_logyemad**: Frost Fury (FR) |
-| 03:11 | **LovelinessFluffiness**: Dalmatian (MFR) ×2, Giant Panda (MFR), Hedgehog (MFR) ×2 | **method611491**: Bat Dragon (MFR) |
-| 03:11 | **elproXD_7v7**: Chihuahua ×3 | **Bex0100**: Ride-A-Pet Potion |
-| 03:11 | **jatikat**: Tortoiseshell Guinea Pig | **user9461037**: Albino Monkey (FR) |
-| 03:06 | **T3bas1**: Nessie (MFR) | **yan_heso030**: Jester Dragon (NFR), Candyfloss Chick (R), Crocodile (R), Happy Duckling (MR), Pig (FR), Vampire Dragon (FR), Copycat (FR), Ring-Tailed Lemur (R), English Sheepdog (N), Lamb, Ride-A-Pet Potion |
-| 03:06 | **AyiGamerUwu**: Frostbite Cub (MR) | **estrella_gamer132**: Fly-A-Pet Potion, Ride-A-Pet Potion ×8, Festive Stocking Shoes |
-| 03:06 | **rainthatxx**: Frost Unicorn | **girl45unicornmagic**: 2022 Birthday Cupcake Shoes |
-| 03:06 | **alexgameminecraft**: Toy Poodle (MR) | **rexxevs**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion |
-| 03:06 | **VictoriaDimond12345**: Budgie Witch (N) | **vivicacke17**: Buffalo (N) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
