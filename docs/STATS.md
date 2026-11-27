@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 05:46 UTC by the scrape workflow._
+_Updated 2026-11-27 05:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 05:46 UTC by the scrape workflow._
 | amvgg | 17 | 28,687 | 2026-11-27T05:45 |
 | elve | 17 | 5,992 | 2026-11-27T05:46 |
 
-## AMVGG completed trades: 70,724 total
+## AMVGG completed trades: 70,743 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 764 |
+| 2026-11-27 | 783 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 05:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 05:45 | **starfly2024**: Criosphinx, Golden Hummingbird, Purrowl | **jagarelsa2007**: Ride-A-Pet Potion |
-| 05:45 | **Miss_Lea969**: Fly-A-Pet Potion, Ride-A-Pet Potion | **IWantofFeelAlive**: Dango Penguins (R) |
-| 05:45 | **Elouisepanda**: Pancake Stack | **Usuario30x**: Dragonfruit Fox |
-| 05:45 | **av1ly**: Mrs. Whiskerpips (M), Gumball Caterpillar (M) | **Panci_Terbang33**: Ride-A-Pet Potion, Fly-A-Pet Potion |
-| 05:45 | **Panci_Terbang33**: Ride-A-Pet Potion | **iamnoonetobehere**: Black Panther |
-| 05:45 | **Adore_Pandaz**: Gingerbread Reindeer (N), Ladybug (N), Onza (N) | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 05:45 | **REALjaylarp**: Strawberry Shortcake Bat Dragon (FR) | **yurikim_5**: Arctic Dusk Dragon (MFR) |
-| 05:45 | **asteryynn**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion | **Yamajyjopyvazelinov1**: Dango Penguins (NFR), Dango Penguins ×2 |
-| 05:45 | **Sunzeliv**: Sheeeeep (MFR), Polar Bear (MFR) | **cakilla28**: Matcha Cat (MFR), Pretty Pony (MFR), Ride-A-Pet Potion ×4 |
-| 05:45 | **2025adoptmepetsuwu**: Clownfish (MFR), Coconut Friend (MR), Koala (MFR) | **Albaliala5**: Puffer Fish (MFR) |
-| 05:45 | **RelTrader**: Fly-A-Pet Potion ×2 | **ksksiskskskww2014**: Octopus (NFR) |
-| 05:45 | **Brian_Fayx**: Fly-A-Pet Potion ×3 | **personadel20011**: Unicorn (NFR) |
-| 05:36 | **PRODAZA_STARPETS**: Arctic Reindeer (FR), Glider | **Piska_sanLoshara666**: Strawberry Shortcake Bat Dragon (FR), Meerkat (R), Spring Bunny Hood |
-| 05:36 | **BUS5ED**: Horse Plush ×7, Reindeer Plush ×5, Polar Bear Plush ×5 | **ymniy_natasha**: Ride-A-Pet Potion ×5 |
-| 05:36 | **jandabi2006**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **sww_tea**: Fallow Deer |
+| 05:51 | **elcob65**: Velocirooster (R) ×2, Lava Wolf (R), Diamond Ladybug (R), Phoenix (R), Green Butterfly (R), Goldhorn (R), T-Rex (R), Axolotl (R) ×2, Cactus Friend (R), Winged Horse (R), Snow Owl (R), Cuddly Candle (R), Black Chow-Chow (R), Chimera (R), King Bee (R), Ice Moth Dragon (R) | **rianasfanboy**: Fairy Bat Dragon (FR) |
+| 05:51 | **vpzqik**: Goose | **jam_es12348**: Silly Duck (MFR) |
+| 05:51 | **paldoalways34**: Stray Cat Dragon ×15 | **KitkatIdrk**: Fly-A-Pet Potion |
+| 05:51 | **Adoptmefreeacount126**: Ride-A-Pet Potion, Mochi Meow ×4, Pain au Chat | **zoe_robloxp**: Ninja Monkey (R) |
+| 05:51 | **luvswcrifice**: Candicorn (NFR), Red Dutch Guinea Pig (NR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Dire Wolf (M) | **Ca4uccino**: Chocolate Chip Bat Dragon (FR) |
+| 05:51 | **Ji_rie**: Chocolate Chow-Chow (NFR), Shark (NR), Ride-A-Pet Potion | **dollinrot**: Pig (FR) |
+| 05:51 | **abrei2**: Kitty Bat (MFR) | **Yamajyjopyvazelinov1**: Fly-A-Pet Potion ×6 |
+| 05:51 | **rei1na3**: Sheeeeep (NFR), Nessie (NR), Tuxedo Cat (M) | **sztamcia**: Giant Anteater (NR), Moon Rabbit (MFR), Great Pyrenees (MFR), Spring Bunny Hood |
+| 05:51 | **Art84em**: Peppermint Penguin (FR), Cow (FR), Fly-A-Pet Potion | **pobl_liza200910**: Strawberry Shortcake Bat Dragon (FR) |
+| 05:51 | **paldoalways34**: Crystal Egg ×18 | **XxRip_Demonx**: Ride-A-Pet Potion |
+| 05:51 | **manualep8**: Alpaca (FR), Strawberry Shortcake Bat Dragon | **personal_stalker69**: Dalmatian (FR) |
+| 05:51 | **SophiaStormy136**: Crystal Egg ×18 | **tosluumped**: Ride-A-Pet Potion |
+| 05:51 | **Floriandeva**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×2 | **sukiwuk1**: Border Collie (R) |
+| 05:51 | **luvdokyeomie**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 05:51 | **S4rc4st1cs1**: Hoverboard | **Happy_Rainbowgirls**: Pain au Chat ×2 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
