@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 19:55 UTC by the scrape workflow._
+_Updated 2026-11-27 20:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 19:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 42,490 | 2026-11-27T19:45 |
-| elve | 17 | 9,041 | 2026-11-27T19:46 |
+| amvgg | 17 | 42,753 | 2026-11-27T20:00 |
+| elve | 17 | 9,125 | 2026-11-27T20:01 |
 
-## AMVGG completed trades: 73,647 total
+## AMVGG completed trades: 73,664 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 3,687 |
+| 2026-11-27 | 3,704 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 19:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:55 | **ITSMECINNAADDMEBACKK**: Kiwi Kiwi | **Thewhitedove_doggy12**: Red Panda Ducky (M) |
-| 19:55 | **cherry_blast2**: Amethyst Skies Mega Neon Paint | **MyStarPets1**: Princess Carriage |
-| 19:55 | **reaInyancat**: Easter Egg Stroller | **guilt093**: Fly-A-Pet Potion |
-| 19:55 | **wizngs**: Alpaca (R) | **egoklled**: Yule Log Dog (NR), Ice Cream Cone Hat, Mule (N), S'mores Raccoon (N), Goth Shoes, Pupcicle (N) |
-| 19:55 | **mellqxxrb**: Bubblegeist (M) | **star_mo0ney**: Fly-A-Pet Potion ×2 |
-| 19:55 | **AvaNari2010**: Burger Bear | **MyStarPets1**: Pupcicle |
-| 19:55 | **itemhouse1**: Unicorn (NFR), Fly-A-Pet Potion ×2, Grinmoire | **RoseGold_101010**: Pig (R) |
-| 19:55 | **943049209d**: Ride-A-Pet Potion ×5, Pet Handler Pro Certificate ×2, Pink Hightops | **Real_Dream90z**: Pig (R) |
-| 19:55 | **Lycoris_Achlys**: Fly-A-Pet Potion ×7 | **oreocatking**: Border Collie |
-| 19:55 | **Blinxcool**: Rain Cloud Hat | **amiazz_i**: Pretty Pony (MFR) |
-| 19:55 | **kttnk_qn0**: Gemstone Egg ×2 | **ItssMeBrookie**: Ride-A-Pet Potion |
-| 19:55 | **BasketballGod1828**: Ride-A-Pet Potion | **zephyrgoatt**: Aviator Hat |
-| 19:55 | **bq1r_35**: Fly-A-Pet Potion | **hellokid8203**: Dire Wolf (M) |
-| 19:55 | **xTheStitchx**: Harp Seal (N) | **milkixis1**: Ride-A-Pet Potion ×5 |
-| 19:55 | **leoncitoUwU12345**: Elephant (FR), Turtle (FR), Kangaroo (FR), Pig, Crocodile (FR), Ride-A-Pet Potion ×8, Brown Bear | **Kotosonoha**: Dalmatian (FR) |
+| 20:00 | **AMOANICOLE78**: 2022 Birthday Party Hat | **youchi_nagi**: Border Collie, Pig (FR), Ride-A-Pet Potion |
+| 20:00 | **Squid_GamerS11**: Shadow Dragon (NFR) | **sorrwed**: Cryptid (NFR), Dalmatian (MFR), Dalmatian (FR), Undead Jousting Horse (FR), Cow (FR), Candicorn (N), Spring Bunny Hood, Goose (R) |
+| 20:00 | **loveefawn**: Ride-A-Pet Potion | **iiiPinkyBlossomx**: Gemstone Egg ×2 |
+| 20:00 | **Goodnews2013**: Flaming Fox (N), Business Monkey | **nly4sh**: Giant Anteater, Ride-A-Pet Potion ×2 |
+| 20:00 | **kyliejacie2**: Candicorn (R), Unicorn (N) | **nornomm**: Unicorn (M), Chihuahua (M) |
+| 20:00 | **altforamvgg_x**: Little Lamb (N), Clumpty (N) ×2, Zebra (M), Ant (N), Mouse (N), Retired Egg | **kittyscute20**: Ride-A-Pet Potion |
+| 20:00 | **TH_lox0**: Cow (FR), Turtle (FR), Fly-A-Pet Potion ×5 | **Fox7Art**: Chocolate Chip Bat Dragon (FR) |
+| 20:00 | **1MZ03Y**: Fly-A-Pet Potion ×10 | **noka_pro6**: Kangaroo (FR) |
+| 20:00 | **staceylo12**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×8 | **caby_vr**: Siamese Cat (FR) |
+| 20:00 | **elfania_3**: Mouse ×3, Orangutan ×3, Galapagos Sea Lion, Ms. Muffet, Camel | **altforamvgg_x**: Corgi, Red Panda, Shiba Inu |
+| 20:00 | **Robloxiant7s9h4u0b**: Thunderfisher ×3, Golden Dragon | **xy_hmayy**: Crystal Egg ×3 |
+| 20:00 | **WowKeramica1**: Kangaroo (FR), Border Collie (R), Mr. Whiskerpips (FR) | **Diego_2013ult**: Goose (R) |
+| 20:00 | **karagolgeTR10**: Latte Kitsune (MFR), Swan (MFR), Golden Penguin (MFR), Fly-A-Pet Potion, Pupcake (N) | **itz_ckaM1441**: Hedgehog (FR) |
+| 20:00 | **baysan59**: Strawberry Shortcake Bat Dragon (NFR), Fly-A-Pet Potion | **leonel89038**: Blazing Lion (FR), Peppermint Penguin (FR) |
+| 20:00 | **HET3AKOHAM**: Frog (MFR), Unicorn (MFR), Squid (NFR) | **kwrazyss_143**: Turtle (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
