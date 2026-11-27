@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 02:46 UTC by the scrape workflow._
+_Updated 2026-11-27 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 02:46 UTC by the scrape workflow._
 | amvgg | 17 | 25,798 | 2026-11-27T02:45 |
 | elve | 17 | 5,405 | 2026-11-27T02:46 |
 
-## AMVGG completed trades: 70,348 total
+## AMVGG completed trades: 70,382 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 388 |
+| 2026-11-27 | 422 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 02:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:36 | **iitzy_kitti**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion | **kiaraaalol1**: African Wild Dog (FR) |
-| 02:36 | **XxStxrly123yt**: Candy Hare (N), Ride-A-Pet Potion | **BLEIZY1378**: Munchkin Cat (R) |
-| 02:36 | **robloxgamer_19831**: Aurora Fox (MFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×5 | **s6ythed**: Cryptid (FR) |
-| 02:36 | **carlkilling**: Jester Dragon (FR) | **XxSummerxX_0123**: Ride-A-Pet Potion ×7 |
-| 02:36 | **Vesolxii**: Crow (FR), Mini Pig (FR), Munchkin Cat (FR), Arctic Fox (R) | **kxzuaa**: Owl (FR) |
-| 02:36 | **lightxdesire**: Frost Dragon (FR), Goose (FR), Caterpillar, Ice Cream Cone Hat | **kxzuaa**: Royal Mistletroll (MFR) |
-| 02:36 | **1Biahsz_altx**: Ride-A-Pet Potion | **minv9a**: Rainbow Trout (M) |
-| 02:36 | **aylacool45**: Siamese Cat (R), Fairy Bat Dragon | **amshakinss**: Turtle (NFR) |
-| 02:36 | **SophiaStormy136**: Crystal Egg ×18 | **Addiisthebestalt2**: Ride-A-Pet Potion |
-| 02:36 | **lin655732**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 02:36 | **9nvls**: Siamese Cat (N) ×2, Dalmatian, Goat (FR) | **Lxdyxx**: Goat (MFR), Mini Pig, Hot Doggo (R) |
-| 02:36 | **FrNotSummer**: Puffin (MFR) ×2, Alley Cat (MFR), Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R) ×2, Arctic Reindeer (FR), Chocolate Chip Bat Dragon (R), Undead Jousting Horse (R), Copycat (N), Frostbite Bear, Hive Backpack, Cherry-On-Top, Arctic Fox (NR), Diamond Butterfly (FR), Siamese Cat | **Marilynbrandt662**: Bat Dragon (FR) |
-| 02:36 | **dearchrysalis**: Retired Egg | **littlefelonies**: Storm Condor |
-| 02:36 | **Themr_harlen0220**: Fairy Bat Dragon (FR), Count Slothula (R) | **peachyrei_8**: Cabbit (FR) |
-| 02:36 | **honiipi**: Owlbear (MFR), Goth Shoes | **pdntcare**: Sugar Glider (NFR) |
+| 02:55 | **Ogingagh1011**: Border Collie (MFR) | **hanb3ki**: Giant Panda (FR), Turtle (FR) |
+| 02:55 | **St0rm_Sniper89**: Werewolf | **l0v3y0u_o**: Clownfish (MR), Cattuccino (M), Boohoo (M), Frankenfeline (M), Ermine (N), Blue Cat (M), Aye Aye (M), Pupcake, Pain au Chat, Poodle (M), Rodeo Bull (N), Ostrich, Icy Porcupine (N), Mole (N), Thunderfisher (N), Wren (N), Clownfish, Rabbit (N) |
+| 02:55 | **ang3licbwnni**: Jester Dragon (N) | **Elias0160Shiro**: Werewolf, Copycat |
+| 02:51 | **SparkleHusky12**: Pandaguin Glooptodog, Bobageist | **littlefelonies**: Fennec Fox ×2 |
+| 02:51 | **antuco_tuco909**: Groundhog (N), Strawberry Shortcake Bat Dragon (FR), Goose, Skele-Rex (NFR) | **Seemydescfortrade**: Haetae (FR) |
+| 02:51 | **pwwaazzz**: Turtle (NFR), Border Collie | **personal_stalker69**: Border Collie (NFR), Arctic Fox, Fly-A-Pet Potion ×4 |
+| 02:51 | **Laryxn00**: Halloween Evil Dachshund | **lianchik_cutee**: Eggnog Dog |
+| 02:51 | **SophiaStormy136**: Crystal Egg ×18 | **Itz_Marsie**: Ride-A-Pet Potion |
+| 02:51 | **solkabuai**: Fly-A-Pet Potion | **zianagirls**: S'mores Raccoon (FR) |
+| 02:51 | **kurtykurty12**: Strawberry Shortcake Bat Dragon (NFR), Pancake Stack, Mochi Meow (MFR), Propeller Hat, Jeff's Nametag, Cotton Candy Hat, Butter Knife, Angus Cow (M), Bready Necklace, White Chef Hat, Unfortunate Eyelashes, Heart Bow, Eaten Donut | **1Thebigbossboy**: Chocolate Chip Bat Dragon (NFR) |
+| 02:51 | **Babyofy5**: Fly-A-Pet Potion ×2 | **cher_namagandaa**: Naughty Mistletroll, Bauble Buddies, Puffer Fish, Sushi Penguin |
+| 02:51 | **slasabi**: Ride-A-Pet Potion ×6, Ocelot (M) | **zzrubx**: Quad Stroller |
+| 02:51 | **Dangermousefan0**: Ride-A-Pet Potion ×13 | **hiwhat043**: Border Collie (R) |
+| 02:51 | **princesslolly08**: Mini Pig (MFR) | **marblezlost**: Owl (FR), Parrot (FR), Spring Bunny Hood, Goat |
+| 02:51 | **bg_waa**: Yeti (MFR) | **RileyforSure28**: Rain Cloud Hat |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
