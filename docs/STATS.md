@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 01:46 UTC by the scrape workflow._
+_Updated 2026-11-27 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 01:46 UTC by the scrape workflow._
 | amvgg | 17 | 24,809 | 2026-11-27T01:45 |
 | elve | 17 | 5,235 | 2026-11-27T01:46 |
 
-## AMVGG completed trades: 70,228 total
+## AMVGG completed trades: 70,255 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 268 |
+| 2026-11-27 | 295 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 01:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:40 | **Swimguwin**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 01:40 | **myxa5494**: Arctic Reindeer (FR), Lion (R), Ride-A-Pet Potion ×7 | **Mariacooltime**: Dalmatian (FR) |
-| 01:40 | **zandermarioo**: Emu (MFR), Sushi Penguin, Axolotl (FR), Pain au Chat (N), Diamond Unicorn (R), Ride-A-Pet Potion | **Jazz1402939**: Pupcicle (M) |
-| 01:40 | **jkpf8**: Dango Penguins (R) | **pugq33n23**: Queen Bee (FR) |
-| 01:40 | **KennyMcCormick067**: Dalmatian (FR), Goose (FR), Arctic Fox (R), Mechapup (R), Matcha Cat, Chocolate Dutch Guinea Pig | **fluffyunicorns_932**: Crow (FR) |
-| 01:40 | **P1xk1t**: Jester Dragon (FR) ×2 | **AimWhaitOmg2**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 |
-| 01:40 | **butterflieshi**: Frostbite Bear, Copycat | **alexgameminecraft**: Crocodile (FR) |
-| 01:40 | **mitskiixmywakix**: Black Chow-Chow (MFR), Fly-A-Pet Potion ×2, 2D Kitty ×2 | **Chiyothebestrust**: Kangaroo (R) |
-| 01:40 | **lollipopleah7861**: Dark Choccybunny (N), Dark Choccybunny ×4 | **Hey_Dant123**: Ride-A-Pet Potion |
-| 01:40 | **Princesitasofia979**: Copycat (N), Werewolf | **kaibodydump**: Jekyll Hydra (FR) |
-| 01:40 | **eeveelover2007lover**: Dango Penguins (R) ×2, Dragonfruit Fox, Unicorn, Latte Kitsune (R) | **yRafah_Bloxinha**: Munchkin Cat (FR) |
-| 01:40 | **kaylamicmi**: Chocolate Chip Bat Dragon (FR) ×4, Strawberry Shortcake Bat Dragon ×5, Dalmatian, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **disapp6ar**: Dalmatian (MFR) |
-| 01:40 | **AMVGGTRADES7**: Dalmatian (FR), Strawberry Shortcake Bat Dragon (FR) ×3, Chocolate Chip Bat Dragon (FR), Peppermint Penguin (R) | **CommonTotravelerAx3**: Giraffe (FR) |
-| 01:40 | **vcxitb_new**: Strawberry Shortcake Bat Dragon (FR), Jousting Horse, Dragonfruit Fox | **JacobeanLifestyle**: Winged Tiger (NFR) |
-| 01:40 | **Btstvdyndynfy9**: Parrot (FR), Green Amazon (MFR) | **Car1os_xd**: Rainbow Maker, Mini Pig (NFR) |
+| 01:55 | **emsstradingg**: Fairy Bat Dragon (FR) | **9vvdx**: Sheeeeep (NFR), Onza (M) |
+| 01:55 | **dedene123r32**: Unicorn Horn, Owlbear | **ContentOtter9075**: Sushi Penguin (MFR), Pet Handler Pro Certificate |
+| 01:55 | **joresse123456**: Turtle (NFR), Frost Fury (NFR), Crocodile | **disparadact**: Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×2 |
+| 01:55 | **arrozconleche1234648**: Dango Penguins (NR), Flash Weasel, Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Matcha Cat | **KaiaAnn15**: Cabbit (FR) |
+| 01:55 | **thomasgrey_348**: Strawberry Shortcake Bat Dragon (FR) | **gr4ylikesc4ts**: Cow (FR), Siamese Cat, Husky (NFR), Lamb (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 01:55 | **arrozconleche1234648**: Bush Elephant (R), Fly-A-Pet Potion | **cpenk3211**: Candyfloss Chick |
+| 01:55 | **cami160313**: Haetae, Border Collie | **disparadact**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 01:55 | **Ruperto_1297**: Cow (NFR) | **SadieVangShort**: Cow (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 01:55 | **misakoyr**: Chihuahua ×3 | **nzjtla**: Crystal Egg ×18 |
+| 01:55 | **bisnaguinhahomisecoa**: Gingerbread Reindeer ×3, Electric Hornet, Stray Cat Dragon | **Sonjabanana27**: Sloth (FR) |
+| 01:55 | **hotjerbear**: Frost Dragon (MFR), Frost Dragon (FR), Owl (FR) | **realdolIxiq**: Balloon Unicorn (MFR) |
+| 01:55 | **CraftsxM3cha029**: Sushi Penguin (R), Sunglider, Winter Buck (R), Zodiac Minion Chick (N) | **kateurinacat**: Alley Cat |
+| 01:55 | **isadoralapro**: Dango Penguins (NR), Flash Weasel, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **arrozconleche1234648**: Candyfloss Chick |
+| 01:51 | **Goodbyes26**: Crystal Egg ×18 | **baldfairylol**: Fly-A-Pet Potion |
+| 01:51 | **Goodbyes26**: Gemstone Egg ×3 | **VelvetFlame2908**: Crystal Egg ×18 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
