@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 07:01 UTC by the scrape workflow._
+_Updated 2026-11-27 07:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 07:01 UTC by the scrape workflow._
 | amvgg | 17 | 29,856 | 2026-11-27T07:00 |
 | elve | 17 | 6,230 | 2026-11-27T07:01 |
 
-## AMVGG completed trades: 70,880 total
+## AMVGG completed trades: 70,906 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 920 |
+| 2026-11-27 | 946 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:00 | **NathanPlayz83**: Honey Badger (MFR) | **Iwokale**: Diamond Hummingbird (MFR) |
-| 07:00 | **clalouetciedh**: Ancient Dragon ×14 | **sheetyoupoop**: Ride-A-Pet Potion |
-| 07:00 | **PARAZITKA14888**: Retired Egg ×7 | **robloxplayer36708**: Ginger Cat ×2 |
-| 07:00 | **sonya201529**: Parrot (FR) | **Shukra_fr**: Balloon Unicorn (FR), Crocodile (R) |
-| 07:00 | **L0V4ERR**: Dragonfruit Fox (MR) | **alushka_kity**: Dragonfruit Fox (M) |
-| 07:00 | **TheGodx555**: Ride-A-Pet Potion ×4 | **EGOATHENOOB**: Unicorn (NR), Electric Hornet |
-| 07:00 | **jakii_030**: Cryptid (R) | **djjoha298**: Dalmatian (FR) |
-| 07:00 | **Karolechek30**: Ginger Cat (MR), Ride-A-Pet Potion | **ABOBASADA**: Snow Monkey |
-| 07:00 | **nikita_dobryachok**: Chihuahua ×2 | **ericuhfartuh**: Ride-A-Pet Potion |
-| 07:00 | **Chipotlee_211**: Candicorn (FR), Ride-A-Pet Potion | **Cris2025213F**: Dragonfruit Fox (N), Vampire Dragon (FR) |
-| 07:00 | **SophiaStormy136**: Crystal Egg ×18 | **Elshakila**: Ride-A-Pet Potion |
-| 07:00 | **KOqin10**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **Elleaveyard**: Tanuki (M), Kirin (M) |
-| 07:00 | **Lynn_n77**: Bush Elephant (R), Siamese Cat, Water Rabbit (M) | **Aubrey_Prism851**: Kiwi (R), Dragonfruit Fox, Bunny Swirl (MFR), River Otter (M), Cabbit (FR) |
-| 07:00 | **smartes1230**: Arctic Reindeer (FR), Sakura Spirit | **tokki0000**: Phantom Dragon (MFR) |
-| 07:00 | **ubnnyz**: Shark Puppy, Phantom Dragon | **Mason_lol424**: Tortoiseshell Guinea Pig |
+| 07:11 | **LUISMATEO3112**: Ride-A-Pet Potion | **Yurishi_Kashigava**: Ant (M), Kitty Bat |
+| 07:11 | **adriel_24k**: Cow, Candicorn (R) | **sprxngbonnie**: Turtle (FR), 2022 Birthday Party Hat |
+| 07:11 | **ciruchiroo**: Cow | **bniicake**: Fly-A-Pet Potion ×12, Ride-A-Pet Potion ×6 |
+| 07:11 | **lisamod65321**: Ride-A-Pet Potion | **yshikza**: Crystal Egg ×18 |
+| 07:11 | **nwksuv**: Dog (NR), Dog (N) ×4, Beluga Whale (NR) | **noor_san0**: Ride-A-Pet Potion |
+| 07:11 | **virgo228a**: Black-Chested Pheasant (NFR) | **mdmdnkevsjsvaj**: Cow (FR) |
+| 07:11 | **nona200986**: Koi Carp (N) | **Callme_Mary45**: Ride-A-Pet Potion |
+| 07:11 | **peachieskiwi**: Dragonfruit Fox (NR) | **SieunOoOo0**: Dragonfruit Fox (N), Chihuahua |
+| 07:11 | **Kali_girl790**: Dango Penguins (N), Arctic Fox (R) | **peachieskiwi**: Unicorn Horn |
+| 07:11 | **ellielielielieee**: Ride-A-Pet Potion ×2 | **inquireese**: Pet Handler Pro Certificate |
+| 07:11 | **inquireese**: Ride-A-Pet Potion | **Appelkruimell**: Alicorn ×11 |
+| 07:06 | **roblox_user_8676283275**: Kangaroo (FR), Flamingo (FR) | **vanillqsz**: Golden Chow-Chow (MFR), Fly-A-Pet Potion |
+| 07:06 | **Inganta07**: Fly-A-Pet Potion ×3 | **1kweezzee**: Flash Weasel |
+| 07:06 | **perit4733**: Copycat, Ride-A-Pet Potion ×2, Classic Trade Stand | **Auziato25**: Mochi Meow (M) ×3 |
+| 07:06 | **foovva**: Turtle (R) | **sunflower103512**: Kangaroo (R), Frost Fury (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
