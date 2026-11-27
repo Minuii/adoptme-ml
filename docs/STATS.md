@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 17:01 UTC by the scrape workflow._
+_Updated 2026-11-27 17:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 17:01 UTC by the scrape workflow._
 | amvgg | 17 | 39,550 | 2026-11-27T17:00 |
 | elve | 17 | 8,384 | 2026-11-27T17:01 |
 
-## AMVGG completed trades: 72,749 total
+## AMVGG completed trades: 72,823 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,789 |
+| 2026-11-27 | 2,863 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 17:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:00 | **ziiwca**: Cow (FR) ×2, Ride-A-Pet Potion | **Bismuth234**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:00 | **IsraaxD007**: Fly-A-Pet Potion ×3 | **santiagoxdeleon**: Ice Cream Cone Hat |
-| 17:00 | **BMWSHKA666**: Winter Fawn (N) | **anastasia2_lol**: Chihuahua |
-| 17:00 | **BLACKGLITTERKITTY**: Balloon Unicorn (FR) | **Ulatrtuikieu13**: Crow (FR) |
-| 17:00 | **Milena_Minecrafter08**: Halloween Slime Mega Neon Paint, Icy Porcupine, Gold Mahi Mahi, Egg Basket Stroller, Unicorn Ducky, Scarecrow Horse | **55lvr**: Ride-A-Pet Potion |
-| 17:00 | **tofallishuman**: Catte ×3 | **Alana2K201**: Fly-A-Pet Potion |
-| 17:00 | **qesangrahan**: Velvet Fuchsia Mega Neon Paint, Electric Tide Mega Neon Paint, Candy Flare Mega Neon Paint | **55lvr**: Ride-A-Pet Potion ×3 |
-| 17:00 | **El_tacosbs**: Ride-A-Pet Potion, Skelicorn | **paldoalways34**: Crystal Egg ×18 |
-| 17:00 | **cursedqxxx**: Ride-A-Pet Potion ×2 | **hiuretic7**: Dragonfruit Fox |
-| 17:00 | **itz_dancer5496**: Frost Dragon (FR), Dragonfruit Fox, Golden Chow-Chow | **hiuretic7**: Tio De Nadal (MFR), Unicorn Horn |
-| 17:00 | **lostinawinterstorm**: Dalmatian (FR) | **ZenaSuguru_Get0**: Cryptid (FR) |
-| 17:00 | **Vika4ka20q**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 17:00 | **Crystal_34530**: Hedgehog (FR), Dalmatian (R), Tortuga de la Isla (R), Fly-A-Pet Potion | **brinIeybaddie**: Evil Unicorn (NFR), 2022 Birthday Party Hat |
-| 17:00 | **Susabaoen**: Red Dutch Guinea Pig (NFR), Fly-A-Pet Potion | **laylalooohoo23**: Owlbear (NFR) |
-| 16:55 | **hahagirlfreind**: Cake Friend (M), Pupcicle (MR), Hamster (M), Cattuccino (M) | **starcode_slowww**: Cow (FR) |
+| 17:11 | **Backupdoinky**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 17:11 | **Rbd_JP**: Kookaburra (M) | **Xavit_860**: Diamond Hummingbird (NR), Pain au Chat (M), Longhorn Cow (MR), Toy Poodle (MR), Fly-A-Pet Potion |
+| 17:11 | **slothloverforever6**: Purrowl (M) | **Jqwuop**: Ride-A-Pet Potion ×2 |
+| 17:11 | **turbo142142**: Hoverboard, Fly-A-Pet Potion | **lovealleycats**: Ride-A-Pet Potion ×2 |
+| 17:11 | **olddeathcore**: Kangaroo (FR) | **Draggondung**: Copycat (NFR) |
+| 17:11 | **4URANZ3**: Frostbite Bear (FR), Unicorn Horn, Jester Dragon, Copycat | **Adhenry2014**: Dragonfruit Fox (MFR) |
+| 17:11 | **lox_78630**: Ride-A-Pet Potion ×2 | **1220birth1005100**: Lamb (FR) |
+| 17:11 | **4iix_rII**: Alley Cat (MFR), Cow (FR), Shark Puppy (FR), Alley Cat (R), Alley Cat, Candy Hare (NR), Ride-A-Pet Potion | **0MGITSADD1E**: Hedgehog (FR) |
+| 17:11 | **lordbeam31**: Pig (NFR), Lamb (NFR), Field Mouse (R), Ride-A-Pet Potion ×2 | **SPRINGTREP57546**: Cow (FR) |
+| 17:11 | **lisamod65321**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 17:11 | **hiuretic7**: Frost Dragon (FR), Golden Chow-Chow, Ride-A-Pet Potion ×2 | **trjstantristam**: Owl (FR), Strawberry Shortcake Bat Dragon (R) |
+| 17:11 | **Mcdonaldsofaustralia**: Hedgehog (FR) ×3, Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **urstrulykaar1**: Crow (NFR) |
+| 17:11 | **quesodrilo**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 17:11 | **urstrulykaar1**: Owl (FR) ×2 | **dw4rkz**: Balloon Unicorn (FR), Balloon Unicorn, Cow (FR) ×3 |
+| 17:11 | **userulikk**: Cow (FR), Toy Monkey (MFR), Octopus (MFR), Blue Ringed Octopus (M), Ninja Monkey (NFR), Gaelic Fae (NFR), Mechapup, Kangaroo (R), Flamingo (R), Tree Kangaroo (N), Goldhorn (NFR), Dodo (NR), Cactus Friend (NFR), Turtle (FR), Shetland Pony Light Brown (NR), French Bulldog (N), Banana Hat | **theseller63**: Owl (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
