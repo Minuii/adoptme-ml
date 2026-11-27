@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 22:55 UTC by the scrape workflow._
+_Updated 2026-11-27 23:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 22:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 45,605 | 2026-11-27T22:45 |
-| elve | 17 | 9,797 | 2026-11-27T22:46 |
+| amvgg | 17 | 45,848 | 2026-11-27T23:00 |
+| elve | 17 | 9,881 | 2026-11-27T23:01 |
 
-## AMVGG completed trades: 74,439 total
+## AMVGG completed trades: 74,473 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,479 |
+| 2026-11-27 | 4,513 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 22:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 22:51 | **XxwizzizxX**: Scarebear | **wqdg_q**: Crystal Egg ×18 |
-| 22:51 | **VirKa_SUPER2**: Red Squirrel (MFR), Clownfish (M), Kitsune (NFR) | **StfvNat**: Siamese Cat |
-| 22:51 | **luvlycalista**: Mochi Meow ×7 | **Bellaistherockstar_9**: Ride-A-Pet Potion |
-| 22:51 | **skibidiipingu**: Crimson Cape (M), Starfish (M), Bolt (M) | **Rxddie_panda**: Count Slothula (N) |
-| 22:51 | **XxkfirxbushxX**: Evil Unicorn (FR) | **GAV_6066**: Cryptid, Papa Moose, Pet Handler Pro Certificate, Ride-A-Pet Potion |
-| 22:51 | **SophiaStormy136**: Crystal Egg ×17 | **ayamekaj**: Ride-A-Pet Potion |
-| 22:51 | **Wolfffks**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 22:51 | **SophiaStormy136**: Crystal Egg ×18 | **cuttiiesara**: Ride-A-Pet Potion |
-| 22:51 | **zombiifangs**: Strawberry Shortcake Bat Dragon (MFR), Chocolate Chip Bat Dragon (FR), Flaming Fox (MR) | **amvgg_fortrades**: Balloon Unicorn (FR) ×3 |
-| 22:51 | **hii_itsari3**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **aylasxjellycat**: Goat |
-| 22:51 | **x0xGamesx0x**: Retired Egg ×18 | **izkzari**: Squid |
-| 22:51 | **D4rkCurse**: Dodo (MFR), Jousting Horse (NR) | **Ameera_109**: Lava Wolf (MFR) |
-| 22:51 | **rayswardrobe**: Jellyfish (MFR), Ride-A-Pet Potion | **Leck_aia181**: Emperor Gorilla (MFR) |
-| 22:51 | **Fxderchen2**: Jester Dragon | **Poppycatplays909**: Hooray ×2 |
-| 22:51 | **LVNA_XVZ**: Ride-A-Pet Potion ×3 | **silenceddfeelings**: Otter (M) ×11, Boohoo (N) |
+| 23:00 | **animegirlfan121**: Unicorn (R) | **roxipalo123128**: Ride-A-Pet Potion ×2 |
+| 23:00 | **Liliamedjek789**: Giraffe (FR) | **Mitsuri_Chan0w**: Alpaca (MFR) |
+| 23:00 | **JoymiX_120**: Gemstone Egg ×2 | **YeleTale**: Ride-A-Pet Potion |
+| 23:00 | **Freep2603**: Christmas Pudding Pup (MFR), Sea Angel (M) | **L0VEKARS0N**: Haetyphoon (MFR) |
+| 23:00 | **ixwzs1**: Happy Clam, Stray Cat Dragon ×2 | **rodwavethegoated**: Stray Cat Dragon (M) |
+| 23:00 | **roblox_user_2641599159**: Stray Cat Dragon (M) | **Navilolp**: Ride-A-Pet Potion ×2 |
+| 23:00 | **SoloGhost442149**: Turtle (FR) | **Annie_isgiving**: Tilcayo (FR) |
+| 23:00 | **Elwanizk**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 23:00 | **nfrhectirchis**: Candyfloss Chick (FR), Papa Moose, Fly-A-Pet Potion, Chocolate Chip Bat Dragon Backpack | **benju_16**: Cabbit (FR) |
+| 23:00 | **2Freya222**: Rainbow Maker, Cow, Harp Seal (MFR), Unicorn Horn, Rain Cloud Hat, Spring Bunny Hood | **Slimeswaztaken44**: Balloon Unicorn (FR) |
+| 23:00 | **sorrowpage**: Balloon Unicorn (FR), Unicorn Horn, Spring Bunny Hood, Dragonfruit Fox (M), Chihuahua (M), Dire Wolf (MFR), Shiver Wolf (M), Unicorn (N), Pet Handler Pro Certificate ×7, Amber Butterfly (M), Stray Cat Dragon (M), Stray Cat Dragon (N) | **Slimeswaztaken44**: Frost Dragon (FR) |
+| 23:00 | **sofito4ka007_a**: Angus Bull, Chameleon, Dimension Drifter, Black Chow-Chow, Temple Friend | **0002callum**: Brown Springer Spaniel |
+| 23:00 | **m4ritx7**: Tri-horned Treehopper (MFR), Fairy Bat Dragon (FR), Christmas Pudding Pup | **cutesyghali**: Matcha Cat (MFR) |
+| 23:00 | **Delightefull**: Crocodile (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **v6mpireeee**: Kangaroo (R) |
+| 23:00 | **K0qwry**: Harp Seal (MFR), Peppermint Penguin Sticker, Sledding Penguin Sticker, Volcanic Rhino Sticker, Cherry Blossom Flower Sticker ×2, Cherry Blossom Tree Sticker ×2 | **Emma2009974**: Ram (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
