@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 19:41 UTC by the scrape workflow._
+_Updated 2026-11-27 19:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 19:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 42,207 | 2026-11-27T19:30 |
-| elve | 17 | 8,979 | 2026-11-27T19:31 |
+| amvgg | 17 | 42,490 | 2026-11-27T19:45 |
+| elve | 17 | 9,041 | 2026-11-27T19:46 |
 
-## AMVGG completed trades: 73,559 total
+## AMVGG completed trades: 73,595 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 3,599 |
+| 2026-11-27 | 3,635 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 19:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:41 | **dasha2p14**: Pupcicle (N) | **Kumamamam5**: Pupcicle ×4 |
-| 19:41 | **zoexplut0**: Pelican (NFR) | **yuag12345**: Strawberry Shortcake Bat Dragon (R), Cow |
-| 19:41 | **Meowkittiikat**: Jester Dragon (NFR), Leopard Cat (MR) | **xmelx2z**: 2022 Birthday Party Hat |
-| 19:41 | **xXNarynaryXx**: Lion (NFR) | **DidIJustMakeThisAcc**: Mini Pig (FR) |
-| 19:41 | **luvlycalista**: Flamingo (R), Werewolf (R) | **sweetn6thing**: Cabbit (FR) |
-| 19:41 | **christoqherrr**: Pinkypillar ×9 | **AilinSelene010**: Pinkypillar (N) ×2 |
-| 19:41 | **Xnixht**: Hot Doggo (FR), Strawberry Shortcake Bat Dragon (FR) | **nikita_dobryachok**: Evil Unicorn (FR) |
-| 19:41 | **pleaserobloxsofia**: Ride-A-Pet Potion | **luvnekoomi**: Snowball Pug (N) |
-| 19:41 | **rose_park579**: Santa Hat | **AdoptMe_Girl5573**: Ice Cream Cone Hat |
-| 19:41 | **pleaserobloxsofia**: Christmas Pudding Pup (FR), Christmas Pudding Pup | **Amthequeentfv**: Unicorn (MFR) |
-| 19:41 | **puchainela77**: Kraken (NFR) | **shadow_gars**: Wood Pigeon |
-| 19:41 | **cannotaffordme**: Frost Dragon (MFR), Arctic Dusk Dragon (MFR), Glacier Kitsune (MFR), Polar Bear (MFR) | **Stabed_H3art**: Parrot (MFR), Evil Unicorn (MFR) |
-| 19:41 | **karamelka486**: Chocolate Chip Bat Dragon (FR), Jellyfish (NFR) | **sunyxmisty_Bigfan**: Evil Unicorn (FR) |
-| 19:36 | **4URANZ3**: Dalmatian (FR), Toaster Hat | **Mandarinka12310a**: Peppermint Penguin (FR), Cow (FR) ×2, Fly-A-Pet Potion |
-| 19:36 | **0_Jaexx**: Arctic Fox (R) | **kto_to13570**: Vampire Dragon (FR) |
+| 19:45 | **dollsspell2**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×17 |
+| 19:45 | **peperonibltya**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 19:45 | **tommylikeroblox2009**: Thunderfisher | **jessica020705**: Retired Egg ×3 |
+| 19:45 | **fefepandapro**: Border Collie (NFR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR), Turtle (FR), Mermicorn (FR) | **awepolarbear**: Cryptid (NFR) |
+| 19:45 | **jhtdfbjiytvjib**: Kangaroo (FR), Fly-A-Pet Potion, Pupcicle | **caby_vr**: Siamese Cat (R) |
+| 19:45 | **RRUBYDACH3RRYY**: Kid Goat (MR), Dog (MFR), Tegu (M) | **Pat0_n7**: Choco Penguin (M) |
+| 19:45 | **UwUGlitterzUwU**: Candy Corn Hat, Bunny Ear Tiara | **nikaking89**: Jester Hat |
+| 19:45 | **tumulator**: Cryptid (FR) | **H0LLYSHAUL**: Dalmatian (FR) |
+| 19:45 | **karina0097162**: Arctic Fox | **cliuic**: Ride-A-Pet Potion ×7 |
+| 19:45 | **makcik_sakinah30**: Dango Penguins | **Mugina_Li**: Ride-A-Pet Potion ×2 |
+| 19:45 | **iqitotoru**: Criosphinx (N) ×3 | **Yourlocalbreadshore**: Corn Doggo ×3 |
+| 19:45 | **KanskjeMatilde**: Chocolate Chip Bat Dragon (NFR), Ride-A-Pet Potion | **JEN_NZY**: African Wild Dog (FR), 2022 Birthday Party Hat |
+| 19:45 | **Elmasinsano_392**: Capybara (R) | **Yumi_Rose8**: Fly-A-Pet Potion |
+| 19:45 | **WolfNinjaCraze**: Fly-A-Pet Potion ×4 | **reaInyancat**: Pink Cat (R) |
+| 19:45 | **paldoalways34**: Crystal Egg ×18 | **O4LYJAYDA**: Pupcicle ×3 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
