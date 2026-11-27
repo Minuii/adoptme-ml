@@ -1,26 +1,26 @@
 # Collected data
 
-_Updated 2026-11-27 21:11 UTC by the scrape workflow._
+_Updated 2026-11-27 21:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
 | Source | Snapshots | First | Latest |
 |---|---|---|---|
 | elve | 27 | 2026-11-11T1036Z | 2026-11-27T0916Z |
-| amvgg | 75 | 2026-11-11T1036Z | 2026-11-27T1715Z |
+| amvgg | 76 | 2026-11-11T1036Z | 2026-11-27T2115Z |
 
 ## Offers (trade listings) collected by the bot
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 43,779 | 2026-11-27T21:00 |
-| elve | 17 | 9,394 | 2026-11-27T21:01 |
+| amvgg | 17 | 44,052 | 2026-11-27T21:15 |
+| elve | 17 | 9,441 | 2026-11-27T21:15 |
 
-## AMVGG completed trades: 74,007 total
+## AMVGG completed trades: 74,020 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,047 |
+| 2026-11-27 | 4,060 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 21:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 21:15 | **Nastai3324**: Christmas Pudding Pup (R), Spring Bunny Hood ×2 | **chrxmaxc**: Tortuga de la Isla (FR), Ice Cream Hermit Crab, Puffer Fish (NR), Flaming Fox |
+| 21:15 | **Proboygamer1085**: Goldhorn (MFR), Axolotl (MFR), Kangaroo (FR), Ride-A-Pet Potion, Jeff's Nametag | **vvivxxs**: Rainbow Maker |
+| 21:15 | **aleks2u**: Cow (FR) ×2, Elephant (R), Ratatoskr (MFR), Fly-A-Pet Potion ×7, Ride-A-Pet Potion | **XARYCHIOSI**: Evil Unicorn (FR) |
+| 21:15 | **helloiamaakt**: Cow (FR) | **barrackpalinka1**: Cabbit (FR), Ballet Swan (R) |
+| 21:15 | **Qwerty6766721**: Fly-A-Pet Potion | **Milk_20392**: Dragon (M) |
+| 21:15 | **CutestAstro**: Shrew | **qwertyy_xx01**: Fly-A-Pet Potion ×2 |
+| 21:15 | **lnactiveWords**: Fly-A-Pet Potion ×2, Ermine (N) | **polka_616**: Copycat |
+| 21:15 | **Ryukyu7336**: Strawberry Shortcake Bat Dragon (NFR), Fly-A-Pet Potion ×6 | **Arracheurdetacos224**: Sea Slug (MFR) |
+| 21:15 | **dumme_kiwi**: Shadow Dragon (NFR) | **nerdoitdabest**: Goose (MFR), Border Collie (MFR), Parrot (FR), Crow (FR), Munchkin Cat (MFR), Siamese Cat (NFR), Mini Pig (FR), Kangaroo (NFR), Sheeeeep (MFR), Rain Cloud Hat, Ride-A-Pet Potion ×8 |
+| 21:15 | **ItzSlima**: Ride-A-Pet Potion ×2 | **Leviodas**: Fly-A-Pet Potion |
+| 21:15 | **Adhenry2014**: Snow Monkey (MFR) | **Pinkmalinky123**: Zombie Wolf (MFR) |
+| 21:15 | **alohaxstephhh**: Tri-horned Treehopper, Green Butterfly (R) | **cUtE_Nefelh**: Ballet Swan ×2 |
+| 21:15 | **donnotinteract**: Unicorn Horn | **orangutan0ava**: 2022 Birthday Cupcake Shoes, Fly-A-Pet Potion |
 | 21:11 | **lupoouu2**: Unicorn | **Aslie_17**: White Chef Hat |
 | 21:11 | **ALTACCOUNTTT435**: Crystal Egg ×15 | **vmpiahs**: Ride-A-Pet Potion |
-| 21:11 | **toybeau772**: Skelicorn (M) | **daran_waren**: Hooray Pink Mega Neon Paint, Pupcake ×3 |
-| 21:11 | **killerman_xd1**: Ancient Dragon ×18 | **Bits_rbx**: Fly-A-Pet Potion |
-| 21:11 | **xikell**: Retired Egg ×18 | **reiimonn_11**: Ride-A-Pet Potion |
-| 21:11 | **duckz4life2011**: Fly-A-Pet Potion | **Elmasinsano_392**: Goldhorn (R) |
-| 21:11 | **sugartox**: 2022 Birthday Cake | **altaltaltllt**: Tilcayo |
-| 21:11 | **duckz4life2011**: Fly-A-Pet Potion | **Elmasinsano_392**: Pirate Hermit Crab (R) |
-| 21:11 | **caby_vr**: Angel Wings | **Lxve1sDxmb**: Fly-A-Pet Potion ×15 |
-| 21:11 | **JustMeYito**: Rainbow Maker | **rb_feel**: Halo, Unicorn Horn, Strawberry Penguin, Lava Dragon (FR), Fly-A-Pet Potion |
-| 21:11 | **iluvmybfem**: Influencer Gibbon | **JustDo_It097**: Hooray Pink Mega Neon Paint |
-| 21:11 | **Krisps16**: Chocolate Chip Bat Dragon (MFR), Fairy Bat Dragon (NFR), Turtle (FR), Ride-A-Pet Potion | **TANSKlN**: Shadow Dragon (FR) |
-| 21:11 | **999Luzy**: Chocolate Chip Bat Dragon | **piyoashi**: Flaming Fox (MFR), Tiny Wings ×2, Bready Necklace, Alien Eyes Hat |
-| 21:11 | **Elmasinsano_392**: Prismatic Butterfly (R) | **duckz4life2011**: Fly-A-Pet Potion |
-| 21:11 | **Skuppetov02**: Ride-A-Pet Potion, Clumpty (N), Gemstone Egg, Royal Egg, Crystal Egg, Chocolate Labrador (N), Puma (N), Snow Puma (N), Fairytale Egg | **Iwish_440**: Fly-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
