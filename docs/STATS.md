@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 02:55 UTC by the scrape workflow._
+_Updated 2026-11-27 03:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 02:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 25,798 | 2026-11-27T02:45 |
-| elve | 17 | 5,405 | 2026-11-27T02:46 |
+| amvgg | 17 | 26,057 | 2026-11-27T03:00 |
+| elve | 17 | 5,473 | 2026-11-27T03:01 |
 
-## AMVGG completed trades: 70,382 total
+## AMVGG completed trades: 70,388 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 422 |
+| 2026-11-27 | 428 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,12 @@ _Updated 2026-11-27 02:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:00 | **AMELIESFABXO**: Meerkat (MFR), Cabbit (NFR), Red Dutch Guinea Pig (MFR), Silly Duck (MFR), Halo, Toaster Hat | **kaylamicmi**: Goose (MFR) |
+| 03:00 | **Getting_DreamPetCrow**: Royal Palace Spaniel (MFR), Cuddly Candle (MFR) | **amvggaltaccxox**: Pirate Hermit Crab (MR) |
+| 03:00 | **iwqsso**: Dalmatian (FR) | **idctbf11**: Cryptid (FR) |
+| 03:00 | **Aslyloving123**: Peppermint Penguin (NFR), Tiny Wings, Pancake Stack, Ride-A-Pet Potion ×5 | **abelhagalatica**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 03:00 | **NotEllezxo**: Cryptid (N) | **oatsit**: Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR), Turtle (FR), Unicorn Horn, Copycat (N), Candicorn |
+| 03:00 | **xf4wnskull**: Chihuahua (N), Fly-A-Pet Potion | **ophyns**: Robo Dog (N), Golden Walrus (FR) |
 | 02:55 | **Ogingagh1011**: Border Collie (MFR) | **hanb3ki**: Giant Panda (FR), Turtle (FR) |
 | 02:55 | **St0rm_Sniper89**: Werewolf | **l0v3y0u_o**: Clownfish (MR), Cattuccino (M), Boohoo (M), Frankenfeline (M), Ermine (N), Blue Cat (M), Aye Aye (M), Pupcake, Pain au Chat, Poodle (M), Rodeo Bull (N), Ostrich, Icy Porcupine (N), Mole (N), Thunderfisher (N), Wren (N), Clownfish, Rabbit (N) |
 | 02:55 | **ang3licbwnni**: Jester Dragon (N) | **Elias0160Shiro**: Werewolf, Copycat |
@@ -48,12 +54,6 @@ _Updated 2026-11-27 02:55 UTC by the scrape workflow._
 | 02:51 | **Laryxn00**: Halloween Evil Dachshund | **lianchik_cutee**: Eggnog Dog |
 | 02:51 | **SophiaStormy136**: Crystal Egg ×18 | **Itz_Marsie**: Ride-A-Pet Potion |
 | 02:51 | **solkabuai**: Fly-A-Pet Potion | **zianagirls**: S'mores Raccoon (FR) |
-| 02:51 | **kurtykurty12**: Strawberry Shortcake Bat Dragon (NFR), Pancake Stack, Mochi Meow (MFR), Propeller Hat, Jeff's Nametag, Cotton Candy Hat, Butter Knife, Angus Cow (M), Bready Necklace, White Chef Hat, Unfortunate Eyelashes, Heart Bow, Eaten Donut | **1Thebigbossboy**: Chocolate Chip Bat Dragon (NFR) |
-| 02:51 | **Babyofy5**: Fly-A-Pet Potion ×2 | **cher_namagandaa**: Naughty Mistletroll, Bauble Buddies, Puffer Fish, Sushi Penguin |
-| 02:51 | **slasabi**: Ride-A-Pet Potion ×6, Ocelot (M) | **zzrubx**: Quad Stroller |
-| 02:51 | **Dangermousefan0**: Ride-A-Pet Potion ×13 | **hiwhat043**: Border Collie (R) |
-| 02:51 | **princesslolly08**: Mini Pig (MFR) | **marblezlost**: Owl (FR), Parrot (FR), Spring Bunny Hood, Goat |
-| 02:51 | **bg_waa**: Yeti (MFR) | **RileyforSure28**: Rain Cloud Hat |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
