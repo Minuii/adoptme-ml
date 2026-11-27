@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 12:01 UTC by the scrape workflow._
+_Updated 2026-11-27 12:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 12:01 UTC by the scrape workflow._
 | amvgg | 17 | 34,535 | 2026-11-27T12:00 |
 | elve | 17 | 7,248 | 2026-11-27T12:01 |
 
-## AMVGG completed trades: 71,649 total
+## AMVGG completed trades: 71,681 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,689 |
+| 2026-11-27 | 1,721 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 12:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:00 | **ptlxvez**: Giant Panda (FR), Rain Cloud Hat, Caterpillar (R) | **RistovN**: Border Collie (MFR) |
-| 12:00 | **Avocadk12309**: Thunderfisher (N), Stygian Owl (N), Muskrat (N), Mummy Spider (N), Flying Fairy, Paint Sealer ×4 | **kh6rin**: Ride-A-Pet Potion |
-| 12:00 | **infrxmniiq**: Shark Puppy (MFR), Moose Calf (MFR), Rain Cloud Hat, 2022 Birthday Cupcake Shoes | **KiaXias**: Peppermint Penguin (R), Alpaca (R), Sugar Glider (FR), Tortoiseshell Guinea Pig (R), Shark Puppy (R), Goose (R), Hot Doggo (FR), Kangaroo (R) |
-| 12:00 | **BAJl03**: Strawberry Shortcake Bat Dragon (NFR), Dalmatian (FR), Frost Phoenix (NF), Dragonfruit Fox (N), Tortuga de la Isla (R), Coconut Friend (NR), Alley Cat, Stray Cat Dragon (M), Copycat | **leruval**: Frost Dragon (FR) |
-| 12:00 | **TulipPetal_1**: Chocolate Dutch Guinea Pig, Ruddy Duck (M), Crimson Cape (N), Shih Tzu (N), Amber Butterfly | **dnei30fast**: Fly-A-Pet Potion |
-| 11:55 | **isjdiburmalda**: Dalmatian (FR), Fairy Bat Dragon (FR), Fly-A-Pet Potion ×2 | **CHOZABRETOOOOOO**: Haetae (FR) |
-| 11:55 | **AngelKattyOwO**: Sugar Glider (FR) | **zee55510**: Mermicorn (FR), Ride-A-Pet Potion ×2 |
-| 11:55 | **omlisage_amvgg**: Pink Cat (NFR) | **cocse00**: Elephant (FR), Pink Cat (FR), Ride-A-Pet Potion |
-| 11:55 | **33mac33**: Frozen Penguin, Gemstone Egg, Royal Fairytale Egg, Squid, Bee, Black Kite, Deathstalker Scorpion, Ginger Cat (F), Onza ×4 | **Lekssa**: Fly-A-Pet Potion |
-| 11:55 | **daxalikee2001**: Brown Bear, Paint Sealer | **ccdbgt1**: Fly-A-Pet Potion ×2 |
-| 11:55 | **nellik_karomelik**: Retired Egg ×18 | **hiledina1**: Gemstone Egg |
-| 11:55 | **keiiwwq**: Christmas Pudding Pup (NR) | **jefx045**: Frost Unicorn (FR), Ride-A-Pet Potion ×2 |
-| 11:55 | **Inganta07**: Fly-A-Pet Potion | **berry_karie**: Turkey |
-| 11:55 | **vgssXoxo3**: Alicorn ×2 | **Crystal_andLisa**: Bullfrog (N) |
-| 11:55 | **rinzwql**: Mirai Moth (M) | **6vynix**: Sushi Penguin (N), Sushi Penguin |
+| 12:06 | **LAHNLAHNLAHN**: Ride-A-Pet Potion | **Max89422yr**: Tan Chow-Chow, Scarlet Butterfly, Penguin, Choco Penguin |
+| 12:06 | **fhuybx556**: Arctic Reindeer (FR) | **C0xrbin**: Strawberry Shortcake Bat Dragon (FR), Ride-A-Pet Potion ×7 |
+| 12:06 | **robloxchangergurl**: Harp Seal (MFR) | **jetedispas212**: Vanilla Penguin (MFR) |
+| 12:06 | **ikeumw**: Frost Dragon (FR) | **TMDung20**: Strawberry Shortcake Bat Dragon (FR) ×2, Mini Pig (FR), Mini Pig (R), Cow (FR) |
+| 12:06 | **Mm26752098**: Sugar Glider (NFR) | **Bismuth234**: Border Collie, Strawberry Shortcake Bat Dragon (FR) |
+| 12:06 | **luwxxu**: Fly-A-Pet Potion, Starfish (M) | **Anime_artist115**: Chocolate Dutch Guinea Pig (FR) |
+| 12:06 | **OnlyMeNinik**: Owl (NFR), Frost Dragon (FR), Owl (FR), Parrot (FR), Crow (FR), Kaijunior (MFR), Rainbow Dragon (R), Kitty Bat (N), Fly-A-Pet Potion ×2, Koala (N), Ride-A-Pet Potion ×2, Sea Angel (N), Choco Penguin (N), Frog (R), Snow Leopard (F), Shetland Pony Dark Brown (N) | **bvritx**: Frost Dragon (MFR) |
+| 12:06 | **bq1r_35**: Fly-A-Pet Potion ×3 | **Fidelia2131415**: Aurora Fox (FR) |
+| 12:06 | **sleepy_s0ren**: Cow | **astigkabadang**: Cow (FR) |
+| 12:06 | **NOTLOVINGLIFEE**: Chocolate Chip Bat Dragon (FR), Unicorn Horn, Rain Cloud Hat, Toasty Red Panda (MFR) | **4cosha**: Turtle (MFR) |
+| 12:06 | **plushioss**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion | **apple_juiceybox**: Tortoiseshell Guinea Pig, Tombstone Ghostify, 2022 Birthday Confetti Cannon |
+| 12:06 | **71bad**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion | **Poppycatplays909**: Silverback Gorilla |
+| 12:06 | **roblox_user_8392242805**: Fly-A-Pet Potion, Feesh | **6vynix**: Dragonfruit Fox |
+| 12:06 | **DieSahne014**: 2D Doggy (R) | **roblox_user_8392242805**: Harp Seal |
+| 12:06 | **Presentformery**: Pain au Chat (N) | **roblox_user_8392242805**: Chihuahua (N) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
