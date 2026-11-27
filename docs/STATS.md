@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 08:25 UTC by the scrape workflow._
+_Updated 2026-11-27 08:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 08:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 30,979 | 2026-11-27T08:15 |
-| elve | 17 | 6,442 | 2026-11-27T08:15 |
+| amvgg | 17 | 31,216 | 2026-11-27T08:30 |
+| elve | 17 | 6,499 | 2026-11-27T08:31 |
 
-## AMVGG completed trades: 71,080 total
+## AMVGG completed trades: 71,081 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,120 |
+| 2026-11-27 | 1,121 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,6 +39,7 @@ _Updated 2026-11-27 08:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:30 | **heart2jian**: 2D Kitty (R) | **forso_manyacc**: Ride-A-Pet Potion |
 | 08:25 | **Cherryblossom_01580**: Strawberry Shortcake Bat Dragon (R) ×2, Strawberry Shortcake Bat Dragon, Chocolate Chip Bat Dragon (FR), Chocolate Chip Bat Dragon (R), Dalmatian (R), Fairy Bat Dragon (FR) ×2, Turtle | **powerlee01**: Owl (NFR) |
 | 08:25 | **USER261022**: Cow (FR), Goose (R), Chocolate Dutch Guinea Pig | **Penny_isa2**: Strawberry Shortcake Bat Dragon (FR) |
 | 08:25 | **Zuminkikiki**: Ride-A-Pet Potion | **123luna958**: Snow Owl (R) |
@@ -53,7 +54,6 @@ _Updated 2026-11-27 08:25 UTC by the scrape workflow._
 | 08:25 | **ameyyass**: Ride-A-Pet Potion ×2 | **Star_accdeleted3**: Cerberus, Kitsune (R) |
 | 08:25 | **gillyunicorngile**: Cuddly Candle (FR) | **ameyyass**: Ride-A-Pet Potion |
 | 08:20 | **SophiaStormy136**: Crystal Egg ×18 | **yabadabadooisthatrue**: Ride-A-Pet Potion |
-| 08:20 | **zpdanila2**: Diamond Hummingbird (MFR), Matcha Cat, Jester Dragon, Pain au Chat (M), Fly-A-Pet Potion ×2 | **hanb3ki**: Hedgehog (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
