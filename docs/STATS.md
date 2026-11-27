@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 17:31 UTC by the scrape workflow._
+_Updated 2026-11-27 17:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 17:31 UTC by the scrape workflow._
 | amvgg | 17 | 40,077 | 2026-11-27T17:30 |
 | elve | 17 | 8,484 | 2026-11-27T17:31 |
 
-## AMVGG completed trades: 72,940 total
+## AMVGG completed trades: 72,979 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,980 |
+| 2026-11-27 | 3,019 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 17:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:30 | **Kvas_028473**: Fly-A-Pet Potion ×6, Spring Bunny Feet ×3, Ride-A-Pet Potion | **KiriK_87**: Kangaroo (R) |
-| 17:30 | **xxxAubreexxx123**: Dodo (MFR), Copycat (NFR), Elephant (FR), Albino Monkey (FR), Happy Duckling (MR), Frankenfeline (MFR), Purrowl (MFR), Angus Calf (MR) | **lol_whateverx67hsk81**: Dalmatian (FR) |
-| 17:30 | **Evachka_Soloveva**: Purrowl (N) ×2 | **Maddie2WinQuinn07**: Gingerbread Mansion |
-| 17:30 | **bcbrybry**: Ride-A-Pet Potion | **Nikitapetk**: Shark |
-| 17:30 | **Sweet_spr**: Ride-A-Pet Potion | **kingutgvvt777**: Ermine ×2 |
-| 17:30 | **LotusVanilla4**: Strawberry Shortcake Bat Dragon (NFR) | **cheekuisdabest**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR) |
-| 17:30 | **booseoks0on**: Lamb (MFR), Sushi Penguin | **yutoffee**: Chihuahua (MR), Candy Cane Snail (MFR), Ornate Horned Frog (MFR), Ice Cream Hermit Crab (N) |
-| 17:30 | **Yakkuji**: Harp Seal (NFR) | **emcupcake20**: Fallow Deer (FR), Ride-A-Pet Potion |
-| 17:30 | **Sharpie_pies**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×3 | **sarchive27**: Hedgehog (FR) |
-| 17:30 | **vacuta_milk65**: Cupid Dragon (NFR), Evil Chick (NFR) | **Fahjiko_543017**: Fairy Bat Dragon (FR) |
-| 17:30 | **melke_lem**: Turtle (NFR), Crocodile (FR), Frost Fury (FR) | **vampire2169**: Strawberry Shortcake Bat Dragon (FR) |
-| 17:30 | **Officalyuichi**: Bee (MFR), Alicorn (MR) | **H08ni**: Fly-A-Pet Potion ×3 |
-| 17:30 | **m0chalka_1**: Cow (MFR), African Wild Dog (R), Evil Unicorn (FR), Dalmatian, Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Kangaroo (FR) ×3, Unicorn Horn, Fly-A-Pet Potion | **ljwempire777**: Giraffe (NFR) |
-| 17:30 | **purebelly**: Eggnog Dog, Gemstone Egg, Narwhal, Purrowl | **ilonka_128**: Ride-A-Pet Potion |
-| 17:30 | **ew_darsky**: Snowball Pug (M) | **flears_brai**: Fly-A-Pet Potion ×3 |
+| 17:41 | **karamelka486**: Cryptid (R) | **Alsnn667**: Mini Pig (FR), Peppermint Penguin (R), Giant Anteater (R), Giant Anteater ×2, Propeller Hat |
+| 17:41 | **Aeiker_Ake**: Strawberry Shortcake Bat Dragon (FR), Arctic Fox (R), Chocolate Dutch Guinea Pig (N), Mule (NR), Aussie Egg | **i6so1**: Dalmatian (FR) |
+| 17:41 | **Realzholuiq13**: Purrowl, Mexican Wolf | **wifis322**: Electric Hornet ×2 |
+| 17:41 | **serspect**: Shiver Wolf (MR) | **DellaxKenneth**: Ride-A-Pet Potion ×9 |
+| 17:41 | **pirupirupiil**: Ram, Zombie Wolf, Yule Log Dog | **AlisaRud2005**: Biodome Home |
+| 17:41 | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion ×3 | **waruKosh**: Dango Penguins |
+| 17:41 | **STAZ638**: Easter Bunny (M) | **Mugina_Li**: Ride-A-Pet Potion ×2 |
+| 17:41 | **Emaaagirl34**: Owlbear (MFR), Zombie Wolf (MFR) | **sleepy_s0ren**: Field Mouse (MFR), 2022 Birthday Party Horn, Propeller Hat |
+| 17:36 | **obv1davs**: Great Pyrenees (MFR), Sloth (MFR), King Bee (NFR), Ride-A-Pet Potion | **nimalina463**: Puffer Fish (MFR) |
+| 17:36 | **diuci8**: Alley Cat (R) | **mimiriffi1**: Hermit Crab (MR), Pain au Chat |
+| 17:36 | **xXLove_SunWukongXx**: Elf Hat | **xershaa**: Pet Handler Pro Certificate |
+| 17:36 | **Goodnews2013**: Pain au Chat (N) | **Lenakauf1**: Fly-A-Pet Potion |
+| 17:36 | **s4mp_nwn**: Sweetheart Rat (R) | **Wayda_Jaida**: Ghostly Cat |
+| 17:36 | **129x956**: Jekyll Hydra (MFR), Lion Cub (MFR), Irish Water Spaniel (MFR), Spring Bunny Hood, Fly-A-Pet Potion | **S4GESW0RLDALT**: Dalmatian (MFR) |
+| 17:36 | **gurlthathappy**: Cow (FR), Candyfloss Chick (FR), Candicorn (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Liza10kis**: Arctic Reindeer (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
