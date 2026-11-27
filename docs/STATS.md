@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 12:16 UTC by the scrape workflow._
+_Updated 2026-11-27 12:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 12:16 UTC by the scrape workflow._
 | amvgg | 17 | 34,767 | 2026-11-27T12:15 |
 | elve | 17 | 7,265 | 2026-11-27T12:15 |
 
-## AMVGG completed trades: 71,699 total
+## AMVGG completed trades: 71,740 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,739 |
+| 2026-11-27 | 1,780 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 12:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:15 | **Ryou_senpai05**: Chocolate Dutch Guinea Pig (N) | **C0xrbin**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
-| 12:15 | **Amvggaltaccount_9**: Ice Wolf (NFR) | **AlphaTaToxicv1047**: Platypus (R), Polar Bear (R), Ice Wolf, Cactus Friend, Squid |
-| 12:15 | **Kelly_JeIIy**: Snowball Pet (R), Sea Turtle (NFR) | **C0xrbin**: Burger Bear (N) |
-| 12:15 | **cyptiaI**: Retired Egg ×18 | **Felix71_34**: Fossil Egg |
-| 12:15 | **NoobToNorthernLands**: S'mores Raccoon | **Bunny_189659**: Ride-A-Pet Potion |
-| 12:15 | **MM_Cloud**: Crystal Egg ×18 | **Adore_IvaXx**: Ride-A-Pet Potion |
-| 12:15 | **lnH3II**: Frost Fury (R) | **nikysha009**: Ride-A-Pet Potion ×5 |
-| 12:15 | **CME123TAHKA**: Ride-A-Pet Potion | **Midskii**: Sushi Penguin |
-| 12:15 | **Slender202404**: Kangaroo (FR) | **Chiyothebestrust**: Werewolf (FR) |
-| 12:15 | **infrxmniiq**: Peppermint Penguin (FR), Ice Cream Cone Hat | **cutebunnv**: Cow (FR) |
-| 12:15 | **Kyza_222222223**: Cheesecake Hat | **qwelxzz**: Narwhal, Ghost Wolf |
-| 12:15 | **nuhhun41**: Ghostly Cat (R) | **5ii5tthnrhhn**: Stray Cat Dragon ×5 |
-| 12:15 | **TheShadowOpiym**: Strawberry Shortcake Bat Dragon (FR), Phantom Dragon (FR), Skelicorn (MFR), German Shepherd, Maleo Bird (MR), Punk Pony (MFR), Tree Kangaroo (R), Shiver Wolf (R), English Sheepdog, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Scarebear | **KiriK_87**: Dalmatian (FR) |
-| 12:15 | **Basikdead**: Mule (NR) | **NoobToNorthernLands**: Fly-A-Pet Potion ×2, Golden Lettuce |
-| 12:15 | **loiol1004**: Halloween Mummy Cat Box ×10 | **iIovearabella**: Ride-A-Pet Potion ×6 |
+| 12:25 | **diegxitt**: Ride-A-Pet Potion | **Amberkat23**: Unicorn |
+| 12:25 | **kohvhvv**: Purrowl | **SharkuKy_Trades**: Yellow Designer Backpack ×3 |
+| 12:25 | **Its_YukiOnline**: Fairy Bat Dragon (R), Pet Handler Pro Certificate, Bready Necklace | **HOONMINLIXGYU**: Jester Dragon (NFR), Shark Puppy (R) |
+| 12:25 | **Thomatheus12**: Campfire Stories Mega Neon Paint, Candy Flare Mega Neon Paint | **Homey_milk1**: Ride-A-Pet Potion |
+| 12:25 | **rinzwql**: Gemstone Egg, White Chef Hat | **adoreorchids**: Sushi Penguin |
+| 12:25 | **Sigmas_babygirl**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4, Head Chef, Corndog Mustache | **MATT_2011901**: Tortoiseshell Guinea Pig |
+| 12:25 | **Skiaksn**: Arctic Fox (MFR) | **fitt04_08**: Copycat (MFR) |
+| 12:25 | **Leafiieee**: Kaijunior (M), Ms. Muffet (N) | **Crystalpastel17**: Fly-A-Pet Potion |
+| 12:25 | **naturespiano**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 12:25 | **addmysecondaccount**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 12:25 | **Malelou26**: Elephant (R), Crocodile, Pig | **ggyyu77y7y2**: Cow (FR) |
+| 12:25 | **Anoni_541**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×17 |
+| 12:25 | **monkrillaz**: Cow (FR), Great Pyrenees (MR) | **yeetimaheadout7**: Candicorn (NFR), Spring Bunny Hood |
+| 12:25 | **LightningCheetah2451**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 12:25 | **MM_Cloud**: Crystal Egg ×18 | **SayuPaw**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
