@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 21:25 UTC by the scrape workflow._
+_Updated 2026-11-27 21:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-27 21:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 17 | 44,052 | 2026-11-27T21:15 |
-| elve | 17 | 9,441 | 2026-11-27T21:15 |
+| amvgg | 17 | 44,314 | 2026-11-27T21:30 |
+| elve | 17 | 9,526 | 2026-11-27T21:31 |
 
-## AMVGG completed trades: 74,081 total
+## AMVGG completed trades: 74,100 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 4,121 |
+| 2026-11-27 | 4,140 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 21:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 21:25 | **HolaestimadasPepos**: Cryptid (FR), Crocodile (FR) | **maybetryitlater**: Hedgehog (FR) |
-| 21:25 | **jukijajaja**: Strawberry Shortcake Bat Dragon (FR), Candyfloss Chick (R), Shark Puppy | **ZenaSuguru_Get0**: Cryptid (FR) |
-| 21:25 | **ToberRain**: Evil Unicorn (MFR), Chocolate Chip Bat Dragon (FR), Winged Tiger (MFR) | **yutoffee**: Cryptid (MFR) |
-| 21:25 | **cutezxnat**: Golden Chow-Chow (MFR), Ice Cream Hermit Crab (MFR), Corn Doggo (MFR), Tree Kangaroo (MFR), Husky (NFR) | **MICROCELE6BRITY**: Diamond Amazon (MFR), Red Sand Dollar (MFR) |
-| 21:25 | **simf4l**: Rabbit, Bobageist, Corgi | **oiiwqioo**: Rabbit |
-| 21:25 | **krxadm3**: Crystal Egg ×17 | **Smookgans**: Ride-A-Pet Potion |
-| 21:25 | **Sashok_566**: Harp Seal ×2, Dodo (NFR) | **Friendforever_kelly**: Frost Phoenix (N) |
-| 21:25 | **DosHik37917**: Munchkin Cat (R) | **sleewpydollettee**: Shark Puppy (R) |
-| 21:25 | **unicodrk**: Red Dutch Guinea Pig (MFR) | **rosez29099**: Red Sand Dollar (MFR), Pupcake (MFR), Chocolate Dutch Guinea Pig (MFR), Pretty Pony (MFR) |
-| 21:25 | **dayn_okda12**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×2 | **QuantumPandaPlayz93**: Tilcayo |
-| 21:25 | **xTvnee**: Unicorn Cycle | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 21:25 | **fluffyunicorns_932**: Brown Bear (MFR), Hyena (MFR), Prismatic Butterfly (MFR) | **Vqmpstqrry**: Strawberry Penguin (MFR), Vanilla Penguin (MFR) |
-| 21:25 | **doggie_328**: Chocolate Dutch Guinea Pig (MFR), Alley Cat (FR) | **Nio8568**: Cow |
-| 21:25 | **clairolvr67**: Bunny (M), Mummy Spider (M) | **simf4l**: Ride-A-Pet Potion |
-| 21:25 | **Moon_black852**: Balloon Unicorn (FR), Pancake Stack, Rain Boots, Spring Bunny Hood | **N0ugatt**: Werewolf (MFR) |
+| 21:30 | **valya45667iy553445**: Cow (FR), Turtle (FR), Fly-A-Pet Potion ×3, Pet Handler Pro Certificate, Ride-A-Pet Potion | **Mila_qwe6**: Chocolate Chip Bat Dragon (FR) |
+| 21:30 | **HOCOKKU**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **frfact**: Halloween Golden Mummy Cat ×18 |
+| 21:30 | **mgodson6**: Siamese Cat (MFR), Shark Puppy, Pet Handler Pro Certificate | **HannaMontanasing**: Goose (NFR), Goose (FR), Peppermint Penguin (R) |
+| 21:30 | **YourfavSTARBOY17**: Alien Eyes Hat, Clover Cow (NR) | **rotpargamer**: Amami Rabbit (N) |
+| 21:30 | **Anime_Masha09**: Parrot (FR) | **Flutterieshyy**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cow (FR) |
+| 21:30 | **Diamondprinces32**: Giraffe (FR) | **3LL1SV1BE**: Frost Dragon (FR) |
+| 21:30 | **CrazyDasha910**: Ride-A-Pet Potion | **Diana83_milk02**: Hooray |
+| 21:30 | **XARYCHIOSI**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion | **ksenia_warrior8**: Kangaroo (FR) |
+| 21:30 | **OrbitGolden201053**: Candicorn (FR), Candicorn | **xXNorthenlightX**: Fairy Bat Dragon (FR), Spring Bunny Hood, Pancake Stack |
+| 21:30 | **Flutterieshyy**: Dalmatian (FR), Chocolate Chip Bat Dragon (FR) | **0nlqm3**: Balloon Unicorn (FR) |
+| 21:30 | **25kkdile3**: Ice Wolf | **Sleepy_Sonya112**: Pet Handler Pro Certificate |
+| 21:30 | **lgdhdjtf**: Vampire Dragon (R) | **0Miss_Ellis0**: Goat (FR) |
+| 21:30 | **Nothingtohedgehog2**: Pets Plus Sticker Pack | **Giodg2006**: Cow Loves This Sticker, Slothula Transformation Animated Sticker |
+| 21:30 | **EricCasper**: Fallow Deer | **lgdhdjtf**: Jester Dragon (FR) |
+| 21:30 | **x1qzw5**: Cocoadile (M) | **goodvibes_only211**: Banana Car |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
