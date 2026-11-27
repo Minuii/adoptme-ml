@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 13:16 UTC by the scrape workflow._
+_Updated 2026-11-27 13:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 13:16 UTC by the scrape workflow._
 | amvgg | 17 | 35,765 | 2026-11-27T13:15 |
 | elve | 17 | 7,476 | 2026-11-27T13:15 |
 
-## AMVGG completed trades: 71,905 total
+## AMVGG completed trades: 71,941 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 1,945 |
+| 2026-11-27 | 1,981 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 13:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:15 | **ItzSlima**: Snorgle (NFR) | **Thomatheus12**: Ride-A-Pet Potion |
-| 13:15 | **SophiaStormy136**: Crystal Egg ×18 | **Beronika_40**: Ride-A-Pet Potion |
-| 13:15 | **ataraksuu**: Koala (R), Drake, Crimson Cape (N), Diamond Griffin, Unicorn Zombie Ponycycle | **ameyyass**: Ride-A-Pet Potion ×2 |
-| 13:15 | **Inganta07**: Fly-A-Pet Potion | **109kblessings**: Dango Penguins |
-| 13:15 | **SierraPlayzADM**: Retired Egg ×15 | **aerivision**: Diamond Mahi Mahi (N) |
-| 13:15 | **fetucciniyalfredo**: Shark Puppy (R), Ride-A-Pet Potion, Lynx | **Mariacooltime**: Border Collie |
-| 13:15 | **Leafiieee**: Glyptodon Ducky (M) ×2, Rabbit (N) | **sjak696**: Ride-A-Pet Potion |
-| 13:15 | **Lipton_L12**: Ride-A-Pet Potion | **aerivision**: Snow Owl (FR) |
-| 13:15 | **selfisho_0**: Parrot (NFR), Polar Bear (MFR), Toy Poodle (MFR), Ride-A-Pet Potion | **eslam_Gamer**: Giraffe (FR) |
-| 13:15 | **paldoalways34**: Crystal Egg ×18 | **Lianana53**: Ride-A-Pet Potion |
-| 13:15 | **CookieGothic**: Chocolate Chip Bat Dragon (NFR) | **alxymrn**: Balloon Unicorn (FR) |
-| 13:15 | **kerobunii**: Sushi Penguin (M) | **Lewraynzz**: Burning Bunny (MFR), Christmas Pudding Pup |
-| 13:15 | **veIfyre**: Arctic Dusk Dragon (NR), Fly-A-Pet Potion | **Bruniepie**: Unicorn Horn |
-| 13:15 | **Iamlialina**: Ride-A-Pet Potion ×2 | **MAYBENORSIN**: Latte Kitsune |
-| 13:15 | **regina_12z**: Ride-A-Pet Potion | **fan_labubu44**: Snowball Pug (FR) |
+| 13:25 | **wjwj7890**: Arctic Dusk Dragon (MFR), Alpaca (R), Harp Seal (N), Haetyphoon | **dimon221221332**: Hedgehog (FR) |
+| 13:25 | **SophiaStormy136**: Crystal Egg ×18 | **AnnDean2005**: Ride-A-Pet Potion |
+| 13:25 | **Robloxiant3x7a4m9v**: Ice Cream Hermit Crab (MFR), S'mores Raccoon (MR), Happy Duckling (MR), Mr. Whiskerpips (MFR), Matcha Cat, Irish Water Spaniel, Red Sand Dollar (NFR) | **meowqi_08**: Nessie (MFR) |
+| 13:25 | **faebnny**: Water Rabbit (MFR), Arctic Hare (MR) | **lmao_fyp**: 2022 Birthday Cupcake Shoes, Cupcake Sprinkle Wings |
+| 13:25 | **I_reallylovedasha**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 13:25 | **FrostPixel5930**: Crystal Egg ×17 | **AMVGGACCINFOLLOWING**: Ride-A-Pet Potion |
+| 13:25 | **shenshenzzz14**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 13:25 | **BloodMenCloud**: Cryptid (FR) | **coveredinyourlove**: Frost Unicorn, Matcha Cat, Werewolf, Alpaca, Unicorn Horn, Dango Penguins (N) |
+| 13:25 | **helloo_kittyy238**: Hamster (NFR) | **Fidelia2131415**: Fly-A-Pet Potion |
+| 13:25 | **DefinitelyNotCha6**: Ancient Dragon (R), Christmas Spirit (R), Cuddly Candle (R), Golden Ladybug (R), Guardian Lion (R), Kitsune (R), Lunar Moon Bear (R), Metal Ox (R), Peacock (R), Robo Dog (R), Black Kite (FR), Alicorn, Dark Choccybunny ×2, Dracula Parrot, Dragon, Easter Bunny ×2 | **Panci_Terbang33**: Fly-A-Pet Potion ×5 |
+| 13:25 | **AmberStarKB**: Flamingo (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Rates_54**: Sugar Glider (FR) |
+| 13:25 | **violetxageup**: Happy Clam (MFR) | **Valery_Unicorn2011**: Rose Dragon (MFR), Fly-A-Pet Potion |
+| 13:25 | **malachaieva**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 13:25 | **Lavend67r67**: Chocolate Chip Bat Dragon (FR), Cabbit (NFR), Gecko (MFR) | **Darkdemon_55555**: Chocolate Chip Bat Dragon (NFR) |
+| 13:25 | **Gooblin_trool**: Pig (NFR), Lion (NFR), Christmas Pudding Pup, Ride-A-Pet Potion | **unstableloves**: Chocolate Chip Bat Dragon (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
