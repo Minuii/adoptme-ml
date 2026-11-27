@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-27 15:16 UTC by the scrape workflow._
+_Updated 2026-11-27 15:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-27 15:16 UTC by the scrape workflow._
 | amvgg | 17 | 37,750 | 2026-11-27T15:15 |
 | elve | 17 | 7,949 | 2026-11-27T15:15 |
 
-## AMVGG completed trades: 72,361 total
+## AMVGG completed trades: 72,404 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-27 | 2,401 |
+| 2026-11-27 | 2,444 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
 | 2026-11-24 | 4,037 |
@@ -39,21 +39,21 @@ _Updated 2026-11-27 15:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:15 | **gh4ghufi8**: Kangaroo (R), Elephant (R), Undead Jousting Horse (R), Grim Dragon (FR), Pink Cat (NFR), Criosphinx (NR) | **Alika_Queen01**: Blazing Lion (FR) |
-| 15:15 | **Ava96158**: Hedgehog (FR), Fairy Bat Dragon (FR), Turtle (FR), Fly-A-Pet Potion | **moral608**: Parrot (FR) |
-| 15:15 | **moral608**: Owl (FR), Fly-A-Pet Potion ×4 | **Malina1915**: Parrot (FR), Cow, Elephant (FR) |
-| 15:15 | **xxmollyzzxx**: Ghost Bunny (MFR), Zombie Wolf (MR) | **XxPreppygirllovelyxX**: Dragonfruit Fox (MFR) |
-| 15:15 | **vryxsian**: Fairytale Castle | **SoftballGeniusgirl**: Pupcicle |
-| 15:15 | **Bupicollie**: Munchkin Cat (NFR) | **sleepy_s0ren**: Fairy Bat Dragon (FR) |
-| 15:15 | **dogieburn**: Moose Calf | **spojIfed**: Cockroach (M) |
-| 15:15 | **flwuent**: Ring-Tailed Lemur (MFR) | **dearalesii**: Copycat (MFR) |
-| 15:15 | **yrnfsj**: Munchkin Cat (FR), Candicorn (R), Snow Cone Stand, Cotton Candy Stand, Lemonade Stand | **Foxy_Bonny28**: Sugar Glider (FR) |
-| 15:15 | **Arcyyicyy**: Owl (FR), Sheeeeep (MFR), Toaster Hat | **HateToSeeYouComming**: Cabbit (MFR) |
-| 15:15 | **kkaatEEe2**: Ride-A-Pet Potion ×9, Fly-A-Pet Potion ×9 | **rami12414**: Husky (MFR) |
-| 15:15 | **Vikysik_2056**: Spring Bunny Feet | **JOOJAAI**: Fly-A-Pet Potion |
-| 15:15 | **Cryxmoons**: Swan (MFR) | **CoastLune**: Cow (FR) |
-| 15:15 | **MyStarPets1**: Cauldron Stroller | **Klikkledo**: S'mores Stroller |
-| 15:15 | **Manggo_Pie40**: Candicorn (R) | **Cutecupshakes**: Candicorn |
+| 15:25 | **Angelbatista_me2**: Frost Fury (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **Cosmo_syx**: Unicorn (MFR) |
+| 15:25 | **FrostPixel5930**: Crystal Egg ×18 | **cutemoonya**: Ride-A-Pet Potion |
+| 15:25 | **Cosmo_syx**: Fairy Bat Dragon (R) | **richtopoorsofiahajam**: Unicorn (NFR), Panda (MFR), Dragonfruit Fox ×2 |
+| 15:25 | **tarrace_house**: Ride-A-Pet Potion | **stxrrx_0**: Admin Vision Cap |
+| 15:25 | **prorabik_krytou**: Copycat (M), Ride-A-Pet Potion, Kangaroo (NFR), Candyfloss Chick (R), Polar Bear (R), Husky, Chocolate Dutch Guinea Pig | **tsareena13567**: Giant Panda (FR) |
+| 15:25 | **chapa4ka579**: Musk Ox ×6 | **iamnoonetobehere**: Ride-A-Pet Potion ×2 |
+| 15:25 | **ellabellabibgo**: Crystal Egg ×17 | **Fastewetyr**: Ride-A-Pet Potion |
+| 15:25 | **richtopoorsofiahajam**: Kangaroo (R), Brown Springer Spaniel (MFR), Vanilla Penguin (MFR), Green Butterfly (MFR) | **Annshdchh**: Arctic Fox (MFR) |
+| 15:25 | **nenerod23**: Unicorn Horn, Munchkin Cat | **Adinator_1**: Jekyll Hydra (R) |
+| 15:25 | **izzztya**: Hedgehog (FR), Dalmatian (R), Arctic Reindeer (NFR), Cow (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **FcNikita24**: Shadow Dragon (FR) |
+| 15:25 | **Pvnk_0x**: Water Rabbit (MFR), Bat Backpack | **Mytradeaccountforme**: Border Collie (FR), Invisible Wings, Alien Eyes Hat |
+| 15:25 | **Beronika_40**: Crystal Egg ×15 | **glitterronmypawz**: Ride-A-Pet Potion |
+| 15:25 | **wiwiloil**: Strawberry Shortcake Bat Dragon (FR), Turtle (R) | **rip_indra12345678912**: Dalmatian |
+| 15:25 | **Tone_ton2**: Fly-A-Pet Potion, Gargoyle, Glormy Crab, Easter Bunny, Diamond Egg | **Lvx1lyn**: Ride-A-Pet Potion ×3 |
+| 15:25 | **heart2jian**: Goat | **veronicalen9**: Velocirooster |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
