@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 03:16 UTC by the scrape workflow._
+_Updated 2026-11-28 03:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 03:16 UTC by the scrape workflow._
 | amvgg | 18 | 27,410 | 2026-11-28T03:15 |
 | elve | 18 | 6,056 | 2026-11-28T03:15 |
 
-## AMVGG completed trades: 75,353 total
+## AMVGG completed trades: 75,410 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 712 |
+| 2026-11-28 | 769 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 03:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:11 | **KiaXias**: Crow (NFR) | **ChubbyPandaCakee**: Chocolate Chip Bat Dragon (FR) ×4, Strawberry Shortcake Bat Dragon (FR) |
-| 03:11 | **putridiecro**: Unicorn Horn, Fly-A-Pet Potion | **IamnotSarathereal**: Grim Dragon |
-| 03:11 | **vuxsa1t**: Arctic Reindeer (NFR), Fairy Bat Dragon (R), Husky (MFR) | **Froggyblossom90**: Owl (FR) |
-| 03:11 | **exlopal**: 2022 Birthday Confetti Cannon | **Vxmptomato**: Santa Hat, Festive Light Crown ×2, Elf Hat |
-| 03:11 | **Pebble_llShelly**: Candicorn, Ride-A-Pet Potion | **soficaramelito890**: Kangaroo (R) |
-| 03:11 | **chantking0910**: Kangaroo (FR) | **RoseHibiscus182**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×12, Nautilus |
-| 03:11 | **addmain3000**: Goose (MFR) | **AseesCr7GoesBoom**: Haetyphoon (MFR) ×3 |
-| 03:11 | **KittyShay33**: Green Amazon, Kelp Raider, Fairytale Egg ×2 | **bunnszi**: Peachick ×2 |
-| 03:11 | **kaidealt2**: Haetae (R), Sugar Axolotl (R), Ride-A-Pet Potion | **ILikePenguins94**: Chocolate Chip Bat Dragon (FR) ×2 |
-| 03:11 | **JustDo_It097**: Mr. Whiskerpips (N), Mrs. Whiskerpips (N) | **Panci_Terbang33**: Fly-A-Pet Potion |
-| 03:11 | **asteriavzx**: Pig | **krughatoxicoficial**: Fly-A-Pet Potion, Ride-A-Pet Potion ×6, Retired Egg ×10, Skelicorn |
-| 03:11 | **mor_2346**: Firefly | **Elmasinsano_392**: Ride-A-Pet Potion |
-| 03:11 | **mor_2346**: Ride-A-Pet Potion ×2 | **Darihkc**: Pineapple Owl |
-| 03:11 | **G1G1S4V1AT0RX0**: Chihuahua ×3, Classic Trade Stand, 2x Bucks Potion ×2 | **s7Mys**: Chihuahua (N) |
-| 03:11 | **Annie_isgiving**: Tilcayo, Ride-A-Pet Potion | **genesisgameryt504**: Strawberry Tortle |
+| 03:25 | **Memes_forthesoulalt**: Meerkat (MFR), Ice Cream Hermit Crab (MFR), Lamb (MFR) | **RobloxRules_890**: Werewolf (MFR) |
+| 03:25 | **epicpulsechaos2024**: Dragonfly ×11 | **Cwqxlly**: Ride-A-Pet Potion |
+| 03:25 | **JKoSMLa**: Shark Puppy (R), Copycat, S'mores Raccoon, Harp Seal, Ghostly Cat (M), Dumpling Friend Hat | **mxrgan66**: Siamese Cat |
+| 03:25 | **brooke_alt08**: Kangaroo (FR), Owlbear, Ride-A-Pet Potion, Fly-A-Pet Potion | **staymydear**: 2022 Birthday Party Hat |
+| 03:25 | **9vvdx**: Nessie (MFR) | **Aliya_nothere**: Goose (NFR) |
+| 03:25 | **0bl1vixusx**: Owlbear (MR), Kitty Bat (M) | **Arcyyicyy**: Strawberry Shortcake Bat Dragon (FR), Owlbear (NFR) |
+| 03:25 | **Lolbaddie1205**: Dalmatian (MFR) | **cxar_25**: Fairy Bat Dragon (MFR), Alley Cat (MFR), Albino Monkey (MFR), Frost Unicorn (MFR) |
+| 03:25 | **Angelbatista_me2**: Cryptid (FR), Turtle (FR), Kangaroo (FR), Strawberry Penguin | **hanb3ki**: African Wild Dog (FR) |
+| 03:25 | **Pinkmalinky123**: Snow Monkey (MR), Zombie Wolf (NR) | **ContentOtter9075**: Border Collie (NFR) |
+| 03:25 | **ItzLuxic**: Dango Penguins (NFR), Matcha Cat (NFR), Ice Cream Cone Hat | **Doleavdkeys**: Dango Penguins (MFR), Ride-A-Pet Potion ×2 |
+| 03:25 | **Officialzoeplayzrblx**: Hare (MR), Silly Duck (MFR), Harp Seal (MFR), French Bulldog (MR), English Sheepdog (MFR), Turtle (FR), Ride-A-Pet Potion ×2 | **vpzqik**: Parrot (FR) |
+| 03:25 | **INJVR1ES**: Amami Rabbit (MR), Flower Monocle, Flower Aura | **xom6ie**: Unicorn (M) |
+| 03:25 | **Kira_Django123**: Pet Handler Pro Certificate ×10 | **CuteCowHappy**: Ride-A-Pet Potion ×18 |
+| 03:25 | **numberonettcfan**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Kitty Bat (M), Happy Duckling (M), Ram (N), Chocolate Dutch Guinea Pig (N) | **GrindAccount_N1**: Parrot (FR) |
+| 03:25 | **mxrgan66**: Fairy Bat Dragon (NFR), Fairy Bat Dragon (R), Peppermint Penguin (FR), Shark Puppy (R) | **XxwizzizxX**: Strawberry Shortcake Bat Dragon (NFR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
