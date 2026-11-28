@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 12:11 UTC by the scrape workflow._
+_Updated 2026-11-28 12:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 12:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 36,293 | 2026-11-28T12:00 |
-| elve | 18 | 8,202 | 2026-11-28T12:01 |
+| amvgg | 18 | 36,539 | 2026-11-28T12:15 |
+| elve | 18 | 8,230 | 2026-11-28T12:15 |
 
-## AMVGG completed trades: 77,411 total
+## AMVGG completed trades: 77,443 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,770 |
+| 2026-11-28 | 2,802 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 12:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:11 | **Basikdead**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×17 |
-| 12:11 | **1fruitsicaIs**: Chocolate Chow-Chow, Golden Griffin, Dragonfly, Blue Whale, Three Blind Mice ×2, Pink Betta Fish, Retired Egg ×2, Sea Angel | **miartws**: Fly-A-Pet Potion |
-| 12:11 | **Lycoris_Achlys**: Giant Panda (FR), Ride-A-Pet Potion | **huyichan9130**: Hedgehog (FR), Cow (FR) |
-| 12:11 | **Mugina_Li**: Ride-A-Pet Potion ×2 | **hiledina1**: Stray Cat Dragon (M) |
-| 12:11 | **olddeathcore**: Bald Eagle (NFR), Diamond Hummingbird (N), Frost Phoenix (NFR), Fly-A-Pet Potion ×2, Sloth (NR) | **sutchoco2012**: Kangaroo (NFR), Cow |
-| 12:11 | **st4rrysushi**: Leopard Shark, Hippo, Gecko, Feesh | **AvaStud1ohq64**: Ride-A-Pet Potion ×2 |
-| 12:11 | **ameyyass**: Ride-A-Pet Potion ×2 | **loiol1004**: Kitsune (FR), Kitsune (R) |
-| 12:11 | **diwwiss080**: Goose (FR), Mermicorn (FR), Cerberus (R), Chocolate Dutch Guinea Pig, Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Pancake Stack | **Papitascongaseosa_xD**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:11 | **admxp_4**: Blue Cat (N) | **ttprincess007**: Mochi Meow |
-| 12:11 | **Klaysi_flayra**: Bubblegeist (N), Bubblegeist ×2 | **rasediva**: Ride-A-Pet Potion |
-| 12:11 | **SirCartier410**: Pain au Chat (M), Chihuahua (M), Musk Ox (MR), Seahorse (MFR) | **daanz2**: Fly-A-Pet Potion ×14, Ride-A-Pet Potion |
-| 12:11 | **Zosiaa106**: Retired Egg ×6 | **meowyippee3001**: Cattuccino |
-| 12:11 | **iiiPinkyBlossomx**: Crystal Egg ×15 | **Fastewetyr**: Ride-A-Pet Potion |
-| 12:11 | **Rryiiaaaoo**: Hedgehog (FR), 2022 Birthday Cake, Cryptid (FR), Siamese Cat, Unicorn (N) | **ljwempire777**: Frost Unicorn (MFR) |
-| 12:06 | **Lorenlsalone**: Cryptid (NFR), Ride-A-Pet Potion, Spring Bunny Hood, Pig (R) | **AwhxXiu**: Balloon Unicorn (FR), Cabbit (NFR) |
+| 12:15 | **Cinzsins**: Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (R) ×2, Strawberry Shortcake Bat Dragon, Chocolate Chip Bat Dragon (R) | **Guysitsroblox123**: Giraffe (FR) |
+| 12:15 | **fyllipyn**: Snow Cloud Wings | **RamoneTheRamona**: Christmas Pudding House |
+| 12:15 | **Heidhs59**: Mini Pig (FR), Goose (R), Hot Doggo (FR) | **tokki0000**: Field Mouse (MFR) |
+| 12:15 | **LoL22221364**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 12:15 | **srtyok43**: Kelp Raider Box ×3, Spider Gift ×5 | **sunvenC**: Ride-A-Pet Potion |
+| 12:15 | **nxdeio**: Hedgehog (FR), Christmas Pudding Pup (NFR) | **margini_mini**: Dalmatian (FR), Fairy Bat Dragon (FR), Albino Monkey (FR) |
+| 12:15 | **Elenaa_rox**: Unicorn | **blahblud**: Ride-A-Pet Potion |
+| 12:15 | **LuNaDjElisYt**: Halloween Slime Mega Neon Paint | **lili95640**: Hooray Pink Mega Neon Paint |
+| 12:15 | **Aubrey_Prism851**: Munchkin Cat (NR), Ride-A-Pet Potion ×3, Dire Wolf (N) ×4, Ghost (MFR) | **Lady_unicorn3807**: Mini Pig (R) |
+| 12:15 | **zackrichguy17**: Ride-A-Pet Potion, Binturong, Frostbite Bear and Cub Animated Sticker | **iluvmyselfsmmmmm**: Gingerbread Mansion, Christmas Pudding House, Fairytale Castle, Scary House, Luxury Apartments, Dragon's Castle |
+| 12:15 | **Danila121219**: Fly-A-Pet Potion ×5, Tuxedo Cat | **vvaryaa58AaS**: Latte Kitsune (N) |
+| 12:15 | **TIUeTAI**: Werewolf (FR) | **0_0ship21**: Hyena (NFR) |
+| 12:15 | **AvaStud1ohq64**: Ride-A-Pet Potion ×2 | **loiol1004**: Blossom Snake, Nutcracker Squirrel ×3, Shiver Wolf ×3 |
+| 12:15 | **C_Darragh123**: Water Rabbit (N) | **Anoyyed_95**: Moose Calf |
+| 12:15 | **Junjyungg**: Toaster Hat ×2 | **starfire_33334**: Unicorn Horn |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
