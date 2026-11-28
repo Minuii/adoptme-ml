@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 14:46 UTC by the scrape workflow._
+_Updated 2026-11-28 14:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 14:46 UTC by the scrape workflow._
 | amvgg | 18 | 39,246 | 2026-11-28T14:45 |
 | elve | 18 | 8,931 | 2026-11-28T14:46 |
 
-## AMVGG completed trades: 78,230 total
+## AMVGG completed trades: 78,292 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 3,589 |
+| 2026-11-28 | 3,651 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 14:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:45 | **Rainy_rarr**: Pinkypillar (N), Mouse (N), Jiggly Jerboa (N), Hopbop (N), Dog (N), Cat (N), Buffalo (N), Ant (N), Snow Cat (N) | **lantongzp**: Ride-A-Pet Potion |
-| 14:45 | **B0PP0H**: Abyssinian Cat (N), Clumpty (N), Granny Wolf (N), Orangutan (N), Thunderfisher (N), Budgie Witch (N), Caramelgeist (N), Pink Dog (N), Princess Mare (N), Mouse (N) | **lantongzp**: Ride-A-Pet Potion |
-| 14:45 | **Bika_1234886**: Gingerbread Mansion | **kokolo138**: Snowball Pet |
-| 14:45 | **fchdhfjggch**: Sloth (R) | **I1ch0**: Retired Egg ×18 |
-| 14:45 | **Bika_1234886**: Paint Sealer ×15 | **omeIody**: Ride-A-Pet Potion |
-| 14:45 | **cikanik107B**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **ilykamrin**: Cow (FR) |
-| 14:45 | **trade_toshadow02**: Turtle (R) | **KatsuTatsuya**: Strawberry Tortle |
-| 14:45 | **Artem_21a2**: Arctic Reindeer (FR), Ride-A-Pet Potion, Pig (R) | **waruKosh**: Strawberry Shortcake Bat Dragon (FR), Frost Unicorn (FR) |
-| 14:45 | **xXAestheticxSkyX**: Siamese Cat (R) | **zoommbbeee**: Rain Cloud Hat, Spring Bunny Nose, Spring Bunny Feet, Fly-A-Pet Potion |
-| 14:45 | **pmpjmg1**: Siamese Cat (FR) | **MHE_HUEVO1**: Pet Handler Pro Certificate ×11 |
-| 14:45 | **Whitemen5323**: Strawberry Tortle (N) ×3 | **RuthJavxn**: Frost Dragon (FR), Fly-A-Pet Potion ×2 |
-| 14:45 | **Vernite_chat0**: Werewolf (FR) | **Bl31Z_01**: Kangaroo (FR) |
-| 14:45 | **Daria_PON1**: Nessie (MFR), Shark Puppy (R), Munchkin Cat (NR), Phoenix (MFR), Fly-A-Pet Potion ×4, Pet Handler Pro Certificate | **Scfterqx**: Sea Slug (MFR) |
-| 14:45 | **raadmlayah**: Fairy Bat Dragon (MFR), Dalmatian (FR) | **Skiaksn**: Cryptid ×3, Cow (FR), Shadow Dragon Ducky (MR) |
-| 14:45 | **daikinnw1**: Turtle (FR) | **Avi_ator12**: Fly-A-Pet Potion ×7, Ride-A-Pet Potion ×9 |
+| 14:55 | **7QqX2mP9L4tRaKZQq8X**: Giant Panda (R), Ride-A-Pet Potion, Diamond Hamster | **NeLiza19926**: Arctic Reindeer (NFR) |
+| 14:55 | **itz_grigoriy**: Ride-A-Pet Potion | **xikirina**: Thunderfisher ×18 |
+| 14:55 | **SandSavannah2003**: Candicorn (R), Ballet Swan (FR), Glormy Hound (FR), Ride-A-Pet Potion | **FouWait1**: Turtle (FR) |
+| 14:55 | **azxpredxtorn**: 2022 Birthday Party Hat, Kangaroo (FR) | **seanconcannon**: Dango Penguins (MFR) |
+| 14:55 | **prittiEmEm**: Golden Hamster (MFR), Super Saru (MFR), Binturong (MFR), Elasmosaurus (MFR), Flower Power Duckling (MFR), German Shepherd (MFR), Halloween White Skeleton Dog (MFR), Karate Gorilla (MFR), Mirai Moth (MFR), Preppy Capuchin Monkey (MFR), S'mores Raccoon (MFR), Tuxedo Cat (MFR), French Bulldog (MFR), Kappakid (MFR), Nutcracker Squirrel (MFR), Toy Poodle (MFR), Nebula Snake (MFR) | **kittencute_gamerXD**: Winged Tiger (MFR) |
+| 14:55 | **robloxer_3614**: French Bulldog, Mule, Black Macaque | **24k_ichi**: Ice Wolf (FR), Albatross |
+| 14:55 | **Fatima717408**: Albino Monkey (FR) | **IsabellaMystery**: Pig (R), Giant Anteater |
+| 14:55 | **leidydamelike**: Corgi, Robot, Parakeet ×4, Clumpty ×4 | **altforamvgg_x**: Retired Egg ×5 |
+| 14:55 | **Vitek_228666**: Crocodile (FR) | **943049209d**: Ride-A-Pet Potion ×13 |
+| 14:55 | **Lisalove_398**: Fairy Bat Dragon (FR) ×3, Fairy Bat Dragon (R) | **splead565**: Hedgehog (FR), Fly-A-Pet Potion |
+| 14:55 | **31kDracoMalfoyFan**: Jellyfish (R), Shih Tzu (N) | **Arabik_XD228**: Sea Slug (R), Stray Cat Dragon (N) |
+| 14:55 | **Jungito_4**: Parrot (NFR), Chocolate Dutch Guinea Pig (N) | **lina200r**: Frost Dragon (FR), Strawberry Shortcake Bat Dragon (FR) |
+| 14:55 | **hell87o0**: Halloween Slime Mega Neon Paint, Crystal Egg, Retired Egg ×2, Paint Sealer, Dragonfly | **Giodg2006**: Hooray Pink Mega Neon Paint |
+| 14:55 | **toybeau772**: Pupcicle | **Xnixht**: 2x Bucks Potion |
+| 14:55 | **uh_dulciee**: Kitty Biscuit | **sjak696**: Chihuahua ×2 |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
