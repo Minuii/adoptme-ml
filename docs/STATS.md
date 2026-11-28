@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 07:01 UTC by the scrape workflow._
+_Updated 2026-11-28 07:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 07:01 UTC by the scrape workflow._
 | amvgg | 18 | 31,200 | 2026-11-28T07:00 |
 | elve | 18 | 6,961 | 2026-11-28T07:01 |
 
-## AMVGG completed trades: 76,106 total
+## AMVGG completed trades: 76,145 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 1,465 |
+| 2026-11-28 | 1,504 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 07:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 07:00 | **ii_xuytr**: Tutu, Happy Duckling | **Elmasinsano_392**: Ride-A-Pet Potion |
-| 07:00 | **gauzebunny**: Kitty Bat (N), Blossom Snake (N) | **Angel_rainmonster**: Raccoon (N) ×3 |
-| 07:00 | **M1ssd3ath_x**: Ride-A-Pet Potion ×2 | **sasha_574611**: Vanilla Penguin |
-| 06:55 | **PRODAZA_STARPETS**: Dalmatian (FR) | **Okayayxpop**: Flaming Fox (MFR), Mini Schnauzer (MFR), Catte (MFR) |
-| 06:55 | **didlitown**: Fly-A-Pet Potion | **bikosh_s1**: Ride-A-Pet Potion ×2 |
-| 06:55 | **nerdoitdabest**: Giant Panda (NFR), Balloon Unicorn (FR), Halo | **Yasaas13**: Giraffe (NFR) |
-| 06:55 | **m1xa_0**: Strawberry Shortcake Bat Dragon (MFR), Peppermint Penguin (MFR), Toaster Hat, Pink Cat Ear Headphones | **xbleedingdolly**: Bat Dragon (FR) |
-| 06:55 | **FisheYT3**: Cryptid (R), Cryptid (FR), Fairy Bat Dragon (FR), Pig (R) | **bwyyann**: Strawberry Shortcake Bat Dragon (FR) ×3, Cow (FR) |
-| 06:55 | **DidIJustMakeThisAcc**: Munchkin Cat (NFR) | **Imcute10088**: Munchkin Cat (N), Ride-A-Pet Potion |
-| 06:55 | **BoatNTreasure**: Ring-Tailed Lemur (NFR), Chocolate Chip Bat Dragon (FR) ×2 | **isabella68078**: Crow (FR) |
-| 06:55 | **ballerin0cappuccin02**: Arctic Reindeer (FR), Cow (FR), Elephant (R), Elephant (FR), Pig (R), Pink Cat (NFR) | **67hvttestchip**: Parrot (FR), Ride-A-Pet Potion ×2, Strawberry Penguin |
-| 06:55 | **hhhauntedddd**: Cobra, Chocolate Chow-Chow, Golden Unicorn | **Hasiiiiiiiiiiiii**: Rainbow Stroller |
-| 06:55 | **YeoTaeju_Alpha**: Strawberry Shortcake Bat Dragon (FR) | **vampire2169**: Kangaroo (FR) ×3, Frost Fury (FR) |
-| 06:55 | **Taco_Nakoosh8**: Cryptid (FR) | **tattletelI**: Sheeeeep (MFR) |
-| 06:55 | **Taco_Nakoosh8**: Sheeeeep (MFR), Ballet Swan (M), Albino Gorilla (MFR), Purple Butterfly (N) | **sweetn6thing**: Cryptid (NFR) |
+| 07:06 | **Dominat0r_Sha**: Bunny Swirl (M), Kitty Bat (MR) | **user9461037**: Kangaroo (FR) |
+| 07:06 | **DefinitelyNotCha6**: Mongoose ×2, Ground Sloth ×3, Dugong, Bandicoot ×4, Wolf, Dingo ×3, Stegosaurus, Tanuki, Snowman, Robin | **booluqx**: Fly-A-Pet Potion |
+| 07:06 | **YeoTaeju_Alpha**: Kangaroo (FR) | **tufvfffdjdg**: Ride-A-Pet Potion ×17 |
+| 07:06 | **SomeoneStoleMyChance**: Skelicorn (M) | **h4_cd**: Ride-A-Pet Potion ×2 |
+| 07:06 | **crack287458**: Ride-A-Pet Potion | **anastasia2_lol**: Crystal Egg ×17 |
+| 07:06 | **Shynisocool**: Ginger Cat (MR) | **AvaStud1ohq64**: Purrowl ×18 |
+| 07:06 | **ellielielielieee**: Ride-A-Pet Potion ×2 | **Nasty_7392**: Half Egg Stroller |
+| 07:06 | **DefinitelyNotCha6**: Dingo ×4, Crab, Chickatrice ×2, Birthday Butterfly 2024, Bat ×2, Yellow Butterfly ×2, Woolly Mammoth, Thorny Devil, Singularity Pisces, Seahorse, Scarecrow Horse, Rat | **booluqx**: Fly-A-Pet Potion |
+| 07:06 | **crack287458**: Ride-A-Pet Potion | **FAIRY_264**: Crystal Egg ×15, Fairytale Egg ×3 |
+| 07:06 | **Maruchita_com**: Caterpillar (R) | **Ami_Mixed**: Glormy Hound (R), Shark Puppy, White Chef Hat |
+| 07:06 | **La_boyMich15**: Arctic Reindeer (FR), Evil Unicorn (FR) ×2, Cow (NFR), Emperor Gorilla, Candicorn, Jester Dragon, Flaming Fox (N), Pancake Stack ×2, Fly-A-Pet Potion ×2 | **Str_ge46**: Giraffe (FR) |
+| 07:06 | **reaInyancat**: Cuddly Candle | **M1ssd3ath_x**: Ride-A-Pet Potion |
+| 07:06 | **Paletazow**: Arctic Reindeer (NFR) | **pyonyo1130**: Royal Mistletroll (NFR), Jester Dragon (MFR) |
+| 07:06 | **Cutewaeilae**: Pelican (FR) | **Aghsgehsn**: Turtle (FR) |
+| 07:06 | **r1v3rsides**: Giraffe (FR), Goose (FR) ×5, Cow (FR) ×4, Strawberry Shortcake Bat Dragon (R), Strawberry Shortcake Bat Dragon, Cabbit (R) | **jamacian_men**: Bat Dragon (FR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
