@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 16:46 UTC by the scrape workflow._
+_Updated 2026-11-28 16:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 16:46 UTC by the scrape workflow._
 | amvgg | 18 | 41,514 | 2026-11-28T16:45 |
 | elve | 18 | 9,547 | 2026-11-28T16:46 |
 
-## AMVGG completed trades: 78,922 total
+## AMVGG completed trades: 79,011 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 4,281 |
+| 2026-11-28 | 4,370 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 16:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:41 | **JenYAsha2akk12**: Kangaroo (FR) ×2, Fly-A-Pet Potion, Ride-A-Pet Potion | **fitt04_08**: Candicorn (NFR) |
-| 16:41 | **3L1EE**: Owl (FR) | **TreshMilana**: Strawberry Shortcake Bat Dragon (FR), Arctic Reindeer (FR) ×2, Cotton Candy Hat, Pink Heart Glasses |
-| 16:41 | **lwllyxxyAlt**: Blue Cat (M), River Otter (M), Red Squirrel (NR), Gila Monster (M), Shiver Wolf (NFR), Rubber Ducky (M) | **Goodnews2013**: Giant Anteater |
-| 16:41 | **dnei30fast**: Turtle (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **1nikaroctik**: Fairy Bat Dragon (FR) |
-| 16:41 | **ikeumw**: Frost Dragon (FR) | **Iheartstars7**: Mini Pig (R), Cow (FR) ×2, Cow (R), Goose (R) ×3, Arctic Fox ×2 |
-| 16:41 | **qlltm**: Strawberry Shortcake Bat Dragon (NFR), Haetae (FR), Hedgehog (FR), Orchid Butterfly (FR), Arctic Reindeer (FR) ×2, Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon, Cabbit (NFR), Albino Monkey (R) | **Peewithkaka**: Bat Dragon (FR) |
-| 16:41 | **Abducat55**: Cow (NFR) | **KURFF3W**: Copycat (M) |
-| 16:41 | **Angelbatista_me2**: Grim Dragon, Turtle (FR), Elephant (FR) | **add1wxDDD**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:41 | **donnotinteract**: Mule | **Lolaa_chn**: Ride-A-Pet Potion |
-| 16:41 | **vivicacke17**: Fennec Fox (N), Rubber Ducky (N), California Condor (N) | **reine_tueuse100**: Buffalo (R) |
-| 16:41 | **Chxssxn**: Dalmatian (FR) | **XxBlackLion49**: Strawberry Shortcake Bat Dragon (FR), Jekyll Hydra (FR) |
-| 16:41 | **krimpriiz**: Goose (FR), Mini Pig (FR), Cow (FR), Candicorn (R), Flamingo (R), Ride-A-Pet Potion | **st4rman_sl4ughter**: Giant Panda (FR) |
-| 16:41 | **Makiahishere**: Pain au Chat, Cattuccino ×2, Pupcicle | **RealVeronnisaa**: Ride-A-Pet Potion |
-| 16:41 | **soy_anonim6**: Butter Knife | **heart_xi1**: Crystal Egg ×9 |
-| 16:41 | **Acorn0930**: Ice Moth Dragon (MFR) | **Lunagamer2053**: Frost Phoenix (NFR) |
+| 16:55 | **xmikaeq**: Sushi Penguin (MFR) | **lalalalalala388382**: French Bulldog (MFR) |
+| 16:55 | **Mary_Andrev1213**: Ocelot (M), Mrs. Whiskerpips (N), Abyssinian Cat (N) | **ItssMeBrookie**: Ride-A-Pet Potion |
+| 16:55 | **itsmemolly1524**: Retired Egg ×4 | **Hxnnah_zahra**: Purrowl |
+| 16:55 | **Youmyrii**: Ride-A-Pet Potion | **smooike**: Crystal Egg ×18 |
+| 16:55 | **regina_12z**: Fly-A-Pet Potion | **BOLK_998**: Classic Trade Stand ×3 |
+| 16:55 | **Vitamirka**: Kiwi Kiwi ×6 | **AceByteArrow3080**: Ride-A-Pet Potion ×3 |
+| 16:55 | **Robloxiana_xxx2011**: Copycat (NR) | **itz_dancer5496**: Yeti (MFR) |
+| 16:55 | **hahatyn2024**: Ride-A-Pet Potion | **Vitamirka**: Kiwi Kiwi ×2 |
+| 16:55 | **AkiraKeyni**: Ride-A-Pet Potion ×7 | **EthanNovaZoom2024**: Fly-A-Pet Potion ×4 |
+| 16:55 | **the_randomgirl1812**: Cow (R), Werewolf (FR), White Amazon (MFR), Ice Cream Cone Hat | **KiraChalaya**: Arctic Reindeer (FR) |
+| 16:55 | **dogebabycutieisgone**: Ride-A-Pet Potion | **smooike**: Crystal Egg ×18 |
+| 16:55 | **Fifiosi0**: African Wild Dog (R), Turtle (FR) | **Mx1shu**: Parrot (FR) |
+| 16:55 | **nainalt5**: Momma Moose (MR), Albatross (MFR) | **frergthadfe**: Glormy Hound (NFR) |
+| 16:55 | **Spayder77777**: Black Springer Spaniel (MFR), German Shepherd (MFR), Brown Springer Spaniel (MFR), Goldhorn (NFR), Therapy Dog (MR), Flower Power Duckling (N), Happy Duckling (N), Ghost (N), Angus Cow (N) | **Katya_1922**: Arctic Reindeer (FR) |
+| 16:55 | **nenerod23**: Rose Quartz Glow Mega Neon Paint, Slimingo Feather Teleporter | **plssnomore**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
