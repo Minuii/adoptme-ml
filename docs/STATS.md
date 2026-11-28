@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 00:25 UTC by the scrape workflow._
+_Updated 2026-11-28 00:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 00:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 24,133 | 2026-11-28T00:15 |
-| elve | 18 | 5,324 | 2026-11-28T00:16 |
+| amvgg | 18 | 24,378 | 2026-11-28T00:30 |
+| elve | 18 | 5,381 | 2026-11-28T00:31 |
 
-## AMVGG completed trades: 74,767 total
+## AMVGG completed trades: 74,777 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 126 |
+| 2026-11-28 | 136 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 00:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 00:30 | **v6mpireeee**: Elephant (FR), Fly-A-Pet Potion ×8, Pet Handler Pro Certificate, Pain au Chat | **U_sulla**: Cow (FR) |
+| 00:30 | **wx8zqxx**: Ice Golem (M) | **Omar2002548**: Ice Golem (MFR) |
+| 00:30 | **haruharukaa**: Christmas Pudding House, Gingerbread Mouse, Gingerbread Hare ×2 | **Viktoriarilax**: Ride-A-Pet Potion |
+| 00:30 | **HBT_c6TwqiHVXO**: Ride-A-Pet Potion | **husky_lover4eva**: Golden Dandelion |
+| 00:30 | **xchansrighteyelashx**: Arctic Dusk Dragon (NFR), Glormy Dolphin (NR), Llama (FR) | **nana_banana8412**: Tilcayo (R) |
+| 00:30 | **iris2012septiembre1**: Sakura Spirit (FR), Nessie (FR), Happy Duckling | **tia_plays3**: Shark Puppy (FR) |
+| 00:30 | **RobloxRules_890**: Shark Puppy (MFR), Majestic Pony (MFR), Ice Cream Hermit Crab (MR) | **oc6eanblvd**: Cow (MFR) |
+| 00:30 | **kiff_shik**: Hot Doggo (FR), Peppermint Penguin (R), Sugar Glider (R), Candyfloss Chick (FR), Rain Cloud Hat, Cupid Dragon (R), Lion Cub (F) | **SkaterPlayzQueen2016**: African Wild Dog (FR) |
+| 00:30 | **DawnL9Lighti9Chill19**: Munchkin Cat | **Countmeowww**: Sea Slug |
+| 00:30 | **Xz_CodeOLDriftdLBliz**: Fly-A-Pet Potion ×3 | **XSamxggX**: Chocolate Dutch Guinea Pig (N) |
 | 00:25 | **Notztime**: Alley Cat (NR), Hippo (MR), Capybara, Fly-A-Pet Potion | **Razoqz**: Nessie (NFR) |
 | 00:25 | **ItsMidnight_PlayzUwU**: Flaming Fox (N), Shark Puppy (R), White Chef Hat | **Elmasinsano_392**: Unicorn Horn |
 | 00:25 | **rainthatxx**: Kangaroo (FR), Fly-A-Pet Potion | **fadinqxxxrosies**: Unicorn Horn |
 | 00:25 | **BreadFloppaPS**: Sugar Glider (FR), Fly-A-Pet Potion | **fadinqxxxrosies**: Fairy Bat Dragon (FR) |
 | 00:25 | **Furry_lechuga**: Tealwood Monster (N), Golden Unicorn, Three Blind Mice, Sea Turtle, Ancient Dragon, Dragonfly, Toxic Kaijunior, Skelicorn, Jumpscare, Pomeranian | **haylie90kmkh**: Ride-A-Pet Potion |
-| 00:25 | **miosiita**: Peacock (R) | **ameyyass**: Hooray |
-| 00:25 | **jayden_5757xx**: Mighty Haetyphoon Animated Sticker | **Bika_1234886**: Paint Sealer ×6 |
-| 00:25 | **add1wxDDD**: Ride-A-Pet Potion | **sweetlittlegf**: Pain au Chat ×3 |
-| 00:25 | **Bacon_Pro019287**: Dalmatian (FR), Flamingo (R) | **misswoodhouseyear1**: Hedgehog (FR) |
-| 00:25 | **arturo7pose12345**: Jester Dragon (R), Ride-A-Pet Potion | **plasfreerb**: Jester Dragon (FR) |
-| 00:25 | **hjhjfjfjfy**: Bee (NR), Crystal Egg ×2 | **anjelitodelcielopet**: Ride-A-Pet Potion |
-| 00:25 | **kjm_5741**: Cupid Dragon (R), Unicorn Horn, Ride-A-Pet Potion ×2 | **ContentOtter9075**: Lion Cub (NFR) |
-| 00:25 | **SophiaStormy136**: Crystal Egg ×18 | **o8ayn**: Ride-A-Pet Potion |
-| 00:25 | **hipizzaok123**: Aussie Egg | **sleepy_s0ren**: Ride-A-Pet Potion ×4 |
-| 00:25 | **Itscassiehere1**: Hare (MFR), Red Dutch Guinea Pig (NFR), S'mores Raccoon (MR) | **Addmymainpls2332**: Groundhog (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
