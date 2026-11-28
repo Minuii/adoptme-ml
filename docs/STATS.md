@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 14:25 UTC by the scrape workflow._
+_Updated 2026-11-28 14:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 14:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 38,708 | 2026-11-28T14:15 |
-| elve | 18 | 8,760 | 2026-11-28T14:15 |
+| amvgg | 18 | 38,998 | 2026-11-28T14:30 |
+| elve | 18 | 8,856 | 2026-11-28T14:31 |
 
-## AMVGG completed trades: 78,094 total
+## AMVGG completed trades: 78,099 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 3,453 |
+| 2026-11-28 | 3,458 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,6 +39,11 @@ _Updated 2026-11-28 14:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 14:30 | **Flutterieshyy**: Giraffe (FR), Shark Puppy | **ansatasiiaa**: Evil Unicorn (FR), Turtle (NFR), Hedgehog (FR), Chocolate Chip Bat Dragon (FR), Goose (R), Frost Unicorn (R), Frost Unicorn (F), Kangaroo (FR) |
+| 14:30 | **pasha_zara**: Giraffe (FR), Fly-A-Pet Potion ×2 | **ansatasiiaa**: Parrot (NFR), Strawberry Shortcake Bat Dragon (FR) |
+| 14:30 | **Sadochok_456**: Frost Fury (FR), Pig, Maine Coon (MFR), Cheetah, Lavender Dragon, Albino Gorilla, Golden Chow-Chow, Slimingo (NFR), Apple Owl, Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 | **xXNarynaryXx**: Goose (FR) |
+| 14:30 | **chapa4ka579**: Glyptodon ×8 | **bella171210**: Ride-A-Pet Potion ×2 |
+| 14:30 | **sky_lilly08**: Purrowl (N) | **Rainbows2155**: Retired Egg ×15 |
 | 14:25 | **arquilo11**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
 | 14:25 | **shuttchoo**: Crow (NFR), 2022 Birthday Party Hat | **KIAZER_A**: Hedgehog (FR), Dalmatian (FR) ×2, Strawberry Shortcake Bat Dragon (FR) |
 | 14:25 | **Vika_fortrading**: Strawberry Tortle, Ride-A-Pet Potion | **kqlaxz**: Vanilla Penguin (MFR) |
@@ -49,11 +54,6 @@ _Updated 2026-11-28 14:25 UTC by the scrape workflow._
 | 14:25 | **phonky_phonkacc2**: Peppermint Penguin (FR) | **fatlotto**: Many Mackerel (R), Munchkin Cat (R), Pig, Shrew, Halloween Evil Dachshund (M), Fly-A-Pet Potion, Ride-A-Pet Potion, Sasquatch (MR) |
 | 14:25 | **euprism**: Metal Ox (R), Ginger Cat, Lunar Ox, Toucan, Beaver ×3, Gorilla ×3, Lunar Tiger | **Esmiraks2014**: Ride-A-Pet Potion |
 | 14:25 | **ansatasiiaa**: Mini Pig (MFR), Rain Cloud Hat | **Berryavenueslag**: Giraffe (FR) |
-| 14:20 | **PipEerrSsPinKY**: Chihuahua (MFR), Ride-A-Pet Potion, Fly-A-Pet Potion | **dollie_vx**: Alley Cat (NFR) |
-| 14:20 | **carolzinhac2009**: Mirai Moth (MR) | **fairyqxfaee**: Ride-A-Pet Potion ×6 |
-| 14:20 | **kotek_kot91**: Ride-A-Pet Potion ×10, Zombie Wolf (MFR) | **olddeathcore**: Undead Jousting Horse (FR) |
-| 14:20 | **Quandrosz**: Ring-Tailed Lemur | **Esmiraks2014**: Ride-A-Pet Potion ×3 |
-| 14:20 | **CEMEH_HOCKOB**: Unicorn ×5 | **awx_mili**: Ballet Swan, Ride-A-Pet Potion, Chihuahua |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
