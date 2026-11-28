@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 19:25 UTC by the scrape workflow._
+_Updated 2026-11-28 19:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 19:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 44,417 | 2026-11-28T19:15 |
-| elve | 18 | 10,224 | 2026-11-28T19:16 |
+| amvgg | 18 | 44,687 | 2026-11-28T19:30 |
+| elve | 18 | 10,304 | 2026-11-28T19:31 |
 
-## AMVGG completed trades: 79,821 total
+## AMVGG completed trades: 79,847 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 5,180 |
+| 2026-11-28 | 5,206 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 19:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 19:25 | **Slivka_olivkas**: Ride-A-Pet Potion | **XxMoonFunxX**: Pupcicle ×2 |
-| 19:25 | **Bow_trader**: Modern Mansion, Festive Wagon ×2, Celestial Carrier ×3, Festive Light Crown ×3, Aurora Fox Sticker ×9 | **roblox_user_7841128902**: Velocirooster |
-| 19:25 | **Cheoeden**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR) | **archivebni**: Haetae (FR) |
-| 19:25 | **qwerx0we**: Fly-A-Pet Potion ×2, Harp Seal | **Polinrebhe**: Harp Seal (N) |
-| 19:25 | **sleepy_s0ren**: Cow (FR), Goose (FR) | **Pimbo_Peep2011**: Farm Egg |
-| 19:25 | **jenephiie**: Chameleon (NFR), Ride-A-Pet Potion ×6 | **Monster_chee**: Arctic Fox (FR) |
-| 19:25 | **chikibamboniill**: Fly-A-Pet Potion ×6, Ride-A-Pet Potion ×12 | **thvdexO**: Turtle (FR) |
-| 19:25 | **lin_ox1**: Many Mackerel | **Unnie_Sakura**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
-| 19:25 | **rosekitten321**: Ballet Swan (MFR) ×2 | **xmikaeq**: Balloon Unicorn (FR) |
-| 19:25 | **HudaSp3ctralRunn3r40**: Red Dutch Guinea Pig (NR) | **ll_llllpn**: Yeti (MFR), Purple Heart Glasses, Pink Butterfly Wings, Cat Backpack |
-| 19:25 | **Kiffy_nanamineOwO**: Mermicorn (FR), Peppermint Penguin (R) | **Gretavorxd**: Chocolate Chip Bat Dragon |
-| 19:25 | **herosan83**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion | **bears_loveme**: Cow (FR) |
-| 19:25 | **Frits_Snoek**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **BlockJvBuilderKvRock**: Jester Dragon (FR) |
-| 19:25 | **waruKosh**: Fly-A-Pet Potion | **schov77**: Boohoo (M) |
-| 19:25 | **Dawnavae**: Evil Unicorn (FR) | **FcNikita24**: Hedgehog |
+| 19:30 | **XxMoonFunxX**: Pupcicle ×7 | **b_cky992011**: Fly-A-Pet Potion ×2 |
+| 19:30 | **Qu33nDQCrimsonO19932**: Chihuahua ×14 | **lapandaloca43**: Ride-A-Pet Potion ×6 |
+| 19:30 | **BALLERINA_EMI**: Ride-A-Pet Potion | **iixdani784**: Chicken Hat |
+| 19:30 | **schIoobie**: Cabbit (FR), Frost Unicorn, Tilcayo | **liza8498**: Chocolate Chip Bat Dragon (FR) |
+| 19:30 | **Dimadyra00**: Hedgehog (FR), Kangaroo (FR) ×2, Pig (FR) ×2, Frost Fury (R), Fly-A-Pet Potion ×2, Pink Cat Ear Headphones | **DIANO4KAJ**: Balloon Unicorn (FR) |
+| 19:30 | **Kipperlekangaroo**: Fly-A-Pet Potion | **littlefelonies**: Chihuahua, Emu, Albatross, Bee, Blue Jay, Ibis, Kelp Raider, Poison Dart Frog, Scarecrow Horse, Slug, Frogspawn, Woodpecker, Stegosaurus, Orange Betta Fish, Hammerhead Shark, Dingo |
+| 19:30 | **alicehe0601**: Pupcicle | **JulianaStaysHere**: White Sand Dollar |
+| 19:30 | **st4rman_sl4ughter**: Pig (FR) | **coconut10247**: Gemstone Egg ×18 |
+| 19:30 | **Yuixxx_000**: Cryptid (FR), Unicorn Horn, Rain Cloud Hat, Tiny Wings, Dire Wolf (M), Arctic Dusk Dragon (R), Wild Boar (NR), Chocolate Chow-Chow (NR), Koi Carp ×2, Lunar Tiger Box ×3, Pink Heart Glasses | **Ghoulzxclos**: Chocolate Chip Bat Dragon (NFR) |
+| 19:30 | **sopsop123671**: Admin Vision Cap, Admin Abuse Egg | **MamaB131622**: Dragonfruit Fox |
+| 19:30 | **MoMtobias**: Tilcayo (FR), Mule (MFR), Pink Betta Fish (MR), Ride-A-Pet Potion ×2 | **GL0SSY4XIS**: Frost Unicorn (NFR) |
+| 19:30 | **JenYAsha2akk12**: Candicorn (NFR), Kangaroo (FR), Ride-A-Pet Potion ×3 | **itz_smurf1k**: Strawberry Shortcake Bat Dragon (FR) |
+| 19:30 | **Robloxiana_xxx2011**: Admin Abuse Egg ×7, Three Blind Mice, Golden Griffin | **luvmi1w0k**: Paint Sealer ×3 |
+| 19:30 | **mitskiixmywakix**: Chocolate Dutch Guinea Pig (MFR), Spring Bunny Hood, Spring Bunny Nose | **ContentOtter9075**: Hot Doggo (FR) |
+| 19:30 | **BriellaJazara2013**: Bunny Swirl (MFR) | **riskyactss**: Toaster Hat |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
