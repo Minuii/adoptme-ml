@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 09:01 UTC by the scrape workflow._
+_Updated 2026-11-28 09:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 09:01 UTC by the scrape workflow._
 | amvgg | 18 | 33,291 | 2026-11-28T09:00 |
 | elve | 18 | 7,421 | 2026-11-28T09:01 |
 
-## AMVGG completed trades: 76,534 total
+## AMVGG completed trades: 76,580 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 1,893 |
+| 2026-11-28 | 1,939 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 09:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 09:00 | **ojerico432**: Chocolate Chip Bat Dragon (FR), Hedgehog (R), Dalmatian (R), Hedgehog (FR) ×4, Dalmatian (FR), Tiny Wings, Candicorn, Flamingo | **sigmaizzmailovvvv2**: Cryptid (MFR) |
-| 09:00 | **Vitek_228666**: Kangaroo (FR) | **kayestn**: Ride-A-Pet Potion ×17 |
-| 09:00 | **oliviaa_0872**: Brown Bear (MFR), Velocirooster | **Koko73464**: Rainbow Maker |
-| 09:00 | **oliviaa_0872**: Brown Bear (MFR), Velocirooster | **Koko73464**: Rainbow Maker |
-| 09:00 | **bukSlamet**: Latte Kitsune (MFR), Pet Handler Pro Certificate ×2 | **Idkwho_amIrll**: Copycat (N), Jester Dragon (NFR), 2022 Birthday Party Horn, Ride-A-Pet Potion |
-| 09:00 | **Usuario30x**: Queen Bee (R) | **JuJu200LoL10**: Fly-A-Pet Potion |
-| 08:55 | **sonyaxxvc**: Ride-A-Pet Potion | **Kir4kaa**: Gemstone Egg ×2 |
-| 08:55 | **Ryou_senpai05**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **xTrxstedCodee**: Frost Dragon (FR) |
-| 08:55 | **Saji_Ls**: Unicorn (NFR) | **feliandfio**: Ride-A-Pet Potion ×5 |
-| 08:55 | **starswirl_64**: Koi Carp ×4 | **gottloveemayaa**: Ride-A-Pet Potion |
-| 08:55 | **daran_waren**: Hooray Pink Mega Neon Paint, Diamond Griffin | **HOONMINLIXGYU**: Ride-A-Pet Potion |
-| 08:55 | **AvaStud1ohq64**: Ride-A-Pet Potion ×2 | **prostod_f**: Ghost Bunny (R), Dragon (NR) |
-| 08:55 | **Fubukingss**: Crystal Egg ×12 | **Lutos200999**: Ride-A-Pet Potion |
-| 08:55 | **KatsuTatsuya**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **xTrxstedCodee**: Owl (FR) |
-| 08:55 | **B0PP0H**: Royal Palace Spaniel (NFR) | **Yumi_Rose8**: Ride-A-Pet Potion ×2 |
+| 09:06 | **tigydch**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×5 | **Yumi_Rose8**: Cow (R) |
+| 09:06 | **Orange_Sunlights**: Goose, Diamond Amazon | **Crystal_andLisa**: Candicorn (NFR) |
+| 09:06 | **FAIRY_264**: Crystal Egg ×16 | **Pypssssik**: Ride-A-Pet Potion |
+| 09:06 | **iamnoonetobehere**: Ride-A-Pet Potion ×18 | **Xxxxashhhh**: Fly-A-Pet Potion ×10 |
+| 09:06 | **ZockerCelina_20**: Matcha Cat | **Kittycuty26**: Ride-A-Pet Potion ×6 |
+| 09:06 | **kjguyumiyuri**: African Wild Dog (FR), Fly-A-Pet Potion, Ghost Bunny | **santiagoxdeleon**: Arctic Reindeer (NFR) |
+| 09:06 | **sweetlilk64**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 09:06 | **clalouetciedh**: Dragonfly ×16 | **Frs_88xx**: Ride-A-Pet Potion |
+| 09:06 | **TT_0qwerty45**: Hedgehog (FR), Kangaroo (FR) | **ghxulbeing**: Strawberry Shortcake Bat Dragon (FR) ×2 |
+| 09:06 | **ydoch1213**: Harp Seal (MFR) | **lalalalalala388382**: Candicorn (FR), Sweetheart Rat (MFR) |
+| 09:06 | **ljwempire777**: Kangaroo (FR) ×2 | **Arracheurdetacos224**: Husky (MFR) |
+| 09:06 | **amvgg_fortrades**: Strawberry Shortcake Bat Dragon (R), Strawberry Shortcake Bat Dragon (FR) ×2, Tiny Wings | **gv4re**: Owl (FR) |
+| 09:06 | **DrendyRobLox**: Stray Cat Dragon ×8 | **heladitoooUnU**: Ride-A-Pet Potion |
+| 09:06 | **andrei12081500**: Pig (R), Frost Unicorn (FR), Cow (FR) | **Nazar_5555589**: Chocolate Chip Bat Dragon (FR) |
+| 09:06 | **TheEerthh**: Crystal Egg ×18 | **WASHMYA22**: Ghost Bunny |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
