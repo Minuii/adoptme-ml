@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 13:31 UTC by the scrape workflow._
+_Updated 2026-11-28 13:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 13:31 UTC by the scrape workflow._
 | amvgg | 18 | 37,870 | 2026-11-28T13:30 |
 | elve | 18 | 8,581 | 2026-11-28T13:31 |
 
-## AMVGG completed trades: 77,802 total
+## AMVGG completed trades: 77,850 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 3,161 |
+| 2026-11-28 | 3,209 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 13:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:25 | **limohq**: Pet Handler Pro Certificate ×3 | **fqlfyfujdyj**: Frost Fury (FR) |
-| 13:25 | **RANDOM_44202**: Puffer Fish (MFR), Hippo (MFR), Stray Cat Dragon ×4, Toy Poodle | **NOBIIIEEE11**: Cow (FR) |
-| 13:25 | **RANDOM_44202**: Cabbit, Cow (FR), Chocolate Dutch Guinea Pig (NR) | **Y_yoshi00**: Dalmatian (FR) |
-| 13:25 | **xdParad1se**: Mighty Haetyphoon Animated Sticker | **unicornsparkles0926**: Mochi Meow Tumble Animated Sticker |
-| 13:25 | **Dashkaulibashk**: Dalmatian (FR), Ride-A-Pet Potion | **bartixoxoxx**: Cow (NFR), Ice Cream Cone Hat, Candicorn |
-| 13:25 | **lol_662720**: Copycat | **AubreyxBuilds**: Ride-A-Pet Potion ×4 |
-| 13:25 | **Leafiieee**: Frozen Penguin (N), Grinmoire (NR), Oakee Knight (N), Orca (N), Beaver (N) | **ventisnumb3r1fan**: Ride-A-Pet Potion |
-| 13:25 | **2Freya222**: Strawberry Shortcake Bat Dragon (FR) | **MATIzyzy**: Rainbow Maker, Bready Necklace |
-| 13:25 | **somebody_Xfife**: Fly-A-Pet Potion, Gingerbread Reindeer (NFR) | **Panci_Terbang33**: Christmas Spirit (M) |
-| 13:25 | **malnokeyo**: Goose (FR), Mini Pig, Crocodile (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **zxc_ph0enix**: Dalmatian (FR) |
-| 13:25 | **qkrbed**: Pink Cat (NR), Pink Cat (FR) ×2 | **yeetimaheadout7**: Crocodile (NFR), Fly-A-Pet Potion ×3 |
-| 13:25 | **Mufubunny**: Skelicorn (M) | **24kk_Zayyy**: Chihuahua (N), Chihuahua |
-| 13:25 | **realuseris_sh191125**: Burger Bear (M) | **bazychko**: Fly-A-Pet Potion ×2, Prismatic Butterfly (N) |
-| 13:20 | **TMDung20**: Silly Duck | **BStune**: Ride-A-Pet Potion ×2 |
-| 13:20 | **Leafiieee**: Frostclaw, Zodiac Minion Chick (R), Zodiac Minion Chick | **FRIK_RR**: Ride-A-Pet Potion |
+| 13:36 | **shedei318**: Copycat | **Jjang_987**: Ride-A-Pet Potion ×4 |
+| 13:36 | **TakiLuvr0**: Cryptid (FR) | **Marilynbrandt662**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR) |
+| 13:36 | **Crystal_andLisa**: Field Mouse (NFR), Ride-A-Pet Potion ×3, Silly Duck (R), English Sheepdog (FR), Kookaburra, Spring Bunny Hood, Mrs. Whiskerpips (NFR), Koala (NR) | **Just_Kerri4nnnnn**: Mini Pig |
+| 13:36 | **daria7581659**: Werewolf (FR) | **isthistagalog256**: Ride-A-Pet Potion ×15 |
+| 13:36 | **abdoosaad**: Chocolate Chip Bat Dragon (FR) | **SweetieStrawberryw**: Mermicorn (FR), Grim Dragon (F), Crocodile (R), Cupid Dragon (FR) |
+| 13:36 | **NathanPlayz83**: Sugar Axolotl (MFR) ×2, Honey Badger (MFR), Fallow Deer (MFR), Goose | **hamborgir202**: Undead Jousting Horse (MFR) |
+| 13:36 | **xZetherx**: Chocolate Chip Bat Dragon (FR) ×4, Crocodile (FR) | **angela_umerez4**: Frost Dragon (FR) |
+| 13:36 | **accountforpets12**: Fly-A-Pet Potion | **ReraFinny**: Modern Mansion |
+| 13:36 | **Machaddkkj**: Lamb (R), Paint Sealer ×5 | **Yumi_Rose8**: Fly-A-Pet Potion |
+| 13:36 | **roblox_user_3388877842**: Arctic Reindeer (FR), Kangaroo (FR), Chihuahua | **morze68**: Dalmatian (FR) |
+| 13:36 | **N0ugatt**: Goose (R) | **you35o**: Flamingo (R), Arctic Fox, Chocolate Dutch Guinea Pig (N) |
+| 13:36 | **ololopic9**: Strawberry Shortcake Bat Dragon (FR) ×4, Cerberus (NFR), Haetyphoon, Fly-A-Pet Potion ×2 | **Sabanaoepd9**: Frost Dragon (FR) |
+| 13:36 | **cupcakestar786**: Ride-A-Pet Potion ×3 | **fd43730**: Boohoo (MFR) |
+| 13:36 | **Midskii**: Cow (FR), Turtle (NFR) | **userulikk**: Shark Puppy (R), Shark Puppy, Hot Doggo (FR), 2022 Birthday Cake, Fly-A-Pet Potion |
+| 13:36 | **charlotte59120**: Orca (N), Onza | **Itz_NotDizzy**: Onza (N) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
