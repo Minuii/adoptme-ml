@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 12:55 UTC by the scrape workflow._
+_Updated 2026-11-28 13:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 12:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 37,082 | 2026-11-28T12:45 |
-| elve | 18 | 8,393 | 2026-11-28T12:46 |
+| amvgg | 18 | 37,332 | 2026-11-28T13:00 |
+| elve | 18 | 8,469 | 2026-11-28T13:01 |
 
-## AMVGG completed trades: 77,660 total
+## AMVGG completed trades: 77,676 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 3,019 |
+| 2026-11-28 | 3,035 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 12:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:55 | **pizdinavolosina**: Wyvern, Ladybug, Milk Choccybunny (N), Cherub Chipmunk, Oakee, Purrowl, Black-Footed Ferret, Ancient Dragon, Vermilion Butterfly | **Pinky_Darckling**: Ride-A-Pet Potion |
-| 12:55 | **fungasytyy**: Strawberry Shortcake Bat Dragon (FR) ×7, Fairy Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **sugar_lover61**: Owl (NFR) |
-| 12:55 | **chapa4ka579**: Koi Carp ×4, Shiver Wolf | **Pinky_Darckling**: Ride-A-Pet Potion |
-| 12:55 | **chapa4ka579**: Summer Walrus ×5 | **Pinky_Darckling**: Ride-A-Pet Potion |
-| 12:55 | **ROSIE_AREDEADLY123**: Slimingo (N) | **urm4mx**: Dragonfruit Fox |
-| 12:55 | **Cute_moonXo2**: Pet Handler Pro Certificate | **coconutcake171**: Dragonfruit Fox |
-| 12:55 | **Ivyswrld1**: Hot Doggo (FR) | **MckDull**: Glormy Hound (MFR) |
-| 12:55 | **6utszz**: Wing Hang Glider, Ketchup and Mustard Jetpack, Blue Boohoo Mega Neon Paint, Ride-A-Pet Potion | **Laktozik1**: Cherry Blossom Hang Glider |
-| 12:55 | **leesoyul11111111**: Ride-A-Pet Potion | **Iluvsmartistoo**: Pupcake |
-| 12:55 | **PANDA9994440**: Owlbear (NFR), Spring Bunny Hood, Unicorn (NFR) ×2, Alicorn (MFR), Apple Owl (NFR), Mochi Meow (MFR), Blue Jay (MFR), Ballet Swan (R), Jester Dragon (R), Sasquatch (MR), Mini Schnauzer (N), Dragon (MFR), Groundhog, Guardian Lion (NR), Clementine Owl (MR), Arctic Dusk Dragon, Urchin (MFR) | **Theyluv_pxachy**: Dalmatian (FR) |
-| 12:55 | **ziiwca**: Fly-A-Pet Potion ×16, Pet Handler Pro Certificate ×2 | **Fox7Art**: Cow (FR) |
-| 12:55 | **jilljaz**: Chocolate Chip Bat Dragon (FR) | **shihtzyz**: Strawberry Shortcake Bat Dragon (FR) |
-| 12:55 | **kiwipoq**: Alicorn (N), Hamster, Choco Penguin ×3, Evil Basilisk, Clementine Owl ×2, Slimingo, Ghostly Cat, Monkey | **Pinky_Darckling**: Ride-A-Pet Potion ×2 |
-| 12:55 | **glxvixlll**: Candicorn (FR) | **shebyrechina**: Arctic Dusk Dragon (NFR) |
-| 12:55 | **yeetimaheadout7**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×6 | **N0ugatt**: Giant Panda (R) |
+| 13:00 | **Kitti_59350**: Ride-A-Pet Potion, Cocoadile (M), Dog (NR), Pomeranian | **lawersdcc**: Fly-A-Pet Potion |
+| 13:00 | **razarvale2z**: Chihuahua ×2, Pain au Chat, Royal Egg | **kayg1**: Ride-A-Pet Potion |
+| 13:00 | **epicpulsechaos2024**: Ancient Dragon ×10 | **kayg1**: Ride-A-Pet Potion |
+| 13:00 | **Elmira_320m**: Mummy Spider, Mummy Spider (N) | **urfavilaxx**: Snowman |
+| 13:00 | **Kaiisxe**: Ride-A-Pet Potion ×6 | **carlinhos_CH**: Snowball Pug (MFR) |
+| 13:00 | **Theyluv_pxachy**: Rose Quartz Glow Mega Neon Paint, Retired Egg ×8 | **Amy_LazyMaybe**: Hooray Pink Mega Neon Paint |
+| 13:00 | **floqixiia**: Fly-A-Pet Potion ×4 | **milk59012**: Strawberry Penguin (R), Onza (M) |
+| 13:00 | **kica55**: Arctic Fox (R) | **dollgumou**: Fly-A-Pet Potion ×4 |
+| 13:00 | **anihao17**: Pupcicle | **dolynskal**: Ride-A-Pet Potion |
+| 13:00 | **Vicky_200804**: Chocolate Dutch Guinea Pig (MFR) | **m4ritx7**: Lamb (MFR) |
+| 13:00 | **0tohero_rahul**: 2022 Birthday Party Hat ×7, Unicorn Horn ×2, Ice Cream Hermit Crab (MR), Kangaroo (R) | **leruval**: Frost Dragon (FR) |
+| 13:00 | **Vinni_love3**: Candicorn, Ride-A-Pet Potion | **Noemux08WGF**: Winged Tiger (R), Chocolate Dutch Guinea Pig (N) |
+| 13:00 | **minismudgepanda**: Ride-A-Pet Potion ×13 | **DragonjJDusta107130**: Border Collie |
+| 13:00 | **ikeumw**: Frost Dragon (FR) | **mikepower240508**: Cow (R), Peppermint Penguin (FR) ×3, Peppermint Penguin (R) ×4 |
+| 13:00 | **Polinamasha123**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
