@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 00:16 UTC by the scrape workflow._
+_Updated 2026-11-28 00:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 00:16 UTC by the scrape workflow._
 | amvgg | 18 | 24,133 | 2026-11-28T00:15 |
 | elve | 18 | 5,324 | 2026-11-28T00:16 |
 
-## AMVGG completed trades: 74,721 total
+## AMVGG completed trades: 74,767 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 80 |
+| 2026-11-28 | 126 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 00:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:15 | **minismudgepanda**: Border Collie (R), Border Collie | **xoiiiiaxv**: Cabbit |
-| 00:15 | **kaikikaikiplayz**: Ride-A-Pet Potion ×7 | **Manggo_Pie40**: Christmas Pudding Pup |
-| 00:15 | **niceplayeruwu**: Mummy Spider (M) | **Nastusha_387**: Gemstone Egg |
-| 00:15 | **Aphmau_Cool09**: Red Dutch Guinea Pig (MFR) | **higuysitskobe**: Strawberry Shortcake Bat Dragon (FR) |
-| 00:15 | **fewwral_sing**: Eaten Donut, Clam Wings, Ruff | **catdegrat**: Ride-A-Pet Potion |
-| 00:15 | **M1dnight_moons**: Evil Unicorn (FR) | **catdegrat**: Cabbit (FR), Frost Unicorn (R), Hero Gibbon (N), Ghost Dog (M), Skunk (MFR), Copycat, Indian Leopard (MR), Fly-A-Pet Potion ×2 |
-| 00:15 | **stargxldani**: Hot Doggo (R), Unicorn Horn, Tiny Wings | **sleepy_s0ren**: Rainbow Maker |
-| 00:15 | **DoodlesMog**: Fly-A-Pet Potion | **iiStxberryMilkx**: Spring Bunny Nose |
-| 00:15 | **xaoichaanx**: Flash Weasel ×2 | **2000sidol**: Tiny Wings |
-| 00:15 | **2000sidol**: Chef Gorilla (R) | **silnnedUWU**: Chef Gorilla |
-| 00:15 | **backsiz**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (R), Dango Penguins | **derpcat_silly**: Rainbow Maker, Cabbit (R) |
-| 00:15 | **1Biahsz_altx**: Fly-A-Pet Potion | **GainnizDizzy**: Cherub Chipmunk (M) ×2 |
-| 00:15 | **NYaNeteyam**: Hot Doggo (R), Ride-A-Pet Potion | **Yj_504**: Fairy Bat Dragon (FR), Arctic Fox (R) |
-| 00:15 | **Aslie_17**: Cupcake Sprinkle Wings, Great Pyrenees (MR), Fly-A-Pet Potion, Tutu | **iiCloudyRosezii**: Amami Rabbit (M), Puptune (MR) |
-| 00:15 | **otonite7**: Spring Bunny Hood | **TOASTER_17362**: Copycat |
+| 00:25 | **Notztime**: Alley Cat (NR), Hippo (MR), Capybara, Fly-A-Pet Potion | **Razoqz**: Nessie (NFR) |
+| 00:25 | **ItsMidnight_PlayzUwU**: Flaming Fox (N), Shark Puppy (R), White Chef Hat | **Elmasinsano_392**: Unicorn Horn |
+| 00:25 | **rainthatxx**: Kangaroo (FR), Fly-A-Pet Potion | **fadinqxxxrosies**: Unicorn Horn |
+| 00:25 | **BreadFloppaPS**: Sugar Glider (FR), Fly-A-Pet Potion | **fadinqxxxrosies**: Fairy Bat Dragon (FR) |
+| 00:25 | **Furry_lechuga**: Tealwood Monster (N), Golden Unicorn, Three Blind Mice, Sea Turtle, Ancient Dragon, Dragonfly, Toxic Kaijunior, Skelicorn, Jumpscare, Pomeranian | **haylie90kmkh**: Ride-A-Pet Potion |
+| 00:25 | **miosiita**: Peacock (R) | **ameyyass**: Hooray |
+| 00:25 | **jayden_5757xx**: Mighty Haetyphoon Animated Sticker | **Bika_1234886**: Paint Sealer ×6 |
+| 00:25 | **add1wxDDD**: Ride-A-Pet Potion | **sweetlittlegf**: Pain au Chat ×3 |
+| 00:25 | **Bacon_Pro019287**: Dalmatian (FR), Flamingo (R) | **misswoodhouseyear1**: Hedgehog (FR) |
+| 00:25 | **arturo7pose12345**: Jester Dragon (R), Ride-A-Pet Potion | **plasfreerb**: Jester Dragon (FR) |
+| 00:25 | **hjhjfjfjfy**: Bee (NR), Crystal Egg ×2 | **anjelitodelcielopet**: Ride-A-Pet Potion |
+| 00:25 | **kjm_5741**: Cupid Dragon (R), Unicorn Horn, Ride-A-Pet Potion ×2 | **ContentOtter9075**: Lion Cub (NFR) |
+| 00:25 | **SophiaStormy136**: Crystal Egg ×18 | **o8ayn**: Ride-A-Pet Potion |
+| 00:25 | **hipizzaok123**: Aussie Egg | **sleepy_s0ren**: Ride-A-Pet Potion ×4 |
+| 00:25 | **Itscassiehere1**: Hare (MFR), Red Dutch Guinea Pig (NFR), S'mores Raccoon (MR) | **Addmymainpls2332**: Groundhog (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
