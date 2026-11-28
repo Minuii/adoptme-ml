@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 08:31 UTC by the scrape workflow._
+_Updated 2026-11-28 08:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 08:31 UTC by the scrape workflow._
 | amvgg | 18 | 32,806 | 2026-11-28T08:30 |
 | elve | 18 | 7,285 | 2026-11-28T08:31 |
 
-## AMVGG completed trades: 76,424 total
+## AMVGG completed trades: 76,462 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 1,783 |
+| 2026-11-28 | 1,821 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 08:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:30 | **fanksushavoro**: Ride-A-Pet Potion | **JustDo_It097**: Black Scooter |
-| 08:30 | **cerialconchocomil**: Alpaca (R), Kangaroo (FR), Border Collie (FR), Tiny Wings, Ride-A-Pet Potion, Butter Knife, Badger (M), Pinkypillar (M), Wolf | **rasyanoobbacon**: Arctic Reindeer (FR) |
-| 08:30 | **Mmoooon_wwh1sp**: Hooray Pink Mega Neon Paint, Milk Choccybunny (N), Huntsman Robin | **jam_bam10**: Ride-A-Pet Potion |
-| 08:30 | **dead_pool455**: Fly-A-Pet Potion, Pomeranian (N), Burger Bun Hat, Pink Hightops, Pink Butterfly Wings | **Max89422yr**: Ancient Dragon (MR) |
-| 08:30 | **m0rk0wka**: Electric Hornet (N), Retired Egg ×2 | **Diana_di1216**: Gemstone Egg |
-| 08:30 | **jypit0410j**: Santa Hat, Fly-A-Pet Potion | **Avue_203**: Pig (FR) |
-| 08:30 | **shatasha31**: Sea Angel (MFR) | **nzjtla**: Ride-A-Pet Potion ×5 |
-| 08:30 | **WhiteBoy19**: Griffin (NFR) | **AvaStud1ohq64**: Admin Vision Glasses, Admin Abuse Egg ×3 |
-| 08:30 | **NoobToNorthernLands**: Sado Mole (N), California Condor (N), Shadow Dragon Ducky, Emu (N), Koi Carp, Eggnog Dog, Zombie Chick | **AvaStud1ohq64**: Fly-A-Pet Potion |
-| 08:30 | **ooohhff85**: Dalmatian (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **Slim3_Inf3rno583**: Hedgehog (R), Dalmatian |
-| 08:30 | **GermidOMika**: Fly-A-Pet Potion, Pain au Chat | **cutiemoonplalmira**: Sunrise Duckling (N) |
-| 08:30 | **bless77777**: Tilcayo (R), Icy Porcupine (MR) | **conanxx0**: Candyfloss Chick (FR) |
-| 08:20 | **giacly**: Frostbite Cub (MR) | **cowlol898**: Stitches (MR), Orca (MR), Fennec Fox (MFR), Stitches (M), Caramelgeist (MR), Clumpty (M), Zebra (M), Orangutan (M), Parakeet (M), 2026 Birthday Butterfly (M), Budgie Witch (M), Poodle (M), Princess Mare (M), Ms. Muffet (M) |
-| 08:20 | **Ebanko_rblx**: Hooray Pink Mega Neon Paint | **GueesStrawberries**: Ride-A-Pet Potion |
-| 08:20 | **p1682310**: Bat Dragon (FR), Cryptid (NFR), Mini Pig (FR), Goose, Ride-A-Pet Potion | **bermido80**: Shadow Dragon (NFR) |
+| 08:36 | **KiriK_87**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion | **InfinityLuckx**: Cow (FR) |
+| 08:36 | **Millie_cutegirl121**: Shadow Dragon (NFR), Aurora Fox (NFR), Rain Cloud Hat | **Slim3_Inf3rno583**: Strawberry Shortcake Bat Dragon (MFR), Chocolate Chip Bat Dragon (MFR), Fairy Bat Dragon (MFR) |
+| 08:36 | **doidinha52349k**: Cow (FR), Arctic Fox (NFR), Papa Moose, Pink Cat, Matcha Cat | **3mis_alttt**: Arctic Reindeer (FR) |
+| 08:36 | **smartes1230**: Dalmatian (NFR) ×2, Hedgehog (FR), Dalmatian (FR) ×2, Turtle (NFR), Mini Pig (R) | **kkhhys_09771**: Giraffe (NFR) |
+| 08:36 | **CozyAria_xox**: Shark (MFR), Dango Penguins (NFR), Dragonfruit Fox | **aiiquicid**: Shark Puppy (NR) |
+| 08:36 | **declaneden**: Dango Penguins (MFR) | **64vni**: Polar Bear (MFR) |
+| 08:36 | **iileesxv**: Snow Monkey (NFR) | **Mnenormalno_0**: Dragonfruit Fox (N) |
+| 08:36 | **Ruperto_1297**: Ride-A-Pet Potion ×18 | **dearlyhenry**: Tilcayo |
+| 08:36 | **darina_2011m**: Sheeeeep (R), Golden Albatross (FR) | **rasediva**: Pet Handler Pro Certificate, Ride-A-Pet Potion ×3, Fly-A-Pet Potion |
+| 08:36 | **dxllyluvs2**: Fly-A-Pet Potion | **ssuinzx**: Crystal Egg ×18 |
+| 08:36 | **natushaak**: Chocolate Chip Bat Dragon (FR), Arctic Fox (R) | **6ftxxe**: Arctic Reindeer (FR) |
+| 08:36 | **piggyfandev123**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 | **BlingQueen123476**: Pig (R) |
+| 08:36 | **piggyfandev123**: Kangaroo (R), Frostbite Bear | **Smileydreamx21**: Cow (FR) |
+| 08:36 | **DrendyRobLox**: Stray Cat Dragon ×16 | **Foxi_xomi**: Ride-A-Pet Potion ×2 |
+| 08:36 | **grijfe8r**: Fly-A-Pet Potion, Ride-A-Pet Potion | **Qu33nDQCrimsonO19932**: Hooray ×2 |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
