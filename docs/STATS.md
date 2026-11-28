@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 01:25 UTC by the scrape workflow._
+_Updated 2026-11-28 01:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 01:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 25,182 | 2026-11-28T01:15 |
-| elve | 18 | 5,549 | 2026-11-28T01:15 |
+| amvgg | 18 | 25,454 | 2026-11-28T01:30 |
+| elve | 18 | 5,615 | 2026-11-28T01:31 |
 
-## AMVGG completed trades: 74,993 total
+## AMVGG completed trades: 74,997 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 352 |
+| 2026-11-28 | 356 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,6 +39,10 @@ _Updated 2026-11-28 01:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:30 | **lavamanos88**: Hot Doggo (R) | **valentina_nic90**: Cow (FR), Thinking Hat, 2022 Birthday 5 Badge, Black Moon Bear |
+| 01:30 | **Yj_504**: Munchkin Cat, Pig (R) | **raeshiia**: Kangaroo (FR) |
+| 01:30 | **g00dxgh0stl**: Kiwi Kiwi, Squid | **neversshy**: Ride-A-Pet Potion |
+| 01:30 | **lba_fofe**: Haetae (NFR), Haetae (NR), Rainbow Maker | **1LYFIREX0**: Bat Dragon (FR) |
 | 01:25 | **wx8zqxx**: Dalmatian (FR), Rainbow Maker, Fly-A-Pet Potion | **4qvssz**: Lion (MFR) |
 | 01:25 | **thekingoatttttt**: Cow, Dango Penguins (R) | **Bobbyhuddy6**: Halo |
 | 01:25 | **MelodyMoonPlay**: Turtle (FR) | **Alinxq0**: Bunny Swirl (MR), Ghostly Cat (MR), Pupcake (MR), Ride-A-Pet Potion ×2 |
@@ -50,10 +54,6 @@ _Updated 2026-11-28 01:25 UTC by the scrape workflow._
 | 01:25 | **Pidilypops2nd**: Meerkat (FR) | **unicornio1205i**: Owlbear (R) |
 | 01:25 | **Memes_forthesoulalt**: Puffer Fish (MFR), General Sheepdog (MFR) | **Mufubunny**: Lamb (MFR) |
 | 01:20 | **Kcx_jcx123**: Mini Pig (NFR), Munchkin Cat (NR), Munchkin Cat (FR), Shark Puppy (FR) | **Strawluvs_alt2**: Arctic Reindeer (NFR) |
-| 01:20 | **swirlsfawn**: Border Collie (MFR) | **Trop1cxlMe1on**: Candyfloss Chick (NR), 2022 Birthday Cake ×2, Unicorn Horn ×2, 2022 Birthday Cupcake Shoes |
-| 01:20 | **tbx_scarlet**: Cattuccino (N) | **icanhasvip**: Hooray Pink Mega Neon Paint |
-| 01:20 | **strangerthingzz_123**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **abdoosaad**: Border Collie (R), Cabbit, Siamese Cat (R) |
-| 01:20 | **chapa4ka579**: Musk Ox ×6 | **25k_Robloxgamer**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
