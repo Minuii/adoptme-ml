@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 11:46 UTC by the scrape workflow._
+_Updated 2026-11-28 11:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 11:46 UTC by the scrape workflow._
 | amvgg | 18 | 36,012 | 2026-11-28T11:45 |
 | elve | 18 | 8,110 | 2026-11-28T11:46 |
 
-## AMVGG completed trades: 77,278 total
+## AMVGG completed trades: 77,321 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,637 |
+| 2026-11-28 | 2,680 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 11:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:45 | **Tiddlechip**: Ride-A-Pet Potion ×2, Therapy Dog | **cute_babess**: Flying Fish (MFR) |
-| 11:45 | **Octolootom**: Dalmatian (NFR), Cow (FR), Fly-A-Pet Potion, Evil Unicorn (FR), Munchkin Cat | **SpinsStars_8**: Crow (NFR) |
-| 11:45 | **0wzxc**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Turtle (FR), Kangaroo (FR), Unicorn (MFR), Frost Fury (FR), Fly-A-Pet Potion, Dragon (NFR) | **TulipPetal_1**: Parrot (FR) |
-| 11:45 | **bl0xby**: Unicorn Horn | **daanz2**: Ride-A-Pet Potion ×18 |
-| 11:45 | **Laararo0**: Candyfloss Mega Neon Paint | **Missnuggets202**: Hooray Pink Mega Neon Paint |
-| 11:45 | **Vitamirka**: Kiwi Kiwi ×6 | **Vikakelera**: Ride-A-Pet Potion ×3 |
-| 11:45 | **AMINO4KA7U**: Tortoiseshell Guinea Pig (R) | **itemhouse1**: Unicorn (NFR), Cupid Dragon (FR), Ride-A-Pet Potion ×2 |
-| 11:45 | **jam1k0**: Hedgehog (FR), Ride-A-Pet Potion ×3 | **ilizathai**: Goat (MFR) |
-| 11:45 | **943049209d**: Fly-A-Pet Potion ×7 | **Lipton_L12**: Crocodile (FR) |
-| 11:45 | **Daru_nka10**: Polar Bear (R) | **mdmdnkevsjsvaj**: Red Dutch Guinea Pig (R) |
-| 11:45 | **YTKA_StrayKids**: Mrs. Whiskerpips, Angus Calf, Tan Chow-Chow, Roadrunner, Sea Angel, Praying Mantis, Wyvern, Frozen Penguin, Icy Porcupine | **batton0955**: Ride-A-Pet Potion |
-| 11:45 | **vorvara161**: Cryptid (FR) | **Iamtuff6735**: Chocolate Chip Bat Dragon (FR), Sugar Glider (FR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion |
-| 11:45 | **TyreseLesaguis**: Dango Penguins (MFR), Munchkin Cat (MFR) | **Panda_Ice46**: Candicorn (MFR) |
-| 11:45 | **004FAscend004**: Hooray (M), Boohoo (M), Chihuahua (M) | **Panda_Ice46**: Crocodile (NFR), Ride-A-Pet Potion |
-| 11:45 | **ali_dekutodoroki**: Cryptid (FR), Husky (MFR), Ride-A-Pet Potion ×2 | **Scfterqx**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) |
+| 11:51 | **wxollii**: Chocolate Dutch Guinea Pig (M) | **wxoliis**: Cabbit (FR), Ride-A-Pet Potion |
+| 11:51 | **nark0ta0**: Ginger Cat ×2 | **nastya_29f1**: Dog, Ms. Muffet, Snow Cat, Poodle |
+| 11:51 | **SOFIA_HAN7**: Chameleon, Toasty Red Panda | **Cats_95600**: Moon Rabbit |
+| 11:51 | **Klaysi_flayra**: Albino Bat, Angus Calf, Bee, Black Kite, Choco Penguin, Cold Cube, Deathstalker Scorpion, Halloween Blue Scorpion, Subzero Scorpion | **starswirl_64**: Ride-A-Pet Potion |
+| 11:51 | **typol1235y6**: Ride-A-Pet Potion, Toxic Kaijunior (R), Winged Horse (FR), Purrowl (N) | **Rere_LeFrelon**: Hooray ×2 |
+| 11:51 | **scivkk**: Ice Cream Cone Hat | **NoobToNorthernLands**: Fly-A-Pet Potion ×3, Pain au Chat ×2 |
+| 11:51 | **xDxvil777**: Fly-A-Pet Potion ×2 | **ceris4001**: Phoenix (N) |
+| 11:51 | **yunni3y**: Kangaroo (FR), Turtle (FR), Copycat (NFR), Corgi (M) | **iihavepotatowifii**: Chocolate Chip Bat Dragon (FR) |
+| 11:51 | **takemichiismywaify**: Ride-A-Pet Potion | **daran_waren**: Hooray Pink Mega Neon Paint |
+| 11:51 | **Ukrainegk**: Elephant Plush, Horse Plush | **Fluffykitty_08**: Ride-A-Pet Potion |
+| 11:51 | **beatsvic**: Chocolate Chip Bat Dragon (MFR), Shark Puppy (MFR), Honey Badger (MFR), Hedgehog (MFR), Goose (MFR), Santa Hat | **Marilynbrandt662**: Bat Dragon (NFR) |
+| 11:51 | **Anime_Fan244298**: Irish Setter (M), Rubber Ducky (M) | **FA11THx**: Ride-A-Pet Potion |
+| 11:51 | **ghxulbeing**: 2022 Birthday Party Hat, Unicorn Horn ×2, 2022 Birthday Cupcake Shoes, Ride-A-Pet Potion ×2 | **Seancarlosd**: Cabbit (NFR) |
+| 11:51 | **R0ttenzxmbie**: Blazing Lion (MFR), Ring-Tailed Lemur (MFR) | **pawthetiic**: Balloon Unicorn (MFR) |
+| 11:51 | **wxollii**: Siamese Cat (MFR), Evil Unicorn (MFR) | **wxoliis**: Bat Dragon |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
