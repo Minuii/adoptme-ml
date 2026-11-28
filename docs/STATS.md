@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 10:41 UTC by the scrape workflow._
+_Updated 2026-11-28 10:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 10:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 34,635 | 2026-11-28T10:30 |
-| elve | 18 | 7,772 | 2026-11-28T10:31 |
+| amvgg | 18 | 34,905 | 2026-11-28T10:45 |
+| elve | 18 | 7,852 | 2026-11-28T10:46 |
 
-## AMVGG completed trades: 76,965 total
+## AMVGG completed trades: 76,977 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,324 |
+| 2026-11-28 | 2,336 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 10:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 10:45 | **CuteGirDaniela**: Arctic Reindeer (FR) | **s0larzxxxx**: Goose (FR) ×2 |
+| 10:45 | **Flutterieshyy**: Parrot (NFR), Cabbit (R), Fly-A-Pet Potion | **XV7K3ZVX**: Hot Doggo (R), Cow (FR) ×2, Goose (R), Peppermint Penguin (R), Peppermint Penguin, Cabbit (FR), Alpaca, 2022 Birthday Party Hat, Siamese Cat (R), Candyfloss Chick (R), Elephant (R), Toaster Hat, Tiny Wings, Ride-A-Pet Potion |
+| 10:45 | **Ggyyuhhhj**: Toaster Hat, Jeff's Nametag, Bewitched Hat | **ItzmeZie_Aamiaww24**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×8 |
+| 10:45 | **sube14567**: German Shepherd | **amimellaman3**: Chocolate Dutch Guinea Pig |
+| 10:45 | **lonely_pixiebear**: Easter 2020 Egg, Chef Gorilla, Peacock (R), Rhino ×4, Golden Rat ×2, Firefly, Capybara, Toy Monkey, Pirate Hermit Crab, Goldhorn, Snow Owl (F), Black Panther ×3 | **sillymiseryyy**: Kangaroo (FR) |
+| 10:45 | **rungji0421**: Gingerbread Mansion ×2 | **margini_mini**: Ride-A-Pet Potion |
+| 10:45 | **casuallynila**: Mini Pig (MFR), Nessie (MFR), Diamond Hamster (MFR) | **heavymetalangels**: Undead Jousting Horse (MFR) |
+| 10:45 | **fiasmail**: S'mores Raccoon (MFR), Fly-A-Pet Potion ×2 | **lololog741**: Turtle (FR) |
+| 10:45 | **zee55510**: Fly-A-Pet Potion ×2 | **Lizabro228768**: Ride-A-Pet Potion ×4 |
+| 10:45 | **Morgzz418**: Pig (FR), Arctic Fox (R), Undead Jousting Horse (FR) | **Chadreedpalmares07**: Kangaroo (NFR), Moonbeam Peacock (R), Fly-A-Pet Potion, Ride-A-Pet Potion, Chocolate Dutch Guinea Pig, Pupcicle |
+| 10:45 | **Lost_Wizarddd**: Unicorn (MFR) | **KimikoYuka**: Kitsune (MFR) |
+| 10:45 | **nomnomszxcy**: Tortoiseshell Guinea Pig (NR), Fly-A-Pet Potion, Ride-A-Pet Potion | **NoCakeXD**: Strawberry Shortcake Bat Dragon (FR) |
 | 10:41 | **Penny_isa2**: Mini Pig (FR), Cabbit (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Peppermint Penguin (R), Border Collie (NR), Goose, Fairy Bat Dragon (R) | **syruplicious**: Crow (NFR) |
 | 10:41 | **Alinkareee11**: Chocolate Dutch Guinea Pig, Unicorn Ducky (M) ×4, Shih Tzu (M), Easter Eggy Box | **guyfarted3**: Owlbear |
 | 10:41 | **Navilolp**: Zodiac Minion Chick ×6 | **NotSweatyOnion**: Ride-A-Pet Potion |
-| 10:41 | **Daniel_to11**: Kangaroo (FR) | **Adoptme_guru9**: Kangaroo |
-| 10:41 | **admtradeonly**: Raccoon (MR) | **AlphaTaToxicv1047**: Ride-A-Pet Potion ×5, Kappakid |
-| 10:41 | **Crystal_andLisa**: Sheeeeep (NFR), Onza (M) | **p0xompurin**: Cabbit |
-| 10:41 | **admtradeonly**: Hooray | **AvokadoJFKfanat**: Ride-A-Pet Potion |
-| 10:41 | **admtradeonly**: Hooray, Castle Hermit Crab | **AvokadoJFKfanat**: Fly-A-Pet Potion |
-| 10:41 | **Bandaidxvbzz**: Unicorn Horn, 2022 Birthday Party Hat, 2022 Birthday Party Horn, Ice Cream Cone Hat | **SwampMonster15**: Ram (MFR), Puffer Fish (MFR), Moon Rabbit (MFR) |
-| 10:41 | **3L1EE**: Hare | **cliuic**: Ride-A-Pet Potion ×3 |
-| 10:41 | **Akeem8903133333**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×3 | **Car1os_xd**: Arctic Fox (NR) |
-| 10:41 | **awvanibbg**: Pet Handler Pro Certificate, Pupcicle | **angelbunis**: Purrowl (M) |
-| 10:41 | **obriganhik_l**: Ginger Cat (N), Easter Bunny | **yumstarf**: Retired Egg ×11 |
-| 10:41 | **avoxmunk**: Shrew (R) | **fluttershyqueenpony**: Fly-A-Pet Potion ×3 |
-| 10:41 | **beaaarr2**: Hot Doggo (R) | **yeyr7r71**: Spring Bunny Nose, Pink Heart Glasses, Siamese Cat (R), Ride-A-Pet Potion ×10, Catte (R), Mummy Spider (M) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
