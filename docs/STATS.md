@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 01:01 UTC by the scrape workflow._
+_Updated 2026-11-28 01:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 01:01 UTC by the scrape workflow._
 | amvgg | 18 | 24,908 | 2026-11-28T01:00 |
 | elve | 18 | 5,523 | 2026-11-28T01:01 |
 
-## AMVGG completed trades: 74,872 total
+## AMVGG completed trades: 74,934 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 231 |
+| 2026-11-28 | 293 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 01:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:55 | **Boo_kittykitty**: Hyena (R), Dilophosaurus (N), Kelp Raider (N) | **minismudgepanda**: Sweetheart Rat (M) |
-| 00:55 | **Scarrscarrscar**: Drake (MFR), Angelfish (M) | **Boo_kittykitty**: Kitty Bat (M), Bunny Swirl (M), Fossa (MR) |
-| 00:55 | **KGE1342**: Goldenrod Flower | **tuberss890**: Kangaroo (FR) |
-| 00:55 | **Moon_black852**: Balloon Unicorn (FR), Candicorn (NR), Unicorn Horn | **Eejdnsnsnnswbss**: Cryptid (NFR) |
-| 00:55 | **Zuminkikiki**: Pretty Pony | **DijaBint2**: Ride-A-Pet Potion |
-| 00:55 | **chapa4ka579**: Gecko ×6 | **XzB3arL3Synth7zX1088**: Ride-A-Pet Potion ×2 |
-| 00:55 | **AdorableStarGirl64**: Moonbeam Butterfly (R) | **ameyyass**: Fly-A-Pet Potion |
-| 00:55 | **1Biahsz_altx**: Ride-A-Pet Potion | **Matt_Proofs**: Irish Setter (M) |
-| 00:55 | **cannotaffordme**: Lion Cub (NR) | **BINKY5085**: Cherry-On-Top |
-| 00:55 | **OffisalUwU**: Tortuga de la Isla (R) | **tjandhannah34**: Fly-A-Pet Potion ×3 |
-| 00:55 | **gabolskie**: Strawberry Shortcake Bat Dragon (FR) | **selensecretacc**: Strawberry Shortcake Bat Dragon |
-| 00:55 | **74xTruthss**: Cow (NFR), Ride-A-Pet Potion, Samoyed (MR) | **ydenarohka10**: Arctic Reindeer (FR) |
-| 00:55 | **mxsophiaa**: Giraffe (NFR), Candyfloss Chick (MFR), Bush Elephant (MFR), Caterpillar (MFR), Lion Cub (MFR), Cryptid (FR), Pirate Hermit Crab (MFR), German Shepherd (MFR) | **serpentibendi**: Cryptid (MFR) ×2 |
-| 00:55 | **Ameera_109**: Purple Butterfly, Moose Calf | **Lisfps123**: Silverback Gorilla |
-| 00:55 | **sincebravery**: Dalmatian (NFR), Strawberry Shortcake Bat Dragon (FR) | **Lillyrichgirl8**: Haetae, Goose (FR), Groundhog (MFR), Rain Cloud Hat |
+| 01:11 | **sursyrzytxurzutzutz**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 01:11 | **25k_Robloxgamer**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion | **misakoyr**: Spring Bunny Feet, Goth Shoes, 2022 Birthday 5 Badge |
+| 01:11 | **EGOATHENOOB**: Turtle (R), Ratatoskr (MFR), Halloween White Skeleton Dog (NFR), Ride-A-Pet Potion ×2 | **gaspooio**: Fairy Bat Dragon (FR) |
+| 01:11 | **przeczulenie**: Cow (NFR), Cow (FR) | **urstrulykaar1**: Hedgehog (FR) |
+| 01:11 | **aylacool45**: Crow (FR), Hedgehog (FR), Turtle (NFR), Caelum Cervi (NFR), Toaster Hat | **GioR7z**: Chocolate Chip Bat Dragon (NFR), Evil Unicorn (NFR) |
+| 01:11 | **F0rblows**: Strawberry Shortcake Bat Dragon (FR) | **ncnwoko**: Mini Pig (FR), Turtle (R), Ride-A-Pet Potion ×5 |
+| 01:11 | **Itscassiehere1**: Groundhog (MFR), Catte (MFR) | **lostralaleritos_685**: Sheeeeep (MFR) |
+| 01:11 | **minismudgepanda**: Catte, Ranger Beaver | **Yegfutgdjylll**: Chocolate Dutch Guinea Pig |
+| 01:11 | **rainIynn**: Cabbit (FR), Mermicorn (NFR) | **JustMeYito**: Hot Doggo (NFR) |
+| 01:11 | **Navilolp**: Crystal Egg ×18 | **25k_Robloxgamer**: Pet Handler Pro Certificate |
+| 01:11 | **PugpunterZev**: Frost Dragon (FR) | **Flutterieshyy**: Mini Pig (R), Goose (R), Werewolf (FR), Cow (FR) ×2, Goose (NFR), Turtle (FR) |
+| 01:11 | **amendnenenen**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **reaInyancat**: Ice Cream Cone Hat, Retired Egg ×5 |
+| 01:11 | **lawlfreak**: Strawberry Shortcake Bat Dragon (FR) | **jetedispas212**: Tilcayo ×2 |
+| 01:11 | **plooosn**: Lion (NFR), Grim Dragon (NFR), Unicorn (NR), Puptune (NR), Ride-A-Pet Potion ×3 | **faikubjotch**: Evil Unicorn (FR) |
+| 01:11 | **PixiePawsTrade**: Kangaroo (FR) | **Gamerqueen1255**: Gemstone Egg ×18 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
