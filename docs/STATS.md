@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 01:16 UTC by the scrape workflow._
+_Updated 2026-11-28 01:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 01:16 UTC by the scrape workflow._
 | amvgg | 18 | 25,182 | 2026-11-28T01:15 |
 | elve | 18 | 5,549 | 2026-11-28T01:15 |
 
-## AMVGG completed trades: 74,948 total
+## AMVGG completed trades: 74,993 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 307 |
+| 2026-11-28 | 352 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 01:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:15 | **awkward1852**: Giant Panda (MFR), Spring Bunny Hood, Toaster Hat ×2, Tiny Wings, 2022 Birthday Confetti Cannon ×2, 2022 Birthday Cake ×2, Halo ×2, Spring Bunny Feet ×2 | **cannotaffordme**: Bat Dragon (NFR), Hot Doggo (MFR), Candicorn (MFR) |
-| 01:15 | **xoiiiiaxv**: Border Collie | **Aslie_17**: Amami Rabbit (MFR) |
-| 01:15 | **Angela019291**: Fly-A-Pet Potion ×18 | **0tohero_rahul**: Undead Jousting Horse (FR) |
-| 01:15 | **yesterboni0**: Safari Egg, Monkey King (NFR), Blue Dog (NFR), Turtle (NFR), Crocodile (NFR), Strawberry Shortcake Bat Dragon (FR), Peppermint Penguin (R), Ride-A-Pet Potion ×3 | **wx8zqxx**: Shadow Dragon (FR) |
-| 01:15 | **olila959**: Indian Leopard | **sofito4ka007_a**: Old King Coal |
-| 01:15 | **Pamda_r**: Red Squirrel (R), Gorilla (N) | **valentinaemmz**: Ride-A-Pet Potion |
-| 01:15 | **Rainbow_202201**: Kangaroo (FR), Turtle (FR), Siamese Cat (R), Fallow Deer (FR), Owlbear (R) | **pookiebare08**: Cow (NFR) |
-| 01:15 | **Shadow_Wilder626**: Chocolate Chip Bat Dragon (NFR) | **Iostpromises**: Chocolate Chip Bat Dragon (FR), Dalmatian (R) |
-| 01:15 | **myrlusernisvnhakuu**: Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **asdw4ad**: Celebrity Mansion |
-| 01:15 | **Elmasinsano_392**: Groundhog (R) | **Wockillzzz2**: Fly-A-Pet Potion ×3 |
-| 01:15 | **1o5_aa**: Pain au Chat | **vvrtualsiin**: Crystal Egg ×6 |
-| 01:15 | **WhatsApp_lox1**: Arctic Reindeer (FR), Arctic Fox (R), Pig (FR), Ride-A-Pet Potion | **frjn9**: Dalmatian (FR) |
-| 01:15 | **kaibodydump**: Fly-A-Pet Potion ×3 | **itscatnoirpeople**: Haetyphoon |
-| 01:15 | **Aubrey_Prism851**: Candicorn (FR) | **Kiseise**: Red Dutch Guinea Pig (N), Ride-A-Pet Potion ×2, Ghost (MFR) |
-| 01:11 | **sursyrzytxurzutzutz**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 01:25 | **wx8zqxx**: Dalmatian (FR), Rainbow Maker, Fly-A-Pet Potion | **4qvssz**: Lion (MFR) |
+| 01:25 | **thekingoatttttt**: Cow, Dango Penguins (R) | **Bobbyhuddy6**: Halo |
+| 01:25 | **MelodyMoonPlay**: Turtle (FR) | **Alinxq0**: Bunny Swirl (MR), Ghostly Cat (MR), Pupcake (MR), Ride-A-Pet Potion ×2 |
+| 01:25 | **Wayda_Jaida**: Golden Hamster (R), Clownfish | **themudwizard**: Ride-A-Pet Potion |
+| 01:25 | **Flxxnaa**: French Bulldog (MFR), Shiver Wolf (MFR), Karate Gorilla (MFR), Brown Springer Spaniel (MFR), Black Springer Spaniel (MFR), Great Pyrenees (MFR) | **jellycatmar**: Honey Badger (MFR) |
+| 01:25 | **ContentOtter9075**: Panda (MFR), S'mores Raccoon (MFR) | **fiasmail**: Tree Kangaroo (MFR) |
+| 01:25 | **tjandhannah34**: Strawberry Tortle (FR), Moonbeam Peacock | **catiecatsi**: Peppermint Penguin (R) |
+| 01:25 | **Diane6282011**: Cabbit (NFR) | **aIcremie_s**: Cabbit (N), Pain au Chat (R), Pain au Chat ×2, Cattuccino ×2 |
+| 01:25 | **Pidilypops2nd**: Meerkat (FR) | **unicornio1205i**: Owlbear (R) |
+| 01:25 | **Memes_forthesoulalt**: Puffer Fish (MFR), General Sheepdog (MFR) | **Mufubunny**: Lamb (MFR) |
+| 01:20 | **Kcx_jcx123**: Mini Pig (NFR), Munchkin Cat (NR), Munchkin Cat (FR), Shark Puppy (FR) | **Strawluvs_alt2**: Arctic Reindeer (NFR) |
+| 01:20 | **swirlsfawn**: Border Collie (MFR) | **Trop1cxlMe1on**: Candyfloss Chick (NR), 2022 Birthday Cake ×2, Unicorn Horn ×2, 2022 Birthday Cupcake Shoes |
+| 01:20 | **tbx_scarlet**: Cattuccino (N) | **icanhasvip**: Hooray Pink Mega Neon Paint |
+| 01:20 | **strangerthingzz_123**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion | **abdoosaad**: Border Collie (R), Cabbit, Siamese Cat (R) |
+| 01:20 | **chapa4ka579**: Musk Ox ×6 | **25k_Robloxgamer**: Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
