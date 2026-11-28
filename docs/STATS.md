@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 18:31 UTC by the scrape workflow._
+_Updated 2026-11-28 18:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 18:31 UTC by the scrape workflow._
 | amvgg | 18 | 43,544 | 2026-11-28T18:30 |
 | elve | 18 | 10,021 | 2026-11-28T18:31 |
 
-## AMVGG completed trades: 79,497 total
+## AMVGG completed trades: 79,586 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 4,856 |
+| 2026-11-28 | 4,945 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 18:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:25 | **sunvenC**: Pet Handler Pro Certificate ×3 | **Killkillmaster2345**: Burning Bunny (MFR) |
-| 18:25 | **FrostPixel5930**: Crystal Egg ×17 | **Sonia02092008**: Ride-A-Pet Potion |
-| 18:25 | **Kyza_222222223**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 18:25 | **Sonya73p**: Albino Monkey (FR), Fly-A-Pet Potion ×2 | **itz_dancer5496**: Unicorn Horn |
-| 18:25 | **luvyerh**: Cow (FR) | **kobiunicorn**: Elephant (FR), Munchkin Cat (R), Pig (R) |
-| 18:25 | **kiitty_qx**: Reindeer (NR) | **firefly_doesthings**: Ride-A-Pet Potion ×2, Panda (FR) |
-| 18:25 | **Flutterieshyy**: Fallow Deer (MFR), Arctic Reindeer (FR), Goose (NFR), Munchkin Cat (NFR), Ride-A-Pet Potion | **Slimeswaztaken44**: Frost Dragon (FR) |
-| 18:25 | **crits_5566**: Paint Sealer ×14 | **HappyBrenda44**: Ride-A-Pet Potion |
-| 18:25 | **ii_AceKun**: Cow (FR) | **Sofi_sp117**: Fly-A-Pet Potion ×18 |
-| 18:25 | **Furry_lechuga**: Frost Unicorn (FR) | **miraahuntrix**: Fly-A-Pet Potion ×6, Pet Handler Pro Certificate ×2, Ride-A-Pet Potion |
-| 18:25 | **ovwi928524at**: Turtle, Ride-A-Pet Potion | **ponsv2020**: Turtle (FR) |
-| 18:25 | **nice2306_alt**: Crystal Egg ×14 | **looter_love**: Ride-A-Pet Potion |
-| 18:25 | **Penguinzzzzzzzzzzzzs**: Arctic Reindeer (FR), Cow (FR) | **rblxxels**: Hedgehog |
-| 18:25 | **Josuwu892**: Pet Handler Pro Certificate | **alycornsies**: Ride-A-Pet Potion ×2 |
-| 18:25 | **Lerunhi**: Cow (FR) ×2, Kangaroo (NFR), Turtle (FR), Kangaroo (FR), Unicorn (N), Fly-A-Pet Potion, Ride-A-Pet Potion, Arctic Fox (FR) | **Katrinaisthebest4**: Balloon Unicorn (FR) |
+| 18:41 | **lollipopleah7861**: Gecko ×2 | **zjgdhw**: Blue Ringed Octopus |
+| 18:41 | **aweapolarbear**: Tuxedo Cat, Silly Duck, Snowball Pet | **obvits_asianaa**: Chocolate Dutch Guinea Pig ×2 |
+| 18:41 | **cherry_blast2**: Ride-A-Pet Potion ×18 | **Aesthetic_Ayyan**: Tilcayo |
+| 18:41 | **loveminari_6**: Ride-A-Pet Potion | **smooike**: Crystal Egg ×18 |
+| 18:41 | **oxokm1**: Catte, Count Slothula, Toxic Barrel | **zianagirls**: Glyptodon (NFR) |
+| 18:41 | **DuckyMuffinz**: Ride-A-Pet Potion | **EstrafaL2**: Admin Abuse Egg ×18 |
+| 18:41 | **olddeathcore**: Copycat (MFR), Owlbear (MFR), Love Bird (MFR) | **atracttion**: Copycat (NFR) ×2, Copycat (N), Jester Dragon (NFR), Jester Dragon (NR), Jester Dragon (MFR), Jester Dragon, Ride-A-Pet Potion ×2 |
+| 18:41 | **alipolinax**: Spring Bunny Nose | **Fiujdloslah875**: Fly-A-Pet Potion |
+| 18:41 | **ebatka1**: Halloween Blue Scorpion (MR), Border Collie (FR), Pet Handler Pro Certificate, Chameleon ×2, Dragonfruit Fox | **StraangeChild**: Unicorn Horn |
+| 18:41 | **IDFeelAnything**: Nautilus ×2 | **Evelyy_na**: Ride-A-Pet Potion |
+| 18:41 | **kyovd1r**: Ice Wolf (NFR), King Penguin (MR), Lavender Dragon (NR), Glormy Dolphin | **thyum_56**: Tilcayo |
+| 18:41 | **IDFeelAnything**: Toasty Red Panda ×4 | **Evelyy_na**: Fly-A-Pet Potion |
+| 18:41 | **V4mp_1respitt**: Ancient Dragon, Diamond Dragon, Golden Dragon ×2, Dragon, Dragonfly, Purrowl ×2, Blue Whale ×2 | **tory17190**: Ride-A-Pet Potion |
+| 18:41 | **realmp10007**: Balloon Unicorn (FR) | **khalishyusufimuts019**: Parrot (FR) |
+| 18:41 | **awita_92729**: Tortoiseshell Guinea Pig (FR), Gecko (MFR), Indian Flying Fox (M) | **xMaddieglolx**: Golden Penguin (MFR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
