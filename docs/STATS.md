@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 10:31 UTC by the scrape workflow._
+_Updated 2026-11-28 10:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 10:31 UTC by the scrape workflow._
 | amvgg | 18 | 34,635 | 2026-11-28T10:30 |
 | elve | 18 | 7,772 | 2026-11-28T10:31 |
 
-## AMVGG completed trades: 76,898 total
+## AMVGG completed trades: 76,965 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,257 |
+| 2026-11-28 | 2,324 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 10:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:30 | **Sigma_Gerl533**: Bubblegeist, Stray Cat Dragon (N), Alicorn | **Veidjet**: Ride-A-Pet Potion |
-| 10:30 | **Iamlialina**: Mochi Meow (NR), Ride-A-Pet Potion ×6 | **XzFlick3rqNQu33nLzX1**: Dango Penguins ×3 |
-| 10:30 | **Ilovedarya35**: Choco Penguin, Clementine Owl | **Merlimrs**: Maine Coon |
-| 10:30 | **yournoteventhefart41**: Harp Seal | **Veidjet**: Ride-A-Pet Potion |
-| 10:30 | **Sociable_EG**: Kaijunior Box, Latte Motorcycle, Choo Choo Train, Easter Bunny (N), Chilling Spider (N) | **XSad_CharaX**: Ride-A-Pet Potion |
-| 10:30 | **nnnettolll**: Dalmatian (FR), Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR) | **viviinlovewithcats**: Fairy Bat Dragon (MFR) |
-| 10:30 | **Jakusik27**: Strawberry Tortle, Ride-A-Pet Potion, Wildfire Hawk (FR) | **ZzzTrades7**: Turtle (FR) |
-| 10:30 | **razarvale2z**: Ride-A-Pet Potion | **fairy_foruu**: Gemstone Egg ×2 |
-| 10:30 | **xxxMs_kiraxxx**: Diamond Mahi Mahi | **iiellysw**: Retired Egg ×3 |
-| 10:30 | **shatasha31**: Peppermint Penguin (FR), Candicorn (R), Lion (FR), Mermicorn (FR), Border Collie (R) | **jetedispas212**: Christmas Pudding Pup (MFR) |
-| 10:30 | **CEMEH_HOCKOB**: Lunar Tiger (MR) | **Sleepy_Sonya112**: Fly-A-Pet Potion |
-| 10:30 | **shadowxxx14jl**: Fairy Bat Dragon (FR), Spring Bunny Nose, Fly-A-Pet Potion | **dop4234**: Peppermint Penguin (FR) |
-| 10:30 | **mariblue27**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Gingerbread Mansion | **nly4sh**: Haetyphoon |
-| 10:30 | **bestfriend373737**: Candicorn (FR), Unicorn Horn | **matejs75**: Undead Jousting Horse (FR) |
-| 10:30 | **darina_2011m**: Chocolate Dutch Guinea Pig (N) | **Webelive_you**: Papa Moose (FR) |
+| 10:41 | **Penny_isa2**: Mini Pig (FR), Cabbit (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Peppermint Penguin (R), Border Collie (NR), Goose, Fairy Bat Dragon (R) | **syruplicious**: Crow (NFR) |
+| 10:41 | **Alinkareee11**: Chocolate Dutch Guinea Pig, Unicorn Ducky (M) ×4, Shih Tzu (M), Easter Eggy Box | **guyfarted3**: Owlbear |
+| 10:41 | **Navilolp**: Zodiac Minion Chick ×6 | **NotSweatyOnion**: Ride-A-Pet Potion |
+| 10:41 | **Daniel_to11**: Kangaroo (FR) | **Adoptme_guru9**: Kangaroo |
+| 10:41 | **admtradeonly**: Raccoon (MR) | **AlphaTaToxicv1047**: Ride-A-Pet Potion ×5, Kappakid |
+| 10:41 | **Crystal_andLisa**: Sheeeeep (NFR), Onza (M) | **p0xompurin**: Cabbit |
+| 10:41 | **admtradeonly**: Hooray | **AvokadoJFKfanat**: Ride-A-Pet Potion |
+| 10:41 | **admtradeonly**: Hooray, Castle Hermit Crab | **AvokadoJFKfanat**: Fly-A-Pet Potion |
+| 10:41 | **Bandaidxvbzz**: Unicorn Horn, 2022 Birthday Party Hat, 2022 Birthday Party Horn, Ice Cream Cone Hat | **SwampMonster15**: Ram (MFR), Puffer Fish (MFR), Moon Rabbit (MFR) |
+| 10:41 | **3L1EE**: Hare | **cliuic**: Ride-A-Pet Potion ×3 |
+| 10:41 | **Akeem8903133333**: Fly-A-Pet Potion ×9, Ride-A-Pet Potion ×3 | **Car1os_xd**: Arctic Fox (NR) |
+| 10:41 | **awvanibbg**: Pet Handler Pro Certificate, Pupcicle | **angelbunis**: Purrowl (M) |
+| 10:41 | **obriganhik_l**: Ginger Cat (N), Easter Bunny | **yumstarf**: Retired Egg ×11 |
+| 10:41 | **avoxmunk**: Shrew (R) | **fluttershyqueenpony**: Fly-A-Pet Potion ×3 |
+| 10:41 | **beaaarr2**: Hot Doggo (R) | **yeyr7r71**: Spring Bunny Nose, Pink Heart Glasses, Siamese Cat (R), Ride-A-Pet Potion ×10, Catte (R), Mummy Spider (M) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
