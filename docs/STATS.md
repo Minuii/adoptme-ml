@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 01:40 UTC by the scrape workflow._
+_Updated 2026-11-28 01:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 01:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 25,454 | 2026-11-28T01:30 |
-| elve | 18 | 5,615 | 2026-11-28T01:31 |
+| amvgg | 18 | 25,744 | 2026-11-28T01:45 |
+| elve | 18 | 5,674 | 2026-11-28T01:46 |
 
-## AMVGG completed trades: 75,045 total
+## AMVGG completed trades: 75,059 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 404 |
+| 2026-11-28 | 418 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 01:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 01:45 | **luzmi119**: Gingerbread Mansion | **cindystarsweet3**: Chihuahua ×2 |
+| 01:45 | **Gh0styUnknown**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR), Grim Dragon (FR), Kangaroo (FR), Kangaroo (R), Elephant (FR), 2022 Birthday Cake, Ghostly Cat (MFR) | **abdoosaad**: Parrot (NFR) |
+| 01:45 | **itwvery**: Happy Clam (MFR), Ride-A-Pet Potion ×2 | **abnorzxiouxs**: Strawberry Shortcake Bat Dragon (FR) |
+| 01:45 | **EMITO_CRACK**: Cryptid (FR), Candicorn (R) | **AL0HALILYY**: Arctic Reindeer (FR), Goose (FR) |
+| 01:45 | **SEMTREXYYYY**: Owl (FR), Pet Handler Pro Certificate, Golden Lettuce | **aurawlii**: Hedgehog (R), Alpaca (NFR) |
+| 01:45 | **valentina_nic90**: Hot Doggo, Ride-A-Pet Potion | **mychemgeek**: Hot Doggo (FR) |
+| 01:45 | **nevslushs**: Rain Cloud Hat, Unicorn Horn | **l1n_yourgf**: Angel Wings, Matcha Cat |
+| 01:45 | **deadpo0l293**: Arctic Fox (NFR) ×2, Arctic Dusk Dragon (NR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Fallow Deer | **nfrmikey1**: Hot Doggo (R), 2022 Birthday Party Hat |
+| 01:45 | **Katarina22235**: Tortuga de la Isla (NFR), Chihuahua (MR) | **Matiasharo06**: Irish Water Spaniel (NFR) |
+| 01:45 | **cari_heart**: Tilcayo (R) | **lupsgrl**: Tortoiseshell Guinea Pig, Elf Hat, German Shepherd (R) |
+| 01:45 | **Thomatheus12**: Moon Rabbit, Amami Rabbit ×2 | **BIg_BoRdy**: Ride-A-Pet Potion ×2 |
+| 01:45 | **Aninkoq**: Unicorn (NFR) | **elli_1501**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 |
+| 01:45 | **MarsiuuDP3**: Evil Unicorn (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **NIKA647374**: Hedgehog (FR) |
+| 01:45 | **jokemareirm56**: Magic House Door | **dccdles**: Ride-A-Pet Potion |
 | 01:40 | **Demonized_Bagel**: Tarantula (FR), Toucan (NR), Island Tarsier (N), Mongoose, Toy Poodle, Stitches, Ribbon Seal, Diamond Dragon, Golden Unicorn, Caramelgeist ×2, Ice Cube, Gemstone Egg | **ElNoobProGG**: Stray Cat Dragon ×15, Stray Cat Dragon (R) |
-| 01:40 | **ElNoobProGG**: Stray Cat Dragon ×12 | **elcob65**: Gemstone Egg ×2 |
-| 01:40 | **PIZZ44R0LLZ2**: Christmas Pudding Pup | **yessileija**: Aurora Fox |
-| 01:40 | **cazzy123abc**: Matcha Cat (MFR) | **Susbii45**: Sheeeeep (MFR), Peppermint Penguin (R), Golden Lettuce |
-| 01:40 | **unicornsoeka**: Pupcicle (N) | **SoftballGeniusgirl**: Dragonfruit Fox |
-| 01:40 | **JasonTheDemon_lol**: Seabed Creeper (N), Pine Marten (NR), Scarecrow Horse (N) | **Boo_kittykitty**: Ice Cube (M), Halloween Blue Scorpion (M) |
-| 01:40 | **Yasaas13**: Amethyst Skies Mega Neon Paint | **lxHatsunexl**: Solar Burst Mega Neon Paint |
-| 01:40 | **ell1erose12**: German Shepherd (MR), Chocolate Dutch Guinea Pig (MFR), French Bulldog (M) | **MersuJanhir13**: Chocolate Chip Bat Dragon (FR) |
-| 01:40 | **SavannyTheGreatz**: Kangaroo (NFR), Nessie (NFR), Dalmatian (FR) | **MersuJanhir13**: Strawberry Shortcake Bat Dragon (NFR) |
-| 01:40 | **highdecor**: Strawberry Shortcake Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (R) | **pxrczl**: Chocolate Chip Bat Dragon (MFR), Unicorn Horn, Ride-A-Pet Potion |
-| 01:40 | **Aubrey_Prism851**: Many Mackerel (FR), Ride-A-Pet Potion, Tan Chow-Chow (N) | **bbgsarethebest_1**: Candy Hare (NR) |
-| 01:40 | **Susabaoen**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR) | **DJ_4348**: Cryptid |
-| 01:40 | **genesisgameryt504**: Turtle | **yohannecotiee**: Tilcayo (FR) |
-| 01:40 | **FALSE_RAINBOW**: Respectful Mustache | **cloudWavedog87**: Ride-A-Pet Potion |
-| 01:40 | **Babyofy5**: Shark Puppy (R) | **loiol1004**: Princess Capuchin Monkey ×2, Capuchin Monkey (N), Capuchin Monkey ×3, Influencer Gibbon (NF), Influencer Gibbon ×3, Villain Gibbon ×2, Officer Gibbon (N), Monkey (N), Monkey |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
