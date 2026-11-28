@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 11:16 UTC by the scrape workflow._
+_Updated 2026-11-28 11:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 11:16 UTC by the scrape workflow._
 | amvgg | 18 | 35,456 | 2026-11-28T11:15 |
 | elve | 18 | 7,956 | 2026-11-28T11:15 |
 
-## AMVGG completed trades: 77,123 total
+## AMVGG completed trades: 77,154 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,482 |
+| 2026-11-28 | 2,513 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 11:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 11:15 | **siyahmucize**: Pet Handler Pro Certificate, Retired Egg ×5 | **DrendyRobLox**: Ride-A-Pet Potion ×2 |
-| 11:15 | **baysan59**: Arctic Reindeer (FR) ×2 | **rasyanoobbacon**: Arctic Reindeer (NFR), Ride-A-Pet Potion |
-| 11:15 | **lynxdvlp**: Fly-A-Pet Potion ×4, Pet Handler Pro Certificate, Ride-A-Pet Potion ×8 | **Adoptme_guru9**: Kangaroo (FR) |
-| 11:15 | **AMINO4KA7U**: Ballet Swan (R) | **llyriixii**: Candy Hare, Ram (R), Pain au Chat |
-| 11:15 | **xzxuoj**: Pupcicle (NR) | **forso_manyacc**: Pet Handler Pro Certificate |
-| 11:15 | **admtradeonly**: Fly-A-Pet Potion, Ride-A-Pet Potion | **iklerka7228**: Hamster (NR), Sushi Penguin (R), Rainbow Trout (M) |
-| 11:15 | **ameyyass**: Ride-A-Pet Potion ×2 | **Gleb_proRoblox123**: Peacock (R), Dodo |
-| 11:15 | **PREPPY_ROBLOXWORLD1**: Turtle (NFR) | **ceradef12**: Fairy Bat Dragon (FR), Jousting Horse (NFR), Octopus (NR) |
-| 11:15 | **1nikaroctik**: Strawberry Shortcake Bat Dragon (FR), Shark Puppy, Ride-A-Pet Potion, Flower Power Duckling (R) | **jasminesep16**: Sugar Glider (NFR) |
-| 11:15 | **viviadoptme18**: Strawberry Shortcake Bat Dragon (FR), Alpaca (R) | **swaggysallzzyyy**: Dalmatian (FR), Ride-A-Pet Potion |
-| 11:15 | **SpaghettiBolognese_w**: Campfire Stories Mega Neon Paint | **Tiddlechip**: Hooray Pink Mega Neon Paint |
-| 11:15 | **uandmeforever8**: Arctic Reindeer (FR), Siamese Cat | **Dinulya81**: Dalmatian (FR), Ride-A-Pet Potion |
-| 11:15 | **URSET_ROM4IK997**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 11:15 | **rasyanoobbacon**: Ride-A-Pet Potion ×5, Chihuahua | **aliyahbyrne11**: Chef Gorilla (N) |
-| 11:15 | **Ttsglw**: Mummy Spider (M), Ghostly Cat, Ranger Beaver, Bubblegeist, Sea Turtle, Three Blind Mice | **Mihka14lee**: Fly-A-Pet Potion |
+| 11:25 | **tsmovrol**: Arctic Fox, Pig (R), Fly-A-Pet Potion, Bat Backpack ×2, Firey Aura, Pink Instant Camera | **Retorn011**: Pig (N) |
+| 11:25 | **itsmeh_vasi3**: Gumball Caterpillar (N), Rubber Ducky (M), Glyptodon Ducky (N), Bubblegeist | **lili95640**: Hooray Pink Mega Neon Paint |
+| 11:25 | **Vitamirka**: Kiwi Kiwi ×4 | **KittyVikaa**: Ride-A-Pet Potion ×2 |
+| 11:25 | **R0ttenzxmbie**: Angel Wings | **Gonfreecss09111**: Hooray (M) |
+| 11:25 | **ydenarohka10**: Samoyed (MR) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×2 |
+| 11:25 | **InfinityLuckx**: Peppermint Penguin (R) | **Gonfreecss09111**: Hooray (M), Ride-A-Pet Potion, Fly-A-Pet Potion |
+| 11:25 | **no_anniaomg**: Tortoiseshell Guinea Pig (R), Harp Seal (NR), Fly-A-Pet Potion | **varmitrof**: Tilcayo |
+| 11:25 | **R0ttenzxmbie**: Angel Wings | **Gonfreecss09111**: Hooray (M) |
+| 11:25 | **SanoKojima_lobotomy**: 2022 Birthday Party Horn, Cabbit, Flamingo (FR), Pupcicle (MR) | **Pokeballpropro**: Strawberry Shortcake Bat Dragon (FR) |
+| 11:25 | **DrendyRobLox**: Stray Cat Dragon ×16 | **alina36_r**: Ride-A-Pet Potion ×2 |
+| 11:25 | **pxrczl**: Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Tortle | **amiaaaa20**: Balloon Unicorn (FR) |
+| 11:25 | **islandicsinger**: Strawberry Shortcake Bat Dragon (FR) | **renn_123on**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
+| 11:25 | **rycnqdq**: Pig (FR), Stray Cat Dragon ×3 | **SteveKwon10**: Ride-A-Pet Potion ×10 |
+| 11:25 | **rasyanoobbacon**: Dancing Dragon (NFR) | **jaeu0523hajun**: Ride-A-Pet Potion ×14 |
+| 11:25 | **auiciq_isp**: Ride-A-Pet Potion | **HiOuO121**: Crystal Egg ×18 |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
