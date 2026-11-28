@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 02:46 UTC by the scrape workflow._
+_Updated 2026-11-28 02:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 02:46 UTC by the scrape workflow._
 | amvgg | 18 | 26,873 | 2026-11-28T02:45 |
 | elve | 18 | 5,938 | 2026-11-28T02:46 |
 
-## AMVGG completed trades: 75,282 total
+## AMVGG completed trades: 75,311 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 641 |
+| 2026-11-28 | 670 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 02:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 02:45 | **alyssaistuffyy**: Ride-A-Pet Potion, Fly-A-Pet Potion, Unicorn Stroller | **MochRosito**: Field Mouse (R) |
-| 02:45 | **lolo_gils**: Shrew | **Louise123_27**: Chicken (NFR) |
-| 02:45 | **luvdokyeomie**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 02:45 | **uh_dulciee**: Kitty Biscuit | **kxtrennn**: Chihuahua ×2 |
-| 02:45 | **GalaxyVoid747**: Crystal Egg ×8 | **AlmiisV**: Gemstone Egg |
-| 02:45 | **Lee_angel666**: Hedgehog, Flaming Fox (MFR) | **EmiXMisty**: Strawberry Shortcake Bat Dragon (NFR) |
-| 02:45 | **sedamanga212**: Werewolf (FR) | **maks070706**: Ride-A-Pet Potion ×10, Fly-A-Pet Potion ×3 |
-| 02:45 | **Xwixx1obv**: Sushi Penguin (F) | **whos_menad**: Pain au Chat ×2 |
-| 02:45 | **iamnoonetobehere**: Musk Ox ×2 | **meow_cat2310**: Ride-A-Pet Potion |
-| 02:45 | **MEMEelgatito**: Paint Sealer ×11 | **harpiealt07**: Blue Boohoo Mega Neon Paint |
-| 02:45 | **IzeaEboy**: Chocolate Chip Bat Dragon (NFR) | **amaekii**: Balloon Unicorn (FR) |
-| 02:45 | **wjredmind**: Munchkin Cat, Puffer Fish (N), Lavender Dragon ×2, Majestic Pony (R), Dango Penguins, Naughty Mistletroll, Gaelic Fae, Chocolate Dutch Guinea Pig ×2, Glormy Hound, Albino Monkey (R), Lamb ×2, Kiwi Kiwi ×2, Albino Monkey (FR), Silverback Gorilla | **Babyofy5**: Mini Pig, Goose |
-| 02:45 | **FunnyAnaminegirl**: Crystal Egg ×18 | **Kaaumi_Uzumaki**: Fly-A-Pet Potion |
-| 02:45 | **iiiPinkyBlossomx**: Crystal Egg ×15 | **ShadowBluWulf**: Ride-A-Pet Potion |
-| 02:45 | **J43R0M3**: Haetae (FR), African Wild Dog (FR), Munchkin Cat (FR) | **otonite7**: Frost Dragon (FR) |
+| 02:55 | **iiiPinkyBlossomx**: Crystal Egg ×15 | **Kaaumi_Uzumaki**: Ride-A-Pet Potion |
+| 02:55 | **ilikexwolf**: Admin Abuse Egg ×15, Cracked Egg | **azucar4574l**: Gingerbread Mansion |
+| 02:55 | **FunnyAnaminegirl**: Crystal Egg ×12 | **Llolxfunxgirl**: Ride-A-Pet Potion |
+| 02:55 | **nfrmikey1**: Unicorn (NFR), Fallow Deer, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **jeni_jen02**: Albino Monkey (FR) |
+| 02:55 | **idk_23y**: Turtle (NFR), Cow, Super Jetpack, Tiny Wings, Pig | **dayn_okda12**: Jekyll Hydra (NFR) |
+| 02:55 | **neforeno4ek666**: Stray Cat Dragon ×6, Skelicorn, Purrowl, Temple Friend (N) | **heladitoooUnU**: Ride-A-Pet Potion |
+| 02:55 | **Its_marmeladka0003**: Fly-A-Pet Potion ×3 | **MatiXD12306**: Haetyphoon |
+| 02:55 | **Loveee270510**: Golden Unicorn (N), Muskrat (N) | **Its_marmeladka0003**: Classic Trade Stand |
+| 02:55 | **alvarconXD**: Ride-A-Pet Potion ×10 | **soapybunnie_0**: Kitty Bat (MFR) |
+| 02:55 | **1o5_aa**: Chihuahua | **HiOuO121**: Crystal Egg ×6 |
+| 02:55 | **vuxsa1t**: Strawberry Shortcake Bat Dragon (NFR), Water Rabbit (MFR), Ride-A-Pet Potion | **aabeeyg**: Border Collie (MFR) |
+| 02:55 | **crybabydoIl**: Unicorn (NFR) | **Fidelia2131415**: Ride-A-Pet Potion ×5 |
+| 02:55 | **ColdRoblox98**: Fly-A-Pet Potion, Ride-A-Pet Potion, Admin Abuse Egg ×2, Monkey, Purrowl, Pomeranian, Boohoo ×2, Mummy Spider ×2 | **monte_mt3OwO**: Boohoo (MFR) |
+| 02:55 | **pusilups**: Royal Mistletroll (MFR), Turtle (NFR), Crocodile (FR) | **LilSlushyx**: Alpaca (MFR) |
+| 02:55 | **Wayda_Jaida**: Hooray Pink Mega Neon Paint | **Robloxiana_xxx2011**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
