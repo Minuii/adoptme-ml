@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 13:01 UTC by the scrape workflow._
+_Updated 2026-11-28 13:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 13:01 UTC by the scrape workflow._
 | amvgg | 18 | 37,332 | 2026-11-28T13:00 |
 | elve | 18 | 8,469 | 2026-11-28T13:01 |
 
-## AMVGG completed trades: 77,676 total
+## AMVGG completed trades: 77,698 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 3,035 |
+| 2026-11-28 | 3,057 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 13:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:00 | **Kitti_59350**: Ride-A-Pet Potion, Cocoadile (M), Dog (NR), Pomeranian | **lawersdcc**: Fly-A-Pet Potion |
-| 13:00 | **razarvale2z**: Chihuahua ×2, Pain au Chat, Royal Egg | **kayg1**: Ride-A-Pet Potion |
-| 13:00 | **epicpulsechaos2024**: Ancient Dragon ×10 | **kayg1**: Ride-A-Pet Potion |
-| 13:00 | **Elmira_320m**: Mummy Spider, Mummy Spider (N) | **urfavilaxx**: Snowman |
-| 13:00 | **Kaiisxe**: Ride-A-Pet Potion ×6 | **carlinhos_CH**: Snowball Pug (MFR) |
-| 13:00 | **Theyluv_pxachy**: Rose Quartz Glow Mega Neon Paint, Retired Egg ×8 | **Amy_LazyMaybe**: Hooray Pink Mega Neon Paint |
-| 13:00 | **floqixiia**: Fly-A-Pet Potion ×4 | **milk59012**: Strawberry Penguin (R), Onza (M) |
-| 13:00 | **kica55**: Arctic Fox (R) | **dollgumou**: Fly-A-Pet Potion ×4 |
-| 13:00 | **anihao17**: Pupcicle | **dolynskal**: Ride-A-Pet Potion |
-| 13:00 | **Vicky_200804**: Chocolate Dutch Guinea Pig (MFR) | **m4ritx7**: Lamb (MFR) |
-| 13:00 | **0tohero_rahul**: 2022 Birthday Party Hat ×7, Unicorn Horn ×2, Ice Cream Hermit Crab (MR), Kangaroo (R) | **leruval**: Frost Dragon (FR) |
-| 13:00 | **Vinni_love3**: Candicorn, Ride-A-Pet Potion | **Noemux08WGF**: Winged Tiger (R), Chocolate Dutch Guinea Pig (N) |
-| 13:00 | **minismudgepanda**: Ride-A-Pet Potion ×13 | **DragonjJDusta107130**: Border Collie |
-| 13:00 | **ikeumw**: Frost Dragon (FR) | **mikepower240508**: Cow (R), Peppermint Penguin (FR) ×3, Peppermint Penguin (R) ×4 |
-| 13:00 | **Polinamasha123**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
+| 13:06 | **milk59012**: Fly-A-Pet Potion ×4, Dango Penguins (NFR) | **ffffffff9876h**: Siamese Cat (R) |
+| 13:06 | **Honeymoney522**: Indian Leopard, Nutcracker Squirrel, Narwhal, Red Fox, Steppe Lion, Sasquatch | **DreamWalker_47**: Ride-A-Pet Potion |
+| 13:06 | **wolllll11**: Clumpty ×3, Swordfish, Spider Crab, Glormy Crab | **Cute_moonXo2**: Retired Egg ×12 |
+| 13:06 | **Berryavenueslag**: Chocolate Chip Bat Dragon (FR), Unicorn Horn | **mdmdnkevsjsvaj**: Cabbit (NR) |
+| 13:06 | **SomeoneStoleMyChance**: Alpaca (FR), Sea Slug (NFR), Sea Slug (R), Royal Mistletroll (FR) | **sshylohhh**: Honey Badger (MFR) |
+| 13:06 | **elionadinda**: Skele-Rex (R), Red Dutch Guinea Pig, Pig (R), Shark (R), Unicorn (NR) | **wskdaks**: Kangaroo (FR) |
+| 13:06 | **SpongyBobbyTheBest**: Blazing Lion (MFR) | **Cinzsins**: Giraffe (FR), Frost Dragon (FR), Owl (FR), Bat Dragon (FR) |
+| 13:06 | **lovergirlwithjkph**: Glacier Kitsune, Mythic Egg, Ocean Egg | **Caxarok_Milanka**: Pet Handler Pro Certificate ×2 |
+| 13:06 | **FrostPixel5930**: Crystal Egg ×18 | **aphrovina**: Ride-A-Pet Potion |
+| 13:06 | **abdoosaad**: Strawberry Tortle | **CookieGothic**: Strawberry Penguin (NFR) |
+| 13:06 | **ItzSlima**: Dango Penguins (R) | **Yumi_Rose8**: Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 13:06 | **TradeMehOnMahMain**: Strawberry Shortcake Bat Dragon (NFR), Arctic Fox (NFR) | **Lda280**: Parrot (FR) |
+| 13:06 | **horrdolls**: Black Kite, Halloween Black Mummy Cat, Choco Penguin, Clementine Owl, Frog (NR) | **erosenthrall**: Pet Handler Pro Certificate |
+| 13:06 | **hiyuki_404**: Pupcicle | **dontknow_tal**: Amethyst Skies Mega Neon Paint |
+| 13:06 | **Red_Spider228**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×4 | **loiol1004**: Berry Cool Cube, Puffer Fish (NR), Orca (M), Red Squirrel (N), Gargoyle |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
