@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 01:46 UTC by the scrape workflow._
+_Updated 2026-11-28 01:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 01:46 UTC by the scrape workflow._
 | amvgg | 18 | 25,744 | 2026-11-28T01:45 |
 | elve | 18 | 5,674 | 2026-11-28T01:46 |
 
-## AMVGG completed trades: 75,059 total
+## AMVGG completed trades: 75,088 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 418 |
+| 2026-11-28 | 447 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 01:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:45 | **luzmi119**: Gingerbread Mansion | **cindystarsweet3**: Chihuahua ×2 |
-| 01:45 | **Gh0styUnknown**: Parrot (FR), Strawberry Shortcake Bat Dragon (FR), Grim Dragon (FR), Kangaroo (FR), Kangaroo (R), Elephant (FR), 2022 Birthday Cake, Ghostly Cat (MFR) | **abdoosaad**: Parrot (NFR) |
-| 01:45 | **itwvery**: Happy Clam (MFR), Ride-A-Pet Potion ×2 | **abnorzxiouxs**: Strawberry Shortcake Bat Dragon (FR) |
-| 01:45 | **EMITO_CRACK**: Cryptid (FR), Candicorn (R) | **AL0HALILYY**: Arctic Reindeer (FR), Goose (FR) |
-| 01:45 | **SEMTREXYYYY**: Owl (FR), Pet Handler Pro Certificate, Golden Lettuce | **aurawlii**: Hedgehog (R), Alpaca (NFR) |
-| 01:45 | **valentina_nic90**: Hot Doggo, Ride-A-Pet Potion | **mychemgeek**: Hot Doggo (FR) |
-| 01:45 | **nevslushs**: Rain Cloud Hat, Unicorn Horn | **l1n_yourgf**: Angel Wings, Matcha Cat |
-| 01:45 | **deadpo0l293**: Arctic Fox (NFR) ×2, Arctic Dusk Dragon (NR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Fallow Deer | **nfrmikey1**: Hot Doggo (R), 2022 Birthday Party Hat |
-| 01:45 | **Katarina22235**: Tortuga de la Isla (NFR), Chihuahua (MR) | **Matiasharo06**: Irish Water Spaniel (NFR) |
-| 01:45 | **cari_heart**: Tilcayo (R) | **lupsgrl**: Tortoiseshell Guinea Pig, Elf Hat, German Shepherd (R) |
-| 01:45 | **Thomatheus12**: Moon Rabbit, Amami Rabbit ×2 | **BIg_BoRdy**: Ride-A-Pet Potion ×2 |
-| 01:45 | **Aninkoq**: Unicorn (NFR) | **elli_1501**: Ride-A-Pet Potion, Fly-A-Pet Potion ×2 |
-| 01:45 | **MarsiuuDP3**: Evil Unicorn (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×5 | **NIKA647374**: Hedgehog (FR) |
-| 01:45 | **jokemareirm56**: Magic House Door | **dccdles**: Ride-A-Pet Potion |
-| 01:40 | **Demonized_Bagel**: Tarantula (FR), Toucan (NR), Island Tarsier (N), Mongoose, Toy Poodle, Stitches, Ribbon Seal, Diamond Dragon, Golden Unicorn, Caramelgeist ×2, Ice Cube, Gemstone Egg | **ElNoobProGG**: Stray Cat Dragon ×15, Stray Cat Dragon (R) |
+| 01:51 | **Robloxianp3g1g8i7d**: Fly-A-Pet Potion | **lxHatsunexl**: Blue Boohoo Mega Neon Paint, Solar Burst Mega Neon Paint |
+| 01:51 | **ameyyass**: Christmas Pudding House ×5 | **hcneycottage**: Ride-A-Pet Potion |
+| 01:51 | **Yumi_Rose8**: Fly-A-Pet Potion | **Bachiraesmio_08**: Swan (R) |
+| 01:51 | **jasidk17**: Christmas Pudding Pup, Pet Handler Pro Certificate, Sushi Penguin (R) | **kingdontay123456**: Candy Cane Snail (MFR) |
+| 01:51 | **jasidk17**: Pet Handler Pro Certificate | **Dora_MS1**: Boohoo (M) |
+| 01:51 | **gabdoptme**: Chocolate Dutch Guinea Pig | **VanessavvkPlayz**: Gemstone Egg ×2 |
+| 01:51 | **blushbyelle**: Berry Cool Cube (MFR) | **theogriffn1**: Dragonfruit Fox (NFR) |
+| 01:51 | **luxxlyh**: Liger (M) | **cloudWavedog87**: Ride-A-Pet Potion ×3 |
+| 01:51 | **blobxxfish**: Hooray Pink Mega Neon Paint, Peachick | **z4ni_X**: Ride-A-Pet Potion |
+| 01:51 | **Elmasinsano_392**: Zombie Wolf (R) | **samanta_lapendex**: Fly-A-Pet Potion |
+| 01:51 | **iiStxberryMilkx**: Giant Anteater (R) | **szoozin**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
+| 01:51 | **epicpulsechaos2024**: Ancient Dragon ×10 | **Andres_agent**: Ride-A-Pet Potion |
+| 01:51 | **loiol1004**: Dragonfly (M) | **MelodyMoonPlay**: Fly-A-Pet Potion |
+| 01:51 | **Babyofy5**: Candyfloss Chick (FR) | **wjredmind**: Scorching Kaijunior (R), Scorching Kaijunior, Pineapple Owl ×2, Ice Wolf (R), Ice Wolf ×2, Gaelic Fae, Wooly Rhino |
+| 01:51 | **Vipeezzfr**: Crow, Strawberry Shortcake Bat Dragon (NFR), Kangaroo (MFR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (R), Kangaroo (FR) ×2, Kangaroo (R), Turtle (FR) ×3, Werewolf (FR), Candicorn (FR), Goose (FR), Peppermint Penguin (FR), Spider Crab (MR) | **YesidT_T**: Cryptid (M) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
