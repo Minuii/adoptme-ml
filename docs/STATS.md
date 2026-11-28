@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 10:16 UTC by the scrape workflow._
+_Updated 2026-11-28 10:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 10:16 UTC by the scrape workflow._
 | amvgg | 18 | 34,365 | 2026-11-28T10:15 |
 | elve | 18 | 7,707 | 2026-11-28T10:15 |
 
-## AMVGG completed trades: 76,859 total
+## AMVGG completed trades: 76,878 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,218 |
+| 2026-11-28 | 2,237 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 10:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:15 | **TherealKongewow**: Meerkat | **ameyyass**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion |
-| 10:15 | **imuglybaconhair7**: Werewolf (FR), Border Collie (FR), Caterpillar (FR), Jellyfish (FR), Giant Anteater, Brown Bear | **Sophia_1239878**: Strawberry Shortcake Bat Dragon (FR) |
-| 10:15 | **UniversePaladin**: Strawberry Shortcake Bat Dragon (FR) | **spook_jhon**: Turtle (FR), Kangaroo (FR), Pig (FR), Border Collie (FR) |
-| 10:15 | **Kui_Yeager**: Bat Dragon (FR), Cryptid (FR), Peppermint Penguin (NFR), Frost Dragon (FR) ×2, Cabbit (NR), Munchkin Cat (N), Siamese Cat (N), Rainbow Maker, Unicorn Horn, Goose (FR), Alpaca (R) | **auzreti**: Bat Dragon (NFR) |
-| 10:15 | **cxltwaste**: Crow (FR), Cryptid (FR), Frost Unicorn (FR) | **XyoungzuzixX**: Frost Dragon (FR) |
-| 10:15 | **urm0m_6o9**: Ride-A-Pet Potion, Cabbit (R), Deinonychus (NFR) | **Giulia_SatoruPs4**: Jekyll Hydra |
-| 10:15 | **FuryMoon29021**: Polar Bear | **0HD1v1n3**: Fly-A-Pet Potion ×2 |
-| 10:15 | **ZEDE_stick**: Harp Seal | **Elshakila**: Chocolate Dutch Guinea Pig |
-| 10:15 | **regina_12z**: Fly-A-Pet Potion | **feithh2**: Pet Handler Pro Certificate |
-| 10:15 | **milk59012**: Ride-A-Pet Potion, Paint Sealer ×2 | **P50**: Onza (M) |
-| 10:15 | **FAIRY_264**: Crystal Egg ×16 | **CEMEH_HOCKOB**: Ride-A-Pet Potion |
-| 10:15 | **itz_dariinxsss**: Ghost Dog, Pain au Chat, Ride-A-Pet Potion ×3 | **angeladahohg**: Copycat |
-| 10:15 | **Theonly_Naomi89**: Strawberry Shortcake Bat Dragon (FR), Cabbit, Fly-A-Pet Potion | **N0ugatt**: Cryptid (FR) |
-| 10:15 | **Veidjet**: Ride-A-Pet Potion ×2 | **Aptobolom**: Candy Hare (R) |
-| 10:15 | **amaialolwonder**: Cabbit (MFR), Bush Elephant (MFR), Border Collie (MFR), 2022 Birthday Party Hat, 2022 Birthday Cake, Cloud Car, Tiny Wings | **bunbuncrackedcupcake**: Hot Doggo (MFR), Mini Pig (MFR) |
+| 10:25 | **P50**: Fly-A-Pet Potion ×3, Black-Footed Ferret (N) | **Ungel_Dust**: Jester Dragon, Dragonfruit Fox |
+| 10:25 | **2lilly777**: Werewolf (R) | **WA1XC23**: Kangaroo (R) |
+| 10:25 | **Vxmptomato**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3, Kitty Bat (M) | **skeletaQ1**: Werewolf (FR) |
+| 10:25 | **cannotaffordme**: Wood Pigeon (MFR) | **leoegern40**: Tombstone Ghostify |
+| 10:25 | **Sociable_EG**: Butter Knife ×2 | **qO_Opli**: Ride-A-Pet Potion |
+| 10:25 | **zhenixx12**: Kangaroo (MFR), Turtle (FR), 2022 Birthday Party Hat, 2022 Birthday Party Horn | **summerg6mes**: Giant Panda (FR) |
+| 10:25 | **Xxxxashhhh**: Fly-A-Pet Potion ×2 | **Babielily1**: Glacier Moth |
+| 10:25 | **MrLancy17**: Ride-A-Pet Potion ×9 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 |
+| 10:25 | **zee55510**: Flaming Fox | **Xxxxashhhh**: Fly-A-Pet Potion |
+| 10:25 | **Xervves**: Candicorn (NR), Polar Bear (NFR), Arctic Fox, Shark Puppy, Ride-A-Pet Potion, Spring Bunny Hood ×2, Pet Handler Pro Certificate, Husky (R), Golden Penguin (R), Silly Duck, Harp Seal (R), Unicorn ×3 | **TMDung20**: Dalmatian (FR) |
+| 10:25 | **chase_ufficial1**: Arctic Reindeer (F), Siamese Cat (R) | **TMDung20**: Dalmatian (FR) |
+| 10:25 | **Hel_a1na**: Arctic Reindeer (R), Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion | **xavspup**: Cryptid (FR) |
+| 10:25 | **0HD1v1n3**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3 | **Vitek_228666**: Pig (R) |
+| 10:25 | **RU0871**: Arctic Reindeer (FR), Cow (FR) | **Scfterqx**: Dalmatian (FR), Albino Monkey (FR) |
+| 10:25 | **Alana2K201**: Ride-A-Pet Potion ×2 | **BottleOfWindexLover**: Ginger Cat (MFR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
