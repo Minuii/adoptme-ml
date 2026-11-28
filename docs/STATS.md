@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 14:16 UTC by the scrape workflow._
+_Updated 2026-11-28 14:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 14:16 UTC by the scrape workflow._
 | amvgg | 18 | 38,708 | 2026-11-28T14:15 |
 | elve | 18 | 8,760 | 2026-11-28T14:15 |
 
-## AMVGG completed trades: 78,049 total
+## AMVGG completed trades: 78,094 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 3,408 |
+| 2026-11-28 | 3,453 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 14:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 14:15 | **Machaddkkj**: Angus Calf (M), Waffle Wyrm (FR), Paint Sealer ×2 | **ameyyass**: Fly-A-Pet Potion |
-| 14:15 | **Bruno_Games76**: Chocolate ×2, Chocolate Drop, Cupid Dragon (FR) | **iizzy_banne**: Candicorn (FR) |
-| 14:15 | **trippi065**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Lila_Chanbibi**: Arctic Dusk Dragon |
-| 14:15 | **Blarg_Potatoes**: Munchkin Cat, Border Collie (R), Fly-A-Pet Potion ×2 | **abdoosaad**: Fairy Bat Dragon (R) |
-| 14:15 | **zvfyfyf**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **milkiwey_059**: Toyshop House |
-| 14:15 | **hotjerbear**: Dalmatian (FR), Peppermint Penguin, Elephant (FR) | **Eva_EvaKBAC**: Irish Water Spaniel (MFR) |
-| 14:15 | **Yamajyjopyvazelinov1**: Halloween White Skeleton Dog (N) | **Candy_100OO**: Ride-A-Pet Potion |
-| 14:15 | **N0ugatt**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon | **miimiland20**: Cryptid (FR) |
-| 14:15 | **srtyok43**: Three Blind Mice, Boohoo (N), Bee, Bobageist, Unicorn Ducky, Little Lamb, Boohoo ×3, Mummy Spider ×3, Retired Egg ×3, Mistletroll ×2, Old King Coal | **Mashka02015**: Ride-A-Pet Potion |
-| 14:15 | **henmxaii**: Cryptid (R), Fairy Bat Dragon (R) ×2 | **PowersMia2955**: Strawberry Shortcake Bat Dragon (NFR) |
-| 14:15 | **obv1davs**: Ring-Tailed Lemur (MFR), Puffer Fish (MFR), Mini Pig (R), Kangaroo (FR), Ride-A-Pet Potion ×2, Cotton Candy Hat | **lightxdesire**: Elephant (MFR) |
-| 14:15 | **Sharking_off**: Hedgehog (FR) ×3, Dalmatian (FR) ×3, Arctic Reindeer (FR) ×2, Chocolate Chip Bat Dragon (FR), Strawberry Tortle (R) | **Alyssa_diamonds**: Bat Dragon (FR) |
-| 14:15 | **Marilynbrandt662**: Strawberry Shortcake Bat Dragon (FR) | **loiol1004**: Husky (FR), French Bulldog (MFR), Robo Dog (NFR), Undead Jousting Horse (R), Shark Puppy (FR) |
-| 14:15 | **star_adelina**: Turtle (FR), Stitches (N) | **Dream_Zakat**: Shark Puppy ×2, Ride-A-Pet Potion ×3 |
-| 14:15 | **zombiifangs**: Balloon Unicorn (FR), Pupcake (N) | **4URANZ3**: Siamese Cat (MFR), Unicorn Horn |
+| 14:25 | **arquilo11**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
+| 14:25 | **shuttchoo**: Crow (NFR), 2022 Birthday Party Hat | **KIAZER_A**: Hedgehog (FR), Dalmatian (FR) ×2, Strawberry Shortcake Bat Dragon (FR) |
+| 14:25 | **Vika_fortrading**: Strawberry Tortle, Ride-A-Pet Potion | **kqlaxz**: Vanilla Penguin (MFR) |
+| 14:25 | **U_sulla**: Evil Unicorn (FR) | **leidydamelike**: Elephant (R), Ballet Swan, Fairy Bat Dragon (NFR) |
+| 14:25 | **toybeau772**: Maine Coon (M) | **lonely_pixiebear**: Reindeer, Arctic Hare ×5 |
+| 14:25 | **Maddie2WinQuinn07**: Arctic Reindeer (FR) | **Nazar_5555589**: Strawberry Shortcake Bat Dragon (FR), Midnight Dragon (FR) |
+| 14:25 | **miha040211**: Ride-A-Pet Potion | **Artem_milkSG**: Water Rabbit (R) |
+| 14:25 | **phonky_phonkacc2**: Peppermint Penguin (FR) | **fatlotto**: Many Mackerel (R), Munchkin Cat (R), Pig, Shrew, Halloween Evil Dachshund (M), Fly-A-Pet Potion, Ride-A-Pet Potion, Sasquatch (MR) |
+| 14:25 | **euprism**: Metal Ox (R), Ginger Cat, Lunar Ox, Toucan, Beaver ×3, Gorilla ×3, Lunar Tiger | **Esmiraks2014**: Ride-A-Pet Potion |
+| 14:25 | **ansatasiiaa**: Mini Pig (MFR), Rain Cloud Hat | **Berryavenueslag**: Giraffe (FR) |
+| 14:20 | **PipEerrSsPinKY**: Chihuahua (MFR), Ride-A-Pet Potion, Fly-A-Pet Potion | **dollie_vx**: Alley Cat (NFR) |
+| 14:20 | **carolzinhac2009**: Mirai Moth (MR) | **fairyqxfaee**: Ride-A-Pet Potion ×6 |
+| 14:20 | **kotek_kot91**: Ride-A-Pet Potion ×10, Zombie Wolf (MFR) | **olddeathcore**: Undead Jousting Horse (FR) |
+| 14:20 | **Quandrosz**: Ring-Tailed Lemur | **Esmiraks2014**: Ride-A-Pet Potion ×3 |
+| 14:20 | **CEMEH_HOCKOB**: Unicorn ×5 | **awx_mili**: Ballet Swan, Ride-A-Pet Potion, Chihuahua |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
