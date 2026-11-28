@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 17:40 UTC by the scrape workflow._
+_Updated 2026-11-28 17:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 17:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 42,381 | 2026-11-28T17:30 |
-| elve | 18 | 9,727 | 2026-11-28T17:31 |
+| amvgg | 18 | 42,666 | 2026-11-28T17:45 |
+| elve | 18 | 9,801 | 2026-11-28T17:46 |
 
-## AMVGG completed trades: 79,165 total
+## AMVGG completed trades: 79,213 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 4,524 |
+| 2026-11-28 | 4,572 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 17:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:36 | **Sypex612**: Mini Pig (FR) | **ccrowfeather**: Wood Pigeon (MFR) |
-| 17:36 | **JuanJoHo1**: Cheetah (MFR), Llama (MFR) | **obv1kylxx**: Arctic Reindeer (FR) |
-| 17:36 | **mzylovie**: Chocolate Dutch Guinea Pig (NR), Dragonfruit Fox (R) | **StrawberryKiitten**: Munchkin Cat |
-| 17:36 | **MorsikCool**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) | **AL1C3W0RLDD**: Frost Dragon (FR) |
-| 17:36 | **cuteprincessgirl861**: Sugar Glider (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×9 | **uu2i3iy**: Shark Puppy (NFR) |
-| 17:36 | **F0rblows**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (R) | **kittyx_pawsx**: Cryptid |
-| 17:36 | **tsitp_secret**: Tortuga de la Isla (NFR), Zombie Wolf (MFR), Werewolf | **divineproblem**: Frost Unicorn (NFR) |
-| 17:36 | **no_xwifi1**: Ballet Swan (MFR) | **luvvyannnaa**: Panda (MFR), Water Rabbit (MR), Moon Rabbit (MR), Amami Rabbit (M), Ride-A-Pet Potion ×4 |
-| 17:36 | **luvoaxa**: Dodo (NFR), Unicorn (NFR), Matcha Cat, Majestic Pony (R) | **nenormpacan666**: Kangaroo (FR) |
-| 17:36 | **jaeynene**: Border Collie (FR) ×2, Ride-A-Pet Potion | **kissinakitty**: Alpaca (FR) |
-| 17:36 | **Bobbyhuddy6**: Frost Dragon (FR), Christmas Pudding Pup | **doisynan**: Owl (FR), Mini Pig (R), Goose (R) |
-| 17:36 | **catt_lo1**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion ×4 | **XxSebbxX1**: Jester Dragon (MFR) |
-| 17:36 | **SharkuKy_Trades**: 2022 Birthday Confetti Cannon | **ContentOtter9075**: Shark Puppy (FR) |
-| 17:36 | **Ash_Yumin**: Amethyst Penguin | **didlitown**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Fly-A-Pet Potion ×2 |
-| 17:36 | **Ilovedarya35**: Hooray | **deftgytq**: Ride-A-Pet Potion |
+| 17:45 | **Albaliala5**: Hamster (MFR), Green Amazon (MFR), Koala (MFR), Cake Friend (MFR), Pupcake (MFR), Golden Penguin (MFR), German Shepherd (MFR) | **Lolbaddie1205**: Cryptid (FR) |
+| 17:45 | **LAV1OMGXFAIRY**: Frostbite Cub (MR) | **poke_balz**: Tiny Wings |
+| 17:45 | **Aesthetic_Ayyan**: Munchkin Cat, Tilcayo (R) | **eliijahnextdoor**: Chocolate Dutch Guinea Pig (MR) |
+| 17:45 | **Hyunjinnnnnnnn143_h**: Strawberry Shortcake Bat Dragon (NFR) | **ris_mys**: Siamese Cat (MFR) |
+| 17:45 | **SamXweirdo**: Irish Water Spaniel (MFR), Candicorn (N) | **mikepower240508**: Candy Hare (MFR), Frostbite Bear (FR), Frostbite Bear ×2, Rain Cloud Hat, Pig (MFR), Dancing Dragon, Fly-A-Pet Potion |
+| 17:45 | **Chxrry1YT**: Vampire Dragon | **cya_adoptmechallange**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion |
+| 17:45 | **nfrmikey1**: Fly-A-Pet Potion | **xemerees**: Ride-A-Pet Potion ×2 |
+| 17:45 | **bacon_deken**: Alpaca (MFR) | **crotun72**: Hedgehog (R), Hedgehog (NFR), Sugar Glider (FR), Snowball Pet (MR) |
+| 17:45 | **Dashkaulibashk**: Caterpillar | **natfrmct**: Black Macaque (MFR) |
+| 17:45 | **turbiikszz**: Chocolate Chip Bat Dragon (FR) ×2, Fairy Bat Dragon (FR), Fairy Bat Dragon (R), Peppermint Penguin (FR), Goose, Elephant (R), Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 | **Spooky_Aniyah**: Frost Dragon (FR) |
+| 17:45 | **Cinzsins**: Tortoiseshell Guinea Pig (NFR), Caterpillar (NFR), Arctic Dusk Dragon (MFR), Strawberry Shortcake Bat Dragon (R), Polar Bear (MFR), Kangaroo (FR) | **14pawz**: Cabbit (MFR) |
+| 17:45 | **viwi_1**: Hedgehog (FR), Dalmatian (FR), Arctic Reindeer (FR) | **shyb_0yalt**: Frost Dragon (FR) |
+| 17:45 | **RyukkHolder**: Cryptid (FR) ×2, Giant Anteater (NR), Hare (N), Arctic Fox (FR), Arctic Fox, Sheeeeep, Black Panther (NR), Copycat, Count Slothula (N), Ground Sloth (MR) | **leruval**: Frost Dragon (FR) |
+| 17:45 | **ViperOfTheUnderworld**: Frost Dragon (FR) | **obvits_asianaa**: Peppermint Penguin (FR) ×3, Fairy Bat Dragon (FR) ×2, Sugar Glider (R), Bush Elephant (R), Candicorn ×2, Munchkin Cat (FR), Arctic Fox (FR), Arctic Fox (R) |
+| 17:45 | **AltForGgg1**: Cabbit (FR), Arctic Reindeer (FR), Cow (FR), Rain Cloud Hat | **Caveneural5982**: Crow (FR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
