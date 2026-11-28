@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 06:55 UTC by the scrape workflow._
+_Updated 2026-11-28 07:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 06:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 30,959 | 2026-11-28T06:45 |
-| elve | 18 | 6,897 | 2026-11-28T06:46 |
+| amvgg | 18 | 31,200 | 2026-11-28T07:00 |
+| elve | 18 | 6,961 | 2026-11-28T07:01 |
 
-## AMVGG completed trades: 76,103 total
+## AMVGG completed trades: 76,106 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 1,462 |
+| 2026-11-28 | 1,465 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,6 +39,9 @@ _Updated 2026-11-28 06:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 07:00 | **ii_xuytr**: Tutu, Happy Duckling | **Elmasinsano_392**: Ride-A-Pet Potion |
+| 07:00 | **gauzebunny**: Kitty Bat (N), Blossom Snake (N) | **Angel_rainmonster**: Raccoon (N) ×3 |
+| 07:00 | **M1ssd3ath_x**: Ride-A-Pet Potion ×2 | **sasha_574611**: Vanilla Penguin |
 | 06:55 | **PRODAZA_STARPETS**: Dalmatian (FR) | **Okayayxpop**: Flaming Fox (MFR), Mini Schnauzer (MFR), Catte (MFR) |
 | 06:55 | **didlitown**: Fly-A-Pet Potion | **bikosh_s1**: Ride-A-Pet Potion ×2 |
 | 06:55 | **nerdoitdabest**: Giant Panda (NFR), Balloon Unicorn (FR), Halo | **Yasaas13**: Giraffe (NFR) |
@@ -51,9 +54,6 @@ _Updated 2026-11-28 06:55 UTC by the scrape workflow._
 | 06:55 | **YeoTaeju_Alpha**: Strawberry Shortcake Bat Dragon (FR) | **vampire2169**: Kangaroo (FR) ×3, Frost Fury (FR) |
 | 06:55 | **Taco_Nakoosh8**: Cryptid (FR) | **tattletelI**: Sheeeeep (MFR) |
 | 06:55 | **Taco_Nakoosh8**: Sheeeeep (MFR), Ballet Swan (M), Albino Gorilla (MFR), Purple Butterfly (N) | **sweetn6thing**: Cryptid (NFR) |
-| 06:55 | **Taco_Nakoosh8**: Cryptid (NFR) | **roniroblox102030**: Copycat (MR), Sheeeeep (MFR), Dango Penguins (MFR), Count Slothula ×2 |
-| 06:55 | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion ×4 | **ylyzacanete**: Jester Dragon |
-| 06:55 | **Lqvari**: Goose (NFR), Fairy Bat Dragon (FR), Ride-A-Pet Potion | **Hikonik**: 2022 Birthday Cake ×2, Goose (FR), Goose (R), Ride-A-Pet Potion ×4 |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
