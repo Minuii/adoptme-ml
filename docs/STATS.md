@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 00:11 UTC by the scrape workflow._
+_Updated 2026-11-28 00:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 00:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 23,838 | 2026-11-28T00:00 |
-| elve | 18 | 5,295 | 2026-11-28T00:01 |
+| amvgg | 18 | 24,133 | 2026-11-28T00:15 |
+| elve | 18 | 5,324 | 2026-11-28T00:16 |
 
-## AMVGG completed trades: 74,681 total
+## AMVGG completed trades: 74,721 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 40 |
+| 2026-11-28 | 80 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 00:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:11 | **Lee_angel666**: Nessie (MFR), Unicorn Horn, Fly-A-Pet Potion | **santielpro3434**: Hedgehog |
-| 00:11 | **nana_banana8412**: Tilcayo | **zxcCAXAPOK1337**: Tortoiseshell Guinea Pig, Samoyed (M), Pupcicle ×4 |
-| 00:11 | **BLACKGLITTERKITTY**: Rain Cloud Hat | **Doggylovertucker**: Albino Monkey (FR) |
-| 00:11 | **pxrczl**: 2022 Birthday Party Hat, 2022 Birthday Cake, 2022 Birthday Cupcake Shoes | **HOCOKKU**: Halo, Angel Wings |
-| 00:11 | **jisungbi4sed**: Chihuahua | **shenshenzzz14**: Classic Trade Stand |
-| 00:11 | **2000sidol**: Blazing Lion (FR) | **Ryvex_SK**: Blazing Lion |
-| 00:11 | **2000sidol**: Owl (FR) | **IAMKJIEL1**: Blazing Lion (FR), Crocodile, Turtle, Kangaroo (FR), Cow (FR) |
-| 00:11 | **2000sidol**: Flash Weasel | **claireg0402**: Ballet Swan |
-| 00:11 | **MyMermaidDiary**: Snowball Pug ×2, Puptune | **ale_45874**: Cake Friend |
-| 00:11 | **catwomen810711**: Unicorn, Bobageist | **Esmiraks2014**: Ride-A-Pet Potion |
-| 00:11 | **Omar2002548**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
-| 00:11 | **Omar2002548**: Rose Quartz Glow Mega Neon Paint | **OBSESSI0NSESS1ON**: Crystal Egg ×9 |
-| 00:11 | **themastergabo**: Hot Doggo (R), Turtle (FR), Green-Chested Pheasant (MFR), Vanilla Penguin (R) | **Usuario30x**: Arctic Reindeer (FR) |
-| 00:11 | **franmdust**: Cozy Cabin | **SnugglyMiffys**: Unicorn Horn |
-| 00:11 | **MersuJanhir13**: Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **shenshenzzz14**: Sasquatch (MFR) |
+| 00:15 | **minismudgepanda**: Border Collie (R), Border Collie | **xoiiiiaxv**: Cabbit |
+| 00:15 | **kaikikaikiplayz**: Ride-A-Pet Potion ×7 | **Manggo_Pie40**: Christmas Pudding Pup |
+| 00:15 | **niceplayeruwu**: Mummy Spider (M) | **Nastusha_387**: Gemstone Egg |
+| 00:15 | **Aphmau_Cool09**: Red Dutch Guinea Pig (MFR) | **higuysitskobe**: Strawberry Shortcake Bat Dragon (FR) |
+| 00:15 | **fewwral_sing**: Eaten Donut, Clam Wings, Ruff | **catdegrat**: Ride-A-Pet Potion |
+| 00:15 | **M1dnight_moons**: Evil Unicorn (FR) | **catdegrat**: Cabbit (FR), Frost Unicorn (R), Hero Gibbon (N), Ghost Dog (M), Skunk (MFR), Copycat, Indian Leopard (MR), Fly-A-Pet Potion ×2 |
+| 00:15 | **stargxldani**: Hot Doggo (R), Unicorn Horn, Tiny Wings | **sleepy_s0ren**: Rainbow Maker |
+| 00:15 | **DoodlesMog**: Fly-A-Pet Potion | **iiStxberryMilkx**: Spring Bunny Nose |
+| 00:15 | **xaoichaanx**: Flash Weasel ×2 | **2000sidol**: Tiny Wings |
+| 00:15 | **2000sidol**: Chef Gorilla (R) | **silnnedUWU**: Chef Gorilla |
+| 00:15 | **backsiz**: Strawberry Shortcake Bat Dragon (FR), Kangaroo (R), Dango Penguins | **derpcat_silly**: Rainbow Maker, Cabbit (R) |
+| 00:15 | **1Biahsz_altx**: Fly-A-Pet Potion | **GainnizDizzy**: Cherub Chipmunk (M) ×2 |
+| 00:15 | **NYaNeteyam**: Hot Doggo (R), Ride-A-Pet Potion | **Yj_504**: Fairy Bat Dragon (FR), Arctic Fox (R) |
+| 00:15 | **Aslie_17**: Cupcake Sprinkle Wings, Great Pyrenees (MR), Fly-A-Pet Potion, Tutu | **iiCloudyRosezii**: Amami Rabbit (M), Puptune (MR) |
+| 00:15 | **otonite7**: Spring Bunny Hood | **TOASTER_17362**: Copycat |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
