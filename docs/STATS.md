@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 16:16 UTC by the scrape workflow._
+_Updated 2026-11-28 16:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 16:16 UTC by the scrape workflow._
 | amvgg | 18 | 40,930 | 2026-11-28T16:15 |
 | elve | 18 | 9,365 | 2026-11-28T16:15 |
 
-## AMVGG completed trades: 78,724 total
+## AMVGG completed trades: 78,812 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 4,083 |
+| 2026-11-28 | 4,171 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 16:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 16:15 | **PANDA9994440**: Chocolate Chip Bat Dragon (R), Shark Puppy (NFR), Turkey (MFR), Fairy Bat Dragon (FR), Slimingo (MR), Pig (R), Pig, Glormy Dolphin (MR), Zodiac Minion Chick (MFR), Fire Mare (MFR), Ice Cream Cone Hat, Lion Cub (R), Sasquatch (MFR), Phoenix (NFR), Harp Seal (NR), Sheeeeep, Hamster (MFR), Pig (FR) | **kittycutecat11130**: Frost Dragon (FR) |
-| 16:15 | **Eugenia873**: Arctic Reindeer (FR) | **wloobb**: Matcha Cat (NR), Chocolate Dutch Guinea Pig (MR), Dango Penguins (NFR) |
-| 16:15 | **Leck_aia181**: Giant Anteater (MFR), Dango Penguins (MFR), Pancake Stack | **prittiEmEm**: Winged Tiger (MFR) |
-| 16:15 | **59DAMAGE**: Christmas Pudding Pup (R) | **ts75sy**: Ride-A-Pet Potion ×6 |
-| 16:15 | **aksof11**: Fly-A-Pet Potion ×4, Ride-A-Pet Potion ×14 | **iiEvenstar**: Turtle (R) |
-| 16:15 | **I_AlexisAgi**: Modern Mansion | **manuaxolotyorignl**: Ride-A-Pet Potion |
-| 16:15 | **Furry_lechuga**: Ride-A-Pet Potion, Fire Stallion | **itsme_claire000**: Tutu, Heart Bow |
-| 16:15 | **Penguinzzzzzzzzzzzzs**: Strawberry Shortcake Bat Dragon (R), Ride-A-Pet Potion | **daanz2**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:11 | **5yaak**: Unicorn ×2 | **heltobrex**: Dragonfruit Fox |
-| 16:11 | **GamerMarty06_yt**: Dragonfruit Fox | **Aslie_17**: Ride-A-Pet Potion ×2 |
-| 16:11 | **addmysecondaccount**: Ride-A-Pet Potion | **smooike**: Crystal Egg ×18 |
-| 16:11 | **GuineaPigGirl2987**: Mistletroll (NFR) | **Taygansocute114**: Harp Seal |
-| 16:11 | **TuffTuffTuff_Sahur67**: Tortoiseshell Guinea Pig, Water Rabbit (MFR), Harp Seal (M), Moon Rabbit (M) | **806abby**: Strawberry Shortcake Bat Dragon (FR) |
-| 16:11 | **geopour15**: Quad Stroller | **sweetlittlegf**: Heart Stroller |
-| 16:11 | **THOLING1232**: Cow (FR), Kangaroo (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **MouldySugar5080**: Strawberry Shortcake Bat Dragon (FR) |
+| 16:25 | **vampmo_123**: Ride-A-Pet Potion ×2, Cow (R), Mrs. Whiskerpips (NF) | **Samurai_SaYas**: Kangaroo (FR) ×2 |
+| 16:25 | **powerlee01**: Evil Unicorn (NFR) | **jypit0410j**: Moonbeam Peacock (MFR) |
+| 16:25 | **Basilisk345s**: Fly-A-Pet Potion | **JojothePrincess291**: Mrs. Whiskerpips (M) |
+| 16:25 | **dollxx_zz**: Sugar Glider (NR), Happy Duckling (MR), Fly-A-Pet Potion, Pet Handler Pro Certificate ×2, Ride-A-Pet Potion ×2 | **XiuLi1234**: Cryptid (FR) |
+| 16:25 | **rwheat7**: 2022 Birthday Party Hat, Rose Quartz Glow Mega Neon Paint, Slimingo Feather Teleporter | **nenerod23**: Mermicorn (FR) |
+| 16:25 | **Chicken_Drumsticksss**: Alpaca (NFR), Shark Puppy (R) | **Mosh13mash**: Strawberry Shortcake Bat Dragon (FR) ×2 |
+| 16:25 | **the3reveng**: Ride-A-Pet Potion, 2026 Birthday Butterfly | **Runa_Yomozuki1086**: Admin Abuse Egg ×18 |
+| 16:25 | **Krashiha_Karolina26**: Ermine (MFR) | **MorphBonehunter**: Ride-A-Pet Potion ×5 |
+| 16:25 | **zxl0106**: Ride-A-Pet Potion ×3 | **lomonn_doggg**: Red Fox (MR) |
+| 16:25 | **1ovIIy**: Ride-A-Pet Potion ×2 | **Kari_eshkere1**: Dango Penguins |
+| 16:25 | **lomonn_doggg**: Cryptid (FR), Goose (FR) | **Legoknight222**: Mini Pig (NFR) |
+| 16:25 | **NNuWiIxxX_14**: Hooray (N) | **Cocoa_top123**: Matcha Cat |
+| 16:25 | **5A2here**: Ride-A-Pet Potion, Count Slothula | **rybdsey**: Count Slothula (FR) |
+| 16:25 | **ataraksuu**: Pupcicle, Admin Abuse Egg ×3, Golden Griffin, Fairytale Egg ×4 | **scvnilla**: Ride-A-Pet Potion |
+| 16:25 | **delfin_aestetik**: Cow (FR), Tortuga de la Isla (NFR), Sugar Glider (R), Shark Puppy (R), Frostbite Bear (R), Frostbite Bear ×2, Glacier Moth (R) | **gag_gaag**: Shark Puppy (MFR), Ranger Beaver (M) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
