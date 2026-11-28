@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 15:01 UTC by the scrape workflow._
+_Updated 2026-11-28 15:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 15:01 UTC by the scrape workflow._
 | amvgg | 18 | 39,488 | 2026-11-28T15:00 |
 | elve | 18 | 9,007 | 2026-11-28T15:01 |
 
-## AMVGG completed trades: 78,294 total
+## AMVGG completed trades: 78,337 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 3,653 |
+| 2026-11-28 | 3,696 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 15:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 15:00 | **sensntive**: English Sheepdog (N), French Bulldog (N) | **maloveoer**: Goat (FR) |
-| 15:00 | **StrongFlowerLady**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Poncik103**: Dragonfruit Fox ×2 |
-| 14:55 | **7QqX2mP9L4tRaKZQq8X**: Giant Panda (R), Ride-A-Pet Potion, Diamond Hamster | **NeLiza19926**: Arctic Reindeer (NFR) |
-| 14:55 | **itz_grigoriy**: Ride-A-Pet Potion | **xikirina**: Thunderfisher ×18 |
-| 14:55 | **SandSavannah2003**: Candicorn (R), Ballet Swan (FR), Glormy Hound (FR), Ride-A-Pet Potion | **FouWait1**: Turtle (FR) |
-| 14:55 | **azxpredxtorn**: 2022 Birthday Party Hat, Kangaroo (FR) | **seanconcannon**: Dango Penguins (MFR) |
-| 14:55 | **prittiEmEm**: Golden Hamster (MFR), Super Saru (MFR), Binturong (MFR), Elasmosaurus (MFR), Flower Power Duckling (MFR), German Shepherd (MFR), Halloween White Skeleton Dog (MFR), Karate Gorilla (MFR), Mirai Moth (MFR), Preppy Capuchin Monkey (MFR), S'mores Raccoon (MFR), Tuxedo Cat (MFR), French Bulldog (MFR), Kappakid (MFR), Nutcracker Squirrel (MFR), Toy Poodle (MFR), Nebula Snake (MFR) | **kittencute_gamerXD**: Winged Tiger (MFR) |
-| 14:55 | **robloxer_3614**: French Bulldog, Mule, Black Macaque | **24k_ichi**: Ice Wolf (FR), Albatross |
-| 14:55 | **Fatima717408**: Albino Monkey (FR) | **IsabellaMystery**: Pig (R), Giant Anteater |
-| 14:55 | **leidydamelike**: Corgi, Robot, Parakeet ×4, Clumpty ×4 | **altforamvgg_x**: Retired Egg ×5 |
-| 14:55 | **Vitek_228666**: Crocodile (FR) | **943049209d**: Ride-A-Pet Potion ×13 |
-| 14:55 | **Lisalove_398**: Fairy Bat Dragon (FR) ×3, Fairy Bat Dragon (R) | **splead565**: Hedgehog (FR), Fly-A-Pet Potion |
-| 14:55 | **31kDracoMalfoyFan**: Jellyfish (R), Shih Tzu (N) | **Arabik_XD228**: Sea Slug (R), Stray Cat Dragon (N) |
-| 14:55 | **Jungito_4**: Parrot (NFR), Chocolate Dutch Guinea Pig (N) | **lina200r**: Frost Dragon (FR), Strawberry Shortcake Bat Dragon (FR) |
-| 14:55 | **hell87o0**: Halloween Slime Mega Neon Paint, Crystal Egg, Retired Egg ×2, Paint Sealer, Dragonfly | **Giodg2006**: Hooray Pink Mega Neon Paint |
+| 15:11 | **hjhjfjfjfy**: Happy Duckling, Chihuahua | **kikilovesmeoky**: Ride-A-Pet Potion |
+| 15:11 | **koeinaway1**: Hot Doggo (NFR), 2022 Birthday Cupcake Shoes | **Elroy_maktum**: Peppermint Penguin (NFR) |
+| 15:11 | **letmefaceverify**: Emperor Gorilla | **rayhancristanuel**: Ride-A-Pet Potion ×7 |
+| 15:11 | **sarahtalksstuff**: Purrowl ×10 | **Special_Foxi**: Oakee Wizard ×2, Stray Cat Dragon ×2, Diamond Griffin, Diamond Mahi Mahi, Golden Unicorn, Zodiac Minion Chick |
+| 15:11 | **i43sunbf**: Ride-A-Pet Potion | **toybeau772**: Hooray |
+| 15:11 | **kriiiisa4891**: Sea Turtle ×2, Tealwood Monster, Black-Footed Ferret ×2, Lunar Ox, Shiba Inu, Starfish, Orangutan (N), Donkey (N), Hammerhead Shark, Mahi Mahi (N), Poodle (N) ×2, Ant (N) | **Ilovedarya35**: Ride-A-Pet Potion |
+| 15:11 | **Nyxie_OwO**: Munchkin Cat | **daran_waren**: Hooray (N), Ride-A-Pet Potion ×2 |
+| 15:11 | **FouWait1**: Cow (FR), Fly-A-Pet Potion | **infellowish**: Kangaroo (R), Siamese Cat |
+| 15:11 | **otonite7**: Kangaroo (FR), Ride-A-Pet Potion | **PVIC124**: Copycat (N) |
+| 15:11 | **Pumkin3588**: Ballet Swan, Pupcicle ×2 | **Tej3681**: Jester Dragon (FR) |
+| 15:11 | **Sigatotkaka**: Prismatic Butterfly (MFR) ×4, Prismatic Butterfly (M) ×2 | **amvggtradingalt9**: Copycat (MFR) ×2 |
+| 15:11 | **pepapepa333**: Evil Unicorn (FR), Copycat, Munchkin Cat, Ice Cream Cone Hat | **Speeddrawaccaount2**: Hedgehog (FR), Shark Puppy |
+| 15:11 | **azucar4574l**: Inspector Sherbet Bus | **Cat_123840**: Retired Egg ×9 |
+| 15:11 | **Cigma4126**: Arctic Reindeer (FR) ×2, Chocolate Chip Bat Dragon (FR) | **xerkatra**: Owl (FR) |
+| 15:11 | **RobloxRules_890**: Sea Slug (MFR) | **Shhdhehdneirjndnd**: Lion Cub (MFR), Slime (MFR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
