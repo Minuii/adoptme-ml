@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 00:01 UTC by the scrape workflow._
+_Updated 2026-11-28 00:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 00:01 UTC by the scrape workflow._
 | amvgg | 18 | 23,838 | 2026-11-28T00:00 |
 | elve | 18 | 5,295 | 2026-11-28T00:01 |
 
-## AMVGG completed trades: 74,665 total
+## AMVGG completed trades: 74,681 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 24 |
+| 2026-11-28 | 40 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 00:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:00 | **Realunbothrd**: Ride-A-Pet Potion, Cattuccino, Thunderfisher (NR) | **Bellaistherockstar_9**: Hooray |
-| 00:00 | **Xxsunflower_watherxX**: Angus Calf (N), Golden Griffin (NR) | **JOOJAAI**: Fly-A-Pet Potion |
-| 00:00 | **Yumi_Rose8**: Fly-A-Pet Potion | **Mariia_905**: Pupcicle (N) |
-| 00:00 | **Mitsuri_Chan0w**: Giraffe (FR) | **Antonnyalexander2009**: Hot Doggo (MFR) |
-| 00:00 | **lnactiveWords**: Shadow Dragon Ducky (N) ×2 | **Xxsunflower_watherxX**: Fly-A-Pet Potion |
-| 00:00 | **reaInyancat**: Easter 2020 Egg | **TheEndlessFlower**: Fly-A-Pet Potion |
-| 00:00 | **ambervgils**: Unicorn (MFR), Diamond Unicorn (MFR), Albino Bat (MFR), Kitty Bat (MFR), Golden Albatross (MFR), Squid (M), Sunglider (MFR), Tarsier (M) ×2, Indian Flying Fox (M), Frog (MR), Ornate Horned Frog (M), Pink Betta Fish (MR) | **bodnarec**: Evil Unicorn (FR), Kangaroo (FR) |
-| 00:00 | **d_1strik**: Cow (NFR) | **Babyy_Dev**: Siamese Cat (NFR) |
-| 00:00 | **1rvinn_x4xa**: Nessie, Border Collie (R), Field Mouse, Flaming Fox | **michaelx12395**: Turtle (FR) |
-| 00:00 | **Eliaam0_0**: Dango Penguins | **OrbitGolden201053**: Sushi Penguin ×2 |
-| 00:00 | **darlinglaufey**: 2022 Birthday Cupcake Shoes | **harpsealpaws**: 2022 Birthday Party Horn |
-| 00:00 | **Raymbyy**: Cow (NFR) ×3, Fallow Deer, Chihuahua ×4 | **lba_fofe**: Cow (MFR) |
-| 00:00 | **elproXD_7v7**: Chihuahua ×5 | **goddess_godcatreal**: Fly-A-Pet Potion |
-| 00:00 | **tr4d3s_adoptnew**: Cryptid (FR) | **5sstar_lana**: Cryptid, Diamond Albatross |
-| 00:00 | **amvgtrading1232**: Frostbite Bear (R), Toaster Hat, Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **Addmyymain**: Fairy Bat Dragon (FR) |
+| 00:11 | **Lee_angel666**: Nessie (MFR), Unicorn Horn, Fly-A-Pet Potion | **santielpro3434**: Hedgehog |
+| 00:11 | **nana_banana8412**: Tilcayo | **zxcCAXAPOK1337**: Tortoiseshell Guinea Pig, Samoyed (M), Pupcicle ×4 |
+| 00:11 | **BLACKGLITTERKITTY**: Rain Cloud Hat | **Doggylovertucker**: Albino Monkey (FR) |
+| 00:11 | **pxrczl**: 2022 Birthday Party Hat, 2022 Birthday Cake, 2022 Birthday Cupcake Shoes | **HOCOKKU**: Halo, Angel Wings |
+| 00:11 | **jisungbi4sed**: Chihuahua | **shenshenzzz14**: Classic Trade Stand |
+| 00:11 | **2000sidol**: Blazing Lion (FR) | **Ryvex_SK**: Blazing Lion |
+| 00:11 | **2000sidol**: Owl (FR) | **IAMKJIEL1**: Blazing Lion (FR), Crocodile, Turtle, Kangaroo (FR), Cow (FR) |
+| 00:11 | **2000sidol**: Flash Weasel | **claireg0402**: Ballet Swan |
+| 00:11 | **MyMermaidDiary**: Snowball Pug ×2, Puptune | **ale_45874**: Cake Friend |
+| 00:11 | **catwomen810711**: Unicorn, Bobageist | **Esmiraks2014**: Ride-A-Pet Potion |
+| 00:11 | **Omar2002548**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×18 |
+| 00:11 | **Omar2002548**: Rose Quartz Glow Mega Neon Paint | **OBSESSI0NSESS1ON**: Crystal Egg ×9 |
+| 00:11 | **themastergabo**: Hot Doggo (R), Turtle (FR), Green-Chested Pheasant (MFR), Vanilla Penguin (R) | **Usuario30x**: Arctic Reindeer (FR) |
+| 00:11 | **franmdust**: Cozy Cabin | **SnugglyMiffys**: Unicorn Horn |
+| 00:11 | **MersuJanhir13**: Ride-A-Pet Potion ×3, Pet Handler Pro Certificate | **shenshenzzz14**: Sasquatch (MFR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
