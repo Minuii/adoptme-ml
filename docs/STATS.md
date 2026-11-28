@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 08:55 UTC by the scrape workflow._
+_Updated 2026-11-28 09:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 08:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 33,042 | 2026-11-28T08:45 |
-| elve | 18 | 7,349 | 2026-11-28T08:46 |
+| amvgg | 18 | 33,291 | 2026-11-28T09:00 |
+| elve | 18 | 7,421 | 2026-11-28T09:01 |
 
-## AMVGG completed trades: 76,528 total
+## AMVGG completed trades: 76,534 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 1,887 |
+| 2026-11-28 | 1,893 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,6 +39,12 @@ _Updated 2026-11-28 08:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 09:00 | **ojerico432**: Chocolate Chip Bat Dragon (FR), Hedgehog (R), Dalmatian (R), Hedgehog (FR) ×4, Dalmatian (FR), Tiny Wings, Candicorn, Flamingo | **sigmaizzmailovvvv2**: Cryptid (MFR) |
+| 09:00 | **Vitek_228666**: Kangaroo (FR) | **kayestn**: Ride-A-Pet Potion ×17 |
+| 09:00 | **oliviaa_0872**: Brown Bear (MFR), Velocirooster | **Koko73464**: Rainbow Maker |
+| 09:00 | **oliviaa_0872**: Brown Bear (MFR), Velocirooster | **Koko73464**: Rainbow Maker |
+| 09:00 | **bukSlamet**: Latte Kitsune (MFR), Pet Handler Pro Certificate ×2 | **Idkwho_amIrll**: Copycat (N), Jester Dragon (NFR), 2022 Birthday Party Horn, Ride-A-Pet Potion |
+| 09:00 | **Usuario30x**: Queen Bee (R) | **JuJu200LoL10**: Fly-A-Pet Potion |
 | 08:55 | **sonyaxxvc**: Ride-A-Pet Potion | **Kir4kaa**: Gemstone Egg ×2 |
 | 08:55 | **Ryou_senpai05**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **xTrxstedCodee**: Frost Dragon (FR) |
 | 08:55 | **Saji_Ls**: Unicorn (NFR) | **feliandfio**: Ride-A-Pet Potion ×5 |
@@ -48,12 +54,6 @@ _Updated 2026-11-28 08:55 UTC by the scrape workflow._
 | 08:55 | **Fubukingss**: Crystal Egg ×12 | **Lutos200999**: Ride-A-Pet Potion |
 | 08:55 | **KatsuTatsuya**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **xTrxstedCodee**: Owl (FR) |
 | 08:55 | **B0PP0H**: Royal Palace Spaniel (NFR) | **Yumi_Rose8**: Ride-A-Pet Potion ×2 |
-| 08:55 | **ameyyass**: Fly-A-Pet Potion ×12 | **Jeheon07**: Turtle (FR) |
-| 08:55 | **sadlostbunnie**: Chihuahua ×18 | **fhkzsz4**: Ride-A-Pet Potion ×6 |
-| 08:55 | **BROIMBROKEAHHHHH**: Bubblegeist (M), Glormy Dolphin (MR), Grave Owl (MR), Super Saru (MR), Pink Betta Fish (M), Winter Doe (M), Snorgle (M), Moose Calf (NR), Dracula Parrot (N), Copycat (R), Skelicorn (N), Strawberry Shortcake Ducky (N), Catte (N), Mr. Whiskerpips (N), Grinmoire (N), Mrs. Whiskerpips (N), Peregrine Falcon (FR), Pupcicle | **XiaoFaye1433**: Strawberry Shortcake Bat Dragon (FR) |
-| 08:55 | **carlo_pro28**: Dalmatian (FR), Border Collie, Border Collie (R) | **pizzatree5**: Haetae (FR) |
-| 08:55 | **Kwill998**: Strawberry Shortcake Bat Dragon (FR) ×12 | **Exx_mexUnU**: Arctic Reindeer (FR) ×6, Arctic Reindeer (NFR) |
-| 08:55 | **FrostyLife8382**: Dancing Dragon (FR) | **BAPBAPA200**: Gemstone Egg ×6 |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
