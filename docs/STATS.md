@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 13:41 UTC by the scrape workflow._
+_Updated 2026-11-28 13:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 13:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 37,870 | 2026-11-28T13:30 |
-| elve | 18 | 8,581 | 2026-11-28T13:31 |
+| amvgg | 18 | 38,142 | 2026-11-28T13:45 |
+| elve | 18 | 8,672 | 2026-11-28T13:46 |
 
-## AMVGG completed trades: 77,850 total
+## AMVGG completed trades: 77,872 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 3,209 |
+| 2026-11-28 | 3,231 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 13:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:36 | **shedei318**: Copycat | **Jjang_987**: Ride-A-Pet Potion ×4 |
-| 13:36 | **TakiLuvr0**: Cryptid (FR) | **Marilynbrandt662**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (FR) |
-| 13:36 | **Crystal_andLisa**: Field Mouse (NFR), Ride-A-Pet Potion ×3, Silly Duck (R), English Sheepdog (FR), Kookaburra, Spring Bunny Hood, Mrs. Whiskerpips (NFR), Koala (NR) | **Just_Kerri4nnnnn**: Mini Pig |
-| 13:36 | **daria7581659**: Werewolf (FR) | **isthistagalog256**: Ride-A-Pet Potion ×15 |
-| 13:36 | **abdoosaad**: Chocolate Chip Bat Dragon (FR) | **SweetieStrawberryw**: Mermicorn (FR), Grim Dragon (F), Crocodile (R), Cupid Dragon (FR) |
-| 13:36 | **NathanPlayz83**: Sugar Axolotl (MFR) ×2, Honey Badger (MFR), Fallow Deer (MFR), Goose | **hamborgir202**: Undead Jousting Horse (MFR) |
-| 13:36 | **xZetherx**: Chocolate Chip Bat Dragon (FR) ×4, Crocodile (FR) | **angela_umerez4**: Frost Dragon (FR) |
-| 13:36 | **accountforpets12**: Fly-A-Pet Potion | **ReraFinny**: Modern Mansion |
-| 13:36 | **Machaddkkj**: Lamb (R), Paint Sealer ×5 | **Yumi_Rose8**: Fly-A-Pet Potion |
-| 13:36 | **roblox_user_3388877842**: Arctic Reindeer (FR), Kangaroo (FR), Chihuahua | **morze68**: Dalmatian (FR) |
-| 13:36 | **N0ugatt**: Goose (R) | **you35o**: Flamingo (R), Arctic Fox, Chocolate Dutch Guinea Pig (N) |
-| 13:36 | **ololopic9**: Strawberry Shortcake Bat Dragon (FR) ×4, Cerberus (NFR), Haetyphoon, Fly-A-Pet Potion ×2 | **Sabanaoepd9**: Frost Dragon (FR) |
-| 13:36 | **cupcakestar786**: Ride-A-Pet Potion ×3 | **fd43730**: Boohoo (MFR) |
-| 13:36 | **Midskii**: Cow (FR), Turtle (NFR) | **userulikk**: Shark Puppy (R), Shark Puppy, Hot Doggo (FR), 2022 Birthday Cake, Fly-A-Pet Potion |
-| 13:36 | **charlotte59120**: Orca (N), Onza | **Itz_NotDizzy**: Onza (N) |
+| 13:45 | **Pugglador2**: Haetyphoon | **ProPro2021**: Flash Weasel |
+| 13:45 | **Yzoox7**: African Wild Dog, Goose | **Lda280**: Balloon Unicorn (FR), Toaster Hat |
+| 13:45 | **funsashamen**: Winged Horse (FR), Gingerbread Mansion | **Brxtvnny**: Ride-A-Pet Potion ×2 |
+| 13:45 | **Ilovedarya35**: Hooray | **Navilolp**: Ride-A-Pet Potion |
+| 13:45 | **Staryslag**: Blazing Lion (NFR), Unicorn Horn | **atracttion**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Arctic Reindeer (FR) ×3, 2022 Birthday Party Horn |
+| 13:45 | **Grandeurer13**: Admin Abuse Egg ×18 | **Joumayraa**: Ride-A-Pet Potion |
+| 13:45 | **Vitek_228666**: Pig (R) | **tytyruzixs**: Ride-A-Pet Potion ×9 |
+| 13:45 | **isthesunny**: Cow (FR) | **amiazz_i**: Alpaca (FR) |
+| 13:45 | **chapa4ka579**: Musk Ox ×3 | **Kira9975335**: Ride-A-Pet Potion |
+| 13:45 | **Paifrennnn**: Chicken (NR), Polar Bear (R), Bakeneko (MR), Kage Crow (MR) | **lili_cupid**: Border Collie (FR) |
+| 13:45 | **cvbnmjuyghuu**: Cow (FR) | **JustMeYito**: Rose Dragon (N) ×2 |
+| 13:45 | **LaymushkaUwU**: Pet Handler Pro Certificate ×9, Fly-A-Pet Potion ×7 | **karina0097162**: Cow |
+| 13:45 | **AbigailLightSpark201**: Munchkin Cat (MFR) | **CHOCO_MILK2832**: Cabbit (NFR) |
+| 13:45 | **Meow_kiti01**: Hooray | **n_iaromienk2010**: Ride-A-Pet Potion |
+| 13:45 | **awx_mili**: Goose (FR) | **Aubrey_Prism851**: Fairy Bat Dragon (FR), Ballet Swan, Ride-A-Pet Potion ×2 |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
