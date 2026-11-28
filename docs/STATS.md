@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 03:55 UTC by the scrape workflow._
+_Updated 2026-11-28 04:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 03:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 27,884 | 2026-11-28T03:45 |
-| elve | 18 | 6,198 | 2026-11-28T03:46 |
+| amvgg | 18 | 28,142 | 2026-11-28T04:00 |
+| elve | 18 | 6,271 | 2026-11-28T04:01 |
 
-## AMVGG completed trades: 75,513 total
+## AMVGG completed trades: 75,531 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 872 |
+| 2026-11-28 | 890 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 03:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:55 | **queenyelii_22**: Hare (MFR), Chocolate Dutch Guinea Pig (MFR), Spring Bunny Hood | **iiSimplylvxy**: Dalmatian (FR) |
-| 03:55 | **TMDung20**: Snow Owl (NR) | **El_t1ntero**: Ride-A-Pet Potion ×4 |
-| 03:55 | **lxHatsunexl**: Hooray Pink Mega Neon Paint, Blue Boohoo Mega Neon Paint, Paint Sealer | **vvxziii**: Pet Handler Pro Certificate |
-| 03:55 | **VanetyBunny**: Kangaroo (FR), Lion (FR), Spring Bunny Hood | **MMouse57**: Goose (FR) |
-| 03:55 | **zxl0106**: Ride-A-Pet Potion | **eligend3**: Hooray |
-| 03:55 | **FrNotSummer**: Strawberry Shortcake Bat Dragon (FR) ×7, Chocolate Chip Bat Dragon (FR) ×6, Bat Dragon (FR), Evil Unicorn (FR), Mini Pig (FR), Cow (FR), Angel Wings | **bwyyann**: Bat Dragon (NFR) |
-| 03:55 | **MIXXIEGG**: Ghostly Cat (MR), Unicorn (N) | **booseoks0on**: Chihuahua (MR) |
-| 03:55 | **SnowyBear561**: Retired Egg ×16 | **InfinityWave742**: Ranger Beaver |
-| 03:55 | **Alyssaok_2000**: Pirate Hermit Crab | **ever3v3r2**: Ride-A-Pet Potion |
-| 03:55 | **Ruperto_1297**: Ride-A-Pet Potion ×18 | **NottJaffeth**: Tilcayo |
-| 03:55 | **lightingshattered**: Groundhog (MFR), Caterpillar (MFR) | **divineproblem**: Bush Elephant (MFR), Turtle (FR), Angel Wings, Cherry Blossom Hang Glider, Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 03:55 | **likecutie23**: Pupcake (N) | **Tradinginadoptme_673**: Fly-A-Pet Potion |
-| 03:55 | **Fubukingss**: Crystal Egg ×12 | **Roblo_mmm**: Ride-A-Pet Potion |
-| 03:55 | **xqczvhe3rts**: Ice Cream Heels | **Cdg91400**: Hooray Pink Mega Neon Paint |
-| 03:55 | **vmpiahs**: Blazing Lion (NFR) | **Slim3_Inf3rno583**: Strawberry Shortcake Bat Dragon (MFR) |
+| 04:00 | **XxMonty18xX**: Mechapup (R) | **Z1NCHES**: Pet Handler Pro Certificate ×4, Ride-A-Pet Potion |
+| 04:00 | **FridaAngelsRouse**: Frost Fury (R) | **Xxxxashhhh**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 |
+| 04:00 | **Vxmptomato**: 2022 Birthday Confetti Cannon, Shadow Dragon Ducky (M) | **marinasaudio**: Candyfloss Chick |
+| 04:00 | **islandicsinger**: Siamese Cat (MFR) | **electrolytia**: Siamese Cat (NFR), Candicorn, Ride-A-Pet Potion, Cow (NR) |
+| 04:00 | **Mason04onlyMaddiePar**: Pain au Chat ×18 | **celee_vent4s**: Ride-A-Pet Potion ×6 |
+| 04:00 | **auqalia**: Ride-A-Pet Potion, Lynx (R) | **gottloveemayaa**: Fly-A-Pet Potion |
+| 04:00 | **ethohkjalt**: Tilcayo, Ride-A-Pet Potion ×2 | **MelodyMoonPlay**: Turtle (FR) |
+| 04:00 | **PINOY_AKO543**: Fly-A-Pet Potion | **KyCT_AltAcc**: Urban Egg ×2 |
+| 04:00 | **aguamexicana9**: Shark Puppy (R), Giant Gold Scarab (F) | **Itspinkiepiniealixa**: Hero Gibbon (N) |
+| 04:00 | **Chiyothebestrust**: Ride-A-Pet Potion ×8, Pet Handler Pro Certificate | **klxchzz**: Tiny Wings |
+| 04:00 | **fdidtdudiidtsi**: Chocolate Chip Bat Dragon (FR), Munchkin Cat | **daydreamzgirl**: Hot Doggo (R), Flaming Fox (MFR) |
+| 04:00 | **17Nexz**: Shadow Dragon (F), Ride-A-Pet Potion | **annaannaaannnnn**: Frost Dragon (NFR), Dalmatian (R) |
+| 04:00 | **kaylamicmi**: Strawberry Shortcake Bat Dragon (R) | **Flashbook6**: Blue Dog (NFR), Rain Cloud Hat |
+| 04:00 | **Thomatheus12**: Fly-A-Pet Potion ×2, Canadian Goose | **shenshenzzz14**: Ride-A-Pet Potion ×4 |
+| 04:00 | **Ryou_senpai05**: Fly-A-Pet Potion | **bri5hellokitty**: Black Scooter |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
