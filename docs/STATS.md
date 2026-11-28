@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 02:55 UTC by the scrape workflow._
+_Updated 2026-11-28 03:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 02:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 26,873 | 2026-11-28T02:45 |
-| elve | 18 | 5,938 | 2026-11-28T02:46 |
+| amvgg | 18 | 27,146 | 2026-11-28T03:00 |
+| elve | 18 | 6,022 | 2026-11-28T03:01 |
 
-## AMVGG completed trades: 75,311 total
+## AMVGG completed trades: 75,319 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 670 |
+| 2026-11-28 | 678 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,6 +39,14 @@ _Updated 2026-11-28 02:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 03:00 | **didi_qwqq**: Sugar Glider (R) | **XxkfirxbushxX**: Cake Friend (MR), Frostbite Cub (MR) |
+| 03:00 | **s7Mys**: Munchkin Cat (NFR), Elephant (FR), Latte Kitsune (NFR), Copycat, Kiwi (N) | **yeetimaheadout7**: Chocolate Chip Bat Dragon (FR) |
+| 03:00 | **backsiz**: Nessie (NFR), Dango Penguins (N), Vampire Dragon (FR) | **nevvitfww**: Cheetah (MFR) |
+| 03:00 | **Proboygamer1085**: Rainbow Maker, Ride-A-Pet Potion ×8 | **backsiz**: Strawberry Shortcake Bat Dragon (FR) |
+| 03:00 | **sarchive27**: Dalmatian (FR), Groundhog (R), Purple Butterfly | **yourloversstaymyage3**: Cryptid (FR) |
+| 03:00 | **Xerophyz**: Fairy Bat Dragon (FR) | **Furry_lechuga**: Turtle (FR), Ride-A-Pet Potion ×5 |
+| 03:00 | **XSamxggX**: Strawberry Shortcake Bat Dragon (FR) | **Eugenia873**: Turtle (FR), Kangaroo (R), Shark Puppy, Many Mackerel, Arctic Fox, Ride-A-Pet Potion ×2 |
+| 03:00 | **Darihkc**: Golden Lettuce, Pain au Chat | **Fox_micro9311**: Fly-A-Pet Potion, Ride-A-Pet Potion |
 | 02:55 | **iiiPinkyBlossomx**: Crystal Egg ×15 | **Kaaumi_Uzumaki**: Ride-A-Pet Potion |
 | 02:55 | **ilikexwolf**: Admin Abuse Egg ×15, Cracked Egg | **azucar4574l**: Gingerbread Mansion |
 | 02:55 | **FunnyAnaminegirl**: Crystal Egg ×12 | **Llolxfunxgirl**: Ride-A-Pet Potion |
@@ -46,14 +54,6 @@ _Updated 2026-11-28 02:55 UTC by the scrape workflow._
 | 02:55 | **idk_23y**: Turtle (NFR), Cow, Super Jetpack, Tiny Wings, Pig | **dayn_okda12**: Jekyll Hydra (NFR) |
 | 02:55 | **neforeno4ek666**: Stray Cat Dragon ×6, Skelicorn, Purrowl, Temple Friend (N) | **heladitoooUnU**: Ride-A-Pet Potion |
 | 02:55 | **Its_marmeladka0003**: Fly-A-Pet Potion ×3 | **MatiXD12306**: Haetyphoon |
-| 02:55 | **Loveee270510**: Golden Unicorn (N), Muskrat (N) | **Its_marmeladka0003**: Classic Trade Stand |
-| 02:55 | **alvarconXD**: Ride-A-Pet Potion ×10 | **soapybunnie_0**: Kitty Bat (MFR) |
-| 02:55 | **1o5_aa**: Chihuahua | **HiOuO121**: Crystal Egg ×6 |
-| 02:55 | **vuxsa1t**: Strawberry Shortcake Bat Dragon (NFR), Water Rabbit (MFR), Ride-A-Pet Potion | **aabeeyg**: Border Collie (MFR) |
-| 02:55 | **crybabydoIl**: Unicorn (NFR) | **Fidelia2131415**: Ride-A-Pet Potion ×5 |
-| 02:55 | **ColdRoblox98**: Fly-A-Pet Potion, Ride-A-Pet Potion, Admin Abuse Egg ×2, Monkey, Purrowl, Pomeranian, Boohoo ×2, Mummy Spider ×2 | **monte_mt3OwO**: Boohoo (MFR) |
-| 02:55 | **pusilups**: Royal Mistletroll (MFR), Turtle (NFR), Crocodile (FR) | **LilSlushyx**: Alpaca (MFR) |
-| 02:55 | **Wayda_Jaida**: Hooray Pink Mega Neon Paint | **Robloxiana_xxx2011**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
