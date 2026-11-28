@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 12:46 UTC by the scrape workflow._
+_Updated 2026-11-28 12:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 12:46 UTC by the scrape workflow._
 | amvgg | 18 | 37,082 | 2026-11-28T12:45 |
 | elve | 18 | 8,393 | 2026-11-28T12:46 |
 
-## AMVGG completed trades: 77,571 total
+## AMVGG completed trades: 77,660 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,930 |
+| 2026-11-28 | 3,019 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 12:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:45 | **lera5132**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 12:45 | **Leah_newaccnt**: Mini Pig (MFR), Lamb (MFR), Cake Friend (MR), Arctic Fox, Sheeeeep (R), Spring Bunny Hood, Ballet Swan, Fly-A-Pet Potion, Pet Handler Pro Certificate | **crown12256**: Jekyll Hydra (MFR) |
-| 12:45 | **santiagoxdeleon**: Munchkin Cat, Arctic Fox, Fly-A-Pet Potion, Ride-A-Pet Potion, Ghost Bunny | **maloveoer**: Unicorn Horn |
-| 12:45 | **pristinepalace**: Chick (NR) | **NoobToNorthernLands**: Solar Burst Mega Neon Paint, Rose Quartz Glow Mega Neon Paint |
-| 12:45 | **divineproblem**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **unicorn_land1102pop**: Matcha Cat (MFR) |
-| 12:45 | **XzFlick3rqNQu33nLzX1**: Matcha Cat | **itspartytime097**: Gemstone Egg ×12 |
-| 12:45 | **wldnsdlrnldudna**: Fly-A-Pet Potion ×5, Ride-A-Pet Potion ×5 | **loiol1004**: Cerberus (NFR), Cerberus (NR) |
-| 12:45 | **Homey_milk1**: Blue Boohoo Mega Neon Paint | **splagoogle**: Ride-A-Pet Potion |
-| 12:45 | **NoobToNorthernLands**: Solar Burst Mega Neon Paint | **Yume_Skyll**: Ride-A-Pet Potion |
-| 12:45 | **Moa_spelar1234**: Ride-A-Pet Potion ×2 | **HOPMNC_8**: Dragonfruit Fox |
-| 12:45 | **D0LLSPACE**: Munchkin Cat (NR), Catte, Pain au Chat, Chihuahua | **Cookiepreztalfan**: Cow |
-| 12:45 | **dagam78**: Flamingo (FR) | **0UwUCuteGirlUwU0**: Ride-A-Pet Potion ×18 |
-| 12:45 | **xlottiex3x**: Frost Unicorn (MFR), Dalmatian (FR), Polar Bear (MFR), Dango Penguins (MFR) | **aweapolarbear**: Crow (NFR), Cryptid (FR) |
-| 12:45 | **ff_lysmqww**: Chihuahua (N) | **mzrxxq**: Fly-A-Pet Potion |
-| 12:45 | **neshlio**: Ride-A-Pet Potion ×2 | **Gewliksik**: Ketchup and Mustard Jetpack |
+| 12:55 | **pizdinavolosina**: Wyvern, Ladybug, Milk Choccybunny (N), Cherub Chipmunk, Oakee, Purrowl, Black-Footed Ferret, Ancient Dragon, Vermilion Butterfly | **Pinky_Darckling**: Ride-A-Pet Potion |
+| 12:55 | **fungasytyy**: Strawberry Shortcake Bat Dragon (FR) ×7, Fairy Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **sugar_lover61**: Owl (NFR) |
+| 12:55 | **chapa4ka579**: Koi Carp ×4, Shiver Wolf | **Pinky_Darckling**: Ride-A-Pet Potion |
+| 12:55 | **chapa4ka579**: Summer Walrus ×5 | **Pinky_Darckling**: Ride-A-Pet Potion |
+| 12:55 | **ROSIE_AREDEADLY123**: Slimingo (N) | **urm4mx**: Dragonfruit Fox |
+| 12:55 | **Cute_moonXo2**: Pet Handler Pro Certificate | **coconutcake171**: Dragonfruit Fox |
+| 12:55 | **Ivyswrld1**: Hot Doggo (FR) | **MckDull**: Glormy Hound (MFR) |
+| 12:55 | **6utszz**: Wing Hang Glider, Ketchup and Mustard Jetpack, Blue Boohoo Mega Neon Paint, Ride-A-Pet Potion | **Laktozik1**: Cherry Blossom Hang Glider |
+| 12:55 | **leesoyul11111111**: Ride-A-Pet Potion | **Iluvsmartistoo**: Pupcake |
+| 12:55 | **PANDA9994440**: Owlbear (NFR), Spring Bunny Hood, Unicorn (NFR) ×2, Alicorn (MFR), Apple Owl (NFR), Mochi Meow (MFR), Blue Jay (MFR), Ballet Swan (R), Jester Dragon (R), Sasquatch (MR), Mini Schnauzer (N), Dragon (MFR), Groundhog, Guardian Lion (NR), Clementine Owl (MR), Arctic Dusk Dragon, Urchin (MFR) | **Theyluv_pxachy**: Dalmatian (FR) |
+| 12:55 | **ziiwca**: Fly-A-Pet Potion ×16, Pet Handler Pro Certificate ×2 | **Fox7Art**: Cow (FR) |
+| 12:55 | **jilljaz**: Chocolate Chip Bat Dragon (FR) | **shihtzyz**: Strawberry Shortcake Bat Dragon (FR) |
+| 12:55 | **kiwipoq**: Alicorn (N), Hamster, Choco Penguin ×3, Evil Basilisk, Clementine Owl ×2, Slimingo, Ghostly Cat, Monkey | **Pinky_Darckling**: Ride-A-Pet Potion ×2 |
+| 12:55 | **glxvixlll**: Candicorn (FR) | **shebyrechina**: Arctic Dusk Dragon (NFR) |
+| 12:55 | **yeetimaheadout7**: Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (FR), Fly-A-Pet Potion ×6 | **N0ugatt**: Giant Panda (R) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
