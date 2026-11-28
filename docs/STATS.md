@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 03:31 UTC by the scrape workflow._
+_Updated 2026-11-28 03:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 03:31 UTC by the scrape workflow._
 | amvgg | 18 | 27,654 | 2026-11-28T03:30 |
 | elve | 18 | 6,133 | 2026-11-28T03:31 |
 
-## AMVGG completed trades: 75,430 total
+## AMVGG completed trades: 75,460 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 789 |
+| 2026-11-28 | 819 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 03:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:30 | **HunterNeon63**: Pupcake (N) | **K4WAII_C0RPSE**: Harp Seal |
-| 03:30 | **Babyofy5**: Goose (R) | **Gamer_Girl1094286**: Sugar Axolotl (FR), Mule ×2, Chef Gorilla, Toy Monkey, Slime, Goldhorn (R), Yeti (R), Blue Ringed Octopus (R), Black Springer Spaniel, Frostbite Cub (R), Lamb (NFR), Harp Seal (N) |
-| 03:30 | **iiiiSunnyvibesiiii**: Chocolate Dutch Guinea Pig, Strawberry Stroller | **alexhaveswagg**: Boohoo (M), Pupcicle |
-| 03:30 | **BINKY5085**: Tortoiseshell Guinea Pig (MFR) | **copyvoting**: Grim Dragon (MFR), Astronaut Gorilla (MFR) |
-| 03:30 | **hellocook1662**: Ride-A-Pet Potion | **SophiaStormy136**: Crystal Egg ×17 |
-| 03:30 | **SophiaStormy136**: Crystal Egg ×17 | **BINKY5085**: Ride-A-Pet Potion |
-| 03:30 | **ilovehorses_090**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion, Pet Handler Pro Certificate ×2, Fallow Deer, Lavender Dragon, Honey Badger | **CookieFanOona**: Tilcayo |
-| 03:30 | **Lemonz_Die**: Pirate Hermit Crab, Spinosaurus, Ash Zebra ×2, Golden Jaguar ×2, Salamander | **Alyssaok_2000**: Jester Dragon |
-| 03:30 | **shenshenzzz14**: Clover Cow (M) | **Tradinginadoptme_673**: Ride-A-Pet Potion ×4 |
-| 03:30 | **killerman_xd1**: Dragonfly ×12 | **Tradinginadoptme_673**: Ride-A-Pet Potion |
-| 03:30 | **iitzy_kitti**: Fairy Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×3, Pancake Stack | **UnknownRace1332**: Goose (FR) |
-| 03:30 | **lockefoo**: Evil Unicorn (FR), Fly-A-Pet Potion, White Amazon | **La_boyMich15**: Tortuga de la Isla (MFR) |
-| 03:30 | **terrylonsoyjerry**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Arctic Reindeer (FR) | **AMELIESFABXO**: Bush Elephant (MFR), Fly-A-Pet Potion |
-| 03:30 | **iiiPinkyBlossomx**: Crystal Egg ×15 | **Sunshineyskies**: Ride-A-Pet Potion |
-| 03:30 | **Axteplr_0o**: Shiba Inu (N) | **1vrl0l**: Fairytale Egg ×18 |
+| 03:40 | **tri_xx19**: Shrew (R), Candicorn | **mizbachang**: Siamese Cat (FR) |
+| 03:40 | **kaitlyn_trades**: Admin Abuse Box ×6 | **mizbachang**: Retired Egg ×9 |
+| 03:36 | **don2p**: Hamster (MR) | **heladitoooUnU**: Fly-A-Pet Potion ×2 |
+| 03:36 | **Kelwen96**: Turtle (NFR), Ghost Dog (MFR), Elasmosaurus (MFR), Frostbite Cub (MR), Yule Log Dog (MFR) | **jacobsocool022**: Evil Unicorn (FR) |
+| 03:36 | **Kzttpn**: Polar Bear (NFR), Dire Wolf (MFR), Fly-A-Pet Potion | **maks070706**: Werewolf (FR) |
+| 03:36 | **ikamisatka**: Ghost Bunny (NFR) | **IvannaGamer1243**: Rainbow Dragon (R), Unicorn (FR), Pretty Pony (R) |
+| 03:36 | **ALTAMERANO10**: Ladybug (N), Mrs. Whiskerpips (N) ×2, Mr. Whiskerpips, Frog, Chihuahua, Mochi Meow, Glormy Crab, Gemstone Egg | **twixxiss1**: Fly-A-Pet Potion |
+| 03:36 | **Basilisk345s**: Ride-A-Pet Potion ×2 | **twixxiss1**: Mrs. Whiskerpips (M) |
+| 03:36 | **divineproblem**: Strawberry Shortcake Bat Dragon (NFR), Santa Hat | **kenkencute2012**: Mechapup (MFR) |
+| 03:36 | **Marikissm**: Arctic Reindeer (R), Crocodile (FR), Lion Cub, Ride-A-Pet Potion ×2 | **milk_m451**: Dalmatian (FR) |
+| 03:36 | **FunnyAnaminegirl**: Crystal Egg ×18 | **BadyGirl1001**: Fly-A-Pet Potion |
+| 03:36 | **vitya2785**: Christmas Pudding Pup (MFR), Frost Phoenix (MFR) | **josuecres16**: Strawberry Shortcake Bat Dragon (FR) ×2 |
+| 03:36 | **Glizzyvvs_0**: Jester Dragon, Moon Rabbit (N), Red Dutch Guinea Pig (NR), Chihuahua (N) ×2 | **Rjgotracks10**: Cupid Dragon (NR) |
+| 03:36 | **Glizzyvvs_0**: Fire Foal (M), Ruddy Duck (M), Cattuccino (N), Clover Cow (NR), Mini Schnauzer | **Sleepy_Sonya112**: Pet Handler Pro Certificate ×2 |
+| 03:36 | **miykur_liya**: Puffin (NFR), Brown Bear (R), Goldfish (MR), Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **personal_stalker69**: Kangaroo (NFR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
