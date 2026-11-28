@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 08:46 UTC by the scrape workflow._
+_Updated 2026-11-28 08:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 08:46 UTC by the scrape workflow._
 | amvgg | 18 | 33,042 | 2026-11-28T08:45 |
 | elve | 18 | 7,349 | 2026-11-28T08:46 |
 
-## AMVGG completed trades: 76,486 total
+## AMVGG completed trades: 76,528 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 1,845 |
+| 2026-11-28 | 1,887 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 08:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 08:45 | **N33RDSS**: Ride-A-Pet Potion | **hi_wolfyouok**: Chicken |
-| 08:45 | **seb_ihhh**: Ride-A-Pet Potion ×6 | **943049209d**: Frost Fury (FR) |
-| 08:45 | **iizzy_banne**: Sugar Glider (R), Cupid Dragon (FR), Ride-A-Pet Potion | **Vitek_228666**: Cow (FR) |
-| 08:45 | **you35o**: Ride-A-Pet Potion | **paldoalways34**: Crystal Egg ×18 |
-| 08:45 | **WRCD_15GG**: Monkey King, Nebula Snake (MR), Blossom Snake (M), Prism Snake (M) | **amvggholder**: Strawberry Shortcake Bat Dragon (FR) |
-| 08:45 | **KEVINRAM1453**: Mermicorn, Snow Owl (NFR), Snowman (NFR), Nutcracker Squirrel (NR) | **xXAestheticxSkyX**: Fairy Bat Dragon (R) |
-| 08:45 | **Sevenishka_567**: Kangaroo (FR), Lion (FR) | **KitKat96777**: Pink Egg |
-| 08:45 | **sadlostbunnie**: Chihuahua ×3 | **CAXAROK_NBK**: Ride-A-Pet Potion |
-| 08:45 | **Horse_LoveKsk**: Spring Bunny Nose | **Vickyvaiii**: Fly-A-Pet Potion, Ride-A-Pet Potion |
-| 08:45 | **varmitrof**: Zombie Wolf (MR) | **animeBOYS_arefine9**: Turtle (FR) |
-| 08:45 | **Frits_Snoek**: Fly-A-Pet Potion, Ride-A-Pet Potion ×3 | **picugtvpriviegucii**: Jester Dragon (FR) |
-| 08:45 | **groplopop1**: Sugar Glider (R) ×2, Fly-A-Pet Potion ×8 | **XiaoFaye1433**: Strawberry Shortcake Bat Dragon (FR) |
-| 08:45 | **HappinessXVII**: Ride-A-Pet Potion ×2 | **Polita721**: Hooray ×2 |
-| 08:45 | **Nicoleee_ily**: Easter Bunny (N), Toucan (N), Gumball Caterpillar (N), Mexican Wolf (N) | **HOCOKKU**: Ride-A-Pet Potion |
-| 08:45 | **Pulseq3Void63Echo174**: Pupcicle ×12 | **ikabackflip**: Fly-A-Pet Potion ×4 |
+| 08:55 | **sonyaxxvc**: Ride-A-Pet Potion | **Kir4kaa**: Gemstone Egg ×2 |
+| 08:55 | **Ryou_senpai05**: Owl (FR), Strawberry Shortcake Bat Dragon (FR) | **xTrxstedCodee**: Frost Dragon (FR) |
+| 08:55 | **Saji_Ls**: Unicorn (NFR) | **feliandfio**: Ride-A-Pet Potion ×5 |
+| 08:55 | **starswirl_64**: Koi Carp ×4 | **gottloveemayaa**: Ride-A-Pet Potion |
+| 08:55 | **daran_waren**: Hooray Pink Mega Neon Paint, Diamond Griffin | **HOONMINLIXGYU**: Ride-A-Pet Potion |
+| 08:55 | **AvaStud1ohq64**: Ride-A-Pet Potion ×2 | **prostod_f**: Ghost Bunny (R), Dragon (NR) |
+| 08:55 | **Fubukingss**: Crystal Egg ×12 | **Lutos200999**: Ride-A-Pet Potion |
+| 08:55 | **KatsuTatsuya**: Arctic Reindeer (FR), Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR) | **xTrxstedCodee**: Owl (FR) |
+| 08:55 | **B0PP0H**: Royal Palace Spaniel (NFR) | **Yumi_Rose8**: Ride-A-Pet Potion ×2 |
+| 08:55 | **ameyyass**: Fly-A-Pet Potion ×12 | **Jeheon07**: Turtle (FR) |
+| 08:55 | **sadlostbunnie**: Chihuahua ×18 | **fhkzsz4**: Ride-A-Pet Potion ×6 |
+| 08:55 | **BROIMBROKEAHHHHH**: Bubblegeist (M), Glormy Dolphin (MR), Grave Owl (MR), Super Saru (MR), Pink Betta Fish (M), Winter Doe (M), Snorgle (M), Moose Calf (NR), Dracula Parrot (N), Copycat (R), Skelicorn (N), Strawberry Shortcake Ducky (N), Catte (N), Mr. Whiskerpips (N), Grinmoire (N), Mrs. Whiskerpips (N), Peregrine Falcon (FR), Pupcicle | **XiaoFaye1433**: Strawberry Shortcake Bat Dragon (FR) |
+| 08:55 | **carlo_pro28**: Dalmatian (FR), Border Collie, Border Collie (R) | **pizzatree5**: Haetae (FR) |
+| 08:55 | **Kwill998**: Strawberry Shortcake Bat Dragon (FR) ×12 | **Exx_mexUnU**: Arctic Reindeer (FR) ×6, Arctic Reindeer (NFR) |
+| 08:55 | **FrostyLife8382**: Dancing Dragon (FR) | **BAPBAPA200**: Gemstone Egg ×6 |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
