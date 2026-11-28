@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 18:46 UTC by the scrape workflow._
+_Updated 2026-11-28 18:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 18:46 UTC by the scrape workflow._
 | amvgg | 18 | 43,827 | 2026-11-28T18:45 |
 | elve | 18 | 10,116 | 2026-11-28T18:46 |
 
-## AMVGG completed trades: 79,586 total
+## AMVGG completed trades: 79,659 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 4,945 |
+| 2026-11-28 | 5,018 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 18:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 18:41 | **lollipopleah7861**: Gecko ×2 | **zjgdhw**: Blue Ringed Octopus |
-| 18:41 | **aweapolarbear**: Tuxedo Cat, Silly Duck, Snowball Pet | **obvits_asianaa**: Chocolate Dutch Guinea Pig ×2 |
-| 18:41 | **cherry_blast2**: Ride-A-Pet Potion ×18 | **Aesthetic_Ayyan**: Tilcayo |
-| 18:41 | **loveminari_6**: Ride-A-Pet Potion | **smooike**: Crystal Egg ×18 |
-| 18:41 | **oxokm1**: Catte, Count Slothula, Toxic Barrel | **zianagirls**: Glyptodon (NFR) |
-| 18:41 | **DuckyMuffinz**: Ride-A-Pet Potion | **EstrafaL2**: Admin Abuse Egg ×18 |
-| 18:41 | **olddeathcore**: Copycat (MFR), Owlbear (MFR), Love Bird (MFR) | **atracttion**: Copycat (NFR) ×2, Copycat (N), Jester Dragon (NFR), Jester Dragon (NR), Jester Dragon (MFR), Jester Dragon, Ride-A-Pet Potion ×2 |
-| 18:41 | **alipolinax**: Spring Bunny Nose | **Fiujdloslah875**: Fly-A-Pet Potion |
-| 18:41 | **ebatka1**: Halloween Blue Scorpion (MR), Border Collie (FR), Pet Handler Pro Certificate, Chameleon ×2, Dragonfruit Fox | **StraangeChild**: Unicorn Horn |
-| 18:41 | **IDFeelAnything**: Nautilus ×2 | **Evelyy_na**: Ride-A-Pet Potion |
-| 18:41 | **kyovd1r**: Ice Wolf (NFR), King Penguin (MR), Lavender Dragon (NR), Glormy Dolphin | **thyum_56**: Tilcayo |
-| 18:41 | **IDFeelAnything**: Toasty Red Panda ×4 | **Evelyy_na**: Fly-A-Pet Potion |
-| 18:41 | **V4mp_1respitt**: Ancient Dragon, Diamond Dragon, Golden Dragon ×2, Dragon, Dragonfly, Purrowl ×2, Blue Whale ×2 | **tory17190**: Ride-A-Pet Potion |
-| 18:41 | **realmp10007**: Balloon Unicorn (FR) | **khalishyusufimuts019**: Parrot (FR) |
-| 18:41 | **awita_92729**: Tortoiseshell Guinea Pig (FR), Gecko (MFR), Indian Flying Fox (M) | **xMaddieglolx**: Golden Penguin (MFR) |
+| 18:55 | **aksof11**: Shoebill, Shih Tzu, Electric Hornet, Shetland Pony Dark Brown, Fairytale Egg ×2, Oakee ×4, Rubber Ducky ×4, Ox, Corgi, Swordfish, Pandaguin Glooptodog | **Yliana258790**: Chihuahua |
+| 18:55 | **mdoodle1230**: Jester Dragon (NFR), Ghost Dog (N) | **thatgirlemma95**: Peppermint Penguin (R) |
+| 18:55 | **kittykornlovebird**: Ride-A-Pet Potion | **crits_5566**: Chihuahua, Australian Kelpie (FR) |
+| 18:55 | **hhhauntedddd**: Pig, Puffin (F), Water Rabbit (NF), Cake Friend (N), Pancake Stack | **milk59012**: Siamese Cat (R), Butter Knife, Paint Sealer |
+| 18:55 | **cliuic**: Ride-A-Pet Potion ×5 | **Semisunaki**: Fallow Deer |
+| 18:55 | **Usuario30x**: Strawberry Shortcake Bat Dragon (FR) | **OwlBird133219**: Cow (FR), Fairy Bat Dragon (FR) |
+| 18:55 | **IDFeelAnything**: Momma Moose ×4 | **Pinky_Darckling**: Ride-A-Pet Potion |
+| 18:55 | **IDFeelAnything**: Puptune ×2 | **LYIZA_1976**: Ride-A-Pet Potion |
+| 18:55 | **QetiChitashvil**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×17 |
+| 18:55 | **Fantasticgameyy**: Fairy Bat Dragon (FR), Ride-A-Pet Potion ×3 | **pesnyaups9**: Alpaca (FR) |
+| 18:55 | **pesnyaups9**: African Wild Dog (R), Ride-A-Pet Potion | **vivvlly**: Goose (FR) ×2, Mini Pig (FR), Alpaca (FR), Leopard Cat (M) |
+| 18:55 | **tsitp_secret**: Chocolate Dutch Guinea Pig (MR) | **HonetXCake**: Koala (MFR), Winged Horse (MFR), Vulture (M), Birthday Butterfly 2024 (MFR), Moonpine (M) |
+| 18:55 | **PSYCH0P4THH**: Mushroom Friend (NR) | **mariee20_03**: Fly-A-Pet Potion, Ice Cream Heels, Ranger Beaver |
+| 18:55 | **Fracti0us**: Siamese Cat (NFR), Werewolf (FR), Flower Power Duckling (MFR), Fairy Bat Dragon (FR), Siamese Cat (FR), Unicorn Horn | **alimohamd00**: Crow (FR) |
+| 18:55 | **xv3mpirezZ**: Copycat (NFR) | **ghxulsssss**: Unicorn Horn |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
