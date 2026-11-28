@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 03:46 UTC by the scrape workflow._
+_Updated 2026-11-28 03:55 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 03:46 UTC by the scrape workflow._
 | amvgg | 18 | 27,884 | 2026-11-28T03:45 |
 | elve | 18 | 6,198 | 2026-11-28T03:46 |
 
-## AMVGG completed trades: 75,491 total
+## AMVGG completed trades: 75,513 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 850 |
+| 2026-11-28 | 872 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 03:46 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 03:45 | **jhojanpro14**: Count Slothula (N), Chocolate Dutch Guinea Pig, Snow Owl | **hauont1**: Arctic Dusk Dragon (R) |
-| 03:45 | **FlyToTheSaturn**: Pig | **Quizzaff**: Fly-A-Pet Potion ×4 |
-| 03:45 | **XGiveMeUrFoodX**: Border Collie (NFR), Turtle (NFR), Ride-A-Pet Potion ×2 | **clairebaldonasajelly**: Dalmatian (FR) |
-| 03:45 | **xTigrillo06**: Cryptid (FR), Mini Pig (FR) | **Miauuu0167**: Strawberry Shortcake Bat Dragon (FR) ×2 |
-| 03:45 | **ulysqw**: Amethyst Skies Mega Neon Paint | **crypticcyy**: Rose Quartz Glow Mega Neon Paint |
-| 03:45 | **GalaxyVoid747**: Crystal Egg ×18 | **Rital_qwqm**: Gemstone Egg ×2 |
-| 03:45 | **elionadinda**: Muskrat (M) ×2 | **St0rm_Sniper89**: Ride-A-Pet Potion |
-| 03:45 | **1tz_Miki**: Pet Handler Pro Certificate | **Gamer_Girl1094286**: Wet Owl Sticker, Cow Loves This Sticker, Slimingo Feather Teleporter, Squished Red Pandorama Sticker, Winter Fawn (N) |
-| 03:45 | **robocapter123**: Chocolate Chip Bat Dragon (FR), Giant Gold Scarab, Scarebear (R), Ride-A-Pet Potion, Fly-A-Pet Potion, Fossil Sticker Pack | **Playz_Epic42**: Arctic Reindeer (FR) |
-| 03:45 | **vuxsa1t**: Strawberry Shortcake Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Fairy Bat Dragon (FR), Polar Bear | **AntiqueDesignz**: Parrot (FR) |
-| 03:45 | **Herlyss08**: Fire Mare (M), Jester Dragon, Jester Dragon (R), Ride-A-Pet Potion, Ribbon Seal (M) | **XxAlexTheBossVibesxX**: Jester Dragon (NFR) |
-| 03:45 | **owlsaremylife1234567**: Skunk (MR) | **0428qaz**: Arctic Dusk Dragon (FR) |
-| 03:45 | **EggyWeggySandwich**: Strawberry Tortle, Chocolate Dutch Guinea Pig (MFR), 2022 Birthday Cupcake Shoes, Polar Bear, Blue Cat Ear Headphones | **aabeeyg**: Arctic Reindeer (FR) |
-| 03:45 | **ContentOtter9075**: Lynx (NR), Lynx | **gottloveemayaa**: Fly-A-Pet Potion ×2 |
-| 03:45 | **LynnDW2**: Unicorn | **gmimi23**: Ride-A-Pet Potion |
+| 03:55 | **queenyelii_22**: Hare (MFR), Chocolate Dutch Guinea Pig (MFR), Spring Bunny Hood | **iiSimplylvxy**: Dalmatian (FR) |
+| 03:55 | **TMDung20**: Snow Owl (NR) | **El_t1ntero**: Ride-A-Pet Potion ×4 |
+| 03:55 | **lxHatsunexl**: Hooray Pink Mega Neon Paint, Blue Boohoo Mega Neon Paint, Paint Sealer | **vvxziii**: Pet Handler Pro Certificate |
+| 03:55 | **VanetyBunny**: Kangaroo (FR), Lion (FR), Spring Bunny Hood | **MMouse57**: Goose (FR) |
+| 03:55 | **zxl0106**: Ride-A-Pet Potion | **eligend3**: Hooray |
+| 03:55 | **FrNotSummer**: Strawberry Shortcake Bat Dragon (FR) ×7, Chocolate Chip Bat Dragon (FR) ×6, Bat Dragon (FR), Evil Unicorn (FR), Mini Pig (FR), Cow (FR), Angel Wings | **bwyyann**: Bat Dragon (NFR) |
+| 03:55 | **MIXXIEGG**: Ghostly Cat (MR), Unicorn (N) | **booseoks0on**: Chihuahua (MR) |
+| 03:55 | **SnowyBear561**: Retired Egg ×16 | **InfinityWave742**: Ranger Beaver |
+| 03:55 | **Alyssaok_2000**: Pirate Hermit Crab | **ever3v3r2**: Ride-A-Pet Potion |
+| 03:55 | **Ruperto_1297**: Ride-A-Pet Potion ×18 | **NottJaffeth**: Tilcayo |
+| 03:55 | **lightingshattered**: Groundhog (MFR), Caterpillar (MFR) | **divineproblem**: Bush Elephant (MFR), Turtle (FR), Angel Wings, Cherry Blossom Hang Glider, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 03:55 | **likecutie23**: Pupcake (N) | **Tradinginadoptme_673**: Fly-A-Pet Potion |
+| 03:55 | **Fubukingss**: Crystal Egg ×12 | **Roblo_mmm**: Ride-A-Pet Potion |
+| 03:55 | **xqczvhe3rts**: Ice Cream Heels | **Cdg91400**: Hooray Pink Mega Neon Paint |
+| 03:55 | **vmpiahs**: Blazing Lion (NFR) | **Slim3_Inf3rno583**: Strawberry Shortcake Bat Dragon (MFR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
