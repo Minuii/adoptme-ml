@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 10:25 UTC by the scrape workflow._
+_Updated 2026-11-28 10:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 10:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 34,365 | 2026-11-28T10:15 |
-| elve | 18 | 7,707 | 2026-11-28T10:15 |
+| amvgg | 18 | 34,635 | 2026-11-28T10:30 |
+| elve | 18 | 7,772 | 2026-11-28T10:31 |
 
-## AMVGG completed trades: 76,878 total
+## AMVGG completed trades: 76,898 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,237 |
+| 2026-11-28 | 2,257 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 10:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 10:25 | **P50**: Fly-A-Pet Potion ×3, Black-Footed Ferret (N) | **Ungel_Dust**: Jester Dragon, Dragonfruit Fox |
-| 10:25 | **2lilly777**: Werewolf (R) | **WA1XC23**: Kangaroo (R) |
-| 10:25 | **Vxmptomato**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3, Kitty Bat (M) | **skeletaQ1**: Werewolf (FR) |
-| 10:25 | **cannotaffordme**: Wood Pigeon (MFR) | **leoegern40**: Tombstone Ghostify |
-| 10:25 | **Sociable_EG**: Butter Knife ×2 | **qO_Opli**: Ride-A-Pet Potion |
-| 10:25 | **zhenixx12**: Kangaroo (MFR), Turtle (FR), 2022 Birthday Party Hat, 2022 Birthday Party Horn | **summerg6mes**: Giant Panda (FR) |
-| 10:25 | **Xxxxashhhh**: Fly-A-Pet Potion ×2 | **Babielily1**: Glacier Moth |
-| 10:25 | **MrLancy17**: Ride-A-Pet Potion ×9 | **Xxxxashhhh**: Fly-A-Pet Potion ×5 |
-| 10:25 | **zee55510**: Flaming Fox | **Xxxxashhhh**: Fly-A-Pet Potion |
-| 10:25 | **Xervves**: Candicorn (NR), Polar Bear (NFR), Arctic Fox, Shark Puppy, Ride-A-Pet Potion, Spring Bunny Hood ×2, Pet Handler Pro Certificate, Husky (R), Golden Penguin (R), Silly Duck, Harp Seal (R), Unicorn ×3 | **TMDung20**: Dalmatian (FR) |
-| 10:25 | **chase_ufficial1**: Arctic Reindeer (F), Siamese Cat (R) | **TMDung20**: Dalmatian (FR) |
-| 10:25 | **Hel_a1na**: Arctic Reindeer (R), Unicorn Horn, Fly-A-Pet Potion, Ride-A-Pet Potion | **xavspup**: Cryptid (FR) |
-| 10:25 | **0HD1v1n3**: Ride-A-Pet Potion ×4, Fly-A-Pet Potion ×3 | **Vitek_228666**: Pig (R) |
-| 10:25 | **RU0871**: Arctic Reindeer (FR), Cow (FR) | **Scfterqx**: Dalmatian (FR), Albino Monkey (FR) |
-| 10:25 | **Alana2K201**: Ride-A-Pet Potion ×2 | **BottleOfWindexLover**: Ginger Cat (MFR) |
+| 10:30 | **Sigma_Gerl533**: Bubblegeist, Stray Cat Dragon (N), Alicorn | **Veidjet**: Ride-A-Pet Potion |
+| 10:30 | **Iamlialina**: Mochi Meow (NR), Ride-A-Pet Potion ×6 | **XzFlick3rqNQu33nLzX1**: Dango Penguins ×3 |
+| 10:30 | **Ilovedarya35**: Choco Penguin, Clementine Owl | **Merlimrs**: Maine Coon |
+| 10:30 | **yournoteventhefart41**: Harp Seal | **Veidjet**: Ride-A-Pet Potion |
+| 10:30 | **Sociable_EG**: Kaijunior Box, Latte Motorcycle, Choo Choo Train, Easter Bunny (N), Chilling Spider (N) | **XSad_CharaX**: Ride-A-Pet Potion |
+| 10:30 | **nnnettolll**: Dalmatian (FR), Arctic Reindeer (FR), Chocolate Chip Bat Dragon (FR) | **viviinlovewithcats**: Fairy Bat Dragon (MFR) |
+| 10:30 | **Jakusik27**: Strawberry Tortle, Ride-A-Pet Potion, Wildfire Hawk (FR) | **ZzzTrades7**: Turtle (FR) |
+| 10:30 | **razarvale2z**: Ride-A-Pet Potion | **fairy_foruu**: Gemstone Egg ×2 |
+| 10:30 | **xxxMs_kiraxxx**: Diamond Mahi Mahi | **iiellysw**: Retired Egg ×3 |
+| 10:30 | **shatasha31**: Peppermint Penguin (FR), Candicorn (R), Lion (FR), Mermicorn (FR), Border Collie (R) | **jetedispas212**: Christmas Pudding Pup (MFR) |
+| 10:30 | **CEMEH_HOCKOB**: Lunar Tiger (MR) | **Sleepy_Sonya112**: Fly-A-Pet Potion |
+| 10:30 | **shadowxxx14jl**: Fairy Bat Dragon (FR), Spring Bunny Nose, Fly-A-Pet Potion | **dop4234**: Peppermint Penguin (FR) |
+| 10:30 | **mariblue27**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion, Gingerbread Mansion | **nly4sh**: Haetyphoon |
+| 10:30 | **bestfriend373737**: Candicorn (FR), Unicorn Horn | **matejs75**: Undead Jousting Horse (FR) |
+| 10:30 | **darina_2011m**: Chocolate Dutch Guinea Pig (N) | **Webelive_you**: Papa Moose (FR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
