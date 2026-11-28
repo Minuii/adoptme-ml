@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 04:25 UTC by the scrape workflow._
+_Updated 2026-11-28 04:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 04:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 28,417 | 2026-11-28T04:15 |
-| elve | 18 | 6,302 | 2026-11-28T04:16 |
+| amvgg | 18 | 28,676 | 2026-11-28T04:30 |
+| elve | 18 | 6,381 | 2026-11-28T04:31 |
 
-## AMVGG completed trades: 75,625 total
+## AMVGG completed trades: 75,648 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 984 |
+| 2026-11-28 | 1,007 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 04:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 04:25 | **ilikexwolf**: 2D Box ×9 | **xDxvil777**: Gingerbread Mansion |
-| 04:25 | **killerman_xd1**: Dragonfly ×12 | **Etwa_wish**: Ride-A-Pet Potion |
-| 04:25 | **hearts4evan**: Harp Seal (MFR) | **kittyarchivies**: Unicorn Horn, Spring Bunny Feet |
-| 04:25 | **XSamxggX**: Strawberry Shortcake Bat Dragon (FR), Many Mackerel | **XxDark_c0r3Xx**: Hot Doggo (R), Irish Water Spaniel (NFR) |
-| 04:25 | **LIZA_tresh23**: Ride-A-Pet Potion | **luvlycalista**: Mochi Meow ×9 |
-| 04:25 | **Nasty_7392**: Tea Party Set | **edie_4ka**: Fly-A-Pet Potion ×2 |
-| 04:25 | **ReinMagne**: King Bee (FR), Sunglider, Skelicorn, Royal Fairytale Egg | **ventisnumb3r1fan**: Fly-A-Pet Potion |
-| 04:25 | **frjn9**: Dodo (FR), Phoenix (FR) | **xilawn2023**: Ride-A-Pet Potion ×3 |
-| 04:25 | **xAvosty**: Vampire Dragon (R), Chocolate Dutch Guinea Pig, Ride-A-Pet Potion | **Patto_Cuack**: Goat |
-| 04:25 | **silenceddfeelings**: Retired Egg ×18 | **vale300qw**: Chihuahua |
-| 04:25 | **Gamer_Girl1094286**: Arctic Fox (R) ×2, Pig (R), Fly-A-Pet Potion ×2 | **frjn9**: Cow |
-| 04:25 | **7H3ST**: Tortoiseshell Guinea Pig (FR) | **ONNYchiiwa**: Fly-A-Pet Potion ×8, Ride-A-Pet Potion |
-| 04:25 | **WhiteBoy19**: Ride-A-Pet Potion | **XGiveMeUrFoodX**: Maple Leaf Treat |
-| 04:25 | **Cboyd112010**: Frost Unicorn (NFR), Chocolate Dutch Guinea Pig (NR) | **sweetn6thing**: Halo, Angel Wings |
-| 04:25 | **GAV_6066**: Crocodile (NFR), Hot Doggo (R), Ride-A-Pet Potion | **kaylamicmi**: Arctic Reindeer (FR) |
+| 04:30 | **yesterboni0**: Chocolate Chip Bat Dragon (FR), Lion (R), Ride-A-Pet Potion | **whos_menad**: Arctic Fox (MFR) |
+| 04:30 | **yesterboni0**: Turtle (NFR), Turtle (FR) ×2, Albino Monkey (FR) ×2, Arctic Reindeer, Ride-A-Pet Potion ×2 | **krxadm3**: Owl (FR) |
+| 04:30 | **Ravachy28**: Pain au Chat (M) ×3, Fly-A-Pet Potion | **divineproblem**: Turtle (FR) |
+| 04:30 | **XxkAlejxX**: Admin Abuse Egg ×12 | **elicoow**: Admin Abuse Box ×16 |
+| 04:30 | **prolugot**: Corgi (M) | **alicelane6**: Ride-A-Pet Potion |
+| 04:30 | **princessalipotski**: Dango Penguins, Red Dutch Guinea Pig, Pet Handler Pro Certificate, Bunny Swirl (NFR) | **fayesweet13**: Bunny Swirl (MFR) |
+| 04:30 | **BIg_BoRdy**: Snow Monkey (NFR) | **bei2023**: Fly-A-Pet Potion ×5 |
+| 04:30 | **Flutterieshyy**: Chocolate Chip Bat Dragon (FR), Hedgehog (R) | **RainBOW_Vam47**: African Wild Dog (FR), Cow (FR), White Amazon |
+| 04:30 | **Sophia_1239878**: Ride-A-Pet Potion | **elproXD_7v7**: Pain au Chat ×3 |
+| 04:30 | **elproXD_7v7**: Pain au Chat ×3 | **Sophia_1239878**: Ride-A-Pet Potion |
+| 04:30 | **Love_Yuri01**: Otter (MFR), Glyptodon Ducky (N), Retired Egg ×2 | **shenshenzzz14**: Rainbow Stroller |
+| 04:30 | **Halaaa7397**: Turtle (FR), Lion, Pig (R), Fly-A-Pet Potion ×4, Ride-A-Pet Potion, Latte Kitsune (R), Lava Dragon (R), Ballet Swan (FR), Mr. Whiskerpips (N), Zombie Wolf, Lunar White Tiger (NR) | **Quizzaff**: Strawberry Shortcake Bat Dragon (FR) |
+| 04:30 | **TMDung20**: Gemstone Egg ×6 | **dnei30fast**: Ride-A-Pet Potion ×3 |
+| 04:30 | **clalouetciedh**: Ancient Dragon ×14 | **shenshenzzz14**: Ride-A-Pet Potion |
+| 04:30 | **Sophia_1239878**: Hare (R), Pupcicle (NFR), Lion Cub | **MARIAPAULAFARIAS1**: Crocodile (FR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
