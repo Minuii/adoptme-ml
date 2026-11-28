@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 08:11 UTC by the scrape workflow._
+_Updated 2026-11-28 08:16 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 08:11 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 32,255 | 2026-11-28T08:00 |
-| elve | 18 | 7,193 | 2026-11-28T08:01 |
+| amvgg | 18 | 32,522 | 2026-11-28T08:15 |
+| elve | 18 | 7,224 | 2026-11-28T08:15 |
 
-## AMVGG completed trades: 76,369 total
+## AMVGG completed trades: 76,377 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 1,728 |
+| 2026-11-28 | 1,736 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,6 +39,14 @@ _Updated 2026-11-28 08:11 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 08:15 | **Killshot460**: Sugar Glider (FR), Swan (NR), Gilded Snake (M), Christmas Spirit (M) | **sarasg250**: Frost Fury (MFR) |
+| 08:15 | **funbunicake**: Goose (FR) | **qjyqeig**: Harp Seal (MFR), Toaster Hat |
+| 08:15 | **Ryccka_Ya**: Strawberry Shortcake Bat Dragon (FR), Sugar Glider (FR), Siamese Cat, Arctic Fox (FR), Munchkin Cat, Pink Cat, Alley Cat, Matcha Cat | **Cinzsins**: Giant Panda (FR) |
+| 08:15 | **poposopapiso**: Ride-A-Pet Potion ×2 | **Serbian_dancinglady3**: Ketchup and Mustard Jetpack |
+| 08:15 | **lkmsdfw**: Arctic Reindeer (FR) | **v6mpireeee**: Cow (FR), Cow (R), Ride-A-Pet Potion ×4 |
+| 08:15 | **redjuice362**: Ride-A-Pet Potion ×8 | **Danila121219**: Arctic Fox (R) |
+| 08:15 | **chase2312344352**: Harp Seal (MFR), Frost Phoenix (MFR), Cake Friend (MFR) | **Aestheticbrownbear6**: Copycat (MFR) |
+| 08:15 | **iiSimplylvxy**: Chocolate Chip Bat Dragon (FR), Turtle (FR), Snowball Pet (MFR), Toaster Hat, Spring Bunny Hood | **axelatlasdDev11**: Peppermint Penguin (NFR) |
 | 08:11 | **kyovd1r**: Kangaroo (R), Drake, Kiwi Kiwi | **sestrionki**: Tilcayo |
 | 08:11 | **AwPloPlo**: Chocolate Chip Bat Dragon (FR) | **bumbik1215**: Cow (FR), Goose (FR) |
 | 08:11 | **meextraeliza**: Giant Panda (FR), Ride-A-Pet Potion, Yule Log Dog (R) | **7QqX2mP9L4tRaKZQq8X**: Arctic Reindeer (NFR) |
@@ -46,14 +54,6 @@ _Updated 2026-11-28 08:11 UTC by the scrape workflow._
 | 08:11 | **dustystormss**: Frost Dragon (FR), Ring-Tailed Lemur (MFR), Red Dutch Guinea Pig (MFR) | **Vickersplays**: Strawberry Tortle (MFR) |
 | 08:11 | **Inganta07**: Fly-A-Pet Potion | **PARAZITKA14888**: Solaris |
 | 08:11 | **makcik_sakinah30**: Ride-A-Pet Potion | **PlayOfHappy**: Hooray Pink Mega Neon Paint |
-| 08:11 | **DefinitelyNotCha6**: Squid Plush, Sock Chew Toy, Snowball Launcher, Marsh Plush, Horse Plush, Heart Balloon, Gift Throw Toy, Cookie Dough Plush ×2, Banana Plush, Turkey Plush, Santa Rattle, Ornament Throw Toy, Ice Cream Plush, Dragon Balloon, Sleigh Bells Rattle ×3 | **iouopkpro3**: Fly-A-Pet Potion |
-| 08:11 | **ccdbgt1**: Fly-A-Pet Potion | **wovyin**: Snow Monkey |
-| 08:11 | **Woolshula_TOP**: Strawberry Shortcake Bat Dragon (FR), Brown Bear (NFR) | **Shqmpraises**: Cow (FR), Caterpillar (NR) |
-| 08:11 | **qqwix29**: Ride-A-Pet Potion ×4 | **DefinitelyNotCha6**: Millionaire Mansion |
-| 08:11 | **bnnyls**: Hooray ×2 | **eulien_37**: Pet Handler Pro Certificate |
-| 08:11 | **XiaoFaye1433**: Strawberry Shortcake Bat Dragon (FR) | **GeneralPatrick_14**: Jousting Horse (MFR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×2 |
-| 08:11 | **Addmymainpls2332**: Caterpillar (MFR), Strawberry Shortcake Bat Dragon (FR), Haetae (FR) | **galaxy_moonster**: Mini Pig (MFR) |
-| 08:11 | **XxBad_2PotatoxX**: Ride-A-Pet Potion ×9 | **hs07887**: Latte Kitsune (N) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
