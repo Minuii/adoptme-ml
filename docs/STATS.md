@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 10:55 UTC by the scrape workflow._
+_Updated 2026-11-28 11:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 10:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 34,905 | 2026-11-28T10:45 |
-| elve | 18 | 7,852 | 2026-11-28T10:46 |
+| amvgg | 18 | 35,166 | 2026-11-28T11:00 |
+| elve | 18 | 7,927 | 2026-11-28T11:01 |
 
-## AMVGG completed trades: 77,036 total
+## AMVGG completed trades: 77,050 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,395 |
+| 2026-11-28 | 2,409 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 10:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:00 | **wskdaks**: Arctic Reindeer (FR) | **ThePurple_Milk**: Goose (FR), Cow (FR), Pet Handler Pro Certificate ×2 |
+| 11:00 | **CMETANKA_H24**: Hooray Pink Mega Neon Paint | **account01980**: Candyfloss Mega Neon Paint |
+| 11:00 | **Iamtuff6735**: Chocolate Chip Bat Dragon (FR) | **xR0S4Xx**: Alpaca (FR), Alpaca, Matcha Cat |
+| 11:00 | **Icecrymmxm**: Invisible Wings, Spring Bunny Feet | **Nanax_8907**: Ride-A-Pet Potion ×3 |
+| 11:00 | **loiol1004**: Peahen, Hydra ×2, Red Crowned Crane, Indian Leopard (N), Indian Leopard, Merhorse, Moonpine, Nebula Snake (N), Nebula Snake ×4 | **soska10104**: Fly-A-Pet Potion ×2 |
+| 11:00 | **Yumi_Rose8**: Ride-A-Pet Potion ×2, Fly-A-Pet Potion | **iklerka7228**: Hyena (R) |
+| 11:00 | **N0ELSV1BE**: Shark Puppy (NFR), Ram (MFR), Flamingo (NFR), 2022 Birthday Party Horn, Ice Cream Hermit Crab (NFR), Chocolate Dutch Guinea Pig (N), Ice Cream Cone Hat, Ladybug (MFR), Spring Bunny Hood, Fallow Deer (R) | **rb_feel**: Nessie (MFR), Groundhog (MFR) |
+| 11:00 | **Bits_rbx**: Mrs. Whiskerpips (MR), Stray Cat Dragon (N) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×3 |
+| 11:00 | **123_emily321**: S'mores Raccoon | **kirschchenHD**: Hooray Pink Mega Neon Paint |
+| 11:00 | **roblox_user_4982259842**: Cherry Blossom Flower Sticker ×3 | **00iAngell**: Panda Sticker |
+| 11:00 | **jam0khurt**: Ride-A-Pet Potion ×5 | **GorobetsZP**: Tortuga de la Isla |
+| 11:00 | **officsl_n0t**: Bat Dragon (FR) | **KnifeonKeys**: Shark Puppy (MFR), Owlbear (MFR), Fallow Deer (MFR), Cheetah (MFR), Siamese Cat (MFR), Munchkin Cat (MR), Giant Panda (FR), Fairy Bat Dragon (FR), Meerkat (MFR) |
+| 11:00 | **kiff_shik**: African Wild Dog (FR), Copycat, Ride-A-Pet Potion | **ghxulbeing**: Hedgehog (FR), Kangaroo (FR) ×2 |
+| 11:00 | **Kotikoloved**: Shark Puppy (FR), Ride-A-Pet Potion ×2 | **Ariqnale**: Crocodile (FR) |
 | 10:55 | **DidIJustMakeThisAcc**: Arctic Reindeer (FR), Cow (FR), Fly-A-Pet Potion | **Scfterqx**: Hedgehog (FR) |
-| 10:55 | **minv9a**: Ride-A-Pet Potion, Kappakid (NR) | **NHSTASAMKA_AAAAAAAA**: Frostclaw (NFR) |
-| 10:55 | **IconsChew**: Halloween White Ghost Dragon (MFR) | **Bluey_83909**: Hare (MFR) |
-| 10:55 | **Rose1616160**: Meerkat (FR) | **alex24676k**: Meerkat (R) |
-| 10:55 | **yusuprosito**: Haetyphoon (NR) | **Dlemma78**: Jekyll Hydra (FR) |
-| 10:55 | **killerman_xd1**: Dragonfly ×12 | **SUAA_MYLOVE**: Ride-A-Pet Potion |
-| 10:55 | **angela_umerez4**: Bat Dragon (FR) | **Idontejjmmcc**: Strawberry Shortcake Bat Dragon (MFR), Strawberry Shortcake Bat Dragon (FR) ×6, Kangaroo (FR) |
-| 10:55 | **bE33UbNK**: Ride-A-Pet Potion ×3, Fly-A-Pet Potion ×2 | **adopter_trading**: Christmas Pudding Pup |
-| 10:55 | **Caxarok_45641**: Bubblegeist ×3, Alicorn ×2, Glormy Dolphin, Golden Dragon, Ancient Dragon | **aleonio_ses**: Ride-A-Pet Potion |
-| 10:55 | **User_48066**: Pupcake (M), Panda (FR) | **ZunTze**: Chihuahua (M) |
-| 10:55 | **chomcius1234**: Gingerbread Mansion | **LenkaaaC**: Christmas Pudding House |
-| 10:55 | **U_sulla**: Elephant (FR) | **luntiik_2**: Ride-A-Pet Potion ×15 |
-| 10:55 | **cya_adoptmechallange**: Fly-A-Pet Potion ×8 | **Vasarg**: Candicorn |
-| 10:55 | **1220birth1005100**: Cow (FR) | **Fiujdloslah875**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion |
-| 10:55 | **juli_sofi**: Goose (FR), Christmas Egg ×2, Aussie Egg ×3, Ride-A-Pet Potion | **Dragonlegend2130**: Cryptid (FR) |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
