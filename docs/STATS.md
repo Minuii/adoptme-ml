@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 06:01 UTC by the scrape workflow._
+_Updated 2026-11-28 06:11 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 06:01 UTC by the scrape workflow._
 | amvgg | 18 | 30,208 | 2026-11-28T06:00 |
 | elve | 18 | 6,752 | 2026-11-28T06:01 |
 
-## AMVGG completed trades: 75,919 total
+## AMVGG completed trades: 75,943 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 1,278 |
+| 2026-11-28 | 1,302 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 06:01 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 06:00 | **Iovefromeva**: Cheese Hat, Seahorse (M) | **X0LuvyouX0**: Choco Penguin (M) |
-| 06:00 | **PixiePawsTrade**: Kangaroo (FR) | **Gamerqueen1255**: Gemstone Egg ×18 |
-| 06:00 | **lba_fofe**: Strawberry Shortcake Bat Dragon (FR), Cow, Lava Dragon (FR), Ride-A-Pet Potion ×2 | **hatsholi**: Evil Unicorn (FR) |
-| 06:00 | **yesterboni0**: Arctic Reindeer ×2 | **CommonTotravelerAx3**: Lion (NR), Crocodile (NFR), Grim Dragon ×3, Brown Bear (R), Platypus |
-| 06:00 | **w0onlll**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion | **santiagoxdeleon**: Unicorn (NFR) |
-| 06:00 | **Cookiezoey3651**: Yeti (NFR) | **EricCasper**: Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
-| 06:00 | **KING_TROLLYT0**: Winged Tiger (FR), Fly-A-Pet Potion, Chicken (R), Ride-A-Pet Potion ×3, Thunderfisher ×4, Pomeranian, Paint Sealer, Electric Hornet | **luvkingsley**: Kangaroo (FR) |
-| 06:00 | **Slimeswaztaken44**: Frost Dragon (FR) | **kaylamicmi**: Tree Kangaroo (MFR), Chocolate Dutch Guinea Pig (MFR), Peach Owl (MFR), Mini Schnauzer (M), Ghost Bunny (MFR), Ram (MFR), Red Squirrel (MFR), Frostbite Cub (MFR), Hamster (MR), Head Chef, Fairy Bat Dragon (NFR) |
-| 06:00 | **0wzxc**: Pig (R), Frost Fury (FR), Ice Golem (FR), Arctic Fox, Maine Coon | **wskdaks**: Turtle (FR) |
-| 06:00 | **Hheby789**: Moose Calf | **EtherEthereaI**: Jeff's Nametag, Ride-A-Pet Potion |
-| 06:00 | **Dawnavae**: Strawberry Shortcake Bat Dragon (FR), Jester Dragon (NR) | **KTWIZQWER**: Fairy Bat Dragon (NFR) |
-| 06:00 | **ROBLOXBLUECUP**: Lion (R) ×2 | **wx8zqxx**: Christmas Egg |
-| 06:00 | **GamerMarty06_yt**: Fairy Bat Dragon (R) | **utarbkv**: Fly-A-Pet Potion ×13, Ride-A-Pet Potion ×2 |
-| 06:00 | **diiorrvi**: Leopard Cat (M) | **Kittycuty26**: Ride-A-Pet Potion ×6 |
-| 06:00 | **fox_100l**: Jester Dragon (R) | **Yamajyjopyvazelinov1**: Ride-A-Pet Potion ×4 |
+| 06:11 | **disapp6ar**: Balloon Unicorn (MFR), Cherry-On-Top, Arctic Reindeer (MFR), Winged Tiger (R) | **edithsbazinga**: Giant Panda (MFR) |
+| 06:11 | **AyiGamerUwu**: Luxury Apartments, Fairytale Castle, Halloween Hotel, Hollywood House, Mountain House, Sandbox Island, Lunar House, Racetrack House | **SaraVanesaPARIS**: Fly-A-Pet Potion |
+| 06:11 | **wskdaks**: 2022 Birthday Cake, Fly-A-Pet Potion | **itz_ckaM1441**: Dango Penguins (NR), Arctic Fox, Shrew |
+| 06:11 | **00Marina007**: Ride-A-Pet Potion | **Lynn_n77**: Cotton Candy Hat |
+| 06:11 | **kyovd1r**: Owlbear (NR), Cattuccino (M) | **PossiblyBilled369**: Tilcayo |
+| 06:11 | **deathhrosee**: Waffle Wyrm ×4 | **hyong110**: Paint Sealer ×2 |
+| 06:11 | **Diana_play137**: Turtle (FR), T-Rex (NR), Glormy Leo (R), Fly-A-Pet Potion | **Aghsgehsn**: Cow (FR) |
+| 06:11 | **iiiPinkyBlossomx**: Crystal Egg ×15 | **Olimp090**: Ride-A-Pet Potion |
+| 06:11 | **MersuJanhir13**: Nessie (NFR) | **Kobe242136**: Ranger Beaver (M), Albino Bat (MR), Unicorn, Fly-A-Pet Potion |
+| 06:11 | **xMoon_289**: Pain au Chat ×3 | **HelloPiggiiiZi**: Chihuahua ×3 |
+| 06:11 | **ContentOtter9075**: Gemstone Egg ×2 | **0n1yAlaina**: Ride-A-Pet Potion |
+| 06:11 | **wh1mzical**: Alpaca (MFR), Moose Calf (MFR), Zombie Wolf (MFR), Shiver Wolf (MFR) | **Spamforchristmas2**: Chocolate Chip Bat Dragon (MFR) |
+| 06:11 | **PARAZITKA14888**: Crystal Egg ×15 | **diiorrvi**: Ride-A-Pet Potion |
+| 06:11 | **PARAZITKA14888**: River Otter (M) | **Aslie_17**: Ride-A-Pet Potion |
+| 06:11 | **fox_100l**: Ride-A-Pet Potion | **AvaStud1ohq64**: Hooray Pink Mega Neon Paint |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
