@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 00:41 UTC by the scrape workflow._
+_Updated 2026-11-28 00:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 00:41 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 24,378 | 2026-11-28T00:30 |
-| elve | 18 | 5,381 | 2026-11-28T00:31 |
+| amvgg | 18 | 24,653 | 2026-11-28T00:45 |
+| elve | 18 | 5,443 | 2026-11-28T00:46 |
 
-## AMVGG completed trades: 74,815 total
+## AMVGG completed trades: 74,838 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 174 |
+| 2026-11-28 | 197 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 00:41 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 00:41 | **jayden_5757xx**: Mighty Haetyphoon Animated Sticker | **Bika_1234886**: Paint Sealer ×6 |
-| 00:41 | **PixiePawsTrade**: Kangaroo (FR) | **Gamerqueen1255**: Gemstone Egg ×18 |
-| 00:41 | **Nastusha_387**: Gemstone Egg | **ElNoobProGG**:  |
-| 00:41 | **ElNoobProGG**: Stray Cat Dragon ×6 | **MersuJanhir13**: Gemstone Egg |
-| 00:41 | **coolguy192459**: Owl (NFR), Parrot (NFR), Fly-A-Pet Potion | **merchanteastph**: Bat Dragon (FR) |
-| 00:41 | **IMAO_Kiy23ALT**: Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4, Munchkin Cat | **cocomdskmm**: Jester Dragon (NR) |
-| 00:41 | **Bebyayis**: Cryptid (NFR), Rainbow Maker, 2022 Birthday Party Hat, 2022 Birthday Party Horn | **yygethhhhukkj**: Sugar Glider (MFR) |
-| 00:41 | **stargxldani**: Hedgehog (FR), Evil Unicorn (R), Ride-A-Pet Potion | **16kmfh**: Arctic Reindeer (NFR), Chocolate Chip Bat Dragon (R) |
-| 00:41 | **siIIyheartsz**: Strawberry Shortcake Bat Dragon (NFR), Unicorn Horn | **Adrinea_xo**: Parrot (FR) |
-| 00:41 | **sinskin99**: Grim Dragon (FR) | **firephoenix601**: Siamese Cat (FR) |
-| 00:41 | **elcob65**: Gemstone Egg ×4 | **Polita721**: Fly-A-Pet Potion |
-| 00:41 | **Soniapol10**: Mermicorn (MFR), Elephant (MFR) ×2, Cupid Dragon (MFR), Honey Badger (MFR), Ring-Tailed Lemur (MFR), Polar Bear (MFR), Brown Bear (MFR), Goose (MFR), Cabbit (MFR), Balloon Unicorn (FR), Jellyfish (MFR), Ride-A-Pet Potion ×2 | **lightxdesire**: Bat Dragon (NFR) |
-| 00:41 | **whossizzybee**: Cow (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **fadinqxxxrosies**: Sugar Glider (FR), Tiny Wings |
-| 00:41 | **rexy_7830**: Bat Dragon (FR), Alpaca (MFR), Strawberry Shortcake Bat Dragon (NFR), Candyfloss Chick (MFR), Parrot (FR), 2022 Birthday Party Hat | **Cherryblossom_01580**: Balloon Unicorn (MFR) |
-| 00:41 | **Acorn0930**: Frost Fury (NFR) | **ASMR_1585**: Moonbeam Peacock, Ride-A-Pet Potion ×3 |
+| 00:45 | **luzmi119**: Puffer Fish, Snowy Mammoth | **Cwqxlly**: Hooray |
+| 00:45 | **Z_ban22**: Frost Dragon (FR) | **pranavsen**: Kangaroo (FR) ×14 |
+| 00:45 | **Kayorilate**: Fairy Bat Dragon (FR), Turtle (FR), Shark Puppy (R), Popsicle Stroller, Pumpkin Stroller, Ox Box | **UmaGam3rQualquer**: Chocolate Chip Bat Dragon (FR) |
+| 00:45 | **EtherEthereaI**: Retired Egg ×15 | **abbyissocool_lol**: Chihuahua |
+| 00:45 | **Aslie_17**: Stygian Owl (M), Shoebill (M) | **1Biahsz_altx**: Pet Handler Pro Certificate |
+| 00:45 | **SophiaStormy136**: Crystal Egg ×18 | **stealtimeloverrrr**:  |
+| 00:45 | **luvlycalista**: Gingerbread Mansion, Mochi Meow ×2 | **angel_clem1**: Ride-A-Pet Potion |
+| 00:45 | **elcob65**: Gemstone Egg ×4 | **MelodyMoonPlay**: Fly-A-Pet Potion |
+| 00:45 | **melyywz**: Fly-A-Pet Potion ×12 | **MelodyMoonPlay**: Turtle (FR) |
+| 00:45 | **jesus_yt299**: Skelicorn (NFR) | **MelodyMoonPlay**: Fly-A-Pet Potion |
+| 00:45 | **reeettettft**: Turtle (NFR) ×10, Dalmatian (FR) | **sacrificingmyself19**: Shadow Dragon (FR) |
+| 00:45 | **jesuceit**: Chihuahua | **Littleunicorn_6795**: Purrowl ×4 |
+| 00:45 | **chloemintC**: Blue Whale ×2, Salamander ×2 | **Fluffykitty_08**: Long Ermine Sticker |
+| 00:45 | **Meiilia5**: Kangaroo (NFR) | **fadinqxxxrosies**: Fly-A-Pet Potion, Cow (FR) |
+| 00:45 | **Babyofy5**: Frost Dragon (FR) | **kaylamicmi**: Candyfloss Chick (FR), Candyfloss Chick, Bush Elephant, Shark Puppy (R), Fairy Bat Dragon (FR) ×2, Goose (R), Goose (FR), Goose, Mini Pig, Pet Handler Pro Certificate ×2 |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
