@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 01:55 UTC by the scrape workflow._
+_Updated 2026-11-28 02:01 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 01:55 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 25,744 | 2026-11-28T01:45 |
-| elve | 18 | 5,674 | 2026-11-28T01:46 |
+| amvgg | 18 | 26,028 | 2026-11-28T02:00 |
+| elve | 18 | 5,741 | 2026-11-28T02:01 |
 
-## AMVGG completed trades: 75,088 total
+## AMVGG completed trades: 75,105 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 447 |
+| 2026-11-28 | 464 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 01:55 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 01:51 | **Robloxianp3g1g8i7d**: Fly-A-Pet Potion | **lxHatsunexl**: Blue Boohoo Mega Neon Paint, Solar Burst Mega Neon Paint |
-| 01:51 | **ameyyass**: Christmas Pudding House ×5 | **hcneycottage**: Ride-A-Pet Potion |
-| 01:51 | **Yumi_Rose8**: Fly-A-Pet Potion | **Bachiraesmio_08**: Swan (R) |
-| 01:51 | **jasidk17**: Christmas Pudding Pup, Pet Handler Pro Certificate, Sushi Penguin (R) | **kingdontay123456**: Candy Cane Snail (MFR) |
-| 01:51 | **jasidk17**: Pet Handler Pro Certificate | **Dora_MS1**: Boohoo (M) |
-| 01:51 | **gabdoptme**: Chocolate Dutch Guinea Pig | **VanessavvkPlayz**: Gemstone Egg ×2 |
-| 01:51 | **blushbyelle**: Berry Cool Cube (MFR) | **theogriffn1**: Dragonfruit Fox (NFR) |
-| 01:51 | **luxxlyh**: Liger (M) | **cloudWavedog87**: Ride-A-Pet Potion ×3 |
-| 01:51 | **blobxxfish**: Hooray Pink Mega Neon Paint, Peachick | **z4ni_X**: Ride-A-Pet Potion |
-| 01:51 | **Elmasinsano_392**: Zombie Wolf (R) | **samanta_lapendex**: Fly-A-Pet Potion |
-| 01:51 | **iiStxberryMilkx**: Giant Anteater (R) | **szoozin**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×2 |
-| 01:51 | **epicpulsechaos2024**: Ancient Dragon ×10 | **Andres_agent**: Ride-A-Pet Potion |
-| 01:51 | **loiol1004**: Dragonfly (M) | **MelodyMoonPlay**: Fly-A-Pet Potion |
-| 01:51 | **Babyofy5**: Candyfloss Chick (FR) | **wjredmind**: Scorching Kaijunior (R), Scorching Kaijunior, Pineapple Owl ×2, Ice Wolf (R), Ice Wolf ×2, Gaelic Fae, Wooly Rhino |
-| 01:51 | **Vipeezzfr**: Crow, Strawberry Shortcake Bat Dragon (NFR), Kangaroo (MFR), Cow (NFR), Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Shortcake Bat Dragon (R), Kangaroo (FR) ×2, Kangaroo (R), Turtle (FR) ×3, Werewolf (FR), Candicorn (FR), Goose (FR), Peppermint Penguin (FR), Spider Crab (MR) | **YesidT_T**: Cryptid (M) |
+| 02:00 | **epicpulsechaos2024**: Dragonfly ×11 | **Theyluv_pxachy**: Ride-A-Pet Potion |
+| 02:00 | **8qgdiw9**: Ride-A-Pet Potion | **airiska_iriska3**: Stray Cat Dragon ×12 |
+| 02:00 | **zoexplut0**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Strawberry Shortcake Bat Dragon (R), Giant Anteater (NR) | **RhodesyMate16**: Cryptid (NFR) |
+| 02:00 | **sweetlynnxx**: Rose Quartz Glow Mega Neon Paint, Tasmanian Devil | **heeseungspookie**: Hooray Pink Mega Neon Paint |
+| 02:00 | **KingSantix05**: Admin Abuse Egg ×2 | **MyacountJohnwcrtba**: Dog ×2 |
+| 02:00 | **Sawyer4LifeJaxon**: Unicorn Horn | **cocomdskmm**: 2022 Birthday Party Horn, Pancake Stack, Elf Hat, Fly-A-Pet Potion, Ride-A-Pet Potion |
+| 02:00 | **baby_demonakakj**: Tilcayo, Arctic Fox (R) | **itssslee7**: Alpaca (R) |
+| 02:00 | **Adore_Pandaz**: Fairy Bat Dragon (FR), Turtle (FR), Kangaroo (FR) ×2, Albino Monkey (FR) | **yesterboni0**: Evil Unicorn (FR) |
+| 02:00 | **Slimeswaztaken44**: Pet Handler Pro Certificate ×7, Ride-A-Pet Potion | **Legion_Army15**: Fly-A-Pet Potion ×7 |
+| 02:00 | **yuag12345**: Strawberry Shortcake Bat Dragon (FR), Capybara, French Bulldog (FR), Hyena (R), Red Panda (MFR), Toasty Red Panda (NFR), Yeti (N), Sheeeeep, Irish Water Spaniel (R), Aestus (NFR), Diamond Unicorn (N), Fairy Bat Dragon (R), Elephant (FR), Peahen | **Slimeswaztaken44**: Crow (FR) |
+| 02:00 | **ImANiceDude_J**: Snowball Pet (MFR), Yeti (MFR), Unicorn Horn ×2 | **cutesyghali**: Glormy Leo (MFR) |
+| 02:00 | **crazi_kiid**: Lion Cub (NR) | **4evxer**: Turtle (FR) |
+| 02:00 | **Cutecupshakes**: Strawberry Shortcake Bat Dragon (MFR) | **4evxer**: Tortoiseshell Guinea Pig (MFR), Nessie (MFR), Caterpillar (NFR), Flaming Fox (NFR), Glormy Leo (FR), Toaster Hat |
+| 02:00 | **jebiilerium**: Turtle (FR) | **4evxer**: S'mores Raccoon (MFR) |
+| 02:00 | **lupsgrl**: Frostbite Bear ×2, Banana Hat | **dyna911**: Cabbit (FR) |
 
 ## Elvebredd value changes: 63,297 since 2023-09-16
 
