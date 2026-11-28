@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 12:31 UTC by the scrape workflow._
+_Updated 2026-11-28 12:41 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 12:31 UTC by the scrape workflow._
 | amvgg | 18 | 36,812 | 2026-11-28T12:30 |
 | elve | 18 | 8,311 | 2026-11-28T12:31 |
 
-## AMVGG completed trades: 77,484 total
+## AMVGG completed trades: 77,544 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,843 |
+| 2026-11-28 | 2,903 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 12:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 12:25 | **Ella116Gisela**: Rainbow Maker, Tiny Wings | **XXIYAXX_123**: Angel Wings, Sugar Glider, Rain Cloud Hat, Ride-A-Pet Potion |
-| 12:25 | **captainmarvel1089**: Amber Butterfly (M), Milk Choccybunny (M), Ant (M), Angus Cow (M) | **rasediva**: Fly-A-Pet Potion |
-| 12:25 | **ItzViolet_Plays**: Moose Calf | **eclipsed1dream**: Pancake Stack |
-| 12:25 | **j4sp3r101**: Hot Doggo (MFR) | **overboiled_jolmust**: Giraffe (FR), Fly-A-Pet Potion |
-| 12:25 | **polinchhikk**: Mummy Spider (M), Jacobin Pigeon (M), Clumpty (M), Pinkypillar (M) | **HOCOKKU**: Ride-A-Pet Potion ×2 |
-| 12:25 | **Rainy_rarr**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 12:25 | **islandicsinger**: Frost Unicorn (NFR), Fly-A-Pet Potion ×3, Ride-A-Pet Potion | **Akeem8903133333**: Cow (NFR) |
-| 12:25 | **ishibana0967**: Crystal Egg ×15 | **Fastewetyr**: Ride-A-Pet Potion |
-| 12:25 | **Meow_kiti01**: Ride-A-Pet Potion, Pandaguin Glooptodog | **FrostPixel5930**: Crystal Egg ×18 |
-| 12:25 | **always100periodt**: Strawberry Shortcake Bat Dragon (FR), Chocolate Chip Bat Dragon (FR), Cow (FR) | **yeetimaheadout7**: Balloon Unicorn (FR) |
-| 12:25 | **hahatyn2024**: Turtle (FR), Turtle (R), Black Marlin (M) ×2 | **N0ugatt**: Dango Penguins (MFR) |
-| 12:25 | **4qvssz**: Owl (NFR) | **Ethan_Nissim**: Undead Jousting Horse (MFR) |
-| 12:25 | **WeAreTheStars_3**: Fly-A-Pet Potion ×17 | **dagam78**: Cow (FR) |
-| 12:25 | **ElNoobProGG**: Chihuahua, Stray Cat Dragon | **Kitty_22152**: Gemstone Egg |
-| 12:25 | **vitya2785**: Hedgehog, Pet Handler Pro Certificate | **tungtungtungsihir2**: Hedgehog (FR) |
+| 12:36 | **Utenok_Jackii**: Evil Unicorn (MFR), Capybara (MFR), Husky (MFR), Panda (MFR), Black Panther (MFR), Frost Unicorn (FR), 2022 Birthday Cake, Cow, Albino Monkey (FR), Flamingo (FR) | **Jsk7919**: Parrot (MFR) |
+| 12:36 | **frergthadfe**: Shark (NFR), Longhorn Cow (MR), Zombie Wolf (NR), Mule (N), Ice Cream Stroller, City Hat, Alicorn, Diamond Griffin, Pain au Chat, Glyptodon Ducky ×3, Admin Abuse Egg ×3, Corgi | **daanz2**: Turtle (FR) |
+| 12:36 | **obvmelwi**: Goat (MFR), Groundhog (MFR), Puffer Fish (MFR), Sugar Glider (FR) | **xv1oh**: Caterpillar (MFR), Rainbow Maker |
+| 12:36 | **lisa_80517**: Cherry Blossom Flower Sticker ×4, Fairy Bat Dragon Sticker, Soulfire Animated Sticker ×4, Candyfloss Chick Sticker ×4, Kappakid Sticker ×5 | **59ghrvs**: Drake |
+| 12:36 | **Hzm740**: Hooray | **NotSweatyOnion**: Ride-A-Pet Potion |
+| 12:36 | **TYTkuza2**: Fly-A-Pet Potion ×5 | **Oliver20717**: Ride-A-Pet Potion ×9 |
+| 12:36 | **n0thingthatsall**: Fly-A-Pet Potion ×11, Ride-A-Pet Potion ×7 | **Gnl_ll**: Cabbit (FR) |
+| 12:36 | **justinepaje123**: Frostbite Bear, Fly-A-Pet Potion | **Aubrey_Prism851**: Kangaroo (R) |
+| 12:36 | **funsashamen**: Ram (R) | **itsmeRa3lyn**: Fly-A-Pet Potion |
+| 12:36 | **ZEK34COMODIN**: Ride-A-Pet Potion, Golden Dragon (N) | **FAIRY_264**: Crystal Egg ×18 |
+| 12:36 | **leidydamelike**: Strawberry Tortle (R) | **meowyippee3001**: Strawberry Tortle, Crystal Egg ×8 |
+| 12:36 | **fyffddt5**: Ratatoskr (N) | **YOKOZ303**: Party House |
+| 12:36 | **ammadOwO2**: Fly-A-Pet Potion ×17, Ride-A-Pet Potion | **bl0xby**: Goose (FR) |
+| 12:36 | **svetikneki**: Cabbit (R), Fairy Bat Dragon, Arctic Fox (R), Christmas Pudding Pup | **KiaXias**: Chocolate Chip Bat Dragon (FR) |
+| 12:36 | **nona200986**: Ride-A-Pet Potion ×15, Fly-A-Pet Potion ×2 | **mewiwq**: Strawberry Tortle |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
