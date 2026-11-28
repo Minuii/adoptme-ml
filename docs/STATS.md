@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 11:25 UTC by the scrape workflow._
+_Updated 2026-11-28 11:31 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 11:25 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 35,456 | 2026-11-28T11:15 |
-| elve | 18 | 7,956 | 2026-11-28T11:15 |
+| amvgg | 18 | 35,734 | 2026-11-28T11:30 |
+| elve | 18 | 8,041 | 2026-11-28T11:31 |
 
-## AMVGG completed trades: 77,154 total
+## AMVGG completed trades: 77,162 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 2,513 |
+| 2026-11-28 | 2,521 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,6 +39,14 @@ _Updated 2026-11-28 11:25 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 11:30 | **Mary1235175**: Monkey (M) | **Sleepy_Sonya112**: Fly-A-Pet Potion |
+| 11:30 | **huyichan9130**: Gemstone Egg | **CME123TAHKA**: Chihuahua ×3 |
+| 11:30 | **lo24renzo**: Unicorn, White Amazon (R) | **Candy_100OO**: Fly-A-Pet Potion |
+| 11:30 | **DragonjJDusta107130**: Kangaroo (FR), Fly-A-Pet Potion, Ride-A-Pet Potion | **JenYAsha2akk12**: Siamese Cat (FR) |
+| 11:30 | **Grim_zebruh**: Bat Dragon, Shadow Dragon (FR), Giraffe (FR), Goose (NFR), Border Collie (R), Harp Seal (NR), Sushi Penguin (N), Moon Rabbit (N), Beluga Whale (N) | **BverlyBlue**: Bat Dragon (NFR) |
+| 11:30 | **DreamNightStar2**: Butter Knife | **luvkingsley**: Ride-A-Pet Potion |
+| 11:30 | **FrostPixel5930**: Crystal Egg ×17 | **ekekdjjdd**: Ride-A-Pet Potion |
+| 11:30 | **garibayreilly**: Arctic Dusk Dragon (MFR), Pink Heart Glasses, Invisible Wings | **Waq1uxx**: Strawberry Shortcake Bat Dragon (FR) |
 | 11:25 | **tsmovrol**: Arctic Fox, Pig (R), Fly-A-Pet Potion, Bat Backpack ×2, Firey Aura, Pink Instant Camera | **Retorn011**: Pig (N) |
 | 11:25 | **itsmeh_vasi3**: Gumball Caterpillar (N), Rubber Ducky (M), Glyptodon Ducky (N), Bubblegeist | **lili95640**: Hooray Pink Mega Neon Paint |
 | 11:25 | **Vitamirka**: Kiwi Kiwi ×4 | **KittyVikaa**: Ride-A-Pet Potion ×2 |
@@ -46,14 +54,6 @@ _Updated 2026-11-28 11:25 UTC by the scrape workflow._
 | 11:25 | **ydenarohka10**: Samoyed (MR) | **Sleepy_Sonya112**: Ride-A-Pet Potion ×2 |
 | 11:25 | **InfinityLuckx**: Peppermint Penguin (R) | **Gonfreecss09111**: Hooray (M), Ride-A-Pet Potion, Fly-A-Pet Potion |
 | 11:25 | **no_anniaomg**: Tortoiseshell Guinea Pig (R), Harp Seal (NR), Fly-A-Pet Potion | **varmitrof**: Tilcayo |
-| 11:25 | **R0ttenzxmbie**: Angel Wings | **Gonfreecss09111**: Hooray (M) |
-| 11:25 | **SanoKojima_lobotomy**: 2022 Birthday Party Horn, Cabbit, Flamingo (FR), Pupcicle (MR) | **Pokeballpropro**: Strawberry Shortcake Bat Dragon (FR) |
-| 11:25 | **DrendyRobLox**: Stray Cat Dragon ×16 | **alina36_r**: Ride-A-Pet Potion ×2 |
-| 11:25 | **pxrczl**: Strawberry Shortcake Bat Dragon (FR) ×2, Strawberry Tortle | **amiaaaa20**: Balloon Unicorn (FR) |
-| 11:25 | **islandicsinger**: Strawberry Shortcake Bat Dragon (FR) | **renn_123on**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion |
-| 11:25 | **rycnqdq**: Pig (FR), Stray Cat Dragon ×3 | **SteveKwon10**: Ride-A-Pet Potion ×10 |
-| 11:25 | **rasyanoobbacon**: Dancing Dragon (NFR) | **jaeu0523hajun**: Ride-A-Pet Potion ×14 |
-| 11:25 | **auiciq_isp**: Ride-A-Pet Potion | **HiOuO121**: Crystal Egg ×18 |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
