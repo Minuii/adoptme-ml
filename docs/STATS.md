@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 13:16 UTC by the scrape workflow._
+_Updated 2026-11-28 13:25 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 13:16 UTC by the scrape workflow._
 | amvgg | 18 | 37,586 | 2026-11-28T13:15 |
 | elve | 18 | 8,498 | 2026-11-28T13:15 |
 
-## AMVGG completed trades: 77,749 total
+## AMVGG completed trades: 77,802 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 3,108 |
+| 2026-11-28 | 3,161 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 13:16 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 13:15 | **StannyStarPets**: Goose (FR), Ride-A-Pet Potion ×11, Fly-A-Pet Potion, Christmas Pudding Pup (R), Copycat (N) | **wawwpp**: Strawberry Shortcake Bat Dragon (FR) |
-| 13:15 | **Youmyrii**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 13:15 | **Martinotschka**: Gemstone Egg | **ElNoobProGG**: Ice Moth Dragon, Toy Poodle |
-| 13:15 | **quusyyo**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 13:15 | **meganisnotmissing1**: Cow (NFR), Mrs. Whiskerpips (M), Glider, Yeti | **CredibleEmaballerina**: Fairy Bat Dragon (NFR) |
-| 13:15 | **vereltt**: Halo, Cabbit (FR), Crocodile (FR), Candicorn, Kangaroo (R), Fly-A-Pet Potion, Turkey (R) | **leidydamelike**: Lion Cub (MFR) |
-| 13:15 | **Ilovedarya35**: Ice Cream Cone Hat, Munchkin Cat (FR), Fly-A-Pet Potion | **daanz2**: Unicorn Horn |
-| 13:15 | **moral608**: Fairy Bat Dragon (FR) | **PANDA9994440**: Ballet Swan, Spring Bunny Hood, Fallow Deer, Alley Cat ×2, Toaster Hat |
-| 13:15 | **Carperleon06**: Ride-A-Pet Potion | **FrostPixel5930**: Crystal Egg ×18 |
-| 13:15 | **ten_ferko**: Sushi Penguin (MR), Pancake Stack | **alleyrot**: Puffer Fish (MFR) |
-| 13:15 | **G0LD19K**: Arctic Reindeer (FR) | **roblox_user_3388877842**: Cow (NFR) |
-| 13:15 | **TMDung20**: Ride-A-Pet Potion ×2 | **auroricsoul**: Latte Kitsune |
-| 13:15 | **euprism**: Black Moon Bear, Castle Hermit Crab, Ibis, Merhorse, Ocelot, Ostrich, Orangutan ×3, Ghost Wolf | **Pinky_Darckling**: Ride-A-Pet Potion |
-| 13:15 | **Malina8491**: Hooray Pink Mega Neon Paint | **carlinhos_CH**: Ride-A-Pet Potion |
-| 13:15 | **mariagmia**: Retired Egg ×18 | **KB_BelkaUwU**: Chihuahua |
+| 13:25 | **limohq**: Pet Handler Pro Certificate ×3 | **fqlfyfujdyj**: Frost Fury (FR) |
+| 13:25 | **RANDOM_44202**: Puffer Fish (MFR), Hippo (MFR), Stray Cat Dragon ×4, Toy Poodle | **NOBIIIEEE11**: Cow (FR) |
+| 13:25 | **RANDOM_44202**: Cabbit, Cow (FR), Chocolate Dutch Guinea Pig (NR) | **Y_yoshi00**: Dalmatian (FR) |
+| 13:25 | **xdParad1se**: Mighty Haetyphoon Animated Sticker | **unicornsparkles0926**: Mochi Meow Tumble Animated Sticker |
+| 13:25 | **Dashkaulibashk**: Dalmatian (FR), Ride-A-Pet Potion | **bartixoxoxx**: Cow (NFR), Ice Cream Cone Hat, Candicorn |
+| 13:25 | **lol_662720**: Copycat | **AubreyxBuilds**: Ride-A-Pet Potion ×4 |
+| 13:25 | **Leafiieee**: Frozen Penguin (N), Grinmoire (NR), Oakee Knight (N), Orca (N), Beaver (N) | **ventisnumb3r1fan**: Ride-A-Pet Potion |
+| 13:25 | **2Freya222**: Strawberry Shortcake Bat Dragon (FR) | **MATIzyzy**: Rainbow Maker, Bready Necklace |
+| 13:25 | **somebody_Xfife**: Fly-A-Pet Potion, Gingerbread Reindeer (NFR) | **Panci_Terbang33**: Christmas Spirit (M) |
+| 13:25 | **malnokeyo**: Goose (FR), Mini Pig, Crocodile (R), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×4 | **zxc_ph0enix**: Dalmatian (FR) |
+| 13:25 | **qkrbed**: Pink Cat (NR), Pink Cat (FR) ×2 | **yeetimaheadout7**: Crocodile (NFR), Fly-A-Pet Potion ×3 |
+| 13:25 | **Mufubunny**: Skelicorn (M) | **24kk_Zayyy**: Chihuahua (N), Chihuahua |
+| 13:25 | **realuseris_sh191125**: Burger Bear (M) | **bazychko**: Fly-A-Pet Potion ×2, Prismatic Butterfly (N) |
+| 13:20 | **TMDung20**: Silly Duck | **BStune**: Ride-A-Pet Potion ×2 |
+| 13:20 | **Leafiieee**: Frostclaw, Zodiac Minion Chick (R), Zodiac Minion Chick | **FRIK_RR**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
