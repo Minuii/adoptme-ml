@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 17:31 UTC by the scrape workflow._
+_Updated 2026-11-28 17:40 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -16,11 +16,11 @@ _Updated 2026-11-28 17:31 UTC by the scrape workflow._
 | amvgg | 18 | 42,381 | 2026-11-28T17:30 |
 | elve | 18 | 9,727 | 2026-11-28T17:31 |
 
-## AMVGG completed trades: 79,136 total
+## AMVGG completed trades: 79,165 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 4,495 |
+| 2026-11-28 | 4,524 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 17:31 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
-| 17:30 | **Zlota_Sofa**: Majestic Pony (NR) | **Byeedontmindme1234**: Ride-A-Pet Potion ×9 |
-| 17:30 | **Amvgg_2357**: Ride-A-Pet Potion ×5, Fly-A-Pet Potion ×2, Bready Necklace | **Zlota_Sofa**: Toaster Hat |
-| 17:30 | **Aphmau_Cool09**: Strawberry Shortcake Bat Dragon (FR) | **Lpoopbxhe**: Rainbow Maker, Spring Bunny Feet, Ride-A-Pet Potion |
-| 17:30 | **pizzatree5**: Emperor Gorilla (MFR) | **boyuancool123**: Fairy Bat Dragon (NFR), Rainbow Maker, Chocolate Chip Bat Dragon (FR), Unicorn Horn, Stitches (M) |
-| 17:30 | **ALV4RYTO**: Cow (NFR) | **defen42h**: Cow (FR) ×2, Ride-A-Pet Potion ×2 |
-| 17:30 | **ALV4RYTO**: Respectful Mustache, Black Hightops | **xeisaltow**: Cowboy Saddle |
-| 17:30 | **MICROCELE6BRITY**: Tiny Wings | **Luna_SanUwuUvu**: Ride-A-Pet Potion ×10 |
-| 17:30 | **dairymilk_111**: Sakura Spirit, Chocolate Dutch Guinea Pig | **edadeop8**: Sheeeeep |
-| 17:30 | **kittieqwo**: Alpaca (MFR), Jousting Horse (MFR), Unicorn Horn | **Cristoferpro73739**: Undead Jousting Horse (MFR) |
-| 17:30 | **jpcrack2858**: Giant Anteater, Royal Mistletroll, Ice Wolf | **bunbuncrackedcupcake**: Cloud Car |
-| 17:30 | **calm_if**: Red Panda (N), Ms. Muffet (N), Snow Cat (N), Otter (N), Cat (N), Ginger Cat (R), Monkey, Granny Wolf ×3, Huntsman Robin, Indian Leopard | **DrowAnna**: Ride-A-Pet Potion |
-| 17:30 | **Artem_milkSG**: Chocolate Chip Bat Dragon (FR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2 | **Elionoria228**: Crocodile (NFR), Crocodile (FR), Jester Dragon (NFR) |
-| 17:30 | **ijffjgi**: Fly-A-Pet Potion ×5 | **MishikiTheKiwi**: Pig (R) |
-| 17:30 | **Aggr0berlin**: Latte Kitsune, Liger (N), Little Lamb (M) | **Weirdcore_021114**: Red Dutch Guinea Pig |
-| 17:30 | **vi_ka795**: Mrs. Whiskerpips, Mr. Whiskerpips | **Jordiepuppy1**: Ride-A-Pet Potion |
+| 17:36 | **Sypex612**: Mini Pig (FR) | **ccrowfeather**: Wood Pigeon (MFR) |
+| 17:36 | **JuanJoHo1**: Cheetah (MFR), Llama (MFR) | **obv1kylxx**: Arctic Reindeer (FR) |
+| 17:36 | **mzylovie**: Chocolate Dutch Guinea Pig (NR), Dragonfruit Fox (R) | **StrawberryKiitten**: Munchkin Cat |
+| 17:36 | **MorsikCool**: Hedgehog (FR), Strawberry Shortcake Bat Dragon (FR) ×2, Chocolate Chip Bat Dragon (FR) | **AL1C3W0RLDD**: Frost Dragon (FR) |
+| 17:36 | **cuteprincessgirl861**: Sugar Glider (FR), Fly-A-Pet Potion ×2, Ride-A-Pet Potion ×9 | **uu2i3iy**: Shark Puppy (NFR) |
+| 17:36 | **F0rblows**: Strawberry Shortcake Bat Dragon (FR), Fairy Bat Dragon (R) | **kittyx_pawsx**: Cryptid |
+| 17:36 | **tsitp_secret**: Tortuga de la Isla (NFR), Zombie Wolf (MFR), Werewolf | **divineproblem**: Frost Unicorn (NFR) |
+| 17:36 | **no_xwifi1**: Ballet Swan (MFR) | **luvvyannnaa**: Panda (MFR), Water Rabbit (MR), Moon Rabbit (MR), Amami Rabbit (M), Ride-A-Pet Potion ×4 |
+| 17:36 | **luvoaxa**: Dodo (NFR), Unicorn (NFR), Matcha Cat, Majestic Pony (R) | **nenormpacan666**: Kangaroo (FR) |
+| 17:36 | **jaeynene**: Border Collie (FR) ×2, Ride-A-Pet Potion | **kissinakitty**: Alpaca (FR) |
+| 17:36 | **Bobbyhuddy6**: Frost Dragon (FR), Christmas Pudding Pup | **doisynan**: Owl (FR), Mini Pig (R), Goose (R) |
+| 17:36 | **catt_lo1**: Chocolate Chip Bat Dragon (FR), Ride-A-Pet Potion ×4 | **XxSebbxX1**: Jester Dragon (MFR) |
+| 17:36 | **SharkuKy_Trades**: 2022 Birthday Confetti Cannon | **ContentOtter9075**: Shark Puppy (FR) |
+| 17:36 | **Ash_Yumin**: Amethyst Penguin | **didlitown**: Strawberry Shortcake Bat Dragon (FR), Cow (FR), Fly-A-Pet Potion ×2 |
+| 17:36 | **Ilovedarya35**: Hooray | **deftgytq**: Ride-A-Pet Potion |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
