@@ -1,6 +1,6 @@
 # Collected data
 
-_Updated 2026-11-28 05:40 UTC by the scrape workflow._
+_Updated 2026-11-28 05:46 UTC by the scrape workflow._
 
 ## Value snapshots
 
@@ -13,14 +13,14 @@ _Updated 2026-11-28 05:40 UTC by the scrape workflow._
 
 | Source | Days | Offers today + yesterday | Newest offer |
 |---|---|---|---|
-| amvgg | 18 | 29,689 | 2026-11-28T05:30 |
-| elve | 18 | 6,621 | 2026-11-28T05:31 |
+| amvgg | 18 | 29,955 | 2026-11-28T05:45 |
+| elve | 18 | 6,674 | 2026-11-28T05:46 |
 
-## AMVGG completed trades: 75,843 total
+## AMVGG completed trades: 75,857 total
 
 | Day (UTC) | Trades |
 |---|---|
-| 2026-11-28 | 1,202 |
+| 2026-11-28 | 1,216 |
 | 2026-11-27 | 4,681 |
 | 2026-11-26 | 3,990 |
 | 2026-11-25 | 4,271 |
@@ -39,21 +39,21 @@ _Updated 2026-11-28 05:40 UTC by the scrape workflow._
 
 | Seen (UTC) | Side A | Side B |
 |---|---|---|
+| 05:45 | **ProSpark251**: Strawberry Tortle (N), Turtle (NFR), Dragonfruit Fox (MFR), Kiwi Kiwi (MFR), Pain au Chat (MFR), Pain au Chat (M) ×2, Diamond Unicorn (M), Icy Porcupine (M), Chihuahua (M) ×3, Gumball Caterpillar (M) ×3, Stygian Owl (M), Waffle Wyrm (M), Pandaguin Glooptodog (M) | **Slimeswaztaken44**: Frost Dragon (FR) |
+| 05:45 | **streylla**: Fly-A-Pet Potion | **Gamer_Girl1094286**: Ice Golem |
+| 05:45 | **3L1EE**: Balloon Unicorn (FR) | **queenbella2626**: Parrot (FR) |
+| 05:45 | **Fan_deJennaO**: Halloween White Ghost Dragon (FR) | **Xxxxashhhh**: Ride-A-Pet Potion ×4 |
+| 05:45 | **Fan_deJennaO**: Dragonfruit Fox (N) | **DellaxKenneth**: Ride-A-Pet Potion ×9 |
+| 05:45 | **AntiqueDesignz**: Tio De Nadal (MFR) | **jayden190614**: Cryptid (NFR) |
+| 05:45 | **V4L_luvsyou**: Skelicorn (MFR) | **yelan_main1234**: Stray Cat Dragon (MFR) |
+| 05:45 | **Xxxxashhhh**: Pet Handler Pro Certificate, Fly-A-Pet Potion ×6, Ride-A-Pet Potion | **wtfal3ndra**: Pig, Pink Cat |
+| 05:45 | **NoobToNorthernLands**: Jellyfish | **gh0sttcat0**: Fly-A-Pet Potion ×3, Ride-A-Pet Potion ×3 |
+| 05:45 | **xGracie_1234x**: Fly-A-Pet Potion | **mariblue27**: Crimson Heatwave Mega Neon Paint, Hooray Pink Mega Neon Paint |
+| 05:45 | **Xxxxashhhh**: Fly-A-Pet Potion ×3 | **xXNorthenlightX**: Christmas Pudding Pup |
+| 05:45 | **zxl0106**: Ride-A-Pet Potion | **LiptonP13**: Puffer Fish |
+| 05:45 | **jjjerrke12**: Cow (R) | **rosalbro**: Strawberry Tortle, Christmas Pudding Pup, Fly-A-Pet Potion, Ride-A-Pet Potion ×2 |
+| 05:45 | **love151444**: Orca (NR), Halloween Evil Dachshund (R) | **JuniorGok**: Fly-A-Pet Potion |
 | 05:36 | **4evxer**: Shrew (MFR) | **exxlye**: Snow Monkey (MFR), Black Springer Spaniel (MFR), Frostbite Cub (MFR), Moon Rabbit (MFR) |
-| 05:36 | **heartsformeimeiii**: Owl (FR), Flamingo (FR), Arctic Fox (NR) | **Hikonik**: Chocolate Chip Bat Dragon (NFR), Fairy Bat Dragon (NFR), Fly-A-Pet Potion, Ride-A-Pet Potion ×2, Chihuahua ×2 |
-| 05:36 | **klxchzz**: Sakura Spirit (FR) | **BIg_BoRdy**: Ride-A-Pet Potion ×6 |
-| 05:36 | **LOLEEPOPER9876**: Catte (N) | **taburetkablo**: Fly-A-Pet Potion ×2 |
-| 05:36 | **z1ooam**: Lion (FR), Hippo | **haram0909071**: Border Collie (FR) |
-| 05:36 | **EvadeCats1_2**: Peppermint Penguin (R), Royal Mistletroll, Corn Doggo (NFR), Chocolate, Chocolate Drop, Spring Bunny Feet ×2 | **Slimeswaztaken44**: Strawberry Shortcake Bat Dragon (FR) |
-| 05:36 | **blushbyelle**: Dalmatian (NFR), Arctic Fox, Arctic Dusk Dragon (FR), Pancake Stack, Fly-A-Pet Potion ×3 | **vikatopchik_00**: Strawberry Shortcake Bat Dragon (NFR), Chocolate Chip Bat Dragon (FR) |
-| 05:36 | **Arsha_13**: Ride-A-Pet Potion | **ItzSilvia_Latte**: Crystal Egg ×15 |
-| 05:36 | **hedalreadyseenmynunu**: Frostbite Cub (MR) | **imac_1425**: Pupcicle (M) |
-| 05:36 | **st1assda**: Arctic Reindeer (FR), Lion Cub (R), Cattuccino (MFR) | **Xxbubble_lia**: Strawberry Shortcake Bat Dragon (FR), Tortoiseshell Guinea Pig (R) |
-| 05:36 | **Gonzpro5858**: Dalmatian (FR), Hedgehog (FR), Fly-A-Pet Potion ×2 | **hatsholi**: Owl (FR) |
-| 05:36 | **ayalinaaxxx**: Tilcayo, Unicorn Backpack | **MelodyMoonPlay**: Turtle (FR) |
-| 05:36 | **P3RPLEONYT**: Sandwich Hat | **MelodyMoonPlay**: Fly-A-Pet Potion |
-| 05:36 | **DrendyRobLox**: Crystal Egg ×15 | **Arsha_13**: Ride-A-Pet Potion |
-| 05:36 | **Nanax_8907**: Flash Weasel | **Lizzosugai**: Sakura Spirit |
 
 ## Elvebredd value changes: 63,393 since 2023-09-16
 
